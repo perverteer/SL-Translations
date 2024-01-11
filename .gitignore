@@ -1,0 +1,11 @@
+.DS_Store
+*.txt
+*.pdf
+*.rpyc
+*.bak
+# game/tl
+project.json
+.debris
+.vscode
+None/common.rpymc
+None/common.rpym
