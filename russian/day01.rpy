@@ -1348,3 +1348,17 @@ translate russian strings:
     old "What is the name of the oldest girl?"
     new "Как зовут самую старшую девочку?"
 
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day01.rpy:267
+translate russian day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "Что?"
+
+# game/day01.rpy:269
+translate russian day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "ОСТАВЬ МЕНЯ ОДНУ, [p_name]! Ты сумасшедший?!"
+

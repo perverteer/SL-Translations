@@ -5640,4 +5640,11 @@ translate russian day32_p_room_scene_5fb57633:
 translate russian day32_p_room_scene_6b22c18c:
 
     # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
-    "{i}После короткого момента замешательства вы регистрируете человека, сидящего на стуле рядом с вашей кроватью."
+    "{i}После короткого момента замешательства вы регистрируете человека, сидящего на стуле рядом с вашей кроватью."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day32.rpy:913
+translate russian day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Очень уставший, ты падаешь на свой матрас, надеясь поспать."
+

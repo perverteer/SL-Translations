@@ -186,3 +186,35 @@ translate russian strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Нажмите {i}\"Enter\"{/i} на экранной клавиатуре для подтверждения."
 
+# TODO: Translation updated at 2024-11-17 22:06
+
+translate russian strings:
+
+    # game/script.rpy:58
+    old "Max"
+    new "Макс"
+
+    # game/script.rpy:62
+    old "Bella"
+    new "Белла"
+
+    # game/script.rpy:66
+    old "Liza"
+    new "Лайза"
+
+    # game/script.rpy:70
+    old "Rachel"
+    new "Рейчел"
+
+    # game/script.rpy:74
+    old "Susan"
+    new "Сьюзан"
+
+    # game/script.rpy:630
+    old "Pregnancies"
+    new "Беременность"
+
+    # game/script.rpy:637
+    old "Who's pregnant in this scene?"
+    new "Кто беременна в этой сцене?"
+

@@ -4778,3 +4778,35 @@ translate russian b_relationship_hard_drive_choices_e8f0e434:
     # p "{i}(...)"
     p "{i}(...)"
 
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day11.rpy:1191
+translate russian day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "Давай пообнимаемся и ляжем спать вместе!"
+
+# game/day11.rpy:1192
+translate russian day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Хорошая идея."
+
+# game/day11.rpy:1195
+translate russian day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Ты ложишься спать рядом со своей голой сестрой. Твой всё ещё немного твёрдый дружок упирается в неё, но, похоже, она не обращает на это внимания, судя по её тихому сопению."
+
+# game/day11.rpy:1197
+translate russian day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Ты ложишься спать рядом с [r_name]. Твой всё ещё немного твёрдый дружок упирается в неё, но, похоже, она не обращает на это внимания, судя по её тихому сопению."
+
+# game/day11.rpy:1202
+translate russian day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Коснувшись подушки, ты сразу засыпаешь."
+

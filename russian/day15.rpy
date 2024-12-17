@@ -4297,3 +4297,827 @@ translate russian day15_blackmail_ef11b549:
 
     # "{i}With all of her strength, [b_name] clasps arms around your neck. Four of your fingers are still inside of her dripping pussy, and you keep massaging her clit with your thumb as she orgasms violently."
     "{i}Со всей своей силой [b_name] обхватывает руками вашу шею Четыре ваших пальца все еще находятся внутри ее капающей киски, и вы продолжаете массировать ее клитор большим пальцем, пока она бурно оргазмирует."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day15.rpy:922
+translate russian day15_restaurant_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day15.rpy:926
+translate russian day15_restaurant_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day15.rpy:929
+translate russian day15_restaurant_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day15.rpy:936
+translate russian day15_restaurant_b_sex_2d537d7c:
+
+    # "{i}While you are speaking with your other family members, your hand moves under the table and rests on [b_name]'s left thigh."
+    "{i}Пока ты разговариваешь с другими членами семьи, твоя рука проходит под столом и ложится на левое бедро [b_name]."
+
+# game/day15.rpy:938
+translate russian day15_restaurant_b_sex_9ed0e1fe:
+
+    # "{i}While you are speaking with everyone else, your hand moves under the table and rests on [b_name]'s left thigh."
+    "{i}Пока ты разговариваешь с остальными, твоя рука проходит под столом и ложится на левое бедро [b_name]."
+
+# game/day15.rpy:939
+translate russian day15_restaurant_b_sex_6ef371a5:
+
+    # l "Don't be so blue, [b_name]."
+    l "Не будь такой грустной, [b_name]."
+
+# game/day15.rpy:940
+translate russian day15_restaurant_b_sex_52dcef3c:
+
+    # b "I..."
+    b "Я..."
+
+# game/day15.rpy:942
+translate russian day15_restaurant_b_sex_635bc3d8:
+
+    # "{i}[b_name] seems to anticipate what you're trying to do and tries to keep her legs together. With a little pressure, you force your sister's legs apart."
+    "{i}[b_name], кажется, предвкушает то, что ты пытаешься сделать, и пытается держать ноги вместе. С небольшим давлением ты раздвигаешь ноги своей сестры."
+
+# game/day15.rpy:944
+translate russian day15_restaurant_b_sex_adfa16f9:
+
+    # "{i}[b_name] seems to anticipate what you're trying to do and tries to keep her legs together. With a little pressure, you force her legs apart."
+    "{i}[b_name], кажется, предвкушает то, что ты пытаешься сделать, и пытается держать ноги вместе. С небольшим давлением ты раздвигаешь ее ноги."
+
+# game/day15.rpy:946
+translate russian day15_restaurant_b_sex_8a00b0fb:
+
+    # m "It's great out here, the beach is beautiful."
+    m "Здесь здорово, пляж красивый."
+
+# game/day15.rpy:947
+translate russian day15_restaurant_b_sex_b9b7df5a:
+
+    # r "You haven't even gone for a dip in the ocean yet."
+    r "Ты еще даже не искупалась в океане."
+
+# game/day15.rpy:949
+translate russian day15_restaurant_b_sex_920ba856:
+
+    # "{i}You stroke the inside of her thighs near her pussy. You feel [b_name] shivering and goosebumps appear on her skin."
+    "{i}Ты гладишь внутреннюю часть ее бедер рядом с ее киской. Ты чувствуешь, как [b_name] дрожит, и по ее коже бегут мурашки."
+
+# game/day15.rpy:951
+translate russian day15_restaurant_b_sex_e3723195:
+
+    # p "{i}(Looks like sis is also up for some fun.)"
+    p "{i}(Похоже, сестренка тоже хочет повеселиться.)"
+
+# game/day15.rpy:953
+translate russian day15_restaurant_b_sex_9979ba25:
+
+    # p "{i}(Looks like [b_name] is also up for some fun.)"
+    p "{i}(Похоже, [b_name] тоже хочет повеселиться.)"
+
+# game/day15.rpy:955
+translate russian day15_restaurant_b_sex_bd0caf4b:
+
+    # l "I haven't even been to the beach yet, but I will tomorrow. The village is lovely, isn't it, [p_name]?"
+    l "Я еще даже на пляже не была, но завтра пойду. Деревня прекрасна, не правда ли, [p_name]?"
+
+# game/day15.rpy:956
+translate russian day15_restaurant_b_sex_b55d89d3:
+
+    # p "Yes, it's very quaint."
+    p "Да, тут очень необычно."
+
+# game/day15.rpy:961
+translate russian day15_restaurant_b_sex_9946ee0b:
+
+    # "{i}Nobody but you notices [b_name]'s small gasp when you press your fingers against her vagina. You feel the warmth of her skin through the thin fabric of her bikini bottom."
+    "{i}Никто, кроме тебя, не замечает легкого вздоха [b_name], когда ты прижимаешь пальцы к ее влагалищу. Ты чувствуешь тепло ее кожи через тонкую ткань ее бикини."
+
+# game/day15.rpy:962
+translate russian day15_restaurant_b_sex_38390240:
+
+    # l "So apart from the beach, there must be some cultural stuff we could explore?"
+    l "Значит, помимо пляжа, здесь должно быть и что-то культурное, что мы могли бы изучить?"
+
+# game/day15.rpy:963
+translate russian day15_restaurant_b_sex_1dadbc0b:
+
+    # m "I think there's a little museum about the history of the island in the town center."
+    m "Думаю, в центре города есть небольшой музей истории острова."
+
+# game/day15.rpy:964
+translate russian day15_restaurant_b_sex_7e020b79:
+
+    # r "Yawn!"
+    r "Да нет!"
+
+# game/day15.rpy:968
+translate russian day15_restaurant_b_sex_f0817189:
+
+    # "{i}You move your hand a bit higher and playfully touch the skin just above her sex. Steadily you lower your hand and notice that [b_name] is holding her breath in anticipation."
+    "{i}Ты поднимаешь руку немного выше и игриво касаешься кожи чуть выше ее киски. Ты медленно опускаешь руку и замечаешь, что [b_name] в ожидании задерживает дыхание."
+
+# game/day15.rpy:970
+translate russian day15_restaurant_b_sex_57ca4e24:
+
+    # "{i}She exhales as soon as your fingers enter her bikini bottom and you softly stroke her mound."
+    "{i}Она выдыхает, как только твои пальцы входят в ее нижнюю часть купальника и ты нежно поглаживаешь ее клитор."
+
+# game/day15.rpy:971
+translate russian day15_restaurant_b_sex_7855696f:
+
+    # "{i}One of her hands is grasping your knee with some force. Whether this is to encourage or to stop you is unclear."
+    "{i}Одна из ее рук с некоторой силой сжимает твое колено. Неясно, должно ли это тебя ободрить или остановить."
+
+# game/day15.rpy:972
+translate russian day15_restaurant_b_sex_94b60cdf:
+
+    # "{i}You move further down and touch the lips of her pussy."
+    "{i}Ты двигаешься дальше вниз и касаешься губ ее киски."
+
+# game/day15.rpy:974
+translate russian day15_restaurant_b_sex_507a766b:
+
+    # m "It could be very interesting. Learning about other cultures is important, [r_name]."
+    m "Это было бы очень интересно. Важно знать о других культурах, [r_name]."
+
+# game/day15.rpy:975
+translate russian day15_restaurant_b_sex_3b91163f:
+
+    # r "That sounds too much like college."
+    r "Звучит слишком похоже на колледж."
+
+# game/day15.rpy:977
+translate russian day15_restaurant_b_sex_d4656f7b:
+
+    # "{i}As soon as you start playing with her labia, caressing them with your fingers, your sister has a hard time not squirming under your touch."
+    "{i}Как только ты начинаешь играть с ее половыми губами, лаская их пальцами, твоей сестре становится трудно не извиваться от прикосновений."
+
+# game/day15.rpy:979
+translate russian day15_restaurant_b_sex_954661e9:
+
+    # "{i}As soon as you start playing with her labia, caressing them with your fingers, [b_name] has a hard time not squirming under your touch."
+    "{i}Как только ты начинаешь играть с ее половыми губами, лаская их пальцами, [b_name] становится трудно не извиваться от прикосновений."
+
+# game/day15.rpy:980
+translate russian day15_restaurant_b_sex_96b0ea53:
+
+    # p "Belugio seems like an interesting country, I wouldn't mind learning something more about it."
+    p "Беллуджио кажется интересной страной, я был бы не против узнать о ней что-нибудь побольше."
+
+# game/day15.rpy:983
+translate russian day15_restaurant_b_sex_a6633c70:
+
+    # "{i}Your sister is still clawing at your knee, while your fingers circle around her clitoris. You feel that her juices have completely soaked the front of her bikini bottom."
+    "{i}Твоя сестра все еще царапает твое колено, а твои пальцы охватывают ее клитор. Ты чувствуешь, что ее сок полностью пропитал переднюю часть ее бикини."
+
+# game/day15.rpy:985
+translate russian day15_restaurant_b_sex_fb3a4ee1:
+
+    # "{i}[b_name] is still clawing at your knee, while your fingers circle around her clitoris. You feel that her juices have completely soaked the front of her bikini bottom."
+    "{i}[b_name] все еще царапает твое колено, а твои пальцы охватывают ее клитор. Ты чувствуешь, что ее сок полностью пропитал переднюю часть ее бикини."
+
+# game/day15.rpy:987
+translate russian day15_restaurant_b_sex_f79e67d0:
+
+    # l "Are you all right, [b_name]?"
+    l "Все в порядке, [b_name]?"
+
+# game/day15.rpy:988
+translate russian day15_restaurant_b_sex_2a52028c:
+
+    # b "W-h-what?"
+    b "Ч-ч-что?"
+
+# game/day15.rpy:989
+translate russian day15_restaurant_b_sex_5c642762:
+
+    # b "Y-yes. I'm fine. T-there was too mmmuch pepper on that pizza."
+    b "Д-да. Я в порядке. Просто попалось многовато перца."
+
+# game/day15.rpy:994
+translate russian day15_restaurant_b_sex_e92eab45:
+
+    # "{i}With all the attention centered on you, you decide to stop fingering her."
+    "{i}Когда все внимание сосредотачивается на вас двоих, ты решаешь прекратить трогать ее."
+
+# game/day15.rpy:995
+translate russian day15_restaurant_b_sex_8f986d9e:
+
+    # b "I'm going to get a glass of water."
+    b "Я выпью стакан воды."
+
+# game/day15.rpy:997
+translate russian day15_restaurant_b_sex_78265ed8:
+
+    # "{i}[b_name] suddenly stands and walks away from the table. You notice she's trying to cover the wet stain on her bikini bottom."
+    "{i}[b_name] внезапно встает и уходит от стола. Ты замечаешь, что она пытается скрыть мокрое пятно на нижнем белье бикини."
+
+# game/day15.rpy:998
+translate russian day15_restaurant_b_sex_11831365:
+
+    # m "Is she okay?"
+    m "Она точно в порядке?"
+
+# game/day15.rpy:999
+translate russian day15_restaurant_b_sex_88c4a7f6:
+
+    # l "She looked very flushed."
+    l "Она выглядела очень покрасневшей."
+
+# game/day15.rpy:1000
+translate russian day15_restaurant_b_sex_701064f8:
+
+    # p "I'll have a look to see if she's all right."
+    p "Я посмотрю, в порядке ли она."
+
+# game/day15.rpy:1011
+translate russian day15_restaurant_b_sex_eb4a1551:
+
+    # "{i}You enter the restroom and look for your sister."
+    "{i}Ты заходишь в туалет и ищешь свою сестру."
+
+# game/day15.rpy:1013
+translate russian day15_restaurant_b_sex_e0e77af2:
+
+    # "{i}You enter the restroom and look for [b_name]."
+    "{i}Ты заходишь в туалет и ищешь [b_name]."
+
+# game/day15.rpy:1014
+translate russian day15_restaurant_b_sex_c1930656:
+
+    # "{i}Suddenly you're startled by what sounded like a soft moan."
+    "{i}Внезапно ты вздрагиваешь от того, что звучит, как тихий стон."
+
+# game/day15.rpy:1015
+translate russian day15_restaurant_b_sex_ab5c9499:
+
+    # p "{i}(I think it came from over there.)"
+    p "{i}(Я думаю, что это доносится оттуда.)"
+
+# game/day15.rpy:1019
+translate russian day15_restaurant_b_sex_de0be487:
+
+    # p "Do you need some help, sis?"
+    p "Тебе нужна помощь, сестренка?"
+
+# game/day15.rpy:1021
+translate russian day15_restaurant_b_sex_67af6f9c:
+
+    # p "Do you need some help, [b_name]?"
+    p "Тебе нужна помощь, [b_name]?"
+
+# game/day15.rpy:1024
+translate russian day15_restaurant_b_sex_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Аааааааахххх!"
+
+# game/day15.rpy:1026
+translate russian day15_restaurant_b_sex_19f173a3:
+
+    # b "G-go a-awwway! Aaaaaah!"
+    b "У-у-уходи! Ааааххх!"
+
+# game/day15.rpy:1027
+translate russian day15_restaurant_b_sex_3ec49d61:
+
+    # p "{i}(I think she's close.)"
+    p "{i}(Думаю, она близко.)"
+
+# game/day15.rpy:1029
+translate russian day15_restaurant_b_sex_4fe6616c:
+
+    # "{i}You move in the stall with [b_name] and push her hand away. [b_name] doesn't protest as you continue her gyrating motions with your own hand."
+    "{i}Ты заходишь к [b_name] и отталкиваешь ее руку. [b_name] не протестует, когда ты продолжаешь начатые ей круговые движения уже своей рукой."
+
+# game/day15.rpy:1030
+translate russian day15_restaurant_b_sex_a313c966:
+
+    # p "You didn't think you were going to cum without me, did you?"
+    p "Ты же не думала, что кончишь без меня, не так ли?"
+
+# game/day15.rpy:1031
+translate russian day15_restaurant_b_sex_cd8ccdf2:
+
+    # b "Please! I need it so badly!"
+    b "Пожалуйста! Я так сильно хочу этого!"
+
+# game/day15.rpy:1033
+translate russian day15_restaurant_b_sex_0221946c:
+
+    # p "Would you have screamed like a little slut if I'd made you cum in front of our family?"
+    p "Ты бы закричала, как маленькая шлюшка, если бы я заставил тебя кончить на глазах у нашей семьи?"
+
+# game/day15.rpy:1035
+translate russian day15_restaurant_b_sex_27701185:
+
+    # p "Would you have screamed like a little slut if I'd made you cum in front of your friends?"
+    p "Ты бы закричала, как маленькая шлюшка, если бы я заставил тебя кончить на глазах у наших друзей?"
+
+# game/day15.rpy:1036
+translate russian day15_restaurant_b_sex_585e97f0:
+
+    # b "Yessss! Aaaaaaaah! I'm going to..."
+    b "Дааа! Аааахххх! Я уже..."
+
+# game/day15.rpy:1043
+translate russian day15_restaurant_b_sex_ef11b549:
+
+    # "{i}With all of her strength, [b_name] clasps arms around your neck. Four of your fingers are still inside of her dripping pussy, and you keep massaging her clit with your thumb as she orgasms violently."
+    "{i}[b_name] изо всех сил обнимает тебя за шею. Четыре твоих пальца все еще находятся внутри ее мокрой киски, и ты продолжаешь массировать ее клитор большим пальцем, пока она бурно кончает."
+
+# game/day15.rpy:1044
+translate russian day15_restaurant_b_sex_684436d3:
+
+    # b "Aaaaah! Fuck!!!"
+    b "Ааааах!!! Блять!"
+
+# game/day15.rpy:1046
+translate russian day15_restaurant_b_sex_1c1cfdb2:
+
+    # "{i}Your sister's climax is long and intense. You feel her warm breath against your ear and hear her ragged breathing as she shudders against your body in the last throes of her orgasm."
+    "{i}Кульминация твоей сестры долгая и интенсивная. Ты слышишь и чувствуешь ее теплое и прерывистое дыхание у своего уха, когда она содрогается в последних порывах оргазма."
+
+# game/day15.rpy:1048
+translate russian day15_restaurant_b_sex_d364ca11:
+
+    # "{i}[b_name]'s climax is long and intense. You feel her warm breath against your ear and hear her ragged breathing as she shudders against your body in the last throes of her orgasm."
+    "{i}Кульминация [b_name] долгая и интенсивная. Ты слышишь и чувствуешь ее теплое и прерывистое дыхание у своего уха, когда она содрогается в последних порывах оргазма."
+
+# game/day15.rpy:1053
+translate russian day15_restaurant_b_sex_5e1c78b5:
+
+    # p "Let's enjoy the rest of our dinner."
+    p "Давай насладимся остатком нашего ужина."
+
+# game/day15.rpy:1055
+translate russian day15_restaurant_b_sex_5dfa3a1f:
+
+    # b "I'm not sure I can even walk..."
+    b "Не уверена, что я смогу идти вообще..."
+
+# game/day15.rpy:1057
+translate russian day15_restaurant_b_sex_d26d47b8:
+
+    # b "Fuck you! I'm not sure I can even walk..."
+    b "Пошел ты нахуй! Я не уверена, что вообще смогу идти..."
+
+# game/day15.rpy:1060
+translate russian day15_restaurant_b_sex_26651f21:
+
+    # m "Everything okay, dear?"
+    m "Все хорошо, дорогая?"
+
+# game/day15.rpy:1061
+translate russian day15_restaurant_b_sex_75a0df97:
+
+    # b "Yes. I'm fine now."
+    b "Да. Я в порядке теперь."
+
+# game/day15.rpy:1062
+translate russian day15_restaurant_b_sex_77bd2f24:
+
+    # l "What happened?"
+    l "Что случилось?"
+
+# game/day15.rpy:1063
+translate russian day15_restaurant_b_sex_5c559bd0:
+
+    # b "Nothing, the pizza was just too spicy. It's all good now."
+    b "Ничего, просто пицца оказалась слишком острой Теперь все хорошо."
+
+# game/day15.rpy:1064
+translate russian day15_restaurant_b_sex_65764ef6:
+
+    # p "Must have been my magic touch."
+    p "Наверное, я вылечил ее волшебным прикосновением."
+
+# game/day15.rpy:1081
+translate russian day15_r_licking_0fb14244:
+
+    # r "You're finally here!"
+    r "Ты, наконец-то, здесь!"
+
+# game/day15.rpy:1082
+translate russian day15_r_licking_29f6126b:
+
+    # p "I had to wait for the others to fall asleep."
+    p "Мне пришлось ждать, пока остальные уснут."
+
+# game/day15.rpy:1083
+translate russian day15_r_licking_559e1462:
+
+    # r "Give me a kiss! A long one!"
+    r "Я хочу поцелуй! Долгий!"
+
+# game/day15.rpy:1086
+translate russian day15_r_licking_0e0d34d3:
+
+    # "{i}You rush over and give [r_name] a passionate kiss. Her tongue eagerly seeks yours, and you can't help but touch your sister's small breasts in the heat of the moment. [r_name] gasps at your touch and embraces you tightly."
+    "{i}Вы бросаетесь к ней и дарите [r_name] страстный поцелуй Ее язык жадно ищет ваш, и вы не можете удержаться, чтобы не коснуться маленькой груди вашей сестры в пылу момента [r_name] задыхается от вашего прикосновения и крепко обнимает вас."
+
+# game/day15.rpy:1088
+translate russian day15_r_licking_d9a8ccdb:
+
+    # "{i}You rush over and give [r_name] a passionate kiss. Her tongue eagerly seeks yours and you can't help but touch her small breasts in the heat of the moment. [r_name] gasps at your touch and embraces you tightly."
+    "{i}Вы бросаетесь к ней и дарите [r_name] страстный поцелуй Ее язык жадно ищет ваш, и вы не можете удержаться, чтобы не коснуться ее маленькой груди в пылу момента [r_name] задыхается от вашего прикосновения и крепко обнимает вас."
+
+# game/day15.rpy:1089
+translate russian day15_r_licking_6497c849:
+
+    # r "This feels so good, to be together again. I'm so sorry for pushing you away. I was so stupid!"
+    r "Это так хорошо - снова быть вместе. Мне очень жаль, что я оттолкнула тебя. Я была такой глупой!"
+
+# game/day15.rpy:1090
+translate russian day15_r_licking_8f18434a:
+
+    # r "Punish me if I do something that stupid again, okay?"
+    r "Накажи меня, если я снова сделаю такую глупость, хорошо?"
+
+# game/day15.rpy:1091
+translate russian day15_r_licking_300d5faf:
+
+    # p "Are you asking me to spank you?"
+    p "Ты просишь меня отшлепать тебя?"
+
+# game/day15.rpy:1092
+translate russian day15_r_licking_d77f86cf:
+
+    # r "You're such a naughty boy."
+    r "Ты такой плохой мальчик."
+
+# game/day15.rpy:1093
+translate russian day15_r_licking_1418274b:
+
+    # p "No, you asked for it!"
+    p "Нет, это ты об этом попросила!"
+
+# game/day15.rpy:1103
+translate russian day15_r_licking_8589d79b:
+
+    # "{i}You pull your giggling sister on your lap and give her buttocks a very light spanking."
+    "{i}Ты кладешь хихикающую сестру себе на колени и легонько шлепаешь ее по ягодицам."
+
+# game/day15.rpy:1105
+translate russian day15_r_licking_79731387:
+
+    # "{i}You pull a giggling [r_name] on your lap and give her buttocks a very light spanking."
+    "{i}Ты кладешь хихикающую [r_name] себе на колени и легонько шлепаешь ее по ягодицам."
+
+# game/day15.rpy:1107
+translate russian day15_r_licking_82145657:
+
+    # p "Promise you won't do that ever again!"
+    p "Обещай, что это больше не повторится!"
+
+# game/day15.rpy:1108
+translate russian day15_r_licking_df53fd40:
+
+    # r "Hahaha! I promise! Mercy!"
+    r "Ахахах! Я обещаю! Спасибо!"
+
+# game/day15.rpy:1109
+translate russian day15_r_licking_120238af:
+
+    # p "Good. I think you have been sufficiently punished."
+    p "Хорошо. Я думаю, ты достаточно наказана."
+
+# game/day15.rpy:1111
+translate russian day15_r_licking_229c7053:
+
+    # r "Good!"
+    r "Хорошо!"
+
+# game/day15.rpy:1112
+translate russian day15_r_licking_91e77cae:
+
+    # r "But now that I'm a good girl again, don't I get a reward?"
+    r "Но теперь, когда я снова хорошая девочка, разве я не получу награду?"
+
+# game/day15.rpy:1113
+translate russian day15_r_licking_be1a8c29:
+
+    # p "A reward? For what?"
+    p "Награду? За что?"
+
+# game/day15.rpy:1115
+translate russian day15_r_licking_33f5cbf3:
+
+    # r "A reward for being your super cute sister, for example."
+    r "Награду за то, что я, например, супер милая сестра."
+
+# game/day15.rpy:1117
+translate russian day15_r_licking_a1c66895:
+
+    # r "A reward for being super cute, for example."
+    r "Награду за то, что я, например, супер милая."
+
+# game/day15.rpy:1118
+translate russian day15_r_licking_556c7b8e:
+
+    # p "Good point."
+    p "Неплохо."
+
+# game/day15.rpy:1119
+translate russian day15_r_licking_d6f44164:
+
+    # p "Let me kiss your cute body then."
+    p "Тогда позволь мне поцеловать твое милое тело."
+
+# game/day15.rpy:1124
+translate russian day15_r_licking_a7516fec:
+
+    # p "First your perfect breasts. Those freckled beauties."
+    p "Сначала твою прекрасную грудь. Этих веснушчатых красавиц."
+
+# game/day15.rpy:1125
+translate russian day15_r_licking_e6147639:
+
+    # r "Mmmmm."
+    r "Ммммм."
+
+# game/day15.rpy:1127
+translate russian day15_r_licking_5cfe63c0:
+
+    # p "Let's not forget those soft nipples."
+    p "Не будем забывать об этих мягких сосках."
+
+# game/day15.rpy:1128
+translate russian day15_r_licking_8369d944:
+
+    # r "Oooh! They're so sensitive."
+    r "Оооу! Они такие чувствительные."
+
+# game/day15.rpy:1129
+translate russian day15_r_licking_753b7519:
+
+    # "{i}You move down and leave a trail of kisses from her breasts to the underside of her belly."
+    "{i}Ты спускаетешься вниз и оставляешь след поцелуев от ее груди до нижней части ее живота."
+
+# game/day15.rpy:1130
+translate russian day15_r_licking_5a634af0:
+
+    # p "Your thighs need proper attention as well."
+    p "Твои бедра тоже нуждаются в должном внимании."
+
+# game/day15.rpy:1131
+translate russian day15_r_licking_b352e2a4:
+
+    # r "Are you going to kiss me there, [p_name]?"
+    r "Ты собираешься поцеловать меня там, [p_name]?"
+
+# game/day15.rpy:1132
+translate russian day15_r_licking_7a8400a2:
+
+    # "{i}[r_name] seems almost out of breath when she asks you, her voice filled with anticipation."
+    "{i}[r_name] кажется почти запыхавшейся, когда она спрашивает тебя об этом, ее голос полон нетерпения."
+
+# game/day15.rpy:1133
+translate russian day15_r_licking_d8a3ffd9:
+
+    # p "Of course."
+    p "Конечно."
+
+# game/day15.rpy:1134
+translate russian day15_r_licking_28c375e9:
+
+    # p "{i}(And then I'm going to surprise her.)"
+    p "{i}(А потом я ее удивлю.)"
+
+# game/day15.rpy:1137
+translate russian day15_r_licking_59de8410:
+
+    # "{i}As you kiss the soft flesh of your sister's thighs, you can smell the slight musk of her sex."
+    "{i}Когда ты целуешь мягкую плоть бедер сестры, ты чувствуешь легкий мускус ее киски."
+
+# game/day15.rpy:1139
+translate russian day15_r_licking_a7162676:
+
+    # "{i}As you kiss the soft flesh of her thighs, you can smell the slight musk of her sex."
+    "{i}Когда ты целуешь мягкую плоть ее бедер, ты чувствуешь легкий мускус ее киски"
+
+# game/day15.rpy:1140
+translate russian day15_r_licking_02730608:
+
+    # p "{i}(And now for the surprise...)"
+    p "{i}(И теперь к сюрпризу...)"
+
+# game/day15.rpy:1141
+translate russian day15_r_licking_6cef3773:
+
+    # "{i}[r_name] is clearly still enjoying the kissing of her thighs while you gently push her legs further apart. Her tight pussy is now fully revealed."
+    "{i}[r_name] явно все еще наслаждается поцелуями ее бедер, в то время как ты нежно раздвигаешь ее ноги дальше друг от друга. Ее тугая киска теперь полностью раскрыта."
+
+# game/day15.rpy:1144
+translate russian day15_r_licking_1088e6a1:
+
+    # "{i}Without hesitation you move to her pussy. The sudden touch of your lips on her pussy lips sends a shockwave through your sister's body."
+    "{i}Не долго думая, ты переходишь к ее киске. Внезапное прикосновение твоих губ к ее половым губам посылает ударную волну по телу твоей сестры."
+
+# game/day15.rpy:1146
+translate russian day15_r_licking_7ff3ab5e:
+
+    # "{i}Without hesitation you move to her pussy. The sudden touch of your lips on her pussy lips sends a shockwave through her body."
+    "{i}Не долго думая, ты переходишь к ее киске. Внезапное прикосновение твоих губ к ее половым губам посылает ударную волну по ее телу."
+
+# game/day15.rpy:1147
+translate russian day15_r_licking_bbf12726:
+
+    # r "W-w-what are you doing, [p_name]?"
+    r "Ч-ч-что ты делаешь, [p_name]?"
+
+# game/day15.rpy:1148
+translate russian day15_r_licking_96aa8b84:
+
+    # p "Should I stop?"
+    p "Мне остановиться?"
+
+# game/day15.rpy:1149
+translate russian day15_r_licking_fcdf87f0:
+
+    # r "No no... It's just that I've never had a boy go down on me like that before."
+    r "Нет, нет... Просто у меня никогда раньше не было парней, которые так давили на меня."
+
+# game/day15.rpy:1150
+translate russian day15_r_licking_abcffc36:
+
+    # p "Just relax and enjoy."
+    p "Просто расслабься и получай удовольствие."
+
+# game/day15.rpy:1155
+translate russian day15_r_licking_fcbc7dda:
+
+    # "{i}You run your tongue slowly along her pussy lips and get a first taste of her juices."
+    "{i}Ты медленно проводишь языком по ее половым губам и впервые пробуешь ее сок."
+
+# game/day15.rpy:1156
+translate russian day15_r_licking_a6c4fdcc:
+
+    # r "Ooooooh, God, [p_name]!"
+    r "О боооооже, [p_name]!"
+
+# game/day15.rpy:1157
+translate russian day15_r_licking_f27e7169:
+
+    # "{i}Encouraged by her soft moans you focus your attention fully on her pussy and lick her moist lips."
+    "{i}Воодушевленный ее мягкими стонами, ты полностью сосредотачиваешь свое внимание на ее киске и облизываешь ее влажные губы."
+
+# game/day15.rpy:1159
+translate russian day15_r_licking_f9c3ce63:
+
+    # r "Keep going, [p_name], please!"
+    r "Продолжай, [p_name], прошу!"
+
+# game/day15.rpy:1160
+translate russian day15_r_licking_c07be34b:
+
+    # p "Does it feel good, [r_name]?"
+    p "Ты хорошо себя чувствуешь, [r_name]?"
+
+# game/day15.rpy:1161
+translate russian day15_r_licking_f3630a90:
+
+    # r "Y-y-yesss! It's so much better than using your fingers."
+    r "Д-д-дааа! Это намного лучше пальцев!"
+
+# game/day15.rpy:1163
+translate russian day15_r_licking_e4078f14:
+
+    # "{i}After a soft start you quicken your tongue movements and get into a steady rhythm. Then you teasingly penetrate your sister's vagina with the tip of your tongue."
+    "{i}После мягкого старта ты ускоряешь движения языком и входишь в устойчивый ритм. Затем ты дразняще проникаешь во влагалище сестры кончиком языка."
+
+# game/day15.rpy:1165
+translate russian day15_r_licking_7d967691:
+
+    # "{i}After a soft start you quicken your tongue movements and get into a steady rhythm. Then you teasingly penetrate her vagina with the tip of your tongue."
+    "{i}После мягкого старта ты ускоряешь движения языком и входишь в устойчивый ритм. Затем ты дразняще проникаешь в ее влагалище кончиком языка."
+
+# game/day15.rpy:1167
+translate russian day15_r_licking_2cc1569b:
+
+    # r "Mmmmm. I'm so wet, [p_name]. Aaaaah."
+    r "Ммммм. Я такая влажная, [p_name]. Аааахх."
+
+# game/day15.rpy:1168
+translate russian day15_r_licking_e4f86125:
+
+    # "{i}[r_name]'s clitoris beckons and you intensify your attention on her little pearl."
+    "{i}Клитор [r_name] манит, и ты усиливаешь внимание на ее маленькой жемчужине."
+
+# game/day15.rpy:1169
+translate russian day15_r_licking_bff9574e:
+
+    # r "Yes, [p_name], right there. Keep going! Keep going!"
+    r "Да, [p_name], прямо здесь. Продолжай! Продолжай!"
+
+# game/day15.rpy:1171
+translate russian day15_r_licking_f8c8b2a5:
+
+    # "{i}All of your sister's muscles tighten in anticipation of a glorious release. [r_name] wriggles her lower body to position her pussy optimally beneath your lapping tongue."
+    "{i}Все мускулы твоей сестры напрягаются в ожидании великолепного освобождения. [r_name] изгибает нижнюю часть тела, чтобы оптимально расположить свою киску под твоим языком."
+
+# game/day15.rpy:1173
+translate russian day15_r_licking_db796e7a:
+
+    # "{i}All of [r_name]'s muscles tighten in anticipation of a glorious release. She wriggles her lower body to position her pussy optimally beneath your lapping tongue."
+    "{i}Все мускулы [r_name] напрягаются в ожидании великолепного освобождения. Она изгибает нижнюю часть тела, чтобы оптимально расположить свою киску под твоим языком."
+
+# game/day15.rpy:1174
+translate russian day15_r_licking_79a8d09d:
+
+    # r "Oh God, Oooh, [p_name], I'm about to..."
+    r "О боже, ооооххх, [p_name], я почти..."
+
+# game/day15.rpy:1181
+translate russian day15_r_licking_e4e95425:
+
+    # r "C-c-cuuuummmmmm!!!"
+    r "Кончаююююю!!!"
+
+# game/day15.rpy:1182
+translate russian day15_r_licking_a6a6ed04:
+
+    # "{i}[r_name] shudders and moans with abandon. You keep licking her clit to ensure her orgasm seems to last forever. When her convulsions subside, you kiss her pussy and lie next to her."
+    "{i}[r_name] вздрагивает и стонет с преданностью Вы продолжаете лизать ее клитор, чтобы ее оргазм, казалось, длился вечно Когда ее конвульсии стихают, вы целуете ее киску и ложитесь рядом с ней."# TODO: Translation updated at 2023-07-06 13:39
+
+# game/day15.rpy:1188
+translate russian day15_r_licking_5658ed48:
+
+    # r "That was... It was... You were great!"
+    r "Это... это было... ты просто потрясающий!"
+
+# game/day15.rpy:1189
+translate russian day15_r_licking_5dafe078:
+
+    # p "Your first time?"
+    p "Твой первый раз?"
+
+# game/day15.rpy:1190
+translate russian day15_r_licking_ea419ffe:
+
+    # r "Yes. Unfortunately."
+    r "Да. К несчастью."
+
+# game/day15.rpy:1191
+translate russian day15_r_licking_4eb5e8a6:
+
+    # r "Alina wanted to do it with me last time we had a sleepover."
+    r "Алина хотела сделать это со мной в прошлый раз, когда мы ночевали."
+
+# game/day15.rpy:1193
+translate russian day15_r_licking_ffe0d267:
+
+    # p "{i}(I knew those girls were up to something naughty!)"
+    p "{i}(Я знал, что эти девушки затевали что-то грязное!)"
+
+# game/day15.rpy:1194
+translate russian day15_r_licking_c8debd6b:
+
+    # r "But I held it off. I thought it was a bit weird to go down on someone like that."
+    r "Но я сдержалась. Я подумала, что было бы немного странно делать это с кем-то в этом роде."
+
+# game/day15.rpy:1196
+translate russian day15_r_licking_574a4f5b:
+
+    # p "It's very intimate. And you taste very good, darling little sister."
+    p "Это очень интимно. И у тебя очень хороший вкус, дорогая младшая сестренка.."
+
+# game/day15.rpy:1198
+translate russian day15_r_licking_29293bbe:
+
+    # p "It's very intimate. And you taste very good, darling little [r_name]."
+    p "Это очень интимно. И у тебя очень хороший вкус, дорогая маленькая [r_name]."
+
+# game/day15.rpy:1199
+translate russian day15_r_licking_04b0ec1c:
+
+    # r "Mmmmm. Watch out. I might get addicted to this."
+    r "Мммммм. Осторожнее. Я могла бы к этому привыкнуть."
+
+# game/day15.rpy:1200
+translate russian day15_r_licking_de3384ca:
+
+    # p "Sweet dreams, [r_name]."
+    p "Сладких снов, [r_name]."
+
+# game/day15.rpy:1201
+translate russian day15_r_licking_5961bf0b:
+
+    # r "I love you!"
+    r "Я люблю тебя!"
+
+# game/day15.rpy:1202
+translate russian day15_r_licking_22e9f436:
+
+    # p "I love you too!"
+    p "Я тоже тебя люблю!"
+

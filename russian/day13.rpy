@@ -3742,4 +3742,377 @@ translate russian day13_ana_fuck_20be3c80:
 translate russian day13_ana_fuck_51c54564:
 
     # "{i}You can penetrate her deeply because of the wetness, your dick almost to the root inside her with each thrust."
-    "{i}Ты можешь проникать в нее глубоко из-за влажности, твой член почти до самого корня входит в нее с каждым толчком."
+    "{i}Ты можешь проникать в нее глубоко из-за влажности, твой член почти до самого корня входит в нее с каждым толчком."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day13.rpy:764
+translate russian day13_evening_choices_00ea7c64:
+
+    # "{i}After a nice shower you fall asleep quickly."
+    "{i}После хорошего душа ты быстро засыпаешь."
+
+# game/day13.rpy:959
+translate russian day13_b_dildo_456d433a:
+
+    # b "Fuck no... I just woke up..."
+    b "Блять, да нет... я только проснулась..."
+
+# game/day13.rpy:960
+translate russian day13_b_dildo_29571bd4:
+
+    # p "Fuck yes! What better way to get fully awake than by inserting that shiny dildo into your wet pussy?"
+    p "Блять, да да! Разве есть способ полностью проснуться лучше, чем вставить этот блестящий фаллоимитатор в свою мокрую киску?"
+
+# game/day13.rpy:961
+translate russian day13_b_dildo_58515d49:
+
+    # b "You're a sick fucking pervert, you know that?"
+    b "Ты ебаный больной извращенец, ты знал?"
+
+# game/day13.rpy:963
+translate russian day13_b_dildo_eb37e22d:
+
+    # p "I'm not the one who's going to expose her private parts to her brother, now am I?"
+    p "Но я ведь не раздеваюсь перед своим братом, не так ли? Так кто же я?"
+
+# game/day13.rpy:965
+translate russian day13_b_dildo_f0635522:
+
+    # p "I'm not the one who's going to expose her private parts, now am I?"
+    p "Но я ведь не раздеваюсь перед  первыми встречными, не так ли? Так кто же я?"
+
+# game/day13.rpy:966
+translate russian day13_b_dildo_28b405d4:
+
+    # p "But you've given me an idea."
+    p "Но ты подкинула мне идейку."
+
+# game/day13.rpy:967
+translate russian day13_b_dildo_e7a0fb73:
+
+    # b "Oh no..."
+    b "О нет..."
+
+# game/day13.rpy:968
+translate russian day13_b_dildo_8224df03:
+
+    # p "It's only fair that if you get to enjoy yourself, I do to."
+    p "Справедливо, что если тебе удастся развлечься, я сделаю это."
+
+# game/day13.rpy:969
+translate russian day13_b_dildo_51195a8f:
+
+    # "{i}You both undress and [b_name] gets her black dildo from somewhere inside a closet."
+    "{i}Вы оба раздеваетесь, а [b_name] достает свой черный фаллоимитатор откуда-то из туалета."
+
+# game/day13.rpy:972
+translate russian day13_b_dildo_dee281fe:
+
+    # p "God, you're beautiful."
+    p "Боже, ты прекрасна."
+
+# game/day13.rpy:977
+translate russian day13_b_dildo_0ed41496:
+
+    # "{i}[b_name] slides her dildo inside her pussy. You hear her gasp. And the sound makes your dick harder than it already is."
+    "{i}[b_name] засовывает свой фаллоимитатор в свою киску. Ты слышишь ее вздох. И звук делает твой член тверже, чем он был до сих пор."
+
+# game/day13.rpy:978
+translate russian day13_b_dildo_3d16f2ad:
+
+    # p "Yes, make that thing all wet with your juices."
+    p "Да, смочи его своими соками."
+
+# game/day13.rpy:983
+translate russian day13_b_dildo_805addfe:
+
+    # "{i}When [b_name] starts to moan softly, you start masturbating. [b_name] glances at your cock with a mixture of anticipation mixed with fear."
+    "{i}Когда [b_name] начинает тихонько стонать, ты начинаешь мастурбировать. [b_name] смотрит на твой член со смесью предвкушения и страха."
+
+# game/day13.rpy:984
+translate russian day13_b_dildo_d084c8d0:
+
+    # p "Are you going to make me cum, [b_name]?"
+    p "Ты собираешься заставить меня кончить, [b_name]?"
+
+# game/day13.rpy:985
+translate russian day13_b_dildo_31ddfd60:
+
+    # b "M-m...maybe..."
+    b "М-м...может быть..."
+
+# game/day13.rpy:987
+translate russian day13_b_dildo_d1edb476:
+
+    # p "Shall I cum all over your body? My sister's beautiful body?"
+    p "Могу я кончить на твое тело? Красивое тело моей сестры?"
+
+# game/day13.rpy:989
+translate russian day13_b_dildo_de9463e2:
+
+    # p "Shall I cum all over your body, your beautiful body?"
+    p "Могу я кончить на твое прекрасное тело?"
+
+# game/day13.rpy:990
+translate russian day13_b_dildo_c220c29c:
+
+    # b "D-do whatever you like."
+    b "Д-делай, что хочешь."
+
+# game/day13.rpy:991
+translate russian day13_b_dildo_32075ab4:
+
+    # p "{i}(She's truly submitting herself to me! Time to go a bit further.)"
+    p "{i}(Она действительно подчиняется мне! Пора пойти немного дальше.)"
+
+# game/day13.rpy:997
+translate russian day13_b_dildo_17e8bdf4:
+
+    # p "I think your toy is sufficiently wet now, it'll probably slide right into that little asshole of yours."
+    p "Думаю, твоя игрушка сейчас достаточно влажная, чтобы проскользить прямо в твою маленькую задницу."
+
+# game/day13.rpy:999
+translate russian day13_b_dildo_956e4ee5:
+
+    # b "What?! You want me to put it in there?"
+    b "Что?! Ты хочешь, чтобы я..."
+
+# game/day13.rpy:1000
+translate russian day13_b_dildo_0042f8ee:
+
+    # p "Yes, come on, I'm sure you'll like it."
+    p "Да, давай. Я уверен, тебе понравится."
+
+# game/day13.rpy:1001
+translate russian day13_b_dildo_66547598:
+
+    # b "But that must hurt..."
+    b "Но это больно..."
+
+# game/day13.rpy:1002
+translate russian day13_b_dildo_9530ac2f:
+
+    # p "Not if you take it slow."
+    p "Нет, если ты будешь аккуратной и медленной."
+
+# game/day13.rpy:1008
+translate russian day13_b_dildo_20a9d900:
+
+    # "{i}With a sigh of resignation, [b_name] presses the dildo to her sphincter."
+    "{i}Со вздохом смирения [b_name] прижимает фаллоимитатор к своему сфинктеру."
+
+# game/day13.rpy:1009
+translate russian day13_b_dildo_d1c378b9:
+
+    # b "What if it's too big?"
+    b "А что если, оно слишком большое?"
+
+# game/day13.rpy:1010
+translate russian day13_b_dildo_7b0f7b80:
+
+    # p "It won't be. Just relax and take small steps."
+    p "Такого не может быть. Просто расслабься и двигайся потихоньку."
+
+# game/day13.rpy:1011
+translate russian day13_b_dildo_232069fb:
+
+    # p "{i}(It's going in!)"
+    p "{i}(Пошло!)"
+
+# game/day13.rpy:1013
+translate russian day13_b_dildo_26183717:
+
+    # "{i}Your sister visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
+    "{i}Твоя сестра явно пытается расслабиться и прижимает фаллоимитатор к ее анусу. Ее маленькое очко медленно поддается постоянному давлению, и кончик фаллоимитатора скользит внутрь."
+
+# game/day13.rpy:1015
+translate russian day13_b_dildo_8ba2fcce:
+
+    # "{i}[b_name] visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
+    "{i}[b_name] явно пытается расслабиться и прижимает фаллоимитатор к ее анусу. Ее маленькое очко медленно поддается постоянному давлению, и кончик фаллоимитатора скользит внутрь."
+
+# game/day13.rpy:1017
+translate russian day13_b_dildo_95679f05:
+
+    # b "Aaah! Aaaah! It hurts! It... Aaaah!"
+    b "Аааах! Аахххх! Больно! Это... ааахххх!"
+
+# game/day13.rpy:1018
+translate russian day13_b_dildo_bd346a68:
+
+    # "{i}With a little sigh of relief, [b_name] pushes the dildo even further in. Any sign of discomfort has vanished from her face."
+    "{i}С легким вздохом облегчения [b_name] вдавливает фаллоимитатор еще глубже. Все признаки дискомфорта исчезли с ее лица."
+
+# game/day13.rpy:1019
+translate russian day13_b_dildo_cd537295:
+
+    # b "{i}(Ooooh, this feels so weird, but also so good. It fills me up so completely.)"
+    b "{i}(Оооо, это так странно, но также и хорошо. Это так меня... наполняет.)"
+
+# game/day13.rpy:1020
+translate russian day13_b_dildo_a8d39991:
+
+    # p "Do you like it?"
+    p "Тебе нравится?"
+
+# game/day13.rpy:1021
+translate russian day13_b_dildo_df44d03d:
+
+    # b "No!"
+    b "Нет!"
+
+# game/day13.rpy:1022
+translate russian day13_b_dildo_1d4967b0:
+
+    # p "Don't lie, [b_name]."
+    p "Не ври, [b_name]."
+
+# game/day13.rpy:1023
+translate russian day13_b_dildo_60650ac9:
+
+    # b "Alright fine, I like it."
+    b "Ладно, хорошо, мне нравится."
+
+# game/day13.rpy:1024
+translate russian day13_b_dildo_605f7bfa:
+
+    # p "Show me that you like it, your pussy needs some attention too."
+    p "Покажи мне, что тебе это нравится, твоя киска тоже требует внимания."
+
+# game/day13.rpy:1026
+translate russian day13_b_dildo_020c4514:
+
+    # b "Aaaaah! Ah yes!"
+    b "Ааааах! Ах! Да!"
+
+# game/day13.rpy:1027
+translate russian day13_b_dildo_5adfed1c:
+
+    # p "Yes, are you my little anal slut, [b_name]?"
+    p "Да... ты моя маленькая анальная шлюшка, [b_name]?"
+
+# game/day13.rpy:1028
+translate russian day13_b_dildo_dfbc903b:
+
+    # b "Fffffuuuuck!"
+    b "Блять..."
+
+# game/day13.rpy:1030
+translate russian day13_b_dildo_66f20809:
+
+    # p "Are you my dirty anal sister, [b_name]? Say it!"
+    p "Ты моя маленькая грязная анальная шлюха-сестренка, [b_name]? Скажи это!"
+
+# game/day13.rpy:1031
+translate russian day13_b_dildo_48104448:
+
+    # b "Y-y-yes! Yes! I'm your dirty anal sister!"
+    b "Д-д-да! Я твоя маленькая грязная анальная шлюха-сестренка!"
+
+# game/day13.rpy:1033
+translate russian day13_b_dildo_0b42e1ea:
+
+    # p "Are you my dirty anal slut, [b_name]? Say it!"
+    p "Ты моя гразная анальная шлюха, [b_name]? Скажи это!"
+
+# game/day13.rpy:1034
+translate russian day13_b_dildo_e6be8397:
+
+    # b "Y-y-yes! Yes! I'm your dirty anal slut!"
+    b "Д-д-да! Да! Я твоя гразная анальная шлюха!"
+
+# game/day13.rpy:1036
+translate russian day13_b_dildo_30eab047:
+
+    # p "Are you going to cum for me?"
+    p "Ты собираешься кончить для меня?"
+
+# game/day13.rpy:1037
+translate russian day13_b_dildo_08977bc0:
+
+    # b "I am nearly there... S-s-so close!"
+    b "Я уже почти... т-т-так близко!"
+
+# game/day13.rpy:1038
+translate russian day13_b_dildo_e8f897bc:
+
+    # p "Yes, rub that little pussy for me, push your toy deeper inside your ass."
+    p "Да, потри эту маленькую киску для меня, протолкни свою игрушку глубже в задницу."
+
+# game/day13.rpy:1045
+translate russian day13_b_dildo_94776294:
+
+    # b "Aaaaaah! Aaaah! Aaaaaaaaah!"
+    b "Ааааах! Аааххх! Ааааааааааааххххх!"
+
+# game/day13.rpy:1046
+translate russian day13_b_dildo_8bbe1a03:
+
+    # "{i}As [b_name] gives herself over to her violent orgasm, you wank your dick even harder and soon feel ready to shoot a huge load."
+    "{i}Когда [b_name] предается своему жесткому оргазму, ты дрочишь свой член еще сильнее и вскоре чувствуешь себя готовым выстрелить огромной порцией спермы."
+
+# game/day13.rpy:1054
+translate russian day13_b_dildo_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "Аааах!"
+
+# game/day13.rpy:1056
+translate russian day13_b_dildo_98a1ee37:
+
+    # "{i}You shoot multiple volleys of semen onto your sister's face."
+    "{i}Ты стреляешь множеством залпов спермы в лицо своей сестры."
+
+# game/day13.rpy:1058
+translate russian day13_b_dildo_74567aa1:
+
+    # "{i}You shoot multiple volleys of semen onto [b_name]'s face."
+    "{i}Ты стреляешь множеством залпов спермы в лицо [b_name]."
+
+# game/day13.rpy:1060
+translate russian day13_b_dildo_76da4996:
+
+    # "{i}She is clearly too preoccupied with her own orgasm and appears to be unbothered by the sperm leaking into her gasping mouth."
+    "{i}Она явно слишком занята собственным оргазмом, и, похоже, ее не беспокоит сперма, просачивающаяся в ее задыхающийся рот."
+
+# game/day13.rpy:1076
+translate russian day13_b_dildo_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "Аааах!"
+
+# game/day13.rpy:1078
+translate russian day13_b_dildo_ca8d266f:
+
+    # "{i}You shoot multiple volleys of semen onto your sister's chest."
+    "{i}Ты стреляешь множеством залпов спермы на грудь своей сестры."
+
+# game/day13.rpy:1080
+translate russian day13_b_dildo_2f6cc792:
+
+    # "{i}You shoot multiple volleys of semen onto [b_name]'s chest."
+    "{i}Ты стреляешь множеством залпов спермы в лицо [b_name]."
+
+# game/day13.rpy:1082
+translate russian day13_b_dildo_b62f9265:
+
+    # "{i}She is clearly too preoccupied with her own orgasm and appears to be unbothered by the sperm that's covering her breasts."
+    "{i}Она явно слишком занята собственным оргазмом, и ее, кажется, не беспокоит сперма, покрывающая ее грудь."
+
+# game/day13.rpy:1096
+translate russian day13_b_dildo_48f77b5c:
+
+    # p "Damn, [b_name]. You sure know how give a guy a great time."
+    p "Блин, [b_name]. Ты точно знаешь, как подарить парню отличное времяпрепровождение."
+
+# game/day13.rpy:1099
+translate russian day13_b_dildo_eadca042:
+
+    # "{i}Your sister is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
+    "{i}Твоя сестра слишком устала, чтобы даже поговорить с тобой. Неистовство ее оргазма вытолкнуло фаллоимитатор из ее очка. Ты думаешь, что видишь легкую улыбку в уголках ее рта."
+
+# game/day13.rpy:1101
+translate russian day13_b_dildo_8dfab9e0:
+
+    # "{i}[b_name] is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
+    "{i}[b_name] слишком устала, чтобы даже поговорить с тобой. Неистовство ее оргазма вытолкнуло фаллоимитатор из ее очка. Ты думаешь, что видишь легкую улыбку в уголках ее рта."
+

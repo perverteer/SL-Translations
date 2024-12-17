@@ -11406,4 +11406,113 @@ translate russian day142_puritan_meeting_b77a0f34_1:
 translate russian day142_l_sex_57a49b76:
 
     # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
-    "{i}Когда она стоит на коленях перед тобой, сперма начинает выплескиваться в ее открытый рот."
+    "{i}Когда она стоит на коленях перед тобой, сперма начинает выплескиваться в ее открытый рот."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day142.rpy:1860
+translate russian day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Беременна ли [m_name] в этой сцене"
+
+# game/day142.rpy:1864
+translate russian day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] беременная"
+
+# game/day142.rpy:1867
+translate russian day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] не беременна"
+
+# game/day142.rpy:1869
+translate russian day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Беременна ли [r_name] в этой сцене"
+
+# game/day142.rpy:1873
+translate russian day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] беременная"
+
+# game/day142.rpy:1876
+translate russian day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] не беременна"
+
+# game/day142.rpy:3141
+translate russian day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Беременна ли [r_name] в этой сцене"
+
+# game/day142.rpy:3145
+translate russian day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] беременная"
+
+# game/day142.rpy:3148
+translate russian day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] не беременна"
+
+# game/day142.rpy:3442
+translate russian day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Беременна ли [l_name] в этой сцене"
+
+# game/day142.rpy:3446
+translate russian day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] беременная"
+
+# game/day142.rpy:3449
+translate russian day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] не беременна"
+
+# game/day142.rpy:3709
+translate russian day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Беременна ли [b_name] в этой сцене"
+
+# game/day142.rpy:3713
+translate russian day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] беременная"
+
+# game/day142.rpy:3716
+translate russian day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] не беременна"
+
+# game/day142.rpy:3951
+translate russian day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Беременна ли [m_name] в этой сцене"
+
+# game/day142.rpy:3955
+translate russian day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] беременная"
+
+# game/day142.rpy:3958
+translate russian day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] не беременна"
+

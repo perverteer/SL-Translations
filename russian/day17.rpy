@@ -3799,3 +3799,1279 @@ translate russian day17_choices_cf30d2c8:
 
     # "{i}You head to the bike rental with [m_name] and [l_name], somewhere on the beach."
     "{i}Вы отправляетесь в прокат велосипедов с [m_name] и [l_name] где-нибудь на пляже."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day17.rpy:776
+translate russian day17_n_r_sex_021c6f24:
+
+    # p "How could I refuse two lovely ladies with a gift?"
+    p "Как я могу отказать двум прекрасным дамам в подарке?"
+
+# game/day17.rpy:777
+translate russian day17_n_r_sex_a52c3b00:
+
+    # n "Haha! Exactly."
+    n "Хаха! Именно!"
+
+# game/day17.rpy:778
+translate russian day17_n_r_sex_8cfba3f6:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor, together with Nia."
+    r "Ты сделал мне так хорошо своим языком прошлой ночью, и я хотела бы отплатить за услугу вместе с Нией."
+
+# game/day17.rpy:779
+translate russian day17_n_r_sex_04b03468:
+
+    # p "{i}(Woah! A double blowjob?!)"
+    p "{i}(Вау! Двойной минет?!)"
+
+# game/day17.rpy:780
+translate russian day17_n_r_sex_e469c1b1:
+
+    # n "Just lie still, [p_name], we're going to do all the work for you."
+    n "Просто лежи спокойно, [p_name], мы сделаем всю работу за тебя."
+
+# game/day17.rpy:785
+translate russian day17_n_r_sex_dad24c60:
+
+    # "{i}[r_name] and Nia giggle and kneel before you."
+    "{i}[r_name] и Ниа хихикают и становятся на колени."
+
+# game/day17.rpy:786
+translate russian day17_n_r_sex_1c5dfd87:
+
+    # n "Should we lose our remaining clothes, [r_name]?"
+    n "Сстоит ли нам снять оставшуюся одежду, [r_name]?"
+
+# game/day17.rpy:787
+translate russian day17_n_r_sex_7f06dc70:
+
+    # r "I'm not sure. Would that make [p_name] happy, you think?"
+    r "Я не уверена. Как ты думаешь, это сделало бы [p_name] более счастливым?"
+
+# game/day17.rpy:788
+translate russian day17_n_r_sex_5ce0758a:
+
+    # p "{i}(Lose the clothes, please, lose the clothes!)"
+    p "{i}(Снимайте одежду, пожалуйста, снимайте!)"
+
+# game/day17.rpy:789
+translate russian day17_n_r_sex_a9c7c4a0:
+
+    # n "I'm not sure... Let's try it..."
+    n "Я не уверена... давай попробуем..."
+
+# game/day17.rpy:790
+translate russian day17_n_r_sex_d4cced53:
+
+    # n "I think it worked!"
+    n "Кажется, это работает!"
+
+# game/day17.rpy:791
+translate russian day17_n_r_sex_d71a9447:
+
+    # r "It sure did. But now he still has his clothes on..."
+    r "Точно работает. Но теперь он все еще одет..."
+
+# game/day17.rpy:792
+translate russian day17_n_r_sex_d55373fa:
+
+    # n "That's unfair."
+    n "Это нечестно."
+
+# game/day17.rpy:794
+translate russian day17_n_r_sex_b9aa68e5:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to your sister in one fluid motion."
+    "{i}Ниа встает, снимает нижнее белье и одним плавным движением садится рядом с твоей сестрой."
+
+# game/day17.rpy:796
+translate russian day17_n_r_sex_fad81a4e:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to [r_name] in one fluid motion."
+    "{i}Ниа встает, снимает нижнее белье и одним плавным движением садится рядом с [r_name]."
+
+# game/day17.rpy:797
+translate russian day17_n_r_sex_fb2818ad:
+
+    # n "That's better."
+    n "Так-то лучше."
+
+# game/day17.rpy:798
+translate russian day17_n_r_sex_32b7f6ec:
+
+    # n "And he's hard already. Nice."
+    n "И он уже твердый. Отлично."
+
+# game/day17.rpy:799
+translate russian day17_n_r_sex_00568fa3:
+
+    # r "Let's see if we can make him harder."
+    r "Давай посмотрим, получится ли у нас сделать его еще тверже."
+
+# game/day17.rpy:800
+translate russian day17_n_r_sex_5e1fdbeb:
+
+    # n "Good idea."
+    n "Хорошая идея."
+
+# game/day17.rpy:802
+translate russian day17_n_r_sex_8cc40cc1:
+
+    # "{i}[r_name] and Nia kiss each other tenderly at first, but soon lust overtakes them both and their tongues intertwine passionately."
+    "{i}[r_name] и Ниа сначала нежно целуют друг друга, но вскоре похоть охватывает их обоих, и их языки страстно переплетаются."
+
+# game/day17.rpy:803
+translate russian day17_n_r_sex_e69310a3:
+
+    # n "Mmmm, someone else is ready as well."
+    n "Ммммм, кажется, кое-кто тоже готов."
+
+# game/day17.rpy:804
+translate russian day17_n_r_sex_1fef6015:
+
+    # r "So it seems."
+    r "Похоже на то."
+
+# game/day17.rpy:805
+translate russian day17_n_r_sex_b9ec79a6:
+
+    # "{i}As you admire the girl's foreplay, precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Когда ты восхищаешься прелюдией девушек, из твоего члена вытекает предэякулят. Его мокрый конец головки блестит в лунном свете."
+
+# game/day17.rpy:806
+translate russian day17_n_r_sex_c16042cb:
+
+    # r "[p_name] deserves a kiss as well."
+    r "[p_name] тоже заслуживает поцелуя."
+
+# game/day17.rpy:809
+translate russian day17_n_r_sex_3d1138bf:
+
+    # "{i}Nia and your sister crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Ниа и твоя сестра ползают по тебе. Соски [r_name] на короткое время касаются чувствительной кожи твоей головки, и небольшая полоска лобковых волос Нии щекочет твое бедро."
+
+# game/day17.rpy:811
+translate russian day17_n_r_sex_3ad3baef:
+
+    # "{i}Nia and [r_name] crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Ниа и [r_name] ползают по тебе. Соски [r_name] на короткое время касаются чувствительной кожи твоей головки, и небольшая полоска лобковых волос Нии щекочет твое бедро."
+
+# game/day17.rpy:813
+translate russian day17_n_r_sex_fc56b76f:
+
+    # "{i}With eager lips, the girls take turns kissing you. While you french kiss Nia, [r_name] slowly moves down to your erect dick and touches it lightly with her fingertips."
+    "{i}Жадными губами девушки по очереди целуют тебя. Пока ты по-французски целуешь Нию, [r_name] медленно спускается к возбужденному члену и слегка касается его кончиками пальцев."
+
+# game/day17.rpy:814
+translate russian day17_n_r_sex_dcb6d597:
+
+    # r "There's something to kiss down here too, Nia."
+    r "Кое-что нужно поцеловать здесь, пониже, Ниа."
+
+# game/day17.rpy:820
+translate russian day17_n_r_sex_3679276d:
+
+    # "{i}Your sister is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}К твоей сестре присоединяется Ниа, и они вместе целуют и облизывают твой член, оставляя на нем мокрые следы."
+
+# game/day17.rpy:822
+translate russian day17_n_r_sex_97b28fe6:
+
+    # "{i}[r_name] is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}К [r_name] присоединяется Ниа, и они вместе целуют и облизывают твой член, оставляя на нем мокрые следы."
+
+# game/day17.rpy:823
+translate russian day17_n_r_sex_b6cca7cc:
+
+    # r "Mmmmm, I can taste him already, can't you Nia?"
+    r "Ммммм, я уже чувствую его вкус, правда, Ниа?"
+
+# game/day17.rpy:824
+translate russian day17_n_r_sex_589f1e51:
+
+    # n "Yes! And I want more."
+    n "Да! И я хочу больше."
+
+# game/day17.rpy:826
+translate russian day17_n_r_sex_c42ee524:
+
+    # "{i}[r_name] gives Nia the space and looks at her intently, obviously wanting to learn from the other girl. Nia's mouth softly wraps around the tip of your cock, and the film of precum is soon mixed with her saliva as she sucks and licks the tip."
+    "{i}[r_name] дает Нии место и пристально смотрит на нее, явно желая поучиться. Рот Нии мягко обхватывает кончик твоего члена, и пленка предэякулята вскоре смешивается с ее слюной, когда она сосет и облизывает головку."
+
+# game/day17.rpy:827
+translate russian day17_n_r_sex_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Тебе хорошо, [p_name]?"
+
+# game/day17.rpy:828
+translate russian day17_n_r_sex_b2603c13:
+
+    # "{i}Right at that moment, Nia takes nearly the entire length of your penis in her mouth and caresses it with her darting tongue."
+    "{i}В этот момент Ниа берет в рот почти всю длину твоего члена и ласкает его ловким языком."
+
+# game/day17.rpy:829
+translate russian day17_n_r_sex_a6ae68d7:
+
+    # p "God yes!"
+    p "Боже, да!"
+
+# game/day17.rpy:830
+translate russian day17_n_r_sex_55d0763c:
+
+    # n "Mmmmmm!"
+    n "Ммммммммммм!"
+
+# game/day17.rpy:831
+translate russian day17_n_r_sex_5121b425:
+
+    # p "Keep going Nia, aaaaah!"
+    p "Продолжай, Ниа, ааааааахххх!"
+
+# game/day17.rpy:832
+translate russian day17_n_r_sex_6f96f19a:
+
+    # "{i}Nia's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by [r_name] gently massaging your balls which are by now covered in streams of saliva."
+    "{i}Рот Нии стимулирует твой член под всеми прямыми углами, это райское наслаждение, которое усиливается, когда [r_name] нежно массирует твои яйца, уже покрытые струйками слюны."
+
+# game/day17.rpy:837
+translate russian day17_n_r_sex_9eba972b:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by your sister and they swap places."
+    "{i}Ниа позволяет твоей сестре нежно оттолкнуть себя от твоего члена, и они меняются местами."
+
+# game/day17.rpy:839
+translate russian day17_n_r_sex_54b94af2:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by [r_name] and they swap places."
+    "{i}Ниа позволяет [r_name] нежно оттолкнуть себя от твоего члена, и они меняются местами."
+
+# game/day17.rpy:844
+translate russian day17_n_r_sex_a6022d68:
+
+    # "{i}[r_name] is clearly less experienced and the first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name] явно менее опытна, и первые движения ее рта по твоему члену немного неловкие, но ее сосредоточенность и готовность учиться делают его еще горячее."
+
+# game/day17.rpy:845
+translate russian day17_n_r_sex_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Вот так, прямо здесь. Используй свой язык, [r_name], обними мой член губами."
+
+# game/day17.rpy:847
+translate russian day17_n_r_sex_7a2893e1:
+
+    # n "How does that feel, [r_name], your brother's big cock inside your mouth?"
+    n "Каково это, [r_name], чувствовать большой член твоего брата у себя во рту?"
+
+# game/day17.rpy:849
+translate russian day17_n_r_sex_7f5a0272:
+
+    # n "How does that feel, [r_name], [p_name]'s big cock inside your mouth?"
+    n "Каково это, [r_name], чувствовать большой член у себя во рту?"
+
+# game/day17.rpy:850
+translate russian day17_n_r_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Ммммммм!"
+
+# game/day17.rpy:851
+translate russian day17_n_r_sex_f7a09ae6:
+
+    # n "Good, isn't it? I made it all wet for you..."
+    n "Хорошо, не правда ли? Я все намочила для тебя..."
+
+# game/day17.rpy:852
+translate russian day17_n_r_sex_ef34156c:
+
+    # n "Are you going to make him cum with your pretty little mouth?"
+    n "Ты собираешься заставить его кончить своим красивым маленьким ртом?"
+
+# game/day17.rpy:853
+translate russian day17_n_r_sex_1dc344f3:
+
+    # "{i}Nia's words spur [r_name] to really give herself over to sucking your cock with abandon, and pretty soon the room is filled with the sounds of her slobbering on your penis. Meanwhile, Nia massages your balls and strokes your thighs, and occasionally slides up the couch to kiss you wantonly."
+    "{i}Слова Нии побуждают [r_name] по-настоящему отдаться сосанию твоего члена, и довольно скоро комната наполняется характерными звуками ее хлюпающей на твоем члене слюны. Тем временем Ниа массирует твои яйца и бедра и иногда поднимается по дивану, чтобы беспричинно тебя поцеловать."
+
+# game/day17.rpy:854
+translate russian day17_n_r_sex_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Аааааахх, [r_name], я уже близко!"
+
+# game/day17.rpy:855
+translate russian day17_n_r_sex_6a665f9f:
+
+    # n "Shall we make him cum together?"
+    n "Может заставим его кончить вместе?"
+
+# game/day17.rpy:856
+translate russian day17_n_r_sex_67d6aa19:
+
+    # r "That's a good idea."
+    r "Отличная идея."
+
+# game/day17.rpy:858
+translate russian day17_n_r_sex_ae3e2bcb:
+
+    # "{i}The girls position themselves at each side of your cock and begin to lick and suck the length of your shaft, sometimes stopping to kiss each other."
+    "{i}Девушки встают по обе стороны от твоего члена и начинают лизать и сосать всю его длину, иногда останавливаясь, чтобы поцеловать друг друга."
+
+# game/day17.rpy:859
+translate russian day17_n_r_sex_205d546f:
+
+    # n "Are you going to cum in our mouths, [p_name]?"
+    n "Ты собираешься кончить нам во рты, [p_name]?"
+
+# game/day17.rpy:860
+translate russian day17_n_r_sex_1ff0de98:
+
+    # r "You'd like that, wouldn't you?"
+    r "Ты бы хотел этого, верно?"
+
+# game/day17.rpy:861
+translate russian day17_n_r_sex_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "Д-д-да!"
+
+# game/day17.rpy:863
+translate russian day17_n_r_sex_6d40e142:
+
+    # "{i}It's your sister that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Это твоя сестра в конечном итоге доводит тебя до кульминации. Когда она облизывает головку твоего пениса, ты чувствуешь, как первые волны оргазма пронизывают тело."
+
+# game/day17.rpy:865
+translate russian day17_n_r_sex_8a8d7975:
+
+    # "{i}It's [r_name] that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Это [r_name] в конечном итоге доводит тебя до кульминации. Когда она облизывает головку твоего пениса, ты чувствуешь, как первые волны оргазма пронизывают тело."
+
+# game/day17.rpy:872
+translate russian day17_n_r_sex_5ea5b12a:
+
+    # "{i}Nia senses that you're ready and motions [r_name] to kneel, their mouths open before your throbbing cock. Big streams of semen shoot on their faces and in their mouths."
+    "{i}Ниа чувствует, что ты готов, и вместе с [r_name] встает на колени, их рты открываются перед твоим пульсирующим членом. Большие потоки спермы стекают по их лицам и капают в рот."
+
+# game/day17.rpy:873
+translate russian day17_n_r_sex_64a20ab7:
+
+    # n "Yes! Shower us with cum!"
+    n "Да! Душ из спермы!"
+
+# game/day17.rpy:874
+translate russian day17_n_r_sex_124be57b:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into their mouths."
+    "{i}Ты восстановил некоторое самообладание во время последних спазмов оргазма и можешь выпустить несколько струй прямо им в рот."
+
+# game/day17.rpy:877
+translate russian day17_n_r_sex_e95876b8:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from your sister's face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Счастливая [r_name] смотрит на тебя, глотая сперму. Ниа ничего не говорит и медленно слизывает капли с лица твоей сестры, прежде чем проглотить все это. Девушки заканчивают долгим поцелуем с накрашенными спермой губами."
+
+# game/day17.rpy:879
+translate russian day17_n_r_sex_adfc3258:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from [r_name]'s face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Счастливая [r_name] смотрит на тебя, глотая сперму. Ниа ничего не говорит и медленно слизывает капли с лица [r_name], прежде чем проглотить все это. Девушки заканчивают долгим поцелуем с накрашенными спермой губами."
+
+# game/day17.rpy:880
+translate russian day17_n_r_sex_8359c75d:
+
+    # r "Mmmm! There was so much of it!"
+    r "Ммм! Здесь так много!"
+
+# game/day17.rpy:889
+translate russian day17_n_r_sex_ea059714:
+
+    # n "There sure was. How long have you been saving all that for us, [p_name]?"
+    n "Да, как долго ты копил ее для нас?"
+
+# game/day17.rpy:890
+translate russian day17_n_r_sex_0c3613aa:
+
+    # p "I'm... I'm... not sure... what year is this again?"
+    p "Я... я... не уверен... какой сейчас год?"
+
+# game/day17.rpy:891
+translate russian day17_n_r_sex_689a8fb3:
+
+    # r "Sweet dreams, [p_name]!"
+    r "Сладких снов, [p_name]!"
+
+# game/day17.rpy:892
+translate russian day17_n_r_sex_da44e347:
+
+    # n "Hope you sleep well!"
+    n "Спи спокойно!"
+
+# game/day17.rpy:893
+translate russian day17_n_r_sex_2f3dc07e:
+
+    # p "I'm sure I will. Good night girls!"
+    p "Спокойной ночи, девочки!"
+
+# game/day17.rpy:894
+translate russian day17_n_r_sex_a9ad1689:
+
+    # "{i}[r_name] and Nia leave you on the couch without another word, and softly giggling they climb the stairs, back to Nia's bedroom."
+    "{i}[r_name] и Ниа, не говоря ни слова, оставляют тебя на диване и, тихо хихикая, поднимаются по лестнице обратно в спальню Нии."
+
+# game/day17.rpy:926
+translate russian day17_n_sex_a45d60e9:
+
+    # n "Psst, [p_name]?!"
+    n "Пссссссс, [p_name]?!"
+
+# game/day17.rpy:928
+translate russian day17_n_sex_57978f1e:
+
+    # p "Huh? Nia?"
+    p "А? Ниа?"
+
+# game/day17.rpy:931
+translate russian day17_n_sex_b1147461:
+
+    # p "Back again?"
+    p "Снова вернулась?"
+
+# game/day17.rpy:932
+translate russian day17_n_sex_aa37de39:
+
+    # n "Yes..."
+    n "Да..."
+
+# game/day17.rpy:933
+translate russian day17_n_sex_1c277469:
+
+    # p "What's the matter?"
+    p "Что случилось?"
+
+# game/day17.rpy:936
+translate russian day17_n_sex_16403a37:
+
+    # n "I really liked what your sister and I did earlier. But..."
+    n "Мне очень понравилось то, что мы с твоей сестрой сделали раньше. Но..."
+
+# game/day17.rpy:938
+translate russian day17_n_sex_d72995b3:
+
+    # n "I really liked what [r_name] and I did earlier. But..."
+    n "Мне очень понравилось то, что мы с [r_name] сделали раньше. Но..."
+
+# game/day17.rpy:939
+translate russian day17_n_sex_703f80cf:
+
+    # n "I want more... And I hope you do too."
+    n "Я хочу большего... и надеюсь, что ты тоже."
+
+# game/day17.rpy:940
+translate russian day17_n_sex_f8a55781:
+
+    # p "I'm always up for more."
+    p "Я всегда готов к большему."
+
+# game/day17.rpy:941
+translate russian day17_n_sex_f2416b76:
+
+    # n "Yeah, do you still have some juice left?"
+    n "Да, в тебе еще осталось сколько-нибудь этого божественного сока?"
+
+# game/day17.rpy:942
+translate russian day17_n_sex_2d8790b2:
+
+    # p "Plenty."
+    p "Огромное количество."
+
+# game/day17.rpy:944
+translate russian day17_n_sex_9e955ca9:
+
+    # n "The one and only."
+    n "Единственный и неповторимый."
+
+# game/day17.rpy:945
+translate russian day17_n_sex_49a15ca3:
+
+    # p "You're uh... not wearing much..."
+    p "Ты эээ... не так уж и много..."
+
+# game/day17.rpy:949
+translate russian day17_n_sex_96f34a9a:
+
+    # n "We've already had that little conversation during yoga class and I think you're funny and don't look too bad as well."
+    n "У нас уже был этот небольшой разговор на уроке йоги, и я думаю, что ты забавный и к тому же неплохо выглядишь."
+
+# game/day17.rpy:951
+translate russian day17_n_sex_dc848de3:
+
+    # n "You interest me, [p_name]. I think you're funny and you don't look too bad as well."
+    n "Ты меня интересуешь, [p_name]. Я думаю, ты забавный и неплохо выглядишь."
+
+# game/day17.rpy:952
+translate russian day17_n_sex_7e565f3e:
+
+    # p "Errr. Thanks, I guess."
+    p "Эээмм, спасибо, думаю."
+
+# game/day17.rpy:953
+translate russian day17_n_sex_64ed2a81:
+
+    # n "And I'm sure you won't be around here forever, with you being on vacation and all... So I'd like to seize the moment."
+    n "И я уверена, что ты не будешь здесь вечно, ты же в отпуске и все такое... Так что я хотела бы воспользоваться моментом."
+
+# game/day17.rpy:954
+translate russian day17_n_sex_88384a9d:
+
+    # p "{i}(I like where this is going.)"
+    p "{i}(мне нравится, куда все это идет.)"
+
+# game/day17.rpy:957
+translate russian day17_n_sex_52d0a016:
+
+    # n "You clearly enjoyed yoga class today."
+    n "Ты наслаждался занятиями йогой сегодня."
+
+# game/day17.rpy:958
+translate russian day17_n_sex_b7f11957:
+
+    # p "Mostly because of all the hot girls in tight clothing."
+    p "В основном из-за горячих девушек в обтягивающей одежде."
+
+# game/day17.rpy:959
+translate russian day17_n_sex_f8ba9b92:
+
+    # n "Understandable."
+    n "Понимаю."
+
+# game/day17.rpy:960
+translate russian day17_n_sex_88733f91:
+
+    # n "I thought maybe you'd be interested in a more advanced lesson. The way the human body can bend and stretch in interesting ways is simply amazing."
+    n "Я подумала, может быть, тебе будет интересен более сложный урок. То, как человеческое тело может интересно сгибаться и растягиваться, просто потрясающе."
+
+# game/day17.rpy:961
+translate russian day17_n_sex_059c9cd9:
+
+    # p "When it comes to learning I'm always very, very eager..."
+    p "Когда дело доходит до обучения, я всегда очень за..."
+
+# game/day17.rpy:963
+translate russian day17_n_sex_4de57e6a:
+
+    # n "Do you want me, [p_name]?"
+    n "Ты хочешь меня, [p_name]?"
+
+# game/day17.rpy:964
+translate russian day17_n_sex_fe13d2fd:
+
+    # n "I want you to make love to me."
+    n "Я хочу, чтобы ты трахнул меня."
+
+# game/day17.rpy:968
+translate russian day17_n_sex_57f8ce16:
+
+    # p "Of course, beautiful!"
+    p "Конечно, красавица!"
+
+# game/day17.rpy:972
+translate russian day17_n_sex_aac35e7b:
+
+    # p "Sorry Nia, but I'm not interested."
+    p "Извини, Ниа, но я не заинтересован."
+
+# game/day17.rpy:974
+translate russian day17_n_sex_2dcfcd11:
+
+    # "{i}Without saying a word, Nia leaves as quietly as she came. You doze off immediately after and sleep deeply for the remainder of the night."
+    "{i}Не говоря ни слова, Ниа уходит так же тихо, как и пришла. Ты засыпаешь сразу после этого и крепко спишь до конца ночи."
+
+# game/day17.rpy:978
+translate russian day17_n_sex_b2fa37a9:
+
+    # p "{i}(Best. Din-aww fuck it, I'm getting laid again!)"
+    p "{i}(Лучший. Веч... ой, черт возьми, я снова трахаюсь!)"
+
+# game/day17.rpy:980
+translate russian day17_n_sex_74fc6d57:
+
+    # p "{i}(I'm becoming a big fan of the concept of 'sleepovers'.)"
+    p "{i}(Я становлюсь большим фанатом этих полуночных похождений.)"
+
+# game/day17.rpy:983
+translate russian day17_n_sex_3c2f1232:
+
+    # n "Good!"
+    n "Хорошо!"
+
+# game/day17.rpy:986
+translate russian day17_n_sex_f915d80a:
+
+    # "{i}Nia kneels before you and grabs your rapidly growing cock. You kiss her neck and grab her small, firm breasts. Her nipples are already hard and Nia's breathing becomes heavier."
+    "{i}Ниа становится перед тобой на колени и хватает твой быстро растущий член. Ты целуешь ее шею и хватаешь ее маленькую упругую грудь. Ее соски уже стали твердыми, и дыхание Нии стало тяжелее."
+
+# game/day17.rpy:987
+translate russian day17_n_sex_fa482016:
+
+    # n "The first exercise is called the Downward Facing Cocksucker."
+    n "Первое упражнение называется «членососка лицом вниз»."
+
+# game/day17.rpy:988
+translate russian day17_n_sex_939cfc19:
+
+    # p "Sounds like a great way to train those often neglected facial muscles."
+    p "Звучит как отличный способ потренировать часто игнорируемые лицевые мышцы."
+
+# game/day17.rpy:993
+translate russian day17_n_sex_fc45939f:
+
+    # "{i}The athletic girl stands up and bends down sharply, seemingly without effort. Your cock is in her mouth before you know it, and her ass is positioned invitingly in front of your face."
+    "{i}Спортивная девушка встает и резко наклоняется, казалось бы, без усилий. Член оказывается у нее во рту раньше, чем ты это осознаешь, а ее задница призывно располагается перед твоим лицом."
+
+# game/day17.rpy:998
+translate russian day17_n_sex_a61b4a81:
+
+    # "{i}She blows you with the same great technique you experienced earlier this night. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Она поразит тебя той же великолепной техникой, которую ты испытал ранее этой ночью. Ее язык совершает быстрые движения по опухшей головке, а ты продолжаешь работать с ее киской и клитором."
+
+# game/day17.rpy:1000
+translate russian day17_n_sex_680eda3b:
+
+    # "{i}Her technique is perfect. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Ее техника потрясающа. Ее язык совершает быстрые движения по опухшей головке, а ты продолжаешь работать с ее киской и клитором."
+
+# game/day17.rpy:1001
+translate russian day17_n_sex_ebe0f1ca:
+
+    # n "Mmmmm!"
+    n "Ммммммм!"
+
+# game/day17.rpy:1002
+translate russian day17_n_sex_0ed239d7:
+
+    # n "Ohhhh!"
+    n "Оооооооххххх!"
+
+# game/day17.rpy:1007
+translate russian day17_n_sex_57d99eee:
+
+    # "{i}You stop licking her pussy and pull her gently from your cock."
+    "{i}Ты перестаешь лизать ее киску и осторожно снимаешь ее со своего члена."
+
+# game/day17.rpy:1008
+translate russian day17_n_sex_ca6c83e8:
+
+    # p "I already know you can give a great blowjob. I'd like to explore that little wet slit of yours a bit further."
+    p "Я уже знаю, что ты можешь сделать отличный минет. Я хотел бы заняться твоей маленькой мокрой щелкой."
+
+# game/day17.rpy:1009
+translate russian day17_n_sex_45d38e93:
+
+    # n "Mmmm, I liked what you were doing with it."
+    n "Мммм, мне понравилось, что ты с ней делал."
+
+# game/day17.rpy:1010
+translate russian day17_n_sex_ad885e52:
+
+    # p "Spread your legs for me, baby."
+    p "Раздвинь свои ножки для меня, малышка."
+
+# game/day17.rpy:1015
+translate russian day17_n_sex_15165c05:
+
+    # "{i}Nia spreads and bends down again to give you the perfect view of her tight pussy and her little asshole. When you enter her you feel a slight resistance."
+    "{i}Ниа раздвигается и снова наклоняется, чтобы дать тебе прекрасный вид на ее узкую киску и маленькое очко. Когда ты входишь в нее, ты чувствуешь легкое сопротивление."
+
+# game/day17.rpy:1016
+translate russian day17_n_sex_b4f501ba:
+
+    # p "Am I going too fast?"
+    p "Я не слишком быстр?"
+
+# game/day17.rpy:1017
+translate russian day17_n_sex_74a65443:
+
+    # n "No, keep going. You're bigger than I expected."
+    n "Нет, продолжай. Ты больше, чем я предполагала."
+
+# game/day17.rpy:1018
+translate russian day17_n_sex_2810f87f:
+
+    # "{i}You slowly push your cock further inside her. Nia relaxes visibly and her gasps become soft moans of pleasure."
+    "{i}Ты медленно продвигаешь свой член внутрь нее. Ниа заметно расслабляется, и ее вздох превращается в тихие стоны удовольствия."
+
+# game/day17.rpy:1019
+translate russian day17_n_sex_7d3ddce0:
+
+    # n "Mmmm, that's it."
+    n "Мммм, вот так."
+
+# game/day17.rpy:1023
+translate russian day17_n_sex_04dd7f78:
+
+    # "{i}After waiting for a short while to let Nia get fully accustomed to your size, you establish a gentle rhythm, letting Nia feel the entire length of your throbbing cock each time you penetrate her."
+    "{i}Подождав некоторое время, чтобы позволить девушке полностью привыкнуть к размеру, ты устанавливаешь мягкий ритм, позволяя ей ощущать всю длину твоего пульсирующего члена при каждом новом проникновении."
+
+# game/day17.rpy:1024
+translate russian day17_n_sex_e04ee9b5:
+
+    # n "Aaah yes! Keep doing that! Right there!"
+    n "Ааааахх! Да! Продолжай! Вот так!"
+
+# game/day17.rpy:1026
+translate russian day17_n_sex_8c961780:
+
+    # "{i}The moisture of her cunt acting as a natural lubricant, you feel you can pick up the pace and start to quicken your thrusts. Nia moans as if to encourage you further."
+    "{i}Влага ее киски действует как естественная смазка, и ты чувствуешь, что можешь ускорить темп и начать усиливать толчки. Ниа стонет, словно желая подбодрить тебя."
+
+# game/day17.rpy:1027
+translate russian day17_n_sex_24fd4500:
+
+    # n "Want to try another position?"
+    n "Не хочешь попробовать другую позу?"
+
+# game/day17.rpy:1029
+translate russian day17_n_sex_4abbac46:
+
+    # "{i}Nia bends her body in such a way that resembles a perverted version of an 'asana'. Her gaping pussy is ready again for your penis, and you don't hold back this time. Your balls slap against her pussy as you drive your cock mercilessly into her."
+    "{i}Ниа изгибает свое тело таким образом, что это напоминает извращенную версию "асаны" Ее зияющая киска снова готова для твоего члена, и ты не сдерживаешься на этот раз Твои яйца шлепаются о ее киску, когда ты безжалостно вгоняешь в нее свой член."
+
+# game/day17.rpy:1030
+translate russian day17_n_sex_ef16aad3:
+
+    # n "G-g-god [p_name]! Fuck me!"
+    n "Б-б-боже, [p_name]! Еби меня!"
+
+# game/day17.rpy:1035
+translate russian day17_n_sex_e8ccb902:
+
+    # "{i}Mad with lust, you grab her thighs and lift Nia from the ground. She stabilizes herself with her hands as you slam your cock to the root inside of her pussy with firm piston-like movements, still holding her tautened thighs."
+    "{i}Обезумев от похоти, ты хватаешь ее за бедра и поднимаешь с земли, она стабилизирует себя руками, когда ты прижимаешь свой член к корню внутри ее киски твердыми движениями, все еще удерживая ее подтянутые бедра."
+
+# game/day17.rpy:1036
+translate russian day17_n_sex_eca46522:
+
+    # n "Fuck me harder, [p_name]!"
+    n "Трахай меня сильнее, [p_name]!"
+
+# game/day17.rpy:1037
+translate russian day17_n_sex_9c5e215e:
+
+    # p "Yes Nia! I'm so close!"
+    p "Да, Ниа, я так близко!"
+
+# game/day17.rpy:1039
+translate russian day17_n_sex_4a6a6a8a:
+
+    # n "I want to taste your cum again, let me have it! In my mouth please!"
+    n "Я хочу снова ощутить твою сперму на языке. Прошу, кончи мне в рот! Позволь мне!"
+
+# game/day17.rpy:1041
+translate russian day17_n_sex_21aa5c1b:
+
+    # n "I want to taste your cum, let me have it! In my mouth please!"
+    n "Я хочу ощутить твою сперму на языке. Прошу, кончи мне в рот! Позволь мне!"
+
+# game/day17.rpy:1048
+translate russian day17_n_sex_0aa9b0aa:
+
+    # "{i}As soon as you feel your cock twitching in the onset of your orgasm, you pull out of Nia, lift her head slightly and finish in her open mouth."
+    "{i}Как только ты почувствуешь, что твой член подергивается первым оргазмическим позывам, ты выходишь из Нии, слегка поднимаешь ее голову и закачиваешь ее открытый рот спермой."
+
+# game/day17.rpy:1049
+translate russian day17_n_sex_b795223f:
+
+    # p "Aaaah!"
+    p "Ааааааахххх!"
+
+# game/day17.rpy:1050
+translate russian day17_n_sex_9909950d:
+
+    # n "Yes! Yes! More!"
+    n "Да! ДА! Больше!"
+
+# game/day17.rpy:1051
+translate russian day17_n_sex_03612561:
+
+    # "{i}Semen is leaking from the corners of her mouth as you spasm in the last throes of your orgasm."
+    "{i}Сперма течет из уголков ее рта, когда ты испытываешь последние спазмы."
+
+# game/day17.rpy:1057
+translate russian day17_n_sex_3340861d:
+
+    # p "You showed some crazy elastic moves back there."
+    p "Ты показала сумасшедшие движения."
+
+# game/day17.rpy:1058
+translate russian day17_n_sex_8cf0fef4:
+
+    # n "Don't underestimate the power of yoga."
+    n "Не стоит недооценивать силу йоги."
+
+# game/day17.rpy:1059
+translate russian day17_n_sex_23d833bf:
+
+    # p "From now on, I won't ever again."
+    p "Никогда больше не повторю этой ошибки."
+
+# game/day17.rpy:1060
+translate russian day17_n_sex_9c06648b:
+
+    # n "Have you had many lovers, [p_name]?"
+    n "У тебя было много девушек, [p_name]?"
+
+# game/day17.rpy:1061
+translate russian day17_n_sex_7a8cb987:
+
+    # p "A few."
+    p "Несколько."
+
+# game/day17.rpy:1064
+translate russian day17_n_sex_08cd553e:
+
+    # n "Your sister for one. That's unusual."
+    n "Твоя сестра одна из них. Это необычно."
+
+# game/day17.rpy:1065
+translate russian day17_n_sex_29cdba2a:
+
+    # p "Not on Belugio."
+    p "Не на Беллуджио."
+
+# game/day17.rpy:1066
+translate russian day17_n_sex_9c1c027e:
+
+    # n "It's still unusual on Belugio, but accepted all the same."
+    n "Это все еще необычно для Белуджио, но тут все принято."
+
+# game/day17.rpy:1068
+translate russian day17_n_sex_0471cb1c:
+
+    # n "[r_name] for one."
+    n "[r_name] одна из них."
+
+# game/day17.rpy:1069
+translate russian day17_n_sex_209b433b:
+
+    # p "And you?"
+    p "А у тебя было много любовников?"
+
+# game/day17.rpy:1071
+translate russian day17_n_sex_fdd6acfe:
+
+    # n "Hmmm. No. You were my second. Or third, if you count Rebeca."
+    n "Хммммм. Нет. Ты мой второй. Или третий, если считать Ребекку."
+
+# game/day17.rpy:1072
+translate russian day17_n_sex_6a30ee20:
+
+    # p "Rebeca, your... mother?"
+    p "Ребекка, твоя... мама?"
+
+# game/day17.rpy:1073
+translate russian day17_n_sex_0b1bfa64:
+
+    # n "Yes. You shouldn't be surprised by now."
+    n "Да. Тебе не стоит удивляться."
+
+# game/day17.rpy:1075
+translate russian day17_n_sex_e9de9e2d:
+
+    # n "And besides, you've just had a fucking sexy blowjob from your own sister tonight."
+    n "И, кроме того, ты не так давно получил чертовски сексуальный минет от собственной сестры."
+
+# game/day17.rpy:1076
+translate russian day17_n_sex_efc57a97:
+
+    # p "Okay, okay! Point taken."
+    p "Хорошо-хорошо! Я понял."
+
+# game/day17.rpy:1077
+translate russian day17_n_sex_17af946b:
+
+    # p "But who was your first then?"
+    p "Но кто был твоим первым?"
+
+# game/day17.rpy:1079
+translate russian day17_n_sex_94c641e4:
+
+    # n "My my, you're getting rather inquisitive aren't you?"
+    n "Боже мой, ты становишься довольно любознательным, не так ли?"
+
+# game/day17.rpy:1080
+translate russian day17_n_sex_8495691f:
+
+    # p "You don't have to tell me."
+    p "Ты не обязана мне говорить."
+
+# game/day17.rpy:1081
+translate russian day17_n_sex_cc3084af:
+
+    # n "I don't mind."
+    n "Неважно."
+
+# game/day17.rpy:1082
+translate russian day17_n_sex_7b86b863:
+
+    # n "Nino was my first."
+    n "Нино был первым."
+
+# game/day17.rpy:1083
+translate russian day17_n_sex_36ff5f12:
+
+    # p "Really."
+    p "Серьезно."
+
+# game/day17.rpy:1084
+translate russian day17_n_sex_c0b7b88a:
+
+    # n "He's still my lover sometimes, when we both feel like it."
+    n "Он все еще мой любовник. Периодически. Когда мы оба этого хотим."
+
+# game/day17.rpy:1085
+translate russian day17_n_sex_90a89774:
+
+    # p "Your brother is a lucky guy."
+    p "Твой брат - счастливчик."
+
+# game/day17.rpy:1087
+translate russian day17_n_sex_dd74d507:
+
+    # n "Hmmm. No. You were my second."
+    n "Хмммм. Нет. Ты был моим вторым."
+
+# game/day17.rpy:1088
+translate russian day17_n_sex_d4ec46d4:
+
+    # p "Who was your first then?"
+    p "А кто был первым?"
+
+# game/day17.rpy:1090
+translate russian day17_n_sex_f3a94fd4:
+
+    # n "Some boy I knew from school."
+    n "Какой-то парень, которого я знала из школы."
+
+# game/day17.rpy:1091
+translate russian day17_n_sex_09f8f925:
+
+    # p "{i}(She's being purposely vague... Better not grill her further on the subject and just enjoy the moment.)"
+    p "{i}(Она намеренно рассказывает все расплывчато... Лучше не развивать дальше на эту тему и просто наслаждаться моментом.)"
+
+# game/day17.rpy:1092
+translate russian day17_n_sex_1baecc24:
+
+    # p "Well, he was a lucky guy."
+    p "Ну, он явно был счастливчиком."
+
+# game/day17.rpy:1094
+translate russian day17_n_sex_c7ae129c:
+
+    # n "Do you think so?"
+    n "Ты так думаешь?"
+
+# game/day17.rpy:1095
+translate russian day17_n_sex_5ce61dbf:
+
+    # p "Nia, you're a little package of flexible sexiness. So of course!"
+    p "Ниа, ты же самая настоящая ходячая коробочка, полная сексуальности. Конечно я так думаю!"
+
+# game/day17.rpy:1097
+translate russian day17_n_sex_809f6b43:
+
+    # "{i}Nia caresses your chest as you both lie together in the post-coital warmth. After a while, she gives you a kiss, rises and goes back to her bedroom."
+    "{i}Ниа ласкает твою грудь, пока вы оба лежите вместе в посткоитальном тепле. Через некоторое время она целует тебя, встает и возвращается в свою спальню."
+
+# TODO: Translation updated at 2024-11-29 09:53
+
+# game/day17.rpy:699
+translate russian day17_r_blowjob_b88116c6:
+
+    # p "What the?! [r_name]?"
+    p "Что за?! [r_name]?"
+
+# game/day17.rpy:700
+translate russian day17_r_blowjob_b264dd12:
+
+    # r "Sorry for startling you!"
+    r "Извините, что напугал вас!"
+
+# game/day17.rpy:701
+translate russian day17_r_blowjob_55df98a2:
+
+    # p "Can't sleep?"
+    p "Не спится?"
+
+# game/day17.rpy:702
+translate russian day17_r_blowjob_634a8ea7:
+
+    # r "I haven't tried yet. I waited for Nia to fall asleep so I could come find you."
+    r "Я еще не пробовал, я ждал, пока Ния уснет, чтобы найти тебя."
+
+# game/day17.rpy:703
+translate russian day17_r_blowjob_382b0ab2:
+
+    # p "Oh?"
+    p "О?"
+
+# game/day17.rpy:704
+translate russian day17_r_blowjob_aa733556:
+
+    # r "I'd like us to do something naughty..."
+    r "Я бы хотел, чтобы мы занялись чем-нибудь непотребным."
+
+# game/day17.rpy:706
+translate russian day17_r_blowjob_f569bc25:
+
+    # p "{i}(Best. Dinner-party. Goddamn-Ever.)"
+    p "{i}(Лучший званый ужин, черт возьми, за всю историю)"
+
+# game/day17.rpy:707
+translate russian day17_r_blowjob_01a81c32:
+
+    # p "Here? Now? What if someone wakes up?"
+    p "Здесь? Сейчас? А если кто-то проснется?"
+
+# game/day17.rpy:708
+translate russian day17_r_blowjob_9726821a:
+
+    # r "Sure, why not. I like a little bit of danger."
+    r "Конечно, почему бы и нет, я люблю немного опасности."
+
+# game/day17.rpy:709
+translate russian day17_r_blowjob_32164c6f:
+
+    # p "{i}(I so love her eagerness.)"
+    p "(Мне так нравится ее стремление)"
+
+# game/day17.rpy:710
+translate russian day17_r_blowjob_01a7cc9b:
+
+    # p "What did you have in mind?"
+    p "Что вы имели в виду?"
+
+# game/day17.rpy:711
+translate russian day17_r_blowjob_e6f18e0f:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor..."
+    r "Ты доставил мне столько удовольствия своим языком прошлой ночью, и я хотел бы отплатить тебе тем же."
+
+# game/day17.rpy:712
+translate russian day17_r_blowjob_070d1fd1:
+
+    # p "You would do that for me?"
+    p "Ты сделаешь это для меня?"
+
+# game/day17.rpy:713
+translate russian day17_r_blowjob_b6ae797a:
+
+    # r "Yes. But you have to guide me a bit, I've never done it before."
+    r "Да, но ты должен меня немного направлять, я никогда раньше этого не делала."
+
+# game/day17.rpy:714
+translate russian day17_r_blowjob_2c7b655d:
+
+    # p "Don't worry! But kiss me first!"
+    p "Не волнуйся! Но сначала поцелуй меня!"
+
+# game/day17.rpy:720
+translate russian day17_r_blowjob_624b9ca7:
+
+    # "{i}Your sister removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}Твоя сестра снимает лифчик и трусики и заползает на тебя сверху, ее киска прижимается к твоему бедру, и ты чувствуешь, как ее соски слегка трутся о твою кожу."
+
+# game/day17.rpy:722
+translate russian day17_r_blowjob_5d33a071:
+
+    # "{i}[r_name] removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}[r_name] снимает лифчик и трусики и заползает на тебя сверху, ее киска прижимается к твоему бедру, и ты чувствуешь, как ее соски слегка трутся о твою кожу"
+
+# game/day17.rpy:723
+translate russian day17_r_blowjob_ada30f18:
+
+    # "{i}With eager lips, she french kisses you, meanwhile touching your erect dick lightly with her fingertips. Precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Жадными губами она целует тебя по-французски, одновременно слегка касаясь кончиками пальцев твоего эрегированного члена Из твоего члена вытекает сперма Твой влажный кончик блестит в лунном свете"
+
+# game/day17.rpy:724
+translate russian day17_r_blowjob_eeb5bfa4:
+
+    # r "I'm going to kiss you down there, [p_name]."
+    r "Я собираюсь поцеловать тебя там, [p_name]."
+
+# game/day17.rpy:727
+translate russian day17_r_blowjob_5d06a4e9:
+
+    # "{i}Your sister kisses and licks your shaft, leaving wet trails all over it."
+    "{i}Твоя сестра целует и облизывает твой вал, оставляя на нем влажные дорожки."
+
+# game/day17.rpy:729
+translate russian day17_r_blowjob_f09fb4ca:
+
+    # "{i}[r_name] kisses and licks your shaft, leaving wet trails all over it."
+    "{i}[r_name] целует и облизывает твой вал, оставляя на нем влажные дорожки"
+
+# game/day17.rpy:730
+translate russian day17_r_blowjob_d9a81861:
+
+    # r "Mmmmm, you taste so good!"
+    r "Мммммм ты такой вкусный!"
+
+# game/day17.rpy:731
+translate russian day17_r_blowjob_2cc4509b:
+
+    # r "I'm going further. Stop me if I'm doing something wrong."
+    r "Я иду дальше Остановите меня, если я делаю что-то не так."
+
+# game/day17.rpy:732
+translate russian day17_r_blowjob_86593fed:
+
+    # p "Don't worry, as long as you don't chew on it you'll be absolutely fine."
+    p "Не волнуйтесь, пока вы не грызете его, все будет в полном порядке."
+
+# game/day17.rpy:737
+translate russian day17_r_blowjob_ff4ee346:
+
+    # "{i}[r_name]'s mouth softly wraps around the tip of your cock and the film of precum is soon mixed with her saliva as she sucks and licks the tip. The first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name] нежно обхватывает ртом кончик твоего члена, и пленка спермы вскоре смешивается с ее слюной, когда она сосет и облизывает кончик Первые движения ее рта на твоем члене немного неловки, но ее сосредоточенный вид и готовность учиться делают это еще более горячим"
+
+# game/day17.rpy:738
+translate russian day17_r_blowjob_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Тебе приятно [п_имя]?"
+
+# game/day17.rpy:739
+translate russian day17_r_blowjob_a6ae68d7:
+
+    # p "God yes!"
+    p "Боже, да!"
+
+# game/day17.rpy:741
+translate russian day17_r_blowjob_15638743:
+
+    # "{i}Your sister's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}Рот твоей сестры стимулирует твой член под всеми нужными углами, и это райское ощущение усиливается, когда она нежно массирует твои яйца, которые к этому времени покрываются струйками слюны."
+
+# game/day17.rpy:743
+translate russian day17_r_blowjob_0229c9dd:
+
+    # "{i}[r_name]'s mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}[r_name] стимулирует твой член под всеми нужными углами, и это райское ощущение усиливается, когда она нежно массирует твои яйца, которые к этому моменту покрыты струйками слюны."
+
+# game/day17.rpy:744
+translate russian day17_r_blowjob_e9a93643:
+
+    # p "Keep going [r_name], aaaaah!"
+    p "Продолжайте [r_name] аааааа!"
+
+# game/day17.rpy:745
+translate russian day17_r_blowjob_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Вот так, используй свой язык [r_name], обхвати губами мой член."
+
+# game/day17.rpy:746
+translate russian day17_r_blowjob_9182261a:
+
+    # r "Mmmmm!"
+    r "Ммммм!"
+
+# game/day17.rpy:748
+translate russian day17_r_blowjob_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Аааа [r_name] я так близко!"
+
+# game/day17.rpy:749
+translate russian day17_r_blowjob_8653922f:
+
+    # r "Are you going to cum for me?"
+    r "Ты собираешься кончить для меня?"
+
+# game/day17.rpy:750
+translate russian day17_r_blowjob_61144f50:
+
+    # r "In my little warm mouth? I want to taste you so bad!"
+    r "В мой маленький теплый ротик? Я так хочу попробовать тебя на вкус!"
+
+# game/day17.rpy:751
+translate russian day17_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "Да-да!"
+
+# game/day17.rpy:753
+translate russian day17_r_blowjob_fd85d209:
+
+    # "{i}It's those words that send you over the edge. When your sister licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Именно эти слова отправляют вас за грань, когда сестра облизывает кончик вашего пениса, вы чувствуете, как по телу прокатываются первые волны оргазма."
+
+# game/day17.rpy:755
+translate russian day17_r_blowjob_616cdd40:
+
+    # "{i}It's those words that send you over the edge. When [r_name] licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Именно эти слова отправляют вас за грань, когда [имя] облизывает кончик вашего пениса, вы чувствуете, как по телу прокатываются первые волны оргазма."
+
+# game/day17.rpy:760
+translate russian day17_r_blowjob_b52ceef0:
+
+    # "{i}[r_name] senses that you're ready and kneels with an open mouth before your throbbing cock. Big streams of semen shoot on her face and in her mouth."
+    "{i}[r_name] чувствует, что ты готов, и опускается на колени с открытым ртом перед твоим пульсирующим членом Большие потоки спермы бьют ей в лицо и в рот"
+
+# game/day17.rpy:761
+translate russian day17_r_blowjob_c7a95b60:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into her mouth."
+    "{i}Вы вернули себе часть самообладания во время последних спазмов оргазма и смогли излить несколько струй прямо ей в рот."
+
+# game/day17.rpy:764
+translate russian day17_r_blowjob_01ed08d6:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. Your sister licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Счастливая [r_name] смотрит на тебя с глубоким удовлетворением в глазах Твоя сестра слизывает капельки спермы у своего рта, прежде чем проглотить ее всю Широкая улыбка украшает ее накрашенные спермой губы"
+
+# game/day17.rpy:766
+translate russian day17_r_blowjob_18dd9554:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. The girl licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Счастливая [r_name] смотрит на тебя с глубоким удовлетворением в глазах Девушка слизывает капельки спермы у своего рта, прежде чем проглотить ее всю Широкая улыбка украшает ее накрашенные спермой губы"
+
+# game/day17.rpy:767
+translate russian day17_r_blowjob_16e92508:
+
+    # r "Mmmm! There was so much of it! Did you save it all for me, [p_name]?"
+    r "Мммм! Его было так много! Ты сохранил все для меня [p_name]?"
+
+# game/day17.rpy:768
+translate russian day17_r_blowjob_1f2f692f:
+
+    # p "I might have... You were so hot!"
+    p "Я мог бы. Ты была такой горячей!"
+
+# game/day17.rpy:769
+translate russian day17_r_blowjob_e74020e9:
+
+    # r "Thank you, this was just what I needed."
+    r "Спасибо, это как раз то, что мне было нужно."
+
+# game/day17.rpy:770
+translate russian day17_r_blowjob_44328101:
+
+    # r "Sweet dreams, [p_name], love you!"
+    r "Sweet dreams [p_name] love you!"
+
+# game/day17.rpy:771
+translate russian day17_r_blowjob_a900ac49:
+
+    # p "Love you too, sleep well!"
+    p "Люблю тебя и сплю спокойно!"
+
+# game/day17.rpy:772
+translate russian day17_r_blowjob_7c9bff09:
+
+    # "{i}[r_name] leaves you on the couch and silently climbs the stairs, back to Nia's bedroom."
+    "{i}[r_name] оставляет вас на диване и молча поднимается по лестнице в спальню Нии."
+

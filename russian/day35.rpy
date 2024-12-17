@@ -6606,7 +6606,7 @@ translate russian day35_me_fuck_cab5363a:
 translate russian day35_me_fuck_ba104112:
 
     # man "So mind your own business. From what I hear, they'll be finished soon enough."
-    мужчина "Так что не лезь не в свое дело, как я слышал, они скоро закончат."
+    man "Так что не лезь не в свое дело, как я слышал, они скоро закончат."
 
 # game/day35.rpy:1318
 translate russian day35_me_fuck_87b16d44:
@@ -6697,3 +6697,1415 @@ translate russian day35_choices_d4dafe9c_1:
 
     # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
     "{i}Одна рука [b_name] вцепилась в твое плечо, а другой она пытается протолкнуть твой член внутрь себя."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day35.rpy:1350
+translate russian day35_b_sex_hard_5eb350d9:
+
+    # p "I've had a raging boner for you since we walked inside the shop."
+    p "У меня встал уже в тот момент, когда мы зашли в магазин."
+
+# game/day35.rpy:1355
+translate russian day35_b_sex_hard_94bdb8c0:
+
+    # p "Showing Megan how it's done didn't diminish that at all."
+    p "И Меган не смогла убрать мой стояк."
+
+# game/day35.rpy:1356
+translate russian day35_b_sex_hard_3506fb92:
+
+    # b "That's information I could easily have done without."
+    b "Я бы обошлась и без этой информации."
+
+# game/day35.rpy:1358
+translate russian day35_b_sex_hard_ec0804cb:
+
+    # "{i}Ignoring her, you push her against the wall and kiss her."
+    "{i}Игнорируя её, ты прижимаешь её к стене и целуешь."
+
+# game/day35.rpy:1359
+translate russian day35_b_sex_hard_e46ea2ef:
+
+    # "{i}[b_name] only manages to keep her mouth closed in protest for a short while. As soon as she allows for you to enter her mouth in a moment of weakness, the tongue kiss becomes mutual."
+    "{i}[b_name] совсем недолго удается держать рот закрытым в знак протеста, но потом она становится мягче, и вы начинаете целоваться с языками."
+
+# game/day35.rpy:1364
+translate russian day35_b_sex_hard_1f4da673:
+
+    # "{i}As you kiss, you almost rip the lingerie off her body to reveal her breasts and juicy cunt."
+    "{i}Пока вы целуетесь, ты почти рвешь на ней белье, чтобы оголить грудь и сочную киску."
+
+# game/day35.rpy:1366
+translate russian day35_b_sex_hard_550b680b:
+
+    # "{i}The small vibrator is still purring mercilessly inside her vagina."
+    "{i}Маленький вибратор все еще пульсирует в её вагине."
+
+# game/day35.rpy:1371
+translate russian day35_b_sex_hard_61c7eab0:
+
+    # "{i}You take one of her hands and wrap her fingers around your cock."
+    "{i}Ты берешь её руку и обхватываешь свой член её пальцами."
+
+# game/day35.rpy:1372
+translate russian day35_b_sex_hard_569c00a1:
+
+    # p "You know what to do."
+    p "Ты знаешь что делать."
+
+# game/day35.rpy:1374
+translate russian day35_b_sex_hard_0a107658:
+
+    # "{i}Silently, your sister jerks you off, pulling the foreskin slowly over your tip."
+    "{i}Твоя сестра тихо начинает дрочить тебе, оттягивая крайнюю плоть с головки."
+
+# game/day35.rpy:1376
+translate russian day35_b_sex_hard_f7cd2aad:
+
+    # "{i}Silently, your girl jerks you off, pulling the foreskin slowly over your tip."
+    "{i}Твоя девушка тихо начинает дрочить тебе, оттягивая крайнюю плоть с головки."
+
+# game/day35.rpy:1377
+translate russian day35_b_sex_hard_a360bd35:
+
+    # "{i}Hesitant at first, but when you start to play with her breasts, the jerking becomes increasingly more involved."
+    "{i}Все стеснение пропадает, когда ты начинаешь трогать её грудь, и мастурбация становится интенсивнее."
+
+# game/day35.rpy:1378
+translate russian day35_b_sex_hard_8f3bde9f:
+
+    # "{i}When the first moan escapes her, you know [b_name] is ready."
+    "{i}Когда из неё вырывается первый стон, ты понимаешь, что [b_name] готова."
+
+# game/day35.rpy:1380
+translate russian day35_b_sex_hard_bddfd74c:
+
+    # "{i}The moans become a muffled, agonized scream for a short moment when you pull the buzzing vibrator out of her cunt and throw it on a pile of clothing."
+    "{i}Стоны превращаются в приглушенный агонизирующий крик на короткое мгновение, когда вы вытаскиваете жужжащий вибратор из ее пизды и бросаете его на груду одежды."
+
+# game/day35.rpy:1381
+translate russian day35_b_sex_hard_7b5abbd6:
+
+    # b "What did you do that for?!"
+    b "Зачем ты это сделал?!"
+
+# game/day35.rpy:1382
+translate russian day35_b_sex_hard_d334433c:
+
+    # p "Clearing the way, my dear..."
+    p "Освобождаю путь, моя дорогая..."
+
+# game/day35.rpy:1387
+translate russian day35_b_sex_hard_d15a945c:
+
+    # "{i}You decide to tease her and rub your glans against her labia."
+    "{i}Ты решаешь подразнить её, и дотрагиваешься головкой до её половых губ."
+
+# game/day35.rpy:1389
+translate russian day35_b_sex_hard_1154eac5:
+
+    # "{i}The effects of the vibrator are very noticeable, as her vulva and thighs are covered in her juice."
+    "{i}Эффект от вибратора крайне нагляден - её вульва и ляжки покрыты смазкой."
+
+# game/day35.rpy:1390
+translate russian day35_b_sex_hard_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Своим членом ты ласкаешь зону вокруг её клитора и сам клитор."
+
+# game/day35.rpy:1391
+translate russian day35_b_sex_hard_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Одну руку [b_name] кладет тебе на плечо, а другой пытается засунуть твой член в себя."
+
+# game/day35.rpy:1392
+translate russian day35_b_sex_hard_7cd02fb1:
+
+    # "{i}You brush her away and continue what you were doing, obviously making her crazy."
+    "{i}Ты не слушаешься и продолажешь делать то, что делал."
+
+# game/day35.rpy:1394
+translate russian day35_b_sex_hard_12776b4a:
+
+    # "{i}When your sister's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Когда стоны твоей сестры превращаются в хриплый шепот, ты без предупреждения входишь в неё."
+
+# game/day35.rpy:1396
+translate russian day35_b_sex_hard_7aeaa71e:
+
+    # "{i}When your girl's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Когда стоны твоей девочки превращаются в хриплый шепот, ты без предупреждения входишь в неё."
+
+# game/day35.rpy:1401
+translate russian day35_b_sex_hard_3e3945bb:
+
+    # b "FUCK!"
+    b "Блять!"
+
+# game/day35.rpy:1402
+translate russian day35_b_sex_hard_ada4c787:
+
+    # "{i}Compensating for the initial violence, you proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Ты начинаешь медленно входить в неё, вводя в её киску всю длину своего члена."
+
+# game/day35.rpy:1403
+translate russian day35_b_sex_hard_6028295a:
+
+    # p "Oh [b_name]!"
+    p "О [b_name]!"
+
+# game/day35.rpy:1404
+translate russian day35_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Ааааа!"
+
+# game/day35.rpy:1407
+translate russian day35_b_sex_hard_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Ты так сильно ебешь свою сестру, что вы оба забываете, где находитесь, и думаете только о том, как получить наибольшее удовольствие."
+
+# game/day35.rpy:1409
+translate russian day35_b_sex_hard_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Ты так сильно ебешь свою девушку, что вы оба забываете, где находитесь, и думаете только о том, как получить наибольшее удовольствие."
+
+# game/day35.rpy:1411
+translate russian day35_b_sex_hard_b39f3017:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you focus on your own climax instead, intent on beating her to the punch."
+    "{i}Ты чувствуешь, как [b_name] трясется в твоих руках, и знаешь, что она близка, но фокусируешься только на себе."
+
+# game/day35.rpy:1415
+translate russian day35_b_sex_hard_8c6741dc:
+
+    # p "Kneel!"
+    p "На колени!"
+
+# game/day35.rpy:1416
+translate russian day35_b_sex_hard_7b230fe4:
+
+    # b "No, but..."
+    b "Нет, но..."
+
+# game/day35.rpy:1422
+translate russian day35_b_sex_hard_64526946:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Несмотря на недовольство, [b_name] встает на колени и злобно на тебя смотрит."
+
+# game/day35.rpy:1423
+translate russian day35_b_sex_hard_9f956632:
+
+    # p "Open your mouth, baby."
+    p "Открой ротик, детка."
+
+# game/day35.rpy:1424
+translate russian day35_b_sex_hard_2a613638:
+
+    # p "Here it comes."
+    p "Вот и оно."
+
+# game/day35.rpy:1431
+translate russian day35_b_sex_hard_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Твой член лежит на её нижней губе и выбрасывает огромное количество спермы в рот твоей сестры."
+
+# game/day35.rpy:1433
+translate russian day35_b_sex_hard_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Твой член лежит на её нижней губе и выбрасывает огромное количество спермы в рот [b_name]."
+
+# game/day35.rpy:1437
+translate russian day35_b_sex_hard_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Не желая пачкать лицо или грудь, [b_name] довольно сглатывает твою сперму."
+
+# game/day35.rpy:1445
+translate russian day35_b_sex_hard_8c6741dc_1:
+
+    # p "Kneel!"
+    p "На колени!"
+
+# game/day35.rpy:1446
+translate russian day35_b_sex_hard_7b230fe4_1:
+
+    # b "No, but..."
+    b "Нет, но..."
+
+# game/day35.rpy:1452
+translate russian day35_b_sex_hard_64526946_1:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Несмотря на недовольство, [b_name] встает на колени и злобно на тебя смотрит."
+
+# game/day35.rpy:1453
+translate russian day35_b_sex_hard_4f981de3:
+
+    # p "Just sit still, baby."
+    p "Просто не шевелись, детка."
+
+# game/day35.rpy:1454
+translate russian day35_b_sex_hard_2a613638_1:
+
+    # p "Here it comes."
+    p "Вот и оно."
+
+# game/day35.rpy:1461
+translate russian day35_b_sex_hard_459b3561:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over your sister's pretty face."
+    "{i}Твой член направлен на её лицо и выбрасывает огромное количество спермы на лицо твоей сестры."
+
+# game/day35.rpy:1463
+translate russian day35_b_sex_hard_b19beb8d:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over [b_name]'s pretty face."
+    "{i}Твой член направлен на её лицо и выбрасывает огромное количество спермы на лицо [b_name]."
+
+# game/day35.rpy:1464
+translate russian day35_b_sex_hard_4042a015:
+
+    # "{i}After making a mess of her face, [b_name] glances around in panic, looking for something to clean herself up with."
+    "{i}После того, как ты запачкал её лицо, [b_name] в панике ищет что-то, чем можно было бы вытереться."
+
+# game/day35.rpy:1473
+translate russian day35_b_sex_hard_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Вот и оно, детка."
+
+# game/day35.rpy:1482
+translate russian day35_b_sex_hard_29cf96ec:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of your sister."
+    "{i}Твой член, находящийся глубоко в её влажной дырочке, выбрасывает огромное количество спермы внутрь твоей сестры."
+
+# game/day35.rpy:1484
+translate russian day35_b_sex_hard_3760a1ff:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Твой член, находящийся глубоко в её влажной дырочке, выбрасывает огромное количество спермы внутрь [b_name]."
+
+# game/day35.rpy:1486
+translate russian day35_b_sex_hard_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Ты вынимаешь, и сперма начинает стекать из её киски."
+
+# game/day35.rpy:1487
+translate russian day35_b_sex_hard_31a63622:
+
+    # "{i}[b_name] glances around in discomfort, looking for something to clean herself up with."
+    "{i}[b_name] ищет что-то, чем можно было бы вытереться."
+
+# game/day35.rpy:1498
+translate russian day35_b_sex_hard_cbb867e2:
+
+    # p "I'm going to buy that last set for you."
+    p "Я куплю последний комплект тебе."
+
+# game/day35.rpy:1499
+translate russian day35_b_sex_hard_168940ff:
+
+    # p "You looked really hot in that one."
+    p "Ты очень горячо выглядела в нем."
+
+# game/day35.rpy:1514
+translate russian day35_b_sex_c665ea68:
+
+    # b "Nice and private."
+    b "Мило и приватно."
+
+# game/day35.rpy:1515
+translate russian day35_b_sex_69c35c5b:
+
+    # p "It certainly is."
+    p "Определенно."
+
+# game/day35.rpy:1517
+translate russian day35_b_sex_35426c67:
+
+    # "{i}You pull her close and kiss her full on the lips, her lips part invitingly and your tongues intertwine."
+    "{i}Ты притягиваешь её к себе и целуешь в губы, ваши языки начинают переплетаться."
+
+# game/day35.rpy:1519
+translate russian day35_b_sex_a5182461:
+
+    # "{i}As you kiss, [b_name]'s breathing becomes shallow; she manages to undress herself while still kissing you fervently."
+    "{i}Пока вы целуетесь, [b_name] начинает очень быстро дышать и ей как-то удается раздеться."
+
+# game/day35.rpy:1524
+translate russian day35_b_sex_75474255:
+
+    # "{i}As you pull your shirt over your head, she unbuttons your pants and frees your erection."
+    "{i}Пока ты снимаешь свою рубашку через голову, она расстегивает твои штаны и совобождает твой член."
+
+# game/day35.rpy:1525
+translate russian day35_b_sex_f99129d5:
+
+    # b "I really want you right now."
+    b "Я очень хочу тебя прямо сейчас."
+
+# game/day35.rpy:1527
+translate russian day35_b_sex_8642fc02:
+
+    # "{i}Looking at you smoulderingly, your sister jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Смотря на тебя со страстью, твоя сестра начинает дрочить тебе, отодвигая крайнюю плоть с головки."
+
+# game/day35.rpy:1529
+translate russian day35_b_sex_f5ec1bb1:
+
+    # "{i}Looking at you smoulderingly, your girl jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Смотря на тебя со страстью, твоя девушка начинает дрочить тебе, отодвигая крайнюю плоть с головки."
+
+# game/day35.rpy:1530
+translate russian day35_b_sex_ba01253b:
+
+    # "{i}You play with her breasts as the jerking becomes increasingly more frantic and [b_name] moans with hunger."
+    "{i}Ты играешь с её грудью, пока [b_name] начинает дрочить тебе интенсивнее и стонать с удовольствием."
+
+# game/day35.rpy:1535
+translate russian day35_b_sex_da5dbc83:
+
+    # "{i}You pull her closer and kiss her again, teasing her below by rubbing your tip against her labia, wet with her juices."
+    "{i}Ты снова целуешь её и дразнишь, прижимая головку к уже мокрым половым губам."
+
+# game/day35.rpy:1536
+translate russian day35_b_sex_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Своим членом ты ласкаешь зону вокруг её клитора и сам клитор."
+
+# game/day35.rpy:1537
+translate russian day35_b_sex_6516f350:
+
+    # b "Oh God, [p_name]!"
+    b "О боже, [p_name]!"
+
+# game/day35.rpy:1538
+translate russian day35_b_sex_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Одну руку [b_name] кладет тебе на плечо, а другой пытается засунуть твой член в себя."
+
+# game/day35.rpy:1539
+translate russian day35_b_sex_2205fa0a:
+
+    # p "Are we really going to do this here?"
+    p "Мы правда сделаем это здесь?"
+
+# game/day35.rpy:1542
+translate russian day35_b_sex_d7a7f399:
+
+    # "{i}Your sister just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Твоя сестра просто кивает, прикусывая нижнюю губу, и это почти заставляет тебя тут же кончить."
+
+# game/day35.rpy:1544
+translate russian day35_b_sex_2ca9756a:
+
+    # "{i}Your girlfriend just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Твоя девушка просто кивает, прикусывая нижнюю губу, и это почти заставляет тебя тут же кончить."
+
+# game/day35.rpy:1549
+translate russian day35_b_sex_c05f6ab6:
+
+    # "{i}[b_name] spreads her legs to allow your cock to slide inside her with ease."
+    "{i}[b_name] раздвигает ноги, чтобы ты мог легко войти в неё."
+
+# game/day35.rpy:1550
+translate russian day35_b_sex_1223e8d3:
+
+    # "{i}You proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Ты медленно вставляешь весь свой член в её киску."
+
+# game/day35.rpy:1551
+translate russian day35_b_sex_6028295a:
+
+    # p "Oh [b_name]!"
+    p "О [b_name]!"
+
+# game/day35.rpy:1552
+translate russian day35_b_sex_3539b25e:
+
+    # b "Yes, [p_name]!"
+    b "Да, [p_name]!"
+
+# game/day35.rpy:1555
+translate russian day35_b_sex_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Ты так сильно ебешь свою сестру, что вы оба забываете, где находитесь, и думаете только о том, как получить наибольшее удовольствие."
+
+# game/day35.rpy:1557
+translate russian day35_b_sex_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Ты так сильно ебешь свою девушку, что вы оба забываете, где находитесь, и думаете только о том, как получить наибольшее удовольствие."
+
+# game/day35.rpy:1558
+translate russian day35_b_sex_e7c2a5b1:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you finger her little clit to help her reach her climax."
+    "{i}Ты чувствуешь, как [b_name] трясется в твоих руках, и ты знаешь, что она близка, так что ты начинаешь трогать её маленький клитор, чтобы помочь ей дойти до оргазма."
+
+# game/day35.rpy:1560
+translate russian day35_b_sex_dd31e68f:
+
+    # b "F-ffffuuuu..."
+    b "Аааааааа..."
+
+# game/day35.rpy:1564
+translate russian day35_b_sex_63e14af3:
+
+    # p "Do you want to taste me?"
+    p "Хочешь попробовать меня?"
+
+# game/day35.rpy:1565
+translate russian day35_b_sex_488fb012:
+
+    # b "Y-yes! I want all of it!"
+    b "Д-да! Я хочу всего тебя!"
+
+# game/day35.rpy:1571
+translate russian day35_b_sex_83371610:
+
+    # "{i}[b_name] quickly kneels before you, opening her mouth."
+    "{i}[b_name] быстро встает на колени перед тобой, открывая рот."
+
+# game/day35.rpy:1572
+translate russian day35_b_sex_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Вот и оно, детка."
+
+# game/day35.rpy:1579
+translate russian day35_b_sex_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Твой член лежит на её нижней губе и выбрасывает огромное количество спермы в рот твоей сестры."
+
+# game/day35.rpy:1581
+translate russian day35_b_sex_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Твой член лежит на её нижней губе и выбрасывает огромное количество спермы в рот [b_name]."
+
+# game/day35.rpy:1585
+translate russian day35_b_sex_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Не желая пачкать лицо или грудь, [b_name] довольно сглатывает твою сперму."
+
+# game/day35.rpy:1594
+translate russian day35_b_sex_84ae19a5:
+
+    # "{i}Your orgasm coincides with hers and the feeling is almost too overwhelming"
+    "{i}Вы одноврменно доходите до оргазма, испытывая невероятные ощущения."
+
+# game/day35.rpy:1603
+translate russian day35_b_sex_e2778beb:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of your sister."
+    "{i}Твой член, находящийся глубоко в её влажной дырочке, выбрасывает огромное количество спермы внутрь твоей сестры."
+
+# game/day35.rpy:1605
+translate russian day35_b_sex_fc8995db:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Твой член, находящийся глубоко в её влажной дырочке, выбрасывает огромное количество спермы внутрь [b_name]."
+
+# game/day35.rpy:1607
+translate russian day35_b_sex_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Ты вынимаешь, и сперма начинает стекать из её киски."
+
+# game/day35.rpy:1619
+translate russian day35_b_sex_a79d3d9d:
+
+    # b "You've made quite a mess."
+    b "Ты все запачкал."
+
+# game/day35.rpy:1620
+translate russian day35_b_sex_3d2db6a7:
+
+    # p "Sorry for that."
+    p "Извини."
+
+# game/day35.rpy:1621
+translate russian day35_b_sex_7a735aae:
+
+    # b "Don't be silly."
+    b "Не придуривайся."
+
+# game/day35.rpy:1623
+translate russian day35_b_sex_84fe3e86:
+
+    # b "I was afraid you'd make a mess."
+    b "Я боялась, что ты все запачкаешь."
+
+# game/day35.rpy:1624
+translate russian day35_b_sex_d49aaacb:
+
+    # p "You took care of that very elegantly."
+    p "Ты прекрасно справилась с этим."
+
+# game/day35.rpy:1625
+translate russian day35_b_sex_eb53660d:
+
+    # b "I did, didn't I?"
+    b "Конечно, ещё бы."
+
+# game/day35.rpy:1626
+translate russian day35_b_sex_043cf62e:
+
+    # p "I'll go and pay for that nice set of lingerie."
+    p "Я пойду пока заплачу."
+
+# game/day35.rpy:1627
+translate russian day35_b_sex_60d90d51:
+
+    # b "Great, I'll be with you in a moment!"
+    b "Хорошо, я скоро догоню тебя!"
+
+# game/day35.rpy:1642
+translate russian day35_flashback_sex_697fe1ca:
+
+    # "{i}Sasha didn't hold back when she kissed the younger girl, and Sabine was obviously overwhelmed by it."
+    "{i}Саша не отсранялась, когда она целовала юную девушку, и Сабине очень это нравилось."
+
+# game/day35.rpy:1643
+translate russian day35_flashback_sex_5faf6a2b:
+
+    # sa "Sasha..."
+    sa "Саша..."
+
+# game/day35.rpy:1644
+translate russian day35_flashback_sex_f0631e93:
+
+    # s "Just enjoy, dear."
+    s "Просто наслаждайся, милая."
+
+# game/day35.rpy:1653
+translate russian day35_flashback_sex_c94f5a34:
+
+    # "{i}Sabine held her breath while Sasha slowly removed her top, their mouths and tongues still in firm contact with each other."
+    "{i}Сабина задержала дыхание, пока Саша медленно снимала её топ, а их языки переплетались."
+
+# game/day35.rpy:1654
+translate russian day35_flashback_sex_18d63bcb:
+
+    # s "You're a beautiful girl, Sabine."
+    s "Ты прекрасная девушка, Сабина."
+
+# game/day35.rpy:1655
+translate russian day35_flashback_sex_a7a329a1:
+
+    # sa "Do you... do you really think so?"
+    sa "Ты... ты правда так думаешь?"
+
+# game/day35.rpy:1656
+translate russian day35_flashback_sex_be4259d8:
+
+    # s "I wouldn't tell you otherwise."
+    s "Иначе я бы тебе не сказала."
+
+# game/day35.rpy:1657
+translate russian day35_flashback_sex_ce3d1e49:
+
+    # "{i}I'd never seen Sabine this shy or flustered, but Sasha and the promise of that passionate kiss had a profound impact on Miley's friend."
+    "{i}Я никогда не видел Сабину такой стеснительной, но страстный поцелуй Саши очень сильно менял подругу Майли."
+
+# game/day35.rpy:1659
+translate russian day35_flashback_sex_4da7e08d:
+
+    # "{i}Sasha lowered her head and proceeded to kiss Sabine's chest, lingering at her small breasts and nipples."
+    "{i}Саша опустила голову, чтобы поцеловать грудь Сабины и облизать её соски."
+
+# game/day35.rpy:1660
+translate russian day35_flashback_sex_fcd1ffae:
+
+    # s "Soft skin."
+    s "Мягкая кожа."
+
+# game/day35.rpy:1661
+translate russian day35_flashback_sex_0d4c3345:
+
+    # s "Very cute breasts."
+    s "Очень милая грудь."
+
+# game/day35.rpy:1662
+translate russian day35_flashback_sex_c5e5f65c:
+
+    # sa "Oooh!"
+    sa "Оооо!"
+
+# game/day35.rpy:1663
+translate russian day35_flashback_sex_d62209ac:
+
+    # s "Do you like it when I lick you there?"
+    s "Тебе нравится так?"
+
+# game/day35.rpy:1664
+translate russian day35_flashback_sex_791b9e20:
+
+    # sa "Y-yes..."
+    sa "Д-да..."
+
+# game/day35.rpy:1665
+translate russian day35_flashback_sex_bec6b393:
+
+    # s "Would you like me to continue?"
+    s "Хочешь, чтобы я продолжила?"
+
+# game/day35.rpy:1666
+translate russian day35_flashback_sex_ba6f134b:
+
+    # sa "Oh yes, please."
+    sa "О да, пожалуйста."
+
+# game/day35.rpy:1671
+translate russian day35_flashback_sex_e36d3e49:
+
+    # "{i}Sasha helped the younger girl remove her pants, revealing her panties."
+    "{i}Саша помогла девушке раздеться до трусиков."
+
+# game/day35.rpy:1672
+translate russian day35_flashback_sex_f3f334b8:
+
+    # s "I wonder what's hiding in there..."
+    s "Интересно, что там..."
+
+# game/day35.rpy:1673
+translate russian day35_flashback_sex_2f3808ab:
+
+    # sa "Nothing special."
+    sa "Ничего особенного."
+
+# game/day35.rpy:1674
+translate russian day35_flashback_sex_9f30c2fc:
+
+    # s "I beg to differ."
+    s "А я думаю иначе."
+
+# game/day35.rpy:1675
+translate russian day35_flashback_sex_23e87d94:
+
+    # s "Let's get a little more comfortable."
+    s "Давай сделаем еще приятнее."
+
+# game/day35.rpy:1677
+translate russian day35_flashback_sex_e093aa09:
+
+    # "{i}As Sasha stood up she looked directly into my direction, letting me know she was aware of the audience."
+    "{i}Когда Саша встала, она посмотрела прямо в мою сторону, давая мне понять, что знает обо мне."
+
+# game/day35.rpy:1678
+translate russian day35_flashback_sex_5817038a:
+
+    # "{i}Then, for the benefit of Sabine and me, she started to undress herself agonizingly slow."
+    "{i}Затем, на радость мне и Сабине, она начала медленно раздеваться."
+
+# game/day35.rpy:1683
+translate russian day35_flashback_sex_6fa7337a:
+
+    # s "What do you think, Sabine?"
+    s "Что думаешь, Сабина?"
+
+# game/day35.rpy:1684
+translate russian day35_flashback_sex_9db22226:
+
+    # sa "You're beautiful."
+    sa "Ты прекрасна."
+
+# game/day35.rpy:1685
+translate russian day35_flashback_sex_e7015632:
+
+    # s "Good, now kiss me again."
+    s "Хорошо, поцелуй меня снова."
+
+# game/day35.rpy:1691
+translate russian day35_flashback_sex_f685c514:
+
+    # "{i}The girls shared another kiss, Sasha's hand methodically inching towards Sabine's panties and finally rubbing the young girl's labia through the fabric of the underwear."
+    "{i}Девушки поцеловались снова, и Саша наконец начала трогать половые губы Сабины через ткань нижнего белья."
+
+# game/day35.rpy:1692
+translate russian day35_flashback_sex_dc33947e:
+
+    # sa "S-s-Sasha..."
+    sa "С-с-саша..."
+
+# game/day35.rpy:1693
+translate russian day35_flashback_sex_596e183a:
+
+    # s "Yes, sweetie?"
+    s "Да, милая?"
+
+# game/day35.rpy:1694
+translate russian day35_flashback_sex_40502c82:
+
+    # s "You know you're really wet down there?"
+    s "Ты знаешь, как ты вся взмокла?"
+
+# game/day35.rpy:1695
+translate russian day35_flashback_sex_e0ea9b76:
+
+    # sa "Yes..."
+    sa "Да..."
+
+# game/day35.rpy:1696
+translate russian day35_flashback_sex_6d660ea4:
+
+    # s "Do you like what we're doing?"
+    s "Тебе нравится то, что мы делаем?"
+
+# game/day35.rpy:1697
+translate russian day35_flashback_sex_c0b742bc:
+
+    # sa "I love it."
+    sa "Очень."
+
+# game/day35.rpy:1698
+translate russian day35_flashback_sex_931bfcaf:
+
+    # s "Why don't you play with my puppies for a while, and I'll help you out of these panties."
+    s "Почему бы тебе не поиграться со мной, пока я помогу тебе раздеться полностью."
+
+# game/day35.rpy:1704
+translate russian day35_flashback_sex_c14584c7:
+
+    # "{i}Sabine didn't need much encouraging and turned her attention to Sasha's breasts immediately."
+    "{i}Сабине не нужно было больше слов, и она сразу же обратила внимание на грудь Саши."
+
+# game/day35.rpy:1705
+translate russian day35_flashback_sex_22d437a7:
+
+    # s "Oh, that's good."
+    s "Ох как хорошо."
+
+# game/day35.rpy:1706
+translate russian day35_flashback_sex_7e3a9cbf:
+
+    # s "Yes, keep going."
+    s "Да, продолжай"
+
+# game/day35.rpy:1707
+translate russian day35_flashback_sex_fcbf1cb6:
+
+    # "{i}Sasha revealed the young girl's pussy, the wetness of her lips even visible from my point of view."
+    "{i}Саша оголила киску девушки, и даже я мог увидеть, насколько её губы были мокрые."
+
+# game/day35.rpy:1713
+translate russian day35_flashback_sex_f9bb2674:
+
+    # "{i}The direct contact of Sasha's fingers on her bared pussy made Sabine jump a little and the older woman's nipple slipped from her mouth."
+    "{i}Прикосновение пальцев Саши к голой киске Сабины заставило её вздрогнуть и вынуть изо рта сосок женщины постарше."
+
+# game/day35.rpy:1714
+translate russian day35_flashback_sex_55069217:
+
+    # s "Just keep going, sweet thing..."
+    s "Просто продолжай..."
+
+# game/day35.rpy:1715
+translate russian day35_flashback_sex_0e074a96:
+
+    # s "Don't worry, I'm going to make you feel good."
+    s "Не переживай, я сделаю тебе приятно."
+
+# game/day35.rpy:1716
+translate russian day35_flashback_sex_80e39750:
+
+    # sa "I-it already does!"
+    sa "Мн-не уже приятно!"
+
+# game/day35.rpy:1718
+translate russian day35_flashback_sex_4a2bafe1:
+
+    # "{i}When Sasha began to rub the other girl's slit, her moans were an unmistakable sign of deeply felt pleasure."
+    "{i}Когда Саша начала конкретно заниматься киской девушки, её стоны ясно давали понять, что она чувствовала нереальное удовольствие."
+
+# game/day35.rpy:1719
+translate russian day35_flashback_sex_e6b7b3f0:
+
+    # sa "Oooh, Sasha!"
+    sa "Ооо Саша!"
+
+# game/day35.rpy:1720
+translate russian day35_flashback_sex_9d9a33a6:
+
+    # s "That's it, do you want more?"
+    s "Хочешь больше?"
+
+# game/day35.rpy:1721
+translate russian day35_flashback_sex_6684ea66:
+
+    # sa "Yes, yes please!"
+    sa "Да, да!"
+
+# game/day35.rpy:1723
+translate russian day35_flashback_sex_fdd354c0:
+
+    # "{i}Before moving to Sabine's cherry, Sasha showered her belly and thighs with sweet kisses."
+    "{i}Перед тем, как опуститься в самый низ, Саша покрыла её животик и ляжки поцелуями."
+
+# game/day35.rpy:1724
+translate russian day35_flashback_sex_b35bcb57:
+
+    # "{i}When she finally arrived at the young girl's sex, her tongue explored every inch of it, stimulating Sabine to before unknown heights of pleasure."
+    "{i}Когда она наконец оказалась на месте, её язык начал изучать каждый миллиметр киски девушки, заставляя её чувствоать удовольствие, которое она еще никогда не испытывала."
+
+# game/day35.rpy:1726
+translate russian day35_flashback_sex_1fa09953:
+
+    # sa "I'm going to cum, Sasha!"
+    sa "Я сейчас кончу, Саша!"
+
+# game/day35.rpy:1727
+translate russian day35_flashback_sex_79d9369b:
+
+    # s "Let it all out, sweetheart!"
+    s "Давай, милая!"
+
+# game/day35.rpy:1728
+translate russian day35_flashback_sex_b99515cd:
+
+    # sa "Aaaah!"
+    sa "Аааа!"
+
+# game/day35.rpy:1730
+translate russian day35_flashback_sex_ca105b99:
+
+    # sa "Oh God!"
+    sa "О боже!"
+
+# game/day35.rpy:1731
+translate russian day35_flashback_sex_8dfe2e2d:
+
+    # sa "Don't stop!"
+    sa "Не останавливайся!"
+
+# game/day35.rpy:1732
+translate russian day35_flashback_sex_988fa21b:
+
+    # sa "Don't s-stop, please!"
+    sa "Н-не остана-авливайся, пожалуйста!"
+
+# game/day35.rpy:1738
+translate russian day35_flashback_sex_c685d3f9:
+
+    # "{i}Sasha showed no intention of doing so, and expertly guided Sabine to her climax."
+    "{i}Саша и не собиралась останавливаться, она умело довела Сабину до оргазма."
+
+# game/day35.rpy:1739
+translate russian day35_flashback_sex_5ed46d3a:
+
+    # "{i}The sight of Sabine, helplessly pleasured by Sasha and shuddering uncontrollably on the sofa was incredibly arousing."
+    "{i}Сабина выглядела очень возбуждающе, лежа на диване и беспомощно трясясь после действий Саши."
+
+# game/day35.rpy:1744
+translate russian day35_flashback_sex_f167671f:
+
+    # "{i}In fascination, I kept watching the girls as Sabine rested her head on Sasha's chest, happy tears in her eyes, while the older woman stroked her skin."
+    "{i}Я продолжал наблюдать за девушками, когда Сабина лежала на груди у Саши со слезами на глазах."
+
+# game/day35.rpy:1745
+translate russian day35_flashback_sex_4ec780aa:
+
+    # "{i}I snuck back into the bedroom and slipped next to Miley, holding her sleeping body in my arms."
+    "{i}Я пошел обратно в комнату и лег рядом с Майли, обнимая её."
+
+# game/day35.rpy:1746
+translate russian day35_flashback_sex_dae11ba8:
+
+    # "{i}I wasn't sure what exactly I had witnessed, but Sasha sure as hell made a connection with Sabine."
+    "{i}Я не был уверен в том, что только что увидел, но Саша точно установила какую-то связь с Сабиной."
+
+# game/day35.rpy:1747
+translate russian day35_flashback_sex_89f1652c:
+
+    # "{i}Just how deep the connection really went I learned a little later."
+    "{i}Насколько глубокой оказалась эта связь, я узнал немного позже."
+
+# game/day35.rpy:1765
+translate russian day35_ir_sex_48410ad7:
+
+    # ir "Could you just kiss me?"
+    ir "Можешь просто поцеловать меня?"
+
+# game/day35.rpy:1767
+translate russian day35_ir_sex_26751e8d:
+
+    # "{i}Needing no further encouragement, you kiss her tears away and soon you're both as passionate as before."
+    "{i}Не нуждаясь больше ни в каких словах, ты целуешь её, и скоро вы возвращаетесь к страсти."
+
+# game/day35.rpy:1768
+translate russian day35_ir_sex_372ced16:
+
+    # ir "I need you, [p_name]!"
+    ir "Ты нужен мне, [p_name]!"
+
+# game/day35.rpy:1773
+translate russian day35_ir_sex_7f500837:
+
+    # "{i}Softly, you lay her on the bed and stimulate her lower lips with your wet glans."
+    "{i}Ты мягко укладываешь её на кровать и начинаешь стимулировать её половые губы своей головкой."
+
+# game/day35.rpy:1774
+translate russian day35_ir_sex_8047627a:
+
+    # "{i}The older woman sighs and touches your muscular chest in delight, caressing your arms in an attempt to will you forward, deep inside her."
+    "{i}Взрослая женщина вздыхает и трогает твою мускулистую грудь, трогает твои руки, давая понять, что она хочет, чтобы ты входил глубже."
+
+# game/day35.rpy:1779
+translate russian day35_ir_sex_ef72aa8b:
+
+    # "{i}Your initial thrust still comes as a surprise to her, as she gasps audibly when your dick slips inside her wet pussy."
+    "{i}Её всё ещё удивляют твои мощные толчки, и она громко вздыхает каждый раз, когда твой член заходит в её мокрую киску."
+
+# game/day35.rpy:1780
+translate russian day35_ir_sex_e8a18f03:
+
+    # ir "Oh yes!"
+    ir "О да!"
+
+# game/day35.rpy:1782
+translate russian day35_ir_sex_430e942e:
+
+    # "{i}Her luxurious body bounces on the rhythm of your love-making, which is increasing in intensity."
+    "{i}Её шикарное тело трясется в ритм вашей любви, который становится все сильнее и сильнее."
+
+# game/day35.rpy:1783
+translate russian day35_ir_sex_a831e68f:
+
+    # "{i}The only things you manage to utter are hoarse moans and sighs, punctuated by hasty tongue kisses."
+    "{i}Ты можешь издавать только хриплые стоны и вздохи, прерываемые поцелуями."
+
+# game/day35.rpy:1784
+translate russian day35_ir_sex_8f8668bb:
+
+    # ir "I want you to fuck me deeper..."
+    ir "Трахай меня глубже..."
+
+# game/day35.rpy:1785
+translate russian day35_ir_sex_bba5bef4:
+
+    # "{i}You know exactly what she means when she gets on all fours, her majestic ass wiggling in the air."
+    "{i}Ты прекрасно понимаешь, чего она хочет, когда ты встаешь на четвереньки, и её отличный зад поднимается вверх."
+
+# game/day35.rpy:1794
+translate russian day35_ir_sex_c58ec8f0:
+
+    # "{i}Before you plunge your cock inside her hairy slit, you pause, looking at the delicate folds of her asshole."
+    "{i}Прежде чем засунуть свой член в её волосатую киску, ты останавливаешься, смотря на её попку."
+
+# game/day35.rpy:1795
+translate russian day35_ir_sex_dc3c797f:
+
+    # p "Iris..."
+    p "Ирис..."
+
+# game/day35.rpy:1796
+translate russian day35_ir_sex_5522f4f9:
+
+    # ir "Yes... [p_name], is something wrong?"
+    ir "Да... [p_name], что-то не так?"
+
+# game/day35.rpy:1797
+translate russian day35_ir_sex_1f14d985:
+
+    # p "Would you like me to do what you did at university?"
+    p "Хочешь, чтобы мы занялись тем, чем ты занималась в универе?"
+
+# game/day35.rpy:1798
+translate russian day35_ir_sex_0f960595:
+
+    # "{i}It takes a while for a slight smile to appear on Iris' face and she barely nods in agreement."
+    "{i}Ирис быстро улыбается и кивает в ответ."
+
+# game/day35.rpy:1799
+translate russian day35_ir_sex_3136b2cf:
+
+    # ir "I'd like that..."
+    ir "Очень хочу..."
+
+# game/day35.rpy:1804
+translate russian day35_ir_sex_be8e1955:
+
+    # ir "Please be gentle."
+    ir "Пожалуйста, будь аккуратен."
+
+# game/day35.rpy:1805
+translate russian day35_ir_sex_d7126455:
+
+    # ir "There's a bottle of lube in my nightstand."
+    ir "У меня есть лубрикант."
+
+# game/day35.rpy:1806
+translate russian day35_ir_sex_47a900cd:
+
+    # ir "It was for my toy..."
+    ir "Он нужен был для моей игрушки..."
+
+# game/day35.rpy:1807
+translate russian day35_ir_sex_d97d43b5:
+
+    # "{i}You find the bottle and make sure Iris is ready for you."
+    "{i}Ты находишь бутылочку и убеждаешься, что Ирис готова."
+
+# game/day35.rpy:1812
+translate russian day35_ir_sex_5978d2a7:
+
+    # "{i}When you're both ready, you grab hold of her ass and push the head of your cock against her anus."
+    "{i}Когда вы оба готовы, ты хватаешься за её задницу и прижимаешься головкой члена к её анусу."
+
+# game/day35.rpy:1813
+translate russian day35_ir_sex_7bcb4fc4:
+
+    # "{i}Iris holds her breath as your penis inches slowly inside of her, helped by the copious amount of lube."
+    "{i}Ирис задерживает дыхание, когда твой пенис начинает медленно входить в неё при помощи обильного количества смазки."
+
+# game/day35.rpy:1814
+translate russian day35_ir_sex_09e30899:
+
+    # ir "Aaah!"
+    ir "Аааа!"
+
+# game/day35.rpy:1815
+translate russian day35_ir_sex_96aa8b84:
+
+    # p "Should I stop?"
+    p "Мне остановиться?"
+
+# game/day35.rpy:1816
+translate russian day35_ir_sex_dea92101:
+
+    # ir "No, keep going."
+    ir "Нет, продолжай."
+
+# game/day35.rpy:1817
+translate russian day35_ir_sex_7fe2b824:
+
+    # "{i}The older woman is huffing, her face pressed inside the bedsheets as your cock disappears fully into her ass."
+    "{i}Взрослая женщина прижимается лицом к простыне, когда ты полностью вставляешь свой член в её жопу."
+
+# game/day35.rpy:1818
+translate russian day35_ir_sex_f23adae6:
+
+    # ir "Oh Lord!"
+    ir "О боже!"
+
+# game/day35.rpy:1819
+translate russian day35_ir_sex_79456584:
+
+    # ir "Fuck me! Please?"
+    ir "Трахни меня! Пожалуйста?"
+
+# game/day35.rpy:1826
+translate russian day35_ir_sex_2a7d82f8:
+
+    # "{i}Her asshole feels as tight as a virgin's pussy as you begin to sway back and forth, causing your cock to slide in and out of her asshole ever so slightly."
+    "{i}Ее задница кажется такой же тугой, как киска девственницы, когда ты начинаешь раскачиваться вперед-назад, заставляя свой член слегка входить и выходить из ее задницы."
+
+# game/day35.rpy:1827
+translate russian day35_ir_sex_1998fb05:
+
+    # "{i}Iris's clenched fists are buried deep into the mattress as she moans with closed eyes, spittle leaking from the corner of her mouth."
+    "{i}Ирис сжимает кулаки и держится ими за кровать, стонет, закрыв глаза, и слюна течет с уголка её губ."
+
+# game/day35.rpy:1828
+translate russian day35_ir_sex_eae3dffd:
+
+    # ir "Don't stop, [p_name]!"
+    ir "Не останавливайся, [p_name]!"
+
+# game/day35.rpy:1829
+translate russian day35_ir_sex_94e5a795:
+
+    # ir "It feels so good!"
+    ir "Это так приятно!"
+
+# game/day35.rpy:1831
+translate russian day35_ir_sex_41b47e0d:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her ass with deep strokes, causing Iris to gasp in delight."
+    "{i}Воодушевленный, ты хватаешь её и начинаешь ебать ещё глубже, чем заставляешь Ирис вздыхать от удовольствия."
+
+# game/day35.rpy:1832
+translate russian day35_ir_sex_8278008f:
+
+    # ir "Oh [p_name]!"
+    ir "Ох, [p_name]!"
+
+# game/day35.rpy:1833
+translate russian day35_ir_sex_dc5c0014:
+
+    # ir "Oh yes! Yes!"
+    ir "О да! Да!"
+
+# game/day35.rpy:1834
+translate russian day35_ir_sex_32108e22:
+
+    # "{i}Iris fingers her pussy while you continue stabbing her asshole and her moans intensify, signaling she's close to her climax."
+    "{i}Ирис начинает трогать свою киску, пока ты уничтожаешь её задницу, и её громкие стоны дают тебе понять, что она близка к оргазму."
+
+# game/day35.rpy:1840
+translate russian day35_ir_sex_3f8404e3:
+
+    # "{i}Maybe your mind is playing tricks on you, but you think you feel something of the intense orgasm Iris is experiencing as you keep fucking her."
+    "{i}Может, твой мозг тебя обманывает, но ты думаешь, что чувствуешь часть того оргазма, который сейчас испытывает Ирис, пока ты продолжаешь трахать её."
+
+# game/day35.rpy:1841
+translate russian day35_ir_sex_c781fe3d:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backward and a lewd smile gracing her face."
+    "{i}Пожилая женщина вздрагивает и задыхается, ее глаза закатываются назад, а на лице появляется развратная улыбка."
+
+# game/day35.rpy:1847
+translate russian day35_ir_sex_4ee3539a:
+
+    # "{i}You grab hold of her ass and push the head of your cock against her labia, teasing her wet pussy."
+    "{i}Ты вынимаешь член из её задницы и начинаешь проводить им по половым губам, дразня её мокрую киску."
+
+# game/day35.rpy:1848
+translate russian day35_ir_sex_4273c3ae:
+
+    # ir "Mmmm, please [p_name], fuck me."
+    ir "Мммм, пожалуйста, [p_name], трахни меня."
+
+# game/day35.rpy:1850
+translate russian day35_ir_sex_2ef51ee3:
+
+    # "{i}Iris holds her breath in ecstasy as your penis slips past her slick lips inside her love tunnel."
+    "{i}Ирис задерживает дыхание, когда твой член проникает в её сладкий любовный тоннель."
+
+# game/day35.rpy:1851
+translate russian day35_ir_sex_33e54f69:
+
+    # "{i}The woman moans with closed eyes and pushes her ass upwards in order for you to penetrate her even more deeply."
+    "{i}Женщина стонет с закрытыми глазами и поднимает свой зад выше, чтоб ты мог трахать её глубже."
+
+# game/day35.rpy:1852
+translate russian day35_ir_sex_94e5a795_1:
+
+    # ir "It feels so good!"
+    ir "Это так приятно!"
+
+# game/day35.rpy:1854
+translate russian day35_ir_sex_44e5ba08:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her pussy with deep strokes, causing Iris to gasp in delight."
+    "{i}Воодушевленный, ты хватаешь её и начинаешь ебать ещё глубже, чем заставляешь Ирис вздыхать от удовльсвтия."
+
+# game/day35.rpy:1855
+translate russian day35_ir_sex_8278008f_1:
+
+    # ir "Oh [p_name]!"
+    ir "Ох, [p_name]!"
+
+# game/day35.rpy:1856
+translate russian day35_ir_sex_dc5c0014_1:
+
+    # ir "Oh yes! Yes!"
+    ir "О да! Да!"
+
+# game/day35.rpy:1857
+translate russian day35_ir_sex_3fc53b4d:
+
+    # "{i}Iris fingers her pussy while you continue to pound her slit and her moans intensify, signaling she's close to her climax."
+    "{i}Ирис начинает трогать свою киску, пока ты занят ей же, и её громкие стоны дают тебе понять, что она близка к оргазму."
+
+# game/day35.rpy:1863
+translate russian day35_ir_sex_55927cab:
+
+    # "{i}Within seconds you're part of the intense orgasm Iris is experiencing as you keep fucking her during her convulsions of pleasure."
+    "{i}В считаные секунды ты становишься частью сильнейшего оргазма, который испытывает Ирис, и ты продолжаешь ебать её, пока она трясется от удовольствия."
+
+# game/day35.rpy:1864
+translate russian day35_ir_sex_872ab584:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backwards, a small stream of spittle leaking from the corner of her mouth."
+    "{i}Взрослая женщина трясется и вздыхает, она закатывает глаза и улыбается, слюна течет с углка её губ."
+
+# game/day35.rpy:1866
+translate russian day35_ir_sex_8cc23bc2:
+
+    # ir "T-that f-felt s-so amazing!"
+    ir "Эт-то был-ло что-то!"
+
+# game/day35.rpy:1867
+translate russian day35_ir_sex_cf3f253e:
+
+    # "{i}Her words have an immediate effect on you, and your own orgasm is approaching fast."
+    "{i}Её слова мгновенно повлияли на тебя и приблизили твой оргазм."
+
+# game/day35.rpy:1874
+translate russian day35_ir_sex_b87a9704:
+
+    # "{i}In a split second, you decide you want to finish inside her pussy and pull your cock out of Iris' asshole."
+    "{i}В долю секунды ты решаешь, что хочешь кончить в ее киске, и вытаскиваешь свой член из задницы Ирис."
+
+# game/day35.rpy:1875
+translate russian day35_ir_sex_ef49f9d2:
+
+    # "{i}She doesn't complain when your dick, covered in lube and inside her ass just a moment ago, penetrates her wet gash."
+    "{i}Она не возражает, когда твой член, покрытый смазкой и который был в её заднице секунду назад, входит в её влажную вагину."
+
+# game/day35.rpy:1877
+translate russian day35_ir_sex_28d650a3:
+
+    # "{i}In a split second, you decide to remain inside her and finish inside her pussy, so you keep fucking her for several intense thrusts."
+    "{i}В долю секунды ты решаешь остаться внутри нее и кончить в ее киску, поэтому ты продолжаешь трахать ее в течение нескольких интенсивных толчков."
+
+# game/day35.rpy:1884
+translate russian day35_ir_sex_0ae70127:
+
+    # "{i}Within seconds you flood her vagina with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}Её вагина сразу же заполняется твоей теплой спермой, и Ирис наслаждается этим ощущением."
+
+# game/day35.rpy:1886
+translate russian day35_ir_sex_681fbfa8:
+
+    # "{i}Semen leaks out of her pussy and stains the bed sheets as you pull out your cock."
+    "{i}Семя вытекает из неё и попадает на постельное белье, когда ты вынимаешь свой член."
+
+# game/day35.rpy:1887
+translate russian day35_ir_sex_9c55539d:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Ирис не против, она только смотрит на тебя влюбленным и довольным взглядом."
+
+# game/day35.rpy:1897
+translate russian day35_ir_sex_5bf8008f:
+
+    # "{i}In a split second, you decide you want to finish inside her ass, so you keep fucking her for several intense thrusts."
+    "{i}Ты решаешь кончить в её задницу, поэтому продолжаешь трахать её ещё сильнее."
+
+# game/day35.rpy:1904
+translate russian day35_ir_sex_4e6dfb0b:
+
+    # "{i}Within seconds you flood her asshole with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}Её попка сразу же заполняется твоей теплой спермой, и Ирис наслаждается этим ощущением."
+
+# game/day35.rpy:1906
+translate russian day35_ir_sex_54b105e2:
+
+    # "{i}Semen, mixed with lube, leaks out of her winking anus and stains the bed sheets as you pull out your cock."
+    "{i}Семя со смазкой вытекают из её ануса и попадают на постельное белье, когда ты вынимаешь свой член."
+
+# game/day35.rpy:1907
+translate russian day35_ir_sex_9c55539d_1:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Ирис не против, она только смотрит на тебя влюбленным и довольным взглядом."
+
+# game/day35.rpy:1921
+translate russian day35_ir_sex_d6fd4b00:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' asshole."
+    "{i}В долю секунды ты решаешь покрыть ее тело своим семенем и вытаскиваешь свой член из задницы Ирис."
+
+# game/day35.rpy:1923
+translate russian day35_ir_sex_26081ed6:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' vagina."
+    "{i}В долю секунды ты решаешь покрыть ее тело своим семенем и вытаскиваешь свой член из влагалища Ирис."
+
+# game/day35.rpy:1926
+translate russian day35_ir_sex_72710649:
+
+    # "{i}Within seconds you spray her back with warm cum as Iris luxuriates in the feeling of being covered in semen."
+    "{i}Её тело оказывается покрытым твоей теплой спермой, и Ирис наслаждается этим ощущением."
+
+# game/day35.rpy:1927
+translate russian day35_ir_sex_d0fb3feb:
+
+    # "{i}Iris looks at you lovingly in post-coital bliss as the warm cum drips from the sides of her body."
+    "{i}Ирис смотрит на тебя влюбленным и довольным взглядом, пока теплая сперма стекает по её телу."
+
+# game/day35.rpy:1936
+translate russian day35_ir_sex_3af46f8a:
+
+    # ir "I'd forgotten how good it felt..."
+    ir "А я уже забыла, как это приятно..."
+
+# game/day35.rpy:1938
+translate russian day35_ir_sex_9c792fa6:
+
+    # p "Anal?"
+    p "Анал?"
+
+# game/day35.rpy:1939
+translate russian day35_ir_sex_710b6775:
+
+    # ir "Not just that."
+    ir "Не только."
+
+# game/day35.rpy:1940
+translate russian day35_ir_sex_9ec71e28:
+
+    # ir "Though it did feel good."
+    ir "Хотя это было приятно."
+
+# game/day35.rpy:1941
+translate russian day35_ir_sex_24dcce1d:
+
+    # ir "A little uncomfortable at first..."
+    ir "Немного некомфортно в начале..."
+
+# game/day35.rpy:1942
+translate russian day35_ir_sex_ad0d1aaf:
+
+    # ir "But I meant in a broader sense, having sex without any restraints."
+    ir "Но я про секс без каких-то ограничений."
+
+# game/day35.rpy:1944
+translate russian day35_ir_sex_5eefe91f:
+
+    # ir "Having sex without any restraints."
+    ir "Секс без каких-то ограничений."
+
+# game/day35.rpy:1945
+translate russian day35_ir_sex_64f73ce2:
+
+    # ir "For a moment, nothing else mattered."
+    ir "На момент все вокруг исчезло."
+
+# game/day35.rpy:1946
+translate russian day35_ir_sex_8c166994:
+
+    # ir "I want us to be lovers, [p_name]."
+    ir "Я хочу, чтоб мы были любовниками, [p_name]."
+
+# game/day35.rpy:1947
+translate russian day35_ir_sex_796d9ba7:
+
+    # p "I already thought we were."
+    p "А я думал, мы уже."
+
+# game/day35.rpy:1948
+translate russian day35_ir_sex_5400b66c:
+
+    # ir "Maybe we are, but I just felt I needed to say it."
+    ir "Может быть, но я подумала, что надо это сказать."
+
+# game/day35.rpy:1949
+translate russian day35_ir_sex_15da191f:
+
+    # ir "Being with you makes me feel like I belong."
+    ir "С тобой я чувствую себя естественно."
+
+# game/day35.rpy:1950
+translate russian day35_ir_sex_43a844d8:
+
+    # ir "You appreciate me, [p_name], and it's a long time since I've felt that way."
+    ir "Ты ценишь меня, [p_name], я давно себя так не чувствовала."
+

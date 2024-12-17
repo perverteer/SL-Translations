@@ -2466,4 +2466,119 @@ translate russian day03_day_conversation_r_ba978766_1:
 translate russian day03_dinner_e4f9b932:
 
     # r "Nah. Never mind."
-    r "Неважно."
+    r "Неважно."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day03.rpy:395
+translate russian day03_drinks_eb116efd:
+
+    # "{i}You push her hand away."
+    "{i}Ты отталкиваешь ее руку."
+
+# game/day03.rpy:397
+translate russian day03_drinks_2a4ab6c8:
+
+    # a "Better leave you guys to it then. Come Alina."
+    a "Тогда лучше оставить вас, ребята. Идем, Алина."
+
+# game/day03.rpy:398
+translate russian day03_drinks_fa2635b0:
+
+    # al "Bye."
+    al "Пока."
+
+# game/day03.rpy:403
+translate russian day03_drinks_2284cd57:
+
+    # j "You're in a world of trouble, my man."
+    j "Ты в гребаном мире проблем, чувак."
+
+# game/day03.rpy:406
+translate russian day03_drinks_a716609c:
+
+    # p "{i}(What?! Did he notice something?)"
+    p "{i}(Что?! Он что-то заметил?)"
+
+# game/day03.rpy:407
+translate russian day03_drinks_9d4df256:
+
+    # p "{i}(Best play it cool.)"
+    p "{i}(Надо сохранять спокойствие)"
+
+# game/day03.rpy:408
+translate russian day03_drinks_ea0f688b:
+
+    # p "How come?"
+    p "Почему?"
+
+# game/day03.rpy:409
+translate russian day03_drinks_496e1be6:
+
+    # j "It seems Ana has taken an interest in you."
+    j "Кажется, Ана тобой заинтересовалась."
+
+# game/day03.rpy:410
+translate russian day03_drinks_fd5f55ba:
+
+    # p "Oh."
+    p "Оу."
+
+# game/day03.rpy:411
+translate russian day03_drinks_9d91dc7b:
+
+    # j "I know that look in her eye."
+    j "Я видел, как она на тебя смотрела."
+
+# game/day03.rpy:414
+translate russian day03_drinks_a5f8b0f9:
+
+    # p "She's fucking hot. So I hope you don't mind."
+    p "Она горячая штучка. Так что, надеюсь, ты не будешь беспокоиться."
+
+# game/day03.rpy:415
+translate russian day03_drinks_5d28297f:
+
+    # j "Hell no! I'd sure know what to do if she weren't my sister!"
+    j "Конечно нет! Я бы сделал также, не будь она моей сестрой!"
+
+# game/day03.rpy:417
+translate russian day03_drinks_62340ac7:
+
+    # j "Maybe Alina wants to go out with me, then we'd be dating the two hottest girls in college!"
+    j "Может быть, Алина обратит внимание на меня, и тогда мы будем встречаться с двумя самыми горячими девушками в колледже!"
+
+# game/day03.rpy:418
+translate russian day03_drinks_35fefc3b:
+
+    # p "Keep on dreaming!"
+    p "Мечтай!"
+
+# game/day03.rpy:419
+translate russian day03_drinks_b42022b5:
+
+    # j "Hehehehe."
+    j "Хехехехехе."
+
+# game/day03.rpy:422
+translate russian day03_drinks_71680f12:
+
+    # p "I'm not really interested in her."
+    p "На самом деле, я в ней не очень заинтересован."
+
+# game/day03.rpy:423
+translate russian day03_drinks_56ffb8c9:
+
+    # j "I sure hope she knows that. Ana mostly gets what she wants."
+    j "Я очень надеюсь, что она это знает. Ана в основном получает то, что хочет."
+
+# game/day03.rpy:425
+translate russian day03_drinks_947b15b5:
+
+    # "{i}You talk some more and then leave."
+    "{i}Вы болтаете еще некоторое время, после чего расходитесь."
+
+# game/day03.rpy:426
+translate russian day03_drinks_0fbe4e44:
+
+    # "{i}[b_name] obviously avoids you when you exit the cafe."
+    "{i}[b_name], очевидно, избегает тебя, когда ты покидаешь кафе. "
+

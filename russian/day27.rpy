@@ -4746,4 +4746,1355 @@ translate russian day27_flashback_485f4ac7:
 translate russian day27_flashback_2f5381cb:
 
     # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
-    "{i}Из ее киски потекла сперма на мой член и кровать моего отца, я прижал ее к себе, отчаянно сжимая ее тело в своих объятиях, мой член все еще спазмировал внутри нее, я больше не был девственником."
+    "{i}Из ее киски потекла сперма на мой член и кровать моего отца, я прижал ее к себе, отчаянно сжимая ее тело в своих объятиях, мой член все еще спазмировал внутри нее, я больше не был девственником."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day27.rpy:900
+translate russian day27_b_hotel_sex_196229c9:
+
+    # "{i}You provide them with your room number and slip out of bed to join [b_name] in the shower."
+    "{i}Ты говоришь им номер вашей комнаты и направляешься в душ к [b_name]."
+
+# game/day27.rpy:905
+translate russian day27_b_hotel_sex_8c4a2c58:
+
+    # "{i}Without saying anything, you kiss, your hands trailing the curves of her wet body. Teasingly you grab hold of the sponge she was using."
+    "{i}Не говоря ничего, вы целуетесь, и твои руки начинают изучать её мокрое тело. Ты берешь губку, которой она мылась."
+
+# game/day27.rpy:906
+translate russian day27_b_hotel_sex_3a25df90:
+
+    # b "Hey!"
+    b "Эй!"
+
+# game/day27.rpy:908
+translate russian day27_b_hotel_sex_cec0e92e:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, your sister lets out a contented sigh and leans back."
+    "{i}Держа губку, ты продолжаешь мягко натирать её тело. Когда ты доходишь до её прекрасной груди, твоя сестра вздыхает."
+
+# game/day27.rpy:910
+translate russian day27_b_hotel_sex_91bd6d71:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
+    "{i}Держа губку, ты продолжаешь мягко натирать её тело. Когда ты доходишь до её прекрасной груди, [b_name] вздыхает."
+
+# game/day27.rpy:911
+translate russian day27_b_hotel_sex_cbc1201f:
+
+    # b "Hmmmm. Keep doing that."
+    b "Мммммм. Продолжай."
+
+# game/day27.rpy:912
+translate russian day27_b_hotel_sex_1f668261:
+
+    # b "You do know that after this, I'll call you every time I take a shower now, don't you?"
+    b "Ты ведь знаешь, что после этого я всегда буду ходить в душ только с тобой, да?"
+
+# game/day27.rpy:913
+translate russian day27_b_hotel_sex_8c0a3e96:
+
+    # p "You say that like it's a bad thing."
+    p "Ты говоришь так, будто я против."
+
+# game/day27.rpy:915
+translate russian day27_b_hotel_sex_a6628d41:
+
+    # "{i}You turn your attention to her lower body, her toned thighs, the soft rise of her pussy."
+    "{i}Ты обращаешь внимание на нижнюю часть её тела, её упругие ножки и мягкую киску."
+
+# game/day27.rpy:916
+translate russian day27_b_hotel_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Мммм..."
+
+# game/day27.rpy:917
+translate russian day27_b_hotel_sex_300701d2:
+
+    # p "I..."
+    p "Я..."
+
+# game/day27.rpy:919
+translate russian day27_b_hotel_sex_2f041b28:
+
+    # "{i}Desire overcomes you both and you touch her, hungry for her soft skin."
+    "{i}Вы оба получаете удовольствие, пока ты жадно трогаешь её мягкую кожу."
+
+# game/day27.rpy:925
+translate russian day27_b_hotel_sex_2b4aea2b:
+
+    # "{i}Suddenly you're startled by the doorbell ringing."
+    "{i}Неожиданно вас останавливает звонок в дверь."
+
+# game/day27.rpy:926
+translate russian day27_b_hotel_sex_7ed3e395:
+
+    # p "Fuck. I ordered room service..."
+    p "Блять. Я заказал завтрак..."
+
+# game/day27.rpy:927
+translate russian day27_b_hotel_sex_e838c68b:
+
+    # b "How sweet!"
+    b "Как мило!"
+
+# game/day27.rpy:928
+translate russian day27_b_hotel_sex_1dd7540e:
+
+    # p "Yeah well, if only the timing was a bit better..."
+    p "Да, но они пришли не совсем вовремя..."
+
+# game/day27.rpy:931
+translate russian day27_b_hotel_sex_cc75db61:
+
+    # "{i}You wrap a towel around your body and head to the door. A cart is pushed inside your room, and after tipping the server, you close the door again."
+    "{i}Ты оборачиваешься в полотенце и идешь к двери. К вам завезли столик с завтраком, и, заплатив, ты пошел обратно."
+
+# game/day27.rpy:932
+translate russian day27_b_hotel_sex_266a237d:
+
+    # p "So... I guess we should have some breakfast?"
+    p "Ну так... Позавтракаем?"
+
+# game/day27.rpy:934
+translate russian day27_b_hotel_sex_ec9e26e4:
+
+    # b "Nope, I want something entirely different first."
+    b "Нет, сначала мы должны сделать кое-что другое."
+
+# game/day27.rpy:935
+translate russian day27_b_hotel_sex_078c5a26:
+
+    # p "Oh..."
+    p "Ох..."
+
+# game/day27.rpy:937
+translate russian day27_b_hotel_sex_6941d4e7:
+
+    # "{i}You jump on the bed, next to a giggling [b_name] and shower her body with kisses. [b_name] makes it clear she isn't interested in foreplay this time and turns her attention to your cock."
+    "{i}Ты запрыгиваешь на кровать к хохочущей [b_name] и покрываешь её тело поцелуями. [b_name] ясно дает понять, что ей сейчас не так важны прелюдия, и обращает внимание на твой член."
+
+# game/day27.rpy:942
+translate russian day27_b_hotel_sex_cfbca683:
+
+    # "{i}She guides you inside her, a warm feeling engulfing your cock. The hungry look in her eyes matching her wetness down below."
+    "{i}Она позволяет тебе войти, и твоему члену становится тепло. Её взгляд и влажность внизу показывают, как сильно она ебя хочет."
+
+# game/day27.rpy:947
+translate russian day27_b_hotel_sex_d7fa3cac:
+
+    # "{i}Without a word, you both surrender to your love making. Small thrusts ensure that your warm bodies are in contact most of the time. You bury your head in the perfume of her still-wet hair."
+    "{i}Не говоря ни слова, вы начинаете заниматься любовью. Ваши теплые тела почти полностью соприкасаются друг с другом. Ты зарываешь свою голову в аромате её мокрых волос."
+
+# game/day27.rpy:948
+translate russian day27_b_hotel_sex_5fc60217:
+
+    # b "Oh, [p_name]!"
+    b "Ах, [p_name]!"
+
+# game/day27.rpy:952
+translate russian day27_b_hotel_sex_07a91112:
+
+    # "{i}When your dick slips out of her pussy, [b_name] squirms from your grasp, pressing a finger against your lips as you begin to protest."
+    "{i}Тогда твой член выскальзывает из её киски, [b_name] увиливает от твоего хвата, и кладет палец на твои губы."
+
+# game/day27.rpy:953
+translate russian day27_b_hotel_sex_203a0f34:
+
+    # b "Ssssh, just lie down."
+    b "Тсссс, просто ложись."
+
+# game/day27.rpy:959
+translate russian day27_b_hotel_sex_052ebcda:
+
+    # "{i}Your sister squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Твоя сестра садится сверху и начинает медленно опускаться на твой член, прикусывая свою губу."
+
+# game/day27.rpy:961
+translate russian day27_b_hotel_sex_66615e02:
+
+    # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Она садится сверху и начинает медленно опускаться на твой член, прикусывая свою губу."
+
+# game/day27.rpy:962
+translate russian day27_b_hotel_sex_c43c4bff:
+
+    # "{i}Her pussy lips fold around your shaft. With closed eyes, [b_name] moans as the entirety of your shaft slides inside her."
+    "{i}Её половые губы обхватывают твой ствол, и [b_name] стонет с закрытыми глазами, пока ты входишь в неё."
+
+# game/day27.rpy:964
+translate russian day27_b_hotel_sex_d24d13ee:
+
+    # "{i}When she starts to move, you nearly climax. Instead you focus your attention on her beautiful breasts, that bounce with the rhythm of your fucking."
+    "{i}Когда ты начинаешь двигаться, ты становишься очень близок к финалу. Но вместо этого ты обращаешь внимание на её прекрасную трясущуюся грудь."
+
+# game/day27.rpy:965
+translate russian day27_b_hotel_sex_0f2d2c99:
+
+    # "{i}The position obviously gives [b_name] heightened pleasure as she moves up and down your cock ever faster, her butt slapping onto your skin."
+    "{i}Ваша поза доставляет огромное удовольствие [b_name] и она начинает быстрее двигаться, а её попка шлепается об твою кожу."
+
+# game/day27.rpy:972
+translate russian day27_b_hotel_sex_5e8446ed:
+
+    # b "G-g-g-god! Y-yes!"
+    b "Оооооооо! Боже!"
+
+# game/day27.rpy:974
+translate russian day27_b_hotel_sex_c474c697:
+
+    # "{i}Delirious, your sister orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Довольная, твоя сестра испытвает оргазм. Пока она трясется от удовольствия, ты берешь все в свои руки."
+
+# game/day27.rpy:976
+translate russian day27_b_hotel_sex_814837df:
+
+    # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Довольная, [b_name] испытвает оргазм. Пока она трясется от удовольствия, ты берешь все в свои руки."
+
+# game/day27.rpy:978
+translate russian day27_b_hotel_sex_d6e04d49:
+
+    # "{i}With her straddling your body, you move your hips quickly, penetrating her like rapid-fire."
+    "{i}Ты начинаешь быстро шевелить бедрами, входя в неё максимально быстро."
+
+# game/day27.rpy:988
+translate russian day27_b_hotel_sex_608db639:
+
+    # "{i}Her constricting vagina proves too much for your cock, and your semen mixes with her juices inside her wet slit."
+    "{i}Твой член оказывается слишком большим для её вагины, и твоя сперма вместе со смазкой начинает вытекать из неё."
+
+# game/day27.rpy:1001
+translate russian day27_b_hotel_sex_70f58587:
+
+    # "{i}Her constricting vagina proves too much for your cock, and after pulling out of her wet slit, you cover her lower body with thick streams of semen."
+    "{i}Твой член оказывается слишком большим для её вагины, и, вытащив его из её мокрой дырочки, ты покрываешь всю нижнюю часть её тела спермой."
+
+# game/day27.rpy:1009
+translate russian day27_b_hotel_sex_da652819:
+
+    # "{i}Exhausted you lie in each others arms, your fingertips stroking her soft skin."
+    "{i}Уставшие, вы лежите на руках у друг друга, и ты трогаешь её мягкую кожу."
+
+# game/day27.rpy:1010
+translate russian day27_b_hotel_sex_fa3f408e:
+
+    # b "Mmmmm. I don't know if I want to go home."
+    b "Ммммм. Я не хочу уходить домой."
+
+# game/day27.rpy:1011
+translate russian day27_b_hotel_sex_1249acbe:
+
+    # p "Me neither."
+    p "Я тоже."
+
+# game/day27.rpy:1012
+translate russian day27_b_hotel_sex_995bd1f9:
+
+    # b "The cleaning staff will be here soon."
+    b "Скоро придут убираться."
+
+# game/day27.rpy:1013
+translate russian day27_b_hotel_sex_167f6a45:
+
+    # p "We could just lock the door and hide in the bathroom."
+    p "Мы можем просто закрыть дверь и спрятаться в ванной."
+
+# game/day27.rpy:1014
+translate russian day27_b_hotel_sex_4bfd9a22:
+
+    # b "I'm pretty sure it doesn't work like that."
+    b "Не думаю, что это сработает."
+
+# game/day27.rpy:1016
+translate russian day27_b_hotel_sex_edd34605:
+
+    # "{i}At the same time, you both let out a contented sigh. Laughing, you kiss again and lie on the bed for a little longer, until you deem it time to leave the hotel and head home."
+    "{i}Вы одновременно вздыхаете. Смеясь, вы целуетесь и еще немного валяетесь на кровати, пока не решаете наконец пойти домой."
+
+# game/day27.rpy:1032
+translate russian day27_b_vibrator_e8e049ba:
+
+    # "{i}With a resigned sigh, [b_name] stands up and walks away. You notice she's holding the vibrator and has left the remote on the table."
+    "{i}Вздохнув, [b_name] встает и уходит, а ты замечаешь, что она взяла вибратор, а пульт управления остался на столе."
+
+# game/day27.rpy:1033
+translate russian day27_b_vibrator_8f7a7797:
+
+    # p "{i}(Is she going to...?)"
+    p "{i}(Она собирается...?)"
+
+# game/day27.rpy:1035
+translate russian day27_b_vibrator_7809015c:
+
+    # "{i}You see her walk very slowly towards the restrooms, as if she's still hesitating."
+    "{i}Ты видишь, как она медленно идет в уборную, будто все еще сомневаясь."
+
+# game/day27.rpy:1036
+translate russian day27_b_vibrator_de30eed8:
+
+    # p "{i}(That's my girl!)"
+    p "{i}(Это моя девочка!)"
+
+# game/day27.rpy:1038
+translate russian day27_b_vibrator_b32fd03b:
+
+    # "{i}After a short while, [b_name] returns, no longer holding the pink egg."
+    "{i}Вскоре [b_name] возвращается, уже без яйца в руках."
+
+# game/day27.rpy:1039
+translate russian day27_b_vibrator_62289d3a:
+
+    # p "Now, spread your legs for me."
+    p "А теперь раздвинь ноги для меня."
+
+# game/day27.rpy:1040
+translate russian day27_b_vibrator_4bc98f10:
+
+    # b "I could've flushed the fucking thing down the toilet."
+    b "Мне стоило смыть это в унитаз."
+
+# game/day27.rpy:1041
+translate russian day27_b_vibrator_f24c6c98:
+
+    # p "You didn't."
+    p "Но ты не сделала это."
+
+# game/day27.rpy:1043
+translate russian day27_b_vibrator_80593731:
+
+    # "{i}When [b_name] finally parts her legs, you can see the pink vibrator peeping out of her pussy."
+    "{i}Когда [b_name] раздвигает ноги, ты видишь, как розовый вибратор выглядывает из её киски."
+
+# game/day27.rpy:1045
+translate russian day27_b_vibrator_17cc86a6:
+
+    # p "Good girl!"
+    p "Хорошая девочка!"
+
+# game/day27.rpy:1047
+translate russian day27_b_vibrator_5316ce8d:
+
+    # "{i}[b_name] abruptly closes her legs again as Megan saunters over. Before anybody notices, you manage to grab the remote control from the table."
+    "{i}[b_name] скрещивает ноги, когда мимо проходит Меган. Прежде, чем кто-либо замечает, ты забираешь пульт управления со стола."
+
+# game/day27.rpy:1048
+translate russian day27_b_vibrator_01023b9e:
+
+    # me "I got those supplies you asked for."
+    me "Я взяла то, что ты попросила."
+
+# game/day27.rpy:1049
+translate russian day27_b_vibrator_b2176539:
+
+    # p "{i}(Now is as good a time as any to test it out, I think.)"
+    p "{i}(Сейчас самое лучшее время попробовать.)"
+
+# game/day27.rpy:1053
+translate russian day27_b_vibrator_04eb7dac:
+
+    # "{i}Under the table, you turn the dial slightly upwards."
+    "{i}Под столом ты начинаешь немного увеличивать мощность."
+
+# game/day27.rpy:1058
+translate russian day27_b_vibrator_3ee9f29d:
+
+    # b "Wuh..."
+    b "Оа..."
+
+# game/day27.rpy:1059
+translate russian day27_b_vibrator_eba830bd:
+
+    # me "Did I forget something?"
+    me "Я что-то забыла?"
+
+# game/day27.rpy:1060
+translate russian day27_b_vibrator_e6280fec:
+
+    # b "N-n-no..."
+    b "Н-н-нет..."
+
+# game/day27.rpy:1061
+translate russian day27_b_vibrator_495727fd:
+
+    # "{i}Several emotions are visible on [b_name]'s face, a mixture of repressed pleasure and agony being the main one."
+    "{i}На лице [b_name] можно увидеть смесь из удовольствия и ярости."
+
+# game/day27.rpy:1062
+translate russian day27_b_vibrator_e1b19d79:
+
+    # me "Did you need anything else?"
+    me "Тебе нужно что-то еще?"
+
+# game/day27.rpy:1063
+translate russian day27_b_vibrator_c5c56418:
+
+    # b "I... N..."
+    b "Я... Н..."
+
+# game/day27.rpy:1064
+translate russian day27_b_vibrator_010c86ab:
+
+    # me "Are you alright, [b_name]?"
+    me "Ты в порядке, [b_name]?"
+
+# game/day27.rpy:1071
+translate russian day27_b_vibrator_ac24ee5d:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring your sister, but she seems to be able to retain her composure, more or less."
+    "{i}Ты включаешь минимальную мощность, яйцо все еще вибрирует внутри твоей сестры, но она становится более-менее способной контролировать себя."
+
+# game/day27.rpy:1073
+translate russian day27_b_vibrator_016f6ff8:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
+    "{i}Ты включаешь минимальную мощность, яйцо все еще вибрирует внутри [b_name], но она становится более-менее способной контролировать себя."
+
+# game/day27.rpy:1074
+translate russian day27_b_vibrator_d1e07412:
+
+    # b "Yes... Just feeling a little lightheaded."
+    b "Да... Просто голова немного закружилась."
+
+# game/day27.rpy:1075
+translate russian day27_b_vibrator_28383b11:
+
+    # b "I'm feeling better already."
+    b "Сейчас мне уже гораздо лучше."
+
+# game/day27.rpy:1081
+translate russian day27_b_vibrator_9276f31b:
+
+    # "{i}After those words, you turn the dial all the way up. The force of the egg's vibrations force open the girl's legs and she slams a fist on the table."
+    "{i}После этих слов ты включаешь максимальный режим. Это заставляет девушку раздвинуть ноги и ударить кулаком по столу."
+
+# game/day27.rpy:1082
+translate russian day27_b_vibrator_15e5c36b:
+
+    # b "Aaaah..."
+    b "Ааааа..."
+
+# game/day27.rpy:1083
+translate russian day27_b_vibrator_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1084
+translate russian day27_b_vibrator_b469670c:
+
+    # p "Is everything okay, [b_name]?"
+    p "Все в порядке, [b_name]?"
+
+# game/day27.rpy:1085
+translate russian day27_b_vibrator_3cfd3ad0:
+
+    # b "...I'm fine."
+    b "...Все хорошо."
+
+# game/day27.rpy:1086
+translate russian day27_b_vibrator_99681889:
+
+    # me "Girl, you're sweating."
+    me "Ты вспотела."
+
+# game/day27.rpy:1087
+translate russian day27_b_vibrator_f2d96e30:
+
+    # b "I'll b-be j-just fine in a minute."
+    b "Я буду в порядке через минутку."
+
+# game/day27.rpy:1088
+translate russian day27_b_vibrator_5bb24395:
+
+    # me "Take as long as you need, I'll take over for you in the mean time."
+    me "Хорошо, я пока прикрою тебя."
+
+# game/day27.rpy:1090
+translate russian day27_b_vibrator_3f755b65:
+
+    # b "T-thanks..."
+    b "С-спасибо..."
+
+# game/day27.rpy:1092
+translate russian day27_b_vibrator_2dad7135:
+
+    # "{i}As soon as Megan walks away, [b_name] shoots an angry glance at you, she's only able to speak through gritted teeth."
+    "{i}Как только Меган уходит, [b_name] злобно на тебя смотрит, но не может ничего сказать из-за стиснутых зубов."
+
+# game/day27.rpy:1093
+translate russian day27_b_vibrator_40e42da9:
+
+    # b "T-t-turn it off!"
+    b "В-выключи!"
+
+# game/day27.rpy:1094
+translate russian day27_b_vibrator_58ee35ab:
+
+    # p "Hmmm?"
+    p "Хммм?"
+
+# game/day27.rpy:1095
+translate russian day27_b_vibrator_490f1e1c:
+
+    # b "T-turn i-it off, p-p-please."
+    b "В-выключи, п-пожалуйста."
+
+# game/day27.rpy:1100
+translate russian day27_b_vibrator_6fee07d3:
+
+    # "{i}Satisfied with her answer, you turn the dial all the way down to zero."
+    "{i}Удовлетворенный её ответом, ты полностью выключаешь яйцо."
+
+# game/day27.rpy:1101
+translate russian day27_b_vibrator_521c64a8:
+
+    # b "I'm going to kill you for this, you know that?"
+    b "Ты же знаешь, что я убью тебя за это?"
+
+# game/day27.rpy:1102
+translate russian day27_b_vibrator_6802e4fc:
+
+    # p "Easy now, just remind yourself of who's holding the remote control."
+    p "Помни, у кого пульт управления."
+
+# game/day27.rpy:1103
+translate russian day27_b_vibrator_46258e98:
+
+    # b "I have to get back to work."
+    b "Мне нужно продолжать работать."
+
+# game/day27.rpy:1104
+translate russian day27_b_vibrator_c443c0db:
+
+    # p "Sure thing. I'd like another cup of regular coffee, black, please."
+    p "Конечно. Я бы хотел еще чашечку черного кофе, пожалуйста."
+
+# game/day27.rpy:1106
+translate russian day27_b_vibrator_a13f8569:
+
+    # "{i}She looks at you incredulously, then stands up, her legs still wobbly from the vibrations of the sex toy in her pussy."
+    "{i}Она смотрит на тебя со злобой, встает, и её ноги все еще немного дрожат."
+
+# game/day27.rpy:1107
+translate russian day27_b_vibrator_de1fa8b9:
+
+    # b "Coming right up..."
+    b "Сейчас вернусь..."
+
+# game/day27.rpy:1112
+translate russian day27_b_vibrator_6cc89c98:
+
+    # "{i}After you get your coffee, you sit and play with your phone. At irregular intervals, you use the dial of the remote control."
+    "{i}Получив свой кофе, ты садишься и играешь в телефон. Периодически ты смотришь на пульт управления."
+
+# game/day27.rpy:1114
+translate russian day27_b_vibrator_c14e2e61:
+
+    # "{i}You make sure it never goes past the point where the vibrations become unbearable for [b_name], but you notice she has a harder time serving customers, steadying herself often and sighing with flushed cheeks."
+    "{i}Ты убеждаешься, что он не может включить режим, который бы [b_name] не смогла вынести, но ты замечаешь, что ей становится сложно говорить с клиентами и она краснеет."
+
+# game/day27.rpy:1132
+translate russian day27_b_licking_5f3aff41:
+
+    # p "Good. Just sit down on the desk and relax."
+    p "Хорошо. Просто сядь и расслабься."
+
+# game/day27.rpy:1133
+translate russian day27_b_licking_83091b29:
+
+    # b "You're not going to take it out?"
+    b "Ты не вытащишь это?"
+
+# game/day27.rpy:1134
+translate russian day27_b_licking_a781d336:
+
+    # p "Of course not, it's going to help me make you cum."
+    p "Конечно нет, оно поможет тебе кончить."
+
+# game/day27.rpy:1135
+translate russian day27_b_licking_4f28fa17:
+
+    # p "Take off your shirt first."
+    p "Сними свою рубашку."
+
+# game/day27.rpy:1136
+translate russian day27_b_licking_b61b6f1a:
+
+    # b "No, but what if somebody comes in?"
+    b "Нет, вдруг кто-то зайдет?"
+
+# game/day27.rpy:1137
+translate russian day27_b_licking_6262302c:
+
+    # p "We'll worry about that later."
+    p "Подумаем об этом позже."
+
+# game/day27.rpy:1138
+translate russian day27_b_licking_8377b2fd:
+
+    # b "[p_name]..."
+    b "[p_name]..."
+
+# game/day27.rpy:1139
+translate russian day27_b_licking_0e1f96a4:
+
+    # p "I want to see those gorgeous breasts of yours."
+    p "Я хочу увидеть твою грудь."
+
+# game/day27.rpy:1144
+translate russian day27_b_licking_9a4fad80:
+
+    # "{i}After losing all of her clothing, you spread her legs and lower your head between her thighs."
+    "{i}После того, как она сняла всю одежду, ты раздвигаешь её ноги и опускаешь голову меду них."
+
+# game/day27.rpy:1145
+translate russian day27_b_licking_def4b24b:
+
+    # p "Wow!"
+    p "Ого!"
+
+# game/day27.rpy:1146
+translate russian day27_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Что?"
+
+# game/day27.rpy:1147
+translate russian day27_b_licking_1aa5989e:
+
+    # p "I didn't know you could get so wet."
+    p "Не знал, что ты можешь быть такой мокрой."
+
+# game/day27.rpy:1152
+translate russian day27_b_licking_85091941:
+
+    # "{i}[b_name] doesn't offer a reply and just bites her lip. You smell the earthy perfume of her cunt as your tongue probes the wet lips of her pussy."
+    "{i}[b_name] ничего не отвечает и просто кусает свою губу. Ты принюхиваешься к её мокрой киске, когда касаешься языком её половые губы."
+
+# game/day27.rpy:1153
+translate russian day27_b_licking_f17a0a22:
+
+    # b "Oh!"
+    b "Ох!"
+
+# game/day27.rpy:1158
+translate russian day27_b_licking_aef8bd34:
+
+    # "{i}As you stimulate her with the rapid motions of your tongue, you dial the vibrator slowly up to its maximum setting."
+    "{i}Пока ты стимулируешь её языком, ты включаешь яйцо на максимум."
+
+# game/day27.rpy:1159
+translate russian day27_b_licking_83f82a73:
+
+    # "{i}The vibrations of the egg are a little awkward, but [b_name] completely loses it, gripping the side of the desk and moaning softly."
+    "{i}Вибрации яйца немного странные, но [b_name] полностью тряет контроль, цепляясь за стол и издавая мягкие стоны."
+
+# game/day27.rpy:1165
+translate russian day27_b_licking_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1166
+translate russian day27_b_licking_3d9dd82a:
+
+    # me "[b_name], are you in there?"
+    me "[b_name], ты здесь?"
+
+# game/day27.rpy:1167
+translate russian day27_b_licking_9171bab7:
+
+    # b "Fuck, it's Megan."
+    b "Блять, это Меган."
+
+# game/day27.rpy:1168
+translate russian day27_b_licking_9e6db08a:
+
+    # b "Hide!"
+    b "Спрячься!"
+
+# game/day27.rpy:1170
+translate russian day27_b_licking_fe288a67:
+
+    # "{i}You crawl under the desk, while [b_name] frantically looks for her blouse."
+    "{i}Ты залезаешь под стол, пока [b_name] пытается найти рубашку."
+
+# game/day27.rpy:1171
+translate russian day27_b_licking_64fc4783:
+
+    # b "Yes, I'm in here."
+    b "Да, я здесь."
+
+# game/day27.rpy:1172
+translate russian day27_b_licking_7b467c67:
+
+    # b "Just a..."
+    b "Мин..."
+
+# game/day27.rpy:1174
+translate russian day27_b_licking_90e1af97_1:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1175
+translate russian day27_b_licking_648fad1f:
+
+    # me "Oh shit, you're naked."
+    me "Блин, ты голая."
+
+# game/day27.rpy:1176
+translate russian day27_b_licking_73acfb97:
+
+    # "{i}You see [b_name] stiffen in front of the desk, as Megan enters the room."
+    "{i}Ты видишь, как [b_name] прикрывается, когда заходит Меган."
+
+# game/day27.rpy:1177
+translate russian day27_b_licking_65c33e7a:
+
+    # b "I... uh... I was changing."
+    b "Я... эм... переодеваюсь."
+
+# game/day27.rpy:1178
+translate russian day27_b_licking_6e2fbc8e:
+
+    # me "You're not feeling well, are you?"
+    me "Ты себя плохо чувствуешь?"
+
+# game/day27.rpy:1180
+translate russian day27_b_licking_23fd721a:
+
+    # p "{i}(Mmmm, she's so close.)"
+    p "{i}(Мммм, она так близка.)"
+
+# game/day27.rpy:1181
+translate russian day27_b_licking_392019b3:
+
+    # p "{i}(Megan can't see me from here.)"
+    p "{i}(Меган не видит меня.)"
+
+# game/day27.rpy:1182
+translate russian day27_b_licking_143ced8d:
+
+    # p "{i}(Shall I continue? The vibrator is still on...)"
+    p "{i}(Я должен продолжить? Вибратор все еще включен...)"
+
+# game/day27.rpy:1192
+translate russian day27_b_licking_ebe61376:
+
+    # "{i}You caress the muscles of her inner thighs, quivering under the stress of her impending orgasm."
+    "{i}Ты ласкаешь внутреннюю чсть её бедер, пока она становится все ближе к оргазму."
+
+# game/day27.rpy:1193
+translate russian day27_b_licking_7d2fce76:
+
+    # b "No... I-I think I need to go ho..."
+    b "Нет... Дум-маю, мне стоит пойти дом..."
+
+# game/day27.rpy:1195
+translate russian day27_b_licking_d3dbcb25:
+
+    # "{i}At that moment, you plunge your tongue between her wet lips, pushing the vibrator even further in her cunt."
+    "{i}В этот момент ты засовываешь внутрь неё язык и проталкиваешь вибратор дальше."
+
+# game/day27.rpy:1196
+translate russian day27_b_licking_3580bb93:
+
+    # b "...Ooohme!"
+    b "...Ооой!"
+
+# game/day27.rpy:1197
+translate russian day27_b_licking_d45b71d4:
+
+    # me "Seem like you're having a migraine?"
+    me "У тебя мигрень?"
+
+# game/day27.rpy:1198
+translate russian day27_b_licking_3fd3887e:
+
+    # b "Y-yes..."
+    b "Д-да..."
+
+# game/day27.rpy:1200
+translate russian day27_b_licking_7b413b5c:
+
+    # "{i}Your sister doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}Твоя сестра не отталкивает тебя, но еще шире раздвигает ноги для тебя."
+
+# game/day27.rpy:1202
+translate russian day27_b_licking_b147ddb0:
+
+    # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}[b_name] не отталкивает тебя, но еще шире раздвигает ноги для тебя."
+
+# game/day27.rpy:1203
+translate russian day27_b_licking_c5cc69af:
+
+    # me "I'll leave you to it then."
+    me "Тогда я оставлю тебя."
+
+# game/day27.rpy:1204
+translate russian day27_b_licking_a7ed4f3b:
+
+    # b "T-thanks."
+    b "С-спасибо..."
+
+# game/day27.rpy:1205
+translate russian day27_b_licking_6ac0e1eb:
+
+    # me "Migraines are a bitch. Get well soon!"
+    me "Мигрени это жесть. Поправляйся!"
+
+# game/day27.rpy:1206
+translate russian day27_b_licking_a7ed4f3b_1:
+
+    # b "T-thanks."
+    b "С-спасибо..."
+
+# game/day27.rpy:1211
+translate russian day27_b_licking_533d60e4:
+
+    # "{i}When Megan closes the office door, [b_name] involuntarily releases a volley of her juices."
+    "{i}Когда Меган закрывает дверь, [b_name] перестает сдерживаться."
+
+# game/day27.rpy:1212
+translate russian day27_b_licking_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Ааааааа!"
+
+# game/day27.rpy:1213
+translate russian day27_b_licking_eb1641f9:
+
+    # b "Don't stop. P-please!"
+    b "Не останавливайся. П-пожалуйста!"
+
+# game/day27.rpy:1215
+translate russian day27_b_licking_85a3c63d:
+
+    # "{i}After you push her onto the desk, you eat her pussy with an intensity that surprises even yourself."
+    "{i}Посадив её на стол, ты начинаешь вылизывать её киску так, как сам от себя не ожидал."
+
+# game/day27.rpy:1216
+translate russian day27_b_licking_2b4bad48:
+
+    # "{i}The vibrator is still running on maximum, and [b_name] moans uncontrollably and pulls at your hair in ecstasy."
+    "{i}Вибратор все еще работает на максимуме, а [b_name] неконтролируемо стонет и дергает тебя за волосы в экстазе."
+
+# game/day27.rpy:1224
+translate russian day27_b_licking_df23fe64:
+
+    # "{i}You're surprised by her wetness and the force of her orgasm. A wealth of her nectar squirts on your face and forces the still-vibrating egg out of her cunny."
+    "{i}Вы удивлены ее влажностью и силой ее оргазма Обилие ее нектара выплескивается на ваше лицо и заставляет все еще вибрирующее яйцо выйти из ее пизды"
+
+# game/day27.rpy:1227
+translate russian day27_b_licking_9af8d955:
+
+    # b "Gaaaah!"
+    b "Гаааах!"
+
+# game/day27.rpy:1229
+translate russian day27_b_licking_509df137:
+
+    # "{i}Your sister squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Твоя сестра сквиртит несколько раз и покрывает этой жидкостью весь стол. Она начинает капать на пол."
+
+# game/day27.rpy:1231
+translate russian day27_b_licking_2fb542ee:
+
+    # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}[b_name] сквиртит несколько раз и покрывает этой жидкостью весь стол. Она начинает капать на пол."
+
+# game/day27.rpy:1237
+translate russian day27_b_licking_fd967eb5:
+
+    # "{i}You catch [b_name] before she falls to the floor and sit next to her against the desk."
+    "{i}Ты ловишь [b_name] прежде чем она падает на пол и садишься рядом с ней."
+
+# game/day27.rpy:1238
+translate russian day27_b_licking_a226744c:
+
+    # b "I... I..."
+    b "Я... Я..."
+
+# game/day27.rpy:1239
+translate russian day27_b_licking_970e9bfc:
+
+    # b "I didn't know I could do that."
+    b "Я не знала, что могу так."
+
+# game/day27.rpy:1240
+translate russian day27_b_licking_5535b960:
+
+    # p "That was really special."
+    p "Это было нереально."
+
+# game/day27.rpy:1241
+translate russian day27_b_licking_e4f482d5:
+
+    # b "I don't think I'll be able to walk."
+    b "Не думаю, что я смогу ходить."
+
+# game/day27.rpy:1242
+translate russian day27_b_licking_fed42c8c:
+
+    # p "I'll get you home, don't worry."
+    p "Я проведу тебя до дома, не волнуйся."
+
+# game/day27.rpy:1243
+translate russian day27_b_licking_935dfeff:
+
+    # "{i}[b_name] sits next to you, savoring the moment before standing up and slowly dressing herself."
+    "{i}[b_name] еще немного сидит рядом с тобой, после чего встает и одевается."
+
+# game/day27.rpy:1245
+translate russian day27_b_licking_22fc1ff3:
+
+    # "{i}She leans on you, as you head out the office and go back home."
+    "{i}Она опирается на тебя, пока вы выходите из офиса и идете домой."
+
+# game/day27.rpy:1248
+translate russian day27_b_licking_748b5dec:
+
+    # p "That was close."
+    p "Это было близко."
+
+# game/day27.rpy:1249
+translate russian day27_b_licking_567893c3:
+
+    # p "{i}(And I fear the moment has been ruined.)"
+    p "{i}(И, боюсь, момент был разрушен.)"
+
+# game/day27.rpy:1250
+translate russian day27_b_licking_58cce666:
+
+    # b "I really need to get back to work."
+    b "Мне нужно возвращаться к работе."
+
+# game/day27.rpy:1255
+translate russian day27_b_licking_877900df:
+
+    # p "You may, but the vibrator remains on."
+    p "Можешь, но вибратор все еще включен."
+
+# game/day27.rpy:1257
+translate russian day27_b_licking_c39bb92f:
+
+    # b "What? No!"
+    b "Что? Нет!"
+
+# game/day27.rpy:1258
+translate russian day27_b_licking_e096b0f3:
+
+    # p "Yes, at the lowest setting, a nice background hum while you continue working."
+    p "Да, очень слабо, как раз подходит для работы."
+
+# game/day27.rpy:1259
+translate russian day27_b_licking_ef0da038:
+
+    # b "But..."
+    b "Но..."
+
+# game/day27.rpy:1260
+translate russian day27_b_licking_2dab4ee2:
+
+    # p "You'll love it."
+    p "Тебе понравится."
+
+# game/day27.rpy:1262
+translate russian day27_b_licking_a1d34c97:
+
+    # "{i}Dejected, [b_name] leaves the office, the toy still vibrating in her pussy. You decide to head home."
+    "{i}Обидевшись, [b_name] выходит из офиса, пока игрушка все еще вибрирует в её киске. Ты решаешь пойти домой."
+
+# game/day27.rpy:1265
+translate russian day27_b_licking_981af234:
+
+    # "{i}You toy with the idea of turning the vibrator on again, but decide to give [b_name] a break."
+    "{i}Ты хочешь включить игрушку снова, но решаешь дать [b_name] предохнуть."
+
+# game/day27.rpy:1266
+translate russian day27_b_licking_dfa11d19:
+
+    # p "You may. I've turned the vibrator off for now, but keep it in at all times."
+    p "Можешь. Я выключил вибратор для теба, но ты должна оставлять его внутри."
+
+# game/day27.rpy:1267
+translate russian day27_b_licking_40179f03:
+
+    # b "Yeah, yeah."
+    b "Ага, ага."
+
+# game/day27.rpy:1269
+translate russian day27_b_licking_c556ba13:
+
+    # "{i}After she leaves the office, you head back home."
+    "{i}Когда она выходит из офиса, ты идешь домой."
+
+# game/day27.rpy:1284
+translate russian day27_flashback_sex_c5a86a79:
+
+    # s "There's also the matter of teaching you."
+    s "И тебе все еще нужны уроки."
+
+# game/day27.rpy:1285
+translate russian day27_flashback_sex_5c6e3bee:
+
+    # s "You've proven to be a quick learner, but think of what you'll be able to show her when you've had a little more practice with me."
+    s "Ты быстро учишься, но подумай, что ты покажешь ей, если еще больше попрактикуешься со мной."
+
+# game/day27.rpy:1286
+translate russian day27_flashback_sex_eca6528f:
+
+    # s "You already know how to pleasure a woman with your fingers, but there's more to be learned..."
+    s "Ты уже знаешь, как удовлетворить женщину пальцами, но тебе еще нужно многому научиться."
+
+# game/day27.rpy:1288
+translate russian day27_flashback_sex_b31534e5:
+
+    # "{i}With those words, she freed my cock which had grown erect as soon as I looked at her naked body."
+    "{i}После этих слов она освободила мой член, который встал еще когда я увидел её голое тело."
+
+# game/day27.rpy:1289
+translate russian day27_flashback_sex_f9e820eb:
+
+    # s "You should attune yourself to your desires."
+    s "Ты должен воплощать свои желания в жизнь."
+
+# game/day27.rpy:1290
+translate russian day27_flashback_sex_1ba01317:
+
+    # s "You clearly want me, you want her, you want Sabine... What if you can have all of that?"
+    s "Ты хочешь меня, хочешь её, хочешь Сабину... Что, если все могут быть твоими?"
+
+# game/day27.rpy:1291
+translate russian day27_flashback_sex_59e7a770:
+
+    # s "Wouldn't that be nice?"
+    s "Разве тебе не понравится?"
+
+# game/day27.rpy:1296
+translate russian day27_flashback_sex_bffc2941:
+
+    # "{i}She lowered her head to my cock and wrapped her lips around my glans. Her wet tongue darted over the tip of my dick and she started sucking."
+    "{i}Она опустила свою голову к моему члену и обхватила его губами. Её мокрый язык начал облизывать головку моего члена и она начала сосать."
+
+# game/day27.rpy:1298
+translate russian day27_flashback_sex_146db4ff:
+
+    # s "Have you ever felt that before?"
+    s "Ты чувствовал такое раньше?"
+
+# game/day27.rpy:1299
+translate russian day27_flashback_sex_580a0a0b:
+
+    # p "N-n-no..."
+    p "Н-н-нет..."
+
+# game/day27.rpy:1300
+translate russian day27_flashback_sex_b9e17a77:
+
+    # "{i}Sasha took my entire length in her warm mouth and traced the veins of my cock with the tip of her tongue."
+    "{i}Саша взяла весь мой член в свой тёплый рот и прошла языком по венам на нём."
+
+# game/day27.rpy:1301
+translate russian day27_flashback_sex_bbdaf767:
+
+    # s "Would you like to fuck me?"
+    s "Хочешь выебать меня?"
+
+# game/day27.rpy:1302
+translate russian day27_flashback_sex_afb6c27b:
+
+    # p "Here?! In dad's bedroom?!"
+    p "Здесь?! В спальне отца?!"
+
+# game/day27.rpy:1303
+translate russian day27_flashback_sex_cb28ce69:
+
+    # s "That's the plan, if you're game."
+    s "Это будет весело."
+
+# game/day27.rpy:1304
+translate russian day27_flashback_sex_fcad6d87:
+
+    # p "I-i... Y-yes!"
+    p "Я-я... Д-да!"
+
+# game/day27.rpy:1306
+translate russian day27_flashback_sex_a8b746f9:
+
+    # r "But Miley!"
+    r "Но Майли!"
+
+# game/day27.rpy:1307
+translate russian day27_flashback_sex_fa2718d7:
+
+    # p "I've learned not to argue with a woman who has my cock in her mouth."
+    p "Я понял, что не стоит спорить с женщиной, у которой во рту мой член."
+
+# game/day27.rpy:1308
+translate russian day27_flashback_sex_c4ff4ad4:
+
+    # r "Fair point."
+    r "Обоснованная позиция."
+
+# game/day27.rpy:1312
+translate russian day27_flashback_sex_b8a8a112:
+
+    # "{i}She pulled my penis out of her mouth, a string of saliva still connecting her lips and my glans, and lay before me with her legs spread."
+    "{i}Она вытащила мой пенис изо рта, слюна повисла между ним и её губами, и она легла передо мной, раздвинув ноги."
+
+# game/day27.rpy:1313
+translate russian day27_flashback_sex_9062a2b3:
+
+    # s "Taste me, before I ride you."
+    s "Попробуй меня для начала."
+
+# game/day27.rpy:1319
+translate russian day27_flashback_sex_fff7add5:
+
+    # "{i}Any thought of young love forgotten, I obliged and plunged my tongue inside her pussy."
+    "{i}Я забыл обо всем на свете, подчинился и провел языком по её киске."
+
+# game/day27.rpy:1320
+translate russian day27_flashback_sex_025deb73:
+
+    # s "Aaaah, very direct. Remember when you fingered me, be subtle."
+    s "Аааааа, сразу к делу. Не забывай работать пальцами."
+
+# game/day27.rpy:1321
+translate russian day27_flashback_sex_ddcc8bb7:
+
+    # "{i}Tempering my initial voraciousness, I began to lick her pussy lips and concentrate my attention on her clitoris."
+    "{i}Я начал лизать её киску и концентрировать внмание на её клиторе."
+
+# game/day27.rpy:1322
+translate russian day27_flashback_sex_f5c24192:
+
+    # "{i}I had never tasted a woman before, so Sasha's mix of bath soap and saltiness surprised and overwhelmed me instantly."
+    "{i}До этого я никогда не пробовал женщину, так что Саша была на вкус как мыло и немного соленая."
+
+# game/day27.rpy:1323
+translate russian day27_flashback_sex_42e8f876:
+
+    # s "Good boy, make me ready for you."
+    s "Хороший мальчик, подготовь меня."
+
+# game/day27.rpy:1325
+translate russian day27_flashback_sex_863c430e:
+
+    # "{i}I worked hard on her pussy and she allowed me to explore every little fold of her sex, guiding me by firmly holding my head in her hands."
+    "{i}Я очень старался, и она позволила мне большее, держа меня за голову."
+
+# game/day27.rpy:1326
+translate russian day27_flashback_sex_181a4fa1:
+
+    # s "That's it, right there."
+    s "Да, вот здесь."
+
+# game/day27.rpy:1327
+translate russian day27_flashback_sex_8d92683f:
+
+    # s "Mmmmm."
+    s "Ммммм."
+
+# game/day27.rpy:1331
+translate russian day27_flashback_sex_d3367d55:
+
+    # s "That's enough for now."
+    s "На сейчас хватит."
+
+# game/day27.rpy:1332
+translate russian day27_flashback_sex_7286508b:
+
+    # s "Just focus for the next part, don't allow yourself to cum too soon."
+    s "Сфокусируйся на следующей части и не кончай слишком рано."
+
+# game/day27.rpy:1333
+translate russian day27_flashback_sex_3503f938:
+
+    # s "Let me lead, you can have the initiative some other time, when you're more skilled."
+    s "Дай мне сейчас руководить, когда у тебя будет опыт, ты и будешь решать, что делать."
+
+# game/day27.rpy:1334
+translate russian day27_flashback_sex_20d8934c:
+
+    # p "It's just moving up and down, isn't it?"
+    p "Нужно просто двигаться вверх и вниз, разве нет?"
+
+# game/day27.rpy:1335
+translate russian day27_flashback_sex_9de62a97:
+
+    # s "Spoken like a boy who's only watched a vagina being penetrated on video."
+    s "Звучишь как мальчишка, который видит вагину только на видео."
+
+# game/day27.rpy:1336
+translate russian day27_flashback_sex_ba1863c8:
+
+    # s "Try not to cum immediately, okay?"
+    s "Постарайся не кончить прямо сейчас, хорошо?"
+
+# game/day27.rpy:1338
+translate russian day27_flashback_sex_7d248ee6:
+
+    # "{i}I really didn't get why she was making all that fuss until she spread her pussy lips and lowered herself onto my cock."
+    "{i}Я правда не понимал, почему она это повторяла, пока она не раздвинула свои половые губы и не опустилась на мой член."
+
+# game/day27.rpy:1339
+translate russian day27_flashback_sex_3e6e3c86:
+
+    # "{i}The act of entering her warm wet hole nearly made me shoot my load inside of her. Sasha noticed my glazed look and halted her descent on my shaft right away."
+    "{i}Это почти заставило меня кончить в неё. Саша заметила мой взгляд и задержалась на моем стволе."
+
+# game/day27.rpy:1341
+translate russian day27_flashback_sex_486fc380:
+
+    # p "F-f-fuck, Sasha!"
+    p "Аааааа, Саша!"
+
+# game/day27.rpy:1342
+translate russian day27_flashback_sex_408c37ea:
+
+    # s "Don't you dare, boy, we haven't even started!"
+    s "Даже не смей, мы только начали!"
+
+# game/day27.rpy:1343
+translate russian day27_flashback_sex_5d2f4abc:
+
+    # "{i}I tried to think of anything but sex, and after a procession of deformed gnomes, the entire plot of The Great Gatsby and several theorems from Euclidean geometry had passed my mind's eye, I felt confident enough for Sasha to continue."
+    "{i}Я пытался подумать о чем-то другом, об уродливых гномах, сюжете Великого Гэтсби и нескольких теоремах Евклида, и только тогда я стал уверен в том, что Саша может продолжать."
+
+# game/day27.rpy:1350
+translate russian day27_flashback_sex_f388db08:
+
+    # s "Try to focus on the ways my cunt is stimulating your cock."
+    s "Сфокусируйся на том, как моя пизда стимулирует твой член."
+
+# game/day27.rpy:1351
+translate russian day27_flashback_sex_426e3322:
+
+    # "{i}Very slowly, Sasha started to move, the ribs of her vaginal tract massaging my entire shaft."
+    "{i}Очень медленно Саша начала двигаться, и её вагина начала стимулировать весь мой ствол."
+
+# game/day27.rpy:1352
+translate russian day27_flashback_sex_1dba4ceb:
+
+    # s "When you're more experienced, you can fully give yourself over to pleasure."
+    s "Когда у тебя большой опыт, ты можешь даже не задумываться ни о чем."
+
+# game/day27.rpy:1353
+translate russian day27_flashback_sex_77a6371f:
+
+    # s "Your goal should always be to heighten the pleasure of your girl."
+    s "Твоей целью всегда должно быть удовлетворение твоей девушки."
+
+# game/day27.rpy:1354
+translate russian day27_flashback_sex_544b034c:
+
+    # s "She'll get wetter and wetter..."
+    s "Она станет мокрее и мокрее..."
+
+# game/day27.rpy:1355
+translate russian day27_flashback_sex_58db5a14:
+
+    # s "Maybe she'll orgasm..."
+    s "Может, она испытает оргазм..."
+
+# game/day27.rpy:1356
+translate russian day27_flashback_sex_0d029f3e:
+
+    # s "Mmmmm..."
+    s "Ммммм."
+
+# game/day27.rpy:1358
+translate russian day27_flashback_sex_485f4ac7:
+
+    # s "That, in turn, will increase your pleasure as well."
+    s "Это доставит удовольствие и тебе."
+
+# game/day27.rpy:1359
+translate russian day27_flashback_sex_d2614141:
+
+    # s "Measure your thrusts and listen to your partner. To her moans and body language."
+    s "Будь аккуратен и слушай свою партнершу. Её стоны и язык тела."
+
+# game/day27.rpy:1360
+translate russian day27_flashback_sex_910977f0:
+
+    # "{i}Mesmerized by her voice and the dirty things she told me, I let her use my cock for her pleasure and tried not to fill her up prematurely."
+    "{i}Слушая её грязные вещи, я позволял ей использовать мой член и сдерживался, чтобы не кончить в неё."
+
+# game/day27.rpy:1362
+translate russian day27_flashback_sex_c62166ae:
+
+    # s "When she's nearing her orgasms, a few quick thrusts might send her over the edge."
+    s "Когда она близка к оргазму, лучше ускориться."
+
+# game/day27.rpy:1363
+translate russian day27_flashback_sex_2c39b0d4:
+
+    # s "And as she orgasms, try to fuck her deeply, to prolong her pleasure."
+    s "И когда она испытвает оргазм, трахай её глубоко, чтобы продлить удовольствие."
+
+# game/day27.rpy:1364
+translate russian day27_flashback_sex_5b51375b:
+
+    # s "Fucking her hard and fast should never be the first thing you do, unless the situation calls for it, or she asks you to."
+    s "Стоит трахать её жестко сразу, только если так складываются обстоятельства или она сама просит."
+
+# game/day27.rpy:1365
+translate russian day27_flashback_sex_eafc5437:
+
+    # s "You're not some porn actor jackhammering a worn out pussy, you're a lover."
+    s "Ты не порно-актер, а любовник."
+
+# game/day27.rpy:1366
+translate russian day27_flashback_sex_819c61ee:
+
+    # p "S-s-sasha?!"
+    p "С-с-саша?!"
+
+# game/day27.rpy:1367
+translate russian day27_flashback_sex_5396f74e:
+
+    # s "Yes, dear?"
+    s "Да, дорогой?"
+
+# game/day27.rpy:1368
+translate russian day27_flashback_sex_a977924e:
+
+    # p "I-I can't..."
+    p "Я-я не могу..."
+
+# game/day27.rpy:1369
+translate russian day27_flashback_sex_530f3be7:
+
+    # s "Do you want to cum inside me, sweetheart?"
+    s "Ты хочешь кончить внутрь, милый?"
+
+# game/day27.rpy:1370
+translate russian day27_flashback_sex_07d6a258:
+
+    # p "Y-y-y..."
+    p "Д-д-д..."
+
+# game/day27.rpy:1371
+translate russian day27_flashback_sex_09b8efae:
+
+    # s "Go ahead, let it all go!"
+    s "Ускорься!"
+
+# game/day27.rpy:1379
+translate russian day27_flashback_sex_6891a8bb:
+
+    # "{i}With clenched teeth I released what felt like a river of seed inside her pussy. I'm not entirely sure what she did while I was orgasming, but it kept me going for a long time."
+    "{i}Стиснув зубы, я разрядился так, что казалось, будто в её киске появилась река из спермы. Я не помню, что она делала во время моего оргазма, но она сильно продляла его."
+
+# game/day27.rpy:1381
+translate russian day27_flashback_sex_2f5381cb:
+
+    # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
+    "{i}Из ее киски потекла сперма на мой член и кровать моего отца, я прижал ее к себе, отчаянно сжимая ее тело в своих объятиях, мой член все еще спазмировал внутри нее, я больше не был девственником."# TODO: Translation updated at 2024-11-17 22:06
+

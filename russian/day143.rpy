@@ -6405,4 +6405,29 @@ translate russian day143_choices_a87c8979_1:
 translate russian day143_flashback_69f7f051:
 
     # "{i}When you fall asleep, the dream returns, but your mind seems to have skipped all the sexy bits."
-    "{i}Когда вы засыпаете, сон возвращается, но ваш разум, кажется, пропустил все сексуальные моменты."
+    "{i}Когда вы засыпаете, сон возвращается, но ваш разум, кажется, пропустил все сексуальные моменты."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day143.rpy:1832
+translate russian day143_rb_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Хотите ли вы включить водные виды спорта для этой сцены?"
+
+# game/day143.rpy:1836
+translate russian day143_rb_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Водные виды спорта позволяют"
+
+# game/day143.rpy:1839
+translate russian day143_rb_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Водные виды спорта отключены"
+
+translate russian strings:
+
+    # game/day143.rpy:1997
+    old "Nia"
+    new "Ниа"
+

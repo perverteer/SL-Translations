@@ -4044,7 +4044,7 @@ translate russian day29_l_delivery_8d031f7b:
 translate russian day29_l_delivery_d4c30b77:
 
     # ha "Enjoy the view kids. I'll be over with some food soon."
-    Ха "Наслаждайтесь видом, дети, я скоро приду с едой."
+    ha "Наслаждайтесь видом, дети, я скоро приду с едой."
 
 # game/day29.rpy:737
 translate russian day29_l_delivery_6c383ce3:
@@ -4062,7 +4062,7 @@ translate russian day29_l_delivery_9068a0a9:
 translate russian day29_l_delivery_38689d71:
 
     # ha "Thank you for driving out here, and have a good trip back home."
-    ха "Спасибо, что приехали сюда, и счастливого пути домой."
+    ha "Спасибо, что приехали сюда, и счастливого пути домой."
 
 # game/day29.rpy:780
 translate russian day29_l_delivery_bc8a9127:
@@ -4170,4 +4170,989 @@ translate russian day29_l_delivery_post_99230514:
 translate russian day29_l_delivery_post_651c45ac:
 
     # "{i}Despite the uncomfortable surroundings, you feel your eyelids grow heavy, and soon you fall asleep, your friend's naked body lying half on top of you in a tight embrace."
-    "{i}Несмотря на неуютную обстановку, вы чувствуете, что ваши веки тяжелеют, и вскоре вы засыпаете, когда обнаженное тело вашего друга лежит на вас в крепких объятиях."
+    "{i}Несмотря на неуютную обстановку, вы чувствуете, что ваши веки тяжелеют, и вскоре вы засыпаете, когда обнаженное тело вашего друга лежит на вас в крепких объятиях."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day29.rpy:881
+translate russian day29_b_sex_09609a9f:
+
+    # "{i}[b_name]'s door is open, you peek around the corner and see the girl lying on the bed."
+    "{i}дверь [b_name] открыта, ты выглядываешь из-за угла и видишь девушку, лежащую на кровати."
+
+# game/day29.rpy:882
+translate russian day29_b_sex_94b27143:
+
+    # p "{i}(Looks like [b_name] is enjoying a magazine.)"
+    p "{i}(Похоже, [b_name] наслаждается журналом.)"
+
+# game/day29.rpy:883
+translate russian day29_b_sex_5860ae81:
+
+    # p "{i}(Let's see if she's been an obedient girl and have some fun...)"
+    p "{i}(Давайте посмотрим, была ли она послушной девочкой, и повеселимся...)"
+
+# game/day29.rpy:890
+translate russian day29_b_sex_ccc63a0e:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your sister's eyes go wide and look around in panic."
+    "{i}Когда ты включаешь регулятор интенсивности вибратора, ты видишь, как глаза сестры расширяются и в панике оглядываются по сторонам."
+
+# game/day29.rpy:892
+translate russian day29_b_sex_7311f431:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your girl's eyes go wide and look around in panic."
+    "{i}Когда ты включаешь регулятор интенсивности вибратора, ты видишь, как глаза девушки расширяются и в панике оглядываются по сторонам."
+
+# game/day29.rpy:893
+translate russian day29_b_sex_a3c1c5ed:
+
+    # b "Fuck no, [p_name], not now."
+    b "Блять, [p_name], не сейчас."
+
+# game/day29.rpy:894
+translate russian day29_b_sex_a6d25133:
+
+    # p "{i}(She doesn't seem to realize that I'm very close by.)"
+    p "{i}(Похоже, она не понимает, что я совсем рядом.)"
+
+# game/day29.rpy:899
+translate russian day29_b_sex_2638393a:
+
+    # b "Ugh, that fucking thing... Mmmmm..."
+    b "Угх... это ебаная херня... ммммм..."
+
+# game/day29.rpy:900
+translate russian day29_b_sex_0e1021c1:
+
+    # b "Shit, it's so intense..."
+    b "Дерьмо, так сильно...."
+
+# game/day29.rpy:902
+translate russian day29_b_sex_de6f24a9:
+
+    # b "Stop it..."
+    b "Хватит..."
+
+# game/day29.rpy:903
+translate russian day29_b_sex_c7443339:
+
+    # b "Make it stop..."
+    b "Останови..."
+
+# game/day29.rpy:904
+translate russian day29_b_sex_54161e51:
+
+    # b "Aaah!"
+    b "Ааааах!"
+
+# game/day29.rpy:905
+translate russian day29_b_sex_eca6f8a6:
+
+    # b "I don't want it to stop..."
+    b "Я не хочу, чтобы это прекращалось..."
+
+# game/day29.rpy:910
+translate russian day29_b_sex_41773800:
+
+    # "{i}When [b_name] removes her panties and starts to finger herself, you decide it's a good time to make your presence known."
+    "{i}Когда [b_name] снимает трусики и начинает трогать себя пальцами, ты решаешь, что сейчас самое подходящее время, чтобы заявить о своем присутствии."
+
+# game/day29.rpy:916
+translate russian day29_b_sex_2a28189e:
+
+    # p "{i}(Looks like [b_name] is enjoying herself without me... Why on earth did she leave the door open?!)"
+    p "{i}(Похоже, [b_name] наслаждается собой без меня... С какой стати она оставила дверь открытой?!)"
+
+# game/day29.rpy:917
+translate russian day29_b_sex_eab4a24c:
+
+    # p "{i}(We can't have that.)"
+    p "{i}(Мы не можем этого допустить.)"
+
+# game/day29.rpy:922
+translate russian day29_b_sex_515e4abf:
+
+    # p "My dear [b_name], are you preparing yourself for me?"
+    p "Моя дорогая [b_name], ты готовишься ко мне?"
+
+# game/day29.rpy:923
+translate russian day29_b_sex_adae013b:
+
+    # b "Fuck."
+    b "Блять."
+
+# game/day29.rpy:924
+translate russian day29_b_sex_49f4c2a6:
+
+    # b "No. Of course not."
+    b "Нет. Конечно нет."
+
+# game/day29.rpy:925
+translate russian day29_b_sex_fc5c4f16:
+
+    # p "Sure you are."
+    p "Конечно да."
+
+# game/day29.rpy:926
+translate russian day29_b_sex_11a28985:
+
+    # p "The sight of you fingering your pussy like that has made me a little anxious."
+    p "Вид того, как ты теребишь свою киску, заставил меня немного встревожиться."
+
+# game/day29.rpy:927
+translate russian day29_b_sex_4d0bd3e2:
+
+    # p "Why don't we do something about that. Together."
+    p "Почему бы нам не сделать что-нибудь с этим. Вместе."
+
+# game/day29.rpy:928
+translate russian day29_b_sex_5f43804c:
+
+    # b "What do you want?"
+    b "Чего ты хочешь?"
+
+# game/day29.rpy:930
+translate russian day29_b_sex_a36db4fe:
+
+    # p "Let's remove that toy first."
+    p "Давай сначала уберем эту игрушку."
+
+# game/day29.rpy:931
+translate russian day29_b_sex_b6197f6d:
+
+    # b "About fucking time."
+    b "Самое, сука, время."
+
+# game/day29.rpy:932
+translate russian day29_b_sex_936e34c9:
+
+    # p "Spread those beautiful legs for me."
+    p "Раздвинь для меня свои прекрасные ноги."
+
+# game/day29.rpy:934
+translate russian day29_b_sex_83c0ee96:
+
+    # "{i}You pull the still vibrating egg out of [b_name]'s pussy, causing her some discomfort."
+    "{i}Ты вытаскиваешь все еще вибрирующее яйцо из киски [b_name], причиняя ей некоторый дискомфорт."
+
+# game/day29.rpy:936
+translate russian day29_b_sex_936e34c9_1:
+
+    # p "Spread those beautiful legs for me."
+    p "Раздвинь для меня свои прекрасные ноги."
+
+# game/day29.rpy:939
+translate russian day29_b_sex_fd6e5a3b:
+
+    # p "I see you're already nice and wet."
+    p "Похоже, ты уже достаточно мокрая."
+
+# game/day29.rpy:940
+translate russian day29_b_sex_cff7f4a6:
+
+    # b "That changed as soon as you walked in."
+    b "Все изменилось, как только ты вошел."
+
+# game/day29.rpy:941
+translate russian day29_b_sex_f2d3ad6f:
+
+    # p "Really now."
+    p "Действительно, сейчас."
+
+# game/day29.rpy:942
+translate russian day29_b_sex_88dd7b36:
+
+    # p "Let's not waste more time then."
+    p "Тогда давай не будем терять еще больше времени."
+
+# game/day29.rpy:948
+translate russian day29_b_sex_6dbdb5f6:
+
+    # "{i}You push the tip of your dick against her labia and move it up and down, sending bolts of pleasure through your body and wetting your sister's pussy again."
+    "{i}Ты прижимаешь кончик своего члена к ее половым губам и двигаешь им вверх и вниз, посылая волны удовольствия по всему телу и снова смачивая киску своей сестры."
+
+# game/day29.rpy:950
+translate russian day29_b_sex_73ac75e9:
+
+    # "{i}You push the tip of your dick against her lips and move it up and down, sending bolts of pleasure through your body and wetting your girl's pussy again."
+    "{i}Ты прижимаешь кончик своего члена к ее половым губам и двигаешь им вверх и вниз, посылая волны удовольствия по всему телу и снова смачивая киску своей девушки."
+
+# game/day29.rpy:955
+translate russian day29_b_sex_916b0812:
+
+    # "{i}[b_name] tries very hard to not make any noises, but ultimately fails as your veined shaft slides between her pussy lips."
+    "{i}[b_name] очень старается не издавать никаких звуков, но в конечном счете терпит неудачу, когда твой покрытый венами ствол скользит между ее половых губ."
+
+# game/day29.rpy:956
+translate russian day29_b_sex_1e90da1c:
+
+    # "{i}Her breathing is measured by the rhythm of your cock slamming inside her, not pausing once to let her catch her breath."
+    "{i}Ее дыхание измеряется ритмом твоего члена, бьющегося внутри нее, ни разу не останавливаясь, чтобы дать ей отдышаться."
+
+# game/day29.rpy:958
+translate russian day29_b_sex_33d36af8:
+
+    # p "Goddamn, you're so fucking amazing."
+    p "Боже, ты такая охуенная."
+
+# game/day29.rpy:959
+translate russian day29_b_sex_bb01cc2e:
+
+    # p "And you're mine."
+    p "И ты моя."
+
+# game/day29.rpy:960
+translate russian day29_b_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Ммм..."
+
+# game/day29.rpy:961
+translate russian day29_b_sex_d6d9f012:
+
+    # p "Say it..."
+    p "Скажи это..."
+
+# game/day29.rpy:962
+translate russian day29_b_sex_6fc22704_1:
+
+    # b "Mmmm..."
+    b "Ммм..."
+
+# game/day29.rpy:963
+translate russian day29_b_sex_f0e66e5a:
+
+    # p "Say it, or I'll stop."
+    p "Скажи это, или я остановлюсь."
+
+# game/day29.rpy:964
+translate russian day29_b_sex_4df92309:
+
+    # b "I... Fuck... I'm yours!"
+    b "Я... блять... я твоя!"
+
+# game/day29.rpy:965
+translate russian day29_b_sex_eaa9ca80:
+
+    # p "Good girl."
+    p "Хорошая девочка."
+
+# game/day29.rpy:966
+translate russian day29_b_sex_86dd199b:
+
+    # p "Now turn around."
+    p "Теперь перевернись."
+
+# game/day29.rpy:973
+translate russian day29_b_sex_c1313980:
+
+    # "{i}Firmly, you grab the sides of her body and continue your assault on her pussy. [b_name] just lets it happen, breathing raggedly and moaning, a faint smile on her face."
+    "{i}Крепко хватаешь ее за бока и продолжаешь трахать ее киску. [b_name] просто позволяет этому случиться, прерывисто дыша и постанывая, со слабой улыбкой на лице."
+
+# game/day29.rpy:974
+translate russian day29_b_sex_9cf11fcf:
+
+    # "{i}You have a magnificent view of her ass which is bouncing seductively."
+    "{i}Тебе открывается великолепный вид на ее задницу, которая соблазнительно подпрыгивает."
+
+# game/day29.rpy:976
+translate russian day29_b_sex_6329f807:
+
+    # p "You liked that dildo up your ass, didn't you, [b_name]?"
+    p "Тебе понравился этот фаллоимитатор в твоей заднице, не так ли, [b_name]?"
+
+# game/day29.rpy:977
+translate russian day29_b_sex_df44d03d:
+
+    # b "No!"
+    b "Нет!"
+
+# game/day29.rpy:978
+translate russian day29_b_sex_dd529617:
+
+    # p "Liar, you told me so."
+    p "Лжешь. Ты сама мне сказала."
+
+# game/day29.rpy:980
+translate russian day29_b_sex_f4fb6a6a:
+
+    # b "Don't do it!"
+    b "Не делай этого!"
+
+# game/day29.rpy:981
+translate russian day29_b_sex_90aaadf8:
+
+    # p "Relax..."
+    p "Расслабься..."
+
+# game/day29.rpy:982
+translate russian day29_b_sex_b26f9d22:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Ты плюешь ей между ягодиц, продолжая трахать ее. Слюна стекает к ее анусу и смешивается с соками ее киски."
+
+# game/day29.rpy:984
+translate russian day29_b_sex_b3759eda:
+
+    # "{i}The sight of her winking asshole gives you an idea."
+    "{i}Вид ее подпрыгивающей задницы наводит на мысль."
+
+# game/day29.rpy:985
+translate russian day29_b_sex_4f0022a4:
+
+    # p "Your ass is so fine."
+    p "Твоя жопа просто потрясающа."
+
+# game/day29.rpy:986
+translate russian day29_b_sex_a6a16b10:
+
+    # b "Mmm..."
+    b "Ммм..."
+
+# game/day29.rpy:987
+translate russian day29_b_sex_b26f9d22_1:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Ты плюешь ей между ягодиц, продолжая трахать ее. Слюна стекает к ее анусу и смешивается с соками ее киски."
+
+# game/day29.rpy:989
+translate russian day29_b_sex_04550608:
+
+    # b "What are you doing?"
+    b "Что ты делаешь?"
+
+# game/day29.rpy:990
+translate russian day29_b_sex_d4e7fd69:
+
+    # b "Don't you dare!"
+    b "Не смей!"
+
+# game/day29.rpy:991
+translate russian day29_b_sex_783f84f3:
+
+    # p "Just relax..."
+    p "Просто расслабься..."
+
+# game/day29.rpy:993
+translate russian day29_b_sex_460a8534:
+
+    # "{i}You caress the skin folds of your sister's clenched anus with your fingertips."
+    "{i}Ты ласкаешь кончиками пальцев складки кожи сжатого ануса своей сестры."
+
+# game/day29.rpy:995
+translate russian day29_b_sex_5dd93722:
+
+    # "{i}You caress the skin folds of your girl's clenched anus with your fingertips."
+    "{i}Ты ласкаешь кончиками пальцев складки кожи сжатого ануса своей девушки."
+
+# game/day29.rpy:999
+translate russian day29_b_sex_7bf203dc:
+
+    # "{i}Using the saliva as a lubricant you slowly but surely press your finger inside her asshole."
+    "{i}Используя слюну в качестве смазки, ты медленно вдавливаешь палец в ее задницу."
+
+# game/day29.rpy:1000
+translate russian day29_b_sex_797f0ad4:
+
+    # b "Ggggaaah!"
+    b "Ааааааааааааххххх!"
+
+# game/day29.rpy:1001
+translate russian day29_b_sex_e506ccf2:
+
+    # "{i}You don't stop fucking her as you finger her asshole. The only thing [b_name] is able to do is moan in ecstasy."
+    "{i}Ты не перестаешь трахать ее, пока теребишь пальцем ее задницу. Единственное, на что способна [b_name], - это стонать в экстазе."
+
+# game/day29.rpy:1002
+translate russian day29_b_sex_34ab9313:
+
+    # p "I thought you said you didn't like it?"
+    p "Я думал, ты сказала, что тебе не понравилось?"
+
+# game/day29.rpy:1003
+translate russian day29_b_sex_54161e51_1:
+
+    # b "Aaah!"
+    b "Ааааах!"
+
+# game/day29.rpy:1004
+translate russian day29_b_sex_e14ea2ad:
+
+    # p "There's a good slut."
+    p "Хорошая шлюха."
+
+# game/day29.rpy:1005
+translate russian day29_b_sex_6901be99:
+
+    # p "Getting off on being fingered in your ass, are you?"
+    p "Тебе нравится, когда тебя тыкают пальцем в задницу, да?"
+
+# game/day29.rpy:1006
+translate russian day29_b_sex_df44d03d_1:
+
+    # b "No!"
+    b "Нет!"
+
+# game/day29.rpy:1007
+translate russian day29_b_sex_7d1c486e:
+
+    # b "Yes!"
+    b "Да!"
+
+# game/day29.rpy:1014
+translate russian day29_b_sex_4e6002bf:
+
+    # "{i}You're about to insert another finger inside her anus when her orgasm surprises you both."
+    "{i}Ты собираешься вставить еще один палец в ее анус, когда ее оргазм удивляет вас обоих."
+
+# game/day29.rpy:1016
+translate russian day29_b_sex_b558bc2f:
+
+    # "{i}It makes her vagina incredibly wet, and your dick nearly slips out of her, but you manage to keep fucking her until your climax is near."
+    "{i}"
+
+# game/day29.rpy:1027
+translate russian day29_b_sex_0c355813:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}В то время как твоя сестра испытывает дикий оргазм, тебе трудно удержать ее на своем члене, но он все еще внутри нее, когда твоя сперма начинает течь."
+
+# game/day29.rpy:1029
+translate russian day29_b_sex_09f14b39:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}В то время как твоя девушка испытывает дикий оргазм, тебе трудно удержать ее на своем члене, но он все еще внутри нее, когда твоя сперма начинает течь."
+
+# game/day29.rpy:1043
+translate russian day29_b_sex_ab97e8e5:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}В то время как твоя сестра испытывает дикий оргазм, тебе трудно удержать ее на своем члене."
+
+# game/day29.rpy:1045
+translate russian day29_b_sex_1325384c:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}В то время как твоя девушка испытывает дикий оргазм, тебе трудно удержать ее на своем члене."
+
+# game/day29.rpy:1046
+translate russian day29_b_sex_61875a7a:
+
+    # "{i}You let it slip out and let your cum flow all over her back."
+    "{i}Ты позволил ей соскользнуть, и твоя сперма течет по ее спине."
+
+# game/day29.rpy:1055
+translate russian day29_b_sex_6e3c14aa:
+
+    # "{i}[b_name] cleans herself up and glares at you, despite the pleasure you just shared."
+    "{i}[b_name] приводит себя в порядок и смотрит на тебя, несмотря на удовольствие, которое ты только что разделил."
+
+# game/day29.rpy:1057
+translate russian day29_b_sex_ff05c4c4:
+
+    # p "That was interesting."
+    p "Это было интересно."
+
+# game/day29.rpy:1058
+translate russian day29_b_sex_3735a1ed:
+
+    # b "Don't even think for a minute I'm up for more."
+    b "Даже не думай, что я готова к большему."
+
+# game/day29.rpy:1059
+translate russian day29_b_sex_1d83294d:
+
+    # p "Are you sure?"
+    p "Уверена?"
+
+# game/day29.rpy:1060
+translate russian day29_b_sex_5a68789f:
+
+    # b "Yes, I'm fucking sure."
+    b "Да, блять, я уверена."
+
+# game/day29.rpy:1061
+translate russian day29_b_sex_bd0b3e68:
+
+    # p "You'll come around, I'm sure you do."
+    p "Ты придешь в себя, я уверен."
+
+# game/day29.rpy:1062
+translate russian day29_b_sex_c0bf7ea1:
+
+    # b "Go away."
+    b "Вали."
+
+# game/day29.rpy:1077
+translate russian day29_l_masturbation_bd368b3d:
+
+    # "{i}You shuffle underneath the blankets and try to keep warm."
+    "{i}Ты забираешься под одеяло и пытаешься согреться."
+
+# game/day29.rpy:1078
+translate russian day29_l_masturbation_586c421f:
+
+    # l "I'm s-so c-c-cold..."
+    l "Я т-т-так зам-м-мерзл-л-ла..."
+
+# game/day29.rpy:1079
+translate russian day29_l_masturbation_00028e1e:
+
+    # p "Me too..."
+    p "Я тоже."
+
+# game/day29.rpy:1080
+translate russian day29_l_masturbation_04be0cfb:
+
+    # p "I read somewhere that skin on skin contact helps."
+    p "Я где-то читал, что контакт кожи с кожей помогает"
+
+# game/day29.rpy:1081
+translate russian day29_l_masturbation_487dd9a4:
+
+    # l "I'm willing to try anything."
+    l "Я готова пробовать все, что угодно."
+
+# game/day29.rpy:1082
+translate russian day29_l_masturbation_21a958e9:
+
+    # p "We kinda need to get completely naked and hold each other close."
+    p "Нам вроде как нужно полностью раздеться и прижаться друг к другу."
+
+# game/day29.rpy:1083
+translate russian day29_l_masturbation_f6cfd697:
+
+    # l "N-no underw-wear, y-you m-mean"
+    l "Без белья, ты имеешь в виду..."
+
+# game/day29.rpy:1084
+translate russian day29_l_masturbation_e66125da:
+
+    # p "Yup."
+    p "Да."
+
+# game/day29.rpy:1085
+translate russian day29_l_masturbation_ea527966:
+
+    # l "T-t-that's not so b-b-bad, is it?"
+    l "Эт-т-то ведь не н-н-неправильно, да?"
+
+# game/day29.rpy:1087
+translate russian day29_l_masturbation_298d3e54:
+
+    # "{i}After you both undress, you hold [l_name] in your arms. Her skin feels soft and cold on yours."
+    "{i}После того, как вы оба разденетесь, ты держишь [l_name] в своих объятиях. Ее кожа кажется мягкой и холодной на твоей."
+
+# game/day29.rpy:1088
+translate russian day29_l_masturbation_947fcb87:
+
+    # p "Do you feel warmer?"
+    p "Теплее?"
+
+# game/day29.rpy:1089
+translate russian day29_l_masturbation_d37a2cb7:
+
+    # l "I think so."
+    l "Думаю да."
+
+# game/day29.rpy:1090
+translate russian day29_l_masturbation_3c358972:
+
+    # p "You've stopped shivering."
+    p "Ты перестала трястись."
+
+# game/day29.rpy:1091
+translate russian day29_l_masturbation_915f99db:
+
+    # l "I'm still cold."
+    l "Но мне все еще холодно."
+
+# game/day29.rpy:1092
+translate russian day29_l_masturbation_99085df3:
+
+    # p "Maybe it would help if we rubbed our skin."
+    p "Может быть, это помогло бы, если бы мы потерли кожу."
+
+# game/day29.rpy:1098
+translate russian day29_l_masturbation_600802e7:
+
+    # "{i}After you place a hand on your sister's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Положив руку на плечо сестры, ты массируешь ей руки и спину. [l_name] закрывает глаза."
+
+# game/day29.rpy:1100
+translate russian day29_l_masturbation_7e21322b:
+
+    # "{i}After you place a hand on your friend's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Положив руку на плечо подруги, ты массируешь ей руки и спину. [l_name] закрывает глаза."
+
+# game/day29.rpy:1101
+translate russian day29_l_masturbation_77ba347f:
+
+    # p "Is that better?"
+    p "Так лучше?"
+
+# game/day29.rpy:1102
+translate russian day29_l_masturbation_91c056ac:
+
+    # l "Mmmmm."
+    l "Ммммм."
+
+# game/day29.rpy:1103
+translate russian day29_l_masturbation_fa3eddbf:
+
+    # "{i}When her upper body feels warm to the touch, you move to her hips and legs and give them the same treatment."
+    "{i}Когда верхняя часть ее тела становится теплой на ощупь, ты переходишь к ее бедрам и ногам и проводишь с ними ту же процедуру."
+
+# game/day29.rpy:1104
+translate russian day29_l_masturbation_1049a691:
+
+    # l "It really works."
+    l "Это правда работает."
+
+# game/day29.rpy:1105
+translate russian day29_l_masturbation_03b82946:
+
+    # "{i}You kiss her shoulder blade and the nape of her neck."
+    "{i}Ты целуешь ее лопатку и затылок."
+
+# game/day29.rpy:1106
+translate russian day29_l_masturbation_10443e0d:
+
+    # l "Please don't stop."
+    l "Пожалуйста, не останавливайся."
+
+# game/day29.rpy:1107
+translate russian day29_l_masturbation_086cad75:
+
+    # p "But you're warm already."
+    p "Но ты уже теплая."
+
+# game/day29.rpy:1108
+translate russian day29_l_masturbation_cd28bb69:
+
+    # l "I know, but I like the feeling."
+    l "Знаю, но мне нравятся эти ощущения."
+
+# game/day29.rpy:1110
+translate russian day29_l_masturbation_2fd9c300:
+
+    # "{i}[l_name] turns towards you and looks deeply into your eyes. You cannot help but kiss her mouth."
+    "{i}[l_name] поворачивается к тебе и пристально смотрит в твои глаза. Ты не можешь не поцеловать ее в губы."
+
+# game/day29.rpy:1112
+translate russian day29_l_masturbation_b3a7ddfc:
+
+    # l "Mmmm... [p_name]!"
+    l "Ммммм...[p_name]!"
+
+# game/day29.rpy:1114
+translate russian day29_l_masturbation_abd505a2:
+
+    # p "Sorry, but your lips were cold."
+    p "Прости, но твои губы были холодными."
+
+# game/day29.rpy:1115
+translate russian day29_l_masturbation_f07890dd:
+
+    # l "Haha!"
+    l "Хаха!"
+
+# game/day29.rpy:1116
+translate russian day29_l_masturbation_af2584ed:
+
+    # "{i}The sight of her firm breasts and their proud nipples, combined with your passionate kiss, is starting to make you hard."
+    "{i}Вид ее упругих грудей и их гордых сосков в сочетании с твоим страстным поцелуем начинает возбуждать тебя."
+
+# game/day29.rpy:1117
+translate russian day29_l_masturbation_97be07fe:
+
+    # l "There's something... Oh..."
+    l "Там что-то... оу..."
+
+# game/day29.rpy:1118
+translate russian day29_l_masturbation_e88a0767:
+
+    # p "Sorry."
+    p "Прости."
+
+# game/day29.rpy:1119
+translate russian day29_l_masturbation_517cb65b:
+
+    # l "Don't be."
+    l "Не парься."
+
+# game/day29.rpy:1120
+translate russian day29_l_masturbation_9d29c86a:
+
+    # l "You're still cold too."
+    l "Тебе тоже еще холодно."
+
+# game/day29.rpy:1121
+translate russian day29_l_masturbation_afc4ff76:
+
+    # p "I am."
+    p "Да."
+
+# game/day29.rpy:1122
+translate russian day29_l_masturbation_8598487a:
+
+    # l "Mind if I give you the same treatment?"
+    l "Не возражаешь, если я сделаю то же самое?"
+
+# game/day29.rpy:1123
+translate russian day29_l_masturbation_f1c98617:
+
+    # p "Not at all."
+    p "Совсем нет."
+
+# game/day29.rpy:1128
+translate russian day29_l_masturbation_3efd99a2:
+
+    # "{i}The girl proceeds to treat your skin the same way you did hers, but you notice she presses her body even closer to yours."
+    "{i}Девушка продолжает обрабатывать твою кожу так же, как ты обрабатывал ее, но ты замечаешь, что она прижимается еще ближе к твоему телу."
+
+# game/day29.rpy:1129
+translate russian day29_l_masturbation_33819e20:
+
+    # "{i}As you turn over, your leg slips between her thighs, and you feel the lips of her pussy on your bare skin. [l_name] doesn't seem to notice."
+    "{i}Когда ты переворачиваешься, твоя нога скользит между ее бедер, и ты чувствуешь губы ее киски на своей обнаженной коже. [l_name], похоже, не замечает."
+
+# game/day29.rpy:1131
+translate russian day29_l_masturbation_21e1e7b3:
+
+    # "{i}Unconsciously, she starts to grind her pussy on your leg, craving the pleasure the motions send through her body."
+    "{i}Неосознанно она начинает тереться своей киской о твою ногу, жаждая удовольствия, которое эти движения посылают по ее телу."
+
+# game/day29.rpy:1132
+translate russian day29_l_masturbation_93ea5af1:
+
+    # "{i}Not wanting to ruin the moment, you don't speak and wrap your arms around her."
+    "{i}Не желая портить момент, ты молчишь и обнимаешь ее."
+
+# game/day29.rpy:1133
+translate russian day29_l_masturbation_eba44e9f:
+
+    # l "Mmmmmm..."
+    l "Мммммм..."
+
+# game/day29.rpy:1134
+translate russian day29_l_masturbation_65fa5b8a:
+
+    # "{i}Your massage completely forgotten, [l_name] continues, breathing ever more heavily."
+    "{i}Массаж полностью забыт, [l_name] продолжает, дыша все тяжелее."
+
+# game/day29.rpy:1136
+translate russian day29_l_masturbation_d88acbc7:
+
+    # l "Oh!"
+    l "Оу!"
+
+# game/day29.rpy:1137
+translate russian day29_l_masturbation_60783c8b:
+
+    # l "What are we doing?!"
+    l "Что мы делаем?!"
+
+# game/day29.rpy:1138
+translate russian day29_l_masturbation_0246ef9a:
+
+    # "{i}[l_name] tries to squirm out of your arms, but there's no real conviction behind her actions, as if she wants to continue to do what makes her feel good."
+    "{i}[l_name] пытается вырваться из ваших рук, но за ее действиями нет никакой реальной убежденности, как будто она хочет продолжать делать то, что приносит ей удовольствие"
+
+# game/day29.rpy:1139
+translate russian day29_l_masturbation_caba0a24:
+
+    # p "I don't mind."
+    p "Я не против."
+
+# game/day29.rpy:1140
+translate russian day29_l_masturbation_f86d916c:
+
+    # p "It works even better to keep warm, I think."
+    p "Это даже лучше помогает согреться, думаю."
+
+# game/day29.rpy:1145
+translate russian day29_l_masturbation_4e0ef72d:
+
+    # l "I shouldn't..."
+    l "Я не должна."
+
+# game/day29.rpy:1146
+translate russian day29_l_masturbation_236cf105:
+
+    # p "You wanted to do what feels right to you, don't you?"
+    p "Ты хотела делать то, что тебе кажется правильным, не так ли?"
+
+# game/day29.rpy:1147
+translate russian day29_l_masturbation_2af0a44b:
+
+    # l "Yes, but..."
+    l "Да, но..."
+
+# game/day29.rpy:1148
+translate russian day29_l_masturbation_c70ebffe:
+
+    # p "This is one of those moments where you should listen to your body, act on your instincts."
+    p "Это один из тех моментов, когда мы должны прислушиваться к своему телу, действовать в соответствии со своими инстинктами."
+
+# game/day29.rpy:1149
+translate russian day29_l_masturbation_21477378:
+
+    # l "But I'm using you..."
+    l "Но я тебя использую..."
+
+# game/day29.rpy:1150
+translate russian day29_l_masturbation_1a69e8f1:
+
+    # p "Only technically..."
+    p "Только технически..."
+
+# game/day29.rpy:1151
+translate russian day29_l_masturbation_007180d8:
+
+    # l "Oh... So you don't mind?"
+    l "Оу... так ты не против?"
+
+# game/day29.rpy:1152
+translate russian day29_l_masturbation_eb716dfc:
+
+    # p "Just trust that I'll let you know."
+    p "Просто поверь, я дам тебе знать."
+
+# game/day29.rpy:1153
+translate russian day29_l_masturbation_c6c955e3:
+
+    # l "Okay..."
+    l "Хорошо..."
+
+# game/day29.rpy:1154
+translate russian day29_l_masturbation_560ee807:
+
+    # p "Does it help when I kiss you?"
+    p "Тебе поможет поцелуй?"
+
+# game/day29.rpy:1156
+translate russian day29_l_masturbation_b3ef1b9b:
+
+    # l "Maybe..."
+    l "Может быть..."
+
+# game/day29.rpy:1158
+translate russian day29_l_masturbation_1dc0465a:
+
+    # "{i}Before she can think of any more weak objections, you kiss her with such fire that she automatically resumes sliding her pussy on your leg, this time with much more conviction."
+    "{i}Прежде чем она успевает придумать еще какие-нибудь слабые возражения, ты целуешь ее с таким огнем, что она автоматически возобновляет скольжение своей киской по твоей ноге, на этот раз с гораздо большей уверенностью."
+
+# game/day29.rpy:1159
+translate russian day29_l_masturbation_1676d17b:
+
+    # l "Oh [p_name]!"
+    l "Оу, [p_name]!"
+
+# game/day29.rpy:1160
+translate russian day29_l_masturbation_9df729d7:
+
+    # p "Just keep going, don't be afraid."
+    p "Просто продолжай, не бойся."
+
+# game/day29.rpy:1161
+translate russian day29_l_masturbation_04e36e67:
+
+    # l "I-I'm not... Aaaah!"
+    l "Я-я не... аааххх!"
+
+# game/day29.rpy:1166
+translate russian day29_l_masturbation_593144a0:
+
+    # "{i}While [l_name] focuses on pleasuring herself, you turn your attention to her breasts, showering them with kissing and softly suckling her nipples."
+    "{i}В то время как [l_name] фокусируется на том, чтобы доставить себе удовольствие, ты обращаешь свое внимание на ее груди, осыпая их поцелуями и нежно посасывая ее соски."
+
+# game/day29.rpy:1168
+translate russian day29_l_masturbation_b986ab8a:
+
+    # "{i}Your sister holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Твоя сестра держит тебя очень близко, прижимая твое лицо к своей сладострастной груди, и ты вдыхаешь ее запах духов, смешанный с потом."
+
+# game/day29.rpy:1170
+translate russian day29_l_masturbation_fd701959:
+
+    # "{i}Your friend holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Твоя подруга держит тебя очень близко, прижимая твое лицо к своей сладострастной груди, и ты вдыхаешь ее запах духов, смешанный с потом."
+
+# game/day29.rpy:1171
+translate russian day29_l_masturbation_0ffa60ce:
+
+    # l "I'm... I'm so close!"
+    l "Я... я так близко!"
+
+# game/day29.rpy:1173
+translate russian day29_l_masturbation_2f326aef:
+
+    # "{i}You intensify your attention to her breasts, as her grinding enters the final stretch. Her upper leg is massaging your cock, and you start to lose your own bearings."
+    "{i}Ты усиливаешь свое внимание к ее груди, когда ее шлифовка входит в финальную фазу. Ее верхняя нога массирует твой член, и ты начинаешь терять ориентацию."
+
+# game/day29.rpy:1174
+translate russian day29_l_masturbation_ab17848e:
+
+    # p "[l_name]!"
+    p "[l_name]!"
+
+# game/day29.rpy:1175
+translate russian day29_l_masturbation_c1d4061a:
+
+    # l "Yes?!"
+    l "Да?!"
+
+# game/day29.rpy:1176
+translate russian day29_l_masturbation_87c00d69:
+
+    # p "Don't stop..."
+    p "Не останавливайся..."
+
+# game/day29.rpy:1177
+translate russian day29_l_masturbation_a0e74141:
+
+    # l "I won't..."
+    l "Я не буду..."
+
+# game/day29.rpy:1178
+translate russian day29_l_masturbation_70556a20:
+
+    # l "I won't!"
+    l "Я не буду!"
+
+# game/day29.rpy:1185
+translate russian day29_l_masturbation_c202593b:
+
+    # "{i}As her movements start to lose coordination, you know she's about to climax. From deep within, your own orgasm builds, and you release almost at the same time."
+    "{i}Когда ее движения начинают терять координацию, ты понимаешь, что она вот-вот кончит. Глубоко внутри тебя нарастает собственный оргазм, и вы освобождаетесь почти одновременно."
+
+# game/day29.rpy:1186
+translate russian day29_l_masturbation_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day29.rpy:1187
+translate russian day29_l_masturbation_7bfa6ff2:
+
+    # "{i}Embracing each other, you climb the peaks of your pleasure, [l_name]'s juices covering your leg, and you spraying cum all over her thighs and belly."
+    "{i}Обнимая друг друга, вы поднимаетесь на вершины своего удовольствия, соки [l_name] покрывают твою ногу, а ты разбрызгиваешь сперму по всем ее бедрам и животу."
+
+# game/day29.rpy:1193
+translate russian day29_l_masturbation_cb14584f:
+
+    # "{i}Half an hour passes, and [l_name] just sighs in your arms and absentmindedly strokes your chest."
+    "{i}Проходит полчаса, и [l_name] просто вздыхает в твоих объятиях и рассеянно гладит твою грудь."
+
+# game/day29.rpy:1194
+translate russian day29_l_masturbation_8be67411:
+
+    # p "I don't know about you, but I finally feel warm."
+    p "Не знаю, как тебе, а мне наконец-то стало тепло."
+
+# game/day29.rpy:1195
+translate russian day29_l_masturbation_1169bd3f:
+
+    # l "You're right, me too."
+    l "Мне тоже."
+

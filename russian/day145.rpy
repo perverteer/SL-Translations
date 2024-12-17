@@ -969,7 +969,7 @@ translate russian day145_choices_6c7b673e:
 # game/day145.rpy:352
 translate russian day145_choices_dece534f:
 
-    #hug M "{i}You're overwhelmed by the iley gives you and feel an intimacy you haven't felt in a long time."
+    # "{i}You're overwhelmed by the iley gives you and feel an intimacy you haven't felt in a long time."
     "{i}Ты поражен тем, что дает тебе Айли, и чувствуешь близость, которой не испытывал уже давно."
 # game/day145.rpy:355
 translate russian day145_choices_6e152e27:
@@ -6014,7 +6014,7 @@ translate russian day145_wedding_night_52c75973:
 translate russian day145_wedding_night_8111a7b9:
 
     # "{i}Luckily, [m_name] and [b_name] give you an opening."
-    "{i}{К счастью, [m_name] и [b_name] дают тебе шанс."
+    "{i}К счастью, [m_name] и [b_name] дают тебе шанс."
 
 # game/day145.rpy:2323
 translate russian day145_wedding_night_27c5d5b8_1:
@@ -8559,8 +8559,7 @@ translate russian day145_r_b_m_fucking_5f038f87:
 translate russian day145_r_b_m_fucking_5f1e7045:
 
     # "{i}[m_name] rides you hard as she moans, the sound muffled by the tongue kisses from her youngest friend."
-    "{i}[m_name] жестко скачет на тебе, стонет, звук заглушается поцелуями ее младшей подруги.
-"
+    "{i}[m_name] жестко скачет на тебе, стонет, звук заглушается поцелуями ее младшей подруги."
 
 # game/day145.rpy:3311
 translate russian day145_r_b_m_fucking_35726197:
@@ -8824,7 +8823,7 @@ translate russian day145_r_b_m_fucking_58473398:
 translate russian day145_r_b_m_fucking_0ef53d8d:
 
     # "{i}There's no questions where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
-    "{iНет вопросов, где ты хочешь кончить, поэтому ты продолжаешь трахать свою сестру, пока не переступишь порог самоконтроля.}"
+    "{i}Нет вопросов, где ты хочешь кончить, поэтому ты продолжаешь трахать свою сестру, пока не переступишь порог самоконтроля."
 
 # game/day145.rpy:3419
 translate russian day145_r_b_m_fucking_b3c8213b:
@@ -12628,7 +12627,7 @@ translate russian day145_wedding_ceremony_2048af1c:
 translate russian day145_wedding_ceremony_70eb66e8:
 
     # man "Do you together promise you will love, cherish and respect one another throughout the years?"
-    мужчина "Обещаете ли вы вместе любить, лелеять и уважать друг друга на протяжении всех лет?."
+    man "Обещаете ли вы вместе любить, лелеять и уважать друг друга на протяжении всех лет?."
 
 # game/day145.rpy:1790
 translate russian day145_wedding_feast_6f9086c8:
@@ -12950,3 +12949,179 @@ translate russian day145_wedding_feast_0f86c456:
 
     # m "I admit that the idea of you two moving abroad took a long while to get accustomed to."
     m "Я признаю, что к мысли о том, что вы двое переедете за границу, пришлось долго привыкать."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day145.rpy:2792
+translate russian day145_r_b_l_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Участвует ли Адриана в этой сцене"
+
+# game/day145.rpy:2796
+translate russian day145_r_b_l_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Адриана участвует"
+
+# game/day145.rpy:2799
+translate russian day145_r_b_l_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Адриана не участвует"
+
+# game/day145.rpy:3628
+translate russian day145_r_b_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Участвует ли Адриана в этой сцене"
+
+# game/day145.rpy:3632
+translate russian day145_r_b_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Адриана участвует"
+
+# game/day145.rpy:3635
+translate russian day145_r_b_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Адриана не участвует"
+
+# game/day145.rpy:4967
+translate russian day145_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Беременна ли [m_name] в этой сцене"
+
+# game/day145.rpy:4971
+translate russian day145_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] беременная"
+
+# game/day145.rpy:4974
+translate russian day145_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] не беременна"
+
+# game/day145.rpy:5179
+translate russian day145_b_sex_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Является ли [b_name] покорным в этой сцене"
+
+# game/day145.rpy:5184
+translate russian day145_b_sex_b2ede48b:
+
+    # "[b_name] submissive"
+    "[b_name] покорный"
+
+# game/day145.rpy:5186
+translate russian day145_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day145.rpy:5190
+translate russian day145_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day145.rpy:5193
+translate russian day145_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day145.rpy:5199
+translate russian day145_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Беременна ли [b_name] в этой сцене"
+
+# game/day145.rpy:5203
+translate russian day145_b_sex_047eed70:
+
+    # "[b_name] pregnant and not submissive"
+    "[b_name] беременная и не покорная"
+
+# game/day145.rpy:5206
+translate russian day145_b_sex_792ada9c:
+
+    # "[b_name] not pregnant and not submissive"
+    "[b_name] не беременная и не покорная"
+
+# game/day145.rpy:5513
+translate russian day145_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Беременна ли [l_name] в этой сцене"
+
+# game/day145.rpy:5517
+translate russian day145_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] беременная"
+
+# game/day145.rpy:5520
+translate russian day145_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] не беременна"
+
+# game/day145.rpy:5689
+translate russian day145_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Беременна ли [r_name] в этой сцене"
+
+# game/day145.rpy:5693
+translate russian day145_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] беременная"
+
+# game/day145.rpy:5696
+translate russian day145_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] не беременна"
+
+# game/day145.rpy:5698
+translate russian day145_r_sex_522a9764:
+
+    # "Does Ana participate in this scene?"
+    "Участвует ли Ана в этой сцене"
+
+# game/day145.rpy:5703
+translate russian day145_r_sex_0569fb1a:
+
+    # "Ana participates"
+    "Ана участвует"
+
+# game/day145.rpy:5706
+translate russian day145_r_sex_3f44a671:
+
+    # "Ana doesn't participate"
+    "Ана не принимает участия"
+
+# game/day145.rpy:5708
+translate russian day145_r_sex_72a60c9f:
+
+    # "Does Alina participate in this scene?"
+    "Участвует ли Алина в этой сцене"
+
+# game/day145.rpy:5713
+translate russian day145_r_sex_5a510202:
+
+    # "Alina participates"
+    "Алина участвует"
+
+# game/day145.rpy:5716
+translate russian day145_r_sex_7852c3e9:
+
+    # "Alina doesn't participate"
+    "Алина не принимает участия"
+

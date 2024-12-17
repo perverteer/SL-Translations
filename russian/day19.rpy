@@ -4120,7 +4120,7 @@ translate russian day19_choices_5ad4a076:
 translate russian day19_choices_1f9fd43a:
 
     # rb "Damn, Nia, you've made such a mess of that boy."
-    рб "Черт, Ниа, ты так испортила мальчика."
+    rb "Черт, Ниа, ты так испортила мальчика."
 
 # game/day19.rpy:348
 translate russian day19_choices_9c3545dc:
@@ -4422,4 +4422,1896 @@ translate russian day19_choices_e59bdeeb:
 
     # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
     "{i}Когда вы закончили, Ребека подползла к Нии, и они обменялись страстным французским поцелуем, волосы Ребеки щекотали ваш член."
+
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day19.rpy:580
+translate russian day19_rb_n_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Хотите ли вы включить водные виды спорта для этой сцены?"
+
+# game/day19.rpy:584
+translate russian day19_rb_n_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Водные виды спорта позволяют"
+
+# game/day19.rpy:587
+translate russian day19_rb_n_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Водные виды спорта отключены"
+
+# game/day19.rpy:592
+translate russian day19_rb_n_sex_d85a2907:
+
+    # rb "We wanted to give you a fitting farewell."
+    rb "Мы хотели как следует попрощаться с тобой."
+
+# game/day19.rpy:593
+translate russian day19_rb_n_sex_b8eee1d3:
+
+    # n "The both of us."
+    n "Мы обе."
+
+# game/day19.rpy:594
+translate russian day19_rb_n_sex_f9f54e69:
+
+    # p "{i}(I don't think they're talking about waving at me.)"
+    p "{i}(Не думаю, что они говорят о том, чтобы помахать мне рукой.)"
+
+# game/day19.rpy:598
+translate russian day19_rb_n_sex_38924177:
+
+    # p "You've piqued my interest."
+    p "Вы завоевали мой интерес."
+
+# game/day19.rpy:600
+translate russian day19_rb_n_sex_5804e6b6:
+
+    # rb "We had a good mother/daughter conversation this morning and it seems you've been enjoying multiple members of our little family."
+    rb "Сегодня утром у нас был хороший разговор между матерью и дочерью, и, похоже, ты наслаждаешься некоторыми членами нашей маленькой семьи."
+
+# game/day19.rpy:601
+translate russian day19_rb_n_sex_ad08e5ef:
+
+    # p "I skipped on Nino, sorry."
+    p "Я упустил Нино, извини."
+
+# game/day19.rpy:602
+translate russian day19_rb_n_sex_be7f7928:
+
+    # n "Hahaha, I'm sure he'd be game if you asked him."
+    n "Хахахах, я уверена, он бы согласился, если бы ты его спросил."
+
+# game/day19.rpy:603
+translate russian day19_rb_n_sex_2363d476:
+
+    # n "But you've enjoyed both of us separately, why not together this time?"
+    n "Но вам обоим понравилось по отдельности, почему бы этот раз провести не вместе?"
+
+# game/day19.rpy:605
+translate russian day19_rb_n_sex_7bd1dddb:
+
+    # n "Rebeca and I had a conversation this morning, and since you've enjoyed me, we thought you may like the both of us as well."
+    n "Сегодня утром мы с Ребеккой поговорили, и, поскольку я тебе понравилась, мы подумали, что тебе также можем понравиться мы обе."
+
+# game/day19.rpy:607
+translate russian day19_rb_n_sex_72efa59d:
+
+    # rb "We had a good mother/daughter conversation this morning and I'm not greedy, so I'd like to share you with Nia, if you want to."
+    rb "Этим утром у нас был хороший разговор между матерью и дочерью, и я не жадная, поэтому хотела бы поделиться тобой с Нией, если не возражаешь."
+
+# game/day19.rpy:608
+translate russian day19_rb_n_sex_d323426a:
+
+    # p "Keep going."
+    p "Продолжай"
+
+# game/day19.rpy:609
+translate russian day19_rb_n_sex_f802474b:
+
+    # "{i}While talking, both Rebeca and Nia have removed several pieces of clothing."
+    "{i}Во время разговора Ребекка и Ниа сняли несколько предметов одежды."
+
+# game/day19.rpy:611
+translate russian day19_rb_n_sex_ab5427f6:
+
+    # "{i}As they step teasingly out of their underwear, they look at you with an animalistic longing that makes you hard in an instant."
+    "{i}Когда они, дразня, выпрыгивают из своего нижнего белья, то смотрят на тебя с животным желанием, которое мгновенно заставляет тебя возбудиться."
+
+# game/day19.rpy:612
+translate russian day19_rb_n_sex_1972cba6:
+
+    # n "Mmm... I think that cock is ready to fuck us already, mother."
+    n "Ммм... Я думаю, этот член уже готов нас трахнуть, мама."
+
+# game/day19.rpy:613
+translate russian day19_rb_n_sex_54c5abdd:
+
+    # rb "Not yet, dear. Let's give him a show first. And I'm dying for a kiss."
+    rb "Еще нет, дорогая. Давайте сначала устроим ему шоу. И я умираю от недостатка поцелуев."
+
+# game/day19.rpy:616
+translate russian day19_rb_n_sex_3919c996:
+
+    # "{i}The girls embrace and kiss. It's a hungry kiss, far removed from anything remotely resembling platonic love."
+    "{i}Девушки обнимаются и целуются. Это голодный, страстный поцелуй, далекий от чего-либо, хоть отдаленно напоминающего платоническую любовь."
+
+# game/day19.rpy:617
+translate russian day19_rb_n_sex_8ee566a0:
+
+    # "{i}Nia lustfully squeezes and kneads her mother's butt, while Rebeca caresses her daughter's firm young breasts."
+    "{i}Ниа похотливо сжимает задницу своей матери, в то время как Ребекка ласкает упругие молодые груди своей дочери."
+
+# game/day19.rpy:623
+translate russian day19_rb_n_sex_534413f3:
+
+    # "{i}Still kissing and moaning, the girls move to the bed and make themselves comfortable. Rebeca turns her attention to Nia's cunt."
+    "{i}Продолжая целоваться и стонать, девушки подходят к кровати и устраиваются поудобнее. Ребекка обращает внимание на пизду Нии."
+
+# game/day19.rpy:624
+translate russian day19_rb_n_sex_bbc4abc7:
+
+    # rb "I'll make her ready for you, [p_name]."
+    rb "Я подготовлю ее для тебя, [p_name]."
+
+# game/day19.rpy:625
+translate russian day19_rb_n_sex_f28c2150:
+
+    # "{i}You watch as Rebeca strokes Nia's pussy, which is already wet from all the excitement. A finger slips inside her daughter's slit and another soon follows. Nia thrashes against the headboard of the bed in ecstasy."
+    "{i}Ты смотришь, как Ребеека поглаживает киску Нии, которая уже влажная от возбуждения. Один палец скользит в щель ее дочери, и вскоре за ним же следует другой. Ниа в экстазе бьется об изголовье кровати."
+
+# game/day19.rpy:626
+translate russian day19_rb_n_sex_9c8eddbe:
+
+    # rb "I want to taste you Nia, get on top of me."
+    rb "Я хочу попробовать тебя, Ниа, встань надо мной."
+
+# game/day19.rpy:632
+translate russian day19_rb_n_sex_860e0b65:
+
+    # "{i}Mother and daughter change position, and Nia positions her pussy right above Rebeca's head. You see the older woman's tongue dart out and lick her daughter's moist lips eagerly."
+    "{i}Мать и дочь меняют позу, и Ниа располагает свою киску прямо над головой Ребекки. Ты видишь, как язык женщины выскакивает и нетерпеливо облизывает влажные губы ее дочки."
+
+# game/day19.rpy:633
+translate russian day19_rb_n_sex_c1303112:
+
+    # "{i}As you're now naked yourself, you cannot help but stroke your cock at the sight of both girls enjoying each other."
+    "{i}Поскольку ты теперь сам обнажен, ты не можешь не погладить свой член при виде обеих девушек, наслаждающихся друг другом"
+
+# game/day19.rpy:636
+translate russian day19_rb_n_sex_01800b8b:
+
+    # rb "I want more of you, girl!"
+    rb "Я хочу больше тебя, девочка!"
+
+# game/day19.rpy:637
+translate russian day19_rb_n_sex_9db12743:
+
+    # "{i}Nia seems to understand what her mother wants, as she lifts her pussy from her mother's face and appears to push something out."
+    "{i}Ния, кажется, понимает, чего хочет ее мать, когда она поднимает свою киску от лица матери и, кажется, выталкивает что-то."
+
+# game/day19.rpy:638
+translate russian day19_rb_n_sex_b0b7c98f:
+
+    # "{i}You see her little asshole pulsate under the strain, and her mother's tongue is already there to give it the attention it deserves."
+    "{i}Ты видишь, как ее маленькая дырка пульсирует от напряжения, а язык ее родной матери уже внутри ее попки, уделяет ей должное внимание."
+
+# game/day19.rpy:639
+translate russian day19_rb_n_sex_7e3dc9db:
+
+    # n "Yes mom, right there... Ooooh right there!"
+    n "Да мам, вот так... Оооохххх... прямо здесь, да!"
+
+# game/day19.rpy:644
+translate russian day19_rb_n_sex_f346eafd:
+
+    # "{i}With a sigh, Nia produces a big stream of warm piss which washes over her mother's body."
+    "{i}Со вздохом Ниа извергает большую струю теплой мочи, которая омывает тело ее матери."
+
+# game/day19.rpy:645
+translate russian day19_rb_n_sex_b7eddced:
+
+    # n "Aaaah! Is that nice and warm enough for you?"
+    n "Ааааахххх! Достаточно вкусно и тепло для тебя?"
+
+# game/day19.rpy:647
+translate russian day19_rb_n_sex_864a9b92:
+
+    # rb "That's my beautiful little girl, making mommy all wet."
+    rb "Вот она, моя прекрасная маленькая девочка! Сделала свою маму мокрой!"
+
+# game/day19.rpy:648
+translate russian day19_rb_n_sex_4d0a87aa:
+
+    # "{i}That statement alone almost makes you spill your seed on the floor, but you keep it together."
+    "{i}Одно это утверждение почти заставляет тебя пролить свое семя на пол, но ты держишь его внутри."
+
+# game/day19.rpy:649
+translate russian day19_rb_n_sex_92bdd097:
+
+    # n "We're forgetting [p_name], mom."
+    n "Мы забываем про [p_name], мамочка."
+
+# game/day19.rpy:654
+translate russian day19_rb_n_sex_e3d5c3a9:
+
+    # rb "Right. I'm sure he's dying to give us something."
+    rb "Правильно. Уверена, он умирает от нетерпения..."
+
+# game/day19.rpy:655
+translate russian day19_rb_n_sex_ff05f2fe:
+
+    # p "Come over here then."
+    p "Давайте сюда."
+
+# game/day19.rpy:657
+translate russian day19_rb_n_sex_9447d48a:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. Droplets of piss are pearling down Rebeca's body. There's a hunger in both their eyes."
+    "{i}Ниа и Ребекка становятся на колени перед тобой и выжидающе смотрят. Капли мочи стекают по телу Ребекки. В их глазах голод, огонь, похоть и страсть."
+
+# game/day19.rpy:658
+translate russian day19_rb_n_sex_e7569246:
+
+    # n "He's big, isn't he, mother?"
+    n "Он большой, не так ли, мамочка?"
+
+# game/day19.rpy:659
+translate russian day19_rb_n_sex_58473773:
+
+    # rb "He sure is."
+    rb "Очень большой."
+
+# game/day19.rpy:661
+translate russian day19_rb_n_sex_b1c02cdf:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Но мы обе знаем, что он отлично подойдет нашим дыркам..."
+
+# game/day19.rpy:663
+translate russian day19_rb_n_sex_146d7dcf:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Но ты знаешь, что он отлично подойдет твоим дыркам..."
+
+# game/day19.rpy:665
+translate russian day19_rb_n_sex_5e88b4ac:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Но я знаю, что он отлично подойдет моим дыркам..."
+
+# game/day19.rpy:666
+translate russian day19_rb_n_sex_03378bfc:
+
+    # p "Open your mouths!"
+    p "Открыли рты!"
+
+# game/day19.rpy:672
+translate russian day19_rb_n_sex_6722dac6:
+
+    # "{i}You direct a big stream of piss at Rebeca and soon her mouth is filled with your warm fluid. Most of it spills on her tits and washes down her body, but she swallows a portion as well, reveling in it."
+    "{i}Ты направляешь поток мочи на Ребекку, и вскоре ее рот наполняется твоей теплой жидкостью. Большая часть проливается на ее грудь и омывает ее тело, но что-то она все же проглатывает, наслаждаясь."
+
+# game/day19.rpy:674
+translate russian day19_rb_n_sex_8693c8b0:
+
+    # p "There's more. Nia!"
+    p "Тут еще. Ниа!"
+
+# game/day19.rpy:675
+translate russian day19_rb_n_sex_d698ca7e:
+
+    # "{i}Nia obediently opens her mouth and receives an equal share of piss. She clearly isn't as accustomed to it and gags at the taste, letting all of it spill on her naked body."
+    "{i}Ниа послушно открывает рот и получает равную долю мочи. Она явно не привыкла к этому и давится от вкуса, позволяя всей жидкости пролиться на свое обнаженное тело."
+
+# game/day19.rpy:678
+translate russian day19_rb_n_sex_e59bdeeb:
+
+    # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
+    "{i}Когда вы закончили, Ребека подползла к Нии, и они обменялись страстным французским поцелуем, волосы Ребеки щекотали ваш член."
+
+# game/day19.rpy:686
+translate russian day19_rb_n_sex_a5ebe768:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. There's a hunger in both their eyes."
+    "{i}Ниа и Ребекка становятся на колени перед тобой и выжидающе смотрят. В их глазах голод, огонь, похоть и страсть."
+
+# game/day19.rpy:687
+translate russian day19_rb_n_sex_e7569246_1:
+
+    # n "He's big, isn't he, mother?"
+    n "Он большой, не так ли, мамочка?"
+
+# game/day19.rpy:688
+translate russian day19_rb_n_sex_58473773_1:
+
+    # rb "He sure is."
+    rb "Очень большой."
+
+# game/day19.rpy:690
+translate russian day19_rb_n_sex_b1c02cdf_1:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Но мы обе знаем, что он отлично подойдет нашим дыркам..."
+
+# game/day19.rpy:691
+translate russian day19_rb_n_sex_9a5a66e5:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "Вопрос в том, поместился ли он у тебя во рту?"
+
+# game/day19.rpy:692
+translate russian day19_rb_n_sex_b98e718b:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Ты знаешь мои хуесосательные навыки, мамочка. Я покажу тебе."
+
+# game/day19.rpy:694
+translate russian day19_rb_n_sex_146d7dcf_1:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Но ты знаешь, что он отлично подойдет твоим дыркам..."
+
+# game/day19.rpy:695
+translate russian day19_rb_n_sex_9a5a66e5_1:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "Вопрос в том, поместился ли он у тебя во рту?"
+
+# game/day19.rpy:696
+translate russian day19_rb_n_sex_b98e718b_1:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Ты знаешь мои хуесосательные навыки, мамочка. Я покажу тебе."
+
+# game/day19.rpy:698
+translate russian day19_rb_n_sex_5e88b4ac_1:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Но я знаю, что он отлично подойдет моим дыркам..."
+
+# game/day19.rpy:699
+translate russian day19_rb_n_sex_16bda06c:
+
+    # n "But will he fit in my mouth, you think?"
+    n "Но поместится ли он у меня во рту?.."
+
+# game/day19.rpy:700
+translate russian day19_rb_n_sex_a531e11f:
+
+    # rb "There's only one way to find out."
+    rb "Есть только один способ проверить."
+
+# game/day19.rpy:705
+translate russian day19_rb_n_sex_20b0171b:
+
+    # "{i}Nia wraps her fingers around your cock as her mother watches her intently. The younger girl wraps her lips around your shaft and swallows you inch by inch until you feel her lips touching your balls."
+    "{i}Ниа сжимает пальцы вокруг твоего члена, а ее мать пристально наблюдает за ней. Младшая девушка обхватывает твой член губами и проглатывает дюйм за дюймом, пока ты не почувствуешь, как ее губы касаются твоих яиц."
+
+# game/day19.rpy:706
+translate russian day19_rb_n_sex_987caf1d:
+
+    # rb "That's my girl!"
+    rb "Это моя девочка!"
+
+# game/day19.rpy:707
+translate russian day19_rb_n_sex_16571544:
+
+    # "{i}Nia gags and dislodges your cock from her throat, trails of clear mucus cling to your penis and her lips as she gasps for air."
+    "{i}Ниа давится и выталкивает твой член из своего горла, следы прозрачной слизи прилипают к нему и ее губам, когда она задыхается."
+
+# game/day19.rpy:712
+translate russian day19_rb_n_sex_f1f063f5:
+
+    # "{i}She looks at you naughtily and immediately turns her attention to your cock again as she treats you to the most ferocious cocksucking you've ever experienced."
+    "{i}Она игриво смотрит на тебя и сразу же снова обращает свое внимание на член, поскольку она балует тебя самым яростным минетом, который ты когда-либо испытывал."
+
+# game/day19.rpy:713
+translate russian day19_rb_n_sex_3e76f38c:
+
+    # rb "How's my daughter treating you, [p_name]? Are you ready to cum? Fill her throat?"
+    rb "Как тебе моя дочь, [p_name]? Готов кончить? Наполнишь ей горло?"
+
+# game/day19.rpy:714
+translate russian day19_rb_n_sex_f1d18e2b:
+
+    # p "G-g-god! Keep going, Nia."
+    p "Б-б-боже... продолжай, Ниа!"
+
+# game/day19.rpy:715
+translate russian day19_rb_n_sex_eda25b79:
+
+    # "{i}Nia's teary eyes bore into you as she bounces her head on your throbbing cock."
+    "{i}Заплаканные глаза Нии впились в тебя, когда она терлась головой о твой пульсирующий член."
+
+# game/day19.rpy:716
+translate russian day19_rb_n_sex_4e97e3b9:
+
+    # rb "Don't drain him just yet, girl. I want to have a go as well."
+    rb "Не истощай его пока, девочка, я тоже хочу попробовать."
+
+# game/day19.rpy:718
+translate russian day19_rb_n_sex_5ad4a076:
+
+    # n "Aaaah! He's all yours, mom."
+    n "Ааааааххх! Он весь твой, мамочка."
+
+# game/day19.rpy:723
+translate russian day19_rb_n_sex_1f9fd43a:
+
+    # rb "Damn, Nia, you've made such a mess of that boy."
+    rb "Блин, Ниа, ты так забрызгала этого мальчика."
+
+# game/day19.rpy:724
+translate russian day19_rb_n_sex_71c3cc43:
+
+    # n "Just lick him clean, mother."
+    n "Просто почисти его своим языком, мам."
+
+# game/day19.rpy:725
+translate russian day19_rb_n_sex_162c8e04:
+
+    # "{i}Rebeca licks your shaft before lowering her mouth over it. Her tongue darts over your glans, sending shivers down your spine."
+    "{i}Ребекка облизывает твой член, прежде чем опустить на него свой рот. Ее язык скользит по твоей головке, заставляя мурашек пробежать по спине."
+
+# game/day19.rpy:727
+translate russian day19_rb_n_sex_9c3545dc:
+
+    # "{i}The more experienced woman deep-throats you with ease. You feel her wet tongue underneath your shaft as the tip touches the back of her throat. Her head begins to move up and down, and you experience the most exquisite sensations."
+    "{i}Более опытная женщина с легкостью заглатывает, делая тебе глубокий минет, ты чувствуешь ее влажный язык под своим стволом, когда кончик касается задней стенки ее горла. Ее голова начинает двигаться вверх-вниз, и ты испытываешь самые изысканные ощущения."
+
+# game/day19.rpy:728
+translate russian day19_rb_n_sex_47a3e8ff:
+
+    # n "How does that feel, [p_name]? I know my mother is good at it, she taught me everything I know."
+    n "Как ты себя чувствуешь, [p_name]? Я знаю, что у моей маиочки это хорошо получается, она научила меня всему, что я знаю."
+
+# game/day19.rpy:729
+translate russian day19_rb_n_sex_c60c174b:
+
+    # p "F-f-fuck Rebeca I'm about to..."
+    p "Б-б-блять, Ребекка, я почти..."
+
+# game/day19.rpy:735
+translate russian day19_rb_n_sex_704e9be1:
+
+    # "{i}As soon as you utter those words Rebeca stops what she's doing and crawls to Nia. The two share a passionate french kiss, Rebeca's hair tickling against your cock."
+    "{i}Как только ты произносишь эти слова, Ребекка прекращает свои дела у твоего хуя и подползает к Ние. Они вновь делять на двоих страстный французский поцелуй, волосы Ребекки щекочут твой член."
+
+# game/day19.rpy:736
+translate russian day19_rb_n_sex_2df4d380:
+
+    # rb "We're not done with you yet. Save that precious seed for later."
+    rb "Мы еще не закончили с тобой. Прибереги свое драгоценное семя на потом."
+
+# game/day19.rpy:737
+translate russian day19_rb_n_sex_65bb8286:
+
+    # "{i}With much effort, you're able to stave off your orgasm."
+    "{i}Приложив много усилий, ты предотвращаешь оргазм."
+
+# game/day19.rpy:740
+translate russian day19_rb_n_sex_28e233a5:
+
+    # p "Get on that bed, girls."
+    p "Ложитесь на кровать, девочки."
+
+# game/day19.rpy:742
+translate russian day19_rb_n_sex_e12d9c19:
+
+    # "{i}As soon as you all lie down, the girls cover you with kisses. Nia is on top of you, and you feel her wet cunny rub against your manhood. Rebeca's tongue soon joins the stimulation of your cock as she sucks and licks your balls."
+    "{i}Как только вы все ложитесь, девушки покрывают тебя поцелуями. Ниа садиться сверху на тебя, и ты чувствуешь, как ее влажная киска трется о твою промежность. Язык Ребекки вскоре присоединяется к стимуляции твоего члена, она сосет и лижет твои яйца."
+
+# game/day19.rpy:744
+translate russian day19_rb_n_sex_97eefd25:
+
+    # "{i}Nia's kisses are so passionate that she bites your lips once or twice, but you don't care. Her juices leak on your lower abdomen, which her mother laps up eagerly, not forgetting your dick and especially the tip of your dick, which is by now completely covered in precum."
+    "{i}Поцелуи Нии настолько страстные, что она кусает тебя один или два раза, но тебе все равно. Ее соки текут по нижней части твоего живота, который ее мать нетерпеливо гладит, не забывая также и о члене, и особенно об его головке, которая к настоящему времени полностью покрылась предэякулятом."
+
+# game/day19.rpy:752
+translate russian day19_rb_n_sex_926c88da:
+
+    # p "Aaaah, stop what you're doing Rebeca, you're going to ride me instead."
+    p "Ааааххх, перестань, Ребекка. Вместо этого ты прокатишься на мне."
+
+# game/day19.rpy:754
+translate russian day19_rb_n_sex_528f330b:
+
+    # "{i}Rebeca obliges at once, squatting and sliding down on your cock. Firmly grabbing her ass, you push her even further down."
+    "{i}Ребека сразу же приседает и опускается на твой член. Крепко схватив ее за задницу, ты толкаешь ее еще ниже."
+
+# game/day19.rpy:755
+translate russian day19_rb_n_sex_da751dbf:
+
+    # rb "Fuck yes, [p_name], I'm going to fuck you so hard."
+    rb "Блять, да, [p_name]! Я трахну тебя так сильно!"
+
+# game/day19.rpy:761
+translate russian day19_rb_n_sex_068c7fa8:
+
+    # "{i}Her rhythmic fucking is fierce, and her large breasts bounce up and down. Her thick ass slaps against your thighs every time you fill her up with the length of your cock."
+    "{i}Ее ритмичный трах жесток, а ее большие груди подпрыгивают вверх и вниз. Ее толстая задница хлопает тебя по бедрам каждый раз, когда ты входишь в нее своим членом."
+
+# game/day19.rpy:766
+translate russian day19_rb_n_sex_a1ba8f88:
+
+    # "{i}Rebeca is soon joined by her daughter, who's fingering herself and stimulating your balls with her mouth."
+    "{i}Вскоре к Ребекке присоединяется ее дочь, которая трогает себя пальцами и стимулирует твои яйца своим ртом."
+
+# game/day19.rpy:767
+translate russian day19_rb_n_sex_0246082e:
+
+    # p "F-f-fuck!"
+    p "Б-б-блять!"
+
+# game/day19.rpy:768
+translate russian day19_rb_n_sex_025073a3:
+
+    # rb "I want all of it in my mouth, [p_name]. Please do that for me."
+    rb "Я хочу, чтобы все это было у меня во рту, [p_name]. Пожалуйста, сделай это для меня."
+
+# game/day19.rpy:769
+translate russian day19_rb_n_sex_bed7a257:
+
+    # "{i}Rebeca pulls your rock-hard dick out of her wet gash and motions you to stand. Nia positions herself before you to give you a good view of her sex."
+    "{i}Ребекка вытаскивает твой твердый член из мокрой дырки и жестом приказывает тебе встать. Ниа встает перед тобой, чтобы ты мог хорошо рассмотреть ее всю."
+
+# game/day19.rpy:775
+translate russian day19_rb_n_sex_132b3544:
+
+    # "{i}Nia offers her butt to her mother and Rebeca alternates between rimming her daughter's asshole and sucking your cock."
+    "{i}Ниа предлагает свою задницу матери, и Ребекка попеременно то лижет очко дочери, то сосет твой член."
+
+# game/day19.rpy:776
+translate russian day19_rb_n_sex_7617978b:
+
+    # "{i}The sight of such perversity is too much for you, and you spill your seed inside Rebeca's mouth."
+    "{i}Вид такой извращенности для тебя слишком велик, и ты проливаешь свое семя прямо в рот Ребекки."
+
+# game/day19.rpy:785
+translate russian day19_rb_n_sex_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "Аааааааахххх!"
+
+# game/day19.rpy:786
+translate russian day19_rb_n_sex_f72201b3:
+
+    # "{i}You keep pumping cum into Rebeca's mouth, and it starts leaking from the corners onto Nia's upright ass. The girl uses the sperm to rub her pussy and achieves a powerful orgasm in less than a minute."
+    "{i}Ты продолжаешь закачивать сперму в рот Ребекки, и она начинает вытекать из него прямо на задницу Нии. Девушка растирает свою киску спермой и менее чем за минуту достигает сильного оргазма."
+
+# game/day19.rpy:793
+translate russian day19_rb_n_sex_765ef004:
+
+    # "{i}Still kissing her with passion, you lift Nia from your torso and position yourself on top of her. Her mother turns her attention to her daughter's cunt."
+    "{i}По-прежнему страстно целуя ее, ты поднимаешь Нию со своего торса и становишься на нее сверху. Ее мать обращает внимание на пизду дочери."
+
+# game/day19.rpy:794
+translate russian day19_rb_n_sex_df9b68a6:
+
+    # p "I'm going to fuck you so hard, Nia."
+    p "Я трахну тебя очень жестко, Ниа."
+
+# game/day19.rpy:795
+translate russian day19_rb_n_sex_9eb5f2d7:
+
+    # n "Mmmmm."
+    n "Мммммм."
+
+# game/day19.rpy:801
+translate russian day19_rb_n_sex_f43e2993:
+
+    # "{i}Nia opens her legs invitingly and you thrust your cock inside of her tight pussy. She gasps, but her voice is muffled by her mother's cunt pressed against her face."
+    "{i}Ния приглашающе раздвигает ноги, и ты вводишь свой член в ее тугую киску Она задыхается, но ее голос заглушает пизда ее матери, прижатая к ее лицу."
+
+# game/day19.rpy:802
+translate russian day19_rb_n_sex_0d350062:
+
+    # rb "Yes, lick me right there, honey."
+    rb "Да, лижи меня вот так, дорогая."
+
+# game/day19.rpy:807
+translate russian day19_rb_n_sex_b7cbc948:
+
+    # "{i}You grab Nia tightly and fuck her hard, your balls slapping against her thighs."
+    "{i}Ты крепко хватаешь Нию и жестко трахаешь ее, твои яйца хлопают ее по бедрам."
+
+# game/day19.rpy:809
+translate russian day19_rb_n_sex_8b47a10a:
+
+    # n "Mmmmm. He's fucking me so hard, mother."
+    n "Ммммм. Да! Он трахает меня так жестко, мамочка."
+
+# game/day19.rpy:810
+translate russian day19_rb_n_sex_8e8ffd0f:
+
+    # rb "Yes, is he going to make you cum?"
+    rb "Он вот-вот заставит тебя кончить?"
+
+# game/day19.rpy:811
+translate russian day19_rb_n_sex_e0a9438d:
+
+    # n "Y-y-yessss!"
+    n "Д-д-даааааа!"
+
+# game/day19.rpy:812
+translate russian day19_rb_n_sex_246b0685:
+
+    # rb "Are you going to cover my daughter with your seed, [p_name]?"
+    rb "Ты собираешься покрыть мою дочь своим семенем, [p_name]?"
+
+# game/day19.rpy:813
+translate russian day19_rb_n_sex_4317c50e:
+
+    # p "F-fuck yes, I am."
+    p "О да, блять, я собираюсь!"
+
+# game/day19.rpy:814
+translate russian day19_rb_n_sex_778a55dc:
+
+    # n "I want it in my mouth so badly, I want to swallow it all."
+    n "Я так хочу все это в свой рот, пожалуйста!"
+
+# game/day19.rpy:816
+translate russian day19_rb_n_sex_71dd9188:
+
+    # "{i}You pull your rock-hard dick from Nia's wet gash and stand beside the bed. Nia grabs your cock, while Rebeca squats beside you and strokes your perineum."
+    "{i}Ты вытаскиваешь свой твердый член из мокрой киски Нии и становишься рядом с кроватью. Ниа хватает твой член, а Ребекка приседает рядом с тобой и поглаживает твою промежность."
+
+# game/day19.rpy:817
+translate russian day19_rb_n_sex_a0ded363:
+
+    # rb "Come on, fill my daughter's mouth. She's ready for you."
+    rb "Давай, наполни ротик моей дочери. Она готова."
+
+# game/day19.rpy:818
+translate russian day19_rb_n_sex_58000e0a:
+
+    # "{i}The sound of such perversity is too much for you, and you spill your seed inside Nia's mouth."
+    "{i}От таких грязных слов ты проливаешь свое семя в рот Нии."
+
+# game/day19.rpy:826
+translate russian day19_rb_n_sex_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "Аааааааахххх!"
+
+# game/day19.rpy:827
+translate russian day19_rb_n_sex_01010bce:
+
+    # "{i}Cum keeps pumping inside Nia, and she gags a little but keeps everything inside of her mouth. Eventually, she proudly shows you your big load."
+    "{i}Сперма продолжает накачиваться внутрь Нии, она немного давится, но держит все во рту. В конце концов она с гордостью показывает тебе твой большой груз."
+
+# game/day19.rpy:828
+translate russian day19_rb_n_sex_db356f97:
+
+    # rb "Swallow it all, dear."
+    rb "Проглоти все, дорогая."
+
+# game/day19.rpy:829
+translate russian day19_rb_n_sex_fe156cbd:
+
+    # "{i}Maintaining eye contact with you, Nia swallows every last drop of sperm inside of her mouth, licking her lips once the deed is done."
+    "{i}Поддерживая зрительный контакт с тобой, Ниа глотает каждую каплю спермы изо рта, облизывая губы, как только дело сделано."
+
+# game/day19.rpy:839
+translate russian day19_rb_n_sex_a7260ebb:
+
+    # rb "Aren't you going to give mommy a kiss?"
+    rb "Не хочешь поцеловать мамочку?"
+
+# game/day19.rpy:841
+translate russian day19_rb_n_sex_e625a276:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Rebeca kisses Nia's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Мать и дочь обнимаются, их груди прижимаются друг к другу. Ребекка целует лицо Нии и слизывает маленькие капельки спермы с уголков ее рта, прежде чем разделить долгий поцелуй."
+
+# game/day19.rpy:843
+translate russian day19_rb_n_sex_a200e8d1:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Nia kisses Rebeca's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Мать и дочь обнимаются, их груди прижимаются друг к другу. Ниа целует лицо Ребекки и слизывает маленькие капельки спермы с уголков ее рта, прежде чем разделить долгий поцелуй."
+
+# game/day19.rpy:844
+translate russian day19_rb_n_sex_26b4df67:
+
+    # n "How is that for a farewell?"
+    n "Как тебе такое прощание?"
+
+# game/day19.rpy:845
+translate russian day19_rb_n_sex_78d1ef2a:
+
+    # p "Damn girls, you drained me. I'm not sure if I'll be able to cum for the next few days."
+    p "Черт побери, вы меня выжали. Я не уверен, что смогу кончить следующие несколько дней."
+
+# game/day19.rpy:846
+translate russian day19_rb_n_sex_2beab29f:
+
+    # rb "A stud like you? I'm sure you will."
+    rb "Такой жеребец, как ты? Я уверена, ты сможешь."
+
+# game/day19.rpy:847
+translate russian day19_rb_n_sex_bea929ea:
+
+    # rb "If you ever get back to Belugio, or if you all decide to stay a little longer, our door is always open."
+    rb "Если ты когда-нибудь вернешься на Беллуджио или решишь остаться еще немного, наши двери всегда будут открыты."
+
+# game/day19.rpy:848
+translate russian day19_rb_n_sex_a7be7838:
+
+    # n "That's not the only thing that'll be open for you, [p_name]..."
+    n "И не только двери, [p_name]..."
+
+# game/day19.rpy:849
+translate russian day19_rb_n_sex_f0442b53:
+
+    # rb "Naughty girl... And a very bad play on words."
+    rb "Какая плохая девочка... и  игра слов тоже."
+
+# game/day19.rpy:850
+translate russian day19_rb_n_sex_e530ad83:
+
+    # n "Sorry, hot sex always makes me a little giddy."
+    n "Извини, горячий секс всегда вызывает у меня головокружение."
+
+# game/day19.rpy:851
+translate russian day19_rb_n_sex_b6060de2:
+
+    # p "You're forgiven, little firecracker."
+    p "Ты прощена."
+
+# game/day19.rpy:854
+translate russian day19_rb_n_sex_11b3894a:
+
+    # "{i}Mother and daughter kiss you passionately and leave the apartment."
+    "{i}Мать и дочь целуются и покидают апартаменты."
+
+# game/day19.rpy:864
+translate russian day19_rb_n_sex_55d8ce2a:
+
+    # p "Sorry girls, but I have a very busy schedule today."
+    p "Извините, девочки, но сегодня я очень занят."
+
+# game/day19.rpy:866
+translate russian day19_rb_n_sex_6536bd26:
+
+    # n "Busy? You're on holiday?"
+    n "Занят? В отпуске?"
+
+# game/day19.rpy:867
+translate russian day19_rb_n_sex_792964d9:
+
+    # rb "Calm down dear, he clearly isn't interested in us."
+    rb "Успокойся, дорогая, мы ему явно неинтересны."
+
+# game/day19.rpy:868
+translate russian day19_rb_n_sex_87560e6c:
+
+    # rb "Safe travels."
+    rb "Удачно попутешествовать."
+
+# game/day19.rpy:869
+translate russian day19_rb_n_sex_743ce775:
+
+    # "{i}Clearly irritated, both girls leave the apartment and you're alone again."
+    "{i}Явно раздраженные, обе девушки выходят из квартиры, и ты снова остаешься один."
+
+# game/day19.rpy:885
+translate russian day19_l_handjob_5ee6c705:
+
+    # "{i}Your sister strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}Твоя сестра раздевается, и ты поражаешься ее красивыми округлыми формами."
+
+# game/day19.rpy:887
+translate russian day19_l_handjob_b34edba4:
+
+    # "{i}[l_name] strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}[l_name] раздевается, и ты поражаешься ее красивыми округлыми формами."
+
+# game/day19.rpy:889
+translate russian day19_l_handjob_3b819904:
+
+    # l "Sorry that you need to help me again, [p_name]. I'm so hopeless."
+    l "Извини, что тебе снова нужно мне помогать, [p_name]. Я безнадежна."
+
+# game/day19.rpy:891
+translate russian day19_l_handjob_bef7c59a:
+
+    # l "You really need to guide me through all this, [p_name]. I'm so hopeless."
+    l "Тебе действительно нужно провести меня через все это, [p_name]. Я безнадежна."
+
+# game/day19.rpy:892
+translate russian day19_l_handjob_8ba80d5d:
+
+    # p "{i}(Why the fuck is this beautiful girl apologizing for LETTING ME DO THIS?! Ok, calm down, play it cool...)"
+    p "{i}(Какого черта эта красивая девушка извиняется за то, что ПОЗВОЛЯЕТ МНЕ ЭТО ДЕЛАТЬ?! Хорошо, успокойся, нужно остыть...)"
+
+# game/day19.rpy:893
+translate russian day19_l_handjob_cc4aea5c:
+
+    # p "There's absolutely no need to apologize, I'm just glad I can help you this way."
+    p "Тебе не нужно извиняться. Я рад помочь тебе."
+
+# game/day19.rpy:894
+translate russian day19_l_handjob_43ba43e7:
+
+    # "{i}You remove your underwear and crawl next to [l_name] on the bed."
+    "{i}Ты снимаешь нижнее белье и ползешь по кровати рядом с [l_name]."
+
+# game/day19.rpy:896
+translate russian day19_l_handjob_54509c0e:
+
+    # p "So, remember, just take it slow. Explore your body, not just your pussy."
+    p "Итак, запомни, просто делай это медленно. Исследуй все свое тело, а не только киску."
+
+# game/day19.rpy:898
+translate russian day19_l_handjob_65996910:
+
+    # p "Just take it slow. Explore your body, not just your pussy."
+    p "Просто делай это медленно. Исследуй все свое тело, а не только киску."
+
+# game/day19.rpy:899
+translate russian day19_l_handjob_77aab732:
+
+    # p "It's important that you get completely in the mood first. Touch the areas of your body that are sensitive."
+    p "Важно, чтобы ты сначала полностью настроилась. Прикоснись к чувствительным участкам тела."
+
+# game/day19.rpy:900
+translate russian day19_l_handjob_d55cb3c1:
+
+    # l "Gosh, that sounds so naughty!"
+    l "Боже, я чувствую себя такой извращенкой!"
+
+# game/day19.rpy:905
+translate russian day19_l_handjob_bb146abc:
+
+    # p "Touch your breasts, the skin of your nipples."
+    p "Потрогай свою грудь, кожу своих сосков."
+
+# game/day19.rpy:906
+translate russian day19_l_handjob_d7e86173:
+
+    # p "See how hard they're getting?"
+    p "Видишь, какими твердыми они становятся?"
+
+# game/day19.rpy:907
+translate russian day19_l_handjob_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "Д-д-да..."
+
+# game/day19.rpy:908
+translate russian day19_l_handjob_d77b4e90:
+
+    # p "Now trail all the way down from your breasts to your navel with your fingertips."
+    p "Теперь проведи кончиками пальцев вниз от груди до пупка."
+
+# game/day19.rpy:909
+translate russian day19_l_handjob_5a984e8c:
+
+    # p "Good, a little bit further."
+    p "Хорошо, еще немного дальше."
+
+# game/day19.rpy:910
+translate russian day19_l_handjob_2fba298f:
+
+    # "{i}You hear [l_name] breathing heavily in anticipation, she's obviously ready for anything that's about to come."
+    "{i}Ты слышишь, как [l_name] тяжело дышит в ожидании, она явно готова ко всему, что вот-вот произойдет."
+
+# game/day19.rpy:912
+translate russian day19_l_handjob_774a69e4:
+
+    # p "Caress the insides of your thighs first, right up to your little pussy, but don't touch it just yet."
+    p "Сначала ласкай внутреннюю поверхность бедер, вплоть до киски, но пока не прикасайся к ней."
+
+# game/day19.rpy:913
+translate russian day19_l_handjob_b1939e23:
+
+    # l "Mmmmm..."
+    l "Мммм..."
+
+# game/day19.rpy:914
+translate russian day19_l_handjob_e477eaec:
+
+    # p "{i}(That sounds good! Time to up the ante.)"
+    p "{i}(Это звучит хорошо! Время повышать градус.)"
+
+# game/day19.rpy:915
+translate russian day19_l_handjob_64441c2e:
+
+    # p "Slowly work your way towards your pussy, touch the lips... Are you wet, [l_name]? Did you make yourself wet?"
+    p "Медленно продвигайтесь к своей киске, касаясь губок Ты мокрая [l_name]? Ты сделала себя мокрой?"
+
+# game/day19.rpy:916
+translate russian day19_l_handjob_b778bd52:
+
+    # l "[p_name]! You shouldn't... Yes... Ooooh!"
+    l "[p_name]! Не нужно... да... ооооооххх!"
+
+# game/day19.rpy:918
+translate russian day19_l_handjob_9baea2c7:
+
+    # p "It's time to massage your little lovebud. Just rub it gently and keep at it when it feels good."
+    p "Пришло время помассировать твою маленькую киску. Просто аккуратно потри и продолжай тереть, пока волна оргазма не прокатится по твоему телу."
+
+# game/day19.rpy:919
+translate russian day19_l_handjob_f63bb849:
+
+    # "{i}She quivers slightly as she softly rubs her clitoris. Your erection that has been developing is nearly at full strength."
+    "{i}Она слегка вздрагивает, нежно потирая клитор. Твоя эрекция, которая развивалась на протяжении последних нескольких минут, почти полностью укрепилась."
+
+# game/day19.rpy:922
+translate russian day19_l_handjob_6db58636:
+
+    # l "Are you getting... having an... ah... erection again?"
+    l "У тебя... ты... ах... снова стояк?"
+
+# game/day19.rpy:924
+translate russian day19_l_handjob_53854849:
+
+    # l "You have a... you know... don't you?"
+    l "У тебя... ах... ты... ну знаешь... нет?"
+
+# game/day19.rpy:925
+translate russian day19_l_handjob_3309102f:
+
+    # p "An erection?"
+    p "Эрекция?"
+
+# game/day19.rpy:926
+translate russian day19_l_handjob_cb797768:
+
+    # l "Y-yes?"
+    l "Д-да?"
+
+# game/day19.rpy:927
+translate russian day19_l_handjob_2b400d73:
+
+    # p "Does it bother you?"
+    p "Это тебя беспокоит?"
+
+# game/day19.rpy:928
+translate russian day19_l_handjob_0f1a8c03:
+
+    # l "No! No! It's only natural, isn't it?"
+    l "Нет! Нет! Это естественно, разве нет?"
+
+# game/day19.rpy:929
+translate russian day19_l_handjob_c81890ad:
+
+    # p "It would take a blind person not to get aroused by you, [l_name]. Everything is so perfect, the gentle curves of your hips, your soft skin, those beautiful breasts..."
+    p "Рядом с тобой, [l_name], не возбудится только слепой. Все так идеально: нежные изгибы ваших бедер, ваша нежная кожа, эта красивая грудь."
+
+# game/day19.rpy:930
+translate russian day19_l_handjob_2d696ba3:
+
+    # p "And to see you connect to yourself in such a simple, yet profound way... I wish I could discover it all again."
+    p "И видеть твое единение с самой собой таким простым, но глубоким способом... Я хотел бы открыть для себя все это снова."
+
+# game/day19.rpy:932
+translate russian day19_l_handjob_f075de93:
+
+    # l "Were you... Sorry, I shouldn't stop."
+    l "А ты... извини, мне не стоит останавливаться."
+
+# game/day19.rpy:933
+translate russian day19_l_handjob_1c431c1d:
+
+    # p "No, do whatever you want. Take your time. Pillow talk is equally important."
+    p "Нет, делай так, как ты хочешь. Не торопись. Беседа не менее важна."
+
+# game/day19.rpy:934
+translate russian day19_l_handjob_bcfbdf3c:
+
+    # l "I'm just too curious. You'll say it when I overstep, right?"
+    l "Мне просто любопытно. Ты ведь скажешь, если я перейду черту, верно?"
+
+# game/day19.rpy:935
+translate russian day19_l_handjob_ab916dec:
+
+    # p "Don't worry, dearest, you can ask me anything."
+    p "Не волнуйся, дорогая, ты можешь меня спросить обо всем."
+
+# game/day19.rpy:936
+translate russian day19_l_handjob_09ca7bc5:
+
+    # l "What I meant to ask was, were you very young when you first... you know... touched yourself?"
+    l "Я хотела спросить, сколько тебе было, когда ты впервые... ну... прикоснулся к себе?"
+
+# game/day19.rpy:937
+translate russian day19_l_handjob_ec9299b6:
+
+    # p "I think I was twelve or thirteen. When I was reading some magazine, I came across a girl in lingerie and started rubbing my penis against my mattress. That felt really good."
+    p "Думаю, мне было двенадцать или тринадцать лет Когда я читал какой-то журнал, я наткнулся на девушку в нижнем белье и начал тереть свой пенис о матрас Это было очень приятно."
+
+# game/day19.rpy:938
+translate russian day19_l_handjob_f3b5ee07:
+
+    # p "So next time I used my hands and covered everything in sperm. From that moment the floodgates were open."
+    p "Так что в следующий раз я уже руками залил все спермой. С этого момента мои шлюзы были открыты."
+
+# game/day19.rpy:939
+translate russian day19_l_handjob_d80db94b:
+
+    # l "Really?"
+    l "Правда?"
+
+# game/day19.rpy:940
+translate russian day19_l_handjob_45a2fc71:
+
+    # p "Yes, teenage boys are generally not known for their restraint."
+    p "Да, мальчики-подростки обычно не отличаются сдержанностью."
+
+# game/day19.rpy:941
+translate russian day19_l_handjob_e59e8eea:
+
+    # p "{i}(Teenage girls as well, but I guess [l_name] is an exception.)"
+    p "{i}(Девочки-подростки тоже, но, думаю, [l_name] - исключение.)"
+
+# game/day19.rpy:942
+translate russian day19_l_handjob_e459ff34:
+
+    # l "I guess not."
+    l "Похоже на то."
+
+# game/day19.rpy:943
+translate russian day19_l_handjob_b0ac0799:
+
+    # l "So you did it often? And what were you thinking about?"
+    l "Так ты делал это часто? А о чем ты думал?"
+
+# game/day19.rpy:944
+translate russian day19_l_handjob_c79a3f74:
+
+    # p "Depends, sometimes it was a hot girl from school, other times some singer or a movie star."
+    p "В зависимости от обстоятельств, иногда это была горячая школьница, иногда певица или кинозвезда."
+
+# game/day19.rpy:945
+translate russian day19_l_handjob_b8dc4fc2:
+
+    # l "Go on... please..."
+    l "Продолжай... пожалуйста..."
+
+# game/day19.rpy:953
+translate russian day19_l_handjob_fafff477:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Пока ты говоришь, твоя сестра бессознательно тянется к влажным границам своей киски и рассеянно вводит палец внутрь себя, как ты учил ее на пляже."
+
+# game/day19.rpy:955
+translate russian day19_l_handjob_619fe197:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Пока вы говорите, [имя_л_ицо] бессознательно тянется к влажным границам своей киски и рассеянно вводит палец внутрь себя, как вы учили ее на пляже."
+
+# game/day19.rpy:958
+translate russian day19_l_handjob_a6bbccf2:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Пока ты говоришь, твоя сестра бессознательно тянется к влажным границам своей киски и рассеянно вводит палец внутрь себя."
+
+# game/day19.rpy:960
+translate russian day19_l_handjob_cfa21e35:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Пока вы говорите, [l_name] бессознательно тянется к влажным границам своей киски и рассеянно вводит палец внутрь себя."
+
+# game/day19.rpy:961
+translate russian day19_l_handjob_b300fb9c:
+
+    # p "{i}(Woah! I guess she likes my dirty stories... Better keep going.)"
+    p "{i}(Вау! Думаю, ей нравятся мои грязные истории... Лучше продолжить.)"
+
+# game/day19.rpy:962
+translate russian day19_l_handjob_5f245e54:
+
+    # p "But with every imaginary girl I thought about her warm, naked body next to mine, stroking her breasts, thighs, the soft curve of her butt."
+    p "Но с каждой воображаемой девушкой я думал о ее теплом, обнаженном теле рядом с моим, гладя ее грудь, бедра, мягкий изгиб ее ягодиц."
+
+# game/day19.rpy:963
+translate russian day19_l_handjob_4fb61ee5:
+
+    # p "And then she would grab hold of my penis and start to massage it, and I pretended that my hands were hers..."
+    p "А потом она хватала мой член и начинала массировать его, а я притворялся, что мои руки принадлежат ей."
+
+# game/day19.rpy:964
+translate russian day19_l_handjob_b1939e23_1:
+
+    # l "Mmmmm..."
+    l "Мммм..."
+
+# game/day19.rpy:965
+translate russian day19_l_handjob_f3e0e689:
+
+    # p "Touching the veins of my hard penis, caressing the sensitive skin of my balls..."
+    p "Касаясь вен моего твердого члена, лаская чувствительную кожу моих яиц."
+
+# game/day19.rpy:967
+translate russian day19_l_handjob_aeb2f13c:
+
+    # l "Ooooh!"
+    l "Ооооооххх!"
+
+# game/day19.rpy:968
+translate russian day19_l_handjob_1a15c51f:
+
+    # p "She would teasingly run a wet finger across my tip and eventually focus on the head of my erect cock and bring me to a wild orgasm with just her fingertip."
+    p "Она поддразнивающе водила мокрым пальцем по его кончику и, в конце концов, фокусировалась на головке моего возбужденного члена и доводила меня до дикого оргазма одним лишь кончиком пальца."
+
+# game/day19.rpy:975
+translate russian day19_l_handjob_685850f9:
+
+    # l "Aaaaaaah! [p_name]!"
+    l "Ааааааааахххх! [p_name]!"
+
+# game/day19.rpy:976
+translate russian day19_l_handjob_4a2fd30d:
+
+    # "{i}With one arm hooked around your neck, [l_name] embraces you tightly as she convulses violently in orgasm. With clawed fingers, she keeps rubbing her pussy as her body alternates between lifting from the bed and collapsing back onto it in pure ecstasy."
+    "{i}Обвив одной рукой твою шею, [l_name] крепко обнимает тебя, пока она бьется в конвульсиях от оргазма. Когтистыми пальцами она продолжает тереть свою киску, пока ее тело то поднимается с кровати, то падает обратно на нее в чистом экстазе."
+
+# game/day19.rpy:980
+translate russian day19_l_handjob_98a19efc:
+
+    # l "I... I don't know..."
+    l "Я... я не знаю..."
+
+# game/day19.rpy:981
+translate russian day19_l_handjob_c4e9ae5c:
+
+    # p "Ssssh, catch your breath first. Just wait until the pleasure subsides."
+    p "Шшш, сначала отдышись. Просто подожди, пока не утихнет удовольствие."
+
+# game/day19.rpy:983
+translate russian day19_l_handjob_4ada726c:
+
+    # "{i}Your sister spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}Твоя сестра дико содрогается еще несколько минут, прежде чем падает со вздохом прямо на тебя."
+
+# game/day19.rpy:985
+translate russian day19_l_handjob_969fdab8:
+
+    # "{i}[l_name] spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}[l_name] дико содрогается еще несколько минут, прежде чем падает со вздохом прямо на тебя."
+
+# game/day19.rpy:987
+translate russian day19_l_handjob_4cf81e50:
+
+    # l "I don't know what you do to me, but it's magical."
+    l "Я не знаю, что ты сделал, но это было просто волшебно."
+
+# game/day19.rpy:988
+translate russian day19_l_handjob_75d2b5a3:
+
+    # p "I think you like dirty talk, dear [l_name]."
+    p "Думаю, тебе нравятся грязные разговоры, [l_name]."
+
+# game/day19.rpy:989
+translate russian day19_l_handjob_49b8af83:
+
+    # l "I think so too."
+    l "Я тоже так думаю."
+
+# game/day19.rpy:990
+translate russian day19_l_handjob_c8761aa8:
+
+    # "{i}After a brief silence, [l_name] looks up at you hesitantly."
+    "{i}После короткого молчания [l_name] нерешительно смотрит на тебя."
+
+# game/day19.rpy:991
+translate russian day19_l_handjob_db769f37:
+
+    # l "I feel a bit guilty, you know."
+    l "Знаешь, я чувствую себя немного виноватой."
+
+# game/day19.rpy:992
+translate russian day19_l_handjob_f2034c6c:
+
+    # p "Why is that?"
+    p "Почему?"
+
+# game/day19.rpy:993
+translate russian day19_l_handjob_852aa209:
+
+    # l "You gave me this wonderful feeling and didn't get anything in return."
+    l "Ты помог мне ощутить все эти прекрасные чувства, а я не дала ничего в ответ."
+
+# game/day19.rpy:994
+translate russian day19_l_handjob_6c372a63:
+
+    # p "Your pleasure is the only thing that matters."
+    p "Твое удовольствие - единственное, что имеет значение."
+
+# game/day19.rpy:995
+translate russian day19_l_handjob_37954768:
+
+    # l "You still have an erection."
+    l "У тебя все еще стоит."
+
+# game/day19.rpy:996
+translate russian day19_l_handjob_8306b4c9:
+
+    # p "{i}(Damn, betrayed by my own body!)"
+    p "{i}(Черт, предан моим собственным телом!)"
+
+# game/day19.rpy:997
+translate russian day19_l_handjob_2684a0d6:
+
+    # p "True."
+    p "Верно."
+
+# game/day19.rpy:998
+translate russian day19_l_handjob_1528110d:
+
+    # l "I could help you with that."
+    l "Я могла бы помочь тебе с этим."
+
+# game/day19.rpy:999
+translate russian day19_l_handjob_d6c41a96:
+
+    # p "{i}(God, that shy look mixed with guilty pleasure is nearly enough to spray everything with cum right this instant.)"
+    p "{i}(Боже, этого застенчивого взгляда, смешанного с виноватым удовольствием, почти достаточно, чтобы прямо сейчас же брызнуть на все спермой.)"
+
+# game/day19.rpy:1000
+translate russian day19_l_handjob_8d0cf986:
+
+    # p "I would like that. But only if you want to."
+    p "Я был бы не против. Но только если ты сама хочешь."
+
+# game/day19.rpy:1001
+translate russian day19_l_handjob_47db8ebb:
+
+    # l "That's why I proposed it."
+    l "Иначе бы я и не предлагала."
+
+# game/day19.rpy:1002
+translate russian day19_l_handjob_e2f2282a:
+
+    # l "But you have to help me again. I've never given a... a... touched..."
+    l "Но тебе снова придется помочь мне. Я никогда не... не... трогала..."
+
+# game/day19.rpy:1003
+translate russian day19_l_handjob_f5967354:
+
+    # p "There's not much that can go wrong with a handjob, don't worry!"
+    p "Немногое в дрочке может пойти не так, как надо, не волнуйся!"
+
+# game/day19.rpy:1004
+translate russian day19_l_handjob_61fe587b:
+
+    # l "Okay. I'll trust you on that."
+    l "Хорошо, я доверюсь тебе."
+
+# game/day19.rpy:1007
+translate russian day19_l_handjob_58b33573:
+
+    # "{i}Still a little uncertain, [l_name] reaches out for your penis, which is proudly standing and covered in a sheen of precum."
+    "{i}Все еще немного сомневаясь, [l_name] тянется к твоему пенису, который гордо стоит и покрыт блеском предэякулята."
+
+# game/day19.rpy:1008
+translate russian day19_l_handjob_e235c4f5:
+
+    # l "It's really hard... And so warm."
+    l "Он правда твердый... и такой теплый."
+
+# game/day19.rpy:1009
+translate russian day19_l_handjob_d54ef614:
+
+    # "{i}Her fingers feel along your shaft, exploring every vein and ridge. All of your muscles tense in anticipation."
+    "{i}Ее пальцы нащупывают твой ствол, исследуя каждую вену. Все мышцы напрягаются в ожидании."
+
+# game/day19.rpy:1010
+translate russian day19_l_handjob_0201c171:
+
+    # l "Does this feel... good?"
+    l "Хорошо?"
+
+# game/day19.rpy:1011
+translate russian day19_l_handjob_193ea7ae:
+
+    # p "Y-yes... It's been a long time since I went that slow and it's really good."
+    p "Д-да... Прошло много времени с тех пор, как я делал это так медленно, и это действительно хорошо."
+
+# game/day19.rpy:1016
+translate russian day19_l_handjob_646a47b6:
+
+    # "{i}[l_name] wraps her fingers around your dick and squeezes slightly."
+    "{i}[l_name] обхватывает пальцами твой член и слегка сжимает."
+
+# game/day19.rpy:1017
+translate russian day19_l_handjob_3b974d32:
+
+    # l "It's really hard."
+    l "Он правда твердый."
+
+# game/day19.rpy:1018
+translate russian day19_l_handjob_3c7969a4:
+
+    # p "Yes, yes, it is."
+    p "Да, да, довольно твердый."
+
+# game/day19.rpy:1019
+translate russian day19_l_handjob_6951588d:
+
+    # l "That didn't hurt, did it?"
+    l "Тебе не больно?"
+
+# game/day19.rpy:1020
+translate russian day19_l_handjob_ae24c0c5:
+
+    # p "No, quite the opposite. Don't worry about squeezing too hard. Could you move your hand up and down?"
+    p "Нет, как раз наоборот. Не беспокойся о слишком сильном сжатии. Не могла бы ты двигать рукой вверх и вниз?"
+
+# game/day19.rpy:1021
+translate russian day19_l_handjob_ac7404fd:
+
+    # "{i}She obliges and pulls the foreskin over your glans and back down again. Her warm hand exerts just the right amount of pressure."
+    "{i}Она натягивает крайнюю плоть члена на его головку и снова опускает ее вниз. Ее теплая рука оказывает нужное давление."
+
+# game/day19.rpy:1022
+translate russian day19_l_handjob_acea5e73:
+
+    # p "Gaaah! Keep going just like that."
+    p "Ааххх! Продолжай. Вот так."
+
+# game/day19.rpy:1024
+translate russian day19_l_handjob_e13a6fb1:
+
+    # "{i}Encouraged by your words, your sister starts jerking your cock in measured movements."
+    "{i}Ободренная твоими словами, твоя сестра начинает размеренными движениями подергивать твой член."
+
+# game/day19.rpy:1026
+translate russian day19_l_handjob_5d309d40:
+
+    # "{i}Encouraged by your words, the girl starts jerking your cock in measured movements."
+    "{i}Ободренная твоими словами, девушка начинает размеренными движениями подергивать твой член."
+
+# game/day19.rpy:1027
+translate russian day19_l_handjob_ea69d216:
+
+    # p "Keep going, [l_name], keep going!"
+    p "Продолжай, [l_name], продолжай!"
+
+# game/day19.rpy:1028
+translate russian day19_l_handjob_bf59aca1:
+
+    # l "I will! Is something happening?"
+    l "Продолжаю! Что-то происходит?"
+
+# game/day19.rpy:1029
+translate russian day19_l_handjob_ec89ccf6:
+
+    # p "I'm about to..."
+    p "Я почти..."
+
+# game/day19.rpy:1030
+translate russian day19_l_handjob_e29a29a2:
+
+    # l "Yes?"
+    l "Да?"
+
+# game/day19.rpy:1031
+translate russian day19_l_handjob_0e749ebf:
+
+    # p "C-c-cuuuummmmm!"
+    p "К-к-кончаюю!"
+
+# game/day19.rpy:1037
+translate russian day19_l_handjob_d9d51597:
+
+    # "{i}[l_name] doesn't let go of your penis while streams of warm seed spill from the head and over her soft hand. When your orgasm subsides and your dick starts to get too sensitive, you steady her hand to stop her from jerking you off."
+    "{i}[l_name] не отпускает твой пенис, пока потоки теплых семян не польются из головки на ее мягкую руку. Когда оргазм утихает и член начинает становиться слишком чувствительным, ты удерживаешь ее руку, чтобы она больше не дрочила."
+
+# game/day19.rpy:1041
+translate russian day19_l_handjob_4759e7f8:
+
+    # l "I didn't know there would be so much of it."
+    l "Я не думала, что будет так много."
+
+# game/day19.rpy:1042
+translate russian day19_l_handjob_15d2ccb7:
+
+    # p "There isn't always."
+    p "Так не всегда."
+
+# game/day19.rpy:1043
+translate russian day19_l_handjob_984e4857:
+
+    # l "Was this a good... ending?"
+    l "Это хорошее... окончание?"
+
+# game/day19.rpy:1044
+translate russian day19_l_handjob_b87a3d8a:
+
+    # p "If the foreplay is amazing and you're with a beautiful girl, orgasms tend to be great. So yeah, a very good ending."
+    p "Если прелюдия потрясающая, и ты с красивой девушкой, оргазм, как правило, будет отличным. Так что да, очень хороший финал."
+
+# game/day19.rpy:1045
+translate russian day19_l_handjob_c2a202f5:
+
+    # l "Your stuff, it's really thick and sticky. It dries quickly as well."
+    l "Твоя сперма действительно густая и липкая. Она так быстро сохнет."
+
+# game/day19.rpy:1046
+translate russian day19_l_handjob_8f1ae1f9:
+
+    # p "{i}(Thank you for the thorough analysis.)"
+    p "{i}(Спасибо за подробный анализ.)"
+
+# game/day19.rpy:1047
+translate russian day19_l_handjob_a1ae4212:
+
+    # p "Sperm tends to behave that way."
+    p "Обычно сперма именно такая, какой ты ее описала."
+
+# game/day19.rpy:1048
+translate russian day19_l_handjob_6beed191:
+
+    # l "I guess it does."
+    l "Ну хорошо."
+
+# game/day19.rpy:1049
+translate russian day19_l_handjob_c7f0bb71:
+
+    # l "I've got to go and wash it off my hands before it dries."
+    l "Я должна пойти и смыть ее с рук, пока все это не высохло."
+
+# game/day19.rpy:1051
+translate russian day19_l_handjob_362eb025:
+
+    # "{i}Before she can get up from the bed, you kiss her without restraint."
+    "{i}Прежде чем она успевает встать с постели, ты целуешь ее безо всяких ограничений."
+
+# game/day19.rpy:1052
+translate russian day19_l_handjob_58024a15:
+
+    # p "I love you."
+    p "Я люблю тебя."
+
+# game/day19.rpy:1053
+translate russian day19_l_handjob_d80db94b_1:
+
+    # l "Really?"
+    l "Правда?"
+
+# game/day19.rpy:1054
+translate russian day19_l_handjob_3b88c420:
+
+    # p "Yes."
+    p "Да."
+
+# game/day19.rpy:1056
+translate russian day19_l_handjob_b3efe616:
+
+    # l "I love you too, little brother, sleep well."
+    l "Я тоже люблю тебя, младший братик. Спи спокойно."
+
+# game/day19.rpy:1058
+translate russian day19_l_handjob_3043c321:
+
+    # l "I love you too, [p_name], sleep well."
+    l "Я тоже люблю тебя, [p_name], спи спокойно."
+
+# game/day19.rpy:1077
+translate russian day19_b_handjob_3432a76b:
+
+    # "{i}You hear [b_name] slide from the bed and unclasp her bra."
+    "{i}Ты слышишь, как [b_name] встает с кровати и расстегивает бюстгальтер."
+
+# game/day19.rpy:1078
+translate russian day19_b_handjob_74c6eaa9:
+
+    # b "You may turn around now."
+    b "Теперь можешь повернуться."
+
+# game/day19.rpy:1083
+translate russian day19_b_handjob_71c97b8d:
+
+    # b "So. This is me."
+    b "Итак. Вот она я."
+
+# game/day19.rpy:1084
+translate russian day19_b_handjob_87f3e913:
+
+    # p "Wow."
+    p "Вау."
+
+# game/day19.rpy:1085
+translate russian day19_b_handjob_895a54e3:
+
+    # p "{i}(Wow!)"
+    p "{i}(Вау!)"
+
+# game/day19.rpy:1087
+translate russian day19_b_handjob_11f81977:
+
+    # p "I'm running out of superlatives to describe you, sis."
+    p "У меня не хватает слов, чтобы описать всю тебя, сестренка."
+
+# game/day19.rpy:1089
+translate russian day19_b_handjob_33cf3f7f:
+
+    # p "I'm running out of superlatives to describe you, [b_name]."
+    p "У меня не хватает слов, чтобы описать всю тебя, [b_name]."
+
+# game/day19.rpy:1090
+translate russian day19_b_handjob_c2d44fd8:
+
+    # p "Let's just say you're the most beautiful girl in the world."
+    p "Давай просто скажем, что ты самая красивая девушка в мире."
+
+# game/day19.rpy:1091
+translate russian day19_b_handjob_01ca3d21:
+
+    # b "That's an acceptable assessment."
+    b "Это приемлемая оценка."
+
+# game/day19.rpy:1096
+translate russian day19_b_handjob_1b7c56a3:
+
+    # p "{i}(Holy mother of Sweet Baby Jesus... What does she do to keep that gorgeous ass in perfect shape? Practice black magic?)"
+    p "{i}(Святая мать... Что она делает, чтобы поддерживать эту великолепную задницу в идеальной форме? Практикует черную магию?)"
+
+# game/day19.rpy:1098
+translate russian day19_b_handjob_2725c03d:
+
+    # b "Now. Lose the underpants, brother!"
+    b "Теперь. Снимай штаны, братик!"
+
+# game/day19.rpy:1100
+translate russian day19_b_handjob_a2677bbf:
+
+    # b "Now. Lose the underpants!"
+    b "Теперь. Снимай штаны!"
+
+# game/day19.rpy:1101
+translate russian day19_b_handjob_45273f7e:
+
+    # p "With pleasure!"
+    p "С удовольствием!"
+
+# game/day19.rpy:1103
+translate russian day19_b_handjob_3dbb714a:
+
+    # "{i}[b_name] stares at your dick for a while before saying anything."
+    "{i}[b_name] некоторое время смотрит на твой член, прежде чем что-то сказать."
+
+# game/day19.rpy:1105
+translate russian day19_b_handjob_91c1f020:
+
+    # b "You're my little brother in name only, it seems."
+    b "Кажется, ты мой младший брат только по семейному статусу..."
+
+# game/day19.rpy:1107
+translate russian day19_b_handjob_0b2919a3:
+
+    # b "Damn, that's quite the apparatus, [p_name]."
+    b "Боже... вот это аппарат..."
+
+# game/day19.rpy:1108
+translate russian day19_b_handjob_aac340b5:
+
+    # p "I'm glad you think so."
+    p "Рад, что ты так думаешь."
+
+# game/day19.rpy:1110
+translate russian day19_b_handjob_fcc5ca87:
+
+    # "{i}You climb on the bed next to [b_name]. You feel the warmth of her body as she inches even closer, staring lovingly into your eyes."
+    "{i}Ты забираешься на кровать рядом с [b_name]. Ты чувствуешь тепло ее тела, когда она приближается, с любовью глядя тебе в глаза."
+
+# game/day19.rpy:1111
+translate russian day19_b_handjob_e2675151:
+
+    # b "I feel so at peace when I'm with you. I haven't felt that in a long time."
+    b "Я чувствую себя так спокойно, когда я с тобой. Я не чувствовала этого в течение долгого времени"
+
+# game/day19.rpy:1112
+translate russian day19_b_handjob_d6f3f76d:
+
+    # "{i}You stroke her soft hair in response and pull her closer to you."
+    "{i}В ответ ты гладишь ее мягкие волосы и притягиваешь к себе."
+
+# game/day19.rpy:1115
+translate russian day19_b_handjob_7cee4730:
+
+    # "{i}Saying nothing further, you're both kissing each other wildly. Your tongues collide, and your hands are everywhere."
+    "{i}Ничего не говоря, вы оба дико целуете друг друга. Ваши языки сталкиваются, а руки повсюду."
+
+# game/day19.rpy:1121
+translate russian day19_b_handjob_1d12eef8:
+
+    # "{i}Your sister hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}Твоя сестра с жадностью тянется к твоему члену и начинает дрочить тебе."
+
+# game/day19.rpy:1123
+translate russian day19_b_handjob_5f791157:
+
+    # "{i}[b_name] hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}[b_name] с жадностью тянется к твоему члену и начинает дрочить тебе."
+
+# game/day19.rpy:1124
+translate russian day19_b_handjob_99dbaad2:
+
+    # b "I want you so bad, [p_name]!"
+    b "Я так сильно хочу тебя, [p_name]!"
+
+# game/day19.rpy:1125
+translate russian day19_b_handjob_46c85225:
+
+    # "{i}Without letting go of your penis, [b_name] lies down underneath you and guides your cock towards her pussy."
+    "{i}Не отпуская пенис, [b_name] ложится под тебя и направляет твой член к своей киске."
+
+# game/day19.rpy:1128
+translate russian day19_b_handjob_f8f4dcb0:
+
+    # "{i}Her breathing is heavy as you push the tip of your cock against her wet entrance and a heavy moan escapes her."
+    "{i}Ее дыхание затруднено. Когда ты прижимаешь кончик члена к ее влажной дырке, из нее вырывается тяжелый стон."
+
+# game/day19.rpy:1132
+translate russian day19_b_handjob_add106f5:
+
+    # b "Wait! What are we doing?!"
+    b "Стой! Что ты делаешь?!"
+
+# game/day19.rpy:1133
+translate russian day19_b_handjob_72b820bb:
+
+    # b "We shouldn't... It's not..."
+    b "Мы не должны... это не..."
+
+# game/day19.rpy:1134
+translate russian day19_b_handjob_3f804576:
+
+    # p "{i}(Fuck, why does she have to have doubts at this very moment?!)"
+    p "{i}(Блять, и почему у нее появились сомнения именно в этот момент?!)"
+
+# game/day19.rpy:1139
+translate russian day19_b_handjob_f864f112:
+
+    # p "Ssssh, don't worry. It's going to be okay."
+    p "Шшшш. Не беспокойся. Все будет хорошо."
+
+# game/day19.rpy:1140
+translate russian day19_b_handjob_3a0f1f9b:
+
+    # "{i}You push your head further against her labia and nearly enter her."
+    "{i}Ты толкаешь головку члена еще дальше к ее половым губам и почти входишь в нее."
+
+# game/day19.rpy:1142
+translate russian day19_b_handjob_1d208285:
+
+    # b "Goddammit! I said wait!"
+    b "Господи! Я сказала подождать!"
+
+# game/day19.rpy:1144
+translate russian day19_b_handjob_1997aff2:
+
+    # "{i}Your sister struggles beneath you and manages to slip from under you."
+    "{i}Твоя сестра с борьбой умудряется ускользнуть из-под тебя."
+
+# game/day19.rpy:1146
+translate russian day19_b_handjob_5aad0328:
+
+    # "{i}[b_name] struggles beneath you and manages to slip from under you."
+    "{i}[b_name]с борьбой умудряется ускользнуть из-под тебя."
+
+# game/day19.rpy:1147
+translate russian day19_b_handjob_92c7d07e:
+
+    # b "Not cool, [p_name]."
+    b "Не так быстро, [p_name]."
+
+# game/day19.rpy:1148
+translate russian day19_b_handjob_04ce9570:
+
+    # p "Fuck. Sorry, I wasn't thinking."
+    p "Блять. Извини, я не подумал."
+
+# game/day19.rpy:1149
+translate russian day19_b_handjob_3bc411eb:
+
+    # b "Yeah, no shit."
+    b "Да."
+
+# game/day19.rpy:1151
+translate russian day19_b_handjob_e398493a:
+
+    # b "Just sit and hold me, okay?"
+    b "Просто сядь и обними меня, ладно?"
+
+# game/day19.rpy:1152
+translate russian day19_b_handjob_31491233:
+
+    # p "Okay. Shit. I'm so sorry [b_name]."
+    p "Хорошо. Дерьмо. Мне жаль, [b_name]."
+
+# game/day19.rpy:1153
+translate russian day19_b_handjob_1f7375ed:
+
+    # b "Fine. You're sorry. Can we not talk about it anymore?"
+    b "Отлично. Ты извинился. Можем мы больше не говорить об этом?"
+
+# game/day19.rpy:1157
+translate russian day19_b_handjob_f4a7e240:
+
+    # p "Are you okay, [b_name]?"
+    p "Ты в порялке, [b_name]?"
+
+# game/day19.rpy:1158
+translate russian day19_b_handjob_67edd7c2:
+
+    # b "I was just spooked, that's all..."
+    b "Я просто напугалась, все это..."
+
+# game/day19.rpy:1159
+translate russian day19_b_handjob_69fbe89d:
+
+    # b "Maybe we're going a little too fast?"
+    b "Может, мы движемся слишком быстро?"
+
+# game/day19.rpy:1160
+translate russian day19_b_handjob_8eef431e:
+
+    # p "I know what you mean."
+    p "Понимаю, что ты имеешь в виду."
+
+# game/day19.rpy:1161
+translate russian day19_b_handjob_0e4c09bd:
+
+    # b "Fuck, I hate to do this to you."
+    b "Черт. Я не хочу так поступать с тобой."
+
+# game/day19.rpy:1162
+translate russian day19_b_handjob_62073ee8:
+
+    # p "No, it's fine. I want it to be right for both of us."
+    p "Нет, все отлично. Я хочу, чтобы все было правильно для нас обоих."
+
+# game/day19.rpy:1163
+translate russian day19_b_handjob_b0640c0a:
+
+    # b "Well, I could still help you..."
+    b "Ну, я все еще могла бы тебе помочь..."
+
+# game/day19.rpy:1164
+translate russian day19_b_handjob_369b89ba:
+
+    # p "{i}(And... now it's right for me.)"
+    p "{i}(И... теперь мне это нравится.)"
+
+# game/day19.rpy:1165
+translate russian day19_b_handjob_2585b2e1:
+
+    # p "Tell me more!"
+    p "Ну-ка..."
+
+# game/day19.rpy:1170
+translate russian day19_b_handjob_0723fb18:
+
+    # "{i}[b_name] touches your dick again and starts to jerk you off slowly."
+    "{i}[b_name] снова касается твоего члена и начинает медленно дрочить тебе."
+
+# game/day19.rpy:1171
+translate russian day19_b_handjob_82c62760:
+
+    # b "Do you like that?"
+    b "Тебе нравится?"
+
+# game/day19.rpy:1172
+translate russian day19_b_handjob_75e037b1:
+
+    # p "Oh yes!"
+    p "О да!"
+
+# game/day19.rpy:1173
+translate russian day19_b_handjob_bc35e96a:
+
+    # b "I'm going to make you cum so hard."
+    b "Я заставлю тебя кончить..."
+
+# game/day19.rpy:1174
+translate russian day19_b_handjob_1c3e78dd:
+
+    # "{i}With short and powerful motions, she brings you closer and closer to orgasm until you just can't hold yourself together."
+    "{i}Короткими и мощными движениями она подводит вас все ближе и ближе к оргазму, пока вы просто не сможете держать себя в руках."
+
+# game/day19.rpy:1180
+translate russian day19_b_handjob_8e38f6f4:
+
+    # p "Aaaaaaaah!"
+    p "Ааааааххх!"
+
+# game/day19.rpy:1182
+translate russian day19_b_handjob_a461bec6:
+
+    # "{i}Your sister doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}Твоя сестра не отпускает твой член, пока он проливает потоки теплого семени на простыни."
+
+# game/day19.rpy:1184
+translate russian day19_b_handjob_7f9b9a0a:
+
+    # "{i}[b_name] doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}[b_name] не отпускает твой член, пока он проливает потоки теплого семени на простыни."
+
+# game/day19.rpy:1187
+translate russian day19_b_handjob_30ebf1ec:
+
+    # p "Apology accepted."
+    p "Извинения приняты."
+
+# game/day19.rpy:1189
+translate russian day19_b_handjob_1684d2f2:
+
+    # b "Hahaha! Dickhead!"
+    b "Хахаха! Извращенец!"
+
+# game/day19.rpy:1190
+translate russian day19_b_handjob_2239a90c:
+
+    # p "Cunt!"
+    p "Шлюха!"
+
+# game/day19.rpy:1191
+translate russian day19_b_handjob_9cccb824:
+
+    # b "Wanker!"
+    b "Задрот!"
+
+# game/day19.rpy:1192
+translate russian day19_b_handjob_05c668f5:
+
+    # p "Hey! If I recall correctly, you did all the wanking."
+    p "Эй! Если я правильно понимаю, это ты мне только что дрочила."
+
+# game/day19.rpy:1193
+translate russian day19_b_handjob_ee483489:
+
+    # b "Who cares! You're still a wanker!"
+    b "Неважно! Ты все равно задрот!"
+
+# game/day19.rpy:1194
+translate russian day19_b_handjob_e76bb582:
+
+    # p "Hussy!"
+    p "Потаскуха!"
+
+# game/day19.rpy:1195
+translate russian day19_b_handjob_91ae80f7:
+
+    # b "That's so low!"
+    b "Это так низко!"
+
+# game/day19.rpy:1196
+translate russian day19_b_handjob_58f581da:
+
+    # b "Fucknut!"
+    b "Ебырь!"
+
+# game/day19.rpy:1198
+translate russian day19_b_handjob_fa1ed663:
+
+    # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of your sister's happy laughter."
+    "{i}Оскорбления, которыми вы продолжаете кидаться друг в друга, со временем становятся все более причудливыми, и ты просто не можешь насытиться счастливым смехом сестры."
+
+# game/day19.rpy:1199
+translate russian day19_b_handjob_c32b77cf:
+
+    # "{i}After one last kiss, you hold your giggling sister tight and together you soon fall asleep."
+    "{i}После последнего поцелуя ты крепко сжимаешь хихикающую сестру, и вскоре вы вместе засыпаете."
+
+# game/day19.rpy:1201
+translate russian day19_b_handjob_7ba12db4:
+
+    # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of [b_name]'s happy laughter."
+    "{i}Оскорбления, которыми вы продолжаете кидаться друг в друга, со временем становятся все более причудливыми, и ты просто не можешь насытиться счастливым смехом девушки."
+
+# game/day19.rpy:1202
+translate russian day19_b_handjob_70c9f5b2:
+
+    # "{i}After one last kiss, you hold your giggling lover tight and together you soon fall asleep."
+    "{i}После последнего поцелуя ты крепко сжимаешь хихикающую [b_name], и вскоре вы вместе засыпаете."
 

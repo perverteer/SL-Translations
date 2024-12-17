@@ -4765,3 +4765,1895 @@ translate russian day37_l_deflower_3e8e05a8:
 
     # "{i}There's no doubt in your mind where you'll finish, so as your orgasm surges, you reluctantly pull out of her."
     "{i}У тебя нет сомнений в том, что ты кончишь, поэтому, когда оргазм накатывает, ты неохотно выходишь из нее."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day37.rpy:774
+translate russian day37_r_b_sex_0261ae68:
+
+    # "{i}[b_name] still wears that enigmatic half-smile when she walks towards you."
+    "{i}[b_name] все еще улыбается, проходя мимо тебя."
+
+# game/day37.rpy:777
+translate russian day37_r_b_sex_3e1640f5:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her sister on the mouth."
+    "{i}Она удивляет тебя тем, что держит лицо [r_name] и целует свою сестру."
+
+# game/day37.rpy:779
+translate russian day37_r_b_sex_ee924156:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her friend on the mouth."
+    "{i}Она удивляет тебя тем, что держит лицо [r_name] и целует свою подругу."
+
+# game/day37.rpy:781
+translate russian day37_r_b_sex_cd0ff4f1:
+
+    # b "Is this really what you want?"
+    b "Это правда то, чего ты хочешь?"
+
+# game/day37.rpy:782
+translate russian day37_r_b_sex_b881e13c:
+
+    # p "Yes it is."
+    p "Да, правда."
+
+# game/day37.rpy:783
+translate russian day37_r_b_sex_f93c092a:
+
+    # r "It's what we want."
+    r "Это то, что хотим мы."
+
+# game/day37.rpy:785
+translate russian day37_r_b_sex_a73c0f44:
+
+    # "{i}Satisfied by your answer, [b_name] turns her head towards you and kisses you lovingly, placing an affectionate hand on [r_name]'s ass."
+    "{i}Удовлетворенная твоим ответом, [b_name] поворачивается к тебе и страстно целует тебя, держа руку на заднице [r_name]."
+
+# game/day37.rpy:786
+translate russian day37_r_b_sex_941b354c:
+
+    # "{i}She then whispers something in [r_name]'s ear, who begins the giggle and lets your cock slip out of her."
+    "{i}Она шепчет что-то на ухо [r_name], и она начинает хихикать и дает твоему члену выскользнуть из неё."
+
+# game/day37.rpy:787
+translate russian day37_r_b_sex_d88cb631:
+
+    # r "This is going to be fun!"
+    r "Это будет весело!"
+
+# game/day37.rpy:789
+translate russian day37_r_b_sex_a2c6f999:
+
+    # "{i}You have a feeling she's right as the girls kiss again and hesitantly touch each other."
+    "{i}Ты чувствуешь, что она говорит правду, когда девушки начинают трогать друг друга."
+
+# game/day37.rpy:790
+translate russian day37_r_b_sex_46cb1c22:
+
+    # "{i}[r_name] clearly is the horniest of the two, having been treated by you already and takes the lead."
+    "{i}[r_name] явно самая озабоченная тут после твоих ласк, и она берет все в свои руки."
+
+# game/day37.rpy:797
+translate russian day37_r_b_sex_69524a16:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her sister's tongue touches her pussy."
+    "{i}Прежде чем [b_name] ложится на кровать, она смотрит на тебя и нотки зависти в её глазах сменяются удовольствием, когда её сестра начинает лизать её киску."
+
+# game/day37.rpy:799
+translate russian day37_r_b_sex_fb631049:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her friend's tongue touches her pussy."
+    "{i}Прежде чем [b_name] ложится на кровать, она смотрит на тебя и нотки зависти в её глазах сменяются удовольствием, когда её подруга начинает лизать её киску."
+
+# game/day37.rpy:800
+translate russian day37_r_b_sex_866c7524:
+
+    # b "Oh, [r_name]!"
+    b "Ох, [r_name]!"
+
+# game/day37.rpy:803
+translate russian day37_r_b_sex_2f3217e1:
+
+    # "{i}The familiarity with which both siblings treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}Вид того, как две сестры прекрасно обращаются с телами друг друга, доставляет огромное удовольствие, когда [r_name] находит сладкую точку [b_name]."
+
+# game/day37.rpy:805
+translate russian day37_r_b_sex_fea405a2:
+
+    # "{i}The familiarity with which both friends treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}Вид того, как две подруги прекрасно обращаются с телами друг друга, доставляет огромное удовольствие, когда [r_name] находит сладкую точку [b_name]."
+
+# game/day37.rpy:811
+translate russian day37_r_b_sex_304d226c:
+
+    # "{i}[r_name]'s ass wiggles suggestively in the air, and you cannot contain yourself any longer."
+    "{i}Задница [r_name] трясется в воздухе и ты уже не можешь сдерживаться."
+
+# game/day37.rpy:813
+translate russian day37_r_b_sex_f3a8c47c:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her own sister."
+    "{i}Ты прижимаешь свой член к киске [r_name], чтобы продолжить трахать её, пока она вылизывает свою сестру."
+
+# game/day37.rpy:815
+translate russian day37_r_b_sex_fe691908:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her dear friend."
+    "{i}Ты прижимаешь свой член к киске [r_name], чтобы продолжить трахать её, пока она вылизывает свою подругу."
+
+# game/day37.rpy:816
+translate russian day37_r_b_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Ммммм!"
+
+# game/day37.rpy:818
+translate russian day37_r_b_sex_18a8fab2:
+
+    # "{i}Not wanting to disturb [r_name], you start out with gentle thrusts, feeling every inch of her love tunnel."
+    "{i}Не желая отвлекать [r_name], ты начинаешь медленно и плавно двигаться, чувствуя каждый сантиметр её любовного тоннеля."
+
+# game/day37.rpy:819
+translate russian day37_r_b_sex_55bc6403:
+
+    # b "Is he fucking you [r_name]?"
+    b "Он ебет тебя, [r_name]?"
+
+# game/day37.rpy:820
+translate russian day37_r_b_sex_3205fe03:
+
+    # r "Oh yes!"
+    r "О да!"
+
+# game/day37.rpy:821
+translate russian day37_r_b_sex_0261bcfc:
+
+    # b "Does it feel good?!"
+    b "Тебе нравится?!"
+
+# game/day37.rpy:822
+translate russian day37_r_b_sex_5dfa2c83:
+
+    # r "Oh fuck yes!"
+    r "Еще как!"
+
+# game/day37.rpy:824
+translate russian day37_r_b_sex_bd136719:
+
+    # "{i}[r_name] presses her slithering tongue diligently against [b_name]'s pussy and starts to stimulate the clitoris directly."
+    "{i}[r_name] сильнее прижимается языком к киске [b_name] и начинает стимулировать её клитор."
+
+# game/day37.rpy:825
+translate russian day37_r_b_sex_2745ee7b:
+
+    # b "Oh god!"
+    b "О боже!"
+
+# game/day37.rpy:826
+translate russian day37_r_b_sex_eaef6154:
+
+    # b "Oh yes!"
+    b "Да!"
+
+# game/day37.rpy:833
+translate russian day37_r_b_sex_c8db291b:
+
+    # "{i}Pressing her younger sister's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Прижимая лицо своей сестры к своей киске, [b_name] испытывает оргазм и ты начинаешь сильнее трахать [r_name]."
+
+# game/day37.rpy:835
+translate russian day37_r_b_sex_0f24c741:
+
+    # "{i}Pressing her younger friend's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Прижимая лицо своей подруги к своей киске, [b_name] испытывает оргазм и ты начинаешь сильнее трахать [r_name]."
+
+# game/day37.rpy:840
+translate russian day37_r_b_sex_2c01e94a:
+
+    # "{i}Pretty soon [r_name] moans hard in [b_name]'s cunt as she too climaxes from the stimulation of your hard cock."
+    "{i}Очень скоро [r_name] начинает громко стонать в киску [b_name] и испытывать оргазм от твоего твердого члена."
+
+# game/day37.rpy:851
+translate russian day37_r_b_sex_cb03dde3:
+
+    # "{i}As [r_name] slides off your dick, the two girls regard you with smoldering eyes, their wet pussies glimmering in the lamp light."
+    "{i}Когда [r_name] слезает с твоего члена, две девушки смотрят на тебя с огоньком в глазах и их мокрые киски блестят в свете лампы."
+
+# game/day37.rpy:855
+translate russian day37_r_b_sex_38fac03f:
+
+    # "{i}[r_name]'s pussy is too good to pass up, so you grab her body again and re-enter her."
+    "{i}Киска [r_name] слишком хорошая, чтобы упускать её, поэтому ты хватаешь её и снова входишь в неё."
+
+# game/day37.rpy:861
+translate russian day37_r_b_sex_3059bfb5:
+
+    # r "Yes [p_name]!"
+    r "Да, [p_name]!"
+
+# game/day37.rpy:862
+translate russian day37_r_b_sex_a1d697ab:
+
+    # r "Keep fucking me!"
+    r "Продолжай!"
+
+# game/day37.rpy:865
+translate russian day37_r_b_sex_04bba71b:
+
+    # "[b_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] занята своей сестрой, доставляя ей больше удовольствия, трогая грудь и целуя её в губы."
+
+# game/day37.rpy:867
+translate russian day37_r_b_sex_13d54f9f:
+
+    # "[b_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] занята своей подругой, доставляя ей больше удовольствия, трогая грудь и целуя её в губы."
+
+# game/day37.rpy:868
+translate russian day37_r_b_sex_5961bf0b:
+
+    # r "I love you!"
+    r "Я люблю тебя!"
+
+# game/day37.rpy:869
+translate russian day37_r_b_sex_d12c244a:
+
+    # r "I l-love you both!"
+    r "Я люб-лю вас двоих!"
+
+# game/day37.rpy:870
+translate russian day37_r_b_sex_c908cec5:
+
+    # "{i}Your cock is twitching with each thrust and you know you'll cum soon."
+    "{i}Ты чувствуешь, что скоро кончишь."
+
+# game/day37.rpy:874
+translate russian day37_r_b_sex_857d904a:
+
+    # "{i}[b_name]'s pussy is too good to pass up, so you grab her and enter her, a squee of delight escaping her."
+    "{i}Киска [b_name] слишком хорошая, чтобы упускать её, поэтому ты хватаешь её входишь в неё, она мягко стонет."
+
+# game/day37.rpy:880
+translate russian day37_r_b_sex_3f7d13a6:
+
+    # "{i}From the moment you've entered her, you know that you've hit a sweet spot for you both."
+    "{i}Как только ты вошел в неё, ты понял, что надо делать."
+
+# game/day37.rpy:881
+translate russian day37_r_b_sex_b118b08e:
+
+    # "{i}[b_name] stares at you in rapture, biting her lower lip, every muscle in her body taut in anticipation."
+    "{i}[b_name] смотрит на тебя со страстью, прикусывая нижнюю губу, и каждая клетка её тела готовится к большему."
+
+# game/day37.rpy:882
+translate russian day37_r_b_sex_c11078f8:
+
+    # p "Are you going to cum for me, baby?"
+    p "Ты кончишь для меня, детка?"
+
+# game/day37.rpy:883
+translate russian day37_r_b_sex_3fd3887e:
+
+    # b "Y-yes..."
+    b "Д-да..."
+
+# game/day37.rpy:884
+translate russian day37_r_b_sex_eaef6154_1:
+
+    # b "Oh yes!"
+    b "Да!"
+
+# game/day37.rpy:886
+translate russian day37_r_b_sex_f87f9c2d:
+
+    # b "Don't stop!"
+    b "Не останавливайся!"
+
+# game/day37.rpy:887
+translate russian day37_r_b_sex_f8439e45:
+
+    # b "Don't you dare stop!"
+    b "Не смей!"
+
+# game/day37.rpy:888
+translate russian day37_r_b_sex_63472302:
+
+    # "{i}Your cock angled a certain way, you're causing [b_name] to experience deep pleasure, her pussy is getting wetter and wetter."
+    "{i}Твой член под определенным углом, и ты заставляешь [b_name] испытывать глубочайшее удовольствие, её киска все мокрее и мокрее."
+
+# game/day37.rpy:890
+translate russian day37_r_b_sex_f17408ce:
+
+    # "[r_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] занята своей сестрой, доставляя ей больше удовольствия, трогая грудь и целуя её в губы."
+
+# game/day37.rpy:892
+translate russian day37_r_b_sex_775922d3:
+
+    # "[r_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] занята своей подругой, доставляя ей больше удовольствия, трогая грудь и целуя её в губы."
+
+# game/day37.rpy:893
+translate russian day37_r_b_sex_ee1c7da6:
+
+    # r "You're so wet, [b_name]!"
+    r "Ты такая мокрая, [b_name]!"
+
+# game/day37.rpy:894
+translate russian day37_r_b_sex_e924b776:
+
+    # b "I-I... I k-knowww!"
+    b "Я-я... Я зна-ю!"
+
+# game/day37.rpy:901
+translate russian day37_r_b_sex_23c79517:
+
+    # "{i}When you thrust deep inside her, [b_name] begins to tremble, and a clawed hand slaps on your back."
+    "{i}Когда ты вновь входишь очень глубоко, [b_name] начинает трястись и она хватается рукой за твою спину."
+
+# game/day37.rpy:902
+translate russian day37_r_b_sex_1bb9711e:
+
+    # "{i}Squirt is leaking out of her cunt and after one last stroke of your cock, you slip out of her and she sprays the bed with her juices."
+    "{i}Она сквиртит, и после твоего последнего движения ты достаешь свой член, а она заливает всю кровать своими соками."
+
+# game/day37.rpy:904
+translate russian day37_r_b_sex_04b0bc80:
+
+    # b "F-f-ffuuuu..."
+    b "Ааааааа..."
+
+# game/day37.rpy:905
+translate russian day37_r_b_sex_4ac85c47:
+
+    # b "Oh [p_name]!"
+    b "Ох, [p_name]!"
+
+# game/day37.rpy:908
+translate russian day37_r_b_sex_ab56e5e9:
+
+    # "{i}Your sister convulses as the last streams of ejaculate leave her vagina."
+    "{i}Твоя сестра трясется и последние струи жидкости вытекают из её вагины."
+
+# game/day37.rpy:910
+translate russian day37_r_b_sex_9dcf900c:
+
+    # "{i}Your friend convulses as the last streams of ejaculate leave her vagina."
+    "{i}Твоя подруга трясется и последние струи жидкости вытекают из её вагины."
+
+# game/day37.rpy:911
+translate russian day37_r_b_sex_0ccf25cc:
+
+    # r "That was awesome."
+    r "Это было что-то."
+
+# game/day37.rpy:912
+translate russian day37_r_b_sex_e46e2f63:
+
+    # "{i}[b_name] can only smile at her, temporarily incapable of speech."
+    "{i}[b_name] может только улыбаться ей, временно не имея возможности говорить."
+
+# game/day37.rpy:914
+translate russian day37_r_b_sex_21185f76:
+
+    # "{i}The sight of your sisters covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}Вид твоих сестер, покрытых спермой, возбуждает тебя до безумия и заставляет жаждать оргазма."
+
+# game/day37.rpy:916
+translate russian day37_r_b_sex_5e55c334:
+
+    # "{i}The sight of [b_name] and [r_name] covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}Вид [b_name] и [r_name], покрытых сквиртом, возбуждает тебя до безумия и заставляет жаждать оргазма."
+
+# game/day37.rpy:932
+translate russian day37_r_b_sex_6f37408b:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside your little sister, and soon enough, your seed starts flowing inside of her."
+    "{i}Несмотря на всю привлекательность киски [b_name], ты решаешь кончить внутрь своей младшей сестры, и совсем скоро твой член начинает заливать все внутри неё спермой."
+
+# game/day37.rpy:934
+translate russian day37_r_b_sex_e6cf135e:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside [r_name], and soon enough, your seed starts flowing inside of her."
+    "{i}Несмотря на всю привлекательность киски [b_name], ты решаешь кончить внутрь [r_name], и совсем скоро твой член начинает заливать все внутри неё спермой."
+
+# game/day37.rpy:937
+translate russian day37_r_b_sex_d83845e4:
+
+    # "{i}A desire to cream your little sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Желание обкончать свою младшую сестру по полной захватывает тебя, и ты начинаешь заливать все внутри неё спермой."
+
+# game/day37.rpy:939
+translate russian day37_r_b_sex_8db2f62d:
+
+    # "{i}A desire to cream [r_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Желание обкончать [r_name] по полной захватывает тебя, и ты начинаешь заливать все внутри неё спермой."
+
+# game/day37.rpy:943
+translate russian day37_r_b_sex_60bec761:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her sister, a little envious of the treatment the younger girl has received."
+    "{i}Улыбаясь, [r_name] трогает себя, пока твоя сперма вытекает из неё, [b_name] целует свою сестру, немного завидуя награде младшей девушки."
+
+# game/day37.rpy:945
+translate russian day37_r_b_sex_f79e8759:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her friend, a little envious of the treatment the younger girl has received."
+    "{i}Улыбаясь, [r_name] трогает себя, пока твоя сперма вытекает из неё, [b_name] целует свою подругу, немного завидуя награде младшей девушки."
+
+# game/day37.rpy:964
+translate russian day37_r_b_sex_f648e5eb:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your older sister."
+    "{i}Мокрая киска [b_name] так и манит, так что ты решаешь продолжить трахать её и кончить в свою старшую сестру."
+
+# game/day37.rpy:966
+translate russian day37_r_b_sex_9db498b6:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your girl."
+    "{i}Мокрая киска [b_name] так и манит, так что ты решаешь продолжить трахать её и кончить в свою девочку."
+
+# game/day37.rpy:968
+translate russian day37_r_b_sex_4e056e92:
+
+    # "{i}Soon enough, your seed starts flowing inside of her, and [b_name] moans in rapturous acceptance."
+    "{i}Довольно скоро все внутри [b_name] заливается спермой, которая стонет от удовольствия."
+
+# game/day37.rpy:972
+translate russian day37_r_b_sex_aa4e8d70:
+
+    # "{i}A desire to cream your older sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Желание обкончать свою старшую сестру по полной полностью захватывает тебя, и ты начинаешь заливать все внутри неё спермой."
+
+# game/day37.rpy:974
+translate russian day37_r_b_sex_63ceb15f:
+
+    # "{i}A desire to cream [b_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Желание обкончать [b_name] по полной полностью захватывает тебя, и ты начинаешь заливать все внутри неё спермой."
+
+# game/day37.rpy:979
+translate russian day37_r_b_sex_e54b12ac:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her sister, a little envious of the treatment the older girl has received."
+    "{i}Улыбаясь, [b_name] трогает себя, пока твоя сперма вытекает из неё, [r_name] целует свою сестру, немного завидуя награде младшей девушки."
+
+# game/day37.rpy:981
+translate russian day37_r_b_sex_aa991e34:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her friend, a little envious of the treatment the older girl has received."
+    "{i}Улыбаясь, [b_name] трогает себя, пока твоя сперма вытекает из неё, [r_name] целует свою подругу, немного завидуя награде младшей девушки."
+
+# game/day37.rpy:998
+translate russian day37_r_b_sex_9c872b25:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Ты начинаешь мастурбировать перед своими сестрами, наслаждаясь тем, как они голые лежат в сквирте."
+
+# game/day37.rpy:1000
+translate russian day37_r_b_sex_abdc207b:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Ты начинаешь мастурбировать перед своими девушками, наслаждаясь тем, как они голые лежат в сквирте."
+
+# game/day37.rpy:1002
+translate russian day37_r_b_sex_afccc776:
+
+    # p "I'm so close!"
+    p "Сейчас!"
+
+# game/day37.rpy:1003
+translate russian day37_r_b_sex_78ae37fc:
+
+    # r "Are you going to cum for us?"
+    r "Ты кончишь для нас?"
+
+# game/day37.rpy:1004
+translate russian day37_r_b_sex_071b2a1d:
+
+    # p "Yes!"
+    p "Да!"
+
+# game/day37.rpy:1005
+translate russian day37_r_b_sex_9d301335:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their bodies."
+    "{i}[b_name] и [r_name] готовы принять твою сперму, они ложатся ближе к тебе и ждут, пока ты обкончаешь их тела."
+
+# game/day37.rpy:1007
+translate russian day37_r_b_sex_1cfd043b:
+
+    # "{i}When it finally comes, you manage to treat both of their bellies to a blast of cum, and both girls seem very satisfied."
+    "{i}Когда финал наступает, ты заливаешь их животы спермой и две девушки выглядят очень довольными."
+
+# game/day37.rpy:1022
+translate russian day37_r_b_sex_9c872b25_1:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Ты начинаешь мастурбировать перед своими сестрами, наслаждаясь тем, как они голые лежат в сквирте."
+
+# game/day37.rpy:1024
+translate russian day37_r_b_sex_abdc207b_1:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Ты начинаешь мастурбировать перед своими девушками, наслаждаясь тем, как они голые лежат в сквирте."
+
+# game/day37.rpy:1026
+translate russian day37_r_b_sex_afccc776_1:
+
+    # p "I'm so close!"
+    p "Сейчас!"
+
+# game/day37.rpy:1027
+translate russian day37_r_b_sex_78ae37fc_1:
+
+    # r "Are you going to cum for us?"
+    r "Ты кончишь для нас?"
+
+# game/day37.rpy:1028
+translate russian day37_r_b_sex_071b2a1d_1:
+
+    # p "Yes!"
+    p "Да!"
+
+# game/day37.rpy:1029
+translate russian day37_r_b_sex_24fbbf20:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their faces."
+    "{i}[b_name] и [r_name] готовы принять твою сперму, они ложатся ближе к тебе и ждут, пока ты обкончаешь их лица."
+
+# game/day37.rpy:1031
+translate russian day37_r_b_sex_c7529624:
+
+    # "{i}When it finally comes, you manage to treat both of their faces to a blast of cum, and both girls seem very satisfied."
+    "{i}Когда финал наступает, ты заливаешь их лица спермой и две девушки выглядят очень довольными."
+
+# game/day37.rpy:1041
+translate russian day37_r_b_sex_722a8bc7:
+
+    # "{i}Still relishing the afterglow, [b_name] kisses [r_name] passionately."
+    "{i}Все еще чувствуя удовольствие, [b_name] страстно целует [r_name]."
+
+# game/day37.rpy:1043
+translate russian day37_r_b_sex_f94dd09d:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your sisters can come to love each other as more than just family."
+    "{i}Именно в этот момент ты понимаешь, что твои сестры могут любить друг друга больше, чем членов семьи."
+
+# game/day37.rpy:1045
+translate russian day37_r_b_sex_a3639d07:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your friends can come to love each other as more than just friends."
+    "{i}Именно в этот момент ты понимаешь, что твои подруги могут любить друг друга больше, чем просто друзей."
+
+# game/day37.rpy:1047
+translate russian day37_r_b_sex_28ae4a57:
+
+    # "{i}Both girls lie with you and you stroke their soft skin as the morning light peeks through the curtains."
+    "{i}Обе девушки лежат с тобой, и ты трогаешь их мягкую кожу, когда солнце начинае пробиваться через шторы."
+
+# game/day37.rpy:1049
+translate russian day37_r_b_sex_bf176aaa:
+
+    # "{i}Just before the rest of the house awakes, you kiss the girls and slip out of [r_name]'s room."
+    "{i}Прежде, чем кто-то просыпается, ты целуешь девушек и уходишь из комнаты [r_name]."
+
+# game/day37.rpy:1062
+translate russian day37_b_sex_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day37.rpy:1066
+translate russian day37_b_sex_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day37.rpy:1069
+translate russian day37_b_sex_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day37.rpy:1080
+translate russian day37_b_sex_hard_1a6f13d8:
+
+    # b "I don't know, [p_name]..."
+    b "Я не знаю, [p_name]..."
+
+# game/day37.rpy:1083
+translate russian day37_b_sex_hard_fb157d13:
+
+    # b "My pussy is all wet now, don't you want to fuck me hard?"
+    b "Моя киска уже вся мокрая, не хочешь жёстко выебать меня?"
+
+# game/day37.rpy:1084
+translate russian day37_b_sex_hard_6f99c14b:
+
+    # p "No, leave that egg inside of you."
+    p "Нет, оставь яйцо внутри."
+
+# game/day37.rpy:1086
+translate russian day37_b_sex_hard_6d722996:
+
+    # b "I fucking hate you, you know that?"
+    b "Я ненавижу тебя, ты знаешь это?"
+
+# game/day37.rpy:1087
+translate russian day37_b_sex_hard_7bbf1827:
+
+    # p "And I don't believe you."
+    p "И я не верю тебе."
+
+# game/day37.rpy:1088
+translate russian day37_b_sex_hard_a4bc07f4:
+
+    # p "Show me that beautiful ass of yours."
+    p "Покажи мне свою прекрасную задницу."
+
+# game/day37.rpy:1097
+translate russian day37_b_sex_hard_2eb635e5:
+
+    # "{i}Sighing, your sister obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Вздохнув, твоя сестра подчиняется и раздвигает булки перед тобой, чтобы ты мог посмотреть на её милый маленький анус."
+
+# game/day37.rpy:1099
+translate russian day37_b_sex_hard_9f601368:
+
+    # "{i}Sighing, your girl obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Вздохнув, твоя девочка подчиняется и раздвигает булки перед тобой, чтобы ты мог посмотреть на её милый маленький анус."
+
+# game/day37.rpy:1100
+translate russian day37_b_sex_hard_5ecafe00:
+
+    # p "There isn't a part of you that isn't beautiful, is there?"
+    p "У тебя нет некрасивых частей тела, да?"
+
+# game/day37.rpy:1103
+translate russian day37_b_sex_hard_f2cc55b0:
+
+    # b "I don't know..."
+    b "Я не знаю..."
+
+# game/day37.rpy:1105
+translate russian day37_b_sex_hard_8942069c:
+
+    # b "Jesus, you're talking about my butthole, creep."
+    b "Боже, ты говоришь о моей дырке в заднице, урод."
+
+# game/day37.rpy:1106
+translate russian day37_b_sex_hard_8a174c07:
+
+    # p "I am, it's beautiful and looks very tight."
+    p "Да, она прекрасна и выглядит очень узкой."
+
+# game/day37.rpy:1107
+translate russian day37_b_sex_hard_a7f535f3:
+
+    # b "Pfff..."
+    b "Пффф..."
+
+# game/day37.rpy:1108
+translate russian day37_b_sex_hard_0f7f9e12:
+
+    # p "Lie down on your stomach for me."
+    p "Ложись на живот."
+
+# game/day37.rpy:1110
+translate russian day37_b_sex_hard_2bb3ae92:
+
+    # "{i}[b_name] does so, and you can't help but slap her delightful buttocks before positioning yourself between her legs."
+    "{i}[b_name] слушается и ты шлепаешь её по заднице, прежде чем встать между её ног."
+
+# game/day37.rpy:1115
+translate russian day37_b_sex_hard_9c8de81d:
+
+    # "{i}Building up the tension, you kiss her ass cheeks first and massage the supple flesh."
+    "{i}Напряжение нарастает, и ты сначала целуешь и трогаешь её мягкие булки."
+
+# game/day37.rpy:1116
+translate russian day37_b_sex_hard_36043de9:
+
+    # "{i}You spread her buttocks and squirt a generous amount of lube on her asshole."
+    "{i}Ты раздвигаешь её ягодицы и выдавливаешь достаточное количество смазки на её дырочку."
+
+# game/day37.rpy:1117
+translate russian day37_b_sex_hard_b7f56f83:
+
+    # "{i}[b_name] shivers involuntarily as you spread the cold, greasy liquid between the crack of her ass."
+    "{i}[b_name] вздрагивает, когда ты начинаешь смазывать пространство между её булок холодной и скользкой жидкостью."
+
+# game/day37.rpy:1123
+translate russian day37_b_sex_hard_8ce8db45:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of your sister's anus and push ever so slightly."
+    "{i}Не говоря ни слова, ты суешь палец в анус своей сестры."
+
+# game/day37.rpy:1125
+translate russian day37_b_sex_hard_cb06ee8e:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of [b_name]'s anus and push ever so slightly."
+    "{i}Не говоря ни слова, ты суешь палец в анус [b_name]."
+
+# game/day37.rpy:1126
+translate russian day37_b_sex_hard_f91bcfbd:
+
+    # "{i}You're amazed by how easily your finger slips past her sphincter, without as much as a gasp by [b_name]."
+    "{i}Ты удивлен тому, как легко твой палец проходит через её сфинктер, а [b_name] в это время вздыхает."
+
+# game/day37.rpy:1127
+translate russian day37_b_sex_hard_397cc6f3:
+
+    # "{i}When you finger her tight hole, you get a response from [b_name] as she pushes her face down into the mattress and exhales violently."
+    "{i}Когда вы проводите пальцем по ее тугой дырочке, вы получаете ответную реакцию от [b_name], когда она вжимается лицом в матрас и яростно выдыхает."
+
+# game/day37.rpy:1129
+translate russian day37_b_sex_hard_d1d0cc30:
+
+    # p "You're doing great."
+    p "Все идет замечательно."
+
+# game/day37.rpy:1131
+translate russian day37_b_sex_hard_50fa5a35:
+
+    # p "That wasn't so hard, I think that ass is less tight than you think."
+    p "Это было не так сложно, похоже, твоя задница не такая узкая, как ты думала."
+
+# game/day37.rpy:1132
+translate russian day37_b_sex_hard_7d589769:
+
+    # "{i}[b_name] doesn't reply, but clutches the bedsheets in one of her fists as you teasingly run another finger over the sensitive skin of her anus."
+    "{i}[b_name] не отвечает, но сжимает постельное белье кулаками, пока ты трогаешь чувствительную кожу её ануса."
+
+# game/day37.rpy:1133
+translate russian day37_b_sex_hard_3d37397e:
+
+    # "{i}Your second finger joins the other one in her tight warm hole, and you continue to finger her."
+    "{i}Твой второй палец входит в её узкую, теплую дырочку, и ты продолжаешь трахать её."
+
+# game/day37.rpy:1135
+translate russian day37_b_sex_hard_0708fa6f:
+
+    # p "Does that feel good, [b_name]?"
+    p "Тебе нравится, [b_name]?"
+
+# game/day37.rpy:1137
+translate russian day37_b_sex_hard_5dbd1f58:
+
+    # b "God! I f-feel so f-full!"
+    b "Боже! Это слишком!"
+
+# game/day37.rpy:1139
+translate russian day37_b_sex_hard_df44d03d:
+
+    # b "No!"
+    b "Нет!"
+
+# game/day37.rpy:1140
+translate russian day37_b_sex_hard_5075b5bb:
+
+    # p "I don't believe you."
+    p "Я не верю тебе."
+
+# game/day37.rpy:1141
+translate russian day37_b_sex_hard_9832f724:
+
+    # "{i}Feeling confident she can handle a third finger, you push your ring finger inside her ass and start to penetrate her more thoroughly."
+    "{i}Уверенный, что она сможет выдержать третий палец, ты вставляешь его в её задницу и продолжаешь трахать её сильнее."
+
+# game/day37.rpy:1143
+translate russian day37_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Ааааа!"
+
+# game/day37.rpy:1144
+translate russian day37_b_sex_hard_d6bc5a4d:
+
+    # p "Don't you love that feeling?"
+    p "Тебе не нравится?"
+
+# game/day37.rpy:1145
+translate russian day37_b_sex_hard_c413b796:
+
+    # p "I think you're ready for more."
+    p "Думаю, ты готова к большему."
+
+# game/day37.rpy:1146
+translate russian day37_b_sex_hard_93f9f5f8:
+
+    # "{i}You slap her ass again as you pull your fingers out and squirt more lube on her asshole."
+    "{i}Ты шлепаешь её задницу, когда внимаешь пальцы и выливаешь больше лубриканта на её дырочку."
+
+# game/day37.rpy:1153
+translate russian day37_b_sex_hard_694efc41:
+
+    # "{i}With the head of your cock you slap her anus that has already been loosened by the touch of your fingers."
+    "{i}Головкой члена ты шлепаешь её анус, который ты уже расширил своими пальцами."
+
+# game/day37.rpy:1154
+translate russian day37_b_sex_hard_04904619:
+
+    # p "Just relax and it won't hurt."
+    p "Просто расслабься и больно не будет."
+
+# game/day37.rpy:1157
+translate russian day37_b_sex_hard_9d87f4f5:
+
+    # p "Trust me."
+    p "Поверь мне."
+
+# game/day37.rpy:1159
+translate russian day37_b_sex_hard_52dcef3c:
+
+    # b "I..."
+    b "Я..."
+
+# game/day37.rpy:1160
+translate russian day37_b_sex_hard_8d83ec4d:
+
+    # b "I trust you."
+    b "Я верю тебе."
+
+# game/day37.rpy:1161
+translate russian day37_b_sex_hard_1e5d4e50:
+
+    # "{i}You part the skin folds of her anus with the head of your cock and push the tip inside."
+    "{i}Ты раздвигаешь складки её ануса головкой и вводишь её внутрь."
+
+# game/day37.rpy:1162
+translate russian day37_b_sex_hard_2323dced:
+
+    # b "Aaah, no! It's too big!"
+    b "Ааааа нет! Он слишком большой!"
+
+# game/day37.rpy:1164
+translate russian day37_b_sex_hard_3fc78470:
+
+    # "{i}You pause for a while, to let [b_name] adjust to the first inches of your manhood inside her tight asshole."
+    "{i}Ты ненадолго останавливаешься, чтобы дать [b_name] привыкнуть к первым сантиметрам твоего мужского достоинства в её узкой дырочке."
+
+# game/day37.rpy:1166
+translate russian day37_b_sex_hard_7b453243:
+
+    # "{i}When you feel some of the initial tension leave your sister's body, you push further."
+    "{i}Чувствуя, что твоя сестра расслабилась, ты двигаешься дальше."
+
+# game/day37.rpy:1168
+translate russian day37_b_sex_hard_0c547f94:
+
+    # "{i}When you feel some of the initial tension leave your girl's body, you push further."
+    "{i}Чувствуя, что твоя девочка расслабилась, ты двигаешься дальше."
+
+# game/day37.rpy:1169
+translate russian day37_b_sex_hard_ef60ef42:
+
+    # "{i}[b_name] bites her lower lip as the muscles of her canal massage your cock, you can't believe how tight and warm she is."
+    "{i}[b_name] прикусывает нижнюю губу, пока мышцы её дырочки массажируют твой член, ты не можешь поверить, насколько она узкая и теплая."
+
+# game/day37.rpy:1171
+translate russian day37_b_sex_hard_c4f0d171:
+
+    # "{i}Two-thirds of your cock have disappeared inside her ass and [b_name] is writhing on the bed, trying to adjust to your girth."
+    "{i}Две трети твоего члена пропадают в её заднице, и [b_name] пытается привыкнуть к твоей длине."
+
+# game/day37.rpy:1172
+translate russian day37_b_sex_hard_f7eacb48:
+
+    # b "I can't!"
+    b "Я не могу!"
+
+# game/day37.rpy:1173
+translate russian day37_b_sex_hard_b81a6a64:
+
+    # p "Yes you can."
+    p "Можешь."
+
+# game/day37.rpy:1174
+translate russian day37_b_sex_hard_6e6dbdaf:
+
+    # b "No I..."
+    b "Нет, я..."
+
+# game/day37.rpy:1175
+translate russian day37_b_sex_hard_a9ca9f9a:
+
+    # b "Oh..."
+    b "Ох..."
+
+# game/day37.rpy:1182
+translate russian day37_b_sex_hard_b1e67b33:
+
+    # "{i}Her writhing has stopped as you move your hips and fuck her asshole properly for the first time."
+    "{i}Она прекращает извиваться, когда ты начинаешь двигать бедрами и наконец начинаешь ебать её задницу как надо."
+
+# game/day37.rpy:1183
+translate russian day37_b_sex_hard_f940071f:
+
+    # b "What the fuck?!"
+    b "Что за херня?!"
+
+# game/day37.rpy:1184
+translate russian day37_b_sex_hard_f992044a:
+
+    # b "Aah!"
+    b "Ааа!"
+
+# game/day37.rpy:1186
+translate russian day37_b_sex_hard_50d2b002:
+
+    # "{i}You go slowly on her, and the pain-tinged cries of your sister slowly evolve into genuine expressions of pleasure."
+    "{i}Ты двигаешься медленно, и крики боли твоей сестры перетекают в стоны удовольствия."
+
+# game/day37.rpy:1188
+translate russian day37_b_sex_hard_497bec08:
+
+    # "{i}You go slowly on her, and the agonized cries of [b_name] slowly evolve into genuine expressions of pleasure."
+    "{i}Ты двигаешься медленно, и крики боли [b_name] перетекают в стоны удовольствия."
+
+# game/day37.rpy:1190
+translate russian day37_b_sex_hard_52a996e2:
+
+    # "{i}Every thrust is a balancing act of pain and pleasure, but when you see the look on [b_name]'s face, you know she has accepted you fully."
+    "{i}Каждое движение приносит боль и удовольствие, но когда ты смотришь в лицо [b_name], ты видишь, что она принимает тебя полностью."
+
+# game/day37.rpy:1191
+translate russian day37_b_sex_hard_a306de17:
+
+    # p "Are you enjoying it?"
+    p "Тебе нравится?"
+
+# game/day37.rpy:1195
+translate russian day37_b_sex_hard_3fd3887e:
+
+    # b "Y-yes..."
+    b "Д-да..."
+
+# game/day37.rpy:1197
+translate russian day37_b_sex_hard_8b8fd2fa:
+
+    # b "I'm your anal s-slut... R-remember..."
+    b "Я твоя шлюх-ха... Запомни..."
+
+# game/day37.rpy:1199
+translate russian day37_b_sex_hard_12fd92f0:
+
+    # b "N-no..."
+    b "Н-нет..."
+
+# game/day37.rpy:1200
+translate russian day37_b_sex_hard_80fe2e3a:
+
+    # b "F-fuck!!!"
+    b "Аааа!!!"
+
+# game/day37.rpy:1201
+translate russian day37_b_sex_hard_7d1c486e:
+
+    # b "Yes!"
+    b "Да!"
+
+# game/day37.rpy:1208
+translate russian day37_b_sex_hard_bc4d5c1b:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your sister's vagina."
+    "{i}Неожиданно, ты вспоминаешь, что вибратор все еще внутри вагины твоей сестры."
+
+# game/day37.rpy:1210
+translate russian day37_b_sex_hard_017b1394:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your girl's vagina."
+    "{i}Неожиданно, ты вспоминаешь, что вибратор все еще внутри вагины твоей девушки."
+
+# game/day37.rpy:1211
+translate russian day37_b_sex_hard_d87dd57d:
+
+    # "{i}After making a grab for the remote you dial the vibrations of the toy up ever so slightly and continue fucking her ass."
+    "{i}Схватив пульт управления, ты начинаешь медленно повышать мощность и продолжаешь трахать её задницу."
+
+# game/day37.rpy:1212
+translate russian day37_b_sex_hard_2745ee7b:
+
+    # b "Oh god!"
+    b "О боже!"
+
+# game/day37.rpy:1213
+translate russian day37_b_sex_hard_c3ce4048:
+
+    # b "F-fuck!"
+    b "Б-блять!"
+
+# game/day37.rpy:1214
+translate russian day37_b_sex_hard_9e16afc3:
+
+    # b "K-keep g-going!"
+    b "Продол-лжа-ай!"
+
+# game/day37.rpy:1220
+translate russian day37_b_sex_hard_ac18dda7:
+
+    # "{i}[b_name] is drooling on the bedsheets, and her eyes are rolled backward. The only sounds she can now manage are animalistic grunts as your cock plows her asshole."
+    "{i}[b_name] пускает слюни на простыни, ее глаза закатились назад. Единственные звуки, которые она может издавать, это звериное ворчание, когда твой член погружается в ее задницу"
+
+# game/day37.rpy:1227
+translate russian day37_b_sex_hard_8bfedfcd:
+
+    # "{i}Your sister pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}Твоя сестра поднимается выше, позволяя твоему члену войти глубже, и она начинает трястись сильнее и стискивать зубы."
+
+# game/day37.rpy:1229
+translate russian day37_b_sex_hard_39c5c055:
+
+    # "{i}[b_name] pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}[b_name] поднимается выше, позволяя твоему члену войти глубже, и она начинает трястись сильнее и стискивать зубы."
+
+# game/day37.rpy:1236
+translate russian day37_b_sex_hard_c78c3a55:
+
+    # "{i}[b_name] violently squirts as she wails in anguished pleasure."
+    "{i}[b_name] жёстко сквиртит, пока чувствует наивысшее удовольствие."
+
+# game/day37.rpy:1237
+translate russian day37_b_sex_hard_4af07fd9:
+
+    # b "M-motherf-ffuckkkk..."
+    b "Ааааааааа..."
+
+# game/day37.rpy:1239
+translate russian day37_b_sex_hard_636b69d0:
+
+    # "{i}The violence of her motions makes it hard to keep fucking her ass, but you manage to move your cock inside her tunnel, prompting another river of squirt from her cunt."
+    "{i}Её движения начинают мешать тебе, но тебе удается войти в её тоннель, заставляя сквиртануть её ещё раз."
+
+# game/day37.rpy:1240
+translate russian day37_b_sex_hard_524ce1b7:
+
+    # "{i}[b_name] collapses to the bed, quivering and lying in a pool of her own moisture, allowing you to achieve your climax."
+    "{i}[b_name] трясется на кровати, лежа в собственной жидкости, позволяя тебе достигнуть оргазма."
+
+# game/day37.rpy:1243
+translate russian day37_b_sex_hard_7ca42fd7:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your sister's asshole."
+    "{i}Ты продолжаешь трахать её задницу, наслаждаясь чувством контроля и того, насколько узкая попка у твоей сестры."
+
+# game/day37.rpy:1245
+translate russian day37_b_sex_hard_3d62217c:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your girl's asshole."
+    "{i}Ты продолжаешь трахать её задницу, наслаждаясь чувством контроля и того, насколько узкая попка у твоей девочки."
+
+# game/day37.rpy:1246
+translate russian day37_b_sex_hard_a5470a99:
+
+    # "{i}You feel your climax approaching and are ready to treat [b_name] to a generous helping of your seed."
+    "{i}Ты чувствуешь приближающийся финал и готовишься одарить [b_name] своим семенем."
+
+# game/day37.rpy:1257
+translate russian day37_b_sex_hard_8a058469:
+
+    # "{i}It's only fitting that properly taking [b_name]'s anal virginity ends with an ass full of cum, so you stay rooted inside of her."
+    "{i}Было бы прекрасно заполнить все внутри [b_name] спермой после лишения её анальной девственности, так что ты остаешься внутри неё."
+
+# game/day37.rpy:1258
+translate russian day37_b_sex_hard_0099c60e:
+
+    # "{i}You treat her asshole with a massive amount of cum, shot deeply inside her tunnel."
+    "{i}Ты заливаешь её дырочку огромным количеством спермы."
+
+# game/day37.rpy:1265
+translate russian day37_b_sex_hard_bd2027d4:
+
+    # "{i}After you pull out, it takes a long while for your seed to trickle out of her winking asshole."
+    "{i}Ты вынимаешь, и твоему семени требуется довольно много времени, чтобы начать вытекать из её задницы."
+
+# game/day37.rpy:1267
+translate russian day37_b_sex_hard_08e0080c:
+
+    # "{i}[b_name] just moans, squirming on her squirt-soaked bedsheets."
+    "{i}[b_name] просто стонет, лежа на мокрой кровати."
+
+# game/day37.rpy:1269
+translate russian day37_b_sex_hard_97b7da56:
+
+    # "{i}[b_name] just moans, squirming on the messed-up bedsheets."
+    "{i}[b_name] просто стонет, лежа на кровати."
+
+# game/day37.rpy:1285
+translate russian day37_b_sex_hard_89383974:
+
+    # p "Come here baby, taste that ass of yours."
+    p "Иди сюда, детка, попробуй свою задницу."
+
+# game/day37.rpy:1287
+translate russian day37_b_sex_hard_5d6ffb02:
+
+    # "{i}You pull [b_name] upright and stuff your cock inside her open mouth."
+    "{i}Ты поднимаешь голову [b_name] и вставляешь свой член в её открытый рот."
+
+# game/day37.rpy:1289
+translate russian day37_b_sex_hard_34de7a30:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately, her cunt still dripping with beads of squirt."
+    "{i}Она не сопротивляется и сразу же начинает сосать твой член, а её пизда всё ещё мокрая."
+
+# game/day37.rpy:1291
+translate russian day37_b_sex_hard_0836ab83:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately."
+    "{i}Она не сопротивляется и сразу же начинает сосать твой член."
+
+# game/day37.rpy:1292
+translate russian day37_b_sex_hard_dab268a0:
+
+    # p "That's right!"
+    p "Вот так!"
+
+# game/day37.rpy:1295
+translate russian day37_b_sex_hard_2e311013:
+
+    # "{i}As [b_name] licks your shaft clean, you unload a massive amount of cum in her mouth."
+    "{i}Как только [b_name] вылизывает весь твой член, ты кончаешь ей в рот."
+
+# game/day37.rpy:1299
+translate russian day37_b_sex_hard_20f7c119:
+
+    # "{i}Some of it spills along the corners of her mouth, but [b_name] is quick to swallow all of your ejaculate."
+    "{i}Несколько капель свисают с уголков её губ, но [b_name] проглатывает всю твою сперму."
+
+# game/day37.rpy:1315
+translate russian day37_b_sex_hard_a9fbe046:
+
+    # "{i}After your cock exits her asshole, you flip [b_name] over and blast her body with a wealth of your seed."
+    "{i}Ты вынимаешь и поворачиваешь [b_name], чтобы обкончать её тело."
+
+# game/day37.rpy:1317
+translate russian day37_b_sex_hard_7f3f94f7:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on her squirt-soaked bedsheets."
+    "{i}[b_name] просто стонет, извиваясь на мокрой кровати."
+
+# game/day37.rpy:1319
+translate russian day37_b_sex_hard_5c8728c4:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on the messed-up bedsheets."
+    "{i}[b_name] просто стонет, извиваясь на кровати."
+
+# game/day37.rpy:1331
+translate russian day37_b_sex_hard_74e7ec77:
+
+    # "{i}You lay next to your sister, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ты ложишься рядом со своей сестрой на мокрую кровать и кладешь руку ей на живот, она не сопротивляется."
+
+# game/day37.rpy:1333
+translate russian day37_b_sex_hard_361ee879:
+
+    # "{i}You lay next to her, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ты ложишься рядом с ней на мокрую кровать и кладешь руку ей на живот, она не сопротивляется."
+
+# game/day37.rpy:1337
+translate russian day37_b_sex_hard_d1a42c18:
+
+    # "{i}The vibrator is still humming softly inside her cunt and you turn it off to allow [b_name] some respite."
+    "{i}Вибратор все еще работает внутри её киски, и ты выключаешь его, чтобы дать [b_name] немного отдохнуть."
+
+# game/day37.rpy:1340
+translate russian day37_b_sex_hard_9ce8a0ac:
+
+    # "{i}You lay next to your sister, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ты ложишься рядом со своей сестрой и кладешь руку ей на живот, она не сопротивляется."
+
+# game/day37.rpy:1342
+translate russian day37_b_sex_hard_81fd5ead:
+
+    # "{i}You lay next to her, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ты ложишься рядом с ней и кладешь руку ей на живот, она не сопротивляется."
+
+# game/day37.rpy:1343
+translate russian day37_b_sex_hard_76643805:
+
+    # p "I own you completely now."
+    p "Теперь ты вся моя."
+
+# game/day37.rpy:1344
+translate russian day37_b_sex_hard_39ce7b87:
+
+    # p "You're mine."
+    p "Ты моя."
+
+# game/day37.rpy:1362
+translate russian day37_r_b_sex_hard_59d862c9:
+
+    # r "Oh!"
+    r "Ох!"
+
+# game/day37.rpy:1363
+translate russian day37_r_b_sex_hard_4c61d029:
+
+    # p "Were you already getting started?"
+    p "Ты уже начала?"
+
+# game/day37.rpy:1372
+translate russian day37_r_b_sex_hard_cdec02ef:
+
+    # r "I kinda was..."
+    r "Типа..."
+
+# game/day37.rpy:1373
+translate russian day37_r_b_sex_hard_4332053d:
+
+    # r "Whenever I think of you, I just can't help myself."
+    r "Когда я думаю о тебе, я не могу ничего с собой поделать."
+
+# game/day37.rpy:1374
+translate russian day37_r_b_sex_hard_df03834d:
+
+    # p "Don't stop on my account, I think it looks hot."
+    p "Не останавливайся, это выглядит горячо."
+
+# game/day37.rpy:1375
+translate russian day37_r_b_sex_hard_078b9ba5:
+
+    # r "You do it better."
+    r "У тебя это получается лучше."
+
+# game/day37.rpy:1381
+translate russian day37_r_b_sex_hard_51a557a7:
+
+    # "{i}[r_name] allows your hand to slip between her legs and looks at you lustfully."
+    "{i}[r_name] позволяет твоей руке зайти между её ног и смотрит на тебя со страстью."
+
+# game/day37.rpy:1382
+translate russian day37_r_b_sex_hard_ca50f944:
+
+    # "{i}You finger her slowly and just intensely enough that you're still able to talk to her."
+    "{i}Ты трогаешь её медленно, так что вы можете говорить."
+
+# game/day37.rpy:1383
+translate russian day37_r_b_sex_hard_070a9656:
+
+    # p "I have a surprise for you."
+    p "У меня есть для тебя сюрприз."
+
+# game/day37.rpy:1384
+translate russian day37_r_b_sex_hard_e29871a4:
+
+    # r "I-Is that so?"
+    r "П-правда?"
+
+# game/day37.rpy:1385
+translate russian day37_r_b_sex_hard_3cf8fb14:
+
+    # p "I've invited [b_name]..."
+    p "Я позвал [b_name]..."
+
+# game/day37.rpy:1387
+translate russian day37_r_b_sex_hard_d40eb808:
+
+    # r "Oh..."
+    r "Ох..."
+
+# game/day37.rpy:1388
+translate russian day37_r_b_sex_hard_4b88c3d8:
+
+    # p "Too soon?"
+    p "Слишком быстро?"
+
+# game/day37.rpy:1389
+translate russian day37_r_b_sex_hard_7c7ccbb8:
+
+    # p "I could send her away."
+    p "Я могу попросить её не приходить."
+
+# game/day37.rpy:1390
+translate russian day37_r_b_sex_hard_ed912e80:
+
+    # r "No..."
+    r "Нет..."
+
+# game/day37.rpy:1392
+translate russian day37_r_b_sex_hard_18c2bff2:
+
+    # r "No, I want her here."
+    r "Я хочу, чтоб она была здесь."
+
+# game/day37.rpy:1393
+translate russian day37_r_b_sex_hard_71c22a15:
+
+    # p "There's something you should know."
+    p "Ты должна кое-что знать."
+
+# game/day37.rpy:1394
+translate russian day37_r_b_sex_hard_4b40412a:
+
+    # p "In the bedroom, [b_name] and I act a little differently."
+    p "В постели мы с [b_name] ведем себя немного по-другому."
+
+# game/day37.rpy:1395
+translate russian day37_r_b_sex_hard_dafbdb95:
+
+    # r "What do you mean?"
+    r "О чем ты?"
+
+# game/day37.rpy:1396
+translate russian day37_r_b_sex_hard_11496698:
+
+    # p "She likes to do what I tell her."
+    p "Ей нравится делать то, что я говорю."
+
+# game/day37.rpy:1398
+translate russian day37_r_b_sex_hard_fc37eded:
+
+    # r "I do too."
+    r "И мне."
+
+# game/day37.rpy:1399
+translate russian day37_r_b_sex_hard_817e2c44:
+
+    # p "This is not the same."
+    p "Это другое."
+
+# game/day37.rpy:1400
+translate russian day37_r_b_sex_hard_d61ed0b8:
+
+    # p "[b_name] is my submissive."
+    p "[b_name] - мой сабмиссив."
+
+# game/day37.rpy:1402
+translate russian day37_r_b_sex_hard_3ec524e1:
+
+    # r "[b_name]? Really?"
+    r "[b_name]? Правда?"
+
+# game/day37.rpy:1403
+translate russian day37_r_b_sex_hard_df34f87f:
+
+    # r "So I can make her do whatever I want to?"
+    r "А она будет делать то, что я скажу?"
+
+# game/day37.rpy:1404
+translate russian day37_r_b_sex_hard_1cdb9e0d:
+
+    # p "If I allow it, yes."
+    p "Если я разрешу, то да."
+
+# game/day37.rpy:1406
+translate russian day37_r_b_sex_hard_768a8ed3:
+
+    # r "Mmmm, making my older sister do what I want... Interesting..."
+    r "Ммммм, командовать старшей сестрой... интересно..."
+
+# game/day37.rpy:1408
+translate russian day37_r_b_sex_hard_300ebf6f:
+
+    # r "Mmmm, making my older friend do what I want... Interesting..."
+    r "Ммммм, командовать подругой... интересно..."
+
+# game/day37.rpy:1409
+translate russian day37_r_b_sex_hard_ca08e60c:
+
+    # p "{i}(Didn't expect her to accept it so easily...)"
+    p "{i}(Не думал, что она так легко это примет...)"
+
+# game/day37.rpy:1411
+translate russian day37_r_b_sex_hard_2e86761d:
+
+    # "{i}Satisfied, you focus your attention on [r_name]'s pussy again, her clit in particular."
+    "{i}Довольный, ты возвращаешь свое внимание на киску [r_name], особенно на клитор."
+
+# game/day37.rpy:1412
+translate russian day37_r_b_sex_hard_d00807f1:
+
+    # r "F-fuck!"
+    r "Б-боже!"
+
+# game/day37.rpy:1413
+translate russian day37_r_b_sex_hard_addd5af0:
+
+    # r "That's the spot!"
+    r "Да!"
+
+# game/day37.rpy:1417
+translate russian day37_r_b_sex_hard_c3383809:
+
+    # "{i}You're interrupted by a knock on [r_name]'s door."
+    "{i}Вдруг кто-то стучит в дверь [r_name]."
+
+# game/day37.rpy:1418
+translate russian day37_r_b_sex_hard_3ab75bb7:
+
+    # r "Who is it?"
+    r "Кто это?"
+
+# game/day37.rpy:1419
+translate russian day37_r_b_sex_hard_ecb9a588:
+
+    # b "Me."
+    b "Я."
+
+# game/day37.rpy:1420
+translate russian day37_r_b_sex_hard_91b79bf5:
+
+    # r "Come in."
+    r "Заходи."
+
+# game/day37.rpy:1422
+translate russian day37_r_b_sex_hard_59152d4e:
+
+    # r "We got started without you..."
+    r "Мы уже начали без тебя..."
+
+# game/day37.rpy:1423
+translate russian day37_r_b_sex_hard_e3dad245:
+
+    # p "{i}(Damn [r_name]!)"
+    p "{i}(Блин, [r_name]!)"
+
+# game/day37.rpy:1424
+translate russian day37_r_b_sex_hard_c3c6b9c4:
+
+    # p "Why don't you undress and come over here."
+    p "Раздевайся и иди к нам."
+
+# game/day37.rpy:1430
+translate russian day37_r_b_sex_hard_e5a9c664:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her youngest sister."
+    "{i}Несмотря на кажущуюся храбрость, движения [b_name] немного неуверенные, возможно из-за того, что она не привыкла видеть твои пальцы в своей сестре."
+
+# game/day37.rpy:1432
+translate russian day37_r_b_sex_hard_aa5b107d:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her younger friend."
+    "{i}Несмотря на кажущуюся храбрость, движения [b_name] немного неуверенные, возможно из-за того, что она не привыкла видеть твои пальцы в своей подруге."
+
+# game/day37.rpy:1437
+translate russian day37_r_b_sex_hard_c72aedeb:
+
+    # p "[r_name] would really like to cum."
+    p "[r_name] очень хочет кончить."
+
+# game/day37.rpy:1438
+translate russian day37_r_b_sex_hard_92a6f668:
+
+    # p "So I've made her pussy all wet for you."
+    p "Так что я сделал её мокрой для тебя."
+
+# game/day37.rpy:1439
+translate russian day37_r_b_sex_hard_1eb0d7d3:
+
+    # p "And now it's waiting for your tongue."
+    p "И сейчас она ждет твой язык."
+
+# game/day37.rpy:1446
+translate russian day37_r_b_sex_hard_9196c426:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger sister only has eyes for you."
+    "{i}[r_name] не получается посмотреть, как на тебя глядит [b_name], потому что твоя сестра тоже не может оторвать от тебя взгляд."
+
+# game/day37.rpy:1447
+translate russian day37_r_b_sex_hard_055a8d7f:
+
+    # "{i}[b_name] lowers her head between her sister's legs and probes the girl's pussy with her tongue."
+    "{i}[b_name] опускает свою голову между ног своей сестры и начинает пробовать её киску."
+
+# game/day37.rpy:1449
+translate russian day37_r_b_sex_hard_89df8631:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger friend only has eyes for you."
+    "{i}[r_name] не получается посмотреть, как на тебя глядит [b_name], потому что твоя подруга тоже не може оторвать от тебя взгляд."
+
+# game/day37.rpy:1450
+translate russian day37_r_b_sex_hard_b53fab4a:
+
+    # "{i}[b_name] lowers her head between the girl's legs and probes her friend's pussy with her tongue."
+    "{i}[b_name] опускает свою голову между ног своей подруги и начинает пробовать её киску."
+
+# game/day37.rpy:1452
+translate russian day37_r_b_sex_hard_fed25d20:
+
+    # p "Does that feel good, [r_name]?"
+    p "Приятно ли это [имя_ру]?."
+
+# game/day37.rpy:1453
+translate russian day37_r_b_sex_hard_e0c642ab:
+
+    # r "Oh y-yes!"
+    r "О д-да!"
+
+# game/day37.rpy:1454
+translate russian day37_r_b_sex_hard_3eed19c5:
+
+    # r "K-keep going, [b_name]."
+    r "П-продолжай, [b_name]."
+
+# game/day37.rpy:1456
+translate russian day37_r_b_sex_hard_d4281d9c:
+
+    # "{i}Your tongues entangle for a passionate kiss, as [b_name] eats [r_name]'s pussy out."
+    "{i}Ваши языки страстно переплетаются, пока [b_name] вылизывает киску [r_name]."
+
+# game/day37.rpy:1458
+translate russian day37_r_b_sex_hard_e43a10d0:
+
+    # "{i}The sight of your older sister's ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}Вид того, как задница твоей старшей сестры трясется в воздухе, пока она удовлетворяет [r_name], вызывает у тебя стояк."
+
+# game/day37.rpy:1460
+translate russian day37_r_b_sex_hard_22a1143d:
+
+    # "{i}The sight of [b_name]'s ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}Вид того, как задница [b_name] трясется в воздухе, пока она удовлетворяет [r_name], вызывает у тебя стояк."
+
+# game/day37.rpy:1462
+translate russian day37_r_b_sex_hard_0cb02496:
+
+    # p "I want to borrow her."
+    p "Я хочу одолжить её."
+
+# game/day37.rpy:1463
+translate russian day37_r_b_sex_hard_0b5fe5c3:
+
+    # r "M-must you?"
+    r "Д-да?"
+
+# game/day37.rpy:1464
+translate russian day37_r_b_sex_hard_59638b31:
+
+    # p "Only for a short while."
+    p "Ненадолго."
+
+# game/day37.rpy:1465
+translate russian day37_r_b_sex_hard_ee3c825b:
+
+    # r "O-okay..."
+    r "Хорош-шо..."
+
+# game/day37.rpy:1466
+translate russian day37_r_b_sex_hard_04f9a4bd:
+
+    # p "[b_name], come over here and suck my cock."
+    p "[b_name], иди сюда и отсоси мне."
+
+# game/day37.rpy:1472
+translate russian day37_r_b_sex_hard_5a706a46:
+
+    # "{i}The girl emerges from between [r_name]'s legs and eyes your erection."
+    "{i}Девушка поворачивается от киски [r_name] и смотрит на твой стояк."
+
+# game/day37.rpy:1473
+translate russian day37_r_b_sex_hard_1072deb7:
+
+    # "{i}She laps up the precum that's covering the tip of your cock before engulfing it with her warm mouth."
+    "{i}Она легонько облизывает головку твоего члена, прежде чем взять его полностью в свой теплый рот."
+
+# game/day37.rpy:1476
+translate russian day37_r_b_sex_hard_1a123dac:
+
+    # "{i}You turn your attention to your youngest sister's petite breasts and play with her soft nipples."
+    "{i}Ты обращаешь внимание на маленькую грудь своей младшей сестры и начинаешь играться с её мягкими сосками."
+
+# game/day37.rpy:1478
+translate russian day37_r_b_sex_hard_40f5a25d:
+
+    # "{i}You turn your attention to your youngest friend's petite breasts and play with her soft nipples."
+    "{i}Ты обращаешь внимание на маленькую грудь своей подруги и начинаешь играться с её мягкими сосками."
+
+# game/day37.rpy:1479
+translate russian day37_r_b_sex_hard_4289a6e1:
+
+    # "{i}With slight thrusts of your hips, you tease [b_name] and force her to take your dick even further into her mouth."
+    "{i}Начиная двигаться сильнее, ты заставляешь [b_name] сосать твой член еще глубже."
+
+# game/day37.rpy:1481
+translate russian day37_r_b_sex_hard_d3b998b3:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older sister makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] совсем не беспокоят те звуки, которые издает твоя старшая сестра, пока заглатывает полную длину твоего ствола."
+
+# game/day37.rpy:1483
+translate russian day37_r_b_sex_hard_9a7bdf0f:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older friend makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] совсем не беспокоят те звуки, которые издает твоя старшая подруга, пока заглатывает полную длину твоего ствола."
+
+# game/day37.rpy:1485
+translate russian day37_r_b_sex_hard_9a81a38e:
+
+    # r "This is so hot, [p_name]!"
+    r "Это так горячо, [p_name]!"
+
+# game/day37.rpy:1486
+translate russian day37_r_b_sex_hard_6887497b:
+
+    # r "I want you to fuck me while [b_name] watches."
+    r "Я хочу, чтобы ты трахал меня и [b_name] смотрела на нас."
+
+# game/day37.rpy:1487
+translate russian day37_r_b_sex_hard_a2f04ad3:
+
+    # p "You want to make her jealous."
+    p "Ты хочешь, чтоб она ревновала."
+
+# game/day37.rpy:1488
+translate russian day37_r_b_sex_hard_635c817e:
+
+    # r "Only a little."
+    r "Совсем немного."
+
+# game/day37.rpy:1489
+translate russian day37_r_b_sex_hard_421de7b3:
+
+    # p "That's enough, [b_name]."
+    p "Достаточно, [b_name]."
+
+# game/day37.rpy:1496
+translate russian day37_r_b_sex_hard_d3f0e18d:
+
+    # "{i}[r_name] lets out a giddy laugh as you turn her on her side and spread her legs."
+    "{i}[r_name] начинает смеяться, когда ты поворачиваешься к ней, и она раздвигает ноги."
+
+# game/day37.rpy:1502
+translate russian day37_r_b_sex_hard_48f6d9e3:
+
+    # "{i}You make sure [b_name] has a good view of her sister's cunt as you push your cock inside her."
+    "{i}Ты убеждаешься, что [b_name] хорошо видит пизду своей сестры, когда ты начинаешь входить в неё."
+
+# game/day37.rpy:1503
+translate russian day37_r_b_sex_hard_f4fff822:
+
+    # "{i}Thanks to her older sister's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Как хорошо, что ей отлизали, [r_name] вся мокрая и член легко входит в неё."
+
+# game/day37.rpy:1505
+translate russian day37_r_b_sex_hard_02bc7901:
+
+    # "{i}You make sure [b_name] has a good view of her friend's cunt as you push your cock inside her."
+    "{i}Ты убеждаешься, что [b_name] хорошо видит пизду своей подруги, когда ты начинаешь входить в неё."
+
+# game/day37.rpy:1506
+translate russian day37_r_b_sex_hard_989e44bf:
+
+    # "{i}Thanks to her older friend's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Как хорошо, что ей отлизали, [r_name] вся мокрая и член легко входит в неё."
+
+# game/day37.rpy:1511
+translate russian day37_r_b_sex_hard_bcb391ab:
+
+    # "{i}Hugging her you fuck her pussy hard, taking [r_name]'s breath away as she moans and exhales at the same time."
+    "{i}Обнимая её, ты ебешь её киску, и [r_name] задыхается и стонет."
+
+# game/day37.rpy:1512
+translate russian day37_r_b_sex_hard_6a984c9c:
+
+    # r "Oooh [p_name]!"
+    r "Оооооох [p_name]!"
+
+# game/day37.rpy:1513
+translate russian day37_r_b_sex_hard_55a194e2:
+
+    # r "Harder!"
+    r "Сильнее!"
+
+# game/day37.rpy:1515
+translate russian day37_r_b_sex_hard_1d6407b8:
+
+    # "{i}Fucking your youngest sister requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Ты думаешь только о своей младшей сестре, но когда ты вдруг смотришь на [b_name], ты видишь, что она хочет и ждет тебя."
+
+# game/day37.rpy:1517
+translate russian day37_r_b_sex_hard_4b12575d:
+
+    # "{i}Fucking your youngest friend requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Ты думаешь только о своей младшей подруге, но когда ты вдруг смотришь на [b_name], ты видишь, что она хочет и ждет тебя."
+
+# game/day37.rpy:1519
+translate russian day37_r_b_sex_hard_78ec61d3:
+
+    # "{i}[r_name] has closed her eyes in coital bliss as you keep hitting her moist cunt with your hard cock."
+    "{i}[r_name] закрывает глаза, пока ты продолжаешь ебать её киску своим твердым членом."
+
+# game/day37.rpy:1520
+translate russian day37_r_b_sex_hard_5961bf0b:
+
+    # r "I love you!"
+    r "Я люблю тебя!"
+
+# game/day37.rpy:1521
+translate russian day37_r_b_sex_hard_2ca7a862:
+
+    # r "Fuck me harder! Please!"
+    r "Сильнее! Пожалуйста!"
+
+# game/day37.rpy:1530
+translate russian day37_r_b_sex_hard_c5299c91:
+
+    # "{i}Your sister lets herself be flipped over willingly, and you pull her ass close towards you, your dick slipping past her labia with ease."
+    "{i}Твоя сестра позволяет тебе схватить её за жопу, и ты начинаешь ебать её ещё сильнее."
+
+# game/day37.rpy:1532
+translate russian day37_r_b_sex_hard_30441d0e:
+
+    # "{i}Your girlfriend lets herself be flipped over willingly, and you pull her ass, your dick slipping past her labia with ease."
+    "{i}Твоя девушка позволяет тебе схватить её за жопу, и ты начинаешь ебать её ещё сильнее."
+
+# game/day37.rpy:1533
+translate russian day37_r_b_sex_hard_bc7191e6:
+
+    # "{i}Grabbing her sides, you're able to penetrate [r_name] more deeply and fuck her even more thoroughly than before."
+    "{i}Хватая её за бока, ты можешь ебать [r_name] ещё глубже и жестче."
+
+# game/day37.rpy:1534
+translate russian day37_r_b_sex_hard_dedc3b5f:
+
+    # p "Get over here, [b_name]."
+    p "Давай, [b_name]."
+
+# game/day37.rpy:1542
+translate russian day37_r_b_sex_hard_b17cc246:
+
+    # p "Taste your sister."
+    p "Попробуй свою сестренку."
+
+# game/day37.rpy:1544
+translate russian day37_r_b_sex_hard_0112f2be:
+
+    # p "Taste your friend."
+    p "Попробуй свою подружку."
+
+# game/day37.rpy:1545
+translate russian day37_r_b_sex_hard_a2d73374:
+
+    # "{i}You stuff [b_name]'s mouth with your wet cock as you pull out of [r_name] temporarily."
+    "{i}Ты вставляешь в рот [b_name] свой член, как только вынимаешь его из [r_name]."
+
+# game/day37.rpy:1547
+translate russian day37_r_b_sex_hard_264d421f:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her sister's salty juices."
+    "{i}Не колебаясь, [b_name] обсасывает твой член и слизывает все соленые соки своей сестры."
+
+# game/day37.rpy:1549
+translate russian day37_r_b_sex_hard_389a301e:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her friend's salty juices."
+    "{i}Не колебаясь, [b_name] обсасывает твой член и слизывает все соленые соки своей подруги."
+
+# game/day37.rpy:1550
+translate russian day37_r_b_sex_hard_eaa9ca80:
+
+    # p "Good girl."
+    p "Хорошая девочка."
+
+# game/day37.rpy:1557
+translate russian day37_r_b_sex_hard_74bfc0f9:
+
+    # "{i}[r_name] squeals in delight when you reinsert your cock, now moist with [b_name]'s saliva and fuck her hard again."
+    "{i}[r_name] стонет, кгда ты снова вводишь в неё свой член, уже покрытый слюной [b_name]."
+
+# game/day37.rpy:1558
+translate russian day37_r_b_sex_hard_abefe131:
+
+    # r "Keep going, [p_name]!"
+    r "П-продолжай, [p_name]!"
+
+# game/day37.rpy:1559
+translate russian day37_r_b_sex_hard_e22604e5:
+
+    # "{i}You'd like to oblige her, but it's becoming increasingly hard to stave off the moment of climax."
+    "{i}Ты бы хотел подчиниться, но становится очень сложно сдерживаться."
+
+# game/day37.rpy:1560
+translate russian day37_r_b_sex_hard_dd697dae:
+
+    # p "G-get ready, [b_name]."
+    p "П-приготовься, [b_name]."
+
+# game/day37.rpy:1561
+translate russian day37_r_b_sex_hard_662b4997:
+
+    # p "D-don't waste a drop."
+    p "Не уп-пусти ни капли."
+
+# game/day37.rpy:1572
+translate russian day37_r_b_sex_hard_740a03ae:
+
+    # "{i}[b_name] is lying ready underneath her sister when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] лежит готовая под своей сетрой, когда ты заполняешь вагину [r_name] теплой спермой."
+
+# game/day37.rpy:1574
+translate russian day37_r_b_sex_hard_24b01484:
+
+    # "{i}[b_name] is lying ready underneath her friend when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] лежит готовая под своей подругой, когда ты заполняешь вагину [r_name] теплой спермой."
+
+# game/day37.rpy:1580
+translate russian day37_r_b_sex_hard_ac9c5d61:
+
+    # "{i}Grinning, [r_name] contracts her vagina to force out your cum, causing it to drip onto [b_name]'s face."
+    "{i}[r_name] начинает сжимать мышцы своего влагалища, чтобы твоя сперма кпала на лицо [b_name]."
+
+# game/day37.rpy:1581
+translate russian day37_r_b_sex_hard_b0622cf5:
+
+    # p "Clean that pussy up, [b_name]."
+    p "Вылижи эту киску, [b_name]."
+
+# game/day37.rpy:1587
+translate russian day37_r_b_sex_hard_535d6088:
+
+    # "{i}Reluctantly, [b_name] bows her head towards [r_name]'s pussy and begins to drink your cum from it."
+    "{i}Послушная [b_name] касается губами киски [r_name] и начинает пить твоё семя из неё."
+
+# game/day37.rpy:1603
+translate russian day37_r_b_sex_hard_7aa4b920:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger sister's back with warm seed."
+    "{i}[b_name] уже готова, когда ты вынимаешь и покрываешь теплой спермой спину своей младшей сестры."
+
+# game/day37.rpy:1605
+translate russian day37_r_b_sex_hard_a2822f5d:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger friend's back with warm seed."
+    "{i}[b_name] уже готова, когда ты вынимаешь и покрываешь теплой спермой спину своей младшей подруги."
+
+# game/day37.rpy:1610
+translate russian day37_r_b_sex_hard_fdc20f93:
+
+    # "{i}[r_name] lies on her stomach, a blissful smile gracing her face, while [b_name] scoops up your cum with her fingers from her back and swallows it all."
+    "{i}[r_name] лежит на животе, улыбаясь, пока [b_name] пальцами собирает с её спины твою сперму и слизывает её."
+
+# game/day37.rpy:1626
+translate russian day37_r_b_sex_hard_2a2f76f1:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older sister's face with a fountain of cum."
+    "{i}Чтобы сделать все легче для [b_name], ты вынимаешь из [r_name] и кончаешь на лицо своей старшей сестры."
+
+# game/day37.rpy:1628
+translate russian day37_r_b_sex_hard_7c509ab8:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older friend's face with a fountain of cum."
+    "{i}Чтобы сделать все легче для [b_name], ты вынимаешь из [r_name] и кончаешь на лицо своей старшей подруги."
+
+# game/day37.rpy:1629
+translate russian day37_r_b_sex_hard_e88f8e64:
+
+    # "{i}A lot of semen ends up in her open mouth, the rest she scoops up with her fingers and licks them clean."
+    "{i}Большая часть спермы попадает ей в рот, остальное она собирает пальцами и слизывает."
+
+# game/day37.rpy:1639
+translate russian day37_r_b_sex_hard_d269f040:
+
+    # "{i}Behaving like a good little slut, [b_name] grabs your cock and licks the remaining droplets of cum from the tip."
+    "{i}Как хорошая маленькая шлюшка, [b_name] берет твой член и начинает слизывать последние капли с его головки."
+
+# game/day37.rpy:1640
+translate russian day37_r_b_sex_hard_27d7082e:
+
+    # p "That's my girl."
+    p "Моя девочка."
+
+# game/day37.rpy:1648
+translate russian day37_r_b_sex_hard_2f1e1be1:
+
+    # "{i}Thoroughly satisfied, you take both girls into your arms and pull them close towards you."
+    "{i}Довольный, ты обнимаешь двух девушек и крепко прижимаешь их к себе."
+
+# game/day37.rpy:1650
+translate russian day37_r_b_sex_hard_5ae801e3:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older sister's sexual performance."
+    "{i}[b_name] немного скованная в начале, но расслабляется, когда [r_name] начинает нахваливать свою старшую сестру."
+
+# game/day37.rpy:1652
+translate russian day37_r_b_sex_hard_01154c56:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older friend's sexual performance."
+    "{i}[b_name] немного скованная в начале, но расслабляется, когда [r_name] начинает нахваливать свою старшую подругу."
+
+# game/day37.rpy:1653
+translate russian day37_r_b_sex_hard_c88d4cdc:
+
+    # p "You were both great, girls, everything a man can dream of."
+    p "Вы обе были замечательны, девочки, я мог только мечтать о таком."
+

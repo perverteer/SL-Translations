@@ -5738,4 +5738,293 @@ translate russian strings:
 
     # game/day36.rpy:835
     old "Interrupt her"
-    new "Прервать ее"
+    new "Прервать ее"# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day36.rpy:1510
+translate russian day36_l_blowjob_304be16a:
+
+    # l "Don't go, [p_name]."
+    l "Не уходи, [p_name]."
+
+# game/day36.rpy:1511
+translate russian day36_l_blowjob_4cb7cb3b:
+
+    # l "I don't want to be lllonely..."
+    l "Я не хоччу остаться однааа..."
+
+# game/day36.rpy:1516
+translate russian day36_l_blowjob_468ca890:
+
+    # "{i}Without ceremony, [l_name] drops her dress to the floor, exposing her naked body."
+    "{i}Не церемонясь, [l_name] скидывает свое платье на пол и остается полностью голая."
+
+# game/day36.rpy:1517
+translate russian day36_l_blowjob_21117e0e:
+
+    # l "Come on... you too!"
+    l "Ну же... и ты!"
+
+# game/day36.rpy:1518
+translate russian day36_l_blowjob_9b4a300b:
+
+    # "{i}[l_name]'s drunkenness surely has made her less reserved, but the eagerness is genuine at the same time."
+    "{i}Алкоголь сделал [l_name] более уверенной."
+
+# game/day36.rpy:1521
+translate russian day36_l_blowjob_40e1009f:
+
+    # "{i}As your sister lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Когда твоя сестра ложится с тобой, она трогает твою кожу и смотрит на тебя с ожиданием."
+
+# game/day36.rpy:1523
+translate russian day36_l_blowjob_23775a35:
+
+    # "{i}As your friend lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Когда твоя подруга ложится с тобой, она трогает твою кожу и смотрит на тебя с ожиданием."
+
+# game/day36.rpy:1524
+translate russian day36_l_blowjob_ac4d6993:
+
+    # l "I'm not ready to sleep..."
+    l "Я не хочу спать..."
+
+# game/day36.rpy:1525
+translate russian day36_l_blowjob_1249acbe:
+
+    # p "Me neither."
+    p "И я."
+
+# game/day36.rpy:1530
+translate russian day36_l_blowjob_7f7cb4c9:
+
+    # "{i}Saying nothing further, [l_name]'s hand wraps around your growing cock, her fingertips trailing the pulsing veins."
+    "{i}Больше ничего не говоря, [l_name] обхватывает руками твой растущий член и проводит подушечками пальцев по пульсирующим венам."
+
+# game/day36.rpy:1531
+translate russian day36_l_blowjob_2bc673f7:
+
+    # "{i}Her touch alone is enough to make you rock-hard, and you bury your head in her breasts in eager anticipation."
+    "{i}Её прикосновений достаточно, чтобы сделать твой член полностью твердым, и ты зарываешь свое лицо в её груди."
+
+# game/day36.rpy:1533
+translate russian day36_l_blowjob_fc8508ce:
+
+    # "{i}At that point, [l_name] does something unexpected by positioning her body so that her head is very near your dick."
+    "{i}В этот момент [l_name] делает неожиданное движение, и её голова оказывается очень близко к твоему члену."
+
+# game/day36.rpy:1534
+translate russian day36_l_blowjob_23992067:
+
+    # l "Is it better when I use my mouth instead of my hands?"
+    l "Может мне лучше использовать мой рот?"
+
+# game/day36.rpy:1535
+translate russian day36_l_blowjob_c0fae0d5:
+
+    # "{i}[l_name] speech is still slightly slurred, but the sexual energy has given her more determination than before."
+    "{i}[l_name] все еще говорит развязно, но её сексуальная энергия стала еще сильнее."
+
+# game/day36.rpy:1536
+translate russian day36_l_blowjob_c5250ec4:
+
+    # p "Yes..."
+    p "Да."
+
+# game/day36.rpy:1537
+translate russian day36_l_blowjob_d72fb300:
+
+    # l "I'd really like to try."
+    l "Я очень хочу попробовать."
+
+# game/day36.rpy:1543
+translate russian day36_l_blowjob_4b4f4590:
+
+    # "{i}Not waiting on further encouragement, [l_name] prods your glans with the tip of her tongue."
+    "{i}Не дожидаясь ответа, [l_name] проводит языком по головке твоего члена."
+
+# game/day36.rpy:1544
+translate russian day36_l_blowjob_4160e029:
+
+    # "{i}She then proceeds to lick the entire head, firing all the nerve endings and making you gasp under her control."
+    "{i}Далее она проводит языком по всей длине, пробуждая все нервные окончания и заставляя тебя вздохнуть."
+
+# game/day36.rpy:1545
+translate russian day36_l_blowjob_7bf00fe8:
+
+    # "{i}You think you could cum from that stimulation alone, but [l_name] is already opening her mouth to invite your throbbing cock inside."
+    "{i}Ты думаешь, что можешь кончить только от этого, но [l_name] уже открывает рот, чтобы засунуть в него член."
+
+# game/day36.rpy:1551
+translate russian day36_l_blowjob_70dc081f:
+
+    # "{i}The feeling of her soft lips wrapping around your hard cock is amazing, as are the motions of her tongue over the head of your cock."
+    "{i}Чувства её мягких губ вокруг твоего члена и её языка на его головке просто офигенны."
+
+# game/day36.rpy:1552
+translate russian day36_l_blowjob_14a1e70d:
+
+    # "{i}[l_name] is clearly inexperienced, and when she starts to suck you properly, she has trouble controlling her gag reflex."
+    "{i}[l_name] явно не имеет опыта, и когда она начинает сосать, ей становится трудно контролировать рвотный рефлекс."
+
+# game/day36.rpy:1553
+translate russian day36_l_blowjob_d57a8d96:
+
+    # p "You're doing great baby!"
+    p "Ты все делаешь замечательно, детка!"
+
+# game/day36.rpy:1555
+translate russian day36_l_blowjob_7b5ec7da:
+
+    # "{i}Despite her teeth brushing against your sensitive member from time to time, [l_name]'s blowjob is very pleasurable."
+    "{i}Несмотря на то, что время от времени её зубы задевают твоего чувствительного дружка, минет от [l_name] очень приятен."
+
+# game/day36.rpy:1556
+translate russian day36_l_blowjob_f109dff8:
+
+    # "{i}The feeling of training an inexperienced mouth more than makes up for the occasional clumsy manoeuver."
+    "{i}Ощущение от обучения неопытного рта с лихвой компенсирует случайные неуклюжие маневры."
+
+# game/day36.rpy:1561
+translate russian day36_l_blowjob_625c9227:
+
+    # "{i}A little exhausted, [l_name] pauses her efforts."
+    "{i}Немного уставшая, [l_name] останавливается."
+
+# game/day36.rpy:1562
+translate russian day36_l_blowjob_d73077d3:
+
+    # l "Am I doing okay?"
+    l "Я все делаю хорошо?"
+
+# game/day36.rpy:1563
+translate russian day36_l_blowjob_64e16b30:
+
+    # p "Quite."
+    p "Достаточно хорошо."
+
+# game/day36.rpy:1564
+translate russian day36_l_blowjob_45ff7505:
+
+    # l "I'm not hurting you?"
+    l "Тебе не больно?"
+
+# game/day36.rpy:1565
+translate russian day36_l_blowjob_9e9e52ef:
+
+    # p "No, you're not, you're doing great, trust me."
+    p "Нет, все хорошо, доверься мне."
+
+# game/day36.rpy:1566
+translate russian day36_l_blowjob_b891e4dc:
+
+    # p "Just keep it covered in saliva and be wary of your teeth."
+    p "Просто покрывай его слюнями и будь аккуратне с зубами."
+
+# game/day36.rpy:1567
+translate russian day36_l_blowjob_6067bdda:
+
+    # l "I will."
+    l "Хорошо."
+
+# game/day36.rpy:1568
+translate russian day36_l_blowjob_183c34cd:
+
+    # l "Will you warn me when you're about to cum?"
+    l "Ты скажешь мне, когда будешь кончать?"
+
+# game/day36.rpy:1569
+translate russian day36_l_blowjob_d8a3ffd9:
+
+    # p "Of course."
+    p "Конечно."
+
+# game/day36.rpy:1574
+translate russian day36_l_blowjob_de583bdb:
+
+    # "{i}With renewed energy, [l_name] goes down on you, feeling confident enough to massage your balls with her other hand."
+    "{i}Немного отдохнув, [l_name] возвращается вниз, чувствуя уверенность и начиная трогать твои яйца другой рукой."
+
+# game/day36.rpy:1575
+translate russian day36_l_blowjob_2f7ca07a:
+
+    # "{i}Her unsure glances become less frequent as she fully focuses on blowing you in a rhythm that doesn't make you last long."
+    "{i}Она полностью сфокусирована на сосании в ритме, который заставит тебя кончить максимально быстро."
+
+# game/day36.rpy:1576
+translate russian day36_l_blowjob_d0096822:
+
+    # p "I'm nearly there baby."
+    p "Почти, детка."
+
+# game/day36.rpy:1577
+translate russian day36_l_blowjob_d887ba44:
+
+    # "{i}[l_name] smiles and keeps sucking you until you attempt to push her away, but she doesn't let you."
+    "{i}[l_name] улыбается и продолжает сосать, пока ты не пытаешься её оттолкнуть, но она не дает тебе это сделать."
+
+# game/day36.rpy:1578
+translate russian day36_l_blowjob_c1b9bbcf:
+
+    # p "I'm going to cum, [l_name]!"
+    p "Я сейчас кончу, [l_name]!"
+
+# game/day36.rpy:1579
+translate russian day36_l_blowjob_690af96d:
+
+    # p "You might want to... aaaah!"
+    p "Ты хочешь... аааааа!"
+
+# game/day36.rpy:1583
+translate russian day36_l_blowjob_ade7c46f:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your sister looks determined and wants to receive every last drop of warm cum."
+    "{i}Беспомощный, ты кончаешь в рот [l_name], твоя сестра выглядит уверенной и хочет получить всю твою теплую сперму."
+
+# game/day36.rpy:1585
+translate russian day36_l_blowjob_46f700e1:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your friend looks determined and wants to receive every last drop of warm cum."
+    "{i}Беспомощный, ты кончаешь в рот [l_name], твоя подруга выглядит уверенной и хочет получить всю твою теплую сперму."
+
+# game/day36.rpy:1586
+translate russian day36_l_blowjob_a4734eca:
+
+    # "{i}[l_name] treats your cock to a couple of last licks and then bravely swallows your entire load."
+    "{i}[l_name] еще несколько раз облизывает твой член и храбро все проглатывает."
+
+# game/day36.rpy:1587
+translate russian day36_l_blowjob_2a363f04:
+
+    # p "Why did you do that?"
+    p "Почему ты сделала это?"
+
+# game/day36.rpy:1588
+translate russian day36_l_blowjob_092822c9:
+
+    # p "You asked me to warn you?"
+    p "Попросила меня предупредить?"
+
+# game/day36.rpy:1589
+translate russian day36_l_blowjob_abd3af6f:
+
+    # l "Ssshh... No rules..."
+    l "Тсссс... никаких правил..."
+
+# game/day36.rpy:1595
+translate russian day36_l_blowjob_22bb8206:
+
+    # "{i}While you're still enjoying the last waves of your orgasm, [l_name] moves to sit on your leg and keeps you firmly in your place."
+    "{i}Пока ты сидишь и отходишь от оргазма, [l_name] садится на твою ногу и крепко тебя держит."
+
+# game/day36.rpy:1596
+translate russian day36_l_blowjob_30516eca:
+
+    # "{i}The moistness of her pussy is clearly noticeable on your bare skin and she starts making wet trails on your leg as she rubs herself on your leg."
+    "{i}Ты чувствуешь, как взмокла её киска и как она оставляет следы на твоей ноге, пока она обтирается об тебя."
+
+# game/day36.rpy:1597
+translate russian day36_l_blowjob_4019def0:
+
+    # l "I'm just your little ssslut."
+    l "Я твоя маленькая шлюшшшка."
+

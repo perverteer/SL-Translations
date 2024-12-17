@@ -3618,7 +3618,7 @@ translate russian day10_al_fucking_a14c71c2:
 translate russian day10_al_fucking_fb330df7:
 
     # al "*Gasp* Harder. Fuck. Me. Harder."
-    уже "*Gasp* Harder Fuck Me Harder"
+    al "*Gasp* Harder Fuck Me Harder"
 
 # game/day10.rpy:972
 translate russian day10_al_fucking_9bf8a862:
@@ -3642,4 +3642,234 @@ translate russian day10_al_sex_post_032b6d19:
 translate russian day10_discreet_session_198a85c2:
 
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
-    женщина "Не проблема, сэр Мы уничтожим этот документ вместе с результатами вашего теста От имени компании я хотел бы пожелать вам приятного дня."
+    woman "Не проблема, сэр Мы уничтожим этот документ вместе с результатами вашего теста От имени компании я хотел бы пожелать вам приятного дня."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day10.rpy:337
+translate russian day10_discreet_e184130a:
+
+    # "{i}You dress yourself while [m_name] leaves the room."
+    "{i}Ты одеваешься, пока [m_name] уходит из комнаты."
+
+# game/day10.rpy:341
+translate russian day10_discreet_afb0d82f:
+
+    # p "{i}(That was some extremely weird shit...)"
+    p "{i}(Это было пиздецки странное дерьмо...)"
+
+# game/day10.rpy:342
+translate russian day10_discreet_61e3e5ba:
+
+    # woman "I trust you enjoyed your first session Mr. Holmes? Would you like to schedule another session?"
+    woman "Надеюсь, вам понравилось ваше первое занятие, мистер Холмс? Хотите запланировать еще одно?"
+
+# game/day10.rpy:346
+translate russian day10_discreet_fd1037f2:
+
+    # p "Yes, it was quite invigorating."
+    p "Да, это было очень воодушевляюще."
+
+# game/day10.rpy:347
+translate russian day10_discreet_6995dc48:
+
+    # woman "Good, I can fit you in in four days."
+    woman "Хорошо. Я могу установить встречу через четыре дня."
+
+# game/day10.rpy:348
+translate russian day10_discreet_480fea4d:
+
+    # p "Sounds good to me."
+    p "Хорошо."
+
+# game/day10.rpy:349
+translate russian day10_discreet_7a1764cd:
+
+    # woman "All right then. We'll see you in four days. Have a nice day."
+    woman "Готово. Увидимся через четыре дня. Хорошего вам вечера."
+
+# game/day10.rpy:350
+translate russian day10_discreet_b8e3e19c:
+
+    # p "Thank you!"
+    p "Спасибо!"
+
+# game/day10.rpy:353
+translate russian day10_discreet_e4fb02e1:
+
+    # p "No, this is not for me."
+    p "Нет, это не для меня."
+
+# game/day10.rpy:354
+translate russian day10_discreet_61907235:
+
+    # woman "We're very sorry to hear that. Shall I permanently remove your name from our client list?"
+    woman "Нам очень жаль это слышать. Мне навсегда удалить ваше имя из нашего списка клиентов?"
+
+# game/day10.rpy:355
+translate russian day10_discreet_0341c077:
+
+    # p "Yes please."
+    p "Да, пожалуйста."
+
+# game/day10.rpy:356
+translate russian day10_discreet_7939f2b4:
+
+    # woman "Done. Thank you for your support and have a nice day."
+    woman "Готово. Спасибо за обращение. Хорошего вам дня."
+
+# game/day10.rpy:357
+translate russian day10_discreet_43e8339b:
+
+    # p "Goodbye."
+    p "Досвидания."
+
+# game/day10.rpy:360
+translate russian day10_discreet_2f277000:
+
+    # p "This is not for me. Sorry."
+    p "Это не по мне, извините."
+
+# game/day10.rpy:361
+translate russian day10_discreet_2a9378d6:
+
+    # m "That's not a problem, but I have to ask you to leave. My assistant will remove your name from the membership list after you leave our premises."
+    m "Это не проблема, но я прошу вас уйти. Моя помощница удалит ваше имя из списка наших клиентов после того, как вы покинете нашу территорию."
+
+# game/day10.rpy:362
+translate russian day10_discreet_1cb6fa76:
+
+    # m "Goodbye."
+    m "Досвидания."
+
+# game/day10.rpy:363
+translate russian day10_discreet_3d15a9f2:
+
+    # p "Bye."
+    p "Пока."
+
+# game/day10.rpy:364
+translate russian day10_discreet_c9cf8db1:
+
+    # p "{i}(Let's leave before this turns into some freak show!)"
+    p "{i}(Давай уйдем, пока это не превратилось в какое-нибудь шоу уродов!)"
+
+# game/day10.rpy:368
+translate russian day10_discreet_bbc0cc3a:
+
+    # p "This is all a mistake. [m_name], it's me!"
+    p "Это все ошибка. [m_name], это я!"
+
+# game/day10.rpy:370
+translate russian day10_discreet_c8749287:
+
+    # p "I wanted to know where you worked. I'm so sorry!"
+    p "Я хотел узнать, где ты работаешь. Извини!"
+
+# game/day10.rpy:371
+translate russian day10_discreet_78b7c6c3:
+
+    # m "WHAT THE FUCK DO YOU THINK YOU'RE DOING HERE?!"
+    m "КАКОГО ХЕЯ ТЫ, БЛЯТЬ, ДЕЛАЕШЬ ЗДЕСЬ?!"
+
+# game/day10.rpy:372
+translate russian day10_discreet_7fb98cef:
+
+    # m "You will leave this building right away or I will have you forcibly removed."
+    m "Ты покинешь это здание прямо сейчас, иначе я прикажу выгнать тебя силой."
+
+# game/day10.rpy:373
+translate russian day10_discreet_c18f3955:
+
+    # p "But..."
+    p "Но..."
+
+# game/day10.rpy:374
+translate russian day10_discreet_dc553b0a:
+
+    # m "NO BUTS, BE GONE!"
+    m "НИКАКИХ НО, ВАЛИ!"
+
+# game/day10.rpy:379
+translate russian day10_discreet_797f4151:
+
+    # p "I'm sorry, I cannot sign this contract."
+    p "Извините, я не могу подписать этот контракт."
+
+# game/day10.rpy:380
+translate russian day10_discreet_198a85c2:
+
+    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
+    woman "Не проблема, сэр Мы уничтожим этот документ вместе с результатами вашего теста От имени компании я хотел бы пожелать вам приятного дня."
+
+# game/day10.rpy:381
+translate russian day10_discreet_43e8339b_1:
+
+    # p "Goodbye."
+    p "Досвидания."
+
+# game/day10.rpy:382
+translate russian day10_discreet_6551e53d:
+
+    # p "{i}(This is for the best. I'm not going to sign away my rights.)"
+    p "{i}(Это к лучшему. Я не собираюсь отказываться от своих прав.)"
+
+# game/day10.rpy:387
+translate russian day10_discreet_bc6d5a03:
+
+    # p "{i}(This is going to be intense. I'm pretty sure of it.)"
+    p "{i}(Это будет интенсивно. Я почти уверен в этом.)"
+
+# game/day10.rpy:388
+translate russian day10_discreet_a30ead20:
+
+    # p "{i}(She didn't even seem to recognize me. Wonder how long that will last...)"
+    p "{i}(Она, кажется, даже не узнала меня. Интересно, как долго это продлится...)"
+
+# game/day10.rpy:390
+translate russian day10_discreet_2c6e7ed4:
+
+    # p "{i}(Sure glad that's over.)"
+    p "{i}(Конечно, я рад, что все закончилось.)"
+
+# game/day10.rpy:392
+translate russian day10_discreet_278d3816:
+
+    # p "{i}(In retrospect, I'm not sure if I wanted to know all this about [m_name]...)"
+    p "{i}(В ретроспективе, впрочем, я не уверен, что хотел бы знать все это про [m_name]...)"
+
+# game/day10.rpy:394
+translate russian day10_discreet_9c6d08e3:
+
+    # p "{i}(I guess those family dinners aren't going to be the same from now on.)"
+    p "{i}(Думаю, эти семейные ужины отныне не будут такими, как раньше.)"
+
+# game/day10.rpy:396
+translate russian day10_discreet_77316bb0:
+
+    # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
+    p "{i}(Я полагаю, что эти совместные ужины отныне не будут такими, как раньше.)"
+
+# game/day10.rpy:832
+translate russian day10_p_room_evening_choices_0c4f3e87:
+
+    # al "Did you enjoy my pussy?"
+    al "Тебе понравилась моя киска?"
+
+# game/day10.rpy:833
+translate russian day10_p_room_evening_choices_5071a473:
+
+    # p "You have pleased me. But make no mistake, you're still a bad little cum slut and I will discipline you further."
+    p "Ты мне понравилась. Но не заблуждайся, ты все еще плохая маленькая шлюшка, и я буду наказывать тебя дальше."
+
+# game/day10.rpy:834
+translate russian day10_p_room_evening_choices_cb5f62b1:
+
+    # al "Yes master. Looking forward to it."
+    al "Да, господин. Жду этого с нетерпением."
+
+# game/day10.rpy:835
+translate russian day10_p_room_evening_choices_9bf8a862:
+
+    # "{i}With those words, Alina silently leaves your room."
+    "{i}С этими словами Алина тишайшим образом покидает твою комнату."
+

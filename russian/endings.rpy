@@ -3329,3 +3329,113 @@ translate russian misc_endings_8d6c4612_1:
 
     # "{i}After blowing up his marriage, Brody became a drifter and continued living his life in continued mediocrity."
     "{i}После разрушения своего брака Броуди стал бродягой и продолжал жить в заурядности."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/endings.rpy:1259
+translate russian endings_er_ca_sex_6c510ca4:
+
+    # "{i}Anonymous sources on the web found out that two local Taskforce bigwigs had been in a relationship with each other."
+    "{i}Анонимные источники в Интернете выяснили, что две местные шишки из группы были в отношениях друг с другом."
+
+# game/endings.rpy:1260
+translate russian endings_er_ca_sex_a6789c05:
+
+    # "{i}Those bigwigs were Erica Steel and Carl Woodman."
+    "{i}Эрика Сталина и Карл Вудман."
+
+# game/endings.rpy:1261
+translate russian endings_er_ca_sex_4b4fd9a9:
+
+    # "{i}In a multi-episode exposé an anonymous author slowly picked apart their relationship, leaving much of the country in suspense about the conclusion of the story."
+    "{i}В многосерийном разоблачении анонимный автор медленно разбирал их отношения, оставляя большую часть страны в напряжении по поводу завершения истории."
+
+# game/endings.rpy:1262
+translate russian endings_er_ca_sex_49d4378c:
+
+    # "{i}During their time at university, both Erica and Carl were a wild bunch, the author alleged, based on a mountain of evidence published alongside the stories."
+    "{i}Во время учебы в университете и Эрика, и Карл были той самой плохой компанией, утверждал автор, основываясь на горе доказательств, опубликованных вместе с историями."
+
+# game/endings.rpy:1264
+translate russian endings_er_ca_sex_f87d9266:
+
+    # "{i}They were both arrested for drunk driving multiple times, vandalized dorm rooms in an alcohol-fueled lover's spat and there were rumors of orgies happening late at night during weekends."
+    "{i}Их обоих несколько раз арестовывали за вождение в нетрезвом виде, вандализм в комнатах общежития в пьяной любовной ссоре, и ходили слухи об оргиях, происходящих поздно ночью в выходные дни."
+
+# game/endings.rpy:1265
+translate russian endings_er_ca_sex_a0e1079c:
+
+    # "{i}The final episode of the exposé sealed the fate of pious Erica and Carl and of the whole Moral Uplift movement entirely."
+    "{i}Заключительный эпизод разоблачения полностью определил судьбу благочестивой Эрики и Карла, а также всего движения за моральный подъем."
+
+# game/endings.rpy:1266
+translate russian endings_er_ca_sex_b9337a73:
+
+    # "{i}The last message from the anonymous author contained a short snippet of text and a movie."
+    "{i}Последнее сообщение от анонимного автора содержало короткий фрагмент текста и фильм."
+
+# game/endings.rpy:1272
+translate russian endings_er_ca_sex_ab836c37:
+
+    # "{i}The text was a listing of production details regarding a movie, the embedded media a lovingly remastered bootleg of that particular film."
+    "{i}Текст представлял собой список производственных деталей, касающихся фильма, встроенные носители-любовно ремастированный бутлег этого конкретного фильма."
+
+# game/endings.rpy:1273
+translate russian endings_er_ca_sex_f84eec51:
+
+    # "{i}'Hard as Steel', was its title."
+    "{i}Твердый, как сталь - таким было название."
+
+# game/endings.rpy:1274
+translate russian endings_er_ca_sex_2bc643ca:
+
+    # "{i}At the thirty-minute mark, two people appeared, who'd become Internet celebrities by then through the revealing reports."
+    "{i}На тридцатиминутной отметке появились два человека, которые к тому времени стали интернет-знаменитостями благодаря разоблачительным отчетам."
+
+# game/endings.rpy:1282
+translate russian endings_er_ca_sex_06a68640:
+
+    # "{i}Erica and Carl truly fucked their brains out on camera."
+    "{i}Эрика и Карл действительно трахнули друг друга на камеру."
+
+# game/endings.rpy:1283
+translate russian endings_er_ca_sex_1009e6fe:
+
+    # "{i}Nothing about the boundless lust displayed by those two people reminded anyone about the self-righteous tenets of the Moral Uplift Movement."
+    "{i}Ничто в безграничной похоти, проявленной этими двумя людьми, не напоминало никому о самодовольных принципах Движения за Моральный подъем."
+
+# game/endings.rpy:1285
+translate russian endings_er_ca_sex_1fe03eab:
+
+    # "{i}You all had a good laugh about Carl's heavy panting and grunting and Mrs. Steel's semen-covered body."
+    "{i}Вы все хорошо посмеялись над тяжелым пыхтением и хрюканьем Карла и покрытым спермой телом миссис Стил."
+
+# game/endings.rpy:1286
+translate russian endings_er_ca_sex_bce10e8d:
+
+    # "{i}That one pornographic movie started an avalanche of protests against the movement and undermined them terribly."
+    "{i}Этот порнографический фильм вызвал лавину протестов против движения и ужасно подорвал его репутацию."
+
+# game/endings.rpy:1287
+translate russian endings_er_ca_sex_2262e35a:
+
+    # "{i}Denouncing Erica and Carl's youthful transgressions and throwing them out of the organization didn't have the same effect as before."
+    "{i}Осуждение юношеских проступков Эрики и Карла и изгнание их из организации не возымели того же эффекта, что и раньше."
+
+# game/endings.rpy:1288
+translate russian endings_er_ca_sex_e7cd3f58:
+
+    # "{i}The organization never recovered, slowly lost its grip on society and eventually faded away in oblivion."
+    "{i}Организация так и не восстановилась, постепенно утратила свою власть над обществом и в конце концов канула в лету."
+
+# game/endings.rpy:1296
+translate russian endings_er_ca_sex_ec37b497:
+
+    # "{i}'Hard as Steel' wasn't forgotten and quickly spread on all the tube sites, watched by millions of people across the world."
+    "{i}'Твердый, как сталь' не был забыт и быстро распространился на всех сайтах с приставкой tube, которые смотрели миллионы людей по всему миру."
+
+# game/endings.rpy:1297
+translate russian endings_er_ca_sex_93f30e97:
+
+    # "{i}Despite becoming minor celebrities, Erica and Carl weren't very fond of the reveal and tried very hard to slink back out of the limelight, eventually succeeding."
+    "{i}Несмотря на то, что Эрика и Карл стали незначительными знаменитостями, им не очень нравилось это разоблачение, и они изо всех сил пытались выскользнуть обратно из центра внимания, в конце концов, им это удалось."
+

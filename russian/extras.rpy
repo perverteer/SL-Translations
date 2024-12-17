@@ -2314,8 +2314,7 @@ translate russian extra_scene_10_38c44e6d:
 translate russian extra_scene_10_a6bde3e8:
 
     # p "I didn't ask you to come by. Not that I mind. So I repeat the question, did you come to get fucked?"
-    p "Я не просил тебя заходить. Не то чтобы я возражал. Поэтому я повторяю вопрос: ты пришла, чтобы тебя трахнули?
-"
+    p "Я не просил тебя заходить. Не то чтобы я возражал. Поэтому я повторяю вопрос: ты пришла, чтобы тебя трахнули?"
 
 # game/extras.rpy:742
 translate russian extra_scene_10_850ef128:

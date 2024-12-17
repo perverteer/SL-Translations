@@ -5112,4 +5112,671 @@ translate russian day23_flashback_4362a162:
 translate russian day23_flashback_6c92b1a6:
 
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
-    "{i}Я сделал все это, взяв ее величественные соски в рот и уделив им внимание, которого они заслуживали, Саша начала тихо стонать и раздвинула ноги."
+    "{i}Я сделал все это, взяв ее величественные соски в рот и уделив им внимание, которого они заслуживали, Саша начала тихо стонать и раздвинула ноги."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day23.rpy:239
+translate russian day23_choices_05ffd1fb:
+
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(Пора отдать [l_name] её подарок, празднично упакованный и все такое.)"
+
+# game/day23.rpy:244
+translate russian day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "Привет!"
+
+# game/day23.rpy:245
+translate russian day23_choices_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day23.rpy:246
+translate russian day23_choices_d4d9144c:
+
+    # p "I've come bearing gifts!"
+    p "Я пришел с подарками!"
+
+# game/day23.rpy:248
+translate russian day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "Интересно, с какими!"
+
+# game/day23.rpy:250
+translate russian day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "Улыбаясь, твоя сестра медленно открывает коробку и достает её содержимое."
+
+# game/day23.rpy:252
+translate russian day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "Улыбаясь, твоя подруга медленно открывает коробку и достает её содержимое."
+
+# game/day23.rpy:257
+translate russian day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "Что за..."
+
+# game/day23.rpy:259
+translate russian day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "О нет, [p_name], ты не..."
+
+# game/day23.rpy:260
+translate russian day23_choices_e3441fb8:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Я же говорил, что подарю тебе такой, тебе разве не нравится?"
+
+# game/day23.rpy:261
+translate russian day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "Я... Я не знаю."
+
+# game/day23.rpy:262
+translate russian day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Мне кажется, это немного странный подарок."
+
+# game/day23.rpy:263
+translate russian day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Чушь, парочки всегда дарят друг другу секс-игрушки."
+
+# game/day23.rpy:264
+translate russian day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Дарят же?)"
+
+# game/day23.rpy:265
+translate russian day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Но это выглядит... так... слишком откровенно?"
+
+# game/day23.rpy:266
+translate russian day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Ты видела немного другие на экране. Этот отличается от них."
+
+# game/day23.rpy:268
+translate russian day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Хорошо... Спасибо."
+
+# game/day23.rpy:269
+translate russian day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Она звучит не особо уверенной.)"
+
+# game/day23.rpy:270
+translate russian day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "Без проблем. И, конечно, только тебе решать, будешь ты его использовать или нет. Я не обижусь, если он будет просто пылиться где-то."
+
+# game/day23.rpy:271
+translate russian day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Спасибо, я это учту."
+
+# game/day23.rpy:272
+translate russian day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Но если вдруг понадобится..."
+
+# game/day23.rpy:273
+translate russian day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "Хорошо, хорошо! Я поняла."
+
+# game/day23.rpy:274
+translate russian day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}Девушка улыбается, когда ты выходишь из её комнаты."
+
+# game/day23.rpy:279
+translate russian day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "Что за..."
+
+# game/day23.rpy:281
+translate russian day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Я же говорил, что подарю тебе такой, тебе разве не нравится?"
+
+# game/day23.rpy:282
+translate russian day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "Я... Я не знаю."
+
+# game/day23.rpy:283
+translate russian day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "Он огромный."
+
+# game/day23.rpy:284
+translate russian day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Ты будешь чувствовать все гораздо сильнее."
+
+# game/day23.rpy:286
+translate russian day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Извини, [p_name], но это слишком."
+
+# game/day23.rpy:287
+translate russian day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Я не просила тебя покупать это, но ты это сделал... Почему?"
+
+# game/day23.rpy:288
+translate russian day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Блин. Она не особо впечатлена.)"
+
+# game/day23.rpy:289
+translate russian day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "Я думал, тебе понравится, это хороший стимулятор, знаешь ли."
+
+# game/day23.rpy:290
+translate russian day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "Я не такая девушка, [p_name], уже пора было это понять."
+
+# game/day23.rpy:291
+translate russian day23_choices_59810b3a:
+
+    # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
+    p "Прости, [l_name], я не... Ладно, лучше оставлю тебя."
+
+# game/day23.rpy:292
+translate russian day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}Ты выходишь из её комнаты."
+
+# game/day23.rpy:299
+translate russian day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Ты тревожно ожидаешь вечера, и как только он наступает, надееваешь костюм, готовясь выйти с [m_name]."
+
+# game/day23.rpy:301
+translate russian day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Ты ждешь, пока наступит вечер, и разогреваешь что-то в микроволновке."
+
+# game/day23.rpy:1274
+translate russian day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "Здесь необычно, что думаешь?"
+
+# game/day23.rpy:1275
+translate russian day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Если ты про то, что тут очень тесно, то я согласен."
+
+# game/day23.rpy:1276
+translate russian day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "Ну не начинай. Давай повеселимся."
+
+# game/day23.rpy:1277
+translate russian day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ана кидает монетку, и на большом экране появляется фильм. Она жестами показывает тебе садиться."
+
+# game/day23.rpy:1279
+translate russian day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "Наслаждайся."
+
+# game/day23.rpy:1280
+translate russian day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Пока Ана раздевается, актеры успевают закончить сюжетную часть фильма, и девушка начинает седлать парня."
+
+# game/day23.rpy:1281
+translate russian day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Я знала, что тебе понравится. У тебя уже встал."
+
+# game/day23.rpy:1282
+translate russian day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "Тебе нравится, когда девушку трахают таким огромным?"
+
+# game/day23.rpy:1287
+translate russian day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}После того, как ты раздеваешься, Ана встает на колени и берет в руки твой эрегированный член."
+
+# game/day23.rpy:1288
+translate russian day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Мммммм, да, мне его не хватало."
+
+# game/day23.rpy:1289
+translate russian day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Просто поработай ртом, маленькая шлюха."
+
+# game/day23.rpy:1291
+translate russian day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ана убирает руки за спину и полностью заглатывает твой член. Она давится и заливает пол слюной."
+
+# game/day23.rpy:1292
+translate russian day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}Ты помогаешь ей наладить нужный ритм, прижимая к себе."
+
+# game/day23.rpy:1293
+translate russian day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Да, вот так."
+
+# game/day23.rpy:1294
+translate russian day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Ваш член все еще у нее во рту, вы останавливаетесь совсем немного, чтобы наполнить ее рот семенем, желая продлить ваши занятия любовью, вы хватаете ее за волосы и оттаскиваете от своей эрекции."
+
+# game/day23.rpy:1299
+translate russian day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Оседлай меня."
+
+# game/day23.rpy:1305
+translate russian day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}Девушка забирается на тебя, и твой член легко входит в её мокрую вагину. Наслаждаясь, она трогает твои яйца каждый раз, когда поднимается и опускается на твой ствол."
+
+# game/day23.rpy:1306
+translate russian day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Ммммммм, ты так глубоко."
+
+# game/day23.rpy:1307
+translate russian day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}Она бьется своей задницей об твои ноги и тычет грудью тебе в лицо, пока ты облизываеш её соски."
+
+# game/day23.rpy:1308
+translate russian day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "Хриплые стоны Аны заглушают звуки порнофильма."
+
+# game/day23.rpy:1310
+translate russian day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Желая контролировать её еще больше, ты поднимаешь Ану со своего члена и поворачиваешь её."
+
+# game/day23.rpy:1311
+translate russian day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Хочу увидеть твой зад."
+
+# game/day23.rpy:1312
+translate russian day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "Нет, нет, не останавливайся!"
+
+# game/day23.rpy:1313
+translate russian day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}Ты опускаешь её на свой член и, держа за талию, продолжаешь руководить её движениями. Каждый раз, когда твой член полностью проникает в её вагину, небольшое количество смазки вытекает из неё."
+
+# game/day23.rpy:1314
+translate russian day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "Да, да! Не останавливайся, [p_name]."
+
+# game/day23.rpy:1315
+translate russian day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "Тебе это нравится, маленькая шлюха?"
+
+# game/day23.rpy:1316
+translate russian day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "Очень! Мне очень нравится."
+
+# game/day23.rpy:1322
+translate russian day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Спустя некоторое время ты вынимаешь свой член и бросаешь Ану на пол."
+
+# game/day23.rpy:1324
+translate russian day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "А сейчас попробуй свою киску."
+
+# game/day23.rpy:1325
+translate russian day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Мммммм, да!"
+
+# game/day23.rpy:1331
+translate russian day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Я хочу твой зад."
+
+# game/day23.rpy:1332
+translate russian day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "Да! Я готова. Используй меня!"
+
+# game/day23.rpy:1338
+translate russian day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}Ты опускаешь её на кресло, и она раздвигает свои булки, чтобы ты увидел её маленькую дырочку."
+
+# game/day23.rpy:1339
+translate russian day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}Вопреки словам Аны, её попка точно не готова к твоему размеру. Когда ты начинаешь входить в неё, из её рта вырывается стон и она стискивает зубы."
+
+# game/day23.rpy:1340
+translate russian day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Ааааа... Это... Аааааах"
+
+# game/day23.rpy:1341
+translate russian day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Ты плюешь на её отверстие и входишь глубже."
+
+# game/day23.rpy:1342
+translate russian day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "У тебя такой большой..."
+
+# game/day23.rpy:1343
+translate russian day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}Ты держишь её за руки и тянешь к себе. Она очень узкая, хоть и расслабленная."
+
+# game/day23.rpy:1344
+translate russian day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Ааа, да. Трахай меня."
+
+# game/day23.rpy:1346
+translate russian day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Её задница подпрыгивает, пока ты трахаешь её. Каждый раз, когда ты входишь в неё, Ана утыкается лицом в кожаный стул, испытывая смесь боли и удовольствия."
+
+# game/day23.rpy:1352
+translate russian day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Спустя некоторое время ты вынимаешь свой член и бросаешь Ану на пол."
+
+# game/day23.rpy:1354
+translate russian day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "А сейчас попробуй свою попку."
+
+# game/day23.rpy:1355
+translate russian day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Мммммм, да!"
+
+# game/day23.rpy:1357
+translate russian day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Двумя руками ты берешь её за голову и заставляешь глубоко отсасывать. Она давится, и струи слюны капают ей на грудь."
+
+# game/day23.rpy:1366
+translate russian day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Ты чувствуешь приближение оргазма, опускаешь её на свои ляшки и начинаешь вставлять ей в задницу без остановки."
+
+# game/day23.rpy:1368
+translate russian day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Ты чувствуешь приближение оргазма, опускаешь её на свои ляшки и начинаешь вставлять ей в задницу без предупреждения."
+
+# game/day23.rpy:1369
+translate russian day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Ааааааааааааа!"
+
+# game/day23.rpy:1372
+translate russian day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}После недолгих, но мощных толчков ты кончаешь внутрь неё."
+
+# game/day23.rpy:1373
+translate russian day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ооооооооо дааа!!!"
+
+# game/day23.rpy:1374
+translate russian day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "Да! Да!"
+
+# game/day23.rpy:1375
+translate russian day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Ваш оргазм удлиняется благодаря стимуляции ее ануса Вы продолжаете трахать ее, пока не выпустите последние капли спермы внутрь нее и сперма не начнет вытекать из ее задницы."
+
+# game/day23.rpy:1392
+translate russian day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Ты чувствуешь приближение оргазма, опускаешь её на свой член. Она начинает прыгать на нём без остановки."
+
+# game/day23.rpy:1398
+translate russian day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}После недолгих, но мощных толчков ты кончаешь внутрь неё."
+
+# game/day23.rpy:1399
+translate russian day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ооооооооо дааа!!!"
+
+# game/day23.rpy:1400
+translate russian day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "Да! Да!"
+
+# game/day23.rpy:1401
+translate russian day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}Ты держишь ее на своем члене, пока не выпустишь последние капли спермы внутрь нее и сперма не начнет вытекать из ее влажной щели."
+
+# game/day23.rpy:1412
+translate russian day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Мокрые звуки исходят из её рта, пока ты ебешь её в глотку. Её заплаканные глаза смотрят на тебя с удовольствием."
+
+# game/day23.rpy:1419
+translate russian day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}После недолгих, но мощных толчков ты кончаешь ей на лицо."
+
+# game/day23.rpy:1420
+translate russian day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ооооооооо дааа!!!"
+
+# game/day23.rpy:1421
+translate russian day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Да! Обкончай меня всю!"
+
+# game/day23.rpy:1422
+translate russian day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Её лицо покрывается спермой, которую она слизывает с уголков своих губ."
+
+# game/day23.rpy:1432
+translate russian day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Мокрые звуки исходят из её рта, пока ты ебешь её в глотку. Её заплаканные глаза смотрят на тебя с удовольствием."
+
+# game/day23.rpy:1440
+translate russian day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}После недолгих, но мощных толчков ты вынимаешь и толкаешь Ану на пол. Из твоего члена начинает струиться сперма и покрывать всю её грудь и живот."
+
+# game/day23.rpy:1441
+translate russian day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ооооооооо дааа!!!"
+
+# game/day23.rpy:1442
+translate russian day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "Да! Обкончай меня всю!"
+
+# game/day23.rpy:1443
+translate russian day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ана дрочит себе с твоей спермой на своих пальцах. Ты покрываешь её тело остатками своего семени."
+
+# game/day23.rpy:1453
+translate russian day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}Девушка вытирается, пока на экране актрисе кончают в рот."
+
+# game/day23.rpy:1455
+translate russian day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "А ты знаешь, как сделать приятно девушке."
+
+# game/day23.rpy:1456
+translate russian day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Спасибо. Мне очень понравилось ходить в магазин с тобой."
+
+# game/day23.rpy:1457
+translate russian day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "Я заметила!"
+
+# game/day23.rpy:1459
+translate russian day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Вы оба одеваетесь и покидаете будку. Кассир смотрит на вас очень странно."
+
+# game/day23.rpy:1460
+translate russian day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "Как я понимаю, вам понравилось?"
+
+# game/day23.rpy:1461
+translate russian day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "Да, это очень возбуждало."
+
+# game/day23.rpy:1462
+translate russian day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Да, хороший фильм."
+

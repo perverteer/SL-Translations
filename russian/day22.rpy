@@ -4434,3 +4434,245 @@ translate russian day22_b_sex_85cd77ff:
 
     # "{i}[b_name] undresses, and you admire her body as she peels off the layers of clothing she's wearing. You motion her to lie down on the bed and slip out of your clothes as well."
     "{i}[b_name] раздевается, и вы любуетесь ее телом, пока она снимает с себя все слои одежды. Вы предлагаете ей лечь на кровать и выскользнуть из вашей одежды."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day22.rpy:1198
+translate russian day22_r_blowjob_93af388e:
+
+    # "{i}Your sister stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i} Твоя сестра встает и направляется к ближайшим кустам, подразнивая тебя взглядом. Ты решаешь пойти за ней."
+
+# game/day22.rpy:1200
+translate russian day22_r_blowjob_f85a22a3:
+
+    # "{i}[r_name] stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}[r_name] встает и направляется к ближайшим кустам, подразнивая тебя взглядом. Ты решаешь пойти за ней."
+
+# game/day22.rpy:1202
+translate russian day22_r_blowjob_626ba25f:
+
+    # r "This is the perfect spot. We can't be seen from here and still view our picnic spot, in case Alina and Ana come back."
+    r "Это отличное место. Здесь нас никто не увидит, но мы сможем заметить, если Алина и Ана вернутся."
+
+# game/day22.rpy:1203
+translate russian day22_r_blowjob_d09abdf2:
+
+    # r "I thought we could have some fun here. Out in the open..."
+    r "Я думаю... здесь мы можем немного повеселиться..."
+
+# game/day22.rpy:1204
+translate russian day22_r_blowjob_2c842202:
+
+    # "{i}She stands close to you and her hand creeps inside your pants while she stares intently into your eyes."
+    "Она двигается ближе к тебе, и ее рука проникает в твои штаны, пока ваши глаза пристально смотрят друг в друга."
+
+# game/day22.rpy:1205
+translate russian day22_r_blowjob_a2f1943d:
+
+    # r "I want to taste you, [p_name]."
+    r "Я хочу попробовать тебя на вкус, [p_name]."
+
+# game/day22.rpy:1206
+translate russian day22_r_blowjob_82d30f19:
+
+    # p "{i}(The girl wants cream after all.)"
+    p "{i}(Эта девочка все-таки хочет сливок...)"
+
+# game/day22.rpy:1208
+translate russian day22_r_blowjob_eb8e94d8:
+
+    # "{i}[r_name] drops to her knees before you while you lower your pants. Your erection nearly hits her face."
+    "{i}[r_name] падает на колени, приспуская твои штаны. Твой стояк легонько шлепает ее по лицу."
+
+# game/day22.rpy:1209
+translate russian day22_r_blowjob_f7599487:
+
+    # r "You don't waste time, do you?"
+    r "А ты не тратил времени зря, не так ли?"
+
+# game/day22.rpy:1215
+translate russian day22_r_blowjob_133a297e:
+
+    # "{i}The wind is softly caressing your cock, as your sister jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Ветер легко обдувает твой член, пока сестра надрачивает его. Она острым язычком лижет головку и медленно опускает член внутрь своего теплого рта."
+
+# game/day22.rpy:1217
+translate russian day22_r_blowjob_0fb9bc52:
+
+    # "{i}The wind is softly caressing your cock, as [r_name] jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Ветер легко обдувает твой член, пока [r_name] надрачивает его. Она острым язычком лижет головку и медленно опускает член внутрь своего теплого рта."
+
+# game/day22.rpy:1218
+translate russian day22_r_blowjob_e6147639:
+
+    # r "Mmmmm."
+    r "Мммммм"
+
+# game/day22.rpy:1219
+translate russian day22_r_blowjob_83866ffe:
+
+    # p "God, [r_name], your mouth feels so good."
+    p "Господи, [r_name], твой рот... он прекрасен..."
+
+# game/day22.rpy:1221
+translate russian day22_r_blowjob_6f1e2456:
+
+    # "{i}[r_name]'s head moves up and down, stimulating your shaft. When her tongue comes into play, licking the glans you cannot stifle a moan."
+    "{i}Голова [r_name] двигается вверх и вниз, делая твой член еще тверже. Когда ее язычок начинает играться с твоим стояком, ты не можешь сдержать стон."
+
+# game/day22.rpy:1222
+translate russian day22_r_blowjob_bea680ab:
+
+    # "{i}The sight of [r_name] eagerly servicing your cock and the possibility of Ana and Alina returning any minute, greatly enhances the pleasure you receive from the blowjob."
+    "{i}[r_name] старательно обслуживает твой член, и вероятность того, что Ана и Алина вернутся с минуты на минуту, во много раз усиливает твои ощущения от минета."
+
+# game/day22.rpy:1224
+translate russian day22_r_blowjob_013e40ec:
+
+    # "{i}Precum is already leaking into [r_name]'s mouth and she moans with approval. Her eyes are closed, completely focused on sucking the cum out of your hard dick."
+    "{i}Смазка начинает вытекать в теплый рот [r_name], и она одобрительно постанывает. Ее глаза закрыты, она полностью сосредоточена на высасывании спермы из твоего твердого члена."
+
+# game/day22.rpy:1225
+translate russian day22_r_blowjob_d4ca7b4e:
+
+    # p "Aaah, keep going, [r_name]!"
+    p "А-а-х... уже скоро, [r_name]!"
+
+# game/day22.rpy:1226
+translate russian day22_r_blowjob_f85a0094:
+
+    # r "Nearly there, baby?"
+    r "Почти, малыш?"
+
+# game/day22.rpy:1227
+translate russian day22_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "Д...д...да!"
+
+# game/day22.rpy:1228
+translate russian day22_r_blowjob_54922265:
+
+    # "{i}Drool is starting to leak from the corners of [r_name]'s mouth, making a wet mess on her chest. She slurps and sucks on your cock, her swirling tongue everywhere."
+    "{i}Слюна начинает вытекать из уголков рта [r_name], оставляя мокрый беспорядок на ее груди. Она хлюпает и сосет твой член, вращая языком повсюду."
+
+# game/day22.rpy:1229
+translate russian day22_r_blowjob_0f7ec75a:
+
+    # r "Cum in my mouth, baby, I want it all!"
+    r "Кончи в мой рот, малыш, я хочу все!"
+
+# game/day22.rpy:1232
+translate russian day22_r_blowjob_a06994e6:
+
+    # "{i}Her eyes widen when your cock discharges deep into her mouth. She has to swallow most of your semen to keep sucking on your dick."
+    "{i}Ее глаза расширяются, когда твой член глубже проникает в ее узкий рот. Она должна проглотить большую часть твоей спермы, чтобы продолжать сосать."
+
+# game/day22.rpy:1233
+translate russian day22_r_blowjob_9ad1f8d3:
+
+    # p "Aaaah, fuck, [r_name]! You're so good!"
+    p "А-а-а-хх... черт, [r_name]! Ты прекрасна!"
+
+# game/day22.rpy:1234
+translate russian day22_r_blowjob_b1f301f8:
+
+    # "{i}Her happy eyes look up at you as she sucks and licks the last remnants of your ejaculate from the length of your cock. She clearly doesn't want to waste your sperm."
+    "{i}Ее радостные глаза смотрят вверх на тебя, пока она высасывает, слизывает и глотает остатки твоей спермы. Она явно не хочет ее пролить."
+
+# game/day22.rpy:1239
+translate russian day22_r_blowjob_399cafdb:
+
+    # r "How was that?"
+    r "Как тебе?"
+
+# game/day22.rpy:1240
+translate russian day22_r_blowjob_8d271fce:
+
+    # p "You're such a dirty girl, I love it!"
+    p "Ты грязная девчонка, мне это нравится!"
+
+# game/day22.rpy:1241
+translate russian day22_r_blowjob_b561991c:
+
+    # r "Hehe, thanks!"
+    r "Хехе, спасибо!"
+
+# game/day22.rpy:1242
+translate russian day22_r_blowjob_2b629fcb:
+
+    # p "Shit! I think Alina and Ana are coming back."
+    p "Дерьмо! Кажется, Ана и Алина возвращаются."
+
+# game/day22.rpy:1250
+translate russian day22_r_blowjob_8d114cfb:
+
+    # r "Fuck."
+    r "Черт."
+
+# game/day22.rpy:1251
+translate russian day22_r_blowjob_2313a99a:
+
+    # p "We have to think of an excuse."
+    p "Нам нужно придумать оправдание."
+
+# game/day22.rpy:1252
+translate russian day22_r_blowjob_cc28141b:
+
+    # r "Do I look decent?"
+    r "Как я выгляжу?"
+
+# game/day22.rpy:1253
+translate russian day22_r_blowjob_bbb8d175:
+
+    # "{i}You remove a little bit of your cum from the corner of her mouth and kiss her."
+    "{i}Ты убираешь небольшую капельку своей спермы с уголка ее губы и целуешь ее."
+
+# game/day22.rpy:1254
+translate russian day22_r_blowjob_947316a5:
+
+    # p "You always look decent, even with cum on your face."
+    p "Ты всегда выглядишь прекрасно, особенно с моей спермой на лице."
+
+# game/day22.rpy:1256
+translate russian day22_r_blowjob_c48ca465:
+
+    # a "There they are!"
+    a "Они здесь!"
+
+# game/day22.rpy:1257
+translate russian day22_r_blowjob_56ede805:
+
+    # al "Where were you guys?"
+    al "Где вы были, ребята?"
+
+# game/day22.rpy:1258
+translate russian day22_r_blowjob_e24e5416:
+
+    # p "We were looking for the toilets."
+    p "Мы искали туалеты."
+
+# game/day22.rpy:1259
+translate russian day22_r_blowjob_f53ec246:
+
+    # a "They're completely the other way."
+    a "Они в другой стороне."
+
+# game/day22.rpy:1260
+translate russian day22_r_blowjob_d7f0b9d7:
+
+    # r "Shit, I told you so."
+    r "Черт, я ведь тебе говорила."
+
+# game/day22.rpy:1261
+translate russian day22_r_blowjob_1bf6814e:
+
+    # r "I have to go. Won't be long!"
+    r "Мне нужно идти. Постараюсь не задерживаться!"
+
+# game/day22.rpy:1262
+translate russian day22_r_blowjob_afd369af:
+
+    # p "{i}(All things considered, [r_name] is a pretty great actress.)"
+    p "{i}([r_name] хорошая актриса)"
+

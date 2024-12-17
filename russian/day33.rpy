@@ -5633,3 +5633,1487 @@ translate russian day33_2e61abc1:
 
     # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
     "{i}В этот момент ты полностью теряешь контроль над собой и усилием воли умудряешься схватить свой член и направить его в вертикальные груди Валентины и твоей подруги."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day33.rpy:1077
+translate russian day33_v_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Хотите ли вы включить водные виды спорта для этой сцены?"
+
+# game/day33.rpy:1081
+translate russian day33_v_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Водные виды спорта позволяют"
+
+# game/day33.rpy:1084
+translate russian day33_v_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Водные виды спорта отключены"
+
+# game/day33.rpy:1091
+translate russian day33_v_sex_da20bdb0:
+
+    # p "How could I refuse?"
+    p "Как я могу отказать?"
+
+# game/day33.rpy:1092
+translate russian day33_v_sex_67933b7d:
+
+    # va "Good answer."
+    va "Хороший ответ."
+
+# game/day33.rpy:1093
+translate russian day33_v_sex_f5f2a0d3:
+
+    # va "Why don't you come here and help me undress, [r_name]."
+    va "Почему бы тебе не помочь мне раздеться, [r_name]."
+
+# game/day33.rpy:1095
+translate russian day33_v_sex_cd5af312:
+
+    # "{i}Valentina is perfectly capable of removing the few pieces of clothing she still wears and uses the opportunity to give [r_name] a long kiss instead."
+    "{i}Валентина прекрасно справляется с вещами сама и пользуется возможность поцеловать [r_name]."
+
+# game/day33.rpy:1097
+translate russian day33_v_sex_df514626:
+
+    # "{i}Their kissing soon involves an interplay of tongues and eager exploration of the sensitive parts of either girl's body."
+    "{i}Их поцелуй скоро превращается в игру языков и изучение чувствителных зон."
+
+# game/day33.rpy:1098
+translate russian day33_v_sex_0b386afd:
+
+    # "{i}[r_name] seems to treat Valentina as a rather precious object at first, but as lust takes the upper hand, her touches become more self-assured and fueled by the greed you know all too well."
+    "{i}[r_name] поначалу кажется, что он относится к Валентине как к довольно ценному объекту, но по мере того, как похоть берет верх, ее прикосновения становятся все более самоуверенными и подпитываются жадностью, которую вы слишком хорошо знаете."
+
+# game/day33.rpy:1100
+translate russian day33_v_sex_700277af:
+
+    # va "Look at that, it seems your friend is ready for us too."
+    va "Посмотри, похоже, твой парень готов к нам присоединиться."
+
+# game/day33.rpy:1101
+translate russian day33_v_sex_f27e7783:
+
+    # va "Will you join us, [p_name]?"
+    va "Пойдешь к нам, [p_name]?"
+
+# game/day33.rpy:1102
+translate russian day33_v_sex_6267df42:
+
+    # va "Stick that hard cock in our mouths?"
+    va "Вставишь в наши рты этот твердый член?"
+
+# game/day33.rpy:1107
+translate russian day33_v_sex_cd767c86:
+
+    # "{i}After you present your erection, the girls start to play with it, their fingertips darting all over your shaft."
+    "{i}После того, как ты показываешь свой член, девушки начинают играть с ним и трогают всю его длину."
+
+# game/day33.rpy:1108
+translate russian day33_v_sex_50670608:
+
+    # "{i}[r_name] is the first to use her tongue, working on the head of your dick and proving to you she knows exactly where your sensitive spots are."
+    "{i}[r_name] первой использует свой язычок, обрабатывая головку твоего члена и доказывая тебе, что она точно знает, где находятся твои чувствительные точки."
+
+# game/day33.rpy:1110
+translate russian day33_v_sex_4b719145:
+
+    # "{i}A hint of jealously flashes across Valentinas face and she pulls [r_name] face towards her to kiss her violently."
+    "{i}На лице Валентины проскальзывает зависть, и она тянет к себе [r_name], чтобы поцеловать."
+
+# game/day33.rpy:1111
+translate russian day33_v_sex_50061cf3:
+
+    # "{i}From he first taste of your cock she gets from [r_name]'s lips and the smoldering look she gives, you gather that she obviously wants more."
+    "{i}С первого вкуса твоего члена, который она получает от губ [r_name], и ее тлеющего взгляда ты понимаешь, что она явно хочет большего."
+
+# game/day33.rpy:1113
+translate russian day33_v_sex_462e71be:
+
+    # "{i}Valentina kisses the tip of your cock and slowly slides her lips over the length of your shaft."
+    "{i}Валентина целует кончик твоего члена и обхватывает твой ствол губами."
+
+# game/day33.rpy:1114
+translate russian day33_v_sex_a0d01377:
+
+    # "{i}When she has sucked your cock once or twice, she holds it in her mouth, and you feel her tongue swirling over the exposed glans."
+    "{i}Обсосав его раз или два, она полностью его заглатывает, и ты чувствуешь, как она начинает работать языком."
+
+# game/day33.rpy:1115
+translate russian day33_v_sex_7eabf0ef:
+
+    # "{i}You're amazed by the level of accomplishment Valentina shows as a cocksucker at such a relatively young age."
+    "{i}Ты поражаешься умению Валентины сосать в таком возрасте."
+
+# game/day33.rpy:1116
+translate russian day33_v_sex_8e7a6284:
+
+    # "{i}The singer alternates between powerful stimulation of the entire shaft and playful sucking of the head, making the blowjob a little unpredictable and therefore very enjoyable."
+    "{i}Валентина то мощно стмулирует всю длину твоего ствола, то игриво сосет голову, так что минет становится немного непредсказуемым и офигенным."
+
+# game/day33.rpy:1118
+translate russian day33_v_sex_4ee9563f:
+
+    # "{i}Just at the moment Valentina has sucked you into a sexual trance she lets your cock slide out of her mouth and presents it to [r_name]."
+    "{i}Как только Валентина переносит тебя в сексуальный рай, она достает твой член из своего рта и передает его [r_name]."
+
+# game/day33.rpy:1119
+translate russian day33_v_sex_12aaf1cf:
+
+    # va "Your turn."
+    va "Твоя очередь."
+
+# game/day33.rpy:1125
+translate russian day33_v_sex_8e107db1:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your sister."
+    "{i}Как только [r_name] начинает сосать тебе, Валентина обращает внимание на твою сестру."
+
+# game/day33.rpy:1127
+translate russian day33_v_sex_291ff673:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your girlfriend."
+    "{i}Как только [r_name] начинает сосать тебе, Валентина обращает внимание на твою девушку."
+
+# game/day33.rpy:1132
+translate russian day33_v_sex_668456bc:
+
+    # "{i}[r_name] has to cease her work on your dick and moans all over your cock as Valentina begins to lick her pussy."
+    "{i}[r_name] приходится совмещать ласкание твоего члена и стоны из-за того, что Валентина начинает ей отлизывать."
+
+# game/day33.rpy:1134
+translate russian day33_v_sex_50ff9e62:
+
+    # "{i}You're treated to a glorious display of lesbian love while [r_name] still goes down on your throbbing cock."
+    "{i}Ты лицезреешь лесбийскую любовь, пока [r_name] все еще занята твоим членом."
+
+# game/day33.rpy:1135
+translate russian day33_v_sex_8f899fcd:
+
+    # "{i}Sex acts seem to bore Valentina easily, because she stops eating [r_name] out not long after she begun, pulling the girl from your cock as well."
+    "{i}Видимо, Валентине уже наскучил секс, так как она быстро закончила вылизывать [r_name] и оттянула девушку от твоего члена."
+
+# game/day33.rpy:1141
+translate russian day33_v_sex_363ef64d:
+
+    # va "Enough foreplay."
+    va "Достаточно прелюдий."
+
+# game/day33.rpy:1142
+translate russian day33_v_sex_f2ac1848:
+
+    # va "I want to get fucked."
+    va "Я хочу ебаться."
+
+# game/day33.rpy:1143
+translate russian day33_v_sex_61d24d5c:
+
+    # r "Uhm..."
+    r "Эм..."
+
+# game/day33.rpy:1144
+translate russian day33_v_sex_b56921dd:
+
+    # r "Could I leave you guys for a minute?"
+    r "Могу я вас оставить на минутку?"
+
+# game/day33.rpy:1145
+translate russian day33_v_sex_183de7fa:
+
+    # va "Why?"
+    va "Зачем?"
+
+# game/day33.rpy:1146
+translate russian day33_v_sex_3a38d98b:
+
+    # r "I have to sneak out and use the bathroom."
+    r "Мне нужно отойти в уборную."
+
+# game/day33.rpy:1147
+translate russian day33_v_sex_f5f89363:
+
+    # va "So?"
+    va "Ну так?"
+
+# game/day33.rpy:1148
+translate russian day33_v_sex_d26b31b0:
+
+    # r "I just really need to pee, be right back."
+    r "Мне очень нужно пописать, я быстро."
+
+# game/day33.rpy:1149
+translate russian day33_v_sex_ea179a45:
+
+    # va "You're not going anywhere."
+    va "Ты никуда не пойдешь."
+
+# game/day33.rpy:1151
+translate russian day33_v_sex_4e9c48fc:
+
+    # r "I can't hold it in much longer!"
+    r "Но я уже не могу!"
+
+# game/day33.rpy:1152
+translate russian day33_v_sex_a92ce422:
+
+    # va "Good."
+    va "Хорошо."
+
+# game/day33.rpy:1153
+translate russian day33_v_sex_c5265c11:
+
+    # "{i}Valentina lies down on the floor, and as you begin to understand what the singer intends, your cock twitches in anticipation."
+    "{i}Валентина ложится на пол, и когда ты понимаешь, что сейчас будет, твой член еще больше твердеет в предвкушении."
+
+# game/day33.rpy:1154
+translate russian day33_v_sex_f4366a2c:
+
+    # va "Come over here and let it all go."
+    va "Иди сюда и сделай это."
+
+# game/day33.rpy:1156
+translate russian day33_v_sex_43074f89:
+
+    # r "What?!"
+    r "Что?!"
+
+# game/day33.rpy:1157
+translate russian day33_v_sex_697ccfaa:
+
+    # r "Like pee on the floor?"
+    r "Пописать на пол?"
+
+# game/day33.rpy:1158
+translate russian day33_v_sex_82b1efc4:
+
+    # va "No, pee on me."
+    va "Нет, на меня."
+
+# game/day33.rpy:1159
+translate russian day33_v_sex_18d4a75b:
+
+    # va "Do I need to spell it out for you?"
+    va "Я правда должна это объяснять?"
+
+# game/day33.rpy:1160
+translate russian day33_v_sex_e63b215d:
+
+    # "{i}[r_name] glances at you, a little worried by the request and unsure what to do."
+    "{i}[r_name] смотрит на тебя, удивленная просьбой и не знающая, что делать."
+
+# game/day33.rpy:1166
+translate russian day33_v_sex_cadedab3:
+
+    # "{i}You slightly nod and [r_name] smiles, thrilled for what comes next."
+    "{i}Ты мягко киваешь и [r_name] улыбается тебе в ответ, напуганная тем, что должно произойти."
+
+# game/day33.rpy:1168
+translate russian day33_v_sex_e8879a21:
+
+    # "{i}You shake your head slightly, and [r_name] takes the cue."
+    "{i}Вы слегка покачиваете головой, и [имя_ру] принимает реплику."
+
+# game/day33.rpy:1170
+translate russian day33_v_sex_4963dd83:
+
+    # r "Sorry Valentina, but I'm just going to make a run for it really quick and find a bathroom."
+    r "Извините, Валентина, но я сейчас быстро сбегаю в уборную."
+
+# game/day33.rpy:1171
+translate russian day33_v_sex_cad4e5c5:
+
+    # va "Suit yourself."
+    va "Как хочешь."
+
+# game/day33.rpy:1172
+translate russian day33_v_sex_e09561fa:
+
+    # va "You do know I'll have your man all to myself?"
+    va "Ты знаешь, что твой мужчина останется только со мной?"
+
+# game/day33.rpy:1173
+translate russian day33_v_sex_a9b67a01:
+
+    # r "I'm not worried, as long as you leave a piece for me."
+    r "Я не против, пока и для меня останется кусочек."
+
+# game/day33.rpy:1174
+translate russian day33_v_sex_4da4447e:
+
+    # "{i}[r_name] slips into her dress again and slips out of the room barefoot."
+    "{i}[r_name] быстро надевает платье и босиком выходит из комнаты."
+
+# game/day33.rpy:1180
+translate russian day33_v_sex_c200323b:
+
+    # "{i}[r_name] positions her body over Valentina's and squats, a concentrated expression on her face."
+    "{i}[r_name] встает над Валентиной и присаживается с серьезным лицом."
+
+# game/day33.rpy:1181
+translate russian day33_v_sex_8c501186:
+
+    # "{i}Despite the urgency she felt earlier, it takes a while for it to come, Valentina strokes the thighs of your girl in delirious anticipation."
+    "{i}Несмотря на то, что она очень хотела минуту назад, ей требуется время, Валентина трогает ляжки твоей девушки в ожидании."
+
+# game/day33.rpy:1188
+translate russian day33_v_sex_f23fb9a9:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your sister's pussy."
+    "{i}Ты слышишь облегченный вздох и звук мочи, вытекающей из твоей сестры."
+
+# game/day33.rpy:1190
+translate russian day33_v_sex_9a4d25e2:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your girlfriend's pussy."
+    "{i}Ты слышишь облегченный вздох и звук мочи, вытекающей из твоей девушки."
+
+# game/day33.rpy:1191
+translate russian day33_v_sex_9621e813:
+
+    # "{i}The urine splashes onto Valentina's naked body, who closes her eyes and rubs the liquid all over her breasts and belly."
+    "{i}Жидкость течет на голое тело Валентины, которая закрывает глаза и размазывает её на грудь и живот."
+
+# game/day33.rpy:1192
+translate russian day33_v_sex_14c7df85:
+
+    # va "More!"
+    va "Еще!"
+
+# game/day33.rpy:1198
+translate russian day33_v_sex_9a45cbcc:
+
+    # "{i}[r_name] tries her best and delivers another gush of pee, this time the stream spatters into Valentina's open mouth and she drinks eagerly."
+    "{i}[r_name] старается и усиливает струю, на этот раз попадая в открытый рот Валентины, которая охотно пьет."
+
+# game/day33.rpy:1199
+translate russian day33_v_sex_0404ad17:
+
+    # "{i}At first, you thought [r_name] would be too weirded out by all of it, but she actually seems to relish in soiling her idol."
+    "{i}Сначала ты думал, что [r_name] будет слишком стремно, но на самом деле ей очень нравится писать на своего кумира."
+
+# game/day33.rpy:1201
+translate russian day33_v_sex_ebe86168:
+
+    # va "Mmmmm, that feels so good."
+    va "Мммммм, это так приятно."
+
+# game/day33.rpy:1205
+translate russian day33_v_sex_8ae5b91d:
+
+    # va "Oh, there's more?"
+    va "О, еще?"
+
+# game/day33.rpy:1210
+translate russian day33_v_sex_b3f5862b:
+
+    # "{i}A final stream of piss trickles from [r_name]'s vagina, streaming down Valentina's breasts, over her belly and finally stranding in the singer's pubic hair."
+    "{i}Финальная струя мочи вытекает из вагины [r_name], попадая на грудь Валентины, её живот и наконец на лобковые волосы."
+
+# game/day33.rpy:1211
+translate russian day33_v_sex_4ecb9db6:
+
+    # "{i}Valentina is now lying in a puddle of [r_name]'s piss, almost bathing in the warm liquid and wearing a content smile on her face."
+    "{i}Валентина сейчас лежит в луже мочи [r_name], почти купаясь в теплой жидкости и улыбаясь."
+
+# game/day33.rpy:1212
+translate russian day33_v_sex_b4e76810:
+
+    # va "Mmmm, now we can fuck."
+    va "Ммммм, теперь мы потрахаемся."
+
+# game/day33.rpy:1213
+translate russian day33_v_sex_1a75f8bd:
+
+    # va "And I'm sorry, [r_name], but I'm going first."
+    va "И извини, [r_name], я буду первая."
+
+# game/day33.rpy:1214
+translate russian day33_v_sex_f82db883:
+
+    # r "As long as you leave a piece for me."
+    r "Все хорошо, пока и для меня останется кусочек."
+
+# game/day33.rpy:1220
+translate russian day33_v_sex_b1dce4b3:
+
+    # va "Will you fuck me hard?"
+    va "Будешь ебать меня жестко?"
+
+# game/day33.rpy:1221
+translate russian day33_v_sex_5980f02a:
+
+    # va "I don't want you to treat me as some precious thing, some tender princess."
+    va "Со мной не нужно обращаться как с чем-то хрупким, я не принцесса."
+
+# game/day33.rpy:1222
+translate russian day33_v_sex_916469f9:
+
+    # p "Come here then."
+    p "Тогда подходи."
+
+# game/day33.rpy:1227
+translate russian day33_v_sex_66b7e5c5:
+
+    # "{i}You pull the singer closer and press the head of your erect cock against her fuck-hole."
+    "{i}Ты тянешь певицу к себе и прижимаешь головку своего эрегированного члена к её вагине."
+
+# game/day33.rpy:1228
+translate russian day33_v_sex_440312bf:
+
+    # va "Mmmm, you're eager."
+    va "Мммм, а ты нетерпиливый."
+
+# game/day33.rpy:1230
+translate russian day33_v_sex_461e6ed3:
+
+    # "{i}You were hoping [r_name] would join you in preparing Valentina, but she's waiting her turn, maybe a little shy all of a sudden."
+    "{i}Ты надеялся, что [r_name] присоединится к тебе с Валентиной, но она ждет своей очереди, возможно, немного стесняясь."
+
+# game/day33.rpy:1232
+translate russian day33_v_sex_3b0b3bf1:
+
+    # va "Quick, I want to feel you before your girlfriend comes back."
+    va "Быстрее, я хочу почувствоать тебя раньше, чем придет твоя девушка."
+
+# game/day33.rpy:1234
+translate russian day33_v_sex_e0594a98:
+
+    # "{i}Parting her lower lips with your tip, you ram your shaft inside her as soon as you've passed her heavenly entrance."
+    "{i}Раздвинув её половые губы своей головкой, ты вставляешь свой ствол в неё."
+
+# game/day33.rpy:1235
+translate russian day33_v_sex_afe18761:
+
+    # va "T-that's it!"
+    va "Оооо да!"
+
+# game/day33.rpy:1240
+translate russian day33_v_sex_da777b57:
+
+    # "{i}You're overcome by a desire to own her body completely, and your hands react by grabbing and kneading Valentina's breasts, leaving red marks on her skin."
+    "{i}У тебя появляется огромное желание контролировать все её тело, и ты хватаешь её за грудь, оставляя красные следы на коже."
+
+# game/day33.rpy:1241
+translate russian day33_v_sex_4ba1675f:
+
+    # "{i}Her arms behind her back, she moans and sighs as you alternately massage and pinch her nipples."
+    "{i}Её руки за её спиной, и она стонет и вздыхает, пока ты трогаешь её соски."
+
+# game/day33.rpy:1245
+translate russian day33_v_sex_cbcac673:
+
+    # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your sister mixed with Valentina's perfume."
+    "{i}Её тело все еще в моче [r_name], и ты чувствуешь запах своей сестры вперемешку с парфюмом Валентины."
+
+# game/day33.rpy:1247
+translate russian day33_v_sex_eefa7325:
+
+    # "{i}Her body is still slick with [r_name]'s piss, and you smell the musk of your girl mixed with Valentina's perfume."
+    "{i}Её тело все еще в моче [r_name], и ты чувствуешь запах своей девушки вперемешку с парфюмом Валентины."
+
+# game/day33.rpy:1249
+translate russian day33_v_sex_bfc84d23:
+
+    # "{i}[r_name] returns at that moment and is now looking at you in approval as you fuck her favorite singer."
+    "{i}[r_name] возвращается в этот же момент и смотрит на то, как ты трахаешь её любимую певицу."
+
+# game/day33.rpy:1251
+translate russian day33_v_sex_c10ca682:
+
+    # r "Is he giving you a good time, Valentina?"
+    r "Тебе нравится, Валентина?"
+
+# game/day33.rpy:1252
+translate russian day33_v_sex_ef12ecd0:
+
+    # va "T-t-he b-best!"
+    va "Д-д-да!"
+
+# game/day33.rpy:1258
+translate russian day33_v_sex_80d6fd38:
+
+    # "{i}You see your sister kneel before Valentina's cunt, and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Ты видишь, как твоя сестра встает на колени перед пиздой Валентины, и её язык вместе с твоим членом начинают стимулировать киску другой девушки."
+
+# game/day33.rpy:1260
+translate russian day33_v_sex_2afe7a86:
+
+    # "{i}You see your girlfriend kneel before Valentina's cunt and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Ты видишь, как твоя девушка встает на колени перед пиздой Валентины, и её язык вместе с твоим членом начинают стимулировать киску другой девушки."
+
+# game/day33.rpy:1261
+translate russian day33_v_sex_348a1b48:
+
+    # va "F-fuck yes!"
+    va "Да!"
+
+# game/day33.rpy:1262
+translate russian day33_v_sex_bf974413:
+
+    # va "K-keep d-doing that, [r_name]!"
+    va "П-продолжа-ай, [r_name]!"
+
+# game/day33.rpy:1269
+translate russian day33_v_sex_51ffaecb:
+
+    # "{i}Thanks to [r_name]'s caresses, some directly to her clitoris, Valentina is able to reach her climax."
+    "{i}Благодаря языку [r_name] Валентина уже близка к разрядке."
+
+# game/day33.rpy:1270
+translate russian day33_v_sex_e5d38be8:
+
+    # "{i}The girl thrusts her cunt violently in [r_name]'s face to maximize her pleasure, nearly making your cock slip out of her."
+    "{i}Девушка жестко прижимает свою киску к лицу [r_name], увеличивая удовольствие, почти заставляя твой член выскользнуть из неё."
+
+# game/day33.rpy:1271
+translate russian day33_v_sex_4ea9735d:
+
+    # va "Oh fuck [r_name], k-keeep doing that!"
+    va "Да, [r_name], п-продолжай!"
+
+# game/day33.rpy:1272
+translate russian day33_v_sex_dd1c3a17:
+
+    # "{i}A small grin appears on [r_name]'s face as she prolongs Valentina's orgasm with the deft licks of her tongue."
+    "{i}Небольшая ухмылка появляется на лице [r_name], когда она заставляет Валентину кончить с помощью своего языка."
+
+# game/day33.rpy:1273
+translate russian day33_v_sex_19f1857e:
+
+    # "{i}You hold the singer in your arms as she's unable to stand due to the convulsions currently wracking her body."
+    "{i}Ты держишь певицу в своих руках, так как она не может стоять из-за того, как трясется её тело."
+
+# game/day33.rpy:1274
+translate russian day33_v_sex_95ccc29e:
+
+    # "{i}Proud of what [r_name] accomplished, you develop an overwhelming desire to fuck her instead of Valentina."
+    "{i}Гордый тем, что сделала [r_name], у тебя появляется огромное желание трахать её, а не Валентину."
+
+# game/day33.rpy:1281
+translate russian day33_v_sex_56ca903e:
+
+    # "{i}The singer doesn't even notice when you pull out your cock and lets herself be helped to the sofa, where she gets to enjoy the last stages of her orgasm."
+    "{i}Певица даже не замечает, как ты вынимаешь свой член и укладываешь её на диван, где она наслаждается последними стадиями своего оргазма."
+
+# game/day33.rpy:1287
+translate russian day33_v_sex_d16e3da8:
+
+    # "{i}Your sister embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Твоя сестра подходит к тебе, и вы медленно целуетесь, а она киской прижимается к твоей ноге."
+
+# game/day33.rpy:1289
+translate russian day33_v_sex_5914c6b2:
+
+    # "{i}Your girlfriend embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Твоя девушка подходит к тебе, и вы медленно целуетесь, а она киской прижимается к твоей ноге."
+
+# game/day33.rpy:1291
+translate russian day33_v_sex_9a270917:
+
+    # p "That was some show you gave there."
+    p "Ты устроила что-то."
+
+# game/day33.rpy:1292
+translate russian day33_v_sex_abacabd1:
+
+    # r "You liked it?"
+    r "Тебе понравилось?"
+
+# game/day33.rpy:1293
+translate russian day33_v_sex_50da65e9:
+
+    # p "I sure did."
+    p "Конечно."
+
+# game/day33.rpy:1294
+translate russian day33_v_sex_b9d2aa00:
+
+    # p "Valentina too."
+    p "Валентине тоже."
+
+# game/day33.rpy:1295
+translate russian day33_v_sex_dcecbfef:
+
+    # r "Nice!"
+    r "Круто!"
+
+# game/day33.rpy:1296
+translate russian day33_v_sex_00f51342:
+
+    # p "I did have some trouble keeping it together though."
+    p "У меня были небольшие проблемы с этим."
+
+# game/day33.rpy:1297
+translate russian day33_v_sex_d18906e1:
+
+    # r "Don't worry about that now."
+    r "Можешь уже не волноваться об этом."
+
+# game/day33.rpy:1299
+translate russian day33_v_sex_003579aa:
+
+    # "{i}After you sit down on the couch, [r_name] climbs on your lap, and together you guide your cock inside her wet tunnel."
+    "{i}Ты садишься, и после этого [r_name] забирается на твои коленки, и вы вместе вставляете член в её тоннель."
+
+# game/day33.rpy:1300
+translate russian day33_v_sex_0e191745:
+
+    # r "Oooooh [p_name]!"
+    r "Ооооооох [p_name]!"
+
+# game/day33.rpy:1301
+translate russian day33_v_sex_61aef227:
+
+    # p "Can you go deeper, baby?"
+    p "Можешь глубже, детка?"
+
+# game/day33.rpy:1302
+translate russian day33_v_sex_f1daf558:
+
+    # r "I w-want to!"
+    r "Я х-хочу!"
+
+# game/day33.rpy:1303
+translate russian day33_v_sex_9338afcc:
+
+    # r "Oh god!"
+    r "О боже!"
+
+# game/day33.rpy:1304
+translate russian day33_v_sex_64f0ac46:
+
+    # "{i}Despite the frequency with which you've made love to [r_name], she still needs to adjust to your girth each time."
+    "{i}Несмотря на регулярность ваших занятий любовью, [r_name] все равно нужно привыкать к твоему размеру каждый раз."
+
+# game/day33.rpy:1305
+translate russian day33_v_sex_415e760c:
+
+    # "{i}The girl lowers herself slowly onto your cock, luxuriating in the feeling your shaft gives as it bores inside her, inch by inch."
+    "{i}Девушка опускается на твой член, наслаждаясь ощущением твоего члена внутри себя."
+
+# game/day33.rpy:1310
+translate russian day33_v_sex_377b5990:
+
+    # "{i}When she's at the root, [r_name] starts to move up and down faster and faster."
+    "{i}Когда она доходит до конца, [r_name] начинает двигаться вверх и вниз быстрее и быстрее."
+
+# game/day33.rpy:1311
+translate russian day33_v_sex_ed2f7f52:
+
+    # "{i}You want to touch her everywhere, but your hands linger on her buttocks, her delicious cheeks bouncing on the rhythm of your fucking."
+    "{i}Ты хочешь трогать её везде, но держишь руки на её заднице, её прекрасные булки подпрыгивают под ваш ритм."
+
+# game/day33.rpy:1313
+translate russian day33_v_sex_6e49843b:
+
+    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
+    "{i}Уставшая Валентина лежит на диване, устало смотрит на вас, хотя на секунду стоны [r_name] что-то зажгли в ней."
+
+# game/day33.rpy:1320
+translate russian day33_v_sex_8d36a3d4:
+
+    # "{i}The singer moves from the couch and disappears from view, you don't know what she's doing until you see [r_name]'s eyes grow wide."
+    "{i}Певица встает с дивана и уходит из вашего поля зрения, ты не знаешь, что она делает, пока [r_name] не округляет глаза."
+
+# game/day33.rpy:1321
+translate russian day33_v_sex_9aa71ced:
+
+    # r "Aaah!"
+    r "Ааааа!"
+
+# game/day33.rpy:1323
+translate russian day33_v_sex_644f6e44:
+
+    # va "Do you like my tongue up your ass, [r_name]?"
+    va "Тебе нравится мой язык в твоей заднице, [r_name]?"
+
+# game/day33.rpy:1324
+translate russian day33_v_sex_f976f546:
+
+    # p "{i}(Wow, she did that?)"
+    p "{i}(Ого, она сделала это?)"
+
+# game/day33.rpy:1325
+translate russian day33_v_sex_e2f54f04:
+
+    # r "Yes, yes I do!"
+    r "Да, да!"
+
+# game/day33.rpy:1326
+translate russian day33_v_sex_5a95b7b5:
+
+    # p "{i}(And she likes it, great!)"
+    p "{i}(И ей это нравится!)"
+
+# game/day33.rpy:1327
+translate russian day33_v_sex_a92ce422_1:
+
+    # va "Good."
+    va "Хорошо."
+
+# game/day33.rpy:1330
+translate russian day33_v_sex_1de39f50:
+
+    # "{i}You continue to fuck your sister while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Ты продолжаешь ебать свою сестру, пока мокрые звуки дают тебе понять, что Валентина то пробует задницу [r_name], то её киску."
+
+# game/day33.rpy:1332
+translate russian day33_v_sex_1df3bf98:
+
+    # "{i}You continue to fuck your girlfriend while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Ты продолжаешь ебать свою девушку, пока мокрые звуки дают тебе понять, что Валентина пробует то задницу [r_name], то её киску."
+
+# game/day33.rpy:1333
+translate russian day33_v_sex_2d5f1493:
+
+    # va "Mmmmm, you taste so good, [r_name]!"
+    va "Мммммм, а ты вкусная, [r_name]!"
+
+# game/day33.rpy:1334
+translate russian day33_v_sex_ebfc36d5:
+
+    # va "Are you [p_name]'s little anal slut?"
+    va "Ты маленькая анальная шлюшка [p_name], да?"
+
+# game/day33.rpy:1335
+translate russian day33_v_sex_365e911a:
+
+    # r "G-god..."
+    r "Б-боже..."
+
+# game/day33.rpy:1336
+translate russian day33_v_sex_3db8b2f1:
+
+    # r "D-don't stop!!!"
+    r "Не останавливайся!!!"
+
+# game/day33.rpy:1337
+translate russian day33_v_sex_197e5743:
+
+    # r "Y-yes! I'm his anal slut!"
+    r "Д-да! Я его анальная шлюха!"
+
+# game/day33.rpy:1339
+translate russian day33_v_sex_ec9a579e:
+
+    # "{i}[r_name] holds you in a tight embrace that feels a little painful in its tightness, but you don't care as the feeling of your dick plunging into her ribbed depths compensates more than enough."
+    "{i}[r_name] держит тебя очень крепко и даже делает немного больно тебе, но тебе плевать на это, так как удовольствие от её ребристого тоннеля затмевает всё."
+
+# game/day33.rpy:1340
+translate russian day33_v_sex_3ec55a3a:
+
+    # "{i}It's becoming harder and harder to hold off your orgasm, especially since Valentina has turned her attention to licking your balls and parts of your shaft that are exposed when you begin each thrust inside [r_name]'s pussy."
+    "{i}Становится все сложнее и сложнее сдерживать оргазм, особенно когда Валентина начинает лизать твои яйца и твой член, пока ты входишь в [r_name]."
+
+# game/day33.rpy:1347
+translate russian day33_v_sex_b57c5774:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Ты поднимаешь [r_name] со своего члена и встаешь с дивана, отодвигая голову Валентины."
+
+# game/day33.rpy:1348
+translate russian day33_v_sex_e1c2eb60:
+
+    # p "Ladies, can you both make me cum?"
+    p "Леди, вы можете заставить меня кончить?"
+
+# game/day33.rpy:1349
+translate russian day33_v_sex_84389455:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Я думаю, что мы просто можем Правильно [r_name]?"
+
+# game/day33.rpy:1354
+translate russian day33_v_sex_4741a1d0:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Девушки встают на колени перед тобой и берут твой член, начиная лизать и сосать по очереди."
+
+# game/day33.rpy:1355
+translate russian day33_v_sex_0e162753:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Ммммм, я могу чувствовать тебя, [r_name]!"
+
+# game/day33.rpy:1356
+translate russian day33_v_sex_902b0b61:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] просто смотрит на тебя, и её большие зеленые глаза хотят, чтоб ты кончил."
+
+# game/day33.rpy:1365
+translate russian day33_v_sex_6ea22416:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your sister."
+    "{i}В этот момент ты уже не можешь себя сдерживать и с усилием берешь свой член и наставляешь его на рот Валентины и своей сестры."
+
+# game/day33.rpy:1367
+translate russian day33_v_sex_8a7b3429:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
+    "{i}В этот момент ты уже не можешь себя сдерживать и с усилием берешь свой член и наставляешь его на рот Валентины и своей девушки."
+
+# game/day33.rpy:1368
+translate russian day33_v_sex_49da5a30:
+
+    # "{i}Thick strands of semen soon cover their faces, the cum that enters their mouths is swallowed eagerly by both girls."
+    "{i}Огромные струи спермы покрывают их лица, конча попадает им в рот, и они её сглатывают."
+
+# game/day33.rpy:1378
+translate russian day33_v_sex_b57c5774_1:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Ты поднимаешь [r_name] со своего члена и встаешь с дивана, отодвигая голову Валентины."
+
+# game/day33.rpy:1379
+translate russian day33_v_sex_e1c2eb60_1:
+
+    # p "Ladies, can you both make me cum?"
+    p "Леди, вы можете заставить меня кончить?"
+
+# game/day33.rpy:1380
+translate russian day33_v_sex_84389455_1:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Я думаю, что мы просто можем Правильно [r_name]?"
+
+# game/day33.rpy:1385
+translate russian day33_v_sex_4741a1d0_1:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Девушки встают на колени перед тобой и берут твой член, начиная лизать и сосать по очереди."
+
+# game/day33.rpy:1386
+translate russian day33_v_sex_0e162753_1:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Ммммм, я могу чувствовать тебя, [r_name]!"
+
+# game/day33.rpy:1387
+translate russian day33_v_sex_902b0b61_1:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] просто смотрит на тебя, и её большие зеленые глаза хотят, чтоб ты кончил."
+
+# game/day33.rpy:1396
+translate russian day33_v_sex_b2f23c99:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your sister."
+    "{i}В этот момент ты уже не можешь себя сдерживать и с усилием берешь свой член и наставляешь его на грудь Валентины и своей сестры."
+
+# game/day33.rpy:1398
+translate russian day33_v_sex_2e61abc1:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
+    "{i}В этот момент ты уже не можешь себя сдерживать и с усилием берешь свой член и наставляешь его на грудь Валентины и своей девушки."
+
+# game/day33.rpy:1399
+translate russian day33_v_sex_2274da4f:
+
+    # "{i}Thick strands of semen soon cover their breasts leaking down their bellies."
+    "{i}Огромные струи спермы покрывают их груди и стекают на животы."
+
+# game/day33.rpy:1413
+translate russian day33_v_sex_0be19e5f:
+
+    # "{i}Despite your nearing orgasm and fucking your sister, you want to feel how it is to unload inside Valentina."
+    "{i}Несмотря на то, что ты близок к оргазму и ебешь свою сестру, ты очень хочешь узнать, каково кончать в Валентину."
+
+# game/day33.rpy:1415
+translate russian day33_v_sex_a92aad23:
+
+    # "{i}Despite your nearing orgasm and fucking your girlfriend, you want to feel how it is to unload inside Valentina."
+    "{i}Несмотря на то, что ты близок к оргазму и ебешь свою девушку, ты очень хочешь узнать, каково кончать в Валентину."
+
+# game/day33.rpy:1416
+translate russian day33_v_sex_3f709208:
+
+    # p "Come sit on my lap Valentina."
+    p "Иди ко мне, Валентина."
+
+# game/day33.rpy:1422
+translate russian day33_v_sex_7152a713:
+
+    # "{i}Valentina switches places with [r_name], and you immediately start pounding the singer hard and fast."
+    "{i}Валентина меняется местами с [r_name], и ты сразу же начинаешь быстро вставлять в певицу."
+
+# game/day33.rpy:1423
+translate russian day33_v_sex_3a05466d:
+
+    # p "I'm going to cum inside you."
+    p "Я кончу в тебя."
+
+# game/day33.rpy:1424
+translate russian day33_v_sex_0f5e5946:
+
+    # va "S-shoot me up with all that cum of yours?"
+    va "Заполнишь мен-ня своей спермой?"
+
+# game/day33.rpy:1425
+translate russian day33_v_sex_ffe3e255:
+
+    # p "Exactly."
+    p "Именно."
+
+# game/day33.rpy:1426
+translate russian day33_v_sex_65d92875:
+
+    # va "D-don't stop then!"
+    va "Тогда н-не останавливайся!"
+
+# game/day33.rpy:1433
+translate russian day33_v_sex_bb53698e:
+
+    # "{i}Her last words usher in a climax that's so powerful you push yourself in the air, lifting Valentina's body and burying your cock balls deep inside her gash."
+    "{i}После этих слов ты испытываешь мощнейший оргазм, который заставляет тебя подняться в воздух и поднять Валентину, полностью вводя в неё свой член."
+
+# game/day33.rpy:1434
+translate russian day33_v_sex_42ed5749:
+
+    # "{i}At that moment, you release a flow of warm semen, holding Valentina very tightly."
+    "{i}В этот момент ты выпускаешь большое количество теплого семени, крепко держа Валентину."
+
+# game/day33.rpy:1437
+translate russian day33_v_sex_3e0c2fdb:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Ты не выходишь из неё, пока не оставляешь в ней последнюю каплю, и когда ты наконец достаешь член, из вагины девушки течет твоя сперма."
+
+# game/day33.rpy:1449
+translate russian day33_v_sex_70622176:
+
+    # "{i}Fucking your sister is more than enough for you, and you just want her to receive your load."
+    "{i}Тебе вполне хватает твоей сестры и ты просто хочешь кончить внутрь неё."
+
+# game/day33.rpy:1451
+translate russian day33_v_sex_e0516e90:
+
+    # "{i}Fucking your girlfriend is more than enough for you, and you just want her to receive your load."
+    "{i}Тебе вполне хватает твоей девушки и ты просто хочешь кончить внутрь неё."
+
+# game/day33.rpy:1460
+translate russian day33_v_sex_80530500:
+
+    # "{i}The thought of coming inside her ushers in a climax that's so powerful you push yourself in the air, lifting [r_name]'s body and burying your cock balls deep inside her gash."
+    "{i}После мыслей об этом ты испытываешь мощнейший оргазм, который заставляет тебя подняться в воздух и поднять [r_name], полностью вводя в неё свой член."
+
+# game/day33.rpy:1462
+translate russian day33_v_sex_537bc169:
+
+    # "{i}At that moment, you release a flow of warm semen, holding your sister very tightly."
+    "{i}В этот момент ты выпускаешь большое количество теплого семени, крепко держа сестру."
+
+# game/day33.rpy:1464
+translate russian day33_v_sex_82eff079:
+
+    # "{i}At that moment, you release a flow of warm semen, holding [r_name] very tightly."
+    "{i}В этот момент ты выпускаешь большое количество теплого семени, крепко держа [r_name]."
+
+# game/day33.rpy:1466
+translate russian day33_v_sex_3e0c2fdb_1:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Ты не выходишь из неё, пока не оставляешь в ней последнюю каплю, и когда ты наконец достаешь член, из вагины девушки течет твоя сперма."
+
+# game/day33.rpy:1481
+translate russian day33_v_sex_543fc63b:
+
+    # "{i}Valentina retires on the couch, from where she regards you with a debauched smile."
+    "{i}Валентина отдыхает на диване, улыбаясь тебе."
+
+# game/day33.rpy:1482
+translate russian day33_v_sex_3a5eab2d:
+
+    # va "Now, that's what I call unwinding."
+    va "Вот что значит развеяться."
+
+# game/day33.rpy:1483
+translate russian day33_v_sex_a810e656:
+
+    # p "Are you satisfied, Miss Glorious?"
+    p "Тебе все понравилось, мисс Глориус?"
+
+# game/day33.rpy:1484
+translate russian day33_v_sex_e8ff0f7f:
+
+    # va "Very."
+    va "Очень."
+
+# game/day33.rpy:1485
+translate russian day33_v_sex_6c4580be:
+
+    # va "I think this redefines the term 'fan-fuck' completely."
+    va "Думаю, вот что по-настоящему значит секс с фанатами."
+
+# game/day33.rpy:1486
+translate russian day33_v_sex_49279719:
+
+    # p "It sure beats getting an autograph."
+    p "Это определенно лучше автографа."
+
+# game/day33.rpy:1488
+translate russian day33_v_sex_5a9e6999:
+
+    # r "Er, I'd still like one..."
+    r "Эм, я бы все еще хотела получить его..."
+
+# game/day33.rpy:1489
+translate russian day33_v_sex_ff4d5505:
+
+    # va "Sure thing."
+    va "Без проблем."
+
+# game/day33.rpy:1490
+translate russian day33_v_sex_4a456b62:
+
+    # va "Do you have a pen?"
+    va "Есть ручка?"
+
+# game/day33.rpy:1491
+translate russian day33_v_sex_2049d4cc:
+
+    # va "Or I could write it using [p_name]'s sperm if you like."
+    va "Или я могу написать спермой [p_name], если хочешь."
+
+# game/day33.rpy:1493
+translate russian day33_v_sex_b9dfa25d:
+
+    # r "Everything is inside of me..."
+    r "Все внутри меня..."
+
+# game/day33.rpy:1495
+translate russian day33_v_sex_082bd86d:
+
+    # r "He shot everything inside of you..."
+    r "Он кончил в тебя..."
+
+# game/day33.rpy:1497
+translate russian day33_v_sex_9ce6d9ee:
+
+    # r "It's all dried up, I'm afraid."
+    r "Все уже высохло, наверное."
+
+# game/day33.rpy:1498
+translate russian day33_v_sex_9989982b:
+
+    # va "Damn, a pen it is."
+    va "О, вот и ручка."
+
+# game/day33.rpy:1500
+translate russian day33_v_sex_72b317e3:
+
+    # "{i}After Valentina signs both your concert tickets, she lies down on the sofa again and closes her eyes."
+    "{i}Подписав ваши билеты, Валентина ложится на диван и закрывает глаза."
+
+# game/day33.rpy:1501
+translate russian day33_v_sex_3f9c2288:
+
+    # va "This was really fun, but I'm sure security will come looking for me after a while, so you'd better leave before that."
+    va "Это все было очень весело, но скоро придет охрана искать меня, так что вам лучше поторопиться."
+
+# game/day33.rpy:1502
+translate russian day33_v_sex_bcf2746d:
+
+    # "{i}You pick up your clothes and dress yourself, while Valentina is still lying on the couch."
+    "{i}Вы берете вещи и одеваетесь, пока Валентина все еще лежит на диване."
+
+# game/day33.rpy:1503
+translate russian day33_v_sex_fcbf1503:
+
+    # r "Goodbye."
+    r "Пока."
+
+# game/day33.rpy:1504
+translate russian day33_v_sex_c236b676:
+
+    # p "Bye, Valentina."
+    p "Пока, Валентина."
+
+# game/day33.rpy:1506
+translate russian day33_v_sex_e35b554b:
+
+    # va "Take care, lovebirds!"
+    va "Удачи, голубки!"
+
+# game/day33.rpy:1507
+translate russian day33_v_sex_0b11a4c7:
+
+    # va "If you're ever at a concert of mine, just get naked in one of the dressing rooms, and I'll come find you."
+    va "Если еще придете на мой концерт, просто разденьтесь в одной из гримерных, и я вас найду."
+
+# game/day33.rpy:1508
+translate russian day33_v_sex_52d289d8:
+
+    # r "Haha, sure!"
+    r "Хаха, хорошо!"
+
+# game/day33.rpy:1509
+translate russian day33_v_sex_13d10d30:
+
+    # "{i}You both leave Valentina and sneak out into the deserted hallway."
+    "{i}Вы оба оставляете Валентину и выходите в пустой коридор."
+
+# game/day33.rpy:1523
+translate russian day33_l_licking_aefcedc9:
+
+    # "{i}[l_name] sighs in relief and slips out of her bra and panties."
+    "{i}[l_name] облегченно вздыхает и снимает нижнее белье."
+
+# game/day33.rpy:1524
+translate russian day33_l_licking_c483f160:
+
+    # l "I'm ready."
+    l "Я готова."
+
+# game/day33.rpy:1525
+translate russian day33_l_licking_a9db017a:
+
+    # l "Don't hold back."
+    l "Не нежничай."
+
+# game/day33.rpy:1526
+translate russian day33_l_licking_cc2617ba:
+
+    # l "I really want this."
+    l "Я правда хочу этого."
+
+# game/day33.rpy:1532
+translate russian day33_l_licking_8c2701f1:
+
+    # "{i}That statement alone makes your cock rock-hard, and you attempt to ignore it by turning your attention to [l_name]'s breasts."
+    "{i}От одного этого заявления твой член становится каменно-твердым, и ты пытаешься игнорировать это, переключая внимание на грудь [l_name]."
+
+# game/day33.rpy:1533
+translate russian day33_l_licking_e223cfdd:
+
+    # l "Oh! I like it so much when you do that."
+    l "О! Мне нравится, когда ты делаешь это."
+
+# game/day33.rpy:1536
+translate russian day33_l_licking_21fea5ba:
+
+    # "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
+    "{i}Её соски быстро покрываются слюной, когда ты начинаешь лизать и сосать их."
+
+# game/day33.rpy:1537
+translate russian day33_l_licking_013191b8:
+
+    # "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
+    "{i}[l_name] трогает себя и начинает стонать всё громче и громче."
+
+# game/day33.rpy:1539
+translate russian day33_l_licking_6858d52b:
+
+    # "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
+    "{i}Когда [l_name] начинает трогать свою грудь, ты переходишь к её киске, начиная лизать её чувствительную интимную зону."
+
+# game/day33.rpy:1540
+translate russian day33_l_licking_d185372a:
+
+    # l "Are y-you... are you going to use your tongue?"
+    l "Ты соб-бираешься... использовать язык?"
+
+# game/day33.rpy:1541
+translate russian day33_l_licking_115982f8:
+
+    # p "Maybe..."
+    p "Может быть..."
+
+# game/day33.rpy:1542
+translate russian day33_l_licking_cba9ca70:
+
+    # p "Just wait and see..."
+    p "Давай подождем и посмотрим..."
+
+# game/day33.rpy:1543
+translate russian day33_l_licking_77e00a8f:
+
+    # l "I'm really wet down there already."
+    l "Я уже вся взмокла."
+
+# game/day33.rpy:1544
+translate russian day33_l_licking_980d3dc7:
+
+    # p "So? The wetter, the better."
+    p "И? чем мокрее, тем лучше."
+
+# game/day33.rpy:1546
+translate russian day33_l_licking_6c88ddfd:
+
+    # "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
+    "{i}Ты раздвигаешь её ноги и начинаешь проводить языком по половым губам, заставляя [l_name] вздрогнуть."
+
+# game/day33.rpy:1548
+translate russian day33_l_licking_c0c4b7da:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
+    "{i}Ты ставишь перед собой цель дать своей сестре мощнейший оргазм в её жизни."
+
+# game/day33.rpy:1550
+translate russian day33_l_licking_60a4a4db:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
+    "{i}Ты ставишь перед собой цель дать своей подруге мощнейший оргазм в её жизни."
+
+# game/day33.rpy:1551
+translate russian day33_l_licking_1de5cddf:
+
+    # l "Oh! That w-wasn't in those videos!"
+    l "Ох! Т-так и был-ло в тех видео!"
+
+# game/day33.rpy:1552
+translate russian day33_l_licking_cd6c7564:
+
+    # p "{i}(So she has watched porn, little liar!)"
+    p "{i}(И все-таки она смотрела порно, маленькая врунишка!)"
+
+# game/day33.rpy:1553
+translate russian day33_l_licking_0fa76638:
+
+    # l "B-but don't stop!"
+    l "Не остан-навливайся!"
+
+# game/day33.rpy:1555
+translate russian day33_l_licking_ee27b8e5:
+
+    # "{i}[l_name] tousles your hair as you begin to lick her pussy."
+    "{i}[l_name] хватает тебя за волосы, когда ты начинаешь лизать её киску."
+
+# game/day33.rpy:1556
+translate russian day33_l_licking_adb09cbf:
+
+    # "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
+    "{i}Ты менее аккуратен, чем раньше, и ты лижешь и сосешь её вагину, чтобы доставить ей как можно больше удовольствия."
+
+# game/day33.rpy:1560
+translate russian day33_l_licking_3563fed8:
+
+    # "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
+    "{i}По её тяжелому дыханию ты понимаешь, как она близка к оргазму, и останавливаешься."
+
+# game/day33.rpy:1562
+translate russian day33_l_licking_3ed9fc10:
+
+    # l "Wuh, why did you stop?"
+    l "А, почему ты остановился?"
+
+# game/day33.rpy:1563
+translate russian day33_l_licking_b52a6030:
+
+    # p "Sssh, I know what I'm doing."
+    p "Тсссс, я знаю, что я делаю."
+
+# game/day33.rpy:1565
+translate russian day33_l_licking_7fadb4f3:
+
+    # "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
+    "{i}Поцелуй убирает все негодование, и [l_name] полностью отдается тебе."
+
+# game/day33.rpy:1566
+translate russian day33_l_licking_a2883af2:
+
+    # "{i}When her body has entered a more relaxed state, you go down on her again."
+    "{i}Когда она расслабляется, ты спускаешься вниз снова."
+
+# game/day33.rpy:1572
+translate russian day33_l_licking_bdd0fd5f:
+
+    # l "Aaah! T-that s-so intense!"
+    l "Ааааа! Так-к сильн-но!"
+
+# game/day33.rpy:1573
+translate russian day33_l_licking_fbd664ee:
+
+    # "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
+    "{i}Всего несколькими движениями языка ты идеально подготавливаешь её, и из её вагины вытекает огромное количество смазки."
+
+# game/day33.rpy:1574
+translate russian day33_l_licking_c4a2c2f2:
+
+    # "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
+    "{i}На самом краю ты вырываешься из её рук и перестаешь лизать снова."
+
+# game/day33.rpy:1575
+translate russian day33_l_licking_da5ade18:
+
+    # l "No!"
+    l "Нет!"
+
+# game/day33.rpy:1580
+translate russian day33_l_licking_67984514:
+
+    # "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
+    "{i}После очередного поцелуя ты трогаешь её киску пальцами и запускаешь один внутрь."
+
+# game/day33.rpy:1581
+translate russian day33_l_licking_06b222aa:
+
+    # "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
+    "{i}Когда она в удивлении вздыхает, ты запускаешь еще один."
+
+# game/day33.rpy:1583
+translate russian day33_l_licking_2d489eb2:
+
+    # "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
+    "{i}Позволяя ей привыкнуть к чувтсвам, ты смотришь ей в глаза."
+
+# game/day33.rpy:1584
+translate russian day33_l_licking_7bd07015:
+
+    # "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
+    "{i}Когда ты видишь принятие на её лице, ты глубоко вводишь свои пальцы и начинаешь быстро ими двигать."
+
+# game/day33.rpy:1587
+translate russian day33_l_licking_22dc2071:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen, you know you've struck gold."
+    "{i}Требуется время, чтобы найти нужную точку, но когда твоя сестра раскрывает глаза максимально широко, ты понимаешь, что сделал это."
+
+# game/day33.rpy:1589
+translate russian day33_l_licking_71f6c75f:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen, you know you've struck gold."
+    "{i}Требуется время, чтобы найти нужную точку, но когда твоя подруга раскрывает глаза максимально широко, ты понимаешь, что сделал это."
+
+# game/day33.rpy:1590
+translate russian day33_l_licking_978434aa:
+
+    # "{i}[l_name] begins to shudder uncontrollably, and at one point even attempts to remove your hand momentarily before pressing your fingers even deeper inside her."
+    "{i}[l_name] начинает неконтролируемо дрожать и в какой-то момент даже пытается на мгновение убрать вашу руку, прежде чем вдавить ваши пальцы еще глубже в нее."
+
+# game/day33.rpy:1591
+translate russian day33_l_licking_9f7293f5:
+
+    # "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
+    "{i}Каждая мышца девушки дает понять, что момент истины настал."
+
+# game/day33.rpy:1592
+translate russian day33_l_licking_ec807b08:
+
+    # l "I-it... a-aaah..."
+    l "Эт-то... аааааа..."
+
+# game/day33.rpy:1594
+translate russian day33_l_licking_c7b2c2f9:
+
+    # "{i}White cream is slathered all over her pussy and thighs, and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
+    "{i}Белая жидкость покрывает всю её киску, и твои пальцы делают звуки, которые говорят о приближающемся сквирте."
+
+# game/day33.rpy:1595
+translate russian day33_l_licking_500b03cb:
+
+    # l "I-have to... p-pee..."
+    l "Мне нужн-но... попис-сать..."
+
+# game/day33.rpy:1606
+translate russian day33_l_licking_9546d3ca:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
+    "{i}Сокращения её влагалища заставляют твои пальцы выйти, и они покрываются огромным колчеством жидкости из твоей сестры."
+
+# game/day33.rpy:1608
+translate russian day33_l_licking_9cb122f0:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
+    "{i}Сокращения её влагалища заставляют твои пальцы выйти, и они покрываются огромным колчеством жидкости из твоей девочки."
+
+# game/day33.rpy:1609
+translate russian day33_l_licking_434e914b:
+
+    # "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
+    "{i}[l_name], которая обычно очень сдержанная, кричит от удовольствия и все еще трясется, покрывая жидкостью всю кровать."
+
+# game/day33.rpy:1615
+translate russian day33_l_licking_5ebbfd58:
+
+    # "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Твоя сестра продолжает тебя крепко держать и пытаться отдышаться, немного вздрагивая."
+
+# game/day33.rpy:1617
+translate russian day33_l_licking_d9822a5e:
+
+    # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Твоя подруга продолжает тебя крепко держать и пытаться отдышаться, немного вздрагивая."
+
+# game/day33.rpy:1618
+translate russian day33_l_licking_619ac3f5:
+
+    # p "I think that's proof enough."
+    p "Думаю, все ясно."
+
+# game/day33.rpy:1623
+translate russian day33_l_licking_4caf62cc:
+
+    # l "Wow."
+    l "Ого."
+
+# game/day33.rpy:1624
+translate russian day33_l_licking_a4bf1c05:
+
+    # l "I can still feel it."
+    l "Я все еще могу это чувствовать."
+
+# game/day33.rpy:1625
+translate russian day33_l_licking_5c82d382:
+
+    # l "I've never felt something so intense in my life."
+    l "Я никогда еще не чувствовала такое."
+
+# game/day33.rpy:1626
+translate russian day33_l_licking_d38a1c27:
+
+    # l "It was scary and wonderful at the same time."
+    l "Это было одновременно и страшно, и прекрасно."
+
+# game/day33.rpy:1627
+translate russian day33_l_licking_16603430:
+
+    # p "You were beautiful."
+    p "Ты была великолепна."
+
+# game/day33.rpy:1628
+translate russian day33_l_licking_ef606a57:
+
+    # l "You made me lose control and I just didn't care."
+    l "Ты заставил меня потерять контроль, и мне было все равно."
+
+# game/day33.rpy:1629
+translate russian day33_l_licking_1eb9828c:
+
+    # l "I wanted you to go on... forever..."
+    l "Я хотела, чтоб ты не останавливался... никогда..."
+
+# game/day33.rpy:1630
+translate russian day33_l_licking_7ddd1c86:
+
+    # l "And then it came... I thought I..."
+    l "И потом это случилось... Я думала, я..."
+
+# game/day33.rpy:1632
+translate russian day33_l_licking_4caf62cc_1:
+
+    # l "Wow."
+    l "Ого."
+
+# game/day33.rpy:1633
+translate russian day33_l_licking_cf3e8835:
+
+    # p "I'm proud of you."
+    p "Я горжусь тобой."
+
+# game/day33.rpy:1634
+translate russian day33_l_licking_8179b31a:
+
+    # l "I love you."
+    l "Я люблю тебя."
+
+# game/day33.rpy:1635
+translate russian day33_l_licking_3c07dcc8:
+
+    # p "I love you too, [l_name], ever more each day."
+    p "И я люблю тебя, [l_name], с каждым днем все сильнее и сильнее."
+

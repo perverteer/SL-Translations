@@ -2698,3 +2698,191 @@ translate russian strings:
     old "Never mind"
     new "Неважно"
 
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day04.rpy:58
+translate russian day04_61e445ed:
+
+    # a "I have an idea! Why don't you come with me today?"
+    a "У меня есть идея! Почему бы тебе не пойти со мной сегодня?"
+
+# game/day04.rpy:59
+translate russian day04_59a3e5fc:
+
+    # p "Where to?"
+    p "Куда?"
+
+# game/day04.rpy:60
+translate russian day04_b0a75591:
+
+    # a "Well, we're going shopping..."
+    a "Ну, мы собирались по магазинам..."
+
+# game/day04.rpy:61
+translate russian day04_e348b6db:
+
+    # p "Naturally."
+    p "Разумеется."
+
+# game/day04.rpy:62
+translate russian day04_3a3111de:
+
+    # a "I asked [r_name] earlier, before visiting you, but she can't come."
+    a "Я спрашивала [r_name] ранее, перед тем как навестить тебя, но она не сможет пойти."
+
+# game/day04.rpy:63
+translate russian day04_382b0ab2:
+
+    # p "Oh?"
+    p "Оу?"
+
+# game/day04.rpy:64
+translate russian day04_102afd0c:
+
+    # a "Yeah, [b_name] asked her out to lunch."
+    a "Да, [b_name] позвала ее пообедать."
+
+# game/day04.rpy:65
+translate russian day04_2d48d716:
+
+    # p "She did?"
+    p "Она согласилась?"
+
+# game/day04.rpy:66
+translate russian day04_1a2dfe21:
+
+    # a "[b_name] is not someone you refuse, if you catch my drift..."
+    a "[b_name] - не тот человек, которому легко отказать, если ты понимаешь, о чем я..."
+
+# game/day04.rpy:67
+translate russian day04_60c13293:
+
+    # p "Yup, she's a bitch."
+    p "Да, она сука."
+
+# game/day04.rpy:68
+translate russian day04_2931081c:
+
+    # a "So, it's just Alina and me. How could you refuse two beautiful women?"
+    a "Короче, мы идем только с Алиной. Как ты можешь отказать в компании двум прекрасным девушкам?"
+
+# game/day04.rpy:71
+translate russian day04_3854d23d:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting and I might be able to buy something nice for [l_name]."
+    p "{i}Я ненавижу шоппинг, но предложение действительно неплохое, и я мог бы купить что-нибудь милое для [l_name]."
+
+# game/day04.rpy:74
+translate russian day04_0489d494:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting. Might get another reward from Ana after my more than satisfactory performance just now."
+    p "{i}Я ненавижу шоппинг, но предложение действительно неплохое. Может, удастся получить другую награду от Аны после."
+
+# game/day04.rpy:77
+translate russian day04_ff778e06:
+
+    # p "Well, all right. I'm in."
+    p "Ну хорошо, я в деле."
+
+# game/day04.rpy:78
+translate russian day04_dadbfcbd:
+
+    # a "Yay! I'll meet you at the store later today."
+    a "Класс! Встретимся в магазине позже сегодня."
+
+# game/day04.rpy:82
+translate russian day04_b05f7cb4:
+
+    # p "{i}(Phew. That was a nice little morning snack.)"
+    p "{i}(Уф. Это была хорошая утренняя закуска.)"
+
+# game/day04.rpy:87
+translate russian day04_95c8d466:
+
+    # p "Please go away, Ana. Yesterday was a mistake."
+    p "Пожалуйста, уходи, Ана. То, что было вчера, было ошибкой."
+
+# game/day04.rpy:91
+translate russian day04_1cfe1505:
+
+    # a "WHAT?! FUCK YOU! You utter piece of shit!"
+    a "ЧТО?! ПОШЕЛ ТЫ! Маленький кусок говна!"
+
+# game/day04.rpy:92
+translate russian day04_43425f49:
+
+    # a "You're going to regret this!"
+    a "Ты пожалеешь об этом!"
+
+# game/day04.rpy:97
+translate russian day04_c0e4fd2a:
+
+    # "{i}You're awakened by the sunlight spilling through the curtains."
+    "{i}ТЫ просыпаешься от солнечного света, проникающего сквозь занавески."
+
+# game/day04.rpy:347
+translate russian day04_m_room_choices_ac4f9f29:
+
+    # "{i}After a while you go to town to meet Ana and Alina at the clothing store."
+    "{i}Спустя некоторое время ты отправляешься в город, чтобы встретиться с Аной и Алиной."
+
+# game/day04.rpy:352
+translate russian day04_m_room_choices_3e9f821c:
+
+    # "{i}You spend your day at home, which is pretty boring."
+    "{i}Ты проводишь весь день дома очень скучно."
+
+# game/day04.rpy:435
+translate russian day04_boutique_aadf88f7:
+
+    # al "All done? Was [p_name] any help?"
+    al "Все сделано? [p_name] помогал?"
+
+# game/day04.rpy:436
+translate russian day04_boutique_591ddada:
+
+    # a "Sure! Couldn't have done it without him."
+    a "Конечно! Я бы без него не обошлась."
+
+# game/day04.rpy:437
+translate russian day04_boutique_10a3bcd1:
+
+    # p "Girls, I'll leave you to it. Thanks for taking me on your shopping expedition."
+    p "Ну, девочки, теперь я вас покину. Спасибо, что взяли меня пошопиться."
+
+# game/day04.rpy:438
+translate russian day04_boutique_277a0fcc:
+
+    # al "Any time, [p_name]. Be seeing ya!"
+    al "Рано или поздно, [p_name], еще увидимся!"
+
+# game/day04.rpy:439
+translate russian day04_boutique_6823d1fa:
+
+    # a "Sooner rather than later, I hope!"
+    a "Надебсь, больше рано, чем поздно!"
+
+# game/day04.rpy:442
+translate russian day04_boutique_d46543e7:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie and [l_name]'s evening dress."
+    "{i}Ана и Алина выходят из магазина, пока ты оплачиваешь белье Аны и вечернее платье [l_name]."
+
+# game/day04.rpy:446
+translate russian day04_boutique_3d15b177:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie."
+    "{i}Ана и Алина выходят из магазина, пока ты оплачиваешь белье Аны."
+
+# game/day04.rpy:938
+translate russian day04_ana_licking_3c84de13:
+
+    # a "I know you want me..."
+    a "Я знаю, что ты хочешь меня..."
+
+# game/day04.rpy:939
+translate russian day04_ana_licking_b2c1d8a6:
+
+    # a "Don't you want to lick me, [p_name]? I'm so wet..."
+    a "Ты не хочешь полизать мне, [p_name]? Я такая мокрая..."
+

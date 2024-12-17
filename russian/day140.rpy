@@ -7884,4 +7884,41 @@ translate russian day140_r_b_fuck_d849fd04:
 translate russian day140_r_b_fuck_241c029b:
 
     # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
-    "{i}Вы легонько шлепаете по киске своей девушки и киваете [r_name], чтобы продолжить щекотание."
+    "{i}Вы легонько шлепаете по киске своей девушки и киваете [r_name], чтобы продолжить щекотание."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day140.rpy:1902
+translate russian day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Беременна ли [r_name] в этой сцене"
+
+# game/day140.rpy:1906
+translate russian day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] беременная"
+
+# game/day140.rpy:1909
+translate russian day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] не беременна"
+
+# game/day140.rpy:1911
+translate russian day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Хотите ли вы включить водные виды спорта для этой сцены?"
+
+# game/day140.rpy:1915
+translate russian day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Водные виды спорта позволяют"
+
+# game/day140.rpy:1918
+translate russian day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Водные виды спорта отключены"
+

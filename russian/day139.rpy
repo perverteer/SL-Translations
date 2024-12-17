@@ -7942,7 +7942,7 @@ translate russian day139_iris_home_69bc39ab:
 translate russian day139_ri_home_eaad7030:
 
     # ri "I'm not sure that I am, but with you, I'm willing to try."
-    ри "Я не уверен, что это так, но с тобой я готов попробовать."
+    ri "Я не уверен, что это так, но с тобой я готов попробовать."
 
 # game/day139.rpy:1560
 translate russian day139_ir_ri_talks_6d84afee:
@@ -7996,4 +7996,89 @@ translate russian day139_movie_fuck_e786345e:
 translate russian day139_movie_fuck_940fc4a3:
 
     # l "Does this make you forget that movie a little?"
-    l "Это заставляет вас немного забыть тот фильм?"
+    l "Это заставляет вас немного забыть тот фильм?"# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day139.rpy:1920
+translate russian day139_b_me_soft_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Беременна ли [b_name] в этой сцене?"
+
+# game/day139.rpy:1924
+translate russian day139_b_me_soft_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] беременная"
+
+# game/day139.rpy:1927
+translate russian day139_b_me_soft_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] не беременна"
+
+# game/day139.rpy:2374
+translate russian day139_movie_fuck_ebb77704:
+
+    # "Who is getting fucked?"
+    "Кого трахают"
+
+# game/day139.rpy:2380
+translate russian day139_movie_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Беременна ли [r_name] в этой сцене?"
+
+# game/day139.rpy:2385
+translate russian day139_movie_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] беременная"
+
+# game/day139.rpy:2388
+translate russian day139_movie_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] не беременна"
+
+# game/day139.rpy:2394
+translate russian day139_movie_fuck_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Беременна ли [b_name] в этой сцене?"
+
+# game/day139.rpy:2399
+translate russian day139_movie_fuck_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] беременная"
+
+# game/day139.rpy:2402
+translate russian day139_movie_fuck_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] не беременна"
+
+# game/day139.rpy:2407
+translate russian day139_movie_fuck_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Беременна ли [l_name] в этой сцене?"
+
+# game/day139.rpy:2412
+translate russian day139_movie_fuck_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] беременная"
+
+# game/day139.rpy:2415
+translate russian day139_movie_fuck_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] не беременна"
+
+translate russian strings:
+
+    # game/day139.rpy:2375
+    old "[r_name]"
+    new "[r_name]"
+

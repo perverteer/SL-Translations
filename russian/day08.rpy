@@ -2724,4 +2724,359 @@ translate russian day08_p_room_evening_choices_fb4ae194:
 translate russian day08_p_room_evening_choices_d2ddba57:
 
     # p "Don't worry, sleep well, [r_name]."
-    p "Не волнуйтесь, спите спокойно [r_name]."
+    p "Не волнуйтесь, спите спокойно [r_name]."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day08.rpy:727
+translate russian day08_ana_sex_22702385:
+
+    # a "Are you going to fuck me, [p_name]?"
+    a "Ты собираешься меня трахать, [p_name]?"
+
+# game/day08.rpy:728
+translate russian day08_ana_sex_2e86bc82:
+
+    # p "The thought has crossed my mind."
+    p "Ну, эта мысль была у меня в голове."
+
+# game/day08.rpy:729
+translate russian day08_ana_sex_dca9bfc2:
+
+    # p "A lot."
+    p "Частенько."
+
+# game/day08.rpy:730
+translate russian day08_ana_sex_7f108f9a:
+
+    # a "Hehe."
+    a "Хехе."
+
+# game/day08.rpy:735
+translate russian day08_ana_sex_528dd6bf:
+
+    # a "Let me get you ready."
+    a "Позволь мне приготовить тебя."
+
+# game/day08.rpy:739
+translate russian day08_ana_sex_1611ca52:
+
+    # "{i}Ana unzips your trousers and frees your growing member. She starts kissing and licking your penis, while gently massaging your balls."
+    "{i}Ана расстегивает твои брюки и освобождает растущий член. Она начинает целовать и лизать пенис, нежно массируя яйца."
+
+# game/day08.rpy:747
+translate russian day08_ana_sex_c75481bb:
+
+    # a "You like that don't you?"
+    a "Тебе нравится, верно?"
+
+# game/day08.rpy:748
+translate russian day08_ana_sex_939349fb:
+
+    # a "Do you want me to suck it, make it all wet?"
+    a "Хочешь, чтобы я отсосала и сделала его полностью мокрым?"
+
+# game/day08.rpy:754
+translate russian day08_ana_sex_6606018f:
+
+    # p "Put it in your mouth."
+    p "Суй его в рот."
+
+# game/day08.rpy:759
+translate russian day08_ana_sex_96e5c3db:
+
+    # a "Mmmmm."
+    a "Мммммм."
+
+# game/day08.rpy:760
+translate russian day08_ana_sex_9acf9aff:
+
+    # "{i}Clearly already adjusted to your size, Ana's mouth slides down the full length of your your shaft, her tongue whirling fast and eager."
+    "{i}Ясно, что уже подогнанный под твой размер, рот Аны скользит по всей длине твоего ствола, ее язык кружится быстро и нетерпеливо."
+
+# game/day08.rpy:761
+translate russian day08_ana_sex_01654862:
+
+    # p "{i}(Oh fuck, this is so good. If she keeps at it like this I'm going to cum already.)"
+    p "{i}(О, черт, это так хорошо. Если она так и продолжит, я уже скоро кончу.)"
+
+# game/day08.rpy:768
+translate russian day08_ana_sex_dd377334:
+
+    # "{i}She clearly sees you struggling not to fill her mouth with semen, so Ana stops and looks at you longingly while fingering her pussy."
+    "{i}Она ясно видит, как ты изо всех сил пытаешься не наполнить ее рот спермой, поэтому Ана останавливается и с тоской смотрит на тебя, пока ласкает свою киску."
+
+# game/day08.rpy:769
+translate russian day08_ana_sex_afdc4606:
+
+    # a "Stay with me, [p_name], don't cum yet."
+    a "Оставайся со мной, [p_name], пока еще рано кончать."
+
+# game/day08.rpy:770
+translate russian day08_ana_sex_21cd4f33:
+
+    # a "I want your dick in my pussy."
+    a "Я хочу твой член в свою киску."
+
+# game/day08.rpy:771
+translate russian day08_ana_sex_8f0a9462:
+
+    # a "Would you like that?"
+    a "Тебе нравится?"
+
+# game/day08.rpy:772
+translate russian day08_ana_sex_574340d2:
+
+    # p "Hell yes."
+    p "Да, черт возьми."
+
+# game/day08.rpy:779
+translate russian day08_ana_sex_44c1eb5a:
+
+    # p "Are you rubbing your clit for me, dirty girl?"
+    p "Потрешь свой клитор ради меня, грязная девчонка?"
+
+# game/day08.rpy:780
+translate russian day08_ana_sex_c414b917:
+
+    # a "Uhuh, I want to be all wet when you fuck me."
+    a "Угу, я хочу быть очень мокрой, когда ты будешь меня трахать."
+
+# game/day08.rpy:781
+translate russian day08_ana_sex_62cde2e6:
+
+    # p "I think your cunt is clearly ready for my dick."
+    p "Думаю, твоя пизда уже готова для члена."
+
+# game/day08.rpy:785
+translate russian day08_ana_sex_7a20b216:
+
+    # p "Spread your legs for me, show me that sweet pussy of yours."
+    p "Раздвинь ноги, покажи свою сладкую киску."
+
+# game/day08.rpy:791
+translate russian day08_ana_sex_daca5362:
+
+    # "{i}You tease her glistening pussy lips with the tip of your penis. Ana moans with abandon."
+    "{i}Ты дразнишь ее блестящие половые губы кончиком члена. Ана отчаянно стонет."
+
+# game/day08.rpy:792
+translate russian day08_ana_sex_142e69c9:
+
+    # a "Put it in [p_name]. Fuck me!"
+    a "Всунь его внутрь, [p_name]. Трахни меня!"
+
+# game/day08.rpy:795
+translate russian day08_ana_sex_14dac887:
+
+    # "{i}You push the tip of your penis past her labia. Ana gasps and you push further until your member is completely engulfed by her womanhood."
+    "{i}Ты проталкиваешь член мимо ее половых губ. Ана задыхается, и ты толкаешь дальше, пока твой член полностью не войдет в нее."
+
+# game/day08.rpy:796
+translate russian day08_ana_sex_2632d017:
+
+    # a "Aah, you feel so good, [p_name]."
+    a "Аххх, как хорошо, [p_name]."
+
+# game/day08.rpy:797
+translate russian day08_ana_sex_48808d18:
+
+    # p "Yeah, you want me to fuck your dirty little pussy? Make you scream, you little slut?"
+    p "Да, ты хочешь, чтобы я выебал твою маленькую грязную дырку? Заставил тебя кричать, маленькая шлюха?"
+
+# game/day08.rpy:798
+translate russian day08_ana_sex_924215d2:
+
+    # a "Make me scream, [p_name]!"
+    a "Заставь меня кричать, [p_name]!"
+
+# game/day08.rpy:804
+translate russian day08_ana_sex_b44e9ea5:
+
+    # "{i}Slowly you fuck her pussy. Ana's hands are all over your back, squeezing and raking, as if encouraging you to go deeper and faster."
+    "{i}Медленно ты трахаешь ее киску. Руки Аны лежат на твоей спине, сжимая и царапая, как будто побуждая тебя идти глубже и быстрее."
+
+# game/day08.rpy:805
+translate russian day08_ana_sex_c7b3048d:
+
+    # a "F-f-fuck yes!"
+    a "Б-б-блять, да!"
+
+# game/day08.rpy:806
+translate russian day08_ana_sex_8ef1766a:
+
+    # a "Fuck me harder, [p_name]!"
+    a "Жестче, [p_name]!"
+
+# game/day08.rpy:807
+translate russian day08_ana_sex_879bf6b4:
+
+    # a "Harder!"
+    a "Выеби меня еще жестче!"
+
+# game/day08.rpy:811
+translate russian day08_ana_sex_a84462e0:
+
+    # "{i}Ana's room is filled with noises of moaning, gasping and the wet, rhythmic sounds of penetration."
+    "{i}Комната Аны наполнена стонами, вздохами и влажными ритмичными хлопками."
+
+# game/day08.rpy:814
+translate russian day08_ana_sex_d6faea8c:
+
+    # "{i}With closed eyes and a look of bliss on her flushed face, Ana starts rubbing her clitoris."
+    "{i}С закрытыми глазами и выражением блаженства на покрасневшем лице Ана начинает тереть свой клитор."
+
+# game/day08.rpy:815
+translate russian day08_ana_sex_2da1e7f5:
+
+    # a "Aaaah... Don't stop! Please don't stop!"
+    a "Ааааххххх... не останавливайся! Пожалуйста, не останавливайся!"
+
+# game/day08.rpy:816
+translate russian day08_ana_sex_a0bb9737:
+
+    # "{i}You feel her muscles contracting, applying more pressure to your dick. You're about to cum and Ana is close too, you feel."
+    "{i}ты чувствуешь, как ее мышцы сокращаются, оказывая большее давление на твой член. Ты собираешься кончить, и понимаешь, что Ана тоже близко."
+
+# game/day08.rpy:817
+translate russian day08_ana_sex_678e1d5b:
+
+    # p "I'm cumming."
+    p "Я кончаю."
+
+# game/day08.rpy:818
+translate russian day08_ana_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Да! Влей все в меня!"
+
+# game/day08.rpy:824
+translate russian day08_ana_sex_99948d78:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Аааааааххххххх!!!"
+
+# game/day08.rpy:828
+translate russian day08_ana_sex_5544b7c9:
+
+    # "{i}A thick load of sperm fills Ana's vagina. With clawing hands she pushes your body down, clearly urging you to keep going."
+    "{i}Густая сперма заполняет влагалище Аны. Царапая руки, она толкает ваше тело вниз, явно побуждая продолжать."
+
+# game/day08.rpy:830
+translate russian day08_ana_sex_1bd5a98d:
+
+    # a "Fuck me! I'm about to..."
+    a "Еби меня! Я почти..."
+
+# game/day08.rpy:831
+translate russian day08_ana_sex_a727b9dd:
+
+    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
+    "{i}С большим усилием ты продолжаешь ее трахать. Из ее влагалища течет сперма, из-за чего твой член становится скользким."
+
+# game/day08.rpy:838
+translate russian day08_ana_sex_be2d2108:
+
+    # a "Y-y-yesssssss!!!"
+    a "Дааааааааа!!!"
+
+# game/day08.rpy:839
+translate russian day08_ana_sex_2be3b5ce:
+
+    # "{i}Both her hands slam down on your ass as she holds you tight, orgasming wildly."
+    "{i}Обе ее руки хлопают тебя по заднице, когда она крепко держит тебя, испытывая дикий оргазм."
+
+# game/day08.rpy:844
+translate russian day08_ana_sex_219776d4:
+
+    # "{i}After you pull out Ana slides her fingers lazily in and out of her cunt, spreading cum all over her pubic area. She still moans softly."
+    "{i}Когда ты вытаскиваешь член, Ана лениво скользит пальцами внутрь и наружу, распределяя сперму по всей ее лобковой области. Она все еще тихо стонет."
+
+# game/day08.rpy:849
+translate russian day08_ana_sex_7db673e9:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's vagina still oozing with your cum."
+    "{i}Вам обоим нужно время, чтобы оправиться. Вы оба лежите обнаженными на кровати, из влагалища Аны все еще сочится сперма."
+
+# game/day08.rpy:860
+translate russian day08_ana_sex_35788734:
+
+    # "{i}As soon as you feel you're about to cum you pull out and shoot a thick load of sperm over Ana's body."
+    "{i}Как только ты чувствуешь, что собираешься кончить, ты вытаскиваешь и стреляешь густой струей спермы по телу Аны."
+
+# game/day08.rpy:864
+translate russian day08_ana_sex_99948d78_1:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Аааааааххххххх!!!"
+
+# game/day08.rpy:870
+translate russian day08_ana_sex_79bb4801:
+
+    # "{i}Clearly not satisfied, Ana rubs her pussy more violently, massaging her breasts with your cum."
+    "{i}Явно недовольная, Ана более яростно трет свою киску, массируя грудь твоей спермой."
+
+# game/day08.rpy:871
+translate russian day08_ana_sex_be2d2108_1:
+
+    # a "Y-y-yesssssss!!!"
+    a "Дааааааааа!!!"
+
+# game/day08.rpy:875
+translate russian day08_ana_sex_a3032372:
+
+    # "{i}Your dick still dripping with semen, you look at her while she violently orgasms on the bed."
+    "{i}Твой член все еще истекает спермой, ты смотришь на нее, пока она бурно кончает на кровати."
+
+# game/day08.rpy:880
+translate russian day08_ana_sex_d43e1bed:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's body covered with your drying cum."
+    "{i}Вам обоим нужно время, чтобы оправиться. Вы оба лежите обнаженными на кровати, тело Аны покрыто твоей стекающей спермой."
+
+# game/day08.rpy:889
+translate russian day08_ana_sex_9014c5a1:
+
+    # a "That was so good."
+    a "Это было так хорошо."
+
+# game/day08.rpy:890
+translate russian day08_ana_sex_cf6d0b68:
+
+    # p "I agree."
+    p "Согласен."
+
+# game/day08.rpy:891
+translate russian day08_ana_sex_27abc72b:
+
+    # a "If you're not careful I'm going to call you every hour for some exercise."
+    a "Если ты не будешь осторожен, я буду звонить тебе каждый час для таких упражнений."
+
+# game/day08.rpy:892
+translate russian day08_ana_sex_25d35c37:
+
+    # p "In that case, I hope I have the stamina to perform."
+    p "В таком случае я надеюсь, что у меня хватит выносливости, чтобы выступить на соревнованиях."
+
+# game/day08.rpy:893
+translate russian day08_ana_sex_96edc86c:
+
+    # a "Hate to say this, because I could have another go, but my Mom is about to come home. And I want to avoid the complicated questions she might have."
+    a "Ненавижу это говорить, потому что я могла бы еще раз, но моя мама вот-вот вернется домой. И я хочу избежать сложных вопросов, которые могут у нее возникнуть."
+
+# game/day08.rpy:894
+translate russian day08_ana_sex_8475d17b:
+
+    # p "{i}(Damn she's insatiable. Though I could go again as well, now that she mentions it.)"
+    p "{i}(Блин, она ненасытная. Хотя я тоже могу снова, когда она об этом упоминает.)"
+
+# game/day08.rpy:895
+translate russian day08_ana_sex_bb7dfb49:
+
+    # p "I understand."
+    p "Понимаю."
+
+# game/day08.rpy:896
+translate russian day08_ana_sex_f99d2351:
+
+    # a "I'll see you again soon."
+    a "Мы скоро увидимся снова."
+

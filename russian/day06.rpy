@@ -2739,4 +2739,95 @@ translate russian day06_night_visit_choices_d3e9a2f0:
 translate russian day06_night_visit_choices_e46d3fff:
 
     # p "{i}(Sweet dreams, [r_name]...)"
-    p "{i}(Сладких снов [r_name]...)"
+    p "{i}(Сладких снов [r_name]...)"# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day06.rpy:740
+translate russian day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Лучше уйти.)"
+
+# game/day06.rpy:747
+translate russian day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Ты слышишь стук в дверь."
+
+# game/day06.rpy:748
+translate russian day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Входите."
+
+# game/day06.rpy:750
+translate russian day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Привет, я... э-э-э ... .. Я думала о фильме и подумала, может быть, мы могли бы составить друг другу компанию?"
+
+# game/day06.rpy:751
+translate russian day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "Ты имеешь в виду ночь?"
+
+# game/day06.rpy:752
+translate russian day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "Конечно, глупыш!"
+
+# game/day06.rpy:753
+translate russian day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "Просто мне порой так одиноко, и я хотела бы, чтобы кто-то составил мне компанию."
+
+# game/day06.rpy:754
+translate russian day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "Все было так натурально в сегодняшнем фильме."
+
+# game/day06.rpy:755
+translate russian day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "{i}(Этот фильм определенно сделал ей день...)"
+
+# game/day06.rpy:761
+translate russian day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "Это отличная идея."
+
+# game/day06.rpy:762
+translate russian day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "Да! Я надеялась, что ты это скажешь!"
+
+# game/day06.rpy:763
+translate russian day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "Я не мог иначе."
+
+# game/day06.rpy:769
+translate russian day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "Не думаю, что это хорошая идея. Что если кто-то нас заметит?"
+
+# game/day06.rpy:770
+translate russian day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Оу..."
+
+# game/day06.rpy:771
+translate russian day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "Тогда спокойной ночи."
+

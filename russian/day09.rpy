@@ -4271,3 +4271,17 @@ translate russian day09_r_l_shopping_choices_fedcbc1a:
 
     # "{i}Reluctantly, [l_name] disappears into the booth."
     "{i}Неохотно [имя_л] исчезает в кабинке."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day09.rpy:1268
+translate russian day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Вероятно, она вернется домой поздно вечером...)"
+
+# game/day09.rpy:1274
+translate russian day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Пора хорошенько поспать.)"
+

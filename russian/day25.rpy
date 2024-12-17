@@ -4058,4 +4058,899 @@ translate russian day25_iris_meeting_ae79a827:
 translate russian day25_iris_meeting_b829791f:
 
     # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
-    ir "Спасибо тебе [p_name], ты заставил меня почувствовать себя особенной после столь долгого перерыва, а это сейчас самое главное"
+    ir "Спасибо тебе [p_name], ты заставил меня почувствовать себя особенной после столь долгого перерыва, а это сейчас самое главное"# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day25.rpy:944
+translate russian day25_r_sex_250f8300:
+
+    # "{i}As soon as you enter the deserted classroom, [r_name] grabs your face and her lips are on yours. Mad with lust, you feel the swell of her small breasts against the palms of your hands."
+    "{i}Как только вы входите в опустевший класс, [r_name] хватает твое лицо, и ее губы оказываются на твоих. Обезумев от вожделения, ты чувствуешь, как ее маленькие соски набухают под твоими ладонями."
+
+# game/day25.rpy:945
+translate russian day25_r_sex_08d3f5ac:
+
+    # r "Oh, [p_name]!"
+    r "Ох, [p_name]!"
+
+# game/day25.rpy:946
+translate russian day25_r_sex_ab5c9289:
+
+    # r "I wish we could make love right here on the spot."
+    r "Я бы хотела, чтобы мы могли заняться любовью прямо здесь, на месте."
+
+# game/day25.rpy:947
+translate russian day25_r_sex_d03baccd:
+
+    # p "That's bound to be awkward if the teacher steps in early."
+    p "Будет неловко, если учитель придет раньше."
+
+# game/day25.rpy:948
+translate russian day25_r_sex_821e294d:
+
+    # r "I know and it sucks!"
+    r "Знаю, это отстой!"
+
+# game/day25.rpy:949
+translate russian day25_r_sex_a87ca5a3:
+
+    # p "Majorly."
+    p "Определенно."
+
+# game/day25.rpy:950
+translate russian day25_r_sex_afd1642e:
+
+    # p "But I might know something else to hold you over until we get someplace more private."
+    p "Но я, возможно, знаю что-то еще, чтобы задержать тебя, пока мы не найдем более уединенное место."
+
+# game/day25.rpy:952
+translate russian day25_r_sex_63256490:
+
+    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
+    "{i}Когда ты опускаешься, чтобы твоя голова оказалась на уровне ее живота, ты медленно расстегиваешь пуговицы на ее шортах, чтобы сдвинуть их, а ее трусики - потянуть вниз."
+
+# game/day25.rpy:953
+translate russian day25_r_sex_fc2fb4ed:
+
+    # p "Let's get these off, shall we?"
+    p "Давай скинем эти тряпки."
+
+# game/day25.rpy:958
+translate russian day25_r_sex_6d517046:
+
+    # r "What are you planning on doing, [p_name]?"
+    r "Что ты задумал, [p_name]?"
+
+# game/day25.rpy:959
+translate russian day25_r_sex_f76231ff:
+
+    # p "I think you deserve a treat. A little excitement."
+    p "Я думаю, ты заслуживаешь угощения."
+
+# game/day25.rpy:960
+translate russian day25_r_sex_dcb7cee5:
+
+    # r "Ohhh! I'm a big fan of excitement!"
+    r "Оуу! Я большая фанатка угощений!"
+
+# game/day25.rpy:963
+translate russian day25_r_sex_3fabb8ca:
+
+    # "{i}The position gives you a great view of her tight pussy, your sister's swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}Эта поза дает отличный вид на ее тугую киску, набухший клитор сестры манит, а твои ноздри наполняются ее сладким ароматом."
+
+# game/day25.rpy:965
+translate russian day25_r_sex_1e147499:
+
+    # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}Эта поза дает отличный вид на ее тугую киску, набухший клитор девушки манит, а твои ноздри наполняются ее сладким ароматом."
+
+# game/day25.rpy:970
+translate russian day25_r_sex_35611710:
+
+    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
+    "{i}Предвкушение уже сделало ее влажной, и когда твой язык касается ее половых губ, ты упиваешься ее сладкими соками."
+
+# game/day25.rpy:971
+translate russian day25_r_sex_74d93c92:
+
+    # r "Oh god, yes!"
+    r "О боже, да!"
+
+# game/day25.rpy:972
+translate russian day25_r_sex_4a95aa38:
+
+    # "{i}[r_name] twists and squirms while your tongue flicks ever rapidly between her pussy lips."
+    "{i}[r_name] извивается и извивается, в то время как твой язык быстро скользит между ее половых губ."
+
+# game/day25.rpy:973
+translate russian day25_r_sex_e480cf4c:
+
+    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
+    "{i}Где-то звонит звонок, и через некоторое время вы оба слышите отдаленные шаги в коридоре, [r_name], похоже, не замечает или не заботится."
+
+# game/day25.rpy:974
+translate russian day25_r_sex_0dee5928:
+
+    # p "I'm gonna have to make this quick, baby."
+    p "Я сделаю это быстро, малышка."
+
+# game/day25.rpy:975
+translate russian day25_r_sex_8ceaf300:
+
+    # r "F-f-finish it, p-please!"
+    r "Закончи это, по-о-ожалуйста-а-а!"
+
+# game/day25.rpy:981
+translate russian day25_r_sex_90dd1e99:
+
+    # "{i}Wanting to give your sister the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Желая дать своей сестре удовлетворение, которого она так желает, ты переключаешь свое внимание на стимуляцию ее клитора. [r_name] подтягивает ногу, чтобы дать лучший доступ."
+
+# game/day25.rpy:983
+translate russian day25_r_sex_531e0ac8:
+
+    # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Желая дать своей девушке удовлетворение, которого она так желает, ты переключаешь свое внимание на стимуляцию ее клитора. [r_name] подтягивает ногу, чтобы дать лучший доступ."
+
+# game/day25.rpy:984
+translate russian day25_r_sex_64ce9fc9:
+
+    # r "Ooooh, [p_name], don't stop, please!"
+    r "Ооооооххххх, [p_name], прошу, не останавливайся!"
+
+# game/day25.rpy:991
+translate russian day25_r_sex_69f611bc:
+
+    # r "Ooh, yes! Y-yyyyees!"
+    r "Оо да! Да-а-аа!!!"
+
+# game/day25.rpy:992
+translate russian day25_r_sex_f77a813c:
+
+    # "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massaging her clitoris. Her saltiness overwhelms your mouth as her juices run freely."
+    "{i}тело [r_name] дрожит в оргазме, когда она достигает кульминации, когда твой язык крепко массирует ее клитор. Ее соленость переполняет твой рот, когда соки свободно текут из ее киски."
+
+# game/day25.rpy:997
+translate russian day25_r_sex_3874a9af:
+
+    # r "Just what I needed today!"
+    r "Именно то, что мне было сегодня нужно!"
+
+# game/day25.rpy:1001
+translate russian day25_r_sex_0b7dd48e:
+
+    # p "Better than having lunch at the cafeteria?"
+    p "Лучше ланча в кафе?"
+
+# game/day25.rpy:1002
+translate russian day25_r_sex_eb3d12e7:
+
+    # r "You bet."
+    r "Стопроцентно."
+
+# game/day25.rpy:1003
+translate russian day25_r_sex_a74a2417:
+
+    # p "I'd better go now, before anybody mistakes me for a student."
+    p "Мне лучше уйти сейчас, пока кто-нибудь не принял меня за ученика."
+
+# game/day25.rpy:1004
+translate russian day25_r_sex_d436b3c0:
+
+    # r "Or a teacher!"
+    r "Или учителя!"
+
+# game/day25.rpy:1005
+translate russian day25_r_sex_45e7d386:
+
+    # p "God forbid..."
+    p "Упаси господь..."
+
+# game/day25.rpy:1023
+translate russian day25_l_fingering_7a620cd9:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where [r_name] and you watched a couple have fun with each other."
+    "{i}Ночной воздух холодит кожу, когда вы выходите из бассейна и направляетесь в огороженную зону, где вы с [r_name] наблюдали, как пара развлекается друг с другом."
+
+# game/day25.rpy:1025
+translate russian day25_l_fingering_bf7b9c24:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where the hot tubs are located."
+    "{i}Ночной воздух холодит вашу кожу, когда вы выходите из бассейна и направляетесь в огороженную зону, где расположены гидромассажные ванны."
+
+# game/day25.rpy:1033
+translate russian day25_l_fingering_b58df64f:
+
+    # p "Yup, still very nice. Come on in!"
+    p "Да, все еще очень приятно. Залезай!"
+
+# game/day25.rpy:1034
+translate russian day25_l_fingering_a1db61e1:
+
+    # "{i}You watch as [l_name] tries the water first with her toes and admire her naked body. A smile graces her face when she notices that the water is indeed still warm."
+    "{i}Ты смотришь, как [l_name] сначала пробует воду пальцами ног, и восхищаешься ее обнаженным телом. Улыбка украшает ее лицо, когда она замечает, что вода действительно еще теплая."
+
+# game/day25.rpy:1036
+translate russian day25_l_fingering_15f142cd:
+
+    # l "Ooh, the water is bubbling. It tickles."
+    l "Ооу, вода пузырится. Это щекотно."
+
+# game/day25.rpy:1037
+translate russian day25_l_fingering_5e87a508:
+
+    # p "You're so far away, why don't you come over."
+    p "Ты так далеко, почему бы тебе не подползти ближе."
+
+# game/day25.rpy:1038
+translate russian day25_l_fingering_63b3750e:
+
+    # l "Good idea."
+    l "Хорошая идея."
+
+# game/day25.rpy:1041
+translate russian day25_l_fingering_00a857b2:
+
+    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
+    "{i}Ваша сестра подплывает ближе и устраивается в ваших объятиях. Ее попа трется о вашу промежность и растущую эрекцию, но она, кажется, не возражает."
+
+# game/day25.rpy:1043
+translate russian day25_l_fingering_b1de4213:
+
+    # "{i}[l_name] swims closer and nestles herself in your arms. Her butt rubs against your crotch and your erection is growing, but she doesn't seem to mind."
+    "{i}[l_name] подплывает ближе и прижимается к тебе. Ее задница трется о твою промежность, и твоя эрекция растет, но она, кажется, не возражает."
+
+# game/day25.rpy:1044
+translate russian day25_l_fingering_f035222d:
+
+    # l "Mmmm, I feel all relaxed now."
+    l "Ммм, теперь я чувствую расслабление."
+
+# game/day25.rpy:1045
+translate russian day25_l_fingering_fe2afd8b:
+
+    # "{i}There's a long silence in which you both enjoy just sitting close to each other."
+    "{i}Наступает долгое молчание, в котором вам обоим нравится просто сидеть рядом друг с другом."
+
+# game/day25.rpy:1046
+translate russian day25_l_fingering_7471acc4:
+
+    # l "How can you be so free, [p_name]?"
+    l "Как ты можешь быть таким свободным, [p_name]?"
+
+# game/day25.rpy:1047
+translate russian day25_l_fingering_1aa028eb:
+
+    # p "I don't know, I just am."
+    p "Не знаю. Это получается само собой."
+
+# game/day25.rpy:1048
+translate russian day25_l_fingering_f4565c3a:
+
+    # l "I just wish I had a little of your carefreeness."
+    l "Я просто хотела бы иметь немного твоей беззаботности."
+
+# game/day25.rpy:1049
+translate russian day25_l_fingering_a3ac60c7:
+
+    # p "I'm sure it's something you can learn."
+    p "Я уверен, этому можно научиться."
+
+# game/day25.rpy:1050
+translate russian day25_l_fingering_260bd9b3:
+
+    # l "I think I'd like... I'd like to feel good... "
+    l "Думаю, мне бы понравилось... Я хотела бы чувствовать себя хорошо..."
+
+# game/day25.rpy:1051
+translate russian day25_l_fingering_65f01471:
+
+    # p "You mean you'd like me to touch your pussy?"
+    p "Ты хочешь сказать, что хочешь, чтобы я потрогал твою киску?"
+
+# game/day25.rpy:1052
+translate russian day25_l_fingering_ec6cf6d6:
+
+    # l "Oh, [p_name], can't you just..."
+    l "Оу, [p_name], ты не можешь просто..."
+
+# game/day25.rpy:1058
+translate russian day25_l_fingering_81aea3f3:
+
+    # "{i}Without waiting for her reply, your hand dips below the waterline and slips between her legs. You hear [l_name] holding her breath."
+    "{i}Не дожидаясь ее ответа, ты опускаешь свою руку ниже ватерлинии, и она скользит между ее ног. Ты слышишь, как [l_name] задерживает дыхание."
+
+# game/day25.rpy:1060
+translate russian day25_l_fingering_3329c202:
+
+    # p "Touch your pussy just like that?"
+    p "Потрогать твою киску вот так?"
+
+# game/day25.rpy:1061
+translate russian day25_l_fingering_ac68ab35:
+
+    # l "Y-yes, like that."
+    l "Да, вот так..."
+
+# game/day25.rpy:1063
+translate russian day25_l_fingering_3d4b35ee:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
+    "{i}Твои пальцы дразнят чувствительные области вокруг ее половых органов, и твоя сестра все сильнее опирается на твою грудь."
+
+# game/day25.rpy:1065
+translate russian day25_l_fingering_c9056500:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
+    "{i}Твои пальцы дразнят чувствительные области вокруг ее половых органов, и девушка все сильнее опирается на твою грудь."
+
+# game/day25.rpy:1067
+translate russian day25_l_fingering_a333d905:
+
+    # "{i}When you start massaging her clit, [l_name] lets out a small moan and her hand tousles your hair."
+    "{i}Когда ты начинаешь массировать ее клитор, [l_name] издает тихий стон, и ее рука взъерошивает твои волосы."
+
+# game/day25.rpy:1068
+translate russian day25_l_fingering_0a90328c:
+
+    # p "Do you want me inside of you?"
+    p "Хочешь, чтобы я вошел внутрь?"
+
+# game/day25.rpy:1069
+translate russian day25_l_fingering_ab687a69:
+
+    # l "Yes, f-finger me, [p_name]!"
+    l "Да, вставь в меня палец, [p_name]!"
+
+# game/day25.rpy:1071
+translate russian day25_l_fingering_6eeb5756:
+
+    # "{i}Two fingers slip inside her pussy as you keep stimulating her clitoris with your thumb. [l_name]'s breathing is ragged and she seems close to orgasm."
+    "{i}Два пальца скользят в ее киску, когда ты продолжаешь стимулировать ее клитор большим пальцем. Дыхание [l_name] прерывистое, и она, кажется, близка к оргазму."
+
+# game/day25.rpy:1072
+translate russian day25_l_fingering_82a4e302:
+
+    # p "Cum for me, baby!"
+    p "Кончи для меня, малышка!"
+
+# game/day25.rpy:1073
+translate russian day25_l_fingering_c4f51dd6:
+
+    # l "Y-y-yesss, [p_name], I'm..."
+    l "Д-д-да! [p_name], я..."
+
+# game/day25.rpy:1080
+translate russian day25_l_fingering_6c62f416:
+
+    # l "Aaaaaah!"
+    l "Аааааааахххххх!"
+
+# game/day25.rpy:1081
+translate russian day25_l_fingering_8c7f77e2:
+
+    # "{i}[l_name] trembles and squirms as she orgasms, your fingers still inside her. Her violent movements eventually force you outside of her and she rides out the last waves of her orgasm pressed against you."
+    "{i}[l_name] дрожит и извивается, когда кончает, твои пальцы все еще внутри нее. Ее яростные движения в конце концов заставляют тебя выйти из нее, и она переживает последние волны своего оргазма, прижимаясь к тебе."
+
+# game/day25.rpy:1085
+translate russian day25_l_fingering_375652b2:
+
+    # l "T-that... that was fantastic. I feel all better now."
+    l "Э-это... это была фантастика. Я чувствую себя намного лучше."
+
+# game/day25.rpy:1087
+translate russian day25_l_fingering_da25e56e:
+
+    # l "This evening was a great idea, [p_name], thank you so much."
+    l "Этот вечер был потрясающей идеей, [p_name], спасибо тебе огромное."
+
+# game/day25.rpy:1088
+translate russian day25_l_fingering_db488370:
+
+    # p "You're very welcome."
+    p "Обращайся в любое время."
+
+# game/day25.rpy:1090
+translate russian day25_l_fingering_0e2e55a4:
+
+    # "{i}You keep floating in the hot tub until the midnight air is too chilly and you decide to go home."
+    "{i}Ты плаваешь в горячей ванне до тех пор, пока полуночный воздух не становится слишком холодным, и ты решаешь вернуться домой."
+
+# game/day25.rpy:1109
+translate russian day25_i_sex_9ec564bd:
+
+    # "{i}The door to the bedroom is wide open, and when you arrive, Iris is already down to her underwear."
+    "{i}Дверь в спальню распахнута настежь, и когда ты входишь, Айрис уже в нижнем белье."
+
+# game/day25.rpy:1110
+translate russian day25_i_sex_3caad50d:
+
+    # p "{i}(Those curves are fine indeed.)"
+    p "{i}(Эти кудри действительно прекрасны.)"
+
+# game/day25.rpy:1111
+translate russian day25_i_sex_9c584147:
+
+    # p "Iris?"
+    p "Айрис?"
+
+# game/day25.rpy:1113
+translate russian day25_i_sex_b0d0767a:
+
+    # "{i}Iris doesn't appear very startled at your voice, but she still covers her breasts when she faces you."
+    "{i}Айрис, кажется, не очень удивлена твоим голосом, но она все еще прикрывает грудь, когда смотрит на тебя."
+
+# game/day25.rpy:1114
+translate russian day25_i_sex_80f822d5:
+
+    # p "Did you want me to follow you?"
+    p "Ты хотела, чтобы я пошел за тобой?"
+
+# game/day25.rpy:1116
+translate russian day25_i_sex_af9930e6:
+
+    # ir "Maybe..."
+    ir "Возможно..."
+
+# game/day25.rpy:1117
+translate russian day25_i_sex_ddad1a4b:
+
+    # ir "I look like a worn out sack of meat, don't I?"
+    ir "Я похожа на изношенный мешок с мясом, не так ли?"
+
+# game/day25.rpy:1120
+translate russian day25_i_sex_c6334f39:
+
+    # p "{i}(Damnit, she clearly has body issues.)"
+    p "{i}(Черт, у нее явно проблемы с принятием своего тела.)"
+
+# game/day25.rpy:1121
+translate russian day25_i_sex_e4d7ab52:
+
+    # p "Why would you say that?"
+    p "Почему ты так говоришь?"
+
+# game/day25.rpy:1123
+translate russian day25_i_sex_57977556:
+
+    # ir "Because Justin never touches me... Never looks at me anymore."
+    ir "Потому что Джастин никогда не трогает меня... никогда на меня не смотрит."
+
+# game/day25.rpy:1124
+translate russian day25_i_sex_b9b73004:
+
+    # p "I think Justin is too absorbed in his work to care about anything else."
+    p "Я думаю, что Джастин слишком поглощен своей работой, чтобы думать о чем-то еще."
+
+# game/day25.rpy:1125
+translate russian day25_i_sex_8508b229:
+
+    # p "He's so absorbed that he doesn't see his beautiful wife for what she is: a desirable woman."
+    p "Он так поглощен, что не видит свою прекрасную жену такой, какая она есть: желанной женщиной."
+
+# game/day25.rpy:1127
+translate russian day25_i_sex_e0cb8901:
+
+    # ir "Do you really think that?"
+    ir "Ты правда так думаешь?"
+
+# game/day25.rpy:1128
+translate russian day25_i_sex_b62d145c:
+
+    # p "That you're desirable? Yes, I think so."
+    p "Что ты желанна? Да, я так думаю."
+
+# game/day25.rpy:1129
+translate russian day25_i_sex_6fa9dade:
+
+    # p "You possess everything I love in a woman. A radiant smile, beautiful curves, luscious breasts and maturity."
+    p "В тебе есть все, что я люблю в женщине. Лучезарная улыбка, красивые изгибы, сочная грудь и зрелость."
+
+# game/day25.rpy:1130
+translate russian day25_i_sex_fa2a42a8:
+
+    # ir "Luscious breasts, really? I always thought they were in the way."
+    ir "Сочная грудь? Правда? Я всегда думала, что они мешают."
+
+# game/day25.rpy:1131
+translate russian day25_i_sex_5e50fb58:
+
+    # p "I can't say that I see your point."
+    p "Не могу с тобой согласиться."
+
+# game/day25.rpy:1132
+translate russian day25_i_sex_facdc743:
+
+    # ir "Do you still want me to put that dress on?"
+    ir "Ты все еще хочешь, чтобы я надела платье?"
+
+# game/day25.rpy:1133
+translate russian day25_i_sex_86d15f25:
+
+    # p "If you let me watch you undress..."
+    p "Если ты позволишь мне смотреть на тебя, раздетую..."
+
+# game/day25.rpy:1134
+translate russian day25_i_sex_774139e9:
+
+    # ir "That's okay."
+    ir "Все в порядке."
+
+# game/day25.rpy:1135
+translate russian day25_i_sex_e2405543:
+
+    # "{i}Iris proceeds to unclasp her bra and is still a little uncomfortable with the whole situation."
+    "{i}Айрис продолжает расстегивать лифчик, и ей все еще немного не по себе от всей этой ситуации."
+
+# game/day25.rpy:1137
+translate russian day25_i_sex_44cb0290:
+
+    # p "Just what I thought."
+    p "Именно то, что я думал."
+
+# game/day25.rpy:1138
+translate russian day25_i_sex_20c0c941:
+
+    # ir "What? Are they..."
+    ir "Что? Они..."
+
+# game/day25.rpy:1139
+translate russian day25_i_sex_fdc9e41d:
+
+    # p "A perfect pair."
+    p "Потрясающие."
+
+# game/day25.rpy:1141
+translate russian day25_i_sex_25b76bba:
+
+    # ir "Even if I don't know whether to believe you or not, it's still nice to get these compliments."
+    ir "Даже если я не знаю, верить тебе или нет, все равно приятно получать эти комплименты."
+
+# game/day25.rpy:1146
+translate russian day25_i_sex_887cad5a:
+
+    # p "You're a vision!"
+    p "Ты невероятная!"
+
+# game/day25.rpy:1147
+translate russian day25_i_sex_c18f3955:
+
+    # p "But..."
+    p "Но..."
+
+# game/day25.rpy:1148
+translate russian day25_i_sex_2aca1d3c:
+
+    # ir "But? Is something wrong."
+    ir "Но? Что-то не так."
+
+# game/day25.rpy:1149
+translate russian day25_i_sex_6bc6dd21:
+
+    # p "You could say that."
+    p "Можно сказать и так."
+
+# game/day25.rpy:1150
+translate russian day25_i_sex_84779fec:
+
+    # p "I've seen those beautiful breasts of yours and I kinda want to see more of you..."
+    p "Я видел твою красивую грудь, и мне хочется видеть больше..."
+
+# game/day25.rpy:1151
+translate russian day25_i_sex_c2131b78:
+
+    # "{i}Wordlessly, Iris turns her back and unzips the dress, after that her panties fall to the floor."
+    "{i}Не говоря ни слова, Айрис поворачивается спиной и расстегивает платье, после чего ее трусики падают на пол."
+
+# game/day25.rpy:1153
+translate russian day25_i_sex_713e1875:
+
+    # ir "You mean like this?"
+    ir "Ты имеешь в виду это?"
+
+# game/day25.rpy:1154
+translate russian day25_i_sex_ff5204b0:
+
+    # p "{i}(Sweet Jesus, I'd like to give those buttocks a good slapping.)"
+    p "{i}(Боже милостивый, мне бы хотелось хорошенько шлепнуть тебя по ягодицам.)"
+
+# game/day25.rpy:1155
+translate russian day25_i_sex_9fdfc4c8:
+
+    # p "Exactly like that."
+    p "Именно это."
+
+# game/day25.rpy:1160
+translate russian day25_i_sex_6dde063f:
+
+    # ir "If you want me, I'm yours..."
+    ir "Если ты хочешь меня, я твоя..."
+
+# game/day25.rpy:1161
+translate russian day25_i_sex_f49d9534:
+
+    # ir "But I want to see you too..."
+    ir "Но я хочу увидеть тебя тоже..."
+
+# game/day25.rpy:1163
+translate russian day25_i_sex_95d0da94:
+
+    # "{i}Without much ceremony you undress yourself and find Iris staring longingly at your erect cock."
+    "{i}Без особых церемоний ты раздеваешься и обнаруживаешь, что Айрис с тоской смотрит на твой возбужденный член."
+
+# game/day25.rpy:1164
+translate russian day25_i_sex_c27fd2fa:
+
+    # ir "It's been a while... I almost forgot what it was like."
+    ir "Это было так давно... Я почти забыла, на что это похоже."
+
+# game/day25.rpy:1165
+translate russian day25_i_sex_4da5b111:
+
+    # ir "You look so handsome."
+    ir "Ты выглядишь так красиво."
+
+# game/day25.rpy:1167
+translate russian day25_i_sex_c0e0f065:
+
+    # ir "I can't believe we're doing this."
+    ir "Не могу поверить, что мы это делаем."
+
+# game/day25.rpy:1169
+translate russian day25_i_sex_0a7056a4:
+
+    # ir "But the woman you were with?! You aren't cheating on her, are you?"
+    ir "Но женщина, с которой ты был?! Ты ведь ей не изменяешь, правда?"
+
+# game/day25.rpy:1170
+translate russian day25_i_sex_59390063:
+
+    # p "We're dating, but not sure of our feelings yet. Besides, I'm all for open relationships."
+    p "Мы встречаемся, но еще не уверены в своих чувствах. Кроме того, я за открытые отношения."
+
+# game/day25.rpy:1172
+translate russian day25_i_sex_1952c19f:
+
+    # ir "A handsome man like you, you must have a girlfriend."
+    ir "Такой красавчик, как ты, не может не иметь девушки."
+
+# game/day25.rpy:1173
+translate russian day25_i_sex_2c23e463:
+
+    # p "Yes, I'm seeing some girls, but nothing serious. Besides, I'm all for open relationships."
+    p "Да, я встречаюсь с некоторыми девушками, но ничего серьезного. Кроме того, я за открытые отношения."
+
+# game/day25.rpy:1174
+translate russian day25_i_sex_b169d104:
+
+    # ir "So are we really doing this?"
+    ir "Так мы правда это делаем?"
+
+# game/day25.rpy:1175
+translate russian day25_i_sex_62c06072:
+
+    # p "Yes Iris, we are. Just lie down and kiss me."
+    p "Да, Айрис, правда. Просто ляг и поцелуй меня."
+
+# game/day25.rpy:1180
+translate russian day25_i_sex_200fd0f6:
+
+    # "{i}A little hesitant, Iris lets herself be guided down to the mattress, but as soon as your lips touch and your tongues intertwine, she no longer has any reservations."
+    "{i}Немного нерешительная Ирис позволяет уложить себя на матрас, но как только ваши губы соприкасаются и ваши языки переплетаются, у нее больше нет никаких оговорок."
+
+# game/day25.rpy:1181
+translate russian day25_i_sex_18e1759f:
+
+    # ir "Oh [p_name], kiss me again!"
+    ir "Ох, [p_name], поцелуй меня снова!"
+
+# game/day25.rpy:1182
+translate russian day25_i_sex_dd6c002a:
+
+    # "{i}You notice her kisses have a bit of a desperate edge to them, a hunger maybe, as if she's afraid you might still leave her."
+    "{i}Ты замечаешь, что в ее поцелуях есть что-то отчаянное, страсть, как будто она боится, что ты все еще можешь оставить ее."
+
+# game/day25.rpy:1184
+translate russian day25_i_sex_3f08601e:
+
+    # "{i}When you caress her full breasts and touch her soft erect nipples, Iris lets out a sigh of pleasure."
+    "{i}Когда ты ласкаешь ее полные груди и прикасаешься к ее мягким эрегированным соскам, Айрис издает вздох удовольствия"
+
+# game/day25.rpy:1185
+translate russian day25_i_sex_d9367c64:
+
+    # p "Do you like it when I touch you there, Iris?"
+    p "Тебе нравится, когда я трогаю тебя вот так, Айрис?"
+
+# game/day25.rpy:1186
+translate russian day25_i_sex_2b5f856c:
+
+    # ir "Mmmm, yes."
+    ir "Ммммммм, да."
+
+# game/day25.rpy:1188
+translate russian day25_i_sex_e77aac7b:
+
+    # "{i}You move down to her plump ass and massage her buttocks. Iris seems to be relaxing more and more as you discover her body."
+    "{i}Ты спускаешься к ее пухлой попке и массируешь ее ягодицы, Ирис, кажется, расслабляется все больше и больше, когда ты открываешь для себя ее тело."
+
+# game/day25.rpy:1189
+translate russian day25_i_sex_2004ab1b:
+
+    # p "Do you want to feel good?"
+    p "Ты хочешь почувствовать себя хорошо?"
+
+# game/day25.rpy:1190
+translate russian day25_i_sex_9c3b627f:
+
+    # ir "Yes..."
+    ir "Да..."
+
+# game/day25.rpy:1192
+translate russian day25_i_sex_c3edf5bb:
+
+    # "{i}Gently you turn her on her back again, and a little embarrassed, the older woman closes her legs."
+    "{i}Осторожно ты снова переворачиваешь ее на спину, и немного смущенная женщина закрывает ноги."
+
+# game/day25.rpy:1193
+translate russian day25_i_sex_2b101f07:
+
+    # p "Don't be shy, Iris."
+    p "Не стесняйся, Айрис"
+
+# game/day25.rpy:1195
+translate russian day25_i_sex_c192101e:
+
+    # "{i}You effortlessly spread her legs. The reverend's wife doesn't stop you."
+    "{i}Вы без труда раздвигаете ее ноги. Жена преподобного не останавливает вас."
+
+# game/day25.rpy:1196
+translate russian day25_i_sex_0c1def5d:
+
+    # p "{i}(Wow, that's an old-school bush, right there.)"
+    p "{i}(Вау, это куст старой школы, прямо здесь.)"
+
+# game/day25.rpy:1201
+translate russian day25_i_sex_728ab8a9:
+
+    # "{i}Iris wants to protest when you move your head down between her legs, but she is silent the moment your tongue touches her pussy."
+    "{i}Айрис хочет запротестовать, когда ты опускаешь голову ей между ног, но она молчит в тот момент, когда твой язык касается ее киски."
+
+# game/day25.rpy:1202
+translate russian day25_i_sex_a08cbfab:
+
+    # ir "Oooh, [p_name]!"
+    ir "Ооооххх, [p_name]!"
+
+# game/day25.rpy:1204
+translate russian day25_i_sex_e4744b64:
+
+    # "{i}Her taste fills your mouth as you penetrate her cunt with your probing tongue. Iris moans and writhes on the bed."
+    "{i}Ее вкус наполняет твой рот, когда ты проникаешь в ее влагалище своим зондирующим языком. Айрис стонет и корчится на кровати."
+
+# game/day25.rpy:1205
+translate russian day25_i_sex_82d39544:
+
+    # ir "Y-yes, right there, keep doing that. Aaaaah!"
+    ir "Д-да, вот так, продолжай. Ааахххх!"
+
+# game/day25.rpy:1208
+translate russian day25_i_sex_96ee126b:
+
+    # "{i}Licking her clitoris is what finally makes her explode in your mouth. She shudders and takes your head in her hands, pushing you down on her slit."
+    "{i}Облизывание ее клитора - это то, что в конце концов заставляет ее взорваться у тебя во рту. Она вздрагивает и берет твою голову в свои руки, прижимая тебя к своей щели."
+
+# game/day25.rpy:1209
+translate russian day25_i_sex_f27ed8be:
+
+    # ir "I want you, [p_name], I want you inside me!"
+    ir "Я хочу тебя, [p_name], хочу тебя внутри!"
+
+# game/day25.rpy:1213
+translate russian day25_i_sex_fdda4f53:
+
+    # "{i}Like two horny teenagers, she helps you scramble on top of her, takes hold of your throbbing cock and eagerly guides it inside her wet pussy."
+    "{i}Как возбужденный подросток, она помогает тебе забраться на нее сверху, берет в руки твой пульсирующий член и нетерпеливо направляет его в свою влажную киску."
+
+# game/day25.rpy:1215
+translate russian day25_i_sex_ace14589:
+
+    # ir "Fuck me!"
+    ir "Трахни меня!"
+
+# game/day25.rpy:1221
+translate russian day25_i_sex_91ba433a:
+
+    # "{i}Your movements are tender, yet you penetrate her deeply. Each time you thrust your cock to the root inside her cunt, her nails claw into your buttocks."
+    "{i}Твои движения нежны, но ты глубоко проникаешь в нее. Каждый раз, когда ты засовываешь свой член до самого корня в ее влагалище, ее ногти впиваются в твои ягодицы."
+
+# game/day25.rpy:1223
+translate russian day25_i_sex_54864ef0:
+
+    # ir "Oooh, y-you feel so good, [p_name]."
+    ir "Аааххх, так хорошо!"
+
+# game/day25.rpy:1224
+translate russian day25_i_sex_828438ab:
+
+    # p "Aaah, Iris!"
+    p "Ааахх! Айрис!"
+
+# game/day25.rpy:1226
+translate russian day25_i_sex_8809bb85:
+
+    # "{i}For a moment, Iris is annoyed when you pull out, but after you turn her on her side and you penetrate her again she lets out a small sigh of relief."
+    "{i}На мгновение Айрис раздражается, когда ты вырываешься, но после того, как ты поворачиваешь ее на бок и снова проникаешь в нее, она издает легкий вздох облегчения."
+
+# game/day25.rpy:1227
+translate russian day25_i_sex_d46ea59a:
+
+    # ir "Are you going to cum for me, [p_name]?"
+    ir "Ты кончишь для меня, [p_name]?"
+
+# game/day25.rpy:1228
+translate russian day25_i_sex_bce655a9:
+
+    # p "G-god yes Iris!"
+    p "Боже, да, Айрис!"
+
+# game/day25.rpy:1229
+translate russian day25_i_sex_ef490d67:
+
+    # "{i}Your hands dig into her soft flesh, and you fuck her even more passionately when you feel your orgasm approach."
+    "{i}Твои руки впиваются в ее мягкую плоть, и ты трахаешь ее еще более страстно, когда чувствуешь приближение оргазма."
+
+# game/day25.rpy:1240
+translate russian day25_i_sex_f5ee9209:
+
+    # p "Aaaaah!"
+    p "Аааааааахххх!"
+
+# game/day25.rpy:1241
+translate russian day25_i_sex_891c825e:
+
+    # "{i}As your cock erupts inside of her, Iris opens her legs slight further to allow you to shoot your seed even deeper inside of her."
+    "{i}Когда твой член извергается внутри нее, Айрис немного раздвигает ноги, чтобы позволить тебе выстрелить своим семенем еще глубже в нее."
+
+# game/day25.rpy:1242
+translate russian day25_i_sex_62f76ee7:
+
+    # ir "Don't stop, ooooh! Mmmmmmm!"
+    ir "Не останавливайся оооо! Ммммммммм!"
+
+# game/day25.rpy:1257
+translate russian day25_i_sex_f5ee9209_1:
+
+    # p "Aaaaah!"
+    p "Аааааааахххх!"
+
+# game/day25.rpy:1258
+translate russian day25_i_sex_32c25792:
+
+    # "{i}After you pull out, your cock erupts and Iris directs the streams of cum towards herself, so as to allow your strands of semen to cover her body."
+    "{i}После того, как ты выходишь, твой член извергается и направляет потоки спермы на Айрис, чтобы позволить твоей сперме покрыть ее тело."
+
+# game/day25.rpy:1259
+translate russian day25_i_sex_b43b3ad9:
+
+    # ir "That's it, cover me with your cum, [p_name]!"
+    ir "Вот и все, накрой меня своей спермой [p_name]!"
+
+# game/day25.rpy:1269
+translate russian day25_i_sex_ae79a827:
+
+    # "{i}Thoroughly spent, you lie with Iris for a while, her head resting on your chest."
+    "{i}Ты провел некоторое время, лежа рядом с Айрис, ее голова покоилась у тебя на груди."
+
+# game/day25.rpy:1270
+translate russian day25_i_sex_6e5d107c:
+
+    # ir "I'm glad you came by for coffee."
+    ir "Я рада, что ты зашел выпить кофе"
+
+# game/day25.rpy:1271
+translate russian day25_i_sex_5f123bc2:
+
+    # p "As am I."
+    p "Как и я."
+

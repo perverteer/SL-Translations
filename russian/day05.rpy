@@ -3574,4 +3574,449 @@ translate russian day05_restaurant_main_course_choices_eed1e285:
 translate russian day05_restaurant_main_course_choices_b87fab88:
 
     # l "I..."
-    l "Я..."
+    l "Я..."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day05.rpy:1208
+translate russian day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Алина быстро раздевается и падает на колени."
+
+# game/day05.rpy:1210
+translate russian day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "Я была очень плохой девочкой, [p_name]."
+
+# game/day05.rpy:1211
+translate russian day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "Пожалуйста, накажи меня своим твердым членом."
+
+# game/day05.rpy:1212
+translate russian day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Похоже, Алина - сабмиссив. Извращенка...)"
+
+# game/day05.rpy:1213
+translate russian day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "У меня столько мыслей о трахающих и кончающих на меня парнях..."
+
+# game/day05.rpy:1214
+translate russian day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "Так ты была грязной маленькой девочкой?"
+
+# game/day05.rpy:1218
+translate russian day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Да."
+
+# game/day05.rpy:1219
+translate russian day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "И ты хочешь мой член в свой рот?"
+
+# game/day05.rpy:1220
+translate russian day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Да. Я хочу принять наказание за все эти грязные мысли. Я должна."
+
+# game/day05.rpy:1221
+translate russian day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Скажи пожалуйста."
+
+# game/day05.rpy:1222
+translate russian day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "Пожалуйста, [p_name], сунь свой твердый член в мой теплый рот."
+
+# game/day05.rpy:1228
+translate russian day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Ты хватаешь ее за голову и прижимаешь ее рот к своему твердому члену."
+
+# game/day05.rpy:1229
+translate russian day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Алина давится и улыбается. Изо рта уже капает слюна."
+
+# game/day05.rpy:1231
+translate russian day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "Тебе нравится, грязная сучка?"
+
+# game/day05.rpy:1232
+translate russian day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    al "Ммммммм..."
+
+# game/day05.rpy:1241
+translate russian day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}Ее язык трется о вашу головку члена, пока вы двигаете ее головой вверх и вниз, иногда позволяя ей перевести дыхание."
+
+# game/day05.rpy:1243
+translate russian day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "*Хлюп* Аааа, я хочу все это."
+
+# game/day05.rpy:1247
+translate russian day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Алина лижет твой блестящий член по всей длине, а потом ты чувствуешь, как ее влажный язык лижет твои яйца."
+
+# game/day05.rpy:1248
+translate russian day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "Прошу, сунь его в меня полностью!"
+
+# game/day05.rpy:1259
+translate russian day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}С давлением ты засовываешь весь свой член ей в рот. Глаза Алины начинают слезиться, а верхняя часть тела покрывается слюной."
+
+# game/day05.rpy:1260
+translate russian day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    al "Ммммммм!"
+
+# game/day05.rpy:1262
+translate russian day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}Когда твой пенис входит в ее глотку, на лице Алины появляется выражение чистого удовольствия."
+
+# game/day05.rpy:1263
+translate russian day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Тебе  нравится, когда тебе больно, не так ли, маленькая шлюха?"
+
+# game/day05.rpy:1264
+translate russian day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Чувствуя, что ты близок к кульминации, Алина вырывается из хватки и становится на четвереньки, продолжая глубоко глотать твой пульсирующий член."
+
+# game/day05.rpy:1265
+translate russian day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Я кончаю! Кончаю!"
+
+# game/day05.rpy:1266
+translate russian day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Мммм... *Хлюп*"
+
+# game/day05.rpy:1273
+translate russian day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "Аааааааааххххх!"
+
+# game/day05.rpy:1274
+translate russian day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}ТЫ стреляешь своей теплой спермой ей в горло. Алина продолжает двигаться вверх и вниз по твоему члену, пока не проглотит каждую каплю."
+
+# game/day05.rpy:1279
+translate russian day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Алина облизывает покрытые спермой губы и с тоской смотрит на тебя."
+
+# game/day05.rpy:1293
+translate russian day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "Аааааааааххххх!"
+
+# game/day05.rpy:1294
+translate russian day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}Ты вытаскиваешь член из ее теплого рта и стреляешь огромным количеством спермы на ее лицо и грудь."
+
+# game/day05.rpy:1298
+translate russian day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Алина собирает пальцем немного спермы, смешанной со слюной, и кладет ее в рот."
+
+# game/day05.rpy:1308
+translate russian day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Ммммммммм, вкусно!"
+
+# game/day05.rpy:1309
+translate russian day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "{i}(Она немного безумна, но какая соска!)"
+
+# game/day05.rpy:1312
+translate russian day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ана была права, ты очень хороший вкус, да и спермы так много!"
+
+# game/day05.rpy:1314
+translate russian day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "ТЫ очень вкусный, и здесь так много спермы!"
+
+# game/day05.rpy:1316
+translate russian day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "Теперь я хорошая девочка, [p_name]?"
+
+# game/day05.rpy:1338
+translate russian day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Когда ты смотришь на первую фотку, твой член твердеет."
+
+# game/day05.rpy:1343
+translate russian day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(Я бы трахнул этот сочный орех так жестко.)"
+
+# game/day05.rpy:1346
+translate russian day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Когда ты смотришь на первую фотку, твой член твердеет."
+
+# game/day05.rpy:1350
+translate russian day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Только глянь на эти ножки...)"
+
+# game/day05.rpy:1352
+translate russian day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "{i}(Я бы затрахал эти сиськи до смерти!)"
+
+# game/day05.rpy:1357
+translate russian day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(Надеюсь, [p_name] еще не спит. Я забыла сказать ему, что нужно заранее забронировать билеты на фильм.)"
+
+# game/day05.rpy:1359
+translate russian day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "{i}(Что он делает? Его рука двигается вверх и вниз... нет.. он дрочит?)"
+
+# game/day05.rpy:1360
+translate russian day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(Блять! Кажется, я слышал дверь. Это [r_name]?)"
+
+# game/day05.rpy:1364
+translate russian day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(К черту, кто бы это ни был. Это моя комната, и я дрочу.)"
+
+# game/day05.rpy:1365
+translate russian day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(Он меня не заметил?)"
+
+# game/day05.rpy:1369
+translate russian day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(Это довольно горячо, смотреть на него вот так.)"
+
+# game/day05.rpy:1370
+translate russian day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "{i}(Хмммм.... Что?! Я намокаю?)"
+
+# game/day05.rpy:1376
+translate russian day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Я просто тоже немного...)"
+
+# game/day05.rpy:1377
+translate russian day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Кажется, она все еще здесь... и это заводит еще сильнее.)"
+
+# game/day05.rpy:1380
+translate russian day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Уф. Лучше уйти.)"
+
+# game/day05.rpy:1382
+translate russian day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Ты слышишь, как дверь закрывается очень тихо. Кажется, ты снова наедине с Аной."
+
+# game/day05.rpy:1384
+translate russian day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Ты слышишь, как дверь закрывается очень тихо. Кажется, ты снова наедине с Дженной."
+
+# game/day05.rpy:1388
+translate russian day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Лучше остановиться, пока она правда не вышла из себя...)"
+
+# game/day05.rpy:1389
+translate russian day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}Когда ты оборачиваешься, ты слышишь, как дверь быстро закрывается."
+
+# game/day05.rpy:1390
+translate russian day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Интересно, кто это был ... Не собираюсь извиняться или что-то в этом роде, это моя комната.)"
+
+# game/day05.rpy:1396
+translate russian day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Она раздвигает эту сочную киску.)"
+
+# game/day05.rpy:1397
+translate russian day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(Только глянь!)"
+
+# game/day05.rpy:1400
+translate russian day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Аааххххх!)"
+
+# game/day05.rpy:1406
+translate russian day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Я тоже кончаю!)"
+
+# game/day05.rpy:1409
+translate russian day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Аааааххххх!)"
+
+# game/day05.rpy:1413
+translate russian day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Лучше уйти сейчас, я поговорю с [p_name] утром.)"
+
+# game/day05.rpy:1417
+translate russian day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Думаю, тот, кто был за дверью, ушел.)"
+
+# game/day05.rpy:1418
+translate russian day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Это было так горячо.)"
+
+# game/day05.rpy:1421
+translate russian day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Но стоп... кто сделал эти фотографии Аны?!)"
+
+# game/day05.rpy:1424
+translate russian day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "{i}(Вставь туда пальцы, Дженна!)"
+
+# game/day05.rpy:1426
+translate russian day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "{i}(Вот так, девочка!)"
+
+# game/day05.rpy:1429
+translate russian day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Аааххххх!)"
+
+# game/day05.rpy:1435
+translate russian day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Я тоже кончаю!)"
+
+# game/day05.rpy:1438
+translate russian day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Аааааххххх!)"
+
+# game/day05.rpy:1442
+translate russian day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Лучше уйти сейчас, я поговорю с [p_name] утром.)"
+
+# game/day05.rpy:1446
+translate russian day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Думаю, тот, кто был за дверью, ушел.)"
+
+# game/day05.rpy:1447
+translate russian day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Это было так горячо.)"
+

@@ -4642,8 +4642,7 @@ translate russian day14_h_post_291215d7:
 translate russian day14_h_post_0b462255_4:
 
     # p "Yes, mistress."
-    p "Да, госпожа.
-"
+    p "Да, госпожа."
 # game/day14.rpy:659
 translate russian day14_h_post_fda9f7d4:
 
@@ -4823,3 +4822,1451 @@ translate russian day14_evening_choices_fd06fdaa:
 
     # "{i}The film you end up watching is rather boring and you have a hard time concentrating. Instead, you steal glances at [b_name], who doesn't seem to notice."
     "{i}Фильм, который вы в итоге смотрите, довольно скучный, и вам трудно сосредоточиться Вместо этого вы украдкой поглядываете на [b_name], который, кажется, ничего не замечает."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day14.rpy:264
+translate russian day14_choices_d8a6ddcd:
+
+    # p "I'm glad to hear that."
+    p "Очень приятно это слышать."
+
+# game/day14.rpy:265
+translate russian day14_choices_94cbdeab:
+
+    # h "Do you need to go?"
+    h "Тебе нужно идти?"
+
+# game/day14.rpy:266
+translate russian day14_choices_0d51abe5:
+
+    # p "{i}(God, that woman is insatiable. Fine with me.)"
+    p "{i}(Боже, эта женщина ненасытна. Повезло.)"
+
+# game/day14.rpy:267
+translate russian day14_choices_b15b03f1:
+
+    # p "I have some time left..."
+    p "У меня ещё есть немного времени..."
+
+# game/day14.rpy:268
+translate russian day14_choices_1a2122c1:
+
+    # h "Good, I want to feel you inside me again."
+    h "Хорошо, я хочу снова почувствовать тебя внутри."
+
+# game/day14.rpy:269
+translate russian day14_choices_b28d880a:
+
+    # p "That can be arranged."
+    p "Можно это устроить."
+
+# game/day14.rpy:827
+translate russian day14_discreet_session_c4245165:
+
+    # p "{i}(I'm not sure if I'll ever get used to seeing [m_name] like this.)"
+    p "{i}(Не думаю, что я привыкну видеть [m_name] вот так.)"
+
+# game/day14.rpy:828
+translate russian day14_discreet_session_46e5949d:
+
+    # m "Are you ready to continue, Mr. Holmes?"
+    m "Вы готовы продолжить, мистер Холмс?"
+
+# game/day14.rpy:829
+translate russian day14_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:830
+translate russian day14_discreet_session_4c8b2fa1:
+
+    # m "Good, you didn't forget how to address me."
+    m "Хорошо, что ты запомнил, как меня называть."
+
+# game/day14.rpy:832
+translate russian day14_discreet_session_9d9a6ef4:
+
+    # m "Today we'll open one of the doors and see what's behind them."
+    m "Сегодня мы открою одну из дверей и узнаем, что за ней таится."
+
+# game/day14.rpy:833
+translate russian day14_discreet_session_044b7890:
+
+    # m "Undress yourself."
+    m "Раздевайся."
+
+# game/day14.rpy:834
+translate russian day14_discreet_session_44fd583a:
+
+    # "{i}You quietly remove your clothes while [m_name] gazes at you."
+    "{i}Ты тихо снимаешь с себя вещи, пока [m_name] пялится натебя."
+
+# game/day14.rpy:835
+translate russian day14_discreet_session_65725451:
+
+    # m "{i}(I almost forgot how good he looked.)"
+    m "{i}(Я уже почти забыла, как хорошо он выглядит.)"
+
+# game/day14.rpy:836
+translate russian day14_discreet_session_1f37fe43:
+
+    # m "You may open the first door to your left."
+    m "Ты можешь открыть первую дверь слева от тебя."
+
+# game/day14.rpy:838
+translate russian day14_discreet_session_2da66ab0:
+
+    # p "{i}(Damn! Is that the receptionist?)"
+    p "{i}(Черт! Это администраторша?)"
+
+# game/day14.rpy:839
+translate russian day14_discreet_session_e6885bc2:
+
+    # m "Before you, you see another of my slaves. I think you've met her. Would you like to know her name?"
+    m "Сначала ты увидешь одну из моих рабынь. Думаю, ты уже встретился с ней. Хочешь узнать её имя?"
+
+# game/day14.rpy:840
+translate russian day14_discreet_session_e8d6f445:
+
+    # p "Yes mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:842
+translate russian day14_discreet_session_e711782e:
+
+    # m "I'm afraid she can't tell her yourself, but her name is Adriana."
+    m "Боюсь, она не может сама его тебе сказать. Её имя Адриана."
+
+# game/day14.rpy:843
+translate russian day14_discreet_session_aaeed54b:
+
+    # m "Adriana, this is Mr. Holmes."
+    m "Адриана, это мистер Холмс."
+
+# game/day14.rpy:844
+translate russian day14_discreet_session_3870e3e0:
+
+    # "{i}The receptionist mumbles something from behind her ball gag and struggles with her bonds."
+    "{i}Администратор что-то бормочет, но ей мешает кляп."
+
+# game/day14.rpy:845
+translate russian day14_discreet_session_d06d977a:
+
+    # m "Are those restraints too tight, Adriana?"
+    m "Тебе тесно, Адриана?"
+
+# game/day14.rpy:846
+translate russian day14_discreet_session_5e09bd5c:
+
+    # m "She's nodding her head. I guess she's fine. Do you like what you see, boy?"
+    m "Она кивает. Думаю, ей нормально. Тебе нравится то, что ты видишь, мальчишка?"
+
+# game/day14.rpy:847
+translate russian day14_discreet_session_e8d6f445_1:
+
+    # p "Yes mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:848
+translate russian day14_discreet_session_a8ef698e:
+
+    # m "What do you like specifically? Tell me."
+    m "Что именно тебе нравится? Скажи мне."
+
+# game/day14.rpy:853
+translate russian day14_discreet_session_ab350f2c:
+
+    # p "Her breasts, mistress."
+    p "Её грудь, госпожа."
+
+# game/day14.rpy:855
+translate russian day14_discreet_session_20f12902:
+
+    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
+    m "Да, они отличная пара, не так ли? Держу пари, ты бы хотел их трахнуть."
+
+# game/day14.rpy:859
+translate russian day14_discreet_session_1ae6a054:
+
+    # p "Yes, mistress. I would very much."
+    p "Да, госпожа, очень."
+
+# game/day14.rpy:860
+translate russian day14_discreet_session_5d7144d2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Может быть, тебе повезет, если ты будешь хорошим мальчиком."
+
+# game/day14.rpy:863
+translate russian day14_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Нет, госпожа."
+
+# game/day14.rpy:864
+translate russian day14_discreet_session_714694ce:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Ты не очень последователен в своих ответах. Не разочаровывай меня."
+
+# game/day14.rpy:865
+translate russian day14_discreet_session_c8c6eb0f:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Когда мне что-то нравится, это не обязательно значит, что я хочу это трахнуть... Господи...)"
+
+# game/day14.rpy:869
+translate russian day14_discreet_session_242c9dd0:
+
+    # p "Her ass, mistress."
+    p "Её попка, госпожа."
+
+# game/day14.rpy:871
+translate russian day14_discreet_session_17b91230:
+
+    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
+    m "Да, ее задница довольно мягкая и круглая, я уверен, что ты хотел бы трахнуть ее сзади."
+
+# game/day14.rpy:875
+translate russian day14_discreet_session_1ae6a054_1:
+
+    # p "Yes, mistress. I would very much."
+    p "Да, госпожа, очень."
+
+# game/day14.rpy:876
+translate russian day14_discreet_session_5d7144d2_1:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Может быть, тебе повезет, если ты будешь хорошим мальчиком."
+
+# game/day14.rpy:879
+translate russian day14_discreet_session_d36b20f6_1:
+
+    # p "No, mistress."
+    p "Нет, госпожа."
+
+# game/day14.rpy:880
+translate russian day14_discreet_session_714694ce_1:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Ты не очень последователен в своих ответах. Не разочаровывай меня."
+
+# game/day14.rpy:881
+translate russian day14_discreet_session_c8c6eb0f_1:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Когда мне что-то нравится, это не обязательно значит, что я хочу это трахнуть... Господи...)"
+
+# game/day14.rpy:885
+translate russian day14_discreet_session_856d4021:
+
+    # p "Her pussy, mistress."
+    p "Её киска, госпожа."
+
+# game/day14.rpy:887
+translate russian day14_discreet_session_70eee315:
+
+    # m "Yes, it looks very juicy. I bet you'd like to fuck that pussy."
+    m "Да, она выглядит сочной. Уверена, ты бы хотел её трахнуть."
+
+# game/day14.rpy:891
+translate russian day14_discreet_session_1ae6a054_2:
+
+    # p "Yes, mistress. I would very much."
+    p "Да, госпожа, очень."
+
+# game/day14.rpy:892
+translate russian day14_discreet_session_5d7144d2_2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Может быть, тебе повезет, если ты будешь хорошим мальчиком."
+
+# game/day14.rpy:895
+translate russian day14_discreet_session_d36b20f6_2:
+
+    # p "No, mistress."
+    p "Нет, госпожа."
+
+# game/day14.rpy:896
+translate russian day14_discreet_session_714694ce_2:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Ты не очень последователен в своих ответах. Не разочаровывай меня."
+
+# game/day14.rpy:897
+translate russian day14_discreet_session_c8c6eb0f_2:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Когда мне что-то нравится, это не обязательно значит, что я хочу это трахнуть... Господи...)"
+
+# game/day14.rpy:900
+translate russian day14_discreet_session_147de036:
+
+    # p "Nothing much, mistress."
+    p "Ничего особенного, госпожа."
+
+# game/day14.rpy:902
+translate russian day14_discreet_session_95aba2ad:
+
+    # m "Are you trying to annoy me, boy? Because you're succeeding."
+    m "Ты пытаешься меня разозлить, мальчишка? А то у тебя это получается."
+
+# game/day14.rpy:903
+translate russian day14_discreet_session_d36b20f6_3:
+
+    # p "No, mistress."
+    p "Нет, госпожа."
+
+# game/day14.rpy:905
+translate russian day14_discreet_session_c7dbdc10:
+
+    # "{i}[m_name] retrieves a key from somewhere and unlocks the restraints that are holding Adriana. You all move to the ornate room with the couch."
+    "{i}[m_name] где-то достаёт ключ и открывает цепи, которые были на Адриане. Все вы идете в комнату с диваном."
+
+# game/day14.rpy:907
+translate russian day14_discreet_session_ce38f8d4:
+
+    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
+    "{i}Ты встаёшь рядом с Адрианой, которая до сих пор не может говорить из-за кляпа во рту. Несмотря на то, что в комнате тепло, она немного дрожит."
+
+# game/day14.rpy:908
+translate russian day14_discreet_session_91ccbfec:
+
+    # m "Now, Adriana and you are going to do something for me. It's a test of strength and resolve, in a way. And the winner gets a prize."
+    m "Теперь вы с Адрианой кое-что для меня сделаете. Я испытаю вашу силу. И победитель будет награждён."
+
+# game/day14.rpy:909
+translate russian day14_discreet_session_8d344ccc:
+
+    # p "{i}(Wonder what that'll be.)"
+    p "{i}(Интересно, какая будет награда.)"
+
+# game/day14.rpy:910
+translate russian day14_discreet_session_7153742f:
+
+    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
+    "{i}[m_name] передает вам два предмета Вы удивлены их весом."
+
+# game/day14.rpy:911
+translate russian day14_discreet_session_5df7de85:
+
+    # m "You'll hold one in each hand and keep your arms level."
+    m "Ты будешь держать по одному в каждой руке и ты не должен будешь опускать руки."
+
+# game/day14.rpy:913
+translate russian day14_discreet_session_25919422:
+
+    # m "Good. The person who can hold this weight the longest will be the winner."
+    m "Хорошо. Тот, кто продержится дольше, и будует победителем."
+
+# game/day14.rpy:914
+translate russian day14_discreet_session_3345c523:
+
+    # p "{i}(That shouldn't be too hard.)"
+    p "{i}(Это не должно быть слишком трудно.)"
+
+# game/day14.rpy:915
+translate russian day14_discreet_session_0095e6b5:
+
+    # "{i}You feel the weight of the stones in your arms as you try to keep them at the same position."
+    "{i}Ты чувствуешь вес камней в своих руках, пока пытаешься не изменять их положение."
+
+# game/day14.rpy:920
+translate russian day14_discreet_session_f9183d78:
+
+    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
+    "{i}Неожиданно ты слышишь звук хлеста рядом с собой и стон Адрианы."
+
+# game/day14.rpy:921
+translate russian day14_discreet_session_273dffed:
+
+    # m "On your toes, the both of you."
+    m "На цыпочки, оба."
+
+# game/day14.rpy:922
+translate russian day14_discreet_session_d191b303:
+
+    # p "{i}(Fuck.)"
+    p "{i}(Блять.)"
+
+# game/day14.rpy:924
+translate russian day14_discreet_session_bc169090:
+
+    # m "You both need to learn some discipline."
+    m "Вас обоих нужно научить послушанию."
+
+# game/day14.rpy:928
+translate russian day14_discreet_session_bf971835:
+
+    # "{i}The whip cracks against your naked buttocks. You feel the heat of the lash pulsate as she strikes your butt again."
+    "{i}Хлыст бьет тебя по заднице. Ты чувствуешь пульсирующее тепло каждый раз, когда она бьёт тебя."
+
+# game/day14.rpy:929
+translate russian day14_discreet_session_bfea5ee9:
+
+    # m "Stay on your toes."
+    m "Стойте как стоите."
+
+# game/day14.rpy:930
+translate russian day14_discreet_session_5e132d44:
+
+    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
+    "{i}[m_name] подходит к Адриане снова, и краем глаза ты видишь, как она бьёт админимтраторшу по икрам. Что-то между криком и стоном вырывается из её рта."
+
+# game/day14.rpy:931
+translate russian day14_discreet_session_c9792aca:
+
+    # m "Are you going to give up so easily, Adriana?"
+    m "Ты так быстро сдашься, Адриана?"
+
+# game/day14.rpy:932
+translate russian day14_discreet_session_acb698b0:
+
+    # p "{i}(Adriana must be close... Is she going to drop those stones?)"
+    p "{i}(Адриана, наверное, так близка... Она бросит эти камни?)"
+
+# game/day14.rpy:936
+translate russian day14_discreet_session_08b78b95:
+
+    # p "{i}(I can probably hold out for a bit, but I'm curious to see what the prize for Adriana entails.)"
+    p "{i}(Наверне, я еще смогу немного продержаться, но мне интересно посмотреть на приз для Адрианы.)"
+
+# game/day14.rpy:947
+translate russian day14_discreet_session_b7371781:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}[m_name] хлыст находится между бедер Адрианы, и она изо всех сил пытается удержаться на ногах, пока [m_name] бьет ее киску короткими сильными щелчками"
+
+# game/day14.rpy:948
+translate russian day14_discreet_session_3f852ec6:
+
+    # "{i}You let go and drop both stones to the ground."
+    "{i}Ты расслабляешься и бросаешь камни."
+
+# game/day14.rpy:949
+translate russian day14_discreet_session_fd39564f:
+
+    # m "What?! This is unexpected."
+    m "Что?!Я не ожидала этого."
+
+# game/day14.rpy:950
+translate russian day14_discreet_session_3cb47b54:
+
+    # m "{i}(Damnit, I really thought he would last longer. Adriana's good enough, but I'm getting more and more interested in him.)"
+    m "{i}(Черт, я правда думала, что он продержится дольше. Адриана хороша, но я всё больше заинтересована в нём.)"
+
+# game/day14.rpy:951
+translate russian day14_discreet_session_33663369:
+
+    # p "{i}(Does she sound disappointed?)"
+    p "{i}(Она разочарована?)"
+
+# game/day14.rpy:952
+translate russian day14_discreet_session_89709d7a:
+
+    # m "Seems like you're the winner, Adriana. Are you happy?"
+    m "Похоже, ты победительница, Адриана. Ты рада?"
+
+# game/day14.rpy:953
+translate russian day14_discreet_session_0dc81ae4:
+
+    # "{i}Adriana, still holding the stones while standing on her toes, nods her head enthusiastically."
+    "{i}Адриана, всё ещё держа в руках камни и стоя на носочках, радостно кивает головой."
+
+# game/day14.rpy:954
+translate russian day14_discreet_session_ea63efd8:
+
+    # m "You probably want to let go of those stones, don't you?"
+    m "Наверное, ты уже хочешь бросить эти камни, да?"
+
+# game/day14.rpy:955
+translate russian day14_discreet_session_e612037c:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:956
+translate russian day14_discreet_session_fed026af:
+
+    # m "That is allowed. And as a bonus, I'll remove your gag."
+    m "Можешь бросить их. И, как бонус, я уберу кляп."
+
+# game/day14.rpy:957
+translate russian day14_discreet_session_0b3cbcc9:
+
+    # "{i}Adriana drops her stones and looks relieved as [m_name] removes the ball gag."
+    "{i}Адриана бросает камни и начинает выглядеть очень счастливой, когда [m_name] снимает с неё кляп."
+
+# game/day14.rpy:958
+translate russian day14_discreet_session_2b1521c1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Теперь о твоей награде. Моя киска требует внимания. Ложись."
+
+# game/day14.rpy:960
+translate russian day14_discreet_session_f8c8b460:
+
+    # "{i}The receptionist obediently lies down on the floor."
+    "{i}Администраторша покорно ложится на пол."
+
+# game/day14.rpy:961
+translate russian day14_discreet_session_83ca7014:
+
+    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
+    m "А ты, мальчишка, должен смотреть. Если я запалю тебя за дрочкой, ты сильно поплатишься."
+
+# game/day14.rpy:963
+translate russian day14_discreet_session_679e517a:
+
+    # "{i}Your mother undresses and lowers herself onto Adriana's face."
+    "{i}Твоя мать раздевается и спускается на лицо Адрианы."
+
+# game/day14.rpy:965
+translate russian day14_discreet_session_cd89a18e:
+
+    # "{i}[m_name] undresses and lowers herself onto Adriana's face."
+    "{i}[m_name] раздевается и спускается на лицо Адрианы."
+
+# game/day14.rpy:966
+translate russian day14_discreet_session_34ef5289:
+
+    # p "{i}(Fucking hell, her body is pure pornography.)"
+    p "{i}(Черт, она будто с обложки эротического журнала.)"
+
+# game/day14.rpy:967
+translate russian day14_discreet_session_993f6fee:
+
+    # m "Lick me, slut."
+    m "Отлижи мне, шлюха."
+
+# game/day14.rpy:974
+translate russian day14_discreet_session_7a3d4edc:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks your mom's pussy lips."
+    "{i}Адриана медленно высовывает язык и начинает осторожно лизать половые губы твоей матери."
+
+# game/day14.rpy:976
+translate russian day14_discreet_session_edf58581:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
+    "{i}Адриана медленно высовывает язык и начинает осторожна лизать половые губы [m_name]."
+
+# game/day14.rpy:977
+translate russian day14_discreet_session_b5bfeb5c:
+
+    # m "Good! Good!"
+    m "Хорошо! Хорошо!"
+
+# game/day14.rpy:978
+translate russian day14_discreet_session_1f6e2cc0:
+
+    # "{i}You only hear Adriana's muffled breathing and the wet sounds of her tongue caressing [m_name]'s labia as she smothers the receptionist with her pussy."
+    "{i}Ты слишишь только обрывчатое дыхание Адрианы и хлюпающие звуки языка, ласкающего киску [m_name]."
+
+# game/day14.rpy:979
+translate russian day14_discreet_session_d64705b0:
+
+    # m "Do you like that, Adriana?"
+    m "Тебе нравится, Адриана?"
+
+# game/day14.rpy:980
+translate russian day14_discreet_session_be51334e:
+
+    # ad "Mmmmmhmmmmmm..."
+    ad "Ммммммммммммм..."
+
+# game/day14.rpy:981
+translate russian day14_discreet_session_c70f6a60:
+
+    # m "Fuck my pussy with your tongue."
+    m "Трахни мою киску своим языком."
+
+# game/day14.rpy:990
+translate russian day14_discreet_session_ba0fa4bb:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of your mom's vagina."
+    "{i}Твой член уже встал на то, как Адриана двигает своей головой и ласкает языком вагину твоей матери."
+
+# game/day14.rpy:992
+translate russian day14_discreet_session_f6020670:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
+    "{i}Твой член уже встал на то, как Адриана двигает своей головой и ласкает языком вагину [m_name]."
+
+# game/day14.rpy:993
+translate russian day14_discreet_session_b8fbbb08:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of the receptionist's head and pulls her towards her pussy."
+    "{i}Очень близкая к оргазму, [m_name] берется за голову администратора и прижимает её к себе."
+
+# game/day14.rpy:1000
+translate russian day14_discreet_session_df976253:
+
+    # m "Aaaaaaah! Goooood girl!"
+    m "Аааааааах! Хороооошая девочка!"
+
+# game/day14.rpy:1001
+translate russian day14_discreet_session_67309967:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes, you little whore! Aaaaah!"
+    m "Блять, да! Вылижи всю мою пизду. Да, маленькая шлюха! Ааааах!"
+
+# game/day14.rpy:1002
+translate russian day14_discreet_session_cc917045:
+
+    # "{i}As you watch the scene unfold before your eyes, precum is leaking from the tip of your taught member."
+    "{i}Пока ты смотришь на всё происходящее, небольшое количество спермы выходит из твоего дружка."
+
+# game/day14.rpy:1006
+translate russian day14_discreet_session_38c64a1b:
+
+    # p "{i}(Must hold out a little longer.)"
+    p "{i}(Нужно продержаться ещё немного.)"
+
+# game/day14.rpy:1017
+translate russian day14_discreet_session_b7371781_1:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}[m_name] хлыст находится между бедер Адрианы, и она изо всех сил пытается удержаться на ногах, пока [m_name] бьет ее киску короткими сильными щелчками"
+
+# game/day14.rpy:1018
+translate russian day14_discreet_session_0bcfc987:
+
+    # "{i}Adriana suddenly stumbles and one of the stones drops from her hand, the other soon follows."
+    "{i}Адриана не выдерживает, и один камень падает из её руки, а за ним и второй."
+
+# game/day14.rpy:1019
+translate russian day14_discreet_session_6dd6b0e9:
+
+    # m "Disappointing. That means you are the winner, boy. You probably want to let go of those stones, don't you?"
+    m "Ты меня разочаровала. Значит, ты победил, мальчишка. Наверное, ты хочешь бросить один из этих камней, да?"
+
+# game/day14.rpy:1020
+translate russian day14_discreet_session_e612037c_1:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:1021
+translate russian day14_discreet_session_7758ccc4:
+
+    # m "That is allowed."
+    m "Я разрешаю."
+
+# game/day14.rpy:1022
+translate russian day14_discreet_session_b1a2a3dd:
+
+    # "{i}You let go of both stones at the same time which is a relief on your strained arm muscles."
+    "{i}Ты одновремено бросаешь оба камня и наконец-то чувствуешь облегчение в своих уставших руках."
+
+# game/day14.rpy:1023
+translate russian day14_discreet_session_90d93bee:
+
+    # m "{i}(Let's see what he can do. I'm sure Adriana is confused by the whole situation right now. This isn't normally how we do things.)"
+    m "{i}(Посмотрим, на что он способен. Уверена, Адриана очень удивлена сложившейся ситуацией. Это не то, что обычно происходит.)"
+
+# game/day14.rpy:1024
+translate russian day14_discreet_session_2b1521c1_1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Теперь о твоей награде. Моя киска требует внимания. Ложись."
+
+# game/day14.rpy:1026
+translate russian day14_discreet_session_b9c0aeca:
+
+    # "{i}You lie down on the floor."
+    "{i}Ты ложишься на пол."
+
+# game/day14.rpy:1027
+translate russian day14_discreet_session_c2d5a788:
+
+    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
+    m "А ты, Адриана, должна смотреть. Если я запалю тебя за дрочкой, ты сильно поплатишься."
+
+# game/day14.rpy:1029
+translate russian day14_discreet_session_7c796bfc:
+
+    # "{i}Your mother undresses and lowers herself onto your face."
+    "{i}Твоя мать раздевается и спускается к тебе на лицо."
+
+# game/day14.rpy:1031
+translate russian day14_discreet_session_f4c12e75:
+
+    # "{i}[m_name] undresses and lowers herself onto your face."
+    "{i}[m_name] раздевается и спускается к тебе на лицо."
+
+# game/day14.rpy:1032
+translate russian day14_discreet_session_864f6070:
+
+    # "{i}Her soft pubic hair tickles and a salty aroma nearly overwhelms you. It's getting harder to breathe."
+    "{i}Её мягкие лобковые волосы немного колятся, и соленый аромат поглощает тебя. Становится трудно дышать."
+
+# game/day14.rpy:1033
+translate russian day14_discreet_session_254921b0:
+
+    # p "{i}(She's fucking sitting on my face. Wish I wasn't wearing that bloody mask.)"
+    p "{i}(Она, блять, сидит на моём лице. Как бы я хотел снять эту сраную маску.)"
+
+# game/day14.rpy:1034
+translate russian day14_discreet_session_a5655a32:
+
+    # m "Lick me, boy."
+    m "Отлижи мне, пацан."
+
+# game/day14.rpy:1041
+translate russian day14_discreet_session_81f58e43:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick your mom's pussy lips. She's wet and tastes salty."
+    "{i}Ты высовываешь свой язык изо рта и начинает нежно лизать половые губы своей матери. Она мокрая и соленая."
+
+# game/day14.rpy:1043
+translate russian day14_discreet_session_cd7c1d9c:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
+    "{i}Ты высовываешь свой язык изо рта и начинает нежно лизать половые губы [m_name]. Она мокрая и соленая."
+
+# game/day14.rpy:1044
+translate russian day14_discreet_session_b5bfeb5c_1:
+
+    # m "Good! Good!"
+    m "Хорошо! Хорошо!"
+
+# game/day14.rpy:1045
+translate russian day14_discreet_session_9e557aa2:
+
+    # "{i}The only thing you hear is [m_name]'s heavy breathing and the wet sounds of your tongue caressing her labia as she smothers you with her pussy."
+    "{i}Все, что ты слышишь, - тяжелое дыхание [m_name] и мокрые звуки своего языка, ласкающего её киску."
+
+# game/day14.rpy:1046
+translate russian day14_discreet_session_dfd9b39b:
+
+    # m "Do you like that, boy?"
+    m "Тебе это нравится, мальчишка?"
+
+# game/day14.rpy:1047
+translate russian day14_discreet_session_e15e30b7:
+
+    # p "Mmmmmhmmmmmm..."
+    p "Ммммммммммм..."
+
+# game/day14.rpy:1048
+translate russian day14_discreet_session_c70f6a60_1:
+
+    # m "Fuck my pussy with your tongue."
+    m "Трахни мою киску своим языком."
+
+# game/day14.rpy:1057
+translate russian day14_discreet_session_674d8f15:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of your mom's vagina."
+    "{i}Твой член уже встал, пока ты вставляешь язык в свою мать и выходишь из неё."
+
+# game/day14.rpy:1059
+translate russian day14_discreet_session_823d5930:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
+    "{i}Твой член уже встал, пока ты вставляешь язык в [m_name] и выходишь из неё."
+
+# game/day14.rpy:1060
+translate russian day14_discreet_session_3c2ee3ac:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of your head and pulls you towards her pussy. You feel her fingers press hard against your skull."
+    "{i}Очень близккая к оргазму, [m_name] хватает тебя за голову и прижимает к себе. Ты чувствуешь её пальцы, вжатые в твой череп."
+
+# game/day14.rpy:1067
+translate russian day14_discreet_session_8e09283d:
+
+    # m "Aaaaaaah! Goooood boy!"
+    m "Аааааааах! Хорооооший мальчик!"
+
+# game/day14.rpy:1068
+translate russian day14_discreet_session_ef7ee683:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes! Aaaaah!"
+    m "Блять, да! Вылижи всю мою пизду. Да! Ааааах!"
+
+# game/day14.rpy:1069
+translate russian day14_discreet_session_8e05be01:
+
+    # "{i}As you lap up the juices of her orgasm, precum is leaking from the tip of your taught member."
+    "{i}Пока ты выхлёбываешь то, что она накончала, небольшое количество спермы выходит из твоего дружка."
+
+# game/day14.rpy:1070
+translate russian day14_discreet_session_98b68f60:
+
+    # "{i}Adriana is still standing there gazing at you lustfully while [m_name] removes her gag."
+    "{i}Адриана всё ещё глазеет на тебя, пока [m_name] вытаскивает кляп из её рта."
+
+# game/day14.rpy:1077
+translate russian day14_discreet_session_c4bcf13d:
+
+    # m "I'd like to reward you for being such a good servant."
+    m "Я бы хотела наградить тебя как прекрасную слугу."
+
+# game/day14.rpy:1080
+translate russian day14_discreet_session_59fefa56:
+
+    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
+    m "Наш мальчик выразил свое восхищение твоей киской, не так ли, Адриана?"
+
+# game/day14.rpy:1081
+translate russian day14_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Да, госпожа."
+
+# game/day14.rpy:1082
+translate russian day14_discreet_session_151c1deb:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "И потом он сказал, что не хочет тебя трахнуть. Какой странный мальчишка."
+
+# game/day14.rpy:1083
+translate russian day14_discreet_session_54dd0c92:
+
+    # m "So I guess you won't get fucked today, Adriana. I'm sure you understand."
+    m "Так что, видимо, тебя сегодня не трахнут, Адриана. Уверена, ты понимаешь."
+
+# game/day14.rpy:1085
+translate russian day14_discreet_session_b8df8615:
+
+    # m "Our boy praised your ass, didn't he, Adriana?"
+    m "Наш мальчик похвалил твою задницу, не так ли, Адриана?"
+
+# game/day14.rpy:1086
+translate russian day14_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Да, госпожа."
+
+# game/day14.rpy:1087
+translate russian day14_discreet_session_151c1deb_1:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "И потом он сказал, что не хочет тебя трахнуть. Какой странный мальчишка."
+
+# game/day14.rpy:1088
+translate russian day14_discreet_session_f18f5a5b:
+
+    # m "So I guess we won't offer your tight asshole today, Adriana. I'm sure you understand."
+    m "Так что, видимо, сегодня мы не предложим ему твою упругую попку, Адриана. Уверена, ты понимаешь."
+
+# game/day14.rpy:1090
+translate russian day14_discreet_session_f4c88f4f:
+
+    # m "Our boy praised your breasts, didn't he, Adriana?"
+    m "Наш мальчик похвалил твою грудь, не так ли, Адриана?"
+
+# game/day14.rpy:1091
+translate russian day14_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Да, госпожа."
+
+# game/day14.rpy:1092
+translate russian day14_discreet_session_151c1deb_2:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "И потом он сказал, что не хочет тебя трахнуть. Какой странный мальчишка."
+
+# game/day14.rpy:1093
+translate russian day14_discreet_session_77164c8b:
+
+    # m "So I guess he doesn't get to push his cock between your tits, Adriana. I'm sure you understand."
+    m "Так что, видимо, он не трахнет твои титьки, Адриана. Уверена, ты понимаешь."
+
+# game/day14.rpy:1095
+translate russian day14_discreet_session_bb322cb6:
+
+    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
+    m "Но, раз наш мальчик сказал, что не видит в тебе ничего примечательного Адриана, думаю, мы не можем предложить ему ничего."
+
+# game/day14.rpy:1096
+translate russian day14_discreet_session_8b9f95b0:
+
+    # p "{i}(Damn. I'd really like to fuck something right about now.)"
+    p "{i}(Блин. Я бы очень хотел трахнуть сейчас что-нибудь.)"
+
+# game/day14.rpy:1097
+translate russian day14_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Да, госпожа."
+
+# game/day14.rpy:1098
+translate russian day14_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:1099
+translate russian day14_discreet_session_12164705:
+
+    # m "Good. Class dismissed."
+    m "Хорошо. Свободны."
+
+# game/day14.rpy:1107
+translate russian day14_discreet_session_3f84f2fb:
+
+    # m "And our boy expressed an interest in your body, Adriana. Would you like to get fucked now?"
+    m "И нашему мальчику понравилось твоё тело, Адриана. Ты бы хотела заняться сексом сейчас?"
+
+# game/day14.rpy:1108
+translate russian day14_discreet_session_b25c3cee:
+
+    # ad "Very much, mistress."
+    ad "Очень, госпожа."
+
+# game/day14.rpy:1109
+translate russian day14_discreet_session_712d152f:
+
+    # p "{i}(Fuck yes! I'm not sure it will take long, but I sure am going to drench her in cum.)"
+    p "{i}(Да! Не уверен, что это будет длиться долго, но я собираюсь залить её спермой.)"
+
+# game/day14.rpy:1112
+translate russian day14_discreet_session_4d0e495d:
+
+    # m "You may use her pussy. And be sure to finish on her face, a good slut deserves that much."
+    m "Можешь использовать её киску. И можешь кончить ей на лицо, хорошая шлюха заслуживает это."
+
+# game/day14.rpy:1113
+translate russian day14_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:1119
+translate russian day14_discreet_session_a14deefc:
+
+    # "{i}Due to the events you've just experienced you slide inside Adriana a little roughly, which elicits a small, surprised gasp from her."
+    "{i}После того,что ты только что испытал, ты входишь в Адриану немного жестко, что заставляет её немного постанывать."
+
+# game/day14.rpy:1120
+translate russian day14_discreet_session_afe580f6:
+
+    # m "How does he feel inside you, Adriana?"
+    m "Как тебе он, Адриана?"
+
+# game/day14.rpy:1121
+translate russian day14_discreet_session_2f0e67fa:
+
+    # ad "He feels so big, mistress."
+    ad "Он такой большой, госпожа."
+
+# game/day14.rpy:1123
+translate russian day14_discreet_session_13a6f1c9:
+
+    # "{i}You grab Adriana's legs and start to thrust your dick inside the receptionist. Her pussy lips massage the sides of your throbbing cock and Adriana's breathing becomes shallow."
+    "{i}Ты хватаешься за ноги Адрианы и начинаешь вдалбливать свой член внутрь администраторши. Её половые губы сжимают твой пульсирующий член, и Адриана начинает дышать быстрее."
+
+# game/day14.rpy:1124
+translate russian day14_discreet_session_ebe15ba7:
+
+    # ad "Fuck me, please, fuck me harder!"
+    ad "Еби меня, пожалуйста, еби меня жёще!"
+
+# game/day14.rpy:1125
+translate russian day14_discreet_session_5150cad6:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
+    "{i}Ее большие груди подпрыгивают в ритме твоего траха, и ты чувствуешь себя очень близким к оргазму, вероятно, из-за всего, что произошло раньше."
+
+# game/day14.rpy:1131
+translate russian day14_discreet_session_1a6e0e7f:
+
+    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}С ревом ты вынимаешь своей член, хватая Адриану за волосы. Она открывает свой рот, чтобы ты кончил в него."
+
+# game/day14.rpy:1132
+translate russian day14_discreet_session_7c9a8cd4:
+
+    # m "Finished already. Your pussy must be magical, Adriana..."
+    m "Уже? Твоя киска, должно быть, просто прекрасна, Адриана..."
+
+# game/day14.rpy:1133
+translate russian day14_discreet_session_bb4ec6df:
+
+    # m "You may cum on her."
+    m "Можешь кончить на неё."
+
+# game/day14.rpy:1135
+translate russian day14_discreet_session_787b0b9e:
+
+    # m "You may use Adriana's ass. Do be gentle. And be sure to finish on her face, a good slut deserves that much."
+    m "Можешь использовать её попку. Будь мягок. И можешь кончить ей на лицо, хорошая шлюха заслуживает это."
+
+# game/day14.rpy:1136
+translate russian day14_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:1141
+translate russian day14_discreet_session_15c41f02:
+
+    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
+    "{i}Как только ты начинаешь вставлять головку своего члена в отверстие Адрианы, она издаёт стон."
+
+# game/day14.rpy:1142
+translate russian day14_discreet_session_ec80b608:
+
+    # ad "Please be gentle."
+    ad "Пожалуйста, будь нежен."
+
+# game/day14.rpy:1143
+translate russian day14_discreet_session_74327b4e:
+
+    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
+    "{i}Это заявление возбуждает тебя еще больше, и ты начинаешь проталкивать свой член внутрь нее. Выделяющаяся из твоего пениса сперма действует как смазка, но она все еще плотно прилегает."
+
+# game/day14.rpy:1144
+translate russian day14_discreet_session_111f439d:
+
+    # "{i}The receptionist is very tense, but relaxes visibly when she feels your balls against her pussy."
+    "{i}Администратор очень напряжена, но она начинает расслабляться, как только чувствует твои яйца у своей киски."
+
+# game/day14.rpy:1145
+translate russian day14_discreet_session_26cec445:
+
+    # m "He's inside of you. How does that feel?"
+    m "Он внутри тебя. И как тебе?"
+
+# game/day14.rpy:1146
+translate russian day14_discreet_session_1b2a2c62:
+
+    # ad "He's so big, mistress."
+    ad "Он такой большой, госпожа."
+
+# game/day14.rpy:1151
+translate russian day14_discreet_session_fb3d5f0e:
+
+    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
+    "{i}Ты медленно вводишь и выводишь свой член из задницы секретарши Дыхание Адрианы становится поверхностным Она направляет тебя рукой, и ты проникаешь в нее все быстрее и быстрее"
+
+# game/day14.rpy:1152
+translate russian day14_discreet_session_08fd09db:
+
+    # ad "Fuck me, please, fuck my ass!"
+    ad "Еби меня, пожалуйста, трахай мою задницу!"
+
+# game/day14.rpy:1153
+translate russian day14_discreet_session_791ee88c:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
+    "{i}Ее большие груди подпрыгивают в ритме твоего траха Ее задница тугая и массирует твой член так, как ты никогда не чувствовал раньше Ты чувствуешь себя очень близким к оргазму, вероятно, из-за всего, что произошло до этого."
+
+# game/day14.rpy:1159
+translate russian day14_discreet_session_291215d7:
+
+    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}С ревом ты вынимаешь своей член, хватая Адриану за волосы. Она открывает свой рот, чтобы ты кончил в него."
+
+# game/day14.rpy:1160
+translate russian day14_discreet_session_a4a83b56:
+
+    # m "Finished already. Your ass must be magical, Adriana..."
+    m "Уже? Твоя задница, должно быть, просто прекрасна, Адриана..."
+
+# game/day14.rpy:1161
+translate russian day14_discreet_session_bb4ec6df_1:
+
+    # m "You may cum on her."
+    m "Можешь кончить на неё."
+
+# game/day14.rpy:1163
+translate russian day14_discreet_session_732a62ea:
+
+    # m "Adriana is going to massage your cock with her breasts. Be sure to cover her face when you're ready, a good slut deserves that much."
+    m "Адриана собирается удовлетворить тебя грудью. Можешь кончить ей на лицо, хорошая шлюха заслуживает это."
+
+# game/day14.rpy:1164
+translate russian day14_discreet_session_0b462255_4:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day14.rpy:1165
+translate russian day14_discreet_session_25debe46:
+
+    # "{i}You tease the receptionist's nipples with the tip of your cock. The massage elicits a small gasp from her and she pushes her breasts together in order for you to push your dick between them."
+    "{i}Ты дразнишь соски администраторши своим членом. Это заставляет её начать стонать, и она сжимает свои сиськи, чтобы ты мог трахнуть их."
+
+# game/day14.rpy:1171
+translate russian day14_discreet_session_59ba8699:
+
+    # "{i}Adriana starts moving up and down with your cock between her breasts. The touch of her soft flesh and the lewd smile on her face as she stares at you makes you even more aroused."
+    "{i}Адриана начинает двигаться вверх-вниз с твоим членом между её сисек. Её мягкая кожа и лёгкая улыбка на её лице возбуждают тебя ещё сильнее."
+
+# game/day14.rpy:1173
+translate russian day14_discreet_session_908f034e:
+
+    # "{i}You force the receptionist to the ground and thrust your dick between her breasts, fucking them while she's squeezing them tight."
+    "{i}Ты заставляешь администратора лечь на пол, и трахаешь её сиськи, пока она  сжимает их."
+
+# game/day14.rpy:1174
+translate russian day14_discreet_session_dab678a3:
+
+    # m "He's giving your tits a good fuck. How does that feel?"
+    m "Он хорошенько трахает твои сиськи. Как тебе?"
+
+# game/day14.rpy:1175
+translate russian day14_discreet_session_1b2a2c62_1:
+
+    # ad "He's so big, mistress."
+    ad "Он такой большой, госпожа."
+
+# game/day14.rpy:1176
+translate russian day14_discreet_session_fda9f7d4:
+
+    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
+    "{i}Каждый раз, когда член достает до её лица, Адриана лижет его головку. Ещё она начинает сильнее прижимать свои груди друг к другу. Это заставляет тебя чувствовать себя просто невеоятно."
+
+# game/day14.rpy:1182
+translate russian day14_discreet_session_95a81a0e:
+
+    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
+    "{i}С ревом ты направляешь свой член прямо ей в лицо. Адриана покорно открывает рот, чтобы ты кончил в него."
+
+# game/day14.rpy:1183
+translate russian day14_discreet_session_e8c2e24b:
+
+    # m "Finished already. Your tits must be magical, Adriana..."
+    m "Уже? Твоя сиськи, должно быть, просто прекрасны, Адриана..."
+
+# game/day14.rpy:1184
+translate russian day14_discreet_session_bb4ec6df_2:
+
+    # m "You may cum on her."
+    m "Можешь кончить на неё."
+
+# game/day14.rpy:1188
+translate russian day14_discreet_session_b6bb3d0d:
+
+    # "{i}You seem to have build up a large amount of cum, because you cover her face and hair with thick streaks, but also have enough to deposit in her mouth."
+    "{i}Ты покрываешь огромным количеством спермы её лицо, и ещё даже остается для её рта."
+
+# game/day14.rpy:1190
+translate russian day14_discreet_session_9f16b8bf:
+
+    # m "Swallow it all."
+    m "Проглоти всё."
+
+# game/day14.rpy:1191
+translate russian day14_discreet_session_6d0471c5:
+
+    # "{i}Adriana licks your dick clean of any traces of semen and scoops up the rest from her face and hair. Looking you directly in the eye, she swallows all of it with a naughty smile."
+    "{i}Адриана вылизывает всю сперму с твоего члена и собирает её со своих волос и лица. Смотря тебе прямо в глаза, она проглатывает её с легкой улыбкой."
+
+# game/day14.rpy:1192
+translate russian day14_discreet_session_750da6a3:
+
+    # m "Thus endeth the lesson."
+    m "Можем закончить."
+
+# game/day14.rpy:1211
+translate russian day14_b_fondle_32cbc436:
+
+    # "{i}Your hands push the t-shirt even further up to reveal your sister's breasts. Her nipples are rock hard."
+    "{i}Твои руки поднимают её футболку ещё выше, и ты видишь грудь твоей сестры. Её соски затвердели."
+
+# game/day14.rpy:1213
+translate russian day14_b_fondle_4a0fb993:
+
+    # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
+    "{i}Твои руки поднимают её футболку ещё выше, и ты видишь грудь [b_name]. Её соски затвердели."
+
+# game/day14.rpy:1215
+translate russian day14_b_fondle_42c4c73b:
+
+    # b "[p_name]... no... it isn't..."
+    b "[p_name]... нет... это не..."
+
+# game/day14.rpy:1216
+translate russian day14_b_fondle_ed02e162:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Боже, ты меня так возбуждаешь, [b_name]."
+
+# game/day14.rpy:1217
+translate russian day14_b_fondle_3cd42054:
+
+    # p "Your skin is so soft."
+    p "Твоя кожа такая мягкая..."
+
+# game/day14.rpy:1218
+translate russian day14_b_fondle_52dcef3c:
+
+    # b "I..."
+    b "Я..."
+
+# game/day14.rpy:1221
+translate russian day14_b_fondle_98879cef:
+
+    # p "Are you wet already?"
+    p "Ты уже мокрая?"
+
+# game/day14.rpy:1222
+translate russian day14_b_fondle_45d024d8:
+
+    # b "No, not there!"
+    b "Нет, не здесь!"
+
+# game/day14.rpy:1223
+translate russian day14_b_fondle_6449f334:
+
+    # p "You are. Do you like the movie so much? Or is it my touch?"
+    p "Ты мокрая. Тебе так нравится фильм? Или мои прикосновения?"
+
+# game/day14.rpy:1225
+translate russian day14_b_fondle_1e36103c:
+
+    # "{i}You push your fingers against her panties and feel your sister's moist labia through the fabric."
+    "{i}Ты опускаешь свою руку вниз и сквозь ткань щупаешь мокрую киску своей сестры."
+
+# game/day14.rpy:1227
+translate russian day14_b_fondle_b5fefac5:
+
+    # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
+    "{i}Ты опускаешь свою руку вниз и сквозь ткань щупаешь мокрую киску."
+
+# game/day14.rpy:1228
+translate russian day14_b_fondle_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Аааа!"
+
+# game/day14.rpy:1229
+translate russian day14_b_fondle_be44dc55:
+
+    # p "Your panties are in the way, don't you think?"
+    p "Твои трусики уже совсем мокрые, не так ли?"
+
+# game/day14.rpy:1233
+translate russian day14_b_fondle_f1b6ca42:
+
+    # b "Y-yes... No!"
+    b "Д-да... Нет!"
+
+# game/day14.rpy:1234
+translate russian day14_b_fondle_efa09b9c:
+
+    # "{i}With one hand you remove her underwear. [b_name] tries to remove your hand, but her protests lack any conviction."
+    "{i}Одной рукой ты снимаешь с неё нижнее белье. [b_name] пытается убрать твою руку, но быстро сдается."
+
+# game/day14.rpy:1240
+translate russian day14_b_fondle_04b53f47:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Ты опускаешь свои пальцы и начинаешь стимулировать её клитор. [b_name] сначала сопротивляется, но как только ты наращиваешь нужный темп, твоя сестра прижимает твою руку сильнее к себе, как бы предлагая зайти тебе дальше."
+
+# game/day14.rpy:1242
+translate russian day14_b_fondle_cec13b39:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Ты опускаешь свои пальцы и начинаешь стимулировать её клитор. [b_name] сначала сопротивляется, но как только ты наращиваешь нужный темп, она прижимает твою руку сильнее к себе, как бы предлагая зайти тебе дальше."
+
+# game/day14.rpy:1243
+translate russian day14_b_fondle_9af8d955:
+
+    # b "Gaaaah!"
+    b "Ааааах!"
+
+# game/day14.rpy:1244
+translate russian day14_b_fondle_2d4211e5:
+
+    # p "Sssssh, you'll wake everybody up."
+    p "Тссссс, ты всех разбудишь."
+
+# game/day14.rpy:1245
+translate russian day14_b_fondle_90901d27:
+
+    # b "Hnnnghhhh!"
+    b "Хмхмхмхммм!"
+
+# game/day14.rpy:1247
+translate russian day14_b_fondle_e2a1d183:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
+    "{i}[b_name] с трудом подавляет свои стоны Риск быть пойманным, разбудив мать или сестру, явно возбуждает вас обоих."
+
+# game/day14.rpy:1249
+translate russian day14_b_fondle_29eded4e:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
+    "{i}[b_name] с трудом подавляет свои стоны Риск быть пойманным, разбудив [l_name] или [m_name], явно возбуждает вас обоих."
+
+# game/day14.rpy:1250
+translate russian day14_b_fondle_e727e64f:
+
+    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
+    "{i}Судя по её сбитому дыханию и тому, как она давит на твою руку, [b_name] сейчас кончит."
+
+# game/day14.rpy:1255
+translate russian day14_b_fondle_7f7e79ac:
+
+    # b "F-ffff-uuuuck!"
+    b "Аааааааа!"
+
+# game/day14.rpy:1259
+translate russian day14_b_fondle_64651b3a:
+
+    # "{i}With your finger still inside her pussy, your sister experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}С твоими руками внутри себя, твоя сестра испытывает мощнейший оргазм, который заставляет трястись почти весь диван. Потрясываясь, она берет твою руку и продолжает тереть её об свой клитор."
+
+# game/day14.rpy:1261
+translate russian day14_b_fondle_966c2da6:
+
+    # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}С твоими руками внутри себя, [b_name] испытывает мощнейший оргазм, который заставляет трястись почти весь диван. Потрясываясь, она берет твою руку и продолжает тереть её об свой клитор."
+
+# game/day14.rpy:1262
+translate russian day14_b_fondle_7095ffd6:
+
+    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
+    "{i}Немного погодя она успокаивается. Она тихо надевает белье, но не отдаляется от тебя."
+
+# game/day14.rpy:1266
+translate russian day14_b_fondle_55305076:
+
+    # p "I love it when you cum for me."
+    p "Мне так нравится, когда ты кончаешь для меня."
+
+# game/day14.rpy:1267
+translate russian day14_b_fondle_52dcef3c_1:
+
+    # b "I..."
+    b "Я..."
+
+# game/day14.rpy:1269
+translate russian day14_b_fondle_181d589c:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "Ч-ч-что?! Где?! Ой! Ах. Я, кажется, уснула."
+
+# game/day14.rpy:1270
+translate russian day14_b_fondle_a6a6d4f3:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly disentangles herself from you. Her face looks flushed and her expression enigmatic. It looks almost like a mixture of ribald pleasure, shame and the remnants of rapturous lust to you."
+    "{i}Вы оба пугаетесь криков [m_name], и [b_name] в спешке отползает от тебя. Она краснеет. На её лице можно увидеть смесь удовольствия, стыда и похоти."
+
+# game/day14.rpy:1272
+translate russian day14_b_fondle_a5039c88:
+
+    # b "That's enough. Stop it."
+    b "Всё, хватит."
+
+# game/day14.rpy:1273
+translate russian day14_b_fondle_565313e7:
+
+    # b "Uncle!"
+    b "Дядя!"
+
+# game/day14.rpy:1274
+translate russian day14_b_fondle_ed02e162_1:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Боже, ты меня так возбуждаешь, [b_name]."
+
+# game/day14.rpy:1275
+translate russian day14_b_fondle_52dcef3c_2:
+
+    # b "I..."
+    b "Я..."
+
+# game/day14.rpy:1277
+translate russian day14_b_fondle_181d589c_1:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "Ч-ч-что?! Где?! Ой! Ах. Я, кажется, уснула."
+
+# game/day14.rpy:1278
+translate russian day14_b_fondle_1ed4a414:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly untangles herself from you. Her face looks flushed and her expression enigmatic."
+    "{i}Вы оба пугаетесь криков [m_name], и [b_name] в спешке отползает от тебя. Она краснеет."
+
+# game/day14.rpy:1295
+translate russian day14_r_fingering_49278f8a:
+
+    # r "{i}(The thought of his touch on my skin makes me feel so giddy inside.)"
+    r "{i}(Мысли о его прикосновениях заставляют меня дрожать внутри.)"
+
+# game/day14.rpy:1298
+translate russian day14_r_fingering_3fe74477:
+
+    # r "{i}(How softly he caressed my pussy... He was so tender with me.)"
+    r "{i}(Как он нежно ласкает мою киску... Он был так нежен со мной.)"
+
+# game/day14.rpy:1299
+translate russian day14_r_fingering_9ba86f30:
+
+    # r "{i}(I guess he liked being in control after I made him cum the night before.)"
+    r "{i}(Думаю, он любит подчиняться, после того, как я заставила его кончить прошлой ночью.)"
+
+# game/day14.rpy:1300
+translate russian day14_r_fingering_a26c1823:
+
+    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
+    r "{i}(Там было много спермы, но она не была такой противной на вкус, как об этом говорят в журналах, разве что немного странной...)"
+
+# game/day14.rpy:1301
+translate russian day14_r_fingering_b4097cf5:
+
+    # r "{i}(Urgh, I hate feeling like this. All that tension...)"
+    r "{i}(Уф, ненвижу это чувство. Все это напряжение...)"
+
+# game/day14.rpy:1302
+translate russian day14_r_fingering_3949ce7c:
+
+    # r "{i}(Fuck it. I'm going to masturbate. I guess Mrs. Steel would think it isn't 'ladylike behavior', but this is where I draw the line!)"
+    r "{i}(Да пошло оно. Подрочу. Сталина бы не назвала это 'поведением юной леди', но здесь решаю только я!)"
+
+# game/day14.rpy:1308
+translate russian day14_r_fingering_a18ab1a7:
+
+    # r "{i}(Hmmm. Thinking about the naughty things [p_name] and I did has made me so wet.)"
+    r "{i}(Хммм. Я становлюсь такой мокрой, когда думаю о тех вещах, что мы с [p_name] делали.)"
+
+# game/day14.rpy:1309
+translate russian day14_r_fingering_9aa71ced:
+
+    # r "Aaah!"
+    r "Аааа!"
+
+# game/day14.rpy:1312
+translate russian day14_r_fingering_94b75813:
+
+    # r "{i}(Yes! Aaah! [p_name] was so forceful... His finger inside of me... His big cock... So warm... So strong...)"
+    r "{i}(Да! Аааа! [p_name] был таким настойчивым... Его пальцы были внутри меня... Его огромный член... Такой теплый... Такой твердый...)"
+
+# game/day14.rpy:1313
+translate russian day14_r_fingering_0e44b109:
+
+    # r "{i}(Mmmmm... I wonder w-what he would feel like i-inside of me.)"
+    r "{i}(Мммммм... Интересно, как бы он чувствовался внутри меня.)"
+
+# game/day14.rpy:1315
+translate russian day14_r_fingering_553cd0ba:
+
+    # r "{i}(Yes! Aaah! I want [p_name]! I want to feel him i-inside of me!)"
+    r "{i}(Да! Аааа! Я хочу [p_name]! Я хочу чувствовать его внутри!)"
+
+# game/day14.rpy:1320
+translate russian day14_r_fingering_0f019af7:
+
+    # r "{i}(He'll be gentle with me... Kiss me all over... M-m-make me feel good. Oooh! I'm so close!)"
+    r "{i}(Он будет нежен со мной... Будет целовать меня... З-з-заставлять меня чувствовать ебя очень хорошо. Оооо! Сейчас!)"
+
+# game/day14.rpy:1323
+translate russian day14_r_fingering_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "Аааааа! Да!"
+
+# game/day14.rpy:1324
+translate russian day14_r_fingering_0e004e54:
+
+    # r "Mmmmmmm. Now I can sleep."
+    r "Мммммм. Теперь я могу поспать."
+

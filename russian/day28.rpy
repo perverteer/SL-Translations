@@ -5549,3 +5549,381 @@ translate russian day28_al_visit_374f522b:
 
     # "{i}The girl has a hard time keeping quiet as you fuck her. Her back is chafing on the rough stone of the wall, and her nails dig into your flesh."
     "{i}Девушке трудно молчать, когда ты трахаешь ее. Ее спина трется о грубый камень стены, а ногти впиваются в твою плоть."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day28.rpy:1068
+translate russian day28_a_k_visit_ac2723e1:
+
+    # "Does James participate in this scene?"
+    "Участвует ли Джеймс в этой сцене"
+
+# game/day28.rpy:1073
+translate russian day28_a_k_visit_5ff59d32:
+
+    # "James participates"
+    "Джеймс участвует"
+
+# game/day28.rpy:1077
+translate russian day28_a_k_visit_a765de49:
+
+    # "James doesn't participate"
+    "Джеймс не принимает участия"
+
+# game/day28.rpy:1080
+translate russian day28_a_k_visit_fdf5d5f7:
+
+    # "Do you want to fuck Kira or Ana?"
+    "Ты хочешь трахнуть Киру или Ану?"
+
+# game/day28.rpy:1086
+translate russian day28_a_k_visit_79562e41:
+
+    # "Fucking Kira"
+    "Трахающаяся Кира"
+
+# game/day28.rpy:1091
+translate russian day28_a_k_visit_c91717d3:
+
+    # "Fucking Ana"
+    "Ебаный ан"
+
+# game/day28.rpy:1725
+translate russian day28_m_handjob_0599a445:
+
+    # m "Hey."
+    m "Привет."
+
+# game/day28.rpy:1729
+translate russian day28_m_handjob_87f3e913:
+
+    # p "Wow."
+    p "Ого."
+
+# game/day28.rpy:1730
+translate russian day28_m_handjob_013cdcf8:
+
+    # m "How do you like me?"
+    m "Я тебе нравлюсь?"
+
+# game/day28.rpy:1731
+translate russian day28_m_handjob_e6a41c12:
+
+    # p "You're perfect."
+    p "Ты идеальна."
+
+# game/day28.rpy:1737
+translate russian day28_m_handjob_2e447cc0:
+
+    # "{i}Your eyes drink in the sight of your mother's voluptuous body as she spins around to show you all of it."
+    "{i}Ты не можешь оторвать взгляд от фигуристого тела своей матери, когда она кружится, чтобы показать тебе всю себя."
+
+# game/day28.rpy:1739
+translate russian day28_m_handjob_ce8bf891:
+
+    # "{i}Your eyes drink in the sight of your friend's voluptuous body as she spins around to show you all of it."
+    "{i}Ты не можешь оторвать взгляд от фигуристого тела своей подруги, когда она кружится, чтобы показать тебе всю себя."
+
+# game/day28.rpy:1740
+translate russian day28_m_handjob_b408ef21:
+
+    # m "Why don't you come to bed?"
+    m "Почему бы тебе не пройти к кровати?"
+
+# game/day28.rpy:1741
+translate russian day28_m_handjob_ce1766ef:
+
+    # "{i}[m_name] is obviously checking you out as well, her eyes trailing over every inch."
+    "{i}[m_name] очевидно оценивает тебя, её глаза обращают внимание на каждый сантиметр твоего тела."
+
+# game/day28.rpy:1742
+translate russian day28_m_handjob_71651c93:
+
+    # p "Right!"
+    p "И правда!"
+
+# game/day28.rpy:1744
+translate russian day28_m_handjob_422bd8af:
+
+    # m "So tell me."
+    m "Ну так скажи мне."
+
+# game/day28.rpy:1745
+translate russian day28_m_handjob_62653cdb:
+
+    # m "What is it with you and women like me?"
+    m "Каково это между тобой и такими женщинами как я?"
+
+# game/day28.rpy:1746
+translate russian day28_m_handjob_adfd6b5d:
+
+    # p "Women like you?"
+    p "Женщинами как ты?"
+
+# game/day28.rpy:1747
+translate russian day28_m_handjob_ba6e1256:
+
+    # m "Come on now, most guys your age would go for a skinny young thing."
+    m "Ну же, большинство парней твоего возраста предпочли бы худую молодую девочку."
+
+# game/day28.rpy:1748
+translate russian day28_m_handjob_4aa3539e:
+
+    # p "Undoubtedly, but I like a real woman."
+    p "Без сомнений, но мне нравятся настоящие женщины."
+
+# game/day28.rpy:1749
+translate russian day28_m_handjob_7f4acc38:
+
+    # m "Real?"
+    m "Настоящие?"
+
+# game/day28.rpy:1750
+translate russian day28_m_handjob_86aab2da:
+
+    # p "It's hard to express it in words."
+    p "Сложно описать словами."
+
+# game/day28.rpy:1751
+translate russian day28_m_handjob_3929e4d3:
+
+    # m "Do you have something else in mind?"
+    m "У тебя есть что-то еще в мыслях?"
+
+# game/day28.rpy:1756
+translate russian day28_m_handjob_5827cb12:
+
+    # "{i}Without saying anything further, you trail the curve of her hips with your fingertips, causing [m_name] to shiver slightly."
+    "{i}Не говоря ничего больше, ты берешься пальцами за её бедра, чем заставляешь [m_name] немного вздрогнуть."
+
+# game/day28.rpy:1757
+translate russian day28_m_handjob_2673286b:
+
+    # "{i}You help her out of her babydoll she's wearing, allowing you to see her body in all its naked glory."
+    "{i}Ты помогаешь ей снять ночную рубашку и наслаждаешься всей красотой её голого тела."
+
+# game/day28.rpy:1762
+translate russian day28_m_handjob_42c4bdaa:
+
+    # "{i}You kiss her belly and teasingly flick your tongue around her navel."
+    "{i}Ты целуешь её живот и, дразня, облизываешь её пупок."
+
+# game/day28.rpy:1763
+translate russian day28_m_handjob_6069c9ba:
+
+    # m "Oh, that tickles!"
+    m "Щекотно!"
+
+# game/day28.rpy:1766
+translate russian day28_m_handjob_093c6f6c:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Ты поднимаешься к её огромной груди."
+
+# game/day28.rpy:1768
+translate russian day28_m_handjob_093c6f6c_1:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Ты поднимаешься к её огромной груди."
+
+# game/day28.rpy:1769
+translate russian day28_m_handjob_1b531e45:
+
+    # "{i}As the woman breathes heavily, you kiss the curves of her bosom, working towards her stiffening nipples."
+    "{i}Пока женщина тяжело дышит, ты целуешь её грудь и уделяешь особое внимание соскам."
+
+# game/day28.rpy:1770
+translate russian day28_m_handjob_f121165f:
+
+    # m "Do you like my breasts?"
+    m "Тебе нравится моя грудь?"
+
+# game/day28.rpy:1771
+translate russian day28_m_handjob_32b3c19b:
+
+    # p "I love them."
+    p "Я её обожаю."
+
+# game/day28.rpy:1772
+translate russian day28_m_handjob_08a97937:
+
+    # m "Kiss me!"
+    m "Поцелуй меня!"
+
+# game/day28.rpy:1774
+translate russian day28_m_handjob_84d969c6:
+
+    # "{i}The first kisses you exchange are cautious, but when your tongues come into play, any boundaries that existed fall away completely."
+    "{i}Ваши первые поцелуи слишком грубые, но когда ваши языки входят в игру, между вами разрушаются все барьеры."
+
+# game/day28.rpy:1780
+translate russian day28_m_handjob_eb10e287:
+
+    # "{i}[m_name]'s hand slips towards your crotch and frees your erection from your underwear."
+    "{i}[m_name] опускает руки к твоему паху и трогает твой эрегированный член через белье."
+
+# game/day28.rpy:1782
+translate russian day28_m_handjob_e0e1c6a8:
+
+    # "{i}You think you see a hint of confusion flash across her face as she holds your erect member in her hands."
+    "{i}Ты видишь смятение в её глазах, когда она держит твой член в руках."
+
+# game/day28.rpy:1783
+translate russian day28_m_handjob_5ed45dc0:
+
+    # p "{i}(Does she realize... I knew the mask wasn't enough!)"
+    p "{i}(Она поняла?... Я знал, что маски было недостаточно!)"
+
+# game/day28.rpy:1784
+translate russian day28_m_handjob_8d493837:
+
+    # "{i}But [m_name] doesn't cry out in outraged surprise and instead kisses you and starts stroking your cock."
+    "{i}Но [m_name] ничего не восклицает, будучи удивленной, она целует тебя и начинает дрочить тебе."
+
+# game/day28.rpy:1786
+translate russian day28_m_handjob_ba26a947:
+
+    # "{i}She holds your member in her hand as if weighing it. Satisfied, she kisses you and starts stroking your cock."
+    "{i}Она держит твоего дружка в своей руке, будто взвешивает его, и начинает дрочить тебе."
+
+# game/day28.rpy:1788
+translate russian day28_m_handjob_8ffbc3ac:
+
+    # m "Mmmm, does that feel good, [p_name]?"
+    m "Мммм, приятно, [p_name]?"
+
+# game/day28.rpy:1789
+translate russian day28_m_handjob_bb5d0cbf:
+
+    # p "I-it does."
+    p "О-очень."
+
+# game/day28.rpy:1790
+translate russian day28_m_handjob_13ba4582:
+
+    # m "Do you want to cum for me?"
+    m "Хочешь кончить для меня?"
+
+# game/day28.rpy:1791
+translate russian day28_m_handjob_6ea4dd18:
+
+    # p "Y-yes, I do."
+    p "Д-да, хочу."
+
+# game/day28.rpy:1792
+translate russian day28_m_handjob_42899ef0:
+
+    # m "Make a mess all over my body?"
+    m "Обкончай меня всю."
+
+# game/day28.rpy:1795
+translate russian day28_m_handjob_704bb4dc:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your mother's large breasts."
+    "{i}Её рука массажирует твой член так, как надо, когда ты обращаешь внимание на грудь своей матери."
+
+# game/day28.rpy:1797
+translate russian day28_m_handjob_73d4fbdd:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your friend's large breasts."
+    "{i}Её рука массажирует твой член так, как надо, когда ты обращаешь внимание на грудь своей подруги."
+
+# game/day28.rpy:1798
+translate russian day28_m_handjob_28f83ebb:
+
+    # m "Oh yes!"
+    m "О да!"
+
+# game/day28.rpy:1799
+translate russian day28_m_handjob_2ead3e96:
+
+    # "{i}She brushes your hand away though in order to focus completely on pleasuring you."
+    "{i}Она отодвигает твою руку в сторону, чтобы сфокусироваться только на удовлетворении тебя."
+
+# game/day28.rpy:1800
+translate russian day28_m_handjob_8d4cf03f:
+
+    # m "That's my boy!"
+    m "Это мой мальчик!"
+
+# game/day28.rpy:1801
+translate russian day28_m_handjob_4daec3dd:
+
+    # "{i}[m_name] strokes your cock again, tracing the veins of your shaft with her wet fingertips, before jerking you off."
+    "{i}[m_name] дрочит твой член снова, трогая вены твоего ствола подушечками пальцев, прежде чем позволить тебе кончить."
+
+# game/day28.rpy:1802
+translate russian day28_m_handjob_ce401f6e:
+
+    # m "That's it, baby."
+    m "Вот так, малыш."
+
+# game/day28.rpy:1804
+translate russian day28_m_handjob_51af9386:
+
+    # "{i}A naughty grin crosses her face as [m_name] utters her next words, already sure of its effects on you."
+    "{i}[m_name] ехидно улыбатся, так как понимает, что тебе понравятся её слова."
+
+# game/day28.rpy:1805
+translate russian day28_m_handjob_2653304a:
+
+    # m "Mommy wants your cum so bad!"
+    m "Мамочка очень хочет, чтобы ты кончил!"
+
+# game/day28.rpy:1807
+translate russian day28_m_handjob_1ebb7675:
+
+    # m "I want your cum so bad!"
+    m "Я хочу, чтоб ты кончил!"
+
+# game/day28.rpy:1815
+translate russian day28_m_handjob_0e1cfcbb:
+
+    # "{i}Your mother knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}Твоя мать знает, сколько нужно дрочить тебе, чтобы из тебя вылилось все, когда ты начинаешь кончать и заливать спермой все её руки и живот."
+
+# game/day28.rpy:1817
+translate russian day28_m_handjob_b1575f96:
+
+    # "{i}[m_name] knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}[m_name] знает, сколько нужно дрочить тебе, чтобы из тебя вылилось все, когда ты начинаешь кончать и заливать спермой все её руки и живот."
+
+# game/day28.rpy:1818
+translate russian day28_m_handjob_e5dba7f6:
+
+    # "{i}With her eyes closed and wearing a look of bliss, [m_name] spreads your cum all over her body and kisses you."
+    "{i}Закрыв глаза, [m_name] растирает твою сперму по всему своему телу и целует тебя."
+
+# game/day28.rpy:1823
+translate russian day28_m_handjob_5b5208aa:
+
+    # p "I never want to leave this bed."
+    p "Я не хочу покидать эту кровать."
+
+# game/day28.rpy:1824
+translate russian day28_m_handjob_c08bc8f4:
+
+    # m "Good."
+    m "Хорошо."
+
+# game/day28.rpy:1825
+translate russian day28_m_handjob_6227f08a:
+
+    # m "But I expect you to earn your keep!"
+    m "Но я хочу, чтобы ты заслужил свою задержку!"
+
+# game/day28.rpy:1826
+translate russian day28_m_handjob_84fe6a10:
+
+    # p "You make that sound as if it's a burden."
+    p "Говоришь так, будто я против."
+
+translate russian strings:
+
+    # game/day28.rpy:1081
+    old "Fuck Kira"
+    new "Трахни Киру"
+
+    # game/day28.rpy:1081
+    old "Fuck Ana"
+    new "Ебать Ану"
+

@@ -1,7 +1,7 @@
 ﻿# TODO: Translation updated at 2021-02-24 11:08
 translate russian python:
     gui.text_font = "RobotoSlab-Regular.ttf"
-    gui.name_text_font = "RobotoSlab-Regular.ttf"
+    gui.name_text_font = "RobotoSlab-Bold.ttf"
     gui.choice_button_text_font = "RobotoSlab-Regular.ttf"
     gui.button_text_font = "RobotoSlab-Regular.ttf"
     gui.interface_text_font = "RobotoSlab-Regular.ttf"
@@ -544,4 +544,100 @@ translate russian strings:
     # game/screens.rpy:1073
     old "Portuguese"
     new "Португальский"
+
+# TODO: Translation updated at 2024-11-17 22:06
+
+translate russian strings:
+
+    # game/screens.rpy:540
+    old "Achievements"
+    new "Достижения"
+
+    # game/screens.rpy:842
+    old "Achievements Unlocked: %d / %d"
+    new "Достижения разблокированы: %d / %d"
+
+    # game/screens.rpy:874
+    old "Version "
+    new "Версия "
+
+    # game/screens.rpy:874
+    old "[config.version!t]\n"
+    new "[config.version!t]\n"
+
+    # game/screens.rpy:880
+    old "Translations"
+    new "Переводы"
+
+    # game/screens.rpy:883
+    old "Voice Acting"
+    new "Игра голосом"
+
+    # game/screens.rpy:886
+    old "Music"
+    new "Музыка"
+
+    # game/screens.rpy:908
+    old "{a=[track[website]]}[track[website]]{/a}"
+    new "{a=[track[website]]}[track[website]]{/a}"
+
+    # game/screens.rpy:909
+    old "License: "
+    new "Лицензия: "
+
+    # game/screens.rpy:909
+    old "{a=[track[license_url]]}[track[license]]{/a}"
+    new "{a=[track[license_url]]}[track[license]]{/a}"
+
+    # game/screens.rpy:911
+    old "Website: "
+    new "Веб-сайт: "
+
+    # game/screens.rpy:911
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    # game/screens.rpy:915
+    old "Sound Effects"
+    new "Звуковые эффекты"
+
+    # game/screens.rpy:1617
+    old "View by: "
+    new "Смотреть по: "
+
+    # game/screens.rpy:1619
+    old "Days"
+    new "дней"
+
+    # game/screens.rpy:1621
+    old "Character"
+    new "Персонаж"
+
+# TODO: Translation updated at 2024-11-19 10:21
+
+translate russian strings:
+
+    # game/screens.rpy:1198
+    old "Turkish"
+    new "Турецкая"
+
+# TODO: Translation updated at 2024-11-29 09:53
+
+translate russian strings:
+
+    # game/screens.rpy:1189
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1190
+    old "Connect your toy"
+    new "Подключите игрушку"
+
+# TODO: Translation updated at 2024-12-11 17:21
+
+translate russian strings:
+
+    # game/screens.rpy:1210
+    old "Chinese (Simplified)"
+    new "Китайский (упрощенный)"
 

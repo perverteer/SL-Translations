@@ -1858,3 +1858,53 @@ translate russian strings:
     old "Read the book"
     new "Почитать книгу"
 
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day02.rpy:751
+translate russian day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Зачем [m_name] читает эту гадость?)"
+
+# game/day02.rpy:752
+translate russian day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(И она читала это на диване в гостиной... невероятно.)"
+
+# game/day02.rpy:753
+translate russian day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Представить только, что еще она прячет.)"
+
+# game/day02.rpy:755
+translate russian day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(Моя новая семья становится все интереснее и интереснее...)"
+
+# game/day02.rpy:757
+translate russian day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(Мои новые друзья становятся все интереснее и интереснее...)"
+
+# game/day02.rpy:769
+translate russian day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(Ничего. Лучше уйти.)"
+
+# game/day02.rpy:779
+translate russian day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Ты возвращаешься назад в свою комнату и ложишься в кровать."
+
+# game/day02.rpy:781
+translate russian day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Ты решаешь быть правильным и ответственным и пойти спать."
+

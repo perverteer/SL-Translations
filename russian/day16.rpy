@@ -4421,3 +4421,923 @@ translate russian day16_b_restaurant_choices_soft_83cf7ebc:
 
     # p "Relax, dear [l_name], I was just teasing you."
     p "Расслабься, дорогая [имя_л], я просто дразнил тебя."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day16.rpy:945
+translate russian day16_rb_watersports_dc7928c0:
+
+    # "{i}Careful not to get caught, you follow Rebeca to a secluded place between several large rocks. She's already undressed when you arrive..."
+    "{i}Осторожно, чтобы тебя не поймали, следуй за Ребекой в укромное место между несколькими большими камнями. Она уже разделась, когда ты пришел."
+
+# game/day16.rpy:952
+translate russian day16_rb_watersports_d541273a:
+
+    # p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
+    p "{i}(Господи, я прям вовремя. Какой замечательный вид.)"
+
+# game/day16.rpy:954
+translate russian day16_rb_watersports_a1ab4375:
+
+    # p "{i}(Let it flow, girl... Damn what a sight.)"
+    p "{i}(Давай, девочка... Ну и зрелище.)"
+
+# game/day16.rpy:959
+translate russian day16_rb_watersports_f6eeb36d:
+
+    # p "{i}(Shit! She saw me! She's looking right at me...)"
+    p "{i}(Черт! Она увидела меня! Она смотрит прямо на меня...)"
+
+# game/day16.rpy:960
+translate russian day16_rb_watersports_161d61e6:
+
+    # p "{i}(And she's smiling... Wow!)"
+    p "{i}(И она улыбается... Ого!)"
+
+# game/day16.rpy:964
+translate russian day16_rb_watersports_0b252137:
+
+    # "{i}You head back to the main beach and wait for Rebeca to come back."
+    "{i}Ты возвращаешься на пляж и ждешь Ребекку."
+
+# game/day16.rpy:966
+translate russian day16_rb_watersports_4992d2b8:
+
+    # rb "Guess who I saw just now..."
+    rb "Угадай, кого я только что увидела..."
+
+# game/day16.rpy:967
+translate russian day16_rb_watersports_41b842d0:
+
+    # p "{i}(She doesn't seem mad... Quite the contrary.)"
+    p "{i}(Она не выглядит злой...)"
+
+# game/day16.rpy:968
+translate russian day16_rb_watersports_f8f2b7fa:
+
+    # rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
+    rb "Тебе нравятся такие вещи, [p_name]? Тебе нравятся водные виды спорта?"
+
+# game/day16.rpy:979
+translate russian day16_rb_watersports_63e34849:
+
+    # p "Actually I do. You looked very hot just now."
+    p "Да. Это было очень горячо."
+
+# game/day16.rpy:980
+translate russian day16_rb_watersports_168a57bc:
+
+    # rb "Dirty! I'll keep that in mind..."
+    rb "Как грязно! Запомню это..."
+
+# game/day16.rpy:981
+translate russian day16_rb_watersports_00fe2d33:
+
+    # rb "I like you already, [p_name]. We're going to get along just fine."
+    rb "Ты мне уже нравишься, [p_name]. Мы прекрасно поладим."
+
+# game/day16.rpy:982
+translate russian day16_rb_watersports_73d7233c:
+
+    # p "Thank you, the feeling is quite mutual."
+    p "Спасибо, у меня такое же чувство."
+
+# game/day16.rpy:983
+translate russian day16_rb_watersports_9be3a2c2:
+
+    # rb "Good."
+    rb "Замечательно."
+
+# game/day16.rpy:991
+translate russian day16_rb_watersports_4465ac0d:
+
+    # p "Only when it involves a surfboard."
+    p "Только когда это связано с доской для серфинга."
+
+# game/day16.rpy:992
+translate russian day16_rb_watersports_7cbc95c2:
+
+    # rb "Why did you come after me then?"
+    rb "Тогда зачем ты пошел за мной?"
+
+# game/day16.rpy:993
+translate russian day16_rb_watersports_79276013:
+
+    # p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
+    p "{i}(Лучше быть честным. Иначе она предложит мне золотой дождь или еще что...)"
+
+# game/day16.rpy:994
+translate russian day16_rb_watersports_ff1835db:
+
+    # p "I just wanted to see you naked."
+    p "Я просто хотел увидеть тебя голой."
+
+# game/day16.rpy:995
+translate russian day16_rb_watersports_18383d3d:
+
+    # rb "That's also a very good reason."
+    rb "Тоже хорошая причина."
+
+# game/day16.rpy:996
+translate russian day16_rb_watersports_a69855c9:
+
+    # rb "Did you like what you saw?"
+    rb "Тебе понравилось увиденное?"
+
+# game/day16.rpy:997
+translate russian day16_rb_watersports_87dbf22d:
+
+    # p "Yes. You're very sexy."
+    p "Да. Ты очень сексуальна."
+
+# game/day16.rpy:1004
+translate russian day16_rb_sex_357c561f:
+
+    # "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
+    "{i}Очень скоро вы возвращаетесь к месту, откуда начали прогулку. Она открывает дверь, и вы заходите внутрь."
+
+# game/day16.rpy:1009
+translate russian day16_rb_sex_236b0d51:
+
+    # p "Jesus, it's really hot in here."
+    p "Господи, здесь так жарко."
+
+# game/day16.rpy:1010
+translate russian day16_rb_sex_f8b4a90e:
+
+    # rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
+    rb "Минус студии с плоской крышей на пляже. Вот почему я обычно работую голой."
+
+# game/day16.rpy:1011
+translate russian day16_rb_sex_b0bd2bdf:
+
+    # p "Of course you do."
+    p "Конечно."
+
+# game/day16.rpy:1016
+translate russian day16_rb_sex_e52a1cbe:
+
+    # rb "See, it's that easy."
+    rb "Смотри, это легко."
+
+# game/day16.rpy:1017
+translate russian day16_rb_sex_63123add:
+
+    # "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
+    "{i}Вид её голового тела делает атмосферу в комнате ещё горячее, и у тебя встает."
+
+# game/day16.rpy:1018
+translate russian day16_rb_sex_5647013f:
+
+    # rb "Undress for me please, so I can get a good look at you."
+    rb "Разденься, пожалуйста, мне нужно на тебя посмотреть."
+
+# game/day16.rpy:1020
+translate russian day16_rb_sex_33c8101d:
+
+    # rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze, or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
+    rb "Ого, ты идеально подходишь. Может, сделаю тебя из бронзы или какого-то прекрасного металла... Не знаю. Но ты идеально подойдешь для введения в мою новую серию работ."
+
+# game/day16.rpy:1021
+translate russian day16_rb_sex_c74f31d0:
+
+    # p "I'm honored..."
+    p "Какая честь..."
+
+# game/day16.rpy:1022
+translate russian day16_rb_sex_8a34a33b:
+
+    # rb "Lie down please, I have to make a mold."
+    rb "Ложись, пожалуйста, я сделаю смесь."
+
+# game/day16.rpy:1023
+translate russian day16_rb_sex_4aa8d273:
+
+    # "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
+    "{i}Ты ложишься и ненадолго закрываешь глаза, пока Ребекка ходит по студии и ищет материалы."
+
+# game/day16.rpy:1028
+translate russian day16_rb_sex_283155d8:
+
+    # "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
+    "{i}Видимо, ты вырубился ненадолго, потому что проснулся от холодных рук, трогающих твой пенис."
+
+# game/day16.rpy:1030
+translate russian day16_rb_sex_58b66eb1:
+
+    # rb "Ah, he's awake."
+    rb "О, проснулся."
+
+# game/day16.rpy:1031
+translate russian day16_rb_sex_7709aaa0:
+
+    # p "W-what are you doing?"
+    p "Ч-что ты делаешь?"
+
+# game/day16.rpy:1032
+translate russian day16_rb_sex_5f499520:
+
+    # rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
+    rb "Твой член обмякший, не особо походит на символ мужского либидо. Мне остановиться?"
+
+# game/day16.rpy:1033
+translate russian day16_rb_sex_34d74724:
+
+    # p "God no, keep going."
+    p "Боже, нет, продолжай."
+
+# game/day16.rpy:1034
+translate russian day16_rb_sex_c428e0ed:
+
+    # "{i}When Rebeca is satisfied, she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
+    "{i}Когда Ребекку удовлетворяет результат, она убирает руки от твоего члена и достает каие-то инструменты, наверное, чтобы сделать смесь. Ты начинаешь отключаться снова из-за жары."
+
+# game/day16.rpy:1039
+translate russian day16_rb_sex_858df364:
+
+    # "{i}Almost subconsciously, you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
+    "{i}Будучи почти без сознания, ты чувствуешь густую, холодную жидкость, текущую по твоему члену."
+
+# game/day16.rpy:1040
+translate russian day16_rb_sex_f4b65e6d:
+
+    # "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
+    "{i}Спустя некоторое время Ребекка убрала смесь и начала вытирать твой член мягким полтоенцем, хотя гораздо дольше, чем стоило."
+
+# game/day16.rpy:1041
+translate russian day16_rb_sex_d6ccac46:
+
+    # rb "Done."
+    rb "Готово."
+
+# game/day16.rpy:1042
+translate russian day16_rb_sex_b625aa51:
+
+    # p "You're a downright cocktease, you know that?"
+    p "Ты очень любишь члены, да?"
+
+# game/day16.rpy:1043
+translate russian day16_rb_sex_97af099a:
+
+    # rb "What? You mean my innocent touches?"
+    rb "Что? Ты про мои невинные прикосновения?"
+
+# game/day16.rpy:1044
+translate russian day16_rb_sex_8bbbbb2d:
+
+    # p "Exactly those."
+    p "Именно про них."
+
+# game/day16.rpy:1046
+translate russian day16_rb_sex_31563e3c:
+
+    # p "Come here."
+    p "Подойди."
+
+# game/day16.rpy:1051
+translate russian day16_rb_sex_2f090249:
+
+    # "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
+    "{i}Ребекка не сопротивляется и подходит к тебе. Неожиданно вы начинаете страстно целоваться, её руки изучают твое тело, а ты щупаешь её грудь."
+
+# game/day16.rpy:1052
+translate russian day16_rb_sex_fcbd5ad6:
+
+    # rb "Fuck me, [p_name]."
+    rb "Трахни меня, [p_name]."
+
+# game/day16.rpy:1057
+translate russian day16_rb_sex_c41e60f5:
+
+    # "{i}When you enter her, she's already wet. You penetrate her deeply and quickly establish a rhythm."
+    "{i}Когда ты входишь в неё, она уже мокрая. Ты проникаешь глубоко и быстро устанавливаешь нужный ритм."
+
+# game/day16.rpy:1058
+translate russian day16_rb_sex_e839182f:
+
+    # rb "God yes. Fuck me! Fuck me harder!"
+    rb "Боже, да. Давай! Сильнее!"
+
+# game/day16.rpy:1060
+translate russian day16_rb_sex_a6080212:
+
+    # "{i}Encouraged by her words, you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
+    "{i}Воодушевленный её словами, ты входишь ещё глубже. Студия наполняется хлюпанием и хриплыми стонами Ребекки."
+
+# game/day16.rpy:1066
+translate russian day16_rb_sex_e0792702:
+
+    # "{i}As you change positions, Rebeca's ass bounces against your pelvis. You slap it repeatedly."
+    "{i}Как только вы меняетесь позициями, задница Ребекки начинает прыгать на твоем члене, а ты шлепаешь её."
+
+# game/day16.rpy:1067
+translate russian day16_rb_sex_c064ca31:
+
+    # rb "Mmmmm yeah, slap it."
+    rb "Мммммммм да, отшлепай меня."
+
+# game/day16.rpy:1068
+translate russian day16_rb_sex_01bc843c:
+
+    # p "I'm going to fill you up, Rebeca."
+    p "Я обкончаю тебя, Ребекка."
+
+# game/day16.rpy:1069
+translate russian day16_rb_sex_0a777782:
+
+    # rb "Put it inside me please!"
+    rb "Заснуь его внутрь меня, пожалуйста!"
+
+# game/day16.rpy:1075
+translate russian day16_rb_sex_d28f47a3:
+
+    # p "I want you to taste me."
+    p "Я хочу, чтобы ты попробовала меня."
+
+# game/day16.rpy:1076
+translate russian day16_rb_sex_27a51b38:
+
+    # "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
+    "{i}Ты вынимаешь свой член, и Ребекка быстро становится на колени перед тобой, открывая рот, чтобы получить твое теплое семя."
+
+# game/day16.rpy:1082
+translate russian day16_rb_sex_ddae8c90:
+
+    # "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
+    "{i}Толстые струи спермы вылетают из твоего пульсирующего члена. Ребекка старается поймать их все ртом, но некоторые попадают ей на лицо."
+
+# game/day16.rpy:1084
+translate russian day16_rb_sex_eb00dfd3:
+
+    # "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
+    "{i}Она закрывает рот и глотает всю сперму, после чего облизывает губы."
+
+# game/day16.rpy:1085
+translate russian day16_rb_sex_e8f9ac8c:
+
+    # rb "You taste really good, [p_name]."
+    rb "Ты очень вкусный, [p_name]."
+
+# game/day16.rpy:1095
+translate russian day16_rb_sex_afe6949f:
+
+    # p "Fuck yes, your pussy will be overflowing."
+    p "О да, твоя киска будет полностью заполнена."
+
+# game/day16.rpy:1101
+translate russian day16_rb_sex_86e11c7e:
+
+    # "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
+    "{i}Ты выстреливаешь огромными струями спермы внутрь неё, твой член пульсирует в её вагине."
+
+# game/day16.rpy:1102
+translate russian day16_rb_sex_d124b0c2:
+
+    # rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
+    rb "Ммммммм, да, заполни меня! Внутри так тепло."
+
+# game/day16.rpy:1107
+translate russian day16_rb_sex_785a830f:
+
+    # "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
+    "{i}Потные и уставшие, вы оба лежите в жаркой студии Ребекки. В воздухе пахнет сексом и кончей."
+
+# game/day16.rpy:1108
+translate russian day16_rb_sex_207ca936:
+
+    # "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
+    "{i}Ребекка сует палец внутрь своей вагины и слизывает сперму с него."
+
+# game/day16.rpy:1109
+translate russian day16_rb_sex_e8f9ac8c_1:
+
+    # rb "You taste really good, [p_name]."
+    rb "Ты очень вкусный, [p_name]."
+
+# game/day16.rpy:1125
+translate russian day16_l_fingering_3b3c6b84:
+
+    # "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
+    "{i}Вы находите тихое местечко, где трава закрывает вас от возможных посторонних глаз."
+
+# game/day16.rpy:1127
+translate russian day16_l_fingering_6682b67e:
+
+    # l "Will we be okay here?"
+    l "Нас не заметят?"
+
+# game/day16.rpy:1128
+translate russian day16_l_fingering_30baada1:
+
+    # p "I'm sure of it, don't worry."
+    p "Не заметят, не переживай."
+
+# game/day16.rpy:1129
+translate russian day16_l_fingering_847e552e:
+
+    # l "Are we really going to do this?"
+    l "Мы правда собираемся это сделать?"
+
+# game/day16.rpy:1130
+translate russian day16_l_fingering_d466837c:
+
+    # p "Unless you don't feel comfortable enough."
+    p "Только если ты этого хочешь."
+
+# game/day16.rpy:1131
+translate russian day16_l_fingering_8f94cb3a:
+
+    # p "{i}(Please be comfortable!!!)"
+    p "{i}(Пожалуйста, скажи, что хочешь!!!)"
+
+# game/day16.rpy:1132
+translate russian day16_l_fingering_b159e512:
+
+    # l "No, I'm good. The grass tickles, that's all."
+    l "Все хорошо. Только трава немного колется."
+
+# game/day16.rpy:1133
+translate russian day16_l_fingering_432d51eb:
+
+    # p "Good."
+    p "Хорошо."
+
+# game/day16.rpy:1134
+translate russian day16_l_fingering_1681dc26:
+
+    # l "Okay."
+    l "Хорошо."
+
+# game/day16.rpy:1135
+translate russian day16_l_fingering_111559a2:
+
+    # p "This'll work better if you're naked."
+    p "Будет лучше, если ты разденешься."
+
+# game/day16.rpy:1136
+translate russian day16_l_fingering_a714afbe:
+
+    # l "Oh yes... of course... Does my bikini need to go as well?"
+    l "А, да... конечно... И бикини снять?"
+
+# game/day16.rpy:1137
+translate russian day16_l_fingering_da5f26f4:
+
+    # p "Only if you want to."
+    p "Только если ты сама хочешь."
+
+# game/day16.rpy:1138
+translate russian day16_l_fingering_16a60d5f:
+
+    # l "I don't know. I guess it'll be in the way."
+    l "Не знаю. Сниму, наверное."
+
+# game/day16.rpy:1139
+translate russian day16_l_fingering_20e54811:
+
+    # p "{i}(Excellent choice.)"
+    p "{i}(Прекрасный выбор.)"
+
+# game/day16.rpy:1142
+translate russian day16_l_fingering_3b185a49:
+
+    # p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
+    p "{i}(Это похоже на рай. Я лежу здесь со своей голой сестрой, и мы сейчас отправися в незабываемое секс-приключение.)"
+
+# game/day16.rpy:1144
+translate russian day16_l_fingering_f27bce54:
+
+    # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
+    p "{i}(Это похоже на рай. Я лежу здесь с голой девушкой, и мы сейчас отправися в незабываемое секс-приключение.)"
+
+# game/day16.rpy:1145
+translate russian day16_l_fingering_f8c73797:
+
+    # p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
+    p "Просто попробуй расслабиться и получить удовольствие. Не загружай себя мыслями, доверься мне."
+
+# game/day16.rpy:1146
+translate russian day16_l_fingering_6e9966ef:
+
+    # l "I'm not sure if I can, but I'll try."
+    l "Не уверена, что это получится, но я попробую."
+
+# game/day16.rpy:1148
+translate russian day16_l_fingering_8df2348b:
+
+    # "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
+    "{i}Твоя рука на её голом животе, и твоя сестра начинает дышать глубже, с ожиданием смотря на тебя."
+
+# game/day16.rpy:1150
+translate russian day16_l_fingering_65757b42:
+
+    # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
+    "{i}Твоя рука на её голом животе, и [l_name] начинает дышать глубже, с ожиданием смотря на тебя."
+
+# game/day16.rpy:1152
+translate russian day16_l_fingering_0df3a880:
+
+    # "{i}You take one of her hands and slowly move it towards her sex."
+    "{i}Ты берешь одну из её рук и медленно опускаешь её вниз."
+
+# game/day16.rpy:1153
+translate russian day16_l_fingering_e3a5a5ed:
+
+    # p "Just explore yourself, take it slow. Feel your body."
+    p "Просто изучай свое тело, медленно. Почувствуй его."
+
+# game/day16.rpy:1154
+translate russian day16_l_fingering_754b9c5b:
+
+    # p "{i}(God, I almost sound like a guru.)"
+    p "{i}(Боже, я сейчас звучу как какой-то гуру.)"
+
+# game/day16.rpy:1155
+translate russian day16_l_fingering_dfa7f157:
+
+    # p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
+    p "Потрогай свою киску, почувствуй её под своими пальцами. Изучи свой клитор... попробуй сделать конкретные действия."
+
+# game/day16.rpy:1156
+translate russian day16_l_fingering_e746ddcb:
+
+    # "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
+    "{i}[l_name] покорно делает то, что ты ей говоришь, но все еще не выглядит расслабленной."
+
+# game/day16.rpy:1157
+translate russian day16_l_fingering_1fb57e6a:
+
+    # p "Is everything alright, [l_name]?"
+    p "Все хорошо, [l_name]?"
+
+# game/day16.rpy:1158
+translate russian day16_l_fingering_97e0d939:
+
+    # l "Yes... It's just... the words you're using. They sound so dirty."
+    l "Да... Просто... Ты так говоришь. Это звучит очень грязно."
+
+# game/day16.rpy:1159
+translate russian day16_l_fingering_cc9a033f:
+
+    # p "But how do those words make you feel?"
+    p "Но как ты себя чувствуешь?"
+
+# game/day16.rpy:1160
+translate russian day16_l_fingering_b87fab88:
+
+    # l "I..."
+    l "Я..."
+
+# game/day16.rpy:1161
+translate russian day16_l_fingering_9a456252:
+
+    # p "Come on, you can say it to me."
+    p "Ну же, скажи."
+
+# game/day16.rpy:1162
+translate russian day16_l_fingering_af3eaa24:
+
+    # l "They make me feel..."
+    l "Я..."
+
+# game/day16.rpy:1163
+translate russian day16_l_fingering_3dfeeaf4:
+
+    # l "...Horny?"
+    l "...Возбуждена?"
+
+# game/day16.rpy:1164
+translate russian day16_l_fingering_18e72607:
+
+    # p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
+    p "Так и должно быть. Секс полностью захватывает тебя страстью. Это не что-то, чему можно уделять только половину внимания."
+
+# game/day16.rpy:1165
+translate russian day16_l_fingering_fd2f6b1e:
+
+    # l "Okay, I'll try."
+    l "Хорошо, я попробую."
+
+# game/day16.rpy:1166
+translate russian day16_l_fingering_daf20258:
+
+    # p "Don't worry about yourself, or the responses of your body. It's all natural."
+    p "Не беспокойся ни о чем. Все хорошо."
+
+# game/day16.rpy:1167
+translate russian day16_l_fingering_1b4657c6:
+
+    # l "Are you... eh... horny?"
+    l "А ты... эм... возбужден?"
+
+# game/day16.rpy:1168
+translate russian day16_l_fingering_0bb85004:
+
+    # p "Yes, I think this is really exciting."
+    p "Да, меня это начинает захватывать."
+
+# game/day16.rpy:1169
+translate russian day16_l_fingering_e1bb255d:
+
+    # l "Do you have a... you know..."
+    l "А у тебя уже... ну, ты знаешь..."
+
+# game/day16.rpy:1170
+translate russian day16_l_fingering_3309102f:
+
+    # p "An erection?"
+    p "Появилась эрекция?"
+
+# game/day16.rpy:1171
+translate russian day16_l_fingering_e29a29a2:
+
+    # l "Yes?"
+    l "Да?"
+
+# game/day16.rpy:1172
+translate russian day16_l_fingering_1b526758:
+
+    # p "As soon as you removed your bikini. You have such a sexy body."
+    p "Как только ты сняла купальник. У тебя очень сексуальное тело."
+
+# game/day16.rpy:1173
+translate russian day16_l_fingering_45761022:
+
+    # p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
+    p "{i}(И если мы не вернемся к разговору о ней, я кончу просто от разговора...)"
+
+# game/day16.rpy:1174
+translate russian day16_l_fingering_81f2c3f1:
+
+    # p "Shall we continue?"
+    p "Продолжим?"
+
+# game/day16.rpy:1175
+translate russian day16_l_fingering_bc5c265b:
+
+    # l "Yes."
+    l "Да."
+
+# game/day16.rpy:1176
+translate russian day16_l_fingering_3b587d0a:
+
+    # p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
+    p "Не думай о самом оргазме, просто наслаждайся моментом."
+
+# game/day16.rpy:1177
+translate russian day16_l_fingering_c383bd3b:
+
+    # p "Start by gently rubbing your pussy."
+    p "Начни аккуратно, но настойчиво трогать себя."
+
+# game/day16.rpy:1183
+translate russian day16_l_fingering_8ee5f2dd:
+
+    # l "Ooooh, yes... That feels good."
+    l "Ооооооо да... Это приятно."
+
+# game/day16.rpy:1184
+translate russian day16_l_fingering_7f1370a3:
+
+    # "{i}You edge closer and lower your voice to a whisper."
+    "{i}Ты приближаешься к ней и начинаешь говорить шепотом."
+
+# game/day16.rpy:1185
+translate russian day16_l_fingering_e4df1b27:
+
+    # p "Explore you pussy lips, your clitoris..."
+    p "Исследуй свои половые губы, клитор..."
+
+# game/day16.rpy:1186
+translate russian day16_l_fingering_20a26fd7:
+
+    # l "Yes! Mmmmm."
+    l "Да! Мммммм."
+
+# game/day16.rpy:1187
+translate russian day16_l_fingering_49062072:
+
+    # p "Don't hold back. If it feels good, continue doing it..."
+    p "Не останавливайся. Если тебе хорошо, продолжай."
+
+# game/day16.rpy:1188
+translate russian day16_l_fingering_cc354b51:
+
+    # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
+    "{i}Немного спустя, стоны [l_name] прекращаются. Она больше не получает удовольствие."
+
+# game/day16.rpy:1189
+translate russian day16_l_fingering_2daad4de:
+
+    # p "When you think you're losing momentum, think of dirty things."
+    p "Если ты чувствуешь, что теряешь настрой, подумай о чем-то грязном."
+
+# game/day16.rpy:1190
+translate russian day16_l_fingering_b1b12192:
+
+    # l "I... I... I can't."
+    l "Я... Я... Я не могу."
+
+# game/day16.rpy:1191
+translate russian day16_l_fingering_c70c2218:
+
+    # p "{i}(Maybe some dirty talk will rouse her.)"
+    p "{i}(Может, её возбудит грязный разговор.)"
+
+# game/day16.rpy:1192
+translate russian day16_l_fingering_6da813c1:
+
+    # p "Would you like to hear the dirty things I'd do to you?"
+    p "Хочешь услышать, что бы я хотел с тобой сделать?"
+
+# game/day16.rpy:1193
+translate russian day16_l_fingering_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "Д-да..."
+
+# game/day16.rpy:1194
+translate russian day16_l_fingering_38adfa51:
+
+    # p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
+    p "Я бы зацеловал все твое тело, начиная со сладенького рта. Потом бы перешел к твоей идеальной груди и целовал твои соски, пока бы они не затвердели."
+
+# game/day16.rpy:1195
+translate russian day16_l_fingering_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day16.rpy:1196
+translate russian day16_l_fingering_e854e50c:
+
+    # l "...Go on please."
+    l "...продолжай."
+
+# game/day16.rpy:1197
+translate russian day16_l_fingering_a4973da7:
+
+    # p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
+    p "Я бы не забыл о твоем животе и бедрах. А твою чудесную киску я бы оставил на последок..."
+
+# game/day16.rpy:1198
+translate russian day16_l_fingering_91c056ac:
+
+    # l "Mmmmm."
+    l "Ммммм."
+
+# game/day16.rpy:1200
+translate russian day16_l_fingering_2c69ebf2:
+
+    # "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}Твоя сестра снова возбудилась. Она извивается на песке и трогает свою киску."
+
+# game/day16.rpy:1202
+translate russian day16_l_fingering_22032ab9:
+
+    # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}[l_name] снова возбудилась. Она извивается на песке и трогает свою киску."
+
+# game/day16.rpy:1203
+translate russian day16_l_fingering_f362d2ec:
+
+    # p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
+    p "А сейчас попробуй проникнуть внутрь."
+
+# game/day16.rpy:1205
+translate russian day16_l_fingering_04979e16:
+
+    # l "It feels so strange."
+    l "Это так странно."
+
+# game/day16.rpy:1206
+translate russian day16_l_fingering_6ae2b3cf:
+
+    # p "But it's good, isn't it?"
+    p "Но приятно, да?"
+
+# game/day16.rpy:1207
+translate russian day16_l_fingering_e511b696:
+
+    # l "Y-y-yes!"
+    l "Д-д-да!"
+
+# game/day16.rpy:1208
+translate russian day16_l_fingering_00111317:
+
+    # p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
+    p "Хорошо, хорошо, уже почти. Продолжай трогать себя внутри и не забывай про клитор."
+
+# game/day16.rpy:1209
+translate russian day16_l_fingering_5e00ee0b:
+
+    # l "Tell me more about the things you'd like to do with my body. Please!"
+    l "Говори мне больше о том, что бы ты со мной сделал. Пожалуйста!"
+
+# game/day16.rpy:1210
+translate russian day16_l_fingering_888962a9:
+
+    # p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm, I'd suck on them, sending you over the edge and making you cum so hard."
+    p "После всех этих поцелуев, я бы вернулся к твоим соскам и начал их лизать, а руками бы входил в тебя. Когда бы ты была близка к оргазму, я бы ускорился и заставил тебя кончить."
+
+# game/day16.rpy:1211
+translate russian day16_l_fingering_644ee3dc:
+
+    # l "Oooooh, [p_name]!"
+    l "Аааааах, [p_name]!"
+
+# game/day16.rpy:1212
+translate russian day16_l_fingering_7c777b86:
+
+    # p "Yes, [l_name]?"
+    p "Да, [l_name]?"
+
+# game/day16.rpy:1213
+translate russian day16_l_fingering_f8d205a2:
+
+    # l "I think I'm..."
+    l "Я..."
+
+# game/day16.rpy:1220
+translate russian day16_l_fingering_665bccf9:
+
+    # l "Aaaaaaaaaaah!!!"
+    l "Аааааааааааааа!!!"
+
+# game/day16.rpy:1222
+translate russian day16_l_fingering_5f782092:
+
+    # "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Не в состоянии больше сдерживаться, твоя сестра начинает трястись. Оргазм затрагивает каждую клетку её тела."
+
+# game/day16.rpy:1224
+translate russian day16_l_fingering_5ad0e16a:
+
+    # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Не в состоянии больше сдерживаться, [l_name] начинает трястись. Оргазм затрагивает каждую клетку её тела."
+
+# game/day16.rpy:1225
+translate russian day16_l_fingering_e5a66882:
+
+    # p "My beautiful, beautiful girl."
+    p "Моя прекрасня, милая девочка."
+
+# game/day16.rpy:1226
+translate russian day16_l_fingering_58781776:
+
+    # l "Aaaaah!!!"
+    l "Аааааа!!!"
+
+# game/day16.rpy:1230
+translate russian day16_l_fingering_8d0c9317:
+
+    # "{i}It takes quite a while for [l_name] to recover from her orgasm, and she seems unable to speak for some time after."
+    "{i}[l_name] требуется немного времени, чтобы отойти от такого сильного оргазма, и чуть позже к ней возвращаются силы говорить."
+
+# game/day16.rpy:1234
+translate russian day16_l_fingering_e0004e3f:
+
+    # l "I really, really didn't know it could feel so wonderful."
+    l "Я правда не знала, что это так приятно."
+
+# game/day16.rpy:1235
+translate russian day16_l_fingering_b00e3678:
+
+    # p "It takes time, practice and some dedication, but you were magnificent."
+    p "Для этого нужны время и практика, но ты отлично справилась."
+
+# game/day16.rpy:1236
+translate russian day16_l_fingering_c826d305:
+
+    # l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
+    l "Уже холодно, и я хочу спать."
+
+# game/day16.rpy:1237
+translate russian day16_l_fingering_e126bb40:
+
+    # p "I understand, let's head back."
+    p "Я тоже, пошли домой."
+
+# game/day16.rpy:1239
+translate russian day16_l_fingering_f951f29f:
+
+    # l "Thank you for the lovely evening. It really means a lot to me."
+    l "Спасибо за этот прекрасный вечер. Это очень многое значит для меня."
+
+# game/day16.rpy:1240
+translate russian day16_l_fingering_58357d64:
+
+    # p "{i}(I sure hope this isn't the last time...)"
+    p "{i}(Уверен, это был не последний раз...)"
+
+# game/day16.rpy:1241
+translate russian day16_l_fingering_d2059054:
+
+    # l "Sleep well, dear [p_name]."
+    l "Добрых снов, дорогой [p_name]."
+
+# game/day16.rpy:1242
+translate russian day16_l_fingering_fdb98df6:
+
+    # p "Good night, my darling [l_name]."
+    p "Спокойной ночи, моя дорогая  [l_name]."
+

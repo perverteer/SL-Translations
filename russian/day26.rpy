@@ -5257,3 +5257,1607 @@ translate russian day26_b_hotel_61de57db_2:
 
     # p "But you're not worried, are you? About us?"
     p "Но ты же не волнуешься? О нас?"
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day26.rpy:938
+translate russian day26_discreet_session_e21bc220:
+
+    # "{i}You enter the lavishly furnished antechamber and wait for [m_name] to enter the room."
+    "{i}Ты заходишь в богато обустроенную комнату и ждешь [m_name]."
+
+# game/day26.rpy:940
+translate russian day26_discreet_session_9df8647b:
+
+    # m "Mr. Holmes. I trust you're ready for what's coming."
+    m "Мистер Холмс. Надеюсь, Вы готовы к сегодняшнему."
+
+# game/day26.rpy:941
+translate russian day26_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day26.rpy:942
+translate russian day26_discreet_session_89f3e86a:
+
+    # m "Please choose one of the doors."
+    m "Выбирай одну из дверей."
+
+# game/day26.rpy:943
+translate russian day26_discreet_session_6d3cb20f:
+
+    # "{i}After picking a door at random, [m_name] opens it and motions you through."
+    "{i}После того, как ты выбрал случайную дверь, [m_name] открывает её и ведет тебя туда."
+
+# game/day26.rpy:945
+translate russian day26_discreet_session_dab1d29f:
+
+    # p "{i}(A living room?)"
+    p "{i}(Гостиная?)"
+
+# game/day26.rpy:946
+translate russian day26_discreet_session_9d481581:
+
+    # m "Ah. A homely setting."
+    m "Ах. Домашний уют."
+
+# game/day26.rpy:948
+translate russian day26_discreet_session_f5bb0b3b:
+
+    # m "Your sister will be home shortly... son..."
+    m "Твоя сестра скоро придет тобой... сын..."
+
+# game/day26.rpy:949
+translate russian day26_discreet_session_8c9d8bb2:
+
+    # p "{i}(What the?! My sister?!)"
+    p "{i}(Что за?! Моя сестра?!)"
+
+# game/day26.rpy:950
+translate russian day26_discreet_session_c78409ff:
+
+    # p "{i}(What the fuck is this? Did she find out?!)"
+    p "{i}(Что за херня? Она узнала?!)"
+
+# game/day26.rpy:951
+translate russian day26_discreet_session_63a3b331:
+
+    # p "My sister, mistress?"
+    p "Моя сестра, госпожа?"
+
+# game/day26.rpy:952
+translate russian day26_discreet_session_bf7253da:
+
+    # m "Yes, your sister Adriana. And you will address me as 'mother' for the duration of the session."
+    m "Да, твоя сестра Адриана. И вы будете обращаться ко мне как к матери на протяжении всей сессии."
+
+# game/day26.rpy:953
+translate russian day26_discreet_session_25bcb7fa:
+
+    # p "{i}(Adriana... Phew...)"
+    p "{i}(Адриана... Эх...)"
+
+# game/day26.rpy:954
+translate russian day26_discreet_session_7ca190d2:
+
+    # m "Surely you've heard of incest role-play? It's all the rage these days."
+    m "Вы, конечно, слышали об инцест-ролевых играх? Это сейчас в моде."
+
+# game/day26.rpy:955
+translate russian day26_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Да, госпожа."
+
+# game/day26.rpy:956
+translate russian day26_discreet_session_ce8d3c65:
+
+    # m "Remember: 'mother' or 'mom'."
+    m "Помни: 'мама'."
+
+# game/day26.rpy:957
+translate russian day26_discreet_session_eee57d36:
+
+    # p "Yes, mom."
+    p "Да, мама."
+
+# game/day26.rpy:958
+translate russian day26_discreet_session_33d851bf:
+
+    # m "Been scouring the web for porn, have you, dirty boy?"
+    m "Смотрел порнуху, грязный мальчик?"
+
+# game/day26.rpy:960
+translate russian day26_discreet_session_4a867323:
+
+    # m "Your fellow tenant will be home shortly."
+    m "Твоя сожительница скоро придет."
+
+# game/day26.rpy:961
+translate russian day26_discreet_session_e9febf1c:
+
+    # p "{i}(What the?! Tennant, what weird-ass fetish is this supposed to be?!)"
+    p "{i}(Что за?! Сожительница, ну что это за стремный фетиш?!)"
+
+# game/day26.rpy:962
+translate russian day26_discreet_session_c588f0eb:
+
+    # p "Tennant, mistress?"
+    p "Сожительница, госпожа?"
+
+# game/day26.rpy:963
+translate russian day26_discreet_session_9ab169d5:
+
+    # m "Yes, your fellow tenant Adriana. And you will address me as 'landlady' for the duration of the session."
+    m "Да, твоя приятельница Адриана. И вы будете обращаться ко мне как к хозяйке на протяжении всей сессии."
+
+# game/day26.rpy:964
+translate russian day26_discreet_session_afa63fd5:
+
+    # m "Surely you've heard of this type of role-play? It's all the rage these days."
+    m "Вы, конечно, слышали об этом виде ролевых игр? В наши дни это в тренде."
+
+# game/day26.rpy:965
+translate russian day26_discreet_session_5c5cbf80:
+
+    # p "Not really no, mistress."
+    p "Нет, госпожа."
+
+# game/day26.rpy:966
+translate russian day26_discreet_session_a6db30f5:
+
+    # m "'Landlady' and you're about to find out."
+    m "'Хозяйка'"
+
+# game/day26.rpy:968
+translate russian day26_discreet_session_c20ad542:
+
+    # "{i}At that moment, Adriana steps through another door in the room."
+    "{i}После этого в комнату заходит Адриана."
+
+# game/day26.rpy:970
+translate russian day26_discreet_session_52021504:
+
+    # ad "Hi mom."
+    ad "Привет, мам."
+
+# game/day26.rpy:971
+translate russian day26_discreet_session_5939d6e3:
+
+    # p "{i}(This is so fucking weird.)"
+    p "{i}(Это пиздец стремно.)"
+
+# game/day26.rpy:973
+translate russian day26_discreet_session_20689fe5:
+
+    # ad "Hi all."
+    ad "Привет, все."
+
+# game/day26.rpy:975
+translate russian day26_discreet_session_b54a118a:
+
+    # m "Adriana, you're late."
+    m "Адриана, ты опоздала."
+
+# game/day26.rpy:976
+translate russian day26_discreet_session_945e6d43:
+
+    # m "And why do you look like a fucking whore?"
+    m "И почему ты выглядишь как шлюха?"
+
+# game/day26.rpy:977
+translate russian day26_discreet_session_5b3c8008:
+
+    # ad "I don't, I like my clothes."
+    ad "Я не выгляжу так. Мне нравятся мои вещи."
+
+# game/day26.rpy:979
+translate russian day26_discreet_session_e84c6c2d:
+
+    # m "What do you think, son, is your sister dressing like a slut?"
+    m "Как думаешь, сынуля, твоя сестра одета как шлюха?"
+
+# game/day26.rpy:980
+translate russian day26_discreet_session_1ea83d23:
+
+    # p "Yes, mother."
+    p "Да, мама."
+
+# game/day26.rpy:981
+translate russian day26_discreet_session_a2635d8a:
+
+    # m "See, even your brother thinks you look like a skank."
+    m "Видишь, даже твой брат считает, что ты одета как прошмандовка."
+
+# game/day26.rpy:983
+translate russian day26_discreet_session_6641579c:
+
+    # m "What do you think, tenant, is your friend here dressing like a slut?"
+    m "Как думаешь, твоя подруга одета как шлюха?"
+
+# game/day26.rpy:984
+translate russian day26_discreet_session_aef04645:
+
+    # p "Yes, landlady."
+    p "Да, хозяйка."
+
+# game/day26.rpy:985
+translate russian day26_discreet_session_742a1e07:
+
+    # m "See, even your fellow tenant thinks you look like a skank."
+    m "Видишь, даже твой друг считает, что ты одета как прошмандовка."
+
+# game/day26.rpy:986
+translate russian day26_discreet_session_fdea1318:
+
+    # m "You're going to put on something decent at once."
+    m "Ты наденешь что-то поприличнее."
+
+# game/day26.rpy:987
+translate russian day26_discreet_session_c2bfab5a:
+
+    # ad "No I won't!"
+    ad "Нет!"
+
+# game/day26.rpy:988
+translate russian day26_discreet_session_12af3b5d:
+
+    # m "Yes you will."
+    m "Да, наденешь."
+
+# game/day26.rpy:989
+translate russian day26_discreet_session_d37482fd:
+
+    # ad "No, fuck you!"
+    ad "Нет, иди в задницу!"
+
+# game/day26.rpy:990
+translate russian day26_discreet_session_6fa66bac:
+
+    # "{i}Adriana attempts to storm out of the room in mock outrage."
+    "{i}Адриана притворяется, будто хочет выйти из комнаты."
+
+# game/day26.rpy:991
+translate russian day26_discreet_session_eb614dfd:
+
+    # m "Grab her."
+    m "Возьми её."
+
+# game/day26.rpy:996
+translate russian day26_discreet_session_1a347c8a:
+
+    # ad "No, no! Leave me alone."
+    ad "Нет, нет! Оставьте меня."
+
+# game/day26.rpy:998
+translate russian day26_discreet_session_8ef75ac6:
+
+    # m "I think your sister needs a lesson, don't you think?"
+    m "Твоей сестре нужно преподать урок, да?"
+
+# game/day26.rpy:1000
+translate russian day26_discreet_session_cfa05673:
+
+    # m "I think this girl here needs a lesson, don't you think?"
+    m "Этой девке нужно преподать урок, да?"
+
+# game/day26.rpy:1001
+translate russian day26_discreet_session_b2590a77:
+
+    # ad "Leave me alone!"
+    ad "Оставьте меня!"
+
+# game/day26.rpy:1002
+translate russian day26_discreet_session_5bdf518e:
+
+    # "{i}You forcefully return Adriana to [m_name], who bends her over her knee."
+    "{i}Ты силой возвращаешь Адриану к [m_name], та кладет её себе на колени."
+
+# game/day26.rpy:1004
+translate russian day26_discreet_session_6b327923:
+
+    # m "Your ass needs a good spanking."
+    m "Твоей заднице нужна хорошая порка."
+
+# game/day26.rpy:1006
+translate russian day26_discreet_session_d750e432:
+
+    # ad "No!"
+    ad "Нет!"
+
+# game/day26.rpy:1008
+translate russian day26_discreet_session_b539e879:
+
+    # m "Get the paddle, son."
+    m "Принеси шлепалку, сынок."
+
+# game/day26.rpy:1010
+translate russian day26_discreet_session_6a9e63ca:
+
+    # m "Get the paddle."
+    m "Принеси шлепалку."
+
+# game/day26.rpy:1011
+translate russian day26_discreet_session_0ed28e32:
+
+    # p "{i}(Paddle? Oh shit, she means that wooden thing. Really glad [m_name] doesn't do corporal punishment back at home.)"
+    p "{i}(Шлепалку? А, она про ту деревянную штуку. Как хорошо, что [m_name] не занимается таким воспитанием дома.)"
+
+# game/day26.rpy:1028
+translate russian day26_discreet_session_5eccc69e:
+
+    # "{i}After you hand your mother the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Ты даешь своей матери деревяшку, и она начинает бить ей Адриану по булкам."
+
+# game/day26.rpy:1030
+translate russian day26_discreet_session_98a633f8:
+
+    # "{i}After you hand [m_name] the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Ты даешь [m_name] деревяшку, и она начинает бить ей Адриану по булкам."
+
+# game/day26.rpy:1031
+translate russian day26_discreet_session_366964ef:
+
+    # ad "Ow, fuck, it hurts!"
+    ad "А, блять, больно!"
+
+# game/day26.rpy:1032
+translate russian day26_discreet_session_fb234750:
+
+    # m "It's supposed to hurt, sweetie. We have to beat the slut out of you."
+    m "Тебе и должно быть больно, сладкая. Нужно выбить из тебя шлюшку."
+
+# game/day26.rpy:1034
+translate russian day26_discreet_session_712638fc:
+
+    # ad "I'm not a slut... Owww!"
+    ad "Я не шлюха... Ай!"
+
+# game/day26.rpy:1035
+translate russian day26_discreet_session_d1493679:
+
+    # m "Yes you are."
+    m "Ты именно она."
+
+# game/day26.rpy:1036
+translate russian day26_discreet_session_a0845fa5:
+
+    # ad "No! I'm an independent woman!"
+    ad "Нет! Я независимая женщина!"
+
+# game/day26.rpy:1046
+translate russian day26_discreet_session_6d7aa8ad:
+
+    # "{i}[m_name] slaps harder and harder, vicious red marks appear on Adriana's ass as she keeps her teeth clenched in pain, unable to speak."
+    "{i}[m_name] шлепает все сильнее и сильнее порочные красные следы появляются на заднице Адрианы, пока она сжимает зубы от боли, не в силах говорить"
+
+# game/day26.rpy:1048
+translate russian day26_discreet_session_95abbb5d:
+
+    # m "Don't make me laugh, girl, you just dress up to get men to fuck you."
+    m "Не смеши меня, девочка, ты так одеваешься, только чтобы тебя трахали мужики."
+
+# game/day26.rpy:1049
+translate russian day26_discreet_session_fdf5f539:
+
+    # ad "Nnn-o!"
+    ad "Н-нет!"
+
+# game/day26.rpy:1050
+translate russian day26_discreet_session_f855ff93:
+
+    # m "I can't hear you, you're blubbering."
+    m "Я не слышу твоё бурчание."
+
+# game/day26.rpy:1051
+translate russian day26_discreet_session_1ab372c9:
+
+    # m "I'll stop when you admit the truth. Say you're a slut."
+    m "Я остановлюсь, только когда ты признаешь правду. Скажи, что ты шлюха."
+
+# game/day26.rpy:1052
+translate russian day26_discreet_session_d750e432_1:
+
+    # ad "No!"
+    ad "Нет!"
+
+# game/day26.rpy:1054
+translate russian day26_discreet_session_7a98cddb:
+
+    # m "Say you're a slut!"
+    m "Скажи, что ты шлюха!"
+
+# game/day26.rpy:1055
+translate russian day26_discreet_session_d750e432_2:
+
+    # ad "No!"
+    ad "Нет!"
+
+# game/day26.rpy:1062
+translate russian day26_discreet_session_50e84ea8:
+
+    # m "Say you're a slut!!!"
+    m "Скажи, что ты шлюха!!!"
+
+# game/day26.rpy:1063
+translate russian day26_discreet_session_d94eedd1:
+
+    # ad "Owwwww!"
+    ad "Ааааайййй!"
+
+# game/day26.rpy:1064
+translate russian day26_discreet_session_31c6e31c:
+
+    # ad "I-m a slut..."
+    ad "Я ш-шлюха..."
+
+# game/day26.rpy:1066
+translate russian day26_discreet_session_c114fbdd:
+
+    # m "I can't hear you."
+    m "Не слышу."
+
+# game/day26.rpy:1067
+translate russian day26_discreet_session_7a66d670:
+
+    # ad "I'm a slut!"
+    ad "Я шлюха!"
+
+# game/day26.rpy:1071
+translate russian day26_discreet_session_879dd93b:
+
+    # m "Good girl."
+    m "Хорошая девочка."
+
+# game/day26.rpy:1072
+translate russian day26_discreet_session_857aba8a:
+
+    # ad "Can I go to my room now?"
+    ad "Я могу уже пойти в свою комнату?"
+
+# game/day26.rpy:1073
+translate russian day26_discreet_session_47ba7d94:
+
+    # m "No."
+    m "Нет."
+
+# game/day26.rpy:1074
+translate russian day26_discreet_session_696df66c:
+
+    # m "It's too late for that now."
+    m "Уже поздно."
+
+# game/day26.rpy:1075
+translate russian day26_discreet_session_5fb52f79:
+
+    # m "I know you girl, dressing up like a hussy and prowling the streets, looking for men. You're insatiable."
+    m "Я знаю, что ты так одеваешься, чтобы специально искать мужчин. Ты ненасытна."
+
+# game/day26.rpy:1076
+translate russian day26_discreet_session_293ae9b5:
+
+    # ad "It's just a skirt."
+    ad "Это просто юбка."
+
+# game/day26.rpy:1077
+translate russian day26_discreet_session_49a6255f:
+
+    # m "No it's not. It's a symbol."
+    m "Нет, не просто юбка. Это способ привлечь внимание."
+
+# game/day26.rpy:1079
+translate russian day26_discreet_session_9a5f982c:
+
+    # m "But if you're that desperate for cock, your brother will show you what a real man is."
+    m "Если тебе так нравятся члены, твой брат покажет тебе, кто такой настоящий мужчина."
+
+# game/day26.rpy:1081
+translate russian day26_discreet_session_e445b529:
+
+    # m "But if you're that desperate for cock, your fellow tenant will show you what a real man is."
+    m "Если тебе так нравятся члены, твой друг покажет тебе, кто такой настоящий мужчина."
+
+# game/day26.rpy:1082
+translate russian day26_discreet_session_18513f0f:
+
+    # ad "You're going to let him fuck me?"
+    ad "Ты позволишь ему трахнуть меня?"
+
+# game/day26.rpy:1083
+translate russian day26_discreet_session_857b34c3:
+
+    # m "That's right."
+    m "Именно."
+
+# game/day26.rpy:1084
+translate russian day26_discreet_session_d2ad403e:
+
+    # m "Why don't you get on your knees and suck his dick?"
+    m "Почему бы тебе не опуститься на колени и не отсосать ему?"
+
+# game/day26.rpy:1087
+translate russian day26_discreet_session_5e0c8dee:
+
+    # "{i}Taking her cue you drop your pants and present Adriana with your stiffening erection."
+    "{i}Ты снимаешь штаны и показываешь Адриане свой встающий член."
+
+# game/day26.rpy:1088
+translate russian day26_discreet_session_71f71398:
+
+    # "{i}Adriana acts hesitant, but the look in her eyes is one of hunger. With deft hands she has your cock at full mast in no time."
+    "{i}Адриана в смятении, но она смотрит тебе в глаза с желанием. Она берет твой член в руки."
+
+# game/day26.rpy:1093
+translate russian day26_discreet_session_aef75d6d:
+
+    # m "Good, suck on that, you little bitch."
+    m "Хорошо, пососи его, маленькая сучка."
+
+# game/day26.rpy:1094
+translate russian day26_discreet_session_99cb148b:
+
+    # m "Take it all the way."
+    m "Возьми его всего в рот."
+
+# game/day26.rpy:1102
+translate russian day26_discreet_session_a0bc5746:
+
+    # "{i}You push your cock deeper inside Adriana's throat. She gags and saliva is leaking from the corners of her mouth."
+    "{i}Ты заталкиваешь свой член всё глубже в глотку Адрианы. Она давится, и из её рта бежит слюна."
+
+# game/day26.rpy:1104
+translate russian day26_discreet_session_7c4409eb:
+
+    # m "We're going to use all of your holes, your brother and I."
+    m "Мы с твоим братом используем все твои дырки."
+
+# game/day26.rpy:1105
+translate russian day26_discreet_session_25a1f0ea:
+
+    # ad "Y-yes, mother."
+    ad "Д-да, мама."
+
+# game/day26.rpy:1107
+translate russian day26_discreet_session_9a4957b0:
+
+    # m "We're going to use all of your holes, Adriana."
+    m "Мы используем все твои дырки."
+
+# game/day26.rpy:1108
+translate russian day26_discreet_session_de10e825:
+
+    # ad "Y-yes, landlady."
+    ad "Д-да, хозяйка."
+
+# game/day26.rpy:1110
+translate russian day26_discreet_session_39037dfb:
+
+    # "{i}While Adriana is drooling all over her chest, you begin to fuck her throat."
+    "{i}Пока Адриана пускает слюни на всю свою грудь, ты начинаешь ебать её глотку."
+
+# game/day26.rpy:1112
+translate russian day26_discreet_session_f8fd10bf:
+
+    # m "That's it, right there, make her savor that dick of yours."
+    m "Да, вот так, заставь её наслаждаться твоим членом."
+
+# game/day26.rpy:1113
+translate russian day26_discreet_session_a9e11976:
+
+    # "{i}Adriana can only gurgle and looks up at you with teary eyes. The look she gives you is not one of sadness but conveys a depravity that nearly makes you coat her throat with seed."
+    "{i}Адриана может только давиться и смотреть на тебя глазами, полными слёз. Но её взгляд не грустный, она смотрит на тебя с желанием, и ты близок к тому, чтобы заполнить её рот спермой."
+
+# game/day26.rpy:1114
+translate russian day26_discreet_session_e51d19cf:
+
+    # m "Only allow her to breathe if you feel she deserves it."
+    m "Дай ей дышать, только когда она это заслужит."
+
+# game/day26.rpy:1117
+translate russian day26_discreet_session_07f50341:
+
+    # "{i}Your mother retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}Твоя мать что-то ищет в шкафу и раздевается. Когда она возвращается, на ней есть только страпон."
+
+# game/day26.rpy:1119
+translate russian day26_discreet_session_d359f835:
+
+    # "{i}[m_name] retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}[m_name] что-то ищет в шкафу и раздевается. Когда она возвращается, на ней есть только страпон."
+
+# game/day26.rpy:1120
+translate russian day26_discreet_session_de920d7c:
+
+    # p "{i}(I am not, repeat NOT going to be the ass-end of a human centipede.)"
+    p "{i}(Я не собираюсь, повторю, Я НЕ СОБИРАЮСЬ быть задницей на конце человеческой многоножки.)"
+
+# game/day26.rpy:1124
+translate russian day26_discreet_session_1f59d6a7:
+
+    # m "Are you ready to fuck your sister?"
+    m "Ты готов выебать свою сестру?"
+
+# game/day26.rpy:1125
+translate russian day26_discreet_session_1ea83d23_1:
+
+    # p "Yes, mother."
+    p "Да, мама."
+
+# game/day26.rpy:1127
+translate russian day26_discreet_session_3242f70b:
+
+    # m "Are you ready to fuck your fellow tenant?"
+    m "Ты готов выебать свою подругу?"
+
+# game/day26.rpy:1128
+translate russian day26_discreet_session_aef04645_1:
+
+    # p "Yes, landlady."
+    p "Да, хозяйка."
+
+# game/day26.rpy:1129
+translate russian day26_discreet_session_4c2f3098:
+
+    # m "Good boy, we'll do it together."
+    m "Хороший мальчик, мы сделаем это вместе."
+
+# game/day26.rpy:1131
+translate russian day26_discreet_session_80ed1a92:
+
+    # "{i}When you pull out of Adriana's mouth she gasps for air, mucus running in thick strands from her lips to your cock."
+    "{i}Когда ты достаешь член изо рта Адрианы, она делает резкий вдох, а её слюна струится по твоему члену."
+
+# game/day26.rpy:1133
+translate russian day26_discreet_session_527dbb63:
+
+    # m "You've made your brother's cock all hard and wet, now do the same to mommy's."
+    m "Ты смогла сделать член своего брата твердым и мокрым, теперь сделай это же с мамочкой."
+
+# game/day26.rpy:1135
+translate russian day26_discreet_session_30ee6c5f:
+
+    # m "You've made your fellow tenant's cock all hard and wet, now do the same to mine."
+    m "Ты смогла сделать член своего друга твердым и мокрым, теперь сделай это же со мной."
+
+# game/day26.rpy:1137
+translate russian day26_discreet_session_e5ab80c7:
+
+    # "{i}[m_name] thrusts the shiny black thing inside Adriana's throat and keeps it there until the girl struggles to keep it in. When she pulls out, Adriana nearly collapses to the floor."
+    "{i}[m_name] резко запихивает блестящий черный предмет в глотку Адрианы, и той становится очень трудно дышать. Когда она вынимает дилдо, Адриана почти падает на пол."
+
+# game/day26.rpy:1138
+translate russian day26_discreet_session_77430063:
+
+    # m "Again."
+    m "Ещё раз."
+
+# game/day26.rpy:1140
+translate russian day26_discreet_session_cfa109e5:
+
+    # ad "Yes, mother."
+    ad "Да, мама."
+
+# game/day26.rpy:1142
+translate russian day26_discreet_session_db223938:
+
+    # ad "Yes, landlady."
+    ad "Да, хозяйка."
+
+# game/day26.rpy:1145
+translate russian day26_discreet_session_9f0d12fd:
+
+    # m "How do you want to use her, son?"
+    m "Как ты хочешь её использовать, сынуля?"
+
+# game/day26.rpy:1147
+translate russian day26_discreet_session_f24a5df5:
+
+    # m "How do you want to use her, boy?"
+    m "Как ты хочешь её использовать, мальчишка?"
+
+# game/day26.rpy:1160
+translate russian day26_discreet_session_3366b021:
+
+    # "{i}You spread Adriana's legs and push your cock against her slit. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Ты раздвигаешь ноги Адрианы и вводишь в неё свой член. Девушка не сопротивляется, а ты чувствуешь приятное мокрое тепло внутри неё."
+
+# game/day26.rpy:1161
+translate russian day26_discreet_session_89475d23:
+
+    # m "Ah, her sweet pussy, good choice."
+    m "О, её сладкая киска, хороший выбор."
+
+# game/day26.rpy:1162
+translate russian day26_discreet_session_1be0ec35:
+
+    # m "Now fuck her."
+    m "А теперь еби её."
+
+# game/day26.rpy:1166
+translate russian day26_discreet_session_95a42efd:
+
+    # ad "Mmmmmm..."
+    ad "Ммммммм..."
+
+# game/day26.rpy:1169
+translate russian day26_discreet_session_b8925de9:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}После того, как ты устанавливаешь нужный ритм, твоя мать встает сзади Адрианы. Неожиданно её киска становится уже."
+
+# game/day26.rpy:1170
+translate russian day26_discreet_session_cead87c0:
+
+    # ad "Are you inside me, mommy?"
+    ad "Ты внутри меня, мамочка?"
+
+# game/day26.rpy:1172
+translate russian day26_discreet_session_e8796c7c:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}После того, как ты устанавливаешь нужный ритм, [m_name] встает сзади Адрианы. Неожиданно её киска становится уже."
+
+# game/day26.rpy:1173
+translate russian day26_discreet_session_2d4847a9:
+
+    # ad "Are you inside me?"
+    ad "Ты внутри меня?"
+
+# game/day26.rpy:1174
+translate russian day26_discreet_session_dff00f31:
+
+    # ad "Inside my ass?"
+    ad "Внутри моей попки?"
+
+# game/day26.rpy:1175
+translate russian day26_discreet_session_533fd5d7:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Да, маленькая шлюха, мы сделаем тебе так хорошо, что ты никогда не захочешь никого другого."
+
+# game/day26.rpy:1181
+translate russian day26_discreet_session_9abdd26d:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Вы с [m_name] не даёте Адриане отдохнуть. Страпон безжалостно трахает её задницу, а ты медленнее, но глубже удовлетворяешь её киску."
+
+# game/day26.rpy:1183
+translate russian day26_discreet_session_a67dcfc3:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without any restraint."
+    "{i}Первоначальное выражение тревоги Адрианы сменяется полным восторгом, когда она стонет без всякого сдерживания."
+
+# game/day26.rpy:1186
+translate russian day26_discreet_session_22c2e5b8:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(Я не буду говорить это ему, но мы с мистером Холмсом отличная команда. Я не видела, чтобы Адриане так нравилось.)"
+
+# game/day26.rpy:1187
+translate russian day26_discreet_session_b4b76819:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Может позволить ему...)"
+
+# game/day26.rpy:1188
+translate russian day26_discreet_session_2a232f2c:
+
+    # m "{i}(No...)"
+    m "{i}(Нет...)"
+
+# game/day26.rpy:1189
+translate russian day26_discreet_session_a93ba455:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Может, в контексте ролевой игры...)"
+
+# game/day26.rpy:1191
+translate russian day26_discreet_session_edc74c7a:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Да пошло оно. Я хочу.)"
+
+# game/day26.rpy:1193
+translate russian day26_discreet_session_fe569eea:
+
+    # m "Kiss your mother, son."
+    m "Поцелуй мамочку, сынуля."
+
+# game/day26.rpy:1195
+translate russian day26_discreet_session_d43c5d70:
+
+    # m "Kiss me, boy."
+    m "Поцелуй меня, мальчик."
+
+# game/day26.rpy:1196
+translate russian day26_discreet_session_cf051d1a:
+
+    # p "{i}(No way!)"
+    p "{i}(Не может быть!)"
+
+# game/day26.rpy:1199
+translate russian day26_discreet_session_20af5824:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Ты сразу же подчиняешься. Этот поцелуй очень сильно отличается от того, что был в кровати. В этом есть страсть, нет, даже голод, и её язык охотно изучает твой."
+
+# game/day26.rpy:1201
+translate russian day26_discreet_session_5fa17325:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one you experienced in her bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Ты сразу же подчиняешься. Этот поцелуй очень сильно отличается от того, что был в кровати. В этом есть страсть, нет, даже голод, и её язык охотно изучает твой."
+
+# game/day26.rpy:1203
+translate russian day26_discreet_session_4dee552f:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Маски немного мешают вам, но вы всё равно наслаждаетесь поцелуем."
+
+# game/day26.rpy:1206
+translate russian day26_discreet_session_f404eda9:
+
+    # m "Don't forget to keep fucking your sister."
+    m "Не забывай трахать свою сестру."
+
+# game/day26.rpy:1208
+translate russian day26_discreet_session_78356733:
+
+    # m "Don't forget to keep fucking that pussy."
+    m "Не забывай трахать эту киску."
+
+# game/day26.rpy:1217
+translate russian day26_discreet_session_575a57e1:
+
+    # "{i}You spread Adriana's buttocks and push your cock against her anus. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Ты раздвигаешь ноги Адрианы и вводишь в её анус свой член. Девушка не сопротивляется, а ты чувствуешь приятное мокрое тепло внутри неё."
+
+# game/day26.rpy:1218
+translate russian day26_discreet_session_94aba323:
+
+    # ad "Ooooh, god!"
+    ad "Оооооо боже!"
+
+# game/day26.rpy:1219
+translate russian day26_discreet_session_dd5bf5aa:
+
+    # m "Ah, her asshole, nice and tight, good choice."
+    m "О, её задница, красивая и сочная, хороший выбор."
+
+# game/day26.rpy:1220
+translate russian day26_discreet_session_1be0ec35_1:
+
+    # m "Now fuck her."
+    m "А теперь еби её."
+
+# game/day26.rpy:1223
+translate russian day26_discreet_session_1aebea9e:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}После того, как ты устанавливаешь нужный ритм, твоя мать встает перед Адрианой. Неожиданно её дырочка становится уже."
+
+# game/day26.rpy:1224
+translate russian day26_discreet_session_cead87c0_1:
+
+    # ad "Are you inside me, mommy?"
+    ad "Ты внутри меня, мамочка?"
+
+# game/day26.rpy:1226
+translate russian day26_discreet_session_24bad093:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}После того, как ты устанавливаешь нужный ритм, [m_name] встает перед Адрианой. Неожиданно её дырочка становится уже."
+
+# game/day26.rpy:1227
+translate russian day26_discreet_session_2d4847a9_1:
+
+    # ad "Are you inside me?"
+    ad "Ты внутри меня?"
+
+# game/day26.rpy:1228
+translate russian day26_discreet_session_a0158813:
+
+    # ad "Inside my pussy?"
+    ad "Внутри моей киски?"
+
+# game/day26.rpy:1229
+translate russian day26_discreet_session_533fd5d7_1:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Да, маленькая шлюха, мы сделаем тебе так хорошо, что ты никогда не захочешь никого другого."
+
+# game/day26.rpy:1234
+translate russian day26_discreet_session_9abdd26d_1:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Вы с [m_name] не даёте Адриане отдохнуть. Страпон безжалостно трахает её задницу, а ты медленнее, но глубже удовлетворяешь её киску."
+
+# game/day26.rpy:1236
+translate russian day26_discreet_session_111ad91b:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without restraint."
+    "{i}Первоначальное выражение тревоги Адрианы сменяется полным восторгом, когда она стонет, не сдерживаясь."
+
+# game/day26.rpy:1239
+translate russian day26_discreet_session_22c2e5b8_1:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(Я не буду говорить это ему, но мы с мистером Холмсом отличная команда. Я не видела, чтобы Адриане так нравилось.)"
+
+# game/day26.rpy:1240
+translate russian day26_discreet_session_b4b76819_1:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Может позволить ему...)"
+
+# game/day26.rpy:1241
+translate russian day26_discreet_session_2a232f2c_1:
+
+    # m "{i}(No...)"
+    m "{i}(Нет...)"
+
+# game/day26.rpy:1242
+translate russian day26_discreet_session_a93ba455_1:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Может, в контексте ролевой игры...)"
+
+# game/day26.rpy:1243
+translate russian day26_discreet_session_edc74c7a_1:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Да пошло оно. Я хочу.)"
+
+# game/day26.rpy:1245
+translate russian day26_discreet_session_fe569eea_1:
+
+    # m "Kiss your mother, son."
+    m "Поцелуй мамочку, сынуля."
+
+# game/day26.rpy:1247
+translate russian day26_discreet_session_d43c5d70_1:
+
+    # m "Kiss me, boy."
+    m "Поцелуй меня, мальчик."
+
+# game/day26.rpy:1248
+translate russian day26_discreet_session_cf051d1a_1:
+
+    # p "{i}(No way!)"
+    p "{i}(Не может быть!)"
+
+# game/day26.rpy:1250
+translate russian day26_discreet_session_128fef0a:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and your mother moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] вынимает страпон из Адрианы, которая удивленно смотрит на вас, и твоя мать подходит к тебе. Она легонько отталкивает девушку, которая всё ещё удовлетворяется твоим членом, и Адриана почти падает на пол."
+
+# game/day26.rpy:1252
+translate russian day26_discreet_session_e052f5e9:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] вынимает страпон из Адрианы, которая удивленно смотрит на вас, и взрослая женщина подходит к тебе. Она легонько отталкивает девушку, которая всё ещё удовлетворяется твоим членом, и Адриана почти падает на пол."
+
+# game/day26.rpy:1255
+translate russian day26_discreet_session_a7df9a82:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Ты сразу же целуешь [m_name]. Этот поцелуй очень сильно отличается от того, что был в кровати. В этом есть страсть, нет, даже голод, и её язык охотно изучает твой."
+
+# game/day26.rpy:1257
+translate russian day26_discreet_session_9737adfa:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in [m_name]'s bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Ты сразу же целуешь [m_name]. Этот поцелуй очень сильно отличается от того, что был в кровати. В этом есть страсть, нет, даже голод, и её язык охотно изучает твой."
+
+# game/day26.rpy:1258
+translate russian day26_discreet_session_4dee552f_1:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Маски немного мешают вам, но вы всё равно наслаждаетесь поцелуем."
+
+# game/day26.rpy:1261
+translate russian day26_discreet_session_7a783fd1:
+
+    # m "Don't forget to keep fucking your sister's ass."
+    m "Не забывай трахать задницу своей сестры."
+
+# game/day26.rpy:1263
+translate russian day26_discreet_session_5133ba48:
+
+    # m "Don't forget to keep fucking that asshole."
+    m "Не забывай трахать эту задницу."
+
+# game/day26.rpy:1264
+translate russian day26_discreet_session_017cf4fb:
+
+    # ad "Y-yes please, keep fucking me!"
+    ad "Д-да, пожалуйста, продолжай!"
+
+# game/day26.rpy:1265
+translate russian day26_discreet_session_37fee602:
+
+    # m "He's going to fill you with his seed any time now."
+    m "Он в любой момент может заполнить тебя спермой."
+
+# game/day26.rpy:1267
+translate russian day26_discreet_session_9179d8b6:
+
+    # m "You like that, don't you Adriana, your brother filling you up with his warm seed?"
+    m "Тебе нравится то, как твой брат заполняет тебя спермой, Адриана?"
+
+# game/day26.rpy:1269
+translate russian day26_discreet_session_cb89798a:
+
+    # m "You like that, don't you Adriana, your roommate filling you up with his warm seed?"
+    m "Тебе нравится то, как твой друг заполняет тебя спермой, Адриана?"
+
+# game/day26.rpy:1270
+translate russian day26_discreet_session_2ed4e74c:
+
+    # ad "I love it!"
+    ad "Очень!"
+
+# game/day26.rpy:1272
+translate russian day26_discreet_session_d5c76f94:
+
+    # m "And who are the only ones who get to own your pussy?"
+    m "И кто же из нас получит твою киску?"
+
+# game/day26.rpy:1273
+translate russian day26_discreet_session_e72a5940:
+
+    # ad "You both do!"
+    ad "Вы оба!"
+
+# game/day26.rpy:1275
+translate russian day26_discreet_session_ed5592f6:
+
+    # "{i}Adriana's pussy is very tight, and your cock is stimulated by [m_name]'s thrusting as well. When you lift the girl, you penetrate her even more intensely than before."
+    "{i}Киска Адрианы очень тугая, и твой член стимулируется толчками [m_name] тоже Когда ты поднимаешь девушку, ты проникаешь в нее еще интенсивнее, чем раньше."
+
+# game/day26.rpy:1276
+translate russian day26_discreet_session_a5b62c1f:
+
+    # ad "Aaaaaah!"
+    ad "Аааааа!"
+
+# game/day26.rpy:1284
+translate russian day26_discreet_session_d4d3c59a:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her vagina with your cum."
+    "{i}Сильнейший оргазм Адрианы заставляет тебя тоже кончить. Пока администратор трясется на твоем члене и страпоне [m_name], ты заливаешь стенки её вагины спермой."
+
+# game/day26.rpy:1285
+translate russian day26_discreet_session_ade7a4f1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "Д-д-да! Аааааа!!!"
+
+# game/day26.rpy:1287
+translate russian day26_discreet_session_4dc8d7d1:
+
+    # "{i}Semen is running down her thighs as your mother fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Семя льется по её ляжкам, пока твоя мать трахает её, продляя её оргазм."
+
+# game/day26.rpy:1289
+translate russian day26_discreet_session_59d38f7f:
+
+    # "{i}Semen is running down her thighs as [m_name] fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Семя льется по её ляжкам, пока [m_name] трахает её, продляя её оргазм."
+
+# game/day26.rpy:1305
+translate russian day26_discreet_session_30c15f46:
+
+    # m "And who are the only ones who get to own your ass?"
+    m "И кому же достанется твоя задница?"
+
+# game/day26.rpy:1306
+translate russian day26_discreet_session_e72a5940_1:
+
+    # ad "You both do!"
+    ad "Вы оба!"
+
+# game/day26.rpy:1308
+translate russian day26_discreet_session_2ed2e250:
+
+    # "{i}Adriana's asshole is very tight and your cock is stimulated by [m_name]'s thrusting as well. Your force her hands behind her back and [m_name] chokes her exposed throat."
+    "{i}Дырочка Адрианы очень узкая, и твой член также стимулируется [m_name]. Ты хватаешь её за руки за её спиной, и [m_name] закрывает её рот страпоном."
+
+# game/day26.rpy:1309
+translate russian day26_discreet_session_491a1a7b:
+
+    # "{i}The deprivation of air tightens every muscle in her body and allows Adriana to orgasm."
+    "{i}Лишение воздуха напрягает каждую мышцу ее тела и позволяет Адриане достичь оргазма."
+
+# game/day26.rpy:1310
+translate russian day26_discreet_session_7027df9a:
+
+    # ad "Gaaah!"
+    ad "Ааааа!"
+
+# game/day26.rpy:1318
+translate russian day26_discreet_session_8d34da63:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her anal cavity with your cum."
+    "{i}Сильнейший оргазм Адрианы заставляет тебя тоже кончить. Пока администратор трясется на твоем члене и страпоне [m_name], ты заливаешь стенки её анального отверстия спермой."
+
+# game/day26.rpy:1319
+translate russian day26_discreet_session_ade7a4f1_1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "Д-д-да! Аааааа!!!"
+
+# game/day26.rpy:1321
+translate russian day26_discreet_session_e78775bc:
+
+    # "{i}Semen is running down her thighs and your mother's as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Семя льется по её ляжкам, пока твоя мать трахает её киску, продляя её оргазм."
+
+# game/day26.rpy:1323
+translate russian day26_discreet_session_12d25931:
+
+    # "{i}Semen is running down her thighs and [m_name]'s as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Семя льется по её ляжкам, пока [m_name] трахает её киску, продляя её оргазм."
+
+# game/day26.rpy:1330
+translate russian day26_discreet_session_21833e20:
+
+    # m "I think we showed your sister how we do things here at home."
+    m "Думаю, мы преподали твоей сестре урок."
+
+# game/day26.rpy:1331
+translate russian day26_discreet_session_fda5a30b:
+
+    # p "We sure did, mother."
+    p "Определенно, мамочка."
+
+# game/day26.rpy:1332
+translate russian day26_discreet_session_3e6ef507:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Ты можешь ещё немного полежать на полу, Адриана, но потом надо будеть убраться. Ты все испачкала."
+
+# game/day26.rpy:1333
+translate russian day26_discreet_session_30c2d1c5:
+
+    # ad "Yes mommy."
+    ad "Да, мамочка."
+
+# game/day26.rpy:1335
+translate russian day26_discreet_session_52be45d4:
+
+    # m "I think we showed your roommate how we do things here at home."
+    m "Думаю, мы преподали твоей сожительнице урок."
+
+# game/day26.rpy:1336
+translate russian day26_discreet_session_0e11dc8c:
+
+    # p "We sure did, landlady."
+    p "Определенно, хозяйка."
+
+# game/day26.rpy:1337
+translate russian day26_discreet_session_3e6ef507_1:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Ты можешь ещё немного полежать на полу, Адриана, но потом надо будеть убраться. Ты все испачкала."
+
+# game/day26.rpy:1338
+translate russian day26_discreet_session_6c0cf7d4:
+
+    # ad "Yes landlady."
+    ad "Да, хозяйка."
+
+# game/day26.rpy:1340
+translate russian day26_discreet_session_ebe9b528:
+
+    # "{i}[m_name] exits the room, leaving you alone with Adriana, who is still lying wasted on the floor."
+    "{i}[m_name] выходит из комнаты, оставляя вас с Адрианой, которая лежит на полу без сил."
+
+# game/day26.rpy:1357
+translate russian day26_b_hotel_sex_8ba85639:
+
+    # b "I think I'm ready for bed."
+    b "Я готова к кровати."
+
+# game/day26.rpy:1358
+translate russian day26_b_hotel_sex_c43ee188:
+
+    # p "Sweet mother of Jesus, I'd say you are."
+    p "Боже, не то слово."
+
+# game/day26.rpy:1359
+translate russian day26_b_hotel_sex_a051ad79:
+
+    # b "You like it? I bought it for the occasion."
+    b "Нравится? Я специально купила."
+
+# game/day26.rpy:1361
+translate russian day26_b_hotel_sex_46bc0cc0:
+
+    # p "I love it."
+    p "Очень нравится."
+
+# game/day26.rpy:1366
+translate russian day26_b_hotel_sex_b28e367c:
+
+    # p "It accentuates your body in all the right places."
+    p "Оно подчеркивает самые красивые части твоего тела."
+
+# game/day26.rpy:1367
+translate russian day26_b_hotel_sex_1414059f:
+
+    # b "Do you mean it brings out my inner beauty? Or are you just drooling over my ass?"
+    b "Ты хочешь сказать, оно показывает мою внутренюю красоту? Или тебе просто нравится мой зад?"
+
+# game/day26.rpy:1368
+translate russian day26_b_hotel_sex_d69c9249:
+
+    # p "Inner beauty!"
+    p "Внутренняя красота!"
+
+# game/day26.rpy:1370
+translate russian day26_b_hotel_sex_a2157a79:
+
+    # p "That's the right answer, isn't it?"
+    p "Я же так должен сказать?"
+
+# game/day26.rpy:1371
+translate russian day26_b_hotel_sex_2993e132:
+
+    # b "Maybe..."
+    b "Может быть..."
+
+# game/day26.rpy:1372
+translate russian day26_b_hotel_sex_e69de8f9:
+
+    # b "Do you mind if I join you on the bed?"
+    b "Ну что, могу прилечь к тебе?"
+
+# game/day26.rpy:1373
+translate russian day26_b_hotel_sex_45a1b373:
+
+    # p "By all means!"
+    p "Конечно!"
+
+# game/day26.rpy:1378
+translate russian day26_b_hotel_sex_8d28c468:
+
+    # "{i}[b_name] crawls onto the bed with you and nestles herself in your arms, her soft skin is warm against your body."
+    "{i}[b_name] забирается на кровать и ложится в твои руки, её мягкая тёплая кожа греет тебя."
+
+# game/day26.rpy:1380
+translate russian day26_b_hotel_sex_0bd55328:
+
+    # b "Mmmm."
+    b "Мммм."
+
+# game/day26.rpy:1381
+translate russian day26_b_hotel_sex_3c8785d6:
+
+    # p "You're so fucking perfect."
+    p "Ты просто ахуенна."
+
+# game/day26.rpy:1382
+translate russian day26_b_hotel_sex_e3bd8c74:
+
+    # b "Why don't you kiss me then?"
+    b "Тогда поцелуй меня."
+
+# game/day26.rpy:1383
+translate russian day26_b_hotel_sex_2a71e097:
+
+    # p "Great idea."
+    p "Замечательная идея."
+
+# game/day26.rpy:1385
+translate russian day26_b_hotel_sex_e5a04e7d:
+
+    # "{i}Ferocious perfectly describes the kiss you share. Any restraint the two of you displayed when Megan was still with you is completely forgotten. She's still nervous, and you feel her heart beating fast when you touch her breast."
+    "{i}Дикость - вот так можно описать ваш поцелуй. Рядом с вами уже не было Меган, которая портила всю атмосферу. Она всё ещё нервничает, и ты чувствуешь, как быстро бьется её сердце, пока трогаешь её грудь."
+
+# game/day26.rpy:1386
+translate russian day26_b_hotel_sex_ed27614f:
+
+    # b "I love you, [p_name]."
+    b "Я люблю тебя, [p_name]."
+
+# game/day26.rpy:1388
+translate russian day26_b_hotel_sex_69e21ec5:
+
+    # b "And I think I'm ready."
+    b "И я готова."
+
+# game/day26.rpy:1389
+translate russian day26_b_hotel_sex_dfc6734e:
+
+    # p "{i}(This is probably the moment where a contingent of SWAT agents raids the hotel room before realizing they made a mistake and ruins this perfect moment.)"
+    p "{i}(В этот момент сюда должны ворваться агенты SWAT перед осознанием того, что они ошиблись и разрушили прекрасный момент.)"
+
+# game/day26.rpy:1390
+translate russian day26_b_hotel_sex_281184d5:
+
+    # b "Do you want me?"
+    b "Ты хочешь меня?"
+
+# game/day26.rpy:1391
+translate russian day26_b_hotel_sex_7988a01b:
+
+    # p "I do."
+    p "Да."
+
+# game/day26.rpy:1394
+translate russian day26_b_hotel_sex_60f49f18:
+
+    # "{i}A small sigh escapes your sister, as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Твоя сестра легонько вздыхает, будто ты ответил не совсем так, как она хотела. Ваши поцелуи становятся жарче, пока вы снимаете белье друг с друга."
+
+# game/day26.rpy:1396
+translate russian day26_b_hotel_sex_62cc0e47:
+
+    # "{i}A small sigh escapes [b_name], as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}[b_name] легонько вздыхает, будто ты ответил не совсем так, как она хотела. Ваши поцелуи становятся жарче, пока вы снимаете белье друг с друга."
+
+# game/day26.rpy:1397
+translate russian day26_b_hotel_sex_2ed91204:
+
+    # p "{i}(No SWAT team yet! Yay for small miracles.)"
+    p "{i}(Никаких SWAT! Это чудо.)"
+
+# game/day26.rpy:1399
+translate russian day26_b_hotel_sex_8302aa11:
+
+    # "{i}When you're finally naked, you shower [b_name]'s body with kisses until reaching her pussy. After she invites your head between her legs you slowly lick her lower lips."
+    "{i}Когда вы полностью раздеваетесь, ты целуешь все тело [b_name] и приближаешься к её киске. Она приглашает тебя между своих ног, и ты начинаешь мягко лизать её половые губы."
+
+# game/day26.rpy:1400
+translate russian day26_b_hotel_sex_5c1bf654:
+
+    # b "Ooooh, [p_name]."
+    b "Ааааах, [p_name]."
+
+# game/day26.rpy:1405
+translate russian day26_b_hotel_sex_f8113d4b:
+
+    # "{i}She's already very wet, and a few well-placed caresses of your tongue nearly send her over the edge."
+    "{i}Она уже очень мокрая, а твой язык почти заставляет её кончить."
+
+# game/day26.rpy:1406
+translate russian day26_b_hotel_sex_1679180d:
+
+    # "{i}[b_name] tries to stimulate your cock, but fails due to the waves of pleasure rippling through her body, caused by the movements of your tongue on her clit."
+    "{i}[b_name] пытается стимулировать твой член, но не может из-за дрожи от удовольствия, которое ты доставляешь ей своим языком."
+
+# game/day26.rpy:1407
+translate russian day26_b_hotel_sex_265d60f4:
+
+    # b "Make love to me, [p_name]!"
+    b "Займись со мной любовью, [p_name]!"
+
+# game/day26.rpy:1408
+translate russian day26_b_hotel_sex_175ce63e:
+
+    # b "I want to feel you inside of me."
+    b "Я хочу чувствовать тебя внутри."
+
+# game/day26.rpy:1416
+translate russian day26_b_hotel_sex_d7263f59:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your sister stops you for a moment."
+    "{i}Ты всё еще чувствуешь её соленый вкус и притрагиваешься кончиком к её вагине. Положив руку на твою грудь, твоя сестра останавливает тебя на секунду."
+
+# game/day26.rpy:1418
+translate russian day26_b_hotel_sex_75be97af:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your girlfriend stops you for a moment."
+    "{i}Ты всё еще чувствуешь её соленый вкус и притрагиваешься кончиком к её вагине. Положив руку на твою грудь, твоя девушка останавливает тебя на секунду."
+
+# game/day26.rpy:1419
+translate russian day26_b_hotel_sex_a26a5b21:
+
+    # b "Please be gentle with me, [p_name]."
+    b "Пожалуйста, будь аккуратен со мной, [p_name]."
+
+# game/day26.rpy:1420
+translate russian day26_b_hotel_sex_e0ded75a:
+
+    # p "I'll go slow, baby."
+    p "Я буду медленен, детка."
+
+# game/day26.rpy:1421
+translate russian day26_b_hotel_sex_867f4b98:
+
+    # "{i}Satisfied, [b_name] allows you to continue, and you push your cock teasingly slow inside her."
+    "{i}Довольная, [b_name] позволяет тебе продолжить, и ты начинаешь входить в неё."
+
+# game/day26.rpy:1423
+translate russian day26_b_hotel_sex_111c67c8:
+
+    # "{i}When you enter her, she sighs in a mixture of relief and pleasure. Her tightness surprises you and nearly makes you cum outright."
+    "{i}Когда ты внутри, она вздыхает с облегчением и удовольствием. Её узкая киска удивляет тебя и почти заставляет кончить."
+
+# game/day26.rpy:1424
+translate russian day26_b_hotel_sex_f17a0a22:
+
+    # b "Oh!"
+    b "Ох!"
+
+# game/day26.rpy:1425
+translate russian day26_b_hotel_sex_8087034a:
+
+    # "{i}After you both get your bearings, you kiss, and she motions you to go on."
+    "{i}Она целует тебя и позволяет тебе двигаться дальше."
+
+# game/day26.rpy:1430
+translate russian day26_b_hotel_sex_1a096e67:
+
+    # "{i}Just like she asked, your thrusts are gentle, but deep. You both retreat in a world of pleasure, moaning and kissing all the while."
+    "{i}Как она и просила, ты проникаешь в неё аккуратно, но глубоко. Вы оба попадаете в мир удовльствия, издавая стоны и целуясь."
+
+# game/day26.rpy:1432
+translate russian day26_b_hotel_sex_ffad643a:
+
+    # "{i}You explore the entirety of her body with your fingers, the softness of her breasts, her toned belly, her beautiful thighs, taught with pleasure."
+    "{i}Ты изучаешь всё её тело пальцами: её мягкую грудь, упругий животик, ножки."
+
+# game/day26.rpy:1434
+translate russian day26_b_hotel_sex_ed5a9706:
+
+    # "{i}The hotel room proves to be a great idea. You both feel completely free, as is evident by the increasing volume of the sounds of your love making."
+    "{i}Номер в отеле оказывется очень хорошим местом. Вы оба чувствуете себя свободно, и поэтому можете не сбавлять громкость своей любви."
+
+# game/day26.rpy:1435
+translate russian day26_b_hotel_sex_b0608f60:
+
+    # b "Just right there, [p_name], don't stop!"
+    b "[p_name], не останавливайся!"
+
+# game/day26.rpy:1436
+translate russian day26_b_hotel_sex_6666a5bf:
+
+    # p "Are you going to cum for me baby?"
+    p "Ты кончишь для меня, детка?"
+
+# game/day26.rpy:1438
+translate russian day26_b_hotel_sex_c6ab430f:
+
+    # b "Y-yes, y-es I am."
+    b "Д-да."
+
+# game/day26.rpy:1447
+translate russian day26_b_hotel_sex_f5203134:
+
+    # "{i}Letting out a small scream, your sister orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Вскрикнув, твоя сестра испытывает оргазм, пока ты продолжаешь трахать её. Он длится очень долго, и она становится беззащитна в твоих руках, полностью отдаваясь удовольствию."
+
+# game/day26.rpy:1449
+translate russian day26_b_hotel_sex_61957f95:
+
+    # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Вскрикнув, [b_name] испытывает оргазм, пока ты продолжаешь трахать её. Он длится очень долго, и она становится беззащитна в твоих руках, полностью отдаваясь удовольствию."
+
+# game/day26.rpy:1450
+translate russian day26_b_hotel_sex_385f7131:
+
+    # b "I.. l-love y-you!"
+    b "Я... л-люблю т-тебя!"
+
+# game/day26.rpy:1452
+translate russian day26_b_hotel_sex_6d515908:
+
+    # "{i}You kiss her while her body still trembles. A wealth of her juices covers her sex and eases your way to penetrating her even more deeply."
+    "{i}Вы целуетесь, пока она продолжает вздрагивать. Смазка вытекает из неё, и ты продолжаешь входить в неё ещё глубже."
+
+# game/day26.rpy:1454
+translate russian day26_b_hotel_sex_b8410009:
+
+    # "{i}Biting her lower lip and wearing a look of bliss, [b_name] guides your movements, kneading your buttocks and massaging your sensitive balls."
+    "{i}Прикусывая нижнюю губу, [b_name] управляет твоими движениями, трогая тебя за зад и стимулируя твои яйца."
+
+# game/day26.rpy:1455
+translate russian day26_b_hotel_sex_b918c839:
+
+    # b "I want you, all of it!"
+    b "Я хочу тебя всего!"
+
+# game/day26.rpy:1457
+translate russian day26_b_hotel_sex_d3c99773:
+
+    # "{i}Sweat is pearling from both your bodies as you enter the final stretch. [b_name] senses you're nearly ready and looks into your eyes while you keep fucking her pussy."
+    "{i}Пот струится с вас обоих, когда вы уже близки к финалу. [b_name] чувствует, что ты уже почти готов, и смотрит тебе в глаза, пока ты продолжаешь ебать её киску."
+
+# game/day26.rpy:1470
+translate russian day26_b_hotel_sex_28ecca1e:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of your sister with hot seed."
+    "{i}Вид её наслаждения заставляет тебя кончить. Оргазм почти парализует тебя, и все, что ты можешь, - рычать и целовать её шею, рока твой член покрывает всё внутри твоей сестры спермой."
+
+# game/day26.rpy:1472
+translate russian day26_b_hotel_sex_dc23b31f:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
+    "{i}Вид её наслаждения заставляет тебя кончить. Оргазм почти парализует тебя, и все, что ты можешь, - рычать и целовать её шею, рока твой член покрывает всё внутри [b_name] спермой."
+
+# game/day26.rpy:1489
+translate russian day26_b_hotel_sex_6ecfe49c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's body with hot seed."
+    "{i}Вид её наслаждения заставляет тебя кончить. Оргазм почти парализует тебя, но тебе удается вытащить и, рыча со страстью, ты покрываешь тело своей сестры спермой."
+
+# game/day26.rpy:1491
+translate russian day26_b_hotel_sex_b5d1fb5c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s body with hot seed."
+    "{i}Вид её наслаждения заставляет тебя кончить. Оргазм почти парализует тебя, но тебе удается вытащить и, рыча со страстью, ты покрываешь тело [b_name] спермой."
+
+# game/day26.rpy:1506
+translate russian day26_b_hotel_sex_cb25e095:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's beautiful face with hot seed."
+    "{i}Вид её наслаждения заставляет тебя кончить. Оргазм почти парализует тебя, но тебе удается вытащить и, рыча со страстью, ты покрываешь прекрасное лицо своей сестры спермой."
+
+# game/day26.rpy:1508
+translate russian day26_b_hotel_sex_6b1c1dc6:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s beautiful face with hot seed."
+    "{i}Вид её наслаждения заставляет тебя кончить. Оргазм почти парализует тебя, но тебе удается вытащить и, рыча со страстью, ты покрываешь прекрасное лицо [b_name] спермой."
+
+# game/day26.rpy:1517
+translate russian day26_b_hotel_sex_162d6918:
+
+    # "{i}Afterwards you just lie together in the afterglow, unable to speak for some time. [b_name] is the first to manage a few words."
+    "{i}После этого, вы лежите вместе и не можете ничего сказать. [b_name] первая находит несколько слов."
+
+# game/day26.rpy:1518
+translate russian day26_b_hotel_sex_1c360853:
+
+    # b "You're... the best..."
+    b "Ты... лучший..."
+
+# game/day26.rpy:1519
+translate russian day26_b_hotel_sex_1cb42a13:
+
+    # p "Thanks!"
+    p "Спасибо!"
+
+# game/day26.rpy:1520
+translate russian day26_b_hotel_sex_baa29dcb:
+
+    # b "No... Yes... I mean..."
+    b "Нет... Да... Ну..."
+
+# game/day26.rpy:1521
+translate russian day26_b_hotel_sex_98bc6270:
+
+    # b "You're the best thing that's ever happened to me."
+    b "Ты - лучшее, что случалось со мной."
+
+# game/day26.rpy:1523
+translate russian day26_b_hotel_sex_5b73eb1d:
+
+    # "{i}You notice the tears in her eyes and hold her close, kissing her hair."
+    "{i}Ты видишь слезы на её глазах, и крепко обнимаешь её, целуя в макушку."
+
+# game/day26.rpy:1524
+translate russian day26_b_hotel_sex_2989575c:
+
+    # p "Happy tears?"
+    p "Слезы радости?"
+
+# game/day26.rpy:1525
+translate russian day26_b_hotel_sex_caf371f4:
+
+    # b "Of course, dummy."
+    b "Да, глупыш."
+
+# game/day26.rpy:1526
+translate russian day26_b_hotel_sex_6ed0083b:
+
+    # b "I love you."
+    b "Я люблю тебя."
+
+# game/day26.rpy:1527
+translate russian day26_b_hotel_sex_8587becd:
+
+    # p "I love you too, [b_name]."
+    p "И я тебя люблю, [b_name]."
+

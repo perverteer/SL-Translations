@@ -4380,4 +4380,1043 @@ translate russian day34_ri_shop_0a3ae11b:
 translate russian day34_ri_shop_18bbe84a:
 
     # p "But I'm much happier to see you relatively unharmed."
-    p "Но я гораздо счастливее видеть тебя относительно невредимым."
+    p "Но я гораздо счастливее видеть тебя относительно невредимым."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day34.rpy:949
+translate russian day34_b_blowjob_hard_68cb742c:
+
+    # p "{i}(Look at that glorious ass.)"
+    p "{i}(Глянь на этот потрясный зад.)"
+
+# game/day34.rpy:953
+translate russian day34_b_blowjob_hard_d6b5d8d9:
+
+    # b "How long have you been staring there, creep?"
+    b "И как давно ты туда пялишься, засранец? "
+
+# game/day34.rpy:954
+translate russian day34_b_blowjob_hard_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Всего пару часов."
+
+# game/day34.rpy:955
+translate russian day34_b_blowjob_hard_c0bf7ea1:
+
+    # b "Go away."
+    b "Свали."
+
+# game/day34.rpy:956
+translate russian day34_b_blowjob_hard_b4f81831:
+
+    # p "No, spin around for me."
+    p "Не-а, покрутись вокруг меня."
+
+# game/day34.rpy:962
+translate russian day34_b_blowjob_hard_d0b20184:
+
+    # b "Satisfied?"
+    b "Доволен?"
+
+# game/day34.rpy:963
+translate russian day34_b_blowjob_hard_2b5f4d50:
+
+    # p "A little."
+    p "Немного."
+
+# game/day34.rpy:964
+translate russian day34_b_blowjob_hard_9878f1cc:
+
+    # p "You look fantastic in this, you know that?"
+    p "Ты выглядишь просто потрсающе, ты знаешь это? "
+
+# game/day34.rpy:965
+translate russian day34_b_blowjob_hard_4227e895:
+
+    # b "I'm sure I look great, now leave."
+    b "Я в курсе, уйди."
+
+# game/day34.rpy:966
+translate russian day34_b_blowjob_hard_6b303226:
+
+    # p "We're going shopping tomorrow, you and I."
+    p "Мы идем на шоппинг затра, ты и я."
+
+# game/day34.rpy:968
+translate russian day34_b_blowjob_hard_1871783f:
+
+    # b "What, why?"
+    b "Что, зачем?"
+
+# game/day34.rpy:969
+translate russian day34_b_blowjob_hard_b402c11d:
+
+    # p "Because I want to give you some nice lingerie."
+    p "Потому что я хочу подарить тебе красивое белье."
+
+# game/day34.rpy:970
+translate russian day34_b_blowjob_hard_60478538:
+
+    # b "I have underwear."
+    b "У меня есть белье."
+
+# game/day34.rpy:971
+translate russian day34_b_blowjob_hard_68520e5c:
+
+    # p "I'll get you more."
+    p "Будет больше."
+
+# game/day34.rpy:972
+translate russian day34_b_blowjob_hard_32625464:
+
+    # b "I don't..."
+    b "Я не..."
+
+# game/day34.rpy:973
+translate russian day34_b_blowjob_hard_df7483f5:
+
+    # p "Now you're going to say thanks and suck my cock."
+    p "Теперь ты поблагодаришь меня и отсосешь мне."
+
+# game/day34.rpy:975
+translate russian day34_b_blowjob_hard_eadf9810:
+
+    # b "What?!"
+    b "Что?!"
+
+# game/day34.rpy:976
+translate russian day34_b_blowjob_hard_73bb7de1:
+
+    # p "You're going to get on your knees."
+    p "Ты встанешь на колени."
+
+# game/day34.rpy:978
+translate russian day34_b_blowjob_hard_733e331e:
+
+    # p "And you'll undress me."
+    p "И разденешь меня."
+
+# game/day34.rpy:983
+translate russian day34_b_blowjob_hard_61031477:
+
+    # p "Next, you'll make me hard."
+    p "Потом ты сделаешь мой член твердым."
+
+# game/day34.rpy:985
+translate russian day34_b_blowjob_hard_8018ec82:
+
+    # p "Stroking my hard cock with your hands."
+    p "Возьмешь его своими руками."
+
+# game/day34.rpy:986
+translate russian day34_b_blowjob_hard_0a337613:
+
+    # p "That's it, good girl."
+    p "Вот так, хорошая девочка."
+
+# game/day34.rpy:992
+translate russian day34_b_blowjob_hard_32ab4328:
+
+    # p "Now lick the head."
+    p "Теперь лижи головку."
+
+# game/day34.rpy:993
+translate russian day34_b_blowjob_hard_64ac36ae:
+
+    # p "Make it all nice and wet."
+    p "Сделай его целиком влажным и приятным."
+
+# game/day34.rpy:994
+translate russian day34_b_blowjob_hard_1e09f0b9:
+
+    # p "Good, now take it in your mouth and blow me."
+    p "Хорошо, теперь возьми его в рот и отсоси мне."
+
+# game/day34.rpy:1001
+translate russian day34_b_blowjob_hard_a123ea2c:
+
+    # "{i}Your sister obediently puts your cock in her mouth and starts to suck."
+    "{i}Твоя сестра послушно кладет твой член себе в рот и начинает сосать."
+
+# game/day34.rpy:1003
+translate russian day34_b_blowjob_hard_5effce97:
+
+    # "{i}Your girl obediently puts your cock in her mouth and starts to suck."
+    "{i}Твоя девушка послушно кладет твой член себе в рот и начинает сосать."
+
+# game/day34.rpy:1004
+translate russian day34_b_blowjob_hard_a1a9f244:
+
+    # "{i}Enjoying the feeling of her warm mouth, you're silent for a while."
+    "{i}Наслаждаясь ощущением ее теплого рта, ты некоторое время молчишь."
+
+# game/day34.rpy:1006
+translate russian day34_b_blowjob_hard_099d567d:
+
+    # "{i}You're amazed by the intensity with which she's sucking you off, and you're unable to last for very long."
+    "{i}Ты поражен интенсивностью, с которой она отсасывает, и не можешь долго продержаться."
+
+# game/day34.rpy:1008
+translate russian day34_b_blowjob_hard_7d1c8eb1:
+
+    # p "Fuck [b_name]! Aaah!"
+    p "Блять, [b_name]! Ааахх!"
+
+# game/day34.rpy:1012
+translate russian day34_b_blowjob_hard_4e04842b:
+
+    # p "K-k-keep it in your mouth!"
+    p "Д-держи во рту!"
+
+# game/day34.rpy:1013
+translate russian day34_b_blowjob_hard_3c0a473a:
+
+    # p "D-don't y-you dare stop!"
+    p "Не останавливайся, черт возьми!"
+
+# game/day34.rpy:1014
+translate russian day34_b_blowjob_hard_50bbcd73:
+
+    # "{i}Grim-faced, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}С мрачным лицом, [b_name] продолжает и не останавливается, даже когда твоя сперма начинает течь."
+
+# game/day34.rpy:1017
+translate russian day34_b_blowjob_hard_fbb71cb4:
+
+    # "{i}You make her stop briefly to allow you to cream her mouth."
+    "{i}Ты заставляешь ее ненадолго остановиться, чтобы позволить тебе смазать ей рот спермой."
+
+# game/day34.rpy:1018
+translate russian day34_b_blowjob_hard_3830744e:
+
+    # p "Now be a good little girl and swallow it."
+    p "А теперь будь хорошей девочкой и проглоти это."
+
+# game/day34.rpy:1023
+translate russian day34_b_blowjob_hard_a5e5ca6a:
+
+    # "{i}Looking at you with piercing eyes, your sister swallows your entire load."
+    "{i}Глядя на тебя пронзительными глазами, твоя сестра проглатывает все твое семя."
+
+# game/day34.rpy:1025
+translate russian day34_b_blowjob_hard_ecd95d63:
+
+    # "{i}Looking at you with piercing eyes, your girl swallows your entire load."
+    "{i}Глядя на тебя пронзительными глазами, твоя девушка проглатывает все твое семя."
+
+# game/day34.rpy:1026
+translate russian day34_b_blowjob_hard_8353f083:
+
+    # "{i}When she's all done, you pull her closer to you and have her rest on your chest."
+    "{i}Когда она закончит, ты притянешь ее ближе к себе и положишь себе на грудь."
+
+# game/day34.rpy:1037
+translate russian day34_b_blowjob_hard_970769f2:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, you make her pull out your cock and have it directed at her face."
+    "{i}Заметив явные сигналы, близости к оргазму, ты заставляете ее вытащить свой член и направить его ей в лицо."
+
+# game/day34.rpy:1043
+translate russian day34_b_blowjob_hard_02b699c5:
+
+    # "{i}As she holds your cock it begins to shoot thick strands of cum, pasting her face with warm seed."
+    "{i}Когда она держит твой член, он начинает стрелять толстыми струями спермы, обливая ее лицо теплым семенем."
+
+# game/day34.rpy:1045
+translate russian day34_b_blowjob_hard_9b054faf:
+
+    # b "Goddamnit, I just did my make-up."
+    b "Боже, я только сделала макияж."
+
+# game/day34.rpy:1046
+translate russian day34_b_blowjob_hard_567e1dc4:
+
+    # p "This looks good on you too."
+    p "Это тоже выглядит на тебе неплохо."
+
+# game/day34.rpy:1047
+translate russian day34_b_blowjob_hard_efe857be:
+
+    # b "Fuck you."
+    b "Пошел ты."
+
+# game/day34.rpy:1048
+translate russian day34_b_blowjob_hard_8c74f50b:
+
+    # "{i}After [b_name] cleans herself up somewhat you pull her closer to you and have her rest on your chest."
+    "{i}После того, как [b_name] немного очистится, ты притягиваешь ее ближе к себе и кладешь себе на грудь."
+
+# game/day34.rpy:1056
+translate russian day34_b_blowjob_hard_0f34104f:
+
+    # b "Thank you."
+    b "Спасибо."
+
+# game/day34.rpy:1057
+translate russian day34_b_blowjob_hard_1b640dae:
+
+    # p "What?"
+    p "Что?"
+
+# game/day34.rpy:1058
+translate russian day34_b_blowjob_hard_7d6ce687:
+
+    # b "You told me to blow you and say thank you."
+    b "Ты сказал мне отсасать тебе и поблагодарить тебя."
+
+# game/day34.rpy:1059
+translate russian day34_b_blowjob_hard_a79c6a6a:
+
+    # b "I just did both."
+    b "Я просто довершаю."
+
+# game/day34.rpy:1060
+translate russian day34_b_blowjob_hard_874fdd89:
+
+    # p "{i}(I'd already forgotten about that...)"
+    p "{i}(Я правда забыл об этом...)"
+
+# game/day34.rpy:1061
+translate russian day34_b_blowjob_hard_24c39dc8:
+
+    # b "Or did your brain just leave through the same exit, together with all that cum?"
+    b "Или твой мозг просто утек вместе со всей этой спермой?"
+
+# game/day34.rpy:1062
+translate russian day34_b_blowjob_hard_ae19be12:
+
+    # p "No, you're right."
+    p "Нет, ты права."
+
+# game/day34.rpy:1063
+translate russian day34_b_blowjob_hard_e18221a4:
+
+    # p "You did well."
+    p "Молодец."
+
+# game/day34.rpy:1064
+translate russian day34_b_blowjob_hard_3e0cde11:
+
+    # b "Sure..."
+    b "Еще бы..."
+
+# game/day34.rpy:1066
+translate russian day34_b_blowjob_hard_bd89621d:
+
+    # "{i}You lie with her in silence for a while before returning to your room."
+    "{i}Ты некоторое время лежишь с ней в тишине, прежде чем вернуться в свою комнату."
+
+# game/day34.rpy:1076
+translate russian day34_b_blowjob_30959ace:
+
+    # p "{i}(I have the most beautiful girlfriend.)"
+    p "{i}(У меня самая красивая девушка.)"
+
+# game/day34.rpy:1078
+translate russian day34_b_blowjob_67cd64c2:
+
+    # b "Have you been staring like that for long?"
+    b "И давно ты так смотришь?"
+
+# game/day34.rpy:1079
+translate russian day34_b_blowjob_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Всего пару часов."
+
+# game/day34.rpy:1080
+translate russian day34_b_blowjob_99d2099d:
+
+    # b "Haha, sure..."
+    b "Хаха, конечно..."
+
+# game/day34.rpy:1081
+translate russian day34_b_blowjob_6a064bd8:
+
+    # b "This was supposed to be a surprise."
+    b "Это должно было быть сюрпризом."
+
+# game/day34.rpy:1082
+translate russian day34_b_blowjob_262f8602:
+
+    # b "I was about to put on the panties that come with this set."
+    b "Я как раз собиралась надеть трусики, которые прилагаются к этому набору."
+
+# game/day34.rpy:1083
+translate russian day34_b_blowjob_19dc1a80:
+
+    # p "It's beautiful, though I like you best without clothes on."
+    p "Это красиво, хотя ты мне больше нравишься без одежды."
+
+# game/day34.rpy:1084
+translate russian day34_b_blowjob_84ac98ab:
+
+    # b "Horny little boy."
+    b "Маленький похотливый мальчик."
+
+# game/day34.rpy:1085
+translate russian day34_b_blowjob_de805f06:
+
+    # p "You have that effect on me."
+    p "Это ты виновата."
+
+# game/day34.rpy:1086
+translate russian day34_b_blowjob_26ceb081:
+
+    # p "But I'll act properly surprised if you wear this next time."
+    p "Но я притворюсь удивленным, если ты наденешь это в следующий раз."
+
+# game/day34.rpy:1092
+translate russian day34_b_blowjob_cc670891:
+
+    # b "You like it?"
+    b "Тебе нравится?"
+
+# game/day34.rpy:1093
+translate russian day34_b_blowjob_a5de22e1:
+
+    # p "Very much."
+    p "Очень."
+
+# game/day34.rpy:1094
+translate russian day34_b_blowjob_162fb551:
+
+    # p "I feel a little bad though, spoiling this moment."
+    p "Хотя я чувствую себя немного плохо, испортив этот сюрприз."
+
+# game/day34.rpy:1095
+translate russian day34_b_blowjob_4a14a428:
+
+    # b "I don't mind."
+    b "Не беспокойся."
+
+# game/day34.rpy:1096
+translate russian day34_b_blowjob_0b329c66:
+
+    # p "No, why don't we go shopping for some nice lingerie tomorrow?"
+    p "Нет, почему бы нам не пойти за еще каким-нибудь бельем завтра?"
+
+# game/day34.rpy:1098
+translate russian day34_b_blowjob_14ecefea:
+
+    # b "That sounds like a fantastic plan!"
+    b "Это просто фантастический план!"
+
+# game/day34.rpy:1099
+translate russian day34_b_blowjob_d70814d0:
+
+    # b "You know... The surprise wasn't just wearing this..."
+    b "Но знаешь... сюрприз был не только в том, что я это надену."
+
+# game/day34.rpy:1100
+translate russian day34_b_blowjob_e22d4a11:
+
+    # p "Oh... What else did you have in mind."
+    p "Оу... а в чем же еще?"
+
+# game/day34.rpy:1102
+translate russian day34_b_blowjob_2ce02568:
+
+    # b "I was going to get you on the bed."
+    b "Я бы толкнула тебя на кровать."
+
+# game/day34.rpy:1103
+translate russian day34_b_blowjob_fe6629f3:
+
+    # b "And undress you."
+    b "И раздела."
+
+# game/day34.rpy:1104
+translate russian day34_b_blowjob_579c8be7:
+
+    # p "Really..."
+    p "Правда..."
+
+# game/day34.rpy:1109
+translate russian day34_b_blowjob_efd0e395:
+
+    # b "Then I would make you hard."
+    b "Потом я бы сделала тебя твердым."
+
+# game/day34.rpy:1110
+translate russian day34_b_blowjob_4103f1fb:
+
+    # b "Stroking your dick with my hands."
+    b "Взяла бы твой член руками."
+
+# game/day34.rpy:1111
+translate russian day34_b_blowjob_f6220564:
+
+    # p "Oh fuck... [b_name]..."
+    p "Оу, блять... [b_name]..."
+
+# game/day34.rpy:1117
+translate russian day34_b_blowjob_d6318230:
+
+    # b "I would tease you by ever so slightly licking the head of your dick."
+    b "Я бы дразнила тебя, слегка облизывая головку твоего члена."
+
+# game/day34.rpy:1118
+translate russian day34_b_blowjob_0977e5d9:
+
+    # p "Uh-huh... K-keep going..."
+    p "Угу... продолжай..."
+
+# game/day34.rpy:1119
+translate russian day34_b_blowjob_f0d6e12b:
+
+    # b "And when your dick is wet enough and you're ready, I'd begin sucking you."
+    b "И когда твой член достаточно намокнет и ты будешь готов, я бы начала сосать."
+
+# game/day34.rpy:1125
+translate russian day34_b_blowjob_be2364a5:
+
+    # "{i}[b_name] is unable to say anything further as she takes your cock in her mouth."
+    "{i}[b_name] больше ничего не может сказать, так как она берет твой член в рот."
+
+# game/day34.rpy:1126
+translate russian day34_b_blowjob_bebb41dd:
+
+    # p "I-I really like this surprise."
+    p "Мне правда нравится такой сюрприз."
+
+# game/day34.rpy:1129
+translate russian day34_b_blowjob_16e5484a:
+
+    # "{i}You see your sister smile as she controls your pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Ты видишь, как твоя сестра улыбается, контролируя твое удовольствие, обсасывая твой член с такой интенсивностью, что ты не можешь долго продержаться."
+
+# game/day34.rpy:1131
+translate russian day34_b_blowjob_584755f7:
+
+    # "{i}You see your girlfriend smile as she controls pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Ты видишь, как твоя девушка улыбается, контролируя твое удовольствие, обсасывая твой член с такой интенсивностью, что ты не можешь долго продержаться."
+
+# game/day34.rpy:1133
+translate russian day34_b_blowjob_cf330df2:
+
+    # p "[b_name]! I'm... Oooh!"
+    p "[b_name]! Я... оооххх!"
+
+# game/day34.rpy:1137
+translate russian day34_b_blowjob_15cde731:
+
+    # "{i}Despite all the signals you're close to orgasm, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Несмотря на все сигналы близости к оргазму, [b_name] продолжает сосать и не останавливается, даже когда твоя сперма начинает течь."
+
+# game/day34.rpy:1144
+translate russian day34_b_blowjob_715c0843:
+
+    # "{i}She stops briefly to allow you to cream her mouth and then swallows your entire load, smiling at you deliriously."
+    "{i}Она ненадолго останавливается, чтобы ты мог смазать ее рот спермой, а затем проглатывает все твое семя, безумно улыбаясь."
+
+# game/day34.rpy:1145
+translate russian day34_b_blowjob_69f0bf5f:
+
+    # "{i}Satisfied, she rests her head on your chest."
+    "{i}Удовлетворенная, она кладет голову тебе на грудь."
+
+# game/day34.rpy:1157
+translate russian day34_b_blowjob_b85b41c1:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, [b_name] pulls out your cock and attempts to direct it to her chest."
+    "{i}Заметив предательские сигналы близости к оргазму, [b_name] вытаскивает твой член и пытается направить его к ее груди."
+
+# game/day34.rpy:1160
+translate russian day34_b_blowjob_4ac81696:
+
+    # "{i}Your cum begins to shoot earlier than you both thought and you end up pasting her face with warm seed."
+    "{i}Твоя сперма начинает стрелять раньше, чем вы оба думали, и ты в конечном итоге обливаешь ее лицо теплым семенем."
+
+# game/day34.rpy:1162
+translate russian day34_b_blowjob_a1c4b72e:
+
+    # b "Wow! Haha!"
+    b "Вау! Хаха!"
+
+# game/day34.rpy:1163
+translate russian day34_b_blowjob_4b468aa8:
+
+    # "{i}After [b_name] cleans herself up somewhat she rests her head on your chest."
+    "{i}После того, как [b_name] немного очистится, она кладет голову тебе на грудь."
+
+# game/day34.rpy:1171
+translate russian day34_b_blowjob_bfcb1211:
+
+    # b "Afterwards we'd lie together and you'd stroke my skin and kiss my hair."
+    b "Потом мы бы лежали вместе, а ты бы гладил мою кожу и целовал мои волосы."
+
+# game/day34.rpy:1172
+translate russian day34_b_blowjob_d0791796:
+
+    # p "Mmmm, sounds really good."
+    p "Ммммм, звучит очень даже хорошо."
+
+# game/day34.rpy:1173
+translate russian day34_b_blowjob_d8a0209b:
+
+    # b "I know, shame you spoiled the surprise."
+    b "Знаю. Жаль, ты испортил сюрприз."
+
+# game/day34.rpy:1174
+translate russian day34_b_blowjob_147e8b69:
+
+    # p "Yup, but luckily you're a very evocative storyteller."
+    p "Да, но, к счастью, ты очень запоминающийся рассказчик."
+
+# game/day34.rpy:1175
+translate russian day34_b_blowjob_d81a9abb:
+
+    # b "Haha, I know, right?"
+    b "Хаха, я знала."
+
+# game/day34.rpy:1177
+translate russian day34_b_blowjob_b1f0c319:
+
+    # "{i}You chat some more with her and just enjoy her company before returning to your room."
+    "{i}Вы с ней еще немного болтаете и просто наслаждаетесь обществом друг друга, затем ты возвращаешься в свою комнату."
+
+# game/day34.rpy:1193
+translate russian day34_r_fingering_b1e96493:
+
+    # "{i}[r_name] slides her hand back between her legs and begins to massage her clitoris."
+    "{i}[r_name] снова засовывает руку между ног и начинает массировать клитор."
+
+# game/day34.rpy:1194
+translate russian day34_r_fingering_9182261a:
+
+    # r "Mmmmm!"
+    r "Мммммм!"
+
+# game/day34.rpy:1196
+translate russian day34_r_fingering_a944f345:
+
+    # "{i}One of her fingers slips inside her pussy as she keeps working on her clit. You play with her breasts a little and kiss her neck."
+    "{i}Один из ее пальцев проскальзывает внутрь ее киски, пока она продолжает работать со своим клитором, вы немного играете с ее грудью и целуете ее шею."
+
+# game/day34.rpy:1198
+translate russian day34_r_fingering_932f09f4:
+
+    # "{i}Your sister seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Кажется, твоя сестра находится в другом плане сознания, ее глаза закатываются, а дыхание становится поверхностным."
+
+# game/day34.rpy:1200
+translate russian day34_r_fingering_f4ddeb7b:
+
+    # "{i}Your friend seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Кажется, твоя подруга находится в другом плане сознания, ее глаза закатываются, а дыхание становится поверхностным."
+
+# game/day34.rpy:1201
+translate russian day34_r_fingering_8dc9b6f7:
+
+    # "{i}Judging from her soft moans in your ear and the firm grip of her other hand on your arm, you know she's close."
+    "{i}Судя по ее тихим стонам в твое ухо и по твердому сжиманию ее другой руки на твоей, она уже близко."
+
+# game/day34.rpy:1208
+translate russian day34_r_fingering_249929b7:
+
+    # r "Aaaaah!"
+    r "Аааааххх!"
+
+# game/day34.rpy:1209
+translate russian day34_r_fingering_918b8b55:
+
+    # "{i}Her climax is beautiful, she shudders in your arms, biting her lip, her legs making involuntary movements."
+    "{i}Ее оргазм прекрасен, она вздрагивает в ваших руках, прикусывает губу, ее ноги делают непроизвольные движения."
+
+# game/day34.rpy:1214
+translate russian day34_r_fingering_1da72a37:
+
+    # p "I love you, [r_name]."
+    p "Я люблю тебя, [r_name]."
+
+# game/day34.rpy:1215
+translate russian day34_r_fingering_20f32c2a:
+
+    # r "I... love you too, [p_name]."
+    r "Я... я тоже тебя люблю, [p_name]."
+
+# game/day34.rpy:1234
+translate russian day34_ri_sex_119ad400:
+
+    # p "I thought maybe we could pass the time while the others fight outside?"
+    p "Я подумал, может, мы сможем скоротать время, пока остальные дерутся снаружи?"
+
+# game/day34.rpy:1235
+translate russian day34_ri_sex_e01ff968:
+
+    # "{i}Riley is already unbuttoning her shorts and looking longingly at the butt plug you're holding."
+    "{i}Райли уже расстегивает шорты и с тоской смотрит на анальную пробку, которую вы держите."
+
+# game/day34.rpy:1236
+translate russian day34_ri_sex_0cf4034c:
+
+    # ri "This place is rather perfect for what I think you're proposing."
+    ri "Это место идеально подходит для того, что, я думаю, ты предлагаешь."
+
+# game/day34.rpy:1238
+translate russian day34_ri_sex_26743edb:
+
+    # p "{i}(Something about this place sure makes you want to fuck, I'm sure Ana agrees.)"
+    p "{i}(Что-то в этом месте наверняка вызывает желание потрахаться, я уверен, Ана согласна.)"
+
+# game/day34.rpy:1244
+translate russian day34_ri_sex_be48a7ea:
+
+    # ri "Let's not waste time then."
+    ri "Тогда давай не будем теряять времени."
+
+# game/day34.rpy:1245
+translate russian day34_ri_sex_227d508e:
+
+    # p "Do you want to try the toy?"
+    p "Ты хочешь опробовать игрушку?"
+
+# game/day34.rpy:1246
+translate russian day34_ri_sex_f16c4169:
+
+    # ri "I think I do."
+    ri "Думаю да."
+
+# game/day34.rpy:1247
+translate russian day34_ri_sex_48c33a2a:
+
+    # p "Why don't you get that thing nice and wet then."
+    p "Тогда почему бы тебе не сделать ее приятной и влажной."
+
+# game/day34.rpy:1252
+translate russian day34_ri_sex_f6e54073:
+
+    # "{i}You offer Riley the toy, which she proceeds to suck and you get undressed yourself."
+    "{i}Вы предлагаете Райли игрушку, которую она начинает сосать, и вы сами раздеваетесь."
+
+# game/day34.rpy:1257
+translate russian day34_ri_sex_b74670b7:
+
+    # "{i}Riley spreads her ass and reveals her delicate butthole."
+    "{i}Райли раздвигает попку и показывает свою нежную дырочку."
+
+# game/day34.rpy:1258
+translate russian day34_ri_sex_64cd6b1b:
+
+    # ri "I've never been fucked with a toy in my ass."
+    ri "Меня никогда не трахали с игрушкой в заднице."
+
+# game/day34.rpy:1259
+translate russian day34_ri_sex_2c4e797f:
+
+    # p "Just a warning, if you see a strapon dildo, just leave it, I'm really not interested in trying a toy in {i}my{/i} ass.."
+    p "Предупреждаю: если ты увидишь фаллоимитатор со страпоном, просто оставь его, мне действительно неинтересно пробовать игрушку в {i}моей{/i} заднице..."
+
+# game/day34.rpy:1260
+translate russian day34_ri_sex_ab3affc3:
+
+    # ri "Haha!"
+    ri "Хаха!"
+
+# game/day34.rpy:1261
+translate russian day34_ri_sex_61e47689:
+
+    # ri "I'll be a good girl."
+    ri "Я буду хорошей девочкой."
+
+# game/day34.rpy:1266
+translate russian day34_ri_sex_27dd744b:
+
+    # "{i}Very softly, you push the wet toy against the folds of Riley's anus, as she relaxes the tip slips inside her butthole."
+    "{i}Очень мягко вы прижимаете мокрую игрушку к складкам ануса Райли, пока она пропускает кончик внутрь."
+
+# game/day34.rpy:1267
+translate russian day34_ri_sex_37d94932:
+
+    # ri "Mmmmm. Don't rush!"
+    ri "Мммм... Не так грубо!"
+
+# game/day34.rpy:1269
+translate russian day34_ri_sex_1e0b0e71:
+
+    # "{i}The toy inches further inside her ass until the entirety of it is enfolded by her anus."
+    "{i}Игрушка продвигается дальше в ее задницу, пока она полностью не покрывается ее анусом."
+
+# game/day34.rpy:1270
+translate russian day34_ri_sex_d49a9468:
+
+    # p "It's in."
+    p "Она внутри."
+
+# game/day34.rpy:1271
+translate russian day34_ri_sex_cefc623d:
+
+    # ri "God yes, I know."
+    ri "О боже, да, я знаю."
+
+# game/day34.rpy:1272
+translate russian day34_ri_sex_7a927d83:
+
+    # ri "It feels so full."
+    ri "Я чувствую себя такой... полной..."
+
+# game/day34.rpy:1273
+translate russian day34_ri_sex_89af8dec:
+
+    # ri "Kiss me!"
+    ri "Поцелуй меня!"
+
+# game/day34.rpy:1279
+translate russian day34_ri_sex_11b069f7:
+
+    # "{i}Riley's kiss is fueled by hunger, as the insertion of the toy has really liberated her lust."
+    "{i}Поцелуй Райли подпитывается голодом, поскольку вставка игрушки действительно высвободила ее похоть."
+
+# game/day34.rpy:1281
+translate russian day34_ri_sex_5098614a:
+
+    # "{i}The girl drops to her knees to focus all of her attention on your dick and covers it in kisses."
+    "{i}Девушка опускается на колени, чтобы сосредоточить все свое внимание на твоем члене, и покрывает его поцелуями."
+
+# game/day34.rpy:1282
+translate russian day34_ri_sex_3f9102c6:
+
+    # "{i}Her kisses become eager licks, until she dares to take your member in her mouth."
+    "{i}Ее поцелуи превращаются в нетерпеливые облизывания, пока она не осмеливается взять твой член в рот."
+
+# game/day34.rpy:1288
+translate russian day34_ri_sex_c85bc569:
+
+    # "{i}The warm, wet sensation hardens your cock even more, something Riley notices with approval."
+    "{i}Ощущение тепла и влажности делает ваш член еще более твердым, что Райли замечает с одобрением."
+
+# game/day34.rpy:1289
+translate russian day34_ri_sex_eaf15dd8:
+
+    # p "I had forgotten what a great cocksucker you are."
+    p "Я уже забыл, насколько ты хорошая хуесоска."
+
+# game/day34.rpy:1290
+translate russian day34_ri_sex_637bd8cf:
+
+    # ri "You forgot?"
+    ri "Ты забыл?"
+
+# game/day34.rpy:1291
+translate russian day34_ri_sex_bd3bd2a7:
+
+    # ri "Now you've hurt my feelings!"
+    ri "Теперь ты ранил мои чувства!"
+
+# game/day34.rpy:1293
+translate russian day34_ri_sex_1519d2bf:
+
+    # "{i}Riley punctuates her joking remark by sucking hard on your glans, a feeling that's equally pleasurable and painful."
+    "{i}Райли акцентирует свое шутливое замечание, сильно посасывая вашу головку, - чувство, которое одинаково приятно и болезненно."
+
+# game/day34.rpy:1294
+translate russian day34_ri_sex_1578ee19:
+
+    # p "Ouch!"
+    p "Ауч!"
+
+# game/day34.rpy:1295
+translate russian day34_ri_sex_74576d26:
+
+    # ri "Too intense?"
+    ri "Слишком быстро?"
+
+# game/day34.rpy:1296
+translate russian day34_ri_sex_fa8e2637:
+
+    # p "Only a little."
+    p "Разве что немного."
+
+# game/day34.rpy:1302
+translate russian day34_ri_sex_52fa1734:
+
+    # "{i}Before she can respond, you pull her closer and press your cock against her entrance."
+    "{i}Прежде чем она сможет ответить, вы притягиваете ее ближе и прижимаете член к ее входу."
+
+# game/day34.rpy:1303
+translate russian day34_ri_sex_9440ca01:
+
+    # p "I'm going to fuck you so hard."
+    p "Я трахну тебя очень жестко."
+
+# game/day34.rpy:1304
+translate russian day34_ri_sex_31ddf337:
+
+    # ri "Mmmm, show me!"
+    ri "Ммммм, покажи мне!"
+
+# game/day34.rpy:1309
+translate russian day34_ri_sex_343f1728:
+
+    # "{i}You see her eyes widen as you push your cock between her pussy lips and inside her tight fuckhole."
+    "{i}Вы видите, как ее глаза расширяются, когда вы проталкиваете свой член между губами ее киски и внутрь ее тугой дырки."
+
+# game/day34.rpy:1310
+translate russian day34_ri_sex_bcea34b2:
+
+    # ri "Aaah!"
+    ri "Ааааахх!"
+
+# game/day34.rpy:1311
+translate russian day34_ri_sex_38ec74d5:
+
+    # ri "Keep going like that, don't pull out!"
+    ri "Так и продолжай, не высовывай!!!"
+
+# game/day34.rpy:1313
+translate russian day34_ri_sex_3bec7f8d:
+
+    # "{i}You have absolutely no intention of pulling out and keep Riley in a tight embrace, your cock hammering her pussy."
+    "{i}У тебя нет абсолютно никакого намерения вырваться, и ты держишь Райли в крепких объятиях, а твой член стучит по ее киске."
+
+# game/day34.rpy:1314
+translate russian day34_ri_sex_7940e3e6:
+
+    # "{i}At the peak of your passion, when you move her body to get better access to her moist slit, Riley nearly swipes a collection of dildos from a shelf."
+    "{i}На пике своей страсти, когда вы двигаете ее телом, чтобы получить лучший доступ к ее влажной щели, Райли чуть не смахивает коллекцию фаллоимитаторов с полки."
+
+# game/day34.rpy:1316
+translate russian day34_ri_sex_c62a725e:
+
+    # "{i}The girl manages to giggle between her breathless gasps of pleasure and smiles at you while you continue to fuck her."
+    "{i}Девушке удается хихикать между ее задыхающимися вздохами удовольствия и улыбаться вам, пока вы продолжаете ее трахать."
+
+# game/day34.rpy:1322
+translate russian day34_ri_sex_8c3331ef:
+
+    # "{i}To get a better view of the toy that's still plugged inside her ass, you push Riley on one of the chairs and fuck her doggy style."
+    "{i}Чтобы лучше рассмотреть игрушку, которая все еще заткнута в ее задницу, вы толкаете Райли на один из стульев и трахаете ее раком."
+
+# game/day34.rpy:1323
+translate russian day34_ri_sex_46aea005:
+
+    # ri "Fuck me, [p_name], don't stop!"
+    ri "Еби меня, [p_name], не останавливайся!"
+
+# game/day34.rpy:1325
+translate russian day34_ri_sex_21ad4c97:
+
+    # "{i}When you slap her ass, Riley moans even harder and starts to finger herself."
+    "{i}Когда вы шлепаете ее по заднице, Райли стонет еще сильнее и начинает трогать себя."
+
+# game/day34.rpy:1326
+translate russian day34_ri_sex_83d160e1:
+
+    # "{i}Her breasts dangle and bounce on the rhythm of your fucking and you can't contain a sudden urge to play with them."
+    "{i}Ее груди болтаются и подпрыгивают в ритме вашего траха, и вы не можете сдержать внезапное желание поиграть с ними."
+
+# game/day34.rpy:1328
+translate russian day34_ri_sex_a7a739a8:
+
+    # "{i}You pull Riley's upper body towards you, her ass pressing against your abdomen and your cock shoved up to the root in her cunt."
+    "{i}Вы притягиваете верхнюю часть тела Райли к себе, ее задница прижимается к вашему животу, а ваш член проталкивается до самого основания в ее влагалище."
+
+# game/day34.rpy:1329
+translate russian day34_ri_sex_b816ae4b:
+
+    # "{i}The position doesn't allow for aggressive thrusts, but you're so deep inside her that it doesn't matter, the sensation is nearly overwhelming for you both."
+    "{i}Поза не допускает агрессивных толчков, но вы настолько глубоко внутри нее, что это не имеет значения, ощущение почти ошеломляющее для вас обоих."
+
+# game/day34.rpy:1330
+translate russian day34_ri_sex_9a92e185:
+
+    # "{i}As you play with her breasts and nipples, Riley continues to finger herself to completion."
+    "{i}Пока вы играете с ее грудью и сосками, Райли продолжает доводить себя до конца."
+
+# game/day34.rpy:1337
+translate russian day34_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "Б-б-блять!"
+
+# game/day34.rpy:1338
+translate russian day34_ri_sex_8b44502e:
+
+    # "{i}Riley screams as she reaches her orgasm, shuddering in your arms, her hand still clasped over her pussy."
+    "{i}Райли кричит, достигая оргазма и дрожа в ваших руках, ее рука все еще сжимает ее киску."
+
+# game/day34.rpy:1340
+translate russian day34_ri_sex_42d42502:
+
+    # "{i}Her constrictions are so intense that the toy is pushed out of her asshole, making her scream even louder with pleasure and relief."
+    "{i}Ее судороги настолько сильны, что игрушка выталкивается из ее ануса, заставляя ее кричать еще громче от удовольствия и облегчения."
+
+# game/day34.rpy:1342
+translate russian day34_ri_sex_7f864c7c:
+
+    # "{i}The sight of her gaping anus, after giving birth to the black plug, trigger your own orgasm."
+    "{i}Вид ее раскрытого ануса после рождения черной пробки вызывает у вас собственный оргазм."
+
+# game/day34.rpy:1348
+translate russian day34_ri_sex_aa317619:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to fill her with seed."
+    "{i}Вас одолевает внезапное желание сделать тело Райли своим, оставить свой след, наполнить ее семенем."
+
+# game/day34.rpy:1357
+translate russian day34_ri_sex_df0632e6:
+
+    # "{i}So you kiss her neck and hug her tightly as your cock erupts inside her vagina."
+    "{i}Итак, вы целуете ее шею и крепко обнимаете, когда ваш член извергается внутри ее влагалища."
+
+# game/day34.rpy:1358
+translate russian day34_ri_sex_72390f9a:
+
+    # "{i}Semen keeps flowing for what seems like several minutes and you stay inside her until your erection starts to fade."
+    "{i}Сперма продолжает течь, кажется, несколько минут, и вы остаетесь внутри нее, пока ваша эрекция не начнет исчезать."
+
+# game/day34.rpy:1360
+translate russian day34_ri_sex_e0ce5bd9:
+
+    # "{i}When you pull out, a trickle of seed streams out of her slit, the warm sensation on her thighs causes Riley to smile."
+    "{i}Когда вы вытаскиваете, струйка семени выливается из ее щели, ощущение тепла на ее бедрах заставляет Райли улыбаться."
+
+# game/day34.rpy:1374
+translate russian day34_ri_sex_4aedcb53:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to cover her with seed."
+    "{i} Вас одолевает внезапное желание сделать тело Райли своим, оставить свой след, покрыть ее семенем."
+
+# game/day34.rpy:1378
+translate russian day34_ri_sex_f3ef623b:
+
+    # "{i}You pull out as your cock erupts and spray her body with warm semen, as Riley massages her breasts using your cum with a satisfied smile on her face."
+    "{i}Вы вытаскиваете, когда ваш член извергается, и обрызгиваете ее тело теплой спермой, пока Райли массирует свою грудь с довольной улыбкой на лице."
+
+# game/day34.rpy:1390
+translate russian day34_ri_sex_ad8c8589:
+
+    # "{i}You're overcome with a sudden sensation to make Riley yours, to leave your mark, to cover her face with seed."
+    "{i}Вас одолевает внезапное желание сделать Райли своей, оставить свой след, покрыть ее лицо семенем."
+
+# game/day34.rpy:1392
+translate russian day34_ri_sex_0465f2e7:
+
+    # "{i}So you pull out and move her head close to your cock as it erupts."
+    "{i}Итак, вы вытаскиваете член и приближаете ее голову к нему, когда он извергается."
+
+# game/day34.rpy:1395
+translate russian day34_ri_sex_3b080407:
+
+    # "{i}You spray Riley's eager face with warm semen, depositing several volleys in her open mouth."
+    "{i}Вы брызгаете на нетерпеливое лицо Райли теплой спермой, делая несколько залпов в ее открытый рот."
+
+# game/day34.rpy:1396
+translate russian day34_ri_sex_9138679b:
+
+    # "{i}The girl swallows your cum with a satisfied smile on her face."
+    "{i}Девушка глотает твою сперму с довольной улыбкой на лице."
+
+# game/day34.rpy:1405
+translate russian day34_ri_sex_68607fec:
+
+    # ri "Goddamn, I didn't know sex could be this intense."
+    ri "Черт возьми, я не знала, что секс может быть таким активным..."
+
+# game/day34.rpy:1406
+translate russian day34_ri_sex_b923984f:
+
+    # p "You were magnificent."
+    p "Ты была волшебна."
+

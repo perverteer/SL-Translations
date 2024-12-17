@@ -3417,3 +3417,1319 @@ translate russian day24_choices_7b07ad78_1:
 
     # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
     "{i}Ощущение, что ты вот-вот взорвешься, становится все сильнее и сильнее, и [b_name] усиливает свои сосания, призывая тебя кончить."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day24.rpy:602
+translate russian day24_b_cinema_blowjob_a9cef6c6:
+
+    # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
+    "{i}[b_name] внезапно садится прямо и смотрит на тебя, ее губы касаются твоих, и ты целуешь ее в полумраке кинотеатра."
+
+# game/day24.rpy:603
+translate russian day24_b_cinema_blowjob_ef068625:
+
+    # b "You make me so happy!"
+    b "Ты делаешь меня такой счастливой!"
+
+# game/day24.rpy:604
+translate russian day24_b_cinema_blowjob_e0579f1c:
+
+    # p "And you're the best thing that's happened to me!"
+    p "И ты - лучшее, чо со мной случалось."
+
+# game/day24.rpy:606
+translate russian day24_b_cinema_blowjob_038eeb83:
+
+    # "{i}A sudden outburst in the movie makes you mindful of your surroundings again, and you continue watching the film."
+    "Внезапная вспышка в фильме заставляет вас снова вспомнить о своем окружении, и вы продолжаете смотреть фильм."
+
+# game/day24.rpy:607
+translate russian day24_b_cinema_blowjob_7b3f982b:
+
+    # "{i}As you glance at [b_name], you see a smile cross her face."
+    "{i}Когда ты смотришь на [b_name], ты видишь улыбку на ее лице."
+
+# game/day24.rpy:608
+translate russian day24_b_cinema_blowjob_505e98ae:
+
+    # b "Why don't we have a little fun while we're here?"
+    b "Почему бы нам немного не повеселиться, пока мы здесь?"
+
+# game/day24.rpy:609
+translate russian day24_b_cinema_blowjob_d4ca92e2:
+
+    # p "You mean?"
+    p "Ты имеешь в виду?.."
+
+# game/day24.rpy:610
+translate russian day24_b_cinema_blowjob_4b2343ad:
+
+    # b "Yes. Don't worry, I'll do the work..."
+    b "Да. Не беспокойся, я все сделаю сама..."
+
+# game/day24.rpy:613
+translate russian day24_b_cinema_blowjob_d7fabfaa:
+
+    # "{i}Teasingly slow, your sister unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Дразняще медленно твоя сестра расстегивает твои штаны и освобождает твой стояк, который растет в предвкушении."
+
+# game/day24.rpy:615
+translate russian day24_b_cinema_blowjob_87307cb2:
+
+    # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Дразняще медленно [b_name] расстегивает твои штаны и освобождает твой стояк, который растет в предвкушении."
+
+# game/day24.rpy:616
+translate russian day24_b_cinema_blowjob_b8fa0169:
+
+    # b "You don't need much encouragement, do you?"
+    b "Тебе не много нужно, судя по всему, да?"
+
+# game/day24.rpy:617
+translate russian day24_b_cinema_blowjob_8c65b140:
+
+    # p "I'm terrible at self-control..."
+    p "Я ужасен в самоконтроле..."
+
+# game/day24.rpy:619
+translate russian day24_b_cinema_blowjob_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] обвивает своими теплыми пальцами твой ствол, от ее прикосновения у тебя по спине пробегают мурашки."
+
+# game/day24.rpy:620
+translate russian day24_b_cinema_blowjob_5ac5bdd8:
+
+    # b "What am I going to do with you?"
+    b "Что мне с тобой делать?"
+
+# game/day24.rpy:625
+translate russian day24_b_cinema_blowjob_28621535:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees and looks up at you with her big blue eyes, her soft lips touching your tip."
+    "{i}Сначала вы думаете, что она собирается подрочить вам, но девушка опускается на колени и смотрит на вас своими большими голубыми глазами, ее мягкие губы касаются вашего кончика."
+
+# game/day24.rpy:626
+translate russian day24_b_cinema_blowjob_588bfeb2:
+
+    # b "Does your dick like kisses as well?"
+    b "Твой член тоже любит поцелуи?"
+
+# game/day24.rpy:627
+translate russian day24_b_cinema_blowjob_cc4c23cb:
+
+    # p "Y-y-yes."
+    p "Да-а-а..."
+
+# game/day24.rpy:628
+translate russian day24_b_cinema_blowjob_5622981a:
+
+    # b "Good."
+    b "Хорошо."
+
+# game/day24.rpy:630
+translate russian day24_b_cinema_blowjob_2e7c6246:
+
+    # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}С этими словами [b_name] слегка целует кончик твоего члена. Влага почти мгновенно заставляет тебя едва ли не кончить."
+
+# game/day24.rpy:631
+translate russian day24_b_cinema_blowjob_9073349b:
+
+    # b "Not so fast mister. Or did you just twitch?"
+    b "Не так быстро, мистер. Или ты просто дернулся?"
+
+# game/day24.rpy:632
+translate russian day24_b_cinema_blowjob_6b3673f0:
+
+    # p "You're amazing, [b_name]."
+    p "Ты потрясающа, [b_name]."
+
+# game/day24.rpy:635
+translate russian day24_b_cinema_blowjob_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Твоя сестра старательно лакает предэякулят, который покрывает головку твоего члена."
+
+# game/day24.rpy:637
+translate russian day24_b_cinema_blowjob_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}[b_name] старательно лакает предэякулят, который покрывает головку твоего члена."
+
+# game/day24.rpy:638
+translate russian day24_b_cinema_blowjob_615f67a0:
+
+    # b "Mmmm, a taste of what's to come."
+    b "Мммм, вкус того, что должно произойти."
+
+# game/day24.rpy:640
+translate russian day24_b_cinema_blowjob_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] продолжает исследовать головку своим языком, охватывая все глубже и глубже твой член своим ртом, когда она покрывает его своей теплой слюной."
+
+# game/day24.rpy:642
+translate russian day24_b_cinema_blowjob_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Когда она, наконец, полностью берет твой член в рот и начинает сосать, кажется, что все твои нервные окончания взрываются от удовольствия."
+
+# game/day24.rpy:643
+translate russian day24_b_cinema_blowjob_afa9afa1:
+
+    # p "G-g-god... [b_name]!!!"
+    p "Б-боже... [b_name]!!!"
+
+# game/day24.rpy:644
+translate russian day24_b_cinema_blowjob_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}В самые тихие моменты фильма зал наполняется хлюпоющими звуками рта [b_name], работающего над твоим членом в задней части кинотеатра."
+
+# game/day24.rpy:647
+translate russian day24_b_cinema_blowjob_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Твоя сестра перестает стимулировать твой член рукой и вместо этого массирует твои яйца, позволяя своему рту делать всю тяжелую работу."
+
+# game/day24.rpy:649
+translate russian day24_b_cinema_blowjob_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] перестает стимулировать твой член рукой и вместо этого массирует твои яйца, позволяя своему рту делать всю тяжелую работу."
+
+# game/day24.rpy:650
+translate russian day24_b_cinema_blowjob_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}Ощущение, что ты вот-вот взорвешься, становится все сильнее и сильнее, и [b_name] усиливает ее сосание, призывая тебя кончить."
+
+# game/day24.rpy:654
+translate russian day24_b_cinema_blowjob_5b70a97e:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "Б-о-оже, да, [b_name], я кончаю... я кончаю..."
+
+# game/day24.rpy:661
+translate russian day24_b_cinema_blowjob_d4edc6ed:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Сосет, облизывает и гладит тебя своим ртом до самого последнего момента, прежде чем ты извергаешь семя, [b_name] вытаскивает твой член изо рта и направляет его ей в лицо. Густые потоки спермы покрывают ее щеки и лоб."
+
+# game/day24.rpy:669
+translate russian day24_b_cinema_blowjob_5b70a97e_1:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "Б-о-оже, да, [b_name], я кончаю... я кончаю..."
+
+# game/day24.rpy:676
+translate russian day24_b_cinema_blowjob_a7f54eac:
+
+    # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
+    "{i}Густые потоки спермы заполняют ее рот. Она продолжает стимулировать твою головку и ствол до тех пор, пока не выйдут последние капли спермы, а затем она все глотает."
+
+# game/day24.rpy:686
+translate russian day24_b_cinema_blowjob_0f40afbb:
+
+    # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
+    "{i}Удовлетворенная [b_name] кладет голову тебе на колени, и вы молча смотрите оставшуюся часть фильма, прежде чем вернуться домой."
+
+# game/day24.rpy:696
+translate russian day24_b_cinema_blowjob_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day24.rpy:700
+translate russian day24_b_cinema_blowjob_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day24.rpy:703
+translate russian day24_b_cinema_blowjob_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day24.rpy:709
+translate russian day24_b_cinema_blowjob_hard_c2469b9d:
+
+    # "{i}You unzip your pants and wait for your sister to notice your growing erection."
+    "{i}Ты расстегиваешь молнию на брюках и ждешь, пока сестра заметит твою растущую эрекцию."
+
+# game/day24.rpy:711
+translate russian day24_b_cinema_blowjob_hard_ef266da0:
+
+    # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
+    "{i}Ты расстегиваешь молнию на брюках и ждешь, пока [b_name] заметит твою растущую эрекцию."
+
+# game/day24.rpy:714
+translate russian day24_b_cinema_blowjob_hard_009d6b3a:
+
+    # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
+    "{i}Когда она, наконец, делает это, ее реакция не является ужасом или шоком, вместо этого она нерешительно кладет руку на твое бедро."
+
+# game/day24.rpy:715
+translate russian day24_b_cinema_blowjob_hard_2a01b12d:
+
+    # "{i}Slowly but surely her hand moves towards your erection."
+    "{i}Медленно, но верно ее рука движется к твоей эрекции."
+
+# game/day24.rpy:717
+translate russian day24_b_cinema_blowjob_hard_eea3a172:
+
+    # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
+    "{i}Когда она наконец это делает, ты берешь ее за руку и кладешь себе на бедро."
+
+# game/day24.rpy:718
+translate russian day24_b_cinema_blowjob_hard_139feee7:
+
+    # b "You want me to?"
+    b "Ты хочешь, чтобы я..?"
+
+# game/day24.rpy:719
+translate russian day24_b_cinema_blowjob_hard_ecd502cb:
+
+    # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
+    p "Делай как хочешь, но я все еще очень напряжен после того трюка, который мы провернули с Дуэйном."
+
+# game/day24.rpy:721
+translate russian day24_b_cinema_blowjob_hard_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] обвивает своими теплыми пальцами твой ствол, от ее прикосновения у тебя по спине пробегают мурашки."
+
+# game/day24.rpy:722
+translate russian day24_b_cinema_blowjob_hard_17e757d2:
+
+    # p "Mmmm, yes [b_name], take care of me."
+    p "Мммм, да, [b_name], позаботься обо мне."
+
+# game/day24.rpy:724
+translate russian day24_b_cinema_blowjob_hard_7b6910bb:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your tip."
+    "{i}Сначала ты думаешь, что она собирается дрочить тебе, но девушка по собственной воле падает на колени, ее мягкие губы тянутся прямо к твоему концу."
+
+# game/day24.rpy:726
+translate russian day24_b_cinema_blowjob_hard_e85153db:
+
+    # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Не говоря ни слова, [b_name] слегка целует кончик твоего члена. Влага почти мгновенно заставляет тебя едва ли не кончить."
+
+# game/day24.rpy:727
+translate russian day24_b_cinema_blowjob_hard_10e78841:
+
+    # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over the head of your cock."
+    "{i}Одной лишь силой воли тебе удается предотвратить свой оргазм, хотя предэякулят уже хлынул, стекая по головке члена."
+
+# game/day24.rpy:733
+translate russian day24_b_cinema_blowjob_hard_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Твоя сестра старательно лакает предэякулят, который покрывает головку твоего члена."
+
+# game/day24.rpy:735
+translate russian day24_b_cinema_blowjob_hard_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}[b_name] старательно лакает предэякулят, который покрывает головку твоего члена."
+
+# game/day24.rpy:736
+translate russian day24_b_cinema_blowjob_hard_85eef047:
+
+    # p "A little taste of what's to come."
+    p "Немного вкуса того, что вскоре должно произойти."
+
+# game/day24.rpy:737
+translate russian day24_b_cinema_blowjob_hard_16c6f644:
+
+    # p "Keep going, sweetling."
+    p "Продолжай, малышка."
+
+# game/day24.rpy:739
+translate russian day24_b_cinema_blowjob_hard_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] продолжает исследовать головку своим языком, охватывая все глубже и глубже твой член своим ртом, когда она покрывает его своей теплой слюной."
+
+# game/day24.rpy:741
+translate russian day24_b_cinema_blowjob_hard_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Когда она, наконец, полностью берет твой член в рот и начинает сосать, кажется, что все твои нервные окончания взрываются от удовольствия."
+
+# game/day24.rpy:742
+translate russian day24_b_cinema_blowjob_hard_4eb69aa0:
+
+    # p "G-g-god... [b_name], right there!"
+    p "Б-б-боже... [b_name], вот так!"
+
+# game/day24.rpy:743
+translate russian day24_b_cinema_blowjob_hard_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}В самые тихие моменты фильма зал наполняется хлюпоющими звуками рта [b_name], работающего над твоим членом в задней части кинотеатра."
+
+# game/day24.rpy:746
+translate russian day24_b_cinema_blowjob_hard_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Твоя сестра перестает стимулировать твой член рукой и вместо этого массирует твои яйца, позволяя своему рту делать всю тяжелую работу."
+
+# game/day24.rpy:748
+translate russian day24_b_cinema_blowjob_hard_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] перестает стимулировать твой член рукой и вместо этого массирует твои яйца, позволяя своему рту делать всю тяжелую работу."
+
+# game/day24.rpy:749
+translate russian day24_b_cinema_blowjob_hard_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}Ощущение, что ты вот-вот взорвешься, становится все сильнее и сильнее, и [b_name] усиливает ее сосание, призывая тебя кончить."
+
+# game/day24.rpy:753
+translate russian day24_b_cinema_blowjob_hard_15724afa:
+
+    # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
+    p "Я кончаю, [b_name], кончаю... покажи мне свое милое личико."
+
+# game/day24.rpy:760
+translate russian day24_b_cinema_blowjob_hard_c81a3959:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Посасывая, облизывая и поглаживая тебя своим ртом до самого последнего момента, [b_name] вытаскивает твой член изо рта и послушно направляет его себе на лицо. Густые потоки спермы покрывают ее щеки и лоб."
+
+# game/day24.rpy:768
+translate russian day24_b_cinema_blowjob_hard_367fcf46:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
+    p "Б-б-боже... да, [b_name], я кончаю, кончаю! Продолжай!"
+
+# game/day24.rpy:775
+translate russian day24_b_cinema_blowjob_hard_1cda4a77:
+
+    # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your tip and shaft until the last drops of semen have entered, then she swallows."
+    "{i}Густые потоки спермы заполняют ее рот, и она послушно продолжает стимулировать твои головку и ствол, пока не выйдут последние капли спермы, а затем она глотает."
+
+# game/day24.rpy:785
+translate russian day24_b_cinema_blowjob_hard_a53e7326:
+
+    # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
+    "{i}[b_name] снова садится рядом с тобой, и вы молча смотрите оставшуюся часть фильма. Она не возражает против твоей руки на ее плече, и когда ты смотришь в сторону, тебе кажется, что ты видишь смутную улыбку, украшающую ее лицо."
+
+# game/day24.rpy:799
+translate russian day24_l_masturbation_96021e66:
+
+    # l "{i}(Hmmmm, I can't sleep.)"
+    l "{i}(Хммм, я не могу уснуть.)"
+
+# game/day24.rpy:800
+translate russian day24_l_masturbation_8d02f8ee:
+
+    # l "{i}(I don't know what came over me today after the dance class.)"
+    l "{i}(Не знаю, что на меня нашло сегодня, после урока танцев.)"
+
+# game/day24.rpy:801
+translate russian day24_l_masturbation_7c5b21b2:
+
+    # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
+    l "{i}(Танцы были потрясающими, то, как мы двигались по комнате. То, как он вел меня.)"
+
+# game/day24.rpy:803
+translate russian day24_l_masturbation_d6f704e1:
+
+    # l "{i}(But those... those urges... I've never felt anything so strong.)"
+    l "{i}(Но эти... эти побуждения... Я никогда не чувствовала ничего более сильного.)"
+
+# game/day24.rpy:804
+translate russian day24_l_masturbation_3cbc1725:
+
+    # l "{i}(Maybe I'm just horny?)"
+    l "{i}(Может это просто похоть?)"
+
+# game/day24.rpy:805
+translate russian day24_l_masturbation_02645f0d:
+
+    # l "{i}(I was never horny... But that was before...)"
+    l "{i}(Я никогда не была похотливой... но это было раньше...)"
+
+# game/day24.rpy:806
+translate russian day24_l_masturbation_cddb261a:
+
+    # l "{i}(I'm just going to touch myself, just a little bit.)"
+    l "{i}(Я просто потрогаю себя. Немного.)"
+
+# game/day24.rpy:808
+translate russian day24_l_masturbation_117ee799:
+
+    # l "{i}(Mmmmm. That feels good.)"
+    l "{i}(Мммм. Так хорошо.)"
+
+# game/day24.rpy:809
+translate russian day24_l_masturbation_f7f616cf:
+
+    # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
+    l "{i}(А что если кто-то войдет в комнату и увидет меня вот так?)"
+
+# game/day24.rpy:815
+translate russian day24_l_masturbation_f74bcfb0:
+
+    # l "Aaah!"
+    l "Аах!"
+
+# game/day24.rpy:816
+translate russian day24_l_masturbation_9b376897:
+
+    # l "{i}(I'm so wet, how can I be so wet?)"
+    l "{i}(Я такая влажная. Как я могла так намокнуть?)"
+
+# game/day24.rpy:817
+translate russian day24_l_masturbation_2ed3fe55:
+
+    # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
+    l "{i}(Я думаю только про [p_name]. Его сильные руки, его тело так близко ко мне...)"
+
+# game/day24.rpy:819
+translate russian day24_l_masturbation_e00b402f:
+
+    # l "{i}(I should slip a finger in, that feels so nice.)"
+    l "{i}(Я должна вставить палец внутрь, это так приятно.)"
+
+# game/day24.rpy:820
+translate russian day24_l_masturbation_5c161461:
+
+    # l "{i}(And I could pretend it was his...)"
+    l "{i}(И я бы могла представить, что это его...)"
+
+# game/day24.rpy:821
+translate russian day24_l_masturbation_a66c0813:
+
+    # l "{i}(Damnit. I shouldn't think like that.)"
+    l "{i}(Черт. Нельзя думать о таком.)"
+
+# game/day24.rpy:822
+translate russian day24_l_masturbation_3124a776:
+
+    # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
+    l "{i}(Но это так хорошо! Представляю, что было бы, если бы он был...)"
+
+# game/day24.rpy:827
+translate russian day24_l_masturbation_ae8b0feb:
+
+    # l "{i}(No!)"
+    l "{i}(Нет!)"
+
+# game/day24.rpy:828
+translate russian day24_l_masturbation_37bc17c2:
+
+    # l "{i}(I could use that thing... No harm in trying...)"
+    l "{i}(Я могу попробовать эту штуку... ничего особенного, я просто попробую...)"
+
+# game/day24.rpy:830
+translate russian day24_l_masturbation_75351201:
+
+    # l "{i}(Now, where did I leave it?)"
+    l "{i}(Итак, где я его оставила?)"
+
+# game/day24.rpy:831
+translate russian day24_l_masturbation_cbf43995:
+
+    # l "{i}(I tucked it away somewhere under my bras.)"
+    l "{i}(Я спрятала его куда-то под лифчики.)"
+
+# game/day24.rpy:833
+translate russian day24_l_masturbation_0474ea86:
+
+    # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
+    l "{i}(Боже, эта штука такая непристойная. Все эти выпуклости и ребра... Бьюсь об заклад, внутри от нее будет холодно.)"
+
+# game/day24.rpy:835
+translate russian day24_l_masturbation_5927cf3e:
+
+    # l "{i}(Surely, only cheap porn stars use this...)"
+    l "{i}(Конечно, этим пользуются только дешевые порнозвезды...)"
+
+# game/day24.rpy:836
+translate russian day24_l_masturbation_4211705b:
+
+    # l "{i}(Let's turn it on...)"
+    l "{i}(Давай включим его...)"
+
+# game/day24.rpy:841
+translate russian day24_l_masturbation_28e7e8c3:
+
+    # l "{i}(Oh god, that's far too intense! This thing buzzes like an angry bee.)"
+    l "{i}(О боже, это слишком интенсивно! Эта штука жужжит как рассерженная пчела)."
+
+# game/day24.rpy:842
+translate russian day24_l_masturbation_ad217b4b:
+
+    # l "{i}(No way I'm going to put that inside of me...)"
+    l "{i}(Я ни за что не собираюсь засовывать это в себя...)"
+
+# game/day24.rpy:843
+translate russian day24_l_masturbation_a27cdeef:
+
+    # l "{i}(Let's see how it feels against my lips.)"
+    l "{i}(Посмотрим, как будет чувствоваться на губах.)"
+
+# game/day24.rpy:849
+translate russian day24_l_masturbation_819d64c5:
+
+    # l "Ooh god!"
+    l "Ооох боже!"
+
+# game/day24.rpy:850
+translate russian day24_l_masturbation_e139ff9f:
+
+    # l "{i}(Shit! Did I do that out loud?)"
+    l "{i}(Дерьмо! Это было не слишком громко?)"
+
+# game/day24.rpy:851
+translate russian day24_l_masturbation_541edf9a:
+
+    # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
+    l "{i}(На ощупь он такой мягкий, а вибрации не слишком сильные. Может, мне стоит сильнее прижать его к своей киске.)"
+
+# game/day24.rpy:853
+translate russian day24_l_masturbation_daa4514e:
+
+    # l "Ooh god yes!!!"
+    l "Оооох боже, да!!!"
+
+# game/day24.rpy:854
+translate russian day24_l_masturbation_8546bc73:
+
+    # l "{i}(I want it in me!)"
+    l "{i}(Я хочу его внутри себя!)"
+
+# game/day24.rpy:858
+translate russian day24_l_masturbation_bbe2a246:
+
+    # p "{i}(Better knock first, maybe she's already asleep.)"
+    p "{i}(Лучше сначала постучать, может быть, она уже спит.)"
+
+# game/day24.rpy:864
+translate russian day24_l_masturbation_dda64edc:
+
+    # l "{i}(No! No! Not now!!!)"
+    l "{i}(Нет! Нет! Только не сейчас!!!)"
+
+# game/day24.rpy:865
+translate russian day24_l_masturbation_b2267e91:
+
+    # l "Whoever it is, please go away!"
+    l "Кто бы ты ни был, пожалуйста, уходи!"
+
+# game/day24.rpy:866
+translate russian day24_l_masturbation_ee5d2a57:
+
+    # l "{i}(Please don't come in, not like this! Please!)"
+    l "{i}(Только не входи, только не вот так! Пожалуйста!)"
+
+# game/day24.rpy:867
+translate russian day24_l_masturbation_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:868
+translate russian day24_l_masturbation_82822a0c_1:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:869
+translate russian day24_l_masturbation_daaddcaa:
+
+    # l "{i}(I think it's safe again.)"
+    l "{i}(Думаю, теперь безопасно.)"
+
+# game/day24.rpy:871
+translate russian day24_l_masturbation_62a851fe:
+
+    # l "{i}(But now the mood is completely ruined.)"
+    l "{i}(Но настроение теперь полностью уничтожено.)"
+
+# game/day24.rpy:872
+translate russian day24_l_masturbation_e8f4bcb5:
+
+    # l "{i}(Stupid thing.)"
+    l "{i}(Дерьмо.)"
+
+# game/day24.rpy:873
+translate russian day24_l_masturbation_83d4f7fb:
+
+    # l "{i}(I hate you.)"
+    l "{i}(Ненавижу тебя.)"
+
+# game/day24.rpy:874
+translate russian day24_l_masturbation_f1bc8cc9:
+
+    # l "{i}(Why am I talking to a vibrator?)"
+    l "{i}(Почему я говорю с вибратором?)"
+
+# game/day24.rpy:875
+translate russian day24_l_masturbation_288197ec:
+
+    # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
+    l "{i}(Мне лучше немного отдохнуть и завтра снова похоронить эту грязную штуку в куче белья.)"
+
+# game/day24.rpy:877
+translate russian day24_l_masturbation_80445dad:
+
+    # l "{i}(I'm so tired...)"
+    l "{i}(Я так устала...)"
+
+# game/day24.rpy:878
+translate russian day24_l_masturbation_82822a0c_2:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:898
+translate russian day24_r_sex_c5b27efe:
+
+    # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
+    "{i}После того, как ты постучишь в дверь ванной и скажешь [r_name], что это ты, тебя быстро пригласят войти."
+
+# game/day24.rpy:904
+translate russian day24_r_sex_faf33115:
+
+    # r "Hey handsome!"
+    r "Привет, красавчик!"
+
+# game/day24.rpy:905
+translate russian day24_r_sex_77c3587b:
+
+    # p "How was your first day at college?"
+    p "Как твой первый день в колледже?"
+
+# game/day24.rpy:906
+translate russian day24_r_sex_8a91cb86:
+
+    # r "I forgot how utterly boring it was."
+    r "Я забыла, насколько ужасно скучно это было."
+
+# game/day24.rpy:907
+translate russian day24_r_sex_c7f06fb0:
+
+    # r "But Ana and Alina pulled me through."
+    r "Но Ана и Алина вытащили меня."
+
+# game/day24.rpy:908
+translate russian day24_r_sex_84c620c1:
+
+    # p "What?! You didn't think of me once?"
+    p "Что?! И ты ни разу не думала обо мне?"
+
+# game/day24.rpy:909
+translate russian day24_r_sex_7d4bdbf7:
+
+    # r "Of course I did, silly, you were on my mind the rest of the time."
+    r "Конечно думала, глупыш. Ты был в моей голове большую часть времени."
+
+# game/day24.rpy:911
+translate russian day24_r_sex_3bdcda22:
+
+    # p "Are you done?"
+    p "Ты закончила?"
+
+# game/day24.rpy:912
+translate russian day24_r_sex_3915c8e5:
+
+    # r "Do you want me to be?"
+    r "А хочешь, чтобы закончила?"
+
+# game/day24.rpy:913
+translate russian day24_r_sex_d5151d80:
+
+    # p "No! I've missed you all day and you look so gorgeous."
+    p "Нет! Я скучал по тебе весь день, и ты выглядишь потрясающе."
+
+# game/day24.rpy:914
+translate russian day24_r_sex_486dc62e:
+
+    # r "Why don't you slide in with me, the water is still warm."
+    r "Почему бы тебе не проскользнуть ко мне? Вода еще теплая."
+
+# game/day24.rpy:916
+translate russian day24_r_sex_8c5ced7c:
+
+    # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
+    "{i}[r_name] прижимается к тебе, ее задница трется о твой член."
+
+# game/day24.rpy:917
+translate russian day24_r_sex_86e48495:
+
+    # r "You're already getting a hard-on?!"
+    r "У тебя уже встал?!"
+
+# game/day24.rpy:918
+translate russian day24_r_sex_e88a0767:
+
+    # p "Sorry."
+    p "Извини."
+
+# game/day24.rpy:919
+translate russian day24_r_sex_ed3dc877:
+
+    # r "I don't mind!"
+    r "Меня это не беспокоит!"
+
+# game/day24.rpy:920
+translate russian day24_r_sex_cf0eaf12:
+
+    # r "God, I'm so tired."
+    r "Боже, я так устала."
+
+# game/day24.rpy:921
+translate russian day24_r_sex_071ad574:
+
+    # p "You're tense as well, the muscles in your shoulders feel way too hard."
+    p "Ты тоже напряжена, мышцы твоих плеч кажутся слишком твердыми."
+
+# game/day24.rpy:922
+translate russian day24_r_sex_a0743e29:
+
+    # r "What are you going to do about it?"
+    r "И что ты собираешься с этим делать?"
+
+# game/day24.rpy:923
+translate russian day24_r_sex_4ecf5b30:
+
+    # p "I know just the thing."
+    p "Я знаю одну штуку."
+
+# game/day24.rpy:929
+translate russian day24_r_sex_c53373d1:
+
+    # "{i}You put your hands on her shoulders and massage her back. Your sister closes her eyes in pleasure."
+    "{i}Ты кладешь руки ей на плечи и массируешь спину. Твоя сестра закрывает глаза от удовольствия."
+
+# game/day24.rpy:931
+translate russian day24_r_sex_565a891e:
+
+    # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
+    "{i}Ты кладешь руки ей на плечи и массируешь спину. [r_name] закрывает глаза от удовольствия."
+
+# game/day24.rpy:932
+translate russian day24_r_sex_37fe5aac:
+
+    # r "Mmmmm. Now you have to do this every day."
+    r "Ммммм. Теперь тебе придется делать это ежедневно."
+
+# game/day24.rpy:933
+translate russian day24_r_sex_e6e01fc5:
+
+    # p "I really, really don't mind."
+    p "Меня это правда не беспокоит."
+
+# game/day24.rpy:934
+translate russian day24_r_sex_07dfdc59:
+
+    # r "Kiss me!"
+    r "Поцелуй меня!"
+
+# game/day24.rpy:936
+translate russian day24_r_sex_488c4ffb:
+
+    # "{i}Then you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
+    "{i}Затем ты сосредотачиваешь свое внимание на ее губах и страстно целуешь ее. [r_name] поворачивает свое лицо полностью к тебе и слегка стонет, когда ее задница снова касается твоего члена."
+
+# game/day24.rpy:937
+translate russian day24_r_sex_55fbac4d:
+
+    # p "Mmm, I think something else is too tense as well."
+    p "Ммм. Думаю, что-то еще тут тоже очень сильно напряжено."
+
+# game/day24.rpy:942
+translate russian day24_r_sex_29a1976e:
+
+    # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
+    "{i}Твоя рука опускается ниже ватерлинии, и ты касаешься ее мягкой киски, девушка ободряюще кладет руку поверх твоей."
+
+# game/day24.rpy:943
+translate russian day24_r_sex_1c10fcb0:
+
+    # r "Yes, I'm really tense there..."
+    r "Да, это тоже нуждается в массаже..."
+
+# game/day24.rpy:946
+translate russian day24_r_sex_51e8ab07:
+
+    # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
+    "{i}Возбужденный ее словами, ты прикасаешься к ее киске и стимулируешь ее клитор, обхватив другой рукой ее маленькую грудь."
+
+# game/day24.rpy:947
+translate russian day24_r_sex_ffd0dbde:
+
+    # r "Y-y-yes [p_name], t-touch me right there."
+    r "Да-а-а-а, [p_name], трогая меня вот так."
+
+# game/day24.rpy:948
+translate russian day24_r_sex_249929b7:
+
+    # r "Aaaaah!"
+    r "Аааххх!"
+
+# game/day24.rpy:955
+translate russian day24_r_sex_02dd6072:
+
+    # b "Can I come in, [r_name]?"
+    b "Могу я войти, [r_name]?"
+
+# game/day24.rpy:956
+translate russian day24_r_sex_55fab30a:
+
+    # b "I really need to pee!"
+    b "Мне нужно пописать!"
+
+# game/day24.rpy:957
+translate russian day24_r_sex_f118db0c:
+
+    # r "Fuck! It's [b_name]!"
+    r "Блять! Это [b_name]!"
+
+# game/day24.rpy:958
+translate russian day24_r_sex_47ac2dc7:
+
+    # r "Hide!!!"
+    r "Прячься!!!"
+
+# game/day24.rpy:960
+translate russian day24_r_sex_24cdadc7:
+
+    # r "Just a minute, sis!"
+    r "Одну минутку, сестренка!"
+
+# game/day24.rpy:962
+translate russian day24_r_sex_969bd260:
+
+    # r "Just a minute, [b_name]!"
+    r "Минутку, [b_name]!"
+
+# game/day24.rpy:964
+translate russian day24_r_sex_ef9c89de:
+
+    # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
+    "{i}Скользкая вода затрудняет быстрый выход из ванны, но с помощью некоторых акробатических трюков тебе удается добраться до душа и закрыть занавеску."
+
+# game/day24.rpy:965
+translate russian day24_r_sex_d3cba48b:
+
+    # r "Come in!"
+    r "Входи!"
+
+# game/day24.rpy:967
+translate russian day24_r_sex_390a81d1:
+
+    # b "Hey, thanks!"
+    b "Спасибо!"
+
+# game/day24.rpy:968
+translate russian day24_r_sex_d45e798a:
+
+    # b "Are you okay? There was a lot of noise back there."
+    b "Ты в порядке? Отсюда доносилось столько шуму."
+
+# game/day24.rpy:969
+translate russian day24_r_sex_4ad5bfc6:
+
+    # r "Yes... er... I thought I'd locked the door and wanted to open it for you."
+    r "Да... эм... Я думала, что заперла дверь и хотела открыть ее для тебя."
+
+# game/day24.rpy:970
+translate russian day24_r_sex_6f6ed129:
+
+    # b "The door was open."
+    b "Дверь была открыта."
+
+# game/day24.rpy:971
+translate russian day24_r_sex_1fcc4145:
+
+    # r "I realized that when I was halfway there, that was the noises you heard. Probably."
+    r "Не знаю. Может, ты слышала, как я шла к двери."
+
+# game/day24.rpy:972
+translate russian day24_r_sex_2b4a84c9:
+
+    # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
+    p "{i}(Не обращайте на меня внимания, меня здесь нет. И, черт возьми, не принимай душ!!!)"
+
+# game/day24.rpy:977
+translate russian day24_r_sex_9e694855:
+
+    # b "Probably."
+    b "Возможно."
+
+# game/day24.rpy:978
+translate russian day24_r_sex_16d84762:
+
+    # b "God. Thank you again for letting me in. I really needed to go."
+    b "Боже. Еще раз спасибо, что впустила меня. Мне действительно нужно было идти."
+
+# game/day24.rpy:980
+translate russian day24_r_sex_314fc477:
+
+    # r "No problem."
+    r "Нет проблем."
+
+# game/day24.rpy:981
+translate russian day24_r_sex_c0644af4:
+
+    # b "So you've started college again today?"
+    b "Так ты вновь вернулась в колледж сегодня?"
+
+# game/day24.rpy:982
+translate russian day24_r_sex_eb6544d5:
+
+    # r "Yup. Hated it."
+    r "Да. Ненавижу."
+
+# game/day24.rpy:983
+translate russian day24_r_sex_907473de:
+
+    # b "Don't worry, once you have your diploma, you can do whatever you like."
+    b "Не волнуйся, как только у тебя будет диплом, ты сможешь делать все, что захочешь."
+
+# game/day24.rpy:984
+translate russian day24_r_sex_9e58e45e:
+
+    # r "Did you have a good day?"
+    r "Хорошо провела день?"
+
+# game/day24.rpy:986
+translate russian day24_r_sex_8bab34f6:
+
+    # b "Yes, I really did!"
+    b "Да, определенно!"
+
+# game/day24.rpy:987
+translate russian day24_r_sex_63f9a95f:
+
+    # r "Tell me!"
+    r "Расскажи!"
+
+# game/day24.rpy:988
+translate russian day24_r_sex_070ecb41:
+
+    # b "Long story!"
+    b "Долгая история!"
+
+# game/day24.rpy:990
+translate russian day24_r_sex_8f376377:
+
+    # r "Come now, [b_name], you're positively glowing."
+    r "Ну же, [b_name], ты вся прямо светишься."
+
+# game/day24.rpy:991
+translate russian day24_r_sex_5cf30c78:
+
+    # b "I know, I know. I think for once, things are working out."
+    b "Я знаю, я знаю. Я думаю, что в кои-то веки все наладилось."
+
+# game/day24.rpy:992
+translate russian day24_r_sex_bee3ef17:
+
+    # p "{i}(Yes, today was a great day.)"
+    p "{i}(Да, сегодня был прекрасный день.)"
+
+# game/day24.rpy:993
+translate russian day24_r_sex_0122e9ae:
+
+    # r "You're in love!!! I just know it!"
+    r "Ты влюбилась!!! Я так и знала!"
+
+# game/day24.rpy:995
+translate russian day24_r_sex_2993e132:
+
+    # b "Maybe..."
+    b "Может быть..."
+
+# game/day24.rpy:996
+translate russian day24_r_sex_45116a39:
+
+    # r "Who?! You have to tell me!"
+    r "В кого?! Ты должна мне рассказать!"
+
+# game/day24.rpy:997
+translate russian day24_r_sex_12ff8583:
+
+    # b "Just enjoy your bath. I'll tell you when I'm ready."
+    b "Просто наслаждайся своей ванной. Я расскажу тебе, когда буду готова."
+
+# game/day24.rpy:998
+translate russian day24_r_sex_72562e9e:
+
+    # p "{i}(Will she ever be ready?)"
+    p "{i}(Она вообще будет когда-нибудь готова?)"
+
+# game/day24.rpy:1000
+translate russian day24_r_sex_d2622335:
+
+    # b "{i}(That can't be true, can it?)"
+    b "{i}(Это неправда, так ведь?)"
+
+# game/day24.rpy:1001
+translate russian day24_r_sex_5d7f781e:
+
+    # b "No, but someone special did help me move past a bad experience."
+    b "Нет, но кое-кто особенный помог мне пережить плохой опыт."
+
+# game/day24.rpy:1002
+translate russian day24_r_sex_0d7d562f:
+
+    # r "I'm glad. It sure looks good on you!"
+    r "Я рада. Это определенно оказало на тебя положительное влияние!"
+
+# game/day24.rpy:1003
+translate russian day24_r_sex_faf82db6:
+
+    # p "{i}(She thinks I'm someone special. [b_name] is really coming around!)"
+    p "{i}(Она думает, что я особенный. [b_name] действительно приходит в себя!)"
+
+# game/day24.rpy:1005
+translate russian day24_r_sex_da5994be:
+
+    # b "{i}(Not a chance of that!)"
+    b "{i}(Нет, этого не может быть!)"
+
+# game/day24.rpy:1006
+translate russian day24_r_sex_fafdc263:
+
+    # b "No, but someone did help me move past a bad experience."
+    b "Нет, но кое-кто помог мне справиться с плохим опытом прошлого."
+
+# game/day24.rpy:1007
+translate russian day24_r_sex_6d60bdeb:
+
+    # r "Whatever, you just look happier is all."
+    r "Как угодно, но ты выглядишь счастливее, и это главное."
+
+# game/day24.rpy:1008
+translate russian day24_r_sex_be6b6660:
+
+    # p "{i}(I guess she hasn't fully submitted herself to me yet. I still have some work to do.)"
+    p "{i}(Я думаю, она еще не полностью подчинилась мне. Мне еще нужно кое-что сделать.)"
+
+# game/day24.rpy:1010
+translate russian day24_r_sex_d8a5cb24:
+
+    # b "Well, you know, same old, same old."
+    b "Ну, знаешь, все по-старому."
+
+# game/day24.rpy:1011
+translate russian day24_r_sex_555666ff:
+
+    # r "Yeah."
+    r "Да."
+
+# game/day24.rpy:1012
+translate russian day24_r_sex_22dcb7fa:
+
+    # b "I'll leave you to your bath."
+    b "Ладно, принимай ванну."
+
+# game/day24.rpy:1013
+translate russian day24_r_sex_35cc7ca5:
+
+    # p "{i}(Don't look to the right!)"
+    p "{i}(Только не смотри направо!)"
+
+# game/day24.rpy:1014
+translate russian day24_r_sex_b93142cc:
+
+    # r "Thanks, sleep tight."
+    r "Спасибо. Спокойной ночи."
+
+# game/day24.rpy:1015
+translate russian day24_r_sex_14aef3ff:
+
+    # b "You too, sis."
+    b "И тебе, сестренка."
+
+# game/day24.rpy:1024
+translate russian day24_r_sex_d31f2b7e:
+
+    # r "I think she's gone."
+    r "Думаю, она ушла."
+
+# game/day24.rpy:1025
+translate russian day24_r_sex_f13c71aa:
+
+    # r "How's my peeping Tom?"
+    r "Как там мой подглядывающий Том?"
+
+# game/day24.rpy:1026
+translate russian day24_r_sex_db0dba76:
+
+    # p "Scared shitless, but I'll manage."
+    p "Обосрался до смерти, но я справлюсь."
+
+# game/day24.rpy:1027
+translate russian day24_r_sex_306b895b:
+
+    # r "Let's have a shower together then, get rid of all that sweat."
+    r "Тогда давай примем душ вместе."
+
+# game/day24.rpy:1033
+translate russian day24_r_sex_0ba03374:
+
+    # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Ты ополаскиваешь тело своей сестры руками, избавляясь от всей мыльной пены и давая себе повод прикасаться к ней, когда только заблагорассудится. Не то чтобы [r_name] жаловалась."
+
+# game/day24.rpy:1035
+translate russian day24_r_sex_c8affe1d:
+
+    # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Ты ополаскиваешь тело своей подруги руками, избавляясь от всей мыльной пены и давая себе повод прикасаться к ней, когда только заблагорассудится. Не то чтобы [r_name] жаловалась."
+
+# game/day24.rpy:1036
+translate russian day24_r_sex_3943a244:
+
+    # r "Mmmm, this feels nice as well."
+    r "Мммм, это очень приятно."
+
+# game/day24.rpy:1037
+translate russian day24_r_sex_102cd8bd:
+
+    # r "Listen, [p_name], I know I said I was tired..."
+    r "Слушай, [p_name], я знаю, что говорила, что я устала..."
+
+# game/day24.rpy:1038
+translate russian day24_r_sex_b1388a61:
+
+    # p "Yes... I have a feeling I like where this is going."
+    p "Да... у меня есть предчувствие, что мне понравится то, куда ты клонишь."
+
+# game/day24.rpy:1043
+translate russian day24_r_sex_510cc1ff:
+
+    # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
+    "{i}Заметив твою эрекцию, [r_name] подтягивает ногу и трет свою киску вдоль ствола."
+
+# game/day24.rpy:1045
+translate russian day24_r_sex_8fdada81:
+
+    # r "I really want to have sex."
+    r "Я хочу, чтобы ты меня трахнул."
+
+# game/day24.rpy:1047
+translate russian day24_r_sex_64ba66d3:
+
+    # r "I want you inside of me."
+    r "Хочу тебя в себе."
+
+# game/day24.rpy:1048
+translate russian day24_r_sex_a7109580:
+
+    # r "Feel you, feel your cum inside of me."
+    r "Чувствовать тебя и твою сперму внутри."
+
+# game/day24.rpy:1051
+translate russian day24_r_sex_a1b15a1a:
+
+    # "{i}Despite the water, you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
+    "{i}Несмотря на воду, ты можешь просунуть свой член в ее киску. Ты крепко хватаешь ее за попку и осторожно вводишь в нее свой ствол, вызывая тихий стон у [r_name]."
+
+# game/day24.rpy:1053
+translate russian day24_r_sex_8a7c140b:
+
+    # r "Ah yes, fuck me. I want to feel you so bad."
+    r "Ах, да, трахни меня. Я так хочу чувствовать тебя."
+
+# game/day24.rpy:1058
+translate russian day24_r_sex_69f4a87e:
+
+    # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
+    "{i}Боясь, что упадешь, ты позволяешь [r_name] прислонить ее руку к стене, чтобы ты мог трахать ее без ограничений."
+
+# game/day24.rpy:1059
+translate russian day24_r_sex_488f2b52:
+
+    # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
+    r "Боже... трахни меня жестче! Я хочу тебя, [p_name]! Трахни меня!"
+
+# game/day24.rpy:1061
+translate russian day24_r_sex_fe069684:
+
+    # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust, you seem to pull her closer towards you, her ass smacking against your abdomen."
+    "{i}[r_name] вцепляется в твои мокрые волосы, когда ты покусываешь мочку ее уха. С каждым толчком ты, кажется, притягиваешь ее ближе к себе, ее задница ударяется о твой живот."
+
+# game/day24.rpy:1062
+translate russian day24_r_sex_8a8d4ccb:
+
+    # p "I love you so much, [r_name]!"
+    p "Я так тебя люблю, [r_name]!"
+
+# game/day24.rpy:1063
+translate russian day24_r_sex_50b82d1f:
+
+    # r "Aaaaah, keep going!"
+    r "Аааааххх, продолжай!"
+
+# game/day24.rpy:1069
+translate russian day24_r_sex_4ce5ecb2:
+
+    # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
+    "{i}Ты поворачиваешь ее, чтобы смотреть ей в глаза, когда достигнешь оргазма. Несмотря на теплую воду, ее дыхание обжигает твои щеки, когда она стонет от удовольствия."
+
+# game/day24.rpy:1074
+translate russian day24_r_sex_f6992741:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "Боже... я готов, [r_name]!"
+
+# game/day24.rpy:1075
+translate russian day24_r_sex_33470745:
+
+    # r "Keep fucking me! Please!"
+    r "Пожалуйста, продолжай трахать меня! Пожалуйста!"
+
+# game/day24.rpy:1083
+translate russian day24_r_sex_c0a02d04:
+
+    # p "G-g-aaaaah!"
+    p "Ааааааааааааххххххххх!"
+
+# game/day24.rpy:1084
+translate russian day24_r_sex_6fbc588f:
+
+    # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
+    "{i}Ты выполняешь ее желание и продолжаешь глубоко колотить ее, пока твоя сперма не капнет с ее киски и не смешается с водой из душа."
+
+# game/day24.rpy:1094
+translate russian day24_r_sex_f6992741_1:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "Боже... я готов, [r_name]!"
+
+# game/day24.rpy:1095
+translate russian day24_r_sex_50ed1e49:
+
+    # p "On your knees baby, I want to see that lovely face of yours."
+    p "На колени, детка, я хочу видеть твое прекрасное лицо."
+
+# game/day24.rpy:1103
+translate russian day24_r_sex_c0a02d04_1:
+
+    # p "G-g-aaaaah!"
+    p "Ааааааааааааххххххххх!"
+
+# game/day24.rpy:1104
+translate russian day24_r_sex_3e62347d:
+
+    # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
+    "{i}[r_name] трогает себя пальцами, когда ее лицо покрывается твоей спермой. Часть попадает ей в рот, и она без колебаний глотает."
+
+# game/day24.rpy:1113
+translate russian day24_r_sex_21a88cd7:
+
+    # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
+    "{i}Ты держишь [r_name] близко, пока остатки твоей спермы смываются. После этого вы целуетесь на ночь и выходите из ванной по отдельности."
+

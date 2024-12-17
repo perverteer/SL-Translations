@@ -1140,3 +1140,119 @@ translate russian strings:
     old "Continue"
     new "Продолжить"
 
+# TODO: Translation updated at 2024-11-29 09:53
+
+translate russian strings:
+
+    # renpy/common/00accessibility.rpy:121
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Меню доступности. Для навигации используйте стрелки вверх и вниз, а для активации кнопок и полос - клавишу Enter."
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new "При использовании сенсорного экрана поддержка самостоятельного озвучивания ограничена."
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new "Настройте director.transforms, чтобы добавить больше трансформаций."
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new "Нажмите, чтобы установить."
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new "Настройте director.transitions, чтобы добавить новые переходы."
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new "Настройте director.audio_channels, чтобы добавить больше каналов."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "Вы уверены, что хотите продолжить с того места, на котором остановились?"
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new "возможность самостоятельного озвучивания"
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new "отключение самоозвучивания"
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new "Разрешить озвучивание буфера обмена"
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new "Отключение озвучивания буфера обмена"
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new "отключение отладки озвучивания"
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new "восстановить положение окна"
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new "сброс"
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new "(очистить от пузырьков)"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Идентификатор перевода: [идентификатор]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " переводит [tl.filename]:[tl.linenumber]."
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Копируется в буфер обмена.{/color}"
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new "Методы обновления не найдены."
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new "Не удалось загрузить список файлов:"
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new "Дайджест списка файлов не совпадает."
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new "Подготовка к загрузке данных игры."
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new "Загрузка данных игры."
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new "Данные игры загружены."
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new "При попытке загрузить данные игры произошла ошибка:"
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new "Эту игру нельзя запускать до тех пор, пока не будут загружены игровые данные."
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new "Повторная попытка"
+

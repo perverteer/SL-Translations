@@ -5592,4 +5592,59 @@ translate russian day144_marriage_proposals_b65da9b8:
 translate russian day144_b_night_sex_61503c26:
 
     # "{i}Warm cum flows inside her and as you pull out, it starts to ooze out of her slit."
-    "{i}Теплая сперма течет внутри нее, и когда вы вытаскиваете ее, она начинает сочиться из ее щели."
+    "{i}Теплая сперма течет внутри нее, и когда вы вытаскиваете ее, она начинает сочиться из ее щели."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day144.rpy:884
+translate russian day144_m_ir_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Беременна ли [m_name] в этой сцене"
+
+# game/day144.rpy:888
+translate russian day144_m_ir_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] беременная"
+
+# game/day144.rpy:891
+translate russian day144_m_ir_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] не беременна"
+
+# game/day144.rpy:1100
+translate russian day144_b_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Хотите ли вы включить водные виды спорта для этой сцены?"
+
+# game/day144.rpy:1104
+translate russian day144_b_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Водные виды спорта позволяют"
+
+# game/day144.rpy:1107
+translate russian day144_b_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Водные виды спорта отключены"
+
+# game/day144.rpy:2163
+translate russian day144_b_night_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Беременна ли [b_name] в этой сцене"
+
+# game/day144.rpy:2167
+translate russian day144_b_night_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] беременная"
+
+# game/day144.rpy:2170
+translate russian day144_b_night_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] не беременна"
+

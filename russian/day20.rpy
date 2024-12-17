@@ -4201,3 +4201,827 @@ translate russian day20_r_deflowering_5a89aa3b:
 
     # "{i}With each thrust, your dick penetrates her more easily, helped by her copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
     "{i}С каждым толчком твой член проникает в нее все легче, чему способствуют ее обильно текущие соки Она явно не готова к чему-то жестокому, страдальческий взгляд полностью исчез с ее лица, сменившись смесью радости и нетерпения."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day20.rpy:935
+translate russian day20_b_licking_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day20.rpy:939
+translate russian day20_b_licking_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day20.rpy:942
+translate russian day20_b_licking_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day20.rpy:949
+translate russian day20_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Что?"
+
+# game/day20.rpy:950
+translate russian day20_b_licking_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Просто раздевайся, я хочу попробовать твою киску."
+
+# game/day20.rpy:951
+translate russian day20_b_licking_3b40820c:
+
+    # b "I'm busy."
+    b "Я занята."
+
+# game/day20.rpy:952
+translate russian day20_b_licking_94999a5f:
+
+    # p "No you're not."
+    p "Нет, ты не занята."
+
+# game/day20.rpy:953
+translate russian day20_b_licking_88ee9d37:
+
+    # b "Yes I am."
+    b "Да, я занята."
+
+# game/day20.rpy:954
+translate russian day20_b_licking_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Ты будешь вести себя как ребенок? Знаешь, я мог бы просто сорвать с тебя одежду."
+
+# game/day20.rpy:956
+translate russian day20_b_licking_e4f370a8:
+
+    # b "I know."
+    b "Я знаю."
+
+# game/day20.rpy:959
+translate russian day20_b_licking_a9a5ca74:
+
+    # "{i}Your sister reluctantly removes her clothes and sits on the bed."
+    "{i}Твоя сестра неохотно снимает одежду и садится на кровать."
+
+# game/day20.rpy:961
+translate russian day20_b_licking_d005c0b7:
+
+    # "{i}The girl reluctantly removes her clothes and sits on the bed."
+    "{i}Девушка неохотно снимает одежду и садится на кровать."
+
+# game/day20.rpy:962
+translate russian day20_b_licking_e36b7664:
+
+    # p "Good, you won't regret this."
+    p "Хорощо, ты не пожалеешь."
+
+# game/day20.rpy:963
+translate russian day20_b_licking_5ceba404:
+
+    # p "{i}(Ultimately...)"
+    p "{i}(В конце концов...)"
+
+# game/day20.rpy:969
+translate russian day20_b_licking_a55df5f2:
+
+    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
+    "{i}Без предупреждения ты хватаешь [b_name] за ноги и зарываешь лицо ей между бедрами. Ее тело мгновенно реагирует на шероховатость твоего языка, и она становится влажной в считанные секунды."
+
+# game/day20.rpy:970
+translate russian day20_b_licking_ab537a6c:
+
+    # p "Your body always betrays you, [b_name]."
+    p "Твое тело всегда предает тебя, [b_name]."
+
+# game/day20.rpy:971
+translate russian day20_b_licking_64819380:
+
+    # b "F-f-fuck you!"
+    b "П-п-пошел ты!"
+
+# game/day20.rpy:972
+translate russian day20_b_licking_ae14bf53:
+
+    # "{i}Your tongue is seemingly everywhere at once, stimulating her clitoris, caressing her labia and penetrating her moist gash."
+    "{i}Твой язык, кажется, находится везде одновременно, стимулирует ее клитор, ласкает ее половые губы и проникает в ее влажную киску."
+
+# game/day20.rpy:974
+translate russian day20_b_licking_807be6fe:
+
+    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
+    "{i}Все притворное раздражение покинуло [b_name], и она полностью поглощена твоим энергичным трахом языком."
+
+# game/day20.rpy:975
+translate russian day20_b_licking_8916675f:
+
+    # b "Ooooh!"
+    b "Ооооооох!"
+
+# game/day20.rpy:980
+translate russian day20_b_licking_a34e063e:
+
+    # "{i}Just when you notice she's ready to climax, you stop abruptly."
+    "{i}Как только ты замечаешь, что она готова к оргазму, ты резко останавливаешься."
+
+# game/day20.rpy:982
+translate russian day20_b_licking_06940249:
+
+    # p "That's enough for now."
+    p "На сегодня достаточно."
+
+# game/day20.rpy:983
+translate russian day20_b_licking_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Что?! Нет, ты не можешь..."
+
+# game/day20.rpy:984
+translate russian day20_b_licking_47fea10d:
+
+    # p "I can't?"
+    p "Я не могу?"
+
+# game/day20.rpy:985
+translate russian day20_b_licking_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Я просто... пошел ты нахуй!"
+
+# game/day20.rpy:986
+translate russian day20_b_licking_5366f9d4:
+
+    # p "Maybe I'll be back, maybe I won't..."
+    p "Возможно, я вернусь, а возможно, и нет."
+
+# game/day20.rpy:988
+translate russian day20_b_licking_a32e4def:
+
+    # "{i}You go back to your room, the taste of [b_name] still on your lips, as she remains behind, naked and confused."
+    "{i}Ты возвращаешься в свою комнату, вкус [b_name] все еще ощущается на твоих губах, а она остается у себя, обнаженная и сбитая с толку."
+
+# game/day20.rpy:1004
+translate russian day20_ri_sex_37f83a86:
+
+    # ri "You're here for the job interview?"
+    ri "Вы здесь для интервью по поводу работы?"
+
+# game/day20.rpy:1005
+translate russian day20_ri_sex_03af6b77:
+
+    # p "Wow, you're one sexy manager, Riley."
+    p "Вау, ты самая сексуальная управляющая из всех, что я знал, Райли."
+
+# game/day20.rpy:1010
+translate russian day20_ri_sex_a4f46328:
+
+    # ri "You think so?"
+    ri "Ты так думаешь?"
+
+# game/day20.rpy:1011
+translate russian day20_ri_sex_1f051601:
+
+    # p "I'm not sure if people would get much work done with you around in those clothes, but you do command a certain respect."
+    p "Я не уверен, что люди смогут хорошо работать с тобой в такой одежде, но ты вызываешь определенное уважение."
+
+# game/day20.rpy:1016
+translate russian day20_ri_sex_097ee088:
+
+    # p "God, I so want to see you naked."
+    p "Боже, я так хочу увидеть тебя голой."
+
+# game/day20.rpy:1017
+translate russian day20_ri_sex_2d101b07:
+
+    # ri "All in good time. As your superior we still need to do a very thorough final evaluation of your work as a supermarket employee."
+    ri "Всему свое время. Как ваш начальник я все еще должна провести очень тщательную ценку вашей работы в качестве сотрудника супермаркета."
+
+# game/day20.rpy:1019
+translate russian day20_ri_sex_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Хочешь выпить?"
+
+# game/day20.rpy:1020
+translate russian day20_ri_sex_da386a94:
+
+    # p "No thanks."
+    p "Нет, спасибо."
+
+# game/day20.rpy:1022
+translate russian day20_ri_sex_1a4fa82a:
+
+    # ri "Would you like to get more comfortable?"
+    ri "Тогда устроитесь поудобнее?"
+
+# game/day20.rpy:1023
+translate russian day20_ri_sex_adfb9188:
+
+    # p "That would be very nice."
+    p "Это было бы очень кстати."
+
+# game/day20.rpy:1024
+translate russian day20_ri_sex_047bd1f5:
+
+    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
+    ri "Я постоянно теряю свои очки. Я ведь только что достала их из ящика стола. Теперь у меня болят глаза."
+
+# game/day20.rpy:1025
+translate russian day20_ri_sex_dc21400d:
+
+    # p "They make you look a bit like Dame Edna as well..."
+    p "В них ты очень похожа на Малышеву..."
+
+# game/day20.rpy:1026
+translate russian day20_ri_sex_64fa58c0:
+
+    # ri "Wahaha! Fuck you, you're such a moodkiller!"
+    ri "Ахахаххаха! Да иди ты!"
+
+# game/day20.rpy:1027
+translate russian day20_ri_sex_804b5e65:
+
+    # p "Those glasses are not the only thing you can lose if I have anything to say about it. I would really like to see those beautiful breasts."
+    p "Эти очки-не единственное, что ты можешь потерять, если мне будет что сказать по этому поводу. Мне бы очень хотелось увидеть эту прекрасную грудь."
+
+# game/day20.rpy:1029
+translate russian day20_ri_sex_0618aa18:
+
+    # ri "So, have you thought about what you're going to do with me? Because as of right now, your evaluation is not looking good."
+    ri "Итак, вы подумали о том, что собираеетесь со мной делать? Потому что на данный момент ваша оценка выглядит не очень хорошо."
+
+# game/day20.rpy:1031
+translate russian day20_ri_sex_fc19827e:
+
+    # p "I didn't hear you complain the last time we were here..."
+    p "Я не слышал, чтобы ты жаловалась, когда мы были здесь в последний раз."
+
+# game/day20.rpy:1032
+translate russian day20_ri_sex_a3557f80:
+
+    # ri "Yes, that certainly works in your favor. But a girl wants more, you know."
+    ri "Да, это, безусловно, работает в вашу пользу. Но девушка хочет большего, ты же знаешь."
+
+# game/day20.rpy:1034
+translate russian day20_ri_sex_a1306849:
+
+    # p "I'll show you something..."
+    p "Я покажу кое-что..."
+
+# game/day20.rpy:1035
+translate russian day20_ri_sex_be0b6bd8:
+
+    # ri "I bet."
+    ri "Ну посмотрим."
+
+# game/day20.rpy:1036
+translate russian day20_ri_sex_10d940fa:
+
+    # p "You're still wearing too much clothing."
+    p "Ты все еще носишь слишком много одежды."
+
+# game/day20.rpy:1037
+translate russian day20_ri_sex_d3692d3d:
+
+    # ri "Really? I thought you liked me in a tight business skirt, wearing a revealing blouse. Your words."
+    ri "Правда? Я думала, что нравлюсь тебе в узкой деловой юбке и откровенной блузке. Ты сам говорил."
+
+# game/day20.rpy:1039
+translate russian day20_ri_sex_cb7d4554:
+
+    # ri "And now you've got me down to my heels. What's a girl gonna think?"
+    ri "А теперь ты... и что же девушка должна думать?"
+
+# game/day20.rpy:1040
+translate russian day20_ri_sex_da4426a8:
+
+    # p "Maybe that girl could suck on my big fat cock."
+    p "Может быть, этой девушке стоит о том, как отсосать мой большой толстый член."
+
+# game/day20.rpy:1041
+translate russian day20_ri_sex_ec5ad243:
+
+    # "{i}You lower your pants and reveal your dick, standing proud at the sight of Riley's naked body."
+    "{i}Ты спускаешь штаны и обнажаешь свой член, гордо стоя при виде обнаженного тела Райли."
+
+# game/day20.rpy:1042
+translate russian day20_ri_sex_4830d44d:
+
+    # ri "I must say, it looks rather appetizing."
+    ri "Надо сказать, выглядит довольно аппетитно."
+
+# game/day20.rpy:1047
+translate russian day20_ri_sex_24007305:
+
+    # "{i}Riley slides off the couch and squats before you, taking your entire member inside of her mouth using long strokes, stimulating the length of your cock."
+    "{i}Райли соскальзывает с дивана и садится на корточки перед тобой, беря весь твой член в рот долгими движениями, стимулируя всю его длину."
+
+# game/day20.rpy:1049
+translate russian day20_ri_sex_a5bc380a:
+
+    # p "God Riley, I didn't know you were so good at this."
+    p "Боже, Райли, я не знал, что ты так хороша в этом."
+
+# game/day20.rpy:1050
+translate russian day20_ri_sex_5448aaaf:
+
+    # "{i}Her wet lips slide over the veins of your dick, taking extra care of the sensitive area around your glans."
+    "{i}Ее влажные губы скользят по венам твоего члена, особенно заботясь о чувствительной области вокруг головки."
+
+# game/day20.rpy:1051
+translate russian day20_ri_sex_e3cf2e2a:
+
+    # ri "I didn't show you before, did I? You taste good, [p_name]."
+    ri "Я не показывала тебе раньше, что умею, не так ли? Но ты очень вкусный, [p_name]"
+
+# game/day20.rpy:1052
+translate russian day20_ri_sex_9f40793d:
+
+    # "{i}Riley returns to her cocksucking with renewed fervor. She applies so much suction that it almost seems that she wants to slurp the cum right out of you."
+    "{i}Райли возвращается к сосанию члена с новым пылом. Она применяет такие техники, что кажется, будто хочет выпить сперму прямо из тебя."
+
+# game/day20.rpy:1053
+translate russian day20_ri_sex_1ca99c8b:
+
+    # p "Woah, not so fast! I'm not ready to fill you up just yet."
+    p "Ого, не так быстро! Я еще не готов наполнить тебя."
+
+# game/day20.rpy:1054
+translate russian day20_ri_sex_a47b3cec:
+
+    # ri "Mmmmm. What do you have in mind?"
+    ri "Мммммм. И какие мысли?"
+
+# game/day20.rpy:1055
+translate russian day20_ri_sex_fe473b1d:
+
+    # p "Stand up and you'll see."
+    p "Вставай, и ты узнаешь."
+
+# game/day20.rpy:1062
+translate russian day20_ri_sex_a502271c:
+
+    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
+    "{i}Прижав свой твердый член к ее бедру, ты начинаешь массировать ее грудь, играя с ее твердыми сосками. После того, как ты слышишь ее стон, ты вводишь другую руку ей между ног."
+
+# game/day20.rpy:1063
+translate russian day20_ri_sex_f3b5ce36:
+
+    # ri "Ooooh!"
+    ri "Ооооххх!"
+
+# game/day20.rpy:1064
+translate russian day20_ri_sex_43488810:
+
+    # p "I'm going to fuck you so hard Riley, but first I have to make sure you're ready."
+    p "Я трахну тебя очень жестко, Райли, но сначала мне нужно убедиться, что ты готова."
+
+# game/day20.rpy:1065
+translate russian day20_ri_sex_5e5bbce4:
+
+    # ri "Oh, I'm ready."
+    ri "Ох, я готова..."
+
+# game/day20.rpy:1066
+translate russian day20_ri_sex_feacd9dc:
+
+    # "{i}At those words, you insert a finger inside her wet gash."
+    "{i}На этих словах ты вновь проникаешь в ее влажную щель своим пальцем."
+
+# game/day20.rpy:1067
+translate russian day20_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "Б-б-блять!"
+
+# game/day20.rpy:1068
+translate russian day20_ri_sex_2431c94e:
+
+    # "{i}You insert another finger inside of her and then another."
+    "{i}Ты вводишь тудаже второй палец, а затем и третий."
+
+# game/day20.rpy:1069
+translate russian day20_ri_sex_fdc0b456:
+
+    # p "I'm going to make you cum."
+    p "Я заставлю тебя кончить."
+
+# game/day20.rpy:1070
+translate russian day20_ri_sex_bd2ad48b:
+
+    # "{i}Riley just moans as you move your fingers inside of her, faster and faster, stimulating her g-spot."
+    "{i}Райли просто стонет, когда ты двигаешь пальцами внутри нее, все быстрее и быстрее, стимулируя ее точку G."
+
+# game/day20.rpy:1071
+translate russian day20_ri_sex_4df0219c:
+
+    # ri "F-f-fuck! What are you doing?!"
+    ri "Б-б-блять! Что ты делаешь?!"
+
+# game/day20.rpy:1072
+translate russian day20_ri_sex_665c9643:
+
+    # p "Sssssh..."
+    p "Шшшш..."
+
+# game/day20.rpy:1080
+translate russian day20_ri_sex_b2c986bb:
+
+    # "{i}The only thing coming from Riley at this moment are guttural sounds as she orgasms from your penetrating fingers. Her ejaculate is streaming down her inner thighs and even covers her taught calves as she struggles to stand straight on her high heels."
+    "{i}Единственное, что исходит от Райли в этот момент, - это гортанные звуки, когда она испытывает оргазм от твоих проникающих пальцев. Ее эякулят стекает по внутренним сторонам ее бедер и даже покрывает ее голени, когда она изо всех сил пытается стоять прямо на своих высоких каблуках."
+
+# game/day20.rpy:1081
+translate russian day20_ri_sex_099c6873:
+
+    # p "Now you're ready."
+    p "Теперь ты готова."
+
+# game/day20.rpy:1089
+translate russian day20_ri_sex_3a3a096f:
+
+    # "{i}With some encouragement and in the last throes of her orgasm, Riley kneels on the couch and you enter her dripping wet slit."
+    "{i}С некоторым поощрением и в последних муках оргазма Райли становится на колени на диване, и ты входишь в ее мокрую щель."
+
+# game/day20.rpy:1090
+translate russian day20_ri_sex_2aac7798:
+
+    # ri "Ah! Ah! It's so much!"
+    ri "Ах! Аххх! Он такой большой!"
+
+# game/day20.rpy:1091
+translate russian day20_ri_sex_a3c1f138:
+
+    # "{i}You immediately start with deep thrusts, nearly making Riley cum a second time. You slap her bouncing ass until red marks appear on her butt cheeks."
+    "{i}Ты сразу же начинаешь с глубоких толчков, почти заставляя Райли кончить во второй раз. Ты шлепаешь ее по подпрыгивающей заднице, пока на ягодицах не появляются красные пятна."
+
+# game/day20.rpy:1092
+translate russian day20_ri_sex_46c2ad50:
+
+    # ri "Fuck me harder, I want you so deep inside me, [p_name]!"
+    ri "Трахни меня сильнее, я хочу ощутить тебя так глубоко внутри себя, [p_name]!"
+
+# game/day20.rpy:1094
+translate russian day20_ri_sex_400b45ad:
+
+    # "{i}You turn the girl around and she pulls up a leg to give you even deeper access to the moist confines of her pussy."
+    "{i}Ты поворачиваешь девушку, и она подтягивает ногу, чтобы дать тебе еще более глубокий доступ к влажным границам ее киски."
+
+# game/day20.rpy:1095
+translate russian day20_ri_sex_4c3eed5f:
+
+    # ri "That's it, right t-there!"
+    ri "Вот так, да!"
+
+# game/day20.rpy:1096
+translate russian day20_ri_sex_e34f450a:
+
+    # "{i}You ram your dick inside of her until Riley's hoarse moans are filled with ultimate pleasure and you feel your orgasm starting to boil inside you."
+    "{i}Ты вбиваешь свой член в нее до тех пор, пока хриплые стоны Райли не наполняются предельным удовольствием, и ты чувствуешь, как твой оргазм начинает кипеть внутри тебя."
+
+# game/day20.rpy:1106
+translate russian day20_ri_sex_78cfc9ab:
+
+    # p "F-fuck yes! Aaaah!"
+    p "Б-блять! Да! Ааааххх!"
+
+# game/day20.rpy:1107
+translate russian day20_ri_sex_ab51dfe5:
+
+    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
+    "{i}Не останавливаясь, ты вводишь в нее свой пульсирующий член и разряжаешь густые потоки сливок внутри ее киски."
+
+# game/day20.rpy:1108
+translate russian day20_ri_sex_f3a9113e:
+
+    # ri "Don't pull out! I want every last drop inside of me."
+    ri "Не выходи! Я хочу, чтобы все до последней капли было внутри меня."
+
+# game/day20.rpy:1109
+translate russian day20_ri_sex_85a929de:
+
+    # "{i}Her tender pussy is filled with a mixture of your semen and her moisture, which eventually leaks from her gaping pussy. You stay inside her as long as possible, your cock still spurting tiny droplets of cum in the last remnants of your climax."
+    "{i}Ее нежная киска наполнена смесью твоей спермы и ее влаги, которая в конечном итоге вытекает из ее дырки. Ты остаешься внутри нее как можно дольше, твой член все еще извергает крошечные капельки спермы в последних остатках твоего оргазма."
+
+# game/day20.rpy:1126
+translate russian day20_ri_sex_d3c52b41:
+
+    # p "Open your mouth Riley."
+    p "Открой свой рот, Райли."
+
+# game/day20.rpy:1127
+translate russian day20_ri_sex_c13aa583:
+
+    # ri "I want to taste all of it."
+    ri "Я хочу все это."
+
+# game/day20.rpy:1128
+translate russian day20_ri_sex_78cfc9ab_1:
+
+    # p "F-fuck yes! Aaaah!"
+    p "Б-блять! Да! Ааааххх!"
+
+# game/day20.rpy:1129
+translate russian day20_ri_sex_34e79b12:
+
+    # "{i}Multiple streams of thick cream splash inside her mouth and on the side of her face. Delirious, she keeps your load inside of her open mouth, waiting for more and eventually swallowing your warm gift."
+    "{i}Несколько струй густых сливок брызгают ей в рот и на щеку. В бреду она держит твою сперму в своем открытом рту, ожидая большего и в конце концов проглатывая твой теплый подарок."
+
+# game/day20.rpy:1143
+translate russian day20_ri_sex_0dc5917c:
+
+    # "{i}At the last moment you pull your pulsating cock outside of her tender pussy and unload thick streams of cream on her belly. It slowly leaks down into her pubic hair and Riley deliriously rubs her body with your cum."
+    "{i}В последний момент ты вытаскиваешь свой пульсирующий член из ее нежной киски и сливаешь густые потоки семени ей на живот. Оно медленно стекает в ее лобковые волосы, и Райли обливает свое тело твоей спермой."
+
+# game/day20.rpy:1158
+translate russian day20_ri_sex_3321d927:
+
+    # p "I want to see your face when I cum, Riley."
+    p "Я хочу видеть твое лицо, когда буду кончать, Райли."
+
+# game/day20.rpy:1159
+translate russian day20_ri_sex_34ed9f2a:
+
+    # ri "I want to have all of it!"
+    ri "Я хочу все это!"
+
+# game/day20.rpy:1160
+translate russian day20_ri_sex_62b90f21:
+
+    # "{i}Multiple streams of thick cream splash on Riley's delirious face. There's so much of it that her shoulder and breasts are also covered in big splashes of your cum."
+    "{i}Несколько струй густых сливок брызнули на обезумевшее лицо Райли. Спермы так много, что ее плечи и грудь также покрыты большими каплями."
+
+# game/day20.rpy:1167
+translate russian day20_ri_sex_e87ec995:
+
+    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
+    "{i}В изнеможении ты падаешь на диван. Он остается теплым и скользким от соков ваших любовных ласк. Райли немного приводит себя в порядок и подползает к тебе."
+
+# game/day20.rpy:1169
+translate russian day20_ri_sex_e6a7377e:
+
+    # ri "I didn't know this evening was going to be so exciting."
+    ri "Я не знала, что этот вечер будет таким захватывающим."
+
+# game/day20.rpy:1170
+translate russian day20_ri_sex_d37fa892:
+
+    # p "I take employee performance reviews very, very seriously."
+    p "Я очень, очень серьезно отношусь к оценке эффективности работы сотрудников."
+
+# game/day20.rpy:1171
+translate russian day20_ri_sex_b6a69c3a:
+
+    # ri "I know that now."
+    ri "Теперь я это знаю."
+
+# game/day20.rpy:1172
+translate russian day20_ri_sex_ebc7bc5c:
+
+    # ri "Allow me to bestow the title 'Employee of the Year' on you. You're not working at the supermarket anymore, but who gives a fuck."
+    ri "Позвольте мне присвоить вам звание Работника года. Ты больше не работаешь в супермаркете, но кому какое дело."
+
+# game/day20.rpy:1173
+translate russian day20_ri_sex_de51156c:
+
+    # p "I'm absolutely honored."
+    p "Для меня это большая честь."
+
+# game/day20.rpy:1185
+translate russian day20_b_licking_night_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day20.rpy:1189
+translate russian day20_b_licking_night_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day20.rpy:1192
+translate russian day20_b_licking_night_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day20.rpy:1202
+translate russian day20_b_licking_night_b7545898:
+
+    # p "{i}(Let's make our [b_name] even more crazy...)"
+    p "{i}(Давайте сделаем [b_name] еще более сумасшедшей...)"
+
+# game/day20.rpy:1206
+translate russian day20_b_licking_night_c8f7ae42:
+
+    # p "I'm back."
+    p "Я вернулся."
+
+# game/day20.rpy:1207
+translate russian day20_b_licking_night_9aff4ccc:
+
+    # b "Fuck no. Not again."
+    b "Блять. Только не снова."
+
+# game/day20.rpy:1208
+translate russian day20_b_licking_night_56591090:
+
+    # p "You seemed to enjoy it earlier today."
+    p "Мне казалось, тебе нравилось это."
+
+# game/day20.rpy:1211
+translate russian day20_b_licking_night_b10c2834:
+
+    # "{i}You crawl onto the bed and open your sister's legs, removing her panties in one fell swoop."
+    "{i}Ты заползаешь на кровать и раздвигаешь ноги своей сестры, одним махом снимая с нее трусики."
+
+# game/day20.rpy:1213
+translate russian day20_b_licking_night_cb7230fb:
+
+    # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
+    "{i}Ты заползаешь на кровать и раздвигаешь ноги [b_name], одним махом снимая с нее трусики."
+
+# game/day20.rpy:1215
+translate russian day20_b_licking_night_e2d724e5:
+
+    # p "{i}(I went easy on [b_name] yesterday, but that blowjob sure left me wanting more.)"
+    p "{i}(Вчера с [b_name] мне было проще, но этот минет наверняка заставил меня хотеть большего.)"
+
+# game/day20.rpy:1216
+translate russian day20_b_licking_night_be898db7:
+
+    # p "{i}(I'm not sure how we're going to reach the next level. She took it in her mouth, but I'm pretty sure she isn't ready for anything more rigorous.)"
+    p "{i}(Я не уверен, как мы собираемся достичь следующего уровня. Она взяла его в рот, но я почти уверен, что она не готова к чему-то большему.)"
+
+# game/day20.rpy:1217
+translate russian day20_b_licking_night_8f914c0f:
+
+    # p "{i}(But I might get her where I want if I'm careful and patient. Let's see if I can make a start with her today.)"
+    p "{i}(Но я могу привести ее туда, куда хочу, если буду осторожен и терпелив. Посмотрим, смогу ли я продолжить сегодня.)"
+
+# game/day20.rpy:1221
+translate russian day20_b_licking_night_35ba70ca:
+
+    # b "What?"
+    b "Что?"
+
+# game/day20.rpy:1222
+translate russian day20_b_licking_night_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Просто раздевайся, я хочу попробовать твою киску."
+
+# game/day20.rpy:1223
+translate russian day20_b_licking_night_e352c4e7:
+
+    # b "I was going to sleep."
+    b "Я собираюсь спать."
+
+# game/day20.rpy:1224
+translate russian day20_b_licking_night_6d63ec83:
+
+    # p "No, you're not."
+    p "Нет, ты не занята."
+
+# game/day20.rpy:1225
+translate russian day20_b_licking_night_f4a6d83e:
+
+    # b "Yes, I am."
+    b "Да, я занята."
+
+# game/day20.rpy:1226
+translate russian day20_b_licking_night_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Ты будешь вести себя как ребенок? Знаешь, я мог бы просто сорвать с тебя одежду."
+
+# game/day20.rpy:1228
+translate russian day20_b_licking_night_e4f370a8:
+
+    # b "I know."
+    b "Я знаю."
+
+# game/day20.rpy:1231
+translate russian day20_b_licking_night_baa94679:
+
+    # "{i}Your sister reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Твоя сестра неохотно снимает одежду и ложится на кровать. Ты подползаешь к ней и раздвигаешь ей ноги."
+
+# game/day20.rpy:1233
+translate russian day20_b_licking_night_22d19280:
+
+    # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}[b_name] неохотно снимает одежду и ложится на кровать. Ты подползаешь к ней и раздвигаешь ей ноги."
+
+# game/day20.rpy:1239
+translate russian day20_b_licking_night_f8aece55:
+
+    # "{i}You firmly grasp her upper legs and go down on her pussy. The smell of her sex fills your nostrils and you begin to eat her out."
+    "{i}Ты крепко хватаешь ее за ноги и опускаешься на ее киску. Ее запах наполняет твои ноздри, и ты начинаешь ее лизать."
+
+# game/day20.rpy:1240
+translate russian day20_b_licking_night_49dff9a6:
+
+    # b "A-a-animal!"
+    b "Ж-ж-животное!"
+
+# game/day20.rpy:1241
+translate russian day20_b_licking_night_20e62e8f:
+
+    # p "Shall I roar for you like lion?"
+    p "Мне порычать для тебя, как лев?"
+
+# game/day20.rpy:1242
+translate russian day20_b_licking_night_4c747c64:
+
+    # "{i}The stimulation of [b_name]'s vagina isn't tender, only geared towards maximizing her pleasure. Your tongue is alternating between penetrating her slit and gyrating on her erect clit, all to build up to a monumental climax."
+    "{i}Стимуляция влагалища [b_name] совсем не нежна, она направлена только на то, чтобы максимизировать ее удовольствие. Твой язык попеременно то проникает в ее щель, то вращается на ее эрегированном клиторе, и все это для того, чтобы достичь божественного оргазма."
+
+# game/day20.rpy:1244
+translate russian day20_b_licking_night_8916675f:
+
+    # b "Ooooh!"
+    b "Ооооооох!"
+
+# game/day20.rpy:1245
+translate russian day20_b_licking_night_89365358:
+
+    # "{i}[b_name] wriggles beneath your touch and she crumples the bedsheets with her clawed hands. Every fiber of her body is ready for orgasmic release... And then you stop abruptly."
+    "{i}[b_name] извивается под твоим прикосновением, и она комкает простыни своими когтистыми руками. Каждая клеточка ее тела готова к оргазму... А потом ты резко останавливаешься."
+
+# game/day20.rpy:1251
+translate russian day20_b_licking_night_a04a6859:
+
+    # p "Good night, sweet sister."
+    p "Спокойной ночи, сестренка."
+
+# game/day20.rpy:1253
+translate russian day20_b_licking_night_d98faf4a:
+
+    # p "Good night, sweet [b_name]."
+    p "Спокойной ночи, [b_name]."
+
+# game/day20.rpy:1256
+translate russian day20_b_licking_night_370ba8fd:
+
+    # b "No! No! Not again!"
+    b "Нет! Нет! Только не снова!"
+
+# game/day20.rpy:1257
+translate russian day20_b_licking_night_66324063:
+
+    # b "Why?!"
+    b "Почему?!"
+
+# game/day20.rpy:1259
+translate russian day20_b_licking_night_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Что?! Нет, ты не можешь..."
+
+# game/day20.rpy:1260
+translate russian day20_b_licking_night_47fea10d:
+
+    # p "I can't?"
+    p "Я не могу?"
+
+# game/day20.rpy:1261
+translate russian day20_b_licking_night_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Я просто... пошел ты нахуй!"
+
+# game/day20.rpy:1262
+translate russian day20_b_licking_night_96c772af:
+
+    # p "I'm so tired, I really need to get some sleep."
+    p "Я так устал, мне правда нужно немного поспать."
+
+# game/day20.rpy:1263
+translate russian day20_b_licking_night_13af8e6a:
+
+    # p "I'm sure a good girl like you can finish it herself."
+    p "Я уверен, такая хорошая девочка, как ты, вполне способна завершить это самостоятельно."
+
+# game/day20.rpy:1265
+translate russian day20_b_licking_night_6fdb4e3f:
+
+    # b "You fucking asshole!"
+    b "Ты ебаный козел!"
+
+# game/day20.rpy:1266
+translate russian day20_b_licking_night_00d06707:
+
+    # p "{i}(She's nearly ready... I'm going to try my luck tomorrow.)"
+    p "{i}(Она почти готова... Завтра я собираюсь попытать счастья.)"
+
+# game/day20.rpy:1268
+translate russian day20_b_licking_night_38f95ab2:
+
+    # p "{i}(I'm not sure if this is enough, but I'm going to try my luck tomorrow.)"
+    p "{i}(Я не уверен, что этого достаточно, но завтра я собираюсь попытать счастья.)"
+

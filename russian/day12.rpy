@@ -2884,3 +2884,713 @@ translate russian day12_7575467a:
 
     # "{i}Just as you want to sit down and play a game, there's a knock on your door."
     "{i}Как только вы хотите сесть и поиграть в игру, к вам стучатся в дверь."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day12.rpy:206
+translate russian day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Лучше не беспокоить ее, но ничто не мешает мне получше рассмотреть эти великолепные сиськи.)"
+
+# game/day12.rpy:208
+translate russian day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Лучше позволить ей выспаться.)"
+
+# game/day12.rpy:216
+translate russian day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Господи Боже, [p_name], ты не можешь просто оставить меня в покое?!"
+
+# game/day12.rpy:218
+translate russian day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Просто поговорим, сестренка. Если, конечно, ты не хочешь чего-то большего..."
+
+# game/day12.rpy:220
+translate russian day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Просто поговорим, [b_name]. Если, конечно, ты не хочешь чего-то большего..."
+
+# game/day12.rpy:222
+translate russian day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "Нет, ты уже получил, что хотел, сегодня."
+
+# game/day12.rpy:223
+translate russian day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "Справедливо."
+
+# game/day12.rpy:224
+translate russian day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "Я действительно люблю природу, а ты?"
+
+# game/day12.rpy:225
+translate russian day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Пошел ты! Я хочу спать."
+
+# game/day12.rpy:226
+translate russian day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "Окей. Но у меня есть одна просьба."
+
+# game/day12.rpy:227
+translate russian day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "Только не снова..."
+
+# game/day12.rpy:228
+translate russian day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Пора взорвать эту бомбу...)"
+
+# game/day12.rpy:229
+translate russian day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "Я знаю, что у тебя есть игрушки..."
+
+# game/day12.rpy:232
+translate russian day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "так что в следующий раз, когда мы будем веселиться, ты будешь играть с ними, а я посмотрю."
+
+# game/day12.rpy:233
+translate russian day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "Я..."
+
+# game/day12.rpy:234
+translate russian day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "Как ты..."
+
+# game/day12.rpy:235
+translate russian day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "Ты рылся в моих вещах, маленький засранец?!"
+
+# game/day12.rpy:236
+translate russian day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(Ну, что-то типа того...)"
+
+# game/day12.rpy:239
+translate russian day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Знаешь. С такими словами мне начинает казаться, что мы должны сделать это сейчас."
+
+# game/day12.rpy:240
+translate russian day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Блять, нет... я не собираюсь..."
+
+# game/day12.rpy:241
+translate russian day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "Тогда скажи волшебное слово."
+
+# game/day12.rpy:242
+translate russian day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Блять."
+
+# game/day12.rpy:243
+translate russian day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}[b_name] идет в чулан и роется в нем. Она достает свой черный фаллоимитатор."
+
+# game/day12.rpy:244
+translate russian day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Хорошо. Теперь я хочу, чтобы ты отлично провела время."
+
+# game/day12.rpy:248
+translate russian day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Завтра. Ты, я, твоя игрушка и море веселья. Спокойной ночи, сестренка."
+
+# game/day12.rpy:250
+translate russian day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Завтра. Ты, я, твоя игрушка и море веселья. Спокойной ночи, [b_name]."
+
+# game/day12.rpy:258
+translate russian day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "{i}(Она сказала, что у Райли есть для меня подарок. Лучше проверить его.)"
+
+# game/day12.rpy:261
+translate russian day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Ты отправляешься по адресу, который прислала Райли. Жилой дом недалеко от центра города. Ты звонишь в звонок, и она звонит тебе. Пройдя несколько лестничных пролетов, ты попадаешь в парадную дверь, которая уже приоткрыта."
+
+# game/day12.rpy:264
+translate russian day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Привет!"
+
+# game/day12.rpy:265
+translate russian day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "Привет."
+
+# game/day12.rpy:266
+translate russian day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Хочешь выпить?"
+
+# game/day12.rpy:267
+translate russian day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "У тебя есть пиво?"
+
+# game/day12.rpy:268
+translate russian day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "Конечно."
+
+# game/day12.rpy:269
+translate russian day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Покопавшись в холодильнике, Райли протягивает тебе холодное пиво. Она тоже открывает одну бутылку для себя."
+
+# game/day12.rpy:270
+translate russian day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "Будем!"
+
+# game/day12.rpy:271
+translate russian day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "Бля будем!"
+
+# game/day12.rpy:273
+translate russian day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Чувак, что за день вчера был!"
+
+# game/day12.rpy:274
+translate russian day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "Да, это просто что-то."
+
+# game/day12.rpy:276
+translate russian day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "Твоя сестра в порядке?"
+
+# game/day12.rpy:278
+translate russian day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "Твоя подруга в порядке?"
+
+# game/day12.rpy:279
+translate russian day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Да, на самом деле она очень хорошо восприняла эти новости. Довольно удивительно, на самом деле."
+
+# game/day12.rpy:280
+translate russian day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "В глубине души она, должно быть, уже знала, что этот чертов Броуди был полным мудаком."
+
+# game/day12.rpy:281
+translate russian day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Жаль, что она не поняла этого раньше. Ну по крайней мере, все закончилось хорошо."
+
+# game/day12.rpy:282
+translate russian day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Броуди провел остаток дня... э... обновляя свой офис. Несколько клиентов, которые у нас были, были полностью сбиты с толку звуками разбрасываемой мебели и всеми криками..."
+
+# game/day12.rpy:283
+translate russian day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "Этот ублюдок даже приказал мне заказать новую офисную мебель в конце дня. Все разгромил."
+
+# game/day12.rpy:284
+translate russian day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "По крайней мере, он избавился от этой ярости..."
+
+# game/day12.rpy:285
+translate russian day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "Надеюсь, это не станет его ежедневной работой."
+
+# game/day12.rpy:286
+translate russian day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Думаю, все исправится, когда его подруга нанесет ему очередной анальный визит."
+
+# game/day12.rpy:288
+translate russian day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "Фууууууу!"
+
+# game/day12.rpy:290
+translate russian day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "Еще пива?"
+
+# game/day12.rpy:291
+translate russian day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "Конечно, похоже, с этим я уже закончил."
+
+# game/day12.rpy:292
+translate russian day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Райли возвращается из кухни с двумя бутылками пива и насмешливой улыбкой на лице."
+
+# game/day12.rpy:293
+translate russian day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Слушай, [p_name]. Знаешь, ты мне нравишься, и мы пару раз поцеловались... И мне хочется, чтобы все было ясно."
+
+# game/day12.rpy:294
+translate russian day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(Это само по себе довольно неясное утверждение, но ничего страшного.)"
+
+# game/day12.rpy:296
+translate russian day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "Ты хочешь заняться со мной безумным сексом?"
+
+# game/day12.rpy:298
+translate russian day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "Ты хочешь провести со мной ночь?"
+
+# game/day12.rpy:302
+translate russian day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Знаешь... ты делаешь действительно потрясающие подарки."
+
+# game/day12.rpy:303
+translate russian day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "Я рада, что ты так думаешь."
+
+# game/day12.rpy:304
+translate russian day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Вперед."
+
+# game/day12.rpy:310
+translate russian day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Я... я думал, это будет просто дружеская встреча."
+
+# game/day12.rpy:312
+translate russian day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Боже. Ты действительно плохо разбираешься в инсинуациях, не так ли? Мне нужно было объяснить?"
+
+# game/day12.rpy:313
+translate russian day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "Я лучше пойду."
+
+# game/day12.rpy:314
+translate russian day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Думаю да."
+
+# game/day12.rpy:322
+translate russian day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}Уже поздно вечером ты идешь в комнату [l_name], чтобы забрать ее на вечеринку."
+
+# game/day12.rpy:324
+translate russian day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "Привет, тусовщица, готова идти?"
+
+# game/day12.rpy:325
+translate russian day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Да-да!"
+
+# game/day12.rpy:327
+translate russian day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Вместе с [l_name] вы отправляетесь в ночной клуб в центре города."
+
+# game/day12.rpy:333
+translate russian day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "Музыка довольно громкая, правда?"
+
+# game/day12.rpy:334
+translate russian day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "Да, ты к этому привыкнешь. Давай найдем более тихое место и выпьем."
+
+# game/day12.rpy:335
+translate russian day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "Что бы ты хотела?"
+
+# game/day12.rpy:336
+translate russian day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "Воды?"
+
+# game/day12.rpy:341
+translate russian day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "Мы на вечеринке, [l_name], вода - не совсем то самое топливо для них."
+
+# game/day12.rpy:342
+translate russian day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "Хорошо. Что бы ты порекомендовал?"
+
+# game/day12.rpy:343
+translate russian day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "Может вина или чего-нибудь покрепче?"
+
+# game/day12.rpy:344
+translate russian day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "Я не знаю..."
+
+# game/day12.rpy:345
+translate russian day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Все еще такая сдержанная...)"
+
+# game/day12.rpy:346
+translate russian day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "Знаешь что, я бы хотела бокал белого вина."
+
+# game/day12.rpy:347
+translate russian day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "Отлично! Белое вин оскоро будет."
+
+# game/day12.rpy:348
+translate russian day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Ты берешь [l_name] бокал вина и пиво себе."
+
+# game/day12.rpy:350
+translate russian day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Ты берешь [l_name] бутылку воды и пиво себе."
+
+# game/day12.rpy:353
+translate russian day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "Тут не так уж и полно народу, да?"
+
+# game/day12.rpy:354
+translate russian day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "Нет, какая-то вялая ночка. Но это означает, что весь танцпол будет наш!"
+
+# game/day12.rpy:355
+translate russian day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "Не уверена, что хочу танцевать."
+
+# game/day12.rpy:356
+translate russian day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "Тебе не нужно делать ничего, чего ты не хочешь. Просто веселись!"
+
+# game/day12.rpy:357
+translate russian day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "Не беспокойся."
+
+# game/day12.rpy:703
+translate russian day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "{i}(Ее оголенное тело - просто подарок...)"
+
+# game/day12.rpy:704
+translate russian day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(У меня есть идея...)"
+
+# game/day12.rpy:709
+translate russian day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Ты двигаешь свои руки к ее бедрам. Легкий стон вырывается из ее рта, когда ты трогаешь ее кожу своими пальцами и медленно проникаешь к внутренней стороне ее ног."
+
+# game/day12.rpy:710
+translate russian day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "мммм..."
+
+# game/day12.rpy:711
+translate russian day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(Пока что все хорошо.)"
+
+# game/day12.rpy:712
+translate russian day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Когда ты нежно поглаживаешь область вокруг ее киски, ее ноги призывно раздвигаются."
+
+# game/day12.rpy:715
+translate russian day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(У моей сестры самая прекрасная девственная киска.)"
+
+# game/day12.rpy:717
+translate russian day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}(У [r_name] самая прекрасная девственная киска.)"
+
+# game/day12.rpy:722
+translate russian day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Очень осторожно ты проводишь двумя пальцами по длине ее щели и ощупываешь ее влажные губы."
+
+# game/day12.rpy:723
+translate russian day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(Она ко всему готова.)"
+
+# game/day12.rpy:724
+translate russian day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Ты продолжаешь растирать ее половые губы пальцами и массировать ее грудь."
+
+# game/day12.rpy:725
+translate russian day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "мммм..."
+
+# game/day12.rpy:728
+translate russian day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Как только ты начинаешь массировать ее клитор, ее глаза открываются."
+
+# game/day12.rpy:729
+translate russian day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "Д-д-доброе утро..."
+
+# game/day12.rpy:730
+translate russian day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Привет..."
+
+# game/day12.rpy:731
+translate russian day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "Мне остановиться?"
+
+# game/day12.rpy:732
+translate russian day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "О, боже, нет!"
+
+# game/day12.rpy:734
+translate russian day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Окрыленный ее словами, вы обращаете все свое внимание на ее клитор [имя_р] задыхается, когда вы вводите палец в ее влажную киску."
+
+# game/day12.rpy:735
+translate russian day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "Ааааах! Да!"
+
+# game/day12.rpy:737
+translate russian day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Твоя сестра хватает руку, которая стимулирует ее клитор, и сильнее прижимает ее к нему."
+
+# game/day12.rpy:739
+translate russian day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] хватает руку, которая стимулирует ее клитор, и сильнее прижимает ее к нему"
+
+# game/day12.rpy:740
+translate russian day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "Я так сильно хочу тебя, [p_name]!"
+
+# game/day12.rpy:741
+translate russian day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Ты скользишь пальцами внутрь и наружу ее киски, покрытой соком. Когда ты массируешь ее клитор еще интенсивнее, ты чувствуешь, как ее тело напрягается, готовое кончить."
+
+# game/day12.rpy:749
+translate russian day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "Аааааааах! Ааааааааааааах! [p_name]!!!"
+
+# game/day12.rpy:750
+translate russian day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}Ее оргазм продолжительный и мощный, тело [r_name] вздрагивает, когда она держит твою руку возле своей киски."
+
+# game/day12.rpy:756
+translate russian day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Через некоторое время ее судороги прекращаются, и она со вздохом прижимается к тебе."
+
+# game/day12.rpy:757
+translate russian day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Что за прекрасный способ проснуться..."
+
+# game/day12.rpy:758
+translate russian day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Ты была так прекрасна прошлой ночью, так что я подумал, что мог бы тебя наградить."
+
+# game/day12.rpy:759
+translate russian day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Именно то, что мне было нужно."
+
+# game/day12.rpy:760
+translate russian day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "Занята сегодня?"
+
+# game/day12.rpy:761
+translate russian day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Да, я ухожу. Ана попросила меня приехать. Ты?"
+
+# game/day12.rpy:762
+translate russian day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "Похоже, сегодня будет очередной скучный день, но я не против."
+
+# game/day12.rpy:763
+translate russian day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}После коротких объятий вы оба встаете и завтракаете."
+

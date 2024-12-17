@@ -5271,3 +5271,41 @@ translate russian day141_l_pool_5df15299:
 
     # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
     "{i}Вы массируете ноги [l_name] с солнцезащитным кремом и также растираете ей живот."
+# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day141.rpy:1185
+translate russian day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Беременна ли [l_name] в этой сцене"
+
+# game/day141.rpy:1189
+translate russian day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] беременная"
+
+# game/day141.rpy:1192
+translate russian day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] не беременна"
+
+# game/day141.rpy:1442
+translate russian day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Беременна ли [m_name] в этой сцене"
+
+# game/day141.rpy:1446
+translate russian day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] беременная"
+
+# game/day141.rpy:1449
+translate russian day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] не беременна"
+

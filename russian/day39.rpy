@@ -7126,4 +7126,65 @@ translate russian day39_r_b_m_fucking_c9ef9231:
 translate russian day39_r_b_m_fucking_3d5a6bf4:
 
     # r "Neither have I..."
-    r "И я тоже..."
+    r "И я тоже..."# TODO: Translation updated at 2024-11-17 22:06
+
+# game/day39.rpy:1294
+translate russian day39_r_b_l_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Является ли [b_name] покорным в этой сцене"
+
+# game/day39.rpy:1300
+translate russian day39_r_b_l_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day39.rpy:1304
+translate russian day39_r_b_l_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day39.rpy:1307
+translate russian day39_r_b_l_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day39.rpy:1312
+translate russian day39_r_b_l_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] не покорный"
+
+# game/day39.rpy:1960
+translate russian day39_r_b_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Является ли [b_name] покорным в этой сцене"
+
+# game/day39.rpy:1966
+translate russian day39_r_b_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Является ли [b_name] полноценным сабом в этой сцене?"
+
+# game/day39.rpy:1970
+translate russian day39_r_b_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] полностью submissiv"
+
+# game/day39.rpy:1973
+translate russian day39_r_b_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] не полностью покорный"
+
+# game/day39.rpy:1978
+translate russian day39_r_b_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] не покорный"
+
