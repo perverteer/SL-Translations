@@ -4654,7 +4654,7 @@ translate italian day31_discreet_fuck_f35a4208:
 translate italian day31_b371a5a3_1:
 
     # b "She knows, [p_name], she saw us..."
-    b "Lei sa che [p_nome] ci ha visti..."
+    b "Lei sa che [p_name] ci ha visti..."
 
 # game/day31.rpy:336
 translate italian day31_choices_9c002d71_1:

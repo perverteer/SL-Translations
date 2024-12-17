@@ -5302,4 +5302,41 @@ translate italian day141_evening_choices_0b8ba65e:
 translate italian day141_l_pool_5df15299:
 
     # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
-    "{i}Massaggiate le gambe di [l_name] con la crema solare e strofinatele anche la pancia."
+    "{i}Massaggiate le gambe di [l_name] con la crema solare e strofinatele anche la pancia."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day141.rpy:1185
+translate italian day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] è incinta in questa scena?."
+
+# game/day141.rpy:1189
+translate italian day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] incinta"
+
+# game/day141.rpy:1192
+translate italian day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] non è incinta"
+
+# game/day141.rpy:1442
+translate italian day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] è incinta in questa scena?."
+
+# game/day141.rpy:1446
+translate italian day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] incinta"
+
+# game/day141.rpy:1449
+translate italian day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] non incinta"
+

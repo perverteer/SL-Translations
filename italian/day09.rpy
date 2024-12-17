@@ -4100,13 +4100,13 @@ translate italian day09_976e5457:
 translate italian day09_4458ac3a:
 
     # woman "Good morning, Mr. Holmes."
-    donna "Buongiorno signor Holmes"
+    woman "Buongiorno signor Holmes"
 
 # game/day09.rpy:108
 translate italian day09_5f7c826f:
 
     # woman "I'm afraid I have bad news. Based on the results of the test, we cannot accept you as our client."
-    donna "Temo di avere brutte notizie In base ai risultati del test non possiamo accettarla come cliente."
+    woman "Temo di avere brutte notizie In base ai risultati del test non possiamo accettarla come cliente."
 
 # game/day09.rpy:131
 translate italian day09_87ae354c:
@@ -4282,4 +4282,17 @@ translate italian day09_maid_a62516ba:
 translate italian day09_r_l_shopping_choices_fedcbc1a:
 
     # "{i}Reluctantly, [l_name] disappears into the booth."
-    "{i}Con riluttanza [l_nome] scompare nella cabina."
+    "{i}Con riluttanza [l_name] scompare nella cabina."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day09.rpy:1268
+translate italian day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Probabilmente tornerà a casa in tarda serata)."
+
+# game/day09.rpy:1274
+translate italian day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Facciamo una buona notte di sonno)"
+

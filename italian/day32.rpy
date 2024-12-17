@@ -5570,13 +5570,13 @@ translate italian day32_evening_choices_1ca31b28:
 translate italian day32_evening_choices_f4c4dc9e:
 
     # centered "{i}Meanwhile, back at the family home..."
-    centrato "{i}Mentre si torna a casa della famiglia"
+    centered "{i}Mentre si torna a casa della famiglia"
 
 # game/day32.rpy:885
 translate italian day32_evening_choices_9eb61ddc:
 
     # centered "{i}Meanwhile, back at your home..."
-    centrato "{i}Mentre si torna a casa tua"
+    centered "{i}Mentre si torna a casa tua"
 
 # game/day32.rpy:927
 translate italian day32_r_concert_hallway_post_f6e04b76:
@@ -5654,4 +5654,11 @@ translate italian day32_p_room_scene_5fb57633:
 translate italian day32_p_room_scene_6b22c18c:
 
     # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
-    "{i}Dopo un breve momento di confusione, si nota la persona seduta su una sedia accanto al letto."
+    "{i}Dopo un breve momento di confusione, si nota la persona seduta su una sedia accanto al letto."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day32.rpy:913
+translate italian day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Molto stanchi vi spogliate e cadete sul vostro materasso sperando che il sonno vi colga."
+

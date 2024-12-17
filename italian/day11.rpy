@@ -4788,7 +4788,7 @@ translate italian day11_r_hj_4b50cbe1:
 translate italian day11_p_room_evening_choices_d2e7bb1d:
 
     # "{i}After a short walk you arrive at the bar [b_name] has chosen."
-    "{i}Dopo una breve passeggiata si arriva al bar che [b_nome] ha scelto."
+    "{i}Dopo una breve passeggiata si arriva al bar che [b_name] ha scelto."
 
 # game/day11.rpy:1010
 translate italian day11_b_conversation_soft_e05b9819_1:
@@ -4802,4 +4802,36 @@ translate italian b_relationship_hard_drive_choices_e8f0e434:
 
     # p "{i}(...)"
     p "{i}(...)"
+
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day11.rpy:1191
+translate italian day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "Allora andiamo a coccolarci e ad addormentarci insieme!."
+
+# game/day11.rpy:1192
+translate italian day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Grande idea"
+
+# game/day11.rpy:1195
+translate italian day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Ti addormenti con tua sorella nuda accanto a te Il tuo membro gonfio spinge delicatamente contro il suo sedere morbido, ma a lei non sembra dispiacere, a giudicare dal suo mormorio tranquillo e soddisfatto."
+
+# game/day11.rpy:1197
+translate italian day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Ti addormenti con [r_name] accanto a te Il tuo membro gonfio spinge delicatamente contro il suo sedere morbido, ma a lei non sembra dispiacere, a giudicare dal suo mormorio tranquillo e soddisfatto."
+
+# game/day11.rpy:1202
+translate italian day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Non appena si appoggia la testa al cuscino ci si addormenta."
 

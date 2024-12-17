@@ -1858,3 +1858,53 @@ translate italian strings:
     old "Read the book"
     new "Leggi il libro"
 
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day02.rpy:751
+translate italian day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Perché mai [m_name] dovrebbe leggere queste porcherie?)."
+
+# game/day02.rpy:752
+translate italian day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(E lo stava leggendo sul divano del salotto, tra tutti i posti Incredibile)."
+
+# game/day02.rpy:753
+translate italian day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Chissà cos'altro ha da nascondere)"
+
+# game/day02.rpy:755
+translate italian day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(La mia nuova famiglia sta diventando sempre più interessante)"
+
+# game/day02.rpy:757
+translate italian day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(I miei nuovi amici diventano sempre più interessanti)."
+
+# game/day02.rpy:769
+translate italian day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(Non c'è niente da vedere qui Meglio andarsene)"
+
+# game/day02.rpy:779
+translate italian day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Torna nella tua stanza e vai a letto."
+
+# game/day02.rpy:781
+translate italian day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Decidi di essere una persona responsabile e di andare subito a letto."
+

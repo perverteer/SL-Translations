@@ -4178,4 +4178,987 @@ translate italian day29_l_delivery_post_99230514:
 translate italian day29_l_delivery_post_651c45ac:
 
     # "{i}Despite the uncomfortable surroundings, you feel your eyelids grow heavy, and soon you fall asleep, your friend's naked body lying half on top of you in a tight embrace."
-    "{i}Nonostante l'ambiente scomodo, sentite le palpebre farsi pesanti e presto vi addormentate con il corpo nudo del vostro amico che giace per metà sopra di voi in uno stretto abbraccio."
+    "{i}Nonostante l'ambiente scomodo, sentite le palpebre farsi pesanti e presto vi addormentate con il corpo nudo del vostro amico che giace per metà sopra di voi in uno stretto abbraccio."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day29.rpy:881
+translate italian day29_b_sex_09609a9f:
+
+    # "{i}[b_name]'s door is open, you peek around the corner and see the girl lying on the bed."
+    "{i}[b_name] la porta è aperta, sbirciate dietro l'angolo e vedete la ragazza sdraiata sul letto."
+
+# game/day29.rpy:882
+translate italian day29_b_sex_94b27143:
+
+    # p "{i}(Looks like [b_name] is enjoying a magazine.)"
+    p "{i}(Sembra che [b_name] si stia godendo una rivista)"
+
+# game/day29.rpy:883
+translate italian day29_b_sex_5860ae81:
+
+    # p "{i}(Let's see if she's been an obedient girl and have some fun...)"
+    p "{i}(Vediamo se è stata una ragazza obbediente e divertiamoci un po')."
+
+# game/day29.rpy:890
+translate italian day29_b_sex_ccc63a0e:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your sister's eyes go wide and look around in panic."
+    "{i}Mentre alzi la manopola dell'intensità del vibratore, vedi gli occhi di tua sorella spalancarsi e guardarsi intorno in preda al panico."
+
+# game/day29.rpy:892
+translate italian day29_b_sex_7311f431:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your girl's eyes go wide and look around in panic."
+    "{i}Mentre alzi la manopola dell'intensità del vibratore, vedi gli occhi della tua ragazza spalancarsi e guardarsi intorno in preda al panico."
+
+# game/day29.rpy:893
+translate italian day29_b_sex_a3c1c5ed:
+
+    # b "Fuck no, [p_name], not now."
+    b "Cazzo no [p_name] non ora"
+
+# game/day29.rpy:894
+translate italian day29_b_sex_a6d25133:
+
+    # p "{i}(She doesn't seem to realize that I'm very close by.)"
+    p "{i}(Sembra che non si renda conto che sono molto vicino)."
+
+# game/day29.rpy:899
+translate italian day29_b_sex_2638393a:
+
+    # b "Ugh, that fucking thing... Mmmmm..."
+    b "Ugh quella cazzo di cosa Mmmmm."
+
+# game/day29.rpy:900
+translate italian day29_b_sex_0e1021c1:
+
+    # b "Shit, it's so intense..."
+    b "Merda, è così intenso."
+
+# game/day29.rpy:902
+translate italian day29_b_sex_de6f24a9:
+
+    # b "Stop it..."
+    b "Smettila"
+
+# game/day29.rpy:903
+translate italian day29_b_sex_c7443339:
+
+    # b "Make it stop..."
+    b "Fallo smettere"
+
+# game/day29.rpy:904
+translate italian day29_b_sex_54161e51:
+
+    # b "Aaah!"
+    b "Aaah!"
+
+# game/day29.rpy:905
+translate italian day29_b_sex_eca6f8a6:
+
+    # b "I don't want it to stop..."
+    b "Non voglio che si fermi."
+
+# game/day29.rpy:910
+translate italian day29_b_sex_41773800:
+
+    # "{i}When [b_name] removes her panties and starts to finger herself, you decide it's a good time to make your presence known."
+    "{i}Quando [b_name] si toglie le mutandine e inizia a farsi un ditalino, decidi che è il momento giusto per far notare la tua presenza."
+
+# game/day29.rpy:916
+translate italian day29_b_sex_2a28189e:
+
+    # p "{i}(Looks like [b_name] is enjoying herself without me... Why on earth did she leave the door open?!)"
+    p "{i}(Sembra che [b_name] si stia divertendo senza di me Perché mai ha lasciato la porta aperta?!)"
+
+# game/day29.rpy:917
+translate italian day29_b_sex_eab4a24c:
+
+    # p "{i}(We can't have that.)"
+    p "{i}(Non possiamo permetterlo)"
+
+# game/day29.rpy:922
+translate italian day29_b_sex_515e4abf:
+
+    # p "My dear [b_name], are you preparing yourself for me?"
+    p "Mio caro [b_name] ti stai preparando per me?."
+
+# game/day29.rpy:923
+translate italian day29_b_sex_adae013b:
+
+    # b "Fuck."
+    b "Cazzo"
+# game/day29.rpy:924
+translate italian day29_b_sex_49f4c2a6:
+
+    # b "No. Of course not."
+    b "No, certo che no."
+
+# game/day29.rpy:925
+translate italian day29_b_sex_fc5c4f16:
+
+    # p "Sure you are."
+    p "Certo che lo sei"
+
+# game/day29.rpy:926
+translate italian day29_b_sex_11a28985:
+
+    # p "The sight of you fingering your pussy like that has made me a little anxious."
+    p "La vista di te che ti sditalinavi la figa in quel modo mi ha messo un po' d'ansia."
+
+# game/day29.rpy:927
+translate italian day29_b_sex_4d0bd3e2:
+
+    # p "Why don't we do something about that. Together."
+    p "Perché non facciamo qualcosa per questo insieme."
+
+# game/day29.rpy:928
+translate italian day29_b_sex_5f43804c:
+
+    # b "What do you want?"
+    b "Cosa vuoi?"
+
+# game/day29.rpy:930
+translate italian day29_b_sex_a36db4fe:
+
+    # p "Let's remove that toy first."
+    p "Prima togliamo quel giocattolo."
+
+# game/day29.rpy:931
+translate italian day29_b_sex_b6197f6d:
+
+    # b "About fucking time."
+    b "Era ora, cazzo"
+
+# game/day29.rpy:932
+translate italian day29_b_sex_936e34c9:
+
+    # p "Spread those beautiful legs for me."
+    p "Allarga quelle belle gambe per me."
+
+# game/day29.rpy:934
+translate italian day29_b_sex_83c0ee96:
+
+    # "{i}You pull the still vibrating egg out of [b_name]'s pussy, causing her some discomfort."
+    "{i}Tiri fuori l'uovo ancora vibrante dalla figa di [b_name], provocandole un certo disagio."
+
+# game/day29.rpy:936
+translate italian day29_b_sex_936e34c9_1:
+
+    # p "Spread those beautiful legs for me."
+    p "Allarga quelle belle gambe per me."
+
+# game/day29.rpy:939
+translate italian day29_b_sex_fd6e5a3b:
+
+    # p "I see you're already nice and wet."
+    p "Vedo che sei già bello bagnato."
+
+# game/day29.rpy:940
+translate italian day29_b_sex_cff7f4a6:
+
+    # b "That changed as soon as you walked in."
+    b "La situazione è cambiata non appena sei entrato."
+
+# game/day29.rpy:941
+translate italian day29_b_sex_f2d3ad6f:
+
+    # p "Really now."
+    p "Davvero adesso"
+
+# game/day29.rpy:942
+translate italian day29_b_sex_88dd7b36:
+
+    # p "Let's not waste more time then."
+    p "Non perdiamo altro tempo, allora."
+
+# game/day29.rpy:948
+translate italian day29_b_sex_6dbdb5f6:
+
+    # "{i}You push the tip of your dick against her labia and move it up and down, sending bolts of pleasure through your body and wetting your sister's pussy again."
+    "{i}Spingi la punta del tuo cazzo contro le sue labbra e muovilo su e giù, mandando scosse di piacere attraverso il tuo corpo e bagnando di nuovo la figa di tua sorella."
+
+# game/day29.rpy:950
+translate italian day29_b_sex_73ac75e9:
+
+    # "{i}You push the tip of your dick against her lips and move it up and down, sending bolts of pleasure through your body and wetting your girl's pussy again."
+    "{i}Spingi la punta del tuo cazzo contro le sue labbra e muovilo su e giù, mandando scosse di piacere attraverso il tuo corpo e bagnando di nuovo la figa della tua ragazza."
+
+# game/day29.rpy:955
+translate italian day29_b_sex_916b0812:
+
+    # "{i}[b_name] tries very hard to not make any noises, but ultimately fails as your veined shaft slides between her pussy lips."
+    "{i}[b_name] si sforza di non emettere alcun rumore, ma alla fine non ci riesce quando la tua asta venata scivola tra le labbra della sua figa."
+
+# game/day29.rpy:956
+translate italian day29_b_sex_1e90da1c:
+
+    # "{i}Her breathing is measured by the rhythm of your cock slamming inside her, not pausing once to let her catch her breath."
+    "{i}Il suo respiro è misurato dal ritmo del tuo cazzo che sbatte dentro di lei senza fermarsi una volta per farle riprendere fiato."
+
+# game/day29.rpy:958
+translate italian day29_b_sex_33d36af8:
+
+    # p "Goddamn, you're so fucking amazing."
+    p "Dannazione, sei così fottutamente fantastico."
+
+# game/day29.rpy:959
+translate italian day29_b_sex_bb01cc2e:
+
+    # p "And you're mine."
+    p "E tu sei mio"
+
+# game/day29.rpy:960
+translate italian day29_b_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day29.rpy:961
+translate italian day29_b_sex_d6d9f012:
+
+    # p "Say it..."
+    p "Dillo"
+
+# game/day29.rpy:962
+translate italian day29_b_sex_6fc22704_1:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day29.rpy:963
+translate italian day29_b_sex_f0e66e5a:
+
+    # p "Say it, or I'll stop."
+    p "Dillo o mi fermo."
+
+# game/day29.rpy:964
+translate italian day29_b_sex_4df92309:
+
+    # b "I... Fuck... I'm yours!"
+    b "Cazzo, sono tuo!."
+
+# game/day29.rpy:965
+translate italian day29_b_sex_eaa9ca80:
+
+    # p "Good girl."
+    p "Brava ragazza"
+
+# game/day29.rpy:966
+translate italian day29_b_sex_86dd199b:
+
+    # p "Now turn around."
+    p "Ora girati"
+
+# game/day29.rpy:973
+translate italian day29_b_sex_c1313980:
+
+    # "{i}Firmly, you grab the sides of her body and continue your assault on her pussy. [b_name] just lets it happen, breathing raggedly and moaning, a faint smile on her face."
+    "{i}Con fermezza afferri i lati del suo corpo e continui l'assalto alla sua figa [b_name] si limita a lasciarlo fare respirando affannosamente e gemendo con un lieve sorriso sul viso."
+
+# game/day29.rpy:974
+translate italian day29_b_sex_9cf11fcf:
+
+    # "{i}You have a magnificent view of her ass which is bouncing seductively."
+    "{i}Hai una vista magnifica del suo culo che rimbalza in modo seducente."
+
+# game/day29.rpy:976
+translate italian day29_b_sex_6329f807:
+
+    # p "You liked that dildo up your ass, didn't you, [b_name]?"
+    p "Ti è piaciuto quel dildo nel culo, vero [b_name]?."
+
+# game/day29.rpy:977
+translate italian day29_b_sex_df44d03d:
+
+    # b "No!"
+    b "No!"
+
+# game/day29.rpy:978
+translate italian day29_b_sex_dd529617:
+
+    # p "Liar, you told me so."
+    p "Bugiardo, me l'avevi detto"
+
+# game/day29.rpy:980
+translate italian day29_b_sex_f4fb6a6a:
+
+    # b "Don't do it!"
+    b "Non farlo!"
+
+# game/day29.rpy:981
+translate italian day29_b_sex_90aaadf8:
+
+    # p "Relax..."
+    p "Relax"
+
+# game/day29.rpy:982
+translate italian day29_b_sex_b26f9d22:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Le sputi tra le chiappe mentre continui a scoparla La saliva scende verso l'ano e si mescola ai succhi della sua figa."
+
+# game/day29.rpy:984
+translate italian day29_b_sex_b3759eda:
+
+    # "{i}The sight of her winking asshole gives you an idea."
+    "{i}La vista del suo buco del culo ammiccante ti dà un'idea."
+
+# game/day29.rpy:985
+translate italian day29_b_sex_4f0022a4:
+
+    # p "Your ass is so fine."
+    p "Il tuo culo è così bello"
+
+# game/day29.rpy:986
+translate italian day29_b_sex_a6a16b10:
+
+    # b "Mmm..."
+    b "Mmm"
+
+# game/day29.rpy:987
+translate italian day29_b_sex_b26f9d22_1:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Le sputi tra le chiappe mentre continui a scoparla La saliva scende verso l'ano e si mescola ai succhi della sua figa."
+
+# game/day29.rpy:989
+translate italian day29_b_sex_04550608:
+
+    # b "What are you doing?"
+    b "Cosa stai facendo?"
+
+# game/day29.rpy:990
+translate italian day29_b_sex_d4e7fd69:
+
+    # b "Don't you dare!"
+    b "Non osare!"
+
+# game/day29.rpy:991
+translate italian day29_b_sex_783f84f3:
+
+    # p "Just relax..."
+    p "Rilassati"
+
+# game/day29.rpy:993
+translate italian day29_b_sex_460a8534:
+
+    # "{i}You caress the skin folds of your sister's clenched anus with your fingertips."
+    "{i}Accarezzi con la punta delle dita le pieghe della pelle dell'ano serrato di tua sorella."
+
+# game/day29.rpy:995
+translate italian day29_b_sex_5dd93722:
+
+    # "{i}You caress the skin folds of your girl's clenched anus with your fingertips."
+    "{i}Accarezzi con la punta delle dita le pieghe della pelle dell'ano serrato della tua ragazza."
+
+# game/day29.rpy:999
+translate italian day29_b_sex_7bf203dc:
+
+    # "{i}Using the saliva as a lubricant you slowly but surely press your finger inside her asshole."
+    "{i}Usando la saliva come lubrificante, spingete lentamente ma con decisione il dito nel suo buco del culo."
+
+# game/day29.rpy:1000
+translate italian day29_b_sex_797f0ad4:
+
+    # b "Ggggaaah!"
+    b "Ggggaaah!"
+
+# game/day29.rpy:1001
+translate italian day29_b_sex_e506ccf2:
+
+    # "{i}You don't stop fucking her as you finger her asshole. The only thing [b_name] is able to do is moan in ecstasy."
+    "{i}Non smetti di scoparla mentre le fai un ditalino al buco del culo L'unica cosa che [b_name] riesce a fare è gemere in estasi."
+
+# game/day29.rpy:1002
+translate italian day29_b_sex_34ab9313:
+
+    # p "I thought you said you didn't like it?"
+    p "Ma non avevi detto che non ti piaceva?."
+
+# game/day29.rpy:1003
+translate italian day29_b_sex_54161e51_1:
+
+    # b "Aaah!"
+    b "Aaah!"
+
+# game/day29.rpy:1004
+translate italian day29_b_sex_e14ea2ad:
+
+    # p "There's a good slut."
+    p "Ecco una brava troia."
+
+# game/day29.rpy:1005
+translate italian day29_b_sex_6901be99:
+
+    # p "Getting off on being fingered in your ass, are you?"
+    p "Ti eccita essere sditalinato nel culo, vero?."
+
+# game/day29.rpy:1006
+translate italian day29_b_sex_df44d03d_1:
+
+    # b "No!"
+    b "No!"
+
+# game/day29.rpy:1007
+translate italian day29_b_sex_7d1c486e:
+
+    # b "Yes!"
+    b "Sì!"
+
+# game/day29.rpy:1014
+translate italian day29_b_sex_4e6002bf:
+
+    # "{i}You're about to insert another finger inside her anus when her orgasm surprises you both."
+    "{i}State per inserire un altro dito nel suo ano quando il suo orgasmo vi sorprende entrambi."
+
+# game/day29.rpy:1016
+translate italian day29_b_sex_b558bc2f:
+
+    # "{i}It makes her vagina incredibly wet, and your dick nearly slips out of her, but you manage to keep fucking her until your climax is near."
+    "{i}La sua vagina è incredibilmente bagnata e il tuo cazzo sta per scivolare fuori da lei, ma riesci a continuare a scoparla fino a quando il tuo climax è vicino."
+
+# game/day29.rpy:1027
+translate italian day29_b_sex_0c355813:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Mentre tua sorella ha un orgasmo selvaggio, hai difficoltà a tenerla sul tuo cazzo, ma è ancora dentro di lei quando la tua sborra inizia a scorrere."
+
+# game/day29.rpy:1029
+translate italian day29_b_sex_09f14b39:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Mentre la tua amica sta avendo un orgasmo selvaggio, hai difficoltà a tenerla sul tuo cazzo, ma è ancora dentro di lei quando il tuo sperma inizia a scorrere."
+
+# game/day29.rpy:1043
+translate italian day29_b_sex_ab97e8e5:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Mentre tua sorella ha un orgasmo selvaggio, hai difficoltà a tenerla sul tuo cazzo."
+
+# game/day29.rpy:1045
+translate italian day29_b_sex_1325384c:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Mentre la tua amica sta avendo un orgasmo selvaggio, hai problemi a tenerla sul tuo cazzo."
+
+# game/day29.rpy:1046
+translate italian day29_b_sex_61875a7a:
+
+    # "{i}You let it slip out and let your cum flow all over her back."
+    "{i}L'hai lasciato scivolare fuori e hai fatto scorrere il tuo sperma sulla sua schiena."
+
+# game/day29.rpy:1055
+translate italian day29_b_sex_6e3c14aa:
+
+    # "{i}[b_name] cleans herself up and glares at you, despite the pleasure you just shared."
+    "{i}[b_name] si pulisce e ti guarda nonostante il piacere che avete appena condiviso."
+
+# game/day29.rpy:1057
+translate italian day29_b_sex_ff05c4c4:
+
+    # p "That was interesting."
+    p "È stato interessante."
+
+# game/day29.rpy:1058
+translate italian day29_b_sex_3735a1ed:
+
+    # b "Don't even think for a minute I'm up for more."
+    b "Non pensare nemmeno per un minuto che io sia disposto a fare di più."
+
+# game/day29.rpy:1059
+translate italian day29_b_sex_1d83294d:
+
+    # p "Are you sure?"
+    p "Sei sicuro?"
+# game/day29.rpy:1060
+translate italian day29_b_sex_5a68789f:
+
+    # b "Yes, I'm fucking sure."
+    b "Sì, sono fottutamente sicuro."
+
+# game/day29.rpy:1061
+translate italian day29_b_sex_bd0b3e68:
+
+    # p "You'll come around, I'm sure you do."
+    p "Ti riprenderai, ne sono certo."
+
+# game/day29.rpy:1062
+translate italian day29_b_sex_c0bf7ea1:
+
+    # b "Go away."
+    b "Vattene"
+
+# game/day29.rpy:1077
+translate italian day29_l_masturbation_bd368b3d:
+
+    # "{i}You shuffle underneath the blankets and try to keep warm."
+    "{i}Ti infili sotto le coperte e cerchi di tenerti al caldo."
+
+# game/day29.rpy:1078
+translate italian day29_l_masturbation_586c421f:
+
+    # l "I'm s-so c-c-cold..."
+    l "Sono così freddo."
+
+# game/day29.rpy:1079
+translate italian day29_l_masturbation_00028e1e:
+
+    # p "Me too..."
+    p "Anch'io"
+
+# game/day29.rpy:1080
+translate italian day29_l_masturbation_04be0cfb:
+
+    # p "I read somewhere that skin on skin contact helps."
+    p "Ho letto da qualche parte che il contatto pelle su pelle aiuta."
+
+# game/day29.rpy:1081
+translate italian day29_l_masturbation_487dd9a4:
+
+    # l "I'm willing to try anything."
+    l "Sono disposto a provare qualsiasi cosa."
+
+# game/day29.rpy:1082
+translate italian day29_l_masturbation_21a958e9:
+
+    # p "We kinda need to get completely naked and hold each other close."
+    p "Dobbiamo spogliarci completamente e stringerci l'uno all'altro."
+
+# game/day29.rpy:1083
+translate italian day29_l_masturbation_f6cfd697:
+
+    # l "N-no underw-wear, y-you m-mean"
+    l "Non c'è biancheria intima che tu intenda."
+
+# game/day29.rpy:1084
+translate italian day29_l_masturbation_e66125da:
+
+    # p "Yup."
+    p "Sì"
+
+# game/day29.rpy:1085
+translate italian day29_l_masturbation_ea527966:
+
+    # l "T-t-that's not so b-b-bad, is it?"
+    l "Non è poi così male, vero?."
+
+# game/day29.rpy:1087
+translate italian day29_l_masturbation_298d3e54:
+
+    # "{i}After you both undress, you hold [l_name] in your arms. Her skin feels soft and cold on yours."
+    "{i}Dopo esservi spogliati entrambi, stringete [l_name] tra le braccia La sua pelle è morbida e fredda sulla vostra."
+
+# game/day29.rpy:1088
+translate italian day29_l_masturbation_947fcb87:
+
+    # p "Do you feel warmer?"
+    p "Ti senti più caldo?"
+
+# game/day29.rpy:1089
+translate italian day29_l_masturbation_d37a2cb7:
+
+    # l "I think so."
+    l "Penso di sì"
+
+# game/day29.rpy:1090
+translate italian day29_l_masturbation_3c358972:
+
+    # p "You've stopped shivering."
+    p "Hai smesso di tremare."
+
+# game/day29.rpy:1091
+translate italian day29_l_masturbation_915f99db:
+
+    # l "I'm still cold."
+    l "ho ancora freddo."
+
+# game/day29.rpy:1092
+translate italian day29_l_masturbation_99085df3:
+
+    # p "Maybe it would help if we rubbed our skin."
+    p "Forse sarebbe utile se ci strofinassimo la pelle."
+
+# game/day29.rpy:1098
+translate italian day29_l_masturbation_600802e7:
+
+    # "{i}After you place a hand on your sister's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Dopo aver appoggiato una mano sulla spalla di tua sorella e averle massaggiato le braccia e la schiena [l_name] chiude gli occhi."
+
+# game/day29.rpy:1100
+translate italian day29_l_masturbation_7e21322b:
+
+    # "{i}After you place a hand on your friend's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Dopo aver appoggiato una mano sulla spalla dell'amica e averle massaggiato le braccia e la schiena, [l_name] chiude gli occhi."
+
+# game/day29.rpy:1101
+translate italian day29_l_masturbation_77ba347f:
+
+    # p "Is that better?"
+    p "Va meglio?"
+
+# game/day29.rpy:1102
+translate italian day29_l_masturbation_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm"
+
+# game/day29.rpy:1103
+translate italian day29_l_masturbation_fa3eddbf:
+
+    # "{i}When her upper body feels warm to the touch, you move to her hips and legs and give them the same treatment."
+    "{i}Quando la parte superiore del corpo è calda al tatto, passate ai fianchi e alle gambe e riservate loro lo stesso trattamento."
+
+# game/day29.rpy:1104
+translate italian day29_l_masturbation_1049a691:
+
+    # l "It really works."
+    l "Funziona davvero"
+
+# game/day29.rpy:1105
+translate italian day29_l_masturbation_03b82946:
+
+    # "{i}You kiss her shoulder blade and the nape of her neck."
+    "{i}Le baci la scapola e la nuca."
+
+# game/day29.rpy:1106
+translate italian day29_l_masturbation_10443e0d:
+
+    # l "Please don't stop."
+    l "Per favore, non fermarti"
+
+# game/day29.rpy:1107
+translate italian day29_l_masturbation_086cad75:
+
+    # p "But you're warm already."
+    p "Ma sei già caldo."
+
+# game/day29.rpy:1108
+translate italian day29_l_masturbation_cd28bb69:
+
+    # l "I know, but I like the feeling."
+    l "Lo so, ma mi piace la sensazione."
+
+# game/day29.rpy:1110
+translate italian day29_l_masturbation_2fd9c300:
+
+    # "{i}[l_name] turns towards you and looks deeply into your eyes. You cannot help but kiss her mouth."
+    "{i}[l_name] si gira verso di te e ti guarda profondamente negli occhi Non puoi fare a meno di baciarle la bocca."
+
+# game/day29.rpy:1112
+translate italian day29_l_masturbation_b3a7ddfc:
+
+    # l "Mmmm... [p_name]!"
+    l "Mmmm [p_name]!"
+
+# game/day29.rpy:1114
+translate italian day29_l_masturbation_abd505a2:
+
+    # p "Sorry, but your lips were cold."
+    p "Scusa, ma le tue labbra erano fredde."
+
+# game/day29.rpy:1115
+translate italian day29_l_masturbation_f07890dd:
+
+    # l "Haha!"
+    l "Haha!"
+
+# game/day29.rpy:1116
+translate italian day29_l_masturbation_af2584ed:
+
+    # "{i}The sight of her firm breasts and their proud nipples, combined with your passionate kiss, is starting to make you hard."
+    "{i}La vista dei suoi seni sodi e dei loro capezzoli orgogliosi, combinata con il vostro bacio appassionato, comincia a farvelo venire duro."
+
+# game/day29.rpy:1117
+translate italian day29_l_masturbation_97be07fe:
+
+    # l "There's something... Oh..."
+    l "C'è qualcosa Oh"
+
+# game/day29.rpy:1118
+translate italian day29_l_masturbation_e88a0767:
+
+    # p "Sorry."
+    p "Mi dispiace"
+
+# game/day29.rpy:1119
+translate italian day29_l_masturbation_517cb65b:
+
+    # l "Don't be."
+    l "Non essere"
+
+# game/day29.rpy:1120
+translate italian day29_l_masturbation_9d29c86a:
+
+    # l "You're still cold too."
+    l "Anche tu sei ancora freddo"
+
+# game/day29.rpy:1121
+translate italian day29_l_masturbation_afc4ff76:
+
+    # p "I am."
+    p "Io sono"
+
+# game/day29.rpy:1122
+translate italian day29_l_masturbation_8598487a:
+
+    # l "Mind if I give you the same treatment?"
+    l "Ti dispiace se ti faccio lo stesso trattamento?."
+
+# game/day29.rpy:1123
+translate italian day29_l_masturbation_f1c98617:
+
+    # p "Not at all."
+    p "Per niente"
+
+# game/day29.rpy:1128
+translate italian day29_l_masturbation_3efd99a2:
+
+    # "{i}The girl proceeds to treat your skin the same way you did hers, but you notice she presses her body even closer to yours."
+    "{i}La ragazza procede a trattare la tua pelle come tu hai fatto con la sua, ma noti che preme il suo corpo ancora più vicino al tuo."
+
+# game/day29.rpy:1129
+translate italian day29_l_masturbation_33819e20:
+
+    # "{i}As you turn over, your leg slips between her thighs, and you feel the lips of her pussy on your bare skin. [l_name] doesn't seem to notice."
+    "{i}Quando ti giri la tua gamba scivola tra le sue cosce e senti le labbra della sua figa sulla tua pelle nuda [l_name] non sembra accorgersene."
+
+# game/day29.rpy:1131
+translate italian day29_l_masturbation_21e1e7b3:
+
+    # "{i}Unconsciously, she starts to grind her pussy on your leg, craving the pleasure the motions send through her body."
+    "{i}Inconsciamente inizia a strusciare la sua figa sulla tua gamba, desiderando il piacere che i movimenti le trasmettono."
+
+# game/day29.rpy:1132
+translate italian day29_l_masturbation_93ea5af1:
+
+    # "{i}Not wanting to ruin the moment, you don't speak and wrap your arms around her."
+    "{i}Non volendo rovinare il momento, non parli e la abbracci."
+
+# game/day29.rpy:1133
+translate italian day29_l_masturbation_eba44e9f:
+
+    # l "Mmmmmm..."
+    l "Mmmmmm"
+
+# game/day29.rpy:1134
+translate italian day29_l_masturbation_65fa5b8a:
+
+    # "{i}Your massage completely forgotten, [l_name] continues, breathing ever more heavily."
+    "{i}Il vostro massaggio completamente dimenticato [l_name] continua a respirare sempre più pesantemente."
+
+# game/day29.rpy:1136
+translate italian day29_l_masturbation_d88acbc7:
+
+    # l "Oh!"
+    l "Oh!"
+
+# game/day29.rpy:1137
+translate italian day29_l_masturbation_60783c8b:
+
+    # l "What are we doing?!"
+    l "Cosa stiamo facendo?!"
+
+# game/day29.rpy:1138
+translate italian day29_l_masturbation_0246ef9a:
+
+    # "{i}[l_name] tries to squirm out of your arms, but there's no real conviction behind her actions, as if she wants to continue to do what makes her feel good."
+    "{i}[l_name] cerca di divincolarsi dalle tue braccia, ma non c'è una vera convinzione dietro le sue azioni, come se volesse continuare a fare ciò che la fa stare bene."
+
+# game/day29.rpy:1139
+translate italian day29_l_masturbation_caba0a24:
+
+    # p "I don't mind."
+    p "Non mi dispiace"
+
+# game/day29.rpy:1140
+translate italian day29_l_masturbation_f86d916c:
+
+    # p "It works even better to keep warm, I think."
+    p "Funziona anche meglio per tenersi al caldo, credo."
+
+# game/day29.rpy:1145
+translate italian day29_l_masturbation_4e0ef72d:
+
+    # l "I shouldn't..."
+    l "non dovrei"
+
+# game/day29.rpy:1146
+translate italian day29_l_masturbation_236cf105:
+
+    # p "You wanted to do what feels right to you, don't you?"
+    p "Volevi fare ciò che ti sembrava giusto, non è vero?."
+
+# game/day29.rpy:1147
+translate italian day29_l_masturbation_2af0a44b:
+
+    # l "Yes, but..."
+    l "Sì, ma"
+
+# game/day29.rpy:1148
+translate italian day29_l_masturbation_c70ebffe:
+
+    # p "This is one of those moments where you should listen to your body, act on your instincts."
+    p "Questo è uno di quei momenti in cui bisogna ascoltare il proprio corpo e agire d'istinto."
+
+# game/day29.rpy:1149
+translate italian day29_l_masturbation_21477378:
+
+    # l "But I'm using you..."
+    l "Ma io ti sto usando"
+
+# game/day29.rpy:1150
+translate italian day29_l_masturbation_1a69e8f1:
+
+    # p "Only technically..."
+    p "Solo tecnicamente"
+
+# game/day29.rpy:1151
+translate italian day29_l_masturbation_007180d8:
+
+    # l "Oh... So you don't mind?"
+    l "Oh Quindi non ti dispiace?"
+
+# game/day29.rpy:1152
+translate italian day29_l_masturbation_eb716dfc:
+
+    # p "Just trust that I'll let you know."
+    p "Fidati che ti farò sapere."
+
+# game/day29.rpy:1153
+translate italian day29_l_masturbation_c6c955e3:
+
+    # l "Okay..."
+    l "Ok"
+
+# game/day29.rpy:1154
+translate italian day29_l_masturbation_560ee807:
+
+    # p "Does it help when I kiss you?"
+    p "Ti fa bene quando ti bacio?."
+
+# game/day29.rpy:1156
+translate italian day29_l_masturbation_b3ef1b9b:
+
+    # l "Maybe..."
+    l "Forse"
+
+# game/day29.rpy:1158
+translate italian day29_l_masturbation_1dc0465a:
+
+    # "{i}Before she can think of any more weak objections, you kiss her with such fire that she automatically resumes sliding her pussy on your leg, this time with much more conviction."
+    "{i}Prima che possa pensare ad altre deboli obiezioni, la baciate con un tale fuoco che lei riprende automaticamente a far scorrere la sua figa sulla vostra gamba, questa volta con molta più convinzione."
+
+# game/day29.rpy:1159
+translate italian day29_l_masturbation_1676d17b:
+
+    # l "Oh [p_name]!"
+    l "Oh [p_name]!."
+
+# game/day29.rpy:1160
+translate italian day29_l_masturbation_9df729d7:
+
+    # p "Just keep going, don't be afraid."
+    p "Continua ad andare avanti, non avere paura."
+
+# game/day29.rpy:1161
+translate italian day29_l_masturbation_04e36e67:
+
+    # l "I-I'm not... Aaaah!"
+    l "Non sono Aaaah!"
+
+# game/day29.rpy:1166
+translate italian day29_l_masturbation_593144a0:
+
+    # "{i}While [l_name] focuses on pleasuring herself, you turn your attention to her breasts, showering them with kissing and softly suckling her nipples."
+    "{i}Mentre [l_name] si concentra sul suo piacere, tu rivolgi la tua attenzione ai suoi seni, baciandoli e succhiando dolcemente i capezzoli."
+
+# game/day29.rpy:1168
+translate italian day29_l_masturbation_b986ab8a:
+
+    # "{i}Your sister holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Tua sorella ti stringe a sé premendo il tuo viso contro il suo seno voluttuoso e tu bevi il suo odore di profumo misto a sudore."
+
+# game/day29.rpy:1170
+translate italian day29_l_masturbation_fd701959:
+
+    # "{i}Your friend holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}La vostra amica vi stringe a sé premendo il vostro viso contro il suo seno voluttuoso e voi bevete il suo profumo misto a sudore."
+
+# game/day29.rpy:1171
+translate italian day29_l_masturbation_0ffa60ce:
+
+    # l "I'm... I'm so close!"
+    l "Sono vicinissimo!"
+
+# game/day29.rpy:1173
+translate italian day29_l_masturbation_2f326aef:
+
+    # "{i}You intensify your attention to her breasts, as her grinding enters the final stretch. Her upper leg is massaging your cock, and you start to lose your own bearings."
+    "{i}Intensifichi la tua attenzione sui suoi seni mentre il suo strusciamento entra nel tratto finale La sua gamba superiore sta massaggiando il tuo cazzo e tu cominci a perdere i tuoi punti di riferimento."
+
+# game/day29.rpy:1174
+translate italian day29_l_masturbation_ab17848e:
+
+    # p "[l_name]!"
+    p "[l_name]!"
+
+# game/day29.rpy:1175
+translate italian day29_l_masturbation_c1d4061a:
+
+    # l "Yes?!"
+    l "Sì?!"
+
+# game/day29.rpy:1176
+translate italian day29_l_masturbation_87c00d69:
+
+    # p "Don't stop..."
+    p "Non fermarti"
+
+# game/day29.rpy:1177
+translate italian day29_l_masturbation_a0e74141:
+
+    # l "I won't..."
+    l "Non lo farò"
+
+# game/day29.rpy:1178
+translate italian day29_l_masturbation_70556a20:
+
+    # l "I won't!"
+    l "Non lo farò!"
+
+# game/day29.rpy:1185
+translate italian day29_l_masturbation_c202593b:
+
+    # "{i}As her movements start to lose coordination, you know she's about to climax. From deep within, your own orgasm builds, and you release almost at the same time."
+    "{i}Quando i suoi movimenti iniziano a perdere coordinazione, sai che sta per raggiungere l'orgasmo Dal profondo di te stesso l'orgasmo cresce e ti liberi quasi contemporaneamente."
+
+# game/day29.rpy:1186
+translate italian day29_l_masturbation_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day29.rpy:1187
+translate italian day29_l_masturbation_7bfa6ff2:
+
+    # "{i}Embracing each other, you climb the peaks of your pleasure, [l_name]'s juices covering your leg, and you spraying cum all over her thighs and belly."
+    "{i}Abbracciati l'uno all'altro salite alle vette del vostro piacere i succhi di [l_name] ricoprono la tua gamba e tu spruzzi sperma su tutte le sue cosce e la sua pancia"
+
+# game/day29.rpy:1193
+translate italian day29_l_masturbation_cb14584f:
+
+    # "{i}Half an hour passes, and [l_name] just sighs in your arms and absentmindedly strokes your chest."
+    "{i}Passa mezz'ora e [l_name] sospira tra le tue braccia e ti accarezza distrattamente il petto."
+
+# game/day29.rpy:1194
+translate italian day29_l_masturbation_8be67411:
+
+    # p "I don't know about you, but I finally feel warm."
+    p "Non so voi, ma io finalmente sento caldo."
+
+# game/day29.rpy:1195
+translate italian day29_l_masturbation_1169bd3f:
+
+    # l "You're right, me too."
+    l "Hai ragione, anch'io."
+

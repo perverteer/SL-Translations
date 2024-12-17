@@ -3482,13 +3482,13 @@ translate italian day10_supermarket_afternoon_861280fc:
 translate italian day10_discreet_38ef9308:
 
     # woman "Certainly. I have the contract right here. After you sign, we can arrange the payment."
-    donna "Certo, ho il contratto proprio qui Dopo che avrà firmato potremo organizzare il pagamento."
+    woman "Certo, ho il contratto proprio qui Dopo che avrà firmato potremo organizzare il pagamento."
 
 # game/day10.rpy:259
 translate italian day10_discreet_b0415e9c:
 
     # woman "If you'd like some time to read the contract, there are seats in the lobby."
-    donna "Se desidera avere un po' di tempo per leggere il contratto, ci sono posti a sedere nell'atrio."
+    woman "Se desidera avere un po' di tempo per leggere il contratto, ci sono posti a sedere nell'atrio."
 
 # game/day10.rpy:269
 translate italian day10_discreet_33155bb5:
@@ -3500,7 +3500,7 @@ translate italian day10_discreet_33155bb5:
 translate italian day10_discreet_09ab2be8:
 
     # woman "Your consultant will be with you in a moment. Before your appointment, we ask you to wear this mask. This ensures your privacy."
-    donna "Il suo consulente sarà da lei tra un attimo Prima dell'appuntamento le chiediamo di indossare questa maschera per garantire la sua privacy."
+    woman "Il suo consulente sarà da lei tra un attimo Prima dell'appuntamento le chiediamo di indossare questa maschera per garantire la sua privacy."
 
 # game/day10.rpy:279
 translate italian day10_discreet_c33a64c0:
@@ -3560,7 +3560,7 @@ translate italian day10_discreet_session_bbc0cc3a:
 translate italian day10_discreet_session_75e25a5e:
 
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company I'd like to wish you a very pleasant day."
-    donna "Non c'è problema signore Distruggeremo questo documento insieme ai risultati dei suoi test A nome dell'azienda vorrei augurarle una piacevole giornata."
+    woman "Non c'è problema signore Distruggeremo questo documento insieme ai risultati dei suoi test A nome dell'azienda vorrei augurarle una piacevole giornata."
 
 # game/day10.rpy:522
 translate italian day10_dwayne_visit_e3d8ee81:
@@ -3650,7 +3650,7 @@ translate italian day10_al_fucking_a14c71c2:
 translate italian day10_al_fucking_fb330df7:
 
     # al "*Gasp* Harder. Fuck. Me. Harder."
-    già "*Gasp* Harder Fuck Me Harder" (Scopami più forte)
+    al "*Gasp* Harder Fuck Me Harder" (Scopami più forte)
 
 # game/day10.rpy:972
 translate italian day10_al_fucking_9bf8a862:
@@ -3674,4 +3674,234 @@ translate italian day10_al_sex_post_032b6d19:
 translate italian day10_discreet_session_198a85c2:
 
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
-    donna "Non c'è problema signore Distruggeremo questo documento insieme ai risultati dei suoi test A nome dell'azienda vorrei augurarle una piacevole giornata."
+    woman "Non c'è problema signore Distruggeremo questo documento insieme ai risultati dei suoi test A nome dell'azienda vorrei augurarle una piacevole giornata."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day10.rpy:337
+translate italian day10_discreet_e184130a:
+
+    # "{i}You dress yourself while [m_name] leaves the room."
+    "{i}Ti vesti da solo mentre [m_name] esce dalla stanza."
+
+# game/day10.rpy:341
+translate italian day10_discreet_afb0d82f:
+
+    # p "{i}(That was some extremely weird shit...)"
+    p "{i}(Questa è stata una cosa estremamente strana)."
+
+# game/day10.rpy:342
+translate italian day10_discreet_61e3e5ba:
+
+    # woman "I trust you enjoyed your first session Mr. Holmes? Would you like to schedule another session?"
+    woman "Spero che la prima seduta le sia piaciuta, signor Holmes. Vuole fissare un'altra seduta?."
+
+# game/day10.rpy:346
+translate italian day10_discreet_fd1037f2:
+
+    # p "Yes, it was quite invigorating."
+    p "Sì, è stato piuttosto rinvigorente."
+
+# game/day10.rpy:347
+translate italian day10_discreet_6995dc48:
+
+    # woman "Good, I can fit you in in four days."
+    woman "Bene, posso inserirla in quattro giorni."
+
+# game/day10.rpy:348
+translate italian day10_discreet_480fea4d:
+
+    # p "Sounds good to me."
+    p "A me sembra una buona idea."
+
+# game/day10.rpy:349
+translate italian day10_discreet_7a1764cd:
+
+    # woman "All right then. We'll see you in four days. Have a nice day."
+    woman "Bene, allora ci vediamo tra quattro giorni Buona giornata."
+
+# game/day10.rpy:350
+translate italian day10_discreet_b8e3e19c:
+
+    # p "Thank you!"
+    p "Grazie!"
+
+# game/day10.rpy:353
+translate italian day10_discreet_e4fb02e1:
+
+    # p "No, this is not for me."
+    p "No, questo non fa per me."
+
+# game/day10.rpy:354
+translate italian day10_discreet_61907235:
+
+    # woman "We're very sorry to hear that. Shall I permanently remove your name from our client list?"
+    woman "Siamo molto dispiaciuti di sentirlo Devo rimuovere definitivamente il suo nome dalla nostra lista clienti?."
+
+# game/day10.rpy:355
+translate italian day10_discreet_0341c077:
+
+    # p "Yes please."
+    p "Sì, grazie"
+
+# game/day10.rpy:356
+translate italian day10_discreet_7939f2b4:
+
+    # woman "Done. Thank you for your support and have a nice day."
+    woman "Fatto Grazie per il vostro sostegno e buona giornata."
+
+# game/day10.rpy:357
+translate italian day10_discreet_43e8339b:
+
+    # p "Goodbye."
+    p "Goodbye"
+
+# game/day10.rpy:360
+translate italian day10_discreet_2f277000:
+
+    # p "This is not for me. Sorry."
+    p "Questo non fa per me."
+
+# game/day10.rpy:361
+translate italian day10_discreet_2a9378d6:
+
+    # m "That's not a problem, but I have to ask you to leave. My assistant will remove your name from the membership list after you leave our premises."
+    m "Non è un problema, ma devo chiederle di andarsene La mia assistente rimuoverà il suo nome dall'elenco dei soci dopo che avrà lasciato la nostra sede."
+
+# game/day10.rpy:362
+translate italian day10_discreet_1cb6fa76:
+
+    # m "Goodbye."
+    m "Goodbye"
+
+# game/day10.rpy:363
+translate italian day10_discreet_3d15a9f2:
+
+    # p "Bye."
+    p "Ciao"
+
+# game/day10.rpy:364
+translate italian day10_discreet_c9cf8db1:
+
+    # p "{i}(Let's leave before this turns into some freak show!)"
+    p "{i}(Andiamo via prima che questo si trasformi in uno spettacolo da baraccone!)."
+
+# game/day10.rpy:368
+translate italian day10_discreet_bbc0cc3a:
+
+    # p "This is all a mistake. [m_name], it's me!"
+    p "È tutto un errore [m_name] sono io!."
+
+# game/day10.rpy:370
+translate italian day10_discreet_c8749287:
+
+    # p "I wanted to know where you worked. I'm so sorry!"
+    p "Volevo sapere dove lavoravi, mi dispiace tanto!."
+
+# game/day10.rpy:371
+translate italian day10_discreet_78b7c6c3:
+
+    # m "WHAT THE FUCK DO YOU THINK YOU'RE DOING HERE?!"
+    m "Che cazzo pensi di fare qui?!."
+
+# game/day10.rpy:372
+translate italian day10_discreet_7fb98cef:
+
+    # m "You will leave this building right away or I will have you forcibly removed."
+    m "Lasciate subito questo edificio o vi farò portare via con la forza."
+
+# game/day10.rpy:373
+translate italian day10_discreet_c18f3955:
+
+    # p "But..."
+    p "Ma"
+
+# game/day10.rpy:374
+translate italian day10_discreet_dc553b0a:
+
+    # m "NO BUTS, BE GONE!"
+    m "NO BUTS BE GONE!"
+
+# game/day10.rpy:379
+translate italian day10_discreet_797f4151:
+
+    # p "I'm sorry, I cannot sign this contract."
+    p "Mi dispiace, non posso firmare questo contratto."
+
+# game/day10.rpy:380
+translate italian day10_discreet_198a85c2:
+
+    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
+    woman "Non c'è problema signore Distruggeremo questo documento insieme ai risultati dei suoi test A nome dell'azienda vorrei augurarle una piacevole giornata."
+
+# game/day10.rpy:381
+translate italian day10_discreet_43e8339b_1:
+
+    # p "Goodbye."
+    p "Goodbye"
+
+# game/day10.rpy:382
+translate italian day10_discreet_6551e53d:
+
+    # p "{i}(This is for the best. I'm not going to sign away my rights.)"
+    p "{i}(Questo è per il meglio, non ho intenzione di rinunciare ai miei diritti)."
+
+# game/day10.rpy:387
+translate italian day10_discreet_bc6d5a03:
+
+    # p "{i}(This is going to be intense. I'm pretty sure of it.)"
+    p "{i}(Questo sarà intenso, ne sono abbastanza sicuro)"
+
+# game/day10.rpy:388
+translate italian day10_discreet_a30ead20:
+
+    # p "{i}(She didn't even seem to recognize me. Wonder how long that will last...)"
+    p "{i}(Sembrava che non mi riconoscesse nemmeno, mi chiedo quanto durerà)."
+
+# game/day10.rpy:390
+translate italian day10_discreet_2c6e7ed4:
+
+    # p "{i}(Sure glad that's over.)"
+    p "{i}(Sono contento che sia finita)."
+
+# game/day10.rpy:392
+translate italian day10_discreet_278d3816:
+
+    # p "{i}(In retrospect, I'm not sure if I wanted to know all this about [m_name]...)"
+    p "{i}(In retrospettiva non sono sicuro di voler sapere tutto questo su [m_name])"
+
+# game/day10.rpy:394
+translate italian day10_discreet_9c6d08e3:
+
+    # p "{i}(I guess those family dinners aren't going to be the same from now on.)"
+    p "{i}(Immagino che le cene in famiglia non saranno più le stesse d'ora in poi)."
+
+# game/day10.rpy:396
+translate italian day10_discreet_77316bb0:
+
+    # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
+    p "{i}(Immagino che le cene insieme non saranno più le stesse d'ora in poi)."
+
+# game/day10.rpy:832
+translate italian day10_p_room_evening_choices_0c4f3e87:
+
+    # al "Did you enjoy my pussy?"
+    al "Ti è piaciuta la mia figa?."
+
+# game/day10.rpy:833
+translate italian day10_p_room_evening_choices_5071a473:
+
+    # p "You have pleased me. But make no mistake, you're still a bad little cum slut and I will discipline you further."
+    p "Mi hai accontentato, ma non fare errori, sei ancora una piccola troia cattiva e ti disciplinerò ulteriormente."
+
+# game/day10.rpy:834
+translate italian day10_p_room_evening_choices_cb5f62b1:
+
+    # al "Yes master. Looking forward to it."
+    al "Sì master Non vedo l'ora"
+
+# game/day10.rpy:835
+translate italian day10_p_room_evening_choices_9bf8a862:
+
+    # "{i}With those words, Alina silently leaves your room."
+    "{i}Con queste parole Alina lascia silenziosamente la tua stanza."
+

@@ -3574,4 +3574,448 @@ translate italian day05_restaurant_main_course_choices_eed1e285:
 translate italian day05_restaurant_main_course_choices_b87fab88:
 
     # l "I..."
-    l "Me..."
+    l "Me..."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day05.rpy:1208
+translate italian day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Alina si spoglia rapidamente e si mette in ginocchio."
+
+# game/day05.rpy:1210
+translate italian day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "Sono stata una cattiva ragazza [p_name]."
+
+# game/day05.rpy:1211
+translate italian day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "Ti prego, puniscimi con il tuo cazzo duro."
+
+# game/day05.rpy:1212
+translate italian day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Sembra che ad Alina piaccia il gioco di ruolo sottomesso della ragazza perversa)."
+
+# game/day05.rpy:1213
+translate italian day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "Ho avuto tutti questi brutti pensieri su uomini che mi scopano e mi sborrano addosso."
+
+# game/day05.rpy:1214
+translate italian day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "Quindi sei stata una bambina sporca?."
+
+# game/day05.rpy:1218
+translate italian day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Sì."
+
+# game/day05.rpy:1219
+translate italian day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "E vuoi il mio cazzo in bocca?."
+
+# game/day05.rpy:1220
+translate italian day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Sì, mi merito una punizione per tutti i cattivi pensieri che ho avuto."
+
+# game/day05.rpy:1221
+translate italian day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Dica per favore"
+
+# game/day05.rpy:1222
+translate italian day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "Per favore [p_name] metti il tuo cazzo duro nella mia bocca calda."
+
+# game/day05.rpy:1228
+translate italian day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Le afferri la testa e le costringi la bocca sul tuo cazzo duro."
+
+# game/day05.rpy:1229
+translate italian day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Alina ha un conato di vomito e sorride La saliva le cola già dalla bocca."
+
+# game/day05.rpy:1231
+translate italian day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "Ti piace, piccola puttana cattiva?."
+
+# game/day05.rpy:1232
+translate italian day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    a "Mmmmmmmmm *Gag*."
+
+# game/day05.rpy:1241
+translate italian day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}La sua lingua si strofina contro il tuo glande mentre tu muovi la sua testa su e giù, permettendole a volte di riprendere fiato."
+
+# game/day05.rpy:1243
+translate italian day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "*Slurp* *Gag* Aaaah voglio tutto."
+
+# game/day05.rpy:1247
+translate italian day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Alina lecca la lunghezza del tuo cazzo scintillante e poi senti la sua lingua umida che ti lecca le palle."
+
+# game/day05.rpy:1248
+translate italian day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "Per favore, per favore, mettetelo tutto dentro!."
+
+# game/day05.rpy:1259
+translate italian day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}Con una pressione appena sufficiente le infili l'intero cazzo in bocca Gli occhi di Alina cominciano a lacrimare e la parte superiore del corpo è ricoperta di bava."
+
+# game/day05.rpy:1260
+translate italian day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    a "Mmmmmmm!"
+# game/day05.rpy:1262
+translate italian day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}Mentre il tuo pene si infila nella sua gola, Alina ha uno sguardo di pura beatitudine."
+
+# game/day05.rpy:1263
+translate italian day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Ti piace quando fa male, non è vero, piccola puttana?."
+
+# game/day05.rpy:1264
+translate italian day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Sentendo che sei vicino all'orgasmo, Alina si libera dalla tua presa e si mette a quattro zampe, continuando a gettare il tuo membro pulsante."
+
+# game/day05.rpy:1265
+translate italian day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Sto sborrando, sto sborrando!."
+
+# game/day05.rpy:1266
+translate italian day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Mmmmm *Slurp*"
+
+# game/day05.rpy:1273
+translate italian day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaah!!!"
+
+# game/day05.rpy:1274
+translate italian day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}Le spari il tuo sperma caldo in gola Alina continua a muoversi su e giù per la tua asta finché non ha ingoiato fino all'ultima goccia di sperma."
+
+# game/day05.rpy:1279
+translate italian day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Alina si lecca le labbra coperte di sperma e ti guarda con desiderio."
+
+# game/day05.rpy:1293
+translate italian day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaah!!!"
+
+# game/day05.rpy:1294
+translate italian day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}Tiri fuori dalla sua bocca calda e le spari un grosso carico sul viso e sul petto."
+
+# game/day05.rpy:1298
+translate italian day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Alina raccoglie con un dito un po' di sperma misto a saliva e se lo mette in bocca."
+
+# game/day05.rpy:1308
+translate italian day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Mmmmm bello!"
+
+# game/day05.rpy:1309
+translate italian day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "{i}(È un po' pazza, ma che succhiacazzi!)."
+
+# game/day05.rpy:1312
+translate italian day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ana aveva ragione, il tuo sapore è molto buono e ce n'è anche tanto!."
+
+# game/day05.rpy:1314
+translate italian day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "Il sapore è molto buono e ce n'è tanto!."
+
+# game/day05.rpy:1316
+translate italian day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "Sono una brava ragazza ora [p_name]?."
+
+# game/day05.rpy:1338
+translate italian day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Dopo aver visto le prime foto il tuo pene è già duro."
+
+# game/day05.rpy:1343
+translate italian day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(Vorrei scopare quel sedere rotondo con tanta forza)."
+
+# game/day05.rpy:1346
+translate italian day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Dopo aver visto le prime foto il tuo pene è già duro."
+
+# game/day05.rpy:1350
+translate italian day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Guarda che gambe)"
+
+# game/day05.rpy:1352
+translate italian day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "{i}(Mi scoperei quelle tette senza pietà!)."
+
+# game/day05.rpy:1357
+translate italian day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(spero che [p_name] sia ancora sveglio, ho dimenticato di dirgli quale film vorrei vedere, nel caso debba prenotare i biglietti in anticipo)"
+
+# game/day05.rpy:1359
+translate italian day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "{i}(Cosa sta facendo? Il suo braccio si muove su e giù No Si sta masturbando?)."
+
+# game/day05.rpy:1360
+translate italian day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(Cazzo! Credo di aver sentito la porta È [r_name]?)"
+
+# game/day05.rpy:1364
+translate italian day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(Fanculo a chiunque sia Questa è la mia stanza e mi sto masturbando)"
+
+# game/day05.rpy:1365
+translate italian day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(Non si è accorto di me?)."
+
+# game/day05.rpy:1369
+translate italian day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(È piuttosto eccitante vederlo così)."
+
+# game/day05.rpy:1370
+translate italian day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "{i}(Hmmm Cosa?! Mi sto bagnando?)"
+
+# game/day05.rpy:1376
+translate italian day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Mi sentirò solo per un po')"
+
+# game/day05.rpy:1377
+translate italian day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Penso che sia ancora lì Questo mi rende ancora più difficile)."
+
+# game/day05.rpy:1380
+translate italian day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Meglio lasciarlo fare)."
+
+# game/day05.rpy:1382
+translate italian day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Si sente la porta chiudersi molto silenziosamente Sembra che tu sia di nuovo solo con Ana."
+
+# game/day05.rpy:1384
+translate italian day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Si sente la porta chiudersi molto silenziosamente Sembra che tu sia di nuovo solo con Jenna."
+
+# game/day05.rpy:1388
+translate italian day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Meglio fermarsi prima che si stranisca davvero)."
+
+# game/day05.rpy:1389
+translate italian day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}Quando ti giri, senti la porta chiudersi rapidamente."
+
+# game/day05.rpy:1390
+translate italian day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Mi chiedo chi fosse Non ho intenzione di scusarmi o altro anche se questa è la mia stanza)"
+
+# game/day05.rpy:1396
+translate italian day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Sta allargando quelle succose labbra di fica)."
+
+# game/day05.rpy:1397
+translate italian day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(Guarda che bellezza!)"
+
+# game/day05.rpy:1400
+translate italian day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1406
+translate italian day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Sto sborrando anch'io!)"
+
+# game/day05.rpy:1409
+translate italian day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah!!!)"
+
+# game/day05.rpy:1413
+translate italian day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Meglio andare via ora, parlerò con [p_name] domattina)"
+
+# game/day05.rpy:1417
+translate italian day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(credo che la persona alla porta se ne sia andata)."
+
+# game/day05.rpy:1418
+translate italian day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Era così caldo)"
+
+# game/day05.rpy:1421
+translate italian day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Ma aspetta Chi ha fatto quelle foto ad Ana?!)."
+
+# game/day05.rpy:1424
+translate italian day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "{i}(Metti quelle dita lì dentro Jenna!)."
+
+# game/day05.rpy:1426
+translate italian day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "{i}(Così, ragazza!)"
+
+# game/day05.rpy:1429
+translate italian day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1435
+translate italian day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Sto sborrando anch'io!)"
+
+# game/day05.rpy:1438
+translate italian day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah!!!)"
+
+# game/day05.rpy:1442
+translate italian day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Meglio andare via ora, parlerò con [p_name] domattina)"
+
+# game/day05.rpy:1446
+translate italian day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(credo che la persona alla porta se ne sia andata)."
+
+# game/day05.rpy:1447
+translate italian day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Era così caldo)"
+

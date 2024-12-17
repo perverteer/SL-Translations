@@ -5052,4 +5052,893 @@ translate italian day30_evening_choices_77c212ed:
 translate italian day30_evening_choices_26f2e183:
 
     # "{i}There do not seem to be any reservations between you and her, and you cuddle like a proper couple before falling asleep."
-    "{i}Non sembrano esserci riserve tra te e lei e vi coccolate come una vera coppia prima di addormentarvi."
+    "{i}Non sembrano esserci riserve tra te e lei e vi coccolate come una vera coppia prima di addormentarvi."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day30.rpy:1029
+translate italian day30_r_handjob_bf9adf1b:
+
+    # p "{i}(Is she really going to do this?)"
+    p "{i}(Lo farà davvero?)."
+
+# game/day30.rpy:1030
+translate italian day30_r_handjob_2628b085:
+
+    # p "{i}(This is too hot!)"
+    p "{i}(Questo è troppo caldo!)"
+
+# game/day30.rpy:1032
+translate italian day30_r_handjob_0daaa903:
+
+    # "{i}Your sister tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Tua sorella cerca di muovere le dita oltre la cintura dei tuoi pantaloni, ma è troppo difficile."
+
+# game/day30.rpy:1034
+translate italian day30_r_handjob_b83ed279:
+
+    # "{i}Your friend tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}La vostra amica cerca di muovere le dita oltre la cintura dei vostri pantaloni, ma è troppo difficile."
+
+# game/day30.rpy:1036
+translate italian day30_r_handjob_7527a716:
+
+    # "{i}Skillfully, she pulls the zipper down instead, freeing your growing erection, her body shielding the scene from the rest of the restaurant."
+    "{i}Abilmente tira giù la cerniera liberando la tua crescente erezione, mentre il suo corpo scherma la scena dal resto del ristorante."
+
+# game/day30.rpy:1037
+translate italian day30_r_handjob_2ff4100a:
+
+    # p "{i}(Fuck! [b_name] is going to notice!)"
+    p "{i}(Cazzo! [b_name] se ne accorgerà!)"
+
+# game/day30.rpy:1042
+translate italian day30_r_handjob_22679f04:
+
+    # "{i}But [b_name] doesn't notice, as she's firmly focused on the conversation with [r_name], who in turn begins to softly move her fingers over the head of your cock."
+    "{i}Ma [b_name] non se ne accorge, perché è fermamente concentrata sulla conversazione con [r_name], che a sua volta inizia a muovere dolcemente le dita sulla testa del tuo cazzo."
+
+# game/day30.rpy:1043
+translate italian day30_r_handjob_cec6a413:
+
+    # "{i}The touch makes you shiver, and it takes all your self-control to appear as an active participant in the conversation."
+    "{i}Il tocco ti fa rabbrividire e ci vuole tutto il tuo autocontrollo per apparire come un partecipante attivo alla conversazione."
+
+# game/day30.rpy:1044
+translate italian day30_r_handjob_3b4e6303:
+
+    # r "So I said it to her, just like that..."
+    r "Così le ho detto proprio così."
+
+# game/day30.rpy:1045
+translate italian day30_r_handjob_fd265ddb:
+
+    # b "You wouldn't!"
+    b "Non lo faresti!"
+
+# game/day30.rpy:1046
+translate italian day30_r_handjob_ba9b54e4:
+
+    # r "I did. She was super-pissed afterwards, of course."
+    r "L'ho fatto. Dopo si è incazzata di brutto, naturalmente."
+
+# game/day30.rpy:1047
+translate italian day30_r_handjob_7b0a7b75:
+
+    # b "Of course she was."
+    b "Certo che lo era"
+
+# game/day30.rpy:1048
+translate italian day30_r_handjob_61873aa8:
+
+    # "{i}Afraid the movements of her arm might give her away, [r_name] resorts to massaging your shaft with extra care. Her fingers explore the entirety of your cock, lingering on the sensitive areas of your glans."
+    "{i}Temendo che i movimenti del suo braccio potessero tradirla, [r_name] ricorre a massaggiare la tua asta con maggiore cura Le sue dita esplorano l'intero cazzo soffermandosi sulle zone sensibili del glande."
+
+# game/day30.rpy:1049
+translate italian day30_r_handjob_34b6f0cb:
+
+    # "{i}The precum that's already dripping from the tip of your penis is used by her as a lubricant."
+    "{i}Il precum che già cola dalla punta del pene viene usato da lei come lubrificante."
+
+# game/day30.rpy:1051
+translate italian day30_r_handjob_4d90cf88:
+
+    # b "So did she ever talk to you again afterwards?"
+    b "Allora, dopo ha parlato di nuovo con te?."
+
+# game/day30.rpy:1052
+translate italian day30_r_handjob_074351be:
+
+    # p "Nope. Never."
+    p "No, mai"
+
+# game/day30.rpy:1053
+translate italian day30_r_handjob_6435b31f:
+
+    # b "Ouch, that's harsh."
+    b "Ahi, che durezza."
+
+# game/day30.rpy:1054
+translate italian day30_r_handjob_42a7fc69:
+
+    # "{i}[b_name] doesn't even notice you're not paying attention anymore. All your focus is going to [r_name]'s fingers caressing your cock."
+    "{i}[b_name] non si accorge nemmeno che non stai più prestando attenzione Tutta la tua attenzione va alle dita di [r_name] che ti accarezzano il cazzo"
+
+# game/day30.rpy:1058
+translate italian day30_r_handjob_18797b0d:
+
+    # "{i}A small moan escapes you, as you think you can't hold out much longer. [r_name] notices and stops."
+    "{i}Ti sfugge un piccolo gemito mentre pensi di non poter resistere ancora a lungo [r_name] se ne accorge e si ferma."
+
+# game/day30.rpy:1059
+translate italian day30_r_handjob_5590690c:
+
+    # p "{i}(What?! No!)"
+    p "{i}(Cosa?! No!)"
+
+# game/day30.rpy:1061
+translate italian day30_r_handjob_c16cda11:
+
+    # "{i}Deftly she brushes the spoon that's on the table to the ground."
+    "{i}Abilmente spazzola il cucchiaio che è sul tavolo e lo fa cadere a terra."
+
+# game/day30.rpy:1062
+translate italian day30_r_handjob_e934c023:
+
+    # r "Stupid me. Dropped my spoon."
+    r "Stupido me, mi è caduto il cucchiaio."
+
+# game/day30.rpy:1063
+translate italian day30_r_handjob_c39dbcf2:
+
+    # r "Be right back."
+    r "Torno subito"
+
+# game/day30.rpy:1064
+translate italian day30_r_handjob_cbbe9a86:
+
+    # p "{i}(What's she playing at?)"
+    p "{i}(A cosa sta giocando?)"
+
+# game/day30.rpy:1069
+translate italian day30_r_handjob_2cce156b:
+
+    # "{i}At first, you think she's really looking for the spoon, but then you feel something warm and wet on your cock."
+    "{i}All'inizio pensi che stia davvero cercando il cucchiaio, ma poi senti qualcosa di caldo e umido sul tuo cazzo."
+
+# game/day30.rpy:1070
+translate italian day30_r_handjob_73ba43ad:
+
+    # p "{i}(God no, she isn't... not in the middle of...)"
+    p "{i}(Dio no, non è nel mezzo di)."
+
+# game/day30.rpy:1071
+translate italian day30_r_handjob_76ed38e2:
+
+    # b "Are you okay down there, [r_name]?"
+    b "Stai bene laggiù [r_name]?."
+
+# game/day30.rpy:1072
+translate italian day30_r_handjob_68a35dbb:
+
+    # r "Just a minute, it slipped beneath the bench."
+    r "Per un attimo è scivolato sotto la panchina."
+
+# game/day30.rpy:1073
+translate italian day30_r_handjob_6927f603:
+
+    # b "We can ask for a new one."
+    b "Possiamo chiederne uno nuovo."
+
+# game/day30.rpy:1074
+translate italian day30_r_handjob_e3b3d438:
+
+    # "{i}[r_name]'s lips wrap around your cock again, and she starts sucking. The pressure proves too much, and you cum nearly instantly."
+    "{i}Le labbra di [r_name] avvolgono di nuovo il tuo cazzo e lei inizia a succhiare La pressione si rivela eccessiva e tu sborri quasi all'istante."
+
+# game/day30.rpy:1077
+translate italian day30_r_handjob_0ef4190d:
+
+    # "{i}Luckily [b_name] is too preoccupied with something else, which allows you to orgasm unnoticed."
+    "{i}Per fortuna [b_name] è troppo preoccupato per qualcos'altro, il che ti permette di raggiungere l'orgasmo inosservato."
+
+# game/day30.rpy:1078
+translate italian day30_r_handjob_3580ead1:
+
+    # b "I'll just go and ask for another spoon."
+    b "Andrò a chiedere un altro cucchiaio."
+
+# game/day30.rpy:1083
+translate italian day30_r_handjob_a4e47b25:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your sister's eager mouth."
+    "{i}Quando [b_name] si allontana stai ancora pompando il seme nella bocca vogliosa di tua sorella."
+
+# game/day30.rpy:1085
+translate italian day30_r_handjob_0f85b111:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your friend's eager mouth."
+    "{i}Quando [b_name] si allontana stai ancora pompando il seme nella bocca vogliosa del tuo amico."
+
+# game/day30.rpy:1086
+translate italian day30_r_handjob_254e46c4:
+
+    # "{i}With a teasing lick of her tongue, you feel [r_name] disengaging from your cock."
+    "{i}Con una stuzzicante leccata di lingua senti [r_name] che si stacca dal tuo cazzo."
+
+# game/day30.rpy:1087
+translate italian day30_r_handjob_deee9a1b:
+
+    # r "Found it!"
+    r "Trovato!"
+
+# game/day30.rpy:1089
+translate italian day30_r_handjob_39391a2b:
+
+    # r "Oh, where did she go?"
+    r "Oh, dov'è andata?"
+
+# game/day30.rpy:1090
+translate italian day30_r_handjob_b6686276:
+
+    # p "To get a spoon."
+    p "Per prendere un cucchiaio"
+
+# game/day30.rpy:1091
+translate italian day30_r_handjob_c1c9b398:
+
+    # "{i}[r_name] winks at you as you manage to zip your pants before [b_name] returns."
+    "{i}[r_name] ti fa l'occhiolino mentre riesci a chiudere la zip dei pantaloni prima che [b_name] ritorni."
+
+# game/day30.rpy:1093
+translate italian day30_r_handjob_20f980c3:
+
+    # b "I got you a new spoon."
+    b "Ti ho preso un cucchiaio nuovo."
+
+# game/day30.rpy:1094
+translate italian day30_r_handjob_3c211131:
+
+    # r "Mmmm. I'm full."
+    r "Mmmm sono pieno"
+
+# game/day30.rpy:1095
+translate italian day30_r_handjob_1870fb85:
+
+    # p "{i}(My depraved, red-haired little angel!)"
+    p "{i}(Il mio depravato angioletto dai capelli rossi!)."
+
+# game/day30.rpy:1113
+translate italian day30_b_sex_a89b5669:
+
+    # b "I'm claiming my prize, right here and right now."
+    b "Rivendico il mio premio qui e ora."
+
+# game/day30.rpy:1118
+translate italian day30_b_sex_c2d1dece:
+
+    # "{i}As she speaks those last words, [b_name] unclasps her bra and slowly lowers her panties."
+    "{i}Mentre pronuncia queste ultime parole, [b_name] si slaccia il reggiseno e si abbassa lentamente le mutandine."
+
+# game/day30.rpy:1119
+translate italian day30_b_sex_ac218ea7:
+
+    # p "Are you sure it isn't more of a prize for me?"
+    p "Sei sicuro che non sia più un premio per me?."
+
+# game/day30.rpy:1120
+translate italian day30_b_sex_648931c1:
+
+    # b "You know, [p_name], you get stuck in metaphors a little too often."
+    b "Sai [p_name], ti sei impantanato nelle metafore un po' troppo spesso."
+
+# game/day30.rpy:1122
+translate italian day30_b_sex_4197198a:
+
+    # b "Let's just fuck our brains out, shall we?"
+    b "Scopiamoci il cervello, che ne dite?."
+
+# game/day30.rpy:1123
+translate italian day30_b_sex_a224e9e2:
+
+    # p "Hehe, works for me."
+    p "Per me funziona."
+
+# game/day30.rpy:1125
+translate italian day30_b_sex_c85ba8f0:
+
+    # "{i}You join your sister on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Raggiungi tua sorella sul letto e, dopo un breve momento di esplorazione del suo corpo con la punta delle dita, ti attira più vicino a sé."
+
+# game/day30.rpy:1127
+translate italian day30_b_sex_1870853e:
+
+    # "{i}You join your friend on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Raggiungi la tua amica sul letto e, dopo un breve momento di esplorazione del suo corpo con la punta delle dita, ti attira più vicino a sé."
+
+# game/day30.rpy:1128
+translate italian day30_b_sex_aa580faa:
+
+    # b "Shall we skip the foreplay?"
+    b "Vogliamo saltare i preliminari?."
+
+# game/day30.rpy:1129
+translate italian day30_b_sex_af3e1398:
+
+    # b "I just want to feel you..."
+    b "Voglio solo sentirti"
+
+# game/day30.rpy:1134
+translate italian day30_b_sex_1a554221:
+
+    # "{i}Her soft hands guide your cock inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Le sue mani morbide guidano il tuo cazzo all'interno della sua fessura bagnata Ti guarda con occhi impazienti, desiderando che tu vada avanti."
+
+# game/day30.rpy:1139
+translate italian day30_b_sex_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Quando [b_name] sospira dopo la prima spinta è un sospiro di sollievo e di piacere."
+
+# game/day30.rpy:1140
+translate italian day30_b_sex_a30e07e4:
+
+    # b "God, you feel so good."
+    b "Dio, ti senti così bene"
+
+# game/day30.rpy:1141
+translate italian day30_b_sex_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Entrambi stringete i vostri corpi il più possibile, come se voleste sentire di più l'uno dell'altro."
+
+# game/day30.rpy:1142
+translate italian day30_b_sex_4d0f4e4d:
+
+    # "{i}Your love-making is neither frantic, nor aggressive."
+    "{i}Il vostro modo di fare l'amore non è né frenetico né aggressivo."
+
+# game/day30.rpy:1143
+translate italian day30_b_sex_82d646a5:
+
+    # "{i}Instead you both enjoy long, deep thrusts, savoring the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Invece entrambi vi godete lunghe e profonde spinte, assaporando la sensazione della vostra asta venosa che sfrega contro i suoi umidi confini nervosi."
+
+# game/day30.rpy:1145
+translate italian day30_b_sex_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Per favore, non fermarti"
+
+# game/day30.rpy:1146
+translate italian day30_b_sex_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Non voglio che si fermi!."
+
+# game/day30.rpy:1148
+translate italian day30_b_sex_cacb8ceb:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even deeper."
+    "{i}Le sue parole successive si bloccano in gola, mentre tu trovi una posizione che ti permette di penetrarla ancora più a fondo."
+
+# game/day30.rpy:1150
+translate italian day30_b_sex_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}La figa di tua sorella sta diventando scivolosa per l'umidità che sta fuoriuscendo in abbondanza dalla sua vagina."
+
+# game/day30.rpy:1152
+translate italian day30_b_sex_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}La figa della tua amica sta diventando scivolosa per l'umidità che sta fuoriuscendo in abbondanza dalla sua vagina."
+
+# game/day30.rpy:1153
+translate italian day30_b_sex_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Solo il suo respiro affannoso è percepibile al di sopra dei suoni della passione accentuati dal massaggio dei suoi seni e dei capezzoli orgogliosamente eretti."
+
+# game/day30.rpy:1155
+translate italian day30_b_sex_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}[b_name] ha gli occhi rovesciati all'indietro e i denti stretti mentre si sditalina la figa per accompagnare la stimolazione che riceve dal tuo cazzo duro."
+
+# game/day30.rpy:1156
+translate italian day30_b_sex_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Le baci il collo e senti i muscoli tesi, ogni fibra del suo corpo è pronta per l'imminente e inevitabile rilascio."
+
+# game/day30.rpy:1163
+translate italian day30_b_sex_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Le sue convulsioni ti sorprendono ancora, mentre stringi la tua sorella improvvisamente tremante, mentre le onde dell'orgasmo la attraversano."
+
+# game/day30.rpy:1165
+translate italian day30_b_sex_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Le sue convulsioni ti sorprendono ancora, mentre stringi la tua amica improvvisamente tremante, mentre le onde dell'orgasmo la attraversano."
+
+# game/day30.rpy:1168
+translate italian day30_b_sex_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}La stimolazione delle sue contrazioni manda anche te oltre il limite."
+
+# game/day30.rpy:1169
+translate italian day30_b_sex_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "G-g-dio [b_name]!"
+
+# game/day30.rpy:1178
+translate italian day30_b_sex_f43963e4:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it releases in a river of cum that seems to flow endlessly."
+    "{i}Mentre sei ancora così profondamente dentro di lei, tiri fuori quasi troppo tardi. Riesci a dirigere il tuo cazzo verso il suo ventre, mentre si libera in un fiume di sperma che sembra scorrere all'infinito."
+
+# game/day30.rpy:1192
+translate italian day30_b_sex_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Mentre sei ancora così profondamente dentro di lei, il tuo cazzo esplode in un fiume di sperma che sembra scorrere all'infinito."
+
+# game/day30.rpy:1201
+translate italian day30_b_sex_fe0ab1db:
+
+    # b "Mmmm, there's so much of it, baby."
+    b "Mmmm ce n'è così tanta, piccola."
+
+# game/day30.rpy:1206
+translate italian day30_b_sex_58730cbb:
+
+    # "{i}Both smiling, you lie next to each other, basking in the afterglow of your lust."
+    "{i}Entrambi sorridenti, vi sdraiate l'uno accanto all'altro, crogiolandovi nel bagliore della vostra lussuria."
+
+# game/day30.rpy:1207
+translate italian day30_b_sex_5b062d3c:
+
+    # b "I really don't know how we do this every time."
+    b "Non so proprio come facciamo a farlo ogni volta."
+
+# game/day30.rpy:1208
+translate italian day30_b_sex_ecf4872a:
+
+    # p "Making a mess of every bed we lie upon?"
+    p "Fare disordine in ogni letto su cui ci sdraiamo?."
+
+# game/day30.rpy:1209
+translate italian day30_b_sex_d5278058:
+
+    # b "That too."
+    b "Anche questo"
+
+# game/day30.rpy:1210
+translate italian day30_b_sex_713c467f:
+
+    # b "But I was talking about the crazy hot sex we just had."
+    b "Ma io parlavo del sesso bollente che abbiamo appena fatto."
+
+# game/day30.rpy:1211
+translate italian day30_b_sex_7a5e75e7:
+
+    # p "Oh that. I'm sure it'll pass."
+    p "Oh, sono sicuro che passerà."
+
+# game/day30.rpy:1212
+translate italian day30_b_sex_29dedd4b:
+
+    # "{i}You emit a perfunctory grunt at the elbow in the side you receive from [b_name]."
+    "{i}Emetti un grugnito di circostanza per la gomitata nel fianco ricevuta da [b_name]."
+
+# game/day30.rpy:1213
+translate italian day30_b_sex_0a7939d3:
+
+    # b "As soon as that's the case I'll dump you and find a young stud to make my plaything."
+    b "Non appena sarà così, ti scaricherò e troverò un giovane stallone da far diventare il mio giocattolo."
+
+# game/day30.rpy:1214
+translate italian day30_b_sex_04cd152c:
+
+    # p "In that case I'll get me a nice harem of willing nubile girls."
+    p "In tal caso mi procurerò un bell'harem di volenterose ragazze nubili."
+
+# game/day30.rpy:1215
+translate italian day30_b_sex_6612fe99:
+
+    # b "Suuure!"
+    b "Suuure!"
+
+# game/day30.rpy:1216
+translate italian day30_b_sex_a67bc7ef:
+
+    # p "Watch me!"
+    p "Guardami!"
+
+# game/day30.rpy:1218
+translate italian day30_b_sex_aa8816fe:
+
+    # b "God, you know your stuff is still leaking out of me?"
+    b "Dio, lo sai che la tua roba continua a fuoriuscire da me?."
+
+# game/day30.rpy:1219
+translate italian day30_b_sex_3cd9d6d3:
+
+    # p "I'm not sure if I'm ready for that level of detail."
+    p "Non sono sicuro di essere pronto per questo livello di dettaglio."
+
+# game/day30.rpy:1220
+translate italian day30_b_sex_f08b7a94:
+
+    # b "You were very happy to fill me up just now."
+    b "Sei stato molto felice di riempirmi poco fa."
+
+# game/day30.rpy:1221
+translate italian day30_b_sex_136f08ac:
+
+    # p "That was in the heat of passion."
+    p "È stato in preda alla passione."
+
+# game/day30.rpy:1222
+translate italian day30_b_sex_fb9fbb20:
+
+    # b "Yeah, lots of sticky passion clinging to my thighs."
+    b "Sì, un sacco di passione appiccicata alle mie cosce."
+
+# game/day30.rpy:1223
+translate italian day30_b_sex_49d3b6af:
+
+    # p "Well maybe we'll get lucky and have triplets."
+    p "Forse saremo fortunati e avremo tre gemelli."
+
+# game/day30.rpy:1225
+translate italian day30_b_sex_9d358d84:
+
+    # b "[p_name]!"
+    b "[p_name]!"
+
+# game/day30.rpy:1226
+translate italian day30_b_sex_cee82782:
+
+    # p "Shit, sorry, bad joke."
+    p "Merda, scusate la battutaccia"
+
+# game/day30.rpy:1228
+translate italian day30_b_sex_8f42f273:
+
+    # b "But you know I'm on the pill, right?"
+    b "Ma lo sai che prendo la pillola, vero?."
+
+# game/day30.rpy:1229
+translate italian day30_b_sex_f5e1f349:
+
+    # p "Of course, I just made a stupid joke."
+    p "Ovviamente ho solo fatto una battuta stupida."
+
+# game/day30.rpy:1230
+translate italian day30_b_sex_f7a61144:
+
+    # b "Don't worry."
+    b "Non preoccuparti"
+
+# game/day30.rpy:1231
+translate italian day30_b_sex_adfc592a:
+
+    # b "Just kiss me and hold me, silly."
+    b "Baciami e abbracciami, sciocco."
+
+# game/day30.rpy:1233
+translate italian day30_b_sex_1dd26a96:
+
+    # b "God, you know your stuff is still dripping off my body?"
+    b "Dio, sai che la tua roba sta ancora gocciolando dal mio corpo?."
+
+# game/day30.rpy:1234
+translate italian day30_b_sex_4c00e69b:
+
+    # p "I'm not sure if I'm ready for that level detail."
+    p "Non sono sicuro di essere pronto per quel livello di dettaglio."
+
+# game/day30.rpy:1235
+translate italian day30_b_sex_c8745a14:
+
+    # b "You were very happy to make an enormous mess just now."
+    b "Sei stato molto felice di fare un enorme pasticcio poco fa."
+
+# game/day30.rpy:1236
+translate italian day30_b_sex_136f08ac_1:
+
+    # p "That was in the heat of passion."
+    p "È stato in preda alla passione."
+
+# game/day30.rpy:1237
+translate italian day30_b_sex_5fd8e631:
+
+    # b "Yeah, lots of sticky passion clinging to my breasts and belly."
+    b "Sì, un sacco di passione appiccicosa sul mio seno e sulla mia pancia."
+
+# game/day30.rpy:1238
+translate italian day30_b_sex_8df6fc01:
+
+    # p "I'll get you a wet towel."
+    p "Ti prendo un asciugamano bagnato."
+
+# game/day30.rpy:1240
+translate italian day30_b_sex_6d1edd82:
+
+    # b "Nah, I just want you to kiss and hold me."
+    b "No, voglio solo che tu mi baci e mi abbracci."
+
+# game/day30.rpy:1242
+translate italian day30_b_sex_ce48a7c6:
+
+    # "{i}You do just that and after a very long good night's kiss, you fall asleep in [b_name]'s arms."
+    "{i}Lo fate e dopo un lunghissimo bacio della buonanotte vi addormentate tra le braccia di [b_name]."
+
+# game/day30.rpy:1261
+translate italian day30_b_sex_hard_c5c25e74:
+
+    # b "Oh god..."
+    b "Oh Dio"
+
+# game/day30.rpy:1267
+translate italian day30_b_sex_hard_155a77a1:
+
+    # "{i}You turn the dial further up and move towards her to wrap your arms around her, [b_name] is too caught up in the vibrations of the egg to protest."
+    "{i}Alzi ulteriormente la manopola e ti avvicini a lei per avvolgerla con le braccia [b_name] è troppo preso dalle vibrazioni dell'uovo per protestare."
+
+# game/day30.rpy:1268
+translate italian day30_b_sex_hard_32995828:
+
+    # p "You know you're special to me too."
+    p "Sai che anche tu sei speciale per me."
+
+# game/day30.rpy:1269
+translate italian day30_b_sex_hard_49b17505:
+
+    # b "I don't care..."
+    b "Non mi interessa"
+
+# game/day30.rpy:1271
+translate italian day30_b_sex_hard_0adb5808:
+
+    # p "But I told you before, that I have the freedom to see other women."
+    p "Ma ti ho già detto che ho la libertà di vedere altre donne."
+
+# game/day30.rpy:1273
+translate italian day30_b_sex_hard_69e084dc:
+
+    # p "You are, but that doesn't mean I don't have the freedom to see other women."
+    p "Lo sei, ma questo non significa che non abbia la libertà di vedere altre donne."
+
+# game/day30.rpy:1274
+translate italian day30_b_sex_hard_4fc5b27b:
+
+    # b "But [r_name]?!"
+    b "Ma [r_name]?!."
+
+# game/day30.rpy:1275
+translate italian day30_b_sex_hard_811a6300:
+
+    # p "Yes, what about her?"
+    p "Sì, e lei?"
+
+# game/day30.rpy:1276
+translate italian day30_b_sex_hard_6bbc92fd:
+
+    # p "She's beautiful, sweet and just absolutely great."
+    p "È bellissima, dolce e assolutamente fantastica."
+
+# game/day30.rpy:1278
+translate italian day30_b_sex_hard_9cf9877d:
+
+    # p "Which isn't much of a surprise, considering she's your sister."
+    p "Il che non è una sorpresa, visto che è tua sorella."
+
+# game/day30.rpy:1279
+translate italian day30_b_sex_hard_5fbb4c2f:
+
+    # p "And I'll love you both just as much."
+    p "E vi amerò entrambi allo stesso modo."
+
+# game/day30.rpy:1280
+translate italian day30_b_sex_hard_32625464:
+
+    # b "I don't..."
+    b "Non"
+
+# game/day30.rpy:1284
+translate italian day30_b_sex_hard_3f9bd061:
+
+    # "{i}As you kiss, you turn the vibrator off, [b_name] is eagerly kissing you back without the arousing effect of the vibrator."
+    "{i}Mentre vi baciate, spegnete il vibratore [b_name] vi bacia avidamente senza l'effetto eccitante del vibratore."
+
+# game/day30.rpy:1285
+translate italian day30_b_sex_hard_628fec4d:
+
+    # p "Do you want me to make love to you?"
+    p "Vuoi che faccia l'amore con te?."
+
+# game/day30.rpy:1286
+translate italian day30_b_sex_hard_81039d72:
+
+    # b "Y-y-yes!"
+    b "S-sì!"
+
+# game/day30.rpy:1291
+translate italian day30_b_sex_hard_0b49445f:
+
+    # "{i}Within moments you've lost all of your clothing, your cock reacting instantly to [b_name]'s naked body."
+    "{i}In pochi istanti hai perso tutti i tuoi vestiti e il tuo cazzo ha reagito istantaneamente al corpo nudo di [b_name]."
+
+# game/day30.rpy:1293
+translate italian day30_b_sex_hard_8b591ce3:
+
+    # p "Lie down for me."
+    p "Sdraiati per me"
+
+# game/day30.rpy:1294
+translate italian day30_b_sex_hard_c6495911:
+
+    # p "You may pull your vibrator out."
+    p "Puoi estrarre il tuo vibratore."
+
+# game/day30.rpy:1296
+translate italian day30_b_sex_hard_f2dfe94b:
+
+    # "{i}You join your sister on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Raggiungi tua sorella sul letto e, dopo un breve momento di esplorazione del suo corpo con la punta delle dita, la avvicini a te."
+
+# game/day30.rpy:1298
+translate italian day30_b_sex_hard_253cf534:
+
+    # "{i}You join your friend on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Raggiungi la tua amica sul letto e, dopo un breve momento di esplorazione del suo corpo con la punta delle dita, la avvicini a te."
+
+# game/day30.rpy:1304
+translate italian day30_b_sex_hard_2d41f377:
+
+    # "{i}You decide to go slow on her, guiding your cock deep inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Decidi di andare piano su di lei guidando il tuo cazzo in profondità nella sua fessura bagnata Lei ti guarda con occhi impazienti volendo che tu vada avanti."
+
+# game/day30.rpy:1309
+translate italian day30_b_sex_hard_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Quando [b_name] sospira dopo la prima spinta è un sospiro di sollievo e di piacere."
+
+# game/day30.rpy:1310
+translate italian day30_b_sex_hard_58f9c4af:
+
+    # p "Does that feel good?"
+    p "Ti fa sentire bene?"
+
+# game/day30.rpy:1311
+translate italian day30_b_sex_hard_996da41a:
+
+    # b "...Y-yes..."
+    b "S-sì"
+
+# game/day30.rpy:1312
+translate italian day30_b_sex_hard_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Entrambi stringete i vostri corpi il più possibile, come se voleste sentire di più l'uno dell'altro."
+
+# game/day30.rpy:1313
+translate italian day30_b_sex_hard_341a7bd2:
+
+    # "{i}The long, deep thrusts are enjoyable to you both. You savor the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Le spinte lunghe e profonde sono piacevoli per entrambi. Assapori la sensazione della tua asta venosa che sfrega contro i suoi umidi confini rigati."
+
+# game/day30.rpy:1315
+translate italian day30_b_sex_hard_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Per favore, non fermarti"
+
+# game/day30.rpy:1316
+translate italian day30_b_sex_hard_6d11accc:
+
+    # p "What did you say?"
+    p "Che cosa hai detto?"
+
+# game/day30.rpy:1317
+translate italian day30_b_sex_hard_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Non voglio che si fermi!."
+
+# game/day30.rpy:1318
+translate italian day30_b_sex_hard_835e6e79:
+
+    # p "{i}(She just said that out loud. Wow.)"
+    p "{i}(L'ha appena detto ad alta voce Wow)"
+
+# game/day30.rpy:1319
+translate italian day30_b_sex_hard_516395a7:
+
+    # p "I won't."
+    p "Non lo farò"
+
+# game/day30.rpy:1321
+translate italian day30_b_sex_hard_8a80d1ca:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even more deeply."
+    "{i}Le sue parole successive si bloccano in gola mentre voi trovate una posizione che vi permette di penetrarla ancora più profondamente."
+
+# game/day30.rpy:1323
+translate italian day30_b_sex_hard_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}La figa di tua sorella sta diventando scivolosa per l'umidità che sta fuoriuscendo in abbondanza dalla sua vagina."
+
+# game/day30.rpy:1325
+translate italian day30_b_sex_hard_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}La figa della tua amica sta diventando scivolosa per l'umidità che sta fuoriuscendo in abbondanza dalla sua vagina."
+
+# game/day30.rpy:1326
+translate italian day30_b_sex_hard_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Solo il suo respiro affannoso è percepibile al di sopra dei suoni della passione accentuati dal massaggio dei suoi seni e dei capezzoli orgogliosamente eretti."
+
+# game/day30.rpy:1328
+translate italian day30_b_sex_hard_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}[b_name] ha gli occhi rovesciati all'indietro e i denti stretti mentre si sditalina la figa per accompagnare la stimolazione che riceve dal tuo cazzo duro."
+
+# game/day30.rpy:1329
+translate italian day30_b_sex_hard_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Le baci il collo e senti i muscoli tesi, ogni fibra del suo corpo è pronta per l'imminente e inevitabile rilascio."
+
+# game/day30.rpy:1336
+translate italian day30_b_sex_hard_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Le sue convulsioni ti sorprendono ancora, mentre stringi la tua sorella improvvisamente tremante, mentre le onde dell'orgasmo la attraversano."
+
+# game/day30.rpy:1338
+translate italian day30_b_sex_hard_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Le sue convulsioni ti sorprendono ancora, mentre stringi la tua amica improvvisamente tremante, mentre le onde dell'orgasmo la attraversano."
+
+# game/day30.rpy:1340
+translate italian day30_b_sex_hard_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}La stimolazione delle sue contrazioni manda anche te oltre il limite."
+
+# game/day30.rpy:1341
+translate italian day30_b_sex_hard_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "G-g-dio [b_name]!"
+
+# game/day30.rpy:1350
+translate italian day30_b_sex_hard_c711bb9b:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it in a river of cum that seems to flow endlessly."
+    "{i}Mentre sei ancora così profondamente dentro di lei, ti tiri fuori quasi troppo tardi. Riesci a dirigere il tuo cazzo verso il suo ventre, in un fiume di sperma che sembra scorrere all'infinito."
+
+# game/day30.rpy:1366
+translate italian day30_b_sex_hard_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Mentre sei ancora così profondamente dentro di lei, il tuo cazzo esplode in un fiume di sperma che sembra scorrere all'infinito."
+
+# game/day30.rpy:1374
+translate italian day30_b_sex_hard_1683b5e2:
+
+    # "{i}You lie next to each other, in silence, basking in the afterglow of your lust."
+    "{i}Vi sdraiate l'uno accanto all'altro in silenzio, crogiolandovi nel bagliore della vostra lussuria."
+

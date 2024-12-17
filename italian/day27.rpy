@@ -4754,4 +4754,1355 @@ translate italian day27_flashback_485f4ac7:
 translate italian day27_flashback_2f5381cb:
 
     # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
+    "{i}Lo sperma colava dalla sua figa sul mio cazzo e sul letto di mio padre, la tenevo stretta stringendo il suo corpo disperatamente tra le mie braccia, il mio cazzo ancora spasimava dentro di lei, non ero più vergine."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day27.rpy:900
+translate italian day27_b_hotel_sex_196229c9:
+
+    # "{i}You provide them with your room number and slip out of bed to join [b_name] in the shower."
+    "{i}Fornisci loro il numero della tua stanza e scivoli fuori dal letto per raggiungere [b_name] nella doccia."
+
+# game/day27.rpy:905
+translate italian day27_b_hotel_sex_8c4a2c58:
+
+    # "{i}Without saying anything, you kiss, your hands trailing the curves of her wet body. Teasingly you grab hold of the sponge she was using."
+    "{i}Senza dire nulla, baci le tue mani che percorrono le curve del suo corpo bagnato e, con fare provocatorio, afferri la spugna che stava usando."
+
+# game/day27.rpy:906
+translate italian day27_b_hotel_sex_3a25df90:
+
+    # b "Hey!"
+    b "Ehi!"
+
+# game/day27.rpy:908
+translate italian day27_b_hotel_sex_cec0e92e:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, your sister lets out a contented sigh and leans back."
+    "{i}Impugnando la spugna, continuate a strofinarle dolcemente il corpo Quando tracciate la bella forma dei suoi seni, vostra sorella emette un sospiro soddisfatto e si appoggia allo schienale."
+
+# game/day27.rpy:910
+translate italian day27_b_hotel_sex_91bd6d71:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
+    "{i}Impugnando la spugna continuate a strofinare dolcemente il suo corpo Quando tracciate la bella forma dei suoi seni [b_name] emette un sospiro soddisfatto e si appoggia all'indietro."
+
+# game/day27.rpy:911
+translate italian day27_b_hotel_sex_cbc1201f:
+
+    # b "Hmmmm. Keep doing that."
+    b "Hmmmm Continua a farlo"
+
+# game/day27.rpy:912
+translate italian day27_b_hotel_sex_1f668261:
+
+    # b "You do know that after this, I'll call you every time I take a shower now, don't you?"
+    b "Lo sai che dopo questo ti chiamerò ogni volta che farò la doccia, vero?."
+
+# game/day27.rpy:913
+translate italian day27_b_hotel_sex_8c0a3e96:
+
+    # p "You say that like it's a bad thing."
+    p "Lo dici come se fosse una cosa negativa."
+
+# game/day27.rpy:915
+translate italian day27_b_hotel_sex_a6628d41:
+
+    # "{i}You turn your attention to her lower body, her toned thighs, the soft rise of her pussy."
+    "{i}Rivolgi la tua attenzione alla parte inferiore del suo corpo, alle cosce toniche, al morbido rialzo della sua figa."
+
+# game/day27.rpy:916
+translate italian day27_b_hotel_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day27.rpy:917
+translate italian day27_b_hotel_sex_300701d2:
+
+    # p "I..."
+    p "I"
+
+# game/day27.rpy:919
+translate italian day27_b_hotel_sex_2f041b28:
+
+    # "{i}Desire overcomes you both and you touch her, hungry for her soft skin."
+    "{i}Il desiderio vi travolge entrambi e la toccate affamati della sua pelle morbida."
+
+# game/day27.rpy:925
+translate italian day27_b_hotel_sex_2b4aea2b:
+
+    # "{i}Suddenly you're startled by the doorbell ringing."
+    "{i}Improvvisamente siete svegliati dal campanello che suona."
+
+# game/day27.rpy:926
+translate italian day27_b_hotel_sex_7ed3e395:
+
+    # p "Fuck. I ordered room service..."
+    p "Cazzo, ho ordinato il servizio in camera"
+
+# game/day27.rpy:927
+translate italian day27_b_hotel_sex_e838c68b:
+
+    # b "How sweet!"
+    b "Che dolce!"
+
+# game/day27.rpy:928
+translate italian day27_b_hotel_sex_1dd7540e:
+
+    # p "Yeah well, if only the timing was a bit better..."
+    p "Sì, se solo il tempismo fosse un po' migliore."
+
+# game/day27.rpy:931
+translate italian day27_b_hotel_sex_cc75db61:
+
+    # "{i}You wrap a towel around your body and head to the door. A cart is pushed inside your room, and after tipping the server, you close the door again."
+    "{i}Un carrello viene spinto all'interno della stanza e dopo aver dato la mancia al cameriere si richiude la porta."
+
+# game/day27.rpy:932
+translate italian day27_b_hotel_sex_266a237d:
+
+    # p "So... I guess we should have some breakfast?"
+    p "Allora, credo che dovremmo fare colazione?."
+
+# game/day27.rpy:934
+translate italian day27_b_hotel_sex_ec9e26e4:
+
+    # b "Nope, I want something entirely different first."
+    b "No, prima voglio qualcosa di completamente diverso."
+
+# game/day27.rpy:935
+translate italian day27_b_hotel_sex_078c5a26:
+
+    # p "Oh..."
+    p "Oh"
+
+# game/day27.rpy:937
+translate italian day27_b_hotel_sex_6941d4e7:
+
+    # "{i}You jump on the bed, next to a giggling [b_name] and shower her body with kisses. [b_name] makes it clear she isn't interested in foreplay this time and turns her attention to your cock."
+    "{i}Salti sul letto accanto a una [b_name] ridacchiante e le inondi il corpo di baci [b_name] fa capire che stavolta non è interessata ai preliminari e rivolge la sua attenzione al tuo cazzo."
+
+# game/day27.rpy:942
+translate italian day27_b_hotel_sex_cfbca683:
+
+    # "{i}She guides you inside her, a warm feeling engulfing your cock. The hungry look in her eyes matching her wetness down below."
+    "{i}Ti guida dentro di lei, una sensazione di calore che inghiotte il tuo cazzo Lo sguardo affamato dei suoi occhi corrisponde al suo umore in basso."
+
+# game/day27.rpy:947
+translate italian day27_b_hotel_sex_d7fa3cac:
+
+    # "{i}Without a word, you both surrender to your love making. Small thrusts ensure that your warm bodies are in contact most of the time. You bury your head in the perfume of her still-wet hair."
+    "{i}Senza una parola, vi abbandonate entrambi al vostro gioco d'amore Piccole spinte fanno sì che i vostri corpi caldi siano a contatto per la maggior parte del tempo Tu seppellisci la testa nel profumo dei suoi capelli ancora bagnati"
+
+# game/day27.rpy:948
+translate italian day27_b_hotel_sex_5fc60217:
+
+    # b "Oh, [p_name]!"
+    b "Oh [p_name]!"
+
+# game/day27.rpy:952
+translate italian day27_b_hotel_sex_07a91112:
+
+    # "{i}When your dick slips out of her pussy, [b_name] squirms from your grasp, pressing a finger against your lips as you begin to protest."
+    "{i}Quando il tuo cazzo scivola fuori dalla sua figa [b_name] si contorce dalla tua presa premendo un dito contro le tue labbra mentre inizi a protestare."
+
+# game/day27.rpy:953
+translate italian day27_b_hotel_sex_203a0f34:
+
+    # b "Ssssh, just lie down."
+    b "Ssssh, sdraiati"
+
+# game/day27.rpy:959
+translate italian day27_b_hotel_sex_052ebcda:
+
+    # "{i}Your sister squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Tua sorella si accovaccia sopra di te e spinge lentamente la tua erezione nella sua fessura mordendosi il labbro mentre lo fa."
+
+# game/day27.rpy:961
+translate italian day27_b_hotel_sex_66615e02:
+
+    # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Si accovaccia sopra di te e spinge lentamente la tua erezione nella sua fessura mordendosi le labbra."
+
+# game/day27.rpy:962
+translate italian day27_b_hotel_sex_c43c4bff:
+
+    # "{i}Her pussy lips fold around your shaft. With closed eyes, [b_name] moans as the entirety of your shaft slides inside her."
+    "{i}Le labbra della sua figa si piegano intorno alla tua asta Con gli occhi chiusi [b_name] geme mentre la totalità della tua asta scivola dentro di lei."
+
+# game/day27.rpy:964
+translate italian day27_b_hotel_sex_d24d13ee:
+
+    # "{i}When she starts to move, you nearly climax. Instead you focus your attention on her beautiful breasts, that bounce with the rhythm of your fucking."
+    "{i}Quando inizia a muoversi stai per raggiungere l'orgasmo, invece concentri la tua attenzione sui suoi bellissimi seni che rimbalzano al ritmo della tua scopata."
+
+# game/day27.rpy:965
+translate italian day27_b_hotel_sex_0f2d2c99:
+
+    # "{i}The position obviously gives [b_name] heightened pleasure as she moves up and down your cock ever faster, her butt slapping onto your skin."
+    "{i}La posizione ovviamente dà a [b_name] un piacere maggiore, mentre si muove su e giù per il tuo cazzo sempre più velocemente, con il sedere che sbatte sulla tua pelle."
+
+# game/day27.rpy:972
+translate italian day27_b_hotel_sex_5e8446ed:
+
+    # b "G-g-g-god! Y-yes!"
+    b "G-g-g-dio! S-sì!"
+
+# game/day27.rpy:974
+translate italian day27_b_hotel_sex_c474c697:
+
+    # "{i}Delirious, your sister orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Delirious tua sorella ha un orgasmo sopra di te A causa delle sue convulsioni di piacere devi prendere il comando."
+
+# game/day27.rpy:976
+translate italian day27_b_hotel_sex_814837df:
+
+    # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Delirante [b_name] orgasmi sopra di te A causa delle sue convulsioni di piacere devi prendere il comando"
+
+# game/day27.rpy:978
+translate italian day27_b_hotel_sex_d6e04d49:
+
+    # "{i}With her straddling your body, you move your hips quickly, penetrating her like rapid-fire."
+    "{i}Con lei a cavalcioni sul tuo corpo, muovi rapidamente i fianchi penetrandola a raffica."
+
+# game/day27.rpy:988
+translate italian day27_b_hotel_sex_608db639:
+
+    # "{i}Her constricting vagina proves too much for your cock, and your semen mixes with her juices inside her wet slit."
+    "{i}La sua vagina costrittiva si rivela troppo per il tuo cazzo e il tuo sperma si mescola ai suoi succhi all'interno della sua fessura umida."
+
+# game/day27.rpy:1001
+translate italian day27_b_hotel_sex_70f58587:
+
+    # "{i}Her constricting vagina proves too much for your cock, and after pulling out of her wet slit, you cover her lower body with thick streams of semen."
+    "{i}La sua vagina costrittiva si rivela troppo per il tuo cazzo e, dopo essere uscito dalla sua fessura umida, le ricopri la parte inferiore del corpo con spessi fiotti di sperma."
+
+# game/day27.rpy:1009
+translate italian day27_b_hotel_sex_da652819:
+
+    # "{i}Exhausted you lie in each others arms, your fingertips stroking her soft skin."
+    "{i}Esausti vi sdraiate l'uno nelle braccia dell'altro, i vostri polpastrelli accarezzano la sua pelle morbida."
+
+# game/day27.rpy:1010
+translate italian day27_b_hotel_sex_fa3f408e:
+
+    # b "Mmmmm. I don't know if I want to go home."
+    b "Mmmmm non so se voglio andare a casa."
+
+# game/day27.rpy:1011
+translate italian day27_b_hotel_sex_1249acbe:
+
+    # p "Me neither."
+    p "Nemmeno io"
+
+# game/day27.rpy:1012
+translate italian day27_b_hotel_sex_995bd1f9:
+
+    # b "The cleaning staff will be here soon."
+    b "Il personale delle pulizie sarà qui a breve."
+
+# game/day27.rpy:1013
+translate italian day27_b_hotel_sex_167f6a45:
+
+    # p "We could just lock the door and hide in the bathroom."
+    p "Potremmo chiudere la porta e nasconderci in bagno."
+
+# game/day27.rpy:1014
+translate italian day27_b_hotel_sex_4bfd9a22:
+
+    # b "I'm pretty sure it doesn't work like that."
+    b "Sono abbastanza sicuro che non funzioni così."
+
+# game/day27.rpy:1016
+translate italian day27_b_hotel_sex_edd34605:
+
+    # "{i}At the same time, you both let out a contented sigh. Laughing, you kiss again and lie on the bed for a little longer, until you deem it time to leave the hotel and head home."
+    "{i}Nello stesso momento entrambi emettete un sospiro soddisfatto Ridendo vi baciate di nuovo e rimanete sdraiati sul letto ancora per un po', finché non ritenete che sia ora di lasciare l'hotel e tornare a casa."
+
+# game/day27.rpy:1032
+translate italian day27_b_vibrator_e8e049ba:
+
+    # "{i}With a resigned sigh, [b_name] stands up and walks away. You notice she's holding the vibrator and has left the remote on the table."
+    "{i}Con un sospiro rassegnato [b_name] si alza e si allontana Si nota che ha in mano il vibratore e ha lasciato il telecomando sul tavolo"
+
+# game/day27.rpy:1033
+translate italian day27_b_vibrator_8f7a7797:
+
+    # p "{i}(Is she going to...?)"
+    p "{i}(Lo farà?)"
+
+# game/day27.rpy:1035
+translate italian day27_b_vibrator_7809015c:
+
+    # "{i}You see her walk very slowly towards the restrooms, as if she's still hesitating."
+    "{i}La si vede camminare molto lentamente verso i bagni, come se stesse ancora esitando."
+
+# game/day27.rpy:1036
+translate italian day27_b_vibrator_de30eed8:
+
+    # p "{i}(That's my girl!)"
+    p "{i}(Questa è la mia ragazza!)"
+
+# game/day27.rpy:1038
+translate italian day27_b_vibrator_b32fd03b:
+
+    # "{i}After a short while, [b_name] returns, no longer holding the pink egg."
+    "{i}Dopo poco tempo [b_name] ritorna senza tenere più l'uovo rosa."
+
+# game/day27.rpy:1039
+translate italian day27_b_vibrator_62289d3a:
+
+    # p "Now, spread your legs for me."
+    p "Ora allarga le gambe per me"
+
+# game/day27.rpy:1040
+translate italian day27_b_vibrator_4bc98f10:
+
+    # b "I could've flushed the fucking thing down the toilet."
+    b "Avrei potuto buttare quella cazzo di cosa nel cesso."
+
+# game/day27.rpy:1041
+translate italian day27_b_vibrator_f24c6c98:
+
+    # p "You didn't."
+    p "Non l'hai fatto"
+
+# game/day27.rpy:1043
+translate italian day27_b_vibrator_80593731:
+
+    # "{i}When [b_name] finally parts her legs, you can see the pink vibrator peeping out of her pussy."
+    "{i}Quando [b_name] finalmente apre le gambe, si può vedere il vibratore rosa che fa capolino dalla sua figa."
+
+# game/day27.rpy:1045
+translate italian day27_b_vibrator_17cc86a6:
+
+    # p "Good girl!"
+    p "Brava!"
+
+# game/day27.rpy:1047
+translate italian day27_b_vibrator_5316ce8d:
+
+    # "{i}[b_name] abruptly closes her legs again as Megan saunters over. Before anybody notices, you manage to grab the remote control from the table."
+    "{i}Prima che qualcuno si accorga che sei riuscita a prendere il telecomando dal tavolo."
+
+# game/day27.rpy:1048
+translate italian day27_b_vibrator_01023b9e:
+
+    # me "I got those supplies you asked for."
+    me "Ho ricevuto le forniture che mi avevi chiesto."
+
+# game/day27.rpy:1049
+translate italian day27_b_vibrator_b2176539:
+
+    # p "{i}(Now is as good a time as any to test it out, I think.)"
+    p "{i}(Questo è un momento come un altro per provarlo, credo)."
+
+# game/day27.rpy:1053
+translate italian day27_b_vibrator_04eb7dac:
+
+    # "{i}Under the table, you turn the dial slightly upwards."
+    "{i}Sotto il tavolo si gira il quadrante leggermente verso l'alto."
+
+# game/day27.rpy:1058
+translate italian day27_b_vibrator_3ee9f29d:
+
+    # b "Wuh..."
+    b "Wuh"
+
+# game/day27.rpy:1059
+translate italian day27_b_vibrator_eba830bd:
+
+    # me "Did I forget something?"
+    me "Ho dimenticato qualcosa?"
+
+# game/day27.rpy:1060
+translate italian day27_b_vibrator_e6280fec:
+
+    # b "N-n-no..."
+    b "N-n-no"
+
+# game/day27.rpy:1061
+translate italian day27_b_vibrator_495727fd:
+
+    # "{i}Several emotions are visible on [b_name]'s face, a mixture of repressed pleasure and agony being the main one."
+    "{i}Sul volto di [b_name] sono visibili diverse emozioni, la principale delle quali è un misto di piacere e agonia repressi."
+
+# game/day27.rpy:1062
+translate italian day27_b_vibrator_e1b19d79:
+
+    # me "Did you need anything else?"
+    me "Ha bisogno di qualcos'altro?"
+
+# game/day27.rpy:1063
+translate italian day27_b_vibrator_c5c56418:
+
+    # b "I... N..."
+    b "I N"
+
+# game/day27.rpy:1064
+translate italian day27_b_vibrator_010c86ab:
+
+    # me "Are you alright, [b_name]?"
+    me "Stai bene [b_name]?."
+
+# game/day27.rpy:1071
+translate italian day27_b_vibrator_ac24ee5d:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring your sister, but she seems to be able to retain her composure, more or less."
+    "{i}L'uovo sta ancora facendo godere tua sorella, ma lei sembra riuscire a mantenere più o meno la calma."
+
+# game/day27.rpy:1073
+translate italian day27_b_vibrator_016f6ff8:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
+    "{i}L'uovo sta ancora dando piacere a [b_name], ma lei sembra riuscire a mantenere più o meno la calma."
+
+# game/day27.rpy:1074
+translate italian day27_b_vibrator_d1e07412:
+
+    # b "Yes... Just feeling a little lightheaded."
+    b "Sì, mi sento solo un po' stordito."
+
+# game/day27.rpy:1075
+translate italian day27_b_vibrator_28383b11:
+
+    # b "I'm feeling better already."
+    b "Mi sento già meglio"
+
+# game/day27.rpy:1081
+translate italian day27_b_vibrator_9276f31b:
+
+    # "{i}After those words, you turn the dial all the way up. The force of the egg's vibrations force open the girl's legs and she slams a fist on the table."
+    "{i}La forza delle vibrazioni dell'uovo fa aprire le gambe della ragazza che sbatte un pugno sul tavolo."
+
+# game/day27.rpy:1082
+translate italian day27_b_vibrator_15e5c36b:
+
+    # b "Aaaah..."
+    b "Aaaah"
+
+# game/day27.rpy:1083
+translate italian day27_b_vibrator_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1084
+translate italian day27_b_vibrator_b469670c:
+
+    # p "Is everything okay, [b_name]?"
+    p "Va tutto bene [b_name]?."
+
+# game/day27.rpy:1085
+translate italian day27_b_vibrator_3cfd3ad0:
+
+    # b "...I'm fine."
+    b "Sto bene"
+
+# game/day27.rpy:1086
+translate italian day27_b_vibrator_99681889:
+
+    # me "Girl, you're sweating."
+    me "Ragazza, stai sudando."
+
+# game/day27.rpy:1087
+translate italian day27_b_vibrator_f2d96e30:
+
+    # b "I'll b-be j-just fine in a minute."
+    b "Starò bene tra un minuto."
+
+# game/day27.rpy:1088
+translate italian day27_b_vibrator_5bb24395:
+
+    # me "Take as long as you need, I'll take over for you in the mean time."
+    me "Prenditi tutto il tempo che ti serve, nel frattempo ti sostituisco io."
+
+# game/day27.rpy:1090
+translate italian day27_b_vibrator_3f755b65:
+
+    # b "T-thanks..."
+    b "Grazie"
+
+# game/day27.rpy:1092
+translate italian day27_b_vibrator_2dad7135:
+
+    # "{i}As soon as Megan walks away, [b_name] shoots an angry glance at you, she's only able to speak through gritted teeth."
+    "{i}Appena Megan si allontana [b_name] le lancia un'occhiata arrabbiata e riesce a parlare solo a denti stretti."
+
+# game/day27.rpy:1093
+translate italian day27_b_vibrator_40e42da9:
+
+    # b "T-t-turn it off!"
+    b "Spegnetelo!."
+
+# game/day27.rpy:1094
+translate italian day27_b_vibrator_58ee35ab:
+
+    # p "Hmmm?"
+    p "Hmmm?"
+
+# game/day27.rpy:1095
+translate italian day27_b_vibrator_490f1e1c:
+
+    # b "T-turn i-it off, p-p-please."
+    b "Spegnetelo, per favore."
+
+# game/day27.rpy:1100
+translate italian day27_b_vibrator_6fee07d3:
+
+    # "{i}Satisfied with her answer, you turn the dial all the way down to zero."
+    "{i}Soddisfatti della sua risposta, abbassate la manopola fino a zero."
+
+# game/day27.rpy:1101
+translate italian day27_b_vibrator_521c64a8:
+
+    # b "I'm going to kill you for this, you know that?"
+    b "Ti ucciderò per questo, lo sai?."
+
+# game/day27.rpy:1102
+translate italian day27_b_vibrator_6802e4fc:
+
+    # p "Easy now, just remind yourself of who's holding the remote control."
+    p "Facile, ora ricordati chi ha in mano il telecomando."
+
+# game/day27.rpy:1103
+translate italian day27_b_vibrator_46258e98:
+
+    # b "I have to get back to work."
+    b "Devo tornare al lavoro."
+
+# game/day27.rpy:1104
+translate italian day27_b_vibrator_c443c0db:
+
+    # p "Sure thing. I'd like another cup of regular coffee, black, please."
+    p "Certo, vorrei un'altra tazza di caffè normale nero, per favore."
+
+# game/day27.rpy:1106
+translate italian day27_b_vibrator_a13f8569:
+
+    # "{i}She looks at you incredulously, then stands up, her legs still wobbly from the vibrations of the sex toy in her pussy."
+    "{i}Lei ti guarda incredula e poi si alza in piedi con le gambe ancora traballanti per le vibrazioni del sex toy nella figa."
+
+# game/day27.rpy:1107
+translate italian day27_b_vibrator_de1fa8b9:
+
+    # b "Coming right up..."
+    b "In arrivo"
+
+# game/day27.rpy:1112
+translate italian day27_b_vibrator_6cc89c98:
+
+    # "{i}After you get your coffee, you sit and play with your phone. At irregular intervals, you use the dial of the remote control."
+    "{i}Dopo aver preso il caffè ti siedi e giochi con il telefono A intervalli irregolari usi la manopola del telecomando."
+
+# game/day27.rpy:1114
+translate italian day27_b_vibrator_c14e2e61:
+
+    # "{i}You make sure it never goes past the point where the vibrations become unbearable for [b_name], but you notice she has a harder time serving customers, steadying herself often and sighing with flushed cheeks."
+    "{i}Ti assicuri che non superi mai il punto in cui le vibrazioni diventano insopportabili per [b_name], ma noti che fa più fatica a servire i clienti, fermandosi spesso e sospirando con le guance arrossate."
+
+# game/day27.rpy:1132
+translate italian day27_b_licking_5f3aff41:
+
+    # p "Good. Just sit down on the desk and relax."
+    p "Bene, siediti sulla scrivania e rilassati."
+
+# game/day27.rpy:1133
+translate italian day27_b_licking_83091b29:
+
+    # b "You're not going to take it out?"
+    b "Non hai intenzione di tirarlo fuori?."
+
+# game/day27.rpy:1134
+translate italian day27_b_licking_a781d336:
+
+    # p "Of course not, it's going to help me make you cum."
+    p "Certo che no, mi aiuterà a farti sborrare."
+
+# game/day27.rpy:1135
+translate italian day27_b_licking_4f28fa17:
+
+    # p "Take off your shirt first."
+    p "Prima togliti la camicia"
+
+# game/day27.rpy:1136
+translate italian day27_b_licking_b61b6f1a:
+
+    # b "No, but what if somebody comes in?"
+    b "No, ma se entra qualcuno?."
+
+# game/day27.rpy:1137
+translate italian day27_b_licking_6262302c:
+
+    # p "We'll worry about that later."
+    p "Ce ne occuperemo più tardi."
+
+# game/day27.rpy:1138
+translate italian day27_b_licking_8377b2fd:
+
+    # b "[p_name]..."
+    b "[p_name]"
+
+# game/day27.rpy:1139
+translate italian day27_b_licking_0e1f96a4:
+
+    # p "I want to see those gorgeous breasts of yours."
+    p "Voglio vedere il tuo splendido seno."
+
+# game/day27.rpy:1144
+translate italian day27_b_licking_9a4fad80:
+
+    # "{i}After losing all of her clothing, you spread her legs and lower your head between her thighs."
+    "{i}Dopo aver perso tutti i suoi vestiti, le apri le gambe e abbassi la testa tra le sue cosce."
+
+# game/day27.rpy:1145
+translate italian day27_b_licking_def4b24b:
+
+    # p "Wow!"
+    p "Wow!"
+
+# game/day27.rpy:1146
+translate italian day27_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Cosa?"
+
+# game/day27.rpy:1147
+translate italian day27_b_licking_1aa5989e:
+
+    # p "I didn't know you could get so wet."
+    p "Non sapevo che potessi bagnarti così tanto."
+
+# game/day27.rpy:1152
+translate italian day27_b_licking_85091941:
+
+    # "{i}[b_name] doesn't offer a reply and just bites her lip. You smell the earthy perfume of her cunt as your tongue probes the wet lips of her pussy."
+    "{i}[b_name] non risponde e si limita a mordersi il labbro Senti il profumo terroso della sua fica mentre la tua lingua sonda le labbra umide della sua figa."
+
+# game/day27.rpy:1153
+translate italian day27_b_licking_f17a0a22:
+
+    # b "Oh!"
+    b "Oh!"
+
+# game/day27.rpy:1158
+translate italian day27_b_licking_aef8bd34:
+
+    # "{i}As you stimulate her with the rapid motions of your tongue, you dial the vibrator slowly up to its maximum setting."
+    "{i}Mentre la stimoli con i movimenti rapidi della lingua, componi lentamente il vibratore fino alla sua impostazione massima."
+
+# game/day27.rpy:1159
+translate italian day27_b_licking_83f82a73:
+
+    # "{i}The vibrations of the egg are a little awkward, but [b_name] completely loses it, gripping the side of the desk and moaning softly."
+    "{i}Le vibrazioni dell'uovo sono un po' imbarazzanti, ma [b_name] si perde completamente afferrando il lato della scrivania e gemendo dolcemente."
+
+# game/day27.rpy:1165
+translate italian day27_b_licking_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1166
+translate italian day27_b_licking_3d9dd82a:
+
+    # me "[b_name], are you in there?"
+    me "[b_name] sei lì dentro?."
+
+# game/day27.rpy:1167
+translate italian day27_b_licking_9171bab7:
+
+    # b "Fuck, it's Megan."
+    b "Cazzo, è Megan"
+
+# game/day27.rpy:1168
+translate italian day27_b_licking_9e6db08a:
+
+    # b "Hide!"
+    b "Nasconditi!"
+
+# game/day27.rpy:1170
+translate italian day27_b_licking_fe288a67:
+
+    # "{i}You crawl under the desk, while [b_name] frantically looks for her blouse."
+    "{i}Tu strisci sotto la scrivania mentre [b_name] cerca freneticamente la sua camicetta."
+
+# game/day27.rpy:1171
+translate italian day27_b_licking_64fc4783:
+
+    # b "Yes, I'm in here."
+    b "Sì, sono qui dentro."
+
+# game/day27.rpy:1172
+translate italian day27_b_licking_7b467c67:
+
+    # b "Just a..."
+    b "Solo un"
+
+# game/day27.rpy:1174
+translate italian day27_b_licking_90e1af97_1:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1175
+translate italian day27_b_licking_648fad1f:
+
+    # me "Oh shit, you're naked."
+    me "Oh merda, sei nudo"
+
+# game/day27.rpy:1176
+translate italian day27_b_licking_73acfb97:
+
+    # "{i}You see [b_name] stiffen in front of the desk, as Megan enters the room."
+    "{i}Vede [b_name] irrigidirsi davanti alla scrivania quando Megan entra nella stanza."
+
+# game/day27.rpy:1177
+translate italian day27_b_licking_65c33e7a:
+
+    # b "I... uh... I was changing."
+    b "Io... mi stavo cambiando."
+
+# game/day27.rpy:1178
+translate italian day27_b_licking_6e2fbc8e:
+
+    # me "You're not feeling well, are you?"
+    me "Non ti senti bene, vero?."
+
+# game/day27.rpy:1180
+translate italian day27_b_licking_23fd721a:
+
+    # p "{i}(Mmmm, she's so close.)"
+    p "{i}(Mmmm è così vicina)"
+
+# game/day27.rpy:1181
+translate italian day27_b_licking_392019b3:
+
+    # p "{i}(Megan can't see me from here.)"
+    p "{i}(Megan non può vedermi da qui)"
+
+# game/day27.rpy:1182
+translate italian day27_b_licking_143ced8d:
+
+    # p "{i}(Shall I continue? The vibrator is still on...)"
+    p "{i}(Devo continuare? Il vibratore è ancora acceso)"
+
+# game/day27.rpy:1192
+translate italian day27_b_licking_ebe61376:
+
+    # "{i}You caress the muscles of her inner thighs, quivering under the stress of her impending orgasm."
+    "{i}Accarezzi i muscoli del suo interno coscia che fremono sotto lo stress dell'imminente orgasmo."
+
+# game/day27.rpy:1193
+translate italian day27_b_licking_7d2fce76:
+
+    # b "No... I-I think I need to go ho..."
+    b "No, credo di dover andare."
+
+# game/day27.rpy:1195
+translate italian day27_b_licking_d3dbcb25:
+
+    # "{i}At that moment, you plunge your tongue between her wet lips, pushing the vibrator even further in her cunt."
+    "{i}In quel momento tu affondi la lingua tra le sue labbra umide spingendo il vibratore ancora di più nella sua fica."
+
+# game/day27.rpy:1196
+translate italian day27_b_licking_3580bb93:
+
+    # b "...Ooohme!"
+    b "Ooohme!"
+
+# game/day27.rpy:1197
+translate italian day27_b_licking_d45b71d4:
+
+    # me "Seem like you're having a migraine?"
+    me "Ti sembra di avere un'emicrania?."
+
+# game/day27.rpy:1198
+translate italian day27_b_licking_3fd3887e:
+
+    # b "Y-yes..."
+    b "S-sì"
+
+# game/day27.rpy:1200
+translate italian day27_b_licking_7b413b5c:
+
+    # "{i}Your sister doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}Tua sorella non ti spinge via, ma allarga un po' di più le gambe per permetterti di accedere meglio alla sua fessura grondante."
+
+# game/day27.rpy:1202
+translate italian day27_b_licking_b147ddb0:
+
+    # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}[b_name] non ti spinge via, ma allarga un po' di più le gambe per permetterti di accedere meglio alla sua fessura grondante."
+
+# game/day27.rpy:1203
+translate italian day27_b_licking_c5cc69af:
+
+    # me "I'll leave you to it then."
+    me "Allora ti lascio fare."
+
+# game/day27.rpy:1204
+translate italian day27_b_licking_a7ed4f3b:
+
+    # b "T-thanks."
+    b "Grazie"
+
+# game/day27.rpy:1205
+translate italian day27_b_licking_6ac0e1eb:
+
+    # me "Migraines are a bitch. Get well soon!"
+    me "L'emicrania è una stronza Guarisci presto!."
+
+# game/day27.rpy:1206
+translate italian day27_b_licking_a7ed4f3b_1:
+
+    # b "T-thanks."
+    b "Grazie"
+
+# game/day27.rpy:1211
+translate italian day27_b_licking_533d60e4:
+
+    # "{i}When Megan closes the office door, [b_name] involuntarily releases a volley of her juices."
+    "{i}Quando Megan chiude la porta dell'ufficio [b_name] rilascia involontariamente una raffica di succhi di frutta."
+
+# game/day27.rpy:1212
+translate italian day27_b_licking_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Aaaaaah!"
+
+# game/day27.rpy:1213
+translate italian day27_b_licking_eb1641f9:
+
+    # b "Don't stop. P-please!"
+    b "Non fermarti, ti prego!."
+
+# game/day27.rpy:1215
+translate italian day27_b_licking_85a3c63d:
+
+    # "{i}After you push her onto the desk, you eat her pussy with an intensity that surprises even yourself."
+    "{i}Dopo averla spinta sulla scrivania, le mangi la figa con un'intensità che sorprende anche te stesso."
+
+# game/day27.rpy:1216
+translate italian day27_b_licking_2b4bad48:
+
+    # "{i}The vibrator is still running on maximum, and [b_name] moans uncontrollably and pulls at your hair in ecstasy."
+    "{i}Il vibratore funziona ancora al massimo e [b_name] geme incontrollato e si tira i capelli in estasi."
+
+# game/day27.rpy:1224
+translate italian day27_b_licking_df23fe64:
+
+    # "{i}You're surprised by her wetness and the force of her orgasm. A wealth of her nectar squirts on your face and forces the still-vibrating egg out of her cunny."
+    "{i}Sei sorpreso dalla sua bagnatura e dalla forza del suo orgasmo Un'abbondanza del suo nettare schizza sul tuo viso e costringe l'uovo ancora vibrante a uscire dalla sua figa."
+
+# game/day27.rpy:1227
+translate italian day27_b_licking_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day27.rpy:1229
+translate italian day27_b_licking_509df137:
+
+    # "{i}Your sister squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Tua sorella spruzza diversi rivoli di eiaculato sulle cosce e sulla superficie della scrivania. Comincia a gocciolare sul pavimento mentre la sua forma flaccida è in preda agli spasmi del climax."
+
+# game/day27.rpy:1231
+translate italian day27_b_licking_2fb542ee:
+
+    # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}[b_name] schizza diversi rivoli di eiaculato sulle cosce e sulla superficie della scrivania Inizia a gocciolare sul pavimento mentre la sua forma flaccida si spasima in preda all'orgasmo."
+
+# game/day27.rpy:1237
+translate italian day27_b_licking_fd967eb5:
+
+    # "{i}You catch [b_name] before she falls to the floor and sit next to her against the desk."
+    "{i}Prendi [b_name] prima che cada a terra e siediti accanto a lei contro la scrivania."
+
+# game/day27.rpy:1238
+translate italian day27_b_licking_a226744c:
+
+    # b "I... I..."
+    b "I I"
+
+# game/day27.rpy:1239
+translate italian day27_b_licking_970e9bfc:
+
+    # b "I didn't know I could do that."
+    b "Non sapevo di poterlo fare."
+
+# game/day27.rpy:1240
+translate italian day27_b_licking_5535b960:
+
+    # p "That was really special."
+    p "È stato davvero speciale."
+
+# game/day27.rpy:1241
+translate italian day27_b_licking_e4f482d5:
+
+    # b "I don't think I'll be able to walk."
+    b "Non credo che sarò in grado di camminare."
+
+# game/day27.rpy:1242
+translate italian day27_b_licking_fed42c8c:
+
+    # p "I'll get you home, don't worry."
+    p "Ti riporterò a casa, non preoccuparti."
+
+# game/day27.rpy:1243
+translate italian day27_b_licking_935dfeff:
+
+    # "{i}[b_name] sits next to you, savoring the moment before standing up and slowly dressing herself."
+    "{i}[b_name] si siede accanto a te assaporando il momento prima di alzarsi e vestirsi lentamente."
+
+# game/day27.rpy:1245
+translate italian day27_b_licking_22fc1ff3:
+
+    # "{i}She leans on you, as you head out the office and go back home."
+    "{i}Si appoggia a te mentre esci dall'ufficio e torni a casa."
+
+# game/day27.rpy:1248
+translate italian day27_b_licking_748b5dec:
+
+    # p "That was close."
+    p "C'è mancato poco"
+
+# game/day27.rpy:1249
+translate italian day27_b_licking_567893c3:
+
+    # p "{i}(And I fear the moment has been ruined.)"
+    p "{i}(E temo che il momento sia stato rovinato)."
+
+# game/day27.rpy:1250
+translate italian day27_b_licking_58cce666:
+
+    # b "I really need to get back to work."
+    b "Devo assolutamente tornare al lavoro."
+
+# game/day27.rpy:1255
+translate italian day27_b_licking_877900df:
+
+    # p "You may, but the vibrator remains on."
+    p "Puoi farlo, ma il vibratore rimane acceso."
+
+# game/day27.rpy:1257
+translate italian day27_b_licking_c39bb92f:
+
+    # b "What? No!"
+    b "Cosa? No!"
+
+# game/day27.rpy:1258
+translate italian day27_b_licking_e096b0f3:
+
+    # p "Yes, at the lowest setting, a nice background hum while you continue working."
+    p "Sì, al minimo, un piacevole ronzio di sottofondo mentre si continua a lavorare."
+
+# game/day27.rpy:1259
+translate italian day27_b_licking_ef0da038:
+
+    # b "But..."
+    b "Ma"
+
+# game/day27.rpy:1260
+translate italian day27_b_licking_2dab4ee2:
+
+    # p "You'll love it."
+    p "Ti piacerà"
+
+# game/day27.rpy:1262
+translate italian day27_b_licking_a1d34c97:
+
+    # "{i}Dejected, [b_name] leaves the office, the toy still vibrating in her pussy. You decide to head home."
+    "{i}Sconfortata [b_name] lascia l'ufficio con il giocattolo che vibra ancora nella sua figa e decide di tornare a casa."
+
+# game/day27.rpy:1265
+translate italian day27_b_licking_981af234:
+
+    # "{i}You toy with the idea of turning the vibrator on again, but decide to give [b_name] a break."
+    "{i}Si gioca con l'idea di riaccendere il vibratore, ma si decide di dare una pausa a [b_name]."
+
+# game/day27.rpy:1266
+translate italian day27_b_licking_dfa11d19:
+
+    # p "You may. I've turned the vibrator off for now, but keep it in at all times."
+    p "Puoi anche spegnere il vibratore per ora, ma tienilo sempre inserito."
+
+# game/day27.rpy:1267
+translate italian day27_b_licking_40179f03:
+
+    # b "Yeah, yeah."
+    b "Sì, sì"
+
+# game/day27.rpy:1269
+translate italian day27_b_licking_c556ba13:
+
+    # "{i}After she leaves the office, you head back home."
+    "{i}Dopo che lei ha lasciato l'ufficio, tu torni a casa."
+
+# game/day27.rpy:1284
+translate italian day27_flashback_sex_c5a86a79:
+
+    # s "There's also the matter of teaching you."
+    s "C'è anche la questione dell'insegnamento."
+
+# game/day27.rpy:1285
+translate italian day27_flashback_sex_5c6e3bee:
+
+    # s "You've proven to be a quick learner, but think of what you'll be able to show her when you've had a little more practice with me."
+    s "Hai dimostrato di imparare in fretta, ma pensa a cosa potrai mostrarle quando avrai fatto un po' più di pratica con me."
+
+# game/day27.rpy:1286
+translate italian day27_flashback_sex_eca6528f:
+
+    # s "You already know how to pleasure a woman with your fingers, but there's more to be learned..."
+    s "Sai già come dare piacere a una donna con le dita, ma c'è molto altro da imparare."
+
+# game/day27.rpy:1288
+translate italian day27_flashback_sex_b31534e5:
+
+    # "{i}With those words, she freed my cock which had grown erect as soon as I looked at her naked body."
+    "{i}Con queste parole liberò il mio cazzo che era cresciuto in erezione non appena avevo guardato il suo corpo nudo."
+
+# game/day27.rpy:1289
+translate italian day27_flashback_sex_f9e820eb:
+
+    # s "You should attune yourself to your desires."
+    s "Dovreste sintonizzarvi con i vostri desideri."
+
+# game/day27.rpy:1290
+translate italian day27_flashback_sex_1ba01317:
+
+    # s "You clearly want me, you want her, you want Sabine... What if you can have all of that?"
+    s "È chiaro che vuoi me, vuoi lei, vuoi Sabine... E se potessi avere tutto questo?."
+
+# game/day27.rpy:1291
+translate italian day27_flashback_sex_59e7a770:
+
+    # s "Wouldn't that be nice?"
+    s "Non sarebbe bello?."
+
+# game/day27.rpy:1296
+translate italian day27_flashback_sex_bffc2941:
+
+    # "{i}She lowered her head to my cock and wrapped her lips around my glans. Her wet tongue darted over the tip of my dick and she started sucking."
+    "{i}Abbassò la testa verso il mio cazzo e avvolse le labbra intorno al glande La sua lingua bagnata sfrecciò sulla punta del mio cazzo e iniziò a succhiare."
+
+# game/day27.rpy:1298
+translate italian day27_flashback_sex_146db4ff:
+
+    # s "Have you ever felt that before?"
+    s "L'hai mai provato prima?."
+
+# game/day27.rpy:1299
+translate italian day27_flashback_sex_580a0a0b:
+
+    # p "N-n-no..."
+    p "N-n-no"
+
+# game/day27.rpy:1300
+translate italian day27_flashback_sex_b9e17a77:
+
+    # "{i}Sasha took my entire length in her warm mouth and traced the veins of my cock with the tip of her tongue."
+    "{i}Sasha mi prese in bocca per tutta la sua lunghezza e tracciò le vene del mio cazzo con la punta della lingua."
+
+# game/day27.rpy:1301
+translate italian day27_flashback_sex_bbdaf767:
+
+    # s "Would you like to fuck me?"
+    s "Ti piacerebbe scoparmi?."
+
+# game/day27.rpy:1302
+translate italian day27_flashback_sex_afb6c27b:
+
+    # p "Here?! In dad's bedroom?!"
+    p "Qui?! Nella camera da letto di papà?!."
+
+# game/day27.rpy:1303
+translate italian day27_flashback_sex_cb28ce69:
+
+    # s "That's the plan, if you're game."
+    s "Questo è il piano, se ci stai."
+
+# game/day27.rpy:1304
+translate italian day27_flashback_sex_fcad6d87:
+
+    # p "I-i... Y-yes!"
+    p "I-i S-sì!."
+
+# game/day27.rpy:1306
+translate italian day27_flashback_sex_a8b746f9:
+
+    # r "But Miley!"
+    r "Ma Miley!"
+
+# game/day27.rpy:1307
+translate italian day27_flashback_sex_fa2718d7:
+
+    # p "I've learned not to argue with a woman who has my cock in her mouth."
+    p "Ho imparato a non discutere con una donna che ha il mio cazzo in bocca."
+
+# game/day27.rpy:1308
+translate italian day27_flashback_sex_c4ff4ad4:
+
+    # r "Fair point."
+    r "Punto giusto"
+
+# game/day27.rpy:1312
+translate italian day27_flashback_sex_b8a8a112:
+
+    # "{i}She pulled my penis out of her mouth, a string of saliva still connecting her lips and my glans, and lay before me with her legs spread."
+    "{i}Estrasse il mio pene dalla bocca, con un filo di saliva che collegava ancora le sue labbra al mio glande, e si sdraiò davanti a me con le gambe aperte."
+
+# game/day27.rpy:1313
+translate italian day27_flashback_sex_9062a2b3:
+
+    # s "Taste me, before I ride you."
+    s "Assaggiami prima che ti cavalchi"
+
+# game/day27.rpy:1319
+translate italian day27_flashback_sex_fff7add5:
+
+    # "{i}Any thought of young love forgotten, I obliged and plunged my tongue inside her pussy."
+    "{i}Dimenticato ogni pensiero sull'amore giovanile, le ho risposto e ho affondato la mia lingua nella sua figa."
+
+# game/day27.rpy:1320
+translate italian day27_flashback_sex_025deb73:
+
+    # s "Aaaah, very direct. Remember when you fingered me, be subtle."
+    s "Aaaah molto diretto Ricorda quando mi hai fatto un ditalino, sii sottile."
+
+# game/day27.rpy:1321
+translate italian day27_flashback_sex_ddcc8bb7:
+
+    # "{i}Tempering my initial voraciousness, I began to lick her pussy lips and concentrate my attention on her clitoris."
+    "{i}Temperando la mia voracità iniziale, cominciai a leccare le labbra della sua figa e a concentrare la mia attenzione sul suo clitoride."
+
+# game/day27.rpy:1322
+translate italian day27_flashback_sex_f5c24192:
+
+    # "{i}I had never tasted a woman before, so Sasha's mix of bath soap and saltiness surprised and overwhelmed me instantly."
+    "{i}Non avevo mai assaggiato una donna prima d'ora, quindi il mix di sapone da bagno e salsedine di Sasha mi ha sorpreso e travolto all'istante."
+
+# game/day27.rpy:1323
+translate italian day27_flashback_sex_42e8f876:
+
+    # s "Good boy, make me ready for you."
+    "Bravo ragazzo, preparami per te."
+
+# game/day27.rpy:1325
+translate italian day27_flashback_sex_863c430e:
+
+    # "{i}I worked hard on her pussy and she allowed me to explore every little fold of her sex, guiding me by firmly holding my head in her hands."
+    "{i}Ho lavorato molto sulla sua figa e lei mi ha permesso di esplorare ogni piccola piega del suo sesso guidandomi tenendo saldamente la mia testa tra le sue mani."
+
+# game/day27.rpy:1326
+translate italian day27_flashback_sex_181a4fa1:
+
+    # s "That's it, right there."
+    s "Ecco, è proprio così"
+
+# game/day27.rpy:1327
+translate italian day27_flashback_sex_8d92683f:
+
+    # s "Mmmmm."
+    s "Mmmmm"
+
+# game/day27.rpy:1331
+translate italian day27_flashback_sex_d3367d55:
+
+    # s "That's enough for now."
+    s "Per ora basta così"
+
+# game/day27.rpy:1332
+translate italian day27_flashback_sex_7286508b:
+
+    # s "Just focus for the next part, don't allow yourself to cum too soon."
+    s "Concentrati per la prossima parte, non lasciarti sborrare troppo presto."
+
+# game/day27.rpy:1333
+translate italian day27_flashback_sex_3503f938:
+
+    # s "Let me lead, you can have the initiative some other time, when you're more skilled."
+    s "Lasciate che sia io a guidarvi, potrete prendere l'iniziativa un'altra volta, quando sarete più abili."
+
+# game/day27.rpy:1334
+translate italian day27_flashback_sex_20d8934c:
+
+    # p "It's just moving up and down, isn't it?"
+    p "Si muove solo su e giù, non è vero?."
+
+# game/day27.rpy:1335
+translate italian day27_flashback_sex_9de62a97:
+
+    # s "Spoken like a boy who's only watched a vagina being penetrated on video."
+    s "Parla come un ragazzo che ha visto solo la penetrazione di una vagina in video."
+
+# game/day27.rpy:1336
+translate italian day27_flashback_sex_ba1863c8:
+
+    # s "Try not to cum immediately, okay?"
+    s "Cerca di non sborrare subito, ok?."
+
+# game/day27.rpy:1338
+translate italian day27_flashback_sex_7d248ee6:
+
+    # "{i}I really didn't get why she was making all that fuss until she spread her pussy lips and lowered herself onto my cock."
+    "{i}Non capivo perché facesse tutte quelle storie, finché non ha allargato le labbra della figa e si è abbassata sul mio cazzo."
+
+# game/day27.rpy:1339
+translate italian day27_flashback_sex_3e6e3c86:
+
+    # "{i}The act of entering her warm wet hole nearly made me shoot my load inside of her. Sasha noticed my glazed look and halted her descent on my shaft right away."
+    "{i}L'atto di entrare nel suo buco caldo e umido mi ha quasi fatto sparare il mio carico dentro di lei Sasha ha notato il mio sguardo vitreo e ha fermato subito la sua discesa sulla mia asta."
+
+# game/day27.rpy:1341
+translate italian day27_flashback_sex_486fc380:
+
+    # p "F-f-fuck, Sasha!"
+    p "F-f-fottiti Sasha!."
+
+# game/day27.rpy:1342
+translate italian day27_flashback_sex_408c37ea:
+
+    # s "Don't you dare, boy, we haven't even started!"
+    s "Non osare ragazzo, non abbiamo nemmeno iniziato!."
+
+# game/day27.rpy:1343
+translate italian day27_flashback_sex_5d2f4abc:
+
+    # "{i}I tried to think of anything but sex, and after a procession of deformed gnomes, the entire plot of The Great Gatsby and several theorems from Euclidean geometry had passed my mind's eye, I felt confident enough for Sasha to continue."
+    "{i}Cercai di pensare a qualsiasi cosa che non fosse il sesso e dopo che mi passarono per la mente una processione di gnomi deformi, l'intera trama de Il Grande Gatsby e diversi teoremi della geometria euclidea, mi sentii abbastanza sicuro da permettere a Sasha di continuare."
+
+# game/day27.rpy:1350
+translate italian day27_flashback_sex_f388db08:
+
+    # s "Try to focus on the ways my cunt is stimulating your cock."
+    s "Cerca di concentrarti sui modi in cui la mia fica stimola il tuo cazzo."
+
+# game/day27.rpy:1351
+translate italian day27_flashback_sex_426e3322:
+
+    # "{i}Very slowly, Sasha started to move, the ribs of her vaginal tract massaging my entire shaft."
+    "{i}Molto lentamente Sasha iniziò a muovere le costole del suo tratto vaginale massaggiando tutta la mia asta."
+
+# game/day27.rpy:1352
+translate italian day27_flashback_sex_1dba4ceb:
+
+    # s "When you're more experienced, you can fully give yourself over to pleasure."
+    s "Quando si ha più esperienza ci si può abbandonare completamente al piacere."
+
+# game/day27.rpy:1353
+translate italian day27_flashback_sex_77a6371f:
+
+    # s "Your goal should always be to heighten the pleasure of your girl."
+    s "Il vostro obiettivo dovrebbe essere sempre quello di aumentare il piacere della vostra ragazza."
+
+# game/day27.rpy:1354
+translate italian day27_flashback_sex_544b034c:
+
+    # s "She'll get wetter and wetter..."
+    s "Diventerà sempre più bagnata."
+
+# game/day27.rpy:1355
+translate italian day27_flashback_sex_58db5a14:
+
+    # s "Maybe she'll orgasm..."
+    s "Forse avrà un orgasmo"
+
+# game/day27.rpy:1356
+translate italian day27_flashback_sex_0d029f3e:
+
+    # s "Mmmmm..."
+    s "Mmmmm"
+
+# game/day27.rpy:1358
+translate italian day27_flashback_sex_485f4ac7:
+
+    # s "That, in turn, will increase your pleasure as well."
+    s "Questo a sua volta aumenterà il vostro piacere."
+
+# game/day27.rpy:1359
+translate italian day27_flashback_sex_d2614141:
+
+    # s "Measure your thrusts and listen to your partner. To her moans and body language."
+    s "Misurate le vostre spinte e ascoltate i gemiti e il linguaggio del corpo della vostra partner."
+
+# game/day27.rpy:1360
+translate italian day27_flashback_sex_910977f0:
+
+    # "{i}Mesmerized by her voice and the dirty things she told me, I let her use my cock for her pleasure and tried not to fill her up prematurely."
+    "{i}Mesmerizzato dalla sua voce e dalle cose sporche che mi diceva ho lasciato che usasse il mio cazzo per il suo piacere e ho cercato di non riempirla prematuramente."
+
+# game/day27.rpy:1362
+translate italian day27_flashback_sex_c62166ae:
+
+    # s "When she's nearing her orgasms, a few quick thrusts might send her over the edge."
+    s "Quando sta per raggiungere l'orgasmo, qualche spinta veloce potrebbe farle superare il limite."
+
+# game/day27.rpy:1363
+translate italian day27_flashback_sex_2c39b0d4:
+
+    # s "And as she orgasms, try to fuck her deeply, to prolong her pleasure."
+    s "E mentre ha l'orgasmo cerca di scoparla a fondo per prolungare il suo piacere."
+
+# game/day27.rpy:1364
+translate italian day27_flashback_sex_5b51375b:
+
+    # s "Fucking her hard and fast should never be the first thing you do, unless the situation calls for it, or she asks you to."
+    s "Scoparla con forza e velocità non dovrebbe mai essere la prima cosa da fare, a meno che la situazione non lo richieda o lei te lo chieda."
+
+# game/day27.rpy:1365
+translate italian day27_flashback_sex_eafc5437:
+
+    # s "You're not some porn actor jackhammering a worn out pussy, you're a lover."
+    s "Non sei un attore porno che martella una figa consumata, sei un amante."
+
+# game/day27.rpy:1366
+translate italian day27_flashback_sex_819c61ee:
+
+    # p "S-s-sasha?!"
+    p "S-s-sasha?!"
+
+# game/day27.rpy:1367
+translate italian day27_flashback_sex_5396f74e:
+
+    # s "Yes, dear?"
+    "Sì, cara?"
+
+# game/day27.rpy:1368
+translate italian day27_flashback_sex_a977924e:
+
+    # p "I-I can't..."
+    p "I-I can't"
+
+# game/day27.rpy:1369
+translate italian day27_flashback_sex_530f3be7:
+
+    # s "Do you want to cum inside me, sweetheart?"
+    s "Vuoi sborrare dentro di me, tesoro?."
+
+# game/day27.rpy:1370
+translate italian day27_flashback_sex_07d6a258:
+
+    # p "Y-y-y..."
+    p "Y-y-y"
+
+# game/day27.rpy:1371
+translate italian day27_flashback_sex_09b8efae:
+
+    # s "Go ahead, let it all go!"
+    s "Avanti, lascia andare tutto!."
+
+# game/day27.rpy:1379
+translate italian day27_flashback_sex_6891a8bb:
+
+    # "{i}With clenched teeth I released what felt like a river of seed inside her pussy. I'm not entirely sure what she did while I was orgasming, but it kept me going for a long time."
+    "{i}A denti stretti ho rilasciato quello che mi è sembrato un fiume di seme all'interno della sua figa, non sono del tutto sicuro di quello che ha fatto mentre orgasmavo, ma mi ha fatto andare avanti per molto tempo."
+
+# game/day27.rpy:1381
+translate italian day27_flashback_sex_2f5381cb:
+
+    # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
     "{i}Lo sperma colava dalla sua figa sul mio cazzo e sul letto di mio padre, la tenevo stretta stringendo il suo corpo disperatamente tra le mie braccia, il mio cazzo ancora spasimava dentro di lei, non ero più vergine."
+

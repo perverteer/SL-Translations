@@ -1348,3 +1348,17 @@ translate italian strings:
     old "What is the name of the oldest girl?"
     new "Qual è il nome della ragazza più grande?"
 
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day01.rpy:267
+translate italian day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "Eh cosa?"
+
+# game/day01.rpy:269
+translate italian day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "LASCIATEMI IN PACE [p_name]!!! Sei pazzo?!"
+

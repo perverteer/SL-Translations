@@ -2907,3 +2907,712 @@ translate italian day12_7575467a:
 
     # "{i}Just as you want to sit down and play a game, there's a knock on your door."
     "{i}Proprio quando vuoi sederti e giocare, bussano alla tua porta."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day12.rpy:206
+translate italian day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Meglio non disturbarla, ma nulla mi impedisce di guardare meglio quelle splendide tette)."
+
+# game/day12.rpy:208
+translate italian day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Meglio lasciarla dormire)"
+
+# game/day12.rpy:216
+translate italian day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Gesù Cristo [p_name] non puoi lasciarmi in pace?."
+
+# game/day12.rpy:218
+translate italian day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Sono qui solo per parlare sorellina A meno che tu non voglia qualcosa di più?."
+
+# game/day12.rpy:220
+translate italian day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Sono qui solo per parlare [b_name] A meno che tu non voglia qualcosa di più?."
+
+# game/day12.rpy:222
+translate italian day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "No, oggi hai già avuto la tua parte di me."
+
+# game/day12.rpy:223
+translate italian day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "Molto vero"
+
+# game/day12.rpy:224
+translate italian day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "Mi piace molto stare all'aria aperta, non è vero?."
+
+# game/day12.rpy:225
+translate italian day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Fanculo, voglio andare a dormire."
+
+# game/day12.rpy:226
+translate italian day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "Ok, ma ho una richiesta."
+
+# game/day12.rpy:227
+translate italian day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "Non di nuovo"
+
+# game/day12.rpy:228
+translate italian day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Lasciamo cadere la bomba)"
+
+# game/day12.rpy:229
+translate italian day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "So che ti piacciono i giocattoli."
+
+# game/day12.rpy:232
+translate italian day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "Quindi la prossima volta che ci divertiamo ne userai uno su di te mentre io guardo."
+
+# game/day12.rpy:233
+translate italian day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day12.rpy:234
+translate italian day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "Come"
+
+# game/day12.rpy:235
+translate italian day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "Hai perquisito la mia stanza, stronzetto?."
+
+# game/day12.rpy:236
+translate italian day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(Qualcosa del genere)"
+
+# game/day12.rpy:239
+translate italian day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Con questo tipo di atteggiamento, credo che dovremmo fare subito quel piccolo spettacolo."
+
+# game/day12.rpy:240
+translate italian day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Cazzo, no, non lo farò."
+
+# game/day12.rpy:241
+translate italian day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "Allora pronuncia la parola magica"
+
+# game/day12.rpy:242
+translate italian day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Cazzo"
+# game/day12.rpy:243
+translate italian day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}[b_name] si dirige verso un armadio e fruga nel retro. Recupera il suo dildo nero."
+
+# game/day12.rpy:244
+translate italian day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Bene, ora voglio che tu ti diverta."
+
+# game/day12.rpy:248
+translate italian day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Domani mi dai il tuo giocattolo e tanto divertimento Dormi bene, cara sorella."
+
+# game/day12.rpy:250
+translate italian day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Domani mi dai il tuo giocattolo e tanto divertimento Dormi bene caro [b_name]."
+
+# game/day12.rpy:258
+translate italian day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "{i}(Riley aveva un regalo per me e mi ha detto di controllare)."
+
+# game/day12.rpy:261
+translate italian day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Ti dirigi all'indirizzo che ti ha mandato Riley. È un condominio vicino al centro città. Suoni il campanello e lei ti fa salire. Dopo aver salito di corsa alcune rampe di scale, entri nella sua porta d'ingresso, che è semiaperta."
+
+# game/day12.rpy:264
+translate italian day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Hello you!"
+
+# game/day12.rpy:265
+translate italian day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "Ciao a te stesso"
+
+# game/day12.rpy:266
+translate italian day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Vuoi bere qualcosa?"
+
+# game/day12.rpy:267
+translate italian day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "Hai una birra?"
+
+# game/day12.rpy:268
+translate italian day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "Naturalmente"
+
+# game/day12.rpy:269
+translate italian day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Dopo aver rovistato nel frigorifero, Riley ti porge una birra fresca e ne apre una anche per sé."
+
+# game/day12.rpy:270
+translate italian day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "Salute!"
+
+# game/day12.rpy:271
+translate italian day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "Salute del cazzo!"
+
+# game/day12.rpy:273
+translate italian day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Che giornata ieri"
+
+# game/day12.rpy:274
+translate italian day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "Sì, è stata una bella cosa."
+
+# game/day12.rpy:276
+translate italian day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "Tua sorella sta bene?"
+
+# game/day12.rpy:278
+translate italian day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "Il tuo amico sta bene?"
+
+# game/day12.rpy:279
+translate italian day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Sì, ha preso la notizia piuttosto bene, in realtà è piuttosto sorprendente, se vuoi sapere come la penso."
+
+# game/day12.rpy:280
+translate italian day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "Nel profondo doveva già sapere che Brody era un completo coglione."
+
+# game/day12.rpy:281
+translate italian day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Peccato che non se ne sia accorta prima, ma almeno è finita bene."
+
+# game/day12.rpy:282
+translate italian day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Brody passò il resto della giornata a ridecorare il suo ufficio I pochi clienti che abbiamo avuto erano completamente straniti dai rumori dei mobili buttati in giro e da tutte le urla."
+
+# game/day12.rpy:283
+translate italian day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "Il bastardo mi ha persino fatto ordinare nuovi mobili per l'ufficio alla fine del giorno in cui li ha completamente distrutti."
+
+# game/day12.rpy:284
+translate italian day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "Almeno ha sfogato un po' di quella rabbia repressa."
+
+# game/day12.rpy:285
+translate italian day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "Spero che non diventi la sua routine quotidiana."
+
+# game/day12.rpy:286
+translate italian day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Una bella visita anale da parte della sua ragazza extra potrebbe risolvere il problema."
+
+# game/day12.rpy:288
+translate italian day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "Eeeewww!"
+
+# game/day12.rpy:290
+translate italian day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "Un'altra birra?"
+
+# game/day12.rpy:291
+translate italian day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "Sembra che il mio l'abbia già finito."
+
+# game/day12.rpy:292
+translate italian day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Riley torna dalla cucina con due birre e un sorriso interrogativo sul volto."
+
+# game/day12.rpy:293
+translate italian day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Di' a [p_name] che sai che mi piaci e che ci siamo baciati un paio di volte e che mi piace che le cose siano chiare."
+
+# game/day12.rpy:294
+translate italian day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(Questa è di per sé un'affermazione poco chiara, ma va bene)."
+
+# game/day12.rpy:296
+translate italian day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "Ti piacerebbe fare del sesso folle con me?."
+
+# game/day12.rpy:298
+translate italian day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "Ti piacerebbe passare la notte con me?."
+
+# game/day12.rpy:302
+translate italian day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Sai che sei molto bravo a fare regali."
+
+# game/day12.rpy:303
+translate italian day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "Mi piace pensare che sia così."
+
+# game/day12.rpy:304
+translate italian day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Fare strada"
+
+# game/day12.rpy:310
+translate italian day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Pensavo che questa fosse solo una visita amichevole."
+
+# game/day12.rpy:312
+translate italian day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Gesù Sei davvero pessimo con le allusioni, vero? C'era bisogno che te lo dicessi chiaramente?."
+
+# game/day12.rpy:313
+translate italian day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "È meglio che vada"
+
+# game/day12.rpy:314
+translate italian day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Credo di sì"
+
+# game/day12.rpy:322
+translate italian day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}È sera tardi quando vai nella stanza di [l_name] a prenderla per uscire."
+
+# game/day12.rpy:324
+translate italian day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "Ehi, festaiola, sei pronta a partire?."
+
+# game/day12.rpy:325
+translate italian day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Sì, sì, lo sono!"
+
+# game/day12.rpy:327
+translate italian day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Insieme a [l_name] si reca in un night club nel centro della città."
+
+# game/day12.rpy:333
+translate italian day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "La musica è piuttosto alta, vero?."
+
+# game/day12.rpy:334
+translate italian day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "Sì, ti abituerai. Troviamo un posto più tranquillo e beviamo qualcosa."
+
+# game/day12.rpy:335
+translate italian day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "Cosa desidera?"
+
+# game/day12.rpy:336
+translate italian day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "Acqua?"
+
+# game/day12.rpy:341
+translate italian day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "Stiamo facendo festa [l_name] l'acqua non è esattamente il carburante delle feste."
+
+# game/day12.rpy:342
+translate italian day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "Ok, cosa mi consiglia?"
+
+# game/day12.rpy:343
+translate italian day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "Forse un po' di vino o qualcosa di più dolce?."
+
+# game/day12.rpy:344
+translate italian day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "Non lo so..."
+
+# game/day12.rpy:345
+translate italian day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Ancora così riservato)"
+
+# game/day12.rpy:346
+translate italian day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "Sai cosa? Vorrei un bicchiere di vino bianco."
+
+# game/day12.rpy:347
+translate italian day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "Grande! Vino bianco in arrivo"
+
+# game/day12.rpy:348
+translate italian day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Prendi a [l_name] un bicchiere di vino e una birra per te."
+
+# game/day12.rpy:350
+translate italian day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Prendi a [l_name] una bottiglia d'acqua e una birra per te."
+
+# game/day12.rpy:353
+translate italian day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "Non è così occupato, vero?."
+
+# game/day12.rpy:354
+translate italian day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "Serata un po' fiacca, ma questo significa che la pista da ballo è nostra!."
+
+# game/day12.rpy:355
+translate italian day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "Non so se voglio ballare."
+    
+# game/day12.rpy:356
+translate italian day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "Non devi fare nulla che non vuoi, ma divertiti!."
+
+# game/day12.rpy:357
+translate italian day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "Non preoccuparti"
+
+# game/day12.rpy:703
+translate italian day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "{i}(Il suo corpo nudo è un tale regalo, proprio come ieri sera!)."
+
+# game/day12.rpy:704
+translate italian day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(Ho un'idea)"
+
+# game/day12.rpy:709
+translate italian day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Muovi la mano verso le cosce di [r_name] Un piccolo gemito le sfugge mentre sfiori la sua pelle con la punta delle dita e ti muovi lentamente verso l'interno delle sue gambe."
+
+# game/day12.rpy:710
+translate italian day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day12.rpy:711
+translate italian day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(Fin qui tutto bene)"
+
+# game/day12.rpy:712
+translate italian day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Quando accarezzi dolcemente l'area intorno al suo sesso, le sue gambe si aprono invitanti."
+
+# game/day12.rpy:715
+translate italian day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(Mia sorella ha la più bella figa vergine)"
+
+# game/day12.rpy:717
+translate italian day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}([r_name] ha la più bella figa vergine)"
+
+# game/day12.rpy:722
+translate italian day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Con molta attenzione fai scorrere due dita lungo la sua fessura e senti le sue labbra umide."
+
+# game/day12.rpy:723
+translate italian day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(È così pronta)"
+
+# game/day12.rpy:724
+translate italian day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Continua a sfregare le sue labbra con le dita e a massaggiarle il seno."
+
+# game/day12.rpy:725
+translate italian day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day12.rpy:728
+translate italian day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Non appena le massaggi direttamente il clitoride, i suoi occhi si aprono."
+
+# game/day12.rpy:729
+translate italian day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "Buongiorno"
+
+# game/day12.rpy:730
+translate italian day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Ehi"
+
+# game/day12.rpy:731
+translate italian day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "Devo fermarmi?"
+
+# game/day12.rpy:732
+translate italian day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "Oh Dio no!"
+
+# game/day12.rpy:734
+translate italian day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Sostenuto dalle sue parole, rivolgi tutta la tua attenzione al suo clitoride [r_name] ansima mentre fai scivolare un dito nella sua figa bagnata."
+
+# game/day12.rpy:735
+translate italian day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    "Aaaah! Sì!"
+
+# game/day12.rpy:737
+translate italian day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Tua sorella afferra la mano che le sta stimolando il clitoride e la spinge più forte."
+
+# game/day12.rpy:739
+translate italian day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] afferra la mano che sta stimolando il suo clitoride e la spinge più forte."
+
+# game/day12.rpy:740
+translate italian day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "Ho tanta voglia di sentirti [p_name]!."
+
+# game/day12.rpy:741
+translate italian day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Fai scorrere le dita dentro e fuori dalla sua figa, ricoperta dei suoi succhi Quando massaggi il suo clitoride ancora più intensamente, senti il suo corpo contrarsi pronto a lasciarsi andare."
+
+# game/day12.rpy:749
+translate italian day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "Aaaaah! Aaaah! [p_name]!!!"
+
+# game/day12.rpy:750
+translate italian day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}Il suo orgasmo è lungo e potente, il corpo di [r_name] trema mentre tiene la tua mano contro il suo sesso."
+
+# game/day12.rpy:756
+translate italian day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Dopo un po' le sue convulsioni sono cessate e con un sospiro si accoccola contro di voi."
+
+# game/day12.rpy:757
+translate italian day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Che modo incredibile di svegliarsi"
+
+# game/day12.rpy:758
+translate italian day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Sei stata fantastica ieri sera e ho pensato di ricompensarti a mia volta."
+
+# game/day12.rpy:759
+translate italian day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Proprio quello di cui avevo bisogno"
+
+# game/day12.rpy:760
+translate italian day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "Occupato oggi?"
+
+# game/day12.rpy:761
+translate italian day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Sì, sto uscendo, Ana mi ha chiesto di venire da te?."
+
+# game/day12.rpy:762
+translate italian day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "Sembra che oggi sia una giornata fiacca, ma non mi dispiace."
+
+# game/day12.rpy:763
+translate italian day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}Dopo esservi coccolati per un po', alzatevi e andate a fare colazione."
+

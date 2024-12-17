@@ -7912,4 +7912,41 @@ translate italian day140_r_b_fuck_d849fd04:
 translate italian day140_r_b_fuck_241c029b:
 
     # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
-    "{i}Dai un leggero schiaffo alla figa della tua ragazza e fai cenno a [r_name] di continuare il solletico."
+    "{i}Dai un leggero schiaffo alla figa della tua ragazza e fai cenno a [r_name] di continuare il solletico."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day140.rpy:1902
+translate italian day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] è incinta in questa scena?."
+
+# game/day140.rpy:1906
+translate italian day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] incinta"
+
+# game/day140.rpy:1909
+translate italian day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] non incinta"
+
+# game/day140.rpy:1911
+translate italian day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Vuoi abilitare gli sport acquatici per questa scena?."
+
+# game/day140.rpy:1915
+translate italian day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Abilitato agli sport acquatici"
+
+# game/day140.rpy:1918
+translate italian day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Sport acquatici disabilitati"
+

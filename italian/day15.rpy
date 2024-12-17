@@ -4330,4 +4330,828 @@ translate italian day15_night_choices_a6a6ed04:
 translate italian day15_blackmail_ef11b549:
 
     # "{i}With all of her strength, [b_name] clasps arms around your neck. Four of your fingers are still inside of her dripping pussy, and you keep massaging her clit with your thumb as she orgasms violently."
-    "{i}Con tutta la sua forza [b_nome] ti stringe le braccia intorno al collo Quattro delle tue dita sono ancora dentro la sua figa grondante e tu continui a massaggiarle il clitoride con il pollice mentre lei ha un orgasmo violento."
+    "{i}Con tutta la sua forza [b_name] ti stringe le braccia intorno al collo Quattro delle tue dita sono ancora dentro la sua figa grondante e tu continui a massaggiarle il clitoride con il pollice mentre lei ha un orgasmo violento."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day15.rpy:922
+translate italian day15_restaurant_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] è un full sub in questa scena?."
+
+# game/day15.rpy:926
+translate italian day15_restaurant_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] completamente sottomessa"
+
+# game/day15.rpy:929
+translate italian day15_restaurant_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] non completamente sottomesso."
+
+# game/day15.rpy:936
+translate italian day15_restaurant_b_sex_2d537d7c:
+
+    # "{i}While you are speaking with your other family members, your hand moves under the table and rests on [b_name]'s left thigh."
+    "{i}Mentre parla con gli altri membri della famiglia, la sua mano si sposta sotto il tavolo e si posa sulla coscia sinistra di [b_name]."
+
+# game/day15.rpy:938
+translate italian day15_restaurant_b_sex_9ed0e1fe:
+
+    # "{i}While you are speaking with everyone else, your hand moves under the table and rests on [b_name]'s left thigh."
+    "{i}Mentre parla con tutti gli altri, la sua mano si sposta sotto il tavolo e si posa sulla coscia sinistra di [b_name]."
+
+# game/day15.rpy:939
+translate italian day15_restaurant_b_sex_6ef371a5:
+
+    # l "Don't be so blue, [b_name]."
+    l "Non essere così blu [b_name]."
+
+# game/day15.rpy:940
+translate italian day15_restaurant_b_sex_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day15.rpy:942
+translate italian day15_restaurant_b_sex_635bc3d8:
+
+    # "{i}[b_name] seems to anticipate what you're trying to do and tries to keep her legs together. With a little pressure, you force your sister's legs apart."
+    "{i}[b_name] sembra anticipare quello che stai cercando di fare e cerca di tenere le gambe unite Con un po' di pressione costringi le gambe di tua sorella a divaricarsi."
+
+# game/day15.rpy:944
+translate italian day15_restaurant_b_sex_adfa16f9:
+
+    # "{i}[b_name] seems to anticipate what you're trying to do and tries to keep her legs together. With a little pressure, you force her legs apart."
+    "{i}[b_name] sembra anticipare quello che stai cercando di fare e cerca di tenere le gambe unite Con un po' di pressione le fai divaricare le gambe."
+
+# game/day15.rpy:946
+translate italian day15_restaurant_b_sex_8a00b0fb:
+
+    # m "It's great out here, the beach is beautiful."
+    m "È fantastico qui, la spiaggia è bellissima."
+
+# game/day15.rpy:947
+translate italian day15_restaurant_b_sex_b9b7df5a:
+
+    # r "You haven't even gone for a dip in the ocean yet."
+    r "Non sei ancora andato a fare un tuffo nell'oceano."
+
+# game/day15.rpy:949
+translate italian day15_restaurant_b_sex_920ba856:
+
+    # "{i}You stroke the inside of her thighs near her pussy. You feel [b_name] shivering and goosebumps appear on her skin."
+    "{i}Accarezzi l'interno delle sue cosce vicino alla sua figa Senti [b_name] rabbrividire e la pelle d'oca compare sulla sua pelle"
+
+# game/day15.rpy:951
+translate italian day15_restaurant_b_sex_e3723195:
+
+    # p "{i}(Looks like sis is also up for some fun.)"
+    p "{i}(Sembra che anche la sorella abbia voglia di divertirsi)."
+
+# game/day15.rpy:953
+translate italian day15_restaurant_b_sex_9979ba25:
+
+    # p "{i}(Looks like [b_name] is also up for some fun.)"
+    p "{i}(Sembra che anche [b_name] abbia voglia di divertirsi)"
+
+# game/day15.rpy:955
+translate italian day15_restaurant_b_sex_bd0caf4b:
+
+    # l "I haven't even been to the beach yet, but I will tomorrow. The village is lovely, isn't it, [p_name]?"
+    l "Non sono ancora stato in spiaggia, ma lo farò domani Il villaggio è bello, vero [p_name]?."
+
+# game/day15.rpy:956
+translate italian day15_restaurant_b_sex_b55d89d3:
+
+    # p "Yes, it's very quaint."
+    p "Sì, è molto pittoresco."
+
+# game/day15.rpy:961
+translate italian day15_restaurant_b_sex_9946ee0b:
+
+    # "{i}Nobody but you notices [b_name]'s small gasp when you press your fingers against her vagina. You feel the warmth of her skin through the thin fabric of her bikini bottom."
+    "{i}Nessuno tranne voi nota il piccolo sussulto di [b_name] quando premete le dita contro la sua vagina Sentite il calore della sua pelle attraverso la sottile stoffa dello slip del bikini"
+
+# game/day15.rpy:962
+translate italian day15_restaurant_b_sex_38390240:
+
+    # l "So apart from the beach, there must be some cultural stuff we could explore?"
+    l "Quindi, a parte la spiaggia, ci deve essere qualcosa di culturale che possiamo esplorare?."
+
+# game/day15.rpy:963
+translate italian day15_restaurant_b_sex_1dadbc0b:
+
+    # m "I think there's a little museum about the history of the island in the town center."
+    m "Credo che ci sia un piccolo museo sulla storia dell'isola nel centro del paese."
+
+# game/day15.rpy:964
+translate italian day15_restaurant_b_sex_7e020b79:
+
+    # r "Yawn!"
+    r "Sbadiglio!"
+
+# game/day15.rpy:968
+translate italian day15_restaurant_b_sex_f0817189:
+
+    # "{i}You move your hand a bit higher and playfully touch the skin just above her sex. Steadily you lower your hand and notice that [b_name] is holding her breath in anticipation."
+    "{i}Muovi la mano un po' più in alto e sfiori giocosamente la pelle appena sopra il suo sesso Abbassi progressivamente la mano e noti che [b_name] sta trattenendo il respiro in attesa."
+
+# game/day15.rpy:970
+translate italian day15_restaurant_b_sex_57ca4e24:
+
+    # "{i}She exhales as soon as your fingers enter her bikini bottom and you softly stroke her mound."
+    "{i}Espira non appena le tue dita entrano nello slip del bikini e le accarezzi dolcemente il monticello."
+
+# game/day15.rpy:971
+translate italian day15_restaurant_b_sex_7855696f:
+
+    # "{i}One of her hands is grasping your knee with some force. Whether this is to encourage or to stop you is unclear."
+    "{i}Una delle sue mani afferra il ginocchio con una certa forza, non è chiaro se per incoraggiarvi o per fermarvi."
+
+# game/day15.rpy:972
+translate italian day15_restaurant_b_sex_94b60cdf:
+
+    # "{i}You move further down and touch the lips of her pussy."
+    "{i}Scendi più in basso e tocca le labbra della sua figa."
+
+# game/day15.rpy:974
+translate italian day15_restaurant_b_sex_507a766b:
+
+    # m "It could be very interesting. Learning about other cultures is important, [r_name]."
+    m "Potrebbe essere molto interessante Imparare a conoscere altre culture è importante [r_name]."
+
+# game/day15.rpy:975
+translate italian day15_restaurant_b_sex_3b91163f:
+
+    # r "That sounds too much like college."
+    r "Sembra troppo da università"
+
+# game/day15.rpy:977
+translate italian day15_restaurant_b_sex_d4656f7b:
+
+    # "{i}As soon as you start playing with her labia, caressing them with your fingers, your sister has a hard time not squirming under your touch."
+    "{i}Non appena inizi a giocare con le sue labbra accarezzandole con le dita, tua sorella fa fatica a non contorcersi sotto il tuo tocco."
+
+# game/day15.rpy:979
+translate italian day15_restaurant_b_sex_954661e9:
+
+    # "{i}As soon as you start playing with her labia, caressing them with your fingers, [b_name] has a hard time not squirming under your touch."
+    "{i}Non appena inizi a giocare con le sue labbra accarezzandole con le dita [b_name] fa fatica a non contorcersi sotto il tuo tocco."
+
+# game/day15.rpy:980
+translate italian day15_restaurant_b_sex_96b0ea53:
+
+    # p "Belugio seems like an interesting country, I wouldn't mind learning something more about it."
+    p "Il Belugio sembra un paese interessante, non mi dispiacerebbe saperne di più."
+
+# game/day15.rpy:983
+translate italian day15_restaurant_b_sex_a6633c70:
+
+    # "{i}Your sister is still clawing at your knee, while your fingers circle around her clitoris. You feel that her juices have completely soaked the front of her bikini bottom."
+    "{i}Tua sorella sta ancora artigliando il tuo ginocchio mentre le tue dita girano intorno al suo clitoride Senti che i suoi succhi hanno completamente bagnato la parte anteriore del suo slip."
+
+# game/day15.rpy:985
+translate italian day15_restaurant_b_sex_fb3a4ee1:
+
+    # "{i}[b_name] is still clawing at your knee, while your fingers circle around her clitoris. You feel that her juices have completely soaked the front of her bikini bottom."
+    "{i}[b_name] sta ancora artigliando il tuo ginocchio mentre le tue dita girano intorno al suo clitoride Senti che i suoi succhi hanno completamente inzuppato la parte anteriore del suo slip."
+
+# game/day15.rpy:987
+translate italian day15_restaurant_b_sex_f79e67d0:
+
+    # l "Are you all right, [b_name]?"
+    l "Stai bene [b_name]?."
+
+# game/day15.rpy:988
+translate italian day15_restaurant_b_sex_2a52028c:
+
+    # b "W-h-what?"
+    b "C-cosa?"
+
+# game/day15.rpy:989
+translate italian day15_restaurant_b_sex_5c642762:
+
+    # b "Y-yes. I'm fine. T-there was too mmmuch pepper on that pizza."
+    b "Sì, sto bene, c'era troppo pepe sulla pizza."
+
+# game/day15.rpy:994
+translate italian day15_restaurant_b_sex_e92eab45:
+
+    # "{i}With all the attention centered on you, you decide to stop fingering her."
+    "{i}Con tutta l'attenzione concentrata su di te, decidi di smettere di sditalinarla."
+
+# game/day15.rpy:995
+translate italian day15_restaurant_b_sex_8f986d9e:
+
+    # b "I'm going to get a glass of water."
+    b "Vado a prendere un bicchiere d'acqua."
+
+# game/day15.rpy:997
+translate italian day15_restaurant_b_sex_78265ed8:
+
+    # "{i}[b_name] suddenly stands and walks away from the table. You notice she's trying to cover the wet stain on her bikini bottom."
+    "{i}[b_name] si alza improvvisamente e si allontana dal tavolo Si nota che sta cercando di coprire la macchia di bagnato sullo slip del bikini."
+
+# game/day15.rpy:998
+translate italian day15_restaurant_b_sex_11831365:
+
+    # m "Is she okay?"
+    m "Sta bene?"
+
+# game/day15.rpy:999
+translate italian day15_restaurant_b_sex_88c4a7f6:
+
+    # l "She looked very flushed."
+    l "Sembrava molto arrossata."
+
+# game/day15.rpy:1000
+translate italian day15_restaurant_b_sex_701064f8:
+
+    # p "I'll have a look to see if she's all right."
+    p "Vado a vedere se sta bene."
+
+# game/day15.rpy:1011
+translate italian day15_restaurant_b_sex_eb4a1551:
+
+    # "{i}You enter the restroom and look for your sister."
+    "{i}Entra nella toilette e cerca tua sorella."
+
+# game/day15.rpy:1013
+translate italian day15_restaurant_b_sex_e0e77af2:
+
+    # "{i}You enter the restroom and look for [b_name]."
+    "{i}Si entra nella toilette e si cerca [b_name]."
+
+# game/day15.rpy:1014
+translate italian day15_restaurant_b_sex_c1930656:
+
+    # "{i}Suddenly you're startled by what sounded like a soft moan."
+    "{i}Improvvisamente sei stato spaventato da quello che sembrava un gemito sommesso."
+
+# game/day15.rpy:1015
+translate italian day15_restaurant_b_sex_ab5c9499:
+
+    # p "{i}(I think it came from over there.)"
+    p "{i}(credo che provenga da laggiù)."
+
+# game/day15.rpy:1019
+translate italian day15_restaurant_b_sex_de0be487:
+
+    # p "Do you need some help, sis?"
+    p "Hai bisogno di aiuto, sorellina?."
+
+# game/day15.rpy:1021
+translate italian day15_restaurant_b_sex_67af6f9c:
+
+    # p "Do you need some help, [b_name]?"
+    p "Ha bisogno di aiuto [b_name]?."
+
+# game/day15.rpy:1024
+translate italian day15_restaurant_b_sex_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Aaaaaah!"
+
+# game/day15.rpy:1026
+translate italian day15_restaurant_b_sex_19f173a3:
+
+    # b "G-go a-awwway! Aaaaaah!"
+    b "G-go a-awwway! Aaaaaah!"
+
+# game/day15.rpy:1027
+translate italian day15_restaurant_b_sex_3ec49d61:
+
+    # p "{i}(I think she's close.)"
+    p "{i}(Penso che sia vicina)."
+
+# game/day15.rpy:1029
+translate italian day15_restaurant_b_sex_4fe6616c:
+
+    # "{i}You move in the stall with [b_name] and push her hand away. [b_name] doesn't protest as you continue her gyrating motions with your own hand."
+    "{i}Ti muovi nel box con [b_name] e spingi via la sua mano [b_name] non protesta mentre continui i suoi movimenti rotatori con la tua mano."
+
+# game/day15.rpy:1030
+translate italian day15_restaurant_b_sex_a313c966:
+
+    # p "You didn't think you were going to cum without me, did you?"
+    p "Non avrai pensato di sborrare senza di me, vero?."
+
+# game/day15.rpy:1031
+translate italian day15_restaurant_b_sex_cd8ccdf2:
+
+    # b "Please! I need it so badly!"
+    b "Per favore! Ne ho tanto bisogno!"
+
+# game/day15.rpy:1033
+translate italian day15_restaurant_b_sex_0221946c:
+
+    # p "Would you have screamed like a little slut if I'd made you cum in front of our family?"
+    p "Avresti urlato come una puttanella se ti avessi fatto sborrare davanti alla nostra famiglia?."
+
+# game/day15.rpy:1035
+translate italian day15_restaurant_b_sex_27701185:
+
+    # p "Would you have screamed like a little slut if I'd made you cum in front of your friends?"
+    p "Avresti urlato come una puttanella se ti avessi fatto sborrare davanti ai tuoi amici?."
+
+# game/day15.rpy:1036
+translate italian day15_restaurant_b_sex_585e97f0:
+
+    # b "Yessss! Aaaaaaaah! I'm going to..."
+    b "Yessss! Aaaaaaaah! Sto per"
+
+# game/day15.rpy:1043
+translate italian day15_restaurant_b_sex_ef11b549:
+
+    # "{i}With all of her strength, [b_name] clasps arms around your neck. Four of your fingers are still inside of her dripping pussy, and you keep massaging her clit with your thumb as she orgasms violently."
+    "{i}Con tutta la sua forza [b_name] ti stringe le braccia intorno al collo Quattro delle tue dita sono ancora dentro la sua figa grondante e tu continui a massaggiarle il clitoride con il pollice mentre lei ha un orgasmo violento."
+
+# game/day15.rpy:1044
+translate italian day15_restaurant_b_sex_684436d3:
+
+    # b "Aaaaah! Fuck!!!"
+    b "Aaaaah! Cazzo!!!"
+
+# game/day15.rpy:1046
+translate italian day15_restaurant_b_sex_1c1cfdb2:
+
+    # "{i}Your sister's climax is long and intense. You feel her warm breath against your ear and hear her ragged breathing as she shudders against your body in the last throes of her orgasm."
+    "{i}Il climax di tua sorella è lungo e intenso Senti il suo respiro caldo contro il tuo orecchio e senti il suo respiro affannoso mentre si stringe contro il tuo corpo nelle ultime pulsazioni del suo orgasmo."
+
+# game/day15.rpy:1048
+translate italian day15_restaurant_b_sex_d364ca11:
+
+    # "{i}[b_name]'s climax is long and intense. You feel her warm breath against your ear and hear her ragged breathing as she shudders against your body in the last throes of her orgasm."
+    "{i}Il climax di [b_name] è lungo e intenso Senti il suo respiro caldo contro il tuo orecchio e senti il suo respiro affannoso mentre si stringe contro il tuo corpo nelle ultime pulsioni del suo orgasmo."
+
+# game/day15.rpy:1053
+translate italian day15_restaurant_b_sex_5e1c78b5:
+
+    # p "Let's enjoy the rest of our dinner."
+    p "Godiamoci il resto della cena."
+
+# game/day15.rpy:1055
+translate italian day15_restaurant_b_sex_5dfa3a1f:
+
+    # b "I'm not sure I can even walk..."
+    b "Non sono nemmeno sicuro di poter camminare."
+
+# game/day15.rpy:1057
+translate italian day15_restaurant_b_sex_d26d47b8:
+
+    # b "Fuck you! I'm not sure I can even walk..."
+    b "Fanculo! Non sono nemmeno sicuro di poter camminare."
+
+# game/day15.rpy:1060
+translate italian day15_restaurant_b_sex_26651f21:
+
+    # m "Everything okay, dear?"
+    m "Tutto bene, cara?"
+
+# game/day15.rpy:1061
+translate italian day15_restaurant_b_sex_75a0df97:
+
+    # b "Yes. I'm fine now."
+    b "Sì, ora sto bene."
+
+# game/day15.rpy:1062
+translate italian day15_restaurant_b_sex_77bd2f24:
+
+    # l "What happened?"
+    l "Cosa è successo?"
+
+# game/day15.rpy:1063
+translate italian day15_restaurant_b_sex_5c559bd0:
+
+    # b "Nothing, the pizza was just too spicy. It's all good now."
+    b "Niente, la pizza era troppo piccante. Ora va tutto bene."
+
+# game/day15.rpy:1064
+translate italian day15_restaurant_b_sex_65764ef6:
+
+    # p "Must have been my magic touch."
+    p "Deve essere stato il mio tocco magico"
+
+# game/day15.rpy:1081
+translate italian day15_r_licking_0fb14244:
+
+    # r "You're finally here!"
+    r "Finalmente sei qui!"
+
+# game/day15.rpy:1082
+translate italian day15_r_licking_29f6126b:
+
+    # p "I had to wait for the others to fall asleep."
+    p "Ho dovuto aspettare che gli altri si addormentassero."
+
+# game/day15.rpy:1083
+translate italian day15_r_licking_559e1462:
+
+    # r "Give me a kiss! A long one!"
+    r "Dammi un bacio! Uno lungo!"
+
+# game/day15.rpy:1086
+translate italian day15_r_licking_0e0d34d3:
+
+    # "{i}You rush over and give [r_name] a passionate kiss. Her tongue eagerly seeks yours, and you can't help but touch your sister's small breasts in the heat of the moment. [r_name] gasps at your touch and embraces you tightly."
+    "{i}Ti precipiti su [r_name] e le dai un bacio appassionato La sua lingua cerca avidamente la tua e non puoi fare a meno di toccare i piccoli seni di tua sorella nella foga del momento [r_name] sussulta al tuo tocco e ti abbraccia forte."
+
+# game/day15.rpy:1088
+translate italian day15_r_licking_d9a8ccdb:
+
+    # "{i}You rush over and give [r_name] a passionate kiss. Her tongue eagerly seeks yours and you can't help but touch her small breasts in the heat of the moment. [r_name] gasps at your touch and embraces you tightly."
+    "{i}Ti precipiti su [r_name] e le dai un bacio appassionato La sua lingua cerca avidamente la tua e non puoi fare a meno di toccarle i piccoli seni nella foga del momento [r_name] sussulta al tuo tocco e ti abbraccia forte."
+
+# game/day15.rpy:1089
+translate italian day15_r_licking_6497c849:
+
+    # r "This feels so good, to be together again. I'm so sorry for pushing you away. I was so stupid!"
+    r "È così bello stare di nuovo insieme, mi dispiace tanto di averti allontanato, sono stato così stupido!."
+
+# game/day15.rpy:1090
+translate italian day15_r_licking_8f18434a:
+
+    # r "Punish me if I do something that stupid again, okay?"
+    r "Puniscimi se faccio di nuovo una cosa così stupida, ok?."
+
+# game/day15.rpy:1091
+translate italian day15_r_licking_300d5faf:
+
+    # p "Are you asking me to spank you?"
+    p "Mi stai chiedendo di sculacciarti?."
+
+# game/day15.rpy:1092
+translate italian day15_r_licking_d77f86cf:
+
+    # r "You're such a naughty boy."
+    r "Sei proprio un bambino cattivo."
+
+# game/day15.rpy:1093
+translate italian day15_r_licking_1418274b:
+
+    # p "No, you asked for it!"
+    p "No, l'hai chiesto tu!."
+
+# game/day15.rpy:1103
+translate italian day15_r_licking_8589d79b:
+
+    # "{i}You pull your giggling sister on your lap and give her buttocks a very light spanking."
+    "{i}Tiri sulle ginocchia la tua sorellina ridacchiante e le dai una leggerissima sculacciata sulle natiche."
+
+# game/day15.rpy:1105
+translate italian day15_r_licking_79731387:
+
+    # "{i}You pull a giggling [r_name] on your lap and give her buttocks a very light spanking."
+    "{i}Si tira in grembo una [r_name] ridacchiante e le si dà una leggerissima sculacciata sulle natiche."
+
+# game/day15.rpy:1107
+translate italian day15_r_licking_82145657:
+
+    # p "Promise you won't do that ever again!"
+    p "Promettimi che non lo farai mai più!."
+
+# game/day15.rpy:1108
+translate italian day15_r_licking_df53fd40:
+
+    # r "Hahaha! I promise! Mercy!"
+    r "Hahaha! I promise! Mercy!"
+
+# game/day15.rpy:1109
+translate italian day15_r_licking_120238af:
+
+    # p "Good. I think you have been sufficiently punished."
+    p "Bene, credo che tu sia stato punito a sufficienza."
+
+# game/day15.rpy:1111
+translate italian day15_r_licking_229c7053:
+
+    # r "Good!"
+    r "Bene!"
+
+# game/day15.rpy:1112
+translate italian day15_r_licking_91e77cae:
+
+    # r "But now that I'm a good girl again, don't I get a reward?"
+    r "Ma ora che sono di nuovo una brava ragazza non mi spetta una ricompensa?."
+
+# game/day15.rpy:1113
+translate italian day15_r_licking_be1a8c29:
+
+    # p "A reward? For what?"
+    p "Una ricompensa? Per cosa?"
+
+# game/day15.rpy:1115
+translate italian day15_r_licking_33f5cbf3:
+
+    # r "A reward for being your super cute sister, for example."
+    r "Una ricompensa per essere la tua sorella super carina, per esempio."
+
+# game/day15.rpy:1117
+translate italian day15_r_licking_a1c66895:
+
+    # r "A reward for being super cute, for example."
+    r "Una ricompensa per essere stati super carini, ad esempio."
+
+# game/day15.rpy:1118
+translate italian day15_r_licking_556c7b8e:
+
+    # p "Good point."
+    p "Buona osservazione"
+
+# game/day15.rpy:1119
+translate italian day15_r_licking_d6f44164:
+
+    # p "Let me kiss your cute body then."
+    p "Lasciami baciare il tuo bel corpo, allora."
+
+# game/day15.rpy:1124
+translate italian day15_r_licking_a7516fec:
+
+    # p "First your perfect breasts. Those freckled beauties."
+    p "Prima i tuoi seni perfetti Quelle bellezze lentigginose."
+
+# game/day15.rpy:1125
+translate italian day15_r_licking_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day15.rpy:1127
+translate italian day15_r_licking_5cfe63c0:
+
+    # p "Let's not forget those soft nipples."
+    p "Non dimentichiamo quei morbidi capezzoli."
+
+# game/day15.rpy:1128
+translate italian day15_r_licking_8369d944:
+
+    # r "Oooh! They're so sensitive."
+    r "Oooh! Sono così sensibili."
+
+# game/day15.rpy:1129
+translate italian day15_r_licking_753b7519:
+
+    # "{i}You move down and leave a trail of kisses from her breasts to the underside of her belly."
+    "{i}Ti muovi verso il basso e lasci una scia di baci dal suo seno alla parte inferiore del suo ventre."
+
+# game/day15.rpy:1130
+translate italian day15_r_licking_5a634af0:
+
+    # p "Your thighs need proper attention as well."
+    p "Anche le sue cosce hanno bisogno di cure adeguate."
+
+# game/day15.rpy:1131
+translate italian day15_r_licking_b352e2a4:
+
+    # r "Are you going to kiss me there, [p_name]?"
+    r "Hai intenzione di baciarmi lì [p_name]?."
+
+# game/day15.rpy:1132
+translate italian day15_r_licking_7a8400a2:
+
+    # "{i}[r_name] seems almost out of breath when she asks you, her voice filled with anticipation."
+    "{i}[r_name] sembra quasi senza fiato quando te lo chiede, con la voce piena di attesa."
+
+# game/day15.rpy:1133
+translate italian day15_r_licking_d8a3ffd9:
+
+    # p "Of course."
+    p "Naturalmente"
+
+# game/day15.rpy:1134
+translate italian day15_r_licking_28c375e9:
+
+    # p "{i}(And then I'm going to surprise her.)"
+    p "{i}(E poi le farò una sorpresa)."
+
+# game/day15.rpy:1137
+translate italian day15_r_licking_59de8410:
+
+    # "{i}As you kiss the soft flesh of your sister's thighs, you can smell the slight musk of her sex."
+    "{i}Mentre baci la morbida carne delle cosce di tua sorella puoi sentire il leggero profumo del suo sesso."
+
+# game/day15.rpy:1139
+translate italian day15_r_licking_a7162676:
+
+    # "{i}As you kiss the soft flesh of her thighs, you can smell the slight musk of her sex."
+    "{i}Mentre baci la carne morbida delle sue cosce puoi sentire il leggero profumo del suo sesso."
+
+# game/day15.rpy:1140
+translate italian day15_r_licking_02730608:
+
+    # p "{i}(And now for the surprise...)"
+    p "{i}(E ora la sorpresa)"
+
+# game/day15.rpy:1141
+translate italian day15_r_licking_6cef3773:
+
+    # "{i}[r_name] is clearly still enjoying the kissing of her thighs while you gently push her legs further apart. Her tight pussy is now fully revealed."
+    "{i}[r_name] si sta chiaramente godendo il bacio delle sue cosce mentre tu le spingi delicatamente le gambe più in là La sua figa stretta è ora completamente rivelata."
+
+# game/day15.rpy:1144
+translate italian day15_r_licking_1088e6a1:
+
+    # "{i}Without hesitation you move to her pussy. The sudden touch of your lips on her pussy lips sends a shockwave through your sister's body."
+    "{i}Senza esitare ti avvicini alla sua figa Il tocco improvviso delle tue labbra sulle labbra della sua figa manda un'onda d'urto nel corpo di tua sorella."
+
+# game/day15.rpy:1146
+translate italian day15_r_licking_7ff3ab5e:
+
+    # "{i}Without hesitation you move to her pussy. The sudden touch of your lips on her pussy lips sends a shockwave through her body."
+    "{i}Senza esitare ti avvicini alla sua figa Il tocco improvviso delle tue labbra sulle labbra della sua figa le trasmette un'onda d'urto attraverso il corpo."
+
+# game/day15.rpy:1147
+translate italian day15_r_licking_bbf12726:
+
+    # r "W-w-what are you doing, [p_name]?"
+    r "C-cosa stai facendo [p_name]?."
+
+# game/day15.rpy:1148
+translate italian day15_r_licking_96aa8b84:
+
+    # p "Should I stop?"
+    p "Devo fermarmi?"
+
+# game/day15.rpy:1149
+translate italian day15_r_licking_fcdf87f0:
+
+    # r "No no... It's just that I've never had a boy go down on me like that before."
+    r "No, no, è solo che non mi è mai capitato che un ragazzo si buttasse su di me in quel modo."
+
+# game/day15.rpy:1150
+translate italian day15_r_licking_abcffc36:
+
+    # p "Just relax and enjoy."
+    p "Rilassati e divertiti"
+
+# game/day15.rpy:1155
+translate italian day15_r_licking_fcbc7dda:
+
+    # "{i}You run your tongue slowly along her pussy lips and get a first taste of her juices."
+    "{i}Fai scorrere la lingua lentamente lungo le labbra della sua figa e assaggia per la prima volta i suoi succhi."
+
+# game/day15.rpy:1156
+translate italian day15_r_licking_a6c4fdcc:
+
+    # r "Ooooooh, God, [p_name]!"
+    r "Ooooooh Dio [p_name]!"
+
+# game/day15.rpy:1157
+translate italian day15_r_licking_f27e7169:
+
+    # "{i}Encouraged by her soft moans you focus your attention fully on her pussy and lick her moist lips."
+    "{i}Incoraggiato dai suoi gemiti sommessi, concentri la tua attenzione sulla sua figa e lecchi le sue labbra umide."
+
+# game/day15.rpy:1159
+translate italian day15_r_licking_f9c3ce63:
+
+    # r "Keep going, [p_name], please!"
+    r "Continua [p_name] per favore!."
+
+# game/day15.rpy:1160
+translate italian day15_r_licking_c07be34b:
+
+    # p "Does it feel good, [r_name]?"
+    p "Ti fa sentire bene [r_name]?."
+
+# game/day15.rpy:1161
+translate italian day15_r_licking_f3630a90:
+
+    # r "Y-y-yesss! It's so much better than using your fingers."
+    r "Sì, sì, sì! È molto meglio che usare le dita."
+
+# game/day15.rpy:1163
+translate italian day15_r_licking_e4078f14:
+
+    # "{i}After a soft start you quicken your tongue movements and get into a steady rhythm. Then you teasingly penetrate your sister's vagina with the tip of your tongue."
+    "{i}Dopo un inizio soft, acceleri i movimenti della lingua e prendi un ritmo costante. Poi penetri stuzzicando la vagina di tua sorella con la punta della lingua."
+
+# game/day15.rpy:1165
+translate italian day15_r_licking_7d967691:
+
+    # "{i}After a soft start you quicken your tongue movements and get into a steady rhythm. Then you teasingly penetrate her vagina with the tip of your tongue."
+    "{i}Dopo un inizio soft, accelerate i movimenti della lingua e prendete un ritmo costante. Poi penetrate stuzzicando la sua vagina con la punta della lingua."
+
+# game/day15.rpy:1167
+translate italian day15_r_licking_2cc1569b:
+
+    # r "Mmmmm. I'm so wet, [p_name]. Aaaaah."
+    r "Mmmmm sono così bagnato [p_name] Aaaaah"
+
+# game/day15.rpy:1168
+translate italian day15_r_licking_e4f86125:
+
+    # "{i}[r_name]'s clitoris beckons and you intensify your attention on her little pearl."
+    "{i}Il clitoride di [r_name] richiama e voi intensificate le vostre attenzioni sulla sua piccola perla."
+
+# game/day15.rpy:1169
+translate italian day15_r_licking_bff9574e:
+
+    # r "Yes, [p_name], right there. Keep going! Keep going!"
+    r "Sì [p_name] proprio lì Continua! Continua!"
+
+# game/day15.rpy:1171
+translate italian day15_r_licking_f8c8b2a5:
+
+    # "{i}All of your sister's muscles tighten in anticipation of a glorious release. [r_name] wriggles her lower body to position her pussy optimally beneath your lapping tongue."
+    "{i}Tutti i muscoli di tua sorella si tendono in previsione di una gloriosa liberazione [r_name] si dimena nella parte inferiore del corpo per posizionare la sua figa in modo ottimale sotto la tua lingua che lappa."
+
+# game/day15.rpy:1173
+translate italian day15_r_licking_db796e7a:
+
+    # "{i}All of [r_name]'s muscles tighten in anticipation of a glorious release. She wriggles her lower body to position her pussy optimally beneath your lapping tongue."
+    "{i}Tutti i muscoli di [r_name] si tendono in previsione di una gloriosa liberazione Si dimena nella parte inferiore del corpo per posizionare la sua figa in modo ottimale sotto la tua lingua che lappa."
+
+# game/day15.rpy:1174
+translate italian day15_r_licking_79a8d09d:
+
+    # r "Oh God, Oooh, [p_name], I'm about to..."
+    r "Oh Dio Oooh [p_name] sto per"
+
+# game/day15.rpy:1181
+translate italian day15_r_licking_e4e95425:
+
+    # r "C-c-cuuuummmmmm!!!"
+    r "C-c-cuuuummmmmm!!!"
+
+# game/day15.rpy:1182
+translate italian day15_r_licking_a6a6ed04:
+
+    # "{i}[r_name] shudders and moans with abandon. You keep licking her clit to ensure her orgasm seems to last forever. When her convulsions subside, you kiss her pussy and lie next to her."
+    "{i}[r_name] trema e geme con abbandono Continui a leccarle il clitoride per far sì che il suo orgasmo sembri durare per sempre Quando le sue convulsioni si placano, le baci la figa e ti sdrai accanto a lei."
+
+# game/day15.rpy:1188
+translate italian day15_r_licking_5658ed48:
+
+    # r "That was... It was... You were great!"
+    r "È stato È stato Sei stato grande!."
+
+# game/day15.rpy:1189
+translate italian day15_r_licking_5dafe078:
+
+    # p "Your first time?"
+    p "La tua prima volta?"
+
+# game/day15.rpy:1190
+translate italian day15_r_licking_ea419ffe:
+
+    # r "Yes. Unfortunately."
+    r "Sì, purtroppo"
+
+# game/day15.rpy:1191
+translate italian day15_r_licking_4eb5e8a6:
+
+    # r "Alina wanted to do it with me last time we had a sleepover."
+    r "Alina voleva farlo con me l'ultima volta che abbiamo fatto un pigiama party."
+
+# game/day15.rpy:1193
+translate italian day15_r_licking_ffe0d267:
+
+    # p "{i}(I knew those girls were up to something naughty!)"
+    p "{i}(Sapevo che quelle ragazze stavano combinando qualcosa di sconcio!)."
+
+# game/day15.rpy:1194
+translate italian day15_r_licking_c8debd6b:
+
+    # r "But I held it off. I thought it was a bit weird to go down on someone like that."
+    r "Ma mi sono trattenuto, ho pensato che fosse un po' strano fare sesso con qualcuno in quel modo."
+
+# game/day15.rpy:1196
+translate italian day15_r_licking_574a4f5b:
+
+    # p "It's very intimate. And you taste very good, darling little sister."
+    p "È molto intimo e il tuo sapore è molto buono, cara sorellina."
+
+# game/day15.rpy:1198
+translate italian day15_r_licking_29293bbe:
+
+    # p "It's very intimate. And you taste very good, darling little [r_name]."
+    p "È molto intimo e il tuo sapore è molto buono, piccolo [r_name]."
+
+# game/day15.rpy:1199
+translate italian day15_r_licking_04b0ec1c:
+
+    # r "Mmmmm. Watch out. I might get addicted to this."
+    r "Attenzione, potrei diventarne dipendente."
+
+# game/day15.rpy:1200
+translate italian day15_r_licking_de3384ca:
+
+    # p "Sweet dreams, [r_name]."
+    p "Sogni d'oro [r_name]"
+
+# game/day15.rpy:1201
+translate italian day15_r_licking_5961bf0b:
+
+    # r "I love you!"
+    r "Ti amo!"
+
+# game/day15.rpy:1202
+translate italian day15_r_licking_22e9f436:
+
+    # p "I love you too!"
+    p "Anch'io ti amo!"
+

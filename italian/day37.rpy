@@ -4765,3 +4765,1895 @@ translate italian day37_l_deflower_3e8e05a8:
 
     # "{i}There's no doubt in your mind where you'll finish, so as your orgasm surges, you reluctantly pull out of her."
     "{i}Non hai dubbi su dove finirai, così, mentre il tuo orgasmo sale, tiri fuori da lei con riluttanza."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day37.rpy:774
+translate italian day37_r_b_sex_0261ae68:
+
+    # "{i}[b_name] still wears that enigmatic half-smile when she walks towards you."
+    "{i}[b_name] porta ancora quel mezzo sorriso enigmatico quando viene verso di te."
+
+# game/day37.rpy:777
+translate italian day37_r_b_sex_3e1640f5:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her sister on the mouth."
+    "{i}Preparandoti a uno schiaffo da stronza, ti sorprende tenendo il viso di [r_name] tra le mani e baciando la sorella sulla bocca."
+
+# game/day37.rpy:779
+translate italian day37_r_b_sex_ee924156:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her friend on the mouth."
+    "{i}Preparandovi per uno schiaffo, vi sorprende tenendo il viso di [r_name] tra le mani e baciando l'amico sulla bocca."
+
+# game/day37.rpy:781
+translate italian day37_r_b_sex_cd0ff4f1:
+
+    # b "Is this really what you want?"
+    b "È davvero questo che vuoi?."
+
+# game/day37.rpy:782
+translate italian day37_r_b_sex_b881e13c:
+
+    # p "Yes it is."
+    p "Sì, lo è"
+
+# game/day37.rpy:783
+translate italian day37_r_b_sex_f93c092a:
+
+    # r "It's what we want."
+    r "È quello che vogliamo"
+
+# game/day37.rpy:785
+translate italian day37_r_b_sex_a73c0f44:
+
+    # "{i}Satisfied by your answer, [b_name] turns her head towards you and kisses you lovingly, placing an affectionate hand on [r_name]'s ass."
+    "{i}Soddisfatta della tua risposta [b_name] gira la testa verso di te e ti bacia amorevolmente posando una mano affettuosa sul sedere di [r_name]."
+
+# game/day37.rpy:786
+translate italian day37_r_b_sex_941b354c:
+
+    # "{i}She then whispers something in [r_name]'s ear, who begins the giggle and lets your cock slip out of her."
+    "{i}Poi sussurra qualcosa all'orecchio di [r_name] che inizia a ridacchiare e lascia che il tuo cazzo scivoli fuori da lei."
+
+# game/day37.rpy:787
+translate italian day37_r_b_sex_d88cb631:
+
+    # r "This is going to be fun!"
+    r "Sarà divertente!."
+
+# game/day37.rpy:789
+translate italian day37_r_b_sex_a2c6f999:
+
+    # "{i}You have a feeling she's right as the girls kiss again and hesitantly touch each other."
+    "{i}Hai la sensazione che abbia ragione, mentre le ragazze si baciano di nuovo ed esitano a toccarsi."
+
+# game/day37.rpy:790
+translate italian day37_r_b_sex_46cb1c22:
+
+    # "{i}[r_name] clearly is the horniest of the two, having been treated by you already and takes the lead."
+    "{i}[r_name] è chiaramente il più arrapato dei due, essendo già stato trattato da voi, e prende il comando."
+
+# game/day37.rpy:797
+translate italian day37_r_b_sex_69524a16:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her sister's tongue touches her pussy."
+    "{i}Prima di sdraiarsi sul letto, [b_name] lancia un'occhiata a te, un misto di desiderio e un pizzico di colpa, presto sostituiti dalla beatitudine quando la lingua di sua sorella le sfiora la figa."
+
+# game/day37.rpy:799
+translate italian day37_r_b_sex_fb631049:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her friend's tongue touches her pussy."
+    "{i}Prima di sdraiarsi sul letto, [b_name] lancia un'occhiata a te, un misto di desiderio e un pizzico di senso di colpa, presto sostituito dalla beatitudine quando la lingua dell'amica le sfiora la figa."
+
+# game/day37.rpy:800
+translate italian day37_r_b_sex_866c7524:
+
+    # b "Oh, [r_name]!"
+    b "Oh [r_name]!"
+
+# game/day37.rpy:803
+translate italian day37_r_b_sex_2f3217e1:
+
+    # "{i}The familiarity with which both siblings treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}La familiarità con cui entrambi i fratelli trattano i loro corpi è una gioia da vedere, mentre [r_name] colpisce immediatamente il punto di forza di [b_name]."
+
+# game/day37.rpy:805
+translate italian day37_r_b_sex_fea405a2:
+
+    # "{i}The familiarity with which both friends treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}La familiarità con cui entrambi gli amici trattano i loro corpi è una gioia da vedere, mentre [r_name] colpisce immediatamente il punto dolce di [b_name]."
+
+# game/day37.rpy:811
+translate italian day37_r_b_sex_304d226c:
+
+    # "{i}[r_name]'s ass wiggles suggestively in the air, and you cannot contain yourself any longer."
+    "{i}Il culo di [r_name] si dimena suggestivamente nell'aria e voi non riuscite più a trattenervi."
+
+# game/day37.rpy:813
+translate italian day37_r_b_sex_f3a8c47c:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her own sister."
+    "{i}Spingi il tuo cazzo contro la figa bagnata di [r_name] per riprendere a scoparla mentre lei mangia la sua stessa sorella."
+
+# game/day37.rpy:815
+translate italian day37_r_b_sex_fe691908:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her dear friend."
+    "{i}Spingi il tuo cazzo contro la figa bagnata di [r_name] per riprendere a scoparla mentre lei mangia il suo caro amico."
+
+# game/day37.rpy:816
+translate italian day37_r_b_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day37.rpy:818
+translate italian day37_r_b_sex_18a8fab2:
+
+    # "{i}Not wanting to disturb [r_name], you start out with gentle thrusts, feeling every inch of her love tunnel."
+    "{i}Non volendo disturbare [r_name] iniziate con spinte delicate a sentire ogni centimetro del suo tunnel dell'amore."
+
+# game/day37.rpy:819
+translate italian day37_r_b_sex_55bc6403:
+
+    # b "Is he fucking you [r_name]?"
+    b "Ti sta scopando [r_name]?."
+
+# game/day37.rpy:820
+translate italian day37_r_b_sex_3205fe03:
+
+    # r "Oh yes!"
+    r "Oh sì!"
+
+# game/day37.rpy:821
+translate italian day37_r_b_sex_0261bcfc:
+
+    # b "Does it feel good?!"
+    b "Ti fa sentire bene?!"
+
+# game/day37.rpy:822
+translate italian day37_r_b_sex_5dfa2c83:
+
+    # r "Oh fuck yes!"
+    r "Oh, cazzo, sì!"
+
+# game/day37.rpy:824
+translate italian day37_r_b_sex_bd136719:
+
+    # "{i}[r_name] presses her slithering tongue diligently against [b_name]'s pussy and starts to stimulate the clitoris directly."
+    "{i}[r_name] preme diligentemente la sua lingua strisciante sulla figa di [b_name] e inizia a stimolare direttamente il clitoride."
+
+# game/day37.rpy:825
+translate italian day37_r_b_sex_2745ee7b:
+
+    # b "Oh god!"
+    b "Oh Dio!"
+
+# game/day37.rpy:826
+translate italian day37_r_b_sex_eaef6154:
+
+    # b "Oh yes!"
+    b "Oh sì!"
+
+# game/day37.rpy:833
+translate italian day37_r_b_sex_c8db291b:
+
+    # "{i}Pressing her younger sister's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Premendo la faccia della sorella minore contro la sua fica [b_name] raggiunge l'orgasmo e voi accelerate il ritmo scopando [r_name]."
+
+# game/day37.rpy:835
+translate italian day37_r_b_sex_0f24c741:
+
+    # "{i}Pressing her younger friend's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Premendo la faccia dell'amica più giovane contro la sua fica [b_name] raggiunge l'orgasmo e voi accelerate il ritmo scopando [r_name]."
+
+# game/day37.rpy:840
+translate italian day37_r_b_sex_2c01e94a:
+
+    # "{i}Pretty soon [r_name] moans hard in [b_name]'s cunt as she too climaxes from the stimulation of your hard cock."
+    "{i}Ben presto [r_name] geme forte nella fica di [b_name] mentre anche lei raggiunge l'orgasmo grazie alla stimolazione del tuo cazzo duro."
+
+# game/day37.rpy:851
+translate italian day37_r_b_sex_cb03dde3:
+
+    # "{i}As [r_name] slides off your dick, the two girls regard you with smoldering eyes, their wet pussies glimmering in the lamp light."
+    "{i}Mentre [r_name] scivola via dal tuo cazzo, le due ragazze ti guardano con occhi ardenti, le loro fighe umide scintillano alla luce della lampada."
+
+# game/day37.rpy:855
+translate italian day37_r_b_sex_38fac03f:
+
+    # "{i}[r_name]'s pussy is too good to pass up, so you grab her body again and re-enter her."
+    "{i}[r_name] la figa è troppo bella per lasciarsela sfuggire, così afferrate di nuovo il suo corpo e rientrate in lei."
+
+# game/day37.rpy:861
+translate italian day37_r_b_sex_3059bfb5:
+
+    # r "Yes [p_name]!"
+    r "Sì [p_name]!."
+
+# game/day37.rpy:862
+translate italian day37_r_b_sex_a1d697ab:
+
+    # r "Keep fucking me!"
+    r "Continua a scoparmi!"
+
+# game/day37.rpy:865
+translate italian day37_r_b_sex_04bba71b:
+
+    # "[b_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] mantiene l'attenzione sulla sorella facendola sentire a proprio agio, accarezzandole il seno e baciandole le labbra carnose."
+
+# game/day37.rpy:867
+translate italian day37_r_b_sex_13d54f9f:
+
+    # "[b_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] mantiene l'attenzione sull'amica facendola sentire a proprio agio, accarezzandole il seno e baciandole le labbra carnose."
+
+# game/day37.rpy:868
+translate italian day37_r_b_sex_5961bf0b:
+
+    # r "I love you!"
+    r "Ti amo!"
+
+# game/day37.rpy:869
+translate italian day37_r_b_sex_d12c244a:
+
+    # r "I l-love you both!"
+    r "Vi amo entrambi!."
+
+# game/day37.rpy:870
+translate italian day37_r_b_sex_c908cec5:
+
+    # "{i}Your cock is twitching with each thrust and you know you'll cum soon."
+    "{i}Il tuo cazzo si contrae ad ogni spinta e sai che presto sborrerai."
+
+# game/day37.rpy:874
+translate italian day37_r_b_sex_857d904a:
+
+    # "{i}[b_name]'s pussy is too good to pass up, so you grab her and enter her, a squee of delight escaping her."
+    "{i}[b_name] la figa è troppo bella per lasciarsela sfuggire, così la afferri e la penetri con una stretta di piacere che le sfugge."
+
+# game/day37.rpy:880
+translate italian day37_r_b_sex_3f7d13a6:
+
+    # "{i}From the moment you've entered her, you know that you've hit a sweet spot for you both."
+    "{i}Dal momento in cui siete entrati in lei, sapete di aver raggiunto un punto di forza per entrambi."
+
+# game/day37.rpy:881
+translate italian day37_r_b_sex_b118b08e:
+
+    # "{i}[b_name] stares at you in rapture, biting her lower lip, every muscle in her body taut in anticipation."
+    "{i}[b_name] ti fissa estasiata mordendosi il labbro inferiore, ogni muscolo del suo corpo è teso nell'attesa."
+
+# game/day37.rpy:882
+translate italian day37_r_b_sex_c11078f8:
+
+    # p "Are you going to cum for me, baby?"
+    p "Hai intenzione di sborrare per me, piccola?."
+
+# game/day37.rpy:883
+translate italian day37_r_b_sex_3fd3887e:
+
+    # b "Y-yes..."
+    b "S-sì"
+
+# game/day37.rpy:884
+translate italian day37_r_b_sex_eaef6154_1:
+
+    # b "Oh yes!"
+    b "Oh sì!"
+
+# game/day37.rpy:886
+translate italian day37_r_b_sex_f87f9c2d:
+
+    # b "Don't stop!"
+    b "Non fermarti!"
+
+# game/day37.rpy:887
+translate italian day37_r_b_sex_f8439e45:
+
+    # b "Don't you dare stop!"
+    b "Non osare fermarti!."
+
+# game/day37.rpy:888
+translate italian day37_r_b_sex_63472302:
+
+    # "{i}Your cock angled a certain way, you're causing [b_name] to experience deep pleasure, her pussy is getting wetter and wetter."
+    "{i}Il tuo cazzo angolato in un certo modo sta facendo provare a [b_name] un piacere profondo, la sua figa è sempre più bagnata."
+
+# game/day37.rpy:890
+translate italian day37_r_b_sex_f17408ce:
+
+    # "[r_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] mantiene l'attenzione sulla sorella facendola sentire a proprio agio, accarezzandole il seno e baciandole le labbra carnose."
+
+# game/day37.rpy:892
+translate italian day37_r_b_sex_775922d3:
+
+    # "[r_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] mantiene l'attenzione sull'amica facendola sentire a proprio agio, accarezzandole il seno e baciandole le labbra carnose."
+
+# game/day37.rpy:893
+translate italian day37_r_b_sex_ee1c7da6:
+
+    # r "You're so wet, [b_name]!"
+    r "Sei così bagnato [b_name]!."
+
+# game/day37.rpy:894
+translate italian day37_r_b_sex_e924b776:
+
+    # b "I-I... I k-knowww!"
+    b "Io... io... io... lo so!."
+
+# game/day37.rpy:901
+translate italian day37_r_b_sex_23c79517:
+
+    # "{i}When you thrust deep inside her, [b_name] begins to tremble, and a clawed hand slaps on your back."
+    "{i}Quando ti spingi in profondità dentro di lei [b_name] inizia a tremare e una mano artigliata ti schiaffeggia la schiena."
+
+# game/day37.rpy:902
+translate italian day37_r_b_sex_1bb9711e:
+
+    # "{i}Squirt is leaking out of her cunt and after one last stroke of your cock, you slip out of her and she sprays the bed with her juices."
+    "{i}Lo squirt fuoriesce dalla sua fica e dopo un ultimo colpo del tuo cazzo scivoli fuori da lei e lei spruzza il letto con i suoi succhi."
+
+# game/day37.rpy:904
+translate italian day37_r_b_sex_04b0bc80:
+
+    # b "F-f-ffuuuu..."
+    b "F-f-ffuuuu"
+
+# game/day37.rpy:905
+translate italian day37_r_b_sex_4ac85c47:
+
+    # b "Oh [p_name]!"
+    b "Oh [p_name]!"
+
+# game/day37.rpy:908
+translate italian day37_r_b_sex_ab56e5e9:
+
+    # "{i}Your sister convulses as the last streams of ejaculate leave her vagina."
+    "{i}Tua sorella ha le convulsioni mentre gli ultimi fiotti di eiaculato lasciano la sua vagina."
+
+# game/day37.rpy:910
+translate italian day37_r_b_sex_9dcf900c:
+
+    # "{i}Your friend convulses as the last streams of ejaculate leave her vagina."
+    "{i}La tua amica ha le convulsioni mentre gli ultimi fiotti di eiaculato lasciano la sua vagina."
+
+# game/day37.rpy:911
+translate italian day37_r_b_sex_0ccf25cc:
+
+    # r "That was awesome."
+    r "È stato fantastico"
+
+# game/day37.rpy:912
+translate italian day37_r_b_sex_e46e2f63:
+
+    # "{i}[b_name] can only smile at her, temporarily incapable of speech."
+    "{i}[b_name] può solo sorridere di fronte alla sua temporanea incapacità di parlare."
+
+# game/day37.rpy:914
+translate italian day37_r_b_sex_21185f76:
+
+    # "{i}The sight of your sisters covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}La vista delle vostre sorelle coperte di sperma vi fa eccitare oltre ogni limite e desiderare un orgasmo."
+
+# game/day37.rpy:916
+translate italian day37_r_b_sex_5e55c334:
+
+    # "{i}The sight of [b_name] and [r_name] covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}La vista di [b_name] e [r_name] coperti di squirt ti fa eccitare oltremodo e desiderare un orgasmo."
+
+# game/day37.rpy:932
+translate italian day37_r_b_sex_6f37408b:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside your little sister, and soon enough, your seed starts flowing inside of her."
+    "{i}Nonostante l'attrazione per la fica umida e gocciolante di [b_name], decidi di finire dentro la tua sorellina e ben presto il tuo seme inizia a scorrere dentro di lei."
+
+# game/day37.rpy:934
+translate italian day37_r_b_sex_e6cf135e:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside [r_name], and soon enough, your seed starts flowing inside of her."
+    "{i}Nonostante l'attrazione della fica umida e gocciolante di [b_name], decidi di finire dentro [r_name] e ben presto il tuo seme inizia a scorrere dentro di lei."
+
+# game/day37.rpy:937
+translate italian day37_r_b_sex_d83845e4:
+
+    # "{i}A desire to cream your little sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Il desiderio di spalmare la tua sorellina con tutta la forza del tuo orgasmo ti invade in pochi secondi e il tuo seme inizia a scorrere dentro di lei."
+
+# game/day37.rpy:939
+translate italian day37_r_b_sex_8db2f62d:
+
+    # "{i}A desire to cream [r_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Il desiderio di scremare [r_name] con tutta la forza del tuo orgasmo ti invade in pochi secondi e il tuo seme inizia a scorrere dentro di lei."
+
+# game/day37.rpy:943
+translate italian day37_r_b_sex_60bec761:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her sister, a little envious of the treatment the younger girl has received."
+    "{i}Sorridendo [r_name] si fa un ditalino mentre il tuo sperma fuoriesce dalla sua figa [b_name] bacia la sorella un po' invidiosa del trattamento che ha ricevuto la ragazza più giovane."
+
+# game/day37.rpy:945
+translate italian day37_r_b_sex_f79e8759:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her friend, a little envious of the treatment the younger girl has received."
+    "{i}Sorridendo [r_name] si fa un ditalino mentre il tuo sperma fuoriesce dalla sua figa [b_name] bacia la sua amica un po' invidiosa del trattamento che ha ricevuto la ragazza più giovane."
+
+# game/day37.rpy:964
+translate italian day37_r_b_sex_f648e5eb:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your older sister."
+    "{i}[b_name] la fica bagnata e gocciolante è così attraente che decidi di scoparla di nuovo e di finire dentro tua sorella maggiore."
+
+# game/day37.rpy:966
+translate italian day37_r_b_sex_9db498b6:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your girl."
+    "{i}[b_name] la fica bagnata e gocciolante è così attraente che decidi di scoparla di nuovo e di finire dentro la tua ragazza."
+
+# game/day37.rpy:968
+translate italian day37_r_b_sex_4e056e92:
+
+    # "{i}Soon enough, your seed starts flowing inside of her, and [b_name] moans in rapturous acceptance."
+    "{i}Ben presto il tuo seme inizia a scorrere dentro di lei e [b_name] geme in estasiata accettazione."
+
+# game/day37.rpy:972
+translate italian day37_r_b_sex_aa4e8d70:
+
+    # "{i}A desire to cream your older sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Il desiderio di spremere la tua sorella maggiore con tutta la forza del tuo orgasmo ti invade in pochi secondi e il tuo seme inizia a scorrere dentro di lei."
+
+# game/day37.rpy:974
+translate italian day37_r_b_sex_63ceb15f:
+
+    # "{i}A desire to cream [b_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Il desiderio di scremare [b_name] con tutta la forza del tuo orgasmo ti invade in pochi secondi e il tuo seme inizia a scorrere dentro di lei."
+
+# game/day37.rpy:979
+translate italian day37_r_b_sex_e54b12ac:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her sister, a little envious of the treatment the older girl has received."
+    "{i}Sorridendo [b_name] si fa un ditalino mentre il tuo sperma fuoriesce dalla sua figa [r_name] bacia la sorella un po' invidiosa del trattamento che ha ricevuto la ragazza più grande."
+
+# game/day37.rpy:981
+translate italian day37_r_b_sex_aa991e34:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her friend, a little envious of the treatment the older girl has received."
+    "{i}Sorridendo [b_name] si fa un ditalino mentre il tuo sperma fuoriesce dalla sua figa [r_name] bacia la sua amica un po' invidiosa del trattamento che ha ricevuto la ragazza più grande."
+
+# game/day37.rpy:998
+translate italian day37_r_b_sex_9c872b25:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Cominci a masturbarti davanti alle tue sorelle, i tuoi occhi si soffermano sui loro corpi nudi e bagnati di sperma."
+
+# game/day37.rpy:1000
+translate italian day37_r_b_sex_abdc207b:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Cominci a masturbarti davanti alle tue ragazze, i tuoi occhi si soffermano sui loro corpi nudi e bagnati di sperma."
+
+# game/day37.rpy:1002
+translate italian day37_r_b_sex_afccc776:
+
+    # p "I'm so close!"
+    p "Sono così vicino!"
+
+# game/day37.rpy:1003
+translate italian day37_r_b_sex_78ae37fc:
+
+    # r "Are you going to cum for us?"
+    r "Hai intenzione di sborrare per noi?."
+
+# game/day37.rpy:1004
+translate italian day37_r_b_sex_071b2a1d:
+
+    # p "Yes!"
+    p "Sì!"
+
+# game/day37.rpy:1005
+translate italian day37_r_b_sex_9d301335:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their bodies."
+    "{i}[b_name] e [r_name] sono pronti per il tuo seme mentre giacciono invitanti vicino a te in attesa che il tuo orgasmo ricopra i loro corpi."
+
+# game/day37.rpy:1007
+translate italian day37_r_b_sex_1cfd043b:
+
+    # "{i}When it finally comes, you manage to treat both of their bellies to a blast of cum, and both girls seem very satisfied."
+    "{i}Quando finalmente arriva riesci a regalare a entrambe le loro pance un'esplosione di sperma ed entrambe le ragazze sembrano molto soddisfatte."
+
+# game/day37.rpy:1022
+translate italian day37_r_b_sex_9c872b25_1:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Cominci a masturbarti davanti alle tue sorelle, i tuoi occhi si soffermano sui loro corpi nudi e bagnati di sperma."
+
+# game/day37.rpy:1024
+translate italian day37_r_b_sex_abdc207b_1:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Cominci a masturbarti davanti alle tue ragazze, i tuoi occhi si soffermano sui loro corpi nudi e bagnati di sperma."
+
+# game/day37.rpy:1026
+translate italian day37_r_b_sex_afccc776_1:
+
+    # p "I'm so close!"
+    p "Sono così vicino!"
+
+# game/day37.rpy:1027
+translate italian day37_r_b_sex_78ae37fc_1:
+
+    # r "Are you going to cum for us?"
+    r "Hai intenzione di sborrare per noi?."
+
+# game/day37.rpy:1028
+translate italian day37_r_b_sex_071b2a1d_1:
+
+    # p "Yes!"
+    p "Sì!"
+
+# game/day37.rpy:1029
+translate italian day37_r_b_sex_24fbbf20:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their faces."
+    "{i}[b_name] e [r_name] sono pronti per il tuo seme, mentre giacciono invitanti vicino a te in attesa che il tuo orgasmo ricopra i loro volti."
+
+# game/day37.rpy:1031
+translate italian day37_r_b_sex_c7529624:
+
+    # "{i}When it finally comes, you manage to treat both of their faces to a blast of cum, and both girls seem very satisfied."
+    "{i}Quando finalmente arriva, riesci a regalare a entrambe le facce un'esplosione di sperma ed entrambe le ragazze sembrano molto soddisfatte."
+
+# game/day37.rpy:1041
+translate italian day37_r_b_sex_722a8bc7:
+
+    # "{i}Still relishing the afterglow, [b_name] kisses [r_name] passionately."
+    "{i}Ancora assaporando il bagliore [b_name] bacia [r_name] appassionatamente"
+
+# game/day37.rpy:1043
+translate italian day37_r_b_sex_f94dd09d:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your sisters can come to love each other as more than just family."
+    "{i}È in quel momento che sai che è successo qualcosa di importante e sai che entrambe le tue sorelle possono arrivare ad amarsi come qualcosa di più di una semplice famiglia."
+
+# game/day37.rpy:1045
+translate italian day37_r_b_sex_a3639d07:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your friends can come to love each other as more than just friends."
+    "{i}È in quel momento che sai che è successo qualcosa di importante e sai che entrambi i tuoi amici possono arrivare ad amarsi come qualcosa di più di semplici amici."
+
+# game/day37.rpy:1047
+translate italian day37_r_b_sex_28ae4a57:
+
+    # "{i}Both girls lie with you and you stroke their soft skin as the morning light peeks through the curtains."
+    "{i}Entrambe le ragazze si sdraiano con te e tu accarezzi la loro pelle morbida mentre la luce del mattino fa capolino attraverso le tende."
+
+# game/day37.rpy:1049
+translate italian day37_r_b_sex_bf176aaa:
+
+    # "{i}Just before the rest of the house awakes, you kiss the girls and slip out of [r_name]'s room."
+    "{i}Poco prima che il resto della casa si svegli, baci le ragazze e sgattaioli fuori dalla stanza di [r_name]."
+
+# game/day37.rpy:1062
+translate italian day37_b_sex_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] è un full sub in questa scena?."
+
+# game/day37.rpy:1066
+translate italian day37_b_sex_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] completamente sottomessa"
+
+# game/day37.rpy:1069
+translate italian day37_b_sex_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] non completamente sottomesso."
+
+# game/day37.rpy:1080
+translate italian day37_b_sex_hard_1a6f13d8:
+
+    # b "I don't know, [p_name]..."
+    b "Non conosco [p_name]."
+
+# game/day37.rpy:1083
+translate italian day37_b_sex_hard_fb157d13:
+
+    # b "My pussy is all wet now, don't you want to fuck me hard?"
+    b "La mia figa è tutta bagnata ora non vuoi scoparmi forte?."
+
+# game/day37.rpy:1084
+translate italian day37_b_sex_hard_6f99c14b:
+
+    # p "No, leave that egg inside of you."
+    p "No, lascia quell'uovo dentro di te."
+
+# game/day37.rpy:1086
+translate italian day37_b_sex_hard_6d722996:
+
+    # b "I fucking hate you, you know that?"
+    b "Ti odio, cazzo, lo sai?."
+
+# game/day37.rpy:1087
+translate italian day37_b_sex_hard_7bbf1827:
+
+    # p "And I don't believe you."
+    p "E io non ti credo."
+
+# game/day37.rpy:1088
+translate italian day37_b_sex_hard_a4bc07f4:
+
+    # p "Show me that beautiful ass of yours."
+    p "Fammi vedere quel tuo bel culo."
+
+# game/day37.rpy:1097
+translate italian day37_b_sex_hard_2eb635e5:
+
+    # "{i}Sighing, your sister obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Sospirando, tua sorella ti accontenta, anche allargando le chiappe per farti vedere bene il suo piccolo e delicato ano."
+
+# game/day37.rpy:1099
+translate italian day37_b_sex_hard_9f601368:
+
+    # "{i}Sighing, your girl obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Sospirando, la tua ragazza ti accontenta, anche allargando le chiappe per darti un'occhiata al suo piccolo e delicato ano."
+
+# game/day37.rpy:1100
+translate italian day37_b_sex_hard_5ecafe00:
+
+    # p "There isn't a part of you that isn't beautiful, is there?"
+    p "Non c'è una parte di te che non sia bella, vero?."
+
+# game/day37.rpy:1103
+translate italian day37_b_sex_hard_f2cc55b0:
+
+    # b "I don't know..."
+    b "Non lo so"
+
+# game/day37.rpy:1105
+translate italian day37_b_sex_hard_8942069c:
+
+    # b "Jesus, you're talking about my butthole, creep."
+    b "Gesù, stai parlando del mio buco del culo."
+
+# game/day37.rpy:1106
+translate italian day37_b_sex_hard_8a174c07:
+
+    # p "I am, it's beautiful and looks very tight."
+    p "Lo sono, è bellissimo e sembra molto stretto."
+
+# game/day37.rpy:1107
+translate italian day37_b_sex_hard_a7f535f3:
+
+    # b "Pfff..."
+    b "Pfff"
+
+# game/day37.rpy:1108
+translate italian day37_b_sex_hard_0f7f9e12:
+
+    # p "Lie down on your stomach for me."
+    p "Sdraiati a pancia in giù per me."
+
+# game/day37.rpy:1110
+translate italian day37_b_sex_hard_2bb3ae92:
+
+    # "{i}[b_name] does so, and you can't help but slap her delightful buttocks before positioning yourself between her legs."
+    "{i}[b_name] lo fa e tu non puoi fare a meno di schiaffeggiare le sue deliziose natiche prima di posizionarti tra le sue gambe."
+
+# game/day37.rpy:1115
+translate italian day37_b_sex_hard_9c8de81d:
+
+    # "{i}Building up the tension, you kiss her ass cheeks first and massage the supple flesh."
+    "{i}Per aumentare la tensione, prima le baci le chiappe e le massaggi la carne morbida."
+
+# game/day37.rpy:1116
+translate italian day37_b_sex_hard_36043de9:
+
+    # "{i}You spread her buttocks and squirt a generous amount of lube on her asshole."
+    "{i}Allargale le natiche e spruzza una generosa quantità di lubrificante sul suo buco del culo."
+
+# game/day37.rpy:1117
+translate italian day37_b_sex_hard_b7f56f83:
+
+    # "{i}[b_name] shivers involuntarily as you spread the cold, greasy liquid between the crack of her ass."
+    "{i}[b_name] rabbrividisce involontariamente mentre le spalmi il liquido freddo e unto tra le fessure del culo."
+
+# game/day37.rpy:1123
+translate italian day37_b_sex_hard_8ce8db45:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of your sister's anus and push ever so slightly."
+    "{i}Senza dire nulla, spingi un dito contro le rughe dell'ano di tua sorella e spingi leggermente."
+
+# game/day37.rpy:1125
+translate italian day37_b_sex_hard_cb06ee8e:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of [b_name]'s anus and push ever so slightly."
+    "{i}Senza dire nulla spingi un dito contro le rughe dell'ano di [b_name] e spingi sempre più leggermente."
+
+# game/day37.rpy:1126
+translate italian day37_b_sex_hard_f91bcfbd:
+
+    # "{i}You're amazed by how easily your finger slips past her sphincter, without as much as a gasp by [b_name]."
+    "{i}Sei stupito dalla facilità con cui il tuo dito passa attraverso il suo sfintere senza che [b_name] abbia nemmeno un sussulto."
+
+# game/day37.rpy:1127
+translate italian day37_b_sex_hard_397cc6f3:
+
+    # "{i}When you finger her tight hole, you get a response from [b_name] as she pushes her face down into the mattress and exhales violently."
+    "{i}Quando le fai un ditalino sul buco stretto, ottieni una risposta da [b_name] che spinge la faccia nel materasso ed espira violentemente."
+
+# game/day37.rpy:1129
+translate italian day37_b_sex_hard_d1d0cc30:
+
+    # p "You're doing great."
+    p "Stai andando alla grande"
+
+# game/day37.rpy:1131
+translate italian day37_b_sex_hard_50fa5a35:
+
+    # p "That wasn't so hard, I think that ass is less tight than you think."
+    p "Non è stato così difficile, credo che quel culo sia meno stretto di quanto pensi."
+
+# game/day37.rpy:1132
+translate italian day37_b_sex_hard_7d589769:
+
+    # "{i}[b_name] doesn't reply, but clutches the bedsheets in one of her fists as you teasingly run another finger over the sensitive skin of her anus."
+    "{i}[b_name] non risponde, ma stringe le lenzuola in un pugno mentre tu fai scorrere un altro dito sulla pelle sensibile del suo ano."
+
+# game/day37.rpy:1133
+translate italian day37_b_sex_hard_3d37397e:
+
+    # "{i}Your second finger joins the other one in her tight warm hole, and you continue to finger her."
+    "{i}Il secondo dito si unisce all'altro nel suo buco stretto e caldo e continua a sditalinarla."
+
+# game/day37.rpy:1135
+translate italian day37_b_sex_hard_0708fa6f:
+
+    # p "Does that feel good, [b_name]?"
+    p "Ti fa sentire bene [b_name]?."
+
+# game/day37.rpy:1137
+translate italian day37_b_sex_hard_5dbd1f58:
+
+    # b "God! I f-feel so f-full!"
+    b "Dio! Mi sento così pieno!."
+
+# game/day37.rpy:1139
+translate italian day37_b_sex_hard_df44d03d:
+
+    # b "No!"
+    b "No!"
+
+# game/day37.rpy:1140
+translate italian day37_b_sex_hard_5075b5bb:
+
+    # p "I don't believe you."
+    p "Non ti credo"
+
+# game/day37.rpy:1141
+translate italian day37_b_sex_hard_9832f724:
+
+    # "{i}Feeling confident she can handle a third finger, you push your ring finger inside her ass and start to penetrate her more thoroughly."
+    "{i}Sentendo che è in grado di gestire un terzo dito, spingi l'anulare nel suo culo e inizi a penetrarla più a fondo."
+
+# game/day37.rpy:1143
+translate italian day37_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day37.rpy:1144
+translate italian day37_b_sex_hard_d6bc5a4d:
+
+    # p "Don't you love that feeling?"
+    p "Non ti piace questa sensazione?."
+
+# game/day37.rpy:1145
+translate italian day37_b_sex_hard_c413b796:
+
+    # p "I think you're ready for more."
+    p "Penso che tu sia pronto per qualcosa di più."
+
+# game/day37.rpy:1146
+translate italian day37_b_sex_hard_93f9f5f8:
+
+    # "{i}You slap her ass again as you pull your fingers out and squirt more lube on her asshole."
+    "{i}Le schiaffeggi di nuovo il culo mentre estrai le dita e le spruzzi altro lubrificante sul buco del culo."
+
+# game/day37.rpy:1153
+translate italian day37_b_sex_hard_694efc41:
+
+    # "{i}With the head of your cock you slap her anus that has already been loosened by the touch of your fingers."
+    "{i}Con la testa del tuo cazzo schiaffeggi il suo ano che è già stato allentato dal tocco delle tue dita."
+
+# game/day37.rpy:1154
+translate italian day37_b_sex_hard_04904619:
+
+    # p "Just relax and it won't hurt."
+    p "Rilassati e non ti farà male."
+
+# game/day37.rpy:1157
+translate italian day37_b_sex_hard_9d87f4f5:
+
+    # p "Trust me."
+    p "Fidati di me"
+
+# game/day37.rpy:1159
+translate italian day37_b_sex_hard_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day37.rpy:1160
+translate italian day37_b_sex_hard_8d83ec4d:
+
+    # b "I trust you."
+    b "Mi fido di te"
+
+# game/day37.rpy:1161
+translate italian day37_b_sex_hard_1e5d4e50:
+
+    # "{i}You part the skin folds of her anus with the head of your cock and push the tip inside."
+    "{i}Dividi le pieghe della pelle del suo ano con la testa del tuo cazzo e spingi la punta all'interno."
+
+# game/day37.rpy:1162
+translate italian day37_b_sex_hard_2323dced:
+
+    # b "Aaah, no! It's too big!"
+    b "Aaah no! È troppo grande!."
+
+# game/day37.rpy:1164
+translate italian day37_b_sex_hard_3fc78470:
+
+    # "{i}You pause for a while, to let [b_name] adjust to the first inches of your manhood inside her tight asshole."
+    "{i}Fai una pausa per lasciare che [b_name] si abitui ai primi centimetri della tua virilità nel suo stretto buco del culo."
+
+# game/day37.rpy:1166
+translate italian day37_b_sex_hard_7b453243:
+
+    # "{i}When you feel some of the initial tension leave your sister's body, you push further."
+    "{i}Quando senti che un po' della tensione iniziale lascia il corpo di tua sorella, spingi ancora di più."
+
+# game/day37.rpy:1168
+translate italian day37_b_sex_hard_0c547f94:
+
+    # "{i}When you feel some of the initial tension leave your girl's body, you push further."
+    "{i}Quando senti che un po' della tensione iniziale lascia il corpo della tua ragazza, spingi di più."
+
+# game/day37.rpy:1169
+translate italian day37_b_sex_hard_ef60ef42:
+
+    # "{i}[b_name] bites her lower lip as the muscles of her canal massage your cock, you can't believe how tight and warm she is."
+    "{i}[b_name] si morde il labbro inferiore mentre i muscoli del suo canale massaggiano il tuo cazzo, non puoi credere a quanto sia stretta e calda."
+
+# game/day37.rpy:1171
+translate italian day37_b_sex_hard_c4f0d171:
+
+    # "{i}Two-thirds of your cock have disappeared inside her ass and [b_name] is writhing on the bed, trying to adjust to your girth."
+    "{i}Due terzi del tuo cazzo sono scomparsi nel suo culo e [b_name] si sta contorcendo sul letto cercando di adattarsi alla tua circonferenza."
+
+# game/day37.rpy:1172
+translate italian day37_b_sex_hard_f7eacb48:
+
+    # b "I can't!"
+    b "I can't!"
+
+# game/day37.rpy:1173
+translate italian day37_b_sex_hard_b81a6a64:
+
+    # p "Yes you can."
+    p "Si può."
+
+# game/day37.rpy:1174
+translate italian day37_b_sex_hard_6e6dbdaf:
+
+    # b "No I..."
+    b "No I"
+
+# game/day37.rpy:1175
+translate italian day37_b_sex_hard_a9ca9f9a:
+
+    # b "Oh..."
+    b "Oh..."
+
+# game/day37.rpy:1182
+translate italian day37_b_sex_hard_b1e67b33:
+
+    # "{i}Her writhing has stopped as you move your hips and fuck her asshole properly for the first time."
+    "{i}Il suo contorcersi si è fermato mentre tu muovi i fianchi e le scopi il buco del culo per la prima volta."
+
+# game/day37.rpy:1183
+translate italian day37_b_sex_hard_f940071f:
+
+    # b "What the fuck?!"
+    b "Ma che cazzo?!"
+
+# game/day37.rpy:1184
+translate italian day37_b_sex_hard_f992044a:
+
+    # b "Aah!"
+    b "Aah!"
+
+# game/day37.rpy:1186
+translate italian day37_b_sex_hard_50d2b002:
+
+    # "{i}You go slowly on her, and the pain-tinged cries of your sister slowly evolve into genuine expressions of pleasure."
+    "{i}Vai lentamente su di lei e le grida di dolore di tua sorella si trasformano lentamente in autentiche espressioni di piacere."
+
+# game/day37.rpy:1188
+translate italian day37_b_sex_hard_497bec08:
+
+    # "{i}You go slowly on her, and the agonized cries of [b_name] slowly evolve into genuine expressions of pleasure."
+    "{i}Vai lentamente su di lei e le grida agonizzanti di [b_name] si trasformano lentamente in genuine espressioni di piacere."
+
+# game/day37.rpy:1190
+translate italian day37_b_sex_hard_52a996e2:
+
+    # "{i}Every thrust is a balancing act of pain and pleasure, but when you see the look on [b_name]'s face, you know she has accepted you fully."
+    "{i}Ogni spinta è un gioco di equilibri tra dolore e piacere, ma quando vedi l'espressione sul viso di [b_name] sai che ti ha accettato completamente."
+
+# game/day37.rpy:1191
+translate italian day37_b_sex_hard_a306de17:
+
+    # p "Are you enjoying it?"
+    p "Ti sta piacendo?"
+
+# game/day37.rpy:1195
+translate italian day37_b_sex_hard_3fd3887e:
+
+    # b "Y-yes..."
+    b "S-sì"
+
+# game/day37.rpy:1197
+translate italian day37_b_sex_hard_8b8fd2fa:
+
+    # b "I'm your anal s-slut... R-remember..."
+    b "Sono la tua s-schiava anale, ricordati."
+
+# game/day37.rpy:1199
+translate italian day37_b_sex_hard_12fd92f0:
+
+    # b "N-no..."
+    b "N-no"
+
+# game/day37.rpy:1200
+translate italian day37_b_sex_hard_80fe2e3a:
+
+    # b "F-fuck!!!"
+    b "Cazzo!!!"
+
+# game/day37.rpy:1201
+translate italian day37_b_sex_hard_7d1c486e:
+
+    # b "Yes!"
+    b "Sì!"
+
+# game/day37.rpy:1208
+translate italian day37_b_sex_hard_bc4d5c1b:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your sister's vagina."
+    "{i}Improvvisamente ti ricordi del vibratore che è ancora dentro la vagina di tua sorella."
+
+# game/day37.rpy:1210
+translate italian day37_b_sex_hard_017b1394:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your girl's vagina."
+    "{i}Improvvisamente ti ricordi del vibratore che è ancora dentro la vagina della tua ragazza."
+
+# game/day37.rpy:1211
+translate italian day37_b_sex_hard_d87dd57d:
+
+    # "{i}After making a grab for the remote you dial the vibrations of the toy up ever so slightly and continue fucking her ass."
+    "{i}Dopo aver afferrato il telecomando, alzate leggermente le vibrazioni del giocattolo e continuate a scoparle il culo."
+
+# game/day37.rpy:1212
+translate italian day37_b_sex_hard_2745ee7b:
+
+    # b "Oh god!"
+    b "Oh Dio!"
+
+# game/day37.rpy:1213
+translate italian day37_b_sex_hard_c3ce4048:
+
+    # b "F-fuck!"
+    b "Cazzo!"
+
+# game/day37.rpy:1214
+translate italian day37_b_sex_hard_9e16afc3:
+
+    # b "K-keep g-going!"
+    b "Continuate ad andare avanti!."
+
+# game/day37.rpy:1220
+translate italian day37_b_sex_hard_ac18dda7:
+
+    # "{i}[b_name] is drooling on the bedsheets, and her eyes are rolled backward. The only sounds she can now manage are animalistic grunts as your cock plows her asshole."
+    "{i}[b_name] sta sbavando sulle lenzuola e i suoi occhi sono rivolti all'indietro Gli unici suoni che riesce a emettere sono grugniti animaleschi mentre il tuo cazzo le stantuffa il buco del culo."
+
+# game/day37.rpy:1227
+translate italian day37_b_sex_hard_8bfedfcd:
+
+    # "{i}Your sister pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}Tua sorella si spinge verso l'alto permettendo al tuo cazzo di spingere ancora più a fondo dentro di lei e comincia a tremare a denti stretti."
+
+# game/day37.rpy:1229
+translate italian day37_b_sex_hard_39c5c055:
+
+    # "{i}[b_name] pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}[b_name] si spinge verso l'alto permettendo al tuo cazzo di spingere ancora più a fondo dentro di lei e comincia a tremare a denti stretti."
+
+# game/day37.rpy:1236
+translate italian day37_b_sex_hard_c78c3a55:
+
+    # "{i}[b_name] violently squirts as she wails in anguished pleasure."
+    "{i}[b_name] schizza violentemente mentre emette gemiti di angoscioso piacere."
+
+# game/day37.rpy:1237
+translate italian day37_b_sex_hard_4af07fd9:
+
+    # b "M-motherf-ffuckkkk..."
+    b "M-motherf-ffuckkk"
+
+# game/day37.rpy:1239
+translate italian day37_b_sex_hard_636b69d0:
+
+    # "{i}The violence of her motions makes it hard to keep fucking her ass, but you manage to move your cock inside her tunnel, prompting another river of squirt from her cunt."
+    "{i}La violenza dei suoi movimenti rende difficile continuare a scoparle il culo, ma riesci a muovere il cazzo all'interno del suo tunnel, provocando un altro fiume di schizzi dalla sua fica."
+
+# game/day37.rpy:1240
+translate italian day37_b_sex_hard_524ce1b7:
+
+    # "{i}[b_name] collapses to the bed, quivering and lying in a pool of her own moisture, allowing you to achieve your climax."
+    "{i}[b_name] crolla sul letto tremando e giace in una pozza della sua stessa umidità, permettendoti di raggiungere il tuo climax."
+
+# game/day37.rpy:1243
+translate italian day37_b_sex_hard_7ca42fd7:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your sister's asshole."
+    "{i}Continui a scoparle il culo assaporando la sensazione di controllo e la tensione del buco del culo di tua sorella."
+
+# game/day37.rpy:1245
+translate italian day37_b_sex_hard_3d62217c:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your girl's asshole."
+    "{i}Continua a scoparle il culo assaporando la sensazione di controllo e la tensione del buco del culo della tua ragazza."
+
+# game/day37.rpy:1246
+translate italian day37_b_sex_hard_a5470a99:
+
+    # "{i}You feel your climax approaching and are ready to treat [b_name] to a generous helping of your seed."
+    "{i}Senti che il tuo climax si avvicina e sei pronto a offrire a [b_name] una generosa dose del tuo seme."
+
+# game/day37.rpy:1257
+translate italian day37_b_sex_hard_8a058469:
+
+    # "{i}It's only fitting that properly taking [b_name]'s anal virginity ends with an ass full of cum, so you stay rooted inside of her."
+    "{i}E' giusto che la verginità anale di [b_name] finisca con un culo pieno di sborra, in modo che tu rimanga radicato dentro di lei."
+
+# game/day37.rpy:1258
+translate italian day37_b_sex_hard_0099c60e:
+
+    # "{i}You treat her asshole with a massive amount of cum, shot deeply inside her tunnel."
+    "{i}Trattate il suo buco del culo con una massiccia quantità di sperma sparato in profondità nel suo tunnel."
+
+# game/day37.rpy:1265
+translate italian day37_b_sex_hard_bd2027d4:
+
+    # "{i}After you pull out, it takes a long while for your seed to trickle out of her winking asshole."
+    "{i}Dopo che ti sei tirato fuori, ci vuole un bel po' di tempo prima che il tuo seme esca dal suo buco del culo ammiccante."
+
+# game/day37.rpy:1267
+translate italian day37_b_sex_hard_08e0080c:
+
+    # "{i}[b_name] just moans, squirming on her squirt-soaked bedsheets."
+    "{i}[b_name] geme contorcendosi sulle lenzuola intrise di sperma."
+
+# game/day37.rpy:1269
+translate italian day37_b_sex_hard_97b7da56:
+
+    # "{i}[b_name] just moans, squirming on the messed-up bedsheets."
+    "{i}[b_name] geme solo contorcendosi sulle lenzuola scompigliate."
+
+# game/day37.rpy:1285
+translate italian day37_b_sex_hard_89383974:
+
+    # p "Come here baby, taste that ass of yours."
+    p "Vieni qui, piccola, assaggia il tuo culo."
+
+# game/day37.rpy:1287
+translate italian day37_b_sex_hard_5d6ffb02:
+
+    # "{i}You pull [b_name] upright and stuff your cock inside her open mouth."
+    "{i}Tiri [b_name] in piedi e le infili il cazzo nella bocca aperta."
+
+# game/day37.rpy:1289
+translate italian day37_b_sex_hard_34de7a30:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately, her cunt still dripping with beads of squirt."
+    "{i}Non protesta, ma inizia a succhiare il tuo cazzo immediatamente, con la fica che ancora gocciola di sperma."
+
+# game/day37.rpy:1291
+translate italian day37_b_sex_hard_0836ab83:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately."
+    "{i}Non protesta, ma inizia subito a succhiare il tuo cazzo."
+
+# game/day37.rpy:1292
+translate italian day37_b_sex_hard_dab268a0:
+
+    # p "That's right!"
+    p "Esatto!"
+
+# game/day37.rpy:1295
+translate italian day37_b_sex_hard_2e311013:
+
+    # "{i}As [b_name] licks your shaft clean, you unload a massive amount of cum in her mouth."
+    "{i}Mentre [b_name] lecca la tua asta, le scarichi in bocca un'enorme quantità di sperma."
+
+# game/day37.rpy:1299
+translate italian day37_b_sex_hard_20f7c119:
+
+    # "{i}Some of it spills along the corners of her mouth, but [b_name] is quick to swallow all of your ejaculate."
+    "{i}Un po' si sparge agli angoli della sua bocca, ma [b_name] è veloce a ingoiare tutto il tuo eiaculato."
+
+# game/day37.rpy:1315
+translate italian day37_b_sex_hard_a9fbe046:
+
+    # "{i}After your cock exits her asshole, you flip [b_name] over and blast her body with a wealth of your seed."
+    "{i}Dopo che il tuo cazzo è uscito dal suo buco del culo, capovolgi [b_name] e fai esplodere il suo corpo con una grande quantità del tuo seme."
+
+# game/day37.rpy:1317
+translate italian day37_b_sex_hard_7f3f94f7:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on her squirt-soaked bedsheets."
+    "{i}[b_name] geme muovendo il culo avanti e indietro sulle lenzuola intrise di squirt."
+
+# game/day37.rpy:1319
+translate italian day37_b_sex_hard_5c8728c4:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on the messed-up bedsheets."
+    "{i}[b_name] geme muovendo il culo avanti e indietro sulle lenzuola scompigliate."
+
+# game/day37.rpy:1331
+translate italian day37_b_sex_hard_74e7ec77:
+
+    # "{i}You lay next to your sister, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ti sdrai accanto a tua sorella ignorando le lenzuola bagnate e mettendole una mano possessiva sul ventre che lei non sfiora."
+
+# game/day37.rpy:1333
+translate italian day37_b_sex_hard_361ee879:
+
+    # "{i}You lay next to her, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ti sdrai accanto a lei ignorando le lenzuola bagnate e mettendole una mano possessiva sul ventre che lei non sfiora."
+
+# game/day37.rpy:1337
+translate italian day37_b_sex_hard_d1a42c18:
+
+    # "{i}The vibrator is still humming softly inside her cunt and you turn it off to allow [b_name] some respite."
+    "{i}Il vibratore ronza ancora dolcemente nella sua fica e tu lo spegni per dare a [b_name] un po' di tregua."
+
+# game/day37.rpy:1340
+translate italian day37_b_sex_hard_9ce8a0ac:
+
+    # "{i}You lay next to your sister, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ti sdrai accanto a tua sorella mettendole una mano possessiva sulla pancia, che lei non allontana."
+
+# game/day37.rpy:1342
+translate italian day37_b_sex_hard_81fd5ead:
+
+    # "{i}You lay next to her, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Ti sdrai accanto a lei mettendole una mano possessiva sul ventre che lei non sfiora."
+
+# game/day37.rpy:1343
+translate italian day37_b_sex_hard_76643805:
+
+    # p "I own you completely now."
+    p "Ora ti possiedo completamente"
+
+# game/day37.rpy:1344
+translate italian day37_b_sex_hard_39ce7b87:
+
+    # p "You're mine."
+    p "Sei mio"
+
+# game/day37.rpy:1362
+translate italian day37_r_b_sex_hard_59d862c9:
+
+    # r "Oh!"
+    r "Oh!"
+
+# game/day37.rpy:1363
+translate italian day37_r_b_sex_hard_4c61d029:
+
+    # p "Were you already getting started?"
+    p "Stavi già iniziando?."
+
+# game/day37.rpy:1372
+translate italian day37_r_b_sex_hard_cdec02ef:
+
+    # r "I kinda was..."
+    r "In un certo senso lo ero"
+
+# game/day37.rpy:1373
+translate italian day37_r_b_sex_hard_4332053d:
+
+    # r "Whenever I think of you, I just can't help myself."
+    r "Ogni volta che penso a te non riesco a trattenermi."
+
+# game/day37.rpy:1374
+translate italian day37_r_b_sex_hard_df03834d:
+
+    # p "Don't stop on my account, I think it looks hot."
+    p "Non fermarti sul mio conto, penso che sia sexy."
+
+# game/day37.rpy:1375
+translate italian day37_r_b_sex_hard_078b9ba5:
+
+    # r "You do it better."
+    r "Tu lo fai meglio"
+
+# game/day37.rpy:1381
+translate italian day37_r_b_sex_hard_51a557a7:
+
+    # "{i}[r_name] allows your hand to slip between her legs and looks at you lustfully."
+    "{i}[r_name] lascia che la tua mano si infili tra le sue gambe e ti guarda con desiderio."
+
+# game/day37.rpy:1382
+translate italian day37_r_b_sex_hard_ca50f944:
+
+    # "{i}You finger her slowly and just intensely enough that you're still able to talk to her."
+    "{i}Le fai un ditalino lento e abbastanza intenso da riuscire a parlarle."
+
+# game/day37.rpy:1383
+translate italian day37_r_b_sex_hard_070a9656:
+
+    # p "I have a surprise for you."
+    p "Ho una sorpresa per te"
+
+# game/day37.rpy:1384
+translate italian day37_r_b_sex_hard_e29871a4:
+
+    # r "I-Is that so?"
+    r "E' così?"
+
+# game/day37.rpy:1385
+translate italian day37_r_b_sex_hard_3cf8fb14:
+
+    # p "I've invited [b_name]..."
+    p "Ho invitato [b_name]."
+
+# game/day37.rpy:1387
+translate italian day37_r_b_sex_hard_d40eb808:
+
+    # r "Oh..."
+    r "Oh"
+
+# game/day37.rpy:1388
+translate italian day37_r_b_sex_hard_4b88c3d8:
+
+    # p "Too soon?"
+    p "Troppo presto?"
+
+# game/day37.rpy:1389
+translate italian day37_r_b_sex_hard_7c7ccbb8:
+
+    # p "I could send her away."
+    p "Potrei mandarla via"
+
+# game/day37.rpy:1390
+translate italian day37_r_b_sex_hard_ed912e80:
+
+    # r "No..."
+    r "No"
+
+# game/day37.rpy:1392
+translate italian day37_r_b_sex_hard_18c2bff2:
+
+    # r "No, I want her here."
+    r "No, la voglio qui"
+
+# game/day37.rpy:1393
+translate italian day37_r_b_sex_hard_71c22a15:
+
+    # p "There's something you should know."
+    p "C'è qualcosa che dovresti sapere."
+
+# game/day37.rpy:1394
+translate italian day37_r_b_sex_hard_4b40412a:
+
+    # p "In the bedroom, [b_name] and I act a little differently."
+    p "In camera da letto io e [b_name] ci comportiamo in modo un po' diverso."
+
+# game/day37.rpy:1395
+translate italian day37_r_b_sex_hard_dafbdb95:
+
+    # r "What do you mean?"
+    r "Cosa vuoi dire?"
+
+# game/day37.rpy:1396
+translate italian day37_r_b_sex_hard_11496698:
+
+    # p "She likes to do what I tell her."
+    p "Le piace fare quello che le dico."
+
+# game/day37.rpy:1398
+translate italian day37_r_b_sex_hard_fc37eded:
+
+    # r "I do too."
+    r "Anch'io"
+
+# game/day37.rpy:1399
+translate italian day37_r_b_sex_hard_817e2c44:
+
+    # p "This is not the same."
+    p "Questo non è lo stesso"
+
+# game/day37.rpy:1400
+translate italian day37_r_b_sex_hard_d61ed0b8:
+
+    # p "[b_name] is my submissive."
+    p "[b_name] è il mio sottomesso."
+
+# game/day37.rpy:1402
+translate italian day37_r_b_sex_hard_3ec524e1:
+
+    # r "[b_name]? Really?"
+    r "[b_name]? Davvero?"
+
+# game/day37.rpy:1403
+translate italian day37_r_b_sex_hard_df34f87f:
+
+    # r "So I can make her do whatever I want to?"
+    r "Quindi posso farle fare quello che voglio?."
+
+# game/day37.rpy:1404
+translate italian day37_r_b_sex_hard_1cdb9e0d:
+
+    # p "If I allow it, yes."
+    p "Se lo permetto sì"
+
+# game/day37.rpy:1406
+translate italian day37_r_b_sex_hard_768a8ed3:
+
+    # r "Mmmm, making my older sister do what I want... Interesting..."
+    r "Mmmm, far fare alla mia sorella maggiore quello che voglio è interessante."
+
+# game/day37.rpy:1408
+translate italian day37_r_b_sex_hard_300ebf6f:
+
+    # r "Mmmm, making my older friend do what I want... Interesting..."
+    r "Mmmm, far fare alla mia amica più grande quello che voglio è interessante."
+
+# game/day37.rpy:1409
+translate italian day37_r_b_sex_hard_ca08e60c:
+
+    # p "{i}(Didn't expect her to accept it so easily...)"
+    p "{i}(Non mi aspettavo che lo accettasse così facilmente)."
+
+# game/day37.rpy:1411
+translate italian day37_r_b_sex_hard_2e86761d:
+
+    # "{i}Satisfied, you focus your attention on [r_name]'s pussy again, her clit in particular."
+    "{i}Soddisfatto, concentra la tua attenzione sulla figa di [r_name] e in particolare sul suo clitoride."
+
+# game/day37.rpy:1412
+translate italian day37_r_b_sex_hard_d00807f1:
+
+    # r "F-fuck!"
+    r "Cazzo!"
+
+# game/day37.rpy:1413
+translate italian day37_r_b_sex_hard_addd5af0:
+
+    # r "That's the spot!"
+    r "Questo è il posto!"
+
+# game/day37.rpy:1417
+translate italian day37_r_b_sex_hard_c3383809:
+
+    # "{i}You're interrupted by a knock on [r_name]'s door."
+    "{i}Si viene interrotti da un bussare alla porta di [r_name]."
+
+# game/day37.rpy:1418
+translate italian day37_r_b_sex_hard_3ab75bb7:
+
+    # r "Who is it?"
+    r "Chi è?"
+
+# game/day37.rpy:1419
+translate italian day37_r_b_sex_hard_ecb9a588:
+
+    # b "Me."
+    b "Io"
+
+# game/day37.rpy:1420
+translate italian day37_r_b_sex_hard_91b79bf5:
+
+    # r "Come in."
+    r "Come in"
+
+# game/day37.rpy:1422
+translate italian day37_r_b_sex_hard_59152d4e:
+
+    # r "We got started without you..."
+    r "Abbiamo iniziato senza di te"
+
+# game/day37.rpy:1423
+translate italian day37_r_b_sex_hard_e3dad245:
+
+    # p "{i}(Damn [r_name]!)"
+    p "{i}(Maledetto [r_name]!)"
+
+# game/day37.rpy:1424
+translate italian day37_r_b_sex_hard_c3c6b9c4:
+
+    # p "Why don't you undress and come over here."
+    p "Perché non ti spogli e vieni qui?."
+
+# game/day37.rpy:1430
+translate italian day37_r_b_sex_hard_e5a9c664:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her youngest sister."
+    "{i}Nonostante l'espressione coraggiosa, i movimenti di [b_name] sono un po' esitanti, probabilmente perché non si è ancora abituata alla vista di te che sditalini la sorella minore."
+
+# game/day37.rpy:1432
+translate italian day37_r_b_sex_hard_aa5b107d:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her younger friend."
+    "{i}Nonostante l'espressione coraggiosa, i movimenti di [b_name] sono un po' esitanti, probabilmente perché non si è ancora abituata alla vista di te che sditalini la sua amica più giovane."
+
+# game/day37.rpy:1437
+translate italian day37_r_b_sex_hard_c72aedeb:
+
+    # p "[r_name] would really like to cum."
+    p "[r_name] vorrebbe davvero sborrare."
+
+# game/day37.rpy:1438
+translate italian day37_r_b_sex_hard_92a6f668:
+
+    # p "So I've made her pussy all wet for you."
+    p "Così le ho fatto bagnare la figa per te."
+
+# game/day37.rpy:1439
+translate italian day37_r_b_sex_hard_1eb0d7d3:
+
+    # p "And now it's waiting for your tongue."
+    p "E ora sta aspettando la tua lingua."
+
+# game/day37.rpy:1446
+translate italian day37_r_b_sex_hard_9196c426:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger sister only has eyes for you."
+    "{i}[r_name] non vede l'abbaglio che [b_name] le lancia perché la sua sorella minore ha occhi solo per lei."
+
+# game/day37.rpy:1447
+translate italian day37_r_b_sex_hard_055a8d7f:
+
+    # "{i}[b_name] lowers her head between her sister's legs and probes the girl's pussy with her tongue."
+    "{i}[b_name] abbassa la testa tra le gambe della sorella e sonda la figa della ragazza con la lingua."
+
+# game/day37.rpy:1449
+translate italian day37_r_b_sex_hard_89df8631:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger friend only has eyes for you."
+    "{i}[r_name] non vede l'abbaglio che [b_name] le lancia perché il suo amico più giovane ha occhi solo per lei."
+
+# game/day37.rpy:1450
+translate italian day37_r_b_sex_hard_b53fab4a:
+
+    # "{i}[b_name] lowers her head between the girl's legs and probes her friend's pussy with her tongue."
+    "{i}[b_name] abbassa la testa tra le gambe della ragazza e sonda con la lingua la figa dell'amica."
+
+# game/day37.rpy:1452
+translate italian day37_r_b_sex_hard_fed25d20:
+
+    # p "Does that feel good, [r_name]?"
+    p "Ti fa sentire bene [r_name]?."
+
+# game/day37.rpy:1453
+translate italian day37_r_b_sex_hard_e0c642ab:
+
+    # r "Oh y-yes!"
+    r "Oh sì!"
+
+# game/day37.rpy:1454
+translate italian day37_r_b_sex_hard_3eed19c5:
+
+    # r "K-keep going, [b_name]."
+    r "K continua ad andare [b_name]"
+
+# game/day37.rpy:1456
+translate italian day37_r_b_sex_hard_d4281d9c:
+
+    # "{i}Your tongues entangle for a passionate kiss, as [b_name] eats [r_name]'s pussy out."
+    "{i}Le vostre lingue si intrecciano per un bacio appassionato mentre [b_name] mangia la figa di [r_name]."
+
+# game/day37.rpy:1458
+translate italian day37_r_b_sex_hard_e43a10d0:
+
+    # "{i}The sight of your older sister's ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}La vista del culo in aria di tua sorella maggiore mentre fa il piacere a [r_name] ti fa diventare duro come una roccia"
+
+# game/day37.rpy:1460
+translate italian day37_r_b_sex_hard_22a1143d:
+
+    # "{i}The sight of [b_name]'s ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}La vista del culo di [b_name] in aria mentre fa il piacere a [r_name] ti fa diventare duro come una roccia."
+
+# game/day37.rpy:1462
+translate italian day37_r_b_sex_hard_0cb02496:
+
+    # p "I want to borrow her."
+    p "Voglio prenderla in prestito"
+
+# game/day37.rpy:1463
+translate italian day37_r_b_sex_hard_0b5fe5c3:
+
+    # r "M-must you?"
+    r "Devi?"
+
+# game/day37.rpy:1464
+translate italian day37_r_b_sex_hard_59638b31:
+
+    # p "Only for a short while."
+    p "Solo per poco tempo"
+
+# game/day37.rpy:1465
+translate italian day37_r_b_sex_hard_ee3c825b:
+
+    # r "O-okay..."
+    r "O-okay"
+
+# game/day37.rpy:1466
+translate italian day37_r_b_sex_hard_04f9a4bd:
+
+    # p "[b_name], come over here and suck my cock."
+    p "[b_name] vieni qui e succhiami il cazzo."
+
+# game/day37.rpy:1472
+translate italian day37_r_b_sex_hard_5a706a46:
+
+    # "{i}The girl emerges from between [r_name]'s legs and eyes your erection."
+    "{i}La ragazza emerge da tra le gambe di [r_name] e guarda la tua erezione."
+
+# game/day37.rpy:1473
+translate italian day37_r_b_sex_hard_1072deb7:
+
+    # "{i}She laps up the precum that's covering the tip of your cock before engulfing it with her warm mouth."
+    "{i}Lei lambisce il precum che ricopre la punta del tuo cazzo prima di inghiottirlo con la sua bocca calda."
+
+# game/day37.rpy:1476
+translate italian day37_r_b_sex_hard_1a123dac:
+
+    # "{i}You turn your attention to your youngest sister's petite breasts and play with her soft nipples."
+    "{i}Rivolgi la tua attenzione ai piccoli seni della tua sorella minore e gioca con i suoi morbidi capezzoli."
+
+# game/day37.rpy:1478
+translate italian day37_r_b_sex_hard_40f5a25d:
+
+    # "{i}You turn your attention to your youngest friend's petite breasts and play with her soft nipples."
+    "{i}Rivolgi la tua attenzione ai piccoli seni della tua amica più giovane e gioca con i suoi morbidi capezzoli."
+
+# game/day37.rpy:1479
+translate italian day37_r_b_sex_hard_4289a6e1:
+
+    # "{i}With slight thrusts of your hips, you tease [b_name] and force her to take your dick even further into her mouth."
+    "{i}Con leggere spinte dei fianchi stuzzichi [b_name] e la costringi a prendere il tuo cazzo ancora di più in bocca."
+
+# game/day37.rpy:1481
+translate italian day37_r_b_sex_hard_d3b998b3:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older sister makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] chiaramente non si preoccupa dei conati di vomito che la sorella maggiore emette quando prende in gola tutta la lunghezza della tua asta."
+
+# game/day37.rpy:1483
+translate italian day37_r_b_sex_hard_9a7bdf0f:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older friend makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] chiaramente non si preoccupa dei conati di vomito che la sua amica più grande emette quando prende in gola tutta la lunghezza della tua asta."
+
+# game/day37.rpy:1485
+translate italian day37_r_b_sex_hard_9a81a38e:
+
+    # r "This is so hot, [p_name]!"
+    r "Questo è così sexy [p_name]!."
+
+# game/day37.rpy:1486
+translate italian day37_r_b_sex_hard_6887497b:
+
+    # r "I want you to fuck me while [b_name] watches."
+    r "Voglio che tu mi scopi mentre [b_name] guarda."
+
+# game/day37.rpy:1487
+translate italian day37_r_b_sex_hard_a2f04ad3:
+
+    # p "You want to make her jealous."
+    p "Vuoi farla ingelosire."
+
+# game/day37.rpy:1488
+translate italian day37_r_b_sex_hard_635c817e:
+
+    # r "Only a little."
+    r "Solo un po'"
+
+# game/day37.rpy:1489
+translate italian day37_r_b_sex_hard_421de7b3:
+
+    # p "That's enough, [b_name]."
+    p "Basta così [b_name]."
+
+# game/day37.rpy:1496
+translate italian day37_r_b_sex_hard_d3f0e18d:
+
+    # "{i}[r_name] lets out a giddy laugh as you turn her on her side and spread her legs."
+    "{i}[r_name] si lascia andare a una risata vertiginosa mentre la girate su un fianco e le aprite le gambe."
+
+# game/day37.rpy:1502
+translate italian day37_r_b_sex_hard_48f6d9e3:
+
+    # "{i}You make sure [b_name] has a good view of her sister's cunt as you push your cock inside her."
+    "{i}Assicurati che [b_name] abbia una buona visione della fica di sua sorella mentre spingi il tuo cazzo dentro di lei."
+
+# game/day37.rpy:1503
+translate italian day37_r_b_sex_hard_f4fff822:
+
+    # "{i}Thanks to her older sister's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Grazie al cunnilingus della sorella maggiore [r_name] è bagnata fradicia e il tuo cazzo scivola dentro di lei con facilità."
+
+# game/day37.rpy:1505
+translate italian day37_r_b_sex_hard_02bc7901:
+
+    # "{i}You make sure [b_name] has a good view of her friend's cunt as you push your cock inside her."
+    "{i}Assicurati che [b_name] abbia una buona visione della fica della sua amica mentre spingi il tuo cazzo dentro di lei."
+
+# game/day37.rpy:1506
+translate italian day37_r_b_sex_hard_989e44bf:
+
+    # "{i}Thanks to her older friend's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Grazie al cunnilingus della sua amica più grande [r_name] è bagnata fradicia e il tuo cazzo scivola dentro di lei con facilità."
+
+# game/day37.rpy:1511
+translate italian day37_r_b_sex_hard_bcb391ab:
+
+    # "{i}Hugging her you fuck her pussy hard, taking [r_name]'s breath away as she moans and exhales at the same time."
+    "{i}Abbracciandola le scopi la figa con forza togliendo il fiato a [r_name] che geme ed espira allo stesso tempo."
+
+# game/day37.rpy:1512
+translate italian day37_r_b_sex_hard_6a984c9c:
+
+    # r "Oooh [p_name]!"
+    r "Oooh [p_name]!"
+
+# game/day37.rpy:1513
+translate italian day37_r_b_sex_hard_55a194e2:
+
+    # r "Harder!"
+    r "Più forte!"
+
+# game/day37.rpy:1515
+translate italian day37_r_b_sex_hard_1d6407b8:
+
+    # "{i}Fucking your youngest sister requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Scopare la tua sorella più giovane richiede tutta la tua attenzione, ma quando riesci a dare un'occhiata a [b_name] vedi che ti fissa eccitata."
+
+# game/day37.rpy:1517
+translate italian day37_r_b_sex_hard_4b12575d:
+
+    # "{i}Fucking your youngest friend requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Scopare la tua amica più giovane richiede tutta la tua attenzione, ma quando riesci a dare un'occhiata a [b_name] vedi che lei ti fissa eccitata."
+
+# game/day37.rpy:1519
+translate italian day37_r_b_sex_hard_78ec61d3:
+
+    # "{i}[r_name] has closed her eyes in coital bliss as you keep hitting her moist cunt with your hard cock."
+    "{i}[r_name] ha chiuso gli occhi in preda alla beatitudine coitale mentre tu continui a colpire la sua fica umida con il tuo cazzo duro."
+
+# game/day37.rpy:1520
+translate italian day37_r_b_sex_hard_5961bf0b:
+
+    # r "I love you!"
+    r "Ti amo!"
+
+# game/day37.rpy:1521
+translate italian day37_r_b_sex_hard_2ca7a862:
+
+    # r "Fuck me harder! Please!"
+    r "Scopami più forte! Per favore!"
+
+# game/day37.rpy:1530
+translate italian day37_r_b_sex_hard_c5299c91:
+
+    # "{i}Your sister lets herself be flipped over willingly, and you pull her ass close towards you, your dick slipping past her labia with ease."
+    "{i}Tua sorella si lascia capovolgere di buon grado e tu le avvicini il sedere verso di te, facendo scivolare il tuo cazzo oltre le sue labbra con facilità."
+
+# game/day37.rpy:1532
+translate italian day37_r_b_sex_hard_30441d0e:
+
+    # "{i}Your girlfriend lets herself be flipped over willingly, and you pull her ass, your dick slipping past her labia with ease."
+    "{i}La tua ragazza si lascia girare volontariamente e tu le tiri il culo con il tuo cazzo che scivola facilmente oltre le sue labbra."
+
+# game/day37.rpy:1533
+translate italian day37_r_b_sex_hard_bc7191e6:
+
+    # "{i}Grabbing her sides, you're able to penetrate [r_name] more deeply and fuck her even more thoroughly than before."
+    "{i}Afferrandole i fianchi sei in grado di penetrare [r_name] più profondamente e di scoparla ancora più a fondo di prima."
+
+# game/day37.rpy:1534
+translate italian day37_r_b_sex_hard_dedc3b5f:
+
+    # p "Get over here, [b_name]."
+    p "Vieni qui [b_name]"
+
+# game/day37.rpy:1542
+translate italian day37_r_b_sex_hard_b17cc246:
+
+    # p "Taste your sister."
+    p "Assaggia tua sorella"
+
+# game/day37.rpy:1544
+translate italian day37_r_b_sex_hard_0112f2be:
+
+    # p "Taste your friend."
+    p "Assaggia il tuo amico"
+
+# game/day37.rpy:1545
+translate italian day37_r_b_sex_hard_a2d73374:
+
+    # "{i}You stuff [b_name]'s mouth with your wet cock as you pull out of [r_name] temporarily."
+    "{i}Riempi la bocca di [b_name] con il tuo cazzo bagnato mentre tiri fuori [r_name] temporaneamente."
+
+# game/day37.rpy:1547
+translate italian day37_r_b_sex_hard_264d421f:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her sister's salty juices."
+    "{i}Devotamente [b_name] pulisce il tuo cazzo con la bocca, assicurandosi di ingoiare tutti i succhi salati di sua sorella."
+
+# game/day37.rpy:1549
+translate italian day37_r_b_sex_hard_389a301e:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her friend's salty juices."
+    "{i}Devotamente [b_name] pulisce il tuo cazzo con la bocca, assicurandosi di ingoiare tutti i succhi salati della sua amica."
+
+# game/day37.rpy:1550
+translate italian day37_r_b_sex_hard_eaa9ca80:
+
+    # p "Good girl."
+    p "Brava ragazza"
+
+# game/day37.rpy:1557
+translate italian day37_r_b_sex_hard_74bfc0f9:
+
+    # "{i}[r_name] squeals in delight when you reinsert your cock, now moist with [b_name]'s saliva and fuck her hard again."
+    "{i}[r_name] stride di gioia quando reinserisci il tuo cazzo ormai umido della saliva di [b_name] e la scopi di nuovo con forza."
+
+# game/day37.rpy:1558
+translate italian day37_r_b_sex_hard_abefe131:
+
+    # r "Keep going, [p_name]!"
+    r "Continua così [p_name]!."
+
+# game/day37.rpy:1559
+translate italian day37_r_b_sex_hard_e22604e5:
+
+    # "{i}You'd like to oblige her, but it's becoming increasingly hard to stave off the moment of climax."
+    "{i}Vorresti accontentarla, ma diventa sempre più difficile trattenere il momento dell'orgasmo."
+
+# game/day37.rpy:1560
+translate italian day37_r_b_sex_hard_dd697dae:
+
+    # p "G-get ready, [b_name]."
+    p "G-get ready [b_name]"
+
+# game/day37.rpy:1561
+translate italian day37_r_b_sex_hard_662b4997:
+
+    # p "D-don't waste a drop."
+    p "Non sprecare nemmeno una goccia."
+
+# game/day37.rpy:1572
+translate italian day37_r_b_sex_hard_740a03ae:
+
+    # "{i}[b_name] is lying ready underneath her sister when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] è pronto sotto la sorella quando ricopri il tratto vaginale di [r_name] con il seme caldo."
+
+# game/day37.rpy:1574
+translate italian day37_r_b_sex_hard_24b01484:
+
+    # "{i}[b_name] is lying ready underneath her friend when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] è pronto sotto la sua amica quando tu ricopri il tratto vaginale di [r_name] con il seme caldo."
+
+# game/day37.rpy:1580
+translate italian day37_r_b_sex_hard_ac9c5d61:
+
+    # "{i}Grinning, [r_name] contracts her vagina to force out your cum, causing it to drip onto [b_name]'s face."
+    "{i}Sorridendo [r_name] contrae la sua vagina per far uscire il tuo sperma facendolo colare sul viso di [b_name]."
+
+# game/day37.rpy:1581
+translate italian day37_r_b_sex_hard_b0622cf5:
+
+    # p "Clean that pussy up, [b_name]."
+    p "Pulisci quella figa [b_name]"
+
+# game/day37.rpy:1587
+translate italian day37_r_b_sex_hard_535d6088:
+
+    # "{i}Reluctantly, [b_name] bows her head towards [r_name]'s pussy and begins to drink your cum from it."
+    "{i}Con riluttanza [b_name] china la testa verso la figa di [r_name] e comincia a bere il tuo sperma."
+
+# game/day37.rpy:1603
+translate italian day37_r_b_sex_hard_7aa4b920:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger sister's back with warm seed."
+    "{i}[b_name] è pronto quando tiri fuori e spruzzi la schiena di tua sorella minore con del seme caldo."
+
+# game/day37.rpy:1605
+translate italian day37_r_b_sex_hard_a2822f5d:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger friend's back with warm seed."
+    "{i}[b_name] è pronto quando tiri fuori e spruzzi la schiena del tuo amico più giovane con del seme caldo."
+
+# game/day37.rpy:1610
+translate italian day37_r_b_sex_hard_fdc20f93:
+
+    # "{i}[r_name] lies on her stomach, a blissful smile gracing her face, while [b_name] scoops up your cum with her fingers from her back and swallows it all."
+    "{i}[r_name] si sdraia a pancia in giù con un sorriso beato sul viso mentre [b_name] raccoglie il tuo sperma con le dita dalla schiena e lo ingoia tutto."
+
+# game/day37.rpy:1626
+translate italian day37_r_b_sex_hard_2a2f76f1:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older sister's face with a fountain of cum."
+    "{i}Per rendere le cose più facili a [b_name] tiri fuori [r_name] e fai esplodere la faccia di tua sorella maggiore con una fontana di sperma"
+
+# game/day37.rpy:1628
+translate italian day37_r_b_sex_hard_7c509ab8:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older friend's face with a fountain of cum."
+    "{i}Per rendere le cose più facili a [b_name] tiri fuori [r_name] e fai esplodere la faccia del tuo amico più grande con una fontana di sperma"
+
+# game/day37.rpy:1629
+translate italian day37_r_b_sex_hard_e88f8e64:
+
+    # "{i}A lot of semen ends up in her open mouth, the rest she scoops up with her fingers and licks them clean."
+    "{i}Molto sperma finisce nella sua bocca aperta, il resto lo raccoglie con le dita e lo lecca."
+
+# game/day37.rpy:1639
+translate italian day37_r_b_sex_hard_d269f040:
+
+    # "{i}Behaving like a good little slut, [b_name] grabs your cock and licks the remaining droplets of cum from the tip."
+    "{i}Comportandosi da brava troietta [b_name] afferra il tuo cazzo e lecca le gocce di sperma rimaste dalla punta."
+
+# game/day37.rpy:1640
+translate italian day37_r_b_sex_hard_27d7082e:
+
+    # p "That's my girl."
+    p "Questa è la mia ragazza"
+
+# game/day37.rpy:1648
+translate italian day37_r_b_sex_hard_2f1e1be1:
+
+    # "{i}Thoroughly satisfied, you take both girls into your arms and pull them close towards you."
+    "{i}Soddisfatto, prende entrambe le ragazze tra le braccia e le avvicina a sé."
+
+# game/day37.rpy:1650
+translate italian day37_r_b_sex_hard_5ae801e3:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older sister's sexual performance."
+    "{i}[b_name] all'inizio è molto tesa, ma alla fine abbassa la guardia mentre [r_name] borbotta vari complimenti sulle prestazioni sessuali della sorella maggiore"
+
+# game/day37.rpy:1652
+translate italian day37_r_b_sex_hard_01154c56:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older friend's sexual performance."
+    "{i}[b_name] all'inizio è molto tesa, ma alla fine abbassa la guardia mentre [r_name] borbotta vari complimenti sulle prestazioni sessuali della sua amica più grande"
+
+# game/day37.rpy:1653
+translate italian day37_r_b_sex_hard_c88d4cdc:
+
+    # p "You were both great, girls, everything a man can dream of."
+    p "Siete state entrambe ragazze fantastiche, tutto ciò che un uomo può sognare."
+

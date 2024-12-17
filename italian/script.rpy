@@ -194,3 +194,35 @@ translate italian strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Premere {i}\"Invio\"{/i} sulla tastiera a schermo per confermare."
 
+# TODO: Translation updated at 2024-11-18 14:31
+
+translate italian strings:
+
+    # game/script.rpy:58
+    old "Max"
+    new "Max"
+
+    # game/script.rpy:62
+    old "Bella"
+    new "Bella"
+
+    # game/script.rpy:66
+    old "Liza"
+    new "Liza"
+
+    # game/script.rpy:70
+    old "Rachel"
+    new "Rachel"
+
+    # game/script.rpy:74
+    old "Susan"
+    new "Susan"
+
+    # game/script.rpy:630
+    old "Pregnancies"
+    new "Gravidanze"
+
+    # game/script.rpy:637
+    old "Who's pregnant in this scene?"
+    new "Chi è incinta in questa scena?"
+

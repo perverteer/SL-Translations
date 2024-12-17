@@ -5140,4 +5140,671 @@ translate italian day23_flashback_4362a162:
 translate italian day23_flashback_6c92b1a6:
 
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
-    "{i}Feci tutte quelle cose prendendo in bocca i suoi maestosi capezzoli e dando loro l'attenzione che meritavano Sasha cominciò a gemere dolcemente e ad allargare le gambe."
+    "{i}Feci tutte quelle cose prendendo in bocca i suoi maestosi capezzoli e dando loro l'attenzione che meritavano Sasha cominciò a gemere dolcemente e ad allargare le gambe."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day23.rpy:239
+translate italian day23_choices_05ffd1fb:
+
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(è ora di dare a [l_name] il suo regalo incartato e tutto il resto)"
+
+# game/day23.rpy:244
+translate italian day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "Ehi!"
+
+# game/day23.rpy:245
+translate italian day23_choices_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day23.rpy:246
+translate italian day23_choices_d4d9144c:
+
+    # p "I've come bearing gifts!"
+    p "Sono venuto a portare dei doni!."
+
+# game/day23.rpy:248
+translate italian day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "Emozionante!"
+
+# game/day23.rpy:250
+translate italian day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "Sorridendo, tua sorella apre lentamente la scatola per rivelarne il contenuto."
+
+# game/day23.rpy:252
+translate italian day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "Sorridendo, il vostro amico apre lentamente la scatola per rivelarne il contenuto."
+
+# game/day23.rpy:257
+translate italian day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "Cosa mai è"
+
+# game/day23.rpy:259
+translate italian day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "Oh no [p_name] non l'hai fatto."
+
+# game/day23.rpy:260
+translate italian day23_choices_e3441fb8:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Ho detto che te ne avrei regalato uno, non ti piace?."
+
+# game/day23.rpy:261
+translate italian day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "I... Non lo so."
+
+# game/day23.rpy:262
+translate italian day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Penso che sia un po' strano come regalo."
+
+# game/day23.rpy:263
+translate italian day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Le coppie senza senso si regalano continuamente giocattoli sessuali."
+
+# game/day23.rpy:264
+translate italian day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Lo fanno, vero?)."
+
+# game/day23.rpy:265
+translate italian day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Ma sembra così così pornografico?."
+
+# game/day23.rpy:266
+translate italian day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Avresti dovuto vedere le altre in mostra Questa è la più sottile di queste cose."
+
+# game/day23.rpy:268
+translate italian day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Ok Grazie"
+
+# game/day23.rpy:269
+translate italian day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Non sembra del tutto convinta)."
+
+# game/day23.rpy:270
+translate italian day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "Non c'è problema, e sta a voi decidere se usarlo o meno, naturalmente, per me va bene anche se finisce a prendere polvere in un cassetto."
+
+# game/day23.rpy:271
+translate italian day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Grazie, lo terrò presente."
+
+# game/day23.rpy:272
+translate italian day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Anche se ti perdi qualcosa se lo fai."
+
+# game/day23.rpy:273
+translate italian day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "Ok, ok! Ho capito il messaggio."
+
+# game/day23.rpy:274
+translate italian day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}La ragazza ti sorride quando esci dalla sua stanza."
+
+# game/day23.rpy:279
+translate italian day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "Cosa mai è"
+
+# game/day23.rpy:281
+translate italian day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Ho detto che te ne avrei regalato uno, non ti piace?."
+
+# game/day23.rpy:282
+translate italian day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "I... Non lo so."
+
+# game/day23.rpy:283
+translate italian day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "È enorme"
+
+# game/day23.rpy:284
+translate italian day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Sentirete tutto molto più intensamente."
+
+# game/day23.rpy:286
+translate italian day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Mi dispiace [p_name] ma questo è troppo."
+
+# game/day23.rpy:287
+translate italian day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Non ho chiesto questo e tu mi hai preso questa cosa Perché l'hai fatto?."
+
+# game/day23.rpy:288
+translate italian day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Merda Non è chiaramente impressionata)"
+
+# game/day23.rpy:289
+translate italian day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "Ho pensato che ti sarebbe piaciuto, è un ottimo stimolante."
+
+# game/day23.rpy:290
+translate italian day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "Non sono quel tipo di ragazza [p_name], ormai dovresti saperlo."
+
+# game/day23.rpy:291
+translate italian day23_choices_59810b3a:
+
+    # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
+    p "Mi dispiace [l_name] non ti ho lasciato in pace."
+
+# game/day23.rpy:292
+translate italian day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}La ragazza rimane in silenzio mentre lei, esitante, esce dalla stanza."
+
+# game/day23.rpy:299
+translate italian day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Aspetti con ansia che scenda la sera e ti vesti con il tuo abito pronto per uscire con [m_name]."
+
+# game/day23.rpy:301
+translate italian day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Si passa il tempo fino al calar della sera e si riscalda qualcosa nel microonde."
+
+# game/day23.rpy:1274
+translate italian day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "Questo è accogliente, non crede?."
+
+# game/day23.rpy:1275
+translate italian day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Se intendi dire angusto e schifoso, allora sono d'accordo."
+
+# game/day23.rpy:1276
+translate italian day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "Vieni ora, divertiamoci un po'."
+
+# game/day23.rpy:1277
+translate italian day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ana inserisce una moneta nella fessura e sul grande schermo inizia la proiezione di un film Ti fa segno di sederti."
+
+# game/day23.rpy:1279
+translate italian day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "Ora divertitevi"
+
+# game/day23.rpy:1280
+translate italian day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Mentre Ana si spoglia, gli attori sullo schermo hanno già finito i loro rapidi preliminari e la ragazza lo sta cavalcando in reverse cowgirl."
+
+# game/day23.rpy:1281
+translate italian day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Sapevo che ti sarebbe piaciuto Sei già duro."
+
+# game/day23.rpy:1282
+translate italian day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "Ti piace quando una ragazza viene stantuffata così da un cazzo grosso e duro?."
+
+# game/day23.rpy:1287
+translate italian day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}Dopo che ti sei spogliato Ana si inginocchia e divora avidamente la tua erezione pulsante."
+
+# game/day23.rpy:1288
+translate italian day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Mmmm sì, questo mi è sfuggito."
+
+# game/day23.rpy:1289
+translate italian day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Usa la bocca, piccolo sporco succhiacazzi."
+
+# game/day23.rpy:1291
+translate italian day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ana piega le mani dietro la schiena e ingoia ancora di più la tua lunghezza La saliva cola sul pavimento mentre ha i conati di vomito."
+
+# game/day23.rpy:1292
+translate italian day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}Aiutala a stabilire un ritmo guidando la sua testa su e giù per il tuo cazzo."
+
+# game/day23.rpy:1293
+translate italian day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Sì, così"
+
+# game/day23.rpy:1294
+translate italian day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Il tuo cazzo è ancora nella sua bocca e ti fermi appena prima di riempirle la bocca con il seme. Volendo prolungare il vostro rapporto d'amore, le afferri i capelli e la allontani dalla tua erezione."
+
+# game/day23.rpy:1299
+translate italian day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Cavalcami"
+
+# game/day23.rpy:1305
+translate italian day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}La ragazza si arrampica su di te e il tuo cazzo scivola facilmente dentro il suo squarcio umido... Deliziata, ti massaggia le palle mentre si muove su e giù per la tua asta."
+
+# game/day23.rpy:1306
+translate italian day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Mmmmm ci sei dentro fino al collo."
+
+# game/day23.rpy:1307
+translate italian day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}Il suo culo sbatte contro le tue cosce mentre ti cavalca I seni di Ana ti sfiorano il viso e tu succhi avidamente i suoi capezzoli."
+
+# game/day23.rpy:1308
+translate italian day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "Il suono del film porno che sta ancora trasmettendo è soffocato dai gemiti rochi di Ana."
+
+# game/day23.rpy:1310
+translate italian day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Volendo avere più controllo, sollevi Ana dal tuo cazzo e la giri."
+
+# game/day23.rpy:1311
+translate italian day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Voglio vedere il tuo culo."
+
+# game/day23.rpy:1312
+translate italian day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "No no non fermarti!."
+
+# game/day23.rpy:1313
+translate italian day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}La spingi sul tuo cazzo e le tieni la vita sollevandola e sbattendola giù Ogni volta che spingi il tuo cazzo nella sua vagina, piccoli rivoli di umido colano dalla sua vagina sulle tue cosce."
+
+# game/day23.rpy:1314
+translate italian day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "Sì, sì! Scopami non fermarti [p_name]."
+
+# game/day23.rpy:1315
+translate italian day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "Ti piace, piccola puttana?."
+
+# game/day23.rpy:1316
+translate italian day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "Lo amo! Lo adoro, cazzo"
+
+# game/day23.rpy:1322
+translate italian day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Dopo che la sua fica ha goduto del tuo cazzo per un po' di tempo, tiri fuori e strattoni Ana sul pavimento."
+
+# game/day23.rpy:1324
+translate italian day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "Ora assaggia la tua figa"
+
+# game/day23.rpy:1325
+translate italian day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Mmmm sì!"
+
+# game/day23.rpy:1331
+translate italian day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Voglio usare il tuo culo"
+
+# game/day23.rpy:1332
+translate italian day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "Sì! È pronto per te Usami!."
+
+# game/day23.rpy:1338
+translate italian day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}La spingi sulla sedia mentre lei allarga le guance per te, dandoti una bella visione del suo buco del culo."
+
+# game/day23.rpy:1339
+translate italian day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}Nonostante quello che ha detto il culo di Ana chiaramente non è pronto per le tue dimensioni Quando spingi la punta dentro di lei smette di gemere e stringe i denti."
+
+# game/day23.rpy:1340
+translate italian day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Aaah It Aaaah"
+
+# game/day23.rpy:1341
+translate italian day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Sputa sul suo buco del culo e spingi il tuo cazzo ancora di più dentro il suo culo."
+
+# game/day23.rpy:1342
+translate italian day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "C'è così tanto di te."
+
+# game/day23.rpy:1343
+translate italian day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}Le tieni le braccia e la tiri verso di te Il suo buco del culo è molto stretto, nonostante Ana si rilassi sempre di più."
+
+# game/day23.rpy:1344
+translate italian day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Aah sì, scopami il culo"
+
+# game/day23.rpy:1346
+translate italian day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Il suo culo rimbalza mentre la scopi Ogni volta che il tuo cazzo entra in lei Ana spinge il viso contro la pelle della sedia la sua espressione si contorce in un misto di dolore e piacere."
+
+# game/day23.rpy:1352
+translate italian day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Dopo che il suo culo ha goduto del tuo cazzo per un po' di tempo, tiri fuori e strattoni Ana sul pavimento."
+
+# game/day23.rpy:1354
+translate italian day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "Ora assaggia quello stronzo"
+
+# game/day23.rpy:1355
+translate italian day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Mmmm sì!"
+
+# game/day23.rpy:1357
+translate italian day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Con due mani le spingi la testa sul tuo cazzo e la costringi a farti l'ingoio profondo Lei rantola e ha dei conati di vomito e rivoli di muco chiaro le scorrono sul petto."
+
+# game/day23.rpy:1366
+translate italian day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Quando senti che il tuo orgasmo si avvicina, la tiri sulle tue ginocchia e spingi di nuovo il tuo cazzo nel suo sedere senza sosta."
+
+# game/day23.rpy:1368
+translate italian day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Quando senti che il tuo orgasmo si avvicina, la tiri sulle tue ginocchia e le spingi il cazzo nel sedere senza preavviso."
+
+# game/day23.rpy:1369
+translate italian day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Fffffffuuuuck!."
+
+# game/day23.rpy:1372
+translate italian day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}Dopo una breve e furiosa serie di spinte, esplodete nel suo stretto buco del culo."
+
+# game/day23.rpy:1373
+translate italian day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1374
+translate italian day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "Scopami! Scopami!"
+
+# game/day23.rpy:1375
+translate italian day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Continuate a scoparla finché non avrete sparato le ultime gocce di sperma dentro di lei e lo sperma non inizierà a fuoriuscire dal suo buco del culo."
+
+# game/day23.rpy:1392
+translate italian day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Quando senti che l'orgasmo si avvicina, ti sdrai e la tiri sul tuo cazzo. Lei inizia a cavalcarti senza sosta."
+
+# game/day23.rpy:1398
+translate italian day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}Dopo una breve e furiosa serie di spinte, esplodi nella sua figa stretta."
+
+# game/day23.rpy:1399
+translate italian day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1400
+translate italian day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "Scopami! Scopami!"
+
+# game/day23.rpy:1401
+translate italian day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}La tieni sopra il tuo cazzo finché non hai sparato le ultime gocce di sperma dentro di lei e lo sperma inizia a fuoriuscire dalla sua fessura umida."
+
+# game/day23.rpy:1412
+translate italian day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Suoni umidi emergono dalla sua bocca mentre le scopate la gola I suoi occhi lacrimosi vi guardano in preda al piacere."
+
+# game/day23.rpy:1419
+translate italian day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}Dopo una breve e furiosa serie di spinte ti tiri fuori e il tuo cazzo inizia a schizzare sperma mentre le sbatte sul viso."
+
+# game/day23.rpy:1420
+translate italian day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1421
+translate italian day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Sì! Dammelo!."
+
+# game/day23.rpy:1422
+translate italian day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Il suo viso è presto ricoperto di sperma che lei lecca avidamente dagli angoli della bocca."
+
+# game/day23.rpy:1432
+translate italian day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Suoni umidi emergono dalla sua bocca mentre le scopate la gola I suoi occhi lacrimosi vi guardano in preda al piacere."
+
+# game/day23.rpy:1440
+translate italian day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}Dopo una breve e furiosa serie di spinte ti tiri fuori e spingi Ana a terra Il tuo cazzo inizia a schizzare sperma su tutto il suo seno e la sua pancia."
+
+# game/day23.rpy:1441
+translate italian day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1442
+translate italian day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "Sì! Dammelo!."
+
+# game/day23.rpy:1443
+translate italian day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ana si fa un ditalino strofinando la tua sborra nella sua figa e si assicura che il suo corpo sia ricoperto fino all'ultima goccia di sperma."
+
+# game/day23.rpy:1453
+translate italian day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}La ragazza si pulisce e si appoggia allo schermo dove l'attrice ha appena ricevuto un carico in bocca."
+
+# game/day23.rpy:1455
+translate italian day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "Accidenti, sai proprio come far sentire bene una ragazza, vero?."
+
+# game/day23.rpy:1456
+translate italian day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Grazie, mi piace molto fare shopping con te."
+
+# game/day23.rpy:1457
+translate italian day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "Ho notato!"
+
+# game/day23.rpy:1459
+translate italian day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Vi vestite entrambi e uscite dalla cabina video La ragazza al bancone vi guarda con un'espressione strana."
+
+# game/day23.rpy:1460
+translate italian day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "Quindi deduco che ti sia piaciuta laggiù?."
+
+# game/day23.rpy:1461
+translate italian day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "È stato molto stimolante."
+
+# game/day23.rpy:1462
+translate italian day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Sì, grande film"
+

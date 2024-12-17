@@ -5633,3 +5633,1487 @@ translate italian day33_2e61abc1:
 
     # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
     "{i}In quel momento perdi completamente la testa e con la sola forza di volontà riesci ad afferrare il tuo cazzo e a dirigerlo verso i petti eretti di Valentina e della tua ragazza."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day33.rpy:1077
+translate italian day33_v_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Vuoi abilitare gli sport acquatici per questa scena?."
+
+# game/day33.rpy:1081
+translate italian day33_v_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Abilitato agli sport acquatici"
+
+# game/day33.rpy:1084
+translate italian day33_v_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sport acquatici disabilitati"
+
+# game/day33.rpy:1091
+translate italian day33_v_sex_da20bdb0:
+
+    # p "How could I refuse?"
+    p "Come potrei rifiutare?"
+
+# game/day33.rpy:1092
+translate italian day33_v_sex_67933b7d:
+
+    # va "Good answer."
+    va "Buona risposta"
+
+# game/day33.rpy:1093
+translate italian day33_v_sex_f5f2a0d3:
+
+    # va "Why don't you come here and help me undress, [r_name]."
+    va "Perché non vieni qui e mi aiuti a spogliare [r_name]."
+
+# game/day33.rpy:1095
+translate italian day33_v_sex_cd5af312:
+
+    # "{i}Valentina is perfectly capable of removing the few pieces of clothing she still wears and uses the opportunity to give [r_name] a long kiss instead."
+    "{i}Valentina è perfettamente in grado di togliersi i pochi indumenti che ancora indossa e ne approfitta per dare invece a [r_name] un lungo bacio"
+
+# game/day33.rpy:1097
+translate italian day33_v_sex_df514626:
+
+    # "{i}Their kissing soon involves an interplay of tongues and eager exploration of the sensitive parts of either girl's body."
+    "{i}I loro baci si trasformano presto in un gioco di lingue e in un'avida esplorazione delle parti sensibili del corpo delle due ragazze."
+
+# game/day33.rpy:1098
+translate italian day33_v_sex_0b386afd:
+
+    # "{i}[r_name] seems to treat Valentina as a rather precious object at first, but as lust takes the upper hand, her touches become more self-assured and fueled by the greed you know all too well."
+    "{i}[r_name] all'inizio sembra trattare Valentina come un oggetto piuttosto prezioso, ma quando la lussuria prende il sopravvento i suoi tocchi diventano più sicuri di sé e alimentati dall'avidità che lei conosce fin troppo bene."
+
+# game/day33.rpy:1100
+translate italian day33_v_sex_700277af:
+
+    # va "Look at that, it seems your friend is ready for us too."
+    va "Guarda un po', sembra che anche il tuo amico sia pronto per noi."
+
+# game/day33.rpy:1101
+translate italian day33_v_sex_f27e7783:
+
+    # va "Will you join us, [p_name]?"
+    va "Vuoi unirti a noi [p_name]?."
+
+# game/day33.rpy:1102
+translate italian day33_v_sex_6267df42:
+
+    # va "Stick that hard cock in our mouths?"
+    va "Infilare quel cazzo duro nelle nostre bocche?."
+
+# game/day33.rpy:1107
+translate italian day33_v_sex_cd767c86:
+
+    # "{i}After you present your erection, the girls start to play with it, their fingertips darting all over your shaft."
+    "{i}Dopo aver presentato la tua erezione, le ragazze iniziano a giocarci con i loro polpastrelli che percorrono tutta l'asta."
+
+# game/day33.rpy:1108
+translate italian day33_v_sex_50670608:
+
+    # "{i}[r_name] is the first to use her tongue, working on the head of your dick and proving to you she knows exactly where your sensitive spots are."
+    "{i}[r_name] è la prima a usare la lingua lavorando sulla testa del tuo cazzo e dimostrandoti che sa esattamente dove sono i tuoi punti sensibili."
+
+# game/day33.rpy:1110
+translate italian day33_v_sex_4b719145:
+
+    # "{i}A hint of jealously flashes across Valentinas face and she pulls [r_name] face towards her to kiss her violently."
+    "{i}Un accenno di gelosia attraversa il volto di Valentina che tira [r_name] verso di sé e la bacia violentemente."
+
+# game/day33.rpy:1111
+translate italian day33_v_sex_50061cf3:
+
+    # "{i}From he first taste of your cock she gets from [r_name]'s lips and the smoldering look she gives, you gather that she obviously wants more."
+    "{i}Dal primo assaggio del tuo cazzo che riceve dalle labbra di [r_name] e dallo sguardo ardente che ti rivolge si capisce che ovviamente vuole di più."
+
+# game/day33.rpy:1113
+translate italian day33_v_sex_462e71be:
+
+    # "{i}Valentina kisses the tip of your cock and slowly slides her lips over the length of your shaft."
+    "{i}Valentina bacia la punta del tuo cazzo e fa scorrere lentamente le labbra sulla lunghezza della tua asta."
+
+# game/day33.rpy:1114
+translate italian day33_v_sex_a0d01377:
+
+    # "{i}When she has sucked your cock once or twice, she holds it in her mouth, and you feel her tongue swirling over the exposed glans."
+    "{i}Quando ti ha succhiato l'uccello una o due volte, lo tiene in bocca e senti la sua lingua roteare sul glande esposto."
+
+# game/day33.rpy:1115
+translate italian day33_v_sex_7eabf0ef:
+
+    # "{i}You're amazed by the level of accomplishment Valentina shows as a cocksucker at such a relatively young age."
+    "{i}Sei stupito dal livello di realizzazione di Valentina come succhiacazzi a un'età così relativamente giovane."
+
+# game/day33.rpy:1116
+translate italian day33_v_sex_8e7a6284:
+
+    # "{i}The singer alternates between powerful stimulation of the entire shaft and playful sucking of the head, making the blowjob a little unpredictable and therefore very enjoyable."
+    "{i}La cantante alterna una potente stimolazione dell'intera asta a una giocosa suzione della testa, rendendo il pompino un po' imprevedibile e quindi molto piacevole."
+
+# game/day33.rpy:1118
+translate italian day33_v_sex_4ee9563f:
+
+    # "{i}Just at the moment Valentina has sucked you into a sexual trance she lets your cock slide out of her mouth and presents it to [r_name]."
+    "{i}Proprio nel momento in cui Valentina ti ha risucchiato in una trance sessuale, lascia scivolare il tuo cazzo fuori dalla sua bocca e lo presenta a [r_name]."
+
+# game/day33.rpy:1119
+translate italian day33_v_sex_12aaf1cf:
+
+    # va "Your turn."
+    va "Tocca a te"
+
+# game/day33.rpy:1125
+translate italian day33_v_sex_8e107db1:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your sister."
+    "{i}Mentre [r_name] inizia a soffiarti Valentina rivolge la sua attenzione a tua sorella."
+
+# game/day33.rpy:1127
+translate italian day33_v_sex_291ff673:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your girlfriend."
+    "{i}Mentre [r_name] inizia a spompinarti Valentina rivolge la sua attenzione alla tua ragazza."
+
+# game/day33.rpy:1132
+translate italian day33_v_sex_668456bc:
+
+    # "{i}[r_name] has to cease her work on your dick and moans all over your cock as Valentina begins to lick her pussy."
+    "{i}[r_name] deve cessare il suo lavoro sul tuo cazzo e geme su tutto il tuo cazzo mentre Valentina inizia a leccarle la figa."
+
+# game/day33.rpy:1134
+translate italian day33_v_sex_50ff9e62:
+
+    # "{i}You're treated to a glorious display of lesbian love while [r_name] still goes down on your throbbing cock."
+    "{i}Ti viene offerto un glorioso spettacolo di amore lesbico mentre [r_name] si abbatte ancora sul tuo cazzo pulsante."
+
+# game/day33.rpy:1135
+translate italian day33_v_sex_8f899fcd:
+
+    # "{i}Sex acts seem to bore Valentina easily, because she stops eating [r_name] out not long after she begun, pulling the girl from your cock as well."
+    "{i}Gli atti sessuali sembrano annoiare facilmente Valentina, perché smette di mangiare [r_name] non molto tempo dopo aver iniziato a estrarre anche la ragazza dal tuo cazzo."
+
+# game/day33.rpy:1141
+translate italian day33_v_sex_363ef64d:
+
+    # va "Enough foreplay."
+    va "Basta preliminari"
+
+# game/day33.rpy:1142
+translate italian day33_v_sex_f2ac1848:
+
+    # va "I want to get fucked."
+    va "Voglio essere scopato"
+
+# game/day33.rpy:1143
+translate italian day33_v_sex_61d24d5c:
+
+    # r "Uhm..."
+    r "Uhm"
+
+# game/day33.rpy:1144
+translate italian day33_v_sex_b56921dd:
+
+    # r "Could I leave you guys for a minute?"
+    r "Posso lasciarvi per un minuto?."
+
+# game/day33.rpy:1145
+translate italian day33_v_sex_183de7fa:
+
+    # va "Why?"
+    va "Why?"
+
+# game/day33.rpy:1146
+translate italian day33_v_sex_3a38d98b:
+
+    # r "I have to sneak out and use the bathroom."
+    r "Devo uscire di nascosto per andare in bagno."
+
+# game/day33.rpy:1147
+translate italian day33_v_sex_f5f89363:
+
+    # va "So?"
+    va "So?"
+
+# game/day33.rpy:1148
+translate italian day33_v_sex_d26b31b0:
+
+    # r "I just really need to pee, be right back."
+    r "Devo solo fare pipì, torno subito."
+
+# game/day33.rpy:1149
+translate italian day33_v_sex_ea179a45:
+
+    # va "You're not going anywhere."
+    va "Non vai da nessuna parte"
+
+# game/day33.rpy:1151
+translate italian day33_v_sex_4e9c48fc:
+
+    # r "I can't hold it in much longer!"
+    r "Non posso resistere ancora a lungo!."
+
+# game/day33.rpy:1152
+translate italian day33_v_sex_a92ce422:
+
+    # va "Good."
+    va "Good"
+
+# game/day33.rpy:1153
+translate italian day33_v_sex_c5265c11:
+
+    # "{i}Valentina lies down on the floor, and as you begin to understand what the singer intends, your cock twitches in anticipation."
+    "{i}Valentina si sdraia sul pavimento e quando cominci a capire le intenzioni della cantante il tuo cazzo si contrae in attesa."
+
+# game/day33.rpy:1154
+translate italian day33_v_sex_f4366a2c:
+
+    # va "Come over here and let it all go."
+    va "Vieni qui e lascia perdere tutto."
+
+# game/day33.rpy:1156
+translate italian day33_v_sex_43074f89:
+
+    # r "What?!"
+    r "Cosa?!"
+
+# game/day33.rpy:1157
+translate italian day33_v_sex_697ccfaa:
+
+    # r "Like pee on the floor?"
+    r "Come fare pipì sul pavimento?."
+
+# game/day33.rpy:1158
+translate italian day33_v_sex_82b1efc4:
+
+    # va "No, pee on me."
+    va "Niente pipì su di me"
+
+# game/day33.rpy:1159
+translate italian day33_v_sex_18d4a75b:
+
+    # va "Do I need to spell it out for you?"
+    va "Devo farti lo spelling?."
+
+# game/day33.rpy:1160
+translate italian day33_v_sex_e63b215d:
+
+    # "{i}[r_name] glances at you, a little worried by the request and unsure what to do."
+    "{i}[r_name] vi guarda un po' preoccupato dalla richiesta e incerto sul da farsi."
+
+# game/day33.rpy:1166
+translate italian day33_v_sex_cadedab3:
+
+    # "{i}You slightly nod and [r_name] smiles, thrilled for what comes next."
+    "{i}Lei annuisce leggermente e [r_name] sorride entusiasta di ciò che verrà dopo."
+
+# game/day33.rpy:1168
+translate italian day33_v_sex_e8879a21:
+
+    # "{i}You shake your head slightly, and [r_name] takes the cue."
+    "{i}Lei scuote leggermente la testa e [r_name] prende spunto."
+
+# game/day33.rpy:1170
+translate italian day33_v_sex_4963dd83:
+
+    # r "Sorry Valentina, but I'm just going to make a run for it really quick and find a bathroom."
+    r "Scusa Valentina, ma devo scappare molto velocemente e trovare un bagno."
+
+# game/day33.rpy:1171
+translate italian day33_v_sex_cad4e5c5:
+
+    # va "Suit yourself."
+    va "Come vuoi tu."
+
+# game/day33.rpy:1172
+translate italian day33_v_sex_e09561fa:
+
+    # va "You do know I'll have your man all to myself?"
+    va "Lo sai che avrò il tuo uomo tutto per me?."
+
+# game/day33.rpy:1173
+translate italian day33_v_sex_a9b67a01:
+
+    # r "I'm not worried, as long as you leave a piece for me."
+    r "Non mi preoccupo, basta che me ne lasci un pezzo."
+
+# game/day33.rpy:1174
+translate italian day33_v_sex_4da4447e:
+
+    # "{i}[r_name] slips into her dress again and slips out of the room barefoot."
+    "{i}[r_name] si infila di nuovo il vestito e scivola fuori dalla stanza a piedi nudi."
+
+# game/day33.rpy:1180
+translate italian day33_v_sex_c200323b:
+
+    # "{i}[r_name] positions her body over Valentina's and squats, a concentrated expression on her face."
+    "{i}[r_name] posiziona il suo corpo su quello di Valentina e si accovaccia con un'espressione concentrata sul viso."
+
+# game/day33.rpy:1181
+translate italian day33_v_sex_8c501186:
+
+    # "{i}Despite the urgency she felt earlier, it takes a while for it to come, Valentina strokes the thighs of your girl in delirious anticipation."
+    "{i}Nonostante l'urgenza che ha sentito prima, ci vuole un po' perché venga Valentina accarezza le cosce della tua ragazza in preda al delirio."
+
+# game/day33.rpy:1188
+translate italian day33_v_sex_f23fb9a9:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your sister's pussy."
+    "{i}Si sente un piccolo sospiro di sollievo mentre un torrente di piscio fuoriesce dalla figa di tua sorella."
+
+# game/day33.rpy:1190
+translate italian day33_v_sex_9a4d25e2:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your girlfriend's pussy."
+    "{i}Senti un piccolo sospiro di sollievo mentre un torrente di piscio fuoriesce dalla figa della tua ragazza."
+
+# game/day33.rpy:1191
+translate italian day33_v_sex_9621e813:
+
+    # "{i}The urine splashes onto Valentina's naked body, who closes her eyes and rubs the liquid all over her breasts and belly."
+    "{i}L'urina schizza sul corpo nudo di Valentina che chiude gli occhi e si spalma il liquido sul seno e sulla pancia."
+
+# game/day33.rpy:1192
+translate italian day33_v_sex_14c7df85:
+
+    # va "More!"
+    va "Di più!"
+
+# game/day33.rpy:1198
+translate italian day33_v_sex_9a45cbcc:
+
+    # "{i}[r_name] tries her best and delivers another gush of pee, this time the stream spatters into Valentina's open mouth and she drinks eagerly."
+    "{i}[r_name] fa del suo meglio ed emette un altro zampillo di pipì, questa volta il getto schizza nella bocca aperta di Valentina, che beve avidamente."
+
+# game/day33.rpy:1199
+translate italian day33_v_sex_0404ad17:
+
+    # "{i}At first, you thought [r_name] would be too weirded out by all of it, but she actually seems to relish in soiling her idol."
+    "{i}All'inizio pensavi che [r_name] sarebbe stata troppo stranita da tutto questo, ma in realtà sembra che si diverta a sporcare il suo idolo."
+
+# game/day33.rpy:1201
+translate italian day33_v_sex_ebe86168:
+
+    # va "Mmmmm, that feels so good."
+    va "Mmmmm che bella sensazione."
+
+# game/day33.rpy:1205
+translate italian day33_v_sex_8ae5b91d:
+
+    # va "Oh, there's more?"
+    va "Oh c'è dell'altro?"
+
+# game/day33.rpy:1210
+translate italian day33_v_sex_b3f5862b:
+
+    # "{i}A final stream of piss trickles from [r_name]'s vagina, streaming down Valentina's breasts, over her belly and finally stranding in the singer's pubic hair."
+    "{i}Un ultimo fiotto di piscio sgorga dalla vagina di [r_name] scendendo lungo i seni di Valentina, sul suo ventre e infine arenandosi tra i peli pubici della cantante."
+
+# game/day33.rpy:1211
+translate italian day33_v_sex_4ecb9db6:
+
+    # "{i}Valentina is now lying in a puddle of [r_name]'s piss, almost bathing in the warm liquid and wearing a content smile on her face."
+    "{i}Valentina è ora sdraiata in una pozza di piscio di [r_name], quasi immersa nel liquido caldo e con un sorriso soddisfatto sul volto."
+
+# game/day33.rpy:1212
+translate italian day33_v_sex_b4e76810:
+
+    # va "Mmmm, now we can fuck."
+    va "Mmmm ora possiamo scopare"
+
+# game/day33.rpy:1213
+translate italian day33_v_sex_1a75f8bd:
+
+    # va "And I'm sorry, [r_name], but I'm going first."
+    va "E mi dispiace [r_name] ma io vado per primo."
+
+# game/day33.rpy:1214
+translate italian day33_v_sex_f82db883:
+
+    # r "As long as you leave a piece for me."
+    r "Basta che me ne lasci un pezzo."
+
+# game/day33.rpy:1220
+translate italian day33_v_sex_b1dce4b3:
+
+    # va "Will you fuck me hard?"
+    va "Vuoi scoparmi forte?"
+
+# game/day33.rpy:1221
+translate italian day33_v_sex_5980f02a:
+
+    # va "I don't want you to treat me as some precious thing, some tender princess."
+    va "Non voglio che mi tratti come una cosa preziosa, una tenera principessa."
+
+# game/day33.rpy:1222
+translate italian day33_v_sex_916469f9:
+
+    # p "Come here then."
+    p "Vieni qui allora"
+
+# game/day33.rpy:1227
+translate italian day33_v_sex_66b7e5c5:
+
+    # "{i}You pull the singer closer and press the head of your erect cock against her fuck-hole."
+    "{i}Avvicinate la cantante e premete la testa del vostro cazzo eretto contro il suo buco del culo."
+
+# game/day33.rpy:1228
+translate italian day33_v_sex_440312bf:
+
+    # va "Mmmm, you're eager."
+    va "Mmmm sei impaziente"
+
+# game/day33.rpy:1230
+translate italian day33_v_sex_461e6ed3:
+
+    # "{i}You were hoping [r_name] would join you in preparing Valentina, but she's waiting her turn, maybe a little shy all of a sudden."
+    "{i}Speravi che [r_name] si unisse a te nel preparare Valentina, ma lei sta aspettando il suo turno, forse un po' timida all'improvviso."
+
+# game/day33.rpy:1232
+translate italian day33_v_sex_3b0b3bf1:
+
+    # va "Quick, I want to feel you before your girlfriend comes back."
+    va "Veloce, voglio sentirti prima che torni la tua ragazza."
+
+# game/day33.rpy:1234
+translate italian day33_v_sex_e0594a98:
+
+    # "{i}Parting her lower lips with your tip, you ram your shaft inside her as soon as you've passed her heavenly entrance."
+    "{i}Divaricando le sue labbra inferiori con la punta, spingi la tua asta dentro di lei non appena hai superato il suo ingresso paradisiaco."
+
+# game/day33.rpy:1235
+translate italian day33_v_sex_afe18761:
+
+    # va "T-that's it!"
+    va "T-questo è tutto!."
+
+# game/day33.rpy:1240
+translate italian day33_v_sex_da777b57:
+
+    # "{i}You're overcome by a desire to own her body completely, and your hands react by grabbing and kneading Valentina's breasts, leaving red marks on her skin."
+    "{i}Sei sopraffatto dal desiderio di possedere completamente il suo corpo e le tue mani reagiscono afferrando e impastando i seni di Valentina, lasciando segni rossi sulla sua pelle."
+
+# game/day33.rpy:1241
+translate italian day33_v_sex_4ba1675f:
+
+    # "{i}Her arms behind her back, she moans and sighs as you alternately massage and pinch her nipples."
+    "{i}Con le braccia dietro la schiena, geme e sospira mentre le massaggiate e pizzicate alternativamente i capezzoli."
+
+# game/day33.rpy:1245
+translate italian day33_v_sex_cbcac673:
+
+    # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your sister mixed with Valentina's perfume."
+    "{i}Il suo corpo è ancora bagnato dal piscio di [r_name] e senti il muschio di tua sorella mescolato al profumo di Valentina."
+
+# game/day33.rpy:1247
+translate italian day33_v_sex_eefa7325:
+
+    # "{i}Her body is still slick with [r_name]'s piss, and you smell the musk of your girl mixed with Valentina's perfume."
+    "{i}Il suo corpo è ancora bagnato dal piscio di [r_name] e senti il muschio della tua ragazza mescolato al profumo di Valentina."
+
+# game/day33.rpy:1249
+translate italian day33_v_sex_bfc84d23:
+
+    # "{i}[r_name] returns at that moment and is now looking at you in approval as you fuck her favorite singer."
+    "{i}[r_name] torna in quel momento e ora ti guarda con approvazione mentre ti scopi la sua cantante preferita."
+
+# game/day33.rpy:1251
+translate italian day33_v_sex_c10ca682:
+
+    # r "Is he giving you a good time, Valentina?"
+    r "Ti sta facendo divertire Valentina?."
+
+# game/day33.rpy:1252
+translate italian day33_v_sex_ef12ecd0:
+
+    # va "T-t-he b-best!"
+    va "Il migliore!."
+
+# game/day33.rpy:1258
+translate italian day33_v_sex_80d6fd38:
+
+    # "{i}You see your sister kneel before Valentina's cunt, and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Vedi tua sorella inginocchiarsi davanti alla fica di Valentina e la sua lingua sfrecciare per stimolare sia il tuo cazzo che la fica dell'altra ragazza."
+
+# game/day33.rpy:1260
+translate italian day33_v_sex_2afe7a86:
+
+    # "{i}You see your girlfriend kneel before Valentina's cunt and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Vedi la tua ragazza inginocchiarsi davanti alla fica di Valentina e la sua lingua sfrecciare per stimolare sia il tuo cazzo che la fica dell'altra ragazza."
+
+# game/day33.rpy:1261
+translate italian day33_v_sex_348a1b48:
+
+    # va "F-fuck yes!"
+    va "Cazzo, sì!"
+
+# game/day33.rpy:1262
+translate italian day33_v_sex_bf974413:
+
+    # va "K-keep d-doing that, [r_name]!"
+    va "Continua a fare quel [r_name]!."
+
+# game/day33.rpy:1269
+translate italian day33_v_sex_51ffaecb:
+
+    # "{i}Thanks to [r_name]'s caresses, some directly to her clitoris, Valentina is able to reach her climax."
+    "{i}Grazie alle carezze di [r_name], alcune direttamente sul clitoride, Valentina riesce a raggiungere l'orgasmo."
+
+# game/day33.rpy:1270
+translate italian day33_v_sex_e5d38be8:
+
+    # "{i}The girl thrusts her cunt violently in [r_name]'s face to maximize her pleasure, nearly making your cock slip out of her."
+    "{i}La ragazza spinge violentemente la sua fica sulla faccia di [r_name] per massimizzare il suo piacere, facendo quasi scivolare il tuo cazzo fuori da lei."
+
+# game/day33.rpy:1271
+translate italian day33_v_sex_4ea9735d:
+
+    # va "Oh fuck [r_name], k-keeep doing that!"
+    va "Oh cazzo [r_name] k-keeep che fa quello!."
+
+# game/day33.rpy:1272
+translate italian day33_v_sex_dd1c3a17:
+
+    # "{i}A small grin appears on [r_name]'s face as she prolongs Valentina's orgasm with the deft licks of her tongue."
+    "{i}Un piccolo sorriso appare sul volto di [r_name] mentre prolunga l'orgasmo di Valentina con le abili leccate della sua lingua."
+
+# game/day33.rpy:1273
+translate italian day33_v_sex_19f1857e:
+
+    # "{i}You hold the singer in your arms as she's unable to stand due to the convulsions currently wracking her body."
+    "{i}Tieni in braccio la cantante, che non riesce a stare in piedi a causa delle convulsioni che la stanno avvolgendo."
+
+# game/day33.rpy:1274
+translate italian day33_v_sex_95ccc29e:
+
+    # "{i}Proud of what [r_name] accomplished, you develop an overwhelming desire to fuck her instead of Valentina."
+    "{i}Orgoglioso di ciò che [r_name] ha realizzato, sviluppi un desiderio irrefrenabile di scopare con lei invece che con Valentina."
+
+# game/day33.rpy:1281
+translate italian day33_v_sex_56ca903e:
+
+    # "{i}The singer doesn't even notice when you pull out your cock and lets herself be helped to the sofa, where she gets to enjoy the last stages of her orgasm."
+    "{i}La cantante non si accorge nemmeno quando tiri fuori il cazzo e si lascia aiutare a raggiungere il divano, dove può godersi le ultime fasi del suo orgasmo."
+
+# game/day33.rpy:1287
+translate italian day33_v_sex_d16e3da8:
+
+    # "{i}Your sister embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Tua sorella ti abbraccia e tu la baci appassionatamente, la sua figa umida si strofina contro la tua gamba."
+
+# game/day33.rpy:1289
+translate italian day33_v_sex_5914c6b2:
+
+    # "{i}Your girlfriend embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}La tua ragazza ti abbraccia e tu la baci appassionatamente, la sua figa umida si strofina contro la tua gamba."
+
+# game/day33.rpy:1291
+translate italian day33_v_sex_9a270917:
+
+    # p "That was some show you gave there."
+    p "Hai fatto un bello spettacolo."
+
+# game/day33.rpy:1292
+translate italian day33_v_sex_abacabd1:
+
+    # r "You liked it?"
+    r "Ti è piaciuto?"
+
+# game/day33.rpy:1293
+translate italian day33_v_sex_50da65e9:
+
+    # p "I sure did."
+    p "Certo che sì"
+
+# game/day33.rpy:1294
+translate italian day33_v_sex_b9d2aa00:
+
+    # p "Valentina too."
+    p "Anche Valentina"
+
+# game/day33.rpy:1295
+translate italian day33_v_sex_dcecbfef:
+
+    # r "Nice!"
+    r "Bello!"
+
+# game/day33.rpy:1296
+translate italian day33_v_sex_00f51342:
+
+    # p "I did have some trouble keeping it together though."
+    p "Ho avuto qualche problema a tenerlo insieme."
+
+# game/day33.rpy:1297
+translate italian day33_v_sex_d18906e1:
+
+    # r "Don't worry about that now."
+    r "Non preoccuparti di questo adesso."
+
+# game/day33.rpy:1299
+translate italian day33_v_sex_003579aa:
+
+    # "{i}After you sit down on the couch, [r_name] climbs on your lap, and together you guide your cock inside her wet tunnel."
+    "{i}Dopo esservi seduti sul divano [r_name] sale sulle vostre ginocchia e insieme guidate il vostro cazzo dentro il suo tunnel bagnato."
+
+# game/day33.rpy:1300
+translate italian day33_v_sex_0e191745:
+
+    # r "Oooooh [p_name]!"
+    r "Oooooh [p_name]!"
+
+# game/day33.rpy:1301
+translate italian day33_v_sex_61aef227:
+
+    # p "Can you go deeper, baby?"
+    p "Puoi andare più in profondità, tesoro?."
+
+# game/day33.rpy:1302
+translate italian day33_v_sex_f1daf558:
+
+    # r "I w-want to!"
+    r "Lo voglio!"
+
+# game/day33.rpy:1303
+translate italian day33_v_sex_9338afcc:
+
+    # r "Oh god!"
+    r "Oh Dio!"
+
+# game/day33.rpy:1304
+translate italian day33_v_sex_64f0ac46:
+
+    # "{i}Despite the frequency with which you've made love to [r_name], she still needs to adjust to your girth each time."
+    "{i}Nonostante la frequenza con cui hai fatto l'amore con [r_name], deve ancora adattarsi alla tua circonferenza ogni volta."
+
+# game/day33.rpy:1305
+translate italian day33_v_sex_415e760c:
+
+    # "{i}The girl lowers herself slowly onto your cock, luxuriating in the feeling your shaft gives as it bores inside her, inch by inch."
+    "{i}La ragazza si abbassa lentamente sul tuo cazzo, assaporando la sensazione che la tua asta dà quando entra dentro di lei, centimetro dopo centimetro."
+
+# game/day33.rpy:1310
+translate italian day33_v_sex_377b5990:
+
+    # "{i}When she's at the root, [r_name] starts to move up and down faster and faster."
+    "{i}Quando è alla radice [r_name] inizia a muoversi su e giù sempre più velocemente."
+
+# game/day33.rpy:1311
+translate italian day33_v_sex_ed2f7f52:
+
+    # "{i}You want to touch her everywhere, but your hands linger on her buttocks, her delicious cheeks bouncing on the rhythm of your fucking."
+    "{i}Vorresti toccarla dappertutto, ma le tue mani si soffermano sulle sue natiche, le sue deliziose guance che rimbalzano al ritmo della tua scopata."
+
+# game/day33.rpy:1313
+translate italian day33_v_sex_6e49843b:
+
+    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
+    "{i}Una Valentina esausta è ancora sdraiata sul divano e vi guarda con occhi incappucciati, anche se i primi gemiti di [r_name] sembrano far scattare di nuovo qualcosa dentro di lei."
+
+# game/day33.rpy:1320
+translate italian day33_v_sex_8d36a3d4:
+
+    # "{i}The singer moves from the couch and disappears from view, you don't know what she's doing until you see [r_name]'s eyes grow wide."
+    "{i}La cantante si sposta dal divano e scompare dalla vista, non si sa cosa stia facendo finché non si vedono gli occhi di [r_name] spalancarsi."
+
+# game/day33.rpy:1321
+translate italian day33_v_sex_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah!"
+
+# game/day33.rpy:1323
+translate italian day33_v_sex_644f6e44:
+
+    # va "Do you like my tongue up your ass, [r_name]?"
+    va "Ti piace la mia lingua nel tuo culo [r_name]?."
+
+# game/day33.rpy:1324
+translate italian day33_v_sex_f976f546:
+
+    # p "{i}(Wow, she did that?)"
+    p "{i}(Wow l'ha fatto?)"
+
+# game/day33.rpy:1325
+translate italian day33_v_sex_e2f54f04:
+
+    # r "Yes, yes I do!"
+    r "Sì, sì, sì, lo voglio!"
+
+# game/day33.rpy:1326
+translate italian day33_v_sex_5a95b7b5:
+
+    # p "{i}(And she likes it, great!)"
+    p "{i}(E le piace molto!)."
+
+# game/day33.rpy:1327
+translate italian day33_v_sex_a92ce422_1:
+
+    # va "Good."
+    va "Good"
+
+# game/day33.rpy:1330
+translate italian day33_v_sex_1de39f50:
+
+    # "{i}You continue to fuck your sister while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Continui a scopare tua sorella mentre i suoni umidi che provengono da tra le tue gambe ti dicono che Valentina alterna il sondaggio del culo di [r_name] alla leccata della sua fica."
+
+# game/day33.rpy:1332
+translate italian day33_v_sex_1df3bf98:
+
+    # "{i}You continue to fuck your girlfriend while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Continui a scopare la tua ragazza mentre i suoni umidi che provengono da tra le tue gambe ti dicono che Valentina si alterna a sondare il culo di [r_name] e a leccarle la fica."
+
+# game/day33.rpy:1333
+translate italian day33_v_sex_2d5f1493:
+
+    # va "Mmmmm, you taste so good, [r_name]!"
+    va "Mmmmm hai un sapore così buono [r_name]!."
+
+# game/day33.rpy:1334
+translate italian day33_v_sex_ebfc36d5:
+
+    # va "Are you [p_name]'s little anal slut?"
+    va "Sei la piccola troia anale di [p_name]?."
+
+# game/day33.rpy:1335
+translate italian day33_v_sex_365e911a:
+
+    # r "G-god..."
+    r "G-Dio"
+
+# game/day33.rpy:1336
+translate italian day33_v_sex_3db8b2f1:
+
+    # r "D-don't stop!!!"
+    r "Non fermarti!!!"
+
+# game/day33.rpy:1337
+translate italian day33_v_sex_197e5743:
+
+    # r "Y-yes! I'm his anal slut!"
+    r "S-sì! Sono la sua puttana anale!."
+
+# game/day33.rpy:1339
+translate italian day33_v_sex_ec9a579e:
+
+    # "{i}[r_name] holds you in a tight embrace that feels a little painful in its tightness, but you don't care as the feeling of your dick plunging into her ribbed depths compensates more than enough."
+    "{i}[r_name] ti stringe in un abbraccio che ti fa un po' male, ma non ti importa, perché la sensazione del tuo cazzo che affonda nelle sue profondità scanalate compensa più che a sufficienza."
+
+# game/day33.rpy:1340
+translate italian day33_v_sex_3ec55a3a:
+
+    # "{i}It's becoming harder and harder to hold off your orgasm, especially since Valentina has turned her attention to licking your balls and parts of your shaft that are exposed when you begin each thrust inside [r_name]'s pussy."
+    "{i}Sta diventando sempre più difficile trattenere il tuo orgasmo, soprattutto da quando Valentina ha rivolto la sua attenzione a leccare le tue palle e le parti della tua asta che sono esposte quando inizi ogni spinta dentro la figa di [r_name]."
+
+# game/day33.rpy:1347
+translate italian day33_v_sex_b57c5774:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Sollevi [r_name] dal tuo cazzo e ti alzi dal divano sfiorando la testa vogliosa di Valentina."
+
+# game/day33.rpy:1348
+translate italian day33_v_sex_e1c2eb60:
+
+    # p "Ladies, can you both make me cum?"
+    p "Signore, potete farmi sborrare entrambe?."
+
+# game/day33.rpy:1349
+translate italian day33_v_sex_84389455:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Penso che potremmo avere ragione di [r_name]?."
+
+# game/day33.rpy:1354
+translate italian day33_v_sex_4741a1d0:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Le ragazze si inginocchiano davanti a te e afferrano il tuo cazzo e a turno lo leccano e lo succhiano."
+
+# game/day33.rpy:1355
+translate italian day33_v_sex_0e162753:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm sento il tuo sapore [r_name]!."
+
+# game/day33.rpy:1356
+translate italian day33_v_sex_902b0b61:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] ha occhi solo per te i suoi grandi occhi verdi vogliono farti venire."
+
+# game/day33.rpy:1365
+translate italian day33_v_sex_6ea22416:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your sister."
+    "{i}In quel momento perdi completamente la testa e con la sola forza di volontà riesci ad afferrare il tuo cazzo e a dirigerlo verso le bocche aperte di Valentina e di tua sorella."
+
+# game/day33.rpy:1367
+translate italian day33_v_sex_8a7b3429:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
+    "{i}In quel momento perdi completamente la testa e con la sola forza di volontà riesci ad afferrare il tuo cazzo e a dirigerlo verso le bocche aperte di Valentina e della tua ragazza."
+
+# game/day33.rpy:1368
+translate italian day33_v_sex_49da5a30:
+
+    # "{i}Thick strands of semen soon cover their faces, the cum that enters their mouths is swallowed eagerly by both girls."
+    "{i}Fitte ciocche di sperma ricoprono presto i loro volti, lo sperma che entra nelle loro bocche viene ingoiato avidamente da entrambe le ragazze."
+
+# game/day33.rpy:1378
+translate italian day33_v_sex_b57c5774_1:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Sollevi [r_name] dal tuo cazzo e ti alzi dal divano sfiorando la testa vogliosa di Valentina."
+
+# game/day33.rpy:1379
+translate italian day33_v_sex_e1c2eb60_1:
+
+    # p "Ladies, can you both make me cum?"
+    p "Signore, potete farmi sborrare entrambe?."
+
+# game/day33.rpy:1380
+translate italian day33_v_sex_84389455_1:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Penso che potremmo avere ragione di [r_name]?."
+
+# game/day33.rpy:1385
+translate italian day33_v_sex_4741a1d0_1:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Le ragazze si inginocchiano davanti a te e afferrano il tuo cazzo e a turno lo leccano e lo succhiano."
+
+# game/day33.rpy:1386
+translate italian day33_v_sex_0e162753_1:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm sento il tuo sapore [r_name]!."
+
+# game/day33.rpy:1387
+translate italian day33_v_sex_902b0b61_1:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] ha occhi solo per te i suoi grandi occhi verdi vogliono farti venire."
+
+# game/day33.rpy:1396
+translate italian day33_v_sex_b2f23c99:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your sister."
+    "{i}In quel momento perdi completamente la testa e con la sola forza di volontà riesci ad afferrare il tuo cazzo e a dirigerlo verso i petti eretti di Valentina e di tua sorella."
+
+# game/day33.rpy:1398
+translate italian day33_v_sex_2e61abc1:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
+    "{i}In quel momento perdi completamente la testa e con la sola forza di volontà riesci ad afferrare il tuo cazzo e a dirigerlo verso i petti eretti di Valentina e della tua ragazza."
+
+# game/day33.rpy:1399
+translate italian day33_v_sex_2274da4f:
+
+    # "{i}Thick strands of semen soon cover their breasts leaking down their bellies."
+    "{i}Spessi fili di sperma ricoprono presto i loro seni colando lungo i loro ventri."
+
+# game/day33.rpy:1413
+translate italian day33_v_sex_0be19e5f:
+
+    # "{i}Despite your nearing orgasm and fucking your sister, you want to feel how it is to unload inside Valentina."
+    "{i}Nonostante tu stia per raggiungere l'orgasmo e stia scopando con tua sorella, vuoi sentire come si scarica dentro Valentina."
+
+# game/day33.rpy:1415
+translate italian day33_v_sex_a92aad23:
+
+    # "{i}Despite your nearing orgasm and fucking your girlfriend, you want to feel how it is to unload inside Valentina."
+    "{i}Nonostante tu sia vicino all'orgasmo e stia scopando con la tua ragazza, vuoi sentire come si scarica dentro Valentina."
+
+# game/day33.rpy:1416
+translate italian day33_v_sex_3f709208:
+
+    # p "Come sit on my lap Valentina."
+    p "Vieni a sederti sulle mie ginocchia Valentina"
+
+# game/day33.rpy:1422
+translate italian day33_v_sex_7152a713:
+
+    # "{i}Valentina switches places with [r_name], and you immediately start pounding the singer hard and fast."
+    "{i}Valentina si scambia il posto con [r_name] e tu cominci subito a stuzzicare la cantante con forza e velocità."
+
+# game/day33.rpy:1423
+translate italian day33_v_sex_3a05466d:
+
+    # p "I'm going to cum inside you."
+    p "Sto per sborrare dentro di te."
+
+# game/day33.rpy:1424
+translate italian day33_v_sex_0f5e5946:
+
+    # va "S-shoot me up with all that cum of yours?"
+    va "Mi spari con tutta la tua sborra?."
+
+# game/day33.rpy:1425
+translate italian day33_v_sex_ffe3e255:
+
+    # p "Exactly."
+    p "Esattamente"
+
+# game/day33.rpy:1426
+translate italian day33_v_sex_65d92875:
+
+    # va "D-don't stop then!"
+    va "Non fermarti allora!."
+
+# game/day33.rpy:1433
+translate italian day33_v_sex_bb53698e:
+
+    # "{i}Her last words usher in a climax that's so powerful you push yourself in the air, lifting Valentina's body and burying your cock balls deep inside her gash."
+    "{i}Le sue ultime parole scatenano un climax così potente che ti spingi in aria sollevando il corpo di Valentina e seppellendo il tuo cazzo dentro il suo buco."
+
+# game/day33.rpy:1434
+translate italian day33_v_sex_42ed5749:
+
+    # "{i}At that moment, you release a flow of warm semen, holding Valentina very tightly."
+    "{i}In quel momento rilasci un flusso di sperma caldo tenendo Valentina molto stretta."
+
+# game/day33.rpy:1437
+translate italian day33_v_sex_3e0c2fdb:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Rimani dentro di lei fino a quando le ultime gocce di sperma sono uscite dalla tua testa pulsante Quando tiri fuori lo sperma fuoriesce dalla vagina della ragazza."
+
+# game/day33.rpy:1449
+translate italian day33_v_sex_70622176:
+
+    # "{i}Fucking your sister is more than enough for you, and you just want her to receive your load."
+    "{i}Scopare tua sorella è più che sufficiente per te e vuoi solo che lei riceva il tuo carico."
+
+# game/day33.rpy:1451
+translate italian day33_v_sex_e0516e90:
+
+    # "{i}Fucking your girlfriend is more than enough for you, and you just want her to receive your load."
+    "{i}Scopare la tua ragazza è più che sufficiente per te e vuoi solo che lei riceva il tuo carico."
+
+# game/day33.rpy:1460
+translate italian day33_v_sex_80530500:
+
+    # "{i}The thought of coming inside her ushers in a climax that's so powerful you push yourself in the air, lifting [r_name]'s body and burying your cock balls deep inside her gash."
+    "{i}Il pensiero di venire dentro di lei provoca un climax così potente che ti spingi in aria sollevando il corpo di [r_name] e seppellendo il tuo cazzo fino in fondo al suo buco."
+
+# game/day33.rpy:1462
+translate italian day33_v_sex_537bc169:
+
+    # "{i}At that moment, you release a flow of warm semen, holding your sister very tightly."
+    "{i}In quel momento rilasci un flusso di sperma caldo tenendo tua sorella molto stretta."
+
+# game/day33.rpy:1464
+translate italian day33_v_sex_82eff079:
+
+    # "{i}At that moment, you release a flow of warm semen, holding [r_name] very tightly."
+    "{i}In quel momento rilasci un flusso di sperma caldo tenendo [r_name] molto stretto."
+
+# game/day33.rpy:1466
+translate italian day33_v_sex_3e0c2fdb_1:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Rimani dentro di lei fino a quando le ultime gocce di sperma sono uscite dalla tua testa pulsante Quando tiri fuori lo sperma fuoriesce dalla vagina della ragazza."
+
+# game/day33.rpy:1481
+translate italian day33_v_sex_543fc63b:
+
+    # "{i}Valentina retires on the couch, from where she regards you with a debauched smile."
+    "{i}Valentina si ritira sul divano da dove ti guarda con un sorriso dissoluto."
+
+# game/day33.rpy:1482
+translate italian day33_v_sex_3a5eab2d:
+
+    # va "Now, that's what I call unwinding."
+    va "Questo è ciò che chiamo rilassarsi."
+
+# game/day33.rpy:1483
+translate italian day33_v_sex_a810e656:
+
+    # p "Are you satisfied, Miss Glorious?"
+    p "È soddisfatta, signorina Gloriosa?."
+
+# game/day33.rpy:1484
+translate italian day33_v_sex_e8ff0f7f:
+
+    # va "Very."
+    va "Very"
+
+# game/day33.rpy:1485
+translate italian day33_v_sex_6c4580be:
+
+    # va "I think this redefines the term 'fan-fuck' completely."
+    va "Penso che questo ridefinisca completamente il termine 'fan-fuck'."
+
+# game/day33.rpy:1486
+translate italian day33_v_sex_49279719:
+
+    # p "It sure beats getting an autograph."
+    p "È sicuramente meglio che ottenere un autografo."
+
+# game/day33.rpy:1488
+translate italian day33_v_sex_5a9e6999:
+
+    # r "Er, I'd still like one..."
+    r "Ne vorrei comunque uno."
+
+# game/day33.rpy:1489
+translate italian day33_v_sex_ff4d5505:
+
+    # va "Sure thing."
+    va "Certo"
+
+# game/day33.rpy:1490
+translate italian day33_v_sex_4a456b62:
+
+    # va "Do you have a pen?"
+    va "Hai una penna?"
+
+# game/day33.rpy:1491
+translate italian day33_v_sex_2049d4cc:
+
+    # va "Or I could write it using [p_name]'s sperm if you like."
+    va "Oppure posso scriverlo usando lo sperma di [p_name], se volete."
+
+# game/day33.rpy:1493
+translate italian day33_v_sex_b9dfa25d:
+
+    # r "Everything is inside of me..."
+    r "Tutto è dentro di me"
+
+# game/day33.rpy:1495
+translate italian day33_v_sex_082bd86d:
+
+    # r "He shot everything inside of you..."
+    r "Ha sparato a tutto quello che c'era dentro di te"
+
+# game/day33.rpy:1497
+translate italian day33_v_sex_9ce6d9ee:
+
+    # r "It's all dried up, I'm afraid."
+    r "Temo che si sia tutto prosciugato."
+
+# game/day33.rpy:1498
+translate italian day33_v_sex_9989982b:
+
+    # va "Damn, a pen it is."
+    va "Dannata penna sia"
+
+# game/day33.rpy:1500
+translate italian day33_v_sex_72b317e3:
+
+    # "{i}After Valentina signs both your concert tickets, she lies down on the sofa again and closes her eyes."
+    "{i}Dopo che Valentina ha firmato entrambi i biglietti del concerto, si sdraia di nuovo sul divano e chiude gli occhi."
+
+# game/day33.rpy:1501
+translate italian day33_v_sex_3f9c2288:
+
+    # va "This was really fun, but I'm sure security will come looking for me after a while, so you'd better leave before that."
+    va "È stato molto divertente, ma sono sicuro che la sicurezza verrà a cercarmi dopo un po', quindi è meglio che ve ne andiate prima."
+
+# game/day33.rpy:1502
+translate italian day33_v_sex_bcf2746d:
+
+    # "{i}You pick up your clothes and dress yourself, while Valentina is still lying on the couch."
+    "{i}Raccogli i tuoi vestiti e vestiti da solo mentre Valentina è ancora sdraiata sul divano."
+
+# game/day33.rpy:1503
+translate italian day33_v_sex_fcbf1503:
+
+    # r "Goodbye."
+    r "Goodbye"
+
+# game/day33.rpy:1504
+translate italian day33_v_sex_c236b676:
+
+    # p "Bye, Valentina."
+    p "Ciao Valentina"
+
+# game/day33.rpy:1506
+translate italian day33_v_sex_e35b554b:
+
+    # va "Take care, lovebirds!"
+    va "Abbiate cura dei piccioncini!."
+
+# game/day33.rpy:1507
+translate italian day33_v_sex_0b11a4c7:
+
+    # va "If you're ever at a concert of mine, just get naked in one of the dressing rooms, and I'll come find you."
+    va "Se mai dovessi andare a un mio concerto, spogliati in uno dei camerini e verrò a cercarti."
+
+# game/day33.rpy:1508
+translate italian day33_v_sex_52d289d8:
+
+    # r "Haha, sure!"
+    r "Certo!"
+
+# game/day33.rpy:1509
+translate italian day33_v_sex_13d10d30:
+
+    # "{i}You both leave Valentina and sneak out into the deserted hallway."
+    "{i}Lasciate Valentina e sgattaiolate nel corridoio deserto."
+
+# game/day33.rpy:1523
+translate italian day33_l_licking_aefcedc9:
+
+    # "{i}[l_name] sighs in relief and slips out of her bra and panties."
+    "{i}[l_name] tira un sospiro di sollievo e si sfila il reggiseno e le mutandine."
+
+# game/day33.rpy:1524
+translate italian day33_l_licking_c483f160:
+
+    # l "I'm ready."
+    l "Sono pronto"
+
+# game/day33.rpy:1525
+translate italian day33_l_licking_a9db017a:
+
+    # l "Don't hold back."
+    l "Non trattenerti"
+
+# game/day33.rpy:1526
+translate italian day33_l_licking_cc2617ba:
+
+    # l "I really want this."
+    l "Lo voglio davvero"
+
+# game/day33.rpy:1532
+translate italian day33_l_licking_8c2701f1:
+
+    # "{i}That statement alone makes your cock rock-hard, and you attempt to ignore it by turning your attention to [l_name]'s breasts."
+    "{i}Questa affermazione da sola ti fa diventare l'uccello duro come una roccia e cerchi di ignorarla rivolgendo la tua attenzione al seno di [l_name]."
+
+# game/day33.rpy:1533
+translate italian day33_l_licking_e223cfdd:
+
+    # l "Oh! I like it so much when you do that."
+    l "Oh! Mi piace così tanto quando lo fai."
+
+# game/day33.rpy:1536
+translate italian day33_l_licking_21fea5ba:
+
+    # "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
+    "{i}I suoi capezzoli sono presto ricoperti da un'abbondante quantità di saliva mentre li lecchi e li succhi."
+
+# game/day33.rpy:1537
+translate italian day33_l_licking_013191b8:
+
+    # "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
+    "{i}[l_name] si tocca e geme un po' più forte ad ogni carezza della tua bocca."
+
+# game/day33.rpy:1539
+translate italian day33_l_licking_6858d52b:
+
+    # "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
+    "{i}Mentre [l_name] si occupa di massaggiare i suoi seni, scendete verso il suo sesso, soffermandovi sulla zona sensibile dell'ombelico."
+
+# game/day33.rpy:1540
+translate italian day33_l_licking_d185372a:
+
+    # l "Are y-you... are you going to use your tongue?"
+    l "Hai intenzione di usare la lingua?."
+
+# game/day33.rpy:1541
+translate italian day33_l_licking_115982f8:
+
+    # p "Maybe..."
+    p "Forse"
+
+# game/day33.rpy:1542
+translate italian day33_l_licking_cba9ca70:
+
+    # p "Just wait and see..."
+    p "Aspetta e vedrai"
+
+# game/day33.rpy:1543
+translate italian day33_l_licking_77e00a8f:
+
+    # l "I'm really wet down there already."
+    l "Sono già molto bagnato lì sotto."
+
+# game/day33.rpy:1544
+translate italian day33_l_licking_980d3dc7:
+
+    # p "So? The wetter, the better."
+    p "Allora? Più bagnato è meglio è."
+
+# game/day33.rpy:1546
+translate italian day33_l_licking_6c88ddfd:
+
+    # "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
+    "{i}Le divarichi le gambe e metti alla prova le sue pretese premendo la punta della lingua contro le sue labbra, provocando un brivido nel corpo di [l_name]."
+
+# game/day33.rpy:1548
+translate italian day33_l_licking_c0c4b7da:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
+    "{i}La sensazione umida del sale e del profumo rafforza la tua determinazione a regalare a tua sorella il miglior orgasmo della sua vita."
+
+# game/day33.rpy:1550
+translate italian day33_l_licking_60a4a4db:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
+    "{i}La sensazione umida del sale e del profumo rafforza la vostra determinazione a regalare alla vostra amica il miglior orgasmo della sua vita."
+
+# game/day33.rpy:1551
+translate italian day33_l_licking_1de5cddf:
+
+    # l "Oh! That w-wasn't in those videos!"
+    l "Oh! Questo non c'era in quei video!"
+
+# game/day33.rpy:1552
+translate italian day33_l_licking_cd6c7564:
+
+    # p "{i}(So she has watched porn, little liar!)"
+    p "{i}(Quindi ha guardato il porno piccolo bugiardo!)."
+
+# game/day33.rpy:1553
+translate italian day33_l_licking_0fa76638:
+
+    # l "B-but don't stop!"
+    l "Ma non fermarti!."
+
+# game/day33.rpy:1555
+translate italian day33_l_licking_ee27b8e5:
+
+    # "{i}[l_name] tousles your hair as you begin to lick her pussy."
+    "{i}[l_name] ti scompiglia i capelli mentre inizi a leccarle la figa."
+
+# game/day33.rpy:1556
+translate italian day33_l_licking_adb09cbf:
+
+    # "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
+    "{i}Sei meno delicato di prima anche se lecchi e succhi le sue labbra e la spingi sempre più al limite."
+
+# game/day33.rpy:1560
+translate italian day33_l_licking_3563fed8:
+
+    # "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
+    "{i}Dal suo respiro pesante si capisce che è vicina all'orgasmo, quindi ci si ferma."
+
+# game/day33.rpy:1562
+translate italian day33_l_licking_3ed9fc10:
+
+    # l "Wuh, why did you stop?"
+    l "Wuh perché ti sei fermato?"
+
+# game/day33.rpy:1563
+translate italian day33_l_licking_b52a6030:
+
+    # p "Sssh, I know what I'm doing."
+    p "Sssh so cosa sto facendo."
+
+# game/day33.rpy:1565
+translate italian day33_l_licking_7fadb4f3:
+
+    # "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
+    "{i}Soffocando ogni protesta con un bacio appassionato [l_name] si arrende e si lascia trattare da te."
+
+# game/day33.rpy:1566
+translate italian day33_l_licking_a2883af2:
+
+    # "{i}When her body has entered a more relaxed state, you go down on her again."
+    "{i}Quando il suo corpo è entrato in uno stato più rilassato, scendete di nuovo su di lei."
+
+# game/day33.rpy:1572
+translate italian day33_l_licking_bdd0fd5f:
+
+    # l "Aaah! T-that s-so intense!"
+    l "Aaah! È stato così intenso!."
+
+# game/day33.rpy:1573
+translate italian day33_l_licking_fbd664ee:
+
+    # "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
+    "{i}Con qualche colpo di lingua ben assestato l'avrete pronta in pochi istanti, con la vagina cremosa dei suoi succhi."
+
+# game/day33.rpy:1574
+translate italian day33_l_licking_c4a2c2f2:
+
+    # "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
+    "{i}Proprio al limite ti strappi dalle sue mani con cui cerca di spingerti più vicino a lei e smetti di leccarla di nuovo."
+
+# game/day33.rpy:1575
+translate italian day33_l_licking_da5ade18:
+
+    # l "No!"
+    l "No!"
+
+# game/day33.rpy:1580
+translate italian day33_l_licking_67984514:
+
+    # "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
+    "{i}Dopo aver baciato la sua agonia, toccate la sua figa umida con le dita e ne infilate una dentro."
+
+# game/day33.rpy:1581
+translate italian day33_l_licking_06b222aa:
+
+    # "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
+    "{i}Mentre lei ansima per adattarsi all'improvvisa penetrazione, tu infili un altro dito dentro di lei."
+
+# game/day33.rpy:1583
+translate italian day33_l_licking_2d489eb2:
+
+    # "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
+    "{i}Permettendole di familiarizzare con la sensazione di guardare profondamente negli occhi."
+
+# game/day33.rpy:1584
+translate italian day33_l_licking_7bd07015:
+
+    # "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
+    "{i}Quando vedi il lampo di accettazione sul suo viso, agganci le dita dentro di lei e inizi a penetrarla con brevi spinte."
+
+# game/day33.rpy:1587
+translate italian day33_l_licking_22dc2071:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen, you know you've struck gold."
+    "{i}Ci vuole un attimo per trovare il punto giusto, ma quando vedi gli occhi di tua sorella allargarsi sai che hai trovato l'oro."
+
+# game/day33.rpy:1589
+translate italian day33_l_licking_71f6c75f:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen, you know you've struck gold."
+    "{i}Ci vuole un attimo per trovare il punto giusto, ma quando vedi gli occhi del tuo amico allargarsi sai che hai trovato l'oro."
+
+# game/day33.rpy:1590
+translate italian day33_l_licking_978434aa:
+
+    # "{i}[l_name] begins to shudder uncontrollably, and at one point even attempts to remove your hand momentarily before pressing your fingers even deeper inside her."
+    "{i}[l_name] inizia a tremare in modo incontrollato e a un certo punto tenta persino di togliere momentaneamente la mano prima di premere le dita ancora più a fondo dentro di lei."
+
+# game/day33.rpy:1591
+translate italian day33_l_licking_9f7293f5:
+
+    # "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
+    "{i}Quando ogni muscolo del corpo della ragazza inizia a contrarsi, è arrivato il momento della verità."
+
+# game/day33.rpy:1592
+translate italian day33_l_licking_ec807b08:
+
+    # l "I-it... a-aaah..."
+    l "I-it a-aaah..."
+
+# game/day33.rpy:1594
+translate italian day33_l_licking_c7b2c2f9:
+
+    # "{i}White cream is slathered all over her pussy and thighs, and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
+    "{i}La crema bianca è spalmata su tutta la figa e le cosce e le tue dita emettono quei caratteristici suoni umidi che associ sempre a una valanga di squirt in arrivo."
+
+# game/day33.rpy:1595
+translate italian day33_l_licking_500b03cb:
+
+    # l "I-have to... p-pee..."
+    l "Devo fare la pipì."
+
+# game/day33.rpy:1606
+translate italian day33_l_licking_9546d3ca:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
+    "{i}Le convulsioni della sua vagina costringono le tue dita a uscire e vengono successivamente spruzzate con l'eiaculato di tua sorella."
+
+# game/day33.rpy:1608
+translate italian day33_l_licking_9cb122f0:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
+    "{i}Le convulsioni della sua vagina costringono le tue dita a uscire e vengono successivamente spruzzate con l'eiaculato della tua ragazza."
+
+# game/day33.rpy:1609
+translate italian day33_l_licking_434e914b:
+
+    # "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
+    "{i}[l_name] normalmente così riservato ruggisce di piacere mentre si scuote e rabbrividisce rilasciando ancora del liquido sulle lenzuola"
+
+# game/day33.rpy:1615
+translate italian day33_l_licking_5ebbfd58:
+
+    # "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Tua sorella continua a stringerti in uno stretto abbraccio emettendo sospiri di sollievo e tremando involontariamente a intervalli irregolari."
+
+# game/day33.rpy:1617
+translate italian day33_l_licking_d9822a5e:
+
+    # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Il vostro amico continua a stringervi in uno stretto abbraccio emettendo sospiri di sollievo e tremando involontariamente a intervalli irregolari."
+
+# game/day33.rpy:1618
+translate italian day33_l_licking_619ac3f5:
+
+    # p "I think that's proof enough."
+    p "Penso che sia una prova sufficiente."
+
+# game/day33.rpy:1623
+translate italian day33_l_licking_4caf62cc:
+
+    # l "Wow."
+    l "Wow"
+
+# game/day33.rpy:1624
+translate italian day33_l_licking_a4bf1c05:
+
+    # l "I can still feel it."
+    l "riesco ancora a sentirlo."
+
+# game/day33.rpy:1625
+translate italian day33_l_licking_5c82d382:
+
+    # l "I've never felt something so intense in my life."
+    l "Non ho mai provato qualcosa di così intenso in vita mia."
+
+# game/day33.rpy:1626
+translate italian day33_l_licking_d38a1c27:
+
+    # l "It was scary and wonderful at the same time."
+    l "È stato spaventoso e meraviglioso allo stesso tempo."
+
+# game/day33.rpy:1627
+translate italian day33_l_licking_16603430:
+
+    # p "You were beautiful."
+    p "Eri bellissima"
+
+# game/day33.rpy:1628
+translate italian day33_l_licking_ef606a57:
+
+    # l "You made me lose control and I just didn't care."
+    l "Mi hai fatto perdere il controllo e non mi importava."
+
+# game/day33.rpy:1629
+translate italian day33_l_licking_1eb9828c:
+
+    # l "I wanted you to go on... forever..."
+    l "Volevo che tu continuassi per sempre."
+
+# game/day33.rpy:1630
+translate italian day33_l_licking_7ddd1c86:
+
+    # l "And then it came... I thought I..."
+    l "E poi è arrivato il pensiero."
+
+# game/day33.rpy:1632
+translate italian day33_l_licking_4caf62cc_1:
+
+    # l "Wow."
+    l "Wow"
+
+# game/day33.rpy:1633
+translate italian day33_l_licking_cf3e8835:
+
+    # p "I'm proud of you."
+    p "Sono orgoglioso di te"
+
+# game/day33.rpy:1634
+translate italian day33_l_licking_8179b31a:
+
+    # l "I love you."
+    l "Ti amo"
+
+# game/day33.rpy:1635
+translate italian day33_l_licking_3c07dcc8:
+
+    # p "I love you too, [l_name], ever more each day."
+    p "Anch'io ti amo [l_name] ogni giorno di più."
+

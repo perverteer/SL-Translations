@@ -4409,3 +4409,1043 @@ translate italian day34_ri_shop_18bbe84a:
 
     # p "But I'm much happier to see you relatively unharmed."
     p "Ma sono molto più felice di vederti relativamente illeso."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day34.rpy:949
+translate italian day34_b_blowjob_hard_68cb742c:
+
+    # p "{i}(Look at that glorious ass.)"
+    p "{i}(Guardate quel glorioso culo)"
+
+# game/day34.rpy:953
+translate italian day34_b_blowjob_hard_d6b5d8d9:
+
+    # b "How long have you been staring there, creep?"
+    b "Da quanto tempo stai fissando quel verme?."
+
+# game/day34.rpy:954
+translate italian day34_b_blowjob_hard_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Solo un paio d'ore"
+
+# game/day34.rpy:955
+translate italian day34_b_blowjob_hard_c0bf7ea1:
+
+    # b "Go away."
+    b "Vattene"
+
+# game/day34.rpy:956
+translate italian day34_b_blowjob_hard_b4f81831:
+
+    # p "No, spin around for me."
+    p "Per me niente giri di parole."
+
+# game/day34.rpy:962
+translate italian day34_b_blowjob_hard_d0b20184:
+
+    # b "Satisfied?"
+    b "Soddisfatto?"
+
+# game/day34.rpy:963
+translate italian day34_b_blowjob_hard_2b5f4d50:
+
+    # p "A little."
+    p "Un po'"
+
+# game/day34.rpy:964
+translate italian day34_b_blowjob_hard_9878f1cc:
+
+    # p "You look fantastic in this, you know that?"
+    p "Ti sta benissimo, lo sai?."
+
+# game/day34.rpy:965
+translate italian day34_b_blowjob_hard_4227e895:
+
+    # b "I'm sure I look great, now leave."
+    b "Sono sicuro di avere un aspetto magnifico adesso, andate via."
+
+# game/day34.rpy:966
+translate italian day34_b_blowjob_hard_6b303226:
+
+    # p "We're going shopping tomorrow, you and I."
+    p "Domani andiamo a fare shopping io e te."
+
+# game/day34.rpy:968
+translate italian day34_b_blowjob_hard_1871783f:
+
+    # b "What, why?"
+    b "Perché?"
+
+# game/day34.rpy:969
+translate italian day34_b_blowjob_hard_b402c11d:
+
+    # p "Because I want to give you some nice lingerie."
+    p "Perché voglio regalarti della bella lingerie."
+
+# game/day34.rpy:970
+translate italian day34_b_blowjob_hard_60478538:
+
+    # b "I have underwear."
+    b "Ho la biancheria intima"
+
+# game/day34.rpy:971
+translate italian day34_b_blowjob_hard_68520e5c:
+
+    # p "I'll get you more."
+    p "Te ne darò di più"
+
+# game/day34.rpy:972
+translate italian day34_b_blowjob_hard_32625464:
+
+    # b "I don't..."
+    b "Non"
+
+# game/day34.rpy:973
+translate italian day34_b_blowjob_hard_df7483f5:
+
+    # p "Now you're going to say thanks and suck my cock."
+    p "Ora mi ringrazierai e mi succhierai il cazzo."
+
+# game/day34.rpy:975
+translate italian day34_b_blowjob_hard_eadf9810:
+
+    # b "What?!"
+    b "Cosa?!"
+
+# game/day34.rpy:976
+translate italian day34_b_blowjob_hard_73bb7de1:
+
+    # p "You're going to get on your knees."
+    p "Ti metterai in ginocchio."
+
+# game/day34.rpy:978
+translate italian day34_b_blowjob_hard_733e331e:
+
+    # p "And you'll undress me."
+    p "E tu mi spoglierai."
+
+# game/day34.rpy:983
+translate italian day34_b_blowjob_hard_61031477:
+
+    # p "Next, you'll make me hard."
+    p "La prossima volta me lo farai diventare duro."
+
+# game/day34.rpy:985
+translate italian day34_b_blowjob_hard_8018ec82:
+
+    # p "Stroking my hard cock with your hands."
+    p "Accarezzare il mio cazzo duro con le mani."
+
+# game/day34.rpy:986
+translate italian day34_b_blowjob_hard_0a337613:
+
+    # p "That's it, good girl."
+    p "Così, brava ragazza"
+
+# game/day34.rpy:992
+translate italian day34_b_blowjob_hard_32ab4328:
+
+    # p "Now lick the head."
+    p "Ora lecca la testa"
+
+# game/day34.rpy:993
+translate italian day34_b_blowjob_hard_64ac36ae:
+
+    # p "Make it all nice and wet."
+    p "Rendete tutto bello e bagnato"
+
+# game/day34.rpy:994
+translate italian day34_b_blowjob_hard_1e09f0b9:
+
+    # p "Good, now take it in your mouth and blow me."
+    p "Bene, ora prendilo in bocca e fammi un pompino."
+
+# game/day34.rpy:1001
+translate italian day34_b_blowjob_hard_a123ea2c:
+
+    # "{i}Your sister obediently puts your cock in her mouth and starts to suck."
+    "{i}Tua sorella mette obbedientemente il tuo cazzo in bocca e inizia a succhiare."
+
+# game/day34.rpy:1003
+translate italian day34_b_blowjob_hard_5effce97:
+
+    # "{i}Your girl obediently puts your cock in her mouth and starts to suck."
+    "{i}La tua ragazza mette obbedientemente il tuo cazzo in bocca e inizia a succhiare."
+
+# game/day34.rpy:1004
+translate italian day34_b_blowjob_hard_a1a9f244:
+
+    # "{i}Enjoying the feeling of her warm mouth, you're silent for a while."
+    "{i}Godendo della sensazione della sua bocca calda, rimani in silenzio per un po'."
+
+# game/day34.rpy:1006
+translate italian day34_b_blowjob_hard_099d567d:
+
+    # "{i}You're amazed by the intensity with which she's sucking you off, and you're unable to last for very long."
+    "{i}Sei stupito dall'intensità con cui ti sta succhiando e non riesci a resistere a lungo."
+
+# game/day34.rpy:1008
+translate italian day34_b_blowjob_hard_7d1c8eb1:
+
+    # p "Fuck [b_name]! Aaah!"
+    p "Cazzo [b_name]! Aaah!"
+
+# game/day34.rpy:1012
+translate italian day34_b_blowjob_hard_4e04842b:
+
+    # p "K-k-keep it in your mouth!"
+    p "K-k-tienilo in bocca!."
+
+# game/day34.rpy:1013
+translate italian day34_b_blowjob_hard_3c0a473a:
+
+    # p "D-don't y-you dare stop!"
+    p "Non osate fermarvi!."
+
+# game/day34.rpy:1014
+translate italian day34_b_blowjob_hard_50bbcd73:
+
+    # "{i}Grim-faced, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Il [b_name] con la faccia truce continua a farti la testa e non si ferma quando la tua sborra inizia a scorrere."
+
+# game/day34.rpy:1017
+translate italian day34_b_blowjob_hard_fbb71cb4:
+
+    # "{i}You make her stop briefly to allow you to cream her mouth."
+    "{i}La fai fermare brevemente per permetterti di riempirle la bocca di crema."
+
+# game/day34.rpy:1018
+translate italian day34_b_blowjob_hard_3830744e:
+
+    # p "Now be a good little girl and swallow it."
+    p "Ora fai la brava bambina e ingoialo."
+
+# game/day34.rpy:1023
+translate italian day34_b_blowjob_hard_a5e5ca6a:
+
+    # "{i}Looking at you with piercing eyes, your sister swallows your entire load."
+    "{i}Guardandoti con occhi penetranti, tua sorella inghiotte tutto il tuo carico."
+
+# game/day34.rpy:1025
+translate italian day34_b_blowjob_hard_ecd95d63:
+
+    # "{i}Looking at you with piercing eyes, your girl swallows your entire load."
+    "{i}Guardandoti con occhi penetranti, la tua ragazza inghiotte tutto il tuo carico."
+
+# game/day34.rpy:1026
+translate italian day34_b_blowjob_hard_8353f083:
+
+    # "{i}When she's all done, you pull her closer to you and have her rest on your chest."
+    "{i}Quando ha finito, la avvicini a te e la fai riposare sul tuo petto."
+
+# game/day34.rpy:1037
+translate italian day34_b_blowjob_hard_970769f2:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, you make her pull out your cock and have it directed at her face."
+    "{i}Notando i segnali rivelatori che sei vicino all'orgasmo, le fai tirare fuori il tuo cazzo e glielo fai puntare in faccia."
+
+# game/day34.rpy:1043
+translate italian day34_b_blowjob_hard_02b699c5:
+
+    # "{i}As she holds your cock it begins to shoot thick strands of cum, pasting her face with warm seed."
+    "{i}Mentre lei stringe il tuo cazzo, questo comincia a sparare spessi filamenti di sperma che le imbrattano il viso di caldo seme."
+
+# game/day34.rpy:1045
+translate italian day34_b_blowjob_hard_9b054faf:
+
+    # b "Goddamnit, I just did my make-up."
+    b "Maledizione, mi sono appena truccata."
+
+# game/day34.rpy:1046
+translate italian day34_b_blowjob_hard_567e1dc4:
+
+    # p "This looks good on you too."
+    p "Questo sta bene anche a te."
+
+# game/day34.rpy:1047
+translate italian day34_b_blowjob_hard_efe857be:
+
+    # b "Fuck you."
+    b "Vaffanculo"
+
+# game/day34.rpy:1048
+translate italian day34_b_blowjob_hard_8c74f50b:
+
+    # "{i}After [b_name] cleans herself up somewhat you pull her closer to you and have her rest on your chest."
+    "{i}Dopo che [b_name] si è pulita un po', la avvicini a te e la fai riposare sul tuo petto."
+
+# game/day34.rpy:1056
+translate italian day34_b_blowjob_hard_0f34104f:
+
+    # b "Thank you."
+    b "Grazie"
+
+# game/day34.rpy:1057
+translate italian day34_b_blowjob_hard_1b640dae:
+
+    # p "What?"
+    p "Cosa?"
+
+# game/day34.rpy:1058
+translate italian day34_b_blowjob_hard_7d6ce687:
+
+    # b "You told me to blow you and say thank you."
+    b "Mi hai detto di farti un pompino e di ringraziarti."
+
+# game/day34.rpy:1059
+translate italian day34_b_blowjob_hard_a79c6a6a:
+
+    # b "I just did both."
+    b "Ho appena fatto entrambe le cose"
+
+# game/day34.rpy:1060
+translate italian day34_b_blowjob_hard_874fdd89:
+
+    # p "{i}(I'd already forgotten about that...)"
+    p "{i}(me n'ero già dimenticato)."
+
+# game/day34.rpy:1061
+translate italian day34_b_blowjob_hard_24c39dc8:
+
+    # b "Or did your brain just leave through the same exit, together with all that cum?"
+    b "O il tuo cervello è uscito dalla stessa uscita insieme a tutto quello sperma?."
+
+# game/day34.rpy:1062
+translate italian day34_b_blowjob_hard_ae19be12:
+
+    # p "No, you're right."
+    p "No, hai ragione."
+
+# game/day34.rpy:1063
+translate italian day34_b_blowjob_hard_e18221a4:
+
+    # p "You did well."
+    p "Sei stato bravo"
+
+# game/day34.rpy:1064
+translate italian day34_b_blowjob_hard_3e0cde11:
+
+    # b "Sure..."
+    b "Certo"
+
+# game/day34.rpy:1066
+translate italian day34_b_blowjob_hard_bd89621d:
+
+    # "{i}You lie with her in silence for a while before returning to your room."
+    "{i}Rimani con lei in silenzio per un po' prima di tornare nella tua stanza."
+
+# game/day34.rpy:1076
+translate italian day34_b_blowjob_30959ace:
+
+    # p "{i}(I have the most beautiful girlfriend.)"
+    p "{i}(Ho la fidanzata più bella)"
+
+# game/day34.rpy:1078
+translate italian day34_b_blowjob_67cd64c2:
+
+    # b "Have you been staring like that for long?"
+    b "È da molto che mi fissi così?."
+
+# game/day34.rpy:1079
+translate italian day34_b_blowjob_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Solo un paio d'ore"
+
+# game/day34.rpy:1080
+translate italian day34_b_blowjob_99d2099d:
+
+    # b "Haha, sure..."
+    b "Haha certo"
+
+# game/day34.rpy:1081
+translate italian day34_b_blowjob_6a064bd8:
+
+    # b "This was supposed to be a surprise."
+    b "Doveva essere una sorpresa."
+
+# game/day34.rpy:1082
+translate italian day34_b_blowjob_262f8602:
+
+    # b "I was about to put on the panties that come with this set."
+    b "Stavo per indossare le mutandine che accompagnano questo set."
+
+# game/day34.rpy:1083
+translate italian day34_b_blowjob_19dc1a80:
+
+    # p "It's beautiful, though I like you best without clothes on."
+    p "È bellissimo, ma mi piaci di più senza vestiti."
+
+# game/day34.rpy:1084
+translate italian day34_b_blowjob_84ac98ab:
+
+    # b "Horny little boy."
+    b "Ragazzino arrapato"
+
+# game/day34.rpy:1085
+translate italian day34_b_blowjob_de805f06:
+
+    # p "You have that effect on me."
+    p "Hai questo effetto su di me"
+
+# game/day34.rpy:1086
+translate italian day34_b_blowjob_26ceb081:
+
+    # p "But I'll act properly surprised if you wear this next time."
+    p "Ma mi stupirò se la prossima volta indosserai questo."
+
+# game/day34.rpy:1092
+translate italian day34_b_blowjob_cc670891:
+
+    # b "You like it?"
+    b "Ti piace?"
+
+# game/day34.rpy:1093
+translate italian day34_b_blowjob_a5de22e1:
+
+    # p "Very much."
+    p "Molto"
+
+# game/day34.rpy:1094
+translate italian day34_b_blowjob_162fb551:
+
+    # p "I feel a little bad though, spoiling this moment."
+    p "Mi sento un po' in colpa per aver rovinato questo momento."
+
+# game/day34.rpy:1095
+translate italian day34_b_blowjob_4a14a428:
+
+    # b "I don't mind."
+    b "Non mi dispiace"
+
+# game/day34.rpy:1096
+translate italian day34_b_blowjob_0b329c66:
+
+    # p "No, why don't we go shopping for some nice lingerie tomorrow?"
+    p "No, perché non andiamo a comprare della bella lingerie domani?."
+
+# game/day34.rpy:1098
+translate italian day34_b_blowjob_14ecefea:
+
+    # b "That sounds like a fantastic plan!"
+    b "Mi sembra un piano fantastico!."
+
+# game/day34.rpy:1099
+translate italian day34_b_blowjob_d70814d0:
+
+    # b "You know... The surprise wasn't just wearing this..."
+    b "Sai che la sorpresa non era solo indossare questo."
+
+# game/day34.rpy:1100
+translate italian day34_b_blowjob_e22d4a11:
+
+    # p "Oh... What else did you have in mind."
+    p "Oh, cos'altro avevi in mente?."
+
+# game/day34.rpy:1102
+translate italian day34_b_blowjob_2ce02568:
+
+    # b "I was going to get you on the bed."
+    b "Stavo per metterti sul letto."
+
+# game/day34.rpy:1103
+translate italian day34_b_blowjob_fe6629f3:
+
+    # b "And undress you."
+    b "E spogliarti"
+
+# game/day34.rpy:1104
+translate italian day34_b_blowjob_579c8be7:
+
+    # p "Really..."
+    p "Davvero"
+
+# game/day34.rpy:1109
+translate italian day34_b_blowjob_efd0e395:
+
+    # b "Then I would make you hard."
+    b "Allora ti farei diventare duro"
+
+# game/day34.rpy:1110
+translate italian day34_b_blowjob_4103f1fb:
+
+    # b "Stroking your dick with my hands."
+    b "Accarezzare il tuo cazzo con le mie mani."
+
+# game/day34.rpy:1111
+translate italian day34_b_blowjob_f6220564:
+
+    # p "Oh fuck... [b_name]..."
+    p "Oh cazzo [b_name]"
+
+# game/day34.rpy:1117
+translate italian day34_b_blowjob_d6318230:
+
+    # b "I would tease you by ever so slightly licking the head of your dick."
+    b "Ti stuzzicherei leccandoti leggermente la testa del tuo cazzo."
+
+# game/day34.rpy:1118
+translate italian day34_b_blowjob_0977e5d9:
+
+    # p "Uh-huh... K-keep going..."
+    p "Uh-huh K-continuare"
+
+# game/day34.rpy:1119
+translate italian day34_b_blowjob_f0d6e12b:
+
+    # b "And when your dick is wet enough and you're ready, I'd begin sucking you."
+    b "E quando il tuo cazzo sarà abbastanza bagnato e sarai pronto, inizierò a succhiartelo."
+
+# game/day34.rpy:1125
+translate italian day34_b_blowjob_be2364a5:
+
+    # "{i}[b_name] is unable to say anything further as she takes your cock in her mouth."
+    "{i}[b_name] non riesce a dire altro mentre prende il tuo cazzo in bocca."
+
+# game/day34.rpy:1126
+translate italian day34_b_blowjob_bebb41dd:
+
+    # p "I-I really like this surprise."
+    p "Mi piace molto questa sorpresa."
+
+# game/day34.rpy:1129
+translate italian day34_b_blowjob_16e5484a:
+
+    # "{i}You see your sister smile as she controls your pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Vedi tua sorella sorridere mentre controlla il tuo piacere soffiandoti con un'intensità tale che non sei in grado di resistere a lungo."
+
+# game/day34.rpy:1131
+translate italian day34_b_blowjob_584755f7:
+
+    # "{i}You see your girlfriend smile as she controls pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Vedi la tua ragazza sorridere mentre controlla il piacere che ti soffia con un'intensità tale che non sei in grado di resistere a lungo."
+
+# game/day34.rpy:1133
+translate italian day34_b_blowjob_cf330df2:
+
+    # p "[b_name]! I'm... Oooh!"
+    p "[b_name]! Sono Oooh!"
+
+# game/day34.rpy:1137
+translate italian day34_b_blowjob_15cde731:
+
+    # "{i}Despite all the signals you're close to orgasm, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Nonostante tutti i segnali che ti indicano che sei vicina all'orgasmo, [b_name] continua a darti la testa e non si ferma mentre il tuo sperma comincia a scorrere."
+
+# game/day34.rpy:1144
+translate italian day34_b_blowjob_715c0843:
+
+    # "{i}She stops briefly to allow you to cream her mouth and then swallows your entire load, smiling at you deliriously."
+    "{i}Si ferma brevemente per permetterti di riempirle la bocca di crema e poi inghiotte tutto il tuo carico sorridendoti in modo delirante."
+
+# game/day34.rpy:1145
+translate italian day34_b_blowjob_69f0bf5f:
+
+    # "{i}Satisfied, she rests her head on your chest."
+    "{i}Soddisfatta, appoggia la testa sul tuo petto."
+
+# game/day34.rpy:1157
+translate italian day34_b_blowjob_b85b41c1:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, [b_name] pulls out your cock and attempts to direct it to her chest."
+    "{i}Notando i segnali rivelatori che sei vicina all'orgasmo [b_name] tira fuori il tuo cazzo e cerca di dirigerlo sul suo petto."
+
+# game/day34.rpy:1160
+translate italian day34_b_blowjob_4ac81696:
+
+    # "{i}Your cum begins to shoot earlier than you both thought and you end up pasting her face with warm seed."
+    "{i}La tua sborra inizia a schizzare prima di quanto entrambi pensavate e finisci per imbrattarle il viso con il seme caldo."
+
+# game/day34.rpy:1162
+translate italian day34_b_blowjob_a1c4b72e:
+
+    # b "Wow! Haha!"
+    b "Wow! Haha!"
+
+# game/day34.rpy:1163
+translate italian day34_b_blowjob_4b468aa8:
+
+    # "{i}After [b_name] cleans herself up somewhat she rests her head on your chest."
+    "{i}Dopo che [b_name] si è pulita un po', appoggia la testa sul tuo petto."
+
+# game/day34.rpy:1171
+translate italian day34_b_blowjob_bfcb1211:
+
+    # b "Afterwards we'd lie together and you'd stroke my skin and kiss my hair."
+    b "Dopo ci sdraiamo insieme e tu mi accarezzi la pelle e mi baci i capelli."
+
+# game/day34.rpy:1172
+translate italian day34_b_blowjob_d0791796:
+
+    # p "Mmmm, sounds really good."
+    p "Mmmm sembra davvero buono"
+
+# game/day34.rpy:1173
+translate italian day34_b_blowjob_d8a0209b:
+
+    # b "I know, shame you spoiled the surprise."
+    b "So che è un peccato che tu abbia rovinato la sorpresa."
+
+# game/day34.rpy:1174
+translate italian day34_b_blowjob_147e8b69:
+
+    # p "Yup, but luckily you're a very evocative storyteller."
+    p "Sì, ma per fortuna sei un narratore molto evocativo."
+
+# game/day34.rpy:1175
+translate italian day34_b_blowjob_d81a9abb:
+
+    # b "Haha, I know, right?"
+    b "Haha Lo so, vero?"
+
+# game/day34.rpy:1177
+translate italian day34_b_blowjob_b1f0c319:
+
+    # "{i}You chat some more with her and just enjoy her company before returning to your room."
+    "{i}Chiacchiera ancora un po' con lei e goditi la sua compagnia prima di tornare nella tua stanza."
+
+# game/day34.rpy:1193
+translate italian day34_r_fingering_b1e96493:
+
+    # "{i}[r_name] slides her hand back between her legs and begins to massage her clitoris."
+    "{i}[r_name] fa scivolare la mano tra le sue gambe e inizia a massaggiarle il clitoride."
+
+# game/day34.rpy:1194
+translate italian day34_r_fingering_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day34.rpy:1196
+translate italian day34_r_fingering_a944f345:
+
+    # "{i}One of her fingers slips inside her pussy as she keeps working on her clit. You play with her breasts a little and kiss her neck."
+    "{i}Una delle sue dita scivola nella figa mentre continua a lavorare sul suo clitoride... giochi un po' con i suoi seni e le baci il collo."
+
+# game/day34.rpy:1198
+translate italian day34_r_fingering_932f09f4:
+
+    # "{i}Your sister seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Sua sorella sembra trovarsi su un altro piano di coscienza: i suoi occhi si rovesciano all'indietro e il suo respiro diventa superficiale."
+
+# game/day34.rpy:1200
+translate italian day34_r_fingering_f4ddeb7b:
+
+    # "{i}Your friend seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}La sua amica sembra trovarsi su un altro piano di coscienza: gli occhi si rovesciano all'indietro e il respiro diventa superficiale."
+
+# game/day34.rpy:1201
+translate italian day34_r_fingering_8dc9b6f7:
+
+    # "{i}Judging from her soft moans in your ear and the firm grip of her other hand on your arm, you know she's close."
+    "{i}A giudicare dai suoi gemiti sommessi nel tuo orecchio e dalla presa salda dell'altra mano sul tuo braccio, sai che è vicina."
+
+# game/day34.rpy:1208
+translate italian day34_r_fingering_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah!"
+
+# game/day34.rpy:1209
+translate italian day34_r_fingering_918b8b55:
+
+    # "{i}Her climax is beautiful, she shudders in your arms, biting her lip, her legs making involuntary movements."
+    "{i}Il suo climax è bellissimo, trema tra le tue braccia mordendosi le labbra e le gambe fanno movimenti involontari."
+
+# game/day34.rpy:1214
+translate italian day34_r_fingering_1da72a37:
+
+    # p "I love you, [r_name]."
+    p "Ti amo [r_name]"
+
+# game/day34.rpy:1215
+translate italian day34_r_fingering_20f32c2a:
+
+    # r "I... love you too, [p_name]."
+    r "Anch'io ti voglio bene [p_name]"
+
+# game/day34.rpy:1234
+translate italian day34_ri_sex_119ad400:
+
+    # p "I thought maybe we could pass the time while the others fight outside?"
+    p "Ho pensato che forse potremmo passare il tempo mentre gli altri combattono fuori?."
+
+# game/day34.rpy:1235
+translate italian day34_ri_sex_e01ff968:
+
+    # "{i}Riley is already unbuttoning her shorts and looking longingly at the butt plug you're holding."
+    "{i}Riley si sta già sbottonando i pantaloncini e guarda con desiderio il butt plug che hai in mano."
+
+# game/day34.rpy:1236
+translate italian day34_ri_sex_0cf4034c:
+
+    # ri "This place is rather perfect for what I think you're proposing."
+    ri "Questo posto è piuttosto perfetto per quello che penso tu stia proponendo."
+
+# game/day34.rpy:1238
+translate italian day34_ri_sex_26743edb:
+
+    # p "{i}(Something about this place sure makes you want to fuck, I'm sure Ana agrees.)"
+    p "{i}(Qualcosa in questo posto ti fa venire voglia di scopare, sono sicuro che Ana è d'accordo)."
+
+# game/day34.rpy:1244
+translate italian day34_ri_sex_be48a7ea:
+
+    # ri "Let's not waste time then."
+    ri "Non perdiamo tempo, allora."
+
+# game/day34.rpy:1245
+translate italian day34_ri_sex_227d508e:
+
+    # p "Do you want to try the toy?"
+    p "Vuoi provare il giocattolo?."
+
+# game/day34.rpy:1246
+translate italian day34_ri_sex_f16c4169:
+
+    # ri "I think I do."
+    ri "Credo di sì"
+
+# game/day34.rpy:1247
+translate italian day34_ri_sex_48c33a2a:
+
+    # p "Why don't you get that thing nice and wet then."
+    p "Perché non la bagnate per bene, allora?."
+
+# game/day34.rpy:1252
+translate italian day34_ri_sex_f6e54073:
+
+    # "{i}You offer Riley the toy, which she proceeds to suck and you get undressed yourself."
+    "{i}Offri a Riley il giocattolo, che lei succhierà, e ti spoglierai tu stesso."
+
+# game/day34.rpy:1257
+translate italian day34_ri_sex_b74670b7:
+
+    # "{i}Riley spreads her ass and reveals her delicate butthole."
+    "{i}Riley allarga le chiappe e rivela il suo delicato buco del culo."
+
+# game/day34.rpy:1258
+translate italian day34_ri_sex_64cd6b1b:
+
+    # ri "I've never been fucked with a toy in my ass."
+    ri "Non sono mai stato scopato con un giocattolo nel culo."
+
+# game/day34.rpy:1259
+translate italian day34_ri_sex_2c4e797f:
+
+    # p "Just a warning, if you see a strapon dildo, just leave it, I'm really not interested in trying a toy in {i}my{/i} ass.."
+    p "Solo un avvertimento, se vedete un dildo strapon lasciatelo lì, non sono davvero interessato a provare un giocattolo nel {i}mio{/i} culo."
+
+# game/day34.rpy:1260
+translate italian day34_ri_sex_ab3affc3:
+
+    # ri "Haha!"
+    ri "Haha!"
+
+# game/day34.rpy:1261
+translate italian day34_ri_sex_61e47689:
+
+    # ri "I'll be a good girl."
+    ri "Sarò una brava ragazza"
+
+# game/day34.rpy:1266
+translate italian day34_ri_sex_27dd744b:
+
+    # "{i}Very softly, you push the wet toy against the folds of Riley's anus, as she relaxes the tip slips inside her butthole."
+    "{i}Molto delicatamente spingete il giocattolo bagnato contro le pieghe dell'ano di Riley, mentre lei si rilassa e la punta scivola dentro il suo buco del culo."
+
+# game/day34.rpy:1267
+translate italian day34_ri_sex_37d94932:
+
+    # ri "Mmmmm. Don't rush!"
+    ri "Mmmmm Non avere fretta!"
+
+# game/day34.rpy:1269
+translate italian day34_ri_sex_1e0b0e71:
+
+    # "{i}The toy inches further inside her ass until the entirety of it is enfolded by her anus."
+    "{i}Il giocattolo si insinua nel suo culo fino a quando non viene avvolto interamente dal suo ano."
+
+# game/day34.rpy:1270
+translate italian day34_ri_sex_d49a9468:
+
+    # p "It's in."
+    p "È dentro"
+
+# game/day34.rpy:1271
+translate italian day34_ri_sex_cefc623d:
+
+    # ri "God yes, I know."
+    ri "Dio sì, lo so"
+
+# game/day34.rpy:1272
+translate italian day34_ri_sex_7a927d83:
+
+    # ri "It feels so full."
+    ri "Ci si sente così pieni"
+
+# game/day34.rpy:1273
+translate italian day34_ri_sex_89af8dec:
+
+    # ri "Kiss me!"
+    ri "Baciami!"
+
+# game/day34.rpy:1279
+translate italian day34_ri_sex_11b069f7:
+
+    # "{i}Riley's kiss is fueled by hunger, as the insertion of the toy has really liberated her lust."
+    "{i}Il bacio di Riley è alimentato dalla fame, perché l'inserimento del giocattolo ha davvero liberato la sua lussuria."
+
+# game/day34.rpy:1281
+translate italian day34_ri_sex_5098614a:
+
+    # "{i}The girl drops to her knees to focus all of her attention on your dick and covers it in kisses."
+    "{i}La ragazza si inginocchia per concentrare tutta la sua attenzione sul tuo cazzo e lo ricopre di baci."
+
+# game/day34.rpy:1282
+translate italian day34_ri_sex_3f9102c6:
+
+    # "{i}Her kisses become eager licks, until she dares to take your member in her mouth."
+    "{i}I suoi baci diventano leccate avide, finché non osa prendere in bocca il tuo membro."
+
+# game/day34.rpy:1288
+translate italian day34_ri_sex_c85bc569:
+
+    # "{i}The warm, wet sensation hardens your cock even more, something Riley notices with approval."
+    "{i}La sensazione di caldo umido fa indurire ancora di più il tuo cazzo, cosa che Riley nota con approvazione."
+
+# game/day34.rpy:1289
+translate italian day34_ri_sex_eaf15dd8:
+
+    # p "I had forgotten what a great cocksucker you are."
+    p "Mi ero dimenticato di quanto fossi un gran succhiacazzi."
+
+# game/day34.rpy:1290
+translate italian day34_ri_sex_637bd8cf:
+
+    # ri "You forgot?"
+    ri "L'hai dimenticato?"
+
+# game/day34.rpy:1291
+translate italian day34_ri_sex_bd3bd2a7:
+
+    # ri "Now you've hurt my feelings!"
+    ri "Ora hai ferito i miei sentimenti!."
+
+# game/day34.rpy:1293
+translate italian day34_ri_sex_1519d2bf:
+
+    # "{i}Riley punctuates her joking remark by sucking hard on your glans, a feeling that's equally pleasurable and painful."
+    "{i}Riley sottolinea il suo commento scherzoso succhiando con forza il glande, una sensazione che è ugualmente piacevole e dolorosa."
+
+# game/day34.rpy:1294
+translate italian day34_ri_sex_1578ee19:
+
+    # p "Ouch!"
+    p "Ahi!"
+
+# game/day34.rpy:1295
+translate italian day34_ri_sex_74576d26:
+
+    # ri "Too intense?"
+    ri "Troppo intenso?"
+
+# game/day34.rpy:1296
+translate italian day34_ri_sex_fa8e2637:
+
+    # p "Only a little."
+    p "Solo un po'"
+
+# game/day34.rpy:1302
+translate italian day34_ri_sex_52fa1734:
+
+    # "{i}Before she can respond, you pull her closer and press your cock against her entrance."
+    "{i}Prima che possa rispondere, la avvicini e premi il tuo cazzo contro il suo ingresso."
+
+# game/day34.rpy:1303
+translate italian day34_ri_sex_9440ca01:
+
+    # p "I'm going to fuck you so hard."
+    p "Ti scoperò con forza."
+
+# game/day34.rpy:1304
+translate italian day34_ri_sex_31ddf337:
+
+    # ri "Mmmm, show me!"
+    ri "Mmmm fammi vedere!"
+
+# game/day34.rpy:1309
+translate italian day34_ri_sex_343f1728:
+
+    # "{i}You see her eyes widen as you push your cock between her pussy lips and inside her tight fuckhole."
+    "{i}Vedi i suoi occhi allargarsi mentre spingi il tuo cazzo tra le labbra della sua figa e dentro il suo stretto buco del culo."
+
+# game/day34.rpy:1310
+translate italian day34_ri_sex_bcea34b2:
+
+    # ri "Aaah!"
+    ri "Aaah!"
+
+# game/day34.rpy:1311
+translate italian day34_ri_sex_38ec74d5:
+
+    # ri "Keep going like that, don't pull out!"
+    ri "Continua così, non tirarti indietro!."
+
+# game/day34.rpy:1313
+translate italian day34_ri_sex_3bec7f8d:
+
+    # "{i}You have absolutely no intention of pulling out and keep Riley in a tight embrace, your cock hammering her pussy."
+    "{i}Non hai assolutamente intenzione di tirarti fuori e tieni Riley in uno stretto abbraccio con il tuo cazzo che le martella la figa."
+
+# game/day34.rpy:1314
+translate italian day34_ri_sex_7940e3e6:
+
+    # "{i}At the peak of your passion, when you move her body to get better access to her moist slit, Riley nearly swipes a collection of dildos from a shelf."
+    "{i}Al culmine della passione, quando muovi il suo corpo per avere un migliore accesso alla sua fessura umida, Riley quasi trafuga una collezione di dildo da uno scaffale."
+
+# game/day34.rpy:1316
+translate italian day34_ri_sex_c62a725e:
+
+    # "{i}The girl manages to giggle between her breathless gasps of pleasure and smiles at you while you continue to fuck her."
+    "{i}La ragazza riesce a ridacchiare tra i suoi respiri di piacere e ti sorride mentre tu continui a scoparla."
+
+# game/day34.rpy:1322
+translate italian day34_ri_sex_8c3331ef:
+
+    # "{i}To get a better view of the toy that's still plugged inside her ass, you push Riley on one of the chairs and fuck her doggy style."
+    "{i}Per vedere meglio il giocattolo ancora inserito nel suo culo, spingi Riley su una delle sedie e scopala alla pecorina."
+
+# game/day34.rpy:1323
+translate italian day34_ri_sex_46aea005:
+
+    # ri "Fuck me, [p_name], don't stop!"
+    ri "Scopami [p_name] non fermarti!."
+
+# game/day34.rpy:1325
+translate italian day34_ri_sex_21ad4c97:
+
+    # "{i}When you slap her ass, Riley moans even harder and starts to finger herself."
+    "{i}Quando le schiaffeggi il culo, Riley geme ancora più forte e inizia a farsi un ditalino."
+
+# game/day34.rpy:1326
+translate italian day34_ri_sex_83d160e1:
+
+    # "{i}Her breasts dangle and bounce on the rhythm of your fucking and you can't contain a sudden urge to play with them."
+    "{i}I suoi seni penzolano e rimbalzano al ritmo della tua scopata e tu non riesci a contenere l'improvvisa voglia di giocarci."
+
+# game/day34.rpy:1328
+translate italian day34_ri_sex_a7a739a8:
+
+    # "{i}You pull Riley's upper body towards you, her ass pressing against your abdomen and your cock shoved up to the root in her cunt."
+    "{i}Tiri il busto di Riley verso di te, il suo culo che preme contro il tuo addome e il tuo cazzo infilato fino alla radice nella sua fica."
+
+# game/day34.rpy:1329
+translate italian day34_ri_sex_b816ae4b:
+
+    # "{i}The position doesn't allow for aggressive thrusts, but you're so deep inside her that it doesn't matter, the sensation is nearly overwhelming for you both."
+    "{i}La posizione non consente spinte aggressive, ma sei talmente dentro di lei che non importa, la sensazione è quasi travolgente per entrambi."
+
+# game/day34.rpy:1330
+translate italian day34_ri_sex_9a92e185:
+
+    # "{i}As you play with her breasts and nipples, Riley continues to finger herself to completion."
+    "{i}Mentre tu giochi con i suoi seni e capezzoli, Riley continua a farsi un ditalino fino al completamento."
+
+# game/day34.rpy:1337
+translate italian day34_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "F-f-fuck!"
+
+# game/day34.rpy:1338
+translate italian day34_ri_sex_8b44502e:
+
+    # "{i}Riley screams as she reaches her orgasm, shuddering in your arms, her hand still clasped over her pussy."
+    "{i}Riley urla mentre raggiunge l'orgasmo, tremando tra le tue braccia, con la mano ancora stretta sulla figa."
+
+# game/day34.rpy:1340
+translate italian day34_ri_sex_42d42502:
+
+    # "{i}Her constrictions are so intense that the toy is pushed out of her asshole, making her scream even louder with pleasure and relief."
+    "{i}Le sue costrizioni sono così intense che il giocattolo viene spinto fuori dal suo buco del culo facendola urlare ancora più forte di piacere e di sollievo."
+
+# game/day34.rpy:1342
+translate italian day34_ri_sex_7f864c7c:
+
+    # "{i}The sight of her gaping anus, after giving birth to the black plug, trigger your own orgasm."
+    "{i}La vista del suo ano spalancato dopo aver partorito il plug nero scatena il tuo orgasmo."
+
+# game/day34.rpy:1348
+translate italian day34_ri_sex_aa317619:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to fill her with seed."
+    "{i}Sei sopraffatto da un'improvvisa sensazione di fare tuo il corpo di Riley per lasciare il tuo segno e riempirla di seme."
+
+# game/day34.rpy:1357
+translate italian day34_ri_sex_df0632e6:
+
+    # "{i}So you kiss her neck and hug her tightly as your cock erupts inside her vagina."
+    "{i}Quindi le baci il collo e la abbracci forte mentre il tuo cazzo erutta nella sua vagina."
+
+# game/day34.rpy:1358
+translate italian day34_ri_sex_72390f9a:
+
+    # "{i}Semen keeps flowing for what seems like several minutes and you stay inside her until your erection starts to fade."
+    "{i}Lo sperma continua a scorrere per diversi minuti e tu rimani dentro di lei finché la tua erezione non inizia a svanire."
+
+# game/day34.rpy:1360
+translate italian day34_ri_sex_e0ce5bd9:
+
+    # "{i}When you pull out, a trickle of seed streams out of her slit, the warm sensation on her thighs causes Riley to smile."
+    "{i}Quando tiri fuori un rivolo di seme sgorga dalla sua fessura, la sensazione di calore sulle sue cosce fa sorridere Riley."
+
+# game/day34.rpy:1374
+translate italian day34_ri_sex_4aedcb53:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to cover her with seed."
+    "{i}Sei sopraffatto da un'improvvisa sensazione di fare tuo il corpo di Riley per lasciare il tuo segno con cui ricoprirla di seme."
+
+# game/day34.rpy:1378
+translate italian day34_ri_sex_f3ef623b:
+
+    # "{i}You pull out as your cock erupts and spray her body with warm semen, as Riley massages her breasts using your cum with a satisfied smile on her face."
+    "{i}Tiri fuori il tuo cazzo mentre erutta e spruzzi il suo corpo di sperma caldo mentre Riley si massaggia i seni con il tuo sperma con un sorriso soddisfatto sul viso."
+
+# game/day34.rpy:1390
+translate italian day34_ri_sex_ad8c8589:
+
+    # "{i}You're overcome with a sudden sensation to make Riley yours, to leave your mark, to cover her face with seed."
+    "{i}Sei sopraffatto da un'improvvisa sensazione di fare tua Riley, di lasciare il tuo segno con cui coprirle il viso con il seme."
+
+# game/day34.rpy:1392
+translate italian day34_ri_sex_0465f2e7:
+
+    # "{i}So you pull out and move her head close to your cock as it erupts."
+    "{i}Quindi tira fuori e avvicina la sua testa al tuo cazzo mentre erutta."
+
+# game/day34.rpy:1395
+translate italian day34_ri_sex_3b080407:
+
+    # "{i}You spray Riley's eager face with warm semen, depositing several volleys in her open mouth."
+    "{i}Spruzzi il viso ansioso di Riley con lo sperma caldo, depositando diverse raffiche nella sua bocca aperta."
+
+# game/day34.rpy:1396
+translate italian day34_ri_sex_9138679b:
+
+    # "{i}The girl swallows your cum with a satisfied smile on her face."
+    "{i}La ragazza ingoia il tuo sperma con un sorriso soddisfatto sul viso."
+
+# game/day34.rpy:1405
+translate italian day34_ri_sex_68607fec:
+
+    # ri "Goddamn, I didn't know sex could be this intense."
+    ri "Dannazione, non sapevo che il sesso potesse essere così intenso."
+
+# game/day34.rpy:1406
+translate italian day34_ri_sex_b923984f:
+
+    # p "You were magnificent."
+    p "Sei stato magnifico"
+

@@ -7134,4 +7134,65 @@ translate italian day39_r_b_m_fucking_c9ef9231:
 translate italian day39_r_b_m_fucking_3d5a6bf4:
 
     # r "Neither have I..."
-    r "Nemmeno io..."
+    r "Nemmeno io..."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day39.rpy:1294
+translate italian day39_r_b_l_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "[b_name] è sottomesso in questa scena?."
+
+# game/day39.rpy:1300
+translate italian day39_r_b_l_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] è un full sub in questa scena?."
+
+# game/day39.rpy:1304
+translate italian day39_r_b_l_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] completamente sottomessa"
+
+# game/day39.rpy:1307
+translate italian day39_r_b_l_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] non completamente sottomesso."
+
+# game/day39.rpy:1312
+translate italian day39_r_b_l_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] non è sottomesso."
+
+# game/day39.rpy:1960
+translate italian day39_r_b_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "[b_name] è sottomesso in questa scena?."
+
+# game/day39.rpy:1966
+translate italian day39_r_b_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] è un full sub in questa scena?."
+
+# game/day39.rpy:1970
+translate italian day39_r_b_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] completamente sottomessa"
+
+# game/day39.rpy:1973
+translate italian day39_r_b_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] non completamente sottomesso."
+
+# game/day39.rpy:1978
+translate italian day39_r_b_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] non è sottomesso."
+

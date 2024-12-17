@@ -6946,7 +6946,7 @@ translate italian day142_r_m_massage_c7a51b47:
 translate italian day142_r_m_massage_28fff3e3:
 
     # "{i}{i}Suddenly you're spurting cum all over your girlfriend's face, as she holds and directs your twitching cock to spray herself completely."
-    "{i} All'improvviso si spruzza sperma su tutto il viso della tua ragazza, mentre tiene e dirige il tuo cazzo per essere coperta completamente. {/i} {/i}"
+    "{i} All'improvviso si spruzza sperma su tutto il viso della tua ragazza, mentre tiene e dirige il tuo cazzo per essere coperta completamente. {/i}"
 
 # game/day142.rpy:2053
 translate italian day142_r_m_massage_d722ea66:
@@ -11452,4 +11452,113 @@ translate italian day142_puritan_meeting_b77a0f34_1:
 translate italian day142_l_sex_57a49b76:
 
     # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
-    "{i}Quando è in ginocchio prima che tu inizi a sborrare nella sua bocca aperta."
+    "{i}Quando è in ginocchio prima che tu inizi a sborrare nella sua bocca aperta."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day142.rpy:1860
+translate italian day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] è incinta in questa scena?."
+
+# game/day142.rpy:1864
+translate italian day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] incinta"
+
+# game/day142.rpy:1867
+translate italian day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] non incinta"
+
+# game/day142.rpy:1869
+translate italian day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] è incinta in questa scena?."
+
+# game/day142.rpy:1873
+translate italian day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] incinta"
+
+# game/day142.rpy:1876
+translate italian day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] non incinta"
+
+# game/day142.rpy:3141
+translate italian day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] è incinta in questa scena?."
+
+# game/day142.rpy:3145
+translate italian day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] incinta"
+
+# game/day142.rpy:3148
+translate italian day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] non incinta"
+
+# game/day142.rpy:3442
+translate italian day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] è incinta in questa scena?."
+
+# game/day142.rpy:3446
+translate italian day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] incinta"
+
+# game/day142.rpy:3449
+translate italian day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] non è incinta"
+
+# game/day142.rpy:3709
+translate italian day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] è incinta in questa scena?."
+
+# game/day142.rpy:3713
+translate italian day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] incinta"
+
+# game/day142.rpy:3716
+translate italian day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] non incinta"
+
+# game/day142.rpy:3951
+translate italian day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] è incinta in questa scena?."
+
+# game/day142.rpy:3955
+translate italian day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] incinta"
+
+# game/day142.rpy:3958
+translate italian day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] non incinta"
+

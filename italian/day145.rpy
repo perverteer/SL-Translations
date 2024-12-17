@@ -12628,7 +12628,7 @@ translate italian day145_wedding_ceremony_2048af1c:
 translate italian day145_wedding_ceremony_70eb66e8:
 
     # man "Do you together promise you will love, cherish and respect one another throughout the years?"
-    uomo "Promettete insieme che vi amerete e rispetterete l'un l'altro per tutti gli anni?."
+    man "Promettete insieme che vi amerete e rispetterete l'un l'altro per tutti gli anni?."
 
 # game/day145.rpy:1790
 translate italian day145_wedding_feast_6f9086c8:
@@ -12949,3 +12949,179 @@ translate italian day145_wedding_feast_0f86c456:
 
     # m "I admit that the idea of you two moving abroad took a long while to get accustomed to."
     m "Ammetto che l'idea che voi due vi trasferiate all'estero ha richiesto molto tempo per abituarsi."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day145.rpy:2792
+translate italian day145_r_b_l_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Adriana partecipa a questa scena?."
+
+# game/day145.rpy:2796
+translate italian day145_r_b_l_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana participates"
+
+# game/day145.rpy:2799
+translate italian day145_r_b_l_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana non partecipa"
+
+# game/day145.rpy:3628
+translate italian day145_r_b_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Adriana partecipa a questa scena?."
+
+# game/day145.rpy:3632
+translate italian day145_r_b_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana participates"
+
+# game/day145.rpy:3635
+translate italian day145_r_b_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana non partecipa"
+
+# game/day145.rpy:4967
+translate italian day145_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] è incinta in questa scena?."
+
+# game/day145.rpy:4971
+translate italian day145_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] incinta"
+
+# game/day145.rpy:4974
+translate italian day145_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] non incinta"
+
+# game/day145.rpy:5179
+translate italian day145_b_sex_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "[b_name] è sottomesso in questa scena?."
+
+# game/day145.rpy:5184
+translate italian day145_b_sex_b2ede48b:
+
+    # "[b_name] submissive"
+    "[b_name] sottomesso"
+
+# game/day145.rpy:5186
+translate italian day145_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] è un full sub in questa scena?."
+
+# game/day145.rpy:5190
+translate italian day145_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] completamente sottomessa"
+
+# game/day145.rpy:5193
+translate italian day145_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] non completamente sottomesso."
+
+# game/day145.rpy:5199
+translate italian day145_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] è incinta in questa scena?."
+
+# game/day145.rpy:5203
+translate italian day145_b_sex_047eed70:
+
+    # "[b_name] pregnant and not submissive"
+    "[b_name] incinta e non sottomessa."
+
+# game/day145.rpy:5206
+translate italian day145_b_sex_792ada9c:
+
+    # "[b_name] not pregnant and not submissive"
+    "[b_name] non incinta e non sottomessa."
+
+# game/day145.rpy:5513
+translate italian day145_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] è incinta in questa scena?."
+
+# game/day145.rpy:5517
+translate italian day145_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] incinta"
+
+# game/day145.rpy:5520
+translate italian day145_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] non è incinta"
+
+# game/day145.rpy:5689
+translate italian day145_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] è incinta in questa scena?."
+
+# game/day145.rpy:5693
+translate italian day145_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] incinta"
+
+# game/day145.rpy:5696
+translate italian day145_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] non incinta"
+
+# game/day145.rpy:5698
+translate italian day145_r_sex_522a9764:
+
+    # "Does Ana participate in this scene?"
+    "Ana partecipa a questa scena?."
+
+# game/day145.rpy:5703
+translate italian day145_r_sex_0569fb1a:
+
+    # "Ana participates"
+    "Ana partecipa"
+
+# game/day145.rpy:5706
+translate italian day145_r_sex_3f44a671:
+
+    # "Ana doesn't participate"
+    "Ana non partecipa"
+
+# game/day145.rpy:5708
+translate italian day145_r_sex_72a60c9f:
+
+    # "Does Alina participate in this scene?"
+    "Alina partecipa a questa scena?."
+
+# game/day145.rpy:5713
+translate italian day145_r_sex_5a510202:
+
+    # "Alina participates"
+    "Alina partecipa"
+
+# game/day145.rpy:5716
+translate italian day145_r_sex_7852c3e9:
+
+    # "Alina doesn't participate"
+    "Alina non partecipa"
+

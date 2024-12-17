@@ -5232,13 +5232,13 @@ translate italian day26_b_club_837415ed_1:
 translate italian day26_b_club_41ceba24_1:
 
     # "{i}When [b_name] returns with her coat, you exit the club."
-    "{i}Quando [b_nome] torna con il cappotto si esce dal locale."
+    "{i}Quando [b_name] torna con il cappotto si esce dal locale."
 
 # game/day26.rpy:1064
 translate italian day26_b_club_41ceba24_2:
 
     # "{i}When [b_name] returns with her coat, you exit the club."
-    "{i}Quando [b_nome] torna con il cappotto si esce dal locale."
+    "{i}Quando [b_name] torna con il cappotto si esce dal locale."
 
 # game/day26.rpy:1148
 translate italian day26_b_hotel_61de57db:
@@ -5257,3 +5257,1607 @@ translate italian day26_b_hotel_61de57db_2:
 
     # p "But you're not worried, are you? About us?"
     p "Ma non sei preoccupato, vero? Per noi?"
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day26.rpy:938
+translate italian day26_discreet_session_e21bc220:
+
+    # "{i}You enter the lavishly furnished antechamber and wait for [m_name] to enter the room."
+    "{i}Si entra nell'anticamera riccamente arredata e si attende che [m_name] entri nella stanza."
+
+# game/day26.rpy:940
+translate italian day26_discreet_session_9df8647b:
+
+    # m "Mr. Holmes. I trust you're ready for what's coming."
+    m "Signor Holmes, spero che sia pronto per quello che sta per succedere."
+
+# game/day26.rpy:941
+translate italian day26_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sì, signora."
+
+# game/day26.rpy:942
+translate italian day26_discreet_session_89f3e86a:
+
+    # m "Please choose one of the doors."
+    m "Scegliere una delle porte."
+
+# game/day26.rpy:943
+translate italian day26_discreet_session_6d3cb20f:
+
+    # "{i}After picking a door at random, [m_name] opens it and motions you through."
+    "{i}Dopo aver scelto una porta a caso, [m_name] la apre e vi fa passare."
+
+# game/day26.rpy:945
+translate italian day26_discreet_session_dab1d29f:
+
+    # p "{i}(A living room?)"
+    p "{i}(Un salotto?)"
+
+# game/day26.rpy:946
+translate italian day26_discreet_session_9d481581:
+
+    # m "Ah. A homely setting."
+    m "Ah Un ambiente familiare"
+
+# game/day26.rpy:948
+translate italian day26_discreet_session_f5bb0b3b:
+
+    # m "Your sister will be home shortly... son..."
+    m "Tua sorella sarà a casa a breve, figliolo."
+
+# game/day26.rpy:949
+translate italian day26_discreet_session_8c9d8bb2:
+
+    # p "{i}(What the?! My sister?!)"
+    p "{i}(Ma che?! Mia sorella?!)."
+
+# game/day26.rpy:950
+translate italian day26_discreet_session_c78409ff:
+
+    # p "{i}(What the fuck is this? Did she find out?!)"
+    p "{i}(Che cazzo è questo? L'ha scoperto?!)."
+
+# game/day26.rpy:951
+translate italian day26_discreet_session_63a3b331:
+
+    # p "My sister, mistress?"
+    p "Mia sorella padrona?"
+
+# game/day26.rpy:952
+translate italian day26_discreet_session_bf7253da:
+
+    # m "Yes, your sister Adriana. And you will address me as 'mother' for the duration of the session."
+    m "Sì, tua sorella Adriana e ti rivolgerai a me come 'madre' per tutta la durata della seduta."
+
+# game/day26.rpy:953
+translate italian day26_discreet_session_25bcb7fa:
+
+    # p "{i}(Adriana... Phew...)"
+    p "{i}(Adriana Phew)"
+
+# game/day26.rpy:954
+translate italian day26_discreet_session_7ca190d2:
+
+    # m "Surely you've heard of incest role-play? It's all the rage these days."
+    m "Avrai sicuramente sentito parlare di giochi di ruolo sull'incesto? È di gran moda in questi giorni."
+
+# game/day26.rpy:955
+translate italian day26_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sì, signora."
+
+# game/day26.rpy:956
+translate italian day26_discreet_session_ce8d3c65:
+
+    # m "Remember: 'mother' or 'mom'."
+    m "Ricorda: 'madre' o 'mamma'."
+
+# game/day26.rpy:957
+translate italian day26_discreet_session_eee57d36:
+
+    # p "Yes, mom."
+    p "Sì mamma."
+
+# game/day26.rpy:958
+translate italian day26_discreet_session_33d851bf:
+
+    # m "Been scouring the web for porn, have you, dirty boy?"
+    m "Hai setacciato il web in cerca di porno, vero sporcaccione?."
+
+# game/day26.rpy:960
+translate italian day26_discreet_session_4a867323:
+
+    # m "Your fellow tenant will be home shortly."
+    m "Il vostro inquilino sarà a casa a breve."
+
+# game/day26.rpy:961
+translate italian day26_discreet_session_e9febf1c:
+
+    # p "{i}(What the?! Tennant, what weird-ass fetish is this supposed to be?!)"
+    p "{i}(Ma che?! Tennant che strano feticcio dovrebbe essere?!)."
+
+# game/day26.rpy:962
+translate italian day26_discreet_session_c588f0eb:
+
+    # p "Tennant, mistress?"
+    p "L'amante di Tennant?."
+
+# game/day26.rpy:963
+translate italian day26_discreet_session_9ab169d5:
+
+    # m "Yes, your fellow tenant Adriana. And you will address me as 'landlady' for the duration of the session."
+    m "Sì, la tua compagna Adriana e ti rivolgerai a me come 'padrona di casa' per tutta la durata della sessione."
+
+# game/day26.rpy:964
+translate italian day26_discreet_session_afa63fd5:
+
+    # m "Surely you've heard of this type of role-play? It's all the rage these days."
+    m "Avrete sicuramente sentito parlare di questo tipo di gioco di ruolo? È di gran moda in questi giorni."
+
+# game/day26.rpy:965
+translate italian day26_discreet_session_5c5cbf80:
+
+    # p "Not really no, mistress."
+    p "Non proprio nessuna padrona"
+
+# game/day26.rpy:966
+translate italian day26_discreet_session_a6db30f5:
+
+    # m "'Landlady' and you're about to find out."
+    m "'Landlady' e stai per scoprirlo."
+
+# game/day26.rpy:968
+translate italian day26_discreet_session_c20ad542:
+
+    # "{i}At that moment, Adriana steps through another door in the room."
+    "{i}In quel momento Adriana attraversa un'altra porta della stanza."
+
+# game/day26.rpy:970
+translate italian day26_discreet_session_52021504:
+
+    # ad "Hi mom."
+    ad "Hi mom"
+
+# game/day26.rpy:971
+translate italian day26_discreet_session_5939d6e3:
+
+    # p "{i}(This is so fucking weird.)"
+    p "{i}(Questo è così fottutamente strano)"
+
+# game/day26.rpy:973
+translate italian day26_discreet_session_20689fe5:
+
+    # ad "Hi all."
+    ad "Hi all"
+
+# game/day26.rpy:975
+translate italian day26_discreet_session_b54a118a:
+
+    # m "Adriana, you're late."
+    m "Adriana sei in ritardo"
+
+# game/day26.rpy:976
+translate italian day26_discreet_session_945e6d43:
+
+    # m "And why do you look like a fucking whore?"
+    m "E perché sembri una fottuta puttana?."
+
+# game/day26.rpy:977
+translate italian day26_discreet_session_5b3c8008:
+
+    # ad "I don't, I like my clothes."
+    ad "Non mi piacciono i miei vestiti."
+
+# game/day26.rpy:979
+translate italian day26_discreet_session_e84c6c2d:
+
+    # m "What do you think, son, is your sister dressing like a slut?"
+    m "Secondo te, figlio mio, tua sorella si veste da troia?."
+
+# game/day26.rpy:980
+translate italian day26_discreet_session_1ea83d23:
+
+    # p "Yes, mother."
+    p "Sì madre"
+
+# game/day26.rpy:981
+translate italian day26_discreet_session_a2635d8a:
+
+    # m "See, even your brother thinks you look like a skank."
+    m "Vedi, anche tuo fratello pensa che tu sia una sgualdrina."
+
+# game/day26.rpy:983
+translate italian day26_discreet_session_6641579c:
+
+    # m "What do you think, tenant, is your friend here dressing like a slut?"
+    m "Cosa credi che l'inquilino sia il tuo amico che si veste da troia?."
+
+# game/day26.rpy:984
+translate italian day26_discreet_session_aef04645:
+
+    # p "Yes, landlady."
+    p "Sì padrona di casa"
+
+# game/day26.rpy:985
+translate italian day26_discreet_session_742a1e07:
+
+    # m "See, even your fellow tenant thinks you look like a skank."
+    m "Vedi, anche il tuo inquilino pensa che tu sia una sgualdrina."
+
+# game/day26.rpy:986
+translate italian day26_discreet_session_fdea1318:
+
+    # m "You're going to put on something decent at once."
+    m "Ti metterai subito qualcosa di decente."
+
+# game/day26.rpy:987
+translate italian day26_discreet_session_c2bfab5a:
+
+    # ad "No I won't!"
+    ad "No, non lo farò!"
+
+# game/day26.rpy:988
+translate italian day26_discreet_session_12af3b5d:
+
+    # m "Yes you will."
+    m "Sì, lo farai"
+
+# game/day26.rpy:989
+translate italian day26_discreet_session_d37482fd:
+
+    # ad "No, fuck you!"
+    ad "No, cazzo!"
+
+# game/day26.rpy:990
+translate italian day26_discreet_session_6fa66bac:
+
+    # "{i}Adriana attempts to storm out of the room in mock outrage."
+    "{i}Adriana tenta di uscire dalla stanza con finta indignazione."
+
+# game/day26.rpy:991
+translate italian day26_discreet_session_eb614dfd:
+
+    # m "Grab her."
+    m "Prendila"
+
+# game/day26.rpy:996
+translate italian day26_discreet_session_1a347c8a:
+
+    # ad "No, no! Leave me alone."
+    ad "No no! Lasciatemi in pace"
+
+# game/day26.rpy:998
+translate italian day26_discreet_session_8ef75ac6:
+
+    # m "I think your sister needs a lesson, don't you think?"
+    m "Credo che tua sorella abbia bisogno di una lezione, non credi?."
+
+# game/day26.rpy:1000
+translate italian day26_discreet_session_cfa05673:
+
+    # m "I think this girl here needs a lesson, don't you think?"
+    m "Credo che questa ragazza abbia bisogno di una lezione, non credi?."
+
+# game/day26.rpy:1001
+translate italian day26_discreet_session_b2590a77:
+
+    # ad "Leave me alone!"
+    ad "Lasciami in pace!"
+
+# game/day26.rpy:1002
+translate italian day26_discreet_session_5bdf518e:
+
+    # "{i}You forcefully return Adriana to [m_name], who bends her over her knee."
+    "{i}Restituisci con forza Adriana a [m_name] che la piega sulle sue ginocchia."
+
+# game/day26.rpy:1004
+translate italian day26_discreet_session_6b327923:
+
+    # m "Your ass needs a good spanking."
+    m "Il tuo culo ha bisogno di una bella sculacciata."
+
+# game/day26.rpy:1006
+translate italian day26_discreet_session_d750e432:
+
+    # ad "No!"
+    ad "No!"
+
+# game/day26.rpy:1008
+translate italian day26_discreet_session_b539e879:
+
+    # m "Get the paddle, son."
+    m "Prendi la pagaia, figliolo"
+
+# game/day26.rpy:1010
+translate italian day26_discreet_session_6a9e63ca:
+
+    # m "Get the paddle."
+    m "Prendi la paletta"
+
+# game/day26.rpy:1011
+translate italian day26_discreet_session_0ed28e32:
+
+    # p "{i}(Paddle? Oh shit, she means that wooden thing. Really glad [m_name] doesn't do corporal punishment back at home.)"
+    p "{i}(Paletta? Oh merda intende quella cosa di legno Sono davvero contento che [m_name] non faccia punizioni corporali a casa)."
+
+# game/day26.rpy:1028
+translate italian day26_discreet_session_5eccc69e:
+
+    # "{i}After you hand your mother the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Dopo aver consegnato a tua madre la pagaia, lei procede a colpire Adriana sulle natiche con lo strumento di legno."
+
+# game/day26.rpy:1030
+translate italian day26_discreet_session_98a633f8:
+
+    # "{i}After you hand [m_name] the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Dopo aver consegnato a [m_name] la pagaia, lei procede a colpire Adriana sulle natiche con lo strumento di legno."
+
+# game/day26.rpy:1031
+translate italian day26_discreet_session_366964ef:
+
+    # ad "Ow, fuck, it hurts!"
+    ad "Ahi, cazzo, fa male!."
+
+# game/day26.rpy:1032
+translate italian day26_discreet_session_fb234750:
+
+    # m "It's supposed to hurt, sweetie. We have to beat the slut out of you."
+    m "Dovrebbe fare male, tesoro, dobbiamo battere la tua troia."
+
+# game/day26.rpy:1034
+translate italian day26_discreet_session_712638fc:
+
+    # ad "I'm not a slut... Owww!"
+    ad "Io non sono una troia Owww!"
+
+# game/day26.rpy:1035
+translate italian day26_discreet_session_d1493679:
+
+    # m "Yes you are."
+    m "Sì, lo sei"
+
+# game/day26.rpy:1036
+translate italian day26_discreet_session_a0845fa5:
+
+    # ad "No! I'm an independent woman!"
+    ad "No! Sono una donna indipendente!."
+
+# game/day26.rpy:1046
+translate italian day26_discreet_session_6d7aa8ad:
+
+    # "{i}[m_name] slaps harder and harder, vicious red marks appear on Adriana's ass as she keeps her teeth clenched in pain, unable to speak."
+    "{i}[m_name] schiaffi sempre più forti segni rossi e feroci appaiono sul culo di Adriana che tiene i denti stretti per il dolore e non riesce a parlare."
+
+# game/day26.rpy:1048
+translate italian day26_discreet_session_95abbb5d:
+
+    # m "Don't make me laugh, girl, you just dress up to get men to fuck you."
+    m "Non farmi ridere ragazza, ti vesti solo per farti scopare dagli uomini."
+
+# game/day26.rpy:1049
+translate italian day26_discreet_session_fdf5f539:
+
+    # ad "Nnn-o!"
+    ad "Nnn-o!"
+
+# game/day26.rpy:1050
+translate italian day26_discreet_session_f855ff93:
+
+    # m "I can't hear you, you're blubbering."
+    m "Non riesco a sentirti, stai sbrodolando."
+
+# game/day26.rpy:1051
+translate italian day26_discreet_session_1ab372c9:
+
+    # m "I'll stop when you admit the truth. Say you're a slut."
+    m "Mi fermerò quando ammetterai la verità: sei una puttana."
+
+# game/day26.rpy:1052
+translate italian day26_discreet_session_d750e432_1:
+
+    # ad "No!"
+    ad "No!"
+
+# game/day26.rpy:1054
+translate italian day26_discreet_session_7a98cddb:
+
+    # m "Say you're a slut!"
+    m "Di' che sei una puttana!."
+
+# game/day26.rpy:1055
+translate italian day26_discreet_session_d750e432_2:
+
+    # ad "No!"
+    ad "No!"
+
+# game/day26.rpy:1062
+translate italian day26_discreet_session_50e84ea8:
+
+    # m "Say you're a slut!!!"
+    m "Di' che sei una puttana!!!."
+
+# game/day26.rpy:1063
+translate italian day26_discreet_session_d94eedd1:
+
+    # ad "Owwwww!"
+    ad "Owwww!"
+
+# game/day26.rpy:1064
+translate italian day26_discreet_session_31c6e31c:
+
+    # ad "I-m a slut..."
+    ad "Sono una puttana"
+
+# game/day26.rpy:1066
+translate italian day26_discreet_session_c114fbdd:
+
+    # m "I can't hear you."
+    m "Non ti sento"
+
+# game/day26.rpy:1067
+translate italian day26_discreet_session_7a66d670:
+
+    # ad "I'm a slut!"
+    ad "Sono una puttana!."
+
+# game/day26.rpy:1071
+translate italian day26_discreet_session_879dd93b:
+
+    # m "Good girl."
+    m "Brava ragazza"
+
+# game/day26.rpy:1072
+translate italian day26_discreet_session_857aba8a:
+
+    # ad "Can I go to my room now?"
+    ad "Posso andare in camera mia ora?."
+
+# game/day26.rpy:1073
+translate italian day26_discreet_session_47ba7d94:
+
+    # m "No."
+    m "No"
+
+# game/day26.rpy:1074
+translate italian day26_discreet_session_696df66c:
+
+    # m "It's too late for that now."
+    m "Ormai è troppo tardi."
+
+# game/day26.rpy:1075
+translate italian day26_discreet_session_5fb52f79:
+
+    # m "I know you girl, dressing up like a hussy and prowling the streets, looking for men. You're insatiable."
+    m "So che tu, ragazza, ti vesti come una sgualdrina e ti aggiri per le strade in cerca di uomini Sei insaziabile."
+
+# game/day26.rpy:1076
+translate italian day26_discreet_session_293ae9b5:
+
+    # ad "It's just a skirt."
+    ad "È solo una gonna"
+
+# game/day26.rpy:1077
+translate italian day26_discreet_session_49a6255f:
+
+    # m "No it's not. It's a symbol."
+    m "No, non lo è. È un simbolo."
+
+# game/day26.rpy:1079
+translate italian day26_discreet_session_9a5f982c:
+
+    # m "But if you're that desperate for cock, your brother will show you what a real man is."
+    m "Ma se hai così tanta voglia di cazzo, tuo fratello ti farà vedere cos'è un vero uomo."
+
+# game/day26.rpy:1081
+translate italian day26_discreet_session_e445b529:
+
+    # m "But if you're that desperate for cock, your fellow tenant will show you what a real man is."
+    m "Ma se hai così tanta voglia di cazzo, il tuo compagno di stanza ti mostrerà cos'è un vero uomo."
+
+# game/day26.rpy:1082
+translate italian day26_discreet_session_18513f0f:
+
+    # ad "You're going to let him fuck me?"
+    ad "Gli permetterai di scoparmi?."
+
+# game/day26.rpy:1083
+translate italian day26_discreet_session_857b34c3:
+
+    # m "That's right."
+    m "Esatto"
+
+# game/day26.rpy:1084
+translate italian day26_discreet_session_d2ad403e:
+
+    # m "Why don't you get on your knees and suck his dick?"
+    m "Perché non ti inginocchi e gli succhi il cazzo?."
+
+# game/day26.rpy:1087
+translate italian day26_discreet_session_5e0c8dee:
+
+    # "{i}Taking her cue you drop your pants and present Adriana with your stiffening erection."
+    "{i}Prendendo spunto da lei, ti abbassi i pantaloni e presenti ad Adriana la tua erezione sempre più rigida."
+
+# game/day26.rpy:1088
+translate italian day26_discreet_session_71f71398:
+
+    # "{i}Adriana acts hesitant, but the look in her eyes is one of hunger. With deft hands she has your cock at full mast in no time."
+    "{i}Adriana si comporta in modo esitante, ma il suo sguardo è di fame. Con mani abili ha il tuo cazzo a tutta forza in un attimo."
+
+# game/day26.rpy:1093
+translate italian day26_discreet_session_aef75d6d:
+
+    # m "Good, suck on that, you little bitch."
+    m "Succhia bene, puttanella."
+
+# game/day26.rpy:1094
+translate italian day26_discreet_session_99cb148b:
+
+    # m "Take it all the way."
+    m "Portalo fino in fondo"
+
+# game/day26.rpy:1102
+translate italian day26_discreet_session_a0bc5746:
+
+    # "{i}You push your cock deeper inside Adriana's throat. She gags and saliva is leaking from the corners of her mouth."
+    "{i}Spingi il tuo cazzo più a fondo nella gola di Adriana. Lei ha dei conati di vomito e la saliva fuoriesce dagli angoli della sua bocca."
+
+# game/day26.rpy:1104
+translate italian day26_discreet_session_7c4409eb:
+
+    # m "We're going to use all of your holes, your brother and I."
+    m "Useremo tutti i tuoi buchi, tuo fratello e io."
+
+# game/day26.rpy:1105
+translate italian day26_discreet_session_25a1f0ea:
+
+    # ad "Y-yes, mother."
+    ad "S-sì madre"
+
+# game/day26.rpy:1107
+translate italian day26_discreet_session_9a4957b0:
+
+    # m "We're going to use all of your holes, Adriana."
+    m "Useremo tutti i tuoi buchi, Adriana."
+
+# game/day26.rpy:1108
+translate italian day26_discreet_session_de10e825:
+
+    # ad "Y-yes, landlady."
+    ad "S-sì padrona di casa"
+
+# game/day26.rpy:1110
+translate italian day26_discreet_session_39037dfb:
+
+    # "{i}While Adriana is drooling all over her chest, you begin to fuck her throat."
+    "{i}Mentre Adriana sbava sul suo petto, tu inizi a scoparle la gola."
+
+# game/day26.rpy:1112
+translate italian day26_discreet_session_f8fd10bf:
+
+    # m "That's it, right there, make her savor that dick of yours."
+    m "Ecco, proprio così, falle assaporare il tuo cazzo."
+
+# game/day26.rpy:1113
+translate italian day26_discreet_session_a9e11976:
+
+    # "{i}Adriana can only gurgle and looks up at you with teary eyes. The look she gives you is not one of sadness but conveys a depravity that nearly makes you coat her throat with seed."
+    "{i}Adriana riesce solo a gorgogliare e ti guarda con gli occhi pieni di lacrime. Lo sguardo che ti rivolge non è di tristezza, ma trasmette una depravazione che ti spinge quasi a ricoprirle la gola di seme."
+
+# game/day26.rpy:1114
+translate italian day26_discreet_session_e51d19cf:
+
+    # m "Only allow her to breathe if you feel she deserves it."
+    m "Lasciatela respirare solo se ritenete che lo meriti."
+
+# game/day26.rpy:1117
+translate italian day26_discreet_session_07f50341:
+
+    # "{i}Your mother retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}Tua madre recupera qualcosa da un armadio e si spoglia. Quando riappare nel tuo campo visivo, l'unica cosa che indossa è un dildo strap-on."
+
+# game/day26.rpy:1119
+translate italian day26_discreet_session_d359f835:
+
+    # "{i}[m_name] retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}[m_name] recupera qualcosa da un armadio e si spoglia Quando riappare nel vostro campo visivo, l'unica cosa che indossa è un dildo strap-on."
+
+# game/day26.rpy:1120
+translate italian day26_discreet_session_de920d7c:
+
+    # p "{i}(I am not, repeat NOT going to be the ass-end of a human centipede.)"
+    p "{i}(non ho intenzione, ripeto NON ho intenzione, di essere l'estremità del culo di un millepiedi umano)"
+
+# game/day26.rpy:1124
+translate italian day26_discreet_session_1f59d6a7:
+
+    # m "Are you ready to fuck your sister?"
+    m "Sei pronto a scopare tua sorella?."
+
+# game/day26.rpy:1125
+translate italian day26_discreet_session_1ea83d23_1:
+
+    # p "Yes, mother."
+    p "Sì madre"
+
+# game/day26.rpy:1127
+translate italian day26_discreet_session_3242f70b:
+
+    # m "Are you ready to fuck your fellow tenant?"
+    m "Sei pronto a scopare il tuo compagno di stanza?."
+
+# game/day26.rpy:1128
+translate italian day26_discreet_session_aef04645_1:
+
+    # p "Yes, landlady."
+    p "Sì padrona di casa"
+
+# game/day26.rpy:1129
+translate italian day26_discreet_session_4c2f3098:
+
+    # m "Good boy, we'll do it together."
+    m "Bravo ragazzo, lo faremo insieme."
+
+# game/day26.rpy:1131
+translate italian day26_discreet_session_80ed1a92:
+
+    # "{i}When you pull out of Adriana's mouth she gasps for air, mucus running in thick strands from her lips to your cock."
+    "{i}Quando ti stacchi dalla bocca di Adriana, lei rantola in cerca d'aria e il muco scorre in fitte ciocche dalle sue labbra al tuo cazzo."
+
+# game/day26.rpy:1133
+translate italian day26_discreet_session_527dbb63:
+
+    # m "You've made your brother's cock all hard and wet, now do the same to mommy's."
+    m "Hai fatto diventare il cazzo di tuo fratello tutto duro e bagnato, ora fai lo stesso con quello della mamma."
+
+# game/day26.rpy:1135
+translate italian day26_discreet_session_30ee6c5f:
+
+    # m "You've made your fellow tenant's cock all hard and wet, now do the same to mine."
+    m "Hai fatto diventare il cazzo del tuo collega tutto duro e bagnato, ora fai lo stesso con il mio."
+
+# game/day26.rpy:1137
+translate italian day26_discreet_session_e5ab80c7:
+
+    # "{i}[m_name] thrusts the shiny black thing inside Adriana's throat and keeps it there until the girl struggles to keep it in. When she pulls out, Adriana nearly collapses to the floor."
+    "{i}[m_name] infila l'oggetto nero e lucido nella gola di Adriana e lo tiene lì finché la ragazza non si sforza di tenerlo dentro Quando lo tira fuori Adriana quasi crolla a terra."
+
+# game/day26.rpy:1138
+translate italian day26_discreet_session_77430063:
+
+    # m "Again."
+    m "Ancora"
+
+# game/day26.rpy:1140
+translate italian day26_discreet_session_cfa109e5:
+
+    # ad "Yes, mother."
+    ad "Sì madre"
+
+# game/day26.rpy:1142
+translate italian day26_discreet_session_db223938:
+
+    # ad "Yes, landlady."
+    ad "Sì padrona di casa"
+
+# game/day26.rpy:1145
+translate italian day26_discreet_session_9f0d12fd:
+
+    # m "How do you want to use her, son?"
+    m "Come vuoi usare suo figlio?."
+
+# game/day26.rpy:1147
+translate italian day26_discreet_session_f24a5df5:
+
+    # m "How do you want to use her, boy?"
+    m "Come vuoi usare il suo ragazzo?."
+
+# game/day26.rpy:1160
+translate italian day26_discreet_session_3366b021:
+
+    # "{i}You spread Adriana's legs and push your cock against her slit. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Allarghi le gambe di Adriana e spingi il tuo cazzo contro la sua fessura. La ragazza lo lascia fare e tu spingi la tua asta bagnata in profondità dentro di lei."
+
+# game/day26.rpy:1161
+translate italian day26_discreet_session_89475d23:
+
+    # m "Ah, her sweet pussy, good choice."
+    m "Ah la sua dolce figa buona scelta."
+
+# game/day26.rpy:1162
+translate italian day26_discreet_session_1be0ec35:
+
+    # m "Now fuck her."
+    m "Ora scopala"
+
+# game/day26.rpy:1166
+translate italian day26_discreet_session_95a42efd:
+
+    # ad "Mmmmmm..."
+    ad "Mmmmmm"
+
+# game/day26.rpy:1169
+translate italian day26_discreet_session_b8925de9:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Dopo aver stabilito un ritmo di spinte profonde, tua madre si posiziona dietro Adriana Improvvisamente la sua fica sembra molto più stretta di prima."
+
+# game/day26.rpy:1170
+translate italian day26_discreet_session_cead87c0:
+
+    # ad "Are you inside me, mommy?"
+    ad "Sei dentro di me mamma?"
+
+# game/day26.rpy:1172
+translate italian day26_discreet_session_e8796c7c:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Dopo aver stabilito un ritmo di spinte profonde [m_name] si posiziona dietro Adriana Improvvisamente la sua fica si sente molto più stretta di prima."
+
+# game/day26.rpy:1173
+translate italian day26_discreet_session_2d4847a9:
+
+    # ad "Are you inside me?"
+    ad "Sei dentro di me?"
+
+# game/day26.rpy:1174
+translate italian day26_discreet_session_dff00f31:
+
+    # ad "Inside my ass?"
+    ad "Dentro il mio culo?"
+
+# game/day26.rpy:1175
+translate italian day26_discreet_session_533fd5d7:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Sì, piccola troia, ti faremo sentire così bene che non vorrai mai più un altro uomo nella tua vita."
+
+# game/day26.rpy:1181
+translate italian day26_discreet_session_9abdd26d:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Sia tu che [m_name] non date mai un attimo di tregua ad Adriana Lo strap-on pistona senza pietà dentro il suo buco del culo e voi alternate colpi rapidi e lunghi penetrandola sempre più a fondo."
+
+# game/day26.rpy:1183
+translate italian day26_discreet_session_a67dcfc3:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without any restraint."
+    "{i}L'iniziale sguardo di disagio di Adriana viene sostituito da un'estasi totale, mentre geme senza alcun ritegno."
+
+# game/day26.rpy:1186
+translate italian day26_discreet_session_22c2e5b8:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(non glielo dirò, ma io e Mr Holmes siamo una bella squadra, non ho mai visto Adriana perdere la testa così completamente)."
+
+# game/day26.rpy:1187
+translate italian day26_discreet_session_b4b76819:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Glielo permetto)"
+
+# game/day26.rpy:1188
+translate italian day26_discreet_session_2a232f2c:
+
+    # m "{i}(No...)"
+    m "{i}(No)"
+
+# game/day26.rpy:1189
+translate italian day26_discreet_session_a93ba455:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Forse nel contesto di questo gioco di ruolo)"
+
+# game/day26.rpy:1191
+translate italian day26_discreet_session_edc74c7a:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Fanculo voglio)"
+
+# game/day26.rpy:1193
+translate italian day26_discreet_session_fe569eea:
+
+    # m "Kiss your mother, son."
+    m "Bacia tua madre, figlio"
+
+# game/day26.rpy:1195
+translate italian day26_discreet_session_d43c5d70:
+
+    # m "Kiss me, boy."
+    m "Baciami ragazzo"
+
+# game/day26.rpy:1196
+translate italian day26_discreet_session_cf051d1a:
+
+    # p "{i}(No way!)"
+    p "{i}(Non è possibile!)"
+
+# game/day26.rpy:1199
+translate italian day26_discreet_session_20af5824:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Il bacio che vi scambiate è completamente diverso da quello nel letto di tua madre. C'è passione, non c'è fame, e la sua lingua esplora avidamente la tua."
+
+# game/day26.rpy:1201
+translate italian day26_discreet_session_5fa17325:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one you experienced in her bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Il bacio che vi scambiate è completamente diverso da quello che avete provato nel suo letto. C'è passione, non c'è fame, e la sua lingua esplora avidamente la vostra."
+
+# game/day26.rpy:1203
+translate italian day26_discreet_session_4dee552f:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Le maschere che entrambi indossate sono di grande intralcio, ma il bacio vi lascia comunque a bocca aperta."
+
+# game/day26.rpy:1206
+translate italian day26_discreet_session_f404eda9:
+
+    # m "Don't forget to keep fucking your sister."
+    m "Non dimenticare di continuare a scopare tua sorella."
+
+# game/day26.rpy:1208
+translate italian day26_discreet_session_78356733:
+
+    # m "Don't forget to keep fucking that pussy."
+    m "Non dimenticare di continuare a scopare quella figa."
+
+# game/day26.rpy:1217
+translate italian day26_discreet_session_575a57e1:
+
+    # "{i}You spread Adriana's buttocks and push your cock against her anus. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Allargate le natiche di Adriana e spingete il vostro cazzo contro il suo ano. La ragazza lo lascia fare e voi spingete la vostra asta bagnata in profondità dentro di lei."
+
+# game/day26.rpy:1218
+translate italian day26_discreet_session_94aba323:
+
+    # ad "Ooooh, god!"
+    ad "Ooooh Dio!"
+
+# game/day26.rpy:1219
+translate italian day26_discreet_session_dd5bf5aa:
+
+    # m "Ah, her asshole, nice and tight, good choice."
+    m "Ah, il suo buco del culo è bello e stretto, ottima scelta."
+
+# game/day26.rpy:1220
+translate italian day26_discreet_session_1be0ec35_1:
+
+    # m "Now fuck her."
+    m "Ora scopala"
+
+# game/day26.rpy:1223
+translate italian day26_discreet_session_1aebea9e:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Dopo aver stabilito un ritmo di spinte profonde, tua madre si posiziona tra le gambe di Adriana e improvvisamente il suo culo si sente molto più stretto di prima."
+
+# game/day26.rpy:1224
+translate italian day26_discreet_session_cead87c0_1:
+
+    # ad "Are you inside me, mommy?"
+    ad "Sei dentro di me mamma?"
+
+# game/day26.rpy:1226
+translate italian day26_discreet_session_24bad093:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Dopo aver stabilito un ritmo di spinte profonde, [m_name] si posiziona tra le gambe di Adriana e improvvisamente sente il suo culo molto più stretto di prima."
+
+# game/day26.rpy:1227
+translate italian day26_discreet_session_2d4847a9_1:
+
+    # ad "Are you inside me?"
+    ad "Sei dentro di me?"
+
+# game/day26.rpy:1228
+translate italian day26_discreet_session_a0158813:
+
+    # ad "Inside my pussy?"
+    ad "Dentro la mia figa?"
+
+# game/day26.rpy:1229
+translate italian day26_discreet_session_533fd5d7_1:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Sì, piccola troia, ti faremo sentire così bene che non vorrai mai più un altro uomo nella tua vita."
+
+# game/day26.rpy:1234
+translate italian day26_discreet_session_9abdd26d_1:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Sia tu che [m_name] non date mai un attimo di tregua ad Adriana Lo strap-on pistona senza pietà dentro il suo buco del culo e voi alternate colpi rapidi e lunghi penetrandola sempre più a fondo."
+
+# game/day26.rpy:1236
+translate italian day26_discreet_session_111ad91b:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without restraint."
+    "{i}L'iniziale sguardo di disagio di Adriana è sostituito da un'estasi totale, mentre geme senza ritegno."
+
+# game/day26.rpy:1239
+translate italian day26_discreet_session_22c2e5b8_1:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(non glielo dirò, ma io e Mr Holmes siamo una bella squadra, non ho mai visto Adriana perdere la testa così completamente)."
+
+# game/day26.rpy:1240
+translate italian day26_discreet_session_b4b76819_1:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Glielo permetto)"
+
+# game/day26.rpy:1241
+translate italian day26_discreet_session_2a232f2c_1:
+
+    # m "{i}(No...)"
+    m "{i}(No)"
+
+# game/day26.rpy:1242
+translate italian day26_discreet_session_a93ba455_1:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Forse nel contesto di questo gioco di ruolo)"
+
+# game/day26.rpy:1243
+translate italian day26_discreet_session_edc74c7a_1:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Fanculo voglio)"
+
+# game/day26.rpy:1245
+translate italian day26_discreet_session_fe569eea_1:
+
+    # m "Kiss your mother, son."
+    m "Bacia tua madre, figlio"
+
+# game/day26.rpy:1247
+translate italian day26_discreet_session_d43c5d70_1:
+
+    # m "Kiss me, boy."
+    m "Baciami ragazzo"
+
+# game/day26.rpy:1248
+translate italian day26_discreet_session_cf051d1a_1:
+
+    # p "{i}(No way!)"
+    p "{i}(Non è possibile!)"
+
+# game/day26.rpy:1250
+translate italian day26_discreet_session_128fef0a:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and your mother moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] si sfila da Adriana che sussulta per la sorpresa e tua madre si muove verso di te Spinge la ragazza il cui culo sta ancora ricevendo un martellamento dal tuo cazzo e una sorpresa Adriana quasi cade a terra."
+
+# game/day26.rpy:1252
+translate italian day26_discreet_session_e052f5e9:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] si sfila da Adriana che sussulta per la sorpresa e la donna più anziana si muove verso di te Spinge la ragazza il cui culo sta ancora ricevendo un martellamento dal tuo cazzo e una sorpresa Adriana quasi cade a terra."
+
+# game/day26.rpy:1255
+translate italian day26_discreet_session_a7df9a82:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Senza esitare accarezzi le labbra di [m_name] con le tue Il bacio che vi scambiate è completamente diverso da quello nel letto di tua madre C'è passione, non c'è fame dietro e la sua lingua esplora avidamente la tua"
+
+# game/day26.rpy:1257
+translate italian day26_discreet_session_9737adfa:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in [m_name]'s bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Senza esitazione accarezzi le labbra di [m_name] con le tue Il bacio che vi scambiate è completamente diverso da quello nel letto di [m_name] C'è passione, non c'è fame dietro e la sua lingua esplora avidamente la tua"
+
+# game/day26.rpy:1258
+translate italian day26_discreet_session_4dee552f_1:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Le maschere che entrambi indossate sono di grande intralcio, ma il bacio vi lascia comunque a bocca aperta."
+
+# game/day26.rpy:1261
+translate italian day26_discreet_session_7a783fd1:
+
+    # m "Don't forget to keep fucking your sister's ass."
+    m "Non dimenticare di continuare a scopare il culo di tua sorella."
+
+# game/day26.rpy:1263
+translate italian day26_discreet_session_5133ba48:
+
+    # m "Don't forget to keep fucking that asshole."
+    m "Non dimenticare di continuare a scopare quello stronzo."
+
+# game/day26.rpy:1264
+translate italian day26_discreet_session_017cf4fb:
+
+    # ad "Y-yes please, keep fucking me!"
+    ad "S-sì, ti prego, continua a scoparmi!."
+
+# game/day26.rpy:1265
+translate italian day26_discreet_session_37fee602:
+
+    # m "He's going to fill you with his seed any time now."
+    m "Da un momento all'altro ti riempirà del suo seme."
+
+# game/day26.rpy:1267
+translate italian day26_discreet_session_9179d8b6:
+
+    # m "You like that, don't you Adriana, your brother filling you up with his warm seed?"
+    m "Ti piace, vero Adriana, che tuo fratello ti riempia del suo caldo seme?."
+
+# game/day26.rpy:1269
+translate italian day26_discreet_session_cb89798a:
+
+    # m "You like that, don't you Adriana, your roommate filling you up with his warm seed?"
+    m "Ti piace, vero Adriana, il tuo compagno di stanza che ti riempie del suo seme caldo?."
+
+# game/day26.rpy:1270
+translate italian day26_discreet_session_2ed4e74c:
+
+    # ad "I love it!"
+    ad "I love it!"
+
+# game/day26.rpy:1272
+translate italian day26_discreet_session_d5c76f94:
+
+    # m "And who are the only ones who get to own your pussy?"
+    m "E chi sono gli unici a possedere la tua figa?."
+
+# game/day26.rpy:1273
+translate italian day26_discreet_session_e72a5940:
+
+    # ad "You both do!"
+    ad "Lo fate entrambi!"
+
+# game/day26.rpy:1275
+translate italian day26_discreet_session_ed5592f6:
+
+    # "{i}Adriana's pussy is very tight, and your cock is stimulated by [m_name]'s thrusting as well. When you lift the girl, you penetrate her even more intensely than before."
+    "{i}La figa di Adriana è molto stretta e anche il tuo cazzo è stimolato dalle spinte di [m_name] Quando sollevi la ragazza la penetri ancora più intensamente di prima."
+
+# game/day26.rpy:1276
+translate italian day26_discreet_session_a5b62c1f:
+
+    # ad "Aaaaaah!"
+    ad "Aaaaaah!"
+
+# game/day26.rpy:1284
+translate italian day26_discreet_session_d4d3c59a:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her vagina with your cum."
+    "{i}L'orgasmo profondo di Adriana è ciò che fa raggiungere anche a te il tuo climax Mentre la receptionist si contorce sul tuo cazzo e sul dildo di [m_name] tu rivesti le pareti della sua vagina con il tuo sperma."
+
+# game/day26.rpy:1285
+translate italian day26_discreet_session_ade7a4f1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "Riempitemi! Oh Dio!!!"
+
+# game/day26.rpy:1287
+translate italian day26_discreet_session_4dc8d7d1:
+
+    # "{i}Semen is running down her thighs as your mother fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Lo sperma le cola lungo le cosce mentre tua madre le scopa il culo ancora un po' per prolungare l'orgasmo della ragazza."
+
+# game/day26.rpy:1289
+translate italian day26_discreet_session_59d38f7f:
+
+    # "{i}Semen is running down her thighs as [m_name] fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Lo sperma le scorre lungo le cosce mentre [m_name] le scopa il culo un po' più a lungo per prolungare l'orgasmo della ragazza."
+
+# game/day26.rpy:1305
+translate italian day26_discreet_session_30c15f46:
+
+    # m "And who are the only ones who get to own your ass?"
+    m "E chi sono gli unici a possedere il tuo culo?."
+
+# game/day26.rpy:1306
+translate italian day26_discreet_session_e72a5940_1:
+
+    # ad "You both do!"
+    ad "Lo fate entrambi!"
+
+# game/day26.rpy:1308
+translate italian day26_discreet_session_2ed2e250:
+
+    # "{i}Adriana's asshole is very tight and your cock is stimulated by [m_name]'s thrusting as well. Your force her hands behind her back and [m_name] chokes her exposed throat."
+    "{i}Il buco del culo di Adriana è molto stretto e il tuo cazzo è stimolato dalle spinte di [m_name]."
+
+# game/day26.rpy:1309
+translate italian day26_discreet_session_491a1a7b:
+
+    # "{i}The deprivation of air tightens every muscle in her body and allows Adriana to orgasm."
+    "{i}La privazione dell'aria stringe ogni muscolo del corpo e permette ad Adriana di raggiungere l'orgasmo."
+
+# game/day26.rpy:1310
+translate italian day26_discreet_session_7027df9a:
+
+    # ad "Gaaah!"
+    ad "Gaaah!"
+
+# game/day26.rpy:1318
+translate italian day26_discreet_session_8d34da63:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her anal cavity with your cum."
+    "{i}L'orgasmo profondo di Adriana è ciò che fa raggiungere anche a te il tuo climax Mentre la receptionist si contorce sul tuo cazzo e sul dildo di [m_name] tu rivesti le pareti della sua cavità anale con il tuo sperma."
+
+# game/day26.rpy:1319
+translate italian day26_discreet_session_ade7a4f1_1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "Riempitemi! Oh Dio!!!"
+
+# game/day26.rpy:1321
+translate italian day26_discreet_session_e78775bc:
+
+    # "{i}Semen is running down her thighs and your mother's as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Lo sperma scorre sulle sue cosce e su quelle di tua madre, mentre quest'ultima le scopa la figa un po' più a lungo per prolungare l'orgasmo della ragazza."
+
+# game/day26.rpy:1323
+translate italian day26_discreet_session_12d25931:
+
+    # "{i}Semen is running down her thighs and [m_name]'s as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Lo sperma scorre lungo le sue cosce e quelle di [m_name] mentre quest'ultimo le scopa la figa un po' più a lungo per prolungare l'orgasmo della ragazza."
+
+# game/day26.rpy:1330
+translate italian day26_discreet_session_21833e20:
+
+    # m "I think we showed your sister how we do things here at home."
+    m "Credo che abbiamo mostrato a tua sorella come si fa qui a casa."
+
+# game/day26.rpy:1331
+translate italian day26_discreet_session_fda5a30b:
+
+    # p "We sure did, mother."
+    p "Certo che sì, mamma."
+
+# game/day26.rpy:1332
+translate italian day26_discreet_session_3e6ef507:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Puoi sdraiarti sul pavimento ancora un po' Adriana e poi pulisci tutto Hai sporcato il pavimento."
+
+# game/day26.rpy:1333
+translate italian day26_discreet_session_30c2d1c5:
+
+    # ad "Yes mommy."
+    ad "Sì mamma"
+
+# game/day26.rpy:1335
+translate italian day26_discreet_session_52be45d4:
+
+    # m "I think we showed your roommate how we do things here at home."
+    m "Penso che abbiamo mostrato alla tua compagna di stanza come facciamo le cose qui a casa."
+
+# game/day26.rpy:1336
+translate italian day26_discreet_session_0e11dc8c:
+
+    # p "We sure did, landlady."
+    p "Certo che sì, padrona di casa"
+
+# game/day26.rpy:1337
+translate italian day26_discreet_session_3e6ef507_1:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Puoi sdraiarti sul pavimento ancora un po' Adriana e poi pulisci tutto Hai sporcato il pavimento."
+
+# game/day26.rpy:1338
+translate italian day26_discreet_session_6c0cf7d4:
+
+    # ad "Yes landlady."
+    ad "Sì padrona di casa"
+
+# game/day26.rpy:1340
+translate italian day26_discreet_session_ebe9b528:
+
+    # "{i}[m_name] exits the room, leaving you alone with Adriana, who is still lying wasted on the floor."
+    "{i}[m_name] esce dalla stanza lasciandoti solo con Adriana che giace ancora sciupata sul pavimento."
+
+# game/day26.rpy:1357
+translate italian day26_b_hotel_sex_8ba85639:
+
+    # b "I think I'm ready for bed."
+    b "Credo di essere pronto per andare a letto."
+
+# game/day26.rpy:1358
+translate italian day26_b_hotel_sex_c43ee188:
+
+    # p "Sweet mother of Jesus, I'd say you are."
+    p "Dolce madre di Gesù, direi che lo sei."
+
+# game/day26.rpy:1359
+translate italian day26_b_hotel_sex_a051ad79:
+
+    # b "You like it? I bought it for the occasion."
+    b "Ti piace? L'ho comprato per l'occasione."
+
+# game/day26.rpy:1361
+translate italian day26_b_hotel_sex_46bc0cc0:
+
+    # p "I love it."
+    p "Mi piace"
+
+# game/day26.rpy:1366
+translate italian day26_b_hotel_sex_b28e367c:
+
+    # p "It accentuates your body in all the right places."
+    p "Mette in risalto il corpo nei punti giusti."
+
+# game/day26.rpy:1367
+translate italian day26_b_hotel_sex_1414059f:
+
+    # b "Do you mean it brings out my inner beauty? Or are you just drooling over my ass?"
+    b "Vuoi dire che fa risaltare la mia bellezza interiore? O stai solo sbavando sul mio sedere?."
+
+# game/day26.rpy:1368
+translate italian day26_b_hotel_sex_d69c9249:
+
+    # p "Inner beauty!"
+    p "Bellezza interiore!"
+
+# game/day26.rpy:1370
+translate italian day26_b_hotel_sex_a2157a79:
+
+    # p "That's the right answer, isn't it?"
+    p "È la risposta giusta, vero?."
+
+# game/day26.rpy:1371
+translate italian day26_b_hotel_sex_2993e132:
+
+    # b "Maybe..."
+    b "Forse"
+
+# game/day26.rpy:1372
+translate italian day26_b_hotel_sex_e69de8f9:
+
+    # b "Do you mind if I join you on the bed?"
+    b "Ti dispiace se mi unisco a te sul letto?."
+
+# game/day26.rpy:1373
+translate italian day26_b_hotel_sex_45a1b373:
+
+    # p "By all means!"
+    p "Con tutti i mezzi!"
+
+# game/day26.rpy:1378
+translate italian day26_b_hotel_sex_8d28c468:
+
+    # "{i}[b_name] crawls onto the bed with you and nestles herself in your arms, her soft skin is warm against your body."
+    "{i}[b_name] striscia sul letto con te e si annida tra le tue braccia, la sua pelle morbida è calda contro il tuo corpo."
+
+# game/day26.rpy:1380
+translate italian day26_b_hotel_sex_0bd55328:
+
+    # b "Mmmm."
+    b "Mmmm"
+
+# game/day26.rpy:1381
+translate italian day26_b_hotel_sex_3c8785d6:
+
+    # p "You're so fucking perfect."
+    p "Sei così fottutamente perfetto"
+
+# game/day26.rpy:1382
+translate italian day26_b_hotel_sex_e3bd8c74:
+
+    # b "Why don't you kiss me then?"
+    b "Perché non mi baci, allora?."
+
+# game/day26.rpy:1383
+translate italian day26_b_hotel_sex_2a71e097:
+
+    # p "Great idea."
+    p "Grande idea"
+
+# game/day26.rpy:1385
+translate italian day26_b_hotel_sex_e5a04e7d:
+
+    # "{i}Ferocious perfectly describes the kiss you share. Any restraint the two of you displayed when Megan was still with you is completely forgotten. She's still nervous, and you feel her heart beating fast when you touch her breast."
+    "{i}Feroce descrive perfettamente il bacio che condividete Ogni ritegno che avete mostrato quando Megan era ancora con voi è completamente dimenticato È ancora nervosa e senti il suo cuore battere forte quando le tocchi il seno."
+
+# game/day26.rpy:1386
+translate italian day26_b_hotel_sex_ed27614f:
+
+    # b "I love you, [p_name]."
+    b "Ti amo [p_name]"
+
+# game/day26.rpy:1388
+translate italian day26_b_hotel_sex_69e21ec5:
+
+    # b "And I think I'm ready."
+    b "E credo di essere pronto."
+
+# game/day26.rpy:1389
+translate italian day26_b_hotel_sex_dfc6734e:
+
+    # p "{i}(This is probably the moment where a contingent of SWAT agents raids the hotel room before realizing they made a mistake and ruins this perfect moment.)"
+    p "{i}(Questo è probabilmente il momento in cui un contingente di agenti SWAT fa irruzione nella stanza d'albergo prima di rendersi conto di aver commesso un errore e rovinare questo momento perfetto)"
+
+# game/day26.rpy:1390
+translate italian day26_b_hotel_sex_281184d5:
+
+    # b "Do you want me?"
+    b "Mi vuoi?"
+
+# game/day26.rpy:1391
+translate italian day26_b_hotel_sex_7988a01b:
+
+    # p "I do."
+    p "Lo voglio"
+
+# game/day26.rpy:1394
+translate italian day26_b_hotel_sex_60f49f18:
+
+    # "{i}A small sigh escapes your sister, as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}A tua sorella sfugge un piccolo sospiro, come se si aspettasse un'altra risposta. I tuoi baci sono ora di natura più affamata, mentre lei cerca di toglierti la biancheria e di toglierti il reggiseno."
+
+# game/day26.rpy:1396
+translate italian day26_b_hotel_sex_62cc0e47:
+
+    # "{i}A small sigh escapes [b_name], as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Un piccolo sospiro sfugge a [b_name] come se si aspettasse un'altra risposta I tuoi baci sono ora di natura più affamata, mentre lei cerca di toglierti la biancheria intima e tu il reggiseno."
+
+# game/day26.rpy:1397
+translate italian day26_b_hotel_sex_2ed91204:
+
+    # p "{i}(No SWAT team yet! Yay for small miracles.)"
+    p "{i}(Ancora nessuna squadra SWAT! Evviva i piccoli miracoli)."
+
+# game/day26.rpy:1399
+translate italian day26_b_hotel_sex_8302aa11:
+
+    # "{i}When you're finally naked, you shower [b_name]'s body with kisses until reaching her pussy. After she invites your head between her legs you slowly lick her lower lips."
+    "{i}Quando sei finalmente nudo, inondi di baci il corpo di [b_name] fino a raggiungere la sua figa. Dopo che lei invita la tua testa tra le sue gambe, lecchi lentamente le sue labbra inferiori."
+
+# game/day26.rpy:1400
+translate italian day26_b_hotel_sex_5c1bf654:
+
+    # b "Ooooh, [p_name]."
+    b "Ooooh [p_name]"
+
+# game/day26.rpy:1405
+translate italian day26_b_hotel_sex_f8113d4b:
+
+    # "{i}She's already very wet, and a few well-placed caresses of your tongue nearly send her over the edge."
+    "{i}È già molto bagnata e qualche carezza ben assestata della tua lingua la fa quasi arrivare al limite."
+
+# game/day26.rpy:1406
+translate italian day26_b_hotel_sex_1679180d:
+
+    # "{i}[b_name] tries to stimulate your cock, but fails due to the waves of pleasure rippling through her body, caused by the movements of your tongue on her clit."
+    "{i}[b_name] cerca di stimolare il tuo cazzo, ma non ci riesce a causa delle ondate di piacere che le attraversano il corpo provocate dai movimenti della tua lingua sul suo clitoride."
+
+# game/day26.rpy:1407
+translate italian day26_b_hotel_sex_265d60f4:
+
+    # b "Make love to me, [p_name]!"
+    b "Fai l'amore con me [p_name]!."
+
+# game/day26.rpy:1408
+translate italian day26_b_hotel_sex_175ce63e:
+
+    # b "I want to feel you inside of me."
+    b "Voglio sentirti dentro di me."
+
+# game/day26.rpy:1416
+translate italian day26_b_hotel_sex_d7263f59:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your sister stops you for a moment."
+    "{i}I suoi succhi salati ancora freschi nella tua bocca spingi la punta della tua erezione contro l'ingresso della sua vagina Appoggiando una mano dolcemente sul tuo petto tua sorella ti ferma per un momento."
+
+# game/day26.rpy:1418
+translate italian day26_b_hotel_sex_75be97af:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your girlfriend stops you for a moment."
+    "{i}I suoi succhi salati ancora freschi nella tua bocca spingi la punta della tua erezione contro l'ingresso della sua vagina Appoggiando una mano morbidamente sul tuo petto la tua ragazza ti ferma per un momento."
+
+# game/day26.rpy:1419
+translate italian day26_b_hotel_sex_a26a5b21:
+
+    # b "Please be gentle with me, [p_name]."
+    b "Per favore, sii gentile con me [p_name]."
+
+# game/day26.rpy:1420
+translate italian day26_b_hotel_sex_e0ded75a:
+
+    # p "I'll go slow, baby."
+    p "Andrò piano, baby"
+
+# game/day26.rpy:1421
+translate italian day26_b_hotel_sex_867f4b98:
+
+    # "{i}Satisfied, [b_name] allows you to continue, and you push your cock teasingly slow inside her."
+    "{i}Soddisfatto [b_name] ti permette di continuare e tu spingi il tuo cazzo con stuzzicante lentezza dentro di lei."
+
+# game/day26.rpy:1423
+translate italian day26_b_hotel_sex_111c67c8:
+
+    # "{i}When you enter her, she sighs in a mixture of relief and pleasure. Her tightness surprises you and nearly makes you cum outright."
+    "{i}Quando la penetrate, lei sospira in un misto di sollievo e piacere La sua stretta vi sorprende e vi fa quasi sborrare."
+
+# game/day26.rpy:1424
+translate italian day26_b_hotel_sex_f17a0a22:
+
+    # b "Oh!"
+    b "Oh!"
+
+# game/day26.rpy:1425
+translate italian day26_b_hotel_sex_8087034a:
+
+    # "{i}After you both get your bearings, you kiss, and she motions you to go on."
+    "{i}Dopo che entrambi vi siete orientati, vi baciate e lei vi fa cenno di proseguire."
+
+# game/day26.rpy:1430
+translate italian day26_b_hotel_sex_1a096e67:
+
+    # "{i}Just like she asked, your thrusts are gentle, but deep. You both retreat in a world of pleasure, moaning and kissing all the while."
+    "{i}Proprio come mi ha chiesto, le tue spinte sono dolci ma profonde. Vi ritirate entrambi in un mondo di piacere, gemendo e baciandovi per tutto il tempo."
+
+# game/day26.rpy:1432
+translate italian day26_b_hotel_sex_ffad643a:
+
+    # "{i}You explore the entirety of her body with your fingers, the softness of her breasts, her toned belly, her beautiful thighs, taught with pleasure."
+    "{i}Esplori l'interezza del suo corpo con le dita, la morbidezza dei suoi seni, il suo ventre tonico, le sue belle cosce insegnate dal piacere."
+
+# game/day26.rpy:1434
+translate italian day26_b_hotel_sex_ed5a9706:
+
+    # "{i}The hotel room proves to be a great idea. You both feel completely free, as is evident by the increasing volume of the sounds of your love making."
+    "{i}La camera d'albergo si è rivelata un'ottima idea Vi sentite entrambi completamente liberi, come è evidente dal volume crescente dei suoni del vostro fare l'amore"
+
+# game/day26.rpy:1435
+translate italian day26_b_hotel_sex_b0608f60:
+
+    # b "Just right there, [p_name], don't stop!"
+    b "Proprio lì [p_name] non fermarti!."
+
+# game/day26.rpy:1436
+translate italian day26_b_hotel_sex_6666a5bf:
+
+    # p "Are you going to cum for me baby?"
+    p "Hai intenzione di sborrare per me, piccola?."
+
+# game/day26.rpy:1438
+translate italian day26_b_hotel_sex_c6ab430f:
+
+    # b "Y-yes, y-es I am."
+    b "Sì, sì, sì, sono io."
+
+# game/day26.rpy:1447
+translate italian day26_b_hotel_sex_f5203134:
+
+    # "{i}Letting out a small scream, your sister orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Emettendo un piccolo grido, tua sorella ha un orgasmo mentre continui a scoparla. Il suo climax dura molto a lungo e lei è inerme tra le tue braccia, sopraffatta da ondate di piacere."
+
+# game/day26.rpy:1449
+translate italian day26_b_hotel_sex_61957f95:
+
+    # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Emettendo un piccolo grido [b_name] ha un orgasmo mentre continui a scoparla Il suo climax dura molto a lungo e lei è inerme tra le tue braccia, sopraffatta da ondate di piacere su ondate."
+
+# game/day26.rpy:1450
+translate italian day26_b_hotel_sex_385f7131:
+
+    # b "I.. l-love y-you!"
+    b "Io ti amo!."
+
+# game/day26.rpy:1452
+translate italian day26_b_hotel_sex_6d515908:
+
+    # "{i}You kiss her while her body still trembles. A wealth of her juices covers her sex and eases your way to penetrating her even more deeply."
+    "{i}La baci mentre il suo corpo ancora trema Un'abbondante quantità di succhi di lei ricopre il suo sesso e ti facilita la strada per penetrarla ancora più profondamente"
+
+# game/day26.rpy:1454
+translate italian day26_b_hotel_sex_b8410009:
+
+    # "{i}Biting her lower lip and wearing a look of bliss, [b_name] guides your movements, kneading your buttocks and massaging your sensitive balls."
+    "{i}Mordendosi il labbro inferiore e indossando uno sguardo di beatitudine [b_name] guida i tuoi movimenti impastandoti le natiche e massaggiando le tue palle sensibili."
+
+# game/day26.rpy:1455
+translate italian day26_b_hotel_sex_b918c839:
+
+    # b "I want you, all of it!"
+    b "Ti voglio tutto!."
+
+# game/day26.rpy:1457
+translate italian day26_b_hotel_sex_d3c99773:
+
+    # "{i}Sweat is pearling from both your bodies as you enter the final stretch. [b_name] senses you're nearly ready and looks into your eyes while you keep fucking her pussy."
+    "{i}Il sudore cola da entrambi i vostri corpi mentre entrate nel tratto finale [b_name] intuisce che siete quasi pronti e vi guarda negli occhi mentre continuate a scoparle la figa."
+
+# game/day26.rpy:1470
+translate italian day26_b_hotel_sex_28ecca1e:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of your sister with hot seed."
+    "{i}Il suo sguardo di adorazione è ciò che scatena il tuo orgasmo Ti paralizza quasi e l'unica cosa che riesci a fare è ringhiare e baciare la sua nuca mentre il tuo cazzo ricopre l'interno di tua sorella di seme caldo."
+
+# game/day26.rpy:1472
+translate italian day26_b_hotel_sex_dc23b31f:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
+    "{i}Il suo sguardo di adorazione è ciò che scatena il tuo orgasmo Ti paralizza quasi e l'unica cosa che riesci a fare è ringhiare e baciare la sua nuca mentre il tuo cazzo ricopre l'interno di [b_name] di seme caldo"
+
+# game/day26.rpy:1489
+translate italian day26_b_hotel_sex_6ecfe49c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's body with hot seed."
+    "{i}Il suo sguardo di adorazione è ciò che scatena il tuo orgasmo Ti paralizza quasi, ma riesci a tirarti fuori e, ringhiando di lussuria, ricopri il corpo di tua sorella di seme caldo."
+
+# game/day26.rpy:1491
+translate italian day26_b_hotel_sex_b5d1fb5c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s body with hot seed."
+    "{i}Il suo sguardo di adorazione è ciò che scatena il tuo orgasmo Ti paralizzi quasi, ma riesci a tirarti fuori e, ringhiando di lussuria, ricopri il corpo di [b_name] di seme caldo"
+
+# game/day26.rpy:1506
+translate italian day26_b_hotel_sex_cb25e095:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's beautiful face with hot seed."
+    "{i}Il suo sguardo di adorazione è ciò che scatena il tuo orgasmo Ti paralizza quasi, ma riesci a tirarti fuori e, ringhiando di lussuria, ricopri il bel viso di tua sorella di seme caldo."
+
+# game/day26.rpy:1508
+translate italian day26_b_hotel_sex_6b1c1dc6:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s beautiful face with hot seed."
+    "{i}Il suo sguardo di adorazione è ciò che scatena il tuo orgasmo Ti paralizzi quasi, ma riesci a tirarti fuori e, ringhiando di lussuria, ricopri il bel viso di [b_name] di seme caldo"
+
+# game/day26.rpy:1517
+translate italian day26_b_hotel_sex_162d6918:
+
+    # "{i}Afterwards you just lie together in the afterglow, unable to speak for some time. [b_name] is the first to manage a few words."
+    "{i}Dopo, vi sdraiate insieme nel bagliore del giorno dopo, incapaci di parlare per qualche tempo [b_name] è il primo a riuscire a dire qualche parola."
+
+# game/day26.rpy:1518
+translate italian day26_b_hotel_sex_1c360853:
+
+    # b "You're... the best..."
+    b "Sei il migliore"
+
+# game/day26.rpy:1519
+translate italian day26_b_hotel_sex_1cb42a13:
+
+    # p "Thanks!"
+    p "Grazie!"
+
+# game/day26.rpy:1520
+translate italian day26_b_hotel_sex_baa29dcb:
+
+    # b "No... Yes... I mean..."
+    b "No, sì, intendo."
+
+# game/day26.rpy:1521
+translate italian day26_b_hotel_sex_98bc6270:
+
+    # b "You're the best thing that's ever happened to me."
+    b "Sei la cosa migliore che mi sia mai capitata."
+
+# game/day26.rpy:1523
+translate italian day26_b_hotel_sex_5b73eb1d:
+
+    # "{i}You notice the tears in her eyes and hold her close, kissing her hair."
+    "{i}Ti accorgi delle lacrime nei suoi occhi e la stringi a te baciandole i capelli."
+
+# game/day26.rpy:1524
+translate italian day26_b_hotel_sex_2989575c:
+
+    # p "Happy tears?"
+    p "Lacrime di felicità?"
+
+# game/day26.rpy:1525
+translate italian day26_b_hotel_sex_caf371f4:
+
+    # b "Of course, dummy."
+    b "Certo, scemo"
+
+# game/day26.rpy:1526
+translate italian day26_b_hotel_sex_6ed0083b:
+
+    # b "I love you."
+    b "Ti amo"
+
+# game/day26.rpy:1527
+translate italian day26_b_hotel_sex_8587becd:
+
+    # p "I love you too, [b_name]."
+    p "Anch'io ti amo [b_name]."
+

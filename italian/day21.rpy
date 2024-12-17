@@ -4313,3 +4313,2417 @@ translate italian day21_choices_96e28405:
 
     # p "Back when I lived at my dad's, I had a thing with an older woman."
     p "Quando vivevo da mio padre avevo una storia con una donna anziana."
+# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day21.rpy:460
+translate italian day21_b_gym_sex_144886ec:
+
+    # "{i}[b_name] knocks on your door after a while, and you both walk to the gym, chatting the whole way."
+    "{i}[b_name] bussa alla tua porta dopo un po' e andate entrambi in palestra chiacchierando per tutto il tragitto."
+
+# game/day21.rpy:462
+translate italian day21_b_gym_sex_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "Quindi è qui che avviene la magia?."
+
+# game/day21.rpy:463
+translate italian day21_b_gym_sex_668676f8:
+
+    # b "Hehe, just know it's going to be boring. Just exercises."
+    b "Hehe, sappiate che sarà un esercizio noioso."
+
+# game/day21.rpy:464
+translate italian day21_b_gym_sex_b80def4c:
+
+    # p "Watching a beautiful girl working up a sweat for me can't be boring."
+    p "Guardare una bella ragazza che suda per me non può essere noioso."
+
+# game/day21.rpy:465
+translate italian day21_b_gym_sex_e3b0b618:
+
+    # b "Ah, you think I'm doing this all for you?"
+    b "Ah, pensi che stia facendo tutto questo per te?."
+
+# game/day21.rpy:466
+translate italian day21_b_gym_sex_f151c2f9:
+
+    # p "What, you don't?!"
+    p "Cosa non fai?!."
+
+# game/day21.rpy:468
+translate italian day21_b_gym_sex_b0c9fd8a:
+
+    # b "Haha, you're such a dork sometimes."
+    b "Haha sei proprio un imbranato a volte."
+
+# game/day21.rpy:469
+translate italian day21_b_gym_sex_d8ad1d4b:
+
+    # p "It's one of my many fine qualities."
+    p "È una delle mie tante qualità."
+
+# game/day21.rpy:471
+translate italian day21_b_gym_sex_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] inizia quella che deve essere la sua routine abituale All'inizio è attenta alla vostra presenza, ma ben presto è presa dagli esercizi fisici."
+
+# game/day21.rpy:472
+translate italian day21_b_gym_sex_b1847037:
+
+    # p "{i}(Hot damn. What a girl!)"
+    p "{i}(Accidenti che ragazza!)"
+
+# game/day21.rpy:475
+translate italian day21_b_gym_sex_4f819c57:
+
+    # "{i}Your sister clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}Tua sorella ha chiaramente un regime di allenamento rigoroso e non si risparmia, il suo corpo è coperto di sudore."
+
+# game/day21.rpy:477
+translate italian day21_b_gym_sex_ed9f41ab:
+
+    # "{i}[b_name] clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] ha chiaramente un regime di allenamento rigoroso e non si risparmia, il suo corpo è coperto di sudore."
+
+# game/day21.rpy:478
+translate italian day21_b_gym_sex_e528c206:
+
+    # p "{i}(She sure has stamina, look at her going at it.)"
+    p "{i}(Ha di sicuro una buona resistenza, guardatela mentre lo fa)."
+
+# game/day21.rpy:479
+translate italian day21_b_gym_sex_2ace204e:
+
+    # p "Would you like a drink, [b_name]?"
+    p "Vuole bere qualcosa [b_name]?."
+
+# game/day21.rpy:480
+translate italian day21_b_gym_sex_aba98715:
+
+    # "{i}You hand her a bottle of cold water."
+    "{i}Le passi una bottiglia d'acqua fredda."
+
+# game/day21.rpy:485
+translate italian day21_b_gym_sex_9d41dd47:
+
+    # b "Thank you! Just what I needed."
+    b "Grazie! Proprio quello di cui avevo bisogno"
+
+# game/day21.rpy:486
+translate italian day21_b_gym_sex_770959f4:
+
+    # b "Could you lend me a hand with these next few exercises?"
+    b "Potresti darmi una mano con i prossimi esercizi?."
+
+# game/day21.rpy:487
+translate italian day21_b_gym_sex_a3d4cf4f:
+
+    # p "Sure thing."
+    p "Certo"
+
+# game/day21.rpy:488
+translate italian day21_b_gym_sex_01bd4b87:
+
+    # "{i}[b_name] walks to a more secluded corner of the gym. You don't see any specific workout equipment you could use together."
+    "{i}[b_name] cammina verso un angolo più appartato della palestra Non vede nessun attrezzo specifico per l'allenamento che potrebbe usare insieme."
+
+# game/day21.rpy:489
+translate italian day21_b_gym_sex_bef5a181:
+
+    # p "What would you like me to do?"
+    p "Cosa vuoi che faccia?."
+
+# game/day21.rpy:490
+translate italian day21_b_gym_sex_ce89ea26:
+
+    # b "Kiss me. Hard."
+    b "Baciami forte"
+
+# game/day21.rpy:491
+translate italian day21_b_gym_sex_5c041ffd:
+
+    # p "We're going to train those muscles?"
+    p "Alleneremo quei muscoli?."
+
+# game/day21.rpy:492
+translate italian day21_b_gym_sex_c80d3399:
+
+    # b "[p_name]... Why aren't you kissing me already?"
+    b "[p_name] Perché non mi stai già baciando?."
+
+# game/day21.rpy:493
+translate italian day21_b_gym_sex_71651c93:
+
+    # p "Right!"
+    p "Giusto!"
+
+# game/day21.rpy:495
+translate italian day21_b_gym_sex_a6bdc4b0:
+
+    # "{i}Within moments you're in a tight embrace and kiss her lips, still cold from the water she just drank."
+    "{i}In pochi istanti siete in uno stretto abbraccio e le baciate le labbra ancora fredde per l'acqua che ha appena bevuto."
+
+# game/day21.rpy:496
+translate italian day21_b_gym_sex_6aef8b85:
+
+    # "{i}Being this close to her arouses all those wild feelings you have for her in an instant, despite being surrounded by other people working out."
+    "{i}Essere così vicini a lei suscita in un attimo tutti quei sentimenti selvaggi che provi per lei, nonostante tu sia circondato da altre persone che si allenano."
+
+# game/day21.rpy:497
+translate italian day21_b_gym_sex_bdb94b53:
+
+    # b "Mmmmm. Just what I needed."
+    b "Mmmmm Proprio quello di cui avevo bisogno."
+
+# game/day21.rpy:498
+translate italian day21_b_gym_sex_e4f43b25:
+
+    # p "I just can't stop looking at you."
+    p "Non riesco a smettere di guardarti."
+
+# game/day21.rpy:499
+translate italian day21_b_gym_sex_346133e7:
+
+    # b "You're not making it easy for me either. Normally I would've done over forty squats."
+    b "Neanche tu mi rendi le cose facili, normalmente avrei fatto più di quaranta squat."
+
+# game/day21.rpy:500
+translate italian day21_b_gym_sex_6d5267bc:
+
+    # p "So you'll grow fat and lazy because I'm distracting you?"
+    p "Quindi diventerai grasso e pigro perché ti distraggo?."
+
+# game/day21.rpy:502
+translate italian day21_b_gym_sex_6663db28:
+
+    # b "And old, don't forget old."
+    b "E i vecchi non dimenticano i vecchi."
+
+# game/day21.rpy:503
+translate italian day21_b_gym_sex_30e929d1:
+
+    # p "We'd better train those tongue muscles again for good measure."
+    p "Sarà meglio allenare di nuovo i muscoli della lingua."
+
+# game/day21.rpy:504
+translate italian day21_b_gym_sex_ea8c1349:
+
+    # b "Good idea."
+    b "Buona idea"
+
+# game/day21.rpy:507
+translate italian day21_b_gym_sex_8eac1a57:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and your sister moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}La tua lingua esplora i confini della sua bocca calda e tua sorella geme mentre succhi la punta della sua lingua La sua gamba superiore spinge contro il tuo inguine dove l'erezione sta crescendo rapidamente."
+
+# game/day21.rpy:509
+translate italian day21_b_gym_sex_47d65306:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and she moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}La tua lingua esplora i confini della sua bocca calda e lei geme mentre succhi la punta della sua lingua La sua gamba superiore spinge contro il tuo inguine dove l'erezione sta crescendo rapidamente."
+
+# game/day21.rpy:519
+translate italian day21_b_gym_sex_6756e9e3:
+
+    # "{i}Without thinking, you trace the curve of her body with your hands until arriving at her sports shorts. You can't help yourself, and one of your hands slips inside. [b_name] gasps but doesn't stop you, as she's too focused on kissing you."
+    "{i}Senza pensare, tracci con le mani le curve del suo corpo fino ad arrivare ai suoi pantaloncini sportivi. Non puoi farne a meno e una delle tue mani scivola dentro [b_name] ansima ma non ti ferma perché è troppo concentrata a baciarti."
+
+# game/day21.rpy:520
+translate italian day21_b_gym_sex_9dffafa2:
+
+    # b "Mmmmmm..."
+    b "Mmmmmm"
+
+# game/day21.rpy:522
+translate italian day21_b_gym_sex_f45f6368:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, your sister softly moans."
+    "{i}Le tue dita esplorano il suo pube e scendono verso il suo sesso La sua pelle è sudata e calda, ma arrivando alla sua stretta fessura pensi che la sua umidità sia dovuta a qualcosa di più del semplice sudore Quando sfiori le labbra della sua figa, tua sorella geme dolcemente."
+
+# game/day21.rpy:524
+translate italian day21_b_gym_sex_6261ed4d:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, [b_name] softly moans."
+    "{i}Le tue dita esplorano il suo pube e scendono verso il suo sesso La sua pelle è sudata e calda, ma arrivando alla sua stretta fessura pensi che il suo bagnato sia dovuto a qualcosa di più del semplice sudore Quando sfiori le labbra della sua figa [b_name] geme dolcemente."
+
+# game/day21.rpy:525
+translate italian day21_b_gym_sex_828887ce:
+
+    # b "W-we shouldn't... not here... all these people..."
+    b "Non dovremmo essere qui con tutta questa gente."
+
+# game/day21.rpy:530
+translate italian day21_b_gym_sex_9ab270c8:
+
+    # "{i}Her half-hearted objection trails off in a whisper and she begins to gently grind her body back and forth against your hand to further stimulate her pussy."
+    "{i}La sua obiezione a metà si interrompe in un sussurro e inizia a strusciare delicatamente il suo corpo avanti e indietro contro la tua mano per stimolare ulteriormente la sua figa."
+
+# game/day21.rpy:531
+translate italian day21_b_gym_sex_4ef4b90b:
+
+    # p "I want you so bad!"
+    p "Ti voglio così tanto!"
+
+# game/day21.rpy:532
+translate italian day21_b_gym_sex_d6cb7822:
+
+    # b "Y-yes... I'm yours... A-all yours."
+    b "S-sì, sono tuo, tutto tuo."
+
+# game/day21.rpy:533
+translate italian day21_b_gym_sex_b4d7e83b:
+
+    # "{i}After a quick look around the gym, you see that nobody is watching you and decide to go a little further. One finger slips inside her cunny, and you slowly massage her clit with your thumb."
+    "{i}Dopo aver dato una rapida occhiata in giro per la palestra, vedi che nessuno ti sta guardando e decidi di andare un po' oltre Un dito scivola dentro la sua fica e tu le massaggi lentamente il clitoride con il pollice."
+
+# game/day21.rpy:534
+translate italian day21_b_gym_sex_34f81256:
+
+    # b "G-god..."
+    b "G-Dio"
+
+# game/day21.rpy:536
+translate italian day21_b_gym_sex_121be70c:
+
+    # "{i}[b_name] is trembling and breathing heavily into your ear as you rub her little button and penetrate her with your fingers. Her juices flow freely and soak the lining of her pants. She's already close to cumming."
+    "{i}[b_name] trema e respira pesantemente nel tuo orecchio mentre le strofini il bottoncino e la penetri con le dita I suoi succhi fluiscono liberamente e bagnano la fodera dei suoi pantaloni È già prossima a sborrare."
+
+# game/day21.rpy:541
+translate italian day21_b_gym_sex_f203a078:
+
+    # b "Keep going.... Aaah... don't stop!"
+    b "Continua ad andare avanti Aaah non fermarti!."
+
+# game/day21.rpy:544
+translate italian day21_b_gym_sex_d12bed83:
+
+    # "{i}With clenched teeth, [b_name] orgasms. She buries her face in your chest and lets out a muffled moan as you hold her trembling body."
+    "{i}A denti stretti [b_name] raggiunge l'orgasmo Seppellisce il viso nel tuo petto ed emette un gemito soffocato mentre tu stringi il suo corpo tremante."
+
+# game/day21.rpy:545
+translate italian day21_b_gym_sex_9f639178:
+
+    # b "F-f-fuuu... Mmmmmm...."
+    b "F-f-fuuu Mmmmmm"
+
+# game/day21.rpy:556
+translate italian day21_b_gym_sex_bf73b465:
+
+    # man "Hey, everything all right, [b_name]?"
+    man "Ehi tutto bene [b_name]?"
+
+# game/day21.rpy:557
+translate italian day21_b_gym_sex_721b1e4e:
+
+    # p "{i}(Jesus Christ... Where did this walking muscle come from all of a sudden?)"
+    p "{i}(Gesù Cristo, da dove viene questo muscolo che cammina all'improvviso?)."
+
+# game/day21.rpy:558
+translate italian day21_b_gym_sex_b53302e1:
+
+    # b "What? Oh... No... Everything is fine, Jake."
+    b "Cosa? Oh no, va tutto bene Jake."
+
+# game/day21.rpy:559
+translate italian day21_b_gym_sex_67d25e44:
+
+    # man "Really, it looked like you were crying."
+    man "Sembrava davvero che tu stessi piangendo."
+
+# game/day21.rpy:560
+translate italian day21_b_gym_sex_abec0156:
+
+    # b "Crying? Hahahaha! No."
+    b "Piangere? Hahahaha! No"
+
+# game/day21.rpy:561
+translate italian day21_b_gym_sex_15832199:
+
+    # b "Err... That is... My boyfriend just wanted a kiss and told me something really funny..."
+    b "Err Quello è il mio ragazzo voleva solo un bacio e mi ha detto qualcosa di molto divertente."
+
+# game/day21.rpy:562
+translate italian day21_b_gym_sex_6d909fa8:
+
+    # p "{i}(Boyfriend? I really like the sound of that.)"
+    p "{i}(Fidanzato? Mi piace molto come suona)."
+
+# game/day21.rpy:563
+translate italian day21_b_gym_sex_2b0d0ebf:
+
+    # man "Your boyfriend? That's new. Good for you."
+    man "Il tuo ragazzo? E' una cosa nuova, buona per te."
+
+# game/day21.rpy:564
+translate italian day21_b_gym_sex_33d08722:
+
+    # b "Very new..."
+    b "Molto nuovo"
+
+# game/day21.rpy:565
+translate italian day21_b_gym_sex_a51001c0:
+
+    # b "Jake, meet [p_name]."
+    b "Jake ti presento [p_name]"
+
+# game/day21.rpy:566
+translate italian day21_b_gym_sex_77336608:
+
+    # man "Hi [p_name], good to meet you."
+    man "Ciao [p_name] è un piacere conoscerti."
+
+# game/day21.rpy:567
+translate italian day21_b_gym_sex_f12f3823:
+
+    # p "Likewise."
+    p "Allo stesso modo"
+
+# game/day21.rpy:569
+translate italian day21_b_gym_sex_1c9cae75:
+
+    # man "Funny, I thought you told me you had a brother named [p_name]."
+    man "Strano, pensavo che mi avessi detto di avere un fratello di nome [p_name]."
+
+# game/day21.rpy:571
+translate italian day21_b_gym_sex_e56068d3:
+
+    # man "Funny, I thought you told me you had a roommate named [p_name]."
+    man "Strano, pensavo mi avessi detto che avevi un coinquilino di nome [p_name]."
+
+# game/day21.rpy:572
+translate italian day21_b_gym_sex_2a2fdc6d:
+
+    # p "{i}(Fuck...)"
+    p "{i}(Cazzo)"
+
+# game/day21.rpy:573
+translate italian day21_b_gym_sex_99bc9865:
+
+    # b "I did... I do... I... What a coincidence, right?!"
+    b "Ho fatto che che coincidenza, vero?."
+
+# game/day21.rpy:574
+translate italian day21_b_gym_sex_d38275bc:
+
+    # man "Yeah, I also remember you said he was a total cunt, so it's nice you found a [p_name], who isn't!"
+    man "Sì, mi ricordo anche che avevi detto che era un completo coglione, quindi è bello che tu abbia trovato un [p_name] che non lo è!."
+
+# game/day21.rpy:575
+translate italian day21_b_gym_sex_24c008e3:
+
+    # b "Hahaha! It sure is."
+    b "Hahaha! Certo che lo è"
+
+# game/day21.rpy:576
+translate italian day21_b_gym_sex_90285634:
+
+    # man "Well, I'll let you go back to working out."
+    man "Beh, ti lascio tornare ad allenarti."
+
+# game/day21.rpy:577
+translate italian day21_b_gym_sex_9ee609ae:
+
+    # b "Thanks Jake, be seeing you."
+    b "Grazie, Jake, ci vediamo."
+
+# game/day21.rpy:578
+translate italian day21_b_gym_sex_abfe29d7:
+
+    # p "Later, Jake."
+    p "Più tardi Jake"
+
+# game/day21.rpy:580
+translate italian day21_b_gym_sex_712f81ec:
+
+    # p "A total cunt?"
+    p "Un vero e proprio coglione?."
+
+# game/day21.rpy:581
+translate italian day21_b_gym_sex_fe00d6cb:
+
+    # b "Yes... well... You know how things were a while back."
+    b "Sì, beh, sai com'erano le cose un po' di tempo fa."
+
+# game/day21.rpy:586
+translate italian day21_b_gym_sex_a459634b:
+
+    # p "I know and I understand. I like the current situation better."
+    p "Lo so e lo capisco, mi piace di più la situazione attuale."
+
+# game/day21.rpy:588
+translate italian day21_b_gym_sex_26cf29e0:
+
+    # b "Me too!"
+    b "Anch'io!"
+
+# game/day21.rpy:591
+translate italian day21_b_gym_sex_01e4c0fc:
+
+    # p "Yeah, but I'm a little disappointed that you blabbered about it to everyone, even strangers."
+    p "Sì, ma sono un po' deluso che tu abbia spifferato tutto a tutti, anche agli estranei."
+
+# game/day21.rpy:592
+translate italian day21_b_gym_sex_5a6712b4:
+
+    # b "Jake is not really a stranger. He's the owner of the gym."
+    b "Jake non è proprio un estraneo, è il proprietario della palestra."
+
+# game/day21.rpy:593
+translate italian day21_b_gym_sex_5482603c:
+
+    # p "Same difference."
+    p "Stessa differenza"
+
+# game/day21.rpy:594
+translate italian day21_b_gym_sex_d817793f:
+
+    # b "All right, I'm sorry, okay?"
+    b "Va bene, mi dispiace, ok?."
+
+# game/day21.rpy:595
+translate italian day21_b_gym_sex_597a0cab:
+
+    # p "Thank you, that means a lot."
+    p "Grazie, significa molto."
+
+# game/day21.rpy:596
+translate italian day21_b_gym_sex_e373cc95:
+
+    # b "That was close..."
+    b "C'è mancato poco"
+
+# game/day21.rpy:597
+translate italian day21_b_gym_sex_2173159d:
+
+    # p "Do you think he knew what we were doing?"
+    p "Pensi che sapesse cosa stavamo facendo?."
+
+# game/day21.rpy:598
+translate italian day21_b_gym_sex_7c89abfd:
+
+    # b "He has his suspicions, I think."
+    b "Ha dei sospetti, credo."
+
+# game/day21.rpy:599
+translate italian day21_b_gym_sex_d5882690:
+
+    # p "So, no chance of you jerking me off right now?"
+    p "Quindi non c'è nessuna possibilità che tu mi faccia una sega in questo momento?."
+
+# game/day21.rpy:600
+translate italian day21_b_gym_sex_ef85b22b:
+
+    # b "What?! Here?"
+    b "Cosa? Qui?"
+
+# game/day21.rpy:601
+translate italian day21_b_gym_sex_1e48aeba:
+
+    # p "Just kidding. Though I do have a raging boner right now."
+    p "Sto scherzando, anche se in questo momento ho un'erezione furiosa."
+
+# game/day21.rpy:602
+translate italian day21_b_gym_sex_35cb0dc2:
+
+    # b "Sorry."
+    b "Mi dispiace"
+
+# game/day21.rpy:603
+translate italian day21_b_gym_sex_14437da3:
+
+    # p "Don't be, you just have that effect on me."
+    p "Non è vero che mi fai questo effetto."
+
+# game/day21.rpy:606
+translate italian day21_b_gym_sex_c5a8fed4:
+
+    # "{i}Although you don't really want to, you stop kissing and release her from your embrace."
+    "{i}Anche se non lo vuoi davvero, smetti di baciarla e liberala dal tuo abbraccio."
+
+# game/day21.rpy:607
+translate italian day21_b_gym_sex_275e1a19:
+
+    # p "Working out..."
+    p "Lavorare fuori"
+
+# game/day21.rpy:608
+translate italian day21_b_gym_sex_b2e91cce:
+
+    # b "Right. Yes. Very important."
+    b "Giusto Sì Molto importante"
+
+# game/day21.rpy:618
+translate italian day21_b_gym_sex_sub_c02de978:
+
+    # "{i}After a while [b_name] leaves her room and heads out to the gym. You follow her and walk with her, but she tries to ignore you the entire way."
+    "{i}Dopo un po' [b_name] esce dalla sua stanza e si dirige verso la palestra Tu la segui e cammini con lei, ma lei cerca di ignorarti per tutto il tragitto."
+
+# game/day21.rpy:622
+translate italian day21_b_gym_sex_sub_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "Quindi è qui che avviene la magia?."
+
+# game/day21.rpy:623
+translate italian day21_b_gym_sex_sub_a4a598e3:
+
+    # b "This where I work out, yes. On my own, without any 'help'..."
+    b "Questo è il luogo in cui mi alleno, sì, da solo, senza alcun 'aiuto'."
+
+# game/day21.rpy:624
+translate italian day21_b_gym_sex_sub_7c7a216e:
+
+    # p "Come on [b_name], you know I can help you reach new heights, the past few days must have proven that at least."
+    p "Suvvia [b_name] sai che posso aiutarti a raggiungere nuove vette, gli ultimi giorni devono averlo dimostrato."
+
+# game/day21.rpy:625
+translate italian day21_b_gym_sex_sub_8d57bbe6:
+
+    # b "You're so bad at innuendo, you know that?"
+    b "Sei pessimo nelle allusioni, lo sai?."
+
+# game/day21.rpy:626
+translate italian day21_b_gym_sex_sub_43bbbeed:
+
+    # p "I personally think it's one of my stronger talents."
+    p "Personalmente penso che sia uno dei miei talenti più forti."
+
+# game/day21.rpy:627
+translate italian day21_b_gym_sex_sub_822213e0:
+
+    # b "Well. Aren't you going to grope me in public or something?"
+    b "Beh, non hai intenzione di palpeggiarmi in pubblico o qualcosa del genere?."
+
+# game/day21.rpy:628
+translate italian day21_b_gym_sex_sub_85022ff7:
+
+    # p "Now now, do you think I'm that blunt? Just do your thing. I enjoy watching you."
+    p "Ora, pensi che io sia così schietto? Fai quello che devi fare, mi piace guardarti."
+
+# game/day21.rpy:630
+translate italian day21_b_gym_sex_sub_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] inizia quella che deve essere la sua routine abituale All'inizio è attenta alla vostra presenza, ma ben presto è presa dagli esercizi fisici."
+
+# game/day21.rpy:631
+translate italian day21_b_gym_sex_sub_f7510cab:
+
+    # p "{i}(Hot damn. One of these days she should be doing those squats on my cock.)"
+    p "{i}(Accidenti, uno di questi giorni dovrebbe fare quegli squat sul mio cazzo)."
+
+# game/day21.rpy:634
+translate italian day21_b_gym_sex_sub_65f33abb:
+
+    # "{i}Your sister clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}È evidente che tua sorella ha un regime di allenamento molto rigido e non si risparmia, il suo corpo è coperto di sudore."
+
+# game/day21.rpy:636
+translate italian day21_b_gym_sex_sub_5984f925:
+
+    # "{i}[b_name] clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] ha chiaramente un regime di allenamento rigoroso e non si risparmia, il suo corpo è coperto di sudore."
+
+# game/day21.rpy:637
+translate italian day21_b_gym_sex_sub_8f5eb655:
+
+    # p "{i}(That girl sure has stamina, good to know...)"
+    p "{i}(Quella ragazza ha sicuramente una certa resistenza, buono a sapersi)."
+
+# game/day21.rpy:638
+translate italian day21_b_gym_sex_sub_7f11eca3:
+
+    # p "Hey [b_name], let's go over there. I'll help you train."
+    p "Ehi [b_name] andiamo lì che ti aiuto ad allenarti."
+
+# game/day21.rpy:639
+translate italian day21_b_gym_sex_sub_d08b33d2:
+
+    # b "Can't you see I'm busy?"
+    b "Non vedi che sono occupato?."
+
+# game/day21.rpy:640
+translate italian day21_b_gym_sex_sub_38b6b876:
+
+    # p "No, you're done here. Come with me."
+    p "No, tu hai finito qui, vieni con me."
+
+# game/day21.rpy:642
+translate italian day21_b_gym_sex_sub_e9742a76:
+
+    # "{i}As you 'help' [b_name] with the exercising, your hands explore the tight fabric of her top. You massage her breasts and linger around her hard nipples. Her measured breathing suddenly falters, and she begins to squirm."
+    "{i}Mentre 'aiutate' [b_name] con l'esercizio, le vostre mani esplorano il tessuto stretto del suo top, le massaggiate i seni e vi soffermate sui capezzoli duri Il suo respiro misurato improvvisamente vacilla e lei inizia a contorcersi."
+
+# game/day21.rpy:643
+translate italian day21_b_gym_sex_sub_792eb6a8:
+
+    # p "You're doing great so far. Why don't you rub your ass against me?"
+    p "Per ora stai andando alla grande, perché non ti strusci contro di me?."
+
+# game/day21.rpy:644
+translate italian day21_b_gym_sex_sub_7bac559a:
+
+    # b "Somebody is going to notice!"
+    b "Qualcuno se ne accorgerà!."
+
+# game/day21.rpy:645
+translate italian day21_b_gym_sex_sub_f3d73fc3:
+
+    # p "In this place? Everybody is too self-absorbed."
+    p "In questo posto? Sono tutti troppo egocentrici"
+
+# game/day21.rpy:648
+translate italian day21_b_gym_sex_sub_910689c8:
+
+    # "{i}Your sister arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}Tua sorella inarca la schiena, preme il sedere contro il tuo inguine e si dimena Le sue natiche stimolano la tua crescente erezione Le sussurri all'orecchio."
+
+# game/day21.rpy:650
+translate italian day21_b_gym_sex_sub_a79d7fe2:
+
+    # "{i}The girl arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}La ragazza inarca la schiena, preme il sedere contro il tuo inguine e si dimena Le sue natiche stimolano la tua crescente erezione Le sussurri all'orecchio."
+
+# game/day21.rpy:651
+translate italian day21_b_gym_sex_sub_e09e2dc9:
+
+    # p "If there wasn't anybody around, I'd rip your clothes off and fuck you right here and now."
+    p "Se non ci fosse nessuno in giro ti strapperei i vestiti di dosso e ti scoperei qui e ora."
+
+# game/day21.rpy:657
+translate italian day21_b_gym_sex_sub_ae29689c:
+
+    # "{i}You let your fingers slide inside her sports pants, stroke the soft skin of her pubis and work your way further down. [b_name] gasps."
+    "{i}Lasci scivolare le dita all'interno dei suoi pantaloni sportivi accarezzando la pelle morbida del suo pube e facendoti strada più in basso [b_name] ansima."
+
+# game/day21.rpy:658
+translate italian day21_b_gym_sex_sub_6c438d84:
+
+    # p "Would you like that, [b_name]? Bury my cock deep inside your wet pussy..."
+    p "Ti piacerebbe [b_name]? Seppellire il mio cazzo in profondità nella tua figa bagnata."
+
+# game/day21.rpy:659
+translate italian day21_b_gym_sex_sub_77b110d2:
+
+    # "{i}What you feel inside her tight pants isn't just sweat, as it seems [b_name]'s cunny has responded to your stimulation. To your satisfaction, you notice that she's very wet as your finger slips inside her warm confines."
+    "{i}Quello che senti dentro i suoi pantaloni stretti non è solo sudore, perché sembra che la figa di [b_name] abbia risposto alla tua stimolazione. Con tua grande soddisfazione, noti che è molto bagnata, mentre il tuo dito scivola dentro i suoi caldi confini."
+
+# game/day21.rpy:660
+translate italian day21_b_gym_sex_sub_5f107e39:
+
+    # p "And that pussy is already wet..."
+    p "E quella figa è già bagnata."
+
+# game/day21.rpy:661
+translate italian day21_b_gym_sex_sub_5d98f8dc:
+
+    # b "Mmmmm... No! It's from the exercises... sweat!"
+    b "Mmmmm No! Viene dal sudore degli esercizi!."
+
+# game/day21.rpy:662
+translate italian day21_b_gym_sex_sub_b845af16:
+
+    # p "Your pussy is dripping wet and your clit... Ah, your clit is as hard as can be."
+    p "La tua figa è bagnata e il tuo clitoride Ah il tuo clitoride è durissimo."
+
+# game/day21.rpy:664
+translate italian day21_b_gym_sex_sub_39f994b7:
+
+    # "{i}You pull her pants down and massage her pussy and clit. Her legs begin to tremble and weakly, she tries to push your hand away."
+    "{i}Le abbassi i pantaloni e le massaggi la figa e il clitoride Le sue gambe cominciano a tremare e lei cerca debolmente di allontanare la tua mano."
+
+# game/day21.rpy:666
+translate italian day21_b_gym_sex_sub_7f0e271f:
+
+    # p "Are you enjoying yourself, sis?"
+    p "Ti stai divertendo, sorellina?"
+
+# game/day21.rpy:668
+translate italian day21_b_gym_sex_sub_a677306a:
+
+    # p "Are you enjoying yourself, [b_name]?"
+    p "Ti stai divertendo [b_name]?."
+
+# game/day21.rpy:669
+translate italian day21_b_gym_sex_sub_1cb8b021:
+
+    # b "No... Aaaaah... Mmmmm..."
+    b "No Aaaaah Mmmmm"
+
+# game/day21.rpy:670
+translate italian day21_b_gym_sex_sub_0c6ffba8:
+
+    # p "It seems you aren't concerned we might get caught?"
+    p "Sembra che non siate preoccupati che ci prendano?."
+
+# game/day21.rpy:671
+translate italian day21_b_gym_sex_sub_8054646e:
+
+    # b "Yes... Aah-I am."
+    b "Sì, sono io."
+
+# game/day21.rpy:672
+translate italian day21_b_gym_sex_sub_abd7fb7b:
+
+    # "{i}[b_name] wriggles against your body, her ass still massaging your cock. She doesn't want to escape from your lustful embrace any longer and gives herself over to your control."
+    "{i}[b_name] si dimena contro il tuo corpo, il suo culo continua a massaggiare il tuo cazzo Non vuole più sottrarsi al tuo abbraccio lussurioso e si abbandona al tuo controllo."
+
+# game/day21.rpy:673
+translate italian day21_b_gym_sex_sub_22fefb59:
+
+    # p "Do you want to cum?"
+    p "Vuoi sborrare?"
+
+# game/day21.rpy:675
+translate italian day21_b_gym_sex_sub_81039d72:
+
+    # b "Y-y-yes!"
+    b "S-sì!"
+
+# game/day21.rpy:676
+translate italian day21_b_gym_sex_sub_738b71f9:
+
+    # p "Say 'please'."
+    p "Dite 'per favore'."
+
+# game/day21.rpy:677
+translate italian day21_b_gym_sex_sub_ac1a813d:
+
+    # b "Please."
+    b "Per favore"
+
+# game/day21.rpy:678
+translate italian day21_b_gym_sex_sub_ffe3d7b9:
+
+    # p "'I want you to make me cum, [p_name], please.'"
+    p "'Voglio che tu mi faccia sborrare [p_name] per favore'."
+
+# game/day21.rpy:679
+translate italian day21_b_gym_sex_sub_f4b1f793:
+
+    # b "F-f-fuck!"
+    b "F-f-fuck!"
+
+# game/day21.rpy:680
+translate italian day21_b_gym_sex_sub_7ad8d009:
+
+    # b "I want you to make me cum, [p_name], please..."
+    b "Voglio che tu mi faccia sborrare [p_name] per favore."
+
+# game/day21.rpy:681
+translate italian day21_b_gym_sex_sub_eaa9ca80:
+
+    # p "Good girl."
+    p "Brava ragazza"
+
+# game/day21.rpy:688
+translate italian day21_b_gym_sex_sub_a454ff74:
+
+    # man "Is everything all right, miss? Is this man bothering you?"
+    man "Va tutto bene, signorina? Quest'uomo la sta infastidendo?."
+
+# game/day21.rpy:689
+translate italian day21_b_gym_sex_sub_35ba70ca:
+
+    # b "What?"
+    b "Cosa?"
+
+# game/day21.rpy:690
+translate italian day21_b_gym_sex_sub_26bba494:
+
+    # p "{i}(Fuck! Has he seen us?)"
+    p "{i}(Cazzo! Ci ha visti?)."
+
+# game/day21.rpy:691
+translate italian day21_b_gym_sex_sub_9359f322:
+
+    # p "{i}(Don't rat us out, [b_name]!)"
+    p "{i}(Non fare la spia [b_name]!)"
+
+# game/day21.rpy:692
+translate italian day21_b_gym_sex_sub_dcdc2c9d:
+
+    # b "Everything is fine. We know each other pretty well."
+    b "Va tutto bene, ci conosciamo abbastanza bene."
+
+# game/day21.rpy:693
+translate italian day21_b_gym_sex_sub_699164d8:
+
+    # man "Okay... if you say so. Just give a shout if you need anything."
+    man "Ok, se lo dici tu. Fai un fischio se hai bisogno di qualcosa."
+
+# game/day21.rpy:694
+translate italian day21_b_gym_sex_sub_95a41504:
+
+    # "{i}[b_name] inches closer towards you, almost protectively, her buttocks pressing against your erection which still hasn't subsided."
+    "{i}[b_name] si avvicina a te quasi in modo protettivo, le sue natiche premono contro la tua erezione che non si è ancora placata."
+
+# game/day21.rpy:695
+translate italian day21_b_gym_sex_sub_a06ef875:
+
+    # b "Thank you, but I'm good."
+    b "Grazie, ma sono a posto così."
+
+# game/day21.rpy:696
+translate italian day21_b_gym_sex_sub_764d76e8:
+
+    # man "Okay, well enjoy your workout."
+    man "Ok, goditi l'allenamento"
+
+# game/day21.rpy:697
+translate italian day21_b_gym_sex_sub_902fabbc:
+
+    # b "I will."
+    b "Lo farò"
+
+# game/day21.rpy:698
+translate italian day21_b_gym_sex_sub_cda4a5d4:
+
+    # p "{i}(She was until you interrupted us, you brain-dead beef-bus.)"
+    p "Era così fino a quando non ci hai interrotto, razza di manzo cerebroleso."
+
+# game/day21.rpy:701
+translate italian day21_b_gym_sex_sub_4528da82:
+
+    # "{i}As soon as the guy's back is turned, your sister starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Non appena il ragazzo si volta di spalle, tua sorella inizia a muovere di nuovo il culo contro il tuo inguine. Vuole chiaramente che tu continui e ti guarda con uno sguardo di attesa."
+
+# game/day21.rpy:703
+translate italian day21_b_gym_sex_sub_edc2c449:
+
+    # "{i}As soon as the guy's back is turned, [b_name] starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Non appena il ragazzo si volta di spalle, [b_name] inizia a muovere di nuovo il suo culo contro il tuo inguine. Vuole chiaramente che tu continui e ti guarda con uno sguardo di attesa."
+
+# game/day21.rpy:705
+translate italian day21_b_gym_sex_sub_2d5501e5:
+
+    # p "{i}(Now might be a good time to stop things. I'm pretty sure I have her completely ready for what's coming next.)"
+    p "{i}(Ora potrebbe essere un buon momento per fermare le cose, sono abbastanza sicuro di averla preparata completamente per quello che sta per succedere)."
+
+# game/day21.rpy:707
+translate italian day21_b_gym_sex_sub_0c82b872:
+
+    # p "{i}(If I stop now, she might be completely ready for what's coming next.)"
+    p "{i}(Se mi fermo ora potrebbe essere completamente pronta per quello che verrà dopo)."
+
+# game/day21.rpy:709
+translate italian day21_b_gym_sex_sub_c6dfc494:
+
+    # p "{i}(If I stop now, she might be ready for what's coming next.)"
+    p "{i}(Se mi fermo ora potrebbe essere pronta per quello che verrà dopo)."
+
+# game/day21.rpy:710
+translate italian day21_b_gym_sex_sub_3e8fbb37:
+
+    # p "I'm so sorry [b_name], but that guy completely ruined the mood."
+    p "Mi dispiace tanto [b_name] ma quel tipo ha completamente rovinato l'atmosfera."
+
+# game/day21.rpy:711
+translate italian day21_b_gym_sex_sub_ef0da038:
+
+    # b "But..."
+    b "Ma"
+
+# game/day21.rpy:712
+translate italian day21_b_gym_sex_sub_df44d03d:
+
+    # b "No!"
+    b "No!"
+
+# game/day21.rpy:714
+translate italian day21_b_gym_sex_sub_dd312059:
+
+    # b "Fine."
+    b "Bene"
+
+# game/day21.rpy:715
+translate italian day21_b_gym_sex_sub_587ad8c3:
+
+    # b "Be that way."
+    b "Sia così"
+
+# game/day21.rpy:716
+translate italian day21_b_gym_sex_sub_f68d136a:
+
+    # p "Let me see some squats."
+    p "Fammi vedere qualche squat"
+
+# game/day21.rpy:718
+translate italian day21_b_gym_sex_sub_85f7066f:
+
+    # "{i}[b_name] performs some cursory squats, her mind obviously fixed on other things. After she's done, you walk back home in silence."
+    "{i}[b_name] esegue alcuni squat sommari, la sua mente ovviamente è fissata su altre cose Dopo che ha finito, tornate a casa in silenzio."
+
+# game/day21.rpy:731
+translate italian day21_discreet_session_95fa9f8d:
+
+    # m "Ah, you're finally here again."
+    m "Finalmente sei di nuovo qui."
+
+# game/day21.rpy:732
+translate italian day21_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sì, signora."
+
+# game/day21.rpy:733
+translate italian day21_discreet_session_45a824a7:
+
+    # m "Come to fulfill some of your base desires?"
+    m "Venite a soddisfare alcuni dei vostri desideri più profondi?."
+
+# game/day21.rpy:734
+translate italian day21_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sì, signora."
+
+# game/day21.rpy:735
+translate italian day21_discreet_session_cecd225b:
+
+    # m "Undress."
+    m "Spogliarsi."
+
+# game/day21.rpy:736
+translate italian day21_discreet_session_4af4498e:
+
+    # p "{i}(Will this ever feel normal, undressing in front of her?)"
+    p "{i}(Sarà mai normale spogliarsi davanti a lei?)."
+
+# game/day21.rpy:737
+translate italian day21_discreet_session_0549bda9:
+
+    # m "Good. You may open a door."
+    m "Bene Puoi aprire una porta."
+
+# game/day21.rpy:738
+translate italian day21_discreet_session_05559a6b:
+
+    # "{i}You randomly pick a door and open it, expecting to find another starkly lit dungeon, like the one from the previous session."
+    "{i}Si sceglie a caso una porta e la si apre aspettandosi di trovare un altro dungeon illuminato a giorno come quello della sessione precedente."
+
+# game/day21.rpy:740
+translate italian day21_discreet_session_7d9ea6ef:
+
+    # m "Looks like we're going back to high school."
+    m "Sembra che stiamo tornando al liceo."
+
+# game/day21.rpy:741
+translate italian day21_discreet_session_3344d219:
+
+    # m "Did you have a good time there? Fuck a lot of girls?"
+    m "Ti sei divertito lì? Hai scopato con molte ragazze?."
+
+# game/day21.rpy:742
+translate italian day21_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Nessuna padrona"
+
+# game/day21.rpy:743
+translate italian day21_discreet_session_e1d72883:
+
+    # m "That's really sad. I think today we'll be able to remedy that."
+    m "È molto triste, credo che oggi potremo rimediare."
+
+# game/day21.rpy:744
+translate italian day21_discreet_session_443c06ff:
+
+    # p "I look forward to that, mistress."
+    p "Non vedo l'ora, signora."
+
+# game/day21.rpy:745
+translate italian day21_discreet_session_43af49d1:
+
+    # m "I'm sure you do. Look at that cock of yours, already hard in anticipation."
+    m "Ne sono certo Guarda il tuo cazzo già duro in attesa."
+
+# game/day21.rpy:746
+translate italian day21_discreet_session_59677baa:
+
+    # p "{i}(I just can't help it, with you so close...)"
+    p "{i}(Non posso farne a meno con te così vicino)."
+
+# game/day21.rpy:747
+translate italian day21_discreet_session_dc1a25c4:
+
+    # m "Have a seat."
+    m "Siediti"
+
+# game/day21.rpy:750
+translate italian day21_discreet_session_cd799cad:
+
+    # "{i}You sit down, naked, on a cold chair. You're pretty sure you've never experienced high school quite like this. [m_name] paces at the front of the classroom."
+    "{i}Ti siedi nudo su una sedia fredda Sei abbastanza sicuro di non aver mai vissuto una scuola superiore come questa [m_name] cammina davanti alla classe"
+
+# game/day21.rpy:751
+translate italian day21_discreet_session_943cde36:
+
+    # m "We're waiting for another student."
+    m "Stiamo aspettando un altro studente."
+
+# game/day21.rpy:752
+translate italian day21_discreet_session_d868e6ee:
+
+    # p "{i}(Looks like Adriana will also be here.)"
+    p "{i}(Sembra che ci sarà anche Adriana)"
+
+# game/day21.rpy:756
+translate italian day21_discreet_session_b79d2d0c:
+
+    # "{i}After a while, there's a knock on the door."
+    "{i}Dopo un po' bussano alla porta."
+
+# game/day21.rpy:757
+translate italian day21_discreet_session_1cd2afd5:
+
+    # m "Enter."
+    m "Invio"
+
+# game/day21.rpy:762
+translate italian day21_discreet_session_22718f3f:
+
+    # p "{i}(Sweet Jesus, what a gorgeous slut she is!)"
+    p "{i}(Gesù santo che splendida sgualdrina!)."
+
+# game/day21.rpy:763
+translate italian day21_discreet_session_13da845d:
+
+    # m "You're late, Adriana."
+    m "Sei in ritardo Adriana"
+
+# game/day21.rpy:764
+translate italian day21_discreet_session_84084fce:
+
+    # ad "I'm sorry, mistress."
+    ad "Mi dispiace padrona"
+
+# game/day21.rpy:765
+translate italian day21_discreet_session_7bea97c2:
+
+    # m "I don't want to hear your excuses, you know what the punishment is for being late."
+    m "Non voglio sentire le tue scuse, sai qual è la punizione per il ritardo."
+
+# game/day21.rpy:766
+translate italian day21_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Sì signora."
+
+# game/day21.rpy:767
+translate italian day21_discreet_session_4e5cd7f8:
+
+    # m "Remind our other student."
+    m "Ricorda all'altro studente"
+
+# game/day21.rpy:768
+translate italian day21_discreet_session_1a258af7:
+
+    # ad "If we're late, you'll spank our butt."
+    ad "Se siamo in ritardo ci sculaccerai il sedere."
+
+# game/day21.rpy:769
+translate italian day21_discreet_session_af8c729e:
+
+    # m "Indeed. Your ass is in need of a good thrashing."
+    m "In effetti il tuo culo ha bisogno di una bella bastonata."
+
+# game/day21.rpy:770
+translate italian day21_discreet_session_6ca2764f:
+
+    # m "Come here."
+    m "Vieni qui"
+
+# game/day21.rpy:771
+translate italian day21_discreet_session_fb194b13:
+
+    # "{i}Adriana walks over to [m_name], giving you a good look of her long legs and her breasts, which are nearly popping out of her tight blouse."
+    "{i}Adriana si avvicina a [m_name] mostrandoti le sue lunghe gambe e i suoi seni che quasi spuntano dalla camicetta attillata."
+
+# game/day21.rpy:772
+translate italian day21_discreet_session_47f81000:
+
+    # m "Bend over."
+    m "Piegarsi"
+
+# game/day21.rpy:787
+translate italian day21_discreet_session_81d54b29:
+
+    # "{i}Without warning, [m_name] slaps Adriana's left buttock with the flat of her hand. There's a lot of force behind that slap as the older woman doesn't seem to hold back."
+    "{i}Senza preavviso [m_name] schiaffeggia la natica sinistra di Adriana con il piatto della mano C'è molta forza dietro quello schiaffo, perché la donna più anziana non sembra trattenersi."
+
+# game/day21.rpy:788
+translate italian day21_discreet_session_8be86610:
+
+    # ad "Aaah!"
+    ad "Aaah!"
+
+# game/day21.rpy:789
+translate italian day21_discreet_session_fac8bd08:
+
+    # m "You've been a bad girl, Adriana."
+    m "Sei stata una cattiva ragazza Adriana."
+
+# game/day21.rpy:790
+translate italian day21_discreet_session_c3cd8b9c:
+
+    # m "Why are you late for class? Have you been sucking on too many dicks this morning?"
+    m "Perché sei in ritardo per la lezione? Hai succhiato troppi cazzi stamattina?."
+
+# game/day21.rpy:796
+translate italian day21_discreet_session_ad235a4e:
+
+    # ad "No, mistress! I'm sorry, mistress."
+    ad "No padrona! Mi dispiace padrona"
+
+# game/day21.rpy:797
+translate italian day21_discreet_session_1c6d2797:
+
+    # m "Come now, we all know what a little slut you are."
+    m "Adesso sappiamo tutti che razza di sgualdrina sei."
+
+# game/day21.rpy:798
+translate italian day21_discreet_session_55f8bf6a:
+
+    # m "You know it yourself."
+    m "Lo sai anche tu"
+
+# game/day21.rpy:799
+translate italian day21_discreet_session_a77e8295:
+
+    # ad "Y-y-yes, mistress. I'm a little slut."
+    ad "S-sì padrona sono una piccola troia"
+
+# game/day21.rpy:806
+translate italian day21_discreet_session_2e53e275:
+
+    # "{i}After another smack, angry red marks appear on Adriana's butt. Her face is contorted in a mixture of pleasure and pain."
+    "{i}Dopo un'altra sberla, sul sedere di Adriana appaiono dei segni rossi e rabbiosi. Il suo volto si contorce in un misto di piacere e dolore."
+
+# game/day21.rpy:807
+translate italian day21_discreet_session_23bd84e5:
+
+    # m "That's enough for now, sit your ass down."
+    m "Per ora basta così, siediti."
+
+# game/day21.rpy:808
+translate italian day21_discreet_session_b36f7b39:
+
+    # ad "Y-yes, mistress."
+    ad "Sì, signora"
+
+# game/day21.rpy:813
+translate italian day21_discreet_session_3ea55cdb:
+
+    # "{i}Adriana slowly walks towards the bench beside you and glances approvingly at your hard-on."
+    "{i}Adriana si avvicina lentamente alla panchina accanto a te e guarda con approvazione la tua erezione."
+
+# game/day21.rpy:814
+translate italian day21_discreet_session_a76475a6:
+
+    # ad "Permission to speak, mistress."
+    ad "Permesso di parlare padrona"
+
+# game/day21.rpy:815
+translate italian day21_discreet_session_03b95061:
+
+    # m "Granted."
+    m "Concesso"
+
+# game/day21.rpy:816
+translate italian day21_discreet_session_e09f889a:
+
+    # ad "John seems to enjoy my pain."
+    ad "John sembra godere del mio dolore"
+
+# game/day21.rpy:817
+translate italian day21_discreet_session_4ab303e4:
+
+    # m "Is that so, Mr. Holmes?"
+    m "È così, signor Holmes?."
+
+# game/day21.rpy:818
+translate italian day21_discreet_session_0bcbcb05:
+
+    # m "Don't say anything, that giant erection is proof enough."
+    m "Non dire nulla che l'erezione gigante è una prova sufficiente."
+
+# game/day21.rpy:819
+translate italian day21_discreet_session_e6ebf136:
+
+    # m "So you like it when little hussies get punished, Johnny-boy?"
+    m "Allora ti piace quando le femminucce vengono punite Johnny-boy?."
+
+# game/day21.rpy:820
+translate italian day21_discreet_session_991d47b4:
+
+    # p "Only if they deserve it, mistress."
+    p "Solo se se lo meritano, signora."
+
+# game/day21.rpy:821
+translate italian day21_discreet_session_db194f7d:
+
+    # m "Good answer."
+    m "Buona risposta"
+
+# game/day21.rpy:822
+translate italian day21_discreet_session_8c7c2a79:
+
+    # m "That boner must be uncomfortable, with the tip pressing against the underside of your desk."
+    m "L'erezione deve essere scomoda con la punta che preme contro la parte inferiore della scrivania."
+
+# game/day21.rpy:823
+translate italian day21_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Sì, signora"
+
+# game/day21.rpy:824
+translate italian day21_discreet_session_f8d3b929:
+
+    # m "Well, just think of something else, I'm sure it'll subside in just a moment."
+    m "Beh, pensi a qualcos'altro, sono sicuro che si placherà in un attimo."
+
+# game/day21.rpy:825
+translate italian day21_discreet_session_c76dd6d3:
+
+    # p "{i}(Fuck no it won't. I'm pretty sure I'm going to lift the table with my dick if this goes on.)"
+    p "{i}(Cazzo no, non lo farà, sono abbastanza sicuro che solleverò il tavolo con il mio cazzo se questo continua)"
+
+# game/day21.rpy:826
+translate italian day21_discreet_session_b70ccabd:
+
+    # m "We'll just continue with a lesson in female anatomy."
+    m "Continueremo con una lezione di anatomia femminile."
+
+# game/day21.rpy:827
+translate italian day21_discreet_session_eb4f4012:
+
+    # p "{i}(I'm dead.)"
+    p "{i}(sono morto)"
+
+# game/day21.rpy:828
+translate italian day21_discreet_session_0693628f:
+
+    # m "Adriana, come forward."
+    m "Adriana vieni avanti"
+
+# game/day21.rpy:829
+translate italian day21_discreet_session_3f715ae8:
+
+    # m "Lose the blouse."
+    m "Perdere la camicetta"
+
+# game/day21.rpy:831
+translate italian day21_discreet_session_71c53910:
+
+    # m "Today will be devoted to a study of the 'ass'."
+    m "La giornata di oggi sarà dedicata allo studio del 'culo'."
+
+# game/day21.rpy:832
+translate italian day21_discreet_session_0133b8c8:
+
+    # p "{i}(A subject that has always interested me greatly!)"
+    p "{i}(Un argomento che mi ha sempre interessato molto!)."
+
+# game/day21.rpy:833
+translate italian day21_discreet_session_5d9dd635:
+
+    # m "Together we'll discover how elastic and versatile the asshole really is."
+    m "Insieme scopriremo quanto è elastico e versatile il buco del culo."
+
+# game/day21.rpy:834
+translate italian day21_discreet_session_e0aefc29:
+
+    # m "Bend over, Adriana."
+    m "Piegati Adriana"
+
+# game/day21.rpy:835
+translate italian day21_discreet_session_78341e17:
+
+    # "{i}Without any shame, the receptionist presents her butt to you. [m_name] spreads her cheeks to fully reveal her delicate asshole."
+    "{i}Senza alcun pudore la receptionist vi presenta il suo sedere [m_name] allarga le guance per rivelare completamente il suo delicato buco del culo."
+
+# game/day21.rpy:836
+translate italian day21_discreet_session_4004dea2:
+
+    # m "What a sight to behold."
+    m "Che spettacolo da vedere"
+
+# game/day21.rpy:838
+translate italian day21_discreet_session_aae1bcec:
+
+    # m "It looks tight now, but Adriana has already shown what her butthole is capable of."
+    m "Adesso sembra stretto, ma Adriana ha già mostrato di cosa è capace il suo buco del culo."
+
+# game/day21.rpy:840
+translate italian day21_discreet_session_0cd76a53:
+
+    # m "It looks tight now, but with proper training, her butthole will amaze you."
+    m "Adesso sembra stretto, ma con un allenamento adeguato il suo buco del culo ti stupirà."
+
+# game/day21.rpy:841
+translate italian day21_discreet_session_8bf9df7e:
+
+    # m "Now lick her, make her feel good."
+    m "Ora leccala e falla sentire bene."
+
+# game/day21.rpy:847
+translate italian day21_discreet_session_8a9142c7:
+
+    # "{i}Encouraged by [m_name], you lower your head between Adriana's spread butt cheeks. The saline smell of her wet cunt tickles your nose as you softly lick the skin leading up to her asshole."
+    "{i}Incoraggiato da [m_name] abbassi la testa tra le chiappe divaricate di Adriana L'odore salino della sua fica bagnata ti solletica il naso mentre lecchi dolcemente la pelle che porta al suo buco del culo"
+
+# game/day21.rpy:848
+translate italian day21_discreet_session_5fd407ff:
+
+    # "{i}Adriana moans and shudders, wanting you to go on. You don't hesitate and circle around her little star with the tip of your tongue, eliciting even deeper moans from the girl."
+    "{i}Adriana geme e freme, vuole che tu continui. Non esiti e giri intorno alla sua stellina con la punta della lingua, provocando gemiti ancora più profondi da parte della ragazza."
+
+# game/day21.rpy:849
+translate italian day21_discreet_session_d9b6d38c:
+
+    # ad "A-aaa-h. Johnny!"
+    ad "A-aaa-h Johnny!"
+
+# game/day21.rpy:850
+translate italian day21_discreet_session_00b7b0f1:
+
+    # m "You hear that? She thinks you're doing very well."
+    m "Hai sentito? Pensa che tu stia facendo molto bene."
+
+# game/day21.rpy:852
+translate italian day21_discreet_session_cca1ec99:
+
+    # "{i}You focus all your attention on her butthole. With just the tip of your tongue, you lick and tease the folds of her rectum, until it's covered in your saliva."
+    "{i}Concentri tutta la tua attenzione sul suo buco del culo Con la sola punta della lingua lecchi e stuzzichi le pieghe del suo retto fino a ricoprirlo con la tua saliva."
+
+# game/day21.rpy:853
+translate italian day21_discreet_session_7bfc867d:
+
+    # "{i}Then, using your tongue as a wet spear, you plunge it deep inside her anal cavity. Adriana screams with pleasure as your tongue explores her ass. Her swollen pussy starts dripping with her moisture, wetting her inner thighs and legs."
+    "{i}Poi, usando la tua lingua come una lancia bagnata, la affondi in profondità nella sua cavità anale Adriana urla di piacere mentre la tua lingua esplora il suo culo La sua figa gonfia inizia a gocciolare con la sua umidità che bagna l'interno delle cosce e delle gambe."
+
+# game/day21.rpy:854
+translate italian day21_discreet_session_be8504de:
+
+    # m "Stop."
+    m "Stop"
+
+# game/day21.rpy:855
+translate italian day21_discreet_session_30669ed0:
+
+    # ad "N-no!"
+    ad "N-no!"
+
+# game/day21.rpy:856
+translate italian day21_discreet_session_de238c83:
+
+    # m "What?!"
+    m "Cosa?!"
+
+# game/day21.rpy:857
+translate italian day21_discreet_session_24403e2c:
+
+    # m "You insolent little whore!"
+    m "Piccola puttana insolente!."
+
+# game/day21.rpy:865
+translate italian day21_discreet_session_b6cbca5b:
+
+    # "{i}Suddenly, [m_name] grabs Adriana's pussy and appears to pinch her labia, her other hand is clutching several thick locks of her blonde hair."
+    "{i}Improvvisamente [m_name] afferra la figa di Adriana e sembra pizzicarle le labbra, l'altra mano stringe alcune folte ciocche dei suoi capelli biondi."
+
+# game/day21.rpy:866
+translate italian day21_discreet_session_ffd66199:
+
+    # m "If I tell you both to stop, you stop!"
+    m "Se vi dico di fermarvi entrambi, voi vi fermate!."
+
+# game/day21.rpy:867
+translate italian day21_discreet_session_3f669ab9:
+
+    # ad "Ow! Y-y-yes m-m-mistress."
+    ad "Ow! S-sì m-m-maestra"
+
+# game/day21.rpy:868
+translate italian day21_discreet_session_ee160f64:
+
+    # "{i}While at first it seemed like a painful interaction between the older and younger woman, it now becomes clear that it's just another highly charged game of sexual power."
+    "{i}Mentre all'inizio sembrava un'interazione dolorosa tra la donna più anziana e quella più giovane, ora diventa chiaro che si tratta solo di un altro gioco di potere sessuale molto carico."
+
+# game/day21.rpy:869
+translate italian day21_discreet_session_dd7915c0:
+
+    # "{i}Adriana looks at [m_name] with a mixture of pain and rapture. She wiggles her abdomen slowly to maximize the sensations she's receiving from the older woman's hold on her pussy lips."
+    "{i}Adriana guarda [m_name] con un misto di dolore e di estasi Muove lentamente l'addome per massimizzare le sensazioni che riceve dalla presa della donna più anziana sulle labbra della sua figa"
+
+# game/day21.rpy:870
+translate italian day21_discreet_session_4d0e2e1c:
+
+    # m "Are you going to behave like a proper slut now?"
+    m "Adesso ti comporterai come una vera troia?."
+
+# game/day21.rpy:871
+translate italian day21_discreet_session_b36f7b39_1:
+
+    # ad "Y-yes, mistress."
+    ad "Sì, signora"
+
+# game/day21.rpy:872
+translate italian day21_discreet_session_9c843c05:
+
+    # m "No more talking back?"
+    m "Non si risponde più?"
+
+# game/day21.rpy:873
+translate italian day21_discreet_session_0063a328:
+
+    # ad "N-no, mistress."
+    ad "N-no mistress"
+
+# game/day21.rpy:874
+translate italian day21_discreet_session_c08bc8f4:
+
+    # m "Good."
+    m "Buono"
+
+# game/day21.rpy:875
+translate italian day21_discreet_session_b30acc03:
+
+    # "{i}With a violent motion, [m_name] releases her grip, and Adriana staggers to keep on her feet. She grabs hold of your arm and steadies herself as [m_name] retrieves something from a closet nearby."
+    "{i}Con un movimento violento [m_name] rilascia la presa e Adriana barcolla per tenersi in piedi Si aggrappa al suo braccio e si tiene in piedi mentre [m_name] recupera qualcosa da un armadio lì vicino."
+
+# game/day21.rpy:879
+translate italian day21_discreet_session_cee64491:
+
+    # m "On with the lesson."
+    m "Continua la lezione"
+
+# game/day21.rpy:880
+translate italian day21_discreet_session_644d5579:
+
+    # p "{i}(Jesus, that thing is huge!)"
+    p "{i}(Gesù, quella cosa è enorme!)."
+
+# game/day21.rpy:881
+translate italian day21_discreet_session_11686268:
+
+    # p "{i}(Okay, if she even glances at my ass while she's holding that thing, I'm making a run for it.)"
+    p "{i}(Ok, se mi guarda anche solo il sedere mentre tiene in mano quel coso, scappo via)."
+
+# game/day21.rpy:882
+translate italian day21_discreet_session_394aa18d:
+
+    # m "What are you looking at, boy? Interested in getting a taste of this?"
+    m "Cosa stai guardando ragazzo? Sei interessato ad avere un assaggio di questo?."
+
+# game/day21.rpy:883
+translate italian day21_discreet_session_cb1f2775:
+
+    # p "{i}(No. No. No, Dear Mother of God and all that is merciful on this earth, FUCKING NO!)"
+    p "{i}(No No No Cara Madre di Dio e di tutto ciò che è misericordioso su questa terra FUCKING NO!)"
+
+# game/day21.rpy:884
+translate italian day21_discreet_session_a559296c:
+
+    # p "Not really, mistress."
+    p "Non proprio signora"
+
+# game/day21.rpy:885
+translate italian day21_discreet_session_b414c79e:
+
+    # m "Shame. I guess Adriana will be the lucky one then. Do you want to feel this inside you, Adriana?"
+    m "Peccato che Adriana sarà la fortunata allora Vuoi sentire questo dentro di te Adriana?."
+
+# game/day21.rpy:886
+translate italian day21_discreet_session_310345ff:
+
+    # ad "Very much so, mistress."
+    ad "Molto bene, signora"
+
+# game/day21.rpy:887
+translate italian day21_discreet_session_32a3b246:
+
+    # m "Even if we use it to stretch out your ass some more?"
+    m "Anche se lo usiamo per allungare ancora un po' il tuo culo?."
+
+# game/day21.rpy:888
+translate italian day21_discreet_session_180ab9ac:
+
+    # ad "I'd love that, mistress."
+    ad "Mi piacerebbe che l'amante"
+
+# game/day21.rpy:889
+translate italian day21_discreet_session_9bef5f54:
+
+    # m "Spoken like a true slut. Bend over."
+    m "Parli come una vera sgualdrina Piegati."
+
+# game/day21.rpy:890
+translate italian day21_discreet_session_6b9f91f3:
+
+    # "{i}An undaunted Adriana spreads her ass for you and waits in anticipation."
+    "{i}Un'imperterrita Adriana allarga il suo culo per te e aspetta in attesa."
+
+# game/day21.rpy:891
+translate italian day21_discreet_session_26ecd7dc:
+
+    # m "You may do the honors."
+    m "Puoi fare gli onori di casa"
+
+# game/day21.rpy:896
+translate italian day21_discreet_session_4c9c7a99:
+
+    # "{i}You grab hold of the monstrosity and push it against Adriana's butthole. She nods at you encouragingly, clenching her teeth in anticipation of the anal insertion."
+    "{i}Afferri la mostruosità e la spingi contro il buco del culo di Adriana. Lei annuisce incoraggiante stringendo i denti in attesa dell'inserimento anale."
+
+# game/day21.rpy:897
+translate italian day21_discreet_session_25c6d253:
+
+    # m "Look at that asshole welcoming that big friend."
+    m "Guarda quello stronzo che accoglie quel grande amico."
+
+# game/day21.rpy:898
+translate italian day21_discreet_session_9c8d0c04:
+
+    # m "Johnny is going to push it all the way up your butt. Make sure it stays there until I say so."
+    m "Johnny te lo spingerà fino in fondo al sedere, assicurati che rimanga lì finché non lo dico io."
+
+# game/day21.rpy:899
+translate italian day21_discreet_session_401a56b0:
+
+    # ad "Aaaah, y-yes, mistress."
+    ad "Aaaah s-sì signora"
+
+# game/day21.rpy:906
+translate italian day21_discreet_session_283aa846:
+
+    # "{i}Little by little, you push the dildo further up Adriana's ass. [m_name] spits on it intermittently to make the insertion a little smoother."
+    "{i}A poco a poco spingi il dildo più in alto nel culo di Adriana [m_name] ci sputa sopra a intermittenza per rendere l'inserimento un po' più fluido."
+
+# game/day21.rpy:907
+translate italian day21_discreet_session_632294ef:
+
+    # m "Halfway there."
+    m "A metà strada"
+
+# game/day21.rpy:908
+translate italian day21_discreet_session_4eb07b22:
+
+    # ad "G-g-god yes!"
+    ad "G-dio sì!"
+
+# game/day21.rpy:909
+translate italian day21_discreet_session_6ee69e33:
+
+    # "{i}The dildo slides further inside the receptionist than you could have previously imagined it would, widening her rectum considerably, until only the base of the shiny glass thing is sticking out of her."
+    "{i}Il dildo scivola all'interno della receptionist più di quanto avreste potuto immaginare allargando notevolmente il suo retto fino a quando solo la base dell'oggetto di vetro lucido fuoriesce da lei."
+
+# game/day21.rpy:910
+translate italian day21_discreet_session_7c928764:
+
+    # m "All done. How are you feeling, Adriana?"
+    m "Tutto fatto Come ti senti Adriana?."
+
+# game/day21.rpy:911
+translate italian day21_discreet_session_9994b310:
+
+    # ad "I'm so very full, mistress."
+    ad "Sono così pieno padrona"
+
+# game/day21.rpy:912
+translate italian day21_discreet_session_5479dcc0:
+
+    # m "Good. You'll be amazed by what your body can hold."
+    m "Bene Sarete sorpresi da ciò che il vostro corpo può contenere."
+
+# game/day21.rpy:918
+translate italian day21_discreet_session_7153e273:
+
+    # "{i}You spit on the dildo and shove it inside Adriana's ass without hesitation. The girl nearly faints and she screams with abandon."
+    "{i}Sputi sul dildo e lo infili nel culo di Adriana senza esitazione La ragazza quasi sviene e urla con abbandono."
+
+# game/day21.rpy:919
+translate italian day21_discreet_session_2076b3ea:
+
+    # m "Jesus Christ, boy, don't break her."
+    m "Gesù Cristo, ragazzo, non romperla."
+
+# game/day21.rpy:920
+translate italian day21_discreet_session_178abf2e:
+
+    # ad "G-g-god!!!"
+    ad "G-g-god!!!"
+
+# game/day21.rpy:921
+translate italian day21_discreet_session_6315d5c5:
+
+    # "{i}The dildo is further inside the receptionist than you could have previously imagined it would go, widening her rectum considerably, only the base of the shiny glass thing is sticking out of her. Adriana is still shuddering because of the pain you've caused."
+    "{i}Il dildo è più dentro la receptionist di quanto avreste potuto immaginare allargandole notevolmente il retto, solo la base dell'oggetto di vetro lucido fuoriesce da lei Adriana sta ancora tremando per il dolore che le avete provocato."
+
+# game/day21.rpy:922
+translate italian day21_discreet_session_e04251a6:
+
+    # m "How are you feeling, Adriana?"
+    m "Come ti senti Adriana?."
+
+# game/day21.rpy:923
+translate italian day21_discreet_session_f3aa2df0:
+
+    # ad "Full, mistress, it hurts."
+    ad "Pienamente padrona che fa male"
+
+# game/day21.rpy:924
+translate italian day21_discreet_session_00108dfb:
+
+    # m "The boy will be more gentle next time. But you'll be amazed by what your body can hold."
+    m "La prossima volta il ragazzo sarà più gentile, ma rimarrai stupita da ciò che il tuo corpo può sopportare."
+
+# game/day21.rpy:926
+translate italian day21_discreet_session_014c5c3d:
+
+    # p "{i}(There's going to be more inside her?)"
+    p "{i}(Ci sarà dell'altro dentro di lei?)."
+
+# game/day21.rpy:927
+translate italian day21_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Sì signora."
+
+# game/day21.rpy:931
+translate italian day21_discreet_session_2f3f4202:
+
+    # m "I think our boy here deserves a little reward for being extra careful with your precious asshole, doesn't he?"
+    m "Penso che il nostro ragazzo qui meriti una piccola ricompensa per essere stato molto attento al tuo prezioso buco del culo, non è vero?."
+
+# game/day21.rpy:932
+translate italian day21_discreet_session_c8cff16a:
+
+    # ad "Certainly, mistress."
+    ad "Certamente padrona"
+
+# game/day21.rpy:933
+translate italian day21_discreet_session_33eb81d1:
+
+    # m "Come here boy, Adriana and I need your cock."
+    m "Vieni qui, ragazzo, Adriana e io abbiamo bisogno del tuo cazzo."
+
+# game/day21.rpy:934
+translate italian day21_discreet_session_7299bde5:
+
+    # p "{i}([m_name] wants my cock, that sounds so perverted.)"
+    p "{i}([m_name] vuole il mio cazzo che suona così perverso)"
+
+# game/day21.rpy:942
+translate italian day21_discreet_session_319e6ba6:
+
+    # "{i}You step forward and a hand wraps around your dick. Adriana massages your balls, but it's [m_name] who takes expert care of your shaft."
+    "{i}Fai un passo avanti e una mano avvolge il tuo cazzo, Adriana ti massaggia le palle, ma è [m_name] che si prende cura con competenza della tua asta."
+
+# game/day21.rpy:944
+translate italian day21_discreet_session_6a5c1352:
+
+    # "{i}Her technique is very different from what you've experienced before. Your mom alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}La sua tecnica è molto diversa da quella che hai sperimentato prima Tua madre alterna pesanti masturbazioni a delicati e dolci colpi che vanno dalla base alla punta del tuo cazzo."
+
+# game/day21.rpy:946
+translate italian day21_discreet_session_974db97f:
+
+    # "{i}Her technique is very different from what you've experienced before. The older woman alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}La sua tecnica è molto diversa da quella che hai sperimentato prima. La donna più anziana alterna pesanti masturbazioni a delicati e dolci colpi che vanno dalla base alla punta del tuo cazzo."
+
+# game/day21.rpy:948
+translate italian day21_discreet_session_bbf902ab:
+
+    # "{i}Every caress nearly sends you over the edge. You have to grab hold of the table when Adriana moves from slobbering on your balls to licking the perineum and finally your asshole."
+    "{i}Ogni carezza ti manda quasi fuori di testa Devi aggrapparti al tavolo quando Adriana passa dal sbaffare sulle tue palle a leccare il perineo e infine il buco del culo."
+
+# game/day21.rpy:949
+translate italian day21_discreet_session_bbb34183:
+
+    # "{i}[m_name] recognizes your heavy breathing and glassy look as the onset of an orgasm and abruptly stops. The touch of Adriana's tongue is almost immediately gone as well."
+    "{i}[m_name] riconosce il suo respiro pesante e il suo sguardo vitreo come l'inizio di un orgasmo e si ferma bruscamente Il tocco della lingua di Adriana è quasi subito scomparso"
+
+# game/day21.rpy:953
+translate italian day21_discreet_session_4a540abc:
+
+    # p "{i}(Fucking hell, I was just about to spray all over [m_name]'s gorgeous tits.)"
+    p "{i}(Cazzo, stavo proprio per spruzzare tutto sulle splendide tette di [m_name])"
+
+# game/day21.rpy:954
+translate italian day21_discreet_session_4bea0be7:
+
+    # m "Not yet."
+    m "Non ancora"
+
+# game/day21.rpy:956
+translate italian day21_discreet_session_0a7818ce:
+
+    # m "You two have been very selfish so far."
+    m "Voi due siete stati molto egoisti finora."
+
+# game/day21.rpy:957
+translate italian day21_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Sì, signora."
+
+# game/day21.rpy:958
+translate italian day21_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Sì signora."
+
+# game/day21.rpy:961
+translate italian day21_discreet_session_3b9b8dec:
+
+    # "{i}Adriana and you kneel, as [m_name] presents her cunt to you both. The scent of her slit is very noticeable, she seems aroused."
+    "{i}Adriana e tu inginocchiati mentre [m_name] presenta la sua fica a entrambi Il profumo della sua fessura è molto evidente sembra eccitata"
+
+# game/day21.rpy:969
+translate italian day21_discreet_session_b0bf49ac:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on your mother's swollen clitoris."
+    "{i}Spingi il viso contro il sesso di [m_name] e ne lecchi i succhi Appoggi la fronte contro la ricchezza di peli pubici e lavori sul clitoride gonfio di tua madre"
+
+# game/day21.rpy:971
+translate italian day21_discreet_session_7f9fa2cd:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on [m_name]'s swollen clitoris."
+    "{i}Spingi il viso contro il sesso di [m_name] e lambisci i suoi succhi Appoggi la fronte contro la ricchezza di peli pubici e lavori sul clitoride gonfio di [m_name]"
+
+# game/day21.rpy:976
+translate italian day21_discreet_session_ec7e5c79:
+
+    # "{i}Suddenly, your dangling erection is wrapped in warm wetness, as Adriana starts to suck you off, careful not to lose the dildo that's still buried in her ass."
+    "{i}Improvvisamente la tua erezione penzolante viene avvolta da una calda umidità, mentre Adriana inizia a succhiartelo facendo attenzione a non perdere il dildo che è ancora sepolto nel suo culo."
+
+# game/day21.rpy:982
+translate italian day21_discreet_session_f52b0692:
+
+    # "{i}Adriana pushes her face against [m_name]'s sex and laps up the juices of the older woman. She rests her forehead against the wealth of pubic hair and works on [m_name]'s swollen clitoris."
+    "{i}Adriana spinge il viso contro il sesso di [m_name] e lambisce i succhi della donna più anziana Appoggia la fronte contro la ricchezza di peli pubici e lavora sul clitoride gonfio di [m_name]"
+
+# game/day21.rpy:983
+translate italian day21_discreet_session_63988f51:
+
+    # "{i}While the receptionist is going down on [m_name], the older woman stares at you. It's hard to see with the mask on, but the look of longing in her eyes is unmistakable. She motions you to come forward."
+    "{i}Mentre l'addetta alla reception si sta dedicando a [m_name], la donna più anziana ti fissa È difficile da vedere con la maschera addosso, ma lo sguardo di desiderio nei suoi occhi è inconfondibile Ti fa cenno di venire avanti."
+
+# game/day21.rpy:989
+translate italian day21_discreet_session_ec5b1fd1:
+
+    # "{i}Her hand wraps around your cock and she demonstrates her superior handjob skills once more."
+    "{i}La sua mano avvolge il tuo cazzo e dimostra ancora una volta la sua superiore abilità nel fare una sega."
+
+# game/day21.rpy:991
+translate italian day21_discreet_session_4caebf8f:
+
+    # "{i}Her hand wraps around your cock as she begins to take expert care of your shaft. Her technique is very different from what you're used to."
+    "{i}La sua mano avvolge il tuo uccello e comincia a prendersi cura con competenza della tua asta. La sua tecnica è molto diversa da quella a cui sei abituato."
+
+# game/day21.rpy:992
+translate italian day21_discreet_session_69775d89:
+
+    # "[m_name] alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "[m_name] alterna pesanti seghe a delicati e dolci colpi che vanno dalla base alla punta del tuo cazzo."
+
+# game/day21.rpy:996
+translate italian day21_discreet_session_be8504de_1:
+
+    # m "Stop."
+    m "Stop"
+
+# game/day21.rpy:997
+translate italian day21_discreet_session_3ff8b72b:
+
+    # p "{i}(Again?! We were just getting started. She sure is in a fickle mood today.)"
+    p "{i}(Ancora?! Avevamo appena iniziato, oggi è proprio di umore volubile)."
+
+# game/day21.rpy:998
+translate italian day21_discreet_session_76025ac2:
+
+    # m "I told you that you'd be amazed what a body can hold. Johnny, you're going to demonstrate this on Adriana."
+    m "Ti ho detto che ti saresti stupita di ciò che un corpo può contenere Johnny, lo dimostrerai ad Adriana."
+
+# game/day21.rpy:999
+translate italian day21_discreet_session_80315c1c:
+
+    # p "{i}(Er...)"
+    p "{i}(Er)"
+
+# game/day21.rpy:1000
+translate italian day21_discreet_session_1e472647:
+
+    # m "You're going to fuck her."
+    m "Te la scopi."
+
+# game/day21.rpy:1001
+translate italian day21_discreet_session_05f591c6:
+
+    # m "Adriana, keep that dildo inside you as long as possible or you'll be punished."
+    m "Adriana tieni quel dildo dentro di te il più a lungo possibile o sarai punita."
+
+# game/day21.rpy:1002
+translate italian day21_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Sì signora."
+
+# game/day21.rpy:1004
+translate italian day21_discreet_session_c47e622c:
+
+    # m "The same goes for you, Mr. Holmes. If you rough her up like you did before, this session is over."
+    m "Lo stesso vale per lei, signor Holmes, se la maltratta come ha fatto prima che questa seduta finisca."
+
+# game/day21.rpy:1008
+translate italian day21_discreet_session_61f2aaa4:
+
+    # "{i}You grab Adriana by the waist and hold her close, your erection pressing between her thighs."
+    "{i}Afferri Adriana per la vita e la tieni stretta la tua erezione che preme tra le sue cosce."
+
+# game/day21.rpy:1009
+translate italian day21_discreet_session_db0126f3:
+
+    # p "I need you to lie down."
+    p "Ho bisogno che tu ti sdrai"
+
+# game/day21.rpy:1010
+translate italian day21_discreet_session_60b86177:
+
+    # ad "Please be gentle with me. My ass is burning up."
+    ad "Per favore, sii gentile con me Il mio culo sta bruciando."
+
+# game/day21.rpy:1015
+translate italian day21_discreet_session_0141c872:
+
+    # "{i}Adriana lowers herself to the ground, and you spread her long legs, giving you a nice view of her glistening pussy and the glass dildo that's rooted in her asshole."
+    "{i}Adriana si abbassa a terra e tu le allarghi le lunghe gambe dandoti una bella visione della sua figa scintillante e del dildo di vetro che è radicato nel suo buco del culo."
+
+# game/day21.rpy:1017
+translate italian day21_discreet_session_cee75536:
+
+    # "{i}You push your dick inside her."
+    "{i}Spingi il tuo cazzo dentro di lei"
+
+# game/day21.rpy:1019
+translate italian day21_discreet_session_1d7140bd:
+
+    # "{i}You push your dick inside her at a maddeningly slow pace."
+    "{i}Spingi il tuo cazzo dentro di lei con una lentezza pazzesca."
+
+# game/day21.rpy:1020
+translate italian day21_discreet_session_8afa8a51:
+
+    # ad "Ah! Aaah! Aaaaah! It won't fit. I'm too full."
+    ad "Ah! Aaah! Aaaaah! Non mi entra, sono troppo pieno."
+
+# game/day21.rpy:1022
+translate italian day21_discreet_session_49c2741d:
+
+    # "{i}She seems tighter than the last time you fucked her, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Sembra più stretta dell'ultima volta che l'hai scopata, e questo potrebbe essere dovuto al dildo massiccio che le riempie il culo fino quasi a scoppiare."
+
+# game/day21.rpy:1024
+translate italian day21_discreet_session_ca07fcf9:
+
+    # "{i}She seems very tight, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Sembra molto stretta, il che potrebbe essere dovuto al massiccio dildo che le sta già riempiendo il culo fino a farlo scoppiare."
+
+# game/day21.rpy:1030
+translate italian day21_discreet_session_aa47aa24:
+
+    # "{i}You wait for Adriana to adjust to being penetrated vaginally and anally at the same time and start fucking her with deep strokes."
+    "{i}Aspetti che Adriana si abitui a essere penetrata vaginalmente e analmente allo stesso tempo e inizi a scoparla con colpi profondi."
+
+# game/day21.rpy:1033
+translate italian day21_discreet_session_f130bda2:
+
+    # "{i}You start fucking her with deep strokes immediately, not waiting for Adriana to adjust to being penetrated vaginally and anally at the same time."
+    "{i}Inizia subito a scoparla con colpi profondi, senza aspettare che Adriana si abitui a essere penetrata vaginalmente e analmente allo stesso tempo."
+
+# game/day21.rpy:1035
+translate italian day21_discreet_session_510ffa8d:
+
+    # "{i}The girl screams and moans in your ear, with [m_name] leaning on a table pleasuring herself with her fingers."
+    "{i}La ragazza urla e geme nel tuo orecchio con [m_name] appoggiata su un tavolo che si sta divertendo con le dita."
+
+# game/day21.rpy:1036
+translate italian day21_discreet_session_fe3ca7a2:
+
+    # m "Fuck her, John. She's all yours now."
+    m "Scopala John, ora è tutta tua."
+
+# game/day21.rpy:1037
+translate italian day21_discreet_session_27744061:
+
+    # ad "G-g-god. Fuck yes. Harder! Aaaah!"
+    ad "G-g-god Fuck yes Harder! Aaaah!"
+
+# game/day21.rpy:1038
+translate italian day21_discreet_session_71b5576b:
+
+    # "{i}You attack Adriana's pussy with several short, hard thrusts to maximize the sensations her pussy gives you."
+    "{i}Attacchi la figa di Adriana con diverse spinte brevi e forti per massimizzare le sensazioni che la sua figa ti dà."
+
+# game/day21.rpy:1043
+translate italian day21_discreet_session_cdb07dd9:
+
+    # "{i}Adriana's moans have been reduced to one long, hoarse, guttural sound as she climaxes on your cock. Because of the violent contractions of her cunt, her ass involuntarily gives birth to the glass monster that has remained up her butt for a large part of the session."
+    "{i}I gemiti di Adriana si sono ridotti a un lungo e rauco suono gutturale mentre raggiunge l'orgasmo sul tuo cazzo A causa delle violente contrazioni della sua fica, il suo culo partorisce involontariamente il mostro di vetro che è rimasto nel suo culo per gran parte della sessione."
+
+# game/day21.rpy:1044
+translate italian day21_discreet_session_806f029d:
+
+    # "{i}Because of all the attention your dick has already gotten and the stimulation of Adriana's tightened pussy, you have trouble not ejaculating inside her right away. You've managed to last several minutes, but now the moment has come."
+    "{i}A causa di tutte le attenzioni che il tuo cazzo ha già ricevuto e della stimolazione della figa stretta di Adriana hai difficoltà a non eiaculare subito dentro di lei Sei riuscito a resistere diversi minuti, ma ora è arrivato il momento."
+
+# game/day21.rpy:1052
+translate italian day21_discreet_session_a08d2305:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1053
+translate italian day21_discreet_session_ef733f88:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pump a great amount of semen inside her vagina. Her moans of pleasure turn into sounds of delight and fulfillment."
+    "{i}Al culmine di un urlo estatico di Adriana, pompate una grande quantità di sperma nella sua vagina I suoi gemiti di piacere si trasformano in suoni di delizia e di appagamento."
+
+# game/day21.rpy:1068
+translate italian day21_discreet_session_a08d2305_1:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1069
+translate italian day21_discreet_session_40b55b0a:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her belly, thighs and pussy. Her moans of pleasure turn into sounds of delight and fulfillment as she rubs your seed on her labia and in her vagina."
+    "{i}Al culmine di un urlo estatico di Adriana, tiri fuori e spari una grande quantità di sperma sul suo ventre, sulle sue cosce e sulla sua figa. I suoi gemiti di piacere si trasformano in suoni di delizia e di appagamento mentre strofina il tuo seme sulle sue labbra e nella sua vagina."
+
+# game/day21.rpy:1081
+translate italian day21_discreet_session_a08d2305_2:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1082
+translate italian day21_discreet_session_f09786d4:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her face. Her moans of pleasure turn into sounds of delight and fulfillment as she licks sperm from the corners of her mouth and from the tips of her fingers."
+    "{i}Al culmine di un urlo estatico di Adriana, tiri fuori e le spari una grande quantità di sperma sul viso I suoi gemiti di piacere si trasformano in suoni di delizia e di appagamento mentre lecca lo sperma dagli angoli della bocca e dalla punta delle dita."
+
+# game/day21.rpy:1089
+translate italian day21_discreet_session_7f7ddd28:
+
+    # m "You've both pleased me greatly."
+    m "Mi avete fatto entrambi molto piacere."
+
+# game/day21.rpy:1090
+translate italian day21_discreet_session_44633398:
+
+    # m "Class dismissed."
+    m "La classe è stata licenziata"
+
+# game/day21.rpy:1105
+translate italian day21_r_sex_183f3c2a:
+
+    # r "Mmmm, come to bed, [p_name]!"
+    r "Mmmm vieni a letto [p_name]!."
+
+# game/day21.rpy:1107
+translate italian day21_r_sex_d35cef7c:
+
+    # "{i}As soon as you're next to her naked body, [r_name] showers you with kisses."
+    "{i}Appena sei vicino al suo corpo nudo [r_name] ti inonda di baci."
+
+# game/day21.rpy:1109
+translate italian day21_r_sex_c35c620c:
+
+    # r "I've wanted to do that all day!"
+    r "È tutto il giorno che voglio farlo!."
+
+# game/day21.rpy:1110
+translate italian day21_r_sex_6b728219:
+
+    # p "I won't stop you!"
+    p "Non ti fermerò!."
+
+# game/day21.rpy:1112
+translate italian day21_r_sex_4f3b3ec5:
+
+    # r "[p_name]?"
+    r "[p_name]?"
+
+# game/day21.rpy:1113
+translate italian day21_r_sex_061e5381:
+
+    # p "Yes?"
+    p "Sì?"
+
+# game/day21.rpy:1114
+translate italian day21_r_sex_8afa1463:
+
+    # r "I'd like to try it again."
+    r "Vorrei provare di nuovo."
+
+# game/day21.rpy:1115
+translate italian day21_r_sex_64aef23e:
+
+    # p "{i}(Hallelujah!)"
+    p "{i}(Alleluia!)"
+
+# game/day21.rpy:1116
+translate italian day21_r_sex_0cee0f25:
+
+    # r "Sex. With you, I mean."
+    r "Sesso con te, intendo"
+
+# game/day21.rpy:1117
+translate italian day21_r_sex_9bef8224:
+
+    # p "{i}(That really doesn't need further explaining.)"
+    p "{i}(che non ha bisogno di ulteriori spiegazioni)"
+
+# game/day21.rpy:1122
+translate italian day21_r_sex_2b161618:
+
+    # "{i}Very slowly, you move down her body, opening her legs and kissing the soft skin of her thighs."
+    "{i}Molto lentamente scendi lungo il suo corpo aprendo le gambe e baciando la pelle morbida delle cosce."
+
+# game/day21.rpy:1123
+translate italian day21_r_sex_afe6ba4e:
+
+    # p "Ah, there's your pussy and you want me there, inside you?"
+    p "Ah ecco la tua figa e mi vuoi lì dentro di te?."
+
+# game/day21.rpy:1124
+translate italian day21_r_sex_ba08c474:
+
+    # r "Mmmm, yes!"
+    r "Mmmm sì!"
+
+# game/day21.rpy:1125
+translate italian day21_r_sex_6de4963a:
+
+    # p "Let's start by making this as pleasurable for you as possible."
+    p "Cominciamo col renderti la cosa più piacevole possibile."
+
+# game/day21.rpy:1130
+translate italian day21_r_sex_2b793e9f:
+
+    # "{i}[r_name]'s pussy is already wet in anticipation of your cock. You lap up her juices from her lower lips and teasingly lick her clitoris, which is growing ever so slightly with all the attention you're giving her pussy."
+    "{i}[r_name] la sua figa è già bagnata in attesa del tuo cazzo... Raccogli i suoi succhi dalle sue labbra inferiori e lecchi con attenzione il suo clitoride, che sta crescendo leggermente con tutte le attenzioni che stai dando alla sua figa...."
+
+# game/day21.rpy:1131
+translate italian day21_r_sex_9a09c4ba:
+
+    # r "Oooh, [p_name]! I want you!"
+    r "Oooh [p_name]! Ti voglio!"
+
+# game/day21.rpy:1136
+translate italian day21_r_sex_c7dd698d:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside your sister's wet mound. She holds her breath, and you feel her tense up."
+    "{i}Senza indugiare oltre, spingi la punta del tuo cazzo eretto dentro la montagnola umida di tua sorella. Lei trattiene il respiro e tu la senti tendersi."
+
+# game/day21.rpy:1138
+translate italian day21_r_sex_feee2adf:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside [r_name]'s wet mound. She holds her breath, and you feel her tense up."
+    "{i}Senza indugiare oltre, spingi la punta del tuo cazzo eretto dentro la montagnola umida di [r_name] Lei trattiene il respiro e la senti tendersi."
+
+# game/day21.rpy:1139
+translate italian day21_r_sex_fb74d315:
+
+    # p "Let it go, sweetie, I won't hurt you."
+    p "Lascia perdere, tesoro, non ti farò del male."
+
+# game/day21.rpy:1140
+translate italian day21_r_sex_8aa021ca:
+
+    # r "You'll stop when it hurts?"
+    r "Ti fermerai quando ti farà male?."
+
+# game/day21.rpy:1141
+translate italian day21_r_sex_0c66aa18:
+
+    # p "{i}(Poor thing. Her deflowering must have been a little bit more uncomfortable than she let on.)"
+    p "{i}(Poverina La sua deflorazione deve essere stata un po' più scomoda di quanto abbia lasciato intendere)."
+
+# game/day21.rpy:1142
+translate italian day21_r_sex_09fbac9e:
+
+    # p "Of course. It doesn't hurt now, does it?"
+    p "Certo, non fa male, vero?."
+
+# game/day21.rpy:1143
+translate italian day21_r_sex_41831fd0:
+
+    # r "Actually, no."
+    r "In realtà no"
+
+# game/day21.rpy:1148
+translate italian day21_r_sex_72e6de02:
+
+    # "{i}Before penetrating her deeper, you kiss her breasts. When you finally suck on her erect nipples, [r_name] seems to lose control and gives herself over to passion."
+    "{i}Prima di penetrarla più a fondo le baci i seni Quando finalmente succhi i suoi capezzoli eretti [r_name] sembra perdere il controllo e si abbandona alla passione"
+
+# game/day21.rpy:1154
+translate italian day21_r_sex_3ed13e97:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. Your sister just moans, every thought of pain forgotten."
+    "{i}Il tuo cazzo scivola ancora di più dentro la sua fessura bagnata senza troppo sforzo Tua sorella geme solo ogni pensiero di dolore dimenticato."
+
+# game/day21.rpy:1156
+translate italian day21_r_sex_10ab6a76:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. [r_name] just moans, every thought of pain forgotten."
+    "{i}Il tuo cazzo scivola ancora di più dentro la sua fessura bagnata senza troppo sforzo [r_name] geme solo ogni pensiero di dolore dimenticato."
+
+# game/day21.rpy:1157
+translate italian day21_r_sex_062dbcb2:
+
+    # "{i}You establish a slow rhythm, keeping your attention focused on [r_name]'s firm breasts. Her hands are in your hair and on your back, touching, feeling, clawing. Her voice is a nearly inaudible whisper in your ear."
+    "{i}Stabilisci un ritmo lento, mantenendo la tua attenzione sui seni sodi di [r_name] Le sue mani sono tra i tuoi capelli e sulla tua schiena, toccandoti e sentendoti artigliare La sua voce è un sussurro quasi impercettibile nel tuo orecchio."
+
+# game/day21.rpy:1158
+translate italian day21_r_sex_5739fba5:
+
+    # r "Aaah! G-g-god yes!"
+    r "Aaah! G-dio sì!"
+
+# game/day21.rpy:1159
+translate italian day21_r_sex_a973011c:
+
+    # r "Keep fucking me! Don't stop. I-it... I-t feels s-so good!"
+    r "Continua a scoparmi! Non fermarti, mi fa sentire così bene!."
+
+# game/day21.rpy:1160
+translate italian day21_r_sex_5a9f2778:
+
+    # p "G-aaah. Do you want to cum, [r_name]? Cum all over my cock?"
+    p "G-aaah Vuoi sborrare [r_name]? Sborrare su tutto il mio cazzo?."
+
+# game/day21.rpy:1161
+translate italian day21_r_sex_4ef40ea8:
+
+    # r "Y-y-yes! But you need to go deeper, I want to feel more of you!"
+    r "S-sì! Ma devi andare più a fondo, voglio sentire di più di te!."
+
+# game/day21.rpy:1166
+translate italian day21_r_sex_06a44c8d:
+
+    # "{i}When you pull out, [r_name] seems temporarily disappointed. Wordlessly, as if your bodies are perfectly attuned to each other, you change positions, kissing passionately."
+    "{i}Quando ti tiri fuori [r_name] sembra temporaneamente deluso Senza parole, come se i vostri corpi fossero perfettamente in sintonia l'uno con l'altro, cambiate posizione baciandovi appassionatamente"
+
+# game/day21.rpy:1174
+translate italian day21_r_sex_4aefab26:
+
+    # "{i}Gently, you push your sister down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Con delicatezza spingi tua sorella giù sul letto, il suo culetto fiero nell'aria La sua figa bagnata luccica alla luce mentre [r_name] porta le dita verso il suo clitoride e inizia a strofinarlo."
+
+# game/day21.rpy:1176
+translate italian day21_r_sex_5d8513af:
+
+    # "{i}Gently, you push [r_name] down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Con delicatezza spingi [r_name] giù sul letto, il suo culetto fiero nell'aria La sua figa bagnata luccica alla luce mentre [r_name] porta le dita verso il clitoride e inizia a strofinarlo."
+
+# game/day21.rpy:1177
+translate italian day21_r_sex_6e94723b:
+
+    # "{i}This time, your dick doesn't encounter any resistance and slips into the tight confines of her vulva. It's soon inside her to the root. [r_name] is still fingering herself and lets out a muffled moan in the bedsheets."
+    "{i}Questa volta il tuo cazzo non incontra alcuna resistenza e scivola nei confini stretti della sua vulva È presto dentro di lei fino alla radice [r_name] si sta ancora sditalinando e si lascia sfuggire un gemito soffocato tra le lenzuola del letto"
+
+# game/day21.rpy:1178
+translate italian day21_r_sex_06fa7ad7:
+
+    # r "F-f-fuck! Mmmmmm!"
+    r "F-f-fuck! Mmmmmm!"
+
+# game/day21.rpy:1180
+translate italian day21_r_sex_1871e2db:
+
+    # "{i}You grab [r_name]'s body tightly and fuck her with deep short thrusts. Her breathing is ragged and she has stopped masturbating, completely mesmerized by your cock inside her little pussy."
+    "{i}Afferri il corpo di [r_name] con forza e la scopi con spinte brevi e profonde Il suo respiro è affannoso e ha smesso di masturbarsi completamente ipnotizzata dal tuo cazzo dentro la sua piccola figa."
+
+# game/day21.rpy:1181
+translate italian day21_r_sex_a5f809cf:
+
+    # r "D-don't stop! Keep doing that!"
+    r "Non fermarti! Continua a farlo!"
+
+# game/day21.rpy:1183
+translate italian day21_r_sex_0848df1d:
+
+    # "{i}The position in which you're fucking her makes your sister feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}La posizione in cui la stai scopando fa sì che tua sorella si senta ancora più stretta di prima L'inizio dell'orgasmo si aggiunge a questa meravigliosa sensazione."
+
+# game/day21.rpy:1185
+translate italian day21_r_sex_f6839b33:
+
+    # "{i}The position in which you're fucking her makes [r_name] feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}La posizione in cui la stai scopando fa sì che [r_name] si senta ancora più stretta di prima L'inizio del suo orgasmo si aggiunge a questa meravigliosa sensazione"
+
+# game/day21.rpy:1186
+translate italian day21_r_sex_4d3d226b:
+
+    # p "Am I making you cum, [r_name]?"
+    p "Ti sto facendo sborrare [r_name]?."
+
+# game/day21.rpy:1191
+translate italian day21_r_sex_5da6ff73:
+
+    # r "Y-y-yes! I'm cumming, [p_name]!"
+    r "S-sì! Sto sborrando [p_name]!."
+
+# game/day21.rpy:1193
+translate italian day21_r_sex_7f6c078a:
+
+    # "{i}Her orgasm is so powerful that you need to hold her close to you, otherwise your dick would escape her slippery vagina. [r_name] shakes, trembles and moans while you continue to fuck her, extending her vaginal climax."
+    "{i}Il suo orgasmo è così potente che devi tenerla stretta a te, altrimenti il tuo cazzo sfuggirebbe alla sua vagina scivolosa [r_name] trema e geme mentre continui a scoparla prolungando il suo climax vaginale."
+
+# game/day21.rpy:1194
+translate italian day21_r_sex_643605f9:
+
+    # r "M-m-more! Oh yes! G-gggg-gg-hhhh!"
+    r "M-m-more! Oh sì! G-gggg-gg-hhhh!."
+
+# game/day21.rpy:1195
+translate italian day21_r_sex_b965a711:
+
+    # "{i}The convulsions of her vagina are too much for you, and you feel your own orgasm approaching."
+    "{i}Le convulsioni della sua vagina sono troppo forti per te e senti che il tuo orgasmo si avvicina."
+
+# game/day21.rpy:1206
+translate italian day21_r_sex_01df82f5:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. Your sister gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Dopo le ultime spinte disperate ti sfili dal corpo tremante di [r_name] e spruzzi una fontana di sperma sul suo culo e sulla sua schiena Tua sorella ne raccoglie un po' sulle dita e lecca distrattamente l'umido salato."
+
+# game/day21.rpy:1208
+translate italian day21_r_sex_0ceb8f41:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. [r_name] gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Dopo le ultime spinte disperate ti sfili dal corpo tremante di [r_name] e spruzzi una fontana di sperma sul suo culo e sulla sua schiena [r_name] ne raccoglie un po' sulle dita e lecca distrattamente il bagnato salato"
+
+# game/day21.rpy:1224
+translate italian day21_r_sex_e09afb67:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. Your sister is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Dopo le ultime spinte disperate ti sfili dal corpo tremante di [r_name] e spruzzi una fontana di sborra nella sua bocca ansimante Tua sorella è troppo fuori per accorgersi delle gocce di sborra che le schizzano il viso e ingoia il tuo dono salato con un sorriso celestiale sul viso."
+
+# game/day21.rpy:1226
+translate italian day21_r_sex_a6b2abd2:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. [r_name] is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Dopo le ultime spinte disperate ti sfili dal corpo tremante di [r_name] e spruzzi una fontana di sborra nella sua bocca ansimante [r_name] è troppo fuori per accorgersi delle goccioline di sborra che le schizzano il viso e ingoia il tuo dono salato con un sorriso celestiale sul viso."
+
+# game/day21.rpy:1242
+translate italian day21_r_sex_b1afa108:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. Your sister is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Dopo le ultime spinte disperate stringi forte il corpo tremante di [r_name] e spruzzi una fontana di sperma dentro la sua dolce ciliegia Tua sorella è troppo fuori per accorgersi del flusso di sperma che alla fine fuoriesce dalla sua fessura e si limita a stringerti con un sorriso celestiale sul viso."
+
+# game/day21.rpy:1244
+translate italian day21_r_sex_70843b19:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. [r_name] is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Dopo le ultime spinte disperate stringi forte il corpo tremante di [r_name] e spruzzi una fontana di sborra dentro la sua dolce ciliegia [r_name] è troppo fuori per accorgersi del fiotto di sborra che alla fine fuoriesce dalla sua fessura e si limita a stringerti con un sorriso celestiale sul viso."
+
+# game/day21.rpy:1255
+translate italian day21_r_sex_00e851ae:
+
+    # r "God, [p_name]!"
+    r "Dio [p_name]!"
+
+# game/day21.rpy:1256
+translate italian day21_r_sex_7436789c:
+
+    # p "How was your second time, sweetling?"
+    p "Com'è andata la tua seconda volta, tesoro?."
+
+# game/day21.rpy:1258
+translate italian day21_r_sex_1f0a1364:
+
+    # r "Much, much better than the first!"
+    r "Molto, molto meglio del primo!."
+
+# game/day21.rpy:1259
+translate italian day21_r_sex_71d914f9:
+
+    # r "I didn't know that was possible."
+    r "Non sapevo che fosse possibile."
+
+# game/day21.rpy:1260
+translate italian day21_r_sex_1b640dae:
+
+    # p "What?"
+    p "Cosa?"
+
+# game/day21.rpy:1261
+translate italian day21_r_sex_623ceddc:
+
+    # r "You know... Climaxing like that..."
+    r "Sai che il climax è così."
+
+# game/day21.rpy:1262
+translate italian day21_r_sex_011fd287:
+
+    # p "It helps if you know the right spot."
+    p "È utile se si conosce il punto giusto."
+
+# game/day21.rpy:1263
+translate italian day21_r_sex_c586f7e7:
+
+    # r "You certainly knew."
+    r "Sicuramente lo sapevi"
+
+# game/day21.rpy:1265
+translate italian day21_r_sex_353e9266:
+
+    # r "Did Sasha teach you that?"
+    r "Te l'ha insegnato Sasha?."
+
+# game/day21.rpy:1266
+translate italian day21_r_sex_01358bcd:
+
+    # p "She did, actually."
+    p "In realtà l'ha fatto."
+
+# game/day21.rpy:1267
+translate italian day21_r_sex_2d68243f:
+
+    # r "You have to tell me about it some time. But now I'm so very tired, you've worn me out completely."
+    r "Prima o poi dovrai parlarmene, ma ora sono così stanca che mi hai stancato del tutto."
+
+# game/day21.rpy:1269
+translate italian day21_r_sex_34eb5d2d:
+
+    # r "I'm so very tired, you've worn me out completely."
+    r "Sono così stanco che mi hai stancato completamente."
+
+# game/day21.rpy:1270
+translate italian day21_r_sex_9f7e8041:
+
+    # p "Sweet dreams."
+    p "Sogni d'oro"
+
+# game/day21.rpy:1271
+translate italian day21_r_sex_1eae2286:
+
+    # r "I love you."
+    r "Ti amo"
+
+# game/day21.rpy:1273
+translate italian day21_r_sex_1db7fa33:
+
+    # "{i}[r_name] snuggles on your chest and falls asleep very easily after a contented sigh. You follow her almost immediately afterwards."
+    "{i}[r_name] si accoccola sul tuo petto e si addormenta molto facilmente dopo un sospiro soddisfatto Tu la segui quasi subito dopo"
+

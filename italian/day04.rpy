@@ -2696,4 +2696,191 @@ translate italian strings:
 
     # game/day04.rpy:292
     old "Never mind"
-    new "Non importa"
+    new "Non importa"# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day04.rpy:58
+translate italian day04_61e445ed:
+
+    # a "I have an idea! Why don't you come with me today?"
+    a "Ho un'idea! Perché non vieni con me oggi?."
+
+# game/day04.rpy:59
+translate italian day04_59a3e5fc:
+
+    # p "Where to?"
+    p "Dove?"
+
+# game/day04.rpy:60
+translate italian day04_b0a75591:
+
+    # a "Well, we're going shopping..."
+    a "Beh, andiamo a fare shopping"
+
+# game/day04.rpy:61
+translate italian day04_e348b6db:
+
+    # p "Naturally."
+    p "Naturalmente"
+
+# game/day04.rpy:62
+translate italian day04_3a3111de:
+
+    # a "I asked [r_name] earlier, before visiting you, but she can't come."
+    a "Ho chiesto a [r_name] prima di venire a trovarvi, ma non può venire."
+
+# game/day04.rpy:63
+translate italian day04_382b0ab2:
+
+    # p "Oh?"
+    p "Oh?"
+
+# game/day04.rpy:64
+translate italian day04_102afd0c:
+
+    # a "Yeah, [b_name] asked her out to lunch."
+    a "Sì, [b_name] le ha chiesto di uscire a pranzo."
+
+# game/day04.rpy:65
+translate italian day04_2d48d716:
+
+    # p "She did?"
+    p "L'ha fatto?"
+
+# game/day04.rpy:66
+translate italian day04_1a2dfe21:
+
+    # a "[b_name] is not someone you refuse, if you catch my drift..."
+    a "[b_name] non è una persona che si rifiuta, se capisci cosa intendo."
+
+# game/day04.rpy:67
+translate italian day04_60c13293:
+
+    # p "Yup, she's a bitch."
+    p "Sì, è una stronza."
+
+# game/day04.rpy:68
+translate italian day04_2931081c:
+
+    # a "So, it's just Alina and me. How could you refuse two beautiful women?"
+    a "Quindi siamo solo io e Alina Come hai potuto rifiutare due belle donne?."
+
+# game/day04.rpy:71
+translate italian day04_3854d23d:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting and I might be able to buy something nice for [l_name]."
+    p "{i}Odio fare shopping di vestiti, ma l'offerta è allettante e potrei comprare qualcosa di carino per [l_name]."
+
+# game/day04.rpy:74
+translate italian day04_0489d494:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting. Might get another reward from Ana after my more than satisfactory performance just now."
+    p "{i}Odio fare shopping di vestiti, ma l'offerta è allettante Potrei ottenere un'altra ricompensa da Ana dopo la mia prestazione più che soddisfacente di poco fa."
+
+# game/day04.rpy:77
+translate italian day04_ff778e06:
+
+    # p "Well, all right. I'm in."
+    p "Va bene, ci sto."
+
+# game/day04.rpy:78
+translate italian day04_dadbfcbd:
+
+    # a "Yay! I'll meet you at the store later today."
+    a "Evviva! Ci vediamo al negozio più tardi."
+
+# game/day04.rpy:82
+translate italian day04_b05f7cb4:
+
+    # p "{i}(Phew. That was a nice little morning snack.)"
+    p "{i}(Uff. È stato un bel piccolo spuntino mattutino)."
+
+# game/day04.rpy:87
+translate italian day04_95c8d466:
+
+    # p "Please go away, Ana. Yesterday was a mistake."
+    p "Per favore, andate via Ana Ieri è stato un errore."
+
+# game/day04.rpy:91
+translate italian day04_1cfe1505:
+
+    # a "WHAT?! FUCK YOU! You utter piece of shit!"
+    a "COSA?! VAFFANCULO! Brutto pezzo di merda!."
+
+# game/day04.rpy:92
+translate italian day04_43425f49:
+
+    # a "You're going to regret this!"
+    a "Te ne pentirai!."
+
+# game/day04.rpy:97
+translate italian day04_c0e4fd2a:
+
+    # "{i}You're awakened by the sunlight spilling through the curtains."
+    "{i}Siete svegliati dalla luce del sole che filtra attraverso le tende."
+
+# game/day04.rpy:347
+translate italian day04_m_room_choices_ac4f9f29:
+
+    # "{i}After a while you go to town to meet Ana and Alina at the clothing store."
+    "{i}Dopo un po' vai in città per incontrare Ana e Alina al negozio di abbigliamento."
+
+# game/day04.rpy:352
+translate italian day04_m_room_choices_3e9f821c:
+
+    # "{i}You spend your day at home, which is pretty boring."
+    "{i}Trascorrete la giornata a casa, il che è piuttosto noioso."
+
+# game/day04.rpy:435
+translate italian day04_boutique_aadf88f7:
+
+    # al "All done? Was [p_name] any help?"
+    al "Tutto fatto? [p_name] è stato d'aiuto?."
+
+# game/day04.rpy:436
+translate italian day04_boutique_591ddada:
+
+    # a "Sure! Couldn't have done it without him."
+    a "Certo! Non ce l'avrei fatta senza di lui."
+
+# game/day04.rpy:437
+translate italian day04_boutique_10a3bcd1:
+
+    # p "Girls, I'll leave you to it. Thanks for taking me on your shopping expedition."
+    p "Ragazze, vi lascio alle vostre cose Grazie per avermi accompagnato nella vostra spedizione di shopping."
+
+# game/day04.rpy:438
+translate italian day04_boutique_277a0fcc:
+
+    # al "Any time, [p_name]. Be seeing ya!"
+    al "Quando vuoi [p_name] ci vediamo!."
+
+# game/day04.rpy:439
+translate italian day04_boutique_6823d1fa:
+
+    # a "Sooner rather than later, I hope!"
+    a "Prima o poi, spero!."
+
+# game/day04.rpy:442
+translate italian day04_boutique_d46543e7:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie and [l_name]'s evening dress."
+    "{i}Ana e Alina lasciano il negozio mentre tu paghi la lingerie di Ana e l'abito da sera di [l_name]."
+
+# game/day04.rpy:446
+translate italian day04_boutique_3d15b177:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie."
+    "{i}Ana e Alina lasciano il negozio mentre tu paghi la lingerie di Ana."
+
+# game/day04.rpy:938
+translate italian day04_ana_licking_3c84de13:
+
+    # a "I know you want me..."
+    a "So che mi vuoi"
+
+# game/day04.rpy:939
+translate italian day04_ana_licking_b2c1d8a6:
+
+    # a "Don't you want to lick me, [p_name]? I'm so wet..."
+    a "Non vuoi leccarmi [p_name]? Sono così bagnata"
+

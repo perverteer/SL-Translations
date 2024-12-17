@@ -4058,4 +4058,899 @@ translate italian day25_iris_meeting_ae79a827:
 translate italian day25_iris_meeting_b829791f:
 
     # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
-    ir "Grazie [p_name], mi hai fatto sentire speciale dopo tanto tempo e questo è ciò che conta in questo momento."
+    ir "Grazie [p_name], mi hai fatto sentire speciale dopo tanto tempo e questo è ciò che conta in questo momento."# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day25.rpy:944
+translate italian day25_r_sex_250f8300:
+
+    # "{i}As soon as you enter the deserted classroom, [r_name] grabs your face and her lips are on yours. Mad with lust, you feel the swell of her small breasts against the palms of your hands."
+    "{i}Appena entri nell'aula deserta [r_name] ti afferra il viso e le sue labbra sono sulle tue Pazzo di lussuria senti il gonfiore dei suoi piccoli seni contro i palmi delle tue mani."
+
+# game/day25.rpy:945
+translate italian day25_r_sex_08d3f5ac:
+
+    # r "Oh, [p_name]!"
+    r "Oh [p_name]!"
+
+# game/day25.rpy:946
+translate italian day25_r_sex_ab5c9289:
+
+    # r "I wish we could make love right here on the spot."
+    r "Vorrei che potessimo fare l'amore proprio qui, sul posto."
+
+# game/day25.rpy:947
+translate italian day25_r_sex_d03baccd:
+
+    # p "That's bound to be awkward if the teacher steps in early."
+    p "Sarà sicuramente imbarazzante se l'insegnante interverrà prima."
+
+# game/day25.rpy:948
+translate italian day25_r_sex_821e294d:
+
+    # r "I know and it sucks!"
+    r "Lo so e fa schifo!."
+
+# game/day25.rpy:949
+translate italian day25_r_sex_a87ca5a3:
+
+    # p "Majorly."
+    p "In gran parte"
+
+# game/day25.rpy:950
+translate italian day25_r_sex_afd1642e:
+
+    # p "But I might know something else to hold you over until we get someplace more private."
+    p "Ma potrei sapere qualcos'altro per trattenerti fino a quando non saremo in un posto più riservato."
+
+# game/day25.rpy:952
+translate italian day25_r_sex_63256490:
+
+    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
+    "{i}Quando ti abbassi, portando la testa all'altezza del suo ventre, slacci lentamente i bottoni dei suoi pantaloncini per farli scivolare insieme alle mutandine."
+
+# game/day25.rpy:953
+translate italian day25_r_sex_fc2fb4ed:
+
+    # p "Let's get these off, shall we?"
+    p "Togliamoci questi, che ne dite?."
+
+# game/day25.rpy:958
+translate italian day25_r_sex_6d517046:
+
+    # r "What are you planning on doing, [p_name]?"
+    r "Cosa pensa di fare [p_name]?."
+
+# game/day25.rpy:959
+translate italian day25_r_sex_f76231ff:
+
+    # p "I think you deserve a treat. A little excitement."
+    p "Penso che ti meriti un trattamento Un po' di eccitazione."
+
+# game/day25.rpy:960
+translate italian day25_r_sex_dcb7cee5:
+
+    # r "Ohhh! I'm a big fan of excitement!"
+    r "Ohhh! Sono un grande fan dell'eccitazione!."
+
+# game/day25.rpy:963
+translate italian day25_r_sex_3fabb8ca:
+
+    # "{i}The position gives you a great view of her tight pussy, your sister's swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}La posizione ti permette di avere un'ottima visione della sua figa stretta, il clitoride gonfio di tua sorella ti chiama e le tue narici si riempiono del suo dolce profumo."
+
+# game/day25.rpy:965
+translate italian day25_r_sex_1e147499:
+
+    # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}La posizione ti offre un'ottima visuale della sua figa stretta, il clitoride gonfio di [r_name] ti chiama e le tue narici si riempiono della sua dolce fragranza."
+
+# game/day25.rpy:970
+translate italian day25_r_sex_35611710:
+
+    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
+    "{i}Tutta l'attesa l'ha già fatta bagnare e quando la tua lingua sfiora le sue labbra, assorbirai una grande quantità dei suoi dolci succhi."
+
+# game/day25.rpy:971
+translate italian day25_r_sex_74d93c92:
+
+    # r "Oh god, yes!"
+    r "Oh Dio, sì!"
+
+# game/day25.rpy:972
+translate italian day25_r_sex_4a95aa38:
+
+    # "{i}[r_name] twists and squirms while your tongue flicks ever rapidly between her pussy lips."
+    "{i}[r_name] si contorce e si contorce mentre la tua lingua guizza sempre più rapidamente tra le labbra della sua figa."
+
+# game/day25.rpy:973
+translate italian day25_r_sex_e480cf4c:
+
+    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
+    "{i}Una campana suona da qualche parte e poco dopo si sentono dei passi lontani nel corridoio [r_name] non sembra accorgersene o preoccuparsene."
+
+# game/day25.rpy:974
+translate italian day25_r_sex_0dee5928:
+
+    # p "I'm gonna have to make this quick, baby."
+    p "Devo fare in fretta, tesoro."
+
+# game/day25.rpy:975
+translate italian day25_r_sex_8ceaf300:
+
+    # r "F-f-finish it, p-please!"
+    r "F-finiscila, per favore!."
+
+# game/day25.rpy:981
+translate italian day25_r_sex_90dd1e99:
+
+    # "{i}Wanting to give your sister the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Desideroso di dare a tua sorella la soddisfazione che tanto desidera, passi a stimolare il suo clitoride [r_name], alza la gamba per darti un migliore accesso alla sua fica."
+
+# game/day25.rpy:983
+translate italian day25_r_sex_531e0ac8:
+
+    # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Desideroso di dare alla tua ragazza la soddisfazione che tanto desidera, passi a stimolare il suo clitoride [r_name], alza la gamba per darti un migliore accesso alla sua fica."
+
+# game/day25.rpy:984
+translate italian day25_r_sex_64ce9fc9:
+
+    # r "Ooooh, [p_name], don't stop, please!"
+    r "Ooooh [p_name] non fermarti per favore!."
+
+# game/day25.rpy:991
+translate italian day25_r_sex_69f611bc:
+
+    # r "Ooh, yes! Y-yyyyees!"
+    r "Oh sì! Y-yyyyees!"
+
+# game/day25.rpy:992
+translate italian day25_r_sex_f77a813c:
+
+    # "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massaging her clitoris. Her saltiness overwhelms your mouth as her juices run freely."
+    "{i}Il corpo di [r_name] trema per l'orgasmo mentre raggiunge il culmine con la tua lingua che massaggia con forza il suo clitoride La sua salinità travolge la tua bocca mentre i suoi succhi scorrono liberamente."
+
+# game/day25.rpy:997
+translate italian day25_r_sex_3874a9af:
+
+    # r "Just what I needed today!"
+    r "Proprio quello di cui avevo bisogno oggi!"
+
+# game/day25.rpy:1001
+translate italian day25_r_sex_0b7dd48e:
+
+    # p "Better than having lunch at the cafeteria?"
+    p "Meglio che pranzare alla mensa?."
+
+# game/day25.rpy:1002
+translate italian day25_r_sex_eb3d12e7:
+
+    # r "You bet."
+    r "Ci puoi scommettere"
+
+# game/day25.rpy:1003
+translate italian day25_r_sex_a74a2417:
+
+    # p "I'd better go now, before anybody mistakes me for a student."
+    p "È meglio che vada ora, prima che qualcuno mi scambi per uno studente."
+
+# game/day25.rpy:1004
+translate italian day25_r_sex_d436b3c0:
+
+    # r "Or a teacher!"
+    r "O un insegnante!"
+
+# game/day25.rpy:1005
+translate italian day25_r_sex_45e7d386:
+
+    # p "God forbid..."
+    p "Dio non voglia"
+
+# game/day25.rpy:1023
+translate italian day25_l_fingering_7a620cd9:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where [r_name] and you watched a couple have fun with each other."
+    "{i}L'aria notturna è fredda sulla tua pelle quando esci dalla piscina e ti dirigi verso l'area murata dove [r_name] e tu hai guardato una coppia divertirsi tra loro"
+
+# game/day25.rpy:1025
+translate italian day25_l_fingering_bf7b9c24:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where the hot tubs are located."
+    "{i}L'aria notturna è fredda sulla pelle quando si esce dalla piscina e ci si dirige verso l'area murata dove si trovano le vasche idromassaggio."
+
+# game/day25.rpy:1033
+translate italian day25_l_fingering_b58df64f:
+
+    # p "Yup, still very nice. Come on in!"
+    p "Sì, ancora molto bello Entrate pure!."
+
+# game/day25.rpy:1034
+translate italian day25_l_fingering_a1db61e1:
+
+    # "{i}You watch as [l_name] tries the water first with her toes and admire her naked body. A smile graces her face when she notices that the water is indeed still warm."
+    "{i}Guardate come [l_name] prova l'acqua prima con le dita dei piedi e ammira il suo corpo nudo Un sorriso le abbellisce il viso quando si accorge che l'acqua è effettivamente ancora calda"
+
+# game/day25.rpy:1036
+translate italian day25_l_fingering_15f142cd:
+
+    # l "Ooh, the water is bubbling. It tickles."
+    l "Oh, l'acqua gorgoglia, fa il solletico."
+
+# game/day25.rpy:1037
+translate italian day25_l_fingering_5e87a508:
+
+    # p "You're so far away, why don't you come over."
+    p "Sei così lontano perché non vieni qui?."
+
+# game/day25.rpy:1038
+translate italian day25_l_fingering_63b3750e:
+
+    # l "Good idea."
+    l "Buona idea"
+
+# game/day25.rpy:1041
+translate italian day25_l_fingering_00a857b2:
+
+    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
+    "{i}Tua sorella si avvicina e si accoccola tra le tue braccia Il suo sedere sfrega contro il tuo inguine e la tua crescente erezione, ma non sembra darle fastidio."
+
+# game/day25.rpy:1043
+translate italian day25_l_fingering_b1de4213:
+
+    # "{i}[l_name] swims closer and nestles herself in your arms. Her butt rubs against your crotch and your erection is growing, but she doesn't seem to mind."
+    "{i}[l_name] nuota più vicino e si accoccola tra le tue braccia Il suo sedere sfrega contro il tuo inguine e la tua erezione sta crescendo, ma lei non sembra farci caso."
+
+# game/day25.rpy:1044
+translate italian day25_l_fingering_f035222d:
+
+    # l "Mmmm, I feel all relaxed now."
+    l "Mmmm mi sento tutto rilassato ora."
+
+# game/day25.rpy:1045
+translate italian day25_l_fingering_fe2afd8b:
+
+    # "{i}There's a long silence in which you both enjoy just sitting close to each other."
+    "{i}C'è un lungo silenzio in cui entrambi godete del fatto di essere seduti vicini l'uno all'altro."
+
+# game/day25.rpy:1046
+translate italian day25_l_fingering_7471acc4:
+
+    # l "How can you be so free, [p_name]?"
+    l "Come puoi essere così libero [p_name]?."
+
+# game/day25.rpy:1047
+translate italian day25_l_fingering_1aa028eb:
+
+    # p "I don't know, I just am."
+    p "Non lo so, lo sono e basta."
+
+# game/day25.rpy:1048
+translate italian day25_l_fingering_f4565c3a:
+
+    # l "I just wish I had a little of your carefreeness."
+    l "Vorrei solo avere un po' della tua spensieratezza."
+
+# game/day25.rpy:1049
+translate italian day25_l_fingering_a3ac60c7:
+
+    # p "I'm sure it's something you can learn."
+    p "Sono sicuro che è qualcosa che si può imparare."
+
+# game/day25.rpy:1050
+translate italian day25_l_fingering_260bd9b3:
+
+    # l "I think I'd like... I'd like to feel good... "
+    l "Penso che mi piacerebbe sentirmi bene."
+
+# game/day25.rpy:1051
+translate italian day25_l_fingering_65f01471:
+
+    # p "You mean you'd like me to touch your pussy?"
+    p "Vuoi dire che vorresti che ti toccassi la figa?."
+
+# game/day25.rpy:1052
+translate italian day25_l_fingering_ec6cf6d6:
+
+    # l "Oh, [p_name], can't you just..."
+    l "Oh [p_name] non puoi."
+
+# game/day25.rpy:1058
+translate italian day25_l_fingering_81aea3f3:
+
+    # "{i}Without waiting for her reply, your hand dips below the waterline and slips between her legs. You hear [l_name] holding her breath."
+    "{i}Senza aspettare la sua risposta, la tua mano si immerge sotto la linea di galleggiamento e si infila tra le sue gambe Senti [l_name] trattenere il respiro"
+
+# game/day25.rpy:1060
+translate italian day25_l_fingering_3329c202:
+
+    # p "Touch your pussy just like that?"
+    p "Toccarti la figa così?."
+
+# game/day25.rpy:1061
+translate italian day25_l_fingering_ac68ab35:
+
+    # l "Y-yes, like that."
+    l "S-sì così"
+
+# game/day25.rpy:1063
+translate italian day25_l_fingering_3d4b35ee:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
+    "{i}Le tue dita stuzzicano le zone sensibili intorno al suo sesso e tua sorella si appoggia sempre più pesantemente sul tuo petto."
+
+# game/day25.rpy:1065
+translate italian day25_l_fingering_c9056500:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
+    "{i}Le vostre dita stuzzicano le zone sensibili intorno al suo sesso e lei si appoggia sempre più pesantemente sul vostro petto."
+
+# game/day25.rpy:1067
+translate italian day25_l_fingering_a333d905:
+
+    # "{i}When you start massaging her clit, [l_name] lets out a small moan and her hand tousles your hair."
+    "{i}Quando inizi a massaggiarle il clitoride [l_name] emette un piccolo gemito e la sua mano ti scompiglia i capelli."
+
+# game/day25.rpy:1068
+translate italian day25_l_fingering_0a90328c:
+
+    # p "Do you want me inside of you?"
+    p "Mi vuoi dentro di te?."
+
+# game/day25.rpy:1069
+translate italian day25_l_fingering_ab687a69:
+
+    # l "Yes, f-finger me, [p_name]!"
+    l "Sì, ditemi [p_name]!."
+
+# game/day25.rpy:1071
+translate italian day25_l_fingering_6eeb5756:
+
+    # "{i}Two fingers slip inside her pussy as you keep stimulating her clitoris with your thumb. [l_name]'s breathing is ragged and she seems close to orgasm."
+    "{i}Due dita scivolano nella sua figa mentre continui a stimolare il clitoride con il pollice Il respiro di [l_name] è affannoso e sembra vicina all'orgasmo."
+
+# game/day25.rpy:1072
+translate italian day25_l_fingering_82a4e302:
+
+    # p "Cum for me, baby!"
+    p "Sborra per me, baby!"
+
+# game/day25.rpy:1073
+translate italian day25_l_fingering_c4f51dd6:
+
+    # l "Y-y-yesss, [p_name], I'm..."
+    l "S-si-ssi [p_name] sono"
+
+# game/day25.rpy:1080
+translate italian day25_l_fingering_6c62f416:
+
+    # l "Aaaaaah!"
+    l "Aaaaaah!"
+
+# game/day25.rpy:1081
+translate italian day25_l_fingering_8c7f77e2:
+
+    # "{i}[l_name] trembles and squirms as she orgasms, your fingers still inside her. Her violent movements eventually force you outside of her and she rides out the last waves of her orgasm pressed against you."
+    "{i}[l_name] trema e si contorce mentre raggiunge l'orgasmo con le tue dita ancora dentro di lei I suoi movimenti violenti alla fine ti costringono a uscire da lei e lei cavalca le ultime onde del suo orgasmo premuta contro di te."
+
+# game/day25.rpy:1085
+translate italian day25_l_fingering_375652b2:
+
+    # l "T-that... that was fantastic. I feel all better now."
+    l "È stato fantastico, ora mi sento meglio."
+
+# game/day25.rpy:1087
+translate italian day25_l_fingering_da25e56e:
+
+    # l "This evening was a great idea, [p_name], thank you so much."
+    l "Questa serata è stata una grande idea [p_name] grazie mille."
+
+# game/day25.rpy:1088
+translate italian day25_l_fingering_db488370:
+
+    # p "You're very welcome."
+    p "Non c'è di che"
+
+# game/day25.rpy:1090
+translate italian day25_l_fingering_0e2e55a4:
+
+    # "{i}You keep floating in the hot tub until the midnight air is too chilly and you decide to go home."
+    "{i}Continuate a galleggiare nella vasca idromassaggio finché l'aria di mezzanotte non è troppo fredda e decidete di tornare a casa."
+
+# game/day25.rpy:1109
+translate italian day25_i_sex_9ec564bd:
+
+    # "{i}The door to the bedroom is wide open, and when you arrive, Iris is already down to her underwear."
+    "{i}La porta della camera da letto è spalancata e quando arrivi Iris è già in mutande."
+
+# game/day25.rpy:1110
+translate italian day25_i_sex_3caad50d:
+
+    # p "{i}(Those curves are fine indeed.)"
+    p "{i}(Quelle curve sono davvero belle)"
+
+# game/day25.rpy:1111
+translate italian day25_i_sex_9c584147:
+
+    # p "Iris?"
+    p "Iris?"
+
+# game/day25.rpy:1113
+translate italian day25_i_sex_b0d0767a:
+
+    # "{i}Iris doesn't appear very startled at your voice, but she still covers her breasts when she faces you."
+    "{i}Iris non sembra molto spaventata dalla tua voce, ma continua a coprirsi il seno quando ti guarda."
+
+# game/day25.rpy:1114
+translate italian day25_i_sex_80f822d5:
+
+    # p "Did you want me to follow you?"
+    p "Volevi che ti seguissi?."
+
+# game/day25.rpy:1116
+translate italian day25_i_sex_af9930e6:
+
+    # ir "Maybe..."
+    ir "Forse"
+
+# game/day25.rpy:1117
+translate italian day25_i_sex_ddad1a4b:
+
+    # ir "I look like a worn out sack of meat, don't I?"
+    ir "Sembro un sacco di carne logora, non è vero?."
+
+# game/day25.rpy:1120
+translate italian day25_i_sex_c6334f39:
+
+    # p "{i}(Damnit, she clearly has body issues.)"
+    p "{i}(Dannazione, ha chiaramente problemi con il corpo)."
+
+# game/day25.rpy:1121
+translate italian day25_i_sex_e4d7ab52:
+
+    # p "Why would you say that?"
+    p "Perché dici così?"
+
+# game/day25.rpy:1123
+translate italian day25_i_sex_57977556:
+
+    # ir "Because Justin never touches me... Never looks at me anymore."
+    ir "Perché Justin non mi tocca mai e non mi guarda più."
+
+# game/day25.rpy:1124
+translate italian day25_i_sex_b9b73004:
+
+    # p "I think Justin is too absorbed in his work to care about anything else."
+    p "Credo che Justin sia troppo assorbito dal suo lavoro per interessarsi a qualsiasi altra cosa."
+
+# game/day25.rpy:1125
+translate italian day25_i_sex_8508b229:
+
+    # p "He's so absorbed that he doesn't see his beautiful wife for what she is: a desirable woman."
+    p "È così assorbito che non vede la sua bella moglie per quello che è: una donna desiderabile."
+
+# game/day25.rpy:1127
+translate italian day25_i_sex_e0cb8901:
+
+    # ir "Do you really think that?"
+    ir "Lo pensi davvero?"
+
+# game/day25.rpy:1128
+translate italian day25_i_sex_b62d145c:
+
+    # p "That you're desirable? Yes, I think so."
+    p "Che sei desiderabile? Sì, credo di sì."
+
+# game/day25.rpy:1129
+translate italian day25_i_sex_6fa9dade:
+
+    # p "You possess everything I love in a woman. A radiant smile, beautiful curves, luscious breasts and maturity."
+    p "Possiedi tutto ciò che amo in una donna Un sorriso radioso belle curve seni lussureggianti e maturità."
+
+# game/day25.rpy:1130
+translate italian day25_i_sex_fa2a42a8:
+
+    # ir "Luscious breasts, really? I always thought they were in the way."
+    ir "Seni lussuosi, davvero? Ho sempre pensato che fossero d'intralcio."
+
+# game/day25.rpy:1131
+translate italian day25_i_sex_5e50fb58:
+
+    # p "I can't say that I see your point."
+    p "Non posso dire di aver capito il tuo punto di vista."
+
+# game/day25.rpy:1132
+translate italian day25_i_sex_facdc743:
+
+    # ir "Do you still want me to put that dress on?"
+    ir "Vuoi ancora che ti metta quel vestito?."
+
+# game/day25.rpy:1133
+translate italian day25_i_sex_86d15f25:
+
+    # p "If you let me watch you undress..."
+    p "Se mi lasci guardare mentre ti spogli."
+
+# game/day25.rpy:1134
+translate italian day25_i_sex_774139e9:
+
+    # ir "That's okay."
+    ir "Va bene"
+
+# game/day25.rpy:1135
+translate italian day25_i_sex_e2405543:
+
+    # "{i}Iris proceeds to unclasp her bra and is still a little uncomfortable with the whole situation."
+    "{i}Iris procede a slacciare il reggiseno ed è ancora un po' a disagio per l'intera situazione."
+
+# game/day25.rpy:1137
+translate italian day25_i_sex_44cb0290:
+
+    # p "Just what I thought."
+    p "Proprio come pensavo"
+
+# game/day25.rpy:1138
+translate italian day25_i_sex_20c0c941:
+
+    # ir "What? Are they..."
+    ir "Cosa? Sono"
+
+# game/day25.rpy:1139
+translate italian day25_i_sex_fdc9e41d:
+
+    # p "A perfect pair."
+    p "Una coppia perfetta"
+
+# game/day25.rpy:1141
+translate italian day25_i_sex_25b76bba:
+
+    # ir "Even if I don't know whether to believe you or not, it's still nice to get these compliments."
+    ir "Anche se non so se crederti o meno, è comunque bello ricevere questi complimenti."
+
+# game/day25.rpy:1146
+translate italian day25_i_sex_887cad5a:
+
+    # p "You're a vision!"
+    p "Sei una visione!"
+
+# game/day25.rpy:1147
+translate italian day25_i_sex_c18f3955:
+
+    # p "But..."
+    p "Ma"
+
+# game/day25.rpy:1148
+translate italian day25_i_sex_2aca1d3c:
+
+    # ir "But? Is something wrong."
+    ir "Ma? C'è qualcosa che non va"
+
+# game/day25.rpy:1149
+translate italian day25_i_sex_6bc6dd21:
+
+    # p "You could say that."
+    p "Si può dire che"
+
+# game/day25.rpy:1150
+translate italian day25_i_sex_84779fec:
+
+    # p "I've seen those beautiful breasts of yours and I kinda want to see more of you..."
+    p "Ho visto il tuo bel seno e vorrei vederne di più."
+
+# game/day25.rpy:1151
+translate italian day25_i_sex_c2131b78:
+
+    # "{i}Wordlessly, Iris turns her back and unzips the dress, after that her panties fall to the floor."
+    "{i}Senza parole, Iris si gira di spalle e slaccia il vestito, dopodiché le sue mutandine cadono a terra."
+
+# game/day25.rpy:1153
+translate italian day25_i_sex_713e1875:
+
+    # ir "You mean like this?"
+    ir "Vuoi dire così?"
+
+# game/day25.rpy:1154
+translate italian day25_i_sex_ff5204b0:
+
+    # p "{i}(Sweet Jesus, I'd like to give those buttocks a good slapping.)"
+    p "{i}(Gesù santo vorrei dare a quelle natiche un bello schiaffo)."
+
+# game/day25.rpy:1155
+translate italian day25_i_sex_9fdfc4c8:
+
+    # p "Exactly like that."
+    p "Esattamente così"
+
+# game/day25.rpy:1160
+translate italian day25_i_sex_6dde063f:
+
+    # ir "If you want me, I'm yours..."
+    ir "Se mi vuoi sono tuo"
+
+# game/day25.rpy:1161
+translate italian day25_i_sex_f49d9534:
+
+    # ir "But I want to see you too..."
+    ir "Ma anch'io voglio vederti."
+
+# game/day25.rpy:1163
+translate italian day25_i_sex_95d0da94:
+
+    # "{i}Without much ceremony you undress yourself and find Iris staring longingly at your erect cock."
+    "{i}Senza troppe cerimonie ti spogli e trovi Iris che fissa con desiderio il tuo cazzo eretto."
+
+# game/day25.rpy:1164
+translate italian day25_i_sex_c27fd2fa:
+
+    # ir "It's been a while... I almost forgot what it was like."
+    ir "È passato un po' di tempo, ho quasi dimenticato com'era."
+
+# game/day25.rpy:1165
+translate italian day25_i_sex_4da5b111:
+
+    # ir "You look so handsome."
+    ir "Sei così bello"
+
+# game/day25.rpy:1167
+translate italian day25_i_sex_c0e0f065:
+
+    # ir "I can't believe we're doing this."
+    ir "Non posso credere che lo stiamo facendo."
+
+# game/day25.rpy:1169
+translate italian day25_i_sex_0a7056a4:
+
+    # ir "But the woman you were with?! You aren't cheating on her, are you?"
+    ir "Ma la donna con cui eri?! Non la stai tradendo, vero?."
+
+# game/day25.rpy:1170
+translate italian day25_i_sex_59390063:
+
+    # p "We're dating, but not sure of our feelings yet. Besides, I'm all for open relationships."
+    p "Ci stiamo frequentando ma non siamo ancora sicuri dei nostri sentimenti Inoltre sono favorevole alle relazioni aperte."
+
+# game/day25.rpy:1172
+translate italian day25_i_sex_1952c19f:
+
+    # ir "A handsome man like you, you must have a girlfriend."
+    ir "Un bell'uomo come te deve avere una ragazza."
+
+# game/day25.rpy:1173
+translate italian day25_i_sex_2c23e463:
+
+    # p "Yes, I'm seeing some girls, but nothing serious. Besides, I'm all for open relationships."
+    p "Sì, mi vedo con alcune ragazze, ma niente di serio. Inoltre, sono favorevole alle relazioni aperte."
+
+# game/day25.rpy:1174
+translate italian day25_i_sex_b169d104:
+
+    # ir "So are we really doing this?"
+    ir "Allora lo facciamo davvero?."
+
+# game/day25.rpy:1175
+translate italian day25_i_sex_62c06072:
+
+    # p "Yes Iris, we are. Just lie down and kiss me."
+    p "Sì, Iris, lo siamo. Stenditi e baciami."
+
+# game/day25.rpy:1180
+translate italian day25_i_sex_200fd0f6:
+
+    # "{i}A little hesitant, Iris lets herself be guided down to the mattress, but as soon as your lips touch and your tongues intertwine, she no longer has any reservations."
+    "{i}Un po' titubante, Iris si lascia guidare verso il materasso, ma non appena le vostre labbra si toccano e le vostre lingue si intrecciano, non ha più alcuna riserva."
+
+# game/day25.rpy:1181
+translate italian day25_i_sex_18e1759f:
+
+    # ir "Oh [p_name], kiss me again!"
+    ir "Oh [p_name] baciami ancora!."
+
+# game/day25.rpy:1182
+translate italian day25_i_sex_dd6c002a:
+
+    # "{i}You notice her kisses have a bit of a desperate edge to them, a hunger maybe, as if she's afraid you might still leave her."
+    "{i}Hai notato che i suoi baci hanno un che di disperato, forse un po' di fame, come se avesse paura che tu la lasciassi ancora."
+
+# game/day25.rpy:1184
+translate italian day25_i_sex_3f08601e:
+
+    # "{i}When you caress her full breasts and touch her soft erect nipples, Iris lets out a sigh of pleasure."
+    "{i}Quando le accarezzi i seni pieni e le sfiori i capezzoli morbidi ed eretti, Iris emette un sospiro di piacere."
+
+# game/day25.rpy:1185
+translate italian day25_i_sex_d9367c64:
+
+    # p "Do you like it when I touch you there, Iris?"
+    p "Ti piace quando ti tocco lì Iris?."
+
+# game/day25.rpy:1186
+translate italian day25_i_sex_2b5f856c:
+
+    # ir "Mmmm, yes."
+    ir "Mmmm sì"
+
+# game/day25.rpy:1188
+translate italian day25_i_sex_e77aac7b:
+
+    # "{i}You move down to her plump ass and massage her buttocks. Iris seems to be relaxing more and more as you discover her body."
+    "{i}Ti sposti verso il suo sedere paffuto e le massaggi le natiche Iris sembra rilassarsi sempre di più man mano che scopri il suo corpo."
+
+# game/day25.rpy:1189
+translate italian day25_i_sex_2004ab1b:
+
+    # p "Do you want to feel good?"
+    p "Vuoi sentirti bene?."
+
+# game/day25.rpy:1190
+translate italian day25_i_sex_9c3b627f:
+
+    # ir "Yes..."
+    ir "Sì"
+
+# game/day25.rpy:1192
+translate italian day25_i_sex_c3edf5bb:
+
+    # "{i}Gently you turn her on her back again, and a little embarrassed, the older woman closes her legs."
+    "{i}Con delicatezza la si gira di nuovo sulla schiena e un po' imbarazzata la donna più anziana chiude le gambe."
+
+# game/day25.rpy:1193
+translate italian day25_i_sex_2b101f07:
+
+    # p "Don't be shy, Iris."
+    p "Non essere timida Iris."
+
+# game/day25.rpy:1195
+translate italian day25_i_sex_c192101e:
+
+    # "{i}You effortlessly spread her legs. The reverend's wife doesn't stop you."
+    "{i}Le hai allargato le gambe senza sforzo, la moglie del reverendo non ti ha fermato."
+
+# game/day25.rpy:1196
+translate italian day25_i_sex_0c1def5d:
+
+    # p "{i}(Wow, that's an old-school bush, right there.)"
+    p "{i}(Wow, questo sì che è un cespuglio vecchio stile)."
+
+# game/day25.rpy:1201
+translate italian day25_i_sex_728ab8a9:
+
+    # "{i}Iris wants to protest when you move your head down between her legs, but she is silent the moment your tongue touches her pussy."
+    "{i}Iris vorrebbe protestare quando sposti la testa tra le sue gambe, ma tace nel momento in cui la tua lingua tocca la sua figa."
+
+# game/day25.rpy:1202
+translate italian day25_i_sex_a08cbfab:
+
+    # ir "Oooh, [p_name]!"
+    ir "Oooh [p_name]!."
+
+# game/day25.rpy:1204
+translate italian day25_i_sex_e4744b64:
+
+    # "{i}Her taste fills your mouth as you penetrate her cunt with your probing tongue. Iris moans and writhes on the bed."
+    "{i}Il suo sapore ti riempie la bocca mentre penetri la sua fica con la lingua Iris geme e si contorce sul letto."
+
+# game/day25.rpy:1205
+translate italian day25_i_sex_82d39544:
+
+    # ir "Y-yes, right there, keep doing that. Aaaaah!"
+    ir "S-sì proprio lì continua a farlo Aaaaah!."
+
+# game/day25.rpy:1208
+translate italian day25_i_sex_96ee126b:
+
+    # "{i}Licking her clitoris is what finally makes her explode in your mouth. She shudders and takes your head in her hands, pushing you down on her slit."
+    "{i}Leccare il suo clitoride è ciò che alla fine la fa esplodere nella tua bocca... Lei rabbrividisce e ti prende la testa tra le mani spingendoti sulla sua fessura."
+
+# game/day25.rpy:1209
+translate italian day25_i_sex_f27ed8be:
+
+    # ir "I want you, [p_name], I want you inside me!"
+    ir "Ti voglio [p_name] ti voglio dentro di me!."
+
+# game/day25.rpy:1213
+translate italian day25_i_sex_fdda4f53:
+
+    # "{i}Like two horny teenagers, she helps you scramble on top of her, takes hold of your throbbing cock and eagerly guides it inside her wet pussy."
+    "{i}Come due adolescenti arrapati, ti aiuta a salire sopra di lei, prende in mano il tuo cazzo pulsante e lo guida avidamente dentro la sua figa bagnata."
+
+# game/day25.rpy:1215
+translate italian day25_i_sex_ace14589:
+
+    # ir "Fuck me!"
+    ir "Scopami!"
+
+# game/day25.rpy:1221
+translate italian day25_i_sex_91ba433a:
+
+    # "{i}Your movements are tender, yet you penetrate her deeply. Each time you thrust your cock to the root inside her cunt, her nails claw into your buttocks."
+    "{i}I tuoi movimenti sono teneri eppure la penetri a fondo Ogni volta che spingi il tuo cazzo fino alla radice dentro la sua fica, le sue unghie si conficcano nelle tue natiche."
+
+# game/day25.rpy:1223
+translate italian day25_i_sex_54864ef0:
+
+    # ir "Oooh, y-you feel so good, [p_name]."
+    ir "Oooh ti senti così bene [p_name]"
+
+# game/day25.rpy:1224
+translate italian day25_i_sex_828438ab:
+
+    # p "Aaah, Iris!"
+    "Aaah Iris!"
+
+# game/day25.rpy:1226
+translate italian day25_i_sex_8809bb85:
+
+    # "{i}For a moment, Iris is annoyed when you pull out, but after you turn her on her side and you penetrate her again she lets out a small sigh of relief."
+    "{i}Per un momento Iris è infastidita quando ti tiri fuori, ma dopo che l'hai girata su un fianco e l'hai penetrata di nuovo, emette un piccolo sospiro di sollievo."
+
+# game/day25.rpy:1227
+translate italian day25_i_sex_d46ea59a:
+
+    # ir "Are you going to cum for me, [p_name]?"
+    ir "Hai intenzione di sborrare per me [p_name]?."
+
+# game/day25.rpy:1228
+translate italian day25_i_sex_bce655a9:
+
+    # p "G-god yes Iris!"
+    p "Dio, sì, Iris!."
+
+# game/day25.rpy:1229
+translate italian day25_i_sex_ef490d67:
+
+    # "{i}Your hands dig into her soft flesh, and you fuck her even more passionately when you feel your orgasm approach."
+    "{i}Le tue mani scavano nella sua carne morbida e la scopi ancora più appassionatamente quando senti che l'orgasmo si avvicina."
+
+# game/day25.rpy:1240
+translate italian day25_i_sex_f5ee9209:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1241
+translate italian day25_i_sex_891c825e:
+
+    # "{i}As your cock erupts inside of her, Iris opens her legs slight further to allow you to shoot your seed even deeper inside of her."
+    "{i}Mentre il tuo cazzo erutta dentro di lei, Iris apre leggermente le gambe per permetterti di sparare il tuo seme ancora più a fondo dentro di lei."
+
+# game/day25.rpy:1242
+translate italian day25_i_sex_62f76ee7:
+
+    # ir "Don't stop, ooooh! Mmmmmmm!"
+    ir "Non fermarti ooooh! Mmmmm!"
+
+# game/day25.rpy:1257
+translate italian day25_i_sex_f5ee9209_1:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1258
+translate italian day25_i_sex_32c25792:
+
+    # "{i}After you pull out, your cock erupts and Iris directs the streams of cum towards herself, so as to allow your strands of semen to cover her body."
+    "{i}Dopo che hai tirato fuori il tuo cazzo erutta e Iris dirige i flussi di sperma verso di sé in modo da permettere ai tuoi fili di sperma di ricoprire il suo corpo."
+
+# game/day25.rpy:1259
+translate italian day25_i_sex_b43b3ad9:
+
+    # ir "That's it, cover me with your cum, [p_name]!"
+    ir "Ecco, coprimi con la tua sborra [p_name]!."
+
+# game/day25.rpy:1269
+translate italian day25_i_sex_ae79a827:
+
+    # "{i}Thoroughly spent, you lie with Iris for a while, her head resting on your chest."
+    "{i}Sfinito, rimani sdraiato con Iris per un po', con la testa appoggiata sul tuo petto."
+
+# game/day25.rpy:1270
+translate italian day25_i_sex_6e5d107c:
+
+    # ir "I'm glad you came by for coffee."
+    ir "Sono contento che tu sia venuto a prendere un caffè."
+
+# game/day25.rpy:1271
+translate italian day25_i_sex_5f123bc2:
+
+    # p "As am I."
+    p "Come me"
+

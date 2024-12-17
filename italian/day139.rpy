@@ -8012,4 +8012,89 @@ translate italian day139_movie_fuck_e786345e:
 translate italian day139_movie_fuck_940fc4a3:
 
     # l "Does this make you forget that movie a little?"
-    l "Questo ti fa dimenticare un po' quel film?"
+    l "Questo ti fa dimenticare un po' quel film?"# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day139.rpy:1920
+translate italian day139_b_me_soft_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] è incinta in questa scena?."
+
+# game/day139.rpy:1924
+translate italian day139_b_me_soft_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] incinta"
+
+# game/day139.rpy:1927
+translate italian day139_b_me_soft_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] non incinta"
+
+# game/day139.rpy:2374
+translate italian day139_movie_fuck_ebb77704:
+
+    # "Who is getting fucked?"
+    "Chi si fa scopare?"
+
+# game/day139.rpy:2380
+translate italian day139_movie_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] è incinta in questa scena?."
+
+# game/day139.rpy:2385
+translate italian day139_movie_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] incinta"
+
+# game/day139.rpy:2388
+translate italian day139_movie_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] non incinta"
+
+# game/day139.rpy:2394
+translate italian day139_movie_fuck_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] è incinta in questa scena?."
+
+# game/day139.rpy:2399
+translate italian day139_movie_fuck_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] incinta"
+
+# game/day139.rpy:2402
+translate italian day139_movie_fuck_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] non incinta"
+
+# game/day139.rpy:2407
+translate italian day139_movie_fuck_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] è incinta in questa scena?."
+
+# game/day139.rpy:2412
+translate italian day139_movie_fuck_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] incinta"
+
+# game/day139.rpy:2415
+translate italian day139_movie_fuck_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] non è incinta"
+
+translate italian strings:
+
+    # game/day139.rpy:2375
+    old "[r_name]"
+    new "[r_name]"
+

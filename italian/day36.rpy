@@ -5578,7 +5578,7 @@ translate italian day36_evening_choices_e7f84bce:
 translate italian day36_evening_choices_c453006d:
 
     # woman "So again, my apologies for leaving you so abruptly."
-    donna "Quindi mi scuso ancora per avervi lasciato così bruscamente."
+    woman "Quindi mi scuso ancora per avervi lasciato così bruscamente."
 
 # game/day36.rpy:714
 translate italian day36_evening_choices_4b164ace:
@@ -5752,4 +5752,293 @@ translate italian strings:
 
     # game/day36.rpy:835
     old "Interrupt her"
-    new "Interromperla"
+    new "Interromperla"# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day36.rpy:1510
+translate italian day36_l_blowjob_304be16a:
+
+    # l "Don't go, [p_name]."
+    l "Non andare [p_name]."
+
+# game/day36.rpy:1511
+translate italian day36_l_blowjob_4cb7cb3b:
+
+    # l "I don't want to be lllonely..."
+    l "Non voglio essere solo."
+
+# game/day36.rpy:1516
+translate italian day36_l_blowjob_468ca890:
+
+    # "{i}Without ceremony, [l_name] drops her dress to the floor, exposing her naked body."
+    "{i}Senza alcuna cerimonia [l_name] lascia cadere il suo vestito a terra esponendo il suo corpo nudo."
+
+# game/day36.rpy:1517
+translate italian day36_l_blowjob_21117e0e:
+
+    # l "Come on... you too!"
+    l "Vieni anche tu!"
+
+# game/day36.rpy:1518
+translate italian day36_l_blowjob_9b4a300b:
+
+    # "{i}[l_name]'s drunkenness surely has made her less reserved, but the eagerness is genuine at the same time."
+    "{i}[l_name] l'ubriachezza l'ha sicuramente resa meno riservata, ma l'impazienza è allo stesso tempo genuina."
+
+# game/day36.rpy:1521
+translate italian day36_l_blowjob_40e1009f:
+
+    # "{i}As your sister lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Quando tua sorella si sdraia con te, ti accarezza la pelle e ti guarda in attesa."
+
+# game/day36.rpy:1523
+translate italian day36_l_blowjob_23775a35:
+
+    # "{i}As your friend lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Quando la tua amica si sdraia con te, ti accarezza la pelle e ti guarda in attesa."
+
+# game/day36.rpy:1524
+translate italian day36_l_blowjob_ac4d6993:
+
+    # l "I'm not ready to sleep..."
+    l "Non sono pronto a dormire."
+
+# game/day36.rpy:1525
+translate italian day36_l_blowjob_1249acbe:
+
+    # p "Me neither."
+    p "Nemmeno io"
+
+# game/day36.rpy:1530
+translate italian day36_l_blowjob_7f7cb4c9:
+
+    # "{i}Saying nothing further, [l_name]'s hand wraps around your growing cock, her fingertips trailing the pulsing veins."
+    "{i}Senza dire altro, la mano di [l_name] avvolge il tuo cazzo in crescita, con i polpastrelli che seguono le vene pulsanti."
+
+# game/day36.rpy:1531
+translate italian day36_l_blowjob_2bc673f7:
+
+    # "{i}Her touch alone is enough to make you rock-hard, and you bury your head in her breasts in eager anticipation."
+    "{i}Il suo solo tocco è sufficiente a renderti duro come una roccia e tu seppellisci la testa nei suoi seni in trepidante attesa."
+
+# game/day36.rpy:1533
+translate italian day36_l_blowjob_fc8508ce:
+
+    # "{i}At that point, [l_name] does something unexpected by positioning her body so that her head is very near your dick."
+    "{i}A quel punto [l_name] fa qualcosa di inaspettato, posizionando il suo corpo in modo che la sua testa sia molto vicina al tuo cazzo."
+
+# game/day36.rpy:1534
+translate italian day36_l_blowjob_23992067:
+
+    # l "Is it better when I use my mouth instead of my hands?"
+    l "È meglio se uso la bocca invece delle mani?."
+
+# game/day36.rpy:1535
+translate italian day36_l_blowjob_c0fae0d5:
+
+    # "{i}[l_name] speech is still slightly slurred, but the sexual energy has given her more determination than before."
+    "{i}[l_name] parla ancora un po' a tentoni, ma l'energia sessuale le ha dato più determinazione di prima."
+
+# game/day36.rpy:1536
+translate italian day36_l_blowjob_c5250ec4:
+
+    # p "Yes..."
+    p "Sì"
+
+# game/day36.rpy:1537
+translate italian day36_l_blowjob_d72fb300:
+
+    # l "I'd really like to try."
+    l "Mi piacerebbe molto provare."
+
+# game/day36.rpy:1543
+translate italian day36_l_blowjob_4b4f4590:
+
+    # "{i}Not waiting on further encouragement, [l_name] prods your glans with the tip of her tongue."
+    "{i}Senza aspettare ulteriori incoraggiamenti, [l_name] ti pungola il glande con la punta della lingua."
+
+# game/day36.rpy:1544
+translate italian day36_l_blowjob_4160e029:
+
+    # "{i}She then proceeds to lick the entire head, firing all the nerve endings and making you gasp under her control."
+    "{i}Poi procede a leccare l'intera testa attivando tutte le terminazioni nervose e facendovi sussultare sotto il suo controllo."
+
+# game/day36.rpy:1545
+translate italian day36_l_blowjob_7bf00fe8:
+
+    # "{i}You think you could cum from that stimulation alone, but [l_name] is already opening her mouth to invite your throbbing cock inside."
+    "{i}Pensi che potresti sborrare solo con quella stimolazione, ma [l_name] sta già aprendo la bocca per invitare il tuo cazzo pulsante dentro."
+
+# game/day36.rpy:1551
+translate italian day36_l_blowjob_70dc081f:
+
+    # "{i}The feeling of her soft lips wrapping around your hard cock is amazing, as are the motions of her tongue over the head of your cock."
+    "{i}La sensazione delle sue labbra morbide che avvolgono il tuo cazzo duro è incredibile, così come i movimenti della sua lingua sulla testa del tuo cazzo."
+
+# game/day36.rpy:1552
+translate italian day36_l_blowjob_14a1e70d:
+
+    # "{i}[l_name] is clearly inexperienced, and when she starts to suck you properly, she has trouble controlling her gag reflex."
+    "{i}[l_name] è chiaramente inesperta e quando inizia a succhiarti correttamente ha difficoltà a controllare il suo riflesso faringeo."
+
+# game/day36.rpy:1553
+translate italian day36_l_blowjob_d57a8d96:
+
+    # p "You're doing great baby!"
+    p "Stai andando alla grande, piccola!."
+
+# game/day36.rpy:1555
+translate italian day36_l_blowjob_7b5ec7da:
+
+    # "{i}Despite her teeth brushing against your sensitive member from time to time, [l_name]'s blowjob is very pleasurable."
+    "{i}Nonostante i suoi denti sfiorino di tanto in tanto il tuo membro sensibile, il pompino di [l_name] è molto piacevole."
+
+# game/day36.rpy:1556
+translate italian day36_l_blowjob_f109dff8:
+
+    # "{i}The feeling of training an inexperienced mouth more than makes up for the occasional clumsy manoeuver."
+    "{i}La sensazione di allenare una bocca inesperta compensa ampiamente le manovre occasionali e maldestre."
+
+# game/day36.rpy:1561
+translate italian day36_l_blowjob_625c9227:
+
+    # "{i}A little exhausted, [l_name] pauses her efforts."
+    "{i}Un po' esausto [l_name] mette in pausa i suoi sforzi."
+
+# game/day36.rpy:1562
+translate italian day36_l_blowjob_d73077d3:
+
+    # l "Am I doing okay?"
+    l "Sto bene?"
+
+# game/day36.rpy:1563
+translate italian day36_l_blowjob_64e16b30:
+
+    # p "Quite."
+    p "Abbastanza."
+
+# game/day36.rpy:1564
+translate italian day36_l_blowjob_45ff7505:
+
+    # l "I'm not hurting you?"
+    l "Non ti sto facendo del male?"
+
+# game/day36.rpy:1565
+translate italian day36_l_blowjob_9e9e52ef:
+
+    # p "No, you're not, you're doing great, trust me."
+    p "No, non è vero, stai andando benissimo, fidati."
+
+# game/day36.rpy:1566
+translate italian day36_l_blowjob_b891e4dc:
+
+    # p "Just keep it covered in saliva and be wary of your teeth."
+    p "Basta tenerlo coperto di saliva e fare attenzione ai denti."
+
+# game/day36.rpy:1567
+translate italian day36_l_blowjob_6067bdda:
+
+    # l "I will."
+    l "Lo farò"
+
+# game/day36.rpy:1568
+translate italian day36_l_blowjob_183c34cd:
+
+    # l "Will you warn me when you're about to cum?"
+    l "Mi avvertirai quando stai per sborrare?."
+
+# game/day36.rpy:1569
+translate italian day36_l_blowjob_d8a3ffd9:
+
+    # p "Of course."
+    p "Naturalmente"
+
+# game/day36.rpy:1574
+translate italian day36_l_blowjob_de583bdb:
+
+    # "{i}With renewed energy, [l_name] goes down on you, feeling confident enough to massage your balls with her other hand."
+    "{i}Con rinnovata energia [l_name] scende su di te sentendosi abbastanza sicura da massaggiarti le palle con l'altra mano."
+
+# game/day36.rpy:1575
+translate italian day36_l_blowjob_2f7ca07a:
+
+    # "{i}Her unsure glances become less frequent as she fully focuses on blowing you in a rhythm that doesn't make you last long."
+    "{i}I suoi sguardi insicuri si fanno meno frequenti mentre si concentra completamente su di te in un ritmo che non ti fa durare a lungo."
+
+# game/day36.rpy:1576
+translate italian day36_l_blowjob_d0096822:
+
+    # p "I'm nearly there baby."
+    p "Ci sono quasi, tesoro"
+
+# game/day36.rpy:1577
+translate italian day36_l_blowjob_d887ba44:
+
+    # "{i}[l_name] smiles and keeps sucking you until you attempt to push her away, but she doesn't let you."
+    "{i}[l_name] sorride e continua a succhiarti finché non cerchi di allontanarla, ma lei non te lo permette."
+
+# game/day36.rpy:1578
+translate italian day36_l_blowjob_c1b9bbcf:
+
+    # p "I'm going to cum, [l_name]!"
+    p "Sto per sborrare [l_name]!."
+
+# game/day36.rpy:1579
+translate italian day36_l_blowjob_690af96d:
+
+    # p "You might want to... aaaah!"
+    p "Potresti voler fare aaaah!."
+
+# game/day36.rpy:1583
+translate italian day36_l_blowjob_ade7c46f:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your sister looks determined and wants to receive every last drop of warm cum."
+    "{i}Impotente ti scarichi nella bocca di [l_name] tua sorella sembra decisa e vuole ricevere fino all'ultima goccia di caldo sperma."
+
+# game/day36.rpy:1585
+translate italian day36_l_blowjob_46f700e1:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your friend looks determined and wants to receive every last drop of warm cum."
+    "{i}Impotente ti scarichi nella bocca di [l_name] il tuo amico sembra determinato e vuole ricevere fino all'ultima goccia di caldo sperma"
+
+# game/day36.rpy:1586
+translate italian day36_l_blowjob_a4734eca:
+
+    # "{i}[l_name] treats your cock to a couple of last licks and then bravely swallows your entire load."
+    "{i}[l_name] concede al tuo cazzo un paio di ultime leccate e poi ingoia coraggiosamente tutto il tuo carico."
+
+# game/day36.rpy:1587
+translate italian day36_l_blowjob_2a363f04:
+
+    # p "Why did you do that?"
+    p "Perché l'hai fatto?"
+
+# game/day36.rpy:1588
+translate italian day36_l_blowjob_092822c9:
+
+    # p "You asked me to warn you?"
+    p "Mi hai chiesto di avvertirti?."
+
+# game/day36.rpy:1589
+translate italian day36_l_blowjob_abd3af6f:
+
+    # l "Ssshh... No rules..."
+    l "Ssshh No rules"
+
+# game/day36.rpy:1595
+translate italian day36_l_blowjob_22bb8206:
+
+    # "{i}While you're still enjoying the last waves of your orgasm, [l_name] moves to sit on your leg and keeps you firmly in your place."
+    "{i}Mentre ti stai ancora godendo le ultime ondate del tuo orgasmo [l_name] si sposta per sedersi sulla tua gamba e ti tiene saldamente al tuo posto."
+
+# game/day36.rpy:1596
+translate italian day36_l_blowjob_30516eca:
+
+    # "{i}The moistness of her pussy is clearly noticeable on your bare skin and she starts making wet trails on your leg as she rubs herself on your leg."
+    "{i}L'umidità della sua figa si nota chiaramente sulla tua pelle nuda e lei inizia a creare delle scie umide sulla tua gamba mentre si strofina sulla tua gamba."
+
+# game/day36.rpy:1597
+translate italian day36_l_blowjob_4019def0:
+
+    # l "I'm just your little ssslut."
+    "Sono solo la tua piccola ssslut."
+

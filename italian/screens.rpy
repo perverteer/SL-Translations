@@ -542,3 +542,99 @@ translate italian strings:
     old "Portuguese"
     new "Portoghese"
 
+# TODO: Translation updated at 2024-11-18 14:31
+
+translate italian strings:
+
+    # game/screens.rpy:540
+    old "Achievements"
+    new "Obiettivi"
+
+    # game/screens.rpy:842
+    old "Achievements Unlocked: %d / %d"
+    new "Obiettivi sbloccati: %d / %d"
+
+    # game/screens.rpy:874
+    old "Version "
+    new "Versione "
+
+    # game/screens.rpy:874
+    old "[config.version!t]\n"
+    new "[config.version!t]\n"
+
+    # game/screens.rpy:880
+    old "Translations"
+    new "Traduzioni"
+
+    # game/screens.rpy:883
+    old "Voice Acting"
+    new "Recitazione vocale"
+
+    # game/screens.rpy:886
+    old "Music"
+    new "Musica"
+
+    # game/screens.rpy:908
+    old "{a=[track[website]]}[track[website]]{/a}"
+    new "{a=[track[website]]}[track[website]]{/a}"
+
+    # game/screens.rpy:909
+    old "License: "
+    new "Licenza: "
+
+    # game/screens.rpy:909
+    old "{a=[track[license_url]]}[track[license]]{/a}"
+    new "{a=[track[license_url]]}[track[license]]{/a}"
+
+    # game/screens.rpy:911
+    old "Website: "
+    new "Sito web: "
+
+    # game/screens.rpy:911
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    # game/screens.rpy:915
+    old "Sound Effects"
+    new "Effetti sonori"
+
+    # game/screens.rpy:1617
+    old "View by: "
+    new "Vista da: "
+
+    # game/screens.rpy:1619
+    old "Days"
+    new "Giorni"
+
+    # game/screens.rpy:1621
+    old "Character"
+    new "Personaggio"
+
+# TODO: Translation updated at 2024-11-19 10:12
+
+translate italian strings:
+
+    # game/screens.rpy:1198
+    old "Turkish"
+    new "Turco"
+
+# TODO: Translation updated at 2024-11-29 09:51
+
+translate italian strings:
+
+    # game/screens.rpy:1189
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1190
+    old "Connect your toy"
+    new "Collegare il giocattolo"
+
+# TODO: Translation updated at 2024-12-11 17:20
+
+translate italian strings:
+
+    # game/screens.rpy:1210
+    old "Chinese (Simplified)"
+    new "Cinese (semplificato)"
+

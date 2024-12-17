@@ -2740,4 +2740,95 @@ translate italian day06_night_visit_choices_d3e9a2f0:
 translate italian day06_night_visit_choices_e46d3fff:
 
     # p "{i}(Sweet dreams, [r_name]...)"
-    p "{i}(Sogni d'oro [r_name]...)"
+    p "{i}(Sogni d'oro [r_name]...)"# TODO: Translation updated at 2024-11-18 14:31
+
+# game/day06.rpy:740
+translate italian day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Meglio trovare qualche emozione altrove)"
+
+# game/day06.rpy:747
+translate italian day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Si sente bussare alla porta"
+
+# game/day06.rpy:748
+translate italian day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Come in"
+
+# game/day06.rpy:750
+translate italian day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Ciao io sbaglio, stavo pensando al film e ho pensato che forse potremmo farci compagnia?."
+
+# game/day06.rpy:751
+translate italian day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "Intendi stasera?"
+
+# game/day06.rpy:752
+translate italian day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "Certo, scemo!"
+
+# game/day06.rpy:753
+translate italian day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "A volte mi sento così sola e vorrei davvero che qualcuno mi facesse compagnia."
+
+# game/day06.rpy:754
+translate italian day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "Sembrava così naturale nel film che abbiamo visto stasera."
+
+# game/day06.rpy:755
+translate italian day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "Quel colpo di pistola l'ha sicuramente colpita in modo particolare."
+
+# game/day06.rpy:761
+translate italian day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "È un'ottima idea."
+
+# game/day06.rpy:762
+translate italian day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "Evviva! Spero che ti piacciano le coccole!."
+
+# game/day06.rpy:763
+translate italian day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "Certo che sì"
+
+# game/day06.rpy:769
+translate italian day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "Non credo sia una buona idea. E se qualcuno ci vede?."
+
+# game/day06.rpy:770
+translate italian day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Oh"
+
+# game/day06.rpy:771
+translate italian day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "Buona notte, allora"
+
