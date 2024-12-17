@@ -4805,3 +4805,35 @@ translate brazilian b_relationship_hard_drive_choices_e8f0e434:
     # p "{i}(...)"
     p "{i}(...)"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day11.rpy:1191
+translate brazilian day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "Vamos fazer conchinha e cair no sono juntos então!"
+
+# game/day11.rpy:1192
+translate brazilian day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Ótima ideia."
+
+# game/day11.rpy:1195
+translate brazilian day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Você cai no sono com sua irmã pelada ao seu lado. Seu membro inchado empurra gentilmente contra a bunda macia dela, mas ela não parece se importa, julgando por seu murmúrio quieto contente."
+
+# game/day11.rpy:1197
+translate brazilian day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Você cai no sono com [r_name] ao seu lado. Seu membro inchado empurra gentilmente contra a bunda macia dela, mas ela não parece se importa, julgando por seu murmúrio quieto contente."
+
+# game/day11.rpy:1202
+translate brazilian day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Assim que você descansa sua cabeça contra seu travesseiro, você cai no sono."
+

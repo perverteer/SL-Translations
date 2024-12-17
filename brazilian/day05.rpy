@@ -3575,3 +3575,449 @@ translate brazilian day05_restaurant_main_course_choices_b87fab88:
     # l "I..."
     l "Eu..."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day05.rpy:1208
+translate brazilian day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Alina rapidamente tira as roupas e cai de joelhos."
+
+# game/day05.rpy:1210
+translate brazilian day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "Eu fui uma garota má, [p_name]."
+
+# game/day05.rpy:1211
+translate brazilian day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "Por favor me castigue com seu pau duro."
+
+# game/day05.rpy:1212
+translate brazilian day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Parece que Alina gosta de brincar de submissa. Garotinha pervertida.)"
+
+# game/day05.rpy:1213
+translate brazilian day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "Eu fico pensando em caras me fodendo e gozando me mim."
+
+# game/day05.rpy:1214
+translate brazilian day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "Então você esteve sendo uma garotinha suja?"
+
+# game/day05.rpy:1218
+translate brazilian day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Sim."
+
+# game/day05.rpy:1219
+translate brazilian day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "E você quer meu pau na sua boca?"
+
+# game/day05.rpy:1220
+translate brazilian day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Sim. Eu mereço punição por todos os pensamentos ruins que eu tive."
+
+# game/day05.rpy:1221
+translate brazilian day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Diz por favor."
+
+# game/day05.rpy:1222
+translate brazilian day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "Por favor [p_name], coloca seu pau duro na minha boca quente."
+
+# game/day05.rpy:1228
+translate brazilian day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Você segura a cabeça dela e força a boca até o seu pau duro."
+
+# game/day05.rpy:1229
+translate brazilian day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Alina se engasga e sorri. Já tem baba pingando da boca dela."
+
+# game/day05.rpy:1231
+translate brazilian day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "Você gosta disso, sua putinha levada?"
+
+# game/day05.rpy:1232
+translate brazilian day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    al "Mmmmmmm. *Engasga*"
+
+# game/day05.rpy:1241
+translate brazilian day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}A língua dela se esfrega contra suas glândulas enquanto você mexe a cabeça dela para cima e para baixo, às vezes deixando ela respirar."
+
+# game/day05.rpy:1243
+translate brazilian day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "*Engole* *Engasga* Aaaah, Eu quero tudo."
+
+# game/day05.rpy:1247
+translate brazilian day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Alina lambe o seu pau brilhante todo, e então você sente a língua molhada dela lambendo suas bolas."
+
+# game/day05.rpy:1248
+translate brazilian day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "Por favor, por favor coloca tudo dentro."
+
+# game/day05.rpy:1259
+translate brazilian day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}Com a quantidade perfeita de pressão você enfia seu pau inteiro dentro da boca dela. Os olhos da Alina começam a lacrimejar e a parte de cima do corpo dela está coberto de baba."
+
+# game/day05.rpy:1260
+translate brazilian day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    al "Mmmmmmm!"
+
+# game/day05.rpy:1262
+translate brazilian day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}Enquanto seu pênis está enfiando na garganta dela, Alina fica com um olhar de pura felicidade."
+
+# game/day05.rpy:1263
+translate brazilian day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Você gosta quando dói, não gosta, putinha?"
+
+# game/day05.rpy:1264
+translate brazilian day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Sentindo que está perto do clímax, Alina se contorce e se solta de você, ficando de quatro enquanto seu pau pulsante ainda está no fundo da garganta."
+
+# game/day05.rpy:1265
+translate brazilian day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Estou gozando, Estou gozando!"
+
+# game/day05.rpy:1266
+translate brazilian day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Mmmmm. *Engole*"
+
+# game/day05.rpy:1273
+translate brazilian day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaah!!!"
+
+# game/day05.rpy:1274
+translate brazilian day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}Você atira sua semente quente na garganta dela. Alina continua subindo e descendo no seu pau até ter engolido cada gota de gozo."
+
+# game/day05.rpy:1279
+translate brazilian day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Alina lambe os lábios cobertos de gozo dela e olha para você com carinho."
+
+# game/day05.rpy:1293
+translate brazilian day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaah!!!"
+
+# game/day05.rpy:1294
+translate brazilian day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}Você tira seu pau da boca quente dela e jorra por todo o rosto todo e peito dela."
+
+# game/day05.rpy:1298
+translate brazilian day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Alina pega um pouco de gozo misturado com a saliva com o dedo e enfia na boca."
+
+# game/day05.rpy:1308
+translate brazilian day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Mmmmm, legal!"
+
+# game/day05.rpy:1309
+translate brazilian day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "{i}(Ela é um pouco louca, mas que chupadora!)"
+
+# game/day05.rpy:1312
+translate brazilian day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ana estava certa, seu gosto é muito bom e tem bastante também!"
+
+# game/day05.rpy:1314
+translate brazilian day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "Seu gosto é muito bom e tem bastante também!"
+
+# game/day05.rpy:1316
+translate brazilian day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "Eu sou uma garota boa agora, [p_name]?"
+
+# game/day05.rpy:1338
+translate brazilian day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Depois de ver as primeiras fotos, seu pênis já está duro."
+
+# game/day05.rpy:1343
+translate brazilian day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(Eu queria foder essa bunda redonda tão forte.)"
+
+# game/day05.rpy:1346
+translate brazilian day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Depois de ver as primeiras fotos, seu pênis já está duro."
+
+# game/day05.rpy:1350
+translate brazilian day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Olha aquelas pernas...)"
+
+# game/day05.rpy:1352
+translate brazilian day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "{i}(Eu foderia esses peitos sem dó!)"
+
+# game/day05.rpy:1357
+translate brazilian day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(Eu espero que o [p_name] ainda esteja acordado. Eu esqueci de contar para ele que filme que filme eu gostaria caso ele tivesse que agendar os ingressos com antecedência.)"
+
+# game/day05.rpy:1359
+translate brazilian day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "{i}(O quê ele está fazendo? O braço dele subindo e descendo... Não... Ele está se masturbando?)"
+
+# game/day05.rpy:1360
+translate brazilian day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(Porra! Eu acho que ouvi a porta. É a [r_name]?)"
+
+# game/day05.rpy:1364
+translate brazilian day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(Foda-se, quem quer que seja. Esse é o meu quarto e eu estou batendo punheta.)"
+
+# game/day05.rpy:1365
+translate brazilian day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(Ele não me percebeu?)"
+
+# game/day05.rpy:1369
+translate brazilian day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(Até que é gostoso ver ele assim.)"
+
+# game/day05.rpy:1370
+translate brazilian day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "{i}(Hmmm. O quê?! Eu estou ficando molhada?)"
+
+# game/day05.rpy:1376
+translate brazilian day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Eu vou me tocar só um pouquinho.)"
+
+# game/day05.rpy:1377
+translate brazilian day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Eu acho que ela ainda está aqui... Isso me deixa ainda mais duro.)"
+
+# game/day05.rpy:1380
+translate brazilian day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Ugh. Melhor deixar ele.)"
+
+# game/day05.rpy:1382
+translate brazilian day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Você ouve a porta se fechar bem silenciosamente. Parece que você está sozinho de novo com a Ana."
+
+# game/day05.rpy:1384
+translate brazilian day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Você ouve a porta se fechar bem silenciosamente. Parece que você está sozinho de novo com a Jenna."
+
+# game/day05.rpy:1388
+translate brazilian day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Melhor parar antes que ela estranhe demais...)"
+
+# game/day05.rpy:1389
+translate brazilian day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}Enquanto você se vira você ouve a porta fechar rapidamente."
+
+# game/day05.rpy:1390
+translate brazilian day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Me pergunto quem era... Mas não vou pedir desculpas nem nada, esse é o meu quarto.)"
+
+# game/day05.rpy:1396
+translate brazilian day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Ela está abrindo aqueles lábios suculentos da boceta.)"
+
+# game/day05.rpy:1397
+translate brazilian day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(Olha essa beleza!)"
+
+# game/day05.rpy:1400
+translate brazilian day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1406
+translate brazilian day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Eu estou gozando também!)"
+
+# game/day05.rpy:1409
+translate brazilian day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaai!!!)"
+
+# game/day05.rpy:1413
+translate brazilian day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Melhor sair agora, eu falo com o [p_name] de manhã.)"
+
+# game/day05.rpy:1417
+translate brazilian day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Acho que a pessoa na porta foi embora.)"
+
+# game/day05.rpy:1418
+translate brazilian day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Isso foi tão gostoso.)"
+
+# game/day05.rpy:1421
+translate brazilian day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Mas espera... Quem tirou essas fotos da Ana?!)"
+
+# game/day05.rpy:1424
+translate brazilian day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "{i}(Enfia esses dedos aí, Jenna!)"
+
+# game/day05.rpy:1426
+translate brazilian day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "{i}(Isso aí, garota!)"
+
+# game/day05.rpy:1429
+translate brazilian day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1435
+translate brazilian day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Eu estou gozando também!)"
+
+# game/day05.rpy:1438
+translate brazilian day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaai!!!)"
+
+# game/day05.rpy:1442
+translate brazilian day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Melhor sair agora, eu falo com o [p_name] de manhã.)"
+
+# game/day05.rpy:1446
+translate brazilian day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Acho que a pessoa na porta foi embora.)"
+
+# game/day05.rpy:1447
+translate brazilian day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Isso foi tão gostoso.)"
+

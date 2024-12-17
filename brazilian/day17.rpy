@@ -3801,3 +3801,1279 @@ translate brazilian day17_choices_cf30d2c8:
     # "{i}You head to the bike rental with [m_name] and [l_name], somewhere on the beach."
     "{i}Você vai até o local de alugar bicicletas com [m_name] e [l_name], em algum lugar da praia."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day17.rpy:776
+translate brazilian day17_n_r_sex_021c6f24:
+
+    # p "How could I refuse two lovely ladies with a gift?"
+    p "Como eu poderia recusar duas encantadoras damas com um presente?"
+
+# game/day17.rpy:777
+translate brazilian day17_n_r_sex_a52c3b00:
+
+    # n "Haha! Exactly."
+    n "Haha! Exatamente."
+
+# game/day17.rpy:778
+translate brazilian day17_n_r_sex_8cfba3f6:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor, together with Nia."
+    r "Você fez eu me sentir tão bem com sua língua naquela outra noite e eu gostaria de retornar o favor, junto com a Nia."
+
+# game/day17.rpy:779
+translate brazilian day17_n_r_sex_04b03468:
+
+    # p "{i}(Woah! A double blowjob?!)"
+    p "{i}(Uau! Um boquete duplo?!)"
+
+# game/day17.rpy:780
+translate brazilian day17_n_r_sex_e469c1b1:
+
+    # n "Just lie still, [p_name], we're going to do all the work for you."
+    n "Só deita aí, [p_name], a gente vai fazer todo o trabalho para você."
+
+# game/day17.rpy:785
+translate brazilian day17_n_r_sex_dad24c60:
+
+    # "{i}[r_name] and Nia giggle and kneel before you."
+    "{i}[r_name] e Nia dão risadinhas e se ajoelham à sua frente."
+
+# game/day17.rpy:786
+translate brazilian day17_n_r_sex_1c5dfd87:
+
+    # n "Should we lose our remaining clothes, [r_name]?"
+    n "Será que a gente tira o resto da roupa, [r_name]?"
+
+# game/day17.rpy:787
+translate brazilian day17_n_r_sex_7f06dc70:
+
+    # r "I'm not sure. Would that make [p_name] happy, you think?"
+    r "Não tenho certeza. Isso faria o [p_name] feliz, você acha?"
+
+# game/day17.rpy:788
+translate brazilian day17_n_r_sex_5ce0758a:
+
+    # p "{i}(Lose the clothes, please, lose the clothes!)"
+    p "{i}(Tira as roupas, por favor, tira as roupas!)"
+
+# game/day17.rpy:789
+translate brazilian day17_n_r_sex_a9c7c4a0:
+
+    # n "I'm not sure... Let's try it..."
+    n "Não tenho certeza... Vamos tentar..."
+
+# game/day17.rpy:790
+translate brazilian day17_n_r_sex_d4cced53:
+
+    # n "I think it worked!"
+    n "Acho que funcionou!"
+
+# game/day17.rpy:791
+translate brazilian day17_n_r_sex_d71a9447:
+
+    # r "It sure did. But now he still has his clothes on..."
+    r "Com certeza funcionou. Mas agora ele ainda está com as roupas dele..."
+
+# game/day17.rpy:792
+translate brazilian day17_n_r_sex_d55373fa:
+
+    # n "That's unfair."
+    n "Isso é injusto."
+
+# game/day17.rpy:794
+translate brazilian day17_n_r_sex_b9aa68e5:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to your sister in one fluid motion."
+    "{i}Nia fica em pé, remove sua cueca e se senta ao lado da sua irmã em um movimento fluido."
+
+# game/day17.rpy:796
+translate brazilian day17_n_r_sex_fad81a4e:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to [r_name] in one fluid motion."
+    "{i}Nia fica em pé, remove sua cueca e se senta ao lado da [r_name] em um movimento fluido."
+
+# game/day17.rpy:797
+translate brazilian day17_n_r_sex_fb2818ad:
+
+    # n "That's better."
+    n "Assim é melhor."
+
+# game/day17.rpy:798
+translate brazilian day17_n_r_sex_32b7f6ec:
+
+    # n "And he's hard already. Nice."
+    n "E ele já está duro. Legal."
+
+# game/day17.rpy:799
+translate brazilian day17_n_r_sex_00568fa3:
+
+    # r "Let's see if we can make him harder."
+    r "Vamos ver se a gente consegue deixar ele mais duro."
+
+# game/day17.rpy:800
+translate brazilian day17_n_r_sex_5e1fdbeb:
+
+    # n "Good idea."
+    n "Boa ideia."
+
+# game/day17.rpy:802
+translate brazilian day17_n_r_sex_8cc40cc1:
+
+    # "{i}[r_name] and Nia kiss each other tenderly at first, but soon lust overtakes them both and their tongues intertwine passionately."
+    "{i}[r_name] e Nia se beijam ternamente primeiro, mas logo desejo toma conta das duas e as línguas dela se enrolam apaixonadamente."
+
+# game/day17.rpy:803
+translate brazilian day17_n_r_sex_e69310a3:
+
+    # n "Mmmm, someone else is ready as well."
+    n "Mmmm, tem outra pessoa pronta também."
+
+# game/day17.rpy:804
+translate brazilian day17_n_r_sex_1fef6015:
+
+    # r "So it seems."
+    r "Parece que tem."
+
+# game/day17.rpy:805
+translate brazilian day17_n_r_sex_b9ec79a6:
+
+    # "{i}As you admire the girl's foreplay, precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Enquanto você admira a brincadeira das garotas, começa a sair fluidos do seu pau. A cabeça molhada brilha sob a luz da lua."
+
+# game/day17.rpy:806
+translate brazilian day17_n_r_sex_c16042cb:
+
+    # r "[p_name] deserves a kiss as well."
+    r "[p_name] merece um beijo também."
+
+# game/day17.rpy:809
+translate brazilian day17_n_r_sex_3d1138bf:
+
+    # "{i}Nia and your sister crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Nia e sua irmã rastejam para cima de você. Os mamilos da [r_name] brevemente tocam a pele sensível das suas glândulas e a tirinha de pelo púbico da Nia faz cócegas contra sua coxa."
+
+# game/day17.rpy:811
+translate brazilian day17_n_r_sex_3ad3baef:
+
+    # "{i}Nia and [r_name] crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Nia e [r_name] rastejam para cima de você. Os mamilos da [r_name] brevemente tocam a pele sensível das suas glândulas e a tirinha de pelo púbico da Nia faz cócegas contra sua coxa."
+
+# game/day17.rpy:813
+translate brazilian day17_n_r_sex_fc56b76f:
+
+    # "{i}With eager lips, the girls take turns kissing you. While you french kiss Nia, [r_name] slowly moves down to your erect dick and touches it lightly with her fingertips."
+    "{i}Com ansiosos lábios, as garotas tomam turnos te beijando. Enquanto você beija a Nia de língua, [r_name] lentamente se move até até o seu pau ereto e o toca levemente com as pontas dos dedos."
+
+# game/day17.rpy:814
+translate brazilian day17_n_r_sex_dcb6d597:
+
+    # r "There's something to kiss down here too, Nia."
+    r "Tem uma coisa para beijar aqui também, Nia."
+
+# game/day17.rpy:820
+translate brazilian day17_n_r_sex_3679276d:
+
+    # "{i}Your sister is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}Nia se junta a sua irmã e juntas elas beijam e lambeu seu pau, deixando trilhas molhadas por ele todo."
+
+# game/day17.rpy:822
+translate brazilian day17_n_r_sex_97b28fe6:
+
+    # "{i}[r_name] is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}Nia se junta a [r_name] e juntas elas beijam e lambeu seu pau, deixando trilhas molhadas por ele todo."
+
+# game/day17.rpy:823
+translate brazilian day17_n_r_sex_b6cca7cc:
+
+    # r "Mmmmm, I can taste him already, can't you Nia?"
+    r "Mmmmm, eu já sinto o gosto dele, você não sente, Nia?"
+
+# game/day17.rpy:824
+translate brazilian day17_n_r_sex_589f1e51:
+
+    # n "Yes! And I want more."
+    n "Sim! E eu quero mais."
+
+# game/day17.rpy:826
+translate brazilian day17_n_r_sex_c42ee524:
+
+    # "{i}[r_name] gives Nia the space and looks at her intently, obviously wanting to learn from the other girl. Nia's mouth softly wraps around the tip of your cock, and the film of precum is soon mixed with her saliva as she sucks and licks the tip."
+    "{i}[r_name] dá espaço para a Nia e olha atentamente para ela, obviamente querendo aprender com a outra garota. A boca da Nia suavemente envolve a ponta do seu pau e a camada de fluidos é logo misturada com a saliva dela enquanto ela chupa e lambe a ponta."
+
+# game/day17.rpy:827
+translate brazilian day17_n_r_sex_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Está bom, [p_name]?"
+
+# game/day17.rpy:828
+translate brazilian day17_n_r_sex_b2603c13:
+
+    # "{i}Right at that moment, Nia takes nearly the entire length of your penis in her mouth and caresses it with her darting tongue."
+    "{i}Logo naquele momento, Nia enfia seu pênis quase todo inteiro na boca dela e o acaricia com a língua."
+
+# game/day17.rpy:829
+translate brazilian day17_n_r_sex_a6ae68d7:
+
+    # p "God yes!"
+    p "Pra caralho!"
+
+# game/day17.rpy:830
+translate brazilian day17_n_r_sex_55d0763c:
+
+    # n "Mmmmmm!"
+    n "Mmmmmm!"
+
+# game/day17.rpy:831
+translate brazilian day17_n_r_sex_5121b425:
+
+    # p "Keep going Nia, aaaaah!"
+    p "Continua Nia, aaaaah!"
+
+# game/day17.rpy:832
+translate brazilian day17_n_r_sex_6f96f19a:
+
+    # "{i}Nia's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by [r_name] gently massaging your balls which are by now covered in streams of saliva."
+    "{i}A boca da Nia estimula seu pau em todos os ângulos certos, uma sensação divina que é aumentada pela [r_name] gentilmente massageando suas bolas que estão a essa altura cobertas em saliva."
+
+# game/day17.rpy:837
+translate brazilian day17_n_r_sex_9eba972b:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by your sister and they swap places."
+    "{i}Nia se deixa ser gentilmente empurrada para longe do seu pau pela sua irmã e elas trocam de lugar."
+
+# game/day17.rpy:839
+translate brazilian day17_n_r_sex_54b94af2:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by [r_name] and they swap places."
+    "{i}Nia se deixa ser gentilmente empurrada para longe do seu pau pela [r_name] e elas trocam de lugar."
+
+# game/day17.rpy:844
+translate brazilian day17_n_r_sex_a6022d68:
+
+    # "{i}[r_name] is clearly less experienced and the first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name] é claramente menos experiente e os primeiros movimentos da boca dela no seu pau são um pouco estranhos, mas seu olhar de concentração e vontade para aprender deixam isso ainda mais gostoso."
+
+# game/day17.rpy:845
+translate brazilian day17_n_r_sex_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Isso, aí mesmo. Usa a língua, [r_name], coloca seus lábios em volta do meu pau."
+
+# game/day17.rpy:847
+translate brazilian day17_n_r_sex_7a2893e1:
+
+    # n "How does that feel, [r_name], your brother's big cock inside your mouth?"
+    n "Como se sente, [r_name], o pau grande do seu irmão dentro da sua boca?"
+
+# game/day17.rpy:849
+translate brazilian day17_n_r_sex_7f5a0272:
+
+    # n "How does that feel, [r_name], [p_name]'s big cock inside your mouth?"
+    n "Como se sente, [r_name], o pau grande do [p_name] dentro da sua boca?"
+
+# game/day17.rpy:850
+translate brazilian day17_n_r_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day17.rpy:851
+translate brazilian day17_n_r_sex_f7a09ae6:
+
+    # n "Good, isn't it? I made it all wet for you..."
+    n "Bom, não é? Eu deixei ele todo molhado para você..."
+
+# game/day17.rpy:852
+translate brazilian day17_n_r_sex_ef34156c:
+
+    # n "Are you going to make him cum with your pretty little mouth?"
+    n "Você vai fazer ele gozar com a sua boquinha bonitinha?"
+
+# game/day17.rpy:853
+translate brazilian day17_n_r_sex_1dc344f3:
+
+    # "{i}Nia's words spur [r_name] to really give herself over to sucking your cock with abandon, and pretty soon the room is filled with the sounds of her slobbering on your penis. Meanwhile, Nia massages your balls and strokes your thighs, and occasionally slides up the couch to kiss you wantonly."
+    "{i}As palavras da Nia encorajam [r_name] a realmente se entregar a chupar seu pau sem se segurar, e logo o quarto está cheio dos sons dela babando no seu pênis. Enquanto isso, Nia massageia suas bolas e acaricia suas coxas e ocasionalmente sobe no sofá para beijá-lo arbitrariamente."
+
+# game/day17.rpy:854
+translate brazilian day17_n_r_sex_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah, [r_name], eu estou quase lá!"
+
+# game/day17.rpy:855
+translate brazilian day17_n_r_sex_6a665f9f:
+
+    # n "Shall we make him cum together?"
+    n "Vamos fazer ele gozar juntas?"
+
+# game/day17.rpy:856
+translate brazilian day17_n_r_sex_67d6aa19:
+
+    # r "That's a good idea."
+    r "Essa é uma boa idea."
+
+# game/day17.rpy:858
+translate brazilian day17_n_r_sex_ae3e2bcb:
+
+    # "{i}The girls position themselves at each side of your cock and begin to lick and suck the length of your shaft, sometimes stopping to kiss each other."
+    "{i}As garotas se posicionam em cada lado do seu pau e começam a lamber e chupar do seu pau todo, às vezes parando para se beijar."
+
+# game/day17.rpy:859
+translate brazilian day17_n_r_sex_205d546f:
+
+    # n "Are you going to cum in our mouths, [p_name]?"
+    n "Vai gozar nas nossas bocas, [p_name]?"
+
+# game/day17.rpy:860
+translate brazilian day17_n_r_sex_1ff0de98:
+
+    # r "You'd like that, wouldn't you?"
+    r "Você gostaria disso, não ia?"
+
+# game/day17.rpy:861
+translate brazilian day17_n_r_sex_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "S-s-sim!"
+
+# game/day17.rpy:863
+translate brazilian day17_n_r_sex_6d40e142:
+
+    # "{i}It's your sister that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}É a sua irmã que finalmente o faz passar do limite. Quando ela lambe a cabeça do seu pênis, você sente as primeiras ondas do seu orgasmo passando pelo seu corpo."
+
+# game/day17.rpy:865
+translate brazilian day17_n_r_sex_8a8d7975:
+
+    # "{i}It's [r_name] that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}É a [r_name] que finalmente o faz passar do limite. Quando ela lambe a cabeça do seu pênis, você sente as primeiras ondas do seu orgasmo passando pelo seu corpo."
+
+# game/day17.rpy:872
+translate brazilian day17_n_r_sex_5ea5b12a:
+
+    # "{i}Nia senses that you're ready and motions [r_name] to kneel, their mouths open before your throbbing cock. Big streams of semen shoot on their faces and in their mouths."
+    "{i}Nia sente que você está pronto e faz a [r_name] se ajoelhar, as bocas delas abertas diante do seu pau pulsante. Grandes correntes de sêmen jorram em seus rostos e bocas."
+
+# game/day17.rpy:873
+translate brazilian day17_n_r_sex_64a20ab7:
+
+    # n "Yes! Shower us with cum!"
+    n "Isso! Dá um banho de porra na gente!"
+
+# game/day17.rpy:874
+translate brazilian day17_n_r_sex_124be57b:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into their mouths."
+    "{i}Você recuperou um pouco de calma durante os últimos espasmos do seu orgasmo e consegue depositar vários jatos diretamente dentro das bocas delas."
+
+# game/day17.rpy:877
+translate brazilian day17_n_r_sex_e95876b8:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from your sister's face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}[r_name] olha feliz para você enquanto ela engole sua carga. Nia não fala nada e lentamente lambe um monte de esperma do rosto da sua irmã antes de engolir tudo. As garotas terminam com um longo beijo com os lábios pintados de sêmen."
+
+# game/day17.rpy:879
+translate brazilian day17_n_r_sex_adfc3258:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from [r_name]'s face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}[r_name] olha feliz para você enquanto ela engole sua carga. Nia não fala nada e lentamente lambe um monte de esperma do rosto da [r_name] antes de engolir tudo. As garotas terminam com um longo beijo com os lábios pintados de sêmen."
+
+# game/day17.rpy:880
+translate brazilian day17_n_r_sex_8359c75d:
+
+    # r "Mmmm! There was so much of it!"
+    r "Mmmm! Tinha tanto!"
+
+# game/day17.rpy:889
+translate brazilian day17_n_r_sex_ea059714:
+
+    # n "There sure was. How long have you been saving all that for us, [p_name]?"
+    n "Com certeza tinha. Estava guardando aquilo tudo para a gente faz quanto tempo, [p_name]?"
+
+# game/day17.rpy:890
+translate brazilian day17_n_r_sex_0c3613aa:
+
+    # p "I'm... I'm... not sure... what year is this again?"
+    p "Eu... Eu... Não tenho certeza... que ano é esse mesmo?"
+
+# game/day17.rpy:891
+translate brazilian day17_n_r_sex_689a8fb3:
+
+    # r "Sweet dreams, [p_name]!"
+    r "Bons sonhos, [p_name]!"
+
+# game/day17.rpy:892
+translate brazilian day17_n_r_sex_da44e347:
+
+    # n "Hope you sleep well!"
+    n "Espero que durma bem!"
+
+# game/day17.rpy:893
+translate brazilian day17_n_r_sex_2f3dc07e:
+
+    # p "I'm sure I will. Good night girls!"
+    p "Com certeza eu vou. Boa noite garotas!"
+
+# game/day17.rpy:894
+translate brazilian day17_n_r_sex_a9ad1689:
+
+    # "{i}[r_name] and Nia leave you on the couch without another word, and softly giggling they climb the stairs, back to Nia's bedroom."
+    "{i}[r_name] e Nia o deixam no sofá sem dizer mais nada, e sobem as escadas rindo de leve, voltando para o quarto da Nia."
+
+# game/day17.rpy:926
+translate brazilian day17_n_sex_a45d60e9:
+
+    # n "Psst, [p_name]?!"
+    n "Psst, [p_name]?!"
+
+# game/day17.rpy:928
+translate brazilian day17_n_sex_57978f1e:
+
+    # p "Huh? Nia?"
+    p "Hã? Nia?"
+
+# game/day17.rpy:931
+translate brazilian day17_n_sex_b1147461:
+
+    # p "Back again?"
+    p "Voltou?"
+
+# game/day17.rpy:932
+translate brazilian day17_n_sex_aa37de39:
+
+    # n "Yes..."
+    n "Sim..."
+
+# game/day17.rpy:933
+translate brazilian day17_n_sex_1c277469:
+
+    # p "What's the matter?"
+    p "Qual o problema?"
+
+# game/day17.rpy:936
+translate brazilian day17_n_sex_16403a37:
+
+    # n "I really liked what your sister and I did earlier. But..."
+    n "Eu gostei mesmo do que sua irmã e eu fizemos mais cedo. Mas..."
+
+# game/day17.rpy:938
+translate brazilian day17_n_sex_d72995b3:
+
+    # n "I really liked what [r_name] and I did earlier. But..."
+    n "Eu gostei mesmo do que [r_name] e eu fizemos mais cedo. Mas..."
+
+# game/day17.rpy:939
+translate brazilian day17_n_sex_703f80cf:
+
+    # n "I want more... And I hope you do too."
+    n "Eu quero mais... E espero que você queira também."
+
+# game/day17.rpy:940
+translate brazilian day17_n_sex_f8a55781:
+
+    # p "I'm always up for more."
+    p "Eu sempre quero mais."
+
+# game/day17.rpy:941
+translate brazilian day17_n_sex_f2416b76:
+
+    # n "Yeah, do you still have some juice left?"
+    n "É, ainda tem um pouco no tanque?"
+
+# game/day17.rpy:942
+translate brazilian day17_n_sex_2d8790b2:
+
+    # p "Plenty."
+    p "Bastante."
+
+# game/day17.rpy:944
+translate brazilian day17_n_sex_9e955ca9:
+
+    # n "The one and only."
+    n "A única."
+
+# game/day17.rpy:945
+translate brazilian day17_n_sex_49a15ca3:
+
+    # p "You're uh... not wearing much..."
+    p "Você não está... vestindo muito..."
+
+# game/day17.rpy:949
+translate brazilian day17_n_sex_96f34a9a:
+
+    # n "We've already had that little conversation during yoga class and I think you're funny and don't look too bad as well."
+    n "A gente já teve aquela conversinha durante a aula de yoga e eu acho você engraçado e não é tão feio também."
+
+# game/day17.rpy:951
+translate brazilian day17_n_sex_dc848de3:
+
+    # n "You interest me, [p_name]. I think you're funny and you don't look too bad as well."
+    n "Você me interessa, [p_name]. Eu te acho engraçado e você não é tão feio também."
+
+# game/day17.rpy:952
+translate brazilian day17_n_sex_7e565f3e:
+
+    # p "Errr. Thanks, I guess."
+    p "Errr. Valeu, eu acho."
+
+# game/day17.rpy:953
+translate brazilian day17_n_sex_64ed2a81:
+
+    # n "And I'm sure you won't be around here forever, with you being on vacation and all... So I'd like to seize the moment."
+    n "E eu tenho certeza que você não vai ficar por aqui para sempre, estando de férias e tudo mais... Então eu gostaria de aproveitar o momento."
+
+# game/day17.rpy:954
+translate brazilian day17_n_sex_88384a9d:
+
+    # p "{i}(I like where this is going.)"
+    p "{i}(Eu gosto de onde isso está indo.)"
+
+# game/day17.rpy:957
+translate brazilian day17_n_sex_52d0a016:
+
+    # n "You clearly enjoyed yoga class today."
+    n "Você claramente curtiu a aula de yoga hoje."
+
+# game/day17.rpy:958
+translate brazilian day17_n_sex_b7f11957:
+
+    # p "Mostly because of all the hot girls in tight clothing."
+    p "Principalmente por causa das garotas gostosas em roupas apertadas."
+
+# game/day17.rpy:959
+translate brazilian day17_n_sex_f8ba9b92:
+
+    # n "Understandable."
+    n "Compreensível."
+
+# game/day17.rpy:960
+translate brazilian day17_n_sex_88733f91:
+
+    # n "I thought maybe you'd be interested in a more advanced lesson. The way the human body can bend and stretch in interesting ways is simply amazing."
+    n "Pensei que talvez estaria interessado em uma lição mais avançada. O jeito que o corpo humano pode se dobrar e esticar de formas interessantes é simplesmente incrível."
+
+# game/day17.rpy:961
+translate brazilian day17_n_sex_059c9cd9:
+
+    # p "When it comes to learning I'm always very, very eager..."
+    p "Em relação a aprendizado, eu sempre tenho muita, muita vontade..."
+
+# game/day17.rpy:963
+translate brazilian day17_n_sex_4de57e6a:
+
+    # n "Do you want me, [p_name]?"
+    n "Você me quer, [p_name]?"
+
+# game/day17.rpy:964
+translate brazilian day17_n_sex_fe13d2fd:
+
+    # n "I want you to make love to me."
+    n "Eu quero que você me faça amor."
+
+# game/day17.rpy:968
+translate brazilian day17_n_sex_57f8ce16:
+
+    # p "Of course, beautiful!"
+    p "É claro, linda!"
+
+# game/day17.rpy:972
+translate brazilian day17_n_sex_aac35e7b:
+
+    # p "Sorry Nia, but I'm not interested."
+    p "Desculpa Nia, mas eu não estou interessado."
+
+# game/day17.rpy:974
+translate brazilian day17_n_sex_2dcfcd11:
+
+    # "{i}Without saying a word, Nia leaves as quietly as she came. You doze off immediately after and sleep deeply for the remainder of the night."
+    "{i}Sem dizer uma palavra, Nia sai tão rápido quando ela veio. Você cai imediatamente depois e dorme profundamente pelo resto da noite."
+
+# game/day17.rpy:978
+translate brazilian day17_n_sex_b2fa37a9:
+
+    # p "{i}(Best. Din-aww fuck it, I'm getting laid again!)"
+    p "{i}(Melhor. Fest-ah foda-se, vou transar de novo!)"
+
+# game/day17.rpy:980
+translate brazilian day17_n_sex_74fc6d57:
+
+    # p "{i}(I'm becoming a big fan of the concept of 'sleepovers'.)"
+    p "{i}(Estou virando um grande fã do conceito de 'festas do pijama'.)"
+
+# game/day17.rpy:983
+translate brazilian day17_n_sex_3c2f1232:
+
+    # n "Good!"
+    n "Bom!"
+
+# game/day17.rpy:986
+translate brazilian day17_n_sex_f915d80a:
+
+    # "{i}Nia kneels before you and grabs your rapidly growing cock. You kiss her neck and grab her small, firm breasts. Her nipples are already hard and Nia's breathing becomes heavier."
+    "{i}Nia se ajoelha diante de você e agarra seu pau que cresce rapidamente. Você beija o pescoço dela e agarra os pequenos, firmes seios dela. Os mamilos já estão duros e a respiração da Nia se torna mais pesada."
+
+# game/day17.rpy:987
+translate brazilian day17_n_sex_fa482016:
+
+    # n "The first exercise is called the Downward Facing Cocksucker."
+    n "O primeiro exercício é chamado a Chupação de Cara Para Baixo."
+
+# game/day17.rpy:988
+translate brazilian day17_n_sex_939cfc19:
+
+    # p "Sounds like a great way to train those often neglected facial muscles."
+    p "Parece um ótimo jeito de treinar aqueles músculos faciais frequentemente ignorados."
+
+# game/day17.rpy:993
+translate brazilian day17_n_sex_fc45939f:
+
+    # "{i}The athletic girl stands up and bends down sharply, seemingly without effort. Your cock is in her mouth before you know it, and her ass is positioned invitingly in front of your face."
+    "{i}A atlética garota fica em pé e se dobra bruscamente, aparentemente sem esforço. Seu pau está na boca dela antes que perceba e a bunda dela está posicionada convidativamente em frente ao seu rosto."
+
+# game/day17.rpy:998
+translate brazilian day17_n_sex_a61b4a81:
+
+    # "{i}She blows you with the same great technique you experienced earlier this night. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Ela te chupa com a mesma ótima técnica que você experienciou mais cedo essa noite. A língua dela fazendo movimentos rápidos por cima da sua cabeça inchada e você procede para fazer o mesmo com a boceta e clitóris dela."
+
+# game/day17.rpy:1000
+translate brazilian day17_n_sex_680eda3b:
+
+    # "{i}Her technique is perfect. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}A técnica dela é perfeita. A língua dela fazendo rápidos movimentos por cima da sua cabeça inchada e você procede para fazer o mesmo com a boceta e clitóris dela."
+
+# game/day17.rpy:1001
+translate brazilian day17_n_sex_ebe0f1ca:
+
+    # n "Mmmmm!"
+    n "Mmmmm!"
+
+# game/day17.rpy:1002
+translate brazilian day17_n_sex_0ed239d7:
+
+    # n "Ohhhh!"
+    n "Ahhhh!"
+
+# game/day17.rpy:1007
+translate brazilian day17_n_sex_57d99eee:
+
+    # "{i}You stop licking her pussy and pull her gently from your cock."
+    "{i}Você para de lamber a boceta dela e a puxa gentilmente do seu pau."
+
+# game/day17.rpy:1008
+translate brazilian day17_n_sex_ca6c83e8:
+
+    # p "I already know you can give a great blowjob. I'd like to explore that little wet slit of yours a bit further."
+    p "Eu já sei que você sabe dar um ótima chupada. Eu gostaria de explorar essa sua bocetinha molhada mais a fundo."
+
+# game/day17.rpy:1009
+translate brazilian day17_n_sex_45d38e93:
+
+    # n "Mmmm, I liked what you were doing with it."
+    n "Mmmm, eu gostei do que você tava fazendo com ela."
+
+# game/day17.rpy:1010
+translate brazilian day17_n_sex_ad885e52:
+
+    # p "Spread your legs for me, baby."
+    p "Abre as pernas para mim, bebê."
+
+# game/day17.rpy:1015
+translate brazilian day17_n_sex_15165c05:
+
+    # "{i}Nia spreads and bends down again to give you the perfect view of her tight pussy and her little asshole. When you enter her you feel a slight resistance."
+    "{i}Nia se abre e se curva de novo para dar a vista perfeita da boceta apertada e cuzinho dela. Ao penetrá-la, você sente uma leve resistência."
+
+# game/day17.rpy:1016
+translate brazilian day17_n_sex_b4f501ba:
+
+    # p "Am I going too fast?"
+    p "Estou indo rápido demais?"
+
+# game/day17.rpy:1017
+translate brazilian day17_n_sex_74a65443:
+
+    # n "No, keep going. You're bigger than I expected."
+    n "Não, continua. Você é maior do que eu esperava."
+
+# game/day17.rpy:1018
+translate brazilian day17_n_sex_2810f87f:
+
+    # "{i}You slowly push your cock further inside her. Nia relaxes visibly and her gasps become soft moans of pleasure."
+    "{i}Você lentamente enfia seu pau mais longe dentro dela. Nia relaxa visivelmente e seus suspiros dela se tornam suaves gemidos de prazer."
+
+# game/day17.rpy:1019
+translate brazilian day17_n_sex_7d3ddce0:
+
+    # n "Mmmm, that's it."
+    n "Mmmm, isso aí."
+
+# game/day17.rpy:1023
+translate brazilian day17_n_sex_04dd7f78:
+
+    # "{i}After waiting for a short while to let Nia get fully accustomed to your size, you establish a gentle rhythm, letting Nia feel the entire length of your throbbing cock each time you penetrate her."
+    "{i}Depois de esperar por um tempinho para deixar Nia se acostumar completamente com seu tamanho, você estabelece um ritmo gentil, deixando Nia sentir o seu pau pulsante por completo sempre que penetrava nela."
+
+# game/day17.rpy:1024
+translate brazilian day17_n_sex_e04ee9b5:
+
+    # n "Aaah yes! Keep doing that! Right there!"
+    n "Aaai, isso! Continua fazendo isso! Aí mesmo!"
+
+# game/day17.rpy:1026
+translate brazilian day17_n_sex_8c961780:
+
+    # "{i}The moisture of her cunt acting as a natural lubricant, you feel you can pick up the pace and start to quicken your thrusts. Nia moans as if to encourage you further."
+    "{i}A umidade da boceta dela agindo como um lubrificante natural você sente que pode apertar o passo e começa a apressar suas enfiadas. Nia geme para encorajar você mais."
+
+# game/day17.rpy:1027
+translate brazilian day17_n_sex_24fd4500:
+
+    # n "Want to try another position?"
+    n "Quer tentar outra posição?"
+
+# game/day17.rpy:1029
+translate brazilian day17_n_sex_4abbac46:
+
+    # "{i}Nia bends her body in such a way that resembles a perverted version of an 'asana'. Her gaping pussy is ready again for your penis, and you don't hold back this time. Your balls slap against her pussy as you drive your cock mercilessly into her."
+    "{i}Nia curva o corpo de uma forma que se assemelha a uma versão pervertida de um 'asana'. Sua boceta escancarada está novamente pronta para seu pênis, e dessa vez você não se segura. Suas bolas batem contra a boceta dela enquanto você enfia seu pau impiedosamente nela."
+
+# game/day17.rpy:1030
+translate brazilian day17_n_sex_ef16aad3:
+
+    # n "G-g-god [p_name]! Fuck me!"
+    n "D-d-deus [p_name]! Me fode!"
+
+# game/day17.rpy:1035
+translate brazilian day17_n_sex_e8ccb902:
+
+    # "{i}Mad with lust, you grab her thighs and lift Nia from the ground. She stabilizes herself with her hands as you slam your cock to the root inside of her pussy with firm piston-like movements, still holding her tautened thighs."
+    "{i}Louco com desejo, você agarra as coxas dela e levanta Nia do chão, ela se estabiliza com as mãos enquanto você bate seu pau até a base dentro da boceta dela com movimentos firmes, ainda segurando as coxas esticadas dela."
+
+# game/day17.rpy:1036
+translate brazilian day17_n_sex_eca46522:
+
+    # n "Fuck me harder, [p_name]!"
+    n "Me fode mais forte, [p_name]!"
+
+# game/day17.rpy:1037
+translate brazilian day17_n_sex_9c5e215e:
+
+    # p "Yes Nia! I'm so close!"
+    p "Isso, Nia! Eu estou tão perto!"
+
+# game/day17.rpy:1039
+translate brazilian day17_n_sex_4a6a6a8a:
+
+    # n "I want to taste your cum again, let me have it! In my mouth please!"
+    n "Eu quero sentir o gosto da sua porra de novo, me dá! Na minha boca por favor!"
+
+# game/day17.rpy:1041
+translate brazilian day17_n_sex_21aa5c1b:
+
+    # n "I want to taste your cum, let me have it! In my mouth please!"
+    n "Eu quero sentir o gosto da sua porra, me dá! Na minha boca por favor!"
+
+# game/day17.rpy:1048
+translate brazilian day17_n_sex_0aa9b0aa:
+
+    # "{i}As soon as you feel your cock twitching in the onset of your orgasm, you pull out of Nia, lift her head slightly and finish in her open mouth."
+    "{i}Assim que você sente seu pau ter espasmos no início de seu orgasmo, você tira o pau da Nia, levanta a cabeça levemente e termina na boca aberta dela."
+
+# game/day17.rpy:1049
+translate brazilian day17_n_sex_b795223f:
+
+    # p "Aaaah!"
+    p "Aaaah!"
+
+# game/day17.rpy:1050
+translate brazilian day17_n_sex_9909950d:
+
+    # n "Yes! Yes! More!"
+    n "Isso! Isso! Mais!"
+
+# game/day17.rpy:1051
+translate brazilian day17_n_sex_03612561:
+
+    # "{i}Semen is leaking from the corners of her mouth as you spasm in the last throes of your orgasm."
+    "{i}Sêmen está derramando dos cantos da boca dela enquanto você jorra o resto do seu orgasmo."
+
+# game/day17.rpy:1057
+translate brazilian day17_n_sex_3340861d:
+
+    # p "You showed some crazy elastic moves back there."
+    p "Você me mostrou uns movimentos bem elásticos lá."
+
+# game/day17.rpy:1058
+translate brazilian day17_n_sex_8cf0fef4:
+
+    # n "Don't underestimate the power of yoga."
+    n "Não subestime o poder do yoga."
+
+# game/day17.rpy:1059
+translate brazilian day17_n_sex_23d833bf:
+
+    # p "From now on, I won't ever again."
+    p "De agora em diante eu não vou nunca mais."
+
+# game/day17.rpy:1060
+translate brazilian day17_n_sex_9c06648b:
+
+    # n "Have you had many lovers, [p_name]?"
+    n "Você teve muitas amantes, [p_name]?"
+
+# game/day17.rpy:1061
+translate brazilian day17_n_sex_7a8cb987:
+
+    # p "A few."
+    p "Algumas."
+
+# game/day17.rpy:1064
+translate brazilian day17_n_sex_08cd553e:
+
+    # n "Your sister for one. That's unusual."
+    n "Sua irmã sendo uma. É incomum."
+
+# game/day17.rpy:1065
+translate brazilian day17_n_sex_29cdba2a:
+
+    # p "Not on Belugio."
+    p "Não em Belugio."
+
+# game/day17.rpy:1066
+translate brazilian day17_n_sex_9c1c027e:
+
+    # n "It's still unusual on Belugio, but accepted all the same."
+    n "Ainda é incomum em Belugio, mas aceitado mesmo assim."
+
+# game/day17.rpy:1068
+translate brazilian day17_n_sex_0471cb1c:
+
+    # n "[r_name] for one."
+    n "[r_name] sendo uma."
+
+# game/day17.rpy:1069
+translate brazilian day17_n_sex_209b433b:
+
+    # p "And you?"
+    p "E você?"
+
+# game/day17.rpy:1071
+translate brazilian day17_n_sex_fdd6acfe:
+
+    # n "Hmmm. No. You were my second. Or third, if you count Rebeca."
+    n "Hmmm. Não. Você foi meu segundo. Ou terceiro, se contar Rebeca."
+
+# game/day17.rpy:1072
+translate brazilian day17_n_sex_6a30ee20:
+
+    # p "Rebeca, your... mother?"
+    p "Rebeca, sua... mãe?"
+
+# game/day17.rpy:1073
+translate brazilian day17_n_sex_0b1bfa64:
+
+    # n "Yes. You shouldn't be surprised by now."
+    n "Sim. Você não devia se surpreender a essa altura."
+
+# game/day17.rpy:1075
+translate brazilian day17_n_sex_e9de9e2d:
+
+    # n "And besides, you've just had a fucking sexy blowjob from your own sister tonight."
+    n "E aliás, você acabou de ter uma porra duma chupada sexy da sua própria irmã essa noite."
+
+# game/day17.rpy:1076
+translate brazilian day17_n_sex_efc57a97:
+
+    # p "Okay, okay! Point taken."
+    p "Ok, ok! Entendido."
+
+# game/day17.rpy:1077
+translate brazilian day17_n_sex_17af946b:
+
+    # p "But who was your first then?"
+    p "Mas quem foi o primeiro então?"
+
+# game/day17.rpy:1079
+translate brazilian day17_n_sex_94c641e4:
+
+    # n "My my, you're getting rather inquisitive aren't you?"
+    n "Minha nossa, você está ficando bastante curioso, não é?"
+
+# game/day17.rpy:1080
+translate brazilian day17_n_sex_8495691f:
+
+    # p "You don't have to tell me."
+    p "Você não tem que me contar."
+
+# game/day17.rpy:1081
+translate brazilian day17_n_sex_cc3084af:
+
+    # n "I don't mind."
+    n "Não me importo."
+
+# game/day17.rpy:1082
+translate brazilian day17_n_sex_7b86b863:
+
+    # n "Nino was my first."
+    n "Nino foi meu primeiro."
+
+# game/day17.rpy:1083
+translate brazilian day17_n_sex_36ff5f12:
+
+    # p "Really."
+    p "Sério."
+
+# game/day17.rpy:1084
+translate brazilian day17_n_sex_c0b7b88a:
+
+    # n "He's still my lover sometimes, when we both feel like it."
+    n "Ele ainda é meu amante algumas vezes, quando ambos estamos com vontade."
+
+# game/day17.rpy:1085
+translate brazilian day17_n_sex_90a89774:
+
+    # p "Your brother is a lucky guy."
+    p "Seu irmão é um cara sortudo."
+
+# game/day17.rpy:1087
+translate brazilian day17_n_sex_dd74d507:
+
+    # n "Hmmm. No. You were my second."
+    n "Hmmm. Não. Você foi meu segundo."
+
+# game/day17.rpy:1088
+translate brazilian day17_n_sex_d4ec46d4:
+
+    # p "Who was your first then?"
+    p "Quem foi seu primeiro então?"
+
+# game/day17.rpy:1090
+translate brazilian day17_n_sex_f3a94fd4:
+
+    # n "Some boy I knew from school."
+    n "Um garoto que eu conheci na escola."
+
+# game/day17.rpy:1091
+translate brazilian day17_n_sex_09f8f925:
+
+    # p "{i}(She's being purposely vague... Better not grill her further on the subject and just enjoy the moment.)"
+    p "{i}(Ela está sendo propositalmente vaga... Melhor não mexer mais fundo no assunto e só curtir o momento.)"
+
+# game/day17.rpy:1092
+translate brazilian day17_n_sex_1baecc24:
+
+    # p "Well, he was a lucky guy."
+    p "Bom, ele era um cara sortudo."
+
+# game/day17.rpy:1094
+translate brazilian day17_n_sex_c7ae129c:
+
+    # n "Do you think so?"
+    n "Você acha?"
+
+# game/day17.rpy:1095
+translate brazilian day17_n_sex_5ce61dbf:
+
+    # p "Nia, you're a little package of flexible sexiness. So of course!"
+    p "Nia, você é um pacotinho flexível de sensualidade. Então é claro!"
+
+# game/day17.rpy:1097
+translate brazilian day17_n_sex_809f6b43:
+
+    # "{i}Nia caresses your chest as you both lie together in the post-coital warmth. After a while, she gives you a kiss, rises and goes back to her bedroom."
+    "{i}Nia acaricia seu peito enquanto vocês se deitam juntos na felicidade pós-sexo. Após um tempinho, ela te dá um beijo, levanta e volta para o quarto."
+
+# TODO: Translation updated at 2024-11-29 09:41
+
+# game/day17.rpy:699
+translate brazilian day17_r_blowjob_b88116c6:
+
+    # p "What the?! [r_name]?"
+    p "What the?! [r_name]?"
+
+# game/day17.rpy:700
+translate brazilian day17_r_blowjob_b264dd12:
+
+    # r "Sorry for startling you!"
+    r "Desculpe-me por tê-lo assustado!"
+
+# game/day17.rpy:701
+translate brazilian day17_r_blowjob_55df98a2:
+
+    # p "Can't sleep?"
+    p "Não está conseguindo dormir?"
+
+# game/day17.rpy:702
+translate brazilian day17_r_blowjob_634a8ea7:
+
+    # r "I haven't tried yet. I waited for Nia to fall asleep so I could come find you."
+    r "Ainda não tentei, esperei que a Nia dormisse para poder encontrá-lo"
+
+# game/day17.rpy:703
+translate brazilian day17_r_blowjob_382b0ab2:
+
+    # p "Oh?"
+    p "Oh?"
+
+# game/day17.rpy:704
+translate brazilian day17_r_blowjob_aa733556:
+
+    # r "I'd like us to do something naughty..."
+    r "Eu gostaria que fizéssemos algo impertinente"
+
+# game/day17.rpy:706
+translate brazilian day17_r_blowjob_f569bc25:
+
+    # p "{i}(Best. Dinner-party. Goddamn-Ever.)"
+    p "{i}(Melhor jantar de festa de todos os tempos)"
+
+# game/day17.rpy:707
+translate brazilian day17_r_blowjob_01a81c32:
+
+    # p "Here? Now? What if someone wakes up?"
+    p "Aqui? Agora? E se alguém acordar?"
+
+# game/day17.rpy:708
+translate brazilian day17_r_blowjob_9726821a:
+
+    # r "Sure, why not. I like a little bit of danger."
+    r "Claro, por que não? Eu gosto de um pouco de perigo"
+
+# game/day17.rpy:709
+translate brazilian day17_r_blowjob_32164c6f:
+
+    # p "{i}(I so love her eagerness.)"
+    p "{i}(Eu adoro o entusiasmo dela)"
+
+# game/day17.rpy:710
+translate brazilian day17_r_blowjob_01a7cc9b:
+
+    # p "What did you have in mind?"
+    p "O que você tinha em mente?"
+
+# game/day17.rpy:711
+translate brazilian day17_r_blowjob_e6f18e0f:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor..."
+    r "Você me fez sentir tão bem com sua língua na outra noite e eu gostaria de retribuir o favor"
+
+# game/day17.rpy:712
+translate brazilian day17_r_blowjob_070d1fd1:
+
+    # p "You would do that for me?"
+    p "Você faria isso por mim?"
+
+# game/day17.rpy:713
+translate brazilian day17_r_blowjob_b6ae797a:
+
+    # r "Yes. But you have to guide me a bit, I've never done it before."
+    r "Sim, mas você precisa me orientar um pouco, nunca fiz isso antes"
+
+# game/day17.rpy:714
+translate brazilian day17_r_blowjob_2c7b655d:
+
+    # p "Don't worry! But kiss me first!"
+    p "Não se preocupe! Mas me beije primeiro!"
+
+# game/day17.rpy:720
+translate brazilian day17_r_blowjob_624b9ca7:
+
+    # "{i}Your sister removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}Sua irmã tira o sutiã e a calcinha e se arrasta para cima de você, a buceta dela pressiona sua coxa e você sente os mamilos dela roçarem brevemente em sua pele"
+
+# game/day17.rpy:722
+translate brazilian day17_r_blowjob_5d33a071:
+
+    # "{i}[r_name] removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}[r_name] tira o sutiã e a calcinha e se arrasta para cima de você; a buceta dela pressiona sua coxa e você sente os mamilos dela roçarem brevemente em sua pele"
+
+# game/day17.rpy:723
+translate brazilian day17_r_blowjob_ada30f18:
+
+    # "{i}With eager lips, she french kisses you, meanwhile touching your erect dick lightly with her fingertips. Precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Com lábios ávidos, ela o beija enquanto toca levemente seu pênis ereto com as pontas dos dedos O sêmen está vazando do seu pênis A ponta molhada está brilhando ao luar"
+
+# game/day17.rpy:724
+translate brazilian day17_r_blowjob_eeb5bfa4:
+
+    # r "I'm going to kiss you down there, [p_name]."
+    r "Vou beijar você aí embaixo [p_name]"
+
+# game/day17.rpy:727
+translate brazilian day17_r_blowjob_5d06a4e9:
+
+    # "{i}Your sister kisses and licks your shaft, leaving wet trails all over it."
+    "{i}Sua irmã beija e lambe o seu pênis, deixando rastros molhados por todo ele"
+
+# game/day17.rpy:729
+translate brazilian day17_r_blowjob_f09fb4ca:
+
+    # "{i}[r_name] kisses and licks your shaft, leaving wet trails all over it."
+    "{i}[r_name] beija e lambe seu eixo deixando rastros molhados por todo ele"
+
+# game/day17.rpy:730
+translate brazilian day17_r_blowjob_d9a81861:
+
+    # r "Mmmmm, you taste so good!"
+    r "Mmmmm você tem um gosto tão bom!"
+
+# game/day17.rpy:731
+translate brazilian day17_r_blowjob_2cc4509b:
+
+    # r "I'm going further. Stop me if I'm doing something wrong."
+    r "Estou indo mais longe Pare-me se eu estiver fazendo algo errado"
+
+# game/day17.rpy:732
+translate brazilian day17_r_blowjob_86593fed:
+
+    # p "Don't worry, as long as you don't chew on it you'll be absolutely fine."
+    p "Não se preocupe, desde que você não mastigue, você ficará absolutamente bem"
+
+# game/day17.rpy:737
+translate brazilian day17_r_blowjob_ff4ee346:
+
+    # "{i}[r_name]'s mouth softly wraps around the tip of your cock and the film of precum is soon mixed with her saliva as she sucks and licks the tip. The first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}A boca de [r_name] envolve suavemente a ponta de seu pênis e a película de sêmen logo se mistura com a saliva dela, enquanto ela chupa e lambe a ponta. Os primeiros movimentos da boca dela em seu pênis são um pouco estranhos, mas o olhar de concentração e a vontade de aprender tornam tudo ainda mais quente."
+
+# game/day17.rpy:738
+translate brazilian day17_r_blowjob_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Você se sente bem [p_name]?"
+
+# game/day17.rpy:739
+translate brazilian day17_r_blowjob_a6ae68d7:
+
+    # p "God yes!"
+    p "Deus, sim!"
+
+# game/day17.rpy:741
+translate brazilian day17_r_blowjob_15638743:
+
+    # "{i}Your sister's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}A boca de sua irmã estimula seu pênis em todos os ângulos certos, uma sensação celestial que é intensificada por ela massageando suavemente suas bolas, que agora estão cobertas por fluxos de saliva"
+
+# game/day17.rpy:743
+translate brazilian day17_r_blowjob_0229c9dd:
+
+    # "{i}[r_name]'s mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}A boca de [r_name] estimula seu pênis em todos os ângulos certos, uma sensação celestial que é intensificada por ela massageando suavemente suas bolas, que agora estão cobertas por fluxos de saliva"
+
+# game/day17.rpy:744
+translate brazilian day17_r_blowjob_e9a93643:
+
+    # p "Keep going [r_name], aaaaah!"
+    p "Continue [r_name] aaaaah!"
+
+# game/day17.rpy:745
+translate brazilian day17_r_blowjob_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "É isso aí, use sua língua [r_name] e envolva seus lábios em meu pênis"
+
+# game/day17.rpy:746
+translate brazilian day17_r_blowjob_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day17.rpy:748
+translate brazilian day17_r_blowjob_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah [r_name] Estou tão perto!"
+
+# game/day17.rpy:749
+translate brazilian day17_r_blowjob_8653922f:
+
+    # r "Are you going to cum for me?"
+    r "Você vai gozar para mim?"
+
+# game/day17.rpy:750
+translate brazilian day17_r_blowjob_61144f50:
+
+    # r "In my little warm mouth? I want to taste you so bad!"
+    r "Em minha pequena boca quente? Eu quero tanto sentir seu gosto!"
+
+# game/day17.rpy:751
+translate brazilian day17_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "S-sim!"
+
+# game/day17.rpy:753
+translate brazilian day17_r_blowjob_fd85d209:
+
+    # "{i}It's those words that send you over the edge. When your sister licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Quando sua irmã lambe a ponta do seu pênis, você sente as primeiras ondas do orgasmo percorrerem seu corpo."
+
+# game/day17.rpy:755
+translate brazilian day17_r_blowjob_616cdd40:
+
+    # "{i}It's those words that send you over the edge. When [r_name] licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Quando [r_name] lambe a ponta de seu pênis, você sente as primeiras ondas de seu orgasmo percorrerem seu corpo."
+
+# game/day17.rpy:760
+translate brazilian day17_r_blowjob_b52ceef0:
+
+    # "{i}[r_name] senses that you're ready and kneels with an open mouth before your throbbing cock. Big streams of semen shoot on her face and in her mouth."
+    "{i}[r_name] sente que você está pronto e se ajoelha com a boca aberta diante do seu pênis latejante. Grandes jatos de sêmen são lançados no rosto e na boca dela"
+
+# game/day17.rpy:761
+translate brazilian day17_r_blowjob_c7a95b60:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into her mouth."
+    "{i}Você recuperou parte de sua compostura durante os últimos espasmos de seu orgasmo e é capaz de depositar vários jatos diretamente na boca dela."
+
+# game/day17.rpy:764
+translate brazilian day17_r_blowjob_01ed08d6:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. Your sister licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Uma [r_name] feliz olha para você com profunda satisfação em seus olhos Sua irmã lambe as gotas de esperma perto de sua boca antes de engolir tudo Um grande sorriso enfeita seus lábios pintados de esperma"
+
+# game/day17.rpy:766
+translate brazilian day17_r_blowjob_18dd9554:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. The girl licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Uma feliz [r_name] olha para você com profunda satisfação em seus olhos A garota lambe as gotas de esperma perto de sua boca antes de engolir tudo Um grande sorriso enfeita seus lábios pintados de esperma"
+
+# game/day17.rpy:767
+translate brazilian day17_r_blowjob_16e92508:
+
+    # r "Mmmm! There was so much of it! Did you save it all for me, [p_name]?"
+    r "Mmmm! Havia muito disso! Você guardou tudo para mim [p_name]?"
+
+# game/day17.rpy:768
+translate brazilian day17_r_blowjob_1f2f692f:
+
+    # p "I might have... You were so hot!"
+    p "Eu poderia ter feito Você era tão gostosa!"
+
+# game/day17.rpy:769
+translate brazilian day17_r_blowjob_e74020e9:
+
+    # r "Thank you, this was just what I needed."
+    r "Obrigado, era exatamente o que eu precisava"
+
+# game/day17.rpy:770
+translate brazilian day17_r_blowjob_44328101:
+
+    # r "Sweet dreams, [p_name], love you!"
+    r "Bons sonhos [p_name], amo você!"
+
+# game/day17.rpy:771
+translate brazilian day17_r_blowjob_a900ac49:
+
+    # p "Love you too, sleep well!"
+    p "Amo você também, durma bem!"
+
+# game/day17.rpy:772
+translate brazilian day17_r_blowjob_7c9bff09:
+
+    # "{i}[r_name] leaves you on the couch and silently climbs the stairs, back to Nia's bedroom."
+    "{i}[r_name] deixa você no sofá e sobe silenciosamente as escadas de volta para o quarto de Nia"
+

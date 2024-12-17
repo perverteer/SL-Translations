@@ -1351,3 +1351,17 @@ translate brazilian strings:
     old "What is the name of the oldest girl?"
     new "Qual é o nome da garota mais velha?"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day01.rpy:267
+translate brazilian day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "Hã o quê?"
+
+# game/day01.rpy:269
+translate brazilian day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "ME DEIXA EM PAZ, PORRA, [p_name]!!! Você tá louco?!"
+

@@ -2735,3 +2735,359 @@ translate brazilian day08_p_room_evening_choices_d2ddba57:
     # p "Don't worry, sleep well, [r_name]."
     p "Não se preocupa, durma bem, [r_name]."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day08.rpy:727
+translate brazilian day08_ana_sex_22702385:
+
+    # a "Are you going to fuck me, [p_name]?"
+    a "Vai me foder, [p_name]?"
+
+# game/day08.rpy:728
+translate brazilian day08_ana_sex_2e86bc82:
+
+    # p "The thought has crossed my mind."
+    p "O pensamento passou pela minha cabeça."
+
+# game/day08.rpy:729
+translate brazilian day08_ana_sex_dca9bfc2:
+
+    # p "A lot."
+    p "Muito."
+
+# game/day08.rpy:730
+translate brazilian day08_ana_sex_7f108f9a:
+
+    # a "Hehe."
+    a "Hehe."
+
+# game/day08.rpy:735
+translate brazilian day08_ana_sex_528dd6bf:
+
+    # a "Let me get you ready."
+    a "Deixa eu te deixar pronto."
+
+# game/day08.rpy:739
+translate brazilian day08_ana_sex_1611ca52:
+
+    # "{i}Ana unzips your trousers and frees your growing member. She starts kissing and licking your penis, while gently massaging your balls."
+    "{i}A Ana abre o zíper das suas calças e liberta o seu membro crescente. Ela começa a beijar e lamber seu pênis, enquanto gentilmente massageando suas bolas."
+
+# game/day08.rpy:747
+translate brazilian day08_ana_sex_c75481bb:
+
+    # a "You like that don't you?"
+    a "Você gosta disso não gosta?"
+
+# game/day08.rpy:748
+translate brazilian day08_ana_sex_939349fb:
+
+    # a "Do you want me to suck it, make it all wet?"
+    a "Quer que eu chupe, para deixar ele todo molhado?"
+
+# game/day08.rpy:754
+translate brazilian day08_ana_sex_6606018f:
+
+    # p "Put it in your mouth."
+    p "Enfia ele na boca."
+
+# game/day08.rpy:759
+translate brazilian day08_ana_sex_96e5c3db:
+
+    # a "Mmmmm."
+    a "Mmmmm."
+
+# game/day08.rpy:760
+translate brazilian day08_ana_sex_9acf9aff:
+
+    # "{i}Clearly already adjusted to your size, Ana's mouth slides down the full length of your your shaft, her tongue whirling fast and eager."
+    "{i}Claramente já acostumada ao seu tamanho, a boca da Ana vai pelo seu seu pau todo, a língua dela girando rápida e ansiosa."
+
+# game/day08.rpy:761
+translate brazilian day08_ana_sex_01654862:
+
+    # p "{i}(Oh fuck, this is so good. If she keeps at it like this I'm going to cum already.)"
+    p "{i}(Ah porra, isso é tão bom. Se ela continuar isso assim eu já vou gozar.)"
+
+# game/day08.rpy:768
+translate brazilian day08_ana_sex_dd377334:
+
+    # "{i}She clearly sees you struggling not to fill her mouth with semen, so Ana stops and looks at you longingly while fingering her pussy."
+    "{i}Ela claramente vê você com dificuldades para não encher a boca dela de sêmen, aí a Ana para e olha para você com desejo enquanto deda a boceta."
+
+# game/day08.rpy:769
+translate brazilian day08_ana_sex_afdc4606:
+
+    # a "Stay with me, [p_name], don't cum yet."
+    a "Fica comigo, [p_name], não goza ainda."
+
+# game/day08.rpy:770
+translate brazilian day08_ana_sex_21cd4f33:
+
+    # a "I want your dick in my pussy."
+    a "Eu quero seu pau na minha boceta."
+
+# game/day08.rpy:771
+translate brazilian day08_ana_sex_8f0a9462:
+
+    # a "Would you like that?"
+    a "Você gostaria disso?"
+
+# game/day08.rpy:772
+translate brazilian day08_ana_sex_574340d2:
+
+    # p "Hell yes."
+    p "Para caralho."
+
+# game/day08.rpy:779
+translate brazilian day08_ana_sex_44c1eb5a:
+
+    # p "Are you rubbing your clit for me, dirty girl?"
+    p "Está esfregando a boceta para mim, sua sujinha?"
+
+# game/day08.rpy:780
+translate brazilian day08_ana_sex_c414b917:
+
+    # a "Uhuh, I want to be all wet when you fuck me."
+    a "Uhum, eu quero ficar toda molhada quando você me foder. "
+
+# game/day08.rpy:781
+translate brazilian day08_ana_sex_62cde2e6:
+
+    # p "I think your cunt is clearly ready for my dick."
+    p "Eu acho que sua boceta está claramente pronta pro meu pau."
+
+# game/day08.rpy:785
+translate brazilian day08_ana_sex_7a20b216:
+
+    # p "Spread your legs for me, show me that sweet pussy of yours."
+    p "Abre as pernas para mim, me mostra essa sua boceta doce."
+
+# game/day08.rpy:791
+translate brazilian day08_ana_sex_daca5362:
+
+    # "{i}You tease her glistening pussy lips with the tip of your penis. Ana moans with abandon."
+    "{i}Você brinca com os lábios brilhantes da boceta com a ponta de seu pênis. Ana geme com abandono."
+
+# game/day08.rpy:792
+translate brazilian day08_ana_sex_142e69c9:
+
+    # a "Put it in [p_name]. Fuck me!"
+    a "Coloca em mim [p_name]. Me fode!"
+
+# game/day08.rpy:795
+translate brazilian day08_ana_sex_14dac887:
+
+    # "{i}You push the tip of your penis past her labia. Ana gasps and you push further until your member is completely engulfed by her womanhood."
+    "{i}Você empurra a ponta de seu pênis pelos lábios. Ana suspira e você empurra ainda mais até que seu pau seja completamente envolvido por sua vagina."
+
+# game/day08.rpy:796
+translate brazilian day08_ana_sex_2632d017:
+
+    # a "Aah, you feel so good, [p_name]."
+    a "Aai, isso é tão bom, [p_name]."
+
+# game/day08.rpy:797
+translate brazilian day08_ana_sex_48808d18:
+
+    # p "Yeah, you want me to fuck your dirty little pussy? Make you scream, you little slut?"
+    p "É, quer que eu foda a sua bocetinha sujinha? Fazer você gritar, sua putinha?"
+
+# game/day08.rpy:798
+translate brazilian day08_ana_sex_924215d2:
+
+    # a "Make me scream, [p_name]!"
+    a "Faz eu gritar, [p_name]!"
+
+# game/day08.rpy:804
+translate brazilian day08_ana_sex_b44e9ea5:
+
+    # "{i}Slowly you fuck her pussy. Ana's hands are all over your back, squeezing and raking, as if encouraging you to go deeper and faster."
+    "{i}Você lentamente fode a boceta dela. As mãos da Ana estão por todas as suas costas, apertando e arranhando, como se estivesse o encorajando a ir mais fundo e mais rápido."
+
+# game/day08.rpy:805
+translate brazilian day08_ana_sex_c7b3048d:
+
+    # a "F-f-fuck yes!"
+    a "S-s-sim porra!"
+
+# game/day08.rpy:806
+translate brazilian day08_ana_sex_8ef1766a:
+
+    # a "Fuck me harder, [p_name]!"
+    a "Me fode com mais força, [p_name]!"
+
+# game/day08.rpy:807
+translate brazilian day08_ana_sex_879bf6b4:
+
+    # a "Harder!"
+    a "Mais forte!"
+
+# game/day08.rpy:811
+translate brazilian day08_ana_sex_a84462e0:
+
+    # "{i}Ana's room is filled with noises of moaning, gasping and the wet, rhythmic sounds of penetration."
+    "{i}O quarto da Ana está cheio de barulhos de gemidos, suspiros e os sons molhados e rítmicos de penetração."
+
+# game/day08.rpy:814
+translate brazilian day08_ana_sex_d6faea8c:
+
+    # "{i}With closed eyes and a look of bliss on her flushed face, Ana starts rubbing her clitoris."
+    "{i}Com olhos fechados e um olhar de felicidade no rosto dela, Ana começa a esfregar o clitoris."
+
+# game/day08.rpy:815
+translate brazilian day08_ana_sex_2da1e7f5:
+
+    # a "Aaaah... Don't stop! Please don't stop!"
+    a "Aaaah... Não para! Por favor, não para!"
+
+# game/day08.rpy:816
+translate brazilian day08_ana_sex_a0bb9737:
+
+    # "{i}You feel her muscles contracting, applying more pressure to your dick. You're about to cum and Ana is close too, you feel."
+    "{i}Você sente os músculos dela contraindo, aplicando mais pressão no seu pau. Você está prestes á gozar e você sente que a Ana está perto também."
+
+# game/day08.rpy:817
+translate brazilian day08_ana_sex_678e1d5b:
+
+    # p "I'm cumming."
+    p "Eu vou gozar."
+
+# game/day08.rpy:818
+translate brazilian day08_ana_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Sim! Dá para mim!"
+
+# game/day08.rpy:824
+translate brazilian day08_ana_sex_99948d78:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaaah!!!"
+
+# game/day08.rpy:828
+translate brazilian day08_ana_sex_5544b7c9:
+
+    # "{i}A thick load of sperm fills Ana's vagina. With clawing hands she pushes your body down, clearly urging you to keep going."
+    "{i}Uma carga grossa de esperma enche a vagina da Ana. Ela empurra seu corpo para baixo, claramente ansiosa para que você continue."
+
+# game/day08.rpy:830
+translate brazilian day08_ana_sex_1bd5a98d:
+
+    # a "Fuck me! I'm about to..."
+    a "Me fode! Eu estou quase..."
+
+# game/day08.rpy:831
+translate brazilian day08_ana_sex_a727b9dd:
+
+    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
+    "{i}Com muito esforço, você continua fodendo ela. Esperma está vazando da vagina dela deixando seu pau escorregadio."
+
+# game/day08.rpy:838
+translate brazilian day08_ana_sex_be2d2108:
+
+    # a "Y-y-yesssssss!!!"
+    a "S-s-simmmmmmm!!!"
+
+# game/day08.rpy:839
+translate brazilian day08_ana_sex_2be3b5ce:
+
+    # "{i}Both her hands slam down on your ass as she holds you tight, orgasming wildly."
+    "{i}Ela agarra forte na sua bunda com ambas as mãos, com um orgasmo selvagem."
+
+# game/day08.rpy:844
+translate brazilian day08_ana_sex_219776d4:
+
+    # "{i}After you pull out Ana slides her fingers lazily in and out of her cunt, spreading cum all over her pubic area. She still moans softly."
+    "{i}Depois de tirar o pau, Ana desliza os dedos lentamente para dentro e para fora da boceta, espalhando gozo por toda a região pubiana. Ela ainda geme baixinho."
+
+# game/day08.rpy:849
+translate brazilian day08_ana_sex_7db673e9:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's vagina still oozing with your cum."
+    "{i}Demora um pouco para vocês se recuperarem. Vocês se deitam pelados na cama, a vagina da Ana ainda escorrendo seu gozo."
+
+# game/day08.rpy:860
+translate brazilian day08_ana_sex_35788734:
+
+    # "{i}As soon as you feel you're about to cum you pull out and shoot a thick load of sperm over Ana's body."
+    "{i}Assim que você sente que está prestes a gozar e tira o pau dela e atira uma uma carga grossa pelo corpo da Ana."
+
+# game/day08.rpy:864
+translate brazilian day08_ana_sex_99948d78_1:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaaah!!!"
+
+# game/day08.rpy:870
+translate brazilian day08_ana_sex_79bb4801:
+
+    # "{i}Clearly not satisfied, Ana rubs her pussy more violently, massaging her breasts with your cum."
+    "{i}Claramente não satisfeita, Ana esfrega a boceta dela mais violentamente, massageando os peitos dela com sua porra."
+
+# game/day08.rpy:871
+translate brazilian day08_ana_sex_be2d2108_1:
+
+    # a "Y-y-yesssssss!!!"
+    a "S-s-simmmmmmm!!!"
+
+# game/day08.rpy:875
+translate brazilian day08_ana_sex_a3032372:
+
+    # "{i}Your dick still dripping with semen, you look at her while she violently orgasms on the bed."
+    "{i}Seu pau ainda gotejando com sêmen, você olha para ela enquanto ela violentamente chega ao orgasmo na cama."
+
+# game/day08.rpy:880
+translate brazilian day08_ana_sex_d43e1bed:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's body covered with your drying cum."
+    "{i}Demora um pouco para vocês se recuperarem. Vocês se deitam pelados na cama, o corpo da Ana coberto com seu gozo secando."
+
+# game/day08.rpy:889
+translate brazilian day08_ana_sex_9014c5a1:
+
+    # a "That was so good."
+    a "Aquilo foi tão bom."
+
+# game/day08.rpy:890
+translate brazilian day08_ana_sex_cf6d0b68:
+
+    # p "I agree."
+    p "Eu concordo."
+
+# game/day08.rpy:891
+translate brazilian day08_ana_sex_27abc72b:
+
+    # a "If you're not careful I'm going to call you every hour for some exercise."
+    a "Se você não tiver cuidado eu vou te chamar toda hora para exercitar um pouco."
+
+# game/day08.rpy:892
+translate brazilian day08_ana_sex_25d35c37:
+
+    # p "In that case, I hope I have the stamina to perform."
+    p "Nesse caso eu espero que tenha a energia para conseguir."
+
+# game/day08.rpy:893
+translate brazilian day08_ana_sex_96edc86c:
+
+    # a "Hate to say this, because I could have another go, but my Mom is about to come home. And I want to avoid the complicated questions she might have."
+    a "Odeio dizer isso, por que eu podia ir de novo, mas minha Mãe está prestes a vir para casa. E eu quero evitar as perguntas complicadas que ela pode ter."
+
+# game/day08.rpy:894
+translate brazilian day08_ana_sex_8475d17b:
+
+    # p "{i}(Damn she's insatiable. Though I could go again as well, now that she mentions it.)"
+    p "{i}(Droga, ela é insaciável. Embora eu pudesse ir novamente, agora que ela mencionou.)"
+
+# game/day08.rpy:895
+translate brazilian day08_ana_sex_bb7dfb49:
+
+    # p "I understand."
+    p "Entendo."
+
+# game/day08.rpy:896
+translate brazilian day08_ana_sex_f99d2351:
+
+    # a "I'll see you again soon."
+    a "Te vejo de novo logo."
+

@@ -5141,3 +5141,671 @@ translate brazilian day23_flashback_6c92b1a6:
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
     "{i}Eu fiz todas essas coisas, levando seus peitos majestosos em minha boca e dando-lhes a atenção que eles mereciam. Sasha começou a gemer baixinho e abrir as pernas."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day23.rpy:239
+translate brazilian day23_choices_05ffd1fb:
+
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(É hora de dar o presente da [l_name], embrulhado para presente e tudo.)"
+
+# game/day23.rpy:244
+translate brazilian day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "Ei!"
+
+# game/day23.rpy:245
+translate brazilian day23_choices_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day23.rpy:246
+translate brazilian day23_choices_d4d9144c:
+
+    # p "I've come bearing gifts!"
+    p "Eu trago presentes!"
+
+# game/day23.rpy:248
+translate brazilian day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "Emocionante!"
+
+# game/day23.rpy:250
+translate brazilian day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "Sorrindo para você, sua irmã abre lentamente a caixa para revelar seu conteúdo."
+
+# game/day23.rpy:252
+translate brazilian day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "Sorrindo para você, sua amiga abre lentamente a caixa para revelar seu conteúdo."
+
+# game/day23.rpy:257
+translate brazilian day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "O que raios é..."
+
+# game/day23.rpy:259
+translate brazilian day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "Oh não [p_name], você não..."
+
+# game/day23.rpy:260
+translate brazilian day23_choices_e3441fb8:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Eu disse que te daria um de presente, não gostou?"
+
+# game/day23.rpy:261
+translate brazilian day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "Eu... eu não sei."
+
+# game/day23.rpy:262
+translate brazilian day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Eu acho um pouco estranho como presente."
+
+# game/day23.rpy:263
+translate brazilian day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Bobagem, os casais dão brinquedos sexuais de presente um ao outro o tempo todo."
+
+# game/day23.rpy:264
+translate brazilian day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Eles dão, não é?)"
+
+# game/day23.rpy:265
+translate brazilian day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Mas parece tão... tão... tão pornográfico?"
+
+# game/day23.rpy:266
+translate brazilian day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Você deveria ter visto os outros em exibição. Não fica mais sutil que isso."
+
+# game/day23.rpy:268
+translate brazilian day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Ok... Obrigada."
+
+# game/day23.rpy:269
+translate brazilian day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Ela não parece totalmente convencida.)"
+
+# game/day23.rpy:270
+translate brazilian day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "Sem problemas. E claro, só depende de você se deseja ou não usar ele. Por mim, tudo bem se acabar acumulando poeira em uma gaveta."
+
+# game/day23.rpy:271
+translate brazilian day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Obrigada, vou lembrar disso."
+
+# game/day23.rpy:272
+translate brazilian day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Embora você estaria perdendo se fizer isso..."
+
+# game/day23.rpy:273
+translate brazilian day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "Está bem, está bem! Eu entendi a mensagem."
+
+# game/day23.rpy:274
+translate brazilian day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}A garota sorri para você quando você sai do quarto."
+
+# game/day23.rpy:279
+translate brazilian day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "O que raios é..."
+
+# game/day23.rpy:281
+translate brazilian day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Eu disse que te daria um de presente, não gostou?"
+
+# game/day23.rpy:282
+translate brazilian day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "Eu... eu não sei."
+
+# game/day23.rpy:283
+translate brazilian day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "É enorme."
+
+# game/day23.rpy:284
+translate brazilian day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Você vai sentir tudo com muito mais intensidade."
+
+# game/day23.rpy:286
+translate brazilian day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Sinto muito, [p_name], mas isso é demais."
+
+# game/day23.rpy:287
+translate brazilian day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Eu não pedi por isso e você simplesmente foi e pegou essa coisa para mim... Por que você faria isso?"
+
+# game/day23.rpy:288
+translate brazilian day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Merda. Ela obviamente não está impressionada.)"
+
+# game/day23.rpy:289
+translate brazilian day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "Achei que você gostaria, é um ótimo estimulante, sabe."
+
+# game/day23.rpy:290
+translate brazilian day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "Não sou esse tipo de garota, [p_name], você já deveria saber disso."
+
+# game/day23.rpy:291
+translate brazilian day23_choices_59810b3a:
+
+    # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
+    p "Me desculpa, [l_name], eu não... Vou te deixar em paz."
+
+# game/day23.rpy:292
+translate brazilian day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}A garota permanece em silêncio enquanto você hesitantemente sai da sala."
+
+# game/day23.rpy:299
+translate brazilian day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Você espera ansiosamente até a noite cair e se veste com seu terno, pronto para sair com a [m_name]."
+
+# game/day23.rpy:301
+translate brazilian day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Você passa o tempo até o cair da noite e esquenta alguma coisa no micro-ondas."
+
+# game/day23.rpy:1274
+translate brazilian day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "Isso é aconchegante, não acha?"
+
+# game/day23.rpy:1275
+translate brazilian day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Se você quer dizer apertado e nojento, então eu concordo."
+
+# game/day23.rpy:1276
+translate brazilian day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "Qualé. Vamos nos divertir um pouco."
+
+# game/day23.rpy:1277
+translate brazilian day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ana insere uma moeda no slot e um filme começa a passar na tela grande. Ela gesticula para que você se sente."
+
+# game/day23.rpy:1279
+translate brazilian day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "Agora, aproveita."
+
+# game/day23.rpy:1280
+translate brazilian day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Enquanto Ana se despe, os atores na tela já terminaram suas preliminares rápidas e a garota está montando nele a vaqueira reversa."
+
+# game/day23.rpy:1281
+translate brazilian day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Eu sabia que você gostaria disso. Você já está duro."
+
+# game/day23.rpy:1282
+translate brazilian day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "Você gosta quando uma garota é espancada assim por um grande pau duro?"
+
+# game/day23.rpy:1287
+translate brazilian day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}Depois de se despir, Ana cai de joelhos e devora ansiosamente seu pau latejante."
+
+# game/day23.rpy:1288
+translate brazilian day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Mmmm, isso, eu senti falta isso."
+
+# game/day23.rpy:1289
+translate brazilian day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Use a boca, sua putinha imunda."
+
+# game/day23.rpy:1291
+translate brazilian day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ana cruza as mãos atrás das costas e engole ainda mais do seu pau. Saliva está pingando no chão enquanto ela engasga."
+
+# game/day23.rpy:1292
+translate brazilian day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}Você a ajuda a estabelecer um ritmo guiando a cabeça dela para cima e para baixo em seu pau."
+
+# game/day23.rpy:1293
+translate brazilian day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Sim, assim."
+
+# game/day23.rpy:1294
+translate brazilian day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Seu pau ainda está na boca dela, você para logo antes de encher sua boca com porra. Querendo estender sua transa, você agarra o cabelo dela e a puxa de seu pau duro."
+
+# game/day23.rpy:1299
+translate brazilian day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Vem cá me montar."
+
+# game/day23.rpy:1305
+translate brazilian day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}A garota sobe em cima de você e seu pau desliza facilmente para dentro da boceta molhada dela. Encantada, ela massageia suas bolas enquanto sobe e desce no seu pau."
+
+# game/day23.rpy:1306
+translate brazilian day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Mmmmm, você está tão envolvido."
+
+# game/day23.rpy:1307
+translate brazilian day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}A bunda dela bate contra suas coxas enquanto ela monta em você. Os seios de Ana roçam seu rosto e você chupa com desejo seus mamilos."
+
+# game/day23.rpy:1308
+translate brazilian day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "O som do filme pornô que ainda está passando é abafado pelos gemidos roucos de Ana."
+
+# game/day23.rpy:1310
+translate brazilian day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Querendo mais controle, você tira Ana de seu pau e a vira."
+
+# game/day23.rpy:1311
+translate brazilian day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Eu quero ver essa sua bunda."
+
+# game/day23.rpy:1312
+translate brazilian day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "Não, não, não para!"
+
+# game/day23.rpy:1313
+translate brazilian day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}Você a empurra em seu pau e segura sua cintura, levando ela para cima e descendo com força para baixo. Cada vez que você enfia seu pau na vagina dela, pequenas gotas escorrem de sua vagina para suas coxas."
+
+# game/day23.rpy:1314
+translate brazilian day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "Isso, isso! Me fode, não para, [p_name]."
+
+# game/day23.rpy:1315
+translate brazilian day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "Você gosta, sua putinha?"
+
+# game/day23.rpy:1316
+translate brazilian day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "Eu amo isso! Eu amo isso para caralho."
+
+# game/day23.rpy:1322
+translate brazilian day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Depois que a vagina dela satisfez seu pau por algum tempo, você puxa Ana para o chão."
+
+# game/day23.rpy:1324
+translate brazilian day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "Agora, prove sua boceta."
+
+# game/day23.rpy:1325
+translate brazilian day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Hmmm, Sim!"
+
+# game/day23.rpy:1331
+translate brazilian day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Eu quero usar sua bunda."
+
+# game/day23.rpy:1332
+translate brazilian day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "Sim! Está pronta para você. Me usa!"
+
+# game/day23.rpy:1338
+translate brazilian day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}Você a empurra para baixo na cadeira enquanto ela abre a boceta para você, dando-lhe uma bela visão de seu pequeno traseiro."
+
+# game/day23.rpy:1339
+translate brazilian day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}Apesar do que ela disse, a bunda de Ana claramente não está pronta para o seu tamanho. Quando você empurra a ponta dentro dela, ela para de gemer e range os dentes."
+
+# game/day23.rpy:1340
+translate brazilian day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Aaah... Isso... Aaaah..."
+
+# game/day23.rpy:1341
+translate brazilian day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Você cospe no cu dela e empurra seu pau ainda mais para dentro de sua bunda."
+
+# game/day23.rpy:1342
+translate brazilian day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "Há tanto de você..."
+
+# game/day23.rpy:1343
+translate brazilian day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}Você segura os braços dela e a puxa em sua direção. Sua bunda está muito apertada, apesar de Ana relaxar cada vez mais."
+
+# game/day23.rpy:1344
+translate brazilian day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Aai, isso. Fode a minha bunda."
+
+# game/day23.rpy:1346
+translate brazilian day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Sua bunda salta enquanto você a fode. Cada vez que seu pau entra nela, Ana empurra o rosto contra o couro da cadeira, sua expressão se contorcendo em uma mistura de dor e prazer."
+
+# game/day23.rpy:1352
+translate brazilian day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Depois que a bunda dela satisfaz por algum tempo, você tira seu pau e puxa Ana para o chão."
+
+# game/day23.rpy:1354
+translate brazilian day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "Agora, prova esse cuzinho."
+
+# game/day23.rpy:1355
+translate brazilian day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Hmmm, Sim!"
+
+# game/day23.rpy:1357
+translate brazilian day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Com as duas mãos você empurra a cabeça dela em seu pau e a força a engolir seu pau. Ela suspira, engasga e fluxos de muco claro escorrem por seu peito."
+
+# game/day23.rpy:1366
+translate brazilian day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Conforme você sente seu orgasmo se aproximando, você a puxa para seu colo e empurra seu pau em sua bunda novamente sem pausa."
+
+# game/day23.rpy:1368
+translate brazilian day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Conforme você sente seu orgasmo se aproximando, você a puxa para o seu colo e empurra seu pau em sua bunda sem aviso."
+
+# game/day23.rpy:1369
+translate brazilian day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Ppppooorra!"
+
+# game/day23.rpy:1372
+translate brazilian day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}Depois de uma breve série de enfiadas furiosas, você explode dentro do cu apertado dela."
+
+# game/day23.rpy:1373
+translate brazilian day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ddddeuus ssiim!!!"
+
+# game/day23.rpy:1374
+translate brazilian day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "Me Fode! Me Fode!"
+
+# game/day23.rpy:1375
+translate brazilian day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Seu orgasmo é prolongado pela estimulação do ânus dela. Você continua enfiando nela até ter atirado as últimas gotas de esperma dentro, até que comece a vazar de seu cu."
+
+# game/day23.rpy:1392
+translate brazilian day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Ao sentir que seu orgasmo se aproxima, você se deita e a puxa contra seu pau. Ela começa a cavalgar em você sem pausa."
+
+# game/day23.rpy:1398
+translate brazilian day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}Depois de uma breve série de enfiadas furiosas, você explode dentro de sua boceta apertada."
+
+# game/day23.rpy:1399
+translate brazilian day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ddddeuus ssiim!!!"
+
+# game/day23.rpy:1400
+translate brazilian day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "Me Fode! Me Fode!"
+
+# game/day23.rpy:1401
+translate brazilian day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}Você a segura em cima do seu pau até ter atirado as últimas gotas de esperma dentro até que comece a vazar de sua boceta molhada."
+
+# game/day23.rpy:1412
+translate brazilian day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Sons molhados emergem de sua boca enquanto você fode a garganta. Seus olhos com lágrimas olham para você em um prazer delirante."
+
+# game/day23.rpy:1419
+translate brazilian day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}Depois de uma breve série de enfiadas furiosas, você puxa e seu pau começa a jorrar esperma ao bater contra o rosto dela."
+
+# game/day23.rpy:1420
+translate brazilian day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ddddeuus ssiim!!!"
+
+# game/day23.rpy:1421
+translate brazilian day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Sim! Me dá tudo!"
+
+# game/day23.rpy:1422
+translate brazilian day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Ela logo fica com o rosto coberto de esperma, que ela lambe ansiosamente dos cantos da boca."
+
+# game/day23.rpy:1432
+translate brazilian day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Sons molhados emergem de sua boca enquanto você fode a garganta. Seus olhos com lágrimas olham para você em um prazer delirante."
+
+# game/day23.rpy:1440
+translate brazilian day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}Depois de uma breve série de enfiadas furiosas, você puxa e empurra Ana para o chão. Seu pau começa a jorrar porra sobre seus seios e barriga."
+
+# game/day23.rpy:1441
+translate brazilian day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ddddeuus ssiim!!!"
+
+# game/day23.rpy:1442
+translate brazilian day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "Sim! Me dá tudo!"
+
+# game/day23.rpy:1443
+translate brazilian day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ana se dedilha esfregando seu esperma em sua boceta. Certificando de que o corpo dela esteja coberto com a última gota de esperma."
+
+# game/day23.rpy:1453
+translate brazilian day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}A garota se limpa e se encosta na tela onde a atriz acabou de receber uma gozada na boca."
+
+# game/day23.rpy:1455
+translate brazilian day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "Nossa. Você realmente sabe como fazer uma garota se sentir bem, não é?"
+
+# game/day23.rpy:1456
+translate brazilian day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Obrigado. Eu gosto muito de fazer compras com você."
+
+# game/day23.rpy:1457
+translate brazilian day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "Percebi!"
+
+# game/day23.rpy:1459
+translate brazilian day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Vocês se vestem e saem da cabine de vídeo. A garota no balcão está olhando para você com uma expressão estranha no rosto."
+
+# game/day23.rpy:1460
+translate brazilian day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "Então imagino que vocês gostaram lá atrás?"
+
+# game/day23.rpy:1461
+translate brazilian day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "Foi muito estimulante."
+
+# game/day23.rpy:1462
+translate brazilian day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Sim, ótimo filme."
+

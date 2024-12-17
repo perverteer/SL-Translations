@@ -3333,3 +3333,113 @@ translate brazilian misc_endings_8d6c4612_1:
     # "{i}After blowing up his marriage, Brody became a drifter and continued living his life in continued mediocrity."
     "{i}Após detonar o casamento, Brody virou um vagabundo e continuou a viver a vida em uma contínua mediocridade."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/endings.rpy:1259
+translate brazilian endings_er_ca_sex_6c510ca4:
+
+    # "{i}Anonymous sources on the web found out that two local Taskforce bigwigs had been in a relationship with each other."
+    "{i}Fontes anônimas na internet descobriram que dois líderes da Força-Tarefa estavam em um relacionamento."
+
+# game/endings.rpy:1260
+translate brazilian endings_er_ca_sex_a6789c05:
+
+    # "{i}Those bigwigs were Erica Steel and Carl Woodman."
+    "{i}Os líderes eram Erica Steel e Carl Woodman."
+
+# game/endings.rpy:1261
+translate brazilian endings_er_ca_sex_4b4fd9a9:
+
+    # "{i}In a multi-episode exposé an anonymous author slowly picked apart their relationship, leaving much of the country in suspense about the conclusion of the story."
+    "{i}Em uma exposição de vários episódios, o autor aos poucos foi detalhando o relacionamento, deixando boa parte do país em suspense sobre a conclusão da história."
+
+# game/endings.rpy:1262
+translate brazilian endings_er_ca_sex_49d4378c:
+
+    # "{i}During their time at university, both Erica and Carl were a wild bunch, the author alleged, based on a mountain of evidence published alongside the stories."
+    "{i}Na época que eram universitários, tanto Erica quanto Carl eram irresponsáveis, diz o autor, baseando-se em uma montanha de provas publicadas com as matérias."
+
+# game/endings.rpy:1264
+translate brazilian endings_er_ca_sex_f87d9266:
+
+    # "{i}They were both arrested for drunk driving multiple times, vandalized dorm rooms in an alcohol-fueled lover's spat and there were rumors of orgies happening late at night during weekends."
+    "{i}Eles foram presos várias vezes por dirigirem bêbados, vandalizar dormitórios alcoolizados em uma briga de casal, e havia rumores de orgias acontecendo tarde da noite nos fins de semana."
+
+# game/endings.rpy:1265
+translate brazilian endings_er_ca_sex_a0e1079c:
+
+    # "{i}The final episode of the exposé sealed the fate of pious Erica and Carl and of the whole Moral Uplift movement entirely."
+    "{i}O último episódio da exposição selou por completo o destino dos devotos Erica e Carl da Elevação Moral."
+
+# game/endings.rpy:1266
+translate brazilian endings_er_ca_sex_b9337a73:
+
+    # "{i}The last message from the anonymous author contained a short snippet of text and a movie."
+    "{i}A última mensagem do autor anônimo continha uma pequena citação de texto e um filme."
+
+# game/endings.rpy:1272
+translate brazilian endings_er_ca_sex_ab836c37:
+
+    # "{i}The text was a listing of production details regarding a movie, the embedded media a lovingly remastered bootleg of that particular film."
+    "{i}O texto era um alista de detalhes da produção de um filme, e o vídeo era uma adorável cópia remasterizada de um certo filme."
+
+# game/endings.rpy:1273
+translate brazilian endings_er_ca_sex_f84eec51:
+
+    # "{i}'Hard as Steel', was its title."
+    "{i}O título era 'Duro como Aço'."
+
+# game/endings.rpy:1274
+translate brazilian endings_er_ca_sex_2bc643ca:
+
+    # "{i}At the thirty-minute mark, two people appeared, who'd become Internet celebrities by then through the revealing reports."
+    "{i}Nos trinta minutos, duas pessoas apareceram, que haviam se tornado celebridades na internet devido aos relatórios reveladores."
+
+# game/endings.rpy:1282
+translate brazilian endings_er_ca_sex_06a68640:
+
+    # "{i}Erica and Carl truly fucked their brains out on camera."
+    "{i}Erica e Carl se foderam na frente da câmera até não conseguirem mais."
+
+# game/endings.rpy:1283
+translate brazilian endings_er_ca_sex_1009e6fe:
+
+    # "{i}Nothing about the boundless lust displayed by those two people reminded anyone about the self-righteous tenets of the Moral Uplift Movement."
+    "{i}A luxúria sem limites demonstrada por esses dois nada lembrava dos princípios certinhos do Movimento da Elevação Moral."
+
+# game/endings.rpy:1285
+translate brazilian endings_er_ca_sex_1fe03eab:
+
+    # "{i}You all had a good laugh about Carl's heavy panting and grunting and Mrs. Steel's semen-covered body."
+    "{i}Vocês todos riram bastante com o Carl ofegando e o corpo da Sra. Steel coberto de sêmen."
+
+# game/endings.rpy:1286
+translate brazilian endings_er_ca_sex_bce10e8d:
+
+    # "{i}That one pornographic movie started an avalanche of protests against the movement and undermined them terribly."
+    "{i}Esse filme pornográfico começou uma avalanche de protestos contra o movimento, e os prejudicou terrivelmente."
+
+# game/endings.rpy:1287
+translate brazilian endings_er_ca_sex_2262e35a:
+
+    # "{i}Denouncing Erica and Carl's youthful transgressions and throwing them out of the organization didn't have the same effect as before."
+    "{i}Renunciar as transgressões dos jovens Erica e Carl e removê-los da organização não teve o mesmo efeito que antes."
+
+# game/endings.rpy:1288
+translate brazilian endings_er_ca_sex_e7cd3f58:
+
+    # "{i}The organization never recovered, slowly lost its grip on society and eventually faded away in oblivion."
+    "{i}A organização nunca se recuperou, e perdeu seu controle da sociedade, eventualmente sumindo em sua obscuridade."
+
+# game/endings.rpy:1296
+translate brazilian endings_er_ca_sex_ec37b497:
+
+    # "{i}'Hard as Steel' wasn't forgotten and quickly spread on all the tube sites, watched by millions of people across the world."
+    "{i}'Duro como Aço' não foi esquecido, e rapidamente se espalhou por todos os sites de vídeo, assistido por milhões de pessoas pelo mundo todo."
+
+# game/endings.rpy:1297
+translate brazilian endings_er_ca_sex_93f30e97:
+
+    # "{i}Despite becoming minor celebrities, Erica and Carl weren't very fond of the reveal and tried very hard to slink back out of the limelight, eventually succeeding."
+    "{i}Apesar de se tornarem pequenas celebridades, Erica e Carl não ficaram muito felizes e tentaram muito escapar da atenção, eventualmente conseguindo."
+

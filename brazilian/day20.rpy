@@ -4217,3 +4217,827 @@ translate brazilian day20_r_deflowering_5a89aa3b:
     # "{i}With each thrust, your dick penetrates her more easily, helped by her copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
     "{i}A cada enfiada, seu pau entra mais facilmente, auxiliado pelos abundantes fluidos dela. Ela obviamente não está pronta para nada violento, o olhar de dor sumindo completamente de seu rosto, substituído por uma mistura de felicidade e entusiasmo."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day20.rpy:935
+translate brazilian day20_b_licking_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day20.rpy:939
+translate brazilian day20_b_licking_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day20.rpy:942
+translate brazilian day20_b_licking_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day20.rpy:949
+translate brazilian day20_b_licking_35ba70ca:
+
+    # b "What?"
+    b "O quê?"
+
+# game/day20.rpy:950
+translate brazilian day20_b_licking_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Só tira as roupas, eu quero sentir o gosto da sua boceta."
+
+# game/day20.rpy:951
+translate brazilian day20_b_licking_3b40820c:
+
+    # b "I'm busy."
+    b "Estou ocupada."
+
+# game/day20.rpy:952
+translate brazilian day20_b_licking_94999a5f:
+
+    # p "No you're not."
+    p "Não, você não está."
+
+# game/day20.rpy:953
+translate brazilian day20_b_licking_88ee9d37:
+
+    # b "Yes I am."
+    b "Sim eu estou."
+
+# game/day20.rpy:954
+translate brazilian day20_b_licking_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Vai se comportar que nem uma criança? Eu podia simplesmente arrancar as suas roupas, sabe."
+
+# game/day20.rpy:956
+translate brazilian day20_b_licking_e4f370a8:
+
+    # b "I know."
+    b "Eu sei."
+
+# game/day20.rpy:959
+translate brazilian day20_b_licking_a9a5ca74:
+
+    # "{i}Your sister reluctantly removes her clothes and sits on the bed."
+    "{i}Sua irmã relutantemente remove as roupas e senta na cama."
+
+# game/day20.rpy:961
+translate brazilian day20_b_licking_d005c0b7:
+
+    # "{i}The girl reluctantly removes her clothes and sits on the bed."
+    "{i}A garota relutantemente remove as roupas e senta na cama."
+
+# game/day20.rpy:962
+translate brazilian day20_b_licking_e36b7664:
+
+    # p "Good, you won't regret this."
+    p "Bom, você não vai se arrepender disso."
+
+# game/day20.rpy:963
+translate brazilian day20_b_licking_5ceba404:
+
+    # p "{i}(Ultimately...)"
+    p "{i}(Finalmente...)"
+
+# game/day20.rpy:969
+translate brazilian day20_b_licking_a55df5f2:
+
+    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
+    "{i}Sem avisar, você agarra as pernas da [b_name] e enfia seu rosto entre suas coxas. O corpo dela reage na hora à rugosidade da sua língua, e ela fica molhada em instantes."
+
+# game/day20.rpy:970
+translate brazilian day20_b_licking_ab537a6c:
+
+    # p "Your body always betrays you, [b_name]."
+    p "Seu corpo sempre te trai, [b_name]."
+
+# game/day20.rpy:971
+translate brazilian day20_b_licking_64819380:
+
+    # b "F-f-fuck you!"
+    b "V-v-vai se foder!"
+
+# game/day20.rpy:972
+translate brazilian day20_b_licking_ae14bf53:
+
+    # "{i}Your tongue is seemingly everywhere at once, stimulating her clitoris, caressing her labia and penetrating her moist gash."
+    "{i}Sua língua parece estar em todo lugar ao mesmo tempo, estimulando o clitóris dela, acariciando a lábia dela e penetrando a boceta úmida."
+
+# game/day20.rpy:974
+translate brazilian day20_b_licking_807be6fe:
+
+    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
+    "{i}Every pretence of annoyance has left [b_name] and she's fully engrossed in your forceful tongue-fucking."
+
+# game/day20.rpy:975
+translate brazilian day20_b_licking_8916675f:
+
+    # b "Ooooh!"
+    b "Aaaah!"
+
+# game/day20.rpy:980
+translate brazilian day20_b_licking_a34e063e:
+
+    # "{i}Just when you notice she's ready to climax, you stop abruptly."
+    "{i}Bem quando você percebe ela está prestes a chegar ao clímax, você para bruscamente."
+
+# game/day20.rpy:982
+translate brazilian day20_b_licking_06940249:
+
+    # p "That's enough for now."
+    p "Isso é o suficiente por enquanto."
+
+# game/day20.rpy:983
+translate brazilian day20_b_licking_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "O quê?! Não, você não pode..."
+
+# game/day20.rpy:984
+translate brazilian day20_b_licking_47fea10d:
+
+    # p "I can't?"
+    p "Eu não posso?"
+
+# game/day20.rpy:985
+translate brazilian day20_b_licking_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Eu só... Vai se foder!"
+
+# game/day20.rpy:986
+translate brazilian day20_b_licking_5366f9d4:
+
+    # p "Maybe I'll be back, maybe I won't..."
+    p "Talvez eu volte, talvez não..."
+
+# game/day20.rpy:988
+translate brazilian day20_b_licking_a32e4def:
+
+    # "{i}You go back to your room, the taste of [b_name] still on your lips, as she remains behind, naked and confused."
+    "{i}Você volta ao seu quarto, o sabor da [b_name] ainda nos seus lábios, enquanto ela continua lá atrás, pelada e confusa."
+
+# game/day20.rpy:1004
+translate brazilian day20_ri_sex_37f83a86:
+
+    # ri "You're here for the job interview?"
+    ri "Você está aqui para a entrevista de emprego?"
+
+# game/day20.rpy:1005
+translate brazilian day20_ri_sex_03af6b77:
+
+    # p "Wow, you're one sexy manager, Riley."
+    p "Nossa, você é uma gerente sexy, Riley."
+
+# game/day20.rpy:1010
+translate brazilian day20_ri_sex_a4f46328:
+
+    # ri "You think so?"
+    ri "Você acha?"
+
+# game/day20.rpy:1011
+translate brazilian day20_ri_sex_1f051601:
+
+    # p "I'm not sure if people would get much work done with you around in those clothes, but you do command a certain respect."
+    p "Não sei se as pessoas iriam conseguir trabalhar muito com você por perto nessas roupas, mas você impõe um certo respeito."
+
+# game/day20.rpy:1016
+translate brazilian day20_ri_sex_097ee088:
+
+    # p "God, I so want to see you naked."
+    p "Deus, eu quero tanto te ver pelada."
+
+# game/day20.rpy:1017
+translate brazilian day20_ri_sex_2d101b07:
+
+    # ri "All in good time. As your superior we still need to do a very thorough final evaluation of your work as a supermarket employee."
+    ri "Tudo em seu tempo. Como sua superior, ainda precisamos fazer uma avaliação final muito meticulosa do seu trabalho como um funcionário de supermercado."
+
+# game/day20.rpy:1019
+translate brazilian day20_ri_sex_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Gostaria de uma bebida?"
+
+# game/day20.rpy:1020
+translate brazilian day20_ri_sex_da386a94:
+
+    # p "No thanks."
+    p "Não obrigado."
+
+# game/day20.rpy:1022
+translate brazilian day20_ri_sex_1a4fa82a:
+
+    # ri "Would you like to get more comfortable?"
+    ri "Gostaria de ficar mais confortável?"
+
+# game/day20.rpy:1023
+translate brazilian day20_ri_sex_adfb9188:
+
+    # p "That would be very nice."
+    p "Isso seria muito bom."
+
+# game/day20.rpy:1024
+translate brazilian day20_ri_sex_047bd1f5:
+
+    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
+    ri "Eu vou tirar os óculos. Eu só achei eles em alguma gaveta e não são a minha medida. Meus olhos meio que doem agora."
+
+# game/day20.rpy:1025
+translate brazilian day20_ri_sex_dc21400d:
+
+    # p "They make you look a bit like Dame Edna as well..."
+    p "Eles fazem você parecer um pouco a Dama Edna também..."
+
+# game/day20.rpy:1026
+translate brazilian day20_ri_sex_64fa58c0:
+
+    # ri "Wahaha! Fuck you, you're such a moodkiller!"
+    ri "Wahaha! Vai se foder, você é um estraga-prazeres tão grande!"
+
+# game/day20.rpy:1027
+translate brazilian day20_ri_sex_804b5e65:
+
+    # p "Those glasses are not the only thing you can lose if I have anything to say about it. I would really like to see those beautiful breasts."
+    p "Esses óculos não são a única coisa que você pode tirar se eu tiver algo a dizer sobre isso. Eu gostaria muito de ver esses seios lindos."
+
+# game/day20.rpy:1029
+translate brazilian day20_ri_sex_0618aa18:
+
+    # ri "So, have you thought about what you're going to do with me? Because as of right now, your evaluation is not looking good."
+    ri "Então, pensou sobre o que você vai fazer comigo? Porque até agora, a sua avaliação não está indo bem."
+
+# game/day20.rpy:1031
+translate brazilian day20_ri_sex_fc19827e:
+
+    # p "I didn't hear you complain the last time we were here..."
+    p "Eu não ouvi você reclamar da última vez que a gente estava aqui..."
+
+# game/day20.rpy:1032
+translate brazilian day20_ri_sex_a3557f80:
+
+    # ri "Yes, that certainly works in your favor. But a girl wants more, you know."
+    ri "Sim, isso certamente conta a seu favor. Mas uma garota quer mais, sabe."
+
+# game/day20.rpy:1034
+translate brazilian day20_ri_sex_a1306849:
+
+    # p "I'll show you something..."
+    p "Vou te mostrar uma coisa..."
+
+# game/day20.rpy:1035
+translate brazilian day20_ri_sex_be0b6bd8:
+
+    # ri "I bet."
+    ri "Aposto."
+
+# game/day20.rpy:1036
+translate brazilian day20_ri_sex_10d940fa:
+
+    # p "You're still wearing too much clothing."
+    p "Você ainda está vestindo roupas demais."
+
+# game/day20.rpy:1037
+translate brazilian day20_ri_sex_d3692d3d:
+
+    # ri "Really? I thought you liked me in a tight business skirt, wearing a revealing blouse. Your words."
+    ri "Sério? Eu pensei que você gostava de mim em uma saia apertada de negócios, vestindo uma blusa reveladora. Suas palavras."
+
+# game/day20.rpy:1039
+translate brazilian day20_ri_sex_cb7d4554:
+
+    # ri "And now you've got me down to my heels. What's a girl gonna think?"
+    ri "E agora você me tem de joelhos. O que uma garota vai pensar?"
+
+# game/day20.rpy:1040
+translate brazilian day20_ri_sex_da4426a8:
+
+    # p "Maybe that girl could suck on my big fat cock."
+    p "Talvez essa garota possa chupar meu grande pau grosso."
+
+# game/day20.rpy:1041
+translate brazilian day20_ri_sex_ec5ad243:
+
+    # "{i}You lower your pants and reveal your dick, standing proud at the sight of Riley's naked body."
+    "{i}Você abaixa as calças para revelar seu pau, em pé com orgulho ao ver o corpo nu da Riley."
+
+# game/day20.rpy:1042
+translate brazilian day20_ri_sex_4830d44d:
+
+    # ri "I must say, it looks rather appetizing."
+    ri "Devo dizer, ele parece bem apetitoso."
+
+# game/day20.rpy:1047
+translate brazilian day20_ri_sex_24007305:
+
+    # "{i}Riley slides off the couch and squats before you, taking your entire member inside of her mouth using long strokes, stimulating the length of your cock."
+    "{i}Riley desliza do sofá e se agacha diante de você, levando seu membro inteiro dentro da boca usando longas esfregadas, estimulando o seu pau todo."
+
+# game/day20.rpy:1049
+translate brazilian day20_ri_sex_a5bc380a:
+
+    # p "God Riley, I didn't know you were so good at this."
+    p "Deus Riley, eu não sabia que você era tão boa nisso."
+
+# game/day20.rpy:1050
+translate brazilian day20_ri_sex_5448aaaf:
+
+    # "{i}Her wet lips slide over the veins of your dick, taking extra care of the sensitive area around your glans."
+    "{i}Os lábios molhados dela passam pelas veias do seu pau, tomando cuidado extra da área sensível por volta das suas glândulas."
+
+# game/day20.rpy:1051
+translate brazilian day20_ri_sex_e3cf2e2a:
+
+    # ri "I didn't show you before, did I? You taste good, [p_name]."
+    ri "Eu não te mostrei antes, mostrei? Você tem um gosto bom, [p_name]."
+
+# game/day20.rpy:1052
+translate brazilian day20_ri_sex_9f40793d:
+
+    # "{i}Riley returns to her cocksucking with renewed fervor. She applies so much suction that it almost seems that she wants to slurp the cum right out of you."
+    "{i}Riley retorna à chupação de pau com fervor renovado. Ela aplica tanta sucção que quase parece que ela quer chupar o sêmen direto de você."
+
+# game/day20.rpy:1053
+translate brazilian day20_ri_sex_1ca99c8b:
+
+    # p "Woah, not so fast! I'm not ready to fill you up just yet."
+    p "Uau, não tão rápido! Ainda não estou pronto para enchê-la."
+
+# game/day20.rpy:1054
+translate brazilian day20_ri_sex_a47b3cec:
+
+    # ri "Mmmmm. What do you have in mind?"
+    ri "Mmmmm. O que você tem em mente?"
+
+# game/day20.rpy:1055
+translate brazilian day20_ri_sex_fe473b1d:
+
+    # p "Stand up and you'll see."
+    p "Fica de pé e você vai ver."
+
+# game/day20.rpy:1062
+translate brazilian day20_ri_sex_a502271c:
+
+    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
+    "{i}Com seu pau duro pressionado contra a coxa dela, você começa a massagear os seios dela, brincando com os mamilos duros. Após você ouvir ela gemer, você introduz a sua outra mão entre as pernas dela."
+
+# game/day20.rpy:1063
+translate brazilian day20_ri_sex_f3b5ce36:
+
+    # ri "Ooooh!"
+    ri "Aaaah!"
+
+# game/day20.rpy:1064
+translate brazilian day20_ri_sex_43488810:
+
+    # p "I'm going to fuck you so hard Riley, but first I have to make sure you're ready."
+    p "Eu vou te foder com tanta força Riley, mas primeiro eu tenho que garantir que você está pronta."
+
+# game/day20.rpy:1065
+translate brazilian day20_ri_sex_5e5bbce4:
+
+    # ri "Oh, I'm ready."
+    ri "Ah, eu estou pronta."
+
+# game/day20.rpy:1066
+translate brazilian day20_ri_sex_feacd9dc:
+
+    # "{i}At those words, you insert a finger inside her wet gash."
+    "{i}Com essas palavras, você insere um dedo dentro da boceta molhada dela."
+
+# game/day20.rpy:1067
+translate brazilian day20_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "P-p-porra!"
+
+# game/day20.rpy:1068
+translate brazilian day20_ri_sex_2431c94e:
+
+    # "{i}You insert another finger inside of her and then another."
+    "{i}Você insere um dedo dentro dela e então outro."
+
+# game/day20.rpy:1069
+translate brazilian day20_ri_sex_fdc0b456:
+
+    # p "I'm going to make you cum."
+    p "Eu vou fazer você gozar."
+
+# game/day20.rpy:1070
+translate brazilian day20_ri_sex_bd2ad48b:
+
+    # "{i}Riley just moans as you move your fingers inside of her, faster and faster, stimulating her g-spot."
+    "{i}Riley só geme enquanto você move seus dedos dentro dela, mais e mais rápido, estimulando o ponto G dela."
+
+# game/day20.rpy:1071
+translate brazilian day20_ri_sex_4df0219c:
+
+    # ri "F-f-fuck! What are you doing?!"
+    ri "P-p-porra! O que você está fazendo?!"
+
+# game/day20.rpy:1072
+translate brazilian day20_ri_sex_665c9643:
+
+    # p "Sssssh..."
+    p "Sssssh..."
+
+# game/day20.rpy:1080
+translate brazilian day20_ri_sex_b2c986bb:
+
+    # "{i}The only thing coming from Riley at this moment are guttural sounds as she orgasms from your penetrating fingers. Her ejaculate is streaming down her inner thighs and even covers her taught calves as she struggles to stand straight on her high heels."
+    "{i}A única coisa sando Riley neste momento são sons roucos do orgasmo com seus dedos penetrantes. A ejaculação dela está escorrendo por dentro das coxas e até cobre as panturrilhas enquanto ela tenta lutar para ficar de pé nos saltos altos."
+
+# game/day20.rpy:1081
+translate brazilian day20_ri_sex_099c6873:
+
+    # p "Now you're ready."
+    p "Agora você está pronta."
+
+# game/day20.rpy:1089
+translate brazilian day20_ri_sex_3a3a096f:
+
+    # "{i}With some encouragement and in the last throes of her orgasm, Riley kneels on the couch and you enter her dripping wet slit."
+    "{i}Com um pouco de encorajamento nos últimos espasmos do orgasmo dela, Riley se ajoelha no sofá e você entra na boceta encharcada dela."
+
+# game/day20.rpy:1090
+translate brazilian day20_ri_sex_2aac7798:
+
+    # ri "Ah! Ah! It's so much!"
+    ri "Ah! Aih! Saiu tanto!"
+
+# game/day20.rpy:1091
+translate brazilian day20_ri_sex_a3c1f138:
+
+    # "{i}You immediately start with deep thrusts, nearly making Riley cum a second time. You slap her bouncing ass until red marks appear on her butt cheeks."
+    "{i}Você imediatamente começa com profundas enfiadas, quase fazendo Riley gozar uma segunda vez. Você dá um tapa na bunda dela até marcas vermelhas aparecerem nas nádegas."
+
+# game/day20.rpy:1092
+translate brazilian day20_ri_sex_46c2ad50:
+
+    # ri "Fuck me harder, I want you so deep inside me, [p_name]!"
+    ri "Me fode com mais força, eu quero você tão fundo dentro de mim, [p_name]!"
+
+# game/day20.rpy:1094
+translate brazilian day20_ri_sex_400b45ad:
+
+    # "{i}You turn the girl around and she pulls up a leg to give you even deeper access to the moist confines of her pussy."
+    "{i}Você vira a garota de lado e ela levanta uma perna para te dar um acesso ainda mais fundo aos confins úmidos da boceta dela."
+
+# game/day20.rpy:1095
+translate brazilian day20_ri_sex_4c3eed5f:
+
+    # ri "That's it, right t-there!"
+    ri "Isso aí, bem a-aí!"
+
+# game/day20.rpy:1096
+translate brazilian day20_ri_sex_e34f450a:
+
+    # "{i}You ram your dick inside of her until Riley's hoarse moans are filled with ultimate pleasure and you feel your orgasm starting to boil inside you."
+    "{i}Você enfia seu pau dentro dela até os gemidos roucos da Riley estarem cheios de prazer final e você sente o seu orgasmo começando a ferver dentro de você."
+
+# game/day20.rpy:1106
+translate brazilian day20_ri_sex_78cfc9ab:
+
+    # p "F-fuck yes! Aaaah!"
+    p "I-isso, caralho! Aaaah!"
+
+# game/day20.rpy:1107
+translate brazilian day20_ri_sex_ab51dfe5:
+
+    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
+    "{i}Sem parar, você enfia seu pau pulsante nela e jorra grossas correntes de gozo dentro da boceta dela."
+
+# game/day20.rpy:1108
+translate brazilian day20_ri_sex_f3a9113e:
+
+    # ri "Don't pull out! I want every last drop inside of me."
+    ri "Não tira! Eu quero cada gota dentro de mim."
+
+# game/day20.rpy:1109
+translate brazilian day20_ri_sex_85a929de:
+
+    # "{i}Her tender pussy is filled with a mixture of your semen and her moisture, which eventually leaks from her gaping pussy. You stay inside her as long as possible, your cock still spurting tiny droplets of cum in the last remnants of your climax."
+    "{i}Sua boceta é preenchida com uma mistura de sua sêmen e seus próprios fluidos, que eventualmente vazam da boceta aberta. Você fica dentro dela o máximo que dá, seu pau ainda jorrando minúsculas gotas de esperma nos final de seu clímax."
+
+# game/day20.rpy:1126
+translate brazilian day20_ri_sex_d3c52b41:
+
+    # p "Open your mouth Riley."
+    p "Abre a boca Riley."
+
+# game/day20.rpy:1127
+translate brazilian day20_ri_sex_c13aa583:
+
+    # ri "I want to taste all of it."
+    ri "Eu quero sentir o gosto de tudo."
+
+# game/day20.rpy:1128
+translate brazilian day20_ri_sex_78cfc9ab_1:
+
+    # p "F-fuck yes! Aaaah!"
+    p "I-isso, caralho! Aaaah!"
+
+# game/day20.rpy:1129
+translate brazilian day20_ri_sex_34e79b12:
+
+    # "{i}Multiple streams of thick cream splash inside her mouth and on the side of her face. Delirious, she keeps your load inside of her open mouth, waiting for more and eventually swallowing your warm gift."
+    "{i}Múltiplas correntes de creme grosso caem dentro da boca dela e no lado do rosto. Delirante, ela mantêm a seu sêmen dentro a boca aberta, esperando por mais e eventualmente engolindo o seu presente quente."
+
+# game/day20.rpy:1143
+translate brazilian day20_ri_sex_0dc5917c:
+
+    # "{i}At the last moment you pull your pulsating cock outside of her tender pussy and unload thick streams of cream on her belly. It slowly leaks down into her pubic hair and Riley deliriously rubs her body with your cum."
+    "{i}No último momento, você puxa seu pau pulsando para fora da boceta tenra dela e descarrega grossas correntes de creme em sua boceta. Ele lentamente vaza até o pelo púbico e Riley delirantemente esfrega o corpo dela com seu sêmen."
+
+# game/day20.rpy:1158
+translate brazilian day20_ri_sex_3321d927:
+
+    # p "I want to see your face when I cum, Riley."
+    p "Eu quero ver o seu rosto quando eu gozar, Riley."
+
+# game/day20.rpy:1159
+translate brazilian day20_ri_sex_34ed9f2a:
+
+    # ri "I want to have all of it!"
+    ri "Eu quero tudo!"
+
+# game/day20.rpy:1160
+translate brazilian day20_ri_sex_62b90f21:
+
+    # "{i}Multiple streams of thick cream splash on Riley's delirious face. There's so much of it that her shoulder and breasts are also covered in big splashes of your cum."
+    "{i}Múltiplas correntes de creme grosso respingam no rosto delirante da Riley. Tem tanta que o ombro e seios dela estão também cobertos em grandes quantidades de seu sêmen."
+
+# game/day20.rpy:1167
+translate brazilian day20_ri_sex_e87ec995:
+
+    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
+    "{i}Exausto, você cai no sofá. Ele continua quente e liso com os fluidos do sexo de vocês. Riley se limpa um pouco e vem até o seu lado."
+
+# game/day20.rpy:1169
+translate brazilian day20_ri_sex_e6a7377e:
+
+    # ri "I didn't know this evening was going to be so exciting."
+    ri "Eu não sabia que essa noite ia ser tão empolgante."
+
+# game/day20.rpy:1170
+translate brazilian day20_ri_sex_d37fa892:
+
+    # p "I take employee performance reviews very, very seriously."
+    p "Eu levo avaliação de performance de funcionário muito, muito seriamente."
+
+# game/day20.rpy:1171
+translate brazilian day20_ri_sex_b6a69c3a:
+
+    # ri "I know that now."
+    ri "Eu sei disso agora."
+
+# game/day20.rpy:1172
+translate brazilian day20_ri_sex_ebc7bc5c:
+
+    # ri "Allow me to bestow the title 'Employee of the Year' on you. You're not working at the supermarket anymore, but who gives a fuck."
+    ri "Permita-me lhe conceder o título de 'Funcionário do ano' a você. Você não está mais trabalhando no supermercado, mas quem se importa."
+
+# game/day20.rpy:1173
+translate brazilian day20_ri_sex_de51156c:
+
+    # p "I'm absolutely honored."
+    p "Estou absolutamente honrado."
+
+# game/day20.rpy:1185
+translate brazilian day20_b_licking_night_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day20.rpy:1189
+translate brazilian day20_b_licking_night_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day20.rpy:1192
+translate brazilian day20_b_licking_night_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day20.rpy:1202
+translate brazilian day20_b_licking_night_b7545898:
+
+    # p "{i}(Let's make our [b_name] even more crazy...)"
+    p "{i}(Vamos deixar a nossa [b_name] ainda mais louca...)"
+
+# game/day20.rpy:1206
+translate brazilian day20_b_licking_night_c8f7ae42:
+
+    # p "I'm back."
+    p "Voltei."
+
+# game/day20.rpy:1207
+translate brazilian day20_b_licking_night_9aff4ccc:
+
+    # b "Fuck no. Not again."
+    b "Nem fodendo. De novo não."
+
+# game/day20.rpy:1208
+translate brazilian day20_b_licking_night_56591090:
+
+    # p "You seemed to enjoy it earlier today."
+    p "Você pareceu gostar hoje mais cedo."
+
+# game/day20.rpy:1211
+translate brazilian day20_b_licking_night_b10c2834:
+
+    # "{i}You crawl onto the bed and open your sister's legs, removing her panties in one fell swoop."
+    "{i}Você sobe na cama e abre as pernas da sua irmã, removendo a calcinha de uma vez só."
+
+# game/day20.rpy:1213
+translate brazilian day20_b_licking_night_cb7230fb:
+
+    # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
+    "{i}Você rasteja sobe na cama e abre as pernas da [b_name], removendo a calcinha de uma vez só."
+
+# game/day20.rpy:1215
+translate brazilian day20_b_licking_night_e2d724e5:
+
+    # p "{i}(I went easy on [b_name] yesterday, but that blowjob sure left me wanting more.)"
+    p "{i}(Eu peguei leve com a [b_name] ontem, mas aquela chupada com certeza me deixou querendo mais.)"
+
+# game/day20.rpy:1216
+translate brazilian day20_b_licking_night_be898db7:
+
+    # p "{i}(I'm not sure how we're going to reach the next level. She took it in her mouth, but I'm pretty sure she isn't ready for anything more rigorous.)"
+    p "{i}(Eu não tenho certeza de como vamos chegar no próximo nível. Ela levou na boca, mas eu tenho bastante certeza que ela não está pronta para nada mais rigoroso.)"
+
+# game/day20.rpy:1217
+translate brazilian day20_b_licking_night_8f914c0f:
+
+    # p "{i}(But I might get her where I want if I'm careful and patient. Let's see if I can make a start with her today.)"
+    p "{i}(Mas eu posso levar ela até eu quero se eu for cuidadoso e paciente. Vamos ver se consigo começar com ela hoje.)"
+
+# game/day20.rpy:1221
+translate brazilian day20_b_licking_night_35ba70ca:
+
+    # b "What?"
+    b "O quê?"
+
+# game/day20.rpy:1222
+translate brazilian day20_b_licking_night_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Só tira as roupas, eu quero sentir o gosto da sua boceta."
+
+# game/day20.rpy:1223
+translate brazilian day20_b_licking_night_e352c4e7:
+
+    # b "I was going to sleep."
+    b "Eu estava indo dormir."
+
+# game/day20.rpy:1224
+translate brazilian day20_b_licking_night_6d63ec83:
+
+    # p "No, you're not."
+    p "Não, você não está."
+
+# game/day20.rpy:1225
+translate brazilian day20_b_licking_night_f4a6d83e:
+
+    # b "Yes, I am."
+    b "Sim eu estou."
+
+# game/day20.rpy:1226
+translate brazilian day20_b_licking_night_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Vai se comportar que nem uma criança? Eu podia simplesmente arrancar as suas roupas, sabe."
+
+# game/day20.rpy:1228
+translate brazilian day20_b_licking_night_e4f370a8:
+
+    # b "I know."
+    b "Eu sei."
+
+# game/day20.rpy:1231
+translate brazilian day20_b_licking_night_baa94679:
+
+    # "{i}Your sister reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Sua irmã relutantemente remove as roupas e senta na cama. Você rasteja ao lado dela e abre suas pernas."
+
+# game/day20.rpy:1233
+translate brazilian day20_b_licking_night_22d19280:
+
+    # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}[b_name] relutantemente remove as roupas e senta na cama. Você rasteja ao lado dela e abre suas pernas."
+
+# game/day20.rpy:1239
+translate brazilian day20_b_licking_night_f8aece55:
+
+    # "{i}You firmly grasp her upper legs and go down on her pussy. The smell of her sex fills your nostrils and you begin to eat her out."
+    "{i}Você agarra firmemente as pernas dela e cai de boca na boceta dela. O cheiro do sexo dela preenche as suas narinas e você começa a comer ela."
+
+# game/day20.rpy:1240
+translate brazilian day20_b_licking_night_49dff9a6:
+
+    # b "A-a-animal!"
+    b "A-a-animal!"
+
+# game/day20.rpy:1241
+translate brazilian day20_b_licking_night_20e62e8f:
+
+    # p "Shall I roar for you like lion?"
+    p "Quer que eu ruja que nem um leão?"
+
+# game/day20.rpy:1242
+translate brazilian day20_b_licking_night_4c747c64:
+
+    # "{i}The stimulation of [b_name]'s vagina isn't tender, only geared towards maximizing her pleasure. Your tongue is alternating between penetrating her slit and gyrating on her erect clit, all to build up to a monumental climax."
+    "{i}O estímulo da vagina da [b_name] não é tenra, apenas orientada para maximizar o prazer dela. Sua língua está alternando entre penetrar a boceta dela e circular seu clitóris ereto, tudo para criar um clímax monumental."
+
+# game/day20.rpy:1244
+translate brazilian day20_b_licking_night_8916675f:
+
+    # b "Ooooh!"
+    b "Aaaah!"
+
+# game/day20.rpy:1245
+translate brazilian day20_b_licking_night_89365358:
+
+    # "{i}[b_name] wriggles beneath your touch and she crumples the bedsheets with her clawed hands. Every fiber of her body is ready for orgasmic release... And then you stop abruptly."
+    "{i}[b_name] se contorce sob seu toque e amassa os lençóis com as mãos agarradas. Cada fibra do corpo dela está pronta para uma liberação orgásmica... E então você para bruscamente."
+
+# game/day20.rpy:1251
+translate brazilian day20_b_licking_night_a04a6859:
+
+    # p "Good night, sweet sister."
+    p "Boa noite, doce irmã."
+
+# game/day20.rpy:1253
+translate brazilian day20_b_licking_night_d98faf4a:
+
+    # p "Good night, sweet [b_name]."
+    p "Boa noite, doce [b_name]."
+
+# game/day20.rpy:1256
+translate brazilian day20_b_licking_night_370ba8fd:
+
+    # b "No! No! Not again!"
+    b "Não! Não! De novo não!"
+
+# game/day20.rpy:1257
+translate brazilian day20_b_licking_night_66324063:
+
+    # b "Why?!"
+    b "Por quê?!"
+
+# game/day20.rpy:1259
+translate brazilian day20_b_licking_night_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "O quê?! Não, você não pode..."
+
+# game/day20.rpy:1260
+translate brazilian day20_b_licking_night_47fea10d:
+
+    # p "I can't?"
+    p "Eu não posso?"
+
+# game/day20.rpy:1261
+translate brazilian day20_b_licking_night_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Eu só... Vai se foder!"
+
+# game/day20.rpy:1262
+translate brazilian day20_b_licking_night_96c772af:
+
+    # p "I'm so tired, I really need to get some sleep."
+    p "Eu estou tão cansado, eu preciso mesmo dormir um pouco."
+
+# game/day20.rpy:1263
+translate brazilian day20_b_licking_night_13af8e6a:
+
+    # p "I'm sure a good girl like you can finish it herself."
+    p "Eu tenho certeza que uma boa garota que nem você pode terminar sozinha."
+
+# game/day20.rpy:1265
+translate brazilian day20_b_licking_night_6fdb4e3f:
+
+    # b "You fucking asshole!"
+    b "Sua porra de cuzão!"
+
+# game/day20.rpy:1266
+translate brazilian day20_b_licking_night_00d06707:
+
+    # p "{i}(She's nearly ready... I'm going to try my luck tomorrow.)"
+    p "{i}(Ela está quase pronta... Vou tentar a minha sorte amanhã.)"
+
+# game/day20.rpy:1268
+translate brazilian day20_b_licking_night_38f95ab2:
+
+    # p "{i}(I'm not sure if this is enough, but I'm going to try my luck tomorrow.)"
+    p "{i}(Eu não tenho certeza se isso é suficiente, mas vou tentar a minha sorte amanhã.)"
+

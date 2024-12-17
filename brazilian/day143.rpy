@@ -6408,3 +6408,29 @@ translate brazilian day143_flashback_69f7f051:
     # "{i}When you fall asleep, the dream returns, but your mind seems to have skipped all the sexy bits."
     "{i}Quando você cai no sono, o sonho retorna, mas sua mente parece ter pulado as partes sexuais."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day143.rpy:1832
+translate brazilian day143_rb_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Você deseja habilitar esportes aquáticos para esta cena?"
+
+# game/day143.rpy:1836
+translate brazilian day143_rb_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Esportes aquáticos habilitados"
+
+# game/day143.rpy:1839
+translate brazilian day143_rb_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Desportos aquáticos desativados"
+
+translate brazilian strings:
+
+    # game/day143.rpy:1997
+    old "Nia"
+    new "Nia"
+

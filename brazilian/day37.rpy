@@ -4768,3 +4768,1895 @@ translate brazilian day37_l_deflower_3e8e05a8:
     # "{i}There's no doubt in your mind where you'll finish, so as your orgasm surges, you reluctantly pull out of her."
     "{i}Não há dúvida em sua mente de onde você vai gozar, então conforme seu orgasmo aumenta, você relutantemente sai dela."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day37.rpy:774
+translate brazilian day37_r_b_sex_0261ae68:
+
+    # "{i}[b_name] still wears that enigmatic half-smile when she walks towards you."
+    "{i}[b_name] ainda usa aquele meio sorriso enigmático quando caminha em sua direção."
+
+# game/day37.rpy:777
+translate brazilian day37_r_b_sex_3e1640f5:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her sister on the mouth."
+    "{i}Preparando-se para um tapa, ela o surpreende ao segurar o rosto de [r_name] e beijar sua irmã na boca."
+
+# game/day37.rpy:779
+translate brazilian day37_r_b_sex_ee924156:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her friend on the mouth."
+    "{i}Preparando-se para um tapa, ela o surpreende ao segurar o rosto de [r_name] e beijar sua amiga na boca."
+
+# game/day37.rpy:781
+translate brazilian day37_r_b_sex_cd0ff4f1:
+
+    # b "Is this really what you want?"
+    b "É isso mesmo que vocês querem?"
+
+# game/day37.rpy:782
+translate brazilian day37_r_b_sex_b881e13c:
+
+    # p "Yes it is."
+    p "Sim, é."
+
+# game/day37.rpy:783
+translate brazilian day37_r_b_sex_f93c092a:
+
+    # r "It's what we want."
+    r "É o que queremos."
+
+# game/day37.rpy:785
+translate brazilian day37_r_b_sex_a73c0f44:
+
+    # "{i}Satisfied by your answer, [b_name] turns her head towards you and kisses you lovingly, placing an affectionate hand on [r_name]'s ass."
+    "{i}Satisfeita com a sua resposta, [b_name] vira a cabeça em sua direção e o beija carinhosamente, colocando uma mão carinhosa na bunda de [r_name]."
+
+# game/day37.rpy:786
+translate brazilian day37_r_b_sex_941b354c:
+
+    # "{i}She then whispers something in [r_name]'s ear, who begins the giggle and lets your cock slip out of her."
+    "{i}Ela então sussurra algo no ouvido de [r_name], que começa a rir e deixa seu pau escorregar para fora dela."
+
+# game/day37.rpy:787
+translate brazilian day37_r_b_sex_d88cb631:
+
+    # r "This is going to be fun!"
+    r "Isso vai ser divertido!"
+
+# game/day37.rpy:789
+translate brazilian day37_r_b_sex_a2c6f999:
+
+    # "{i}You have a feeling she's right as the girls kiss again and hesitantly touch each other."
+    "{i}Você tem a sensação que ela está certa quando as garotas se beijam novamente e se tocam hesitantemente."
+
+# game/day37.rpy:790
+translate brazilian day37_r_b_sex_46cb1c22:
+
+    # "{i}[r_name] clearly is the horniest of the two, having been treated by you already and takes the lead."
+    "{i}[r_name] claramente é a mais excitada das duas, já tendo sido cuidada por você, e sai na frente."
+
+# game/day37.rpy:797
+translate brazilian day37_r_b_sex_69524a16:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her sister's tongue touches her pussy."
+    "{i}Antes de [b_name] se deitar na cama, ela lança um olhar para você, uma mistura de desejo e uma pitada de culpa, logo substituída por felicidade, quando a língua de sua irmã toca sua boceta."
+
+# game/day37.rpy:799
+translate brazilian day37_r_b_sex_fb631049:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her friend's tongue touches her pussy."
+    "{i}Antes de [b_name] se deitar na cama, ela lança um olhar para você, uma mistura de desejo e uma pitada de culpa, logo substituída por felicidade, quando a língua de sua amiga toca sua boceta."
+
+# game/day37.rpy:800
+translate brazilian day37_r_b_sex_866c7524:
+
+    # b "Oh, [r_name]!"
+    b "Aih, [r_name]!"
+
+# game/day37.rpy:803
+translate brazilian day37_r_b_sex_2f3217e1:
+
+    # "{i}The familiarity with which both siblings treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}A familiaridade com que ambas irmãs tratam seus corpos é uma alegria de ver, e [r_name] atinge o ponto G de [b_name] imediatamente."
+
+# game/day37.rpy:805
+translate brazilian day37_r_b_sex_fea405a2:
+
+    # "{i}The familiarity with which both friends treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}A familiaridade com que os duas amigas tratam seus corpos é uma alegria de se ver, e [r_name] atinge o ponto ideal de [b_name] imediatamente."
+
+# game/day37.rpy:811
+translate brazilian day37_r_b_sex_304d226c:
+
+    # "{i}[r_name]'s ass wiggles suggestively in the air, and you cannot contain yourself any longer."
+    "{i}A bunda de [r_name] balança sugestivamente no ar e você não consegue mais se conter."
+
+# game/day37.rpy:813
+translate brazilian day37_r_b_sex_f3a8c47c:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her own sister."
+    "{i}Você empurra seu pau contra a boceta molhada de [r_name], para continuar a fodê-la enquanto ela come sua própria irmã."
+
+# game/day37.rpy:815
+translate brazilian day37_r_b_sex_fe691908:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her dear friend."
+    "{i}Você empurra seu pau contra a boceta molhada de [r_name], para continuar a fodê-la enquanto ela come sua querida amiga."
+
+# game/day37.rpy:816
+translate brazilian day37_r_b_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Hmmmm!"
+
+# game/day37.rpy:818
+translate brazilian day37_r_b_sex_18a8fab2:
+
+    # "{i}Not wanting to disturb [r_name], you start out with gentle thrusts, feeling every inch of her love tunnel."
+    "{i}Não querendo perturbar [r_name], você começa com enfiadas suaves, sentindo cada centímetro da boceta dela."
+
+# game/day37.rpy:819
+translate brazilian day37_r_b_sex_55bc6403:
+
+    # b "Is he fucking you [r_name]?"
+    b "Ele está te fodendo [r_name]?"
+
+# game/day37.rpy:820
+translate brazilian day37_r_b_sex_3205fe03:
+
+    # r "Oh yes!"
+    r "Ah sim!"
+
+# game/day37.rpy:821
+translate brazilian day37_r_b_sex_0261bcfc:
+
+    # b "Does it feel good?!"
+    b "É bom?!"
+
+# game/day37.rpy:822
+translate brazilian day37_r_b_sex_5dfa2c83:
+
+    # r "Oh fuck yes!"
+    r "Aih, porra, sim!"
+
+# game/day37.rpy:824
+translate brazilian day37_r_b_sex_bd136719:
+
+    # "{i}[r_name] presses her slithering tongue diligently against [b_name]'s pussy and starts to stimulate the clitoris directly."
+    "{i}[r_name] pressiona sua língua deslizando cuidadosamente contra a boceta de [b_name] e começa a estimular o clitóris diretamente."
+
+# game/day37.rpy:825
+translate brazilian day37_r_b_sex_2745ee7b:
+
+    # b "Oh god!"
+    b "Aih meu deus!"
+
+# game/day37.rpy:826
+translate brazilian day37_r_b_sex_eaef6154:
+
+    # b "Oh yes!"
+    b "Aih, isso!"
+
+# game/day37.rpy:833
+translate brazilian day37_r_b_sex_c8db291b:
+
+    # "{i}Pressing her younger sister's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Pressionando o rosto da irmã mais nova contra a própria boceta, [b_name] tem um orgasmo, e você aumenta o ritmo das enfiadas na [r_name]."
+
+# game/day37.rpy:835
+translate brazilian day37_r_b_sex_0f24c741:
+
+    # "{i}Pressing her younger friend's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Pressionando o rosto da amiga mais nova contra a própria boceta, [b_name] tem um orgasmo, e você aumenta o ritmo das enfiadas na [r_name]."
+
+# game/day37.rpy:840
+translate brazilian day37_r_b_sex_2c01e94a:
+
+    # "{i}Pretty soon [r_name] moans hard in [b_name]'s cunt as she too climaxes from the stimulation of your hard cock."
+    "{i}Logo [r_name] geme alto na boceta da [m_name] quando ela mesma goza do estímulo do seu pau duro."
+
+# game/day37.rpy:851
+translate brazilian day37_r_b_sex_cb03dde3:
+
+    # "{i}As [r_name] slides off your dick, the two girls regard you with smoldering eyes, their wet pussies glimmering in the lamp light."
+    "{i}Quando [r_name] sai do seu pau, as duas garotas olham para você com um olhar ardente, suas bocetas brilhando sob a luz da lâmpada."
+
+# game/day37.rpy:855
+translate brazilian day37_r_b_sex_38fac03f:
+
+    # "{i}[r_name]'s pussy is too good to pass up, so you grab her body again and re-enter her."
+    "{i}A boceta da [r_name] é boa demais para deixar passar, então você agarra seu corpo e a penetra novamente."
+
+# game/day37.rpy:861
+translate brazilian day37_r_b_sex_3059bfb5:
+
+    # r "Yes [p_name]!"
+    r "Isso, [p_name]!"
+
+# game/day37.rpy:862
+translate brazilian day37_r_b_sex_a1d697ab:
+
+    # r "Keep fucking me!"
+    r "Continua me fodendo!"
+
+# game/day37.rpy:865
+translate brazilian day37_r_b_sex_04bba71b:
+
+    # "[b_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] mantém sua atenção em sua irmã, deixando-a mais confortável, acariciando seus seios e beijando seus lábios carnudos."
+
+# game/day37.rpy:867
+translate brazilian day37_r_b_sex_13d54f9f:
+
+    # "[b_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] mantém sua atenção em sua amiga, deixando-a mais confortável, acariciando seus seios e beijando seus lábios carnudos."
+
+# game/day37.rpy:868
+translate brazilian day37_r_b_sex_5961bf0b:
+
+    # r "I love you!"
+    r "Eu te amo!"
+
+# game/day37.rpy:869
+translate brazilian day37_r_b_sex_d12c244a:
+
+    # r "I l-love you both!"
+    r "Eu a-amo vocês dois!"
+
+# game/day37.rpy:870
+translate brazilian day37_r_b_sex_c908cec5:
+
+    # "{i}Your cock is twitching with each thrust and you know you'll cum soon."
+    "{i}Seu pau se contorce com cada impulso e você sabe que vai gozar em breve."
+
+# game/day37.rpy:874
+translate brazilian day37_r_b_sex_857d904a:
+
+    # "{i}[b_name]'s pussy is too good to pass up, so you grab her and enter her, a squee of delight escaping her."
+    "{i}A boceta de [b_name] é boa demais para deixar passar, então você a agarra e penetra nela, um gritinho de prazer escapando dela."
+
+# game/day37.rpy:880
+translate brazilian day37_r_b_sex_3f7d13a6:
+
+    # "{i}From the moment you've entered her, you know that you've hit a sweet spot for you both."
+    "{i}A partir do momento em que você entrou nela, você sabe que atingiu um ponto ideal para vocês dois."
+
+# game/day37.rpy:881
+translate brazilian day37_r_b_sex_b118b08e:
+
+    # "{i}[b_name] stares at you in rapture, biting her lower lip, every muscle in her body taut in anticipation."
+    "{i}[b_name] encara você em êxtase, mordendo o lábio inferior, todos os músculos de seu corpo tensos em antecipação."
+
+# game/day37.rpy:882
+translate brazilian day37_r_b_sex_c11078f8:
+
+    # p "Are you going to cum for me, baby?"
+    p "Você vai gozar para mim, amor?"
+
+# game/day37.rpy:883
+translate brazilian day37_r_b_sex_3fd3887e:
+
+    # b "Y-yes..."
+    b "S-sim..."
+
+# game/day37.rpy:884
+translate brazilian day37_r_b_sex_eaef6154_1:
+
+    # b "Oh yes!"
+    b "Aih, isso!"
+
+# game/day37.rpy:886
+translate brazilian day37_r_b_sex_f87f9c2d:
+
+    # b "Don't stop!"
+    b "Não para!"
+
+# game/day37.rpy:887
+translate brazilian day37_r_b_sex_f8439e45:
+
+    # b "Don't you dare stop!"
+    b "Não se atreva a parar!"
+
+# game/day37.rpy:888
+translate brazilian day37_r_b_sex_63472302:
+
+    # "{i}Your cock angled a certain way, you're causing [b_name] to experience deep pleasure, her pussy is getting wetter and wetter."
+    "{i}Com seu pau inclinado de uma certa maneira, você está fazendo com que [b_name] experimente um prazer profundo, a boceta dela está ficando cada vez mais molhada."
+
+# game/day37.rpy:890
+translate brazilian day37_r_b_sex_f17408ce:
+
+    # "[r_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] foca em sua irmã, fazendo-a se sentir mais confortável acariciando seus seios e beijando seus lábios carnudos."
+
+# game/day37.rpy:892
+translate brazilian day37_r_b_sex_775922d3:
+
+    # "[r_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] foca em sua amiga, fazendo-a se sentir mais confortável acariciando seus seios e beijando seus lábios carnudos."
+
+# game/day37.rpy:893
+translate brazilian day37_r_b_sex_ee1c7da6:
+
+    # r "You're so wet, [b_name]!"
+    r "Você está tão molhada, [b_name]!"
+
+# game/day37.rpy:894
+translate brazilian day37_r_b_sex_e924b776:
+
+    # b "I-I... I k-knowww!"
+    b "E-Eu... S-seiiii!"
+
+# game/day37.rpy:901
+translate brazilian day37_r_b_sex_23c79517:
+
+    # "{i}When you thrust deep inside her, [b_name] begins to tremble, and a clawed hand slaps on your back."
+    "{i}Quando você enfia profundamente dentro dela, [b_name] começa a tremer e uma mão em garra bate em suas costas."
+
+# game/day37.rpy:902
+translate brazilian day37_r_b_sex_1bb9711e:
+
+    # "{i}Squirt is leaking out of her cunt and after one last stroke of your cock, you slip out of her and she sprays the bed with her juices."
+    "{i}Esguicho está vazando de sua boceta, e depois de uma última enfiada de seu pênis, você o tira dela e ela ejacula na cama."
+
+# game/day37.rpy:904
+translate brazilian day37_r_b_sex_04b0bc80:
+
+    # b "F-f-ffuuuu..."
+    b "P-p-ppooo..."
+
+# game/day37.rpy:905
+translate brazilian day37_r_b_sex_4ac85c47:
+
+    # b "Oh [p_name]!"
+    b "Aih, [p_name]!"
+
+# game/day37.rpy:908
+translate brazilian day37_r_b_sex_ab56e5e9:
+
+    # "{i}Your sister convulses as the last streams of ejaculate leave her vagina."
+    "{i}Sua irmã convulsiona quando os últimos fluxos de ejaculação deixam sua vagina."
+
+# game/day37.rpy:910
+translate brazilian day37_r_b_sex_9dcf900c:
+
+    # "{i}Your friend convulses as the last streams of ejaculate leave her vagina."
+    "{i}Sua amiga convulsiona quando os últimos fluxos de ejaculação deixam sua vagina."
+
+# game/day37.rpy:911
+translate brazilian day37_r_b_sex_0ccf25cc:
+
+    # r "That was awesome."
+    r "Isso foi incrível."
+
+# game/day37.rpy:912
+translate brazilian day37_r_b_sex_e46e2f63:
+
+    # "{i}[b_name] can only smile at her, temporarily incapable of speech."
+    "{i}[b_name] só consegue sorrir para ela, temporariamente incapaz de falar."
+
+# game/day37.rpy:914
+translate brazilian day37_r_b_sex_21185f76:
+
+    # "{i}The sight of your sisters covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}Ver suas irmãs cobertas de esguicho o deixa com um tesão inacreditável e ansioso por um orgasmo."
+
+# game/day37.rpy:916
+translate brazilian day37_r_b_sex_5e55c334:
+
+    # "{i}The sight of [b_name] and [r_name] covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}Ver [b_name] e [r_name] cobertas de esguicho o deixa com um tesão inacreditável e você anseia por um orgasmo."
+
+# game/day37.rpy:932
+translate brazilian day37_r_b_sex_6f37408b:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside your little sister, and soon enough, your seed starts flowing inside of her."
+    "{i}Apesar da atração pela boceta molhada de [b_name], você decide ejacular dentro de sua irmã mais nova e logo seu sêmen começa a fluir dentro dela."
+
+# game/day37.rpy:934
+translate brazilian day37_r_b_sex_e6cf135e:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside [r_name], and soon enough, your seed starts flowing inside of her."
+    "{i}Apesar da atração pela boceta molhada de [b_name], você decide ejacular dentro de [r_name] e logo seu sêmen começa a fluir dentro dela."
+
+# game/day37.rpy:937
+translate brazilian day37_r_b_sex_d83845e4:
+
+    # "{i}A desire to cream your little sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}O desejo de gozar em sua irmãzinha com toda a força de seu orgasmo o vence em segundos, e seu sêmen começa a fluir dentro dela."
+
+# game/day37.rpy:939
+translate brazilian day37_r_b_sex_8db2f62d:
+
+    # "{i}A desire to cream [r_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}O desejo de gozar em [r_name] com toda a força do seu orgasmo o vence em segundos, e seu sêmen começa a fluir dentro dela."
+
+# game/day37.rpy:943
+translate brazilian day37_r_b_sex_60bec761:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her sister, a little envious of the treatment the younger girl has received."
+    "{i}Sorrindo, [r_name] se masturba enquanto seu esperma escapa da boceta, [b_name] beija sua irmã, com um pouco de inveja do tratamento que a garota mais jovem recebeu."
+
+# game/day37.rpy:945
+translate brazilian day37_r_b_sex_f79e8759:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her friend, a little envious of the treatment the younger girl has received."
+    "{i}Sorrindo, [r_name] se masturba enquanto seu esperma escapa da boceta, [b_name] beija sua amiga, com um pouco de inveja do tratamento que a garota mais jovem recebeu."
+
+# game/day37.rpy:964
+translate brazilian day37_r_b_sex_f648e5eb:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your older sister."
+    "{i}A boceta molhada de [b_name] é tão atraente, você decide transar com ela novamente e terminar dentro de sua irmã mais velha."
+
+# game/day37.rpy:966
+translate brazilian day37_r_b_sex_9db498b6:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your girl."
+    "{i}A boceta molhada de [b_name] é tão atraente, você decide transar com ela novamente e terminar dentro de sua garota."
+
+# game/day37.rpy:968
+translate brazilian day37_r_b_sex_4e056e92:
+
+    # "{i}Soon enough, your seed starts flowing inside of her, and [b_name] moans in rapturous acceptance."
+    "{i}Logo seu sêmen começa a fluir dentro dela e [b_name] geme em aceitação extasiada."
+
+# game/day37.rpy:972
+translate brazilian day37_r_b_sex_aa4e8d70:
+
+    # "{i}A desire to cream your older sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}O desejo de gozar em sua irmã mais velha com toda a força do seu orgasmo o vence em segundos, e seu sêmen começa a fluir dentro dela."
+
+# game/day37.rpy:974
+translate brazilian day37_r_b_sex_63ceb15f:
+
+    # "{i}A desire to cream [b_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}O desejo de gozar em [b_name] com toda a força do seu orgasmo o vence em segundos, e seu sêmen começa a fluir dentro dela."
+
+# game/day37.rpy:979
+translate brazilian day37_r_b_sex_e54b12ac:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her sister, a little envious of the treatment the older girl has received."
+    "{i}Sorrindo, [b_name] se masturba enquanto seu esperma escapa da boceta. [r_name] beija sua irmã, com um pouco de inveja do tratamento que a garota mais velha recebeu."
+
+# game/day37.rpy:981
+translate brazilian day37_r_b_sex_aa991e34:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her friend, a little envious of the treatment the older girl has received."
+    "{i}Sorrindo, [b_name] se masturba enquanto seu esperma escapa da boceta. [r_name] beija sua amiga, com um pouco de inveja do tratamento que a garota mais velha recebeu."
+
+# game/day37.rpy:998
+translate brazilian day37_r_b_sex_9c872b25:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Você começa a se masturbar na frente de suas irmãs, seu olhar encarando seus corpos nus, escorregadios de esguicho."
+
+# game/day37.rpy:1000
+translate brazilian day37_r_b_sex_abdc207b:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Você começa a se masturbar na frente de suas garotas, olhar encarando seus corpos nus, escorregadios de esguicho."
+
+# game/day37.rpy:1002
+translate brazilian day37_r_b_sex_afccc776:
+
+    # p "I'm so close!"
+    p "Estou tão perto!"
+
+# game/day37.rpy:1003
+translate brazilian day37_r_b_sex_78ae37fc:
+
+    # r "Are you going to cum for us?"
+    r "Você vai gozar para nós?"
+
+# game/day37.rpy:1004
+translate brazilian day37_r_b_sex_071b2a1d:
+
+    # p "Yes!"
+    p "Sim!"
+
+# game/day37.rpy:1005
+translate brazilian day37_r_b_sex_9d301335:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their bodies."
+    "{i}[b_name] e [r_name] estão prontas para seu sêmen, deitando-se convidativamente perto de você, esperando que seu orgasmo cubra seus corpos."
+
+# game/day37.rpy:1007
+translate brazilian day37_r_b_sex_1cfd043b:
+
+    # "{i}When it finally comes, you manage to treat both of their bellies to a blast of cum, and both girls seem very satisfied."
+    "{i}Quando finalmente chega, você consegue melar as barrigas de ambas com uma explosão de gozo e as duas parecem muito satisfeitas."
+
+# game/day37.rpy:1022
+translate brazilian day37_r_b_sex_9c872b25_1:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Você começa a se masturbar na frente de suas irmãs, seu olhar encarando seus corpos nus, escorregadios de esguicho."
+
+# game/day37.rpy:1024
+translate brazilian day37_r_b_sex_abdc207b_1:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Você começa a se masturbar na frente de suas garotas, olhar encarando seus corpos nus, escorregadios de esguicho."
+
+# game/day37.rpy:1026
+translate brazilian day37_r_b_sex_afccc776_1:
+
+    # p "I'm so close!"
+    p "Estou tão perto!"
+
+# game/day37.rpy:1027
+translate brazilian day37_r_b_sex_78ae37fc_1:
+
+    # r "Are you going to cum for us?"
+    r "Você vai gozar para nós?"
+
+# game/day37.rpy:1028
+translate brazilian day37_r_b_sex_071b2a1d_1:
+
+    # p "Yes!"
+    p "Sim!"
+
+# game/day37.rpy:1029
+translate brazilian day37_r_b_sex_24fbbf20:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their faces."
+    "{i}[b_name] e [r_name] estão prontas para seu sêmen, deitando-se convidativamente perto de você, esperando que seu orgasmo cubra seus rostos."
+
+# game/day37.rpy:1031
+translate brazilian day37_r_b_sex_c7529624:
+
+    # "{i}When it finally comes, you manage to treat both of their faces to a blast of cum, and both girls seem very satisfied."
+    "{i}Quando finalmente chega, você consegue melar os rostos de ambas com uma explosão de gozo e as duas parecem muito satisfeitas."
+
+# game/day37.rpy:1041
+translate brazilian day37_r_b_sex_722a8bc7:
+
+    # "{i}Still relishing the afterglow, [b_name] kisses [r_name] passionately."
+    "{i}Ainda saboreando o momento, [b_name] beija [r_name] apaixonadamente."
+
+# game/day37.rpy:1043
+translate brazilian day37_r_b_sex_f94dd09d:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your sisters can come to love each other as more than just family."
+    "{i}É nesse momento que você sabe que algo importante aconteceu e que ambas as suas irmãs podem vir a se amar como algo mais do que apenas uma família."
+
+# game/day37.rpy:1045
+translate brazilian day37_r_b_sex_a3639d07:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your friends can come to love each other as more than just friends."
+    "{i}É nesse momento que você sabe que algo importante aconteceu e que suas duas amigas podem vir a se amar como mais do que apenas amigas."
+
+# game/day37.rpy:1047
+translate brazilian day37_r_b_sex_28ae4a57:
+
+    # "{i}Both girls lie with you and you stroke their soft skin as the morning light peeks through the curtains."
+    "{i}Ambas as garotas deitam com você e você acaricia sua pele macia enquanto a luz da manhã espreita através das cortinas."
+
+# game/day37.rpy:1049
+translate brazilian day37_r_b_sex_bf176aaa:
+
+    # "{i}Just before the rest of the house awakes, you kiss the girls and slip out of [r_name]'s room."
+    "{i}Pouco antes de o resto da casa acordar, você beija as meninas e sai do quarto de [r_name]."
+
+# game/day37.rpy:1062
+translate brazilian day37_b_sex_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day37.rpy:1066
+translate brazilian day37_b_sex_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day37.rpy:1069
+translate brazilian day37_b_sex_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day37.rpy:1080
+translate brazilian day37_b_sex_hard_1a6f13d8:
+
+    # b "I don't know, [p_name]..."
+    b "Eu não sei, [p_name]..."
+
+# game/day37.rpy:1083
+translate brazilian day37_b_sex_hard_fb157d13:
+
+    # b "My pussy is all wet now, don't you want to fuck me hard?"
+    b "Minha boceta está toda molhada agora, você não quer me foder forte?"
+
+# game/day37.rpy:1084
+translate brazilian day37_b_sex_hard_6f99c14b:
+
+    # p "No, leave that egg inside of you."
+    p "Não, deixa esse ovo dentro de você."
+
+# game/day37.rpy:1086
+translate brazilian day37_b_sex_hard_6d722996:
+
+    # b "I fucking hate you, you know that?"
+    b "Eu te odeio pra caralho, sabe disso?"
+
+# game/day37.rpy:1087
+translate brazilian day37_b_sex_hard_7bbf1827:
+
+    # p "And I don't believe you."
+    p "E eu não acredito em você."
+
+# game/day37.rpy:1088
+translate brazilian day37_b_sex_hard_a4bc07f4:
+
+    # p "Show me that beautiful ass of yours."
+    p "Mostra essa sua bunda linda."
+
+# game/day37.rpy:1097
+translate brazilian day37_b_sex_hard_2eb635e5:
+
+    # "{i}Sighing, your sister obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Suspirando, sua irmã obedece, até mesmo abrindo as nádegas para dar uma boa olhada em seu delicado ânus."
+
+# game/day37.rpy:1099
+translate brazilian day37_b_sex_hard_9f601368:
+
+    # "{i}Sighing, your girl obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Suspirando, sua garota obedece, até abrindo as nádegas para dar uma boa olhada em seu delicado ânus."
+
+# game/day37.rpy:1100
+translate brazilian day37_b_sex_hard_5ecafe00:
+
+    # p "There isn't a part of you that isn't beautiful, is there?"
+    p "Não existe uma parte de você que não seja bonita, existe?"
+
+# game/day37.rpy:1103
+translate brazilian day37_b_sex_hard_f2cc55b0:
+
+    # b "I don't know..."
+    b "Eu não sei..."
+
+# game/day37.rpy:1105
+translate brazilian day37_b_sex_hard_8942069c:
+
+    # b "Jesus, you're talking about my butthole, creep."
+    b "Jesus, você está falando sobre o meu ânus, pervertido."
+
+# game/day37.rpy:1106
+translate brazilian day37_b_sex_hard_8a174c07:
+
+    # p "I am, it's beautiful and looks very tight."
+    p "Eu estou, é lindo e parece bem apertado."
+
+# game/day37.rpy:1107
+translate brazilian day37_b_sex_hard_a7f535f3:
+
+    # b "Pfff..."
+    b "Pfff..."
+
+# game/day37.rpy:1108
+translate brazilian day37_b_sex_hard_0f7f9e12:
+
+    # p "Lie down on your stomach for me."
+    p "Deita de bruços para mim."
+
+# game/day37.rpy:1110
+translate brazilian day37_b_sex_hard_2bb3ae92:
+
+    # "{i}[b_name] does so, and you can't help but slap her delightful buttocks before positioning yourself between her legs."
+    "{i}[b_name] faz isso e você não consegue evitar dar um tapa em suas nádegas deliciosas, antes de se posicionar entre suas pernas."
+
+# game/day37.rpy:1115
+translate brazilian day37_b_sex_hard_9c8de81d:
+
+    # "{i}Building up the tension, you kiss her ass cheeks first and massage the supple flesh."
+    "{i}Para aumentar a tensão, você primeiro beija as nádegas dela e massageia a pele macia."
+
+# game/day37.rpy:1116
+translate brazilian day37_b_sex_hard_36043de9:
+
+    # "{i}You spread her buttocks and squirt a generous amount of lube on her asshole."
+    "{i}Você abre suas nádegas e esguicha uma quantidade generosa de lubrificante em seu cu."
+
+# game/day37.rpy:1117
+translate brazilian day37_b_sex_hard_b7f56f83:
+
+    # "{i}[b_name] shivers involuntarily as you spread the cold, greasy liquid between the crack of her ass."
+    "{i}[b_name] estremece involuntariamente quando você espalha o líquido frio e gorduroso entre a fenda de sua bunda."
+
+# game/day37.rpy:1123
+translate brazilian day37_b_sex_hard_8ce8db45:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of your sister's anus and push ever so slightly."
+    "{i}Sem dizer nada, você empurra um dedo contra as rugas do ânus de sua irmã e empurra bem levemente."
+
+# game/day37.rpy:1125
+translate brazilian day37_b_sex_hard_cb06ee8e:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of [b_name]'s anus and push ever so slightly."
+    "{i}Sem dizer nada, você empurra um dedo contra as rugas do ânus de [b_name] e empurra bem levemente."
+
+# game/day37.rpy:1126
+translate brazilian day37_b_sex_hard_f91bcfbd:
+
+    # "{i}You're amazed by how easily your finger slips past her sphincter, without as much as a gasp by [b_name]."
+    "{i}Você está surpreso com a facilidade com que seu dedo desliza por dentro dela, sem nem mesmo um suspiro de [b_name]."
+
+# game/day37.rpy:1127
+translate brazilian day37_b_sex_hard_397cc6f3:
+
+    # "{i}When you finger her tight hole, you get a response from [b_name] as she pushes her face down into the mattress and exhales violently."
+    "{i}Quando você toca em seu buraco apertado, você consegue uma resposta de [b_name] enquanto ela empurra o rosto contra o colchão e expira violentamente."
+
+# game/day37.rpy:1129
+translate brazilian day37_b_sex_hard_d1d0cc30:
+
+    # p "You're doing great."
+    p "Você está indo bem."
+
+# game/day37.rpy:1131
+translate brazilian day37_b_sex_hard_50fa5a35:
+
+    # p "That wasn't so hard, I think that ass is less tight than you think."
+    p "Não foi tão difícil, acho que essa bunda é menos apertada do que você pensa."
+
+# game/day37.rpy:1132
+translate brazilian day37_b_sex_hard_7d589769:
+
+    # "{i}[b_name] doesn't reply, but clutches the bedsheets in one of her fists as you teasingly run another finger over the sensitive skin of her anus."
+    "{i}[b_name] não responde, mas agarra os lençóis com um dos punhos enquanto você passa outro dedo provocadoramente sobre a pele sensível de seu ânus."
+
+# game/day37.rpy:1133
+translate brazilian day37_b_sex_hard_3d37397e:
+
+    # "{i}Your second finger joins the other one in her tight warm hole, and you continue to finger her."
+    "{i}Seu segundo dedo se junta ao outro no buraquinho apertado e quente, e você continua a tocá-la."
+
+# game/day37.rpy:1135
+translate brazilian day37_b_sex_hard_0708fa6f:
+
+    # p "Does that feel good, [b_name]?"
+    p "Você está gostando, [b_name]?"
+
+# game/day37.rpy:1137
+translate brazilian day37_b_sex_hard_5dbd1f58:
+
+    # b "God! I f-feel so f-full!"
+    b "Deus! Eu me sinto t-tão cheia!"
+
+# game/day37.rpy:1139
+translate brazilian day37_b_sex_hard_df44d03d:
+
+    # b "No!"
+    b "Não!"
+
+# game/day37.rpy:1140
+translate brazilian day37_b_sex_hard_5075b5bb:
+
+    # p "I don't believe you."
+    p "Eu não acredito em você."
+
+# game/day37.rpy:1141
+translate brazilian day37_b_sex_hard_9832f724:
+
+    # "{i}Feeling confident she can handle a third finger, you push your ring finger inside her ass and start to penetrate her more thoroughly."
+    "{i}Sentindo-se confiante de que ela pode aguentar um terceiro dedo, você enfia o dedo anular na bunda dela e começa a penetrá-la mais profundamente."
+
+# game/day37.rpy:1143
+translate brazilian day37_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaai!"
+
+# game/day37.rpy:1144
+translate brazilian day37_b_sex_hard_d6bc5a4d:
+
+    # p "Don't you love that feeling?"
+    p "Você não ama essa sensação?"
+
+# game/day37.rpy:1145
+translate brazilian day37_b_sex_hard_c413b796:
+
+    # p "I think you're ready for more."
+    p "Acho que você está pronta para mais."
+
+# game/day37.rpy:1146
+translate brazilian day37_b_sex_hard_93f9f5f8:
+
+    # "{i}You slap her ass again as you pull your fingers out and squirt more lube on her asshole."
+    "{i}Você dá um tapa na bunda dela novamente enquanto puxa os dedos e esguicha mais lubrificante em sua bunda."
+
+# game/day37.rpy:1153
+translate brazilian day37_b_sex_hard_694efc41:
+
+    # "{i}With the head of your cock you slap her anus that has already been loosened by the touch of your fingers."
+    "{i}Com a cabeça do seu pênis você dá um tapa no ânus dela que já foi afrouxado com o toque dos seus dedos."
+
+# game/day37.rpy:1154
+translate brazilian day37_b_sex_hard_04904619:
+
+    # p "Just relax and it won't hurt."
+    p "Apenas relaxe e não vai doer."
+
+# game/day37.rpy:1157
+translate brazilian day37_b_sex_hard_9d87f4f5:
+
+    # p "Trust me."
+    p "Confia em mim."
+
+# game/day37.rpy:1159
+translate brazilian day37_b_sex_hard_52dcef3c:
+
+    # b "I..."
+    b "Eu..."
+
+# game/day37.rpy:1160
+translate brazilian day37_b_sex_hard_8d83ec4d:
+
+    # b "I trust you."
+    b "Eu confio em você."
+
+# game/day37.rpy:1161
+translate brazilian day37_b_sex_hard_1e5d4e50:
+
+    # "{i}You part the skin folds of her anus with the head of your cock and push the tip inside."
+    "{i}Você separa as dobras de pele de seu ânus com a cabeça de seu pênis e empurra a ponta para dentro."
+
+# game/day37.rpy:1162
+translate brazilian day37_b_sex_hard_2323dced:
+
+    # b "Aaah, no! It's too big!"
+    b "Aaah, não! É muito grande!"
+
+# game/day37.rpy:1164
+translate brazilian day37_b_sex_hard_3fc78470:
+
+    # "{i}You pause for a while, to let [b_name] adjust to the first inches of your manhood inside her tight asshole."
+    "{i}Você faz uma pausa para deixar [b_name] se ajustar aos primeiros centímetros do seu pau dentro de seu cu apertado."
+
+# game/day37.rpy:1166
+translate brazilian day37_b_sex_hard_7b453243:
+
+    # "{i}When you feel some of the initial tension leave your sister's body, you push further."
+    "{i}Quando você sente que parte da tensão inicial deixa o corpo de sua irmã, você pressiona ainda mais."
+
+# game/day37.rpy:1168
+translate brazilian day37_b_sex_hard_0c547f94:
+
+    # "{i}When you feel some of the initial tension leave your girl's body, you push further."
+    "{i}Quando você sente que parte da tensão inicial deixa o corpo de sua garota, você pressiona ainda mais."
+
+# game/day37.rpy:1169
+translate brazilian day37_b_sex_hard_ef60ef42:
+
+    # "{i}[b_name] bites her lower lip as the muscles of her canal massage your cock, you can't believe how tight and warm she is."
+    "{i}[b_name] morde o lábio inferior enquanto os músculos do canal dela massageiam seu pau, você não pode acreditar como ela é apertada e quente."
+
+# game/day37.rpy:1171
+translate brazilian day37_b_sex_hard_c4f0d171:
+
+    # "{i}Two-thirds of your cock have disappeared inside her ass and [b_name] is writhing on the bed, trying to adjust to your girth."
+    "{i}Dois terços do seu pau desapareceram dentro da bunda dela e [b_name] está se contorcendo na cama, tentando se ajustar à sua circunferência."
+
+# game/day37.rpy:1172
+translate brazilian day37_b_sex_hard_f7eacb48:
+
+    # b "I can't!"
+    b "Eu não consigo!"
+
+# game/day37.rpy:1173
+translate brazilian day37_b_sex_hard_b81a6a64:
+
+    # p "Yes you can."
+    p "Sim, você consigo."
+
+# game/day37.rpy:1174
+translate brazilian day37_b_sex_hard_6e6dbdaf:
+
+    # b "No I..."
+    b "Não, eu..."
+
+# game/day37.rpy:1175
+translate brazilian day37_b_sex_hard_a9ca9f9a:
+
+    # b "Oh..."
+    b "Ah..."
+
+# game/day37.rpy:1182
+translate brazilian day37_b_sex_hard_b1e67b33:
+
+    # "{i}Her writhing has stopped as you move your hips and fuck her asshole properly for the first time."
+    "{i}Ela para de se contorcer, e você move seus quadris e fode seu cu de fato pela primeira vez."
+
+# game/day37.rpy:1183
+translate brazilian day37_b_sex_hard_f940071f:
+
+    # b "What the fuck?!"
+    b "Mas que porra?!"
+
+# game/day37.rpy:1184
+translate brazilian day37_b_sex_hard_f992044a:
+
+    # b "Aah!"
+    b "Aah!"
+
+# game/day37.rpy:1186
+translate brazilian day37_b_sex_hard_50d2b002:
+
+    # "{i}You go slowly on her, and the pain-tinged cries of your sister slowly evolve into genuine expressions of pleasure."
+    "{i}Você vai devagar e os gritos de dor de sua irmã lentamente evoluem para genuínas expressões de prazer."
+
+# game/day37.rpy:1188
+translate brazilian day37_b_sex_hard_497bec08:
+
+    # "{i}You go slowly on her, and the agonized cries of [b_name] slowly evolve into genuine expressions of pleasure."
+    "{i}Você vai devagar e os gritos agonizantes de [b_name] lentamente evoluem para expressões genuínas de prazer."
+
+# game/day37.rpy:1190
+translate brazilian day37_b_sex_hard_52a996e2:
+
+    # "{i}Every thrust is a balancing act of pain and pleasure, but when you see the look on [b_name]'s face, you know she has accepted you fully."
+    "{i}Cada enfiada é um equilíbrio entre dor e prazer, mas quando você vê a expressão no rosto de [b_name], você sabe que ela o aceitou totalmente."
+
+# game/day37.rpy:1191
+translate brazilian day37_b_sex_hard_a306de17:
+
+    # p "Are you enjoying it?"
+    p "Você está gostando?"
+
+# game/day37.rpy:1195
+translate brazilian day37_b_sex_hard_3fd3887e:
+
+    # b "Y-yes..."
+    b "S-sim..."
+
+# game/day37.rpy:1197
+translate brazilian day37_b_sex_hard_8b8fd2fa:
+
+    # b "I'm your anal s-slut... R-remember..."
+    b "Eu sou sua puta anal... L-lembra..."
+
+# game/day37.rpy:1199
+translate brazilian day37_b_sex_hard_12fd92f0:
+
+    # b "N-no..."
+    b "N-não..."
+
+# game/day37.rpy:1200
+translate brazilian day37_b_sex_hard_80fe2e3a:
+
+    # b "F-fuck!!!"
+    b "P-porra!!!"
+
+# game/day37.rpy:1201
+translate brazilian day37_b_sex_hard_7d1c486e:
+
+    # b "Yes!"
+    b "Sim!"
+
+# game/day37.rpy:1208
+translate brazilian day37_b_sex_hard_bc4d5c1b:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your sister's vagina."
+    "{i}De repente, você se lembra do vibrador que ainda está dentro da vagina de sua irmã."
+
+# game/day37.rpy:1210
+translate brazilian day37_b_sex_hard_017b1394:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your girl's vagina."
+    "{i}De repente, você se lembra do vibrador que ainda está dentro da vagina da sua garota."
+
+# game/day37.rpy:1211
+translate brazilian day37_b_sex_hard_d87dd57d:
+
+    # "{i}After making a grab for the remote you dial the vibrations of the toy up ever so slightly and continue fucking her ass."
+    "{i}Depois de agarrar o controle remoto, você aumenta ligeiramente as vibrações do brinquedo e continua fodendo a bunda dela."
+
+# game/day37.rpy:1212
+translate brazilian day37_b_sex_hard_2745ee7b:
+
+    # b "Oh god!"
+    b "Aih meu deus!"
+
+# game/day37.rpy:1213
+translate brazilian day37_b_sex_hard_c3ce4048:
+
+    # b "F-fuck!"
+    b "P-porra!"
+
+# game/day37.rpy:1214
+translate brazilian day37_b_sex_hard_9e16afc3:
+
+    # b "K-keep g-going!"
+    b "C-continua!"
+
+# game/day37.rpy:1220
+translate brazilian day37_b_sex_hard_ac18dda7:
+
+    # "{i}[b_name] is drooling on the bedsheets, and her eyes are rolled backward. The only sounds she can now manage are animalistic grunts as your cock plows her asshole."
+    "{i}[b_name] está babando nos lençóis e seus olhos estão virados para trás. Os únicos sons que ela consegue ouvir agora são grunhidos animalescos enquanto seu pau entra em seu cu."
+
+# game/day37.rpy:1227
+translate brazilian day37_b_sex_hard_8bfedfcd:
+
+    # "{i}Your sister pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}Sua irmã se empurra para cima, permitindo que seu pau entre ainda mais fundo dentro dela e ela começa a tremer, com seus dentes cerrados."
+
+# game/day37.rpy:1229
+translate brazilian day37_b_sex_hard_39c5c055:
+
+    # "{i}[b_name] pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}[b_name] se empurra para cima, permitindo que seu pau entre ainda mais fundo dentro dela e ela começa a tremer, com seus dentes cerrados."
+
+# game/day37.rpy:1236
+translate brazilian day37_b_sex_hard_c78c3a55:
+
+    # "{i}[b_name] violently squirts as she wails in anguished pleasure."
+    "{i}[b_name] esguicha violentamente enquanto geme de prazer angustiado."
+
+# game/day37.rpy:1237
+translate brazilian day37_b_sex_hard_4af07fd9:
+
+    # b "M-motherf-ffuckkkk..."
+    b "Caa-caraahlhooo..."
+
+# game/day37.rpy:1239
+translate brazilian day37_b_sex_hard_636b69d0:
+
+    # "{i}The violence of her motions makes it hard to keep fucking her ass, but you manage to move your cock inside her tunnel, prompting another river of squirt from her cunt."
+    "{i}A violência de seus movimentos torna difícil continuar fodendo a bunda dela, mas você consegue mover seu pau para dentro de seu túnel, provocando outro rio de esguicho da boceta."
+
+# game/day37.rpy:1240
+translate brazilian day37_b_sex_hard_524ce1b7:
+
+    # "{i}[b_name] collapses to the bed, quivering and lying in a pool of her own moisture, allowing you to achieve your climax."
+    "{i}[b_name] desaba na cama, tremendo e deitada em uma poça de seus próprios líquidos, permitindo que você alcance o seu clímax."
+
+# game/day37.rpy:1243
+translate brazilian day37_b_sex_hard_7ca42fd7:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your sister's asshole."
+    "{i}Você continua fodendo a bunda dela, saboreando a sensação de controle e a tensão do cu da sua irmã."
+
+# game/day37.rpy:1245
+translate brazilian day37_b_sex_hard_3d62217c:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your girl's asshole."
+    "{i}Você continua fodendo a bunda dela, saboreando a sensação de controle e a tensão do cu da sua garota."
+
+# game/day37.rpy:1246
+translate brazilian day37_b_sex_hard_a5470a99:
+
+    # "{i}You feel your climax approaching and are ready to treat [b_name] to a generous helping of your seed."
+    "{i}Você sente seu clímax se aproximando e está pronto para dar a [b_name] uma generosa porção de sua semente."
+
+# game/day37.rpy:1257
+translate brazilian day37_b_sex_hard_8a058469:
+
+    # "{i}It's only fitting that properly taking [b_name]'s anal virginity ends with an ass full of cum, so you stay rooted inside of her."
+    "{i}É justo que tirar a virgindade anal de [b_name] termine com uma bunda cheia de esperma, então você permanece dentro dela."
+
+# game/day37.rpy:1258
+translate brazilian day37_b_sex_hard_0099c60e:
+
+    # "{i}You treat her asshole with a massive amount of cum, shot deeply inside her tunnel."
+    "{i}Você dá ao dela cu uma quantidade enorme de esperma, atirado profundamente dentro de seu túnel."
+
+# game/day37.rpy:1265
+translate brazilian day37_b_sex_hard_bd2027d4:
+
+    # "{i}After you pull out, it takes a long while for your seed to trickle out of her winking asshole."
+    "{i}Depois que você tira seu pau, leva um longo tempo para seu sêmen derramar do cu piscante dela."
+
+# game/day37.rpy:1267
+translate brazilian day37_b_sex_hard_08e0080c:
+
+    # "{i}[b_name] just moans, squirming on her squirt-soaked bedsheets."
+    "{i}[b_name] apenas geme, contorcendo-se em seus lençóis encharcados de esguicho."
+
+# game/day37.rpy:1269
+translate brazilian day37_b_sex_hard_97b7da56:
+
+    # "{i}[b_name] just moans, squirming on the messed-up bedsheets."
+    "{i}[b_name] apenas geme, contorcendo-se nos lençóis desarrumados."
+
+# game/day37.rpy:1285
+translate brazilian day37_b_sex_hard_89383974:
+
+    # p "Come here baby, taste that ass of yours."
+    p "Venha aqui linda, prove essa sua bunda."
+
+# game/day37.rpy:1287
+translate brazilian day37_b_sex_hard_5d6ffb02:
+
+    # "{i}You pull [b_name] upright and stuff your cock inside her open mouth."
+    "{i}Você puxa [b_name] para cima e enfia seu pau dentro da boca aberta dela."
+
+# game/day37.rpy:1289
+translate brazilian day37_b_sex_hard_34de7a30:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately, her cunt still dripping with beads of squirt."
+    "{i}Ela não protesta, mas começa a chupar seu pau imediatamente, sua boceta ainda pingando gotas de esguicho."
+
+# game/day37.rpy:1291
+translate brazilian day37_b_sex_hard_0836ab83:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately."
+    "{i}Ela não protesta, mas começa a chupar seu pau imediatamente."
+
+# game/day37.rpy:1292
+translate brazilian day37_b_sex_hard_dab268a0:
+
+    # p "That's right!"
+    p "Isso aí!"
+
+# game/day37.rpy:1295
+translate brazilian day37_b_sex_hard_2e311013:
+
+    # "{i}As [b_name] licks your shaft clean, you unload a massive amount of cum in her mouth."
+    "{i}Enquanto [b_name] limpa seu pau com a língua, você descarrega uma grande quantidade de sêmen na boca dela."
+
+# game/day37.rpy:1299
+translate brazilian day37_b_sex_hard_20f7c119:
+
+    # "{i}Some of it spills along the corners of her mouth, but [b_name] is quick to swallow all of your ejaculate."
+    "{i}Parte dele derrama pelos cantos da boca, mas [b_name] rapidamente engole toda a sua ejaculação."
+
+# game/day37.rpy:1315
+translate brazilian day37_b_sex_hard_a9fbe046:
+
+    # "{i}After your cock exits her asshole, you flip [b_name] over and blast her body with a wealth of your seed."
+    "{i}Depois que seu pau sai do cu, você vira [b_name] e espalha uma grande quantidade de sêmen no corpo dela."
+
+# game/day37.rpy:1317
+translate brazilian day37_b_sex_hard_7f3f94f7:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on her squirt-soaked bedsheets."
+    "{i}[b_name] apenas geme, balançando a bunda para frente e para trás em seus lençóis encharcados de esguicho."
+
+# game/day37.rpy:1319
+translate brazilian day37_b_sex_hard_5c8728c4:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on the messed-up bedsheets."
+    "{i}[b_name] apenas geme, balançando a bunda para frente e para trás nos lençóis desarrumados."
+
+# game/day37.rpy:1331
+translate brazilian day37_b_sex_hard_74e7ec77:
+
+    # "{i}You lay next to your sister, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Você se deita ao lado de sua irmã, ignorando os lençóis molhados, colocando uma mão possessiva em sua barriga, que ela não afasta."
+
+# game/day37.rpy:1333
+translate brazilian day37_b_sex_hard_361ee879:
+
+    # "{i}You lay next to her, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Você se deita ao lado dela, ignorando os lençóis molhados, colocando a mão possessiva em sua barriga, que ela não afasta."
+
+# game/day37.rpy:1337
+translate brazilian day37_b_sex_hard_d1a42c18:
+
+    # "{i}The vibrator is still humming softly inside her cunt and you turn it off to allow [b_name] some respite."
+    "{i}O vibrador ainda está zumbindo baixinho dentro de sua boceta e você o desliga para dar a [b_name] um descanso."
+
+# game/day37.rpy:1340
+translate brazilian day37_b_sex_hard_9ce8a0ac:
+
+    # "{i}You lay next to your sister, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Você se deita ao lado de sua irmã, colocando uma mão possessiva em sua barriga, que ela não afasta."
+
+# game/day37.rpy:1342
+translate brazilian day37_b_sex_hard_81fd5ead:
+
+    # "{i}You lay next to her, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Você se deita ao lado dela, colocando uma mão possessiva em sua barriga, que ela não afasta."
+
+# game/day37.rpy:1343
+translate brazilian day37_b_sex_hard_76643805:
+
+    # p "I own you completely now."
+    p "Eu possuo você completamente agora."
+
+# game/day37.rpy:1344
+translate brazilian day37_b_sex_hard_39ce7b87:
+
+    # p "You're mine."
+    p "Você é minha."
+
+# game/day37.rpy:1362
+translate brazilian day37_r_b_sex_hard_59d862c9:
+
+    # r "Oh!"
+    r "Ah!"
+
+# game/day37.rpy:1363
+translate brazilian day37_r_b_sex_hard_4c61d029:
+
+    # p "Were you already getting started?"
+    p "Você já estava começando?"
+
+# game/day37.rpy:1372
+translate brazilian day37_r_b_sex_hard_cdec02ef:
+
+    # r "I kinda was..."
+    r "Eu meio que estava..."
+
+# game/day37.rpy:1373
+translate brazilian day37_r_b_sex_hard_4332053d:
+
+    # r "Whenever I think of you, I just can't help myself."
+    r "Sempre que penso em você, simplesmente não consigo evitar."
+
+# game/day37.rpy:1374
+translate brazilian day37_r_b_sex_hard_df03834d:
+
+    # p "Don't stop on my account, I think it looks hot."
+    p "Não pare por minha causa, acho isso bem sexy."
+
+# game/day37.rpy:1375
+translate brazilian day37_r_b_sex_hard_078b9ba5:
+
+    # r "You do it better."
+    r "Você faz melhor."
+
+# game/day37.rpy:1381
+translate brazilian day37_r_b_sex_hard_51a557a7:
+
+    # "{i}[r_name] allows your hand to slip between her legs and looks at you lustfully."
+    "{i}[r_name] permite que sua mão deslize entre as pernas e olha para você com desejo."
+
+# game/day37.rpy:1382
+translate brazilian day37_r_b_sex_hard_ca50f944:
+
+    # "{i}You finger her slowly and just intensely enough that you're still able to talk to her."
+    "{i}Você a masturba lentamente e intensamente o suficiente para ainda ser capaz de falar com ela."
+
+# game/day37.rpy:1383
+translate brazilian day37_r_b_sex_hard_070a9656:
+
+    # p "I have a surprise for you."
+    p "Eu tenho uma surpresa para você."
+
+# game/day37.rpy:1384
+translate brazilian day37_r_b_sex_hard_e29871a4:
+
+    # r "I-Is that so?"
+    r "É-É Mesmo?"
+
+# game/day37.rpy:1385
+translate brazilian day37_r_b_sex_hard_3cf8fb14:
+
+    # p "I've invited [b_name]..."
+    p "Convidei [b_name]..."
+
+# game/day37.rpy:1387
+translate brazilian day37_r_b_sex_hard_d40eb808:
+
+    # r "Oh..."
+    r "Ah..."
+
+# game/day37.rpy:1388
+translate brazilian day37_r_b_sex_hard_4b88c3d8:
+
+    # p "Too soon?"
+    p "Cedo demais?"
+
+# game/day37.rpy:1389
+translate brazilian day37_r_b_sex_hard_7c7ccbb8:
+
+    # p "I could send her away."
+    p "Eu poderia mandar ela embora."
+
+# game/day37.rpy:1390
+translate brazilian day37_r_b_sex_hard_ed912e80:
+
+    # r "No..."
+    r "Não..."
+
+# game/day37.rpy:1392
+translate brazilian day37_r_b_sex_hard_18c2bff2:
+
+    # r "No, I want her here."
+    r "Não, eu quero ela aqui."
+
+# game/day37.rpy:1393
+translate brazilian day37_r_b_sex_hard_71c22a15:
+
+    # p "There's something you should know."
+    p "Tem uma coisa que você deve saber."
+
+# game/day37.rpy:1394
+translate brazilian day37_r_b_sex_hard_4b40412a:
+
+    # p "In the bedroom, [b_name] and I act a little differently."
+    p "Na cama, [b_name] e eu agimos de maneira um pouco diferente."
+
+# game/day37.rpy:1395
+translate brazilian day37_r_b_sex_hard_dafbdb95:
+
+    # r "What do you mean?"
+    r "Como assim?"
+
+# game/day37.rpy:1396
+translate brazilian day37_r_b_sex_hard_11496698:
+
+    # p "She likes to do what I tell her."
+    p "Ela gosta de fazer o que eu digo a ela."
+
+# game/day37.rpy:1398
+translate brazilian day37_r_b_sex_hard_fc37eded:
+
+    # r "I do too."
+    r "Eu também."
+
+# game/day37.rpy:1399
+translate brazilian day37_r_b_sex_hard_817e2c44:
+
+    # p "This is not the same."
+    p "Isso não é a mesma coisa."
+
+# game/day37.rpy:1400
+translate brazilian day37_r_b_sex_hard_d61ed0b8:
+
+    # p "[b_name] is my submissive."
+    p "[b_name] é minha submissa."
+
+# game/day37.rpy:1402
+translate brazilian day37_r_b_sex_hard_3ec524e1:
+
+    # r "[b_name]? Really?"
+    r "[b_name]? Sério?"
+
+# game/day37.rpy:1403
+translate brazilian day37_r_b_sex_hard_df34f87f:
+
+    # r "So I can make her do whatever I want to?"
+    r "Então eu posso obrigar ela a fazer o que eu quiser?"
+
+# game/day37.rpy:1404
+translate brazilian day37_r_b_sex_hard_1cdb9e0d:
+
+    # p "If I allow it, yes."
+    p "Se eu permitir, sim."
+
+# game/day37.rpy:1406
+translate brazilian day37_r_b_sex_hard_768a8ed3:
+
+    # r "Mmmm, making my older sister do what I want... Interesting..."
+    r "Mmmm, fazendo minha irmã mais velha fazer o que eu quero... Interessante..."
+
+# game/day37.rpy:1408
+translate brazilian day37_r_b_sex_hard_300ebf6f:
+
+    # r "Mmmm, making my older friend do what I want... Interesting..."
+    r "Mmmm, fazendo minha amiga mais velha fazer o que eu quero... Interessante..."
+
+# game/day37.rpy:1409
+translate brazilian day37_r_b_sex_hard_ca08e60c:
+
+    # p "{i}(Didn't expect her to accept it so easily...)"
+    p "{i}(Não esperava que ela aceitasse tão facilmente...)"
+
+# game/day37.rpy:1411
+translate brazilian day37_r_b_sex_hard_2e86761d:
+
+    # "{i}Satisfied, you focus your attention on [r_name]'s pussy again, her clit in particular."
+    "{i}Satisfeito, você concentra sua atenção na boceta de [r_name] novamente, em seu clitóris em particular."
+
+# game/day37.rpy:1412
+translate brazilian day37_r_b_sex_hard_d00807f1:
+
+    # r "F-fuck!"
+    r "P-porra!"
+
+# game/day37.rpy:1413
+translate brazilian day37_r_b_sex_hard_addd5af0:
+
+    # r "That's the spot!"
+    r "É bem aí!"
+
+# game/day37.rpy:1417
+translate brazilian day37_r_b_sex_hard_c3383809:
+
+    # "{i}You're interrupted by a knock on [r_name]'s door."
+    "{i}Você é interrompido por uma batida na porta de [r_name]."
+
+# game/day37.rpy:1418
+translate brazilian day37_r_b_sex_hard_3ab75bb7:
+
+    # r "Who is it?"
+    r "Quem está aí?"
+
+# game/day37.rpy:1419
+translate brazilian day37_r_b_sex_hard_ecb9a588:
+
+    # b "Me."
+    b "Eu."
+
+# game/day37.rpy:1420
+translate brazilian day37_r_b_sex_hard_91b79bf5:
+
+    # r "Come in."
+    r "Entra."
+
+# game/day37.rpy:1422
+translate brazilian day37_r_b_sex_hard_59152d4e:
+
+    # r "We got started without you..."
+    r "Começamos sem você..."
+
+# game/day37.rpy:1423
+translate brazilian day37_r_b_sex_hard_e3dad245:
+
+    # p "{i}(Damn [r_name]!)"
+    p "{i}(Caramba, [r_name]!)"
+
+# game/day37.rpy:1424
+translate brazilian day37_r_b_sex_hard_c3c6b9c4:
+
+    # p "Why don't you undress and come over here."
+    p "Por que você não tira sua roupa e vem aqui."
+
+# game/day37.rpy:1430
+translate brazilian day37_r_b_sex_hard_e5a9c664:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her youngest sister."
+    "{i}Apesar do olhar corajoso em seu rosto, os movimentos de [b_name] são um pouco hesitantes, provavelmente porque ela ainda não está acostumada a ver você tocando sua irmã mais nova."
+
+# game/day37.rpy:1432
+translate brazilian day37_r_b_sex_hard_aa5b107d:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her younger friend."
+    "{i}Apesar do olhar corajoso em seu rosto, os movimentos de [b_name] são um pouco hesitantes, provavelmente porque ela ainda não está acostumada a ver você tocando sua amiga mais nova."
+
+# game/day37.rpy:1437
+translate brazilian day37_r_b_sex_hard_c72aedeb:
+
+    # p "[r_name] would really like to cum."
+    p "[r_name] realmente gostaria de gozar."
+
+# game/day37.rpy:1438
+translate brazilian day37_r_b_sex_hard_92a6f668:
+
+    # p "So I've made her pussy all wet for you."
+    p "Então eu deixei a boceta dela toda molhada para você."
+
+# game/day37.rpy:1439
+translate brazilian day37_r_b_sex_hard_1eb0d7d3:
+
+    # p "And now it's waiting for your tongue."
+    p "E agora está esperando por sua língua."
+
+# game/day37.rpy:1446
+translate brazilian day37_r_b_sex_hard_9196c426:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger sister only has eyes for you."
+    "{i}[r_name] não consegue ver que [b_name] encara você, porque sua irmã mais nova só tem olhos para você."
+
+# game/day37.rpy:1447
+translate brazilian day37_r_b_sex_hard_055a8d7f:
+
+    # "{i}[b_name] lowers her head between her sister's legs and probes the girl's pussy with her tongue."
+    "{i}[b_name] abaixa a cabeça entre as pernas da irmã e examina a boceta da garota com a língua."
+
+# game/day37.rpy:1449
+translate brazilian day37_r_b_sex_hard_89df8631:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger friend only has eyes for you."
+    "{i}[r_name] não consegue ver que [b_name] encara você, porque sua amiga mais nova só tem olhos para você."
+
+# game/day37.rpy:1450
+translate brazilian day37_r_b_sex_hard_b53fab4a:
+
+    # "{i}[b_name] lowers her head between the girl's legs and probes her friend's pussy with her tongue."
+    "{i}[b_name] abaixa a cabeça entre as pernas da garota e examina a boceta da amiga com a língua."
+
+# game/day37.rpy:1452
+translate brazilian day37_r_b_sex_hard_fed25d20:
+
+    # p "Does that feel good, [r_name]?"
+    p "Você está gostando, [r_name]?"
+
+# game/day37.rpy:1453
+translate brazilian day37_r_b_sex_hard_e0c642ab:
+
+    # r "Oh y-yes!"
+    r "Ah S-sim!"
+
+# game/day37.rpy:1454
+translate brazilian day37_r_b_sex_hard_3eed19c5:
+
+    # r "K-keep going, [b_name]."
+    r "C-continua, [b_name]."
+
+# game/day37.rpy:1456
+translate brazilian day37_r_b_sex_hard_d4281d9c:
+
+    # "{i}Your tongues entangle for a passionate kiss, as [b_name] eats [r_name]'s pussy out."
+    "{i}Suas línguas se enrolam em um beijo apaixonado, enquanto [b_name] devora a boceta de [r_name]."
+
+# game/day37.rpy:1458
+translate brazilian day37_r_b_sex_hard_e43a10d0:
+
+    # "{i}The sight of your older sister's ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}A visão da bunda da sua irmã mais velha, no ar, enquanto ela dá prazer a [r_name], deixa você duro como pedra."
+
+# game/day37.rpy:1460
+translate brazilian day37_r_b_sex_hard_22a1143d:
+
+    # "{i}The sight of [b_name]'s ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}A visão da bunda de [b_name], no ar, enquanto ela dá prazer a [r_name], deixa você duro como pedra."
+
+# game/day37.rpy:1462
+translate brazilian day37_r_b_sex_hard_0cb02496:
+
+    # p "I want to borrow her."
+    p "Eu quero pegar ela emprestada."
+
+# game/day37.rpy:1463
+translate brazilian day37_r_b_sex_hard_0b5fe5c3:
+
+    # r "M-must you?"
+    r "V-você precisa mesmo?"
+
+# game/day37.rpy:1464
+translate brazilian day37_r_b_sex_hard_59638b31:
+
+    # p "Only for a short while."
+    p "Só um tempinho."
+
+# game/day37.rpy:1465
+translate brazilian day37_r_b_sex_hard_ee3c825b:
+
+    # r "O-okay..."
+    r "O-ok..."
+
+# game/day37.rpy:1466
+translate brazilian day37_r_b_sex_hard_04f9a4bd:
+
+    # p "[b_name], come over here and suck my cock."
+    p "[b_name], venha aqui e chupe meu pau."
+
+# game/day37.rpy:1472
+translate brazilian day37_r_b_sex_hard_5a706a46:
+
+    # "{i}The girl emerges from between [r_name]'s legs and eyes your erection."
+    "{i}A garota emerge entre as pernas de [r_name] e olha para sua ereção."
+
+# game/day37.rpy:1473
+translate brazilian day37_r_b_sex_hard_1072deb7:
+
+    # "{i}She laps up the precum that's covering the tip of your cock before engulfing it with her warm mouth."
+    "{i}Ela lambe o lubrificante que cobre a ponta do seu pênis antes de engoli-lo com sua boca quente."
+
+# game/day37.rpy:1476
+translate brazilian day37_r_b_sex_hard_1a123dac:
+
+    # "{i}You turn your attention to your youngest sister's petite breasts and play with her soft nipples."
+    "{i}Você volta sua atenção para os seios pequenos de sua irmã mais nova e brinca com seus mamilos macios."
+
+# game/day37.rpy:1478
+translate brazilian day37_r_b_sex_hard_40f5a25d:
+
+    # "{i}You turn your attention to your youngest friend's petite breasts and play with her soft nipples."
+    "{i}Você volta sua atenção para os seios pequenos de sua amiga mais nova e brinca com seus mamilos macios."
+
+# game/day37.rpy:1479
+translate brazilian day37_r_b_sex_hard_4289a6e1:
+
+    # "{i}With slight thrusts of your hips, you tease [b_name] and force her to take your dick even further into her mouth."
+    "{i}Com leves investidas de seus quadris, você provoca [b_name] e a força a enfiar seu pau ainda mais fundo na boca."
+
+# game/day37.rpy:1481
+translate brazilian day37_r_b_sex_hard_d3b998b3:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older sister makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] claramente não se importa com os ruídos de engasgo que sua irmã mais velha faz quando leva todo o seu pau garganta abaixo."
+
+# game/day37.rpy:1483
+translate brazilian day37_r_b_sex_hard_9a7bdf0f:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older friend makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] claramente não se importa com os ruídos de engasgo que sua amiga mais velha faz quando leva todo o seu pau garganta abaixo."
+
+# game/day37.rpy:1485
+translate brazilian day37_r_b_sex_hard_9a81a38e:
+
+    # r "This is so hot, [p_name]!"
+    r "Isso é tão sexy, [p_name]!"
+
+# game/day37.rpy:1486
+translate brazilian day37_r_b_sex_hard_6887497b:
+
+    # r "I want you to fuck me while [b_name] watches."
+    r "Quero que você me foda enquanto [b_name] olha."
+
+# game/day37.rpy:1487
+translate brazilian day37_r_b_sex_hard_a2f04ad3:
+
+    # p "You want to make her jealous."
+    p "Você quer deixar ela com ciúme."
+
+# game/day37.rpy:1488
+translate brazilian day37_r_b_sex_hard_635c817e:
+
+    # r "Only a little."
+    r "Só um pouco."
+
+# game/day37.rpy:1489
+translate brazilian day37_r_b_sex_hard_421de7b3:
+
+    # p "That's enough, [b_name]."
+    p "Isso é o suficiente, [b_name]."
+
+# game/day37.rpy:1496
+translate brazilian day37_r_b_sex_hard_d3f0e18d:
+
+    # "{i}[r_name] lets out a giddy laugh as you turn her on her side and spread her legs."
+    "{i}[r_name] dá uma risada rápida quando você a vira de lado e abre as pernas."
+
+# game/day37.rpy:1502
+translate brazilian day37_r_b_sex_hard_48f6d9e3:
+
+    # "{i}You make sure [b_name] has a good view of her sister's cunt as you push your cock inside her."
+    "{i}Você se certifica que [b_name] tenha uma boa visão da boceta de sua irmã enquanto você empurra seu pau dentro dela."
+
+# game/day37.rpy:1503
+translate brazilian day37_r_b_sex_hard_f4fff822:
+
+    # "{i}Thanks to her older sister's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Graças às lambidas de sua irmã mais velha, [r_name] está ensopada, e seu pau desliza dentro dela com facilidade."
+
+# game/day37.rpy:1505
+translate brazilian day37_r_b_sex_hard_02bc7901:
+
+    # "{i}You make sure [b_name] has a good view of her friend's cunt as you push your cock inside her."
+    "{i}Você se certifica que [b_name] tenha uma boa visão da boceta de sua amiga enquanto você empurra seu pau dentro dela."
+
+# game/day37.rpy:1506
+translate brazilian day37_r_b_sex_hard_989e44bf:
+
+    # "{i}Thanks to her older friend's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Graças à lambida de sua amiga mais velha, [r_name] está ensopada e seu pau desliza dentro dela com facilidade."
+
+# game/day37.rpy:1511
+translate brazilian day37_r_b_sex_hard_bcb391ab:
+
+    # "{i}Hugging her you fuck her pussy hard, taking [r_name]'s breath away as she moans and exhales at the same time."
+    "{i}Abraçando, você fode sua boceta com força, tirando o fôlego de [r_name] enquanto ela geme."
+
+# game/day37.rpy:1512
+translate brazilian day37_r_b_sex_hard_6a984c9c:
+
+    # r "Oooh [p_name]!"
+    r "Aaaih [p_name]!"
+
+# game/day37.rpy:1513
+translate brazilian day37_r_b_sex_hard_55a194e2:
+
+    # r "Harder!"
+    r "Mais forte!"
+
+# game/day37.rpy:1515
+translate brazilian day37_r_b_sex_hard_1d6407b8:
+
+    # "{i}Fucking your youngest sister requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Foder sua irmã mais nova requer toda a sua atenção, mas quando você consegue olhar para [b_name], você a vê o encarando com um fascínio excitado."
+
+# game/day37.rpy:1517
+translate brazilian day37_r_b_sex_hard_4b12575d:
+
+    # "{i}Fucking your youngest friend requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Foder sua amiga mais nova requer toda a sua atenção, mas quando você consegue olhar para [b_name], você a vê o encarando com um fascínio excitado."
+
+# game/day37.rpy:1519
+translate brazilian day37_r_b_sex_hard_78ec61d3:
+
+    # "{i}[r_name] has closed her eyes in coital bliss as you keep hitting her moist cunt with your hard cock."
+    "{i}[r_name] fecha os olhos em êxtase sexual enquanto você continua socando em sua boceta úmida com seu pau duro."
+
+# game/day37.rpy:1520
+translate brazilian day37_r_b_sex_hard_5961bf0b:
+
+    # r "I love you!"
+    r "Eu te amo!"
+
+# game/day37.rpy:1521
+translate brazilian day37_r_b_sex_hard_2ca7a862:
+
+    # r "Fuck me harder! Please!"
+    r "Me fode mais forte! Por favor!"
+
+# game/day37.rpy:1530
+translate brazilian day37_r_b_sex_hard_c5299c91:
+
+    # "{i}Your sister lets herself be flipped over willingly, and you pull her ass close towards you, your dick slipping past her labia with ease."
+    "{i}Sua irmã se deixa ser virada e você puxa a bunda dela para perto de você, seu pau deslizando pelos lábios dela com facilidade."
+
+# game/day37.rpy:1532
+translate brazilian day37_r_b_sex_hard_30441d0e:
+
+    # "{i}Your girlfriend lets herself be flipped over willingly, and you pull her ass, your dick slipping past her labia with ease."
+    "{i}Sua namorada se deixa ser virada e você puxa a bunda dela, seu pau deslizando pelos lábios dela com facilidade."
+
+# game/day37.rpy:1533
+translate brazilian day37_r_b_sex_hard_bc7191e6:
+
+    # "{i}Grabbing her sides, you're able to penetrate [r_name] more deeply and fuck her even more thoroughly than before."
+    "{i}Agarrando os lados dela, você consegue penetrar [r_name] mais profundamente e fodê-la ainda melhor que antes."
+
+# game/day37.rpy:1534
+translate brazilian day37_r_b_sex_hard_dedc3b5f:
+
+    # p "Get over here, [b_name]."
+    p "Vem aqui, [b_name]."
+
+# game/day37.rpy:1542
+translate brazilian day37_r_b_sex_hard_b17cc246:
+
+    # p "Taste your sister."
+    p "Prove da sua irmã."
+
+# game/day37.rpy:1544
+translate brazilian day37_r_b_sex_hard_0112f2be:
+
+    # p "Taste your friend."
+    p "Prove da sua amiga."
+
+# game/day37.rpy:1545
+translate brazilian day37_r_b_sex_hard_a2d73374:
+
+    # "{i}You stuff [b_name]'s mouth with your wet cock as you pull out of [r_name] temporarily."
+    "{i}Você enche a boca de [b_name] com seu pau molhado quando o tira temporariamente de [r_name]."
+
+# game/day37.rpy:1547
+translate brazilian day37_r_b_sex_hard_264d421f:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her sister's salty juices."
+    "{i}Empenhada, [b_name] limpa seu pau com a boca, certificando-se de engolir todos os fluidos salgados de sua irmã."
+
+# game/day37.rpy:1549
+translate brazilian day37_r_b_sex_hard_389a301e:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her friend's salty juices."
+    "{i}Empenhada, [b_name] limpa seu pau com a boca, certificando-se de engolir todos os fluidos salgados de sua amiga."
+
+# game/day37.rpy:1550
+translate brazilian day37_r_b_sex_hard_eaa9ca80:
+
+    # p "Good girl."
+    p "Boa menina."
+
+# game/day37.rpy:1557
+translate brazilian day37_r_b_sex_hard_74bfc0f9:
+
+    # "{i}[r_name] squeals in delight when you reinsert your cock, now moist with [b_name]'s saliva and fuck her hard again."
+    "{i}[r_name] grita de alegria quando você enfia seu pau novamente, agora úmido com a saliva de [b_name], você a fode com força novamente."
+
+# game/day37.rpy:1558
+translate brazilian day37_r_b_sex_hard_abefe131:
+
+    # r "Keep going, [p_name]!"
+    r "Continua, [p_name]!"
+
+# game/day37.rpy:1559
+translate brazilian day37_r_b_sex_hard_e22604e5:
+
+    # "{i}You'd like to oblige her, but it's becoming increasingly hard to stave off the moment of climax."
+    "{i}Você gostaria de agradá-la, mas está se tornando cada vez mais difícil adiar o momento do clímax."
+
+# game/day37.rpy:1560
+translate brazilian day37_r_b_sex_hard_dd697dae:
+
+    # p "G-get ready, [b_name]."
+    p "S-se prepara, [b_name]."
+
+# game/day37.rpy:1561
+translate brazilian day37_r_b_sex_hard_662b4997:
+
+    # p "D-don't waste a drop."
+    p "N-não desperdice uma gota."
+
+# game/day37.rpy:1572
+translate brazilian day37_r_b_sex_hard_740a03ae:
+
+    # "{i}[b_name] is lying ready underneath her sister when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] está deitada embaixo de sua irmã, quando você cobre o trato vaginal de [r_name] com sêmen quente."
+
+# game/day37.rpy:1574
+translate brazilian day37_r_b_sex_hard_24b01484:
+
+    # "{i}[b_name] is lying ready underneath her friend when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] está deitada embaixo de sua amiga, quando você cobre o trato vaginal de [r_name] com sêmen quente."
+
+# game/day37.rpy:1580
+translate brazilian day37_r_b_sex_hard_ac9c5d61:
+
+    # "{i}Grinning, [r_name] contracts her vagina to force out your cum, causing it to drip onto [b_name]'s face."
+    "{i}Sorrindo, [r_name] contrai a vagina para forçar o seu esperma a sair, fazendo com que pingue no rosto de [b_name]."
+
+# game/day37.rpy:1581
+translate brazilian day37_r_b_sex_hard_b0622cf5:
+
+    # p "Clean that pussy up, [b_name]."
+    p "Limpa essa boceta, [b_name]."
+
+# game/day37.rpy:1587
+translate brazilian day37_r_b_sex_hard_535d6088:
+
+    # "{i}Reluctantly, [b_name] bows her head towards [r_name]'s pussy and begins to drink your cum from it."
+    "{i}Relutantemente, [b_name] inclina a cabeça em direção à boceta de [r_name] e começa a beber seu esperma dela."
+
+# game/day37.rpy:1603
+translate brazilian day37_r_b_sex_hard_7aa4b920:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger sister's back with warm seed."
+    "{i}[b_name] fica pronta quando você puxa e goza na costas da sua irmã mais nova com semente quente."
+
+# game/day37.rpy:1605
+translate brazilian day37_r_b_sex_hard_a2822f5d:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger friend's back with warm seed."
+    "{i}[b_name] fica pronta quando você puxa e goza na costas do sua amiga mais nova com semente quente."
+
+# game/day37.rpy:1610
+translate brazilian day37_r_b_sex_hard_fdc20f93:
+
+    # "{i}[r_name] lies on her stomach, a blissful smile gracing her face, while [b_name] scoops up your cum with her fingers from her back and swallows it all."
+    "{i}[r_name] deita de bruços, um sorriso feliz enfeitando seu rosto, enquanto [b_name] pega o esperma de suas costas com os dedos e engole tudo."
+
+# game/day37.rpy:1626
+translate brazilian day37_r_b_sex_hard_2a2f76f1:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older sister's face with a fountain of cum."
+    "{i}Para tornar as coisas mais fáceis para [b_name], você tira seu pau de [r_name] e explode no rosto da sua irmã mais velha com uma grande quantidade de gozo."
+
+# game/day37.rpy:1628
+translate brazilian day37_r_b_sex_hard_7c509ab8:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older friend's face with a fountain of cum."
+    "{i}Para tornar as coisas mais fáceis para [b_name], você sai de [r_name] e explode no rosto de sua amiga mais velha com uma grande quantidade de gozo."
+
+# game/day37.rpy:1629
+translate brazilian day37_r_b_sex_hard_e88f8e64:
+
+    # "{i}A lot of semen ends up in her open mouth, the rest she scoops up with her fingers and licks them clean."
+    "{i}Uma grande quantidade de sêmen acaba em sua boca aberta, o resto ela pega com os dedos e os lambe para limpar."
+
+# game/day37.rpy:1639
+translate brazilian day37_r_b_sex_hard_d269f040:
+
+    # "{i}Behaving like a good little slut, [b_name] grabs your cock and licks the remaining droplets of cum from the tip."
+    "{i}Comportando-se como uma boa putinha, [b_name] agarra seu pau e lambe as gotas de esperma restantes da ponta."
+
+# game/day37.rpy:1640
+translate brazilian day37_r_b_sex_hard_27d7082e:
+
+    # p "That's my girl."
+    p "Essa é minha garota."
+
+# game/day37.rpy:1648
+translate brazilian day37_r_b_sex_hard_2f1e1be1:
+
+    # "{i}Thoroughly satisfied, you take both girls into your arms and pull them close towards you."
+    "{i}Totalmente satisfeito, você pega as duas meninas em seus braços e as puxa para perto."
+
+# game/day37.rpy:1650
+translate brazilian day37_r_b_sex_hard_5ae801e3:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older sister's sexual performance."
+    "{i}[b_name] fica muito tensa no início, mas eventualmente baixa a guarda enquanto [r_name] murmura vários elogios sobre o desempenho sexual de sua irmã mais velha."
+
+# game/day37.rpy:1652
+translate brazilian day37_r_b_sex_hard_01154c56:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older friend's sexual performance."
+    "{i}[b_name] fica muito tensa no início, mas eventualmente baixa a guarda enquanto [r_name] murmura vários elogios sobre o desempenho sexual de sua amiga mais velha."
+
+# game/day37.rpy:1653
+translate brazilian day37_r_b_sex_hard_c88d4cdc:
+
+    # p "You were both great, girls, everything a man can dream of."
+    p "Ambas foram ótimas, meninas, tudo o que um homem pode sonhar."
+

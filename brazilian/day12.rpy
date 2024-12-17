@@ -424,7 +424,7 @@ translate brazilian day12_613d339d:
 translate brazilian day12_a575969c:
 
     # p "{i}(I guess I didn't handle that very well...)"
-    p "{i}{Eu acho que eu não lidei muito bem com isso...)"
+    p "{i}(Eu acho que eu não lidei muito bem com isso...)"
 
 # game/day12.rpy:125
 translate brazilian day12_e0ae7edd:
@@ -1221,8 +1221,8 @@ translate brazilian day12_m_fondle_bba1c54c:
 # game/day12.rpy:392
 translate brazilian day12_m_fondle_9e84b89a:
 
-    ri "No fundo ela já devia saber que arrombado o Brody era."
     # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "No fundo ela já devia saber que arrombado o Brody era."
 
 # game/day12.rpy:393
 translate brazilian day12_m_fondle_cf317110:
@@ -2906,4 +2906,714 @@ translate brazilian day12_7575467a:
 
     # "{i}Just as you want to sit down and play a game, there's a knock on your door."
     "{i}Logo quando você quer sentar e jogar, alguém bate na sua porta."
+
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day12.rpy:206
+translate brazilian day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Melhor não perturbar ela, mas nada me previne de dar uma melhor olhada naqueles peitos deslumbrantes.)"
+
+# game/day12.rpy:208
+translate brazilian day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Melhor deixar ela dormir.)"
+
+# game/day12.rpy:216
+translate brazilian day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Jesus Cristo, [p_name], você não consegue me deixar em paz?!"
+
+# game/day12.rpy:218
+translate brazilian day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Só quero conversar, mana. Ao não ser que você queria algo mais?"
+
+# game/day12.rpy:220
+translate brazilian day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Só quero conversar, [b_name]. Ao não ser que você queria algo mais?"
+
+# game/day12.rpy:222
+translate brazilian day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "Não, você já teve sua parte de mim hoje."
+
+# game/day12.rpy:223
+translate brazilian day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "Realmente."
+
+# game/day12.rpy:224
+translate brazilian day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "Eu gosto mesmo do ar livre, você não?"
+
+# game/day12.rpy:225
+translate brazilian day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Vai se foder, eu quero ir dormir."
+
+# game/day12.rpy:226
+translate brazilian day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "Ok. Mas eu tenho um pedido."
+
+# game/day12.rpy:227
+translate brazilian day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "De novo não..."
+
+# game/day12.rpy:228
+translate brazilian day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Vamos soltar a bomba...)"
+
+# game/day12.rpy:229
+translate brazilian day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "Eu sei que você gosta de brinquedos..."
+
+# game/day12.rpy:232
+translate brazilian day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "Então, a próxima vez que a gente estiver se divertindo, você vai usar um em si mesma enquanto eu assisto."
+
+# game/day12.rpy:233
+translate brazilian day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "Eu..."
+
+# game/day12.rpy:234
+translate brazilian day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "Como você..."
+
+# game/day12.rpy:235
+translate brazilian day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "Você procurou meu quarto, seu merdinha?!"
+
+# game/day12.rpy:236
+translate brazilian day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(Tipo isso...)"
+
+# game/day12.rpy:239
+translate brazilian day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Hein. Com esse tipo de atitude, eu acho que a gente precisa fazer aquele showzinho."
+
+# game/day12.rpy:240
+translate brazilian day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Nem fodendo... Eu não vou..."
+
+# game/day12.rpy:241
+translate brazilian day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "Então fala a palavra mágica."
+
+# game/day12.rpy:242
+translate brazilian day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Porra."
+
+# game/day12.rpy:243
+translate brazilian day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}[b_name] anda até um armário e vasculha na parte de trás. Ele pega seu dildo preto."
+
+# game/day12.rpy:244
+translate brazilian day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Bom. Agora eu quero que se divirta."
+
+# game/day12.rpy:248
+translate brazilian day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Amanhã. Você, eu, seu brinquedo e muita diversão. Durma bem, querida irmã."
+
+# game/day12.rpy:250
+translate brazilian day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Amanhã. Você, eu, seu brinquedo e muita diversão. Durma bem, querida [b_name]."
+
+# game/day12.rpy:258
+translate brazilian day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "{i}(Riley disse que tinha um presente para mim. Melhor ir ver.)"
+
+# game/day12.rpy:261
+translate brazilian day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Você vai até o endereço que a Riley mandou. É um prédio de apartamento perto do centro da cidade. Você aperta a campainha e ela confirma. Depois de correr por alguns lances de escada, você entra na porta da frente dela, que está meio aberta."
+
+# game/day12.rpy:264
+translate brazilian day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Oi para você!"
+
+# game/day12.rpy:265
+translate brazilian day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "Oi para você também."
+
+# game/day12.rpy:266
+translate brazilian day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Gostaria de uma bebida?"
+
+# game/day12.rpy:267
+translate brazilian day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "Tem uma cerveja?"
+
+# game/day12.rpy:268
+translate brazilian day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "É claro."
+
+# game/day12.rpy:269
+translate brazilian day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Depois de vasculhar a geladeira, Riley te entrega uma cerveja gelada. Ela abre uma para ela também."
+
+# game/day12.rpy:270
+translate brazilian day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "Um brinde!"
+
+# game/day12.rpy:271
+translate brazilian day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "Brinde, porra!"
+
+# game/day12.rpy:273
+translate brazilian day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Mano, que dia ontem."
+
+# game/day12.rpy:274
+translate brazilian day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "É, foi mesmo uma coisa e tanto."
+
+# game/day12.rpy:276
+translate brazilian day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "Sua irmã está bem?"
+
+# game/day12.rpy:278
+translate brazilian day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "Sua amiga está bem?"
+
+# game/day12.rpy:279
+translate brazilian day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Sim, ela está lidando com as notícias até bem na verdade. Bem surpreendente na minha opinião."
+
+# game/day12.rpy:280
+translate brazilian day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "No fundo ela já devia saber que arrombado o Brody era."
+
+# game/day12.rpy:281
+translate brazilian day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Uma pena que ela não percebeu mais cedo. Mas pelo menos acabou bem."
+
+# game/day12.rpy:282
+translate brazilian day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Brody passou o resto do dia redecorando o escritório dele. Os poucos clientes que a gente teve estavam estranhando os sons dos móveis sendo jogados para todo lado e toda a gritaria..."
+
+# game/day12.rpy:283
+translate brazilian day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "O canalha até me mandou pedir novos móveis de escritório no final do dia. Estragou todos."
+
+# game/day12.rpy:284
+translate brazilian day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "Pelo menos ele soltou um pouco daquela raiva acumulada..."
+
+# game/day12.rpy:285
+translate brazilian day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "Espero que não vire a rotina diária dele."
+
+# game/day12.rpy:286
+translate brazilian day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Uma boa visita anal da namorada extra dele pode cuidar disso."
+
+# game/day12.rpy:288
+translate brazilian day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "Eeeecaaaa!"
+
+# game/day12.rpy:290
+translate brazilian day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "Outra cerveja?"
+
+# game/day12.rpy:291
+translate brazilian day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "Claro, parece que eu já terminei a minha."
+
+# game/day12.rpy:292
+translate brazilian day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Riley retorna da cozinha com duas cervejas e um sorriso debochado no rosto."
+
+# game/day12.rpy:293
+translate brazilian day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Fala, [p_name]. Você sabe que eu gosto de você e a gente se beijou algumas vezes... E eu gosto que as coisas sejam claras."
+
+# game/day12.rpy:294
+translate brazilian day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(Isso por si só é uma declaração pouco clara, mas tudo bem.)"
+
+# game/day12.rpy:296
+translate brazilian day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "Gostaria de ter sexo louco comigo?"
+
+# game/day12.rpy:298
+translate brazilian day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "Gostaria de passar a noite comigo?"
+
+# game/day12.rpy:302
+translate brazilian day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Sabe... Você é ótima mesmo em dar presentes."
+
+# game/day12.rpy:303
+translate brazilian day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "Eu gostaria de imaginar que sim."
+
+# game/day12.rpy:304
+translate brazilian day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Mostre o caminho."
+
+# game/day12.rpy:310
+translate brazilian day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Eu... Eu pensei que isso era só uma visita amigável."
+
+# game/day12.rpy:312
+translate brazilian day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Jesus. Você é ruim mesmo em entender os sinais não é? Eu preciso soletrar para você?"
+
+# game/day12.rpy:313
+translate brazilian day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "É melhor eu ir."
+
+# game/day12.rpy:314
+translate brazilian day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Eu acho que é sim."
+
+# game/day12.rpy:322
+translate brazilian day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}É tarde da noite quando você vai buscar [l_name] em seu quarto para o encontro."
+
+# game/day12.rpy:324
+translate brazilian day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "Ei, garota festeira, pronta para ir?"
+
+# game/day12.rpy:325
+translate brazilian day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Sim, sim eu estou!"
+
+# game/day12.rpy:327
+translate brazilian day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Você vai com [l_name] até o clube na entrada da cidade."
+
+# game/day12.rpy:333
+translate brazilian day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "A música é bem alta, não é?"
+
+# game/day12.rpy:334
+translate brazilian day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "É, você se acostuma. Vamos achar um lugar mais quieto e pegar umas bebidas."
+
+# game/day12.rpy:335
+translate brazilian day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "Do que você gostaria?"
+
+# game/day12.rpy:336
+translate brazilian day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "Água?"
+
+# game/day12.rpy:341
+translate brazilian day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "A gente está numa festa, [l_name], água não ajuda muito nas festas."
+
+# game/day12.rpy:342
+translate brazilian day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "Ok, o que você recomenda?"
+
+# game/day12.rpy:343
+translate brazilian day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "Um vinho talvez, ou alguma coisa mais doce?"
+
+# game/day12.rpy:344
+translate brazilian day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "Eu não sei..."
+
+# game/day12.rpy:345
+translate brazilian day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Ainda tão reservada...)"
+
+# game/day12.rpy:346
+translate brazilian day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "Quer saber, eu gostaria de uma taça de vinho branco."
+
+# game/day12.rpy:347
+translate brazilian day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "Ótimo! Vinho branco a caminho."
+
+# game/day12.rpy:348
+translate brazilian day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Você pega uma taça de vinho branco para a [l_name] e uma cerveja para si."
+
+# game/day12.rpy:350
+translate brazilian day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Você pega uma garrafa de água para a [l_name] e uma cerveja para si."
+
+# game/day12.rpy:353
+translate brazilian day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "Não é tão cheio, é?"
+
+# game/day12.rpy:354
+translate brazilian day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "Não, a noite está meio lenta. Mas isso significa que a pista de dança é nossa! "
+
+# game/day12.rpy:355
+translate brazilian day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "Eu não sei se quero dançar."
+
+# game/day12.rpy:356
+translate brazilian day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "Você não tem que fazer nada que não queira fazer. Só se diverte!"
+
+# game/day12.rpy:357
+translate brazilian day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "Não se preocupa."
+
+# game/day12.rpy:703
+translate brazilian day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "{i}(O corpo pelado dela é um presente, igualzinho ontem á noite!)"
+
+# game/day12.rpy:704
+translate brazilian day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(Eu tenho uma ideia...)"
+
+# game/day12.rpy:709
+translate brazilian day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Você move sua mão até as coxas da [r_name]. Ela solta um pequeno gemido enquanto você toca na pele dela com as pontas dos dedos e vai lentamente até dentre suas pernas."
+
+# game/day12.rpy:710
+translate brazilian day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day12.rpy:711
+translate brazilian day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(Até agora, tudo bem.)"
+
+# game/day12.rpy:712
+translate brazilian day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Quando você acaricia suavemente a área ao redor do boceta dela, as pernas dela se abrem convidativamente."
+
+# game/day12.rpy:715
+translate brazilian day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(Minha irmã tem a mais linda, virgem boceta.)"
+
+# game/day12.rpy:717
+translate brazilian day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}([r_name] tem a mais linda, virgem boceta.)"
+
+# game/day12.rpy:722
+translate brazilian day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Muito cuidadosamente você passa dois dedos pela boceta dela e sente seus lábios molhados."
+
+# game/day12.rpy:723
+translate brazilian day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(Ela está tão pronta.)"
+
+# game/day12.rpy:724
+translate brazilian day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Você continua a esfregar os lábios dela com os dedos e massagear o sua boceta."
+
+# game/day12.rpy:725
+translate brazilian day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day12.rpy:728
+translate brazilian day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Assim que você massageia o clitóris diretamente os olhos dela abrem bastante."
+
+# game/day12.rpy:729
+translate brazilian day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "B-b-bom dia..."
+
+# game/day12.rpy:730
+translate brazilian day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Ei..."
+
+# game/day12.rpy:731
+translate brazilian day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "Quer que eu pare??"
+
+# game/day12.rpy:732
+translate brazilian day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "Ah, deus não!"
+
+# game/day12.rpy:734
+translate brazilian day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Encorajado pelas palavras dela, você volta sua atenção completamente ao clitóris dela. [r_name] suspira enquanto você desliza um dedo dentro da boceta molhada."
+
+# game/day12.rpy:735
+translate brazilian day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "Aaaai! Isso!"
+
+# game/day12.rpy:737
+translate brazilian day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Sua irmã segura a mão que está estimulando o clitóris dela e empurra ela mais forte."
+
+# game/day12.rpy:739
+translate brazilian day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] segura a mão que está estimulando seu clitóris e empurra ela com mais força."
+
+# game/day12.rpy:740
+translate brazilian day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "Eu quero tanto te sentir, [p_name]!"
+
+# game/day12.rpy:741
+translate brazilian day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Você desliza seus dedos para dentro e para fora da boceta molhada. Ao massagear o clitóris dela ainda mais intensamente, você sente o corpo dela se tensionando, pronto para se liberar."
+
+# game/day12.rpy:749
+translate brazilian day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "Aaaaah! Aaaah! [p_name]!!!"
+
+# game/day12.rpy:750
+translate brazilian day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}O orgasmo é longo e poderoso, o corpo da [r_name] estremece enquanto ela segura sua mão contra a boceta."
+
+# game/day12.rpy:756
+translate brazilian day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Depois de um tempo ás convulsões pararam e com um suspiro ela se acolhe contra você."
+
+# game/day12.rpy:757
+translate brazilian day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Mas que jeito incrível de acordem."
+
+# game/day12.rpy:758
+translate brazilian day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Você foi tão ótimo ontem de noite, aí  pensei em te recompensar do mesmo jeito."
+
+# game/day12.rpy:759
+translate brazilian day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Bem o que eu precisava."
+
+# game/day12.rpy:760
+translate brazilian day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "Ocupada hoje?"
+
+# game/day12.rpy:761
+translate brazilian day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Sim, vou sair. A Ana me pediu para ir lá. E você?"
+
+# game/day12.rpy:762
+translate brazilian day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "Hoje parece um dia lento, mas eu não me importo."
+
+# game/day12.rpy:763
+translate brazilian day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}Depois de passarem um tempo abraçados, vocês se levantam e tomam um café da manhã."
 

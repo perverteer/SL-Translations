@@ -5274,3 +5274,41 @@ translate brazilian day141_l_pool_5df15299:
     # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
     "{i}Você massageia as pernas da [l_name] com o protetor solar, e também esfrega a barriga."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day141.rpy:1185
+translate brazilian day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] está grávida nesta cena?"
+
+# game/day141.rpy:1189
+translate brazilian day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] grávida"
+
+# game/day141.rpy:1192
+translate brazilian day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] não está grávida"
+
+# game/day141.rpy:1442
+translate brazilian day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] está grávida nesta cena?"
+
+# game/day141.rpy:1446
+translate brazilian day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] grávida"
+
+# game/day141.rpy:1449
+translate brazilian day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] não está grávida"
+

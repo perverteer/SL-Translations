@@ -4825,3 +4825,1451 @@ translate brazilian day14_evening_choices_fd06fdaa:
     # "{i}The film you end up watching is rather boring and you have a hard time concentrating. Instead, you steal glances at [b_name], who doesn't seem to notice."
     "{i}O filme que vocês acabam assistindo é um tanto chato e você tem dificuldade para se concentrar. Ao invés disso, você olha furtivamente para [b_name], que parece não notar."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day14.rpy:264
+translate brazilian day14_choices_d8a6ddcd:
+
+    # p "I'm glad to hear that."
+    p "Estou feliz de ouvir isso."
+
+# game/day14.rpy:265
+translate brazilian day14_choices_94cbdeab:
+
+    # h "Do you need to go?"
+    h "Precisa ir?"
+
+# game/day14.rpy:266
+translate brazilian day14_choices_0d51abe5:
+
+    # p "{i}(God, that woman is insatiable. Fine with me.)"
+    p "{i}(Deus, essa mulher é insaciável. Por mim tudo bem.)"
+
+# game/day14.rpy:267
+translate brazilian day14_choices_b15b03f1:
+
+    # p "I have some time left..."
+    p "Eu tenho mais um tempo..."
+
+# game/day14.rpy:268
+translate brazilian day14_choices_1a2122c1:
+
+    # h "Good, I want to feel you inside me again."
+    h "Bom, eu quero te sentir dentro de mim de novo."
+
+# game/day14.rpy:269
+translate brazilian day14_choices_b28d880a:
+
+    # p "That can be arranged."
+    p "Isso pode ser arranjado."
+
+# game/day14.rpy:827
+translate brazilian day14_discreet_session_c4245165:
+
+    # p "{i}(I'm not sure if I'll ever get used to seeing [m_name] like this.)"
+    p "{i}(Não tenho certeza se algum dia vou me acostumar com ver a [r_name] assim.)"
+
+# game/day14.rpy:828
+translate brazilian day14_discreet_session_46e5949d:
+
+    # m "Are you ready to continue, Mr. Holmes?"
+    m "Está pronto para continuar, Sr. Holmes?"
+
+# game/day14.rpy:829
+translate brazilian day14_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:830
+translate brazilian day14_discreet_session_4c8b2fa1:
+
+    # m "Good, you didn't forget how to address me."
+    m "Bem, você não esqueceu como se dirigir a mim."
+
+# game/day14.rpy:832
+translate brazilian day14_discreet_session_9d9a6ef4:
+
+    # m "Today we'll open one of the doors and see what's behind them."
+    m "Hoje vamos abrir uma das nossas portas e ver o que há atrás delas."
+
+# game/day14.rpy:833
+translate brazilian day14_discreet_session_044b7890:
+
+    # m "Undress yourself."
+    m "Tire suas roupas."
+
+# game/day14.rpy:834
+translate brazilian day14_discreet_session_44fd583a:
+
+    # "{i}You quietly remove your clothes while [m_name] gazes at you."
+    "{i}Você quietamente remove suas roupas enquanto [m_name] olha fixamente para você."
+
+# game/day14.rpy:835
+translate brazilian day14_discreet_session_65725451:
+
+    # m "{i}(I almost forgot how good he looked.)"
+    m "{i}(Quase esqueci o quão bonito ele era.)"
+
+# game/day14.rpy:836
+translate brazilian day14_discreet_session_1f37fe43:
+
+    # m "You may open the first door to your left."
+    m "Você pode abrir a primeira porta à sua esquerda."
+
+# game/day14.rpy:838
+translate brazilian day14_discreet_session_2da66ab0:
+
+    # p "{i}(Damn! Is that the receptionist?)"
+    p "{i}(Caramba! É a recepcionista?)"
+
+# game/day14.rpy:839
+translate brazilian day14_discreet_session_e6885bc2:
+
+    # m "Before you, you see another of my slaves. I think you've met her. Would you like to know her name?"
+    m "Diante de você, você vê outra das minhas escravas. Acho que você conheceu. Gostaria de saber o nome dela?"
+
+# game/day14.rpy:840
+translate brazilian day14_discreet_session_e8d6f445:
+
+    # p "Yes mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:842
+translate brazilian day14_discreet_session_e711782e:
+
+    # m "I'm afraid she can't tell her yourself, but her name is Adriana."
+    m "Temo que ela não ela mesma não pode te falar, mas seu nome é Adriana."
+
+# game/day14.rpy:843
+translate brazilian day14_discreet_session_aaeed54b:
+
+    # m "Adriana, this is Mr. Holmes."
+    m "Adriana, esse é o Sr. Holmes."
+
+# game/day14.rpy:844
+translate brazilian day14_discreet_session_3870e3e0:
+
+    # "{i}The receptionist mumbles something from behind her ball gag and struggles with her bonds."
+    "{i}A recepcionista murmura alguma coisa de trás da mordaça dela e luta com as amarras."
+
+# game/day14.rpy:845
+translate brazilian day14_discreet_session_d06d977a:
+
+    # m "Are those restraints too tight, Adriana?"
+    m "Está muito apertado, Adriana?"
+
+# game/day14.rpy:846
+translate brazilian day14_discreet_session_5e09bd5c:
+
+    # m "She's nodding her head. I guess she's fine. Do you like what you see, boy?"
+    m "Ela está balançando a cabeça. Acho que deve estar bem. Gosta do que vê, garoto?"
+
+# game/day14.rpy:847
+translate brazilian day14_discreet_session_e8d6f445_1:
+
+    # p "Yes mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:848
+translate brazilian day14_discreet_session_a8ef698e:
+
+    # m "What do you like specifically? Tell me."
+    m "Do que você gosta especificamente? Me conte."
+
+# game/day14.rpy:853
+translate brazilian day14_discreet_session_ab350f2c:
+
+    # p "Her breasts, mistress."
+    p "Os seios dela, senhora."
+
+# game/day14.rpy:855
+translate brazilian day14_discreet_session_20f12902:
+
+    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
+    m "Sim, eles são um par e tanto, não são? Aposto que gostaria de foder eles."
+
+# game/day14.rpy:859
+translate brazilian day14_discreet_session_1ae6a054:
+
+    # p "Yes, mistress. I would very much."
+    p "Sim, senhora. Eu gostaria muito."
+
+# game/day14.rpy:860
+translate brazilian day14_discreet_session_5d7144d2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Talvez você tenha sorte se for um bom menino."
+
+# game/day14.rpy:863
+translate brazilian day14_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Não, senhora."
+
+# game/day14.rpy:864
+translate brazilian day14_discreet_session_714694ce:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Você não é muito consistente com suas respostas, é? Não me decepcione."
+
+# game/day14.rpy:865
+translate brazilian day14_discreet_session_c8c6eb0f:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Quando eu admiro algo, não significa automaticamente que eu quero foder essa coisa... Jesus...)"
+
+# game/day14.rpy:869
+translate brazilian day14_discreet_session_242c9dd0:
+
+    # p "Her ass, mistress."
+    p "A bunda dela, senhora."
+
+# game/day14.rpy:871
+translate brazilian day14_discreet_session_17b91230:
+
+    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
+    m "Sim, a bunda ela é uma coisa e tanto. Macia e redonda. Aposto que gostaria de foder ela por trás."
+
+# game/day14.rpy:875
+translate brazilian day14_discreet_session_1ae6a054_1:
+
+    # p "Yes, mistress. I would very much."
+    p "Sim, senhora. Eu gostaria muito."
+
+# game/day14.rpy:876
+translate brazilian day14_discreet_session_5d7144d2_1:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Talvez você tenha sorte se for um bom menino."
+
+# game/day14.rpy:879
+translate brazilian day14_discreet_session_d36b20f6_1:
+
+    # p "No, mistress."
+    p "Não, senhora."
+
+# game/day14.rpy:880
+translate brazilian day14_discreet_session_714694ce_1:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Você não é muito consistente com suas respostas, é? Não me decepcione."
+
+# game/day14.rpy:881
+translate brazilian day14_discreet_session_c8c6eb0f_1:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Quando eu admiro algo, não significa automaticamente que eu quero foder essa coisa... Jesus...)"
+
+# game/day14.rpy:885
+translate brazilian day14_discreet_session_856d4021:
+
+    # p "Her pussy, mistress."
+    p "A boceta dela, senhora."
+
+# game/day14.rpy:887
+translate brazilian day14_discreet_session_70eee315:
+
+    # m "Yes, it looks very juicy. I bet you'd like to fuck that pussy."
+    m "Sim, parece bem suculenta. Aposto que gostaria de foder essa boceta."
+
+# game/day14.rpy:891
+translate brazilian day14_discreet_session_1ae6a054_2:
+
+    # p "Yes, mistress. I would very much."
+    p "Sim, senhora. Eu gostaria muito."
+
+# game/day14.rpy:892
+translate brazilian day14_discreet_session_5d7144d2_2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Talvez você tenha sorte se for um bom menino."
+
+# game/day14.rpy:895
+translate brazilian day14_discreet_session_d36b20f6_2:
+
+    # p "No, mistress."
+    p "Não, senhora."
+
+# game/day14.rpy:896
+translate brazilian day14_discreet_session_714694ce_2:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Você não é muito consistente com suas respostas, é? Não me decepcione."
+
+# game/day14.rpy:897
+translate brazilian day14_discreet_session_c8c6eb0f_2:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Quando eu admiro algo, não significa automaticamente que eu quero foder essa coisa... Jesus...)"
+
+# game/day14.rpy:900
+translate brazilian day14_discreet_session_147de036:
+
+    # p "Nothing much, mistress."
+    p "Nada demais, senhora."
+
+# game/day14.rpy:902
+translate brazilian day14_discreet_session_95aba2ad:
+
+    # m "Are you trying to annoy me, boy? Because you're succeeding."
+    m "Está tentando me irritar, garoto? Porque está conseguindo."
+
+# game/day14.rpy:903
+translate brazilian day14_discreet_session_d36b20f6_3:
+
+    # p "No, mistress."
+    p "Não, senhora."
+
+# game/day14.rpy:905
+translate brazilian day14_discreet_session_c7dbdc10:
+
+    # "{i}[m_name] retrieves a key from somewhere and unlocks the restraints that are holding Adriana. You all move to the ornate room with the couch."
+    "{i}[m_name] pega uma chave de algum lugar e abre as amarras que estão segurando Adriana. Vocês todos vão para o quarto ornamentado com o sofá."
+
+# game/day14.rpy:907
+translate brazilian day14_discreet_session_ce38f8d4:
+
+    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
+    "{i}Você fica em pé ao lado de Adriana, que ainda não consegue dizer muito com a bola na boca. Apesar do calor do quarto, ela está tremendo levemente."
+
+# game/day14.rpy:908
+translate brazilian day14_discreet_session_91ccbfec:
+
+    # m "Now, Adriana and you are going to do something for me. It's a test of strength and resolve, in a way. And the winner gets a prize."
+    m "Agora, Adriana e você vão fazer algo por mim. É um teste de força e determinação, de certa forma. O vencedor ganha um prêmio."
+
+# game/day14.rpy:909
+translate brazilian day14_discreet_session_8d344ccc:
+
+    # p "{i}(Wonder what that'll be.)"
+    p "{i}(Me pergunto o que vai ser.)"
+
+# game/day14.rpy:910
+translate brazilian day14_discreet_session_7153742f:
+
+    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
+    "{i}[m_name] entrega dois objetos. Você se surpreende pelo peso deles."
+
+# game/day14.rpy:911
+translate brazilian day14_discreet_session_5df7de85:
+
+    # m "You'll hold one in each hand and keep your arms level."
+    m "Vocês vão segurar um em cada mão e manter no nível dos seus braços."
+
+# game/day14.rpy:913
+translate brazilian day14_discreet_session_25919422:
+
+    # m "Good. The person who can hold this weight the longest will be the winner."
+    m "Bom. A pessoa que puder segurar esse peso por mais tempo, vence."
+
+# game/day14.rpy:914
+translate brazilian day14_discreet_session_3345c523:
+
+    # p "{i}(That shouldn't be too hard.)"
+    p "{i}(Isso não deve ser muito difícil.)"
+
+# game/day14.rpy:915
+translate brazilian day14_discreet_session_0095e6b5:
+
+    # "{i}You feel the weight of the stones in your arms as you try to keep them at the same position."
+    "{i}Você sente o peso das pedras em seus braços enquanto tenta mantê-los na mesma posição."
+
+# game/day14.rpy:920
+translate brazilian day14_discreet_session_f9183d78:
+
+    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
+    "{i}De repente você ouve o estalo de um chicote e um gemido abafada escapa Adriana."
+
+# game/day14.rpy:921
+translate brazilian day14_discreet_session_273dffed:
+
+    # m "On your toes, the both of you."
+    m "Na ponta dos pés, vocês dois."
+
+# game/day14.rpy:922
+translate brazilian day14_discreet_session_d191b303:
+
+    # p "{i}(Fuck.)"
+    p "{i}(Porra.)"
+
+# game/day14.rpy:924
+translate brazilian day14_discreet_session_bc169090:
+
+    # m "You both need to learn some discipline."
+    m "Vocês dois precisam aprender um pouco de disciplina."
+
+# game/day14.rpy:928
+translate brazilian day14_discreet_session_bf971835:
+
+    # "{i}The whip cracks against your naked buttocks. You feel the heat of the lash pulsate as she strikes your butt again."
+    "{i}O chicote estala contra suas nádegas peladas. Você sente o calor do laço pulsar enquanto ela te acerta na bunda de novo."
+
+# game/day14.rpy:929
+translate brazilian day14_discreet_session_bfea5ee9:
+
+    # m "Stay on your toes."
+    m "Na ponta dos pés."
+
+# game/day14.rpy:930
+translate brazilian day14_discreet_session_5e132d44:
+
+    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
+    "{i}[m_name] volta a Adriana, e do canto do olho você a vê batendo nas panturrilhas da recepcionista. Ela solta algo entre grito e gemido."
+
+# game/day14.rpy:931
+translate brazilian day14_discreet_session_c9792aca:
+
+    # m "Are you going to give up so easily, Adriana?"
+    m "Você vai desistir tão facilmente, Adriana?"
+
+# game/day14.rpy:932
+translate brazilian day14_discreet_session_acb698b0:
+
+    # p "{i}(Adriana must be close... Is she going to drop those stones?)"
+    p "{i}(Adriana deve estar perto... Ela vai derrubar as pedras?)"
+
+# game/day14.rpy:936
+translate brazilian day14_discreet_session_08b78b95:
+
+    # p "{i}(I can probably hold out for a bit, but I'm curious to see what the prize for Adriana entails.)"
+    p "{i}(Eu provavelmente consigo segurar um pouco, mas estou curioso para ver qual seria o prêmio para Adriana.)"
+
+# game/day14.rpy:947
+translate brazilian day14_discreet_session_b7371781:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}O chicote da [m_name] está entre as coxas da Adriana, e ela está lutando para se manter na ponta dos pés enquanto [m_name] atinge sua boceta com curtos, violentos estalos."
+
+# game/day14.rpy:948
+translate brazilian day14_discreet_session_3f852ec6:
+
+    # "{i}You let go and drop both stones to the ground."
+    "{i}Você solta e derruba ambas pedras no chão."
+
+# game/day14.rpy:949
+translate brazilian day14_discreet_session_fd39564f:
+
+    # m "What?! This is unexpected."
+    m "O quê?! Isso é inesperado."
+
+# game/day14.rpy:950
+translate brazilian day14_discreet_session_3cb47b54:
+
+    # m "{i}(Damnit, I really thought he would last longer. Adriana's good enough, but I'm getting more and more interested in him.)"
+    m "{i}(Droga, eu realmente achei que fosse aguentar mais. A Adriana é boa o suficiente, mas eu estou ficando cada vez mais interessada nele.)"
+
+# game/day14.rpy:951
+translate brazilian day14_discreet_session_33663369:
+
+    # p "{i}(Does she sound disappointed?)"
+    p "{i}(Ela parece decepcionada?)"
+
+# game/day14.rpy:952
+translate brazilian day14_discreet_session_89709d7a:
+
+    # m "Seems like you're the winner, Adriana. Are you happy?"
+    m "Parece que você é a vencedora, Adriana. Está feliz?"
+
+# game/day14.rpy:953
+translate brazilian day14_discreet_session_0dc81ae4:
+
+    # "{i}Adriana, still holding the stones while standing on her toes, nods her head enthusiastically."
+    "{i}Adriana, ainda segurando as pedras enquanto ficando de pé com os dedões, acena entusiasmadamente com a cabeça."
+
+# game/day14.rpy:954
+translate brazilian day14_discreet_session_ea63efd8:
+
+    # m "You probably want to let go of those stones, don't you?"
+    m "Você provavelmente quer derrubar essas pedras, não quer?"
+
+# game/day14.rpy:955
+translate brazilian day14_discreet_session_e612037c:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:956
+translate brazilian day14_discreet_session_fed026af:
+
+    # m "That is allowed. And as a bonus, I'll remove your gag."
+    m "Pode fazer isso. E como um bônus, vou remover sua mordaça."
+
+# game/day14.rpy:957
+translate brazilian day14_discreet_session_0b3cbcc9:
+
+    # "{i}Adriana drops her stones and looks relieved as [m_name] removes the ball gag."
+    "{i}Adriana derruba as pedras e parece aliviada quando [m_name] remove a mordaça de bola."
+
+# game/day14.rpy:958
+translate brazilian day14_discreet_session_2b1521c1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Agora para sua recompensa. Minha boceta precisa de um pouco de atenção. Deite-se."
+
+# game/day14.rpy:960
+translate brazilian day14_discreet_session_f8c8b460:
+
+    # "{i}The receptionist obediently lies down on the floor."
+    "{i}A recepcionista obedientemente deita no chão."
+
+# game/day14.rpy:961
+translate brazilian day14_discreet_session_83ca7014:
+
+    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
+    m "Você pode assistir, menino. Se eu vir você se tocando, vai ser um inferno para você."
+
+# game/day14.rpy:963
+translate brazilian day14_discreet_session_679e517a:
+
+    # "{i}Your mother undresses and lowers herself onto Adriana's face."
+    "{i}Sua mãe tira as roupas e se agacha no rosto da Adriana."
+
+# game/day14.rpy:965
+translate brazilian day14_discreet_session_cd89a18e:
+
+    # "{i}[m_name] undresses and lowers herself onto Adriana's face."
+    "{i}[m_name] tira as roupas e se agacha no rosto da Adriana."
+
+# game/day14.rpy:966
+translate brazilian day14_discreet_session_34ef5289:
+
+    # p "{i}(Fucking hell, her body is pure pornography.)"
+    p "{i}(Puta que pariu, o corpo dela é pura pornografia.)"
+
+# game/day14.rpy:967
+translate brazilian day14_discreet_session_993f6fee:
+
+    # m "Lick me, slut."
+    m "Me lambe, puta."
+
+# game/day14.rpy:974
+translate brazilian day14_discreet_session_7a3d4edc:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks your mom's pussy lips."
+    "{i}A língua da Adriana sai rapidamente da boca e ela cuidadosamente lambe os lábios da boceta da sua mãe."
+
+# game/day14.rpy:976
+translate brazilian day14_discreet_session_edf58581:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
+    "{i}A língua da Adriana sai rapidamente da boca e ela cuidadosamente lambe os lábios da boceta da [m_name]."
+
+# game/day14.rpy:977
+translate brazilian day14_discreet_session_b5bfeb5c:
+
+    # m "Good! Good!"
+    m "Ótimo! Ótimo!"
+
+# game/day14.rpy:978
+translate brazilian day14_discreet_session_1f6e2cc0:
+
+    # "{i}You only hear Adriana's muffled breathing and the wet sounds of her tongue caressing [m_name]'s labia as she smothers the receptionist with her pussy."
+    "{i}Você apenas ouve a respiração abafada da Adriana e os sons molhados da boca dela acariciando o lábios da [m_name] enquanto ela sufoca a recepcionista com a boceta dela."
+
+# game/day14.rpy:979
+translate brazilian day14_discreet_session_d64705b0:
+
+    # m "Do you like that, Adriana?"
+    m "Gosta disso, Adriana?"
+
+# game/day14.rpy:980
+translate brazilian day14_discreet_session_be51334e:
+
+    # ad "Mmmmmhmmmmmm..."
+    ad "Mmmmmhmmmmmm..."
+
+# game/day14.rpy:981
+translate brazilian day14_discreet_session_c70f6a60:
+
+    # m "Fuck my pussy with your tongue."
+    m "Fode minha boceta com sua língua."
+
+# game/day14.rpy:990
+translate brazilian day14_discreet_session_ba0fa4bb:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of your mom's vagina."
+    "{i}Seu pau está completamente ereto enquanto a cabeça da Adriana sobe e desce, a língua dela entrando e saindo da vagina da sua mãe."
+
+# game/day14.rpy:992
+translate brazilian day14_discreet_session_f6020670:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
+    "{i}Seu pau está completamente ereto enquanto a cabeça da Adriana sobe e desce, a língua dela entrando e saindo da vagina da [m_name]."
+
+# game/day14.rpy:993
+translate brazilian day14_discreet_session_b8fbbb08:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of the receptionist's head and pulls her towards her pussy."
+    "{i}Claramente perto do orgasmo, [m_name] segura a cabeça da recepcionista e puxa ela na direção de sua boceta."
+
+# game/day14.rpy:1000
+translate brazilian day14_discreet_session_df976253:
+
+    # m "Aaaaaaah! Goooood girl!"
+    m "Aaaaaaah! Boooooa garota!"
+
+# game/day14.rpy:1001
+translate brazilian day14_discreet_session_67309967:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes, you little whore! Aaaaah!"
+    m "Bebe meu gozo! Ai, isso, porra! Chupa a minha boceta. Sim, sua putinha! Aaaaah!"
+
+# game/day14.rpy:1002
+translate brazilian day14_discreet_session_cc917045:
+
+    # "{i}As you watch the scene unfold before your eyes, precum is leaking from the tip of your taught member."
+    "{i}Enquanto você assiste a cena acontecer diante de seus olhos, fluido estão vazando da ponta do seu membro."
+
+# game/day14.rpy:1006
+translate brazilian day14_discreet_session_38c64a1b:
+
+    # p "{i}(Must hold out a little longer.)"
+    p "{i}(Tenho segurar um pouco mais.)"
+
+# game/day14.rpy:1017
+translate brazilian day14_discreet_session_b7371781_1:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}O chicote da [m_name] está entre as coxas da Adriana, e ela está lutando para se manter na ponta dos pés enquanto [m_name] atinge sua boceta com curtos, violentos estalos."
+
+# game/day14.rpy:1018
+translate brazilian day14_discreet_session_0bcfc987:
+
+    # "{i}Adriana suddenly stumbles and one of the stones drops from her hand, the other soon follows."
+    "{i}Adriana de repente tropeça e uma das pedras cai de sua mão, a outra logo segue."
+
+# game/day14.rpy:1019
+translate brazilian day14_discreet_session_6dd6b0e9:
+
+    # m "Disappointing. That means you are the winner, boy. You probably want to let go of those stones, don't you?"
+    m "Decepcionante. Isso significa que você é o vencedor, menino. Você provavelmente quer derrubar essas pedras não quer?"
+
+# game/day14.rpy:1020
+translate brazilian day14_discreet_session_e612037c_1:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:1021
+translate brazilian day14_discreet_session_7758ccc4:
+
+    # m "That is allowed."
+    m "Isso é permitido."
+
+# game/day14.rpy:1022
+translate brazilian day14_discreet_session_b1a2a3dd:
+
+    # "{i}You let go of both stones at the same time which is a relief on your strained arm muscles."
+    "{i}Você deixa ambas pedras caírem ao mesmo tempo, o que é um alívio nos músculos tensos dos seus braços."
+
+# game/day14.rpy:1023
+translate brazilian day14_discreet_session_90d93bee:
+
+    # m "{i}(Let's see what he can do. I'm sure Adriana is confused by the whole situation right now. This isn't normally how we do things.)"
+    m "{i}(Vamos ver o que ele pode fazer. Tenho certeza que Adriana está confusa por toda a situação agora. Isso não é normalmente como fazemos as coisas.)"
+
+# game/day14.rpy:1024
+translate brazilian day14_discreet_session_2b1521c1_1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Agora para sua recompensa. Minha boceta precisa de um pouco de atenção. Deite-se."
+
+# game/day14.rpy:1026
+translate brazilian day14_discreet_session_b9c0aeca:
+
+    # "{i}You lie down on the floor."
+    "{i}Você se deita no chão."
+
+# game/day14.rpy:1027
+translate brazilian day14_discreet_session_c2d5a788:
+
+    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
+    m "Você pode assistir, Adriana. Se eu vir você se tocando, vai ser um inferno para você."
+
+# game/day14.rpy:1029
+translate brazilian day14_discreet_session_7c796bfc:
+
+    # "{i}Your mother undresses and lowers herself onto your face."
+    "{i}Sua mãe tira as roupas e se agacha no seu rosto."
+
+# game/day14.rpy:1031
+translate brazilian day14_discreet_session_f4c12e75:
+
+    # "{i}[m_name] undresses and lowers herself onto your face."
+    "{i}[m_name] tira as roupas e se agacha no seu rosto."
+
+# game/day14.rpy:1032
+translate brazilian day14_discreet_session_864f6070:
+
+    # "{i}Her soft pubic hair tickles and a salty aroma nearly overwhelms you. It's getting harder to breathe."
+    "{i}A macia área púbica dela faz cócegas e um aroma salgado quase o sobrecarrega. Está ficando mais difícil de respirar."
+
+# game/day14.rpy:1033
+translate brazilian day14_discreet_session_254921b0:
+
+    # p "{i}(She's fucking sitting on my face. Wish I wasn't wearing that bloody mask.)"
+    p "{i}(Porra, ela está sentando no meu rosto. Queria não estar vestindo essa porra de máscara.)"
+
+# game/day14.rpy:1034
+translate brazilian day14_discreet_session_a5655a32:
+
+    # m "Lick me, boy."
+    m "Me lambe, menino."
+
+# game/day14.rpy:1041
+translate brazilian day14_discreet_session_81f58e43:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick your mom's pussy lips. She's wet and tastes salty."
+    "{i}Sua língua sai rapidamente da sua boca e você cuidadosamente lambe os lábios da boceta da sua mãe. Ela está molhada e tem gosto salgado."
+
+# game/day14.rpy:1043
+translate brazilian day14_discreet_session_cd7c1d9c:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
+    "{i}Sua língua sai rapidamente da sua boca e você cuidadosamente lambe os lábios da boceta da [m_name]. Ela está molhada e tem gosto salgado."
+
+# game/day14.rpy:1044
+translate brazilian day14_discreet_session_b5bfeb5c_1:
+
+    # m "Good! Good!"
+    m "Ótimo! Ótimo!"
+
+# game/day14.rpy:1045
+translate brazilian day14_discreet_session_9e557aa2:
+
+    # "{i}The only thing you hear is [m_name]'s heavy breathing and the wet sounds of your tongue caressing her labia as she smothers you with her pussy."
+    "{i}A única coisa que você ouve é a respiração pesada da [m_name] e os sons molhados da sua língua acariciando o lábios dela enquanto ela o sufoca com a boceta."
+
+# game/day14.rpy:1046
+translate brazilian day14_discreet_session_dfd9b39b:
+
+    # m "Do you like that, boy?"
+    m "Gosta disso, garoto?"
+
+# game/day14.rpy:1047
+translate brazilian day14_discreet_session_e15e30b7:
+
+    # p "Mmmmmhmmmmmm..."
+    p "Mmmmmhmmmmmm..."
+
+# game/day14.rpy:1048
+translate brazilian day14_discreet_session_c70f6a60_1:
+
+    # m "Fuck my pussy with your tongue."
+    m "Fode minha boceta com sua língua."
+
+# game/day14.rpy:1057
+translate brazilian day14_discreet_session_674d8f15:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of your mom's vagina."
+    "{i}Seu pau está completamente ereto enquanto sua língua entra e sai da vagina da sua mãe."
+
+# game/day14.rpy:1059
+translate brazilian day14_discreet_session_823d5930:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
+    "{i}Seu pau está completamente ereto enquanto sua língua entra e sai da vagina da [m_name]."
+
+# game/day14.rpy:1060
+translate brazilian day14_discreet_session_3c2ee3ac:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of your head and pulls you towards her pussy. You feel her fingers press hard against your skull."
+    "{i}Claramente perto do orgasmo, [m_name] segura sua cabeça e o puxa até a boceta dela. Você sente os dedos dela apertarem forte contra seu crânio."
+
+# game/day14.rpy:1067
+translate brazilian day14_discreet_session_8e09283d:
+
+    # m "Aaaaaaah! Goooood boy!"
+    m "Aaaaaaah! Booooom garoto!"
+
+# game/day14.rpy:1068
+translate brazilian day14_discreet_session_ef7ee683:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes! Aaaaah!"
+    m "Beba meu gozo! Ai, isso, porra! Chupa a minha boceta. Isso! Aaaaai!"
+
+# game/day14.rpy:1069
+translate brazilian day14_discreet_session_8e05be01:
+
+    # "{i}As you lap up the juices of her orgasm, precum is leaking from the tip of your taught member."
+    "{i}Enquanto você acumula o líquido do orgasmo dela, fluidos vazam da ponta do seu membro."
+
+# game/day14.rpy:1070
+translate brazilian day14_discreet_session_98b68f60:
+
+    # "{i}Adriana is still standing there gazing at you lustfully while [m_name] removes her gag."
+    "{i}Adriana está parada lá olhando fixamente para você com desejo enquanto [m_name] remove a mordaça."
+
+# game/day14.rpy:1077
+translate brazilian day14_discreet_session_c4bcf13d:
+
+    # m "I'd like to reward you for being such a good servant."
+    m "Gostaria de te recompensar por ser um servo tão bom."
+
+# game/day14.rpy:1080
+translate brazilian day14_discreet_session_59fefa56:
+
+    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
+    m "Nosso garoto expressou a admiração por sua boceta, não foi, Adriana?"
+
+# game/day14.rpy:1081
+translate brazilian day14_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Sim, senhora."
+
+# game/day14.rpy:1082
+translate brazilian day14_discreet_session_151c1deb:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "E então ele falou que não queria te foder. Que garoto estranho."
+
+# game/day14.rpy:1083
+translate brazilian day14_discreet_session_54dd0c92:
+
+    # m "So I guess you won't get fucked today, Adriana. I'm sure you understand."
+    m "Então eu acho que não vai ser fodida hoje, Adriana. Imagino que entenda."
+
+# game/day14.rpy:1085
+translate brazilian day14_discreet_session_b8df8615:
+
+    # m "Our boy praised your ass, didn't he, Adriana?"
+    m "Nosso garoto elogiou sua bunda, não foi, Adriana?"
+
+# game/day14.rpy:1086
+translate brazilian day14_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Sim, senhora."
+
+# game/day14.rpy:1087
+translate brazilian day14_discreet_session_151c1deb_1:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "E então ele falou que não queria te foder. Que garoto estranho."
+
+# game/day14.rpy:1088
+translate brazilian day14_discreet_session_f18f5a5b:
+
+    # m "So I guess we won't offer your tight asshole today, Adriana. I'm sure you understand."
+    m "Então eu acho que não vamos oferecer seu cuzinho apertado hoje, Adriana. Imagino que entenda."
+
+# game/day14.rpy:1090
+translate brazilian day14_discreet_session_f4c88f4f:
+
+    # m "Our boy praised your breasts, didn't he, Adriana?"
+    m "Nosso garoto elogiou seus seios, não foi, Adriana?"
+
+# game/day14.rpy:1091
+translate brazilian day14_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Sim, senhora."
+
+# game/day14.rpy:1092
+translate brazilian day14_discreet_session_151c1deb_2:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "E então ele falou que não queria te foder. Que garoto estranho."
+
+# game/day14.rpy:1093
+translate brazilian day14_discreet_session_77164c8b:
+
+    # m "So I guess he doesn't get to push his cock between your tits, Adriana. I'm sure you understand."
+    m "Então acho que ele não vai poder enfiar o pau entre seus peitos Adriana. Imagino que entenda."
+
+# game/day14.rpy:1095
+translate brazilian day14_discreet_session_bb322cb6:
+
+    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
+    m "Mas já que nosso garoto fala que ele não gosta de nada sobre você, Adriana,  acho que não podemos oferecê-lo nada."
+
+# game/day14.rpy:1096
+translate brazilian day14_discreet_session_8b9f95b0:
+
+    # p "{i}(Damn. I'd really like to fuck something right about now.)"
+    p "{i}(Droga. Eu realmente gostaria de foder alguma coisa agora.)"
+
+# game/day14.rpy:1097
+translate brazilian day14_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Sim, senhora."
+
+# game/day14.rpy:1098
+translate brazilian day14_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:1099
+translate brazilian day14_discreet_session_12164705:
+
+    # m "Good. Class dismissed."
+    m "Bom, Classe dispensada."
+
+# game/day14.rpy:1107
+translate brazilian day14_discreet_session_3f84f2fb:
+
+    # m "And our boy expressed an interest in your body, Adriana. Would you like to get fucked now?"
+    m "E nosso garoto expressou um interesse em seu corpo, Adriana. Gostaria de ser fodida agora?"
+
+# game/day14.rpy:1108
+translate brazilian day14_discreet_session_b25c3cee:
+
+    # ad "Very much, mistress."
+    ad "Gostaria muito, senhora."
+
+# game/day14.rpy:1109
+translate brazilian day14_discreet_session_712d152f:
+
+    # p "{i}(Fuck yes! I'm not sure it will take long, but I sure am going to drench her in cum.)"
+    p "{i}(Sim, porra! Não tenho certeza que vai demorar muito, mas eu com certeza vou encharcar ela com porra.)"
+
+# game/day14.rpy:1112
+translate brazilian day14_discreet_session_4d0e495d:
+
+    # m "You may use her pussy. And be sure to finish on her face, a good slut deserves that much."
+    m "Você pode usar a boceta dela, E certifique-se de terminar no rosto dela, uma boa puta merece isso."
+
+# game/day14.rpy:1113
+translate brazilian day14_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:1119
+translate brazilian day14_discreet_session_a14deefc:
+
+    # "{i}Due to the events you've just experienced you slide inside Adriana a little roughly, which elicits a small, surprised gasp from her."
+    "{i}Por conta dos eventos que acabou de experienciar, você enfia dentro da Adriana um tanto grosseiramente, o que provoca um pequeno, surpreso gritinho dela."
+
+# game/day14.rpy:1120
+translate brazilian day14_discreet_session_afe580f6:
+
+    # m "How does he feel inside you, Adriana?"
+    m "Como é sentir ele dentro de você, Adriana?"
+
+# game/day14.rpy:1121
+translate brazilian day14_discreet_session_2f0e67fa:
+
+    # ad "He feels so big, mistress."
+    ad "Ele é tão grande, senhora."
+
+# game/day14.rpy:1123
+translate brazilian day14_discreet_session_13a6f1c9:
+
+    # "{i}You grab Adriana's legs and start to thrust your dick inside the receptionist. Her pussy lips massage the sides of your throbbing cock and Adriana's breathing becomes shallow."
+    "{i}Você agarra as pernas da Adriana e começa a enfiar seu pau dentro da recepcionista. Os lábios da boceta dela massageiam os lados do seu pau latejante e a respiração da Adriana se torna brusca."
+
+# game/day14.rpy:1124
+translate brazilian day14_discreet_session_ebe15ba7:
+
+    # ad "Fuck me, please, fuck me harder!"
+    ad "Me fode, por favor, me fode mais forte!"
+
+# game/day14.rpy:1125
+translate brazilian day14_discreet_session_5150cad6:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
+    "{i}Os seios grandes dela balançam com o ritmo do sexo, e você se sente chegando perto do orgasmo, provavelmente por causa de tudo que aconteceu antes."
+
+# game/day14.rpy:1131
+translate brazilian day14_discreet_session_1a6e0e7f:
+
+    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Com um rugido, você puxa o pau para fora e segura a mão dela. Adriana obedientemente abre a boca para receber sua semente."
+
+# game/day14.rpy:1132
+translate brazilian day14_discreet_session_7c9a8cd4:
+
+    # m "Finished already. Your pussy must be magical, Adriana..."
+    m "Já terminou. Sua boceta deve ser mágica, Adriana..."
+
+# game/day14.rpy:1133
+translate brazilian day14_discreet_session_bb4ec6df:
+
+    # m "You may cum on her."
+    m "Você pode gozar nela."
+
+# game/day14.rpy:1135
+translate brazilian day14_discreet_session_787b0b9e:
+
+    # m "You may use Adriana's ass. Do be gentle. And be sure to finish on her face, a good slut deserves that much."
+    m "Você pode usar a bunda da Adriana. Seja gentil. E certifique-se de terminar no rosto dela, uma boa puta merece isso."
+
+# game/day14.rpy:1136
+translate brazilian day14_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:1141
+translate brazilian day14_discreet_session_15c41f02:
+
+    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
+    "{i}Quando você enfia a ponta da do seu pau contra o reto da Adriana, você ouve ela dar um gritinho."
+
+# game/day14.rpy:1142
+translate brazilian day14_discreet_session_ec80b608:
+
+    # ad "Please be gentle."
+    ad "Por favor seja gentil."
+
+# game/day14.rpy:1143
+translate brazilian day14_discreet_session_74327b4e:
+
+    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
+    "{i}Essa declaração o deixa ainda mais excitado, e você começa a enfiar seu pau dentro dela. Os fluidos que vazaram do seu pênis mais cedo agem como lubrificante, mas ainda é apertado."
+
+# game/day14.rpy:1144
+translate brazilian day14_discreet_session_111f439d:
+
+    # "{i}The receptionist is very tense, but relaxes visibly when she feels your balls against her pussy."
+    "{i}A recepcionista está muito tensa, mas relaxa visivelmente quando ela sente suas bolas contra a boceta dela."
+
+# game/day14.rpy:1145
+translate brazilian day14_discreet_session_26cec445:
+
+    # m "He's inside of you. How does that feel?"
+    m "Ele está dentro de você. Como se sente?"
+
+# game/day14.rpy:1146
+translate brazilian day14_discreet_session_1b2a2c62:
+
+    # ad "He's so big, mistress."
+    ad "Ele é tão grande, senhora."
+
+# game/day14.rpy:1151
+translate brazilian day14_discreet_session_fb3d5f0e:
+
+    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
+    "{i}Você lentamente move seu pau para dentro e para fora do cu da recepcionista. A respiração da Adriana se torna rasa. Ela o guia com a mão, e você a penetra cada vez mais rápido."
+
+# game/day14.rpy:1152
+translate brazilian day14_discreet_session_08fd09db:
+
+    # ad "Fuck me, please, fuck my ass!"
+    ad "Me fode, por favor, fode a minha bunda!"
+
+# game/day14.rpy:1153
+translate brazilian day14_discreet_session_791ee88c:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
+    "{i}Os grandes seios dela balançam com o ritmo em que você fode. O cu dela é tão apertado e massageia seu pau de formas que você nunca sentiu antes. Você se sente bem perto do orgasmo, provavelmente por causa de tudo que aconteceu antes."
+
+# game/day14.rpy:1159
+translate brazilian day14_discreet_session_291215d7:
+
+    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Com um rugido você tira o pau da bunda dela e segura a cabeça dela. Adriana obedientemente abre a boca para receber sua semente."
+
+# game/day14.rpy:1160
+translate brazilian day14_discreet_session_a4a83b56:
+
+    # m "Finished already. Your ass must be magical, Adriana..."
+    m "Já terminou. Sua bunda deve ser mágica, Adriana..."
+
+# game/day14.rpy:1161
+translate brazilian day14_discreet_session_bb4ec6df_1:
+
+    # m "You may cum on her."
+    m "Você pode gozar nela."
+
+# game/day14.rpy:1163
+translate brazilian day14_discreet_session_732a62ea:
+
+    # m "Adriana is going to massage your cock with her breasts. Be sure to cover her face when you're ready, a good slut deserves that much."
+    m "Adriana vai massagear seu pau com os peitos. Certifique-se de cobrir o rosto dela quando estiver pronto, uma boa puta merece isso."
+
+# game/day14.rpy:1164
+translate brazilian day14_discreet_session_0b462255_4:
+
+    # p "Yes, mistress."
+    p "Sim, senhora."
+
+# game/day14.rpy:1165
+translate brazilian day14_discreet_session_25debe46:
+
+    # "{i}You tease the receptionist's nipples with the tip of your cock. The massage elicits a small gasp from her and she pushes her breasts together in order for you to push your dick between them."
+    "{i}Você provoca os mamilos da recepcionista com a ponta do seu pau. A massagem provoca um pequeno gritinho dela e ela empurra os seios um contra o outro para que você empurre seu pau entre eles."
+
+# game/day14.rpy:1171
+translate brazilian day14_discreet_session_59ba8699:
+
+    # "{i}Adriana starts moving up and down with your cock between her breasts. The touch of her soft flesh and the lewd smile on her face as she stares at you makes you even more aroused."
+    "{i}Adriana começa a mover para cima e para baixo com seu pau entre os seios. O toque da carne macia dela e o sorriso sensual no rosto enquanto olha você o deixa ainda mais excitado."
+
+# game/day14.rpy:1173
+translate brazilian day14_discreet_session_908f034e:
+
+    # "{i}You force the receptionist to the ground and thrust your dick between her breasts, fucking them while she's squeezing them tight."
+    "{i}Você força a recepcionista no chão e enfia seu pau entre os seios dela, fodendo eles enquanto ela está apertando eles juntos."
+
+# game/day14.rpy:1174
+translate brazilian day14_discreet_session_dab678a3:
+
+    # m "He's giving your tits a good fuck. How does that feel?"
+    m "Ele está dando uma boa foda em seus peitos. Como se sente?"
+
+# game/day14.rpy:1175
+translate brazilian day14_discreet_session_1b2a2c62_1:
+
+    # ad "He's so big, mistress."
+    ad "Ele é tão grande, senhora."
+
+# game/day14.rpy:1176
+translate brazilian day14_discreet_session_fda9f7d4:
+
+    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
+    "{i}Cada vez que seu pau alcança o rosto dela, Adriana lambe a ponta com a língua. Ela também aplica mais pressão ao pressionar os seios mais um contra o outro. Isso quase o faz gozar."
+
+# game/day14.rpy:1182
+translate brazilian day14_discreet_session_95a81a0e:
+
+    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
+    "{i}Com um rugido você enfia seu pau pela última vez entre os peitos dela e mira no rosto dela. Adriana obedientemente abre a boca para receber sua porra."
+
+# game/day14.rpy:1183
+translate brazilian day14_discreet_session_e8c2e24b:
+
+    # m "Finished already. Your tits must be magical, Adriana..."
+    m "Já terminou. Seus peitos devem ser mágicos, Adriana..."
+
+# game/day14.rpy:1184
+translate brazilian day14_discreet_session_bb4ec6df_2:
+
+    # m "You may cum on her."
+    m "Você pode gozar nela."
+
+# game/day14.rpy:1188
+translate brazilian day14_discreet_session_b6bb3d0d:
+
+    # "{i}You seem to have build up a large amount of cum, because you cover her face and hair with thick streaks, but also have enough to deposit in her mouth."
+    "{i}Você parece ter acumulado uma grande quantidade de gozo, porque cobre bem o rosto dela, mas também tem o suficiente para depositar na boca dela."
+
+# game/day14.rpy:1190
+translate brazilian day14_discreet_session_9f16b8bf:
+
+    # m "Swallow it all."
+    m "Engole tudo."
+
+# game/day14.rpy:1191
+translate brazilian day14_discreet_session_6d0471c5:
+
+    # "{i}Adriana licks your dick clean of any traces of semen and scoops up the rest from her face and hair. Looking you directly in the eye, she swallows all of it with a naughty smile."
+    "{i}Adriana lambe seu pau para limpar qualquer vestígio de sêmen e tira o resto de seu rosto e cabelo. Olhando diretamente nos seus olhos, ela engole tudo com um sorriso de safada."
+
+# game/day14.rpy:1192
+translate brazilian day14_discreet_session_750da6a3:
+
+    # m "Thus endeth the lesson."
+    m "E assim acaba a lição."
+
+# game/day14.rpy:1211
+translate brazilian day14_b_fondle_32cbc436:
+
+    # "{i}Your hands push the t-shirt even further up to reveal your sister's breasts. Her nipples are rock hard."
+    "{i}Suas mãos levantam a camiseta ainda mais alto, revelando os seios da sua irmã. Os mamilos dela estão duros como pedra."
+
+# game/day14.rpy:1213
+translate brazilian day14_b_fondle_4a0fb993:
+
+    # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
+    "{i}Suas mãos empurram a camiseta ainda mais alto para revelar os seios da [b_n]. Os mamilos dela estão duros como pedra."
+
+# game/day14.rpy:1215
+translate brazilian day14_b_fondle_42c4c73b:
+
+    # b "[p_name]... no... it isn't..."
+    b "[p_name]... não... não é..."
+
+# game/day14.rpy:1216
+translate brazilian day14_b_fondle_ed02e162:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Deus, as coisas que você me faz sentir, [b_name]."
+
+# game/day14.rpy:1217
+translate brazilian day14_b_fondle_3cd42054:
+
+    # p "Your skin is so soft."
+    p "Sua pele é tão macia."
+
+# game/day14.rpy:1218
+translate brazilian day14_b_fondle_52dcef3c:
+
+    # b "I..."
+    b "Eu..."
+
+# game/day14.rpy:1221
+translate brazilian day14_b_fondle_98879cef:
+
+    # p "Are you wet already?"
+    p "Já está molhada?"
+
+# game/day14.rpy:1222
+translate brazilian day14_b_fondle_45d024d8:
+
+    # b "No, not there!"
+    b "Não, aí não!"
+
+# game/day14.rpy:1223
+translate brazilian day14_b_fondle_6449f334:
+
+    # p "You are. Do you like the movie so much? Or is it my touch?"
+    p "Você está. Gosta tanto assim do filme? Ou é o meu toque?"
+
+# game/day14.rpy:1225
+translate brazilian day14_b_fondle_1e36103c:
+
+    # "{i}You push your fingers against her panties and feel your sister's moist labia through the fabric."
+    "{i}Você pressiona seus dedos contra a calcinha dela e sente os lábios úmidos da sua irmã através do tecido."
+
+# game/day14.rpy:1227
+translate brazilian day14_b_fondle_b5fefac5:
+
+    # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
+    "{i}Você pressiona seus dedos contra a calcinha dela e sente os lábios úmidos dela através do tecido."
+
+# game/day14.rpy:1228
+translate brazilian day14_b_fondle_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day14.rpy:1229
+translate brazilian day14_b_fondle_be44dc55:
+
+    # p "Your panties are in the way, don't you think?"
+    p "Suas calcinha está no caminho, não acha?"
+
+# game/day14.rpy:1233
+translate brazilian day14_b_fondle_f1b6ca42:
+
+    # b "Y-yes... No!"
+    b "S-sim... Não!"
+
+# game/day14.rpy:1234
+translate brazilian day14_b_fondle_efa09b9c:
+
+    # "{i}With one hand you remove her underwear. [b_name] tries to remove your hand, but her protests lack any conviction."
+    "{i}Com uma mão, você remove a roupa de baixo dela. [b_name] tenta remover sua mão, mas os protestos não tem convicção qualquer."
+
+# game/day14.rpy:1240
+translate brazilian day14_b_fondle_04b53f47:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Você enfia um dedo dentro dela e estimula o clitóris. [b_name] puxa sua mão no início, mas ao estabelecer um ritmo constante, sua irmã empurra sua mão contra sua virilha, como se estivesse o encorajando a ir mais fundo."
+
+# game/day14.rpy:1242
+translate brazilian day14_b_fondle_cec13b39:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Você enfia um dedo dentro dela e estimula o clitóris. [b_name] puxa sua mão no início, mas ao estabelecer um ritmo constante, ela empurra sua mão contra a virilha, como se estivesse o encorajando a ir mais fundo."
+
+# game/day14.rpy:1243
+translate brazilian day14_b_fondle_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day14.rpy:1244
+translate brazilian day14_b_fondle_2d4211e5:
+
+    # p "Sssssh, you'll wake everybody up."
+    p "Sssssh, Você vai acordar todo mundo."
+
+# game/day14.rpy:1245
+translate brazilian day14_b_fondle_90901d27:
+
+    # b "Hnnnghhhh!"
+    b "Hnnnghhhh!"
+
+# game/day14.rpy:1247
+translate brazilian day14_b_fondle_e2a1d183:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
+    "{i}[b_name] tem dificuldades para segurar os gemidos. O risco de serem pegos pela [l_name] ou [m_name] acordando claramente deixa ambos excitados."
+
+# game/day14.rpy:1249
+translate brazilian day14_b_fondle_29eded4e:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
+    "{i}[b_name] tem dificuldades para segurar os gemidos. O risco de serem pegos pela sua mãe ou irmã acordando claramente deixa ambos excitados."
+
+# game/day14.rpy:1250
+translate brazilian day14_b_fondle_e727e64f:
+
+    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
+    "{i}Julgando pelas respiradas rápidas dela e a pressão que a mão dela exerce na sua, [b_name] está perto do orgasmo."
+
+# game/day14.rpy:1255
+translate brazilian day14_b_fondle_7f7e79ac:
+
+    # b "F-ffff-uuuuck!"
+    b "P-pooo-rrrraa!"
+
+# game/day14.rpy:1259
+translate brazilian day14_b_fondle_64651b3a:
+
+    # "{i}With your finger still inside her pussy, your sister experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Com seu dedo ainda dentro da boceta dela, sua irmã experiencia um poderoso orgasmo que está quase tremendo o sofá inteiro. Tremendo, ela empurra sua mão para baixo e continua a esfregando contra o clitóris."
+
+# game/day14.rpy:1261
+translate brazilian day14_b_fondle_966c2da6:
+
+    # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Com seu dedo ainda dentro da boceta dela, [b_name] experiencia um poderoso orgasmo que está quase tremendo o sofá inteiro. Tremendo, ela empurra sua mão para baixo e continua a esfregando contra o clitóris."
+
+# game/day14.rpy:1262
+translate brazilian day14_b_fondle_7095ffd6:
+
+    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
+    "{i}Após um tempo, os gemidos abafados e suspiros dela dissipam. Ela quietamente puxa as calcinhas de volta para cima e cobre os seios, mas não tenta se distanciar de você."
+
+# game/day14.rpy:1266
+translate brazilian day14_b_fondle_55305076:
+
+    # p "I love it when you cum for me."
+    p "Eu amo quando você goza para mim."
+
+# game/day14.rpy:1267
+translate brazilian day14_b_fondle_52dcef3c_1:
+
+    # b "I..."
+    b "Eu..."
+
+# game/day14.rpy:1269
+translate brazilian day14_b_fondle_181d589c:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "O-o-o quê?! Onde?! Ah! Ah. Acho que eu caí no sono."
+
+# game/day14.rpy:1270
+translate brazilian day14_b_fondle_a6a6d4f3:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly disentangles herself from you. Her face looks flushed and her expression enigmatic. It looks almost like a mixture of ribald pleasure, shame and the remnants of rapturous lust to you."
+    "{i}Vocês são assustados pelo grito da [m_name] e [b_name] rapidamente se solta de você. O rosto dela está corado e a expressão enigmática. Parece quase como uma mistura de prazer irreverente, vergonha e os resquícios de desejo absoluto por você."
+
+# game/day14.rpy:1272
+translate brazilian day14_b_fondle_a5039c88:
+
+    # b "That's enough. Stop it."
+    b "Isso é o suficiente. Para."
+
+# game/day14.rpy:1273
+translate brazilian day14_b_fondle_565313e7:
+
+    # b "Uncle!"
+    b "Pinico!"
+
+# game/day14.rpy:1274
+translate brazilian day14_b_fondle_ed02e162_1:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Deus, as coisas que você me faz sentir, [b_name]."
+
+# game/day14.rpy:1275
+translate brazilian day14_b_fondle_52dcef3c_2:
+
+    # b "I..."
+    b "Eu..."
+
+# game/day14.rpy:1277
+translate brazilian day14_b_fondle_181d589c_1:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "O-o-o quê?! Onde?! Ah! Ah. Acho que eu caí no sono."
+
+# game/day14.rpy:1278
+translate brazilian day14_b_fondle_1ed4a414:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly untangles herself from you. Her face looks flushed and her expression enigmatic."
+    "{i}Vocês são assustados pelo grito da [m_name] e [b_name] rapidamente se solta de você. O rosto dela está corado e a expressão enigmática."
+
+# game/day14.rpy:1295
+translate brazilian day14_r_fingering_49278f8a:
+
+    # r "{i}(The thought of his touch on my skin makes me feel so giddy inside.)"
+    r "{i}(O pensamento de seu toque na minha pele me faz sentir tão feliz.)"
+
+# game/day14.rpy:1298
+translate brazilian day14_r_fingering_3fe74477:
+
+    # r "{i}(How softly he caressed my pussy... He was so tender with me.)"
+    r "{i}(O quão suavemente ele acariciou a minha boceta... Ele foi tão carinhoso comigo.)"
+
+# game/day14.rpy:1299
+translate brazilian day14_r_fingering_9ba86f30:
+
+    # r "{i}(I guess he liked being in control after I made him cum the night before.)"
+    r "{i}(Eu acho que ele gostou de estar no controle depois que eu o fiz gozar na outra noite.)"
+
+# game/day14.rpy:1300
+translate brazilian day14_r_fingering_a26c1823:
+
+    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
+    r "{i}(Saiu tanto, e não tinha gosto nada nojento, como dizem em todas as revistas. Um pouco estranho, talvez...)"
+
+# game/day14.rpy:1301
+translate brazilian day14_r_fingering_b4097cf5:
+
+    # r "{i}(Urgh, I hate feeling like this. All that tension...)"
+    r "{i}(Urgh, eu odeio me sentir assim. Toda essa tensão...)"
+
+# game/day14.rpy:1302
+translate brazilian day14_r_fingering_3949ce7c:
+
+    # r "{i}(Fuck it. I'm going to masturbate. I guess Mrs. Steel would think it isn't 'ladylike behavior', but this is where I draw the line!)"
+    r "{i}(Foda-se. Vou me masturbar. Acho que a Sra. Steel iria pensar que não é o 'comportamento de uma moça' mas esse é o meu limite!)"
+
+# game/day14.rpy:1308
+translate brazilian day14_r_fingering_a18ab1a7:
+
+    # r "{i}(Hmmm. Thinking about the naughty things [p_name] and I did has made me so wet.)"
+    r "{i}(Hmmm. Pensar sobre as coisas safadas que o [p_name] e eu fizemos me deixou tão molhada.)"
+
+# game/day14.rpy:1309
+translate brazilian day14_r_fingering_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah!"
+
+# game/day14.rpy:1312
+translate brazilian day14_r_fingering_94b75813:
+
+    # r "{i}(Yes! Aaah! [p_name] was so forceful... His finger inside of me... His big cock... So warm... So strong...)"
+    r "{i}(Sim! Aaah! O [p_name] foi tão forte... o dedo dele dentro de mim... O pau grande dele... Tão quente... Tão forte...)"
+
+# game/day14.rpy:1313
+translate brazilian day14_r_fingering_0e44b109:
+
+    # r "{i}(Mmmmm... I wonder w-what he would feel like i-inside of me.)"
+    r "{i}(Mmmmm... Como seria ter ele d-dentro de mim.)"
+
+# game/day14.rpy:1315
+translate brazilian day14_r_fingering_553cd0ba:
+
+    # r "{i}(Yes! Aaah! I want [p_name]! I want to feel him i-inside of me!)"
+    r "{i}(Sim! Aaai! Eu quero o [p_name]! Eu quero sentir ele d-dentro de mim!)"
+
+# game/day14.rpy:1320
+translate brazilian day14_r_fingering_0f019af7:
+
+    # r "{i}(He'll be gentle with me... Kiss me all over... M-m-make me feel good. Oooh! I'm so close!)"
+    r "{i}(Ele vai ser gentil comigo... Me beijar toda... M-m-me satisfazer. Aaah! Estou tão perto!)"
+
+# game/day14.rpy:1323
+translate brazilian day14_r_fingering_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "Aaaai! Isso!"
+
+# game/day14.rpy:1324
+translate brazilian day14_r_fingering_0e004e54:
+
+    # r "Mmmmmmm. Now I can sleep."
+    r "Mmmmmmm. Agora eu posso dormir."
+

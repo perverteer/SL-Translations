@@ -6700,3 +6700,1415 @@ translate brazilian day35_choices_d4dafe9c_1:
     # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
     "{i}Uma das mãos de [b_name] agarra seu ombro, e ela tenta empurrar seu pau para dentro com a outra."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day35.rpy:1350
+translate brazilian day35_b_sex_hard_5eb350d9:
+
+    # p "I've had a raging boner for you since we walked inside the shop."
+    p "Estou com uma super ereção por você desde que entramos na loja."
+
+# game/day35.rpy:1355
+translate brazilian day35_b_sex_hard_94bdb8c0:
+
+    # p "Showing Megan how it's done didn't diminish that at all."
+    p "Mostrar a Megan como se faz não diminuiu ela em nada."
+
+# game/day35.rpy:1356
+translate brazilian day35_b_sex_hard_3506fb92:
+
+    # b "That's information I could easily have done without."
+    b "Essa é uma informação que eu poderia ter evitado."
+
+# game/day35.rpy:1358
+translate brazilian day35_b_sex_hard_ec0804cb:
+
+    # "{i}Ignoring her, you push her against the wall and kiss her."
+    "{i}Ignorando-a, você a empurra contra a parede e a beija."
+
+# game/day35.rpy:1359
+translate brazilian day35_b_sex_hard_e46ea2ef:
+
+    # "{i}[b_name] only manages to keep her mouth closed in protest for a short while. As soon as she allows for you to enter her mouth in a moment of weakness, the tongue kiss becomes mutual."
+    "{i}[b_name] só consegue manter a boca fechada em protesto por um breve momento, assim que ela permite que você entre em sua boca em um momento de fraqueza, o beijo de língua torna-se mútuo."
+
+# game/day35.rpy:1364
+translate brazilian day35_b_sex_hard_1f4da673:
+
+    # "{i}As you kiss, you almost rip the lingerie off her body to reveal her breasts and juicy cunt."
+    "{i}Enquanto vocês beijam, você quase arranca a lingerie do corpo dela para revelar seus seios e sua boceta suculenta."
+
+# game/day35.rpy:1366
+translate brazilian day35_b_sex_hard_550b680b:
+
+    # "{i}The small vibrator is still purring mercilessly inside her vagina."
+    "{i}O pequeno vibrador ainda está ronronando impiedosamente dentro de sua vagina."
+
+# game/day35.rpy:1371
+translate brazilian day35_b_sex_hard_61c7eab0:
+
+    # "{i}You take one of her hands and wrap her fingers around your cock."
+    "{i}Você pega uma das mãos dela e envolve os dedos em torno de seu pau."
+
+# game/day35.rpy:1372
+translate brazilian day35_b_sex_hard_569c00a1:
+
+    # p "You know what to do."
+    p "Você sabe o que fazer."
+
+# game/day35.rpy:1374
+translate brazilian day35_b_sex_hard_0a107658:
+
+    # "{i}Silently, your sister jerks you off, pulling the foreskin slowly over your tip."
+    "{i}Silenciosamente, sua irmã o masturba, puxando o prepúcio lentamente sobre sua ponta."
+
+# game/day35.rpy:1376
+translate brazilian day35_b_sex_hard_f7cd2aad:
+
+    # "{i}Silently, your girl jerks you off, pulling the foreskin slowly over your tip."
+    "{i}Silenciosamente, sua garota o masturba, puxando o prepúcio lentamente sobre sua ponta."
+
+# game/day35.rpy:1377
+translate brazilian day35_b_sex_hard_a360bd35:
+
+    # "{i}Hesitant at first, but when you start to play with her breasts, the jerking becomes increasingly more involved."
+    "{i}Hesitante no início, mas quando você começa a brincar com os seios os movimentos se tornam ficam cada vez mais fortes."
+
+# game/day35.rpy:1378
+translate brazilian day35_b_sex_hard_8f3bde9f:
+
+    # "{i}When the first moan escapes her, you know [b_name] is ready."
+    "{i}Quando o primeiro gemido escapa dela, você sabe que [b_name] está pronta."
+
+# game/day35.rpy:1380
+translate brazilian day35_b_sex_hard_bddfd74c:
+
+    # "{i}The moans become a muffled, agonized scream for a short moment when you pull the buzzing vibrator out of her cunt and throw it on a pile of clothing."
+    "{i}Os gemidos se tornam um grito abafado e agonizante por um breve momento quando você puxa o vibrador ainda vibrando de sua boceta e o joga em uma pilha de roupas."
+
+# game/day35.rpy:1381
+translate brazilian day35_b_sex_hard_7b5abbd6:
+
+    # b "What did you do that for?!"
+    b "Por que você fez isso?!"
+
+# game/day35.rpy:1382
+translate brazilian day35_b_sex_hard_d334433c:
+
+    # p "Clearing the way, my dear..."
+    p "Abrindo caminho, minha querida ..."
+
+# game/day35.rpy:1387
+translate brazilian day35_b_sex_hard_d15a945c:
+
+    # "{i}You decide to tease her and rub your glans against her labia."
+    "{i}Você decide provocá-la e esfregar sua glande contra os lábios dela."
+
+# game/day35.rpy:1389
+translate brazilian day35_b_sex_hard_1154eac5:
+
+    # "{i}The effects of the vibrator are very noticeable, as her vulva and thighs are covered in her juice."
+    "{i}Os efeitos do vibrador são bem perceptíveis, pois sua vulva e coxas estão cobertas de fluidos."
+
+# game/day35.rpy:1390
+translate brazilian day35_b_sex_hard_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Usando seu pênis, você massageia a área ao redor do clitóris e, em seguida, o clitóris diretamente."
+
+# game/day35.rpy:1391
+translate brazilian day35_b_sex_hard_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Uma das mãos de [b_name] agarra seu ombro e ela tenta empurrar seu pau para dentro dela com a outra."
+
+# game/day35.rpy:1392
+translate brazilian day35_b_sex_hard_7cd02fb1:
+
+    # "{i}You brush her away and continue what you were doing, obviously making her crazy."
+    "{i}Você a afasta e continua o que estava fazendo, obviamente a deixando louca."
+
+# game/day35.rpy:1394
+translate brazilian day35_b_sex_hard_12776b4a:
+
+    # "{i}When your sister's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Quando os gemidos de sua irmã se transformam em um sussurro rouco, você enfia seu pau na boceta dela sem qualquer aviso."
+
+# game/day35.rpy:1396
+translate brazilian day35_b_sex_hard_7aeaa71e:
+
+    # "{i}When your girl's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Quando os gemidos de sua garota se transformam em um sussurro rouco, você enfia seu pau na boceta dela sem qualquer aviso."
+
+# game/day35.rpy:1401
+translate brazilian day35_b_sex_hard_3e3945bb:
+
+    # b "FUCK!"
+    b "Porra!"
+
+# game/day35.rpy:1402
+translate brazilian day35_b_sex_hard_ada4c787:
+
+    # "{i}Compensating for the initial violence, you proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Para compensar a violência inicial, você continua a fodê-la lentamente, empurrando todo o seu pau nas profundezas úmidas."
+
+# game/day35.rpy:1403
+translate brazilian day35_b_sex_hard_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Ah, [b_name]!"
+
+# game/day35.rpy:1404
+translate brazilian day35_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaai!"
+
+# game/day35.rpy:1407
+translate brazilian day35_b_sex_hard_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Fodendo sua irmã tão intensamente, vocês dois esquecem onde estão, ao invés disso completamente focados em alcançar novos patamares de prazer."
+
+# game/day35.rpy:1409
+translate brazilian day35_b_sex_hard_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Fodendo sua garota tão intensamente, vocês dois esquecem onde estão, ao invés disso completamente focados em alcançar novos patamares de prazer."
+
+# game/day35.rpy:1411
+translate brazilian day35_b_sex_hard_b39f3017:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you focus on your own climax instead, intent on beating her to the punch."
+    "{i}Você sente [b_name] tremendo sob suas mãos e sabe que o orgasmo dela está próximo, então você se concentra em seu próprio clímax, com a intenção chegar lá antes dela."
+
+# game/day35.rpy:1415
+translate brazilian day35_b_sex_hard_8c6741dc:
+
+    # p "Kneel!"
+    p "Ajoelha!"
+
+# game/day35.rpy:1416
+translate brazilian day35_b_sex_hard_7b230fe4:
+
+    # b "No, but..."
+    b "Não, mas..."
+
+# game/day35.rpy:1422
+translate brazilian day35_b_sex_hard_64526946:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Apesar de seu protesto, [b_name] se ajoelha diante de você, olhando para você com raiva."
+
+# game/day35.rpy:1423
+translate brazilian day35_b_sex_hard_9f956632:
+
+    # p "Open your mouth, baby."
+    p "Abra sua boca, gata."
+
+# game/day35.rpy:1424
+translate brazilian day35_b_sex_hard_2a613638:
+
+    # p "Here it comes."
+    p "Lá vem."
+
+# game/day35.rpy:1431
+translate brazilian day35_b_sex_hard_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Seu pau, descansando no lábio inferior dela, está bombeando grandes quantidades de sêmen para dentro da boca aberta de sua irmã."
+
+# game/day35.rpy:1433
+translate brazilian day35_b_sex_hard_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Seu pau, descansando no lábio inferior dela, está bombeando grandes quantidades de sêmen para dentro da boca aberta de [b_name]."
+
+# game/day35.rpy:1437
+translate brazilian day35_b_sex_hard_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Não querendo bagunçar o rosto ou peito, [b_name] engole diligentemente todo o esperma que você depositou."
+
+# game/day35.rpy:1445
+translate brazilian day35_b_sex_hard_8c6741dc_1:
+
+    # p "Kneel!"
+    p "Ajoelha!"
+
+# game/day35.rpy:1446
+translate brazilian day35_b_sex_hard_7b230fe4_1:
+
+    # b "No, but..."
+    b "Não, mas..."
+
+# game/day35.rpy:1452
+translate brazilian day35_b_sex_hard_64526946_1:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Apesar de seu protesto, [b_name] se ajoelha diante de você, olhando para você com raiva."
+
+# game/day35.rpy:1453
+translate brazilian day35_b_sex_hard_4f981de3:
+
+    # p "Just sit still, baby."
+    p "Só fique quieta, gata."
+
+# game/day35.rpy:1454
+translate brazilian day35_b_sex_hard_2a613638_1:
+
+    # p "Here it comes."
+    p "Lá vem."
+
+# game/day35.rpy:1461
+translate brazilian day35_b_sex_hard_459b3561:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over your sister's pretty face."
+    "{i}Seu pau, direcionado para o rosto dela, está bombeando grandes quantidades de sêmen por todo o rosto bonito de sua irmã."
+
+# game/day35.rpy:1463
+translate brazilian day35_b_sex_hard_b19beb8d:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over [b_name]'s pretty face."
+    "{i}Seu pau, direcionado para o rosto dela, está bombeando grandes quantidades de sêmen por todo o rosto bonito de [b_name]."
+
+# game/day35.rpy:1464
+translate brazilian day35_b_sex_hard_4042a015:
+
+    # "{i}After making a mess of her face, [b_name] glances around in panic, looking for something to clean herself up with."
+    "{i}Depois de fazer uma bagunça no rosto, [b_name] olha ao redor em pânico, procurando por algo para se limpar."
+
+# game/day35.rpy:1473
+translate brazilian day35_b_sex_hard_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Lá vem, gata."
+
+# game/day35.rpy:1482
+translate brazilian day35_b_sex_hard_29cf96ec:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of your sister."
+    "{i}Seu pau, firmemente enraizado no buraquinho dela, está bombeando grandes quantidades de sêmen dentro de sua irmã."
+
+# game/day35.rpy:1484
+translate brazilian day35_b_sex_hard_3760a1ff:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Seu pau, firmemente enraizado no buraquinho dela, está bombeando grandes quantidades de sêmen dentro de [b_name]."
+
+# game/day35.rpy:1486
+translate brazilian day35_b_sex_hard_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Depois de tirar seu pau, esperma começa a vazar da boceta e escorrer por suas coxas."
+
+# game/day35.rpy:1487
+translate brazilian day35_b_sex_hard_31a63622:
+
+    # "{i}[b_name] glances around in discomfort, looking for something to clean herself up with."
+    "{i}[b_name] olha ao redor com desconforto, procurando por algo para se limpar."
+
+# game/day35.rpy:1498
+translate brazilian day35_b_sex_hard_cbb867e2:
+
+    # p "I'm going to buy that last set for you."
+    p "Vou comprar esse último conjunto para você."
+
+# game/day35.rpy:1499
+translate brazilian day35_b_sex_hard_168940ff:
+
+    # p "You looked really hot in that one."
+    p "Você estava muito gostosa naquele."
+
+# game/day35.rpy:1514
+translate brazilian day35_b_sex_c665ea68:
+
+    # b "Nice and private."
+    b "Bem escondidinho."
+
+# game/day35.rpy:1515
+translate brazilian day35_b_sex_69c35c5b:
+
+    # p "It certainly is."
+    p "Certamente é."
+
+# game/day35.rpy:1517
+translate brazilian day35_b_sex_35426c67:
+
+    # "{i}You pull her close and kiss her full on the lips, her lips part invitingly and your tongues intertwine."
+    "{i}Você a puxa para perto e a beija nos lábios, seus lábios se abrem convidativamente e suas línguas se entrelaçam."
+
+# game/day35.rpy:1519
+translate brazilian day35_b_sex_a5182461:
+
+    # "{i}As you kiss, [b_name]'s breathing becomes shallow; she manages to undress herself while still kissing you fervently."
+    "{i}Conforme vocês beijam, a respiração de [b_name] torna-se superficial; ela consegue se despir enquanto ainda o beija com fervor."
+
+# game/day35.rpy:1524
+translate brazilian day35_b_sex_75474255:
+
+    # "{i}As you pull your shirt over your head, she unbuttons your pants and frees your erection."
+    "{i}Enquanto você puxa sua camisa pela cabeça, ela desabotoa sua calça e libera sua ereção."
+
+# game/day35.rpy:1525
+translate brazilian day35_b_sex_f99129d5:
+
+    # b "I really want you right now."
+    b "Eu te quero muito agora."
+
+# game/day35.rpy:1527
+translate brazilian day35_b_sex_8642fc02:
+
+    # "{i}Looking at you smoulderingly, your sister jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Com um olhar fumegante, sua irmã o empurra, puxando o prepúcio lentamente sobre sua glande."
+
+# game/day35.rpy:1529
+translate brazilian day35_b_sex_f5ec1bb1:
+
+    # "{i}Looking at you smoulderingly, your girl jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Com um olhar fumegante, sua garota o empurra, puxando o prepúcio lentamente sobre sua glande."
+
+# game/day35.rpy:1530
+translate brazilian day35_b_sex_ba01253b:
+
+    # "{i}You play with her breasts as the jerking becomes increasingly more frantic and [b_name] moans with hunger."
+    "{i}Você brinca com os seios dela enquanto os espasmos ficam cada vez mais frenéticos e [b_name] geme de fome."
+
+# game/day35.rpy:1535
+translate brazilian day35_b_sex_da5dbc83:
+
+    # "{i}You pull her closer and kiss her again, teasing her below by rubbing your tip against her labia, wet with her juices."
+    "{i}Você a puxa para mais perto e a beija novamente, provocando-a embaixo, esfregando sua ponta contra os lábios, molhados com seus fluidos."
+
+# game/day35.rpy:1536
+translate brazilian day35_b_sex_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Usando seu pênis, você massageia a área ao redor do clitóris e, em seguida, o clitóris diretamente."
+
+# game/day35.rpy:1537
+translate brazilian day35_b_sex_6516f350:
+
+    # b "Oh God, [p_name]!"
+    b "Meu Deus, [p_name]!"
+
+# game/day35.rpy:1538
+translate brazilian day35_b_sex_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Uma das mãos de [b_name] agarra seu ombro e ela tenta empurrar seu pau para dentro dela com a outra."
+
+# game/day35.rpy:1539
+translate brazilian day35_b_sex_2205fa0a:
+
+    # p "Are we really going to do this here?"
+    p "Vamos mesmo fazer isso aqui?"
+
+# game/day35.rpy:1542
+translate brazilian day35_b_sex_d7a7f399:
+
+    # "{i}Your sister just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Sua irmã apenas acena com a cabeça, mordendo o lábio inferior, um olhar que quase faz você gozar naquele instante."
+
+# game/day35.rpy:1544
+translate brazilian day35_b_sex_2ca9756a:
+
+    # "{i}Your girlfriend just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Sua namorada apenas acena com a cabeça, mordendo o lábio inferior, um olhar que quase faz você gozar naquele instante."
+
+# game/day35.rpy:1549
+translate brazilian day35_b_sex_c05f6ab6:
+
+    # "{i}[b_name] spreads her legs to allow your cock to slide inside her with ease."
+    "{i}[b_name] abre as pernas para permitir que seu pau deslize dentro com facilidade."
+
+# game/day35.rpy:1550
+translate brazilian day35_b_sex_1223e8d3:
+
+    # "{i}You proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Você continua a foder lentamente, empurrando todo o comprimento do seu pau nas profundezas úmidas."
+
+# game/day35.rpy:1551
+translate brazilian day35_b_sex_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Ah, [b_name]!"
+
+# game/day35.rpy:1552
+translate brazilian day35_b_sex_3539b25e:
+
+    # b "Yes, [p_name]!"
+    b "Sim, [p_name]!"
+
+# game/day35.rpy:1555
+translate brazilian day35_b_sex_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Fodendo sua irmã tão intensamente, vocês dois esquecem onde estão, ao invés disso completamente focados em alcançar novos patamares de prazer."
+
+# game/day35.rpy:1557
+translate brazilian day35_b_sex_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Fodendo sua garota tão intensamente, vocês dois esquecem onde estão, ao invés disso completamente focados em alcançar novos patamares de prazer."
+
+# game/day35.rpy:1558
+translate brazilian day35_b_sex_e7c2a5b1:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you finger her little clit to help her reach her climax."
+    "{i}Você sente [b_name] tremendo sob suas mãos e sabe que o orgasmo dela está próximo, então você esfrega seu pequeno clitóris para ajudá-la a chegar ao clímax."
+
+# game/day35.rpy:1560
+translate brazilian day35_b_sex_dd31e68f:
+
+    # b "F-ffffuuuu..."
+    b "P-pppooooooo..."
+
+# game/day35.rpy:1564
+translate brazilian day35_b_sex_63e14af3:
+
+    # p "Do you want to taste me?"
+    p "Você quer me provar?"
+
+# game/day35.rpy:1565
+translate brazilian day35_b_sex_488fb012:
+
+    # b "Y-yes! I want all of it!"
+    b "S-sim! Eu quero tudo!"
+
+# game/day35.rpy:1571
+translate brazilian day35_b_sex_83371610:
+
+    # "{i}[b_name] quickly kneels before you, opening her mouth."
+    "{i}[b_name] rapidamente se ajoelha diante de você, abrindo a boca."
+
+# game/day35.rpy:1572
+translate brazilian day35_b_sex_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Lá vem, gata."
+
+# game/day35.rpy:1579
+translate brazilian day35_b_sex_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Seu pau, descansando no lábio inferior dela, está bombeando grandes quantidades de sêmen para dentro da boca aberta de sua irmã."
+
+# game/day35.rpy:1581
+translate brazilian day35_b_sex_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Seu pau, descansando no lábio inferior dela, está bombeando grandes quantidades de sêmen para dentro da boca aberta de [b_name]."
+
+# game/day35.rpy:1585
+translate brazilian day35_b_sex_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Não querendo bagunçar o rosto ou peito, [b_name] engole diligentemente todo o esperma que você depositou."
+
+# game/day35.rpy:1594
+translate brazilian day35_b_sex_84ae19a5:
+
+    # "{i}Your orgasm coincides with hers and the feeling is almost too overwhelming"
+    "{i}Seu orgasmo coincide com o dela e a sensação é quase insuportável"
+
+# game/day35.rpy:1603
+translate brazilian day35_b_sex_e2778beb:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of your sister."
+    "{i}Seu pau, firmemente enraizado em sua abertura molhada, está bombeando grandes quantidades de sêmen para dentro de sua irmã."
+
+# game/day35.rpy:1605
+translate brazilian day35_b_sex_fc8995db:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Seu pau, firmemente enraizado em sua abertura molhada, está bombeando grandes quantidades de sêmen para dentro de [b_name]."
+
+# game/day35.rpy:1607
+translate brazilian day35_b_sex_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Depois de tirar seu pau, esperma começa a vazar da boceta e escorrer por suas coxas."
+
+# game/day35.rpy:1619
+translate brazilian day35_b_sex_a79d3d9d:
+
+    # b "You've made quite a mess."
+    b "Você fez uma bela bagunça."
+
+# game/day35.rpy:1620
+translate brazilian day35_b_sex_3d2db6a7:
+
+    # p "Sorry for that."
+    p "Desculpa por isso."
+
+# game/day35.rpy:1621
+translate brazilian day35_b_sex_7a735aae:
+
+    # b "Don't be silly."
+    b "Não seja bobo."
+
+# game/day35.rpy:1623
+translate brazilian day35_b_sex_84fe3e86:
+
+    # b "I was afraid you'd make a mess."
+    b "Estava com medo que você fizesse uma bagunça."
+
+# game/day35.rpy:1624
+translate brazilian day35_b_sex_d49aaacb:
+
+    # p "You took care of that very elegantly."
+    p "Você cuidou disso com muita elegância."
+
+# game/day35.rpy:1625
+translate brazilian day35_b_sex_eb53660d:
+
+    # b "I did, didn't I?"
+    b "Cuidei, não foi?"
+
+# game/day35.rpy:1626
+translate brazilian day35_b_sex_043cf62e:
+
+    # p "I'll go and pay for that nice set of lingerie."
+    p "Vou pagar por aquele belo conjunto de lingerie."
+
+# game/day35.rpy:1627
+translate brazilian day35_b_sex_60d90d51:
+
+    # b "Great, I'll be with you in a moment!"
+    b "Ótimo, estarei com você em um minuto!"
+
+# game/day35.rpy:1642
+translate brazilian day35_flashback_sex_697fe1ca:
+
+    # "{i}Sasha didn't hold back when she kissed the younger girl, and Sabine was obviously overwhelmed by it."
+    "{i}Sasha não se conteve quando beijou a garota mais nova e Sabine ficou obviamente maravilhada com isso."
+
+# game/day35.rpy:1643
+translate brazilian day35_flashback_sex_5faf6a2b:
+
+    # sa "Sasha..."
+    sa "Sasha..."
+
+# game/day35.rpy:1644
+translate brazilian day35_flashback_sex_f0631e93:
+
+    # s "Just enjoy, dear."
+    s "Só aproveita, querida."
+
+# game/day35.rpy:1653
+translate brazilian day35_flashback_sex_c94f5a34:
+
+    # "{i}Sabine held her breath while Sasha slowly removed her top, their mouths and tongues still in firm contact with each other."
+    "{i}Sabine prendeu a respiração enquanto Sasha lentamente tirava sua blusa, suas bocas e línguas ainda em contato firme uma com a outra."
+
+# game/day35.rpy:1654
+translate brazilian day35_flashback_sex_18d63bcb:
+
+    # s "You're a beautiful girl, Sabine."
+    s "Você é uma garota linda, Sabine."
+
+# game/day35.rpy:1655
+translate brazilian day35_flashback_sex_a7a329a1:
+
+    # sa "Do you... do you really think so?"
+    sa "Você... você realmente acha isso?"
+
+# game/day35.rpy:1656
+translate brazilian day35_flashback_sex_be4259d8:
+
+    # s "I wouldn't tell you otherwise."
+    s "Eu não diria caso contrário."
+
+# game/day35.rpy:1657
+translate brazilian day35_flashback_sex_ce3d1e49:
+
+    # "{i}I'd never seen Sabine this shy or flustered, but Sasha and the promise of that passionate kiss had a profound impact on Miley's friend."
+    "{i}Eu nunca tinha visto Sabine tão tímida ou nervosa, mas Sasha e a promessa daquele beijo apaixonado tiveram um impacto profundo na amiga de Miley."
+
+# game/day35.rpy:1659
+translate brazilian day35_flashback_sex_4da7e08d:
+
+    # "{i}Sasha lowered her head and proceeded to kiss Sabine's chest, lingering at her small breasts and nipples."
+    "{i}Sasha baixou a cabeça e começou a beijar o peito de Sabine, pairando sobre seus seios pequenos e mamilos."
+
+# game/day35.rpy:1660
+translate brazilian day35_flashback_sex_fcd1ffae:
+
+    # s "Soft skin."
+    s "Pele macia."
+
+# game/day35.rpy:1661
+translate brazilian day35_flashback_sex_0d4c3345:
+
+    # s "Very cute breasts."
+    s "Seios muito fofos."
+
+# game/day35.rpy:1662
+translate brazilian day35_flashback_sex_c5e5f65c:
+
+    # sa "Oooh!"
+    sa "Aaaih!"
+
+# game/day35.rpy:1663
+translate brazilian day35_flashback_sex_d62209ac:
+
+    # s "Do you like it when I lick you there?"
+    s "Você gosta quando eu te lambo aí?"
+
+# game/day35.rpy:1664
+translate brazilian day35_flashback_sex_791b9e20:
+
+    # sa "Y-yes..."
+    sa "S-sim..."
+
+# game/day35.rpy:1665
+translate brazilian day35_flashback_sex_bec6b393:
+
+    # s "Would you like me to continue?"
+    s "Você gostaria que eu continuasse?"
+
+# game/day35.rpy:1666
+translate brazilian day35_flashback_sex_ba6f134b:
+
+    # sa "Oh yes, please."
+    sa "Ah sim, por favor."
+
+# game/day35.rpy:1671
+translate brazilian day35_flashback_sex_e36d3e49:
+
+    # "{i}Sasha helped the younger girl remove her pants, revealing her panties."
+    "{i}Sasha ajudou a garota mais nova a tirar a calça, revelando sua calcinha."
+
+# game/day35.rpy:1672
+translate brazilian day35_flashback_sex_f3f334b8:
+
+    # s "I wonder what's hiding in there..."
+    s "O que será que está escondido aí..."
+
+# game/day35.rpy:1673
+translate brazilian day35_flashback_sex_2f3808ab:
+
+    # sa "Nothing special."
+    sa "Nada especial."
+
+# game/day35.rpy:1674
+translate brazilian day35_flashback_sex_9f30c2fc:
+
+    # s "I beg to differ."
+    s "Eu discordo."
+
+# game/day35.rpy:1675
+translate brazilian day35_flashback_sex_23e87d94:
+
+    # s "Let's get a little more comfortable."
+    s "Vamos ficar um pouco mais confortáveis."
+
+# game/day35.rpy:1677
+translate brazilian day35_flashback_sex_e093aa09:
+
+    # "{i}As Sasha stood up she looked directly into my direction, letting me know she was aware of the audience."
+    "{i}Quando Sasha se levantou, ela olhou diretamente na minha direção, deixando eu saber que ela estava ciente da plateia."
+
+# game/day35.rpy:1678
+translate brazilian day35_flashback_sex_5817038a:
+
+    # "{i}Then, for the benefit of Sabine and me, she started to undress herself agonizingly slow."
+    "{i}Então, para o benefício de Sabine e eu, ela começou a se despir de forma agonizantemente lenta."
+
+# game/day35.rpy:1683
+translate brazilian day35_flashback_sex_6fa7337a:
+
+    # s "What do you think, Sabine?"
+    s "O que você acha, Sabine?"
+
+# game/day35.rpy:1684
+translate brazilian day35_flashback_sex_9db22226:
+
+    # sa "You're beautiful."
+    sa "Você é linda."
+
+# game/day35.rpy:1685
+translate brazilian day35_flashback_sex_e7015632:
+
+    # s "Good, now kiss me again."
+    s "Ótimo, agora me beija de novo."
+
+# game/day35.rpy:1691
+translate brazilian day35_flashback_sex_f685c514:
+
+    # "{i}The girls shared another kiss, Sasha's hand methodically inching towards Sabine's panties and finally rubbing the young girl's labia through the fabric of the underwear."
+    "{i}As meninas trocaram outro beijo, a mão de Sasha avançando metodicamente em direção à calcinha de Sabine e, finalmente, esfregando os lábios da jovem através do tecido da calcinha."
+
+# game/day35.rpy:1692
+translate brazilian day35_flashback_sex_dc33947e:
+
+    # sa "S-s-Sasha..."
+    sa "S-s-Sasha..."
+
+# game/day35.rpy:1693
+translate brazilian day35_flashback_sex_596e183a:
+
+    # s "Yes, sweetie?"
+    s "Sim, docinho?"
+
+# game/day35.rpy:1694
+translate brazilian day35_flashback_sex_40502c82:
+
+    # s "You know you're really wet down there?"
+    s "Você sabe que está realmente molhada aí embaixo?"
+
+# game/day35.rpy:1695
+translate brazilian day35_flashback_sex_e0ea9b76:
+
+    # sa "Yes..."
+    sa "Sim..."
+
+# game/day35.rpy:1696
+translate brazilian day35_flashback_sex_6d660ea4:
+
+    # s "Do you like what we're doing?"
+    s "Você gosta do que estamos fazendo?"
+
+# game/day35.rpy:1697
+translate brazilian day35_flashback_sex_c0b742bc:
+
+    # sa "I love it."
+    sa "Eu adoro."
+
+# game/day35.rpy:1698
+translate brazilian day35_flashback_sex_931bfcaf:
+
+    # s "Why don't you play with my puppies for a while, and I'll help you out of these panties."
+    s "Por que você não brinca com meus peitos um pouco e eu te ajudo a tirar essa calcinha."
+
+# game/day35.rpy:1704
+translate brazilian day35_flashback_sex_c14584c7:
+
+    # "{i}Sabine didn't need much encouraging and turned her attention to Sasha's breasts immediately."
+    "{i}Sabine não precisou de muito incentivo e voltou sua atenção para os seios de Sasha imediatamente."
+
+# game/day35.rpy:1705
+translate brazilian day35_flashback_sex_22d437a7:
+
+    # s "Oh, that's good."
+    s "Ah, isso é bom."
+
+# game/day35.rpy:1706
+translate brazilian day35_flashback_sex_7e3a9cbf:
+
+    # s "Yes, keep going."
+    s "Isso, continua."
+
+# game/day35.rpy:1707
+translate brazilian day35_flashback_sex_fcbf1cb6:
+
+    # "{i}Sasha revealed the young girl's pussy, the wetness of her lips even visible from my point of view."
+    "{i}Sasha revelou a boceta da jovem, a umidade de seus lábios ainda visível de onde eu estava."
+
+# game/day35.rpy:1713
+translate brazilian day35_flashback_sex_f9bb2674:
+
+    # "{i}The direct contact of Sasha's fingers on her bared pussy made Sabine jump a little and the older woman's nipple slipped from her mouth."
+    "{i}O contato direto dos dedos de Sasha em sua boceta nua fez Sabine pular um pouco e o mamilo da mulher mais velha escorregou de sua boca."
+
+# game/day35.rpy:1714
+translate brazilian day35_flashback_sex_55069217:
+
+    # s "Just keep going, sweet thing..."
+    s "Só continua, docinho..."
+
+# game/day35.rpy:1715
+translate brazilian day35_flashback_sex_0e074a96:
+
+    # s "Don't worry, I'm going to make you feel good."
+    s "Não se preocupa, vou fazer você se sentir bem."
+
+# game/day35.rpy:1716
+translate brazilian day35_flashback_sex_80e39750:
+
+    # sa "I-it already does!"
+    sa "J-já sinto!"
+
+# game/day35.rpy:1718
+translate brazilian day35_flashback_sex_4a2bafe1:
+
+    # "{i}When Sasha began to rub the other girl's slit, her moans were an unmistakable sign of deeply felt pleasure."
+    "{i}Quando Sasha começou a esfregar a abertura da outra garota, seus gemidos foram um sinal inconfundível de profundo prazer."
+
+# game/day35.rpy:1719
+translate brazilian day35_flashback_sex_e6b7b3f0:
+
+    # sa "Oooh, Sasha!"
+    sa "Aaaih, Sasha!"
+
+# game/day35.rpy:1720
+translate brazilian day35_flashback_sex_9d9a33a6:
+
+    # s "That's it, do you want more?"
+    s "É isso, você quer mais?"
+
+# game/day35.rpy:1721
+translate brazilian day35_flashback_sex_6684ea66:
+
+    # sa "Yes, yes please!"
+    sa "Sim, sim por favor!"
+
+# game/day35.rpy:1723
+translate brazilian day35_flashback_sex_fdd354c0:
+
+    # "{i}Before moving to Sabine's cherry, Sasha showered her belly and thighs with sweet kisses."
+    "{i}Antes de ir para a cereja de Sabine, Sasha regou sua barriga e coxas com beijos doces."
+
+# game/day35.rpy:1724
+translate brazilian day35_flashback_sex_b35bcb57:
+
+    # "{i}When she finally arrived at the young girl's sex, her tongue explored every inch of it, stimulating Sabine to before unknown heights of pleasure."
+    "{i}Quando ela finalmente chegou ao sexo da jovem, sua língua explorou cada centímetro dele, estimulando Sabine a alturas de prazer antes desconhecidas."
+
+# game/day35.rpy:1726
+translate brazilian day35_flashback_sex_1fa09953:
+
+    # sa "I'm going to cum, Sasha!"
+    sa "Eu vou gozar, Sasha!"
+
+# game/day35.rpy:1727
+translate brazilian day35_flashback_sex_79d9369b:
+
+    # s "Let it all out, sweetheart!"
+    s "Deixe tudo sair, querida!"
+
+# game/day35.rpy:1728
+translate brazilian day35_flashback_sex_b99515cd:
+
+    # sa "Aaaah!"
+    sa "Aaaai!"
+
+# game/day35.rpy:1730
+translate brazilian day35_flashback_sex_ca105b99:
+
+    # sa "Oh God!"
+    sa "Aih, meu Deus!"
+
+# game/day35.rpy:1731
+translate brazilian day35_flashback_sex_8dfe2e2d:
+
+    # sa "Don't stop!"
+    sa "Não para!"
+
+# game/day35.rpy:1732
+translate brazilian day35_flashback_sex_988fa21b:
+
+    # sa "Don't s-stop, please!"
+    sa "Não p-para, por favor!"
+
+# game/day35.rpy:1738
+translate brazilian day35_flashback_sex_c685d3f9:
+
+    # "{i}Sasha showed no intention of doing so, and expertly guided Sabine to her climax."
+    "{i}Sasha não demostrou intenção de fazê-lo e habilmente conduziu Sabine ao clímax."
+
+# game/day35.rpy:1739
+translate brazilian day35_flashback_sex_5ed46d3a:
+
+    # "{i}The sight of Sabine, helplessly pleasured by Sasha and shuddering uncontrollably on the sofa was incredibly arousing."
+    "{i}A visão de Sabine, completamente satisfeita por Sasha e estremecendo incontrolavelmente no sofá foi incrivelmente excitante."
+
+# game/day35.rpy:1744
+translate brazilian day35_flashback_sex_f167671f:
+
+    # "{i}In fascination, I kept watching the girls as Sabine rested her head on Sasha's chest, happy tears in her eyes, while the older woman stroked her skin."
+    "{i}Fascinado, continuei observando as meninas, enquanto Sabine descansava a cabeça no peito de Sasha, com lágrimas de felicidade nos olhos, enquanto a mulher mais velha acariciava sua pele."
+
+# game/day35.rpy:1745
+translate brazilian day35_flashback_sex_4ec780aa:
+
+    # "{i}I snuck back into the bedroom and slipped next to Miley, holding her sleeping body in my arms."
+    "{i}Eu voltei de fininho para o quarto e fui para o lado da Miley, segurando seu corpo adormecido em meus braços."
+
+# game/day35.rpy:1746
+translate brazilian day35_flashback_sex_dae11ba8:
+
+    # "{i}I wasn't sure what exactly I had witnessed, but Sasha sure as hell made a connection with Sabine."
+    "{i}Eu não tinha certeza do que exatamente tinha testemunhado, mas Sasha com certeza fez uma conexão com Sabine."
+
+# game/day35.rpy:1747
+translate brazilian day35_flashback_sex_89f1652c:
+
+    # "{i}Just how deep the connection really went I learned a little later."
+    "{i}O quão profunda a conexão realmente foi, eu aprendi um pouco mais tarde."
+
+# game/day35.rpy:1765
+translate brazilian day35_ir_sex_48410ad7:
+
+    # ir "Could you just kiss me?"
+    ir "Você poderia só me beijar?"
+
+# game/day35.rpy:1767
+translate brazilian day35_ir_sex_26751e8d:
+
+    # "{i}Needing no further encouragement, you kiss her tears away and soon you're both as passionate as before."
+    "{i}Sem precisar de mais encorajamento, você beija as lágrimas dela e logo vocês estão tão apaixonado quanto antes."
+
+# game/day35.rpy:1768
+translate brazilian day35_ir_sex_372ced16:
+
+    # ir "I need you, [p_name]!"
+    ir "Eu preciso de você, [p_name]!"
+
+# game/day35.rpy:1773
+translate brazilian day35_ir_sex_7f500837:
+
+    # "{i}Softly, you lay her on the bed and stimulate her lower lips with your wet glans."
+    "{i}Suavemente, você a deita na cama e estimula seus lábios inferiores com sua glande molhada."
+
+# game/day35.rpy:1774
+translate brazilian day35_ir_sex_8047627a:
+
+    # "{i}The older woman sighs and touches your muscular chest in delight, caressing your arms in an attempt to will you forward, deep inside her."
+    "{i}A mulher mais velha suspira e toca seu peito musculoso de alegria, acariciando seus braços na tentativa forçá-lo a avançar, bem fundo nela."
+
+# game/day35.rpy:1779
+translate brazilian day35_ir_sex_ef72aa8b:
+
+    # "{i}Your initial thrust still comes as a surprise to her, as she gasps audibly when your dick slips inside her wet pussy."
+    "{i}Seu impulso inicial ainda é uma surpresa para ela, pois ela suspira audivelmente quando seu pau desliza para dentro de sua boceta molhada."
+
+# game/day35.rpy:1780
+translate brazilian day35_ir_sex_e8a18f03:
+
+    # ir "Oh yes!"
+    ir "Aih, isso!"
+
+# game/day35.rpy:1782
+translate brazilian day35_ir_sex_430e942e:
+
+    # "{i}Her luxurious body bounces on the rhythm of your love-making, which is increasing in intensity."
+    "{i}Seu corpo luxurioso balança no ritmo do seu amor, que está aumentando de intensidade."
+
+# game/day35.rpy:1783
+translate brazilian day35_ir_sex_a831e68f:
+
+    # "{i}The only things you manage to utter are hoarse moans and sighs, punctuated by hasty tongue kisses."
+    "{i}As únicas coisas que você consegue pronunciar são gemidos e suspiros roucos, pontuados por beijos apressados na língua."
+
+# game/day35.rpy:1784
+translate brazilian day35_ir_sex_8f8668bb:
+
+    # ir "I want you to fuck me deeper..."
+    ir "Eu quero que você me foda mais fundo..."
+
+# game/day35.rpy:1785
+translate brazilian day35_ir_sex_bba5bef4:
+
+    # "{i}You know exactly what she means when she gets on all fours, her majestic ass wiggling in the air."
+    "{i}Você sabe exatamente o que ela quer dizer quando fica de quatro, sua bunda majestosa balançando no ar."
+
+# game/day35.rpy:1794
+translate brazilian day35_ir_sex_c58ec8f0:
+
+    # "{i}Before you plunge your cock inside her hairy slit, you pause, looking at the delicate folds of her asshole."
+    "{i}Antes de mergulhar seu pau dentro de sua abertura cabeluda, você faz uma pausa, olhando para as dobras delicadas de seu cu."
+
+# game/day35.rpy:1795
+translate brazilian day35_ir_sex_dc3c797f:
+
+    # p "Iris..."
+    p "Iris..."
+
+# game/day35.rpy:1796
+translate brazilian day35_ir_sex_5522f4f9:
+
+    # ir "Yes... [p_name], is something wrong?"
+    ir "Sim... [p_name], algo errado?"
+
+# game/day35.rpy:1797
+translate brazilian day35_ir_sex_1f14d985:
+
+    # p "Would you like me to do what you did at university?"
+    p "Você gostaria que eu fizesse o que você fez na universidade?"
+
+# game/day35.rpy:1798
+translate brazilian day35_ir_sex_0f960595:
+
+    # "{i}It takes a while for a slight smile to appear on Iris' face and she barely nods in agreement."
+    "{i}Demora um pouco para que um leve sorriso apareça no rosto de Iris e ela mal acena em concordância."
+
+# game/day35.rpy:1799
+translate brazilian day35_ir_sex_3136b2cf:
+
+    # ir "I'd like that..."
+    ir "Eu gostaria disso..."
+
+# game/day35.rpy:1804
+translate brazilian day35_ir_sex_be8e1955:
+
+    # ir "Please be gentle."
+    ir "Mas por favor, seja gentil."
+
+# game/day35.rpy:1805
+translate brazilian day35_ir_sex_d7126455:
+
+    # ir "There's a bottle of lube in my nightstand."
+    ir "Tem uma garrafa de lubrificante na minha mesa de cabeceira."
+
+# game/day35.rpy:1806
+translate brazilian day35_ir_sex_47a900cd:
+
+    # ir "It was for my toy..."
+    ir "Era para o meu brinquedo..."
+
+# game/day35.rpy:1807
+translate brazilian day35_ir_sex_d97d43b5:
+
+    # "{i}You find the bottle and make sure Iris is ready for you."
+    "{i}Você encontra a garrafa e certifica-se de que Iris está pronta para você."
+
+# game/day35.rpy:1812
+translate brazilian day35_ir_sex_5978d2a7:
+
+    # "{i}When you're both ready, you grab hold of her ass and push the head of your cock against her anus."
+    "{i}Quando vocês dois estão prontos, você agarra a bunda dela e empurra a cabeça de seu pênis contra seu ânus."
+
+# game/day35.rpy:1813
+translate brazilian day35_ir_sex_7bcb4fc4:
+
+    # "{i}Iris holds her breath as your penis inches slowly inside of her, helped by the copious amount of lube."
+    "{i}Iris prende a respiração quando seu pênis penetra lentamente dentro dela, auxiliado pela abundante quantidade de lubrificante."
+
+# game/day35.rpy:1814
+translate brazilian day35_ir_sex_09e30899:
+
+    # ir "Aaah!"
+    ir "Aaai!"
+
+# game/day35.rpy:1815
+translate brazilian day35_ir_sex_96aa8b84:
+
+    # p "Should I stop?"
+    p "Quer que eu pare?"
+
+# game/day35.rpy:1816
+translate brazilian day35_ir_sex_dea92101:
+
+    # ir "No, keep going."
+    ir "Não, continua."
+
+# game/day35.rpy:1817
+translate brazilian day35_ir_sex_7fe2b824:
+
+    # "{i}The older woman is huffing, her face pressed inside the bedsheets as your cock disappears fully into her ass."
+    "{i}A mulher mais velha está bufando, seu rosto pressionado dentro dos lençóis enquanto seu pau desaparece totalmente em sua bunda."
+
+# game/day35.rpy:1818
+translate brazilian day35_ir_sex_f23adae6:
+
+    # ir "Oh Lord!"
+    ir "Aih, Senhor!"
+
+# game/day35.rpy:1819
+translate brazilian day35_ir_sex_79456584:
+
+    # ir "Fuck me! Please?"
+    ir "Me fode! Por favor?"
+
+# game/day35.rpy:1826
+translate brazilian day35_ir_sex_2a7d82f8:
+
+    # "{i}Her asshole feels as tight as a virgin's pussy as you begin to sway back and forth, causing your cock to slide in and out of her asshole ever so slightly."
+    "{i}Seu cu parece tão apertada quanto a boceta de uma virgem enquanto você começa a se mover para frente e para trás, fazendo com que seu pau entre e saia bem de leve do cu dela."
+
+# game/day35.rpy:1827
+translate brazilian day35_ir_sex_1998fb05:
+
+    # "{i}Iris's clenched fists are buried deep into the mattress as she moans with closed eyes, spittle leaking from the corner of her mouth."
+    "{i}Os punhos cerrados de Iris ficam enterrados profundamente no colchão enquanto ela geme com os olhos fechados, saliva vazando do canto da boca."
+
+# game/day35.rpy:1828
+translate brazilian day35_ir_sex_eae3dffd:
+
+    # ir "Don't stop, [p_name]!"
+    ir "Não para, [p_name]!"
+
+# game/day35.rpy:1829
+translate brazilian day35_ir_sex_94e5a795:
+
+    # ir "It feels so good!"
+    ir "Isso é tão bom!"
+
+# game/day35.rpy:1831
+translate brazilian day35_ir_sex_41b47e0d:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her ass with deep strokes, causing Iris to gasp in delight."
+    "{i}Encorajado, você agarra firmemente as nádegas dela e fode sua bunda com enfiadas profundas, fazendo Iris ofegar de prazer."
+
+# game/day35.rpy:1832
+translate brazilian day35_ir_sex_8278008f:
+
+    # ir "Oh [p_name]!"
+    ir "Aih, [p_name]!"
+
+# game/day35.rpy:1833
+translate brazilian day35_ir_sex_dc5c0014:
+
+    # ir "Oh yes! Yes!"
+    ir "Aih, isso! Isso!"
+
+# game/day35.rpy:1834
+translate brazilian day35_ir_sex_32108e22:
+
+    # "{i}Iris fingers her pussy while you continue stabbing her asshole and her moans intensify, signaling she's close to her climax."
+    "{i}Iris toca sua boceta enquanto você continua socando em sua fenda e seus gemidos se intensificam, sinalizando que ela está perto de seu clímax."
+
+# game/day35.rpy:1840
+translate brazilian day35_ir_sex_3f8404e3:
+
+    # "{i}Maybe your mind is playing tricks on you, but you think you feel something of the intense orgasm Iris is experiencing as you keep fucking her."
+    "{i}Talvez sua mente esteja pregando peças em você, mas você acha que sente parte do intenso orgasmo que Iris está sentindo enquanto continua transando com ela."
+
+# game/day35.rpy:1841
+translate brazilian day35_ir_sex_c781fe3d:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backward and a lewd smile gracing her face."
+    "{i}A mulher mais velha estremece e suspira, seus olhos rolando para trás e um sorriso sensual enfeitando seu rosto."
+
+# game/day35.rpy:1847
+translate brazilian day35_ir_sex_4ee3539a:
+
+    # "{i}You grab hold of her ass and push the head of your cock against her labia, teasing her wet pussy."
+    "{i}Você agarra sua bunda e empurra a cabeça de seu pênis contra os lábios, provocando sua boceta molhada."
+
+# game/day35.rpy:1848
+translate brazilian day35_ir_sex_4273c3ae:
+
+    # ir "Mmmm, please [p_name], fuck me."
+    ir "Hmmmm, por favor [p_name], me fode."
+
+# game/day35.rpy:1850
+translate brazilian day35_ir_sex_2ef51ee3:
+
+    # "{i}Iris holds her breath in ecstasy as your penis slips past her slick lips inside her love tunnel."
+    "{i}Iris prende a respiração em êxtase enquanto seu pênis desliza por seus lábios escorregadios dentro de seu túnel do amor."
+
+# game/day35.rpy:1851
+translate brazilian day35_ir_sex_33e54f69:
+
+    # "{i}The woman moans with closed eyes and pushes her ass upwards in order for you to penetrate her even more deeply."
+    "{i}A mulher geme de olhos fechados e empurra a bunda para cima para que você a penetre ainda mais profundamente."
+
+# game/day35.rpy:1852
+translate brazilian day35_ir_sex_94e5a795_1:
+
+    # ir "It feels so good!"
+    ir "Isso é tão bom!"
+
+# game/day35.rpy:1854
+translate brazilian day35_ir_sex_44e5ba08:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her pussy with deep strokes, causing Iris to gasp in delight."
+    "{i}Encorajado, você agarra firmemente as nádegas dela e fode sua boceta com enfiadas profundas, fazendo Iris ofegar de prazer."
+
+# game/day35.rpy:1855
+translate brazilian day35_ir_sex_8278008f_1:
+
+    # ir "Oh [p_name]!"
+    ir "Aih, [p_name]!"
+
+# game/day35.rpy:1856
+translate brazilian day35_ir_sex_dc5c0014_1:
+
+    # ir "Oh yes! Yes!"
+    ir "Aih, isso! Isso!"
+
+# game/day35.rpy:1857
+translate brazilian day35_ir_sex_3fc53b4d:
+
+    # "{i}Iris fingers her pussy while you continue to pound her slit and her moans intensify, signaling she's close to her climax."
+    "{i}Iris toca sua boceta enquanto você continua socando em sua fenda e seus gemidos se intensificam, sinalizando que ela está perto de seu clímax."
+
+# game/day35.rpy:1863
+translate brazilian day35_ir_sex_55927cab:
+
+    # "{i}Within seconds you're part of the intense orgasm Iris is experiencing as you keep fucking her during her convulsions of pleasure."
+    "{i}Em segundos, você faz parte do intenso orgasmo que Iris está experimentando, enquanto continua transando com ela durante suas convulsões de prazer."
+
+# game/day35.rpy:1864
+translate brazilian day35_ir_sex_872ab584:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backwards, a small stream of spittle leaking from the corner of her mouth."
+    "{i}A mulher mais velha estremece e suspira, seus olhos rolando para trás, um pequeno jato de saliva vazando do canto da boca."
+
+# game/day35.rpy:1866
+translate brazilian day35_ir_sex_8cc23bc2:
+
+    # ir "T-that f-felt s-so amazing!"
+    ir "I-isso f-foi t-tão incrível!"
+
+# game/day35.rpy:1867
+translate brazilian day35_ir_sex_cf3f253e:
+
+    # "{i}Her words have an immediate effect on you, and your own orgasm is approaching fast."
+    "{i}As palavras dela têm um efeito imediato em você e seu próprio orgasmo rapidamente se aproxima."
+
+# game/day35.rpy:1874
+translate brazilian day35_ir_sex_b87a9704:
+
+    # "{i}In a split second, you decide you want to finish inside her pussy and pull your cock out of Iris' asshole."
+    "{i}Em uma fração de segundo, você decide que quer gozar dentro de sua boceta e tira pau do cu da Iris."
+
+# game/day35.rpy:1875
+translate brazilian day35_ir_sex_ef49f9d2:
+
+    # "{i}She doesn't complain when your dick, covered in lube and inside her ass just a moment ago, penetrates her wet gash."
+    "{i}Ela não reclama quando seu pau, coberto de lubrificante um momento antes dentro de sua bunda, penetra em sua abertura molhada."
+
+# game/day35.rpy:1877
+translate brazilian day35_ir_sex_28d650a3:
+
+    # "{i}In a split second, you decide to remain inside her and finish inside her pussy, so you keep fucking her for several intense thrusts."
+    "{i}Em uma fração de segundo, você decide que quer permanecer dentro dela e gozar dentro de sua boceta, então continua transando com ela por várias enfiadas intensas."
+
+# game/day35.rpy:1884
+translate brazilian day35_ir_sex_0ae70127:
+
+    # "{i}Within seconds you flood her vagina with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}Em segundos, você inunda sua vagina com esperma quente enquanto Iris se satisfaz com a sensação de estar cheia."
+
+# game/day35.rpy:1886
+translate brazilian day35_ir_sex_681fbfa8:
+
+    # "{i}Semen leaks out of her pussy and stains the bed sheets as you pull out your cock."
+    "{i}Sêmen vaza de sua boceta e mancha os lençóis da cama quando você tira seu pau."
+
+# game/day35.rpy:1887
+translate brazilian day35_ir_sex_9c55539d:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Iris não parece se importar, a única coisa que ela faz é olhar para você com amor em êxtase pós-sexo."
+
+# game/day35.rpy:1897
+translate brazilian day35_ir_sex_5bf8008f:
+
+    # "{i}In a split second, you decide you want to finish inside her ass, so you keep fucking her for several intense thrusts."
+    "{i}Em uma fração de segundo, você decide que quer gozar dentro da bunda dela, então continua fodendo ela com várias enfiadas intensas."
+
+# game/day35.rpy:1904
+translate brazilian day35_ir_sex_4e6dfb0b:
+
+    # "{i}Within seconds you flood her asshole with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}Em segundos, você inunda o cu dela com esperma quente enquanto Iris se satisfaz com a sensação de estar cheia."
+
+# game/day35.rpy:1906
+translate brazilian day35_ir_sex_54b105e2:
+
+    # "{i}Semen, mixed with lube, leaks out of her winking anus and stains the bed sheets as you pull out your cock."
+    "{i}Sêmen, misturado com o lubrificante, vaza de seu ânus piscante e mancha os lençóis da cama quando você tira seu pênis."
+
+# game/day35.rpy:1907
+translate brazilian day35_ir_sex_9c55539d_1:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Iris não parece se importar, a única coisa que ela faz é olhar para você com amor em êxtase pós-sexo."
+
+# game/day35.rpy:1921
+translate brazilian day35_ir_sex_d6fd4b00:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' asshole."
+    "{i}Em uma fração de segundo, você decide cobrir o corpo dela com seu sêmen e puxa seu pau para fora do cu da Iris."
+
+# game/day35.rpy:1923
+translate brazilian day35_ir_sex_26081ed6:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' vagina."
+    "{i}Em uma fração de segundo, você decide cobrir o corpo dela com seu sêmen e puxa seu pau para fora da vagina da Iris."
+
+# game/day35.rpy:1926
+translate brazilian day35_ir_sex_72710649:
+
+    # "{i}Within seconds you spray her back with warm cum as Iris luxuriates in the feeling of being covered in semen."
+    "{i}Em segundos, você borrifa suas costas com esperma quente enquanto Iris se satisfaz com a sensação de estar coberta de sêmen."
+
+# game/day35.rpy:1927
+translate brazilian day35_ir_sex_d0fb3feb:
+
+    # "{i}Iris looks at you lovingly in post-coital bliss as the warm cum drips from the sides of her body."
+    "{i}Iris olha para você com amor em êxtase pós-sexo enquanto o esperma quente escorre dos lados de seu corpo."
+
+# game/day35.rpy:1936
+translate brazilian day35_ir_sex_3af46f8a:
+
+    # ir "I'd forgotten how good it felt..."
+    ir "Eu tinha esquecido como era bom..."
+
+# game/day35.rpy:1938
+translate brazilian day35_ir_sex_9c792fa6:
+
+    # p "Anal?"
+    p "Anal?"
+
+# game/day35.rpy:1939
+translate brazilian day35_ir_sex_710b6775:
+
+    # ir "Not just that."
+    ir "Não apenas isso."
+
+# game/day35.rpy:1940
+translate brazilian day35_ir_sex_9ec71e28:
+
+    # ir "Though it did feel good."
+    ir "Apesar que isso foi bom."
+
+# game/day35.rpy:1941
+translate brazilian day35_ir_sex_24dcce1d:
+
+    # ir "A little uncomfortable at first..."
+    ir "Um pouco desconfortável no começo..."
+
+# game/day35.rpy:1942
+translate brazilian day35_ir_sex_ad0d1aaf:
+
+    # ir "But I meant in a broader sense, having sex without any restraints."
+    ir "Mas eu quis dizer em um sentido mais amplo, fazer sexo sem restrições."
+
+# game/day35.rpy:1944
+translate brazilian day35_ir_sex_5eefe91f:
+
+    # ir "Having sex without any restraints."
+    ir "Fazer sexo sem restrições."
+
+# game/day35.rpy:1945
+translate brazilian day35_ir_sex_64f73ce2:
+
+    # ir "For a moment, nothing else mattered."
+    ir "Por um momento, nada mais importava."
+
+# game/day35.rpy:1946
+translate brazilian day35_ir_sex_8c166994:
+
+    # ir "I want us to be lovers, [p_name]."
+    ir "Eu quero que sejamos amantes, [p_name]."
+
+# game/day35.rpy:1947
+translate brazilian day35_ir_sex_796d9ba7:
+
+    # p "I already thought we were."
+    p "Já pensei que éramos."
+
+# game/day35.rpy:1948
+translate brazilian day35_ir_sex_5400b66c:
+
+    # ir "Maybe we are, but I just felt I needed to say it."
+    ir "Talvez sejamos, mas senti que precisava dizer isso."
+
+# game/day35.rpy:1949
+translate brazilian day35_ir_sex_15da191f:
+
+    # ir "Being with you makes me feel like I belong."
+    ir "Estar com você me faz sentir que pertenço."
+
+# game/day35.rpy:1950
+translate brazilian day35_ir_sex_43a844d8:
+
+    # ir "You appreciate me, [p_name], and it's a long time since I've felt that way."
+    ir "Você me aprecia, [p_name], e faz muito tempo que não me sinto assim."
+

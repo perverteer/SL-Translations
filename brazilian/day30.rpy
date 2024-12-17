@@ -5053,3 +5053,893 @@ translate brazilian day30_evening_choices_26f2e183:
     # "{i}There do not seem to be any reservations between you and her, and you cuddle like a proper couple before falling asleep."
     "{i}Não parece haver nenhuma restrição entre você e ela e você se aconchega como um casal adequado antes de adormecer."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day30.rpy:1029
+translate brazilian day30_r_handjob_bf9adf1b:
+
+    # p "{i}(Is she really going to do this?)"
+    p "{i}(Ela vai mesmo fazer isso?)"
+
+# game/day30.rpy:1030
+translate brazilian day30_r_handjob_2628b085:
+
+    # p "{i}(This is too hot!)"
+    p "{i}(Isso é sexy demais!)"
+
+# game/day30.rpy:1032
+translate brazilian day30_r_handjob_0daaa903:
+
+    # "{i}Your sister tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Sua irmã tenta passar os dedos pela cintura da sua calça, mas é muito difícil."
+
+# game/day30.rpy:1034
+translate brazilian day30_r_handjob_b83ed279:
+
+    # "{i}Your friend tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Sua amiga tenta passar os dedos pela cintura da sua calça, mas é muito difícil."
+
+# game/day30.rpy:1036
+translate brazilian day30_r_handjob_7527a716:
+
+    # "{i}Skillfully, she pulls the zipper down instead, freeing your growing erection, her body shielding the scene from the rest of the restaurant."
+    "{i}Habilmente, ela puxa o zíper para baixo, liberando sua ereção crescente, com o corpo dela bloqueando a cena do resto do restaurante."
+
+# game/day30.rpy:1037
+translate brazilian day30_r_handjob_2ff4100a:
+
+    # p "{i}(Fuck! [b_name] is going to notice!)"
+    p "{i}(Porra! [b_name] vai perceber!)"
+
+# game/day30.rpy:1042
+translate brazilian day30_r_handjob_22679f04:
+
+    # "{i}But [b_name] doesn't notice, as she's firmly focused on the conversation with [r_name], who in turn begins to softly move her fingers over the head of your cock."
+    "{i}Mas [b_name] não percebe, pois ela está completamente focada na conversa com [r_name], que por sua vez começa a mover suavemente os dedos sobre a cabeça do seu pau."
+
+# game/day30.rpy:1043
+translate brazilian day30_r_handjob_cec6a413:
+
+    # "{i}The touch makes you shiver, and it takes all your self-control to appear as an active participant in the conversation."
+    "{i}O toque faz você estremecer e é preciso todo o seu autocontrole para aparecer como um participante ativo na conversa."
+
+# game/day30.rpy:1044
+translate brazilian day30_r_handjob_3b4e6303:
+
+    # r "So I said it to her, just like that..."
+    r "Então eu simplesmente falei para ela..."
+
+# game/day30.rpy:1045
+translate brazilian day30_r_handjob_fd265ddb:
+
+    # b "You wouldn't!"
+    b "Você não faria isso!"
+
+# game/day30.rpy:1046
+translate brazilian day30_r_handjob_ba9b54e4:
+
+    # r "I did. She was super-pissed afterwards, of course."
+    r "Eu fiz. Ela ficou super chateada depois é claro."
+
+# game/day30.rpy:1047
+translate brazilian day30_r_handjob_7b0a7b75:
+
+    # b "Of course she was."
+    b "Óbvio que ficou."
+
+# game/day30.rpy:1048
+translate brazilian day30_r_handjob_61873aa8:
+
+    # "{i}Afraid the movements of her arm might give her away, [r_name] resorts to massaging your shaft with extra care. Her fingers explore the entirety of your cock, lingering on the sensitive areas of your glans."
+    "{i}Com medo que os movimentos do braço possam denunciá-la, [r_name] recorre a massagear seu pau com um cuidado extra. Seus dedos exploram todo o seu pau, passando maior tempo nas áreas sensíveis de sua glande."
+
+# game/day30.rpy:1049
+translate brazilian day30_r_handjob_34b6f0cb:
+
+    # "{i}The precum that's already dripping from the tip of your penis is used by her as a lubricant."
+    "{i}Ela usa o fluido que já está pingando da ponta do seu pênis como lubrificante."
+
+# game/day30.rpy:1051
+translate brazilian day30_r_handjob_4d90cf88:
+
+    # b "So did she ever talk to you again afterwards?"
+    b "Ela voltou a falar com você depois?"
+
+# game/day30.rpy:1052
+translate brazilian day30_r_handjob_074351be:
+
+    # p "Nope. Never."
+    p "Não. Nunca mais."
+
+# game/day30.rpy:1053
+translate brazilian day30_r_handjob_6435b31f:
+
+    # b "Ouch, that's harsh."
+    b "Ai, isso é duro."
+
+# game/day30.rpy:1054
+translate brazilian day30_r_handjob_42a7fc69:
+
+    # "{i}[b_name] doesn't even notice you're not paying attention anymore. All your focus is going to [r_name]'s fingers caressing your cock."
+    "{i}[b_name] nem percebe que você não está mais prestando atenção. Todo o seu foco está nos dedos de [r_name] acariciando seu pau."
+
+# game/day30.rpy:1058
+translate brazilian day30_r_handjob_18797b0d:
+
+    # "{i}A small moan escapes you, as you think you can't hold out much longer. [r_name] notices and stops."
+    "{i}Você solta um leve gemido, pois acha que consegue aguentar muito mais tempo. [r_name] percebe e para."
+
+# game/day30.rpy:1059
+translate brazilian day30_r_handjob_5590690c:
+
+    # p "{i}(What?! No!)"
+    p "{i}(O quê?! não!)"
+
+# game/day30.rpy:1061
+translate brazilian day30_r_handjob_c16cda11:
+
+    # "{i}Deftly she brushes the spoon that's on the table to the ground."
+    "{i}Habilmente, ela empurra a colher que está sobre a mesa e a derruba no chão."
+
+# game/day30.rpy:1062
+translate brazilian day30_r_handjob_e934c023:
+
+    # r "Stupid me. Dropped my spoon."
+    r "Que burrada minha. Deixei a minha colher cair."
+
+# game/day30.rpy:1063
+translate brazilian day30_r_handjob_c39dbcf2:
+
+    # r "Be right back."
+    r "Já volto."
+
+# game/day30.rpy:1064
+translate brazilian day30_r_handjob_cbbe9a86:
+
+    # p "{i}(What's she playing at?)"
+    p "{i}(O que ela está fazendo?)"
+
+# game/day30.rpy:1069
+translate brazilian day30_r_handjob_2cce156b:
+
+    # "{i}At first, you think she's really looking for the spoon, but then you feel something warm and wet on your cock."
+    "{i}A princípio você acha que ela está realmente procurando a colher, mas aí você sente algo quente e úmido em seu pau."
+
+# game/day30.rpy:1070
+translate brazilian day30_r_handjob_73ba43ad:
+
+    # p "{i}(God no, she isn't... not in the middle of...)"
+    p "{i}(Deus, não, ela não está... não está no meio de...)"
+
+# game/day30.rpy:1071
+translate brazilian day30_r_handjob_76ed38e2:
+
+    # b "Are you okay down there, [r_name]?"
+    b "Você está bem aí embaixo, [r_name]?"
+
+# game/day30.rpy:1072
+translate brazilian day30_r_handjob_68a35dbb:
+
+    # r "Just a minute, it slipped beneath the bench."
+    r "Só um minuto, ele escorregou para baixo do banco."
+
+# game/day30.rpy:1073
+translate brazilian day30_r_handjob_6927f603:
+
+    # b "We can ask for a new one."
+    b "Podemos pedir outra."
+
+# game/day30.rpy:1074
+translate brazilian day30_r_handjob_e3b3d438:
+
+    # "{i}[r_name]'s lips wrap around your cock again, and she starts sucking. The pressure proves too much, and you cum nearly instantly."
+    "{i}Os lábios da [r_name] envolvem seu pau novamente e ela começa a chupar. A pressão se torna forte demais e você goza quase na mesma hora."
+
+# game/day30.rpy:1077
+translate brazilian day30_r_handjob_0ef4190d:
+
+    # "{i}Luckily [b_name] is too preoccupied with something else, which allows you to orgasm unnoticed."
+    "{i}Felizmente, [b_name] está muito ocupada com outra coisa, o que permite que você tenha um orgasmo despercebido."
+
+# game/day30.rpy:1078
+translate brazilian day30_r_handjob_3580ead1:
+
+    # b "I'll just go and ask for another spoon."
+    b "Vou só lá pedir outra colher."
+
+# game/day30.rpy:1083
+translate brazilian day30_r_handjob_a4e47b25:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your sister's eager mouth."
+    "{i}Quando [b_name] vai embora, você ainda está bombeando sêmen na boca ansiosa de sua irmã."
+
+# game/day30.rpy:1085
+translate brazilian day30_r_handjob_0f85b111:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your friend's eager mouth."
+    "{i}Quando [b_name] vai embora, você ainda está bombeando sêmen na boca ansiosa de sua amiga."
+
+# game/day30.rpy:1086
+translate brazilian day30_r_handjob_254e46c4:
+
+    # "{i}With a teasing lick of her tongue, you feel [r_name] disengaging from your cock."
+    "{i}Com uma lambida provocante de sua língua, você sente [r_name] se soltando do seu pau."
+
+# game/day30.rpy:1087
+translate brazilian day30_r_handjob_deee9a1b:
+
+    # r "Found it!"
+    r "Encontrei!"
+
+# game/day30.rpy:1089
+translate brazilian day30_r_handjob_39391a2b:
+
+    # r "Oh, where did she go?"
+    r "Ah, onde ela foi?"
+
+# game/day30.rpy:1090
+translate brazilian day30_r_handjob_b6686276:
+
+    # p "To get a spoon."
+    p "Foi pegar uma colher."
+
+# game/day30.rpy:1091
+translate brazilian day30_r_handjob_c1c9b398:
+
+    # "{i}[r_name] winks at you as you manage to zip your pants before [b_name] returns."
+    "{i}[r_name] dá uma piscada enquanto você fecha o zíper da calça antes de [b_name] voltar."
+
+# game/day30.rpy:1093
+translate brazilian day30_r_handjob_20f980c3:
+
+    # b "I got you a new spoon."
+    b "Peguei uma colher nova."
+
+# game/day30.rpy:1094
+translate brazilian day30_r_handjob_3c211131:
+
+    # r "Mmmm. I'm full."
+    r "Mmmm. Estou cheia."
+
+# game/day30.rpy:1095
+translate brazilian day30_r_handjob_1870fb85:
+
+    # p "{i}(My depraved, red-haired little angel!)"
+    p "{i}(Minha anjinha ruiva safada!)"
+
+# game/day30.rpy:1113
+translate brazilian day30_b_sex_a89b5669:
+
+    # b "I'm claiming my prize, right here and right now."
+    b "Estou reivindicando meu prêmio, aqui e agora."
+
+# game/day30.rpy:1118
+translate brazilian day30_b_sex_c2d1dece:
+
+    # "{i}As she speaks those last words, [b_name] unclasps her bra and slowly lowers her panties."
+    "{i}Enquanto ela pronuncia essas últimas palavras, [b_name] desabotoa o sutiã e abaixa lentamente a calcinha."
+
+# game/day30.rpy:1119
+translate brazilian day30_b_sex_ac218ea7:
+
+    # p "Are you sure it isn't more of a prize for me?"
+    p "Tem certeza de que não é mais um prêmio para mim?"
+
+# game/day30.rpy:1120
+translate brazilian day30_b_sex_648931c1:
+
+    # b "You know, [p_name], you get stuck in metaphors a little too often."
+    b "Sabe, [p_name], você fica preso em metáforas com muita frequência."
+
+# game/day30.rpy:1122
+translate brazilian day30_b_sex_4197198a:
+
+    # b "Let's just fuck our brains out, shall we?"
+    b "Vamos só foder até não aguentarmos mais, pode ser?"
+
+# game/day30.rpy:1123
+translate brazilian day30_b_sex_a224e9e2:
+
+    # p "Hehe, works for me."
+    p "Hehe, por mim tudo bem."
+
+# game/day30.rpy:1125
+translate brazilian day30_b_sex_c85ba8f0:
+
+    # "{i}You join your sister on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Você se junta à sua irmã na cama e, após um breve momento explorando o corpo dela com a ponta dos dedos, ela o puxa para mais perto."
+
+# game/day30.rpy:1127
+translate brazilian day30_b_sex_1870853e:
+
+    # "{i}You join your friend on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Você se junta à sua amiga na cama e, após um breve momento explorando o corpo dela com a ponta dos dedos, ela o puxa para mais perto dela."
+
+# game/day30.rpy:1128
+translate brazilian day30_b_sex_aa580faa:
+
+    # b "Shall we skip the foreplay?"
+    b "Devemos pular as preliminares?"
+
+# game/day30.rpy:1129
+translate brazilian day30_b_sex_af3e1398:
+
+    # b "I just want to feel you..."
+    b "Eu só quero te sentir..."
+
+# game/day30.rpy:1134
+translate brazilian day30_b_sex_1a554221:
+
+    # "{i}Her soft hands guide your cock inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}As mãos macias dela guiam seu pau para dentro de sua abertura molhada. Ela olha para você com olhos ansiosos, desejando que você siga em frente."
+
+# game/day30.rpy:1139
+translate brazilian day30_b_sex_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Quando [b_name] suspira após sua primeira enfiada, é de alívio e prazer."
+
+# game/day30.rpy:1140
+translate brazilian day30_b_sex_a30e07e4:
+
+    # b "God, you feel so good."
+    b "Deus, você está tão gostoso."
+
+# game/day30.rpy:1141
+translate brazilian day30_b_sex_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Vocês pressionam seus corpos o mais perto possível, como se quisessem sentir mais um do outro."
+
+# game/day30.rpy:1142
+translate brazilian day30_b_sex_4d0f4e4d:
+
+    # "{i}Your love-making is neither frantic, nor aggressive."
+    "{i}Seu ato de fazer amor não é frenético nem agressivo."
+
+# game/day30.rpy:1143
+translate brazilian day30_b_sex_82d646a5:
+
+    # "{i}Instead you both enjoy long, deep thrusts, savoring the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Em vez disso, vocês dois desfrutam de enfiadas longas e profundas, saboreando a sensação de seu pau cheio de veias esfregando contra os limites úmidos e nervurados dela."
+
+# game/day30.rpy:1145
+translate brazilian day30_b_sex_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Por favor, não para."
+
+# game/day30.rpy:1146
+translate brazilian day30_b_sex_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Eu não quero que isso pare!"
+
+# game/day30.rpy:1148
+translate brazilian day30_b_sex_cacb8ceb:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even deeper."
+    "{i}As próximas palavras dela ficam presas na garganta quando você encontra uma posição que permite penetrá-la ainda mais fundo."
+
+# game/day30.rpy:1150
+translate brazilian day30_b_sex_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}A boceta da sua irmã está ficando escorregadia com a umidade que vaza em abundância de sua vagina."
+
+# game/day30.rpy:1152
+translate brazilian day30_b_sex_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}A boceta da sua amiga está ficando escorregadia com a umidade que vaza em abundância de sua vagina."
+
+# game/day30.rpy:1153
+translate brazilian day30_b_sex_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Apenas sua respiração irregular é perceptível acima dos sons da paixão, intensificados pela massagem de seus seios e mamilos orgulhosamente eretos."
+
+# game/day30.rpy:1155
+translate brazilian day30_b_sex_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}Os olhos de [b_name] rolaram para trás e seus dentes estão cerrados enquanto ela enfia dedos na boceta para acompanhar a estimulação que está recebendo de seu pau duro."
+
+# game/day30.rpy:1156
+translate brazilian day30_b_sex_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Você beija o pescoço dela e sente os músculos tensos, cada fibra do corpo dela está preparada para a próxima e inevitável liberação."
+
+# game/day30.rpy:1163
+translate brazilian day30_b_sex_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Suas convulsões ainda o surpreendem quando você segura sua irmã repentinamente trêmula perto, ondas de orgasmo passando por ela."
+
+# game/day30.rpy:1165
+translate brazilian day30_b_sex_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Suas convulsões ainda o surpreendem quando você segura sua amiga de repente trêmula perto, ondas de orgasmo passando por ela."
+
+# game/day30.rpy:1168
+translate brazilian day30_b_sex_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}A estimulação das contrações dela também o leva ao limite."
+
+# game/day30.rpy:1169
+translate brazilian day30_b_sex_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "D-d-deus, [b_name]!"
+
+# game/day30.rpy:1178
+translate brazilian day30_b_sex_f43963e4:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it releases in a river of cum that seems to flow endlessly."
+    "{i}Como você ainda está tão profundamente dentro dela, você quase sai tarde demais. Você consegue direcionar seu pau para a barriga dela enquanto ele explode em um rio de esperma que parece fluir sem fim."
+
+# game/day30.rpy:1192
+translate brazilian day30_b_sex_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Enquanto você ainda está tão profundamente dentro dela, seu pau explode em um rio de esperma que parece fluir sem fim."
+
+# game/day30.rpy:1201
+translate brazilian day30_b_sex_fe0ab1db:
+
+    # b "Mmmm, there's so much of it, baby."
+    b "Mmmm, saiu tanto, amor."
+
+# game/day30.rpy:1206
+translate brazilian day30_b_sex_58730cbb:
+
+    # "{i}Both smiling, you lie next to each other, basking in the afterglow of your lust."
+    "{i}Ambos sorrindo, vocês se deitam um ao lado do outro, se deliciando com o resultado de seu desejo."
+
+# game/day30.rpy:1207
+translate brazilian day30_b_sex_5b062d3c:
+
+    # b "I really don't know how we do this every time."
+    b "Eu realmente não sei como fazemos isso todas as vezes."
+
+# game/day30.rpy:1208
+translate brazilian day30_b_sex_ecf4872a:
+
+    # p "Making a mess of every bed we lie upon?"
+    p "Fazer uma bagunça em cada cama em que deitamos?"
+
+# game/day30.rpy:1209
+translate brazilian day30_b_sex_d5278058:
+
+    # b "That too."
+    b "Isso também."
+
+# game/day30.rpy:1210
+translate brazilian day30_b_sex_713c467f:
+
+    # b "But I was talking about the crazy hot sex we just had."
+    b "Mas eu estava falando sobre o sexo louco e gostoso que acabamos de fazer."
+
+# game/day30.rpy:1211
+translate brazilian day30_b_sex_7a5e75e7:
+
+    # p "Oh that. I'm sure it'll pass."
+    p "Ah, isso. Tenho certeza que vai passar."
+
+# game/day30.rpy:1212
+translate brazilian day30_b_sex_29dedd4b:
+
+    # "{i}You emit a perfunctory grunt at the elbow in the side you receive from [b_name]."
+    "{i}Você emite um leve grunhido com o golpe de cotovelo que recebeu da [b_name]."
+
+# game/day30.rpy:1213
+translate brazilian day30_b_sex_0a7939d3:
+
+    # b "As soon as that's the case I'll dump you and find a young stud to make my plaything."
+    b "Assim que for o caso, deixo você e procuro um jovem garanhão para fazer meu brinquedo."
+
+# game/day30.rpy:1214
+translate brazilian day30_b_sex_04cd152c:
+
+    # p "In that case I'll get me a nice harem of willing nubile girls."
+    p "Nesse caso, vou conseguir um bom harém de moças núbeis dispostas."
+
+# game/day30.rpy:1215
+translate brazilian day30_b_sex_6612fe99:
+
+    # b "Suuure!"
+    b "Claaaro!"
+
+# game/day30.rpy:1216
+translate brazilian day30_b_sex_a67bc7ef:
+
+    # p "Watch me!"
+    p "Fique só olhando!"
+
+# game/day30.rpy:1218
+translate brazilian day30_b_sex_aa8816fe:
+
+    # b "God, you know your stuff is still leaking out of me?"
+    b "Deus, você sabe que sua coisa ainda está vazando de mim?"
+
+# game/day30.rpy:1219
+translate brazilian day30_b_sex_3cd9d6d3:
+
+    # p "I'm not sure if I'm ready for that level of detail."
+    p "Não tenho certeza se estou pronto para esse nível de detalhe."
+
+# game/day30.rpy:1220
+translate brazilian day30_b_sex_f08b7a94:
+
+    # b "You were very happy to fill me up just now."
+    b "Você ficou muito feliz em me preencher agora."
+
+# game/day30.rpy:1221
+translate brazilian day30_b_sex_136f08ac:
+
+    # p "That was in the heat of passion."
+    p "Isso foi no calor da paixão."
+
+# game/day30.rpy:1222
+translate brazilian day30_b_sex_fb9fbb20:
+
+    # b "Yeah, lots of sticky passion clinging to my thighs."
+    b "Sim, muita paixão pegajosa grudada nas minhas coxas."
+
+# game/day30.rpy:1223
+translate brazilian day30_b_sex_49d3b6af:
+
+    # p "Well maybe we'll get lucky and have triplets."
+    p "Bem, talvez tenhamos sorte e tenhamos trigêmeos."
+
+# game/day30.rpy:1225
+translate brazilian day30_b_sex_9d358d84:
+
+    # b "[p_name]!"
+    b "[p_name]!"
+
+# game/day30.rpy:1226
+translate brazilian day30_b_sex_cee82782:
+
+    # p "Shit, sorry, bad joke."
+    p "Merda, desculpa, piada de mau gosto."
+
+# game/day30.rpy:1228
+translate brazilian day30_b_sex_8f42f273:
+
+    # b "But you know I'm on the pill, right?"
+    b "Mas você sabe que estou tomando pílula, certo?"
+
+# game/day30.rpy:1229
+translate brazilian day30_b_sex_f5e1f349:
+
+    # p "Of course, I just made a stupid joke."
+    p "Claro, só fiz uma piada idiota."
+
+# game/day30.rpy:1230
+translate brazilian day30_b_sex_f7a61144:
+
+    # b "Don't worry."
+    b "Não se preocupa."
+
+# game/day30.rpy:1231
+translate brazilian day30_b_sex_adfc592a:
+
+    # b "Just kiss me and hold me, silly."
+    b "Só me beija e me abraça, bobo."
+
+# game/day30.rpy:1233
+translate brazilian day30_b_sex_1dd26a96:
+
+    # b "God, you know your stuff is still dripping off my body?"
+    b "Deus, você sabe que sua coisa ainda está pingando do meu corpo?"
+
+# game/day30.rpy:1234
+translate brazilian day30_b_sex_4c00e69b:
+
+    # p "I'm not sure if I'm ready for that level detail."
+    p "Não tenho certeza se estou pronto para esse nível de detalhe."
+
+# game/day30.rpy:1235
+translate brazilian day30_b_sex_c8745a14:
+
+    # b "You were very happy to make an enormous mess just now."
+    b "Você estava muito feliz em fazer uma enorme bagunça agora."
+
+# game/day30.rpy:1236
+translate brazilian day30_b_sex_136f08ac_1:
+
+    # p "That was in the heat of passion."
+    p "Isso foi no calor da paixão."
+
+# game/day30.rpy:1237
+translate brazilian day30_b_sex_5fd8e631:
+
+    # b "Yeah, lots of sticky passion clinging to my breasts and belly."
+    b "Sim, muita paixão pegajosa grudada nos meus seios e barriga."
+
+# game/day30.rpy:1238
+translate brazilian day30_b_sex_8df6fc01:
+
+    # p "I'll get you a wet towel."
+    p "Vou pegar uma toalha molhada para você."
+
+# game/day30.rpy:1240
+translate brazilian day30_b_sex_6d1edd82:
+
+    # b "Nah, I just want you to kiss and hold me."
+    b "Nem, eu só quero que você me beije e me abrace."
+
+# game/day30.rpy:1242
+translate brazilian day30_b_sex_ce48a7c6:
+
+    # "{i}You do just that and after a very long good night's kiss, you fall asleep in [b_name]'s arms."
+    "{i}Você faz exatamente isso e depois de um beijo de boa noite muito longo, você adormece nos braços de [b_name]."
+
+# game/day30.rpy:1261
+translate brazilian day30_b_sex_hard_c5c25e74:
+
+    # b "Oh god..."
+    b "Aih meu deus..."
+
+# game/day30.rpy:1267
+translate brazilian day30_b_sex_hard_155a77a1:
+
+    # "{i}You turn the dial further up and move towards her to wrap your arms around her, [b_name] is too caught up in the vibrations of the egg to protest."
+    "{i}Você vira o botão mais para cima e vai até ela para envolvê-la em seus braços, [b_name] está distraída demais pelas vibrações do ovo para protestar."
+
+# game/day30.rpy:1268
+translate brazilian day30_b_sex_hard_32995828:
+
+    # p "You know you're special to me too."
+    p "Você sabe que também é especial para mim."
+
+# game/day30.rpy:1269
+translate brazilian day30_b_sex_hard_49b17505:
+
+    # b "I don't care..."
+    b "Eu não me importo..."
+
+# game/day30.rpy:1271
+translate brazilian day30_b_sex_hard_0adb5808:
+
+    # p "But I told you before, that I have the freedom to see other women."
+    p "Mas eu já disse que tenho liberdade para ver outras mulheres."
+
+# game/day30.rpy:1273
+translate brazilian day30_b_sex_hard_69e084dc:
+
+    # p "You are, but that doesn't mean I don't have the freedom to see other women."
+    p "Você é, mas isso não significa que eu não tenha liberdade para ver outras mulheres."
+
+# game/day30.rpy:1274
+translate brazilian day30_b_sex_hard_4fc5b27b:
+
+    # b "But [r_name]?!"
+    b "Mas [r_name]?!"
+
+# game/day30.rpy:1275
+translate brazilian day30_b_sex_hard_811a6300:
+
+    # p "Yes, what about her?"
+    p "Sim, o que tem ela?"
+
+# game/day30.rpy:1276
+translate brazilian day30_b_sex_hard_6bbc92fd:
+
+    # p "She's beautiful, sweet and just absolutely great."
+    p "Ela é linda, doce e absolutamente ótima."
+
+# game/day30.rpy:1278
+translate brazilian day30_b_sex_hard_9cf9877d:
+
+    # p "Which isn't much of a surprise, considering she's your sister."
+    p "O que não é uma grande surpresa, considerando que ela é sua irmã."
+
+# game/day30.rpy:1279
+translate brazilian day30_b_sex_hard_5fbb4c2f:
+
+    # p "And I'll love you both just as much."
+    p "E eu vou amar vocês duas o mesmo tanto."
+
+# game/day30.rpy:1280
+translate brazilian day30_b_sex_hard_32625464:
+
+    # b "I don't..."
+    b "Eu não..."
+
+# game/day30.rpy:1284
+translate brazilian day30_b_sex_hard_3f9bd061:
+
+    # "{i}As you kiss, you turn the vibrator off, [b_name] is eagerly kissing you back without the arousing effect of the vibrator."
+    "{i}Conforme você beija, você desliga o vibrador, [b_name] está ansiosamente beijando você de volta, sem o efeito estimulante do vibrador."
+
+# game/day30.rpy:1285
+translate brazilian day30_b_sex_hard_628fec4d:
+
+    # p "Do you want me to make love to you?"
+    p "Você quer que eu faça amor com você?"
+
+# game/day30.rpy:1286
+translate brazilian day30_b_sex_hard_81039d72:
+
+    # b "Y-y-yes!"
+    b "S-s-sim!"
+
+# game/day30.rpy:1291
+translate brazilian day30_b_sex_hard_0b49445f:
+
+    # "{i}Within moments you've lost all of your clothing, your cock reacting instantly to [b_name]'s naked body."
+    "{i}Em poucos instantes, você tira todas as suas roupas, seu pau reagindo instantaneamente ao corpo nu de [b_name]."
+
+# game/day30.rpy:1293
+translate brazilian day30_b_sex_hard_8b591ce3:
+
+    # p "Lie down for me."
+    p "Deita para mim."
+
+# game/day30.rpy:1294
+translate brazilian day30_b_sex_hard_c6495911:
+
+    # p "You may pull your vibrator out."
+    p "Você pode tirar o seu vibrador."
+
+# game/day30.rpy:1296
+translate brazilian day30_b_sex_hard_f2dfe94b:
+
+    # "{i}You join your sister on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Você se junta a sua irmã na cama, e após um breve momento explorando seu corpo com a ponta dos dedos, você a puxa para mais perto."
+
+# game/day30.rpy:1298
+translate brazilian day30_b_sex_hard_253cf534:
+
+    # "{i}You join your friend on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Você se junta à sua amiga na cama, e após um breve momento explorando o corpo dela com a ponta dos dedos, você a puxa para mais perto de você."
+
+# game/day30.rpy:1304
+translate brazilian day30_b_sex_hard_2d41f377:
+
+    # "{i}You decide to go slow on her, guiding your cock deep inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Você decide ir devagar com ela, guiando seu pênis profundamente dentro de sua abertura molhada. Ela olha para você com olhos ansiosos, desejando que você siga em frente."
+
+# game/day30.rpy:1309
+translate brazilian day30_b_sex_hard_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Quando [b_name] suspira após sua primeira enfiada, é de alívio e prazer."
+
+# game/day30.rpy:1310
+translate brazilian day30_b_sex_hard_58f9c4af:
+
+    # p "Does that feel good?"
+    p "Isso está bom?"
+
+# game/day30.rpy:1311
+translate brazilian day30_b_sex_hard_996da41a:
+
+    # b "...Y-yes..."
+    b "...S-sim..."
+
+# game/day30.rpy:1312
+translate brazilian day30_b_sex_hard_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Vocês pressionam seus corpos o mais perto possível, como se quisessem sentir mais um do outro."
+
+# game/day30.rpy:1313
+translate brazilian day30_b_sex_hard_341a7bd2:
+
+    # "{i}The long, deep thrusts are enjoyable to you both. You savor the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}As enfiadas longas e profundas são agradáveis para vocês dois. Você saboreia a sensação de seu pau com veias esfregando contra seus limites úmidos e nervurados."
+
+# game/day30.rpy:1315
+translate brazilian day30_b_sex_hard_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Por favor, não para."
+
+# game/day30.rpy:1316
+translate brazilian day30_b_sex_hard_6d11accc:
+
+    # p "What did you say?"
+    p "O que você disse?"
+
+# game/day30.rpy:1317
+translate brazilian day30_b_sex_hard_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Eu não quero que isso pare!"
+
+# game/day30.rpy:1318
+translate brazilian day30_b_sex_hard_835e6e79:
+
+    # p "{i}(She just said that out loud. Wow.)"
+    p "{i}(Ela disse isso em voz alta. Nossa.)"
+
+# game/day30.rpy:1319
+translate brazilian day30_b_sex_hard_516395a7:
+
+    # p "I won't."
+    p "Eu não vou parar."
+
+# game/day30.rpy:1321
+translate brazilian day30_b_sex_hard_8a80d1ca:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even more deeply."
+    "{i}As próximas palavras dela ficam presas na garganta quando você encontra uma posição que permite penetrá-la ainda mais fundo."
+
+# game/day30.rpy:1323
+translate brazilian day30_b_sex_hard_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}A boceta da sua irmã está ficando escorregadia com a umidade que vaza em abundância de sua vagina."
+
+# game/day30.rpy:1325
+translate brazilian day30_b_sex_hard_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}A boceta da sua amiga está ficando escorregadia com a umidade que vaza em abundância de sua vagina."
+
+# game/day30.rpy:1326
+translate brazilian day30_b_sex_hard_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Apenas sua respiração irregular é perceptível acima dos sons da paixão, intensificados pela massagem de seus seios e mamilos orgulhosamente eretos."
+
+# game/day30.rpy:1328
+translate brazilian day30_b_sex_hard_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}Os olhos de [b_name] rolaram para trás e seus dentes estão cerrados enquanto ela enfia dedos na boceta para acompanhar a estimulação que está recebendo de seu pau duro."
+
+# game/day30.rpy:1329
+translate brazilian day30_b_sex_hard_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Você beija o pescoço dela e sente os músculos tensos, cada fibra do corpo dela está preparada para a próxima e inevitável liberação."
+
+# game/day30.rpy:1336
+translate brazilian day30_b_sex_hard_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Suas convulsões ainda o surpreendem quando você segura sua irmã repentinamente trêmula perto, ondas de orgasmo passando por ela."
+
+# game/day30.rpy:1338
+translate brazilian day30_b_sex_hard_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Suas convulsões ainda o surpreendem quando você segura sua amiga de repente trêmula perto, ondas de orgasmo passando por ela."
+
+# game/day30.rpy:1340
+translate brazilian day30_b_sex_hard_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}A estimulação das contrações dela também o leva ao limite."
+
+# game/day30.rpy:1341
+translate brazilian day30_b_sex_hard_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "D-d-deus, [b_name]!"
+
+# game/day30.rpy:1350
+translate brazilian day30_b_sex_hard_c711bb9b:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it in a river of cum that seems to flow endlessly."
+    "{i}Como você ainda está tão profundamente dentro dela, você quase sai tarde demais. Você consegue direcionar seu pau para a barriga dela, uma vez que em um rio de esperma que parece fluir sem fim."
+
+# game/day30.rpy:1366
+translate brazilian day30_b_sex_hard_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Enquanto você ainda está tão profundamente dentro dela, seu pau explode em um rio de esperma que parece fluir sem fim."
+
+# game/day30.rpy:1374
+translate brazilian day30_b_sex_hard_1683b5e2:
+
+    # "{i}You lie next to each other, in silence, basking in the afterglow of your lust."
+    "{i}Vocês se deitam um ao lado do outro, em silêncio, desfrutando do brilho posterior de seu êxtase."
+

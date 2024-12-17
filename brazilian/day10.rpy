@@ -1708,7 +1708,7 @@ translate brazilian day10_dwayne_visit_07447226:
 translate brazilian day10_dwayne_visit_64aa8503:
 
     # p "{i}(Very good!)"
-    p "{Maravilha!)"
+    p "{i}(Maravilha!)"
 
 # game/day10.rpy:512
 translate brazilian day10_dwayne_visit_64f33619:
@@ -3677,4 +3677,234 @@ translate brazilian day10_discreet_session_198a85c2:
 
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
     woman "Não é um problema, senhor. Vamos destruir esse documento, junto com os resultados do seu teste. Em nome da empresa, eu gostaria de lhe desejar um ótimo dia."
+
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day10.rpy:337
+translate brazilian day10_discreet_e184130a:
+
+    # "{i}You dress yourself while [m_name] leaves the room."
+    "{i}Você se veste enquanto a [m_name] sai do quarto."
+
+# game/day10.rpy:341
+translate brazilian day10_discreet_afb0d82f:
+
+    # p "{i}(That was some extremely weird shit...)"
+    p "{i}(Aquilo foi uma parada super estranha...)"
+
+# game/day10.rpy:342
+translate brazilian day10_discreet_61e3e5ba:
+
+    # woman "I trust you enjoyed your first session Mr. Holmes? Would you like to schedule another session?"
+    woman "Eu acredito que gostou sua primeira sessão Sr. Holmes? Gostaria de marcar outra sessão?"
+
+# game/day10.rpy:346
+translate brazilian day10_discreet_fd1037f2:
+
+    # p "Yes, it was quite invigorating."
+    p "Sim, foi bem revigorante."
+
+# game/day10.rpy:347
+translate brazilian day10_discreet_6995dc48:
+
+    # woman "Good, I can fit you in in four days."
+    woman "Bom, eu posso te encaixar em quatro dias."
+
+# game/day10.rpy:348
+translate brazilian day10_discreet_480fea4d:
+
+    # p "Sounds good to me."
+    p "Parece bom para mim."
+
+# game/day10.rpy:349
+translate brazilian day10_discreet_7a1764cd:
+
+    # woman "All right then. We'll see you in four days. Have a nice day."
+    woman "Tudo bem então. O veremos em quatro dias. Tenha um bom dia."
+
+# game/day10.rpy:350
+translate brazilian day10_discreet_b8e3e19c:
+
+    # p "Thank you!"
+    p "Obrigado!"
+
+# game/day10.rpy:353
+translate brazilian day10_discreet_e4fb02e1:
+
+    # p "No, this is not for me."
+    p "Não, isso não é para mim."
+
+# game/day10.rpy:354
+translate brazilian day10_discreet_61907235:
+
+    # woman "We're very sorry to hear that. Shall I permanently remove your name from our client list?"
+    woman "Estamos muito tristes em ouvir isso. Devo permanentemente remover seu nome da nossa lista de clientes?"
+
+# game/day10.rpy:355
+translate brazilian day10_discreet_0341c077:
+
+    # p "Yes please."
+    p "Sim por favor."
+
+# game/day10.rpy:356
+translate brazilian day10_discreet_7939f2b4:
+
+    # woman "Done. Thank you for your support and have a nice day."
+    woman "Pronto. Obrigado pelo seu apoio e tenha um bom dia."
+
+# game/day10.rpy:357
+translate brazilian day10_discreet_43e8339b:
+
+    # p "Goodbye."
+    p "Adeus."
+
+# game/day10.rpy:360
+translate brazilian day10_discreet_2f277000:
+
+    # p "This is not for me. Sorry."
+    p "Isso não é para mim. Desculpa."
+
+# game/day10.rpy:361
+translate brazilian day10_discreet_2a9378d6:
+
+    # m "That's not a problem, but I have to ask you to leave. My assistant will remove your name from the membership list after you leave our premises."
+    m "Isso não é um problema, mas eu tenho que te pedir que saia. Minha assistente vai remover seu nome da liste de filiação depois que você sair de nossas instalações."
+
+# game/day10.rpy:362
+translate brazilian day10_discreet_1cb6fa76:
+
+    # m "Goodbye."
+    m "Adeus."
+
+# game/day10.rpy:363
+translate brazilian day10_discreet_3d15a9f2:
+
+    # p "Bye."
+    p "Tchau."
+
+# game/day10.rpy:364
+translate brazilian day10_discreet_c9cf8db1:
+
+    # p "{i}(Let's leave before this turns into some freak show!)"
+    p "{i}(Vamos sair antes que isso se torne um show de horrores!)"
+
+# game/day10.rpy:368
+translate brazilian day10_discreet_bbc0cc3a:
+
+    # p "This is all a mistake. [m_name], it's me!"
+    p "Isso tudo foi um engano. [m_name], sou eu!"
+
+# game/day10.rpy:370
+translate brazilian day10_discreet_c8749287:
+
+    # p "I wanted to know where you worked. I'm so sorry!"
+    p "Eu queria saber onde você trabalhava. Desculpa!"
+
+# game/day10.rpy:371
+translate brazilian day10_discreet_78b7c6c3:
+
+    # m "WHAT THE FUCK DO YOU THINK YOU'RE DOING HERE?!"
+    m "MAS QUE PORRA VOCÊ ACHA QUE ESTÁ FAZENDO AQUI?!"
+
+# game/day10.rpy:372
+translate brazilian day10_discreet_7fb98cef:
+
+    # m "You will leave this building right away or I will have you forcibly removed."
+    m "Você vai sair desse prédio agora ou será removido à força."
+
+# game/day10.rpy:373
+translate brazilian day10_discreet_c18f3955:
+
+    # p "But..."
+    p "Mas..."
+
+# game/day10.rpy:374
+translate brazilian day10_discreet_dc553b0a:
+
+    # m "NO BUTS, BE GONE!"
+    m "SEM MAS, SOME!"
+
+# game/day10.rpy:379
+translate brazilian day10_discreet_797f4151:
+
+    # p "I'm sorry, I cannot sign this contract."
+    p "Me desculpa, eu não posso assinar esse contrato."
+
+# game/day10.rpy:380
+translate brazilian day10_discreet_198a85c2:
+
+    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
+    woman "Não é um problema, senhor. Vamos destruir esse documento, junto com os resultados do seu teste. Em nome da empresa, eu gostaria de lhe desejar um ótimo dia."
+
+# game/day10.rpy:381
+translate brazilian day10_discreet_43e8339b_1:
+
+    # p "Goodbye."
+    p "Adeus."
+
+# game/day10.rpy:382
+translate brazilian day10_discreet_6551e53d:
+
+    # p "{i}(This is for the best. I'm not going to sign away my rights.)"
+    p "{i}(É melhor assim. Eu não vou abdicar dos meus direitos.)"
+
+# game/day10.rpy:387
+translate brazilian day10_discreet_bc6d5a03:
+
+    # p "{i}(This is going to be intense. I'm pretty sure of it.)"
+    p "{i}(Isso vai ser intenso. Tenho quase certeza.)"
+
+# game/day10.rpy:388
+translate brazilian day10_discreet_a30ead20:
+
+    # p "{i}(She didn't even seem to recognize me. Wonder how long that will last...)"
+    p "{i}(Ela nem pareceu me reconhecer. Até quando isso vai durar...)"
+
+# game/day10.rpy:390
+translate brazilian day10_discreet_2c6e7ed4:
+
+    # p "{i}(Sure glad that's over.)"
+    p "{i}(Fico muito feliz que acabou.)"
+
+# game/day10.rpy:392
+translate brazilian day10_discreet_278d3816:
+
+    # p "{i}(In retrospect, I'm not sure if I wanted to know all this about [m_name]...)"
+    p "{i}(Em retrospecto, eu não tenho certeza se queria saber tudo isso sobre a [m_name]...)"
+
+# game/day10.rpy:394
+translate brazilian day10_discreet_9c6d08e3:
+
+    # p "{i}(I guess those family dinners aren't going to be the same from now on.)"
+    p "{i}(Eu acho que aqueles jantares em família não vão ser mais os mesmos de agora em diante.)"
+
+# game/day10.rpy:396
+translate brazilian day10_discreet_77316bb0:
+
+    # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
+    p "{i}(Eu acho que nossos jantares juntos não vão ser mais os mesmos de agora em diante.)"
+
+# game/day10.rpy:832
+translate brazilian day10_p_room_evening_choices_0c4f3e87:
+
+    # al "Did you enjoy my pussy?"
+    al "Gostou da minha boceta?"
+
+# game/day10.rpy:833
+translate brazilian day10_p_room_evening_choices_5071a473:
+
+    # p "You have pleased me. But make no mistake, you're still a bad little cum slut and I will discipline you further."
+    p "Você me satisfez. Mas não se engane, ainda é uma putinha má e eu vou te disciplinar em breve."
+
+# game/day10.rpy:834
+translate brazilian day10_p_room_evening_choices_cb5f62b1:
+
+    # al "Yes master. Looking forward to it."
+    al "Sim mestre. Estou ansiosa para isso."
+
+# game/day10.rpy:835
+translate brazilian day10_p_room_evening_choices_9bf8a862:
+
+    # "{i}With those words, Alina silently leaves your room."
+    "{i}Ao falar isso, Alina silenciosamente sai do seu quarto."
 

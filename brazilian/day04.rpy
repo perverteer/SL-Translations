@@ -2697,3 +2697,191 @@ translate brazilian strings:
     old "Never mind"
     new "Esquece"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day04.rpy:58
+translate brazilian day04_61e445ed:
+
+    # a "I have an idea! Why don't you come with me today?"
+    a "Eu tenho uma ideia! Por que não vem comigo hoje?"
+
+# game/day04.rpy:59
+translate brazilian day04_59a3e5fc:
+
+    # p "Where to?"
+    p "Pra onde?"
+
+# game/day04.rpy:60
+translate brazilian day04_b0a75591:
+
+    # a "Well, we're going shopping..."
+    a "Bem, a gente vai fazer compras..."
+
+# game/day04.rpy:61
+translate brazilian day04_e348b6db:
+
+    # p "Naturally."
+    p "Naturalmente."
+
+# game/day04.rpy:62
+translate brazilian day04_3a3111de:
+
+    # a "I asked [r_name] earlier, before visiting you, but she can't come."
+    a "Eu chamei a [r_name] mais cedo, antes de te visitar, mas ela não pode vir."
+
+# game/day04.rpy:63
+translate brazilian day04_382b0ab2:
+
+    # p "Oh?"
+    p "Ah?"
+
+# game/day04.rpy:64
+translate brazilian day04_102afd0c:
+
+    # a "Yeah, [b_name] asked her out to lunch."
+    a "É, a [b_name] chamou ela para lanchar."
+
+# game/day04.rpy:65
+translate brazilian day04_2d48d716:
+
+    # p "She did?"
+    p "Chamou?"
+
+# game/day04.rpy:66
+translate brazilian day04_1a2dfe21:
+
+    # a "[b_name] is not someone you refuse, if you catch my drift..."
+    a "[b_name] não e alguém que se recusa, se você me entende..."
+
+# game/day04.rpy:67
+translate brazilian day04_60c13293:
+
+    # p "Yup, she's a bitch."
+    p "Eba, ela é uma chata."
+
+# game/day04.rpy:68
+translate brazilian day04_2931081c:
+
+    # a "So, it's just Alina and me. How could you refuse two beautiful women?"
+    a "Então, é só a Alina e eu. Como você poderia recusar duas lindas mulheres?"
+
+# game/day04.rpy:71
+translate brazilian day04_3854d23d:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting and I might be able to buy something nice for [l_name]."
+    p "{i}Eu odeio ir comprar roupas, mas a oferta é tentadora e eu talvez eu consiga comprar algo legal para [l_name]."
+
+# game/day04.rpy:74
+translate brazilian day04_0489d494:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting. Might get another reward from Ana after my more than satisfactory performance just now."
+    p "{i}Eu odeio ir comprar roupas, mas a oferta é tentadora e eu talvez eu consiga outra recompensa da Ana depois da minha mais que satisfatória performance agora há pouco."
+
+# game/day04.rpy:77
+translate brazilian day04_ff778e06:
+
+    # p "Well, all right. I'm in."
+    p "Bom, tudo bem. Eu vou."
+
+# game/day04.rpy:78
+translate brazilian day04_dadbfcbd:
+
+    # a "Yay! I'll meet you at the store later today."
+    a "Eba! Te encontro na loja hoje mais tarde."
+
+# game/day04.rpy:82
+translate brazilian day04_b05f7cb4:
+
+    # p "{i}(Phew. That was a nice little morning snack.)"
+    p "{i}(Ufa. Aquele foi um bom petisquinho da manhã.)"
+
+# game/day04.rpy:87
+translate brazilian day04_95c8d466:
+
+    # p "Please go away, Ana. Yesterday was a mistake."
+    p "Por favor vá embora, Ana. Ontem foi um erro."
+
+# game/day04.rpy:91
+translate brazilian day04_1cfe1505:
+
+    # a "WHAT?! FUCK YOU! You utter piece of shit!"
+    a "O QUÊ?! VAI SE FODER! Seu completo merda!"
+
+# game/day04.rpy:92
+translate brazilian day04_43425f49:
+
+    # a "You're going to regret this!"
+    a "Você vai se arrepender disso!"
+
+# game/day04.rpy:97
+translate brazilian day04_c0e4fd2a:
+
+    # "{i}You're awakened by the sunlight spilling through the curtains."
+    "{i}Você é acordado pela luz do sol passando pelas cortinas."
+
+# game/day04.rpy:347
+translate brazilian day04_m_room_choices_ac4f9f29:
+
+    # "{i}After a while you go to town to meet Ana and Alina at the clothing store."
+    "{i}Depois de um pouco você vai para cidade para encontrar a Ana e a Alina na loja de roupas."
+
+# game/day04.rpy:352
+translate brazilian day04_m_room_choices_3e9f821c:
+
+    # "{i}You spend your day at home, which is pretty boring."
+    "{i}Você passa o dia em casa, o que é bem chato."
+
+# game/day04.rpy:435
+translate brazilian day04_boutique_aadf88f7:
+
+    # al "All done? Was [p_name] any help?"
+    al "Tudo pronto? O [p_name] ajudou?"
+
+# game/day04.rpy:436
+translate brazilian day04_boutique_591ddada:
+
+    # a "Sure! Couldn't have done it without him."
+    a "Com certeza! Não conseguiria sem ele."
+
+# game/day04.rpy:437
+translate brazilian day04_boutique_10a3bcd1:
+
+    # p "Girls, I'll leave you to it. Thanks for taking me on your shopping expedition."
+    p "Garotas, vou deixar vocês aí. Obrigado por me levarem na sua expedição de compras."
+
+# game/day04.rpy:438
+translate brazilian day04_boutique_277a0fcc:
+
+    # al "Any time, [p_name]. Be seeing ya!"
+    al "Qualquer hora, [p_name]. Te vejo por aí!"
+
+# game/day04.rpy:439
+translate brazilian day04_boutique_6823d1fa:
+
+    # a "Sooner rather than later, I hope!"
+    a "Logo, eu espero!"
+
+# game/day04.rpy:442
+translate brazilian day04_boutique_d46543e7:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie and [l_name]'s evening dress."
+    "{i}Ana e Alina saem da loja enquanto você paga pelo lingerie da Ana e o vestido da [l_name]."
+
+# game/day04.rpy:446
+translate brazilian day04_boutique_3d15b177:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie."
+    "{i}Ana e Alina saem da loja enquanto você paga pelo lingerie da Ana."
+
+# game/day04.rpy:938
+translate brazilian day04_ana_licking_3c84de13:
+
+    # a "I know you want me..."
+    a "Eu sei que você me quer..."
+
+# game/day04.rpy:939
+translate brazilian day04_ana_licking_b2c1d8a6:
+
+    # a "Don't you want to lick me, [p_name]? I'm so wet..."
+    a "Não quer me lamber, [p_name]? Tô tão molhada..."
+

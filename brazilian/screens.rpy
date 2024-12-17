@@ -537,3 +537,99 @@ translate brazilian strings:
     old "Portuguese"
     new "Português"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+translate brazilian strings:
+
+    # game/screens.rpy:540
+    old "Achievements"
+    new "Conquistas"
+
+    # game/screens.rpy:842
+    old "Achievements Unlocked: %d / %d"
+    new "Conquistas Desbloqueadas: %d / %d"
+
+    # game/screens.rpy:874
+    old "Version "
+    new "Versão "
+
+    # game/screens.rpy:874
+    old "[config.version!t]\n"
+    new "[config.version!t]\n"
+
+    # game/screens.rpy:880
+    old "Translations"
+    new "Traduções"
+
+    # game/screens.rpy:883
+    old "Voice Acting"
+    new "Atuação de voz"
+
+    # game/screens.rpy:886
+    old "Music"
+    new "Música"
+
+    # game/screens.rpy:908
+    old "{a=[track[website]]}[track[website]]{/a}"
+    new "{a=[track[website]]}[track[website]]{/a}"
+
+    # game/screens.rpy:909
+    old "License: "
+    new "Licença "
+
+    # game/screens.rpy:909
+    old "{a=[track[license_url]]}[track[license]]{/a}"
+    new "{a=[track[license_url]]}[track[license]]{/a}"
+
+    # game/screens.rpy:911
+    old "Website: "
+    new "Site: "
+
+    # game/screens.rpy:911
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    # game/screens.rpy:915
+    old "Sound Effects"
+    new "Efeitos sonoros"
+
+    # game/screens.rpy:1617
+    old "View by: "
+    new "Ver por:"
+
+    # game/screens.rpy:1619
+    old "Days"
+    new "Dias"
+
+    # game/screens.rpy:1621
+    old "Character"
+    new "caráter"
+
+# TODO: Translation updated at 2024-11-19 10:26
+
+translate brazilian strings:
+
+    # game/screens.rpy:1198
+    old "Turkish"
+    new "Turco"
+
+# TODO: Translation updated at 2024-11-29 09:41
+
+translate brazilian strings:
+
+    # game/screens.rpy:1189
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1190
+    old "Connect your toy"
+    new "Conecte seu brinquedo"
+
+# TODO: Translation updated at 2024-12-11 17:19
+
+translate brazilian strings:
+
+    # game/screens.rpy:1210
+    old "Chinese (Simplified)"
+    new "Chinês (simplificado)"
+

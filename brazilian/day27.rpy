@@ -4755,3 +4755,1355 @@ translate brazilian day27_flashback_2f5381cb:
     # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
     "{i}Sêmen vazou de sua boceta para o meu pau e para a cama do meu pai. Eu a segurei perto, apertando seu corpo desesperadamente em meus braços, meu pau ainda tremendo dentro dela. Eu não era mais virgem."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day27.rpy:900
+translate brazilian day27_b_hotel_sex_196229c9:
+
+    # "{i}You provide them with your room number and slip out of bed to join [b_name] in the shower."
+    "{i}Você fornece a eles o número do seu quarto e sai da cama para se juntar a [b_name] no chuveiro."
+
+# game/day27.rpy:905
+translate brazilian day27_b_hotel_sex_8c4a2c58:
+
+    # "{i}Without saying anything, you kiss, your hands trailing the curves of her wet body. Teasingly you grab hold of the sponge she was using."
+    "{i}Vocês se beijam sem uma palavra, suas mãos percorrendo as curvas de corpo molhado dela. Provocadoramente, você pega a esponja que ela estava usando."
+
+# game/day27.rpy:906
+translate brazilian day27_b_hotel_sex_3a25df90:
+
+    # b "Hey!"
+    b "Ei!"
+
+# game/day27.rpy:908
+translate brazilian day27_b_hotel_sex_cec0e92e:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, your sister lets out a contented sigh and leans back."
+    "{i}Segurando a esponja, você continua a esfregar suavemente o corpo dela. Quando você traça o lindo formato de seus seios, sua irmã solta um suspiro de contentamento e se inclina para trás."
+
+# game/day27.rpy:910
+translate brazilian day27_b_hotel_sex_91bd6d71:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
+    "{i}Segurando a esponja, você continua a esfregar suavemente o corpo dela. Quando você traça o lindo formato de seus seios, [b_name] solta um suspiro de satisfação e se inclina para trás."
+
+# game/day27.rpy:911
+translate brazilian day27_b_hotel_sex_cbc1201f:
+
+    # b "Hmmmm. Keep doing that."
+    b "Hmmmm. Continua fazendo isso."
+
+# game/day27.rpy:912
+translate brazilian day27_b_hotel_sex_1f668261:
+
+    # b "You do know that after this, I'll call you every time I take a shower now, don't you?"
+    b "Você sabe que a partir de agora, eu vou te chamar toda vez que tomar banho, né?"
+
+# game/day27.rpy:913
+translate brazilian day27_b_hotel_sex_8c0a3e96:
+
+    # p "You say that like it's a bad thing."
+    p "Você diz isso como se fosse uma coisa ruim."
+
+# game/day27.rpy:915
+translate brazilian day27_b_hotel_sex_a6628d41:
+
+    # "{i}You turn your attention to her lower body, her toned thighs, the soft rise of her pussy."
+    "{i}Você volta sua atenção para a parte inferior do corpo dela, suas coxas tonificadas, a ascensão suave de sua vagina."
+
+# game/day27.rpy:916
+translate brazilian day27_b_hotel_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm..."
+
+# game/day27.rpy:917
+translate brazilian day27_b_hotel_sex_300701d2:
+
+    # p "I..."
+    p "Eu..."
+
+# game/day27.rpy:919
+translate brazilian day27_b_hotel_sex_2f041b28:
+
+    # "{i}Desire overcomes you both and you touch her, hungry for her soft skin."
+    "{i}O desejo os vence e você a toca, faminto por sua pele macia."
+
+# game/day27.rpy:925
+translate brazilian day27_b_hotel_sex_2b4aea2b:
+
+    # "{i}Suddenly you're startled by the doorbell ringing."
+    "{i}De repente, você se assusta com a campainha tocando."
+
+# game/day27.rpy:926
+translate brazilian day27_b_hotel_sex_7ed3e395:
+
+    # p "Fuck. I ordered room service..."
+    p "Porra. Eu pedi serviço de quarto..."
+
+# game/day27.rpy:927
+translate brazilian day27_b_hotel_sex_e838c68b:
+
+    # b "How sweet!"
+    b "Que doce!"
+
+# game/day27.rpy:928
+translate brazilian day27_b_hotel_sex_1dd7540e:
+
+    # p "Yeah well, if only the timing was a bit better..."
+    p "Bom, se o timing fosse um pouco melhor..."
+
+# game/day27.rpy:931
+translate brazilian day27_b_hotel_sex_cc75db61:
+
+    # "{i}You wrap a towel around your body and head to the door. A cart is pushed inside your room, and after tipping the server, you close the door again."
+    "{i}Você se enrola numa toalha e se dirige para a porta. Um carrinho é empurrado para dentro de seu quarto, e após dar a gorjeta ao entregador, você fecha a porta novamente."
+
+# game/day27.rpy:932
+translate brazilian day27_b_hotel_sex_266a237d:
+
+    # p "So... I guess we should have some breakfast?"
+    p "Então... acho que devemos tomar café da manhã?"
+
+# game/day27.rpy:934
+translate brazilian day27_b_hotel_sex_ec9e26e4:
+
+    # b "Nope, I want something entirely different first."
+    b "Não, primeiro eu quero algo totalmente diferente."
+
+# game/day27.rpy:935
+translate brazilian day27_b_hotel_sex_078c5a26:
+
+    # p "Oh..."
+    p "Ah..."
+
+# game/day27.rpy:937
+translate brazilian day27_b_hotel_sex_6941d4e7:
+
+    # "{i}You jump on the bed, next to a giggling [b_name] and shower her body with kisses. [b_name] makes it clear she isn't interested in foreplay this time and turns her attention to your cock."
+    "{i}Você pula na cama, ao lado de uma risonha [b_name] e rega seu corpo de beijos. [b_name] deixa claro que ela não está interessada em preliminares desta vez e volta sua atenção para o seu pau."
+
+# game/day27.rpy:942
+translate brazilian day27_b_hotel_sex_cfbca683:
+
+    # "{i}She guides you inside her, a warm feeling engulfing your cock. The hungry look in her eyes matching her wetness down below."
+    "{i}Ela o guia para dentro dela, uma sensação de calor envolvendo seu pau. O olhar faminto em seus olhos combinando com a umidade abaixo."
+
+# game/day27.rpy:947
+translate brazilian day27_b_hotel_sex_d7fa3cac:
+
+    # "{i}Without a word, you both surrender to your love making. Small thrusts ensure that your warm bodies are in contact most of the time. You bury your head in the perfume of her still-wet hair."
+    "{i}Sem uma palavra, vocês dois se rendem ao ato de fazer amor. Pequenas enfiadas garantem que seus corpos quentes estejam em contato na maior parte do tempo. Você enterra sua cabeça no perfume de seu cabelo ainda molhado."
+
+# game/day27.rpy:948
+translate brazilian day27_b_hotel_sex_5fc60217:
+
+    # b "Oh, [p_name]!"
+    b "Aih, [p_name]!"
+
+# game/day27.rpy:952
+translate brazilian day27_b_hotel_sex_07a91112:
+
+    # "{i}When your dick slips out of her pussy, [b_name] squirms from your grasp, pressing a finger against your lips as you begin to protest."
+    "{i}Quando seu pau escorrega para fora da boceta, [b_name] se escapa de suas mãos, pressionando um dedo contra seus lábios quando você começa a protestar."
+
+# game/day27.rpy:953
+translate brazilian day27_b_hotel_sex_203a0f34:
+
+    # b "Ssssh, just lie down."
+    b "Ssssh, só se deita."
+
+# game/day27.rpy:959
+translate brazilian day27_b_hotel_sex_052ebcda:
+
+    # "{i}Your sister squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Sua irmã se agacha em cima de você e lentamente empurra sua ereção na sua boceta, mordendo o lábio enquanto o faz."
+
+# game/day27.rpy:961
+translate brazilian day27_b_hotel_sex_66615e02:
+
+    # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Ela se agacha em cima de você e lentamente empurra sua ereção em sua boceta, mordendo o lábio enquanto o faz."
+
+# game/day27.rpy:962
+translate brazilian day27_b_hotel_sex_c43c4bff:
+
+    # "{i}Her pussy lips fold around your shaft. With closed eyes, [b_name] moans as the entirety of your shaft slides inside her."
+    "{i}Os lábios de sua boceta dobram em torno de seu pau, com os olhos fechados [b_name] geme, enquanto todo o seu pau desliza dentro dela."
+
+# game/day27.rpy:964
+translate brazilian day27_b_hotel_sex_d24d13ee:
+
+    # "{i}When she starts to move, you nearly climax. Instead you focus your attention on her beautiful breasts, that bounce with the rhythm of your fucking."
+    "{i}Quando ela começa a se mover, você quase chega ao clímax. Em vez disso, você concentra sua atenção em seus lindos seios, que balançam com o ritmo do sexo."
+
+# game/day27.rpy:965
+translate brazilian day27_b_hotel_sex_0f2d2c99:
+
+    # "{i}The position obviously gives [b_name] heightened pleasure as she moves up and down your cock ever faster, her butt slapping onto your skin."
+    "{i}A posição obviamente dá a [b_name] um maior prazer enquanto ela sobe e desce cada vez mais rápido no seu pau, com sua bunda batendo contra sua pele."
+
+# game/day27.rpy:972
+translate brazilian day27_b_hotel_sex_5e8446ed:
+
+    # b "G-g-g-god! Y-yes!"
+    b "D-d-d-deus! I-isso!"
+
+# game/day27.rpy:974
+translate brazilian day27_b_hotel_sex_c474c697:
+
+    # "{i}Delirious, your sister orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Delirando, sua irmã chega ao orgasmo em cima de você. Você tem que você tem que assumir a liderança devido às convulsões de prazer dela."
+
+# game/day27.rpy:976
+translate brazilian day27_b_hotel_sex_814837df:
+
+    # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Delirando, [b_name] chega ao orgasmo em cima de você. Você tem que você tem que assumir a liderança devido às convulsões de prazer dela."
+
+# game/day27.rpy:978
+translate brazilian day27_b_hotel_sex_d6e04d49:
+
+    # "{i}With her straddling your body, you move your hips quickly, penetrating her like rapid-fire."
+    "{i}Com ela montada em seu corpo, você move seus quadris rapidamente, penetrando-a repetidamente."
+
+# game/day27.rpy:988
+translate brazilian day27_b_hotel_sex_608db639:
+
+    # "{i}Her constricting vagina proves too much for your cock, and your semen mixes with her juices inside her wet slit."
+    "{i}A vagina contraída prova ser demais para seu pênis e seu sêmen se mistura com os fluidos dentro da boceta molhada."
+
+# game/day27.rpy:1001
+translate brazilian day27_b_hotel_sex_70f58587:
+
+    # "{i}Her constricting vagina proves too much for your cock, and after pulling out of her wet slit, you cover her lower body with thick streams of semen."
+    "{i}A vagina contraída prova ser demais para seu pênis e, depois de sair de sua boceta molhada, você cobre a parte inferior do corpo com grossos fluxos de sêmen."
+
+# game/day27.rpy:1009
+translate brazilian day27_b_hotel_sex_da652819:
+
+    # "{i}Exhausted you lie in each others arms, your fingertips stroking her soft skin."
+    "{i}Exausto, vocês deitam nos braços um do outro, as pontas dos seus dedos acariciando pele macia dela."
+
+# game/day27.rpy:1010
+translate brazilian day27_b_hotel_sex_fa3f408e:
+
+    # b "Mmmmm. I don't know if I want to go home."
+    b "Mmmmm. Não sei se quero ir para casa."
+
+# game/day27.rpy:1011
+translate brazilian day27_b_hotel_sex_1249acbe:
+
+    # p "Me neither."
+    p "Nem eu."
+
+# game/day27.rpy:1012
+translate brazilian day27_b_hotel_sex_995bd1f9:
+
+    # b "The cleaning staff will be here soon."
+    b "A equipe de limpeza estará aqui em breve."
+
+# game/day27.rpy:1013
+translate brazilian day27_b_hotel_sex_167f6a45:
+
+    # p "We could just lock the door and hide in the bathroom."
+    p "Poderíamos só trancar a porta e nos esconder no banheiro."
+
+# game/day27.rpy:1014
+translate brazilian day27_b_hotel_sex_4bfd9a22:
+
+    # b "I'm pretty sure it doesn't work like that."
+    b "Acho que não funciona assim."
+
+# game/day27.rpy:1016
+translate brazilian day27_b_hotel_sex_edd34605:
+
+    # "{i}At the same time, you both let out a contented sigh. Laughing, you kiss again and lie on the bed for a little longer, until you deem it time to leave the hotel and head home."
+    "{i}Ao mesmo tempo, vocês dão um suspiro de satisfação. Rindo, vocês se beijam novamente e ficam mais um pouco na cama, até acharem que é hora de sair do hotel e voltar para casa."
+
+# game/day27.rpy:1032
+translate brazilian day27_b_vibrator_e8e049ba:
+
+    # "{i}With a resigned sigh, [b_name] stands up and walks away. You notice she's holding the vibrator and has left the remote on the table."
+    "{i}Com um suspiro de resignação, [b_name] se levanta e vai embora. Você percebe que ela está segurando o vibrador e deixou o controle remoto na mesa."
+
+# game/day27.rpy:1033
+translate brazilian day27_b_vibrator_8f7a7797:
+
+    # p "{i}(Is she going to...?)"
+    p "{i}(Ela vai...?)"
+
+# game/day27.rpy:1035
+translate brazilian day27_b_vibrator_7809015c:
+
+    # "{i}You see her walk very slowly towards the restrooms, as if she's still hesitating."
+    "{i}Você vê ela caminhar muito lentamente em direção aos banheiros, como se ainda estivesse hesitando."
+
+# game/day27.rpy:1036
+translate brazilian day27_b_vibrator_de30eed8:
+
+    # p "{i}(That's my girl!)"
+    p "{i}(Essa é minha garota!)"
+
+# game/day27.rpy:1038
+translate brazilian day27_b_vibrator_b32fd03b:
+
+    # "{i}After a short while, [b_name] returns, no longer holding the pink egg."
+    "{i}Após um curto período, [b_name] retorna, não mais segurando o ovo rosa."
+
+# game/day27.rpy:1039
+translate brazilian day27_b_vibrator_62289d3a:
+
+    # p "Now, spread your legs for me."
+    p "Agora, abra suas pernas para mim."
+
+# game/day27.rpy:1040
+translate brazilian day27_b_vibrator_4bc98f10:
+
+    # b "I could've flushed the fucking thing down the toilet."
+    b "Eu poderia ter jogado essa merda no vaso sanitário."
+
+# game/day27.rpy:1041
+translate brazilian day27_b_vibrator_f24c6c98:
+
+    # p "You didn't."
+    p "Você não fez isso."
+
+# game/day27.rpy:1043
+translate brazilian day27_b_vibrator_80593731:
+
+    # "{i}When [b_name] finally parts her legs, you can see the pink vibrator peeping out of her pussy."
+    "{i}Quando [b_name] finalmente abre as pernas, você consegue ver o vibrador rosa saindo de sua boceta."
+
+# game/day27.rpy:1045
+translate brazilian day27_b_vibrator_17cc86a6:
+
+    # p "Good girl!"
+    p "Boa garota!"
+
+# game/day27.rpy:1047
+translate brazilian day27_b_vibrator_5316ce8d:
+
+    # "{i}[b_name] abruptly closes her legs again as Megan saunters over. Before anybody notices, you manage to grab the remote control from the table."
+    "{i}[b_name] abruptamente fecha as pernas novamente quando Megan se aproxima. Antes que alguém perceba, você consegue pegar o controle remoto da mesa."
+
+# game/day27.rpy:1048
+translate brazilian day27_b_vibrator_01023b9e:
+
+    # me "I got those supplies you asked for."
+    me "Eu peguei os suprimentos que você pediu."
+
+# game/day27.rpy:1049
+translate brazilian day27_b_vibrator_b2176539:
+
+    # p "{i}(Now is as good a time as any to test it out, I think.)"
+    p "{i}(Acho que esse é um ótimo momento para testar.)"
+
+# game/day27.rpy:1053
+translate brazilian day27_b_vibrator_04eb7dac:
+
+    # "{i}Under the table, you turn the dial slightly upwards."
+    "{i}Por baixo da mesa, você gira o botão ligeiramente para cima."
+
+# game/day27.rpy:1058
+translate brazilian day27_b_vibrator_3ee9f29d:
+
+    # b "Wuh..."
+    b "O qu..."
+
+# game/day27.rpy:1059
+translate brazilian day27_b_vibrator_eba830bd:
+
+    # me "Did I forget something?"
+    me "Eu esqueci alguma coisa?"
+
+# game/day27.rpy:1060
+translate brazilian day27_b_vibrator_e6280fec:
+
+    # b "N-n-no..."
+    b "N-n-não..."
+
+# game/day27.rpy:1061
+translate brazilian day27_b_vibrator_495727fd:
+
+    # "{i}Several emotions are visible on [b_name]'s face, a mixture of repressed pleasure and agony being the main one."
+    "{i}Várias emoções são visíveis no rosto de [b_name], uma mistura de prazer reprimido e agonia sendo a principal."
+
+# game/day27.rpy:1062
+translate brazilian day27_b_vibrator_e1b19d79:
+
+    # me "Did you need anything else?"
+    me "Você precisa de mais alguma coisa?"
+
+# game/day27.rpy:1063
+translate brazilian day27_b_vibrator_c5c56418:
+
+    # b "I... N..."
+    b "Eu... N..."
+
+# game/day27.rpy:1064
+translate brazilian day27_b_vibrator_010c86ab:
+
+    # me "Are you alright, [b_name]?"
+    me "Você está bem, [b_name]?"
+
+# game/day27.rpy:1071
+translate brazilian day27_b_vibrator_ac24ee5d:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring your sister, but she seems to be able to retain her composure, more or less."
+    "{i}Você gira o botão para a configuração mais baixa, o ovo ainda está dando prazer à sua irmã, mas ela parece ser capaz de manter a compostura, mais ou menos."
+
+# game/day27.rpy:1073
+translate brazilian day27_b_vibrator_016f6ff8:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
+    "{i}Você gira o botão para a configuração mais baixa, o ovo ainda dá prazer [b_name], mas ela parece ser capaz de manter a compostura, mais ou menos."
+
+# game/day27.rpy:1074
+translate brazilian day27_b_vibrator_d1e07412:
+
+    # b "Yes... Just feeling a little lightheaded."
+    b "Sim... Só estou me sentindo um pouco tonta."
+
+# game/day27.rpy:1075
+translate brazilian day27_b_vibrator_28383b11:
+
+    # b "I'm feeling better already."
+    b "Já estou me sentindo melhor."
+
+# game/day27.rpy:1081
+translate brazilian day27_b_vibrator_9276f31b:
+
+    # "{i}After those words, you turn the dial all the way up. The force of the egg's vibrations force open the girl's legs and she slams a fist on the table."
+    "{i}Depois dessas palavras, você gira o botão até o máximo. A força das vibrações do ovo abre as pernas da garota e ela dá um soco na mesa."
+
+# game/day27.rpy:1082
+translate brazilian day27_b_vibrator_15e5c36b:
+
+    # b "Aaaah..."
+    b "Aaaah..."
+
+# game/day27.rpy:1083
+translate brazilian day27_b_vibrator_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1084
+translate brazilian day27_b_vibrator_b469670c:
+
+    # p "Is everything okay, [b_name]?"
+    p "Está tudo bem, [b_name]?"
+
+# game/day27.rpy:1085
+translate brazilian day27_b_vibrator_3cfd3ad0:
+
+    # b "...I'm fine."
+    b "...Estou bem."
+
+# game/day27.rpy:1086
+translate brazilian day27_b_vibrator_99681889:
+
+    # me "Girl, you're sweating."
+    me "Garota, você está suando."
+
+# game/day27.rpy:1087
+translate brazilian day27_b_vibrator_f2d96e30:
+
+    # b "I'll b-be j-just fine in a minute."
+    b "Vou ficar b-bem e-em um minuto."
+
+# game/day27.rpy:1088
+translate brazilian day27_b_vibrator_5bb24395:
+
+    # me "Take as long as you need, I'll take over for you in the mean time."
+    me "Leve o tempo que precisar, eu assumo por você enquanto isso."
+
+# game/day27.rpy:1090
+translate brazilian day27_b_vibrator_3f755b65:
+
+    # b "T-thanks..."
+    b "O-obrigada..."
+
+# game/day27.rpy:1092
+translate brazilian day27_b_vibrator_2dad7135:
+
+    # "{i}As soon as Megan walks away, [b_name] shoots an angry glance at you, she's only able to speak through gritted teeth."
+    "{i}Assim que Megan se afasta, [b_name] lança um olhar zangado para você, ela só consegue falar através de dentes cerrados."
+
+# game/day27.rpy:1093
+translate brazilian day27_b_vibrator_40e42da9:
+
+    # b "T-t-turn it off!"
+    b "D-d-desliga ele!"
+
+# game/day27.rpy:1094
+translate brazilian day27_b_vibrator_58ee35ab:
+
+    # p "Hmmm?"
+    p "Hmmm?"
+
+# game/day27.rpy:1095
+translate brazilian day27_b_vibrator_490f1e1c:
+
+    # b "T-turn i-it off, p-p-please."
+    b "D-desliga ele, p-p-por favor."
+
+# game/day27.rpy:1100
+translate brazilian day27_b_vibrator_6fee07d3:
+
+    # "{i}Satisfied with her answer, you turn the dial all the way down to zero."
+    "{i}Satisfeito com a resposta, você gira o botão para zero."
+
+# game/day27.rpy:1101
+translate brazilian day27_b_vibrator_521c64a8:
+
+    # b "I'm going to kill you for this, you know that?"
+    b "Vou te matar por isso, sabia?"
+
+# game/day27.rpy:1102
+translate brazilian day27_b_vibrator_6802e4fc:
+
+    # p "Easy now, just remind yourself of who's holding the remote control."
+    p "Calma, basta lembrar quem está segurando o controle remoto."
+
+# game/day27.rpy:1103
+translate brazilian day27_b_vibrator_46258e98:
+
+    # b "I have to get back to work."
+    b "Tenho que voltar ao trabalho."
+
+# game/day27.rpy:1104
+translate brazilian day27_b_vibrator_c443c0db:
+
+    # p "Sure thing. I'd like another cup of regular coffee, black, please."
+    p "Beleza. Eu gostaria de outra xícara de café normal, preto, por favor."
+
+# game/day27.rpy:1106
+translate brazilian day27_b_vibrator_a13f8569:
+
+    # "{i}She looks at you incredulously, then stands up, her legs still wobbly from the vibrations of the sex toy in her pussy."
+    "{i}Ela olha para você com incredulidade, depois se levanta, ainda de pernas bambas por causa das vibrações do brinquedo sexual em sua boceta."
+
+# game/day27.rpy:1107
+translate brazilian day27_b_vibrator_de1fa8b9:
+
+    # b "Coming right up..."
+    b "Já vem..."
+
+# game/day27.rpy:1112
+translate brazilian day27_b_vibrator_6cc89c98:
+
+    # "{i}After you get your coffee, you sit and play with your phone. At irregular intervals, you use the dial of the remote control."
+    "{i}Depois de tomar seu café, você se senta e brinca com seu telefone. Em intervalos irregulares, você usa o botão do controle remoto."
+
+# game/day27.rpy:1114
+translate brazilian day27_b_vibrator_c14e2e61:
+
+    # "{i}You make sure it never goes past the point where the vibrations become unbearable for [b_name], but you notice she has a harder time serving customers, steadying herself often and sighing with flushed cheeks."
+    "{i}Você se certifica de nunca passar do ponto em que as vibrações se tornam insuportáveis para [b_name], mas percebe que ela tem mais dificuldade para atender os clientes, frequentemente se segurando e suspirando com as bochechas coradas."
+
+# game/day27.rpy:1132
+translate brazilian day27_b_licking_5f3aff41:
+
+    # p "Good. Just sit down on the desk and relax."
+    p "Ótimo. Só senta na mesa e relaxa."
+
+# game/day27.rpy:1133
+translate brazilian day27_b_licking_83091b29:
+
+    # b "You're not going to take it out?"
+    b "Você não vai tirar?"
+
+# game/day27.rpy:1134
+translate brazilian day27_b_licking_a781d336:
+
+    # p "Of course not, it's going to help me make you cum."
+    p "Claro que não, ele vai me ajudar a fazer você gozar."
+
+# game/day27.rpy:1135
+translate brazilian day27_b_licking_4f28fa17:
+
+    # p "Take off your shirt first."
+    p "Tira a camisa primeiro."
+
+# game/day27.rpy:1136
+translate brazilian day27_b_licking_b61b6f1a:
+
+    # b "No, but what if somebody comes in?"
+    b "Não, mas e se alguém entrar?"
+
+# game/day27.rpy:1137
+translate brazilian day27_b_licking_6262302c:
+
+    # p "We'll worry about that later."
+    p "Vamos nos preocupar com isso mais tarde."
+
+# game/day27.rpy:1138
+translate brazilian day27_b_licking_8377b2fd:
+
+    # b "[p_name]..."
+    b "[p_name]..."
+
+# game/day27.rpy:1139
+translate brazilian day27_b_licking_0e1f96a4:
+
+    # p "I want to see those gorgeous breasts of yours."
+    p "Eu quero ver esses seus seios lindos."
+
+# game/day27.rpy:1144
+translate brazilian day27_b_licking_9a4fad80:
+
+    # "{i}After losing all of her clothing, you spread her legs and lower your head between her thighs."
+    "{i}Depois de tirar todas as roupas, você abre as pernas dela e abaixa sua cabeça entre as coxas."
+
+# game/day27.rpy:1145
+translate brazilian day27_b_licking_def4b24b:
+
+    # p "Wow!"
+    p "Nossa!"
+
+# game/day27.rpy:1146
+translate brazilian day27_b_licking_35ba70ca:
+
+    # b "What?"
+    b "O quê?"
+
+# game/day27.rpy:1147
+translate brazilian day27_b_licking_1aa5989e:
+
+    # p "I didn't know you could get so wet."
+    p "Eu não sabia que você podia ficar tão molhada."
+
+# game/day27.rpy:1152
+translate brazilian day27_b_licking_85091941:
+
+    # "{i}[b_name] doesn't offer a reply and just bites her lip. You smell the earthy perfume of her cunt as your tongue probes the wet lips of her pussy."
+    "{i}[b_name] não oferece uma resposta e apenas morde o lábio. Você cheira o forte perfume de sua vagina enquanto sua língua examina os lábios molhados de sua vagina."
+
+# game/day27.rpy:1153
+translate brazilian day27_b_licking_f17a0a22:
+
+    # b "Oh!"
+    b "Ah!"
+
+# game/day27.rpy:1158
+translate brazilian day27_b_licking_aef8bd34:
+
+    # "{i}As you stimulate her with the rapid motions of your tongue, you dial the vibrator slowly up to its maximum setting."
+    "{i}Conforme você a estimula com movimentos rápidos de sua língua, você liga o vibrador lentamente até sua configuração máxima."
+
+# game/day27.rpy:1159
+translate brazilian day27_b_licking_83f82a73:
+
+    # "{i}The vibrations of the egg are a little awkward, but [b_name] completely loses it, gripping the side of the desk and moaning softly."
+    "{i}As vibrações do ovo são um pouco estranhas, mas [b_name] se perde completamente, agarrando-se ao lado da mesa e gemendo baixo."
+
+# game/day27.rpy:1165
+translate brazilian day27_b_licking_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1166
+translate brazilian day27_b_licking_3d9dd82a:
+
+    # me "[b_name], are you in there?"
+    me "[b_name], você está aí?"
+
+# game/day27.rpy:1167
+translate brazilian day27_b_licking_9171bab7:
+
+    # b "Fuck, it's Megan."
+    b "Porra, é a Megan."
+
+# game/day27.rpy:1168
+translate brazilian day27_b_licking_9e6db08a:
+
+    # b "Hide!"
+    b "Se esconde!"
+
+# game/day27.rpy:1170
+translate brazilian day27_b_licking_fe288a67:
+
+    # "{i}You crawl under the desk, while [b_name] frantically looks for her blouse."
+    "{i}Você rasteja para debaixo da mesa, enquanto [b_name] procura freneticamente por sua blusa."
+
+# game/day27.rpy:1171
+translate brazilian day27_b_licking_64fc4783:
+
+    # b "Yes, I'm in here."
+    b "Sim, estou aqui."
+
+# game/day27.rpy:1172
+translate brazilian day27_b_licking_7b467c67:
+
+    # b "Just a..."
+    b "Só um..."
+
+# game/day27.rpy:1174
+translate brazilian day27_b_licking_90e1af97_1:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1175
+translate brazilian day27_b_licking_648fad1f:
+
+    # me "Oh shit, you're naked."
+    me "Cacete, você está pelada."
+
+# game/day27.rpy:1176
+translate brazilian day27_b_licking_73acfb97:
+
+    # "{i}You see [b_name] stiffen in front of the desk, as Megan enters the room."
+    "{i}Você vê [b_name] enrijecer na frente da mesa, quando Megan entra na sala."
+
+# game/day27.rpy:1177
+translate brazilian day27_b_licking_65c33e7a:
+
+    # b "I... uh... I was changing."
+    b "Eu... uh... eu estava me trocando."
+
+# game/day27.rpy:1178
+translate brazilian day27_b_licking_6e2fbc8e:
+
+    # me "You're not feeling well, are you?"
+    me "Você não está se sentindo bem, está?"
+
+# game/day27.rpy:1180
+translate brazilian day27_b_licking_23fd721a:
+
+    # p "{i}(Mmmm, she's so close.)"
+    p "{i}(Mmmm, ela está tão perto.)"
+
+# game/day27.rpy:1181
+translate brazilian day27_b_licking_392019b3:
+
+    # p "{i}(Megan can't see me from here.)"
+    p "{i}(Megan não pode me ver daqui.)"
+
+# game/day27.rpy:1182
+translate brazilian day27_b_licking_143ced8d:
+
+    # p "{i}(Shall I continue? The vibrator is still on...)"
+    p "{i}(Será que eu continuo? O vibrador ainda está ligado...)"
+
+# game/day27.rpy:1192
+translate brazilian day27_b_licking_ebe61376:
+
+    # "{i}You caress the muscles of her inner thighs, quivering under the stress of her impending orgasm."
+    "{i}Você acaricia os músculos da parte interna das coxas dela, estremecendo sob o estresse de seu orgasmo iminente."
+
+# game/day27.rpy:1193
+translate brazilian day27_b_licking_7d2fce76:
+
+    # b "No... I-I think I need to go ho..."
+    b "Não... Eu-eu acho que preciso ir para ca..."
+
+# game/day27.rpy:1195
+translate brazilian day27_b_licking_d3dbcb25:
+
+    # "{i}At that moment, you plunge your tongue between her wet lips, pushing the vibrator even further in her cunt."
+    "{i}Nesse momento, você enfia a língua entre os lábios molhados, empurrando o vibrador ainda mais para dentro de sua boceta."
+
+# game/day27.rpy:1196
+translate brazilian day27_b_licking_3580bb93:
+
+    # b "...Ooohme!"
+    b "...Aaahsa!"
+
+# game/day27.rpy:1197
+translate brazilian day27_b_licking_d45b71d4:
+
+    # me "Seem like you're having a migraine?"
+    me "Parece que está com enxaqueca?"
+
+# game/day27.rpy:1198
+translate brazilian day27_b_licking_3fd3887e:
+
+    # b "Y-yes..."
+    b "S-sim..."
+
+# game/day27.rpy:1200
+translate brazilian day27_b_licking_7b413b5c:
+
+    # "{i}Your sister doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}Sua irmã não o afasta, mas abre as pernas um pouco mais para permitir um melhor acesso à sua boceta gotejante."
+
+# game/day27.rpy:1202
+translate brazilian day27_b_licking_b147ddb0:
+
+    # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}[b_name] não o afasta, mas abre as pernas um pouco mais para permitir um melhor acesso à sua boceta gotejante."
+
+# game/day27.rpy:1203
+translate brazilian day27_b_licking_c5cc69af:
+
+    # me "I'll leave you to it then."
+    me "Eu vou deixar você com isso então."
+
+# game/day27.rpy:1204
+translate brazilian day27_b_licking_a7ed4f3b:
+
+    # b "T-thanks."
+    b "O-obrigada..."
+
+# game/day27.rpy:1205
+translate brazilian day27_b_licking_6ac0e1eb:
+
+    # me "Migraines are a bitch. Get well soon!"
+    me "Enxaqueca é uma merda. Fique bem logo!"
+
+# game/day27.rpy:1206
+translate brazilian day27_b_licking_a7ed4f3b_1:
+
+    # b "T-thanks."
+    b "O-obrigada..."
+
+# game/day27.rpy:1211
+translate brazilian day27_b_licking_533d60e4:
+
+    # "{i}When Megan closes the office door, [b_name] involuntarily releases a volley of her juices."
+    "{i}Quando Megan fecha a porta do escritório, [b_name] involuntariamente libera uma rajada de fluidos."
+
+# game/day27.rpy:1212
+translate brazilian day27_b_licking_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Aaaaaai!"
+
+# game/day27.rpy:1213
+translate brazilian day27_b_licking_eb1641f9:
+
+    # b "Don't stop. P-please!"
+    b "Não para. P-por favor!"
+
+# game/day27.rpy:1215
+translate brazilian day27_b_licking_85a3c63d:
+
+    # "{i}After you push her onto the desk, you eat her pussy with an intensity that surprises even yourself."
+    "{i}Depois de empurrá-la para a mesa, você come a boceta dela com uma intensidade que surpreende até você mesmo."
+
+# game/day27.rpy:1216
+translate brazilian day27_b_licking_2b4bad48:
+
+    # "{i}The vibrator is still running on maximum, and [b_name] moans uncontrollably and pulls at your hair in ecstasy."
+    "{i}O vibrador ainda está funcionando no máximo, [b_name] geme descontroladamente e puxa seus cabelos em êxtase."
+
+# game/day27.rpy:1224
+translate brazilian day27_b_licking_df23fe64:
+
+    # "{i}You're surprised by her wetness and the force of her orgasm. A wealth of her nectar squirts on your face and forces the still-vibrating egg out of her cunny."
+    "{i}Você está surpreso com sua umidade e a força de seu orgasmo. Uma grande quantidade de néctar dela espirra em seu rosto e força o ovo ainda vibrante para fora de sua xana."
+
+# game/day27.rpy:1227
+translate brazilian day27_b_licking_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day27.rpy:1229
+translate brazilian day27_b_licking_509df137:
+
+    # "{i}Your sister squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Sua irmã espirra vários jatos de gozo nas coxas e na superfície da mesa. Começa a pingar no chão enquanto seu corpo flácido sofre os espasmos de seu clímax."
+
+# game/day27.rpy:1231
+translate brazilian day27_b_licking_2fb542ee:
+
+    # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}[b_name] espirra vários jatos de gozo nas coxas e na superfície da mesa. Começa a pingar no chão enquanto seu corpo flácido sofre os espasmos de seu clímax."
+
+# game/day27.rpy:1237
+translate brazilian day27_b_licking_fd967eb5:
+
+    # "{i}You catch [b_name] before she falls to the floor and sit next to her against the desk."
+    "{i}Você segura [b_name] antes que ela caia no chão e se senta ao lado dela contra a mesa."
+
+# game/day27.rpy:1238
+translate brazilian day27_b_licking_a226744c:
+
+    # b "I... I..."
+    b "Eu... Eu..."
+
+# game/day27.rpy:1239
+translate brazilian day27_b_licking_970e9bfc:
+
+    # b "I didn't know I could do that."
+    b "Eu não sabia que podia fazer isso."
+
+# game/day27.rpy:1240
+translate brazilian day27_b_licking_5535b960:
+
+    # p "That was really special."
+    p "Isso foi muito especial."
+
+# game/day27.rpy:1241
+translate brazilian day27_b_licking_e4f482d5:
+
+    # b "I don't think I'll be able to walk."
+    b "Acho que não vou conseguir andar."
+
+# game/day27.rpy:1242
+translate brazilian day27_b_licking_fed42c8c:
+
+    # p "I'll get you home, don't worry."
+    p "Não se preocupa, eu te levo para casa."
+
+# game/day27.rpy:1243
+translate brazilian day27_b_licking_935dfeff:
+
+    # "{i}[b_name] sits next to you, savoring the moment before standing up and slowly dressing herself."
+    "{i}[b_name] se senta ao seu lado, saboreando o momento antes de se levantar e se vestir lentamente."
+
+# game/day27.rpy:1245
+translate brazilian day27_b_licking_22fc1ff3:
+
+    # "{i}She leans on you, as you head out the office and go back home."
+    "{i}Ela se apoia em você, e vocês saem do escritório e voltam para casa."
+
+# game/day27.rpy:1248
+translate brazilian day27_b_licking_748b5dec:
+
+    # p "That was close."
+    p "Essa foi por pouco."
+
+# game/day27.rpy:1249
+translate brazilian day27_b_licking_567893c3:
+
+    # p "{i}(And I fear the moment has been ruined.)"
+    p "{i}(E sinto que o momento tenha sido arruinado.)"
+
+# game/day27.rpy:1250
+translate brazilian day27_b_licking_58cce666:
+
+    # b "I really need to get back to work."
+    b "Eu realmente preciso voltar ao trabalho."
+
+# game/day27.rpy:1255
+translate brazilian day27_b_licking_877900df:
+
+    # p "You may, but the vibrator remains on."
+    p "Você pode, mas o vibrador permanece ligado."
+
+# game/day27.rpy:1257
+translate brazilian day27_b_licking_c39bb92f:
+
+    # b "What? No!"
+    b "O quê? Não!"
+
+# game/day27.rpy:1258
+translate brazilian day27_b_licking_e096b0f3:
+
+    # p "Yes, at the lowest setting, a nice background hum while you continue working."
+    p "Sim, na configuração mais baixa, um belo som de fundo enquanto você continua trabalhando."
+
+# game/day27.rpy:1259
+translate brazilian day27_b_licking_ef0da038:
+
+    # b "But..."
+    b "Mas..."
+
+# game/day27.rpy:1260
+translate brazilian day27_b_licking_2dab4ee2:
+
+    # p "You'll love it."
+    p "Você vai amar."
+
+# game/day27.rpy:1262
+translate brazilian day27_b_licking_a1d34c97:
+
+    # "{i}Dejected, [b_name] leaves the office, the toy still vibrating in her pussy. You decide to head home."
+    "{i}Derrotada, [b_name] sai do escritório, o brinquedo ainda vibrando em sua boceta. Você decide ir para casa."
+
+# game/day27.rpy:1265
+translate brazilian day27_b_licking_981af234:
+
+    # "{i}You toy with the idea of turning the vibrator on again, but decide to give [b_name] a break."
+    "{i}Você pensa em de ligar o vibrador novamente, mas decide dar a [b_name] um descanso."
+
+# game/day27.rpy:1266
+translate brazilian day27_b_licking_dfa11d19:
+
+    # p "You may. I've turned the vibrator off for now, but keep it in at all times."
+    p "Você pode. Desliguei o vibrador por enquanto, mas mantenha-o sempre."
+
+# game/day27.rpy:1267
+translate brazilian day27_b_licking_40179f03:
+
+    # b "Yeah, yeah."
+    b "Sim, sim."
+
+# game/day27.rpy:1269
+translate brazilian day27_b_licking_c556ba13:
+
+    # "{i}After she leaves the office, you head back home."
+    "{i}Depois que ela sai do escritório, você volta para casa."
+
+# game/day27.rpy:1284
+translate brazilian day27_flashback_sex_c5a86a79:
+
+    # s "There's also the matter of teaching you."
+    s "Há também a questão de ensinar você."
+
+# game/day27.rpy:1285
+translate brazilian day27_flashback_sex_5c6e3bee:
+
+    # s "You've proven to be a quick learner, but think of what you'll be able to show her when you've had a little more practice with me."
+    s "Você provou ser um aprendiz rápido, mas pense no que poderá mostrar a ela quando tiver um pouco mais de prática comigo."
+
+# game/day27.rpy:1286
+translate brazilian day27_flashback_sex_eca6528f:
+
+    # s "You already know how to pleasure a woman with your fingers, but there's more to be learned..."
+    s "Você já sabe dar prazer a uma mulher com os dedos, mas há mais a aprender..."
+
+# game/day27.rpy:1288
+translate brazilian day27_flashback_sex_b31534e5:
+
+    # "{i}With those words, she freed my cock which had grown erect as soon as I looked at her naked body."
+    "{i}Com essas palavras, ela libertou meu pau, tinha ficado ereto assim que olhei para seu corpo nu."
+
+# game/day27.rpy:1289
+translate brazilian day27_flashback_sex_f9e820eb:
+
+    # s "You should attune yourself to your desires."
+    s "Você deve se sintonizar com seus desejos."
+
+# game/day27.rpy:1290
+translate brazilian day27_flashback_sex_1ba01317:
+
+    # s "You clearly want me, you want her, you want Sabine... What if you can have all of that?"
+    s "Você claramente me quer, você a quer, você quer Sabine... E se você puder ter tudo isso?"
+
+# game/day27.rpy:1291
+translate brazilian day27_flashback_sex_59e7a770:
+
+    # s "Wouldn't that be nice?"
+    s "Isso não seria bom?"
+
+# game/day27.rpy:1296
+translate brazilian day27_flashback_sex_bffc2941:
+
+    # "{i}She lowered her head to my cock and wrapped her lips around my glans. Her wet tongue darted over the tip of my dick and she started sucking."
+    "{i}Ela baixou a cabeça até o meu pau e colocou os lábios em volta da minha glande. Sua língua molhada disparou sobre a ponta do meu pau e ela começou a chupar."
+
+# game/day27.rpy:1298
+translate brazilian day27_flashback_sex_146db4ff:
+
+    # s "Have you ever felt that before?"
+    s "Você já sentiu isso antes?"
+
+# game/day27.rpy:1299
+translate brazilian day27_flashback_sex_580a0a0b:
+
+    # p "N-n-no..."
+    p "N-n-não..."
+
+# game/day27.rpy:1300
+translate brazilian day27_flashback_sex_b9e17a77:
+
+    # "{i}Sasha took my entire length in her warm mouth and traced the veins of my cock with the tip of her tongue."
+    "{i}Sasha enfiou o meu pau inteiro em sua boca quente e traçou as veias dele com a ponta da língua."
+
+# game/day27.rpy:1301
+translate brazilian day27_flashback_sex_bbdaf767:
+
+    # s "Would you like to fuck me?"
+    s "Você gostaria de me foder?"
+
+# game/day27.rpy:1302
+translate brazilian day27_flashback_sex_afb6c27b:
+
+    # p "Here?! In dad's bedroom?!"
+    p "Aqui?! No quarto do pai?!"
+
+# game/day27.rpy:1303
+translate brazilian day27_flashback_sex_cb28ce69:
+
+    # s "That's the plan, if you're game."
+    s "Esse é o plano, se você quiser."
+
+# game/day27.rpy:1304
+translate brazilian day27_flashback_sex_fcad6d87:
+
+    # p "I-i... Y-yes!"
+    p "E-Eu... S-sim!"
+
+# game/day27.rpy:1306
+translate brazilian day27_flashback_sex_a8b746f9:
+
+    # r "But Miley!"
+    r "Mas Miley!"
+
+# game/day27.rpy:1307
+translate brazilian day27_flashback_sex_fa2718d7:
+
+    # p "I've learned not to argue with a woman who has my cock in her mouth."
+    p "Aprendi a não discutir com uma mulher que tem meu pau na boca."
+
+# game/day27.rpy:1308
+translate brazilian day27_flashback_sex_c4ff4ad4:
+
+    # r "Fair point."
+    r "Justo."
+
+# game/day27.rpy:1312
+translate brazilian day27_flashback_sex_b8a8a112:
+
+    # "{i}She pulled my penis out of her mouth, a string of saliva still connecting her lips and my glans, and lay before me with her legs spread."
+    "{i}Ela puxou meu pênis para fora de sua boca, um fio de saliva ainda conectando seus lábios e minha glande, e se deitou diante de mim com as pernas abertas."
+
+# game/day27.rpy:1313
+translate brazilian day27_flashback_sex_9062a2b3:
+
+    # s "Taste me, before I ride you."
+    s "Me lambe, antes que eu monte você."
+
+# game/day27.rpy:1319
+translate brazilian day27_flashback_sex_fff7add5:
+
+    # "{i}Any thought of young love forgotten, I obliged and plunged my tongue inside her pussy."
+    "{i}Qualquer pensamento de amor jovem esquecido, eu obedeci e mergulhei minha língua dentro de sua boceta."
+
+# game/day27.rpy:1320
+translate brazilian day27_flashback_sex_025deb73:
+
+    # s "Aaaah, very direct. Remember when you fingered me, be subtle."
+    s "Aaaah, muito direto. Lembre-se de quando você me tocou, seja gentil."
+
+# game/day27.rpy:1321
+translate brazilian day27_flashback_sex_ddcc8bb7:
+
+    # "{i}Tempering my initial voraciousness, I began to lick her pussy lips and concentrate my attention on her clitoris."
+    "{i}Moderando minha voracidade inicial, comecei a lamber os lábios de sua boceta e concentrar minha atenção em seu clitóris."
+
+# game/day27.rpy:1322
+translate brazilian day27_flashback_sex_f5c24192:
+
+    # "{i}I had never tasted a woman before, so Sasha's mix of bath soap and saltiness surprised and overwhelmed me instantly."
+    "{i}Eu nunca tinha provado uma mulher antes, então a mistura salgada com o sabonete de Sasha me surpreendeu e sobrecarregou instantaneamente."
+
+# game/day27.rpy:1323
+translate brazilian day27_flashback_sex_42e8f876:
+
+    # s "Good boy, make me ready for you."
+    s "Bom menino, me deixa pronta para você."
+
+# game/day27.rpy:1325
+translate brazilian day27_flashback_sex_863c430e:
+
+    # "{i}I worked hard on her pussy and she allowed me to explore every little fold of her sex, guiding me by firmly holding my head in her hands."
+    "{i}Trabalhei duro em sua boceta e ela me permitiu explorar cada pequena dobra de sua boceta, me guiando ao segurar firmemente minha cabeça em suas mãos."
+
+# game/day27.rpy:1326
+translate brazilian day27_flashback_sex_181a4fa1:
+
+    # s "That's it, right there."
+    s "Isso, aí mesmo."
+
+# game/day27.rpy:1327
+translate brazilian day27_flashback_sex_8d92683f:
+
+    # s "Mmmmm."
+    s "Mmmmm."
+
+# game/day27.rpy:1331
+translate brazilian day27_flashback_sex_d3367d55:
+
+    # s "That's enough for now."
+    s "Isso é o suficiente por enquanto."
+
+# game/day27.rpy:1332
+translate brazilian day27_flashback_sex_7286508b:
+
+    # s "Just focus for the next part, don't allow yourself to cum too soon."
+    s "Apenas se concentre na próxima parte, não se permita gozar tão cedo."
+
+# game/day27.rpy:1333
+translate brazilian day27_flashback_sex_3503f938:
+
+    # s "Let me lead, you can have the initiative some other time, when you're more skilled."
+    s "Deixa eu liderar, você pode tomar a iniciativa em outro momento, quando estiver mais habilidoso."
+
+# game/day27.rpy:1334
+translate brazilian day27_flashback_sex_20d8934c:
+
+    # p "It's just moving up and down, isn't it?"
+    p "É só subir e descer, não é?"
+
+# game/day27.rpy:1335
+translate brazilian day27_flashback_sex_9de62a97:
+
+    # s "Spoken like a boy who's only watched a vagina being penetrated on video."
+    s "Falado como um menino que só viu uma vagina sendo penetrada em vídeo."
+
+# game/day27.rpy:1336
+translate brazilian day27_flashback_sex_ba1863c8:
+
+    # s "Try not to cum immediately, okay?"
+    s "Tente não gozar imediatamente, ok?"
+
+# game/day27.rpy:1338
+translate brazilian day27_flashback_sex_7d248ee6:
+
+    # "{i}I really didn't get why she was making all that fuss until she spread her pussy lips and lowered herself onto my cock."
+    "{i}Eu realmente não entendi porque ela estava fazendo tanto alvoroço, até que ela abriu os lábios de sua boceta e abaixou-se no meu pau."
+
+# game/day27.rpy:1339
+translate brazilian day27_flashback_sex_3e6e3c86:
+
+    # "{i}The act of entering her warm wet hole nearly made me shoot my load inside of her. Sasha noticed my glazed look and halted her descent on my shaft right away."
+    "{i}O ato de entrar em seu buraco quente e úmido quase me fez jorrar dentro dela. Sasha percebeu meu olhar vidrado e interrompeu sua descida no meu eixo imediatamente."
+
+# game/day27.rpy:1341
+translate brazilian day27_flashback_sex_486fc380:
+
+    # p "F-f-fuck, Sasha!"
+    p "P-p-porra, Sasha!"
+
+# game/day27.rpy:1342
+translate brazilian day27_flashback_sex_408c37ea:
+
+    # s "Don't you dare, boy, we haven't even started!"
+    s "Não se atreva, garoto, ainda nem começamos!"
+
+# game/day27.rpy:1343
+translate brazilian day27_flashback_sex_5d2f4abc:
+
+    # "{i}I tried to think of anything but sex, and after a procession of deformed gnomes, the entire plot of The Great Gatsby and several theorems from Euclidean geometry had passed my mind's eye, I felt confident enough for Sasha to continue."
+    "{i}Tentei pensar em qualquer coisa além de sexo, e depois de uma procissão de gnomos deformados, todo o enredo de O Grande Gatsby, e vários teoremas da geometria euclidiana passaram pela minha cabeça, me senti confiante o suficiente para que Sasha continuasse."
+
+# game/day27.rpy:1350
+translate brazilian day27_flashback_sex_f388db08:
+
+    # s "Try to focus on the ways my cunt is stimulating your cock."
+    s "Tente se concentrar nas maneiras como minha boceta está estimulando seu pau."
+
+# game/day27.rpy:1351
+translate brazilian day27_flashback_sex_426e3322:
+
+    # "{i}Very slowly, Sasha started to move, the ribs of her vaginal tract massaging my entire shaft."
+    "{i}Bem lentamente, Sasha começou a se mover, as laterais de seu trato vaginal massageando todo o meu pau."
+
+# game/day27.rpy:1352
+translate brazilian day27_flashback_sex_1dba4ceb:
+
+    # s "When you're more experienced, you can fully give yourself over to pleasure."
+    s "Quando você for mais experiente, pode se entregar totalmente ao prazer."
+
+# game/day27.rpy:1353
+translate brazilian day27_flashback_sex_77a6371f:
+
+    # s "Your goal should always be to heighten the pleasure of your girl."
+    s "Seu objetivo deve ser sempre aumentar o prazer de sua garota. "
+
+# game/day27.rpy:1354
+translate brazilian day27_flashback_sex_544b034c:
+
+    # s "She'll get wetter and wetter..."
+    s "Ela vai ficar cada vez mais molhada..."
+
+# game/day27.rpy:1355
+translate brazilian day27_flashback_sex_58db5a14:
+
+    # s "Maybe she'll orgasm..."
+    s "Talvez ela tenha um orgasmo..."
+
+# game/day27.rpy:1356
+translate brazilian day27_flashback_sex_0d029f3e:
+
+    # s "Mmmmm..."
+    s "Mmmmm."
+
+# game/day27.rpy:1358
+translate brazilian day27_flashback_sex_485f4ac7:
+
+    # s "That, in turn, will increase your pleasure as well."
+    s "Isso, por sua vez, também aumentará o seu prazer."
+
+# game/day27.rpy:1359
+translate brazilian day27_flashback_sex_d2614141:
+
+    # s "Measure your thrusts and listen to your partner. To her moans and body language."
+    s "Pare suas socadas e ouça seu parceiro. Para seus gemidos e linguagem corporal."
+
+# game/day27.rpy:1360
+translate brazilian day27_flashback_sex_910977f0:
+
+    # "{i}Mesmerized by her voice and the dirty things she told me, I let her use my cock for her pleasure and tried not to fill her up prematurely."
+    "{i}Hipnotizado por sua voz e pelas coisas sujas que ela me disse, eu a deixei usar meu pau para seu prazer e tentei não enchê-la prematuramente."
+
+# game/day27.rpy:1362
+translate brazilian day27_flashback_sex_c62166ae:
+
+    # s "When she's nearing her orgasms, a few quick thrusts might send her over the edge."
+    s "Quando ela está se aproximando do orgasmo, algumas enfiadas rápidas podem enviá-la ao limite."
+
+# game/day27.rpy:1363
+translate brazilian day27_flashback_sex_2c39b0d4:
+
+    # s "And as she orgasms, try to fuck her deeply, to prolong her pleasure."
+    s "E enquanto ela tem orgasmo, tente foder profundamente, para prolongar seu prazer."
+
+# game/day27.rpy:1364
+translate brazilian day27_flashback_sex_5b51375b:
+
+    # s "Fucking her hard and fast should never be the first thing you do, unless the situation calls for it, or she asks you to."
+    s "Transar com ela forte e rápido nunca deve ser a primeira coisa a fazer, a menos que a situação exija, ou ela peça."
+
+# game/day27.rpy:1365
+translate brazilian day27_flashback_sex_eafc5437:
+
+    # s "You're not some porn actor jackhammering a worn out pussy, you're a lover."
+    s "Você não é um ator pornô martelando uma boceta velha, você é um amante."
+
+# game/day27.rpy:1366
+translate brazilian day27_flashback_sex_819c61ee:
+
+    # p "S-s-sasha?!"
+    p "S-s-sasha?!"
+
+# game/day27.rpy:1367
+translate brazilian day27_flashback_sex_5396f74e:
+
+    # s "Yes, dear?"
+    s "Sim, querido?"
+
+# game/day27.rpy:1368
+translate brazilian day27_flashback_sex_a977924e:
+
+    # p "I-I can't..."
+    p "Eu não posso..."
+
+# game/day27.rpy:1369
+translate brazilian day27_flashback_sex_530f3be7:
+
+    # s "Do you want to cum inside me, sweetheart?"
+    s "Você quer gozar dentro de mim, querido?"
+
+# game/day27.rpy:1370
+translate brazilian day27_flashback_sex_07d6a258:
+
+    # p "Y-y-y..."
+    p "S-s-s..."
+
+# game/day27.rpy:1371
+translate brazilian day27_flashback_sex_09b8efae:
+
+    # s "Go ahead, let it all go!"
+    s "Vá em frente, deixe tudo sair!"
+
+# game/day27.rpy:1379
+translate brazilian day27_flashback_sex_6891a8bb:
+
+    # "{i}With clenched teeth I released what felt like a river of seed inside her pussy. I'm not entirely sure what she did while I was orgasming, but it kept me going for a long time."
+    "{i}Com os dentes cerrados, liberei o que parecia ser um rio de gozo dentro de sua boceta. Eu não tenho certeza do que ela fez enquanto eu estava tendo um orgasmo, mas isso me manteve por um longo tempo."
+
+# game/day27.rpy:1381
+translate brazilian day27_flashback_sex_2f5381cb:
+
+    # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
+    "{i}Sêmen vazou de sua boceta para o meu pau e para a cama do meu pai. Eu a segurei perto, apertando seu corpo desesperadamente em meus braços, meu pau ainda tremendo dentro dela. Eu não era mais virgem."
+

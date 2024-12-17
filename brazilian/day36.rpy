@@ -5740,3 +5740,293 @@ translate brazilian strings:
     old "Interrupt her"
     new "Interrompê-la"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day36.rpy:1510
+translate brazilian day36_l_blowjob_304be16a:
+
+    # l "Don't go, [p_name]."
+    l "Não vai, [p_name]."
+
+# game/day36.rpy:1511
+translate brazilian day36_l_blowjob_4cb7cb3b:
+
+    # l "I don't want to be lllonely..."
+    l "Eu não quero ficar sssozinha..."
+
+# game/day36.rpy:1516
+translate brazilian day36_l_blowjob_468ca890:
+
+    # "{i}Without ceremony, [l_name] drops her dress to the floor, exposing her naked body."
+    "{i}Sem cerimônia, [l_name] deixa seu vestido cair no chão, expondo seu corpo nu."
+
+# game/day36.rpy:1517
+translate brazilian day36_l_blowjob_21117e0e:
+
+    # l "Come on... you too!"
+    l "Vamos... você também!"
+
+# game/day36.rpy:1518
+translate brazilian day36_l_blowjob_9b4a300b:
+
+    # "{i}[l_name]'s drunkenness surely has made her less reserved, but the eagerness is genuine at the same time."
+    "{i}A embriaguez de [l_name] certamente a tornou menos reservada, mas a ansiedade é genuína ao mesmo tempo."
+
+# game/day36.rpy:1521
+translate brazilian day36_l_blowjob_40e1009f:
+
+    # "{i}As your sister lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Quando sua irmã se deita com você, ela acaricia sua pele e olha para você com expectativa."
+
+# game/day36.rpy:1523
+translate brazilian day36_l_blowjob_23775a35:
+
+    # "{i}As your friend lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Quando sua amiga se deita com você, ela acaricia sua pele e olha para você com expectativa."
+
+# game/day36.rpy:1524
+translate brazilian day36_l_blowjob_ac4d6993:
+
+    # l "I'm not ready to sleep..."
+    l "Não estou pronta para dormir..."
+
+# game/day36.rpy:1525
+translate brazilian day36_l_blowjob_1249acbe:
+
+    # p "Me neither."
+    p "Nem eu."
+
+# game/day36.rpy:1530
+translate brazilian day36_l_blowjob_7f7cb4c9:
+
+    # "{i}Saying nothing further, [l_name]'s hand wraps around your growing cock, her fingertips trailing the pulsing veins."
+    "{i}Sem dizer mais nada, a mão de [l_name] envolve seu pau crescendo, as pontas dos dedos dela percorrendo as veias pulsantes."
+
+# game/day36.rpy:1531
+translate brazilian day36_l_blowjob_2bc673f7:
+
+    # "{i}Her touch alone is enough to make you rock-hard, and you bury your head in her breasts in eager anticipation."
+    "{i}Seu toque por si só é o suficiente para deixá-lo duro como uma pedra, e você enterra a cabeça em seus seios em antecipação ansiosa."
+
+# game/day36.rpy:1533
+translate brazilian day36_l_blowjob_fc8508ce:
+
+    # "{i}At that point, [l_name] does something unexpected by positioning her body so that her head is very near your dick."
+    "{i}Nesse ponto, [l_name] faz algo inesperado ao posicionar o corpo de forma que a cabeça fique bem perto do seu pau."
+
+# game/day36.rpy:1534
+translate brazilian day36_l_blowjob_23992067:
+
+    # l "Is it better when I use my mouth instead of my hands?"
+    l "É melhor quando eu uso minha boca ao invés de minhas mãos?"
+
+# game/day36.rpy:1535
+translate brazilian day36_l_blowjob_c0fae0d5:
+
+    # "{i}[l_name] speech is still slightly slurred, but the sexual energy has given her more determination than before."
+    "{i}A fala de [l_name] ainda está ligeiramente arrastada, mas a energia sexual deu a ela mais determinação do que antes."
+
+# game/day36.rpy:1536
+translate brazilian day36_l_blowjob_c5250ec4:
+
+    # p "Yes..."
+    p "Sim."
+
+# game/day36.rpy:1537
+translate brazilian day36_l_blowjob_d72fb300:
+
+    # l "I'd really like to try."
+    l "Eu realmente gostaria de tentar."
+
+# game/day36.rpy:1543
+translate brazilian day36_l_blowjob_4b4f4590:
+
+    # "{i}Not waiting on further encouragement, [l_name] prods your glans with the tip of her tongue."
+    "{i}Sem esperar por mais incentivos, [l_name] cutuca sua glande com a ponta da língua."
+
+# game/day36.rpy:1544
+translate brazilian day36_l_blowjob_4160e029:
+
+    # "{i}She then proceeds to lick the entire head, firing all the nerve endings and making you gasp under her control."
+    "{i}Ela então começa a lamber a cabeça inteira, disparando todas as terminações nervosas e fazendo você ofegar sob o controle dela."
+
+# game/day36.rpy:1545
+translate brazilian day36_l_blowjob_7bf00fe8:
+
+    # "{i}You think you could cum from that stimulation alone, but [l_name] is already opening her mouth to invite your throbbing cock inside."
+    "{i}Você acha que poderia gozar só com esse estímulo, mas [l_name] já está abrindo a boca para convidar seu pau latejante para dentro."
+
+# game/day36.rpy:1551
+translate brazilian day36_l_blowjob_70dc081f:
+
+    # "{i}The feeling of her soft lips wrapping around your hard cock is amazing, as are the motions of her tongue over the head of your cock."
+    "{i}A sensação dos lábios macios envolvendo seu pau duro é incrível, assim como os movimentos de língua sobre a cabeça de seu pau."
+
+# game/day36.rpy:1552
+translate brazilian day36_l_blowjob_14a1e70d:
+
+    # "{i}[l_name] is clearly inexperienced, and when she starts to suck you properly, she has trouble controlling her gag reflex."
+    "{i}[l_name] é claramente inexperiente, e quando ela começa a chupar você corretamente, tem problemas para controlar o reflexo de engasgar."
+
+# game/day36.rpy:1553
+translate brazilian day36_l_blowjob_d57a8d96:
+
+    # p "You're doing great baby!"
+    p "Você está indo muito bem, linda!"
+
+# game/day36.rpy:1555
+translate brazilian day36_l_blowjob_7b5ec7da:
+
+    # "{i}Despite her teeth brushing against your sensitive member from time to time, [l_name]'s blowjob is very pleasurable."
+    "{i}Apesar de seus dentes arrastarem contra seu membro sensível de vez em quando, o boquete de [l_name] é muito prazeroso."
+
+# game/day36.rpy:1556
+translate brazilian day36_l_blowjob_f109dff8:
+
+    # "{i}The feeling of training an inexperienced mouth more than makes up for the occasional clumsy manoeuver."
+    "{i}A sensação de treinar uma boca inexperiente mais do que compensa a ocasional manobra desajeitada."
+
+# game/day36.rpy:1561
+translate brazilian day36_l_blowjob_625c9227:
+
+    # "{i}A little exhausted, [l_name] pauses her efforts."
+    "{i}Um pouco exausta, [l_name] pausa seus esforços."
+
+# game/day36.rpy:1562
+translate brazilian day36_l_blowjob_d73077d3:
+
+    # l "Am I doing okay?"
+    l "Eu estou fazendo direito?"
+
+# game/day36.rpy:1563
+translate brazilian day36_l_blowjob_64e16b30:
+
+    # p "Quite."
+    p "Muito."
+
+# game/day36.rpy:1564
+translate brazilian day36_l_blowjob_45ff7505:
+
+    # l "I'm not hurting you?"
+    l "Eu não estou te machucando?"
+
+# game/day36.rpy:1565
+translate brazilian day36_l_blowjob_9e9e52ef:
+
+    # p "No, you're not, you're doing great, trust me."
+    p "Não, você não está, está indo muito bem, acredite."
+
+# game/day36.rpy:1566
+translate brazilian day36_l_blowjob_b891e4dc:
+
+    # p "Just keep it covered in saliva and be wary of your teeth."
+    p "Basta manter ele coberto de saliva e ter cuidado com os dentes."
+
+# game/day36.rpy:1567
+translate brazilian day36_l_blowjob_6067bdda:
+
+    # l "I will."
+    l "Eu vou."
+
+# game/day36.rpy:1568
+translate brazilian day36_l_blowjob_183c34cd:
+
+    # l "Will you warn me when you're about to cum?"
+    l "Você vai me avisar quando estiver prestes a gozar?"
+
+# game/day36.rpy:1569
+translate brazilian day36_l_blowjob_d8a3ffd9:
+
+    # p "Of course."
+    p "Claro."
+
+# game/day36.rpy:1574
+translate brazilian day36_l_blowjob_de583bdb:
+
+    # "{i}With renewed energy, [l_name] goes down on you, feeling confident enough to massage your balls with her other hand."
+    "{i}Com energia renovada, [l_name] desce sobre você, sentindo-se confiante o suficiente para massagear suas bolas com a outra mão."
+
+# game/day36.rpy:1575
+translate brazilian day36_l_blowjob_2f7ca07a:
+
+    # "{i}Her unsure glances become less frequent as she fully focuses on blowing you in a rhythm that doesn't make you last long."
+    "{i}Seus olhares inseguros tornam-se menos frequentes à medida que ela se concentra totalmente em lamber você em um ritmo que não o faz durar muito."
+
+# game/day36.rpy:1576
+translate brazilian day36_l_blowjob_d0096822:
+
+    # p "I'm nearly there baby."
+    p "Estou quase lá, linda."
+
+# game/day36.rpy:1577
+translate brazilian day36_l_blowjob_d887ba44:
+
+    # "{i}[l_name] smiles and keeps sucking you until you attempt to push her away, but she doesn't let you."
+    "{i}[l_name] sorri e continua chupando você até você tentar empurrá-la, mas ela não deixa."
+
+# game/day36.rpy:1578
+translate brazilian day36_l_blowjob_c1b9bbcf:
+
+    # p "I'm going to cum, [l_name]!"
+    p "Eu vou gozar, [l_name]!"
+
+# game/day36.rpy:1579
+translate brazilian day36_l_blowjob_690af96d:
+
+    # p "You might want to... aaaah!"
+    p "Você pode querer... aaaah!"
+
+# game/day36.rpy:1583
+translate brazilian day36_l_blowjob_ade7c46f:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your sister looks determined and wants to receive every last drop of warm cum."
+    "{i}Desamparado, você descarrega dentro da boca de [l_name], sua irmã parece determinada e querer receber até a última gota de esperma quente."
+
+# game/day36.rpy:1585
+translate brazilian day36_l_blowjob_46f700e1:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your friend looks determined and wants to receive every last drop of warm cum."
+    "{i}Desamparado, você descarrega dentro da boca de [l_name], sua amiga parece determinada e querer receber até a última gota de esperma quente."
+
+# game/day36.rpy:1586
+translate brazilian day36_l_blowjob_a4734eca:
+
+    # "{i}[l_name] treats your cock to a couple of last licks and then bravely swallows your entire load."
+    "{i}[l_name] dá ao seu pau algumas lambidas e então corajosamente engole toda a sua carga."
+
+# game/day36.rpy:1587
+translate brazilian day36_l_blowjob_2a363f04:
+
+    # p "Why did you do that?"
+    p "Porque você fez isso?"
+
+# game/day36.rpy:1588
+translate brazilian day36_l_blowjob_092822c9:
+
+    # p "You asked me to warn you?"
+    p "Você me pediu para te avisar?"
+
+# game/day36.rpy:1589
+translate brazilian day36_l_blowjob_abd3af6f:
+
+    # l "Ssshh... No rules..."
+    l "Ssshh... Sem regras..."
+
+# game/day36.rpy:1595
+translate brazilian day36_l_blowjob_22bb8206:
+
+    # "{i}While you're still enjoying the last waves of your orgasm, [l_name] moves to sit on your leg and keeps you firmly in your place."
+    "{i}Enquanto você ainda está curtindo as últimas ondas do seu orgasmo, [l_name] se move para sentar em sua perna e o mantém firme no lugar."
+
+# game/day36.rpy:1596
+translate brazilian day36_l_blowjob_30516eca:
+
+    # "{i}The moistness of her pussy is clearly noticeable on your bare skin and she starts making wet trails on your leg as she rubs herself on your leg."
+    "{i}A umidade de sua boceta é claramente perceptível em sua pele nua e ela começa a fazer trilhas molhadas em sua perna enquanto se esfrega em sua perna."
+
+# game/day36.rpy:1597
+translate brazilian day36_l_blowjob_4019def0:
+
+    # l "I'm just your little ssslut."
+    l "Eu sou só a sua pequena putinha."
+

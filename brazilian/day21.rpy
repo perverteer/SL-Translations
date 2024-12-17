@@ -2974,8 +2974,8 @@ translate brazilian day21_evening_choices_6de4963a:
 # game/day21.rpy:752
 translate brazilian day21_evening_choices_2b793e9f:
 
-    "{i}A boceta da [r_name] já está molhada em antecipação do seu pau. Você lambe os fluidos dos lábios baixos dela e provocadoramente lambe o clitóris dela, que está crescendo levemente com toda a atenção que você está dando à boceta dela."
     # "{i}[r_name]'s pussy is already wet in anticipation of your cock. You lap up her juices from her lower lips and teasingly lick her clitoris, which is growing ever so slightly with all the attention you're giving her pussy."
+    "{i}A boceta da [r_name] já está molhada em antecipação do seu pau. Você lambe os fluidos dos lábios baixos dela e provocadoramente lambe o clitóris dela, que está crescendo levemente com toda a atenção que você está dando à boceta dela."
 
 # game/day21.rpy:753
 translate brazilian day21_evening_choices_9a09c4ba:
@@ -4315,4 +4315,2418 @@ translate brazilian day21_choices_96e28405:
 
     # p "Back when I lived at my dad's, I had a thing with an older woman."
     p "Quando eu morava na casa do meu pai, eu tive uma coisa com uma mulher mais velha."
+
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day21.rpy:460
+translate brazilian day21_b_gym_sex_144886ec:
+
+    # "{i}[b_name] knocks on your door after a while, and you both walk to the gym, chatting the whole way."
+    "{i}Após um tempo, [b_name] bate na sua porta e vocês vão para a academia, conversando o caminho todo."
+
+# game/day21.rpy:462
+translate brazilian day21_b_gym_sex_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "Então e aqui onde a magia acontece?"
+
+# game/day21.rpy:463
+translate brazilian day21_b_gym_sex_668676f8:
+
+    # b "Hehe, just know it's going to be boring. Just exercises."
+    b "Hehe, só saiba que vai ser chato. Só exercícios."
+
+# game/day21.rpy:464
+translate brazilian day21_b_gym_sex_b80def4c:
+
+    # p "Watching a beautiful girl working up a sweat for me can't be boring."
+    p "Ver uma garota malhar e suar para mim não tem como ser chato."
+
+# game/day21.rpy:465
+translate brazilian day21_b_gym_sex_e3b0b618:
+
+    # b "Ah, you think I'm doing this all for you?"
+    b "Ah, você acha que eu estou fazendo isso só para você?"
+
+# game/day21.rpy:466
+translate brazilian day21_b_gym_sex_f151c2f9:
+
+    # p "What, you don't?!"
+    p "O quê, você não está?!"
+
+# game/day21.rpy:468
+translate brazilian day21_b_gym_sex_b0c9fd8a:
+
+    # b "Haha, you're such a dork sometimes."
+    b "Haha, você é tão bobão às vezes."
+
+# game/day21.rpy:469
+translate brazilian day21_b_gym_sex_d8ad1d4b:
+
+    # p "It's one of my many fine qualities."
+    p "É uma das minhas muitas boas qualidades."
+
+# game/day21.rpy:471
+translate brazilian day21_b_gym_sex_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] começa o que deve ser a rotina normal dela. Inicialmente, ela é consciente da sua presença, mas logo ela se distrai nos exercícios físicos."
+
+# game/day21.rpy:472
+translate brazilian day21_b_gym_sex_b1847037:
+
+    # p "{i}(Hot damn. What a girl!)"
+    p "{i}(Caralho. Que garota!)"
+
+# game/day21.rpy:475
+translate brazilian day21_b_gym_sex_4f819c57:
+
+    # "{i}Your sister clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}Sua irmã claramente tem um regime estrito de treinamento e não se perdoa, o corpo dela está coberto em suor."
+
+# game/day21.rpy:477
+translate brazilian day21_b_gym_sex_ed9f41ab:
+
+    # "{i}[b_name] clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] claramente tem um regime estrito de treinamento e não se perdoa, o corpo dela está coberto em suor."
+
+# game/day21.rpy:478
+translate brazilian day21_b_gym_sex_e528c206:
+
+    # p "{i}(She sure has stamina, look at her going at it.)"
+    p "{i}(Ela com certeza tem fôlego, olha ela indo.)"
+
+# game/day21.rpy:479
+translate brazilian day21_b_gym_sex_2ace204e:
+
+    # p "Would you like a drink, [b_name]?"
+    p "Gostaria de uma bebida, [b_name]?"
+
+# game/day21.rpy:480
+translate brazilian day21_b_gym_sex_aba98715:
+
+    # "{i}You hand her a bottle of cold water."
+    "{i}Você a entrega uma garrafa de água fria."
+
+# game/day21.rpy:485
+translate brazilian day21_b_gym_sex_9d41dd47:
+
+    # b "Thank you! Just what I needed."
+    b "Obrigada! Bem o que eu precisava."
+
+# game/day21.rpy:486
+translate brazilian day21_b_gym_sex_770959f4:
+
+    # b "Could you lend me a hand with these next few exercises?"
+    b "Pode me dar uma mão nesses próximos exercícios?"
+
+# game/day21.rpy:487
+translate brazilian day21_b_gym_sex_a3d4cf4f:
+
+    # p "Sure thing."
+    p "É claro."
+
+# game/day21.rpy:488
+translate brazilian day21_b_gym_sex_01bd4b87:
+
+    # "{i}[b_name] walks to a more secluded corner of the gym. You don't see any specific workout equipment you could use together."
+    "{i}[b_name] vai até um canto mais isolado da academia. Você não vê nenhum equipamento específico de exercícios que vocês poderiam usar juntos."
+
+# game/day21.rpy:489
+translate brazilian day21_b_gym_sex_bef5a181:
+
+    # p "What would you like me to do?"
+    p "O que você gostaria que eu fizesse?"
+
+# game/day21.rpy:490
+translate brazilian day21_b_gym_sex_ce89ea26:
+
+    # b "Kiss me. Hard."
+    b "Me beija. Com força."
+
+# game/day21.rpy:491
+translate brazilian day21_b_gym_sex_5c041ffd:
+
+    # p "We're going to train those muscles?"
+    p "A gente vai treinar esses músculos?"
+
+# game/day21.rpy:492
+translate brazilian day21_b_gym_sex_c80d3399:
+
+    # b "[p_name]... Why aren't you kissing me already?"
+    b "[p_name]... Por que você já não está me beijando?"
+
+# game/day21.rpy:493
+translate brazilian day21_b_gym_sex_71651c93:
+
+    # p "Right!"
+    p "Certo!"
+
+# game/day21.rpy:495
+translate brazilian day21_b_gym_sex_a6bdc4b0:
+
+    # "{i}Within moments you're in a tight embrace and kiss her lips, still cold from the water she just drank."
+    "{i}Em instantes vocês estão em um abraço apertado e beija os lábios dela, ainda frios da água que ela acabou de beber."
+
+# game/day21.rpy:496
+translate brazilian day21_b_gym_sex_6aef8b85:
+
+    # "{i}Being this close to her arouses all those wild feelings you have for her in an instant, despite being surrounded by other people working out."
+    "{i}Estar tão perto dela reacende todos aqueles sentimentos selvagens que você tem por ela em um instante, apesar de estar cercado por outras pessoas se exercitando."
+
+# game/day21.rpy:497
+translate brazilian day21_b_gym_sex_bdb94b53:
+
+    # b "Mmmmm. Just what I needed."
+    b "Mmmmm. Bem o que eu precisava."
+
+# game/day21.rpy:498
+translate brazilian day21_b_gym_sex_e4f43b25:
+
+    # p "I just can't stop looking at you."
+    p "Eu só não consigo parar de olhar para você."
+
+# game/day21.rpy:499
+translate brazilian day21_b_gym_sex_346133e7:
+
+    # b "You're not making it easy for me either. Normally I would've done over forty squats."
+    b "Você não está deixando as coisas fáceis para mim também. Normalmente eu teria feito além de quarenta agachamentos."
+
+# game/day21.rpy:500
+translate brazilian day21_b_gym_sex_6d5267bc:
+
+    # p "So you'll grow fat and lazy because I'm distracting you?"
+    p "Então você vai ficar gorda e preguiçosa porque eu estou te distraindo?"
+
+# game/day21.rpy:502
+translate brazilian day21_b_gym_sex_6663db28:
+
+    # b "And old, don't forget old."
+    b "E velha, não se esquece de velha."
+
+# game/day21.rpy:503
+translate brazilian day21_b_gym_sex_30e929d1:
+
+    # p "We'd better train those tongue muscles again for good measure."
+    p "É melhor a gente treinar aqueles músculos da língua de novo para garantir."
+
+# game/day21.rpy:504
+translate brazilian day21_b_gym_sex_ea8c1349:
+
+    # b "Good idea."
+    b "Boa ideia."
+
+# game/day21.rpy:507
+translate brazilian day21_b_gym_sex_8eac1a57:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and your sister moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}Sua língua explora os confins da boca quente dela, e sua irmã geme enquanto você chupa a ponta de sua língua. A perna dela te empurra contra a sua virilha onde uma ereção está crescendo rapidamente."
+
+# game/day21.rpy:509
+translate brazilian day21_b_gym_sex_47d65306:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and she moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}Sua língua explora os confins da boca quente dela, e ela geme enquanto você chupa a ponta de sua língua. A perna dela te empurra contra a sua virilha onde uma ereção está crescendo rapidamente."
+
+# game/day21.rpy:519
+translate brazilian day21_b_gym_sex_6756e9e3:
+
+    # "{i}Without thinking, you trace the curve of her body with your hands until arriving at her sports shorts. You can't help yourself, and one of your hands slips inside. [b_name] gasps but doesn't stop you, as she's too focused on kissing you."
+    "{i}Sem pensar, você traça as curvas do corpo dela com suas mãos até chegar no short esportivo. Você não consegue se conter, e uma das suas mãos desliza adentro. [b_name] suspira, mas não o para, já que está focada demais em beijá-lo."
+
+# game/day21.rpy:520
+translate brazilian day21_b_gym_sex_9dffafa2:
+
+    # b "Mmmmmm..."
+    b "Mmmmmm..."
+
+# game/day21.rpy:522
+translate brazilian day21_b_gym_sex_f45f6368:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, your sister softly moans."
+    "{i}Seus dedos exploram a púbis dela e descem até seu sexo. A pele dela está suada e quente, mas chegando na boceta apertada, você acha que a umidade é por conta de algo mais do que apenas transpiração. Quando você toca os lábios da boceta dela, sua irmã suavemente geme."
+
+# game/day21.rpy:524
+translate brazilian day21_b_gym_sex_6261ed4d:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, [b_name] softly moans."
+    "{i}Seus dedos exploram a púbis dela e descem até seu sexo. A pele dela está suada e quente, mas chegando na boceta apertada, você acha que a umidade dela é por conta de algo mais do que apenas transpiração. Quando você toca os lábios da boceta dela, [b_name] suavemente geme."
+
+# game/day21.rpy:525
+translate brazilian day21_b_gym_sex_828887ce:
+
+    # b "W-we shouldn't... not here... all these people..."
+    b "A-a gente não pode... não aqui... toda essa gente..."
+
+# game/day21.rpy:530
+translate brazilian day21_b_gym_sex_9ab270c8:
+
+    # "{i}Her half-hearted objection trails off in a whisper and she begins to gently grind her body back and forth against your hand to further stimulate her pussy."
+    "{i}A objeção desmotivada dela sai em um sussurro e ela começa a gentilmente esfregar o corpo dela para frente e para trás contra a sua mão para estimular mais a boceta dela."
+
+# game/day21.rpy:531
+translate brazilian day21_b_gym_sex_4ef4b90b:
+
+    # p "I want you so bad!"
+    p "Eu quero tanto você!"
+
+# game/day21.rpy:532
+translate brazilian day21_b_gym_sex_d6cb7822:
+
+    # b "Y-yes... I'm yours... A-all yours."
+    b "S-sim... Eu sou sua... T-toda sua."
+
+# game/day21.rpy:533
+translate brazilian day21_b_gym_sex_b4d7e83b:
+
+    # "{i}After a quick look around the gym, you see that nobody is watching you and decide to go a little further. One finger slips inside her cunny, and you slowly massage her clit with your thumb."
+    "{i}Depois de uma olhada rápida pela academia, você vê que ninguém está olhando para vocês e decide ir um pouco mais longe. Um dedo desliza dentro da bocetinha dela e você lentamente massageia ao clitóris com seu polegar."
+
+# game/day21.rpy:534
+translate brazilian day21_b_gym_sex_34f81256:
+
+    # b "G-god..."
+    b "D-deus..."
+
+# game/day21.rpy:536
+translate brazilian day21_b_gym_sex_121be70c:
+
+    # "{i}[b_name] is trembling and breathing heavily into your ear as you rub her little button and penetrate her with your fingers. Her juices flow freely and soak the lining of her pants. She's already close to cumming."
+    "{i}[b_name] está tremendo e respirando profundamente no seu ouvido enquanto você esfrega o botãozinho dela e a penetra com seus dedos. Os fluidos dela fluem livremente e encharcam o forro das calças dela. Ela já está perto de gozar."
+
+# game/day21.rpy:541
+translate brazilian day21_b_gym_sex_f203a078:
+
+    # b "Keep going.... Aaah... don't stop!"
+    b "Continua.... Aaah... não para!"
+
+# game/day21.rpy:544
+translate brazilian day21_b_gym_sex_d12bed83:
+
+    # "{i}With clenched teeth, [b_name] orgasms. She buries her face in your chest and lets out a muffled moan as you hold her trembling body."
+    "{i}Com dentes cerrados, [b_name] chega ao orgasmo. Ela enterra o rosto no seu peito e deixa sair um gemido abafado enquanto você segura o corpo trêmulo dela."
+
+# game/day21.rpy:545
+translate brazilian day21_b_gym_sex_9f639178:
+
+    # b "F-f-fuuu... Mmmmmm...."
+    b "P-p-pooo... Mmmmmm...."
+
+# game/day21.rpy:556
+translate brazilian day21_b_gym_sex_bf73b465:
+
+    # man "Hey, everything all right, [b_name]?"
+    man "Ei, tudo bem, [b_name]?"
+
+# game/day21.rpy:557
+translate brazilian day21_b_gym_sex_721b1e4e:
+
+    # p "{i}(Jesus Christ... Where did this walking muscle come from all of a sudden?)"
+    p "{i}(Jesus Cristo... De onde esse músculo andante saiu do nada?)"
+
+# game/day21.rpy:558
+translate brazilian day21_b_gym_sex_b53302e1:
+
+    # b "What? Oh... No... Everything is fine, Jake."
+    b "O quê? Ah... Não... Tá tudo bem, Jake."
+
+# game/day21.rpy:559
+translate brazilian day21_b_gym_sex_67d25e44:
+
+    # man "Really, it looked like you were crying."
+    man "Sério, parecia que você estava chorando."
+
+# game/day21.rpy:560
+translate brazilian day21_b_gym_sex_abec0156:
+
+    # b "Crying? Hahahaha! No."
+    b "Chorando? Hahahaha! Não."
+
+# game/day21.rpy:561
+translate brazilian day21_b_gym_sex_15832199:
+
+    # b "Err... That is... My boyfriend just wanted a kiss and told me something really funny..."
+    b "Err... É que... Meu namorado só queria um beijo e me contou uma coisa muito engraçada..."
+
+# game/day21.rpy:562
+translate brazilian day21_b_gym_sex_6d909fa8:
+
+    # p "{i}(Boyfriend? I really like the sound of that.)"
+    p "{i}(Namorado? Eu gosto muito disso.)"
+
+# game/day21.rpy:563
+translate brazilian day21_b_gym_sex_2b0d0ebf:
+
+    # man "Your boyfriend? That's new. Good for you."
+    man "Seu namorado? Essa é nova. Bom para você."
+
+# game/day21.rpy:564
+translate brazilian day21_b_gym_sex_33d08722:
+
+    # b "Very new..."
+    b "Muito nova..."
+
+# game/day21.rpy:565
+translate brazilian day21_b_gym_sex_a51001c0:
+
+    # b "Jake, meet [p_name]."
+    b "Jake, conheça o [p_name]."
+
+# game/day21.rpy:566
+translate brazilian day21_b_gym_sex_77336608:
+
+    # man "Hi [p_name], good to meet you."
+    man "Oi [p_name], bom te conhecer."
+
+# game/day21.rpy:567
+translate brazilian day21_b_gym_sex_f12f3823:
+
+    # p "Likewise."
+    p "Igualmente."
+
+# game/day21.rpy:569
+translate brazilian day21_b_gym_sex_1c9cae75:
+
+    # man "Funny, I thought you told me you had a brother named [p_name]."
+    man "Engraçado, pensei que você tinha me dito que tinha um irmão chamado [p_name]."
+
+# game/day21.rpy:571
+translate brazilian day21_b_gym_sex_e56068d3:
+
+    # man "Funny, I thought you told me you had a roommate named [p_name]."
+    man "Engraçado, pensei que você tinha me dito que tinha um colega de quarto chamado [p_name]."
+
+# game/day21.rpy:572
+translate brazilian day21_b_gym_sex_2a2fdc6d:
+
+    # p "{i}(Fuck...)"
+    p "{i}(Porra...)"
+
+# game/day21.rpy:573
+translate brazilian day21_b_gym_sex_99bc9865:
+
+    # b "I did... I do... I... What a coincidence, right?!"
+    b "Eu disse... Eu tenho... Eu... Que coincidência, né?!"
+
+# game/day21.rpy:574
+translate brazilian day21_b_gym_sex_d38275bc:
+
+    # man "Yeah, I also remember you said he was a total cunt, so it's nice you found a [p_name], who isn't!"
+    man "É, eu também lembro que você disse que ele era um total bosta, então é legal que você achou um [p_name], que não é!"
+
+# game/day21.rpy:575
+translate brazilian day21_b_gym_sex_24c008e3:
+
+    # b "Hahaha! It sure is."
+    b "Hahaha! Com certeza é."
+
+# game/day21.rpy:576
+translate brazilian day21_b_gym_sex_90285634:
+
+    # man "Well, I'll let you go back to working out."
+    man "Bom, vou deixar você voltar a malhar."
+
+# game/day21.rpy:577
+translate brazilian day21_b_gym_sex_9ee609ae:
+
+    # b "Thanks Jake, be seeing you."
+    b "Valeu Jake, até."
+
+# game/day21.rpy:578
+translate brazilian day21_b_gym_sex_abfe29d7:
+
+    # p "Later, Jake."
+    p "Até, Jake."
+
+# game/day21.rpy:580
+translate brazilian day21_b_gym_sex_712f81ec:
+
+    # p "A total cunt?"
+    p "Um total bosta?"
+
+# game/day21.rpy:581
+translate brazilian day21_b_gym_sex_fe00d6cb:
+
+    # b "Yes... well... You know how things were a while back."
+    b "Sim... bom... Você sabe como as coisas eram um tempo atrás."
+
+# game/day21.rpy:586
+translate brazilian day21_b_gym_sex_a459634b:
+
+    # p "I know and I understand. I like the current situation better."
+    p "Eu sei e entendo. Eu gosto mais da situação atual."
+
+# game/day21.rpy:588
+translate brazilian day21_b_gym_sex_26cf29e0:
+
+    # b "Me too!"
+    b "Eu também!"
+
+# game/day21.rpy:591
+translate brazilian day21_b_gym_sex_01e4c0fc:
+
+    # p "Yeah, but I'm a little disappointed that you blabbered about it to everyone, even strangers."
+    p "É, mas eu estou um pouco desapontado que você saiu falando disso para todo mundo, até estranhos."
+
+# game/day21.rpy:592
+translate brazilian day21_b_gym_sex_5a6712b4:
+
+    # b "Jake is not really a stranger. He's the owner of the gym."
+    b "O Jake não é bem um estranho. Ele é o dono da academia."
+
+# game/day21.rpy:593
+translate brazilian day21_b_gym_sex_5482603c:
+
+    # p "Same difference."
+    p "Mesma diferença."
+
+# game/day21.rpy:594
+translate brazilian day21_b_gym_sex_d817793f:
+
+    # b "All right, I'm sorry, okay?"
+    b "Tudo bem, desculpa, ok?"
+
+# game/day21.rpy:595
+translate brazilian day21_b_gym_sex_597a0cab:
+
+    # p "Thank you, that means a lot."
+    p "Obrigado, isso significa muito."
+
+# game/day21.rpy:596
+translate brazilian day21_b_gym_sex_e373cc95:
+
+    # b "That was close..."
+    b "Essa passou perto..."
+
+# game/day21.rpy:597
+translate brazilian day21_b_gym_sex_2173159d:
+
+    # p "Do you think he knew what we were doing?"
+    p "Você acha que ele sabia o que a gente estava fazendo?"
+
+# game/day21.rpy:598
+translate brazilian day21_b_gym_sex_7c89abfd:
+
+    # b "He has his suspicions, I think."
+    b "Acho que ele tinha suspeitas."
+
+# game/day21.rpy:599
+translate brazilian day21_b_gym_sex_d5882690:
+
+    # p "So, no chance of you jerking me off right now?"
+    p "Então, sem chance de você me masturbar agora?"
+
+# game/day21.rpy:600
+translate brazilian day21_b_gym_sex_ef85b22b:
+
+    # b "What?! Here?"
+    b "O quê?! Aqui?"
+
+# game/day21.rpy:601
+translate brazilian day21_b_gym_sex_1e48aeba:
+
+    # p "Just kidding. Though I do have a raging boner right now."
+    p "Brincadeira. Mas eu tenho uma ereção gigantesca agora."
+
+# game/day21.rpy:602
+translate brazilian day21_b_gym_sex_35cb0dc2:
+
+    # b "Sorry."
+    b "Sinto muito."
+
+# game/day21.rpy:603
+translate brazilian day21_b_gym_sex_14437da3:
+
+    # p "Don't be, you just have that effect on me."
+    p "Não sinta, é que você tem esse efeito em mim."
+
+# game/day21.rpy:606
+translate brazilian day21_b_gym_sex_c5a8fed4:
+
+    # "{i}Although you don't really want to, you stop kissing and release her from your embrace."
+    "{i}Apesar de você não realmente não querer, você para de beijá-la e a solta de seu abraço. "
+
+# game/day21.rpy:607
+translate brazilian day21_b_gym_sex_275e1a19:
+
+    # p "Working out..."
+    p "Se exercitar..."
+
+# game/day21.rpy:608
+translate brazilian day21_b_gym_sex_b2e91cce:
+
+    # b "Right. Yes. Very important."
+    b "Isso. Sim. Muito importante."
+
+# game/day21.rpy:618
+translate brazilian day21_b_gym_sex_sub_c02de978:
+
+    # "{i}After a while [b_name] leaves her room and heads out to the gym. You follow her and walk with her, but she tries to ignore you the entire way."
+    "{i}Após um tempo [b_name] sai do quarto dela e vai à academia. Você a segue e anda com ela, mas ela tenta ignorá-lo o caminho inteiro."
+
+# game/day21.rpy:622
+translate brazilian day21_b_gym_sex_sub_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "Então e aqui onde a magia acontece?"
+
+# game/day21.rpy:623
+translate brazilian day21_b_gym_sex_sub_a4a598e3:
+
+    # b "This where I work out, yes. On my own, without any 'help'..."
+    b "É aqui onde eu malho, sim. Sozinha, sem nenhuma 'ajuda'..."
+
+# game/day21.rpy:624
+translate brazilian day21_b_gym_sex_sub_7c7a216e:
+
+    # p "Come on [b_name], you know I can help you reach new heights, the past few days must have proven that at least."
+    p "Poxa [b_name], você sabe que eu posso te ajudar a alcançar novas alturas, os últimos dias devem ter provado isso ao menos."
+
+# game/day21.rpy:625
+translate brazilian day21_b_gym_sex_sub_8d57bbe6:
+
+    # b "You're so bad at innuendo, you know that?"
+    b "Você é tão ruim com indiretas, sabia disso?"
+
+# game/day21.rpy:626
+translate brazilian day21_b_gym_sex_sub_43bbbeed:
+
+    # p "I personally think it's one of my stronger talents."
+    p "Eu pessoalmente acho que é um dos meus melhores talentos."
+
+# game/day21.rpy:627
+translate brazilian day21_b_gym_sex_sub_822213e0:
+
+    # b "Well. Aren't you going to grope me in public or something?"
+    b "Bom. Não vai me apalpar em público nem nada?"
+
+# game/day21.rpy:628
+translate brazilian day21_b_gym_sex_sub_85022ff7:
+
+    # p "Now now, do you think I'm that blunt? Just do your thing. I enjoy watching you."
+    p "Calma, acha que eu sou tão brusco? Só faz o que veio fazer. Eu gosto de assistir você."
+
+# game/day21.rpy:630
+translate brazilian day21_b_gym_sex_sub_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] começa o que deve ser a rotina normal dela. Inicialmente, ela é consciente da sua presença, mas logo ela se distrai nos exercícios físicos."
+
+# game/day21.rpy:631
+translate brazilian day21_b_gym_sex_sub_f7510cab:
+
+    # p "{i}(Hot damn. One of these days she should be doing those squats on my cock.)"
+    p "{i}(Caralho. Um dia desses ela deve estar fazendo aqueles agachamentos no meu pau.)"
+
+# game/day21.rpy:634
+translate brazilian day21_b_gym_sex_sub_65f33abb:
+
+    # "{i}Your sister clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}Sua irmã claramente tem um regime estrito de treino e não se perdoa, o corpo dela está coberto em suor."
+
+# game/day21.rpy:636
+translate brazilian day21_b_gym_sex_sub_5984f925:
+
+    # "{i}[b_name] clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] claramente tem um regime estrito de treino e não se perdoa, o corpo dela está coberto em suor."
+
+# game/day21.rpy:637
+translate brazilian day21_b_gym_sex_sub_8f5eb655:
+
+    # p "{i}(That girl sure has stamina, good to know...)"
+    p "{i}(Essa garota com certeza tem fôlego, bom saber...)"
+
+# game/day21.rpy:638
+translate brazilian day21_b_gym_sex_sub_7f11eca3:
+
+    # p "Hey [b_name], let's go over there. I'll help you train."
+    p "Ei [b_name], vamos ir ali. Vou te ajudar a treinar."
+
+# game/day21.rpy:639
+translate brazilian day21_b_gym_sex_sub_d08b33d2:
+
+    # b "Can't you see I'm busy?"
+    b "Você não consegue ver que eu estou ocupada?"
+
+# game/day21.rpy:640
+translate brazilian day21_b_gym_sex_sub_38b6b876:
+
+    # p "No, you're done here. Come with me."
+    p "Não, você terminou aqui. Vem comigo."
+
+# game/day21.rpy:642
+translate brazilian day21_b_gym_sex_sub_e9742a76:
+
+    # "{i}As you 'help' [b_name] with the exercising, your hands explore the tight fabric of her top. You massage her breasts and linger around her hard nipples. Her measured breathing suddenly falters, and she begins to squirm."
+    "{i}Enquanto você 'ajuda' [b_name] com os exercícios, suas mãos exploram o tecido apertado do sutiã dela. Você massageia os seios e fica mexendo por volta dos mamilos duros dela. A respiração estável dela subitamente vacila e ela começa a se contorcer."
+
+# game/day21.rpy:643
+translate brazilian day21_b_gym_sex_sub_792eb6a8:
+
+    # p "You're doing great so far. Why don't you rub your ass against me?"
+    p "Você está indo muito bem até agora. Por que não esfrega a bunda em mim?"
+
+# game/day21.rpy:644
+translate brazilian day21_b_gym_sex_sub_7bac559a:
+
+    # b "Somebody is going to notice!"
+    b "Alguém vai perceber!"
+
+# game/day21.rpy:645
+translate brazilian day21_b_gym_sex_sub_f3d73fc3:
+
+    # p "In this place? Everybody is too self-absorbed."
+    p "Nesse lugar? Todo mundo está no seu mundinho."
+
+# game/day21.rpy:648
+translate brazilian day21_b_gym_sex_sub_910689c8:
+
+    # "{i}Your sister arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}Sua irmã arqueia as costas, aperta a bunda contra a sua virilha e mexe. Os glúteos dela estimulam a sua ereção crescente. Você sussurra no ouvido dela."
+
+# game/day21.rpy:650
+translate brazilian day21_b_gym_sex_sub_a79d7fe2:
+
+    # "{i}The girl arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}A garota arqueia as costas, aperta a bunda contra a sua virilha e mexe. Os glúteos dela estimulam a sua ereção crescente. Você sussurra no ouvido dela."
+
+# game/day21.rpy:651
+translate brazilian day21_b_gym_sex_sub_e09e2dc9:
+
+    # p "If there wasn't anybody around, I'd rip your clothes off and fuck you right here and now."
+    p "Se não tivesse ninguém por perto, eu arrancaria as suas roupas e te foderia bem aqui e agora."
+
+# game/day21.rpy:657
+translate brazilian day21_b_gym_sex_sub_ae29689c:
+
+    # "{i}You let your fingers slide inside her sports pants, stroke the soft skin of her pubis and work your way further down. [b_name] gasps."
+    "{i}Você deixa seus dedos deslizarem dentro das calças esportivas dela, aperta a pele macia da púbis dela e faz seu caminho para mais longe. [b_name] suspira."
+
+# game/day21.rpy:658
+translate brazilian day21_b_gym_sex_sub_6c438d84:
+
+    # p "Would you like that, [b_name]? Bury my cock deep inside your wet pussy..."
+    p "Gostaria disso, [b_name]? Enterrar meu pau fundo dentro da sua boceta molhada..."
+
+# game/day21.rpy:659
+translate brazilian day21_b_gym_sex_sub_77b110d2:
+
+    # "{i}What you feel inside her tight pants isn't just sweat, as it seems [b_name]'s cunny has responded to your stimulation. To your satisfaction, you notice that she's very wet as your finger slips inside her warm confines."
+    "{i}O que você sente dentro das calças apertadas não é apenas suor, parece que a bocetinha da [b_name] respondeu à sua estimulação. Para sua satisfação, você percebe que ela está muito molhada quando seu dedo desliza para dentro dos confins quentes dela."
+
+# game/day21.rpy:660
+translate brazilian day21_b_gym_sex_sub_5f107e39:
+
+    # p "And that pussy is already wet..."
+    p "E essa boceta já está molhada..."
+
+# game/day21.rpy:661
+translate brazilian day21_b_gym_sex_sub_5d98f8dc:
+
+    # b "Mmmmm... No! It's from the exercises... sweat!"
+    b "Mmmmm... Não! É dos exercícios... suor!"
+
+# game/day21.rpy:662
+translate brazilian day21_b_gym_sex_sub_b845af16:
+
+    # p "Your pussy is dripping wet and your clit... Ah, your clit is as hard as can be."
+    p "A sua boceta está encharcada e o seu clitóris... Ah, o seu clitóris não tem como ficar mais duro."
+
+# game/day21.rpy:664
+translate brazilian day21_b_gym_sex_sub_39f994b7:
+
+    # "{i}You pull her pants down and massage her pussy and clit. Her legs begin to tremble and weakly, she tries to push your hand away."
+    "{i}Você puxa as calças dela para baixo e massageia a boceta e clitóris dela. As pernas dela  começam a tremer e ela fracamente tenta empurrar sua mão para longe."
+
+# game/day21.rpy:666
+translate brazilian day21_b_gym_sex_sub_7f0e271f:
+
+    # p "Are you enjoying yourself, sis?"
+    p "Está se divertindo, mana?"
+
+# game/day21.rpy:668
+translate brazilian day21_b_gym_sex_sub_a677306a:
+
+    # p "Are you enjoying yourself, [b_name]?"
+    p "Está se divertindo, [b_name]?"
+
+# game/day21.rpy:669
+translate brazilian day21_b_gym_sex_sub_1cb8b021:
+
+    # b "No... Aaaaah... Mmmmm..."
+    b "Não... Aaaaai... Mmmmm..."
+
+# game/day21.rpy:670
+translate brazilian day21_b_gym_sex_sub_0c6ffba8:
+
+    # p "It seems you aren't concerned we might get caught?"
+    p "Parece que você não está preocupada em ser pega?"
+
+# game/day21.rpy:671
+translate brazilian day21_b_gym_sex_sub_8054646e:
+
+    # b "Yes... Aah-I am."
+    b "Sim... Aah-eu estou."
+
+# game/day21.rpy:672
+translate brazilian day21_b_gym_sex_sub_abd7fb7b:
+
+    # "{i}[b_name] wriggles against your body, her ass still massaging your cock. She doesn't want to escape from your lustful embrace any longer and gives herself over to your control."
+    "{i}[b_name] se contorce contra seu corpo, a bunda dela ainda massageando seu pau. Ela não quer mais escapar do seu abraço cheio de desejo e se entrega ao seu controle."
+
+# game/day21.rpy:673
+translate brazilian day21_b_gym_sex_sub_22fefb59:
+
+    # p "Do you want to cum?"
+    p "Quer gozar?"
+
+# game/day21.rpy:675
+translate brazilian day21_b_gym_sex_sub_81039d72:
+
+    # b "Y-y-yes!"
+    b "S-s-sim!"
+
+# game/day21.rpy:676
+translate brazilian day21_b_gym_sex_sub_738b71f9:
+
+    # p "Say 'please'."
+    p "Diz 'por favor'."
+
+# game/day21.rpy:677
+translate brazilian day21_b_gym_sex_sub_ac1a813d:
+
+    # b "Please."
+    b "Por favor."
+
+# game/day21.rpy:678
+translate brazilian day21_b_gym_sex_sub_ffe3d7b9:
+
+    # p "'I want you to make me cum, [p_name], please.'"
+    p "'Eu quero que você me faça gozar, [p_name], por favor.'"
+
+# game/day21.rpy:679
+translate brazilian day21_b_gym_sex_sub_f4b1f793:
+
+    # b "F-f-fuck!"
+    b "P-p-porra!"
+
+# game/day21.rpy:680
+translate brazilian day21_b_gym_sex_sub_7ad8d009:
+
+    # b "I want you to make me cum, [p_name], please..."
+    b "Eu quero que você me faça gozar, [p_name], por favor..."
+
+# game/day21.rpy:681
+translate brazilian day21_b_gym_sex_sub_eaa9ca80:
+
+    # p "Good girl."
+    p "Boa garota."
+
+# game/day21.rpy:688
+translate brazilian day21_b_gym_sex_sub_a454ff74:
+
+    # man "Is everything all right, miss? Is this man bothering you?"
+    man "Tudo bem, senhora? Esse homem está te incomodando?"
+
+# game/day21.rpy:689
+translate brazilian day21_b_gym_sex_sub_35ba70ca:
+
+    # b "What?"
+    b "O quê?"
+
+# game/day21.rpy:690
+translate brazilian day21_b_gym_sex_sub_26bba494:
+
+    # p "{i}(Fuck! Has he seen us?)"
+    p "{i}(Porra! Ele viu a gente?)"
+
+# game/day21.rpy:691
+translate brazilian day21_b_gym_sex_sub_9359f322:
+
+    # p "{i}(Don't rat us out, [b_name]!)"
+    p "{i}(Não dedura a gente, [b_name]!)"
+
+# game/day21.rpy:692
+translate brazilian day21_b_gym_sex_sub_dcdc2c9d:
+
+    # b "Everything is fine. We know each other pretty well."
+    b "Tudo bem. A gente se conhece bem."
+
+# game/day21.rpy:693
+translate brazilian day21_b_gym_sex_sub_699164d8:
+
+    # man "Okay... if you say so. Just give a shout if you need anything."
+    man "Ok... Se você diz. Só dá um grito se precisar de alguma coisa."
+
+# game/day21.rpy:694
+translate brazilian day21_b_gym_sex_sub_95a41504:
+
+    # "{i}[b_name] inches closer towards you, almost protectively, her buttocks pressing against your erection which still hasn't subsided."
+    "{i}[b_name] se aproxima de você, quase protetoramente, os glúteos dela pressionando contra sua ereção que ainda não se acalmou."
+
+# game/day21.rpy:695
+translate brazilian day21_b_gym_sex_sub_a06ef875:
+
+    # b "Thank you, but I'm good."
+    b "Obrigada, mas eu estou bem."
+
+# game/day21.rpy:696
+translate brazilian day21_b_gym_sex_sub_764d76e8:
+
+    # man "Okay, well enjoy your workout."
+    man "Ok, bom, aproveita a malhação."
+
+# game/day21.rpy:697
+translate brazilian day21_b_gym_sex_sub_902fabbc:
+
+    # b "I will."
+    b "Eu vou."
+
+# game/day21.rpy:698
+translate brazilian day21_b_gym_sex_sub_cda4a5d4:
+
+    # p "{i}(She was until you interrupted us, you brain-dead beef-bus.)"
+    p "{i}(Ela estava aproveitando até você nos interromper, seu burro sem cérebro.)"
+
+# game/day21.rpy:701
+translate brazilian day21_b_gym_sex_sub_4528da82:
+
+    # "{i}As soon as the guy's back is turned, your sister starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Assim que o cara vira as costas, a sua irmã começa a mover a bunda dela contra a sua virilha novamente. Ela obviamente quer que você continue e olha para você com um olhar desejo e expectativa."
+
+# game/day21.rpy:703
+translate brazilian day21_b_gym_sex_sub_edc2c449:
+
+    # "{i}As soon as the guy's back is turned, [b_name] starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Assim que o cara vira as costas, a [b_name] começa a mover a bunda dela contra a sua virilha novamente. Ela obviamente quer que você continue e olha para você com um olhar desejo e expectativa."
+
+# game/day21.rpy:705
+translate brazilian day21_b_gym_sex_sub_2d5501e5:
+
+    # p "{i}(Now might be a good time to stop things. I'm pretty sure I have her completely ready for what's coming next.)"
+    p "{i}(Agora pode ser uma boa hora para parar as coisas. Estou bem certo de que eu tenho ela completamente pronta para o que vem em seguida.)"
+
+# game/day21.rpy:707
+translate brazilian day21_b_gym_sex_sub_0c82b872:
+
+    # p "{i}(If I stop now, she might be completely ready for what's coming next.)"
+    p "{i}(Se eu parar agora, ela pode estar completamente pronta para o que vem em seguida.)"
+
+# game/day21.rpy:709
+translate brazilian day21_b_gym_sex_sub_c6dfc494:
+
+    # p "{i}(If I stop now, she might be ready for what's coming next.)"
+    p "{i}(Se eu parar agora, ela pode estar pronta para o que vem em seguida.)"
+
+# game/day21.rpy:710
+translate brazilian day21_b_gym_sex_sub_3e8fbb37:
+
+    # p "I'm so sorry [b_name], but that guy completely ruined the mood."
+    p "Eu sinto tanto [b_name], mas aquele cara arruinou completamente o clima."
+
+# game/day21.rpy:711
+translate brazilian day21_b_gym_sex_sub_ef0da038:
+
+    # b "But..."
+    b "Mas..."
+
+# game/day21.rpy:712
+translate brazilian day21_b_gym_sex_sub_df44d03d:
+
+    # b "No!"
+    b "Não!"
+
+# game/day21.rpy:714
+translate brazilian day21_b_gym_sex_sub_dd312059:
+
+    # b "Fine."
+    b "Tudo bem."
+
+# game/day21.rpy:715
+translate brazilian day21_b_gym_sex_sub_587ad8c3:
+
+    # b "Be that way."
+    b "Seja assim."
+
+# game/day21.rpy:716
+translate brazilian day21_b_gym_sex_sub_f68d136a:
+
+    # p "Let me see some squats."
+    p "Deixa eu ver uns agachamentos."
+
+# game/day21.rpy:718
+translate brazilian day21_b_gym_sex_sub_85f7066f:
+
+    # "{i}[b_name] performs some cursory squats, her mind obviously fixed on other things. After she's done, you walk back home in silence."
+    "{i}[b_name] faz alguns agachamentos, a mente dela obviamente fixada em outras coisas. Depois que ela terminou vocês andam de volta para casa em silêncio."
+
+# game/day21.rpy:731
+translate brazilian day21_discreet_session_95fa9f8d:
+
+    # m "Ah, you're finally here again."
+    m "Ah, você finalmente voltou."
+
+# game/day21.rpy:732
+translate brazilian day21_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sim, mestra."
+
+# game/day21.rpy:733
+translate brazilian day21_discreet_session_45a824a7:
+
+    # m "Come to fulfill some of your base desires?"
+    m "Veio para preencher uns dos seus desejos básicos?"
+
+# game/day21.rpy:734
+translate brazilian day21_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sim, mestra."
+
+# game/day21.rpy:735
+translate brazilian day21_discreet_session_cecd225b:
+
+    # m "Undress."
+    m "Tire as roupas."
+
+# game/day21.rpy:736
+translate brazilian day21_discreet_session_4af4498e:
+
+    # p "{i}(Will this ever feel normal, undressing in front of her?)"
+    p "{i}(Será que algum dia isso vai ser normal, tirar as roupas na frente dela?)"
+
+# game/day21.rpy:737
+translate brazilian day21_discreet_session_0549bda9:
+
+    # m "Good. You may open a door."
+    m "Bom. Você pode abrir uma porta."
+
+# game/day21.rpy:738
+translate brazilian day21_discreet_session_05559a6b:
+
+    # "{i}You randomly pick a door and open it, expecting to find another starkly lit dungeon, like the one from the previous session."
+    "{i}Você escolhe uma porta aleatoriamente e a abre, esperando encontrar outra masmorra totalmente iluminada, como a da sessão anterior."
+
+# game/day21.rpy:740
+translate brazilian day21_discreet_session_7d9ea6ef:
+
+    # m "Looks like we're going back to high school."
+    m "Parece que vamos voltar para o ensino médio."
+
+# game/day21.rpy:741
+translate brazilian day21_discreet_session_3344d219:
+
+    # m "Did you have a good time there? Fuck a lot of girls?"
+    m "Se divertiu lá? Fodeu muitas garotas?"
+
+# game/day21.rpy:742
+translate brazilian day21_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Não, mestra."
+
+# game/day21.rpy:743
+translate brazilian day21_discreet_session_e1d72883:
+
+    # m "That's really sad. I think today we'll be able to remedy that."
+    m "Isso é bem triste. Eu acho que hoje vamos conseguir remediar isso."
+
+# game/day21.rpy:744
+translate brazilian day21_discreet_session_443c06ff:
+
+    # p "I look forward to that, mistress."
+    p "Estou ansioso para isso, mestra."
+
+# game/day21.rpy:745
+translate brazilian day21_discreet_session_43af49d1:
+
+    # m "I'm sure you do. Look at that cock of yours, already hard in anticipation."
+    m "Tenho certeza que está. Olha para essa seu pau, já duro de antecipação."
+
+# game/day21.rpy:746
+translate brazilian day21_discreet_session_59677baa:
+
+    # p "{i}(I just can't help it, with you so close...)"
+    p "{i}(Eu não consigo evitar, com você tão perto...)"
+
+# game/day21.rpy:747
+translate brazilian day21_discreet_session_dc1a25c4:
+
+    # m "Have a seat."
+    m "Sente-se."
+
+# game/day21.rpy:750
+translate brazilian day21_discreet_session_cd799cad:
+
+    # "{i}You sit down, naked, on a cold chair. You're pretty sure you've never experienced high school quite like this. [m_name] paces at the front of the classroom."
+    "{i}Você se senta, pelado, em uma cadeira fria. Você está bem certo de que nunca experienciou o ensino médio assim. [m_name] fica na frente da sala de aula."
+
+# game/day21.rpy:751
+translate brazilian day21_discreet_session_943cde36:
+
+    # m "We're waiting for another student."
+    m "Estamos esperando por outra estudante."
+
+# game/day21.rpy:752
+translate brazilian day21_discreet_session_d868e6ee:
+
+    # p "{i}(Looks like Adriana will also be here.)"
+    p "{i}(Parece que Adriana também vem aqui.)"
+
+# game/day21.rpy:756
+translate brazilian day21_discreet_session_b79d2d0c:
+
+    # "{i}After a while, there's a knock on the door."
+    "{i}Após um tempo, alguém bate na porta."
+
+# game/day21.rpy:757
+translate brazilian day21_discreet_session_1cd2afd5:
+
+    # m "Enter."
+    m "Entre."
+
+# game/day21.rpy:762
+translate brazilian day21_discreet_session_22718f3f:
+
+    # p "{i}(Sweet Jesus, what a gorgeous slut she is!)"
+    p "{i}(Meu Jesus, mas que puta maravilhosa que ela é!)"
+
+# game/day21.rpy:763
+translate brazilian day21_discreet_session_13da845d:
+
+    # m "You're late, Adriana."
+    m "Você está atrasada, Adriana."
+
+# game/day21.rpy:764
+translate brazilian day21_discreet_session_84084fce:
+
+    # ad "I'm sorry, mistress."
+    ad "Me desculpe, mestra."
+
+# game/day21.rpy:765
+translate brazilian day21_discreet_session_7bea97c2:
+
+    # m "I don't want to hear your excuses, you know what the punishment is for being late."
+    m "Não quero ouvir suas desculpas, você sabe qual é o castigo por atraso."
+
+# game/day21.rpy:766
+translate brazilian day21_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Sim, mestra."
+
+# game/day21.rpy:767
+translate brazilian day21_discreet_session_4e5cd7f8:
+
+    # m "Remind our other student."
+    m "Relembre nosso outro estudante."
+
+# game/day21.rpy:768
+translate brazilian day21_discreet_session_1a258af7:
+
+    # ad "If we're late, you'll spank our butt."
+    ad "Se nos atrasarmos você vai bater nas nossas bundas."
+
+# game/day21.rpy:769
+translate brazilian day21_discreet_session_af8c729e:
+
+    # m "Indeed. Your ass is in need of a good thrashing."
+    m "De fato. Sua bunda está precisando de uma boa palmadas."
+
+# game/day21.rpy:770
+translate brazilian day21_discreet_session_6ca2764f:
+
+    # m "Come here."
+    m "Vem cá."
+
+# game/day21.rpy:771
+translate brazilian day21_discreet_session_fb194b13:
+
+    # "{i}Adriana walks over to [m_name], giving you a good look of her long legs and her breasts, which are nearly popping out of her tight blouse."
+    "{i}Adriana vai até a [m_name],  dando uma boa visão de suas pernas e seios, que estão praticamente saindo fora da blusa apertada."
+
+# game/day21.rpy:772
+translate brazilian day21_discreet_session_47f81000:
+
+    # m "Bend over."
+    m "Se dobre."
+
+# game/day21.rpy:787
+translate brazilian day21_discreet_session_81d54b29:
+
+    # "{i}Without warning, [m_name] slaps Adriana's left buttock with the flat of her hand. There's a lot of force behind that slap as the older woman doesn't seem to hold back."
+    "{i}Sem avisar, [m_name] dá um tapa na nádega esquerda de Adriana com a palma da mão. Há muita força por trás do tapa, pois a mulher mais velha não parece se conter."
+
+# game/day21.rpy:788
+translate brazilian day21_discreet_session_8be86610:
+
+    # ad "Aaah!"
+    ad "Aaah!"
+
+# game/day21.rpy:789
+translate brazilian day21_discreet_session_fac8bd08:
+
+    # m "You've been a bad girl, Adriana."
+    m "Você tem sido uma garota má, Adriana."
+
+# game/day21.rpy:790
+translate brazilian day21_discreet_session_c3cd8b9c:
+
+    # m "Why are you late for class? Have you been sucking on too many dicks this morning?"
+    m "Por que você está atrasada para a aula? Chupando paus demais hoje de manhã?"
+
+# game/day21.rpy:796
+translate brazilian day21_discreet_session_ad235a4e:
+
+    # ad "No, mistress! I'm sorry, mistress."
+    ad "Não, mestra! Me desculpa, mestra."
+
+# game/day21.rpy:797
+translate brazilian day21_discreet_session_1c6d2797:
+
+    # m "Come now, we all know what a little slut you are."
+    m "Ai, ai, todos nós sabemos que putinha você é."
+
+# game/day21.rpy:798
+translate brazilian day21_discreet_session_55f8bf6a:
+
+    # m "You know it yourself."
+    m "Você sabe bem."
+
+# game/day21.rpy:799
+translate brazilian day21_discreet_session_a77e8295:
+
+    # ad "Y-y-yes, mistress. I'm a little slut."
+    ad "S-s-sim, mestra. Eu sou uma putinha."
+
+# game/day21.rpy:806
+translate brazilian day21_discreet_session_2e53e275:
+
+    # "{i}After another smack, angry red marks appear on Adriana's butt. Her face is contorted in a mixture of pleasure and pain."
+    "{i}Após outra batida, marcas vermelhas fortes aparecem na bunda da Adriana. Seu rosto está contorcido em uma mistura de prazer e dor."
+
+# game/day21.rpy:807
+translate brazilian day21_discreet_session_23bd84e5:
+
+    # m "That's enough for now, sit your ass down."
+    m "Isso é o suficiente por enquanto, sente-se."
+
+# game/day21.rpy:808
+translate brazilian day21_discreet_session_b36f7b39:
+
+    # ad "Y-yes, mistress."
+    ad "S-sim, mestra."
+
+# game/day21.rpy:813
+translate brazilian day21_discreet_session_3ea55cdb:
+
+    # "{i}Adriana slowly walks towards the bench beside you and glances approvingly at your hard-on."
+    "{i}Adriana caminha lentamente em direção ao banco ao seu lado e olha com aprovação para o seu pau duro."
+
+# game/day21.rpy:814
+translate brazilian day21_discreet_session_a76475a6:
+
+    # ad "Permission to speak, mistress."
+    ad "Permissão para falar, mestra."
+
+# game/day21.rpy:815
+translate brazilian day21_discreet_session_03b95061:
+
+    # m "Granted."
+    m "Concedida."
+
+# game/day21.rpy:816
+translate brazilian day21_discreet_session_e09f889a:
+
+    # ad "John seems to enjoy my pain."
+    ad "Parece que John gosta da minha dor."
+
+# game/day21.rpy:817
+translate brazilian day21_discreet_session_4ab303e4:
+
+    # m "Is that so, Mr. Holmes?"
+    m "É mesmo, Sr. Holmes?"
+
+# game/day21.rpy:818
+translate brazilian day21_discreet_session_0bcbcb05:
+
+    # m "Don't say anything, that giant erection is proof enough."
+    m "Não diga nada, essa ereção gigante é prova o suficiente."
+
+# game/day21.rpy:819
+translate brazilian day21_discreet_session_e6ebf136:
+
+    # m "So you like it when little hussies get punished, Johnny-boy?"
+    m "Então você gosta quando putinhas são punidas, Johnzinho?"
+
+# game/day21.rpy:820
+translate brazilian day21_discreet_session_991d47b4:
+
+    # p "Only if they deserve it, mistress."
+    p "Só se elas merecerem, mestra."
+
+# game/day21.rpy:821
+translate brazilian day21_discreet_session_db194f7d:
+
+    # m "Good answer."
+    m "Boa resposta."
+
+# game/day21.rpy:822
+translate brazilian day21_discreet_session_8c7c2a79:
+
+    # m "That boner must be uncomfortable, with the tip pressing against the underside of your desk."
+    m "Essa ereção deve ser desconfortável, com a ponta pressionando contra a parte de baixo da sua mesa."
+
+# game/day21.rpy:823
+translate brazilian day21_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Sim, mestra."
+
+# game/day21.rpy:824
+translate brazilian day21_discreet_session_f8d3b929:
+
+    # m "Well, just think of something else, I'm sure it'll subside in just a moment."
+    m "Bom, só pense em outra coisa, garanto que vai diminuir daqui a pouco."
+
+# game/day21.rpy:825
+translate brazilian day21_discreet_session_c76dd6d3:
+
+    # p "{i}(Fuck no it won't. I'm pretty sure I'm going to lift the table with my dick if this goes on.)"
+    p "{i}(Nem fodendo que vai, tenho quase certeza que vou levantar a mesa com meu pau se isso continuar.)"
+
+# game/day21.rpy:826
+translate brazilian day21_discreet_session_b70ccabd:
+
+    # m "We'll just continue with a lesson in female anatomy."
+    m "Vamos continuar com uma lição em anatomia feminina."
+
+# game/day21.rpy:827
+translate brazilian day21_discreet_session_eb4f4012:
+
+    # p "{i}(I'm dead.)"
+    p "{i}(Fodeu.)"
+
+# game/day21.rpy:828
+translate brazilian day21_discreet_session_0693628f:
+
+    # m "Adriana, come forward."
+    m "Adriana, venha."
+
+# game/day21.rpy:829
+translate brazilian day21_discreet_session_3f715ae8:
+
+    # m "Lose the blouse."
+    m "Tire a blusa."
+
+# game/day21.rpy:831
+translate brazilian day21_discreet_session_71c53910:
+
+    # m "Today will be devoted to a study of the 'ass'."
+    m "Hoje será dedicado a um estudo da 'bunda'."
+
+# game/day21.rpy:832
+translate brazilian day21_discreet_session_0133b8c8:
+
+    # p "{i}(A subject that has always interested me greatly!)"
+    p "{i}(Um assunto que sempre me interessou muito!)"
+
+# game/day21.rpy:833
+translate brazilian day21_discreet_session_5d9dd635:
+
+    # m "Together we'll discover how elastic and versatile the asshole really is."
+    m "Juntos vamos descobrir o quão elástico e versátil o cu realmente é."
+
+# game/day21.rpy:834
+translate brazilian day21_discreet_session_e0aefc29:
+
+    # m "Bend over, Adriana."
+    m "Se dobre, Adriana."
+
+# game/day21.rpy:835
+translate brazilian day21_discreet_session_78341e17:
+
+    # "{i}Without any shame, the receptionist presents her butt to you. [m_name] spreads her cheeks to fully reveal her delicate asshole."
+    "{i}Sem nenhuma vergonha, a recepcionista apresenta a bunda a você. [m_name] abre as nádegas dela para revelar completamente seu cu delicado."
+
+# game/day21.rpy:836
+translate brazilian day21_discreet_session_4004dea2:
+
+    # m "What a sight to behold."
+    m "Mas que vista."
+
+# game/day21.rpy:838
+translate brazilian day21_discreet_session_aae1bcec:
+
+    # m "It looks tight now, but Adriana has already shown what her butthole is capable of."
+    m "Parece apertado agora, mas Adriana já mostrou do que o cu dela é capaz."
+
+# game/day21.rpy:840
+translate brazilian day21_discreet_session_0cd76a53:
+
+    # m "It looks tight now, but with proper training, her butthole will amaze you."
+    m "Parece apertado agora, mas com treinamento apropriado o cu dela vai te maravilhar."
+
+# game/day21.rpy:841
+translate brazilian day21_discreet_session_8bf9df7e:
+
+    # m "Now lick her, make her feel good."
+    m "Agora lambe ela, satisfaça ela."
+
+# game/day21.rpy:847
+translate brazilian day21_discreet_session_8a9142c7:
+
+    # "{i}Encouraged by [m_name], you lower your head between Adriana's spread butt cheeks. The saline smell of her wet cunt tickles your nose as you softly lick the skin leading up to her asshole."
+    "{i}Encorajado pela [m_name], você abaixa sua cabeça entre as nádegas abertas da Adriana. O cheiro salino da boceta molhada dela faz cócegas no seu nariz, enquanto você suavemente lambe a pele levando ao cu dela."
+
+# game/day21.rpy:848
+translate brazilian day21_discreet_session_5fd407ff:
+
+    # "{i}Adriana moans and shudders, wanting you to go on. You don't hesitate and circle around her little star with the tip of your tongue, eliciting even deeper moans from the girl."
+    "{i}Adriana geme e estremece, querendo que você continue. Você não hesita e circula por volta da estrelinha dela com a ponta da língua, provocando ainda mais profundos gemidos da garota."
+
+# game/day21.rpy:849
+translate brazilian day21_discreet_session_d9b6d38c:
+
+    # ad "A-aaa-h. Johnny!"
+    ad "A-aaa-h. Johnzinho!"
+
+# game/day21.rpy:850
+translate brazilian day21_discreet_session_00b7b0f1:
+
+    # m "You hear that? She thinks you're doing very well."
+    m "Está ouvindo? Ela acha que você está indo muito bem."
+
+# game/day21.rpy:852
+translate brazilian day21_discreet_session_cca1ec99:
+
+    # "{i}You focus all your attention on her butthole. With just the tip of your tongue, you lick and tease the folds of her rectum, until it's covered in your saliva."
+    "{i}Você foca toda a sua atenção ao cu dela. Com só a ponta da sua língua, você lambe e provoca as dobras do reto dela, até estar coberto em sua saliva."
+
+# game/day21.rpy:853
+translate brazilian day21_discreet_session_7bfc867d:
+
+    # "{i}Then, using your tongue as a wet spear, you plunge it deep inside her anal cavity. Adriana screams with pleasure as your tongue explores her ass. Her swollen pussy starts dripping with her moisture, wetting her inner thighs and legs."
+    "{i}Então, usando sua língua como uma lança úmida, você mergulha bem no fundo de sua cavidade anal. Adriana grita de prazer enquanto sua língua explora sua bunda. A boceta inchada dela começa a pingar com seus fluidos, molhando as coxas e pernas dela."
+
+# game/day21.rpy:854
+translate brazilian day21_discreet_session_be8504de:
+
+    # m "Stop."
+    m "Pare."
+
+# game/day21.rpy:855
+translate brazilian day21_discreet_session_30669ed0:
+
+    # ad "N-no!"
+    ad "N-não!"
+
+# game/day21.rpy:856
+translate brazilian day21_discreet_session_de238c83:
+
+    # m "What?!"
+    m "O quê?!"
+
+# game/day21.rpy:857
+translate brazilian day21_discreet_session_24403e2c:
+
+    # m "You insolent little whore!"
+    m "Sua vadiazinha insolente!"
+
+# game/day21.rpy:865
+translate brazilian day21_discreet_session_b6cbca5b:
+
+    # "{i}Suddenly, [m_name] grabs Adriana's pussy and appears to pinch her labia, her other hand is clutching several thick locks of her blonde hair."
+    "{i}Subitamente, [m_name] agarra a boceta da Adriana e parece beliscar os lábios dela, a outra mão dela está agarrando vários cachos grossos do cabelo loiro dela."
+
+# game/day21.rpy:866
+translate brazilian day21_discreet_session_ffd66199:
+
+    # m "If I tell you both to stop, you stop!"
+    m "Se eu mandar vocês dois pararem, vocês param!"
+
+# game/day21.rpy:867
+translate brazilian day21_discreet_session_3f669ab9:
+
+    # ad "Ow! Y-y-yes m-m-mistress."
+    ad "Ai! S-s-sim m-m-mestra."
+
+# game/day21.rpy:868
+translate brazilian day21_discreet_session_ee160f64:
+
+    # "{i}While at first it seemed like a painful interaction between the older and younger woman, it now becomes clear that it's just another highly charged game of sexual power."
+    "{i}Enquanto primeiro parecia uma interação dolorosa entre a mulher mais velha e a mais nova, agora se torna claro que é apenas outro jogo de poder sexual."
+
+# game/day21.rpy:869
+translate brazilian day21_discreet_session_dd7915c0:
+
+    # "{i}Adriana looks at [m_name] with a mixture of pain and rapture. She wiggles her abdomen slowly to maximize the sensations she's receiving from the older woman's hold on her pussy lips."
+    "{i}Adriana olha para a [m_name] com uma mistura de dor e êxtase. Ela balança o abdômen lentamente para maximizar as sensações que ela está recebendo do aperto da mulher mais velha nos lábios da boceta dela."
+
+# game/day21.rpy:870
+translate brazilian day21_discreet_session_4d0e2e1c:
+
+    # m "Are you going to behave like a proper slut now?"
+    m "Vai se comportar que nem uma puta boa agora?"
+
+# game/day21.rpy:871
+translate brazilian day21_discreet_session_b36f7b39_1:
+
+    # ad "Y-yes, mistress."
+    ad "S-sim, mestra."
+
+# game/day21.rpy:872
+translate brazilian day21_discreet_session_9c843c05:
+
+    # m "No more talking back?"
+    m "Sem responder mais?"
+
+# game/day21.rpy:873
+translate brazilian day21_discreet_session_0063a328:
+
+    # ad "N-no, mistress."
+    ad "N-não, mestra."
+
+# game/day21.rpy:874
+translate brazilian day21_discreet_session_c08bc8f4:
+
+    # m "Good."
+    m "Bom."
+
+# game/day21.rpy:875
+translate brazilian day21_discreet_session_b30acc03:
+
+    # "{i}With a violent motion, [m_name] releases her grip, and Adriana staggers to keep on her feet. She grabs hold of your arm and steadies herself as [m_name] retrieves something from a closet nearby."
+    "{i}Com um movimento violento, [m_name] te libera enquanto Adriana cambaleia para se manter de pé. Ela agarra seu braço e se equilibra enquanto [m_name] recupera algo de um armário próximo."
+
+# game/day21.rpy:879
+translate brazilian day21_discreet_session_cee64491:
+
+    # m "On with the lesson."
+    m "Continuando a aula."
+
+# game/day21.rpy:880
+translate brazilian day21_discreet_session_644d5579:
+
+    # p "{i}(Jesus, that thing is huge!)"
+    p "{i}(Jesus, aquela coisa é enorme!)"
+
+# game/day21.rpy:881
+translate brazilian day21_discreet_session_11686268:
+
+    # p "{i}(Okay, if she even glances at my ass while she's holding that thing, I'm making a run for it.)"
+    p "{i}(Ok, se ela der qualquer olhada na minha bunda enquanto segura aquela coisa, eu saio correndo.)"
+
+# game/day21.rpy:882
+translate brazilian day21_discreet_session_394aa18d:
+
+    # m "What are you looking at, boy? Interested in getting a taste of this?"
+    m "Está olhando o que, garoto? Interessado em sentir o gostinho disso aqui?"
+
+# game/day21.rpy:883
+translate brazilian day21_discreet_session_cb1f2775:
+
+    # p "{i}(No. No. No, Dear Mother of God and all that is merciful on this earth, FUCKING NO!)"
+    p "{i}(Não. Não. Não, Santa Mãe de Deus e tudo o que é mais sagrado nessa terra, NEM FODENDO!)"
+
+# game/day21.rpy:884
+translate brazilian day21_discreet_session_a559296c:
+
+    # p "Not really, mistress."
+    p "Na verdade não, mestra."
+
+# game/day21.rpy:885
+translate brazilian day21_discreet_session_b414c79e:
+
+    # m "Shame. I guess Adriana will be the lucky one then. Do you want to feel this inside you, Adriana?"
+    m "Uma pena. Acho que a Adriana vai ser a sortuda então. Você quer sentir isso dentro de você, Adriana?"
+
+# game/day21.rpy:886
+translate brazilian day21_discreet_session_310345ff:
+
+    # ad "Very much so, mistress."
+    ad "Quero muito, mestra."
+
+# game/day21.rpy:887
+translate brazilian day21_discreet_session_32a3b246:
+
+    # m "Even if we use it to stretch out your ass some more?"
+    m "Mesmo se usarmos isso para esticar mais um pouco a sua bunda?"
+
+# game/day21.rpy:888
+translate brazilian day21_discreet_session_180ab9ac:
+
+    # ad "I'd love that, mistress."
+    ad "Eu adoraria isso, mestra."
+
+# game/day21.rpy:889
+translate brazilian day21_discreet_session_9bef5f54:
+
+    # m "Spoken like a true slut. Bend over."
+    m "Falou como uma verdadeira puta. Se dobre."
+
+# game/day21.rpy:890
+translate brazilian day21_discreet_session_6b9f91f3:
+
+    # "{i}An undaunted Adriana spreads her ass for you and waits in anticipation."
+    "{i}Uma destemida Adriana abre a bunda para você e espera em antecipação."
+
+# game/day21.rpy:891
+translate brazilian day21_discreet_session_26ecd7dc:
+
+    # m "You may do the honors."
+    m "Pode fazer as honras."
+
+# game/day21.rpy:896
+translate brazilian day21_discreet_session_4c9c7a99:
+
+    # "{i}You grab hold of the monstrosity and push it against Adriana's butthole. She nods at you encouragingly, clenching her teeth in anticipation of the anal insertion."
+    "{i}Você agarra a monstruosidade e empurra contra o cu da Adriana. Ela acena a você encorajadoramente, cerrando os dentes dela em antecipação da inserção anal."
+
+# game/day21.rpy:897
+translate brazilian day21_discreet_session_25c6d253:
+
+    # m "Look at that asshole welcoming that big friend."
+    m "Olha esse cu acolhendo o amigão."
+
+# game/day21.rpy:898
+translate brazilian day21_discreet_session_9c8d0c04:
+
+    # m "Johnny is going to push it all the way up your butt. Make sure it stays there until I say so."
+    m "Jonhzinho vai empurrar até o final na sua bunda. Certifique-se de manter ele aí até eu dizer."
+
+# game/day21.rpy:899
+translate brazilian day21_discreet_session_401a56b0:
+
+    # ad "Aaaah, y-yes, mistress."
+    ad "Aaaah, s-sim, mestra."
+
+# game/day21.rpy:906
+translate brazilian day21_discreet_session_283aa846:
+
+    # "{i}Little by little, you push the dildo further up Adriana's ass. [m_name] spits on it intermittently to make the insertion a little smoother."
+    "{i}Pouco a pouco, você empurra o dildo mais longe na bunda da Adriana. [m_name] cospe nele de forma intermitente para tornar a inserção um pouco mais suave."
+
+# game/day21.rpy:907
+translate brazilian day21_discreet_session_632294ef:
+
+    # m "Halfway there."
+    m "Já foi metade."
+
+# game/day21.rpy:908
+translate brazilian day21_discreet_session_4eb07b22:
+
+    # ad "G-g-god yes!"
+    ad "I-i-isso deus!"
+
+# game/day21.rpy:909
+translate brazilian day21_discreet_session_6ee69e33:
+
+    # "{i}The dildo slides further inside the receptionist than you could have previously imagined it would, widening her rectum considerably, until only the base of the shiny glass thing is sticking out of her."
+    "{i}O dildo entra mais fundo na recepcionista do que você poderia ter imaginado, alargando consideravelmente seu reto, até que apenas a base da coisa brilhante de vidro está fora dela."
+
+# game/day21.rpy:910
+translate brazilian day21_discreet_session_7c928764:
+
+    # m "All done. How are you feeling, Adriana?"
+    m "Tudo pronto. Como está se sentindo, Adriana?"
+
+# game/day21.rpy:911
+translate brazilian day21_discreet_session_9994b310:
+
+    # ad "I'm so very full, mistress."
+    ad "Eu estou tão cheia, mestra."
+
+# game/day21.rpy:912
+translate brazilian day21_discreet_session_5479dcc0:
+
+    # m "Good. You'll be amazed by what your body can hold."
+    m "Ótimo. Você vai se maravilhar com o que o seu corpo pode segurar."
+
+# game/day21.rpy:918
+translate brazilian day21_discreet_session_7153e273:
+
+    # "{i}You spit on the dildo and shove it inside Adriana's ass without hesitation. The girl nearly faints and she screams with abandon."
+    "{i}Você cospe no dildo e o enterra dentro da bunda da Adriana sem hesitação. A garota quase desmaia e grita desesperadamente."
+
+# game/day21.rpy:919
+translate brazilian day21_discreet_session_2076b3ea:
+
+    # m "Jesus Christ, boy, don't break her."
+    m "Jesus Cristo, garoto, não quebra ela."
+
+# game/day21.rpy:920
+translate brazilian day21_discreet_session_178abf2e:
+
+    # ad "G-g-god!!!"
+    ad "D-d-deus!!!"
+
+# game/day21.rpy:921
+translate brazilian day21_discreet_session_6315d5c5:
+
+    # "{i}The dildo is further inside the receptionist than you could have previously imagined it would go, widening her rectum considerably, only the base of the shiny glass thing is sticking out of her. Adriana is still shuddering because of the pain you've caused."
+    "{i}O dildo está mais longe dentro da recepcionista do que você poderia ter imaginado que iria ir, alargando consideravelmente seu reto, até que apenas a base da coisa brilhante de vidro está fora dela. Adriana ainda está tremendo por causa da dor que você causou."
+
+# game/day21.rpy:922
+translate brazilian day21_discreet_session_e04251a6:
+
+    # m "How are you feeling, Adriana?"
+    m "Como está se sentindo, Adriana?"
+
+# game/day21.rpy:923
+translate brazilian day21_discreet_session_f3aa2df0:
+
+    # ad "Full, mistress, it hurts."
+    ad "Cheia, mestra, dói."
+
+# game/day21.rpy:924
+translate brazilian day21_discreet_session_00108dfb:
+
+    # m "The boy will be more gentle next time. But you'll be amazed by what your body can hold."
+    m "O garoto vai ser mais gentil da próxima vez. Mas você vai se maravilhar com o que o seu corpo pode segurar."
+
+# game/day21.rpy:926
+translate brazilian day21_discreet_session_014c5c3d:
+
+    # p "{i}(There's going to be more inside her?)"
+    p "{i}(Vai ter mais dentro dela?)"
+
+# game/day21.rpy:927
+translate brazilian day21_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Sim, mestra."
+
+# game/day21.rpy:931
+translate brazilian day21_discreet_session_2f3f4202:
+
+    # m "I think our boy here deserves a little reward for being extra careful with your precious asshole, doesn't he?"
+    m "Acho que nosso garoto merece uma pequena recompensa por ser extremamente cuidadoso com seu precioso cuzinho, não é?"
+
+# game/day21.rpy:932
+translate brazilian day21_discreet_session_c8cff16a:
+
+    # ad "Certainly, mistress."
+    ad "Certamente, mestra."
+
+# game/day21.rpy:933
+translate brazilian day21_discreet_session_33eb81d1:
+
+    # m "Come here boy, Adriana and I need your cock."
+    m "Venha cá garoto, Adriana e eu precisamos do seu pau."
+
+# game/day21.rpy:934
+translate brazilian day21_discreet_session_7299bde5:
+
+    # p "{i}([m_name] wants my cock, that sounds so perverted.)"
+    p "{i}([m_name] quer meu pau, isso soa tão pervertido.)"
+
+# game/day21.rpy:942
+translate brazilian day21_discreet_session_319e6ba6:
+
+    # "{i}You step forward and a hand wraps around your dick. Adriana massages your balls, but it's [m_name] who takes expert care of your shaft."
+    "{i}Você dá um passo à frente e uma mão envolve seu pau. Adriana massageia suas bolas, mas é [m_name] que cuida muito bem com o seu pau."
+
+# game/day21.rpy:944
+translate brazilian day21_discreet_session_6a5c1352:
+
+    # "{i}Her technique is very different from what you've experienced before. Your mom alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}A técnica dela é muito diferente do que você experienciou antes. Sua mãe alterna entre masturbação pesada e delicada, doces toques indo da base à ponta do seu pau."
+
+# game/day21.rpy:946
+translate brazilian day21_discreet_session_974db97f:
+
+    # "{i}Her technique is very different from what you've experienced before. The older woman alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}A técnica dela é muito diferente do que você experienciou antes. A mulher mais velha alterna entre masturbação pesada e delicada, doces toques indo da base à ponta do seu pau."
+
+# game/day21.rpy:948
+translate brazilian day21_discreet_session_bbf902ab:
+
+    # "{i}Every caress nearly sends you over the edge. You have to grab hold of the table when Adriana moves from slobbering on your balls to licking the perineum and finally your asshole."
+    "{i}Cada carícia quase o leva ao limite. Você tem que agarrar a mesa quando Adriana passa de babar em suas bolas para lamber o períneo e, finalmente, seu cu."
+
+# game/day21.rpy:949
+translate brazilian day21_discreet_session_bbb34183:
+
+    # "{i}[m_name] recognizes your heavy breathing and glassy look as the onset of an orgasm and abruptly stops. The touch of Adriana's tongue is almost immediately gone as well."
+    "{i}[m_name] reconhece sua respiração pesada e seu olhar distante como o início de um orgasmo e para bruscamente. O toque da língua de Adriana também desaparece quase imediatamente."
+
+# game/day21.rpy:953
+translate brazilian day21_discreet_session_4a540abc:
+
+    # p "{i}(Fucking hell, I was just about to spray all over [m_name]'s gorgeous tits.)"
+    p "{i}(Porra do caralho, eu tava prestes a jorrar nos maravilhosos peitos da [m_name].)"
+
+# game/day21.rpy:954
+translate brazilian day21_discreet_session_4bea0be7:
+
+    # m "Not yet."
+    m "Ainda não."
+
+# game/day21.rpy:956
+translate brazilian day21_discreet_session_0a7818ce:
+
+    # m "You two have been very selfish so far."
+    m "Vocês dois estiveram sendo muito egoístas até agora."
+
+# game/day21.rpy:957
+translate brazilian day21_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Sim, mestra."
+
+# game/day21.rpy:958
+translate brazilian day21_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Sim, mestra."
+
+# game/day21.rpy:961
+translate brazilian day21_discreet_session_3b9b8dec:
+
+    # "{i}Adriana and you kneel, as [m_name] presents her cunt to you both. The scent of her slit is very noticeable, she seems aroused."
+    "{i}Adriana e você se ajoelham enquanto [m_name] apresenta a boceta para vocês ambos. A fragrância da boceta dela é muito perceptível, ela parece excitada."
+
+# game/day21.rpy:969
+translate brazilian day21_discreet_session_b0bf49ac:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on your mother's swollen clitoris."
+    "{i}Você enfia seu rosto na boceta da [m_name] e lambe o líquido. Você descansa sua testa contra a grande quantidade de pelo púbico e trabalha no clitóris inchado de sua mãe."
+
+# game/day21.rpy:971
+translate brazilian day21_discreet_session_7f9fa2cd:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on [m_name]'s swollen clitoris."
+    "{i}Você enfia seu rosto na boceta da [m_name] e lambe os fluidos . Você descansa sua testa contra a grande quantidade de pelo púbico e trabalha no clitóris inchado da [m_name]."
+
+# game/day21.rpy:976
+translate brazilian day21_discreet_session_ec7e5c79:
+
+    # "{i}Suddenly, your dangling erection is wrapped in warm wetness, as Adriana starts to suck you off, careful not to lose the dildo that's still buried in her ass."
+    "{i}Subitamente, sua ereção pendurada é embrulhada em um calor molhado, enquanto Adriana começa a te chupar, com cuidado para não tirar o dildo que ainda está enterrado na bunda dela."
+
+# game/day21.rpy:982
+translate brazilian day21_discreet_session_f52b0692:
+
+    # "{i}Adriana pushes her face against [m_name]'s sex and laps up the juices of the older woman. She rests her forehead against the wealth of pubic hair and works on [m_name]'s swollen clitoris."
+    "{i}Adriana enfia o rosto na boceta da [m_name] e lambe os fluidos da mulher mais velha. Ela descansa a testa na abundância de pelos púbicos e trabalha no clitóris inchado da [m_name]."
+
+# game/day21.rpy:983
+translate brazilian day21_discreet_session_63988f51:
+
+    # "{i}While the receptionist is going down on [m_name], the older woman stares at you. It's hard to see with the mask on, but the look of longing in her eyes is unmistakable. She motions you to come forward."
+    "{i}Enquanto a recepcionista está caindo de boca na [m_name], a mulher mais velha olha para você. É difícil ver com a máscara, mas a expressão de desejo em seus olhos é inconfundível. Ela gesticula para que você se aproxime."
+
+# game/day21.rpy:989
+translate brazilian day21_discreet_session_ec5b1fd1:
+
+    # "{i}Her hand wraps around your cock and she demonstrates her superior handjob skills once more."
+    "{i}A mão dela se cerca seu pau e ela demonstra as habilidades superiores de masturbação novamente."
+
+# game/day21.rpy:991
+translate brazilian day21_discreet_session_4caebf8f:
+
+    # "{i}Her hand wraps around your cock as she begins to take expert care of your shaft. Her technique is very different from what you're used to."
+    "{i}A mão dela se embrulha por volta do seu pau e começa a tomar cuidado perito do seu pau. A técnica dela é muito diferente do que o que você está acostumado."
+
+# game/day21.rpy:992
+translate brazilian day21_discreet_session_69775d89:
+
+    # "[m_name] alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "[m_name] alterna entre masturbação pesada e delicada, doces toques indo da base à ponta do seu pau."
+
+# game/day21.rpy:996
+translate brazilian day21_discreet_session_be8504de_1:
+
+    # m "Stop."
+    m "Pare."
+
+# game/day21.rpy:997
+translate brazilian day21_discreet_session_3ff8b72b:
+
+    # p "{i}(Again?! We were just getting started. She sure is in a fickle mood today.)"
+    p "{i}(De novo?! A gente estava só começando. Ela com certeza está num clima instável hoje.)"
+
+# game/day21.rpy:998
+translate brazilian day21_discreet_session_76025ac2:
+
+    # m "I told you that you'd be amazed what a body can hold. Johnny, you're going to demonstrate this on Adriana."
+    m "Eu te contei que você ficaria maravilhada com o que um corpo pode segurar. Johnzinho, você vai demonstrar isso na Adriana."
+
+# game/day21.rpy:999
+translate brazilian day21_discreet_session_80315c1c:
+
+    # p "{i}(Er...)"
+    p "{i}(Er...)"
+
+# game/day21.rpy:1000
+translate brazilian day21_discreet_session_1e472647:
+
+    # m "You're going to fuck her."
+    m "Você vai foder ela."
+
+# game/day21.rpy:1001
+translate brazilian day21_discreet_session_05f591c6:
+
+    # m "Adriana, keep that dildo inside you as long as possible or you'll be punished."
+    m "Adriana, fique com esse dildo dentro de você durante o maior tempo possível ou será punida."
+
+# game/day21.rpy:1002
+translate brazilian day21_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Sim, mestra."
+
+# game/day21.rpy:1004
+translate brazilian day21_discreet_session_c47e622c:
+
+    # m "The same goes for you, Mr. Holmes. If you rough her up like you did before, this session is over."
+    m "O mesmo vai para você, Sr. Holmes, se você pegar pesado com ela como fez antes, esta sessão acabou."
+
+# game/day21.rpy:1008
+translate brazilian day21_discreet_session_61f2aaa4:
+
+    # "{i}You grab Adriana by the waist and hold her close, your erection pressing between her thighs."
+    "{i}Você agarra Adriana pelo quadril e segura ela perto, sua ereção pressionando contra as coxas dela."
+
+# game/day21.rpy:1009
+translate brazilian day21_discreet_session_db0126f3:
+
+    # p "I need you to lie down."
+    p "Eu preciso que você se deite."
+
+# game/day21.rpy:1010
+translate brazilian day21_discreet_session_60b86177:
+
+    # ad "Please be gentle with me. My ass is burning up."
+    ad "Por favor seja gentil comigo. Minha bunda está pegando fogo."
+
+# game/day21.rpy:1015
+translate brazilian day21_discreet_session_0141c872:
+
+    # "{i}Adriana lowers herself to the ground, and you spread her long legs, giving you a nice view of her glistening pussy and the glass dildo that's rooted in her asshole."
+    "{i}Adriana se abaixa ao chão e você abre as longas pernas dela, recebendo uma boa vista da boceta brilhante dela e o dildo de vidro que está enfiado no cu dela."
+
+# game/day21.rpy:1017
+translate brazilian day21_discreet_session_cee75536:
+
+    # "{i}You push your dick inside her."
+    "{i}Você empurra seu pau dentro dela."
+
+# game/day21.rpy:1019
+translate brazilian day21_discreet_session_1d7140bd:
+
+    # "{i}You push your dick inside her at a maddeningly slow pace."
+    "{i}Você enfia seu pau dentro dela em um ritmo irritantemente lento."
+
+# game/day21.rpy:1020
+translate brazilian day21_discreet_session_8afa8a51:
+
+    # ad "Ah! Aaah! Aaaaah! It won't fit. I'm too full."
+    ad "Ah! Aaah! Aaaaaih! Não vai caber. Eu estou cheia demais."
+
+# game/day21.rpy:1022
+translate brazilian day21_discreet_session_49c2741d:
+
+    # "{i}She seems tighter than the last time you fucked her, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Ela parece mais apertada do que a última vez que você a fodeu, algo que pode ser devido ao dildo gigante já enchendo a bunda dela até quase estourar."
+
+# game/day21.rpy:1024
+translate brazilian day21_discreet_session_ca07fcf9:
+
+    # "{i}She seems very tight, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Ela parece muito apertada, algo que pode ser devido ao dildo gigante já enchendo a bunda dela até quase estourar."
+
+# game/day21.rpy:1030
+translate brazilian day21_discreet_session_aa47aa24:
+
+    # "{i}You wait for Adriana to adjust to being penetrated vaginally and anally at the same time and start fucking her with deep strokes."
+    "{i}Você espera a Adriana se ajustar para ser penetrada vaginalmente e analmente ao mesmo tempo e começa a foder ela com enfiadas profundas."
+
+# game/day21.rpy:1033
+translate brazilian day21_discreet_session_f130bda2:
+
+    # "{i}You start fucking her with deep strokes immediately, not waiting for Adriana to adjust to being penetrated vaginally and anally at the same time."
+    "{i}Você começa a foder ela com enfiadas profundas imediatamente, não esperando Adriana se ajustar para ser penetrada vaginalmente e analmente ao mesmo tempo."
+
+# game/day21.rpy:1035
+translate brazilian day21_discreet_session_510ffa8d:
+
+    # "{i}The girl screams and moans in your ear, with [m_name] leaning on a table pleasuring herself with her fingers."
+    "{i}A garota grita e geme no seu ouvido, com [m_name] inclinando-se em uma mesa, satisfazendo-se com os dedos."
+
+# game/day21.rpy:1036
+translate brazilian day21_discreet_session_fe3ca7a2:
+
+    # m "Fuck her, John. She's all yours now."
+    m "Fode ela, John. Ela é toda sua agora."
+
+# game/day21.rpy:1037
+translate brazilian day21_discreet_session_27744061:
+
+    # ad "G-g-god. Fuck yes. Harder! Aaaah!"
+    ad "D-d-deus. Isso, porra. Mais forte! Aaaah!"
+
+# game/day21.rpy:1038
+translate brazilian day21_discreet_session_71b5576b:
+
+    # "{i}You attack Adriana's pussy with several short, hard thrusts to maximize the sensations her pussy gives you."
+    "{i}Você ataca a boceta com várias curtas, fortes enfiadas para maximizar as sensações que a boceta dela dá."
+
+# game/day21.rpy:1043
+translate brazilian day21_discreet_session_cdb07dd9:
+
+    # "{i}Adriana's moans have been reduced to one long, hoarse, guttural sound as she climaxes on your cock. Because of the violent contractions of her cunt, her ass involuntarily gives birth to the glass monster that has remained up her butt for a large part of the session."
+    "{i}Os gemidos da Adriana foram reduzidos a um som longo e rouco quando chega no clímax no seu pau. Devido às contrações violentas da boceta, a bunda dela involuntariamente dá a luz ao monstro de vidro que permaneceu na lá por grande parte da sessão."
+
+# game/day21.rpy:1044
+translate brazilian day21_discreet_session_806f029d:
+
+    # "{i}Because of all the attention your dick has already gotten and the stimulation of Adriana's tightened pussy, you have trouble not ejaculating inside her right away. You've managed to last several minutes, but now the moment has come."
+    "{i}Devido a toda a atenção que seu pau já conseguiu e a estimulação da boceta apertada da Adrina, você tem dificuldade para não ejacular dentro dela logo de cara. Você conseguiu durar por vários minutos, mas agora o momento chegou."
+
+# game/day21.rpy:1052
+translate brazilian day21_discreet_session_a08d2305:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1053
+translate brazilian day21_discreet_session_ef733f88:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pump a great amount of semen inside her vagina. Her moans of pleasure turn into sounds of delight and fulfillment."
+    "{i}Durante um dos gritos extáticos da Adriana, você bombeia uma grande quantidade de sêmen dentro de sua vagina. Os gemidos de prazer dela se tornam sons de deleite e satisfação."
+
+# game/day21.rpy:1068
+translate brazilian day21_discreet_session_a08d2305_1:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1069
+translate brazilian day21_discreet_session_40b55b0a:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her belly, thighs and pussy. Her moans of pleasure turn into sounds of delight and fulfillment as she rubs your seed on her labia and in her vagina."
+    "{i}Durante um dos gritos extáticos da Adriana, você tira seu pau e atira uma grande quantidade de sêmen na barriga, coxas e boceta dela. Os gemidos de prazer dela se tornam sons de deleite e satisfação enquanto ela esfrega sua semente da lábia dela e na vagina."
+
+# game/day21.rpy:1081
+translate brazilian day21_discreet_session_a08d2305_2:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1082
+translate brazilian day21_discreet_session_f09786d4:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her face. Her moans of pleasure turn into sounds of delight and fulfillment as she licks sperm from the corners of her mouth and from the tips of her fingers."
+    "{i}Durante um dos gritos extáticos da Adriana, você tira seu pau e atira uma grande quantidade de sêmen no rosto dela. Os gemidos de prazer dela se tornam sons de deleite e satisfação enquanto ela lambe a esperma dos cantos da boca e das pontas dos dedos dela."
+
+# game/day21.rpy:1089
+translate brazilian day21_discreet_session_7f7ddd28:
+
+    # m "You've both pleased me greatly."
+    m "Vocês dois me agradaram muito."
+
+# game/day21.rpy:1090
+translate brazilian day21_discreet_session_44633398:
+
+    # m "Class dismissed."
+    m "Classe dispensada."
+
+# game/day21.rpy:1105
+translate brazilian day21_r_sex_183f3c2a:
+
+    # r "Mmmm, come to bed, [p_name]!"
+    r "Mmmm, vem para cama, [p_name]!"
+
+# game/day21.rpy:1107
+translate brazilian day21_r_sex_d35cef7c:
+
+    # "{i}As soon as you're next to her naked body, [r_name] showers you with kisses."
+    "{i}Assim que você está ao lado do corpo pelado dela, [r_name] o banha com beijos."
+
+# game/day21.rpy:1109
+translate brazilian day21_r_sex_c35c620c:
+
+    # r "I've wanted to do that all day!"
+    r "Eu queria fazer isso o dia todo!"
+
+# game/day21.rpy:1110
+translate brazilian day21_r_sex_6b728219:
+
+    # p "I won't stop you!"
+    p "Não vou te parar!"
+
+# game/day21.rpy:1112
+translate brazilian day21_r_sex_4f3b3ec5:
+
+    # r "[p_name]?"
+    r "[p_name]?"
+
+# game/day21.rpy:1113
+translate brazilian day21_r_sex_061e5381:
+
+    # p "Yes?"
+    p "Sim?"
+
+# game/day21.rpy:1114
+translate brazilian day21_r_sex_8afa1463:
+
+    # r "I'd like to try it again."
+    r "Eu gostaria de tentar de novo."
+
+# game/day21.rpy:1115
+translate brazilian day21_r_sex_64aef23e:
+
+    # p "{i}(Hallelujah!)"
+    p "{i}(Aleluia!)"
+
+# game/day21.rpy:1116
+translate brazilian day21_r_sex_0cee0f25:
+
+    # r "Sex. With you, I mean."
+    r "Sexo. Digo, com você."
+
+# game/day21.rpy:1117
+translate brazilian day21_r_sex_9bef8224:
+
+    # p "{i}(That really doesn't need further explaining.)"
+    p "{i}(Isso realmente não precisava de mais explicação.)"
+
+# game/day21.rpy:1122
+translate brazilian day21_r_sex_2b161618:
+
+    # "{i}Very slowly, you move down her body, opening her legs and kissing the soft skin of her thighs."
+    "{i}Muito lentamente, você vai descendo no corpo dela, abrindo suas pernas e beijando a pele macia das coxas."
+
+# game/day21.rpy:1123
+translate brazilian day21_r_sex_afe6ba4e:
+
+    # p "Ah, there's your pussy and you want me there, inside you?"
+    p "Ah, está aí a sua boceta e você me quer aí, dentro de você?"
+
+# game/day21.rpy:1124
+translate brazilian day21_r_sex_ba08c474:
+
+    # r "Mmmm, yes!"
+    r "Mmmm, sim!"
+
+# game/day21.rpy:1125
+translate brazilian day21_r_sex_6de4963a:
+
+    # p "Let's start by making this as pleasurable for you as possible."
+    p "Vamos começar deixando isso o mais agradável para você possível."
+
+# game/day21.rpy:1130
+translate brazilian day21_r_sex_2b793e9f:
+
+    # "{i}[r_name]'s pussy is already wet in anticipation of your cock. You lap up her juices from her lower lips and teasingly lick her clitoris, which is growing ever so slightly with all the attention you're giving her pussy."
+    "{i}A boceta da [r_name] já está molhada em antecipação do seu pau. Você lambe os fluidos dos lábios baixos dela e provocadoramente lambe o clitóris dela, que está crescendo levemente com toda a atenção que você está dando à boceta dela."
+
+# game/day21.rpy:1131
+translate brazilian day21_r_sex_9a09c4ba:
+
+    # r "Oooh, [p_name]! I want you!"
+    r "Aaah, [p_name]! Eu te quero!"
+
+# game/day21.rpy:1136
+translate brazilian day21_r_sex_c7dd698d:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside your sister's wet mound. She holds her breath, and you feel her tense up."
+    "{i}Sem esperar mais, você enfia a ponta do seu pau ereto dentro da boceta molhada da sua irmã. Ela segura a respiração e você sente ela ficar tensa."
+
+# game/day21.rpy:1138
+translate brazilian day21_r_sex_feee2adf:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside [r_name]'s wet mound. She holds her breath, and you feel her tense up."
+    "{i}Sem esperar mais, você enfia a ponta do seu pau ereto dentro da boceta molhada da [r_name]. Ela segura a respiração e você sente ela ficar tensa."
+
+# game/day21.rpy:1139
+translate brazilian day21_r_sex_fb74d315:
+
+    # p "Let it go, sweetie, I won't hurt you."
+    p "Calma, docinho, eu não vou te machucar."
+
+# game/day21.rpy:1140
+translate brazilian day21_r_sex_8aa021ca:
+
+    # r "You'll stop when it hurts?"
+    r "Você vai parar quando doer?"
+
+# game/day21.rpy:1141
+translate brazilian day21_r_sex_0c66aa18:
+
+    # p "{i}(Poor thing. Her deflowering must have been a little bit more uncomfortable than she let on.)"
+    p "{i}(Coitada. O defloramento dela deve ter sido um pouco mais desconfortável do que ela mostrou.)"
+
+# game/day21.rpy:1142
+translate brazilian day21_r_sex_09fbac9e:
+
+    # p "Of course. It doesn't hurt now, does it?"
+    p "É claro. Não dói agora, dói?"
+
+# game/day21.rpy:1143
+translate brazilian day21_r_sex_41831fd0:
+
+    # r "Actually, no."
+    r "Na verdade, não."
+
+# game/day21.rpy:1148
+translate brazilian day21_r_sex_72e6de02:
+
+    # "{i}Before penetrating her deeper, you kiss her breasts. When you finally suck on her erect nipples, [r_name] seems to lose control and gives herself over to passion."
+    "{i}Antes de penetrá-la mais fundo, você beija os seios dela. Quando você finalmente chupa os mamilos eretos dela, [r_name] parece perder o controle e se entrega à paixão."
+
+# game/day21.rpy:1154
+translate brazilian day21_r_sex_3ed13e97:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. Your sister just moans, every thought of pain forgotten."
+    "{i}Seu pau desliza mais longe dentro da boceta molhada dela sem muito esforço. Sua irmã só geme, qualquer pensamento de dor esquecido."
+
+# game/day21.rpy:1156
+translate brazilian day21_r_sex_10ab6a76:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. [r_name] just moans, every thought of pain forgotten."
+    "{i}Seu pau desliza mais longe dentro da boceta molhada dela sem muito esforço. [r_name] só geme, qualquer pensamento de dor esquecido."
+
+# game/day21.rpy:1157
+translate brazilian day21_r_sex_062dbcb2:
+
+    # "{i}You establish a slow rhythm, keeping your attention focused on [r_name]'s firm breasts. Her hands are in your hair and on your back, touching, feeling, clawing. Her voice is a nearly inaudible whisper in your ear."
+    "{i}Você estabelece um ritmo lento, mantendo sua atenção focada nos seios firmes da [r_name]. As mãos dela estão em seu cabelo e nas suas costas, tocando, sentindo, agarrando. A voz dela é um sussurro quase inaudível em seu ouvido."
+
+# game/day21.rpy:1158
+translate brazilian day21_r_sex_5739fba5:
+
+    # r "Aaah! G-g-god yes!"
+    r "Aaaih! M-m-meu Deus, isso!"
+
+# game/day21.rpy:1159
+translate brazilian day21_r_sex_a973011c:
+
+    # r "Keep fucking me! Don't stop. I-it... I-t feels s-so good!"
+    r "Continua me fodendo! Não para. É-é... É-é t-tão bom!"
+
+# game/day21.rpy:1160
+translate brazilian day21_r_sex_5a9f2778:
+
+    # p "G-aaah. Do you want to cum, [r_name]? Cum all over my cock?"
+    p "G-aaah. Quer gozar, [r_name]? Gozar por cima do meu pau todo?"
+
+# game/day21.rpy:1161
+translate brazilian day21_r_sex_4ef40ea8:
+
+    # r "Y-y-yes! But you need to go deeper, I want to feel more of you!"
+    r "S-s-sim! Mas você tem que ir mais fundo, eu quero sentir mais de você!"
+
+# game/day21.rpy:1166
+translate brazilian day21_r_sex_06a44c8d:
+
+    # "{i}When you pull out, [r_name] seems temporarily disappointed. Wordlessly, as if your bodies are perfectly attuned to each other, you change positions, kissing passionately."
+    "{i}Quando você puxa o pau para fora, [r_name] parece temporariamente desapontada. Sem palavras, como se seus corpos estivessem perfeitamente sintonizados um ao outro, vocês trocam de posições, se beijando apaixonadamente."
+
+# game/day21.rpy:1174
+translate brazilian day21_r_sex_4aefab26:
+
+    # "{i}Gently, you push your sister down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Gentilmente, você empurra sua irmã para baixo na cama, a bundinha dela orgulhosa no ar. A boceta molhada dela brilha na luz enquanto [r_name] traz os dedos dela ao clitóris e começa a esfregá-lo."
+
+# game/day21.rpy:1176
+translate brazilian day21_r_sex_5d8513af:
+
+    # "{i}Gently, you push [r_name] down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Gentilmente, você empurra [r_name] para baixo na cama, a bundinha dela orgulhosa no ar. A boceta molhada dela brilha na luz enquanto [r_name] traz os dedos dela ao clitóris e começa a esfregá-lo."
+
+# game/day21.rpy:1177
+translate brazilian day21_r_sex_6e94723b:
+
+    # "{i}This time, your dick doesn't encounter any resistance and slips into the tight confines of her vulva. It's soon inside her to the root. [r_name] is still fingering herself and lets out a muffled moan in the bedsheets."
+    "{i}Dessa vez, seu pau não encontra nenhuma resistência e entra nos confins apertados da vulva dela. Ele logo entra até a raiz. [r_name] ainda está se dedando e deixa sair um gemido abafado nos lençóis."
+
+# game/day21.rpy:1178
+translate brazilian day21_r_sex_06fa7ad7:
+
+    # r "F-f-fuck! Mmmmmm!"
+    r "P-p-porra! Mmmmm!"
+
+# game/day21.rpy:1180
+translate brazilian day21_r_sex_1871e2db:
+
+    # "{i}You grab [r_name]'s body tightly and fuck her with deep short thrusts. Her breathing is ragged and she has stopped masturbating, completely mesmerized by your cock inside her little pussy."
+    "{i}Você agarra o corpo da [r_name] firmemente e a fode com profundas curtas enfiadas. A respiração dela é irregular e ela parou de se masturbar, completamente hipnotizada pelo seu pau dentro da bocetinha dela."
+
+# game/day21.rpy:1181
+translate brazilian day21_r_sex_a5f809cf:
+
+    # r "D-don't stop! Keep doing that!"
+    r "N-não para! Continua fazendo isso!"
+
+# game/day21.rpy:1183
+translate brazilian day21_r_sex_0848df1d:
+
+    # "{i}The position in which you're fucking her makes your sister feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}A posição em que você está fodendo ela faz a sua irmã sentir ainda mais apertada que antes. O início do orgasmo dela adiciona a essa sensação maravilhosa."
+
+# game/day21.rpy:1185
+translate brazilian day21_r_sex_f6839b33:
+
+    # "{i}The position in which you're fucking her makes [r_name] feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}A posição em que você está fodendo ela faz [r_name] ser ainda mais apertada do que antes. O início do orgasmo dela adiciona a essa sensação maravilhosa."
+
+# game/day21.rpy:1186
+translate brazilian day21_r_sex_4d3d226b:
+
+    # p "Am I making you cum, [r_name]?"
+    p "Eu estou te fazendo gozar, [r_name]?"
+
+# game/day21.rpy:1191
+translate brazilian day21_r_sex_5da6ff73:
+
+    # r "Y-y-yes! I'm cumming, [p_name]!"
+    r "S-s-sim! Eu estou gozando, [p_name]!"
+
+# game/day21.rpy:1193
+translate brazilian day21_r_sex_7f6c078a:
+
+    # "{i}Her orgasm is so powerful that you need to hold her close to you, otherwise your dick would escape her slippery vagina. [r_name] shakes, trembles and moans while you continue to fuck her, extending her vaginal climax."
+    "{i}O orgasmo dela é tão poderoso que você precisa segurar ela perto de você, caso contrário o seu pau escaparia da vagina escorregadia dela. [r_name] treme e geme enquanto você continua a fodê-la, estendendo o clímax vaginal."
+
+# game/day21.rpy:1194
+translate brazilian day21_r_sex_643605f9:
+
+    # r "M-m-more! Oh yes! G-gggg-gg-hhhh!"
+    r "M-m-mais! Ah sim! G-gggg-gg-hhhh!"
+
+# game/day21.rpy:1195
+translate brazilian day21_r_sex_b965a711:
+
+    # "{i}The convulsions of her vagina are too much for you, and you feel your own orgasm approaching."
+    "{i}As convulsões da vagina dela são demais, e você sente seu próprio orgasmo se aproximando."
+
+# game/day21.rpy:1206
+translate brazilian day21_r_sex_01df82f5:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. Your sister gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Após algumas últimas enfiadas desesperadas, você tira o pau do corpo trêmulo da [r_name] e jorra uma fonte de sêmen na bunda e nas costas dela. Sua irmã usa alguns dos dedos dela e lambe sem pensar os fluidos salgados."
+
+# game/day21.rpy:1208
+translate brazilian day21_r_sex_0ceb8f41:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. [r_name] gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Após algumas últimas enfiadas desesperadas, você tira o seu pau do corpo trêmulo da [r_name] e jorra uma fonte de sêmen na bunda e nas costas dela. [r_name] usa alguns dos dedos dela e lambe sem pensar os fluidos salgados."
+
+# game/day21.rpy:1224
+translate brazilian day21_r_sex_e09afb67:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. Your sister is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Após algumas últimas enfiadas desesperadas, você tira o seu pau do corpo trêmulo da [r_name] e borrifa uma fonte de porra na boca aberta dela. Sua irmã está imersa demais para perceber as gotas de porra batendo no rosto dela e engole seu presente salgado com um grande sorriso no rosto."
+
+# game/day21.rpy:1226
+translate brazilian day21_r_sex_a6b2abd2:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. [r_name] is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Após algumas últimas enfiadas desesperadas, você tira o seu pau do corpo trêmulo da [r_name] e borrifa uma fonte de porra na boca aberta dela. [r_name] está imersa demais para perceber as gotas de porra batendo no rosto dela e engole seu presente salgado com um grande sorriso no rosto."
+
+# game/day21.rpy:1242
+translate brazilian day21_r_sex_b1afa108:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. Your sister is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Após algumas últimas enfiadas desesperadas, você tira o seu pau do corpo trêmulo da [r_name] e borrifa uma fonte de porra na cerejinha doce dela. Sua irmã está imersa demais para perceber a corrente de porra eventualmente vazando da boceta dela e engole só te segura com um grande sorriso no rosto."
+
+# game/day21.rpy:1244
+translate brazilian day21_r_sex_70843b19:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. [r_name] is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Após algumas últimas enfiadas desesperadas você puxa o pau para fora do corpo trêmulo da [r_name] e borrifa uma fonte de porra na cerejinha doce dela. [r_name] está imersa demais para perceber a corrente de porra eventualmente vazando da boceta dela e engole só te segura com um grande sorriso no rosto."
+
+# game/day21.rpy:1255
+translate brazilian day21_r_sex_00e851ae:
+
+    # r "God, [p_name]!"
+    r "Deus, [p_name]!"
+
+# game/day21.rpy:1256
+translate brazilian day21_r_sex_7436789c:
+
+    # p "How was your second time, sweetling?"
+    p "Como foi sua segunda vez, docinho?"
+
+# game/day21.rpy:1258
+translate brazilian day21_r_sex_1f0a1364:
+
+    # r "Much, much better than the first!"
+    r "Muito, muito melhor que a primeira!"
+
+# game/day21.rpy:1259
+translate brazilian day21_r_sex_71d914f9:
+
+    # r "I didn't know that was possible."
+    r "Eu não sabia que isso era possível."
+
+# game/day21.rpy:1260
+translate brazilian day21_r_sex_1b640dae:
+
+    # p "What?"
+    p "O quê?"
+
+# game/day21.rpy:1261
+translate brazilian day21_r_sex_623ceddc:
+
+    # r "You know... Climaxing like that..."
+    r "Você sabe... Ter um orgasmo assim..."
+
+# game/day21.rpy:1262
+translate brazilian day21_r_sex_011fd287:
+
+    # p "It helps if you know the right spot."
+    p "Ajuda se você souber o lugar certo."
+
+# game/day21.rpy:1263
+translate brazilian day21_r_sex_c586f7e7:
+
+    # r "You certainly knew."
+    r "Você certamente sabia."
+
+# game/day21.rpy:1265
+translate brazilian day21_r_sex_353e9266:
+
+    # r "Did Sasha teach you that?"
+    r "A Sasha que se ensinou isso?"
+
+# game/day21.rpy:1266
+translate brazilian day21_r_sex_01358bcd:
+
+    # p "She did, actually."
+    p "Ela ensinou, na verdade."
+
+# game/day21.rpy:1267
+translate brazilian day21_r_sex_2d68243f:
+
+    # r "You have to tell me about it some time. But now I'm so very tired, you've worn me out completely."
+    r "Você tem que me contar sobre isso alguma hora. Mas agora eu estou tão cansada, você me drenou completamente."
+
+# game/day21.rpy:1269
+translate brazilian day21_r_sex_34eb5d2d:
+
+    # r "I'm so very tired, you've worn me out completely."
+    r "Eu estou tão cansada, você me drenou completamente."
+
+# game/day21.rpy:1270
+translate brazilian day21_r_sex_9f7e8041:
+
+    # p "Sweet dreams."
+    p "Bons sonhos."
+
+# game/day21.rpy:1271
+translate brazilian day21_r_sex_1eae2286:
+
+    # r "I love you."
+    r "Eu te amo."
+
+# game/day21.rpy:1273
+translate brazilian day21_r_sex_1db7fa33:
+
+    # "{i}[r_name] snuggles on your chest and falls asleep very easily after a contented sigh. You follow her almost immediately afterwards."
+    "{i}[r_name] se aconchega no seu peito e cai no sono muito facilmente após um suspiro contente. Você a segue quase imediatamente depois."
 

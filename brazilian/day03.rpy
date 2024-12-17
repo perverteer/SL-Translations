@@ -2468,3 +2468,119 @@ translate brazilian day03_dinner_e4f9b932:
     # r "Nah. Never mind."
     r "Não. Esquece."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day03.rpy:395
+translate brazilian day03_drinks_eb116efd:
+
+    # "{i}You push her hand away."
+    "{i}Você empurra a mão dela."
+
+# game/day03.rpy:397
+translate brazilian day03_drinks_2a4ab6c8:
+
+    # a "Better leave you guys to it then. Come Alina."
+    a "Melhor deixar vocês aí então. Vem Alina."
+
+# game/day03.rpy:398
+translate brazilian day03_drinks_fa2635b0:
+
+    # al "Bye."
+    al "Tchau."
+
+# game/day03.rpy:403
+translate brazilian day03_drinks_2284cd57:
+
+    # j "You're in a world of trouble, my man."
+    j "Você tá tão fodido, cara."
+
+# game/day03.rpy:406
+translate brazilian day03_drinks_a716609c:
+
+    # p "{i}(What?! Did he notice something?)"
+    p "{i}(O quê?! Ele percebeu alguma coisa?)"
+
+# game/day03.rpy:407
+translate brazilian day03_drinks_9d4df256:
+
+    # p "{i}(Best play it cool.)"
+    p "{i}(Melhor tentar disfarçar.)"
+
+# game/day03.rpy:408
+translate brazilian day03_drinks_ea0f688b:
+
+    # p "How come?"
+    p "Como assim?"
+
+# game/day03.rpy:409
+translate brazilian day03_drinks_496e1be6:
+
+    # j "It seems Ana has taken an interest in you."
+    j "Parece que a Ana tá interessada em você."
+
+# game/day03.rpy:410
+translate brazilian day03_drinks_fd5f55ba:
+
+    # p "Oh."
+    p "Ah."
+
+# game/day03.rpy:411
+translate brazilian day03_drinks_9d91dc7b:
+
+    # j "I know that look in her eye."
+    j "Eu conheço aquela olhar no olho dela."
+
+# game/day03.rpy:414
+translate brazilian day03_drinks_a5f8b0f9:
+
+    # p "She's fucking hot. So I hope you don't mind."
+    p "Ela é tão gostosa. Se você não se importar."
+
+# game/day03.rpy:415
+translate brazilian day03_drinks_5d28297f:
+
+    # j "Hell no! I'd sure know what to do if she weren't my sister!"
+    j "Claro que não! Eu sei exatamente o que faria se ela não fosse minha irmã!"
+
+# game/day03.rpy:417
+translate brazilian day03_drinks_62340ac7:
+
+    # j "Maybe Alina wants to go out with me, then we'd be dating the two hottest girls in college!"
+    j "Talvez a Alina queira sair comigo, Estaríamos namorando as duas garotas mais gostosas da faculdade!"
+
+# game/day03.rpy:418
+translate brazilian day03_drinks_35fefc3b:
+
+    # p "Keep on dreaming!"
+    p "Vai sonhando!"
+
+# game/day03.rpy:419
+translate brazilian day03_drinks_b42022b5:
+
+    # j "Hehehehe."
+    j "Hehehehe."
+
+# game/day03.rpy:422
+translate brazilian day03_drinks_71680f12:
+
+    # p "I'm not really interested in her."
+    p "Eu não tô interessado nela."
+
+# game/day03.rpy:423
+translate brazilian day03_drinks_56ffb8c9:
+
+    # j "I sure hope she knows that. Ana mostly gets what she wants."
+    j "Espero que ela saiba disso. Ana geralmente consegue o que ela quer."
+
+# game/day03.rpy:425
+translate brazilian day03_drinks_947b15b5:
+
+    # "{i}You talk some more and then leave."
+    "{i}Vocês conversam mais um pouco e vão embora."
+
+# game/day03.rpy:426
+translate brazilian day03_drinks_0fbe4e44:
+
+    # "{i}[b_name] obviously avoids you when you exit the cafe."
+    "{i}[b_name] obviamente te evita quando sai da cafeteria."
+

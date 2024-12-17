@@ -191,5 +191,37 @@ translate brazilian strings:
 
     # game/script.rpy:450
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
-    new ""
+    new "Pressione {i}\“Enter\”{/i} no teclado da tela para confirmar"
+
+# TODO: Translation updated at 2024-11-18 10:23
+
+translate brazilian strings:
+
+    # game/script.rpy:58
+    old "Max"
+    new "Max"
+
+    # game/script.rpy:62
+    old "Bella"
+    new "Bella"
+
+    # game/script.rpy:66
+    old "Liza"
+    new "Liza"
+
+    # game/script.rpy:70
+    old "Rachel"
+    new "Rachel"
+
+    # game/script.rpy:74
+    old "Susan"
+    new "Susan"
+
+    # game/script.rpy:630
+    old "Pregnancies"
+    new "Gravidez"
+
+    # game/script.rpy:637
+    old "Who's pregnant in this scene?"
+    new "Quem está grávida nessa cena?"
 

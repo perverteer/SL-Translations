@@ -7129,3 +7129,65 @@ translate brazilian day39_r_b_m_fucking_3d5a6bf4:
     # r "Neither have I..."
     r "Nem eu..."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day39.rpy:1294
+translate brazilian day39_r_b_l_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "[b_name] é submisso nessa cena?"
+
+# game/day39.rpy:1300
+translate brazilian day39_r_b_l_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day39.rpy:1304
+translate brazilian day39_r_b_l_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day39.rpy:1307
+translate brazilian day39_r_b_l_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day39.rpy:1312
+translate brazilian day39_r_b_l_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] não submisso"
+
+# game/day39.rpy:1960
+translate brazilian day39_r_b_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "[b_name] é submisso nessa cena?"
+
+# game/day39.rpy:1966
+translate brazilian day39_r_b_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day39.rpy:1970
+translate brazilian day39_r_b_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day39.rpy:1973
+translate brazilian day39_r_b_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day39.rpy:1978
+translate brazilian day39_r_b_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] não submisso"
+

@@ -4283,3 +4283,17 @@ translate brazilian day09_r_l_shopping_choices_fedcbc1a:
     # "{i}Reluctantly, [l_name] disappears into the booth."
     "{i}Relutantemente, [l_name] desaparece para dentro da cabine."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day09.rpy:1268
+translate brazilian day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Ela vai provavelmente voltar tarde para casa essa noite...)"
+
+# game/day09.rpy:1274
+translate brazilian day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Vamos ter uma boa noite de sono.)"
+

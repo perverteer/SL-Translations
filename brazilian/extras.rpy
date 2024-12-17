@@ -6928,7 +6928,7 @@ translate brazilian extra_scene_23_6b5a8e64:
 translate brazilian extra_scene_23_d8d3cdf3:
 
     # "{i}Adriana knows exactly how to angle her body for you to receive maximum pleasure from her pussy."
-    "{I}Adriana sabe exatamente como angular o corpo para você para receber prazer máximo da boceta dela."
+    "{i}Adriana sabe exatamente como angular o corpo para você para receber prazer máximo da boceta dela."
 
 # game/extras.rpy:2249
 translate brazilian extra_scene_23_1bbf22b4:

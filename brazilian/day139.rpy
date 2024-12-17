@@ -7998,3 +7998,89 @@ translate brazilian day139_movie_fuck_940fc4a3:
     # l "Does this make you forget that movie a little?"
     l "Isso te faz esquecer um pouco o filme?"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day139.rpy:1920
+translate brazilian day139_b_me_soft_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] está grávida nesta cena?"
+
+# game/day139.rpy:1924
+translate brazilian day139_b_me_soft_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] grávida"
+
+# game/day139.rpy:1927
+translate brazilian day139_b_me_soft_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] não está grávida"
+
+# game/day139.rpy:2374
+translate brazilian day139_movie_fuck_ebb77704:
+
+    # "Who is getting fucked?"
+    "Quem está sendo fodido?"
+
+# game/day139.rpy:2380
+translate brazilian day139_movie_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] está grávida nesta cena?"
+
+# game/day139.rpy:2385
+translate brazilian day139_movie_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] grávida"
+
+# game/day139.rpy:2388
+translate brazilian day139_movie_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] não está grávida"
+
+# game/day139.rpy:2394
+translate brazilian day139_movie_fuck_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] está grávida nesta cena?"
+
+# game/day139.rpy:2399
+translate brazilian day139_movie_fuck_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] grávida"
+
+# game/day139.rpy:2402
+translate brazilian day139_movie_fuck_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] não está grávida"
+
+# game/day139.rpy:2407
+translate brazilian day139_movie_fuck_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] está grávida nesta cena?"
+
+# game/day139.rpy:2412
+translate brazilian day139_movie_fuck_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] grávida"
+
+# game/day139.rpy:2415
+translate brazilian day139_movie_fuck_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] não está grávida"
+
+translate brazilian strings:
+
+    # game/day139.rpy:2375
+    old "[r_name]"
+    new "[r_name]"
+

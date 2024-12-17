@@ -4443,3 +4443,923 @@ translate brazilian day16_b_restaurant_choices_soft_83cf7ebc:
     # p "Relax, dear [l_name], I was just teasing you."
     p "Relaxa, querida [l_name], só estava te provocando."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day16.rpy:945
+translate brazilian day16_rb_watersports_dc7928c0:
+
+    # "{i}Careful not to get caught, you follow Rebeca to a secluded place between several large rocks. She's already undressed when you arrive..."
+    "{i}Com cuidado para não ser pego, você segue Rebeca para um lugar isolado entre várias pedras grandes. Ela já está sem roupas quando você chega..."
+
+# game/day16.rpy:952
+translate brazilian day16_rb_watersports_d541273a:
+
+    # p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
+    p "{i}(Puta merda, acabei de chegar na hora perfeita. Que vista perfeita.)"
+
+# game/day16.rpy:954
+translate brazilian day16_rb_watersports_a1ab4375:
+
+    # p "{i}(Let it flow, girl... Damn what a sight.)"
+    p "{i}(Deixa fluir, garota... Nossa, mas que vista.)"
+
+# game/day16.rpy:959
+translate brazilian day16_rb_watersports_f6eeb36d:
+
+    # p "{i}(Shit! She saw me! She's looking right at me...)"
+    p "{i}(Merda! Ela me viu! Ela está olhando bem para mim...)"
+
+# game/day16.rpy:960
+translate brazilian day16_rb_watersports_161d61e6:
+
+    # p "{i}(And she's smiling... Wow!)"
+    p "{i}(E ela está sorrindo... Nossa!)"
+
+# game/day16.rpy:964
+translate brazilian day16_rb_watersports_0b252137:
+
+    # "{i}You head back to the main beach and wait for Rebeca to come back."
+    "{i}Você volta para a praia principal e espera pela Rebeca voltar."
+
+# game/day16.rpy:966
+translate brazilian day16_rb_watersports_4992d2b8:
+
+    # rb "Guess who I saw just now..."
+    rb "Adivinha quem eu acabei de ver..."
+
+# game/day16.rpy:967
+translate brazilian day16_rb_watersports_41b842d0:
+
+    # p "{i}(She doesn't seem mad... Quite the contrary.)"
+    p "{i}(Ela não parece brava... Bem o contrário.)"
+
+# game/day16.rpy:968
+translate brazilian day16_rb_watersports_f8f2b7fa:
+
+    # rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
+    rb "Você gosta desse tipo de coisa, [p_name]? Você gosta de um pouco de aguinha?"
+
+# game/day16.rpy:979
+translate brazilian day16_rb_watersports_63e34849:
+
+    # p "Actually I do. You looked very hot just now."
+    p "Na verdade eu gosto. Você tava muito gostosa agora."
+
+# game/day16.rpy:980
+translate brazilian day16_rb_watersports_168a57bc:
+
+    # rb "Dirty! I'll keep that in mind..."
+    rb "Safado! Vou me lembrar disso..."
+
+# game/day16.rpy:981
+translate brazilian day16_rb_watersports_00fe2d33:
+
+    # rb "I like you already, [p_name]. We're going to get along just fine."
+    rb "Eu já gosto de você, [p_name]. Vamos nos dar muito bem."
+
+# game/day16.rpy:982
+translate brazilian day16_rb_watersports_73d7233c:
+
+    # p "Thank you, the feeling is quite mutual."
+    p "Obrigado, o sentimento é bem mútuo."
+
+# game/day16.rpy:983
+translate brazilian day16_rb_watersports_9be3a2c2:
+
+    # rb "Good."
+    rb "Ótimo."
+
+# game/day16.rpy:991
+translate brazilian day16_rb_watersports_4465ac0d:
+
+    # p "Only when it involves a surfboard."
+    p "Só gosto de água na praia quando tem prancha de surfe no meio."
+
+# game/day16.rpy:992
+translate brazilian day16_rb_watersports_7cbc95c2:
+
+    # rb "Why did you come after me then?"
+    rb "Então por que veio atrás de mim?"
+
+# game/day16.rpy:993
+translate brazilian day16_rb_watersports_79276013:
+
+    # p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
+    p "{i}(Melhor ser honesto. Caso contrário ela vai me oferecer banho de urina ou algo assim...)"
+
+# game/day16.rpy:994
+translate brazilian day16_rb_watersports_ff1835db:
+
+    # p "I just wanted to see you naked."
+    p "Eu só queria ver você pelada."
+
+# game/day16.rpy:995
+translate brazilian day16_rb_watersports_18383d3d:
+
+    # rb "That's also a very good reason."
+    rb "Essa também é uma ótima razão."
+
+# game/day16.rpy:996
+translate brazilian day16_rb_watersports_a69855c9:
+
+    # rb "Did you like what you saw?"
+    rb "Gostou do que viu?"
+
+# game/day16.rpy:997
+translate brazilian day16_rb_watersports_87dbf22d:
+
+    # p "Yes. You're very sexy."
+    p "Sim. Você é muito sexy."
+
+# game/day16.rpy:1004
+translate brazilian day16_rb_sex_357c561f:
+
+    # "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
+    "{i}Logo vocês chegam no lugar onde você encontrou a Rebeca antes da sua caminhada. Ela abre a porta e você entra."
+
+# game/day16.rpy:1009
+translate brazilian day16_rb_sex_236b0d51:
+
+    # p "Jesus, it's really hot in here."
+    p "Jesus, está bem quente aqui."
+
+# game/day16.rpy:1010
+translate brazilian day16_rb_sex_f8b4a90e:
+
+    # rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
+    rb "É a parte ruim de ter um estúdio com um telhado plano perto da praia. Por isso que eu normalmente trabalho pelada."
+
+# game/day16.rpy:1011
+translate brazilian day16_rb_sex_b0bd2bdf:
+
+    # p "Of course you do."
+    p "É claro que trabalha."
+
+# game/day16.rpy:1016
+translate brazilian day16_rb_sex_e52a1cbe:
+
+    # rb "See, it's that easy."
+    rb "Viu, é fácil assim."
+
+# game/day16.rpy:1017
+translate brazilian day16_rb_sex_63123add:
+
+    # "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
+    "{i}A vista do corpo pelado dela faz pouco para aliviar o calor, e ao invés disso te deixa duro."
+
+# game/day16.rpy:1018
+translate brazilian day16_rb_sex_5647013f:
+
+    # rb "Undress for me please, so I can get a good look at you."
+    rb "Tira as roupas para mim por favor, para eu poder dar uma boa olhada em você."
+
+# game/day16.rpy:1020
+translate brazilian day16_rb_sex_33c8101d:
+
+    # rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze, or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
+    rb "Uau, você tem o espécime perfeito para minha primeira peça. Talvez eu faça você em bronze, ou será que eu faço em metal precioso... Eu não sei. Mas você vai ser a orgulhosa introdução à minha nova série de peças de arte."
+
+# game/day16.rpy:1021
+translate brazilian day16_rb_sex_c74f31d0:
+
+    # p "I'm honored..."
+    p "Estou honrado..."
+
+# game/day16.rpy:1022
+translate brazilian day16_rb_sex_8a34a33b:
+
+    # rb "Lie down please, I have to make a mold."
+    rb "Deite-se por favor, tenho que fazer um molde."
+
+# game/day16.rpy:1023
+translate brazilian day16_rb_sex_4aa8d273:
+
+    # "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
+    "{i}Você se deita e fecha seus olhos um pouco enquanto Rebeca vasculha o estúdio pelos materiais."
+
+# game/day16.rpy:1028
+translate brazilian day16_rb_sex_283155d8:
+
+    # "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
+    "{i}Você deve ter cochilado por um tempo, pois acorda com um choque quando sente mãos geladas tocando seu pênis."
+
+# game/day16.rpy:1030
+translate brazilian day16_rb_sex_58b66eb1:
+
+    # rb "Ah, he's awake."
+    rb "Ah, ele está acordado."
+
+# game/day16.rpy:1031
+translate brazilian day16_rb_sex_7709aaa0:
+
+    # p "W-what are you doing?"
+    p "O-o que você está fazendo?"
+
+# game/day16.rpy:1032
+translate brazilian day16_rb_sex_5f499520:
+
+    # rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
+    rb "Seu pau estava todo mole, não seria o melhor símbolo da poderosa libido masculina. Quer que eu pare?"
+
+# game/day16.rpy:1033
+translate brazilian day16_rb_sex_34d74724:
+
+    # p "God no, keep going."
+    p "Deus não, continua."
+
+# game/day16.rpy:1034
+translate brazilian day16_rb_sex_c428e0ed:
+
+    # "{i}When Rebeca is satisfied, she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
+    "{i}Quando Rebeca está satisfeita, ela de repente para de massagear seu pau e pega algumas ferramentas, presumivelmente para fazer o molde. Você começa a cochilar novamente por causa do calor."
+
+# game/day16.rpy:1039
+translate brazilian day16_rb_sex_858df364:
+
+    # "{i}Almost subconsciously, you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
+    "{i}Quase subconscientemente você sente algum líquido grosso e frio ser derramado por cima da sua virilha, que rapidamente assobia uma melodia aleatória enquanto trabalha."
+
+# game/day16.rpy:1040
+translate brazilian day16_rb_sex_f4b65e6d:
+
+    # "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
+    "{i}Após um tempo, o molde é removido e Rebeca esfrega seu pau com uma toalha macia por muito mais tempo do que era necessário."
+
+# game/day16.rpy:1041
+translate brazilian day16_rb_sex_d6ccac46:
+
+    # rb "Done."
+    rb "Pronto."
+
+# game/day16.rpy:1042
+translate brazilian day16_rb_sex_b625aa51:
+
+    # p "You're a downright cocktease, you know that?"
+    p "Você adora provocar meu pau, hein?"
+
+# game/day16.rpy:1043
+translate brazilian day16_rb_sex_97af099a:
+
+    # rb "What? You mean my innocent touches?"
+    rb "O quê? Está falando dos meus toques inocentes?"
+
+# game/day16.rpy:1044
+translate brazilian day16_rb_sex_8bbbbb2d:
+
+    # p "Exactly those."
+    p "Esses mesmo."
+
+# game/day16.rpy:1046
+translate brazilian day16_rb_sex_31563e3c:
+
+    # p "Come here."
+    p "Vem cá."
+
+# game/day16.rpy:1051
+translate brazilian day16_rb_sex_2f090249:
+
+    # "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
+    "{i}Rebeca não hesita e vai até você. Subitamente vocês dão um beijo apaixonado, as mãos dela explorando seu corpo e as suas firmemente apertando os seios dela."
+
+# game/day16.rpy:1052
+translate brazilian day16_rb_sex_fcbd5ad6:
+
+    # rb "Fuck me, [p_name]."
+    rb "Me fode, [p_name]."
+
+# game/day16.rpy:1057
+translate brazilian day16_rb_sex_c41e60f5:
+
+    # "{i}When you enter her, she's already wet. You penetrate her deeply and quickly establish a rhythm."
+    "{i}Quando você entra nela ela já está molhada. Você penetra ela profundamente e rapidamente estabelece um ritmo."
+
+# game/day16.rpy:1058
+translate brazilian day16_rb_sex_e839182f:
+
+    # rb "God yes. Fuck me! Fuck me harder!"
+    rb "Sim, deus... Me fode! Me fode mais forte!"
+
+# game/day16.rpy:1060
+translate brazilian day16_rb_sex_a6080212:
+
+    # "{i}Encouraged by her words, you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
+    "{i}Encorajado pelas palavras dela, você enfia ainda mais fundo. O estúdio fica cheio com sons da sua foda e os gemidos roucos da Rebeca."
+
+# game/day16.rpy:1066
+translate brazilian day16_rb_sex_e0792702:
+
+    # "{i}As you change positions, Rebeca's ass bounces against your pelvis. You slap it repeatedly."
+    "{i}Enquanto você muda posições, a bunda da Rebeca bate no seu pelvis. Você estapeia ela repetidamente."
+
+# game/day16.rpy:1067
+translate brazilian day16_rb_sex_c064ca31:
+
+    # rb "Mmmmm yeah, slap it."
+    rb "Mmmmm é, me bate."
+
+# game/day16.rpy:1068
+translate brazilian day16_rb_sex_01bc843c:
+
+    # p "I'm going to fill you up, Rebeca."
+    p "Vou te encher toda, Rebeca."
+
+# game/day16.rpy:1069
+translate brazilian day16_rb_sex_0a777782:
+
+    # rb "Put it inside me please!"
+    rb "Enfia em mim por favor!"
+
+# game/day16.rpy:1075
+translate brazilian day16_rb_sex_d28f47a3:
+
+    # p "I want you to taste me."
+    p "Eu quero que você sinta meu gosto."
+
+# game/day16.rpy:1076
+translate brazilian day16_rb_sex_27a51b38:
+
+    # "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
+    "{i}Você puxa o pau para fora e Rebeca rapidamente se ajoelha diante de você, com sua boca ansiosa aberta para receber sua semente quente."
+
+# game/day16.rpy:1082
+translate brazilian day16_rb_sex_ddae8c90:
+
+    # "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
+    "{i}Grossos fios de gozo jorram do seu pau pulsante. Rebeca tenta pegar tudo na com a boca, mas um pouco cai no rosto dela."
+
+# game/day16.rpy:1084
+translate brazilian day16_rb_sex_eb00dfd3:
+
+    # "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
+    "{i}Ela fecha a boca e engole sua tudo, lambendo os lábios depois."
+
+# game/day16.rpy:1085
+translate brazilian day16_rb_sex_e8f9ac8c:
+
+    # rb "You taste really good, [p_name]."
+    rb "Seu gosto é muito bom, [p_name]."
+
+# game/day16.rpy:1095
+translate brazilian day16_rb_sex_afe6949f:
+
+    # p "Fuck yes, your pussy will be overflowing."
+    p "Isso porra, sua boceta vai transbordar."
+
+# game/day16.rpy:1101
+translate brazilian day16_rb_sex_86e11c7e:
+
+    # "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
+    "{i}Depois de duas profundas enfiadas, grossos fios de gozo jorram dentro dela, seu pau está pulsando dentro da vagina."
+
+# game/day16.rpy:1102
+translate brazilian day16_rb_sex_d124b0c2:
+
+    # rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
+    rb "Mmmmm, isso, me enche toda! É tão quentinho dentro de mim."
+
+# game/day16.rpy:1107
+translate brazilian day16_rb_sex_785a830f:
+
+    # "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
+    "{i}Vocês se deitam suados e exaustos no calor do estúdio da Rebeca. O ar tem cheiro de sexo e sêmen."
+
+# game/day16.rpy:1108
+translate brazilian day16_rb_sex_207ca936:
+
+    # "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
+    "{i}Rebeca empurra um dedo dentro de sua boceta e distraidamente lambe o dedo coberto de sêmen."
+
+# game/day16.rpy:1109
+translate brazilian day16_rb_sex_e8f9ac8c_1:
+
+    # rb "You taste really good, [p_name]."
+    rb "Seu gosto é muito bom, [p_name]."
+
+# game/day16.rpy:1125
+translate brazilian day16_l_fingering_3b3c6b84:
+
+    # "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
+    "{i}Você encontra um lugar quieto coberto de grama na areia escondido da praia."
+
+# game/day16.rpy:1127
+translate brazilian day16_l_fingering_6682b67e:
+
+    # l "Will we be okay here?"
+    l "Tudo bem ficarmos aqui?"
+
+# game/day16.rpy:1128
+translate brazilian day16_l_fingering_30baada1:
+
+    # p "I'm sure of it, don't worry."
+    p "Tenho certeza, não se preocupa."
+
+# game/day16.rpy:1129
+translate brazilian day16_l_fingering_847e552e:
+
+    # l "Are we really going to do this?"
+    l "Vamos mesmo fazer isso?"
+
+# game/day16.rpy:1130
+translate brazilian day16_l_fingering_d466837c:
+
+    # p "Unless you don't feel comfortable enough."
+    p "A menos que você não se sinta confortável o suficiente."
+
+# game/day16.rpy:1131
+translate brazilian day16_l_fingering_8f94cb3a:
+
+    # p "{i}(Please be comfortable!!!)"
+    p "{i}(Por favor esteja confortável!!!)"
+
+# game/day16.rpy:1132
+translate brazilian day16_l_fingering_b159e512:
+
+    # l "No, I'm good. The grass tickles, that's all."
+    l "Não, estou bem. A grama faz cócegas, só isso."
+
+# game/day16.rpy:1133
+translate brazilian day16_l_fingering_432d51eb:
+
+    # p "Good."
+    p "Ótimo."
+
+# game/day16.rpy:1134
+translate brazilian day16_l_fingering_1681dc26:
+
+    # l "Okay."
+    l "Ok."
+
+# game/day16.rpy:1135
+translate brazilian day16_l_fingering_111559a2:
+
+    # p "This'll work better if you're naked."
+    p "Isso vai funcionar melhor se você estiver pelada."
+
+# game/day16.rpy:1136
+translate brazilian day16_l_fingering_a714afbe:
+
+    # l "Oh yes... of course... Does my bikini need to go as well?"
+    l "Ah sim... é claro... Tenho que tirar o biquíni também?"
+
+# game/day16.rpy:1137
+translate brazilian day16_l_fingering_da5f26f4:
+
+    # p "Only if you want to."
+    p "Só se você quiser."
+
+# game/day16.rpy:1138
+translate brazilian day16_l_fingering_16a60d5f:
+
+    # l "I don't know. I guess it'll be in the way."
+    l "Eu não sei. Acho que vai ficar no caminho."
+
+# game/day16.rpy:1139
+translate brazilian day16_l_fingering_20e54811:
+
+    # p "{i}(Excellent choice.)"
+    p "{i}(Excelente escolha.)"
+
+# game/day16.rpy:1142
+translate brazilian day16_l_fingering_3b185a49:
+
+    # p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
+    p "{i}(Mas que vista celestial. Deitar aqui com minha irmã completamente pelada e prestes a embarcar em uma jornada de descoberta sexual.)"
+
+# game/day16.rpy:1144
+translate brazilian day16_l_fingering_f27bce54:
+
+    # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
+    p "{i}(Mas que vista celestial. Deitar aqui com uma garota completamente pelada e prestes a embarcar em uma jornada de descoberta sexual.)"
+
+# game/day16.rpy:1145
+translate brazilian day16_l_fingering_f8c73797:
+
+    # p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
+    p "Só tenta relaxar e se divertir. Não fique muito focada no que você está fazendo e deixa eu te guiar."
+
+# game/day16.rpy:1146
+translate brazilian day16_l_fingering_6e9966ef:
+
+    # l "I'm not sure if I can, but I'll try."
+    l "Não tenho certeza se consigo, mas vou tentar."
+
+# game/day16.rpy:1148
+translate brazilian day16_l_fingering_8df2348b:
+
+    # "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
+    "{i}Sua mão está na barriga nua dela e sua irmã está respirando fundo, olhando para você com expectativa."
+
+# game/day16.rpy:1150
+translate brazilian day16_l_fingering_65757b42:
+
+    # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
+    "{i}Sua mão está na barriga nua dela e [l_name] está respirando fundo, olhando para você com expectativa."
+
+# game/day16.rpy:1152
+translate brazilian day16_l_fingering_0df3a880:
+
+    # "{i}You take one of her hands and slowly move it towards her sex."
+    "{i}Você pega uma das mãos dela lentamente e a leva até a boceta."
+
+# game/day16.rpy:1153
+translate brazilian day16_l_fingering_e3a5a5ed:
+
+    # p "Just explore yourself, take it slow. Feel your body."
+    p "Só se explora, vai com calma, sente o seu corpo."
+
+# game/day16.rpy:1154
+translate brazilian day16_l_fingering_754b9c5b:
+
+    # p "{i}(God, I almost sound like a guru.)"
+    p "{i}(Deus, eu quase pareço um guru.)"
+
+# game/day16.rpy:1155
+translate brazilian day16_l_fingering_dfa7f157:
+
+    # p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
+    p "Toca na sua boceta, veja como é a sensação sob os seus dedos. Explora a área em volta do seu clitóris.... Cria uma antecipação..."
+
+# game/day16.rpy:1156
+translate brazilian day16_l_fingering_e746ddcb:
+
+    # "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
+    "{i}[l_name] obedientemente faz o que você está falando, mas ela ainda parece inquieta."
+
+# game/day16.rpy:1157
+translate brazilian day16_l_fingering_1fb57e6a:
+
+    # p "Is everything alright, [l_name]?"
+    p "Tudo bem, [l_name]?"
+
+# game/day16.rpy:1158
+translate brazilian day16_l_fingering_97e0d939:
+
+    # l "Yes... It's just... the words you're using. They sound so dirty."
+    l "Sim... É só... as palavras que você está usando. Elas soam tão sujas."
+
+# game/day16.rpy:1159
+translate brazilian day16_l_fingering_cc9a033f:
+
+    # p "But how do those words make you feel?"
+    p "Mas como essas palavras fazem você se sentir?"
+
+# game/day16.rpy:1160
+translate brazilian day16_l_fingering_b87fab88:
+
+    # l "I..."
+    l "Eu..."
+
+# game/day16.rpy:1161
+translate brazilian day16_l_fingering_9a456252:
+
+    # p "Come on, you can say it to me."
+    p "Vamos, pode me contar."
+
+# game/day16.rpy:1162
+translate brazilian day16_l_fingering_af3eaa24:
+
+    # l "They make me feel..."
+    l "Elas fazem eu me sentir..."
+
+# game/day16.rpy:1163
+translate brazilian day16_l_fingering_3dfeeaf4:
+
+    # l "...Horny?"
+    l "...Excitada?"
+
+# game/day16.rpy:1164
+translate brazilian day16_l_fingering_18e72607:
+
+    # p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
+    p "Essa é a intenção. Sexo é se entregar completamente ao desejo. Não é uma coisa que você devia fazer sem querer."
+
+# game/day16.rpy:1165
+translate brazilian day16_l_fingering_fd2f6b1e:
+
+    # l "Okay, I'll try."
+    l "Ok, eu vou tentar."
+
+# game/day16.rpy:1166
+translate brazilian day16_l_fingering_daf20258:
+
+    # p "Don't worry about yourself, or the responses of your body. It's all natural."
+    p "Não se preocupa com você mesma, ou as respostas do seu corpo. É tudo natural."
+
+# game/day16.rpy:1167
+translate brazilian day16_l_fingering_1b4657c6:
+
+    # l "Are you... eh... horny?"
+    l "Você está... ahm... excitado?"
+
+# game/day16.rpy:1168
+translate brazilian day16_l_fingering_0bb85004:
+
+    # p "Yes, I think this is really exciting."
+    p "Sim, eu acho que isso é muito excitante."
+
+# game/day16.rpy:1169
+translate brazilian day16_l_fingering_e1bb255d:
+
+    # l "Do you have a... you know..."
+    l "Você está com uma... você sabe..."
+
+# game/day16.rpy:1170
+translate brazilian day16_l_fingering_3309102f:
+
+    # p "An erection?"
+    p "Uma ereção?"
+
+# game/day16.rpy:1171
+translate brazilian day16_l_fingering_e29a29a2:
+
+    # l "Yes?"
+    l "Sim?"
+
+# game/day16.rpy:1172
+translate brazilian day16_l_fingering_1b526758:
+
+    # p "As soon as you removed your bikini. You have such a sexy body."
+    p "Assim que você removeu seu biquíni. Você tem um corpo tão sexy."
+
+# game/day16.rpy:1173
+translate brazilian day16_l_fingering_45761022:
+
+    # p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
+    p "{i}(E se a gente não focar nela de novo logo eu vou gozar só de conversar...)"
+
+# game/day16.rpy:1174
+translate brazilian day16_l_fingering_81f2c3f1:
+
+    # p "Shall we continue?"
+    p "Vamos continuar?"
+
+# game/day16.rpy:1175
+translate brazilian day16_l_fingering_bc5c265b:
+
+    # l "Yes."
+    l "Sim."
+
+# game/day16.rpy:1176
+translate brazilian day16_l_fingering_3b587d0a:
+
+    # p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
+    p "Não fica tão preocupada com chegar em um orgasmo, só se concentra no que te faz sentir bem e estende essa sensação de prazer."
+
+# game/day16.rpy:1177
+translate brazilian day16_l_fingering_c383bd3b:
+
+    # p "Start by gently rubbing your pussy."
+    p "Começa esfregando sua boceta gentilmente."
+
+# game/day16.rpy:1183
+translate brazilian day16_l_fingering_8ee5f2dd:
+
+    # l "Ooooh, yes... That feels good."
+    l "Aaaah, sim... Isso é bom."
+
+# game/day16.rpy:1184
+translate brazilian day16_l_fingering_7f1370a3:
+
+    # "{i}You edge closer and lower your voice to a whisper."
+    "{i}Você se aproxima e abaixa sua voz até um sussurro."
+
+# game/day16.rpy:1185
+translate brazilian day16_l_fingering_e4df1b27:
+
+    # p "Explore you pussy lips, your clitoris..."
+    p "Explora os lábios da sua boceta, seu clitóris..."
+
+# game/day16.rpy:1186
+translate brazilian day16_l_fingering_20a26fd7:
+
+    # l "Yes! Mmmmm."
+    l "Sim! Mmmmm."
+
+# game/day16.rpy:1187
+translate brazilian day16_l_fingering_49062072:
+
+    # p "Don't hold back. If it feels good, continue doing it..."
+    p "Não se segura. Se for bom, continua..."
+
+# game/day16.rpy:1188
+translate brazilian day16_l_fingering_cc354b51:
+
+    # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
+    "{i}Depois de um curto tempo, os gemidos suaves de prazer da [l_name] diminuem e então param completamente. Ela não está mais se divertindo e parece ter voltado à esfregação rígida e sem prazer."
+
+# game/day16.rpy:1189
+translate brazilian day16_l_fingering_2daad4de:
+
+    # p "When you think you're losing momentum, think of dirty things."
+    p "Quando você acha que está perdendo força, pensa em coisas safadas."
+
+# game/day16.rpy:1190
+translate brazilian day16_l_fingering_b1b12192:
+
+    # l "I... I... I can't."
+    l "Eu... Eu... Eu não consigo."
+
+# game/day16.rpy:1191
+translate brazilian day16_l_fingering_c70c2218:
+
+    # p "{i}(Maybe some dirty talk will rouse her.)"
+    p "{i}(Talvez falar umas putarias vai empolgar ela.)"
+
+# game/day16.rpy:1192
+translate brazilian day16_l_fingering_6da813c1:
+
+    # p "Would you like to hear the dirty things I'd do to you?"
+    p "Você gostaria de ouvir as coisas sujas que eu faria com você?"
+
+# game/day16.rpy:1193
+translate brazilian day16_l_fingering_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "S-s-sim..."
+
+# game/day16.rpy:1194
+translate brazilian day16_l_fingering_38adfa51:
+
+    # p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
+    p "Eu iria dar beijar o seu corpo todo, começando com sua doce boca. E então ir até os seus seios perfeitos e beijar seus mamilos até eles ficarem duros como pedras."
+
+# game/day16.rpy:1195
+translate brazilian day16_l_fingering_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day16.rpy:1196
+translate brazilian day16_l_fingering_e854e50c:
+
+    # l "...Go on please."
+    l "...Continua, por favor."
+
+# game/day16.rpy:1197
+translate brazilian day16_l_fingering_a4973da7:
+
+    # p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
+    p "Sua barriga não devia ser esquecida também e as suas coxas gostosas. Eu iria deixar sua linda boceta por último..."
+
+# game/day16.rpy:1198
+translate brazilian day16_l_fingering_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm."
+
+# game/day16.rpy:1200
+translate brazilian day16_l_fingering_2c69ebf2:
+
+    # "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}Sua irmã está completamente focada novamente, aquele comportamento mecânico sumindo completamente. Ela se contorce na areia enquanto massageia a boceta."
+
+# game/day16.rpy:1202
+translate brazilian day16_l_fingering_22032ab9:
+
+    # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}[l_name] está completamente focada novamente, aquele comportamento mecânico sumindo completamente. Ela se contorce na areia enquanto massageia a boceta."
+
+# game/day16.rpy:1203
+translate brazilian day16_l_fingering_f362d2ec:
+
+    # p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
+    p "Agora, por que você não tenta enfiar um dedo, pegar um pouco dessa umidade e espalhar ela na sua boceta."
+
+# game/day16.rpy:1205
+translate brazilian day16_l_fingering_04979e16:
+
+    # l "It feels so strange."
+    l "É uma sensação tão estranha."
+
+# game/day16.rpy:1206
+translate brazilian day16_l_fingering_6ae2b3cf:
+
+    # p "But it's good, isn't it?"
+    p "Mas é bom, não é?"
+
+# game/day16.rpy:1207
+translate brazilian day16_l_fingering_e511b696:
+
+    # l "Y-y-yes!"
+    l "S-s-sim!"
+
+# game/day16.rpy:1208
+translate brazilian day16_l_fingering_00111317:
+
+    # p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
+    p "Ótimo, ótimo, você está quase lá. Continua se dedando e esfrega o seu clitóris molhado."
+
+# game/day16.rpy:1209
+translate brazilian day16_l_fingering_5e00ee0b:
+
+    # l "Tell me more about the things you'd like to do with my body. Please!"
+    l "Me conta mais sobre as coisas que você gostaria de fazer com meu corpo. Por favor!"
+
+# game/day16.rpy:1210
+translate brazilian day16_l_fingering_888962a9:
+
+    # p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm, I'd suck on them, sending you over the edge and making you cum so hard."
+    p "Depois de todos aqueles beijos, eu iria voltar pros seus mamilos e provocadoramente lambê-los enquanto você enfia seus dedos em si mesma. Quando você estivesse perto do orgasmo. eu chuparia eles, te fazendo passar do limite e fazendo você gozar tanto."
+
+# game/day16.rpy:1211
+translate brazilian day16_l_fingering_644ee3dc:
+
+    # l "Oooooh, [p_name]!"
+    l "Aaaaaih, [p_name]!"
+
+# game/day16.rpy:1212
+translate brazilian day16_l_fingering_7c777b86:
+
+    # p "Yes, [l_name]?"
+    p "Sim, [l_name]?"
+
+# game/day16.rpy:1213
+translate brazilian day16_l_fingering_f8d205a2:
+
+    # l "I think I'm..."
+    l "Eu acho que eu estou..."
+
+# game/day16.rpy:1220
+translate brazilian day16_l_fingering_665bccf9:
+
+    # l "Aaaaaaaaaaah!!!"
+    l "Aaaaaaaaaaai!!!"
+
+# game/day16.rpy:1222
+translate brazilian day16_l_fingering_5f782092:
+
+    # "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Incapaz de falar qualquer outra coisa, sua irmã treme com força. Os tremores do orgasmo dela sobrepujam qualquer outra função muscular do corpo dela."
+
+# game/day16.rpy:1224
+translate brazilian day16_l_fingering_5ad0e16a:
+
+    # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Incapaz de falar qualquer outra coisa, [l_name] treme com força. Os tremores do orgasmo dela sobrepujam qualquer outra função muscular do corpo dela."
+
+# game/day16.rpy:1225
+translate brazilian day16_l_fingering_e5a66882:
+
+    # p "My beautiful, beautiful girl."
+    p "Minha linda, linda garota."
+
+# game/day16.rpy:1226
+translate brazilian day16_l_fingering_58781776:
+
+    # l "Aaaaah!!!"
+    l "Aaaaai!!!"
+
+# game/day16.rpy:1230
+translate brazilian day16_l_fingering_8d0c9317:
+
+    # "{i}It takes quite a while for [l_name] to recover from her orgasm, and she seems unable to speak for some time after."
+    "{i}Demora bastante para [l_name] se recuperar do orgasmo, e ela parece incapaz de falar por um tempo depois."
+
+# game/day16.rpy:1234
+translate brazilian day16_l_fingering_e0004e3f:
+
+    # l "I really, really didn't know it could feel so wonderful."
+    l "Eu realmente não sabia que podia ser uma sensação tão maravilhosa."
+
+# game/day16.rpy:1235
+translate brazilian day16_l_fingering_b00e3678:
+
+    # p "It takes time, practice and some dedication, but you were magnificent."
+    p "Leva tempo, prática e um pouco de dedicação, mas você foi magnífica."
+
+# game/day16.rpy:1236
+translate brazilian day16_l_fingering_c826d305:
+
+    # l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
+    l "Está ficando um pouco frio aqui fora nas dunas e de repente eu estou muito sonolenta."
+
+# game/day16.rpy:1237
+translate brazilian day16_l_fingering_e126bb40:
+
+    # p "I understand, let's head back."
+    p "Eu entendo, vamos voltar."
+
+# game/day16.rpy:1239
+translate brazilian day16_l_fingering_f951f29f:
+
+    # l "Thank you for the lovely evening. It really means a lot to me."
+    l "Obrigado pela encantadora noite. Significa muito mesmo para mim."
+
+# game/day16.rpy:1240
+translate brazilian day16_l_fingering_58357d64:
+
+    # p "{i}(I sure hope this isn't the last time...)"
+    p "{i}(Eu com certeza espero que essa não seja a última vez...)"
+
+# game/day16.rpy:1241
+translate brazilian day16_l_fingering_d2059054:
+
+    # l "Sleep well, dear [p_name]."
+    l "Durma bem, querida [p_name]."
+
+# game/day16.rpy:1242
+translate brazilian day16_l_fingering_fdb98df6:
+
+    # p "Good night, my darling [l_name]."
+    p "Boa noite, minha querida [l_name]."
+

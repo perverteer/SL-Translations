@@ -5259,3 +5259,1607 @@ translate brazilian day26_b_hotel_61de57db_2:
     # p "But you're not worried, are you? About us?"
     p "Mas você não está preocupada, está? Com a gente?"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day26.rpy:938
+translate brazilian day26_discreet_session_e21bc220:
+
+    # "{i}You enter the lavishly furnished antechamber and wait for [m_name] to enter the room."
+    "{i}Você entra na antecâmara luxuosamente mobiliada e espera [m_name] entrar na sala."
+
+# game/day26.rpy:940
+translate brazilian day26_discreet_session_9df8647b:
+
+    # m "Mr. Holmes. I trust you're ready for what's coming."
+    m "Sr. Holmes. Espero que você esteja pronto para o que está por vir."
+
+# game/day26.rpy:941
+translate brazilian day26_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sim, mestra."
+
+# game/day26.rpy:942
+translate brazilian day26_discreet_session_89f3e86a:
+
+    # m "Please choose one of the doors."
+    m "Escolha uma das portas."
+
+# game/day26.rpy:943
+translate brazilian day26_discreet_session_6d3cb20f:
+
+    # "{i}After picking a door at random, [m_name] opens it and motions you through."
+    "{i}Depois de escolher uma porta aleatoriamente, [m_name] abre e leva você para dentro."
+
+# game/day26.rpy:945
+translate brazilian day26_discreet_session_dab1d29f:
+
+    # p "{i}(A living room?)"
+    p "{i}(Uma sala de estar?)"
+
+# game/day26.rpy:946
+translate brazilian day26_discreet_session_9d481581:
+
+    # m "Ah. A homely setting."
+    m "Ah. Um ambiente caseiro."
+
+# game/day26.rpy:948
+translate brazilian day26_discreet_session_f5bb0b3b:
+
+    # m "Your sister will be home shortly... son..."
+    m "Sua irmã estará em casa em breve... filho..."
+
+# game/day26.rpy:949
+translate brazilian day26_discreet_session_8c9d8bb2:
+
+    # p "{i}(What the?! My sister?!)"
+    p "{i}(O quê?! Minha irmã?!)"
+
+# game/day26.rpy:950
+translate brazilian day26_discreet_session_c78409ff:
+
+    # p "{i}(What the fuck is this? Did she find out?!)"
+    p "{i}(Que porra é essa? Ela descobriu?!)"
+
+# game/day26.rpy:951
+translate brazilian day26_discreet_session_63a3b331:
+
+    # p "My sister, mistress?"
+    p "Minha irmã, mestra?"
+
+# game/day26.rpy:952
+translate brazilian day26_discreet_session_bf7253da:
+
+    # m "Yes, your sister Adriana. And you will address me as 'mother' for the duration of the session."
+    m "Sim, sua irmã Adriana. E você vai me chamar de 'mãe' durante a sessão."
+
+# game/day26.rpy:953
+translate brazilian day26_discreet_session_25bcb7fa:
+
+    # p "{i}(Adriana... Phew...)"
+    p "{i}(Adriana... Ufa...)"
+
+# game/day26.rpy:954
+translate brazilian day26_discreet_session_7ca190d2:
+
+    # m "Surely you've heard of incest role-play? It's all the rage these days."
+    m "Certamente você já ouviu falar de role-play de incesto? Está na moda hoje em dia."
+
+# game/day26.rpy:955
+translate brazilian day26_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sim, mestra."
+
+# game/day26.rpy:956
+translate brazilian day26_discreet_session_ce8d3c65:
+
+    # m "Remember: 'mother' or 'mom'."
+    m "Lembre-se: 'mãe' ou 'mamãe'."
+
+# game/day26.rpy:957
+translate brazilian day26_discreet_session_eee57d36:
+
+    # p "Yes, mom."
+    p "Sim, mãe."
+
+# game/day26.rpy:958
+translate brazilian day26_discreet_session_33d851bf:
+
+    # m "Been scouring the web for porn, have you, dirty boy?"
+    m "Andou procurando pornografia na internet, não foi, garoto safado?"
+
+# game/day26.rpy:960
+translate brazilian day26_discreet_session_4a867323:
+
+    # m "Your fellow tenant will be home shortly."
+    m "Sua colega inquilina estará em casa em breve."
+
+# game/day26.rpy:961
+translate brazilian day26_discreet_session_e9febf1c:
+
+    # p "{i}(What the?! Tennant, what weird-ass fetish is this supposed to be?!)"
+    p "{i}(O quê?! Inquilina, que fetiche estranho é esse?!)"
+
+# game/day26.rpy:962
+translate brazilian day26_discreet_session_c588f0eb:
+
+    # p "Tennant, mistress?"
+    p "Inquilina, mestra?"
+
+# game/day26.rpy:963
+translate brazilian day26_discreet_session_9ab169d5:
+
+    # m "Yes, your fellow tenant Adriana. And you will address me as 'landlady' for the duration of the session."
+    m "Sim, sua colega inquilina Adriana. E você vai me chamar de 'proprietária' durante a sessão."
+
+# game/day26.rpy:964
+translate brazilian day26_discreet_session_afa63fd5:
+
+    # m "Surely you've heard of this type of role-play? It's all the rage these days."
+    m "Certamente você já ouviu falar desse tipo de role-play? Está na moda hoje em dia."
+
+# game/day26.rpy:965
+translate brazilian day26_discreet_session_5c5cbf80:
+
+    # p "Not really no, mistress."
+    p "Na verdade não, mestra."
+
+# game/day26.rpy:966
+translate brazilian day26_discreet_session_a6db30f5:
+
+    # m "'Landlady' and you're about to find out."
+    m "'Proprietária' e você está prestes a descobrir."
+
+# game/day26.rpy:968
+translate brazilian day26_discreet_session_c20ad542:
+
+    # "{i}At that moment, Adriana steps through another door in the room."
+    "{i}Nesse momento, Adriana entra por outra porta da sala."
+
+# game/day26.rpy:970
+translate brazilian day26_discreet_session_52021504:
+
+    # ad "Hi mom."
+    ad "Oi mãe."
+
+# game/day26.rpy:971
+translate brazilian day26_discreet_session_5939d6e3:
+
+    # p "{i}(This is so fucking weird.)"
+    p "{i}(Isso é muito estranho.)"
+
+# game/day26.rpy:973
+translate brazilian day26_discreet_session_20689fe5:
+
+    # ad "Hi all."
+    ad "Olá gente."
+
+# game/day26.rpy:975
+translate brazilian day26_discreet_session_b54a118a:
+
+    # m "Adriana, you're late."
+    m "Adriana, você está atrasada."
+
+# game/day26.rpy:976
+translate brazilian day26_discreet_session_945e6d43:
+
+    # m "And why do you look like a fucking whore?"
+    m "E por que caralhos você parece uma puta?"
+
+# game/day26.rpy:977
+translate brazilian day26_discreet_session_5b3c8008:
+
+    # ad "I don't, I like my clothes."
+    ad "Não pareço, eu gosto das minhas roupas."
+
+# game/day26.rpy:979
+translate brazilian day26_discreet_session_e84c6c2d:
+
+    # m "What do you think, son, is your sister dressing like a slut?"
+    m "O que você acha, filho, sua irmã está se vestindo como uma vagabunda?"
+
+# game/day26.rpy:980
+translate brazilian day26_discreet_session_1ea83d23:
+
+    # p "Yes, mother."
+    p "Sim, mãe."
+
+# game/day26.rpy:981
+translate brazilian day26_discreet_session_a2635d8a:
+
+    # m "See, even your brother thinks you look like a skank."
+    m "Viu, até seu irmão acha que você parece uma vadia."
+
+# game/day26.rpy:983
+translate brazilian day26_discreet_session_6641579c:
+
+    # m "What do you think, tenant, is your friend here dressing like a slut?"
+    m "O que você acha, inquilino, a sua amiga aqui está se vestindo como uma vagabunda?"
+
+# game/day26.rpy:984
+translate brazilian day26_discreet_session_aef04645:
+
+    # p "Yes, landlady."
+    p "Sim, proprietária."
+
+# game/day26.rpy:985
+translate brazilian day26_discreet_session_742a1e07:
+
+    # m "See, even your fellow tenant thinks you look like a skank."
+    m "Viu, até o seu colega inquilino acha que você parece uma vadia."
+
+# game/day26.rpy:986
+translate brazilian day26_discreet_session_fdea1318:
+
+    # m "You're going to put on something decent at once."
+    m "Você vai vestir algo decente de uma vez."
+
+# game/day26.rpy:987
+translate brazilian day26_discreet_session_c2bfab5a:
+
+    # ad "No I won't!"
+    ad "Não, não vou!"
+
+# game/day26.rpy:988
+translate brazilian day26_discreet_session_12af3b5d:
+
+    # m "Yes you will."
+    m "Vai sim."
+
+# game/day26.rpy:989
+translate brazilian day26_discreet_session_d37482fd:
+
+    # ad "No, fuck you!"
+    ad "Não, vai se foder!"
+
+# game/day26.rpy:990
+translate brazilian day26_discreet_session_6fa66bac:
+
+    # "{i}Adriana attempts to storm out of the room in mock outrage."
+    "{i}Adriana tenta sair furiosa da sala fingindo indignação."
+
+# game/day26.rpy:991
+translate brazilian day26_discreet_session_eb614dfd:
+
+    # m "Grab her."
+    m "Segure ela."
+
+# game/day26.rpy:996
+translate brazilian day26_discreet_session_1a347c8a:
+
+    # ad "No, no! Leave me alone."
+    ad "Não, não! Me deixa em paz."
+
+# game/day26.rpy:998
+translate brazilian day26_discreet_session_8ef75ac6:
+
+    # m "I think your sister needs a lesson, don't you think?"
+    m "Acho que sua irmã precisa de uma lição, não acha?"
+
+# game/day26.rpy:1000
+translate brazilian day26_discreet_session_cfa05673:
+
+    # m "I think this girl here needs a lesson, don't you think?"
+    m "Acho que essa garota aqui precisa de uma lição, não acha?"
+
+# game/day26.rpy:1001
+translate brazilian day26_discreet_session_b2590a77:
+
+    # ad "Leave me alone!"
+    ad "Me deixa em paz!"
+
+# game/day26.rpy:1002
+translate brazilian day26_discreet_session_5bdf518e:
+
+    # "{i}You forcefully return Adriana to [m_name], who bends her over her knee."
+    "{i}Você força Adriana de volta até a [m_name], que a posiciona sobre os joelhos."
+
+# game/day26.rpy:1004
+translate brazilian day26_discreet_session_6b327923:
+
+    # m "Your ass needs a good spanking."
+    m "Sua bunda precisa de uma boa surra."
+
+# game/day26.rpy:1006
+translate brazilian day26_discreet_session_d750e432:
+
+    # ad "No!"
+    ad "Não!"
+
+# game/day26.rpy:1008
+translate brazilian day26_discreet_session_b539e879:
+
+    # m "Get the paddle, son."
+    m "Pegue a raquete, filho."
+
+# game/day26.rpy:1010
+translate brazilian day26_discreet_session_6a9e63ca:
+
+    # m "Get the paddle."
+    m "Pegue a raquete."
+
+# game/day26.rpy:1011
+translate brazilian day26_discreet_session_0ed28e32:
+
+    # p "{i}(Paddle? Oh shit, she means that wooden thing. Really glad [m_name] doesn't do corporal punishment back at home.)"
+    p "{i}(Raquete? Caramba, ela quis dizer aquela coisa de madeira. Ainda bem que a [m_name] não fazer punições corporais em casa.)"
+
+# game/day26.rpy:1028
+translate brazilian day26_discreet_session_5eccc69e:
+
+    # "{i}After you hand your mother the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Após você entrega a raquete para sua mãe, ela começa a bater nas nádegas de Adriana com o instrumento de madeira."
+
+# game/day26.rpy:1030
+translate brazilian day26_discreet_session_98a633f8:
+
+    # "{i}After you hand [m_name] the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Após que você entrega a raquete a [m_name], ela começa a bater nas nádegas de Adriana com o instrumento de madeira."
+
+# game/day26.rpy:1031
+translate brazilian day26_discreet_session_366964ef:
+
+    # ad "Ow, fuck, it hurts!"
+    ad "Ai, porra, isso dói!"
+
+# game/day26.rpy:1032
+translate brazilian day26_discreet_session_fb234750:
+
+    # m "It's supposed to hurt, sweetie. We have to beat the slut out of you."
+    m "É para doer, querida. Temos que bater em você até parar de ser uma vadia."
+
+# game/day26.rpy:1034
+translate brazilian day26_discreet_session_712638fc:
+
+    # ad "I'm not a slut... Owww!"
+    ad "Eu não sou uma vadia... Aiiii!"
+
+# game/day26.rpy:1035
+translate brazilian day26_discreet_session_d1493679:
+
+    # m "Yes you are."
+    m "É sim."
+
+# game/day26.rpy:1036
+translate brazilian day26_discreet_session_a0845fa5:
+
+    # ad "No! I'm an independent woman!"
+    ad "Não! Sou uma mulher independente!"
+
+# game/day26.rpy:1046
+translate brazilian day26_discreet_session_6d7aa8ad:
+
+    # "{i}[m_name] slaps harder and harder, vicious red marks appear on Adriana's ass as she keeps her teeth clenched in pain, unable to speak."
+    "{i}[m_name] dá uns tapas cada vez mais fortes, marcas bem vermelhas aparecem na bunda de Adriana, e ela mantém os dentes cerrados de dor, incapaz de falar."
+
+# game/day26.rpy:1048
+translate brazilian day26_discreet_session_95abbb5d:
+
+    # m "Don't make me laugh, girl, you just dress up to get men to fuck you."
+    m "Não me faça rir, garota, você só se veste para fazer os homens te foderem."
+
+# game/day26.rpy:1049
+translate brazilian day26_discreet_session_fdf5f539:
+
+    # ad "Nnn-o!"
+    ad "Nnn-ão!"
+
+# game/day26.rpy:1050
+translate brazilian day26_discreet_session_f855ff93:
+
+    # m "I can't hear you, you're blubbering."
+    m "Não consigo te ouvir, você está soluçando."
+
+# game/day26.rpy:1051
+translate brazilian day26_discreet_session_1ab372c9:
+
+    # m "I'll stop when you admit the truth. Say you're a slut."
+    m "Vou parar quando você admitir a verdade. Diga que você é uma vagabunda!"
+
+# game/day26.rpy:1052
+translate brazilian day26_discreet_session_d750e432_1:
+
+    # ad "No!"
+    ad "Não!"
+
+# game/day26.rpy:1054
+translate brazilian day26_discreet_session_7a98cddb:
+
+    # m "Say you're a slut!"
+    m "Diga que você é uma vagabunda!"
+
+# game/day26.rpy:1055
+translate brazilian day26_discreet_session_d750e432_2:
+
+    # ad "No!"
+    ad "Não!"
+
+# game/day26.rpy:1062
+translate brazilian day26_discreet_session_50e84ea8:
+
+    # m "Say you're a slut!!!"
+    m "Diga que você é uma vagabunda!!!"
+
+# game/day26.rpy:1063
+translate brazilian day26_discreet_session_d94eedd1:
+
+    # ad "Owwwww!"
+    ad "Aaaaiiiiii!"
+
+# game/day26.rpy:1064
+translate brazilian day26_discreet_session_31c6e31c:
+
+    # ad "I-m a slut..."
+    ad "Eu sou uma vagabunda..."
+
+# game/day26.rpy:1066
+translate brazilian day26_discreet_session_c114fbdd:
+
+    # m "I can't hear you."
+    m "Eu não consigo te ouvir."
+
+# game/day26.rpy:1067
+translate brazilian day26_discreet_session_7a66d670:
+
+    # ad "I'm a slut!"
+    ad "Eu sou uma vagabunda!"
+
+# game/day26.rpy:1071
+translate brazilian day26_discreet_session_879dd93b:
+
+    # m "Good girl."
+    m "Boa garota."
+
+# game/day26.rpy:1072
+translate brazilian day26_discreet_session_857aba8a:
+
+    # ad "Can I go to my room now?"
+    ad "Posso ir para o meu quarto agora?"
+
+# game/day26.rpy:1073
+translate brazilian day26_discreet_session_47ba7d94:
+
+    # m "No."
+    m "Não."
+
+# game/day26.rpy:1074
+translate brazilian day26_discreet_session_696df66c:
+
+    # m "It's too late for that now."
+    m "Agora é tarde demais para isso."
+
+# game/day26.rpy:1075
+translate brazilian day26_discreet_session_5fb52f79:
+
+    # m "I know you girl, dressing up like a hussy and prowling the streets, looking for men. You're insatiable."
+    m "Eu te conheço garota, se vestindo como uma vadia e vagando pelas ruas, procurando por homens. Você é insaciável."
+
+# game/day26.rpy:1076
+translate brazilian day26_discreet_session_293ae9b5:
+
+    # ad "It's just a skirt."
+    ad "É apenas uma saia."
+
+# game/day26.rpy:1077
+translate brazilian day26_discreet_session_49a6255f:
+
+    # m "No it's not. It's a symbol."
+    m "Não, não é. É um símbolo."
+
+# game/day26.rpy:1079
+translate brazilian day26_discreet_session_9a5f982c:
+
+    # m "But if you're that desperate for cock, your brother will show you what a real man is."
+    m "Mas se você está tão desesperada por pau, seu irmão vai mostrar o que é um homem de verdade."
+
+# game/day26.rpy:1081
+translate brazilian day26_discreet_session_e445b529:
+
+    # m "But if you're that desperate for cock, your fellow tenant will show you what a real man is."
+    m "Mas se você está tão desesperada por pau, seu colega inquilino vai lhe mostrar o que é um homem de verdade."
+
+# game/day26.rpy:1082
+translate brazilian day26_discreet_session_18513f0f:
+
+    # ad "You're going to let him fuck me?"
+    ad "Você vai deixar ele me foder?"
+
+# game/day26.rpy:1083
+translate brazilian day26_discreet_session_857b34c3:
+
+    # m "That's right."
+    m "Isso mesmo."
+
+# game/day26.rpy:1084
+translate brazilian day26_discreet_session_d2ad403e:
+
+    # m "Why don't you get on your knees and suck his dick?"
+    m "Por que você não fica de joelhos e chupa o pau dele?"
+
+# game/day26.rpy:1087
+translate brazilian day26_discreet_session_5e0c8dee:
+
+    # "{i}Taking her cue you drop your pants and present Adriana with your stiffening erection."
+    "{i}Seguindo a deixa, você abaixa as calças e mostra sua ereção para Adriana."
+
+# game/day26.rpy:1088
+translate brazilian day26_discreet_session_71f71398:
+
+    # "{i}Adriana acts hesitant, but the look in her eyes is one of hunger. With deft hands she has your cock at full mast in no time."
+    "{i}Adriana finge hesitação, mas o olhar em seus olhos é de fome. Com mãos hábeis, ela deixa seu pau completamente duro num piscar de olhos."
+
+# game/day26.rpy:1093
+translate brazilian day26_discreet_session_aef75d6d:
+
+    # m "Good, suck on that, you little bitch."
+    m "Ótimo, chupe isso, sua vadia."
+
+# game/day26.rpy:1094
+translate brazilian day26_discreet_session_99cb148b:
+
+    # m "Take it all the way."
+    m "Vá até o fim."
+
+# game/day26.rpy:1102
+translate brazilian day26_discreet_session_a0bc5746:
+
+    # "{i}You push your cock deeper inside Adriana's throat. She gags and saliva is leaking from the corners of her mouth."
+    "{i}Você enfia seu pau mais fundo na garganta de Adriana. Ela engasga e saliva derrama dos cantos da boca."
+
+# game/day26.rpy:1104
+translate brazilian day26_discreet_session_7c4409eb:
+
+    # m "We're going to use all of your holes, your brother and I."
+    m "Seu irmão e eu vamos usar todos os seus buracos."
+
+# game/day26.rpy:1105
+translate brazilian day26_discreet_session_25a1f0ea:
+
+    # ad "Y-yes, mother."
+    ad "S-sim, mãe."
+
+# game/day26.rpy:1107
+translate brazilian day26_discreet_session_9a4957b0:
+
+    # m "We're going to use all of your holes, Adriana."
+    m "Vamos usar todos os seus buracos, Adriana."
+
+# game/day26.rpy:1108
+translate brazilian day26_discreet_session_de10e825:
+
+    # ad "Y-yes, landlady."
+    ad "S-sim, proprietária."
+
+# game/day26.rpy:1110
+translate brazilian day26_discreet_session_39037dfb:
+
+    # "{i}While Adriana is drooling all over her chest, you begin to fuck her throat."
+    "{i}Enquanto Adriana está babando no peito todo, você começa a foder sua garganta."
+
+# game/day26.rpy:1112
+translate brazilian day26_discreet_session_f8fd10bf:
+
+    # m "That's it, right there, make her savor that dick of yours."
+    m "É isso aí, faça ela saborear esse seu pau."
+
+# game/day26.rpy:1113
+translate brazilian day26_discreet_session_a9e11976:
+
+    # "{i}Adriana can only gurgle and looks up at you with teary eyes. The look she gives you is not one of sadness but conveys a depravity that nearly makes you coat her throat with seed."
+    "{i}Adriana só consegue engasgar e te olhar com os olhos cheios de lágrima, o olhar que ela te dá não é de tristeza, mas transmite uma depravação que quase te faz encher a garganta dela de semente."
+
+# game/day26.rpy:1114
+translate brazilian day26_discreet_session_e51d19cf:
+
+    # m "Only allow her to breathe if you feel she deserves it."
+    m "Só permita que ela respire se achar que ela merece."
+
+# game/day26.rpy:1117
+translate brazilian day26_discreet_session_07f50341:
+
+    # "{i}Your mother retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}Sua mãe tira algo de um armário e se despe. Quando ela reaparece em seu campo de visão, a única coisa que ela está vestindo é um dildo com tiras."
+
+# game/day26.rpy:1119
+translate brazilian day26_discreet_session_d359f835:
+
+    # "{i}[m_name] retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}[m_name] tira algo de um armário e se despe. Quando ela reaparece em seu campo de visão, a única coisa que ela está vestindo é um dildo com tiras."
+
+# game/day26.rpy:1120
+translate brazilian day26_discreet_session_de920d7c:
+
+    # p "{i}(I am not, repeat NOT going to be the ass-end of a human centipede.)"
+    p "{i}(Eu não vou, repito, NÃO vou ser a bunda de uma centopeia humana.)"
+
+# game/day26.rpy:1124
+translate brazilian day26_discreet_session_1f59d6a7:
+
+    # m "Are you ready to fuck your sister?"
+    m "Você está pronto para foder sua irmã?"
+
+# game/day26.rpy:1125
+translate brazilian day26_discreet_session_1ea83d23_1:
+
+    # p "Yes, mother."
+    p "Sim, mãe."
+
+# game/day26.rpy:1127
+translate brazilian day26_discreet_session_3242f70b:
+
+    # m "Are you ready to fuck your fellow tenant?"
+    m "Você está pronto para foder sua colega inquilina?"
+
+# game/day26.rpy:1128
+translate brazilian day26_discreet_session_aef04645_1:
+
+    # p "Yes, landlady."
+    p "Sim, proprietária."
+
+# game/day26.rpy:1129
+translate brazilian day26_discreet_session_4c2f3098:
+
+    # m "Good boy, we'll do it together."
+    m "Bom garoto, faremos isso juntos."
+
+# game/day26.rpy:1131
+translate brazilian day26_discreet_session_80ed1a92:
+
+    # "{i}When you pull out of Adriana's mouth she gasps for air, mucus running in thick strands from her lips to your cock."
+    "{i}Quando você tira o pau da boca de Adriana, ela tenta respirar, o muco escorrendo em fios grossos de seus lábios para o seu pau."
+
+# game/day26.rpy:1133
+translate brazilian day26_discreet_session_527dbb63:
+
+    # m "You've made your brother's cock all hard and wet, now do the same to mommy's."
+    m "Você deixou o pau do seu irmão todo duro e molhado, agora faça o mesmo com o da mamãe."
+
+# game/day26.rpy:1135
+translate brazilian day26_discreet_session_30ee6c5f:
+
+    # m "You've made your fellow tenant's cock all hard and wet, now do the same to mine."
+    m "Você deixou o pau do seu companheiro todo duro e molhado, agora faça o mesmo com o meu."
+
+# game/day26.rpy:1137
+translate brazilian day26_discreet_session_e5ab80c7:
+
+    # "{i}[m_name] thrusts the shiny black thing inside Adriana's throat and keeps it there until the girl struggles to keep it in. When she pulls out, Adriana nearly collapses to the floor."
+    "{i}[m_name] enfia a coisa preta e brilhante dentro da garganta de Adriana e a mantém lá até que a garota tenha dificuldades para mantê-la dentro. Quando ela puxa, Adriana quase cai no chão."
+
+# game/day26.rpy:1138
+translate brazilian day26_discreet_session_77430063:
+
+    # m "Again."
+    m "De novo."
+
+# game/day26.rpy:1140
+translate brazilian day26_discreet_session_cfa109e5:
+
+    # ad "Yes, mother."
+    ad "Sim, mãe."
+
+# game/day26.rpy:1142
+translate brazilian day26_discreet_session_db223938:
+
+    # ad "Yes, landlady."
+    ad "Sim, proprietária."
+
+# game/day26.rpy:1145
+translate brazilian day26_discreet_session_9f0d12fd:
+
+    # m "How do you want to use her, son?"
+    m "Filho, como gostaria de usar ela?"
+
+# game/day26.rpy:1147
+translate brazilian day26_discreet_session_f24a5df5:
+
+    # m "How do you want to use her, boy?"
+    m "Garoto, como gostaria de usar ela?"
+
+# game/day26.rpy:1160
+translate brazilian day26_discreet_session_3366b021:
+
+    # "{i}You spread Adriana's legs and push your cock against her slit. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Você abre as pernas de Adriana e empurra seu pau contra sua boceta. A garota apenas deixa isso acontecer e você enfia seu pau molhado bem fundo dentro dela."
+
+# game/day26.rpy:1161
+translate brazilian day26_discreet_session_89475d23:
+
+    # m "Ah, her sweet pussy, good choice."
+    m "Ah, sua doce boceta, boa escolha."
+
+# game/day26.rpy:1162
+translate brazilian day26_discreet_session_1be0ec35:
+
+    # m "Now fuck her."
+    m "Agora foda ela."
+
+# game/day26.rpy:1166
+translate brazilian day26_discreet_session_95a42efd:
+
+    # ad "Mmmmmm..."
+    ad "Mmmmmm..."
+
+# game/day26.rpy:1169
+translate brazilian day26_discreet_session_b8925de9:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Depois de estabelecer um ritmo de enfiadas profundas, sua mãe se posiciona atrás de Adriana. De repente, sua boceta parece muito mais apertada do que antes."
+
+# game/day26.rpy:1170
+translate brazilian day26_discreet_session_cead87c0:
+
+    # ad "Are you inside me, mommy?"
+    ad "Você está dentro de mim, mamãe?"
+
+# game/day26.rpy:1172
+translate brazilian day26_discreet_session_e8796c7c:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Depois de estabelecer um ritmo de enfiadas profundas, a [m_name] se posiciona atrás de Adriana. De repente, sua boceta parece muito mais apertada do que antes."
+
+# game/day26.rpy:1173
+translate brazilian day26_discreet_session_2d4847a9:
+
+    # ad "Are you inside me?"
+    ad "Você está dentro de mim?"
+
+# game/day26.rpy:1174
+translate brazilian day26_discreet_session_dff00f31:
+
+    # ad "Inside my ass?"
+    ad "Dentro da minha bunda?"
+
+# game/day26.rpy:1175
+translate brazilian day26_discreet_session_533fd5d7:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Sim, sua vadiazinha, vamos fazer você se sentir tão bem que nunca vai querer outro homem em sua vida."
+
+# game/day26.rpy:1181
+translate brazilian day26_discreet_session_9abdd26d:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Você e [m_name] nunca dão a Adriana um minuto de descanso. O dildo de cinta penetra impiedosamente dentro de seu cu e você alterna entre enfiadas rápidas e longas, penetrando-a cada vez mais profundamente."
+
+# game/day26.rpy:1183
+translate brazilian day26_discreet_session_a67dcfc3:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without any restraint."
+    "{i}O olhar inicial de inquietação de Adriana é substituído por completo êxtase, e ela geme sem se segurar."
+
+# game/day26.rpy:1186
+translate brazilian day26_discreet_session_22c2e5b8:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(Não vou dizer isso a ele, mas o Sr. Holmes e eu formamos uma boa equipe. Nunca vi Adriana perder o controle tão completamente.)"
+
+# game/day26.rpy:1187
+translate brazilian day26_discreet_session_b4b76819:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Será que eu deixo ele...)"
+
+# game/day26.rpy:1188
+translate brazilian day26_discreet_session_2a232f2c:
+
+    # m "{i}(No...)"
+    m "{i}(Não...)"
+
+# game/day26.rpy:1189
+translate brazilian day26_discreet_session_a93ba455:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Talvez no contexto desse role-play...)"
+
+# game/day26.rpy:1191
+translate brazilian day26_discreet_session_edc74c7a:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Foda-se. Eu quero.)"
+
+# game/day26.rpy:1193
+translate brazilian day26_discreet_session_fe569eea:
+
+    # m "Kiss your mother, son."
+    m "Beije sua mãe, filho."
+
+# game/day26.rpy:1195
+translate brazilian day26_discreet_session_d43c5d70:
+
+    # m "Kiss me, boy."
+    m "Me beija, garoto."
+
+# game/day26.rpy:1196
+translate brazilian day26_discreet_session_cf051d1a:
+
+    # p "{i}(No way!)"
+    p "(Não pode ser!)"
+
+# game/day26.rpy:1199
+translate brazilian day26_discreet_session_20af5824:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sem hesitação, você obedece. O beijo que vocês dão é totalmente diferente daquele na cama de sua mãe. Há paixão, não, fome por trás disso e a língua dela avidamente explora a sua."
+
+# game/day26.rpy:1201
+translate brazilian day26_discreet_session_5fa17325:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one you experienced in her bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sem hesitação, você obedece. O beijo que vocês dão é totalmente diferente daquele que você experienciou na cama dela. Há paixão, não, fome por trás disso e língua dela avidamente explora a sua."
+
+# game/day26.rpy:1203
+translate brazilian day26_discreet_session_4dee552f:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}As máscaras que vocês dois usam atrapalham muito, mas o beijo ainda te deixa desnorteado."
+
+# game/day26.rpy:1206
+translate brazilian day26_discreet_session_f404eda9:
+
+    # m "Don't forget to keep fucking your sister."
+    m "Não se esqueça de continuar fodendo sua irmã."
+
+# game/day26.rpy:1208
+translate brazilian day26_discreet_session_78356733:
+
+    # m "Don't forget to keep fucking that pussy."
+    m "Não se esqueça de continuar fodendo essa boceta."
+
+# game/day26.rpy:1217
+translate brazilian day26_discreet_session_575a57e1:
+
+    # "{i}You spread Adriana's buttocks and push your cock against her anus. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Você abre as pernas de Adriana e empurra seu pau contra o ânus dela. A garota apenas deixa isso acontecer e você enfia seu pau molhado bem fundo dentro dela."
+
+# game/day26.rpy:1218
+translate brazilian day26_discreet_session_94aba323:
+
+    # ad "Ooooh, god!"
+    ad "Aaaih, deus!"
+
+# game/day26.rpy:1219
+translate brazilian day26_discreet_session_dd5bf5aa:
+
+    # m "Ah, her asshole, nice and tight, good choice."
+    m "Ah, o cu dela, bem apertadinho, boa escolha."
+
+# game/day26.rpy:1220
+translate brazilian day26_discreet_session_1be0ec35_1:
+
+    # m "Now fuck her."
+    m "Agora foda ela."
+
+# game/day26.rpy:1223
+translate brazilian day26_discreet_session_1aebea9e:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Depois de estabelecer um ritmo de enfiadas profundas, sua mãe se posiciona entre as pernas de Adriana. De repente, sua bunda parece muito mais apertada do que antes."
+
+# game/day26.rpy:1224
+translate brazilian day26_discreet_session_cead87c0_1:
+
+    # ad "Are you inside me, mommy?"
+    ad "Você está dentro de mim, mamãe?"
+
+# game/day26.rpy:1226
+translate brazilian day26_discreet_session_24bad093:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Depois de estabelecer um ritmo de enfiadas profundas, a [m_name] se posiciona entre as pernas de Adriana. De repente, sua bunda parece muito mais apertada do que antes."
+
+# game/day26.rpy:1227
+translate brazilian day26_discreet_session_2d4847a9_1:
+
+    # ad "Are you inside me?"
+    ad "Você está dentro de mim?"
+
+# game/day26.rpy:1228
+translate brazilian day26_discreet_session_a0158813:
+
+    # ad "Inside my pussy?"
+    ad "Dentro da minha boceta?"
+
+# game/day26.rpy:1229
+translate brazilian day26_discreet_session_533fd5d7_1:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Sim, sua vadiazinha, vamos fazer você se sentir tão bem que nunca vai querer outro homem em sua vida."
+
+# game/day26.rpy:1234
+translate brazilian day26_discreet_session_9abdd26d_1:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Você e [m_name] nunca dão a Adriana um minuto de descanso. O dildo de cinta penetra impiedosamente dentro de seu cu e você alterna entre enfiadas rápidas e longas, penetrando-a cada vez mais profundamente."
+
+# game/day26.rpy:1236
+translate brazilian day26_discreet_session_111ad91b:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without restraint."
+    "{i}O olhar inicial de inquietação de Adriana é substituído por completo êxtase, e ela geme sem se segurar."
+
+# game/day26.rpy:1239
+translate brazilian day26_discreet_session_22c2e5b8_1:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(Não vou dizer isso a ele, mas o Sr. Holmes e eu formamos uma boa equipe. Nunca vi Adriana perder o controle tão completamente.)"
+
+# game/day26.rpy:1240
+translate brazilian day26_discreet_session_b4b76819_1:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Será que eu deixo ele...)"
+
+# game/day26.rpy:1241
+translate brazilian day26_discreet_session_2a232f2c_1:
+
+    # m "{i}(No...)"
+    m "{i}(Não...)"
+
+# game/day26.rpy:1242
+translate brazilian day26_discreet_session_a93ba455_1:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Talvez no contexto desse role-play...)"
+
+# game/day26.rpy:1243
+translate brazilian day26_discreet_session_edc74c7a_1:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Foda-se. Eu quero.)"
+
+# game/day26.rpy:1245
+translate brazilian day26_discreet_session_fe569eea_1:
+
+    # m "Kiss your mother, son."
+    m "Beije sua mãe, filho."
+
+# game/day26.rpy:1247
+translate brazilian day26_discreet_session_d43c5d70_1:
+
+    # m "Kiss me, boy."
+    m "Me beija, garoto."
+
+# game/day26.rpy:1248
+translate brazilian day26_discreet_session_cf051d1a_1:
+
+    # p "{i}(No way!)"
+    p "(Não pode ser!)"
+
+# game/day26.rpy:1250
+translate brazilian day26_discreet_session_128fef0a:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and your mother moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}A [m_name] tira o dildo de Adriana, que fica boquiaberta com sua mãe se aproximando de você. Ela empurra a garota, cuja bunda ainda está recebendo uma pancada do seu pau, para o lado e Adriana surpresa quase cai no chão."
+
+# game/day26.rpy:1252
+translate brazilian day26_discreet_session_e052f5e9:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] se tira o dildo de Adriana, que fica boquiaberta com a mulher mais velha se aproximando de você. Ela empurra a garota, cuja bunda ainda está recebendo uma pancada do seu pau, para o lado e Adriana surpresa quase cai no chão."
+
+# game/day26.rpy:1255
+translate brazilian day26_discreet_session_a7df9a82:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sem hesitar, você acaricia os lábios da [m_name] com os seus. O beijo que vocês dão é totalmente diferente daquele na cama de sua mãe. Há paixão, não, fome por trás disso e a língua dela avidamente explora a sua."
+
+# game/day26.rpy:1257
+translate brazilian day26_discreet_session_9737adfa:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in [m_name]'s bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sem hesitar, você acaricia os lábios da [m_name] com os seus. O beijo que vocês dão é totalmente diferente daquele na cama de [m_name]. Há paixão, não, fome por trás disso e sua língua avidamente explora a sua."
+
+# game/day26.rpy:1258
+translate brazilian day26_discreet_session_4dee552f_1:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}As máscaras que vocês dois usam atrapalham muito, mas o beijo ainda te deixa desnorteado."
+
+# game/day26.rpy:1261
+translate brazilian day26_discreet_session_7a783fd1:
+
+    # m "Don't forget to keep fucking your sister's ass."
+    m "Não se esqueça de continuar fodendo a bunda da sua irmã."
+
+# game/day26.rpy:1263
+translate brazilian day26_discreet_session_5133ba48:
+
+    # m "Don't forget to keep fucking that asshole."
+    m "Não se esqueça de continuar fodendo esse cu."
+
+# game/day26.rpy:1264
+translate brazilian day26_discreet_session_017cf4fb:
+
+    # ad "Y-yes please, keep fucking me!"
+    ad "S-sim por favor, continua me fodendo!"
+
+# game/day26.rpy:1265
+translate brazilian day26_discreet_session_37fee602:
+
+    # m "He's going to fill you with his seed any time now."
+    m "Ele vai te encher com sua semente a qualquer momento."
+
+# game/day26.rpy:1267
+translate brazilian day26_discreet_session_9179d8b6:
+
+    # m "You like that, don't you Adriana, your brother filling you up with his warm seed?"
+    m "Você gosta disso, não é Adriana, seu irmão te enchendo de porra quente?"
+
+# game/day26.rpy:1269
+translate brazilian day26_discreet_session_cb89798a:
+
+    # m "You like that, don't you Adriana, your roommate filling you up with his warm seed?"
+    m "Você gosta disso, não é Adriana, sua colega de quarto te enchendo de porra quente?"
+
+# game/day26.rpy:1270
+translate brazilian day26_discreet_session_2ed4e74c:
+
+    # ad "I love it!"
+    ad "Eu amo isso!"
+
+# game/day26.rpy:1272
+translate brazilian day26_discreet_session_d5c76f94:
+
+    # m "And who are the only ones who get to own your pussy?"
+    m "E quem são os únicos que podem ter sua boceta?"
+
+# game/day26.rpy:1273
+translate brazilian day26_discreet_session_e72a5940:
+
+    # ad "You both do!"
+    ad "Vocês dois!"
+
+# game/day26.rpy:1275
+translate brazilian day26_discreet_session_ed5592f6:
+
+    # "{i}Adriana's pussy is very tight, and your cock is stimulated by [m_name]'s thrusting as well. When you lift the girl, you penetrate her even more intensely than before."
+    "{i}A boceta de Adriana está muito apertada, e seu pau também é estimulado pelas enfiadas da [m_name]. Quando você levanta a garota, você a penetra ainda mais intensamente do que antes."
+
+# game/day26.rpy:1276
+translate brazilian day26_discreet_session_a5b62c1f:
+
+    # ad "Aaaaaah!"
+    ad "Aaaaaai!"
+
+# game/day26.rpy:1284
+translate brazilian day26_discreet_session_d4d3c59a:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her vagina with your cum."
+    "{i}O orgasmo profundo de Adriana é o que também o faz chegar ao clímax. Enquanto a recepcionista está tendo convulsões em seu pau e no vibrador de [m_name], você cobre as paredes da vagina com seu esperma."
+
+# game/day26.rpy:1285
+translate brazilian day26_discreet_session_ade7a4f1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "M-m-me enche! Aih, meu deus!!!"
+
+# game/day26.rpy:1287
+translate brazilian day26_discreet_session_4dc8d7d1:
+
+    # "{i}Semen is running down her thighs as your mother fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Sêmen escorre pelas coxas dela enquanto sua mãe fode a bunda um pouco mais para prolongar o orgasmo da menina."
+
+# game/day26.rpy:1289
+translate brazilian day26_discreet_session_59d38f7f:
+
+    # "{i}Semen is running down her thighs as [m_name] fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Sêmen escorre pelas coxas dela enquanto [m_name] fode sua bunda um pouco mais para prolongar o orgasmo da garota."
+
+# game/day26.rpy:1305
+translate brazilian day26_discreet_session_30c15f46:
+
+    # m "And who are the only ones who get to own your ass?"
+    m "E quem são os únicos donos da sua bunda?"
+
+# game/day26.rpy:1306
+translate brazilian day26_discreet_session_e72a5940_1:
+
+    # ad "You both do!"
+    ad "Vocês dois!"
+
+# game/day26.rpy:1308
+translate brazilian day26_discreet_session_2ed2e250:
+
+    # "{i}Adriana's asshole is very tight and your cock is stimulated by [m_name]'s thrusting as well. Your force her hands behind her back and [m_name] chokes her exposed throat."
+    "{i}O cu da Adriana está muito apertado e seu pau também é estimulado pelas enfiadas da [m_name]. Você força as mãos dela atrás das costas e [m_name] sufoca sua garganta exposta."
+
+# game/day26.rpy:1309
+translate brazilian day26_discreet_session_491a1a7b:
+
+    # "{i}The deprivation of air tightens every muscle in her body and allows Adriana to orgasm."
+    "{i}A falta de ar contrai todos os músculos do corpo da Adriana e permite que tenha ela um orgasmo."
+
+# game/day26.rpy:1310
+translate brazilian day26_discreet_session_7027df9a:
+
+    # ad "Gaaah!"
+    ad "Gaaah!"
+
+# game/day26.rpy:1318
+translate brazilian day26_discreet_session_8d34da63:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her anal cavity with your cum."
+    "{i}O orgasmo profundo de Adriana é o que te faz chegar ao clímax também. Enquanto a recepcionista está tendo convulsões em seu pau e no vibrador de [m_name], você cobre as paredes de sua cavidade anal com seu esperma."
+
+# game/day26.rpy:1319
+translate brazilian day26_discreet_session_ade7a4f1_1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "M-m-me enche! Aih, meu deus!!!"
+
+# game/day26.rpy:1321
+translate brazilian day26_discreet_session_e78775bc:
+
+    # "{i}Semen is running down her thighs and your mother's as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Sêmen escorre pelas coxas dela de sua mãe, enquanto ela fode a boceta um pouco mais para prolongar o orgasmo da menina."
+
+# game/day26.rpy:1323
+translate brazilian day26_discreet_session_12d25931:
+
+    # "{i}Semen is running down her thighs and [m_name]'s as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Sêmen escorre pelas coxas dela e da [m_name], enquanto ela fode a boceta um pouco mais para prolongar o orgasmo da garota."
+
+# game/day26.rpy:1330
+translate brazilian day26_discreet_session_21833e20:
+
+    # m "I think we showed your sister how we do things here at home."
+    m "Acho que mostramos à sua irmã como fazemos as coisas aqui em casa."
+
+# game/day26.rpy:1331
+translate brazilian day26_discreet_session_fda5a30b:
+
+    # p "We sure did, mother."
+    p "Mostramos mesmo, mãe."
+
+# game/day26.rpy:1332
+translate brazilian day26_discreet_session_3e6ef507:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Adriana, você ficar mais um pouco deitada no no chão, depois limpe tudo. Você bagunçou o chão."
+
+# game/day26.rpy:1333
+translate brazilian day26_discreet_session_30c2d1c5:
+
+    # ad "Yes mommy."
+    ad "Sim, mamãe."
+
+# game/day26.rpy:1335
+translate brazilian day26_discreet_session_52be45d4:
+
+    # m "I think we showed your roommate how we do things here at home."
+    m "Acho que mostramos à sua colega de quarto como fazemos as coisas aqui em casa."
+
+# game/day26.rpy:1336
+translate brazilian day26_discreet_session_0e11dc8c:
+
+    # p "We sure did, landlady."
+    p "Claro que sim, proprietária."
+
+# game/day26.rpy:1337
+translate brazilian day26_discreet_session_3e6ef507_1:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Adriana, você ficar mais um pouco deitada no no chão, depois limpe tudo. Você bagunçou o chão."
+
+# game/day26.rpy:1338
+translate brazilian day26_discreet_session_6c0cf7d4:
+
+    # ad "Yes landlady."
+    ad "Sim, proprietária."
+
+# game/day26.rpy:1340
+translate brazilian day26_discreet_session_ebe9b528:
+
+    # "{i}[m_name] exits the room, leaving you alone with Adriana, who is still lying wasted on the floor."
+    "{i}A [m_name] sai da sala, deixando você sozinho com Adriana, que ainda está desnorteada no chão."
+
+# game/day26.rpy:1357
+translate brazilian day26_b_hotel_sex_8ba85639:
+
+    # b "I think I'm ready for bed."
+    b "Acho que estou pronta para a cama."
+
+# game/day26.rpy:1358
+translate brazilian day26_b_hotel_sex_c43ee188:
+
+    # p "Sweet mother of Jesus, I'd say you are."
+    p "Santa mãe de Jesus, eu diria que está mesmo."
+
+# game/day26.rpy:1359
+translate brazilian day26_b_hotel_sex_a051ad79:
+
+    # b "You like it? I bought it for the occasion."
+    b "Você gosta disso? Comprei para a ocasião."
+
+# game/day26.rpy:1361
+translate brazilian day26_b_hotel_sex_46bc0cc0:
+
+    # p "I love it."
+    p "Eu amo isso."
+
+# game/day26.rpy:1366
+translate brazilian day26_b_hotel_sex_b28e367c:
+
+    # p "It accentuates your body in all the right places."
+    p "Ele acentua seu corpo em todos os lugares certos."
+
+# game/day26.rpy:1367
+translate brazilian day26_b_hotel_sex_1414059f:
+
+    # b "Do you mean it brings out my inner beauty? Or are you just drooling over my ass?"
+    b "Quer dizer que traz à tona minha beleza interior? Ou você está apenas babando com a minha bunda?"
+
+# game/day26.rpy:1368
+translate brazilian day26_b_hotel_sex_d69c9249:
+
+    # p "Inner beauty!"
+    p "Beleza interior!"
+
+# game/day26.rpy:1370
+translate brazilian day26_b_hotel_sex_a2157a79:
+
+    # p "That's the right answer, isn't it?"
+    p "Essa é a resposta certa, não é?"
+
+# game/day26.rpy:1371
+translate brazilian day26_b_hotel_sex_2993e132:
+
+    # b "Maybe..."
+    b "Talvez..."
+
+# game/day26.rpy:1372
+translate brazilian day26_b_hotel_sex_e69de8f9:
+
+    # b "Do you mind if I join you on the bed?"
+    b "Você se importa se eu me juntar a você na cama?"
+
+# game/day26.rpy:1373
+translate brazilian day26_b_hotel_sex_45a1b373:
+
+    # p "By all means!"
+    p "Fique à vontade!"
+
+# game/day26.rpy:1378
+translate brazilian day26_b_hotel_sex_8d28c468:
+
+    # "{i}[b_name] crawls onto the bed with you and nestles herself in your arms, her soft skin is warm against your body."
+    "{i}[b_name] rasteja para a cama com você e se aninha em seus braços, sua pele macia está quente contra o seu corpo."
+
+# game/day26.rpy:1380
+translate brazilian day26_b_hotel_sex_0bd55328:
+
+    # b "Mmmm."
+    b "Mmmm."
+
+# game/day26.rpy:1381
+translate brazilian day26_b_hotel_sex_3c8785d6:
+
+    # p "You're so fucking perfect."
+    p "Você é tão perfeita."
+
+# game/day26.rpy:1382
+translate brazilian day26_b_hotel_sex_e3bd8c74:
+
+    # b "Why don't you kiss me then?"
+    b "Por que você não me beija então?"
+
+# game/day26.rpy:1383
+translate brazilian day26_b_hotel_sex_2a71e097:
+
+    # p "Great idea."
+    p "Boa ideia."
+
+# game/day26.rpy:1385
+translate brazilian day26_b_hotel_sex_e5a04e7d:
+
+    # "{i}Ferocious perfectly describes the kiss you share. Any restraint the two of you displayed when Megan was still with you is completely forgotten. She's still nervous, and you feel her heart beating fast when you touch her breast."
+    "{i}Feroz descreve perfeitamente o beijo que você compartilha. Qualquer restrição que vocês dois demonstraram quando Megan ainda estava com vocês foi completamente esquecida. Ela ainda está nervosa e você sente seu coração batendo rápido quando toca seu seio."
+
+# game/day26.rpy:1386
+translate brazilian day26_b_hotel_sex_ed27614f:
+
+    # b "I love you, [p_name]."
+    b "Eu te amo, [p_name]."
+
+# game/day26.rpy:1388
+translate brazilian day26_b_hotel_sex_69e21ec5:
+
+    # b "And I think I'm ready."
+    b "E acho que estou pronta."
+
+# game/day26.rpy:1389
+translate brazilian day26_b_hotel_sex_dfc6734e:
+
+    # p "{i}(This is probably the moment where a contingent of SWAT agents raids the hotel room before realizing they made a mistake and ruins this perfect moment.)"
+    p "{i}(Este é provavelmente o momento em que um contingente de agentes da SWAT invade o quarto do hotel antes de perceber que cometeu um erro e estraga o momento perfeito.)"
+
+# game/day26.rpy:1390
+translate brazilian day26_b_hotel_sex_281184d5:
+
+    # b "Do you want me?"
+    b "Você me quer?"
+
+# game/day26.rpy:1391
+translate brazilian day26_b_hotel_sex_7988a01b:
+
+    # p "I do."
+    p "Quero."
+
+# game/day26.rpy:1394
+translate brazilian day26_b_hotel_sex_60f49f18:
+
+    # "{i}A small sigh escapes your sister, as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Um pequeno suspiro escapa de sua irmã, como se ela meio que esperasse outra resposta. Seus beijos são agora de uma natureza mais faminta enquanto ela tenta tirar a calcinha e você o sutiã dela."
+
+# game/day26.rpy:1396
+translate brazilian day26_b_hotel_sex_62cc0e47:
+
+    # "{i}A small sigh escapes [b_name], as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Um pequeno suspiro escapa de [b_name], como se ela meio que esperasse outra resposta. Seus beijos são agora de uma natureza mais faminta enquanto ela tenta tirar a calcinha e você o sutiã dela."
+
+# game/day26.rpy:1397
+translate brazilian day26_b_hotel_sex_2ed91204:
+
+    # p "{i}(No SWAT team yet! Yay for small miracles.)"
+    p "{i}(Nenhuma equipe da SWAT ainda! Oba, pequenos milagres.)"
+
+# game/day26.rpy:1399
+translate brazilian day26_b_hotel_sex_8302aa11:
+
+    # "{i}When you're finally naked, you shower [b_name]'s body with kisses until reaching her pussy. After she invites your head between her legs you slowly lick her lower lips."
+    "{i}Quando você finalmente está nu, você rega o corpo de [b_name] com beijos até chegar à boceta. Depois que ela traz sua cabeça entre as pernas, você lentamente lambe seus lábios inferiores."
+
+# game/day26.rpy:1400
+translate brazilian day26_b_hotel_sex_5c1bf654:
+
+    # b "Ooooh, [p_name]."
+    b "Aaaih, [p_name]."
+
+# game/day26.rpy:1405
+translate brazilian day26_b_hotel_sex_f8113d4b:
+
+    # "{i}She's already very wet, and a few well-placed caresses of your tongue nearly send her over the edge."
+    "{i}Ela já está bem molhada, e algumas carícias bem colocadas de sua língua quase a levam ao limite."
+
+# game/day26.rpy:1406
+translate brazilian day26_b_hotel_sex_1679180d:
+
+    # "{i}[b_name] tries to stimulate your cock, but fails due to the waves of pleasure rippling through her body, caused by the movements of your tongue on her clit."
+    "{i}[b_name] tenta estimular seu pau, mas falha devido às ondas de prazer que percorrem seu corpo, causadas pelos movimentos de sua língua no clitóris."
+
+# game/day26.rpy:1407
+translate brazilian day26_b_hotel_sex_265d60f4:
+
+    # b "Make love to me, [p_name]!"
+    b "Faça amor comigo, [p_name]!"
+
+# game/day26.rpy:1408
+translate brazilian day26_b_hotel_sex_175ce63e:
+
+    # b "I want to feel you inside of me."
+    b "Eu quero te sentir dentro de mim."
+
+# game/day26.rpy:1416
+translate brazilian day26_b_hotel_sex_d7263f59:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your sister stops you for a moment."
+    "{i}Com a boca ainda melada dos fluidos salgados dela, você empurra a ponta de sua ereção contra a entrada de sua vagina. Ao colocar a mão suavemente em seu peito, sua irmã o interrompe por um momento."
+
+# game/day26.rpy:1418
+translate brazilian day26_b_hotel_sex_75be97af:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your girlfriend stops you for a moment."
+    "{i}Com a boca ainda melada dos fluidos salgados dela, você empurra a ponta de sua ereção contra a entrada de sua vagina. Ao colocar a mão suavemente em seu peito, sua namorada o interrompe por um momento."
+
+# game/day26.rpy:1419
+translate brazilian day26_b_hotel_sex_a26a5b21:
+
+    # b "Please be gentle with me, [p_name]."
+    b "Por favor seja gentil comigo, [p_name]."
+
+# game/day26.rpy:1420
+translate brazilian day26_b_hotel_sex_e0ded75a:
+
+    # p "I'll go slow, baby."
+    p "Eu vou devagar, linda."
+
+# game/day26.rpy:1421
+translate brazilian day26_b_hotel_sex_867f4b98:
+
+    # "{i}Satisfied, [b_name] allows you to continue, and you push your cock teasingly slow inside her."
+    "{i}Satisfeita, [b_name] permite que você continue e você empurra seu pau lentamente dentro dela."
+
+# game/day26.rpy:1423
+translate brazilian day26_b_hotel_sex_111c67c8:
+
+    # "{i}When you enter her, she sighs in a mixture of relief and pleasure. Her tightness surprises you and nearly makes you cum outright."
+    "{i}Quando você a penetra, ela suspira em uma mistura de alívio e prazer. O aperto dela te surpreende e quase faz você gozar na hora."
+
+# game/day26.rpy:1424
+translate brazilian day26_b_hotel_sex_f17a0a22:
+
+    # b "Oh!"
+    b "Aih!"
+
+# game/day26.rpy:1425
+translate brazilian day26_b_hotel_sex_8087034a:
+
+    # "{i}After you both get your bearings, you kiss, and she motions you to go on."
+    "{i}Depois de ambos se orientarem, você a beija e ela faz um gesto para que você continue."
+
+# game/day26.rpy:1430
+translate brazilian day26_b_hotel_sex_1a096e67:
+
+    # "{i}Just like she asked, your thrusts are gentle, but deep. You both retreat in a world of pleasure, moaning and kissing all the while."
+    "{i}Assim como ela pediu, suas enfiadas são suaves, mas profundas. Vocês se entram em um mundo de prazer, gemendo e se beijando o tempo todo."
+
+# game/day26.rpy:1432
+translate brazilian day26_b_hotel_sex_ffad643a:
+
+    # "{i}You explore the entirety of her body with your fingers, the softness of her breasts, her toned belly, her beautiful thighs, taught with pleasure."
+    "{i}Você explora todo o seu corpo com os dedos, a maciez de seus seios, sua barriga definida, suas belas coxas, tensas de prazer."
+
+# game/day26.rpy:1434
+translate brazilian day26_b_hotel_sex_ed5a9706:
+
+    # "{i}The hotel room proves to be a great idea. You both feel completely free, as is evident by the increasing volume of the sounds of your love making."
+    "{i}O quarto de hotel revela-se uma excelente ideia. Vocês  se sentem completamente livres, como fica evidente pelo aumento do volume dos sons de suas relações amorosas."
+
+# game/day26.rpy:1435
+translate brazilian day26_b_hotel_sex_b0608f60:
+
+    # b "Just right there, [p_name], don't stop!"
+    b "Aí mesmo, [p_name], não para!"
+
+# game/day26.rpy:1436
+translate brazilian day26_b_hotel_sex_6666a5bf:
+
+    # p "Are you going to cum for me baby?"
+    p "Você vai gozar para mim, linda?"
+
+# game/day26.rpy:1438
+translate brazilian day26_b_hotel_sex_c6ab430f:
+
+    # b "Y-yes, y-es I am."
+    b "S-sim, s-im eu vou."
+
+# game/day26.rpy:1447
+translate brazilian day26_b_hotel_sex_f5203134:
+
+    # "{i}Letting out a small scream, your sister orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Soltando um pequeno grito, sua irmã tem orgasmo enquanto você continua transando com ela. Seu clímax dura muito, e ela está indefesa em seus braços, dominada por ondas de prazer."
+
+# game/day26.rpy:1449
+translate brazilian day26_b_hotel_sex_61957f95:
+
+    # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Soltando um pequeno grito, [b_name] orgasmos enquanto você continua transando com ela. Seu clímax dura muito e ela está indefesa em seus braços, dominada por ondas de prazer."
+
+# game/day26.rpy:1450
+translate brazilian day26_b_hotel_sex_385f7131:
+
+    # b "I.. l-love y-you!"
+    b "Eu ... eu t-te a-amo!"
+
+# game/day26.rpy:1452
+translate brazilian day26_b_hotel_sex_6d515908:
+
+    # "{i}You kiss her while her body still trembles. A wealth of her juices covers her sex and eases your way to penetrating her even more deeply."
+    "{i}Você a beija enquanto seu corpo ainda treme. Bastante fluidos cobrem seu pau, facilitando penetrá-la ainda mais profundamente."
+
+# game/day26.rpy:1454
+translate brazilian day26_b_hotel_sex_b8410009:
+
+    # "{i}Biting her lower lip and wearing a look of bliss, [b_name] guides your movements, kneading your buttocks and massaging your sensitive balls."
+    "{i}Mordendo o lábio inferior e com um olhar de êxtase, [b_name] guia seus movimentos, massageando suas nádegas e massageando suas bolas sensíveis."
+
+# game/day26.rpy:1455
+translate brazilian day26_b_hotel_sex_b918c839:
+
+    # b "I want you, all of it!"
+    b "Eu quero você, tudo isso!"
+
+# game/day26.rpy:1457
+translate brazilian day26_b_hotel_sex_d3c99773:
+
+    # "{i}Sweat is pearling from both your bodies as you enter the final stretch. [b_name] senses you're nearly ready and looks into your eyes while you keep fucking her pussy."
+    "{i}O suor brota de ambos os corpos quando você entra na reta final. [b_name] sente que você está quase pronto e olha nos seus olhos enquanto você continua fodendo a boceta dela."
+
+# game/day26.rpy:1470
+translate brazilian day26_b_hotel_sex_28ecca1e:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of your sister with hot seed."
+    "{i}O olhar de adoração dela é o que desencadeia seu orgasmo. Isso quase o paralisa, e a única coisa que você pode fazer é rosnar e beijar a nuca dela enquanto seu pau cobre o interior de sua irmã com sêmen quente."
+
+# game/day26.rpy:1472
+translate brazilian day26_b_hotel_sex_dc23b31f:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
+    "{i}Seu olhar de adoração é o que desencadeia seu orgasmo. Isso quase o paralisa e a única coisa que você pode fazer é rosnar e beijar a nuca dela enquanto seu pau cobre o interior de [b_name] com sêmen quente."
+
+# game/day26.rpy:1489
+translate brazilian day26_b_hotel_sex_6ecfe49c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's body with hot seed."
+    "{i}O olhar de adoração dela é o que desencadeia seu orgasmo. Isso quase o paralisa, mas você consegue se soltar, e rosnando de luxúria, cobre o corpo de sua irmã com uma sêmen quente."
+
+# game/day26.rpy:1491
+translate brazilian day26_b_hotel_sex_b5d1fb5c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s body with hot seed."
+    "{i}O olhar de adoração dela é o que desencadeia seu orgasmo. Isso quase o paralisa, mas você consegue se soltar e rosnando de luxúria, você cobre o corpo de [b_name] com sêmen quente."
+
+# game/day26.rpy:1506
+translate brazilian day26_b_hotel_sex_cb25e095:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's beautiful face with hot seed."
+    "{i}O olhar de adoração dela é o que desencadeia seu orgasmo. Isso quase o paralisa, mas você consegue se soltar e rosnando de luxúria, você cobre o lindo rosto de sua irmã com sêmen quente."
+
+# game/day26.rpy:1508
+translate brazilian day26_b_hotel_sex_6b1c1dc6:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s beautiful face with hot seed."
+    "{i}O olhar de adoração dela é o que desencadeia seu orgasmo. Isso quase o paralisa, mas você consegue se soltar e rosnar de luxúria, você cobre o lindo rosto de [b_name] com sêmen quente."
+
+# game/day26.rpy:1517
+translate brazilian day26_b_hotel_sex_162d6918:
+
+    # "{i}Afterwards you just lie together in the afterglow, unable to speak for some time. [b_name] is the first to manage a few words."
+    "{i}Depois disso, vocês ficam deitados juntos aproveitando, incapazes de falar por algum tempo. [b_name] é o primeiro a dizer algumas palavras."
+
+# game/day26.rpy:1518
+translate brazilian day26_b_hotel_sex_1c360853:
+
+    # b "You're... the best..."
+    b "Você é... demais..."
+
+# game/day26.rpy:1519
+translate brazilian day26_b_hotel_sex_1cb42a13:
+
+    # p "Thanks!"
+    p "Obrigado!"
+
+# game/day26.rpy:1520
+translate brazilian day26_b_hotel_sex_baa29dcb:
+
+    # b "No... Yes... I mean..."
+    b "Não... Sim... quero dizer..."
+
+# game/day26.rpy:1521
+translate brazilian day26_b_hotel_sex_98bc6270:
+
+    # b "You're the best thing that's ever happened to me."
+    b "Você é a melhor coisa que já me aconteceu."
+
+# game/day26.rpy:1523
+translate brazilian day26_b_hotel_sex_5b73eb1d:
+
+    # "{i}You notice the tears in her eyes and hold her close, kissing her hair."
+    "{i}Você percebe as lágrimas nos olhos dela e a abraça, beijando seus cabelos."
+
+# game/day26.rpy:1524
+translate brazilian day26_b_hotel_sex_2989575c:
+
+    # p "Happy tears?"
+    p "Lágrimas de felicidade?"
+
+# game/day26.rpy:1525
+translate brazilian day26_b_hotel_sex_caf371f4:
+
+    # b "Of course, dummy."
+    b "Claro, bobo."
+
+# game/day26.rpy:1526
+translate brazilian day26_b_hotel_sex_6ed0083b:
+
+    # b "I love you."
+    b "Eu te amo."
+
+# game/day26.rpy:1527
+translate brazilian day26_b_hotel_sex_8587becd:
+
+    # p "I love you too, [b_name]."
+    p "Eu também te amo, [b_name]."
+

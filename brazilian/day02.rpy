@@ -1857,3 +1857,53 @@ translate brazilian strings:
     # game/day02.rpy:708
     old "Read the book"
     new "Ler o livro"
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day02.rpy:751
+translate brazilian day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Por que é que a [m_name] leria essas coisas imundas?)"
+
+# game/day02.rpy:752
+translate brazilian day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(E ela tava lendo no sofá da sala... Inacreditável.)"
+
+# game/day02.rpy:753
+translate brazilian day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Me pergunto o que mais ela tem a esconder.)"
+
+# game/day02.rpy:755
+translate brazilian day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(Minha nova família está ficando cada vez mais interessante...)"
+
+# game/day02.rpy:757
+translate brazilian day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(Meus novos amigos estão ficando cada vez mais interessantes..."
+
+# game/day02.rpy:769
+translate brazilian day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(Não parece ter mais nada aqui. Melhor sair.)"
+
+# game/day02.rpy:779
+translate brazilian day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Você volta pro seu quarto e vai para a cama."
+
+# game/day02.rpy:781
+translate brazilian day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Você decide ser uma pessoa responsável e vai direto para a cama."
+

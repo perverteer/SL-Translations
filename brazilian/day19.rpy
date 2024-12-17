@@ -4433,3 +4433,1895 @@ translate brazilian day19_choices_e59bdeeb:
     # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
     "{i}Quando você termina, Rebeca engatinha até Nia, e as duas compartilham um apaixonado beijo de língua, o cabelo da Rebeca tocando no seu pau."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day19.rpy:580
+translate brazilian day19_rb_n_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Você deseja habilitar esportes aquáticos para esta cena?"
+
+# game/day19.rpy:584
+translate brazilian day19_rb_n_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Esportes aquáticos habilitados"
+
+# game/day19.rpy:587
+translate brazilian day19_rb_n_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Desportos aquáticos desativados"
+
+# game/day19.rpy:592
+translate brazilian day19_rb_n_sex_d85a2907:
+
+    # rb "We wanted to give you a fitting farewell."
+    rb "A gente queria te dar um adeus apropriado."
+
+# game/day19.rpy:593
+translate brazilian day19_rb_n_sex_b8eee1d3:
+
+    # n "The both of us."
+    n "Nós ambas."
+
+# game/day19.rpy:594
+translate brazilian day19_rb_n_sex_f9f54e69:
+
+    # p "{i}(I don't think they're talking about waving at me.)"
+    p "{i}(Eu não acho que elas estão falando de acenar para mim.)"
+
+# game/day19.rpy:598
+translate brazilian day19_rb_n_sex_38924177:
+
+    # p "You've piqued my interest."
+    p "Estou interessado."
+
+# game/day19.rpy:600
+translate brazilian day19_rb_n_sex_5804e6b6:
+
+    # rb "We had a good mother/daughter conversation this morning and it seems you've been enjoying multiple members of our little family."
+    rb "Tivemos uma boa conversa de mãe e filha essa manhã e parece que você esteve curtindo múltiplos membros da nossa familiazinha."
+
+# game/day19.rpy:601
+translate brazilian day19_rb_n_sex_ad08e5ef:
+
+    # p "I skipped on Nino, sorry."
+    p "Eu pulei o Nino, desculpa."
+
+# game/day19.rpy:602
+translate brazilian day19_rb_n_sex_be7f7928:
+
+    # n "Hahaha, I'm sure he'd be game if you asked him."
+    n "Hahaha, tenho certeza que ele aceitaria se você pedisse para ele."
+
+# game/day19.rpy:603
+translate brazilian day19_rb_n_sex_2363d476:
+
+    # n "But you've enjoyed both of us separately, why not together this time?"
+    n "Mas você curtiu nós duas separadamente, por que não juntas dessa vez?"
+
+# game/day19.rpy:605
+translate brazilian day19_rb_n_sex_7bd1dddb:
+
+    # n "Rebeca and I had a conversation this morning, and since you've enjoyed me, we thought you may like the both of us as well."
+    n "Conversamos bem essa manhã, e já que você esteve me curtindo, pensamos que você podia gostar de nós duas também."
+
+# game/day19.rpy:607
+translate brazilian day19_rb_n_sex_72efa59d:
+
+    # rb "We had a good mother/daughter conversation this morning and I'm not greedy, so I'd like to share you with Nia, if you want to."
+    rb "Conversamos bem essa mãe e filha essa manhã e eu não sou gananciosa, então eu gostaria compartilhar você com a Nia, se quiser."
+
+# game/day19.rpy:608
+translate brazilian day19_rb_n_sex_d323426a:
+
+    # p "Keep going."
+    p "Continua."
+
+# game/day19.rpy:609
+translate brazilian day19_rb_n_sex_f802474b:
+
+    # "{i}While talking, both Rebeca and Nia have removed several pieces of clothing."
+    "{i}Enquanto conversavam, ambas Rebeca e Nia removeram várias peças de roupa."
+
+# game/day19.rpy:611
+translate brazilian day19_rb_n_sex_ab5427f6:
+
+    # "{i}As they step teasingly out of their underwear, they look at you with an animalistic longing that makes you hard in an instant."
+    "{i}Enquanto elas tiram as roupas de baixo elas olham para você com um desejo animalístico que deixa você duro em um instante."
+
+# game/day19.rpy:612
+translate brazilian day19_rb_n_sex_1972cba6:
+
+    # n "Mmm... I think that cock is ready to fuck us already, mother."
+    n "Mmm... Eu acho que esse pau já está pronto para nos foder, mãe."
+
+# game/day19.rpy:613
+translate brazilian day19_rb_n_sex_54c5abdd:
+
+    # rb "Not yet, dear. Let's give him a show first. And I'm dying for a kiss."
+    rb "Ainda não, querida. Vamos dar um show para ele primeiro. E eu estou louca para um beijo."
+
+# game/day19.rpy:616
+translate brazilian day19_rb_n_sex_3919c996:
+
+    # "{i}The girls embrace and kiss. It's a hungry kiss, far removed from anything remotely resembling platonic love."
+    "{i}As garotas se abraçam e beijam. É um beijo esfomeado, bem longe de qualquer coisa remotamente lembrando amor platônico."
+
+# game/day19.rpy:617
+translate brazilian day19_rb_n_sex_8ee566a0:
+
+    # "{i}Nia lustfully squeezes and kneads her mother's butt, while Rebeca caresses her daughter's firm young breasts."
+    "{i}Nia aperta e acaricia com desejo a bunda da mãe, enquanto Rebeca acaricia os firmes jovens seios da filha."
+
+# game/day19.rpy:623
+translate brazilian day19_rb_n_sex_534413f3:
+
+    # "{i}Still kissing and moaning, the girls move to the bed and make themselves comfortable. Rebeca turns her attention to Nia's cunt."
+    "{i}Ainda se beijando e gemendo, as garotas se movem para cama e ficam confortáveis. Rebeca torna a atenção à boceta da Nia."
+
+# game/day19.rpy:624
+translate brazilian day19_rb_n_sex_bbc4abc7:
+
+    # rb "I'll make her ready for you, [p_name]."
+    rb "Vou deixar ela pronta para você [p_name]."
+
+# game/day19.rpy:625
+translate brazilian day19_rb_n_sex_f28c2150:
+
+    # "{i}You watch as Rebeca strokes Nia's pussy, which is already wet from all the excitement. A finger slips inside her daughter's slit and another soon follows. Nia thrashes against the headboard of the bed in ecstasy."
+    "{i}Você assiste enquanto Rebeca aperta a boceta da Nia, que já está molhada de toda a empolgação, um dedo desliza dentro da boceta da filha e outro logo segue. Nia se debate contra a cabeceira da cama em êxtase."
+
+# game/day19.rpy:626
+translate brazilian day19_rb_n_sex_9c8eddbe:
+
+    # rb "I want to taste you Nia, get on top of me."
+    rb "Eu quero sentir o seu sabor Nia, fica em cima de mim."
+
+# game/day19.rpy:632
+translate brazilian day19_rb_n_sex_860e0b65:
+
+    # "{i}Mother and daughter change position, and Nia positions her pussy right above Rebeca's head. You see the older woman's tongue dart out and lick her daughter's moist lips eagerly."
+    "{i}Mãe e filha trocam posição e Nia posiciona a boceta bem em cima da cabeça da Rebeca. Você vê a língua da mulher mais velha sair e lamber os lábios úmidos da filha dela ansiosamente."
+
+# game/day19.rpy:633
+translate brazilian day19_rb_n_sex_c1303112:
+
+    # "{i}As you're now naked yourself, you cannot help but stroke your cock at the sight of both girls enjoying each other."
+    "{i}Como você está agora pelado também, você não consegue evitar de se masturbar vendo as duas garotas se curtindo."
+
+# game/day19.rpy:636
+translate brazilian day19_rb_n_sex_01800b8b:
+
+    # rb "I want more of you, girl!"
+    rb "Eu quero mais de você, garota!"
+
+# game/day19.rpy:637
+translate brazilian day19_rb_n_sex_9db12743:
+
+    # "{i}Nia seems to understand what her mother wants, as she lifts her pussy from her mother's face and appears to push something out."
+    "{i}Nia parece entender o que a mãe dela quer, levantando a boceta do rosto da mãe dela e parece empurrar algo para fora."
+
+# game/day19.rpy:638
+translate brazilian day19_rb_n_sex_b0b7c98f:
+
+    # "{i}You see her little asshole pulsate under the strain, and her mother's tongue is already there to give it the attention it deserves."
+    "{i}Você vê o cuzinho dela pulsar com a pressão, e a língua da mãe dela também já está lá para dar a atenção que ele merece."
+
+# game/day19.rpy:639
+translate brazilian day19_rb_n_sex_7e3dc9db:
+
+    # n "Yes mom, right there... Ooooh right there!"
+    n "Isso mãe, aí mesmo... Aaaih aí mesmo!"
+
+# game/day19.rpy:644
+translate brazilian day19_rb_n_sex_f346eafd:
+
+    # "{i}With a sigh, Nia produces a big stream of warm piss which washes over her mother's body."
+    "{i}Com um suspiro, Nia produz uma grande corrente de mijo quente que cobre o corpo de sua mãe."
+
+# game/day19.rpy:645
+translate brazilian day19_rb_n_sex_b7eddced:
+
+    # n "Aaaah! Is that nice and warm enough for you?"
+    n "Aaaaih! Isso é quentinho o suficiente para você?"
+
+# game/day19.rpy:647
+translate brazilian day19_rb_n_sex_864a9b92:
+
+    # rb "That's my beautiful little girl, making mommy all wet."
+    rb "Essa é minha linda garotinha, deixando a mamãe toda molhadinha."
+
+# game/day19.rpy:648
+translate brazilian day19_rb_n_sex_4d0a87aa:
+
+    # "{i}That statement alone almost makes you spill your seed on the floor, but you keep it together."
+    "{i}Aquela declaração por si só quase faz você derramar sua semente no chão, mas você se segura."
+
+# game/day19.rpy:649
+translate brazilian day19_rb_n_sex_92bdd097:
+
+    # n "We're forgetting [p_name], mom."
+    n "A gente está esquecendo o [p_name], mãe."
+
+# game/day19.rpy:654
+translate brazilian day19_rb_n_sex_e3d5c3a9:
+
+    # rb "Right. I'm sure he's dying to give us something."
+    rb "Certo. Eu tenho certeza que ele está se coçando para nos dar uma coisa."
+
+# game/day19.rpy:655
+translate brazilian day19_rb_n_sex_ff05f2fe:
+
+    # p "Come over here then."
+    p "Vem cá então."
+
+# game/day19.rpy:657
+translate brazilian day19_rb_n_sex_9447d48a:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. Droplets of piss are pearling down Rebeca's body. There's a hunger in both their eyes."
+    "{i}Nia e Rebeca se ajoelham à sua frente e olham para você com expectativa. Gotas de mijo se juntam pelo corpo da Rebeca. Há uma fome nos olhos de ambas."
+
+# game/day19.rpy:658
+translate brazilian day19_rb_n_sex_e7569246:
+
+    # n "He's big, isn't he, mother?"
+    n "Ele é grande, não é, mãe?"
+
+# game/day19.rpy:659
+translate brazilian day19_rb_n_sex_58473773:
+
+    # rb "He sure is."
+    rb "Com certeza é."
+
+# game/day19.rpy:661
+translate brazilian day19_rb_n_sex_b1c02cdf:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Mas nós duas já sentimos ele dentro de nós, então sabemos que ele vai caber bem."
+
+# game/day19.rpy:663
+translate brazilian day19_rb_n_sex_146d7dcf:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Mas você teve ele dentro de você, então sabemos que ele vai caber bem."
+
+# game/day19.rpy:665
+translate brazilian day19_rb_n_sex_5e88b4ac:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Eu tive ele dentro de mim, então sabemos que ele vai caber bem."
+
+# game/day19.rpy:666
+translate brazilian day19_rb_n_sex_03378bfc:
+
+    # p "Open your mouths!"
+    p "Abram suas bocas!"
+
+# game/day19.rpy:672
+translate brazilian day19_rb_n_sex_6722dac6:
+
+    # "{i}You direct a big stream of piss at Rebeca and soon her mouth is filled with your warm fluid. Most of it spills on her tits and washes down her body, but she swallows a portion as well, reveling in it."
+    "{i}Você direciona uma grande corrente de mijo a Rebeca e logo a boca dela está cheia com seu fluído quente. A maioria derrama nos peitos dela e cobre o corpo dela, mas ela engole uma porção, deleitando-se com ele."
+
+# game/day19.rpy:674
+translate brazilian day19_rb_n_sex_8693c8b0:
+
+    # p "There's more. Nia!"
+    p "Tem mais. Nia!"
+
+# game/day19.rpy:675
+translate brazilian day19_rb_n_sex_d698ca7e:
+
+    # "{i}Nia obediently opens her mouth and receives an equal share of piss. She clearly isn't as accustomed to it and gags at the taste, letting all of it spill on her naked body."
+    "{i}Nia obedientemente abre a boca e recebe uma porção igual de mijo. Ela claramente não está tão acostumada e engasga com o gosto, deixando tudo derramar em seu corpo pelado."
+
+# game/day19.rpy:678
+translate brazilian day19_rb_n_sex_e59bdeeb:
+
+    # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
+    "{i}Quando você termina, Rebeca engatinha até Nia, e as duas compartilham um apaixonado beijo de língua, o cabelo da Rebeca tocando no seu pau."
+
+# game/day19.rpy:686
+translate brazilian day19_rb_n_sex_a5ebe768:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. There's a hunger in both their eyes."
+    "{i}Nia e Rebeca se ajoelham à sua frente e olham para você com expectativa. Há uma fome nos olhos de ambas."
+
+# game/day19.rpy:687
+translate brazilian day19_rb_n_sex_e7569246_1:
+
+    # n "He's big, isn't he, mother?"
+    n "Ele é grande, não é, mãe?"
+
+# game/day19.rpy:688
+translate brazilian day19_rb_n_sex_58473773_1:
+
+    # rb "He sure is."
+    rb "Com certeza é."
+
+# game/day19.rpy:690
+translate brazilian day19_rb_n_sex_b1c02cdf_1:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Mas nós duas já sentimos ele dentro de nós, então sabemos que ele vai caber bem."
+
+# game/day19.rpy:691
+translate brazilian day19_rb_n_sex_9a5a66e5:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "A pergunta é, ele coube na sua boca?"
+
+# game/day19.rpy:692
+translate brazilian day19_rb_n_sex_b98e718b:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Você conhece as minhas habilidades de chupar, mãe. Vou te mostrar."
+
+# game/day19.rpy:694
+translate brazilian day19_rb_n_sex_146d7dcf_1:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Mas você teve ele dentro de você, então sabemos que ele vai caber bem."
+
+# game/day19.rpy:695
+translate brazilian day19_rb_n_sex_9a5a66e5_1:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "A pergunta é, ele coube na sua boca?"
+
+# game/day19.rpy:696
+translate brazilian day19_rb_n_sex_b98e718b_1:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Você conhece as minhas habilidades de chupar, mãe. Vou te mostrar."
+
+# game/day19.rpy:698
+translate brazilian day19_rb_n_sex_5e88b4ac_1:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Eu tive ele dentro de mim, então sabemos que ele vai caber bem."
+
+# game/day19.rpy:699
+translate brazilian day19_rb_n_sex_16bda06c:
+
+    # n "But will he fit in my mouth, you think?"
+    n "Mas você acha que ele vai caber na minha boca?"
+
+# game/day19.rpy:700
+translate brazilian day19_rb_n_sex_a531e11f:
+
+    # rb "There's only one way to find out."
+    rb "Só tem um jeito de descobrir."
+
+# game/day19.rpy:705
+translate brazilian day19_rb_n_sex_20b0171b:
+
+    # "{i}Nia wraps her fingers around your cock as her mother watches her intently. The younger girl wraps her lips around your shaft and swallows you inch by inch until you feel her lips touching your balls."
+    "{i}Nia envolve os dedos em torno de seu pau enquanto sua mãe a observa atentamente. A garota mais jovem envolve os lábios em torno do seu pau e engole cada parte, até você sentir os lábios tocando em suas bolas."
+
+# game/day19.rpy:706
+translate brazilian day19_rb_n_sex_987caf1d:
+
+    # rb "That's my girl!"
+    rb "Essa é a minha garota!"
+
+# game/day19.rpy:707
+translate brazilian day19_rb_n_sex_16571544:
+
+    # "{i}Nia gags and dislodges your cock from her throat, trails of clear mucus cling to your penis and her lips as she gasps for air."
+    "{i}Nia engasga e tira seu pau da garganta, trilhas de muco transparente grudam no seu pênis e nos lábios dela, enquanto ela tenta respirar."
+
+# game/day19.rpy:712
+translate brazilian day19_rb_n_sex_f1f063f5:
+
+    # "{i}She looks at you naughtily and immediately turns her attention to your cock again as she treats you to the most ferocious cocksucking you've ever experienced."
+    "{i}Ela olha para você com safadeza e imediatamente volta a atenção ao seu pau enquanto o trata com a mais feroz chupada que você já experienciou."
+
+# game/day19.rpy:713
+translate brazilian day19_rb_n_sex_3e76f38c:
+
+    # rb "How's my daughter treating you, [p_name]? Are you ready to cum? Fill her throat?"
+    rb "Como a minha filha está te tratando, [p_name]? Pronto para gozar? Encher a garganta dela?"
+
+# game/day19.rpy:714
+translate brazilian day19_rb_n_sex_f1d18e2b:
+
+    # p "G-g-god! Keep going, Nia."
+    p "D-d-deus! Continua, Nia."
+
+# game/day19.rpy:715
+translate brazilian day19_rb_n_sex_eda25b79:
+
+    # "{i}Nia's teary eyes bore into you as she bounces her head on your throbbing cock."
+    "{i}Os olhos molhados da Nia se fixam em você enquanto sobe e desce a cabeça no seu pau pulsante."
+
+# game/day19.rpy:716
+translate brazilian day19_rb_n_sex_4e97e3b9:
+
+    # rb "Don't drain him just yet, girl. I want to have a go as well."
+    rb "Não acaba com ele ainda, garota. Eu quero ir uma vez também."
+
+# game/day19.rpy:718
+translate brazilian day19_rb_n_sex_5ad4a076:
+
+    # n "Aaaah! He's all yours, mom."
+    n "Aaaai! Ele é todo seu, mãe."
+
+# game/day19.rpy:723
+translate brazilian day19_rb_n_sex_1f9fd43a:
+
+    # rb "Damn, Nia, you've made such a mess of that boy."
+    rb "Droga, Nia você fez tanta bagunça no garoto."
+
+# game/day19.rpy:724
+translate brazilian day19_rb_n_sex_71c3cc43:
+
+    # n "Just lick him clean, mother."
+    n "Só lambe ele até limpar, mãe."
+
+# game/day19.rpy:725
+translate brazilian day19_rb_n_sex_162c8e04:
+
+    # "{i}Rebeca licks your shaft before lowering her mouth over it. Her tongue darts over your glans, sending shivers down your spine."
+    "{i}Rebeca lambe seu pau antes de baixar a boca nele. A língua dela passa rapidamente pela ponta, causando arrepios na sua espinha."
+
+# game/day19.rpy:727
+translate brazilian day19_rb_n_sex_9c3545dc:
+
+    # "{i}The more experienced woman deep-throats you with ease. You feel her wet tongue underneath your shaft as the tip touches the back of her throat. Her head begins to move up and down, and you experience the most exquisite sensations."
+    "{i}A mulher mais experiente facilmente engole seu pau todo. Você sente a língua molhada sob seu pau quando a ponta toca a parte de trás de sua garganta. A cabeça dela começa a subir e descer, e você experimenta as sensações mais refinadas."
+
+# game/day19.rpy:728
+translate brazilian day19_rb_n_sex_47a3e8ff:
+
+    # n "How does that feel, [p_name]? I know my mother is good at it, she taught me everything I know."
+    n "Como se sente, [p_name]? Eu sei o quão boa a minha mãe é, ela me ensinou tudo que eu sei."
+
+# game/day19.rpy:729
+translate brazilian day19_rb_n_sex_c60c174b:
+
+    # p "F-f-fuck Rebeca I'm about to..."
+    p "P-p-porra Rebeca eu estou quase..."
+
+# game/day19.rpy:735
+translate brazilian day19_rb_n_sex_704e9be1:
+
+    # "{i}As soon as you utter those words Rebeca stops what she's doing and crawls to Nia. The two share a passionate french kiss, Rebeca's hair tickling against your cock."
+    "{i}Assim que você fala essas palavras, Rebeca para o que está fazendo e rasteja até Nia. As duas compartilham um apaixonado beijo de língua, o cabelo da Rebeca tocando no seu pau."
+
+# game/day19.rpy:736
+translate brazilian day19_rb_n_sex_2df4d380:
+
+    # rb "We're not done with you yet. Save that precious seed for later."
+    rb "Ainda não terminamos com você. Guarda essa semente preciosa para depois."
+
+# game/day19.rpy:737
+translate brazilian day19_rb_n_sex_65bb8286:
+
+    # "{i}With much effort, you're able to stave off your orgasm."
+    "{i}Com muito esforço, você consegue segurar seu orgasmo."
+
+# game/day19.rpy:740
+translate brazilian day19_rb_n_sex_28e233a5:
+
+    # p "Get on that bed, girls."
+    p "Garotas, subam nessa cama."
+
+# game/day19.rpy:742
+translate brazilian day19_rb_n_sex_e12d9c19:
+
+    # "{i}As soon as you all lie down, the girls cover you with kisses. Nia is on top of you, and you feel her wet cunny rub against your manhood. Rebeca's tongue soon joins the stimulation of your cock as she sucks and licks your balls."
+    "{i}Assim que vocês todos se deitam, as garotas o cobrem com beijos. Nia está em cima de você e você sente a boceta molhada se esfregar contra seu pau. A língua da Rebeca logo se junta ao seu pau e ela chupa e lambe suas bolas."
+
+# game/day19.rpy:744
+translate brazilian day19_rb_n_sex_97eefd25:
+
+    # "{i}Nia's kisses are so passionate that she bites your lips once or twice, but you don't care. Her juices leak on your lower abdomen, which her mother laps up eagerly, not forgetting your dick and especially the tip of your dick, which is by now completely covered in precum."
+    "{i}Os beijos da Nia são tão apaixonados que ela morde seus lábios de vez em quando, mas você não se importa. Os fluidos dela derramam no seu abdômen, o que sua mãe lambe ansiosamente, não esquecendo seu pau e especialmente a ponta dele, que está a esse ponto completamente coberta nos próprios fluidos."
+
+# game/day19.rpy:752
+translate brazilian day19_rb_n_sex_926c88da:
+
+    # p "Aaaah, stop what you're doing Rebeca, you're going to ride me instead."
+    p "Aaaah, para o que você está fazendo Rebeca, você vai me cavalgar ao invés disso."
+
+# game/day19.rpy:754
+translate brazilian day19_rb_n_sex_528f330b:
+
+    # "{i}Rebeca obliges at once, squatting and sliding down on your cock. Firmly grabbing her ass, you push her even further down."
+    "{i}Rebeca obedece imediatamente, se agacha e desce no seu pau. Firmemente agarrando a bunda dela você a empurra ainda mais para baixo."
+
+# game/day19.rpy:755
+translate brazilian day19_rb_n_sex_da751dbf:
+
+    # rb "Fuck yes, [p_name], I'm going to fuck you so hard."
+    rb "Porra, [p_name], vou te foder com tanta força."
+
+# game/day19.rpy:761
+translate brazilian day19_rb_n_sex_068c7fa8:
+
+    # "{i}Her rhythmic fucking is fierce, and her large breasts bounce up and down. Her thick ass slaps against your thighs every time you fill her up with the length of your cock."
+    "{i}A foda rítmica dela é feroz e os largos seios sobem e descem. A bunda grande dela bate contra suas coxas toda vez que você a enche com o seu pau."
+
+# game/day19.rpy:766
+translate brazilian day19_rb_n_sex_a1ba8f88:
+
+    # "{i}Rebeca is soon joined by her daughter, who's fingering herself and stimulating your balls with her mouth."
+    "{i}Rebeca logo se junta com a filha dela, que está se dedando e estimulando suas bolas com a boca."
+
+# game/day19.rpy:767
+translate brazilian day19_rb_n_sex_0246082e:
+
+    # p "F-f-fuck!"
+    p "P-p-porra!"
+
+# game/day19.rpy:768
+translate brazilian day19_rb_n_sex_025073a3:
+
+    # rb "I want all of it in my mouth, [p_name]. Please do that for me."
+    rb "Eu quero tudo na minha boca, [p_name]. Por favor faça isso por mim."
+
+# game/day19.rpy:769
+translate brazilian day19_rb_n_sex_bed7a257:
+
+    # "{i}Rebeca pulls your rock-hard dick out of her wet gash and motions you to stand. Nia positions herself before you to give you a good view of her sex."
+    "{i}Rebeca puxa seu pau duro como pedra da boceta molhada gesticula para que você fique de pé. Nia se posiciona diante de você para dá-lo uma boa visão de sua vagina."
+
+# game/day19.rpy:775
+translate brazilian day19_rb_n_sex_132b3544:
+
+    # "{i}Nia offers her butt to her mother and Rebeca alternates between rimming her daughter's asshole and sucking your cock."
+    "{i}Nia oferece a bunda para a mãe e Rebeca alterna entre chupar o cu da filha dela e o seu pau."
+
+# game/day19.rpy:776
+translate brazilian day19_rb_n_sex_7617978b:
+
+    # "{i}The sight of such perversity is too much for you, and you spill your seed inside Rebeca's mouth."
+    "{i}Ver tanta perversidade é demais, e você derrama sua semente dentro da boca da Rebeca."
+
+# game/day19.rpy:785
+translate brazilian day19_rb_n_sex_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "Aaaaaah!"
+
+# game/day19.rpy:786
+translate brazilian day19_rb_n_sex_f72201b3:
+
+    # "{i}You keep pumping cum into Rebeca's mouth, and it starts leaking from the corners onto Nia's upright ass. The girl uses the sperm to rub her pussy and achieves a powerful orgasm in less than a minute."
+    "{i}Você continua jorrando gozo dentro da boca da Rebeca, e isso começa a vazar dos cantos até bunda empinada da Nia. A garota usa o esperma para esfregar a boceta dela e alcançar um poderoso orgasmo em menos de um minuto."
+
+# game/day19.rpy:793
+translate brazilian day19_rb_n_sex_765ef004:
+
+    # "{i}Still kissing her with passion, you lift Nia from your torso and position yourself on top of her. Her mother turns her attention to her daughter's cunt."
+    "{i}Ainda beijando ela com paixão, você levanta Nia do seu peito e se posiciona em cima dela. A mãe dela volta a atenção para boceta da filha."
+
+# game/day19.rpy:794
+translate brazilian day19_rb_n_sex_df9b68a6:
+
+    # p "I'm going to fuck you so hard, Nia."
+    p "Eu vou te foder com tanta força, Nia."
+
+# game/day19.rpy:795
+translate brazilian day19_rb_n_sex_9eb5f2d7:
+
+    # n "Mmmmm."
+    n "Mmmmm."
+
+# game/day19.rpy:801
+translate brazilian day19_rb_n_sex_f43e2993:
+
+    # "{i}Nia opens her legs invitingly and you thrust your cock inside of her tight pussy. She gasps, but her voice is muffled by her mother's cunt pressed against her face."
+    "{i}Nia abre as pernas convidativamente e você enfia seu pau dentro da boceta apertada dela. Ela suspira, mas a voz dela é abafada pela boceta da mãe dela pressionada contra seu rosto."
+
+# game/day19.rpy:802
+translate brazilian day19_rb_n_sex_0d350062:
+
+    # rb "Yes, lick me right there, honey."
+    rb "Sim, me lambe bem aí, docinho."
+
+# game/day19.rpy:807
+translate brazilian day19_rb_n_sex_b7cbc948:
+
+    # "{i}You grab Nia tightly and fuck her hard, your balls slapping against her thighs."
+    "{i}Você agarra Nia fortemente e fode ela com força, suas bolas batendo contra as coxas dela."
+
+# game/day19.rpy:809
+translate brazilian day19_rb_n_sex_8b47a10a:
+
+    # n "Mmmmm. He's fucking me so hard, mother."
+    n "Mmmmm. Ele está me fodendo com tanta força, mãe."
+
+# game/day19.rpy:810
+translate brazilian day19_rb_n_sex_8e8ffd0f:
+
+    # rb "Yes, is he going to make you cum?"
+    rb "Sim, ele vai te fazer gozar?"
+
+# game/day19.rpy:811
+translate brazilian day19_rb_n_sex_e0a9438d:
+
+    # n "Y-y-yessss!"
+    n "S-s-simmmm!"
+
+# game/day19.rpy:812
+translate brazilian day19_rb_n_sex_246b0685:
+
+    # rb "Are you going to cover my daughter with your seed, [p_name]?"
+    rb "Você vai cobrir minha filha com sua porra, [p_name]?"
+
+# game/day19.rpy:813
+translate brazilian day19_rb_n_sex_4317c50e:
+
+    # p "F-fuck yes, I am."
+    p "P-porra, vou sim."
+
+# game/day19.rpy:814
+translate brazilian day19_rb_n_sex_778a55dc:
+
+    # n "I want it in my mouth so badly, I want to swallow it all."
+    n "Eu quero tanto isso na minha boca, eu quero engolir tudo."
+
+# game/day19.rpy:816
+translate brazilian day19_rb_n_sex_71dd9188:
+
+    # "{i}You pull your rock-hard dick from Nia's wet gash and stand beside the bed. Nia grabs your cock, while Rebeca squats beside you and strokes your perineum."
+    "{i}Você puxa seu pau duro como pedra da boceta molhada da Nia e fica em pé ao lado da cama. Nia agarra seu pau, enquanto Rebeca se agacha ao seu lado e toca em seu períneo."
+
+# game/day19.rpy:817
+translate brazilian day19_rb_n_sex_a0ded363:
+
+    # rb "Come on, fill my daughter's mouth. She's ready for you."
+    rb "Vai lá, enche a boca da minha filha. Ela está pronta para você."
+
+# game/day19.rpy:818
+translate brazilian day19_rb_n_sex_58000e0a:
+
+    # "{i}The sound of such perversity is too much for you, and you spill your seed inside Nia's mouth."
+    "{i}Ouvir tanta perversidade é demais para você e você derrama sua semente dentro da boca da Nia."
+
+# game/day19.rpy:826
+translate brazilian day19_rb_n_sex_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "Aaaaaah!"
+
+# game/day19.rpy:827
+translate brazilian day19_rb_n_sex_01010bce:
+
+    # "{i}Cum keeps pumping inside Nia, and she gags a little but keeps everything inside of her mouth. Eventually, she proudly shows you your big load."
+    "{i}Gozo continua jorrando dentro da Nia e ela engasga um pouco, mas mantêm tudo dentro da boca. Eventualmente ela orgulhosamente mostra sua grande carga."
+
+# game/day19.rpy:828
+translate brazilian day19_rb_n_sex_db356f97:
+
+    # rb "Swallow it all, dear."
+    rb "Engole tudo, querida."
+
+# game/day19.rpy:829
+translate brazilian day19_rb_n_sex_fe156cbd:
+
+    # "{i}Maintaining eye contact with you, Nia swallows every last drop of sperm inside of her mouth, licking her lips once the deed is done."
+    "{i}Mantendo contato visual com você, Nia engole até a última gota de esperma da boca, lambendo os lábios assim que termina."
+
+# game/day19.rpy:839
+translate brazilian day19_rb_n_sex_a7260ebb:
+
+    # rb "Aren't you going to give mommy a kiss?"
+    rb "Não vai dar um beijinho na mamãe?"
+
+# game/day19.rpy:841
+translate brazilian day19_rb_n_sex_e625a276:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Rebeca kisses Nia's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Mãe e filha abraçam, os seios pressionados uns contra os outros. Rebeca beija o rosto da Nia e lambe as pequenas gotas de esperma da boca dela antes de compartilhar um longo, extático beijo."
+
+# game/day19.rpy:843
+translate brazilian day19_rb_n_sex_a200e8d1:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Nia kisses Rebeca's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Mãe e filha abraçam, os seios pressionados uns contra os outros. Nia beija o rosto da Rebeca e lambe as pequenas gotas de esperma da boca dela antes de compartilhar um longo, extático beijo."
+
+# game/day19.rpy:844
+translate brazilian day19_rb_n_sex_26b4df67:
+
+    # n "How is that for a farewell?"
+    n "Como foi esse adeus?"
+
+# game/day19.rpy:845
+translate brazilian day19_rb_n_sex_78d1ef2a:
+
+    # p "Damn girls, you drained me. I'm not sure if I'll be able to cum for the next few days."
+    p "Droga garotas, vocês acabaram comigo. Não tenho certeza se vou conseguir gozar pelos próximos dias."
+
+# game/day19.rpy:846
+translate brazilian day19_rb_n_sex_2beab29f:
+
+    # rb "A stud like you? I'm sure you will."
+    rb "Um garanhão que nem você? Tenho certeza que vai."
+
+# game/day19.rpy:847
+translate brazilian day19_rb_n_sex_bea929ea:
+
+    # rb "If you ever get back to Belugio, or if you all decide to stay a little longer, our door is always open."
+    rb "Se você algum dia voltar para Belugio, ou se vocês todos decidirem ficar mais um pouco, nossa porta está sempre aberta."
+
+# game/day19.rpy:848
+translate brazilian day19_rb_n_sex_a7be7838:
+
+    # n "That's not the only thing that'll be open for you, [p_name]..."
+    n "Essa não é a única coisa que estará aberta para você, [p_name]..."
+
+# game/day19.rpy:849
+translate brazilian day19_rb_n_sex_f0442b53:
+
+    # rb "Naughty girl... And a very bad play on words."
+    rb "Garota safada... E uma piada muito ruim."
+
+# game/day19.rpy:850
+translate brazilian day19_rb_n_sex_e530ad83:
+
+    # n "Sorry, hot sex always makes me a little giddy."
+    n "Desculpa, sexo gostoso sempre me deixa um pouco empolgada."
+
+# game/day19.rpy:851
+translate brazilian day19_rb_n_sex_b6060de2:
+
+    # p "You're forgiven, little firecracker."
+    p "Está perdoada, sua safadinha."
+
+# game/day19.rpy:854
+translate brazilian day19_rb_n_sex_11b3894a:
+
+    # "{i}Mother and daughter kiss you passionately and leave the apartment."
+    "{i}Mãe e filha o beijam apaixonadamente e saem do apartamento."
+
+# game/day19.rpy:864
+translate brazilian day19_rb_n_sex_55d8ce2a:
+
+    # p "Sorry girls, but I have a very busy schedule today."
+    p "Desculpa garotas, mas eu estou muito ocupado hoje."
+
+# game/day19.rpy:866
+translate brazilian day19_rb_n_sex_6536bd26:
+
+    # n "Busy? You're on holiday?"
+    n "Ocupado? Mas você está de férias?"
+
+# game/day19.rpy:867
+translate brazilian day19_rb_n_sex_792964d9:
+
+    # rb "Calm down dear, he clearly isn't interested in us."
+    rb "Se acalma querida, ele claramente não está interessado na gente."
+
+# game/day19.rpy:868
+translate brazilian day19_rb_n_sex_87560e6c:
+
+    # rb "Safe travels."
+    rb "Boa viagem."
+
+# game/day19.rpy:869
+translate brazilian day19_rb_n_sex_743ce775:
+
+    # "{i}Clearly irritated, both girls leave the apartment and you're alone again."
+    "{i}Claramente irritadas, ambas as garotas saem do apartamento e você está sozinho de novo."
+
+# game/day19.rpy:885
+translate brazilian day19_l_handjob_5ee6c705:
+
+    # "{i}Your sister strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}Sua irmã fica pelada, e você se assusta com suas lindas e arredondadas proporções."
+
+# game/day19.rpy:887
+translate brazilian day19_l_handjob_b34edba4:
+
+    # "{i}[l_name] strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}[l_name] fica pelada, e você se assusta com suas lindas e arredondadas proporções."
+
+# game/day19.rpy:889
+translate brazilian day19_l_handjob_3b819904:
+
+    # l "Sorry that you need to help me again, [p_name]. I'm so hopeless."
+    l "Desculpe você ter que me ajudar novamente, [p_name]. Eu não tenho jeito mesmo."
+
+# game/day19.rpy:891
+translate brazilian day19_l_handjob_bef7c59a:
+
+    # l "You really need to guide me through all this, [p_name]. I'm so hopeless."
+    l "Você precisa mesmo me guiar por tudo isso, [p_name]. Eu não tenho jeito mesmo."
+
+# game/day19.rpy:892
+translate brazilian day19_l_handjob_8ba80d5d:
+
+    # p "{i}(Why the fuck is this beautiful girl apologizing for LETTING ME DO THIS?! Ok, calm down, play it cool...)"
+    p "{i}(Por que caralhos essa garota linda está se desculpando por ME DEIXAR FAZER ISSO?! Ok, se acalma, vai de boa...)"
+
+# game/day19.rpy:893
+translate brazilian day19_l_handjob_cc4aea5c:
+
+    # p "There's absolutely no need to apologize, I'm just glad I can help you this way."
+    p "Não tem absolutamente nenhuma necessidade de se desculpar, eu só estou feliz que posso te ajudar assim."
+
+# game/day19.rpy:894
+translate brazilian day19_l_handjob_43ba43e7:
+
+    # "{i}You remove your underwear and crawl next to [l_name] on the bed."
+    "{i}Você tira a cueca e rasteja ao lado de [l_name] na cama."
+
+# game/day19.rpy:896
+translate brazilian day19_l_handjob_54509c0e:
+
+    # p "So, remember, just take it slow. Explore your body, not just your pussy."
+    p "Então, lembra, só vai com calma. Explora o corpo, não só a sua boceta."
+
+# game/day19.rpy:898
+translate brazilian day19_l_handjob_65996910:
+
+    # p "Just take it slow. Explore your body, not just your pussy."
+    p "Vai com calma. Explora o corpo, não só a sua boceta."
+
+# game/day19.rpy:899
+translate brazilian day19_l_handjob_77aab732:
+
+    # p "It's important that you get completely in the mood first. Touch the areas of your body that are sensitive."
+    p "É importante que você fique completamente no clima primeiro. Toca as áreas do seu corpo que são sensíveis."
+
+# game/day19.rpy:900
+translate brazilian day19_l_handjob_d55cb3c1:
+
+    # l "Gosh, that sounds so naughty!"
+    l "Nossa, isso é tão safado!"
+
+# game/day19.rpy:905
+translate brazilian day19_l_handjob_bb146abc:
+
+    # p "Touch your breasts, the skin of your nipples."
+    p "Toca os seios, a pele dos mamilos."
+
+# game/day19.rpy:906
+translate brazilian day19_l_handjob_d7e86173:
+
+    # p "See how hard they're getting?"
+    p "Está vendo como eles tão ficando duros?"
+
+# game/day19.rpy:907
+translate brazilian day19_l_handjob_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "S-s-sim..."
+
+# game/day19.rpy:908
+translate brazilian day19_l_handjob_d77b4e90:
+
+    # p "Now trail all the way down from your breasts to your navel with your fingertips."
+    p "Agora vai dos seus seios até o seu umbigo com as pontas do seus dedos."
+
+# game/day19.rpy:909
+translate brazilian day19_l_handjob_5a984e8c:
+
+    # p "Good, a little bit further."
+    p "Bom, um pouquinho mais."
+
+# game/day19.rpy:910
+translate brazilian day19_l_handjob_2fba298f:
+
+    # "{i}You hear [l_name] breathing heavily in anticipation, she's obviously ready for anything that's about to come."
+    "{i}Você ouve [l_name] respirando pesadamente em antecipação, ela está obviamente pronta para tudo que está por vir."
+
+# game/day19.rpy:912
+translate brazilian day19_l_handjob_774a69e4:
+
+    # p "Caress the insides of your thighs first, right up to your little pussy, but don't touch it just yet."
+    p "Acaricia a parte de dentro das suas coxas primeiro, até a sua bocetinha, mas não toca ela ainda."
+
+# game/day19.rpy:913
+translate brazilian day19_l_handjob_b1939e23:
+
+    # l "Mmmmm..."
+    l "Mmmmm..."
+
+# game/day19.rpy:914
+translate brazilian day19_l_handjob_e477eaec:
+
+    # p "{i}(That sounds good! Time to up the ante.)"
+    p "{i}(Parece ótimo! Hora de aumentar a intensidade.)"
+
+# game/day19.rpy:915
+translate brazilian day19_l_handjob_64441c2e:
+
+    # p "Slowly work your way towards your pussy, touch the lips... Are you wet, [l_name]? Did you make yourself wet?"
+    p "Vai devagar até a boceta, toca os lábios... Está molhada, [l_name]? Você ficou molhada?"
+
+# game/day19.rpy:916
+translate brazilian day19_l_handjob_b778bd52:
+
+    # l "[p_name]! You shouldn't... Yes... Ooooh!"
+    l "[p_name]! Você não deveria... Sim... Aaaih!"
+
+# game/day19.rpy:918
+translate brazilian day19_l_handjob_9baea2c7:
+
+    # p "It's time to massage your little lovebud. Just rub it gently and keep at it when it feels good."
+    p "É hora de massagear seu botãozinho. Agora esfrega ele gentilmente e continua quando ficar bom."
+
+# game/day19.rpy:919
+translate brazilian day19_l_handjob_f63bb849:
+
+    # "{i}She quivers slightly as she softly rubs her clitoris. Your erection that has been developing is nearly at full strength."
+    "{i}Ela estremece levemente enquanto ela suavemente esfrega o clitóris dela. Sua ereção que está se desenvolvendo está quase com força total."
+
+# game/day19.rpy:922
+translate brazilian day19_l_handjob_6db58636:
+
+    # l "Are you getting... having an... ah... erection again?"
+    l "Você está ficando... tendo uma... ah... ereção de novo?"
+
+# game/day19.rpy:924
+translate brazilian day19_l_handjob_53854849:
+
+    # l "You have a... you know... don't you?"
+    l "Você está com uma... sabe... não está?"
+
+# game/day19.rpy:925
+translate brazilian day19_l_handjob_3309102f:
+
+    # p "An erection?"
+    p "Uma ereção?"
+
+# game/day19.rpy:926
+translate brazilian day19_l_handjob_cb797768:
+
+    # l "Y-yes?"
+    l "S-sim?"
+
+# game/day19.rpy:927
+translate brazilian day19_l_handjob_2b400d73:
+
+    # p "Does it bother you?"
+    p "Te incomoda?"
+
+# game/day19.rpy:928
+translate brazilian day19_l_handjob_0f1a8c03:
+
+    # l "No! No! It's only natural, isn't it?"
+    l "Não! Não! É natural, não é?"
+
+# game/day19.rpy:929
+translate brazilian day19_l_handjob_c81890ad:
+
+    # p "It would take a blind person not to get aroused by you, [l_name]. Everything is so perfect, the gentle curves of your hips, your soft skin, those beautiful breasts..."
+    p "Eu teria que ser cego para não ficar excitado com você, [l_name]. Tudo é tão perfeito, as gentis curvas dos seus quadris, sua pele macia, esses lindos seios..."
+
+# game/day19.rpy:930
+translate brazilian day19_l_handjob_2d696ba3:
+
+    # p "And to see you connect to yourself in such a simple, yet profound way... I wish I could discover it all again."
+    p "E para ver você se conectar consigo mesma de um jeito tão simples, ainda assim, profundo... Eu gostaria poder descobrir tudo de novo."
+
+# game/day19.rpy:932
+translate brazilian day19_l_handjob_f075de93:
+
+    # l "Were you... Sorry, I shouldn't stop."
+    l "Você estava... Desculpa, Eu não devia parar."
+
+# game/day19.rpy:933
+translate brazilian day19_l_handjob_1c431c1d:
+
+    # p "No, do whatever you want. Take your time. Pillow talk is equally important."
+    p "Não, faz o que você quiser. Ao seu tempo. Conversar é igualmente importante."
+
+# game/day19.rpy:934
+translate brazilian day19_l_handjob_bcfbdf3c:
+
+    # l "I'm just too curious. You'll say it when I overstep, right?"
+    l "Eu só estou muito curiosa. Você me avisa quando eu for longe demais, né?"
+
+# game/day19.rpy:935
+translate brazilian day19_l_handjob_ab916dec:
+
+    # p "Don't worry, dearest, you can ask me anything."
+    p "Não se preocupa, querida, pode me perguntar qualquer coisa."
+
+# game/day19.rpy:936
+translate brazilian day19_l_handjob_09ca7bc5:
+
+    # l "What I meant to ask was, were you very young when you first... you know... touched yourself?"
+    l "O que eu quis perguntar foi, você era muito jovem quando... você sabe... se tocou?"
+
+# game/day19.rpy:937
+translate brazilian day19_l_handjob_ec9299b6:
+
+    # p "I think I was twelve or thirteen. When I was reading some magazine, I came across a girl in lingerie and started rubbing my penis against my mattress. That felt really good."
+    p "Eu acho que eu tinha doze ou treze anos. Quando eu estava lendo uma revista, passei por uma garota usando lingerie e comecei a esfregar meu pau contra o meu colchão. Foi uma sensação muito boa."
+
+# game/day19.rpy:938
+translate brazilian day19_l_handjob_f3b5ee07:
+
+    # p "So next time I used my hands and covered everything in sperm. From that moment the floodgates were open."
+    p "Então na próxima vez eu usei as minhas mãos e cobri tudo em esperma. Daquele momento em diante os portões se abriram."
+
+# game/day19.rpy:939
+translate brazilian day19_l_handjob_d80db94b:
+
+    # l "Really?"
+    l "Sério?"
+
+# game/day19.rpy:940
+translate brazilian day19_l_handjob_45a2fc71:
+
+    # p "Yes, teenage boys are generally not known for their restraint."
+    p "Sim, garotos adolescentes não são conhecidos por sua restrição."
+
+# game/day19.rpy:941
+translate brazilian day19_l_handjob_e59e8eea:
+
+    # p "{i}(Teenage girls as well, but I guess [l_name] is an exception.)"
+    p "{i}(Garotas adolescentes também, mas acho que a [l_name] é uma exceção.)"
+
+# game/day19.rpy:942
+translate brazilian day19_l_handjob_e459ff34:
+
+    # l "I guess not."
+    l "Acho que não."
+
+# game/day19.rpy:943
+translate brazilian day19_l_handjob_b0ac0799:
+
+    # l "So you did it often? And what were you thinking about?"
+    l "Então você fazia isso com muita frequência? E sobre o quê você pensava?"
+
+# game/day19.rpy:944
+translate brazilian day19_l_handjob_c79a3f74:
+
+    # p "Depends, sometimes it was a hot girl from school, other times some singer or a movie star."
+    p "Depende, às vezes era uma garota gostosa da escola, outras vezes alguma cantora um ou uma estrela de um filme."
+
+# game/day19.rpy:945
+translate brazilian day19_l_handjob_b8dc4fc2:
+
+    # l "Go on... please..."
+    l "Continua... por favor..."
+
+# game/day19.rpy:953
+translate brazilian day19_l_handjob_fafff477:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Enquanto você fala, sua irmã inconscientemente alcança os confins molhados da boceta novamente e enfia um dedo sem pensar, bem como você a ensinou na praia."
+
+# game/day19.rpy:955
+translate brazilian day19_l_handjob_619fe197:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Enquanto você fala, [l_name] inconscientemente alcança os confins molhados da boceta novamente e enfia um dedo sem pensar, bem como você a ensinou na praia."
+
+# game/day19.rpy:958
+translate brazilian day19_l_handjob_a6bbccf2:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Enquanto você fala, sua irmã inconscientemente alcança os confins molhados da boceta novamente e enfia um dedo sem pensar."
+
+# game/day19.rpy:960
+translate brazilian day19_l_handjob_cfa21e35:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Enquanto você fala, [l_name] inconscientemente alcança os confins molhados da boceta novamente e enfia um dedo sem pensar."
+
+# game/day19.rpy:961
+translate brazilian day19_l_handjob_b300fb9c:
+
+    # p "{i}(Woah! I guess she likes my dirty stories... Better keep going.)"
+    p "{i}(Uau! Acho que ela gosta das minhas histórias safadas... Melhor continuar.)"
+
+# game/day19.rpy:962
+translate brazilian day19_l_handjob_5f245e54:
+
+    # p "But with every imaginary girl I thought about her warm, naked body next to mine, stroking her breasts, thighs, the soft curve of her butt."
+    p "Mas com cada garota imaginária eu pensava sobre o corpo pelado, quente ao lado do meu, massageando os seios dela, coxas, a curva macia da bunda dela."
+
+# game/day19.rpy:963
+translate brazilian day19_l_handjob_4fb61ee5:
+
+    # p "And then she would grab hold of my penis and start to massage it, and I pretended that my hands were hers..."
+    p "E então ela iria agarrar meu pau e começar a massagear ele e eu fingia que as minhas mãos eram dela..."
+
+# game/day19.rpy:964
+translate brazilian day19_l_handjob_b1939e23_1:
+
+    # l "Mmmmm..."
+    l "Mmmmm..."
+
+# game/day19.rpy:965
+translate brazilian day19_l_handjob_f3e0e689:
+
+    # p "Touching the veins of my hard penis, caressing the sensitive skin of my balls..."
+    p "Tocando as veias do meu pênis duro, acariciando a pele sensível das minhas bolas..."
+
+# game/day19.rpy:967
+translate brazilian day19_l_handjob_aeb2f13c:
+
+    # l "Ooooh!"
+    l "Aaaah!"
+
+# game/day19.rpy:968
+translate brazilian day19_l_handjob_1a15c51f:
+
+    # p "She would teasingly run a wet finger across my tip and eventually focus on the head of my erect cock and bring me to a wild orgasm with just her fingertip."
+    p "Ela passaria um dedo molhado provocativamente pela ponta e eventualmente focaria na cabeça do meu pau duro e me trazer a um orgasmo selvagem só com a ponta do dedo."
+
+# game/day19.rpy:975
+translate brazilian day19_l_handjob_685850f9:
+
+    # l "Aaaaaaah! [p_name]!"
+    l "Aaaaaaai! [p_name]!"
+
+# game/day19.rpy:976
+translate brazilian day19_l_handjob_4a2fd30d:
+
+    # "{i}With one arm hooked around your neck, [l_name] embraces you tightly as she convulses violently in orgasm. With clawed fingers, she keeps rubbing her pussy as her body alternates between lifting from the bed and collapsing back onto it in pure ecstasy."
+    "{i}Com um braço enganchado em volta do seu pescoço, [l_name] o abraça fortemente enquanto treme violentamente com o orgasmo. Com dedos dobrados, ela continua esfregando a boceta enquanto o corpo alterna entre levantar da cama e cair nela de novo em puro êxtase."
+
+# game/day19.rpy:980
+translate brazilian day19_l_handjob_98a19efc:
+
+    # l "I... I don't know..."
+    l "Eu... Eu não sei..."
+
+# game/day19.rpy:981
+translate brazilian day19_l_handjob_c4e9ae5c:
+
+    # p "Ssssh, catch your breath first. Just wait until the pleasure subsides."
+    p "Ssssh, recupera o fôlego primeiro. Só espera até o prazer diminuir."
+
+# game/day19.rpy:983
+translate brazilian day19_l_handjob_4ada726c:
+
+    # "{i}Your sister spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}Sua irmã tem espasmos selvagens por mais alguns minutos, antes de cair com um suspiro contra você."
+
+# game/day19.rpy:985
+translate brazilian day19_l_handjob_969fdab8:
+
+    # "{i}[l_name] spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}[l_name] tem espasmos selvagens por mais alguns minutos, antes de cair com um suspiro contra você."
+
+# game/day19.rpy:987
+translate brazilian day19_l_handjob_4cf81e50:
+
+    # l "I don't know what you do to me, but it's magical."
+    l "Eu não sei o que você faz comigo, mas é magico."
+
+# game/day19.rpy:988
+translate brazilian day19_l_handjob_75d2b5a3:
+
+    # p "I think you like dirty talk, dear [l_name]."
+    p "Eu acho que você gosta de conversa safada, querida [l_name]."
+
+# game/day19.rpy:989
+translate brazilian day19_l_handjob_49b8af83:
+
+    # l "I think so too."
+    l "Eu também acho."
+
+# game/day19.rpy:990
+translate brazilian day19_l_handjob_c8761aa8:
+
+    # "{i}After a brief silence, [l_name] looks up at you hesitantly."
+    "{i}Após um breve silêncio, [l_name] olha para você hesitantemente."
+
+# game/day19.rpy:991
+translate brazilian day19_l_handjob_db769f37:
+
+    # l "I feel a bit guilty, you know."
+    l "Eu me sinto um pouco culpada, sabia."
+
+# game/day19.rpy:992
+translate brazilian day19_l_handjob_f2034c6c:
+
+    # p "Why is that?"
+    p "Por quê?"
+
+# game/day19.rpy:993
+translate brazilian day19_l_handjob_852aa209:
+
+    # l "You gave me this wonderful feeling and didn't get anything in return."
+    l "Você me deu essa sensação maravilhosa e não recebeu nada em troca."
+
+# game/day19.rpy:994
+translate brazilian day19_l_handjob_6c372a63:
+
+    # p "Your pleasure is the only thing that matters."
+    p "O seu prazer é a única coisa que importa."
+
+# game/day19.rpy:995
+translate brazilian day19_l_handjob_37954768:
+
+    # l "You still have an erection."
+    l "Você ainda tem uma ereção."
+
+# game/day19.rpy:996
+translate brazilian day19_l_handjob_8306b4c9:
+
+    # p "{i}(Damn, betrayed by my own body!)"
+    p "{i}(Droga, traído pelo meu próprio corpo!)"
+
+# game/day19.rpy:997
+translate brazilian day19_l_handjob_2684a0d6:
+
+    # p "True."
+    p "Verdade."
+
+# game/day19.rpy:998
+translate brazilian day19_l_handjob_1528110d:
+
+    # l "I could help you with that."
+    l "Eu podia te ajudar com isso."
+
+# game/day19.rpy:999
+translate brazilian day19_l_handjob_d6c41a96:
+
+    # p "{i}(God, that shy look mixed with guilty pleasure is nearly enough to spray everything with cum right this instant.)"
+    p "{i}(Deus, aquele olhar tímido misturado com um prazer envergonhado é quase o suficiente para melar tudo com porra agora mesmo.)"
+
+# game/day19.rpy:1000
+translate brazilian day19_l_handjob_8d0cf986:
+
+    # p "I would like that. But only if you want to."
+    p "Eu gostaria disso. Mas só se você quiser."
+
+# game/day19.rpy:1001
+translate brazilian day19_l_handjob_47db8ebb:
+
+    # l "That's why I proposed it."
+    l "É por isso que eu propus isso."
+
+# game/day19.rpy:1002
+translate brazilian day19_l_handjob_e2f2282a:
+
+    # l "But you have to help me again. I've never given a... a... touched..."
+    l "Mas você tem que me ajudar novamente. Eu nunca dei um... um ... nunca toquei..."
+
+# game/day19.rpy:1003
+translate brazilian day19_l_handjob_f5967354:
+
+    # p "There's not much that can go wrong with a handjob, don't worry!"
+    p "Não tem muito como dar errado, não se preocupa!"
+
+# game/day19.rpy:1004
+translate brazilian day19_l_handjob_61fe587b:
+
+    # l "Okay. I'll trust you on that."
+    l "Ok. Vou confiar em você nessa."
+
+# game/day19.rpy:1007
+translate brazilian day19_l_handjob_58b33573:
+
+    # "{i}Still a little uncertain, [l_name] reaches out for your penis, which is proudly standing and covered in a sheen of precum."
+    "{i}Ainda um pouco incerta, [l_name] alcança seu pênis, que está orgulhosamente de pé e coberto de fluidos."
+
+# game/day19.rpy:1008
+translate brazilian day19_l_handjob_e235c4f5:
+
+    # l "It's really hard... And so warm."
+    l "É bem duro... E tão quente."
+
+# game/day19.rpy:1009
+translate brazilian day19_l_handjob_d54ef614:
+
+    # "{i}Her fingers feel along your shaft, exploring every vein and ridge. All of your muscles tense in anticipation."
+    "{i}Os dedos dela sentem seu pau, explorando cada veia e dobra. Todos os seus músculos se tensionam em antecipação."
+
+# game/day19.rpy:1010
+translate brazilian day19_l_handjob_0201c171:
+
+    # l "Does this feel... good?"
+    l "Isso está... bom?"
+
+# game/day19.rpy:1011
+translate brazilian day19_l_handjob_193ea7ae:
+
+    # p "Y-yes... It's been a long time since I went that slow and it's really good."
+    p "S-sim... Faz um bom tempo desde que eu fui tão lento e é muito bom."
+
+# game/day19.rpy:1016
+translate brazilian day19_l_handjob_646a47b6:
+
+    # "{i}[l_name] wraps her fingers around your dick and squeezes slightly."
+    "{i}[l_name] envolve os dedos no seu pau e aperta ele levemente."
+
+# game/day19.rpy:1017
+translate brazilian day19_l_handjob_3b974d32:
+
+    # l "It's really hard."
+    l "Está bem duro."
+
+# game/day19.rpy:1018
+translate brazilian day19_l_handjob_3c7969a4:
+
+    # p "Yes, yes, it is."
+    p "Sim, sim, está."
+
+# game/day19.rpy:1019
+translate brazilian day19_l_handjob_6951588d:
+
+    # l "That didn't hurt, did it?"
+    l "Não doeu, doeu?"
+
+# game/day19.rpy:1020
+translate brazilian day19_l_handjob_ae24c0c5:
+
+    # p "No, quite the opposite. Don't worry about squeezing too hard. Could you move your hand up and down?"
+    p "Não, pelo contrário. Não se preocupa sobre apertar ele forte demais. Pode subir e descer sua mão?"
+
+# game/day19.rpy:1021
+translate brazilian day19_l_handjob_ac7404fd:
+
+    # "{i}She obliges and pulls the foreskin over your glans and back down again. Her warm hand exerts just the right amount of pressure."
+    "{i}Ela obedece e puxa a pele por cima das suas glândulas e desce de novo. A mão dela exerce só a quantidade certa de pressão."
+
+# game/day19.rpy:1022
+translate brazilian day19_l_handjob_acea5e73:
+
+    # p "Gaaah! Keep going just like that."
+    p "Gaaah! Continua bem assim."
+
+# game/day19.rpy:1024
+translate brazilian day19_l_handjob_e13a6fb1:
+
+    # "{i}Encouraged by your words, your sister starts jerking your cock in measured movements."
+    "{i}Encorajada por suas palavras, sua irmã começa a bombear seu pau em movimentos calculados."
+
+# game/day19.rpy:1026
+translate brazilian day19_l_handjob_5d309d40:
+
+    # "{i}Encouraged by your words, the girl starts jerking your cock in measured movements."
+    "{i}Encorajada por suas palavras, a garota começa a bombear seu pau em movimentos calculados."
+
+# game/day19.rpy:1027
+translate brazilian day19_l_handjob_ea69d216:
+
+    # p "Keep going, [l_name], keep going!"
+    p "Continua, [l_name], continua!"
+
+# game/day19.rpy:1028
+translate brazilian day19_l_handjob_bf59aca1:
+
+    # l "I will! Is something happening?"
+    l "Eu vou! Está acontecendo alguma coisa?"
+
+# game/day19.rpy:1029
+translate brazilian day19_l_handjob_ec89ccf6:
+
+    # p "I'm about to..."
+    p "Eu estou prestes a..."
+
+# game/day19.rpy:1030
+translate brazilian day19_l_handjob_e29a29a2:
+
+    # l "Yes?"
+    l "Sim?"
+
+# game/day19.rpy:1031
+translate brazilian day19_l_handjob_0e749ebf:
+
+    # p "C-c-cuuuummmmm!"
+    p "G-g-gooozaarrr!"
+
+# game/day19.rpy:1037
+translate brazilian day19_l_handjob_d9d51597:
+
+    # "{i}[l_name] doesn't let go of your penis while streams of warm seed spill from the head and over her soft hand. When your orgasm subsides and your dick starts to get too sensitive, you steady her hand to stop her from jerking you off."
+    "{i}[l_name] não solta seu pênis enquanto jatos de semente quente derramam da cabeça e por cima da mão macia dela. Quando o seu orgasmo alivia e o seu pau começa a ficar sensível demais, você segura a mão dela para impedi-la de masturbá-lo."
+
+# game/day19.rpy:1041
+translate brazilian day19_l_handjob_4759e7f8:
+
+    # l "I didn't know there would be so much of it."
+    l "Eu não sabia que iria ter tanto."
+
+# game/day19.rpy:1042
+translate brazilian day19_l_handjob_15d2ccb7:
+
+    # p "There isn't always."
+    p "Não é sempre que tem."
+
+# game/day19.rpy:1043
+translate brazilian day19_l_handjob_984e4857:
+
+    # l "Was this a good... ending?"
+    l "Foi um bom... final?"
+
+# game/day19.rpy:1044
+translate brazilian day19_l_handjob_b87a3d8a:
+
+    # p "If the foreplay is amazing and you're with a beautiful girl, orgasms tend to be great. So yeah, a very good ending."
+    p "Se as preliminares são incríveis e você está com uma garota linda, orgasmo tende a ser ótimo. Então sim, um final muito bom."
+
+# game/day19.rpy:1045
+translate brazilian day19_l_handjob_c2a202f5:
+
+    # l "Your stuff, it's really thick and sticky. It dries quickly as well."
+    l "Isso  é bem grosso e pegajoso. Seca bem rápido também."
+
+# game/day19.rpy:1046
+translate brazilian day19_l_handjob_8f1ae1f9:
+
+    # p "{i}(Thank you for the thorough analysis.)"
+    p "{i}(Obrigado pela análise profunda.)"
+
+# game/day19.rpy:1047
+translate brazilian day19_l_handjob_a1ae4212:
+
+    # p "Sperm tends to behave that way."
+    p "Esperma tende a se comportar assim."
+
+# game/day19.rpy:1048
+translate brazilian day19_l_handjob_6beed191:
+
+    # l "I guess it does."
+    l "Aparentemente."
+
+# game/day19.rpy:1049
+translate brazilian day19_l_handjob_c7f0bb71:
+
+    # l "I've got to go and wash it off my hands before it dries."
+    l "Eu tenho que ir lavar minhas mãos antes de secar."
+
+# game/day19.rpy:1051
+translate brazilian day19_l_handjob_362eb025:
+
+    # "{i}Before she can get up from the bed, you kiss her without restraint."
+    "{i}Antes que ela consiga levantar, da cama você beija ela sem restrição."
+
+# game/day19.rpy:1052
+translate brazilian day19_l_handjob_58024a15:
+
+    # p "I love you."
+    p "Eu te amo."
+
+# game/day19.rpy:1053
+translate brazilian day19_l_handjob_d80db94b_1:
+
+    # l "Really?"
+    l "Sério?"
+
+# game/day19.rpy:1054
+translate brazilian day19_l_handjob_3b88c420:
+
+    # p "Yes."
+    p "Sim."
+
+# game/day19.rpy:1056
+translate brazilian day19_l_handjob_b3efe616:
+
+    # l "I love you too, little brother, sleep well."
+    l "Eu também te amo, irmãozinho, durma bem."
+
+# game/day19.rpy:1058
+translate brazilian day19_l_handjob_3043c321:
+
+    # l "I love you too, [p_name], sleep well."
+    l "Eu também te amo, [p_name], durma bem."
+
+# game/day19.rpy:1077
+translate brazilian day19_b_handjob_3432a76b:
+
+    # "{i}You hear [b_name] slide from the bed and unclasp her bra."
+    "{i}Você ouve [b_name] deslizar da cama e abrir o sutiã."
+
+# game/day19.rpy:1078
+translate brazilian day19_b_handjob_74c6eaa9:
+
+    # b "You may turn around now."
+    b "Você tem que se virar agora."
+
+# game/day19.rpy:1083
+translate brazilian day19_b_handjob_71c97b8d:
+
+    # b "So. This is me."
+    b "Então. Essa sou eu."
+
+# game/day19.rpy:1084
+translate brazilian day19_b_handjob_87f3e913:
+
+    # p "Wow."
+    p "Uau."
+
+# game/day19.rpy:1085
+translate brazilian day19_b_handjob_895a54e3:
+
+    # p "{i}(Wow!)"
+    p "{i}(Uau!)"
+
+# game/day19.rpy:1087
+translate brazilian day19_b_handjob_11f81977:
+
+    # p "I'm running out of superlatives to describe you, sis."
+    p "Eu não sei o que falar para te descrever, mana."
+
+# game/day19.rpy:1089
+translate brazilian day19_b_handjob_33cf3f7f:
+
+    # p "I'm running out of superlatives to describe you, [b_name]."
+    p "Tô ficando sem superlativos para te descrever, [b_name]."
+
+# game/day19.rpy:1090
+translate brazilian day19_b_handjob_c2d44fd8:
+
+    # p "Let's just say you're the most beautiful girl in the world."
+    p "Vamos só dizer que você é a garota mais linda no mundo."
+
+# game/day19.rpy:1091
+translate brazilian day19_b_handjob_01ca3d21:
+
+    # b "That's an acceptable assessment."
+    b "Essa é uma observação aceitável."
+
+# game/day19.rpy:1096
+translate brazilian day19_b_handjob_1b7c56a3:
+
+    # p "{i}(Holy mother of Sweet Baby Jesus... What does she do to keep that gorgeous ass in perfect shape? Practice black magic?)"
+    p "{i}(Meu deus Jesus Cristo senhor do céu... O que é que ela faz para manter essa bunda deslumbrante em forma perfeita? Pratica magia negra?)"
+
+# game/day19.rpy:1098
+translate brazilian day19_b_handjob_2725c03d:
+
+    # b "Now. Lose the underpants, brother!"
+    b "Agora. Tira a cueca, irmão!"
+
+# game/day19.rpy:1100
+translate brazilian day19_b_handjob_a2677bbf:
+
+    # b "Now. Lose the underpants!"
+    b "Agora. Tira a cueca!"
+
+# game/day19.rpy:1101
+translate brazilian day19_b_handjob_45273f7e:
+
+    # p "With pleasure!"
+    p "Com prazer!"
+
+# game/day19.rpy:1103
+translate brazilian day19_b_handjob_3dbb714a:
+
+    # "{i}[b_name] stares at your dick for a while before saying anything."
+    "{i} [b_name] encara o seu pau por um tempo antes de dizer qualquer coisa."
+
+# game/day19.rpy:1105
+translate brazilian day19_b_handjob_91c1f020:
+
+    # b "You're my little brother in name only, it seems."
+    b "Você é meu irmãozinho só de nome, parece."
+
+# game/day19.rpy:1107
+translate brazilian day19_b_handjob_0b2919a3:
+
+    # b "Damn, that's quite the apparatus, [p_name]."
+    b "Droga, esse é um aparelho em tanto, [p_name]."
+
+# game/day19.rpy:1108
+translate brazilian day19_b_handjob_aac340b5:
+
+    # p "I'm glad you think so."
+    p "Eu fico feliz que você ache."
+
+# game/day19.rpy:1110
+translate brazilian day19_b_handjob_fcc5ca87:
+
+    # "{i}You climb on the bed next to [b_name]. You feel the warmth of her body as she inches even closer, staring lovingly into your eyes."
+    "{i}Você sobe na cama ao lado de [b_name]. Você sente o calor de seu corpo quando ela se aproxima ainda mais, olhando amorosamente em seus olhos."
+
+# game/day19.rpy:1111
+translate brazilian day19_b_handjob_e2675151:
+
+    # b "I feel so at peace when I'm with you. I haven't felt that in a long time."
+    b "Eu me sinto tão em paz quando estou com você. Eu não sentia isso faz um bom tempo."
+
+# game/day19.rpy:1112
+translate brazilian day19_b_handjob_d6f3f76d:
+
+    # "{i}You stroke her soft hair in response and pull her closer to you."
+    "{i}Você acaricia o cabelo macio dela em resposta e puxa ela mais perto de você."
+
+# game/day19.rpy:1115
+translate brazilian day19_b_handjob_7cee4730:
+
+    # "{i}Saying nothing further, you're both kissing each other wildly. Your tongues collide, and your hands are everywhere."
+    "{i}Sem dizer nada mais, vocês se beijam descontroladamente. Suas línguas colidem e suas mãos estão em todo lugar."
+
+# game/day19.rpy:1121
+translate brazilian day19_b_handjob_1d12eef8:
+
+    # "{i}Your sister hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}Sua irmã ansiosa alcança seu pau ereto e começa a masturbá-lo."
+
+# game/day19.rpy:1123
+translate brazilian day19_b_handjob_5f791157:
+
+    # "{i}[b_name] hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}[b_name] avidamente alcança seu pau ereto e começa a masturbá-lo."
+
+# game/day19.rpy:1124
+translate brazilian day19_b_handjob_99dbaad2:
+
+    # b "I want you so bad, [p_name]!"
+    b "Eu te quero tanto, [p_name]!"
+
+# game/day19.rpy:1125
+translate brazilian day19_b_handjob_46c85225:
+
+    # "{i}Without letting go of your penis, [b_name] lies down underneath you and guides your cock towards her pussy."
+    "{i}Sem soltar seu pênis, [b_name] deita abaixo de você e guia seu pau até a boceta dela."
+
+# game/day19.rpy:1128
+translate brazilian day19_b_handjob_f8f4dcb0:
+
+    # "{i}Her breathing is heavy as you push the tip of your cock against her wet entrance and a heavy moan escapes her."
+    "{i}A respiração dela é pesada, e você empurra a ponta do seu pau contra a entrada molhada e um gemido pesado escapa dela."
+
+# game/day19.rpy:1132
+translate brazilian day19_b_handjob_add106f5:
+
+    # b "Wait! What are we doing?!"
+    b "Espera! O que a gente está fazendo?!"
+
+# game/day19.rpy:1133
+translate brazilian day19_b_handjob_72b820bb:
+
+    # b "We shouldn't... It's not..."
+    b "A gente não devia... Não é..."
+
+# game/day19.rpy:1134
+translate brazilian day19_b_handjob_3f804576:
+
+    # p "{i}(Fuck, why does she have to have doubts at this very moment?!)"
+    p "{i}(Porra, por que ela tem que ter dúvidas logo agora?!)"
+
+# game/day19.rpy:1139
+translate brazilian day19_b_handjob_f864f112:
+
+    # p "Ssssh, don't worry. It's going to be okay."
+    p "Ssssh, não se preocupa. Vai ficar tudo bem."
+
+# game/day19.rpy:1140
+translate brazilian day19_b_handjob_3a0f1f9b:
+
+    # "{i}You push your head further against her labia and nearly enter her."
+    "{i}Você empurra sua cabeça mais longe contra a lábia dela e quase entra nela."
+
+# game/day19.rpy:1142
+translate brazilian day19_b_handjob_1d208285:
+
+    # b "Goddammit! I said wait!"
+    b "Droga! Eu disse espera!"
+
+# game/day19.rpy:1144
+translate brazilian day19_b_handjob_1997aff2:
+
+    # "{i}Your sister struggles beneath you and manages to slip from under you."
+    "{i}Sua irmã luta abaixo de você e consegue sair de lá."
+
+# game/day19.rpy:1146
+translate brazilian day19_b_handjob_5aad0328:
+
+    # "{i}[b_name] struggles beneath you and manages to slip from under you."
+    "{i}[b_name] luta abaixo de você e consegue sair de lá."
+
+# game/day19.rpy:1147
+translate brazilian day19_b_handjob_92c7d07e:
+
+    # b "Not cool, [p_name]."
+    b "Não foi legal, [p_name]."
+
+# game/day19.rpy:1148
+translate brazilian day19_b_handjob_04ce9570:
+
+    # p "Fuck. Sorry, I wasn't thinking."
+    p "Porra. Desculpa, eu não estava pensando."
+
+# game/day19.rpy:1149
+translate brazilian day19_b_handjob_3bc411eb:
+
+    # b "Yeah, no shit."
+    b "É, não brinca."
+
+# game/day19.rpy:1151
+translate brazilian day19_b_handjob_e398493a:
+
+    # b "Just sit and hold me, okay?"
+    b "Só senta e me abraça, ok?"
+
+# game/day19.rpy:1152
+translate brazilian day19_b_handjob_31491233:
+
+    # p "Okay. Shit. I'm so sorry [b_name]."
+    p "Ok. Merda. Eu sinto tanto [b_name]."
+
+# game/day19.rpy:1153
+translate brazilian day19_b_handjob_1f7375ed:
+
+    # b "Fine. You're sorry. Can we not talk about it anymore?"
+    b "Tudo bem. Você sente muito. Dá para não falar mais disso?"
+
+# game/day19.rpy:1157
+translate brazilian day19_b_handjob_f4a7e240:
+
+    # p "Are you okay, [b_name]?"
+    p "Está tudo bem, [b_name]?"
+
+# game/day19.rpy:1158
+translate brazilian day19_b_handjob_67edd7c2:
+
+    # b "I was just spooked, that's all..."
+    b "Eu estava só assustada, só isso..."
+
+# game/day19.rpy:1159
+translate brazilian day19_b_handjob_69fbe89d:
+
+    # b "Maybe we're going a little too fast?"
+    b "Talvez a gente esteja indo um pouco rápido demais?"
+
+# game/day19.rpy:1160
+translate brazilian day19_b_handjob_8eef431e:
+
+    # p "I know what you mean."
+    p "Eu sei o que você quer dizer."
+
+# game/day19.rpy:1161
+translate brazilian day19_b_handjob_0e4c09bd:
+
+    # b "Fuck, I hate to do this to you."
+    b "Porra, eu odeio fazer isso com você."
+
+# game/day19.rpy:1162
+translate brazilian day19_b_handjob_62073ee8:
+
+    # p "No, it's fine. I want it to be right for both of us."
+    p "Não, tudo bem. Eu quero que seja bom para nós dois."
+
+# game/day19.rpy:1163
+translate brazilian day19_b_handjob_b0640c0a:
+
+    # b "Well, I could still help you..."
+    b "Bom, eu ainda podia te ajudar..."
+
+# game/day19.rpy:1164
+translate brazilian day19_b_handjob_369b89ba:
+
+    # p "{i}(And... now it's right for me.)"
+    p "{i}(E... agora ficou bom para mim.)"
+
+# game/day19.rpy:1165
+translate brazilian day19_b_handjob_2585b2e1:
+
+    # p "Tell me more!"
+    p "Me conta mais!"
+
+# game/day19.rpy:1170
+translate brazilian day19_b_handjob_0723fb18:
+
+    # "{i}[b_name] touches your dick again and starts to jerk you off slowly."
+    "{i}[b_name] toca seu pau de novo e começa a masturbá-lo lentamente."
+
+# game/day19.rpy:1171
+translate brazilian day19_b_handjob_82c62760:
+
+    # b "Do you like that?"
+    b "Gosta disso?"
+
+# game/day19.rpy:1172
+translate brazilian day19_b_handjob_75e037b1:
+
+    # p "Oh yes!"
+    p "Ah sim!"
+
+# game/day19.rpy:1173
+translate brazilian day19_b_handjob_bc35e96a:
+
+    # b "I'm going to make you cum so hard."
+    b "Vou fazer você gozar tanto."
+
+# game/day19.rpy:1174
+translate brazilian day19_b_handjob_1c3e78dd:
+
+    # "{i}With short and powerful motions, she brings you closer and closer to orgasm until you just can't hold yourself together."
+    "{i}Com curtos e poderosos movimentos, ela o traz mais e mais perto do orgasmo até você não consegue mais se segurar."
+
+# game/day19.rpy:1180
+translate brazilian day19_b_handjob_8e38f6f4:
+
+    # p "Aaaaaaaah!"
+    p "Aaaaaaaah!"
+
+# game/day19.rpy:1182
+translate brazilian day19_b_handjob_a461bec6:
+
+    # "{i}Your sister doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}Sua irmã não solta seu pau enquanto está derramando jatos de semente quente por cima dos lençóis todos."
+
+# game/day19.rpy:1184
+translate brazilian day19_b_handjob_7f9b9a0a:
+
+    # "{i}[b_name] doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}[b_name] não solta seu pau enquanto está derramando jatos de semente quente por cima dos lençóis todos."
+
+# game/day19.rpy:1187
+translate brazilian day19_b_handjob_30ebf1ec:
+
+    # p "Apology accepted."
+    p "Desculpas aceitas."
+
+# game/day19.rpy:1189
+translate brazilian day19_b_handjob_1684d2f2:
+
+    # b "Hahaha! Dickhead!"
+    b "Hahaha! Idiota!"
+
+# game/day19.rpy:1190
+translate brazilian day19_b_handjob_2239a90c:
+
+    # p "Cunt!"
+    p "Arrombada!"
+
+# game/day19.rpy:1191
+translate brazilian day19_b_handjob_9cccb824:
+
+    # b "Wanker!"
+    b "Punheteiro!"
+
+# game/day19.rpy:1192
+translate brazilian day19_b_handjob_05c668f5:
+
+    # p "Hey! If I recall correctly, you did all the wanking."
+    p "Ei! Se eu me lembro bem, você fez toda a punhetagem."
+
+# game/day19.rpy:1193
+translate brazilian day19_b_handjob_ee483489:
+
+    # b "Who cares! You're still a wanker!"
+    b "Quem se importa! Você ainda é um punheteiro!"
+
+# game/day19.rpy:1194
+translate brazilian day19_b_handjob_e76bb582:
+
+    # p "Hussy!"
+    p "Vadia!"
+
+# game/day19.rpy:1195
+translate brazilian day19_b_handjob_91ae80f7:
+
+    # b "That's so low!"
+    b "Essa foi tão baixa!"
+
+# game/day19.rpy:1196
+translate brazilian day19_b_handjob_58f581da:
+
+    # b "Fucknut!"
+    b "Babaca!"
+
+# game/day19.rpy:1198
+translate brazilian day19_b_handjob_fa1ed663:
+
+    # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of your sister's happy laughter."
+    "{i}Os insultos que vocês ficam trocando se tornam mais barrocos à medida em que o tempo progride, e você não se cansa da risada feliz da sua irmã."
+
+# game/day19.rpy:1199
+translate brazilian day19_b_handjob_c32b77cf:
+
+    # "{i}After one last kiss, you hold your giggling sister tight and together you soon fall asleep."
+    "{i}Após um último beijo, você segura a sua irmã dando risadinhas apertado e juntos vocês logo caem no sono."
+
+# game/day19.rpy:1201
+translate brazilian day19_b_handjob_7ba12db4:
+
+    # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of [b_name]'s happy laughter."
+    "{i}Os insultos que vocês ficam trocando se tornam mais barrocos à medida em que o tempo progride, e você não se cansa da risada feliz da [b_name]."
+
+# game/day19.rpy:1202
+translate brazilian day19_b_handjob_70c9f5b2:
+
+    # "{i}After one last kiss, you hold your giggling lover tight and together you soon fall asleep."
+    "{i}Após um último beijo, você segura a sua amante dando risadinhas apertado e juntos vocês logo caem no sono."
+

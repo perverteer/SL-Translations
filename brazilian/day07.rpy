@@ -3387,125 +3387,125 @@ translate brazilian day07_p_room_evening_choices_8b46b72d:
 translate brazilian day07_f70b1975:
 
     # r "No, [p_name]. What are you doing?"
-    r ""
+    r "Não, [p_name]. O quê você está fazendo?"
 
 # game/day07.rpy:106
 translate brazilian day07_9d64b096:
 
     # p "Shit, [r_name], I'm so sorry, I thought..."
-    p ""
+    p "Merda, [r_name], Eu sinto muito, eu pensei..."
 
 # game/day07.rpy:211
 translate brazilian day07_a041eae4:
 
     # p "{i}(Shit. Don't be so suspicious, sis...)"
-    p ""
+    p "{i}(Merda. Não suspeite tanto, mana...)"
 
 # game/day07.rpy:213
 translate brazilian day07_31e5230e:
 
     # p "{i}(Shit. Don't be so suspicious, [l_name]...)"
-    p ""
+    p "{i}(Merda. Não seja tão suspeita [l_name]...)"
 
 # game/day07.rpy:230
 translate brazilian day07_77815930:
 
     # l "[p_name], I need to talk to you."
-    l ""
+    l "[p_name], Eu preciso falar com você."
 
 # game/day07.rpy:341
 translate brazilian day07_p_room_choices_81bb4036:
 
     # p "Anyway, to help you ease the tension, I'm going to give you a nice massage."
-    p ""
+    p "De qualquer forma, para ajudar a melhorar a tensão, eu vou te dar uma boa massagem."
 
 # game/day07.rpy:381
 translate brazilian day07_p_room_choices_5ca06381:
 
     # p "Please turn around, [b_name]."
-    p ""
+    p "Por favor se vire, [b_name]."
 
 # game/day07.rpy:383
 translate brazilian day07_p_room_choices_5ca06381_1:
 
     # p "Please turn around, [b_name]."
-    p ""
+    p "Por favor se vire, [b_name]."
 
 # game/day07.rpy:443
 translate brazilian day07_p_room_choices_656b7dbb:
 
     # p "Hey, [b_name]. It's me."
-    p ""
+    p "Ei, [b_name]. Sou eu."
 
 # game/day07.rpy:461
 translate brazilian day07_p_room_choices_9b9f0e10:
 
     # p "Don't worry, [b_name]. It's only money."
-    p ""
+    p "Não se preocupa, [b_name] É só dinheiro."
 
 # game/day07.rpy:464
 translate brazilian day07_p_room_choices_ea7add68:
 
     # "{i}It takes a long while for [b_name] to calm down. When she disentangles herself from your embrace, it almost seems as if she looks at you with different eyes."
-    ""
+    "{i}Demora bastante para a [b_name] se acalmar. Quando ela sai do seu abraço, ela quase parece olhar para você de forma diferente."
 
 # game/day07.rpy:474
 translate brazilian day07_p_room_choices_e7aad70a:
 
     # b "With your help, I paid the money in full yesterday and I thought that was it."
-    b ""
+    b "Com a sua ajuda eu paguei o dinheiro completamente ontem e pensei que era isso."
 
 # game/day07.rpy:507
 translate brazilian day07_p_room_choices_1fbb89e9:
 
     # p "{i}(Ah, sis, you should've used reverse image search before compromising yourself...)"
-    p ""
+    p "{i}(Ah, mana, você devia ter usado procura de imagem reversa antes de se comprometer...)"
 
 # game/day07.rpy:509
 translate brazilian day07_p_room_choices_efe00c8e:
 
     # p "{i}(Ah, [b_name], you should've used reverse image search before compromising yourself...)"
-    p ""
+    p "{i}(Ah, [b_name], você devia ter usado procura de imagem reversa antes de se comprometer...)"
 
 # game/day07.rpy:533
 translate brazilian day07_p_room_choices_038e8058:
 
     # p "First, I need to understand how the arrangement with that MisterX works."
-    p ""
+    p "Primeiro, eu preciso entender como funciona o acordo com aquele MisterX."
 
 # game/day07.rpy:626
 translate brazilian day07_p_room_choices_22964eee:
 
     # p "{i}(That's not how a store works, Brody. People should give you money and get groceries, not the other way around.)"
-    p ""
+    p "{i}(Não é assim que uma loja funciona, Brody, as pessoas deveriam te dar o dinheiro e receber compras, não o contrário.)"
 
 # game/day07.rpy:644
 translate brazilian day07_p_room_choices_997fff22:
 
     # p "Well, at least you punched him real good."
-    p ""
+    p "Bom, pelo menos você deu um soco bom mesmo nele."
 
 # game/day07.rpy:770
 translate brazilian day07_alley_c65d42e9:
 
     # "{i}On a nondescript street, MisterX slows down and walks up to a house, fetches a key from his pocket and unlocks the front door."
-    ""
+    "{i}Numa rua indefinida, MisterX anda mais devagar e vai até uma casa, pega uma chave do bolso e destranca a porta da frente."
 
 # game/day07.rpy:812
 translate brazilian day07_p_room_evening_choices_02f85bad:
 
     # p "It's me, [b_name]."
-    p ""
+    p "Sou eu, [b_name]."
 
 # game/day07.rpy:937
 translate brazilian day07_p_room_evening_choices_d717ed3d:
 
     # m "I'm going to bed. Busy day tomorrow. Sleep well, [p_name]."
-    m ""
+    m "Eu vou para a cama. Dia ocupado amanhã. Durma bem, [p_name]."
 
 # game/day07.rpy:981
 translate brazilian day07_p_room_evening_choices_34eda4f8:
 
     # r "Now I'm intrigued! Bring it on, mister!"
-    r ""
+    r "Agora estou intrigada! Manda ver, senhor!"
 

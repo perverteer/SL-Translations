@@ -7886,3 +7886,41 @@ translate brazilian day140_r_b_fuck_241c029b:
     # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
     "{i}Você dá um tapa de leve na boceta da sua namorada e acena com a cabeça para [r_name] continuar as cócegas."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day140.rpy:1902
+translate brazilian day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] está grávida nesta cena?"
+
+# game/day140.rpy:1906
+translate brazilian day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] grávida"
+
+# game/day140.rpy:1909
+translate brazilian day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] não está grávida"
+
+# game/day140.rpy:1911
+translate brazilian day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Você deseja habilitar esportes aquáticos para esta cena?"
+
+# game/day140.rpy:1915
+translate brazilian day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Esportes aquáticos habilitados"
+
+# game/day140.rpy:1918
+translate brazilian day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Desportos aquáticos desativados"
+

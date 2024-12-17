@@ -6376,7 +6376,7 @@ translate brazilian day142_morning_event_67efbd1d:
 translate brazilian day142_morning_event_02afae5f:
 
     # p "{i}(And considering the way things are going in this country, that dream might become reality one day.)"
-    p "{iI(E considerando como as coisas vão nesse país, aquele sonho pode se tornar realidade.)"
+    p "{i}(E considerando como as coisas vão nesse país, aquele sonho pode se tornar realidade.)"
 
 # game/day142.rpy:1814
 translate brazilian day142_morning_event_1bb9babc:
@@ -7336,13 +7336,13 @@ translate brazilian day142_r_b_l_m_licking_22b420f4:
 translate brazilian day142_r_b_l_m_licking_96ba689b:
 
     # "{i}The rest of your family treat each other, [r_name] is penetrated by her mother's fingers while [l_name] kisses her breasts."
-    "{I}O resto de sua família se diverte entre si, [r_name] sendo penetrada pelos dedos de sua mãe enquanto [l_name] beija seus seios."
+    "{i}O resto de sua família se diverte entre si, [r_name] sendo penetrada pelos dedos de sua mãe enquanto [l_name] beija seus seios."
 
 # game/day142.rpy:2199
 translate brazilian day142_r_b_l_m_licking_f0aeca56:
 
     # "{i}The rest of your friends treat each other, [r_name] is penetrated by [m_name]'s fingers while [l_name] kisses her breasts."
-    "{I}O resto de suas amigas se diverte entre si, [r_name] sendo penetrada pelos dedos da [m_name] enquanto [l_name] beija seus seios."
+    "{i}O resto de suas amigas se diverte entre si, [r_name] sendo penetrada pelos dedos da [m_name] enquanto [l_name] beija seus seios."
 
 # game/day142.rpy:2200
 translate brazilian day142_r_b_l_m_licking_5ae937e3:
@@ -11409,4 +11409,114 @@ translate brazilian day142_l_sex_57a49b76:
 
     # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
     "{i}Quando ela fica diante de você de joelhos, gozo começa a jorrar dentro de sua boca aberta."
+
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day142.rpy:1860
+translate brazilian day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] está grávida nesta cena?"
+
+# game/day142.rpy:1864
+translate brazilian day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] grávida"
+
+# game/day142.rpy:1867
+translate brazilian day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] não está grávida"
+
+# game/day142.rpy:1869
+translate brazilian day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] está grávida nesta cena?"
+
+# game/day142.rpy:1873
+translate brazilian day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] grávida"
+
+# game/day142.rpy:1876
+translate brazilian day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] não está grávida"
+
+# game/day142.rpy:3141
+translate brazilian day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "[r_name] está grávida nesta cena?"
+
+# game/day142.rpy:3145
+translate brazilian day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] grávida"
+
+# game/day142.rpy:3148
+translate brazilian day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] não está grávida"
+
+# game/day142.rpy:3442
+translate brazilian day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "[l_name] está grávida nesta cena?"
+
+# game/day142.rpy:3446
+translate brazilian day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] grávida"
+
+# game/day142.rpy:3449
+translate brazilian day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] não está grávida"
+
+# game/day142.rpy:3709
+translate brazilian day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] está grávida nesta cena?"
+
+# game/day142.rpy:3713
+translate brazilian day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] grávida"
+
+# game/day142.rpy:3716
+translate brazilian day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] não está grávida"
+
+# game/day142.rpy:3951
+translate brazilian day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] está grávida nesta cena?"
+
+# game/day142.rpy:3955
+translate brazilian day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] grávida"
+
+# game/day142.rpy:3958
+translate brazilian day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] não está grávida"
 

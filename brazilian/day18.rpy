@@ -3169,3 +3169,755 @@ translate brazilian day18_m_walking_choices_66e33e83:
     # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
     "{i}[b_name] vai embora em silêncio, deixando-o sozinho no sofá. Após se deitar, você logo cai no sono de novo."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day18.rpy:636
+translate brazilian day18_b_bj_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day18.rpy:640
+translate brazilian day18_b_bj_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day18.rpy:643
+translate brazilian day18_b_bj_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day18.rpy:650
+translate brazilian day18_b_bj_597c998b:
+
+    # p "I've been trudging around the jungle all day with a busty, half nude woman. So I've been building up some sexual energy that needs releasing."
+    p "Estive me arrastando pela selva o dia toda com uma mulher peituda quase nua. Então eu estava juntando uma energia sexual que precisa ser solta."
+
+# game/day18.rpy:652
+translate brazilian day18_b_bj_dceef590:
+
+    # b "You mean, [m_name]?"
+    b "Você está falando da [m_name]?"
+
+# game/day18.rpy:653
+translate brazilian day18_b_bj_6b2311bf:
+
+    # p "Who else?"
+    p "Quem mais?"
+
+# game/day18.rpy:655
+translate brazilian day18_b_bj_a5163d8e:
+
+    # b "So you're getting off on seeing your own mother naked?"
+    b "Então você fica com tesão se ver a sua própria mãe pelada?"
+
+# game/day18.rpy:656
+translate brazilian day18_b_bj_8120ee4c:
+
+    # p "Considering the things we've done together, that surprises you?"
+    p "Considerando as coisas que fizemos juntos, isso te surpreende?"
+
+# game/day18.rpy:657
+translate brazilian day18_b_bj_c6faf0b0:
+
+    # b "Pffff..."
+    b "Pffff..."
+
+# game/day18.rpy:660
+translate brazilian day18_b_bj_74222b7b:
+
+    # b "So I guess you want me to touch your dingus again?"
+    b "Então acho que você quer que eu toque seu coiso de novo?"
+
+# game/day18.rpy:661
+translate brazilian day18_b_bj_ddc4a456:
+
+    # p "Sort of..."
+    p "Tipo isso..."
+
+# game/day18.rpy:663
+translate brazilian day18_b_bj_f06389ac:
+
+    # b "So I guess you want me to touch your little dingus again?"
+    b "Então acho que você quer que eu toque seu pequenino de novo?"
+
+# game/day18.rpy:664
+translate brazilian day18_b_bj_2668fb22:
+
+    # p "Sort of... And I don't think you'll be calling it little very soon..."
+    p "Tipo isso... E eu não acho que você vai estar chamando ele de 'pequenino' daqui a pouco..."
+
+# game/day18.rpy:665
+translate brazilian day18_b_bj_855ac1ef:
+
+    # p "You're going to use your mouth."
+    p "Você vai usar sua boca."
+
+# game/day18.rpy:667
+translate brazilian day18_b_bj_62702272:
+
+    # b "You're crazy. Absolutely crazy."
+    b "Você é louco. Absolutamente louco."
+
+# game/day18.rpy:668
+translate brazilian day18_b_bj_d640b5c8:
+
+    # p "No, I'm very horny and you're going to be an obedient little cocksucker."
+    p "Não, eu estou com muito tesão e você vai ser uma chupadora de pau obediente."
+
+# game/day18.rpy:669
+translate brazilian day18_b_bj_d69ee8f6:
+
+    # "{i}[b_name] doesn't move when you pull down your pants."
+    "{i}[b_name] não se move quando você puxa as calças para baixo."
+
+# game/day18.rpy:670
+translate brazilian day18_b_bj_89912316:
+
+    # p "Come closer. And lose that bra."
+    p "Vem mais perto. E tira esse sutiã."
+
+# game/day18.rpy:672
+translate brazilian day18_b_bj_55ba990d:
+
+    # p "Now, make me cum."
+    p "Agora, faz eu gozar."
+
+# game/day18.rpy:674
+translate brazilian day18_b_bj_efe857be:
+
+    # b "Fuck you."
+    b "Vai se foder."
+
+# game/day18.rpy:680
+translate brazilian day18_b_bj_8b2022b3:
+
+    # "{i}Your sister licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}Sua irmã lambe a ponta do seu pau, querendo sentir o gosto. O toque da língua molhada dela nas suas glândulas quase faz você gozar."
+
+# game/day18.rpy:682
+translate brazilian day18_b_bj_5996f609:
+
+    # "{i}[b_name] licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}[b_name] lambe a ponta do seu pau, querendo sentir o gosto. O toque da língua molhada dela nas suas glândulas quase faz você gozar."
+
+# game/day18.rpy:688
+translate brazilian day18_b_bj_19cf1c5d:
+
+    # p "That's it, take it in your sweet little mouth. Come on, use your tongue a little."
+    p "Isso aí, coloca ele na sua boquinha doce. Poxa, usa a sua língua um pouco."
+
+# game/day18.rpy:690
+translate brazilian day18_b_bj_60c106f6:
+
+    # "{i}You feel her tongue dance around your shaft."
+    "{i}Você sente a língua dela dançar em volta do seu pau."
+
+# game/day18.rpy:692
+translate brazilian day18_b_bj_488997c6:
+
+    # p "Good, make it all wet. How does it taste, sis?"
+    p "Bom, deixa ele todo molhado. Como é o gosto, mana?"
+
+# game/day18.rpy:694
+translate brazilian day18_b_bj_8d14e544:
+
+    # p "Good, make it all wet. How does it taste, [b_name]?"
+    p "Bom, deixa ele todo molhado. Como é o gosto, [b_name]?"
+
+# game/day18.rpy:697
+translate brazilian day18_b_bj_0bbfd3a0:
+
+    # b "Mmmmmm."
+    b "Mmmmmm."
+
+# game/day18.rpy:698
+translate brazilian day18_b_bj_d6523b99:
+
+    # p "Are you going to suck me dry, I bet you are."
+    p "Vai me chupar até eu ficar seco, aposto que vai."
+
+# game/day18.rpy:700
+translate brazilian day18_b_bj_4e2802f0:
+
+    # b "Fucking gross."
+    b "Nojento para caralho."
+
+# game/day18.rpy:701
+translate brazilian day18_b_bj_15254aa1:
+
+    # p "I doubt that. But make it clean then, start sucking."
+    p "Eu duvido. Mas então deixa ele limpo, começa a chupar."
+
+# game/day18.rpy:703
+translate brazilian day18_b_bj_a1045253:
+
+    # "{i}Her head moves up and down and all that can be heard from [b_name] are slobbering sounds as she blows you."
+    "{i}A cabeça dela desce e sobre e tudo o que pode ser ouvido da [b_name] são sons de baba enquanto ela o chupa."
+
+# game/day18.rpy:704
+translate brazilian day18_b_bj_6e5b2ff3:
+
+    # p "Yes, keep going."
+    p "Isso, continua."
+
+# game/day18.rpy:705
+translate brazilian day18_b_bj_3ed5316d:
+
+    # "{i}[b_name] is completely focused on sucking your dick and trying not to gag because of your length."
+    "{i}[b_name] está completamente focada em chupar seu pau e tentar não se engasgar por causa do seu comprimento."
+
+# game/day18.rpy:706
+translate brazilian day18_b_bj_145d8d79:
+
+    # p "You're good at this, have you done this before?"
+    p "Você é boa nisso, já fez isso antes?"
+
+# game/day18.rpy:711
+translate brazilian day18_b_bj_df44d03d:
+
+    # b "No!"
+    b "Não!"
+
+# game/day18.rpy:713
+translate brazilian day18_b_bj_fe8167af:
+
+    # p "You're a natural then. Or did you practice with your dildo?"
+    p "Então você tem um talento natural. Ou praticou com seu dildo?"
+
+# game/day18.rpy:715
+translate brazilian day18_b_bj_2993e132:
+
+    # b "Maybe..."
+    b "Talvez..."
+
+# game/day18.rpy:716
+translate brazilian day18_b_bj_0e622b61:
+
+    # p "That explains it... That dildo has seen a lot of use, hasn't it? It has been in your ass before, hasn't it, before we did it together?"
+    p "Isso explica... Aquele dildo já foi bem usado, né? Ele já esteve na sua bunda antes, não esteve, antes de fazermos isso?"
+
+# game/day18.rpy:717
+translate brazilian day18_b_bj_850ef128:
+
+    # b "..."
+    b "..."
+
+# game/day18.rpy:718
+translate brazilian day18_b_bj_36a752a2:
+
+    # p "Answer me."
+    p "Me responda."
+
+# game/day18.rpy:720
+translate brazilian day18_b_bj_2993e132_1:
+
+    # b "Maybe..."
+    b "Talvez..."
+
+# game/day18.rpy:722
+translate brazilian day18_b_bj_ddd8abed:
+
+    # b "Yes."
+    b "Sim."
+
+# game/day18.rpy:723
+translate brazilian day18_b_bj_3a3dced0:
+
+    # p "I thought as much. So all that shock about pushing it inside your little ass was just for show..."
+    p "Foi o que eu pensei. Então todo aquele choque sobre empurrar ele dentro do seu cuzinho era só um showzinho..."
+
+# game/day18.rpy:724
+translate brazilian day18_b_bj_df44d03d_1:
+
+    # b "No!"
+    b "Não!"
+
+# game/day18.rpy:726
+translate brazilian day18_b_bj_45f1a9a8:
+
+    # p "My sister, the little anal slut."
+    p "Minha irmã, a putinha anal."
+
+# game/day18.rpy:728
+translate brazilian day18_b_bj_d60cf75d:
+
+    # p "My little anal slut."
+    p "Minha putinha anal."
+
+# game/day18.rpy:731
+translate brazilian day18_b_bj_255836c1:
+
+    # b "I'm not... I'm..."
+    b "Eu não sou... Eu..."
+
+# game/day18.rpy:733
+translate brazilian day18_b_bj_b733eaa1:
+
+    # b "Fuck you!"
+    b "Vai se foder!"
+
+# game/day18.rpy:735
+translate brazilian day18_b_bj_429f4db2:
+
+    # p "You're a natural then."
+    p "Então você tem um talento natural."
+
+# game/day18.rpy:740
+translate brazilian day18_b_bj_cd4f9a43:
+
+    # p "Keep going, please. Your mouth is so good."
+    p "Continua, por favor. Sua boca é tão boa."
+
+# game/day18.rpy:742
+translate brazilian day18_b_bj_d9162ddc:
+
+    # "{i}You sister returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}Sua irmã volta a chupar seu pau com renovadas energias, claramente com a intenção de fazê-lo gozar."
+
+# game/day18.rpy:744
+translate brazilian day18_b_bj_efceec8a:
+
+    # "{i}[b_name] returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}[b_name] volta a chupar seu pau com renovadas energias, claramente com a intenção de fazê-lo gozar."
+
+# game/day18.rpy:747
+translate brazilian day18_b_bj_9a7043b3:
+
+    # p "I see our talk of anal play has made you extra motivated. Good, make me come with your mouth."
+    p "Eu vejo que a nossa conversa de brincadeira anal te deixou extra motivada. Bom, faz eu gozar com a sua boca."
+
+# game/day18.rpy:749
+translate brazilian day18_b_bj_72ae433c:
+
+    # p "You must be loving it, you seem so motivated all of a sudden. Good, make me cum with your mouth."
+    p "Você deve estar amando, você parece tão motivada do nada. Bom, faz eu gozar com a sua boca."
+
+# game/day18.rpy:751
+translate brazilian day18_b_bj_f09299cc:
+
+    # "{i}[b_name] stimulates your throbbing member and when she reaches the tip of your cock, her tongue makes circular motions which ultimately send you over the edge."
+    "{i}[b_name] estimula seu membro latejante e quando ela alcança a ponta do seu pau, a língua dela faz movimentos circulares o que finalmente o empurram da beira."
+
+# game/day18.rpy:758
+translate brazilian day18_b_bj_f204422a:
+
+    # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. Your sister clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
+    "{i}Sem avisar, você dispara uma grande carga enquanto [b_name] tem o seu pau inteiro dentro da boca quente. Sua irmã claramente não esperava e começa a tossir, sêmen escorrendo dos cantos da boca dela."
+
+# game/day18.rpy:760
+translate brazilian day18_b_bj_5953e328:
+
+    # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. She clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
+    "{i}Sem avisar, você dispara uma grande carga enquanto [b_name] tem o comprimento inteiro do seu pau dentro da boca quente dela. Ela claramente não esperava e começa a tossir, sêmen escorrendo dos cantos da boca dela."
+
+# game/day18.rpy:764
+translate brazilian day18_b_bj_aa21c952:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah."
+
+# game/day18.rpy:768
+translate brazilian day18_b_bj_612d0d73:
+
+    # b "Gaaah! Aaagh!"
+    b "Gaaah! Aaagh!"
+
+# game/day18.rpy:769
+translate brazilian day18_b_bj_cccb8f1e:
+
+    # "{i}[b_name] spits most of your cum on the floor and looks at you angrily."
+    "{i}[b_name] cospe a maior parte do seu sêmen no chão e olha para você com raiva."
+
+# game/day18.rpy:772
+translate brazilian day18_b_bj_283316f2:
+
+    # b "You didn't warn me."
+    b "Você não me avisou."
+
+# game/day18.rpy:774
+translate brazilian day18_b_bj_3196d99b:
+
+    # b "You could've fucking warned me!"
+    b "Você podia ter me avisado, porra!"
+
+# game/day18.rpy:775
+translate brazilian day18_b_bj_1579c22c:
+
+    # p "I'm full of surprises."
+    p "Sou cheio de surpresas."
+
+# game/day18.rpy:776
+translate brazilian day18_b_bj_5a37ab2c:
+
+    # p "But next time, you'll swallow when I tell you to."
+    p "Mas na próxima, você vai engolir quando eu mandar."
+
+# game/day18.rpy:777
+translate brazilian day18_b_bj_297c5af6:
+
+    # b "Hrmpf!"
+    b "Hrmpf!"
+
+# game/day18.rpy:792
+translate brazilian day18_b_bj_a62c599d:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from your sister's cheeks. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}No último minuto, você puxa o seu pau da boca quente dela e mela seu rosto com uma grande quantidade de esperma. Sêmen jorra no cabelo dela e pinga das bochechas da sua irmã. Você entende pela expressão chocada dela que ela claramente não esperava."
+
+# game/day18.rpy:794
+translate brazilian day18_b_bj_b2e22555:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from [b_name]'s cheeks. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}No último minuto, você puxa o seu pau da boca quente dela e mela seu rosto com uma grande quantidade de esperma. Sêmen jorra no cabelo dela e pinga das bochechas da [b_name]. Você entende pela expressão chocada dela que ela claramente não esperava."
+
+# game/day18.rpy:795
+translate brazilian day18_b_bj_aa21c952_1:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah."
+
+# game/day18.rpy:799
+translate brazilian day18_b_bj_89e82a09:
+
+    # b "Are you done with me?"
+    b "Você terminou comigo?"
+
+# game/day18.rpy:800
+translate brazilian day18_b_bj_433e04fb:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Eu não tenho mais nada para você, se é o que você está perguntando."
+
+# game/day18.rpy:802
+translate brazilian day18_b_bj_cdc94c97:
+
+    # b "Are you done degrading me?"
+    b "Já terminou de me degradar?"
+
+# game/day18.rpy:803
+translate brazilian day18_b_bj_433e04fb_1:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Eu não tenho mais nada para você, se é o que você está perguntando."
+
+# game/day18.rpy:804
+translate brazilian day18_b_bj_297c5af6_1:
+
+    # b "Hrmpf!"
+    b "Hrmpf!"
+
+# game/day18.rpy:819
+translate brazilian day18_b_bj_9a8ba953:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto your sister's belly. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}No último minuto, você puxa o seu pau da boca quente dela e enche o peito dela com uma grande carga de porra. Sêmen jorra nos seios dela á barriga da sua irmã. Você entende da expressão chocada dela que ela claramente não esperava."
+
+# game/day18.rpy:821
+translate brazilian day18_b_bj_5feec302:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto [b_name]'s belly. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}No último minuto, você puxa o seu pau da boca quente dela e enche o peito dela com uma grande carga de porra. Sêmen jorra nos seios dela á barriga da [b_name]. Você entende da expressão chocada dela que ela claramente não esperava."
+
+# game/day18.rpy:822
+translate brazilian day18_b_bj_aa21c952_2:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah."
+
+# game/day18.rpy:826
+translate brazilian day18_b_bj_89e82a09_1:
+
+    # b "Are you done with me?"
+    b "Você terminou comigo?"
+
+# game/day18.rpy:827
+translate brazilian day18_b_bj_433e04fb_2:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Eu não tenho mais nada para você, se é o que você está perguntando."
+
+# game/day18.rpy:829
+translate brazilian day18_b_bj_cdc94c97_1:
+
+    # b "Are you done degrading me?"
+    b "Já terminou de me degradar?"
+
+# game/day18.rpy:830
+translate brazilian day18_b_bj_433e04fb_3:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Eu não tenho mais nada para você, se é o que você está perguntando."
+
+# game/day18.rpy:831
+translate brazilian day18_b_bj_297c5af6_2:
+
+    # b "Hrmpf!"
+    b "Hrmpf!"
+
+# game/day18.rpy:838
+translate brazilian day18_b_bj_7b6e1f7f:
+
+    # "{i}Your sister tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
+    "{i}Sua irmã vai embora em silêncio, deixando-o sozinho no sofá. Após se deitar, você logo cai no sono de novo."
+
+# game/day18.rpy:840
+translate brazilian day18_b_bj_66e33e83:
+
+    # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
+    "{i}[b_name] vai embora em silêncio, deixando-o sozinho no sofá. Após se deitar, você logo cai no sono de novo."
+
+# game/day18.rpy:856
+translate brazilian day18_maid_7b79069e:
+
+    # p "{i}(Let's see how our hero and his maid are doing...)"
+    p "{i}(Vamos ver como o nosso herói e sua criada estão...)"
+
+# game/day18.rpy:858
+translate brazilian day18_maid_1cb6ad89:
+
+    # p "{i}(Let's see what's in there... It says something about management on the cover.)"
+    p "{i}(Vamos ver o que tem aqui... Tem dizendo alguma coisa sobre gerenciamento na capa.)"
+
+# game/day18.rpy:866
+translate brazilian day18_maid_39553420:
+
+    # "{i}“Clasping her closely against me, I murmured: 'Now, Alice darling, I think the time has come for you to surrender to me your maidenhead... for you to be my bride!' And I kissed her passionately.”"
+    "{i}“Segurando ela perto contra mim, eu murmurei: 'Agora, querida Alice, eu acho que a hora chegou de você me entregar a sua virgindade... para você ser minha esposa!' E eu a beijei apaixonadamente.”"
+
+# game/day18.rpy:874
+translate brazilian day18_maid_1322d82d:
+
+    # p "{i}(Hmmm, he's going to take her virginity. This could be interesting.)"
+    p "{i}(Hmmm, ele vai tirar a virgindade dela. Isso pode ser interessante.)"
+
+# game/day18.rpy:876
+translate brazilian day18_maid_6e093fa3:
+
+    # p "{i}(This is hardcore pornography... Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Isso é pornografia pesada... Por que raios a [m_name] leria essa imundice?)"
+
+# game/day18.rpy:877
+translate brazilian day18_maid_1b28feb2:
+
+    # p "{i}(But he's going to take her virginity. This could be an interesting read.)"
+    p "{i}(Mas ele vai tirar a virgindade dela. Isso pode ser interessante de ler.)"
+
+# game/day18.rpy:879
+translate brazilian day18_maid_e4284b4a:
+
+    # p "{i}(Everybody is at the beach right now and I feel I could rub one out right now while reading the book...)"
+    p "{i}(Todo mundo está na praia agora e eu sinto que podia bater uma agora lendo o livro...)"
+
+# game/day18.rpy:884
+translate brazilian day18_maid_b1666fb9:
+
+    # p "{i}(Just for a little while then...)"
+    p "{i}(Só um pouquinho então...)"
+
+# game/day18.rpy:897
+translate brazilian day18_maid_0c19f907:
+
+    # "{i}“I made as if to place her on her back, whispering: 'Open your legs, dear!' 'No! no! Jack!' Alice ejaculated, struggling to defend herself, and successfully resisting my attempt to roll her over on to her back, 'let me go, dear Jack!”"
+    "“Eu a deixei de costas, sussurrando: 'Abra as pernas, querida!' 'Não! Não! Jack! ' Alice ejaculou, lutando para se defender e resistindo com sucesso à minha tentativa de virá-la de costas, 'deixe-me ir, querido Jack!”"
+
+# game/day18.rpy:898
+translate brazilian day18_maid_b6c12ba2:
+
+    # "“... surely you have revenged yourself on me sufficiently!' And she endeavoured to rise.”"
+    "“... certamente você se vingou de mim o suficiente! ' E ela se esforçou para levantar.”"
+
+# game/day18.rpy:900
+translate brazilian day18_maid_dcf543c7:
+
+    # "{i}“I held her down firmly and, in spite of her determined resistance, I got her on her back and myself on her. But she kept her legs so obstinately closed that in the position in which I was, I could not get mine between them.”"
+    "{i}“Eu a prendi com firmeza e, apesar de sua determinada resistência, cheguei pelas suas costas e subi nela. Mas ela mantinha as pernas tão obstinadamente fechadas que na posição em que eu estava, não era possível passar posicionar a minha entre elas.”"
+
+# game/day18.rpy:901
+translate brazilian day18_maid_0bf1ed6d:
+
+    # "{i}“I began to get angry. Gripping her to me till her breasts flattened themselves against my chest, I raised my head and looked her sternly in the eyes.”"
+    "“{i}Eu comecei a me irritar. Puxando ela até os seios delas se amassarem contra meu peito, levantei minha cabeça e olhei fixamente nos olhos dela.”"
+
+# game/day18.rpy:902
+translate brazilian day18_maid_86deb0dd:
+
+    # "{i}“'Now, Alice, no more nonsense,' I said brusquely. 'I'm going to fuck you! Yield yourself at once to me and do as I tell you or I shall tie you down on this couch and violate you by force in a way you won't like!'”"
+    "“'Agora, Alice, chega dessa besteira,' eu falei bruscamente. 'Vou fodê-la agora! Submeta-se a mim nesse instante, e faça o que eu mandar, ou a amarrarei neste sofá e a violarei à força de uma forma que não vai gostar!'”"
+
+# game/day18.rpy:903
+translate brazilian day18_maid_e8e46ef9:
+
+    # "{i}“'Now once and for all, are you going to submit or are you not?'”"
+    "“{i}'Agora de uma vez por todas, você vai se submeter ou não?'”"
+
+# game/day18.rpy:904
+translate brazilian day18_maid_4b577491:
+
+    # "{i}“She closed her eyes in an agony of distress. 'Jack! ... Jack! ...' she murmured brokenly then stopped as if unable to speak in her emotion.”"
+    "{i}“Ela fechou os olhos em uma agonia de angústia. 'Jack! ... Jack! ...' ela murmurou em pedaços, e então parou como se fosse incapaz de falar em toda a emoção.”"
+
+# game/day18.rpy:913
+translate brazilian day18_maid_5e04f2e6:
+
+    # p "{i}(I'm still so amazed that [m_name] likes to read this stuff, but I must admit that it gets me rock hard in no-time.)"
+    p "{i}(Ainda me impressiono que a [m_name] gosta de ler essas coisas, mas devo admitir que me deixa duro como pedra em um segundo.)"
+
+# game/day18.rpy:914
+translate brazilian day18_maid_ef038b95:
+
+    # p "{i}(Let's skip ahead a bit.)"
+    p "{i}(Vamos pular um pouco.)"
+
+# game/day18.rpy:926
+translate brazilian day18_maid_0f620af9:
+
+    # "{i}“Gripping her tightly, I got my stiff and excited prick against the lips of her cunt, then pushing steadily, I drove it into Alice, burying its head in her.”"
+    "{i}“Agarrando ela com força, coloquei meu pênis duro e excitado contra os lábios de sua boceta, e, enfiando com firmeza, penetrei na Alice, enfiando a cabeça nela.”"
+
+# game/day18.rpy:927
+translate brazilian day18_maid_26b87456:
+
+    # "{i}“Despite her fearful struggles and rapid movements of her buttocks and hips, I made another thrust, entering still further into her cunt, then felt myself blocked!”"
+    "{i}“Apesar de sua resistência amedrontada e rápidos movimentos de suas nádegas e quadril, enfiei novamente, entrando ainda mais fundo na sua boceta, aí senti um bloqueio!”"
+
+# game/day18.rpy:928
+translate brazilian day18_maid_ede421a0:
+
+    # "{i}“Alice screamed agonisedly, 'Oh! ... oh! stop! ... you're hurting me!' throwing herself wildly about in her pain and despair, for she recognised that she was being violated!”"
+    "{i}“Alice gritou agoniadamente, 'Oh! ... oh! pare! ... você está me machucando!' se debatendo descontroladamente em dor e desespero, pois havia reconhecido que estava sendo violada!”"
+
+# game/day18.rpy:929
+translate brazilian day18_maid_cd44c35a:
+
+    # "{i}“Knowing that it was her maiden membrane that was stopping my advance into her, and that this now was the last defence of her virginity, I rammed into her vigorously!”"
+    "{i}“Sabendo que era sua membrana virgem que estava parando meu avanço nela, e que esta era agora a última defesa de sua virgindade, eu enfiei vigorosamente nela!”"
+
+# game/day18.rpy:930
+translate brazilian day18_maid_61024364:
+
+    # "{i}“Suddenly I felt something give way inside her and my prick glided well up her cunt, and it did not require the despairing shriek that came from Alice to tell me that I had broken through the last barriers and had conquered her virginity!”"
+    "{i}“De repente eu senti algo dar caminho dentro dela e minha pica deslizou bem dentro da boceta dela, e os gritos desesperados que vieram da Alice não foram requiridos para me dizer que eu havia passado pelas últimas barreiras e havia conquistado a virgindade dela!”"
+
+# game/day18.rpy:937
+translate brazilian day18_maid_9e33b280:
+
+    # m "{i}(I could've sworn I packed the sunscreen before heading out. Must've left it in the apartment.)"
+    m "{i}(Eu jurei que tinha pego o protetor solar antes de sair. Devo ter deixado no apartamento.)"
+
+# game/day18.rpy:942
+translate brazilian day18_maid_a40d63b7:
+
+    # m "{i}(What the... [p_name]?!)"
+    m "{i}(Mas que... [p_name]?!)"
+
+# game/day18.rpy:944
+translate brazilian day18_maid_0c7f0877:
+
+    # m "{i}(Is my boy reading my book and masturbating?)"
+    m "{i}(O meu garoto está lendo meu livro e se masturbando?)"
+
+# game/day18.rpy:946
+translate brazilian day18_maid_c73ced24:
+
+    # m "{i}(Is [p_name] reading my book and masturbating?)"
+    m "{i}(O [p_name] tá lendo meu livro e se masturbando?)"
+
+# game/day18.rpy:955
+translate brazilian day18_maid_147d18b0:
+
+    # "{i}“Oh! my exultation! At last I had ravished Alice, I had captured her maidenhead, and was now actually fucking her in spite of herself! She, poor girl, lay beneath me, tightly clasped in my arms, a prey to the keenest shame...”"
+    "{i}“Ah! minha exultação! Afinal, eu havia arrebatado Alice, eu havia capturado sua virgindade. e estava agora realmente a fodendo apesar de ela não querer! Ela, pobre garota, deite-se abaixo de mim, firmemente agarrada em meus braços, uma presa á mais afiada vergonha...”"
+
+# game/day18.rpy:956
+translate brazilian day18_maid_ed041de3:
+
+    # "{i}“...deprived of her maidenhead, transfixed with my prick, her cunt suffering martyrdom from its sudden distension and smarting with the pain of her violation!”"
+    "{i}“...privada de sua virgindade, paralisada com meu pau, a boceta dela sofrendo martírio de sua repentina distensão e magoada com a dor de sua violação!”"
+
+# game/day18.rpy:957
+translate brazilian day18_maid_6eafc778:
+
+    # "{i}“Pitying her, I lay still for some seconds so as to allow the interior of her cunt to stretch a bit, but I was too wrought up and mad with lust to remain inactive long in such surroundings.”"
+    "{i}“Com pena dela, eu deito parado por alguns segundos para permitir o interior da boceta dela se esticar um pouco, mas eu estava excitado e louco de desejo demais para continuar inativo por muito tempo neste local.”"
+
+# game/day18.rpy:966
+translate brazilian day18_maid_5833b715:
+
+    # m "{i}(He seems really into it. Look at him!)"
+    m "{i}(Ele parece mesmo estar gostando. Olha ele!)"
+
+# game/day18.rpy:968
+translate brazilian day18_maid_4ff5e709:
+
+    # m "{i}(My boy has grown big, it seems...)"
+    m "{i}(Parece que meu garoto ficou bem grande...)"
+
+# game/day18.rpy:970
+translate brazilian day18_maid_df5e3776:
+
+    # m "{i}(He's a big boy, it seems.)"
+    m "{i}(Parece que ele é um garoto grande.)"
+
+# game/day18.rpy:971
+translate brazilian day18_maid_70d7026d:
+
+    # m "{i}(Damnit, what am I thinking?!)"
+    m "{i}(Droga, o que eu estou pensando?!)"
+
+# game/day18.rpy:981
+translate brazilian day18_maid_582febd5:
+
+    # "{i}“With a final thrust, I sent my prick well home, Alice's hairs and mine interweaving. She shrieked again! Then agitating myself gently on her, I began to fuck her, first with steady strokes of my buttocks...”"
+    "{i}“Com uma última estocada, eu levei meu pau longe, os cabelos da Alice e os meus se intercalando. Ela gritou novamente! Então me agitando gentilmente nela, eu comecei a fodê-la, primeiro com firmes ataques de minhas nádegas...”"
+
+# game/day18.rpy:982
+translate brazilian day18_maid_7457d400:
+
+    # "{i}“...then with more rapid and uneven shoves and thrusts, she quivering under me, overwhelmed by her emotions at thus finding her pure body compelled to become the recipient of my lust and by the strangely delicious pleasure that the movements of my prick inside her cunt were arousing in her!”"
+    "{i}“...então com mais rápidas e irregulares empurradas e enfiadas, ela tremendo debaixo de mim, sobrecarregada pelas emoções e encontrando o puro corpo dela compelido á se tornar recipiente de meu desejo e pelo estranhamente delicioso prazer que os movimentos da minha pica dentro de sua boceta estavam trazendo nela!”"
+
+# game/day18.rpy:984
+translate brazilian day18_maid_749ef453:
+
+    # "{i}“Clasping her yielding figure still more closely against me, I let myself go - thrusting, ramming, shoving and agitating my prick spasmodically in her, I frenziedly set to work to fuck her!”"
+    "{i}“Apertando sua figura maleável ainda mais contra mim, eu me deixei ir - empurrando, batendo, empurrando e agitando meu pau espasmodicamente nela, eu freneticamente comecei a trabalhar para fodê-la!”"
+
+# game/day18.rpy:991
+translate brazilian day18_maid_8795af3b:
+
+    # "{i}“A storm of rapid tumultuous jogs, a half strangled 'oh! ... oh!! ... oh!!! ...' from Alice and I spent deliriously into her, deluging her with my hot discharge...”"
+    "{i}“Uma tempestade de rápidas corridas tumultuosas, um meio apertado 'oh! ... oh!! ... oh!!! ...' de Alice e eu passei delirantemente para dentro dela, inundando-a com meus fluidos quentes...”"
+
+# game/day18.rpy:992
+translate brazilian day18_maid_3684dd0e:
+
+    # "{i}“...at the same moment feeling the head of my prick christened by the warm gush that burst from Alice as she also frantically spent, punctuating the pulsations of her discharge by voluptuous upheavings of her wildly agitated bottom.”"
+    "{i}“...ao mesmo momento sentindo a cabeça do meu pau batizada pelo quente jorro que disparou de Alice enquanto ela também estava freneticamente drenada, pontuando as pulsações de seus fluidos com movimentos bruscos de seu traseiro agitado.”"
+
+# game/day18.rpy:1001
+translate brazilian day18_maid_db42f9b8:
+
+    # p "Aaaah! Fuck yes!"
+    p "Aaaah! Isso, porra!"
+
+# game/day18.rpy:1002
+translate brazilian day18_maid_a61b0c89:
+
+    # m "{i}(Why am I still watching him? I should have given him the privacy he deserves.)"
+    m "{i}(Por que eu ainda estou assistindo ele? Eu devia ter o dado a privacidade que ele merece.)"
+
+# game/day18.rpy:1003
+translate brazilian day18_maid_a06fa2b0:
+
+    # m "{i}(But still... That was oddly arousing.)"
+    m "{i}(Mas ainda assim... Aquilo foi estranhamente excitante.)"
+
+# game/day18.rpy:1007
+translate brazilian day18_maid_9c16b614:
+
+    # p "{i}(Damn, that was great!)"
+    p "{i}(Caralho, isso foi ótimo!)"
+

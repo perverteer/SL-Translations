@@ -2741,3 +2741,95 @@ translate brazilian day06_night_visit_choices_e46d3fff:
     # p "{i}(Sweet dreams, [r_name]...)"
     p "{i}(Bons sonhos, [r_name]...)"
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day06.rpy:740
+translate brazilian day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Melhor achar um pouco de empolgação em outro lugar.)"
+
+# game/day06.rpy:747
+translate brazilian day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Você ouve uma batida na sua porta."
+
+# game/day06.rpy:748
+translate brazilian day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Entra."
+
+# game/day06.rpy:750
+translate brazilian day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Oi. Eu... err... Eu estava pensando sobre o filme e pensei que talvez a gente pudesse fazer companhia um para o outro?"
+
+# game/day06.rpy:751
+translate brazilian day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "Quer dizer hoje de noite?"
+
+# game/day06.rpy:752
+translate brazilian day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "É claro, bobinho!"
+
+# game/day06.rpy:753
+translate brazilian day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "É só tão solitário ás vezes e eu gostaria mesmo de alguém para me manter companhia."
+
+# game/day06.rpy:754
+translate brazilian day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "Pareceu tão natural no filme que vimos hoje á noite."
+
+# game/day06.rpy:755
+translate brazilian day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "{i}(Aquele filme com certeza mexeu com ela...)"
+
+# game/day06.rpy:761
+translate brazilian day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "Ótima ideia."
+
+# game/day06.rpy:762
+translate brazilian day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "Yay! Espero que goste de fazer conchinha!"
+
+# game/day06.rpy:763
+translate brazilian day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "Eu com certeza gosto."
+
+# game/day06.rpy:769
+translate brazilian day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "Eu não acho que é uma boa ideia. E se alguém nos ver?"
+
+# game/day06.rpy:770
+translate brazilian day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Ah..."
+
+# game/day06.rpy:771
+translate brazilian day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "Boa noite então."
+

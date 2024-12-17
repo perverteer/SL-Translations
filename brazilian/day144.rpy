@@ -5592,3 +5592,59 @@ translate brazilian day144_b_night_sex_61503c26:
     # "{i}Warm cum flows inside her and as you pull out, it starts to ooze out of her slit."
     "{i}Gozo quente flui dentro dela quando você tira seu pau, começando a vazar de sua boceta."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day144.rpy:884
+translate brazilian day144_m_ir_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "[m_name] está grávida nesta cena?"
+
+# game/day144.rpy:888
+translate brazilian day144_m_ir_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] grávida"
+
+# game/day144.rpy:891
+translate brazilian day144_m_ir_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] não está grávida"
+
+# game/day144.rpy:1100
+translate brazilian day144_b_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Você deseja habilitar esportes aquáticos para esta cena?"
+
+# game/day144.rpy:1104
+translate brazilian day144_b_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Esportes aquáticos habilitados"
+
+# game/day144.rpy:1107
+translate brazilian day144_b_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Desportos aquáticos desativados"
+
+# game/day144.rpy:2163
+translate brazilian day144_b_night_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "[b_name] está grávida nesta cena?"
+
+# game/day144.rpy:2167
+translate brazilian day144_b_night_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] grávida"
+
+# game/day144.rpy:2170
+translate brazilian day144_b_night_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] não está grávida"
+

@@ -5655,3 +5655,11 @@ translate brazilian day32_p_room_scene_6b22c18c:
     # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
     "{i}Após um breve momento de confusão, você registra a pessoa sentada em uma cadeira ao lado de sua cama."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day32.rpy:913
+translate brazilian day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Muito cansado, você se despe e cai no colchão, esperando que o sono tome conta."
+

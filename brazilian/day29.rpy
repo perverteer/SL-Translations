@@ -4179,3 +4179,989 @@ translate brazilian day29_l_delivery_post_651c45ac:
     # "{i}Despite the uncomfortable surroundings, you feel your eyelids grow heavy, and soon you fall asleep, your friend's naked body lying half on top of you in a tight embrace."
     "{i}Apesar do ambiente desconfortável, você sente suas pálpebras pesarem e logo adormece, com o corpo nu de sua amiga meio em cima de você em um abraço apertado."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day29.rpy:881
+translate brazilian day29_b_sex_09609a9f:
+
+    # "{i}[b_name]'s door is open, you peek around the corner and see the girl lying on the bed."
+    "{i}A porta de [b_name] está aberta, você espia pela esquina e vê a garota deitada na cama."
+
+# game/day29.rpy:882
+translate brazilian day29_b_sex_94b27143:
+
+    # p "{i}(Looks like [b_name] is enjoying a magazine.)"
+    p "{i}(Parece que [b_name] está curtindo uma revista.)"
+
+# game/day29.rpy:883
+translate brazilian day29_b_sex_5860ae81:
+
+    # p "{i}(Let's see if she's been an obedient girl and have some fun...)"
+    p "{i}(Vamos ver se ela tem sido uma garota obediente e nos divertir...)"
+
+# game/day29.rpy:890
+translate brazilian day29_b_sex_ccc63a0e:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your sister's eyes go wide and look around in panic."
+    "{i}Ao aumentar o botão de intensidade do vibrador, você vê os olhos de sua irmã se arregalando e olhando ao redor em pânico."
+
+# game/day29.rpy:892
+translate brazilian day29_b_sex_7311f431:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your girl's eyes go wide and look around in panic."
+    "{i}Ao aumentar o botão de intensidade do vibrador, você vê os olhos de sua garota se arregalando e olhando ao redor em pânico."
+
+# game/day29.rpy:893
+translate brazilian day29_b_sex_a3c1c5ed:
+
+    # b "Fuck no, [p_name], not now."
+    b "Porra, não, [p_name], agora não."
+
+# game/day29.rpy:894
+translate brazilian day29_b_sex_a6d25133:
+
+    # p "{i}(She doesn't seem to realize that I'm very close by.)"
+    p "{i}(Ela não parece perceber que estou muito perto.)"
+
+# game/day29.rpy:899
+translate brazilian day29_b_sex_2638393a:
+
+    # b "Ugh, that fucking thing... Mmmmm..."
+    b "Ugh, essa merda... Mmmmm..."
+
+# game/day29.rpy:900
+translate brazilian day29_b_sex_0e1021c1:
+
+    # b "Shit, it's so intense..."
+    b "Merda, é tão intenso..."
+
+# game/day29.rpy:902
+translate brazilian day29_b_sex_de6f24a9:
+
+    # b "Stop it..."
+    b "Para com isso..."
+
+# game/day29.rpy:903
+translate brazilian day29_b_sex_c7443339:
+
+    # b "Make it stop..."
+    b "Faz isso parar..."
+
+# game/day29.rpy:904
+translate brazilian day29_b_sex_54161e51:
+
+    # b "Aaah!"
+    b "Aaai!"
+
+# game/day29.rpy:905
+translate brazilian day29_b_sex_eca6f8a6:
+
+    # b "I don't want it to stop..."
+    b "Eu não quero que isso pare..."
+
+# game/day29.rpy:910
+translate brazilian day29_b_sex_41773800:
+
+    # "{i}When [b_name] removes her panties and starts to finger herself, you decide it's a good time to make your presence known."
+    "{i}Quando [b_name] tira a calcinha e começa a se masturbar, você decide que é um bom momento para fazer sua presença conhecida."
+
+# game/day29.rpy:916
+translate brazilian day29_b_sex_2a28189e:
+
+    # p "{i}(Looks like [b_name] is enjoying herself without me... Why on earth did she leave the door open?!)"
+    p "{i}(Parece que [b_name] está se divertindo, sem mim... Por que diabos ela deixou a porta aberta?!)"
+
+# game/day29.rpy:917
+translate brazilian day29_b_sex_eab4a24c:
+
+    # p "{i}(We can't have that.)"
+    p "{i}(Nós não podemos deixar isso assim.)"
+
+# game/day29.rpy:922
+translate brazilian day29_b_sex_515e4abf:
+
+    # p "My dear [b_name], are you preparing yourself for me?"
+    p "Minha cara [b_name], você está se preparando para mim?"
+
+# game/day29.rpy:923
+translate brazilian day29_b_sex_adae013b:
+
+    # b "Fuck."
+    b "Porra."
+
+# game/day29.rpy:924
+translate brazilian day29_b_sex_49f4c2a6:
+
+    # b "No. Of course not."
+    b "Não. Claro que não."
+
+# game/day29.rpy:925
+translate brazilian day29_b_sex_fc5c4f16:
+
+    # p "Sure you are."
+    p "Claro que sim."
+
+# game/day29.rpy:926
+translate brazilian day29_b_sex_11a28985:
+
+    # p "The sight of you fingering your pussy like that has made me a little anxious."
+    p "A visão de você tocando sua boceta assim me deixou um pouco ansioso."
+
+# game/day29.rpy:927
+translate brazilian day29_b_sex_4d0bd3e2:
+
+    # p "Why don't we do something about that. Together."
+    p "Por que não fazemos algo sobre isso. Juntos."
+
+# game/day29.rpy:928
+translate brazilian day29_b_sex_5f43804c:
+
+    # b "What do you want?"
+    b "O que você quer?"
+
+# game/day29.rpy:930
+translate brazilian day29_b_sex_a36db4fe:
+
+    # p "Let's remove that toy first."
+    p "Vamos remover esse brinquedo primeiro."
+
+# game/day29.rpy:931
+translate brazilian day29_b_sex_b6197f6d:
+
+    # b "About fucking time."
+    b "Porra, já era hora."
+
+# game/day29.rpy:932
+translate brazilian day29_b_sex_936e34c9:
+
+    # p "Spread those beautiful legs for me."
+    p "Abre essas belas pernas para mim."
+
+# game/day29.rpy:934
+translate brazilian day29_b_sex_83c0ee96:
+
+    # "{i}You pull the still vibrating egg out of [b_name]'s pussy, causing her some discomfort."
+    "{i}Você puxa o ovo ainda vibrante da boceta de [b_name], causando algum desconforto a ela."
+
+# game/day29.rpy:936
+translate brazilian day29_b_sex_936e34c9_1:
+
+    # p "Spread those beautiful legs for me."
+    p "Abre essas belas pernas para mim."
+
+# game/day29.rpy:939
+translate brazilian day29_b_sex_fd6e5a3b:
+
+    # p "I see you're already nice and wet."
+    p "Vejo que você já está bem molhadinha."
+
+# game/day29.rpy:940
+translate brazilian day29_b_sex_cff7f4a6:
+
+    # b "That changed as soon as you walked in."
+    b "Isso mudou assim que você entrou."
+
+# game/day29.rpy:941
+translate brazilian day29_b_sex_f2d3ad6f:
+
+    # p "Really now."
+    p "Ah é, é."
+
+# game/day29.rpy:942
+translate brazilian day29_b_sex_88dd7b36:
+
+    # p "Let's not waste more time then."
+    p "Então não vamos perder mais tempo."
+
+# game/day29.rpy:948
+translate brazilian day29_b_sex_6dbdb5f6:
+
+    # "{i}You push the tip of your dick against her labia and move it up and down, sending bolts of pleasure through your body and wetting your sister's pussy again."
+    "{i}Você empurra a ponta do seu pau contra os lábios dela e o move para cima e para baixo, enviando raios de prazer pelo seu corpo e molhando a boceta da sua irmã novamente."
+
+# game/day29.rpy:950
+translate brazilian day29_b_sex_73ac75e9:
+
+    # "{i}You push the tip of your dick against her lips and move it up and down, sending bolts of pleasure through your body and wetting your girl's pussy again."
+    "{i}Você empurra a ponta do seu pau contra os lábios dela e o move para cima e para baixo, enviando raios de prazer pelo seu corpo e molhando a boceta da sua garota novamente."
+
+# game/day29.rpy:955
+translate brazilian day29_b_sex_916b0812:
+
+    # "{i}[b_name] tries very hard to not make any noises, but ultimately fails as your veined shaft slides between her pussy lips."
+    "{i}[b_name] se esforça muito para não fazer nenhum barulho, mas acaba falhando quando seu pau venoso desliza entre os lábios de sua boceta."
+
+# game/day29.rpy:956
+translate brazilian day29_b_sex_1e90da1c:
+
+    # "{i}Her breathing is measured by the rhythm of your cock slamming inside her, not pausing once to let her catch her breath."
+    "{i}A respiração dela é medida pelo ritmo do seu pau batendo dentro, sem parar uma vez para deixá-la recuperar o fôlego."
+
+# game/day29.rpy:958
+translate brazilian day29_b_sex_33d36af8:
+
+    # p "Goddamn, you're so fucking amazing."
+    p "Porra, você é incrível pra caralho."
+
+# game/day29.rpy:959
+translate brazilian day29_b_sex_bb01cc2e:
+
+    # p "And you're mine."
+    p "E você é minha."
+
+# game/day29.rpy:960
+translate brazilian day29_b_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm..."
+
+# game/day29.rpy:961
+translate brazilian day29_b_sex_d6d9f012:
+
+    # p "Say it..."
+    p "Diga..."
+
+# game/day29.rpy:962
+translate brazilian day29_b_sex_6fc22704_1:
+
+    # b "Mmmm..."
+    b "Mmmm..."
+
+# game/day29.rpy:963
+translate brazilian day29_b_sex_f0e66e5a:
+
+    # p "Say it, or I'll stop."
+    p "Diga ou paro."
+
+# game/day29.rpy:964
+translate brazilian day29_b_sex_4df92309:
+
+    # b "I... Fuck... I'm yours!"
+    b "Eu... Porra... Eu sou sua!"
+
+# game/day29.rpy:965
+translate brazilian day29_b_sex_eaa9ca80:
+
+    # p "Good girl."
+    p "Boa garota."
+
+# game/day29.rpy:966
+translate brazilian day29_b_sex_86dd199b:
+
+    # p "Now turn around."
+    p "Agora se vira."
+
+# game/day29.rpy:973
+translate brazilian day29_b_sex_c1313980:
+
+    # "{i}Firmly, you grab the sides of her body and continue your assault on her pussy. [b_name] just lets it happen, breathing raggedly and moaning, a faint smile on her face."
+    "{i}Com firmeza, você agarra os lados do corpo dela e continua o ataque à sua boceta. [b_name] apenas deixa acontecer, respirando com dificuldade e gemendo, um leve sorriso no rosto."
+
+# game/day29.rpy:974
+translate brazilian day29_b_sex_9cf11fcf:
+
+    # "{i}You have a magnificent view of her ass which is bouncing seductively."
+    "{i}Você tem uma vista magnífica de sua bunda, que está saltando sedutoramente."
+
+# game/day29.rpy:976
+translate brazilian day29_b_sex_6329f807:
+
+    # p "You liked that dildo up your ass, didn't you, [b_name]?"
+    p "Você gostou daquele dildo enfiado na sua bunda, não foi, [b_name]?"
+
+# game/day29.rpy:977
+translate brazilian day29_b_sex_df44d03d:
+
+    # b "No!"
+    b "Não!"
+
+# game/day29.rpy:978
+translate brazilian day29_b_sex_dd529617:
+
+    # p "Liar, you told me so."
+    p "Mentirosa, você me disse isso."
+
+# game/day29.rpy:980
+translate brazilian day29_b_sex_f4fb6a6a:
+
+    # b "Don't do it!"
+    b "Não faça isso!"
+
+# game/day29.rpy:981
+translate brazilian day29_b_sex_90aaadf8:
+
+    # p "Relax..."
+    p "Relaxa..."
+
+# game/day29.rpy:982
+translate brazilian day29_b_sex_b26f9d22:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Você cospe entre as nádegas dela enquanto continua transando com ela. A saliva desce em direção ao ânus e se mistura com os fluidos de sua vagina."
+
+# game/day29.rpy:984
+translate brazilian day29_b_sex_b3759eda:
+
+    # "{i}The sight of her winking asshole gives you an idea."
+    "{i}A visão de seu cuzinho piscando dá uma ideia."
+
+# game/day29.rpy:985
+translate brazilian day29_b_sex_4f0022a4:
+
+    # p "Your ass is so fine."
+    p "Sua bunda é tão boa."
+
+# game/day29.rpy:986
+translate brazilian day29_b_sex_a6a16b10:
+
+    # b "Mmm..."
+    b "Mmm..."
+
+# game/day29.rpy:987
+translate brazilian day29_b_sex_b26f9d22_1:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Você cospe entre as nádegas dela enquanto continua transando com ela. A saliva desce em direção ao ânus e se mistura com os fluidos de sua vagina."
+
+# game/day29.rpy:989
+translate brazilian day29_b_sex_04550608:
+
+    # b "What are you doing?"
+    b "O que você está fazendo?"
+
+# game/day29.rpy:990
+translate brazilian day29_b_sex_d4e7fd69:
+
+    # b "Don't you dare!"
+    b "Não se atreva!"
+
+# game/day29.rpy:991
+translate brazilian day29_b_sex_783f84f3:
+
+    # p "Just relax..."
+    p "Só relaxa..."
+
+# game/day29.rpy:993
+translate brazilian day29_b_sex_460a8534:
+
+    # "{i}You caress the skin folds of your sister's clenched anus with your fingertips."
+    "{i}Você acaricia as dobras do ânus fechado de sua irmã com a ponta dos dedos."
+
+# game/day29.rpy:995
+translate brazilian day29_b_sex_5dd93722:
+
+    # "{i}You caress the skin folds of your girl's clenched anus with your fingertips."
+    "{i}Você acaricia as dobras do ânus fechado de sua garota com a ponta dos dedos."
+
+# game/day29.rpy:999
+translate brazilian day29_b_sex_7bf203dc:
+
+    # "{i}Using the saliva as a lubricant you slowly but surely press your finger inside her asshole."
+    "{i}Usando a saliva como lubrificante, você lenta mas seguramente pressiona o dedo dentro do cu dela."
+
+# game/day29.rpy:1000
+translate brazilian day29_b_sex_797f0ad4:
+
+    # b "Ggggaaah!"
+    b "Ggggaaah!"
+
+# game/day29.rpy:1001
+translate brazilian day29_b_sex_e506ccf2:
+
+    # "{i}You don't stop fucking her as you finger her asshole. The only thing [b_name] is able to do is moan in ecstasy."
+    "{i}Você não para de fodê-la enquanto toca seu cuzinho. A única coisa que [b_name] é capaz de fazer é gemer de êxtase."
+
+# game/day29.rpy:1002
+translate brazilian day29_b_sex_34ab9313:
+
+    # p "I thought you said you didn't like it?"
+    p "Eu pensei que você disse que não tinha gostado?"
+
+# game/day29.rpy:1003
+translate brazilian day29_b_sex_54161e51_1:
+
+    # b "Aaah!"
+    b "Aaai!"
+
+# game/day29.rpy:1004
+translate brazilian day29_b_sex_e14ea2ad:
+
+    # p "There's a good slut."
+    p "Essa é uma boa vagabunda."
+
+# game/day29.rpy:1005
+translate brazilian day29_b_sex_6901be99:
+
+    # p "Getting off on being fingered in your ass, are you?"
+    p "Gosta de levar dedadas na sua bunda, não é?"
+
+# game/day29.rpy:1006
+translate brazilian day29_b_sex_df44d03d_1:
+
+    # b "No!"
+    b "Não!"
+
+# game/day29.rpy:1007
+translate brazilian day29_b_sex_7d1c486e:
+
+    # b "Yes!"
+    b "Sim!"
+
+# game/day29.rpy:1014
+translate brazilian day29_b_sex_4e6002bf:
+
+    # "{i}You're about to insert another finger inside her anus when her orgasm surprises you both."
+    "{i}Você está prestes a inserir outro dedo dentro do ânus dela quando o orgasmo dela surpreende a vocês dois."
+
+# game/day29.rpy:1016
+translate brazilian day29_b_sex_b558bc2f:
+
+    # "{i}It makes her vagina incredibly wet, and your dick nearly slips out of her, but you manage to keep fucking her until your climax is near."
+    "{i}Isso deixa sua vagina incrivelmente molhada e seu pau quase escorrega para fora dela, mas você consegue continuar fodendo ela até que seu clímax esteja próximo."
+
+# game/day29.rpy:1027
+translate brazilian day29_b_sex_0c355813:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Enquanto sua irmã está tendo um orgasmo selvagem, você tem dificuldades para mantê-la em seu pau, mas ainda está dentro dela quando seu esperma começa a fluir."
+
+# game/day29.rpy:1029
+translate brazilian day29_b_sex_09f14b39:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Enquanto sua amiga está tendo um orgasmo selvagem, você tem dificuldades para mantê-la em seu pau, mas ainda está dentro dela quando seu esperma começa a fluir."
+
+# game/day29.rpy:1043
+translate brazilian day29_b_sex_ab97e8e5:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Enquanto sua irmã está tendo um orgasmo selvagem, você tem dificuldades para mantê-la em seu pau."
+
+# game/day29.rpy:1045
+translate brazilian day29_b_sex_1325384c:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Enquanto sua amiga está tendo um orgasmo selvagem, você tem dificuldades para mantê-la em seu pau."
+
+# game/day29.rpy:1046
+translate brazilian day29_b_sex_61875a7a:
+
+    # "{i}You let it slip out and let your cum flow all over her back."
+    "{i}Você o deixa escapar e deixa seu esperma escorrer pelas costas dela."
+
+# game/day29.rpy:1055
+translate brazilian day29_b_sex_6e3c14aa:
+
+    # "{i}[b_name] cleans herself up and glares at you, despite the pleasure you just shared."
+    "{i}[b_name] se limpa e o encara, apesar do prazer que acabaram de compartilhar."
+
+# game/day29.rpy:1057
+translate brazilian day29_b_sex_ff05c4c4:
+
+    # p "That was interesting."
+    p "Isso foi interessante."
+
+# game/day29.rpy:1058
+translate brazilian day29_b_sex_3735a1ed:
+
+    # b "Don't even think for a minute I'm up for more."
+    b "Nem pense por um minuto que estou pronta para mais."
+
+# game/day29.rpy:1059
+translate brazilian day29_b_sex_1d83294d:
+
+    # p "Are you sure?"
+    p "Tem certeza?"
+
+# game/day29.rpy:1060
+translate brazilian day29_b_sex_5a68789f:
+
+    # b "Yes, I'm fucking sure."
+    b "Sim, porra, tenho certeza."
+
+# game/day29.rpy:1061
+translate brazilian day29_b_sex_bd0b3e68:
+
+    # p "You'll come around, I'm sure you do."
+    p "Você vai mudar de ideia, eu sei que vai."
+
+# game/day29.rpy:1062
+translate brazilian day29_b_sex_c0bf7ea1:
+
+    # b "Go away."
+    b "Vai embora."
+
+# game/day29.rpy:1077
+translate brazilian day29_l_masturbation_bd368b3d:
+
+    # "{i}You shuffle underneath the blankets and try to keep warm."
+    "{i}Vocês se enfiam embaixo dos cobertores e tentam se aquecer."
+
+# game/day29.rpy:1078
+translate brazilian day29_l_masturbation_586c421f:
+
+    # l "I'm s-so c-c-cold..."
+    l "Estou com t-tanto f-f-frio..."
+
+# game/day29.rpy:1079
+translate brazilian day29_l_masturbation_00028e1e:
+
+    # p "Me too..."
+    p "Eu também."
+
+# game/day29.rpy:1080
+translate brazilian day29_l_masturbation_04be0cfb:
+
+    # p "I read somewhere that skin on skin contact helps."
+    p "Li em algum lugar que o contato de pele ajuda."
+
+# game/day29.rpy:1081
+translate brazilian day29_l_masturbation_487dd9a4:
+
+    # l "I'm willing to try anything."
+    l "Estou disposta a tentar qualquer coisa."
+
+# game/day29.rpy:1082
+translate brazilian day29_l_masturbation_21a958e9:
+
+    # p "We kinda need to get completely naked and hold each other close."
+    p "Nós meio que precisamos ficar completamente nus e nos abraçar."
+
+# game/day29.rpy:1083
+translate brazilian day29_l_masturbation_f6cfd697:
+
+    # l "N-no underw-wear, y-you m-mean"
+    l "Q-quer dizer, sem r-roupa de b-baixo."
+
+# game/day29.rpy:1084
+translate brazilian day29_l_masturbation_e66125da:
+
+    # p "Yup."
+    p "Sim."
+
+# game/day29.rpy:1085
+translate brazilian day29_l_masturbation_ea527966:
+
+    # l "T-t-that's not so b-b-bad, is it?"
+    l "N-não é tão r-r-ruim assim, é?"
+
+# game/day29.rpy:1087
+translate brazilian day29_l_masturbation_298d3e54:
+
+    # "{i}After you both undress, you hold [l_name] in your arms. Her skin feels soft and cold on yours."
+    "{i}Depois de ambos se despirem, você segura [l_name] em seus braços. A pele dela está macia e fria na sua."
+
+# game/day29.rpy:1088
+translate brazilian day29_l_masturbation_947fcb87:
+
+    # p "Do you feel warmer?"
+    p "Você se sente mais quente?"
+
+# game/day29.rpy:1089
+translate brazilian day29_l_masturbation_d37a2cb7:
+
+    # l "I think so."
+    l "Acho que sim."
+
+# game/day29.rpy:1090
+translate brazilian day29_l_masturbation_3c358972:
+
+    # p "You've stopped shivering."
+    p "Você parou de tremer."
+
+# game/day29.rpy:1091
+translate brazilian day29_l_masturbation_915f99db:
+
+    # l "I'm still cold."
+    l "Ainda estou com frio."
+
+# game/day29.rpy:1092
+translate brazilian day29_l_masturbation_99085df3:
+
+    # p "Maybe it would help if we rubbed our skin."
+    p "Talvez ajudasse se esfregássemos a pele."
+
+# game/day29.rpy:1098
+translate brazilian day29_l_masturbation_600802e7:
+
+    # "{i}After you place a hand on your sister's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Depois de colocar a mão no ombro de sua irmã, você massageia seus braços e costas. [l_name] fecha os olhos."
+
+# game/day29.rpy:1100
+translate brazilian day29_l_masturbation_7e21322b:
+
+    # "{i}After you place a hand on your friend's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Depois de colocar a mão no ombro de sua amiga, você massageia os braços e as costas dela. [l_name] fecha os olhos."
+
+# game/day29.rpy:1101
+translate brazilian day29_l_masturbation_77ba347f:
+
+    # p "Is that better?"
+    p "Está melhor?"
+
+# game/day29.rpy:1102
+translate brazilian day29_l_masturbation_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm."
+
+# game/day29.rpy:1103
+translate brazilian day29_l_masturbation_fa3eddbf:
+
+    # "{i}When her upper body feels warm to the touch, you move to her hips and legs and give them the same treatment."
+    "{i}Quando a parte superior do corpo dela está quente ao toque, você vai até seu quadril e pernas e dá a eles o mesmo tratamento."
+
+# game/day29.rpy:1104
+translate brazilian day29_l_masturbation_1049a691:
+
+    # l "It really works."
+    l "Isso funciona mesmo."
+
+# game/day29.rpy:1105
+translate brazilian day29_l_masturbation_03b82946:
+
+    # "{i}You kiss her shoulder blade and the nape of her neck."
+    "{i}Você beija o ombro e a nuca dela."
+
+# game/day29.rpy:1106
+translate brazilian day29_l_masturbation_10443e0d:
+
+    # l "Please don't stop."
+    l "Por favor, não para."
+
+# game/day29.rpy:1107
+translate brazilian day29_l_masturbation_086cad75:
+
+    # p "But you're warm already."
+    p "Mas você já está aquecida."
+
+# game/day29.rpy:1108
+translate brazilian day29_l_masturbation_cd28bb69:
+
+    # l "I know, but I like the feeling."
+    l "Eu sei, mas gosto da sensação."
+
+# game/day29.rpy:1110
+translate brazilian day29_l_masturbation_2fd9c300:
+
+    # "{i}[l_name] turns towards you and looks deeply into your eyes. You cannot help but kiss her mouth."
+    "{i}[l_name] se vira para você e olha profundamente em seus olhos. Você não pode deixar de beijar sua boca."
+
+# game/day29.rpy:1112
+translate brazilian day29_l_masturbation_b3a7ddfc:
+
+    # l "Mmmm... [p_name]!"
+    l "Mmmm... [p_name]!"
+
+# game/day29.rpy:1114
+translate brazilian day29_l_masturbation_abd505a2:
+
+    # p "Sorry, but your lips were cold."
+    p "Desculpa, mas seus lábios estavam frios."
+
+# game/day29.rpy:1115
+translate brazilian day29_l_masturbation_f07890dd:
+
+    # l "Haha!"
+    l "Haha!"
+
+# game/day29.rpy:1116
+translate brazilian day29_l_masturbation_af2584ed:
+
+    # "{i}The sight of her firm breasts and their proud nipples, combined with your passionate kiss, is starting to make you hard."
+    "{i}A visão de seus seios firmes e seus mamilos orgulhosos, combinada com seu beijo apaixonado, está começando a deixá-lo duro."
+
+# game/day29.rpy:1117
+translate brazilian day29_l_masturbation_97be07fe:
+
+    # l "There's something... Oh..."
+    l "Tem alguma coisa... Ah..."
+
+# game/day29.rpy:1118
+translate brazilian day29_l_masturbation_e88a0767:
+
+    # p "Sorry."
+    p "Desculpa."
+
+# game/day29.rpy:1119
+translate brazilian day29_l_masturbation_517cb65b:
+
+    # l "Don't be."
+    l "Não precisa se desculpar."
+
+# game/day29.rpy:1120
+translate brazilian day29_l_masturbation_9d29c86a:
+
+    # l "You're still cold too."
+    l "Você ainda está com frio também."
+
+# game/day29.rpy:1121
+translate brazilian day29_l_masturbation_afc4ff76:
+
+    # p "I am."
+    p "Eu estou."
+
+# game/day29.rpy:1122
+translate brazilian day29_l_masturbation_8598487a:
+
+    # l "Mind if I give you the same treatment?"
+    l "Se importa se eu fizer o mesmo com você?"
+
+# game/day29.rpy:1123
+translate brazilian day29_l_masturbation_f1c98617:
+
+    # p "Not at all."
+    p "De jeito nenhum."
+
+# game/day29.rpy:1128
+translate brazilian day29_l_masturbation_3efd99a2:
+
+    # "{i}The girl proceeds to treat your skin the same way you did hers, but you notice she presses her body even closer to yours."
+    "{i}A garota passa a tratar sua pele da mesma forma que você fez com ela, mas você percebe que ela pressiona o corpo ainda mais perto do seu."
+
+# game/day29.rpy:1129
+translate brazilian day29_l_masturbation_33819e20:
+
+    # "{i}As you turn over, your leg slips between her thighs, and you feel the lips of her pussy on your bare skin. [l_name] doesn't seem to notice."
+    "{i}Quando você se vira, sua perna desliza entre as coxas dela e você sente os lábios de sua boceta em sua pele nua. [l_name] não parece notar."
+
+# game/day29.rpy:1131
+translate brazilian day29_l_masturbation_21e1e7b3:
+
+    # "{i}Unconsciously, she starts to grind her pussy on your leg, craving the pleasure the motions send through her body."
+    "{i}Inconscientemente, ela começa a esfregar sua boceta em sua perna, desejando o prazer que os movimentos enviam por seu corpo."
+
+# game/day29.rpy:1132
+translate brazilian day29_l_masturbation_93ea5af1:
+
+    # "{i}Not wanting to ruin the moment, you don't speak and wrap your arms around her."
+    "{i}Não querendo estragar o momento, você não fala e passa os braços em volta dela."
+
+# game/day29.rpy:1133
+translate brazilian day29_l_masturbation_eba44e9f:
+
+    # l "Mmmmmm..."
+    l "Mmmmmm..."
+
+# game/day29.rpy:1134
+translate brazilian day29_l_masturbation_65fa5b8a:
+
+    # "{i}Your massage completely forgotten, [l_name] continues, breathing ever more heavily."
+    "{i}Sua massagem completamente esquecida, [l_name] continua, respirando cada vez mais profundamente."
+
+# game/day29.rpy:1136
+translate brazilian day29_l_masturbation_d88acbc7:
+
+    # l "Oh!"
+    l "Ah!"
+
+# game/day29.rpy:1137
+translate brazilian day29_l_masturbation_60783c8b:
+
+    # l "What are we doing?!"
+    l "O que estamos fazendo?!"
+
+# game/day29.rpy:1138
+translate brazilian day29_l_masturbation_0246ef9a:
+
+    # "{i}[l_name] tries to squirm out of your arms, but there's no real conviction behind her actions, as if she wants to continue to do what makes her feel good."
+    "{i}[l_name] tenta escapar de seus braços, mas não há uma convicção por trás de suas ações, como se ela quisesse continuar fazendo o que a satisfaz."
+
+# game/day29.rpy:1139
+translate brazilian day29_l_masturbation_caba0a24:
+
+    # p "I don't mind."
+    p "Eu não me importo."
+
+# game/day29.rpy:1140
+translate brazilian day29_l_masturbation_f86d916c:
+
+    # p "It works even better to keep warm, I think."
+    p "Eu acho que funciona ainda melhor para se aquecer."
+
+# game/day29.rpy:1145
+translate brazilian day29_l_masturbation_4e0ef72d:
+
+    # l "I shouldn't..."
+    l "Eu não deveria ..."
+
+# game/day29.rpy:1146
+translate brazilian day29_l_masturbation_236cf105:
+
+    # p "You wanted to do what feels right to you, don't you?"
+    p "Você queria fazer o que parecia certo para você, não é?"
+
+# game/day29.rpy:1147
+translate brazilian day29_l_masturbation_2af0a44b:
+
+    # l "Yes, but..."
+    l "Sim, mas..."
+
+# game/day29.rpy:1148
+translate brazilian day29_l_masturbation_c70ebffe:
+
+    # p "This is one of those moments where you should listen to your body, act on your instincts."
+    p "Este é um daqueles momentos em que você deve ouvir seu corpo, agir de acordo com seus instintos."
+
+# game/day29.rpy:1149
+translate brazilian day29_l_masturbation_21477378:
+
+    # l "But I'm using you..."
+    l "Mas eu estou te usando..."
+
+# game/day29.rpy:1150
+translate brazilian day29_l_masturbation_1a69e8f1:
+
+    # p "Only technically..."
+    p "Só tecnicamente..."
+
+# game/day29.rpy:1151
+translate brazilian day29_l_masturbation_007180d8:
+
+    # l "Oh... So you don't mind?"
+    l "Ah... Então você não se importa?"
+
+# game/day29.rpy:1152
+translate brazilian day29_l_masturbation_eb716dfc:
+
+    # p "Just trust that I'll let you know."
+    p "Apenas confie que eu te falo se me importar."
+
+# game/day29.rpy:1153
+translate brazilian day29_l_masturbation_c6c955e3:
+
+    # l "Okay..."
+    l "Ok..."
+
+# game/day29.rpy:1154
+translate brazilian day29_l_masturbation_560ee807:
+
+    # p "Does it help when I kiss you?"
+    p "Ajuda quando eu te beijo?"
+
+# game/day29.rpy:1156
+translate brazilian day29_l_masturbation_b3ef1b9b:
+
+    # l "Maybe..."
+    l "Talvez..."
+
+# game/day29.rpy:1158
+translate brazilian day29_l_masturbation_1dc0465a:
+
+    # "{i}Before she can think of any more weak objections, you kiss her with such fire that she automatically resumes sliding her pussy on your leg, this time with much more conviction."
+    "{i}Antes que ela possa pensar em qualquer outra objeção fraca, você a beija com tanta vontade que ela automaticamente volta a esfregar a boceta em sua perna, desta vez com muito mais convicção."
+
+# game/day29.rpy:1159
+translate brazilian day29_l_masturbation_1676d17b:
+
+    # l "Oh [p_name]!"
+    l "Aih, [p_name]!"
+
+# game/day29.rpy:1160
+translate brazilian day29_l_masturbation_9df729d7:
+
+    # p "Just keep going, don't be afraid."
+    p "Continua, não tenha medo."
+
+# game/day29.rpy:1161
+translate brazilian day29_l_masturbation_04e36e67:
+
+    # l "I-I'm not... Aaaah!"
+    l "E-eu não... Aaaai!"
+
+# game/day29.rpy:1166
+translate brazilian day29_l_masturbation_593144a0:
+
+    # "{i}While [l_name] focuses on pleasuring herself, you turn your attention to her breasts, showering them with kissing and softly suckling her nipples."
+    "{i}Enquanto [l_name] se concentra no próprio prazer, você volta sua atenção para seus seios, banhando-os com beijos e chupando suavemente seus mamilos."
+
+# game/day29.rpy:1168
+translate brazilian day29_l_masturbation_b986ab8a:
+
+    # "{i}Your sister holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Sua irmã o abraça bem perto, aperta seu rosto contra o peito volumoso dela e você bebe seu cheiro de perfume misturado com suor."
+
+# game/day29.rpy:1170
+translate brazilian day29_l_masturbation_fd701959:
+
+    # "{i}Your friend holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Sua irmã o abraça bem perto, aperta seu rosto contra o peito volumoso dela e você bebe seu cheiro de perfume misturado com suor."
+
+# game/day29.rpy:1171
+translate brazilian day29_l_masturbation_0ffa60ce:
+
+    # l "I'm... I'm so close!"
+    l "Eu... Eu estou tão perto!"
+
+# game/day29.rpy:1173
+translate brazilian day29_l_masturbation_2f326aef:
+
+    # "{i}You intensify your attention to her breasts, as her grinding enters the final stretch. Her upper leg is massaging your cock, and you start to lose your own bearings."
+    "{i}Você intensifica sua atenção nos seios dela, enquanto a esfregada entra na reta final. A coxa dela está massageando seu pau e você começa a ficar desatordoado."
+
+# game/day29.rpy:1174
+translate brazilian day29_l_masturbation_ab17848e:
+
+    # p "[l_name]!"
+    p "[l_name]!"
+
+# game/day29.rpy:1175
+translate brazilian day29_l_masturbation_c1d4061a:
+
+    # l "Yes?!"
+    l "Sim?!"
+
+# game/day29.rpy:1176
+translate brazilian day29_l_masturbation_87c00d69:
+
+    # p "Don't stop..."
+    p "Não para..."
+
+# game/day29.rpy:1177
+translate brazilian day29_l_masturbation_a0e74141:
+
+    # l "I won't..."
+    l "Não vou..."
+
+# game/day29.rpy:1178
+translate brazilian day29_l_masturbation_70556a20:
+
+    # l "I won't!"
+    l "Eu não vou!"
+
+# game/day29.rpy:1185
+translate brazilian day29_l_masturbation_c202593b:
+
+    # "{i}As her movements start to lose coordination, you know she's about to climax. From deep within, your own orgasm builds, and you release almost at the same time."
+    "{i}Conforme os movimentos dela começam a perder a coordenação, você sabe que ela está prestes a chegar ao clímax. Lá no fundo, seu próprio orgasmo se acumula e você goza quase ao mesmo tempo."
+
+# game/day29.rpy:1186
+translate brazilian day29_l_masturbation_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day29.rpy:1187
+translate brazilian day29_l_masturbation_7bfa6ff2:
+
+    # "{i}Embracing each other, you climb the peaks of your pleasure, [l_name]'s juices covering your leg, and you spraying cum all over her thighs and belly."
+    "{i}Abraçando-se, vocês escalam os picos do seu prazer, os fluidos de [l_name] cobrindo sua perna e você jorrando gozo por todas as coxas e barriga dela."
+
+# game/day29.rpy:1193
+translate brazilian day29_l_masturbation_cb14584f:
+
+    # "{i}Half an hour passes, and [l_name] just sighs in your arms and absentmindedly strokes your chest."
+    "{i}Meia hora se passa e [l_name] apenas suspira em seus braços e acaricia distraidamente seu peito."
+
+# game/day29.rpy:1194
+translate brazilian day29_l_masturbation_8be67411:
+
+    # p "I don't know about you, but I finally feel warm."
+    p "Não sei você, mas finalmente me sinto aquecido."
+
+# game/day29.rpy:1195
+translate brazilian day29_l_masturbation_1169bd3f:
+
+    # l "You're right, me too."
+    l "Você está certo, eu também."
+

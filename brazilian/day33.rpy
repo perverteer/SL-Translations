@@ -5638,3 +5638,1487 @@ translate brazilian day33_2e61abc1:
     # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
     "{i}Nesse momento você se perde completamente e com força de vontade consegue agarrar seu pau e direcioná-lo para os peitos eretos de Valentina e sua namorada."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day33.rpy:1077
+translate brazilian day33_v_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Você deseja habilitar esportes aquáticos para esta cena?"
+
+# game/day33.rpy:1081
+translate brazilian day33_v_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Esportes aquáticos habilitados"
+
+# game/day33.rpy:1084
+translate brazilian day33_v_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Desportos aquáticos desativados"
+
+# game/day33.rpy:1091
+translate brazilian day33_v_sex_da20bdb0:
+
+    # p "How could I refuse?"
+    p "Como poderia recusar?"
+
+# game/day33.rpy:1092
+translate brazilian day33_v_sex_67933b7d:
+
+    # va "Good answer."
+    va "Boa resposta."
+
+# game/day33.rpy:1093
+translate brazilian day33_v_sex_f5f2a0d3:
+
+    # va "Why don't you come here and help me undress, [r_name]."
+    va "Por que você não vem aqui e me ajuda a ficar pelada, [r_name]."
+
+# game/day33.rpy:1095
+translate brazilian day33_v_sex_cd5af312:
+
+    # "{i}Valentina is perfectly capable of removing the few pieces of clothing she still wears and uses the opportunity to give [r_name] a long kiss instead."
+    "{i}Valentina é perfeitamente capaz de remover as poucas peças de roupa que ainda usa e usa a oportunidade para dar um longo beijo em [r_name]."
+
+# game/day33.rpy:1097
+translate brazilian day33_v_sex_df514626:
+
+    # "{i}Their kissing soon involves an interplay of tongues and eager exploration of the sensitive parts of either girl's body."
+    "{i}O beijo delas logo envolve uma interação de línguas e uma exploração ansiosa das partes sensíveis do corpo uma da outra."
+
+# game/day33.rpy:1098
+translate brazilian day33_v_sex_0b386afd:
+
+    # "{i}[r_name] seems to treat Valentina as a rather precious object at first, but as lust takes the upper hand, her touches become more self-assured and fueled by the greed you know all too well."
+    "{i}[r_name] parece inicialmente tratar Valentina como um objeto muito precioso, mas conforme o desejo toma conta, seus toques se tornam mais confiantes e alimentados por uma ganância que você bem conhece."
+
+# game/day33.rpy:1100
+translate brazilian day33_v_sex_700277af:
+
+    # va "Look at that, it seems your friend is ready for us too."
+    va "Olha só, parece que seu amigo também está pronto para nós."
+
+# game/day33.rpy:1101
+translate brazilian day33_v_sex_f27e7783:
+
+    # va "Will you join us, [p_name]?"
+    va "Você vai se juntar a nós, [p_name]?"
+
+# game/day33.rpy:1102
+translate brazilian day33_v_sex_6267df42:
+
+    # va "Stick that hard cock in our mouths?"
+    va "Enfiar esse pau duro nas nossas bocas?"
+
+# game/day33.rpy:1107
+translate brazilian day33_v_sex_cd767c86:
+
+    # "{i}After you present your erection, the girls start to play with it, their fingertips darting all over your shaft."
+    "{i}Depois de apresentar sua ereção, as meninas começam a brincar com ela, as pontas dos dedos disparando por todo o seu pau."
+
+# game/day33.rpy:1108
+translate brazilian day33_v_sex_50670608:
+
+    # "{i}[r_name] is the first to use her tongue, working on the head of your dick and proving to you she knows exactly where your sensitive spots are."
+    "{i}[r_name] é a primeira a usar a língua, trabalhando na cabeça do seu pau e provando que ela sabe exatamente onde estão seus pontos sensíveis."
+
+# game/day33.rpy:1110
+translate brazilian day33_v_sex_4b719145:
+
+    # "{i}A hint of jealously flashes across Valentinas face and she pulls [r_name] face towards her to kiss her violently."
+    "{i}Uma pitada de ciúme aparece no rosto de Valentina e ela puxa o rosto de [r_name] em sua direção para beijá-la violentamente."
+
+# game/day33.rpy:1111
+translate brazilian day33_v_sex_50061cf3:
+
+    # "{i}From he first taste of your cock she gets from [r_name]'s lips and the smoldering look she gives, you gather that she obviously wants more."
+    "{i}Pela primeira provada do seu pau que ela consegue dos lábios de [r_name] e olhar ardente que ela dá, você deduz que ela obviamente quer mais."
+
+# game/day33.rpy:1113
+translate brazilian day33_v_sex_462e71be:
+
+    # "{i}Valentina kisses the tip of your cock and slowly slides her lips over the length of your shaft."
+    "{i}Valentina beija a ponta do seu pau e desliza lentamente os lábios sobre o comprimento do seu pau."
+
+# game/day33.rpy:1114
+translate brazilian day33_v_sex_a0d01377:
+
+    # "{i}When she has sucked your cock once or twice, she holds it in her mouth, and you feel her tongue swirling over the exposed glans."
+    "{i}Depois de chupar seu pau uma ou duas vezes, ela o segura na boca e você sente sua língua girando sobre a glande exposta."
+
+# game/day33.rpy:1115
+translate brazilian day33_v_sex_7eabf0ef:
+
+    # "{i}You're amazed by the level of accomplishment Valentina shows as a cocksucker at such a relatively young age."
+    "{i}Você está surpreso com o nível de habilidade que Valentina mostra como chupadora de pau em uma idade relativamente jovem."
+
+# game/day33.rpy:1116
+translate brazilian day33_v_sex_8e7a6284:
+
+    # "{i}The singer alternates between powerful stimulation of the entire shaft and playful sucking of the head, making the blowjob a little unpredictable and therefore very enjoyable."
+    "{i}A cantora alterna entre estimular bastante o pau inteiro e chupar provocativamente a cabeça, tornando o boquete um pouco imprevisível e assim muito gostoso."
+
+# game/day33.rpy:1118
+translate brazilian day33_v_sex_4ee9563f:
+
+    # "{i}Just at the moment Valentina has sucked you into a sexual trance she lets your cock slide out of her mouth and presents it to [r_name]."
+    "{i}Logo quando Valentina o levou a um transe sexual, ela deixa seu pau deslizar para fora de sua boca e o apresenta para [r_name]."
+
+# game/day33.rpy:1119
+translate brazilian day33_v_sex_12aaf1cf:
+
+    # va "Your turn."
+    va "Sua vez."
+
+# game/day33.rpy:1125
+translate brazilian day33_v_sex_8e107db1:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your sister."
+    "{i}Quando [r_name] começa a chupá-lo, Valentina volta sua atenção para sua irmã."
+
+# game/day33.rpy:1127
+translate brazilian day33_v_sex_291ff673:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your girlfriend."
+    "{i}Quando [r_name] começa a chupá-lo, Valentina volta sua atenção para sua namorada."
+
+# game/day33.rpy:1132
+translate brazilian day33_v_sex_668456bc:
+
+    # "{i}[r_name] has to cease her work on your dick and moans all over your cock as Valentina begins to lick her pussy."
+    "{i}[r_name] tem que soltar seu pau e geme nele todo enquanto Valentina começa a lamber sua boceta."
+
+# game/day33.rpy:1134
+translate brazilian day33_v_sex_50ff9e62:
+
+    # "{i}You're treated to a glorious display of lesbian love while [r_name] still goes down on your throbbing cock."
+    "{i}Você vê uma gloriosa demonstração de amor lésbico enquanto [r_name] ainda manda ver em seu pau latejante."
+
+# game/day33.rpy:1135
+translate brazilian day33_v_sex_8f899fcd:
+
+    # "{i}Sex acts seem to bore Valentina easily, because she stops eating [r_name] out not long after she begun, pulling the girl from your cock as well."
+    "{i}Parece que atos sexuais entediam Valentina facilmente, porque ela para de chupar [r_name] não muito depois de começar, puxando a garota do seu pau também."
+
+# game/day33.rpy:1141
+translate brazilian day33_v_sex_363ef64d:
+
+    # va "Enough foreplay."
+    va "Chega de preliminares."
+
+# game/day33.rpy:1142
+translate brazilian day33_v_sex_f2ac1848:
+
+    # va "I want to get fucked."
+    va "Eu quero ser fodida."
+
+# game/day33.rpy:1143
+translate brazilian day33_v_sex_61d24d5c:
+
+    # r "Uhm..."
+    r "Ahm..."
+
+# game/day33.rpy:1144
+translate brazilian day33_v_sex_b56921dd:
+
+    # r "Could I leave you guys for a minute?"
+    r "Posso deixar vocês por um minuto?"
+
+# game/day33.rpy:1145
+translate brazilian day33_v_sex_183de7fa:
+
+    # va "Why?"
+    va "Por quê?"
+
+# game/day33.rpy:1146
+translate brazilian day33_v_sex_3a38d98b:
+
+    # r "I have to sneak out and use the bathroom."
+    r "Tenho que dar uma saída e usar o banheiro."
+
+# game/day33.rpy:1147
+translate brazilian day33_v_sex_f5f89363:
+
+    # va "So?"
+    va "Então?"
+
+# game/day33.rpy:1148
+translate brazilian day33_v_sex_d26b31b0:
+
+    # r "I just really need to pee, be right back."
+    r "Eu realmente preciso fazer xixi, já volto."
+
+# game/day33.rpy:1149
+translate brazilian day33_v_sex_ea179a45:
+
+    # va "You're not going anywhere."
+    va "Você não vai a lugar nenhum."
+
+# game/day33.rpy:1151
+translate brazilian day33_v_sex_4e9c48fc:
+
+    # r "I can't hold it in much longer!"
+    r "Eu não consigo segurar por muito mais tempo!"
+
+# game/day33.rpy:1152
+translate brazilian day33_v_sex_a92ce422:
+
+    # va "Good."
+    va "Ótimo."
+
+# game/day33.rpy:1153
+translate brazilian day33_v_sex_c5265c11:
+
+    # "{i}Valentina lies down on the floor, and as you begin to understand what the singer intends, your cock twitches in anticipation."
+    "{i}Valentina se deita no chão e quando você começa a entender o que a cantora pretende, seu pau se treme de ansiedade."
+
+# game/day33.rpy:1154
+translate brazilian day33_v_sex_f4366a2c:
+
+    # va "Come over here and let it all go."
+    va "Vem aqui e deixe manda ver."
+
+# game/day33.rpy:1156
+translate brazilian day33_v_sex_43074f89:
+
+    # r "What?!"
+    r "O quê?!"
+
+# game/day33.rpy:1157
+translate brazilian day33_v_sex_697ccfaa:
+
+    # r "Like pee on the floor?"
+    r "Tipo fazer xixi no chão?"
+
+# game/day33.rpy:1158
+translate brazilian day33_v_sex_82b1efc4:
+
+    # va "No, pee on me."
+    va "Não, faça xixi em mim."
+
+# game/day33.rpy:1159
+translate brazilian day33_v_sex_18d4a75b:
+
+    # va "Do I need to spell it out for you?"
+    va "Eu preciso soletrar para você?"
+
+# game/day33.rpy:1160
+translate brazilian day33_v_sex_e63b215d:
+
+    # "{i}[r_name] glances at you, a little worried by the request and unsure what to do."
+    "{i}[r_name] olha para você, um pouco preocupada com o pedido e sem saber o que fazer."
+
+# game/day33.rpy:1166
+translate brazilian day33_v_sex_cadedab3:
+
+    # "{i}You slightly nod and [r_name] smiles, thrilled for what comes next."
+    "{i}Você acena de leve com a cabeça e [r_name] sorri, empolgada com o que vem a seguir."
+
+# game/day33.rpy:1168
+translate brazilian day33_v_sex_e8879a21:
+
+    # "{i}You shake your head slightly, and [r_name] takes the cue."
+    "{i}Você balança a cabeça levemente, e [r_name] entende."
+
+# game/day33.rpy:1170
+translate brazilian day33_v_sex_4963dd83:
+
+    # r "Sorry Valentina, but I'm just going to make a run for it really quick and find a bathroom."
+    r "Desculpa, Valentina, mas vou correr bem rápido e encontrar um banheiro."
+
+# game/day33.rpy:1171
+translate brazilian day33_v_sex_cad4e5c5:
+
+    # va "Suit yourself."
+    va "Faça como quiser."
+
+# game/day33.rpy:1172
+translate brazilian day33_v_sex_e09561fa:
+
+    # va "You do know I'll have your man all to myself?"
+    va "Você sabe que terei seu homem só para mim?"
+
+# game/day33.rpy:1173
+translate brazilian day33_v_sex_a9b67a01:
+
+    # r "I'm not worried, as long as you leave a piece for me."
+    r "Não estou preocupada, desde que você deixe um pedaço para mim."
+
+# game/day33.rpy:1174
+translate brazilian day33_v_sex_4da4447e:
+
+    # "{i}[r_name] slips into her dress again and slips out of the room barefoot."
+    "{i}[r_name] põe seu vestido novamente e sai da descalça sala."
+
+# game/day33.rpy:1180
+translate brazilian day33_v_sex_c200323b:
+
+    # "{i}[r_name] positions her body over Valentina's and squats, a concentrated expression on her face."
+    "{i}[r_name] posiciona o corpo sobre o de Valentina e se agacha, uma expressão concentrada em seu rosto."
+
+# game/day33.rpy:1181
+translate brazilian day33_v_sex_8c501186:
+
+    # "{i}Despite the urgency she felt earlier, it takes a while for it to come, Valentina strokes the thighs of your girl in delirious anticipation."
+    "{i}Apesar da urgência que sentiu antes, demora um pouco para acontecer, e Valentina acaricia as coxas de sua garota em delirante antecipação."
+
+# game/day33.rpy:1188
+translate brazilian day33_v_sex_f23fb9a9:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your sister's pussy."
+    "{i}Você ouve um pequeno suspiro de alívio quando uma torrente de mijo escapa da boceta de sua irmã."
+
+# game/day33.rpy:1190
+translate brazilian day33_v_sex_9a4d25e2:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your girlfriend's pussy."
+    "{i}Você ouve um pequeno suspiro de alívio quando uma torrente de mijo escapa da boceta da sua namorada."
+
+# game/day33.rpy:1191
+translate brazilian day33_v_sex_9621e813:
+
+    # "{i}The urine splashes onto Valentina's naked body, who closes her eyes and rubs the liquid all over her breasts and belly."
+    "{i}A urina espirra no corpo nu de Valentina, que fecha os olhos e esfrega o líquido nos seios e na barriga."
+
+# game/day33.rpy:1192
+translate brazilian day33_v_sex_14c7df85:
+
+    # va "More!"
+    va "Mais!"
+
+# game/day33.rpy:1198
+translate brazilian day33_v_sex_9a45cbcc:
+
+    # "{i}[r_name] tries her best and delivers another gush of pee, this time the stream spatters into Valentina's open mouth and she drinks eagerly."
+    "{i}[r_name] dá o seu melhor e oferece outro jorro de xixi, desta vez o fluxo espirra na boca aberta de Valentina e ela bebe com avidez."
+
+# game/day33.rpy:1199
+translate brazilian day33_v_sex_0404ad17:
+
+    # "{i}At first, you thought [r_name] would be too weirded out by all of it, but she actually seems to relish in soiling her idol."
+    "{i}No começo você pensou que [r_name] acharia isso tudo estranho, mas ela realmente parece ter prazer em sujar sua ídola."
+
+# game/day33.rpy:1201
+translate brazilian day33_v_sex_ebe86168:
+
+    # va "Mmmmm, that feels so good."
+    va "Mmmmm, isso é tão bom."
+
+# game/day33.rpy:1205
+translate brazilian day33_v_sex_8ae5b91d:
+
+    # va "Oh, there's more?"
+    va "Ah, tem mais?"
+
+# game/day33.rpy:1210
+translate brazilian day33_v_sex_b3f5862b:
+
+    # "{i}A final stream of piss trickles from [r_name]'s vagina, streaming down Valentina's breasts, over her belly and finally stranding in the singer's pubic hair."
+    "{i}Um fluxo final de mijo escorre da vagina de [r_name], descendo pelos seios de Valentina, pela barriga e finalmente chegando aos pelos pubianos da cantora."
+
+# game/day33.rpy:1211
+translate brazilian day33_v_sex_4ecb9db6:
+
+    # "{i}Valentina is now lying in a puddle of [r_name]'s piss, almost bathing in the warm liquid and wearing a content smile on her face."
+    "{i}Valentina agora está deitada em uma poça de urina de [r_name], quase se banhando no líquido quente e com um sorriso contente no rosto."
+
+# game/day33.rpy:1212
+translate brazilian day33_v_sex_b4e76810:
+
+    # va "Mmmm, now we can fuck."
+    va "Mmmm, agora podemos foder."
+
+# game/day33.rpy:1213
+translate brazilian day33_v_sex_1a75f8bd:
+
+    # va "And I'm sorry, [r_name], but I'm going first."
+    va "E me desculpa, [r_name], mas vou primeiro."
+
+# game/day33.rpy:1214
+translate brazilian day33_v_sex_f82db883:
+
+    # r "As long as you leave a piece for me."
+    r "Desde que você deixe um pedaço para mim."
+
+# game/day33.rpy:1220
+translate brazilian day33_v_sex_b1dce4b3:
+
+    # va "Will you fuck me hard?"
+    va "Você vai me foder bem?"
+
+# game/day33.rpy:1221
+translate brazilian day33_v_sex_5980f02a:
+
+    # va "I don't want you to treat me as some precious thing, some tender princess."
+    va "Não quero que você me trate como uma coisa preciosa, uma princesinha."
+
+# game/day33.rpy:1222
+translate brazilian day33_v_sex_916469f9:
+
+    # p "Come here then."
+    p "Vem aqui então."
+
+# game/day33.rpy:1227
+translate brazilian day33_v_sex_66b7e5c5:
+
+    # "{i}You pull the singer closer and press the head of your erect cock against her fuck-hole."
+    "{i}Você puxa a cantora para mais perto e pressiona a cabeça de seu pau ereto contra o buraco dela."
+
+# game/day33.rpy:1228
+translate brazilian day33_v_sex_440312bf:
+
+    # va "Mmmm, you're eager."
+    va "Mmmm, você está ansioso."
+
+# game/day33.rpy:1230
+translate brazilian day33_v_sex_461e6ed3:
+
+    # "{i}You were hoping [r_name] would join you in preparing Valentina, but she's waiting her turn, maybe a little shy all of a sudden."
+    "{i}Você esperava que [r_name] se juntasse a você na preparação de Valentina, mas ela está esperando a vez dela, talvez um pouco tímida de repente."
+
+# game/day33.rpy:1232
+translate brazilian day33_v_sex_3b0b3bf1:
+
+    # va "Quick, I want to feel you before your girlfriend comes back."
+    va "Rápido, quero sentir você antes que sua namorada volte."
+
+# game/day33.rpy:1234
+translate brazilian day33_v_sex_e0594a98:
+
+    # "{i}Parting her lower lips with your tip, you ram your shaft inside her as soon as you've passed her heavenly entrance."
+    "{i}Separando os lábios inferiores com a ponta, você enfia seu pau dentro dela assim que passa por sua deliciosa entrada."
+
+# game/day33.rpy:1235
+translate brazilian day33_v_sex_afe18761:
+
+    # va "T-that's it!"
+    va "I-isso!"
+
+# game/day33.rpy:1240
+translate brazilian day33_v_sex_da777b57:
+
+    # "{i}You're overcome by a desire to own her body completely, and your hands react by grabbing and kneading Valentina's breasts, leaving red marks on her skin."
+    "{i}Você é dominado por um desejo de possuir o corpo dela por completo e suas mãos reagem agarrando e massageando os seios de Valentina, deixando marcas vermelhas em sua pele."
+
+# game/day33.rpy:1241
+translate brazilian day33_v_sex_4ba1675f:
+
+    # "{i}Her arms behind her back, she moans and sighs as you alternately massage and pinch her nipples."
+    "{i}Com os braços atrás das costas, ela geme e suspira enquanto você alterna entre massagear e beliscar seus mamilos."
+
+# game/day33.rpy:1245
+translate brazilian day33_v_sex_cbcac673:
+
+    # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your sister mixed with Valentina's perfume."
+    "{i}O corpo dela ainda está escorregadio com a urina de [r_name] e você sente o cheiro da sua irmã misturado com o perfume de Valentina."
+
+# game/day33.rpy:1247
+translate brazilian day33_v_sex_eefa7325:
+
+    # "{i}Her body is still slick with [r_name]'s piss, and you smell the musk of your girl mixed with Valentina's perfume."
+    "{i}O corpo dela ainda está escorregadio com a urina de [r_name] e você cheira o almíscar da sua garota, misturado com o perfume de Valentina."
+
+# game/day33.rpy:1249
+translate brazilian day33_v_sex_bfc84d23:
+
+    # "{i}[r_name] returns at that moment and is now looking at you in approval as you fuck her favorite singer."
+    "{i}[r_name] retorna nesse momento e agora olha para você com aprovação enquanto você fode a cantora favorita dela."
+
+# game/day33.rpy:1251
+translate brazilian day33_v_sex_c10ca682:
+
+    # r "Is he giving you a good time, Valentina?"
+    r "Ele está te satisfazendo, Valentina?"
+
+# game/day33.rpy:1252
+translate brazilian day33_v_sex_ef12ecd0:
+
+    # va "T-t-he b-best!"
+    va "D-d-demais!"
+
+# game/day33.rpy:1258
+translate brazilian day33_v_sex_80d6fd38:
+
+    # "{i}You see your sister kneel before Valentina's cunt, and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Você vê sua irmã se ajoelhar diante da boceta de Valentina e a língua dela sai para estimular tanto o seu pau quanto a boceta da outra garota."
+
+# game/day33.rpy:1260
+translate brazilian day33_v_sex_2afe7a86:
+
+    # "{i}You see your girlfriend kneel before Valentina's cunt and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Você vê sua namorada se ajoelhar diante da boceta de Valentina e sua língua sai para estimular tanto seu pau quanto a boceta da outra garota."
+
+# game/day33.rpy:1261
+translate brazilian day33_v_sex_348a1b48:
+
+    # va "F-fuck yes!"
+    va "Isso, p-porra!"
+
+# game/day33.rpy:1262
+translate brazilian day33_v_sex_bf974413:
+
+    # va "K-keep d-doing that, [r_name]!"
+    va "C-continua fazendo isso, [r_name]!"
+
+# game/day33.rpy:1269
+translate brazilian day33_v_sex_51ffaecb:
+
+    # "{i}Thanks to [r_name]'s caresses, some directly to her clitoris, Valentina is able to reach her climax."
+    "{i}Graças às carícias de [r_name], algumas diretamente no clitóris, Valentina consegue chegar ao clímax."
+
+# game/day33.rpy:1270
+translate brazilian day33_v_sex_e5d38be8:
+
+    # "{i}The girl thrusts her cunt violently in [r_name]'s face to maximize her pleasure, nearly making your cock slip out of her."
+    "{i}A garota empurra sua boceta violentamente no rosto de [r_name] para maximizar seu prazer, quase fazendo seu pau escorregar para fora."
+
+# game/day33.rpy:1271
+translate brazilian day33_v_sex_4ea9735d:
+
+    # va "Oh fuck [r_name], k-keeep doing that!"
+    va "Ai porra, [r_name], continua fazendo isso!"
+
+# game/day33.rpy:1272
+translate brazilian day33_v_sex_dd1c3a17:
+
+    # "{i}A small grin appears on [r_name]'s face as she prolongs Valentina's orgasm with the deft licks of her tongue."
+    "{i}Um pequeno sorriso aparece no rosto de [r_name] enquanto ela prolonga o orgasmo de Valentina com as lambidas ágeis de sua língua."
+
+# game/day33.rpy:1273
+translate brazilian day33_v_sex_19f1857e:
+
+    # "{i}You hold the singer in your arms as she's unable to stand due to the convulsions currently wracking her body."
+    "{i}Você segura a cantora em seus braços, já que ela não consegue ficar de pé, devido às convulsões que estão sacudindo seu corpo."
+
+# game/day33.rpy:1274
+translate brazilian day33_v_sex_95ccc29e:
+
+    # "{i}Proud of what [r_name] accomplished, you develop an overwhelming desire to fuck her instead of Valentina."
+    "{i}Orgulhoso do que [r_name] conquistou, você desenvolve um desejo irresistível de transar com ela ao invés de Valentina."
+
+# game/day33.rpy:1281
+translate brazilian day33_v_sex_56ca903e:
+
+    # "{i}The singer doesn't even notice when you pull out your cock and lets herself be helped to the sofa, where she gets to enjoy the last stages of her orgasm."
+    "{i}A cantora nem percebe quando você puxa o pau para fora e se deixa ser levada até o sofá, onde consegue curtir os últimos estágios de seu orgasmo."
+
+# game/day33.rpy:1287
+translate brazilian day33_v_sex_d16e3da8:
+
+    # "{i}Your sister embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Sua irmã o abraça e você a beija apaixonadamente, sua boceta úmida esfregando contra sua perna."
+
+# game/day33.rpy:1289
+translate brazilian day33_v_sex_5914c6b2:
+
+    # "{i}Your girlfriend embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Sua namorada o abraça e você a beija apaixonadamente, sua boceta úmida esfregando contra sua perna."
+
+# game/day33.rpy:1291
+translate brazilian day33_v_sex_9a270917:
+
+    # p "That was some show you gave there."
+    p "Foi um belo show que você deu aí."
+
+# game/day33.rpy:1292
+translate brazilian day33_v_sex_abacabd1:
+
+    # r "You liked it?"
+    r "Você gostou?"
+
+# game/day33.rpy:1293
+translate brazilian day33_v_sex_50da65e9:
+
+    # p "I sure did."
+    p "Gostei mesmo."
+
+# game/day33.rpy:1294
+translate brazilian day33_v_sex_b9d2aa00:
+
+    # p "Valentina too."
+    p "Valentina também."
+
+# game/day33.rpy:1295
+translate brazilian day33_v_sex_dcecbfef:
+
+    # r "Nice!"
+    r "Legal!"
+
+# game/day33.rpy:1296
+translate brazilian day33_v_sex_00f51342:
+
+    # p "I did have some trouble keeping it together though."
+    p "Mas eu tive certa dificuldade para me manter firme."
+
+# game/day33.rpy:1297
+translate brazilian day33_v_sex_d18906e1:
+
+    # r "Don't worry about that now."
+    r "Não se preocupe com isso agora."
+
+# game/day33.rpy:1299
+translate brazilian day33_v_sex_003579aa:
+
+    # "{i}After you sit down on the couch, [r_name] climbs on your lap, and together you guide your cock inside her wet tunnel."
+    "{i}Depois de se sentar no sofá, [r_name] sobe em seu colo e, juntos, vocês conduzem seu pau para dentro do túnel molhado."
+
+# game/day33.rpy:1300
+translate brazilian day33_v_sex_0e191745:
+
+    # r "Oooooh [p_name]!"
+    r "Aaaaih [p_name]!"
+
+# game/day33.rpy:1301
+translate brazilian day33_v_sex_61aef227:
+
+    # p "Can you go deeper, baby?"
+    p "Você pode ir mais fundo, linda?"
+
+# game/day33.rpy:1302
+translate brazilian day33_v_sex_f1daf558:
+
+    # r "I w-want to!"
+    r "E-eu q-quero!"
+
+# game/day33.rpy:1303
+translate brazilian day33_v_sex_9338afcc:
+
+    # r "Oh god!"
+    r "Oh Deus!"
+
+# game/day33.rpy:1304
+translate brazilian day33_v_sex_64f0ac46:
+
+    # "{i}Despite the frequency with which you've made love to [r_name], she still needs to adjust to your girth each time."
+    "{i}Apesar da frequência com que você tem feito amor com [r_name], ela ainda precisa se ajustar à sua circunferência toda vez."
+
+# game/day33.rpy:1305
+translate brazilian day33_v_sex_415e760c:
+
+    # "{i}The girl lowers herself slowly onto your cock, luxuriating in the feeling your shaft gives as it bores inside her, inch by inch."
+    "{i}A garota de abaixa lentamente sobre o seu pau, deleitando-se com a sensação que o seu pau dá conforme entra nela, centímetro por centímetro."
+
+# game/day33.rpy:1310
+translate brazilian day33_v_sex_377b5990:
+
+    # "{i}When she's at the root, [r_name] starts to move up and down faster and faster."
+    "{i}Quando ela está na raiz, [r_name] começa a subir  e descer cada vez mais rápido."
+
+# game/day33.rpy:1311
+translate brazilian day33_v_sex_ed2f7f52:
+
+    # "{i}You want to touch her everywhere, but your hands linger on her buttocks, her delicious cheeks bouncing on the rhythm of your fucking."
+    "{i}Você quer tocá-la em todos os lugares, mas suas mãos ficam no traseiro dela, suas deliciosas nádegas saltando no ritmo da sua foda."
+
+# game/day33.rpy:1313
+translate brazilian day33_v_sex_6e49843b:
+
+    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
+    "{i}Uma exausta Valentina ainda está deitada no sofá, olhando para vocês dois com olhos entreabertos, embora o primeiro dos gemidos de [r_name] pareça despertar algo dentro dela novamente."
+
+# game/day33.rpy:1320
+translate brazilian day33_v_sex_8d36a3d4:
+
+    # "{i}The singer moves from the couch and disappears from view, you don't know what she's doing until you see [r_name]'s eyes grow wide."
+    "{i}A cantora sai do sofá e desaparece de vista, você não sabe o que ela está fazendo até ver os olhos de [r_name] se arregalando."
+
+# game/day33.rpy:1321
+translate brazilian day33_v_sex_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaaaih!"
+
+# game/day33.rpy:1323
+translate brazilian day33_v_sex_644f6e44:
+
+    # va "Do you like my tongue up your ass, [r_name]?"
+    va "Você gosta da minha língua na sua bunda, [r_name]?"
+
+# game/day33.rpy:1324
+translate brazilian day33_v_sex_f976f546:
+
+    # p "{i}(Wow, she did that?)"
+    p "{i}(Nossa, ela fez isso?)"
+
+# game/day33.rpy:1325
+translate brazilian day33_v_sex_e2f54f04:
+
+    # r "Yes, yes I do!"
+    r "Sim, eu gosto sim!"
+
+# game/day33.rpy:1326
+translate brazilian day33_v_sex_5a95b7b5:
+
+    # p "{i}(And she likes it, great!)"
+    p "{i}(E ela gostou, ótimo!)"
+
+# game/day33.rpy:1327
+translate brazilian day33_v_sex_a92ce422_1:
+
+    # va "Good."
+    va "Ótimo."
+
+# game/day33.rpy:1330
+translate brazilian day33_v_sex_1de39f50:
+
+    # "{i}You continue to fuck your sister while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Você continua a foder sua irmã, enquanto os sons molhados entre suas pernas dizem que Valentina alterna entre sondar a bunda de [r_name] e lamber sua boceta."
+
+# game/day33.rpy:1332
+translate brazilian day33_v_sex_1df3bf98:
+
+    # "{i}You continue to fuck your girlfriend while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Você continua a foder sua namorada, enquanto os sons molhados entre suas pernas dizem que Valentina alterna entre sondar a bunda de [r_name] e lamber sua boceta."
+
+# game/day33.rpy:1333
+translate brazilian day33_v_sex_2d5f1493:
+
+    # va "Mmmmm, you taste so good, [r_name]!"
+    va "Mmmmm, você tem um gosto tão bom, [r_name]!"
+
+# game/day33.rpy:1334
+translate brazilian day33_v_sex_ebfc36d5:
+
+    # va "Are you [p_name]'s little anal slut?"
+    va "Você é a putinha anal do [p_name]?"
+
+# game/day33.rpy:1335
+translate brazilian day33_v_sex_365e911a:
+
+    # r "G-god..."
+    r "D-deus..."
+
+# game/day33.rpy:1336
+translate brazilian day33_v_sex_3db8b2f1:
+
+    # r "D-don't stop!!!"
+    r "N-não para!!!"
+
+# game/day33.rpy:1337
+translate brazilian day33_v_sex_197e5743:
+
+    # r "Y-yes! I'm his anal slut!"
+    r "S-sim! Eu sou a putinha anal dele!"
+
+# game/day33.rpy:1339
+translate brazilian day33_v_sex_ec9a579e:
+
+    # "{i}[r_name] holds you in a tight embrace that feels a little painful in its tightness, but you don't care as the feeling of your dick plunging into her ribbed depths compensates more than enough."
+    "{i}[r_name] segura você em um abraço apertado, que é um pouco doloroso por causa do aperto, mas você não se importa, pois a sensação do seu pau mergulhando nas entranhas dela compensa mais do que o suficiente."
+
+# game/day33.rpy:1340
+translate brazilian day33_v_sex_3ec55a3a:
+
+    # "{i}It's becoming harder and harder to hold off your orgasm, especially since Valentina has turned her attention to licking your balls and parts of your shaft that are exposed when you begin each thrust inside [r_name]'s pussy."
+    "{i}Está se tornando cada vez mais difícil segurar o orgasmo, especialmente porque Valentina voltou sua atenção para lamber suas bolas e partes do seu pau que ficam expostas quando você começa cada enfiada dentro da boceta de [r_name]."
+
+# game/day33.rpy:1347
+translate brazilian day33_v_sex_b57c5774:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Você levanta [r_name] do seu pau e se levanta do sofá, empurrando a cabeça ansiosa de Valentina para o lado."
+
+# game/day33.rpy:1348
+translate brazilian day33_v_sex_e1c2eb60:
+
+    # p "Ladies, can you both make me cum?"
+    p "Senhoritas, vocês podem me fazer gozar juntas?"
+
+# game/day33.rpy:1349
+translate brazilian day33_v_sex_84389455:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Acho que podemos. Não é, [r_name]?"
+
+# game/day33.rpy:1354
+translate brazilian day33_v_sex_4741a1d0:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}As meninas se ajoelham diante de você e seguram seu pau, cada uma se revezando lambendo e chupando."
+
+# game/day33.rpy:1355
+translate brazilian day33_v_sex_0e162753:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm, estou sentindo seu gosto, [r_name]!"
+
+# game/day33.rpy:1356
+translate brazilian day33_v_sex_902b0b61:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] só tem olhos para você, seus grandes olhos verdes querendo que você goze."
+
+# game/day33.rpy:1365
+translate brazilian day33_v_sex_6ea22416:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your sister."
+    "{i}Nesse momento, você se perde completamente, e com força de vontade, consegue agarrar seu pau e direcioná-lo para as bocas abertas de Valentina e de sua irmã."
+
+# game/day33.rpy:1367
+translate brazilian day33_v_sex_8a7b3429:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
+    "{i}Nesse momento, você se perde completamente, e com força de vontade, consegue agarrar seu pau e direcioná-lo para as bocas abertas de Valentina e de sua namorada."
+
+# game/day33.rpy:1368
+translate brazilian day33_v_sex_49da5a30:
+
+    # "{i}Thick strands of semen soon cover their faces, the cum that enters their mouths is swallowed eagerly by both girls."
+    "{i}Fios grossos de sêmen logo cobrem seus rostos, o esperma que entra em suas bocas é engolido avidamente por ambas as meninas."
+
+# game/day33.rpy:1378
+translate brazilian day33_v_sex_b57c5774_1:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Você levanta [r_name] do seu pau e se levanta do sofá, empurrando a cabeça ansiosa de Valentina para o lado."
+
+# game/day33.rpy:1379
+translate brazilian day33_v_sex_e1c2eb60_1:
+
+    # p "Ladies, can you both make me cum?"
+    p "Senhoritas, vocês podem me fazer gozar juntas?"
+
+# game/day33.rpy:1380
+translate brazilian day33_v_sex_84389455_1:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Acho que podemos. Não é, [r_name]?"
+
+# game/day33.rpy:1385
+translate brazilian day33_v_sex_4741a1d0_1:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}As meninas se ajoelham diante de você e seguram seu pau, cada uma se revezando lambendo e chupando."
+
+# game/day33.rpy:1386
+translate brazilian day33_v_sex_0e162753_1:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm, estou sentindo seu gosto, [r_name]!"
+
+# game/day33.rpy:1387
+translate brazilian day33_v_sex_902b0b61_1:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] só tem olhos para você, seus grandes olhos verdes querendo que você goze."
+
+# game/day33.rpy:1396
+translate brazilian day33_v_sex_b2f23c99:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your sister."
+    "{i}Nesse momento você se perde completamente e com força de vontade consegue agarrar seu pau e direcioná-lo para os peitos eretos de Valentina e sua irmã."
+
+# game/day33.rpy:1398
+translate brazilian day33_v_sex_2e61abc1:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
+    "{i}Naquele momento você se perde completamente e com força de vontade consegue agarrar seu pau e direcioná-lo para os peitos eretos de Valentina e de sua namorada."
+
+# game/day33.rpy:1399
+translate brazilian day33_v_sex_2274da4f:
+
+    # "{i}Thick strands of semen soon cover their breasts leaking down their bellies."
+    "{i}Fios grossos de sêmen logo cobrem seus seios, escorrendo pela barriga."
+
+# game/day33.rpy:1413
+translate brazilian day33_v_sex_0be19e5f:
+
+    # "{i}Despite your nearing orgasm and fucking your sister, you want to feel how it is to unload inside Valentina."
+    "{i}Apesar de estar próximo do orgasmo e de foder sua irmã, você quer sentir como é descarregar dentro de Valentina."
+
+# game/day33.rpy:1415
+translate brazilian day33_v_sex_a92aad23:
+
+    # "{i}Despite your nearing orgasm and fucking your girlfriend, you want to feel how it is to unload inside Valentina."
+    "{i}Apesar de estar perto do orgasmo e de foder sua namorada, você quer sentir como é descarregar dentro de Valentina."
+
+# game/day33.rpy:1416
+translate brazilian day33_v_sex_3f709208:
+
+    # p "Come sit on my lap Valentina."
+    p "Vem sentar no meu colo Valentina."
+
+# game/day33.rpy:1422
+translate brazilian day33_v_sex_7152a713:
+
+    # "{i}Valentina switches places with [r_name], and you immediately start pounding the singer hard and fast."
+    "{i}Valentina troca de lugar com [r_name] e você imediatamente começa a enfiar forte e rápido no cantora."
+
+# game/day33.rpy:1423
+translate brazilian day33_v_sex_3a05466d:
+
+    # p "I'm going to cum inside you."
+    p "Eu vou gozar dentro de você."
+
+# game/day33.rpy:1424
+translate brazilian day33_v_sex_0f5e5946:
+
+    # va "S-shoot me up with all that cum of yours?"
+    va "J-jorrar toda essa sua porra dentro de mim?"
+
+# game/day33.rpy:1425
+translate brazilian day33_v_sex_ffe3e255:
+
+    # p "Exactly."
+    p "Exatamente."
+
+# game/day33.rpy:1426
+translate brazilian day33_v_sex_65d92875:
+
+    # va "D-don't stop then!"
+    va "E-então não para!"
+
+# game/day33.rpy:1433
+translate brazilian day33_v_sex_bb53698e:
+
+    # "{i}Her last words usher in a climax that's so powerful you push yourself in the air, lifting Valentina's body and burying your cock balls deep inside her gash."
+    "{i}Suas últimas palavras trazem um clímax que é tão poderoso que você se curva para cima, levantando o corpo de Valentina e enterrando seu pau até as bolas bem no fundo da boceta dela."
+
+# game/day33.rpy:1434
+translate brazilian day33_v_sex_42ed5749:
+
+    # "{i}At that moment, you release a flow of warm semen, holding Valentina very tightly."
+    "{i}Nesse momento, você libera um fluxo de sêmen quente, segurando Valentina com força."
+
+# game/day33.rpy:1437
+translate brazilian day33_v_sex_3e0c2fdb:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Você permanece dentro dela até que as últimas gotas de esperma tenham escapado de sua cabeça latejante, quando você retira os vazamentos de esperma da vagina da garota."
+
+# game/day33.rpy:1449
+translate brazilian day33_v_sex_70622176:
+
+    # "{i}Fucking your sister is more than enough for you, and you just want her to receive your load."
+    "{i}Foder sua irmã é mais do que suficiente, e você só quer que ela receba sua carga."
+
+# game/day33.rpy:1451
+translate brazilian day33_v_sex_e0516e90:
+
+    # "{i}Fucking your girlfriend is more than enough for you, and you just want her to receive your load."
+    "{i}Foder sua namorada é mais do que suficiente, e você só quer que ela receba sua carga."
+
+# game/day33.rpy:1460
+translate brazilian day33_v_sex_80530500:
+
+    # "{i}The thought of coming inside her ushers in a climax that's so powerful you push yourself in the air, lifting [r_name]'s body and burying your cock balls deep inside her gash."
+    "{i}Só de pensar em gozar dentro dela leva a um clímax que é tão poderoso que você curva para cima, levantando o corpo de [r_name] e enterrando seu pau até as bolas bem no fundo da boceta dela."
+
+# game/day33.rpy:1462
+translate brazilian day33_v_sex_537bc169:
+
+    # "{i}At that moment, you release a flow of warm semen, holding your sister very tightly."
+    "{i}Nesse momento, você libera um fluxo de sêmen quente, segurando sua irmã bem forte."
+
+# game/day33.rpy:1464
+translate brazilian day33_v_sex_82eff079:
+
+    # "{i}At that moment, you release a flow of warm semen, holding [r_name] very tightly."
+    "{i}Nesse momento, você libera um fluxo de sêmen quente, segurando [r_name] bem forte."
+
+# game/day33.rpy:1466
+translate brazilian day33_v_sex_3e0c2fdb_1:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Você permanece dentro dela até que as últimas gotas de esperma tenham escapado de sua cabeça latejante, quando você retira os vazamentos de esperma da vagina da garota."
+
+# game/day33.rpy:1481
+translate brazilian day33_v_sex_543fc63b:
+
+    # "{i}Valentina retires on the couch, from where she regards you with a debauched smile."
+    "{i}Valentina se atira no sofá, de onde olha para você com um sorriso debochado."
+
+# game/day33.rpy:1482
+translate brazilian day33_v_sex_3a5eab2d:
+
+    # va "Now, that's what I call unwinding."
+    va "Agora, isso é o que eu chamo de relaxar."
+
+# game/day33.rpy:1483
+translate brazilian day33_v_sex_a810e656:
+
+    # p "Are you satisfied, Miss Glorious?"
+    p "Você está satisfeita, Srta. Glorious?"
+
+# game/day33.rpy:1484
+translate brazilian day33_v_sex_e8ff0f7f:
+
+    # va "Very."
+    va "Muito."
+
+# game/day33.rpy:1485
+translate brazilian day33_v_sex_6c4580be:
+
+    # va "I think this redefines the term 'fan-fuck' completely."
+    va "Acho que isso redefine o termo 'fã fodido' completamente."
+
+# game/day33.rpy:1486
+translate brazilian day33_v_sex_49279719:
+
+    # p "It sure beats getting an autograph."
+    p "É melhor do que conseguir um autógrafo."
+
+# game/day33.rpy:1488
+translate brazilian day33_v_sex_5a9e6999:
+
+    # r "Er, I'd still like one..."
+    r "Ahm, eu ainda gostaria de um..."
+
+# game/day33.rpy:1489
+translate brazilian day33_v_sex_ff4d5505:
+
+    # va "Sure thing."
+    va "Sem problema."
+
+# game/day33.rpy:1490
+translate brazilian day33_v_sex_4a456b62:
+
+    # va "Do you have a pen?"
+    va "Você tem uma caneta?"
+
+# game/day33.rpy:1491
+translate brazilian day33_v_sex_2049d4cc:
+
+    # va "Or I could write it using [p_name]'s sperm if you like."
+    va "Ou eu poderia escrever usando o esperma do [p_name], se quiser."
+
+# game/day33.rpy:1493
+translate brazilian day33_v_sex_b9dfa25d:
+
+    # r "Everything is inside of me..."
+    r "Está tudo dentro de mim..."
+
+# game/day33.rpy:1495
+translate brazilian day33_v_sex_082bd86d:
+
+    # r "He shot everything inside of you..."
+    r "Ele jorrou tudo dentro de você..."
+
+# game/day33.rpy:1497
+translate brazilian day33_v_sex_9ce6d9ee:
+
+    # r "It's all dried up, I'm afraid."
+    r "Infelizmente, já secou tudo."
+
+# game/day33.rpy:1498
+translate brazilian day33_v_sex_9989982b:
+
+    # va "Damn, a pen it is."
+    va "Poxa, vai ser na caneta então."
+
+# game/day33.rpy:1500
+translate brazilian day33_v_sex_72b317e3:
+
+    # "{i}After Valentina signs both your concert tickets, she lies down on the sofa again and closes her eyes."
+    "{i}Depois que Valentina assina os dois ingressos para o show, ela se deita no sofá novamente e fecha os olhos."
+
+# game/day33.rpy:1501
+translate brazilian day33_v_sex_3f9c2288:
+
+    # va "This was really fun, but I'm sure security will come looking for me after a while, so you'd better leave before that."
+    va "Foi muito divertido, mas tenho certeza de que o segurança vem me procurar depois de um tempo, então é melhor vocês saírem antes disso."
+
+# game/day33.rpy:1502
+translate brazilian day33_v_sex_bcf2746d:
+
+    # "{i}You pick up your clothes and dress yourself, while Valentina is still lying on the couch."
+    "{i}Você pega suas roupas e se veste, enquanto Valentina ainda está deitada no sofá."
+
+# game/day33.rpy:1503
+translate brazilian day33_v_sex_fcbf1503:
+
+    # r "Goodbye."
+    r "Adeus."
+
+# game/day33.rpy:1504
+translate brazilian day33_v_sex_c236b676:
+
+    # p "Bye, Valentina."
+    p "Tchau, Valentina."
+
+# game/day33.rpy:1506
+translate brazilian day33_v_sex_e35b554b:
+
+    # va "Take care, lovebirds!"
+    va "Cuidem-se, pombinhos!"
+
+# game/day33.rpy:1507
+translate brazilian day33_v_sex_0b11a4c7:
+
+    # va "If you're ever at a concert of mine, just get naked in one of the dressing rooms, and I'll come find you."
+    va "Se forem a um show meu, fiquem nus em um dos camarins e eu encontro vocês."
+
+# game/day33.rpy:1508
+translate brazilian day33_v_sex_52d289d8:
+
+    # r "Haha, sure!"
+    r "Haha, claro!"
+
+# game/day33.rpy:1509
+translate brazilian day33_v_sex_13d10d30:
+
+    # "{i}You both leave Valentina and sneak out into the deserted hallway."
+    "{i}Vocês dois deixam Valentina e saem de fininho para o corredor deserto."
+
+# game/day33.rpy:1523
+translate brazilian day33_l_licking_aefcedc9:
+
+    # "{i}[l_name] sighs in relief and slips out of her bra and panties."
+    "{i}[l_name] suspira de alívio e tira o sutiã e a calcinha."
+
+# game/day33.rpy:1524
+translate brazilian day33_l_licking_c483f160:
+
+    # l "I'm ready."
+    l "Estou pronta."
+
+# game/day33.rpy:1525
+translate brazilian day33_l_licking_a9db017a:
+
+    # l "Don't hold back."
+    l "Não se contenha."
+
+# game/day33.rpy:1526
+translate brazilian day33_l_licking_cc2617ba:
+
+    # l "I really want this."
+    l "Eu quero muito isso."
+
+# game/day33.rpy:1532
+translate brazilian day33_l_licking_8c2701f1:
+
+    # "{i}That statement alone makes your cock rock-hard, and you attempt to ignore it by turning your attention to [l_name]'s breasts."
+    "{i}Essa afirmação por si só já deixa seu pau duro, e você tenta ignorá-la, voltando sua atenção para os seios de [l_name]."
+
+# game/day33.rpy:1533
+translate brazilian day33_l_licking_e223cfdd:
+
+    # l "Oh! I like it so much when you do that."
+    l "Ah! Eu gosto muito quando você faz isso."
+
+# game/day33.rpy:1536
+translate brazilian day33_l_licking_21fea5ba:
+
+    # "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
+    "{i}Seus mamilos logo ficam cobertos com uma abundância de sua saliva enquanto você os lambe e chupa."
+
+# game/day33.rpy:1537
+translate brazilian day33_l_licking_013191b8:
+
+    # "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
+    "{i}[l_name] se toca e geme um pouco mais forte a cada carícia de sua boca."
+
+# game/day33.rpy:1539
+translate brazilian day33_l_licking_6858d52b:
+
+    # "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
+    "{i}À medida que [l_name] assume a massagem dos seios, você desce em direção a boceta dela, ficando na área sensível do umbigo."
+
+# game/day33.rpy:1540
+translate brazilian day33_l_licking_d185372a:
+
+    # l "Are y-you... are you going to use your tongue?"
+    l "V-você... você vai usar sua língua?"
+
+# game/day33.rpy:1541
+translate brazilian day33_l_licking_115982f8:
+
+    # p "Maybe..."
+    p "Talvez..."
+
+# game/day33.rpy:1542
+translate brazilian day33_l_licking_cba9ca70:
+
+    # p "Just wait and see..."
+    p "Espere e veja..."
+
+# game/day33.rpy:1543
+translate brazilian day33_l_licking_77e00a8f:
+
+    # l "I'm really wet down there already."
+    l "Eu já estou muito molhada lá embaixo."
+
+# game/day33.rpy:1544
+translate brazilian day33_l_licking_980d3dc7:
+
+    # p "So? The wetter, the better."
+    p "E? Quanto mais úmido, melhor."
+
+# game/day33.rpy:1546
+translate brazilian day33_l_licking_6c88ddfd:
+
+    # "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
+    "{i}Você separa as pernas e testa a afirmação dela, pressionando a ponta da língua contra seus lábios, o que envia um arrepio pelo corpo de [l_name]."
+
+# game/day33.rpy:1548
+translate brazilian day33_l_licking_c0c4b7da:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
+    "{i}A sensação úmida de sal e perfume reforça sua decisão de dar a sua irmã o melhor orgasmo de sua vida."
+
+# game/day33.rpy:1550
+translate brazilian day33_l_licking_60a4a4db:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
+    "{i}A sensação úmida de sal e perfume reforça sua decisão de dar a sua amiga o melhor orgasmo de sua vida."
+
+# game/day33.rpy:1551
+translate brazilian day33_l_licking_1de5cddf:
+
+    # l "Oh! That w-wasn't in those videos!"
+    l "Ah! Isso n-não estava naqueles vídeos!"
+
+# game/day33.rpy:1552
+translate brazilian day33_l_licking_cd6c7564:
+
+    # p "{i}(So she has watched porn, little liar!)"
+    p "{i}(Então ela assistiu pornografia, garotinha mentirosa!)"
+
+# game/day33.rpy:1553
+translate brazilian day33_l_licking_0fa76638:
+
+    # l "B-but don't stop!"
+    l "M-mas não para!"
+
+# game/day33.rpy:1555
+translate brazilian day33_l_licking_ee27b8e5:
+
+    # "{i}[l_name] tousles your hair as you begin to lick her pussy."
+    "{i}[l_name] bagunça seu cabelo quando você começa a lamber a boceta dela."
+
+# game/day33.rpy:1556
+translate brazilian day33_l_licking_adb09cbf:
+
+    # "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
+    "{i}Você está menos delicado do que antes, forte até, lambendo e chupando seus lábios e levando-a ainda mais ao limite."
+
+# game/day33.rpy:1560
+translate brazilian day33_l_licking_3563fed8:
+
+    # "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
+    "{i}Por sua respiração pesada, você deduz que ela está perto do orgasmo, então você para."
+
+# game/day33.rpy:1562
+translate brazilian day33_l_licking_3ed9fc10:
+
+    # l "Wuh, why did you stop?"
+    l "Ahm, por que você parou?"
+
+# game/day33.rpy:1563
+translate brazilian day33_l_licking_b52a6030:
+
+    # p "Sssh, I know what I'm doing."
+    p "Sssh, eu sei o que estou fazendo."
+
+# game/day33.rpy:1565
+translate brazilian day33_l_licking_7fadb4f3:
+
+    # "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
+    "{i}Abafando qualquer protesto com um beijo apaixonado, [l_name] cede e se deixa ser tratada por você."
+
+# game/day33.rpy:1566
+translate brazilian day33_l_licking_a2883af2:
+
+    # "{i}When her body has entered a more relaxed state, you go down on her again."
+    "{i}Quando o corpo dela entra em um estado mais relaxado, você volta a lambê-la."
+
+# game/day33.rpy:1572
+translate brazilian day33_l_licking_bdd0fd5f:
+
+    # l "Aaah! T-that s-so intense!"
+    l "Aaai! I-isso t-tão intenso!"
+
+# game/day33.rpy:1573
+translate brazilian day33_l_licking_fbd664ee:
+
+    # "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
+    "{i}Com alguns movimentos bem posicionados de sua língua, você a deixa pronta em instantes, sua vagina cremosa com seus sucos."
+
+# game/day33.rpy:1574
+translate brazilian day33_l_licking_c4a2c2f2:
+
+    # "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
+    "{i}Bem no limite, você se livra das mãos dela, com as quais ela tenta empurrá-lo para mais perto e para novamente de lambê-la."
+
+# game/day33.rpy:1575
+translate brazilian day33_l_licking_da5ade18:
+
+    # l "No!"
+    l "Não!"
+
+# game/day33.rpy:1580
+translate brazilian day33_l_licking_67984514:
+
+    # "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
+    "{i}Depois de acabar com a agonia dela com beijos, você toca sua boceta úmida com os dedos e desliza um dentro."
+
+# game/day33.rpy:1581
+translate brazilian day33_l_licking_06b222aa:
+
+    # "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
+    "{i}Enquanto ela suspira para se ajustar à penetração repentina, você desliza outro dedo dentro dela."
+
+# game/day33.rpy:1583
+translate brazilian day33_l_licking_2d489eb2:
+
+    # "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
+    "{i}Permitindo que ela se familiarize com a sensação, você olha profundamente em seus olhos."
+
+# game/day33.rpy:1584
+translate brazilian day33_l_licking_7bd07015:
+
+    # "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
+    "{i}Quando você vê a aceitação no rosto dela, você dobra seus dedos dentro dela e começa a penetrá-la com enfiadas curtas."
+
+# game/day33.rpy:1587
+translate brazilian day33_l_licking_22dc2071:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen, you know you've struck gold."
+    "{i}Leva um momento para você encontrar o lugar certo, mas quando você vê os olhos de sua irmã se arregalando, você sabe que encontrou o lugar certo."
+
+# game/day33.rpy:1589
+translate brazilian day33_l_licking_71f6c75f:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen, you know you've struck gold."
+    "{i}Leva um momento para você encontrar o lugar certo, mas quando você vê os olhos de sua amiga se arregalando, você sabe que encontrou o lugar certo."
+
+# game/day33.rpy:1590
+translate brazilian day33_l_licking_978434aa:
+
+    # "{i}[l_name] begins to shudder uncontrollably, and at one point even attempts to remove your hand momentarily before pressing your fingers even deeper inside her."
+    "{i}[l_name] começa a tremer incontrolavelmente, e a certo ponto até tenta momentaneamente remover sua mão, antes de pressionar seus dedos ainda mais fundo dentro dela."
+
+# game/day33.rpy:1591
+translate brazilian day33_l_licking_9f7293f5:
+
+    # "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
+    "{i}Quando todos os músculos do corpo da garota começam a se contrair, chega o momento da verdade."
+
+# game/day33.rpy:1592
+translate brazilian day33_l_licking_ec807b08:
+
+    # l "I-it... a-aaah..."
+    l "I-isso... a-aaai..."
+
+# game/day33.rpy:1594
+translate brazilian day33_l_licking_c7b2c2f9:
+
+    # "{i}White cream is slathered all over her pussy and thighs, and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
+    "{i}Creme se espalha por toda a boceta e coxas dela, e seus dedos fazem aqueles sons molhados característicos que você sempre associa com uma avalanche de esguicho que se aproxima."
+
+# game/day33.rpy:1595
+translate brazilian day33_l_licking_500b03cb:
+
+    # l "I-have to... p-pee..."
+    l "E-eu tenho que fazer... x-xixi..."
+
+# game/day33.rpy:1606
+translate brazilian day33_l_licking_9546d3ca:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
+    "{i}As convulsões da vagina forçam seus dedos para fora e são posteriormente borrifadas com a ejaculação de sua irmã."
+
+# game/day33.rpy:1608
+translate brazilian day33_l_licking_9cb122f0:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
+    "{i}As convulsões da vagina forçam seus dedos para fora e são posteriormente borrifadas com a ejaculação de sua menina."
+
+# game/day33.rpy:1609
+translate brazilian day33_l_licking_434e914b:
+
+    # "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
+    "{i}[l_name], normalmente tão tímida, ruge de prazer enquanto treme e estremece, ainda liberando fluido em seus lençóis."
+
+# game/day33.rpy:1615
+translate brazilian day33_l_licking_5ebbfd58:
+
+    # "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Sua irmã continua a segurá-lo com força, dando suspiros de alívio e tremendo involuntariamente em intervalos irregulares."
+
+# game/day33.rpy:1617
+translate brazilian day33_l_licking_d9822a5e:
+
+    # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Sua amiga continua a segurá-lo com força, dando suspiros de alívio e tremendo involuntariamente em intervalos irregulares."
+
+# game/day33.rpy:1618
+translate brazilian day33_l_licking_619ac3f5:
+
+    # p "I think that's proof enough."
+    p "Acho que isso é prova suficiente."
+
+# game/day33.rpy:1623
+translate brazilian day33_l_licking_4caf62cc:
+
+    # l "Wow."
+    l "Nossa."
+
+# game/day33.rpy:1624
+translate brazilian day33_l_licking_a4bf1c05:
+
+    # l "I can still feel it."
+    l "Eu ainda posso sentir isso."
+
+# game/day33.rpy:1625
+translate brazilian day33_l_licking_5c82d382:
+
+    # l "I've never felt something so intense in my life."
+    l "Nunca senti algo tão intenso em minha vida."
+
+# game/day33.rpy:1626
+translate brazilian day33_l_licking_d38a1c27:
+
+    # l "It was scary and wonderful at the same time."
+    l "Foi assustador e maravilhoso ao mesmo tempo."
+
+# game/day33.rpy:1627
+translate brazilian day33_l_licking_16603430:
+
+    # p "You were beautiful."
+    p "Você estava linda."
+
+# game/day33.rpy:1628
+translate brazilian day33_l_licking_ef606a57:
+
+    # l "You made me lose control and I just didn't care."
+    l "Você me fez perder o controle e eu simplesmente não me importei."
+
+# game/day33.rpy:1629
+translate brazilian day33_l_licking_1eb9828c:
+
+    # l "I wanted you to go on... forever..."
+    l "Eu queria que você continuasse... para sempre..."
+
+# game/day33.rpy:1630
+translate brazilian day33_l_licking_7ddd1c86:
+
+    # l "And then it came... I thought I..."
+    l "E então veio... Eu achei que eu..."
+
+# game/day33.rpy:1632
+translate brazilian day33_l_licking_4caf62cc_1:
+
+    # l "Wow."
+    l "Nossa."
+
+# game/day33.rpy:1633
+translate brazilian day33_l_licking_cf3e8835:
+
+    # p "I'm proud of you."
+    p "Estou orgulhoso de você."
+
+# game/day33.rpy:1634
+translate brazilian day33_l_licking_8179b31a:
+
+    # l "I love you."
+    l "Eu te amo."
+
+# game/day33.rpy:1635
+translate brazilian day33_l_licking_3c07dcc8:
+
+    # p "I love you too, [l_name], ever more each day."
+    p "Eu também te amo, [l_name], cada vez mais a cada dia."
+

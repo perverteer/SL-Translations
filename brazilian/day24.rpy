@@ -3419,3 +3419,1319 @@ translate brazilian day24_choices_7b07ad78_1:
     # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
     "{i}A sensação de que você está prestes a explodir está ficando cada vez mais forte, e [b_name] intensifica a chupada, incentivando você a gozar."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day24.rpy:602
+translate brazilian day24_b_cinema_blowjob_a9cef6c6:
+
+    # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
+    "{i}[b_name] de repente se senta e fica de frente para você, seus lábios tocam os seus e você está beijando na sombra do cinema."
+
+# game/day24.rpy:603
+translate brazilian day24_b_cinema_blowjob_ef068625:
+
+    # b "You make me so happy!"
+    b "Você me faz tão feliz!"
+
+# game/day24.rpy:604
+translate brazilian day24_b_cinema_blowjob_e0579f1c:
+
+    # p "And you're the best thing that's happened to me!"
+    p "E você é a melhor coisa que já aconteceu comigo!"
+
+# game/day24.rpy:606
+translate brazilian day24_b_cinema_blowjob_038eeb83:
+
+    # "{i}A sudden outburst in the movie makes you mindful of your surroundings again, and you continue watching the film."
+    "{i}Um barulho repentino no filme faz você ficar atento ao seu redor novamente e você continua assistindo ao filme."
+
+# game/day24.rpy:607
+translate brazilian day24_b_cinema_blowjob_7b3f982b:
+
+    # "{i}As you glance at [b_name], you see a smile cross her face."
+    "{i}Ao olhar para [b_name], você vê um sorriso cruzar seu rosto."
+
+# game/day24.rpy:608
+translate brazilian day24_b_cinema_blowjob_505e98ae:
+
+    # b "Why don't we have a little fun while we're here?"
+    b "Por que não nos divertimos um pouco enquanto estamos aqui?"
+
+# game/day24.rpy:609
+translate brazilian day24_b_cinema_blowjob_d4ca92e2:
+
+    # p "You mean?"
+    p "Você quer dizer?"
+
+# game/day24.rpy:610
+translate brazilian day24_b_cinema_blowjob_4b2343ad:
+
+    # b "Yes. Don't worry, I'll do the work..."
+    b "Sim. Não se preocupa, eu cuido de tudo ..."
+
+# game/day24.rpy:613
+translate brazilian day24_b_cinema_blowjob_d7fabfaa:
+
+    # "{i}Teasingly slow, your sister unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Provocadoramente devagar, sua irmã abre o zíper de sua calça e libera sua ereção, que está crescendo em antecipação."
+
+# game/day24.rpy:615
+translate brazilian day24_b_cinema_blowjob_87307cb2:
+
+    # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Provocadoramente devagar, [b_name] abre o zíper de sua calça e libera sua ereção, que está crescendo em antecipação."
+
+# game/day24.rpy:616
+translate brazilian day24_b_cinema_blowjob_b8fa0169:
+
+    # b "You don't need much encouragement, do you?"
+    b "Você não precisa de muito incentivo, não é?"
+
+# game/day24.rpy:617
+translate brazilian day24_b_cinema_blowjob_8c65b140:
+
+    # p "I'm terrible at self-control..."
+    p "Sou péssimo com autocontrole ..."
+
+# game/day24.rpy:619
+translate brazilian day24_b_cinema_blowjob_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] envolve os dedos quentes em torno do seu pau, seu toque provoca arrepios na coluna."
+
+# game/day24.rpy:620
+translate brazilian day24_b_cinema_blowjob_5ac5bdd8:
+
+    # b "What am I going to do with you?"
+    b "O que vou fazer com você?"
+
+# game/day24.rpy:625
+translate brazilian day24_b_cinema_blowjob_28621535:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees and looks up at you with her big blue eyes, her soft lips touching your tip."
+    "{i}A princípio, você acha que ela vai te masturbar, mas a garota se ajoelha e olha para você com seus grandes olhos azuis, seus lábios macios tocando sua ponta."
+
+# game/day24.rpy:626
+translate brazilian day24_b_cinema_blowjob_588bfeb2:
+
+    # b "Does your dick like kisses as well?"
+    b "Seu pau também gosta de beijos?"
+
+# game/day24.rpy:627
+translate brazilian day24_b_cinema_blowjob_cc4c23cb:
+
+    # p "Y-y-yes."
+    p "S-s-sim."
+
+# game/day24.rpy:628
+translate brazilian day24_b_cinema_blowjob_5622981a:
+
+    # b "Good."
+    b "Ótimo."
+
+# game/day24.rpy:630
+translate brazilian day24_b_cinema_blowjob_2e7c6246:
+
+    # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Com essas palavras, [b_name] beija de leve a ponta do seu pau. A sensação de umidade quase faz você gozar na hora."
+
+# game/day24.rpy:631
+translate brazilian day24_b_cinema_blowjob_9073349b:
+
+    # b "Not so fast mister. Or did you just twitch?"
+    b "Não tão rápido, mocinho. Ou você acabou de se tremer?"
+
+# game/day24.rpy:632
+translate brazilian day24_b_cinema_blowjob_6b3673f0:
+
+    # p "You're amazing, [b_name]."
+    p "Você é incrível, [b_name]."
+
+# game/day24.rpy:635
+translate brazilian day24_b_cinema_blowjob_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Delicadamente, sua irmã lambe os fluidos que cobrem a cabeça de seu pênis."
+
+# game/day24.rpy:637
+translate brazilian day24_b_cinema_blowjob_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Delicadamente, [b_name] lambe os fluidos que cobrem a cabeça do seu pau."
+
+# game/day24.rpy:638
+translate brazilian day24_b_cinema_blowjob_615f67a0:
+
+    # b "Mmmm, a taste of what's to come."
+    b "Mmmm, uma amostra do que está por vir."
+
+# game/day24.rpy:640
+translate brazilian day24_b_cinema_blowjob_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] continua explorando a cabeça com a língua, envolvendo cada vez mais o seu pau com a boca enquanto o cobre com sua saliva quente."
+
+# game/day24.rpy:642
+translate brazilian day24_b_cinema_blowjob_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Quando ela finalmente enfia seu membro completamente na boca e começa a chupar, é como se todas as suas terminações nervosas explodissem de prazer."
+
+# game/day24.rpy:643
+translate brazilian day24_b_cinema_blowjob_afa9afa1:
+
+    # p "G-g-god... [b_name]!!!"
+    p "D-d-deus... [b_name]!!!"
+
+# game/day24.rpy:644
+translate brazilian day24_b_cinema_blowjob_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Durante os momentos mais calmos do filme, o silêncio é preenchido com os sons molhados de [b_name] no seu pau no fundo do cinema."
+
+# game/day24.rpy:647
+translate brazilian day24_b_cinema_blowjob_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Sua irmã para de estimular seu pau com a mão e massageia suas bolas, deixando que sua boca faça todo o trabalho duro."
+
+# game/day24.rpy:649
+translate brazilian day24_b_cinema_blowjob_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] para de estimular seu pau com a mão e massageia suas bolas, deixando sua boca fazer todo o trabalho duro."
+
+# game/day24.rpy:650
+translate brazilian day24_b_cinema_blowjob_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}A sensação de que você está prestes a explodir está ficando cada vez mais forte e [b_name] intensifica a chupada, incentivando você a gozar."
+
+# game/day24.rpy:654
+translate brazilian day24_b_cinema_blowjob_5b70a97e:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "B-b-ooom sim, [b_name], Estou gozando, estou gozando..."
+
+# game/day24.rpy:661
+translate brazilian day24_b_cinema_blowjob_d4edc6ed:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Chupando, lambendo e acariciando você com a boca até o último momento antes de você explodir, [b_name] tira seu pau da boca e aponta para o rosto dela. Jatos grossos de esperma cobrem suas bochechas e testa."
+
+# game/day24.rpy:669
+translate brazilian day24_b_cinema_blowjob_5b70a97e_1:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "B-b-ooom sim, [b_name], Estou gozando, estou gozando..."
+
+# game/day24.rpy:676
+translate brazilian day24_b_cinema_blowjob_a7f54eac:
+
+    # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
+    "{i}Jatos grossos de esperma enchem sua boca. Ela continua estimulando sua glande e seu pau até que as últimas gotas de sêmen entrem, aí ela engole."
+
+# game/day24.rpy:686
+translate brazilian day24_b_cinema_blowjob_0f40afbb:
+
+    # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
+    "{i}Satisfeita, [b_name] descansa a cabeça no seu colo e você assiste ao resto do filme em silêncio antes de voltar para casa."
+
+# game/day24.rpy:696
+translate brazilian day24_b_cinema_blowjob_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "[b_name] é um substituto completo nesta cena?"
+
+# game/day24.rpy:700
+translate brazilian day24_b_cinema_blowjob_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente submisso"
+
+# game/day24.rpy:703
+translate brazilian day24_b_cinema_blowjob_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] não totalmente submisso"
+
+# game/day24.rpy:709
+translate brazilian day24_b_cinema_blowjob_hard_c2469b9d:
+
+    # "{i}You unzip your pants and wait for your sister to notice your growing erection."
+    "{i}Você abre o zíper das calças e espera que sua irmã perceba sua ereção crescente."
+
+# game/day24.rpy:711
+translate brazilian day24_b_cinema_blowjob_hard_ef266da0:
+
+    # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
+    "{i}Você abre o zíper da calça e espera que [b_name] perceba sua ereção crescente."
+
+# game/day24.rpy:714
+translate brazilian day24_b_cinema_blowjob_hard_009d6b3a:
+
+    # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
+    "{i}Quando ela finalmente percebe, sua reação não é de terror ou choque, em vez disso, ela hesitantemente coloca a mão em sua coxa."
+
+# game/day24.rpy:715
+translate brazilian day24_b_cinema_blowjob_hard_2a01b12d:
+
+    # "{i}Slowly but surely her hand moves towards your erection."
+    "{i}Lentamente, a mão dela vai na direção de sua ereção."
+
+# game/day24.rpy:717
+translate brazilian day24_b_cinema_blowjob_hard_eea3a172:
+
+    # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
+    "{i}Quando ela finalmente percebe, você segura uma das mãos dela e a coloca na coxa."
+
+# game/day24.rpy:718
+translate brazilian day24_b_cinema_blowjob_hard_139feee7:
+
+    # b "You want me to?"
+    b "Você quer?"
+
+# game/day24.rpy:719
+translate brazilian day24_b_cinema_blowjob_hard_ecd502cb:
+
+    # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
+    p "Faça o que quiser, mas ainda estou muito tenso depois da façanha que fizemos com Dwayne."
+
+# game/day24.rpy:721
+translate brazilian day24_b_cinema_blowjob_hard_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] envolve os dedos quentes em torno do seu pau, seu toque provoca arrepios na coluna."
+
+# game/day24.rpy:722
+translate brazilian day24_b_cinema_blowjob_hard_17e757d2:
+
+    # p "Mmmm, yes [b_name], take care of me."
+    p "Mmmm, sim [b_name], cuida de mim."
+
+# game/day24.rpy:724
+translate brazilian day24_b_cinema_blowjob_hard_7b6910bb:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your tip."
+    "{i}A princípio, você acha que ela vai te masturbar, mas a garota se ajoelha por vontade própria, seus lábios macios indo direto para a sua ponta."
+
+# game/day24.rpy:726
+translate brazilian day24_b_cinema_blowjob_hard_e85153db:
+
+    # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Sem dizer uma palavra, [b_name] beija de leve a ponta do seu pau. A sensação de umidade quase faz você gozar na hora."
+
+# game/day24.rpy:727
+translate brazilian day24_b_cinema_blowjob_hard_10e78841:
+
+    # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over the head of your cock."
+    "{i}Por pura força de vontade, você consegue adiar o orgasmo, embora os fluidos já tenham saído, escorrendo da cabeça de seu pau."
+
+# game/day24.rpy:733
+translate brazilian day24_b_cinema_blowjob_hard_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Delicadamente, sua irmã lambe os fluidos que cobrem a cabeça de seu pênis."
+
+# game/day24.rpy:735
+translate brazilian day24_b_cinema_blowjob_hard_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Delicadamente, [b_name] lambe os fluidos que cobrem a cabeça do seu pau."
+
+# game/day24.rpy:736
+translate brazilian day24_b_cinema_blowjob_hard_85eef047:
+
+    # p "A little taste of what's to come."
+    p "Um gostinho do que está por vir."
+
+# game/day24.rpy:737
+translate brazilian day24_b_cinema_blowjob_hard_16c6f644:
+
+    # p "Keep going, sweetling."
+    p "Continua, docinho."
+
+# game/day24.rpy:739
+translate brazilian day24_b_cinema_blowjob_hard_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] continua explorando a cabeça com a língua, envolvendo cada vez mais o seu pau com a boca enquanto o cobre com sua saliva quente."
+
+# game/day24.rpy:741
+translate brazilian day24_b_cinema_blowjob_hard_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Quando ela finalmente enfia seu membro completamente na boca e começa a chupar, é como se todas as suas terminações nervosas explodissem de prazer."
+
+# game/day24.rpy:742
+translate brazilian day24_b_cinema_blowjob_hard_4eb69aa0:
+
+    # p "G-g-god... [b_name], right there!"
+    p "D-d-deus... [b_name], aí mesmo!"
+
+# game/day24.rpy:743
+translate brazilian day24_b_cinema_blowjob_hard_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Durante os momentos mais calmos do filme, o silêncio é preenchido com os sons molhados de [b_name] no seu pau no fundo do cinema."
+
+# game/day24.rpy:746
+translate brazilian day24_b_cinema_blowjob_hard_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Sua irmã para de estimular seu pau com a mão e massageia suas bolas, deixando que sua boca faça todo o trabalho duro."
+
+# game/day24.rpy:748
+translate brazilian day24_b_cinema_blowjob_hard_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] para de estimular seu pau com a mão e massageia suas bolas, deixando sua boca fazer todo o trabalho duro."
+
+# game/day24.rpy:749
+translate brazilian day24_b_cinema_blowjob_hard_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}A sensação de que você está prestes a explodir está ficando cada vez mais forte e [b_name] intensifica a chupada, incentivando você a gozar."
+
+# game/day24.rpy:753
+translate brazilian day24_b_cinema_blowjob_hard_15724afa:
+
+    # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
+    p "Estou gozando, [b_name], estou gozando... Me mostra esse seu rostinho lindo."
+
+# game/day24.rpy:760
+translate brazilian day24_b_cinema_blowjob_hard_c81a3959:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Chupando, lambendo e acariciando você com a boca até o último momento, [b_name] tira seu pau da boca e o aponta obedientemente para o rosto dela. Jatos grossos de esperma cobrem suas bochechas e testa."
+
+# game/day24.rpy:768
+translate brazilian day24_b_cinema_blowjob_hard_367fcf46:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
+    p "Iiisssoo, [b_name], vou gozar, vou gozar... Continua!"
+
+# game/day24.rpy:775
+translate brazilian day24_b_cinema_blowjob_hard_1cda4a77:
+
+    # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your tip and shaft until the last drops of semen have entered, then she swallows."
+    "{i}Jatos grossos de sêmen enchem sua boca e ela obedientemente continua estimulando seu pau até que as últimas gotas de sêmen entrem, aí ela engole."
+
+# game/day24.rpy:785
+translate brazilian day24_b_cinema_blowjob_hard_a53e7326:
+
+    # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
+    "{i}[b_name] se senta ao seu lado novamente e vocês assistem o restante do filme em silêncio. Ela não se opõe quando você coloca seu braço em no ombro e ao olhar de relance para o lado, você pensa que vê um sorriso vago no rosto dela."
+
+# game/day24.rpy:799
+translate brazilian day24_l_masturbation_96021e66:
+
+    # l "{i}(Hmmmm, I can't sleep.)"
+    l "{i}(Hmmmm, não consigo dormir.)"
+
+# game/day24.rpy:800
+translate brazilian day24_l_masturbation_8d02f8ee:
+
+    # l "{i}(I don't know what came over me today after the dance class.)"
+    l "{i}(Não sei o que deu em mim hoje, depois da aula de dança.)"
+
+# game/day24.rpy:801
+translate brazilian day24_l_masturbation_7c5b21b2:
+
+    # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
+    l "{i}(A dança foi incrível, a maneira como nos movemos pela sala. A maneira como ele me conduziu.)"
+
+# game/day24.rpy:803
+translate brazilian day24_l_masturbation_d6f704e1:
+
+    # l "{i}(But those... those urges... I've never felt anything so strong.)"
+    l "{i}(Mas esses... esses impulsos... nunca senti nada tão forte.)"
+
+# game/day24.rpy:804
+translate brazilian day24_l_masturbation_3cbc1725:
+
+    # l "{i}(Maybe I'm just horny?)"
+    l "{i}(Talvez eu só esteja com tesão?)"
+
+# game/day24.rpy:805
+translate brazilian day24_l_masturbation_02645f0d:
+
+    # l "{i}(I was never horny... But that was before...)"
+    l "{i}(Eu nunca tive tesão... Mas isso foi antes...)"
+
+# game/day24.rpy:806
+translate brazilian day24_l_masturbation_cddb261a:
+
+    # l "{i}(I'm just going to touch myself, just a little bit.)"
+    l "{i}(Vou apenas me tocar, só um pouquinho.)"
+
+# game/day24.rpy:808
+translate brazilian day24_l_masturbation_117ee799:
+
+    # l "{i}(Mmmmm. That feels good.)"
+    l "{i}(Mmmmm. Isso é tão bom.)"
+
+# game/day24.rpy:809
+translate brazilian day24_l_masturbation_f7f616cf:
+
+    # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
+    l "{i}(E se alguém entrar na sala e me ver deitada aqui, exposta?)"
+
+# game/day24.rpy:815
+translate brazilian day24_l_masturbation_f74bcfb0:
+
+    # l "Aaah!"
+    l "Aaah!"
+
+# game/day24.rpy:816
+translate brazilian day24_l_masturbation_9b376897:
+
+    # l "{i}(I'm so wet, how can I be so wet?)"
+    l "{i}(Estou tão molhada, como posso estar tão molhada?)"
+
+# game/day24.rpy:817
+translate brazilian day24_l_masturbation_2ed3fe55:
+
+    # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
+    l "{i}(Eu só estava pensando no [p_name]. Seus braços fortes, seu corpo perto do meu...)"
+
+# game/day24.rpy:819
+translate brazilian day24_l_masturbation_e00b402f:
+
+    # l "{i}(I should slip a finger in, that feels so nice.)"
+    l "{i}(Eu deveria enfiar um dedo, é tão bom.)"
+
+# game/day24.rpy:820
+translate brazilian day24_l_masturbation_5c161461:
+
+    # l "{i}(And I could pretend it was his...)"
+    l "{i}(E eu poderia fingir que era o dele...)"
+
+# game/day24.rpy:821
+translate brazilian day24_l_masturbation_a66c0813:
+
+    # l "{i}(Damnit. I shouldn't think like that.)"
+    l "{i}(Droga. Eu não deveria pensar assim.)"
+
+# game/day24.rpy:822
+translate brazilian day24_l_masturbation_3124a776:
+
+    # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
+    l "{i}(Mas é tão bom! Como seria se ele...)"
+
+# game/day24.rpy:827
+translate brazilian day24_l_masturbation_ae8b0feb:
+
+    # l "{i}(No!)"
+    l "{i}(Não!)"
+
+# game/day24.rpy:828
+translate brazilian day24_l_masturbation_37bc17c2:
+
+    # l "{i}(I could use that thing... No harm in trying...)"
+    l "{i}(Eu poderia usar aquela coisa... Não custa nada tentar...)"
+
+# game/day24.rpy:830
+translate brazilian day24_l_masturbation_75351201:
+
+    # l "{i}(Now, where did I leave it?)"
+    l "{i}(Agora, onde eu o deixei?)"
+
+# game/day24.rpy:831
+translate brazilian day24_l_masturbation_cbf43995:
+
+    # l "{i}(I tucked it away somewhere under my bras.)"
+    l "{i}(Eu o coloquei em algum lugar embaixo dos meus sutiãs.)"
+
+# game/day24.rpy:833
+translate brazilian day24_l_masturbation_0474ea86:
+
+    # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
+    l "{i}(Poxa, essa coisa é tão obscena. Todas aquelas protuberâncias e veias... aposto que é frio por dentro.)"
+
+# game/day24.rpy:835
+translate brazilian day24_l_masturbation_5927cf3e:
+
+    # l "{i}(Surely, only cheap porn stars use this...)"
+    l "{i}(Certamente, apenas estrelas pornôs baratas usam isso...)"
+
+# game/day24.rpy:836
+translate brazilian day24_l_masturbation_4211705b:
+
+    # l "{i}(Let's turn it on...)"
+    l "{i}(Vamos ligar...)"
+
+# game/day24.rpy:841
+translate brazilian day24_l_masturbation_28e7e8c3:
+
+    # l "{i}(Oh god, that's far too intense! This thing buzzes like an angry bee.)"
+    l "{i}(Meu Deus, isso é muito intenso! Essa coisa vibra como uma abelha zangada.)"
+
+# game/day24.rpy:842
+translate brazilian day24_l_masturbation_ad217b4b:
+
+    # l "{i}(No way I'm going to put that inside of me...)"
+    l "{i}(De jeito nenhum vou colocar isso dentro de mim...)"
+
+# game/day24.rpy:843
+translate brazilian day24_l_masturbation_a27cdeef:
+
+    # l "{i}(Let's see how it feels against my lips.)"
+    l "{i}(Vamos ver como é contra meus lábios.)"
+
+# game/day24.rpy:849
+translate brazilian day24_l_masturbation_819d64c5:
+
+    # l "Ooh god!"
+    l "Ooh deus!"
+
+# game/day24.rpy:850
+translate brazilian day24_l_masturbation_e139ff9f:
+
+    # l "{i}(Shit! Did I do that out loud?)"
+    l "{i}(Merda! Fiz isso em voz alta?)"
+
+# game/day24.rpy:851
+translate brazilian day24_l_masturbation_541edf9a:
+
+    # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
+    l "{i}(É tão macio e as vibrações não são muito fortes. Talvez eu deva pressioná-lo com mais força contra minha boceta.)"
+
+# game/day24.rpy:853
+translate brazilian day24_l_masturbation_daa4514e:
+
+    # l "Ooh god yes!!!"
+    l "Aih deus, isso!!!"
+
+# game/day24.rpy:854
+translate brazilian day24_l_masturbation_8546bc73:
+
+    # l "{i}(I want it in me!)"
+    l "{i}(Eu quero isso em mim!)"
+
+# game/day24.rpy:858
+translate brazilian day24_l_masturbation_bbe2a246:
+
+    # p "{i}(Better knock first, maybe she's already asleep.)"
+    p "{i}(Melhor bater primeiro, talvez ela já esteja dormindo.)"
+
+# game/day24.rpy:864
+translate brazilian day24_l_masturbation_dda64edc:
+
+    # l "{i}(No! No! Not now!!!)"
+    l "{i}(Não! Não! Agora não!!!)"
+
+# game/day24.rpy:865
+translate brazilian day24_l_masturbation_b2267e91:
+
+    # l "Whoever it is, please go away!"
+    l "Seja quem for, vá embora!"
+
+# game/day24.rpy:866
+translate brazilian day24_l_masturbation_ee5d2a57:
+
+    # l "{i}(Please don't come in, not like this! Please!)"
+    l "{i}(Por favor, não entra, não assim! Por favor!)"
+
+# game/day24.rpy:867
+translate brazilian day24_l_masturbation_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:868
+translate brazilian day24_l_masturbation_82822a0c_1:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:869
+translate brazilian day24_l_masturbation_daaddcaa:
+
+    # l "{i}(I think it's safe again.)"
+    l "{i}(Eu acho que está seguro de novo.)"
+
+# game/day24.rpy:871
+translate brazilian day24_l_masturbation_62a851fe:
+
+    # l "{i}(But now the mood is completely ruined.)"
+    l "{i}(Mas agora o clima está completamente arruinado.)"
+
+# game/day24.rpy:872
+translate brazilian day24_l_masturbation_e8f4bcb5:
+
+    # l "{i}(Stupid thing.)"
+    l "{i}(Coisa estúpida.)"
+
+# game/day24.rpy:873
+translate brazilian day24_l_masturbation_83d4f7fb:
+
+    # l "{i}(I hate you.)"
+    l "{i}(Te odeio.)"
+
+# game/day24.rpy:874
+translate brazilian day24_l_masturbation_f1bc8cc9:
+
+    # l "{i}(Why am I talking to a vibrator?)"
+    l "{i}(Por que estou falando com um vibrador?)"
+
+# game/day24.rpy:875
+translate brazilian day24_l_masturbation_288197ec:
+
+    # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
+    l "{i}(É melhor eu descansar um pouco e enterrar aquela coisa imunda em uma pilha de roupas novamente amanhã.)"
+
+# game/day24.rpy:877
+translate brazilian day24_l_masturbation_80445dad:
+
+    # l "{i}(I'm so tired...)"
+    l "{i}(Estou tão cansada...)"
+
+# game/day24.rpy:878
+translate brazilian day24_l_masturbation_82822a0c_2:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:898
+translate brazilian day24_r_sex_c5b27efe:
+
+    # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
+    "{i}Depois de bater na porta do banheiro e dizer a [r_name] que é você, você é logo convidado a entrar."
+
+# game/day24.rpy:904
+translate brazilian day24_r_sex_faf33115:
+
+    # r "Hey handsome!"
+    r "Ei, lindo!"
+
+# game/day24.rpy:905
+translate brazilian day24_r_sex_77c3587b:
+
+    # p "How was your first day at college?"
+    p "Como foi seu primeiro dia de faculdade?"
+
+# game/day24.rpy:906
+translate brazilian day24_r_sex_8a91cb86:
+
+    # r "I forgot how utterly boring it was."
+    r "Eu esqueci como era totalmente chato."
+
+# game/day24.rpy:907
+translate brazilian day24_r_sex_c7f06fb0:
+
+    # r "But Ana and Alina pulled me through."
+    r "Mas Ana e Alina me ajudaram."
+
+# game/day24.rpy:908
+translate brazilian day24_r_sex_84c620c1:
+
+    # p "What?! You didn't think of me once?"
+    p "O quê?! Você não pensou em mim uma vez?"
+
+# game/day24.rpy:909
+translate brazilian day24_r_sex_7d4bdbf7:
+
+    # r "Of course I did, silly, you were on my mind the rest of the time."
+    r "Claro que sim, bobo, eu estava pensando em você o resto do tempo."
+
+# game/day24.rpy:911
+translate brazilian day24_r_sex_3bdcda22:
+
+    # p "Are you done?"
+    p "Você terminou?"
+
+# game/day24.rpy:912
+translate brazilian day24_r_sex_3915c8e5:
+
+    # r "Do you want me to be?"
+    r "Você quer que eu termine?"
+
+# game/day24.rpy:913
+translate brazilian day24_r_sex_d5151d80:
+
+    # p "No! I've missed you all day and you look so gorgeous."
+    p "Não! Senti sua falta o dia todo e você está tão linda."
+
+# game/day24.rpy:914
+translate brazilian day24_r_sex_486dc62e:
+
+    # r "Why don't you slide in with me, the water is still warm."
+    r "Por que você não vem comigo, a água ainda está quente."
+
+# game/day24.rpy:916
+translate brazilian day24_r_sex_8c5ced7c:
+
+    # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
+    "{i}[r_name] se aninha contra você, sua bunda esfregando contra o seu pau."
+
+# game/day24.rpy:917
+translate brazilian day24_r_sex_86e48495:
+
+    # r "You're already getting a hard-on?!"
+    r "Você já está ficando de pau duro?!"
+
+# game/day24.rpy:918
+translate brazilian day24_r_sex_e88a0767:
+
+    # p "Sorry."
+    p "Desculpa."
+
+# game/day24.rpy:919
+translate brazilian day24_r_sex_ed3dc877:
+
+    # r "I don't mind!"
+    r "Eu não me importo!"
+
+# game/day24.rpy:920
+translate brazilian day24_r_sex_cf0eaf12:
+
+    # r "God, I'm so tired."
+    r "Nossa, estou tão cansada."
+
+# game/day24.rpy:921
+translate brazilian day24_r_sex_071ad574:
+
+    # p "You're tense as well, the muscles in your shoulders feel way too hard."
+    p "Você também está tensa, os músculos dos ombros estão duros demais."
+
+# game/day24.rpy:922
+translate brazilian day24_r_sex_a0743e29:
+
+    # r "What are you going to do about it?"
+    r "O que você vai fazer a respeito?"
+
+# game/day24.rpy:923
+translate brazilian day24_r_sex_4ecf5b30:
+
+    # p "I know just the thing."
+    p "Eu sei exatamente o que fazer."
+
+# game/day24.rpy:929
+translate brazilian day24_r_sex_c53373d1:
+
+    # "{i}You put your hands on her shoulders and massage her back. Your sister closes her eyes in pleasure."
+    "{i}Você coloca as mãos nos ombros dela e massageia suas costas. Sua irmã fecha os olhos de prazer."
+
+# game/day24.rpy:931
+translate brazilian day24_r_sex_565a891e:
+
+    # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
+    "{i}Você coloca as mãos nos ombros dela e massageia suas costas. [r_name] fecha os olhos de prazer."
+
+# game/day24.rpy:932
+translate brazilian day24_r_sex_37fe5aac:
+
+    # r "Mmmmm. Now you have to do this every day."
+    r "Mmmmm. Agora você tem que fazer isso todos os dias."
+
+# game/day24.rpy:933
+translate brazilian day24_r_sex_e6e01fc5:
+
+    # p "I really, really don't mind."
+    p "Eu realmente, realmente não me importo."
+
+# game/day24.rpy:934
+translate brazilian day24_r_sex_07dfdc59:
+
+    # r "Kiss me!"
+    r "Me beija!"
+
+# game/day24.rpy:936
+translate brazilian day24_r_sex_488c4ffb:
+
+    # "{i}Then you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
+    "{i}Então você focaliza sua atenção em seus lábios e a beija apaixonadamente. [r_name] vira o rosto totalmente em sua direção e geme levemente quando sua bunda toca seu pau novamente."
+
+# game/day24.rpy:937
+translate brazilian day24_r_sex_55fbac4d:
+
+    # p "Mmm, I think something else is too tense as well."
+    p "Mmm, acho que outra coisa também está muito tensa."
+
+# game/day24.rpy:942
+translate brazilian day24_r_sex_29a1976e:
+
+    # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
+    "{i}Sua mão mergulha na água e você toca sua boceta macia, a garota coloca uma mão encorajadora em cima da sua."
+
+# game/day24.rpy:943
+translate brazilian day24_r_sex_1c10fcb0:
+
+    # r "Yes, I'm really tense there..."
+    r "Sim, estou muito tensa aí..."
+
+# game/day24.rpy:946
+translate brazilian day24_r_sex_51e8ab07:
+
+    # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
+    "{i}Despertado por suas palavras, você toca sua boceta e estimula seu clitóris, enquanto segura seu pequeno seio com a outra mão."
+
+# game/day24.rpy:947
+translate brazilian day24_r_sex_ffd0dbde:
+
+    # r "Y-y-yes [p_name], t-touch me right there."
+    r "I-i-isso, [p_name], m-me toca aí mesmo."
+
+# game/day24.rpy:948
+translate brazilian day24_r_sex_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaai!"
+
+# game/day24.rpy:955
+translate brazilian day24_r_sex_02dd6072:
+
+    # b "Can I come in, [r_name]?"
+    b "Posso entrar, [r_name]?"
+
+# game/day24.rpy:956
+translate brazilian day24_r_sex_55fab30a:
+
+    # b "I really need to pee!"
+    b "Eu realmente preciso fazer xixi!"
+
+# game/day24.rpy:957
+translate brazilian day24_r_sex_f118db0c:
+
+    # r "Fuck! It's [b_name]!"
+    r "Porra! É a [b_name]!"
+
+# game/day24.rpy:958
+translate brazilian day24_r_sex_47ac2dc7:
+
+    # r "Hide!!!"
+    r "Se Esconde!!!"
+
+# game/day24.rpy:960
+translate brazilian day24_r_sex_24cdadc7:
+
+    # r "Just a minute, sis!"
+    r "Só um minuto, mana!"
+
+# game/day24.rpy:962
+translate brazilian day24_r_sex_969bd260:
+
+    # r "Just a minute, [b_name]!"
+    r "Just a minute, [b_name]!"
+
+# game/day24.rpy:964
+translate brazilian day24_r_sex_ef9c89de:
+
+    # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
+    "{i}A água escorregadia dificulta a saída rápida da banheira, mas com algumas acrobacias você consegue chegar ao chuveiro e fechar a cortina."
+
+# game/day24.rpy:965
+translate brazilian day24_r_sex_d3cba48b:
+
+    # r "Come in!"
+    r "Entra!"
+
+# game/day24.rpy:967
+translate brazilian day24_r_sex_390a81d1:
+
+    # b "Hey, thanks!"
+    b "Ei, obrigada!"
+
+# game/day24.rpy:968
+translate brazilian day24_r_sex_d45e798a:
+
+    # b "Are you okay? There was a lot of noise back there."
+    b "Você está bem? Estava muito barulho."
+
+# game/day24.rpy:969
+translate brazilian day24_r_sex_4ad5bfc6:
+
+    # r "Yes... er... I thought I'd locked the door and wanted to open it for you."
+    r "Sim... er... pensei que tinha trancado a porta e queria abrir ela para você."
+
+# game/day24.rpy:970
+translate brazilian day24_r_sex_6f6ed129:
+
+    # b "The door was open."
+    b "A porta estava aberta."
+
+# game/day24.rpy:971
+translate brazilian day24_r_sex_1fcc4145:
+
+    # r "I realized that when I was halfway there, that was the noises you heard. Probably."
+    r "Percebi que isso quando estava na metade do caminho, foram esses os barulhos que você ouviu. Provavelmente."
+
+# game/day24.rpy:972
+translate brazilian day24_r_sex_2b4a84c9:
+
+    # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
+    p "{i}(Não se preocupe comigo, eu não estou aqui. E pelo amor de Deus, não tome banho!!!)"
+
+# game/day24.rpy:977
+translate brazilian day24_r_sex_9e694855:
+
+    # b "Probably."
+    b "Provavelmente."
+
+# game/day24.rpy:978
+translate brazilian day24_r_sex_16d84762:
+
+    # b "God. Thank you again for letting me in. I really needed to go."
+    b "Deus. Obrigada de novo por me deixar entrar. Eu realmente estava precisando."
+
+# game/day24.rpy:980
+translate brazilian day24_r_sex_314fc477:
+
+    # r "No problem."
+    r "Sem problemas."
+
+# game/day24.rpy:981
+translate brazilian day24_r_sex_c0644af4:
+
+    # b "So you've started college again today?"
+    b "Então você começou a faculdade de novo hoje?"
+
+# game/day24.rpy:982
+translate brazilian day24_r_sex_eb6544d5:
+
+    # r "Yup. Hated it."
+    r "Sim. Odiei."
+
+# game/day24.rpy:983
+translate brazilian day24_r_sex_907473de:
+
+    # b "Don't worry, once you have your diploma, you can do whatever you like."
+    b "Não se preocupa, depois de receber seu diploma, você pode fazer o que quiser."
+
+# game/day24.rpy:984
+translate brazilian day24_r_sex_9e58e45e:
+
+    # r "Did you have a good day?"
+    r "Você teve um bom dia?"
+
+# game/day24.rpy:986
+translate brazilian day24_r_sex_8bab34f6:
+
+    # b "Yes, I really did!"
+    b "Sim, tive mesmo!"
+
+# game/day24.rpy:987
+translate brazilian day24_r_sex_63f9a95f:
+
+    # r "Tell me!"
+    r "Conta!"
+
+# game/day24.rpy:988
+translate brazilian day24_r_sex_070ecb41:
+
+    # b "Long story!"
+    b "Longa história!"
+
+# game/day24.rpy:990
+translate brazilian day24_r_sex_8f376377:
+
+    # r "Come now, [b_name], you're positively glowing."
+    r "Qualé, [b_name], você está brilhando de felicidade."
+
+# game/day24.rpy:991
+translate brazilian day24_r_sex_5cf30c78:
+
+    # b "I know, I know. I think for once, things are working out."
+    b "Eu sei, eu sei. Acho que pela primeira vez, as coisas estão dando certo."
+
+# game/day24.rpy:992
+translate brazilian day24_r_sex_bee3ef17:
+
+    # p "{i}(Yes, today was a great day.)"
+    p "{i}(Sim, hoje foi um grande dia.)"
+
+# game/day24.rpy:993
+translate brazilian day24_r_sex_0122e9ae:
+
+    # r "You're in love!!! I just know it!"
+    r "Você está apaixonada!!! Eu sei disso!"
+
+# game/day24.rpy:995
+translate brazilian day24_r_sex_2993e132:
+
+    # b "Maybe..."
+    b "Talvez..."
+
+# game/day24.rpy:996
+translate brazilian day24_r_sex_45116a39:
+
+    # r "Who?! You have to tell me!"
+    r "Quem?! Você tem que me contar!"
+
+# game/day24.rpy:997
+translate brazilian day24_r_sex_12ff8583:
+
+    # b "Just enjoy your bath. I'll tell you when I'm ready."
+    b "Só aproveite seu banho. Eu conto quando estiver pronta."
+
+# game/day24.rpy:998
+translate brazilian day24_r_sex_72562e9e:
+
+    # p "{i}(Will she ever be ready?)"
+    p "{i}(Algum dia ela vai estar pronta?)"
+
+# game/day24.rpy:1000
+translate brazilian day24_r_sex_d2622335:
+
+    # b "{i}(That can't be true, can it?)"
+    b "{i}(Isso não pode ser verdade, pode?)"
+
+# game/day24.rpy:1001
+translate brazilian day24_r_sex_5d7f781e:
+
+    # b "No, but someone special did help me move past a bad experience."
+    b "Não, mas alguém especial me ajudou a superar uma experiência ruim."
+
+# game/day24.rpy:1002
+translate brazilian day24_r_sex_0d7d562f:
+
+    # r "I'm glad. It sure looks good on you!"
+    r "Estou feliz. Com certeza cai bem em você!"
+
+# game/day24.rpy:1003
+translate brazilian day24_r_sex_faf82db6:
+
+    # p "{i}(She thinks I'm someone special. [b_name] is really coming around!)"
+    p "{i}(Ela acha que sou alguém especial. [b_name] está realmente mudando o comportamento!)"
+
+# game/day24.rpy:1005
+translate brazilian day24_r_sex_da5994be:
+
+    # b "{i}(Not a chance of that!)"
+    b "{i}(Sem chance disso!)"
+
+# game/day24.rpy:1006
+translate brazilian day24_r_sex_fafdc263:
+
+    # b "No, but someone did help me move past a bad experience."
+    b "Não, mas alguém me ajudou a superar uma experiência ruim."
+
+# game/day24.rpy:1007
+translate brazilian day24_r_sex_6d60bdeb:
+
+    # r "Whatever, you just look happier is all."
+    r "Seja como for, é que você parece mais feliz, só isso."
+
+# game/day24.rpy:1008
+translate brazilian day24_r_sex_be6b6660:
+
+    # p "{i}(I guess she hasn't fully submitted herself to me yet. I still have some work to do.)"
+    p "{i}(Acho que ela ainda não se submeteu totalmente a mim. Ainda tenho algum trabalho a fazer.)"
+
+# game/day24.rpy:1010
+translate brazilian day24_r_sex_d8a5cb24:
+
+    # b "Well, you know, same old, same old."
+    b "Bem, o mesmo de sempre, sabe."
+
+# game/day24.rpy:1011
+translate brazilian day24_r_sex_555666ff:
+
+    # r "Yeah."
+    r "Sim."
+
+# game/day24.rpy:1012
+translate brazilian day24_r_sex_22dcb7fa:
+
+    # b "I'll leave you to your bath."
+    b "Vou deixar você com seu banho."
+
+# game/day24.rpy:1013
+translate brazilian day24_r_sex_35cc7ca5:
+
+    # p "{i}(Don't look to the right!)"
+    p "{i}(Não olhe para a direita!)"
+
+# game/day24.rpy:1014
+translate brazilian day24_r_sex_b93142cc:
+
+    # r "Thanks, sleep tight."
+    r "Obrigada, durma bem."
+
+# game/day24.rpy:1015
+translate brazilian day24_r_sex_14aef3ff:
+
+    # b "You too, sis."
+    b "Você também, mana."
+
+# game/day24.rpy:1024
+translate brazilian day24_r_sex_d31f2b7e:
+
+    # r "I think she's gone."
+    r "Acho que ela já foi."
+
+# game/day24.rpy:1025
+translate brazilian day24_r_sex_f13c71aa:
+
+    # r "How's my peeping Tom?"
+    r "Como está meu espiadorzinho?"
+
+# game/day24.rpy:1026
+translate brazilian day24_r_sex_db0dba76:
+
+    # p "Scared shitless, but I'll manage."
+    p "Estou cagando de medo, mas vou conseguir."
+
+# game/day24.rpy:1027
+translate brazilian day24_r_sex_306b895b:
+
+    # r "Let's have a shower together then, get rid of all that sweat."
+    r "Vamos tomar banho juntos então, tirar todo esse suor."
+
+# game/day24.rpy:1033
+translate brazilian day24_r_sex_0ba03374:
+
+    # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Você lava o corpo de sua irmã com as mãos, livrando-se de toda a espuma de sabão e usando isso como desculpa para tocá-la como quiser. Não que [r_name] reclame."
+
+# game/day24.rpy:1035
+translate brazilian day24_r_sex_c8affe1d:
+
+    # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Você lava o corpo de sua amiga com as mãos, livrando-se de toda a espuma de sabão usando isso como desculpa para tocá-la como quiser. Não que [r_name] reclame."
+
+# game/day24.rpy:1036
+translate brazilian day24_r_sex_3943a244:
+
+    # r "Mmmm, this feels nice as well."
+    r "Mmmm, isso também é muito bom."
+
+# game/day24.rpy:1037
+translate brazilian day24_r_sex_102cd8bd:
+
+    # r "Listen, [p_name], I know I said I was tired..."
+    r "Hein, [p_name], eu sei que disse que estava cansada..."
+
+# game/day24.rpy:1038
+translate brazilian day24_r_sex_b1388a61:
+
+    # p "Yes... I have a feeling I like where this is going."
+    p "Sim... Tenho a sensação de que vou gostar de onde isso vai dar."
+
+# game/day24.rpy:1043
+translate brazilian day24_r_sex_510cc1ff:
+
+    # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
+    "{i}Percebendo sua ereção, [r_name] puxa a perna e esfrega a boceta pelo seu pau."
+
+# game/day24.rpy:1045
+translate brazilian day24_r_sex_8fdada81:
+
+    # r "I really want to have sex."
+    r "Eu quero muito fazer sexo."
+
+# game/day24.rpy:1047
+translate brazilian day24_r_sex_64ba66d3:
+
+    # r "I want you inside of me."
+    r "Quero você dentro de mim."
+
+# game/day24.rpy:1048
+translate brazilian day24_r_sex_a7109580:
+
+    # r "Feel you, feel your cum inside of me."
+    r "Sentir você, sentir seu esperma dentro de mim."
+
+# game/day24.rpy:1051
+translate brazilian day24_r_sex_a1b15a1a:
+
+    # "{i}Despite the water, you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
+    "{i}Apesar da água, você consegue deslizar seu pau dentro da boceta dela. Você agarra a bunda dela com força e gentilmente enfia seu pau dentro dela, provocando um pequeno gemido de [r_name]."
+
+# game/day24.rpy:1053
+translate brazilian day24_r_sex_8a7c140b:
+
+    # r "Ah yes, fuck me. I want to feel you so bad."
+    r "Isso, me fode. Eu quero te sentir todinho."
+
+# game/day24.rpy:1058
+translate brazilian day24_r_sex_69f4a87e:
+
+    # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
+    "{i}Com medo de cair, você deixa [r_name] descansar a mão contra a parede, para que você possa fodê-la sem restrições."
+
+# game/day24.rpy:1059
+translate brazilian day24_r_sex_488f2b52:
+
+    # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
+    r "D-d-deus, me fode com mais força! Eu te quero, [p_name]! Me fode!"
+
+# game/day24.rpy:1061
+translate brazilian day24_r_sex_fe069684:
+
+    # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust, you seem to pull her closer towards you, her ass smacking against your abdomen."
+    "{i}[r_name] agarra seu cabelo molhado enquanto você mordisca a orelha dela. Com cada impulso, você parece puxá-la para mais perto de você, a bunda dela batendo contra o seu abdômen."
+
+# game/day24.rpy:1062
+translate brazilian day24_r_sex_8a8d4ccb:
+
+    # p "I love you so much, [r_name]!"
+    p "Eu te amo muito, [r_name]!"
+
+# game/day24.rpy:1063
+translate brazilian day24_r_sex_50b82d1f:
+
+    # r "Aaaaah, keep going!"
+    r "Aaaaai, continua!"
+
+# game/day24.rpy:1069
+translate brazilian day24_r_sex_4ce5ecb2:
+
+    # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
+    "{i}Você a vira, para que possa olhá-la nos olhos quando chegar ao orgasmo. Apesar da água quente, a respiração dela é quente contra suas bochechas quando ela geme de prazer."
+
+# game/day24.rpy:1074
+translate brazilian day24_r_sex_f6992741:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "D-d-deus, Estou pronto, [r_name]!"
+
+# game/day24.rpy:1075
+translate brazilian day24_r_sex_33470745:
+
+    # r "Keep fucking me! Please!"
+    r "Continua me fodendo! Por favor!"
+
+# game/day24.rpy:1083
+translate brazilian day24_r_sex_c0a02d04:
+
+    # p "G-g-aaaaah!"
+    p "A-a-aaaaah!"
+
+# game/day24.rpy:1084
+translate brazilian day24_r_sex_6fbc588f:
+
+    # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
+    "{i}Você realiza o desejo dela e continua enfiando profundamente até que o gozo escorre de sua boceta e se misture com a água do chuveiro."
+
+# game/day24.rpy:1094
+translate brazilian day24_r_sex_f6992741_1:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "D-d-deus, Estou pronto, [r_name]!"
+
+# game/day24.rpy:1095
+translate brazilian day24_r_sex_50ed1e49:
+
+    # p "On your knees baby, I want to see that lovely face of yours."
+    p "De joelhos, linda, quero ver esse seu rosto lindo."
+
+# game/day24.rpy:1103
+translate brazilian day24_r_sex_c0a02d04_1:
+
+    # p "G-g-aaaaah!"
+    p "A-a-aaaaah!"
+
+# game/day24.rpy:1104
+translate brazilian day24_r_sex_3e62347d:
+
+    # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
+    "{i}[r_name] se dedilha enquanto seu rosto é coberto pelo seu sêmen. Parte dele entra em sua boca e ela engole sem hesitar."
+
+# game/day24.rpy:1113
+translate brazilian day24_r_sex_21a88cd7:
+
+    # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
+    "{i}Você mantém [r_name] por perto enquanto os restos de seu gozo são removidos. Depois, vocês dão beijo de boa noite e saem do banheiro separadamente."
+

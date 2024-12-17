@@ -4059,3 +4059,899 @@ translate brazilian day25_iris_meeting_b829791f:
     # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
     ir "Obrigada, [p_name], você me fez sentir especial depois de tanto tempo e é isso que conta agora."
 
+# TODO: Translation updated at 2024-11-18 10:23
+
+# game/day25.rpy:944
+translate brazilian day25_r_sex_250f8300:
+
+    # "{i}As soon as you enter the deserted classroom, [r_name] grabs your face and her lips are on yours. Mad with lust, you feel the swell of her small breasts against the palms of your hands."
+    "{i}Assim que você entra na sala de aula vazia, [r_name] agarra seu rosto e põe os lábios nos seus. Louco de desejo, você sente os pequenos seios dela nas palmas de suas mãos."
+
+# game/day25.rpy:945
+translate brazilian day25_r_sex_08d3f5ac:
+
+    # r "Oh, [p_name]!"
+    r "Oh, [p_name]!"
+
+# game/day25.rpy:946
+translate brazilian day25_r_sex_ab5c9289:
+
+    # r "I wish we could make love right here on the spot."
+    r "Eu gostaria que pudéssemos fazer amor aqui mesmo."
+
+# game/day25.rpy:947
+translate brazilian day25_r_sex_d03baccd:
+
+    # p "That's bound to be awkward if the teacher steps in early."
+    p "Isso pode acabar estranho se o professor chegar cedo."
+
+# game/day25.rpy:948
+translate brazilian day25_r_sex_821e294d:
+
+    # r "I know and it sucks!"
+    r "Eu sei, e é uma merda!"
+
+# game/day25.rpy:949
+translate brazilian day25_r_sex_a87ca5a3:
+
+    # p "Majorly."
+    p "Bastante."
+
+# game/day25.rpy:950
+translate brazilian day25_r_sex_afd1642e:
+
+    # p "But I might know something else to hold you over until we get someplace more private."
+    p "Mas talvez eu saiba de outra coisa que possa te deixar feliz até chegarmos a um lugar mais privado."
+
+# game/day25.rpy:952
+translate brazilian day25_r_sex_63256490:
+
+    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
+    "{i}Quando você se abaixa trazendo sua cabeça ao nível da barriga dela, você lentamente desabotoa os botões do short dela para descê-lo com a calcinha."
+
+# game/day25.rpy:953
+translate brazilian day25_r_sex_fc2fb4ed:
+
+    # p "Let's get these off, shall we?"
+    p "Vamos tirar isso, beleza?"
+
+# game/day25.rpy:958
+translate brazilian day25_r_sex_6d517046:
+
+    # r "What are you planning on doing, [p_name]?"
+    r "O que você está planejando fazer, [p_name]?"
+
+# game/day25.rpy:959
+translate brazilian day25_r_sex_f76231ff:
+
+    # p "I think you deserve a treat. A little excitement."
+    p "Eu acho que você merece uma recompensa. Um pouco de emoção."
+
+# game/day25.rpy:960
+translate brazilian day25_r_sex_dcb7cee5:
+
+    # r "Ohhh! I'm a big fan of excitement!"
+    r "Ohhh! Eu adoro uma emoção!"
+
+# game/day25.rpy:963
+translate brazilian day25_r_sex_3fabb8ca:
+
+    # "{i}The position gives you a great view of her tight pussy, your sister's swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}A posição dá a você uma ótima visão de sua boceta apertada, o clitóris inchado de sua irmã chama a atenção e suas narinas são preenchidas por sua doce fragrância."
+
+# game/day25.rpy:965
+translate brazilian day25_r_sex_1e147499:
+
+    # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}A posição dá a você uma ótima visão de sua boceta apertada, o clitóris inchado de [r_name] chama a atenção e suas narinas são preenchidas por sua doce fragrância."
+
+# game/day25.rpy:970
+translate brazilian day25_r_sex_35611710:
+
+    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
+    "{i}Toda a antecipação já a deixou molhada e quando sua língua toca seus lábios, você lambe uma grande quantidade de seus doces sucos."
+
+# game/day25.rpy:971
+translate brazilian day25_r_sex_74d93c92:
+
+    # r "Oh god, yes!"
+    r "Aih, meu deus, isso!"
+
+# game/day25.rpy:972
+translate brazilian day25_r_sex_4a95aa38:
+
+    # "{i}[r_name] twists and squirms while your tongue flicks ever rapidly between her pussy lips."
+    "{i}[r_name] se contorce e se debate enquanto sua língua passa rapidamente entre os lábios de sua boceta."
+
+# game/day25.rpy:973
+translate brazilian day25_r_sex_e480cf4c:
+
+    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
+    "{i}Um sino toca em algum lugar e um pouco depois você pode ouvir passos distantes no corredor, [r_name] não parece notar ou se importar."
+
+# game/day25.rpy:974
+translate brazilian day25_r_sex_0dee5928:
+
+    # p "I'm gonna have to make this quick, baby."
+    p "Eu vou ter que fazer isso rápido, linda."
+
+# game/day25.rpy:975
+translate brazilian day25_r_sex_8ceaf300:
+
+    # r "F-f-finish it, p-please!"
+    r "T-t-termina, p-por favor!"
+
+# game/day25.rpy:981
+translate brazilian day25_r_sex_90dd1e99:
+
+    # "{i}Wanting to give your sister the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Querendo dar a sua irmã a satisfação que ela tanto deseja, você volta sua atenção para a estimulação do clitóris. [r_name] puxa a perna para cima para dar a você melhor acesso à sua boceta."
+
+# game/day25.rpy:983
+translate brazilian day25_r_sex_531e0ac8:
+
+    # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Querendo dar à sua namorada a satisfação que ela tanto deseja, você volta sua atenção para a estimulação do clitóris. [r_name] puxa a perna para cima para dar a você melhor acesso à sua boceta."
+
+# game/day25.rpy:984
+translate brazilian day25_r_sex_64ce9fc9:
+
+    # r "Ooooh, [p_name], don't stop, please!"
+    r "Aaaaih, [p_name], não pare, por favor!"
+
+# game/day25.rpy:991
+translate brazilian day25_r_sex_69f611bc:
+
+    # r "Ooh, yes! Y-yyyyees!"
+    r "Aaaih, isso! I-iiissooo!"
+
+# game/day25.rpy:992
+translate brazilian day25_r_sex_f77a813c:
+
+    # "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massaging her clitoris. Her saltiness overwhelms your mouth as her juices run freely."
+    "{i}O corpo da [r_name] treme com o orgasmo quando ela atinge o clímax com sua língua massageando firmemente seu clitóris. O sabor salgado sobrecarrega sua boca, com os fluidos derramando livremente."
+
+# game/day25.rpy:997
+translate brazilian day25_r_sex_3874a9af:
+
+    # r "Just what I needed today!"
+    r "Exatamente o que eu precisava hoje!"
+
+# game/day25.rpy:1001
+translate brazilian day25_r_sex_0b7dd48e:
+
+    # p "Better than having lunch at the cafeteria?"
+    p "Melhor do que almoçar no refeitório?"
+
+# game/day25.rpy:1002
+translate brazilian day25_r_sex_eb3d12e7:
+
+    # r "You bet."
+    r "Pode apostar."
+
+# game/day25.rpy:1003
+translate brazilian day25_r_sex_a74a2417:
+
+    # p "I'd better go now, before anybody mistakes me for a student."
+    p "É melhor eu ir agora, antes que alguém me confunda com um estudante."
+
+# game/day25.rpy:1004
+translate brazilian day25_r_sex_d436b3c0:
+
+    # r "Or a teacher!"
+    r "Ou um professor!"
+
+# game/day25.rpy:1005
+translate brazilian day25_r_sex_45e7d386:
+
+    # p "God forbid..."
+    p "Deus me livre..."
+
+# game/day25.rpy:1023
+translate brazilian day25_l_fingering_7a620cd9:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where [r_name] and you watched a couple have fun with each other."
+    "{i}O ar da noite está frio em sua pele quando vocês saem da piscina e se dirigem à área murada onde você e [r_name] assistiram um casal se divertindo juntos."
+
+# game/day25.rpy:1025
+translate brazilian day25_l_fingering_bf7b9c24:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where the hot tubs are located."
+    "{i}O ar da noite é frio em sua pele quando vocês saem da piscina e se dirigem à área murada onde estão localizadas as banheiras de hidromassagem."
+
+# game/day25.rpy:1033
+translate brazilian day25_l_fingering_b58df64f:
+
+    # p "Yup, still very nice. Come on in!"
+    p "Sim, ainda esta muito boa. Entre!"
+
+# game/day25.rpy:1034
+translate brazilian day25_l_fingering_a1db61e1:
+
+    # "{i}You watch as [l_name] tries the water first with her toes and admire her naked body. A smile graces her face when she notices that the water is indeed still warm."
+    "{i}Você observa [l_name] experimentando a água primeiro com os dedos dos pés e admira seu corpo nu. Um sorriso aparece em seu rosto quando ela percebe que a água ainda está quente."
+
+# game/day25.rpy:1036
+translate brazilian day25_l_fingering_15f142cd:
+
+    # l "Ooh, the water is bubbling. It tickles."
+    l "Aah, a água está borbulhando. Faz cócegas."
+
+# game/day25.rpy:1037
+translate brazilian day25_l_fingering_5e87a508:
+
+    # p "You're so far away, why don't you come over."
+    p "Você está tão longe, por que não vem."
+
+# game/day25.rpy:1038
+translate brazilian day25_l_fingering_63b3750e:
+
+    # l "Good idea."
+    l "Boa ideia."
+
+# game/day25.rpy:1041
+translate brazilian day25_l_fingering_00a857b2:
+
+    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
+    "{i}Sua irmã nada mais perto e se aninha em seus braços. A bunda esfrega contra sua virilha e crescente ereção, mas ela não parece se importar."
+
+# game/day25.rpy:1043
+translate brazilian day25_l_fingering_b1de4213:
+
+    # "{i}[l_name] swims closer and nestles herself in your arms. Her butt rubs against your crotch and your erection is growing, but she doesn't seem to mind."
+    "{i}[l_name] nada mais perto e se aninha em seus braços. A bunda esfrega contra sua virilha e sua ereção está crescendo, mas ela não parece se importar."
+
+# game/day25.rpy:1044
+translate brazilian day25_l_fingering_f035222d:
+
+    # l "Mmmm, I feel all relaxed now."
+    l "Mmmm, me sinto totalmente relaxada agora."
+
+# game/day25.rpy:1045
+translate brazilian day25_l_fingering_fe2afd8b:
+
+    # "{i}There's a long silence in which you both enjoy just sitting close to each other."
+    "{i}Há um longo silêncio em que vocês dois gostam de ficar sentados perto um do outro."
+
+# game/day25.rpy:1046
+translate brazilian day25_l_fingering_7471acc4:
+
+    # l "How can you be so free, [p_name]?"
+    l "Como você pode ser tão livre, [p_name]?"
+
+# game/day25.rpy:1047
+translate brazilian day25_l_fingering_1aa028eb:
+
+    # p "I don't know, I just am."
+    p "Eu não sei, eu só sou."
+
+# game/day25.rpy:1048
+translate brazilian day25_l_fingering_f4565c3a:
+
+    # l "I just wish I had a little of your carefreeness."
+    l "Eu só queria ter um pouco da sua despreocupação."
+
+# game/day25.rpy:1049
+translate brazilian day25_l_fingering_a3ac60c7:
+
+    # p "I'm sure it's something you can learn."
+    p "Tenho certeza que é algo que você pode aprender."
+
+# game/day25.rpy:1050
+translate brazilian day25_l_fingering_260bd9b3:
+
+    # l "I think I'd like... I'd like to feel good... "
+    l "Acho que gostaria... gostaria de me sentir bem..."
+
+# game/day25.rpy:1051
+translate brazilian day25_l_fingering_65f01471:
+
+    # p "You mean you'd like me to touch your pussy?"
+    p "Quer dizer que gostaria que eu tocasse sua boceta?"
+
+# game/day25.rpy:1052
+translate brazilian day25_l_fingering_ec6cf6d6:
+
+    # l "Oh, [p_name], can't you just..."
+    l "Ah, [p_name], você não pode simplesmente..."
+
+# game/day25.rpy:1058
+translate brazilian day25_l_fingering_81aea3f3:
+
+    # "{i}Without waiting for her reply, your hand dips below the waterline and slips between her legs. You hear [l_name] holding her breath."
+    "{i}Sem esperar pela resposta dela, sua mão desce abaixo d'água e desliza entre as pernas dela. Você ouve [l_name] prendendo a respiração."
+
+# game/day25.rpy:1060
+translate brazilian day25_l_fingering_3329c202:
+
+    # p "Touch your pussy just like that?"
+    p "Tocar sua boceta assim?"
+
+# game/day25.rpy:1061
+translate brazilian day25_l_fingering_ac68ab35:
+
+    # l "Y-yes, like that."
+    l "S-sim, assim."
+
+# game/day25.rpy:1063
+translate brazilian day25_l_fingering_3d4b35ee:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
+    "{i}Seus dedos provocam as áreas sensíveis ao redor do boceta dela e sua irmã se apoia cada vez mais em seu peito."
+
+# game/day25.rpy:1065
+translate brazilian day25_l_fingering_c9056500:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
+    "{i}Seus dedos provocam as áreas sensíveis ao redor de seu boceta e ela se apoia cada vez mais em seu peito."
+
+# game/day25.rpy:1067
+translate brazilian day25_l_fingering_a333d905:
+
+    # "{i}When you start massaging her clit, [l_name] lets out a small moan and her hand tousles your hair."
+    "{i}Quando você começa a massagear o clitóris, [l_name] solta um pequeno gemido e sua mão bagunça seu cabelo."
+
+# game/day25.rpy:1068
+translate brazilian day25_l_fingering_0a90328c:
+
+    # p "Do you want me inside of you?"
+    p "Você me quer dentro de você?"
+
+# game/day25.rpy:1069
+translate brazilian day25_l_fingering_ab687a69:
+
+    # l "Yes, f-finger me, [p_name]!"
+    l "Sim, enfia o dedo em mim, [p_name]!"
+
+# game/day25.rpy:1071
+translate brazilian day25_l_fingering_6eeb5756:
+
+    # "{i}Two fingers slip inside her pussy as you keep stimulating her clitoris with your thumb. [l_name]'s breathing is ragged and she seems close to orgasm."
+    "{i}Dois dedos deslizam dentro de sua vagina enquanto você estimula o clitóris com o polegar. A respiração de [l_name] está irregular e ela parece perto do orgasmo."
+
+# game/day25.rpy:1072
+translate brazilian day25_l_fingering_82a4e302:
+
+    # p "Cum for me, baby!"
+    p "Goza para mim, linda!"
+
+# game/day25.rpy:1073
+translate brazilian day25_l_fingering_c4f51dd6:
+
+    # l "Y-y-yesss, [p_name], I'm..."
+    l "I-i-iisssooo, [p_name], eu estou..."
+
+# game/day25.rpy:1080
+translate brazilian day25_l_fingering_6c62f416:
+
+    # l "Aaaaaah!"
+    l "Aaaaaai!"
+
+# game/day25.rpy:1081
+translate brazilian day25_l_fingering_8c7f77e2:
+
+    # "{i}[l_name] trembles and squirms as she orgasms, your fingers still inside her. Her violent movements eventually force you outside of her and she rides out the last waves of her orgasm pressed against you."
+    "{i}[l_name] treme e se contorce enquanto tem orgasmo, seus dedos ainda dentro dela. Seus movimentos violentos eventualmente forçam você para fora dela e ela cavalga as últimas ondas de seu orgasmo pressionadas contra você."
+
+# game/day25.rpy:1085
+translate brazilian day25_l_fingering_375652b2:
+
+    # l "T-that... that was fantastic. I feel all better now."
+    l "I-isso... isso foi fantástico. Eu me sinto melhor agora."
+
+# game/day25.rpy:1087
+translate brazilian day25_l_fingering_da25e56e:
+
+    # l "This evening was a great idea, [p_name], thank you so much."
+    l "Essa noite foi uma ótima ideia, [p_name], muito obrigada."
+
+# game/day25.rpy:1088
+translate brazilian day25_l_fingering_db488370:
+
+    # p "You're very welcome."
+    p "De nada."
+
+# game/day25.rpy:1090
+translate brazilian day25_l_fingering_0e2e55a4:
+
+    # "{i}You keep floating in the hot tub until the midnight air is too chilly and you decide to go home."
+    "{i}Você continua flutuando na banheira de hidromassagem até que o ar da meia-noite fique frio demais e você decida ir para casa."
+
+# game/day25.rpy:1109
+translate brazilian day25_i_sex_9ec564bd:
+
+    # "{i}The door to the bedroom is wide open, and when you arrive, Iris is already down to her underwear."
+    "{i}A porta do quarto está escancarada e quando você chega, Iris já está de calcinha."
+
+# game/day25.rpy:1110
+translate brazilian day25_i_sex_3caad50d:
+
+    # p "{i}(Those curves are fine indeed.)"
+    p "{i}(Essas curvas são realmente lindas.)"
+
+# game/day25.rpy:1111
+translate brazilian day25_i_sex_9c584147:
+
+    # p "Iris?"
+    p "Iris?"
+
+# game/day25.rpy:1113
+translate brazilian day25_i_sex_b0d0767a:
+
+    # "{i}Iris doesn't appear very startled at your voice, but she still covers her breasts when she faces you."
+    "{i}Iris não parece muito assustada com a sua voz, mas ela ainda cobre os seios quando está de frente para você."
+
+# game/day25.rpy:1114
+translate brazilian day25_i_sex_80f822d5:
+
+    # p "Did you want me to follow you?"
+    p "Você quer que eu te siga?"
+
+# game/day25.rpy:1116
+translate brazilian day25_i_sex_af9930e6:
+
+    # ir "Maybe..."
+    ir "Talvez..."
+
+# game/day25.rpy:1117
+translate brazilian day25_i_sex_ddad1a4b:
+
+    # ir "I look like a worn out sack of meat, don't I?"
+    ir "Pareço um saco velho de carne, não é?"
+
+# game/day25.rpy:1120
+translate brazilian day25_i_sex_c6334f39:
+
+    # p "{i}(Damnit, she clearly has body issues.)"
+    p "{i}(Poxa, ela claramente tem problemas com seu corpo.)"
+
+# game/day25.rpy:1121
+translate brazilian day25_i_sex_e4d7ab52:
+
+    # p "Why would you say that?"
+    p "Por que você diria isso?"
+
+# game/day25.rpy:1123
+translate brazilian day25_i_sex_57977556:
+
+    # ir "Because Justin never touches me... Never looks at me anymore."
+    ir "Porque Justin nunca me toca... Nunca mais olhou para mim."
+
+# game/day25.rpy:1124
+translate brazilian day25_i_sex_b9b73004:
+
+    # p "I think Justin is too absorbed in his work to care about anything else."
+    p "Acho que Justin está muito absorto em seu trabalho para se preocupar com qualquer outra coisa."
+
+# game/day25.rpy:1125
+translate brazilian day25_i_sex_8508b229:
+
+    # p "He's so absorbed that he doesn't see his beautiful wife for what she is: a desirable woman."
+    p "Ele está tão absorto que não vê sua bela esposa pelo que ela é: uma mulher desejável."
+
+# game/day25.rpy:1127
+translate brazilian day25_i_sex_e0cb8901:
+
+    # ir "Do you really think that?"
+    ir "Você realmente acha isso?"
+
+# game/day25.rpy:1128
+translate brazilian day25_i_sex_b62d145c:
+
+    # p "That you're desirable? Yes, I think so."
+    p "Que você é desejável? Claro que sim."
+
+# game/day25.rpy:1129
+translate brazilian day25_i_sex_6fa9dade:
+
+    # p "You possess everything I love in a woman. A radiant smile, beautiful curves, luscious breasts and maturity."
+    p "Você possui tudo que eu amo em uma mulher. Um sorriso radiante, lindas curvas, seios deliciosos e maturidade."
+
+# game/day25.rpy:1130
+translate brazilian day25_i_sex_fa2a42a8:
+
+    # ir "Luscious breasts, really? I always thought they were in the way."
+    ir "Seios deliciosos, sério? Sempre achei que eles estavam atrapalhando."
+
+# game/day25.rpy:1131
+translate brazilian day25_i_sex_5e50fb58:
+
+    # p "I can't say that I see your point."
+    p "Não posso dizer que entendo seu ponto."
+
+# game/day25.rpy:1132
+translate brazilian day25_i_sex_facdc743:
+
+    # ir "Do you still want me to put that dress on?"
+    ir "Você ainda quer que eu coloque esse vestido?"
+
+# game/day25.rpy:1133
+translate brazilian day25_i_sex_86d15f25:
+
+    # p "If you let me watch you undress..."
+    p "Se você me deixar ver você se despir..."
+
+# game/day25.rpy:1134
+translate brazilian day25_i_sex_774139e9:
+
+    # ir "That's okay."
+    ir "Tudo bem."
+
+# game/day25.rpy:1135
+translate brazilian day25_i_sex_e2405543:
+
+    # "{i}Iris proceeds to unclasp her bra and is still a little uncomfortable with the whole situation."
+    "{i}Iris começa a desabotoar o sutiã e ainda está um pouco desconfortável com a situação toda."
+
+# game/day25.rpy:1137
+translate brazilian day25_i_sex_44cb0290:
+
+    # p "Just what I thought."
+    p "Exatamente o que pensei."
+
+# game/day25.rpy:1138
+translate brazilian day25_i_sex_20c0c941:
+
+    # ir "What? Are they..."
+    ir "O quê? Eles são..."
+
+# game/day25.rpy:1139
+translate brazilian day25_i_sex_fdc9e41d:
+
+    # p "A perfect pair."
+    p "Um par perfeito."
+
+# game/day25.rpy:1141
+translate brazilian day25_i_sex_25b76bba:
+
+    # ir "Even if I don't know whether to believe you or not, it's still nice to get these compliments."
+    ir "Mesmo que eu não saiba se acredito em você ou não, é bom receber esses elogios."
+
+# game/day25.rpy:1146
+translate brazilian day25_i_sex_887cad5a:
+
+    # p "You're a vision!"
+    p "Você está deslumbrante!"
+
+# game/day25.rpy:1147
+translate brazilian day25_i_sex_c18f3955:
+
+    # p "But..."
+    p "Mas..."
+
+# game/day25.rpy:1148
+translate brazilian day25_i_sex_2aca1d3c:
+
+    # ir "But? Is something wrong."
+    ir "Mas? Tem algo errado?"
+
+# game/day25.rpy:1149
+translate brazilian day25_i_sex_6bc6dd21:
+
+    # p "You could say that."
+    p "Pode-se dizer que sim."
+
+# game/day25.rpy:1150
+translate brazilian day25_i_sex_84779fec:
+
+    # p "I've seen those beautiful breasts of yours and I kinda want to see more of you..."
+    p "Já vi esses seus seios lindos e meio que quero ver mais de você..."
+
+# game/day25.rpy:1151
+translate brazilian day25_i_sex_c2131b78:
+
+    # "{i}Wordlessly, Iris turns her back and unzips the dress, after that her panties fall to the floor."
+    "{i}Sem falar nada, Iris vira as costas e abre o zíper do vestido, depois disso sua calcinha cai no chão."
+
+# game/day25.rpy:1153
+translate brazilian day25_i_sex_713e1875:
+
+    # ir "You mean like this?"
+    ir "Você quer dizer assim?"
+
+# game/day25.rpy:1154
+translate brazilian day25_i_sex_ff5204b0:
+
+    # p "{i}(Sweet Jesus, I'd like to give those buttocks a good slapping.)"
+    p "{i}(Santo Deus, gostaria de dar uns belos tapas nessa bunda.)"
+
+# game/day25.rpy:1155
+translate brazilian day25_i_sex_9fdfc4c8:
+
+    # p "Exactly like that."
+    p "Exatamente assim."
+
+# game/day25.rpy:1160
+translate brazilian day25_i_sex_6dde063f:
+
+    # ir "If you want me, I'm yours..."
+    ir "Se você me quiser, eu sou sua..."
+
+# game/day25.rpy:1161
+translate brazilian day25_i_sex_f49d9534:
+
+    # ir "But I want to see you too..."
+    ir "Mas eu quero ver você também..."
+
+# game/day25.rpy:1163
+translate brazilian day25_i_sex_95d0da94:
+
+    # "{i}Without much ceremony you undress yourself and find Iris staring longingly at your erect cock."
+    "{i}Sem muita cerimônia, você se despe e encontra Iris olhando com desejo para seu pênis ereto."
+
+# game/day25.rpy:1164
+translate brazilian day25_i_sex_c27fd2fa:
+
+    # ir "It's been a while... I almost forgot what it was like."
+    ir "Já faz um tempo... Quase esqueci como era."
+
+# game/day25.rpy:1165
+translate brazilian day25_i_sex_4da5b111:
+
+    # ir "You look so handsome."
+    ir "Você é tão bonito."
+
+# game/day25.rpy:1167
+translate brazilian day25_i_sex_c0e0f065:
+
+    # ir "I can't believe we're doing this."
+    ir "Eu não acredito que estamos fazendo isso."
+
+# game/day25.rpy:1169
+translate brazilian day25_i_sex_0a7056a4:
+
+    # ir "But the woman you were with?! You aren't cheating on her, are you?"
+    ir "Mas a mulher com quem você estava?! Você não está traindo ela, está?"
+
+# game/day25.rpy:1170
+translate brazilian day25_i_sex_59390063:
+
+    # p "We're dating, but not sure of our feelings yet. Besides, I'm all for open relationships."
+    p "Estamos namorando, mas ainda não temos certeza de nossos sentimentos. Além disso, sou totalmente a favor de relacionamentos abertos."
+
+# game/day25.rpy:1172
+translate brazilian day25_i_sex_1952c19f:
+
+    # ir "A handsome man like you, you must have a girlfriend."
+    ir "Um homem bonito como você, você deve ter uma namorada."
+
+# game/day25.rpy:1173
+translate brazilian day25_i_sex_2c23e463:
+
+    # p "Yes, I'm seeing some girls, but nothing serious. Besides, I'm all for open relationships."
+    p "Sim, estou saindo com algumas garotas, mas nada sério. Além disso, sou totalmente a favor de relacionamentos abertos."
+
+# game/day25.rpy:1174
+translate brazilian day25_i_sex_b169d104:
+
+    # ir "So are we really doing this?"
+    ir "Então, vamos mesmo fazer isso?"
+
+# game/day25.rpy:1175
+translate brazilian day25_i_sex_62c06072:
+
+    # p "Yes Iris, we are. Just lie down and kiss me."
+    p "Sim, Iris, vamos. Apenas deite e me beije."
+
+# game/day25.rpy:1180
+translate brazilian day25_i_sex_200fd0f6:
+
+    # "{i}A little hesitant, Iris lets herself be guided down to the mattress, but as soon as your lips touch and your tongues intertwine, she no longer has any reservations."
+    "{i}Um pouco hesitante, Iris se deixa ser guiada até o colchão, mas assim que seus lábios se tocam e suas línguas se entrelaçam, ela não se segura mais."
+
+# game/day25.rpy:1181
+translate brazilian day25_i_sex_18e1759f:
+
+    # ir "Oh [p_name], kiss me again!"
+    ir "Oh [p_name], me beija de novo!"
+
+# game/day25.rpy:1182
+translate brazilian day25_i_sex_dd6c002a:
+
+    # "{i}You notice her kisses have a bit of a desperate edge to them, a hunger maybe, as if she's afraid you might still leave her."
+    "{i}Você percebe que os beijos dela têm um toque de desespero, talvez uma fome, como se ela tivesse medo de que você ainda fosse deixá-la."
+
+# game/day25.rpy:1184
+translate brazilian day25_i_sex_3f08601e:
+
+    # "{i}When you caress her full breasts and touch her soft erect nipples, Iris lets out a sigh of pleasure."
+    "{i}Quando você acaricia os seios fartos dela e toca seus mamilos eretos e macios, Iris solta um suspiro de prazer."
+
+# game/day25.rpy:1185
+translate brazilian day25_i_sex_d9367c64:
+
+    # p "Do you like it when I touch you there, Iris?"
+    p "Você gosta quando eu toco você aí, Iris?"
+
+# game/day25.rpy:1186
+translate brazilian day25_i_sex_2b5f856c:
+
+    # ir "Mmmm, yes."
+    ir "Mmmm, sim."
+
+# game/day25.rpy:1188
+translate brazilian day25_i_sex_e77aac7b:
+
+    # "{i}You move down to her plump ass and massage her buttocks. Iris seems to be relaxing more and more as you discover her body."
+    "{i}Você desce na bunda grande dela e massageia suas nádegas, Iris parece relaxar cada vez mais conforme você descobre seu corpo."
+
+# game/day25.rpy:1189
+translate brazilian day25_i_sex_2004ab1b:
+
+    # p "Do you want to feel good?"
+    p "Você quer se sentir bem?"
+
+# game/day25.rpy:1190
+translate brazilian day25_i_sex_9c3b627f:
+
+    # ir "Yes..."
+    ir "Sim..."
+
+# game/day25.rpy:1192
+translate brazilian day25_i_sex_c3edf5bb:
+
+    # "{i}Gently you turn her on her back again, and a little embarrassed, the older woman closes her legs."
+    "{i}Você a vira gentilmente de costas novamente, e um pouco envergonhada, a mulher mais velha fecha as pernas."
+
+# game/day25.rpy:1193
+translate brazilian day25_i_sex_2b101f07:
+
+    # p "Don't be shy, Iris."
+    p "Não seja tímida, Iris."
+
+# game/day25.rpy:1195
+translate brazilian day25_i_sex_c192101e:
+
+    # "{i}You effortlessly spread her legs. The reverend's wife doesn't stop you."
+    "{i}Você abre as pernas dela sem muito esforço. A esposa do reverendo não o impede."
+
+# game/day25.rpy:1196
+translate brazilian day25_i_sex_0c1def5d:
+
+    # p "{i}(Wow, that's an old-school bush, right there.)"
+    p "{i}(Nossa, esses pelos são das antigas.)"
+
+# game/day25.rpy:1201
+translate brazilian day25_i_sex_728ab8a9:
+
+    # "{i}Iris wants to protest when you move your head down between her legs, but she is silent the moment your tongue touches her pussy."
+    "{i}Iris quer protestar quando você desce a cabeça entre suas pernas, mas ela fica em silêncio no momento em que sua língua toca na boceta."
+
+# game/day25.rpy:1202
+translate brazilian day25_i_sex_a08cbfab:
+
+    # ir "Oooh, [p_name]!"
+    ir "Aaaih, [p_name]!"
+
+# game/day25.rpy:1204
+translate brazilian day25_i_sex_e4744b64:
+
+    # "{i}Her taste fills your mouth as you penetrate her cunt with your probing tongue. Iris moans and writhes on the bed."
+    "{i}O sabor dela preenche sua boca enquanto você penetra a boceta com sua língua. Iris geme e se contorce na cama."
+
+# game/day25.rpy:1205
+translate brazilian day25_i_sex_82d39544:
+
+    # ir "Y-yes, right there, keep doing that. Aaaaah!"
+    ir "I-isso, aí mesmo, continua fazendo isso. Aaaaai!"
+
+# game/day25.rpy:1208
+translate brazilian day25_i_sex_96ee126b:
+
+    # "{i}Licking her clitoris is what finally makes her explode in your mouth. She shudders and takes your head in her hands, pushing you down on her slit."
+    "{i}Lamber o clitóris é o que finalmente a faz explodir em sua boca. Ela estremece e segura sua cabeça com as mãos, empurrando-o para baixo contra sua boceta."
+
+# game/day25.rpy:1209
+translate brazilian day25_i_sex_f27ed8be:
+
+    # ir "I want you, [p_name], I want you inside me!"
+    ir "Eu te quero, [p_name], eu te quero dentro de mim!"
+
+# game/day25.rpy:1213
+translate brazilian day25_i_sex_fdda4f53:
+
+    # "{i}Like two horny teenagers, she helps you scramble on top of her, takes hold of your throbbing cock and eagerly guides it inside her wet pussy."
+    "{i}Como duas adolescentes com tesão, ela ajuda você a subir em cima dela, segura seu pau latejante e o guia ansiosamente para dentro de sua boceta molhadinha."
+
+# game/day25.rpy:1215
+translate brazilian day25_i_sex_ace14589:
+
+    # ir "Fuck me!"
+    ir "Me fode!"
+
+# game/day25.rpy:1221
+translate brazilian day25_i_sex_91ba433a:
+
+    # "{i}Your movements are tender, yet you penetrate her deeply. Each time you thrust your cock to the root inside her cunt, her nails claw into your buttocks."
+    "{i}Seus movimentos são suaves, mas você a penetra profundamente. Cada vez que você empurra seu pênis para dentro de sua boceta, suas unhas arranham suas nádegas."
+
+# game/day25.rpy:1223
+translate brazilian day25_i_sex_54864ef0:
+
+    # ir "Oooh, y-you feel so good, [p_name]."
+    ir "Aaaih, v-você me faz sentir tão bem, [p_name]."
+
+# game/day25.rpy:1224
+translate brazilian day25_i_sex_828438ab:
+
+    # p "Aaah, Iris!"
+    p "Aaah, Iris!"
+
+# game/day25.rpy:1226
+translate brazilian day25_i_sex_8809bb85:
+
+    # "{i}For a moment, Iris is annoyed when you pull out, but after you turn her on her side and you penetrate her again she lets out a small sigh of relief."
+    "{i}Por um momento, Iris fica irritada quando você tira seu pau, mas depois que você a vira de lado e a penetra novamente, ela solta um pequeno suspiro de alívio."
+
+# game/day25.rpy:1227
+translate brazilian day25_i_sex_d46ea59a:
+
+    # ir "Are you going to cum for me, [p_name]?"
+    ir "Você vai gozar para mim, [p_name]?"
+
+# game/day25.rpy:1228
+translate brazilian day25_i_sex_bce655a9:
+
+    # p "G-god yes Iris!"
+    p "D-deus sim, Iris!"
+
+# game/day25.rpy:1229
+translate brazilian day25_i_sex_ef490d67:
+
+    # "{i}Your hands dig into her soft flesh, and you fuck her even more passionately when you feel your orgasm approach."
+    "{i}Suas mãos cavam na carne macia dela e você a fode ainda mais apaixonadamente quando sente o orgasmo se aproximar."
+
+# game/day25.rpy:1240
+translate brazilian day25_i_sex_f5ee9209:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1241
+translate brazilian day25_i_sex_891c825e:
+
+    # "{i}As your cock erupts inside of her, Iris opens her legs slight further to allow you to shoot your seed even deeper inside of her."
+    "{i}Conforme seu pau explode dentro dela, Iris abre as pernas um pouco mais para permitir que você jorre sua semente ainda mais fundo dentro dela."
+
+# game/day25.rpy:1242
+translate brazilian day25_i_sex_62f76ee7:
+
+    # ir "Don't stop, ooooh! Mmmmmmm!"
+    ir "Não para, aaaaih! Mmmmm!"
+
+# game/day25.rpy:1257
+translate brazilian day25_i_sex_f5ee9209_1:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1258
+translate brazilian day25_i_sex_32c25792:
+
+    # "{i}After you pull out, your cock erupts and Iris directs the streams of cum towards herself, so as to allow your strands of semen to cover her body."
+    "{i}Depois de tirar seu pau, ele jorra e Iris direciona os jatos de esperma para si, para permitir que seus fios de sêmen cubram o corpo dela."
+
+# game/day25.rpy:1259
+translate brazilian day25_i_sex_b43b3ad9:
+
+    # ir "That's it, cover me with your cum, [p_name]!"
+    ir "Isso, me cobre com seu esperma, [p_name]!"
+
+# game/day25.rpy:1269
+translate brazilian day25_i_sex_ae79a827:
+
+    # "{i}Thoroughly spent, you lie with Iris for a while, her head resting on your chest."
+    "{i}Completamente cansado, você deita com Iris por um tempo, com a cabeça dela descansando em seu peito."
+
+# game/day25.rpy:1270
+translate brazilian day25_i_sex_6e5d107c:
+
+    # ir "I'm glad you came by for coffee."
+    ir "Estou feliz que você veio para um café."
+
+# game/day25.rpy:1271
+translate brazilian day25_i_sex_5f123bc2:
+
+    # p "As am I."
+    p "Assim como eu."
+
