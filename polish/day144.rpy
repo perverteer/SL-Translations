@@ -26,7 +26,7 @@ translate polish day144_choices_76999420:
 translate polish day144_choices_f8baedf8:
 
     # "{i}[b_name] is already there and the instant you look at her, your heart is beating even more heavily in your chest and you take a deep breath to muster some extra courage."
-    ""
+    "{i}[b_name] już tam jest, a gdy tylko na nią patrzysz, twoje serce bije jeszcze mocniej w klatce piersiowej i bierzesz głęboki oddech, aby zebrać trochę dodatkowej odwagi."
 
 # game/day144.rpy:60
 translate polish day144_choices_0a2be049:
@@ -584,7 +584,7 @@ translate polish day144_choices_73f70926:
 translate polish day144_choices_588177ca:
 
     # "{i}It almost looks as if your girlfriend is about to kick a fuzz, but the growing fury suddenly makes way for a happy smile."
-    ""
+    "{i}Wygląda to prawie tak, jakby twoja dziewczyna miała zaraz dostać kopa, ale narastająca wściekłość nagle ustępuje miejsca radosnemu uśmiechowi."
 
 # game/day144.rpy:221
 translate polish day144_choices_587d53a5:
@@ -650,7 +650,7 @@ translate polish day144_choices_73f70926_1:
 translate polish day144_choices_588177ca_1:
 
     # "{i}It almost looks as if your girlfriend is about to kick a fuzz, but the growing fury suddenly makes way for a happy smile."
-    ""
+    "{i}Wygląda to prawie tak, jakby twoja dziewczyna miała zaraz dostać kopa, ale narastająca wściekłość nagle ustępuje miejsca radosnemu uśmiechowi."
 
 # game/day144.rpy:241
 translate polish day144_choices_8cb9793f:
@@ -872,7 +872,7 @@ translate polish day144_choices_81c09e22:
 translate polish day144_choices_8c4da16f:
 
     # l "I'm going to have to share my wedding day with my friends..."
-    l ""
+    l "Będę musiał dzielić dzień ślubu z przyjaciółmi"
 
 # game/day144.rpy:312
 translate polish day144_choices_a0ae8e4f:
@@ -968,7 +968,7 @@ translate polish day144_choices_81c09e22_1:
 translate polish day144_choices_8c4da16f_1:
 
     # l "I'm going to have to share my wedding day with my friends..."
-    l ""
+    l "Będę musiał dzielić dzień ślubu z przyjaciółmi"
 
 # game/day144.rpy:343
 translate polish day144_choices_a0ae8e4f_1:
@@ -1016,7 +1016,7 @@ translate polish day144_choices_22298be3:
 translate polish day144_choices_ac34c87e:
 
     # "{i}Your girlfriend is already waiting at the pier, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoja dziewczyna już czeka na molo, a powaga chwili sprawia, że prawie się odwracasz."
 
 # game/day144.rpy:365
 translate polish day144_choices_2c9f9611:
@@ -1130,7 +1130,7 @@ translate polish day144_choices_eabf5a1b:
 translate polish day144_choices_e0c689e5:
 
     # "{i}You slip the ring around your girlfriend's finger and that's the moment when she can no longer contain herself and tears fill her eyes."
-    ""
+    "{i}Wsuwasz pierścionek na palec swojej dziewczyny i to jest moment, w którym nie może się już powstrzymać i łzy wypełniają jej oczy."
 
 # game/day144.rpy:395
 translate polish day144_choices_5916b6c1:
@@ -1226,7 +1226,7 @@ translate polish day144_choices_d2c77b7f:
 translate polish day144_choices_0cfdc12c:
 
     # "{i}You sit together with your girlfriend and bride-to-be for a long while, watching the ocean waves rolling upon the beach."
-    ""
+    "{i}Siedzisz razem ze swoją dziewczyną i przyszłą panną młodą przez długi czas, obserwując fale oceanu toczące się po plaży."
 
 # game/day144.rpy:424
 translate polish day144_choices_042f9c8b:
@@ -1364,7 +1364,7 @@ translate polish day144_choices_ed30f2be:
 translate polish day144_choices_5dae336e:
 
     # ir "So you've asked your friends as well?"
-    ir ""
+    ir "Więc zapytałeś też swoich przyjaciół?"
 
 # game/day144.rpy:459
 translate polish day144_choices_4d1130cb:
@@ -1694,7 +1694,7 @@ translate polish day144_choices_95cd0847:
 translate polish day144_choices_994eef7f:
 
     # ri "So you've asked your friends too?"
-    ri ""
+    ri "Więc zapytałeś też swoich przyjaciół?"
 
 # game/day144.rpy:553
 translate polish day144_choices_60c5d8ef:
@@ -2678,7 +2678,7 @@ translate polish day144_m_ir_sex_e930ff88:
 translate polish day144_m_ir_sex_de298dfc:
 
     # "{i}You girlfriend holds Iris' face in her hands and kisses her on the lips."
-    ""
+    "{i}Twoja dziewczyna trzyma twarz Iris w dłoniach i całuje ją w usta."
 
 # game/day144.rpy:859
 translate polish day144_m_ir_sex_de434ee5:
@@ -2726,7 +2726,7 @@ translate polish day144_m_ir_sex_d4d651b9:
 translate polish day144_m_ir_sex_a780a5d2:
 
     # "{i}Not waiting for her reply, [m_name] slips out of her dress as well and holds Iris in her arms again."
-    ""
+    "{i}Nie czekając na jej odpowiedź [m_name] również wyślizguje się z sukienki i ponownie trzyma Iris w ramionach."
 
 # game/day144.rpy:872
 translate polish day144_m_ir_sex_dde10b8b:
@@ -2774,7 +2774,7 @@ translate polish day144_m_ir_sex_f7343d65:
 translate polish day144_m_ir_sex_af7d2080:
 
     # "{i}As Iris cries out, you hear your other girlfriend work on her pussy."
-    ""
+    "{i}Kiedy Iris krzyczy, słyszysz, jak twoja druga dziewczyna pracuje nad jej cipką."
 
 # game/day144.rpy:887
 translate polish day144_m_ir_sex_727e0f6c:
@@ -2798,7 +2798,7 @@ translate polish day144_m_ir_sex_059c48a5:
 translate polish day144_m_ir_sex_0fa25f58:
 
     # "{i}You don't want to disturb [m_name] and Iris, because the sight is just too beautiful."
-    ""
+    "{i}Nie chcesz przeszkadzać [m_name] i Iris, ponieważ widok jest po prostu zbyt piękny."
 
 # game/day144.rpy:897
 translate polish day144_m_ir_sex_2296861d:
@@ -2822,7 +2822,7 @@ translate polish day144_m_ir_sex_0042c12a:
 translate polish day144_m_ir_sex_fe7cfb57:
 
     # "{i}With an intensity that borders on the fanatical, Iris works on your girlfriend."
-    ""
+    "{i}Z intensywnością graniczącą z fanatyzmem Iris pracuje nad twoją dziewczyną"
 
 # game/day144.rpy:904
 translate polish day144_m_ir_sex_e03144a0:
@@ -2852,7 +2852,7 @@ translate polish day144_m_ir_sex_d9e3f4be:
 translate polish day144_m_ir_sex_3d61d930:
 
     # "{i}It's impossible to jerk off without pausing, because seeing you friends enjoying themselves like that is arousing to no end."
-    ""
+    "{i}Niemożliwe jest walenie konia bez zatrzymywania się, ponieważ widok przyjaciół cieszących się w ten sposób jest podniecający do końca."
 
 # game/day144.rpy:911
 translate polish day144_m_ir_sex_6745df22:
@@ -2870,7 +2870,7 @@ translate polish day144_m_ir_sex_cb946f22:
 translate polish day144_m_ir_sex_4d556ca1:
 
     # "{i}Their legs intertwined, [m_name] rubs her bare pussy against Iris' slit."
-    ""
+    "{i}Ich splecione nogi [m_name] ocierają się jej nagą cipką o szczelinę Iris."
 
 # game/day144.rpy:920
 translate polish day144_m_ir_sex_eef5703b:
@@ -2894,7 +2894,7 @@ translate polish day144_m_ir_sex_d30ca001:
 translate polish day144_m_ir_sex_c0583f2b:
 
     # "{i}Iris is the first to reach climax, with [m_name] following just seconds later."
-    ""
+    "{i}Iris jako pierwsza osiągnęła punkt kulminacyjny, a [m_name] nastąpił zaledwie kilka sekund później."
 
 # game/day144.rpy:938
 translate polish day144_m_ir_sex_5d6ef160:
@@ -2912,7 +2912,7 @@ translate polish day144_m_ir_sex_dc833188:
 translate polish day144_m_ir_sex_b693e67a:
 
     # "{i}When both [m_name] and Iris rest in each other's arms, your cum starts shooting and you let it all splash to the floor while still jerking off."
-    ""
+    "{i}Kiedy zarówno [m_name], jak i Iris spoczywają w swoich ramionach, sperma zaczyna strzelać i pozwalasz jej rozpryskiwać się na podłogę, jednocześnie waląc konia."
 
 # game/day144.rpy:951
 translate polish day144_m_ir_sex_1e5f2713:
@@ -3014,7 +3014,7 @@ translate polish day144_b_sex_e8336f20:
 translate polish day144_b_sex_ed066ddb:
 
     # "{i}You walk your girlfriend to a part of the beach that offers a little more privacy."
-    ""
+    "{i}Odprowadzasz swoją dziewczynę do części plaży, która oferuje nieco więcej prywatności."
 
 # game/day144.rpy:983
 translate polish day144_b_sex_c2591b2d:
@@ -3056,7 +3056,7 @@ translate polish day144_b_sex_9c8f0237:
 translate polish day144_b_sex_1c9f2116:
 
     # "{i}Your girlfriend has noticed the bulge growing in your tight swimsuit."
-    ""
+    "{i}Twoja dziewczyna zauważyła rosnące wybrzuszenie w twoim obcisłym kostiumie kąpielowym."
 
 # game/day144.rpy:993
 translate polish day144_b_sex_30a9c912:
@@ -3164,7 +3164,7 @@ translate polish day144_b_sex_aab86e57:
 translate polish day144_b_sex_1c43637e:
 
     # "{i}The torrent hits your girlfriend right in the face and in her open mouth."
-    ""
+    "{i}Strumień uderza twoją dziewczynę prosto w twarz i w jej otwarte usta."
 
 # game/day144.rpy:1018
 translate polish day144_b_sex_a492c0fb:
@@ -3242,7 +3242,7 @@ translate polish day144_b_sex_9de17d9e:
 translate polish day144_b_sex_218fb5f2:
 
     # "{i}You decide to use the natural lubricant to give your girl's pussy the punishment it deserves."
-    ""
+    "{i}Decydujesz się użyć naturalnego lubrykantu, aby dać cipce swojej dziewczyny karę, na jaką zasługuje."
 
 # game/day144.rpy:1038
 translate polish day144_b_sex_71ff96f0:
@@ -3320,7 +3320,7 @@ translate polish day144_b_sex_275902ae:
 translate polish day144_b_sex_719f4469:
 
     # "{i}It's only then that you notice the man at a distance, stroking his cock and feasting his eyes on the way you're treating your girlfriend."
-    ""
+    "{i}Dopiero wtedy zauważasz mężczyznę z daleka, który głaszcze swojego kutasa i wpatruje się w sposób, w jaki traktujesz swoją dziewczynę."
 
 # game/day144.rpy:1061
 translate polish day144_b_sex_1ba38343:
@@ -3374,7 +3374,7 @@ translate polish day144_b_sex_7e8a29c3:
 translate polish day144_b_sex_26b0fbf4:
 
     # "{i}The man is now standing close to you, his erect cock still in his hand and he looks longingly at your girlfriend's naked body."
-    ""
+    "{i}Mężczyzna stoi teraz blisko ciebie, jego wyprostowany kutas wciąż jest w jego dłoni i patrzy z tęsknotą na nagie ciało twojej dziewczyny."
 
 # game/day144.rpy:1073
 translate polish day144_b_sex_5cecda2b:
@@ -3512,7 +3512,7 @@ translate polish day144_b_sex_a6212077:
 translate polish day144_b_sex_93ed656f:
 
     # "{i}The man still strokes his limping cock, but walks away when you've pulled out of your girlfriend."
-    ""
+    "{i}Mężczyzna nadal głaszcze swojego kulejącego kutasa, ale odchodzi, gdy wysuwasz się ze swojej dziewczyny."
 
 # game/day144.rpy:1121
 translate polish day144_b_sex_5628b1a6:
@@ -3542,7 +3542,7 @@ translate polish day144_b_sex_80d8155b:
 translate polish day144_b_sex_4842e348:
 
     # "{i}The man still strokes his limping cock, but walks away when your girl has licked the last drops of cum from the tip of your dick."
-    ""
+    "{i}Mężczyzna nadal głaszcze swojego kulejącego kutasa, ale odchodzi, gdy twoja dziewczyna zlizuje ostatnie krople spermy z czubka twojego kutasa."
 
 # game/day144.rpy:1138
 translate polish day144_b_sex_069ab892:
@@ -3572,7 +3572,7 @@ translate polish day144_b_sex_7c39f639:
 translate polish day144_b_sex_51acd7ea:
 
     # "{i}The man still strokes his limping cock, but walks away when your girl has received the entirety of your load."
-    ""
+    "{i}Mężczyzna nadal głaszcze swojego kulejącego kutasa, ale odchodzi, gdy twoja dziewczyna otrzymała cały twój ładunek."
 
 # game/day144.rpy:1156
 translate polish day144_b_sex_d8d76841:
@@ -3800,7 +3800,7 @@ translate polish day144_marriage_proposals_173c8973:
 translate polish day144_marriage_proposals_caa50d31:
 
     # "{i}Your girlfriends are already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoje koleżanki już czekają w altanie, a powaga chwili niemal zmusza cię do odwrócenia się."
 
 # game/day144.rpy:1239
 translate polish day144_marriage_proposals_5727c60a:
@@ -3812,7 +3812,7 @@ translate polish day144_marriage_proposals_5727c60a:
 translate polish day144_marriage_proposals_caa50d31_1:
 
     # "{i}Your girlfriends are already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoje koleżanki już czekają w altanie, a powaga chwili niemal zmusza cię do odwrócenia się."
 
 # game/day144.rpy:1260
 translate polish day144_marriage_proposals_173c8973_1:
@@ -3824,7 +3824,7 @@ translate polish day144_marriage_proposals_173c8973_1:
 translate polish day144_marriage_proposals_caa50d31_2:
 
     # "{i}Your girlfriends are already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoje koleżanki już czekają w altanie, a powaga chwili niemal zmusza cię do odwrócenia się."
 
 # game/day144.rpy:1273
 translate polish day144_marriage_proposals_5727c60a_1:
@@ -3836,7 +3836,7 @@ translate polish day144_marriage_proposals_5727c60a_1:
 translate polish day144_marriage_proposals_caa50d31_3:
 
     # "{i}Your girlfriends are already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoje koleżanki już czekają w altanie, a powaga chwili niemal zmusza cię do odwrócenia się."
 
 # game/day144.rpy:1277
 translate polish day144_marriage_proposals_eb782672:
@@ -4316,7 +4316,7 @@ translate polish day144_marriage_proposals_90ee796e:
 translate polish day144_marriage_proposals_9e2f3455:
 
     # "{i}Your girlfriend is already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoja dziewczyna już czeka w altanie, a powaga chwili sprawia, że prawie się odwracasz."
 
 # game/day144.rpy:1529
 translate polish day144_marriage_proposals_2241edd3:
@@ -4424,7 +4424,7 @@ translate polish day144_marriage_proposals_90ee796e_1:
 translate polish day144_marriage_proposals_9e2f3455_1:
 
     # "{i}Your girlfriend is already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoja dziewczyna już czeka w altanie, a powaga chwili sprawia, że prawie się odwracasz."
 
 # game/day144.rpy:1570
 translate polish day144_marriage_proposals_543ebdaf_1:
@@ -4562,7 +4562,7 @@ translate polish day144_marriage_proposals_90ee796e_2:
 translate polish day144_marriage_proposals_9e2f3455_2:
 
     # "{i}Your girlfriend is already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoja dziewczyna już czeka w altanie, a powaga chwili sprawia, że prawie się odwracasz."
 
 # game/day144.rpy:1613
 translate polish day144_marriage_proposals_eb782672_1:
@@ -4826,7 +4826,7 @@ translate polish day144_marriage_proposals_a130d224:
 translate polish day144_marriage_proposals_9e2f3455_3:
 
     # "{i}Your girlfriend is already waiting in the gazebo, the gravity of the moment nearly makes you turn around."
-    ""
+    "{i}Twoja dziewczyna już czeka w altanie, a powaga chwili sprawia, że prawie się odwracasz."
 
 # game/day144.rpy:1684
 translate polish day144_marriage_proposals_6c73f132:
@@ -4952,7 +4952,7 @@ translate polish day144_marriage_proposals_eabf5a1b:
 translate polish day144_marriage_proposals_e0c689e5:
 
     # "{i}You slip the ring around your girlfriend's finger and that's the moment when she can no longer contain herself and tears fill her eyes."
-    ""
+    "{i}Wsuwasz pierścionek na palec swojej dziewczyny i to jest moment, w którym nie może się już powstrzymać i łzy wypełniają jej oczy."
 
 # game/day144.rpy:1717
 translate polish day144_marriage_proposals_5916b6c1:
@@ -5000,7 +5000,7 @@ translate polish day144_marriage_proposals_d2c77b7f:
 translate polish day144_marriage_proposals_0cfdc12c:
 
     # "{i}You sit together with your girlfriend and bride-to-be for a long while, watching the ocean waves rolling upon the beach."
-    ""
+    "{i}Siedzisz razem ze swoją dziewczyną i przyszłą panną młodą przez długi czas, obserwując fale oceanu toczące się po plaży."
 
 # game/day144.rpy:1735
 translate polish day144_l_m_sex_492c0afa:
@@ -5012,7 +5012,7 @@ translate polish day144_l_m_sex_492c0afa:
 translate polish day144_l_m_sex_1d9d026d:
 
     # l "I love you so much, [m_name]."
-    l ""
+    l "Tak bardzo cię kocham [m_nazwisko]"
 
 # game/day144.rpy:1738
 translate polish day144_l_m_sex_766831ef:
@@ -5054,7 +5054,7 @@ translate polish day144_l_m_sex_0c04acd4:
 translate polish day144_l_m_sex_1127dd59:
 
     # l "[m_name], your hand is touching my pussy."
-    l ""
+    l "[m_name] twoja ręka dotyka mojej cipki"
 
 # game/day144.rpy:1747
 translate polish day144_l_m_sex_adeaa56c:
@@ -5072,7 +5072,7 @@ translate polish day144_l_m_sex_6c286dc0:
 translate polish day144_l_m_sex_48d55fac:
 
     # "{i}The older woman pulls at [l_name]'s bikini, who regards her friend a little fearfully, but lets it happen all the same."
-    ""
+    "{i}Starsza kobieta ciągnie za bikini [l_name], która patrzy na swoją przyjaciółkę z lekkim strachem, ale pozwala jej na to."
 
 # game/day144.rpy:1760
 translate polish day144_l_m_sex_2e601948:
@@ -5120,7 +5120,7 @@ translate polish day144_l_m_sex_80ddb28d:
 translate polish day144_l_m_sex_370995cb:
 
     # "{i}[m_name] fingers her friend and fondles her big breasts, working carefully on the sensitive nipples."
-    ""
+    "{i}[m_name] palcuje swoją przyjaciółkę i pieści jej duże piersi, pracując ostrożnie nad wrażliwymi sutkami."
 
 # game/day144.rpy:1779
 translate polish day144_l_m_sex_1e4e9ce9:
@@ -5144,7 +5144,7 @@ translate polish day144_l_m_sex_639957ed:
 translate polish day144_l_m_sex_3aeca262:
 
     # l "Please don't stop, [m_name]."
-    l ""
+    l "Proszę, nie zatrzymuj [m_nazwisko]"
 
 # game/day144.rpy:1786
 translate polish day144_l_m_sex_3586533a:
@@ -5174,7 +5174,7 @@ translate polish day144_l_m_sex_d0d070b4:
 translate polish day144_l_m_sex_cb291514:
 
     # "{i}[m_name] is circling around her friend's aroused clitoris with ever intensifying motions."
-    ""
+    "{i}[m_name] krąży wokół podnieconej łechtaczki swojej przyjaciółki, wykonując coraz intensywniejsze ruchy."
 
 # game/day144.rpy:1797
 translate polish day144_l_m_sex_9e260b63:
@@ -5198,7 +5198,7 @@ translate polish day144_l_m_sex_fb1fbafe:
 translate polish day144_l_m_sex_8466c70a:
 
     # "{i}Suddenly she moans and a stream of ejaculate squirts from her pussy, splashing over the older woman's hands."
-    ""
+    "{i}Nagle jęknęła, a strumień ejakulatu trysnął z jej cipki, rozpryskując się na dłoniach starszej kobiety."
 
 # game/day144.rpy:1807
 translate polish day144_l_m_sex_c6be0d2f:
@@ -5222,7 +5222,7 @@ translate polish day144_l_m_sex_ac2235d5:
 translate polish day144_l_m_sex_e968a0fb:
 
     # l "[m_name]! Oh [m_name]!"
-    l ""
+    l "[m_name]! Oh [m_name]!"
 
 # game/day144.rpy:1826
 translate polish day144_l_m_sex_3867b547:
@@ -5234,7 +5234,7 @@ translate polish day144_l_m_sex_3867b547:
 translate polish day144_l_m_sex_2f473242:
 
     # "{i}When [l_name] has regained control of her senses, she hungrily reaches for her [m_name]'s cunt."
-    ""
+    "{i}Kiedy [l_name] odzyskała kontrolę nad swoimi zmysłami, głodno sięgnęła po cipę [m_name]."
 
 # game/day144.rpy:1829
 translate polish day144_l_m_sex_d33e55e1:
@@ -5270,7 +5270,7 @@ translate polish day144_l_m_sex_9ed3d596:
 translate polish day144_l_m_sex_9df23fb0:
 
     # "{i}Slowly but surely [m_name] climbs the heights to ecstasy, her friend's fingers penetrating her pussy and massaging her clit."
-    ""
+    "{i}Powoli, ale pewnie [m_name] wspina się na wyżyny ekstazy, palce jej przyjaciela penetrują jej cipkę i masują łechtaczkę."
 
 # game/day144.rpy:1845
 translate polish day144_l_m_sex_47e6412c:
@@ -5300,7 +5300,7 @@ translate polish day144_l_m_sex_1381afea:
 translate polish day144_l_m_sex_620f8c77:
 
     # l "Oh [m_name], right there!"
-    l ""
+    l "Oh [m_name] właśnie tam!"
 
 # game/day144.rpy:1854
 translate polish day144_l_m_sex_3fe84450:
@@ -5318,7 +5318,7 @@ translate polish day144_l_m_sex_5c5fc73c:
 translate polish day144_l_m_sex_eea552ea:
 
     # "{i}[m_name] is fully focused on eating her friend out and influences the licking of her slit with subtle motions of her thighs."
-    ""
+    "{i}[m_name] jest w pełni skupiona na jedzeniu swojej przyjaciółki i wpływa na lizanie jej szczeliny subtelnymi ruchami ud."
 
 # game/day144.rpy:1861
 translate polish day144_l_m_sex_8bc7f232:
@@ -5336,7 +5336,7 @@ translate polish day144_l_m_sex_4f175239:
 translate polish day144_l_m_sex_cc429a85:
 
     # "{i}[l_name] convulses on top of the older woman, while [m_name] shudders and squirms on the ground, moaning uncontrollably."
-    ""
+    "{i}[l_name] drży na starszej kobiecie, podczas gdy [m_name] trzęsie się i wije na ziemi, jęcząc w niekontrolowany sposób."
 
 # game/day144.rpy:1875
 translate polish day144_l_m_sex_94f3bc01:
@@ -5408,7 +5408,7 @@ translate polish day144_b_night_sex_e2b4a898:
 translate polish day144_b_night_sex_b4d9bd15:
 
     # "{i}Because you're going so slow, you feel every contraction and irregularity of your girlfriend's cunt and it's heavenly."
-    ""
+    "{i}Ponieważ idziesz tak wolno, że czujesz każdy skurcz i nieregularność cipy swojej dziewczyny i to jest niebiańskie."
 
 # game/day144.rpy:1900
 translate polish day144_b_night_sex_7a05c4d1:
@@ -5468,7 +5468,7 @@ translate polish day144_b_night_sex_f10d1466:
 translate polish day144_b_night_sex_e0d86f1a:
 
     # "{i}While your girlfriend writhes, grinding herself on your cock, you climax too."
-    ""
+    "{i}Podczas gdy twoja dziewczyna wije się, ocierając się o twojego kutasa, ty też osiągasz punkt kulminacyjny."
 
 # game/day144.rpy:1931
 translate polish day144_b_night_sex_142d046b:
@@ -5523,4 +5523,126 @@ translate polish strings:
     # game/day144.rpy:1058
     old "Scare him off"
     new "Odstrasz go"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day144.rpy:342
+translate polish day144_choices_bce4e09d:
+
+    # l "I'm going to have to share my wedding day with my friend..."
+    l "Będę musiał dzielić dzień ślubu z moim przyjacielem"
+
+# game/day144.rpy:489
+translate polish day144_choices_b8eccef3:
+
+    # ir "No, Justin finally signed the divorce papers."
+    ir "Nie, Justin w końcu podpisał papiery rozwodowe"
+
+# game/day144.rpy:884
+translate polish day144_m_ir_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Czy [m_name] jest w ciąży w tej scenie?"
+
+# game/day144.rpy:888
+translate polish day144_m_ir_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] w ciąży"
+
+# game/day144.rpy:891
+translate polish day144_m_ir_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nie jest w ciąży"
+
+# game/day144.rpy:981
+translate polish day144_m_ir_sex_c35295fc:
+
+    # "{i}[m_name]'s head is planted between the other woman's legs and she kisses the moist lower lips hidden between Iris's thighs."
+    "{i}[m_name] kładzie głowę między nogami drugiej kobiety i całuje wilgotne dolne wargi ukryte między udami Iris."
+
+# game/day144.rpy:1017
+translate polish day144_m_ir_sex_6efd8e2e:
+
+    # "{i}It's impossible to jerk off without pausing, because seeing your friends enjoying themselves like that is arousing to no end."
+    "{i}Niemożliwe jest walenie konia bez zatrzymywania się, ponieważ widok przyjaciół cieszących się w ten sposób jest podniecający do końca."
+
+# game/day144.rpy:1100
+translate polish day144_b_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Czy chcesz włączyć sporty wodne w tej scenie?."
+
+# game/day144.rpy:1104
+translate polish day144_b_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Możliwość uprawiania sportów wodnych"
+
+# game/day144.rpy:1107
+translate polish day144_b_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sporty wodne wyłączone"
+
+# game/day144.rpy:1258
+translate polish day144_b_sex_b32af271:
+
+    # "{i}[b_name]'s cries are quickly transforming from unease to unbridled pleasure."
+    "{i}[b_name] krzyki szybko zmieniają się z niepokoju w niepohamowaną przyjemność"
+
+# game/day144.rpy:1571
+translate polish day144_marriage_proposals_4596fc27:
+
+    # p "You know I love both very much."
+    p "Wiesz, że bardzo kocham obu"
+
+# game/day144.rpy:1654
+translate polish day144_marriage_proposals_df1113b3:
+
+    # "{i}When they've both been given a ring, the girls smile with joy at you."
+    "{i}Kiedy oboje otrzymują pierścionek, dziewczyny uśmiechają się do ciebie z radością."
+
+# game/day144.rpy:1812
+translate polish day144_marriage_proposals_dfc4f0d0:
+
+    # l "Yes, I want to marry you!"
+    l "Tak, wyjdę za Ciebie!"
+
+# game/day144.rpy:1930
+translate polish day144_marriage_proposals_a137309d:
+
+    # m "Yes, my answer is yes!"
+    m "Tak, moja odpowiedź brzmi: tak!"
+
+# game/day144.rpy:1948
+translate polish day144_marriage_proposals_b65da9b8:
+
+    # m "You weren't afraid I'd find the concept of marriage old-fashioned?"
+    m "Nie bałeś się, że uznam koncepcję małżeństwa za staromodną?"
+
+# game/day144.rpy:2163
+translate polish day144_b_night_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Czy [b_name] jest w ciąży w tej scenie?."
+
+# game/day144.rpy:2167
+translate polish day144_b_night_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] w ciąży"
+
+# game/day144.rpy:2170
+translate polish day144_b_night_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nie jest w ciąży"
+
+# game/day144.rpy:2247
+translate polish day144_b_night_sex_61503c26:
+
+    # "{i}Warm cum flows inside her and as you pull out, it starts to ooze out of her slit."
+    "{i}Ciepła sperma płynie w jej wnętrzu, a kiedy ją wyciągasz, zaczyna wyciekać z jej szczeliny."
 

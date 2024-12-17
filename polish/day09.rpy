@@ -14,7 +14,7 @@ translate polish day09_f3fd6612:
 translate polish day09_6c752da1:
 
     # p "{i}(My beautiful, beautiful [r_name].)"
-    p ""
+    p "{i}(My beautiful beautiful [r_name])"
 
 # game/day09.rpy:36
 translate polish day09_c44bf7ff:
@@ -38,7 +38,7 @@ translate polish day09_cfe50551:
 translate polish day09_2e81539e:
 
     # p "Morning, [r_name]."
-    p ""
+    p "Morning [r_name]"
 
 # game/day09.rpy:46
 translate polish day09_021c796b:
@@ -74,7 +74,7 @@ translate polish day09_828eb3a1:
 translate polish day09_fda8ac72:
 
     # r "You know I like your kisses, [p_name]."
-    r ""
+    r "Wiesz, że lubię twoje pocałunki [p_name]"
 
 # game/day09.rpy:55
 translate polish day09_418563eb:
@@ -764,7 +764,7 @@ translate polish day09_p_room_choices_ecc1b5d9:
 translate polish day09_p_room_choices_99d8b7ca:
 
     # br "He is also a friend of my fiancee-to-be."
-    br ""
+    br "Jest także przyjacielem mojego przyszłego narzeczonego"
 
 # game/day09.rpy:241
 translate polish day09_p_room_choices_c6cd6f99:
@@ -866,7 +866,7 @@ translate polish day09_p_room_choices_6df6ca0c:
 translate polish day09_p_room_choices_2122e403:
 
     # p "Brody and [l_name] are going to get engaged real soon and I don't think he's right for her. His temper, the way he treats her..."
-    p ""
+    p "Brody i [l_name] wkrótce się zaręczą i nie sądzę, żeby był dla niej odpowiedni ze względu na sposób, w jaki ją traktuje."
 
 # game/day09.rpy:274
 translate polish day09_p_room_choices_de0631f7:
@@ -884,7 +884,7 @@ translate polish day09_p_room_choices_4983513b:
 translate polish day09_p_room_choices_396a53c7:
 
     # ri "Normally I would say you were an overbearing bastard who shouldn't meddle with a girl's life."
-    ri ""
+    ri "Normalnie powiedziałabym, że jesteś apodyktycznym draniem, który nie powinien wtrącać się w życie dziewczyny."
 
 # game/day09.rpy:282
 translate polish day09_p_room_choices_654f382e:
@@ -932,7 +932,7 @@ translate polish day09_p_room_choices_219da4ea:
 translate polish day09_p_room_choices_b54a5070:
 
     # ri "Or rather, I'm going to help [l_name]."
-    ri ""
+    ri "A raczej pomogę [l_name]"
 
 # game/day09.rpy:294
 translate polish day09_p_room_choices_495b4aba:
@@ -1358,7 +1358,7 @@ translate polish day09_p_room_choices_ca00361d:
 translate polish day09_p_room_choices_4fd61601:
 
     # p "Hey Riley? I have an appointment with my roommates. Would it be all right if I stepped out during lunch for a while?"
-    p ""
+    p "Hej Riley? Mam spotkanie z moimi współlokatorami. Czy mogę wyjść na chwilę podczas lunchu?"
 
 # game/day09.rpy:402
 translate polish day09_p_room_choices_42f716f3:
@@ -1394,7 +1394,7 @@ translate polish day09_p_room_choices_b457bc51:
 translate polish day09_p_room_choices_6205eb1a:
 
     # "{i}Around lunch time you leave the house to meet [r_name] and [l_name] at the mall."
-    ""
+    "{i}W porze lunchu wychodzisz z domu, aby spotkać się z [r_name] i [l_name] w centrum handlowym."
 
 # game/day09.rpy:424
 translate polish day09_p_room_choices_a4ffee6e:
@@ -1412,7 +1412,7 @@ translate polish day09_shopping_3eca19b2:
 translate polish day09_shopping_30af91b8:
 
     # "{i}You arrive at the mall where [r_name] and [l_name] are already waiting for you."
-    ""
+    "{i}Przybywasz do centrum handlowego, gdzie [r_name] i [l_name] już na ciebie czekają."
 
 # game/day09.rpy:434
 translate polish day09_shopping_9dbbcbd1:
@@ -1526,7 +1526,7 @@ translate polish day09_r_l_shopping_choices_c8018348:
 translate polish day09_r_l_shopping_choices_0b832207:
 
     # "{i}Together with [r_name], you roam the shop and find some nice clothes for [l_name]."
-    ""
+    "{i}Razem z [r_name] chodzisz po sklepie i znajdujesz fajne ubrania dla [l_name]."
 
 # game/day09.rpy:474
 translate polish day09_r_l_shopping_choices_ad10cd7f:
@@ -1544,7 +1544,7 @@ translate polish day09_r_l_shopping_choices_7ae238d3:
 translate polish day09_r_l_shopping_choices_d98a3e1d:
 
     # "{i}You roam the shop and find some nice clothes for [l_name]."
-    ""
+    "{i}Chodzisz po sklepie i znajdujesz ładne ubrania dla [l_name]."
 
 # game/day09.rpy:480
 translate polish day09_r_l_shopping_choices_3b77ca73:
@@ -1616,7 +1616,7 @@ translate polish day09_r_l_shopping_choices_c672e3d0:
 translate polish day09_r_l_shopping_choices_c4490de6:
 
     # r "Wow, [l_name]. That's super hot."
-    r ""
+    r "Wow [l_name] To jest super gorące"
 
 # game/day09.rpy:503
 translate polish day09_r_l_shopping_choices_d8ceac2e:
@@ -1826,7 +1826,7 @@ translate polish day09_r_l_shopping_choices_851be25d:
 translate polish day09_r_l_shopping_choices_845c1293:
 
     # p "{i}(Fuck yeah, [l_name]!)"
-    p ""
+    p "{i}(Fuck yeah [l_name]!)"
 
 # game/day09.rpy:571
 translate polish day09_r_l_shopping_choices_2861d12d:
@@ -1928,7 +1928,7 @@ translate polish day09_r_l_shopping_choices_d08d9e95:
 translate polish day09_r_l_shopping_choices_e2f96942:
 
     # "{i}As soon as you have [l_name] in your arms she starts sobbing uncontrollably."
-    ""
+    "{i}Gdy tylko trzymasz [l_name] w ramionach, zaczyna niekontrolowanie szlochać."
 
 # game/day09.rpy:598
 translate polish day09_r_l_shopping_choices_bd504f1a:
@@ -2054,7 +2054,7 @@ translate polish day09_r_l_shopping_choices_aadaa1d7:
 translate polish day09_r_l_shopping_choices_f354e49b:
 
     # p "Something is obviously wrong and I'm your friend, so I'd like to know."
-    p ""
+    p "Coś jest nie tak, a ja jestem twoim przyjacielem, więc chciałbym wiedzieć."
 
 # game/day09.rpy:630
 translate polish day09_r_l_shopping_choices_46431ec4:
@@ -2372,7 +2372,7 @@ translate polish day09_r_l_shopping_choices_f68771f8:
 translate polish day09_r_l_shopping_choices_cbd2cf7f:
 
     # r "Oh... er... This is [l_name] and [p_name]."
-    r ""
+    r "Oh er To jest [l_name] i [p_name]"
 
 # game/day09.rpy:735
 translate polish day09_r_l_shopping_choices_c352a0f0:
@@ -2498,7 +2498,7 @@ translate polish day09_r_l_shopping_choices_12530b3e:
 translate polish day09_r_l_shopping_choices_824558b8:
 
     # p "Besides, it's [r_name]'s holiday."
-    p ""
+    p "Poza tym to święto [r_name]"
 
 # game/day09.rpy:770
 translate polish day09_r_l_shopping_choices_92257cde:
@@ -2510,7 +2510,7 @@ translate polish day09_r_l_shopping_choices_92257cde:
 translate polish day09_r_l_shopping_choices_2821d5ae:
 
     # er "My my, your friend has quite strong opinions about matters, it seems."
-    er ""
+    er "Wygląda na to, że twój przyjaciel ma dość zdecydowane poglądy na różne sprawy."
 
 # game/day09.rpy:773
 translate polish day09_r_l_shopping_choices_b9b755e5_1:
@@ -2534,7 +2534,7 @@ translate polish day09_r_l_shopping_choices_76ac05af:
 translate polish day09_r_l_shopping_choices_76ac05af_1:
 
     # er "Well now, have a nice day you three. See you next semester, [r_name]."
-    er ""
+    er "No dobrze, życzę wam miłego dnia. Widzimy się na początku semestru Rachel."
 
 # game/day09.rpy:786
 translate polish day09_r_l_shopping_choices_61cbe077:
@@ -2588,7 +2588,7 @@ translate polish day09_r_l_shopping_choices_8bd688f7:
 translate polish day09_r_l_shopping_choices_fae5a161:
 
     # "{i}You say goodbye to the girls and go back to your job at the supermarket where the day passes uneventfully."
-    ""
+    "{i}Żegnasz się z dziewczynami i wracasz do pracy w supermarkecie, gdzie dzień mija spokojnie."
 
 # game/day09.rpy:803
 translate polish day09_r_l_shopping_choices_2f92fd25:
@@ -2792,7 +2792,7 @@ translate polish day09_p_room_evening_5f803dea:
 translate polish day09_p_room_evening_f2f384fe:
 
     # p "One of my friends is being blackmailed."
-    p ""
+    p "Jeden z moich przyjaciół jest szantażowany"
 
 # game/day09.rpy:871
 translate polish day09_p_room_evening_39fcb4be:
@@ -2900,7 +2900,7 @@ translate polish day09_p_room_evening_d7d4b9f0:
 translate polish day09_p_room_evening_108fca6c:
 
     # p "She's still my friend, so if anyone is going to see her naked it should be me, not some blackmailer who's afraid to even collect the money in person."
-    p ""
+    p "Wciąż jest moją przyjaciółką, więc jeśli ktoś ma zobaczyć ją nago, to powinienem to być ja, a nie jakiś szantażysta, który boi się nawet odebrać pieniądze osobiście."
 
 # game/day09.rpy:894
 translate polish day09_p_room_evening_f272fc68:
@@ -3404,7 +3404,7 @@ translate polish day09_r_kisses_upper_993e3070:
 translate polish day09_r_kisses_upper_36cff072:
 
     # "{i}As you kiss [r_name]'s small breasts you feel her nipples stiffen."
-    ""
+    "{i}Gdy całujesz małe piersi [r_name], czujesz, że jej sutki sztywnieją."
 
 # game/day09.rpy:1042
 translate polish day09_r_kisses_upper_c19b4c49:
@@ -3482,7 +3482,7 @@ translate polish day09_r_kisses_lower_0c698962:
 translate polish day09_r_kisses_lower_18cc844a:
 
     # "{i}You feel her muscles tighten as you caress her with your mouth. The sweet scent of [r_name]'s skin is almost overwhelming."
-    ""
+    "{i}Czujesz, jak napinają się jej mięśnie, gdy pieścisz ją ustami Słodki zapach skóry [r_name] jest niemal przytłaczający."
 
 # game/day09.rpy:1079
 translate polish day09_r_kisses_lower_422fa291:
@@ -3633,7 +3633,7 @@ translate polish day09_r_kisses_lower_84236292:
 translate polish day09_r_kisses_lower_06512e03:
 
     # "{i}[r_name] falls asleep very quickly. And soon you only hear her soft breath and the soft beating of her heart."
-    ""
+    "{i}[r_name] zasypia bardzo szybko I wkrótce słyszysz tylko jej cichy oddech i delikatne bicie jej serca."
 
 # game/day09.rpy:1136
 translate polish day09_r_kisses_lower_760a8fc5:
@@ -3717,7 +3717,7 @@ translate polish day09_r_kisses_lower_7078a4e9:
 translate polish day09_r_kisses_lower_50a11463:
 
     # "{i}You see a glimmer of hesitation in [l_name]'s eyes when you move closer to her."
-    ""
+    "{i}Widzisz błysk wahania w oczach [l_name], gdy zbliżasz się do niej."
 
 # game/day09.rpy:1176
 translate polish day09_r_kisses_lower_b8f8c050:
@@ -4077,205 +4077,215 @@ translate polish strings:
     old "Let go"
     new "Odpuść"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day09.rpy:61
+# game/day09.rpy:62
 translate polish day09_0aaadf0d:
 
     # "{i}When your lips meet, her mouth opens slightly, inviting your tongue. A little hesitantly, you caress each other with the tip of your tongues."
-    "{i}Gdy wasze usta się spotykają jej usta otwierają się lekko zapraszając twój język Trochę niepewnie pieścicie się nawzajem czubkami języków."
+    "{i}Kiedy Wasze wargi się stykają, Rachel rozwiera delikatnie usta zapraszając Twój język do środka. Z małą dozą niepewności, zaczynacie łaskotać się czubkami waszych języków."
 
-# game/day09.rpy:67
+# game/day09.rpy:68
 translate polish day09_976e5457:
 
     # r "{i}(Every time we kiss, I feel like I'm floating.)"
-    r "{i}(Za każdym razem, gdy się całujemy, czuję, że się unoszę)"
+    r "{i}(Za każdym razem gdy się całujemy, czuję się jakbym unosiła się w powietrzu.)"
 
-# game/day09.rpy:83
+# game/day09.rpy:85
 translate polish day09_4458ac3a:
 
     # woman "Good morning, Mr. Holmes."
-    woman "Dzień dobry panie Holmes"
+    woman "Dzień dobry panie Holmes."
 
-# game/day09.rpy:108
+# game/day09.rpy:110
 translate polish day09_5f7c826f:
 
     # woman "I'm afraid I have bad news. Based on the results of the test, we cannot accept you as our client."
-    woman "Obawiam się, że mam złe wieści Na podstawie wyników testu nie możemy przyjąć Pana jako naszego klienta"
+    woman "Obawiam się, że mam złe wieści. Bazując na wynikach testu, nie możemy zaakceptować pana jako naszego klient."
 
-# game/day09.rpy:131
+# game/day09.rpy:133
 translate polish day09_87ae354c:
 
     # p "Later, man."
-    p "Późniejszy człowiek"
+    p "Do zobaczenia."
 
-# game/day09.rpy:205
+# game/day09.rpy:210
 translate polish day09_p_room_choices_948dd34b:
 
     # l "You have a job, [p_name]?"
-    l "Masz pracę [p_name]?"
+    l "Znalazłeś pracę [p_name]?"
 
-# game/day09.rpy:214
+# game/day09.rpy:219
 translate polish day09_p_room_choices_d465d937:
 
     # r "What do you think, [l_name]?"
-    r "Co sądzisz [l_name]?"
+    r "Co o tym myślisz Liza?"
 
-# game/day09.rpy:240
+# game/day09.rpy:248
 translate polish day09_p_room_choices_763b32d8:
 
     # br "He is also a friend of my fiancée-to-be."
-    br "Jest również przyjacielem mojej przyszłej narzeczonej"
+    br "Jest także przyjacielem mojej przyszłej narzeczonej"
 
-# game/day09.rpy:266
+# game/day09.rpy:274
 translate polish day09_p_room_choices_1d1839d3:
 
     # p "Shit, I'm sorry, Riley."
-    p "Cholera przepraszam Riley"
+    p "Cholera, przepraszam Riley."
 
-# game/day09.rpy:282
+# game/day09.rpy:290
 translate polish day09_p_room_choices_608dc46e:
 
     # ri "But in this case, I wholeheartedly agree with you. Nobody should be engaged to that cheating fuck-wad."
-    ri "Ale w tym przypadku z całego serca się z Tobą zgadzam Nikt nie powinien być zaręczony z tym zdradzającym skurwielem"
+    ri "Ale w tym wypadku, w pełni się z Tobą zgadzam. Nikt nie powinien być zaręczony z tą kłamliwą pizdą."
 
-# game/day09.rpy:367
+# game/day09.rpy:375
 translate polish day09_p_room_choices_cc9435cc:
 
     # "{i}Not long after you resume your work, Brody comes back from his mysterious appointment and locks himself up in his office again."
-    "{i}Niedługo po wznowieniu pracy Brody wraca z tajemniczego spotkania i znów zamyka się w swoim gabinecie."
+    "{i}Niedługo po tym jak wznawiacie pracę, Brody wraca ze swojego tajemniczego spotkania i ponownie zamyka się w swoim biurze."
 
-# game/day09.rpy:411
+# game/day09.rpy:421
 translate polish day09_p_room_choices_2561383d:
 
     # "{i}After a hard day's work, you go back home."
-    "{i}Po ciężkim dniu pracy wracasz do domu"
+    "{i}Po ciężkim dniu pracy wracasz do domu."
 
-# game/day09.rpy:489
-translate polish day09_r_l_shopping_choices_4bb300c2:
-
-    # l "Really, these clothes don't suit me, guys."
-    l "Naprawdę te ubrania nie pasują mi do facetów."
-
-# game/day09.rpy:533
-translate polish day09_r_l_shopping_choices_1229de6b:
-
-    # r "Yay! Thank you, [p_name]."
-    r "Yay! Dziękuję [p_name]"
-
-# game/day09.rpy:537
-translate polish day09_r_l_shopping_choices_1229de6b_1:
-
-    # r "Yay! Thank you, [p_name]."
-    r "Yay! Dziękuję [p_name]"
-
-# game/day09.rpy:551
-translate polish day09_r_l_shopping_choices_41ce3c3d:
-
-    # p "{i}(Maybe if [r_name] is busy trying on clothes, I can have a moment alone with her.)"
-    p "{i}(Może jeśli [r_name] jest zajęta przymierzaniem ubrań mogę mieć z nią chwilę sam na sam)"
-
-# game/day09.rpy:676
-translate polish day09_r_l_shopping_choices_d54f2e28:
-
-    # r "Well, I like it and I'm buying it even if you don't like it."
-    r "Cóż, podoba mi się i kupuję go nawet jeśli tobie się nie podoba"
-
-# game/day09.rpy:678
-translate polish day09_r_l_shopping_choices_a391c6dd:
-
-    # r "Well, I like it and I'm buying it."
-    r "No to mi się podoba i kupuję"
-
-# game/day09.rpy:697
-translate polish day09_r_l_shopping_choices_1229de6b_2:
-
-    # r "Yay! Thank you, [p_name]."
-    r "Yay! Dziękuję [p_name]"
-
-# game/day09.rpy:701
-translate polish day09_r_l_shopping_choices_1229de6b_3:
-
-    # r "Yay! Thank you, [p_name]."
-    r "Yay! Dziękuję [p_name]"
-
-# game/day09.rpy:724
-translate polish day09_r_l_shopping_choices_81e82e44:
-
-    # r "She works at my university and she's a total bitch."
-    r "Ona pracuje na mojej uczelni i jest totalną suką"
-
-# game/day09.rpy:738
-translate polish day09_r_l_shopping_choices_d042551b:
-
-    # er "Are you using the holidays for extra studying like we discussed, [r_name]?"
-    er "Czy wykorzystujesz wakacje na dodatkową naukę, tak jak to omawialiśmy [r_name]?"
-
-# game/day09.rpy:786
-translate polish day09_r_l_shopping_choices_0e4a0c34:
-
-    # r "Bye, Mrs. Steel."
-    r "Bye Mrs Steel"
-
-# game/day09.rpy:799
-translate polish day09_r_l_shopping_choices_712fea64:
-
-    # "{i}You say goodbye to your sisters and go back to your job at the supermarket, where the day passes uneventfully."
-    "{i}Żegnasz się z siostrami i wracasz do swojej pracy w supermarkecie, gdzie dzień mija nierówno"
-
-# game/day09.rpy:801
-translate polish day09_r_l_shopping_choices_f5cff1c7:
-
-    # "{i}You say goodbye to the girls and go back to your job at the supermarket, where the day passes uneventfully."
-    "{i}Żegnasz się z dziewczynami i wracasz do swojej pracy w supermarkecie, gdzie dzień mija niespokojnie"
-
-# game/day09.rpy:803
-translate polish day09_r_l_shopping_choices_d2562601:
-
-    # "{i}You each go home, where you spend time in your room until the evening."
-    "{i}Każdy z was wraca do domu, gdzie spędza czas w swoim pokoju do wieczora"
-
-# game/day09.rpy:848
-translate polish day09_p_room_evening_943aa4bf:
-
-    # j "With all the questions they were asking you, it's probably going to be interesting."
-    j "Z tymi wszystkimi pytaniami, które ci zadawali to pewnie będzie ciekawie"
-
-# game/day09.rpy:908
-translate polish day09_p_room_evening_40ed9826:
-
-    # p "According to [b_name], his name is Dwayne and he's a regular at the coffeeshop where she works."
-    p "Według [b_name] ma na imię Dwayne i jest stałym bywalcem coffeeshopu, w którym ona pracuje"
-
-# game/day09.rpy:959
-translate polish day09_p_room_evening_d82138ea:
-
-    # "{i}After the phone call, you rent a suit for James online, to be delivered tomorrow at his doorstep."
-    "{i}Po rozmowie telefonicznej wynajmujesz online garnitur dla Jamesa, który ma być dostarczony jutro pod jego drzwi"
-
-# game/day09.rpy:987
-translate polish day09_p_room_evening_choices_6f80fc51:
-
-    # r "Say, [p_name]..."
-    r "Powiedz [p_name]"
-
-# game/day09.rpy:1166
-translate polish day09_r_kisses_lower_d3037eba:
-
-    # "{i}When you let go of her, you each stare directly into each other's eyes."
-    "{i}Kiedy puszczasz ją, każde z was patrzy sobie prosto w oczy."
-
-# game/day09.rpy:1256
-translate polish day09_maid_a62516ba:
-
-    # "{i}“The effect was marvelous! Alice plunged wildly under me with tumultuous quiverings, her bosom palpitating and fluttering: 'Ah! ... Ah! ...' she ejaculated, evidently a prey to uncontrollable sexual cravings!”"
-    "{i}“Efekt był cudowny! Alicja zanurzyła się pode mną dziko, z burzliwymi drgawkami, jej łono kołatało i trzepotało: 'Ah! Ah!' ejakulowała ewidentnie jako ofiara niekontrolowanych seksualnych pragnień!“"# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day09.rpy:488
+# game/day09.rpy:502
 translate polish day09_r_l_shopping_choices_fedcbc1a:
 
     # "{i}Reluctantly, [l_name] disappears into the booth."
-    "{i}Niechętnie [l_name] znika w kabinie."
->>>>>>> polish
+    "{i}Lisa niechętnie znika ponownie w przymierzalni."
+
+# game/day09.rpy:503
+translate polish day09_r_l_shopping_choices_4bb300c2:
+
+    # l "Really, these clothes don't suit me, guys."
+    l "Naprawdę, te ciuchy kompletnie do mnie nie pasują."
+
+# game/day09.rpy:547
+translate polish day09_r_l_shopping_choices_1229de6b:
+
+    # r "Yay! Thank you, [p_name]."
+    r "Yay! Dziękuję Ci [p_name]."
+
+# game/day09.rpy:551
+translate polish day09_r_l_shopping_choices_1229de6b_1:
+
+    # r "Yay! Thank you, [p_name]."
+    r "Yay! Dziękuję Ci [p_name]."
+
+# game/day09.rpy:565
+translate polish day09_r_l_shopping_choices_41ce3c3d:
+
+    # p "{i}(Maybe if [r_name] is busy trying on clothes, I can have a moment alone with her.)"
+    p "{i}(Może jeśli Rachel będzie zajęta przymierzaniem, to będę miał chwilę sam na sam, żeby zapytać.)"
+
+# game/day09.rpy:690
+translate polish day09_r_l_shopping_choices_d54f2e28:
+
+    # r "Well, I like it and I'm buying it even if you don't like it."
+    r "Cóż, mi się podoba, więc go kupię, nawet jeśli wam się nie podoba."
+
+# game/day09.rpy:692
+translate polish day09_r_l_shopping_choices_a391c6dd:
+
+    # r "Well, I like it and I'm buying it."
+    r "Cóż, mi się podoba, więc go kupię."
+
+# game/day09.rpy:711
+translate polish day09_r_l_shopping_choices_1229de6b_2:
+
+    # r "Yay! Thank you, [p_name]."
+    r "Yay! Dziękuję Ci [p_name]."
+
+# game/day09.rpy:715
+translate polish day09_r_l_shopping_choices_1229de6b_3:
+
+    # r "Yay! Thank you, [p_name]."
+    r "Yay! Dziękuję Ci [p_name]."
+
+# game/day09.rpy:738
+translate polish day09_r_l_shopping_choices_81e82e44:
+
+    # r "She works at my university and she's a total bitch."
+    r "Pracuje na moim uniwersytecie i jest totalną suką"
+
+# game/day09.rpy:752
+translate polish day09_r_l_shopping_choices_d042551b:
+
+    # er "Are you using the holidays for extra studying like we discussed, [r_name]?"
+    er "Czy wykorzystujesz wakacje na dodatkową naukę, tak jak rozmawialiśmy o [r_name]?."
+
+# game/day09.rpy:800
+translate polish day09_r_l_shopping_choices_0e4a0c34:
+
+    # r "Bye, Mrs. Steel."
+    r "Do widzenia pani Steel."
+
+# game/day09.rpy:815
+translate polish day09_r_l_shopping_choices_712fea64:
+
+    # "{i}You say goodbye to your sisters and go back to your job at the supermarket, where the day passes uneventfully."
+    "{i}Żegnasz się ze swoimi siostrami i wracasz do pracy w markecie, gdzie reszta dnia mija Ci bez rewelacji."
+
+# game/day09.rpy:817
+translate polish day09_r_l_shopping_choices_f5cff1c7:
+
+    # "{i}You say goodbye to the girls and go back to your job at the supermarket, where the day passes uneventfully."
+    "{i}Żegnasz się z dziewczynami i wracasz do pracy w supermarkecie, gdzie dzień mija spokojnie."
+
+# game/day09.rpy:819
+translate polish day09_r_l_shopping_choices_d2562601:
+
+    # "{i}You each go home, where you spend time in your room until the evening."
+    "{i}Każdy z was wraca do domu, gdzie spędza czas w swoim pokoju aż do wieczora."
+
+# game/day09.rpy:867
+translate polish day09_p_room_evening_943aa4bf:
+
+    # j "With all the questions they were asking you, it's probably going to be interesting."
+    j "Biorąc pod uwagę jakie pytania zadawali, pewnie będzie ciekawie."
+
+# game/day09.rpy:927
+translate polish day09_p_room_evening_40ed9826:
+
+    # p "According to [b_name], his name is Dwayne and he's a regular at the coffeeshop where she works."
+    p "Bella mówi, że nazywa się Dwayne i jest stałym klientem w jej kawiarni."
+
+# game/day09.rpy:978
+translate polish day09_p_room_evening_d82138ea:
+
+    # "{i}After the phone call, you rent a suit for James online, to be delivered tomorrow at his doorstep."
+    "{i}Po rozmowie wypożyczasz przez internet garnitur dla Jamesa, powinni go dostarczyć jutro, do jego domu."
+
+# game/day09.rpy:1009
+translate polish day09_p_room_evening_choices_6f80fc51:
+
+    # r "Say, [p_name]..."
+    r "[p_name] powiedz..."
+
+# game/day09.rpy:1189
+translate polish day09_r_kisses_lower_d3037eba:
+
+    # "{i}When you let go of her, you each stare directly into each other's eyes."
+    "{i}Kiedy ją puszczasz, patrzycie sobie prosto w oczy."
+
+# game/day09.rpy:1268
+translate polish day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Susan pewnie wróci późno...)"
+
+# game/day09.rpy:1274
+translate polish day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Pora porządnie się wyspać.)"
+
+# game/day09.rpy:1327
+translate polish day09_maid_a62516ba:
+
+    # "{i}“The effect was marvelous! Alice plunged wildly under me with tumultuous quiverings, her bosom palpitating and fluttering: 'Ah! ... Ah! ...' she ejaculated, evidently a prey to uncontrollable sexual cravings!”"
+    "{i}Efekt był cudowny! Alice zanurzyła się dziko pode mną z burzliwymi drżeniami, a jej piersi kołatały i trzepotały: 'Ach! Ach!' wytrysnęła najwyraźniej ofiarą niekontrolowanych pragnień seksualnych!."
+

@@ -1100,7 +1100,7 @@ translate polish day23_r_flashback_post_c4884906:
 translate polish day23_r_flashback_post_6d5065b3:
 
     # "{i}Without waiting for an answer, your girl probes the liquid with her tongue."
-    ""
+    "{i}Nie czekając na odpowiedź, twoja dziewczyna bada płyn językiem."
 
 # game/day23.rpy:360
 translate polish day23_r_flashback_post_2957ed9b:
@@ -1226,7 +1226,7 @@ translate polish day23_r_flashback_post_cb7f19ad:
 translate polish day23_r_flashback_post_99a401dc:
 
     # "Smiling at you, your friend slowly opens the box to reveal its contents."
-    ""
+    "Uśmiechając się do ciebie, twój przyjaciel powoli otwiera pudełko, aby ujawnić jego zawartość."
 
 # game/day23.rpy:413
 translate polish day23_r_flashback_post_7a7c68ab:
@@ -2012,7 +2012,7 @@ translate polish day23_m_restaurant_primary_choices_7847c8e6:
 translate polish day23_m_restaurant_primary_choices_ebe0c9ba:
 
     # m "True. When I was younger I went to the theater quite regularly."
-    m ""
+    m "Prawda Kiedy byłem młodszy, regularnie chodziłem do teatru"
 
 # game/day23.rpy:620
 translate polish day23_m_restaurant_primary_choices_a53bb873:
@@ -2204,7 +2204,7 @@ translate polish day23_m_restaurant_primary_choices_c5dbef18:
 translate polish day23_m_restaurant_primary_choices_f6c75dff:
 
     # p "I propose a toast to you then, the woman I've always missed in my life until now."
-    p ""
+    p "Proponuję toast za kobietę, której zawsze brakowało w moim życiu, aż do teraz."
 
 # game/day23.rpy:667
 translate polish day23_m_restaurant_primary_choices_49ae5915:
@@ -2234,7 +2234,7 @@ translate polish day23_m_restaurant_secondary_choices_fdeb36b5:
 translate polish day23_m_restaurant_secondary_choices_049f9540:
 
     # p "I'm still so glad you invited me at my dad's funeral."
-    p ""
+    p "Nadal cieszę się, że zaprosiłeś mnie na pogrzeb mojego taty."
 
 # game/day23.rpy:682
 translate polish day23_m_restaurant_secondary_choices_15319e85:
@@ -2378,61 +2378,61 @@ translate polish day23_m_restaurant_secondary_choices_34a7e18e:
 translate polish day23_m_restaurant_secondary_choices_39d5ceb9:
 
     # m "You could've easily said no."
-    m ""
+    m "Mogłeś z łatwością powiedzieć nie"
 
 # game/day23.rpy:713
 translate polish day23_m_restaurant_secondary_choices_2f6279fe:
 
     # p "{i}(Why would I say no to living in a house full of beautiful women?)"
-    p ""
+    p "{i}(Dlaczego miałbym odmówić życia w domu pełnym pięknych kobiet?)"
 
 # game/day23.rpy:714
 translate polish day23_m_restaurant_secondary_choices_b7e4c4c1:
 
     # p "True, but it was an offer I just couldn't refuse."
-    p ""
+    p "To prawda, ale była to oferta, której nie mogłem odrzucić."
 
 # game/day23.rpy:715
 translate polish day23_m_restaurant_secondary_choices_48b32cc6:
 
     # m "I'm really happy you didn't."
-    m ""
+    m "Naprawdę się cieszę, że tego nie zrobiłeś"
 
 # game/day23.rpy:716
 translate polish day23_m_restaurant_secondary_choices_b3ffb2ad:
 
     # p "It's all working out, isn't it?"
-    p ""
+    p "Wszystko się układa, prawda?"
 
 # game/day23.rpy:717
 translate polish day23_m_restaurant_secondary_choices_92c93223:
 
     # p "The house is so nice and the girls are starting to feel like sisters to me."
-    p ""
+    p "Dom jest taki ładny, a dziewczyny zaczynają czuć się dla mnie jak siostry."
 
 # game/day23.rpy:719
 translate polish day23_m_restaurant_secondary_choices_593cfdc2:
 
     # p "{i}(Or friends with enormous benefits...)"
-    p ""
+    p "{i}(Lub przyjaciele z ogromnymi korzyściami)"
 
 # game/day23.rpy:720
 translate polish day23_m_restaurant_secondary_choices_54a9c44e:
 
     # m "Yes, I think you fit in nicely and you're a good influence on the girls as well."
-    m ""
+    m "Tak, myślę, że dobrze pasujesz i masz dobry wpływ na dziewczyny."
 
 # game/day23.rpy:722
 translate polish day23_m_restaurant_secondary_choices_4e777a26:
 
     # p "{i}(I'm not so sure about that...)"
-    p ""
+    p "{i}(nie jestem tego taki pewien)"
 
 # game/day23.rpy:723
 translate polish day23_m_restaurant_secondary_choices_a66483bc:
 
     # p "That means a lot."
-    p ""
+    p "To wiele znaczy"
 
 # game/day23.rpy:728
 translate polish day23_m_restaurant_secondary_choices_6d1bffa5:
@@ -2702,7 +2702,7 @@ translate polish day23_m_restaurant_secondary_choices_4ed3fb4e:
 translate polish day23_m_restaurant_secondary_choices_97805ea8:
 
     # "{i}As Salome performs her famous veil dance in front of her lusting king, several gasps erupt from the audience."
-    ""
+    "{i}Gdy Salome wykonuje swój słynny taniec z welonem przed pożądliwym królem, publiczność wydaje z siebie kilka okrzyków."
 
 # game/day23.rpy:800
 translate polish day23_m_restaurant_secondary_choices_ffdb0efc:
@@ -2816,7 +2816,7 @@ translate polish day23_m_restaurant_secondary_choices_204e4aa5:
 translate polish day23_m_restaurant_secondary_choices_93795a7d:
 
     # p "Yes, she's a friend."
-    p ""
+    p "Tak, to przyjaciółka"
 
 # game/day23.rpy:837
 translate polish day23_m_restaurant_secondary_choices_4ce7fda4:
@@ -3014,7 +3014,7 @@ translate polish day23_m_restaurant_secondary_choices_0d8e68b2:
 translate polish day23_m_restaurant_secondary_choices_e5ac8feb:
 
     # p "Well, it was nice talking to you, but I have to find my friend, make sure she isn't lost."
-    p ""
+    p "Cóż, miło się z tobą rozmawiało, ale muszę znaleźć moją przyjaciółkę, upewnić się, że się nie zgubiła."
 
 # game/day23.rpy:886
 translate polish day23_m_restaurant_secondary_choices_dea45d4c:
@@ -3380,7 +3380,7 @@ translate polish day23_m_restaurant_secondary_choices_1060927f:
 translate polish day23_m_restaurant_secondary_choices_e265ed60:
 
     # "{i}You notice that [m_name] is laughing more readily and seems more relaxed. She touches you frequently while talking and seems engrossed in your conversation."
-    ""
+    "{i}Zauważyłeś, że [m_name] śmieje się chętniej i wydaje się bardziej zrelaksowana Często dotyka cię podczas rozmowy i wydaje się być pochłonięta rozmową"
 
 # game/day23.rpy:991
 translate polish day23_m_bar_choices_31636b31:
@@ -3650,7 +3650,7 @@ translate polish day23_kiss_conversation_ed4793f8:
 translate polish day23_kiss_conversation_938c7bd9:
 
     # p "Not for you as a friend, but something more."
-    p ""
+    p "Nie dla ciebie jako przyjaciela, ale czegoś więcej"
 
 # game/day23.rpy:1060
 translate polish day23_kiss_conversation_fef98b0c:
@@ -3782,7 +3782,7 @@ translate polish day23_kiss_conversation_09bfe3ff:
 translate polish day23_kiss_conversation_097a49b4:
 
     # m "But isn't that wrong? I'm so much older than you?!"
-    m ""
+    m "Ale czy to nie jest złe? Jestem o wiele starszy od ciebie?"
 
 # game/day23.rpy:1092
 translate polish day23_kiss_conversation_a4ece7a9:
@@ -4112,7 +4112,7 @@ translate polish day23_kiss_conversation_b1cc1488:
 translate polish day23_kiss_conversation_25ee697e:
 
     # "{i}Feeling very tired yourself, you crawl into bed next to her naked body and embrace her. [m_name] purrs contently in her sleep."
-    ""
+    "{i}Czując się bardzo zmęczonym, wczołgujesz się do łóżka obok jej nagiego ciała i obejmujesz ją [m_nazwisko] mruczy zadowolona przez sen."
 
 # game/day23.rpy:1190
 translate polish day23_kiss_conversation_7e2a661e:
@@ -4940,181 +4940,821 @@ translate polish strings:
     old "Waiter"
     new "Kelner"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day23.rpy:63
+# game/day23.rpy:70
 translate polish day23_22aa6d40:
 
     # r "You made me feel like shit before, and I don't want to feel like that again."
-    r "Sprawiłeś, że czułam się jak gówno wcześniej i nie chcę się tak czuć ponownie"
+    r "Już wcześniej sprawiłeś, że czułam się okropnie i nie chcę, żeby to się powtórzyło."
 
-# game/day23.rpy:72
+# game/day23.rpy:79
 translate polish day23_d3a3f278:
 
     # p "Okay."
-    p "Dobrze"
+    p "Okej."
 
-# game/day23.rpy:106
+# game/day23.rpy:117
 translate polish day23_choices_558745b8:
 
     # p "What can I say... Threesomes are every man's wet dream, and I'm just a regular guy..."
-    p "What can I say Threesomes are every man's wet dream and I'm just a regular guy"
+    p "Co mogę powiedzieć... Trójkąt to mokry sen każdego faceta, a ja jestem przeciętnym gościem..."
 
-# game/day23.rpy:231
-translate polish day23_choices_ca4a9073:
+# game/day23.rpy:239
+translate polish day23_choices_05ffd1fb:
 
-    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
-    "{i}Twój orgazm wydłuża się dzięki stymulacji jej odbytu Ciągle ją pieprzysz, aż wystrzelisz w niej ostatnie krople kuminu i sperma zacznie wyciekać z jej dupki"
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(Pora dać Lizie jej prezent, zapakować go i w ogóle.)"
+
+# game/day23.rpy:244
+translate polish day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "Hej!"
 
 # game/day23.rpy:245
-translate polish day23_choices_852eaff1:
+translate polish day23_choices_defd4068:
 
-    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
-    "{i}Trzymasz ją na szczycie swojego kutasa, aż wystrzelisz w niej ostatnie krople cum i sperma zacznie wyciekać z jej mokrej szczeliny."
+    # l "[p_name]!"
+    l "[p_name]!"
 
-# game/day23.rpy:352
-translate polish day23_r_flashback_post_12f9ccf9:
+# game/day23.rpy:246
+translate polish day23_choices_d4d9144c:
 
-    # "{i}[r_name] firmly grabs your erect cock and slowly pulls back the foreskin, exposing your glans. With a devious twinkle in her eyes, she kisses the tip, her lips barely touching the sensitive skin."
-    "{i}[r_name] mocno chwyta twojego wzniesionego kutasa i powoli odciąga napletek odsłaniając żołądź Z przebiegłym błyskiem w oczach całuje czubek jej usta ledwo dotykają wrażliwej skóry"
+    # p "I've come bearing gifts!"
+    p "Niosę dla Ciebie dary!"
 
-# game/day23.rpy:436
-translate polish day23_r_flashback_post_e3441fb8_1:
+# game/day23.rpy:248
+translate polish day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "Już jestem podekscytowana!"
+
+# game/day23.rpy:250
+translate polish day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "{i}Uśmiechając się do Ciebie, Twoja siostra powoli otwiera pudełko i odsłania jego zawartość."
+
+# game/day23.rpy:252
+translate polish day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "Uśmiechając się do ciebie, twój przyjaciel powoli otwiera pudełko, aby ujawnić jego zawartość."
+
+# game/day23.rpy:257
+translate polish day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "Co to takiego..."
+
+# game/day23.rpy:259
+translate polish day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "O nie, [p_name], nie kupiłeś..."
+
+# game/day23.rpy:260
+translate polish day23_choices_e3441fb8:
 
     # p "I said I would get you one as a gift, don't you like it?"
-    p "Mówiłem, że kupię ci taki w prezencie nie podoba ci się?"
+    p "Powiedziałem Ci, że dam Ci jednego w prezencie, nie podoba Ci się?"
 
-# game/day23.rpy:446
-translate polish day23_r_flashback_post_59810b3a:
+# game/day23.rpy:261
+translate polish day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "Ja... Nie wiem."
+
+# game/day23.rpy:262
+translate polish day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Myślę, że to trochę dziwny prezent."
+
+# game/day23.rpy:263
+translate polish day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Nonsens, pary bez przerwy dają sobie takie zabawki."
+
+# game/day23.rpy:264
+translate polish day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Robią tak, co nie?)"
+
+# game/day23.rpy:265
+translate polish day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Ale to wygląda tak... Tak... Erotycznie?"
+
+# game/day23.rpy:266
+translate polish day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Powinnaś zobaczyć inne jakie mieli w ofercie. Ten jest tak subtelny jak to tylko możliwe."
+
+# game/day23.rpy:268
+translate polish day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Okej... Dziękuję."
+
+# game/day23.rpy:269
+translate polish day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Nie wydaje się być przekonana.)"
+
+# game/day23.rpy:270
+translate polish day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "Żaden problem. I to oczywiście zależy tylko od Ciebie, czy zechcesz go użyć, czy nie. Nie obrażę się jeśli będzie zbierał kurz w jakiejś szufladzie."
+
+# game/day23.rpy:271
+translate polish day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Dziękuję, będę o tym pamiętać."
+
+# game/day23.rpy:272
+translate polish day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Ale sporo Cię ominie jeśli jeśli tak się stanie..."
+
+# game/day23.rpy:273
+translate polish day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "Okej, okej! Załapałam."
+
+# game/day23.rpy:274
+translate polish day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}Dziewczyna uśmiecha się do Ciebie, gdy wychodzisz pokoju."
+
+# game/day23.rpy:279
+translate polish day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "Co to takiego..."
+
+# game/day23.rpy:281
+translate polish day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Powiedziałem Ci, że dam Ci jednego w prezencie, nie podoba Ci się?"
+
+# game/day23.rpy:282
+translate polish day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "Ja... Nie wiem."
+
+# game/day23.rpy:283
+translate polish day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "Jest ogromny."
+
+# game/day23.rpy:284
+translate polish day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Dzięki temu odczucia będą bardziej intensywne."
+
+# game/day23.rpy:286
+translate polish day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Przepraszam [p_name], ale to zbyt wiele."
+
+# game/day23.rpy:287
+translate polish day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Nie prosiłam Cię o to, a Ty po prostu poszedłeś i kupiłeś mi to coś... Dlaczego to zrobiłeś?"
+
+# game/day23.rpy:288
+translate polish day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Cholera. Nie jest zachwycona.)"
+
+# game/day23.rpy:289
+translate polish day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "Pomyślałem, że Ci się spodoba, no wiesz, że korzystanie z niego będzie przyjemne."
+
+# game/day23.rpy:290
+translate polish day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "Nie jestem tego typu dziewczyną [p_name], powinieneś już o tym wiedzieć."
+
+# game/day23.rpy:291
+translate polish day23_choices_59810b3a:
 
     # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
-    p "Przepraszam [l_name] nie zostawiłem cię w spokoju"
+    p "Przepraszam Liza, nie myślałem, że... Zostawię Cię już samą."
 
-# game/day23.rpy:517
+# game/day23.rpy:292
+translate polish day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}Dziewczyna nie odzywa się, kiedy niepewnie wychodzisz z pokoju."
+
+# game/day23.rpy:299
+translate polish day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Niecierpliwie czekasz aż zapadnie wieczór, o czasie zakładasz garnitur i przygotowujesz się do wyjścia z Susan."
+
+# game/day23.rpy:301
+translate polish day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Zabijasz czas aż do wieczora i podgrzewasz sobie coś w mikrofali."
+
+# game/day23.rpy:367
 translate polish day23_evening_choices_01292ce1:
 
     # "{i}When [l_name] leaves, you quickly search for private dancing classes on the net and find what looks like a great teacher."
-    "{i}Kiedy [l_name] wyjeżdża szybko wyszukujesz w sieci prywatne zajęcia taneczne i znajdujesz to, co wygląda na świetnego nauczyciela"
+    "{i}Kiedy [l_name] wyjeżdża, szybko wyszukujesz prywatne lekcje tańca w sieci i znajdujesz coś, co wygląda na świetnego nauczyciela."
 
-# game/day23.rpy:549
+# game/day23.rpy:401
 translate polish day23_evening_choices_f3757708:
 
     # "{i}[m_name] and you get into the cab, which takes you to a restaurant near the theater."
-    "{i}[m_name] i wsiadasz do taksówki, która zabiera cię do restauracji w pobliżu teatru"
+    "{i}Wsiadasz z Susan do taksówki i jedziecie do restauracji w pobliżu teatru."
 
-# game/day23.rpy:617
+# game/day23.rpy:473
 translate polish day23_m_restaurant_primary_choices_1df00f03:
 
     # m "True. When your dad and I were still together, we went to the theater quite regularly."
-    m "Prawda Kiedy twój tata i ja byliśmy jeszcze razem, chodziliśmy do teatru dość regularnie"
+    m "Tak. Kiedy byłam jeszcze z Twoim tatą, chodziliśmy do teatru dość regularnie."
 
-# game/day23.rpy:685
+# game/day23.rpy:541
 translate polish day23_m_restaurant_secondary_choices_104552e1:
 
     # m "Well, we were separated for so long, and I didn't know what Christian told you about us..."
-    m "Cóż, byliśmy rozdzieleni przez tak długi czas i nie wiedziałem, co Christian powiedział ci o nas"
+    m "No cóż, nie mielimy ze sobą kontaktu od lat i nie wiedziałam co Christian Ci o nas powiedział..."
 
-# game/day23.rpy:717
+# game/day23.rpy:573
 translate polish day23_m_restaurant_secondary_choices_2ff6e1a7:
 
     # p "The house is so nice, and the girls are starting to feel like sisters to me."
-    p "Dom jest taki ładny, a dziewczyny zaczynają się czuć dla mnie jak siostry"
+    p "Dom jest taki ładny, a dziewczyny zaczynają czuć się dla mnie jak siostry."
 
-# game/day23.rpy:720
+# game/day23.rpy:576
 translate polish day23_m_restaurant_secondary_choices_d5c24f93:
 
     # m "Yes, I think you fit in nicely, and you're a good influence on the girls as well."
-    m "Tak myślę, że ładnie pasujesz i masz też dobry wpływ na dziewczyny."
+    m "Tak, myślę, że dobrze pasujesz i masz dobry wpływ na dziewczyny."
 
-# game/day23.rpy:774
+# game/day23.rpy:635
 translate polish day23_m_restaurant_secondary_choices_af58d4f5:
 
     # m "Yes, and the performers as well."
-    m "Tak i wykonawców również"
+    m "Tak i występujących."
 
-# game/day23.rpy:784
+# game/day23.rpy:647
 translate polish day23_m_restaurant_secondary_choices_08ed1765:
 
     # "{i}From that moment, you're drawn into the world of Narraboth, Jochanaan, Salome and her parents, Herodes and Herodias."
-    "{i}Od tego momentu zostajesz wciągnięty w świat Narraboth Jochanaan Salome i jej rodziców Herodesa i Herodiady"
+    "{i}Od tego momentu zagłębiasz się w świat Narraboth, Jochanaana, Salome i jej rodziców Herodesa and Herodias."
 
-# game/day23.rpy:856
+# game/day23.rpy:723
 translate polish day23_m_restaurant_secondary_choices_191f2532:
 
     # p "I really enjoyed our dinner together, you have such a lovely house, and the food was excellent."
-    p "Bardzo podobała mi się nasza wspólna kolacja masz taki piękny dom i jedzenie było doskonałe"
+    p "Świetnie się bawiłem podczas naszej kolacji, macie piękny dom, a jedzenie było wyśmienite."
 
-# game/day23.rpy:927
+# game/day23.rpy:797
 translate polish day23_m_restaurant_secondary_choices_4165865f:
 
     # p "I'm still a little confused about some of the story's aspects. The family tree in particular."
-    p "Nadal jestem trochę zdezorientowany niektórymi aspektami opowiadania Drzewo genealogiczne w szczególności"
+    p "Nadal jestem trochę zdezorientowany niektórymi aspektami historii, w szczególności drzewem genealogicznym."
 
-# game/day23.rpy:929
+# game/day23.rpy:799
 translate polish day23_m_restaurant_secondary_choices_7028c171:
 
     # m "Stepdaughter, if I remember correctly, and her uncle."
-    m "Pasierbica, jeśli dobrze pamiętam i jej wujek"
+    m "Pasierbicą i jeśli dobrze pamiętam, był też jej wujem."
 
-# game/day23.rpy:948
+# game/day23.rpy:818
 translate polish day23_m_restaurant_secondary_choices_4612cb58:
 
     # p "Yes. I strongly believe in personal freedom, and Salome seems an excellent example to me."
-    p "Tak, mocno wierzę w wolność osobistą i Salome wydaje mi się doskonałym przykładem"
+    p "Tak. Jestem wielkim zwolennikiem wolności osobistej i Salome wydaje mi się świetnym przykładem."
 
-# game/day23.rpy:950
+# game/day23.rpy:820
 translate polish day23_m_restaurant_secondary_choices_a57c5325:
 
     # m "But she ordered the execution of Jochanaan because she couldn't get him?!"
-    m "Ale kazała wykonać egzekucję Jochanaana, bo nie mogła go zdobyć?."
+    m "Ale przecież rozkazała ściąć Jochanaana, bo nie mogła go mieć?!"
 
-# game/day23.rpy:1019
+# game/day23.rpy:889
 translate polish day23_m_bar_choices_045e0f4c:
 
     # "{i}You have to run to keep up with [m_name], who walks incredibly fast on her high heels. The taxi ride home is filled with silence and, back home, you each go your separate ways."
-    "{i}Musisz biec, by nadążyć za [m_name], która chodzi niewiarygodnie szybko na swoich wysokich obcasach Jazda taksówką do domu jest wypełniona ciszą, a z powrotem do domu każde z was idzie w swoją stronę."
+    "{i}Musisz biec, żeby nadążyć za Susan, która idzie niewiarygodnie szybko w swoich szpilkach. Jazda taksówką mija wam w ciszy, a w domu oboje rozchodzicie się w przeciwne strony."
 
-# game/day23.rpy:1192
+# game/day23.rpy:1066
 translate polish day23_kiss_conversation_7bbc8e84:
 
     # "{i}[m_name] raises her head to touch your lips with hers. When you kiss, her eyes open slightly. You notice a flash of recognition traveling across her face, but she doesn't shy away from you."
-    "{i}[m_name] podnosi głowę, by dotknąć Twoich ust swoimi Gdy całujesz jej oczy otwierają się lekko Zauważasz błysk uznania podróżujący po jej twarzy, ale nie odsuwa się od Ciebie"
+    "{i}Susan unosi głowę i przyciska swoje wargi do Twoich. Kiedy się całujecie, jej powieki się otwierają. Widzisz po jej twarzy, że Cię rozpoznała, ale nie próbuje się od Ciebie odsunąć."
 
-# game/day23.rpy:1200
+# game/day23.rpy:1074
 translate polish day23_kiss_conversation_5635c9ed:
 
     # "{i}You're set upon by dreams again, and a familiar face comes into focus once again..."
-    "{i}Znów nastrajają cię sny i znów pojawia się znajoma twarz"
+    "{i}Ponownie nawiedzają Cię marzenia senne i w Twoim umyśle pojawia się znajoma twarz..."
 
-# game/day23.rpy:1205
+# game/day23.rpy:1079
 translate polish day23_kiss_conversation_87f9b622:
 
     # "{i}When the taxi arrives at your house, [m_name] nearly stumbles over her heels, and you offer to carry her inside, but she insists on walking."
-    "{i}Kiedy taksówka podjeżdża pod twój dom [m_name] prawie potyka się o obcasy i proponujesz, że wniesiesz ją do środka, ale ona upiera się, żeby iść."
+    "{i}Kiedy dojeżdżacie już do domu, Susan prawie wywraca się na swoich szpilkach, więc oferujesz jej, że wniesiesz ją do środka, ale upiera się, że sama wejdzie."
 
-# game/day23.rpy:1210
+# game/day23.rpy:1084
 translate polish day23_kiss_conversation_64c3fdb8:
 
     # "{i}...You're set upon by dreams again, and a familiar face comes into focus once again..."
-    "{i}Znów nastrajają cię sny i znów pojawia się znajoma twarz"
+    "{i}Ponownie nawiedzają Cię marzenia senne i w Twoim umyśle pojawia się znajoma twarz..."
 
-# game/day23.rpy:1287
+# game/day23.rpy:1167
 translate polish day23_flashback_4452f0af:
 
     # "{i}That's when Sasha's questions dried up, and she let out a big sigh."
-    "{i}To właśnie wtedy pytania Sashy wyschły i wypuściła ona wielkie westchnienie"
+    "{i}W tym momencie, Sashy wyczerpały się pytania i westchnęła głośno."
 
-# game/day23.rpy:1323
+# game/day23.rpy:1206
 translate polish day23_flashback_4362a162:
 
     # "{i}Encouraged, I sat myself behind her, my erection pressing against her back, and kissed her neck. She closed her eyes and slowly rocked to the rhythm of my caresses."
-    "{i}Zachęcony usiadłem sobie za nią moją erekcją przyciskającą się do jej pleców i całowałem jej szyję Zamknęła oczy i powoli kołysała się w rytm moich pieszczot"
+    "{i}Zachęcony, siadłem za nią, moja erekcja przycisnęła się do jej pleców i zacząłem całować jej szyję. Zamknęła oczy i kołysała się powoli w rytm moich pieszczot."
 
-# game/day23.rpy:1329
+# game/day23.rpy:1215
 translate polish day23_flashback_6c92b1a6:
 
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
-    "{i}Zrobiłem wszystkie te rzeczy biorąc jej majestatyczne sutki w moich ustach i dając im uwagę, na którą zasługiwały Sasha zaczął jęczeć delikatnie i rozłożyć nogi"
->>>>>>> polish
+    "{i}Zrobiłem wszystkie te rzeczy, biorąc jej majestatyczne sutki do ust i poświęcając im uwagę, na jaką zasługiwały, Sasha zaczęła cicho jęczeć i rozłożyła nogi."
+
+# game/day23.rpy:1274
+translate polish day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "Przytulnie tu, nie uważasz?"
+
+# game/day23.rpy:1275
+translate polish day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Jeśli miałaś na myśli ciasno i obleśnie, to tak."
+
+# game/day23.rpy:1276
+translate polish day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "No weź. Zabawmy się trochę."
+
+# game/day23.rpy:1277
+translate polish day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ana wrzuca monetę do maszyny i na ekranie zaczyna się film. Daje Ci znak, żebyś usiadł."
+
+# game/day23.rpy:1279
+translate polish day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "A teraz, baw się dobrze."
+
+# game/day23.rpy:1280
+translate polish day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Podczas gdy Ana się rozbiera, aktorzy na ekranie już skończyli ze swoją szybką grą wstępną i dziewczyna ujeżdża swojego partnera."
+
+# game/day23.rpy:1281
+translate polish day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Wiedziałam, że Ci się to spodoba. Już Ci stoi."
+
+# game/day23.rpy:1282
+translate polish day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "Lubisz, kiedy dziewczyna jest tak zapinana przez wielkiego penisa?"
+
+# game/day23.rpy:1287
+translate polish day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}Rozbierasz się, Ana klęka i ochoczo połyka Twoją pulsującą erekcję."
+
+# game/day23.rpy:1288
+translate polish day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Mmmm, tak, brakowało mi tego."
+
+# game/day23.rpy:1289
+translate polish day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Używaj tylko swoich ust, Ty brudna mała obciągaro."
+
+# game/day23.rpy:1291
+translate polish day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ana krzyżuje ręce za plecami i wsuwa Cię jeszcze głębiej do swojego gardła. Dławi się lekko i ślina ścieka jej na podłogę."
+
+# game/day23.rpy:1292
+translate polish day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}Pomagasz jej wypracować rytm poprzez prowadzenie jej głowy w górę i w dół na Twoim penisie."
+
+# game/day23.rpy:1293
+translate polish day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Tak, właśnie tak."
+
+# game/day23.rpy:1294
+translate polish day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Z Twoim fiutem dalej w jej ustach, powstrzymujesz się w ostatniej chwili przed spuszczeniem się jej do gardła. Chcą wydłużyć wasze igraszki, łapiesz ją za włosy i odciągasz ją od swojego penisa."
+
+# game/day23.rpy:1299
+translate polish day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Dosiądź mnie."
+
+# game/day23.rpy:1305
+translate polish day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}Dziewczyna wspina się na Ciebie i Twój penis bez problemu wślizguje się do jej mokrego wnętrza. Zachwycona, zaczyna masować Twoje jądra, podskakując na Twoim fiucie."
+
+# game/day23.rpy:1306
+translate polish day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Mmmmm, jesteś tak głęboko."
+
+# game/day23.rpy:1307
+translate polish day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}Jej dupa obija się o Twoje uda przy każdym ruchu. Piersi Any ocierają się o Twoją twarz i łapczywie przysysasz się do jej sutków."
+
+# game/day23.rpy:1308
+translate polish day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "{i}Odgłosy pornosa, który dalej leci na ekranie, są zagłuszane przez gardłowe jęki Any."
+
+# game/day23.rpy:1310
+translate polish day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Chcąc mieć więcej kontroli, podnosisz Anę ze swojego fiuta i odwracasz ją."
+
+# game/day23.rpy:1311
+translate polish day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Chcę obejrzeć ten Twój tyłeczek."
+
+# game/day23.rpy:1312
+translate polish day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "Nie, nie. Nie przestawaj!"
+
+# game/day23.rpy:1313
+translate polish day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}Wpychasz ją na swojego penisa. Trzymając ją za biodra, na zmianę unosisz ją i opuszczasz silnie w dół. Za każdym razem gdy wbijasz się w jej waginę, drobne krople jej soków skapują na Twoje uda."
+
+# game/day23.rpy:1314
+translate polish day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "Tak, tak! Rżnij mnie, nie przestawaj [p_name]."
+
+# game/day23.rpy:1315
+translate polish day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "Podoba Ci się to kurewko?"
+
+# game/day23.rpy:1316
+translate polish day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "Uwielbiam to! Kurwa uwielbiam!"
+
+# game/day23.rpy:1322
+translate polish day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Gdy jej pizda pozadowalała Twojego fiuta już przez jakiś czas, wysuwasz się z niej i rzucasz Anę na ziemię."
+
+# game/day23.rpy:1324
+translate polish day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "A teraz, posmakuję Twojej cipki."
+
+# game/day23.rpy:1325
+translate polish day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Mmmm, tak!"
+
+# game/day23.rpy:1331
+translate polish day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Chcę wyruchać Twój tyłek."
+
+# game/day23.rpy:1332
+translate polish day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "Tak! Jest na Ciebie gotowy. Wykorzystaj mnie!"
+
+# game/day23.rpy:1338
+translate polish day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}Pchasz ją na krzesło i Ana rozwiera przed Tobą swoje pośladki, dając Ci dobry widok na swoje kakaowe oczko."
+
+# game/day23.rpy:1339
+translate polish day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}Mimo tego co powiedziała, jej tyłek ewidentnie nie jest gotowy na Twój rozmiar. Kiedy wpychasz w nią swój czubek, przestaje jęczeć i zaciska zęby."
+
+# game/day23.rpy:1340
+translate polish day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Aaah... To... Aaaah..."
+
+# game/day23.rpy:1341
+translate polish day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Spluwasz na jej odbyt i wpychasz fiuta jeszcze głębiej."
+
+# game/day23.rpy:1342
+translate polish day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "Jesteś taki duży..."
+
+# game/day23.rpy:1343
+translate polish day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}Łapiesz ją za ręce i przyciągasz ją w swoją stronę. Jej dupa jest naprawdę ciasna, mimo że Ana coraz bardziej się relaksuje."
+
+# game/day23.rpy:1344
+translate polish day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Aah, tak. Wyruchaj mnie w dupę."
+
+# game/day23.rpy:1346
+translate polish day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Jej tyłek podskakuje w rytm Twoich pchnięć. Za każdym razem gdy wpychasz w nią swojego fiuta, Ana przyciska twarz do skórzanego fotela, wyraz jej twarzy składa się z mieszanki bólu i rozkoszy."
+
+# game/day23.rpy:1352
+translate polish day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Gdy jej dupa pozadowalała Twojego fiuta już przez jakiś czas, wysuwasz się z niej i rzucasz Anę na ziemię."
+
+# game/day23.rpy:1354
+translate polish day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "A teraz, wyliżę tą Twoją dupkę."
+
+# game/day23.rpy:1355
+translate polish day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Mmmm, tak!"
+
+# game/day23.rpy:1357
+translate polish day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Dwoma rękami przyciskasz jej głowę do swojego penisa, wbijając się głęboko do jej gardła. Wzdryga się i dławi, ślina obficie spływa na jej klatkę."
+
+# game/day23.rpy:1366
+translate polish day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Kiedy czujesz, że Twój orgazm się zbliża, podnosisz ją i wpychasz swojego fiuta znowu do jej tyłka."
+
+# game/day23.rpy:1368
+translate polish day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Kiedy czujesz, że Twój orgazm się zbliża, podnosisz ją i wpychasz swojego fiuta do jej tyłka bez ostrzeżenia."
+
+# game/day23.rpy:1369
+translate polish day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Kuuuurrrwaaa!"
+
+# game/day23.rpy:1372
+translate polish day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}Po serii krótkich, gwałtownych pchnięć eksplodujesz w jej ciasnej dupce."
+
+# game/day23.rpy:1373
+translate polish day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Booożee, taaaak!!!"
+
+# game/day23.rpy:1374
+translate polish day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "Rżnij mnie! Rżnij mnie!"
+
+# game/day23.rpy:1375
+translate polish day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Twój orgazm wydłuża się dzięki stymulacji jej odbytu. Pieprzysz ją, aż wystrzelisz w nią ostatnie krople spermy, a sperma zacznie wyciekać z jej odbytu."
+
+# game/day23.rpy:1392
+translate polish day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Kiedy czujesz, że Twój orgazm się zbliża, kładziesz się i wciągasz ją na swojego penisa. Zaczyna Cię ujeżdżać bez chwili wahania."
+
+# game/day23.rpy:1398
+translate polish day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}Po serii krótkich, gwałtownych pchnięć eksplodujesz w jej ciasnej cipce."
+
+# game/day23.rpy:1399
+translate polish day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Booożee, taaaak!!!"
+
+# game/day23.rpy:1400
+translate polish day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "Rżnij mnie! Rżnij mnie!"
+
+# game/day23.rpy:1401
+translate polish day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}Trzymasz ją na swoim kutasie, aż wystrzelisz w nią ostatnie krople spermy, a sperma zacznie wyciekać z jej mokrej szczeliny."
+
+# game/day23.rpy:1412
+translate polish day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Mokre dźwięki wydobywają się z jej ust, kiedy zaczynasz ruchać jej gardło. Jej oczy napływają łzami i patrzy na Ciebie w ekstazie."
+
+# game/day23.rpy:1419
+translate polish day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}Po serii krótkich, gwałtownych pchnięć wysuwasz się z niej i Twój fiut zaczyna obryzgiwać spermą jej twarz."
+
+# game/day23.rpy:1420
+translate polish day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Booożee, taaaak!!!"
+
+# game/day23.rpy:1421
+translate polish day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Tak! Daj mi wszystko co masz!"
+
+# game/day23.rpy:1422
+translate polish day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Jej twarz wkrótce pokryta jest spermą, którą dziewczyna ochoczo zlizuje."
+
+# game/day23.rpy:1432
+translate polish day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Mokre dźwięki wydobywają się z jej ust, kiedy zaczynasz ruchać jej gardło. Jej oczy napływają łzami i patrzy na Ciebie w ekstazie."
+
+# game/day23.rpy:1440
+translate polish day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}Po serii krótkich, gwałtownych pchnięć wysuwasz się z niej i spychasz ją na podłogę. Twój fiut zaczyna obryzgiwać spermą jej piersi i brzuch."
+
+# game/day23.rpy:1441
+translate polish day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Booożee, taaaak!!!"
+
+# game/day23.rpy:1442
+translate polish day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "Tak! Daj mi wszystko co masz!"
+
+# game/day23.rpy:1443
+translate polish day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ana robi sobie palcówkę, wcierając Twoją spermą w swoją cipkę. Upewniasz się, że każda ostatnia kropla Twojego nasienia ląduje na jej ciele."
+
+# game/day23.rpy:1453
+translate polish day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}Dziewczyna wyciera się i opiera o ekran, gdzie aktorka właśnie otrzymuje solidny spust na twarz."
+
+# game/day23.rpy:1455
+translate polish day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "Cholera. Naprawdę wiesz jak zadowolić dziewczynę, co?"
+
+# game/day23.rpy:1456
+translate polish day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Dzięki. Po prostu naprawdę lubię robić z Tobą zakupy."
+
+# game/day23.rpy:1457
+translate polish day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "Zauważyłam!"
+
+# game/day23.rpy:1459
+translate polish day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Ubieracie się i wychodzicie z budki. Dziewczyna przy kasie patrzy na Ciebie z dziwnym wyrazem twarzy."
+
+# game/day23.rpy:1460
+translate polish day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "Więc, rozumiem, że dobrze się tam bawiliście?"
+
+# game/day23.rpy:1461
+translate polish day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "Tak, to był bardzo stymulujący seans."
+
+# game/day23.rpy:1462
+translate polish day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Tak, bardzo dobre kino."
+
+# game/day23.rpy:1485
+translate polish day23_r_flashback_post_12f9ccf9:
+
+    # "{i}[r_name] firmly grabs your erect cock and slowly pulls back the foreskin, exposing your glans. With a devious twinkle in her eyes, she kisses the tip, her lips barely touching the sensitive skin."
+    "{i}Rachel łapie mocno Twojego nabrzmiałego penisa i powoli odciąga skórę, odsłaniając Twoją główkę. Z psotnym błyskiem w oku, całuje jego czubek. Jej wargi ledwie dotykają Twojej wrażliwej skóry."
+

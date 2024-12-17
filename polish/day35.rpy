@@ -824,7 +824,7 @@ translate polish day35_choices_4cc345fb:
 translate polish day35_choices_39142a60:
 
     # "{i}Your friend has trouble walking straight to the booth, the vibrator in her pussy sending powerful waves of pleasure through her body."
-    ""
+    "{i}Twoja przyjaciółka ma problem z pójściem prosto do kabiny, gdy wibrator w jej cipce wysyła potężne fale przyjemności przez jej ciało."
 
 # game/day35.rpy:250
 translate polish day35_choices_5eb350d9:
@@ -890,7 +890,7 @@ translate polish day35_choices_0a107658:
 translate polish day35_choices_f7cd2aad:
 
     # "{i}Silently, your girl jerks you off, pulling the foreskin slowly over your tip."
-    ""
+    "{i}Po cichu twoja dziewczyna szarpie cię, powoli naciągając napletek na twój czubek."
 
 # game/day35.rpy:268
 translate polish day35_choices_c4d99165:
@@ -962,7 +962,7 @@ translate polish day35_choices_12776b4a:
 translate polish day35_choices_7aeaa71e:
 
     # "{i}When your girl's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
-    ""
+    "{i}Kiedy jęki twojej dziewczyny stają się ochrypłym szeptem, wbijasz swojego kutasa w jej cipę bez żadnego ostrzeżenia."
 
 # game/day35.rpy:286
 translate polish day35_choices_3e3945bb:
@@ -998,7 +998,7 @@ translate polish day35_choices_d76c972d:
 translate polish day35_choices_1b7dcb13:
 
     # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
-    ""
+    "{i}Pieprząc swoją dziewczynę tak intensywnie, że oboje zapominacie, gdzie jesteście, całkowicie skupiając się na osiąganiu nowych szczytów przyjemności."
 
 # game/day35.rpy:296
 translate polish day35_choices_b39f3017:
@@ -1046,7 +1046,7 @@ translate polish day35_choices_d9a21504:
 translate polish day35_choices_a8b73f80:
 
     # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
-    ""
+    "{i}Twój kutas spoczywający na jej dolnej wardze pompuje obfite ilości nasienia do otwartych ust [b_name]."
 
 # game/day35.rpy:312
 translate polish day35_choices_f9ca45ab:
@@ -1094,7 +1094,7 @@ translate polish day35_choices_459b3561:
 translate polish day35_choices_b19beb8d:
 
     # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over [b_name]'s pretty face."
-    ""
+    "{i}Twój kutas skierowany na jej twarz pompuje obfite ilości nasienia na całą ładną twarz [b_name]."
 
 # game/day35.rpy:331
 translate polish day35_choices_4042a015:
@@ -1118,7 +1118,7 @@ translate polish day35_choices_29cf96ec:
 translate polish day35_choices_3760a1ff:
 
     # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of [b_name]."
-    ""
+    "{i}Twój kutas mocno zakorzeniony w jej mokrej dziurce pompuje obfite ilości nasienia wewnątrz [b_name]."
 
 # game/day35.rpy:347
 translate polish day35_choices_c3e13729:
@@ -1268,7 +1268,7 @@ translate polish day35_choices_11df57fd:
 translate polish day35_choices_88f5065c:
 
     # "{i}You hand the pieces of clothing to your girlfriend, who disappears into a changing booth."
-    ""
+    "{i}Przekazujesz części garderoby swojej dziewczynie, która znika w przebieralni."
 
 # game/day35.rpy:390
 translate polish day35_choices_27c534ab:
@@ -1670,7 +1670,7 @@ translate polish day35_choices_8642fc02:
 translate polish day35_choices_f5ec1bb1:
 
     # "{i}Looking at you smoulderingly, your girl jerks you off, pulling the foreskin slowly over your glans."
-    ""
+    "{i}Patrząc na ciebie z rozkoszą, twoja dziewczyna szarpie cię, powoli naciągając napletek na żołądź."
 
 # game/day35.rpy:493
 translate polish day35_choices_ba01253b:
@@ -1718,7 +1718,7 @@ translate polish day35_choices_d7a7f399:
 translate polish day35_choices_2ca9756a:
 
     # "{i}Your girlfriend just nods, biting her lower lip, a look that nearly makes you cum that instant."
-    ""
+    "{i}Twoja dziewczyna tylko kiwa głową, przygryzając dolną wargę, a jej spojrzenie sprawia, że niemal natychmiast dochodzisz."
 
 # game/day35.rpy:506
 translate polish day35_choices_c05f6ab6:
@@ -1754,7 +1754,7 @@ translate polish day35_choices_d76c972d_1:
 translate polish day35_choices_1b7dcb13_1:
 
     # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
-    ""
+    "{i}Pieprząc swoją dziewczynę tak intensywnie, że oboje zapominacie, gdzie jesteście, całkowicie skupiając się na osiąganiu nowych szczytów przyjemności."
 
 # game/day35.rpy:515
 translate polish day35_choices_e7c2a5b1:
@@ -1802,7 +1802,7 @@ translate polish day35_choices_d9a21504_1:
 translate polish day35_choices_a8b73f80_1:
 
     # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
-    ""
+    "{i}Twój kutas spoczywający na jej dolnej wardze pompuje obfite ilości nasienia do otwartych ust [b_name]."
 
 # game/day35.rpy:532
 translate polish day35_choices_f9ca45ab_1:
@@ -1826,7 +1826,7 @@ translate polish day35_choices_e2778beb:
 translate polish day35_choices_fc8995db:
 
     # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of [b_name]."
-    ""
+    "{i}Twój kutas mocno zakorzeniony w jej mokrej szczelinie pompuje obfite ilości nasienia wewnątrz [b_name]."
 
 # game/day35.rpy:548
 translate polish day35_choices_c3e13729_1:
@@ -2570,7 +2570,7 @@ translate polish day35_b_conversation_654923c2:
 translate polish day35_b_conversation_22196e76:
 
     # b "I love [r_name] as a friend, thinking of her in a sexual way is new for me..."
-    b ""
+    b "Kocham [r_name] jako przyjaciółkę, myślenie o niej w sposób seksualny jest dla mnie czymś nowym"
 
 # game/day35.rpy:730
 translate polish day35_b_conversation_c7c18867:
@@ -2708,7 +2708,7 @@ translate polish day35_b_conversation_96e7b204:
 translate polish day35_b_conversation_15569576:
 
     # p "Hey [l_name], why do you look so down?"
-    p ""
+    p "Hej [l_name], dlaczego wyglądasz na przygnębionego?"
 
 # game/day35.rpy:768
 translate polish day35_b_conversation_05be8852:
@@ -6414,291 +6414,1583 @@ translate polish strings:
     old "Store clerk"
     new "Sprzedawca"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2022-03-29 13:33
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day35.rpy:1372
-translate polish day35_iris_visit_d45fd336:
-
-    # p "He seems very involved in that new government program to fix the moral decay that's supposedly happening all around us."
-    p "Wydaje się być bardzo zaangażowany w ten nowy rządowy program naprawienia rozkładu moralnego, który rzekomo ma miejsce wokół nas."
-
-# TODO: Translation updated at 2023-04-17 12:10
-
-# game/day35.rpy:44
+# game/day35.rpy:45
 translate polish day35_bd4627c3:
 
     # "{i}After [b_name] leaves, you cuddle with [r_name] for a while, admiring her naked body."
-    "{i}Po wyjściu [b_name] przytulasz się do [r_name] przez chwilę podziwiając jej nagie ciało."
+    "{i}Po tym, jak Bella was zostawia, przez chwilę przytulasz się jeszcze do Rachel, podziwiając jej nagie ciało."
 
-# game/day35.rpy:95
+# game/day35.rpy:98
 translate polish day35_2db15c5b:
 
     # p "Maybe he's frustrated about something too, like Brody."
-    p "Może on też jest sfrustrowany czymś jak Brody"
+    p "Może on też jest czymś sfrustrowany, jak Brody."
 
-# game/day35.rpy:120
+# game/day35.rpy:125
 translate polish day35_choices_88aee3e2:
 
     # b "But you know we'll take a while because I'm going to try everything in the store."
-    b "Ale wiesz, że zajmiemy trochę czasu, bo zamierzam wypróbować wszystko w sklepie"
+    b "Ale wiesz, że to trochę potrwa, bo zamierzam wypróbować wszystko w sklepie."
 
-# game/day35.rpy:127
+# game/day35.rpy:132
 translate polish day35_choices_e2839544:
 
     # b "Well, let's go, piggy."
-    b "No to chodźmy świnko"
+    b "No dobrze, chodźmy świnko."
 
-# game/day35.rpy:207
+# game/day35.rpy:216
 translate polish day35_choices_0ae0834f:
 
     # p "Why don't you show off this last outfit, and we'll see what can be done about fucking you."
-    p "Może pochwalisz się tym ostatnim strojem i zobaczymy co da się zrobić w kwestii pieprzenia cię"
+    p "Może pochwalisz się tym ostatnim strojem, a zobaczymy, co da się zrobić w kwestii wyruchania Ciebie."
 
-# game/day35.rpy:256
-translate polish day35_choices_e46ea2ef:
-
-    # "{i}[b_name] only manages to keep her mouth closed in protest for a short while. As soon as she allows for you to enter her mouth in a moment of weakness, the tongue kiss becomes mutual."
-    "{i}[b_name] tylko przez krótką chwilę udaje jej się utrzymać usta zamknięte w proteście Jak tylko pozwoli Ci wejść do jej ust w chwili słabości pocałunek z języczkiem staje się wzajemny"
-
-# game/day35.rpy:268
-translate polish day35_choices_a360bd35:
-
-    # "{i}Hesitant at first, but when you start to play with her breasts, the jerking becomes increasingly more involved."
-    "{i}Na początku nieśmiało, ale gdy zaczynasz bawić się jej piersiami szarpanie staje się coraz bardziej zaangażowane"
-
-# game/day35.rpy:271
-translate polish day35_choices_bddfd74c:
-
-    # "{i}The moans become a muffled, agonized scream for a short moment when you pull the buzzing vibrator out of her cunt and throw it on a pile of clothing."
-    "{i}Jęki stają się stłumionym agonalnym krzykiem na krótką chwilę, kiedy wyciągasz brzęczący wibrator z jej cipy i rzucasz go na stos ubrań"
-
-# game/day35.rpy:279
-translate polish day35_choices_d4dafe9c:
-
-    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
-    "{i}Jedna z rąk [b_name] wczepia się w twoje ramię, a drugą próbuje wepchnąć w siebie twojego kutasa."
-
-# game/day35.rpy:390
+# game/day35.rpy:295
 translate polish day35_choices_7606f7f4:
 
     # "{i}When she emerges a little while later, you almost think your heart stops."
-    "{i}Kiedy wyłania się chwilę później, niemalże wydaje ci się, że twoje serce się zatrzymuje"
+    "{i}Kiedy wyłania się z niej chwilę później, przez moment masz wrażenie, że stanęło Ci serce."
 
-# game/day35.rpy:407
+# game/day35.rpy:312
 translate polish day35_choices_b4e9f91a:
 
     # p "Yes, please!"
-    p "Tak proszę!"
+    p "Tak, proszę!"
 
-# game/day35.rpy:670
+# game/day35.rpy:492
 translate polish day35_b_conversation_6669b3ce:
 
     # "{i}[b_name] stares at you, smiling, happy tears welling in her eyes. When she speaks again, her voice is a little hoarse with emotion."
-    "{i}[b_name] wpatruje się w Ciebie uśmiechnięta szczęśliwa łzy dobrze w jej oczach Kiedy mówi ponownie jej głos jest trochę zachrypnięty z emocji"
+    "{i}Bella wpatruje się w Ciebie z uśmiechem, łzy szczęścia napływają jej do oczu, kiedy znów się odzywa, jej głos jest lekko ochrypły ze wzruszenia."
 
-# game/day35.rpy:697
+# game/day35.rpy:519
 translate polish day35_b_conversation_33672309:
 
     # "{i}[b_name] is silent for a while, thinking about what you just said, and then an amused smile graces her face again."
-    "{i}[b_name] milczy przez chwilę, myśląc o tym, co właśnie powiedziałeś, po czym rozbawiony uśmiech znów łaskocze jej twarz."
+    "{i}Bella milczy przez chwilę, myśląc o tym, co właśnie powiedziałeś, a potem rozbawiony uśmiech ponownie pojawia się na jej twarzy."
 
-# game/day35.rpy:758
+# game/day35.rpy:580
 translate polish day35_b_conversation_7d072450:
 
     # "{i}As an answer, you kiss her smiling face, and you end up kissing for a long while as people pass you by in the street."
-    "{i}W odpowiedzi całujesz jej uśmiechniętą twarz i kończysz całując się przez dłuższą chwilę, gdy ludzie mijają cię na ulicy"
+    "{i}W odpowiedzi całujesz jej uśmiechniętą twarz, całujecie się przez dłuższą chwilę, nie zwracając uwagi na mijających was ludzi."
 
-# game/day35.rpy:800
+# game/day35.rpy:627
 translate polish day35_b_conversation_9379c1a2:
 
     # l "Pfff, well, it seems I now have a lot of spare time."
-    l "Pfff no cóż wygląda na to, że mam teraz dużo wolnego czasu"
+    l "Pfff, wygląda na to, że będę miała teraz dużo wolnego czasu."
 
-# game/day35.rpy:829
+# game/day35.rpy:656
 translate polish day35_b_conversation_ff5506dc:
 
     # l "Haha, well, I'll make sure to wear it then."
-    l "Haha no to upewnię się, że będę go nosił w takim razie."
+    l "Haha, no dobrze, będę pamiętać, żeby ją założyć."
 
-# game/day35.rpy:913
+# game/day35.rpy:746
 translate polish day35_flashback_bf3f47c4:
 
     # sa "Never mind, I'm going to unpack."
     sa "Nieważne, idę się rozpakować"
 
-# game/day35.rpy:914
+# game/day35.rpy:747
 translate polish day35_flashback_a5debb0b:
 
     # "{i}Sabine was quiet during dinner, and when she talked, it was to Sasha. The two of them were rapidly developing a bond."
-    "{i}Sabina była cicha podczas kolacji, a kiedy mówiła, to do Saszy Obie szybko rozwijały więź"
+    "{i}Sabine milczała podczas kolacji, a kiedy już rozmawiała, to z Sashą, szybko nawiązała się między nimi nić porozumienia."
 
-# game/day35.rpy:928
+# game/day35.rpy:761
 translate polish day35_flashback_ae97524f:
 
     # "{i}He was never home when she was, and I never heard her speak to him on the phone."
-    "{i}Nigdy nie było go w domu, kiedy ona była i nigdy nie słyszałam, żeby rozmawiała z nim przez telefon."
+    "{i}Nigdy nie było go w domu, przynajmniej nie kiedy ona w nim była i nigdy nie słyszałem, żeby rozmawiała z nim przez telefon."
 
-# game/day35.rpy:934
+# game/day35.rpy:767
 translate polish day35_flashback_2e19de1b:
 
     # "{i}I noticed Miley touching my leg, and when I looked at her, I instantly recognized the hungry expression on her face."
-    "{i}Zauważyłam, że Miley dotyka mojej nogi, a kiedy spojrzałam na nią, natychmiast rozpoznałam głodny wyraz jej twarzy."
+    "{i}Zauważyłem, że Miley dotyka mojej nogi i kiedy na nią spojrzałem, od razu rozpoznałem ten głód na jej twarzy."
 
-# game/day35.rpy:1022
-translate polish day35_flashback_697fe1ca:
-
-    # "{i}Sasha didn't hold back when she kissed the younger girl, and Sabine was obviously overwhelmed by it."
-    "{i}Sasha nie powstrzymywała się, kiedy całowała młodszą dziewczynę, a Sabine była wyraźnie przytłoczona tym faktem"
-
-# game/day35.rpy:1029
-translate polish day35_flashback_c94f5a34:
-
-    # "{i}Sabine held her breath while Sasha slowly removed her top, their mouths and tongues still in firm contact with each other."
-    "{i}Sabina wstrzymała oddech, podczas gdy Sasha powoli usunęła swój top ich usta i języki nadal w twardym kontakcie ze sobą"
-
-# game/day35.rpy:1067
-translate polish day35_flashback_931bfcaf:
-
-    # s "Why don't you play with my puppies for a while, and I'll help you out of these panties."
-    s "Może pobawisz się przez chwilę z moimi szczeniakami, a ja pomogę ci zdjąć te majtki"
-
-# game/day35.rpy:1098
-translate polish day35_flashback_f167671f:
-
-    # "{i}In fascination, I kept watching the girls as Sabine rested her head on Sasha's chest, happy tears in her eyes, while the older woman stroked her skin."
-    "{i}W fascynacji wciąż obserwowałem dziewczyny, jak Sabine oparła głowę na piersi Sashy szczęśliwe łzy w oczach, podczas gdy starsza kobieta głaskała jej skórę"
-
-# game/day35.rpy:1184
+# game/day35.rpy:941
 translate polish day35_l_ju_visit_c3e111cb:
 
     # l "I was supposed to get Iris her book back, which I borrowed from her."
-    l "Miałam odzyskać Iris jej książkę, którą od niej pożyczyłam"
+    l "Miałam oddać Iris książkę, którą od niej pożyczyłem."
 
-# game/day35.rpy:1193
+# game/day35.rpy:950
 translate polish day35_l_ju_visit_9c04aba2:
 
     # "{i}[l_name] hands you the book and leaves, and you go off and search for Iris."
-    "{i}[l_name] wręcza ci książkę i odchodzi, a ty ruszasz na poszukiwanie Iris."
+    "{i}[l_name] wręcza ci książkę i odchodzi, a ty idziesz szukać Iris."
 
-# game/day35.rpy:1202
+# game/day35.rpy:959
 translate polish day35_l_ju_visit_15fde163:
 
     # "{i}[l_name] is lost in thought the entire way back, and you feel a little bad she seems to have lost that part in her life which she so enjoyed."
-    "{i}[l_name] jest zagubiona w myślach przez całą drogę powrotną i czujesz się trochę źle, że chyba straciła tę część życia, którą tak lubiła."
+    "{i}Liza przez całą drogę jest pogrążona w swoich myślach, trochę Ci jej szkoda, bo zdajesz sobie sprawę, że straciła część swojego życia, którą bardzo lubiła."
 
-# game/day35.rpy:1232
+# game/day35.rpy:999
 translate polish day35_me_fuck_0aea7817:
 
     # "{i}The longing in her eyes is hard to ignore, and you oblige her by ramming your shaft inside her."
-    "{i}Tęsknota w jej oczach jest trudna do zignorowania i zobowiązujesz ją, wbijając w nią swój wał."
+    "{i}Błaganie w jej oczach jest trudne do zignorowania, więc stosujesz się do jej prośby i wbijasz w nią swojego fiuta."
 
-# game/day35.rpy:1250
+# game/day35.rpy:1027
 translate polish day35_me_fuck_3a6a6f74:
 
     # "{i}After [b_name] has left her booth, she opens the one you and Megan are occupying slightly. Any words she wanted to speak are stuck in her mouth, and she's only able to watch you."
-    "{i}Po wyjściu [b_name] ze swojej kabiny otwiera lekko tę, którą zajmujesz Ty i Megan Wszelkie słowa, które chciała wypowiedzieć utknęły jej w ustach i jest w stanie tylko Cię obserwować"
+    "{i}Bella opuszcza swoją kabinę i lekko uchyla tą, którą zajmujesz Ty i Megan. Wszelkie słowa, które chciała wypowiedzieć, utykają jej w gardle, jest w stanie tylko na was patrzeć."
 
-# game/day35.rpy:1255
+# game/day35.rpy:1032
 translate polish day35_me_fuck_cab5363a:
 
     # "{i}Her ass bounces on the rhythm of your cock, and each time you bury your member in her wet, gash your mutual arousal heightens."
-    "{i}Jej tyłek odbija się w rytm twojego kutasa i za każdym razem, gdy grzebiesz swoim członkiem w jej mokrej szparce, wasze wzajemne podniecenie wzrasta."
+    "{i}Jej tyłek podskakuje w rytmie Twoich pchnięć i za każdym razem, gdy zagłębiasz swojego fiuta w jej mokrej szparce, wasze podniecenie wzrasta."
 
-# game/day35.rpy:1280
+# game/day35.rpy:1064
 translate polish day35_me_fuck_ba104112:
 
     # man "So mind your own business. From what I hear, they'll be finished soon enough."
-    man "Więc pilnuj swoich spraw Z tego co słyszałem, niedługo skończą."
+    man "Więc proszę zająć się sobą, z tego co słyszałem, wkrótce skończą."
 
-# game/day35.rpy:1318
+# game/day35.rpy:1123
 translate polish day35_me_fuck_87b16d44:
 
     # "{i}The girl accepts your seed with a delirious smile on her face and scoops up strands of cum, licking it from her fingers and swallowing."
-    "{i}Dziewczyna przyjmuje Twoje nasienie z delirycznym uśmiechem na twarzy i nabija pasma kuminu zlizując go z palców i połykając"
+    "{i}Dziewczyna przyjmuje twoje nasienie z delirycznym uśmiechem na twarzy i zbiera pasma spermy, zlizując ją z palców i połykając."
 
-# game/day35.rpy:1438
+# game/day35.rpy:1188
+translate polish day35_iris_visit_d45fd336:
+
+    # p "He seems very involved in that new government program to fix the moral decay that's supposedly happening all around us."
+    p "Wydaje się być bardzo zaangażowany w ten nowy rządowy program mający na celu naprawę moralnego upadku, który rzekomo ma miejsce wokół nas."
+
+# game/day35.rpy:1254
 translate polish day35_iris_visit_52ac2578:
 
     # "{i}Her full breasts press against your body, and your erection begins to stir."
-    "{i}Jej pełne piersi napierają na twoje ciało, a twoja erekcja zaczyna się burzyć"
+    "{i}Jej pełne piersi przyciskają się do twojego ciała, a twoja erekcja zaczyna się poruszać."
 
-# game/day35.rpy:1465
+# game/day35.rpy:1283
 translate polish day35_iris_visit_52858309:
 
     # ir "Just to get in the mood, you know."
-    ir "Just to get in the mood you know"
+    ir "Tylko po to, żeby wejść w nastrój, no wiesz."
 
-# game/day35.rpy:1507
-translate polish day35_iris_visit_a831e68f:
+# game/day35.rpy:1329
+translate polish day35_iris_visit_eefd26fe:
 
-    # "{i}The only things you manage to utter are hoarse moans and sighs, punctuated by hasty tongue kisses."
-    "{i}Jedyne co udaje ci się wypowiedzieć to ochrypłe jęki i westchnienia przerywane pospiesznymi pocałunkami z języczkiem."
+    # p "But know that if you ever need my help, I'll be there for you."
+    p "Wiedz, że jeśli kiedykolwiek będziesz potrzebować mojej pomocy, będę przy Tobie."
+
+# game/day35.rpy:1350
+translate polish day35_b_sex_hard_5eb350d9:
+
+    # p "I've had a raging boner for you since we walked inside the shop."
+    p "Stoi mi odkąd tylko weszliśmy do sklepu."
+
+# game/day35.rpy:1355
+translate polish day35_b_sex_hard_94bdb8c0:
+
+    # p "Showing Megan how it's done didn't diminish that at all."
+    p "Pokazanie Megan, jak to się robi, wcale tego nie zmieniło."
+
+# game/day35.rpy:1356
+translate polish day35_b_sex_hard_3506fb92:
+
+    # b "That's information I could easily have done without."
+    b "Mogłam się obyć bez tej informacji."
+
+# game/day35.rpy:1358
+translate polish day35_b_sex_hard_ec0804cb:
+
+    # "{i}Ignoring her, you push her against the wall and kiss her."
+    "{i}Ignorując ją, przyciskasz ją do ściany i całujesz."
+
+# game/day35.rpy:1359
+translate polish day35_b_sex_hard_e46ea2ef:
+
+    # "{i}[b_name] only manages to keep her mouth closed in protest for a short while. As soon as she allows for you to enter her mouth in a moment of weakness, the tongue kiss becomes mutual."
+    "{i}Bella w ramach protestu stara się trzymać usta zamknięte, ale wytrzymuje tylko krótką chwilę, wpuszcza Cię do swoich ust w chwili słabości i wasz pocałunek staje się wzajemny."
+
+# game/day35.rpy:1364
+translate polish day35_b_sex_hard_1f4da673:
+
+    # "{i}As you kiss, you almost rip the lingerie off her body to reveal her breasts and juicy cunt."
+    "{i}Kiedy ją całujesz, prawie że zdzierasz bieliznę z jej ciała, by odsłonić jej piersi i soczystą cipkę."
+
+# game/day35.rpy:1366
+translate polish day35_b_sex_hard_550b680b:
+
+    # "{i}The small vibrator is still purring mercilessly inside her vagina."
+    "{i}Mały wibrator nadal bezlitośnie mruczy w jej pochwie."
+
+# game/day35.rpy:1371
+translate polish day35_b_sex_hard_61c7eab0:
+
+    # "{i}You take one of her hands and wrap her fingers around your cock."
+    "{i}Bierzesz jedną z jej dłoni i zaciskasz jej palce wokół swojego penisa."
+
+# game/day35.rpy:1372
+translate polish day35_b_sex_hard_569c00a1:
+
+    # p "You know what to do."
+    p "Wiesz co robić."
+
+# game/day35.rpy:1374
+translate polish day35_b_sex_hard_0a107658:
+
+    # "{i}Silently, your sister jerks you off, pulling the foreskin slowly over your tip."
+    "{i}Po cichu, Twoja siostra zaczyna Cię masować, powoli ściągając napletek z główki Twojego penisa."
+
+# game/day35.rpy:1376
+translate polish day35_b_sex_hard_f7cd2aad:
+
+    # "{i}Silently, your girl jerks you off, pulling the foreskin slowly over your tip."
+    "{i}Po cichu twoja dziewczyna szarpie cię, powoli naciągając napletek na twój czubek."
+
+# game/day35.rpy:1377
+translate polish day35_b_sex_hard_a360bd35:
+
+    # "{i}Hesitant at first, but when you start to play with her breasts, the jerking becomes increasingly more involved."
+    "{i}Z początku jest nieco niepewna, ale kiedy zaczynasz bawić się jej piersiami, jej ruchy stają się o wiele intensywniejsze."
+
+# game/day35.rpy:1378
+translate polish day35_b_sex_hard_8f3bde9f:
+
+    # "{i}When the first moan escapes her, you know [b_name] is ready."
+    "{i}Kiedy umyka jej pierwszy jęk, wiesz, że Bella jest gotowa."
+
+# game/day35.rpy:1380
+translate polish day35_b_sex_hard_bddfd74c:
+
+    # "{i}The moans become a muffled, agonized scream for a short moment when you pull the buzzing vibrator out of her cunt and throw it on a pile of clothing."
+    "{i}Jęki stają się stłumionym, agonalnym krzykiem na krótką chwilę, kiedy wyciągasz brzęczący wibrator z jej cipy i rzucasz go na stos ubrań."
+
+# game/day35.rpy:1381
+translate polish day35_b_sex_hard_7b5abbd6:
+
+    # b "What did you do that for?!"
+    b "Dlaczego to zrobiłeś?!"
+
+# game/day35.rpy:1382
+translate polish day35_b_sex_hard_d334433c:
+
+    # p "Clearing the way, my dear..."
+    p "Toruję drogę, moja droga..."
+
+# game/day35.rpy:1387
+translate polish day35_b_sex_hard_d15a945c:
+
+    # "{i}You decide to tease her and rub your glans against her labia."
+    "{i}Postanawiasz się z nią podrażnić i pocierasz żołędziem o jej wargi sromowe."
+
+# game/day35.rpy:1389
+translate polish day35_b_sex_hard_1154eac5:
+
+    # "{i}The effects of the vibrator are very noticeable, as her vulva and thighs are covered in her juice."
+    "{i}Skutki działania wibratora są bardzo zauważalne, bo jej srom i uda są całe pokryte sokami."
+
+# game/day35.rpy:1390
+translate polish day35_b_sex_hard_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Używając swojego kutasa, masujesz obszar wokół jej łechtaczki, a potem bezpośrednio samą łechtaczkę."
+
+# game/day35.rpy:1391
+translate polish day35_b_sex_hard_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Jedną z rąk Bella zaciska na Twoim ramieniu, a drugą próbuje wepchnąć w siebie Twojego penisa."
+
+# game/day35.rpy:1392
+translate polish day35_b_sex_hard_7cd02fb1:
+
+    # "{i}You brush her away and continue what you were doing, obviously making her crazy."
+    "{i}Odtrącasz jej dłoń i kontynuujesz to, co robiłeś, doprowadzając ją do kompletnego szaleństwa."
+
+# game/day35.rpy:1394
+translate polish day35_b_sex_hard_12776b4a:
+
+    # "{i}When your sister's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Kiedy jęki Twojej siostry przeradzają się w ochrypły szept, bez żadnego ostrzeżenia wbijasz swojego kutasa w jej cipkę."
+
+# game/day35.rpy:1396
+translate polish day35_b_sex_hard_7aeaa71e:
+
+    # "{i}When your girl's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Kiedy jęki twojej dziewczyny stają się ochrypłym szeptem, wbijasz swojego kutasa w jej cipę bez żadnego ostrzeżenia."
+
+# game/day35.rpy:1401
+translate polish day35_b_sex_hard_3e3945bb:
+
+    # b "FUCK!"
+    b "Kurwa!"
+
+# game/day35.rpy:1402
+translate polish day35_b_sex_hard_ada4c787:
+
+    # "{i}Compensating for the initial violence, you proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Kompensując jej początkową brutalność, ruchasz ją powoli, wpychając swojego penisa na całą długość w jej wilgotne wnętrze."
+
+# game/day35.rpy:1403
+translate polish day35_b_sex_hard_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Oh Bella!"
+
+# game/day35.rpy:1404
+translate polish day35_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day35.rpy:1407
+translate polish day35_b_sex_hard_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Ruchasz swoją siostrę tak intensywnie, że oboje zapominacie, gdzie jesteście, całkowicie skupieni na swojej rozkoszy."
+
+# game/day35.rpy:1409
+translate polish day35_b_sex_hard_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Pieprząc swoją dziewczynę tak intensywnie, że oboje zapominacie, gdzie jesteście, całkowicie skupiając się na osiąganiu nowych szczytów przyjemności."
+
+# game/day35.rpy:1411
+translate polish day35_b_sex_hard_b39f3017:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you focus on your own climax instead, intent on beating her to the punch."
+    "{i}Czujesz, jak Bella drży w Twoich rękach i wiesz, że jej orgazm jest bliski, więc skupiasz się na swojej przyjemności, próbując ją doścignąć."
+
+# game/day35.rpy:1415
+translate polish day35_b_sex_hard_8c6741dc:
+
+    # p "Kneel!"
+    p "Na kolana!"
+
+# game/day35.rpy:1416
+translate polish day35_b_sex_hard_7b230fe4:
+
+    # b "No, but..."
+    b "Nie, ale..."
+
+# game/day35.rpy:1422
+translate polish day35_b_sex_hard_64526946:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Pomimo protestu, Bella klęka przed Tobą, patrząc na Ciebie ze złością."
+
+# game/day35.rpy:1423
+translate polish day35_b_sex_hard_9f956632:
+
+    # p "Open your mouth, baby."
+    p "Otwórz usta mała."
+
+# game/day35.rpy:1424
+translate polish day35_b_sex_hard_2a613638:
+
+    # p "Here it comes."
+    p "Nadchodzi."
+
+# game/day35.rpy:1431
+translate polish day35_b_sex_hard_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Twój kutas, spoczywający na dolnej wardze Twojej siostry, wpompowuje obfitą ilość nasienia do jej otwartych ust."
+
+# game/day35.rpy:1433
+translate polish day35_b_sex_hard_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Twój kutas spoczywający na jej dolnej wardze pompuje obfite ilości nasienia do otwartych ust [b_name]."
+
+# game/day35.rpy:1437
+translate polish day35_b_sex_hard_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Nie chcąc ubrudzić sobie twarzy ani klatki piersiowej, Bella posłusznie połyka całą zgromadzoną spermę."
+
+# game/day35.rpy:1445
+translate polish day35_b_sex_hard_8c6741dc_1:
+
+    # p "Kneel!"
+    p "Na kolana!"
+
+# game/day35.rpy:1446
+translate polish day35_b_sex_hard_7b230fe4_1:
+
+    # b "No, but..."
+    b "Nie, ale..."
+
+# game/day35.rpy:1452
+translate polish day35_b_sex_hard_64526946_1:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Pomimo protestu, Bella klęka przed Tobą, patrząc na Ciebie ze złością."
+
+# game/day35.rpy:1453
+translate polish day35_b_sex_hard_4f981de3:
+
+    # p "Just sit still, baby."
+    p "Nie ruszaj się mała."
+
+# game/day35.rpy:1454
+translate polish day35_b_sex_hard_2a613638_1:
+
+    # p "Here it comes."
+    p "Nadchodzi."
+
+# game/day35.rpy:1461
+translate polish day35_b_sex_hard_459b3561:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over your sister's pretty face."
+    "{i}Twój kutas obryzguje śliczną twarz Twojej siostry obfitą ilością nasienia."
+
+# game/day35.rpy:1463
+translate polish day35_b_sex_hard_b19beb8d:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over [b_name]'s pretty face."
+    "{i}Twój kutas skierowany na jej twarz pompuje obfite ilości nasienia na całą ładną twarz [b_name]."
+
+# game/day35.rpy:1464
+translate polish day35_b_sex_hard_4042a015:
+
+    # "{i}After making a mess of her face, [b_name] glances around in panic, looking for something to clean herself up with."
+    "{i}Kiedy kończysz się spuszczać na jej twarz, Bella zaczyna rozglądać się w panice, szukając czegoś, czym mogłaby się wytrzeć."
+
+# game/day35.rpy:1473
+translate polish day35_b_sex_hard_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Nadchodzi mała."
+
+# game/day35.rpy:1482
+translate polish day35_b_sex_hard_29cf96ec:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of your sister."
+    "{i}Twój kutas, zagłębiony po same jaja w jej mokrej dziurce, wpompowuje do wnętrza Twojej siostry obfite ilości nasienia."
+
+# game/day35.rpy:1484
+translate polish day35_b_sex_hard_3760a1ff:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Twój kutas mocno zakorzeniony w jej mokrej dziurce pompuje obfite ilości nasienia wewnątrz [b_name]."
+
+# game/day35.rpy:1486
+translate polish day35_b_sex_hard_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Kiedy się z niej wysuwasz, sperma wycieka z jej cipki i spływa po jej udach."
+
+# game/day35.rpy:1487
+translate polish day35_b_sex_hard_31a63622:
+
+    # "{i}[b_name] glances around in discomfort, looking for something to clean herself up with."
+    "{i}Bella rozgląda się z zakłopotaniem, szukając czegoś, czym mogłaby się wytrzeć."
+
+# game/day35.rpy:1498
+translate polish day35_b_sex_hard_cbb867e2:
+
+    # p "I'm going to buy that last set for you."
+    p "Kupię Ci ten ostatni zestaw."
+
+# game/day35.rpy:1499
+translate polish day35_b_sex_hard_168940ff:
+
+    # p "You looked really hot in that one."
+    p "Wyglądałaś w nim naprawdę seksownie."
+
+# game/day35.rpy:1514
+translate polish day35_b_sex_c665ea68:
+
+    # b "Nice and private."
+    b "Przytulnie i dyskretnie."
+
+# game/day35.rpy:1515
+translate polish day35_b_sex_69c35c5b:
+
+    # p "It certainly is."
+    p "Zgadza się."
+
+# game/day35.rpy:1517
+translate polish day35_b_sex_35426c67:
+
+    # "{i}You pull her close and kiss her full on the lips, her lips part invitingly and your tongues intertwine."
+    "{i}Przyciągasz ją do siebie i całujesz w usta, jej wargi rozchylają się zachęcająco, a wasze języki splatają się w namiętnym tańcu."
+
+# game/day35.rpy:1519
+translate polish day35_b_sex_a5182461:
+
+    # "{i}As you kiss, [b_name]'s breathing becomes shallow; she manages to undress herself while still kissing you fervently."
+    "{i}Kiedy całujecie, oddech Belli staje się płytki; udaje jej się rozebrać, bez przerywania pocałunku."
+
+# game/day35.rpy:1524
+translate polish day35_b_sex_75474255:
+
+    # "{i}As you pull your shirt over your head, she unbuttons your pants and frees your erection."
+    "{i}Kiedy ściągasz przez głowę koszulę, ona rozpina Ci spodnie i uwalnia Twoją erekcję."
+
+# game/day35.rpy:1525
+translate polish day35_b_sex_f99129d5:
+
+    # b "I really want you right now."
+    b "Mam na Ciebie taką ochotę."
+
+# game/day35.rpy:1527
+translate polish day35_b_sex_8642fc02:
+
+    # "{i}Looking at you smoulderingly, your sister jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Patrząc na Ciebie pożądliwie, Twoja siostra zaczyna Cię masować, powoli ściągając napletek z główki Twojego penisa."
+
+# game/day35.rpy:1529
+translate polish day35_b_sex_f5ec1bb1:
+
+    # "{i}Looking at you smoulderingly, your girl jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Patrząc na ciebie z rozkoszą, twoja dziewczyna szarpie cię, powoli naciągając napletek na żołądź."
+
+# game/day35.rpy:1530
+translate polish day35_b_sex_ba01253b:
+
+    # "{i}You play with her breasts as the jerking becomes increasingly more frantic and [b_name] moans with hunger."
+    "{i}Bawisz się jej piersiami, ruchy Belli stają się coraz gwałtowniejsze i zaczyna jęczeć z podniecenia."
+
+# game/day35.rpy:1535
+translate polish day35_b_sex_da5dbc83:
+
+    # "{i}You pull her closer and kiss her again, teasing her below by rubbing your tip against her labia, wet with her juices."
+    "{i}Przyciągasz ją bliżej i ponownie całujesz, drażniąc ją, ocierając się czubkiem penisa o jej wargi sromowe, które już są mokre od jej soków."
 
 # game/day35.rpy:1536
-translate polish day35_iris_visit_2a7d82f8:
+translate polish day35_b_sex_0c70ff9b:
 
-    # "{i}Her asshole feels as tight as a virgin's pussy as you begin to sway back and forth, causing your cock to slide in and out of her asshole ever so slightly."
-    "{i}Jej dupa czuje się tak ciasno, jak cipka dziewicy, jak zaczniesz kołysać się w przód i w tył, powodując, że twój kogut wsuwa się i wysuwa z jej dupy coraz bardziej lekko."
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Używając swojego kutasa, masujesz obszar wokół jej łechtaczki, a potem bezpośrednio samą łechtaczkę."
 
-# game/day35.rpy:1547
-translate polish day35_iris_visit_c781fe3d:
+# game/day35.rpy:1537
+translate polish day35_b_sex_6516f350:
 
-    # "{i}The older woman shudders and gasps, her eyes rolled backward and a lewd smile gracing her face."
-    "{i}Starsza kobieta drży i sapie, jej oczy wywracają się do tyłu, a lubieżny uśmiech gości na jej twarzy."
+    # b "Oh God, [p_name]!"
+    b "O Boże, [p_name]!"
 
-# game/day35.rpy:1566
-translate polish day35_iris_visit_cf3f253e:
+# game/day35.rpy:1538
+translate polish day35_b_sex_d4dafe9c:
 
-    # "{i}Her words have an immediate effect on you, and your own orgasm is approaching fast."
-    "{i}Jej słowa mają na ciebie natychmiastowy wpływ i twój własny orgazm zbliża się szybko."
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Jedną z rąk Bella zaciska na Twoim ramieniu, a drugą próbuje wepchnąć w siebie Twojego penisa."
 
-# game/day35.rpy:1573
-translate polish day35_iris_visit_b87a9704:
+# game/day35.rpy:1539
+translate polish day35_b_sex_2205fa0a:
 
-    # "{i}In a split second, you decide you want to finish inside her pussy and pull your cock out of Iris' asshole."
-    "{i}W ułamku sekundy decydujesz, że chcesz skończyć wewnątrz jej cipki i wyciągasz swojego kutasa z dupy Iris."
+    # p "Are we really going to do this here?"
+    p "Naprawdę zamierzamy to tutaj zrobić?"
 
-# game/day35.rpy:1576
-translate polish day35_iris_visit_28d650a3:
+# game/day35.rpy:1542
+translate polish day35_b_sex_d7a7f399:
 
-    # "{i}In a split second, you decide to remain inside her and finish inside her pussy, so you keep fucking her for several intense thrusts."
-    "{i}W ułamku sekundy decydujesz, że chcesz pozostać w jej wnętrzu i skończyć w jej cipce, więc dalej ją pieprzysz przez kilka intensywnych pchnięć"
+    # "{i}Your sister just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Twoja siostra tylko kiwa głową, przygryzając dolną wargę, sam ten widok podnieca Cię tak, że jesteś gotowy przedwcześnie trysnąć."
 
-# game/day35.rpy:1589
-translate polish day35_iris_visit_5bf8008f:
+# game/day35.rpy:1544
+translate polish day35_b_sex_2ca9756a:
 
-    # "{i}In a split second, you decide you want to finish inside her ass, so you keep fucking her for several intense thrusts."
-    "{i}W ułamku sekundy decydujesz, że chcesz skończyć wewnątrz jej dupy, więc kontynuujesz pieprzenie jej przez kilka intensywnych pchnięć."
+    # "{i}Your girlfriend just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Twoja dziewczyna tylko kiwa głową, przygryzając dolną wargę, a jej spojrzenie sprawia, że niemal natychmiast dochodzisz."
+
+# game/day35.rpy:1549
+translate polish day35_b_sex_c05f6ab6:
+
+    # "{i}[b_name] spreads her legs to allow your cock to slide inside her with ease."
+    "{i}Bella rozkłada nogi, pozwalając Twojemu kutasowi wsunąć się w nią z łatwością."
+
+# game/day35.rpy:1550
+translate polish day35_b_sex_1223e8d3:
+
+    # "{i}You proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Zaczynasz ruchać ją powoli, wpychając swojego penisa na całą długość w jej wilgotne wnętrze."
+
+# game/day35.rpy:1551
+translate polish day35_b_sex_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Oh Bella!"
+
+# game/day35.rpy:1552
+translate polish day35_b_sex_3539b25e:
+
+    # b "Yes, [p_name]!"
+    b "Tak, [p_name]!"
+
+# game/day35.rpy:1555
+translate polish day35_b_sex_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Ruchasz swoją siostrę tak intensywnie, że oboje zapominacie, gdzie jesteście, całkowicie skupieni na swojej rozkoszy."
+
+# game/day35.rpy:1557
+translate polish day35_b_sex_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Pieprząc swoją dziewczynę tak intensywnie, że oboje zapominacie, gdzie jesteście, całkowicie skupiając się na osiąganiu nowych szczytów przyjemności."
+
+# game/day35.rpy:1558
+translate polish day35_b_sex_e7c2a5b1:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you finger her little clit to help her reach her climax."
+    "{i}Czujesz, jak Bella drży w Twoich rękach i wiesz, że jej orgazm jest bliski, więc zaczynasz dotykać jej łechtaczki, pomagając jej dojść."
+
+# game/day35.rpy:1560
+translate polish day35_b_sex_dd31e68f:
+
+    # b "F-ffffuuuu..."
+    b "K- Kuurrrr..."
+
+# game/day35.rpy:1564
+translate polish day35_b_sex_63e14af3:
+
+    # p "Do you want to taste me?"
+    p "Chcesz mnie posmakować?"
+
+# game/day35.rpy:1565
+translate polish day35_b_sex_488fb012:
+
+    # b "Y-yes! I want all of it!"
+    b "T- Tak! Proszę!"
+
+# game/day35.rpy:1571
+translate polish day35_b_sex_83371610:
+
+    # "{i}[b_name] quickly kneels before you, opening her mouth."
+    "{i}Bella szybko klęka przed Tobą, otwierając usta."
+
+# game/day35.rpy:1572
+translate polish day35_b_sex_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Nadchodzi mała."
+
+# game/day35.rpy:1579
+translate polish day35_b_sex_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Twój kutas, spoczywający na dolnej wardze Twojej siostry, wpompowuje obfitą ilość nasienia do jej otwartych ust."
+
+# game/day35.rpy:1581
+translate polish day35_b_sex_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Twój kutas spoczywający na jej dolnej wardze pompuje obfite ilości nasienia do otwartych ust [b_name]."
+
+# game/day35.rpy:1585
+translate polish day35_b_sex_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Nie chcąc ubrudzić sobie twarzy ani klatki piersiowej, Bella posłusznie połyka całą zgromadzoną spermę."
+
+# game/day35.rpy:1594
+translate polish day35_b_sex_84ae19a5:
+
+    # "{i}Your orgasm coincides with hers and the feeling is almost too overwhelming"
+    "{i}Jej orgazm Ciebie też doprowadza do spełnienia, rozkosz, którą odczuwasz jest niemal obezwładniająca."
 
 # game/day35.rpy:1603
-translate polish day35_iris_visit_d6fd4b00:
+translate polish day35_b_sex_e2778beb:
 
-    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' asshole."
-    "{i}W ułamku sekundy decydujesz się pokryć jej ciało swoim nasieniem i wyciągasz swojego kutasa z dupy Iris."
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of your sister."
+    "{i}Twój kutas, zagłębiony po same jaja w jej mokrej dziurce, wpompowuje do wnętrza Twojej siostry obfite ilości nasienia."
 
 # game/day35.rpy:1605
-translate polish day35_iris_visit_26081ed6:
+translate polish day35_b_sex_fc8995db:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Twój kutas mocno zakorzeniony w jej mokrej szczelinie pompuje obfite ilości nasienia wewnątrz [b_name]."
+
+# game/day35.rpy:1607
+translate polish day35_b_sex_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Kiedy się z niej wysuwasz, sperma wycieka z jej cipki i spływa po jej udach."
+
+# game/day35.rpy:1619
+translate polish day35_b_sex_a79d3d9d:
+
+    # b "You've made quite a mess."
+    b "Narobiłeś niezłego bałaganu."
+
+# game/day35.rpy:1620
+translate polish day35_b_sex_3d2db6a7:
+
+    # p "Sorry for that."
+    p "Wybacz."
+
+# game/day35.rpy:1621
+translate polish day35_b_sex_7a735aae:
+
+    # b "Don't be silly."
+    b "Nie bądź głupi."
+
+# game/day35.rpy:1623
+translate polish day35_b_sex_84fe3e86:
+
+    # b "I was afraid you'd make a mess."
+    b "Bałam się, że narobisz bałaganu."
+
+# game/day35.rpy:1624
+translate polish day35_b_sex_d49aaacb:
+
+    # p "You took care of that very elegantly."
+    p "Ale bardzo elegancko się tym zajęłaś."
+
+# game/day35.rpy:1625
+translate polish day35_b_sex_eb53660d:
+
+    # b "I did, didn't I?"
+    b "Prawda?"
+
+# game/day35.rpy:1626
+translate polish day35_b_sex_043cf62e:
+
+    # p "I'll go and pay for that nice set of lingerie."
+    p "Pójdę zapłacić za ten komplet."
+
+# game/day35.rpy:1627
+translate polish day35_b_sex_60d90d51:
+
+    # b "Great, I'll be with you in a moment!"
+    b "Okej, zaraz do Ciebie dołączę!"
+
+# game/day35.rpy:1642
+translate polish day35_flashback_sex_697fe1ca:
+
+    # "{i}Sasha didn't hold back when she kissed the younger girl, and Sabine was obviously overwhelmed by it."
+    "{i}Sasha nie powstrzymywała się, całując młodszą dziewczynę, Sabine była wyraźnie tym przytłoczona."
+
+# game/day35.rpy:1643
+translate polish day35_flashback_sex_5faf6a2b:
+
+    # sa "Sasha..."
+    sa "Sasha..."
+
+# game/day35.rpy:1644
+translate polish day35_flashback_sex_f0631e93:
+
+    # s "Just enjoy, dear."
+    s "Ciesz się chwilą, kochanie."
+
+# game/day35.rpy:1653
+translate polish day35_flashback_sex_c94f5a34:
+
+    # "{i}Sabine held her breath while Sasha slowly removed her top, their mouths and tongues still in firm contact with each other."
+    "{i}Sabine wstrzymała oddech, kiedy Sasha zaczęła powoli ściągać jej bluzkę, ich usta i języki nadal mocno się ze sobą stykały."
+
+# game/day35.rpy:1654
+translate polish day35_flashback_sex_18d63bcb:
+
+    # s "You're a beautiful girl, Sabine."
+    s "Jesteś piękną dziewczyną, Sabine."
+
+# game/day35.rpy:1655
+translate polish day35_flashback_sex_a7a329a1:
+
+    # sa "Do you... do you really think so?"
+    sa "Czy Ty... Naprawdę tak myślisz?"
+
+# game/day35.rpy:1656
+translate polish day35_flashback_sex_be4259d8:
+
+    # s "I wouldn't tell you otherwise."
+    s "Gdybym tak nie myślała, to bym tego nie powiedziała."
+
+# game/day35.rpy:1657
+translate polish day35_flashback_sex_ce3d1e49:
+
+    # "{i}I'd never seen Sabine this shy or flustered, but Sasha and the promise of that passionate kiss had a profound impact on Miley's friend."
+    "{i}Nigdy nie widziałem Sabine tak onieśmielonej, czy nerwowej, ale Sasha i jej namiętny pocałunek miały na nią wielki wpływ."
+
+# game/day35.rpy:1659
+translate polish day35_flashback_sex_4da7e08d:
+
+    # "{i}Sasha lowered her head and proceeded to kiss Sabine's chest, lingering at her small breasts and nipples."
+    "{i}Sasha opuściła głowę i zaczęła całować klatkę Sabine, zatrzymując się na jej małych piersiach i sutkach."
+
+# game/day35.rpy:1660
+translate polish day35_flashback_sex_fcd1ffae:
+
+    # s "Soft skin."
+    s "Miękka skóra."
+
+# game/day35.rpy:1661
+translate polish day35_flashback_sex_0d4c3345:
+
+    # s "Very cute breasts."
+    s "Bardzo ładny biust."
+
+# game/day35.rpy:1662
+translate polish day35_flashback_sex_c5e5f65c:
+
+    # sa "Oooh!"
+    sa "Oooh!"
+
+# game/day35.rpy:1663
+translate polish day35_flashback_sex_d62209ac:
+
+    # s "Do you like it when I lick you there?"
+    s "Podoba Ci się, kiedy Cię tam liżę?"
+
+# game/day35.rpy:1664
+translate polish day35_flashback_sex_791b9e20:
+
+    # sa "Y-yes..."
+    sa "T- Tak..."
+
+# game/day35.rpy:1665
+translate polish day35_flashback_sex_bec6b393:
+
+    # s "Would you like me to continue?"
+    s "Chcesz, żebym kontynuowała?"
+
+# game/day35.rpy:1666
+translate polish day35_flashback_sex_ba6f134b:
+
+    # sa "Oh yes, please."
+    sa "Oh tak, proszę."
+
+# game/day35.rpy:1671
+translate polish day35_flashback_sex_e36d3e49:
+
+    # "{i}Sasha helped the younger girl remove her pants, revealing her panties."
+    "{i}Sasha pomogła młodszej dziewczynie zdjąć spodnie, odsłaniając jej majtki."
+
+# game/day35.rpy:1672
+translate polish day35_flashback_sex_f3f334b8:
+
+    # s "I wonder what's hiding in there..."
+    s "Zastanawiam się, co się tam kryje..."
+
+# game/day35.rpy:1673
+translate polish day35_flashback_sex_2f3808ab:
+
+    # sa "Nothing special."
+    sa "Nic specjalnego."
+
+# game/day35.rpy:1674
+translate polish day35_flashback_sex_9f30c2fc:
+
+    # s "I beg to differ."
+    s "Jestem innego zdania."
+
+# game/day35.rpy:1675
+translate polish day35_flashback_sex_23e87d94:
+
+    # s "Let's get a little more comfortable."
+    s "Ułóżmy się trochę bardziej komfortowo."
+
+# game/day35.rpy:1677
+translate polish day35_flashback_sex_e093aa09:
+
+    # "{i}As Sasha stood up she looked directly into my direction, letting me know she was aware of the audience."
+    "{i}Kiedy Sasha wstała, spojrzała prosto w moją stronę, dając mi znać, że zdaje sobie sprawę, że ma publiczność."
+
+# game/day35.rpy:1678
+translate polish day35_flashback_sex_5817038a:
+
+    # "{i}Then, for the benefit of Sabine and me, she started to undress herself agonizingly slow."
+    "{i}Wtedy, ku radości mojej i Sabine, zaczęła się rozbierać boleśnie powoli."
+
+# game/day35.rpy:1683
+translate polish day35_flashback_sex_6fa7337a:
+
+    # s "What do you think, Sabine?"
+    s "Co myślisz, Sabine?"
+
+# game/day35.rpy:1684
+translate polish day35_flashback_sex_9db22226:
+
+    # sa "You're beautiful."
+    sa "Jesteś piękna."
+
+# game/day35.rpy:1685
+translate polish day35_flashback_sex_e7015632:
+
+    # s "Good, now kiss me again."
+    s "Dobrze, pocałuj mnie."
+
+# game/day35.rpy:1691
+translate polish day35_flashback_sex_f685c514:
+
+    # "{i}The girls shared another kiss, Sasha's hand methodically inching towards Sabine's panties and finally rubbing the young girl's labia through the fabric of the underwear."
+    "{i}Dziewczyny złączyły się w kolejnym pocałunku, ręka Sashy metodycznie przesuwała się w kierunku majtek Sabine i wreszcie zaczęła pocierać, przez materiał bielizny, wargi sromowe młodej dziewczyny."
+
+# game/day35.rpy:1692
+translate polish day35_flashback_sex_dc33947e:
+
+    # sa "S-s-Sasha..."
+    sa "S- S- Sasha..."
+
+# game/day35.rpy:1693
+translate polish day35_flashback_sex_596e183a:
+
+    # s "Yes, sweetie?"
+    s "Tak skarbie?"
+
+# game/day35.rpy:1694
+translate polish day35_flashback_sex_40502c82:
+
+    # s "You know you're really wet down there?"
+    s "Wiesz, że jesteś naprawdę mokra?"
+
+# game/day35.rpy:1695
+translate polish day35_flashback_sex_e0ea9b76:
+
+    # sa "Yes..."
+    sa "Tak..."
+
+# game/day35.rpy:1696
+translate polish day35_flashback_sex_6d660ea4:
+
+    # s "Do you like what we're doing?"
+    s "Podoba Ci się to, co robię?"
+
+# game/day35.rpy:1697
+translate polish day35_flashback_sex_c0b742bc:
+
+    # sa "I love it."
+    sa "Bardzo."
+
+# game/day35.rpy:1698
+translate polish day35_flashback_sex_931bfcaf:
+
+    # s "Why don't you play with my puppies for a while, and I'll help you out of these panties."
+    s "Może pobawisz się przez chwilę moimi cycuszkami, a ja pomogę Ci zdjąć te majteczki."
+
+# game/day35.rpy:1704
+translate polish day35_flashback_sex_c14584c7:
+
+    # "{i}Sabine didn't need much encouraging and turned her attention to Sasha's breasts immediately."
+    "{i}Sabine nie trzeba było długo namawiać i natychmiast przykuła swoją uwagę do piersi Sashy."
+
+# game/day35.rpy:1705
+translate polish day35_flashback_sex_22d437a7:
+
+    # s "Oh, that's good."
+    s "Oh, tak dobrze."
+
+# game/day35.rpy:1706
+translate polish day35_flashback_sex_7e3a9cbf:
+
+    # s "Yes, keep going."
+    s "Rób tak dalej."
+
+# game/day35.rpy:1707
+translate polish day35_flashback_sex_fcbf1cb6:
+
+    # "{i}Sasha revealed the young girl's pussy, the wetness of her lips even visible from my point of view."
+    "{i}Sasha odsłoniła cipkę młodej dziewczyny, nawet z takiej odległości widziałem, jaka była mokra."
+
+# game/day35.rpy:1713
+translate polish day35_flashback_sex_f9bb2674:
+
+    # "{i}The direct contact of Sasha's fingers on her bared pussy made Sabine jump a little and the older woman's nipple slipped from her mouth."
+    "{i}Bezpośredni kontakt palców Sashy z jej ogoloną cipką sprawił, że Sabine lekko podskoczyła, a sutek starszej kobiety wysunął się z jej ust."
+
+# game/day35.rpy:1714
+translate polish day35_flashback_sex_55069217:
+
+    # s "Just keep going, sweet thing..."
+    s "Nie przestawaj słodziutka..."
+
+# game/day35.rpy:1715
+translate polish day35_flashback_sex_0e074a96:
+
+    # s "Don't worry, I'm going to make you feel good."
+    s "Nie martw się, sprawię, że poczujesz się lepiej."
+
+# game/day35.rpy:1716
+translate polish day35_flashback_sex_80e39750:
+
+    # sa "I-it already does!"
+    sa "J- Już to robisz!"
+
+# game/day35.rpy:1718
+translate polish day35_flashback_sex_4a2bafe1:
+
+    # "{i}When Sasha began to rub the other girl's slit, her moans were an unmistakable sign of deeply felt pleasure."
+    "{i}Sasha zaczęła pocierać szparkę drugiej dziewczyny, jęki Sabine były niewątpliwą oznaką jej głębokiej przyjemności."
+
+# game/day35.rpy:1719
+translate polish day35_flashback_sex_e6b7b3f0:
+
+    # sa "Oooh, Sasha!"
+    sa "Oooh, Sasha!"
+
+# game/day35.rpy:1720
+translate polish day35_flashback_sex_9d9a33a6:
+
+    # s "That's it, do you want more?"
+    s "Właśnie tak, chcesz więcej?"
+
+# game/day35.rpy:1721
+translate polish day35_flashback_sex_6684ea66:
+
+    # sa "Yes, yes please!"
+    sa "Tak, tak proszę!"
+
+# game/day35.rpy:1723
+translate polish day35_flashback_sex_fdd354c0:
+
+    # "{i}Before moving to Sabine's cherry, Sasha showered her belly and thighs with sweet kisses."
+    "{i}Przed skupieniem się na cipce Sabine, Sasha obsypała brzuch i uda dziewczyny słodkimi pocałunkami."
+
+# game/day35.rpy:1724
+translate polish day35_flashback_sex_b35bcb57:
+
+    # "{i}When she finally arrived at the young girl's sex, her tongue explored every inch of it, stimulating Sabine to before unknown heights of pleasure."
+    "{i}Kiedy w końcu dotarła do celu, język Sashy badał każdy cal jej kobiecości, wzbudzając w Sabine nieznaną do tej pory rozkosz."
+
+# game/day35.rpy:1726
+translate polish day35_flashback_sex_1fa09953:
+
+    # sa "I'm going to cum, Sasha!"
+    sa "Zaraz dojdę, Sasha!"
+
+# game/day35.rpy:1727
+translate polish day35_flashback_sex_79d9369b:
+
+    # s "Let it all out, sweetheart!"
+    s "Zrób to kochanie!"
+
+# game/day35.rpy:1728
+translate polish day35_flashback_sex_b99515cd:
+
+    # sa "Aaaah!"
+    sa "Aaaah!"
+
+# game/day35.rpy:1730
+translate polish day35_flashback_sex_ca105b99:
+
+    # sa "Oh God!"
+    sa "O Boże!"
+
+# game/day35.rpy:1731
+translate polish day35_flashback_sex_8dfe2e2d:
+
+    # sa "Don't stop!"
+    sa "Nie przestawaj!"
+
+# game/day35.rpy:1732
+translate polish day35_flashback_sex_988fa21b:
+
+    # sa "Don't s-stop, please!"
+    sa "Nie p- przestawaj, proszę!"
+
+# game/day35.rpy:1738
+translate polish day35_flashback_sex_c685d3f9:
+
+    # "{i}Sasha showed no intention of doing so, and expertly guided Sabine to her climax."
+    "{i}Sasha nie miała takiego zamiaru i fachowo doprowadziła Sabine do orgazmu."
+
+# game/day35.rpy:1739
+translate polish day35_flashback_sex_5ed46d3a:
+
+    # "{i}The sight of Sabine, helplessly pleasured by Sasha and shuddering uncontrollably on the sofa was incredibly arousing."
+    "{i}Widok Sabine, bezradnie zaspokajanej przez Sashę, drżącej w niekontrolowany sposób na sofie, był niesamowicie podniecający."
+
+# game/day35.rpy:1744
+translate polish day35_flashback_sex_f167671f:
+
+    # "{i}In fascination, I kept watching the girls as Sabine rested her head on Sasha's chest, happy tears in her eyes, while the older woman stroked her skin."
+    "{i}Zafascynowany, dalej obserwowałem dziewczyny, jak Sabine ze szczęśliwymi łzami w oczach oparła głowę na piersi Sashy, podczas gdy ona głaskała ją po skórze."
+
+# game/day35.rpy:1745
+translate polish day35_flashback_sex_4ec780aa:
+
+    # "{i}I snuck back into the bedroom and slipped next to Miley, holding her sleeping body in my arms."
+    "{i}Zakradłem się z powrotem do sypialni i wśliznąłem się do łóżka obok Miley, obejmując jej śpiące ciało ramionami."
+
+# game/day35.rpy:1746
+translate polish day35_flashback_sex_dae11ba8:
+
+    # "{i}I wasn't sure what exactly I had witnessed, but Sasha sure as hell made a connection with Sabine."
+    "{i}Nie byłem pewny, czego dokładnie byłem świadkiem, ale Sasha na pewno nawiązała więź z Sabine."
+
+# game/day35.rpy:1747
+translate polish day35_flashback_sex_89f1652c:
+
+    # "{i}Just how deep the connection really went I learned a little later."
+    "{i}Jak głęboka była ta więź, dowiedziałem się trochę później."
+
+# game/day35.rpy:1765
+translate polish day35_ir_sex_48410ad7:
+
+    # ir "Could you just kiss me?"
+    ir "Możesz mnie po prostu pocałować?"
+
+# game/day35.rpy:1767
+translate polish day35_ir_sex_26751e8d:
+
+    # "{i}Needing no further encouragement, you kiss her tears away and soon you're both as passionate as before."
+    "{i}Nie potrzebujesz dalszej zachęty, całujesz ją, ocierasz jej łzy i wkrótce oboje jesteście tak namiętni jak wcześniej."
+
+# game/day35.rpy:1768
+translate polish day35_ir_sex_372ced16:
+
+    # ir "I need you, [p_name]!"
+    ir "Chcę Cię w sobie poczuć [p_name]!"
+
+# game/day35.rpy:1773
+translate polish day35_ir_sex_7f500837:
+
+    # "{i}Softly, you lay her on the bed and stimulate her lower lips with your wet glans."
+    "{i}Delikatnie kładziesz ją na łóżku i stymulujesz jej srom główką swojego penisa."
+
+# game/day35.rpy:1774
+translate polish day35_ir_sex_8047627a:
+
+    # "{i}The older woman sighs and touches your muscular chest in delight, caressing your arms in an attempt to will you forward, deep inside her."
+    "{i}Starsza kobieta wzdycha i z zachwytem dotyka Twojej muskularnej klatki piersiowej, pieszcząc Twoje ramiona, próbując pchnąć Cię przód, głęboko w siebie."
+
+# game/day35.rpy:1779
+translate polish day35_ir_sex_ef72aa8b:
+
+    # "{i}Your initial thrust still comes as a surprise to her, as she gasps audibly when your dick slips inside her wet pussy."
+    "{i}Twoje pierwsze pchnięcie i tak jest dla niej niespodzianką, wzdycha głośno, gdy Twój kutas wsuwa się w jej mokrą szparkę."
+
+# game/day35.rpy:1780
+translate polish day35_ir_sex_e8a18f03:
+
+    # ir "Oh yes!"
+    ir "Oh tak!"
+
+# game/day35.rpy:1782
+translate polish day35_ir_sex_430e942e:
+
+    # "{i}Her luxurious body bounces on the rhythm of your love-making, which is increasing in intensity."
+    "{i}Jej dorodne ciało podskakuje w rytmie Twoich pchnięć, których intensywność rośnie."
+
+# game/day35.rpy:1783
+translate polish day35_ir_sex_a831e68f:
+
+    # "{i}The only things you manage to utter are hoarse moans and sighs, punctuated by hasty tongue kisses."
+    "{i}Jedyne, co udaje Ci się wykrztusić, to ochrypłe jęki i westchnienia, przerywane pospiesznymi, głodnymi pocałunkami."
+
+# game/day35.rpy:1784
+translate polish day35_ir_sex_8f8668bb:
+
+    # ir "I want you to fuck me deeper..."
+    ir "Chcę, żebyś wyruchał mnie głębiej..."
+
+# game/day35.rpy:1785
+translate polish day35_ir_sex_bba5bef4:
+
+    # "{i}You know exactly what she means when she gets on all fours, her majestic ass wiggling in the air."
+    "{i}Dokładnie wiesz, co ma na myśli, kiedy układa się na czworaka, jej majestatyczny tyłek wisi w powietrzu."
+
+# game/day35.rpy:1794
+translate polish day35_ir_sex_c58ec8f0:
+
+    # "{i}Before you plunge your cock inside her hairy slit, you pause, looking at the delicate folds of her asshole."
+    "{i}Przed zanurzeniem swojego fiuta w jej owłosionej dziurce, zatrzymujesz się, patrząc na delikatną skórę jej odbytu."
+
+# game/day35.rpy:1795
+translate polish day35_ir_sex_dc3c797f:
+
+    # p "Iris..."
+    p "Iris..."
+
+# game/day35.rpy:1796
+translate polish day35_ir_sex_5522f4f9:
+
+    # ir "Yes... [p_name], is something wrong?"
+    ir "Tak... [p_name], coś nie tak?"
+
+# game/day35.rpy:1797
+translate polish day35_ir_sex_1f14d985:
+
+    # p "Would you like me to do what you did at university?"
+    p "Chcesz, żebym zrobił z Tobą to, co robiłeś na uniwersytecie?"
+
+# game/day35.rpy:1798
+translate polish day35_ir_sex_0f960595:
+
+    # "{i}It takes a while for a slight smile to appear on Iris' face and she barely nods in agreement."
+    "{i}Mija trochę czasu, ale w końcu na twarzy Iris pojawia się subtelny uśmiech i kiwa lekko głową."
+
+# game/day35.rpy:1799
+translate polish day35_ir_sex_3136b2cf:
+
+    # ir "I'd like that..."
+    ir "Chcę, ale..."
+
+# game/day35.rpy:1804
+translate polish day35_ir_sex_be8e1955:
+
+    # ir "Please be gentle."
+    ir "Proszę, bądź delikatny."
+
+# game/day35.rpy:1805
+translate polish day35_ir_sex_d7126455:
+
+    # ir "There's a bottle of lube in my nightstand."
+    ir "W mojej szafce nocnej jest lubrykant."
+
+# game/day35.rpy:1806
+translate polish day35_ir_sex_47a900cd:
+
+    # ir "It was for my toy..."
+    ir "To do mojej zabawki..."
+
+# game/day35.rpy:1807
+translate polish day35_ir_sex_d97d43b5:
+
+    # "{i}You find the bottle and make sure Iris is ready for you."
+    "{i}Znajdujesz butelkę i upewniasz się, że Iris jest dla Ciebie gotowa."
+
+# game/day35.rpy:1812
+translate polish day35_ir_sex_5978d2a7:
+
+    # "{i}When you're both ready, you grab hold of her ass and push the head of your cock against her anus."
+    "{i}Kiedy oboje już jesteście gotowi, łapiesz ją za tyłek i dociskasz główkę swojego penisa do jej odbytu."
+
+# game/day35.rpy:1813
+translate polish day35_ir_sex_7bcb4fc4:
+
+    # "{i}Iris holds her breath as your penis inches slowly inside of her, helped by the copious amount of lube."
+    "{i}Iris wstrzymuje oddech, gdy Twój penis powoli się w nią wsuwa, z pomocą dużej ilości lubrykantu."
+
+# game/day35.rpy:1814
+translate polish day35_ir_sex_09e30899:
+
+    # ir "Aaah!"
+    ir "Aaah!"
+
+# game/day35.rpy:1815
+translate polish day35_ir_sex_96aa8b84:
+
+    # p "Should I stop?"
+    p "Mam przestać?"
+
+# game/day35.rpy:1816
+translate polish day35_ir_sex_dea92101:
+
+    # ir "No, keep going."
+    ir "Nie, kontynuuj."
+
+# game/day35.rpy:1817
+translate polish day35_ir_sex_7fe2b824:
+
+    # "{i}The older woman is huffing, her face pressed inside the bedsheets as your cock disappears fully into her ass."
+    "{i}Starsza kobieta dyszy i wciska twarz w prześcieradło, kiedy Twój kutas całkowicie znika w jej tyłku."
+
+# game/day35.rpy:1818
+translate polish day35_ir_sex_f23adae6:
+
+    # ir "Oh Lord!"
+    ir "O Boże!"
+
+# game/day35.rpy:1819
+translate polish day35_ir_sex_79456584:
+
+    # ir "Fuck me! Please?"
+    ir "Zerżnij mnie! Proszę?"
+
+# game/day35.rpy:1826
+translate polish day35_ir_sex_2a7d82f8:
+
+    # "{i}Her asshole feels as tight as a virgin's pussy as you begin to sway back and forth, causing your cock to slide in and out of her asshole ever so slightly."
+    "{i}Jej dupek jest tak ciasny jak cipka dziewicy, gdy zaczynasz kołysać się w przód iw tył, powodując, że twój kutas wsuwa się i wysuwa z jej dupka tak lekko."
+
+# game/day35.rpy:1827
+translate polish day35_ir_sex_1998fb05:
+
+    # "{i}Iris's clenched fists are buried deep into the mattress as she moans with closed eyes, spittle leaking from the corner of her mouth."
+    "{i}Zaciśnięte pięści Iris są głęboko wbite w materac, jęczy z zamkniętymi oczami, a ślina ścieka jej po kącikach ust."
+
+# game/day35.rpy:1828
+translate polish day35_ir_sex_eae3dffd:
+
+    # ir "Don't stop, [p_name]!"
+    ir "Nie przestawaj [p_name]!"
+
+# game/day35.rpy:1829
+translate polish day35_ir_sex_94e5a795:
+
+    # ir "It feels so good!"
+    ir "To cudowne uczucie!"
+
+# game/day35.rpy:1831
+translate polish day35_ir_sex_41b47e0d:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her ass with deep strokes, causing Iris to gasp in delight."
+    "{i}Zachęcony, łapiesz ją mocno za pośladki i zaczynasz ruchać ją w dupę długimi pchnięciami, powodując u Iris westchnienia zachwytu."
+
+# game/day35.rpy:1832
+translate polish day35_ir_sex_8278008f:
+
+    # ir "Oh [p_name]!"
+    ir "Oh [p_name]!"
+
+# game/day35.rpy:1833
+translate polish day35_ir_sex_dc5c0014:
+
+    # ir "Oh yes! Yes!"
+    ir "Oh tak! Tak!"
+
+# game/day35.rpy:1834
+translate polish day35_ir_sex_32108e22:
+
+    # "{i}Iris fingers her pussy while you continue stabbing her asshole and her moans intensify, signaling she's close to her climax."
+    "{i}Iris dotyka swojej cipki, podczas gdy Ty kontynuujesz wbijanie się w jej odbyt, jej jęki się nasilają, sygnalizując, że niedługo zacznie szczytować."
+
+# game/day35.rpy:1840
+translate polish day35_ir_sex_3f8404e3:
+
+    # "{i}Maybe your mind is playing tricks on you, but you think you feel something of the intense orgasm Iris is experiencing as you keep fucking her."
+    "{i}Może Twój umysł płata Ci figle, ale wydaje Ci się, że czujesz coś z intensywnego orgazmu, który doświadcza Iris, gdy ją pieprzysz."
+
+# game/day35.rpy:1841
+translate polish day35_ir_sex_c781fe3d:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backward and a lewd smile gracing her face."
+    "{i}Starsza kobieta drży i sapie, jej oczy wywracają się do tyłu, a na twarzy pojawia się lubieżny uśmiech."
+
+# game/day35.rpy:1847
+translate polish day35_ir_sex_4ee3539a:
+
+    # "{i}You grab hold of her ass and push the head of your cock against her labia, teasing her wet pussy."
+    "{i}Chwytasz jej tyłek i przyciskasz główkę swojego kutasa do jej warg sromowych, drażniąc jej mokrą cipkę."
+
+# game/day35.rpy:1848
+translate polish day35_ir_sex_4273c3ae:
+
+    # ir "Mmmm, please [p_name], fuck me."
+    ir "Mmmm, proszę [p_name], zerżnij mnie."
+
+# game/day35.rpy:1850
+translate polish day35_ir_sex_2ef51ee3:
+
+    # "{i}Iris holds her breath in ecstasy as your penis slips past her slick lips inside her love tunnel."
+    "{i}Iris wstrzymuje oddech w ekstazie, kiedy Twój penis przesuwa się po jej śliskich wargach i wciska się do jej dziurki."
+
+# game/day35.rpy:1851
+translate polish day35_ir_sex_33e54f69:
+
+    # "{i}The woman moans with closed eyes and pushes her ass upwards in order for you to penetrate her even more deeply."
+    "{i}Kobieta jęczy z zamkniętymi oczami i podnosi swój tyłek do góry, abyś mógł ją jeszcze głębiej penetrować."
+
+# game/day35.rpy:1852
+translate polish day35_ir_sex_94e5a795_1:
+
+    # ir "It feels so good!"
+    ir "To cudowne uczucie!"
+
+# game/day35.rpy:1854
+translate polish day35_ir_sex_44e5ba08:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her pussy with deep strokes, causing Iris to gasp in delight."
+    "{i}Zachęcony, łapiesz ją mocno za pośladki i zaczynasz ruchać jej cipkę długimi pchnięciami, powodując u Iris westchnienia zachwytu."
+
+# game/day35.rpy:1855
+translate polish day35_ir_sex_8278008f_1:
+
+    # ir "Oh [p_name]!"
+    ir "Oh [p_name]!"
+
+# game/day35.rpy:1856
+translate polish day35_ir_sex_dc5c0014_1:
+
+    # ir "Oh yes! Yes!"
+    ir "Oh tak! Tak!"
+
+# game/day35.rpy:1857
+translate polish day35_ir_sex_3fc53b4d:
+
+    # "{i}Iris fingers her pussy while you continue to pound her slit and her moans intensify, signaling she's close to her climax."
+    "{i}Iris masuje swoją łechtaczkę, podczas gdy Ty kontynuujesz wbijanie się w jej mokrą szparkę, jej jęki się nasilają, sygnalizując, że niedługo zacznie szczytować."
+
+# game/day35.rpy:1863
+translate polish day35_ir_sex_55927cab:
+
+    # "{i}Within seconds you're part of the intense orgasm Iris is experiencing as you keep fucking her during her convulsions of pleasure."
+    "{i}Po kilku sekundach, czujesz na swoim fiucie intensywny orgazm, którego doświadcza Iris, jej cipka zaciska się na Tobie, podczas gdy Ty nie przestajesz jej posuwać."
+
+# game/day35.rpy:1864
+translate polish day35_ir_sex_872ab584:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backwards, a small stream of spittle leaking from the corner of her mouth."
+    "{i}Starsza kobieta drży i wzdycha, oczy wywracają się jej do tyłu, a po kącikach ust ścieka jej ślina."
+
+# game/day35.rpy:1866
+translate polish day35_ir_sex_8cc23bc2:
+
+    # ir "T-that f-felt s-so amazing!"
+    ir "T- To b- było niesamowite!"
+
+# game/day35.rpy:1867
+translate polish day35_ir_sex_cf3f253e:
+
+    # "{i}Her words have an immediate effect on you, and your own orgasm is approaching fast."
+    "{i}Jej słowa mają na Ciebie natychmiastowy wpływ, czujesz, że Twój własny orgazm szybko się zbliża."
+
+# game/day35.rpy:1874
+translate polish day35_ir_sex_b87a9704:
+
+    # "{i}In a split second, you decide you want to finish inside her pussy and pull your cock out of Iris' asshole."
+    "{i}W ułamku sekundy decydujesz, że chcesz skończyć w jej cipce i wyciągasz swojego kutasa z tyłka Iris."
+
+# game/day35.rpy:1875
+translate polish day35_ir_sex_ef49f9d2:
+
+    # "{i}She doesn't complain when your dick, covered in lube and inside her ass just a moment ago, penetrates her wet gash."
+    "{i}Nie protestuje, kiedy Twój kutas, pokryty lubrykantem i jeszcze przed chwilą w jej tyłku, penetruje jej mokrą szparkę."
+
+# game/day35.rpy:1877
+translate polish day35_ir_sex_28d650a3:
+
+    # "{i}In a split second, you decide to remain inside her and finish inside her pussy, so you keep fucking her for several intense thrusts."
+    "{i}W ułamku sekundy decydujesz się pozostać w niej i skończyć w jej cipce, więc pieprzysz ją przez kilka intensywnych pchnięć."
+
+# game/day35.rpy:1884
+translate polish day35_ir_sex_0ae70127:
+
+    # "{i}Within seconds you flood her vagina with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}W ciągu kilku sekund zalewasz jej pochwę gorącym nasieniem, podczas gdy Iris rozkoszuje się uczuciem wypełniającej ją spermy."
+
+# game/day35.rpy:1886
+translate polish day35_ir_sex_681fbfa8:
+
+    # "{i}Semen leaks out of her pussy and stains the bed sheets as you pull out your cock."
+    "{i}Nasienie wycieka z jej cipki i plami pościel, gdy wyciągasz z niej swojego fiuta."
+
+# game/day35.rpy:1887
+translate polish day35_ir_sex_9c55539d:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Iris wydaje się nie mieć nic przeciwko, jedyne co robi, to patrzy na Ciebie błogo z miłością w oczach."
+
+# game/day35.rpy:1897
+translate polish day35_ir_sex_5bf8008f:
+
+    # "{i}In a split second, you decide you want to finish inside her ass, so you keep fucking her for several intense thrusts."
+    "{i}W ułamku sekundy decydujesz, że chcesz skończyć w jej tyłku, więc wykonujesz jeszcze kilka intensywnych pchnięć."
+
+# game/day35.rpy:1904
+translate polish day35_ir_sex_4e6dfb0b:
+
+    # "{i}Within seconds you flood her asshole with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}W ciągu kilku sekund zalewasz jej odbyt gorącym nasieniem, podczas gdy Iris rozkoszuje się uczuciem wypełniającej ją spermy."
+
+# game/day35.rpy:1906
+translate polish day35_ir_sex_54b105e2:
+
+    # "{i}Semen, mixed with lube, leaks out of her winking anus and stains the bed sheets as you pull out your cock."
+    "{i}Nasienie, zmieszane z lubrykantem wycieka z jej pulsującego odbytu i plami pościel, gdy wyciągasz z niej swojego kutasa."
+
+# game/day35.rpy:1907
+translate polish day35_ir_sex_9c55539d_1:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Iris wydaje się nie mieć nic przeciwko, jedyne co robi, to patrzy na Ciebie błogo z miłością w oczach."
+
+# game/day35.rpy:1921
+translate polish day35_ir_sex_d6fd4b00:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' asshole."
+    "{i}W ułamku sekundy decydujesz się pokryć jej ciało swoim nasieniem i wyciągnąć swojego kutasa z tyłka Iris."
+
+# game/day35.rpy:1923
+translate polish day35_ir_sex_26081ed6:
 
     # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' vagina."
     "{i}W ułamku sekundy decydujesz się pokryć jej ciało swoim nasieniem i wyciągasz swojego kutasa z pochwy Iris."
 
-# game/day35.rpy:1630
-translate polish day35_iris_visit_43a844d8:
+# game/day35.rpy:1926
+translate polish day35_ir_sex_72710649:
+
+    # "{i}Within seconds you spray her back with warm cum as Iris luxuriates in the feeling of being covered in semen."
+    "{i}W ciągu kilku sekund spryskujesz jej plecy swoim gorącym nasieniem, podczas gdy Iris rozkoszuje się uczuciem spływającej po niej spermy."
+
+# game/day35.rpy:1927
+translate polish day35_ir_sex_d0fb3feb:
+
+    # "{i}Iris looks at you lovingly in post-coital bliss as the warm cum drips from the sides of her body."
+    "{i}Iris patrzy na Ciebie błogo z miłością w oczach, kiedy sperma ścieka po bokach jej ciała."
+
+# game/day35.rpy:1936
+translate polish day35_ir_sex_3af46f8a:
+
+    # ir "I'd forgotten how good it felt..."
+    ir "Zapomniałam, jakie to cudowne..."
+
+# game/day35.rpy:1938
+translate polish day35_ir_sex_9c792fa6:
+
+    # p "Anal?"
+    p "Seks analny?"
+
+# game/day35.rpy:1939
+translate polish day35_ir_sex_710b6775:
+
+    # ir "Not just that."
+    ir "Nie tylko to."
+
+# game/day35.rpy:1940
+translate polish day35_ir_sex_9ec71e28:
+
+    # ir "Though it did feel good."
+    ir "Chociaż był naprawdę dobry."
+
+# game/day35.rpy:1941
+translate polish day35_ir_sex_24dcce1d:
+
+    # ir "A little uncomfortable at first..."
+    ir "Tylko z początku trochę niewygodny..."
+
+# game/day35.rpy:1942
+translate polish day35_ir_sex_ad0d1aaf:
+
+    # ir "But I meant in a broader sense, having sex without any restraints."
+    ir "Ale miałam na myśli szerszy kontekst, uprawianie seksu bez żadnych ograniczeń."
+
+# game/day35.rpy:1944
+translate polish day35_ir_sex_5eefe91f:
+
+    # ir "Having sex without any restraints."
+    ir "Uprawianie seksu bez żadnych ograniczeń."
+
+# game/day35.rpy:1945
+translate polish day35_ir_sex_64f73ce2:
+
+    # ir "For a moment, nothing else mattered."
+    ir "Przez chwilę nic innego się nie liczyło."
+
+# game/day35.rpy:1946
+translate polish day35_ir_sex_8c166994:
+
+    # ir "I want us to be lovers, [p_name]."
+    ir "Chcę, żebyśmy byli kochankami [p_name]."
+
+# game/day35.rpy:1947
+translate polish day35_ir_sex_796d9ba7:
+
+    # p "I already thought we were."
+    p "Myślałem, że już jesteśmy."
+
+# game/day35.rpy:1948
+translate polish day35_ir_sex_5400b66c:
+
+    # ir "Maybe we are, but I just felt I needed to say it."
+    ir "Może jesteśmy, ale po prostu chciałam powiedzieć to na głos."
+
+# game/day35.rpy:1949
+translate polish day35_ir_sex_15da191f:
+
+    # ir "Being with you makes me feel like I belong."
+    ir "Kiedy jestem z Tobą, czuję się chciana, jakby to było moje miejsce."
+
+# game/day35.rpy:1950
+translate polish day35_ir_sex_43a844d8:
 
     # ir "You appreciate me, [p_name], and it's a long time since I've felt that way."
-    ir "Doceniasz mnie [p_name] i dawno się tak nie czułem"
+    ir "Doceniasz mnie, [p_name] i już dawno się tak nie czułam."
 
-# game/day35.rpy:1644
-translate polish day35_iris_visit_eefd26fe:
-
-    # p "But know that if you ever need my help, I'll be there for you."
-    p "Ale wiedz, że jeśli kiedykolwiek będziesz potrzebował mojej pomocy, będę przy tobie."# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day35.rpy:498
-translate polish day35_choices_d4dafe9c_1:
-
-    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
-    "{i}Jedna z rąk [b_name] wczepia się w twoje ramię, a drugą próbuje wepchnąć w siebie twojego kutasa."
->>>>>>> polish

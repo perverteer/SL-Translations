@@ -140,7 +140,7 @@ translate polish b_relationship_hard_drive_choices_d0ee19b0:
 translate polish b_relationship_hard_drive_choices_f50a160b:
 
     # p "{i}(Let's see what slutty [b_name] has been up to.)"
-    p ""
+    p "{i}(Zobaczmy, co porabiała puszczalska [b_name])"
 
 # game/day11.rpy:78
 translate polish b_relationship_hard_drive_choices_8d2174ae:
@@ -224,7 +224,7 @@ translate polish b_relationship_hard_drive_choices_2d056ef0:
 translate polish b_relationship_hard_drive_choices_65395ab3:
 
     # p "{i}(That was some show, dear little [b_name].)"
-    p ""
+    p "{i}(That was some show dear little [b_name])"
 
 # game/day11.rpy:121
 translate polish b_relationship_hard_drive_choices_373013ba:
@@ -1064,7 +1064,7 @@ translate polish b_relationship_hard_drive_post_c24117c8:
 translate polish b_relationship_hard_drive_post_1388ac84:
 
     # p "{i}(To be honest, I did have some practice on [b_name].)"
-    p ""
+    p "{i}(Szczerze mówiąc, miałem trochę praktyki na [b_name])"
 
 # game/day11.rpy:350
 translate polish b_relationship_hard_drive_post_e988f1f8:
@@ -1268,7 +1268,7 @@ translate polish b_relationship_hard_drive_post_c279f5d1:
 translate polish b_relationship_hard_drive_post_0c107b7f:
 
     # "{i}Before you can see where she swims [r_name] emerges behind you and climbs on your back."
-    ""
+    "{i}Zanim zdążysz zobaczyć, gdzie pływa [r_name], wynurza się za tobą i wspina na twoje plecy."
 
 # game/day11.rpy:408
 translate polish b_relationship_hard_drive_post_b6835988:
@@ -1394,7 +1394,7 @@ translate polish b_relationship_hard_drive_post_02542d25:
 translate polish b_relationship_hard_drive_post_bb293970:
 
     # "{i}[r_name] positions herself just behind the fence, allowing you to peek."
-    ""
+    "{i}[r_name] ustawia się tuż za ogrodzeniem, umożliwiając podglądanie."
 
 # game/day11.rpy:436
 translate polish b_relationship_hard_drive_post_d23fbea8:
@@ -1706,7 +1706,7 @@ translate polish day11_l_supermarket_3548e230:
 translate polish day11_l_supermarket_87b79db8:
 
     # ri "And this is your friend, I take it?"
-    ri ""
+    ri "Zakładam, że to twój przyjaciel?"
 
 # game/day11.rpy:530
 translate polish day11_l_supermarket_e6c53e67:
@@ -1910,13 +1910,13 @@ translate polish day11_l_supermarket_89d93537:
 translate polish day11_l_supermarket_fd5dfc50:
 
     # p "Did you just insult my friend, asshole?"
-    p ""
+    p "Czy właśnie obraziłeś mojego przyjaciela, dupku?"
 
 # game/day11.rpy:574
 translate polish day11_l_supermarket_f764bf7f:
 
     # br "We're having a conversation. Shut the fuck up."
-    br ""
+    br "Rozmawiamy, zamknij mordę"
 
 # game/day11.rpy:576
 translate polish day11_l_supermarket_33c51571:
@@ -1988,7 +1988,7 @@ translate polish day11_l_supermarket_f8759572:
 translate polish day11_l_supermarket_8158e531:
 
     # p "If you come near [l_name] again I'll press charges. There are enough witnesses."
-    p ""
+    p "Jeśli jeszcze raz zbliżysz się do [l_name], wniosę oskarżenie. Jest wystarczająco dużo świadków"
 
 # game/day11.rpy:608
 translate polish day11_l_supermarket_554318c0:
@@ -2042,7 +2042,7 @@ translate polish day11_l_supermarket_40df63ae:
 translate polish day11_l_supermarket_d8276ca9:
 
     # "{i}[l_name] says very little on the way home. She's clearly very tense."
-    ""
+    "{i}[l_name] mówi bardzo mało w drodze do domu, jest wyraźnie bardzo spięta."
 
 # game/day11.rpy:627
 translate polish day11_l_supermarket_e9712a21:
@@ -2366,7 +2366,7 @@ translate polish day11_p_room_evening_choices_f274a9ac:
 translate polish day11_p_room_evening_choices_9e659bd8:
 
     # p "Dwayne didn't even make an effort to hide the hot stuff. [b_name] sent him a lot of pictures and a couple of videos..."
-    p ""
+    p "Dwayne nawet nie starał się ukryć, że [b_name] wysłał mu wiele zdjęć i kilka filmów."
 
 # game/day11.rpy:707
 translate polish day11_p_room_evening_choices_4a33241a:
@@ -2708,25 +2708,25 @@ translate polish day11_b_conversation_cdef8900:
 translate polish day11_b_conversation_0a694092:
 
     # b "I thought you were going to be a spoiled, entitled brat. And I guess I was right."
-    b ""
+    b "Myślałem, że będziesz rozpieszczonym bachorem i chyba miałem rację."
 
 # game/day11.rpy:785
 translate polish day11_b_conversation_c806bbaa:
 
     # b "I told [m_name] we didn't need a male in our household. But she persisted for some reason."
-    b ""
+    b "Powiedziałem [m_name], że nie potrzebujemy mężczyzny w naszym gospodarstwie domowym, ale ona z jakiegoś powodu się uparła."
 
 # game/day11.rpy:786
 translate polish day11_b_conversation_fe4a86c4:
 
     # p "Okay... You have a pretty violent reaction to change, it seems."
-    p ""
+    p "Wygląda na to, że masz dość gwałtowną reakcję na zmiany."
 
 # game/day11.rpy:787
 translate polish day11_b_conversation_efe857be:
 
     # b "Fuck you."
-    b ""
+    b "Pierdol się"
 
 # game/day11.rpy:793
 translate polish day11_b_conversation_bfbc2fdf:
@@ -2738,7 +2738,7 @@ translate polish day11_b_conversation_bfbc2fdf:
 translate polish day11_b_conversation_d0169bcb:
 
     # "{i}[b_name] loosens up after a few drinks and you talk about the past. She even laughs a few times at your jokes."
-    ""
+    "{i}[b_name] rozluźnia się po kilku drinkach i rozmawiacie o przeszłości, a nawet kilka razy śmieje się z twoich żartów."
 
 # game/day11.rpy:797
 translate polish day11_b_conversation_1fd1715d:
@@ -2774,7 +2774,7 @@ translate polish day11_b_conversation_9f842d00:
 translate polish day11_b_conversation_408a1562:
 
     # "{i}Reluctantly [b_name] inches closer. You pull her towards you and give her a kiss on the mouth. She clearly doesn't know what to do, but doesn't back off."
-    ""
+    "{i}Niechętnie [b_name] podchodzi bliżej, przyciągasz ją do siebie i całujesz w usta, a ona wyraźnie nie wie, co zrobić, ale nie cofa się."
 
 # game/day11.rpy:807
 translate polish day11_b_conversation_bf907eb6:
@@ -2858,7 +2858,7 @@ translate polish day11_b_conversation_5f09d76c:
 translate polish day11_b_conversation_5a5dca69:
 
     # "{i}[b_name] stands up and leaves for the restroom. After a minute or two you follow her."
-    ""
+    "{i}[b_name] wstaje i wychodzi do toalety Po minucie lub dwóch idziesz za nią."
 
 # game/day11.rpy:828
 translate polish day11_b_conversation_c2295c17:
@@ -2960,7 +2960,7 @@ translate polish day11_b_conversation_9f6d5f2c:
 translate polish day11_b_conversation_72afa303:
 
     # "{i}[b_name] teasingly runs her hands along the sides of your hips. She grabs hold of your underpants and slowly pulls them down, revealing your erect penis."
-    ""
+    "{i}[b_name] kusząco przejeżdża dłońmi po bokach twoich bioder, chwyta za twoje majtki i powoli ściąga je w dół, odsłaniając twojego wzwiedzionego penisa."
 
 # game/day11.rpy:851
 translate polish day11_b_conversation_e216f204:
@@ -3014,7 +3014,7 @@ translate polish day11_b_conversation_a667511c:
 translate polish day11_b_conversation_b35f271e:
 
     # "{i}[b_name] removes her jacket and top, revealing her big breasts."
-    ""
+    "{i}[b_name] zdejmuje kurtkę i top, odsłaniając swoje duże piersi."
 
 # game/day11.rpy:864
 translate polish day11_b_conversation_8d05b641:
@@ -3074,7 +3074,7 @@ translate polish day11_b_conversation_a38fb5b0:
 translate polish day11_b_conversation_75a48774:
 
     # "{i}As she hears your ragged breathing she seems to know you're close too. She keeps jerking your dick while maintaining eye contact. A look of anticipation masks her face, but a glint of hunger is visible in her stare."
-    ""
+    "{i}Kiedy słyszy twój nierówny oddech, wydaje się wiedzieć, że też jesteś blisko. Szarpie twojego kutasa, utrzymując kontakt wzrokowy. Wyraz oczekiwania maskuje jej twarz, ale w jej spojrzeniu widać błysk głodu."
 
 # game/day11.rpy:882
 translate polish day11_b_conversation_8e38f6f4:
@@ -3092,7 +3092,7 @@ translate polish day11_b_conversation_64fd971f:
 translate polish day11_b_conversation_2c90b59b:
 
     # "{i}A massive load of cum shoots from your throbbing penis and covers [b_name]'s beautiful chest by surprise."
-    ""
+    "{i}Ogromny ładunek spermy wystrzeliwuje z twojego pulsującego penisa i z zaskoczenia pokrywa piękną klatkę piersiową [b_name]."
 
 # game/day11.rpy:887
 translate polish day11_b_conversation_b037e060:
@@ -3128,7 +3128,7 @@ translate polish day11_b_conversation_4f40502a:
 translate polish day11_b_conversation_03e2c467:
 
     # "{i}A massive load of cum shoots from your throbbing penis and takes [b_name] by surprise. You manage to cover her shocked face."
-    ""
+    "{i}Ogromny ładunek spermy wystrzeliwuje z twojego pulsującego penisa i zaskakuje [b_name]. Udaje ci się zakryć jej zszokowaną twarz."
 
 # game/day11.rpy:905
 translate polish day11_b_conversation_cd1d894b:
@@ -3794,25 +3794,25 @@ translate polish day11_b_conversation_soft_74715eba:
 translate polish day11_b_conversation_soft_4775f8c3:
 
     # p "{i}(That's a pretty violent initial reaction to being wrong about somebody, but okay...)"
-    p ""
+    p "{i}(To dość gwałtowna początkowa reakcja na mylenie się co do kogoś, ale w porządku)"
 
 # game/day11.rpy:1078
 translate polish day11_b_conversation_soft_79e8afe3:
 
     # b "But I've grown to like your presence at home. All those girls cooped up together can be quite stressful."
-    b ""
+    b "Ale polubiłam twoją obecność w domu. Wszystkie te dziewczyny zamknięte razem mogą być dość stresujące."
 
 # game/day11.rpy:1079
 translate polish day11_b_conversation_soft_84a6547e:
 
     # p "I bet!"
-    p ""
+    p "Założę się!"
 
 # game/day11.rpy:1080
 translate polish day11_b_conversation_soft_3e8da1eb:
 
     # b "Hey now mister, watch it!"
-    b ""
+    b "Hej, niech pan uważa!"
 
 # game/day11.rpy:1084
 translate polish day11_b_conversation_soft_2b847738:
@@ -4118,7 +4118,7 @@ translate polish day11_r_hj_89ec2983:
 translate polish day11_r_hj_cd471d7b:
 
     # p "{i}(Two handjobs in one day, by two different girls. I'm beyond lucky.)"
-    p ""
+    p "{i}(Dwie robótki ręczne w ciągu jednego dnia przez dwie różne dziewczyny, jestem niesamowitym szczęściarzem)"
 
 # game/day11.rpy:1162
 translate polish day11_r_hj_4e1c2f6f:
@@ -4154,7 +4154,7 @@ translate polish day11_r_hj_6f0b8c98:
 translate polish day11_r_hj_f1b71fa7:
 
     # "{i}She takes your shaft in a tighter grip and picks up the pace."
-    ""
+    "{i}Bierze twój trzon w mocniejszy uścisk i zwiększa tempo."
 
 # game/day11.rpy:1172
 translate polish day11_r_hj_e205483c:
@@ -4226,7 +4226,7 @@ translate polish day11_r_hj_23e761cd:
 translate polish day11_r_hj_93dfc20a:
 
     # "{i}[r_name] is still jerking you off when a fountain of seed gushes from your penis. Some splashes in her open mouth, the rest covers her face."
-    ""
+    "{i}[r_name] wciąż cię szarpie, gdy fontanna nasienia tryska z twojego penisa, część rozpryskuje się w jej otwartych ustach, a reszta pokrywa jej twarz."
 
 # game/day11.rpy:1191
 translate polish day11_r_hj_4ed7fa02:
@@ -4298,7 +4298,7 @@ translate polish day11_r_hj_ee8e9e69:
 translate polish day11_r_hj_368fcc55:
 
     # "{i}After [r_name] wipes your cum off her face you fall asleep together. Your swollen member pushes gently against her, but she doesn't seem to mind, judging by her quiet content murmuring."
-    ""
+    "{i}Po tym, jak [r_name] zetrze twoją spermę z jej twarzy, zasypiacie razem. Twój nabrzmiały członek delikatnie na nią napiera, ale ona nie wydaje się mieć nic przeciwko, sądząc po jej cichym, zadowolonym mruczeniu."
 
 # game/day11.rpy:1216
 translate polish day11_r_hj_7152dc28:
@@ -4322,7 +4322,7 @@ translate polish day11_r_hj_b74be4e8:
 translate polish day11_r_hj_a43614bd:
 
     # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
-    ""
+    "{i}Zasypiasz z [r_name] obok siebie Twój nabrzmiały członek delikatnie napiera na jej miękki tyłek, ale nie wydaje się, żeby jej to przeszkadzało, sądząc po jej cichych, zadowolonych pomrukach."
 
 # game/day11.rpy:1227
 translate polish day11_r_hj_a7c0a7a1:
@@ -4413,366 +4413,377 @@ translate polish strings:
     new "Tak (Skłam)"
 
     old "Bartender"
-<<<<<<< HEAD
-    new "Barman"
-=======
-    new "Barman"# TODO: Translation updated at 2022-03-29 13:33
+    new "Barman"# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day11.rpy:299
-translate polish b_relationship_hard_drive_post_607d3431:
-
-    # m "Instead of helping her she was playing the psychiatrist. Her friends were no good, she wasn't dressing like a proper young lady, I wasn't home enough."
-    m "Zamiast jej pomóc bawiła się w jej psychiatrę. Jej przyjaciółki są złe, ubiera się źle, nie zachowuje się jak na damę przystało, jej matki nie ma dostatecznie dużo w domu."
-
-# TODO: Translation updated at 2023-04-17 12:10
-
-# game/day11.rpy:52
+# game/day11.rpy:53
 translate polish day11_p_room_choices_62408474:
 
     # p "{i}(For a sextorter, he absolutely sucks at security. I'm glad his mom doesn't know how bad he is with computers, otherwise she wouldn't have bought that shit story about him being accepted at a technical university.)"
-    p "{i}(Jak na seksturystykę jest absolutnie do dupy z bezpieczeństwem cieszę się, że jego mama nie wie jak kiepski jest z komputerami inaczej nie kupiłaby tej gównianej historii o tym, że został przyjęty na politechnikę)"
+    p "{i}(Jak na szantażystę, typ totalnie ssie jeśli chodzi o jakiekolwiek zabezpieczenia. Dobrze, że jego matka nie wie jak bardzo, bo inaczej mogłaby nie uwierzyć w tą naszą historyjkę.)"
 
-# game/day11.rpy:53
+# game/day11.rpy:54
 translate polish day11_p_room_choices_580a6e15:
 
     # p "{i}(But where does he hide his porn... If he keeps it on an external drive, we're fucked.)"
-    p "{i}(Ale gdzie on chowa swoje porno Jeśli trzyma je na zewnętrznym dysku mamy przerąbane)"
+    p "{i}(Ale gdzie ma swój fap folder... Jeśli trzyma go na dysku zewnętrznym, to mamy przejebane.)"
 
-# game/day11.rpy:86
+# game/day11.rpy:87
 translate polish b_relationship_hard_drive_choices_74d9b0f1:
 
     # p "{i}(That's my girl! Get it done, [b_name])"
-    p "{i}(That's my girl! Get it done [b_name])"
+    p "{i}(Właśnie tak mała! Pokaż co potrafisz Bella!)"
 
-# game/day11.rpy:92
+# game/day11.rpy:93
 translate polish b_relationship_hard_drive_choices_273aad58:
 
     # p "{i}(Oh, [b_name], you didn't send him more did you?)"
-    p "{i}(O [b_name] nie wysłałaś mu więcej, prawda?)"
+    p "{i}(Oh Bella, chyba nie wysłałaś mu więcej, co?)"
 
-# game/day11.rpy:171
+# game/day11.rpy:100
+translate polish b_relationship_hard_drive_choices_e8f0e434:
+
+    # p "{i}(...)"
+    p "{i}()"
+
+# game/day11.rpy:178
 translate polish b_relationship_hard_drive_post_f4cf455b:
 
     # p "Well, I've learned some things during my work there. Rather disturbing things."
-    p "Cóż, podczas mojej pracy tam nauczyłem się kilku rzeczy Raczej rzeczy niepokojących"
+    p "Cóż, podczas mojej pracy tam, dowiedziałem się czegoś. Czegoś nieprzyjemnego."
 
-# game/day11.rpy:179
+# game/day11.rpy:186
 translate polish b_relationship_hard_drive_post_f2aba8e0:
 
     # p "Maybe. But a while later, I saw him enter his office with a woman."
-    p "Może Ale chwilę później widziałem, jak wszedł do swojego gabinetu z kobietą"
+    p "Może. Ale niedługo później widziałem jak zamyka się w biurze z inną kobietą."
 
-# game/day11.rpy:196
+# game/day11.rpy:203
 translate polish b_relationship_hard_drive_post_31c0a7ea:
 
     # "{i}Fighting back her tears, [l_name] follows you to your room."
-    "{i}Walcząc ze swoimi łzami [l_name] idzie za tobą do pokoju."
+    "{i}Wstrzymując łzy, Liza idzie za Tobą do pokoju."
 
-# game/day11.rpy:231
+# game/day11.rpy:240
 translate polish b_relationship_hard_drive_post_fc784909:
 
     # p "You two had a few rows in the days I've been with all of you, and he always accuses you of not being good enough."
-    p "Wy dwaj mieliście kilka kłótni w dniach, w których byłem z wami wszystkimi, a on zawsze zarzuca ci, że nie jesteś wystarczająco dobry"
+    p "Wy dwaj mieliście kilka kłótni w dniach, w których byłem z wami wszystkimi, a on zawsze oskarża cię o to, że nie jesteś wystarczająco dobry."
 
-# game/day11.rpy:246
+# game/day11.rpy:255
 translate polish b_relationship_hard_drive_post_0ff3d4b9:
 
     # p "{i}(Jesus Christ... What is it with her and this guy?! HE FUCKING CHEATED ON YOU WITH A PROSTITUTE WHO WAS WEARING A STRAP-ON DILDO AND RAMMING IT UP HIS ASS.)"
-    p "{i}(Jezu Chryste Co jest z nią i tym facetem?! ON CIĘ KURWA ZDRADZIŁ Z PROSTYTUTKĄ, KTÓRA MIAŁA NA SOBIE STRAP-ON DILDO I WBIJAŁA MU JE W DUPĘ)"
+    p "{i}(Jezu Chryste, co jest z nią i tym facetem?! ZDRADZAŁ CIĘ Z PROSTYTUTKĄ, KTÓRA NOSIŁA DILDO NA PASKU I WBIJAŁA MU JE W TYŁEK)"
 
-# game/day11.rpy:297
+# game/day11.rpy:309
 translate polish b_relationship_hard_drive_post_d9776c35:
 
     # m "Instead of helping her, she was playing the psychiatrist. Her friends were no good, she wasn't dressing like a proper young lady, her mother wasn't home enough."
-    m "Zamiast jej pomóc bawiła się w psychiatrę Jej przyjaciele nie byli dobrzy nie ubierała się jak odpowiednia młoda dama jej matka nie była wystarczająco domowa"
+    m "Zamiast jej pomóc bawiła się w jej psychiatrę. Jej przyjaciółki są złe, ubiera się źle, nie zachowuje się jak na damę przystało, jej matki nie ma dostatecznie dużo w domu."
 
-# game/day11.rpy:299
+# game/day11.rpy:311
 translate polish b_relationship_hard_drive_post_308d0158:
 
     # m "Instead of helping her, she was playing the psychiatrist. Her friends were no good, she wasn't dressing like a proper young lady, and I wasn't home enough."
-    m "Zamiast jej pomóc bawiła się w psychiatrę Jej przyjaciele nie byli dobrzy ona nie ubierała się jak odpowiednia młoda dama a ja nie byłam wystarczająco domowa"
+    m "Zamiast jej pomóc, bawiła się w psychiatrę Jej przyjaciele nie byli dobrzy, nie ubierała się jak właściwa młoda dama, a mnie nie było wystarczająco dużo w domu."
 
-# game/day11.rpy:302
+# game/day11.rpy:314
 translate polish b_relationship_hard_drive_post_b1da486e:
 
     # p "{i}(If Mrs. Steel knew about [m_name]'s occupation, she'd have a heart attack.)"
-    p "{i}(Gdyby pani Steel wiedziała o zawodzie [m_name] dostałaby zawału)"
+    p "{i}(Gdyby pani Steel wiedziała o zawodzie [m_name], dostałaby ataku serca)"
 
-# game/day11.rpy:318
+# game/day11.rpy:330
 translate polish b_relationship_hard_drive_post_bafd0c3c:
 
     # "{i}When you enter [r_name]'s bedroom, she runs towards you and kisses you on the mouth."
-    "{i}Kiedy wchodzisz do sypialni [r_name] ona biegnie w twoją stronę i całuje cię w usta."
+    "{i}Kiedy wchodzisz do pokoju Rachel, ona natychmiast podbiega do Ciebie i całuje Cię w usta."
 
-# game/day11.rpy:328
+# game/day11.rpy:340
 translate polish b_relationship_hard_drive_post_00c9d0eb:
 
     # "{i}After packing a bag, you go to [r_name]'s room and you go to the swimming pool together."
     "{i}Po spakowaniu torby idziecie do pokoju [r_name] i razem idziecie na basen."
 
-# game/day11.rpy:354
+# game/day11.rpy:371
 translate polish b_relationship_hard_drive_post_5e212365:
 
     # r "You're very thorough, aren't you, [p_name]?"
-    r "Jesteś bardzo dokładny, prawda [p_name]?"
+    r "Jesteś bardzo dokładny, co? [p_name]?"
 
-# game/day11.rpy:382
+# game/day11.rpy:399
 translate polish b_relationship_hard_drive_post_0df8b403:
 
     # p "{i}(Yes, please!)"
-    p "{i}(Yes please!)"
+    p "{i}(O tak, proszę!)"
 
-# game/day11.rpy:398
+# game/day11.rpy:415
 translate polish b_relationship_hard_drive_post_4d9ab4d8:
 
     # "{i}With a small scream, [r_name] dives into the water."
-    "{i}Z małym krzykiem [r_name] nurkuje do wody."
+    "{i}Z małym okrzykiem, Rachel wskakuje do wody."
 
-# game/day11.rpy:399
+# game/day11.rpy:416
 translate polish b_relationship_hard_drive_post_e1f90b99:
 
     # r "Come in, [p_name]! It's lovely in here!"
-    r "Wejdź do [p_name]! Tu jest pięknie!"
+    r "Wejdź [p_name]! Jest tu pięknie!"
 
-# game/day11.rpy:401
+# game/day11.rpy:418
 translate polish b_relationship_hard_drive_post_ecf4161d:
 
     # "{i}You dive into the cool water. When you come up, [r_name] splashes you with water."
-    "{i}Zanurzasz się w chłodnej wodzie Gdy wynurzasz się [r_name] ochlapuje cię wodą"
+    "{i}Zanurzasz się w chłodnej wodzie, gdy się wynurzasz [r_name] ochlapuje cię wodą"
 
-# game/day11.rpy:407
+# game/day11.rpy:424
 translate polish b_relationship_hard_drive_post_3fcbeb28:
 
     # "{i}Before you can see where she swims, your sister emerges behind you and climbs on your back."
-    "{i}Zanim zdążysz zobaczyć, gdzie pływa, twoja siostra wyłania się za tobą i wspina się na twoje plecy."
+    "{i}Zanim udaje Ci się zauważyć gdzie popłynęła, Twoja siostra wynurza się za Tobą i wskakuje Ci na plecy."
 
-# game/day11.rpy:409
+# game/day11.rpy:426
 translate polish b_relationship_hard_drive_post_79afd40d:
 
     # "{i}Before you can see where she swims, [r_name] emerges behind you and climbs on your back."
-    "{i}Zanim zdążysz zobaczyć, gdzie pływa [r_name] wyłania się za tobą i wspina się na twoje plecy."
+    "{i}Zanim zdążysz zobaczyć, gdzie pływa [r_name], wynurza się za tobą i wspina na twoje plecy."
 
-# game/day11.rpy:482
+# game/day11.rpy:502
 translate polish b_relationship_hard_drive_post_3aee7fb7:
 
     # "{i}After arriving home, you take a quick shower. When you return to your room to relax, there's a knock on your door."
-    "{i}Po przyjeździe do domu bierzesz szybki prysznic Po powrocie do pokoju, aby się zrelaksować następuje pukanie do drzwi."
+    "{i}Po przyjeździe do domu bierzesz szybki prysznic Kiedy wracasz do swojego pokoju, aby się zrelaksować, rozlega się pukanie do drzwi."
 
-# game/day11.rpy:490
+# game/day11.rpy:511
 translate polish b_relationship_hard_drive_post_9c2fee65:
 
     # "{i}You wait until evening and play games in your room. Somewhere near midday, there's a knock on your door."
-    "{i}Czekasz do wieczora i grasz w gry w swoim pokoju Gdzieś koło południa rozlega się pukanie do drzwi."
+    "{i}Czekasz do wieczora grając w gry w swoim pokoju. Jakoś w środku dnia słyszysz pukanie do drzwi."
 
-# game/day11.rpy:522
+# game/day11.rpy:547
 translate polish day11_l_supermarket_03b5fccb:
 
     # "{i}Together with [l_name], you travel to your old workplace."
-    "{i}Razem z [l_name] podróżujesz do swojego dawnego miejsca pracy."
+    "{i}Razem z Lizą jedziecie do Twojego byłego miejsca pracy."
 
-# game/day11.rpy:542
+# game/day11.rpy:567
 translate polish day11_l_supermarket_97e61a45:
 
     # ri "Is she Brody's girl?"
     ri "Czy to dziewczyna Brody'ego?"
 
-# game/day11.rpy:592
+# game/day11.rpy:617
 translate polish day11_l_supermarket_86daf798:
 
     # "{i}Brody lunges again and tries to hit you, but misses. Instead, [l_name] slaps him hard across his face."
-    "{i}Brody ponownie rzuca się na ciebie i próbuje cię uderzyć, ale pudłuje Zamiast tego [l_name] uderza go mocno po twarzy."
+    "{i}Brody ponownie się na Ciebie zamachuje, ale pudłuje. Zanim zdążasz coś zrobić, Liza podbiega i policzkuje go."
 
-# game/day11.rpy:607
+# game/day11.rpy:632
 translate polish day11_l_supermarket_28a8509c:
 
     # p "If you come near my sister again, I'll press charges. There are enough witnesses."
-    p "Jeśli jeszcze raz zbliżysz się do mojej siostry, wniosę oskarżenie Jest wystarczająco dużo świadków"
+    p "Jeśli jeszcze raz zbliżysz się do mojej siostry, wniosę przeciwko Tobie oskarżenie. Jest na to wystarczająco świadków."
 
-# game/day11.rpy:609
+# game/day11.rpy:634
 translate polish day11_l_supermarket_4675c743:
 
     # p "If you come near [l_name] again, I'll press charges. There are enough witnesses."
-    p "Jeśli jeszcze raz zbliżysz się do [l_name] to wniosę oskarżenie Jest wystarczająco dużo świadków"
+    p "Jeśli jeszcze raz zbliżysz się do [l_name], wniosę oskarżenie. Jest wystarczająco dużo świadków"
 
-# game/day11.rpy:611
+# game/day11.rpy:636
 translate polish day11_l_supermarket_a41cf225:
 
     # l "Come, [p_name], we're leaving. I think Brody got the message."
-    "Chodź [p_name] wychodzimy, myślę, że Brody dostał wiadomość."
+    l "Chodź [p_name], wychodzimy. Myślę, że do Brody'iego dotarła wiadomość."
 
-# game/day11.rpy:614
+# game/day11.rpy:639
 translate polish day11_l_supermarket_dc6f9146:
 
     # br "No! No! Please, [l_name]. Let me make it up to you!"
-    br "Nie, nie, proszę [l_name] Pozwól mi to wynagrodzić!."
+    br "Nie! Nie! Proszę Liza. Pozwól mi wszystko naprawić!"
 
-# game/day11.rpy:630
+# game/day11.rpy:657
 translate polish day11_l_supermarket_4dc6fa11:
 
     # "{i}When you come home, she goes up to your room."
-    "{i}Kiedy wracasz do domu, ona idzie do twojego pokoju"
+    "{i}Kiedy wracacie do domu, idzie z Tobą do pokoju."
 
-# game/day11.rpy:683
+# game/day11.rpy:713
 translate polish day11_p_room_evening_choices_331d1081:
 
     # p "{i}(My diplomacy skills aren't what they once were, it appears...)"
-    p "{i}(Moje umiejętności dyplomacji nie są tym, czym były kiedyś, jak się wydaje)"
+    p "{i}(Moje zdolności dyplomatycznie widocznie trochę zardzewiały...)"
 
-# game/day11.rpy:723
+# game/day11.rpy:753
 translate polish day11_p_room_evening_choices_9166885d:
 
     # j "But it goes further than that. The laws will also make a special task force possible, focused on indecent or sexually deviant behavior."
-    j "Ale to idzie dalej niż to Ustawy będą również umożliwić specjalny zespół zadaniowy skupiony na nieprzyzwoitych lub dewiacyjnych zachowań seksualnych"
+    j "Ale to idzie dalej niż to, że przepisy umożliwią również utworzenie specjalnej grupy zadaniowej skoncentrowanej na nieprzyzwoitych lub dewiacyjnych zachowaniach seksualnych."
 
-# game/day11.rpy:770
-translate polish day11_b_conversation_f25c7e53:
-
-    # b "The first night you scared the hell out of me. At first, I thought Dad had come home. Instead, it was you.."
-    "Pierwszej nocy wystraszyłeś mnie jak diabli. Na początku myślałem, że tata wrócił do domu, a nie, że to ty."
-
-# game/day11.rpy:777
-translate polish day11_b_conversation_6cd8d06a:
-
-    # b "But when he had some free time, we always went out and did so much fun stuff together."
-    b "Ale kiedy miał trochę wolnego czasu zawsze wychodziliśmy i robiliśmy tyle fajnych rzeczy razem"
-
-# game/day11.rpy:864
-translate polish day11_b_conversation_ee1bf1ff:
-
-    # "{i}Your sister looks at you, her big breasts on full display."
-    "{i}Twoja siostra patrzy na ciebie jej duże piersi na pełnym ekranie"
-
-# game/day11.rpy:866
-translate polish day11_b_conversation_96f9425f:
-
-    # "{i}[b_name] looks at you, her big breasts on full display."
-    "{i}[b_name] patrzy na ciebie jej duże piersi na pełnym ekranie."
-
-# game/day11.rpy:871
-translate polish day11_b_conversation_79b6988f:
-
-    # b "You like that, don't you?"
-    b "Podoba ci się to, prawda?"
-
-# game/day11.rpy:878
-translate polish day11_b_conversation_58824a2b:
-
-    # "{i}As your sister hears your ragged breathing, she seems to know you're close too. She keeps jerking your dick while maintaining eye contact. A look of anticipation masks her face, but a glint of hunger is visible in her stare."
-    "{i}Jak twoja siostra słyszy twój zgrzytliwy oddech, wydaje się, że wie, że jesteś blisko też Ona wciąż szarpie twojego kutasa utrzymując kontakt wzrokowy Wygląd oczekiwania maskuje jej twarz, ale błysk głodu jest widoczny w jej spojrzeniu"
-
-# game/day11.rpy:880
-translate polish day11_b_conversation_c435160c:
-
-    # "{i}As she hears your ragged breathing, she seems to know you're close too. She keeps jerking your dick while maintaining eye contact. A look of anticipation masks her face, but a glint of hunger is visible in her stare."
-    "{i}Jak słyszy twój zgrzytliwy oddech, wydaje się wiedzieć, że jesteś blisko też Ona utrzymuje szarpanie twojego kutasa, utrzymując kontakt wzrokowy Wygląd oczekiwania maskuje jej twarz, ale błysk głodu jest widoczny w jej spojrzeniu"
-
-# game/day11.rpy:921
-translate polish day11_b_conversation_fe3cc00d:
-
-    # "{i}After a short walk, you arrive at the bar [b_name] has chosen."
-    "{i}Po krótkim spacerze docieracie do baru, który wybrał [b_name]."
-
-# game/day11.rpy:930
-translate polish day11_b_conversation_d2b69774:
-
-    # b "If it has an umbrella in it or a small piece of fruit, it's usually good."
-    b "Jeśli ma w sobie parasolkę lub mały kawałek owocu to zazwyczaj jest dobry"
-
-# game/day11.rpy:994
-translate polish day11_b_conversation_soft_e05b9819:
-
-    # p "No, I didn't. There was a folder named 'Special' containing another folder named 'Coffeeshop Girl' in his ginormous porn collection, so I wiped the whole fucking thing."
-    p "Nie, nie było tam folderu o nazwie 'Special' zawierającego inny folder o nazwie 'Coffeeshop Girl' w jego ogromnej kolekcji porno, więc wymazałem całą pierdoloną rzecz."
-
-# game/day11.rpy:1021
-translate polish day11_b_conversation_soft_800c46ea:
-
-    # b "But if you betray my trust, I'll beat you senseless!"
-    b "Ale jeśli zdradzisz moje zaufanie, pokonam cię bez sensu!."
-
-# game/day11.rpy:1037
-translate polish day11_b_conversation_soft_c56bfe6d:
-
-    # p "But if I could find some dirt on him, we could make his life a living hell..."
-    p "Ale gdybym znalazł na niego jakieś brudy, moglibyśmy uczynić jego życie żywym piekłem"
-
-# game/day11.rpy:1065
-translate polish day11_b_conversation_soft_0cfd82ac:
-
-    # b "I bet. But you understand that even though I hadn't seen him in years, I was very shaken by his sudden death."
-    b "Założę się Ale rozumiesz, że mimo iż nie widziałem go od lat byłem bardzo wstrząśnięty jego nagłą śmiercią"
-
-# game/day11.rpy:1087
-translate polish day11_b_conversation_soft_646f9d04:
-
-    # "{i}As the evening progresses, conversation flows naturally, and the drinks too. [b_name] is starting to get a little tipsy, judging from her glowing cheeks and slightly slurred speech."
-    "{i}W miarę upływu wieczoru rozmowa płynie naturalnie, a drinki również [b_name] zaczyna być nieco podchmielona, sądząc po jej świecących policzkach i lekko niewyraźnej mowie."
-
-# game/day11.rpy:1099
-translate polish day11_b_conversation_soft_7e85cc7c:
-
-    # "{i}Shocked at your behavior, you both pull back."
-    "{i}Zszokowani swoim zachowaniem obaj wycofujecie się"
-
-# game/day11.rpy:1105
-translate polish day11_b_conversation_soft_5d12f568:
-
-    # "{i}At those words [b_name] starts giggling uncontrollably, and you can only smile at her."
-    "{i}Na te słowa [b_name] zaczyna niekontrolowanie chichotać, a ty możesz się tylko do niej uśmiechnąć."
-
-# game/day11.rpy:1122
-translate polish day11_b_conversation_soft_b5c34dd5:
-
-    # r "Since you just kissed one part of my body, I feel like we should be even more free around each other."
-    r "Skoro pocałowałeś tylko jedną część mojego ciała to czuję, że powinniśmy być jeszcze bardziej wolni wokół siebie"
-
-# game/day11.rpy:1124
-translate polish day11_b_conversation_soft_9bb4f2d5:
-
-    # r "Since you gave my body all those sweet kisses, I'd like to show you more of it. Be really free, you know."
-    r "Skoro dałeś mojemu ciału te wszystkie słodkie pocałunki chciałbym pokazać ci więcej Bądź naprawdę wolny wiesz"
-
-# game/day11.rpy:1126
-translate polish day11_b_conversation_soft_478fceaf:
-
-    # r "So I'm willing to show you everything, but in return, you must do so too."
-    r "Więc jestem gotów pokazać ci wszystko, ale w zamian ty też musisz to zrobić"
-
-# game/day11.rpy:1183
-translate polish day11_r_hj_c6423abb:
-
-    # "{i}With those words, [r_name] teasingly opens her mouth and starts stroking you harder."
-    "{i}Z tymi słowami [r_name] drażniąco otwiera usta i zaczyna cię mocniej głaskać"
-
-# game/day11.rpy:1200
-translate polish day11_r_hj_6c8f4b37:
-
-    # r "I'm glad, it was my first time ever so I was rather nervous. Did I do it better than that couple at the pool?"
-    r "Cieszę się, że to był mój pierwszy raz w życiu, więc byłem raczej zdenerwowany Czy zrobiłem to lepiej niż ta para na basenie?"
-
-# game/day11.rpy:1230
-translate polish day11_r_hj_4b50cbe1:
-
-    # "{i}As soon as you rest your head against your pillow, you fall asleep."
-    "{i}Gdy tylko oprzesz głowę o poduszkę, zasypiasz."# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day11.rpy:737
+# game/day11.rpy:769
 translate polish day11_p_room_evening_choices_d2e7bb1d:
 
     # "{i}After a short walk you arrive at the bar [b_name] has chosen."
-    "{i}Po krótkim spacerze docierasz do baru, który wybrał [b_name]."
+    "{i}Po krótkim spacerze docierasz na miejsce."
 
-# game/day11.rpy:1010
+# game/day11.rpy:804
+translate polish day11_b_conversation_f25c7e53:
+
+    # b "The first night you scared the hell out of me. At first, I thought Dad had come home. Instead, it was you.."
+    b "Pierwszej nocy cholernie mnie wystraszyłeś. W pierwszej chwili pomyślałam, że to tata wrócił do domu, nie Ty."
+
+# game/day11.rpy:811
+translate polish day11_b_conversation_6cd8d06a:
+
+    # b "But when he had some free time, we always went out and did so much fun stuff together."
+    b "Ale kiedy miał trochę wolnego czasu, zawsze gdzieś nas zabierał i świetnie się razem bawiliśmy."
+
+# game/day11.rpy:902
+translate polish day11_b_conversation_ee1bf1ff:
+
+    # "{i}Your sister looks at you, her big breasts on full display."
+    "{i}Twoja siostra patrzy na ciebie z wyeksponowanymi dużymi piersiami."
+
+# game/day11.rpy:904
+translate polish day11_b_conversation_96f9425f:
+
+    # "{i}[b_name] looks at you, her big breasts on full display."
+    "{i}[b_name] patrzy na ciebie, a jej duże piersi są w pełni wyeksponowane."
+
+# game/day11.rpy:909
+translate polish day11_b_conversation_79b6988f:
+
+    # b "You like that, don't you?"
+    b "Podoba Ci się to?"
+
+# game/day11.rpy:916
+translate polish day11_b_conversation_58824a2b:
+
+    # "{i}As your sister hears your ragged breathing, she seems to know you're close too. She keeps jerking your dick while maintaining eye contact. A look of anticipation masks her face, but a glint of hunger is visible in her stare."
+    "{i}Słysząc Twój przyśpieszony oddech, Twoja siostra zdaje sobie sprawę, że jesteś już blisko. Nie przestaje Cię masować, cały czas utrzymując kontakt wzrokowy. Próbuje się skryć za wyrazem oczekiwania, ale widzisz błysk pożądania w jej oczach."
+
+# game/day11.rpy:918
+translate polish day11_b_conversation_c435160c:
+
+    # "{i}As she hears your ragged breathing, she seems to know you're close too. She keeps jerking your dick while maintaining eye contact. A look of anticipation masks her face, but a glint of hunger is visible in her stare."
+    "{i}Kiedy słyszy twój nierówny oddech, wydaje się wiedzieć, że też jesteś blisko. Szarpie twojego kutasa, utrzymując kontakt wzrokowy. Wyraz oczekiwania maskuje jej twarz, ale w jej spojrzeniu widać błysk głodu."
+
+# game/day11.rpy:963
+translate polish day11_b_conversation_fe3cc00d:
+
+    # "{i}After a short walk, you arrive at the bar [b_name] has chosen."
+    "{i}Po krótkim spacerze docierasz na miejsce."
+
+# game/day11.rpy:972
+translate polish day11_b_conversation_d2b69774:
+
+    # b "If it has an umbrella in it or a small piece of fruit, it's usually good."
+    b "Jeśli będzie miało w sobie parasolkę i kawałek owocu, to pewnie będzie mi smakować."
+
+# game/day11.rpy:1036
+translate polish day11_b_conversation_soft_e05b9819:
+
+    # p "No, I didn't. There was a folder named 'Special' containing another folder named 'Coffeeshop Girl' in his ginormous porn collection, so I wiped the whole fucking thing."
+    p "Nie, nie widziałem. W swojej ogromnej kolekcji porno miał folder 'Wyjątkowe', a w nim folder o nazwie 'Dziewczyna z kawiarni', więc wyczyściłem całość."
+
+# game/day11.rpy:1052
 translate polish day11_b_conversation_soft_e05b9819_1:
 
     # p "No, I didn't. There was a folder named 'Special' containing another folder named 'Coffeeshop Girl' in his ginormous porn collection, so I wiped the whole fucking thing."
-    p "Nie, nie zrobiłem tego. W jego ogromnej kolekcji porno był folder o nazwie 'Special' zawierający inny folder o nazwie 'Coffeeshop Girl', więc wyczyściłem wszystko, kurwa."
-# TODO: Translation updated at 2023-07-17 16:25
+    p "Nie, nie widziałem. W swojej ogromnej kolekcji porno miał folder 'Wyjątkowe', a w nim folder o nazwie 'Dziewczyna z kawiarni', więc wyczyściłem całość."
 
-# game/day11.rpy:99
-translate polish b_relationship_hard_drive_choices_e8f0e434:
+# game/day11.rpy:1063
+translate polish day11_b_conversation_soft_800c46ea:
 
-    # p "{i}(...)"
-    p "{i}(...)"
+    # b "But if you betray my trust, I'll beat you senseless!"
+    b "Ale jeśli nadużyjesz tego zaufania, to skopię Ci dupę!"
 
->>>>>>> polish
+# game/day11.rpy:1079
+translate polish day11_b_conversation_soft_c56bfe6d:
+
+    # p "But if I could find some dirt on him, we could make his life a living hell..."
+    p "I jeśli znalazłbym na niego jakieś brudy, moglibyśmy zgotować mu piekło..."
+
+# game/day11.rpy:1107
+translate polish day11_b_conversation_soft_0cfd82ac:
+
+    # b "I bet. But you understand that even though I hadn't seen him in years, I was very shaken by his sudden death."
+    b "Tak, ale rozumiesz, mimo że nie widziałam go od lat, to bardzo poruszyła mnie jego śmierć."
+
+# game/day11.rpy:1129
+translate polish day11_b_conversation_soft_646f9d04:
+
+    # "{i}As the evening progresses, conversation flows naturally, and the drinks too. [b_name] is starting to get a little tipsy, judging from her glowing cheeks and slightly slurred speech."
+    "{i}Z biegiem czasu wypijacie kolejne drinki. Bella zdaje się być już trochę wstawiona, osądzając po jej zaróżowionych policzkach i lekko bełkotliwej mowie."
+
+# game/day11.rpy:1141
+translate polish day11_b_conversation_soft_7e85cc7c:
+
+    # "{i}Shocked at your behavior, you both pull back."
+    "{i}Zszokowani tym co się stało, oboje odsuwacie się od siebie."
+
+# game/day11.rpy:1147
+translate polish day11_b_conversation_soft_5d12f568:
+
+    # "{i}At those words [b_name] starts giggling uncontrollably, and you can only smile at her."
+    "{i}Słysząc te słowa, Bella zaczyna niekontrolowanie chichotać, uśmiechasz się mimowolnie patrząc na nią."
+
+# game/day11.rpy:1165
+translate polish day11_b_conversation_soft_b5c34dd5:
+
+    # r "Since you just kissed one part of my body, I feel like we should be even more free around each other."
+    r "Skoro ucałowałeś tylko jedną część mojego ciała, myślę, że powinniśmy być nieco bardziej swobodni w swoim towarzystwie."
+
+# game/day11.rpy:1167
+translate polish day11_b_conversation_soft_9bb4f2d5:
+
+    # r "Since you gave my body all those sweet kisses, I'd like to show you more of it. Be really free, you know."
+    r "Skoro obsypałeś moje ciało tymi wszystkimi słodkimi pocałunkami, chciałabym pokazać Ci go więcej. No wiesz, być naprawdę wolna."
+
+# game/day11.rpy:1169
+translate polish day11_b_conversation_soft_478fceaf:
+
+    # r "So I'm willing to show you everything, but in return, you must do so too."
+    r "Więc jestem gotowa pokazać Ci wszystko, ale w zamian Ty musisz zrobić to samo."
+
+# game/day11.rpy:1191
+translate polish day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "Poprzytulajmy się i chodźmy spać!"
+
+# game/day11.rpy:1192
+translate polish day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Świetny pomysł."
+
+# game/day11.rpy:1195
+translate polish day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Zasypiasz ze swoją nagą siostrą przy swoim boku. Twój lekko nabrzmiały członek przyciska się do jej tyłka, ale osądzając po jej pełnym zadowolenia pomrukiwaniu, w ogóle jej to nie przeszkadza."
+
+# game/day11.rpy:1197
+translate polish day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Zasypiasz z [r_name] obok siebie Twój nabrzmiały członek delikatnie napiera na jej miękki tyłek, ale nie wydaje się, żeby jej to przeszkadzało, sądząc po jej cichych, zadowolonych pomrukach."
+
+# game/day11.rpy:1202
+translate polish day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Zasypiasz niemal natychmiastowo po położeniu się do łóżka."
+
+# game/day11.rpy:1261
+translate polish day11_r_hj_c6423abb:
+
+    # "{i}With those words, [r_name] teasingly opens her mouth and starts stroking you harder."
+    "{i}Po tych słowach Rachel rzuca Ci zadziorne spojrzenie, otwiera usta i zaczyna walić Ci jeszcze szybciej."
+
+# game/day11.rpy:1285
+translate polish day11_r_hj_6c8f4b37:
+
+    # r "I'm glad, it was my first time ever so I was rather nervous. Did I do it better than that couple at the pool?"
+    r "Cieszę się, że był to mój pierwszy raz w życiu, więc byłem raczej zdenerwowany Czy zrobiłem to lepiej niż ta para na basenie?"
+

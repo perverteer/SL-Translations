@@ -50,7 +50,7 @@ translate polish day12_a2ec9074:
 translate polish day12_5175b926:
 
     # p "{i}([r_name] has the most beautiful, virgin pussy.)"
-    p ""
+    p "{i}([r_name] ma najpiękniejszą dziewiczą cipkę)"
 
 # game/day12.rpy:33
 translate polish day12_cd69fc92:
@@ -128,7 +128,7 @@ translate polish day12_7696b8da:
 translate polish day12_ebe3ad3f:
 
     # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
-    ""
+    "{i}[r_name] chwyta rękę, która stymuluje jej łechtaczkę i dociska ją mocniej."
 
 # game/day12.rpy:50
 translate polish day12_80851927:
@@ -248,7 +248,7 @@ translate polish day12_45d4e5db:
 translate polish day12_c36a7d15:
 
     # p "Hi, dear [l_name], sleep well?"
-    p ""
+    p "Cześć kochanie [l_name], dobrze spałeś?"
 
 # game/day12.rpy:82
 translate polish day12_75364651:
@@ -632,13 +632,13 @@ translate polish day12_22e8a913:
 translate polish day12_8a5b2429:
 
     # p "{i}(This is so hot. [b_name] and I enjoying nature!)"
-    p ""
+    p "{i}(To jest takie gorące [b_name] i cieszę się naturą!)"
 
 # game/day12.rpy:172
 translate polish day12_a4a17743:
 
     # "{i}She is very tense, but her pussy tastes of her salty juices just the same. You hear her gasp as you probe her pussy lips with your tongue."
-    ""
+    "{i}Jest bardzo spięta, ale jej cipka tak samo smakuje jej słonymi sokami. Słyszysz jej sapanie, gdy badasz językiem jej wargi sromowe."
 
 # game/day12.rpy:175
 translate polish day12_cacf00c1:
@@ -686,7 +686,7 @@ translate polish day12_7da9247a:
 translate polish day12_131ba21e:
 
     # p "Say 'I want you to lick my pussy'."
-    p ""
+    p "Powiedz 'Chcę, żebyś polizał moją cipkę'"
 
 # game/day12.rpy:186
 translate polish day12_07db8f79:
@@ -710,7 +710,7 @@ translate polish day12_6bb4b783:
 translate polish day12_c6b780d8:
 
     # b "I want you to lick my pussy."
-    b ""
+    b "Chcę, żebyś polizał moją cipkę"
 
 # game/day12.rpy:192
 translate polish day12_1c6ecd65:
@@ -740,7 +740,7 @@ translate polish day12_4c4ac119:
 translate polish day12_ab6a116c:
 
     # "{i}With quick thrusts, you penetrate her pussy with your tongue, which elicits a deep moan from [b_name]. She clearly doesn't care who might see her any longer."
-    ""
+    "{i}Szybkimi pchnięciami penetrujesz jej cipkę językiem, co wywołuje głęboki jęk [b_name] Wyraźnie nie dba już o to, kto może ją zobaczyć."
 
 # game/day12.rpy:200
 translate polish day12_6c20ea40:
@@ -800,7 +800,7 @@ translate polish day12_m_fondle_4570fc08:
 translate polish day12_m_fondle_812ac691:
 
     # p "{i}(She appears to be completely out. This might be a great opportunity to explore her body.)"
-    p ""
+    p "{i}(Wygląda na to, że jest całkowicie wyłączona To może być świetna okazja do zbadania jej ciała)"
 
 # game/day12.rpy:243
 translate polish day12_m_fondle_4030f308:
@@ -830,7 +830,7 @@ translate polish day12_m_fondle_dd733938:
 translate polish day12_m_fondle_bc19e3b8:
 
     # "{i}As you caress her thighs Mrs. Smith softly moans and spreads her legs a bit further."
-    ""
+    "{i}Kiedy pieścisz jej uda, pani Smith cicho jęczy i rozchyla nogi jeszcze bardziej."
 
 # game/day12.rpy:253
 translate polish day12_m_fondle_6a8ad1e7:
@@ -878,13 +878,13 @@ translate polish day12_m_fondle_6c555278:
 translate polish day12_m_fondle_808be2cc:
 
     # p "{i}(You want my cum, don't you [m_name]?)"
-    p ""
+    p "{i}(Chcesz mojej spermy, prawda [m_name]?)"
 
 # game/day12.rpy:267
 translate polish day12_m_fondle_17b15bf4:
 
     # p "{i}(Lord, this is great. Never thought I would be jerking off on Mrs. Smith in her own room.)"
-    p ""
+    p "{i}(Panie, to jest świetne, nigdy nie myślałem, że będę walił konia pani Smith w jej własnym pokoju)"
 
 # game/day12.rpy:268
 translate polish day12_m_fondle_b7fbf867:
@@ -902,7 +902,7 @@ translate polish day12_m_fondle_9a936b65:
 translate polish day12_m_fondle_2c1c4e97:
 
     # "{i}A great amount of cum spurts from your cock onto Mrs. Smith's tits. It slowly trickles down her belly into her navel."
-    ""
+    "{i}Duża ilość spermy tryska z twojego kutasa na cycki pani Smith i powoli spływa po jej brzuchu do pępka."
 
 # game/day12.rpy:289
 translate polish day12_m_fondle_4ca80f86:
@@ -914,7 +914,7 @@ translate polish day12_m_fondle_4ca80f86:
 translate polish day12_m_fondle_57039105:
 
     # "{i}A great amount of cum spurts from your cock between Mrs. Smith's inviting legs onto her pussy. The cum drips from her pussy lips on the clean bed sheets."
-    ""
+    "{i}Duża ilość spermy tryska z twojego kutasa między zachęcającymi nogami pani Smith na jej cipkę Sperma kapie z jej warg cipki na czystą pościel."
 
 # game/day12.rpy:302
 translate polish day12_m_fondle_5c39a03f:
@@ -926,7 +926,7 @@ translate polish day12_m_fondle_5c39a03f:
 translate polish day12_m_fondle_ce67094d:
 
     # "{i}A great amount of cum spurts from your cock onto Mrs. Smith's tits. It drips from her cheek on the clean bed sheets."
-    ""
+    "{i}Duża ilość spermy tryska z twojego kutasa na cycki pani Smith. Kapie z jej policzka na czystą pościel."
 
 # game/day12.rpy:310
 translate polish day12_m_fondle_7e66a675:
@@ -998,7 +998,7 @@ translate polish day12_m_fondle_9dbf0d96:
 translate polish day12_m_fondle_a7cf0ec9:
 
     # p "Just here to talk [b_name]. Unless you want something more?"
-    p ""
+    p "Przyszedłem tylko porozmawiać [b_name] Chyba, że chcesz czegoś więcej?"
 
 # game/day12.rpy:337
 translate polish day12_m_fondle_e60ff05a:
@@ -1124,7 +1124,7 @@ translate polish day12_m_fondle_2c5f6669:
 translate polish day12_m_fondle_40f79be9:
 
     # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
-    p ""
+    p "Jutro Ty mi swoją zabawkę i dużo zabawy Śpij dobrze drogi [b_name]"
 
 # game/day12.rpy:371
 translate polish day12_m_fondle_e4fd283a:
@@ -1208,7 +1208,7 @@ translate polish day12_m_fondle_a62e5202:
 translate polish day12_m_fondle_30b31875:
 
     # ri "Is your friend okay?"
-    ri ""
+    ri "Czy z twoim przyjacielem wszystko w porządku?"
 
 # game/day12.rpy:391
 translate polish day12_m_fondle_bba1c54c:
@@ -1826,7 +1826,7 @@ translate polish day12_l_club_conversation_ffdb9821:
 translate polish day12_l_club_conversation_7dc9aca9:
 
     # l "I'd like to spend some more time with my friends. And you of course."
-    l ""
+    l "Chciałbym spędzić trochę więcej czasu z moimi przyjaciółmi i oczywiście z tobą."
 
 # game/day12.rpy:569
 translate polish day12_l_club_conversation_c18c890a:
@@ -1946,7 +1946,7 @@ translate polish day12_l_club_conversation_3be8d931:
 translate polish day12_l_club_conversation_04766900:
 
     # l "I didn't realize your dad was such a womanizer."
-    l ""
+    l "Nie zdawałem sobie sprawy, że twój tata był takim kobieciarzem"
 
 # game/day12.rpy:592
 translate polish day12_l_club_conversation_69c25683:
@@ -2150,7 +2150,7 @@ translate polish day12_l_club_conversation_3d0579cc:
 translate polish day12_l_club_conversation_fe2ebe93:
 
     # "{i}As she presses her body to yours you feel her butt moving against your crotch. She throws back her head and you smell the sweet perfume of her hair."
-    ""
+    "{i}Kiedy przyciska swoje ciało do twojego, czujesz, jak jej tyłek przyciska się do twojego krocza. Odrzuca głowę i czujesz słodki zapach jej włosów."
 
 # game/day12.rpy:649
 translate polish day12_l_club_conversation_43625ccc:
@@ -2390,13 +2390,13 @@ translate polish day12_l_club_conversation_5118fa6f:
 translate polish day12_l_club_conversation_248e51dd:
 
     # p "Yes. I think you're very sexy."
-    p ""
+    p "Tak, myślę, że jesteś bardzo seksowna"
 
 # game/day12.rpy:711
 translate polish day12_l_club_conversation_e7acbe77:
 
     # l "You know how to make a girl blush!"
-    l ""
+    l "Wiesz, jak sprawić, by dziewczyna się zarumieniła!"
 
 # game/day12.rpy:714
 translate polish day12_l_club_conversation_5164bff1:
@@ -2462,7 +2462,7 @@ translate polish day12_l_club_conversation_67f7fb97:
 translate polish day12_l_club_conversation_154cc316:
 
     # "{i}She nearly falls over and you help her stand straight."
-    ""
+    "{i}Prawie się przewraca, a ty pomagasz jej stanąć prosto."
 
 # game/day12.rpy:736
 translate polish day12_l_club_conversation_b7281a53:
@@ -2588,7 +2588,7 @@ translate polish day12_l_club_conversation_7db54a54:
 translate polish day12_l_club_conversation_ebd1e54f:
 
     # "{i}You and [l_name] nestle on her bed, she asks for your arm around her and you oblige. You feel her soft breasts beneath your arm and her butt pressing into your crotch."
-    ""
+    "{i}Ty i [l_name] gnieździcie się na jej łóżku, ona prosi cię o objęcie jej ramieniem, a ty się zgadzasz. Czujesz jej miękkie piersi pod twoim ramieniem i jej tyłek wciskający się w twoje krocze."
 
 # game/day12.rpy:762
 translate polish day12_l_club_conversation_2e784614:
@@ -2693,4 +2693,846 @@ translate polish strings:
     # game/day12.rpy:558
     old "One last drink"
     new "Ostatni drink"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day12.rpy:23
+translate polish day12_e9c0bb31:
+
+    # "{i}You wake up late in the morning to a quiet house and get some breakfast in the kitchen."
+    "{i}Budzisz się późnym rankiem w cichym domu i jesz śniadanie w kuchni."
+
+# game/day12.rpy:32
+translate polish day12_a18bee5a:
+
+    # "{i}Just as you want to sit down and play a game, someone knocks on your door."
+    "{i}Gdy chcesz usiąść i zagrać w grę, ktoś puka do twoich drzwi."
+
+# game/day12.rpy:36
+translate polish day12_d5b5e879:
+
+    # p "{i}(Good, she seems in a cheerful mood.)"
+    p "{i}(Wydaje się być w pogodnym nastroju, to dobrze.)"
+
+# game/day12.rpy:71
+translate polish day12_7575467a:
+
+    # "{i}Just as you want to sit down and play a game, there's a knock on your door."
+    "{i}Kiedy masz już usiąść zagrać w jakąś grę, słyszysz pukanie do drzwi."
+
+# game/day12.rpy:122
+translate polish day12_4b206fbf:
+
+    # b "Alright, fine."
+    b "No dobra..."
+
+# game/day12.rpy:139
+translate polish day12_40fa0501:
+
+    # "{i}[b_name] shudders when you consecutively lick and suck her clitoris. Her breathing is heavy, and you lap up her juices that are now flowing freely."
+    "{i}[b_name] drży, gdy kolejno liżesz i ssiesz jej łechtaczkę Jej oddech jest ciężki, a ty chłepczesz jej soki, które teraz płyną swobodnie."
+
+# game/day12.rpy:163
+translate polish day12_c6b1e70e:
+
+    # b "Aaaaah! Oh god, aaaaaah!"
+    b "Aaaaah! O Boże aaaaaah!"
+
+# game/day12.rpy:206
+translate polish day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Lepiej jej nie przeszkadzać, ale nic nie powstrzyma mnie przed rzuceniem okiem na te piękne piersi.)"
+
+# game/day12.rpy:208
+translate polish day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Lepiej pozwolę jej spać.)"
+
+# game/day12.rpy:216
+translate polish day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Chryste, [p_name] nie możesz po prostu zostawić mnie w spokoju?!"
+
+# game/day12.rpy:218
+translate polish day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Przyszedłem tylko porozmawiać siostrzyczko. No chyba, że liczyłaś na coś więcej?"
+
+# game/day12.rpy:220
+translate polish day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Przyszedłem tylko porozmawiać [b_name] Chyba, że chcesz czegoś więcej?"
+
+# game/day12.rpy:222
+translate polish day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "Nie, już miałeś dzisiaj ze mną swój moment."
+
+# game/day12.rpy:223
+translate polish day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "To prawda."
+
+# game/day12.rpy:224
+translate polish day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "Naprawdę lubię spędzać czas na świeżym powietrzu, a Ty?"
+
+# game/day12.rpy:225
+translate polish day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Pierdol się, chcę już iść spać."
+
+# game/day12.rpy:226
+translate polish day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "No dobrze. Ale mam jedną prośbę."
+
+# game/day12.rpy:227
+translate polish day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "Jak zwykle..."
+
+# game/day12.rpy:228
+translate polish day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Zobaczmy jak zareaguje...)"
+
+# game/day12.rpy:229
+translate polish day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "Wiem, że kręcą Cię zabawki..."
+
+# game/day12.rpy:232
+translate polish day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "Więc następnym razem, kiedy będziemy się razem bawić, chcę zobaczyć jak robisz użytek z jednej z nich."
+
+# game/day12.rpy:233
+translate polish day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "Ja..."
+
+# game/day12.rpy:234
+translate polish day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "Skąd Ty..."
+
+# game/day12.rpy:235
+translate polish day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "Przeszukałeś mój pokój gnojku?!"
+
+# game/day12.rpy:236
+translate polish day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(Coś w ten deseń...)"
+
+# game/day12.rpy:239
+translate polish day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Wiesz co? Jeśli prezentujesz takie podejście, to myślę, że przyda się nam mały pokaz już teraz."
+
+# game/day12.rpy:240
+translate polish day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Kurwa, nie... Nie zrobię tego..."
+
+# game/day12.rpy:241
+translate polish day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "No to wypowiedz magiczne słowo."
+
+# game/day12.rpy:242
+translate polish day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Kurwa."
+
+# game/day12.rpy:243
+translate polish day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}Bella podchodzi do szafy i przerzuca kilka rzeczy. W końcu znajduje swoje czarne dildo."
+
+# game/day12.rpy:244
+translate polish day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Dobrze. A teraz chcę, żebyś się dobrze bawiła."
+
+# game/day12.rpy:248
+translate polish day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Jutro. Ty, ja, Twoja zabaweczka i mnóstwo zabawy. Śpij dobrze siostrzyczko."
+
+# game/day12.rpy:250
+translate polish day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Jutro Ty mi swoją zabawkę i dużo zabawy Śpij dobrze drogi [b_name]"
+
+# game/day12.rpy:258
+translate polish day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "{i}(Riley powiedziała, że ma dla mnie prezent. Pora się przekonać co to takiego.)"
+
+# game/day12.rpy:261
+translate polish day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Zmierzasz pod adres, który podała Ci Riley. To wieżowiec mieszkalny blisko centrum. Dzwonisz domofonem i wpuszcza Cię do środka. Po pokonaniu paru klatek schodowych, docierasz do jej drzwi które są lekko uchylone."
+
+# game/day12.rpy:264
+translate polish day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Cześć!"
+
+# game/day12.rpy:265
+translate polish day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "No cześć."
+
+# game/day12.rpy:266
+translate polish day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Napijesz się czegoś?"
+
+# game/day12.rpy:267
+translate polish day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "Masz piwo?"
+
+# game/day12.rpy:268
+translate polish day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "No jasne."
+
+# game/day12.rpy:269
+translate polish day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Riley grzebie przez chwilę w lodówce i podaje Ci zimne piwo. Sobie też wzięła."
+
+# game/day12.rpy:270
+translate polish day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "Zdrówko!"
+
+# game/day12.rpy:271
+translate polish day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "Wzajemnie!"
+
+# game/day12.rpy:273
+translate polish day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Chłopie ten wczorajszy dzień..."
+
+# game/day12.rpy:274
+translate polish day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "Ta, to było coś."
+
+# game/day12.rpy:276
+translate polish day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "Z Twoją siostrą wszystko w porządku?"
+
+# game/day12.rpy:278
+translate polish day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "Czy z twoim przyjacielem wszystko w porządku?"
+
+# game/day12.rpy:279
+translate polish day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Tak, całkiem dobrze to wszystko zniosła. Prawdę mówiąc, trochę mnie tym zaskoczyła."
+
+# game/day12.rpy:280
+translate polish day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "W głębi serca musiała wiedzieć, że Brody jest kompletnym zjebem."
+
+# game/day12.rpy:281
+translate polish day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Szkoda, że nie zdała sobie z tego sprawy trochę wcześniej. Ale przynajmniej wszystko dobrze się skończyło."
+
+# game/day12.rpy:282
+translate polish day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Brody spędził resztę dnia na przemeblowywaniu swojego biura. Tych kilku klientów, których mieliśmy, było mocno zmieszanych odgłosami mebli uderzających o ściany..."
+
+# game/day12.rpy:283
+translate polish day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "W dodatku na koniec dnia ten śmieć kazał mi zamówić nowe meble. Kompletnie je zniszczył."
+
+# game/day12.rpy:284
+translate polish day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "Przynajmniej wyrzucił z siebie trochę tego stłumionego gniewu..."
+
+# game/day12.rpy:285
+translate polish day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "Oby tylko to nie stało się jego nowym hobby."
+
+# game/day12.rpy:286
+translate polish day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Nie martw się, regularne analne odwiedziny jego dziewczyny powinny się tym zająć."
+
+# game/day12.rpy:288
+translate polish day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "Eeeewww!"
+
+# game/day12.rpy:290
+translate polish day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "Jeszcze jedno piwo?"
+
+# game/day12.rpy:291
+translate polish day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "Jasne, akurat mi się skończyło."
+
+# game/day12.rpy:292
+translate polish day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Riley wraca z kuchni z dwoma browarami i zagadkowym uśmieszkiem."
+
+# game/day12.rpy:293
+translate polish day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Posłuchaj [p_name]. Wiesz, że Cię lubię, parę razy już się całowaliśmy... Chciałabym, żeby wszystko było jasne."
+
+# game/day12.rpy:294
+translate polish day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(To zdanie niewiele wyjaśnia, ale okej.)"
+
+# game/day12.rpy:296
+translate polish day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "Chciałbyś się ze mną poruchać?"
+
+# game/day12.rpy:298
+translate polish day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "Chciałbyś spędzić ze mną noc?"
+
+# game/day12.rpy:302
+translate polish day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Wiesz... Jesteś świetna w dawaniu prezentów."
+
+# game/day12.rpy:303
+translate polish day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "Też tak uważam."
+
+# game/day12.rpy:304
+translate polish day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Prowadź."
+
+# game/day12.rpy:310
+translate polish day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Ja... Myślałem, że to tylko przyjacielska wizyta."
+
+# game/day12.rpy:312
+translate polish day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Chryste. Jesteś aż tak niekumaty? Powinnam Ci to była przeliterować?"
+
+# game/day12.rpy:313
+translate polish day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "Chyba już pójdę."
+
+# game/day12.rpy:314
+translate polish day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Chyba tak będzie najlepiej."
+
+# game/day12.rpy:322
+translate polish day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}Jest już późny wieczór kiedy idziesz do pokoju Lizy, żeby ją odebrać."
+
+# game/day12.rpy:324
+translate polish day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "No hej imprezowiczko, gotowa do wyjścia?"
+
+# game/day12.rpy:325
+translate polish day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Tak, gotowa!"
+
+# game/day12.rpy:327
+translate polish day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Razem z Lizą jedziesz do klubu nocnego w centrum miasta."
+
+# game/day12.rpy:333
+translate polish day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "Muzyka jest trochę głośna, nie uważasz?"
+
+# game/day12.rpy:334
+translate polish day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "Tak, przyzwyczaisz się. Znajdźmy sobie jakieś cichsze miejsce i zamówmy coś do picia."
+
+# game/day12.rpy:335
+translate polish day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "Czego się napijesz?"
+
+# game/day12.rpy:336
+translate polish day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "Wody?"
+
+# game/day12.rpy:341
+translate polish day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "Liza, jesteśmy w klubie, w klubach nie pije się wody."
+
+# game/day12.rpy:342
+translate polish day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "No dobra, to co proponujesz?"
+
+# game/day12.rpy:343
+translate polish day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "Może wino, albo coś słodkiego?"
+
+# game/day12.rpy:344
+translate polish day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "No nie wiem..."
+
+# game/day12.rpy:345
+translate polish day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Dalej się ogranicza...)"
+
+# game/day12.rpy:346
+translate polish day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "A wiesz co, chętnie wypiję kieliszek białego wina."
+
+# game/day12.rpy:347
+translate polish day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "Świetnie! Robi się, kieliszek białego wina."
+
+# game/day12.rpy:348
+translate polish day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Zamawiasz kieliszek wina dla Lizy i piwo dla siebie."
+
+# game/day12.rpy:350
+translate polish day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Zamawiasz butelkę wina dla Lizy i piwo dla siebie."
+
+# game/day12.rpy:353
+translate polish day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "Nie ma zbyt wielu ludzi, co?"
+
+# game/day12.rpy:354
+translate polish day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "Nie, spokojna noc. Ale to oznacza więcej miejsca na parkiecie dla nas!"
+
+# game/day12.rpy:355
+translate polish day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "Nie wiem, czy chcę tańczyć."
+
+# game/day12.rpy:356
+translate polish day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "Nie musisz robić niczego, na co nie masz ochoty. Po prostu dobrze się baw!"
+
+# game/day12.rpy:357
+translate polish day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "Nie przejmuj się mną."
+
+# game/day12.rpy:383
+translate polish day12_l_club_conversation_73f187f9:
+
+    # p "Luckily, she was one of Dad's longer flings. So yeah, those were fun times."
+    p "Na szczęście to był jeden z dłuższych związków ojca. Więc tak, mam jakieś miłe wspomnienia."
+
+# game/day12.rpy:436
+translate polish day12_l_club_conversation_619699ab:
+
+    # "{i}At first, [l_name] is a bit uneasy, but as she gets into the rhythm of the music, her moves become much more fluid."
+    "{i}Z początku ruchy Lizy były niepewne, ale kiedy wczuła się w rytm muzyki, jej ruchy nabrały płynności."
+
+# game/day12.rpy:440
+translate polish day12_l_club_conversation_25e6b47d:
+
+    # "{i}After a while, your dance becomes more intimate. [l_name] closes her eyes and lets you lead."
+    "{i}Po pewnym czasie wasz taniec staje się coraz bardziej intymny. Liza zamyka oczy i pozwala Ci się prowadzić."
+
+# game/day12.rpy:445
+translate polish day12_l_club_conversation_d8b6e236:
+
+    # "{i}As your sister presses her body to yours, you feel her butt moving against your crotch. She throws back her head, and you smell the sweet perfume of her hair."
+    "{i}Gdy Twoja siostra przyciska do Ciebie swoje ciało, czujesz jej tyłek ocierający się o Twoje krocze. Odchyla głowę do tyłu i czujesz słodki zapach perfum w jej włosach."
+
+# game/day12.rpy:447
+translate polish day12_l_club_conversation_31846d14:
+
+    # "{i}As she presses her body to yours, you feel her butt moving against your crotch. She throws back her head, and you smell the sweet perfume of her hair."
+    "{i}Kiedy przyciska swoje ciało do twojego, czujesz, jak jej tyłek przyciska się do twojego krocza. Odrzuca głowę i czujesz słodki zapach jej włosów."
+
+# game/day12.rpy:474
+translate polish day12_l_club_conversation_cd0c2191:
+
+    # "{i}When you return from the bar, you see that two guys are talking to [l_name]."
+    "{i}Kiedy wracasz z baru, widzisz jak z Lizą rozmawia dwóch facetów."
+
+# game/day12.rpy:570
+translate polish day12_l_club_conversation_9fd2e1a2:
+
+    # "{i}Arm in arm, you walk home."
+    "{i}Wracacie za rękę do domu."
+
+# game/day12.rpy:608
+translate polish day12_m_fondle_87fdee38:
+
+    # "{i}As you caress her thighs, your mother softly moans and spreads her legs a bit further."
+    "{i}Gdy gładzisz jej uda, Susan wydaje z siebie cichy jęk i rozkłada lekko nogi."
+
+# game/day12.rpy:610
+translate polish day12_m_fondle_9738a855:
+
+    # "{i}As you caress her thighs, Mrs. Smith softly moans and spreads her legs a bit further."
+    "{i}Kiedy pieścisz jej uda, pani Smith cicho jęczy i rozchyla nogi jeszcze bardziej."
+
+# game/day12.rpy:625
+translate polish day12_m_fondle_a4c5b9fc:
+
+    # p "{i}(You want my cum, don't you, mother?)"
+    p "{i}(Chcesz, żebym się na Ciebie spuścił, co? Mamo?)"
+
+# game/day12.rpy:628
+translate polish day12_m_fondle_36a1446a:
+
+    # p "{i}(You want my cum, don't you, [m_name]?)"
+    p "{i}(Chcesz mojej spermy, prawda [m_name]?)"
+
+# game/day12.rpy:703
+translate polish day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "{i}(Widok jej nagiego ciała to istny dar od losu, zupełnie jak wczoraj!)"
+
+# game/day12.rpy:704
+translate polish day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(Mam pomysł...)"
+
+# game/day12.rpy:709
+translate polish day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Wyciągasz rękę w kierunku ud Rachel. Cichy jęk wymyka się z jej ust gdy dotykasz jej skóry opuszkami palców i powoli przesuwasz dłoń w kierunku wnętrza jej nóg."
+
+# game/day12.rpy:710
+translate polish day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day12.rpy:711
+translate polish day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(Póki co idzie dobrze.)"
+
+# game/day12.rpy:712
+translate polish day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Kiedy delikatnie gładzisz jej krocze, jej nogi rozchylają się w zapraszającym geście."
+
+# game/day12.rpy:715
+translate polish day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(Moja siostra ma najpiękniejszą w świecie, dziewiczą cipkę.)"
+
+# game/day12.rpy:717
+translate polish day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}([r_name] ma najpiękniejszą dziewiczą cipkę)"
+
+# game/day12.rpy:722
+translate polish day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Bardzo ostrożnie przesuwasz palcami wzdłuż jej sromu i czujesz wilgoć na jej wargach."
+
+# game/day12.rpy:723
+translate polish day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(Jest taka gotowa...)"
+
+# game/day12.rpy:724
+translate polish day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Nie przestajesz gładzić jej warg swoimi palcami, masujesz delikatnie jej wzgórek łonowy."
+
+# game/day12.rpy:725
+translate polish day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day12.rpy:728
+translate polish day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Gdy tylko dotykasz bezpośrednio jej łechtaczki, Rachel otwiera oczy."
+
+# game/day12.rpy:729
+translate polish day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "D- D- Dzień dobry..."
+
+# game/day12.rpy:730
+translate polish day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Hej..."
+
+# game/day12.rpy:731
+translate polish day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "Powinienem przestać?"
+
+# game/day12.rpy:732
+translate polish day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "O Boże, nie!"
+
+# game/day12.rpy:734
+translate polish day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Podbudowany jej słowami kierujesz całą swoją uwagę na jej łechtaczkę [r_name] sapie, gdy wsuwasz palec w jej mokrą cipkę."
+
+# game/day12.rpy:735
+translate polish day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "Aaaah! Tak!"
+
+# game/day12.rpy:737
+translate polish day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Twoja siostra chwyta dłoń stymulującą ją w kroku i przyciska ją mocniej do siebie."
+
+# game/day12.rpy:739
+translate polish day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] chwyta rękę, która stymuluje jej łechtaczkę i dociska ją mocniej."
+
+# game/day12.rpy:740
+translate polish day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "Oh [p_name], tak bardzo pragnę Twojego dotyku!"
+
+# game/day12.rpy:741
+translate polish day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Wsuwasz i wysuwasz z niej swoje palce, pokryte jej sokami. Kiedy zaczynasz intensywniej masować jej łechtaczkę, czujesz jak jej ciało napina się w oczekiwaniu na spełnienie."
+
+# game/day12.rpy:749
+translate polish day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "Aaaaah! Aaaah! [p_name]!!!"
+
+# game/day12.rpy:750
+translate polish day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}Jej orgazm jest długi i potężny, ciałem Rachel wstrząsają dreszcze, ale nie przestaje przyciskać do siebie Twojej dłoni."
+
+# game/day12.rpy:756
+translate polish day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Po chwili przestaje się trząść i z westchnieniem przytula się do Ciebie."
+
+# game/day12.rpy:757
+translate polish day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Co za wspaniały sposób na pobudkę."
+
+# game/day12.rpy:758
+translate polish day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Byłaś tak cudowna ostatniej nocy, pomyślałem, że odwdzięczę Ci się czymś podobnym."
+
+# game/day12.rpy:759
+translate polish day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Właśnie tego było mi trzeba."
+
+# game/day12.rpy:760
+translate polish day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "Robisz coś dzisiaj?"
+
+# game/day12.rpy:761
+translate polish day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Tak, wychodzę. Ana mnie do siebie zaprosiła. A Ty?"
+
+# game/day12.rpy:762
+translate polish day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "Dla mnie zapowiada się spokojny dzień, ale nie przeszkadza mi to."
+
+# game/day12.rpy:763
+translate polish day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}Przytulacie się jeszcze przez jakiś czas, potem oboje wstajecie i jecie śniadanie."
+
+# game/day12.rpy:783
+translate polish day12_ri_fuck_1e10872c:
+
+    # ri "Only if you get naked!"
+    ri "Tylko jeśli się rozbierzesz!"
+
+# game/day12.rpy:785
+translate polish day12_ri_fuck_b521fbb0:
+
+    # "{i}You hastily remove your shoes, shirt, and jeans and jump back on her bed, where Riley is already lying. She spreads her legs for you."
+    "{i}W pośpiechu zdejmujesz buty, koszulę, dżinsy i wskakujesz na łóżko, gdzie Riley już na Ciebie czeka. Rozkłada przed Tobą nogi."
+
+# game/day12.rpy:856
+translate polish day12_ri_fuck_398fdc50:
+
+    # "{i}After you lie comfortably on the bed, Riley straddles your waist and lifts her butt to position your cock at her opening. She then lets herself slide smoothly down the length of your shaft."
+    "{i}Po tym, jak położysz się wygodnie na łóżku, Riley rozłoży się na twojej talii i podniesie swój tyłek, aby umieścić twojego kutasa w jej otworze, a następnie pozwoli sobie płynnie zsunąć się w dół twojego wału."
+
+# game/day12.rpy:867
+translate polish day12_ri_fuck_b8a1ad14:
+
+    # p "Good! Fuck me harder, Riley."
+    p "Dobrze! Mocniej Riley!"
 

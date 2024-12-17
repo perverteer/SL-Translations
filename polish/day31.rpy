@@ -110,7 +110,7 @@ translate polish day31_b98003ae:
 translate polish day31_5e319c8d:
 
     # # # "{i}You sprint after [r_name], but she's faster and slams the door of her room in your face."
-    ""
+      "{i} Biegniesz sprintem za [r_name], ale ona jest szybsza i zatrzaskuje ci drzwi swojego pokoju."
 
 # game/day31.rpy:61
 translate polish day31_d17bed79:
@@ -152,7 +152,7 @@ translate polish day31_4440bb1c:
 translate polish day31_1b0b8359:
 
     # # # p "{i}(Fuck, at this rate the whole house will be on full alert.)"
-    p ""
+      p "{i}(Fuck at this rate the whole house will be on full alert)"
 
 # game/day31.rpy:71
 translate polish day31_4d706add:
@@ -230,7 +230,7 @@ translate polish day31_ecd70739:
 translate polish day31_83ab8a96:
 
     # # # b "She's going to tell Mrs. Smith!"
-    b ""
+      b "Ona powie pani Smith!"
 
 # game/day31.rpy:92
 translate polish day31_403df312:
@@ -308,7 +308,7 @@ translate polish day31_ecd70739_1:
 translate polish day31_83ab8a96_1:
 
     # # # b "She's going to tell Mrs. Smith!"
-    b ""
+      b "Ona powie pani Smith!"
 
 # game/day31.rpy:109
 translate polish day31_403df312_1:
@@ -920,7 +920,7 @@ translate polish day31_choices_dcb55dbe:
 translate polish day31_choices_6571094d:
 
     # # # al "Because if not, I have news for you, your girl is still a virgin."
-    al ""
+      al "Bo jeśli nie, to mam dla ciebie wiadomość, że twoja dziewczyna wciąż jest dziewicą."
 
 # game/day31.rpy:259
 translate polish day31_choices_0ce93ccd:
@@ -1928,7 +1928,7 @@ translate polish day31_r_room_choices_5ee2462f:
 translate polish day31_r_room_choices_1f2d9439:
 
     # # # "{i}[m_name] is silent for a long time, visibly pondering her answer."
-    ""
+      "{i}[m_name] milczy przez długi czas, wyraźnie zastanawiając się nad odpowiedzią."
 
 # game/day31.rpy:507
 translate polish day31_r_room_choices_5f417165:
@@ -2078,7 +2078,7 @@ translate polish day31_r_room_choices_33ac9c4f:
 translate polish day31_r_room_choices_a113ce44:
 
     # "{i}The older woman's tongue eagerly explores yours, while you hold her in a tight embrace, a longing sigh escapes her."
-    ""
+    "{i}Język starszej kobiety ochoczo eksploruje twój, podczas gdy ty trzymasz ją w ciasnym uścisku, a tęskne westchnienie wymyka się jej."
 
 # game/day31.rpy:543
 translate polish day31_r_room_choices_ddaa5433:
@@ -2192,7 +2192,7 @@ translate polish day31_r_room_choices_cb18dfb5:
 translate polish day31_r_room_choices_705cb1ce:
 
     # # # "{i}[m_name] suddenly looks serious, adding to the gravity of the moment."
-    ""
+      "{i}[m_name] nagle wygląda poważnie, dodając powagi chwili."
 
 # game/day31.rpy:572
 translate polish day31_r_room_choices_94ab6ecd:
@@ -2300,7 +2300,7 @@ translate polish day31_r_room_choices_d48b49bb:
 translate polish day31_r_room_choices_525ba532:
 
     # # # "{i}The older woman leaves the room while you eye Adriana, undressing her with your eyes already."
-    ""
+      "{i} Starsza kobieta wychodzi z pokoju, podczas gdy ty patrzysz na rozbierającą się Adrianę swoimi oczami."
 
 # game/day31.rpy:611
 translate polish day31_r_room_choices_017916ad:
@@ -2354,7 +2354,7 @@ translate polish day31_r_room_choices_c34bbe4e:
 translate polish day31_r_room_choices_39b9a360:
 
     # # # p "{i}(Now I'll just go home and let [m_name] just be [m_name] again.)"
-    p ""
+      p "{i}(Teraz po prostu pójdę do domu i pozwolę [m_name] znów być [m_name])"
 
 # game/day31.rpy:629
 translate polish day31_r_room_choices_0f8d39f9:
@@ -2414,7 +2414,7 @@ translate polish day31_r_room_choices_d48b49bb_1:
 translate polish day31_r_room_choices_525ba532_1:
 
     # # # "{i}The older woman leaves the room while you eye Adriana, undressing her with your eyes already."
-    ""
+      "{i} Starsza kobieta wychodzi z pokoju, podczas gdy ty patrzysz na rozbierającą się Adrianę swoimi oczami."
 
 # game/day31.rpy:652
 translate polish day31_r_room_choices_bd731378:
@@ -2462,7 +2462,7 @@ translate polish day31_r_room_choices_c34bbe4e_1:
 translate polish day31_r_room_choices_39b9a360_1:
 
     # # # p "{i}(Now I'll just go home and let [m_name] just be [m_name] again.)"
-    p ""
+      p "{i}(Teraz po prostu pójdę do domu i pozwolę [m_name] znów być [m_name])"
 
 # game/day31.rpy:672
 translate polish day31_r_room_choices_31d728e0:
@@ -2654,7 +2654,7 @@ translate polish day31_evening_choices_07f9c1e2:
 translate polish day31_evening_choices_b4a95fe7:
 
     # # # p "Both as a friend and as... something more..."
-    p ""
+      p "Zarówno jako przyjaciel, jak i coś więcej"
 
 # game/day31.rpy:739
 translate polish day31_evening_choices_ed6a5622:
@@ -4431,4 +4431,204 @@ translate polish strings:
     # game/day31.rpy:1181
     old "Approve"
     new "Zgódź się"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day31.rpy:42
+translate polish day31_6a033cb6:
+
+    # b "[r_name], this isn't..."
+    b "Rachel to nie to..."
+
+# game/day31.rpy:86
+translate polish day31_b371a5a3:
+
+    # b "She knows, [p_name], she saw us..."
+    b "Ona wie [p_name], widziała nas..."
+
+# game/day31.rpy:104
+translate polish day31_b371a5a3_1:
+
+    # b "She knows, [p_name], she saw us..."
+    b "Ona wie [p_name], widziała nas..."
+
+# game/day31.rpy:115
+translate polish day31_9632fdbe:
+
+    # b "If you didn't make me do all those things, we wouldn't be in this mess in the first place."
+    b "Gdybyś nie zmusił mnie do robienia tych wszystkich rzeczy, nie bylibyśmy teraz w tej sytuacji."
+
+# game/day31.rpy:128
+translate polish day31_950026cb:
+
+    # "{i}On your way back, you pass [r_name]'s door."
+    "{i}W drodze powrotnej mijasz drzwi Rachel."
+
+# game/day31.rpy:192
+translate polish day31_choices_ae491470:
+
+    # al "I've masturbated so many times thinking of all the things you'll do to me."
+    al "Tyle razy się masturbowałam, myśląc o tych wszystkich rzeczach, które mi zrobisz."
+
+# game/day31.rpy:197
+translate polish day31_choices_d4ebb0dc:
+
+    # "{i}Your phone buzzes as you receive Alina's text containing the address of the cafe. You leave the house a short time afterward."
+    "{i}Twój telefon brzęczy, gdy otrzymujesz od Aliny wiadomość zawierającą adres kawiarni. Chwilę później wychodzisz z domu."
+
+# game/day31.rpy:273
+translate polish day31_choices_c5eb348b:
+
+    # al "But you cheated on her, and you were stupid to let her find out?"
+    al "Ale zdradziłeś ją i byłeś na tyle głupi, że dałeś się przyłapać?"
+
+# game/day31.rpy:324
+translate polish day31_choices_9c002d71:
+
+    # p "We're going to find a secluded spot in this deserted place. I'm going to fuck you very hard and you'll like it."
+    p "Znajdziemy ustronne miejsce w tym opuszczonym miejscu, będę cię pieprzył bardzo mocno i spodoba ci się to."
+
+# game/day31.rpy:351
+translate polish day31_choices_9c002d71_1:
+
+    # p "We're going to find a secluded spot in this deserted place. I'm going to fuck you very hard and you'll like it."
+    p "Znajdziemy ustronne miejsce w tym opuszczonym miejscu, będę cię pieprzył bardzo mocno i spodoba ci się to."
+
+# game/day31.rpy:361
+translate polish day31_choices_648b89d1_1:
+
+    # p "{i}(I have to make it up to [r_name] somehow, a gesture to make her talk to me again.)"
+    p "{i}(Muszę to jakoś zrekompensować Rachel, zrobić coś, żeby zgodziła się ze mną porozmawiać.)"
+
+# game/day31.rpy:374
+translate polish day31_r_room_choices_0b64ca6f:
+
+    # p "{i}(Guess they must be comfortable?)"
+    p "{i}(Chyba muszą być wygodne?)"
+
+# game/day31.rpy:476
+translate polish day31_r_room_choices_e05b7783:
+
+    # "{i}Her small breasts press against your chest as she kisses you, and you're overcome with desire for her."
+    "{i}Jej drobne piersi przyciskają się do Twojego torsu kiedy się całujecie i zaczyna Cię ogarniać pożądanie."
+
+# game/day31.rpy:495
+translate polish day31_r_room_choices_2d4ace06:
+
+    # "{i}On your way to Discreet, you get stuck in traffic and arrive several minutes past the time of your appointment."
+    "{i}W drodze do Discreet utknąłeś w korku i dotarłeś na miejsce kilka minut po umówionym czasie."
+
+# game/day31.rpy:502
+translate polish day31_r_room_choices_15c67961:
+
+    # "{i}The way the receptionist leads you takes you by surprise, and you nearly bump into her while you're still fiddling with your mask."
+    "{i}To, gdzie prowadzi Cię recepcjonistka trochę Cię zaskakuje i prawie na nią wpadasz gdy zakładasz maskę."
+
+# game/day31.rpy:509
+translate polish day31_r_room_choices_cb2412b2:
+
+    # m "You requested one last meeting with us after we notified you we'd be terminating our contract with you."
+    m "Poprosiłeś o ostatnie spotkanie z nami po tym, jak poinformowaliśmy Cię, że rozwiązujemy z Tobą umowę."
+
+# game/day31.rpy:514
+translate polish day31_r_room_choices_e9fa010b:
+
+    # p "Our sessions together were incredible, and I do not understand why the arrangement should be terminated."
+    p "Nasze sesje były niesamowite i nie rozumiem dlaczego nasza współpraca miałaby dobiec końca."
+
+# game/day31.rpy:559
+translate polish day31_r_room_choices_9b05ac4f:
+
+    # "{i}Your mother's tongue eagerly explores yours while you hold her in a tight embrace, and a longing sigh escapes her."
+    "{i}Język twojej matki ochoczo eksploruje twój, podczas gdy ty trzymasz ją w ciasnym uścisku, a tęskne westchnienie wymyka się jej."
+
+# game/day31.rpy:561
+translate polish day31_r_room_choices_65190b15:
+
+    # "{i}The older woman's tongue eagerly explores yours while you hold her in a tight embrace, and a longing sigh escapes her."
+    "{i}Język starszej kobiety ochoczo eksploruje twój, podczas gdy ty trzymasz ją w ciasnym uścisku, a tęskne westchnienie wymyka się jej."
+
+# game/day31.rpy:581
+translate polish day31_r_room_choices_89b0c1a0:
+
+    # m "Adriana and I would like to offer you the premium service our company provides."
+    m "Adriana i ja, chciałybyśmy zaoferować panu usługę premium."
+
+# game/day31.rpy:610
+translate polish day31_r_room_choices_7857299e:
+
+    # p "It does, mistress, and I would be honored to join you."
+    p "Tak, Pani. Będę zaszczycony mogąc do was dołączyć."
+
+# game/day31.rpy:631
+translate polish day31_r_room_choices_d64543c5:
+
+    # p "It does, mistress, and I think this is where we need to part ways."
+    p "Tak Pani, myślę, że tu nasze drogi się rozchodzą."
+
+# game/day31.rpy:651
+translate polish day31_r_room_choices_5d3a0688:
+
+    # "{i}A smile of relief creeps over [m_name]'s face. Adriana is smiling too, but her expression remains ever one of desire and hunger."
+    "{i}Uśmiech pełen ulgi pojawia się na twarzy Susan, Adriana też się uśmiecha, ale jej wyraz twarzy jak zwykle emanuje głodem i pożądaniem."
+
+# game/day31.rpy:697
+translate polish day31_r_room_choices_b4d77c01:
+
+    # "{i}You gift-wrap an evening dress that you think complements [r_name]'s figure nicely, a set of expensive heels, a gorgeous bouquet of flowers, and the tickets to the Valentina Glorious show."
+    "{i}Zapakowujesz sukienkę, która Twoim zdaniem ładnie podkreśli figurę Rachel, parę drogich szpilek, piękny bukiet kwiatów i bilety na koncert Valentiny Glorious."
+
+# game/day31.rpy:720
+translate polish day31_evening_choices_773fe023:
+
+    # p "{i}(She's probably staying over at a friend. Hopefully, [r_name] will get my letter and the gifts as soon as she's back.)"
+    p "{i}(Pewnie jest u przyjaciółki, mam nadzieję, że Rachel dostanie mój list i prezent, kiedy tylko wróci do domu.)"
+
+# game/day31.rpy:872
+translate polish day31_al_fuck_2080fa66:
+
+    # "{i}Her slit is already leaking juices on your dick, and Alina shivers as you wrap your hand firmly around her neck."
+    "{i}Jej szparka już ocieka sokami, zwilżając Twojego penisa i przechodzą ją dreszcze, kiedy łapiesz ją silnie za gardło."
+
+# game/day31.rpy:884
+translate polish day31_al_fuck_59ba3b26:
+
+    # "{i}To indicate your disapproval, you force her on her knees against the wall and ram your cock in her cunt."
+    "{i}Aby podkreślić Twoją dezaprobatę, spychasz ją na kolana, naprzeciwko ściany i wbijasz w jej pizdę swojego penisa."
+
+# game/day31.rpy:895
+translate polish day31_al_fuck_68685c96:
+
+    # "{i}Obviously riled by your actions, Alina begins to finger herself."
+    "{i}Wyraźnie podjudzona Twoimi działaniami, Alina zaczyna się dotykać palcami."
+
+# game/day31.rpy:909
+translate polish day31_al_fuck_0c2c9437:
+
+    # "{i}The pounding you proceed to give her takes her breath away, and her whole body is taut like a rope."
+    "{i}Uderzenie, które jej dajesz, zapiera jej dech w piersiach, a całe jej ciało jest napięte jak lina."
+
+# game/day31.rpy:916
+translate polish day31_al_fuck_b722200b:
+
+    # "{i}When your cock is firmly planted inside her gash, you fuck her with quick, angry thrusts, your balls slapping against her wet flesh."
+    "{i}Kiedy Twój fiut ponownie niknie w jej ciepłym wnętrzu, zaczynasz posuwać ją szybkimi, wściekłymi pchnięciami, Twoje jaja obijają się o jej wilgotne ciało."
+
+# game/day31.rpy:947
+translate polish day31_al_fuck_choices_a92468a0:
+
+    # p "Spit in your hand."
+    p "Pluć w rękę"
+
+# game/day31.rpy:1294
+translate polish day31_discreet_fuck_ed247d29:
+
+    # "{i}You keep fucking her tight asshole, and just when your shaft is buried inside her to the root, you discharge a huge quantity of warm semen."
+    "{i}Nie przestajesz jej ruchać i kiedy zatapiasz się w niej po same jaja, zalewasz jej wnętrze Twoim gorącym nasieniem."
+
+# game/day31.rpy:1310
+translate polish day31_discreet_fuck_f35a4208:
+
+    # "{i}After pulling out of her asshole, you drag Adriana to the floor where she doesn't have to wait long for a huge quantity of warm seed, splashing on her face."
+    "{i}Po wysunięciu się z jej tyłka, ściągasz ją na podłogę, gdzie nie musi długo czekać na strumienie gorącego nasienia lądujące na jej twarzy."
 

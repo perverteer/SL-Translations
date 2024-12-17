@@ -26,7 +26,7 @@ translate polish day13_c63691ab:
 translate polish day13_e7205b79:
 
     # "{i}As you debate whether to leave or not, you watch the morning sunlight caress [l_name]'s curves. Her eyes open slowly."
-    ""
+    "{i}Gdy zastanawiasz się, czy odejść, czy nie, patrzysz, jak poranne promienie słońca pieszczą krągłości [l_name] Jej oczy otwierają się powoli."
 
 # game/day13.rpy:36
 translate polish day13_2f664241:
@@ -92,7 +92,7 @@ translate polish day13_d9ed8e52:
 translate polish day13_ef585eeb:
 
     # p "You don't have to thank me, it was just an opportunity for me to spend some time with you."
-    p ""
+    p "Nie musisz mi dziękować, to była tylko okazja do spędzenia z tobą trochę czasu."
 
 # game/day13.rpy:51
 translate polish day13_8642600a:
@@ -242,7 +242,7 @@ translate polish day13_choices_4c3736ba:
 translate polish day13_choices_76d45fdc:
 
     # r "I'm in a really good place right now, especially now that [p_name] is living with us."
-    r ""
+    r "Jestem teraz w naprawdę dobrym miejscu, zwłaszcza teraz, gdy [p_name] mieszka z nami"
 
 # game/day13.rpy:105
 translate polish day13_choices_d50fbd36:
@@ -308,7 +308,7 @@ translate polish day13_choices_12439121:
 translate polish day13_choices_aa74a150:
 
     # p "Hey [b_name]! Not working today?"
-    p ""
+    p "Hej [b_name]! Nie pracujesz dzisiaj?"
 
 # game/day13.rpy:133
 translate polish day13_choices_757d0c19:
@@ -410,13 +410,13 @@ translate polish day13_choices_e0ce5705:
 translate polish day13_choices_9e500e40:
 
     # b "I went to the park really often when I was a little girl. I remember playing for hours between the trees."
-    b ""
+    b "Kiedy byłam małą dziewczynką, często chodziłam do parku. Pamiętam, jak godzinami bawiłam się między drzewami."
 
 # game/day13.rpy:156
 translate polish day13_choices_df7181e0:
 
     # b "I remember getting ice cream from a truck. Wonder if it's still there."
-    b ""
+    b "Pamiętam, jak dostawałem lody z ciężarówki. Ciekawe, czy nadal tam są."
 
 # game/day13.rpy:157
 translate polish day13_choices_1119f853:
@@ -650,7 +650,7 @@ translate polish day13_choices_eb37e22d:
 translate polish day13_choices_f0635522:
 
     # p "I'm not the one who's going to expose her private parts, now am I?"
-    p ""
+    p "To nie ja zamierzam odsłonić jej części intymne, prawda?."
 
 # game/day13.rpy:206
 translate polish day13_choices_28b405d4:
@@ -722,7 +722,7 @@ translate polish day13_choices_d1edb476:
 translate polish day13_choices_de9463e2:
 
     # p "Shall I cum all over your body, your beautiful body?"
-    p ""
+    p "Czy mam spuścić się na całe twoje piękne ciało?"
 
 # game/day13.rpy:224
 translate polish day13_choices_c220c29c:
@@ -800,7 +800,7 @@ translate polish day13_choices_26183717:
 translate polish day13_choices_8ba2fcce:
 
     # "{i}[b_name] visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
-    ""
+    "{i}[b_name] wyraźnie próbuje się zrelaksować i przyciska dildo do swojego odbytu Jej mały tyłeczek powoli ustępuje pod stałym naciskiem, a czubek dildo wsuwa się do środka."
 
 # game/day13.rpy:242
 translate polish day13_choices_95679f05:
@@ -884,13 +884,13 @@ translate polish day13_choices_48104448:
 translate polish day13_choices_0b42e1ea:
 
     # p "Are you my dirty anal slut, [b_name]? Say it!"
-    p ""
+    p "Czy jesteś moją brudną analną dziwką [b_name]? Powiedz to!"
 
 # game/day13.rpy:259
 translate polish day13_choices_e6be8397:
 
     # b "Y-y-yes! Yes! I'm your dirty anal slut!"
-    b ""
+    b "Tak! Tak! Jestem twoją brudną analną dziwką!"
 
 # game/day13.rpy:261
 translate polish day13_choices_30eab047:
@@ -938,7 +938,7 @@ translate polish day13_choices_98a1ee37:
 translate polish day13_choices_74567aa1:
 
     # "{i}You shoot multiple volleys of semen onto [b_name]'s face."
-    ""
+    "{i}Wystrzeliwujesz wiele salw nasienia na twarz [b_name]."
 
 # game/day13.rpy:280
 translate polish day13_choices_76da4996:
@@ -962,7 +962,7 @@ translate polish day13_choices_ca8d266f:
 translate polish day13_choices_2f6cc792:
 
     # "{i}You shoot multiple volleys of semen onto [b_name]'s chest."
-    ""
+    "{i}Wystrzeliwujesz wiele salw nasienia na klatkę piersiową [b_name]."
 
 # game/day13.rpy:297
 translate polish day13_choices_b62f9265:
@@ -986,7 +986,7 @@ translate polish day13_choices_eadca042:
 translate polish day13_choices_8dfab9e0:
 
     # "{i}[b_name] is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
-    ""
+    "{i}[b_name] jest zbyt wyczerpana, aby nawet z tobą rozmawiać Gwałtowność jej orgazmu wypchnęła dildo z jej tyłka Wydaje ci się, że widzisz mały uśmiech w kącikach jej ust."
 
 # game/day13.rpy:313
 translate polish day13_choices_33294ccb:
@@ -1082,7 +1082,7 @@ translate polish day13_choices_913f0e26:
 translate polish day13_choices_2369b650:
 
     # l "About me, but also about everyone here and especially about you."
-    l ""
+    l "O mnie, ale także o wszystkich tutaj, a zwłaszcza o tobie"
 
 # game/day13.rpy:343
 translate polish day13_choices_9a758607:
@@ -1202,7 +1202,7 @@ translate polish day13_choices_7ee4eadd:
 translate polish day13_choices_9f8d43e1:
 
     # m "How are you today?"
-    m ""
+    m "Jak się dzisiaj masz?"
 
 # game/day13.rpy:374
 translate polish day13_choices_1107db12:
@@ -1376,13 +1376,13 @@ translate polish day13_choices_c994c6c9:
 translate polish day13_choices_6893779e:
 
     # m "She spent a lot of time in that park when she was little."
-    m ""
+    m "Spędzała dużo czasu w tym parku, kiedy była mała"
 
 # game/day13.rpy:421
 translate polish day13_choices_a98e2094:
 
     # p "Yeah, she told me."
-    p ""
+    p "Tak, powiedziała mi"
 
 # game/day13.rpy:424
 translate polish day13_choices_ab19b9b1:
@@ -2114,7 +2114,7 @@ translate polish day13_choices_f8504b67:
 translate polish day13_choices_47122a30:
 
     # p "I have no problems with either of us getting topless. I mean we're friends, it's nothing weird."
-    p ""
+    p "Nie mam problemów z tym, że któraś z nas jest topless, jesteśmy przyjaciółkami, to nic dziwnego."
 
 # game/day13.rpy:572
 translate polish day13_choices_6daa19c8:
@@ -2300,7 +2300,7 @@ translate polish day13_choices_c07b1c30:
 translate polish day13_choices_512f8236:
 
     # p "My pleasure, dear [l_name]."
-    p ""
+    p "Cała przyjemność po mojej stronie [l_name]"
 
 # game/day13.rpy:623
 translate polish day13_choices_13392485:
@@ -2324,7 +2324,7 @@ translate polish day13_evening_choices_e9ae6c14:
 translate polish day13_evening_choices_3e28e3c9:
 
     # l "Smells good Mrs. Smith!"
-    l ""
+    l "Ładnie pachnie, pani Smith!"
 
 # game/day13.rpy:640
 translate polish day13_evening_choices_d4b1dc1f:
@@ -2366,13 +2366,13 @@ translate polish day13_evening_choices_4df6a517:
 translate polish day13_evening_choices_33f60bb0:
 
     # m "Really, that's a compliment out of your mouth."
-    m ""
+    m "Naprawdę to komplement z twoich ust"
 
 # game/day13.rpy:652
 translate polish day13_evening_choices_e914a341:
 
     # b "No need to dwell on the past!"
-    b ""
+    b "Nie ma potrzeby rozpamiętywać przeszłości!"
 
 # game/day13.rpy:654
 translate polish day13_evening_choices_8d4ca27b:
@@ -2414,7 +2414,7 @@ translate polish day13_evening_choices_3ac0cc27:
 translate polish day13_evening_choices_a3fc4bd3:
 
     # p "So why don't we go on vacation? It'll be my treat."
-    p ""
+    p "To może pojedziemy na wakacje? To będzie moja uczta"
 
 # game/day13.rpy:670
 translate polish day13_evening_choices_96cbedce:
@@ -2546,7 +2546,7 @@ translate polish day13_evening_choices_9e02964c:
 translate polish day13_evening_choices_e4b1c44f:
 
     # j "Hey, Mrs. Smith let me in. Ana is here as well, she insisted she'd come... Had to talk to [r_name], or something."
-    j ""
+    j "Hej, pani Smith, wpuść mnie, Ana też tu jest, nalegała, żeby przyjść i porozmawiać z [r_name] czy coś."
 
 # game/day13.rpy:709
 translate polish day13_evening_choices_71193a6f:
@@ -3528,223 +3528,575 @@ translate polish strings:
     old "Ride me"
     new "Poujeżdżaj mnie"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
 # game/day13.rpy:29
 translate polish day13_799558cd:
 
     # "{i}After waking up, you're at first startled by the girl lying next to you, but then you realize it's [l_name] nesting against you in a deep sleep."
-    "{i}Po przebudzeniu w pierwszej chwili jesteś zaskoczony dziewczyną leżącą obok ciebie, ale potem uświadamiasz sobie, że to [l_name] gnieździ się przy tobie w głębokim śnie"
+    "{i}Po przebudzeniu jesteś początkowo zaskoczony dziewczyną leżącą obok ciebie, ale potem zdajesz sobie sprawę, że to [l_name] gnieździ się przy tobie w głębokim śnie."
 
-# game/day13.rpy:60
+# game/day13.rpy:62
 translate polish day13_fba8a000:
 
     # "{i}After your breakfast, [l_name] stays downstairs to do the dishes, and you return to your room."
-    "{i}Po twoim śniadaniu [l_name] zostaje na dole, aby zrobić naczynia, a ty wracasz do swojego pokoju"
+    "{i}Po śniadaniu Liza zostaje na dole, żeby pozmywać, a Ty wracasz do swojego pokoju."
 
-# game/day13.rpy:69
+# game/day13.rpy:75
 translate polish day13_de511513:
 
     # p "'I'm free tonight. If you text me, I'll open the front door.'"
-    p "'Jestem wolny dziś wieczorem Jeśli napiszesz do mnie sms-a, otworzę ci drzwi wejściowe.'"
+    p "{i}'Jestem dziś wolny. Napisz do mnie, to otworzę Ci drzwi.'"
 
-# game/day13.rpy:91
+# game/day13.rpy:100
 translate polish day13_choices_17edc59a:
 
     # r "Yes, Mrs. Steel."
-    r "Tak Pani Stalowa"
+    r "Tak, pani Steel."
 
-# game/day13.rpy:92
+# game/day13.rpy:101
 translate polish day13_choices_6a70505f:
 
     # r "No, Mrs. Steel."
-    r "Nie ma pani Stalowej"
+    r "Nie, pani Steel."
 
-# game/day13.rpy:108
+# game/day13.rpy:117
 translate polish day13_choices_17edc59a_1:
 
     # r "Yes, Mrs. Steel."
-    r "Tak Pani Stalowa"
+    r "Tak, pani Steel."
 
-# game/day13.rpy:114
+# game/day13.rpy:123
 translate polish day13_choices_a417a697:
 
     # r "Yes, Mrs. Steel. I'll be there at 3 PM."
-    r "Tak Pani Stalowa będę o 15.00"
+    r "Tak, pani Steel. Będę tam o 15-stej."
 
-# game/day13.rpy:133
+# game/day13.rpy:143
 translate polish day13_choices_855e6c4b:
 
     # b "No, I took a day off. The situation with MisterX seems to have cooled down a bit, so I feel I can relax a little."
-    b "Nie, wziąłem dzień wolny Sytuacja z MisterX wydaje się nieco ochłonąć, więc czuję, że mogę się trochę zrelaksować"
+    b "Nie, mam wolne. Wygląda na to, że sytuacja z MisteremX się uspokoiła, więc mogę się trochę zrelaksować."
 
-# game/day13.rpy:138
+# game/day13.rpy:148
 translate polish day13_choices_17ac1aee:
 
     # p "A walk in the park, maybe?"
-    p "A walk in the park maybe?"
+    p "Co powiesz na spacer w parku?"
 
-# game/day13.rpy:143
+# game/day13.rpy:155
 translate polish day13_choices_349162c1:
 
     # "{i}[b_name] seems a bit preoccupied during the short walk to the park, but appears less distracted once you arrive."
-    "{i}[b_name] wydaje się nieco zajęty podczas krótkiego spaceru do parku, ale wydaje się mniej rozproszony po dotarciu na miejsce."
+    "{i}[b_name] wydaje się nieco zajęty podczas krótkiego spaceru do parku, ale wydaje się mniej rozkojarzony po przybyciu na miejsce."
 
-# game/day13.rpy:165
+# game/day13.rpy:178
 translate polish day13_choices_eb470cab:
 
     # b "Strawberry and vanilla for me, please."
-    b "Truskawka i wanilia dla mnie proszę"
+    b "Truskawkę z wanilią poproszę."
 
-# game/day13.rpy:167
+# game/day13.rpy:180
 translate polish day13_choices_79bab145:
 
     # "{i}While you order two ice creams, [b_name] seats herself on a bench nearby, clearly enjoying the sun."
-    "{i}Podczas gdy ty zamawiasz dwa lody [b_name] siedzi sobie na ławce obok wyraźnie ciesząc się słońcem"
+    "{i}Gdy Ty zamawiasz lody, Bella rozsadza się na pobliskiej ławce, wyraźnie ciesząc się słońcem."
 
-# game/day13.rpy:189
+# game/day13.rpy:202
 translate polish day13_choices_7fe2755c:
 
     # "{i}After [b_name] finishes her ice cream, she nestles herself against you, and you both enjoy the sun and the quiet of the park together."
-    "{i}Po tym jak [b_name] skończy swoje lody, wtula się w ciebie i oboje cieszycie się słońcem i ciszą parku."
+    "{i}Gdy Bella kończy swoje lody, wtula się w Ciebie i razem cieszycie się słońcem i ciszą."
 
-# game/day13.rpy:233
-translate polish day13_choices_20a9d900:
-
-    # "{i}With a sigh of resignation, [b_name] presses the dildo to her sphincter."
-    "{i}Z westchnieniem rezygnacji [b_name] dociska dildo do swojego zwieracza."
-
-# game/day13.rpy:243
-translate polish day13_choices_bd346a68:
-
-    # "{i}With a little sigh of relief, [b_name] pushes the dildo even further in. Any sign of discomfort has vanished from her face."
-    "{i}Z lekkim westchnieniem ulgi [b_name] wsuwa dildo jeszcze dalej Wszelkie oznaki dyskomfortu zniknęły z jej twarzy"
-
-# game/day13.rpy:268
-translate polish day13_choices_8bbe1a03:
-
-    # "{i}As [b_name] gives herself over to her violent orgasm, you wank your dick even harder and soon feel ready to shoot a huge load."
-    "{i}Gdy [b_name] oddaje się swojemu gwałtownemu orgazmowi, ty wachlujesz kutasem jeszcze mocniej i wkrótce czujesz się gotowy do wystrzelenia ogromnego ładunku."
-
-# game/day13.rpy:460
+# game/day13.rpy:367
 translate polish day13_choices_00826215:
 
     # h "Yes, we wouldn't want that. Very good, Mr. Holmes."
-    h "Tak, nie chcielibyśmy tego Bardzo dobry panie Holmes"
+    h "Oczywiście, tego byśmy nie chcieli. No dobrze panie Holmes."
 
-# game/day13.rpy:471
+# game/day13.rpy:380
 translate polish day13_choices_64cdf8d7:
 
     # "{i}You travel to the wellness center, where a friendly receptionist hands you each a bathrobe."
-    "{i}Podróżujesz do centrum odnowy biologicznej, gdzie przyjazna recepcjonistka wręcza każdemu szlafrok"
+    "{i}Jedziecie do centrum odnowy biologicznej, na miejscu przyjazna recepcjonistka wręcza wam po szlafroku."
 
-# game/day13.rpy:489
+# game/day13.rpy:400
 translate polish day13_choices_ecb9a150:
 
     # l "If it's as good as the facial massage, I'm up for it."
-    l "Jeśli jest tak dobry jak masaż twarzy to jestem za"
+    l "Jeśli zwykły będzie tak dobry, jak ten twarzy, to jak najbardziej."
 
-# game/day13.rpy:499
+# game/day13.rpy:410
 translate polish day13_choices_47ed76c7:
 
     # "{i}The two expert masseuses work silently until every muscle in your body is relaxed. Once in a while, you hear [l_name] make contented noises."
-    "{i}Dwie biegłe masażystki pracują w milczeniu, aż każdy mięsień w twoim ciele będzie rozluźniony Raz na jakiś czas słyszysz, jak [l_name] wydaje zadowolone dźwięki."
+    "{i}Dwie doświadczone masażystki pracują w ciszy, aż każdy mięsień w twoim ciele jest rozluźniony Raz na jakiś czas słyszysz, jak [l_name] wydaje zadowolone odgłosy."
 
-# game/day13.rpy:542
+# game/day13.rpy:453
 translate polish day13_choices_59c69c7a:
 
     # p "Forgive me for asking this, [l_name], but did you orgasm?"
-    p "Wybacz, że o to pytam [l_name], ale czy miałaś orgazm?."
+    p "Wybacz, że o to pytam [l_name], ale czy miałeś orgazm?"
 
-# game/day13.rpy:552
+# game/day13.rpy:463
 translate polish day13_choices_f4476ceb:
 
     # p "If you're finished with your lunch, I thought we could perhaps try the sauna?"
-    p "Jeśli skończyłeś swój lunch pomyślałem, że może moglibyśmy spróbować sauny?"
+    p "Jeśli skończyłaś już jeść, to pomyślałem, że moglibyśmy skorzystać z sauny?"
 
-# game/day13.rpy:562
+# game/day13.rpy:473
 translate polish day13_choices_2100e0a8:
 
     # p "Don't worry, it's absolutely normal in saunas."
-    p "Nie martw się to absolutnie normalne w saunach"
+    p "Nie martw się, to całkowicie normalne w saunach."
 
-# game/day13.rpy:569
+# game/day13.rpy:480
 translate polish day13_choices_e62552c2:
 
     # p "I have no problems with either of us getting topless. I mean, we're family, it's nothing weird."
-    p "Nie mam problemów z tym, że któreś z nas będzie topless to znaczy, że jesteśmy rodziną to nic dziwnego"
+    p "Ja nie mam problemu z tym, żeby którekolwiek z nas było rozebrane. W końcu jesteśmy rodziną, to nic dziwnego."
 
-# game/day13.rpy:571
+# game/day13.rpy:482
 translate polish day13_choices_9e824058:
 
     # p "I have no problems with either of us getting topless. I mean, we're friends, it's nothing weird."
-    p "Nie mam problemów z tym, że któraś z nas będzie topless znaczy jesteśmy przyjaciółkami to nic dziwnego"
+    p "Nie mam problemów z tym, że któraś z nas jest topless, jesteśmy przyjaciółkami, to nic dziwnego."
 
-# game/day13.rpy:573
+# game/day13.rpy:484
 translate polish day13_choices_04ecd7c2:
 
     # "{i}[l_name] hesitantly disrobes and enters the sauna wearing only her underwear. You do the same."
-    "{i}[l_name] z wahaniem rozbiera się i wchodzi do sauny w samej bieliźnie Ty robisz to samo"
+    "{i}[l_name] z wahaniem rozbiera się i wchodzi do sauny w samej bieliźnie Ty robisz to samo."
 
-# game/day13.rpy:637
+# game/day13.rpy:550
 translate polish day13_evening_choices_7ba6afdd:
 
     # l "Smells good, mom!"
-    l "Pachnie dobrze mamo!"
+    l "Pachnie smakowicie mamo!"
 
-# game/day13.rpy:639
+# game/day13.rpy:552
 translate polish day13_evening_choices_6e923f83:
 
     # l "Smells good, Mrs. Smith!"
     l "Ładnie pachnie, pani Smith!"
 
-# game/day13.rpy:656
+# game/day13.rpy:569
 translate polish day13_evening_choices_f845d16c:
 
     # "{i}It might have been your imagination, but you think [b_name] let out a groan after your words."
-    "{i}Może to była twoja wyobraźnia, ale wydaje ci się, że [b_name] wypuścił jęk po twoich słowach."
+    "{i}To mogła być Twoja wyobraźnia, ale wydaje Ci się, że Bella prychnęła słysząc Twoje słowa."
 
-# game/day13.rpy:701
+# game/day13.rpy:617
 translate polish day13_evening_choices_65a8e023:
 
     # "{i}A little while after dinner, you hear the doorbell and later a knock on your door."
-    "{i}Chwilę po kolacji słyszysz dzwonek do drzwi, a później pukanie do drzwi"
+    "{i}Krótko po kolacji słyszysz dzwonek i po chwili pukanie do drzwi."
 
-# game/day13.rpy:712
+# game/day13.rpy:628
 translate polish day13_evening_choices_1e13f074:
 
     # j "I know she's into you and that sex is one of my sister's hobbies, and she really, really wanted to have that talk with [r_name]."
-    j "Wiem, że ona jest w tobie i że seks jest jednym z hobby mojej siostry i ona naprawdę bardzo chciała przeprowadzić tę rozmowę z [r_name]"
+    j "Wiem, że się jej podobasz i że seks jest jej ulubionym hobby. No i bardzo, bardzo chciała tu przyjść {i}porozmawiać z Rachel{/i}."
 
-# game/day13.rpy:758
+# game/day13.rpy:674
 translate polish day13_evening_choices_a27f304d:
 
     # p "You're going to tape your little sexcapade and we'll send Dwayne a copy of his mom degrading herself. I'm pretty sure he isn't going to enjoy that."
-    p "Będziesz nagrywać swoją małą seksapadę i wyślemy Dwayne'owi kopię jego mamy degradującej się, jestem całkiem pewien, że nie będzie mu się to podobać"
+    p "Zamierzasz nagrać swoją małą seks-kapadę, a my wyślemy Dwayne'owi kopię poniżającej się matki, jestem pewien, że nie będzie mu się to podobać."
 
-# game/day13.rpy:762
+# game/day13.rpy:678
 translate polish day13_evening_choices_6bab0766:
 
     # j "I'll make sure I'm not recognizable in the video. If she's such a depraved little housewife like you say she is, I'm going to have a lot of fun."
-    j "Upewnię się, że nie będę rozpoznawalny na filmie Jeśli ona jest taką zdeprawowaną małą kurą domową, jak mówisz, że jest, to będę miał dużo zabawy"
+    j "Upewnię się, że będę nie do rozpoznania na filmie. Jeśli jest tak wyposzczona jak uważasz, to będę się mógł z nią naprawdę nieźle zabawić."
 
-# game/day13.rpy:862
+# game/day13.rpy:764
+translate polish day13_evening_choices_00ea7c64:
+
+    # "{i}After a nice shower you fall asleep quickly."
+    "{i}Po przyjemnym prysznicu zasypiasz bez większych problemów."
+
+# game/day13.rpy:807
 translate polish day13_ana_fuck_4a08e656:
 
     # "{i}Aroused by her words, you grab hold of her head and force her open mouth over your penis. You start mercilessly thrusting your dick inside her mouth, hitting her throat with the tip."
-    "{i}Podniecony jej słowami chwytasz za głowę i zmuszasz jej otwarte usta do objęcia swojego penisa Zaczynasz bezlitośnie pchać swojego kutasa wewnątrz jej ust uderzając czubkiem w gardło"
+    "{i}Podniecony jej słowami, łapiesz ją za głowę i gwałtownym ruchem nabijasz ją na swojego penisa. Zaczynasz bezlitośnie posuwać jej usta, uderzając tył jej gardła przy każdym ruchu."
 
-# game/day13.rpy:867
+# game/day13.rpy:812
 translate polish day13_ana_fuck_20be3c80:
 
     # "{i}Unable to speak, Ana can only make some noises of consent. When you've had enough you pull your wet dick from her mouth and decide how to use her body."
-    "{i}Niezdolna do mówienia Ana może tylko wydawać jakieś odgłosy zgody Kiedy masz dość, wyciągasz swojego mokrego kutasa z jej ust i decydujesz jak wykorzystać jej ciało"
+    "{i}Niezdolna do mówienia Ana może tylko wydawać odgłosy zgody, kiedy masz dość, wyciągasz mokrego kutasa z jej ust i decydujesz, jak wykorzystać jej ciało."
 
-# game/day13.rpy:899
+# game/day13.rpy:865
 translate polish day13_ana_fuck_51c54564:
 
     # "{i}You can penetrate her deeply because of the wetness, your dick almost to the root inside her with each thrust."
-    "{i}Możesz penetrować ją głęboko z powodu mokrości twój kutas prawie do korzenia wewnątrz niej z każdym pchnięciem"
->>>>>>> polish
+    "{i}Możesz penetrować ją głęboko z powodu mokrego kutasa prawie do korzenia w jej wnętrzu przy każdym pchnięciu."
+
+# game/day13.rpy:959
+translate polish day13_b_dildo_456d433a:
+
+    # b "Fuck no... I just woke up..."
+    b "Kurwa, no nie... Właśnie się obudziłam..."
+
+# game/day13.rpy:960
+translate polish day13_b_dildo_29571bd4:
+
+    # p "Fuck yes! What better way to get fully awake than by inserting that shiny dildo into your wet pussy?"
+    p "Kurwa, o tak! Czy jest lepszy sposób na rozbudzenie się, od zabawy tym Twoim błyszczącym dildem?"
+
+# game/day13.rpy:961
+translate polish day13_b_dildo_58515d49:
+
+    # b "You're a sick fucking pervert, you know that?"
+    b "Jesteś chorym zbokiem, wiesz o tym?"
+
+# game/day13.rpy:963
+translate polish day13_b_dildo_eb37e22d:
+
+    # p "I'm not the one who's going to expose her private parts to her brother, now am I?"
+    p "To nie ja zamierzam prezentować moje intymne miejsca swojemu bratu."
+
+# game/day13.rpy:965
+translate polish day13_b_dildo_f0635522:
+
+    # p "I'm not the one who's going to expose her private parts, now am I?"
+    p "To nie ja zamierzam odsłonić jej części intymne, prawda?."
+
+# game/day13.rpy:966
+translate polish day13_b_dildo_28b405d4:
+
+    # p "But you've given me an idea."
+    p "Ale dzięki Tobie wpadłem na pewien pomysł."
+
+# game/day13.rpy:967
+translate polish day13_b_dildo_e7a0fb73:
+
+    # b "Oh no..."
+    b "O nie..."
+
+# game/day13.rpy:968
+translate polish day13_b_dildo_8224df03:
+
+    # p "It's only fair that if you get to enjoy yourself, I do to."
+    p "Żeby było sprawiedliwie, nie tylko Ty się dziś zabawisz."
+
+# game/day13.rpy:969
+translate polish day13_b_dildo_51195a8f:
+
+    # "{i}You both undress and [b_name] gets her black dildo from somewhere inside a closet."
+    "{i}Oboje się rozbieracie i Bella wyciąga swoje czarne dildo z szafy."
+
+# game/day13.rpy:972
+translate polish day13_b_dildo_dee281fe:
+
+    # p "God, you're beautiful."
+    p "Boże, jaka Ty jesteś piękna."
+
+# game/day13.rpy:977
+translate polish day13_b_dildo_0ed41496:
+
+    # "{i}[b_name] slides her dildo inside her pussy. You hear her gasp. And the sound makes your dick harder than it already is."
+    "{i}Bella zaczyna wsuwać dildo do swojej cipki. Słyszysz jak wzdycha. Ten dźwięk tylko dodatkowo Cię podnieca."
+
+# game/day13.rpy:978
+translate polish day13_b_dildo_3d16f2ad:
+
+    # p "Yes, make that thing all wet with your juices."
+    p "Tak, zwilż je swoimi sokami."
+
+# game/day13.rpy:983
+translate polish day13_b_dildo_805addfe:
+
+    # "{i}When [b_name] starts to moan softly, you start masturbating. [b_name] glances at your cock with a mixture of anticipation mixed with fear."
+    "{i}Kiedy Bella zaczyna cicho jęczeć, a Ty zaczynasz się masturbować. Bella zerka na Twojego penisa ze strachem i antycypacją."
+
+# game/day13.rpy:984
+translate polish day13_b_dildo_d084c8d0:
+
+    # p "Are you going to make me cum, [b_name]?"
+    p "Doprowadzisz mnie do orgazmu Bella?"
+
+# game/day13.rpy:985
+translate polish day13_b_dildo_31ddfd60:
+
+    # b "M-m...maybe..."
+    b "M- M-... Może..."
+
+# game/day13.rpy:987
+translate polish day13_b_dildo_d1edb476:
+
+    # p "Shall I cum all over your body? My sister's beautiful body?"
+    p "Mam spuścić się na Ciebie? Na ciało mojej pięknej siostry?"
+
+# game/day13.rpy:989
+translate polish day13_b_dildo_de9463e2:
+
+    # p "Shall I cum all over your body, your beautiful body?"
+    p "Czy mam spuścić się na całe twoje piękne ciało?"
+
+# game/day13.rpy:990
+translate polish day13_b_dildo_c220c29c:
+
+    # b "D-do whatever you like."
+    b "R- Rób co chcesz."
+
+# game/day13.rpy:991
+translate polish day13_b_dildo_32075ab4:
+
+    # p "{i}(She's truly submitting herself to me! Time to go a bit further.)"
+    p "{i}(Naprawdę się mi poddaje! Pora pchnąć ją nieco dalej.)"
+
+# game/day13.rpy:997
+translate polish day13_b_dildo_17e8bdf4:
+
+    # p "I think your toy is sufficiently wet now, it'll probably slide right into that little asshole of yours."
+    p "Myślę, że Twoja zabawka jest już dostatecznie mokra. Myślę, że teraz bez problemu wsuniesz ją do swojego uroczego tyłeczka."
+
+# game/day13.rpy:999
+translate polish day13_b_dildo_956e4ee5:
+
+    # b "What?! You want me to put it in there?"
+    b "Co?! Chcesz, żebym ją {i}tam{/i} wsadziła?"
+
+# game/day13.rpy:1000
+translate polish day13_b_dildo_0042f8ee:
+
+    # p "Yes, come on, I'm sure you'll like it."
+    p "Tak, no dalej. Wiem, że Ci się spodoba."
+
+# game/day13.rpy:1001
+translate polish day13_b_dildo_66547598:
+
+    # b "But that must hurt..."
+    b "Ale to będzie bolało..."
+
+# game/day13.rpy:1002
+translate polish day13_b_dildo_9530ac2f:
+
+    # p "Not if you take it slow."
+    p "Nie jeśli zrobisz to powoli."
+
+# game/day13.rpy:1008
+translate polish day13_b_dildo_20a9d900:
+
+    # "{i}With a sigh of resignation, [b_name] presses the dildo to her sphincter."
+    "{i}Z westchnieniem rezygnacji, Bella przyciska dildo do swojego odbytu."
+
+# game/day13.rpy:1009
+translate polish day13_b_dildo_d1c378b9:
+
+    # b "What if it's too big?"
+    b "Co jeśli jest za duże?"
+
+# game/day13.rpy:1010
+translate polish day13_b_dildo_7b0f7b80:
+
+    # p "It won't be. Just relax and take small steps."
+    p "Nie jest. Rozluźnij się i zrób to powoli."
+
+# game/day13.rpy:1011
+translate polish day13_b_dildo_232069fb:
+
+    # p "{i}(It's going in!)"
+    p "{i}(Robi to!)"
+
+# game/day13.rpy:1013
+translate polish day13_b_dildo_26183717:
+
+    # "{i}Your sister visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
+    "{i}Twoja siostra wyraźnie próbuje się zrelaksować i mocniej napiera na dildo. Jej ciasny odbyt powoli się poddaje i końcówka zabawki wsuwa się do środka."
+
+# game/day13.rpy:1015
+translate polish day13_b_dildo_8ba2fcce:
+
+    # "{i}[b_name] visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
+    "{i}[b_name] wyraźnie próbuje się zrelaksować i przyciska dildo do swojego odbytu Jej mały tyłeczek powoli ustępuje pod stałym naciskiem, a czubek dildo wsuwa się do środka."
+
+# game/day13.rpy:1017
+translate polish day13_b_dildo_95679f05:
+
+    # b "Aaah! Aaaah! It hurts! It... Aaaah!"
+    b "Aaah! Aaaah! To boli! To... Aaaah!"
+
+# game/day13.rpy:1018
+translate polish day13_b_dildo_bd346a68:
+
+    # "{i}With a little sigh of relief, [b_name] pushes the dildo even further in. Any sign of discomfort has vanished from her face."
+    "{i}Z cichym westchnieniem ulgi Bella wpycha dildo głębiej. Z jej twarzy znikają wszelkie oznaki dyskomfortu."
+
+# game/day13.rpy:1019
+translate polish day13_b_dildo_cd537295:
+
+    # b "{i}(Ooooh, this feels so weird, but also so good. It fills me up so completely.)"
+    b "{i}(Ooooh, to dziwne uczucie, ale przyjemne. Czuję się taka wypełniona.)"
+
+# game/day13.rpy:1020
+translate polish day13_b_dildo_a8d39991:
+
+    # p "Do you like it?"
+    p "Podoba Ci się to?"
+
+# game/day13.rpy:1021
+translate polish day13_b_dildo_df44d03d:
+
+    # b "No!"
+    b "Nie!"
+
+# game/day13.rpy:1022
+translate polish day13_b_dildo_1d4967b0:
+
+    # p "Don't lie, [b_name]."
+    p "Nie kłam Bella."
+
+# game/day13.rpy:1023
+translate polish day13_b_dildo_60650ac9:
+
+    # b "Alright fine, I like it."
+    b "No dobra, podoba mi się."
+
+# game/day13.rpy:1024
+translate polish day13_b_dildo_605f7bfa:
+
+    # p "Show me that you like it, your pussy needs some attention too."
+    p "Pokaż mi jak bardzo. Twoja cipka też potrzebuje trochę uwagi."
+
+# game/day13.rpy:1026
+translate polish day13_b_dildo_020c4514:
+
+    # b "Aaaaah! Ah yes!"
+    b "Aaaaah! Ah tak!"
+
+# game/day13.rpy:1027
+translate polish day13_b_dildo_5adfed1c:
+
+    # p "Yes, are you my little anal slut, [b_name]?"
+    p "Tak, jesteś moją małą analną zdzirą Bella?"
+
+# game/day13.rpy:1028
+translate polish day13_b_dildo_dfbc903b:
+
+    # b "Fffffuuuuck!"
+    b "Kuuuuurrrwa!"
+
+# game/day13.rpy:1030
+translate polish day13_b_dildo_66f20809:
+
+    # p "Are you my dirty anal sister, [b_name]? Say it!"
+    p "Czy moja siostrzyczka uwielbia anal? Powiedz to Bella!"
+
+# game/day13.rpy:1031
+translate polish day13_b_dildo_48104448:
+
+    # b "Y-y-yes! Yes! I'm your dirty anal sister!"
+    b "T- T- Tak! Tak! Twoja siostrzyczka kocha anal!"
+
+# game/day13.rpy:1033
+translate polish day13_b_dildo_0b42e1ea:
+
+    # p "Are you my dirty anal slut, [b_name]? Say it!"
+    p "Czy jesteś moją brudną analną dziwką [b_name]? Powiedz to!"
+
+# game/day13.rpy:1034
+translate polish day13_b_dildo_e6be8397:
+
+    # b "Y-y-yes! Yes! I'm your dirty anal slut!"
+    b "Tak! Tak! Jestem twoją brudną analną dziwką!"
+
+# game/day13.rpy:1036
+translate polish day13_b_dildo_30eab047:
+
+    # p "Are you going to cum for me?"
+    p "Dojdziesz dla mnie Bella?"
+
+# game/day13.rpy:1037
+translate polish day13_b_dildo_08977bc0:
+
+    # b "I am nearly there... S-s-so close!"
+    b "Już prawie... T- Tak blisko!"
+
+# game/day13.rpy:1038
+translate polish day13_b_dildo_e8f897bc:
+
+    # p "Yes, rub that little pussy for me, push your toy deeper inside your ass."
+    p "Tak, pocieraj dla mnie tą swoją ciasną cipkę, wepchnij swoją zabaweczkę głębiej."
+
+# game/day13.rpy:1045
+translate polish day13_b_dildo_94776294:
+
+    # b "Aaaaaah! Aaaah! Aaaaaaaaah!"
+    b "Aaaaaah! Aaaah! Aaaaaaaaah!"
+
+# game/day13.rpy:1046
+translate polish day13_b_dildo_8bbe1a03:
+
+    # "{i}As [b_name] gives herself over to her violent orgasm, you wank your dick even harder and soon feel ready to shoot a huge load."
+    "{i}Kiedy Bellę ogarnia potężny orgazm, zaczynasz sobie walić jeszcze szybciej. Czujesz, że zaraz się spuścisz."
+
+# game/day13.rpy:1054
+translate polish day13_b_dildo_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "Aaaaaaah!"
+
+# game/day13.rpy:1056
+translate polish day13_b_dildo_98a1ee37:
+
+    # "{i}You shoot multiple volleys of semen onto your sister's face."
+    "{i}Gęste strumienie spermy lądują na twarzy Twojej siostry."
+
+# game/day13.rpy:1058
+translate polish day13_b_dildo_74567aa1:
+
+    # "{i}You shoot multiple volleys of semen onto [b_name]'s face."
+    "{i}Wystrzeliwujesz wiele salw nasienia na twarz [b_name]."
+
+# game/day13.rpy:1060
+translate polish day13_b_dildo_76da4996:
+
+    # "{i}She is clearly too preoccupied with her own orgasm and appears to be unbothered by the sperm leaking into her gasping mouth."
+    "{i}Jest za bardzo skupiona na własnym orgazmie i zdaje się nie zauważać spermy skapującej jej do ust."
+
+# game/day13.rpy:1076
+translate polish day13_b_dildo_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "Aaaaaaah!"
+
+# game/day13.rpy:1078
+translate polish day13_b_dildo_ca8d266f:
+
+    # "{i}You shoot multiple volleys of semen onto your sister's chest."
+    "{i}Gęste strumienie spermy lądują na klatce Twojej siostry."
+
+# game/day13.rpy:1080
+translate polish day13_b_dildo_2f6cc792:
+
+    # "{i}You shoot multiple volleys of semen onto [b_name]'s chest."
+    "{i}Wystrzeliwujesz wiele salw nasienia na klatkę piersiową [b_name]."
+
+# game/day13.rpy:1082
+translate polish day13_b_dildo_b62f9265:
+
+    # "{i}She is clearly too preoccupied with her own orgasm and appears to be unbothered by the sperm that's covering her breasts."
+    "{i}Jest za bardzo skupiona na własnym orgazmie i zdaje się nie zauważać spermy pokrywającej jej biust."
+
+# game/day13.rpy:1096
+translate polish day13_b_dildo_48f77b5c:
+
+    # p "Damn, [b_name]. You sure know how give a guy a great time."
+    p "Cholera, Bella. Wiesz jak zapewnić facetowi rozrywkę."
+
+# game/day13.rpy:1099
+translate polish day13_b_dildo_eadca042:
+
+    # "{i}Your sister is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
+    "{i}Twoja siostra jest zbyt wyczerpana, żeby się odezwać. Gwałtowność jej orgazmu wypchnęła z niej dildo. Zdaje Ci się, że widzisz jak uśmiecha się kącikiem ust."
+
+# game/day13.rpy:1101
+translate polish day13_b_dildo_8dfab9e0:
+
+    # "{i}[b_name] is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
+    "{i}[b_name] jest zbyt wyczerpana, aby nawet z tobą rozmawiać Gwałtowność jej orgazmu wypchnęła dildo z jej tyłka Wydaje ci się, że widzisz mały uśmiech w kącikach jej ust."
+

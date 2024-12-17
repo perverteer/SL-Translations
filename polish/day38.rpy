@@ -236,7 +236,7 @@ translate polish day38_049b32b7:
 translate polish day38_ea22c4b4:
 
     # l "But my god, [p_name], we're so young..."
-    l ""
+    l "Ale mój Boże [p_name] jesteśmy tacy młodzi"
 
 # game/day38.rpy:80
 translate polish day38_4050beb1:
@@ -428,7 +428,7 @@ translate polish day38_7206f4d1:
 translate polish day38_0a544dba:
 
     # "{i}Your girlfriend doesn't reply and despite her worries falls asleep very quickly, you follow suit."
-    ""
+    "{i}Twoja dziewczyna nie odpowiada i mimo swoich obaw bardzo szybko zasypia, a ty idziesz w jej ślady."
 
 # game/day38.rpy:123
 translate polish day38_abcd6166:
@@ -1058,7 +1058,7 @@ translate polish day38_4535aaa3:
 translate polish day38_acb2339b:
 
     # "{i}After your girlfriend leaves the room, you sneak back to your room and get dressed."
-    ""
+    "{i}Po tym, jak twoja dziewczyna opuści pokój, wymykasz się z powrotem do swojego pokoju i ubierasz się."
 
 # game/day38.rpy:287
 translate polish day38_4955ac63:
@@ -1796,7 +1796,7 @@ translate polish day38_choices_e1d8e900:
 translate polish day38_choices_ea61a071:
 
     # "{i}[m_name] looks a little pained, as if she's just had some bad news."
-    ""
+    "{i}[m_name] wygląda na nieco zmartwioną, jakby właśnie otrzymała złe wieści."
 
 # game/day38.rpy:464
 translate polish day38_choices_534d0a0d:
@@ -1862,7 +1862,7 @@ translate polish day38_choices_23e6896d:
 translate polish day38_choices_1478586b:
 
     # "{i}Despite [r_name]'s protests, you begin your walk through the forest and your girlfriend seems to gradually enjoy the outdoors."
-    ""
+    "{i}Pomimo protestów [r_name] rozpoczynasz spacer po lesie, a twoja dziewczyna wydaje się stopniowo cieszyć przebywaniem na świeżym powietrzu."
 
 # game/day38.rpy:488
 translate polish day38_r_m_forest_conversation_c9467132:
@@ -1898,7 +1898,7 @@ translate polish day38_r_m_forest_conversation_e6bafc6f:
 translate polish day38_r_m_forest_conversation_8dad8bae:
 
     # r "I'm doing fine [m_name], don't worry."
-    r ""
+    r "Mam się dobrze [m_name], nie martw się"
 
 # game/day38.rpy:499
 translate polish day38_r_m_forest_conversation_0a1c9fe2:
@@ -2048,7 +2048,7 @@ translate polish day38_r_m_forest_conversation_9b7b7a80:
 translate polish day38_r_m_forest_conversation_1033a39a:
 
     # p "I've been meaning to ask you, but were you happy before the girls came to live with you?"
-    p ""
+    p "Chciałem cię zapytać, ale czy byłeś szczęśliwy, zanim dziewczynki zamieszkały z tobą?"
 
 # game/day38.rpy:535
 translate polish day38_r_m_forest_conversation_ad5f4c27:
@@ -2108,31 +2108,31 @@ translate polish day38_r_m_forest_conversation_e5055fa7:
 translate polish day38_r_m_forest_conversation_a50c23d3:
 
     # m "There were happy moments, but a lot of times it felt empty."
-    m ""
+    m "Były szczęśliwe chwile, ale wiele razy czułem się pusty"
 
 # game/day38.rpy:547
 translate polish day38_r_m_forest_conversation_16fa15ff:
 
     # m "When the girls came to live with me, I finally felt complete."
-    m ""
+    m "Kiedy dziewczynki zamieszkały ze mną, w końcu poczułam się kompletna"
 
 # game/day38.rpy:548
 translate polish day38_r_m_forest_conversation_0c03423f:
 
     # p "They were the children you never had?"
-    p ""
+    p "To były dzieci, których nigdy nie miałeś?"
 
 # game/day38.rpy:549
 translate polish day38_r_m_forest_conversation_cd02649f:
 
     # m "Yes, I guess you could say that."
-    m ""
+    m "Tak, można tak powiedzieć"
 
 # game/day38.rpy:550
 translate polish day38_r_m_forest_conversation_b5fbadd5:
 
     # r "That's kinda beautiful, [m_name]."
-    r ""
+    r "To trochę piękne [m_name]"
 
 # game/day38.rpy:551
 translate polish day38_r_m_forest_conversation_d473012c:
@@ -2246,25 +2246,25 @@ translate polish day38_r_m_forest_conversation_35f7052a:
 translate polish day38_r_m_forest_conversation_fcebb59d:
 
     # p "About the girls becoming your children?"
-    p ""
+    p "Czy dziewczynki staną się twoimi dziećmi?"
 
 # game/day38.rpy:580
 translate polish day38_r_m_forest_conversation_8cb62253_1:
 
     # m "Yes."
-    m ""
+    m "Tak."
 
 # game/day38.rpy:581
 translate polish day38_r_m_forest_conversation_aff0d1ea:
 
     # m "You know I really wanted children back in the day."
-    m ""
+    m "Wiesz, że kiedyś naprawdę chciałem mieć dzieci"
 
 # game/day38.rpy:582
 translate polish day38_r_m_forest_conversation_7346989f:
 
     # m "But I never found the right man."
-    m ""
+    m "Ale nigdy nie znalazłam odpowiedniego mężczyzny"
 
 # game/day38.rpy:587
 translate polish day38_r_m_forest_conversation_5a8056f8:
@@ -3224,7 +3224,7 @@ translate polish day38_evening_choices_5f96ce5e:
 translate polish day38_evening_choices_abc22a6d:
 
     # "{i}[r_name] violently disentangles from your embrace and throws a silver strip towards you."
-    ""
+    "{i}[r_name] gwałtownie wyplątuje się z twojego uścisku i rzuca w twoją stronę srebrny pasek."
 
 # game/day38.rpy:815
 translate polish day38_evening_choices_0fb061a9:
@@ -4149,7 +4149,7 @@ translate polish day38_discreet_ab8751dc:
 translate polish day38_discreet_c3832874:
 
     # "{i}While you hold her down, the older woman pushes the bulb's nozzle inside Adriana's pussy and squeezes."
-    ""
+    "{i}Podczas gdy ją przytrzymujesz, starsza kobieta wsuwa dyszę żarówki do cipki Adriany i ściska."
 
 # game/day38.rpy:1054
 translate polish day38_discreet_41eaf910:
@@ -4659,7 +4659,7 @@ translate polish day38_r_bj_3bc7caff:
 translate polish day38_r_bj_aac444a8:
 
     # "{i}You stop protesting as your girlfriend drops to her knees on the mossy ground and starts to undo the buttons of your jeans."
-    ""
+    "{i}Przestajesz protestować, gdy twoja dziewczyna upada na kolana na omszałej ziemi i zaczyna rozpinać guziki twoich dżinsów."
 
 # game/day38.rpy:1175
 translate polish day38_r_bj_b1334d14:
@@ -4701,7 +4701,7 @@ translate polish day38_r_bj_945011db:
 translate polish day38_r_bj_8b683c3d:
 
     # "{i}Any thought of getting caught is gone in an instant when your girlfriends's warm mouth wraps around the head of your cock."
-    ""
+    "{i}Wszelkie myśli o tym, że zostaniesz złapany, znikają w jednej chwili, gdy ciepłe usta twojej dziewczyny owijają się wokół głowy twojego kutasa."
 
 # game/day38.rpy:1186
 translate polish day38_r_bj_f92d8595:
@@ -4731,7 +4731,7 @@ translate polish day38_r_bj_f0e7c0bf:
 translate polish day38_r_bj_a6f36706:
 
     # "{i}Your girlfriend takes your cock even deeper inside her mouth, gagging and slurping noises mingling with the sound of the birds and the rustling trees."
-    ""
+    "{i}Twoja dziewczyna bierze twojego kutasa jeszcze głębiej do ust, krztusząc się i siorbiąc odgłosy mieszające się z dźwiękiem ptaków i szelestem drzew."
 
 # game/day38.rpy:1198
 translate polish day38_r_bj_23f94cf8:
@@ -4839,7 +4839,7 @@ translate polish day38_r_bj_55f7bb95:
 translate polish day38_r_bj_5194cf5d:
 
     # m "Certain things have come to light today and I can't speak about them just yet, but we'll have to deal with them."
-    m ""
+    m "Pewne rzeczy wyszły dziś na jaw i nie mogę jeszcze o nich mówić, ale będziemy musieli sobie z nimi poradzić."
 
 # game/day38.rpy:1221
 translate polish day38_r_bj_cb26bcf0:
@@ -4923,7 +4923,7 @@ translate polish day38_r_bj_33c3d6d9:
 translate polish day38_r_bj_4afa2db6:
 
     # "{i}Wearing a big smile on her face, your girl swallows the enormous load you've just deposited."
-    ""
+    "{i}Z wielkim uśmiechem na twarzy twoja dziewczyna połyka ogromny ładunek, który właśnie zdeponowałeś."
 
 # game/day38.rpy:1256
 translate polish day38_r_bj_492019ba:
@@ -4941,7 +4941,7 @@ translate polish day38_r_bj_4befdd66:
 translate polish day38_r_bj_3decddbc:
 
     # "{i}Your girl attempts to lick up most of the cum, but ends up dabbing her face with a handkerchief."
-    ""
+    "{i}Twoja dziewczyna próbuje zlizać większość spermy, ale kończy na wycieraniu twarzy chusteczką."
 
 # game/day38.rpy:1268
 translate polish day38_r_bj_edf1a9b5:
@@ -5975,235 +5975,233 @@ translate polish strings:
     old "Go further"
     new "Kontynuuj"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day38.rpy:85
+# game/day38.rpy:88
 translate polish day38_20e45dd6:
 
     # p "We'll try to make them understand anyway, and if they don't, there's nobody keeping us here."
-    p "I tak postaramy się, żeby zrozumieli, a jak nie, to nikt nas tu nie trzyma"
+    p "I tak postaramy się im to wytłumaczyć, a jeśli nie zrozumieją, nikt nas tu nie trzyma."
 
-# game/day38.rpy:106
+# game/day38.rpy:109
 translate polish day38_9868e836:
 
     # p "We'll go to sleep, and I'll go with you to the pharmacy."
-    p "Pójdziemy spać, a ja pójdę z tobą do apteki"
+    p "Prześpij się, rano pójdę z Tobą do apteki."
 
-# game/day38.rpy:118
+# game/day38.rpy:121
 translate polish day38_1a7286f6:
 
     # "{i}Your sister doesn't reply, and despite her worries, falls asleep very quickly, and you follow suit."
-    "{i}Twoja siostra nie odpowiada i mimo zmartwień zasypia bardzo szybko, a ty podążasz za nią"
+    "{i}Twoja siostra nie odpowiada i pomimo swoich zmartwień bardzo szybko zasypia, a ty idziesz w jej ślady."
 
-# game/day38.rpy:120
+# game/day38.rpy:123
 translate polish day38_2e40745b:
 
     # "{i}Your girlfriend doesn't reply, and despite her worries, falls asleep very quickly, and you follow suit."
-    "{i}Twoja dziewczyna nie odpowiada i mimo zmartwień bardzo szybko zasypia, a Ty podążasz za nią"
+    "{i}Twoja dziewczyna nie odpowiada i pomimo swoich zmartwień bardzo szybko zasypia, a ty idziesz w jej ślady."
 
-# game/day38.rpy:298
+# game/day38.rpy:304
 translate polish day38_9701bdcd:
 
     # m "I told her everything, and she didn't bat an eye."
-    m "Powiedziałem jej wszystko, a ona nie zmrużyła oka"
+    m "Powiedziałam jej wszystko i nie drgnęła jej nawet powieka."
 
-# game/day38.rpy:331
+# game/day38.rpy:339
 translate polish day38_b7002eba:
 
     # m "It isn't a thing, and you make me sound like an old woman!"
-    m "To nic takiego, a ty sprawiasz, że brzmię jak stara baba!."
+    m "To nie żadna postać, sprawiasz, że brzmię jak jakaś stara kobieta!"
 
-# game/day38.rpy:335
+# game/day38.rpy:343
 translate polish day38_eb165503:
 
     # p "But would you like to save me from staying indoors for the rest of the day?"
-    p "Ale czy chciałbyś mnie uchronić przed pozostaniem w domu przez resztę dnia?"
+    p "Ale, może chciałabyś mnie uratować przed siedzeniem w domu przez resztę dnia?"
 
-# game/day38.rpy:408
+# game/day38.rpy:422
 translate polish day38_choices_9ce72cf9:
 
     # "{i}After putting on your regular clothes, you head towards the lobby where [m_name] is already waiting."
-    "{i}Po założeniu zwykłych ubrań kierujesz się w stronę holu, gdzie czeka już [m_name]"
+    "{i}Po założeniu swoich zwykłych ubrań kierujesz się do holu, gdzie Susa już na Ciebie czeka."
 
-# game/day38.rpy:428
+# game/day38.rpy:444
 translate polish day38_choices_06737eda:
 
     # p "Ready to go, [r_name]?"
-    p "Ready to go [r_name]?"
+    p "Rachel, gotowa?"
 
-# game/day38.rpy:478
+# game/day38.rpy:498
 translate polish day38_choices_6358ed80:
 
     # "{i}Despite [r_name]'s protests, you begin your walk through the forest, and your sister seems to gradually enjoy the outdoors."
-    "{i}Mimo protestów [r_name] rozpoczynacie spacer po lesie, a siostra zdaje się stopniowo cieszyć z przebywania na świeżym powietrzu."
+    "{i}Pomimo protestów Rachel, zaczynacie spacer przez las, Twoja siostra stopniowo zaczyna się cieszyć przebywaniem na świeżym powietrzu."
 
-# game/day38.rpy:480
+# game/day38.rpy:500
 translate polish day38_choices_b223eec0:
 
     # "{i}Despite [r_name]'s protests, you begin your walk through the forest, and your girlfriend seems to gradually enjoy the outdoors."
-    "{i}Mimo protestów [r_name] rozpoczynasz spacer po lesie, a Twoja dziewczyna zdaje się stopniowo cieszyć z przebywania na świeżym powietrzu"
+    "{i}Pomimo protestów [r_name] rozpoczynasz spacer po lesie, a twoja dziewczyna wydaje się stopniowo cieszyć przebywaniem na świeżym powietrzu."
 
-# game/day38.rpy:495
+# game/day38.rpy:515
 translate polish day38_r_m_forest_conversation_00ef84d7:
 
     # r "I'm doing fine, mom, don't worry."
-    r "I'm doing fine mom don't worry"
+    r "Dobrze mi idzie mamo, nie martw się."
 
-# game/day38.rpy:497
+# game/day38.rpy:517
 translate polish day38_r_m_forest_conversation_efd07d3f:
 
     # r "I'm doing fine, [m_name], don't worry."
-    r "radzę sobie dobrze [m_name] nie martw się"
+    r "Mam się dobrze [m_name], nie martw się"
 
-# game/day38.rpy:567
+# game/day38.rpy:587
 translate polish day38_r_m_forest_conversation_8c354d3d:
 
     # "{i}[r_name] rushes off to find a suitable tree to hide behind, and you sit in silence with [m_name] for a while."
-    "{i}[r_name] spieszy się, by znaleźć odpowiednie drzewo, za którym można się schować, a ty przez chwilę siedzisz w milczeniu z [m_name]."
+    "{i}Rachel biegnie się schować za drzewami, a Ty siedzisz przez chwilę w ciszy z Susan."
 
-# game/day38.rpy:608
+# game/day38.rpy:628
 translate polish day38_r_m_forest_conversation_a130b35b:
 
     # p "I don't know about that, but I know that I love you, and that's enough for me."
-    p "Nie wiem tego, ale wiem, że Cię kocham i to mi wystarczy"
+    p "Tego nie wiem, ale wiem, że Cię kocham i to mi wystarcza."
 
-# game/day38.rpy:680
+# game/day38.rpy:707
 translate polish day38_r_m_forest_conversation_7d44291e:
 
     # p "{i}(That's a resounding 'no' if I ever heard one.)"
-    p "{i}(To jest rozbrzmiewające 'nie', jeśli kiedykolwiek słyszałem)"
+    p "{i}(To głośne 'nie', jeśli kiedykolwiek słyszałem)"
 
-# game/day38.rpy:750
+# game/day38.rpy:777
 translate polish day38_r_m_forest_conversation_1d202bd1:
 
     # "{i}[b_name] glances from the ring on her finger to you but says nothing. You do see a hint of respect for you in her eyes that wasn't there before."
-    "{i}[b_name] zerka z pierścionka na palcu na ciebie, ale nic nie mówi Widzisz w jej oczach nutkę szacunku dla ciebie, której wcześniej nie było"
+    "{i}Bella zerka z pierścionka na Ciebie, ale nic nie mówi, w jej oczach widzisz respekt, którego wcześniej tam nie było."
 
-# game/day38.rpy:752
+# game/day38.rpy:779
 translate polish day38_r_m_forest_conversation_8a54ff61:
 
     # p "Before, it must have seemed I was toying with you on a whim, but I can assure you that's not the case."
-    p "Wcześniej musiało się wydawać, że bawię się z Tobą dla kaprysu, ale zapewniam Cię, że tak nie jest"
+    p "Wcześniej musiało Ci się wydawać, że bawiłem się Tobą, działałem pod wpływem impulsu, ale zapewniam Cię, że to nieprawda."
 
-# game/day38.rpy:753
+# game/day38.rpy:780
 translate polish day38_r_m_forest_conversation_bc6d31cf:
 
     # p "I know your body in and out and regard it as my property, to do with as I please."
-    p "Znam twoje ciało w środku i na zewnątrz i uważam je za moją własność, z którą mogę zrobić, co mi się podoba"
+    p "Znam twoje ciało na wylot i uważam je za swoją własność, z którą mogę robić, co mi się podoba"
 
-# game/day38.rpy:759
+# game/day38.rpy:786
 translate polish day38_r_m_forest_conversation_4d73e85e:
 
     # p "Whenever it stops being enjoyable for one of us, we'll talk about it, like we're doing now."
-    p "Kiedy tylko przestanie to być przyjemne dla któregoś z nas, porozmawiamy o tym tak jak teraz"
+    p "Jeśli któremuś z nas przestanie się to podobać, to porozmawiamy o tym, tak jak robimy to teraz."
 
-# game/day38.rpy:764
+# game/day38.rpy:791
 translate polish day38_r_m_forest_conversation_2b754afb:
 
     # "{i}You don't say anything further, and [b_name] begins to shift a little uncomfortably after a while, clearly expecting something."
-    "{i}Nie mówisz nic więcej, a [b_name] po chwili zaczyna się nieco niewygodnie przesuwać wyraźnie czegoś oczekując"
+    "{i}Nie mówisz nic więcej, Bella po chwili zaczyna się wiercić nieswojo, wyraźnie czegoś oczekując."
 
-# game/day38.rpy:834
+# game/day38.rpy:862
 translate polish day38_evening_choices_0addb665:
 
     # p "I know it's soon, but we should embrace this, not turn this into something terrible."
-    p "Wiem, że to już niedługo, ale powinniśmy to ogarnąć, a nie zamienić w coś strasznego"
+    p "Wiem, że to wkrótce, ale powinniśmy to zaakceptować, a nie zamieniać w coś strasznego."
 
-# game/day38.rpy:862
+# game/day38.rpy:890
 translate polish day38_evening_choices_92eaa0c0:
 
     # p "We'll tell them when we're ready, and they'll just have to deal with it."
-    p "Powiemy im, kiedy będziemy gotowi, a oni po prostu będą musieli sobie z tym poradzić"
+    p "Powiemy im, kiedy będziemy gotowi, a to jak na to zareagują, to już ich sprawa."
 
-# game/day38.rpy:876
+# game/day38.rpy:904
 translate polish day38_evening_choices_0b061a92:
 
     # r "Thanks, [p_name], for being there for me."
-    r "Dzięki [p_name] za to, że jesteś przy mnie"
+    r "Dzięki [p_name], że jesteś przy mnie."
 
-# game/day38.rpy:929
+# game/day38.rpy:957
 translate polish day38_evening_choices_d9dc2cd1:
 
     # "{i}[r_name] nestles herself against you, and you both eventually fall asleep."
     "{i}[r_name] wtula się w ciebie i oboje w końcu zasypiacie."
 
-# game/day38.rpy:937
+# game/day38.rpy:966
 translate polish day38_evening_choices_5c94707d:
 
     # "{i}As you fall asleep, your mind wanders and settles once again on the image of Miley and Sabine..."
-    "{i}Zasypiając twój umysł wędruje i osiada po raz kolejny na obrazie Miley i Sabiny."
+    "{i}Kiedy zasypiasz, Twoje sny ponownie skupiają się na Miley i Sabine..."
 
-# game/day38.rpy:985
+# game/day38.rpy:1030
 translate polish day38_discreet_e49295ef:
 
     # "{i}As your cock leaves her mouth, a trail of saliva still connects it to her mouth, and she squats and lowers herself until the tip of your cock pushes against her moist entrance."
-    "{i}Jak twój kogut opuszcza jej usta, szlak śliny nadal łączy go z jej ustami, a ona kucnie i obniża się, aż czubek twojego koguta naciska na jej wilgotne wejście."
+    "{i}Gdy Twój kutas opuszcza jej usta, ciągnie się za nim strużka śliny, dziewczyna kuca nad Tobą i obniża się, aż czubek Twojego penisa naciska na jej wilgotną szparkę."
 
-# game/day38.rpy:1004
+# game/day38.rpy:1058
 translate polish day38_discreet_2008a234:
 
     # "{i}When Adriana lets your member slip out of her, she remains seated upon you and grins."
-    "{i}Kiedy Adriana pozwala twojemu członkowi wysunąć się z niej, pozostaje w pozycji siedzącej na tobie i szczerzy się."
+    "{i}Kiedy Adriana pozwala Twojemu fiutowi się z niej wysunąć, dalej na Tobie siedzi i uśmiecha się."
 
-# game/day38.rpy:1178
+# game/day38.rpy:1308
 translate polish day38_r_bj_40b41db1:
 
     # "{i}As the wind caresses the bare skin of your cock, [r_name] jerks it agonizingly slowly, licking the tip with her tongue while looking at you with a devilish smile."
-    "{i}Gdy wiatr pieści nagą skórę twojego kutasa [r_name] szarpie go agonalnie powoli liżąc czubek językiem, patrząc na ciebie z diabelskim uśmiechem"
+    "{i}Gdy wiatr pieści nagą skórę Twojego kutasa, Rachel masuje go powoli, liżąc koniuszek językiem, jednocześnie patrząc na Ciebie z figlarnym uśmiechem."
 
-# game/day38.rpy:1185
+# game/day38.rpy:1319
 translate polish day38_r_bj_5d678046:
 
     # "{i}Any thought of getting caught is gone in an instant when your girlfriend's warm mouth wraps around the head of your cock."
-    "{i}Wszelkie myśli o tym, że zostaniesz przyłapany, znikają w jednej chwili, gdy ciepłe usta twojej dziewczyny otulają główkę twojego kutasa."
+    "{i}Wszelkie myśli o tym, że zostaniesz złapany, znikają w jednej chwili, gdy ciepłe usta twojej dziewczyny owijają się wokół głowy twojego kutasa."
 
-# game/day38.rpy:1230
+# game/day38.rpy:1374
 translate polish day38_r_bj_56de4412:
 
     # "{i}You want to say more, but then [r_name] storms off, and you decide to go quietly as well, adding to [b_name]'s and [l_name]'s confusion."
-    "{i}Chcesz powiedzieć więcej, ale wtedy [r_name] burzy się i decydujesz się odejść po cichu również dodając do zamieszania [b_name] i [l_name]."
+    "{i}Chcesz powiedzieć coś więcej, ale Rachel odbiega i Ty również decydujesz się odejść po cichu, potęgując zamieszanie Belli i Lizy."
 
-# game/day38.rpy:1306
+# game/day38.rpy:1475
 translate polish day38_flashback_8736933c:
 
     # s "I had fun last weekend, and you?"
-    s "Ja się dobrze bawiłem w ostatni weekend, a ty?"
+    s "Dobrze się bawiłam w ostatni weekend, a Ty?"
 
-# game/day38.rpy:1372
+# game/day38.rpy:1544
 translate polish day38_flashback_995ac7ba:
 
     # mi "You know this game where someone has to guess something about the other person, and if you guess correctly, that person has to drink?"
-    mi "Znasz tę grę, w której ktoś musi zgadnąć coś o drugiej osobie i jeśli zgadniesz poprawnie, ta osoba musi się napić?."
+    mi "Znasz tę grę, w której ktoś musi odgadnąć coś o drugiej osobie i jeśli zgadnie, to ta osoba musi pić?"
 
-# game/day38.rpy:1415
+# game/day38.rpy:1589
 translate polish day38_flashback_d4d8a067:
 
     # mi "I've known you for so long, Sabine, and I never figured you for someone who'd like girls."
-    mi "Znam cię od tak dawna Sabina i nigdy nie wpadłem na to, że jesteś kimś, kto lubi dziewczyny."
+    mi "Znam Cię od tak dawna, Sabine, nigdy nie pomyślałabym sobie, że lubisz dziewczyny."
 
-# game/day38.rpy:1457
+# game/day38.rpy:1652
 translate polish day38_flashback_c3ddec26:
 
     # "{i}Sabine was so wet that it made for an easy entrance, and I began fucking her with some confidence."
-    "{i}Sabina była tak mokra, że ułatwiła mi wejście i zacząłem ją pieprzyć z pewną pewnością siebie"
+    "{i}Sabine była tak mokra, że ​​z łatwością się w nią wbiłem i zacząłem ją pieprzyć pewnymi ruchami."
 
-# game/day38.rpy:1475
+# game/day38.rpy:1674
 translate polish day38_flashback_35bf1499:
 
     # "{i}Sabine's creamy pussy started overflowing with her juices, and I knew she was right on the verge of climax."
-    "{i}Kremowa cipka Sabiny zaczęła przelewać się swoimi sokami i wiedziałam, że jest tuż na granicy kulminacji."
+    "{i}Ciasna cipka Sabine zaczęła przepełniać się jej sokami i wiedziałem, że była już na skraju orgazmu."
 
-# game/day38.rpy:1483
+# game/day38.rpy:1686
 translate polish day38_flashback_2269a559:
 
     # "{i}Sabine's orgasm triggered mine, and I stayed firmly rooted in her pussy, pumping her vagina full of cum."
-    "{i}Orgazm Sabiny wywołał mój i pozostałem mocno zakorzeniony w jej cipce pompując jej pochwę pełną cum."
+    "{i}Orgazm Sabine wyzwolił mój, wbiłem się głęboko w jej cipkę i zacząłem wpompowywać w nią swoje nasienie."
 
-# game/day38.rpy:1486
+# game/day38.rpy:1689
 translate polish day38_flashback_7358ff8e:
 
     # "{i}After I pulled out, her pussy was filled to the brim with warm cum, and Sabine collapsed in ecstasy on her friend's naked body."
-    "{i}Po moim wyciągnięciu jej cipka była wypełniona po brzegi ciepłym cumem, a Sabina zwaliła się w ekstazie na nagie ciało swojej przyjaciółki."
->>>>>>> polish
+    "{i}Kiedy wreszcie się z niej wysunąłem, jej cipka była po brzegi wypełniona ciepłą spermą, Sabine opadła w ekstazie na nagie ciało swojej przyjaciółki."
+

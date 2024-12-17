@@ -8,7 +8,7 @@ translate polish endings_ece07f62:
 translate polish endings_4776fafd:
 
     # "{i}You never would have dreamt that moving in with your friends would have such a positive impact on your life."
-    ""
+    "{i}Nigdy byś nie pomyślał, że przeprowadzka z przyjaciółmi będzie miała tak pozytywny wpływ na twoje życie."
 
 # game/endings.rpy:106
 translate polish endings_a8a9db22:
@@ -56,7 +56,7 @@ translate polish harem_endings_bed228c0:
 translate polish harem_endings_1585b599:
 
     # "{i}Going out for the first time and introducing your friends as your wives was a little nerve-wracking but turned out to be a very positive experience."
-    ""
+    "{i}Wyjście na miasto po raz pierwszy i przedstawienie swoich przyjaciół jako żon było trochę stresujące, ale okazało się bardzo pozytywnym doświadczeniem."
 
 # game/endings.rpy:145
 translate polish harem_endings_7769e35b:
@@ -98,7 +98,7 @@ translate polish harem_endings_1c14ccb8:
 translate polish harem_endings_3b7dc8cf:
 
     # "{i}Sharing your whole life together, you forged a bond that transcended the intimacy of friendship."
-    ""
+    "{i}Dzieląc ze sobą całe życie, stworzyliście więź, która wykraczała poza intymność przyjaźni."
 
 # game/endings.rpy:161
 translate polish harem_endings_9afa01bb:
@@ -128,19 +128,19 @@ translate polish harem_endings_7c4dfe39:
 translate polish harem_endings_e662cf2c:
 
     # "{i}The children were as much raised by their parents as by your other wives who lovingly doted upon them."
-    ""
+    "{i}Dzieci były wychowywane zarówno przez rodziców, jak i przez inne żony, które z miłością się nimi opiekowały."
 
 # game/endings.rpy:182
 translate polish harem_endings_ee5ae9b5:
 
     # "{i}They eventually learned of the peculiar relationship, which they accepted without question."
-    ""
+    "{i}W końcu dowiedzieli się o szczególnej relacji, którą zaakceptowali bez pytania"
 
 # game/endings.rpy:183
 translate polish harem_endings_aeb1b3ec:
 
     # "{i}They experienced the same warm welcome as you did when you finally returned home after being away for so long, many months ago."
-    ""
+    "{i}Doświadczyli takiego samego ciepłego powitania, jak ty, kiedy w końcu wróciłeś do domu po tak długiej nieobecności wiele miesięcy temu."
 
 # game/endings.rpy:185
 translate polish harem_endings_abeff129:
@@ -158,7 +158,7 @@ translate polish ir_endings_0cddb8ed:
 translate polish ir_endings_e787bb1e:
 
     # "{i}Iris never voiced any concerns about the very special relationship you had with your friends."
-    ""
+    "{i}Iris nigdy nie wyraziła żadnych obaw dotyczących wyjątkowej relacji, jaką miałeś ze swoimi przyjaciółmi."
 
 # game/endings.rpy:198
 translate polish ir_endings_2486afd0:
@@ -176,7 +176,7 @@ translate polish ir_endings_60725fd9:
 translate polish ir_endings_e67bc73e:
 
     # "{i}Careful not to neglect her personally, Iris became a more confident woman and was accepted warmly into your circle of friends."
-    ""
+    "{i}Starając się nie zaniedbywać jej osobiście, Iris stała się bardziej pewną siebie kobietą i została ciepło przyjęta do kręgu twoich przyjaciół."
 
 # game/endings.rpy:204
 translate polish ir_endings_d7359864:
@@ -230,7 +230,7 @@ translate polish ir_endings_074a29d9:
 translate polish ir_endings_501994d9:
 
     # "{i}One topic made her wistful at times and that was the pregnancy of your friends."
-    ""
+    "{i}Jeden temat sprawiał, że czasami tęskniła, a była to ciąża twoich przyjaciół."
 
 # game/endings.rpy:218
 translate polish ir_endings_39cf2bee:
@@ -548,7 +548,7 @@ translate polish m_endings_f41c432b:
 translate polish m_endings_b55aa272:
 
     # "{i}Apart from being the eldest woman in the group, she became the center of your harem, the foundation on which everybody could rely unquestioningly."
-    ""
+    "{i}Oprócz tego, że była najstarszą kobietą w grupie, stała się centrum twojego haremu, fundamentem, na którym wszyscy mogli polegać bez zastrzeżeń."
 
 # game/endings.rpy:327
 translate polish m_endings_b313ffd9:
@@ -638,7 +638,7 @@ translate polish m_endings_217f75c4:
 translate polish m_endings_9ca5081a:
 
     # "{i}Relocating to Belugio changed [m_name], she seemed to flow more easily through life."
-    ""
+    "{i}Przeprowadzka do Belugio zmieniła [m_name], wydawała się łatwiej płynąć przez życie."
 
 # game/endings.rpy:366
 translate polish m_endings_662958ab_1:
@@ -668,7 +668,7 @@ translate polish m_endings_422936e2:
 translate polish m_endings_58280765:
 
     # "{i}[m_name] continued living in your old home for quite some time."
-    ""
+    "{i}[m_name] nadal mieszkał w swoim starym domu przez dłuższy czas."
 
 # game/endings.rpy:378
 translate polish m_endings_0dae02db:
@@ -710,7 +710,7 @@ translate polish m_endings_f991415c:
 translate polish m_endings_ca3f9c78:
 
     # "{i}You continued living with [m_name] for quite some time, until it was time to find a place of your own."
-    ""
+    "{i}Mieszkałeś z [m_name] przez dłuższy czas, aż nadszedł czas na znalezienie własnego mieszkania."
 
 # game/endings.rpy:395
 translate polish m_endings_06a29d1d:
@@ -842,7 +842,7 @@ translate polish l_endings_d5841d3a:
 translate polish l_endings_0a4d66cd:
 
     # "{i}In a very rare display of impulsiveness, [l_name] followed Justin abroad where he was stationed for missionary work."
-    ""
+    "{i}W bardzo rzadkim przejawie impulsywności [l_name] podążył za Justinem za granicę, gdzie stacjonował do pracy misyjnej."
 
 # game/endings.rpy:452
 translate polish l_endings_a5f6430e:
@@ -890,7 +890,7 @@ translate polish l_endings_cf282750:
 translate polish l_endings_6ac0f8f2:
 
     # "{i}After months of secret adultery, the church selected him for missionary work abroad, he didn't hesitate and left, taking [l_name] with him and leaving his poor wife behind."
-    ""
+    "{i}Po miesiącach potajemnego cudzołóstwa kościół wybrał go do pracy misyjnej za granicą, nie wahał się i wyjechał, zabierając ze sobą [l_name] i zostawiając swoją biedną żonę."
 
 # game/endings.rpy:471
 translate polish l_endings_2589734a:
@@ -1286,7 +1286,7 @@ translate polish r_endings_524a58f4:
 translate polish r_endings_25f7533a:
 
     # "{i}Always the more open-minded of your friends, she ultimately accepted the unconventional union you enjoyed."
-    ""
+    "{i}Zawsze bardziej otwarta z twoich przyjaciół, ostatecznie zaakceptowała twój niekonwencjonalny związek."
 
 # game/endings.rpy:635
 translate polish r_endings_a311ee51_1:
@@ -1328,7 +1328,7 @@ translate polish r_endings_378275e0:
 translate polish r_endings_524a58f4_1:
 
     # "{i}[r_name] visited Belugio almost yearly, in order to be close to her friends."
-    ""
+    "{i}Rachel odwiedzała Belugio prawie co roku, aby być blisko swoich przyjaciół."
 
 # game/endings.rpy:655
 translate polish ad_endings_2db9fd2e:
@@ -1412,7 +1412,7 @@ translate polish ad_endings_2b29feba:
 translate polish ad_endings_0107c427:
 
     # "{i}Her baby girl became a part of your circle of friends, her naughty antics delighting you all."
-    ""
+    "{i}Jej córeczka stała się częścią twojego kręgu przyjaciół, a jej niegrzeczne wybryki zachwyciły was wszystkich."
 
 # game/endings.rpy:682
 translate polish ad_endings_1b96620e:
@@ -1466,7 +1466,7 @@ translate polish ad_endings_2b29feba_1:
 translate polish ad_endings_0107c427_1:
 
     # "{i}Her baby girl became a part of your circle of friends, her naughty antics delighting you all."
-    ""
+    "{i}Jej córeczka stała się częścią twojego kręgu przyjaciół, a jej niegrzeczne wybryki zachwyciły was wszystkich."
 
 # game/endings.rpy:699
 translate polish ad_endings_b422aeb6:
@@ -1916,7 +1916,7 @@ translate polish rb_endings_d7c86d6d:
 translate polish rb_endings_b3484815:
 
     # "{i}Rebeca became a part of your group of intimate friends."
-    ""
+    "{i}Rebeca stała się częścią twojej grupy bliskich przyjaciół"
 
 # game/endings.rpy:881
 translate polish rb_endings_47da64f1:
@@ -1976,7 +1976,7 @@ translate polish rb_endings_4accb98c:
 translate polish rb_endings_f21d0e24:
 
     # "{i}Through [r_name], Rebeca became very much a part of your group of intimate friends."
-    ""
+    "{i}Dzięki [r_name] Rebeca stała się bardzo częścią twojej grupy bliskich przyjaciół."
 
 # game/endings.rpy:901
 translate polish rb_endings_47da64f1_1:
@@ -2096,7 +2096,7 @@ translate polish n_endings_ba0575c1:
 translate polish n_endings_5632ab54:
 
     # "{i}The children grew up happily with Rebeca's child and the children of your other friends."
-    ""
+    "{i}Dzieci dorastały szczęśliwie z dzieckiem Rebecy i dziećmi innych twoich przyjaciół."
 
 # game/endings.rpy:944
 translate polish n_endings_b65b5f34:
@@ -2150,7 +2150,7 @@ translate polish n_endings_cb2b292c:
 translate polish n_endings_f2cf1d6e:
 
     # "{i}The children grew up happily together with the children of your other friends."
-    ""
+    "{i}Dzieci dorastały szczęśliwie razem z dziećmi innych przyjaciół."
 
 # game/endings.rpy:961
 translate polish n_endings_e85b359e:
@@ -2342,7 +2342,7 @@ translate polish me_endings_0fd49948:
 translate polish me_endings_60652910:
 
     # "{i}And so you all welcomed another baby into you midst and Megan chose to stay with you on the island."
-    ""
+    "{i}I tak wszyscy powitaliście kolejne dziecko pośród was, a Megan zdecydowała się zostać z wami na wyspie."
 
 # game/endings.rpy:1029
 translate polish me_endings_5b086b1a:
@@ -3008,7 +3008,7 @@ translate polish misc_endings_87021868:
 translate polish misc_endings_6ac0f8f2:
 
     # "{i}After months of secret adultery, the church selected him for missionary work abroad, he didn't hesitate and left, taking [l_name] with him and leaving his poor wife behind."
-    ""
+    "{i}Po miesiącach potajemnego cudzołóstwa kościół wybrał go do pracy misyjnej za granicą, nie wahał się i wyjechał, zabierając ze sobą [l_name] i zostawiając swoją biedną żonę."
 
 # game/endings.rpy:1238
 translate polish misc_endings_a5f6430e_1:
@@ -3050,13 +3050,13 @@ translate polish misc_endings_73ff8738:
 translate polish misc_endings_1df96c15:
 
     # "{i}While you thoroughly enjoyed your stay with your friends, your love life really didn't take off."
-    ""
+    "{i}Chociaż bardzo podobał ci się pobyt z przyjaciółmi, twoje życie miłosne nie nabrało rozpędu."
 
 # game/endings.rpy:1254
 translate polish misc_endings_c7cb93ba:
 
     # "{i}One by one, your friends left the house, fell in love and created their own families."
-    ""
+    "{i}Jeden po drugim twoi przyjaciele opuszczali dom, zakochiwali się i zakładali własne rodziny."
 
 # game/endings.rpy:1255
 translate polish misc_endings_73ff8738_1:
@@ -3220,5 +3220,187 @@ translate polish me_endings_e5867046:
 translate polish me_endings_7c23b74f:
 
     # "{i}And so you all welcomed another baby girl into you midst and Megan chose to stay with you on the island."
-    ""
+    "{i}I tak wszyscy powitaliście kolejną dziewczynkę pośród was, a Megan zdecydowała się zostać z wami na wyspie."
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/endings.rpy:114
+translate polish endings_32abaa28:
+
+    # "{i}Their support and profound love turned your life around completely."
+    "{i}Ich wsparcie i głęboka miłość całkowicie odmieniły twoje życie."
+
+# game/endings.rpy:116
+translate polish endings_7ba6be47:
+
+    # "{i}That decision brought you true love and turned your life around completely."
+    "{i}Ta decyzja przyniosła ci prawdziwą miłość i całkowicie odmieniła twoje życie."
+
+# game/endings.rpy:164
+translate polish harem_endings_7efcff01:
+
+    # "{i}Spending whole days in bed, just talking and having sex, were not an uncommon occurrence."
+    "{i}Spędzanie całych dni w łóżku, rozmawiając i uprawiając seks, nie było rzadkością."
+
+# game/endings.rpy:206
+translate polish ir_endings_3c53df0c:
+
+    # "{i}At times, she was even a willing participant in the orgies that became a staple of your household."
+    "{i}Czasami była nawet chętnym uczestnikiem orgii, które stały się podstawą waszego domu."
+
+# game/endings.rpy:465
+translate polish l_endings_558e45a5:
+
+    # "{i}[l_name] never visited Belugio, probably because she didn't want to remind herself of the life she led before becoming the pious wife of a preacher."
+    "{i}[l_name] nigdy nie odwiedziła Belugio, prawdopodobnie dlatego, że nie chciała przypominać sobie życia, które prowadziła, zanim została pobożną żoną kaznodziei."
+
+# game/endings.rpy:480
+translate polish l_endings_a5f6430e_1:
+
+    # "{i}Justin and [l_name] continued living together, eventually marrying and running an orphanage together."
+    "{i}Justin i Liza nadal mieszkali razem, a w końcu pobrali się i otworzyli wspólnie sierociniec."
+
+# game/endings.rpy:484
+translate polish l_endings_558e45a5_1:
+
+    # "{i}[l_name] never visited Belugio, probably because she didn't want to remind herself of the life she led before becoming the pious wife of a preacher."
+    "{i}[l_name] nigdy nie odwiedziła Belugio, prawdopodobnie dlatego, że nie chciała przypominać sobie życia, które prowadziła, zanim została pobożną żoną kaznodziei."
+
+# game/endings.rpy:1143
+translate polish ki_endings_712404b9:
+
+    # "{i}When you proposed to her, she didn't hesitate to say yes and you were married during an intimate ceremony soon after."
+    "{i}Kiedy jej się oświadczyłeś, bez wahania powiedziała "tak", a wkrótce potem wzięliście ślub podczas intymnej ceremonii."
+
+# game/endings.rpy:1183
+translate polish misc_endings_46b2c28b:
+
+    # "{i}After his release, he became a drifter and continued living his life in continued mediocrity."
+    "{i}Po zwolnieniu stał się włóczęgą i kontynuował swoje życie w ciągłej przeciętności."
+
+# game/endings.rpy:1190
+translate polish misc_endings_8d6c4612:
+
+    # "{i}After blowing up his marriage, Brody became a drifter and continued living his life in continued mediocrity."
+    "{i}Po rozwaleniu swojego małżeństwa Brody stał się włóczęgą i kontynuował swoje życie w ciągłej przeciętności."
+
+# game/endings.rpy:1193
+translate polish misc_endings_8d6c4612_1:
+
+    # "{i}After blowing up his marriage, Brody became a drifter and continued living his life in continued mediocrity."
+    "{i}Po rozwaleniu swojego małżeństwa Brody stał się włóczęgą i kontynuował swoje życie w ciągłej przeciętności."
+
+# game/endings.rpy:1201
+translate polish misc_endings_49391705:
+
+    # "{i}Other than that, the Presleys never made the headlines again."
+    "{i}Poza tym Presleyowie nigdy więcej nie trafili na pierwsze strony gazet."
+
+# game/endings.rpy:1259
+translate polish endings_er_ca_sex_6c510ca4:
+
+    # "{i}Anonymous sources on the web found out that two local Taskforce bigwigs had been in a relationship with each other."
+    "{i}Anonimowe źródła udostępniły w sieci informacje, że dwoje lokalnych ważniaków z Urzędu Ochrony Moralności i Przyzwoitości bylo ze sobą w związku."
+
+# game/endings.rpy:1260
+translate polish endings_er_ca_sex_a6789c05:
+
+    # "{i}Those bigwigs were Erica Steel and Carl Woodman."
+    "{i}A Ci ważniacy to Erica Steel i Carl Woodman."
+
+# game/endings.rpy:1261
+translate polish endings_er_ca_sex_4b4fd9a9:
+
+    # "{i}In a multi-episode exposé an anonymous author slowly picked apart their relationship, leaving much of the country in suspense about the conclusion of the story."
+    "{i}W wieloodcinkowym programie anonimowy autor powoli rozłożył ich związek na części pierwsze, pozostawiając większość kraju w niepewności co do zakończenia historii."
+
+# game/endings.rpy:1262
+translate polish endings_er_ca_sex_49d4378c:
+
+    # "{i}During their time at university, both Erica and Carl were a wild bunch, the author alleged, based on a mountain of evidence published alongside the stories."
+    "{i}Podczas ich studiów na uniwersytecie zarówno Erica, jak i Carl byli nie lada ziółkami, jak określił to autor, popierając swoją historię górą dowodów."
+
+# game/endings.rpy:1264
+translate polish endings_er_ca_sex_f87d9266:
+
+    # "{i}They were both arrested for drunk driving multiple times, vandalized dorm rooms in an alcohol-fueled lover's spat and there were rumors of orgies happening late at night during weekends."
+    "{i}Oboje byli aresztowani za wielokrotną jazdę pod wpływem alkoholu, dewastowanie akademików podczas ich pijackich kłótni kochanków i krążyły też pogłoski o orgiach odbywających się nocami w weekendy."
+
+# game/endings.rpy:1265
+translate polish endings_er_ca_sex_a0e1079c:
+
+    # "{i}The final episode of the exposé sealed the fate of pious Erica and Carl and of the whole Moral Uplift movement entirely."
+    "{i}Ostatni odcinek programu całkowicie przypieczętował los Eryki i Carla oraz całego ruchu Moralnej Odnowy."
+
+# game/endings.rpy:1266
+translate polish endings_er_ca_sex_b9337a73:
+
+    # "{i}The last message from the anonymous author contained a short snippet of text and a movie."
+    "{i}Ostatnia wiadomość od anonimowego autora zawierała krótki fragment tekstu i film."
+
+# game/endings.rpy:1272
+translate polish endings_er_ca_sex_ab836c37:
+
+    # "{i}The text was a listing of production details regarding a movie, the embedded media a lovingly remastered bootleg of that particular film."
+    "{i}Tekst zawierał listę szczegółów dotyczących produkcji filmu, którego nielegalna kopia, w zremasterowanej wersji, została dołączona do wiadomości."
+
+# game/endings.rpy:1273
+translate polish endings_er_ca_sex_f84eec51:
+
+    # "{i}'Hard as Steel', was its title."
+    "{i}'Twardy jak Stal', tak brzmiał jego tytuł."
+
+# game/endings.rpy:1274
+translate polish endings_er_ca_sex_2bc643ca:
+
+    # "{i}At the thirty-minute mark, two people appeared, who'd become Internet celebrities by then through the revealing reports."
+    "{i}Po trzydziestu minutach, pojawiały się na ekranie dwie osoby, które dzięki poprzednim programom stały się gwiazdami Internetu."
+
+# game/endings.rpy:1282
+translate polish endings_er_ca_sex_06a68640:
+
+    # "{i}Erica and Carl truly fucked their brains out on camera."
+    "{i}Erica i Carl naprawdę ruchali się jak króliki przed obiektywem kamery."
+
+# game/endings.rpy:1283
+translate polish endings_er_ca_sex_1009e6fe:
+
+    # "{i}Nothing about the boundless lust displayed by those two people reminded anyone about the self-righteous tenets of the Moral Uplift Movement."
+    "{i}Nic w bezgranicznej żądzy okazywanej przez tą dwójkę nie przypominało nikomu nic z obłudnych założeń ruchu Moralnej Odnowy."
+
+# game/endings.rpy:1285
+translate polish endings_er_ca_sex_1fe03eab:
+
+    # "{i}You all had a good laugh about Carl's heavy panting and grunting and Mrs. Steel's semen-covered body."
+    "{i}Wszyscy śmialiście się z ciężkiego dyszenia i chrząkania Carla oraz pokrytego nasieniem ciała pani Steel."
+
+# game/endings.rpy:1286
+translate polish endings_er_ca_sex_bce10e8d:
+
+    # "{i}That one pornographic movie started an avalanche of protests against the movement and undermined them terribly."
+    "{i}Ten jeden film pornograficzny wywołał lawinę protestów przeciwko ruchowi i strasznie go osłabił."
+
+# game/endings.rpy:1287
+translate polish endings_er_ca_sex_2262e35a:
+
+    # "{i}Denouncing Erica and Carl's youthful transgressions and throwing them out of the organization didn't have the same effect as before."
+    "{i}Potępienie młodzieńczych wyskoków Eriki i Carla oraz wyrzucenie ich z organizacji nie przyniosło takiego samego efektu co wcześniej."
+
+# game/endings.rpy:1288
+translate polish endings_er_ca_sex_e7cd3f58:
+
+    # "{i}The organization never recovered, slowly lost its grip on society and eventually faded away in oblivion."
+    "{i}Organizacja nigdy się z tego nie podniosła, powoli tracąc kontrolę nad społeczeństwem i ostatecznie odeszła w zapomnienie."
+
+# game/endings.rpy:1296
+translate polish endings_er_ca_sex_ec37b497:
+
+    # "{i}'Hard as Steel' wasn't forgotten and quickly spread on all the tube sites, watched by millions of people across the world."
+    "{i}'Twardy jak Stal' nie został jednak zapomniany i szybko rozprzestrzenił się w Internecie, oglądany przez miliony ludzi na całym świecie."
+
+# game/endings.rpy:1297
+translate polish endings_er_ca_sex_93f30e97:
+
+    # "{i}Despite becoming minor celebrities, Erica and Carl weren't very fond of the reveal and tried very hard to slink back out of the limelight, eventually succeeding."
+    "{i}Pomimo tego, że Erica i Carl stali się pomniejszymi celebrytami, nie przepadali za tym ujawnieniem i bardzo starali się zniknąć z centrum uwagi, co ostatecznie im się udało."
 

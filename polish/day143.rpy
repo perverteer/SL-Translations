@@ -62,7 +62,7 @@ translate polish day143_084140cb:
 translate polish day143_244e8c62:
 
     # er "Behind me, in this quaint suburban house lives a group of people, just ordinary people living their lives."
-    er ""
+    er "Za mną w tym uroczym domu na przedmieściach mieszka grupa ludzi, zwykłych ludzi żyjących swoim życiem."
 
 # game/day143.rpy:56
 translate polish day143_fd726283:
@@ -86,7 +86,7 @@ translate polish day143_48d7385d:
 translate polish day143_d8e76ece:
 
     # er "Let's see if they're home and confront them with their depravity."
-    er ""
+    er "Sprawdźmy, czy są w domu i skonfrontujmy ich z ich deprawacją."
 
 # game/day143.rpy:64
 translate polish day143_dd91212a:
@@ -152,7 +152,7 @@ translate polish day143_eaaf6e53:
 translate polish day143_b286b798:
 
     # man "Are you looking for the people that lived there?"
-    man ""
+    man "Szukasz ludzi, którzy tam mieszkali?"
 
 # game/day143.rpy:82
 translate polish day143_fbdb372c:
@@ -188,7 +188,7 @@ translate polish day143_39bbf1aa:
 translate polish day143_7bfaf44f:
 
     # er "We're looking for [p_name], the man who has been living with you for the past months."
-    er ""
+    er "Szukamy [p_name] mężczyzny, który mieszkał z tobą przez ostatnie miesiące."
 
 # game/day143.rpy:95
 translate polish day143_857c99ce:
@@ -248,7 +248,7 @@ translate polish day143_5bf2c235:
 translate polish day143_7bfaf44f_1:
 
     # er "We're looking for [p_name], the man who has been living with you for the past months."
-    er ""
+    er "Szukamy [p_name] mężczyzny, który mieszkał z tobą przez ostatnie miesiące."
 
 # game/day143.rpy:113
 translate polish day143_4fb40911:
@@ -326,7 +326,7 @@ translate polish day143_5bf2c235_1:
 translate polish day143_7bfaf44f_2:
 
     # er "We're looking for [p_name], the man who has been living with you for the past months."
-    er ""
+    er "Szukamy [p_name] mężczyzny, który mieszkał z tobą przez ostatnie miesiące."
 
 # game/day143.rpy:134
 translate polish day143_0f2f315a:
@@ -344,7 +344,7 @@ translate polish day143_fb836d75:
 translate polish day143_ed16e5d2:
 
     # er "We just want to talk to [p_name]."
-    er ""
+    er "Chcemy tylko porozmawiać z [p_name]"
 
 # game/day143.rpy:139
 translate polish day143_1e0b4203:
@@ -404,7 +404,7 @@ translate polish day143_5bf2c235_2:
 translate polish day143_7bfaf44f_3:
 
     # er "We're looking for [p_name], the man who has been living with you for the past months."
-    er ""
+    er "Szukamy [p_name] mężczyzny, który mieszkał z tobą przez ostatnie miesiące."
 
 # game/day143.rpy:157
 translate polish day143_71671b91:
@@ -2216,7 +2216,7 @@ translate polish day143_bb529415:
 translate polish day143_60460752:
 
     # p "Already thinking of booze, [b_name]?"
-    p ""
+    p "Myślisz już o alkoholu [b_name]?"
 
 # game/day143.rpy:835
 translate polish day143_ece2ae98:
@@ -2420,7 +2420,7 @@ translate polish day143_choices_2e4fa434:
 translate polish day143_choices_bfa83f08:
 
     # rb "Did you bring that pretty little girl of yours?"
-    rb ""
+    rb "Przyprowadziłeś tę swoją śliczną córeczkę?"
 
 # game/day143.rpy:969
 translate polish day143_choices_a3a6e37a:
@@ -2828,7 +2828,7 @@ translate polish day143_choices_d97f859f:
 translate polish day143_choices_b75d1f61:
 
     # rb "So it's not just your friends from before?"
-    rb ""
+    rb "Więc to nie tylko twoi znajomi z przeszłości?"
 
 # game/day143.rpy:1069
 translate polish day143_choices_50810729:
@@ -3074,7 +3074,7 @@ translate polish day143_choices_4d9abdcf:
 translate polish day143_choices_65348d18:
 
     # p "I've brought some of my friends."
-    p ""
+    p "Przyprowadziłem kilku moich przyjaciół"
 
 # game/day143.rpy:1141
 translate polish day143_choices_bf9863ff:
@@ -3086,7 +3086,7 @@ translate polish day143_choices_bf9863ff:
 translate polish day143_choices_65348d18_1:
 
     # p "I've brought some of my friends."
-    p ""
+    p "Przyprowadziłem kilku moich przyjaciół"
 
 # game/day143.rpy:1145
 translate polish day143_choices_a27449b7_1:
@@ -3122,7 +3122,7 @@ translate polish day143_choices_3e1e1827:
 translate polish day143_choices_02b90e45:
 
     # p "I've brought [m_name], my other friends stayed behind."
-    p ""
+    p "Przyprowadziłem [m_name], moi pozostali przyjaciele zostali z tyłu"
 
 # game/day143.rpy:1159
 translate polish day143_choices_99e0ab88:
@@ -3134,7 +3134,7 @@ translate polish day143_choices_99e0ab88:
 translate polish day143_choices_ecb2479f:
 
     # p "I've brought one friend, the others stayed behind."
-    p ""
+    p "Przyprowadziłem jednego przyjaciela, reszta została z tyłu"
 
 # game/day143.rpy:1163
 translate polish day143_choices_a27449b7_2:
@@ -3182,19 +3182,19 @@ translate polish day143_choices_45db723f:
 translate polish day143_choices_506f800a:
 
     # p "I've brought two woman, the others stayed behind."
-    p ""
+    p "Przyprowadziłem dwie kobiety, reszta została z tyłu"
 
 # game/day143.rpy:1181
 translate polish day143_choices_f401fadd:
 
     # p "I've brought a woman, the others stayed behind."
-    p ""
+    p "Przyprowadziłem kobietę, reszta została z tyłu"
 
 # game/day143.rpy:1183
 translate polish day143_choices_a26053f3:
 
     # p "I've brought a girl, the others stayed behind."
-    p ""
+    p "Przyprowadziłem dziewczynę, reszta została z tyłu"
 
 # game/day143.rpy:1184
 translate polish day143_choices_79b06b96_4:
@@ -3554,7 +3554,7 @@ translate polish day143_choices_f7c812e6:
 translate polish day143_choices_6624a6ed:
 
     # "{i}The apartment is empty, save for [l_name] who's taking a nap, so you go outside to find [m_name]."
-    ""
+    "{i}Mieszkanie jest puste, z wyjątkiem [l_name], który ucina sobie drzemkę, więc wychodzisz na zewnątrz, by znaleźć [m_name]."
 
 # game/day143.rpy:1273
 translate polish day143_choices_f7c1cdd1:
@@ -5432,7 +5432,7 @@ translate polish day143_flashback_3ba92e66:
 translate polish day143_flashback_61dddcb5:
 
     # "{i}When I agreed to come live with [m_name], we said goodbye to each other."
-    ""
+    "{i}Kiedy zgodziłem się zamieszkać z [m_name], pożegnaliśmy się ze sobą."
 
 # game/day143.rpy:1756
 translate polish day143_flashback_cc3a0767:
@@ -6321,4 +6321,114 @@ translate polish strings:
     # game/day143.rpy:40
     old "Camera man"
     new "Kamerzysta"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day143.rpy:181
+translate polish day143_9a6f2ade:
+
+    # "{i}The whole morning is a flurry of activity, packing suitcases is a lot of work and you wait patiently while everyone's finished."
+    "{i}Cały poranek jest pełen aktywności, pakowanie walizek to dużo pracy, a ty cierpliwie czekasz, aż wszyscy skończą."
+
+# game/day143.rpy:425
+translate polish day143_8634c58f:
+
+    # m "I've been thinking of how to sell off the assets that have remained back home."
+    m "Myślałem o tym, jak sprzedać aktywa, które pozostały w domu"
+
+# game/day143.rpy:556
+translate polish day143_59802cea:
+
+    # ri "When I'm on the beach I'd prefer to wear absolutely nothing."
+    ri "Kiedy jestem na plaży, wolałbym nie nosić absolutnie nic"
+
+# game/day143.rpy:1112
+translate polish day143_choices_bcf4f71d:
+
+    # rb "Most of them aren't occupied year round anyway. Besides you have been such a good friend to us."
+    rb "Większość z nich i tak nie jest zajęta przez cały rok, poza tym byłeś dla nas tak dobrym przyjacielem."
+
+# game/day143.rpy:1159
+translate polish day143_choices_dacf0882:
+
+    # p "And two other women."
+    p "I dwie inne kobiety"
+
+# game/day143.rpy:1177
+translate polish day143_choices_dacf0882_1:
+
+    # p "And two other women."
+    p "I dwie inne kobiety"
+
+# game/day143.rpy:1195
+translate polish day143_choices_dacf0882_2:
+
+    # p "And two other women."
+    p "I dwie inne kobiety"
+
+# game/day143.rpy:1204
+translate polish day143_choices_1ee4b0ff:
+
+    # p "I've brought two women, my family stayed behind."
+    p "Przyprowadziłem dwie kobiety, moja rodzina została z tyłu"
+
+# game/day143.rpy:1211
+translate polish day143_choices_b35dcbf0:
+
+    # p "I've brought two women, the others stayed behind."
+    p "Przyprowadziłem dwie kobiety, reszta została z tyłu"
+
+# game/day143.rpy:1230
+translate polish day143_choices_7d6e46c4:
+
+    # n "And is it yours?"
+    n "A czy to twoje?"
+
+# game/day143.rpy:1309
+translate polish day143_choices_e2e190f7:
+
+    # "{i}The apartment is empty, so you go outside to find [m_name]."
+    "{i}Mieszkanie jest puste, więc wychodzisz na zewnątrz, aby znaleźć [m_name]."
+
+# game/day143.rpy:1455
+translate polish day143_choices_a87c8979_1:
+
+    # ir "Like I've shed the last remnants of my old life."
+    ir "Jakbym zostawiła za sobą resztki mojego starego życia."
+
+# game/day143.rpy:1783
+translate polish day143_flashback_69f7f051:
+
+    # "{i}When you fall asleep, the dream returns, but your mind seems to have skipped all the sexy bits."
+    "{i}Kiedy zasypiasz, sen powraca, ale wydaje się, że twój umysł pominął wszystkie seksowne fragmenty."
+
+# game/day143.rpy:1832
+translate polish day143_rb_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Czy chcesz włączyć sporty wodne w tej scenie?."
+
+# game/day143.rpy:1836
+translate polish day143_rb_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Możliwość uprawiania sportów wodnych"
+
+# game/day143.rpy:1839
+translate polish day143_rb_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sporty wodne wyłączone"
+
+# game/day143.rpy:2050
+translate polish day143_n_sex_a9a926df:
+
+    # "{i}Without speaking, you grab Selena by the waist and give her the same treatment."
+    "{i}Nie odzywając się, chwyć Selenę za talię i potraktuj ją tak samo."
+
+translate polish strings:
+
+    # game/day143.rpy:1997
+    old "Nia"
+    new "Nia"
 

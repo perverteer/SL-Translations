@@ -132,61 +132,61 @@ translate polish strings:
 translate polish start_8e69a012:
 
     # centered "{b}[config.name]{/b} is a story about trust and depravity. Based on your actions, your relationship with your dear friends will blossom. Choose your actions wisely, because if the people around don't trust you any longer the game will end."
-    centered ""
+    "{b}[configname]{/b} to opowieść o zaufaniu i zdeprawowaniu W oparciu o twoje działania twoje relacje z drogimi przyjaciółmi rozkwitną Wybierz swoje działania mądrze, ponieważ jeśli ludzie wokół przestaną ci ufać, gra się skończy."
 
 # game/script.rpy:176
 translate polish start_701b673e:
 
     # "This is the first day of your new life. Until recently you've lived alone with your father, your mother having died when you were very little."
-    ""
+    "To pierwszy dzień twojego nowego życia. Do niedawna mieszkałeś sam z ojcem, a twoja matka zmarła, gdy byłeś bardzo mały."
 
 # game/script.rpy:178
 translate polish start_6552ff99:
 
     # "You lived a normal, happy life. But now, everything has changed after your father's sudden death."
-    ""
+    "Prowadziłeś normalne, szczęśliwe życie, ale teraz wszystko się zmieniło po nagłej śmierci twojego ojca."
 
 # game/script.rpy:180
 translate polish start_5bcb2435:
 
     # "During your father's funeral you were approached by a woman you recognized as an old friend of the family."
-    ""
+    "Podczas pogrzebu twojego ojca podeszła do ciebie kobieta, którą rozpoznałeś jako starą przyjaciółkę rodziny."
 
 # game/script.rpy:182
 translate polish start_c59efc40:
 
     # "She asked if you would be willing to live with her just to get your bearings after the traumatic events of the past few weeks."
-    ""
+    "Zapytała, czy byłbyś skłonny z nią zamieszkać, aby odzyskać równowagę po traumatycznych wydarzeniach z ostatnich kilku tygodni."
 
 # game/script.rpy:184
 translate polish start_e4b5ccb4:
 
     # "A little hesitantly you said yes and after a long journey by train you have arrived at the house."
-    ""
+    "Trochę niepewnie powiedziałeś "tak" i po długiej podróży pociągiem dotarłeś do domu."
 
 # game/script.rpy:218
 translate polish game_over_m_a6278961:
 
     # centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [m_name] was appalled by your actions. \n \n You have overstepped your bounds and as a result\nyour friends don't trust you anymore.\n[m_name] has asked you to leave the house for good.\n\nThough she said you would stay in touch, you highly doubt\nanything will come of that."
-    centered ""
+    centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [m_name] była zbulwersowana twoimi działaniami \n \n Przekroczyłeś swoje granice i w rezultacie \nwoi przyjaciele już ci nie ufają \n[m_name] poprosiła cię o opuszczenie domu na dobre \n\chociaż powiedziała, że pozostaniesz w kontakcie, bardzo wątpisz, że cokolwiek z tego wyniknie."
 
 # game/script.rpy:240
 translate polish game_over_r_ed64f001:
 
     # centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [r_name] told [m_name] all about what happened... \n \n You have overstepped your bounds and as a result\nyour friends don't trust you anymore.\n[m_name] has asked you to leave the house for good.\n\nThough she said you would stay in touch, you highly doubt\nanything will come of that."
-    centered ""
+    centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [r_name] powiedział [m_name] wszystko o tym, co się stało \n \n Przekroczyłeś swoje granice i w rezultacie \n twoi przyjaciele już ci nie ufają \n[m_name] poprosiła cię o opuszczenie domu na dobre \n\chociaż powiedziała, że pozostaniesz w kontakcie, bardzo wątpisz, że cokolwiek z tego wyniknie."
 
 # game/script.rpy:262
 translate polish game_over_b_7009112c:
 
     # centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [b_name] told [m_name] all about what happened... \n \n You have overstepped your bounds and as a result\nyour friends don't trust you anymore.\n[m_name] has asked you to leave the house for good.\n\nThough she said you would stay in touch, you highly doubt\nanything will come of that."
-    centered ""
+    centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [b_name] powiedział [m_name] wszystko o tym, co się stało \n \n Przekroczyłeś swoje granice i w rezultacie \nTwoi przyjaciele już Ci nie ufają \n[m_name] poprosiła Cię o opuszczenie domu na dobre \n\chociaż powiedziała, że pozostaniecie w kontakcie, bardzo wątpisz, że cokolwiek z tego wyniknie."
 
 # game/script.rpy:284
 translate polish game_over_l_dd575126:
 
     # centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [l_name] told [m_name] all about what happened... \n \n You have overstepped your bounds and as a result\nyour friends don't trust you anymore.\n[m_name] has asked you to leave the house for good.\n\nThough she said you would stay in touch, you highly doubt\nanything will come of that."
-    centered ""
+    centered "{size=40}{b}GAME OVER{/b}{/size} \n \n [l_name] powiedział [m_name] wszystko o tym, co się stało \n \n Przekroczyłeś swoje granice i w rezultacie \nTwoi przyjaciele już Ci nie ufają \n[m_name] poprosiła Cię o opuszczenie domu na dobre \n\Chociaż powiedziała, że pozostaniecie w kontakcie, bardzo wątpisz, że cokolwiek z tego wyniknie."
 
 
 translate polish strings:
@@ -241,3 +241,40 @@ translate polish strings:
 
     old "Mrs. Steel"
     new "Erica Steel"
+
+# TODO: Translation updated at 2024-11-18 13:59
+
+translate polish strings:
+
+    # game/script.rpy:58
+    old "Max"
+    new "Max"
+
+    # game/script.rpy:62
+    old "Bella"
+    new "Bella"
+
+    # game/script.rpy:66
+    old "Liza"
+    new "Liza"
+
+    # game/script.rpy:70
+    old "Rachel"
+    new "Rachel"
+
+    # game/script.rpy:74
+    old "Susan"
+    new "Susan"
+
+    # game/script.rpy:586
+    old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
+    new "Naciśnij {i}\„Enter\”{/i} na klawiaturze ekranowej, aby potwierdzić"
+
+    # game/script.rpy:630
+    old "Pregnancies"
+    new "Ciąże"
+
+    # game/script.rpy:637
+    old "Who's pregnant in this scene?"
+    new "Kto jest w ciąży w tej scenie?"
+

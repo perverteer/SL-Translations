@@ -80,7 +80,7 @@ translate polish day19_a1e3d97f:
 translate polish day19_b6aeddf3:
 
     # p "We'd better get up before the other girls barge in here or misses us at breakfast."
-    p ""
+    p "Lepiej wstańmy, zanim inne dziewczyny wtargną tutaj lub przegapią nas przy śniadaniu."
 
 # game/day19.rpy:41
 translate polish day19_9955b520:
@@ -254,7 +254,7 @@ translate polish day19_choices_99fc47f6:
 translate polish day19_choices_cd90d604:
 
     # "{i}[m_name] frantically grabs at the bed sheets to cover something."
-    ""
+    "{i}[m_name] gorączkowo chwyta pościel, aby coś zakryć"
 
 # game/day19.rpy:95
 translate polish day19_choices_19442750:
@@ -512,7 +512,7 @@ translate polish day19_choices_920681f0:
 translate polish day19_choices_cd3c050e:
 
     # "{i}Without warning [m_name] sprints towards the toilet and pretty soon you hear her vomiting."
-    ""
+    "{i}Bez ostrzeżenia [m_name] biegnie w kierunku toalety i wkrótce słyszysz, jak wymiotuje."
 
 # game/day19.rpy:152
 translate polish day19_choices_1d380e78:
@@ -794,7 +794,7 @@ translate polish day19_choices_1d2da732:
 translate polish day19_choices_9d51546a:
 
     # n "[r_name] told us your friend got sick yesterday. Is everything okay?"
-    n ""
+    n "[r_name] powiedział nam, że twój przyjaciel wczoraj zachorował, czy wszystko w porządku?"
 
 # game/day19.rpy:228
 translate polish day19_choices_bc52c2e4:
@@ -854,7 +854,7 @@ translate polish day19_choices_20d94753:
 translate polish day19_choices_416c2c5d:
 
     # n "Well, we wanted to check up on your friend, but that's not the real reason we came by."
-    n ""
+    n "Cóż, chcieliśmy sprawdzić, co u twojego przyjaciela, ale to nie jest prawdziwy powód, dla którego przyszliśmy."
 
 # game/day19.rpy:247
 translate polish day19_choices_66b2e1e2:
@@ -1532,7 +1532,7 @@ translate polish day19_choices_e625a276:
 translate polish day19_choices_a200e8d1:
 
     # "{i}Mother and daughter embrace, their breasts pressing against each other. Nia kisses Rebeca's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
-    ""
+    "{i}Matka i córka obejmują swoje piersi, przyciskając się do siebie, Nia całuje twarz Rebecy i zlizuje małe kropelki spermy z kącików jej ust, zanim podzieli się długim ekstatycznym pocałunkiem."
 
 # game/day19.rpy:420
 translate polish day19_choices_26b4df67:
@@ -1628,7 +1628,7 @@ translate polish day19_choices_564f5ff5:
 translate polish day19_choices_72b75415:
 
     # rb "Well, if you or your friends need anything, a place to stay or a meal, just let us know and we'll be there for you."
-    rb ""
+    rb "Cóż, jeśli ty lub twoi przyjaciele potrzebujecie czegoś, miejsca na nocleg lub posiłku, po prostu dajcie nam znać, a my będziemy do waszej dyspozycji."
 
 # game/day19.rpy:445
 translate polish day19_choices_8e1ace74:
@@ -1682,7 +1682,7 @@ translate polish day19_choices_29f09fec:
 translate polish day19_choices_4aeaf09e:
 
     # l "He was pretty clear, Mrs. Smith..."
-    l ""
+    l "Wyraził się jasno, pani Smith"
 
 # game/day19.rpy:464
 translate polish day19_choices_90f20c76:
@@ -1724,7 +1724,7 @@ translate polish day19_choices_ffc267cc:
 translate polish day19_choices_e82f88b7:
 
     # l "You threw up again on our way to the doctor's office..."
-    l ""
+    l "Znowu zwymiotowałeś w drodze do gabinetu lekarskiego"
 
 # game/day19.rpy:473
 translate polish day19_choices_32688b17:
@@ -1778,7 +1778,7 @@ translate polish day19_choices_c2fcbaf3:
 translate polish day19_choices_a313877f:
 
     # m "I think I'll do that. Thank you for all the help."
-    m ""
+    m "Myślę, że tak zrobię Dziękuję za pomoc"
 
 # game/day19.rpy:485
 translate polish day19_choices_bc83e54b:
@@ -1904,7 +1904,7 @@ translate polish day19_choices_eb5ab9d8:
 translate polish day19_choices_9d046cc1:
 
     # r "Sleep well."
-    r ""
+    r "Śpij dobrze"
 
 # game/day19.rpy:514
 translate polish day19_choices_93d388c0:
@@ -2252,7 +2252,7 @@ translate polish day19_evening_choices_6b5b4db1:
 translate polish day19_evening_choices_3d3a8abd:
 
     # l "First I want you to know that you've been very sweet to me and that appreciate everything you've done. You're everything anyone could hope for in a friend."
-    l ""
+    l "Po pierwsze, chcę, żebyś wiedział, że byłeś dla mnie bardzo miły i doceniam wszystko, co zrobiłeś. Jesteś wszystkim, czego każdy może oczekiwać od przyjaciela."
 
 # game/day19.rpy:589
 translate polish day19_evening_choices_75343ec9:
@@ -2378,7 +2378,7 @@ translate polish day19_evening_choices_da9063d1:
 translate polish day19_evening_choices_7ef2e9bb:
 
     # p "Relax dear [l_name], I was just teasing you."
-    p ""
+    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem"
 
 # game/day19.rpy:616
 translate polish day19_evening_choices_a6f4fcc9:
@@ -2432,7 +2432,7 @@ translate polish day19_evening_choices_6b85ed89:
 translate polish day19_evening_choices_943be738:
 
     # p "You're my sweet friend. And I'd like to hang out and do the stuff that friends do and I will help you whenever you're in need."
-    p ""
+    p "Jesteś moim słodkim przyjacielem i chciałbym spędzać czas i robić rzeczy, które robią przyjaciele i pomogę ci, gdy będziesz w potrzebie."
 
 # game/day19.rpy:630
 translate polish day19_evening_choices_791032c8:
@@ -2510,7 +2510,7 @@ translate polish day19_evening_choices_da9063d1_1:
 translate polish day19_evening_choices_7ef2e9bb_1:
 
     # p "Relax dear [l_name], I was just teasing you."
-    p ""
+    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem"
 
 # game/day19.rpy:656
 translate polish day19_evening_choices_a6f4fcc9_1:
@@ -2558,7 +2558,7 @@ translate polish day19_evening_choices_86400143:
 translate polish day19_evening_choices_b6282656:
 
     # "{i}[l_name] strips down and you're struck by her beautiful, rounded proportions."
-    ""
+    "{i}[l_name] rozbiera się i uderzają cię jej piękne, zaokrąglone proporcje."
 
 # game/day19.rpy:668
 translate polish day19_evening_choices_3b819904:
@@ -2834,7 +2834,7 @@ translate polish day19_evening_choices_d811e62f:
 translate polish day19_evening_choices_416ae981:
 
     # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and she absentmindedly slides a finger inside herself, just like you taught her on the beach."
-    ""
+    "{i}Kiedy mówisz, [l_name] nieświadomie sięga po mokrą cipkę i bezmyślnie wsuwa w siebie palec, tak jak nauczyłeś ją na plaży."
 
 # game/day19.rpy:729
 translate polish day19_evening_choices_1ed91cb1:
@@ -2846,7 +2846,7 @@ translate polish day19_evening_choices_1ed91cb1:
 translate polish day19_evening_choices_601f8e0c:
 
     # "{i}While you're talking, [l_name]'s unconsciously reaches for the wet confines of her pussy again and she absentmindedly slides a finger inside herself."
-    ""
+    "{i}Podczas gdy ty mówisz, [l_name] nieświadomie ponownie sięga do mokrych granic swojej cipki i roztargnionym ruchem wsuwa w siebie palec."
 
 # game/day19.rpy:732
 translate polish day19_evening_choices_b300fb9c:
@@ -2924,7 +2924,7 @@ translate polish day19_evening_choices_4ada726c:
 translate polish day19_evening_choices_969fdab8:
 
     # "{i}[l_name] spasms wildly for a few minutes more, before she collapses with a sigh against you."
-    ""
+    "{i}[l_name] spazmuje dziko jeszcze przez kilka minut, zanim upadnie z westchnieniem na ciebie."
 
 # game/day19.rpy:751
 translate polish day19_evening_choices_4cf81e50:
@@ -3116,7 +3116,7 @@ translate polish day19_evening_choices_e13a6fb1:
 translate polish day19_evening_choices_5d309d40:
 
     # "{i}Encouraged by your words, the girl starts jerking your cock in measured movements."
-    ""
+    "{i}Zachęcona twoimi słowami dziewczyna zaczyna szarpać twojego kutasa miarowymi ruchami."
 
 # game/day19.rpy:787
 translate polish day19_evening_choices_ea69d216:
@@ -3242,7 +3242,7 @@ translate polish day19_evening_choices_b3efe616:
 translate polish day19_evening_choices_3043c321:
 
     # l "I love you too, [p_name], sleep well."
-    l ""
+    l "Ja też cię kocham [p_name] śpij dobrze"
 
 # game/day19.rpy:821
 translate polish day19_evening_choices_90d7de6a:
@@ -3278,7 +3278,7 @@ translate polish day19_evening_choices_f3860212:
 translate polish day19_evening_choices_8ace6b72:
 
     # p "Sorry [b_name], but what a stupid question. You're smoking hot!"
-    p ""
+    p "Przepraszam [b_name], ale co za głupie pytanie. Jesteś gorąca!"
 
 # game/day19.rpy:829
 translate polish day19_evening_choices_fe834299:
@@ -3362,7 +3362,7 @@ translate polish day19_evening_choices_11f81977:
 translate polish day19_evening_choices_33cf3f7f:
 
     # p "I'm running out of superlatives to describe you, [b_name]."
-    p ""
+    p "Kończą mi się superlatywy, by cię opisać [b_name]."
 
 # game/day19.rpy:850
 translate polish day19_evening_choices_c2d44fd8:
@@ -3392,7 +3392,7 @@ translate polish day19_evening_choices_2725c03d:
 translate polish day19_evening_choices_a2677bbf:
 
     # b "Now. Lose the underpants!"
-    b ""
+    b "A teraz zgub majtki!"
 
 # game/day19.rpy:861
 translate polish day19_evening_choices_45273f7e:
@@ -3416,7 +3416,7 @@ translate polish day19_evening_choices_91c1f020:
 translate polish day19_evening_choices_0b2919a3:
 
     # b "Damn, that's quite the apparatus, [p_name]."
-    b ""
+    b "Cholera, niezły aparat [p_name]."
 
 # game/day19.rpy:868
 translate polish day19_evening_choices_aac340b5:
@@ -3458,7 +3458,7 @@ translate polish day19_evening_choices_1d12eef8:
 translate polish day19_evening_choices_5f791157:
 
     # "{i}[b_name] hungrily reaches for your erect cock and starts to jerk you off."
-    ""
+    "{i}[b_name] głodnie sięga po twojego wyprostowanego kutasa i zaczyna cię walić."
 
 # game/day19.rpy:880
 translate polish day19_evening_choices_99dbaad2:
@@ -3524,7 +3524,7 @@ translate polish day19_evening_choices_1997aff2:
 translate polish day19_evening_choices_5aad0328:
 
     # "{i}[b_name] struggles beneath you and manages to slip from under you."
-    ""
+    "{i}[b_name] szamocze się pod tobą i udaje mu się spod ciebie wyślizgnąć."
 
 # game/day19.rpy:900
 translate polish day19_evening_choices_92c7d07e:
@@ -3662,7 +3662,7 @@ translate polish day19_evening_choices_a461bec6:
 translate polish day19_evening_choices_7f9b9a0a:
 
     # "{i}[b_name] doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
-    ""
+    "{i}[b_name] nie puszcza twojego kutasa, gdy wylewa strumienie ciepłego nasienia na pościel."
 
 # game/day19.rpy:933
 translate polish day19_evening_choices_30ebf1ec:
@@ -3734,13 +3734,13 @@ translate polish day19_evening_choices_c32b77cf:
 translate polish day19_evening_choices_eda5505f:
 
     # "{i}The insults you keep trading get more baroque as time progresses and you just can't get enough of [b_name]'s happy laughter."
-    ""
+    "{i}Obelgi, które wymieniasz, stają się coraz bardziej barokowe w miarę upływu czasu i po prostu nie możesz się nacieszyć radosnym śmiechem [b_name]."
 
 # game/day19.rpy:948
 translate polish day19_evening_choices_70c9f5b2:
 
     # "{i}After one last kiss, you hold your giggling lover tight and together you soon fall asleep."
-    ""
+    "{i}Po ostatnim pocałunku mocno przytulasz swojego chichoczącego kochanka i razem szybko zasypiacie."
 
 # game/day19.rpy:954
 translate polish day19_evening_choices_05930939:
@@ -3758,7 +3758,7 @@ translate polish day19_evening_choices_0d761158:
 translate polish day19_evening_choices_5c8d215b:
 
     # r "Hey there!"
-    r ""
+    r "Hej tam!"
 
 # game/day19.rpy:959
 translate polish day19_evening_choices_fab59c39:
@@ -4002,429 +4002,2051 @@ translate polish strings:
     old "Stop"
     new "Przestań"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
 # game/day19.rpy:29
 translate polish day19_dbc486c2:
 
     # b "I'm sure my hair is a mess, and my face looks like a train wreck after all the crying from last night."
-    b "Jestem pewna, że moje włosy są w nieładzie, a moja twarz wygląda jak wrak pociągu po całym płaczu z ostatniej nocy."
+    b "Jestem pewna, że mam rozczochrane włosy, a moja twarz przypomina buldoga po tym płakaniu ostatniej nocy."
 
 # game/day19.rpy:43
 translate polish day19_f8772bf0:
 
     # "{i}After getting up, you notice that [m_name] is still in her room. [l_name] and [r_name] are probably having breakfast."
-    "{i}Po wstaniu z łóżka zauważasz, że [m_name] nadal jest w swoim pokoju [l_name] i [r_name] prawdopodobnie jedzą śniadanie."
+    "{i}Po wstaniu zauważasz, że Susan dalej jest w swoim pokoju. Liza i Rachel prawdopodobnie jedzą śniadanie."
 
-# game/day19.rpy:141
+# game/day19.rpy:146
 translate polish day19_choices_a79acd26:
 
     # "{i}While you were talking, [m_name] has wolfed down the breakfast you've prepared. After she finishes the meal, she sits in silence for a while."
-    "{i}Podczas gdy rozmawialiście [m_name] wilkiem zjadło przygotowane przez ciebie śniadanie Po skończeniu posiłku siedzi przez chwilę w milczeniu"
+    "{i}Podczas waszej rozmowy, Susan wsuwa śniadanie, które jej przygotowałeś. Po skończeniu posiłku, siedzi w ciszy przez jakiś czas."
 
-# game/day19.rpy:149
+# game/day19.rpy:155
 translate polish day19_choices_c07b190d:
 
     # "{i}Without warning, your mother sprints towards the toilet. You hear her vomiting pretty soon after."
-    "{i}Bez ostrzeżenia twoja matka biegnie w stronę toalety. Wkrótce potem słyszysz jak wymiotuje."
+    "{i}Bez ostrzeżenia twoja matka biegnie w kierunku toalety. Wkrótce potem słyszysz, jak wymiotuje."
 
-# game/day19.rpy:151
+# game/day19.rpy:157
 translate polish day19_choices_6b945cb7:
 
     # "{i}Without warning, [m_name] sprints towards the toilet and pretty soon you hear her vomiting."
-    "{i}Bez ostrzeżenia [m_name] sprintuje w kierunku toalety i dość szybko słychać jej wymioty."
+    "{i}Bez ostrzeżenia [m_name] biegnie w kierunku toalety i wkrótce słyszysz, jak wymiotuje."
 
-# game/day19.rpy:154
+# game/day19.rpy:160
 translate polish day19_choices_6e073308:
 
     # "{i}After a while, a disheveled [m_name] returns and smiles at you weakly."
-    "{i}Po chwili wraca rozczochrany [m_name] i uśmiecha się do ciebie słabo"
+    "{i}Po chwili Susan wraca, uśmiecha się do Ciebie lekko, ale nie wygląda najlepiej."
 
-# game/day19.rpy:166
+# game/day19.rpy:173
 translate polish day19_choices_8a074a32:
 
     # p "Yes, I'm fine. I just went to see [m_name], and she's still not feeling well."
-    p "Tak, nic mi nie jest, właśnie poszedłem do [m_name] i ona nadal nie czuje się dobrze"
+    p "Tak, mi nic nie jest, ale właśnie wracam od mamy, ona nie czuje się zbyt dobrze."
 
-# game/day19.rpy:219
+# game/day19.rpy:231
 translate polish day19_choices_ad84b1ef:
 
     # "{i}After a while, you hear the girls leave to visit the doctor's office. You read a magazine and watch some television. Someone knocks on the door fifteen minutes later."
-    "{i}Po chwili słyszysz, że dziewczyny wychodzą na wizytę do lekarza Czytasz magazyn i oglądasz jakąś telewizję Ktoś puka do drzwi piętnaście minut później"
+    "{i}Po chwili słyszysz, jak dziewczyny wychodzą do gabinetu lekarskiego Czytasz czasopismo i oglądasz telewizję Ktoś puka do drzwi piętnaście minut później."
 
-# game/day19.rpy:261
-translate polish day19_choices_7bd1dddb:
-
-    # n "Rebeca and I had a conversation this morning, and since you've enjoyed me, we thought you may like the both of us as well."
-    n "Rebeca i ja rozmawialiśmy dziś rano i ponieważ spodobałem ci się, pomyśleliśmy, że możesz polubić nas oboje."
-
-# game/day19.rpy:267
-translate polish day19_choices_ab5427f6:
-
-    # "{i}As they step teasingly out of their underwear, they look at you with an animalistic longing that makes you hard in an instant."
-    "{i}Gdy wychodzą kusząco z bielizny, patrzą na ciebie ze zwierzęcą tęsknotą, która sprawia, że w jednej chwili stajesz się twardy."
-
-# game/day19.rpy:280
-translate polish day19_choices_860e0b65:
-
-    # "{i}Mother and daughter change position, and Nia positions her pussy right above Rebeca's head. You see the older woman's tongue dart out and lick her daughter's moist lips eagerly."
-    "{i}Matka i córka zmieniają pozycję i Nia pozycjonuje swoją cipkę tuż nad głową Rebeki Widzisz jak język starszej kobiety wysuwa się i ochoczo liże wilgotne wargi córki"
-
-# game/day19.rpy:281
-translate polish day19_choices_c1303112:
-
-    # "{i}As you're now naked yourself, you cannot help but stroke your cock at the sight of both girls enjoying each other."
-    "{i}Ponieważ jesteś teraz nagi sam nie może pomóc, ale głaszcze koguta na widok obu dziewczyn cieszących się sobą."
-
-# game/day19.rpy:284
-translate polish day19_choices_9db12743:
-
-    # "{i}Nia seems to understand what her mother wants, as she lifts her pussy from her mother's face and appears to push something out."
-    "{i}Nia wydaje się rozumieć, czego chce jej matka, ponieważ podnosi swoją cipkę z twarzy matki i wydaje się wypychać coś na zewnątrz."
-
-# game/day19.rpy:285
-translate polish day19_choices_b0b7c98f:
-
-    # "{i}You see her little asshole pulsate under the strain, and her mother's tongue is already there to give it the attention it deserves."
-    "{i}Widzisz, jak jej mała dupka pulsuje pod napięciem, a język matki już tam jest, by dać jej uwagę, na którą zasługuje."
-
-# game/day19.rpy:298
-translate polish day19_choices_e7569246:
-
-    # n "He's big, isn't he, mother?"
-    n "On jest duży, prawda matko?"
-
-# game/day19.rpy:313
-translate polish day19_choices_b5680b88:
-
-    # "{i}When you’re finished, Rebeca crawls to Rachel, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
-    "{i}Kiedy skończyłeś Rebeca czołga się do Rachel i dwóch akcji namiętny francuski pocałunek Rebeca włosy łaskotanie przeciwko kogut."
-
-# game/day19.rpy:339
-translate polish day19_choices_f1d18e2b:
-
-    # p "G-g-god! Keep going, Nia."
-    p "G-g-god! Keep going Nia"
-
-# game/day19.rpy:341
-translate polish day19_choices_f06dfd6d:
-
-    # rb "Don't drain him just yet, girl, I want to have a go as well."
-    rb "Nie osuszaj go jeszcze dziewczyno, ja też chcę spróbować"
-
-# game/day19.rpy:342
-translate polish day19_choices_5ad4a076:
-
-    # n "Aaaah! He's all yours, mom."
-    n "Aaaah! On jest cały twój mamo"
-
-# game/day19.rpy:344
-translate polish day19_choices_1f9fd43a:
-
-    # rb "Damn, Nia, you've made such a mess of that boy."
-    rb "Kurczę Nia zrobiłaś taki bałagan z tym chłopcem"
-
-# game/day19.rpy:348
-translate polish day19_choices_9c3545dc:
-
-    # "{i}The more experienced woman deep-throats you with ease. You feel her wet tongue underneath your shaft as the tip touches the back of her throat. Her head begins to move up and down, and you experience the most exquisite sensations."
-    "{i}Bardziej doświadczona kobieta robi ci głębokie gardło z łatwością Czujesz jej mokry język pod twoim wałem, jak czubek dotyka tyłu jej gardła Jej głowa zaczyna poruszać się w górę i w dół, a ty doświadczasz najbardziej wykwintnych wrażeń"
-
-# game/day19.rpy:354
-translate polish day19_choices_65bb8286:
-
-    # "{i}With much effort, you're able to stave off your orgasm."
-    "{i}Z dużym wysiłkiem jesteś w stanie powstrzymać swój orgazm"
-
-# game/day19.rpy:356
-translate polish day19_choices_28e233a5:
-
-    # p "Get on that bed, girls."
-    p "Wskakujcie na to łóżko dziewczyny"
-
-# game/day19.rpy:358
-translate polish day19_choices_e12d9c19:
-
-    # "{i}As soon as you all lie down, the girls cover you with kisses. Nia is on top of you, and you feel her wet cunny rub against your manhood. Rebeca's tongue soon joins the stimulation of your cock as she sucks and licks your balls."
-    "{i}Jak tylko wszyscy się położycie dziewczyny pokrywają was pocałunkami Nia jest na tobie i czujesz jak jej mokra cipa ociera się o twoją męskość Język Rebeki wkrótce dołącza do stymulacji twojego kutasa jak ssie i liże twoje jaja"
-
-# game/day19.rpy:367
-translate polish day19_choices_528f330b:
-
-    # "{i}Rebeca obliges at once, squatting and sliding down on your cock. Firmly grabbing her ass, you push her even further down."
-    "{i}Rebeca zobowiązuje od razu kucanie i przesuwanie się w dół na kogut Mocno chwytając jej tyłek popychasz ją jeszcze bardziej w dół."
-
-# game/day19.rpy:370
-translate polish day19_choices_068c7fa8:
-
-    # "{i}Her rhythmic fucking is fierce, and her large breasts bounce up and down. Her thick ass slaps against your thighs every time you fill her up with the length of your cock."
-    "{i}Jej rytmiczne pieprzenie jest zacięte, a jej duże piersi odbijają się w górę i w dół Jej gruby tyłek policzkuje o twoje uda za każdym razem, gdy wypełniasz ją długością swojego kutasa"
-
-# game/day19.rpy:377
-translate polish day19_choices_7617978b:
-
-    # "{i}The sight of such perversity is too much for you, and you spill your seed inside Rebeca's mouth."
-    "{i}Widok takiej perwersji to dla ciebie zbyt wiele i rozlewasz swoje nasienie wewnątrz ust Rebeki."
-
-# game/day19.rpy:381
-translate polish day19_choices_f72201b3:
-
-    # "{i}You keep pumping cum into Rebeca's mouth, and it starts leaking from the corners onto Nia's upright ass. The girl uses the sperm to rub her pussy and achieves a powerful orgasm in less than a minute."
-    "{i}Ciągle pompujesz cum w usta Rebeki i zaczyna ono wyciekać z rogów na wyprostowany tyłek Nii Dziewczyna wykorzystuje spermę do pocierania swojej cipki i osiąga potężny orgazm w mniej niż minutę"
-
-# game/day19.rpy:389
-translate polish day19_choices_f43e2993:
-
-    # "{i}Nia opens her legs invitingly and you thrust your cock inside of her tight pussy. She gasps, but her voice is muffled by her mother's cunt pressed against her face."
-    "{i}Nia otwiera swoje nogi zapraszająco i rzucić kogut wewnątrz jej ciasnej cipki Ona gasps, ale jej głos jest stłumiony przez cunt jej matki wciśnięty do jej twarzy"
-
-# game/day19.rpy:402
-translate polish day19_choices_58000e0a:
-
-    # "{i}The sound of such perversity is too much for you, and you spill your seed inside Nia's mouth."
-    "{i}Dźwięk takiej perwersji to dla ciebie zbyt wiele i rozlewasz swoje nasienie wewnątrz ust Nii."
-
-# game/day19.rpy:406
-translate polish day19_choices_01010bce:
-
-    # "{i}Cum keeps pumping inside Nia, and she gags a little but keeps everything inside of her mouth. Eventually, she proudly shows you your big load."
-    "{i}Cum utrzymuje pompowanie wewnątrz Nia i ona gags trochę, ale utrzymuje wszystko wewnątrz jej ust Ostatecznie ona dumnie pokazuje ci swój duży ładunek"
-
-# game/day19.rpy:456
+# game/day19.rpy:279
 translate polish day19_choices_39964c08:
 
     # "{i}During the time the girls are out to the doctor's office, you read a magazine and watch some television. After more than two hours, you notice that the girls have returned from their trip."
-    "{i}W czasie wyjścia dziewczynek do lekarza czytasz czasopismo i oglądasz trochę telewizji Po ponad dwóch godzinach zauważasz, że dziewczynki wróciły z wycieczki"
+    "{i}W czasie, w którym dziewczyny wyszły do lekarza, Ty czytasz gazetę i oglądasz telewizję. Po jakichś dwóch godzinach, zauważasz, że wracają."
 
-# game/day19.rpy:485
+# game/day19.rpy:309
 translate polish day19_choices_b20366d7:
 
     # "{i}After a bit of searching, you're able to book five last-minute tickets back home."
-    "{i}Po odrobinie poszukiwań jesteś w stanie zarezerwować pięć biletów last minute na powrót do domu"
+    "{i}Po krótkich poszukiwaniach udaje Ci się zarezerwować pięć biletów na ostatnią chwilę, na powrót do domu."
 
-# game/day19.rpy:497
+# game/day19.rpy:321
 translate polish day19_choices_86e2fd8a:
 
     # "{i}When evening falls, you're ready to go. The cab takes you back to the airport. [m_name] doesn't say much on the way, but the other girls already reminisce about the events of the past few days."
-    "{i}Gdy zapada wieczór jesteś gotowa do drogi Taksówka odwozi cię na lotnisko [m_name] po drodze niewiele mówi, ale inne dziewczyny już wspominają wydarzenia z ostatnich dni"
+    "{i}Gdy zapada wieczór, jesteście już gotowi do drogi. Taksówka zabiera was z powrotem na lotnisko. Susan nie mówi zbyt wiele po drodze, ale pozostałe dziewczyny już wspominają wydarzenia ostatnich kilku dni."
 
-# game/day19.rpy:498
+# game/day19.rpy:322
 translate polish day19_choices_1a0edc11:
 
     # "{i}After passing security and checking in, you have to wait for a while before the plane is ready to board. With only a small delay, the plane eventually takes off and you're on your way back home."
-    "{i}Po przejściu przez ochronę i odprawie musisz chwilę poczekać, aż samolot będzie gotowy do wejścia na pokład Z niewielkim tylko opóźnieniem samolot w końcu startuje i jesteś w drodze powrotnej do domu."
+    "{i}Po przejściu przez kontrolę i odebraniu swoich biletów, czekacie jakiś czas przed wejściem na pokład. Z małym opóźnieniem, samolot wreszcie odlatuje i zabiera was do domu."
 
-# game/day19.rpy:501
+# game/day19.rpy:326
 translate polish day19_choices_708c83a9:
 
     # "{i}[m_name] slept most of the way, and the rest of you passed the time watching the in-flight movies. Stepping off the plane, the cool evening air is a sharp contrast to the warmth of Belugio you felt when boarding."
-    "{i}[m_name] przespał większość drogi, a reszta minęła czas oglądając filmy pokładowe Wychodząc z samolotu chłodne wieczorne powietrze stanowi ostry kontrast z ciepłem Belugio, które poczułeś wchodząc na pokład"
+    "{i}Susan przespała większość lotu, reszta z was potraciła przytomność oglądając jakiś film. Gdy wychodzicie z samolotu, uderza was chłodny powiew wiatru, kontrastujący mocno z upałem Belugio, który czuliście wchodząc na pokład."
 
-# game/day19.rpy:502
+# game/day19.rpy:327
 translate polish day19_choices_2127c202:
 
     # "{i}The cab ride from the airport seems to take forever, but about two hours after disembarking, you arrive home again."
-    "{i}Przejazd taksówką z lotniska wydaje się trwać wiecznie, ale około dwóch godzin po zejściu z pokładu docierasz ponownie do domu"
+    "{i}Jazda taksówką z lotniska zdaje się zabierać wieki, ale po dwóch godzinach wreszcie jesteście w domu."
 
-# game/day19.rpy:514
+# game/day19.rpy:339
 translate polish day19_choices_c5e9c34e:
 
     # "{i}You all unpack your bags and eat a quick snack to complement the food you ate on the plane. Eventually, you all retire for the night."
-    "{i}Wszyscy rozpakowują swoje torby i jedzą szybką przekąskę, aby uzupełnić jedzenie, które zjadłeś w samolocie Ostatecznie wszyscy przechodzą na emeryturę na noc"
+    "{i}Wszyscy rozpakowujecie wasze torby i zjadacie coś na szybko, żeby uzupełnić posiłek, który zjedliście w samolocie. W końcu wszyscy zbieracie się do łóżek."
 
-# game/day19.rpy:586
+# game/day19.rpy:418
 translate polish day19_evening_choices_4f99ef1b:
 
     # l "First, I want you to know that you've been very sweet to me and that I appreciate everything you've done. You're everything a sister could hope for in a brother."
-    "Najpierw chcę, żebyś wiedział, że byłeś dla mnie bardzo słodki i że doceniam wszystko, co zrobiłeś Jesteś wszystkim, czego siostra może oczekiwać od brata"
+    l "Przede wszystkim, chcę żebyś wiedział, że byłeś dla mnie bardzo miły i naprawdę doceniam wszystko co dla mnie zrobiłeś. Jesteś najlepszym bratem o jakiego mogłaby prosić siostra."
 
-# game/day19.rpy:588
+# game/day19.rpy:420
 translate polish day19_evening_choices_86a5921f:
 
     # l "First, I want you to know that you've been very sweet to me and that appreciate everything you've done. You're everything anyone could hope for in a friend."
-    "Najpierw chcę, żebyś wiedziała, że byłaś dla mnie bardzo słodka i że doceniam wszystko, co zrobiłaś Jesteś wszystkim, na co każdy mógłby liczyć w przyjacielu."
+    l "Po pierwsze, chcę, żebyś wiedział, że byłeś dla mnie bardzo miły i doceniam wszystko, co zrobiłeś. Jesteś wszystkim, czego każdy może oczekiwać od przyjaciela."
 
-# game/day19.rpy:613
+# game/day19.rpy:445
 translate polish day19_evening_choices_d1f5e97f:
 
     # p "Relax, dear sis, I was just teasing you."
-    p "Spokojnie droga siostro ja tylko się z tobą droczyłem"
+    p "Spokojnie siostrzyczko, tylko się z Tobą drażnię."
 
-# game/day19.rpy:615
+# game/day19.rpy:447
 translate polish day19_evening_choices_83cf7ebc:
 
     # p "Relax, dear [l_name], I was just teasing you."
-    p "Spokojnie drogi [l_name] ja tylko się z tobą droczyłem"
+    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem"
 
-# game/day19.rpy:627
+# game/day19.rpy:459
 translate polish day19_evening_choices_d33d1f5c:
 
     # p "You're my sweet big sister. And I'd like to hang out and do the stuff that brothers and sisters do, and I will help you whenever you're in need."
-    p "Jesteś moją słodką starszą siostrą I chciałabym spędzać czas i robić rzeczy, które robią bracia i siostry i pomogę ci, gdy będziesz w potrzebie."
+    p "Jesteś moją ukochaną starszą siostrzyczką. Lubię spędzać z Tobą czas, jak brat z siostrą i zawsze będę gotowy Ci pomóc, kiedy będziesz tego potrzebować."
 
-# game/day19.rpy:629
+# game/day19.rpy:461
 translate polish day19_evening_choices_d7cf4c10:
 
     # p "You're my sweet friend. And I'd like to hang out and do the stuff that friends do, and I will help you whenever you're in need."
-    p "Jesteś moim słodkim przyjacielem I chciałbym spędzać czas i robić rzeczy, które robią przyjaciele i pomogę ci, gdy będziesz w potrzebie"
+    p "Jesteś moim słodkim przyjacielem i chciałbym spędzać czas i robić rzeczy, które robią przyjaciele i pomogę ci, gdy będziesz w potrzebie."
+
+# game/day19.rpy:480
+translate polish day19_evening_choices_8d474f4b_1:
+
+    # p "Who's going to hear us? We're in my room."
+    p "A kto nas usłyszy? Jesteśmy w moim pokoju."
+
+# game/day19.rpy:485
+translate polish day19_evening_choices_d1f5e97f_1:
+
+    # p "Relax, dear sis, I was just teasing you."
+    p "Spokojnie siostrzyczko, tylko się z Tobą drażnię."
+
+# game/day19.rpy:487
+translate polish day19_evening_choices_83cf7ebc_1:
+
+    # p "Relax, dear [l_name], I was just teasing you."
+    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem"
+
+# game/day19.rpy:509
+translate polish day19_evening_choices_08662332:
+
+    # p "Sorry, sis, but what a stupid question. You're smoking hot!"
+    p "Wybacz siostrzyczko, ale co za głupie pytanie. Jesteś niesamowicie seksowna!"
+
+# game/day19.rpy:511
+translate polish day19_evening_choices_12ee47fe:
+
+    # p "Sorry, [b_name], but what a stupid question. You're smoking hot!"
+    p "Przepraszam [b_name], ale co za głupie pytanie. Jesteś gorąca!"
+
+# game/day19.rpy:580
+translate polish day19_rb_n_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Czy chcesz włączyć sporty wodne w tej scenie?."
+
+# game/day19.rpy:584
+translate polish day19_rb_n_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Możliwość uprawiania sportów wodnych"
+
+# game/day19.rpy:587
+translate polish day19_rb_n_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sporty wodne wyłączone"
+
+# game/day19.rpy:592
+translate polish day19_rb_n_sex_d85a2907:
+
+    # rb "We wanted to give you a fitting farewell."
+    rb "Chciałyśmy Cię należycie pożegnać."
+
+# game/day19.rpy:593
+translate polish day19_rb_n_sex_b8eee1d3:
+
+    # n "The both of us."
+    n "We dwójkę."
+
+# game/day19.rpy:594
+translate polish day19_rb_n_sex_f9f54e69:
+
+    # p "{i}(I don't think they're talking about waving at me.)"
+    p "{i}(Raczej nie mówią o machaniu mi na pożegnanie.)"
+
+# game/day19.rpy:598
+translate polish day19_rb_n_sex_38924177:
+
+    # p "You've piqued my interest."
+    p "Brzmi interesująco."
+
+# game/day19.rpy:600
+translate polish day19_rb_n_sex_5804e6b6:
+
+    # rb "We had a good mother/daughter conversation this morning and it seems you've been enjoying multiple members of our little family."
+    rb "Odbyłyśmy dzisiaj rano małą pogawędkę i wygląda na to, że zabawiałeś się z wieloma członkami naszej rodziny."
+
+# game/day19.rpy:601
+translate polish day19_rb_n_sex_ad08e5ef:
+
+    # p "I skipped on Nino, sorry."
+    p "Pominąłem Nino, wybaczcie."
+
+# game/day19.rpy:602
+translate polish day19_rb_n_sex_be7f7928:
+
+    # n "Hahaha, I'm sure he'd be game if you asked him."
+    n "Hahaha, jestem pewna, że zgodziłby się gdybyś zapytał."
+
+# game/day19.rpy:603
+translate polish day19_rb_n_sex_2363d476:
+
+    # n "But you've enjoyed both of us separately, why not together this time?"
+    n "Ale zabawiałeś się z nami oddzielnie, może tym razem zrobimy to wspólnie?"
+
+# game/day19.rpy:605
+translate polish day19_rb_n_sex_7bd1dddb:
+
+    # n "Rebeca and I had a conversation this morning, and since you've enjoyed me, we thought you may like the both of us as well."
+    n "Rebeka i ja odbyłyśmy dziś rano małą pogawędkę i skoro zabawiłeś się już ze mną, to pomyślałyśmy, że może miałbyś też ochotę na nas obie."
+
+# game/day19.rpy:607
+translate polish day19_rb_n_sex_72efa59d:
+
+    # rb "We had a good mother/daughter conversation this morning and I'm not greedy, so I'd like to share you with Nia, if you want to."
+    rb "Odbyłyśmy dziś rano małą pogawędkę i jako, że nie jestem pazerna, to chciałbym podzielić się Tobą z Nią. Jeśli masz ochotę."
+
+# game/day19.rpy:608
+translate polish day19_rb_n_sex_d323426a:
+
+    # p "Keep going."
+    p "Kontynuuj."
+
+# game/day19.rpy:609
+translate polish day19_rb_n_sex_f802474b:
+
+    # "{i}While talking, both Rebeca and Nia have removed several pieces of clothing."
+    "{i}Podczas rozmowy, zarówno Rebeka jak i Nia, pozbywają się części ubrań."
+
+# game/day19.rpy:611
+translate polish day19_rb_n_sex_ab5427f6:
+
+    # "{i}As they step teasingly out of their underwear, they look at you with an animalistic longing that makes you hard in an instant."
+    "{i}Kiedy zdejmują już swoją bieliznę, patrzą na Ciebie ze zwierzęcym głodem w oczach, co sprawia, że natychmiast Ci staje."
+
+# game/day19.rpy:612
+translate polish day19_rb_n_sex_1972cba6:
+
+    # n "Mmm... I think that cock is ready to fuck us already, mother."
+    n "Mmm... Myślę, że jego kutas jest już gotowy, żeby nas wyruchać mamo."
+
+# game/day19.rpy:613
+translate polish day19_rb_n_sex_54c5abdd:
+
+    # rb "Not yet, dear. Let's give him a show first. And I'm dying for a kiss."
+    rb "Jeszcze nie kochana. Zróbmy mu mały pokaz. Bardzo chcę Cię teraz pocałować."
+
+# game/day19.rpy:616
+translate polish day19_rb_n_sex_3919c996:
+
+    # "{i}The girls embrace and kiss. It's a hungry kiss, far removed from anything remotely resembling platonic love."
+    "{i}Dziewczyny obejmują się i całują. To żarliwy pocałunek, nie mający nic wspólnego z platoniczną miłością."
+
+# game/day19.rpy:617
+translate polish day19_rb_n_sex_8ee566a0:
+
+    # "{i}Nia lustfully squeezes and kneads her mother's butt, while Rebeca caresses her daughter's firm young breasts."
+    "{i}Nia z zapałem ściska i ugniata tyłek swojej matki, podczas gdy Rebeka pieści jędrne cycuszki swojej córki."
+
+# game/day19.rpy:623
+translate polish day19_rb_n_sex_534413f3:
+
+    # "{i}Still kissing and moaning, the girls move to the bed and make themselves comfortable. Rebeca turns her attention to Nia's cunt."
+    "{i}Wciąż całując się i pojękując, dziewczyny przesuwają się w stronę łóżka i rozsiadają się. Rebeka odwraca swoją uwagę ku cipce swojej córki."
+
+# game/day19.rpy:624
+translate polish day19_rb_n_sex_bbc4abc7:
+
+    # rb "I'll make her ready for you, [p_name]."
+    rb "Przygotuję ją dla Ciebie [p_name]."
+
+# game/day19.rpy:625
+translate polish day19_rb_n_sex_f28c2150:
+
+    # "{i}You watch as Rebeca strokes Nia's pussy, which is already wet from all the excitement. A finger slips inside her daughter's slit and another soon follows. Nia thrashes against the headboard of the bed in ecstasy."
+    "{i}Obserwujesz jak Rebeka pociera jej cipkę, która już jest wilgotna z podniecenia. Wsuwa w nią palec i po chwili kolejny. Nia opiera się zagłówek łóżka w ekstazie."
+
+# game/day19.rpy:626
+translate polish day19_rb_n_sex_9c8eddbe:
+
+    # rb "I want to taste you Nia, get on top of me."
+    rb "Chcę Cię posmakować Nia, wejdź na mnie."
+
+# game/day19.rpy:632
+translate polish day19_rb_n_sex_860e0b65:
+
+    # "{i}Mother and daughter change position, and Nia positions her pussy right above Rebeca's head. You see the older woman's tongue dart out and lick her daughter's moist lips eagerly."
+    "{i}Matka i córka zmieniają pozycję, Nia ustawia się tuż nad twarzą Rebeki. Widzisz jak język starszej kobiety wyskakuje z jej ust i zaczyna łapczywie lizać wilgotne wargi jej córki."
+
+# game/day19.rpy:633
+translate polish day19_rb_n_sex_c1303112:
+
+    # "{i}As you're now naked yourself, you cannot help but stroke your cock at the sight of both girls enjoying each other."
+    "{i}Ty też jesteś już nagi i mimowolnie zaczynasz masować swojego penisa, obserwując zabawiające się ze sobą dziewczyny."
+
+# game/day19.rpy:636
+translate polish day19_rb_n_sex_01800b8b:
+
+    # rb "I want more of you, girl!"
+    rb "Ciągle mi Ciebie mało!"
+
+# game/day19.rpy:637
+translate polish day19_rb_n_sex_9db12743:
+
+    # "{i}Nia seems to understand what her mother wants, as she lifts her pussy from her mother's face and appears to push something out."
+    "{i}Nia wydaje się rozumieć, czego chce jej matka, gdy unosi swoją cipkę z twarzy matki i wydaje się, że coś wypycha."
+
+# game/day19.rpy:638
+translate polish day19_rb_n_sex_b0b7c98f:
+
+    # "{i}You see her little asshole pulsate under the strain, and her mother's tongue is already there to give it the attention it deserves."
+    "{i}Widzisz jak jej kakaowe oczko pulsuje pod napięciem i jej matka natychmiastowo sięga tam swoim językiem, aby zapewnić jej uwagę na którą zasługuje."
+
+# game/day19.rpy:639
+translate polish day19_rb_n_sex_7e3dc9db:
+
+    # n "Yes mom, right there... Ooooh right there!"
+    n "Tak mamo, właśnie tam... Ooooh właśnie tam!"
+
+# game/day19.rpy:644
+translate polish day19_rb_n_sex_f346eafd:
+
+    # "{i}With a sigh, Nia produces a big stream of warm piss which washes over her mother's body."
+    "{i}Z westchnieniem, Nia uwalnia z siebie wielki strumień ciepłego moczu, który obmywa ciało jej matki."
+
+# game/day19.rpy:645
+translate polish day19_rb_n_sex_b7eddced:
+
+    # n "Aaaah! Is that nice and warm enough for you?"
+    n "Aaaah! Jest wystarczająco ciepłe i przyjemne jak dla Ciebie?"
+
+# game/day19.rpy:647
+translate polish day19_rb_n_sex_864a9b92:
+
+    # rb "That's my beautiful little girl, making mommy all wet."
+    rb "Tak córeczko, mamusia robi się naprawdę mokra."
 
 # game/day19.rpy:648
-translate polish day19_evening_choices_80c23797:
+translate polish day19_rb_n_sex_4d0a87aa:
 
-    # p "Who's going to hear us, we're in my room?"
-    p "Kto nas usłyszy, że jesteśmy w moim pokoju?"
+    # "{i}That statement alone almost makes you spill your seed on the floor, but you keep it together."
+    "{i}Samo to zdanie sprawia, że masz ochotę spuścić się już w tym momencie, ale szybko bierzesz się w garść."
 
-# game/day19.rpy:664
-translate polish day19_evening_choices_5ee6c705:
+# game/day19.rpy:649
+translate polish day19_rb_n_sex_92bdd097:
 
-    # "{i}Your sister strips down, and you're struck by her beautiful, rounded proportions."
-    "{i}Twoja siostra rozbiera się i uderzają cię jej piękne, zaokrąglone proporcje."
+    # n "We're forgetting [p_name], mom."
+    n "Chyba o kimś zapominamy mamo."
+
+# game/day19.rpy:654
+translate polish day19_rb_n_sex_e3d5c3a9:
+
+    # rb "Right. I'm sure he's dying to give us something."
+    rb "Racja. Założę się, że [p_name] bardzo chce się czymś z nami podzielić."
+
+# game/day19.rpy:655
+translate polish day19_rb_n_sex_ff05f2fe:
+
+    # p "Come over here then."
+    p "No to chodźcie tutaj."
+
+# game/day19.rpy:657
+translate polish day19_rb_n_sex_9447d48a:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. Droplets of piss are pearling down Rebeca's body. There's a hunger in both their eyes."
+    "{i}Nia i Rebeka klękają przed Tobą i patrzą na Ciebie wzrokiem pełnym oczekiwania. Złote kropelki spływają po ciele Rebeki. W ich oczach widać ogromny głód."
+
+# game/day19.rpy:658
+translate polish day19_rb_n_sex_e7569246:
+
+    # n "He's big, isn't he, mother?"
+    n "Jest naprawdę duży, prawda mamo?"
+
+# game/day19.rpy:659
+translate polish day19_rb_n_sex_58473773:
+
+    # rb "He sure is."
+    rb "Prawda."
+
+# game/day19.rpy:661
+translate polish day19_rb_n_sex_b1c02cdf:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Ale obie już miałyśmy go w sobie, więc wiemy, że mieści się idealnie."
+
+# game/day19.rpy:663
+translate polish day19_rb_n_sex_146d7dcf:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Ale miałaś go już w sobie, więc wiemy, że zmieści się idealnie."
+
+# game/day19.rpy:665
+translate polish day19_rb_n_sex_5e88b4ac:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Ale miałam go już w sobie, więc wiemy, że zmieści się idealnie."
 
 # game/day19.rpy:666
-translate polish day19_evening_choices_b34edba4:
+translate polish day19_rb_n_sex_03378bfc:
+
+    # p "Open your mouths!"
+    p "Otwórzcie usta!"
+
+# game/day19.rpy:672
+translate polish day19_rb_n_sex_6722dac6:
+
+    # "{i}You direct a big stream of piss at Rebeca and soon her mouth is filled with your warm fluid. Most of it spills on her tits and washes down her body, but she swallows a portion as well, reveling in it."
+    "{i}Kierujesz ogromny strumień moczu w kierunku Rebeki i wkrótce jej usta wypełniają się Twoim ciepłym płynem. Większość rozlewa się na jej cycki i obmywa jej ciało, ale przełyka też sporą część, delektując się nią."
+
+# game/day19.rpy:674
+translate polish day19_rb_n_sex_8693c8b0:
+
+    # p "There's more. Nia!"
+    p "Jest tego więcej. Nia!"
+
+# game/day19.rpy:675
+translate polish day19_rb_n_sex_d698ca7e:
+
+    # "{i}Nia obediently opens her mouth and receives an equal share of piss. She clearly isn't as accustomed to it and gags at the taste, letting all of it spill on her naked body."
+    "{i}Nia posłusznie otwiera usta i otrzymuje identyczną porcję uryny. Jest do niej ewidentnie nieprzyzwyczajona, dławi się lekko czując jej smak i pozwala jej spłynąć na jej nagie ciało."
+
+# game/day19.rpy:678
+translate polish day19_rb_n_sex_e59bdeeb:
+
+    # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
+    "{i}Kiedy skończysz, Rebeca czołga się w kierunku Nii i oboje dzielą namiętny francuski pocałunek, włosy Rebecy łaskoczą twojego kutasa."
+
+# game/day19.rpy:686
+translate polish day19_rb_n_sex_a5ebe768:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. There's a hunger in both their eyes."
+    "{i}Nia i Rebeka klękają przed Tobą i patrzą na Ciebie wzrokiem pełnym oczekiwania. W ich oczach widać ogromny głód."
+
+# game/day19.rpy:687
+translate polish day19_rb_n_sex_e7569246_1:
+
+    # n "He's big, isn't he, mother?"
+    n "Jest naprawdę duży, prawda mamo?"
+
+# game/day19.rpy:688
+translate polish day19_rb_n_sex_58473773_1:
+
+    # rb "He sure is."
+    rb "Prawda."
+
+# game/day19.rpy:690
+translate polish day19_rb_n_sex_b1c02cdf_1:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Ale obie już miałyśmy go w sobie, więc wiemy, że mieści się idealnie."
+
+# game/day19.rpy:691
+translate polish day19_rb_n_sex_9a5a66e5:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "Jestem natomiast ciekawa, czy zmieścił się w Twoich ustach?"
+
+# game/day19.rpy:692
+translate polish day19_rb_n_sex_b98e718b:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Przecież znasz moje umiejętności mamo. Patrz, pokażę Ci."
+
+# game/day19.rpy:694
+translate polish day19_rb_n_sex_146d7dcf_1:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Ale miałaś go już w sobie, więc wiemy, że zmieści się idealnie."
+
+# game/day19.rpy:695
+translate polish day19_rb_n_sex_9a5a66e5_1:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "Jestem natomiast ciekawa, czy zmieścił się w Twoich ustach?"
+
+# game/day19.rpy:696
+translate polish day19_rb_n_sex_b98e718b_1:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Przecież znasz moje umiejętności mamo. Patrz, pokażę Ci."
+
+# game/day19.rpy:698
+translate polish day19_rb_n_sex_5e88b4ac_1:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Ale miałam go już w sobie, więc wiemy, że zmieści się idealnie."
+
+# game/day19.rpy:699
+translate polish day19_rb_n_sex_16bda06c:
+
+    # n "But will he fit in my mouth, you think?"
+    n "A jak myślisz, w moich ustach też się zmieści?"
+
+# game/day19.rpy:700
+translate polish day19_rb_n_sex_a531e11f:
+
+    # rb "There's only one way to find out."
+    rb "Jest tylko jeden sposób, żeby się przekonać."
+
+# game/day19.rpy:705
+translate polish day19_rb_n_sex_20b0171b:
+
+    # "{i}Nia wraps her fingers around your cock as her mother watches her intently. The younger girl wraps her lips around your shaft and swallows you inch by inch until you feel her lips touching your balls."
+    "{i}Nia oplata palcami Twojego penisa, jej matka obserwuje ją uważnie. Młodsza dziewczyna obejmuje ustami trzon Twojego penisa i połyka go centymetr po centymetrze, aż w końcu czujesz jak jej usta dotykają Twoich jąder."
+
+# game/day19.rpy:706
+translate polish day19_rb_n_sex_987caf1d:
+
+    # rb "That's my girl!"
+    rb "Moja zdolna córeczka!"
+
+# game/day19.rpy:707
+translate polish day19_rb_n_sex_16571544:
+
+    # "{i}Nia gags and dislodges your cock from her throat, trails of clear mucus cling to your penis and her lips as she gasps for air."
+    "{i}Nia dławi się lekko i wyciąga Twojego penisa ze swojego gardła, strużka waszych wydzielin zwisa z Twojego penisa i jej ust, dziewczyna łapie ciężko oddech."
+
+# game/day19.rpy:712
+translate polish day19_rb_n_sex_f1f063f5:
+
+    # "{i}She looks at you naughtily and immediately turns her attention to your cock again as she treats you to the most ferocious cocksucking you've ever experienced."
+    "{i}Patrzy na Ciebie z błyskiem w oku i natychmiast skupia uwagę ponownie na Twoim penisie, serwuje Ci najbardziej zawzięte obciąganie w Twoim życiu."
+
+# game/day19.rpy:713
+translate polish day19_rb_n_sex_3e76f38c:
+
+    # rb "How's my daughter treating you, [p_name]? Are you ready to cum? Fill her throat?"
+    rb "Jak zadowala Cię moja córeczka [p_name]? Jesteś gotowy dojść? Spuścić się w jej gardło?"
+
+# game/day19.rpy:714
+translate polish day19_rb_n_sex_f1d18e2b:
+
+    # p "G-g-god! Keep going, Nia."
+    p "B- Boże! Nie przestawaj Nia."
+
+# game/day19.rpy:715
+translate polish day19_rb_n_sex_eda25b79:
+
+    # "{i}Nia's teary eyes bore into you as she bounces her head on your throbbing cock."
+    "{i}Nia wbija w Ciebie wzrok, jej oczy zachodzą lekko łzami, ale nie przestaje skakać głową po Twoim fiucie."
+
+# game/day19.rpy:716
+translate polish day19_rb_n_sex_4e97e3b9:
+
+    # rb "Don't drain him just yet, girl. I want to have a go as well."
+    rb "Nie kończ jeszcze mała, ja też chcę go spróbować."
+
+# game/day19.rpy:718
+translate polish day19_rb_n_sex_5ad4a076:
+
+    # n "Aaaah! He's all yours, mom."
+    n "Aaaah! Jest Twój mamo."
+
+# game/day19.rpy:723
+translate polish day19_rb_n_sex_1f9fd43a:
+
+    # rb "Damn, Nia, you've made such a mess of that boy."
+    rb "Cholera Nia, całego go ufajdałaś."
+
+# game/day19.rpy:724
+translate polish day19_rb_n_sex_71c3cc43:
+
+    # n "Just lick him clean, mother."
+    n "Po prostu wyliż go do czysta mamo."
+
+# game/day19.rpy:725
+translate polish day19_rb_n_sex_162c8e04:
+
+    # "{i}Rebeca licks your shaft before lowering her mouth over it. Her tongue darts over your glans, sending shivers down your spine."
+    "{i}Rebeka wylizuje Cię i po chwili wsadza do ust. Jej język drażni nasadę Twojego żołędzia, co wysyła dreszcze wzdłuż Twojego kręgosłupa."
+
+# game/day19.rpy:727
+translate polish day19_rb_n_sex_9c3545dc:
+
+    # "{i}The more experienced woman deep-throats you with ease. You feel her wet tongue underneath your shaft as the tip touches the back of her throat. Her head begins to move up and down, and you experience the most exquisite sensations."
+    "{i}Bardziej doświadczona Rebeka połyka Twojego fiuta bez większych problemów, czujesz jej mokry język przy swoich jądrach kiedy czubkiem zderzasz się z tyłem jej gardła. Zaczyna ruszać głową w górę i w dół, Twoje doznania są naprawdę niesamowite."
+
+# game/day19.rpy:728
+translate polish day19_rb_n_sex_47a3e8ff:
+
+    # n "How does that feel, [p_name]? I know my mother is good at it, she taught me everything I know."
+    n "Jakie to uczucie [p_name]? Wiem, że moja matka jest w tym dobra, nauczyła mnie wszystkiego co wiem."
+
+# game/day19.rpy:729
+translate polish day19_rb_n_sex_c60c174b:
+
+    # p "F-f-fuck Rebeca I'm about to..."
+    p "K- Kurwa Rebeka, ja zaraz..."
+
+# game/day19.rpy:735
+translate polish day19_rb_n_sex_704e9be1:
+
+    # "{i}As soon as you utter those words Rebeca stops what she's doing and crawls to Nia. The two share a passionate french kiss, Rebeca's hair tickling against your cock."
+    "{i}Gdy tylko wychrypujesz te słowa, Rebeka przestaje i przysuwa się do swojej córki. Dziewczyny całują się namiętnie, włosy Rebeki łaskoczą Twojego penisa."
+
+# game/day19.rpy:736
+translate polish day19_rb_n_sex_2df4d380:
+
+    # rb "We're not done with you yet. Save that precious seed for later."
+    rb "Jeszcze z Tobą nie skończyłyśmy. Zachowaj to cenne nasienie na później."
+
+# game/day19.rpy:737
+translate polish day19_rb_n_sex_65bb8286:
+
+    # "{i}With much effort, you're able to stave off your orgasm."
+    "{i}Z wielkim wysiłkiem udaje Ci się powstrzymać przed wytryskiem."
+
+# game/day19.rpy:740
+translate polish day19_rb_n_sex_28e233a5:
+
+    # p "Get on that bed, girls."
+    p "Wejdźcie na łóżko dziewczynki."
+
+# game/day19.rpy:742
+translate polish day19_rb_n_sex_e12d9c19:
+
+    # "{i}As soon as you all lie down, the girls cover you with kisses. Nia is on top of you, and you feel her wet cunny rub against your manhood. Rebeca's tongue soon joins the stimulation of your cock as she sucks and licks your balls."
+    "{i}Gdy już wszyscy leżycie, dziewczyny obsypują Cię pocałunkami. Nia wchodzi na Ciebie i czujesz jak jej mokra cipka ociera się o Twoją męskość. Język Rebeki po chwili też przyłącza się do stymulowania Twojego penisa, zaczyna lizać i ssać Twoje jądra."
+
+# game/day19.rpy:744
+translate polish day19_rb_n_sex_97eefd25:
+
+    # "{i}Nia's kisses are so passionate that she bites your lips once or twice, but you don't care. Her juices leak on your lower abdomen, which her mother laps up eagerly, not forgetting your dick and especially the tip of your dick, which is by now completely covered in precum."
+    "{i}Pocałunki młodszej dziewczyny są bardzo namiętne, nawet raz czy dwa przygryza Twoją wargę, ale nie przeszkadza Ci to. Jej soki spływają na Twój brzuch, jej matka zlizuje je łapczywie, nie zapominając o Twoim fiucie i jego czubku, który jest już całkowicie pokryty Twoim śluzem."
+
+# game/day19.rpy:752
+translate polish day19_rb_n_sex_926c88da:
+
+    # p "Aaaah, stop what you're doing Rebeca, you're going to ride me instead."
+    p "Aaaah, przestań Rebeka, chcę, żebyś mnie dosiadła."
+
+# game/day19.rpy:754
+translate polish day19_rb_n_sex_528f330b:
+
+    # "{i}Rebeca obliges at once, squatting and sliding down on your cock. Firmly grabbing her ass, you push her even further down."
+    "{i}Rebeca zobowiązuje się natychmiast kucnąć i zsunąć się na twojego kutasa Mocno chwytając ją za tyłek, popychasz ją jeszcze bardziej w dół"
+
+# game/day19.rpy:755
+translate polish day19_rb_n_sex_da751dbf:
+
+    # rb "Fuck yes, [p_name], I'm going to fuck you so hard."
+    rb "O kurwa, tak [p_name], wyrucham Cię bez litości."
+
+# game/day19.rpy:761
+translate polish day19_rb_n_sex_068c7fa8:
+
+    # "{i}Her rhythmic fucking is fierce, and her large breasts bounce up and down. Her thick ass slaps against your thighs every time you fill her up with the length of your cock."
+    "{i}Jej rytmiczne podrygi są zaciekłe i jej wielkie cycki podskakują chaotycznie. Jej pokaźny tyłek odbija się od Twoich ud za każdym razem gdy wbijasz się w nią na całą długość."
+
+# game/day19.rpy:766
+translate polish day19_rb_n_sex_a1ba8f88:
+
+    # "{i}Rebeca is soon joined by her daughter, who's fingering herself and stimulating your balls with her mouth."
+    "{i}Wkrótce do Rebeki dołącza jej córka, robiąc sobie palcówkę i pieszcząc Twoje jądra swoimi ustami."
+
+# game/day19.rpy:767
+translate polish day19_rb_n_sex_0246082e:
+
+    # p "F-f-fuck!"
+    p "K- Kurwa!"
+
+# game/day19.rpy:768
+translate polish day19_rb_n_sex_025073a3:
+
+    # rb "I want all of it in my mouth, [p_name]. Please do that for me."
+    rb "Chcę wszystkiego w moich ustach [p_name]. Proszę, zrób to dla mnie."
+
+# game/day19.rpy:769
+translate polish day19_rb_n_sex_bed7a257:
+
+    # "{i}Rebeca pulls your rock-hard dick out of her wet gash and motions you to stand. Nia positions herself before you to give you a good view of her sex."
+    "{i}Rebeka wysuwa z siebie Twojego penisa i pokazuje Ci, żebyś wstał. Nia ustawia się przed Tobą, aby dać Ci dobry widok na swoją cipkę."
+
+# game/day19.rpy:775
+translate polish day19_rb_n_sex_132b3544:
+
+    # "{i}Nia offers her butt to her mother and Rebeca alternates between rimming her daughter's asshole and sucking your cock."
+    "{i}Nia oferuje swojej matce swój tyłeczek i Rebeka liże ją na zmianę ze ssaniem Twojego fiuta."
+
+# game/day19.rpy:776
+translate polish day19_rb_n_sex_7617978b:
+
+    # "{i}The sight of such perversity is too much for you, and you spill your seed inside Rebeca's mouth."
+    "{i}Ten widok to dla Ciebie już zbyt wiele i rozlewasz swoje nasienie w ustach Rebeki."
+
+# game/day19.rpy:785
+translate polish day19_rb_n_sex_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "Aaaaaah!"
+
+# game/day19.rpy:786
+translate polish day19_rb_n_sex_f72201b3:
+
+    # "{i}You keep pumping cum into Rebeca's mouth, and it starts leaking from the corners onto Nia's upright ass. The girl uses the sperm to rub her pussy and achieves a powerful orgasm in less than a minute."
+    "{i}Nie przestajesz wpompowywać spermy do jej ust, zaczyna kącikami skapywać na tyłek jej córki. Dziewczyna zaczyna wcierać spermę w swoją cipkę i po chwili przeżywa potężny orgazm."
+
+# game/day19.rpy:793
+translate polish day19_rb_n_sex_765ef004:
+
+    # "{i}Still kissing her with passion, you lift Nia from your torso and position yourself on top of her. Her mother turns her attention to her daughter's cunt."
+    "{i}Dalej całując ją namiętnie, unosisz Nię ze swojego torsu i pozycjonujesz się nad nią. Jej matka zwraca swoją uwagę ku cipce swojej córki."
+
+# game/day19.rpy:794
+translate polish day19_rb_n_sex_df9b68a6:
+
+    # p "I'm going to fuck you so hard, Nia."
+    p "Zerżnę Cię bez litości Nia."
+
+# game/day19.rpy:795
+translate polish day19_rb_n_sex_9eb5f2d7:
+
+    # n "Mmmmm."
+    n "Mmmmm."
+
+# game/day19.rpy:801
+translate polish day19_rb_n_sex_f43e2993:
+
+    # "{i}Nia opens her legs invitingly and you thrust your cock inside of her tight pussy. She gasps, but her voice is muffled by her mother's cunt pressed against her face."
+    "{i}Nia otwiera zapraszająco nogi, a ty wsuwasz swojego kutasa w jej ciasną cipkę. Sapie, ale jej głos jest stłumiony przez cipkę jej matki przyciśniętą do jej twarzy."
+
+# game/day19.rpy:802
+translate polish day19_rb_n_sex_0d350062:
+
+    # rb "Yes, lick me right there, honey."
+    rb "Tak, liż mnie ta kochanie."
+
+# game/day19.rpy:807
+translate polish day19_rb_n_sex_b7cbc948:
+
+    # "{i}You grab Nia tightly and fuck her hard, your balls slapping against her thighs."
+    "{i}Łapiesz mocno Nię i zaczynasz posuwać ją silnymi, zdecydowanymi ruchami, obijając się jądrami o jej uda."
+
+# game/day19.rpy:809
+translate polish day19_rb_n_sex_8b47a10a:
+
+    # n "Mmmmm. He's fucking me so hard, mother."
+    n "Mmmmm. Mamo, rucha mnie tak mocno..."
+
+# game/day19.rpy:810
+translate polish day19_rb_n_sex_8e8ffd0f:
+
+    # rb "Yes, is he going to make you cum?"
+    rb "Tak, dojdziesz na jego fiucie?"
+
+# game/day19.rpy:811
+translate polish day19_rb_n_sex_e0a9438d:
+
+    # n "Y-y-yessss!"
+    n "T- Taaaak!"
+
+# game/day19.rpy:812
+translate polish day19_rb_n_sex_246b0685:
+
+    # rb "Are you going to cover my daughter with your seed, [p_name]?"
+    rb "Pokryjesz moją córkę swoim nasieniem [p_name]?"
+
+# game/day19.rpy:813
+translate polish day19_rb_n_sex_4317c50e:
+
+    # p "F-fuck yes, I am."
+    p "K- Kurwa, tak."
+
+# game/day19.rpy:814
+translate polish day19_rb_n_sex_778a55dc:
+
+    # n "I want it in my mouth so badly, I want to swallow it all."
+    n "Skończ w moich ustach, tak bardzo chcę Cię skosztować."
+
+# game/day19.rpy:816
+translate polish day19_rb_n_sex_71dd9188:
+
+    # "{i}You pull your rock-hard dick from Nia's wet gash and stand beside the bed. Nia grabs your cock, while Rebeca squats beside you and strokes your perineum."
+    "{i}Wyciągasz swojego fiuta z jej mokrej cipki i stajesz koło łóżka. Nia łapie Twojego fiuta, podczas gdy Rebeka przysiada koło Ciebie i masuje Twoje jądra."
+
+# game/day19.rpy:817
+translate polish day19_rb_n_sex_a0ded363:
+
+    # rb "Come on, fill my daughter's mouth. She's ready for you."
+    rb "No dalej, wypełnij usta mojej córki swoją spermą, jest na Ciebie gotowa."
+
+# game/day19.rpy:818
+translate polish day19_rb_n_sex_58000e0a:
+
+    # "{i}The sound of such perversity is too much for you, and you spill your seed inside Nia's mouth."
+    "{i}Słysząc te słowa, już nie jesteś w stanie dłużej wytrzymać i rozlewasz swoje nasienie w jej ustach."
+
+# game/day19.rpy:826
+translate polish day19_rb_n_sex_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "Aaaaaah!"
+
+# game/day19.rpy:827
+translate polish day19_rb_n_sex_01010bce:
+
+    # "{i}Cum keeps pumping inside Nia, and she gags a little but keeps everything inside of her mouth. Eventually, she proudly shows you your big load."
+    "{i}Nie przestajesz wpompowywać spermy do jej wnętrza, Nia dławi się lekko, ale utrzymuje wszystko w swoich ustach. W końcu dumnie otwiera usta prezentując Ci wasze dzieło."
+
+# game/day19.rpy:828
+translate polish day19_rb_n_sex_db356f97:
+
+    # rb "Swallow it all, dear."
+    rb "Połknij wszystko kochanie."
+
+# game/day19.rpy:829
+translate polish day19_rb_n_sex_fe156cbd:
+
+    # "{i}Maintaining eye contact with you, Nia swallows every last drop of sperm inside of her mouth, licking her lips once the deed is done."
+    "{i}Nie przerywając kontaktu wzrokowego z Tobą, Nia przełyka wszystko do ostatniej kropelki, oblizując po wszystkim usta."
+
+# game/day19.rpy:839
+translate polish day19_rb_n_sex_a7260ebb:
+
+    # rb "Aren't you going to give mommy a kiss?"
+    rb "Nie pocałujesz swojej mamusi?"
+
+# game/day19.rpy:841
+translate polish day19_rb_n_sex_e625a276:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Rebeca kisses Nia's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Matka i córka splatają się w uścisku, ich piersi przyciśnięte do siebie. Rebeka całuje twarz swojej córki i zlizuje kropelki spermy z kącików jej ust, kończą na długim, intensywnym pocałunku."
+
+# game/day19.rpy:843
+translate polish day19_rb_n_sex_a200e8d1:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Nia kisses Rebeca's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Matka i córka obejmują swoje piersi, przyciskając się do siebie, Nia całuje twarz Rebecy i zlizuje małe kropelki spermy z kącików jej ust, zanim podzieli się długim ekstatycznym pocałunkiem."
+
+# game/day19.rpy:844
+translate polish day19_rb_n_sex_26b4df67:
+
+    # n "How is that for a farewell?"
+    n "I jak podoba Ci się takie pożegnanie?"
+
+# game/day19.rpy:845
+translate polish day19_rb_n_sex_78d1ef2a:
+
+    # p "Damn girls, you drained me. I'm not sure if I'll be able to cum for the next few days."
+    p "Cholera dziewczyny, jestem wykończony. Nie wiem, czy będę miał czym się spuszczać przez następne kilka dni."
+
+# game/day19.rpy:846
+translate polish day19_rb_n_sex_2beab29f:
+
+    # rb "A stud like you? I'm sure you will."
+    rb "Taki ogier jak Ty? Na pewno będziesz miał."
+
+# game/day19.rpy:847
+translate polish day19_rb_n_sex_bea929ea:
+
+    # rb "If you ever get back to Belugio, or if you all decide to stay a little longer, our door is always open."
+    rb "Jeśli kiedyś wrócisz na Belugio, albo zechcesz zostać tu na dłużej, nasze drzwi zawsze będą dla Ciebie otwarte."
+
+# game/day19.rpy:848
+translate polish day19_rb_n_sex_a7be7838:
+
+    # n "That's not the only thing that'll be open for you, [p_name]..."
+    n "I nie tylko nasze drzwi [p_name]..."
+
+# game/day19.rpy:849
+translate polish day19_rb_n_sex_f0442b53:
+
+    # rb "Naughty girl... And a very bad play on words."
+    rb "Niegrzeczna dziewczynka..."
+
+# game/day19.rpy:850
+translate polish day19_rb_n_sex_e530ad83:
+
+    # n "Sorry, hot sex always makes me a little giddy."
+    n "Sorki, zajebisty seks już tak na mnie działa."
+
+# game/day19.rpy:851
+translate polish day19_rb_n_sex_b6060de2:
+
+    # p "You're forgiven, little firecracker."
+    p "Wybaczamy, łobuzico."
+
+# game/day19.rpy:854
+translate polish day19_rb_n_sex_11b3894a:
+
+    # "{i}Mother and daughter kiss you passionately and leave the apartment."
+    "{i}Matka i córka całują Cię namiętnie i opuszczają apartament."
+
+# game/day19.rpy:864
+translate polish day19_rb_n_sex_55d8ce2a:
+
+    # p "Sorry girls, but I have a very busy schedule today."
+    p "Wybaczcie dziewczyny, ale jestem dziś trochę zajęty."
+
+# game/day19.rpy:866
+translate polish day19_rb_n_sex_6536bd26:
+
+    # n "Busy? You're on holiday?"
+    n "Zajęty? Przecież jesteś na wakacjach."
+
+# game/day19.rpy:867
+translate polish day19_rb_n_sex_792964d9:
+
+    # rb "Calm down dear, he clearly isn't interested in us."
+    rb "Uspokój się mała, po prostu nie jest nami zainteresowany."
+
+# game/day19.rpy:868
+translate polish day19_rb_n_sex_87560e6c:
+
+    # rb "Safe travels."
+    rb "Bezpiecznej podróży."
+
+# game/day19.rpy:869
+translate polish day19_rb_n_sex_743ce775:
+
+    # "{i}Clearly irritated, both girls leave the apartment and you're alone again."
+    "{i}Wyraźnie podirytowane, obie dziewczyny opuszczają apartament i znowu jesteś sam."
+
+# game/day19.rpy:885
+translate polish day19_l_handjob_5ee6c705:
+
+    # "{i}Your sister strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}Twoja siostra rozbiera się, jesteś urzeczony jej pięknymi krągłościami."
+
+# game/day19.rpy:887
+translate polish day19_l_handjob_b34edba4:
 
     # "{i}[l_name] strips down, and you're struck by her beautiful, rounded proportions."
     "{i}[l_name] rozbiera się i uderzają cię jej piękne, zaokrąglone proporcje."
 
-# game/day19.rpy:691
-translate polish day19_evening_choices_64441c2e:
+# game/day19.rpy:889
+translate polish day19_l_handjob_3b819904:
+
+    # l "Sorry that you need to help me again, [p_name]. I'm so hopeless."
+    l "Przepraszam, że musisz mi znowu pomagać [p_name]. Jestem do niczego."
+
+# game/day19.rpy:891
+translate polish day19_l_handjob_bef7c59a:
+
+    # l "You really need to guide me through all this, [p_name]. I'm so hopeless."
+    l "Będziesz mnie musiał naprawdę przez to poprowadzić [p_name]. Jestem w tym do niczego."
+
+# game/day19.rpy:892
+translate polish day19_l_handjob_8ba80d5d:
+
+    # p "{i}(Why the fuck is this beautiful girl apologizing for LETTING ME DO THIS?! Ok, calm down, play it cool...)"
+    p "{i}(Dlaczego do chuja ta piękna dziewczyna przeprasza mnie za to, że POZWALA MI TO ZROBIĆ?! Dobra, uspokój się, na spokojnie...)"
+
+# game/day19.rpy:893
+translate polish day19_l_handjob_cc4aea5c:
+
+    # p "There's absolutely no need to apologize, I'm just glad I can help you this way."
+    p "Nie ma masz absolutnie żadnego powodu, żeby przepraszać. Cieszę się, że mogę Ci w tym pomóc."
+
+# game/day19.rpy:894
+translate polish day19_l_handjob_43ba43e7:
+
+    # "{i}You remove your underwear and crawl next to [l_name] on the bed."
+    "{i}Ściągasz swoje bokserki i kładziesz się koło Lizy na łóżku."
+
+# game/day19.rpy:896
+translate polish day19_l_handjob_54509c0e:
+
+    # p "So, remember, just take it slow. Explore your body, not just your pussy."
+    p "Więc, pamiętaj, nie ma się co śpieszyć. Badaj całe swoje ciało, nie tylko swoją cipkę."
+
+# game/day19.rpy:898
+translate polish day19_l_handjob_65996910:
+
+    # p "Just take it slow. Explore your body, not just your pussy."
+    p "Nie ma się co śpieszyć. Badaj całe swoje ciało, nie tylko swoją cipkę."
+
+# game/day19.rpy:899
+translate polish day19_l_handjob_77aab732:
+
+    # p "It's important that you get completely in the mood first. Touch the areas of your body that are sensitive."
+    p "To ważne, żebyś najpierw była całkowicie w nastroju. Dotykaj te części ciała, które są wrażliwe."
+
+# game/day19.rpy:900
+translate polish day19_l_handjob_d55cb3c1:
+
+    # l "Gosh, that sounds so naughty!"
+    l "Boże, to brzmi tak sprośnie!"
+
+# game/day19.rpy:905
+translate polish day19_l_handjob_bb146abc:
+
+    # p "Touch your breasts, the skin of your nipples."
+    p "Dotknij swoich piersi, powierzchni swoich sutków."
+
+# game/day19.rpy:906
+translate polish day19_l_handjob_d7e86173:
+
+    # p "See how hard they're getting?"
+    p "Widzisz jakie robią się twarde?"
+
+# game/day19.rpy:907
+translate polish day19_l_handjob_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "T- Tak..."
+
+# game/day19.rpy:908
+translate polish day19_l_handjob_d77b4e90:
+
+    # p "Now trail all the way down from your breasts to your navel with your fingertips."
+    p "A teraz przesuń dłoń z piersi do swojego pępka, cały czas dotykając się opuszkami palców."
+
+# game/day19.rpy:909
+translate polish day19_l_handjob_5a984e8c:
+
+    # p "Good, a little bit further."
+    p "Dobrze, jeszcze niżej."
+
+# game/day19.rpy:910
+translate polish day19_l_handjob_2fba298f:
+
+    # "{i}You hear [l_name] breathing heavily in anticipation, she's obviously ready for anything that's about to come."
+    "{i}Słyszysz jak Liza zaczyna ciężko oddychać, jest ewidentnie gotowa na to, co zaraz się stanie."
+
+# game/day19.rpy:912
+translate polish day19_l_handjob_774a69e4:
+
+    # p "Caress the insides of your thighs first, right up to your little pussy, but don't touch it just yet."
+    p "Pogładź wnętrze swoich ud, tuż obok swojej cipki, ale jeszcze jej nie dotykaj."
+
+# game/day19.rpy:913
+translate polish day19_l_handjob_b1939e23:
+
+    # l "Mmmmm..."
+    l "Mmmmm..."
+
+# game/day19.rpy:914
+translate polish day19_l_handjob_e477eaec:
+
+    # p "{i}(That sounds good! Time to up the ante.)"
+    p "{i}(Brzmi niesamowicie! Pora przejść na wyższy poziom.)"
+
+# game/day19.rpy:915
+translate polish day19_l_handjob_64441c2e:
 
     # p "Slowly work your way towards your pussy, touch the lips... Are you wet, [l_name]? Did you make yourself wet?"
-    p "Slowly work your way towards your pussy touch the lips Are you wet [l_name]? Czy zrobiłaś się mokra?"
+    p "Powoli zbliżaj się do swojej cipki, dotykając jej ust. Czy jesteś mokra [l_name]? Czy zrobiłaś się mokra?"
 
-# game/day19.rpy:712
-translate polish day19_evening_choices_ec9299b6:
+# game/day19.rpy:916
+translate polish day19_l_handjob_b778bd52:
 
-    # p "I think I was twelve or thirteen. When I was reading some magazine, I came across a girl in lingerie and started rubbing my penis against my mattress. That felt really good."
-    p "Miałem chyba dwanaście lub trzynaście lat Czytając jakieś czasopismo natknąłem się na dziewczynę w bieliźnie i zacząłem pocierać penisem o materac To było naprawdę dobre uczucie"
+    # l "[p_name]! You shouldn't... Yes... Ooooh!"
+    l "[p_name]! Nie powinieneś... Tak... Ooooh!"
 
-# game/day19.rpy:724
-translate polish day19_evening_choices_fafff477:
+# game/day19.rpy:918
+translate polish day19_l_handjob_9baea2c7:
 
-    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
-    "{i}Podczas gdy ty mówisz twoja siostra nieświadomie sięga znów po mokre ciasne objęcia swojej cipki i roztargniona wsuwa palec do środka siebie tak jak ją uczyłeś na plaży."
+    # p "It's time to massage your little lovebud. Just rub it gently and keep at it when it feels good."
+    p "Przyszła pora, abyś wymasowała swój rozkoszny guziczek. Po prostu pocieraj go delikatnie i kontynuuj kiedy zacznie być przyjemnie."
 
-# game/day19.rpy:726
-translate polish day19_evening_choices_619fe197:
+# game/day19.rpy:919
+translate polish day19_l_handjob_f63bb849:
 
-    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
-    "{i}Podczas gdy ty mówisz [l_name] nieświadomie sięga ponownie po mokre ciasne objęcia swojej cipki i roztargniony wsuwa palec do środka siebie, tak jak nauczyłeś ją na plaży."
+    # "{i}She quivers slightly as she softly rubs her clitoris. Your erection that has been developing is nearly at full strength."
+    "{i}Przechodzą ją dreszcze kiedy zaczyna miękko masować łechtaczkę. Twoja rosnąca erekcja osiągnęła już prawie pełen rozmiar."
 
-# game/day19.rpy:729
-translate polish day19_evening_choices_a6bbccf2:
+# game/day19.rpy:922
+translate polish day19_l_handjob_6db58636:
 
-    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
-    "{i}Podczas gdy ty mówisz twoja siostra nieświadomie sięga ponownie po mokre ciasne objęcia swojej cipki i roztargniona wsuwa palec do środka siebie."
-
-# game/day19.rpy:731
-translate polish day19_evening_choices_cfa21e35:
-
-    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
-    "{i}Podczas gdy ty mówisz [l_name] nieświadomie sięga ponownie po mokre ciasne objęcia swojej cipki i roztargniony wsuwa palec do środka siebie."
-
-# game/day19.rpy:734
-translate polish day19_evening_choices_4fb61ee5:
-
-    # p "And then she would grab hold of my penis and start to massage it, and I pretended that my hands were hers..."
-    p "A potem chwytała za mojego penisa i zaczynała go masować, a ja udawałem, że moje ręce są jej"
-
-# game/day19.rpy:743
-translate polish day19_evening_choices_4a2fd30d:
-
-    # "{i}With one arm hooked around your neck, [l_name] embraces you tightly as she convulses violently in orgasm. With clawed fingers, she keeps rubbing her pussy as her body alternates between lifting from the bed and collapsing back onto it in pure ecstasy."
-    "{i}Z jednym ramieniem zaczepionym wokół twojej szyi [l_name] obejmuje cię mocno, gdy konwulsyjnie przeżywa orgazm Pazurzastymi palcami wciąż pociera swoją cipkę, gdy jej ciało na przemian podnosi się z łóżka i zapada na nie z powrotem w czystej ekstazie."
-
-# game/day19.rpy:794
-translate polish day19_evening_choices_d9d51597:
-
-    # "{i}[l_name] doesn't let go of your penis while streams of warm seed spill from the head and over her soft hand. When your orgasm subsides and your dick starts to get too sensitive, you steady her hand to stop her from jerking you off."
-    "{i}[l_name] nie puszcza twojego penisa, podczas gdy strumienie ciepłego nasienia wylewają się z główki i na jej miękką dłoń Kiedy twój orgazm ustępuje i twój kutas zaczyna być zbyt wrażliwy, stabilizujesz jej dłoń, aby powstrzymać ją od szarpania cię"
-
-# game/day19.rpy:805
-translate polish day19_evening_choices_362eb025:
-
-    # "{i}Before she can get up from the bed, you kiss her without restraint."
-    "{i}Zanim zdąży wstać z łóżka całujesz ją bez skrępowania"
-
-# game/day19.rpy:826
-translate polish day19_evening_choices_08662332:
-
-    # p "Sorry, sis, but what a stupid question. You're smoking hot!"
-    p "Sorry sis, ale co za głupie pytanie Jesteś paląco gorąca!"
-
-# game/day19.rpy:828
-translate polish day19_evening_choices_12ee47fe:
-
-    # p "Sorry, [b_name], but what a stupid question. You're smoking hot!"
-    p "Sorry [b_name], ale co za głupie pytanie Jesteś paląco gorąca!"
-
-# game/day19.rpy:874
-translate polish day19_evening_choices_7cee4730:
-
-    # "{i}Saying nothing further, you're both kissing each other wildly. Your tongues collide, and your hands are everywhere."
-    "{i}Nie mówiąc nic więcej oboje całujecie się dziko Wasze języki zderzają się ze sobą, a ręce są wszędzie"
+    # l "Are you getting... having an... ah... erection again?"
+    l "Czy dostajesz... Masz znowu... Emm... Erekcję?"
 
 # game/day19.rpy:924
-translate polish day19_evening_choices_1c3e78dd:
+translate polish day19_l_handjob_53854849:
 
-    # "{i}With short and powerful motions, she brings you closer and closer to orgasm until you just can't hold yourself together."
-    "{i}Krótkimi i mocnymi ruchami przybliża cię do orgazmu, aż nie będziesz mógł się powstrzymać."
+    # l "You have a... you know... don't you?"
+    l "Masz... No wiesz... Prawda?"
+
+# game/day19.rpy:925
+translate polish day19_l_handjob_3309102f:
+
+    # p "An erection?"
+    p "Erekcję?"
+
+# game/day19.rpy:926
+translate polish day19_l_handjob_cb797768:
+
+    # l "Y-yes?"
+    l "T- Tak?"
+
+# game/day19.rpy:927
+translate polish day19_l_handjob_2b400d73:
+
+    # p "Does it bother you?"
+    p "Przeszkadza Ci to?"
+
+# game/day19.rpy:928
+translate polish day19_l_handjob_0f1a8c03:
+
+    # l "No! No! It's only natural, isn't it?"
+    l "Nie! Nie! To całkowicie normalne, prawda?"
+
+# game/day19.rpy:929
+translate polish day19_l_handjob_c81890ad:
+
+    # p "It would take a blind person not to get aroused by you, [l_name]. Everything is so perfect, the gentle curves of your hips, your soft skin, those beautiful breasts..."
+    p "Chyba tylko ślepiec mógłby się Tobą nie podniecić Liza. Wszystko jest idealne, łagodne krągłości Twoich bioder, Twoja miękka skóra, te piękne piersi..."
+
+# game/day19.rpy:930
+translate polish day19_l_handjob_2d696ba3:
+
+    # p "And to see you connect to yourself in such a simple, yet profound way... I wish I could discover it all again."
+    p "I obserwowanie jak poznajesz się w tak prosty, a jednak dogłębny sposób... Sam chciałbym móc odkryć to raz jeszcze."
+
+# game/day19.rpy:932
+translate polish day19_l_handjob_f075de93:
+
+    # l "Were you... Sorry, I shouldn't stop."
+    l "Czy Ty... Przepraszam, nie powinnam."
+
+# game/day19.rpy:933
+translate polish day19_l_handjob_1c431c1d:
+
+    # p "No, do whatever you want. Take your time. Pillow talk is equally important."
+    p "Nie, rób co chcesz. To Twój moment. Poduszkowe rozmowy są równie ważne."
+
+# game/day19.rpy:934
+translate polish day19_l_handjob_bcfbdf3c:
+
+    # l "I'm just too curious. You'll say it when I overstep, right?"
+    l "Po prostu jestem zbyt ciekawska. Powiedz mi jeśli przesadzę, dobrze?"
+
+# game/day19.rpy:935
+translate polish day19_l_handjob_ab916dec:
+
+    # p "Don't worry, dearest, you can ask me anything."
+    p "Nie martw się najdroższa, możesz mnie spytać o wszystko."
+
+# game/day19.rpy:936
+translate polish day19_l_handjob_09ca7bc5:
+
+    # l "What I meant to ask was, were you very young when you first... you know... touched yourself?"
+    l "Chciałam spytać, byłeś bardzo młody kiedy pierwszy raz... No wiesz... Się dotykałeś?"
+
+# game/day19.rpy:937
+translate polish day19_l_handjob_ec9299b6:
+
+    # p "I think I was twelve or thirteen. When I was reading some magazine, I came across a girl in lingerie and started rubbing my penis against my mattress. That felt really good."
+    p "Myślę, że miałem dwanaście lub trzynaście lat, kiedy czytałem jakiś magazyn, natknąłem się na dziewczynę w bieliźnie i zacząłem pocierać penisem o materac, co było naprawdę przyjemne."
+
+# game/day19.rpy:938
+translate polish day19_l_handjob_f3b5ee07:
+
+    # p "So next time I used my hands and covered everything in sperm. From that moment the floodgates were open."
+    p "Więc następnym razem użyłem moich dłoni i obryzgałem wszystko spermą. Od tego momentu bramy były otwarte."
+
+# game/day19.rpy:939
+translate polish day19_l_handjob_d80db94b:
+
+    # l "Really?"
+    l "Naprawdę?"
+
+# game/day19.rpy:940
+translate polish day19_l_handjob_45a2fc71:
+
+    # p "Yes, teenage boys are generally not known for their restraint."
+    p "Tak, nastoletni chłopcy nie są znani ze swojej powściągliwości."
+
+# game/day19.rpy:941
+translate polish day19_l_handjob_e59e8eea:
+
+    # p "{i}(Teenage girls as well, but I guess [l_name] is an exception.)"
+    p "{i}(Nastoletnie dziewczyny też nie, ale Liza musi być wyjątkiem.)"
+
+# game/day19.rpy:942
+translate polish day19_l_handjob_e459ff34:
+
+    # l "I guess not."
+    l "Chyba nie."
+
+# game/day19.rpy:943
+translate polish day19_l_handjob_b0ac0799:
+
+    # l "So you did it often? And what were you thinking about?"
+    l "Więc, często to robiłeś? I o czym myślałeś?"
 
 # game/day19.rpy:944
-translate polish day19_evening_choices_fa1ed663:
+translate polish day19_l_handjob_c79a3f74:
+
+    # p "Depends, sometimes it was a hot girl from school, other times some singer or a movie star."
+    p "Zależy, czasami o gorącej lasce ze szkoły, innym razem o piosenkarce czy aktorce."
+
+# game/day19.rpy:945
+translate polish day19_l_handjob_b8dc4fc2:
+
+    # l "Go on... please..."
+    l "Mów dalej... Proszę..."
+
+# game/day19.rpy:953
+translate polish day19_l_handjob_fafff477:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Podczas gdy ty mówisz, twoja siostra nieświadomie ponownie sięga do mokrej cipki i bezmyślnie wsuwa w siebie palec, tak jak nauczyłeś ją na plaży."
+
+# game/day19.rpy:955
+translate polish day19_l_handjob_619fe197:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Podczas gdy ty mówisz, [l_name] nieświadomie sięga do mokrej cipki i z roztargnieniem wsuwa w siebie palec, tak jak nauczyłeś ją na plaży."
+
+# game/day19.rpy:958
+translate polish day19_l_handjob_a6bbccf2:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Podczas gdy ty mówisz, twoja siostra nieświadomie ponownie sięga do mokrej cipki i bezmyślnie wsuwa w siebie palec."
+
+# game/day19.rpy:960
+translate polish day19_l_handjob_cfa21e35:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Podczas gdy ty mówisz [l_name] nieświadomie ponownie sięga do mokrych granic swojej cipki i bezmyślnie wsuwa w siebie palec."
+
+# game/day19.rpy:961
+translate polish day19_l_handjob_b300fb9c:
+
+    # p "{i}(Woah! I guess she likes my dirty stories... Better keep going.)"
+    p "{i}(Wow! Widzę, że naprawdę podobają się jej moje historyjki... Lepiej nie przestawać.)"
+
+# game/day19.rpy:962
+translate polish day19_l_handjob_5f245e54:
+
+    # p "But with every imaginary girl I thought about her warm, naked body next to mine, stroking her breasts, thighs, the soft curve of her butt."
+    p "Ale z każdą wyobrażoną dziewczyną, zawsze myślałem o jej ciepłym, nagim ciele przy moim boku, o macaniu jej piersi, nóg, miękkich krągłości jej tyłka."
+
+# game/day19.rpy:963
+translate polish day19_l_handjob_4fb61ee5:
+
+    # p "And then she would grab hold of my penis and start to massage it, and I pretended that my hands were hers..."
+    p "Wtedy zaciskałem dłoń na moim penisie i zaczynałem go masować, udając, że moja dłoń należy do niej..."
+
+# game/day19.rpy:964
+translate polish day19_l_handjob_b1939e23_1:
+
+    # l "Mmmmm..."
+    l "Mmmmm..."
+
+# game/day19.rpy:965
+translate polish day19_l_handjob_f3e0e689:
+
+    # p "Touching the veins of my hard penis, caressing the sensitive skin of my balls..."
+    p "Dotykając żył na moim penisie, gładząc wrażliwą skórę moich jąder..."
+
+# game/day19.rpy:967
+translate polish day19_l_handjob_aeb2f13c:
+
+    # l "Ooooh!"
+    l "Ooooh!"
+
+# game/day19.rpy:968
+translate polish day19_l_handjob_1a15c51f:
+
+    # p "She would teasingly run a wet finger across my tip and eventually focus on the head of my erect cock and bring me to a wild orgasm with just her fingertip."
+    p "Od czasu do czasu podrażniłaby mój żołądź i w końcu skupiłaby się na główce mojego twardego fiuta i doprowadziłaby mnie do dzikiego orgazmu, samym tylko czubkiem palca."
+
+# game/day19.rpy:975
+translate polish day19_l_handjob_685850f9:
+
+    # l "Aaaaaaah! [p_name]!"
+    l "Aaaaaaaah! [p_name]!"
+
+# game/day19.rpy:976
+translate polish day19_l_handjob_4a2fd30d:
+
+    # "{i}With one arm hooked around your neck, [l_name] embraces you tightly as she convulses violently in orgasm. With clawed fingers, she keeps rubbing her pussy as her body alternates between lifting from the bed and collapsing back onto it in pure ecstasy."
+    "{i}Z jedną ręką owiniętą wokół Twojej szyi, Liza obejmuje Cię mocno, trzęsąc się w konwulsjach swojego gwałtownego orgazmu. Drugą ręką nie przestaje pocierać swojej cipki, podczas gdy jej ciało na zmianę unosi się z łóżka i opada na nie z powrotem w ekstazie."
+
+# game/day19.rpy:980
+translate polish day19_l_handjob_98a19efc:
+
+    # l "I... I don't know..."
+    l "Nawet... Nie wiem..."
+
+# game/day19.rpy:981
+translate polish day19_l_handjob_c4e9ae5c:
+
+    # p "Ssssh, catch your breath first. Just wait until the pleasure subsides."
+    p "Ciiii, najpierw złap oddech. Poczekaj aż rozkosz ustąpi."
+
+# game/day19.rpy:983
+translate polish day19_l_handjob_4ada726c:
+
+    # "{i}Your sister spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}Twoja siostra rzuca się dziko jeszcze przez kilka minut, aż w końcu opada na Ciebie wzdychając ciężko."
+
+# game/day19.rpy:985
+translate polish day19_l_handjob_969fdab8:
+
+    # "{i}[l_name] spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}[l_name] spazmuje dziko jeszcze przez kilka minut, zanim upadnie z westchnieniem na ciebie."
+
+# game/day19.rpy:987
+translate polish day19_l_handjob_4cf81e50:
+
+    # l "I don't know what you do to me, but it's magical."
+    l "Nie wiem co Ty mi robisz, ale to jakaś magia."
+
+# game/day19.rpy:988
+translate polish day19_l_handjob_75d2b5a3:
+
+    # p "I think you like dirty talk, dear [l_name]."
+    p "Myślę, że lubisz słuchać świntuszenia, moja droga."
+
+# game/day19.rpy:989
+translate polish day19_l_handjob_49b8af83:
+
+    # l "I think so too."
+    l "Też tak myślę."
+
+# game/day19.rpy:990
+translate polish day19_l_handjob_c8761aa8:
+
+    # "{i}After a brief silence, [l_name] looks up at you hesitantly."
+    "{i}Po chwili w ciszy, Liza zerka na Ciebie z wahaniem."
+
+# game/day19.rpy:991
+translate polish day19_l_handjob_db769f37:
+
+    # l "I feel a bit guilty, you know."
+    l "Wiesz, czuję się trochę winna."
+
+# game/day19.rpy:992
+translate polish day19_l_handjob_f2034c6c:
+
+    # p "Why is that?"
+    p "Dlaczego?"
+
+# game/day19.rpy:993
+translate polish day19_l_handjob_852aa209:
+
+    # l "You gave me this wonderful feeling and didn't get anything in return."
+    l "Pomagasz mi czuć się tak niesamowicie, a nie dostajesz niczego w zamian."
+
+# game/day19.rpy:994
+translate polish day19_l_handjob_6c372a63:
+
+    # p "Your pleasure is the only thing that matters."
+    p "Twoja przyjemność to jedyna rzecz, która się dla mnie liczy."
+
+# game/day19.rpy:995
+translate polish day19_l_handjob_37954768:
+
+    # l "You still have an erection."
+    l "Dalej masz erekcję."
+
+# game/day19.rpy:996
+translate polish day19_l_handjob_8306b4c9:
+
+    # p "{i}(Damn, betrayed by my own body!)"
+    p "{i}(Cholera, zdradzony przez moje własne ciało!)"
+
+# game/day19.rpy:997
+translate polish day19_l_handjob_2684a0d6:
+
+    # p "True."
+    p "Prawda."
+
+# game/day19.rpy:998
+translate polish day19_l_handjob_1528110d:
+
+    # l "I could help you with that."
+    l "Mogłabym Ci z tym pomóc."
+
+# game/day19.rpy:999
+translate polish day19_l_handjob_d6c41a96:
+
+    # p "{i}(God, that shy look mixed with guilty pleasure is nearly enough to spray everything with cum right this instant.)"
+    p "{i}(Boże, to nieśmiałe spojrzenie zmieszane z rozkoszą i poczuciem winy prawie wystarcza, żebym trysnął w tym momencie.)"
+
+# game/day19.rpy:1000
+translate polish day19_l_handjob_8d0cf986:
+
+    # p "I would like that. But only if you want to."
+    p "Bardzo chętnie. Ale tylko jeśli naprawdę tego chcesz."
+
+# game/day19.rpy:1001
+translate polish day19_l_handjob_47db8ebb:
+
+    # l "That's why I proposed it."
+    l "Dlatego to zaproponowałam."
+
+# game/day19.rpy:1002
+translate polish day19_l_handjob_e2f2282a:
+
+    # l "But you have to help me again. I've never given a... a... touched..."
+    l "Ale będziesz musiał mi znowu pomóc. Nigdy nie zrobiłam... Nie dotykałam..."
+
+# game/day19.rpy:1003
+translate polish day19_l_handjob_f5967354:
+
+    # p "There's not much that can go wrong with a handjob, don't worry!"
+    p "Nie martw się, przy robieniu ręką niewiele może pójść nie tak."
+
+# game/day19.rpy:1004
+translate polish day19_l_handjob_61fe587b:
+
+    # l "Okay. I'll trust you on that."
+    l "Dobrze. Zaufam Ci na słowo."
+
+# game/day19.rpy:1007
+translate polish day19_l_handjob_58b33573:
+
+    # "{i}Still a little uncertain, [l_name] reaches out for your penis, which is proudly standing and covered in a sheen of precum."
+    "{i}Wciąż trochę niepewna, Liza sięga do Twojego penisa, który stoi dumnie wyprostowany, lśniący od pre-ejakulatu."
+
+# game/day19.rpy:1008
+translate polish day19_l_handjob_e235c4f5:
+
+    # l "It's really hard... And so warm."
+    l "Jest naprawdę twardy... I bardzo ciepły."
+
+# game/day19.rpy:1009
+translate polish day19_l_handjob_d54ef614:
+
+    # "{i}Her fingers feel along your shaft, exploring every vein and ridge. All of your muscles tense in anticipation."
+    "{i}Jej palce przesuwają się wzdłuż Twojego trzonu, badając każdą żyłkę i krawędź. Wszystkie Twoje mięśnie napinają się w oczekiwaniu."
+
+# game/day19.rpy:1010
+translate polish day19_l_handjob_0201c171:
+
+    # l "Does this feel... good?"
+    l "Czy to... Przyjemne?"
+
+# game/day19.rpy:1011
+translate polish day19_l_handjob_193ea7ae:
+
+    # p "Y-yes... It's been a long time since I went that slow and it's really good."
+    p "T- Tak... Minęło trochę czasu odkąd robiłem to tak powoli i to naprawdę dobre uczucie."
+
+# game/day19.rpy:1016
+translate polish day19_l_handjob_646a47b6:
+
+    # "{i}[l_name] wraps her fingers around your dick and squeezes slightly."
+    "{i}Liza oplata palce wokół Twojego penisa i ściska lekko."
+
+# game/day19.rpy:1017
+translate polish day19_l_handjob_3b974d32:
+
+    # l "It's really hard."
+    l "Jest naprawdę twardy."
+
+# game/day19.rpy:1018
+translate polish day19_l_handjob_3c7969a4:
+
+    # p "Yes, yes, it is."
+    p "Tak, to prawda."
+
+# game/day19.rpy:1019
+translate polish day19_l_handjob_6951588d:
+
+    # l "That didn't hurt, did it?"
+    l "To nie bolało, co?"
+
+# game/day19.rpy:1020
+translate polish day19_l_handjob_ae24c0c5:
+
+    # p "No, quite the opposite. Don't worry about squeezing too hard. Could you move your hand up and down?"
+    p "Nie, wręcz przeciwnie. Nie bój się ściskać trochę mocniej. Mogłabyś zacząć ruszać dłonią w górę i w dół?"
+
+# game/day19.rpy:1021
+translate polish day19_l_handjob_ac7404fd:
+
+    # "{i}She obliges and pulls the foreskin over your glans and back down again. Her warm hand exerts just the right amount of pressure."
+    "{i}Spełnia Twoją prośbę, ściąga Twój napletek w dół i potem znowu w górę. Jej ciepła dłoń zaciska się na Tobie z idealnym siłą."
+
+# game/day19.rpy:1022
+translate polish day19_l_handjob_acea5e73:
+
+    # p "Gaaah! Keep going just like that."
+    p "Aaaah! Kontynuuj, właśnie w ten sposób."
+
+# game/day19.rpy:1024
+translate polish day19_l_handjob_e13a6fb1:
+
+    # "{i}Encouraged by your words, your sister starts jerking your cock in measured movements."
+    "{i}Zachęcona Twoimi słowami, Twoja siostra zaczyna rytmicznie ruszać dłonią."
+
+# game/day19.rpy:1026
+translate polish day19_l_handjob_5d309d40:
+
+    # "{i}Encouraged by your words, the girl starts jerking your cock in measured movements."
+    "{i}Zachęcona twoimi słowami dziewczyna zaczyna szarpać twojego kutasa miarowymi ruchami."
+
+# game/day19.rpy:1027
+translate polish day19_l_handjob_ea69d216:
+
+    # p "Keep going, [l_name], keep going!"
+    p "Nie przestawaj Liza, rób tak dalej!"
+
+# game/day19.rpy:1028
+translate polish day19_l_handjob_bf59aca1:
+
+    # l "I will! Is something happening?"
+    l "Dobrze! Coś się dzieje?"
+
+# game/day19.rpy:1029
+translate polish day19_l_handjob_ec89ccf6:
+
+    # p "I'm about to..."
+    p "Ja zaraz..."
+
+# game/day19.rpy:1030
+translate polish day19_l_handjob_e29a29a2:
+
+    # l "Yes?"
+    l "Tak?"
+
+# game/day19.rpy:1031
+translate polish day19_l_handjob_0e749ebf:
+
+    # p "C-c-cuuuummmmm!"
+    p "D- Doojjjdę!"
+
+# game/day19.rpy:1037
+translate polish day19_l_handjob_d9d51597:
+
+    # "{i}[l_name] doesn't let go of your penis while streams of warm seed spill from the head and over her soft hand. When your orgasm subsides and your dick starts to get too sensitive, you steady her hand to stop her from jerking you off."
+    "{i}Liza nie puszcza Twojego penisa gdy gorące nasienie spływa z jego główki na jej miękką dłoń. Kiedy Twój orgazm się uspokaja i Twój penis robi się zbyt wrażliwy na ruchy jej dłoni, dajesz jej sygnał, żeby przestała."
+
+# game/day19.rpy:1041
+translate polish day19_l_handjob_4759e7f8:
+
+    # l "I didn't know there would be so much of it."
+    l "Nie wiedziałam, że będzie tego tak dużo."
+
+# game/day19.rpy:1042
+translate polish day19_l_handjob_15d2ccb7:
+
+    # p "There isn't always."
+    p "Nie zawsze tak jest."
+
+# game/day19.rpy:1043
+translate polish day19_l_handjob_984e4857:
+
+    # l "Was this a good... ending?"
+    l "Czy to było dobre... Zakończenie?"
+
+# game/day19.rpy:1044
+translate polish day19_l_handjob_b87a3d8a:
+
+    # p "If the foreplay is amazing and you're with a beautiful girl, orgasms tend to be great. So yeah, a very good ending."
+    p "Jeśli gra wstępna jest niesamowita i jest się z piękną dziewczyną, orgazm zwykle jest rewelacyjny. Więc tak, bardzo dobre zakończenie!"
+
+# game/day19.rpy:1045
+translate polish day19_l_handjob_c2a202f5:
+
+    # l "Your stuff, it's really thick and sticky. It dries quickly as well."
+    l "To Twoje coś, jest bardzo gęste i lepkie. Szybko też wysycha."
+
+# game/day19.rpy:1046
+translate polish day19_l_handjob_8f1ae1f9:
+
+    # p "{i}(Thank you for the thorough analysis.)"
+    p "{i}(Dziękuję Ci za dogłębną analizę.)"
+
+# game/day19.rpy:1047
+translate polish day19_l_handjob_a1ae4212:
+
+    # p "Sperm tends to behave that way."
+    p "Sperma ma to do siebie."
+
+# game/day19.rpy:1048
+translate polish day19_l_handjob_6beed191:
+
+    # l "I guess it does."
+    l "Chyba tak."
+
+# game/day19.rpy:1049
+translate polish day19_l_handjob_c7f0bb71:
+
+    # l "I've got to go and wash it off my hands before it dries."
+    l "Muszę pójść zmyć to z dłoni zanim wyschnie."
+
+# game/day19.rpy:1051
+translate polish day19_l_handjob_362eb025:
+
+    # "{i}Before she can get up from the bed, you kiss her without restraint."
+    "{i}Zanim może wstać z łóżka, całujesz ją bez żadnych hamulców."
+
+# game/day19.rpy:1052
+translate polish day19_l_handjob_58024a15:
+
+    # p "I love you."
+    p "Kocham Cię."
+
+# game/day19.rpy:1053
+translate polish day19_l_handjob_d80db94b_1:
+
+    # l "Really?"
+    l "Naprawdę?"
+
+# game/day19.rpy:1054
+translate polish day19_l_handjob_3b88c420:
+
+    # p "Yes."
+    p "Tak."
+
+# game/day19.rpy:1056
+translate polish day19_l_handjob_b3efe616:
+
+    # l "I love you too, little brother, sleep well."
+    l "Ja też Cię kocham braciszku, śpij dobrze."
+
+# game/day19.rpy:1058
+translate polish day19_l_handjob_3043c321:
+
+    # l "I love you too, [p_name], sleep well."
+    l "Ja też cię kocham [p_name] śpij dobrze"
+
+# game/day19.rpy:1077
+translate polish day19_b_handjob_3432a76b:
+
+    # "{i}You hear [b_name] slide from the bed and unclasp her bra."
+    "{i}Słyszysz jak Bella zsuwa się z łóżka i rozpina stanik."
+
+# game/day19.rpy:1078
+translate polish day19_b_handjob_74c6eaa9:
+
+    # b "You may turn around now."
+    b "Możesz się już odwrócić."
+
+# game/day19.rpy:1083
+translate polish day19_b_handjob_71c97b8d:
+
+    # b "So. This is me."
+    b "Więc. Tak wyglądam."
+
+# game/day19.rpy:1084
+translate polish day19_b_handjob_87f3e913:
+
+    # p "Wow."
+    p "Wow."
+
+# game/day19.rpy:1085
+translate polish day19_b_handjob_895a54e3:
+
+    # p "{i}(Wow!)"
+    p "{i}(Wow!)"
+
+# game/day19.rpy:1087
+translate polish day19_b_handjob_11f81977:
+
+    # p "I'm running out of superlatives to describe you, sis."
+    p "Kończą mi się superlatywy na opisywanie Cię siostrzyczko."
+
+# game/day19.rpy:1089
+translate polish day19_b_handjob_33cf3f7f:
+
+    # p "I'm running out of superlatives to describe you, [b_name]."
+    p "Kończą mi się superlatywy, by cię opisać [b_name]."
+
+# game/day19.rpy:1090
+translate polish day19_b_handjob_c2d44fd8:
+
+    # p "Let's just say you're the most beautiful girl in the world."
+    p "Wystarczy, że powiem, że jesteś najpiękniejszą dziewczyną na świecie."
+
+# game/day19.rpy:1091
+translate polish day19_b_handjob_01ca3d21:
+
+    # b "That's an acceptable assessment."
+    b "To rozsądne założenie."
+
+# game/day19.rpy:1096
+translate polish day19_b_handjob_1b7c56a3:
+
+    # p "{i}(Holy mother of Sweet Baby Jesus... What does she do to keep that gorgeous ass in perfect shape? Practice black magic?)"
+    p "{i}(Słodka matko dzieciątka Jezus... Co ona robi, żeby utrzymać ten tyłeczek w tak idealnym kształcie? Praktykuje czarną magię?)"
+
+# game/day19.rpy:1098
+translate polish day19_b_handjob_2725c03d:
+
+    # b "Now. Lose the underpants, brother!"
+    b "A teraz. Zrzuć bokserki braciszku!"
+
+# game/day19.rpy:1100
+translate polish day19_b_handjob_a2677bbf:
+
+    # b "Now. Lose the underpants!"
+    b "A teraz zgub majtki!"
+
+# game/day19.rpy:1101
+translate polish day19_b_handjob_45273f7e:
+
+    # p "With pleasure!"
+    p "Z przyjemnością!"
+
+# game/day19.rpy:1103
+translate polish day19_b_handjob_3dbb714a:
+
+    # "{i}[b_name] stares at your dick for a while before saying anything."
+    "{i}Bella patrzy przez chwilę na Twojego penisa, przed odezwaniem się."
+
+# game/day19.rpy:1105
+translate polish day19_b_handjob_91c1f020:
+
+    # b "You're my little brother in name only, it seems."
+    b "Wygląda na to, że jesteś moim małym braciszkiem tylko z nazwy."
+
+# game/day19.rpy:1107
+translate polish day19_b_handjob_0b2919a3:
+
+    # b "Damn, that's quite the apparatus, [p_name]."
+    b "Cholera, niezły aparat [p_name]."
+
+# game/day19.rpy:1108
+translate polish day19_b_handjob_aac340b5:
+
+    # p "I'm glad you think so."
+    p "Cieszę się, że tak myślisz."
+
+# game/day19.rpy:1110
+translate polish day19_b_handjob_fcc5ca87:
+
+    # "{i}You climb on the bed next to [b_name]. You feel the warmth of her body as she inches even closer, staring lovingly into your eyes."
+    "{i}Wdrapujesz się na łóżko koło Belli. Czujesz ciepło jej ciała kiedy przysuwa się do Ciebie, patrząc Ci z miłością w oczy."
+
+# game/day19.rpy:1111
+translate polish day19_b_handjob_e2675151:
+
+    # b "I feel so at peace when I'm with you. I haven't felt that in a long time."
+    b "Czuję się taka spokojna kiedy jestem z Tobą. Nie czułam się tak od bardzo dawna."
+
+# game/day19.rpy:1112
+translate polish day19_b_handjob_d6f3f76d:
+
+    # "{i}You stroke her soft hair in response and pull her closer to you."
+    "{i}Głaszczesz ją czule po włosach w odpowiedzi i przyciągasz ją bliżej do siebie."
+
+# game/day19.rpy:1115
+translate polish day19_b_handjob_7cee4730:
+
+    # "{i}Saying nothing further, you're both kissing each other wildly. Your tongues collide, and your hands are everywhere."
+    "{i}Nie mówiąc nic więcej, oboje całujecie się dziko, wasze języki zderzają się, a ręce są wszędzie."
+
+# game/day19.rpy:1121
+translate polish day19_b_handjob_1d12eef8:
+
+    # "{i}Your sister hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}Twoja siostra sięga łapczywie do Twojego nabrzmiałego penisa i zaczyna go masować."
+
+# game/day19.rpy:1123
+translate polish day19_b_handjob_5f791157:
+
+    # "{i}[b_name] hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}[b_name] głodnie sięga po twojego wyprostowanego kutasa i zaczyna cię walić."
+
+# game/day19.rpy:1124
+translate polish day19_b_handjob_99dbaad2:
+
+    # b "I want you so bad, [p_name]!"
+    b "Tak bardzo Cię pragnę [p_name]!"
+
+# game/day19.rpy:1125
+translate polish day19_b_handjob_46c85225:
+
+    # "{i}Without letting go of your penis, [b_name] lies down underneath you and guides your cock towards her pussy."
+    "{i}Dalej trzymając Twojego penisa, Bella kładzie się pod Tobą i naprowadza go na swoją cipkę."
+
+# game/day19.rpy:1128
+translate polish day19_b_handjob_f8f4dcb0:
+
+    # "{i}Her breathing is heavy as you push the tip of your cock against her wet entrance and a heavy moan escapes her."
+    "{i}Jej oddech staje się ciężki kiedy przyciska czubek Twojego fiuta do swojej wilgotnej szparki i z jej ust wymyka się głośne westchnienie."
+
+# game/day19.rpy:1132
+translate polish day19_b_handjob_add106f5:
+
+    # b "Wait! What are we doing?!"
+    b "Czekaj! Co my wyprawiamy?!"
+
+# game/day19.rpy:1133
+translate polish day19_b_handjob_72b820bb:
+
+    # b "We shouldn't... It's not..."
+    b "Nie powinniśmy... To nie jest..."
+
+# game/day19.rpy:1134
+translate polish day19_b_handjob_3f804576:
+
+    # p "{i}(Fuck, why does she have to have doubts at this very moment?!)"
+    p "{i}(Kurwa, dlaczego musi mieć wątpliwości akurat w takim momencie?!)"
+
+# game/day19.rpy:1139
+translate polish day19_b_handjob_f864f112:
+
+    # p "Ssssh, don't worry. It's going to be okay."
+    p "Ciii, nie martw się. Będzie dobrze."
+
+# game/day19.rpy:1140
+translate polish day19_b_handjob_3a0f1f9b:
+
+    # "{i}You push your head further against her labia and nearly enter her."
+    "{i}Napierasz mocniej na jej waginę, prawie ją penetrując."
+
+# game/day19.rpy:1142
+translate polish day19_b_handjob_1d208285:
+
+    # b "Goddammit! I said wait!"
+    b "Cholera! Powiedziałam czekaj!"
+
+# game/day19.rpy:1144
+translate polish day19_b_handjob_1997aff2:
+
+    # "{i}Your sister struggles beneath you and manages to slip from under you."
+    "{i}Twoja siostra zaczyna się wyrywać i udaje się jej wyśliznąć spod Ciebie."
+
+# game/day19.rpy:1146
+translate polish day19_b_handjob_5aad0328:
+
+    # "{i}[b_name] struggles beneath you and manages to slip from under you."
+    "{i}[b_name] szamocze się pod tobą i udaje mu się spod ciebie wyślizgnąć."
+
+# game/day19.rpy:1147
+translate polish day19_b_handjob_92c7d07e:
+
+    # b "Not cool, [p_name]."
+    b "Niefajnie [p_name]."
+
+# game/day19.rpy:1148
+translate polish day19_b_handjob_04ce9570:
+
+    # p "Fuck. Sorry, I wasn't thinking."
+    p "Kurwa. Przepraszam, nie myślałem."
+
+# game/day19.rpy:1149
+translate polish day19_b_handjob_3bc411eb:
+
+    # b "Yeah, no shit."
+    b "Ta, no co Ty kurwa nie powiesz."
+
+# game/day19.rpy:1151
+translate polish day19_b_handjob_e398493a:
+
+    # b "Just sit and hold me, okay?"
+    b "Po prostu usiądź i przytul mnie, dobrze?"
+
+# game/day19.rpy:1152
+translate polish day19_b_handjob_31491233:
+
+    # p "Okay. Shit. I'm so sorry [b_name]."
+    p "Okej. Cholera. Bella naprawdę Cię przepraszam."
+
+# game/day19.rpy:1153
+translate polish day19_b_handjob_1f7375ed:
+
+    # b "Fine. You're sorry. Can we not talk about it anymore?"
+    b "Dobra. Przykro Ci. Możemy już o tym nie rozmawiać?"
+
+# game/day19.rpy:1157
+translate polish day19_b_handjob_f4a7e240:
+
+    # p "Are you okay, [b_name]?"
+    p "W porządku Bella?"
+
+# game/day19.rpy:1158
+translate polish day19_b_handjob_67edd7c2:
+
+    # b "I was just spooked, that's all..."
+    b "Po prostu się wystraszyłam, to wszystko..."
+
+# game/day19.rpy:1159
+translate polish day19_b_handjob_69fbe89d:
+
+    # b "Maybe we're going a little too fast?"
+    b "Może trochę się pośpieszyliśmy?"
+
+# game/day19.rpy:1160
+translate polish day19_b_handjob_8eef431e:
+
+    # p "I know what you mean."
+    p "Wiem co masz na myśli."
+
+# game/day19.rpy:1161
+translate polish day19_b_handjob_0e4c09bd:
+
+    # b "Fuck, I hate to do this to you."
+    b "Kurwa, źle się czuję z tym, że Ci to robię."
+
+# game/day19.rpy:1162
+translate polish day19_b_handjob_62073ee8:
+
+    # p "No, it's fine. I want it to be right for both of us."
+    p "Nie, w porządku. Chcę, żebyśmy oboje dobrze się z tym czuli."
+
+# game/day19.rpy:1163
+translate polish day19_b_handjob_b0640c0a:
+
+    # b "Well, I could still help you..."
+    b "Cóż, dalej mogłabym Ci pomóc..."
+
+# game/day19.rpy:1164
+translate polish day19_b_handjob_369b89ba:
+
+    # p "{i}(And... now it's right for me.)"
+    p "{i}(I... Teraz ja się dobrze z tym poczuję.)"
+
+# game/day19.rpy:1165
+translate polish day19_b_handjob_2585b2e1:
+
+    # p "Tell me more!"
+    p "Zamieniam się w słuch!"
+
+# game/day19.rpy:1170
+translate polish day19_b_handjob_0723fb18:
+
+    # "{i}[b_name] touches your dick again and starts to jerk you off slowly."
+    "{i}Bella znowu dotyka Twojego penisa i zaczyna go powoli pocierać."
+
+# game/day19.rpy:1171
+translate polish day19_b_handjob_82c62760:
+
+    # b "Do you like that?"
+    b "Podoba Ci się to?"
+
+# game/day19.rpy:1172
+translate polish day19_b_handjob_75e037b1:
+
+    # p "Oh yes!"
+    p "Oh tak!"
+
+# game/day19.rpy:1173
+translate polish day19_b_handjob_bc35e96a:
+
+    # b "I'm going to make you cum so hard."
+    b "Spuścisz się dla mnie [p_name]?"
+
+# game/day19.rpy:1174
+translate polish day19_b_handjob_1c3e78dd:
+
+    # "{i}With short and powerful motions, she brings you closer and closer to orgasm until you just can't hold yourself together."
+    "{i}Krótkimi i mocnymi ruchami zbliża cię coraz bardziej do orgazmu, aż po prostu nie możesz się powstrzymać."
+
+# game/day19.rpy:1180
+translate polish day19_b_handjob_8e38f6f4:
+
+    # p "Aaaaaaaah!"
+    p "Aaaaaaaaah!"
+
+# game/day19.rpy:1182
+translate polish day19_b_handjob_a461bec6:
+
+    # "{i}Your sister doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}Twoja siostra nie puszcza Twojego penisa gdy obryzgujesz pościel strumieniami ciepłej spermy."
+
+# game/day19.rpy:1184
+translate polish day19_b_handjob_7f9b9a0a:
+
+    # "{i}[b_name] doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}[b_name] nie puszcza twojego kutasa, gdy wylewa strumienie ciepłego nasienia na pościel."
+
+# game/day19.rpy:1187
+translate polish day19_b_handjob_30ebf1ec:
+
+    # p "Apology accepted."
+    p "Przeprosiny przyjęte."
+
+# game/day19.rpy:1189
+translate polish day19_b_handjob_1684d2f2:
+
+    # b "Hahaha! Dickhead!"
+    b "Hahaha! Dupek!"
+
+# game/day19.rpy:1190
+translate polish day19_b_handjob_2239a90c:
+
+    # p "Cunt!"
+    p "Pizda!"
+
+# game/day19.rpy:1191
+translate polish day19_b_handjob_9cccb824:
+
+    # b "Wanker!"
+    b "Koniobijca!"
+
+# game/day19.rpy:1192
+translate polish day19_b_handjob_05c668f5:
+
+    # p "Hey! If I recall correctly, you did all the wanking."
+    p "Hej! Z tego co pamiętam, to Ty się wszystkim zajęłaś."
+
+# game/day19.rpy:1193
+translate polish day19_b_handjob_ee483489:
+
+    # b "Who cares! You're still a wanker!"
+    b "Co za różnica! I tak jesteś walikoniem!"
+
+# game/day19.rpy:1194
+translate polish day19_b_handjob_e76bb582:
+
+    # p "Hussy!"
+    p "Dziwka!"
+
+# game/day19.rpy:1195
+translate polish day19_b_handjob_91ae80f7:
+
+    # b "That's so low!"
+    b "To było poniżej pasa!"
+
+# game/day19.rpy:1196
+translate polish day19_b_handjob_58f581da:
+
+    # b "Fucknut!"
+    b "Pojebaniec!"
+
+# game/day19.rpy:1198
+translate polish day19_b_handjob_fa1ed663:
 
     # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of your sister's happy laughter."
-    "{i}Obelgi, którymi handlujesz, stają się coraz bardziej barokowe w miarę upływu czasu i po prostu nie możesz mieć dość radosnego śmiechu swojej siostry."
+    "{i}Obelgi, którymi się wymieniacie, stają się coraz bardziej wredne i nie możesz się wystarczająco nacieszyć radosnym śmiechem swojej siostry."
 
-# game/day19.rpy:947
-translate polish day19_evening_choices_7ba12db4:
+# game/day19.rpy:1199
+translate polish day19_b_handjob_c32b77cf:
+
+    # "{i}After one last kiss, you hold your giggling sister tight and together you soon fall asleep."
+    "{i}Po ostatnim pocałunku, obejmujesz mocno swoją chichoczącą siostrę i wkrótce oboje zasypiacie."
+
+# game/day19.rpy:1201
+translate polish day19_b_handjob_7ba12db4:
 
     # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of [b_name]'s happy laughter."
-    "{i}Obelgi, którymi handlujesz, stają się coraz bardziej barokowe w miarę upływu czasu i po prostu nie możesz mieć dość radosnego śmiechu [b_name]."# TODO: Translation updated at 2023-07-06 13:24
+    "{i}Obelgi, które wymieniasz, stają się coraz bardziej barokowe w miarę upływu czasu i po prostu nie możesz się nacieszyć radosnym śmiechem [b_name]."
 
-# game/day19.rpy:313
-translate polish day19_choices_ab24bcb4:
+# game/day19.rpy:1202
+translate polish day19_b_handjob_70c9f5b2:
 
-    # "{i}When you’re finished, Rebeca crawls toward Rachel, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
-    "{i}Kiedy skończysz, Rebeca czołga się w kierunku Rachel i oboje dzielą namiętny francuski pocałunek, włosy Rebecy łaskoczą twojego kutasa."
+    # "{i}After one last kiss, you hold your giggling lover tight and together you soon fall asleep."
+    "{i}Po ostatnim pocałunku mocno przytulasz swojego chichoczącego kochanka i razem szybko zasypiacie."
 
-# game/day19.rpy:317
-translate polish day19_choices_e7569246_1:
-
-    # n "He's big, isn't he, mother?"
-    n "Jest duży, prawda mamo?."
-
-# game/day19.rpy:341
-translate polish day19_choices_4e97e3b9:
-
-    # rb "Don't drain him just yet, girl. I want to have a go as well."
-    rb "Nie osuszaj go jeszcze dziewczyno, ja też chcę spróbować."
-
-# game/day19.rpy:648
-translate polish day19_evening_choices_8d474f4b_1:
-
-    # p "Who's going to hear us? We're in my room."
-    p "Kto nas usłyszy? Jesteśmy w moim pokoju."
-
-# game/day19.rpy:653
-translate polish day19_evening_choices_d1f5e97f_1:
-
-    # p "Relax, dear sis, I was just teasing you."
-    p "Spokojnie, siostrzyczko, tylko się z tobą droczyłem."
-
-# game/day19.rpy:655
-translate polish day19_evening_choices_83cf7ebc_1:
-
-    # p "Relax, dear [l_name], I was just teasing you."
-    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem."
-# TODO: Translation updated at 2023-07-17 14:24
-
-# game/day19.rpy:313
-translate polish day19_choices_e59bdeeb:
-
-    # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
-    "{i}Kiedy skończyłeś Rebeca czołga się do Nia i dwóch akcji namiętny francuski pocałunek Rebeca włosy łaskotanie przeciwko kogut."
-
->>>>>>> polish

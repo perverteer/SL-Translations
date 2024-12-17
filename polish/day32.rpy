@@ -314,7 +314,7 @@ translate polish day32_6fd4e2f0:
 translate polish day32_f8ecdbe3:
 
     # # # r "You fucking betrayed me with my own friend!"
-    r ""
+      r "Kurwa, zdradziłeś mnie z moją własną przyjaciółką!"
 
 # game/day32.rpy:100
 translate polish day32_b861c62a:
@@ -374,7 +374,7 @@ translate polish day32_7765808e:
 translate polish day32_b1366b1b:
 
     # # # r "And if you're worrying I'll run to [m_name] and tell her everything: don't worry."
-    r ""
+      r "A jeśli się martwisz, pobiegnę do [m_name] i powiem jej wszystko: nie martw się."
 
 # game/day32.rpy:113
 translate polish day32_0275104e:
@@ -518,7 +518,7 @@ translate polish day32_98957ca7:
 translate polish day32_6b0ec435:
 
     # # # r "One of my best friends, for God's sake."
-    r ""
+      r "Jeden z moich najlepszych przyjaciół, na litość boską"
 
 # game/day32.rpy:156
 translate polish day32_17d6e458:
@@ -806,7 +806,7 @@ translate polish day32_90105ddf:
 translate polish day32_bab3cbab:
 
     # # # r "As a friend."
-    r ""
+      r "Jako przyjaciel"
 
 # game/day32.rpy:220
 translate polish day32_0b6225ee:
@@ -1100,7 +1100,7 @@ translate polish day32_6e38bd96:
 translate polish day32_42bac4fc:
 
     # # # r "Though I'm not sure what to think of you hurting [b_name]'s feelings."
-    r ""
+      r "Chociaż nie jestem pewien, co myśleć o tym, że ranisz uczucia [b_name]."
 
 # game/day32.rpy:281
 translate polish day32_637c5ac9:
@@ -1550,7 +1550,7 @@ translate polish day32_2c4c0501:
 translate polish day32_3532ed72:
 
     # # # b "You say that, yet you have a relationship with my friend."
-    b ""
+      b "Mówisz tak, ale jesteś w związku z moim przyjacielem"
 
 # game/day32.rpy:393
 translate polish day32_75a08e6b:
@@ -1766,7 +1766,7 @@ translate polish day32_aec14a90:
 translate polish day32_36d0403b:
 
     # # # p "That you would come to love [r_name] as something more than a friend."
-    p ""
+      p "Abyś pokochał [r_name] jako kogoś więcej niż przyjaciela"
 
 # game/day32.rpy:438
 translate polish day32_fe34b5e6:
@@ -2336,7 +2336,7 @@ translate polish day32_07f9c1e2:
 translate polish day32_b4a95fe7:
 
     # # # p "Both as a friend and as... something more..."
-    p ""
+      p "Zarówno jako przyjaciel, jak i coś więcej"
 
 # game/day32.rpy:564
 translate polish day32_ed6a5622:
@@ -2768,7 +2768,7 @@ translate polish day32_evening_choices_7730c7b1:
 translate polish day32_evening_choices_7b0a818f:
 
     # # # "{i}The girl's excitement is affecting you and you both shuffle through the doors towards a large stage."
-    ""
+      "Podekscytowanie dziewczyny wpływa na ciebie i oboje przechodzicie przez drzwi w kierunku dużej sceny."
 
 # game/day32.rpy:686
 translate polish day32_evening_choices_a9bea359:
@@ -2882,7 +2882,7 @@ translate polish day32_evening_choices_8eac2e11:
 translate polish day32_evening_choices_7310d043:
 
     # # # "{i}As the band continues to play their terrible music, you passionately kiss your girlfriend, your hands trailing the curve of her body through the thin fabric of her dress."
-    ""
+      "{i} Gdy zespół kontynuuje granie swojej okropnej muzyki, namiętnie całujesz swoją dziewczynę, a twoje dłonie śledzą krzywiznę jej ciała przez cienki materiał jej sukienki."
 
 # game/day32.rpy:713
 translate polish day32_evening_choices_892a2449:
@@ -3206,7 +3206,7 @@ translate polish day32_evening_choices_b12dba4d:
 translate polish day32_evening_choices_8cc83238:
 
     # # # "{i}When you decide to focus just on the overpowering beat you're able to match your friend's dance moves."
-    ""
+      "{i}Kiedy zdecydujesz się skupić tylko na przytłaczającym rytmie, jesteś w stanie dopasować ruchy taneczne swojego przyjaciela."
 
 # game/day32.rpy:791
 translate polish day32_evening_choices_8e6b3cce:
@@ -3230,7 +3230,7 @@ translate polish day32_evening_choices_aceebf41:
 translate polish day32_evening_choices_80da28d2:
 
     # "{i}Everyone seems to be completely engrossed by the performance, your girlfriend included."
-    ""
+    "{i}Wszyscy wydają się być całkowicie pochłonięci występem twojej dziewczyny."
 
 # game/day32.rpy:799
 translate polish day32_evening_choices_83006318:
@@ -3314,7 +3314,7 @@ translate polish day32_evening_choices_574c4105:
 translate polish day32_evening_choices_06e16258:
 
     # # # "{i}Still smiling, your girl guides your hand towards the hem of her dress."
-    ""
+      "Wciąż uśmiechnięta dziewczyna prowadzi twoją dłoń w kierunku rąbka swojej sukienki."
 
 # game/day32.rpy:820
 translate polish day32_evening_choices_785f467c:
@@ -3332,7 +3332,7 @@ translate polish day32_evening_choices_b5689cfb:
 translate polish day32_evening_choices_58a6dd38:
 
     # "{i}As Valentina Glorious launches into a particular violent song, you slide a finger along your friend's moist lips."
-    ""
+    "{i}Gdy Valentina Glorious zaczyna swoją brutalną piosenkę, przesuwasz palcem po wilgotnych ustach swojej przyjaciółki."
 
 # game/day32.rpy:826
 translate polish day32_evening_choices_59d862c9:
@@ -3356,7 +3356,7 @@ translate polish day32_evening_choices_33d97a48:
 translate polish day32_evening_choices_4dc75456:
 
     # "{i}Your girl just sways her hips ever so little and smiles at you, her smiling eyes willing you to go further."
-    ""
+    "{i}Twoja dziewczyna po prostu kołysze biodrami i uśmiecha się do ciebie, a jej uśmiechnięte oczy zachęcają cię do pójścia dalej."
 
 # game/day32.rpy:833
 translate polish day32_evening_choices_5b32667f:
@@ -3386,7 +3386,7 @@ translate polish day32_evening_choices_c6400006:
 translate polish day32_evening_choices_c6af8202:
 
     # "{i}The surrounding mass of dancing people is oblivious to the fact that you're fingering your girlfriend, something that makes this moment so special for the both of you."
-    ""
+    "{i}Otaczająca masa tańczących ludzi jest nieświadoma faktu, że palcujesz swoją dziewczynę, co sprawia, że ta chwila jest tak wyjątkowa dla was obojga."
 
 # game/day32.rpy:841
 translate polish day32_evening_choices_b8490888:
@@ -3734,7 +3734,7 @@ translate polish day32_r_concert_hallway_post_f8bb8d8f:
 translate polish day32_r_concert_hallway_post_7c7170fa:
 
     # # # "{i}When your tongue presses against her lips, your friend arches her back and moans deeply."
-    ""
+      "Gdy twój język dotyka jej ust, twoja przyjaciółka wygina plecy w łuk i jęczy głęboko."
 
 # game/day32.rpy:923
 translate polish day32_r_concert_hallway_post_f4f85ddf:
@@ -3848,7 +3848,7 @@ translate polish day32_r_concert_hallway_post_3069e042:
 translate polish day32_r_concert_hallway_post_02f05a32:
 
     # # # "{i}Treating you to a view of her beautiful ass, your girlfriend slowly lowers herself onto your cock."
-    ""
+      "Traktując cię widokiem swojego pięknego tyłka, twoja dziewczyna powoli opuszcza się na twojego kutasa."
 
 # game/day32.rpy:952
 translate polish day32_r_concert_hallway_post_2519b86f:
@@ -4526,7 +4526,7 @@ translate polish day32_b_l_scene_dbd1fe01:
 translate polish day32_b_l_scene_0d9b7d7d:
 
     # b "{i}(She's one of my best friends, we can get a little intimate...)"
-    b ""
+    b "{i}(Jest jedną z moich najlepszych przyjaciółek, możemy się trochę zbliżyć)"
 
 # game/day32.rpy:1138
 translate polish day32_b_l_scene_ceaa4466:
@@ -4772,7 +4772,7 @@ translate polish day32_b_l_scene_e3108248:
 translate polish day32_b_l_scene_351a144a:
 
     # "{i}[b_name] slowly strokes her friend's bare skin with the vibrating toy."
-    ""
+    "{i}[b_name] powoli głaszcze nagą skórę przyjaciółki wibrującą zabawką."
 
 # game/day32.rpy:1186
 translate polish day32_b_l_scene_40ed52b0:
@@ -4814,7 +4814,7 @@ translate polish day32_b_l_scene_fa1c4df2:
 translate polish day32_b_l_scene_fd25c572:
 
     # "{i}After briefly teasing the sensitive area's of [l_name]'s thighs, [b_name] pushes the blue toy against her friend's moist pussy."
-    ""
+    "{i}Po krótkim drażnieniu wrażliwego obszaru ud [l_name] [b_name] przyciska niebieską zabawkę do wilgotnej cipki swojej przyjaciółki."
 
 # game/day32.rpy:1196
 translate polish day32_b_l_scene_a59e965f:
@@ -4862,7 +4862,7 @@ translate polish day32_b_l_scene_4ccf79c7:
 translate polish day32_b_l_scene_204d23fe:
 
     # "{i}Inch by inch, the ribbed vibrator enters the girl's pussy. [l_name] is now stroking her nipples and massaging her breasts with both hands, while [b_name] focuses her attention fully on her slit."
-    ""
+    "{i}Krok po kroku żebrowany wibrator wchodzi do cipki dziewczyny [l_name] głaszcze teraz jej sutki i masuje jej piersi obiema rękami, podczas gdy [b_name] skupia swoją uwagę w pełni na jej szczelinie."
 
 # game/day32.rpy:1207
 translate polish day32_b_l_scene_3831ba64:
@@ -5012,7 +5012,7 @@ translate polish day32_b_l_scene_c1d887a6:
 translate polish day32_b_l_scene_77d8a97c:
 
     # "{i}[l_name] attempts to mimic the other girl's behavior by teasing the sensitive area's of her body."
-    ""
+    "{i}[l_name] próbuje naśladować zachowanie drugiej dziewczyny, drażniąc wrażliwe obszary jej ciała."
 
 # game/day32.rpy:1238
 translate polish day32_b_l_scene_990b539e:
@@ -5084,7 +5084,7 @@ translate polish day32_b_l_scene_c423811a:
 translate polish day32_b_l_scene_a950ebcb:
 
     # # # "{i}Too engrossed to say anything, [l_name] inserts the vibrator inside her friend's pussy."
-    ""
+      "{i} Zbyt pochłonięta, by cokolwiek powiedzieć [l_name] wkłada wibrator do cipki swojej przyjaciółki."
 
 # game/day32.rpy:1254
 translate polish day32_b_l_scene_c2707261:
@@ -5132,7 +5132,7 @@ translate polish day32_b_l_scene_11bfb057:
 translate polish day32_b_l_scene_5659b394:
 
     # "{i}More juices squirt out of her as she holds her friend close, her body trembling and her voice reduced to whimpering moans."
-    ""
+    "{i}Więcej soków tryska z niej, gdy trzyma przyjaciela blisko, jej ciało drży, a jej głos sprowadza się do jęków."
 
 # game/day32.rpy:1269
 translate polish day32_b_l_scene_d2730cd5:
@@ -5306,7 +5306,7 @@ translate polish day32_b_l_scene_abe5fb36:
 translate polish day32_b_l_scene_20652c3d:
 
     # b "Sleep tight, [l_name]."
-    b ""
+    b "Śpij spokojnie [l_name]"
 
 # game/day32.rpy:1311
 translate polish day32_b_l_scene_419c3b43:
@@ -5431,4 +5431,222 @@ translate polish strings:
     # game/day32.rpy:698
     old "Singer"
     new "Piosenkarz"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day32.rpy:42
+translate polish day32_1974dee8:
+
+    # r "You're the best brother ever!"
+    r "Jesteś najlepszym bratem na świecie!"
+
+# game/day32.rpy:162
+translate polish day32_e9666f98:
+
+    # p "I know, and I feel like a total scumbag."
+    p "Wiem i czuję się jak ostatni śmieć."
+
+# game/day32.rpy:208
+translate polish day32_b97f944d:
+
+    # p "I kept things from you, and I shouldn't have."
+    p "Ukryłem to przed Tobą, a nie powinienem."
+
+# game/day32.rpy:336
+translate polish day32_9095e20e:
+
+    # "{i}(The hug lasts longer than you could have hoped for, and after you sit across each other again, [r_name] smiles at you.)"
+    "{i}(Uścisk trwa dłużej, niż mogłeś mieć nadzieję, a po tym, jak ponownie usiądziecie naprzeciwko siebie [r_name] uśmiecha się do ciebie)."
+
+# game/day32.rpy:479
+translate polish day32_b79e464b:
+
+    # "{i}After sweeping up [b_name] in your arms, you embrace for a very long time, both completely caught up in thought."
+    "{i}Bierzesz Bellę w swoje ramiona i ściskasz ją bardzo długo, oboje pogrążacie się w swoich rozmyślaniach."
+
+# game/day32.rpy:566
+translate polish day32_1ab2b90d:
+
+    # "{i}The look of anticipation and a hint of dread in [b_name]'s eyes is nearly too much for you, and you want to break your confession off, but you soldier on."
+    "{i}To jak Bella patrzy na Ciebie oczekująco, ze strachem w oczach, jest trudne do zniesienia i chcesz zrezygnować, ale zbierasz się do kupy."
+
+# game/day32.rpy:699
+translate polish day32_evening_choices_9bac5e9e:
+
+    # "{i}Your sister's excitement is affecting you, and you both shuffle through the doors towards a large stage."
+    "{i}Ekscytacja Twojej siostry zaczyna Ci się udzielać i oboje przeciskacie się przez drzwi, w kierunku wielkiej sceny."
+
+# game/day32.rpy:701
+translate polish day32_evening_choices_0715d7ec:
+
+    # "{i}The girl's excitement is affecting you, and you both shuffle through the doors towards a large stage."
+    "{i}Podekscytowanie dziewczyny wpływa na ciebie i oboje przechodzicie przez drzwi w kierunku dużej sceny."
+
+# game/day32.rpy:783
+translate polish day32_evening_choices_c5989b19:
+
+    # "{i}The lights are dimmed, and after a brief moment of silence, you're treated to a wall of sound washing over you."
+    "{i}Światła są przygasają i po krótkiej ciszy uderza Cię ściana dźwięku."
+
+# game/day32.rpy:793
+translate polish day32_evening_choices_fee57844:
+
+    # "{i}You notice the crowd doing much of the same, and pretty soon, you're standing amongst a writhing mass of people dancing to a pumping beat."
+    "{i}Zauważasz, że cały tłum robi praktycznie to samo i po chwili stoisz wśród wijącej się masy ludzi tańczących w rytm pompującego bitu."
+
+# game/day32.rpy:804
+translate polish day32_evening_choices_a6f49ae5:
+
+    # "{i}When you decide to focus just on the overpowering beat, you're able to match your sister's dance moves."
+    "{i}Kiedy decydujesz się skupić na samym tylko rytmie, udaje Ci się dopasować swoje ruchy do Twojej siostry."
+
+# game/day32.rpy:806
+translate polish day32_evening_choices_4ce2baad:
+
+    # "{i}When you decide to focus just on the overpowering beat, you're able to match your friend's dance moves."
+    "{i}Kiedy zdecydujesz się skupić tylko na przytłaczającym rytmie, jesteś w stanie dopasować ruchy taneczne swojego przyjaciela."
+
+# game/day32.rpy:810
+translate polish day32_evening_choices_71aa4032:
+
+    # "{i}Valentina Glorious's show isn't characterized by moments of quiet introspection, and if it weren't for [r_name], you'd tire of it very quickly."
+    "{i}Podczas występu Valentiny Glorious nie ma zbyt wielu okazji na cichą autorefleksję i gdyby nie Rachel, szybko byś się nim zmęczył."
+
+# game/day32.rpy:820
+translate polish day32_evening_choices_1aeefc63:
+
+    # p "I'm with you, and that's what counts."
+    p "Jestem tu z Tobą i to się liczy."
+
+# game/day32.rpy:825
+translate polish day32_evening_choices_27ce3545:
+
+    # "{i}[r_name] doesn't say anything further but continues to press her ass against your crotch, stimulating your growing erection until it has a proportion that she has to feel pressing against her butt."
+    "{i}Rachel nie mówi nic więcej, tylko dalej przyciska tyłek do Twojego krocza, stymulując Twoją rosnącą erekcję, aż osiąga rozmiar, przy której musiała wyczuć jej nacisk na swój tyłek."
+
+# game/day32.rpy:833
+translate polish day32_evening_choices_085ea513:
+
+    # "{i}Still smiling, your sister guides your hand toward the hem of her dress."
+    "{i}Wciąż się uśmiechając, twoja siostra prowadzi twoją rękę w kierunku rąbka swojej sukienki."
+
+# game/day32.rpy:835
+translate polish day32_evening_choices_2a4c30ab:
+
+    # "{i}Still smiling, your girl guides your hand toward the hem of her dress."
+    "{i}Wciąż uśmiechnięta dziewczyna prowadzi twoją rękę w kierunku rąbka swojej sukienki."
+
+# game/day32.rpy:850
+translate polish day32_evening_choices_1733d53c:
+
+    # "{i}With a little effort, you find her sweet spot and start to massage her clitoris with your fingers."
+    "{i}Przy odrobinie wysiłku znajdujesz jej słodkie miejsce i zaczynasz masować jej łechtaczkę palcami."
+
+# game/day32.rpy:862
+translate polish day32_evening_choices_91f81d2f:
+
+    # "{i}Right at that moment, the first few notes of another song begin to play, and the crowd goes absolutely mad."
+    "{i}W tym momencie zaczynają się pierwsze nuty kolejnej piosenki, publiczność kompletnie szaleje."
+
+# game/day32.rpy:874
+translate polish day32_evening_choices_1ca31b28:
+
+    # "{i}Most of the admiring crowd sing along word-for-word, [r_name] included. You just enjoy her smell, the closeness of her body, and the soft touch of her skin on yours."
+    "{i}Większość tłumu śpiewa z nią słowo w słowo, w tym Rachel, Ty po prostu cieszysz się jej zapachem, bliskością jej ciała i miękkim dotykiem jej skóry."
+
+# game/day32.rpy:904
+translate polish day32_evening_choices_f4c4dc9e:
+
+    # centered "{i}Meanwhile, back at the family home..."
+    centered "{i}Tymczasem w domu..."
+
+# game/day32.rpy:906
+translate polish day32_evening_choices_9eb61ddc:
+
+    # centered "{i}Meanwhile, back at your home..."
+    centered "{i}Tymczasem w domu..."
+
+# game/day32.rpy:913
+translate polish day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Bardzo zmęczony, rozbierasz się i padasz na materac, mając nadzieję, że szybko zaśniesz."
+
+# game/day32.rpy:1064
+translate polish day32_b_l_scene_004cf52c:
+
+    # b "Don't worry if something goes wrong, and tell me if something doesn't feel right."
+    b "Nie martw się, jeśli coś pójdzie nie tak i powiedz mi, jeśli z czymś poczujesz się źle."
+
+# game/day32.rpy:1188
+translate polish day32_b_l_scene_84c84695:
+
+    # "{i}The strength of [b_name]'s orgasm pushes the toy out of her cunt, and a stream of ejaculate squirts out of her constricting vagina."
+    "{i}Siła orgazmu Belli wypycha zabawkę z jej cipki i strumień ejakulatu tryska z jej zaciskającej się pochwy."
+
+# game/day32.rpy:1268
+translate polish day32_p_room_scene_9a092b12:
+
+    # "{i}A wet sensation lingers as you dream of a tongue licking your nipples, the fingers slowly lowering your boxer shorts and revealing the majesty of your erection."
+    "{i}Czujesz wilgoć, kiedy śnisz o języku liżącym Twoje sutki, palce powoli opuszczają bokserki i odsłaniają Twoją erekcję w całej okazałości."
+
+# game/day32.rpy:1269
+translate polish day32_p_room_scene_70ec7b1c:
+
+    # "{i}Something cold touches the palms of your hands, the insides of your wrists... an ice-cube, perhaps?"
+    "{i}Coś zimnego dotyka Twoich rąk, wnętrza nadgarstków... Może kostka lodu?"
+
+# game/day32.rpy:1276
+translate polish day32_p_room_scene_5fb57633:
+
+    # "{i}And when they finally do, it's already too late."
+    "{i}A kiedy w końcu to zrobią, będzie już za późno."
+
+# game/day32.rpy:1278
+translate polish day32_p_room_scene_6b22c18c:
+
+    # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
+    "{i}Po krótkiej dezorientacji, zauważasz osobę siedzącą na krześle obok Twojego łóżka."
+
+# game/day32.rpy:1346
+translate polish day32_r_concert_hallway_post_f6e04b76:
+
+    # "{i}Pretty soon, your mouth is filled with her juices, and [r_name] starts to zone out, her body rocking back and forth on the rhythm of your tonguing."
+    "{i}Niedługo Twoje usta wypełniają się jej sokami, a Rachel zaczyna odpływać, jej ciało kołysze się w przód i w tył w rytm ruchów Twojego języka."
+
+# game/day32.rpy:1371
+translate polish day32_r_concert_hallway_post_88d51047:
+
+    # "{i}Taking her slowly but passionately, you try to penetrate her as deep as possible to heighten your mutual pleasure."
+    "{i}Posuwając ją powoli, z namiętnością, próbujesz penetrować ją tak głęboko, jak to możliwe, aby zwiększyć waszą wzajemną przyjemność."
+
+# game/day32.rpy:1390
+translate polish day32_r_concert_hallway_post_2c81c5dd:
+
+    # "{i}Her first movements are a little clumsy, but after a while, she manages to establish a rhythm that feels extremely good, her ribbed tunnel stimulating your cock in all the right places."
+    "{i}Jej pierwsze ruchy są trochę niezdarne, ale po chwili udaje jej się ustalić rytm, który jest niezwykle przyjemny, a jej żebrowany tunel stymuluje twojego kutasa we wszystkich właściwych miejscach."
+
+# game/day32.rpy:1393
+translate polish day32_r_concert_hallway_post_aa76eb1b:
+
+    # "{i}However, the only thing that's important right now is fucking the gorgeous sylph that so willingly rides your erection."
+    "{i}Jednak jedyną ważną w tej chwili rzeczą jest ruchanie tej pięknej nimfy, która tak ochoczo ujeżdża Twojego penisa."
+
+# game/day32.rpy:1410
+translate polish day32_r_concert_hallway_post_d298e57b:
+
+    # "{i}A little forward sway of [r_name]'s hips, and your cock is already gushing cum inside her."
+    "{i}Wystarcza lekki ruch biodrami Rachel i już zaczynasz spuszczać się w jej wnętrzu."
+
+# game/day32.rpy:1432
+translate polish day32_r_concert_hallway_post_b3f02eb6:
+
+    # "{i}With your cock wrapped in her lips, she caresses the tip with her tongue, and cum comes gushing out, filling her mouth with cream."
+    "{i}Oplata Twojego penisa ustami, pieści czubek językiem i po chwili zaczynasz spuszczać się w jej ustach."
+
+# game/day32.rpy:1463
+translate polish day32_r_concert_post_981ba0eb:
+
+    # "{i}At that moment, you're interrupted by angry screams coming from the hallway, and you see the door being pushed slightly open."
+    "{i}W tym momencie przerywają Ci wściekłe okrzyki dochodzące z korytarza i zauważasz, że drzwi się otwierają."
 

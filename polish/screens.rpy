@@ -468,369 +468,6 @@
     old "Menu"
     new "Menu"
 
-init -501 screen preferences():
-    tag menu
-
-
-    if renpy.mobile:
-        $ cols = 2
-    else:
-        $ cols = 4
-
-    use game_menu(_("Preferences"), scroll="viewport"):
-
-        vbox:
-
-            hbox:
-                box_wrap True
-
-                if renpy.variant("pc"):
-
-                    vbox:
-                        style_prefix "radio"
-                        label _("Display")
-                        textbutton _("Window") action Preference("display", "window")
-                        textbutton _("Fullscreen") action Preference("display", "fullscreen")
-
-                vbox:
-                    style_prefix "radio"
-                    label _("Rollback Side")
-                    textbutton _("Disable") action Preference("rollback side", "disable")
-                    textbutton _("Left") action Preference("rollback side", "left")
-                    textbutton _("Right") action Preference("rollback side", "right")
-
-                vbox:
-                    style_prefix "check"
-                    label _("Skip")
-                    textbutton _("Unseen Text") action Preference("skip", "toggle")
-                    textbutton _("After Choices") action Preference("after choices", "toggle")
-                    textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
-
-                vbox:
-                    style_prefix "check"
-                    label _("Statistics")
-                    textbutton _("Show") action gui.SetPreference("character_buttons", True)
-                    textbutton _("Hide") action gui.SetPreference("character_buttons", False)
-
-                vbox:
-                    style_prefix "pref"
-                    label _("Language")
-                    textbutton _("English") action Language(None)
-                    textbutton _("French") action Language("french")
-                    textbutton _("Italian") action Language("italian")
-                    textbutton _("Spanish") action Language("spanish")
-                    textbutton _("Polish") action Language("polish")
-
-
-
-            null height (4 * gui.pref_spacing)
-
-            hbox:
-                style_prefix "slider"
-                box_wrap True
-
-                vbox:
-
-                    label _("Text Speed")
-
-                    bar value Preference("text speed")
-
-                    label _("Auto-Forward Time")
-
-                    bar value Preference("auto-forward time")
-
-                vbox:
-
-                    if config.has_music:
-                        label _("Music Volume")
-
-                        hbox:
-                            bar value Preference("music volume")
-
-                    if config.has_sound:
-
-                        label _("Sound Volume")
-
-                        hbox:
-                            bar value Preference("sound volume")
-
-                            if config.sample_sound:
-                                textbutton _("Test") action Play("sound", config.sample_sound)
-
-
-                    if config.has_voice:
-                        label _("Voice Volume")
-
-                        hbox:
-                            bar value Preference("voice volume")
-
-                            if config.sample_voice:
-                                textbutton _("Test") action Play("voice", config.sample_voice)
-
-                    if config.has_music or config.has_sound or config.has_voice:
-                        null height gui.pref_spacing
-
-                        textbutton _("Mute All"):
-                            action Preference("all mute", "toggle")
-                            style "mute_all_button"
-
-
-
-init -501 screen statistics():
-    tag menu
-    style_prefix "statistics"
-
-    zorder 100
-
-
-    modal True
-
-    python:
-        r_trust = r_attr.get_trust()
-        r_corruption = r_attr.get_corruption()
-
-        b_trust = b_attr.get_trust()
-        b_corruption = b_attr.get_corruption()
-
-        l_trust = l_attr.get_trust()
-        l_corruption = l_attr.get_corruption()
-
-        m_trust = m_attr.get_trust()
-        m_corruption = m_attr.get_corruption()
-
-        try: r_relationship
-        except NameError: r_relationship = False
-
-        try: r_pregnancy
-        except NameError: r_pregnancy = False
-
-        try: b_relationship
-        except NameError: b_relationship = False
-
-        try: b_pregnancy
-        except NameError: b_pregnancy = False
-
-        try: b_relationship_soft
-        except NameError: b_relationship_soft = False
-
-        try: l_relationship
-        except NameError: l_relationship = False
-
-        try: l_pregnancy
-        except NameError: l_pregnancy = False
-
-        try: m_relationship
-        except NameError: m_relationship = False
-
-        try: m_pregnancy
-        except NameError: m_pregnancy = False
-
-        try: m_relationship_soft
-        except NameError: m_relationship_soft = False
-
-        r_relationship_label = __('Yes') if r_relationship else __('No')
-        if b_relationship:
-            b_relationship_label = __('Yes (Dominant)')
-        elif b_relationship_soft:
-            b_relationship_label = __('Yes (Love)')
-        else:
-            b_relationship_label = __('No')
-        l_relationship_label = __('Yes') if l_relationship else __('No')
-
-        if m_relationship and m_relationship_soft:
-            m_relationship_label = __('Yes (Discreet & Love)')
-        elif m_relationship:
-            m_relationship_label = __('Yes (Discreet)')
-        elif m_relationship_soft:
-            m_relationship_label = __('Yes (Love)')
-        else:
-            m_relationship_label = __('No')
-
-        r_pregnancy_label = __('Yes') if r_pregnancy else __('No')
-        b_pregnancy_label = __('Yes') if b_pregnancy else __('No')
-        l_pregnancy_label = __('Yes') if l_pregnancy else __('No')
-        m_pregnancy_label = __('Yes') if m_pregnancy else __('No')
-
-    frame:
-        if preferences.language == "polish":
-            style_prefix "statistics"
-
-            xfill True
-            yfill True
-            background gui.hover_color
-
-            vbox
-            textbutton _("[[x] Close"):
-                xalign 1.0
-                action Hide('statistics')
-
-            frame:
-                xfill True
-                yfill True
-                background None
-
-                has grid 2 2
-                hbox:
-                    spacing 15
-                    add "gui/avatar_rachel.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[r_name]")
-
-                        text _("Trust: {b}[r_trust]")
-                        text _("Corruption: {b}[r_corruption]")
-                        text _("Relationship: {b}[r_relationship_label]")
-                        text _("Pregnant: {b}[r_pregnancy_label]")
-
-
-                hbox:
-                    spacing 15
-                    add "gui/avatar_bella.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[b_name]")
-
-                        text _("Trust: {b}[b_trust]")
-                        text _("Corruption: {b}[b_corruption]")
-                        text _("Relationship: {b}[b_relationship_label]")
-                        text _("Pregnant: {b}[b_pregnancy_label]")
-                hbox:
-                    spacing 15
-                    add "gui/avatar_liza.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[l_name]")
-
-                        text _("Trust: {b}[l_trust]")
-                        text _("Corruption: {b}[l_corruption]")
-                        text _("Relationship: {b}[l_relationship_label]")
-                        text _("Pregnant: {b}[l_pregnancy_label]")
-                hbox:
-                    spacing 15
-                    add "gui/avatar_mrs_smith.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[m_name]")
-
-                        text _("Trust: {b}[m_trust]")
-                        text _("Corruption: {b}[m_corruption]")
-                        text _("Relationship: {b}[m_relationship_label]")
-                        text _("Pregnant: {b}[m_pregnancy_label]")
-
-
-
-
-        else:
-            style_prefix "statistics"
-
-            xfill True
-            yfill True
-            background gui.hover_color
-
-            vbox
-            textbutton _("[[x] Close"):
-                xalign 1.0
-                action Hide('statistics')
-
-            frame:
-                xfill True
-                yfill True
-                background None
-
-                has grid 2 2
-                hbox:
-                    spacing 15
-                    add "gui/avatar_rachel.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[r_name]")
-                            textbutton _("Edit"):
-                                text_size 25
-                                background "#cc0066"
-                                hover_background "#EFC6E1"
-                                action Show("custom_input_modal", label_text="Rename girl", variable_name="r_name")
-                        text _("Trust: {b}[r_trust]")
-                        text _("Corruption: {b}[r_corruption]")
-                        text _("Relationship: {b}[r_relationship_label]")
-                        text _("Pregnant: {b}[r_pregnancy_label]")
-
-
-                hbox:
-                    spacing 15
-                    add "gui/avatar_bella.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[b_name]")
-                            textbutton _("Edit"):
-                                text_size 25
-                                background "#cc0066"
-                                hover_background "#EFC6E1"
-                                action Show("custom_input_modal", label_text="Rename girl", variable_name="b_name")
-                        text _("Trust: {b}[b_trust]")
-                        text _("Corruption: {b}[b_corruption]")
-                        text _("Relationship: {b}[b_relationship_label]")
-                        text _("Pregnant: {b}[b_pregnancy_label]")
-                hbox:
-                    spacing 15
-                    add "gui/avatar_liza.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[l_name]")
-                            textbutton _("Edit"):
-                                text_size 25
-                                background "#cc0066"
-                                hover_background "#EFC6E1"
-                                action Show("custom_input_modal", label_text="Rename girl", variable_name="l_name")
-                        text _("Trust: {b}[l_trust]")
-                        text _("Corruption: {b}[l_corruption]")
-                        text _("Relationship: {b}[l_relationship_label]")
-                        text _("Pregnant: {b}[l_pregnancy_label]")
-                hbox:
-                    spacing 15
-                    add "gui/avatar_mrs_smith.png" zoom 0.8
-                    vbox:
-                        hbox:
-                            spacing 15
-
-                            text _("{b}{size=+5}[m_name]")
-                            textbutton _("Edit"):
-                                text_size 25
-                                background "#cc0066"
-                                hover_background "#EFC6E1"
-                                action Show("custom_input_modal", label_text="Rename girl", variable_name="m_name")
-                        text _("Trust: {b}[m_trust]")
-                        text _("Corruption: {b}[m_corruption]")
-                        text _("Relationship: {b}[m_relationship_label]")
-                        text _("Pregnant: {b}[m_pregnancy_label]")
-
-init -1 style statistics_button_text:
-    size 30
-    hover_color gui.accent_color
-
-init -1 style statistics_grid:
-    spacing 60
-    xalign 0.5
-    yalign 0.5
-
-init -1 style statistics_text:
-    size 40
-
-
-    
 # [1.1.4] Update. Generated: 2022-02-23 18:06
 
 translate polish strings:
@@ -861,4 +498,119 @@ translate polish strings:
 
     # game/screens.rpy:1387
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Y/Top Button"# TODO: Translation updated at 2024-11-18 13:59
+
+translate polish strings:
+
+    # game/screens.rpy:181
+    old "[[b] Close"
+    new "[[b] Zamknij"
+
+    # game/screens.rpy:208
+    old "Rename girl"
+    new "Zmień nazwę dziewczyny"
+
+    # game/screens.rpy:540
+    old "Achievements"
+    new "Osiągnięcia"
+
+    # game/screens.rpy:547
+    old "Bonus"
+    new "Bonus"
+
+    # game/screens.rpy:842
+    old "Achievements Unlocked: %d / %d"
+    new "Osiągnięcia odblokowane: %d / %d"
+
+    # game/screens.rpy:874
+    old "Version "
+    new "Wersja"
+
+    # game/screens.rpy:874
+    old "[config.version!t]\n"
+    new "[config.version!t]\n"
+
+    # game/screens.rpy:880
+    old "Translations"
+    new "Tłumaczenia"
+
+    # game/screens.rpy:883
+    old "Voice Acting"
+    new "Aktorstwo głosowe"
+
+    # game/screens.rpy:886
+    old "Music"
+    new "Muzyka"
+
+    # game/screens.rpy:908
+    old "{a=[track[website]]}[track[website]]{/a}"
+    new "{a=[track[website]]}[track[website]]{/a}"
+
+    # game/screens.rpy:909
+    old "License: "
+    new "Licencja: "
+
+    # game/screens.rpy:909
+    old "{a=[track[license_url]]}[track[license]]{/a}"
+    new "{a=[track[license_url]]}[track[license]]{/a}"
+
+    # game/screens.rpy:911
+    old "Website: "
+    new "Website: "
+
+    # game/screens.rpy:911
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    # game/screens.rpy:915
+    old "Sound Effects"
+    new "Efekty dźwiękowe"
+
+    # game/screens.rpy:1195
+    old "Portuguese"
+    new "Portugalski"
+
+    # game/screens.rpy:1196
+    old "Russian"
+    new "Rosyjski"
+
+    # game/screens.rpy:1617
+    old "View by: "
+    new "Wyświetlane przez: "
+
+    # game/screens.rpy:1619
+    old "Days"
+    new "Dni"
+
+    # game/screens.rpy:1621
+    old "Character"
+    new "Postać"
+
+# TODO: Translation updated at 2024-11-19 10:22
+
+translate polish strings:
+
+    # game/screens.rpy:1198
+    old "Turkish"
+    new "Turecki"
+
+# TODO: Translation updated at 2024-11-29 09:52
+
+translate polish strings:
+
+    # game/screens.rpy:1189
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1190
+    old "Connect your toy"
+    new "Podłącz swoją zabawkę"
+
+# TODO: Translation updated at 2024-12-11 17:20
+
+translate polish strings:
+
+    # game/screens.rpy:1210
+    old "Chinese (Simplified)"
+    new "Chiński (uproszczony)"
+

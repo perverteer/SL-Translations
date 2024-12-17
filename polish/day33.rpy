@@ -548,7 +548,7 @@ translate polish day33_8e107db1:
 translate polish day33_291ff673:
 
     # "{i}As [r_name] starts blowing you, Valentina turns her attention to your girlfriend."
-    ""
+    "{i}Gdy [r_name] zaczyna ci obciągać, Valentina zwraca uwagę na twoją dziewczynę."
 
 # game/day33.rpy:151
 translate polish day33_668456bc:
@@ -740,7 +740,7 @@ translate polish day33_f23fb9a9:
 translate polish day33_9a4d25e2:
 
     # "{i}You hear a small sigh of relief as a torrent of piss escapes from your girlfriend's pussy."
-    ""
+    "{i}Słyszysz małe westchnienie ulgi, gdy strumień sików ucieka z cipki twojej dziewczyny."
 
 # game/day33.rpy:200
 translate polish day33_9621e813:
@@ -884,7 +884,7 @@ translate polish day33_64bbdadb:
 translate polish day33_dee849c1:
 
     # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your girl, mixed with Valentina's perfume."
-    ""
+    "{i}Jej ciało jest wciąż śliskie od szczyn [r_name], a ty czujesz zapach piżma swojej dziewczyny zmieszany z perfumami Valentiny."
 
 # game/day33.rpy:239
 translate polish day33_bfc84d23:
@@ -914,7 +914,7 @@ translate polish day33_f3cafd2a:
 translate polish day33_2afe7a86:
 
     # "{i}You see your girlfriend kneel before Valentina's cunt and her tongue darts out to stimulate both your cock and the other girl's pussy."
-    ""
+    "{i}Widzisz, jak twoja dziewczyna klęka przed cipką Valentiny, a jej język wysuwa się, by stymulować zarówno twojego kutasa, jak i cipkę drugiej dziewczyny."
 
 # game/day33.rpy:248
 translate polish day33_348a1b48:
@@ -980,7 +980,7 @@ translate polish day33_c56d315b:
 translate polish day33_7490e1b3:
 
     # "{i}Your girlfriend embraces you and you kiss her passionately, her moist pussy rubbing against your upper leg."
-    ""
+    "{i}Twoja dziewczyna obejmuje cię i całujesz ją namiętnie, a jej wilgotna cipka ociera się o twoją nogę."
 
 # game/day33.rpy:266
 translate polish day33_9a270917:
@@ -1136,7 +1136,7 @@ translate polish day33_79bb202d:
 translate polish day33_1c5caf83:
 
     # "{i}You continue to fuck your girlfriend, while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
-    ""
+    "{i}Nadal pieprzysz swoją dziewczynę, podczas gdy mokre odgłosy spomiędzy twoich nóg mówią ci, że Valentina na przemian sonduje tyłek [r_name] i liże jej cipę."
 
 # game/day33.rpy:300
 translate polish day33_2d5f1493:
@@ -1226,7 +1226,7 @@ translate polish day33_3b242f48:
 translate polish day33_e21ca33c:
 
     # "{i}At that moment you lose it completely and with sheer force of will you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
-    ""
+    "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na otwarte usta Valentiny i twojej dziewczyny."
 
 # game/day33.rpy:324
 translate polish day33_49da5a30:
@@ -1280,7 +1280,7 @@ translate polish day33_23113a4f:
 translate polish day33_52b6569e:
 
     # "{i}At that moment you lose it completely and with sheer force of will you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
-    ""
+    "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na wyprostowane klatki piersiowe Valentiny i twojej dziewczyny."
 
 # game/day33.rpy:343
 translate polish day33_2274da4f:
@@ -1298,7 +1298,7 @@ translate polish day33_0be19e5f:
 translate polish day33_a92aad23:
 
     # "{i}Despite your nearing orgasm and fucking your girlfriend, you want to feel how it is to unload inside Valentina."
-    ""
+    "{i}Pomimo zbliżającego się orgazmu i pieprzenia swojej dziewczyny, chcesz poczuć, jak to jest rozładować się w Valentinie."
 
 # game/day33.rpy:355
 translate polish day33_3f709208:
@@ -1364,7 +1364,7 @@ translate polish day33_a2cab32c:
 translate polish day33_d3931acc:
 
     # "{i}Fucking your girlfriend is more than enough for you and you just want her to receive your load."
-    ""
+    "{i}Pieprzenie swojej dziewczyny jest dla ciebie więcej niż wystarczające i chcesz tylko, żeby przyjęła twój ładunek."
 
 # game/day33.rpy:382
 translate polish day33_80530500:
@@ -1382,7 +1382,7 @@ translate polish day33_13fd9db0:
 translate polish day33_b09404f7:
 
     # "{i}At that moment you release a flow of warm semen, holding [r_name] very tightly."
-    ""
+    "{i}W tym momencie uwalniasz strumień ciepłego nasienia, trzymając [r_name] bardzo mocno."
 
 # game/day33.rpy:388
 translate polish day33_8cc7bcbe:
@@ -2024,7 +2024,7 @@ translate polish day33_choices_28bbaa02:
 translate polish day33_choices_63439156:
 
     # b "I was worried sick, but you said absolutely fucking nothing and yet you're fucking my own friend behind my back?!"
-    b ""
+    b "Martwiłem się, ale nie powiedziałeś absolutnie nic, a mimo to pieprzysz się z moim przyjacielem za moimi plecami?!"
 
 # game/day33.rpy:561
 translate polish day33_choices_035c3674:
@@ -2306,7 +2306,7 @@ translate polish day33_choices_9dcf9163:
 translate polish day33_choices_f53220a3:
 
     # "{i}You talk some more, until you hear one of your other friend's coming home and you leave [b_name] to avoid any suspicion."
-    ""
+    "{i}Rozmawiasz jeszcze trochę, aż słyszysz, że jeden z twoich kolegów wraca do domu i opuszczasz [b_name], aby uniknąć podejrzeń."
 
 # game/day33.rpy:640
 translate polish day33_choices_18e42ecc_1:
@@ -2444,19 +2444,19 @@ translate polish day33_choices_f6c73f9d:
 translate polish day33_choices_5ceb1415:
 
     # b "She one of my friends!"
-    b ""
+    b "To jedna z moich przyjaciółek!"
 
 # game/day33.rpy:670
 translate polish day33_choices_fd4cc0a1:
 
     # p "That works out perfectly then."
-    p ""
+    p "W takim razie działa idealnie"
 
 # game/day33.rpy:671
 translate polish day33_choices_3e35b6c2:
 
     # p "A lot of intimacy already established."
-    p ""
+    p "Dużo intymności już zostało ustanowione"
 
 # game/day33.rpy:672
 translate polish day33_choices_2686d480:
@@ -2606,7 +2606,7 @@ translate polish day33_choices_76ba395b:
 translate polish day33_choices_3f8b7c04:
 
     # p "That's my obedient little girlfriend!"
-    p ""
+    p "To moja posłuszna mała dziewczynka!"
 
 # game/day33.rpy:705
 translate polish day33_choices_50c51807:
@@ -2642,7 +2642,7 @@ translate polish day33_choices_e2580a63:
 translate polish day33_choices_8637cad2:
 
     # b "Only when my boyfriend is acting like a dickhead."
-    b ""
+    b "Tylko wtedy, gdy mój chłopak zachowuje się jak palant"
 
 # game/day33.rpy:715
 translate polish day33_choices_5de10054:
@@ -2654,7 +2654,7 @@ translate polish day33_choices_5de10054:
 translate polish day33_choices_af125a36:
 
     # "{i}You laugh and talk some more, until you hear one of your other friend's coming home and you leave [b_name] to avoid any suspicion."
-    ""
+    "{i}Śmiejesz się i rozmawiasz, dopóki nie usłyszysz, że jeden z twoich przyjaciół wraca do domu i opuszczasz [b_name], aby uniknąć podejrzeń."
 
 # game/day33.rpy:722
 translate polish day33_choices_f15380a0:
@@ -2744,7 +2744,7 @@ translate polish day33_evening_choices_81191c57:
 translate polish day33_evening_choices_04f05fa0:
 
     # "{i}Your friend nestles herself against your chest and closes her eyes contently."
-    ""
+    "{i}Twoja przyjaciółka wtula się w twoją klatkę piersiową i z zadowoleniem zamyka oczy."
 
 # game/day33.rpy:756
 translate polish day33_evening_choices_19d4b678:
@@ -3188,7 +3188,7 @@ translate polish day33_evening_choices_c0c4b7da:
 translate polish day33_evening_choices_60a4a4db:
 
     # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
-    ""
+    "{i}Mokre uczucie soli i perfum wzmacnia twoją determinację, by dać przyjaciółce najlepszy orgazm w jej życiu."
 
 # game/day33.rpy:856
 translate polish day33_evening_choices_1de5cddf:
@@ -3308,7 +3308,7 @@ translate polish day33_evening_choices_63f96824:
 translate polish day33_evening_choices_8bb89d35:
 
     # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen you know you've struck gold."
-    ""
+    "{i}Znalezienie odpowiedniego miejsca zajmuje chwilę, ale kiedy widzisz, jak oczy twojego przyjaciela się rozszerzają, wiesz, że trafiłeś w złoto."
 
 # game/day33.rpy:885
 translate polish day33_evening_choices_b640cf42:
@@ -3350,7 +3350,7 @@ translate polish day33_evening_choices_9546d3ca:
 translate polish day33_evening_choices_9cb122f0:
 
     # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
-    ""
+    "{i}Konwulsje jej pochwy zmuszają cię do wyciągnięcia palców, które następnie zostają spryskane wytryskiem twojej dziewczyny."
 
 # game/day33.rpy:898
 translate polish day33_evening_choices_434e914b:
@@ -3368,7 +3368,7 @@ translate polish day33_evening_choices_5ebbfd58:
 translate polish day33_evening_choices_d9822a5e:
 
     # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
-    ""
+    "{i}Twój przyjaciel nadal trzyma cię w ciasnym uścisku, oddychając z ulgą i mimowolnie drżąc w nieregularnych odstępach czasu."
 
 # game/day33.rpy:904
 translate polish day33_evening_choices_619ac3f5:
@@ -3638,7 +3638,7 @@ translate polish day33_p_room_scene_3434e82a:
 translate polish day33_p_room_scene_e8fcc988:
 
     # p "As a friend and something more."
-    p ""
+    p "Jako przyjaciel i coś więcej"
 
 # game/day33.rpy:989
 translate polish day33_p_room_scene_48758449:
@@ -3788,7 +3788,7 @@ translate polish day33_p_room_scene_bd8cae9a:
 translate polish day33_p_room_scene_2978ee14:
 
     # p "My confession about Discreet on top of our love would have destroyed things."
-    p ""
+    p "Moje wyznanie o dyskrecji w połączeniu z naszą miłością zniszczyłoby wszystko."
 
 # game/day33.rpy:1025
 translate polish day33_p_room_scene_05b08415:
@@ -3842,7 +3842,7 @@ translate polish day33_p_room_scene_8e6ed39b:
 translate polish day33_p_room_scene_118dd098:
 
     # m "But I'm supposed to be your friend!"
-    m ""
+    m "Ale ja powinienem być twoim przyjacielem!"
 
 # game/day33.rpy:1041
 translate polish day33_p_room_scene_7b5d073d:
@@ -4040,7 +4040,7 @@ translate polish day33_p_room_scene_d255f680:
 translate polish day33_p_room_scene_40d68934:
 
     # "{i}Wearing a sad expression, [m_name] unlocks one of the shackles and throws you the key."
-    ""
+    "{i}Przybierając smutny wyraz twarzy [m_name] odblokowuje jedną z kajdan i rzuca ci klucz."
 
 # game/day33.rpy:1099
 translate polish day33_p_room_scene_243d799b:
@@ -4184,7 +4184,7 @@ translate polish day33_p_room_scene_d255f680_1:
 translate polish day33_p_room_scene_40d68934_1:
 
     # "{i}Wearing a sad expression, [m_name] unlocks one of the shackles and throws you the key."
-    ""
+    "{i}Przybierając smutny wyraz twarzy [m_name] odblokowuje jedną z kajdan i rzuca ci klucz."
 
 # game/day33.rpy:1147
 translate polish day33_p_room_scene_243d799b_1:
@@ -4328,7 +4328,7 @@ translate polish day33_m_bj_dbf387bb:
 translate polish day33_m_bj_61d4e2af:
 
     # "{i}[m_name]'s soft hand wraps around your proud erection and when she slowly jerks you off a small moan escapes you."
-    ""
+    "{i}Miękka dłoń [m_name] owija się wokół twojej dumnej erekcji, a kiedy powoli cię szarpie, wymyka ci się mały jęk."
 
 # game/day33.rpy:1190
 translate polish day33_m_bj_17856191:
@@ -4400,7 +4400,7 @@ translate polish day33_m_bj_6d483d58:
 translate polish day33_m_bj_98d14910:
 
     # "{i}Just when you think she's about to grab your penis again, your friend lowers her head and licks the ejaculate from the tip of your cock, maintaining eye-contact all the while."
-    ""
+    "{i}Właśnie wtedy, gdy myślisz, że ma zamiar ponownie chwycić twojego penisa, twoja przyjaciółka opuszcza głowę i zlizuje wytrysk z czubka twojego kutasa, utrzymując kontakt wzrokowy przez cały czas."
 
 # game/day33.rpy:1212
 translate polish day33_m_bj_8d8ebda5:
@@ -4460,7 +4460,7 @@ translate polish day33_m_bj_385e2146:
 translate polish day33_m_bj_63f29701:
 
     # "{i}[m_name] grins as another spurt of precum emerges from your tip and oozes down your shaft."
-    ""
+    "{i}[m_name] uśmiecha się, gdy kolejny wytrysk precum wyłania się z twojego czubka i spływa w dół twojego trzonu."
 
 # game/day33.rpy:1227
 translate polish day33_m_bj_f9e47847:
@@ -4562,7 +4562,7 @@ translate polish day33_m_bj_409ead75:
 translate polish day33_m_bj_596cec38:
 
     # "{i}As your hands are chained, you cannot guide your friend's cocksucking and she's therefore completely in control."
-    ""
+    "{i}Ponieważ twoje ręce są skute, nie możesz kierować ruchaniem swojej przyjaciółki, a zatem ona ma całkowitą kontrolę."
 
 # game/day33.rpy:1260
 translate polish day33_m_bj_e54a37e4:
@@ -4574,7 +4574,7 @@ translate polish day33_m_bj_e54a37e4:
 translate polish day33_m_bj_ff7b05aa:
 
     # "{i}When you extend a hand to guide your friend's cocksucking she brushes it violently aside, she obviously wants to be completely in control."
-    ""
+    "{i}Kiedy wyciągasz rękę, aby pokierować ruchaniem swojej przyjaciółki, ona odsuwa ją gwałtownie na bok, najwyraźniej chce mieć całkowitą kontrolę."
 
 # game/day33.rpy:1263
 translate polish day33_m_bj_3780881c:
@@ -4628,7 +4628,7 @@ translate polish day33_m_bj_efccf411:
 translate polish day33_m_bj_33c7ef11:
 
     # "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your friend's mouth."
-    ""
+    "{i}Kilka ruchów języka [m_name] wystarczy, aby potok spermy zalał usta twojego przyjaciela."
 
 # game/day33.rpy:1279
 translate polish day33_m_bj_ece04793:
@@ -4646,7 +4646,7 @@ translate polish day33_m_bj_ece3b8bf:
 translate polish day33_m_bj_56e7676c:
 
     # "{i}A few flicks of [m_name]'s tongue are enough to start a torrent of cum flooding your friend's chest as she allows your member to escape her mouth."
-    ""
+    "{i}Kilka ruchów języka [m_name] wystarczy, aby potok spermy zalał klatkę piersiową twojej przyjaciółki, gdy pozwoli twojemu członkowi uciec z jej ust."
 
 # game/day33.rpy:1292
 translate polish day33_m_bj_e0fd1121:
@@ -4988,13 +4988,13 @@ translate polish day33_b_harem_talk_196efe97:
 translate polish day33_b_harem_talk_1b703639:
 
     # b "I think [r_name] could be more than a friend to me."
-    b ""
+    b "Myślę, że [r_name] może być dla mnie kimś więcej niż przyjacielem"
 
 # game/day33.rpy:1376
 translate polish day33_b_harem_talk_865a106f:
 
     # b "Maybe I've always had feelings for girls, I just haven't acted on it."
-    b ""
+    b "Może zawsze coś czułem do dziewczyn, tylko nie działałem zgodnie z tym."
 
 # game/day33.rpy:1377
 translate polish day33_b_harem_talk_58c7ba54:
@@ -5132,7 +5132,7 @@ translate polish day33_b_harem_talk_9dcf9163:
 translate polish day33_b_harem_talk_f53220a3:
 
     # "{i}You talk some more, until you hear one of your other friend's coming home and you leave [b_name] to avoid any suspicion."
-    ""
+    "{i}Rozmawiasz jeszcze trochę, aż słyszysz, że jeden z twoich kolegów wraca do domu i opuszczasz [b_name], aby uniknąć podejrzeń."
 
 translate polish strings:
 
@@ -5184,457 +5184,1691 @@ translate polish strings:
     old "I don't"
     new "Nie"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day33.rpy:90
+# game/day33.rpy:94
 translate polish day33_d9c03d33:
 
     # va "You know, I usually don't do this."
     va "Wiesz, że zwykle tego nie robię"
 
-# game/day33.rpy:92
+# game/day33.rpy:96
 translate polish day33_7e0d9a21:
 
     # va "I realize this is the equivalent of 'Hey! Wanna fuck?', but I'm always kinda horny after a gig, and you happen to be wandering around naked here."
-    va "Zdaję sobie sprawę, że to odpowiednik 'Hej! Chcesz się pieprzyć?', ale zawsze jestem napalony po koncercie, a ty przypadkiem włóczysz się tu nago."
+    va "Zdaję sobie sprawę, że to odpowiednik 'Siema! Ruchasz się?', ale zawsze jestem trochę napalona po koncercie, a zdarzyło się, że jesteście tutaj nago."
 
-# game/day33.rpy:127
-translate polish day33_0b386afd:
-
-    # "{i}[r_name] seems to treat Valentina as a rather precious object at first, but as lust takes the upper hand, her touches become more self-assured and fueled by the greed you know all too well."
-    "{i}[r_name] na początku wydaje się traktować Valentinę jako dość cenny obiekt, ale w miarę jak pożądanie bierze górę, jej dotknięcia stają się bardziej pewne siebie i podsycane przez chciwość, którą znasz aż za dobrze."
-
-# game/day33.rpy:134
-translate polish day33_50670608:
-
-    # "{i}[r_name] is the first to use her tongue, working on the head of your dick and proving to you she knows exactly where your sensitive spots are."
-    "{i}[r_name] jako pierwsza używa swojego języka pracując na główce Twojego kutasa i udowadniając Ci, że wie dokładnie gdzie są Twoje czułe miejsca."
-
-# game/day33.rpy:137
-translate polish day33_50061cf3:
-
-    # "{i}From he first taste of your cock she gets from [r_name]'s lips and the smoldering look she gives, you gather that she obviously wants more."
-    "{i}Od he pierwszy smak twój kogut ona dostaje od [r_name] wargi i smoldering spojrzenie ona daje ci zebrać, że ona oczywiście chce więcej"
-
-# game/day33.rpy:140
-translate polish day33_a0d01377:
-
-    # "{i}When she has sucked your cock once or twice, she holds it in her mouth, and you feel her tongue swirling over the exposed glans."
-    "{i}Kiedy ssała twojego kutasa raz lub dwa razy, trzyma go w ustach i czujesz, jak jej język wiruje nad odsłoniętą żołędzią."
-
-# game/day33.rpy:168
-translate polish day33_c5265c11:
-
-    # "{i}Valentina lies down on the floor, and as you begin to understand what the singer intends, your cock twitches in anticipation."
-    "{i}Valentina leży na podłodze i gdy zaczynasz rozumieć, co zamierza piosenkarka, twój kutas drga w oczekiwaniu."
-
-# game/day33.rpy:183
-translate polish day33_e8879a21:
-
-    # "{i}You shake your head slightly, and [r_name] takes the cue."
-    "{i}Potrząsasz lekko głową, a [r_name] przyjmuje wskazówkę."
-
-# game/day33.rpy:204
-translate polish day33_0404ad17:
-
-    # "{i}At first, you thought [r_name] would be too weirded out by all of it, but she actually seems to relish in soiling her idol."
-    "{i}Na początku myślałeś, że [r_name] będzie zbyt dziwny przez to wszystko, ale ona rzeczywiście wydaje się rozkoszować w brudzeniu swojego idola."
-
-# game/day33.rpy:212
-translate polish day33_1a75f8bd:
-
-    # va "And I'm sorry, [r_name], but I'm going first."
-    va "A ja przepraszam [r_name] ale idę pierwszy"
-
-# game/day33.rpy:230
-translate polish day33_da777b57:
-
-    # "{i}You're overcome by a desire to own her body completely, and your hands react by grabbing and kneading Valentina's breasts, leaving red marks on her skin."
-    "{i}Ogarnia cię pragnienie całkowitego posiadania jej ciała, a twoje ręce reagują chwytając i ugniatając piersi Valentiny pozostawiając czerwone ślady na jej skórze"
-
-# game/day33.rpy:235
-translate polish day33_cbcac673:
-
-    # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your sister mixed with Valentina's perfume."
-    "{i}Jej ciało jest jeszcze śliskie od szczyn [r_name] i czujesz piżmo swojej siostry zmieszane z perfumami Valentiny."
-
-# game/day33.rpy:237
-translate polish day33_eefa7325:
-
-    # "{i}Her body is still slick with [r_name]'s piss, and you smell the musk of your girl mixed with Valentina's perfume."
-    "{i}Jej ciało jest jeszcze śliskie od szczyn [r_name] i czujesz piżmo swojej dziewczyny zmieszane z perfumami Valentiny."
-
-# game/day33.rpy:245
-translate polish day33_80d6fd38:
-
-    # "{i}You see your sister kneel before Valentina's cunt, and her tongue darts out to stimulate both your cock and the other girl's pussy."
-    "{i}Widzisz, jak twoja siostra klęczy przed cipą Valentiny, a jej język wysuwa się, by stymulować zarówno twojego kutasa, jak i cipkę drugiej dziewczyny."
-
-# game/day33.rpy:249
-translate polish day33_bf974413:
-
-    # va "K-keep d-doing that, [r_name]!"
-    va "K-keep d-doing that [r_name]!"
-
-# game/day33.rpy:253
-translate polish day33_e5d38be8:
-
-    # "{i}The girl thrusts her cunt violently in [r_name]'s face to maximize her pleasure, nearly making your cock slip out of her."
-    "{i}Dziewczyna rzuca się gwałtownie swoją cipą w twarz [r_name], aby zmaksymalizować swoją przyjemność prawie sprawiając, że twój kutas się z niej wysuwa"
-
-# game/day33.rpy:256
-translate polish day33_19f1857e:
-
-    # "{i}You hold the singer in your arms as she's unable to stand due to the convulsions currently wracking her body."
-    "{i}Trzymasz piosenkarkę w ramionach, ponieważ nie jest ona w stanie stać z powodu konwulsji aktualnie targających jej ciałem"
-
-# game/day33.rpy:262
-translate polish day33_d16e3da8:
-
-    # "{i}Your sister embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
-    "{i}Twoja siostra obejmuje cię i całujesz ją namiętnie jej wilgotna cipka ociera się o twoją górną nogę"
-
-# game/day33.rpy:264
-translate polish day33_5914c6b2:
-
-    # "{i}Your girlfriend embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
-    "{i}Twoja dziewczyna obejmuje cię i całujesz ją namiętnie jej wilgotna cipka ociera się o twoją górną nogę"
-
-# game/day33.rpy:274
-translate polish day33_003579aa:
-
-    # "{i}After you sit down on the couch, [r_name] climbs on your lap, and together you guide your cock inside her wet tunnel."
-    "{i}Po tym jak usiądziesz na kanapie [r_name] wspina się na twoje kolana i razem prowadzisz swojego kutasa wewnątrz jej mokrego tunelu."
-
-# game/day33.rpy:297
-translate polish day33_1de39f50:
-
-    # "{i}You continue to fuck your sister while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
-    "{i}Kontynuujesz rżnięcie siostry, podczas gdy mokre dźwięki spomiędzy twoich nóg mówią ci, że Valentina na przemian sonduje tyłek [r_name] i liże jej cipę."
-
-# game/day33.rpy:299
-translate polish day33_1df3bf98:
-
-    # "{i}You continue to fuck your girlfriend while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
-    "{i}Kontynuujesz rżnięcie swojej dziewczyny, podczas gdy mokre dźwięki spomiędzy twoich nóg mówią ci, że Valentina na przemian sonduje tyłek [r_name] i liże jej cipę."
-
-# game/day33.rpy:306
-translate polish day33_ec9a579e:
-
-    # "{i}[r_name] holds you in a tight embrace that feels a little painful in its tightness, but you don't care as the feeling of your dick plunging into her ribbed depths compensates more than enough."
-    "{i}[r_name] trzyma cię w ciasnym uścisku, który czuje się trochę bolesny w swojej ciasnocie, ale nie przejmujesz się tym, ponieważ uczucie twojego kutasa zanurzającego się w jej żebrowanej głębi rekompensuje więcej niż wystarczająco."
-
-# game/day33.rpy:313
-translate polish day33_84389455:
-
-    # va "I think we just might. Right, [r_name]?"
-    va "I think we just might Right [r_name]?"
-
-# game/day33.rpy:321
-translate polish day33_6ea22416:
-
-    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your sister."
-    "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na otwarte usta Valentiny i twojej siostry."
-
-# game/day33.rpy:323
-translate polish day33_8a7b3429:
-
-    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
-    "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na otwarte usta Valentiny i twojej dziewczyny."
-
-# game/day33.rpy:332
-translate polish day33_84389455_1:
-
-    # va "I think we just might. Right, [r_name]?"
-    va "I think we just might Right [r_name]?"
-
-# game/day33.rpy:357
-translate polish day33_7152a713:
-
-    # "{i}Valentina switches places with [r_name], and you immediately start pounding the singer hard and fast."
-    "{i}Valentina zamienia się miejscami z [r_name] i natychmiast zaczynasz mocno i szybko tłuc piosenkarkę"
-
-# game/day33.rpy:364
-translate polish day33_42ed5749:
-
-    # "{i}At that moment, you release a flow of warm semen, holding Valentina very tightly."
-    "{i}W tym momencie wypuszczasz strumień ciepłego nasienia trzymając Walentynę bardzo mocno"
-
-# game/day33.rpy:367
-translate polish day33_3e0c2fdb:
-
-    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
-    "{i}Pozostajesz w niej aż ostatnie krople kuminu wydostały się z twojej pulsującej głowy Kiedy się wysuwasz sperma wycieka z pochwy dziewczyny"
-
-# game/day33.rpy:376
-translate polish day33_70622176:
-
-    # "{i}Fucking your sister is more than enough for you, and you just want her to receive your load."
-    "{i}Pieprzenie twojej siostry jest dla ciebie więcej niż wystarczające i chcesz tylko, aby ona otrzymała twój ładunek."
-
-# game/day33.rpy:378
-translate polish day33_e0516e90:
-
-    # "{i}Fucking your girlfriend is more than enough for you, and you just want her to receive your load."
-    "{i}Pieprzenie twojej dziewczyny jest dla ciebie więcej niż wystarczające i chcesz tylko, aby ona otrzymała twój ładunek."
-
-# game/day33.rpy:384
-translate polish day33_537bc169:
-
-    # "{i}At that moment, you release a flow of warm semen, holding your sister very tightly."
-    "{i}W tym momencie wypuszczasz strumień ciepłego nasienia trzymając siostrę bardzo mocno."
-
-# game/day33.rpy:386
-translate polish day33_82eff079:
-
-    # "{i}At that moment, you release a flow of warm semen, holding [r_name] very tightly."
-    "{i}W tym momencie wypuszczasz strumień ciepłego nasienia trzymając [r_name] bardzo mocno"
-
-# game/day33.rpy:388
-translate polish day33_3e0c2fdb_1:
-
-    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
-    "{i}Pozostajesz w niej aż ostatnie krople kuminu wydostały się z twojej pulsującej głowy Kiedy się wysuwasz sperma wycieka z pochwy dziewczyny"
-
-# game/day33.rpy:421
-translate polish day33_0b11a4c7:
-
-    # va "If you're ever at a concert of mine, just get naked in one of the dressing rooms, and I'll come find you."
-    va "Jeśli kiedykolwiek będziesz na moim koncercie po prostu rozbierz się w jednej z garderób, a ja przyjdę cię znaleźć"
-
-# game/day33.rpy:463
+# game/day33.rpy:165
 translate polish day33_abd9b0ef:
 
     # p "I mean, I'm sure sex with a celebrity is on everyone's bucket-list, but I just had the most amazing sex with you, and I don't want to tarnish that with some cheap thrill."
-    p "To znaczy, jestem pewien, że seks z celebrytą jest na liście każdego, ale właśnie miałem najbardziej niesamowity seks z tobą i nie chcę zepsuć tego jakimś tanim dreszczykiem."
+    p "Znaczy, jestem pewien, że każdy marzy o seksie z celebrytą, ale właśnie skończyłem się kochać z Tobą, było cudownie i nie chciałem tego zepsuć dla taniego dreszczyku emocji."
 
-# game/day33.rpy:519
+# game/day33.rpy:221
 translate polish day33_30fc635b:
 
     # r "And maybe we could have that with [b_name] too?"
-    r "A może z [b_name] też byśmy tak mieli?."
+    r "A może moglibyśmy to zrobić także z [b_name]?."
 
-# game/day33.rpy:550
+# game/day33.rpy:257
 translate polish day33_choices_20628f24:
 
     # b "She fucking said that to my face."
-    b "Powiedziała mi to w twarz."
+    b "Powiedziała mi to kurwa, prosto w twarz."
 
-# game/day33.rpy:558
+# game/day33.rpy:265
 translate polish day33_choices_296b4cc7:
 
     # b "I was worried sick, but you said absolutely fucking nothing, and yet you're fucking my own sister behind my back?!"
-    b "Martwiłem się jak chory, ale nie powiedziałeś absolutnie nic, a mimo to pieprzysz moją własną siostrę za moimi plecami?!."
+    b "Zamartwiałam się na śmierć, a Ty absolutnie nic nie powiedziałeś i jeszcze pieprzyłeś moją własną siostrę za moimi plecami?!"
 
-# game/day33.rpy:560
+# game/day33.rpy:267
 translate polish day33_choices_d9db0215:
 
     # b "I was worried sick, but you said absolutely fucking nothing, and yet you're fucking my own friend behind my back?!"
-    b "Martwiłem się jak chory, ale nie powiedziałeś absolutnie nic, a mimo to pieprzysz moją własną przyjaciółkę za moimi plecami?."
+    b "Martwiłem się, ale nie powiedziałeś absolutnie nic, a mimo to pieprzysz się z moim przyjacielem za moimi plecami?!"
 
-# game/day33.rpy:598
+# game/day33.rpy:305
 translate polish day33_choices_a38ca500:
 
     # p "Are you all right?"
-    p "Czy wszystko w porządku?"
+    p "Wszystko w porządku?"
 
-# game/day33.rpy:616
+# game/day33.rpy:323
 translate polish day33_choices_eeb4fde1:
 
     # "{i}You oblige immediately and kiss her smiling face. The next moment, you're involved in a tight embrace and a passionate tongue kiss."
-    "{i}Zobowiązujesz się natychmiast i całujesz jej uśmiechniętą twarz W następnej chwili jesteś zaangażowany w ciasny uścisk i namiętny pocałunek z języczkiem"
+    "{i}Natychmiast spełniasz jej prośbę i całujesz jej uśmiechniętą twarz, po chwili jesteście już zwarci w uścisku i całujecie się namiętnie, pieszcząc się nawzajem językami."
 
-# game/day33.rpy:624
+# game/day33.rpy:331
 translate polish day33_choices_c48b5bb0:
 
     # p "Better not, I think."
-    p "Lepiej nie myślę"
+    p "Lepiej nie."
 
-# game/day33.rpy:634
+# game/day33.rpy:341
 translate polish day33_choices_b62010a7:
 
     # "{i}You talk some more until you hear one of your other sisters coming home, and you leave [b_name] to avoid any suspicion."
-    "{i}Rozmawiacie jeszcze trochę, aż słyszysz, że jedna z twoich pozostałych sióstr wraca do domu i zostawiasz [b_name], żeby uniknąć podejrzeń."
+    "{i}Rozmawiasz jeszcze trochę, aż słyszysz, że jedna z twoich sióstr wraca do domu i opuszczasz [b_name], aby uniknąć jakichkolwiek podejrzeń."
 
-# game/day33.rpy:636
+# game/day33.rpy:343
 translate polish day33_choices_64410583:
 
     # "{i}You talk some more until you hear one of your other friends coming home, and you leave [b_name] to avoid any suspicion."
-    "{i}Rozmawiacie jeszcze trochę, aż słyszysz, że jeden z twoich innych przyjaciół wraca do domu i wychodzisz z [b_name], żeby uniknąć podejrzeń."
+    "{i}Rozmawiasz jeszcze trochę, aż słyszysz, jak jeden z twoich przyjaciół wraca do domu i wychodzisz z [b_name], aby uniknąć jakichkolwiek podejrzeń."
 
-# game/day33.rpy:657
+# game/day33.rpy:364
 translate polish day33_choices_bae7de6b:
 
     # b "What the fuck does that mean?"
-    b "Co to kurwa znaczy?"
+    b "Co to, kurwa, znaczy?"
 
-# game/day33.rpy:682
+# game/day33.rpy:389
 translate polish day33_choices_e57142d4:
 
     # p "Are they still working you to death at the coffee shop?"
-    p "Czy w kawiarni nadal pracują cię na śmierć?"
+    p "Czy w kawiarni nadal zapracowują cię na śmierć?"
 
-# game/day33.rpy:698
+# game/day33.rpy:405
 translate polish day33_choices_fad02def:
 
     # "{i}You surprise her by kissing her smiling face. The next moment, you're involved in a tight embrace and a passionate tongue kiss."
-    "{i}Zaskakujesz ją, całując jej uśmiechniętą twarz W następnej chwili jesteś zaangażowany w ciasny uścisk i namiętny pocałunek z języczkiem"
+    "{i}Zaskakujesz ją, całując jej uśmiechniętą twarz, a w następnej chwili jesteś zaangażowany w ciasny uścisk i namiętny pocałunek z języczkiem."
 
-# game/day33.rpy:702
+# game/day33.rpy:409
 translate polish day33_choices_1a31415c:
 
     # p "That's my obedient sister!"
     p "To moja posłuszna siostra!"
 
-# game/day33.rpy:715
+# game/day33.rpy:422
 translate polish day33_choices_681b9748:
 
     # "{i}You laugh and talk some more until you hear one of your other sisters coming home, and you leave [b_name] to avoid any suspicion."
-    "{i}Śmiejecie się i rozmawiacie jeszcze trochę, aż słyszysz, że jedna z twoich pozostałych sióstr wraca do domu i zostawiasz [b_name], aby uniknąć jakichkolwiek podejrzeń."
+    "{i}Śmiejesz się i rozmawiasz, dopóki nie usłyszysz, że jedna z twoich sióstr wraca do domu i opuszczasz [b_name], aby uniknąć podejrzeń."
 
-# game/day33.rpy:717
+# game/day33.rpy:424
 translate polish day33_choices_c8c6eafb:
 
     # "{i}You laugh and talk some more until you hear one of your other friends coming home, and you leave [b_name] to avoid any suspicion."
-    "{i}Śmiejecie się i rozmawiacie jeszcze trochę, aż słyszysz, że jeden z twoich innych przyjaciół wraca do domu i zostawiasz [b_name], aby uniknąć jakichkolwiek podejrzeń."
+    "{i}Śmiejesz się i rozmawiasz, dopóki nie usłyszysz, że jeden z twoich przyjaciół wraca do domu i opuszczasz [b_name], aby uniknąć podejrzeń."
 
-# game/day33.rpy:762
+# game/day33.rpy:472
 translate polish day33_evening_choices_7177a5ed:
 
     # p "No problem, yes, I've heard of it."
-    p "Nie ma problemu tak słyszałem o tym"
+    p "Żaden problem, tak, słyszałem o tym."
 
-# game/day33.rpy:805
+# game/day33.rpy:515
 translate polish day33_evening_choices_10a8c6ef_1:
 
     # l "It's supposed to be a really intense feeling."
-    l "To ma być naprawdę intensywne uczucie"
+    l "To podobno intensywne uczucie."
 
-# game/day33.rpy:814
+# game/day33.rpy:524
 translate polish day33_evening_choices_1f8f4ea9:
 
     # p "Well, if you say you've seen others do it..."
-    p "No skoro mówisz, że widziałeś jak inni to robią"
+    p "Cóż, jeśli mówisz, że widziałeś, jak inni to robią"
 
-# game/day33.rpy:841
-translate polish day33_evening_choices_8c2701f1:
-
-    # "{i}That statement alone makes your cock rock-hard, and you attempt to ignore it by turning your attention to [l_name]'s breasts."
-    "{i}Już samo to stwierdzenie sprawia, że twój kutas jest twardy jak skała, a ty próbujesz to zignorować, zwracając uwagę na piersi [l_name]."
-
-# game/day33.rpy:885
-translate polish day33_evening_choices_22dc2071:
-
-    # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen, you know you've struck gold."
-    "{i}Znalezienie właściwego miejsca zajmuje ci chwilę, ale kiedy widzisz, jak oczy twojej siostry się rozszerzają, wiesz, że trafiłaś na złoto."
-
-# game/day33.rpy:887
-translate polish day33_evening_choices_71f6c75f:
-
-    # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen, you know you've struck gold."
-    "{i}Znalezienie właściwego miejsca zajmuje ci chwilę, ale kiedy widzisz, jak oczy twojego przyjaciela się rozszerzają, wiesz, że trafiłeś na złoto."
-
-# game/day33.rpy:888
-translate polish day33_evening_choices_978434aa:
-
-    # "{i}[l_name] begins to shudder uncontrollably, and at one point even attempts to remove your hand momentarily before pressing your fingers even deeper inside her."
-    "{i}[l_name] zaczyna niekontrolowanie drżeć, a w pewnym momencie nawet próbuje chwilowo wyjąć twoją rękę, zanim wciśniesz palce jeszcze głębiej w jej wnętrze."
-
-# game/day33.rpy:892
-translate polish day33_evening_choices_c7b2c2f9:
-
-    # "{i}White cream is slathered all over her pussy and thighs, and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
-    "{i}Biały krem jest rozsmarowany po całej jej cipce i udach, a twoje palce wydają te charakterystyczne mokre dźwięki, które zawsze kojarzysz z nadchodzącą lawiną squirtu"
-
-# game/day33.rpy:925
+# game/day33.rpy:549
 translate polish day33_evening_choices_3c9ce3e7:
 
     # "{i}You cuddle for quite a long while until it's time to go to sleep. You kiss [l_name] good night and go back to your room."
-    "{i}Przytulacie się przez dość długą chwilę, aż nadszedł czas, aby pójść spać Całujesz [l_name] na dobranoc i wracasz do swojego pokoju."
+    "{i}Przytulacie się dość długo, aż nadchodzi czas, by pójść spać. Całujesz [l_imię] na dobranoc i wracasz do swojego pokoju."
 
-# game/day33.rpy:971
+# game/day33.rpy:597
 translate polish day33_p_room_scene_d4eb4169:
 
     # p "I called it, and before I knew it, I had an appointment and was taking this weird test."
-    p "Zadzwoniłam do niego i zanim się zorientowałam, miałam umówioną wizytę i robiłam ten dziwny test"
+    p "Zadzwoniłem na niego i ani się nie obejrzałem, a już byłem umówiony na spotkanie i wypełniałem ten dziwny test."
 
-# game/day33.rpy:972
+# game/day33.rpy:598
 translate polish day33_p_room_scene_a82d0806:
 
     # p "When I finally stood before you, I just couldn't say anything."
-    p "Kiedy wreszcie stanąłem przed Tobą, po prostu nie mogłem nic powiedzieć"
+    p "Kiedy w końcu stanąłem przed Tobą, nie mogłem nic powiedzieć."
 
-# game/day33.rpy:1063
+# game/day33.rpy:689
 translate polish day33_p_room_scene_632afd57:
 
     # "{i}[m_name] sighs and stares into the distance. When she looks at you again, you see a resolve in her eyes."
-    "{i}[m_name] wzdycha i wpatruje się w dal Gdy ponownie spogląda na Ciebie widzisz w jej oczach determinację."
+    "{i}Susan wzdycha i wpatruje się w przestrzeń, kiedy znowu na Ciebie patrzy, widzisz w jej oczach zdecydowanie."
 
-# game/day33.rpy:1064
+# game/day33.rpy:690
 translate polish day33_p_room_scene_3486be1b:
 
     # m "For too long, I let my life be influenced by others, holding me back."
-    m "Zbyt długo pozwalałem, by na moje życie wpływali inni, trzymając mnie z tyłu"
+    m "Zbyt długo pozwalałam, żeby inni ludzie wpływali na moje życie, żeby mnie ograniczali."
 
-# game/day33.rpy:1106
+# game/day33.rpy:732
 translate polish day33_p_room_scene_7ecd8cb1:
 
     # "{i}The woman leaves you to fumble with the locks, and you manage to unchain yourself after a while."
-    "{i}Kobieta zostawia cię, byś mógł fukać z zamkami i po chwili udaje ci się rozkuć"
+    "{i}Kobieta zostawia cię z zamkami i po chwili udaje ci się rozkuć."
 
-# game/day33.rpy:1154
+# game/day33.rpy:780
 translate polish day33_p_room_scene_7ecd8cb1_1:
 
     # "{i}The woman leaves you to fumble with the locks, and you manage to unchain yourself after a while."
-    "{i}Kobieta zostawia cię, byś mógł fukać z zamkami i po chwili udaje ci się rozkuć"
+    "{i}Kobieta zostawia cię z zamkami i po chwili udaje ci się rozkuć."
 
-# game/day33.rpy:1181
+# game/day33.rpy:815
 translate polish day33_m_bj_8e7f71c1:
 
     # m "Don't move dear. Let me do all the work."
-    m "Nie ruszaj się kochana Pozwól mi wykonać całą pracę"
+    m "Nie ruszaj się kochanie, pozwól, że ja się wszystkim zajmę."
 
-# game/day33.rpy:1187
+# game/day33.rpy:821
 translate polish day33_m_bj_350a767d:
 
     # m "Don't move sweetie. Let me do all the work."
-    m "Nie ruszaj się kochanie Pozwól mi wykonać całą pracę"
+    m "Nie ruszaj się kochanie, pozwól, że ja się wszystkim zajmę."
 
-# game/day33.rpy:1190
+# game/day33.rpy:827
 translate polish day33_m_bj_ed94262b:
 
     # "{i}Your mother's soft hand wraps around your proud erection, and when she slowly jerks you off, a small moan escapes you."
-    "{i}Miękka dłoń twojej matki owija się wokół twojej dumnej erekcji i kiedy powoli cię szarpie, mały jęk wymyka się z ciebie."
+    "{i}Miękka dłoń Twojej matki owija się wokół Twojego penisa i kiedy zaczyna Cię powoli masować, wymyka Ci się mały jęk."
 
-# game/day33.rpy:1192
+# game/day33.rpy:829
 translate polish day33_m_bj_cd97c809:
 
     # "{i}[m_name]'s soft hand wraps around your proud erection, and when she slowly jerks you off a small moan escapes you."
-    "{i}[m_name] miękka dłoń owija się wokół twojej dumnej erekcji, a kiedy powoli cię szarpie, wymyka ci się mały jęk"
+    "{i}Miękka dłoń [m_name] owija się wokół twojej dumnej erekcji, a kiedy powoli cię szarpie, wymyka ci się mały jęk."
 
-# game/day33.rpy:1282
+# game/day33.rpy:936
 translate polish day33_m_bj_0fb269e0:
 
     # "{i}Semen leaks from the corners of her mouth as your cock keeps pumping semen. When she allows your pulsing cock to escape she swallows everything."
-    "{i}Nasienie wycieka z kącików jej ust, gdy twój kutas wciąż pompuje nasienie Gdy pozwala twojemu pulsującemu kutasowi uciec, połyka wszystko."
+    "{i}Nasienie wycieka jej kącikami ust, gdy Twój kutas dalej wpompowuje w nią nasienie, a kiedy pozwala Twojemu pulsującemu fiutowi wysunąć się wreszcie z jej ust, połyka wszystko."
 
-# game/day33.rpy:1389
+# game/day33.rpy:1049
 translate polish day33_b_harem_talk_eeb4fde1:
 
     # "{i}You oblige immediately and kiss her smiling face. The next moment, you're involved in a tight embrace and a passionate tongue kiss."
-    "{i}Zobowiązujesz się natychmiast i całujesz jej uśmiechniętą twarz W następnej chwili jesteś zaangażowany w ciasny uścisk i namiętny pocałunek z języczkiem."# TODO: Translation updated at 2023-07-06 13:24
+    "{i}Natychmiast spełniasz jej prośbę i całujesz jej uśmiechniętą twarz, po chwili jesteście już zwarci w uścisku i całujecie się namiętnie, pieszcząc się nawzajem językami."
 
-# game/day33.rpy:340
-translate polish day33_b2f23c99:
+# game/day33.rpy:1077
+translate polish day33_v_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Czy chcesz włączyć sporty wodne w tej scenie?."
+
+# game/day33.rpy:1081
+translate polish day33_v_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Możliwość uprawiania sportów wodnych"
+
+# game/day33.rpy:1084
+translate polish day33_v_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sporty wodne wyłączone"
+
+# game/day33.rpy:1091
+translate polish day33_v_sex_da20bdb0:
+
+    # p "How could I refuse?"
+    p "Jak mógłbym odmówić?"
+
+# game/day33.rpy:1092
+translate polish day33_v_sex_67933b7d:
+
+    # va "Good answer."
+    va "Dobra odpowiedź."
+
+# game/day33.rpy:1093
+translate polish day33_v_sex_f5f2a0d3:
+
+    # va "Why don't you come here and help me undress, [r_name]."
+    va "Może przyjdziesz tutaj i pomożesz mi się rozebrać Rachel."
+
+# game/day33.rpy:1095
+translate polish day33_v_sex_cd5af312:
+
+    # "{i}Valentina is perfectly capable of removing the few pieces of clothing she still wears and uses the opportunity to give [r_name] a long kiss instead."
+    "{i}Valentina może bez problemu poradzić sobie ze zdjęciem swoich ostatnich części garderoby, ale zamiast tego, wykorzystuje okazję, żeby pocałować Rachel."
+
+# game/day33.rpy:1097
+translate polish day33_v_sex_df514626:
+
+    # "{i}Their kissing soon involves an interplay of tongues and eager exploration of the sensitive parts of either girl's body."
+    "{i}Ich pocałunek wkrótce przechodzi w skomplikowany taniec między ich językami i łapczywe badanie wrażliwych części swoich ciał."
+
+# game/day33.rpy:1098
+translate polish day33_v_sex_0b386afd:
+
+    # "{i}[r_name] seems to treat Valentina as a rather precious object at first, but as lust takes the upper hand, her touches become more self-assured and fueled by the greed you know all too well."
+    "{i}[r_name] wydaje się początkowo traktować Valentinę jako raczej cenny przedmiot, ale gdy pożądanie bierze górę, jej dotyki stają się bardziej pewne siebie i napędzane chciwością, którą znasz aż za dobrze."
+
+# game/day33.rpy:1100
+translate polish day33_v_sex_700277af:
+
+    # va "Look at that, it seems your friend is ready for us too."
+    va "Popatrz, wygląda na to, że Twój przyjaciel też jest na nas gotowy."
+
+# game/day33.rpy:1101
+translate polish day33_v_sex_f27e7783:
+
+    # va "Will you join us, [p_name]?"
+    va "Dołączysz do nas, [p_name]?"
+
+# game/day33.rpy:1102
+translate polish day33_v_sex_6267df42:
+
+    # va "Stick that hard cock in our mouths?"
+    va "Dasz nam posmakować tego twardego kutasa?"
+
+# game/day33.rpy:1107
+translate polish day33_v_sex_cd767c86:
+
+    # "{i}After you present your erection, the girls start to play with it, their fingertips darting all over your shaft."
+    "{i}Po zaprezentowaniu im swojej erekcji, dziewczyny zaczynają się nią bawić, opuszki ich palców błądzą po całym Twoim wale."
+
+# game/day33.rpy:1108
+translate polish day33_v_sex_50670608:
+
+    # "{i}[r_name] is the first to use her tongue, working on the head of your dick and proving to you she knows exactly where your sensitive spots are."
+    "{i}[r_name] jako pierwsza używa swojego języka, pracując nad główką twojego kutasa i udowadniając ci, że dokładnie wie, gdzie są twoje wrażliwe miejsca."
+
+# game/day33.rpy:1110
+translate polish day33_v_sex_4b719145:
+
+    # "{i}A hint of jealously flashes across Valentinas face and she pulls [r_name] face towards her to kiss her violently."
+    "{i}Na twarzy Valentiny pojawia się cień zazdrości, przyciąga do siebie twarz Rachel i zaczyna ją gwałtownie całować."
+
+# game/day33.rpy:1111
+translate polish day33_v_sex_50061cf3:
+
+    # "{i}From he first taste of your cock she gets from [r_name]'s lips and the smoldering look she gives, you gather that she obviously wants more."
+    "{i}Od pierwszego smaku twojego kutasa, który dostaje z ust [r_name] i tlącego się spojrzenia, które ci daje, widać, że najwyraźniej chce więcej."
+
+# game/day33.rpy:1113
+translate polish day33_v_sex_462e71be:
+
+    # "{i}Valentina kisses the tip of your cock and slowly slides her lips over the length of your shaft."
+    "{i}Valentina całuje główkę Twojego fiuta i powoli przesuwa usta wzdłuż całego Twojego trzonu."
+
+# game/day33.rpy:1114
+translate polish day33_v_sex_a0d01377:
+
+    # "{i}When she has sucked your cock once or twice, she holds it in her mouth, and you feel her tongue swirling over the exposed glans."
+    "{i}Kiedy wsadza go do ust i zaczyna ssać, czujesz jak jej język wiruje wokół Twojego żołędzia."
+
+# game/day33.rpy:1115
+translate polish day33_v_sex_7eabf0ef:
+
+    # "{i}You're amazed by the level of accomplishment Valentina shows as a cocksucker at such a relatively young age."
+    "{i}Zaskakują Cię umiejętności, jakie Valentina prezentuje w obciąganiu, mimo tak młodego wieku."
+
+# game/day33.rpy:1116
+translate polish day33_v_sex_8e7a6284:
+
+    # "{i}The singer alternates between powerful stimulation of the entire shaft and playful sucking of the head, making the blowjob a little unpredictable and therefore very enjoyable."
+    "{i}Piosenkarka naprzemiennie stymuluje cały trzon i figlarnego ssie główkę, przez co nigdy nie wiesz czego się spodziewać, a to tylko potęguje przyjemność."
+
+# game/day33.rpy:1118
+translate polish day33_v_sex_4ee9563f:
+
+    # "{i}Just at the moment Valentina has sucked you into a sexual trance she lets your cock slide out of her mouth and presents it to [r_name]."
+    "{i}Gdy tylko zaczynasz odpływać i pogrążać się w rozkoszy, Valentina wyciąga Twojego kutasa z ust i prezentuje go Rachel."
+
+# game/day33.rpy:1119
+translate polish day33_v_sex_12aaf1cf:
+
+    # va "Your turn."
+    va "Twoja kolej."
+
+# game/day33.rpy:1125
+translate polish day33_v_sex_8e107db1:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your sister."
+    "{i}Gdy Rachel zaczyna Ci obciągać, Valentina odwraca swoją uwagę ku Twojej siostrze."
+
+# game/day33.rpy:1127
+translate polish day33_v_sex_291ff673:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your girlfriend."
+    "{i}Gdy [r_name] zaczyna ci obciągać, Valentina zwraca uwagę na twoją dziewczynę."
+
+# game/day33.rpy:1132
+translate polish day33_v_sex_668456bc:
+
+    # "{i}[r_name] has to cease her work on your dick and moans all over your cock as Valentina begins to lick her pussy."
+    "{i}Rachel przerywa pracę nad Twoim kutasem i zaczyna w niego jęczeć, kiedy Valentina zabiera się za lizanie jej cipki."
+
+# game/day33.rpy:1134
+translate polish day33_v_sex_50ff9e62:
+
+    # "{i}You're treated to a glorious display of lesbian love while [r_name] still goes down on your throbbing cock."
+    "{i}Masz okazję obejrzeć doskonały pokaz lesbijskiej miłości, podczas gdy Rachel wraca do pieszczenia Twojego pulsującego kutasa."
+
+# game/day33.rpy:1135
+translate polish day33_v_sex_8f899fcd:
+
+    # "{i}Sex acts seem to bore Valentina easily, because she stops eating [r_name] out not long after she begun, pulling the girl from your cock as well."
+    "{i}Ta zabawa zdaje się szybko nudzić Valentinę, ponieważ przestaje lizać Rachel na krótko po tym, jak zaczęła i odciąga dziewczynę od Twojego penisa."
+
+# game/day33.rpy:1141
+translate polish day33_v_sex_363ef64d:
+
+    # va "Enough foreplay."
+    va "Wystarczy gry wstępnej."
+
+# game/day33.rpy:1142
+translate polish day33_v_sex_f2ac1848:
+
+    # va "I want to get fucked."
+    va "Chcę go wyruchać."
+
+# game/day33.rpy:1143
+translate polish day33_v_sex_61d24d5c:
+
+    # r "Uhm..."
+    r "Umm..."
+
+# game/day33.rpy:1144
+translate polish day33_v_sex_b56921dd:
+
+    # r "Could I leave you guys for a minute?"
+    r "Mogę was zostawić na chwilę?"
+
+# game/day33.rpy:1145
+translate polish day33_v_sex_183de7fa:
+
+    # va "Why?"
+    va "Dlaczego?"
+
+# game/day33.rpy:1146
+translate polish day33_v_sex_3a38d98b:
+
+    # r "I have to sneak out and use the bathroom."
+    r "Muszę się wymknąć i skorzystać z łazienki."
+
+# game/day33.rpy:1147
+translate polish day33_v_sex_f5f89363:
+
+    # va "So?"
+    va "Więc?"
+
+# game/day33.rpy:1148
+translate polish day33_v_sex_d26b31b0:
+
+    # r "I just really need to pee, be right back."
+    r "Po prostu naprawdę muszę się wysikać, zaraz wracam."
+
+# game/day33.rpy:1149
+translate polish day33_v_sex_ea179a45:
+
+    # va "You're not going anywhere."
+    va "Nigdzie nie idziesz."
+
+# game/day33.rpy:1151
+translate polish day33_v_sex_4e9c48fc:
+
+    # r "I can't hold it in much longer!"
+    r "Nie wytrzymam dłużej!"
+
+# game/day33.rpy:1152
+translate polish day33_v_sex_a92ce422:
+
+    # va "Good."
+    va "Dobrze."
+
+# game/day33.rpy:1153
+translate polish day33_v_sex_c5265c11:
+
+    # "{i}Valentina lies down on the floor, and as you begin to understand what the singer intends, your cock twitches in anticipation."
+    "{i}Valentina kładzie się na podłodze i zaczynasz rozumieć, co planuje piosenkarka, Twój kutas drga z niecierpliwości."
+
+# game/day33.rpy:1154
+translate polish day33_v_sex_f4366a2c:
+
+    # va "Come over here and let it all go."
+    va "Chodź tutaj i ulżyj sobie."
+
+# game/day33.rpy:1156
+translate polish day33_v_sex_43074f89:
+
+    # r "What?!"
+    r "Co?!"
+
+# game/day33.rpy:1157
+translate polish day33_v_sex_697ccfaa:
+
+    # r "Like pee on the floor?"
+    r "Mam nasikać na podłogę?"
+
+# game/day33.rpy:1158
+translate polish day33_v_sex_82b1efc4:
+
+    # va "No, pee on me."
+    va "Nie, nasikaj na mnie."
+
+# game/day33.rpy:1159
+translate polish day33_v_sex_18d4a75b:
+
+    # va "Do I need to spell it out for you?"
+    va "Mam Ci to przeliterować?"
+
+# game/day33.rpy:1160
+translate polish day33_v_sex_e63b215d:
+
+    # "{i}[r_name] glances at you, a little worried by the request and unsure what to do."
+    "{i}Rachel zerka na Ciebie, trochę zaniepokojona prośbą i niepewna tego, co powinna zrobić."
+
+# game/day33.rpy:1166
+translate polish day33_v_sex_cadedab3:
+
+    # "{i}You slightly nod and [r_name] smiles, thrilled for what comes next."
+    "{i}Kiwasz lekko głową, Rachel uśmiecha się, już nie mogąc się doczekać tego, co nastąpi."
+
+# game/day33.rpy:1168
+translate polish day33_v_sex_e8879a21:
+
+    # "{i}You shake your head slightly, and [r_name] takes the cue."
+    "{i}Lekko potrząsasz głową, a [r_name] przyjmuje wskazówkę."
+
+# game/day33.rpy:1170
+translate polish day33_v_sex_4963dd83:
+
+    # r "Sorry Valentina, but I'm just going to make a run for it really quick and find a bathroom."
+    r "Przepraszam Valentina, ale po prostu pobiegnę szybko do łazienki."
+
+# game/day33.rpy:1171
+translate polish day33_v_sex_cad4e5c5:
+
+    # va "Suit yourself."
+    va "Jak wolisz."
+
+# game/day33.rpy:1172
+translate polish day33_v_sex_e09561fa:
+
+    # va "You do know I'll have your man all to myself?"
+    va "Wiesz, że będę miała Twojego mężczyznę tylko dla siebie?"
+
+# game/day33.rpy:1173
+translate polish day33_v_sex_a9b67a01:
+
+    # r "I'm not worried, as long as you leave a piece for me."
+    r "Nie martwi mnie to, o ile zostawisz dla mnie kawałek."
+
+# game/day33.rpy:1174
+translate polish day33_v_sex_4da4447e:
+
+    # "{i}[r_name] slips into her dress again and slips out of the room barefoot."
+    "{i}Rachel ponownie wskakuje w sukienkę i boso wychodzi z pomieszczenia."
+
+# game/day33.rpy:1180
+translate polish day33_v_sex_c200323b:
+
+    # "{i}[r_name] positions her body over Valentina's and squats, a concentrated expression on her face."
+    "{i}Rachel ustawia się nad ciałem Valentiny i przysiada, z lekko zakłopotanym wyrazem twarzy."
+
+# game/day33.rpy:1181
+translate polish day33_v_sex_8c501186:
+
+    # "{i}Despite the urgency she felt earlier, it takes a while for it to come, Valentina strokes the thighs of your girl in delirious anticipation."
+    "{i}Mimo pilnej potrzeby, jaką czuła wcześniej, mija trochę czasu, zanim udaje się jej zacząć, Valentina głaszcze uda Twojej siostry, czekając aż będzie gotowa."
+
+# game/day33.rpy:1188
+translate polish day33_v_sex_f23fb9a9:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your sister's pussy."
+    "{i}Po chwili słyszysz ciche westchnienie ulgi i złoty strumień wydobywa się z cipki Twojej siostry."
+
+# game/day33.rpy:1190
+translate polish day33_v_sex_9a4d25e2:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your girlfriend's pussy."
+    "{i}Słyszysz małe westchnienie ulgi, gdy strumień sików ucieka z cipki twojej dziewczyny."
+
+# game/day33.rpy:1191
+translate polish day33_v_sex_9621e813:
+
+    # "{i}The urine splashes onto Valentina's naked body, who closes her eyes and rubs the liquid all over her breasts and belly."
+    "{i}Mocz rozpryskuje się o nagie ciało Valentiny, która zamyka oczy i rozprowadza płyn po swoich piersiach i brzuchu."
+
+# game/day33.rpy:1192
+translate polish day33_v_sex_14c7df85:
+
+    # va "More!"
+    va "Jeszcze!"
+
+# game/day33.rpy:1198
+translate polish day33_v_sex_9a45cbcc:
+
+    # "{i}[r_name] tries her best and delivers another gush of pee, this time the stream spatters into Valentina's open mouth and she drinks eagerly."
+    "{i}Rachel robi co w jej mocy i wypuszcza z siebie kolejny strumień, który tym razem rozpryskuje się w jej otwartych ustach, Valentina chętnie go połyka."
+
+# game/day33.rpy:1199
+translate polish day33_v_sex_0404ad17:
+
+    # "{i}At first, you thought [r_name] would be too weirded out by all of it, but she actually seems to relish in soiling her idol."
+    "{i}Z początku myślałeś, że dla Rachel to będzie zbyt dziwne, ale wygląda na to, że podoba się jej degradowanie swojej idolki."
+
+# game/day33.rpy:1201
+translate polish day33_v_sex_ebe86168:
+
+    # va "Mmmmm, that feels so good."
+    va "Mmmmm, pychota."
+
+# game/day33.rpy:1205
+translate polish day33_v_sex_8ae5b91d:
+
+    # va "Oh, there's more?"
+    va "Oh, jest tego więcej?"
+
+# game/day33.rpy:1210
+translate polish day33_v_sex_b3f5862b:
+
+    # "{i}A final stream of piss trickles from [r_name]'s vagina, streaming down Valentina's breasts, over her belly and finally stranding in the singer's pubic hair."
+    "{i}Ostatni złoty strumień wydostaje się z pochwy Rachel, spływa po piersiach Valentiny, jej brzuchu i wreszcie rozbija się o jej włosy łonowe."
+
+# game/day33.rpy:1211
+translate polish day33_v_sex_4ecb9db6:
+
+    # "{i}Valentina is now lying in a puddle of [r_name]'s piss, almost bathing in the warm liquid and wearing a content smile on her face."
+    "{i}Valentina leży teraz w kałuży moczu Rachel, praktycznie kąpie się w ciepłym, złotym płynie, z wyrazem zadowolenia na twarzy."
+
+# game/day33.rpy:1212
+translate polish day33_v_sex_b4e76810:
+
+    # va "Mmmm, now we can fuck."
+    va "Mmmm, teraz możemy się poruchać."
+
+# game/day33.rpy:1213
+translate polish day33_v_sex_1a75f8bd:
+
+    # va "And I'm sorry, [r_name], but I'm going first."
+    va "I wybacz Rachel, ale ja jestem pierwsza."
+
+# game/day33.rpy:1214
+translate polish day33_v_sex_f82db883:
+
+    # r "As long as you leave a piece for me."
+    r "Tylko zostaw coś dla mnie."
+
+# game/day33.rpy:1220
+translate polish day33_v_sex_b1dce4b3:
+
+    # va "Will you fuck me hard?"
+    va "Zerżniesz mnie porządnie?"
+
+# game/day33.rpy:1221
+translate polish day33_v_sex_5980f02a:
+
+    # va "I don't want you to treat me as some precious thing, some tender princess."
+    va "Nie chcę, żebyś traktował mnie jak coś delikatnego, jak jakąś wrażliwą księżniczkę."
+
+# game/day33.rpy:1222
+translate polish day33_v_sex_916469f9:
+
+    # p "Come here then."
+    p "No to chodź tutaj."
+
+# game/day33.rpy:1227
+translate polish day33_v_sex_66b7e5c5:
+
+    # "{i}You pull the singer closer and press the head of your erect cock against her fuck-hole."
+    "{i}Przyciągasz piosenkarkę bliżej i przyciskasz główkę swojego twardego kutasa do jej szparki."
+
+# game/day33.rpy:1228
+translate polish day33_v_sex_440312bf:
+
+    # va "Mmmm, you're eager."
+    va "Mmmm, zniecierpliwiłeś się."
+
+# game/day33.rpy:1230
+translate polish day33_v_sex_461e6ed3:
+
+    # "{i}You were hoping [r_name] would join you in preparing Valentina, but she's waiting her turn, maybe a little shy all of a sudden."
+    "{i}Miałeś nadzieję, że Rachel dołączy do Ciebie w przygotowywaniu Valentiny, ale ona tylko czeka na swoją kolej, jakby nagle się onieśmieliła."
+
+# game/day33.rpy:1232
+translate polish day33_v_sex_3b0b3bf1:
+
+    # va "Quick, I want to feel you before your girlfriend comes back."
+    va "Szybko, chcę Cię poczuć w sobie, zanim Twoja dziewczyna wróci."
+
+# game/day33.rpy:1234
+translate polish day33_v_sex_e0594a98:
+
+    # "{i}Parting her lower lips with your tip, you ram your shaft inside her as soon as you've passed her heavenly entrance."
+    "{i}Rozchylasz jej wargi czubkiem swojego penisa i gdy tylko przybierasz odpowiednią pozycję, wbijasz się w nią mocno."
+
+# game/day33.rpy:1235
+translate polish day33_v_sex_afe18761:
+
+    # va "T-that's it!"
+    va "W- Właśnie tak!"
+
+# game/day33.rpy:1240
+translate polish day33_v_sex_da777b57:
+
+    # "{i}You're overcome by a desire to own her body completely, and your hands react by grabbing and kneading Valentina's breasts, leaving red marks on her skin."
+    "{i}Ogarnia Cię pragnienie aby posiąść jej całe ciało, Twoje dłonie reagują, chwytając i ugniatając jej piersi, pozostawiając czerwone ślady na jej skórze."
+
+# game/day33.rpy:1241
+translate polish day33_v_sex_4ba1675f:
+
+    # "{i}Her arms behind her back, she moans and sighs as you alternately massage and pinch her nipples."
+    "{i}Z rękami za plecami, jęczy i wzdycha, gdy na przemian masujesz i szczypiesz jej sutki."
+
+# game/day33.rpy:1245
+translate polish day33_v_sex_cbcac673:
+
+    # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your sister mixed with Valentina's perfume."
+    "{i}Jej ciało jest wciąż śliskie od moczu Rachel i czujesz zapach swojej siostry zmieszany z perfumami Valentiny."
+
+# game/day33.rpy:1247
+translate polish day33_v_sex_eefa7325:
+
+    # "{i}Her body is still slick with [r_name]'s piss, and you smell the musk of your girl mixed with Valentina's perfume."
+    "{i}Jej ciało jest wciąż śliskie od szczyn [r_name], a ty czujesz zapach piżma swojej dziewczyny zmieszany z perfumami Valentiny."
+
+# game/day33.rpy:1249
+translate polish day33_v_sex_bfc84d23:
+
+    # "{i}[r_name] returns at that moment and is now looking at you in approval as you fuck her favorite singer."
+    "{i}W tym momencie wraca Rachel i teraz obserwuje z aprobatą, jak pieprzysz jej ulubioną piosenkarkę."
+
+# game/day33.rpy:1251
+translate polish day33_v_sex_c10ca682:
+
+    # r "Is he giving you a good time, Valentina?"
+    r "Podoba Ci się co robi mój chłopak, Valentina?"
+
+# game/day33.rpy:1252
+translate polish day33_v_sex_ef12ecd0:
+
+    # va "T-t-he b-best!"
+    va "J- Jest ś- wietny!"
+
+# game/day33.rpy:1258
+translate polish day33_v_sex_80d6fd38:
+
+    # "{i}You see your sister kneel before Valentina's cunt, and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Widzisz jak Twoja siostra klęka przed Valentiną i zaczyna ją lizać, stymulując zarówno Twojego penisa, jak i cipkę drugiej dziewczyny."
+
+# game/day33.rpy:1260
+translate polish day33_v_sex_2afe7a86:
+
+    # "{i}You see your girlfriend kneel before Valentina's cunt and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Widzisz, jak twoja dziewczyna klęka przed cipką Valentiny, a jej język wysuwa się, by stymulować zarówno twojego kutasa, jak i cipkę drugiej dziewczyny."
+
+# game/day33.rpy:1261
+translate polish day33_v_sex_348a1b48:
+
+    # va "F-fuck yes!"
+    va "K- Kurwa tak!"
+
+# game/day33.rpy:1262
+translate polish day33_v_sex_bf974413:
+
+    # va "K-keep d-doing that, [r_name]!"
+    va "T- Tak t- trzymaj Rachel!"
+
+# game/day33.rpy:1269
+translate polish day33_v_sex_51ffaecb:
+
+    # "{i}Thanks to [r_name]'s caresses, some directly to her clitoris, Valentina is able to reach her climax."
+    "{i}Dzięki pieszczotom Rachel, skupionym teraz głównie na jej łechtaczce, Valentina zaczyna szczytować."
+
+# game/day33.rpy:1270
+translate polish day33_v_sex_e5d38be8:
+
+    # "{i}The girl thrusts her cunt violently in [r_name]'s face to maximize her pleasure, nearly making your cock slip out of her."
+    "{i}Dziewczyna napiera gwałtownie swoją cipkę na twarz Rachel, aby zmaksymalizować swoją przyjemność, powodując, że prawie się z niej wyślizgujesz."
+
+# game/day33.rpy:1271
+translate polish day33_v_sex_4ea9735d:
+
+    # va "Oh fuck [r_name], k-keeep doing that!"
+    va "Oh, kurwa, Rachel, nie przestawaj!"
+
+# game/day33.rpy:1272
+translate polish day33_v_sex_dd1c3a17:
+
+    # "{i}A small grin appears on [r_name]'s face as she prolongs Valentina's orgasm with the deft licks of her tongue."
+    "{i}Uśmieszek pojawia się na twarzy Rachel, gdy wydłuża orgazm Valentiny sprawnymi ruchami swojego języka."
+
+# game/day33.rpy:1273
+translate polish day33_v_sex_19f1857e:
+
+    # "{i}You hold the singer in your arms as she's unable to stand due to the convulsions currently wracking her body."
+    "{i}Trzymasz piosenkarkę w ramionach, nie jest już w stanie stać z powodu konwulsji wstrząsających jej ciałem."
+
+# game/day33.rpy:1274
+translate polish day33_v_sex_95ccc29e:
+
+    # "{i}Proud of what [r_name] accomplished, you develop an overwhelming desire to fuck her instead of Valentina."
+    "{i}Duma z tego, co osiągnęła Rachel, budzi w Tobie ogromne pragnienie, aby wyruchać ją, zamiast Valentiny."
+
+# game/day33.rpy:1281
+translate polish day33_v_sex_56ca903e:
+
+    # "{i}The singer doesn't even notice when you pull out your cock and lets herself be helped to the sofa, where she gets to enjoy the last stages of her orgasm."
+    "{i}Piosenkarka nawet nie zauważa, kiedy wyciągasz z niej swojego kutasa i pomagasz jej usiąść na kanapie, gdzie może cieszyć się ostatnimi falami swojego orgazmu."
+
+# game/day33.rpy:1287
+translate polish day33_v_sex_d16e3da8:
+
+    # "{i}Your sister embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Twoja siostra obejmuje Cię i całujesz ją namiętnie, jej wilgotna cipka ociera się o Twoje udo."
+
+# game/day33.rpy:1289
+translate polish day33_v_sex_5914c6b2:
+
+    # "{i}Your girlfriend embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Twoja dziewczyna obejmuje cię i całujesz ją namiętnie, a jej wilgotna cipka ociera się o twoją nogę."
+
+# game/day33.rpy:1291
+translate polish day33_v_sex_9a270917:
+
+    # p "That was some show you gave there."
+    p "Dałaś tam niezły popis."
+
+# game/day33.rpy:1292
+translate polish day33_v_sex_abacabd1:
+
+    # r "You liked it?"
+    r "Spodobało Ci się?"
+
+# game/day33.rpy:1293
+translate polish day33_v_sex_50da65e9:
+
+    # p "I sure did."
+    p "Oczywiście, że tak."
+
+# game/day33.rpy:1294
+translate polish day33_v_sex_b9d2aa00:
+
+    # p "Valentina too."
+    p "Valentinie też."
+
+# game/day33.rpy:1295
+translate polish day33_v_sex_dcecbfef:
+
+    # r "Nice!"
+    r "Cieszę się!"
+
+# game/day33.rpy:1296
+translate polish day33_v_sex_00f51342:
+
+    # p "I did have some trouble keeping it together though."
+    p "Miałem jednak pewne problemy, żeby powstrzymać się przed dojściem."
+
+# game/day33.rpy:1297
+translate polish day33_v_sex_d18906e1:
+
+    # r "Don't worry about that now."
+    r "Teraz już nie musisz się tym martwić."
+
+# game/day33.rpy:1299
+translate polish day33_v_sex_003579aa:
+
+    # "{i}After you sit down on the couch, [r_name] climbs on your lap, and together you guide your cock inside her wet tunnel."
+    "{i}Gdy siadasz na kanapie, Rachel wspina się na Twoje kolana i razem naprowadzacie Twojego kutasa na jej mokry tunel."
+
+# game/day33.rpy:1300
+translate polish day33_v_sex_0e191745:
+
+    # r "Oooooh [p_name]!"
+    r "Oooooh [p_name]!"
+
+# game/day33.rpy:1301
+translate polish day33_v_sex_61aef227:
+
+    # p "Can you go deeper, baby?"
+    p "Mogę wejść głębiej, kochanie?"
+
+# game/day33.rpy:1302
+translate polish day33_v_sex_f1daf558:
+
+    # r "I w-want to!"
+    r "Tak! C -Chcę tego!"
+
+# game/day33.rpy:1303
+translate polish day33_v_sex_9338afcc:
+
+    # r "Oh god!"
+    r "O Boże!"
+
+# game/day33.rpy:1304
+translate polish day33_v_sex_64f0ac46:
+
+    # "{i}Despite the frequency with which you've made love to [r_name], she still needs to adjust to your girth each time."
+    "{i}Mimo tego, że już wielokrotnie kochałeś się z Rachel, to i tak za każdym razem potrzebuje czasu, żeby przyzwyczaić się do Twojego rozmiaru."
+
+# game/day33.rpy:1305
+translate polish day33_v_sex_415e760c:
+
+    # "{i}The girl lowers herself slowly onto your cock, luxuriating in the feeling your shaft gives as it bores inside her, inch by inch."
+    "{i}Dziewczyna powoli opuszcza się na Twojego fiuta, rozkoszując się uczuciem, jakie daje jej Twój kutas, gdy wbija się w nią, centymetr po centymetrze."
+
+# game/day33.rpy:1310
+translate polish day33_v_sex_377b5990:
+
+    # "{i}When she's at the root, [r_name] starts to move up and down faster and faster."
+    "{i}Kiedy jest u nasady, Rachel zaczyna poruszać się w górę i w dół, z coraz większą szybkością."
+
+# game/day33.rpy:1311
+translate polish day33_v_sex_ed2f7f52:
+
+    # "{i}You want to touch her everywhere, but your hands linger on her buttocks, her delicious cheeks bouncing on the rhythm of your fucking."
+    "{i}Nabierasz ochoty, żeby dotykać ją po całym ciele, ale Twoje dłonie zatrzymują się na jej tyłku, jej jędrne pośladki podskakują w rytmie jej podrygów."
+
+# game/day33.rpy:1313
+translate polish day33_v_sex_6e49843b:
+
+    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
+    "{i}Wyczerpana Valentina wciąż leży zmęczona na kanapie, patrząc na was oboje z przymrużonymi oczami. Jednak pierwszy z jęków Rachel wydaje się znowu coś w niej budzić."
+
+# game/day33.rpy:1320
+translate polish day33_v_sex_8d36a3d4:
+
+    # "{i}The singer moves from the couch and disappears from view, you don't know what she's doing until you see [r_name]'s eyes grow wide."
+    "{i}Piosenkarka zsuwa się z kanapy i znika z Twojego pola widzenia, nie wiesz co robi, dopóki nie zauważasz, jak oczy Rachel się rozszerzają."
+
+# game/day33.rpy:1321
+translate polish day33_v_sex_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah!"
+
+# game/day33.rpy:1323
+translate polish day33_v_sex_644f6e44:
+
+    # va "Do you like my tongue up your ass, [r_name]?"
+    va "Jak podoba Ci się mój język w Twojej dupie, Rachel?"
+
+# game/day33.rpy:1324
+translate polish day33_v_sex_f976f546:
+
+    # p "{i}(Wow, she did that?)"
+    p "{i}(Wow, zrobiła to?)"
+
+# game/day33.rpy:1325
+translate polish day33_v_sex_e2f54f04:
+
+    # r "Yes, yes I do!"
+    r "Tak, bardzo!"
+
+# game/day33.rpy:1326
+translate polish day33_v_sex_5a95b7b5:
+
+    # p "{i}(And she likes it, great!)"
+    p "{i}(A jej się to podoba, świetnie!)"
+
+# game/day33.rpy:1327
+translate polish day33_v_sex_a92ce422_1:
+
+    # va "Good."
+    va "Dobrze."
+
+# game/day33.rpy:1330
+translate polish day33_v_sex_1de39f50:
+
+    # "{i}You continue to fuck your sister while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Dalej ruchasz swoją siostrę, podczas gdy mokre odgłosy dobiegające z dołu mówią Ci, że Valentina na przemian liże tyłek i cipkę Rachel."
+
+# game/day33.rpy:1332
+translate polish day33_v_sex_1df3bf98:
+
+    # "{i}You continue to fuck your girlfriend while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Nadal pieprzysz swoją dziewczynę, podczas gdy mokre odgłosy spomiędzy twoich nóg mówią ci, że Valentina na przemian sonduje tyłek [r_name] i liże jej cipę."
+
+# game/day33.rpy:1333
+translate polish day33_v_sex_2d5f1493:
+
+    # va "Mmmmm, you taste so good, [r_name]!"
+    va "Mmmmm, tak dobrze smakujesz Rachel!"
+
+# game/day33.rpy:1334
+translate polish day33_v_sex_ebfc36d5:
+
+    # va "Are you [p_name]'s little anal slut?"
+    va "Jesteś jego małą analną kurewką?"
+
+# game/day33.rpy:1335
+translate polish day33_v_sex_365e911a:
+
+    # r "G-god..."
+    r "B- Boże..."
+
+# game/day33.rpy:1336
+translate polish day33_v_sex_3db8b2f1:
+
+    # r "D-don't stop!!!"
+    r "N- Nie przestawaj!!!"
+
+# game/day33.rpy:1337
+translate polish day33_v_sex_197e5743:
+
+    # r "Y-yes! I'm his anal slut!"
+    r "T- Tak! Jestem jego analną kurewką!"
+
+# game/day33.rpy:1339
+translate polish day33_v_sex_ec9a579e:
+
+    # "{i}[r_name] holds you in a tight embrace that feels a little painful in its tightness, but you don't care as the feeling of your dick plunging into her ribbed depths compensates more than enough."
+    "{i}Rachel trzyma Cię w ciasnym uścisku, który jest tak mocny, że aż boli, ale nie obchodzi Cię to, bo rozkosz jaką daje Ci wbijanie się w jej ciepłe wnętrze, całkowicie Ci to rekompensuje."
+
+# game/day33.rpy:1340
+translate polish day33_v_sex_3ec55a3a:
+
+    # "{i}It's becoming harder and harder to hold off your orgasm, especially since Valentina has turned her attention to licking your balls and parts of your shaft that are exposed when you begin each thrust inside [r_name]'s pussy."
+    "{i}Coraz trudniej jest Ci powstrzymać orgazm, zwłaszcza że Valentina skupiła swoją uwagę na lizaniu Twoich jąder i odsłanianych przy każdym pchnięciu, części Twojego penisa."
+
+# game/day33.rpy:1347
+translate polish day33_v_sex_b57c5774:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Podnosisz Rachel ze swojego kutasa i wstajesz z kanapy, odpychając Valentinę na bok."
+
+# game/day33.rpy:1348
+translate polish day33_v_sex_e1c2eb60:
+
+    # p "Ladies, can you both make me cum?"
+    p "Drogie panie, może razem dokończycie robotę?"
+
+# game/day33.rpy:1349
+translate polish day33_v_sex_84389455:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Myślę, że możemy mieć rację [r_name]?"
+
+# game/day33.rpy:1354
+translate polish day33_v_sex_4741a1d0:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Dziewczyny klękają przed Tobą i chwytają Twojego penisa, obie na zmianę liżą i ssą."
+
+# game/day33.rpy:1355
+translate polish day33_v_sex_0e162753:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm, czuję na nim smak Twoich soków Rachel!"
+
+# game/day33.rpy:1356
+translate polish day33_v_sex_902b0b61:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}Rachel po prostu patrzy na Ciebie błagalnie swoimi wielkimi, zielonymi oczami."
+
+# game/day33.rpy:1365
+translate polish day33_v_sex_6ea22416:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your sister."
+    "{i}W tym momencie zaczynasz odpływać i ostatkami siły woli udaje Ci się złapać swojego kutasa i skierować go w otwarte usta Valentiny i swojej siostry."
+
+# game/day33.rpy:1367
+translate polish day33_v_sex_8a7b3429:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
+    "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na otwarte usta Valentiny i twojej dziewczyny."
+
+# game/day33.rpy:1368
+translate polish day33_v_sex_49da5a30:
+
+    # "{i}Thick strands of semen soon cover their faces, the cum that enters their mouths is swallowed eagerly by both girls."
+    "{i}Gęste strumienie nasienia pokrywają ich twarze, obie dziewczyny chętnie połykają spermę, która dostaje się do ich ust."
+
+# game/day33.rpy:1378
+translate polish day33_v_sex_b57c5774_1:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Podnosisz Rachel ze swojego kutasa i wstajesz z kanapy, odpychając Valentinę na bok."
+
+# game/day33.rpy:1379
+translate polish day33_v_sex_e1c2eb60_1:
+
+    # p "Ladies, can you both make me cum?"
+    p "Drogie panie, może razem dokończycie robotę?"
+
+# game/day33.rpy:1380
+translate polish day33_v_sex_84389455_1:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Myślę, że możemy mieć rację [r_name]?"
+
+# game/day33.rpy:1385
+translate polish day33_v_sex_4741a1d0_1:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Dziewczyny klękają przed Tobą i chwytają Twojego penisa, obie na zmianę liżą i ssą."
+
+# game/day33.rpy:1386
+translate polish day33_v_sex_0e162753_1:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm, czuję na nim smak Twoich soków Rachel!"
+
+# game/day33.rpy:1387
+translate polish day33_v_sex_902b0b61_1:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}Rachel po prostu patrzy na Ciebie błagalnie swoimi wielkimi, zielonymi oczami."
+
+# game/day33.rpy:1396
+translate polish day33_v_sex_b2f23c99:
 
     # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your sister."
-    "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na wyprostowane klatki piersiowe Valentiny i twojej siostry."
+    "{i}W tym momencie zaczynasz odpływać i ostatkami siły woli udaje Ci się złapać swojego kutasa i skierować go na piersi Valentiny i swojej siostry."
 
-# game/day33.rpy:342
-translate polish day33_2e61abc1:
+# game/day33.rpy:1398
+translate polish day33_v_sex_2e61abc1:
 
     # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
     "{i}W tym momencie tracisz go całkowicie i czystą siłą woli udaje ci się chwycić swojego kutasa i skierować go na wyprostowane klatki piersiowe Valentiny i twojej dziewczyny."
->>>>>>> polish
+
+# game/day33.rpy:1399
+translate polish day33_v_sex_2274da4f:
+
+    # "{i}Thick strands of semen soon cover their breasts leaking down their bellies."
+    "{i}Gęste strumienie nasienia pokrywają ich piersi i spływają w dół po ich brzuchach."
+
+# game/day33.rpy:1413
+translate polish day33_v_sex_0be19e5f:
+
+    # "{i}Despite your nearing orgasm and fucking your sister, you want to feel how it is to unload inside Valentina."
+    "{i}Pomimo zbliżającego się orgazmu i tego, że już ruchasz swoją siostrę, to chcesz poczuć, jak to jest spuścić się w Valentinie."
+
+# game/day33.rpy:1415
+translate polish day33_v_sex_a92aad23:
+
+    # "{i}Despite your nearing orgasm and fucking your girlfriend, you want to feel how it is to unload inside Valentina."
+    "{i}Pomimo zbliżającego się orgazmu i pieprzenia swojej dziewczyny, chcesz poczuć, jak to jest rozładować się w Valentinie."
+
+# game/day33.rpy:1416
+translate polish day33_v_sex_3f709208:
+
+    # p "Come sit on my lap Valentina."
+    p "Chodź, usiądź mi na kolanach Valentina."
+
+# game/day33.rpy:1422
+translate polish day33_v_sex_7152a713:
+
+    # "{i}Valentina switches places with [r_name], and you immediately start pounding the singer hard and fast."
+    "{i}Valentina zamienia się miejscami z Rachel, natychmiast zaczynasz mocno i szybko posuwać piosenkarkę."
+
+# game/day33.rpy:1423
+translate polish day33_v_sex_3a05466d:
+
+    # p "I'm going to cum inside you."
+    p "Dojdę w Tobie."
+
+# game/day33.rpy:1424
+translate polish day33_v_sex_0f5e5946:
+
+    # va "S-shoot me up with all that cum of yours?"
+    va "W- Wypełnisz mnie swoją spermą?"
+
+# game/day33.rpy:1425
+translate polish day33_v_sex_ffe3e255:
+
+    # p "Exactly."
+    p "Dokładnie tak."
+
+# game/day33.rpy:1426
+translate polish day33_v_sex_65d92875:
+
+    # va "D-don't stop then!"
+    va "N- No to nie przestawaj!"
+
+# game/day33.rpy:1433
+translate polish day33_v_sex_bb53698e:
+
+    # "{i}Her last words usher in a climax that's so powerful you push yourself in the air, lifting Valentina's body and burying your cock balls deep inside her gash."
+    "{i}Jej ostatnie słowa doprowadzają Cię do orgazmu, który jest tak potężny, że wypychasz swoje biodra do góry, unosząc przy tym ciało Valentiny i zagłębiając się w jej cipce po same jaja."
+
+# game/day33.rpy:1434
+translate polish day33_v_sex_42ed5749:
+
+    # "{i}At that moment, you release a flow of warm semen, holding Valentina very tightly."
+    "{i}W tym momencie, mocno trzymając Valentinę, wypełniasz jej wnętrze strumieniami ciepłego nasienia."
+
+# game/day33.rpy:1437
+translate polish day33_v_sex_3e0c2fdb:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Nie wysuwasz się z niej, póki ostatnie krople spermy nie opuszczają Twojego pulsującego fiuta, a kiedy to robisz, Twoje nasienie zaczyna wyciekać z jej waginy."
+
+# game/day33.rpy:1449
+translate polish day33_v_sex_70622176:
+
+    # "{i}Fucking your sister is more than enough for you, and you just want her to receive your load."
+    "{i}Pieprzenie Twojej siostry całkowicie Ci wystarcza i chcesz już po prostu się w nią spuścić."
+
+# game/day33.rpy:1451
+translate polish day33_v_sex_e0516e90:
+
+    # "{i}Fucking your girlfriend is more than enough for you, and you just want her to receive your load."
+    "{i}Pieprzenie swojej dziewczyny jest dla ciebie więcej niż wystarczające i chcesz tylko, żeby przyjęła twój ładunek."
+
+# game/day33.rpy:1460
+translate polish day33_v_sex_80530500:
+
+    # "{i}The thought of coming inside her ushers in a climax that's so powerful you push yourself in the air, lifting [r_name]'s body and burying your cock balls deep inside her gash."
+    "{i}Sama myśl o tym doprowadza Cię do orgazmu, który jest tak potężny, że wypychasz swoje biodra do góry, unosząc przy tym ciało Rachel i zagłębiając się w jej cipce po same jaja."
+
+# game/day33.rpy:1462
+translate polish day33_v_sex_537bc169:
+
+    # "{i}At that moment, you release a flow of warm semen, holding your sister very tightly."
+    "{i}W tym momencie, cały czas trzymając mocno swoją siostrę, wypełniasz jej wnętrze strumieniami ciepłego nasienia."
+
+# game/day33.rpy:1464
+translate polish day33_v_sex_82eff079:
+
+    # "{i}At that moment, you release a flow of warm semen, holding [r_name] very tightly."
+    "{i}W tym momencie uwalniasz strumień ciepłego nasienia, trzymając [r_name] bardzo mocno."
+
+# game/day33.rpy:1466
+translate polish day33_v_sex_3e0c2fdb_1:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Nie wysuwasz się z niej, póki ostatnie krople spermy nie opuszczają Twojego pulsującego fiuta, a kiedy to robisz, Twoje nasienie zaczyna wyciekać z jej waginy."
+
+# game/day33.rpy:1481
+translate polish day33_v_sex_543fc63b:
+
+    # "{i}Valentina retires on the couch, from where she regards you with a debauched smile."
+    "{i}Valentina siada na kanapie, skąd patrzy na was ze sprośnym uśmieszkiem."
+
+# game/day33.rpy:1482
+translate polish day33_v_sex_3a5eab2d:
+
+    # va "Now, that's what I call unwinding."
+    va "I to się nazywa relaks."
+
+# game/day33.rpy:1483
+translate polish day33_v_sex_a810e656:
+
+    # p "Are you satisfied, Miss Glorious?"
+    p "Czy panienka Glorious czuje się usatysfakcjonowana?"
+
+# game/day33.rpy:1484
+translate polish day33_v_sex_e8ff0f7f:
+
+    # va "Very."
+    va "Bardzo."
+
+# game/day33.rpy:1485
+translate polish day33_v_sex_6c4580be:
+
+    # va "I think this redefines the term 'fan-fuck' completely."
+    va "To kompletnie nowy poziom jeśli chodzi o ruchanie się z fanami."
+
+# game/day33.rpy:1486
+translate polish day33_v_sex_49279719:
+
+    # p "It sure beats getting an autograph."
+    p "Niewątpliwie lepsze to, niż autograf."
+
+# game/day33.rpy:1488
+translate polish day33_v_sex_5a9e6999:
+
+    # r "Er, I'd still like one..."
+    r "Emmm, ja i tak chciałabym dostać..."
+
+# game/day33.rpy:1489
+translate polish day33_v_sex_ff4d5505:
+
+    # va "Sure thing."
+    va "Żaden problem."
+
+# game/day33.rpy:1490
+translate polish day33_v_sex_4a456b62:
+
+    # va "Do you have a pen?"
+    va "Masz długopis?"
+
+# game/day33.rpy:1491
+translate polish day33_v_sex_2049d4cc:
+
+    # va "Or I could write it using [p_name]'s sperm if you like."
+    va "Albo mógłbym Ci się podpisać używając spermy Twojego chłopaka, jeśli chcesz."
+
+# game/day33.rpy:1493
+translate polish day33_v_sex_b9dfa25d:
+
+    # r "Everything is inside of me..."
+    r "Wszystko jest już we mnie..."
+
+# game/day33.rpy:1495
+translate polish day33_v_sex_082bd86d:
+
+    # r "He shot everything inside of you..."
+    r "Wszystko jest już w Tobie..."
+
+# game/day33.rpy:1497
+translate polish day33_v_sex_9ce6d9ee:
+
+    # r "It's all dried up, I'm afraid."
+    r "Niestety, wszystko jest chyba wyschło..."
+
+# game/day33.rpy:1498
+translate polish day33_v_sex_9989982b:
+
+    # va "Damn, a pen it is."
+    va "Cholera, to niech będzie długopis."
+
+# game/day33.rpy:1500
+translate polish day33_v_sex_72b317e3:
+
+    # "{i}After Valentina signs both your concert tickets, she lies down on the sofa again and closes her eyes."
+    "{i}Valentina podpisuje oba wasze bilety, potem ponownie kładzie się na kanapie i zamyka oczy."
+
+# game/day33.rpy:1501
+translate polish day33_v_sex_3f9c2288:
+
+    # va "This was really fun, but I'm sure security will come looking for me after a while, so you'd better leave before that."
+    va "To było naprawdę fajne, ale jestem pewna, że ochrona niedługo zacznie mnie szukać, więc lepiej wyjdźcie zanim się tu zjawią."
+
+# game/day33.rpy:1502
+translate polish day33_v_sex_bcf2746d:
+
+    # "{i}You pick up your clothes and dress yourself, while Valentina is still lying on the couch."
+    "{i}Podnosicie wasze ciuchy i ubieracie się, podczas gdy Valentina dalej leży na kanapie."
+
+# game/day33.rpy:1503
+translate polish day33_v_sex_fcbf1503:
+
+    # r "Goodbye."
+    r "Do widzenia."
+
+# game/day33.rpy:1504
+translate polish day33_v_sex_c236b676:
+
+    # p "Bye, Valentina."
+    p "Trzymaj się Valentina."
+
+# game/day33.rpy:1506
+translate polish day33_v_sex_e35b554b:
+
+    # va "Take care, lovebirds!"
+    va "Uważajcie na siebie, gołąbeczki!"
+
+# game/day33.rpy:1507
+translate polish day33_v_sex_0b11a4c7:
+
+    # va "If you're ever at a concert of mine, just get naked in one of the dressing rooms, and I'll come find you."
+    va "Jeśli jeszcze kiedyś będziecie na moim koncercie, po prostu rozbierzcie się w jednej z garderób, znajdę was."
+
+# game/day33.rpy:1508
+translate polish day33_v_sex_52d289d8:
+
+    # r "Haha, sure!"
+    r "Haha, jasne!"
+
+# game/day33.rpy:1509
+translate polish day33_v_sex_13d10d30:
+
+    # "{i}You both leave Valentina and sneak out into the deserted hallway."
+    "{i}Oboje zostawiacie Valentinę i wymykacie się do opustoszałego korytarza."
+
+# game/day33.rpy:1523
+translate polish day33_l_licking_aefcedc9:
+
+    # "{i}[l_name] sighs in relief and slips out of her bra and panties."
+    "{i}Liza wzdycha z ulgą i wyskakuje z biustonosza i majtek."
+
+# game/day33.rpy:1524
+translate polish day33_l_licking_c483f160:
+
+    # l "I'm ready."
+    l "Jestem gotowa."
+
+# game/day33.rpy:1525
+translate polish day33_l_licking_a9db017a:
+
+    # l "Don't hold back."
+    l "Nie powstrzymuj się."
+
+# game/day33.rpy:1526
+translate polish day33_l_licking_cc2617ba:
+
+    # l "I really want this."
+    l "Naprawdę tego chcę."
+
+# game/day33.rpy:1532
+translate polish day33_l_licking_8c2701f1:
+
+    # "{i}That statement alone makes your cock rock-hard, and you attempt to ignore it by turning your attention to [l_name]'s breasts."
+    "{i}Samo to stwierdzenie sprawia, że twój kutas staje się twardy jak skała, a ty próbujesz to zignorować, zwracając uwagę na piersi [l_name]."
+
+# game/day33.rpy:1533
+translate polish day33_l_licking_e223cfdd:
+
+    # l "Oh! I like it so much when you do that."
+    l "Oh! Tak bardzo lubię, kiedy to robisz."
+
+# game/day33.rpy:1536
+translate polish day33_l_licking_21fea5ba:
+
+    # "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
+    "{i}Jej sutki wkrótce pokrywają się obfitą ilością Twojej śliny, od Twojego lizania i ssania."
+
+# game/day33.rpy:1537
+translate polish day33_l_licking_013191b8:
+
+    # "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
+    "{i}Liza dotyka się i jęczy coraz intensywniej z każdą kolejną pieszczotą Twoich ust."
+
+# game/day33.rpy:1539
+translate polish day33_l_licking_6858d52b:
+
+    # "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
+    "{i}Gdy Liza zastępuje Cię przy masowaniu swoich piersi, przesuwasz się w dół w kierunku jej krocza, zatrzymując się przy wrażliwym obszarze wokół jej pępka."
+
+# game/day33.rpy:1540
+translate polish day33_l_licking_d185372a:
+
+    # l "Are y-you... are you going to use your tongue?"
+    l "C- Chcesz... Użyć języka?"
+
+# game/day33.rpy:1541
+translate polish day33_l_licking_115982f8:
+
+    # p "Maybe..."
+    p "Być może..."
+
+# game/day33.rpy:1542
+translate polish day33_l_licking_cba9ca70:
+
+    # p "Just wait and see..."
+    p "Poczekaj, a się przekonasz..."
+
+# game/day33.rpy:1543
+translate polish day33_l_licking_77e00a8f:
+
+    # l "I'm really wet down there already."
+    l "Jestem tam już naprawdę mokra."
+
+# game/day33.rpy:1544
+translate polish day33_l_licking_980d3dc7:
+
+    # p "So? The wetter, the better."
+    p "Więc? Im wilgotniej, tym lepiej."
+
+# game/day33.rpy:1546
+translate polish day33_l_licking_6c88ddfd:
+
+    # "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
+    "{i}Rozchylasz jej nogi i testujesz jej stwierdzenie, przyciskając czubek języka do jej warg sromowych, co wysyła dreszcze wzdłuż ciała Lizy."
+
+# game/day33.rpy:1548
+translate polish day33_l_licking_c0c4b7da:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
+    "{i}Czujesz jej słone soki i zapach jej perfum, co wzmacnia Twoją determinację, by zapewnić swojej siostrze najlepszy orgazm w jej życiu."
+
+# game/day33.rpy:1550
+translate polish day33_l_licking_60a4a4db:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
+    "{i}Mokre uczucie soli i perfum wzmacnia twoją determinację, by dać przyjaciółce najlepszy orgazm w jej życiu."
+
+# game/day33.rpy:1551
+translate polish day33_l_licking_1de5cddf:
+
+    # l "Oh! That w-wasn't in those videos!"
+    l "Oh! Tego nie było na filmach!"
+
+# game/day33.rpy:1552
+translate polish day33_l_licking_cd6c7564:
+
+    # p "{i}(So she has watched porn, little liar!)"
+    p "{i}(Więc oglądała porno, kłamczucha!)"
+
+# game/day33.rpy:1553
+translate polish day33_l_licking_0fa76638:
+
+    # l "B-but don't stop!"
+    l "A- Ale nie przestawaj!"
+
+# game/day33.rpy:1555
+translate polish day33_l_licking_ee27b8e5:
+
+    # "{i}[l_name] tousles your hair as you begin to lick her pussy."
+    "{i}Liza mierzwi Twoje włosy, gdy zaczynasz lizać jej cipkę."
+
+# game/day33.rpy:1556
+translate polish day33_l_licking_adb09cbf:
+
+    # "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
+    "{i}Jesteś mniej delikatny niż wcześniej, nawet trochę gwałtowny, liżesz i ssiesz jej wargi, doprowadzając ją na skraj jej możliwości."
+
+# game/day33.rpy:1560
+translate polish day33_l_licking_3563fed8:
+
+    # "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
+    "{i}Z jej ciężkiego oddechu wynika, że ​​jest bliska orgazmu, więc przerywasz."
+
+# game/day33.rpy:1562
+translate polish day33_l_licking_3ed9fc10:
+
+    # l "Wuh, why did you stop?"
+    l "C- Co, dlaczego przestałeś?"
+
+# game/day33.rpy:1563
+translate polish day33_l_licking_b52a6030:
+
+    # p "Sssh, I know what I'm doing."
+    p "Sssh, wiem co robię."
+
+# game/day33.rpy:1565
+translate polish day33_l_licking_7fadb4f3:
+
+    # "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
+    "{i}Tłumisz jej protesty namiętnym pocałunkiem, Liza odpuszcza i całkowicie oddaje się w Twoje ręce."
+
+# game/day33.rpy:1566
+translate polish day33_l_licking_a2883af2:
+
+    # "{i}When her body has entered a more relaxed state, you go down on her again."
+    "{i}Kiedy jej ciało znowu się rozluźnia, znowu przystępujesz do akcji."
+
+# game/day33.rpy:1572
+translate polish day33_l_licking_bdd0fd5f:
+
+    # l "Aaah! T-that s-so intense!"
+    l "Aaah! T- To t- takie intensywne!"
+
+# game/day33.rpy:1573
+translate polish day33_l_licking_fbd664ee:
+
+    # "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
+    "{i}Kilka celnych ruchów języka sprawia, że ​​jest gotowa w kilka chwil, a jej cipka opływa sokami."
+
+# game/day33.rpy:1574
+translate polish day33_l_licking_c4a2c2f2:
+
+    # "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
+    "{i}W ostatniej chwili wyrywasz się z jej rąk, którymi próbuje dopchnąć Cię do siebie i znowu przestajesz lizać."
+
+# game/day33.rpy:1575
+translate polish day33_l_licking_da5ade18:
+
+    # l "No!"
+    l "Nie!"
+
+# game/day33.rpy:1580
+translate polish day33_l_licking_67984514:
+
+    # "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
+    "{i}Po odwróceniu jej uwagi pocałunkami, dotykasz jej wilgotnej cipki palcami i wsuwasz jednego do środka."
+
+# game/day33.rpy:1581
+translate polish day33_l_licking_06b222aa:
+
+    # "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
+    "{i}Kiedy wzdycha, dostosowując się do nagłej penetracji, wsuwasz w nią kolejny palec."
+
+# game/day33.rpy:1583
+translate polish day33_l_licking_2d489eb2:
+
+    # "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
+    "{i}Pozwalając jej zapoznać się z tym uczuciem, patrzysz jej głęboko w oczy."
+
+# game/day33.rpy:1584
+translate polish day33_l_licking_7bd07015:
+
+    # "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
+    "{i}Kiedy widzisz akceptację na jej twarzy, wsuwasz w nią kolejne palce i zaczynasz penetrować ją krótkimi pchnięciami."
+
+# game/day33.rpy:1587
+translate polish day33_l_licking_22dc2071:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen, you know you've struck gold."
+    "{i}Odnalezienie odpowiedniego punktu zajmuje Ci chwilę, ale kiedy widzisz, jak oczy Twojej siostry się rozszerzają, wiesz, że trafiłeś."
+
+# game/day33.rpy:1589
+translate polish day33_l_licking_71f6c75f:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen, you know you've struck gold."
+    "{i}Znalezienie odpowiedniego miejsca zajmuje chwilę, ale kiedy widzisz, jak oczy twojego przyjaciela się rozszerzają, wiesz, że trafiłeś w złoto."
+
+# game/day33.rpy:1590
+translate polish day33_l_licking_978434aa:
+
+    # "{i}[l_name] begins to shudder uncontrollably, and at one point even attempts to remove your hand momentarily before pressing your fingers even deeper inside her."
+    "{i}[l_name] zaczyna drżeć w niekontrolowany sposób, a w pewnym momencie nawet próbuje na chwilę wyjąć twoją rękę, zanim wciśniesz w nią palce jeszcze głębiej."
+
+# game/day33.rpy:1591
+translate polish day33_l_licking_9f7293f5:
+
+    # "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
+    "{i}Kiedy napina się każdy mięsień w jej ciele, nadchodzi chwila prawdy."
+
+# game/day33.rpy:1592
+translate polish day33_l_licking_ec807b08:
+
+    # l "I-it... a-aaah..."
+    l "T- To... Aa-aaah..."
+
+# game/day33.rpy:1594
+translate polish day33_l_licking_c7b2c2f9:
+
+    # "{i}White cream is slathered all over her pussy and thighs, and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
+    "{i}Biały krem wylewa się na jej cipkę i uda, Twoje palce wydają charakterystyczne mokre dźwięki, zapowiadające nadchodzącą lawinę."
+
+# game/day33.rpy:1595
+translate polish day33_l_licking_500b03cb:
+
+    # l "I-have to... p-pee..."
+    l "Ja- chyba się... p- posika..."
+
+# game/day33.rpy:1606
+translate polish day33_l_licking_9546d3ca:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
+    "{i}Konwulsje jej pochwy wypychają z niej Twoje palce i obryzgują Cię ejakulatem Twojej siostry."
+
+# game/day33.rpy:1608
+translate polish day33_l_licking_9cb122f0:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
+    "{i}Konwulsje jej pochwy zmuszają cię do wyciągnięcia palców, które następnie zostają spryskane wytryskiem twojej dziewczyny."
+
+# game/day33.rpy:1609
+translate polish day33_l_licking_434e914b:
+
+    # "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
+    "{i}Liza, zwykle powściągliwa, teraz ryczy z rozkoszy, trzęsie się i drży, wciąż spuszczając się na prześcieradło."
+
+# game/day33.rpy:1615
+translate polish day33_l_licking_5ebbfd58:
+
+    # "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Twoja siostra dalej mocno Cię obejmuje, wzdychając z ulgą i drżąc mimowolnie w nieregularnych odstępach czasu."
+
+# game/day33.rpy:1617
+translate polish day33_l_licking_d9822a5e:
+
+    # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Twój przyjaciel nadal trzyma cię w ciasnym uścisku, oddychając z ulgą i mimowolnie drżąc w nieregularnych odstępach czasu."
+
+# game/day33.rpy:1618
+translate polish day33_l_licking_619ac3f5:
+
+    # p "I think that's proof enough."
+    p "Myślę, że mamy naszą odpowiedź."
+
+# game/day33.rpy:1623
+translate polish day33_l_licking_4caf62cc:
+
+    # l "Wow."
+    l "Wow."
+
+# game/day33.rpy:1624
+translate polish day33_l_licking_a4bf1c05:
+
+    # l "I can still feel it."
+    l "Nadal to czuję."
+
+# game/day33.rpy:1625
+translate polish day33_l_licking_5c82d382:
+
+    # l "I've never felt something so intense in my life."
+    l "Nigdy w życiu nie czułem niczego tak intensywnego."
+
+# game/day33.rpy:1626
+translate polish day33_l_licking_d38a1c27:
+
+    # l "It was scary and wonderful at the same time."
+    l "To było jednocześnie przerażające i cudowne."
+
+# game/day33.rpy:1627
+translate polish day33_l_licking_16603430:
+
+    # p "You were beautiful."
+    p "Byłaś w tym momencie taka piękna."
+
+# game/day33.rpy:1628
+translate polish day33_l_licking_ef606a57:
+
+    # l "You made me lose control and I just didn't care."
+    l "Sprawiłeś, że straciłam kontrolę i w ogóle mnie to nie obchodziło."
+
+# game/day33.rpy:1629
+translate polish day33_l_licking_1eb9828c:
+
+    # l "I wanted you to go on... forever..."
+    l "Chciałam, żebyś kontynuował, żeby to trwało... Bez końca..."
+
+# game/day33.rpy:1630
+translate polish day33_l_licking_7ddd1c86:
+
+    # l "And then it came... I thought I..."
+    l "I wtedy to się stało... Myślałam, że..."
+
+# game/day33.rpy:1632
+translate polish day33_l_licking_4caf62cc_1:
+
+    # l "Wow."
+    l "Wow."
+
+# game/day33.rpy:1633
+translate polish day33_l_licking_cf3e8835:
+
+    # p "I'm proud of you."
+    p "Jestem z Ciebie dumny."
+
+# game/day33.rpy:1634
+translate polish day33_l_licking_8179b31a:
+
+    # l "I love you."
+    l "Kocham Cię."
+
+# game/day33.rpy:1635
+translate polish day33_l_licking_3c07dcc8:
+
+    # p "I love you too, [l_name], ever more each day."
+    p "Ja też Cię kocham Liza, z każdym dniem coraz bardziej."
+

@@ -434,7 +434,7 @@ translate polish day140_choices_dc1f40cb:
 translate polish day140_choices_af447524:
 
     # r "Maybe we could all sleep in your room, [m_name] and convert our bedrooms?"
-    r ""
+    r "Może moglibyśmy wszyscy spać w pokoju [m_name] i zamienić nasze sypialnie?"
 
 # game/day140.rpy:169
 translate polish day140_choices_4e86d67f:
@@ -470,7 +470,7 @@ translate polish day140_choices_b4309384:
 translate polish day140_choices_aa4e93c6:
 
     # b "We know [m_name], don't worry."
-    b ""
+    b "Wiemy [m_name], nie martw się"
 
 # game/day140.rpy:182
 translate polish day140_choices_018196d3:
@@ -482,7 +482,7 @@ translate polish day140_choices_018196d3:
 translate polish day140_choices_7617a9c0:
 
     # b "I know [m_name], don't worry."
-    b ""
+    b "Wiem [m_name], nie martw się"
 
 # game/day140.rpy:187
 translate polish day140_choices_9150e843:
@@ -494,7 +494,7 @@ translate polish day140_choices_9150e843:
 translate polish day140_choices_19e4507e:
 
     # l "I know [m_name], don't worry."
-    l ""
+    l "Wiem [m_name], nie martw się"
 
 # game/day140.rpy:192
 translate polish day140_choices_bfb77a04:
@@ -506,7 +506,7 @@ translate polish day140_choices_bfb77a04:
 translate polish day140_choices_a50c0665:
 
     # r "I know [m_name], don't worry."
-    r ""
+    r "Wiem [m_name], nie martw się"
 
 # game/day140.rpy:195
 translate polish day140_choices_1f1d7533:
@@ -932,7 +932,7 @@ translate polish day140_choices_321ddbf1:
 translate polish day140_choices_1912a02d:
 
     # br "{i}(Her loser friend?!)"
-    br ""
+    br "{i}(Jej przegrany przyjaciel?!)"
 
 # game/day140.rpy:310
 translate polish day140_choices_b4216ce4:
@@ -1082,7 +1082,7 @@ translate polish day140_choices_97802b9d:
 translate polish day140_choices_d7c3fe95:
 
     # j "Are your friends still looking gorgeous?"
-    j ""
+    j "Czy twoi przyjaciele nadal wyglądają wspaniale?"
 
 # game/day140.rpy:362
 translate polish day140_choices_26637893:
@@ -1100,7 +1100,7 @@ translate polish day140_choices_8718ae40:
 translate polish day140_choices_676956f7:
 
     # j "Is your friend still looking gorgeous?"
-    j ""
+    j "Czy twój przyjaciel nadal wygląda wspaniale?"
 
 # game/day140.rpy:367
 translate polish day140_choices_cbb2de4e:
@@ -1880,7 +1880,7 @@ translate polish day140_evening_choices_96d205ae:
 translate polish day140_evening_choices_452f8c3e:
 
     # "{i}A little curious, you saunter downstairs and see your girlfriend beleaguered by two familiar figures."
-    ""
+    "{i}Nieco zaciekawiony schodzisz na dół i widzisz swoją dziewczynę nękaną przez dwie znajome postacie."
 
 # game/day140.rpy:593
 translate polish day140_evening_choices_add304b3:
@@ -1952,7 +1952,7 @@ translate polish day140_evening_choices_8f19e1cf:
 translate polish day140_evening_choices_d06341e3:
 
     # p "Why are you insulting my friend?"
-    p ""
+    p "Dlaczego obrażasz mojego przyjaciela?"
 
 # game/day140.rpy:616
 translate polish day140_evening_choices_1a957ecb:
@@ -2858,13 +2858,13 @@ translate polish day140_evening_choices_554f662e:
 translate polish day140_evening_choices_06e08191:
 
     # ri "You're willing to cheat on your pregnant girlfriend?"
-    ri ""
+    ri "Jesteś gotów zdradzić swoją ciężarną dziewczynę?"
 
 # game/day140.rpy:842
 translate polish day140_evening_choices_0d52cb91:
 
     # ri "You're willing to cheat on your girlfriend?"
-    ri ""
+    ri "Jesteś gotów zdradzić swoją dziewczynę?"
 
 # game/day140.rpy:843
 translate polish day140_evening_choices_f8a9d3cf:
@@ -2948,7 +2948,7 @@ translate polish day140_evening_choices_51193b68:
 translate polish day140_evening_choices_7d6f54bb:
 
     # ri "Say, [p_name], what's going on with your friends?"
-    ri ""
+    ri "Powiedz [p_name], co słychać u twoich znajomych?."
 
 # game/day140.rpy:864
 translate polish day140_evening_choices_171a77b0_1:
@@ -3014,7 +3014,7 @@ translate polish day140_evening_choices_5d93ba68:
 translate polish day140_evening_choices_07e9f5f9:
 
     # ri "It's just... It's been eating at me ever since that talk we had with your friends in the living room."
-    ri ""
+    ri "Po prostu nie daje mi to spokoju od czasu rozmowy z twoimi przyjaciółmi w salonie."
 
 # game/day140.rpy:881
 translate polish day140_evening_choices_87c4bd96:
@@ -3236,7 +3236,7 @@ translate polish day140_evening_choices_c70f3148:
 translate polish day140_evening_choices_729e259a:
 
     # ri "So you want to keep it a secret from your pregnant girlfriend?"
-    ri ""
+    ri "Więc chcesz utrzymać to w tajemnicy przed swoją ciężarną dziewczyną?"
 
 # game/day140.rpy:930
 translate polish day140_evening_choices_bf6434aa:
@@ -3404,7 +3404,7 @@ translate polish day140_evening_choices_5d93ba68_1:
 translate polish day140_evening_choices_07e9f5f9_1:
 
     # ri "It's just... It's been eating at me ever since that talk we had with your friends in the living room."
-    ri ""
+    ri "Po prostu nie daje mi to spokoju od czasu rozmowy z twoimi przyjaciółmi w salonie."
 
 # game/day140.rpy:965
 translate polish day140_evening_choices_87c4bd96_1:
@@ -3632,7 +3632,7 @@ translate polish day140_evening_choices_c70f3148_1:
 translate polish day140_evening_choices_729e259a_1:
 
     # ri "So you want to keep it a secret from your pregnant girlfriend?"
-    ri ""
+    ri "Więc chcesz utrzymać to w tajemnicy przed swoją ciężarną dziewczyną?"
 
 # game/day140.rpy:1016
 translate polish day140_evening_choices_bf6434aa_1:
@@ -3806,7 +3806,7 @@ translate polish day140_evening_choices_5d93ba68_2:
 translate polish day140_evening_choices_07e9f5f9_2:
 
     # ri "It's just... It's been eating at me ever since that talk we had with your friends in the living room."
-    ri ""
+    ri "Po prostu nie daje mi to spokoju od czasu rozmowy z twoimi przyjaciółmi w salonie."
 
 # game/day140.rpy:1055
 translate polish day140_evening_choices_e695b534:
@@ -3818,7 +3818,7 @@ translate polish day140_evening_choices_e695b534:
 translate polish day140_evening_choices_66dd9f61:
 
     # ri "[m_name] looks at you and the only thing I see burning in her eyes is love."
-    ri ""
+    ri "[m_name] patrzy na ciebie i jedyną rzeczą, którą widzę w jej oczach, jest miłość"
 
 # game/day140.rpy:1060
 translate polish day140_evening_choices_ced94e8a_2:
@@ -4034,7 +4034,7 @@ translate polish day140_evening_choices_203fc332:
 translate polish day140_evening_choices_729e259a_2:
 
     # ri "So you want to keep it a secret from your pregnant girlfriend?"
-    ri ""
+    ri "Więc chcesz utrzymać to w tajemnicy przed swoją ciężarną dziewczyną?"
 
 # game/day140.rpy:1107
 translate polish day140_evening_choices_bf6434aa_2:
@@ -4202,7 +4202,7 @@ translate polish day140_evening_choices_5d93ba68_3:
 translate polish day140_evening_choices_07e9f5f9_3:
 
     # ri "It's just... It's been eating at me ever since that talk we had with your friends in the living room."
-    ri ""
+    ri "Po prostu nie daje mi to spokoju od czasu rozmowy z twoimi przyjaciółmi w salonie."
 
 # game/day140.rpy:1142
 translate polish day140_evening_choices_074301b0:
@@ -4580,7 +4580,7 @@ translate polish day140_evening_choices_9854fd7e:
 translate polish day140_evening_choices_0bf36c26:
 
     # ri "Your oldest friends."
-    ri ""
+    ri "Twoi najstarsi przyjaciele"
 
 # game/day140.rpy:1232
 translate polish day140_evening_choices_1249bf0c:
@@ -4592,7 +4592,7 @@ translate polish day140_evening_choices_1249bf0c:
 translate polish day140_evening_choices_c36b5a74:
 
     # ri "[r_name], [l_name] and [m_name]."
-    ri ""
+    ri "[r_name] [l_name] i [m_name]"
 
 # game/day140.rpy:1237
 translate polish day140_evening_choices_9854fd7e_1:
@@ -4622,7 +4622,7 @@ translate polish day140_evening_choices_b5927bb1:
 translate polish day140_evening_choices_64e6273c:
 
     # ri "[b_name] and [m_name]."
-    ri ""
+    ri "[b_name] i [m_name]"
 
 # game/day140.rpy:1249
 translate polish day140_evening_choices_7962a061:
@@ -4634,7 +4634,7 @@ translate polish day140_evening_choices_7962a061:
 translate polish day140_evening_choices_98ef89e2:
 
     # ri "[r_name] and [m_name]."
-    ri ""
+    ri "[r_name] i [m_name]"
 
 # game/day140.rpy:1253
 translate polish day140_evening_choices_ff21bdfe:
@@ -4652,7 +4652,7 @@ translate polish day140_evening_choices_f05726b3:
 translate polish day140_evening_choices_85584bfa:
 
     # ri "[l_name] and [m_name]."
-    ri ""
+    ri "[l_name] i [m_name]"
 
 # game/day140.rpy:1259
 translate polish day140_evening_choices_061e5381_4:
@@ -4700,7 +4700,7 @@ translate polish day140_evening_choices_5d93ba68_4:
 translate polish day140_evening_choices_07e9f5f9_4:
 
     # ri "It's just... It's been eating at me ever since that talk we had with your friends in the living room."
-    ri ""
+    ri "Po prostu nie daje mi to spokoju od czasu rozmowy z twoimi przyjaciółmi w salonie."
 
 # game/day140.rpy:1270
 translate polish day140_evening_choices_42104d47:
@@ -6476,7 +6476,7 @@ translate polish day140_r_b_fuck_b597470c:
 translate polish day140_r_b_fuck_b0c99464:
 
     # p "Hear that, [b_name]? You're upsetting your best friend."
-    p ""
+    p "Słyszałeś to [b_name]? Denerwujesz swojego najlepszego przyjaciela"
 
 # game/day140.rpy:1720
 translate polish day140_r_b_fuck_e08e9bf0:
@@ -6536,7 +6536,7 @@ translate polish day140_r_b_fuck_44304cf6:
 translate polish day140_r_b_fuck_b733a0fe:
 
     # p "Is there more to be jealous about your friend, [r_name]?"
-    p ""
+    p "Czy jest więcej powodów do zazdrości o twojego przyjaciela [r_name]?"
 
 # game/day140.rpy:1736
 translate polish day140_r_b_fuck_5d0ae561:
@@ -6620,7 +6620,7 @@ translate polish day140_r_b_fuck_dadda088:
 translate polish day140_r_b_fuck_67d1995e:
 
     # "{i}Your younger friend catches your drift and selects the feather from the array of sex toys."
-    ""
+    "{i}Twój młodszy kolega łapie twój tok myślenia i wybiera piórko z szeregu zabawek erotycznych."
 
 # game/day140.rpy:1760
 translate polish day140_r_b_fuck_5b7843ab:
@@ -6722,7 +6722,7 @@ translate polish day140_r_b_fuck_8eb67097:
 translate polish day140_r_b_fuck_60f8870c:
 
     # "{i}You lightly slap your friend's pussy and nod at [r_name] to continue the tickling."
-    ""
+    "{i}Lekko klepiesz cipkę swojej przyjaciółki i kiwasz głową na [r_name], aby kontynuowała łaskotanie."
 
 # game/day140.rpy:1790
 translate polish day140_r_b_fuck_b9ce4b3d:
@@ -6758,7 +6758,7 @@ translate polish day140_r_b_fuck_050220c4:
 translate polish day140_r_b_fuck_33247cf1:
 
     # "{i}As you pinch her nipples and [r_name] uses the feather on her friend's inner thighs, a small stream of piss exits her pussy."
-    ""
+    "{i}Kiedy szczypiesz jej sutki, a [r_name] używa piórka na wewnętrznych udach swojej przyjaciółki, z jej cipki wypływa niewielki strumień sików."
 
 # game/day140.rpy:1799
 translate polish day140_r_b_fuck_f9e9d69c:
@@ -6872,7 +6872,7 @@ translate polish day140_r_b_fuck_0b9e4f86_1:
 translate polish day140_r_b_fuck_fc560fce:
 
     # "{i}[r_name] obviously likes the power she holds over her older friend and tickles her mercilessly with the feather."
-    ""
+    "{i}[r_name] najwyraźniej lubi władzę, jaką ma nad swoją starszą przyjaciółką i bezlitośnie łaskocze ją piórkiem."
 
 # game/day140.rpy:1832
 translate polish day140_r_b_fuck_c413b796:
@@ -6944,7 +6944,7 @@ translate polish day140_r_b_fuck_1e2601e5:
 translate polish day140_r_b_fuck_80166d50:
 
     # "{i}Your girlfriend's eyes begin to tear and she retches as the tip of your cock hits the back of her throat."
-    ""
+    "{i}Oczy twojej dziewczyny zaczynają łzawić, a ona wymiotuje, gdy czubek twojego kutasa uderza w tył jej gardła."
 
 # game/day140.rpy:1858
 translate polish day140_r_b_fuck_27d7082e:
@@ -6974,7 +6974,7 @@ translate polish day140_r_b_fuck_76607b10:
 translate polish day140_r_b_fuck_9ecef433:
 
     # "{i}A stream of piss ejects from her cunt and splashes all over her older friend's pussy and abdomen."
-    ""
+    "{i}Strumień sików wylatuje z jej cipy i rozpryskuje się po cipce i brzuchu jej starszej koleżanki."
 
 # game/day140.rpy:1874
 translate polish day140_r_b_fuck_e1801f36:
@@ -7022,7 +7022,7 @@ translate polish day140_r_b_fuck_77a33b4e:
 translate polish day140_r_b_fuck_046f705d:
 
     # "{i}You notice that [r_name] is ready and watch as she pushes apart her friend's legs and begins to insert the dildo strapped to her body."
-    ""
+    "{i}Zauważasz, że [r_name] jest gotowa i obserwujesz, jak rozchyla nogi swojej przyjaciółki i zaczyna wkładać dildo przywiązane do jej ciała."
 
 # game/day140.rpy:1893
 translate polish day140_r_b_fuck_f661066c:
@@ -7052,7 +7052,7 @@ translate polish day140_r_b_fuck_7f443b25:
 translate polish day140_r_b_fuck_8b0b6195:
 
     # "{i}While [b_name] is gasping for air, still being fucked by her friend, you lift her from the bed and make her lie on top of you."
-    ""
+    "{i}Podczas gdy [b_name] łapie powietrze, wciąż będąc ruchaną przez swojego przyjaciela, podnosisz ją z łóżka i sprawiasz, że kładzie się na tobie."
 
 # game/day140.rpy:1908
 translate polish day140_r_b_fuck_2db7aeb9:
@@ -7070,7 +7070,7 @@ translate polish day140_r_b_fuck_ba6bf843:
 translate polish day140_r_b_fuck_f9d5d15b:
 
     # "{i}Her younger friend's spit on her anus doesn't really help with the entry, but you can't help but love [r_name]'s degrading gesture."
-    ""
+    "{i}Plucie jej młodszej koleżanki na odbyt nie pomaga w wejściu, ale nie sposób nie pokochać poniżającego gestu [r_name]."
 
 # game/day140.rpy:1913
 translate polish day140_r_b_fuck_f99e584e:
@@ -7106,7 +7106,7 @@ translate polish day140_r_b_fuck_473d2cf9:
 translate polish day140_r_b_fuck_53053957:
 
     # "{i}[b_name] trembles in anticipation as her friend reinserts the dildo, while your cock is still stuffed inside her asshole."
-    ""
+    "{i}[b_name] drży w oczekiwaniu, gdy jej przyjaciółka ponownie wkłada dildo, podczas gdy twój kutas jest nadal wypchany w jej dupku."
 
 # game/day140.rpy:1925
 translate polish day140_r_b_fuck_8916675f:
@@ -7130,7 +7130,7 @@ translate polish day140_r_b_fuck_e4e22617:
 translate polish day140_r_b_fuck_7bb04982:
 
     # "{i}[r_name] and you move in unison, she spears her friend's cunt while you burrow deep inside her ass."
-    ""
+    "{i}[r_name] i poruszacie się zgodnie, ona przebija cipę swojej przyjaciółki, podczas gdy ty zagłębiasz się głęboko w jej tyłku."
 
 # game/day140.rpy:1931
 translate polish day140_r_b_fuck_3184ce51:
@@ -7220,7 +7220,7 @@ translate polish day140_r_b_fuck_287cdfae:
 translate polish day140_r_b_fuck_1c4434cb:
 
     # "{i}[r_name] takes your place and rams the strap-on into [b_name]'s butthole, while you slip past her labia and drive your cock deep into her soaking wet vagina."
-    ""
+    "{i}[r_name] zajmuje twoje miejsce i wbija strap-on w tyłek [b_name], podczas gdy ty prześlizgujesz się obok jej warg sromowych i wbijasz swojego kutasa głęboko w jej mokrą pochwę."
 
 # game/day140.rpy:1953
 translate polish day140_r_b_fuck_2745ee7b:
@@ -7268,7 +7268,7 @@ translate polish day140_r_b_fuck_242d03cd:
 translate polish day140_r_b_fuck_f354c0a7:
 
     # "{i}She keeps spasming and squirt is leaking from her cunt on your cock."
-    ""
+    "{i}Ona ciągle spazmuje i tryska z jej cipy na twojego kutasa"
 
 # game/day140.rpy:1968
 translate polish day140_r_b_fuck_b1faf14a:
@@ -7304,7 +7304,7 @@ translate polish day140_r_b_fuck_8232897f:
 translate polish day140_r_b_fuck_733b565c:
 
     # "{i}Your girlfriend still has no control over her body, so you push her legs apart and re-enter her in full force."
-    ""
+    "{i}Twoja dziewczyna nadal nie ma kontroli nad swoim ciałem, więc rozsuwasz jej nogi i ponownie wchodzisz w nią z pełną siłą."
 
 # game/day140.rpy:1981
 translate polish day140_r_b_fuck_a927a6d6:
@@ -7334,7 +7334,7 @@ translate polish day140_r_b_fuck_b7450aac:
 translate polish day140_r_b_fuck_5a331541:
 
     # "{i}Your girlfriend still has no control over her body, but she responds instinctively when you stuff your cock in her slack mouth."
-    ""
+    "{i}Twoja dziewczyna nadal nie ma kontroli nad swoim ciałem, ale reaguje instynktownie, gdy wpychasz swojego kutasa w jej luźne usta."
 
 # game/day140.rpy:2008
 translate polish day140_r_b_fuck_6114106f:
@@ -7352,7 +7352,7 @@ translate polish day140_r_b_fuck_b7450aac_1:
 translate polish day140_r_b_fuck_5a331541_1:
 
     # "{i}Your girlfriend still has no control over her body, but she responds instinctively when you stuff your cock in her slack mouth."
-    ""
+    "{i}Twoja dziewczyna nadal nie ma kontroli nad swoim ciałem, ale reaguje instynktownie, gdy wpychasz swojego kutasa w jej luźne usta."
 
 # game/day140.rpy:2025
 translate polish day140_r_b_fuck_389b2404:
@@ -7412,7 +7412,7 @@ translate polish day140_r_b_fuck_e787c5f9:
 translate polish day140_r_b_fuck_3b1e5dd3:
 
     # "{i}Hesitant at first, she begins to lick her friend, picking up the pace as [r_name] grabs her head to direct the cunnilingus."
-    ""
+    "{i}Początkowo niezdecydowana, zaczyna lizać swoją przyjaciółkę, zwiększając tempo, gdy [r_name] chwyta ją za głowę, aby pokierować cunnilingus."
 
 # game/day140.rpy:2049
 translate polish day140_r_b_fuck_ad85bac8:
@@ -7460,7 +7460,7 @@ translate polish day140_r_b_fuck_d9c88063:
 translate polish day140_r_b_fuck_2fe1d399:
 
     # "{i}Your girl releases another volley of piss, which [b_name] eagerly drinks from her friend's cunt."
-    ""
+    "{i}Twoja dziewczyna wypuszcza kolejną salwę szczyn, które [b_name] ochoczo wypija z cipy swojej przyjaciółki."
 
 # game/day140.rpy:2065
 translate polish day140_r_b_fuck_92a22c70:
@@ -7833,4 +7833,102 @@ translate polish day140_r_b_fuck_436cbef4:
 
     # "{i}[r_name] grins at you and thrusts the dildo inside [b_name]'s asshole a few times in response."
     "{i}Rachel uśmiecha się do Ciebie i w odpowiedzi kilka razy wpycha dildo w dupę Belli."
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day140.rpy:170
+translate polish day140_choices_40a297b5:
+
+    # m "Not with Iris and Riley sleeping in the guest room."
+    m "Nie, gdy Iris i Riley śpią w pokoju gościnnym"
+
+# game/day140.rpy:174
+translate polish day140_choices_1b42de6e:
+
+    # m "Not with Riley sleeping in the guest room."
+    m "Nie, gdy Riley śpi w pokoju gościnnym"
+
+# game/day140.rpy:544
+translate polish day140_choices_de0f8124:
+
+    # "{i}During the day, an idea has been forming in your head and you'll need the cooperation of both [r_name] and [b_name]."
+    "{i}W ciągu dnia w twojej głowie zrodził się pomysł i będziesz potrzebować współpracy zarówno [r_name], jak i [b_name]."
+
+# game/day140.rpy:635
+translate polish day140_evening_choices_1d869268:
+
+    # br "But she is! A depraved, pregnant whore."
+    br "Przecież jest dziwką! Zboczoną, ciężarną dziwką!"
+
+# game/day140.rpy:637
+translate polish day140_evening_choices_bcd322a1:
+
+    # br "But she is! A pregnant whore."
+    br "Przecież jest dziwką! I to ciężarną dziwką!"
+
+# game/day140.rpy:640
+translate polish day140_evening_choices_ceec72fe:
+
+    # br "But she is! A depraved whore."
+    br "Przecież nią jest! Zboczona dziwka!"
+
+# game/day140.rpy:642
+translate polish day140_evening_choices_5bda9905:
+
+    # br "But she is! A whore."
+    br "Przecież nią jest! Dziwka!"
+
+# game/day140.rpy:1902
+translate polish day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Czy [r_name] jest w ciąży w tej scenie?"
+
+# game/day140.rpy:1906
+translate polish day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] w ciąży"
+
+# game/day140.rpy:1909
+translate polish day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nie jest w ciąży"
+
+# game/day140.rpy:1911
+translate polish day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Czy chcesz włączyć sporty wodne w tej scenie?."
+
+# game/day140.rpy:1915
+translate polish day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Możliwość uprawiania sportów wodnych"
+
+# game/day140.rpy:1918
+translate polish day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Sporty wodne wyłączone"
+
+# game/day140.rpy:1991
+translate polish day140_r_b_fuck_15bf1d70:
+
+    # p "Is there more to envious about your sister, [r_name]?"
+    p "Czy jest więcej powodów do zazdrości o twoją siostrę [r_name]?"
+
+# game/day140.rpy:1993
+translate polish day140_r_b_fuck_d849fd04:
+
+    # p "Is there more to be envious about your friend, [r_name]?"
+    p "Czy jest więcej powodów do zazdrości o twojego przyjaciela [r_name]?"
+
+# game/day140.rpy:2074
+translate polish day140_r_b_fuck_241c029b:
+
+    # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
+    "{i}Lekko klepiesz cipkę swojej dziewczyny i kiwasz głową na [r_name], aby kontynuowała łaskotanie."
 

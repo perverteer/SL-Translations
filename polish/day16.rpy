@@ -44,7 +44,7 @@ translate polish day16_choices_2003a1af:
 translate polish day16_choices_c97f59d8:
 
     # m "The girls are already at the beach."
-    m ""
+    m "Dziewczyny są już na plaży"
 
 # game/day16.rpy:46
 translate polish day16_choices_8316fa62:
@@ -74,7 +74,7 @@ translate polish day16_choices_e9b4f560:
 translate polish day16_choices_b1982764:
 
     # "{i}You make yourself a sandwich and have a seat next to Mrs. Smith."
-    ""
+    "{i}Zrób sobie kanapkę i usiądź obok pani Smith."
 
 # game/day16.rpy:54
 translate polish day16_choices_98cbe6a3:
@@ -386,7 +386,7 @@ translate polish day16_choices_7e3e1b6d:
 translate polish day16_choices_cfde1ff1:
 
     # b "When did [p_name] become such a charmer?"
-    b ""
+    b "Kiedy [p_name] stał się takim czarodziejem?"
 
 # game/day16.rpy:144
 translate polish day16_choices_42a0883b:
@@ -476,7 +476,7 @@ translate polish day16_choices_64bae5bd:
 translate polish day16_choices_531714ef:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    ""
+    "{i}Wasz pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name]. Chociaż jesteście w ustronnym miejscu, każdy może was zobaczyć, ale oboje najwyraźniej się tym nie przejmujecie."
 
 # game/day16.rpy:170
 translate polish day16_choices_5e9f795a:
@@ -650,7 +650,7 @@ translate polish day16_choices_64bae5bd_1:
 translate polish day16_choices_531714ef_1:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    ""
+    "{i}Wasz pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name]. Chociaż jesteście w ustronnym miejscu, każdy może was zobaczyć, ale oboje najwyraźniej się tym nie przejmujecie."
 
 # game/day16.rpy:214
 translate polish day16_choices_a4b0ea11:
@@ -746,7 +746,7 @@ translate polish day16_choices_64bae5bd_2:
 translate polish day16_choices_531714ef_2:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you, but you both clearly don't care about that."
-    ""
+    "{i}Wasz pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name]. Chociaż jesteście w ustronnym miejscu, każdy może was zobaczyć, ale oboje najwyraźniej się tym nie przejmujecie."
 
 # game/day16.rpy:245
 translate polish day16_choices_5e9f795a_1:
@@ -1400,7 +1400,7 @@ translate polish day16_choices_f7d21050:
 translate polish day16_choices_78542861:
 
     # p "Yes, we arrived yesterday."
-    p ""
+    p "Tak, przyjechaliśmy wczoraj"
 
 # game/day16.rpy:393
 translate polish day16_choices_e28cf8f4:
@@ -1622,7 +1622,7 @@ translate polish day16_choices_f1cb28e0:
 translate polish day16_choices_d181ae94:
 
     # n "Good! Let's head back, I'm meeting [r_name] in an hour."
-    n ""
+    n "Dobrze! Wracajmy, za godzinę mam spotkanie z [r_name]."
 
 # game/day16.rpy:453
 translate polish day16_choices_870507e0:
@@ -2264,7 +2264,7 @@ translate polish day16_evening_choices_67704916:
 translate polish day16_evening_choices_e71ee520:
 
     # b "Something the matter?"
-    b ""
+    b "Coś się stało?"
 
 # game/day16.rpy:658
 translate polish day16_evening_choices_d4e5ab0f:
@@ -2468,7 +2468,7 @@ translate polish day16_evening_choices_058e8959:
 translate polish day16_evening_choices_33ff551d:
 
     # "{i}A lump gets stuck in your throat as [b_name] touches your hand affectionately. The look in her eyes goes beyond friendly affection, it's more like a longing adoration."
-    ""
+    "{i}Guz utknął ci w gardle, gdy [b_name] czule dotyka twojej dłoni Spojrzenie w jej oczach wykracza poza przyjazną czułość, bardziej przypomina tęskne uwielbienie."
 
 # game/day16.rpy:714
 translate polish day16_evening_choices_300701d2:
@@ -2930,7 +2930,7 @@ translate polish day16_b_restaurant_choices_soft_52a5da42:
 translate polish day16_b_restaurant_choices_soft_2b17ae3f:
 
     # p "You're welcome, dear [b_name]."
-    p ""
+    p "Nie ma za co, drogi [b_name]"
 
 # game/day16.rpy:832
 translate polish day16_b_restaurant_choices_soft_c7c3d03e:
@@ -2978,7 +2978,7 @@ translate polish day16_b_restaurant_choices_soft_4f84ff92:
 translate polish day16_b_restaurant_choices_soft_3ed37d64:
 
     # "{i}Without finishing her sentence, [b_name] hurriedly leaves the restaurant."
-    ""
+    "{i}Nie kończąc zdania [b_name] pospiesznie opuszcza restaurację"
 
 # game/day16.rpy:845
 translate polish day16_b_restaurant_choices_soft_ffd6d6e2:
@@ -3122,7 +3122,7 @@ translate polish day16_b_restaurant_choices_soft_f57ce43a:
 translate polish day16_b_restaurant_choices_soft_451e90b7:
 
     # p "That dress is very nice, [b_name], it really enhances your gorgeous features."
-    p ""
+    p "Ta sukienka jest bardzo ładna [b_name], naprawdę podkreśla twoje wspaniałe rysy."
 
 # game/day16.rpy:880
 translate polish day16_b_restaurant_choices_soft_877b9059:
@@ -3164,7 +3164,7 @@ translate polish day16_b_restaurant_choices_soft_2d2db619:
 translate polish day16_b_restaurant_choices_soft_ab5517b2:
 
     # "{i}Disgruntled, [b_name] reveals one of her breasts to you."
-    ""
+    "{i}Niezadowolona [b_name] ujawnia ci jedną ze swoich piersi"
 
 # game/day16.rpy:890
 translate polish day16_b_restaurant_choices_soft_2808e790:
@@ -3230,7 +3230,7 @@ translate polish day16_b_restaurant_choices_soft_4cc32f5d:
 translate polish day16_b_restaurant_choices_soft_532cc142:
 
     # "{i}[b_name] covers herself up real quick and finishes her meal like nothing happened while the waiter walks past."
-    ""
+    "{i}[b_name] szybko się zakrywa i kończy posiłek, jakby nic się nie stało, podczas gdy kelner przechodzi obok."
 
 # game/day16.rpy:916
 translate polish day16_b_restaurant_choices_soft_a5434a73:
@@ -3380,7 +3380,7 @@ translate polish day16_b_restaurant_choices_soft_da9063d1:
 translate polish day16_b_restaurant_choices_soft_7ef2e9bb:
 
     # p "Relax dear [l_name], I was just teasing you."
-    p ""
+    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem"
 
 # game/day16.rpy:959
 translate polish day16_b_restaurant_choices_soft_a6f4fcc9:
@@ -3542,7 +3542,7 @@ translate polish day16_b_restaurant_choices_soft_3b185a49:
 translate polish day16_b_restaurant_choices_soft_f27bce54:
 
     # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
-    p ""
+    p "{i}(Cóż za niebiański widok Leżąc tutaj z nagą jak gwiazda dziewczyną i mając zamiar wyruszyć w podróż seksualnych odkryć)"
 
 # game/day16.rpy:995
 translate polish day16_b_restaurant_choices_soft_f8c73797:
@@ -3566,7 +3566,7 @@ translate polish day16_b_restaurant_choices_soft_8df2348b:
 translate polish day16_b_restaurant_choices_soft_65757b42:
 
     # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
-    ""
+    "{i}Twoja ręka leży na jej nagim brzuchu, a [l_name] bierze głęboki oddech, patrząc na ciebie wyczekująco."
 
 # game/day16.rpy:1002
 translate polish day16_b_restaurant_choices_soft_0df3a880:
@@ -3830,7 +3830,7 @@ translate polish day16_b_restaurant_choices_soft_2c69ebf2:
 translate polish day16_b_restaurant_choices_soft_22032ab9:
 
     # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
-    ""
+    "{i}[l_name] znów jest całkowicie skupiona, jej mechaniczne zachowanie całkowicie zniknęło, wije się na piasku, masując swoją cipkę"
 
 # game/day16.rpy:1049
 translate polish day16_b_restaurant_choices_soft_f362d2ec:
@@ -3908,7 +3908,7 @@ translate polish day16_b_restaurant_choices_soft_5f782092:
 translate polish day16_b_restaurant_choices_soft_5ad0e16a:
 
     # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
-    ""
+    "{i}Nie mogąc nic więcej powiedzieć [l_name] drży mocno Drżenie jej orgazmu wyprzedza wszelkie inne funkcje mięśni jej ciała"
 
 # game/day16.rpy:1067
 translate polish day16_b_restaurant_choices_soft_e5a66882:
@@ -4187,4 +4187,1098 @@ translate polish strings:
     # game/day16.rpy:641
     old "Server"
     new "Kelner"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day16.rpy:101
+translate polish day16_choices_eeb4569b:
+
+    # p "{i}Dear sir, madam, Attached you'll find footage made by a security camera in one of your stores. The male in question is an employee of yours, engaging in illicit activities during work hours with what we think is a prostitute."
+    p "{i} Szanowny Panie W załączeniu znajduje się nagranie wykonane przez kamerę bezpieczeństwa w jednym z Twoich sklepów Mężczyzna, o którym mowa, jest Twoim pracownikiem angażującym się w nielegalne działania w godzinach pracy z czymś, co uważamy za prostytutkę."
+
+# game/day16.rpy:115
+translate polish day16_choices_73ec5022:
+
+    # p "{i}So you're going to stop blackmailing. Otherwise, I'll release those pictures in any way I see fit. I've attached some of the photos for you to enjoy so you know I'm not talking out of my ass."
+    p "{i} Więc przestaniesz szantażować W przeciwnym razie opublikuję te zdjęcia w dowolny sposób, jaki uznam za stosowny Dołączyłem kilka zdjęć, abyś mógł się nimi cieszyć, więc wiesz, że nie mówię z dupy"
+
+# game/day16.rpy:118
+translate polish day16_choices_4956d3f3:
+
+    # p "{i}So you're going to stop blackmailing. Otherwise, I'll release that video in any way I see fit. I've attached a snippet of the footage for you to enjoy and so you know I'm not talking out of my ass."
+    p "{i}Więc koniec z tymi szantażami, w innym wypadku upublicznię to wideo. Załączam Ci próbkę nagrania, żebyś wiedział, że nie blefuję."
+
+# game/day16.rpy:121
+translate polish day16_choices_4956d3f3_1:
+
+    # p "{i}So you're going to stop blackmailing. Otherwise, I'll release that video in any way I see fit. I've attached a snippet of the footage for you to enjoy and so you know I'm not talking out of my ass."
+    p "{i}Więc koniec z tymi szantażami, w innym wypadku upublicznię to wideo. Załączam Ci próbkę nagrania, żebyś wiedział, że nie blefuję."
+
+# game/day16.rpy:174
+translate polish day16_choices_9d070ff1:
+
+    # "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you. But you both clearly don't care about that."
+    "{i}Wasz pocałunek jest długi i namiętny, prawie odbiera Twojej siostrze dech. Mimo, że jesteście na uboczu, to ktoś mógłby was zobaczyć, ale ewidentnie was to teraz nie obchodzi."
+
+# game/day16.rpy:176
+translate polish day16_choices_209dc845:
+
+    # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you. But you both clearly don't care about that."
+    "{i}Twój pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name] Chociaż jesteście w ustronnym miejscu, każdy może was zobaczyć, ale oboje najwyraźniej się tym nie przejmujecie."
+
+# game/day16.rpy:200
+translate polish day16_choices_ef4bf75b:
+
+    # r "But yesterday in the ocean I thought we had a moment there, but nothing happened. And it made me doubt us even more. Are you really there for me, or am I just a plaything?"
+    r "Ale wczoraj w oceanie myślałem, że mieliśmy chwilę, ale nic się nie wydarzyło i to sprawiło, że zwątpiłem w nas jeszcze bardziej Czy naprawdę jesteś tam dla mnie, czy jestem tylko zabawką?"
+
+# game/day16.rpy:218
+translate polish day16_choices_9d070ff1_1:
+
+    # "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you. But you both clearly don't care about that."
+    "{i}Wasz pocałunek jest długi i namiętny, prawie odbiera Twojej siostrze dech. Mimo, że jesteście na uboczu, to ktoś mógłby was zobaczyć, ale ewidentnie was to teraz nie obchodzi."
+
+# game/day16.rpy:220
+translate polish day16_choices_209dc845_1:
+
+    # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you. But you both clearly don't care about that."
+    "{i}Twój pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name] Chociaż jesteście w ustronnym miejscu, każdy może was zobaczyć, ale oboje najwyraźniej się tym nie przejmujecie."
+
+# game/day16.rpy:231
+translate polish day16_choices_7600d340:
+
+    # p "No really, I can't be with someone who's shaken by the first person who questions you. In a healthy relationship, you face those problems together."
+    p "Naprawdę, nie mogę być z kimś, kto tak reaguje na komentarze pierwszej lepszej osoby. W zdrowym związku takie problemy rozwiązuje się wspólnie."
+
+# game/day16.rpy:249
+translate polish day16_choices_9d070ff1_2:
+
+    # "{i}Your kiss is long and passionate and nearly takes your sister's breath away. Though you are in a secluded spot, anybody could see you. But you both clearly don't care about that."
+    "{i}Wasz pocałunek jest długi i namiętny, prawie odbiera Twojej siostrze dech. Mimo, że jesteście na uboczu, to ktoś mógłby was zobaczyć, ale ewidentnie was to teraz nie obchodzi."
+
+# game/day16.rpy:251
+translate polish day16_choices_209dc845_2:
+
+    # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away. Though you are in a secluded spot, anybody could see you. But you both clearly don't care about that."
+    "{i}Twój pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name] Chociaż jesteście w ustronnym miejscu, każdy może was zobaczyć, ale oboje najwyraźniej się tym nie przejmujecie."
+
+# game/day16.rpy:298
+translate polish day16_choices_882738fb:
+
+    # p "So Nia, tell me a little about yourself."
+    p "Więc Nia, powiedz mi coś o sobie."
+
+# game/day16.rpy:334
+translate polish day16_choices_2ea44e6e:
+
+    # n "Yeah, and I know Rebeca very well."
+    n "Tak, bardzo dobrze znam się z Rebeką."
+
+# game/day16.rpy:477
+translate polish day16_choices_1b229ea6:
+
+    # "{i}When you walk to the address Rebeca gave you, she's already outside waiting for you."
+    "{i}Idziesz pod adres, który podała Ci Rebeka, już tam na Ciebie czeka."
+
+# game/day16.rpy:489
+translate polish day16_choices_be9efabc:
+
+    # p "{i}(Knowing a bit about her current body of work, I can guess what particular form she's interested in.)"
+    p "{i}(Biorąc pod uwagę, co wiem o jej dotychczasowych pracach, to domyślam się o jaką konkretnie formę jej chodzi.)"
+
+# game/day16.rpy:503
+translate polish day16_choices_378d2827:
+
+    # "{i}When you're halfway back to the studio, Rebeca suddenly stops."
+    "{i}W połowie drogi, Rebeka nagle się zatrzymuje."
+
+# game/day16.rpy:512
+translate polish day16_choices_fd211acc:
+
+    # "{i}Rebeca returns after a short while and looks relieved."
+    "{i}Rebeca wraca po krótkiej chwili i wygląda na rozluźnioną"
+
+# game/day16.rpy:596
+translate polish day16_evening_choices_5112ee45:
+
+    # p "Yes, it's a restaurant built inside a natural cave. On top of that, I read that the food is also excellent."
+    p "Tak, restauracja jest zbudowana we wnętrzu naturalnej jaskini. A z tego co czytałem, jedzenie też mają świetne"
+
+# game/day16.rpy:607
+translate polish day16_evening_choices_0f19bedc:
+
+    # "{i}After you're both seated, you order some wine."
+    "{i}Siadacie do stolika i zamawiacie wino."
+
+# game/day16.rpy:635
+translate polish day16_evening_choices_ba2cfc92:
+
+    # b "The trout for me, please."
+    b "Dla mnie pstrąg."
+
+# game/day16.rpy:637
+translate polish day16_evening_choices_dbc36a0e:
+
+    # "{i}The conversation is a bit awkward after that, but the mood lightens as soon as the food arrives."
+    "{i}Później rozmowa jest nieco niezręczna, ale nastrój poprawia się, gdy tylko pojawia się jedzenie."
+
+# game/day16.rpy:743
+translate polish day16_b_restaurant_choices_soft_a9b82779:
+
+    # "{i}After both finishing your dessert, you're ready to leave."
+    "{i}Kiedy oboje kończycie swój deser, jesteście już gotowi do wyjścia."
+
+# game/day16.rpy:786
+translate polish day16_b_restaurant_choices_soft_d2ae686c:
+
+    # "{i}After another bout of silence, the food finally arrives."
+    "{i}Po paru kolejnych chwilach w ciszy, w końcu serwują wam wasze jedzenie."
+
+# game/day16.rpy:793
+translate polish day16_b_restaurant_choices_soft_11bb89d8:
+
+    # "{i}Despite her earlier protests, [b_name] clearly enjoys the food before her."
+    "{i}Mimo jej wcześniejszych protestów, Belli wyraźnie smakuje jej danie."
+
+# game/day16.rpy:860
+translate polish day16_b_restaurant_choices_soft_350ff58a:
+
+    # "{i}The air is still warm outside, and there's a slight sea breeze. At first, you walk in silence along the shoreline, the sea softly splashing against your ankles."
+    "{i}Na zewnątrz dalej jest ciepło i czuć lekką morską bryzę. Z początku spacerujecie w ciszy wzdłuż brzegu, fale rozbijają się łagodnie o wasze kostki."
+
+# game/day16.rpy:865
+translate polish day16_b_restaurant_choices_soft_c4bf5da9:
+
+    # "{i}[l_name] is silent after this exchange. A few times, it looks like she's trying to say something but thinks better of it."
+    "{i}Liza cichnie po tej wymianie zdań. Kilka razy wygląda jakby miała coś powiedzieć, ale ciągle się rozmyśla."
+
+# game/day16.rpy:880
+translate polish day16_b_restaurant_choices_soft_d1f5e97f:
+
+    # p "Relax, dear sis, I was just teasing you."
+    p "Spokojnie siostrzyczko, tylko się z Tobą drażnię."
+
+# game/day16.rpy:882
+translate polish day16_b_restaurant_choices_soft_83cf7ebc:
+
+    # p "Relax, dear [l_name], I was just teasing you."
+    p "Spokojnie drogi [l_name], tylko się z tobą droczyłem"
+
+# game/day16.rpy:945
+translate polish day16_rb_watersports_dc7928c0:
+
+    # "{i}Careful not to get caught, you follow Rebeca to a secluded place between several large rocks. She's already undressed when you arrive..."
+    "{i}Ostrożnie, aby nie zostać przyłapanym, podążasz za Rebecą w ustronne miejsce między kilkoma dużymi skałami, a ona jest już rozebrana, kiedy przybywasz."
+
+# game/day16.rpy:952
+translate polish day16_rb_watersports_d541273a:
+
+    # p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
+    p "{i}(Wow, jestem w samą porę.)"
+
+# game/day16.rpy:954
+translate polish day16_rb_watersports_a1ab4375:
+
+    # p "{i}(Let it flow, girl... Damn what a sight.)"
+    p "{i}(Niech płynie dziewczyno... Cholera, co za widok.)"
+
+# game/day16.rpy:959
+translate polish day16_rb_watersports_f6eeb36d:
+
+    # p "{i}(Shit! She saw me! She's looking right at me...)"
+    p "{i}(Kurwa! Zauważyła mnie! Patrzy prosto na mnie...)"
+
+# game/day16.rpy:960
+translate polish day16_rb_watersports_161d61e6:
+
+    # p "{i}(And she's smiling... Wow!)"
+    p "{i}(I się uśmiecha... Wow!)"
+
+# game/day16.rpy:964
+translate polish day16_rb_watersports_0b252137:
+
+    # "{i}You head back to the main beach and wait for Rebeca to come back."
+    "{i}Wracasz na ścieżkę i czekasz na Rebekę, aż wróci."
+
+# game/day16.rpy:966
+translate polish day16_rb_watersports_4992d2b8:
+
+    # rb "Guess who I saw just now..."
+    rb "Zgadnij kogo właśnie zobaczyłam..."
+
+# game/day16.rpy:967
+translate polish day16_rb_watersports_41b842d0:
+
+    # p "{i}(She doesn't seem mad... Quite the contrary.)"
+    p "{i}(Nie wydaje się zła... Wręcz przeciwnie.)"
+
+# game/day16.rpy:968
+translate polish day16_rb_watersports_f8f2b7fa:
+
+    # rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
+    rb "Podnieca Cię coś takiego [p_name]? Jesteś fanem sportów wodnych?"
+
+# game/day16.rpy:979
+translate polish day16_rb_watersports_63e34849:
+
+    # p "Actually I do. You looked very hot just now."
+    p "Prawdę mówiąc, tak. Wyglądałaś tam naprawdę seksownie."
+
+# game/day16.rpy:980
+translate polish day16_rb_watersports_168a57bc:
+
+    # rb "Dirty! I'll keep that in mind..."
+    rb "Niegrzeczny chłopiec! Zapamiętam to sobie..."
+
+# game/day16.rpy:981
+translate polish day16_rb_watersports_00fe2d33:
+
+    # rb "I like you already, [p_name]. We're going to get along just fine."
+    rb "Już Cię lubię [p_name]. Myślę, że będziemy się świetnie dogadywać."
+
+# game/day16.rpy:982
+translate polish day16_rb_watersports_73d7233c:
+
+    # p "Thank you, the feeling is quite mutual."
+    p "Dzięki, to odwzajemnione uczucie."
+
+# game/day16.rpy:983
+translate polish day16_rb_watersports_9be3a2c2:
+
+    # rb "Good."
+    rb "To dobrze."
+
+# game/day16.rpy:991
+translate polish day16_rb_watersports_4465ac0d:
+
+    # p "Only when it involves a surfboard."
+    p "Tylko kiedy dotyczą surfowania."
+
+# game/day16.rpy:992
+translate polish day16_rb_watersports_7cbc95c2:
+
+    # rb "Why did you come after me then?"
+    rb "Więc dlaczego za mną poszedłeś?"
+
+# game/day16.rpy:993
+translate polish day16_rb_watersports_79276013:
+
+    # p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
+    p "{i}(Lepiej będę szczery. Bo jeszcze zechce zrosić mnie złotym deszczem czy coś...)"
+
+# game/day16.rpy:994
+translate polish day16_rb_watersports_ff1835db:
+
+    # p "I just wanted to see you naked."
+    p "Po prostu chciałem zobaczyć Cię nago."
+
+# game/day16.rpy:995
+translate polish day16_rb_watersports_18383d3d:
+
+    # rb "That's also a very good reason."
+    rb "To też bardzo dobry powód."
+
+# game/day16.rpy:996
+translate polish day16_rb_watersports_a69855c9:
+
+    # rb "Did you like what you saw?"
+    rb "Spodobało Ci się to co widziałeś?"
+
+# game/day16.rpy:997
+translate polish day16_rb_watersports_87dbf22d:
+
+    # p "Yes. You're very sexy."
+    p "Tak. Jesteś bardzo seksowna."
+
+# game/day16.rpy:1004
+translate polish day16_rb_sex_357c561f:
+
+    # "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
+    "{i}Wkrótce docieracie na miejsce, skąd zaczęliście swój spacer. Rebeka otwiera drzwi i wchodzicie do środka."
+
+# game/day16.rpy:1009
+translate polish day16_rb_sex_236b0d51:
+
+    # p "Jesus, it's really hot in here."
+    p "Cholera, gorąco tutaj."
+
+# game/day16.rpy:1010
+translate polish day16_rb_sex_f8b4a90e:
+
+    # rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
+    rb "Minusy posiadania studia z płaskim dachem tuż przy plaży. Dlatego zwykle pracuję nago."
+
+# game/day16.rpy:1011
+translate polish day16_rb_sex_b0bd2bdf:
+
+    # p "Of course you do."
+    p "Nie dziwi mnie to."
+
+# game/day16.rpy:1016
+translate polish day16_rb_sex_e52a1cbe:
+
+    # rb "See, it's that easy."
+    rb "To naprawdę pomaga, popatrz."
+
+# game/day16.rpy:1017
+translate polish day16_rb_sex_63123add:
+
+    # "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
+    "{i}Widok jej nagiego ciała sprawia, że robi Ci się jeszcze goręcej i dostajesz błyskawicznej erekcji."
+
+# game/day16.rpy:1018
+translate polish day16_rb_sex_5647013f:
+
+    # rb "Undress for me please, so I can get a good look at you."
+    rb "Rozbierz się dla mnie proszę, chcę Cię obejrzeć."
+
+# game/day16.rpy:1020
+translate polish day16_rb_sex_33c8101d:
+
+    # rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze, or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
+    rb "Wow, to idealny okaz do mojego pierwszego projektu. Może odleję Cię w brązie, a może powinien to być jakiś szlachetny metal... Jeszcze nie wiem. Ale będziesz wspaniałym wstępem do mojej nowej serii prac."
+
+# game/day16.rpy:1021
+translate polish day16_rb_sex_c74f31d0:
+
+    # p "I'm honored..."
+    p "Jestem zaszczycony..."
+
+# game/day16.rpy:1022
+translate polish day16_rb_sex_8a34a33b:
+
+    # rb "Lie down please, I have to make a mold."
+    rb "Połóż się proszę, muszę zrobić formę na odlew."
+
+# game/day16.rpy:1023
+translate polish day16_rb_sex_4aa8d273:
+
+    # "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
+    "{i}Kładziesz się i przymykasz na chwilę oczy, podczas gdy Rebeka krząta się po studiu szukając potrzebnych materiałów."
+
+# game/day16.rpy:1028
+translate polish day16_rb_sex_283155d8:
+
+    # "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
+    "{i}Musiałeś przysnąć, bo budzi Cię przeszywający dotyk zimnych dłoni na Twoim penisie."
+
+# game/day16.rpy:1030
+translate polish day16_rb_sex_58b66eb1:
+
+    # rb "Ah, he's awake."
+    rb "Ah, obudził się."
+
+# game/day16.rpy:1031
+translate polish day16_rb_sex_7709aaa0:
+
+    # p "W-what are you doing?"
+    p "C- Co robisz?"
+
+# game/day16.rpy:1032
+translate polish day16_rb_sex_5f499520:
+
+    # rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
+    rb "Już Ci opadł, w tym stanie to nie najlepszy symbol męskości. Mam przestać?"
+
+# game/day16.rpy:1033
+translate polish day16_rb_sex_34d74724:
+
+    # p "God no, keep going."
+    p "Na Boga, nie. Kontynuuj."
+
+# game/day16.rpy:1034
+translate polish day16_rb_sex_c428e0ed:
+
+    # "{i}When Rebeca is satisfied, she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
+    "{i}Kiedy Rebeka jest już zadowolona z efektu, przestaje masować Twojego penisa i wyciąga jakieś narzędzia. Przez gorąco zaczynasz powoli znowu odpływać."
+
+# game/day16.rpy:1039
+translate polish day16_rb_sex_858df364:
+
+    # "{i}Almost subconsciously, you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
+    "{i}Półprzytomny czujesz jak wylewa na Twoje krocze jakąś gęstą, chłodną ciecz, która szybko zastyga. Rebeka podgwizduje wesoło podczas pracy."
+
+# game/day16.rpy:1040
+translate polish day16_rb_sex_f4b65e6d:
+
+    # "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
+    "{i}Po chwili usuwa formę i wyciera Twojego penisa ręcznikiem, znacznie dłużej niż to konieczne."
+
+# game/day16.rpy:1041
+translate polish day16_rb_sex_d6ccac46:
+
+    # rb "Done."
+    rb "Gotowe."
+
+# game/day16.rpy:1042
+translate polish day16_rb_sex_b625aa51:
+
+    # p "You're a downright cocktease, you know that?"
+    p "Naprawdę lubisz się podrażnić, co?"
+
+# game/day16.rpy:1043
+translate polish day16_rb_sex_97af099a:
+
+    # rb "What? You mean my innocent touches?"
+    rb "O co Ci chodzi? O moje niewinne dotknięcia?"
+
+# game/day16.rpy:1044
+translate polish day16_rb_sex_8bbbbb2d:
+
+    # p "Exactly those."
+    p "Właśnie o nie."
+
+# game/day16.rpy:1046
+translate polish day16_rb_sex_31563e3c:
+
+    # p "Come here."
+    p "Chodź tu."
+
+# game/day16.rpy:1051
+translate polish day16_rb_sex_2f090249:
+
+    # "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
+    "{i}Rebeka bez wahania podchodzi do Ciebie. Natychmiast splatacie się w namiętnym pocałunku, jej dłonie badają Twoje ciało, Ty zdecydowanymi ruchami ugniatasz jej piersi."
+
+# game/day16.rpy:1052
+translate polish day16_rb_sex_fcbd5ad6:
+
+    # rb "Fuck me, [p_name]."
+    rb "Zerżnij mnie [p_name]."
+
+# game/day16.rpy:1057
+translate polish day16_rb_sex_c41e60f5:
+
+    # "{i}When you enter her, she's already wet. You penetrate her deeply and quickly establish a rhythm."
+    "{i}Kiedy się w nią wbijasz, jest już bardzo mokra. Penetrujesz ją głęboko i szybko znajdujesz odpowiedni rytm."
+
+# game/day16.rpy:1058
+translate polish day16_rb_sex_e839182f:
+
+    # rb "God yes. Fuck me! Fuck me harder!"
+    rb "O Boże, tak! Rżnij mnie! Mocniej!"
+
+# game/day16.rpy:1060
+translate polish day16_rb_sex_a6080212:
+
+    # "{i}Encouraged by her words, you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
+    "{i}Zachęcony jej słowami przyśpieszasz swoje ruchy. Studio wypełnia się mokrymi odgłosami waszego seksu i ochrypłymi jękami Rebeki."
+
+# game/day16.rpy:1066
+translate polish day16_rb_sex_e0792702:
+
+    # "{i}As you change positions, Rebeca's ass bounces against your pelvis. You slap it repeatedly."
+    "{i}Gdy zmieniacie pozycję, tyłek Rebeki obija się o Twoją miednicę. Dajesz jej kilka klapsów."
+
+# game/day16.rpy:1067
+translate polish day16_rb_sex_c064ca31:
+
+    # rb "Mmmmm yeah, slap it."
+    rb "Mmmmm tak..."
+
+# game/day16.rpy:1068
+translate polish day16_rb_sex_01bc843c:
+
+    # p "I'm going to fill you up, Rebeca."
+    p "Podoba Ci się to?"
+
+# game/day16.rpy:1069
+translate polish day16_rb_sex_0a777782:
+
+    # rb "Put it inside me please!"
+    rb "Wsadź go we mnie, proszę!"
+
+# game/day16.rpy:1075
+translate polish day16_rb_sex_d28f47a3:
+
+    # p "I want you to taste me."
+    p "Chcę, żebyś mnie posmakowała."
+
+# game/day16.rpy:1076
+translate polish day16_rb_sex_27a51b38:
+
+    # "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
+    "{i}Wysuwasz się z niej i Rebeka szybko klęka przed Tobą. Jej chętne usta otwierają się przed Tobą w oczekiwaniu na Twoje gorące nasienie."
+
+# game/day16.rpy:1082
+translate polish day16_rb_sex_ddae8c90:
+
+    # "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
+    "{i}Gęste strumienie spermy wystrzeliwują z Twojego pulsującego penisa. Rebeka próbuje złapać wszystko do ust, ale część trafia ją w twarz."
+
+# game/day16.rpy:1084
+translate polish day16_rb_sex_eb00dfd3:
+
+    # "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
+    "{i}Rebeka zamyka usta i połyka wszystko, oblizując przy tym usta."
+
+# game/day16.rpy:1085
+translate polish day16_rb_sex_e8f9ac8c:
+
+    # rb "You taste really good, [p_name]."
+    rb "Świetnie smakujesz [p_name]."
+
+# game/day16.rpy:1095
+translate polish day16_rb_sex_afe6949f:
+
+    # p "Fuck yes, your pussy will be overflowing."
+    p "O kurwa, tak. Przygotuj się!"
+
+# game/day16.rpy:1101
+translate polish day16_rb_sex_86e11c7e:
+
+    # "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
+    "{i}Po dwóch głębokich pchnięciach, Twój pulsujący penis zaczyna wpompowywać w nią gęste strumienie Twojej spermy."
+
+# game/day16.rpy:1102
+translate polish day16_rb_sex_d124b0c2:
+
+    # rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
+    rb "Mmmmm, tak, wypełnij mnie! Twoja sperma jest taka gorąca..."
+
+# game/day16.rpy:1107
+translate polish day16_rb_sex_785a830f:
+
+    # "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
+    "{i}Oboje leżycie zmęczeni i przepoceni w parnym studiu Rebeki. W powietrzu unosi się zapach seksu i spermy."
+
+# game/day16.rpy:1108
+translate polish day16_rb_sex_207ca936:
+
+    # "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
+    "{i}Rebeka wsuwa palec w swoją cipkę i bez namysłu obluzuje swój pokryty spermą palec."
+
+# game/day16.rpy:1109
+translate polish day16_rb_sex_e8f9ac8c_1:
+
+    # rb "You taste really good, [p_name]."
+    rb "Świetnie smakujesz [p_name]."
+
+# game/day16.rpy:1125
+translate polish day16_l_fingering_3b3c6b84:
+
+    # "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
+    "{i}Znajdujecie cichy kącik pokryty trawą i osłonięty od plaży."
+
+# game/day16.rpy:1127
+translate polish day16_l_fingering_6682b67e:
+
+    # l "Will we be okay here?"
+    l "Tu będzie dobrze?"
+
+# game/day16.rpy:1128
+translate polish day16_l_fingering_30baada1:
+
+    # p "I'm sure of it, don't worry."
+    p "Jestem tego pewny, nie martw się."
+
+# game/day16.rpy:1129
+translate polish day16_l_fingering_847e552e:
+
+    # l "Are we really going to do this?"
+    l "Naprawdę to teraz zrobimy?"
+
+# game/day16.rpy:1130
+translate polish day16_l_fingering_d466837c:
+
+    # p "Unless you don't feel comfortable enough."
+    p "Chyba, że nie czujesz się z tym komfortowo."
+
+# game/day16.rpy:1131
+translate polish day16_l_fingering_8f94cb3a:
+
+    # p "{i}(Please be comfortable!!!)"
+    p "{i}(Proszę czuj się komfortowo!!!)"
+
+# game/day16.rpy:1132
+translate polish day16_l_fingering_b159e512:
+
+    # l "No, I'm good. The grass tickles, that's all."
+    l "Nie, jest dobrze. Trawa trochę łaskocze, to wszystko."
+
+# game/day16.rpy:1133
+translate polish day16_l_fingering_432d51eb:
+
+    # p "Good."
+    p "Dobrze."
+
+# game/day16.rpy:1134
+translate polish day16_l_fingering_1681dc26:
+
+    # l "Okay."
+    l "Okej."
+
+# game/day16.rpy:1135
+translate polish day16_l_fingering_111559a2:
+
+    # p "This'll work better if you're naked."
+    p "Będzie łatwiej jeśli się rozbierzesz."
+
+# game/day16.rpy:1136
+translate polish day16_l_fingering_a714afbe:
+
+    # l "Oh yes... of course... Does my bikini need to go as well?"
+    l "Oh tak... Oczywiście... Bikini też powinnam zdjąć?"
+
+# game/day16.rpy:1137
+translate polish day16_l_fingering_da5f26f4:
+
+    # p "Only if you want to."
+    p "Tylko jeśli chcesz."
+
+# game/day16.rpy:1138
+translate polish day16_l_fingering_16a60d5f:
+
+    # l "I don't know. I guess it'll be in the way."
+    l "No nie wiem. Chyba będzie przeszkadzać."
+
+# game/day16.rpy:1139
+translate polish day16_l_fingering_20e54811:
+
+    # p "{i}(Excellent choice.)"
+    p "{i}(Doskonały wybór.)"
+
+# game/day16.rpy:1142
+translate polish day16_l_fingering_3b185a49:
+
+    # p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
+    p "{i}(Co za cudowny widok. Leżę tu z moją golusieńką siostrzyczką, aby rozpocząć jej drogę ku seksualnemu poznaniu.)"
+
+# game/day16.rpy:1144
+translate polish day16_l_fingering_f27bce54:
+
+    # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
+    p "{i}(Cóż za niebiański widok Leżąc tutaj z nagą jak gwiazda dziewczyną i mając zamiar wyruszyć w podróż seksualnych odkryć)"
+
+# game/day16.rpy:1145
+translate polish day16_l_fingering_f8c73797:
+
+    # p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
+    p "Spróbuj się rozluźnić i skupić na przyjemności. Nie rozmyślaj przesadnie nad tym co robisz i pozwól mi się prowadzić."
+
+# game/day16.rpy:1146
+translate polish day16_l_fingering_6e9966ef:
+
+    # l "I'm not sure if I can, but I'll try."
+    l "Nie wiem czy dam radę, ale spróbuję."
+
+# game/day16.rpy:1148
+translate polish day16_l_fingering_8df2348b:
+
+    # "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
+    "{i}Kładziesz dłoń na jej nagim brzuchu, Twoja siostra oddycha głęboko i patrzy na Ciebie z oczekiwaniem."
+
+# game/day16.rpy:1150
+translate polish day16_l_fingering_65757b42:
+
+    # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
+    "{i}Twoja ręka leży na jej nagim brzuchu, a [l_name] bierze głęboki oddech, patrząc na ciebie wyczekująco."
+
+# game/day16.rpy:1152
+translate polish day16_l_fingering_0df3a880:
+
+    # "{i}You take one of her hands and slowly move it towards her sex."
+    "{i}Bierzesz jedną z jej dłoni i powoli prowadzisz ją w kierunku jej krocza."
+
+# game/day16.rpy:1153
+translate polish day16_l_fingering_e3a5a5ed:
+
+    # p "Just explore yourself, take it slow. Feel your body."
+    p "Po prostu odkrywaj siebie, nie śpiesz się. Dotykaj swojego ciała."
+
+# game/day16.rpy:1154
+translate polish day16_l_fingering_754b9c5b:
+
+    # p "{i}(God, I almost sound like a guru.)"
+    p "{i}(Boże, brzmię prawie jak jakiś guru.)"
+
+# game/day16.rpy:1155
+translate polish day16_l_fingering_dfa7f157:
+
+    # p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
+    p "Dotknij swojej cipki, sprawdź jak czuje się pod Twoimi palcami. Zbadaj okolice swojej łechtaczki... Zbuduj napięcie."
+
+# game/day16.rpy:1156
+translate polish day16_l_fingering_e746ddcb:
+
+    # "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
+    "{i}Liza posłusznie wykonuje Twoje polecenia, ale dalej wydaje się zakłopotana."
+
+# game/day16.rpy:1157
+translate polish day16_l_fingering_1fb57e6a:
+
+    # p "Is everything alright, [l_name]?"
+    p "Wszystko w porządku?"
+
+# game/day16.rpy:1158
+translate polish day16_l_fingering_97e0d939:
+
+    # l "Yes... It's just... the words you're using. They sound so dirty."
+    l "Tak... Po prostu... Te słowa, których używasz. Brzmią tak nieprzyzwoicie."
+
+# game/day16.rpy:1159
+translate polish day16_l_fingering_cc9a033f:
+
+    # p "But how do those words make you feel?"
+    p "I jak się czujesz gdy je słyszysz?"
+
+# game/day16.rpy:1160
+translate polish day16_l_fingering_b87fab88:
+
+    # l "I..."
+    l "Ja..."
+
+# game/day16.rpy:1161
+translate polish day16_l_fingering_9a456252:
+
+    # p "Come on, you can say it to me."
+    p "No dalej, mi możesz powiedzieć."
+
+# game/day16.rpy:1162
+translate polish day16_l_fingering_af3eaa24:
+
+    # l "They make me feel..."
+    l "Sprawiają, że czuję się..."
+
+# game/day16.rpy:1163
+translate polish day16_l_fingering_3dfeeaf4:
+
+    # l "...Horny?"
+    l "...Podniecona?"
+
+# game/day16.rpy:1164
+translate polish day16_l_fingering_18e72607:
+
+    # p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
+    p "O to w tym chodzi. Seks to całkowite oddanie się swojemu pożądaniu. Tego nie powinno się robić na pół gwizdka."
+
+# game/day16.rpy:1165
+translate polish day16_l_fingering_fd2f6b1e:
+
+    # l "Okay, I'll try."
+    l "Dobrze, spróbuję."
+
+# game/day16.rpy:1166
+translate polish day16_l_fingering_daf20258:
+
+    # p "Don't worry about yourself, or the responses of your body. It's all natural."
+    p "Nie przejmuj się sobą, czy reakcjami swojego ciała. To wszystko jest całkowicie normalne."
+
+# game/day16.rpy:1167
+translate polish day16_l_fingering_1b4657c6:
+
+    # l "Are you... eh... horny?"
+    l "Czy Ty... Emm... Jesteś podniecony?"
+
+# game/day16.rpy:1168
+translate polish day16_l_fingering_0bb85004:
+
+    # p "Yes, I think this is really exciting."
+    p "Tak, myślę, że to naprawdę ekscytujące."
+
+# game/day16.rpy:1169
+translate polish day16_l_fingering_e1bb255d:
+
+    # l "Do you have a... you know..."
+    l "A czy masz... No wiesz..."
+
+# game/day16.rpy:1170
+translate polish day16_l_fingering_3309102f:
+
+    # p "An erection?"
+    p "Erekcję?"
+
+# game/day16.rpy:1171
+translate polish day16_l_fingering_e29a29a2:
+
+    # l "Yes?"
+    l "Tak?"
+
+# game/day16.rpy:1172
+translate polish day16_l_fingering_1b526758:
+
+    # p "As soon as you removed your bikini. You have such a sexy body."
+    p "Odkąd tylko zdjęłaś swoje bikini. Masz takie seksowne ciało."
+
+# game/day16.rpy:1173
+translate polish day16_l_fingering_45761022:
+
+    # p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
+    p "{i}(I jeśli szybko się na niej znowu nie skupimy, to chyba dojdę od samego gadania...)"
+
+# game/day16.rpy:1174
+translate polish day16_l_fingering_81f2c3f1:
+
+    # p "Shall we continue?"
+    p "Kontynuujemy?"
+
+# game/day16.rpy:1175
+translate polish day16_l_fingering_bc5c265b:
+
+    # l "Yes."
+    l "Tak."
+
+# game/day16.rpy:1176
+translate polish day16_l_fingering_3b587d0a:
+
+    # p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
+    p "Nie skupiaj się na osiągnięciu orgazmu, po prostu skoncentruj się na tym co przyjemne i na wydłużeniu tej przyjemności."
+
+# game/day16.rpy:1177
+translate polish day16_l_fingering_c383bd3b:
+
+    # p "Start by gently rubbing your pussy."
+    p "Zacznij od delikatnego pocierania swojej cipki."
+
+# game/day16.rpy:1183
+translate polish day16_l_fingering_8ee5f2dd:
+
+    # l "Ooooh, yes... That feels good."
+    l "Ooooh tak... To naprawdę przyjemne."
+
+# game/day16.rpy:1184
+translate polish day16_l_fingering_7f1370a3:
+
+    # "{i}You edge closer and lower your voice to a whisper."
+    "{i}Przysuwasz się bliżej i obniżasz swój głos do szeptu."
+
+# game/day16.rpy:1185
+translate polish day16_l_fingering_e4df1b27:
+
+    # p "Explore you pussy lips, your clitoris..."
+    p "Badaj swoje wargi sromowe, swoją łechtaczkę..."
+
+# game/day16.rpy:1186
+translate polish day16_l_fingering_20a26fd7:
+
+    # l "Yes! Mmmmm."
+    l "Tak! Mmmmm."
+
+# game/day16.rpy:1187
+translate polish day16_l_fingering_49062072:
+
+    # p "Don't hold back. If it feels good, continue doing it..."
+    p "Nie wstrzymuj się. Jeśli coś jest przyjemne, rób to dalej..."
+
+# game/day16.rpy:1188
+translate polish day16_l_fingering_cc354b51:
+
+    # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
+    "{i}Po krótkiej chwili, jęki Lizy zwalniają, a w końcu kompletnie cichną. Już nie odczuwa przyjemności i wygląda na to, że wróciła do obojętnego, mechanicznego pocierania."
+
+# game/day16.rpy:1189
+translate polish day16_l_fingering_2daad4de:
+
+    # p "When you think you're losing momentum, think of dirty things."
+    p "Jeśli zdaje Ci się, że tracisz impet, myśl o sprośnych rzeczach."
+
+# game/day16.rpy:1190
+translate polish day16_l_fingering_b1b12192:
+
+    # l "I... I... I can't."
+    l "Ja... Ja... Nie mogę."
+
+# game/day16.rpy:1191
+translate polish day16_l_fingering_c70c2218:
+
+    # p "{i}(Maybe some dirty talk will rouse her.)"
+    p "{i}(Może trochę świntuszenia ją rozbudzi.)"
+
+# game/day16.rpy:1192
+translate polish day16_l_fingering_6da813c1:
+
+    # p "Would you like to hear the dirty things I'd do to you?"
+    p "Chciałabyś usłyszeć jakie nieprzyzwoite rzeczy chciałbym Ci zrobić?"
+
+# game/day16.rpy:1193
+translate polish day16_l_fingering_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "T- Tak..."
+
+# game/day16.rpy:1194
+translate polish day16_l_fingering_38adfa51:
+
+    # p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
+    p "Obsypałbym Twoje ciało pocałunkami, zaczynając od Twoich słodkich ust. Potem przeszedłbym do Twoich cudownych piersi i całowałbym Twoje słodkie sutki, aż byłyby twarde jak kamień."
+
+# game/day16.rpy:1195
+translate polish day16_l_fingering_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day16.rpy:1196
+translate polish day16_l_fingering_e854e50c:
+
+    # l "...Go on please."
+    l "...Mów dalej proszę."
+
+# game/day16.rpy:1197
+translate polish day16_l_fingering_a4973da7:
+
+    # p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
+    p "Nie zapomniałbym ani o brzuchu, ani o Twoich ponętnych udach. Na koniec zostawiłbym sobie Twoją piękną cipkę..."
+
+# game/day16.rpy:1198
+translate polish day16_l_fingering_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm."
+
+# game/day16.rpy:1200
+translate polish day16_l_fingering_2c69ebf2:
+
+    # "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}Twoja siostra jest znowu całkowicie skupiona na swoim ciele, nie ma już śladu po jej mechanicznych ruchach. Wije się w piasku masując swoją cipkę."
+
+# game/day16.rpy:1202
+translate polish day16_l_fingering_22032ab9:
+
+    # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}[l_name] znów jest całkowicie skupiona, jej mechaniczne zachowanie całkowicie zniknęło, wije się na piasku, masując swoją cipkę"
+
+# game/day16.rpy:1203
+translate polish day16_l_fingering_f362d2ec:
+
+    # p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
+    p "A teraz, może wsuń palec do środka, zbierz trochę tej wilgoci i rozprowadź ją po swojej cipce."
+
+# game/day16.rpy:1205
+translate polish day16_l_fingering_04979e16:
+
+    # l "It feels so strange."
+    l "To wydaje się takie dziwne."
+
+# game/day16.rpy:1206
+translate polish day16_l_fingering_6ae2b3cf:
+
+    # p "But it's good, isn't it?"
+    p "Ale jest przyjemne, prawda?"
+
+# game/day16.rpy:1207
+translate polish day16_l_fingering_e511b696:
+
+    # l "Y-y-yes!"
+    l "T- Tak!"
+
+# game/day16.rpy:1208
+translate polish day16_l_fingering_00111317:
+
+    # p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
+    p "Dobrze, dobrze, niewiele Ci brakuje. Nie przestawaj masować swojej łechtaczki."
+
+# game/day16.rpy:1209
+translate polish day16_l_fingering_5e00ee0b:
+
+    # l "Tell me more about the things you'd like to do with my body. Please!"
+    l "Powiedz mi więcej o tym, co zrobiłbyś z moim ciałem. Proszę!"
+
+# game/day16.rpy:1210
+translate polish day16_l_fingering_888962a9:
+
+    # p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm, I'd suck on them, sending you over the edge and making you cum so hard."
+    p "Po tych wszystkich pocałunkach, wróciłbym do Twoich sutków. Drażniłbym je i lizał, podczas gdy Ty robiłabyś sobie palcówkę. Gdy byłabyś już blisko orgazmu, zacząłbym je ssać, to doprowadziłoby Cię do ekstazy jakiej jeszcze nigdy w życiu nie czułaś."
+
+# game/day16.rpy:1211
+translate polish day16_l_fingering_644ee3dc:
+
+    # l "Oooooh, [p_name]!"
+    l "Ooooooh [p_name]!"
+
+# game/day16.rpy:1212
+translate polish day16_l_fingering_7c777b86:
+
+    # p "Yes, [l_name]?"
+    p "Tak?"
+
+# game/day16.rpy:1213
+translate polish day16_l_fingering_f8d205a2:
+
+    # l "I think I'm..."
+    l "Myślę, że..."
+
+# game/day16.rpy:1220
+translate polish day16_l_fingering_665bccf9:
+
+    # l "Aaaaaaaaaaah!!!"
+    l "Aaaaaaaaaaaah!!!"
+
+# game/day16.rpy:1222
+translate polish day16_l_fingering_5f782092:
+
+    # "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Niezdolna do wypowiedzenia czegokolwiek więcej, Twoja siostra wygina się w łuk i zaczyna się gwałtownie trząść. Potężny orgazm falami przejmuje kontrolę nad jej mięśniami."
+
+# game/day16.rpy:1224
+translate polish day16_l_fingering_5ad0e16a:
+
+    # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Nie mogąc nic więcej powiedzieć [l_name] drży mocno Drżenie jej orgazmu wyprzedza wszelkie inne funkcje mięśni jej ciała"
+
+# game/day16.rpy:1225
+translate polish day16_l_fingering_e5a66882:
+
+    # p "My beautiful, beautiful girl."
+    p "Moja piękna, piękna dziewczynka."
+
+# game/day16.rpy:1226
+translate polish day16_l_fingering_58781776:
+
+    # l "Aaaaah!!!"
+    l "Aaaaah!!!"
+
+# game/day16.rpy:1230
+translate polish day16_l_fingering_8d0c9317:
+
+    # "{i}It takes quite a while for [l_name] to recover from her orgasm, and she seems unable to speak for some time after."
+    "{i}Pozbieranie się po tym orgazmie zajmuje Lizie dłuższą chwilę i jeszcze przez jakiś czas nie jest w stanie się odezwać."
+
+# game/day16.rpy:1234
+translate polish day16_l_fingering_e0004e3f:
+
+    # l "I really, really didn't know it could feel so wonderful."
+    l "Naprawdę, naprawdę się nie spodziewałam, że to może być takie cudowne uczucie."
+
+# game/day16.rpy:1235
+translate polish day16_l_fingering_b00e3678:
+
+    # p "It takes time, practice and some dedication, but you were magnificent."
+    p "Żeby dojść do perfekcji trzeba trochę czasu i praktyki, ale byłaś naprawdę niesamowita."
+
+# game/day16.rpy:1236
+translate polish day16_l_fingering_c826d305:
+
+    # l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
+    l "Na tym piasku robi się trochę za zimno i zrobiłam się nagle strasznie śpiąca."
+
+# game/day16.rpy:1237
+translate polish day16_l_fingering_e126bb40:
+
+    # p "I understand, let's head back."
+    p "Rozumiem, chodźmy do apartamentu."
+
+# game/day16.rpy:1239
+translate polish day16_l_fingering_f951f29f:
+
+    # l "Thank you for the lovely evening. It really means a lot to me."
+    l "Dziękuję Ci za wspaniały wieczór. To naprawdę wiele dla mnie znaczy."
+
+# game/day16.rpy:1240
+translate polish day16_l_fingering_58357d64:
+
+    # p "{i}(I sure hope this isn't the last time...)"
+    p "{i}(Mam wielką nadzieję, że to nie ostatni raz...)"
+
+# game/day16.rpy:1241
+translate polish day16_l_fingering_d2059054:
+
+    # l "Sleep well, dear [p_name]."
+    l "Dobrej nocy [p_name]."
+
+# game/day16.rpy:1242
+translate polish day16_l_fingering_fdb98df6:
+
+    # p "Good night, my darling [l_name]."
+    p "Śpij dobrze, moja kochana."
 

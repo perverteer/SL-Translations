@@ -500,7 +500,7 @@ translate polish day25_choices_a9a18a37:
 translate polish day25_choices_d158bc02:
 
     # "{i}Before she finishes her sentence, your girlfriend runs towards you and kisses you while embracing you tightly."
-    ""
+    "{i}Zanim skończyła zdanie, twoja dziewczyna podbiegła do ciebie i pocałowała cię, mocno cię obejmując."
 
 # game/day25.rpy:155
 translate polish day25_choices_909dd58d:
@@ -608,7 +608,7 @@ translate polish day25_choices_3fabb8ca:
 translate polish day25_choices_1e147499:
 
     # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
-    ""
+    "{i}Pozycja daje ci świetny widok na jej ciasną cipkę [r_name], a nabrzmiała łechtaczka kusi, a twoje nozdrza są wypełnione jej słodkim zapachem."
 
 # game/day25.rpy:180
 translate polish day25_choices_c47643ff:
@@ -656,7 +656,7 @@ translate polish day25_choices_90dd1e99:
 translate polish day25_choices_531e0ac8:
 
     # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
-    ""
+    "{i}Chcąc dać swojej dziewczynie satysfakcję, której tak pragnie, przenosisz swoją uwagę na stymulację jej łechtaczki [r_name] podciąga jej nogę, aby dać ci lepszy dostęp do jej cipy."
 
 # game/day25.rpy:194
 translate polish day25_choices_64ce9fc9:
@@ -3842,225 +3842,1025 @@ translate polish strings:
     old "It was just once"
     new "To był jedyny raz"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2022-03-29 13:33
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day25.rpy:693
-translate polish day25_a_al_sex_2b0bd5d9:
-
-    # al "Of course, master!"
-    al "Oczywiście, Panie!"
-
-# TODO: Translation updated at 2023-04-17 12:10
-
-# game/day25.rpy:31
+# game/day25.rpy:33
 translate polish day25_d611ab6d:
 
     # p "{i}(It's been a while since I saw the inside of a university.)"
-    p "{i}(Dawno nie widziałem wnętrza uniwersytetu)"
+    p "{i}(Minęło trochę czasu, odkąd widziałem wnętrze uniwersytetu)"
 
-# game/day25.rpy:168
-translate polish day25_choices_63256490:
-
-    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
-    "{i}Kiedy obniżysz się doprowadzając swoją głowę do poziomu jej brzucha powoli rozpinasz guziki jej szortów, aby zsunąć je i jej majtki w dół z drogi."
-
-# game/day25.rpy:180
-translate polish day25_choices_35611710:
-
-    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
-    "{i}Całe to oczekiwanie sprawiło, że jest już mokra, a kiedy twój język dotyka jej warg sromowych, docierasz do bogactwa jej słodkich soków."
-
-# game/day25.rpy:183
-translate polish day25_choices_e480cf4c:
-
-    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
-    "{i}Gdzieś dzwoni dzwonek i chwilę później słychać odległe kroki na korytarzu [r_name] zdaje się tego nie zauważać ani nie przejmować"
-
-# game/day25.rpy:276
+# game/day25.rpy:245
 translate polish day25_choices_a4c862bb:
 
     # p "{i}(That sounds like an invitation to pussy, and I think Ana and Alina are ready to take things to the next level...)"
-    p "{i}(To brzmi jak zaproszenie do cipki i myślę, że Ana i Alina są gotowe, by przenieść sprawy na wyższy poziom)"
+    p "{i}(To brzmi jak zaproszenie na małe co nieco, myślę, że Ana i Alina są gotowe na kolejny krok...)"
 
-# game/day25.rpy:332
+# game/day25.rpy:303
 translate polish day25_evening_choices_0a208568:
 
     # "{i}When evening falls, you go out and spend a long time preparing [l_name]'s surprise using some stuff you bought earlier today."
-    "{i}Kiedy zapada wieczór wychodzisz i spędzasz długi czas przygotowując niespodziankę dla [l_name] używając jakichś rzeczy kupionych wcześniej dzisiaj"
+    "{i}Kiedy zapada wieczór, wychodzisz przygotować Lizie niespodziankę z użyciem pewnych rzeczy, które kupiłeś wcześniej tego dnia."
 
-# game/day25.rpy:361
+# game/day25.rpy:338
 translate polish day25_evening_choices_59741642:
 
     # p "{i}(It took me fucking forever, and candles are all sold out in a twenty-mile radius, but the look on her face definitely makes it all worth it.)"
-    p "{i}(Zajęło mi to pieprzoną wieczność i wszystkie świece są wyprzedane w promieniu dwudziestu mil, ale wyraz jej twarzy zdecydowanie sprawia, że było warto)"
+    p "{i}(Zabrało mi to jebane wieki, a świeczki są wyprzedane we wszystkich sklepach w promieniu dwudziestu mil, ale było warto, dla tego jej uśmiechu.)"
 
-# game/day25.rpy:369
+# game/day25.rpy:346
 translate polish day25_evening_choices_95988d91:
 
     # "{i}After you start to strip down, you notice that [l_name] leaves on her underwear. You mimic her behavior to stop her from freaking out."
-    "{i}Po tym jak zaczynasz się rozbierać zauważasz, że [l_name] zostawia na sobie bieliznę Naśladujesz jej zachowanie, aby powstrzymać ją przed wybuchem szału."
+    "{i}Po tym, jak zaczynasz się rozbierać, zauważasz, że [l_name] zostawia na sobie bieliznę. Naśladujesz jej zachowanie, aby powstrzymać ją przed wpadnięciem w panikę."
 
-# game/day25.rpy:388
+# game/day25.rpy:365
 translate polish day25_evening_choices_03d3c26d:
 
     # "{i}When your lips meet, you taste the champagne on her soft skin. Her kiss again lacks the passion you felt in the aftermath of your dance class, as if she's holding back purposefully."
-    "{i}Kiedy twoje usta spotykają się smakujesz szampana na jej miękkiej skórze Jej pocałunek znowu brakuje pasji, którą czułeś w następstwie twojej klasy tanecznej, jak gdyby ona celowo powstrzymywała się"
+    "{i}Kiedy wasze usta się spotykają, czujesz smak szampana na jej miękkich wargach. Jej pocałunkowi brakuje namiętności, którą czułeś po waszej lekcji tańca, jakby umyślnie się hamowała."
 
-# game/day25.rpy:390
+# game/day25.rpy:367
 translate polish day25_evening_choices_65be0290:
 
     # "{i}When your lips meet, you taste the champagne on her soft skin. Her kiss lacks the passion you've felt previously, as if she's holding back purposefully."
-    "{i}Kiedy wasze usta spotykają się smakujesz szampana na jej miękkiej skórze Jej pocałunkowi brakuje pasji, którą czułeś wcześniej, jakby celowo się powstrzymywała"
+    "{i}Kiedy wasze usta się spotykają, czujesz smak szampana na jej miękkich wargach. Jej pocałunkowi brakuje namiętności, którą czułeś poprzednio, jakby umyślnie się hamowała."
 
-# game/day25.rpy:464
+# game/day25.rpy:441
 translate polish day25_evening_choices_8d6860a8:
 
     # p "Of course. Some are that way because they're damaged, and that's the only way they know how to feel any connection with another person. But for some people, it's just about being free. Doing what they want, when they want, with who they want, and not giving a fuck what anyone else thinks about it."
-    p "Oczywiście niektórzy są w ten sposób, ponieważ są uszkodzone i to jest jedyny sposób, że wiedzą, jak czuć żadnego połączenia z inną osobą, ale dla niektórych ludzi to po prostu o byciu wolnym Robiąc to, co chcą, kiedy chcą z kim chcą i nie dając kurwa, co ktoś inny myśli o tym"
+    p "Oczywiście. Niektórzy są tacy, bo zostali skrzywdzeni przez los i to jedyny sposób w jaki potrafią poczuć bliskość z drugim człowiekiem. Ale dla niektórych ludzi w tym chodzi o wolność, swobodę. Robienie tego co chcą, kiedy chcą i z kim chcą, bez zawracania sobie głowy co kto o nich pomyśli."
 
-# game/day25.rpy:494
-translate polish day25_evening_choices_00a857b2:
-
-    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
-    "{i}Twoja siostra pływa bliżej i zagnieżdża się w twoich ramionach Jej tyłek ociera się o twoje krocze i rosnącą erekcję, ale ona nie wydaje się przeszkadzać"
-
-# game/day25.rpy:512
-translate polish day25_evening_choices_3d4b35ee:
-
-    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
-    "{i}Twoje palce drażnią wrażliwe miejsca wokół jej seksu, a twoja siostra coraz mocniej opiera się na twojej klatce piersiowej."
-
-# game/day25.rpy:514
-translate polish day25_evening_choices_c9056500:
-
-    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
-    "{i}Twoje palce drażnią wrażliwe miejsca wokół jej seksu, a ona coraz mocniej opiera się na twojej piersi."
-
-# game/day25.rpy:590
+# game/day25.rpy:529
 translate polish day25_a_al_sex_a8849da7:
 
     # p "{i}(Ana is quick on the uptake, didn't know she was into roleplay.)"
-    p "{i}(Ana jest szybka w przyswajaniu nie wiedziała, że jest w roleplay)"
+    p "{i}(Ana jest szybka, nie wiedziałam, że lubi odgrywać role)"
 
-# game/day25.rpy:595
+# game/day25.rpy:537
 translate polish day25_a_al_sex_c5e4dce1:
 
     # a "Alina would like you to fuck her mouth, [p_name]. Wouldn't you, Alina?"
-    a "Alina chciałaby, żebyś zerżnął jej usta [p_name] Czy nie Alina?"
+    a "Alina chciałabyś, żeby [p_name] wyruchał Twoje usta, prawda?"
 
-# game/day25.rpy:602
+# game/day25.rpy:544
 translate polish day25_a_al_sex_8214ee9b:
 
     # "{i}Alina slobbers and gags on your cock, and tears begin streaming down her cheeks. But she soldiers on, helped by Ana and eager to take in as much as possible."
-    "{i}Alina slobbers i gags na swoim kogucie i łzy zaczynają strumień w dół jej policzków, ale ona żołnierzy na pomoc Ana i chętny do podjęcia w jak najwięcej."
+    "{i}Alina ślini się i dławi na twoim kutasie, a łzy zaczynają spływać po jej policzkach, ale walczy dalej, pomagana przez Anę i chętna do wchłonięcia jak najwięcej."
 
-# game/day25.rpy:628
+# game/day25.rpy:584
 translate polish day25_a_al_sex_a53935a0:
 
     # "{i}Your hands holding her ass firmly, you establish the same merciless rhythm as before, and Alina screams in pleasure."
-    "{i}Dłonie mocno trzymające jej tyłek ustalasz ten sam bezlitosny rytm co wcześniej i Alina krzyczy z rozkoszy"
+    "{i}Twoje dłonie zaciskają się mocno na jej tyłku, wznawiasz ten sam bezlitosny rytm ruchów co poprzednio i Alina wydziera się z rozkoszy."
 
-# game/day25.rpy:647
+# game/day25.rpy:613
 translate polish day25_a_al_sex_7f376a67:
 
     # "{i}Ana's ass slams against your abdomen as she bounces up and down on your cock. It reaches deep inside her, and from the sounds Ana is producing, it seems she garners as much pleasure from it as you do."
-    "{i}Ana's ass slams against your abdomen as she bounces up and down on your cock It reaches deep inside her and from the sounds Ana is producing it seems she garers as much pleasure from it as you do."
+    "{i}Tyłek Any obija się o Twój brzuch, kiedy zaczyna skakać na Twoim fiucie. Zatapia się głęboko w jej wnętrzu i z dźwięków jakie wydaje z siebie Ana, wydaje się, że czerpie z tego równie wielką rozkosz co Ty."
 
-# game/day25.rpy:651
+# game/day25.rpy:625
 translate polish day25_a_al_sex_cc722d3f:
 
     # "{i}When your cock slips out of her slippery cunt, you try to push it inside her asshole. Ana doesn't protest and even helps you, so you enter her ass aided by her pussy juices."
-    "{i}Kiedy twój kogut wyślizguje się z jej śliskiej cipy, próbujesz wepchnąć go do jej dupy Ana nie protestuje, a nawet pomaga ci, więc wchodzisz w jej dupę wspomagany przez jej soki z cipy."
+    "{i}Kiedy twój kutas wyślizguje się z jej śliskiej cipy, próbujesz wepchnąć go do jej dupy, Ana nie protestuje, a nawet pomaga ci, więc wchodzisz w jej tyłek wspomagany sokami z jej cipki."
 
-# game/day25.rpy:663
+# game/day25.rpy:643
 translate polish day25_a_al_sex_74f107d2:
 
     # p "Don't stop what you're doing, Alina. Get on that chair, Ana."
-    p "Nie przerywaj tego co robisz Alina Wejdź na to krzesło Ana."
+    p "Nie przerywaj tego co robisz Alina. Ana ustaw się na tamtym krześle."
 
-# game/day25.rpy:665
+# game/day25.rpy:645
 translate polish day25_a_al_sex_5bead6a5:
 
     # "{i}You are again inside her warm pussy, and Alina continues her hard work on your balls. Once she reaches the area of your butthole again, the attention becomes too much as you feel your orgasm approaching."
-    "{i}Jesteś ponownie wewnątrz jej ciepłej cipki i Alina kontynuuje swoją ciężką pracę na twoich kulach Gdy osiągnie obszar twojego butthole ponownie uwaga staje się zbyt wiele, jak czujesz swój orgazm zbliża"
+    "{i}Znów jesteś w jej ciepłej cipce, a Alina kontynuuje ciężką pracę nad twoimi jajami. Gdy ponownie dociera do obszaru twojego tyłka, uwaga staje się zbyt duża, gdy czujesz zbliżający się orgazm."
 
-# game/day25.rpy:685
+# game/day25.rpy:680
 translate polish day25_a_al_sex_7d888e7d:
 
     # "{i}Both girls look eagerly at your cock. You manage to cover both their faces but save most of your semen for Ana."
-    "{i}Obie dziewczyny patrzą ochoczo na twojego kutasa Udaje ci się pokryć obie ich twarze, ale zachowujesz większość swojego nasienia dla Any."
+    "{i}Obie dziewczyny patrzą łakomie na Twojego fiuta, udaje Ci się pokryć twarz każdej z nich, ale większość zachowujesz dla Any."
 
-# game/day25.rpy:712
+# game/day25.rpy:692
+translate polish day25_a_al_sex_2b0bd5d9:
+
+    # al "Of course, master!"
+    al "Oczywiście mistrzu!"
+
+# game/day25.rpy:724
 translate polish day25_a_al_sex_bace4caa:
 
     # "{i}Alina fingers herself as cum starts leaking out of her gash. Ana looks longingly at the sight of her satisfied friend."
-    "{i}Alina palce się jak cum zaczyna wyciekać z jej gash Ana patrzy długo na widok jej zadowolony przyjaciel"
+    "{i}Alina zaczyna wcierać w swoją cipkę wyciekającą z niej spermę, Ana patrzy zazdrośnie na swoją zaspokojoną przyjaciółkę."
 
-# game/day25.rpy:816
+# game/day25.rpy:847
 translate polish day25_iris_meeting_d301897a:
 
     # ir "When he ends the discussion with 'I'm doing the Lord's work' there's not much else to be said."
-    ir "Kiedy kończy dyskusję słowami 'wykonuję pracę Pana', niewiele więcej można powiedzieć"
+    ir "Kiedy kończy dyskusję słowami 'Wykonuję dzieło Pana', niewiele więcej można powiedzieć."
 
-# game/day25.rpy:853
-translate polish day25_iris_meeting_9ec564bd:
+# game/day25.rpy:888
+translate polish day25_iris_meeting_b829791f:
+
+    # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
+    ir "Dziękuję Ci [p_name], po tak długim czasie sprawiłeś, że znowu poczułam się naprawdę wyjątkowa i to się teraz liczy."
+
+# game/day25.rpy:944
+translate polish day25_r_sex_250f8300:
+
+    # "{i}As soon as you enter the deserted classroom, [r_name] grabs your face and her lips are on yours. Mad with lust, you feel the swell of her small breasts against the palms of your hands."
+    "{i}Gdy tylko wchodzicie do opustoszałej klasy, Rachel obejmuje Twoją twarz i przywiera swoimi wargami do Twoich. Oszalały z pożądania, zaczynasz miętosić w dłoniach wypukłości jej małych piersi."
+
+# game/day25.rpy:945
+translate polish day25_r_sex_08d3f5ac:
+
+    # r "Oh, [p_name]!"
+    r "Oh [p_name]!"
+
+# game/day25.rpy:946
+translate polish day25_r_sex_ab5c9289:
+
+    # r "I wish we could make love right here on the spot."
+    r "Chciałabym móc to z Tobą zrobić, tu i teraz."
+
+# game/day25.rpy:947
+translate polish day25_r_sex_d03baccd:
+
+    # p "That's bound to be awkward if the teacher steps in early."
+    p "Zrobiłoby się trochę niezręcznie, gdyby wszedł tu nauczyciel."
+
+# game/day25.rpy:948
+translate polish day25_r_sex_821e294d:
+
+    # r "I know and it sucks!"
+    r "Wiem, straszna lipa!"
+
+# game/day25.rpy:949
+translate polish day25_r_sex_a87ca5a3:
+
+    # p "Majorly."
+    p "Prawda."
+
+# game/day25.rpy:950
+translate polish day25_r_sex_afd1642e:
+
+    # p "But I might know something else to hold you over until we get someplace more private."
+    p "Ale mam pomysł co zrobić, aby pomóc Ci wytrzymać do czasu, aż będziemy w ustronniejszym miejscu."
+
+# game/day25.rpy:952
+translate polish day25_r_sex_63256490:
+
+    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
+    "{i}Obniżasz się do poziomu jej brzucha, powoli odpinasz guziki jej spodenek, aby zsunąć je i jej majtki."
+
+# game/day25.rpy:953
+translate polish day25_r_sex_fc2fb4ed:
+
+    # p "Let's get these off, shall we?"
+    p "Chyba powinniśmy się ich pozbyć, nie uważasz?"
+
+# game/day25.rpy:958
+translate polish day25_r_sex_6d517046:
+
+    # r "What are you planning on doing, [p_name]?"
+    r "Co Ty planujesz [p_name]?"
+
+# game/day25.rpy:959
+translate polish day25_r_sex_f76231ff:
+
+    # p "I think you deserve a treat. A little excitement."
+    p "Myślę, że zasłużyłaś sobie na nagrodę. Małą ekscytację."
+
+# game/day25.rpy:960
+translate polish day25_r_sex_dcb7cee5:
+
+    # r "Ohhh! I'm a big fan of excitement!"
+    r "Ohhh! Jestem wielką fanką ekscytowania się!"
+
+# game/day25.rpy:963
+translate polish day25_r_sex_3fabb8ca:
+
+    # "{i}The position gives you a great view of her tight pussy, your sister's swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}W tej pozycji masz świetny widok na jej ciasną cipkę, łechtaczka Twojej siostry już nabrzmiała i Twoje nozdrza wypełniają się jej słodką wonią."
+
+# game/day25.rpy:965
+translate polish day25_r_sex_1e147499:
+
+    # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}Pozycja daje ci świetny widok na jej ciasną cipkę [r_name], a nabrzmiała łechtaczka kusi, a twoje nozdrza są wypełnione jej słodkim zapachem."
+
+# game/day25.rpy:970
+translate polish day25_r_sex_35611710:
+
+    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
+    "{i}Całe to oczekiwanie sprawiło, że już jest mokra i kiedy Twój język dotyka jej warg, zlizujesz sporą ilość jej słodkich soków."
+
+# game/day25.rpy:971
+translate polish day25_r_sex_74d93c92:
+
+    # r "Oh god, yes!"
+    r "O Boże, tak!"
+
+# game/day25.rpy:972
+translate polish day25_r_sex_4a95aa38:
+
+    # "{i}[r_name] twists and squirms while your tongue flicks ever rapidly between her pussy lips."
+    "{i}Rachel kręci się i wierci, podczas gdy Twój język śmiga między jej wargami sromowymi."
+
+# game/day25.rpy:973
+translate polish day25_r_sex_e480cf4c:
+
+    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
+    "{i}Dzwoni gdzieś dzwonek i po chwili słyszycie odległe kroki w korytarzu, Rachel albo nie zauważyła, albo jej to już nie obchodzi."
+
+# game/day25.rpy:974
+translate polish day25_r_sex_0dee5928:
+
+    # p "I'm gonna have to make this quick, baby."
+    p "Będę musiał się pośpieszyć mała."
+
+# game/day25.rpy:975
+translate polish day25_r_sex_8ceaf300:
+
+    # r "F-f-finish it, p-please!"
+    r "D- Dokończ, p- proszę!"
+
+# game/day25.rpy:981
+translate polish day25_r_sex_90dd1e99:
+
+    # "{i}Wanting to give your sister the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Chcąc zapewnić swojej siostrze satysfakcję, której tak pragnie, skupiasz się na jej łechtaczce. Rachel unosi nogę, aby dać Ci lepszy dostęp do swojej muszelki."
+
+# game/day25.rpy:983
+translate polish day25_r_sex_531e0ac8:
+
+    # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Chcąc dać swojej dziewczynie satysfakcję, której tak pragnie, przenosisz swoją uwagę na stymulację jej łechtaczki [r_name] podciąga jej nogę, aby dać ci lepszy dostęp do jej cipy."
+
+# game/day25.rpy:984
+translate polish day25_r_sex_64ce9fc9:
+
+    # r "Ooooh, [p_name], don't stop, please!"
+    r "Ooooh, [p_name], nie przestawaj, błagam!"
+
+# game/day25.rpy:991
+translate polish day25_r_sex_69f611bc:
+
+    # r "Ooh, yes! Y-yyyyees!"
+    r "Ooh! Tak! T- Taaaaak!"
+
+# game/day25.rpy:992
+translate polish day25_r_sex_f77a813c:
+
+    # "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massaging her clitoris. Her saltiness overwhelms your mouth as her juices run freely."
+    "{i}Ciało Rachel zaczyna drżeć od ogarniającego ją orgazmu, szczytuje z Twoim językiem dalej masującym jej łechtaczkę. Zlizujesz łapczywie jej obficie płynące soki."
+
+# game/day25.rpy:997
+translate polish day25_r_sex_3874a9af:
+
+    # r "Just what I needed today!"
+    r "Właśnie tego było mi trzeba!"
+
+# game/day25.rpy:1001
+translate polish day25_r_sex_0b7dd48e:
+
+    # p "Better than having lunch at the cafeteria?"
+    p "Lepsze to niż lunch w kafeterii?"
+
+# game/day25.rpy:1002
+translate polish day25_r_sex_eb3d12e7:
+
+    # r "You bet."
+    r "Żebyś wiedział."
+
+# game/day25.rpy:1003
+translate polish day25_r_sex_a74a2417:
+
+    # p "I'd better go now, before anybody mistakes me for a student."
+    p "Lepiej już pójdę, zanim ktoś weźmie mnie za ucznia."
+
+# game/day25.rpy:1004
+translate polish day25_r_sex_d436b3c0:
+
+    # r "Or a teacher!"
+    r "Albo nauczyciela!"
+
+# game/day25.rpy:1005
+translate polish day25_r_sex_45e7d386:
+
+    # p "God forbid..."
+    p "Boże uchowaj..."
+
+# game/day25.rpy:1023
+translate polish day25_l_fingering_7a620cd9:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where [r_name] and you watched a couple have fun with each other."
+    "{i}Nocne powietrze schładza waszą skórę kiedy wychodzicie z basenu i kierujecie się do ogrodzonej strefy, gdzie Ty i Rachel widzieliście tą zabawiającą się parę."
+
+# game/day25.rpy:1025
+translate polish day25_l_fingering_bf7b9c24:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where the hot tubs are located."
+    "{i}Nocne powietrze schładza waszą skórę kiedy wychodzicie z basenu i kierujecie się do ogrodzonej strefy, gdzie znajdują się jacuzzi."
+
+# game/day25.rpy:1033
+translate polish day25_l_fingering_b58df64f:
+
+    # p "Yup, still very nice. Come on in!"
+    p "Tak, dalej przyjemna. Wskakuj!"
+
+# game/day25.rpy:1034
+translate polish day25_l_fingering_a1db61e1:
+
+    # "{i}You watch as [l_name] tries the water first with her toes and admire her naked body. A smile graces her face when she notices that the water is indeed still warm."
+    "{i}Obserwujesz jak Liza najpierw sprawdza wodę palcem u stopy i podziwiasz jej nagie ciało. Uśmiecha się, kiedy orientuje się, że woda rzeczywiście jest jeszcze ciepła."
+
+# game/day25.rpy:1036
+translate polish day25_l_fingering_15f142cd:
+
+    # l "Ooh, the water is bubbling. It tickles."
+    l "Ooh, woda bulgocze. To łaskocze."
+
+# game/day25.rpy:1037
+translate polish day25_l_fingering_5e87a508:
+
+    # p "You're so far away, why don't you come over."
+    p "Siadłaś tak daleko, może się przysuniesz?"
+
+# game/day25.rpy:1038
+translate polish day25_l_fingering_63b3750e:
+
+    # l "Good idea."
+    l "Dobry pomysł."
+
+# game/day25.rpy:1041
+translate polish day25_l_fingering_00a857b2:
+
+    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
+    "{i}Twoja siostra podpływa bliżej i wtula się w twoje ramiona. Jej tyłek ociera się o twoje krocze i rosnącą erekcję, ale wydaje się, że jej to nie przeszkadza."
+
+# game/day25.rpy:1043
+translate polish day25_l_fingering_b1de4213:
+
+    # "{i}[l_name] swims closer and nestles herself in your arms. Her butt rubs against your crotch and your erection is growing, but she doesn't seem to mind."
+    "{i}[l_name] podpływa bliżej i wtula się w twoje ramiona. Jej tyłek ociera się o twoje krocze, a twoja erekcja rośnie, ale jej to nie przeszkadza."
+
+# game/day25.rpy:1044
+translate polish day25_l_fingering_f035222d:
+
+    # l "Mmmm, I feel all relaxed now."
+    l "Mmmm, jestem już taka zrelaksowana."
+
+# game/day25.rpy:1045
+translate polish day25_l_fingering_fe2afd8b:
+
+    # "{i}There's a long silence in which you both enjoy just sitting close to each other."
+    "{i}Następuje długa cisza, w trakcie której po prostu napawacie się swoją bliskością."
+
+# game/day25.rpy:1046
+translate polish day25_l_fingering_7471acc4:
+
+    # l "How can you be so free, [p_name]?"
+    l "Jak to jest, że jesteś taki wolny [p_name]?"
+
+# game/day25.rpy:1047
+translate polish day25_l_fingering_1aa028eb:
+
+    # p "I don't know, I just am."
+    p "Nie wiem, po prostu jestem."
+
+# game/day25.rpy:1048
+translate polish day25_l_fingering_f4565c3a:
+
+    # l "I just wish I had a little of your carefreeness."
+    l "Chciałabym mieć trochę Twojej beztroski."
+
+# game/day25.rpy:1049
+translate polish day25_l_fingering_a3ac60c7:
+
+    # p "I'm sure it's something you can learn."
+    p "Jestem pewny, że to coś, czego można się nauczyć."
+
+# game/day25.rpy:1050
+translate polish day25_l_fingering_260bd9b3:
+
+    # l "I think I'd like... I'd like to feel good... "
+    l "Myślę, że chciałabym... Chciałabym poczuć się dobrze..."
+
+# game/day25.rpy:1051
+translate polish day25_l_fingering_65f01471:
+
+    # p "You mean you'd like me to touch your pussy?"
+    p "Masz na myśli, że chciałabyś, żebym podotykał Twojej cipki?"
+
+# game/day25.rpy:1052
+translate polish day25_l_fingering_ec6cf6d6:
+
+    # l "Oh, [p_name], can't you just..."
+    l "Oh, [p_name], nie możesz po prostu..."
+
+# game/day25.rpy:1058
+translate polish day25_l_fingering_81aea3f3:
+
+    # "{i}Without waiting for her reply, your hand dips below the waterline and slips between her legs. You hear [l_name] holding her breath."
+    "{i}Nie czekając na jej odpowiedź, Twoja dłoń znika pod wodą wsuwa się między jej nogi. Słyszysz jak Liza wstrzymuje oddech."
+
+# game/day25.rpy:1060
+translate polish day25_l_fingering_3329c202:
+
+    # p "Touch your pussy just like that?"
+    p "Podotykać jej w ten sposób?"
+
+# game/day25.rpy:1061
+translate polish day25_l_fingering_ac68ab35:
+
+    # l "Y-yes, like that."
+    l "T- Tak, właśnie tak."
+
+# game/day25.rpy:1063
+translate polish day25_l_fingering_3d4b35ee:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
+    "{i}Twoje palce drażnią wrażliwą skórę wokół jej kobiecości i Twoja siostra opiera się jeszcze silniej o Twój tors."
+
+# game/day25.rpy:1065
+translate polish day25_l_fingering_c9056500:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
+    "{i}Twoje palce drażnią wrażliwe obszary wokół jej seksu, a ona coraz mocniej opiera się o twoją klatkę piersiową."
+
+# game/day25.rpy:1067
+translate polish day25_l_fingering_a333d905:
+
+    # "{i}When you start massaging her clit, [l_name] lets out a small moan and her hand tousles your hair."
+    "{i}Kiedy zaczynasz masować jej łechtaczkę, Lizie wymyka się cichy jęk i zaczyna mierzwić dłonią Twoje włosy."
+
+# game/day25.rpy:1068
+translate polish day25_l_fingering_0a90328c:
+
+    # p "Do you want me inside of you?"
+    p "Chcesz poczuć mnie w sobie?"
+
+# game/day25.rpy:1069
+translate polish day25_l_fingering_ab687a69:
+
+    # l "Yes, f-finger me, [p_name]!"
+    l "Tak, z- zrób mi palcówkę [p_name]!"
+
+# game/day25.rpy:1071
+translate polish day25_l_fingering_6eeb5756:
+
+    # "{i}Two fingers slip inside her pussy as you keep stimulating her clitoris with your thumb. [l_name]'s breathing is ragged and she seems close to orgasm."
+    "{i}Dwa palce wsuwają się do jej szparki i nie przestajesz stymulować jej łechtaczki swoim kciukiem. Liza oddycha ciężko, zdaje się być blisko orgazmu."
+
+# game/day25.rpy:1072
+translate polish day25_l_fingering_82a4e302:
+
+    # p "Cum for me, baby!"
+    p "Dojdź dla mnie mała!"
+
+# game/day25.rpy:1073
+translate polish day25_l_fingering_c4f51dd6:
+
+    # l "Y-y-yesss, [p_name], I'm..."
+    l "T- Taaakk, [p_name], ja..."
+
+# game/day25.rpy:1080
+translate polish day25_l_fingering_6c62f416:
+
+    # l "Aaaaaah!"
+    l "Aaaaaah!"
+
+# game/day25.rpy:1081
+translate polish day25_l_fingering_8c7f77e2:
+
+    # "{i}[l_name] trembles and squirms as she orgasms, your fingers still inside her. Her violent movements eventually force you outside of her and she rides out the last waves of her orgasm pressed against you."
+    "{i}Liza trzęsie się i wije podczas swojego orgazmu, z Twoimi palcami dalej w swojej cipce. Jej gwałtowne ruchy w końcu wypychają Cię z niej i ostatnie fale orgazmu przeżyw przyciśnięta mocno do Ciebie."
+
+# game/day25.rpy:1085
+translate polish day25_l_fingering_375652b2:
+
+    # l "T-that... that was fantastic. I feel all better now."
+    l "T- To... To było fantastyczne. Już czuję się lepiej."
+
+# game/day25.rpy:1087
+translate polish day25_l_fingering_da25e56e:
+
+    # l "This evening was a great idea, [p_name], thank you so much."
+    l "Ten wieczór to był wspaniały pomysł [p_name], dziękuję Ci bardzo."
+
+# game/day25.rpy:1088
+translate polish day25_l_fingering_db488370:
+
+    # p "You're very welcome."
+    p "Ależ bardzo proszę."
+
+# game/day25.rpy:1090
+translate polish day25_l_fingering_0e2e55a4:
+
+    # "{i}You keep floating in the hot tub until the midnight air is too chilly and you decide to go home."
+    "{i}Moczycie się jeszcze przez jakiś czas w wodzie, aż wreszcie robi się zbyt chłodno i postanawiacie wrócić do domu."
+
+# game/day25.rpy:1109
+translate polish day25_i_sex_9ec564bd:
 
     # "{i}The door to the bedroom is wide open, and when you arrive, Iris is already down to her underwear."
-    "{i}Drzwi do sypialni są szeroko otwarte, a kiedy przyjeżdżasz Iris jest już w samej bieliźnie"
+    "{i}Drzwi do sypialni są otwarte na oścież i kiedy docierasz na miejsce, Iris jest już w samej bieliźnie."
 
-# game/day25.rpy:918
-translate polish day25_iris_meeting_200fd0f6:
+# game/day25.rpy:1110
+translate polish day25_i_sex_3caad50d:
+
+    # p "{i}(Those curves are fine indeed.)"
+    p "{i}(Te krągłości są naprawdę cudowne.)"
+
+# game/day25.rpy:1111
+translate polish day25_i_sex_9c584147:
+
+    # p "Iris?"
+    p "Iris?"
+
+# game/day25.rpy:1113
+translate polish day25_i_sex_b0d0767a:
+
+    # "{i}Iris doesn't appear very startled at your voice, but she still covers her breasts when she faces you."
+    "{i}Iris nie wydaje się wystraszona Twoim głosem, ale i tak zasłania swoje piersi, kiedy się do Ciebie odwraca."
+
+# game/day25.rpy:1114
+translate polish day25_i_sex_80f822d5:
+
+    # p "Did you want me to follow you?"
+    p "Chciałaś, żebym za Tobą poszedł?"
+
+# game/day25.rpy:1116
+translate polish day25_i_sex_af9930e6:
+
+    # ir "Maybe..."
+    ir "Możliwe..."
+
+# game/day25.rpy:1117
+translate polish day25_i_sex_ddad1a4b:
+
+    # ir "I look like a worn out sack of meat, don't I?"
+    ir "Wyglądam jak worek zużytego mięcha, co?"
+
+# game/day25.rpy:1120
+translate polish day25_i_sex_c6334f39:
+
+    # p "{i}(Damnit, she clearly has body issues.)"
+    p "{i}(Cholera, ona naprawdę ma kompleksy na punkcie swojego ciała.)"
+
+# game/day25.rpy:1121
+translate polish day25_i_sex_e4d7ab52:
+
+    # p "Why would you say that?"
+    p "Dlaczego tak mówisz?"
+
+# game/day25.rpy:1123
+translate polish day25_i_sex_57977556:
+
+    # ir "Because Justin never touches me... Never looks at me anymore."
+    ir "Bo Justin nigdy mnie nie dotyka... Nawet już na mnie nie patrzy."
+
+# game/day25.rpy:1124
+translate polish day25_i_sex_b9b73004:
+
+    # p "I think Justin is too absorbed in his work to care about anything else."
+    p "Myślę, że Justin jest zbyt pochłonięty swoją pracą i nie zwraca uwagi na nic innego."
+
+# game/day25.rpy:1125
+translate polish day25_i_sex_8508b229:
+
+    # p "He's so absorbed that he doesn't see his beautiful wife for what she is: a desirable woman."
+    p "Jest tak pochłonięty, że nie widzi, że jego piękna żona jest pociągającą kobietą."
+
+# game/day25.rpy:1127
+translate polish day25_i_sex_e0cb8901:
+
+    # ir "Do you really think that?"
+    ir "Naprawdę tak myślisz?"
+
+# game/day25.rpy:1128
+translate polish day25_i_sex_b62d145c:
+
+    # p "That you're desirable? Yes, I think so."
+    p "Że jesteś pociągająca? Oczywiście, że tak."
+
+# game/day25.rpy:1129
+translate polish day25_i_sex_6fa9dade:
+
+    # p "You possess everything I love in a woman. A radiant smile, beautiful curves, luscious breasts and maturity."
+    p "Zawierasz w sobie wszystko co kocham w kobietach. Promienisty uśmiech, piękne krągłości, ponętne piersi i dojrzałość."
+
+# game/day25.rpy:1130
+translate polish day25_i_sex_fa2a42a8:
+
+    # ir "Luscious breasts, really? I always thought they were in the way."
+    ir "Ponętne piersi, naprawdę? Zawsze myślałam, że tylko mi przeszkadzają."
+
+# game/day25.rpy:1131
+translate polish day25_i_sex_5e50fb58:
+
+    # p "I can't say that I see your point."
+    p "Nie mogę powiedzieć, że się z tym zgadzam."
+
+# game/day25.rpy:1132
+translate polish day25_i_sex_facdc743:
+
+    # ir "Do you still want me to put that dress on?"
+    ir "Dalej chcesz, żebym założyła tą sukienkę?"
+
+# game/day25.rpy:1133
+translate polish day25_i_sex_86d15f25:
+
+    # p "If you let me watch you undress..."
+    p "Jeśli pozwolisz mi patrzeć jak się rozbierasz..."
+
+# game/day25.rpy:1134
+translate polish day25_i_sex_774139e9:
+
+    # ir "That's okay."
+    ir "W porządku."
+
+# game/day25.rpy:1135
+translate polish day25_i_sex_e2405543:
+
+    # "{i}Iris proceeds to unclasp her bra and is still a little uncomfortable with the whole situation."
+    "{i}Iris zaczyna rozpinać stanik, dalej jest trochę skrępowana tą całą sytuacją."
+
+# game/day25.rpy:1137
+translate polish day25_i_sex_44cb0290:
+
+    # p "Just what I thought."
+    p "Tak jak myślałem."
+
+# game/day25.rpy:1138
+translate polish day25_i_sex_20c0c941:
+
+    # ir "What? Are they..."
+    ir "Co? Są...?"
+
+# game/day25.rpy:1139
+translate polish day25_i_sex_fdc9e41d:
+
+    # p "A perfect pair."
+    p "Idealne."
+
+# game/day25.rpy:1141
+translate polish day25_i_sex_25b76bba:
+
+    # ir "Even if I don't know whether to believe you or not, it's still nice to get these compliments."
+    ir "Nawet jeśli nie wiem, czy powinnam Ci wierzyć, czy nie. I tak miło słyszeć takie komplementy."
+
+# game/day25.rpy:1146
+translate polish day25_i_sex_887cad5a:
+
+    # p "You're a vision!"
+    p "Jesteś absolutnie zjawiskowa!"
+
+# game/day25.rpy:1147
+translate polish day25_i_sex_c18f3955:
+
+    # p "But..."
+    p "Ale..."
+
+# game/day25.rpy:1148
+translate polish day25_i_sex_2aca1d3c:
+
+    # ir "But? Is something wrong."
+    ir "Ale? Coś nie tak?"
+
+# game/day25.rpy:1149
+translate polish day25_i_sex_6bc6dd21:
+
+    # p "You could say that."
+    p "Można tak powiedzieć."
+
+# game/day25.rpy:1150
+translate polish day25_i_sex_84779fec:
+
+    # p "I've seen those beautiful breasts of yours and I kinda want to see more of you..."
+    p "Zobaczyłem te Twoje piękne piersi i teraz chciałbym zobaczyć więcej Ciebie..."
+
+# game/day25.rpy:1151
+translate polish day25_i_sex_c2131b78:
+
+    # "{i}Wordlessly, Iris turns her back and unzips the dress, after that her panties fall to the floor."
+    "{i}Bez słowa, Iris odwraca się i rozpina sukienkę, po sekundzie jej majtki lądują na ziemi."
+
+# game/day25.rpy:1153
+translate polish day25_i_sex_713e1875:
+
+    # ir "You mean like this?"
+    ir "To miałeś na myśli?"
+
+# game/day25.rpy:1154
+translate polish day25_i_sex_ff5204b0:
+
+    # p "{i}(Sweet Jesus, I'd like to give those buttocks a good slapping.)"
+    p "{i}(Słodki Jezu, mam wielką ochotę dać temu tyłeczkowi porządnego klapsa.)"
+
+# game/day25.rpy:1155
+translate polish day25_i_sex_9fdfc4c8:
+
+    # p "Exactly like that."
+    p "Dokładnie to."
+
+# game/day25.rpy:1160
+translate polish day25_i_sex_6dde063f:
+
+    # ir "If you want me, I'm yours..."
+    ir "Jeśli mnie chcesz, jestem Twoja..."
+
+# game/day25.rpy:1161
+translate polish day25_i_sex_f49d9534:
+
+    # ir "But I want to see you too..."
+    ir "Ale ja też chciałabym Cię zobaczyć..."
+
+# game/day25.rpy:1163
+translate polish day25_i_sex_95d0da94:
+
+    # "{i}Without much ceremony you undress yourself and find Iris staring longingly at your erect cock."
+    "{i}Bez większych ceregieli, rozbierasz się i zauważasz, że Iris wpatruje się tęsknie w Twojego nabrzmiałego penisa."
+
+# game/day25.rpy:1164
+translate polish day25_i_sex_c27fd2fa:
+
+    # ir "It's been a while... I almost forgot what it was like."
+    ir "Minęło już trochę czasu... Już prawie zapomniałam jak to jest."
+
+# game/day25.rpy:1165
+translate polish day25_i_sex_4da5b111:
+
+    # ir "You look so handsome."
+    ir "Jesteś taki przystojny."
+
+# game/day25.rpy:1167
+translate polish day25_i_sex_c0e0f065:
+
+    # ir "I can't believe we're doing this."
+    ir "Nie mogę uwierzyć, że to robimy."
+
+# game/day25.rpy:1169
+translate polish day25_i_sex_0a7056a4:
+
+    # ir "But the woman you were with?! You aren't cheating on her, are you?"
+    ir "Ale co z tą kobietą, z którą byłeś?! Chyba nie będziesz jej zdradzał?"
+
+# game/day25.rpy:1170
+translate polish day25_i_sex_59390063:
+
+    # p "We're dating, but not sure of our feelings yet. Besides, I'm all for open relationships."
+    p "Byliśmy na randce, ale nie jesteśmy jeszcze pewni naszych uczuć. Poza tym, jestem zwolennikiem otwartych związków."
+
+# game/day25.rpy:1172
+translate polish day25_i_sex_1952c19f:
+
+    # ir "A handsome man like you, you must have a girlfriend."
+    ir "Taki przystojny młodzieniec jak Ty, musisz mieć dziewczynę."
+
+# game/day25.rpy:1173
+translate polish day25_i_sex_2c23e463:
+
+    # p "Yes, I'm seeing some girls, but nothing serious. Besides, I'm all for open relationships."
+    p "Tak, widuję się z paroma dziewczynami, ale to nic poważnego. Poza tym, jestem zwolennikiem otwartych związków."
+
+# game/day25.rpy:1174
+translate polish day25_i_sex_b169d104:
+
+    # ir "So are we really doing this?"
+    ir "Więc, naprawdę to robimy?"
+
+# game/day25.rpy:1175
+translate polish day25_i_sex_62c06072:
+
+    # p "Yes Iris, we are. Just lie down and kiss me."
+    p "Tak Iris, naprawdę. Połóż się i pocałuj mnie."
+
+# game/day25.rpy:1180
+translate polish day25_i_sex_200fd0f6:
 
     # "{i}A little hesitant, Iris lets herself be guided down to the mattress, but as soon as your lips touch and your tongues intertwine, she no longer has any reservations."
-    "{i}Nieco niezdecydowana Iris pozwala się poprowadzić w dół na materac, ale gdy tylko wasze usta się stykają, a języki splatają, nie ma już żadnych zastrzeżeń."
+    "{i}Trochę niezdecydowana Iris pozwala się poprowadzić na materac, ale gdy tylko twoje usta się stykają, a języki przeplatają, nie ma już żadnych zastrzeżeń."
 
-# game/day25.rpy:926
-translate polish day25_iris_meeting_e77aac7b:
+# game/day25.rpy:1181
+translate polish day25_i_sex_18e1759f:
+
+    # ir "Oh [p_name], kiss me again!"
+    ir "Oh [p_name], pocałuj mnie jeszcze raz!"
+
+# game/day25.rpy:1182
+translate polish day25_i_sex_dd6c002a:
+
+    # "{i}You notice her kisses have a bit of a desperate edge to them, a hunger maybe, as if she's afraid you might still leave her."
+    "{i}Zauważasz, że jej pocałunki mają w sobie trochę desperacji, takiego głodu, jakby bała się, że dalej możesz ją zostawić."
+
+# game/day25.rpy:1184
+translate polish day25_i_sex_3f08601e:
+
+    # "{i}When you caress her full breasts and touch her soft erect nipples, Iris lets out a sigh of pleasure."
+    "{i}Kiedy zaczynasz masować jej pełne piersi i dotykasz jej miękkich, nabrzmiałych sutków, Iris wydaje z siebie westchnienie rozkoszy."
+
+# game/day25.rpy:1185
+translate polish day25_i_sex_d9367c64:
+
+    # p "Do you like it when I touch you there, Iris?"
+    p "Lubisz kiedy Cię tu dotykam Iris?"
+
+# game/day25.rpy:1186
+translate polish day25_i_sex_2b5f856c:
+
+    # ir "Mmmm, yes."
+    ir "Mmmm, tak."
+
+# game/day25.rpy:1188
+translate polish day25_i_sex_e77aac7b:
 
     # "{i}You move down to her plump ass and massage her buttocks. Iris seems to be relaxing more and more as you discover her body."
-    "{i}Przesuwasz się w dół do jej pulchnego tyłka i masujesz jej pośladki Iris wydaje się być coraz bardziej zrelaksowana, gdy odkrywasz jej ciało"
+    "{i}Przesuwasz dłoń w dół, ku jej pulchnej pupie i zaczynasz masować jej pośladki, Iris zdaje się relaksować coraz bardziej z biegiem tego, jak odkrywasz jej ciało."
 
-# game/day25.rpy:930
-translate polish day25_iris_meeting_c3edf5bb:
+# game/day25.rpy:1189
+translate polish day25_i_sex_2004ab1b:
+
+    # p "Do you want to feel good?"
+    p "Chcesz poczuć się dobrze?"
+
+# game/day25.rpy:1190
+translate polish day25_i_sex_9c3b627f:
+
+    # ir "Yes..."
+    ir "Tak..."
+
+# game/day25.rpy:1192
+translate polish day25_i_sex_c3edf5bb:
 
     # "{i}Gently you turn her on her back again, and a little embarrassed, the older woman closes her legs."
-    "{i}Delikatnie obracasz ją ponownie na plecy i nieco zawstydzona starsza kobieta zamyka nogi"
+    "{i}Delikatnie odwracasz ją ponownie na plecy, trochę zawstydzona, starsza kobieta krzyżuje nogi."
 
-# game/day25.rpy:933
-translate polish day25_iris_meeting_c192101e:
+# game/day25.rpy:1193
+translate polish day25_i_sex_2b101f07:
+
+    # p "Don't be shy, Iris."
+    p "Nie wstydź się Iris."
+
+# game/day25.rpy:1195
+translate polish day25_i_sex_c192101e:
 
     # "{i}You effortlessly spread her legs. The reverend's wife doesn't stop you."
-    "{i}Bez wysiłku rozkładasz jej nogi Żona wielebnego nie zatrzymuje cię"
+    "{i}Bez wysiłku rozkładasz jej nogi Żona wielebnego cię nie powstrzymuje"
 
-# game/day25.rpy:957
-translate polish day25_iris_meeting_ef490d67:
+# game/day25.rpy:1196
+translate polish day25_i_sex_0c1def5d:
+
+    # p "{i}(Wow, that's an old-school bush, right there.)"
+    p "{i}(Wow, mamy tu prawdziwy staromodny krzaczek.)"
+
+# game/day25.rpy:1201
+translate polish day25_i_sex_728ab8a9:
+
+    # "{i}Iris wants to protest when you move your head down between her legs, but she is silent the moment your tongue touches her pussy."
+    "{i}Iris próbuje zaprotestować kiedy sięgasz głową między jej nogi, ale milknie natychmiastowo kiedy Twój język dotyka jej cipki."
+
+# game/day25.rpy:1202
+translate polish day25_i_sex_a08cbfab:
+
+    # ir "Oooh, [p_name]!"
+    ir "Oooh [p_name]!"
+
+# game/day25.rpy:1204
+translate polish day25_i_sex_e4744b64:
+
+    # "{i}Her taste fills your mouth as you penetrate her cunt with your probing tongue. Iris moans and writhes on the bed."
+    "{i}Twoje usta wypełnia jej smak, kiedy zaczynasz penetrować jej cipkę swoim językiem. Iris jęczy i wije się w pościeli."
+
+# game/day25.rpy:1205
+translate polish day25_i_sex_82d39544:
+
+    # ir "Y-yes, right there, keep doing that. Aaaaah!"
+    ir "T- Tak, właśnie tam, rób tak dalej. Aaaaah!"
+
+# game/day25.rpy:1208
+translate polish day25_i_sex_96ee126b:
+
+    # "{i}Licking her clitoris is what finally makes her explode in your mouth. She shudders and takes your head in her hands, pushing you down on her slit."
+    "{i}Kiedy zaczynasz lizać jej łechtaczkę, Iris eksploduje w końcu w Twoje usta. Cała drży i łapie Twoją głowę, przyciskając Cię do swojego krocza."
+
+# game/day25.rpy:1209
+translate polish day25_i_sex_f27ed8be:
+
+    # ir "I want you, [p_name], I want you inside me!"
+    ir "Pragnę Cię [p_name], chcę poczuć Cię w sobie!"
+
+# game/day25.rpy:1213
+translate polish day25_i_sex_fdda4f53:
+
+    # "{i}Like two horny teenagers, she helps you scramble on top of her, takes hold of your throbbing cock and eagerly guides it inside her wet pussy."
+    "{i}Jak dwoje napalonych nastolatków, pomaga Ci się na siebie wgramolić, chwyta Twojego pulsującego penisa i niecierpliwie naprowadza go na swoją mokrą cipkę."
+
+# game/day25.rpy:1215
+translate polish day25_i_sex_ace14589:
+
+    # ir "Fuck me!"
+    ir "Zerżnij mnie!"
+
+# game/day25.rpy:1221
+translate polish day25_i_sex_91ba433a:
+
+    # "{i}Your movements are tender, yet you penetrate her deeply. Each time you thrust your cock to the root inside her cunt, her nails claw into your buttocks."
+    "{i}Twoje ruchy są pełne czułości, ale penetrujesz ją głęboko. Przy każdym pchnięciu Twój penis zagłębia się w jej wnętrzu na całą długość, jej paznokcie wbijają się w Twoje pośladki."
+
+# game/day25.rpy:1223
+translate polish day25_i_sex_54864ef0:
+
+    # ir "Oooh, y-you feel so good, [p_name]."
+    ir "Oooh, [p_name] to niesamowite!"
+
+# game/day25.rpy:1224
+translate polish day25_i_sex_828438ab:
+
+    # p "Aaah, Iris!"
+    p "Aaah, Iris!"
+
+# game/day25.rpy:1226
+translate polish day25_i_sex_8809bb85:
+
+    # "{i}For a moment, Iris is annoyed when you pull out, but after you turn her on her side and you penetrate her again she lets out a small sigh of relief."
+    "{i}Przez moment, Iris jest zirytowana, kiedy się z niej wycofujesz, ale kiedy obracasz ją na bok i penetrujesz ponownie, wydaje z siebie ciche westchnienie ulgi."
+
+# game/day25.rpy:1227
+translate polish day25_i_sex_d46ea59a:
+
+    # ir "Are you going to cum for me, [p_name]?"
+    ir "Spuścisz się dla mnie [p_name]?"
+
+# game/day25.rpy:1228
+translate polish day25_i_sex_bce655a9:
+
+    # p "G-god yes Iris!"
+    p "B- Boże, tak Iris!"
+
+# game/day25.rpy:1229
+translate polish day25_i_sex_ef490d67:
 
     # "{i}Your hands dig into her soft flesh, and you fuck her even more passionately when you feel your orgasm approach."
-    "{i}Twoje ręce zagłębiają się w jej miękkie ciało i pieprzysz ją jeszcze bardziej namiętnie, gdy czujesz, że zbliża się twój orgazm."
+    "{i}Twoje dłonie błądzą po jej miękkim ciele i kiedy czujesz, że zbliża się Twój orgazm, zaczynasz posuwać ją z jeszcze większą namiętnością."
 
-# game/day25.rpy:966
-translate polish day25_iris_meeting_62f76ee7:
+# game/day25.rpy:1240
+translate polish day25_i_sex_f5ee9209:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1241
+translate polish day25_i_sex_891c825e:
+
+    # "{i}As your cock erupts inside of her, Iris opens her legs slight further to allow you to shoot your seed even deeper inside of her."
+    "{i}Kiedy Twój penis zaczyna w niej eksplodować, Iris rozkłada nogi jeszcze szerzej, aby pozwolić Ci wystrzelić w nią nasieniem jeszcze głębiej."
+
+# game/day25.rpy:1242
+translate polish day25_i_sex_62f76ee7:
 
     # ir "Don't stop, ooooh! Mmmmmmm!"
     ir "Nie przestawaj ooooh! Mmmmm!"
 
-# game/day25.rpy:977
-translate polish day25_iris_meeting_b43b3ad9:
+# game/day25.rpy:1257
+translate polish day25_i_sex_f5ee9209_1:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1258
+translate polish day25_i_sex_32c25792:
+
+    # "{i}After you pull out, your cock erupts and Iris directs the streams of cum towards herself, so as to allow your strands of semen to cover her body."
+    "{i}Gdy wysuwasz się z niej, Twój penis eksploduje i Iris nakierowuje strumienie spermy w swoją stronę, nasienie zaczyna pokrywać jej ciało."
+
+# game/day25.rpy:1259
+translate polish day25_i_sex_b43b3ad9:
 
     # ir "That's it, cover me with your cum, [p_name]!"
-    ir "That's it cover me with your cum [p_name]!"
+    ir "Właśnie tak, wykąp mnie w swojej spermie [p_name]!"
 
-# game/day25.rpy:984
-translate polish day25_iris_meeting_ae79a827:
+# game/day25.rpy:1269
+translate polish day25_i_sex_ae79a827:
 
     # "{i}Thoroughly spent, you lie with Iris for a while, her head resting on your chest."
-    "{i}Dokładnie spędzony leżysz z Iris przez chwilę jej głowa spoczywa na twojej piersi."
+    "{i}Kompletnie wyczerpany, kładziesz się koło niej, Iris opiera głowę na Twoim torsie."
 
-# game/day25.rpy:993
-translate polish day25_iris_meeting_b829791f:
+# game/day25.rpy:1270
+translate polish day25_i_sex_6e5d107c:
 
-    # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
-    ir "Dziękuję [p_name] sprawiłeś, że po tak długim czasie czuję się wyjątkowo i to się teraz liczy"
->>>>>>> polish
+    # ir "I'm glad you came by for coffee."
+    ir "Cieszę się, że wpadłeś na tą kawę."
+
+# game/day25.rpy:1271
+translate polish day25_i_sex_5f123bc2:
+
+    # p "As am I."
+    p "Ja też."
+

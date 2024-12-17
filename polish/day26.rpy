@@ -542,49 +542,49 @@ translate polish day26_choices_eee57d36:
 translate polish day26_choices_33d851bf:
 
     # # # m "Been scouring the web for porn, have you, dirty boy?"
-    m ""
+      m "Przeszukiwałeś sieć w poszukiwaniu porno, brudasie?"
 
 # game/day26.rpy:161
 translate polish day26_choices_4a867323:
 
     # # # m "Your fellow tenant will be home shortly."
-    m ""
+      m "Twój współnajemca wkrótce wróci do domu"
 
 # game/day26.rpy:162
 translate polish day26_choices_e9febf1c:
 
     # # # p "{i}(What the?! Tennant, what weird-ass fetish is this supposed to be?!)"
-    p ""
+      p "{i}(Co do?! Tennant, co to ma być za dziwny fetysz?!)"
 
 # game/day26.rpy:163
 translate polish day26_choices_c588f0eb:
 
     # # # p "Tennant, mistress?"
-    p ""
+      p "Pani Tennant?"
 
 # game/day26.rpy:164
 translate polish day26_choices_9ab169d5:
 
     # # # m "Yes, your fellow tenant Adriana. And you will address me as 'landlady' for the duration of the session."
-    m ""
+      m "Tak, twoja współlokatorka Adriana I będziesz zwracać się do mnie jako 'gospodyni' na czas trwania sesji."
 
 # game/day26.rpy:165
 translate polish day26_choices_f90e019b:
 
     # # # m "Surely you've heard of this type of role play? It's all the rage these days."
-    m ""
+      m "Na pewno słyszałeś o tego typu odgrywaniu ról? To ostatnio bardzo modne."
 
 # game/day26.rpy:166
 translate polish day26_choices_5c5cbf80:
 
     # # # p "Not really no, mistress."
-    p ""
+      p "Tak naprawdę nie ma kochanki"
 
 # game/day26.rpy:167
 translate polish day26_choices_a6db30f5:
 
     # # # m "'Landlady' and you're about to find out."
-    m ""
+      m "'Landlady' i zaraz się o tym przekonasz"
 
 # game/day26.rpy:169
 translate polish day26_choices_c20ad542:
@@ -650,19 +650,19 @@ translate polish day26_choices_a2635d8a:
 translate polish day26_choices_6641579c:
 
     # # # m "What do you think, tenant, is your friend here dressing like a slut?"
-    m ""
+      m "Jak myślisz, lokatorze, czy twój przyjaciel ubiera się jak dziwka?"
 
 # game/day26.rpy:185
 translate polish day26_choices_aef04645:
 
     # # # p "Yes, landlady."
-    p ""
+      p "Tak, gospodyni"
 
 # game/day26.rpy:186
 translate polish day26_choices_742a1e07:
 
     # # # m "See, even your fellow tenant thinks you look like a skank."
-    m ""
+      m "Widzisz, nawet twój współnajemca uważa, że wyglądasz jak dziwka."
 
 # game/day26.rpy:187
 translate polish day26_choices_fdea1318:
@@ -716,7 +716,7 @@ translate polish day26_choices_8ef75ac6:
 translate polish day26_choices_cfa05673:
 
     # # # m "I think this girl here needs a lesson, don't you think?"
-    m ""
+      m "Myślę, że ta dziewczyna potrzebuje lekcji, nie sądzisz?"
 
 # game/day26.rpy:199
 translate polish day26_choices_b2590a77:
@@ -752,7 +752,7 @@ translate polish day26_choices_b539e879:
 translate polish day26_choices_6a9e63ca:
 
     # # # m "Get the paddle."
-    m ""
+      m "Get the paddle"
 
 # game/day26.rpy:208
 translate polish day26_choices_0ed28e32:
@@ -770,7 +770,7 @@ translate polish day26_choices_5eccc69e:
 translate polish day26_choices_98a633f8:
 
     # # # "{i}After you hand [m_name] the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
-    ""
+      "{i} Po wręczeniu [m_name] łopatki, przystąpiła ona do uderzania Adriany w pośladki drewnianym narzędziem."
 
 # game/day26.rpy:214
 translate polish day26_choices_366964ef:
@@ -932,7 +932,7 @@ translate polish day26_choices_9a5f982c:
 translate polish day26_choices_e445b529:
 
     # # # m "But if you're that desperate for cock, your fellow tenant will show you what a real man is."
-    m ""
+      m "Ale jeśli tak bardzo pragniesz kutasa, twój współlokator pokaże ci, czym jest prawdziwy mężczyzna."
 
 # game/day26.rpy:249
 translate polish day26_choices_18513f0f:
@@ -998,13 +998,13 @@ translate polish day26_choices_25a1f0ea:
 translate polish day26_choices_9a4957b0:
 
     # # # m "We're going to use all of your holes, Adriana."
-    m ""
+    m "Wykorzystamy wszystkie twoje dziurki Adriana"
 
 # game/day26.rpy:268
 translate polish day26_choices_de10e825:
 
     # # # ad "Y-yes, landlady."
-    ad ""
+    ad "Tak, gospodyni"
 
 # game/day26.rpy:270
 translate polish day26_choices_39037dfb:
@@ -1040,7 +1040,7 @@ translate polish day26_choices_07f50341:
 translate polish day26_choices_d359f835:
 
     # # # "{i}[m_name] retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
-    ""
+      "{i}[m_name] wyjmuje coś z szafy i rozbiera się. Kiedy ponownie pojawia się w polu widzenia, jedyną rzeczą, którą ma na sobie, jest dildo z paskiem."
 
 # game/day26.rpy:279
 translate polish day26_choices_de920d7c:
@@ -1064,13 +1064,13 @@ translate polish day26_choices_1ea83d23_1:
 translate polish day26_choices_3242f70b:
 
     # # # m "Are you ready to fuck your fellow tenant?"
-    m ""
+      m "Czy jesteś gotowy pieprzyć swojego współlokatora?"
 
 # game/day26.rpy:285
 translate polish day26_choices_aef04645_1:
 
     # # # p "Yes, landlady."
-    p ""
+      p "Tak, gospodyni"
 
 # game/day26.rpy:286
 translate polish day26_choices_4c2f3098:
@@ -1094,7 +1094,7 @@ translate polish day26_choices_527dbb63:
 translate polish day26_choices_30ee6c5f:
 
     # # # m "You've made your fellow tenant's cock all hard and wet, now do the same to mine."
-    m ""
+      m "Sprawiłeś, że kutas twojego współlokatora stał się twardy i mokry, teraz zrób to samo z moim."
 
 # game/day26.rpy:294
 translate polish day26_choices_e5ab80c7:
@@ -1118,7 +1118,7 @@ translate polish day26_choices_cfa109e5:
 translate polish day26_choices_db223938:
 
     # # # ad "Yes, landlady."
-    ad ""
+     ad "Tak gospodyni"
 
 # game/day26.rpy:302
 translate polish day26_choices_9f0d12fd:
@@ -1130,7 +1130,7 @@ translate polish day26_choices_9f0d12fd:
 translate polish day26_choices_f24a5df5:
 
     # # # m "How do you want to use her, boy?"
-    m ""
+      m "Jak chcesz wykorzystać jej chłopca?"
 
 # game/day26.rpy:313
 translate polish day26_choices_3366b021:
@@ -1172,13 +1172,13 @@ translate polish day26_choices_cead87c0:
 translate polish day26_choices_e8796c7c:
 
     # # # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
-    ""
+      "{i}Po ustaleniu rytmu głębokich pchnięć [m_name] ustawia się za Adrianą. Nagle jej cipa staje się znacznie ciaśniejsza niż wcześniej."
 
 # game/day26.rpy:323
 translate polish day26_choices_2d4847a9:
 
-    # # # ad "Are you inside me?"
-    ad ""
+    # "Are you inside me?"
+    ad "Jesteś we mnie?"
 
 # game/day26.rpy:324
 translate polish day26_choices_dff00f31:
@@ -1244,7 +1244,7 @@ translate polish day26_choices_fe569eea:
 translate polish day26_choices_d43c5d70:
 
     # # # m "Kiss me, boy."
-    m ""
+      m "Pocałuj mnie chłopcze"
 
 # game/day26.rpy:341
 translate polish day26_choices_cf051d1a:
@@ -1262,7 +1262,7 @@ translate polish day26_choices_20af5824:
 translate polish day26_choices_5fa17325:
 
     # # # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one you experienced in her bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
-    ""
+      "Bez wahania się zgadzasz Pocałunek, który wymieniacie jest zupełnie inny od tego, którego doświadczyłeś w jej łóżku Jest w nim namiętność bez głodu, a jej język ochoczo eksploruje twój."
 
 # game/day26.rpy:348
 translate polish day26_choices_4dee552f:
@@ -1280,7 +1280,7 @@ translate polish day26_choices_f404eda9:
 translate polish day26_choices_78356733:
 
     # # # m "Don't forget to keep fucking that pussy."
-    m ""
+      m "Nie zapomnij dalej pieprzyć tej cipki"
 
 # game/day26.rpy:357
 translate polish day26_choices_575a57e1:
@@ -1322,13 +1322,13 @@ translate polish day26_choices_cead87c0_1:
 translate polish day26_choices_24bad093:
 
     # # # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
-    ""
+    "{i}Po ustaleniu rytmu głębokich pchnięć [m_name] ustawia się między nogami Adriany, nagle jej tyłek staje się znacznie ciaśniejszy niż wcześniej."
 
 # game/day26.rpy:367
 translate polish day26_choices_2d4847a9_1:
 
     # # # ad "Are you inside me?"
-    ad ""
+    ad "Jesteś we mnie?"
 
 # game/day26.rpy:368
 translate polish day26_choices_a0158813:
@@ -1394,7 +1394,7 @@ translate polish day26_choices_fe569eea_1:
 translate polish day26_choices_d43c5d70_1:
 
     # # # m "Kiss me, boy."
-    m ""
+      m "Pocałuj mnie chłopcze"
 
 # game/day26.rpy:385
 translate polish day26_choices_cf051d1a_1:
@@ -1412,7 +1412,7 @@ translate polish day26_choices_f244059d:
 translate polish day26_choices_b97b2e09:
 
     # # # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside and a surprised Adriana nearly falls to the floor."
-    ""
+      "{i}[m_name] wysuwa się z Adriany, która sapie z zaskoczenia, a starsza kobieta zbliża się do ciebie. Popycha dziewczynę, której tyłek wciąż jest walony przez twojego kutasa na bok, a zaskoczona Adriana prawie upada na podłogę."
 
 # game/day26.rpy:392
 translate polish day26_choices_a7df9a82:
@@ -1424,7 +1424,7 @@ translate polish day26_choices_a7df9a82:
 translate polish day26_choices_9737adfa:
 
     # # # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in [m_name]'s bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
-    ""
+      "{i} Bez wahania pieścisz usta [m_name] swoimi Pocałunek, który wymieniacie, jest zupełnie inny niż ten w łóżku [m_name] Nie ma w nim pasji ani głodu, a jej język chętnie odkrywa twój."
 
 # game/day26.rpy:395
 translate polish day26_choices_4dee552f_1:
@@ -1442,7 +1442,7 @@ translate polish day26_choices_7a783fd1:
 translate polish day26_choices_5133ba48:
 
     # # # m "Don't forget to keep fucking that asshole."
-    m ""
+      m "Nie zapomnij dalej pieprzyć tego dupka"
 
 # game/day26.rpy:401
 translate polish day26_choices_017cf4fb:
@@ -1466,7 +1466,7 @@ translate polish day26_choices_9179d8b6:
 translate polish day26_choices_cb89798a:
 
     # # # m "You like that, don't you Adriana, your roommate filling you up with his warm seed?"
-    m ""
+      m "Lubisz to, prawda Adriana, twój współlokator wypełnia cię swoim ciepłym nasieniem?"
 
 # game/day26.rpy:407
 translate polish day26_choices_2ed4e74c:
@@ -1520,7 +1520,7 @@ translate polish day26_choices_4dc8d7d1:
 translate polish day26_choices_59d38f7f:
 
     # # # "{i}Semen is running down her thighs as [m_name] fucks her ass a little longer to prolong the girl's orgasm."
-    ""
+      "{i}Semen spływa po jej udach, gdy [m_name] pieprzy jej tyłek trochę dłużej, aby przedłużyć orgazm dziewczyny."
 
 # game/day26.rpy:428
 translate polish day26_choices_30c15f46:
@@ -1574,7 +1574,7 @@ translate polish day26_choices_e78775bc:
 translate polish day26_choices_12d25931:
 
     # # # "{i}Semen is running down her thighs and [m_name]'s as the latter fucks her pussy a little longer to prolong the girl's orgasm."
-    ""
+      "{i}Semen spływa po jej udach i udach [m_name], gdy ten ostatni pieprzy jej cipkę nieco dłużej, aby przedłużyć orgazm dziewczyny."
 
 # game/day26.rpy:444
 translate polish day26_choices_21833e20:
@@ -1604,25 +1604,25 @@ translate polish day26_choices_30c2d1c5:
 translate polish day26_choices_52be45d4:
 
     # # # m "I think we showed your roommate how we do things here at home."
-    m ""
+      m "Myślę, że pokazaliśmy twojemu współlokatorowi, jak załatwiamy sprawy w domu."
 
 # game/day26.rpy:450
 translate polish day26_choices_0e11dc8c:
 
     # # # p "We sure did, landlady."
-    p ""
+      p "Na pewno to zrobiliśmy, gospodyni"
 
 # game/day26.rpy:451
 translate polish day26_choices_3e6ef507_1:
 
     # # # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
-    m ""
+      m "Możesz jeszcze chwilę poleżeć na podłodze, a potem wszystko posprzątaj, bo narobiłaś bałaganu na podłodze."
 
 # game/day26.rpy:452
 translate polish day26_choices_6c0cf7d4:
 
     # # # ad "Yes landlady."
-    ad ""
+     ad "Tak gospodyni"
 
 # game/day26.rpy:454
 translate polish day26_choices_ebe9b528:
@@ -2102,7 +2102,7 @@ translate polish day26_evening_choices_9afd3d02:
 translate polish day26_evening_choices_8934d2eb:
 
     # # # p "Hey [b_name], are you all right?"
-    p ""
+      p "Hej [b_name] wszystko w porządku?"
 
 # game/day26.rpy:587
 translate polish day26_evening_choices_18717b97:
@@ -2204,7 +2204,7 @@ translate polish day26_evening_choices_5eb4e3de:
 translate polish day26_evening_choices_fb4c8e34:
 
     # # # "{i}Despite her distance, you fall asleep cuddling, [b_name]'s warm body pressed against you."
-    ""
+      "{i}Mimo jej odległości zasypiasz przytulony do ciepłego ciała [b_name] przyciśniętego do ciebie."
 
 # game/day26.rpy:620
 translate polish day26_evening_choices_8bea7e2b:
@@ -2312,7 +2312,7 @@ translate polish day26_b_club_2910a562:
 translate polish day26_b_club_c0bebc2a:
 
     # # # p "I partied with a friend in a night club not far from the city center."
-    p ""
+      p "Imprezowałem z przyjacielem w nocnym klubie niedaleko centrum miasta"
 
 # game/day26.rpy:651
 translate polish day26_b_club_78158b4d:
@@ -2732,7 +2732,7 @@ translate polish day26_b_club_452d24b0:
 translate polish day26_b_club_f251d46c:
 
     # # # "{i}In response, your girlfriend turns towards you and rests her head on your shoulder."
-    ""
+      "W odpowiedzi twoja dziewczyna odwraca się do ciebie i opiera głowę na twoim ramieniu."
 
 # game/day26.rpy:756
 translate polish day26_b_club_2f77d9ea:
@@ -2984,7 +2984,7 @@ translate polish day26_b_club_7bc34216:
 translate polish day26_b_club_07ed665a:
 
     # # # "{i}In response, your girlfriend presses her body even closer to yours."
-    ""
+      "W odpowiedzi twoja dziewczyna przyciska swoje ciało jeszcze bliżej twojego"
 
 # game/day26.rpy:819
 translate polish day26_b_club_2b9c38ef:
@@ -3212,7 +3212,7 @@ translate polish day26_b_club_2474f8d6:
 translate polish day26_b_club_71a30749:
 
     # # # "{i}Your friend's voice suddenly cuts through the moment you were having with Megan."
-    ""
+      "Głos twojego przyjaciela nagle przerwał chwilę, którą spędzałeś z Megan."
 
 # game/day26.rpy:872
 translate polish day26_b_club_4495d211:
@@ -3356,7 +3356,7 @@ translate polish day26_b_club_50ec964d:
 translate polish day26_b_club_9f4d000d:
 
     # # # "{i}[b_name] is silent the rest of the way, obviously there'll be a difficult conversation tomorrow..."
-    ""
+      "{i}[b_name] milczy przez resztę drogi, oczywiście jutro będzie trudna rozmowa."
 
 # game/day26.rpy:908
 translate polish day26_b_club_171d0f30:
@@ -3422,7 +3422,7 @@ translate polish day26_b_club_2910a562_1:
 translate polish day26_b_club_c0bebc2a_1:
 
     # # # p "I partied with a friend in a night club not far from the city center."
-    p ""
+      p "Imprezowałem z przyjacielem w nocnym klubie niedaleko centrum miasta"
 
 # game/day26.rpy:927
 translate polish day26_b_club_78158b4d_1:
@@ -3824,7 +3824,7 @@ translate polish day26_b_club_c59e8619:
 translate polish day26_b_club_3ecd3c17:
 
     # "{i}Instead of choosing [b_name] you gravitate towards Megan and hold her intimately in your arms. The gasp she lets out when you lift her up gets the attention of [b_name]."
-    ""
+    "{i}Zamiast wybrać [b_name], przyciągasz się do Megan i trzymasz ją blisko w ramionach, a jej westchnienie, gdy ją podnosisz, przyciąga uwagę [b_name]."
 
 # game/day26.rpy:1028
 translate polish day26_b_club_110b8398:
@@ -3866,7 +3866,7 @@ translate polish day26_b_club_2474f8d6_1:
 translate polish day26_b_club_839ff7b0:
 
     # # # "{i}[b_name]'s voice suddenly cuts through the moment you were having with Megan."
-    ""
+      "Głos {i}[b_name] nagle przecina chwilę, którą spędzałeś z Megan."
 
 # game/day26.rpy:1039
 translate polish day26_b_club_4495d211_1:
@@ -4040,7 +4040,7 @@ translate polish day26_b_club_b36e272f:
 translate polish day26_b_club_d1df77ad:
 
     # # # "{i}[b_name] is silent the rest of the way, though she gives you an accusatory look whenever your gazes meet..."
-    ""
+      "{i}[b_name] milczy przez resztę drogi, choć rzuca ci oskarżycielskie spojrzenie za każdym razem, gdy wasze spojrzenia się spotykają."
 
 # game/day26.rpy:1082
 translate polish day26_b_club_171d0f30_1:
@@ -4076,7 +4076,7 @@ translate polish day26_b_club_452d24b0_1:
 translate polish day26_b_club_f251d46c_1:
 
     # # # "{i}In response, your girlfriend turns towards you and rests her head on your shoulder."
-    ""
+      "W odpowiedzi twoja dziewczyna odwraca się do ciebie i opiera głowę na twoim ramieniu."
 
 # game/day26.rpy:1095
 translate polish day26_b_club_c8e846a6:
@@ -4172,7 +4172,7 @@ translate polish day26_b_club_1ae0e8ca:
 translate polish day26_b_club_d10c4617:
 
     # # # "{i}[b_name] is silent the rest of the way, though there is no trace of apprehension in her behavior towards you."
-    ""
+      "{i}[b_name] milczy przez resztę drogi, choć w jej zachowaniu wobec ciebie nie ma śladu obawy."
 
 # game/day26.rpy:1125
 translate polish day26_b_club_686e6d7b:
@@ -4454,7 +4454,7 @@ translate polish day26_b_hotel_020cfc4a:
 translate polish day26_b_hotel_5f8b3243:
 
     # # # "{i}[b_name] disappears into the bathroom, while you get out of your sweaty clothes and lie down on the fresh bedsheets."
-    ""
+      "{i}[b_name] znika w łazience, podczas gdy ty zdejmujesz przepocone ubrania i kładziesz się na świeżej pościeli."
 
 # game/day26.rpy:1202
 translate polish day26_b_hotel_b4ee6730:
@@ -4616,7 +4616,7 @@ translate polish day26_b_hotel_60f49f18:
 translate polish day26_b_hotel_62cc0e47:
 
     # # # "{i}A small sigh escapes [b_name], as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
-    ""
+      "{i} Małe westchnienie wymyka się [b_name], jakby w połowie spodziewała się innej odpowiedzi Twoje pocałunki mają teraz bardziej głodną naturę, gdy próbuje zdjąć twoją bieliznę, a ty jej stanik."
 
 # game/day26.rpy:1245
 translate polish day26_b_hotel_2ed91204:
@@ -4670,7 +4670,7 @@ translate polish day26_b_hotel_d7263f59:
 translate polish day26_b_hotel_75be97af:
 
     # # # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your girlfriend stops you for a moment."
-    ""
+      "{i} Jej słone soki wciąż świeże w twoich ustach, popychasz czubek swojej erekcji do wejścia do jej pochwy Kładąc delikatnie dłoń na twojej klatce piersiowej, twoja dziewczyna zatrzymuje cię na chwilę."
 
 # game/day26.rpy:1259
 translate polish day26_b_hotel_a26a5b21:
@@ -4754,7 +4754,7 @@ translate polish day26_b_hotel_415784d7:
 translate polish day26_b_hotel_34652bdc:
 
     # # # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long and she's helpless in your arms, overcome by wave upon wave of pleasure."
-    ""
+      "Wydając z siebie mały krzyk [b_name] osiąga orgazm, podczas gdy ty ją pieprzysz. Jej punkt kulminacyjny trwa bardzo długo, a ona jest bezradna w twoich ramionach, ogarnięta falą przyjemności."
 
 # game/day26.rpy:1282
 translate polish day26_b_hotel_385f7131:
@@ -4796,7 +4796,7 @@ translate polish day26_b_hotel_a67c1ccd:
 translate polish day26_b_hotel_37497881:
 
     # # # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
-    ""
+      "Jej spojrzenie uwielbienia jest tym, co wyzwala twój orgazm. Niemal paraliżuje cię i jedyne, co możesz zrobić, to warczeć i całować kark, podczas gdy twój kutas pokrywa wnętrze [b_name] gorącym nasieniem."
 
 # game/day26.rpy:1309
 translate polish day26_b_hotel_d380b200:
@@ -4808,7 +4808,7 @@ translate polish day26_b_hotel_d380b200:
 translate polish day26_b_hotel_8085c046:
 
     # # # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out and growling with lust, you cover [b_name]'s body with hot seed."
-    ""
+      "Jej spojrzenie uwielbienia jest tym, co wyzwala twój orgazm. Prawie cię paraliżuje, ale udaje ci się wyrwać i warcząc z pożądania, pokrywasz ciało [b_name] gorącym nasieniem."
 
 # game/day26.rpy:1321
 translate polish day26_b_hotel_a180001e:
@@ -4820,7 +4820,7 @@ translate polish day26_b_hotel_a180001e:
 translate polish day26_b_hotel_dada4d10:
 
     # # # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out and growling with lust, you cover [b_name]'s beautiful face with hot seed."
-    ""
+      "Jej spojrzenie uwielbienia jest tym, co wyzwala twój orgazm. Prawie cię paraliżuje, ale udaje ci się wyrwać i warcząc z pożądania, pokrywasz piękną twarz [b_name] gorącym nasieniem."
 
 # game/day26.rpy:1330
 translate polish day26_b_hotel_162d6918:
@@ -4952,313 +4952,1751 @@ translate polish strings:
     old "Reassure her"
     new "Będzie dobrze"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day26.rpy:51
+# game/day26.rpy:57
 translate polish day26_0b1ca0b1:
 
     # b "Yesterday was fun."
     b "Wczoraj było fajnie"
 
-# game/day26.rpy:81
+# game/day26.rpy:87
 translate polish day26_67dd5538:
 
     # "{i}When [b_name] exits your room to go to her work at the coffeeshop, you notice that she's decidedly less happy."
-    "{i}Kiedy [b_name] wychodzi z twojego pokoju, by pójść do swojej pracy w kawiarni, zauważasz, że jest zdecydowanie mniej szczęśliwa."
+    "{i}Kiedy Bella wychodzi z Twojego pokoju, żeby pójść do pracy, zauważasz, że znacznie posmutniała."
 
-# game/day26.rpy:155
-translate polish day26_choices_7ca190d2:
-
-    # m "Surely you've heard of incest role-play? It's all the rage these days."
-    m "Na pewno słyszałaś o incest role-play? To wszystko jest teraz w modzie."
-
-# game/day26.rpy:165
-translate polish day26_choices_afa63fd5:
-
-    # m "Surely you've heard of this type of role-play? It's all the rage these days."
-    m "Na pewno słyszałeś o tego typu odgrywaniu ról? W dzisiejszych czasach to cały szał"
-
-# game/day26.rpy:220
-translate polish day26_choices_6d7aa8ad:
-
-    # "{i}[m_name] slaps harder and harder, vicious red marks appear on Adriana's ass as she keeps her teeth clenched in pain, unable to speak."
-    "{i}[m_name] uderza mocniej i mocniej złośliwe czerwone ślady pojawiają się na tyłku Adriany, gdy ta trzyma zaciśnięte zęby w bólu nie mogąc mówić"
-
-# game/day26.rpy:272
-translate polish day26_choices_a9e11976:
-
-    # "{i}Adriana can only gurgle and looks up at you with teary eyes. The look she gives you is not one of sadness but conveys a depravity that nearly makes you coat her throat with seed."
-    "{i}Adriana może tylko bulgotać i spogląda na ciebie ze łzawiącymi oczami Spojrzenie, którym cię obdarza, nie jest spojrzeniem smutku, ale przekazuje deprecjację, która niemal każe ci obtoczyć jej gardło w nasieniu"
-
-# game/day26.rpy:325
-translate polish day26_choices_533fd5d7:
-
-    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
-    m "Tak ty mała dziwko sprawimy, że poczujesz się tak dobrze, że nigdy nie będziesz chciała innego mężczyzny w swoim życiu"
-
-# game/day26.rpy:369
-translate polish day26_choices_533fd5d7_1:
-
-    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
-    m "Tak ty mała dziwko sprawimy, że poczujesz się tak dobrze, że nigdy nie będziesz chciała innego mężczyzny w swoim życiu"
-
-# game/day26.rpy:371
-translate polish day26_choices_9abdd26d:
-
-    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
-    "{i}Zarówno ty jak i [m_name] nigdy nie dajecie Adrianie chwili wytchnienia strap-on bezlitośnie tłoczy się w jej dupie, a wy na przemian wykonujecie szybkie i długie pchnięcia penetrując ją coraz głębiej"
-
-# game/day26.rpy:373
-translate polish day26_choices_111ad91b:
-
-    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without restraint."
-    "{i}Początkowa mina zaniepokojonej Adriany zostaje zastąpiona przez całkowity zachwyt, gdy jęczy bez skrępowania"
-
-# game/day26.rpy:387
-translate polish day26_choices_128fef0a:
-
-    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and your mother moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
-    "{i}[m_name] wysuwa się z Adriany, która sapie ze zdziwienia, a Twoja matka rusza w Twoją stronę Odsuwa na bok dziewczynę, której tyłek wciąż otrzymuje lanie od Twojego kutasa, a zaskoczona Adriana prawie upada na podłogę"
-
-# game/day26.rpy:389
-translate polish day26_choices_e052f5e9:
-
-    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
-    "{i}[m_name] wysuwa się z Adriany, która sapie ze zdziwienia, a starsza kobieta rusza w Twoją stronę Odsuwa na bok dziewczynę, której tyłek wciąż otrzymuje lanie od Twojego kutasa, a zaskoczona Adriana prawie upada na podłogę"
-
-# game/day26.rpy:412
-translate polish day26_choices_ed5592f6:
-
-    # "{i}Adriana's pussy is very tight, and your cock is stimulated by [m_name]'s thrusting as well. When you lift the girl, you penetrate her even more intensely than before."
-    "{i}Cipka Adriany jest bardzo ciasna, a twój kutas jest stymulowany również przez pchnięcia [m_name] Gdy podnosisz dziewczynę penetrujesz ją jeszcze intensywniej niż wcześniej"
-
-# game/day26.rpy:432
-translate polish day26_choices_491a1a7b:
-
-    # "{i}The deprivation of air tightens every muscle in her body and allows Adriana to orgasm."
-    "{i}Pozbawienie powietrza napina każdy mięsień w jej ciele i pozwala Adrianie osiągnąć orgazm"
-
-# game/day26.rpy:475
+# game/day26.rpy:170
 translate polish day26_choices_95b6a458:
 
     # "{i}The receptionist leaves the living room, and you put on your clothing and head home."
-    "{i}Recepcjonista wychodzi z salonu, a ty zakładasz ubranie i kierujesz się do domu"
+    "{i}Recepcjonistka wychodzi z salonu, ubierasz się i wracasz do domu."
 
-# game/day26.rpy:495
+# game/day26.rpy:190
 translate polish day26_choices_9217c465:
 
     # r "I really enjoyed what we did yesterday, and I'm not going to let some teacher get me down."
-    r "Naprawdę cieszyłem się tym, co zrobiliśmy wczoraj i nie zamierzam pozwolić, aby jakiś nauczyciel mnie zdołował"
+    r "Naprawdę podobało mi się to co wczoraj zrobiliśmy i nie pozwolę, żeby jakiś nauczyciel mi to popsuł."
 
-# game/day26.rpy:569
+# game/day26.rpy:274
 translate polish day26_evening_post_ab6d2e7b:
 
     # "{i}[b_name] walks out the door without waiting for you, and you both take the bus to the club where Megan is supposed to be already."
-    "{i}[b_name] wychodzi przez drzwi nie czekając na Ciebie i oboje jedziecie autobusem do klubu, w którym ma być już Megan."
+    "{i}[b_name] wychodzi przez drzwi, nie czekając na ciebie i oboje jedziecie autobusem do klubu, w którym Megan powinna już być."
 
-# game/day26.rpy:667
+# game/day26.rpy:373
 translate polish day26_b_club_ef102b63:
 
     # b "When she caught me chatting with one of the regulars I got this whole sermon about cost-effective service and from that moment, she was hovering around me all the time, cutting any conversations short."
-    b "Kiedy przyłapała mnie na pogawędce z jednym ze stałych bywalców, dostałem całe to kazanie o opłacalnej służbie i od tego momentu kręciła się wokół mnie cały czas ucinając wszelkie rozmowy"
+    b "Kiedy przyłapała mnie na pogawędce z jednym ze stałych klientów, to zaserwowała mi cały wykład na temat kosztów utrzymania personelu i od tamtej pory ciągle siedziała mi na głowie, ucinając każdą konwersację."
 
-# game/day26.rpy:689
+# game/day26.rpy:395
 translate polish day26_b_club_c39dfe8d:
 
     # p "That's true. We just started dating. I'm not entirely sure where she stands and how our relationship will evolve."
-    p "To prawda Dopiero zaczęliśmy się spotykać Nie jestem do końca pewien na czym stoi i jak rozwinie się nasz związek"
+    p "Prawda, dopiero zaczęliśmy się umawiać. Jeszcze nie jestem pewny, na czym stoję i jak będzie wyglądał nasz związek."
 
-# game/day26.rpy:739
+# game/day26.rpy:445
 translate polish day26_b_club_c31fa674:
 
     # p "We talked about the Cartesian duality of mind and body."
     p "Rozmawialiśmy o kartezjańskiej dwoistości umysłu i ciała"
 
-# game/day26.rpy:781
-translate polish day26_b_club_41ceba24:
-
-    # "{i}When [b_name] returns with her coat, you exit the club."
-    "{i}Kiedy [b_name] wróci ze swoim płaszczem wychodzisz z klubu"
-
-# game/day26.rpy:796
-translate polish day26_b_club_83de874f:
-
-    # b "Because if you want to, I happen to have a room booked for us."
-    b "Bo jeśli chcesz to tak się składa, że mam zarezerwowany dla nas pokój"
-
-# game/day26.rpy:857
-translate polish day26_b_club_dce6ac5e:
-
-    # "{i}When you're on the floor with [b_name], you decide to change things up and dance with Megan instead of [b_name], who was clearly expecting you to dance with her."
-    "{i}Kiedy jesteś na parkiecie z [b_name], decydujesz się na zmianę rzeczy i tańczysz z Megan zamiast [b_name], która wyraźnie oczekiwała, że zatańczysz z nią."
-
-# game/day26.rpy:861
-translate polish day26_b_club_9aa8e71c:
-
-    # "{i}Ignoring [b_name]'s jealous looks, you lift Megan in the air. You feel the soft curve of her breasts beneath the thin fabric of her dress."
-    "{i}Ignorując zazdrosne spojrzenia [b_name] podnosisz Megan w powietrzu Czujesz miękką krzywiznę jej piersi pod cienkim materiałem jej sukienki"
-
-# game/day26.rpy:943
-translate polish day26_b_club_ef102b63_1:
-
-    # b "When she caught me chatting with one of the regulars I got this whole sermon about cost-effective service and from that moment, she was hovering around me all the time, cutting any conversations short."
-    b "Kiedy przyłapała mnie na pogawędce z jednym ze stałych bywalców, dostałem całe to kazanie o opłacalnej służbie i od tego momentu kręciła się wokół mnie cały czas ucinając wszelkie rozmowy"
-
-# game/day26.rpy:1024
-translate polish day26_b_club_45b98cc9:
-
-    # "{i}Instead of choosing [b_name], you gravitate towards Megan and hold her intimately in your arms. The gasp she lets out when you lift her up gets the attention of your sister."
-    "{i}Zamiast wybrać [b_name] grawitujesz w stronę Megan i trzymasz ją intymnie w swoich ramionach The gasp she lets out when you lift her up gets attention of your sister"
-
-# game/day26.rpy:1026
-translate polish day26_b_club_006c1b3f:
-
-    # "{i}Instead of choosing [b_name], you gravitate towards Megan and hold her intimately in your arms. The gasp she lets out when you lift her up gets the attention of [b_name]."
-    "{i}Zamiast wybrać [b_name] grawitujesz w stronę Megan i trzymasz ją intymnie w swoich ramionach Sapanie, które wydaje, gdy ją podnosisz, przyciąga uwagę [b_name]."
-
-# game/day26.rpy:1119
-translate polish day26_b_club_3918b4d3:
-
-    # "{i}When [b_name] returns with her coat, you exit the club and you head home."
-    "{i}Kiedy [b_name] wraca z płaszczem wychodzicie z klubu i kierujecie się do domu"
-
-# game/day26.rpy:1148
-translate polish day26_b_hotel_5d40a335:
-
-    # p "But, you're not worried are you? About us?"
-    p "Ale ty się chyba nie martwisz? O nas?"
-
-# game/day26.rpy:1196
-translate polish day26_b_hotel_24f626d9:
-
-    # b "Okay, just make yourself comfortable. I need to use the bathroom."
-    b "Dobrze tylko rozgość się muszę skorzystać z łazienki"
-
-# game/day26.rpy:1221
-translate polish day26_b_hotel_a2157a79:
-
-    # p "That's the right answer, isn't it?"
-    p "To jest właściwa odpowiedź, czyż nie?"
-
-# game/day26.rpy:1250
-translate polish day26_b_hotel_f8113d4b:
-
-    # "{i}She's already very wet, and a few well-placed caresses of your tongue nearly send her over the edge."
-    "{i}Ona jest już bardzo mokra i kilka dobrze umieszczonych pieszczot twojego języka prawie wysyła ją nad krawędź."
-
-# game/day26.rpy:1261
-translate polish day26_b_hotel_867f4b98:
-
-    # "{i}Satisfied, [b_name] allows you to continue, and you push your cock teasingly slow inside her."
-    "{i}Zadowolona [b_name] pozwala ci kontynuować i wciskasz kutasa kusząco powoli do jej wnętrza"
-
-# game/day26.rpy:1265
-translate polish day26_b_hotel_8087034a:
-
-    # "{i}After you both get your bearings, you kiss, and she motions you to go on."
-    "{i}Po tym, jak oboje się zorientujecie, całujecie się, a ona proponuje wam, żebyście poszli dalej."
-
-# game/day26.rpy:1279
-translate polish day26_b_hotel_f5203134:
-
-    # "{i}Letting out a small scream, your sister orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
-    "{i}Pozwalając sobie na mały krzyk, twoja siostra orgazmuje, podczas gdy ty nadal ją pieprzysz Jej szczyt trwa bardzo długo, a ona jest bezradna w twoich ramionach pokonana przez falę po fali przyjemności."
-
-# game/day26.rpy:1281
-translate polish day26_b_hotel_61957f95:
-
-    # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
-    "{i}Wypuszczając mały krzyk [b_name] orgazmuje, podczas gdy ty wciąż ją pieprzysz Jej szczyt trwa bardzo długo, a ona jest bezradna w twoich ramionach pokonana przez falę po fali przyjemności."
-
-# game/day26.rpy:1297
-translate polish day26_b_hotel_28ecca1e:
-
-    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of your sister with hot seed."
-    "{i}Jej spojrzenie uwielbienia jest tym, co wyzwala twój orgazm To prawie paraliżuje cię i jedyną rzeczą, którą możesz zrobić, to warczeć i całować kark jej szyi, podczas gdy twój kogut powleka wnętrze twojej siostry gorącym nasieniem"
-
-# game/day26.rpy:1299
-translate polish day26_b_hotel_dc23b31f:
-
-    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
-    "{i}Jej spojrzenie uwielbienia jest tym, co wyzwala twój orgazm To prawie paraliżuje cię i jedyne, co możesz zrobić, to warknąć i pocałować kark jej szyi, podczas gdy twój kogut powleka wnętrze [b_name] gorącym nasieniem."
-
-# game/day26.rpy:1309
-translate polish day26_b_hotel_6ecfe49c:
-
-    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's body with hot seed."
-    "{i}Jej spojrzenie pełne uwielbienia jest tym, co wyzwala twój orgazm Prawie cię paraliżuje, ale udaje ci się wyrwać i warcząc z pożądania pokrywasz ciało siostry gorącym nasieniem."
-
-# game/day26.rpy:1311
-translate polish day26_b_hotel_b5d1fb5c:
-
-    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s body with hot seed."
-    "{i}Jej spojrzenie pełne uwielbienia jest tym, co wyzwala twój orgazm To prawie paraliżuje cię, ale udaje ci się wyrwać i warcząc z pożądania pokrywasz ciało [b_name] gorącym nasieniem."
-
-# game/day26.rpy:1321
-translate polish day26_b_hotel_cb25e095:
-
-    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's beautiful face with hot seed."
-    "{i}Jej spojrzenie pełne uwielbienia jest tym, co wyzwala twój orgazm To prawie paraliżuje cię, ale udaje ci się wyrwać i warcząc z pożądania pokrywasz piękną twarz siostry gorącym nasieniem."
-
-# game/day26.rpy:1323
-translate polish day26_b_hotel_6b1c1dc6:
-
-    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s beautiful face with hot seed."
-    "{i}Jej spojrzenie pełne uwielbienia jest tym, co wyzwala twój orgazm To prawie paraliżuje cię, ale udaje ci się wyrwać i warcząc z pożądania pokrywasz piękną twarz [b_name] gorącym nasieniem."# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day26.rpy:329
-translate polish day26_choices_a67dcfc3:
-
-    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without any restraint."
-    "{i}Początkowy niepokój Adriany zostaje zastąpiony przez całkowity zachwyt, gdy jęczy bez żadnego skrępowania."
-
-# game/day26.rpy:371
-translate polish day26_choices_9abdd26d_1:
-
-    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
-    "{i}Zarówno ty, jak i [m_name] nigdy nie dajecie Adrianie chwili wytchnienia. Pasek bezlitośnie wbija się w jej tyłek, a ty na przemian wykonujesz szybkie i długie pchnięcia, penetrując ją coraz głębiej."
-
-# game/day26.rpy:749
+# game/day26.rpy:455
 translate polish day26_b_club_837415ed:
 
     # "{i}When you're on the floor with [b_name], you gravitate naturally towards each other and you hold her in your arms."
-    "{i}Kiedy jesteś na podłodze z [b_name], naturalnie przyciągasz się do siebie i trzymasz ją w ramionach."
+    "{i}Kiedy jesteś z Bellą na parkiecie, naturalnie skłaniacie się ku sobie i trzymasz ją w swoich objęciach."
 
-# game/day26.rpy:812
+# game/day26.rpy:487
+translate polish day26_b_club_41ceba24:
+
+    # "{i}When [b_name] returns with her coat, you exit the club."
+    "{i}Kiedy Bella wraca ze swoją kurtką, wychodzicie z klubu."
+
+# game/day26.rpy:502
+translate polish day26_b_club_83de874f:
+
+    # b "Because if you want to, I happen to have a room booked for us."
+    b "Bo jeśli tak, to tak się składa, że mam dla nas zarezerwowany pokój."
+
+# game/day26.rpy:518
 translate polish day26_b_club_837415ed_1:
 
     # "{i}When you're on the floor with [b_name], you gravitate naturally towards each other and you hold her in your arms."
-    "{i}Kiedy jesteś na podłodze z [b_name], naturalnie przyciągasz się do siebie i trzymasz ją w ramionach."
+    "{i}Kiedy jesteś z Bellą na parkiecie, naturalnie skłaniacie się ku sobie i trzymasz ją w swoich objęciach."
 
-# game/day26.rpy:894
+# game/day26.rpy:563
+translate polish day26_b_club_dce6ac5e:
+
+    # "{i}When you're on the floor with [b_name], you decide to change things up and dance with Megan instead of [b_name], who was clearly expecting you to dance with her."
+    "{i}Kiedy jesteś z Bellą na parkiecie, postanawiasz trochę zamieszać i zaczynasz tańczyć z Megan, zamiast z Bellą, która ewidentnie spodziewała się, że to ją wybierzesz."
+
+# game/day26.rpy:567
+translate polish day26_b_club_9aa8e71c:
+
+    # "{i}Ignoring [b_name]'s jealous looks, you lift Megan in the air. You feel the soft curve of her breasts beneath the thin fabric of her dress."
+    "{i}Ignorując zazdrosne spojrzenia Belli, unosisz Megan w powietrze. Czujesz miękkie krągłości jej piersi pod cienkim materiałem jej sukienki."
+
+# game/day26.rpy:600
 translate polish day26_b_club_41ceba24_1:
 
     # "{i}When [b_name] returns with her coat, you exit the club."
-    "{i}Kiedy [b_name] wróci ze swoim płaszczem, opuścisz klub."
+    "{i}Kiedy Bella wraca ze swoją kurtką, wychodzicie z klubu."
 
-# game/day26.rpy:1064
+# game/day26.rpy:649
+translate polish day26_b_club_ef102b63_1:
+
+    # b "When she caught me chatting with one of the regulars I got this whole sermon about cost-effective service and from that moment, she was hovering around me all the time, cutting any conversations short."
+    b "Kiedy przyłapała mnie na pogawędce z jednym ze stałych klientów, to zaserwowała mi cały wykład na temat kosztów utrzymania personelu i od tamtej pory ciągle siedziała mi na głowie, ucinając każdą konwersację."
+
+# game/day26.rpy:730
+translate polish day26_b_club_45b98cc9:
+
+    # "{i}Instead of choosing [b_name], you gravitate towards Megan and hold her intimately in your arms. The gasp she lets out when you lift her up gets the attention of your sister."
+    "{i}Zamiast wybrać [b_name], przyciągasz się do Megan i trzymasz ją w ramionach, a jej westchnienie, gdy ją podnosisz, przyciąga uwagę twojej siostry."
+
+# game/day26.rpy:732
+translate polish day26_b_club_006c1b3f:
+
+    # "{i}Instead of choosing [b_name], you gravitate towards Megan and hold her intimately in your arms. The gasp she lets out when you lift her up gets the attention of [b_name]."
+    "{i}Zamiast wybrać [b_name], przyciągasz się do Megan i trzymasz ją blisko w ramionach, a jej westchnienie, gdy ją podnosisz, przyciąga uwagę [b_name]."
+
+# game/day26.rpy:770
 translate polish day26_b_club_41ceba24_2:
 
     # "{i}When [b_name] returns with her coat, you exit the club."
-    "{i}Kiedy [b_name] wróci ze swoim płaszczem, opuścisz klub."
+    "{i}Kiedy Bella wraca ze swoją kurtką, wychodzicie z klubu."
 
-# game/day26.rpy:1148
+# game/day26.rpy:825
+translate polish day26_b_club_3918b4d3:
+
+    # "{i}When [b_name] returns with her coat, you exit the club and you head home."
+    "{i}Kiedy Bella wraca ze swoją kurtką, wychodzicie z klubu i wracacie do domu."
+
+# game/day26.rpy:857
 translate polish day26_b_hotel_61de57db:
 
     # p "But you're not worried, are you? About us?"
     p "Ale nie martwisz się, prawda? O nas?"
 
-# game/day26.rpy:1163
+# game/day26.rpy:872
 translate polish day26_b_hotel_61de57db_1:
 
     # p "But you're not worried, are you? About us?"
     p "Ale nie martwisz się, prawda? O nas?"
 
-# game/day26.rpy:1171
+# game/day26.rpy:880
 translate polish day26_b_hotel_61de57db_2:
 
     # p "But you're not worried, are you? About us?"
     p "Ale nie martwisz się, prawda? O nas?"
->>>>>>> polish
+
+# game/day26.rpy:908
+translate polish day26_b_hotel_24f626d9:
+
+    # b "Okay, just make yourself comfortable. I need to use the bathroom."
+    b "Dobrze, rozgość się, muszę skorzystać z łazienki."
+
+# game/day26.rpy:938
+translate polish day26_discreet_session_e21bc220:
+
+    # "{i}You enter the lavishly furnished antechamber and wait for [m_name] to enter the room."
+    "{i}Wchodzisz do bogato wyposażonej komnaty i czekasz na przyjście Susan."
+
+# game/day26.rpy:940
+translate polish day26_discreet_session_9df8647b:
+
+    # m "Mr. Holmes. I trust you're ready for what's coming."
+    m "Pan Holmes. Ufam, że jesteś gotowy na to co Cię czeka."
+
+# game/day26.rpy:941
+translate polish day26_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Tak, Pani."
+
+# game/day26.rpy:942
+translate polish day26_discreet_session_89f3e86a:
+
+    # m "Please choose one of the doors."
+    m "Wybierz jedne z drzwi."
+
+# game/day26.rpy:943
+translate polish day26_discreet_session_6d3cb20f:
+
+    # "{i}After picking a door at random, [m_name] opens it and motions you through."
+    "{i}Wybierasz losowo, Susan otwiera je i wprowadza Cię do środka."
+
+# game/day26.rpy:945
+translate polish day26_discreet_session_dab1d29f:
+
+    # p "{i}(A living room?)"
+    p "{i}(Salon?)"
+
+# game/day26.rpy:946
+translate polish day26_discreet_session_9d481581:
+
+    # m "Ah. A homely setting."
+    m "Ah. Domowa sceneria."
+
+# game/day26.rpy:948
+translate polish day26_discreet_session_f5bb0b3b:
+
+    # m "Your sister will be home shortly... son..."
+    m "Twoja siostra niedługo wróci do domu... Synu..."
+
+# game/day26.rpy:949
+translate polish day26_discreet_session_8c9d8bb2:
+
+    # p "{i}(What the?! My sister?!)"
+    p "{i}(Że co?! Moja siostra?!)"
+
+# game/day26.rpy:950
+translate polish day26_discreet_session_c78409ff:
+
+    # p "{i}(What the fuck is this? Did she find out?!)"
+    p "{i}(O chuj tu chodzi? Dowiedziała się?!)"
+
+# game/day26.rpy:951
+translate polish day26_discreet_session_63a3b331:
+
+    # p "My sister, mistress?"
+    p "Moja siostra, Pani?"
+
+# game/day26.rpy:952
+translate polish day26_discreet_session_bf7253da:
+
+    # m "Yes, your sister Adriana. And you will address me as 'mother' for the duration of the session."
+    m "Tak, Twoja siostra Adriana. I w trakcie tej sesji masz zwracać się do mnie 'matko'."
+
+# game/day26.rpy:953
+translate polish day26_discreet_session_25bcb7fa:
+
+    # p "{i}(Adriana... Phew...)"
+    p "{i}(Adriana... Uff...)"
+
+# game/day26.rpy:954
+translate polish day26_discreet_session_7ca190d2:
+
+    # m "Surely you've heard of incest role-play? It's all the rage these days."
+    m "Na pewno słyszałeś o kazirodczym odgrywaniu ról? To ostatnio modne."
+
+# game/day26.rpy:955
+translate polish day26_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Tak, Pani."
+
+# game/day26.rpy:956
+translate polish day26_discreet_session_ce8d3c65:
+
+    # m "Remember: 'mother' or 'mom'."
+    m "Pamiętaj: 'matko' albo 'mamo'."
+
+# game/day26.rpy:957
+translate polish day26_discreet_session_eee57d36:
+
+    # p "Yes, mom."
+    p "Tak, mamo."
+
+# game/day26.rpy:958
+translate polish day26_discreet_session_33d851bf:
+
+    # m "Been scouring the web for porn, have you, dirty boy?"
+    m "Przeszukiwałeś sieć w poszukiwaniu porno, brudasie?"
+
+# game/day26.rpy:960
+translate polish day26_discreet_session_4a867323:
+
+    # m "Your fellow tenant will be home shortly."
+    m "Twój współnajemca wkrótce wróci do domu"
+
+# game/day26.rpy:961
+translate polish day26_discreet_session_e9febf1c:
+
+    # p "{i}(What the?! Tennant, what weird-ass fetish is this supposed to be?!)"
+    p "{i}(Co do?! Tennant, co to ma być za dziwny fetysz?!)"
+
+# game/day26.rpy:962
+translate polish day26_discreet_session_c588f0eb:
+
+    # p "Tennant, mistress?"
+    p "Pani Tennant?"
+
+# game/day26.rpy:963
+translate polish day26_discreet_session_9ab169d5:
+
+    # m "Yes, your fellow tenant Adriana. And you will address me as 'landlady' for the duration of the session."
+    m "Tak, twoja współlokatorka Adriana I będziesz zwracać się do mnie jako 'gospodyni' na czas trwania sesji."
+
+# game/day26.rpy:964
+translate polish day26_discreet_session_afa63fd5:
+
+    # m "Surely you've heard of this type of role-play? It's all the rage these days."
+    m "Na pewno słyszałeś o tego typu grach fabularnych? To ostatnio bardzo modne."
+
+# game/day26.rpy:965
+translate polish day26_discreet_session_5c5cbf80:
+
+    # p "Not really no, mistress."
+    p "Tak naprawdę nie ma kochanki"
+
+# game/day26.rpy:966
+translate polish day26_discreet_session_a6db30f5:
+
+    # m "'Landlady' and you're about to find out."
+    m "'Landlady' i zaraz się o tym przekonasz"
+
+# game/day26.rpy:968
+translate polish day26_discreet_session_c20ad542:
+
+    # "{i}At that moment, Adriana steps through another door in the room."
+    "{i}W tym momencie, Adriana wchodzi do pomieszczenia przez inne drzwi."
+
+# game/day26.rpy:970
+translate polish day26_discreet_session_52021504:
+
+    # ad "Hi mom."
+    ad "Cześć mamo."
+
+# game/day26.rpy:971
+translate polish day26_discreet_session_5939d6e3:
+
+    # p "{i}(This is so fucking weird.)"
+    p "{i}(To kurewsko dziwne.)"
+
+# game/day26.rpy:973
+translate polish day26_discreet_session_20689fe5:
+
+    # ad "Hi all."
+    ad "Cześć wszystkim"
+
+# game/day26.rpy:975
+translate polish day26_discreet_session_b54a118a:
+
+    # m "Adriana, you're late."
+    m "Adriana, spóźniłaś się."
+
+# game/day26.rpy:976
+translate polish day26_discreet_session_945e6d43:
+
+    # m "And why do you look like a fucking whore?"
+    m "I dlaczego wyglądasz jak jakaś dziwka?"
+
+# game/day26.rpy:977
+translate polish day26_discreet_session_5b3c8008:
+
+    # ad "I don't, I like my clothes."
+    ad "Nie wyglądam, lubię moje ubrania."
+
+# game/day26.rpy:979
+translate polish day26_discreet_session_e84c6c2d:
+
+    # m "What do you think, son, is your sister dressing like a slut?"
+    m "Co myślisz synu, czy Twoja siostra ubiera się jak dziwka?"
+
+# game/day26.rpy:980
+translate polish day26_discreet_session_1ea83d23:
+
+    # p "Yes, mother."
+    p "Tak, matko."
+
+# game/day26.rpy:981
+translate polish day26_discreet_session_a2635d8a:
+
+    # m "See, even your brother thinks you look like a skank."
+    m "Widzisz, nawet Twój brat myśli, że wyglądasz jak zdzira."
+
+# game/day26.rpy:983
+translate polish day26_discreet_session_6641579c:
+
+    # m "What do you think, tenant, is your friend here dressing like a slut?"
+    m "Jak myślisz, lokatorze, czy twój przyjaciel ubiera się jak dziwka?"
+
+# game/day26.rpy:984
+translate polish day26_discreet_session_aef04645:
+
+    # p "Yes, landlady."
+    p "Tak, gospodyni"
+
+# game/day26.rpy:985
+translate polish day26_discreet_session_742a1e07:
+
+    # m "See, even your fellow tenant thinks you look like a skank."
+    m "Widzisz, nawet twój współnajemca uważa, że wyglądasz jak dziwka."
+
+# game/day26.rpy:986
+translate polish day26_discreet_session_fdea1318:
+
+    # m "You're going to put on something decent at once."
+    m "Musisz się przebrać w coś przyzwoitego."
+
+# game/day26.rpy:987
+translate polish day26_discreet_session_c2bfab5a:
+
+    # ad "No I won't!"
+    ad "Nie, nie muszę!"
+
+# game/day26.rpy:988
+translate polish day26_discreet_session_12af3b5d:
+
+    # m "Yes you will."
+    m "Tak, musisz."
+
+# game/day26.rpy:989
+translate polish day26_discreet_session_d37482fd:
+
+    # ad "No, fuck you!"
+    ad "Nie, pierdol się!"
+
+# game/day26.rpy:990
+translate polish day26_discreet_session_6fa66bac:
+
+    # "{i}Adriana attempts to storm out of the room in mock outrage."
+    "{i}Adriana próbuje wybiec z pokoju w udawanej złości."
+
+# game/day26.rpy:991
+translate polish day26_discreet_session_eb614dfd:
+
+    # m "Grab her."
+    m "Złap ją."
+
+# game/day26.rpy:996
+translate polish day26_discreet_session_1a347c8a:
+
+    # ad "No, no! Leave me alone."
+    ad "Nie, nie! Zostaw mnie."
+
+# game/day26.rpy:998
+translate polish day26_discreet_session_8ef75ac6:
+
+    # m "I think your sister needs a lesson, don't you think?"
+    m "Myślę, że Twoja siostra musi dostać nauczkę, zgodzisz się?"
+
+# game/day26.rpy:1000
+translate polish day26_discreet_session_cfa05673:
+
+    # m "I think this girl here needs a lesson, don't you think?"
+    m "Myślę, że ta dziewczyna potrzebuje lekcji, nie sądzisz?"
+
+# game/day26.rpy:1001
+translate polish day26_discreet_session_b2590a77:
+
+    # ad "Leave me alone!"
+    ad "Zostawcie mnie w spokoju!"
+
+# game/day26.rpy:1002
+translate polish day26_discreet_session_5bdf518e:
+
+    # "{i}You forcefully return Adriana to [m_name], who bends her over her knee."
+    "{i}Siłą przyprowadzasz Adrianę do Susan, która przekłada ją przez kolano."
+
+# game/day26.rpy:1004
+translate polish day26_discreet_session_6b327923:
+
+    # m "Your ass needs a good spanking."
+    m "Twój tyłek potrzebuje porządnego przetrzepania."
+
+# game/day26.rpy:1006
+translate polish day26_discreet_session_d750e432:
+
+    # ad "No!"
+    ad "Nie!"
+
+# game/day26.rpy:1008
+translate polish day26_discreet_session_b539e879:
+
+    # m "Get the paddle, son."
+    m "Przynieś paletkę synu."
+
+# game/day26.rpy:1010
+translate polish day26_discreet_session_6a9e63ca:
+
+    # m "Get the paddle."
+    m "Get the paddle"
+
+# game/day26.rpy:1011
+translate polish day26_discreet_session_0ed28e32:
+
+    # p "{i}(Paddle? Oh shit, she means that wooden thing. Really glad [m_name] doesn't do corporal punishment back at home.)"
+    p "{i}(Paletkę? O cholera, ma na myśli to drewniane coś. Naprawdę się cieszę, że Susan nie stosuje tego typu kar w domu.)"
+
+# game/day26.rpy:1028
+translate polish day26_discreet_session_5eccc69e:
+
+    # "{i}After you hand your mother the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Podajesz swojej matce paletkę, zaczyna zdzielać Adrianę po pośladkach drewnianym instrumentem."
+
+# game/day26.rpy:1030
+translate polish day26_discreet_session_98a633f8:
+
+    # "{i}After you hand [m_name] the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Po wręczeniu [m_name] łopatki, przystąpiła ona do uderzania Adriany w pośladki drewnianym narzędziem."
+
+# game/day26.rpy:1031
+translate polish day26_discreet_session_366964ef:
+
+    # ad "Ow, fuck, it hurts!"
+    ad "Ow, kurwa, to boli!"
+
+# game/day26.rpy:1032
+translate polish day26_discreet_session_fb234750:
+
+    # m "It's supposed to hurt, sweetie. We have to beat the slut out of you."
+    m "To ma boleć kochanie. Musimy wytłuc z Ciebie to kurewstwo."
+
+# game/day26.rpy:1034
+translate polish day26_discreet_session_712638fc:
+
+    # ad "I'm not a slut... Owww!"
+    ad "Nie jestem kurwą... Owww!"
+
+# game/day26.rpy:1035
+translate polish day26_discreet_session_d1493679:
+
+    # m "Yes you are."
+    m "Tak, jesteś."
+
+# game/day26.rpy:1036
+translate polish day26_discreet_session_a0845fa5:
+
+    # ad "No! I'm an independent woman!"
+    ad "Nie! Jestem wyzwoloną kobietą!"
+
+# game/day26.rpy:1046
+translate polish day26_discreet_session_6d7aa8ad:
+
+    # "{i}[m_name] slaps harder and harder, vicious red marks appear on Adriana's ass as she keeps her teeth clenched in pain, unable to speak."
+    "{i}[m_name] uderza coraz mocniej i mocniej, a na tyłku Adriany pojawiają się czerwone ślady, podczas gdy ona zaciska zęby z bólu, nie mogąc mówić."
+
+# game/day26.rpy:1048
+translate polish day26_discreet_session_95abbb5d:
+
+    # m "Don't make me laugh, girl, you just dress up to get men to fuck you."
+    m "Nie rozśmieszaj mnie dziewczyno, ubierasz się tak, żeby pieprzyć się z facetami."
+
+# game/day26.rpy:1049
+translate polish day26_discreet_session_fdf5f539:
+
+    # ad "Nnn-o!"
+    ad "Nnn-ie!"
+
+# game/day26.rpy:1050
+translate polish day26_discreet_session_f855ff93:
+
+    # m "I can't hear you, you're blubbering."
+    m "Nie słyszę Cię, bełkoczesz."
+
+# game/day26.rpy:1051
+translate polish day26_discreet_session_1ab372c9:
+
+    # m "I'll stop when you admit the truth. Say you're a slut."
+    m "Przestanę kiedy powiesz prawdę. Przyznaj, że jesteś dziwką."
+
+# game/day26.rpy:1052
+translate polish day26_discreet_session_d750e432_1:
+
+    # ad "No!"
+    ad "Nie!"
+
+# game/day26.rpy:1054
+translate polish day26_discreet_session_7a98cddb:
+
+    # m "Say you're a slut!"
+    m "Powiedz, że jesteś dziwką!"
+
+# game/day26.rpy:1055
+translate polish day26_discreet_session_d750e432_2:
+
+    # ad "No!"
+    ad "Nie!"
+
+# game/day26.rpy:1062
+translate polish day26_discreet_session_50e84ea8:
+
+    # m "Say you're a slut!!!"
+    m "Przyznaj, że jesteś dziwką!!!"
+
+# game/day26.rpy:1063
+translate polish day26_discreet_session_d94eedd1:
+
+    # ad "Owwwww!"
+    ad "Owwwww!"
+
+# game/day26.rpy:1064
+translate polish day26_discreet_session_31c6e31c:
+
+    # ad "I-m a slut..."
+    ad "J- Jestem dziwką..."
+
+# game/day26.rpy:1066
+translate polish day26_discreet_session_c114fbdd:
+
+    # m "I can't hear you."
+    m "Nie słyszę Cię."
+
+# game/day26.rpy:1067
+translate polish day26_discreet_session_7a66d670:
+
+    # ad "I'm a slut!"
+    ad "Jestem dziwką!"
+
+# game/day26.rpy:1071
+translate polish day26_discreet_session_879dd93b:
+
+    # m "Good girl."
+    m "Grzeczna dziewczynka."
+
+# game/day26.rpy:1072
+translate polish day26_discreet_session_857aba8a:
+
+    # ad "Can I go to my room now?"
+    ad "Mogę już pójść do mojego pokoju?"
+
+# game/day26.rpy:1073
+translate polish day26_discreet_session_47ba7d94:
+
+    # m "No."
+    m "Nie."
+
+# game/day26.rpy:1074
+translate polish day26_discreet_session_696df66c:
+
+    # m "It's too late for that now."
+    m "Już na to za późno."
+
+# game/day26.rpy:1075
+translate polish day26_discreet_session_5fb52f79:
+
+    # m "I know you girl, dressing up like a hussy and prowling the streets, looking for men. You're insatiable."
+    m "Znam Cię dziewczyno, ubierasz się jak ulicznica, błąkasz się po mieście, szukając mężczyzn. Jesteś nienasycona."
+
+# game/day26.rpy:1076
+translate polish day26_discreet_session_293ae9b5:
+
+    # ad "It's just a skirt."
+    ad "To tylko spódniczka."
+
+# game/day26.rpy:1077
+translate polish day26_discreet_session_49a6255f:
+
+    # m "No it's not. It's a symbol."
+    m "Nie, nie tylko. To symbol."
+
+# game/day26.rpy:1079
+translate polish day26_discreet_session_9a5f982c:
+
+    # m "But if you're that desperate for cock, your brother will show you what a real man is."
+    m "Ale jeśli jesteś aż tak zdesperowana, to Twój brat pokaże Ci jaki jest prawdziwy mężczyzna."
+
+# game/day26.rpy:1081
+translate polish day26_discreet_session_e445b529:
+
+    # m "But if you're that desperate for cock, your fellow tenant will show you what a real man is."
+    m "Ale jeśli tak bardzo pragniesz kutasa, twój współlokator pokaże ci, czym jest prawdziwy mężczyzna."
+
+# game/day26.rpy:1082
+translate polish day26_discreet_session_18513f0f:
+
+    # ad "You're going to let him fuck me?"
+    ad "Pozwolisz mu mnie wyruchać?"
+
+# game/day26.rpy:1083
+translate polish day26_discreet_session_857b34c3:
+
+    # m "That's right."
+    m "Właśnie tak."
+
+# game/day26.rpy:1084
+translate polish day26_discreet_session_d2ad403e:
+
+    # m "Why don't you get on your knees and suck his dick?"
+    m "Może przed nim klękniesz i possiesz jego penisa?"
+
+# game/day26.rpy:1087
+translate polish day26_discreet_session_5e0c8dee:
+
+    # "{i}Taking her cue you drop your pants and present Adriana with your stiffening erection."
+    "{i}Orientujesz się, że to sygnał dla Ciebie, więc zdejmujesz spodnie i prezentujesz Adrianie swoją rosnącą erekcję."
+
+# game/day26.rpy:1088
+translate polish day26_discreet_session_71f71398:
+
+    # "{i}Adriana acts hesitant, but the look in her eyes is one of hunger. With deft hands she has your cock at full mast in no time."
+    "{i}Adriana udaje, że się waha, ale w jej oczach widzisz głód. Wprawnymi rękami szybko doprowadza Cię do pełnej erekcji."
+
+# game/day26.rpy:1093
+translate polish day26_discreet_session_aef75d6d:
+
+    # m "Good, suck on that, you little bitch."
+    m "Dobrze, zacznij go ssać kurewko."
+
+# game/day26.rpy:1094
+translate polish day26_discreet_session_99cb148b:
+
+    # m "Take it all the way."
+    m "Weź go całego do ust."
+
+# game/day26.rpy:1102
+translate polish day26_discreet_session_a0bc5746:
+
+    # "{i}You push your cock deeper inside Adriana's throat. She gags and saliva is leaking from the corners of her mouth."
+    "{i}Wpychasz swojego fiuta głębiej do jej gardła. Adriana zaczyna się dławić i ślina zaczyna ściekać z kącików jej ust."
+
+# game/day26.rpy:1104
+translate polish day26_discreet_session_7c4409eb:
+
+    # m "We're going to use all of your holes, your brother and I."
+    m "Wykorzystamy wszystkie Twoje otwory, Twój brat i ja."
+
+# game/day26.rpy:1105
+translate polish day26_discreet_session_25a1f0ea:
+
+    # ad "Y-yes, mother."
+    ad "T- Tak matko."
+
+# game/day26.rpy:1107
+translate polish day26_discreet_session_9a4957b0:
+
+    # m "We're going to use all of your holes, Adriana."
+    m "Wykorzystamy wszystkie twoje dziurki Adriana"
+
+# game/day26.rpy:1108
+translate polish day26_discreet_session_de10e825:
+
+    # ad "Y-yes, landlady."
+   ad "Tak, gospodyni"
+
+# game/day26.rpy:1110
+translate polish day26_discreet_session_39037dfb:
+
+    # "{i}While Adriana is drooling all over her chest, you begin to fuck her throat."
+    "{i}Podczas gdy Adriana ślini się na swoją klatkę, Ty zaczynasz posuwać jej gardło."
+
+# game/day26.rpy:1112
+translate polish day26_discreet_session_f8fd10bf:
+
+    # m "That's it, right there, make her savor that dick of yours."
+    m "Dobrze, właśnie tak, niech porządnie posmakuje tego Twojego penisa."
+
+# game/day26.rpy:1113
+translate polish day26_discreet_session_a9e11976:
+
+    # "{i}Adriana can only gurgle and looks up at you with teary eyes. The look she gives you is not one of sadness but conveys a depravity that nearly makes you coat her throat with seed."
+    "{i}Adriana może tylko bulgotać i patrzy na Ciebie przeszklonymi oczami, w spojrzeniu jakie Ci rzuca nie ma śladu smutku, a wskazuje raczej na jej głęboką deprawację, która sprawia, że niemalże wypełniasz jej gardło swoim nasieniem."
+
+# game/day26.rpy:1114
+translate polish day26_discreet_session_e51d19cf:
+
+    # m "Only allow her to breathe if you feel she deserves it."
+    m "Pozwól jej odetchnąć tylko kiedy stwierdzisz, że na to zasłużyła."
+
+# game/day26.rpy:1117
+translate polish day26_discreet_session_07f50341:
+
+    # "{i}Your mother retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}Twoja matka wyciąga coś z szafy i rozbiera się. Kiedy wraca do Twojego pola widzenia, jedyne co ma na sobie, to wielki strapon."
+
+# game/day26.rpy:1119
+translate polish day26_discreet_session_d359f835:
+
+    # "{i}[m_name] retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}[m_name] wyjmuje coś z szafy i rozbiera się. Kiedy ponownie pojawia się w polu widzenia, jedyną rzeczą, którą ma na sobie, jest dildo z paskiem."
+
+# game/day26.rpy:1120
+translate polish day26_discreet_session_de920d7c:
+
+    # p "{i}(I am not, repeat NOT going to be the ass-end of a human centipede.)"
+    p "{i}(Nie będę, powtarzam NIE będę otrzymującym końcem tej ludzkiej stonogi.)"
+
+# game/day26.rpy:1124
+translate polish day26_discreet_session_1f59d6a7:
+
+    # m "Are you ready to fuck your sister?"
+    m "Gotowy wyruchać swoją siostrę?"
+
+# game/day26.rpy:1125
+translate polish day26_discreet_session_1ea83d23_1:
+
+    # p "Yes, mother."
+    p "Tak, matko."
+
+# game/day26.rpy:1127
+translate polish day26_discreet_session_3242f70b:
+
+    # m "Are you ready to fuck your fellow tenant?"
+    m "Czy jesteś gotowy pieprzyć swojego współlokatora?"
+
+# game/day26.rpy:1128
+translate polish day26_discreet_session_aef04645_1:
+
+    # p "Yes, landlady."
+    p "Tak, gospodyni"
+
+# game/day26.rpy:1129
+translate polish day26_discreet_session_4c2f3098:
+
+    # m "Good boy, we'll do it together."
+    m "Dobry chłopiec, zrobimy to razem."
+
+# game/day26.rpy:1131
+translate polish day26_discreet_session_80ed1a92:
+
+    # "{i}When you pull out of Adriana's mouth she gasps for air, mucus running in thick strands from her lips to your cock."
+    "{i}Kiedy wysuwasz się z gardła Adriany, dziewczyna desperacko łapie powietrze, gęsty śluz rozciąga się między jej ustami, a Twoim fiutem."
+
+# game/day26.rpy:1133
+translate polish day26_discreet_session_527dbb63:
+
+    # m "You've made your brother's cock all hard and wet, now do the same to mommy's."
+    m "Dzięki Tobie, fiut Twojego brata jest twardy i mokry, teraz zrób to samo dla mamy."
+
+# game/day26.rpy:1135
+translate polish day26_discreet_session_30ee6c5f:
+
+    # m "You've made your fellow tenant's cock all hard and wet, now do the same to mine."
+    m "Sprawiłeś, że kutas twojego współlokatora stał się twardy i mokry, teraz zrób to samo z moim."
+
+# game/day26.rpy:1137
+translate polish day26_discreet_session_e5ab80c7:
+
+    # "{i}[m_name] thrusts the shiny black thing inside Adriana's throat and keeps it there until the girl struggles to keep it in. When she pulls out, Adriana nearly collapses to the floor."
+    "{i}Susan wpycha błyszczące czarne coś do gardła Adriany i trzyma je w nim, aż dziewczyna zaczyna mieć problem z utrzymaniem go. Kiedy je wyciąga, Adriana prawie wywraca się na ziemię."
+
+# game/day26.rpy:1138
+translate polish day26_discreet_session_77430063:
+
+    # m "Again."
+    m "Jeszcze raz."
+
+# game/day26.rpy:1140
+translate polish day26_discreet_session_cfa109e5:
+
+    # ad "Yes, mother."
+    ad "Tak, matko."
+
+# game/day26.rpy:1142
+translate polish day26_discreet_session_db223938:
+
+    # ad "Yes, landlady."
+   ad "Tak gospodyni"
+
+# game/day26.rpy:1145
+translate polish day26_discreet_session_9f0d12fd:
+
+    # m "How do you want to use her, son?"
+    m "Jak chcesz ją wziąć synu?"
+
+# game/day26.rpy:1147
+translate polish day26_discreet_session_f24a5df5:
+
+    # m "How do you want to use her, boy?"
+    m "Jak chcesz wykorzystać jej chłopca?"
+
+# game/day26.rpy:1160
+translate polish day26_discreet_session_3366b021:
+
+    # "{i}You spread Adriana's legs and push your cock against her slit. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Rozchylasz nogi Adriany i przyciskasz swojego penisa do jej cipki. Dziewczyna nie protestuje, więc wbijasz się głęboko do jej mokrego wnętrza."
+
+# game/day26.rpy:1161
+translate polish day26_discreet_session_89475d23:
+
+    # m "Ah, her sweet pussy, good choice."
+    m "Ah, jej słodka cipka, dobry wybór."
+
+# game/day26.rpy:1162
+translate polish day26_discreet_session_1be0ec35:
+
+    # m "Now fuck her."
+    m "A teraz, wyruchaj ją."
+
+# game/day26.rpy:1166
+translate polish day26_discreet_session_95a42efd:
+
+    # ad "Mmmmmm..."
+    ad "Mmmmmmm..."
+
+# game/day26.rpy:1169
+translate polish day26_discreet_session_b8925de9:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Kiedy dobierasz odpowiedni rytm dla swoich głębokich pchnięć, Twoja matka ustawia się za Adrianą. Nagle jej pizda robi się o wiele ciaśniejsza."
+
+# game/day26.rpy:1170
+translate polish day26_discreet_session_cead87c0:
+
+    # ad "Are you inside me, mommy?"
+    ad "Jesteś we mnie mamo?"
+
+# game/day26.rpy:1172
+translate polish day26_discreet_session_e8796c7c:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Po ustaleniu rytmu głębokich pchnięć [m_name] ustawia się za Adrianą. Nagle jej cipka jest znacznie ciaśniejsza niż wcześniej."
+
+# game/day26.rpy:1173
+translate polish day26_discreet_session_2d4847a9:
+
+    # ad "Are you inside me?"
+    ad "Jesteś we mnie?"
+
+# game/day26.rpy:1174
+translate polish day26_discreet_session_dff00f31:
+
+    # ad "Inside my ass?"
+    ad "W moim tyłku?"
+
+# game/day26.rpy:1175
+translate polish day26_discreet_session_533fd5d7:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Tak kurewko, sprawimy, że poczujesz się tak dobrze, że już nigdy nie zechcesz innego mężczyzny w swoim życiu."
+
+# game/day26.rpy:1181
+translate polish day26_discreet_session_9abdd26d:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Razem z Susan, nie dajecie Adrianie chwili wytchnienia. Strapon wbija się bezlitośnie w jej odbyt, a Ty posuwasz ją na zmianę szybkimi i długimi pchnięciami, penetrując ją jeszcze głębiej."
+
+# game/day26.rpy:1183
+translate polish day26_discreet_session_a67dcfc3:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without any restraint."
+    "{i}Początkowy niepokój Adriany zostaje zastąpiony przez całkowity zachwyt, gdy jęczy bez żadnego skrępowania."
+
+# game/day26.rpy:1186
+translate polish day26_discreet_session_22c2e5b8:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(Nie powiem mu tego, ale pan Holmes i ja tworzymy dobry zespół. Nigdy nie widziałam, żeby Adriana aż tak się zatraciła.)"
+
+# game/day26.rpy:1187
+translate polish day26_discreet_session_b4b76819:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Może powinnam mu pozwolić...)"
+
+# game/day26.rpy:1188
+translate polish day26_discreet_session_2a232f2c:
+
+    # m "{i}(No...)"
+    m "{i}(Nie...)"
+
+# game/day26.rpy:1189
+translate polish day26_discreet_session_a93ba455:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Może w ramach naszego odgrywania...)"
+
+# game/day26.rpy:1191
+translate polish day26_discreet_session_edc74c7a:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Jebać. Chcę tego.)"
+
+# game/day26.rpy:1193
+translate polish day26_discreet_session_fe569eea:
+
+    # m "Kiss your mother, son."
+    m "Pocałuj swoją matkę, synu."
+
+# game/day26.rpy:1195
+translate polish day26_discreet_session_d43c5d70:
+
+    # m "Kiss me, boy."
+    m "Pocałuj mnie chłopcze"
+
+# game/day26.rpy:1196
+translate polish day26_discreet_session_cf051d1a:
+
+    # p "{i}(No way!)"
+    p "{i}(Nie wierzę!)"
+
+# game/day26.rpy:1199
+translate polish day26_discreet_session_20af5824:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Bez wahania, spełniasz jej prośbę. Pocałunek, który dzielicie, jest kompletnie inny od tego w łóżku Twojej mamy. Jest w nim namiętność, a nawet głód, jej język z zapałem bada wnętrze Twoich ust."
+
+# game/day26.rpy:1201
+translate polish day26_discreet_session_5fa17325:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one you experienced in her bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Bez wahania zobowiązujesz się Pocałunek, który wymieniacie, jest zupełnie inny niż ten, którego doświadczyłeś w jej łóżku. Nie ma w nim pasji ani głodu, a jej język chętnie eksploruje twój."
+
+# game/day26.rpy:1203
+translate polish day26_discreet_session_4dee552f:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Maski, które nosicie, bardzo wam w tym przeszkadzają, ale i tak zaczyna Ci się kręcić w głowie od tego pocałunku."
+
+# game/day26.rpy:1206
+translate polish day26_discreet_session_f404eda9:
+
+    # m "Don't forget to keep fucking your sister."
+    m "Nie zapominaj o ruchaniu swojej siostry."
+
+# game/day26.rpy:1208
+translate polish day26_discreet_session_78356733:
+
+    # m "Don't forget to keep fucking that pussy."
+    m "Nie zapomnij dalej pieprzyć tej cipki"
+
+# game/day26.rpy:1217
+translate polish day26_discreet_session_575a57e1:
+
+    # "{i}You spread Adriana's buttocks and push your cock against her anus. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Rozchylasz pośladki Adriany i przyciskasz swojego penisa do jej odbytu. Dziewczyna nie protestuje, więc wbijasz się głęboko do jej ciepłego wnętrza."
+
+# game/day26.rpy:1218
+translate polish day26_discreet_session_94aba323:
+
+    # ad "Ooooh, god!"
+    ad "Ooooh, Boże!"
+
+# game/day26.rpy:1219
+translate polish day26_discreet_session_dd5bf5aa:
+
+    # m "Ah, her asshole, nice and tight, good choice."
+    m "Ah, jej dupka, ciasna i przyjemna, dobry wybór."
+
+# game/day26.rpy:1220
+translate polish day26_discreet_session_1be0ec35_1:
+
+    # m "Now fuck her."
+    m "A teraz, wyruchaj ją."
+
+# game/day26.rpy:1223
+translate polish day26_discreet_session_1aebea9e:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Kiedy dobierasz odpowiedni rytm dla swoich głębokich pchnięć, Twoja matka ustawia się między nogami Adriany. Nagle jej dupa robi się o wiele ciaśniejsza."
+
+# game/day26.rpy:1224
+translate polish day26_discreet_session_cead87c0_1:
+
+    # ad "Are you inside me, mommy?"
+    ad "Jesteś we mnie mamo?"
+
+# game/day26.rpy:1226
+translate polish day26_discreet_session_24bad093:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Po ustaleniu rytmu głębokich pchnięć [m_name] ustawia się między nogami Adriany, nagle jej tyłek staje się znacznie ciaśniejszy niż wcześniej."
+
+# game/day26.rpy:1227
+translate polish day26_discreet_session_2d4847a9_1:
+
+    # ad "Are you inside me?"
+    ad "Jesteś we mnie?"
+
+# game/day26.rpy:1228
+translate polish day26_discreet_session_a0158813:
+
+    # ad "Inside my pussy?"
+    ad "W mojej cipce?"
+
+# game/day26.rpy:1229
+translate polish day26_discreet_session_533fd5d7_1:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Tak kurewko, sprawimy, że poczujesz się tak dobrze, że już nigdy nie zechcesz innego mężczyzny w swoim życiu."
+
+# game/day26.rpy:1234
+translate polish day26_discreet_session_9abdd26d_1:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Razem z Susan, nie dajecie Adrianie chwili wytchnienia. Strapon wbija się bezlitośnie w jej odbyt, a Ty posuwasz ją na zmianę szybkimi i długimi pchnięciami, penetrując ją jeszcze głębiej."
+
+# game/day26.rpy:1236
+translate polish day26_discreet_session_111ad91b:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without restraint."
+    "{i}Początkowy niepokój Adriany zostaje zastąpiony przez całkowity zachwyt, gdy jęczy bez skrępowania."
+
+# game/day26.rpy:1239
+translate polish day26_discreet_session_22c2e5b8_1:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(Nie powiem mu tego, ale pan Holmes i ja tworzymy dobry zespół. Nigdy nie widziałam, żeby Adriana aż tak się zatraciła.)"
+
+# game/day26.rpy:1240
+translate polish day26_discreet_session_b4b76819_1:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(Może powinnam mu pozwolić...)"
+
+# game/day26.rpy:1241
+translate polish day26_discreet_session_2a232f2c_1:
+
+    # m "{i}(No...)"
+    m "{i}(Nie...)"
+
+# game/day26.rpy:1242
+translate polish day26_discreet_session_a93ba455_1:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Może w ramach naszego odgrywania...)"
+
+# game/day26.rpy:1243
+translate polish day26_discreet_session_edc74c7a_1:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(Jebać. Chcę tego.)"
+
+# game/day26.rpy:1245
+translate polish day26_discreet_session_fe569eea_1:
+
+    # m "Kiss your mother, son."
+    m "Pocałuj swoją matkę, synu."
+
+# game/day26.rpy:1247
+translate polish day26_discreet_session_d43c5d70_1:
+
+    # m "Kiss me, boy."
+    m "Pocałuj mnie chłopcze"
+
+# game/day26.rpy:1248
+translate polish day26_discreet_session_cf051d1a_1:
+
+    # p "{i}(No way!)"
+    p "{i}(Nie wierzę!)"
+
+# game/day26.rpy:1250
+translate polish day26_discreet_session_128fef0a:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and your mother moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}Susan wysuwa się z Adriany, która wzdycha w zaskoczeniu i Twoja matka podchodzi do Ciebie. Odpycha dziewczynę, której dupę wciąż posuwałeś, na bok i zdezorientowana Adriana prawie wywraca się na ziemię."
+
+# game/day26.rpy:1252
+translate polish day26_discreet_session_e052f5e9:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] wysuwa się z Adriany, która sapie z zaskoczenia, a starsza kobieta zbliża się do ciebie. Popycha dziewczynę, której tyłek wciąż otrzymuje lanie od twojego kutasa na bok, a zaskoczona Adriana prawie upada na podłogę."
+
+# game/day26.rpy:1255
+translate polish day26_discreet_session_a7df9a82:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Bez wahania, przywierasz wargami do ust Susan. Pocałunek, który dzielicie, jest kompletnie inny od tego w łóżku Twojej mamy. Jest w nim namiętność, a nawet głód, jej język z zapałem bada wnętrze Twoich ust."
+
+# game/day26.rpy:1257
+translate polish day26_discreet_session_9737adfa:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in [m_name]'s bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Bez wahania pieścisz usta [m_name] swoimi Pocałunek, który wymieniacie, jest zupełnie inny niż ten w łóżku [m_name] Jest w nim pasja, nie ma głodu, a jej język chętnie odkrywa twój."
+
+# game/day26.rpy:1258
+translate polish day26_discreet_session_4dee552f_1:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Maski, które nosicie, bardzo wam w tym przeszkadzają, ale i tak zaczyna Ci się kręcić w głowie od tego pocałunku."
+
+# game/day26.rpy:1261
+translate polish day26_discreet_session_7a783fd1:
+
+    # m "Don't forget to keep fucking your sister's ass."
+    m "Nie zapominaj ruchać tyłka swojej siostry."
+
+# game/day26.rpy:1263
+translate polish day26_discreet_session_5133ba48:
+
+    # m "Don't forget to keep fucking that asshole."
+    m "Nie zapomnij dalej pieprzyć tego dupka"
+
+# game/day26.rpy:1264
+translate polish day26_discreet_session_017cf4fb:
+
+    # ad "Y-yes please, keep fucking me!"
+    ad "T- Tak proszę, nie przestawaj mnie rżnąć!"
+
+# game/day26.rpy:1265
+translate polish day26_discreet_session_37fee602:
+
+    # m "He's going to fill you with his seed any time now."
+    m "Już niedługo wypełni Cię swoim nasieniem."
+
+# game/day26.rpy:1267
+translate polish day26_discreet_session_9179d8b6:
+
+    # m "You like that, don't you Adriana, your brother filling you up with his warm seed?"
+    m "Chcesz tego, prawda Adriana? Żeby Twój brat zalał Cię swoją gorącą spermą?"
+
+# game/day26.rpy:1269
+translate polish day26_discreet_session_cb89798a:
+
+    # m "You like that, don't you Adriana, your roommate filling you up with his warm seed?"
+    m "Lubisz to, prawda Adriana, twój współlokator wypełnia cię swoim ciepłym nasieniem?"
+
+# game/day26.rpy:1270
+translate polish day26_discreet_session_2ed4e74c:
+
+    # ad "I love it!"
+    ad "Niczego tak nie pragnę!"
+
+# game/day26.rpy:1272
+translate polish day26_discreet_session_d5c76f94:
+
+    # m "And who are the only ones who get to own your pussy?"
+    m "I do kogo należy od dziś Twoja cipka?"
+
+# game/day26.rpy:1273
+translate polish day26_discreet_session_e72a5940:
+
+    # ad "You both do!"
+    ad "Tylko do was!"
+
+# game/day26.rpy:1275
+translate polish day26_discreet_session_ed5592f6:
+
+    # "{i}Adriana's pussy is very tight, and your cock is stimulated by [m_name]'s thrusting as well. When you lift the girl, you penetrate her even more intensely than before."
+    "{i}Cipka Adriany jest bardzo ciasna, a twój kutas jest również stymulowany przez pchnięcia [m_name]. Kiedy podnosisz dziewczynę, penetrujesz ją jeszcze intensywniej niż wcześniej."
+
+# game/day26.rpy:1276
+translate polish day26_discreet_session_a5b62c1f:
+
+    # ad "Aaaaaah!"
+    ad "Aaaaaaah!"
+
+# game/day26.rpy:1284
+translate polish day26_discreet_session_d4d3c59a:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her vagina with your cum."
+    "{i}Kiedy Adriana zaczyna dochodzić, sam nie jesteś w stanie już dłużej wytrzymać. Podczas gdy recepcjonistka szczytuje na Twoim fiucie i straponie Susan, Ty pokrywasz wnętrze jej cipki swoją spermą."
+
+# game/day26.rpy:1285
+translate polish day26_discreet_session_ade7a4f1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "W- Wypełnij mnie! O Boże!!!"
+
+# game/day26.rpy:1287
+translate polish day26_discreet_session_4dc8d7d1:
+
+    # "{i}Semen is running down her thighs as your mother fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Nasienie spływa po jej udach, Twoja matka rucha ją w tyłek jeszcze przez chwilę, wydłużając jej orgazm."
+
+# game/day26.rpy:1289
+translate polish day26_discreet_session_59d38f7f:
+
+    # "{i}Semen is running down her thighs as [m_name] fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}Nasienie spływa po jej udach, gdy [m_name] pieprzy jej tyłek nieco dłużej, aby przedłużyć orgazm dziewczyny."
+
+# game/day26.rpy:1305
+translate polish day26_discreet_session_30c15f46:
+
+    # m "And who are the only ones who get to own your ass?"
+    m "I do kogo należy od dziś Twoja dupa?"
+
+# game/day26.rpy:1306
+translate polish day26_discreet_session_e72a5940_1:
+
+    # ad "You both do!"
+    ad "Tylko do was!"
+
+# game/day26.rpy:1308
+translate polish day26_discreet_session_2ed2e250:
+
+    # "{i}Adriana's asshole is very tight and your cock is stimulated by [m_name]'s thrusting as well. Your force her hands behind her back and [m_name] chokes her exposed throat."
+    "{i}Odbyt Adriany jest bardzo ciasny, a Twój penis jest dodatkowo stymulowany przez Susan posuwającą ją od drugiej strony. Wykręcasz ręce dziewczyny do tyłu, a Susan zaciska dłoń na jej odsłoniętym gardle."
+
+# game/day26.rpy:1309
+translate polish day26_discreet_session_491a1a7b:
+
+    # "{i}The deprivation of air tightens every muscle in her body and allows Adriana to orgasm."
+    "{i}Brak powietrza napina każdy mięsień w jej ciele i pozwala Adrianie na orgazm."
+
+# game/day26.rpy:1310
+translate polish day26_discreet_session_7027df9a:
+
+    # ad "Gaaah!"
+    ad "Gaaah!"
+
+# game/day26.rpy:1318
+translate polish day26_discreet_session_8d34da63:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her anal cavity with your cum."
+    "{i}Przez potężny orgazm Adriany, sam nie jesteś w stanie już dłużej wytrzymać. Podczas gdy recepcjonistka szczytuje na Twoim fiucie i straponie Susan, Ty pokrywasz wnętrze jej odbytu swoją spermą."
+
+# game/day26.rpy:1319
+translate polish day26_discreet_session_ade7a4f1_1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "W- Wypełnij mnie! O Boże!!!"
+
+# game/day26.rpy:1321
+translate polish day26_discreet_session_e78775bc:
+
+    # "{i}Semen is running down her thighs and your mother's as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Nasienie spływa po jej udach, Twoja matka rucha ją jeszcze przez chwilę, wydłużając jej orgazm."
+
+# game/day26.rpy:1323
+translate polish day26_discreet_session_12d25931:
+
+    # "{i}Semen is running down her thighs and [m_name]'s as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}Nasienie spływa po jej udach i udach [m_name], gdy ten ostatni pieprzy jej cipkę nieco dłużej, aby przedłużyć orgazm dziewczyny."
+
+# game/day26.rpy:1330
+translate polish day26_discreet_session_21833e20:
+
+    # m "I think we showed your sister how we do things here at home."
+    m "Myślę, że pokazaliśmy Twojej siostrze, jak to się robi u nas w domu."
+
+# game/day26.rpy:1331
+translate polish day26_discreet_session_fda5a30b:
+
+    # p "We sure did, mother."
+    p "Bez wątpienia, matko."
+
+# game/day26.rpy:1332
+translate polish day26_discreet_session_3e6ef507:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Możesz poleżeć jeszcze chwilę na podłodze Adriana, potem wszystko posprzątaj. Narobiłaś bałaganu."
+
+# game/day26.rpy:1333
+translate polish day26_discreet_session_30c2d1c5:
+
+    # ad "Yes mommy."
+    ad "Tak mamo."
+
+# game/day26.rpy:1335
+translate polish day26_discreet_session_52be45d4:
+
+    # m "I think we showed your roommate how we do things here at home."
+    m "Myślę, że pokazaliśmy twojemu współlokatorowi, jak załatwiamy sprawy w domu."
+
+# game/day26.rpy:1336
+translate polish day26_discreet_session_0e11dc8c:
+
+    # p "We sure did, landlady."
+    p "Na pewno to zrobiliśmy, gospodyni"
+
+# game/day26.rpy:1337
+translate polish day26_discreet_session_3e6ef507_1:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Możesz poleżeć jeszcze chwilę na podłodze Adriana, potem wszystko posprzątaj. Narobiłaś bałaganu."
+
+# game/day26.rpy:1338
+translate polish day26_discreet_session_6c0cf7d4:
+
+    # ad "Yes landlady."
+   ad "Tak gospodyni"
+
+# game/day26.rpy:1340
+translate polish day26_discreet_session_ebe9b528:
+
+    # "{i}[m_name] exits the room, leaving you alone with Adriana, who is still lying wasted on the floor."
+    "{i}Susan wychodzi z pokoju, zostawiając Cię samego z Adrianą, która dalej leży wykończona na ziemi."
+
+# game/day26.rpy:1357
+translate polish day26_b_hotel_sex_8ba85639:
+
+    # b "I think I'm ready for bed."
+    b "Myślę, że jestem już gotowa do łóżka."
+
+# game/day26.rpy:1358
+translate polish day26_b_hotel_sex_c43ee188:
+
+    # p "Sweet mother of Jesus, I'd say you are."
+    p "Słodki Jezu, tak, jesteś bardzo gotowa."
+
+# game/day26.rpy:1359
+translate polish day26_b_hotel_sex_a051ad79:
+
+    # b "You like it? I bought it for the occasion."
+    b "Podoba Ci się? Kupiłam ją na tą okazję."
+
+# game/day26.rpy:1361
+translate polish day26_b_hotel_sex_46bc0cc0:
+
+    # p "I love it."
+    p "Jest cudowna."
+
+# game/day26.rpy:1366
+translate polish day26_b_hotel_sex_b28e367c:
+
+    # p "It accentuates your body in all the right places."
+    p "Idealnie uwydatnia Twoje wszystkie atuty."
+
+# game/day26.rpy:1367
+translate polish day26_b_hotel_sex_1414059f:
+
+    # b "Do you mean it brings out my inner beauty? Or are you just drooling over my ass?"
+    b "Masz na myśli, że uwypukla moje wewnętrzne piękno? Czy po prostu ślinisz się do mojego tyłka?"
+
+# game/day26.rpy:1368
+translate polish day26_b_hotel_sex_d69c9249:
+
+    # p "Inner beauty!"
+    p "Wewnętrzne piękno!"
+
+# game/day26.rpy:1370
+translate polish day26_b_hotel_sex_a2157a79:
+
+    # p "That's the right answer, isn't it?"
+    p "To prawidłowa odpowiedź, prawda?"
+
+# game/day26.rpy:1371
+translate polish day26_b_hotel_sex_2993e132:
+
+    # b "Maybe..."
+    b "Możliwe..."
+
+# game/day26.rpy:1372
+translate polish day26_b_hotel_sex_e69de8f9:
+
+    # b "Do you mind if I join you on the bed?"
+    b "Masz coś przeciwko, żebym dołączyła do Ciebie na łóżku?"
+
+# game/day26.rpy:1373
+translate polish day26_b_hotel_sex_45a1b373:
+
+    # p "By all means!"
+    p "W żadnym wypadku!"
+
+# game/day26.rpy:1378
+translate polish day26_b_hotel_sex_8d28c468:
+
+    # "{i}[b_name] crawls onto the bed with you and nestles herself in your arms, her soft skin is warm against your body."
+    "{i}Bella wdrapuje się z Tobą na łóżko i wtula się w Ciebie, jej miękka skóra ogrzewa Twoje ciało."
+
+# game/day26.rpy:1380
+translate polish day26_b_hotel_sex_0bd55328:
+
+    # b "Mmmm."
+    b "Mmmm."
+
+# game/day26.rpy:1381
+translate polish day26_b_hotel_sex_3c8785d6:
+
+    # p "You're so fucking perfect."
+    p "Jesteś kurwa taka idealna."
+
+# game/day26.rpy:1382
+translate polish day26_b_hotel_sex_e3bd8c74:
+
+    # b "Why don't you kiss me then?"
+    b "Więc może mnie pocałujesz?"
+
+# game/day26.rpy:1383
+translate polish day26_b_hotel_sex_2a71e097:
+
+    # p "Great idea."
+    p "Świetny pomysł."
+
+# game/day26.rpy:1385
+translate polish day26_b_hotel_sex_e5a04e7d:
+
+    # "{i}Ferocious perfectly describes the kiss you share. Any restraint the two of you displayed when Megan was still with you is completely forgotten. She's still nervous, and you feel her heart beating fast when you touch her breast."
+    "{i}'Dziki' idealnie opisuje opisuje pocałunek jaki następuje po tych słowach. Jakiekolwiek skrupuły, które mieliście gdy Megan była jeszcze z wami, odchodzą w zapomnienie. Bella dalej się denerwuje i czujesz jak mocno bije jej serce, kiedy dotykasz jej piersi."
+
+# game/day26.rpy:1386
+translate polish day26_b_hotel_sex_ed27614f:
+
+    # b "I love you, [p_name]."
+    b "Kocham Cię [p_name]."
+
+# game/day26.rpy:1388
+translate polish day26_b_hotel_sex_69e21ec5:
+
+    # b "And I think I'm ready."
+    b "Myślę, że jestem gotowa."
+
+# game/day26.rpy:1389
+translate polish day26_b_hotel_sex_dfc6734e:
+
+    # p "{i}(This is probably the moment where a contingent of SWAT agents raids the hotel room before realizing they made a mistake and ruins this perfect moment.)"
+    p "{i}(To jest ten moment, kiedy oddział SWAT'u powinien zrobić nalot na ten pokój i po chwili zorientować się, że pomylili piętra, żeby zepsuć nam tą idealną chwilę.)"
+
+# game/day26.rpy:1390
+translate polish day26_b_hotel_sex_281184d5:
+
+    # b "Do you want me?"
+    b "Chcesz mnie?"
+
+# game/day26.rpy:1391
+translate polish day26_b_hotel_sex_7988a01b:
+
+    # p "I do."
+    p "Chcę."
+
+# game/day26.rpy:1394
+translate polish day26_b_hotel_sex_60f49f18:
+
+    # "{i}A small sigh escapes your sister, as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Małe westchnienie wymyka się z ust Twojej siostry, jakby po cichu spodziewała się innej odpowiedzi. Całujecie się łapczywie, próbując zdjąć z siebie nawzajem resztki garderoby."
+
+# game/day26.rpy:1396
+translate polish day26_b_hotel_sex_62cc0e47:
+
+    # "{i}A small sigh escapes [b_name], as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Małe westchnienie wymyka się [b_name], jakby w połowie spodziewała się innej odpowiedzi. Twoje pocałunki mają teraz bardziej głodną naturę, gdy próbuje zdjąć twoją bieliznę, a ty jej stanik."
+
+# game/day26.rpy:1397
+translate polish day26_b_hotel_sex_2ed91204:
+
+    # p "{i}(No SWAT team yet! Yay for small miracles.)"
+    p "{i}(Póki co żadnego SWAT'u! Niech żyją małe cuda.)"
+
+# game/day26.rpy:1399
+translate polish day26_b_hotel_sex_8302aa11:
+
+    # "{i}When you're finally naked, you shower [b_name]'s body with kisses until reaching her pussy. After she invites your head between her legs you slowly lick her lower lips."
+    "{i}Kiedy wreszcie jesteście nadzy, obsypujesz ciało Belli pocałunkami, przesuwając się ku jej cipce. Kiedy dopuszcza Twoją głowę między swoje nogi, zaczynasz powoli lizać jej dolne wargi."
+
+# game/day26.rpy:1400
+translate polish day26_b_hotel_sex_5c1bf654:
+
+    # b "Ooooh, [p_name]."
+    b "Ooooh, [p_name]."
+
+# game/day26.rpy:1405
+translate polish day26_b_hotel_sex_f8113d4b:
+
+    # "{i}She's already very wet, and a few well-placed caresses of your tongue nearly send her over the edge."
+    "{i}Jest już bardzo mokra i kilka odpowiednio umiejscowionych liźnięć prawie doprowadza ją do ekstazy."
+
+# game/day26.rpy:1406
+translate polish day26_b_hotel_sex_1679180d:
+
+    # "{i}[b_name] tries to stimulate your cock, but fails due to the waves of pleasure rippling through her body, caused by the movements of your tongue on her clit."
+    "{i}Bella próbuje masować Twojego penisa, ale nie udaje się jej, przez fale rozkoszy targające jej ciałem, powodowane ruchami Twojego języka."
+
+# game/day26.rpy:1407
+translate polish day26_b_hotel_sex_265d60f4:
+
+    # b "Make love to me, [p_name]!"
+    b "Kochaj się ze mną, [p_name]!"
+
+# game/day26.rpy:1408
+translate polish day26_b_hotel_sex_175ce63e:
+
+    # b "I want to feel you inside of me."
+    b "Chcę poczuć Cię w sobie."
+
+# game/day26.rpy:1416
+translate polish day26_b_hotel_sex_d7263f59:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your sister stops you for a moment."
+    "{i}Smak jej słonych soków jest dalej świeży w Twoich ustach, przyciskasz czubek swojej erekcji do szparki. Kładąc czule dłoń na Twoim torsie, Twoja siostra zatrzymuje Cię na moment."
+
+# game/day26.rpy:1418
+translate polish day26_b_hotel_sex_75be97af:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your girlfriend stops you for a moment."
+    "{i}Jej słone soki wciąż świeże w twoich ustach, popychasz czubek swojej erekcji do wejścia do jej pochwy, kładąc delikatnie dłoń na piersi, twoja dziewczyna zatrzymuje cię na chwilę."
+
+# game/day26.rpy:1419
+translate polish day26_b_hotel_sex_a26a5b21:
+
+    # b "Please be gentle with me, [p_name]."
+    b "Proszę [p_name], bądź ze mną delikatny."
+
+# game/day26.rpy:1420
+translate polish day26_b_hotel_sex_e0ded75a:
+
+    # p "I'll go slow, baby."
+    p "Zacznę powoli kochanie."
+
+# game/day26.rpy:1421
+translate polish day26_b_hotel_sex_867f4b98:
+
+    # "{i}Satisfied, [b_name] allows you to continue, and you push your cock teasingly slow inside her."
+    "{i}Usatysfakcjonowana odpowiedzią, Bella pozwala Ci kontynuować i zmysłowo powoli wpychasz do jej wnętrza swojego penisa."
+
+# game/day26.rpy:1423
+translate polish day26_b_hotel_sex_111c67c8:
+
+    # "{i}When you enter her, she sighs in a mixture of relief and pleasure. Her tightness surprises you and nearly makes you cum outright."
+    "{i}Kiedy jesteś już w niej, Bella wzdycha z mieszanką ulgi i rozkoszy. Zaskakuje Cię jaka jest ciasna, co na moment sprawia, że jesteś bliski dojścia."
+
+# game/day26.rpy:1424
+translate polish day26_b_hotel_sex_f17a0a22:
+
+    # b "Oh!"
+    b "Oh!"
+
+# game/day26.rpy:1425
+translate polish day26_b_hotel_sex_8087034a:
+
+    # "{i}After you both get your bearings, you kiss, and she motions you to go on."
+    "{i}Kiedy oboje doprowadzacie się do ładu, całujecie się i Bella daje Ci znak, żebyś kontynuował."
+
+# game/day26.rpy:1430
+translate polish day26_b_hotel_sex_1a096e67:
+
+    # "{i}Just like she asked, your thrusts are gentle, but deep. You both retreat in a world of pleasure, moaning and kissing all the while."
+    "{i}Zgodnie z prośbą, Twoje pchnięcia są delikatne, ale głębokie. Oboje pogrążacie się w rozkoszy, jęcząc i całując się bez ustanku."
+
+# game/day26.rpy:1432
+translate polish day26_b_hotel_sex_ffad643a:
+
+    # "{i}You explore the entirety of her body with your fingers, the softness of her breasts, her toned belly, her beautiful thighs, taught with pleasure."
+    "{i}Błądzisz palcami po jej całym ciele, po jej miękkich piersiach, jej umięśnionym brzuchu, jej pięknych udach, z przyjemnością ucząc się ich kształtów."
+
+# game/day26.rpy:1434
+translate polish day26_b_hotel_sex_ed5a9706:
+
+    # "{i}The hotel room proves to be a great idea. You both feel completely free, as is evident by the increasing volume of the sounds of your love making."
+    "{i}Pokój hotelowy okazał się świetnym pomysłem. Oboje czujecie się kompletnie wolni, czego dowodzą coraz donośniejsze odgłosy waszego miłosnego aktu."
+
+# game/day26.rpy:1435
+translate polish day26_b_hotel_sex_b0608f60:
+
+    # b "Just right there, [p_name], don't stop!"
+    b "Właśnie tak, [p_name], nie przestawaj!"
+
+# game/day26.rpy:1436
+translate polish day26_b_hotel_sex_6666a5bf:
+
+    # p "Are you going to cum for me baby?"
+    p "Dojdziesz dla mnie kochanie?"
+
+# game/day26.rpy:1438
+translate polish day26_b_hotel_sex_c6ab430f:
+
+    # b "Y-yes, y-es I am."
+    b "T- Tak, j- już..."
+
+# game/day26.rpy:1447
+translate polish day26_b_hotel_sex_f5203134:
+
+    # "{i}Letting out a small scream, your sister orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Wydając z siebie mały okrzyk, Twoja siostra dochodzi, podczas gdy Ty nie przestajesz jej ruchać. Jej orgazm jest bardzo długi, Bella leży bezbronna w Twoich ramionach, obezwładniana kolejnymi falami rozkoszy."
+
+# game/day26.rpy:1449
+translate polish day26_b_hotel_sex_61957f95:
+
+    # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Wydając z siebie mały krzyk [b_name] osiąga orgazm, podczas gdy ty ją pieprzysz. Jej punkt kulminacyjny trwa bardzo długo, a ona jest bezradna w twoich ramionach, ogarnięta falą przyjemności."
+
+# game/day26.rpy:1450
+translate polish day26_b_hotel_sex_385f7131:
+
+    # b "I.. l-love y-you!"
+    b "Ko... Kocham C- Cię!"
+
+# game/day26.rpy:1452
+translate polish day26_b_hotel_sex_6d515908:
+
+    # "{i}You kiss her while her body still trembles. A wealth of her juices covers her sex and eases your way to penetrating her even more deeply."
+    "{i}Całujecie się podczas gdy jej ciało nadal się trzęsie. Jej cipka obficie spływa sokami, które ułatwiają Ci penetrowanie jej jeszcze głębiej."
+
+# game/day26.rpy:1454
+translate polish day26_b_hotel_sex_b8410009:
+
+    # "{i}Biting her lower lip and wearing a look of bliss, [b_name] guides your movements, kneading your buttocks and massaging your sensitive balls."
+    "{i}Przygryzając dolną wargę i z wyrazem absolutnej błogości na twarzy, Bella kontroluje Twoje ruchy, ugniatając Twoje pośladki i masując Twoje jądra."
+
+# game/day26.rpy:1455
+translate polish day26_b_hotel_sex_b918c839:
+
+    # b "I want you, all of it!"
+    b "Chcę czuć Cię w sobie, całego!"
+
+# game/day26.rpy:1457
+translate polish day26_b_hotel_sex_d3c99773:
+
+    # "{i}Sweat is pearling from both your bodies as you enter the final stretch. [b_name] senses you're nearly ready and looks into your eyes while you keep fucking her pussy."
+    "{i}Wasze ciała błyszczą się od potu, kiedy jesteście już na ostatniej prostej. Bella wyczuwa, że jesteś już blisko i patrzy Ci głęboko w oczy, gdy Ty posuwasz jej cipkę."
+
+# game/day26.rpy:1470
+translate polish day26_b_hotel_sex_28ecca1e:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of your sister with hot seed."
+    "{i}To jej pełne uwielbienia spojrzenie wyzwala Twój orgazm. Jesteś niemalże sparaliżowany z rozkoszy, jedyne co jesteś w stanie zrobić, to zawarczeć i całować jej szyję, podczas gdy Twój penis wypełnia wnętrze Twojej siostry gorącą spermą."
+
+# game/day26.rpy:1472
+translate polish day26_b_hotel_sex_dc23b31f:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
+    "{i}Jej spojrzenie uwielbienia jest tym, co wyzwala twój orgazm. Prawie cię paraliżuje i jedyne, co możesz zrobić, to warczeć i całować kark, podczas gdy twój kutas pokrywa wnętrze [b_name] gorącym nasieniem."
+
+# game/day26.rpy:1489
+translate polish day26_b_hotel_sex_6ecfe49c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's body with hot seed."
+    "{i}To jej pełne uwielbienia spojrzenie wyzwala Twój orgazm. Jesteś niemalże sparaliżowany z rozkoszy, ale udaje Ci się wyciągnąć i z dzikim warknięciem pokrywasz ciało swojej siostry gorącą spermą."
+
+# game/day26.rpy:1491
+translate polish day26_b_hotel_sex_b5d1fb5c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s body with hot seed."
+    "{i}Jej spojrzenie pełne uwielbienia wyzwala twój orgazm. Prawie cię paraliżuje, ale udaje ci się wyrwać i warcząc z pożądania, pokrywasz ciało [b_name] gorącym nasieniem."
+
+# game/day26.rpy:1506
+translate polish day26_b_hotel_sex_cb25e095:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's beautiful face with hot seed."
+    "{i}To jej pełne uwielbienia spojrzenie wyzwala Twój orgazm. Jesteś niemalże sparaliżowany z rozkoszy, ale udaje Ci się wyciągnąć i z dzikim warknięciem pokrywasz piękną twarz swojej siostry gorącą spermą."
+
+# game/day26.rpy:1508
+translate polish day26_b_hotel_sex_6b1c1dc6:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s beautiful face with hot seed."
+    "{i}Jej spojrzenie pełne uwielbienia wyzwala twój orgazm. Prawie cię paraliżuje, ale udaje ci się wyrwać i warcząc z pożądania, pokrywasz piękną twarz [b_name] gorącym nasieniem."
+
+# game/day26.rpy:1517
+translate polish day26_b_hotel_sex_162d6918:
+
+    # "{i}Afterwards you just lie together in the afterglow, unable to speak for some time. [b_name] is the first to manage a few words."
+    "{i}Po wszystkim po prostu leżycie razem, napawając się gorącem waszych stygnących ciał, niezdolni się odezwać przez jakiś czas. Belli jako pierwszej udaje się wykrztusić kilka słów."
+
+# game/day26.rpy:1518
+translate polish day26_b_hotel_sex_1c360853:
+
+    # b "You're... the best..."
+    b "Jesteś... Najlepszy-..."
+
+# game/day26.rpy:1519
+translate polish day26_b_hotel_sex_1cb42a13:
+
+    # p "Thanks!"
+    p "Dzięki!"
+
+# game/day26.rpy:1520
+translate polish day26_b_hotel_sex_baa29dcb:
+
+    # b "No... Yes... I mean..."
+    b "Nie... Tak... Znaczy..."
+
+# game/day26.rpy:1521
+translate polish day26_b_hotel_sex_98bc6270:
+
+    # b "You're the best thing that's ever happened to me."
+    b "Jesteś najlepszym co mi się w życiu przydarzyło."
+
+# game/day26.rpy:1523
+translate polish day26_b_hotel_sex_5b73eb1d:
+
+    # "{i}You notice the tears in her eyes and hold her close, kissing her hair."
+    "{i}Zauważasz łzy w jej oczach i przytulasz ją mocno, całując jej włosy."
+
+# game/day26.rpy:1524
+translate polish day26_b_hotel_sex_2989575c:
+
+    # p "Happy tears?"
+    p "Łzy szczęścia?"
+
+# game/day26.rpy:1525
+translate polish day26_b_hotel_sex_caf371f4:
+
+    # b "Of course, dummy."
+    b "Oczywiście, że tak głupku."
+
+# game/day26.rpy:1526
+translate polish day26_b_hotel_sex_6ed0083b:
+
+    # b "I love you."
+    b "Kocham Cię."
+
+# game/day26.rpy:1527
+translate polish day26_b_hotel_sex_8587becd:
+
+    # p "I love you too, [b_name]."
+    p "Ja Ciebie też Bella."
+

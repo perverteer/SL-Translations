@@ -20,7 +20,7 @@ translate polish day04_5ab8decd:
 translate polish day04_616fd003:
 
     # a "Hi [p_name]. Mrs. Smith let me in on her way to work."
-    a ""
+    a "Cześć [p_name] Pani Smith wpuściła mnie w drodze do pracy"
 
 # game/day04.rpy:36
 translate polish day04_8447faed:
@@ -350,7 +350,7 @@ translate polish day04_p_room_choices_menu_733ce89b:
 translate polish day04_p_room_choices_menu_fec999e9:
 
     # r "Yeah, Mrs. Smith and [b_name] left early. I think [l_name] went to volunteer at the church shelter."
-    r ""
+    r "Tak, pani Smith i [b_name] wyszły wcześnie, myślę, że [l_name] poszły na wolontariat do schroniska przy kościele."
 
 # game/day04.rpy:168
 translate polish day04_p_room_choices_menu_d1fbe0fc:
@@ -470,7 +470,7 @@ translate polish day04_p_room_choices_menu_76971445:
 translate polish day04_p_room_choices_menu_5256158c:
 
     # r "She wanted to talk about some girl stuff. Don't know what that means, but with [b_name] it's probably something self-important."
-    r ""
+    r "Chciała porozmawiać o jakichś babskich sprawach. Nie wiem, co to znaczy, ale w przypadku [b_name] to prawdopodobnie coś ważnego dla niej samej."
 
 # game/day04.rpy:211
 translate polish day04_p_room_choices_menu_1db73efa:
@@ -506,7 +506,7 @@ translate polish day04_p_room_choices_menu_76971445_1:
 translate polish day04_p_room_choices_menu_5256158c_1:
 
     # r "She wanted to talk about some girl stuff. Don't know what that means, but with [b_name] it's probably something self-important."
-    r ""
+    r "Chciała porozmawiać o jakichś babskich sprawach. Nie wiem, co to znaczy, ale w przypadku [b_name] to prawdopodobnie coś ważnego dla niej samej."
 
 # game/day04.rpy:222
 translate polish day04_p_room_choices_menu_1db73efa_1:
@@ -542,7 +542,7 @@ translate polish day04_p_room_choices_menu_def85e87:
 translate polish day04_p_room_choices_menu_92ffd1a4:
 
     # r "Yes, of course. We just met and I want to get to know you better."
-    r ""
+    r "Tak, oczywiście, dopiero się poznaliśmy i chcę cię lepiej poznać"
 
 # game/day04.rpy:237
 translate polish day04_p_room_choices_menu_1890b0c4:
@@ -764,7 +764,7 @@ translate polish day04_j_conversation_19022f9a:
 translate polish day04_j_conversation_fb6e7649:
 
     # p "James. She's not some kind of whore."
-    p ""
+    p "James Ona nie jest jakąś dziwką"
 
 # game/day04.rpy:332
 translate polish day04_j_conversation_07af433a:
@@ -938,7 +938,7 @@ translate polish day04_boutique_76eca6a0:
 translate polish day04_boutique_25eaa1ee:
 
     # a "She had a thing with [b_name], so I asked [p_name] to join us."
-    a ""
+    a "Miała coś do [b_name], więc poprosiłem [p_name], żeby do nas dołączył"
 
 # game/day04.rpy:442
 translate polish day04_boutique_4118ba03:
@@ -1460,7 +1460,7 @@ translate polish day04_evening_choices_98a8bf44:
 translate polish day04_evening_choices_4f72f493:
 
     # p "Hi. I've been busy shopping today."
-    p ""
+    p "Cześć, byłem dziś zajęty zakupami"
 
 # game/day04.rpy:655
 translate polish day04_evening_choices_cc631390:
@@ -1658,7 +1658,7 @@ translate polish day04_evening_choices_59049f0a:
 translate polish day04_evening_choices_4f75eedb:
 
     # r "She tried to convince me to talk to Mrs. Smith about you. To get you out of the house."
-    r ""
+    r "Próbowała mnie przekonać, żebym porozmawiała o tobie z panią Smith, żeby cię wyrzucić z domu."
 
 # game/day04.rpy:720
 translate polish day04_evening_choices_2f7aa99e:
@@ -1712,7 +1712,7 @@ translate polish day04_evening_choices_a1f23f41:
 translate polish day04_evening_choices_497d118a:
 
     # r "I've known [b_name] a lot longer than you..."
-    r ""
+    r "Znam [b_name] o wiele dłużej niż ty"
 
 # game/day04.rpy:736
 translate polish day04_evening_choices_bb7dfb49:
@@ -1736,7 +1736,7 @@ translate polish day04_evening_choices_55ce4817:
 translate polish day04_evening_choices_16eced80:
 
     # r "But I'm not going to talk to Mrs. Smith"
-    r ""
+    r "Ale nie zamierzam rozmawiać z panią Smith"
 
 # game/day04.rpy:742
 translate polish day04_evening_choices_bcab92b0:
@@ -2006,7 +2006,7 @@ translate polish day04_evening_choices_31d0a4de:
 translate polish day04_evening_choices_20d7a300:
 
     # p "Yes, we're living together after all, although you don't seem to like it. I think it's only fair if we help each other out."
-    p ""
+    p "Tak, w końcu mieszkamy razem, chociaż wydaje się, że ci się to nie podoba, myślę, że to sprawiedliwe, jeśli będziemy sobie nawzajem pomagać."
 
 # game/day04.rpy:857
 translate polish day04_evening_choices_52dcef3c:
@@ -2144,37 +2144,37 @@ translate polish day04_dinner_conversation_781a5c60:
 translate polish day04_dinner_conversation_d7ebf9b3:
 
     # p "So have you always lived here?"
-    p ""
+    p "Więc zawsze tu mieszkałeś?"
 
 # game/day04.rpy:918
 translate polish day04_dinner_conversation_8ef44e32:
 
     # m "Yes, I found this house. Just the right size, in a quiet neighborhood."
-    m ""
+    m "Tak, znalazłem ten dom w odpowiednim rozmiarze w spokojnej okolicy"
 
 # game/day04.rpy:919
 translate polish day04_dinner_conversation_f5fd3948:
 
     # m "And it was big enough to take in these lovely girls."
-    m ""
+    m "I był wystarczająco duży, by pomieścić te urocze dziewczyny"
 
 # game/day04.rpy:920
 translate polish day04_dinner_conversation_9fa94ce3:
 
     # m "I must admit I have a bit of a soft spot for lost causes."
-    m ""
+    m "Muszę przyznać, że mam słabość do przegranych spraw"
 
 # game/day04.rpy:922
 translate polish day04_dinner_conversation_db14ba91:
 
     # r "I'm not a lost cause!"
-    r ""
+    r "Nie jestem przegraną sprawą!"
 
 # game/day04.rpy:923
 translate polish day04_dinner_conversation_ccad5455:
 
     # m "Let's just say you found your way again."
-    m ""
+    m "Powiedzmy, że znów odnalazłeś swoją drogę"
 
 # game/day04.rpy:927
 translate polish day04_dinner_conversation_62a9fd5e:
@@ -2186,7 +2186,7 @@ translate polish day04_dinner_conversation_62a9fd5e:
 translate polish day04_dinner_conversation_1fcfd018:
 
     # r "Where did you live with your dad?"
-    r ""
+    r "Gdzie mieszkałeś z ojcem?"
 
 # game/day04.rpy:930
 translate polish day04_dinner_conversation_c7cb12d0:
@@ -2324,7 +2324,7 @@ translate polish day04_dinner_conversation_41cea842:
 translate polish day04_dinner_conversation_c2459336:
 
     # p "{i}(I wonder if the reverend is interested in just her piety...)"
-    p ""
+    p "{i}(Zastanawiam się, czy wielebny jest zainteresowany tylko jej pobożnością)"
 
 # game/day04.rpy:966
 translate polish day04_dinner_conversation_c8f9ffdf:
@@ -2342,7 +2342,7 @@ translate polish day04_dinner_conversation_0452edca:
 translate polish day04_dinner_conversation_23aa6648:
 
     # l "I know Mrs. Smith!"
-    l ""
+    l "Znam panią Smith!"
 
 # game/day04.rpy:975
 translate polish day04_dinner_conversation_6f0d8cff:
@@ -2396,7 +2396,7 @@ translate polish day04_night_visit_choices_3f4dce82:
 translate polish day04_night_visit_choices_0538a0d4:
 
     # p "{i}(I can take care of you as well, if you want me to...)"
-    p ""
+    p "{i}(Mogę zająć się również tobą, jeśli tego chcesz)"
 
 # game/day04.rpy:1009
 translate polish day04_night_visit_choices_5a6e8515:
@@ -2685,4 +2685,204 @@ translate polish strings:
     # game/day04.rpy:997
     old "Go to sleep"
     new "Idź spać"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day04.rpy:58
+translate polish day04_61e445ed:
+
+    # a "I have an idea! Why don't you come with me today?"
+    a "Mam pomysł! Może przejdziesz się dzisiaj ze mną?"
+
+# game/day04.rpy:59
+translate polish day04_59a3e5fc:
+
+    # p "Where to?"
+    p "Gdzie?"
+
+# game/day04.rpy:60
+translate polish day04_b0a75591:
+
+    # a "Well, we're going shopping..."
+    a "Cóż, idziemy na zakupy..."
+
+# game/day04.rpy:61
+translate polish day04_e348b6db:
+
+    # p "Naturally."
+    p "Jak zwykle."
+
+# game/day04.rpy:62
+translate polish day04_3a3111de:
+
+    # a "I asked [r_name] earlier, before visiting you, but she can't come."
+    a "Wcześniej zaprosiłam Rachel, zanim zajrzałam do Ciebie, ale ona nie może."
+
+# game/day04.rpy:63
+translate polish day04_382b0ab2:
+
+    # p "Oh?"
+    p "Hm?"
+
+# game/day04.rpy:64
+translate polish day04_102afd0c:
+
+    # a "Yeah, [b_name] asked her out to lunch."
+    a "Tak, Bella zaprosiła ją na lunch."
+
+# game/day04.rpy:65
+translate polish day04_2d48d716:
+
+    # p "She did?"
+    p "Ah tak?"
+
+# game/day04.rpy:66
+translate polish day04_1a2dfe21:
+
+    # a "[b_name] is not someone you refuse, if you catch my drift..."
+    a "Bella nie jest osobą, której się odmawia, jeśli wiesz co mam na myśli."
+
+# game/day04.rpy:67
+translate polish day04_60c13293:
+
+    # p "Yup, she's a bitch."
+    p "Ta, straszna z niej złośnica."
+
+# game/day04.rpy:68
+translate polish day04_2931081c:
+
+    # a "So, it's just Alina and me. How could you refuse two beautiful women?"
+    a "Więc, będę tylko ja i Alina. Jak mógłbyś odmówić dwóm pięknym damom?"
+
+# game/day04.rpy:71
+translate polish day04_3854d23d:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting and I might be able to buy something nice for [l_name]."
+    p "{i}(Nie cierpię zakupów, ale to kusząca oferta i miałbym okazję kupić coś ładnego dla Lizy.)"
+
+# game/day04.rpy:74
+translate polish day04_0489d494:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting. Might get another reward from Ana after my more than satisfactory performance just now."
+    p "{i}(Nie cierpię zakupów, ale to kusząca oferta. Ana może zechce się odwdzięczyć za to co dla niej właśnie zrobiłem.)"
+
+# game/day04.rpy:77
+translate polish day04_ff778e06:
+
+    # p "Well, all right. I'm in."
+    p "Hmm, no dobra. Wchodzę w to."
+
+# game/day04.rpy:78
+translate polish day04_dadbfcbd:
+
+    # a "Yay! I'll meet you at the store later today."
+    a "Yay! No to widzimy się później, w sklepie."
+
+# game/day04.rpy:82
+translate polish day04_b05f7cb4:
+
+    # p "{i}(Phew. That was a nice little morning snack.)"
+    p "{i}(Puff. To była niezła poranna przekąska.)"
+
+# game/day04.rpy:87
+translate polish day04_95c8d466:
+
+    # p "Please go away, Ana. Yesterday was a mistake."
+    p "Ana, wyjdź stąd proszę. To co zrobiliśmy wczoraj było błędem."
+
+# game/day04.rpy:91
+translate polish day04_1cfe1505:
+
+    # a "WHAT?! FUCK YOU! You utter piece of shit!"
+    a "CO?! PIERDOL SIĘ! Co za dupek!"
+
+# game/day04.rpy:92
+translate polish day04_43425f49:
+
+    # a "You're going to regret this!"
+    a "Pożałujesz tego!"
+
+# game/day04.rpy:97
+translate polish day04_c0e4fd2a:
+
+    # "{i}You're awakened by the sunlight spilling through the curtains."
+    "{i}Budzą Cię promienie porannego słońca, wychylającego się za oknem."
+
+# game/day04.rpy:347
+translate polish day04_m_room_choices_ac4f9f29:
+
+    # "{i}After a while you go to town to meet Ana and Alina at the clothing store."
+    "{i}Po pewnym czasie, wybierasz się do miasta, żeby spotkać się z Aną i Aliną w galerii."
+
+# game/day04.rpy:352
+translate polish day04_m_room_choices_3e9f821c:
+
+    # "{i}You spend your day at home, which is pretty boring."
+    "{i}Spędzasz resztę dnia nudząc się w domu."
+
+# game/day04.rpy:435
+translate polish day04_boutique_aadf88f7:
+
+    # al "All done? Was [p_name] any help?"
+    al "Gotowi? [p_name] był pomocny?"
+
+# game/day04.rpy:436
+translate polish day04_boutique_591ddada:
+
+    # a "Sure! Couldn't have done it without him."
+    a "Oczywiście! Nie mogłabym tego zrobić bez niego."
+
+# game/day04.rpy:437
+translate polish day04_boutique_10a3bcd1:
+
+    # p "Girls, I'll leave you to it. Thanks for taking me on your shopping expedition."
+    p "Będę musiał już uciekać dziewczynki. Dzięki, że zabrałyście mnie ze sobą."
+
+# game/day04.rpy:438
+translate polish day04_boutique_277a0fcc:
+
+    # al "Any time, [p_name]. Be seeing ya!"
+    al "Cała przyjemność po naszej stronie. Do zobaczenia!"
+
+# game/day04.rpy:439
+translate polish day04_boutique_6823d1fa:
+
+    # a "Sooner rather than later, I hope!"
+    a "Do szybkiego zobaczenia, miejmy nadzieję!"
+
+# game/day04.rpy:442
+translate polish day04_boutique_d46543e7:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie and [l_name]'s evening dress."
+    "{i}Ana i Alina wychodzą ze sklepu, a Ty idziesz zapłacić za bieliznę Any i sukienkę Lizy."
+
+# game/day04.rpy:446
+translate polish day04_boutique_3d15b177:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie."
+    "{i}Ana i Alina wychodzą ze sklepu, a Ty idziesz zapłacić za bieliznę Any."
+
+# game/day04.rpy:639
+translate polish day04_evening_choices_74f58510:
+
+    # b "Never mind. Just go away."
+    b "Nieważne, po prostu odejdź"
+
+# game/day04.rpy:938
+translate polish day04_ana_licking_3c84de13:
+
+    # a "I know you want me..."
+    a "Wiem, że masz na mnie ochotę..."
+
+# game/day04.rpy:939
+translate polish day04_ana_licking_b2c1d8a6:
+
+    # a "Don't you want to lick me, [p_name]? I'm so wet..."
+    a "Nie chcesz mnie wylizać, [p_name]? Jestem taka wilgotna..."
+
+translate polish strings:
+
+    # game/day04.rpy:242
+    old "Never mind"
+    new "Nieważne"
 

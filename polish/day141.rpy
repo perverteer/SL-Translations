@@ -434,7 +434,7 @@ translate polish day141_choices_d3b9fb6f:
 translate polish day141_choices_d4d658a2:
 
     # "{i}Just when you're about to enter [m_name]'s bedroom, the door's thrown open."
-    ""
+    "{i}Właśnie wtedy, gdy masz zamiar wejść do sypialni [m_name], drzwi zostają otwarte."
     
 # game/day141.rpy:165
 translate polish day141_choices_a0d7ae46:
@@ -494,7 +494,7 @@ translate polish day141_choices_fb2c2aa5:
 translate polish day141_choices_000c14b8:
 
     # "{i}You've never seen [m_name]'s secretary genuinely distressed, until she enters [m_name]'s room."
-    ""
+    "{i}Nigdy nie widziałeś sekretarki [m_name] w prawdziwym smutku, dopóki nie wejdzie do pokoju [m_name]."
 
 # game/day141.rpy:183
 translate polish day141_choices_3d2fa198:
@@ -776,7 +776,7 @@ translate polish day141_choices_b3176faf:
 translate polish day141_choices_5d4176df:
 
     # er "Yes, I'd like to speak to Mrs. Smith."
-    er ""
+    er "Tak, chciałbym porozmawiać z panią Smith"
 
 # game/day141.rpy:247
 translate polish day141_choices_1d3a9e8c:
@@ -896,7 +896,7 @@ translate polish day141_choices_56dbf263:
 translate polish day141_choices_95203380:
 
     # er "I'm here about [r_name]."
-    er ""
+    er "Jestem tu w sprawie [r_name]"
 
 # game/day141.rpy:276
 translate polish day141_choices_7a5c1899:
@@ -1436,7 +1436,7 @@ translate polish day141_choices_dec91f11:
 translate polish day141_choices_4c562f1e:
 
     # er "Apparently you've become very close-knit after that boy came to live with you."
-    er ""
+    er "Najwyraźniej staliście się sobie bardzo bliscy po tym, jak ten chłopak zamieszkał z wami."
 
 # game/day141.rpy:406
 translate polish day141_choices_98f8d1e5:
@@ -1478,7 +1478,7 @@ translate polish day141_choices_9ad394d8:
 translate polish day141_choices_bffa010b:
 
     # er "Are you aware of the fact that several people in your household are in a sexual relationship with each other?"
-    er ""
+    er "Czy jesteś świadomy faktu, że kilka osób w twoim gospodarstwie domowym jest ze sobą w związku seksualnym?."
 
 # game/day141.rpy:417
 translate polish day141_choices_de238c83_1:
@@ -1526,7 +1526,7 @@ translate polish day141_choices_e610f1be:
 translate polish day141_choices_86054047:
 
     # m "You're accusing this boy here of indecent behavior?!"
-    m ""
+    m "Oskarżasz tego chłopca o nieprzyzwoite zachowanie?!"
 
 # game/day141.rpy:433
 translate polish day141_choices_a389bd0d:
@@ -1568,7 +1568,7 @@ translate polish day141_choices_b90ce8b8:
 translate polish day141_choices_6bbdc87c:
 
     # m "You're accusing [p_name] of indecent behavior?!"
-    m ""
+    m "Oskarżasz [p_name] o nieprzyzwoite zachowanie?!"
 
 # game/day141.rpy:444
 translate polish day141_choices_5e8b4451_2:
@@ -1592,7 +1592,7 @@ translate polish day141_choices_6f555ab4:
 translate polish day141_choices_d47fb149:
 
     # er "[p_name] has tried to seduce [r_name] too."
-    er ""
+    er "[p_name] również próbował uwieść [r_name]"
 
 # game/day141.rpy:451
 translate polish day141_choices_20cd1323:
@@ -1616,7 +1616,7 @@ translate polish day141_choices_71c393ba:
 translate polish day141_choices_7c7b6071:
 
     # m "[p_name] and the girls would never engage in any such behavior."
-    m ""
+    m "[p_name] i dziewczyny nigdy nie zaangażowałyby się w takie zachowanie"
 
 # game/day141.rpy:459
 translate polish day141_choices_0997797b_2:
@@ -1652,7 +1652,7 @@ translate polish day141_choices_adedce2c:
 translate polish day141_choices_60af2a1c:
 
     # er "I came here to warn you about the degenerate actions of those under your care and instead you get angry at me."
-    er ""
+    er "Przyszedłem tutaj, aby ostrzec cię przed zdegenerowanymi działaniami osób znajdujących się pod twoją opieką, a ty zamiast tego złościsz się na mnie."
 
 # game/day141.rpy:471
 translate polish day141_choices_88014b02:
@@ -1940,7 +1940,7 @@ translate polish day141_choices_dec7f9b1:
 translate polish day141_choices_5f50c9eb:
 
     # m "You're going to care for [r_name]'s baby and make sure she's provided for."
-    m ""
+    m "Będziesz opiekować się dzieckiem [r_name] i upewnisz się, że ma zapewnione odpowiednie warunki"
 
 # game/day141.rpy:537
 translate polish day141_choices_6a101acc:
@@ -2066,7 +2066,7 @@ translate polish day141_choices_c78f8fba:
 translate polish day141_choices_be505c9e:
 
     # "{i}[m_name] stares at you in absolute disbelief for several seconds."
-    ""
+    "{i}[m_name] wpatruje się w ciebie z absolutnym niedowierzaniem przez kilka sekund."
 
 # game/day141.rpy:573
 translate polish day141_choices_a5ebf83d:
@@ -2132,49 +2132,49 @@ translate polish day141_choices_ed24bcfd:
 translate polish day141_choices_1386cae7:
 
     # m "And you're doing nothing illegal. Yet..."
-    m ""
+    m "I nie robisz jeszcze nic nielegalnego"
 
 # game/day141.rpy:586
 translate polish day141_choices_5ff2d71d:
 
     # m "But that could change in no time."
-    m ""
+    m "Ale to może się zmienić w mgnieniu oka"
 
 # game/day141.rpy:588
 translate polish day141_choices_084d29a3:
 
     # m "I hope you understand what life you'll be entering when the babies are born."
-    m ""
+    m "Mam nadzieję, że rozumiesz, w jakie życie wkroczysz, gdy urodzą się dzieci."
 
 # game/day141.rpy:589
 translate polish day141_choices_3f7a132f:
 
     # m "It's a lot of responsibility."
-    m ""
+    m "To duża odpowiedzialność"
 
 # game/day141.rpy:590
 translate polish day141_choices_9507c147:
 
     # m "I just hope you're prepared."
-    m ""
+    m "Mam tylko nadzieję, że jesteś przygotowany"
 
 # game/day141.rpy:591
 translate polish day141_choices_6e995c10:
 
     # m "It might be better if you go look for your own place in time."
-    m ""
+    m "Może lepiej będzie, jeśli poszukasz swojego miejsca w czasie"
 
 # game/day141.rpy:592
 translate polish day141_choices_b2b4cbb9_1:
 
     # p "Understood."
-    p ""
+    p "Rozumiem."
 
 # game/day141.rpy:593
 translate polish day141_choices_06c4bfdb:
 
     # p "Thank you for understanding."
-    p ""
+    p "Dziękuję za zrozumienie"
 
 # game/day141.rpy:596
 translate polish day141_choices_19f85df2:
@@ -2378,7 +2378,7 @@ translate polish day141_choices_72da3ae2:
 translate polish day141_choices_1c1827d5:
 
     # "{i}You leave a concerned [m_name] in the living room and head to your own bedroom."
-    ""
+    "{i}Zostawiasz zaniepokojonego [m_name] w salonie i udajesz się do własnej sypialni."
 
 # game/day141.rpy:654
 translate polish day141_choices_1612f429:
@@ -2510,7 +2510,7 @@ translate polish day141_evening_choices_7ca532dc:
 translate polish day141_evening_choices_58960b43:
 
     # "{i}Your girlfriend gets dressed and together you head out to the bar."
-    ""
+    "{i}Twoja dziewczyna ubiera się i razem idziecie do baru."
 
 # game/day141.rpy:699
 translate polish day141_evening_choices_5d619059:
@@ -2606,7 +2606,7 @@ translate polish day141_evening_choices_05664737:
 translate polish day141_evening_choices_67e50be9:
 
     # p "Yes, there'll be a meeting tomorrow."
-    p ""
+    p "Tak, jutro odbędzie się spotkanie"
 
 # game/day141.rpy:726
 translate polish day141_evening_choices_1fe4db6c:
@@ -2774,7 +2774,7 @@ translate polish day141_evening_choices_69c4eb6d:
 translate polish day141_evening_choices_e6166646:
 
     # b "Why would they have an interest in [m_name]'s weird job?"
-    b ""
+    b "Dlaczego mieliby interesować się dziwną pracą [m_name]?"
 
 # game/day141.rpy:770
 translate polish day141_evening_choices_956e1dab:
@@ -2810,7 +2810,7 @@ translate polish day141_evening_choices_85979473:
 translate polish day141_evening_choices_f0a6f658:
 
     # b "[m_name]'s okay, isn't she?"
-    b ""
+    b "[m_name] jest w porządku, prawda?"
 
 # game/day141.rpy:780
 translate polish day141_evening_choices_fbfd5359:
@@ -2918,13 +2918,13 @@ translate polish day141_evening_choices_537d1f74:
 translate polish day141_evening_choices_b93702f7:
 
     # p "I mean, any group of friends has secrets."
-    p ""
+    p "Mam na myśli, że każda grupa przyjaciół ma swoje sekrety"
 
 # game/day141.rpy:807
 translate polish day141_evening_choices_537d1f74_1:
 
     # p "And our secrets are not the ones you want publicly exposed at the moment."
-    p ""
+    p "A nasze sekrety nie są czymś, co chcielibyśmy w tej chwili publicznie ujawnić."
 
 # game/day141.rpy:808
 translate polish day141_evening_choices_de04e933_1:
@@ -3242,7 +3242,7 @@ translate polish day141_evening_choices_b2e66583:
 translate polish day141_evening_choices_379b4718:
 
     # b "I always thought I'd live near my friends somewhere."
-    b ""
+    b "Zawsze myślałem, że będę mieszkał gdzieś blisko moich przyjaciół."
 
 # game/day141.rpy:888
 translate polish day141_evening_choices_10735243:
@@ -3362,7 +3362,7 @@ translate polish day141_evening_choices_9e06459f:
 translate polish day141_evening_choices_5c7c3202:
 
     # b "And [m_name]?"
-    b ""
+    b "A [m_name]?"
 
 # game/day141.rpy:920
 translate polish day141_evening_choices_add58246:
@@ -3650,7 +3650,7 @@ translate polish day141_evening_choices_5d8b330c:
 translate polish day141_evening_choices_fa766105:
 
     # b "Yes, but she's one of my best friends, of course she needs to come too!"
-    b ""
+    b "Tak, ale ona jest jedną z moich najlepszych przyjaciółek, więc oczywiście też musi przyjść!"
 
 # game/day141.rpy:999
 translate polish day141_evening_choices_79c709dc_1:
@@ -3704,7 +3704,7 @@ translate polish day141_evening_choices_5d8b330c_1:
 translate polish day141_evening_choices_fa766105_1:
 
     # b "Yes, but she's one of my best friends, of course she needs to come too!"
-    b ""
+    b "Tak, ale ona jest jedną z moich najlepszych przyjaciółek, więc oczywiście też musi przyjść!"
 
 # game/day141.rpy:1017
 translate polish day141_evening_choices_361c036e_1:
@@ -4022,7 +4022,7 @@ translate polish day141_evening_choices_224e6e9b:
 translate polish day141_evening_choices_7a37c9e8:
 
     # ir "{i}([p_name]'s youngest friends... pleasuring each other?)"
-    ir ""
+    ir "{i}([p_name] - najmłodsi przyjaciele, którzy sprawiają sobie przyjemność?)"
 
 # game/day141.rpy:1131
 translate polish day141_evening_choices_8b286a1a:
@@ -4076,13 +4076,13 @@ translate polish day141_l_pool_e61dcb38:
 translate polish day141_l_pool_65dc12c1:
 
     # "{i}You admire your girlfriend as she cuts through the water, still graceful, despite the extra weight she's carrying."
-    ""
+    "{i}Podziwiasz swoją dziewczynę, gdy przecina wodę z gracją pomimo dodatkowego ciężaru, który nosi."
 
 # game/day141.rpy:1167
 translate polish day141_l_pool_dd98ba55:
 
     # "{i}You admire your girlfriend as she gracefully cuts through the water."
-    ""
+    "{i}Podziwiasz swoją dziewczynę, gdy z gracją przecina wodę."
 
 # game/day141.rpy:1169
 translate polish day141_l_pool_462fd719:
@@ -4256,7 +4256,7 @@ translate polish day141_l_pool_dc8aca1b:
 translate polish day141_l_pool_c83eecff:
 
     # "{i}Within seconds you're both naked and you stare at [l_name]'s beautiful body."
-    ""
+    "{i}W ciągu kilku sekund oboje jesteście nadzy i wpatrujecie się w piękne ciało [l_name]."
 
 # game/day141.rpy:1241
 translate polish day141_l_pool_8f2cf67d:
@@ -4280,7 +4280,7 @@ translate polish day141_l_pool_831e1eb2:
 translate polish day141_l_pool_2e7bbc0a:
 
     # "{i}You both moan with pleasure when your cock enters her and you start fucking your girlfriend's pussy."
-    ""
+    "{i}Oboje jęczycie z przyjemności, gdy twój kutas wchodzi w nią i zaczynasz pieprzyć cipkę swojej dziewczyny."
 
 # game/day141.rpy:1248
 translate polish day141_l_pool_1996fee8:
@@ -4322,7 +4322,7 @@ translate polish day141_l_pool_434992d4:
 translate polish day141_l_pool_165bec4e:
 
     # "{i}Finding you're still without an audience, your girlfriend shifts her position to allow you even better access to her wet slit."
-    ""
+    "{i}Widząc, że nadal jesteś bez publiczności, twoja dziewczyna zmienia pozycję, aby umożliwić ci jeszcze lepszy dostęp do jej mokrej szczeliny."
 
 # game/day141.rpy:1267
 translate polish day141_l_pool_94ff843a:
@@ -4376,7 +4376,7 @@ translate polish day141_l_pool_dab52d25:
 translate polish day141_l_pool_012a7bc8:
 
     # "{i}The sight of your orgasming girlfriend inspires you to a last bout of intense fucking, your cock buried deep inside her."
-    ""
+    "{i}Widok twojej orgazmującej dziewczyny inspiruje cię do ostatniego intensywnego pieprzenia twojego kutasa zakopanego głęboko w niej."
 
 # game/day141.rpy:1288
 translate polish day141_l_pool_9512402c:
@@ -4460,7 +4460,7 @@ translate polish day141_l_pool_e53862fe:
 translate polish day141_l_pool_d27072f7:
 
     # "{i}You walk your girlfriend back home, chatting happily about everything and nothing."
-    ""
+    "{i}Odprowadzasz swoją dziewczynę do domu, rozmawiając wesoło o wszystkim i o niczym."
 
 # game/day141.rpy:1333
 translate polish day141_ad_m_5a26027b:
@@ -4556,7 +4556,7 @@ translate polish day141_ad_m_ac46fea8:
 translate polish day141_ad_m_5afc9690:
 
     # "{i}During your [m_name]'s reading, you feel Adriana's hand on your thigh, working her way up to your cock."
-    ""
+    "{i}Podczas czytania przez [m_name] poczułeś rękę Adriany na swoim udzie, pracującą nad twoim kutasem."
 
 # game/day141.rpy:1359
 translate polish day141_ad_m_9ebed017:
@@ -5000,7 +5000,7 @@ translate polish day141_ad_m_01ba2feb:
 translate polish day141_ad_m_c591af55:
 
     # "{i}By the time [m_name] looks up from her book, Adriana's hands are covered in precum and saliva and with the slightest of motions she's able to collect more from the head."
-    ""
+    "{i}Zanim [m_name] podniesie wzrok znad książki, ręce Adriany są pokryte precum i śliną, a przy najmniejszym ruchu jest w stanie zebrać więcej z głowy."
 
 # game/day141.rpy:1471
 translate polish day141_ad_m_c5cbfb26:
@@ -5042,7 +5042,7 @@ translate polish day141_ad_m_86fe7976:
 translate polish day141_ad_m_ba49c5e5:
 
     # "{i}Your older friend holds you down, while the other girl first teases the area around your asshole, before slipping her finger inside your anus."
-    ""
+    "{i}Twoja starsza koleżanka przytrzymuje cię, podczas gdy druga dziewczyna najpierw drażni okolice twojego tyłka, zanim wsunie palec do twojego odbytu."
 
 # game/day141.rpy:1485
 translate polish day141_ad_m_18e42abd:
@@ -5096,7 +5096,7 @@ translate polish day141_ad_m_ece56de0:
 translate polish day141_ad_m_13ba4582:
 
     # m "Do you want to cum for me?"
-    m ""
+    m "Chcesz dla mnie dojść?"
 
 # game/day141.rpy:1501
 translate polish day141_ad_m_a0a4bcc0:
@@ -5174,7 +5174,7 @@ translate polish day141_ad_m_286b37a9:
 translate polish day141_ad_m_2bc2c2c0:
 
     # "{i}Still quivering, you fall asleep in [m_name]'s arms, Adriana lying next to her."
-    ""
+    "{i}Wciąż drżąc, zasypiasz w ramionach [m_name], Adriana leży obok niej."
 
 translate polish strings:
 
@@ -5211,4 +5211,102 @@ translate polish day141_evening_choices_23d6eda2_2:
 
     # p "[l_name] seems to have chosen a different path for herself."
     p "Wygląda na to, że Liza wybrała dla siebie inną ścieżkę."
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day141.rpy:114
+translate polish day141_3c209c08:
+
+    # "{i}Her face like thunder, she storms down the stairs without saying anything and you know something has snapped."
+    "{i}Jej wyraz twarzy dużo mówi, zbiega po schodach i bez słów wiesz, że coś w niej pękło."
+
+# game/day141.rpy:346
+translate polish day141_choices_ab8267a9:
+
+    # m "So were we once."
+    m "Tak jak my kiedyś"
+
+# game/day141.rpy:439
+translate polish day141_choices_8b45b5ee_7:
+
+    # p "{i}(Motherfucking bitch!)"
+    p "{i}(Pierdolona suka!)"
+
+# game/day141.rpy:452
+translate polish day141_choices_8b45b5ee_8:
+
+    # p "{i}(Motherfucking bitch!)"
+    p "{i}(Pierdolona suka!)"
+
+# game/day141.rpy:599
+translate polish day141_choices_80c2a8ca:
+
+    # m "I'm not disowning you or anything, but disappointment doesn't begin to describe what I'm feeling right now."
+    "Nie wyrzekam się ciebie ani niczego innego, ale rozczarowanie nie opisuje tego, co teraz czuję."
+
+# game/day141.rpy:601
+translate polish day141_choices_53b01f7c:
+
+    # p "I could say I'm sorry, but that wouldn't be very sincere."
+    p "Mógłbym powiedzieć przepraszam, ale nie byłoby to zbyt szczere."
+
+# game/day141.rpy:633
+translate polish day141_choices_02d94e06:
+
+    # p "I'm not sure she really thought it through."
+    p "Nie jestem pewien, czy naprawdę to przemyślała"
+
+# game/day141.rpy:721
+translate polish day141_evening_choices_46853482:
+
+    # "{i}Your sister gets dressed, and together you head out to the bar."
+    "{i}Twoja siostra ubiera się i razem idziecie do baru."
+
+# game/day141.rpy:723
+translate polish day141_evening_choices_0b8ba65e:
+
+    # "{i}Your girlfriend gets dressed, and together you head out to the bar."
+    "{i}Twoja dziewczyna ubiera się i razem idziecie do baru."
+
+# game/day141.rpy:1185
+translate polish day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Czy [l_name] jest w ciąży w tej scenie?"
+
+# game/day141.rpy:1189
+translate polish day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] w ciąży"
+
+# game/day141.rpy:1192
+translate polish day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nie jest w ciąży"
+
+# game/day141.rpy:1243
+translate polish day141_l_pool_5df15299:
+
+    # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
+    "{i}Masujesz nogi [l_name] kremem do opalania i pocierasz jej brzuch."
+
+# game/day141.rpy:1442
+translate polish day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Czy [m_name] jest w ciąży w tej scenie?"
+
+# game/day141.rpy:1446
+translate polish day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] w ciąży"
+
+# game/day141.rpy:1449
+translate polish day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nie jest w ciąży"
 

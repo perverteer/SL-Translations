@@ -230,7 +230,7 @@ translate polish day145_9fbdd2c0:
 translate polish day145_056f2448:
 
     # mi "With an older and a younger woman."
-    mi ""
+    mi "Ze starszą i młodszą kobietą"
 
 # game/day145.rpy:131
 translate polish day145_42aef44a:
@@ -1328,7 +1328,7 @@ translate polish day145_mi_s_sa_conversation_306926f0:
 translate polish day145_mi_s_sa_conversation_4076fcc5:
 
     # mi "It was so funny to learn you told your girlfriend about us."
-    mi ""
+    mi "To było takie zabawne dowiedzieć się, że powiedziałeś o nas swojej dziewczynie"
 
 # game/day145.rpy:443
 translate polish day145_mi_s_sa_conversation_493b6322:
@@ -3398,7 +3398,7 @@ translate polish day145_wedding_ceremony_5aa55c62:
 translate polish day145_wedding_ceremony_e2155964:
 
     # "{i}Your friend slowly walks towards you, a smile gracing her face."
-    ""
+    "{i}Twoja przyjaciółka powoli podchodzi do ciebie z uśmiechem na twarzy."
 
 # game/day145.rpy:1207
 translate polish day145_wedding_ceremony_9391e7a8:
@@ -3536,7 +3536,7 @@ translate polish day145_wedding_ceremony_0a14d32b:
 translate polish day145_wedding_ceremony_96d7bb7b:
 
     # "{i}Your friend takes your arm and holds it tightly, the only expression remaining on her face is that of nervousness."
-    ""
+    "{i}Twoja przyjaciółka chwyta cię za rękę i trzyma ją mocno, a jedynym wyrazem jej twarzy jest zdenerwowanie."
 
 # game/day145.rpy:1295
 translate polish day145_wedding_ceremony_0796675e:
@@ -3548,7 +3548,7 @@ translate polish day145_wedding_ceremony_0796675e:
 translate polish day145_wedding_ceremony_d3fa87dc:
 
     # "{i}With absolute confidence, your friend cuts through the crowd, intent on reaching you as fast as possible."
-    ""
+    "{i}Z absolutną pewnością siebie twój przyjaciel przedziera się przez tłum, chcąc dotrzeć do ciebie tak szybko, jak to możliwe."
 
 # game/day145.rpy:1303
 translate polish day145_wedding_ceremony_4d4cda33:
@@ -3602,7 +3602,7 @@ translate polish day145_wedding_ceremony_e44452e8:
 translate polish day145_wedding_ceremony_916990d7:
 
     # "{i}Your girlfriend's partner looks like an angel in her white dress, albeit a very naughty one."
-    ""
+    "{i}Partnerka twojej dziewczyny wygląda jak anioł w swojej białej sukience, choć jest bardzo niegrzeczna."
 
 # game/day145.rpy:1320
 translate polish day145_wedding_ceremony_896de43b:
@@ -4220,7 +4220,7 @@ translate polish day145_wedding_ceremony_ef15cc22:
 translate polish day145_wedding_ceremony_132c40b0:
 
     # "{i}You take your girlfriend's happy face in your hands and kiss her full lips."
-    ""
+    "{i}Bierzesz w dłonie szczęśliwą twarz swojej dziewczyny i całujesz jej pełne usta."
 
 # game/day145.rpy:1705
 translate polish day145_wedding_ceremony_d6b0e28d:
@@ -4328,7 +4328,7 @@ translate polish day145_wedding_feast_8c4a8b29:
 translate polish day145_wedding_feast_538aee0d:
 
     # m "You didn't think I'd let my friends get married alone on some tropical island?"
-    m ""
+    m "Chyba nie myślałeś, że pozwolę moim przyjaciołom wziąć ślub samotnie na jakiejś tropikalnej wyspie?"
 
 # game/day145.rpy:1754
 translate polish day145_wedding_feast_54d71e42:
@@ -4400,7 +4400,7 @@ translate polish day145_wedding_feast_bff883d4:
 translate polish day145_wedding_feast_7d547dd4:
 
     # m "You didn't think I'd let my friend get married alone on some tropical island?"
-    m ""
+    m "Chyba nie myślałeś, że pozwolę mojej przyjaciółce wyjść za mąż samotnie na jakiejś tropikalnej wyspie?"
 
 # game/day145.rpy:1779
 translate polish day145_wedding_feast_9bbf1b12:
@@ -4946,7 +4946,7 @@ translate polish day145_wedding_feast_04eff9fa:
 translate polish day145_wedding_feast_80e6e57e:
 
     # l "It's not every day that my friends are getting married."
-    l ""
+    l "Nie każdego dnia moi przyjaciele biorą ślub"
 
 # game/day145.rpy:1939
 translate polish day145_wedding_feast_8151a245:
@@ -4988,7 +4988,7 @@ translate polish day145_wedding_feast_3d6875d3:
 translate polish day145_wedding_feast_1829153e:
 
     # l "It's not every day that my friend is getting married."
-    l ""
+    l "Nie każdego dnia moja przyjaciółka wychodzi za mąż"
 
 # game/day145.rpy:1952
 translate polish day145_wedding_feast_3d460996:
@@ -5054,7 +5054,7 @@ translate polish day145_dances_a83d7a01:
 translate polish day145_dances_887350e6:
 
     # "{i}You hold your girlfriend tight and dance to the slow rhythm of the ballad that's playing through the speakers."
-    ""
+    "{i}Trzymasz mocno swoją dziewczynę i tańczysz do powolnego rytmu ballady, która gra w głośnikach."
 
 # game/day145.rpy:1982
 translate polish day145_dances_a1e284e9:
@@ -5288,7 +5288,7 @@ translate polish day145_dances_65166792:
 translate polish day145_dances_1aa2f234:
 
     # "{i}Smiling happily, you dance with your girlfriend and enjoy the intimacy you have together, in public for all to see."
-    ""
+    "{i}Uśmiechasz się radośnie, tańczysz ze swoją dziewczyną i cieszysz się intymnością, którą masz razem publicznie, aby wszyscy mogli ją zobaczyć."
 
 # game/day145.rpy:2054
 translate polish day145_dances_788799bc:
@@ -5618,7 +5618,7 @@ translate polish day145_dances_3ca3d13e:
 translate polish day145_dances_6805b0ad:
 
     # "{i}In order to be with your closest friends, Riley and Iris have offered to join you at a later moment."
-    ""
+    "{i}Aby być z twoimi najbliższymi przyjaciółmi, Riley i Iris zaoferowały, że dołączą do ciebie w późniejszym czasie."
 
 # game/day145.rpy:2229
 translate polish day145_dances_3a041710:
@@ -5630,7 +5630,7 @@ translate polish day145_dances_3a041710:
 translate polish day145_dances_1ce7f122:
 
     # "{i}In order to be with your closest friends, Riley has offered to join you at a later moment."
-    ""
+    "{i}Aby być z twoimi najbliższymi przyjaciółmi, Riley zaproponowała, że dołączy do ciebie w późniejszym czasie."
 
 # game/day145.rpy:2234
 translate polish day145_dances_74cb0e55:
@@ -5642,7 +5642,7 @@ translate polish day145_dances_74cb0e55:
 translate polish day145_dances_3b7769e0:
 
     # "{i}In order to be with your closest friends, Iris has offered to join you at a later moment."
-    ""
+    "{i}Aby być z twoimi najbliższymi przyjaciółmi, Iris zaoferowała, że dołączy do ciebie w późniejszym czasie."
 
 # game/day145.rpy:2239
 translate polish day145_dances_4eef805f:
@@ -6950,7 +6950,7 @@ translate polish day145_wedding_night_501c59ed:
 translate polish day145_wedding_night_3381dba4:
 
     # "{i}[m_name] picks up her dress and nods to her friend, before leaving you two alone."
-    ""
+    "{i}[m_name] podnosi sukienkę i kiwa głową przyjaciółce, po czym zostawia was samych."
 
 # game/day145.rpy:2532
 translate polish day145_wedding_night_58ecaf98:
@@ -7004,7 +7004,7 @@ translate polish day145_wedding_night_501c59ed_1:
 translate polish day145_wedding_night_3381dba4_1:
 
     # "{i}[m_name] picks up her dress and nods to her friend, before leaving you two alone."
-    ""
+    "{i}[m_name] podnosi sukienkę i kiwa głową przyjaciółce, po czym zostawia was samych."
 
 # game/day145.rpy:2556
 translate polish day145_wedding_night_87d6cc1a:
@@ -7082,7 +7082,7 @@ translate polish day145_wedding_night_501c59ed_2:
 translate polish day145_wedding_night_3381dba4_2:
 
     # "{i}[m_name] picks up her dress and nods to her friend, before leaving you two alone."
-    ""
+    "{i}[m_name] podnosi sukienkę i kiwa głową przyjaciółce, po czym zostawia was samych."
 
 # game/day145.rpy:2584
 translate polish day145_wedding_night_0bf98ae7:
@@ -7166,7 +7166,7 @@ translate polish day145_wedding_night_acc3379f:
 translate polish day145_wedding_night_c72cdd7f:
 
     # ri "So, are you done committing sins together with your close friends?"
-    ri ""
+    ri "Więc skończyłeś już popełniać grzechy razem ze swoimi bliskimi przyjaciółmi?"
 
 # game/day145.rpy:2612
 translate polish day145_wedding_night_6fd28d28:
@@ -7352,7 +7352,7 @@ translate polish day145_r_b_l_m_sex_264c4dbc:
 translate polish day145_r_b_l_m_sex_958cc760:
 
     # r "He's already hard, [m_name]."
-    r ""
+    r "On już jest twardy [m_name]"
 
 # game/day145.rpy:2674
 translate polish day145_r_b_l_m_sex_9c550d62:
@@ -7412,7 +7412,7 @@ translate polish day145_r_b_l_m_sex_695270e3:
 translate polish day145_r_b_l_m_sex_ece61f38:
 
     # "{i}[m_name] has taken her place on [b_name]'s face, who's hard at work between her legs."
-    ""
+    "{i}[m_name] zajęła miejsce na twarzy [b_name], który ciężko pracuje między jej nogami."
 
 # game/day145.rpy:2696
 translate polish day145_r_b_l_m_sex_10073255:
@@ -7430,7 +7430,7 @@ translate polish day145_r_b_l_m_sex_a57278e5:
 translate polish day145_r_b_l_m_sex_ac80a89b:
 
     # "{i}[b_name]'s face is buried deeply in the older woman's cunt and her tongue is sliding greedily across her labia."
-    ""
+    "{i}[b_name] ma twarz głęboko zanurzoną w cipie starszej kobiety, a jej język chciwie przesuwa się po jej wargach sromowych."
 
 # game/day145.rpy:2709
 translate polish day145_r_b_l_m_sex_16a7a383:
@@ -7442,7 +7442,7 @@ translate polish day145_r_b_l_m_sex_16a7a383:
 translate polish day145_r_b_l_m_sex_abeef21f:
 
     # "{i}[l_name] and [r_name] are engaged in pretty similar activities, with the older girl squatting on top of the youngest."
-    ""
+    "{i}[l_name] i [r_name] wykonują bardzo podobne czynności, przy czym starsza dziewczyna kuca na najmłodszej."
 
 # game/day145.rpy:2712
 translate polish day145_r_b_l_m_sex_5ba614a9:
@@ -7472,7 +7472,7 @@ translate polish day145_r_b_l_m_sex_6aaaeb56:
 translate polish day145_r_b_l_m_sex_12a8a92f:
 
     # "{i}[r_name] is almost smothered in her friend's pussy, but eagerly flicks her tongue at [l_name]'s labia."
-    ""
+    "{i}[r_name] jest niemalże zaduszona w cipce swojej przyjaciółki, ale ochoczo muska językiem wargi sromowe [l_name]."
 
 # game/day145.rpy:2726
 translate polish day145_r_b_l_m_sex_f57eb559:
@@ -7490,7 +7490,7 @@ translate polish day145_r_b_l_m_sex_7a04e83f:
 translate polish day145_r_b_l_m_sex_9e7f0e0e:
 
     # "{i}Smiling at you in adoration, she guides her younger friend, who's gagging on your cock."
-    ""
+    "{i}Uśmiechając się do ciebie z uwielbieniem, prowadzi swoją młodszą przyjaciółkę, która krztusi się twoim kutasem."
 
 # game/day145.rpy:2735
 translate polish day145_r_b_l_m_sex_0609e277:
@@ -7514,7 +7514,7 @@ translate polish day145_r_b_l_m_fucking_bd7f5f0d:
 translate polish day145_r_b_l_m_fucking_78a2f536:
 
     # "{i}[b_name] is still tongue-fucking [m_name] when you approach her, but with [r_name]'s help you manage to split both women apart."
-    ""
+    "{i}[b_name] wciąż pieprzy się z [m_name], gdy do niej podchodzisz, ale z pomocą [r_name] udaje ci się rozdzielić obie kobiety."
 
 # game/day145.rpy:2751
 translate polish day145_r_b_l_m_fucking_bd750635:
@@ -7526,7 +7526,7 @@ translate polish day145_r_b_l_m_fucking_bd750635:
 translate polish day145_r_b_l_m_fucking_2ae424a2:
 
     # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
-    ""
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
 
 # game/day145.rpy:2770
 translate polish day145_r_b_l_m_fucking_8f135db3:
@@ -7550,7 +7550,7 @@ translate polish day145_r_b_l_m_fucking_88c3f533:
 translate polish day145_r_b_l_m_fucking_4fe1f602:
 
     # "{i}[m_name] is fingering herself while you begin fucking your other wife with bold thrusts."
-    ""
+    "{i}[m_name] pieści się, podczas gdy ty zaczynasz pieprzyć swoją drugą żonę śmiałymi pchnięciami."
 
 # game/day145.rpy:2792
 translate polish day145_r_b_l_m_fucking_4ac85c47:
@@ -7598,7 +7598,7 @@ translate polish day145_r_b_l_m_fucking_768555db:
 translate polish day145_r_b_l_m_fucking_52b1c8c6:
 
     # "{i}[l_name] is still on top of [r_name], whose face is covered in pussy juice after working on her friend's slit for so long."
-    ""
+    "{i}[l_name] wciąż znajduje się na górze [r_name], której twarz jest pokryta sokami z cipki po tak długiej pracy nad szczeliną przyjaciółki."
 
 # game/day145.rpy:2816
 translate polish day145_r_b_l_m_fucking_0cde55bd:
@@ -7640,7 +7640,7 @@ translate polish day145_r_b_l_m_fucking_21b6a41e:
 translate polish day145_r_b_l_m_fucking_feba6d16:
 
     # "{i}[r_name] proceeds to sit on top of [b_name]'s face and allows herself to be thoroughly licked by her friend."
-    ""
+    "{i}[r_name] siada na twarzy [b_name] i pozwala się dokładnie wylizać swojej przyjaciółce."
 
 # game/day145.rpy:2835
 translate polish day145_r_b_l_m_fucking_a5c201d4:
@@ -7712,7 +7712,7 @@ translate polish day145_r_b_l_m_fucking_74127fe2:
 translate polish day145_r_b_l_m_fucking_1ebd483c:
 
     # "{i}[m_name] and [b_name] help your youngest wife, your cock probing against her entrance."
-    ""
+    "{i}[m_name] i [b_name] pomagają swojej najmłodszej żonie, a twój kutas sonduje jej wejście."
 
 # game/day145.rpy:2869
 translate polish day145_r_b_l_m_fucking_de8ea2a8:
@@ -7736,7 +7736,7 @@ translate polish day145_r_b_l_m_fucking_3ce9ce6f:
 translate polish day145_r_b_l_m_fucking_8d910ee6:
 
     # r "Oooh, mmmm, he feels so good inside me!"
-    r ""
+    r "Oooh mmmm on czuje się tak dobrze we mnie!"
 
 # game/day145.rpy:2875
 translate polish day145_r_b_l_m_fucking_9848a15f:
@@ -7778,7 +7778,7 @@ translate polish day145_r_b_l_m_fucking_a15afc47:
 translate polish day145_r_b_l_m_fucking_50d004d5:
 
     # "{i}[m_name] is playing absentmindedly with her big breasts while she fingers herself and you're overcome with a sudden desire to bury your cock in her cunt."
-    ""
+    "{i}[m_name] bawi się bezmyślnie swoimi dużymi piersiami, podczas gdy ona się palcuje, a ty ogarnia nagłe pragnienie zakopania swojego kutasa w jej cipie."
 
 # game/day145.rpy:2911
 translate polish day145_r_b_l_m_fucking_f5853444:
@@ -7802,7 +7802,7 @@ translate polish day145_r_b_l_m_fucking_76cb8233:
 translate polish day145_r_b_l_m_fucking_e9435315:
 
     # "{i}[r_name] kisses her older friend, while [b_name] massages her butt, spreading the cheeks to reveal [m_name]'s asshole."
-    ""
+    "{i}[r_name] całuje swoją starszą przyjaciółkę, podczas gdy [b_name] masuje jej tyłek, rozchylając policzki, aby odsłonić tyłek [m_name]."
 
 # game/day145.rpy:2925
 translate polish day145_r_b_l_m_fucking_52342603:
@@ -7820,7 +7820,7 @@ translate polish day145_r_b_l_m_fucking_52b5b991:
 translate polish day145_r_b_l_m_fucking_f727171f:
 
     # b "Is he fucking you right, [m_name]?"
-    b ""
+    b "Czy on cię pieprzy, prawda [m_name]?"
 
 # game/day145.rpy:2930
 translate polish day145_r_b_l_m_fucking_71e63f1a:
@@ -7838,7 +7838,7 @@ translate polish day145_r_b_l_m_fucking_5f038f87:
 translate polish day145_r_b_l_m_fucking_5f1e7045:
 
     # "{i}[m_name] rides you hard as she moans, the sound muffled by the tongue kisses from her youngest friend."
-    ""
+    "{i}[m_name] ujeżdża cię mocno, jęcząc, a dźwięk jest tłumiony przez pocałunki z języczkiem jej najmłodszej przyjaciółki."
 
 # game/day145.rpy:2943
 translate polish day145_r_b_l_m_fucking_35726197:
@@ -7886,7 +7886,7 @@ translate polish day145_r_b_l_m_fucking_0649e39a:
 translate polish day145_r_b_l_m_fucking_a9ed4bfb:
 
     # "{i}[b_name] drops to her knees as Adriana directs the girl's head towards your cock."
-    ""
+    "{i}[b_name] opada na kolana, gdy Adriana kieruje głowę dziewczyny w stronę twojego kutasa."
 
 # game/day145.rpy:2964
 translate polish day145_r_b_l_m_fucking_858d84f5:
@@ -8036,7 +8036,7 @@ translate polish day145_r_b_l_m_fucking_73dd916d:
 translate polish day145_r_b_l_m_fucking_56650fbf:
 
     # "{i}As you're fucking Adriana, you hear [r_name] moaning loudly and you notice her sitting on [l_name]'s head, her tongue working vigorously on her younger friend's cunt."
-    ""
+    "{i}Kiedy pieprzysz Adrianę, słyszysz, jak [r_name] głośno jęczy i zauważasz, że siedzi na głowie [l_name], a jej język energicznie pracuje nad cipą młodszej koleżanki."
 
 # game/day145.rpy:3009
 translate polish day145_r_b_l_m_fucking_0a4540c1:
@@ -8204,7 +8204,7 @@ translate polish day145_r_b_l_m_fucking_8cbc0dd3:
 translate polish day145_r_b_l_m_fucking_62c63597:
 
     # "{i}As your limping dick slides out of her, a torrent of cum follows and drips onto your body from the older woman's cunt."
-    ""
+    "{i}Gdy twój kulejący kutas wysuwa się z niej, strumień spermy podąża za nim i kapie na twoje ciało z cipy starszej kobiety."
 
 # game/day145.rpy:3117
 translate polish day145_r_b_l_m_fucking_0b5da783:
@@ -8270,7 +8270,7 @@ translate polish day145_r_b_m_sex_264c4dbc:
 translate polish day145_r_b_m_sex_958cc760:
 
     # r "He's already hard, [m_name]."
-    r ""
+    r "On już jest twardy [m_name]"
 
 # game/day145.rpy:3177
 translate polish day145_r_b_m_sex_9c550d62:
@@ -8312,7 +8312,7 @@ translate polish day145_r_b_m_sex_695270e3:
 translate polish day145_r_b_m_sex_ece61f38:
 
     # "{i}[m_name] has taken her place on [b_name]'s face, who's hard at work between her legs."
-    ""
+    "{i}[m_name] zajęła miejsce na twarzy [b_name], który ciężko pracuje między jej nogami."
 
 # game/day145.rpy:3192
 translate polish day145_r_b_m_sex_10073255:
@@ -8330,7 +8330,7 @@ translate polish day145_r_b_m_sex_a57278e5:
 translate polish day145_r_b_m_sex_ac80a89b:
 
     # "{i}[b_name]'s face is buried deeply in the older woman's cunt and her tongue is sliding greedily across her labia."
-    ""
+    "{i}[b_name] ma twarz głęboko zanurzoną w cipie starszej kobiety, a jej język chciwie przesuwa się po jej wargach sromowych."
 
 # game/day145.rpy:3198
 translate polish day145_r_b_m_sex_b741edb7:
@@ -8348,7 +8348,7 @@ translate polish day145_r_b_m_fucking_bd7f5f0d:
 translate polish day145_r_b_m_fucking_78a2f536:
 
     # "{i}[b_name] is still tongue-fucking [m_name] when you approach her, but with [r_name]'s help you manage to split both women apart."
-    ""
+    "{i}[b_name] wciąż pieprzy się z [m_name], gdy do niej podchodzisz, ale z pomocą [r_name] udaje ci się rozdzielić obie kobiety."
 
 # game/day145.rpy:3214
 translate polish day145_r_b_m_fucking_bd750635:
@@ -8360,7 +8360,7 @@ translate polish day145_r_b_m_fucking_bd750635:
 translate polish day145_r_b_m_fucking_7fb69bba:
 
     # "{i}With her [r_name]'s help, [b_name] positions herself before you, ass upward."
-    ""
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
 
 # game/day145.rpy:3218
 translate polish day145_r_b_m_fucking_8f135db3:
@@ -8384,7 +8384,7 @@ translate polish day145_r_b_m_fucking_88c3f533:
 translate polish day145_r_b_m_fucking_4fe1f602:
 
     # "{i}[m_name] is fingering herself while you begin fucking your other wife with bold thrusts."
-    ""
+    "{i}[m_name] pieści się, podczas gdy ty zaczynasz pieprzyć swoją drugą żonę śmiałymi pchnięciami."
 
 # game/day145.rpy:3225
 translate polish day145_r_b_m_fucking_4ac85c47:
@@ -8456,7 +8456,7 @@ translate polish day145_r_b_m_fucking_3ce9ce6f:
 translate polish day145_r_b_m_fucking_8d910ee6:
 
     # r "Oooh, mmmm, he feels so good inside me!"
-    r ""
+    r "Oooh mmmm on czuje się tak dobrze we mnie!"
 
 # game/day145.rpy:3258
 translate polish day145_r_b_m_fucking_9848a15f:
@@ -8498,7 +8498,7 @@ translate polish day145_r_b_m_fucking_a15afc47:
 translate polish day145_r_b_m_fucking_50d004d5:
 
     # "{i}[m_name] is playing absentmindedly with her big breasts while she fingers herself and you're overcome with a sudden desire to bury your cock in her cunt."
-    ""
+    "{i}[m_name] bawi się bezmyślnie swoimi dużymi piersiami, podczas gdy ona się palcuje, a ty ogarnia nagłe pragnienie zakopania swojego kutasa w jej cipie."
 
 # game/day145.rpy:3279
 translate polish day145_r_b_m_fucking_f5853444:
@@ -8522,7 +8522,7 @@ translate polish day145_r_b_m_fucking_76cb8233:
 translate polish day145_r_b_m_fucking_e9435315:
 
     # "{i}[r_name] kisses her older friend, while [b_name] massages her butt, spreading the cheeks to reveal [m_name]'s asshole."
-    ""
+    "{i}[r_name] całuje swoją starszą przyjaciółkę, podczas gdy [b_name] masuje jej tyłek, rozchylając policzki, aby odsłonić tyłek [m_name]."
 
 # game/day145.rpy:3293
 translate polish day145_r_b_m_fucking_52342603:
@@ -8540,7 +8540,7 @@ translate polish day145_r_b_m_fucking_52b5b991:
 translate polish day145_r_b_m_fucking_f727171f:
 
     # b "Is he fucking you right, [m_name]?"
-    b ""
+    b "Czy on cię pieprzy, prawda [m_name]?"
 
 # game/day145.rpy:3298
 translate polish day145_r_b_m_fucking_71e63f1a:
@@ -8558,7 +8558,7 @@ translate polish day145_r_b_m_fucking_5f038f87:
 translate polish day145_r_b_m_fucking_5f1e7045:
 
     # "{i}[m_name] rides you hard as she moans, the sound muffled by the tongue kisses from her youngest friend."
-    ""
+    "{i}[m_name] ujeżdża cię mocno, jęcząc, a dźwięk jest tłumiony przez pocałunki z języczkiem jej najmłodszej przyjaciółki."
 
 # game/day145.rpy:3311
 translate polish day145_r_b_m_fucking_35726197:
@@ -8606,7 +8606,7 @@ translate polish day145_r_b_m_fucking_0649e39a:
 translate polish day145_r_b_m_fucking_a9ed4bfb:
 
     # "{i}[b_name] drops to her knees as Adriana directs the girl's head towards your cock."
-    ""
+    "{i}[b_name] opada na kolana, gdy Adriana kieruje głowę dziewczyny w stronę twojego kutasa."
 
 # game/day145.rpy:3333
 translate polish day145_r_b_m_fucking_858d84f5:
@@ -8756,7 +8756,7 @@ translate polish day145_r_b_m_fucking_3c87e2a3:
 translate polish day145_r_b_m_fucking_2df4a72a:
 
     # "{i}As you're fucking Adriana, you hear [r_name] moaning loudly and you notice her sitting on [m_name]'s head, her tongue working vigorously on her older friend's cunt."
-    ""
+    "{i}Kiedy pieprzysz Adrianę, słyszysz, jak [r_name] głośno jęczy i zauważasz, że siedzi na głowie [m_name], a jej język energicznie pracuje nad cipą starszej koleżanki."
 
 # game/day145.rpy:3378
 translate polish day145_r_b_m_fucking_0a4540c1:
@@ -8888,7 +8888,7 @@ translate polish day145_r_b_m_fucking_8cbc0dd3:
 translate polish day145_r_b_m_fucking_62c63597:
 
     # "{i}As your limping dick slides out of her, a torrent of cum follows and drips onto your body from the older woman's cunt."
-    ""
+    "{i}Gdy twój kulejący kutas wysuwa się z niej, strumień spermy podąża za nim i kapie na twoje ciało z cipy starszej kobiety."
 
 # game/day145.rpy:3462
 translate polish day145_r_b_m_fucking_0b5da783:
@@ -8984,7 +8984,7 @@ translate polish day145_r_b_l_sex_13e2c529:
 translate polish day145_r_b_l_sex_75772440:
 
     # "{i}[l_name] has taken her place on [b_name]'s face, who's hard at work between her legs."
-    ""
+    "{i}[l_name] zajęła miejsce na twarzy [b_name], który ciężko pracuje między jej nogami."
 
 # game/day145.rpy:3544
 translate polish day145_r_b_l_sex_55357086:
@@ -9008,7 +9008,7 @@ translate polish day145_r_b_l_fucking_6dea820f:
 translate polish day145_r_b_l_fucking_462ac722:
 
     # "{i}[b_name] is still tongue-fucking [l_name] when you approach her, but with [r_name]'s help you manage to split both women apart."
-    ""
+    "{i}[b_name] wciąż pieprzy się z [l_name], gdy do niej podchodzisz, ale z pomocą [r_name] udaje ci się rozdzielić obie kobiety."
 
 # game/day145.rpy:3561
 translate polish day145_r_b_l_fucking_bd750635:
@@ -9020,7 +9020,7 @@ translate polish day145_r_b_l_fucking_bd750635:
 translate polish day145_r_b_l_fucking_7fb69bba:
 
     # "{i}With her [r_name]'s help, [b_name] positions herself before you, ass upward."
-    ""
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
 
 # game/day145.rpy:3565
 translate polish day145_r_b_l_fucking_8f135db3:
@@ -9044,7 +9044,7 @@ translate polish day145_r_b_l_fucking_f803f81b:
 translate polish day145_r_b_l_fucking_5f209577:
 
     # "{i}[l_name] is fingering herself while you begin fucking your other wife with bold thrusts."
-    ""
+    "{i}[l_name] pieści się, podczas gdy ty zaczynasz pieprzyć swoją drugą żonę śmiałymi pchnięciami."
 
 # game/day145.rpy:3572
 translate polish day145_r_b_l_fucking_4ac85c47:
@@ -9092,7 +9092,7 @@ translate polish day145_r_b_l_fucking_ff0ab25c:
 translate polish day145_r_b_l_fucking_5661bc09:
 
     # "{i}[l_name] is still on top of [b_name], whose face is covered in pussy juice after working on her friend's slit for so long."
-    ""
+    "{i}[l_name] wciąż znajduje się na górze [b_name], której twarz jest pokryta sokami z cipki po tak długiej pracy nad cipką przyjaciółki."
 
 # game/day145.rpy:3595
 translate polish day145_r_b_l_fucking_0cde55bd:
@@ -9212,7 +9212,7 @@ translate polish day145_r_b_l_fucking_3ce9ce6f:
 translate polish day145_r_b_l_fucking_8d910ee6:
 
     # r "Oooh, mmmm, he feels so good inside me!"
-    r ""
+    r "Oooh mmmm on czuje się tak dobrze we mnie!"
 
 # game/day145.rpy:3652
 translate polish day145_r_b_l_fucking_97410cc5:
@@ -9410,7 +9410,7 @@ translate polish day145_r_b_sex_029bed51:
 translate polish day145_r_b_sex_3a5befca:
 
     # "{i}As soon as her older friend has lowered her head towards her pussy, [r_name] crosses her legs and lets out a sigh of contentment."
-    ""
+    "{i}Gdy tylko jej starsza koleżanka opuściła głowę w kierunku swojej cipki, [r_name] skrzyżowała nogi i wydała z siebie westchnienie zadowolenia."
 
 # game/day145.rpy:3779
 translate polish day145_r_b_sex_1afaf378:
@@ -9458,7 +9458,7 @@ translate polish day145_r_b_fucking_bd750635:
 translate polish day145_r_b_fucking_7fb69bba:
 
     # "{i}With her [r_name]'s help, [b_name] positions herself before you, ass upward."
-    ""
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
 
 # game/day145.rpy:3810
 translate polish day145_r_b_fucking_8f135db3:
@@ -9482,7 +9482,7 @@ translate polish day145_r_b_fucking_6ff32908:
 translate polish day145_r_b_fucking_f9ce7d4c:
 
     # "{i}[r_name] is looking at you intently while you begin fucking your other wife with bold thrusts."
-    ""
+    "{i}[r_name] patrzy na ciebie uważnie, podczas gdy ty zaczynasz pieprzyć swoją drugą żonę śmiałymi pchnięciami."
 
 # game/day145.rpy:3825
 translate polish day145_r_b_fucking_4ac85c47:
@@ -9680,7 +9680,7 @@ translate polish day145_m_sex_a5a92c39:
 translate polish day145_m_sex_407d6dbb:
 
     # "{i}Seeing [m_name] fully undressed, standing naked before you is another reminder why marrying her was a great decision."
-    ""
+    "{i}Widok [m_name] w pełni rozebranej, stojącej przed tobą nago, to kolejne przypomnienie, dlaczego poślubienie jej było świetną decyzją."
 
 # game/day145.rpy:4001
 translate polish day145_m_sex_2742513e:
@@ -9698,7 +9698,7 @@ translate polish day145_m_sex_c0881582:
 translate polish day145_m_sex_c15fb41f:
 
     # "{i}Lowering your head you proceed to give your wife's tits the attention they deserve."
-    ""
+    "{i}Opuszczając głowę, zacząłeś poświęcać cyckom swojej żony uwagę, na jaką zasługują."
 
 # game/day145.rpy:4006
 translate polish day145_m_sex_19292f6a:
@@ -9740,7 +9740,7 @@ translate polish day145_m_sex_45dfd622:
 translate polish day145_m_sex_b4f6883d:
 
     # "{i}Your wife wedges your cock between her large breasts and lets a string of saliva drop from her mouth on the tip."
-    ""
+    "{i}Twoja żona zaklinowała twojego kutasa między swoimi dużymi piersiami i pozwoliła, aby sznur śliny spadł z jej ust na czubek."
 
 # game/day145.rpy:4023
 translate polish day145_m_sex_95f3157f:
@@ -9830,7 +9830,7 @@ translate polish day145_m_sex_be4d8198:
 translate polish day145_m_sex_f22ddf5f:
 
     # "{i}Your wife's cunt feels warm and wet as your entire length slides through her ribbed tunnel."
-    ""
+    "{i}Cipa twojej żony jest ciepła i mokra, gdy cała twoja długość wsuwa się w jej żebrowany tunel."
 
 # game/day145.rpy:4055
 translate polish day145_m_sex_4c2df5a8:
@@ -9860,7 +9860,7 @@ translate polish day145_m_sex_e25f938b:
 translate polish day145_m_sex_02e852f8:
 
     # "{i}Arching her back, your girlfriend fingers her pussy."
-    ""
+    "{i}Wyginając plecy, twoja dziewczyna palcuje swoją cipkę"
 
 # game/day145.rpy:4070
 translate polish day145_m_sex_3011127b:
@@ -9908,7 +9908,7 @@ translate polish day145_m_sex_a34e5682:
 translate polish day145_m_sex_1e98ff71:
 
     # "{i}Helpless beneath [m_name]'s naked body, your cock twitches and releases a stream of cum."
-    ""
+    "{i}Bezradny pod nagim ciałem [m_name], twój kutas drga i uwalnia strumień spermy."
 
 # game/day145.rpy:4093
 translate polish day145_m_sex_f74c3d44:
@@ -9926,7 +9926,7 @@ translate polish day145_m_sex_194d69a3:
 translate polish day145_m_sex_6772bf20:
 
     # "{i}Helpless beneath [m_name]'s naked body, she rips your cock from her slit as it begins to twitch."
-    ""
+    "{i}Bezradna pod nagim ciałem [m_name] wyrywa twojego kutasa z jej szczeliny, gdy zaczyna drgać."
 
 # game/day145.rpy:4111
 translate polish day145_m_sex_9708843d:
@@ -9956,7 +9956,7 @@ translate polish day145_m_sex_db68d490:
 translate polish day145_m_sex_1e405bc0:
 
     # "{i}While you trace the curves of your wife's body, you lie next to each other for a while in silence."
-    ""
+    "{i}Podczas gdy śledzisz krzywizny ciała swojej żony, leżycie obok siebie przez chwilę w ciszy."
 
 # game/day145.rpy:4143
 translate polish day145_b_sex_1c67b8b8:
@@ -10022,7 +10022,7 @@ translate polish day145_b_sex_55377593:
 translate polish day145_b_sex_f28fbd6f:
 
     # "{i}By now your wife is so wet, you really want to taste her juices and you guide her down to the ground."
-    ""
+    "{i}Do tej pory twoja żona jest tak mokra, że naprawdę chcesz spróbować jej soków i prowadzisz ją na ziemię."
 
 # game/day145.rpy:4166
 translate polish day145_b_sex_9a49a1bf:
@@ -10100,7 +10100,7 @@ translate polish day145_b_sex_757b74b0:
 translate polish day145_b_sex_0a3d41c1:
 
     # "{i}When you feel her muscles contract, you know you've struck gold, moments later [b_name] squirts ecstatically in your face."
-    ""
+    "{i}Kiedy czujesz, jak jej mięśnie się kurczą, wiesz, że trafiłeś w dziesiątkę, a chwilę później [b_name] tryska ci ekstatycznie w twarz."
 
 # game/day145.rpy:4199
 translate polish day145_b_sex_2dcdedbb:
@@ -10136,7 +10136,7 @@ translate polish day145_b_sex_b7b03a33:
 translate polish day145_b_sex_7201ab77:
 
     # "{i}It takes a long while for your wife to recover, but when she does, she's up on her feet in no time."
-    ""
+    "{i}Żona długo dochodzi do siebie, ale kiedy to zrobi, błyskawicznie staje na nogi."
 
 # game/day145.rpy:4212
 translate polish day145_b_sex_3c8c2151:
@@ -10172,7 +10172,7 @@ translate polish day145_b_sex_e6f6bf52:
 translate polish day145_b_sex_61352dee:
 
     # "{i}Knowing what you like, your girl alternates between intense suction and tender licking of your cock."
-    ""
+    "{i}Wiedząc, co lubisz, twoja dziewczyna na przemian intensywnie ssie i delikatnie liże twojego kutasa"
 
 # game/day145.rpy:4228
 translate polish day145_b_sex_f12d6da3:
@@ -10256,7 +10256,7 @@ translate polish day145_b_sex_58e0f8e1:
 translate polish day145_b_sex_91d685be:
 
     # "{i}Looking innocently upwards to you, your wife takes your cock out of her mouth."
-    ""
+    "{i}Patrząc niewinnie w górę na ciebie, twoja żona wyjmuje twojego kutasa z ust."
 
 # game/day145.rpy:4251
 translate polish day145_b_sex_93110723:
@@ -10334,7 +10334,7 @@ translate polish day145_b_sex_087e7850:
 translate polish day145_b_sex_e247b71c:
 
     # "{i}Holding your girl tight, you slam your cock over and over into her pussy, her ass slapping against your abdomen."
-    ""
+    "{i}Trzymając mocno swoją dziewczynę, wbijasz swojego kutasa w jej cipkę, a jej tyłek uderza o twój brzuch."
 
 # game/day145.rpy:4284
 translate polish day145_b_sex_22055d65:
@@ -10352,7 +10352,7 @@ translate polish day145_b_sex_2ff49036:
 translate polish day145_b_sex_b22d0568:
 
     # "{i}Holding your girl tight, you bury your cock in her pussy, the soft flesh of her ass hitting against your abdomen."
-    ""
+    "{i}Trzymając mocno swoją dziewczynę, zakopujesz swojego kutasa w jej cipce, a miękkie ciało jej tyłka uderza o twój brzuch."
 
 # game/day145.rpy:4291
 translate polish day145_b_sex_0ed90edc:
@@ -10394,7 +10394,7 @@ translate polish day145_b_sex_728de30c:
 translate polish day145_b_sex_4be3c60e:
 
     # "{i}Caressing her tight, swollen belly you continue to make love to your wife, until you're at the point of no return."
-    ""
+    "{i}Pieszcząc jej ciasny, nabrzmiały brzuch, kontynuujesz kochanie się z żoną, dopóki nie osiągniesz punktu bez powrotu."
 
 # game/day145.rpy:4313
 translate polish day145_b_sex_f8ef8397:
@@ -10406,7 +10406,7 @@ translate polish day145_b_sex_f8ef8397:
 translate polish day145_b_sex_091eba02:
 
     # "{i}Caressing her breasts, you continue to make love to your wife, until you're at the point of no return."
-    ""
+    "{i}Pieszcząc jej piersi, nadal kochasz się ze swoją żoną, dopóki nie osiągniesz punktu bez powrotu."
 
 # game/day145.rpy:4320
 translate polish day145_b_sex_53b4103b:
@@ -10478,7 +10478,7 @@ translate polish day145_l_sex_9fa16ac2:
 translate polish day145_l_sex_ad4772c6:
 
     # "{i}You walk towards your wife, locking your eyes with her, and hold her."
-    ""
+    "{i}Podchodzisz do swojej żony, zamykasz oczy i przytulasz ją."
 
 # game/day145.rpy:4380
 translate polish day145_l_sex_5979dfcd:
@@ -10622,7 +10622,7 @@ translate polish day145_l_sex_98189c81:
 translate polish day145_l_sex_065265a8:
 
     # "{i}[l_name] gasps as your veined shaft is buried deeply into her vagina."
-    ""
+    "{i}[l_name] sapie, gdy twój żylasty trzon zagłębia się głęboko w jej pochwie."
 
 # game/day145.rpy:4430
 translate polish day145_l_sex_4d379e8f:
@@ -10682,7 +10682,7 @@ translate polish day145_l_sex_3af3ef5e:
 translate polish day145_l_sex_7782b45e:
 
     # "{i}As you pull out, [l_name] remains upright, cum dripping slowly from her pussy."
-    ""
+    "{i}Kiedy wyciągasz [l_name] pozostaje w pozycji pionowej, sperma powoli kapie z jej cipki."
 
 # game/day145.rpy:4468
 translate polish day145_l_sex_15db9baa:
@@ -10778,7 +10778,7 @@ translate polish day145_r_sex_49a30282:
 translate polish day145_r_sex_9ae6222c:
 
     # "{i}Ana eases your wife onto the sand and parts her legs, while Alina gingerly drops to her knees."
-    ""
+    "{i}Ana kładzie twoją żonę na piasku i rozchyla jej nogi, podczas gdy Alina ostrożnie opada na kolana."
 
 # game/day145.rpy:4523
 translate polish day145_r_sex_2f5975cf:
@@ -10790,7 +10790,7 @@ translate polish day145_r_sex_2f5975cf:
 translate polish day145_r_sex_d0d4a58c:
 
     # "{i}[r_name]'s body is triggered as soon as Alina touches her cunt with the tip of her tongue, she didn't lie about craving sex."
-    ""
+    "{i}[r_name] ciało wyzwala się, gdy tylko Alina dotyka jej cipki czubkiem języka, nie kłamała, że pragnie seksu."
 
 # game/day145.rpy:4526
 translate polish day145_r_sex_17cfecbe:
@@ -10940,7 +10940,7 @@ translate polish day145_r_sex_df80a9e7:
 translate polish day145_r_sex_2f3df109:
 
     # "{i}Alina and [r_name] have changed places, so that your wife can watch you fucking her friend."
-    ""
+    "{i}Alina i [r_name] zamieniły się miejscami, aby twoja żona mogła patrzeć, jak pieprzysz się z jej przyjaciółką."
 
 # game/day145.rpy:4569
 translate polish day145_r_sex_53c90fe0:
@@ -11006,7 +11006,7 @@ translate polish day145_r_sex_69147a33:
 translate polish day145_r_sex_0501d4ef:
 
     # "{i}Your wife looks upwards at you, feasting her eyes on Ana, firmly planted on your cock."
-    ""
+    "{i}Twoja żona spogląda na ciebie z góry, wpatrując się w Anę mocno osadzoną na twoim kutasie."
 
 # game/day145.rpy:4591
 translate polish day145_r_sex_ef4d70ff:
@@ -11072,7 +11072,7 @@ translate polish day145_r_sex_bb7b92bc:
 translate polish day145_r_sex_f46d1a1a:
 
     # "{i}Carefully prepared by Alina, you slip in easily and fuck your wife's pussy with all you've got."
-    ""
+    "{i}Starannie przygotowany przez Alinę, z łatwością wślizgniesz się i zerżniesz cipkę swojej żony ze wszystkim, co masz."
 
 # game/day145.rpy:4615
 translate polish day145_r_sex_15d4ff4e:
@@ -11180,7 +11180,7 @@ translate polish day145_r_sex_e12a8999:
 translate polish day145_r_sex_31dd5079:
 
     # "{i}You ease your wife onto the sand and part her legs, while Alina gingerly drops to her knees."
-    ""
+    "{i}Kładziesz żonę na piasku i rozchylasz jej nogi, podczas gdy Alina ostrożnie opada na kolana."
 
 # game/day145.rpy:4656
 translate polish day145_r_sex_2f5975cf_1:
@@ -11192,7 +11192,7 @@ translate polish day145_r_sex_2f5975cf_1:
 translate polish day145_r_sex_d0d4a58c_1:
 
     # "{i}[r_name]'s body is triggered as soon as Alina touches her cunt with the tip of her tongue, she didn't lie about craving sex."
-    ""
+    "{i}[r_name] ciało wyzwala się, gdy tylko Alina dotyka jej cipki czubkiem języka, nie kłamała, że pragnie seksu."
 
 # game/day145.rpy:4659
 translate polish day145_r_sex_17cfecbe_1:
@@ -11330,7 +11330,7 @@ translate polish day145_r_sex_bb7b92bc_1:
 translate polish day145_r_sex_f46d1a1a_1:
 
     # "{i}Carefully prepared by Alina, you slip in easily and fuck your wife's pussy with all you've got."
-    ""
+    "{i}Starannie przygotowany przez Alinę, z łatwością wślizgniesz się i zerżniesz cipkę swojej żony ze wszystkim, co masz."
 
 # game/day145.rpy:4699
 translate polish day145_r_sex_36fc8735:
@@ -11384,7 +11384,7 @@ translate polish day145_r_sex_8857470b:
 translate polish day145_r_sex_244a4d5d:
 
     # "{i}Alina and [r_name] are on the ground again, her mouth firmly between your wife's ass cheeks, licking fervently."
-    ""
+    "{i}Alina i [r_name] znów leżą na ziemi, jej usta są mocno między policzkami twojej żony, liżąc je żarliwie."
 
 # game/day145.rpy:4718
 translate polish day145_r_sex_c2867fab_1:
@@ -11402,7 +11402,7 @@ translate polish day145_r_sex_0d68cdb8:
 translate polish day145_r_sex_926afb79:
 
     # "{i}Your wife looks upwards at you, feasting her eyes on you stroking your hard cock."
-    ""
+    "{i}Twoja żona spogląda na ciebie z góry, wpatrując się w ciebie i głaszcząc twojego twardego kutasa."
 
 # game/day145.rpy:4723
 translate polish day145_r_sex_155f6aa1:
@@ -11510,7 +11510,7 @@ translate polish day145_r_sex_49a319f7:
 translate polish day145_r_sex_a83aeeca:
 
     # "{i}You ease your wife onto the sand and part her legs, while Ana gingerly drops to her knees."
-    ""
+    "{i}Kładziesz żonę na piasku i rozchylasz jej nogi, podczas gdy Ana ostrożnie opada na kolana."
 
 # game/day145.rpy:4764
 translate polish day145_r_sex_3c8f0645:
@@ -11522,7 +11522,7 @@ translate polish day145_r_sex_3c8f0645:
 translate polish day145_r_sex_fbca9587:
 
     # "{i}[r_name]'s body is triggered as soon as Ana touches her cunt with the tip of her tongue, she didn't lie about craving sex."
-    ""
+    "{i}Ciało [r_name] uruchamia się, gdy tylko Ana dotknie jej cipki czubkiem języka, nie kłamała, że pragnie seksu."
 
 # game/day145.rpy:4767
 translate polish day145_r_sex_17cfecbe_2:
@@ -11708,7 +11708,7 @@ translate polish day145_r_sex_e04d37a4:
 translate polish day145_r_sex_ed9e231b:
 
     # "{i}Carefully prepared by Ana, you slip in easily and fuck your wife's pussy with all you've got."
-    ""
+    "{i}Starannie przygotowany przez Anę, z łatwością wślizgujesz się i pieprzysz cipkę swojej żony wszystkim, co masz."
 
 # game/day145.rpy:4821
 translate polish day145_r_sex_4eaf617b:
@@ -11780,7 +11780,7 @@ translate polish day145_r_sex_6e5d51fd:
 translate polish day145_r_sex_90188e13:
 
     # "{i}You ease your wife onto the sand and part her legs, before dropping to your knees."
-    ""
+    "{i}Kładziesz żonę na piasku i rozchylasz jej nogi, po czym padasz na kolana."
 
 # game/day145.rpy:4850
 translate polish day145_r_sex_f41939d4:
@@ -11792,7 +11792,7 @@ translate polish day145_r_sex_f41939d4:
 translate polish day145_r_sex_4338d8b7:
 
     # "{i}[r_name]'s body is triggered as soon as you touch her cunt with the tip of your tongue, she didn't lie about craving sex."
-    ""
+    "{i}Ciało [r_name] uruchamia się, gdy tylko dotkniesz jej cipki czubkiem języka, nie kłamała, że pragnie seksu."
 
 # game/day145.rpy:4857
 translate polish day145_r_sex_17cfecbe_3:
@@ -12020,7 +12020,7 @@ translate polish day145_r_sex_4f406158:
 translate polish day145_r_sex_ad405d56:
 
     # "{i}You hold your naked girlfriend, your wife, lovingly in your arms as you listen to the sound of lapping waves."
-    ""
+    "{i}Trzymasz swoją nagą dziewczynę i żonę w ramionach, słuchając szumu fal."
 
 # game/day145.rpy:4989
 translate polish day145_ri_sex_25853e63:
@@ -12590,371 +12590,539 @@ translate polish strings:
     old "Mayor"
     new "Burmistrz"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2022-03-29 13:33
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day145.rpy:3216
-translate polish day145_r_b_m_fucking_2ae424a2:
-
-    # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
-    "{i}Z pomocą Rachel, Bella ustawia się przed tobą, tyłkiem do góry."
-
-# game/day145.rpy:3563
-translate polish day145_r_b_l_fucking_2ae424a2:
-
-    # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
-    "{i}Z pomocą Rachel, Bella ustawia się przed tobą, tyłkiem do góry."
-
-# game/day145.rpy:3800
-translate polish day145_r_b_fucking_2ae424a2:
-
-    # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
-    "{i}Z pomocą Rachel, Bella ustawia się przed tobą, tyłkiem do góry."
-
-# TODO: Translation updated at 2023-04-17 12:10
-
-# game/day145.rpy:256
+# game/day145.rpy:267
 translate polish day145_choices_8e3e375e_2:
 
     # j "To a smoking hot chick, no less!"
-    j "Do gorącej laski nie mniej!"
+    j "I to z gorącą laską!"
 
-# game/day145.rpy:800
+# game/day145.rpy:829
 translate polish day145_mi_s_sa_conversation_36c69888:
 
     # n "Sure, but fucking around with interesting people is very much included in the wedding vows."
-    n "Jasne, ale ruchanie się z ciekawymi ludźmi jest jak najbardziej wpisane w przysięgę ślubną"
+    n "Jasne, ale pieprzenie się z interesującymi ludźmi jest jak najbardziej uwzględnione w przysiędze ślubnej."
 
-# game/day145.rpy:1606
-translate polish day145_wedding_ceremony_2048af1c:
-
-    # b "I, [b_name], take you [p_name], to be my husband, to have and to hold from this day forward, for better or for worse, for richer, for poorer, in sickness and in health, to love and to cherish, until death do us part."
-    b "Ja [b_name] biorę ciebie [p_name] za męża, aby mieć i trzymać od tego dnia na dobre i na złe dla bogatszych dla biedniejszych w chorobie i w zdrowiu, aby kochać i pielęgnować, aż śmierć nas rozłączy"
-
-# game/day145.rpy:1618
-translate polish day145_wedding_ceremony_70eb66e8:
-
-    # man "Do you together promise you will love, cherish and respect one another throughout the years?"
-    man "Czy wspólnie obiecujecie, że będziecie się kochać pielęgnować i szanować przez wszystkie lata?."
-
-# game/day145.rpy:1790
-translate polish day145_wedding_feast_6f9086c8:
-
-    # m "I admit that the idea of you moving abroad took a long while to get accustomed to."
-    m "Przyznaję, że myśl o tym, że wyjeżdżasz za granicę, wymagała dłuższej chwili, by się z nią oswoić"
-
-# game/day145.rpy:1866
-translate polish day145_wedding_feast_f31aa21c:
-
-    # b "No, I'm genuinely happy for [r_name]."
-    b "Nie, jestem autentycznie szczęśliwy z powodu [r_name]"
-
-# game/day145.rpy:1869
-translate polish day145_wedding_feast_2193ab28:
-
-    # b "No, I'm genuinely happy for [l_name]."
-    b "Nie, jestem autentycznie szczęśliwy z powodu [l_name]."
-
-# game/day145.rpy:2224
-translate polish day145_dances_2269e02b:
-
-    # "{i}In order for you to be with your family, Riley and Iris have offered to join you at a later moment."
-    "{i}Abyś mógł być z rodziną Riley i Iris zaproponowali, że dołączą do ciebie w późniejszym czasie"
-
-# game/day145.rpy:2226
-translate polish day145_dances_3e88ce64:
-
-    # "{i}In order for you to be with your closest friends, Riley and Iris have offered to join you at a later moment."
-    "{i}Abyś mogła być z najbliższymi przyjaciółmi Riley i Iris zaproponowały, że dołączą do ciebie w późniejszym czasie"
-
-# game/day145.rpy:2229
-translate polish day145_dances_d579178e:
-
-    # "{i}In order for you to be with your family, Riley has offered to join you at a later moment."
-    "{i}Abyś mógł być z rodziną, Riley zaproponował, że dołączy do ciebie w późniejszym czasie."
-
-# game/day145.rpy:2231
-translate polish day145_dances_a209d938:
-
-    # "{i}In order for you to be with your closest friends, Riley has offered to join you at a later moment."
-    "{i}Abyście mogli być z najbliższymi przyjaciółmi, Riley zaproponował, że dołączy do was w późniejszym czasie."
-
-# game/day145.rpy:2234
-translate polish day145_dances_65f47445:
-
-    # "{i}In order for you to be with your family, Iris offered to join you at a later moment."
-    "{i}Abyś mógł być z rodziną Iris zaproponowała, że dołączy do ciebie w późniejszym czasie"
-
-# game/day145.rpy:2236
-translate polish day145_dances_20023a31:
-
-    # "{i}In order for you to be with your closest friends, Iris has offered to join you at a later moment."
-    "{i}Abyś mógł być z najbliższymi przyjaciółmi Iris zaproponowała, że dołączy do ciebie w późniejszym czasie"
-
-# game/day145.rpy:2799
-translate polish day145_r_b_l_m_fucking_885e7942:
-
-    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
-    "{i}[r_name] komentarze wyzwalają coś w tobie żarłoczną energię tuż na granicy rozładowania"
-
-# game/day145.rpy:2821
-translate polish day145_r_b_l_m_fucking_a110dc26:
-
-    # "{i}[m_name] accompanies her, whispering what must be very dirty words inside her ear, because her face flushes immediately."
-    "{i}[m_name] towarzyszy jej szepcząc do ucha bardzo sprośne słowa, bo jej twarz natychmiast się rumieni."
-
-# game/day145.rpy:2860
-translate polish day145_r_b_l_m_fucking_640d95ec:
-
-    # "{i}[m_name] and [b_name] help your youngest wife on top of you, your cock probing against her entrance."
-    "{i}[m_name] i [b_name] pomóż najmłodszej żonie na górze twój kutas sondował o jej wejście."
-
-# game/day145.rpy:3072
-translate polish day145_r_b_l_m_fucking_5491c271:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją siostrę, aż stanowczo przekroczysz próg samokontroli."
-
-# game/day145.rpy:3074
-translate polish day145_r_b_l_m_fucking_ea0df150:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją żonę, aż stanowczo przekroczysz próg samokontroli"
-
-# game/day145.rpy:3077
-translate polish day145_r_b_l_m_fucking_f8e7d29e:
-
-    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
-    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc montujesz siostrę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3079
-translate polish day145_r_b_l_m_fucking_617dc6b3:
-
-    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
-    "{i}Nie ma pytania, gdzie chcesz skończyć, więc montujesz żonę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3232
-translate polish day145_r_b_m_fucking_885e7942:
-
-    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
-    "{i}[r_name] komentarze wyzwalają coś w tobie żarłoczną energię tuż na granicy rozładowania"
-
-# game/day145.rpy:3243
-translate polish day145_r_b_m_fucking_640d95ec:
-
-    # "{i}[m_name] and [b_name] help your youngest wife on top of you, your cock probing against her entrance."
-    "{i}[m_name] i [b_name] pomóż najmłodszej żonie na górze twój kutas sondował o jej wejście."
-
-# game/day145.rpy:3417
-translate polish day145_r_b_m_fucking_5491c271:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją siostrę, aż stanowczo przekroczysz próg samokontroli."
-
-# game/day145.rpy:3419
-translate polish day145_r_b_m_fucking_ea0df150:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją żonę, aż stanowczo przekroczysz próg samokontroli"
-
-# game/day145.rpy:3422
-translate polish day145_r_b_m_fucking_f8e7d29e:
-
-    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
-    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc montujesz siostrę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3424
-translate polish day145_r_b_m_fucking_617dc6b3:
-
-    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
-    "{i}Nie ma pytania, gdzie chcesz skończyć, więc montujesz żonę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3544
-translate polish day145_r_b_l_sex_51840c80:
-
-    # "{i}Too far out to even notice you're getting so thoroughly sucked, she pulls [b_name] further towards her dripping wet slit by her hair."
-    "{i}Zbyt daleko, by nawet zauważyć, że jesteś tak dokładnie obciągany ona ciągnie [b_name] dalej w kierunku swojej ociekającej wilgocią szczeliny za włosy"
-
-# game/day145.rpy:3598
-translate polish day145_r_b_l_fucking_a31b6260:
-
-    # "{i}[r_name] accompanies her, whispering what must be very dirty words inside her ear, because her face flushes immediately."
-    "{i}[r_name] towarzyszy jej szepcząc do ucha bardzo sprośne słowa, bo jej twarz natychmiast się rumieni."
-
-# game/day145.rpy:3626
-translate polish day145_r_b_l_fucking_885e7942_1:
-
-    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
-    "{i}[r_name] komentarze wyzwalają coś w tobie żarłoczną energię tuż na granicy rozładowania"
-
-# game/day145.rpy:3637
-translate polish day145_r_b_l_fucking_07e04e3e:
-
-    # "{i}[l_name] and [b_name] help your youngest wife on top of you, your cock probing against her entrance."
-    "{i}[l_name] i [b_name] pomóż najmłodszej żonie na górze twój kutas sondował o jej wejście."
-
-# game/day145.rpy:3709
-translate polish day145_r_b_l_fucking_5491c271:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją siostrę, aż stanowczo przekroczysz próg samokontroli."
-
-# game/day145.rpy:3711
-translate polish day145_r_b_l_fucking_ea0df150:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją żonę, aż stanowczo przekroczysz próg samokontroli"
-
-# game/day145.rpy:3714
-translate polish day145_r_b_l_fucking_f8e7d29e:
-
-    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
-    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc montujesz siostrę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3716
-translate polish day145_r_b_l_fucking_617dc6b3:
-
-    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
-    "{i}Nie ma pytania, gdzie chcesz skończyć, więc montujesz żonę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3832
-translate polish day145_r_b_fucking_885e7942:
-
-    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
-    "{i}[r_name] komentarze wyzwalają coś w tobie żarłoczną energię tuż na granicy rozładowania"
-
-# game/day145.rpy:3843
-translate polish day145_r_b_fucking_6f0caf45:
-
-    # "{i}[b_name] helps your youngest wife on top of you, your cock probing against her entrance."
-    "{i}[b_name] pomaga twojej najmłodszej żonie na górze twój kutas sondujący o jej wejściu"
-
-# game/day145.rpy:3892
-translate polish day145_r_b_fucking_5491c271:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją siostrę, aż stanowczo przekroczysz próg samokontroli."
-
-# game/day145.rpy:3894
-translate polish day145_r_b_fucking_ea0df150:
-
-    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
-    "{i}Nie ma mowy o tym, gdzie chcesz skończyć, więc dalej pieprzysz swoją żonę, aż stanowczo przekroczysz próg samokontroli"
-
-# game/day145.rpy:3897
-translate polish day145_r_b_fucking_f8e7d29e:
-
-    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
-    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc montujesz siostrę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:3899
-translate polish day145_r_b_fucking_617dc6b3:
-
-    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
-    "{i}Nie ma pytania, gdzie chcesz skończyć, więc montujesz żonę ponownie i natychmiast tracisz wszelką samokontrolę"
-
-# game/day145.rpy:4067
-translate polish day145_m_sex_5022235a:
-
-    # "{i}Arching her back, your mother fingers her pussy."
-    "{i}Wyginając plecy twoja matka palcuje jej cipkę"
-
-# game/day145.rpy:4435
-translate polish day145_l_sex_4da87830:
-
-    # "{i}Her dangling tits are too luscious not to be fondled and touched, so while you're fucking her with ever increasing intensity, you massage her breasts."
-    "{i}Jej dyndające cycki są zbyt soczyste, by nie być pieszczonym i dotykanym, więc podczas gdy pieprzysz ją z coraz większą intensywnością, masujesz jej piersi"
-
-# game/day145.rpy:4711
-translate polish day145_r_sex_235b85fe:
-
-    # "{i}Alina and [r_name] are on the ground again, Alina's mouth firmly between your sister's ass cheeks, licking fervently."
-    "{i}Alina i [r_name] znów leżą na ziemi usta Aliny mocno między policzkami dupy siostry liżąc gorliwie."
-
-# game/day145.rpy:4713
-translate polish day145_r_sex_0eb1755f:
-
-    # "{i}Alina and [r_name] are on the ground again, Alina's mouth firmly between your wife's ass cheeks, licking fervently."
-    "{i}Alina i [r_name] są na ziemi znowu usta Aliny mocno między policzkami dupy żony liżą żarliwie"
-
-# game/day145.rpy:4912
-translate polish day145_r_sex_c258bfe1:
-
-    # "{i}[r_name]'s cries of ecstasy are supplemented by delighted moans from Alina as she fingers her cunt."
-    "{i}[r_name] krzyki ekstazy są uzupełniane przez rozkoszne jęki Aliny, gdy ta palcuje jej cipę."
-
-# game/day145.rpy:4928
-translate polish day145_r_sex_91f8ce1f:
-
-    # "{i}[r_name]'s cries of ecstasy are supplemented by delighted moans from Ana as she fingers her cunt."
-    "{i}[r_name] krzyki ekstazy są uzupełniane przez rozkoszne jęki Any, gdy ta palcuje jej cipę."
-
-# game/day145.rpy:5021
-translate polish day145_ri_sex_03f83afe:
-
-    # "{i}You help Riley by slamming your pelvis against her dripping gash every time she comes down on you, it reduces Riley to delighted screams."
-    "{i}Pomagasz Riley trzaskając swoją miednicą o jej ociekającą rzęsę za każdym razem, gdy schodzi na ciebie to redukuje Riley do rozkosznych krzyków."
-
-# game/day145.rpy:5127
-translate polish day145_ir_sex_c40db3d3:
-
-    # "{i}Having consummated the wedding to your mutual satisfaction, Iris rests her head on your shoulder as you both watch the Moon cast its reflection on the ocean's surface."
-    "{i}Po skonsumowaniu ślubu do waszej wspólnej satysfakcji Iris opiera głowę na twoim ramieniu, gdy oboje obserwujecie, jak księżyc rzuca swoje odbicie na powierzchnię oceanu."
-
-translate polish strings:
-
-    # game/day145.rpy:1896
-    old "Don't forgive her"
-    new "Nie wybaczaj jej"# TODO: Translation updated at 2023-04-21 11:19
-
-# game/day145.rpy:890
+# game/day145.rpy:931
 translate polish day145_mi_s_sa_conversation_7bf85b42_2:
 
     # r "[p_name]? You can't come in!"
     r "[p_name]? Nie możesz tu wejść!"
 
-# game/day145.rpy:892
+# game/day145.rpy:933
 translate polish day145_mi_s_sa_conversation_73264807_2:
 
     # b "[p_name]? You can't come in!"
     b "[p_name]? Nie możesz tu wejść!"
 
-# game/day145.rpy:894
+# game/day145.rpy:935
 translate polish day145_mi_s_sa_conversation_1999b66d_2:
 
     # l "[p_name]? You can't come in!"
     l "[p_name]? Nie możesz tu wejść!"
 
-# game/day145.rpy:896
+# game/day145.rpy:937
 translate polish day145_mi_s_sa_conversation_7bf85b42_3:
 
     # r "[p_name]? You can't come in!"
     r "[p_name]? Nie możesz tu wejść!"
 
-# game/day145.rpy:898
+# game/day145.rpy:939
 translate polish day145_mi_s_sa_conversation_352ed64b_2:
 
     # m "[p_name]? You can't come in!"
     m "[p_name]? Nie możesz tu wejść!"
 
-# game/day145.rpy:900
+# game/day145.rpy:941
 translate polish day145_mi_s_sa_conversation_4aadc258_2:
 
     # ri "[p_name]? You can't come in!"
     ri "[p_name]? Nie możesz tu wejść!"
 
-# game/day145.rpy:902
+# game/day145.rpy:943
 translate polish day145_mi_s_sa_conversation_76cd4b56_2:
 
     # ir "[p_name]? You can't come in!"
     ir "[p_name]? Nie możesz tu wejść!"
 
-# TODO: Translation updated at 2023-07-06 13:24
+# game/day145.rpy:1700
+translate polish day145_wedding_ceremony_2048af1c:
 
-# game/day145.rpy:1813
+    # b "I, [b_name], take you [p_name], to be my husband, to have and to hold from this day forward, for better or for worse, for richer, for poorer, in sickness and in health, to love and to cherish, until death do us part."
+    b "Ja [b_imię] biorę ciebie [p_imię] za męża, aby mieć i trzymać od tego dnia na dobre i na złe, bogatszego i biedniejszego, w chorobie i zdrowiu, aby kochać i pielęgnować, dopóki śmierć nas nie rozłączy."
+
+# game/day145.rpy:1712
+translate polish day145_wedding_ceremony_70eb66e8:
+
+    # man "Do you together promise you will love, cherish and respect one another throughout the years?"
+    man "Czy razem obiecujecie, że będziecie się kochać, pielęgnować i szanować przez lata?"
+
+# game/day145.rpy:1889
+translate polish day145_wedding_feast_6f9086c8:
+
+    # m "I admit that the idea of you moving abroad took a long while to get accustomed to."
+    m "Przyznaję, że przyzwyczajenie się do pomysłu przeprowadzki za granicę zajęło mi sporo czasu."
+
+# game/day145.rpy:1903
 translate polish day145_wedding_feast_0f86c456:
 
     # m "I admit that the idea of you two moving abroad took a long while to get accustomed to."
     m "Przyznaję, że pomysł przeprowadzki za granicę wymagał dłuższej chwili, aby się do niego przyzwyczaić."
->>>>>>> polish
+
+# game/day145.rpy:1965
+translate polish day145_wedding_feast_f31aa21c:
+
+    # b "No, I'm genuinely happy for [r_name]."
+    b "Ale nie, naprawdę się cieszę, że Rachel jest szczęśliwa."
+
+# game/day145.rpy:1968
+translate polish day145_wedding_feast_2193ab28:
+
+    # b "No, I'm genuinely happy for [l_name]."
+    b "Ale nie, naprawdę się cieszę, że Liza jest szczęśliwa."
+
+# game/day145.rpy:2331
+translate polish day145_dances_2269e02b:
+
+    # "{i}In order for you to be with your family, Riley and Iris have offered to join you at a later moment."
+    "{i}Abyś mógł być ze swoją rodziną, Riley i Iris zaoferowali, że dołączą do ciebie w późniejszym czasie."
+
+# game/day145.rpy:2333
+translate polish day145_dances_3e88ce64:
+
+    # "{i}In order for you to be with your closest friends, Riley and Iris have offered to join you at a later moment."
+    "{i}Abyś mógł być ze swoimi najbliższymi przyjaciółmi, Riley i Iris zaoferowali, że dołączą do ciebie w późniejszym czasie."
+
+# game/day145.rpy:2336
+translate polish day145_dances_d579178e:
+
+    # "{i}In order for you to be with your family, Riley has offered to join you at a later moment."
+    "{i}Abyś mogła być ze swoją rodziną, Riley zaoferowała, że dołączy do ciebie w późniejszym czasie."
+
+# game/day145.rpy:2338
+translate polish day145_dances_a209d938:
+
+    # "{i}In order for you to be with your closest friends, Riley has offered to join you at a later moment."
+    "{i}Abyś mógł być ze swoimi najbliższymi przyjaciółmi, Riley zaoferował, że dołączy do ciebie w późniejszym czasie."
+
+# game/day145.rpy:2341
+translate polish day145_dances_65f47445:
+
+    # "{i}In order for you to be with your family, Iris offered to join you at a later moment."
+    "{i}Abyś mógł być ze swoją rodziną, Iris zaproponowała, że dołączy do ciebie w późniejszym czasie."
+
+# game/day145.rpy:2343
+translate polish day145_dances_20023a31:
+
+    # "{i}In order for you to be with your closest friends, Iris has offered to join you at a later moment."
+    "{i}Abyś mógł być ze swoimi najbliższymi przyjaciółmi, Iris zaoferowała, że dołączy do ciebie w późniejszym czasie."
+
+# game/day145.rpy:2792
+translate polish day145_r_b_l_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Czy Adriana bierze udział w tej scenie?"
+
+# game/day145.rpy:2796
+translate polish day145_r_b_l_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana bierze udział"
+
+# game/day145.rpy:2799
+translate polish day145_r_b_l_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana nie bierze udziału"
+
+# game/day145.rpy:2982
+translate polish day145_r_b_l_m_fucking_885e7942:
+
+    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
+    "{i}Komentarze Rachel coś w Tobie wyzwalają, palącą energię, która zbliża Cię do orgazmu."
+
+# game/day145.rpy:3005
+translate polish day145_r_b_l_m_fucking_a110dc26:
+
+    # "{i}[m_name] accompanies her, whispering what must be very dirty words inside her ear, because her face flushes immediately."
+    "{i}Susan towarzyszy jej, najwyraźniej szepcząc jej do ucha bardzo niegrzeczne słówka, bo jej twarz natychmiast się rumieni."
+
+# game/day145.rpy:3058
+translate polish day145_r_b_l_m_fucking_640d95ec:
+
+    # "{i}[m_name] and [b_name] help your youngest wife on top of you, your cock probing against her entrance."
+    "{i}[m_name] i [b_name] pomagają najmłodszej żonie położyć się na tobie, a twój kutas sonduje jej wejście."
+
+# game/day145.rpy:3384
+translate polish day145_r_b_l_m_fucking_5491c271:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją siostrę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:3386
+translate polish day145_r_b_l_m_fucking_ea0df150:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją żonę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:3417
+translate polish day145_r_b_l_m_fucking_f8e7d29e:
+
+    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej siostry i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:3419
+translate polish day145_r_b_l_m_fucking_617dc6b3:
+
+    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej żony i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:3628
+translate polish day145_r_b_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Czy Adriana bierze udział w tej scenie?"
+
+# game/day145.rpy:3632
+translate polish day145_r_b_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana bierze udział"
+
+# game/day145.rpy:3635
+translate polish day145_r_b_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana nie bierze udziału"
+
+# game/day145.rpy:3700
+translate polish day145_r_b_m_fucking_2ae424a2:
+
+    # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
+
+# game/day145.rpy:3728
+translate polish day145_r_b_m_fucking_885e7942:
+
+    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
+    "{i}Komentarze Rachel coś w Tobie wyzwalają, palącą energię, która zbliża Cię do orgazmu."
+
+# game/day145.rpy:3739
+translate polish day145_r_b_m_fucking_640d95ec:
+
+    # "{i}[m_name] and [b_name] help your youngest wife on top of you, your cock probing against her entrance."
+    "{i}[m_name] i [b_name] pomagają najmłodszej żonie położyć się na tobie, a twój kutas sonduje jej wejście."
+
+# game/day145.rpy:3995
+translate polish day145_r_b_m_fucking_5491c271:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją siostrę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:3997
+translate polish day145_r_b_m_fucking_ea0df150:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją żonę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:4012
+translate polish day145_r_b_m_fucking_f8e7d29e:
+
+    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej siostry i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:4014
+translate polish day145_r_b_m_fucking_617dc6b3:
+
+    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej żony i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:4254
+translate polish day145_r_b_l_sex_51840c80:
+
+    # "{i}Too far out to even notice you're getting so thoroughly sucked, she pulls [b_name] further towards her dripping wet slit by her hair."
+    "{i}Zbyt daleko, by nawet zauważyć, że jesteś tak dokładnie ssany, przyciąga [b_name] dalej do swojej ociekającej mokrymi włosami szczeliny."
+
+# game/day145.rpy:4273
+translate polish day145_r_b_l_fucking_2ae424a2:
+
+    # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
+
+# game/day145.rpy:4319
+translate polish day145_r_b_l_fucking_a31b6260:
+
+    # "{i}[r_name] accompanies her, whispering what must be very dirty words inside her ear, because her face flushes immediately."
+    "{i}Rachel towarzyszy jej, najwyraźniej szepcząc jej do ucha bardzo niegrzeczne słówka, bo jej twarz natychmiast się rumieni."
+
+# game/day145.rpy:4358
+translate polish day145_r_b_l_fucking_885e7942_1:
+
+    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
+    "{i}Komentarze Rachel coś w Tobie wyzwalają, palącą energię, która zbliża Cię do orgazmu."
+
+# game/day145.rpy:4369
+translate polish day145_r_b_l_fucking_07e04e3e:
+
+    # "{i}[l_name] and [b_name] help your youngest wife on top of you, your cock probing against her entrance."
+    "{i}[l_name] i [b_name] pomagają najmłodszej żonie położyć się na tobie, a twój kutas sonduje jej wejście."
+
+# game/day145.rpy:4506
+translate polish day145_r_b_l_fucking_5491c271:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją siostrę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:4508
+translate polish day145_r_b_l_fucking_ea0df150:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją żonę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:4524
+translate polish day145_r_b_l_fucking_f8e7d29e:
+
+    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej siostry i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:4526
+translate polish day145_r_b_l_fucking_617dc6b3:
+
+    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej żony i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:4688
+translate polish day145_r_b_fucking_2ae424a2:
+
+    # "{i}With [r_name]'s help, [b_name] positions herself before you, ass upward."
+    "{i}Z pomocą [r_name] [b_name] ustawia się przed tobą tyłkiem do góry."
+
+# game/day145.rpy:4728
+translate polish day145_r_b_fucking_885e7942:
+
+    # "{i}[r_name]'s comments unleash something inside you, a searing energy right at the edge of discharge."
+    "{i}Komentarze Rachel coś w Tobie wyzwalają, palącą energię, która zbliża Cię do orgazmu."
+
+# game/day145.rpy:4740
+translate polish day145_r_b_fucking_6f0caf45:
+
+    # "{i}[b_name] helps your youngest wife on top of you, your cock probing against her entrance."
+    "{i}[b_name] pomaga swojej najmłodszej żonie położyć się na tobie, a twój kutas sonduje jej wejście."
+
+# game/day145.rpy:4819
+translate polish day145_r_b_fucking_5491c271:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your sister until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją siostrę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:4821
+translate polish day145_r_b_fucking_ea0df150:
+
+    # "{i}There's no question where you want to finish, so you keep fucking your wife until you're firmly over the threshold of self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc pieprzysz swoją żonę, dopóki nie przekroczysz progu samokontroli."
+
+# game/day145.rpy:4839
+translate polish day145_r_b_fucking_f8e7d29e:
+
+    # "{i}There's no question where you want to finish, so you mount your sister again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej siostry i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:4841
+translate polish day145_r_b_fucking_617dc6b3:
+
+    # "{i}There's no question where you want to finish, so you mount your wife again and immediately lose all self-control."
+    "{i}Nie ma wątpliwości, gdzie chcesz skończyć, więc ponownie dosiadasz swojej żony i natychmiast tracisz panowanie nad sobą."
+
+# game/day145.rpy:4967
+translate polish day145_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Czy [m_name] jest w ciąży w tej scenie?"
+
+# game/day145.rpy:4971
+translate polish day145_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] w ciąży"
+
+# game/day145.rpy:4974
+translate polish day145_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nie jest w ciąży"
+
+# game/day145.rpy:5090
+translate polish day145_m_sex_5022235a:
+
+    # "{i}Arching her back, your mother fingers her pussy."
+    "{i}Wyginając plecy w łuk, Twoja matka dotyka swojej cipki"
+
+# game/day145.rpy:5179
+translate polish day145_b_sex_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Czy [b_name] jest uległy w tej scenie?."
+
+# game/day145.rpy:5184
+translate polish day145_b_sex_b2ede48b:
+
+    # "[b_name] submissive"
+    "[b_name] uległy"
+
+# game/day145.rpy:5186
+translate polish day145_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day145.rpy:5190
+translate polish day145_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day145.rpy:5193
+translate polish day145_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day145.rpy:5199
+translate polish day145_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Czy [b_name] jest w ciąży w tej scenie?."
+
+# game/day145.rpy:5203
+translate polish day145_b_sex_047eed70:
+
+    # "[b_name] pregnant and not submissive"
+    "[b_name] w ciąży i nie jest uległa"
+
+# game/day145.rpy:5206
+translate polish day145_b_sex_792ada9c:
+
+    # "[b_name] not pregnant and not submissive"
+    "[b_name] nie jest w ciąży i nie jest uległy"
+
+# game/day145.rpy:5513
+translate polish day145_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Czy [l_name] jest w ciąży w tej scenie?"
+
+# game/day145.rpy:5517
+translate polish day145_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] w ciąży"
+
+# game/day145.rpy:5520
+translate polish day145_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nie jest w ciąży"
+
+# game/day145.rpy:5617
+translate polish day145_l_sex_4da87830:
+
+    # "{i}Her dangling tits are too luscious not to be fondled and touched, so while you're fucking her with ever increasing intensity, you massage her breasts."
+    "{i}Jej zwisające cycki są zbyt soczyste, by ich nie pieścić i nie dotykać, więc gdy pieprzysz ją z coraz większą intensywnością, masujesz jej piersi."
+
+# game/day145.rpy:5689
+translate polish day145_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Czy [r_name] jest w ciąży w tej scenie?"
+
+# game/day145.rpy:5693
+translate polish day145_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] w ciąży"
+
+# game/day145.rpy:5696
+translate polish day145_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nie jest w ciąży"
+
+# game/day145.rpy:5698
+translate polish day145_r_sex_522a9764:
+
+    # "Does Ana participate in this scene?"
+    "Czy Ana uczestniczy w tej scenie?"
+
+# game/day145.rpy:5703
+translate polish day145_r_sex_0569fb1a:
+
+    # "Ana participates"
+    "Ana uczestniczy"
+
+# game/day145.rpy:5706
+translate polish day145_r_sex_3f44a671:
+
+    # "Ana doesn't participate"
+    "Ana nie bierze w tym udziału"
+
+# game/day145.rpy:5708
+translate polish day145_r_sex_72a60c9f:
+
+    # "Does Alina participate in this scene?"
+    "Czy Alina bierze udział w tej scenie?"
+
+# game/day145.rpy:5713
+translate polish day145_r_sex_5a510202:
+
+    # "Alina participates"
+    "Alina uczestniczy"
+
+# game/day145.rpy:5716
+translate polish day145_r_sex_7852c3e9:
+
+    # "Alina doesn't participate"
+    "Alina nie bierze w tym udziału"
+
+# game/day145.rpy:6062
+translate polish day145_r_sex_235b85fe:
+
+    # "{i}Alina and [r_name] are on the ground again, Alina's mouth firmly between your sister's ass cheeks, licking fervently."
+    "{i}Alina i [r_name] znów leżą na ziemi, usta Aliny mocno między policzkami twojej siostry liżą żarliwie."
+
+# game/day145.rpy:6064
+translate polish day145_r_sex_0eb1755f:
+
+    # "{i}Alina and [r_name] are on the ground again, Alina's mouth firmly between your wife's ass cheeks, licking fervently."
+    "{i}Alina i [r_name] znów leżą na ziemi, usta Aliny mocno między policzkami twojej żony liżą żarliwie."
+
+# game/day145.rpy:6331
+translate polish day145_r_sex_c258bfe1:
+
+    # "{i}[r_name]'s cries of ecstasy are supplemented by delighted moans from Alina as she fingers her cunt."
+    "{i}[r_name] okrzyki ekstazy są uzupełniane przez zachwycone jęki Aliny, gdy palcuje swoją cipkę"
+
+# game/day145.rpy:6357
+translate polish day145_r_sex_91f8ce1f:
+
+    # "{i}[r_name]'s cries of ecstasy are supplemented by delighted moans from Ana as she fingers her cunt."
+    "{i}[r_name] okrzyki ekstazy są uzupełniane przez zachwycone jęki Any, gdy palcuje swoją cipkę"
+
+# game/day145.rpy:6498
+translate polish day145_ri_sex_03f83afe:
+
+    # "{i}You help Riley by slamming your pelvis against her dripping gash every time she comes down on you, it reduces Riley to delighted screams."
+    "{i}Pomagasz Riley, uderzając miednicą w jej ociekającą rzęsę za każdym razem, gdy ona spada na ciebie, redukuje to Riley do rozkosznych krzyków."
+
+# game/day145.rpy:6674
+translate polish day145_ir_sex_c40db3d3:
+
+    # "{i}Having consummated the wedding to your mutual satisfaction, Iris rests her head on your shoulder as you both watch the Moon cast its reflection on the ocean's surface."
+    "{i}Po skonsumowaniu ślubu, oboje jesteście usatysfakcjonowani, Iris opiera głowę na Twoim ramieniu i razem obserwujecie księżyc odbijający się na powierzchni oceanu."
+
+translate polish strings:
+
+    # game/day145.rpy:1995
+    old "Don't forgive her"
+    new "Nie wybaczaj jej"
+

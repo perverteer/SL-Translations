@@ -968,7 +968,7 @@ translate polish day10_discreet_session_a7425bf9:
 translate polish day10_discreet_session_dd68a0c2:
 
     # p "{i}(Fuck. Mrs. Smith is a dominatrix?)"
-    p ""
+    p "{i}(Kurwa, pani Smith jest dominatrix?)"
 
 # game/day10.rpy:324
 translate polish day10_discreet_session_8bfad274:
@@ -1226,7 +1226,7 @@ translate polish day10_discreet_session_e23fe897:
 translate polish day10_discreet_session_5dcc2d26:
 
     # "{i}[m_name] suddenly lets go of your penis."
-    ""
+    "{i}[m_name] nagle puszcza twojego penisa"
 
 # game/day10.rpy:376
 translate polish day10_discreet_session_8e245b4c:
@@ -1388,7 +1388,7 @@ translate polish day10_discreet_session_69cf14c8:
 translate polish day10_discreet_session_bf1db670:
 
     # p "{i}(Goodbye Mrs. Smith...)"
-    p ""
+    p "{i}(Goodbye Mrs Smith)"
 
 # game/day10.rpy:418
 translate polish day10_discreet_session_e184130a:
@@ -1592,7 +1592,7 @@ translate polish day10_discreet_session_9c6d08e3:
 translate polish day10_discreet_session_77316bb0:
 
     # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
-    p ""
+    p "{i}(Myślę, że te wspólne kolacje nie będą już takie same)"
 
 # game/day10.rpy:485
 translate polish day10_dwayne_visit_83fd953a:
@@ -2402,7 +2402,7 @@ translate polish day10_p_room_evening_choices_f55a0c3e:
 translate polish day10_p_room_evening_choices_4b67e180:
 
     # p "Good evening, [b_name]."
-    p ""
+    p "Dobry wieczór [b_name]"
 
 # game/day10.rpy:667
 translate polish day10_p_room_evening_choices_73abd711:
@@ -2510,7 +2510,7 @@ translate polish day10_p_room_evening_choices_e2272608:
 translate polish day10_p_room_evening_choices_cc0cd941:
 
     # "{i}[b_name] hesitantly spreads her legs, hiding her pussy with her hands."
-    ""
+    "{i}[b_name] z wahaniem rozkłada nogi, zasłaniając cipkę dłońmi."
 
 # game/day10.rpy:691
 translate polish day10_p_room_evening_choices_3ef3d32a:
@@ -2588,7 +2588,7 @@ translate polish day10_p_room_evening_choices_cad8cadd:
 translate polish day10_p_room_evening_choices_a5eb94ee:
 
     # p "Do you like it, [b_name], when I finger-fuck you?"
-    p ""
+    p "Lubisz, kiedy [b_name] pieprzę cię palcami?"
 
 # game/day10.rpy:719
 translate polish day10_p_room_evening_choices_850ef128_1:
@@ -2636,7 +2636,7 @@ translate polish day10_p_room_evening_choices_a775030c:
 translate polish day10_p_room_evening_choices_5cfb577c:
 
     # "{i}[b_name] lifts her body from the bed, her leg muscles tightening and falls back onto the mattress when her orgasm shudders through her body, wave after wave."
-    ""
+    "{i}[b_name] podnosi swoje ciało z łóżka, jej mięśnie nóg napinają się i opada z powrotem na materac, gdy jej orgazm przechodzi przez jej ciało fala po fali."
 
 # game/day10.rpy:733
 translate polish day10_p_room_evening_choices_bfc9436e:
@@ -2672,7 +2672,7 @@ translate polish day10_p_room_evening_choices_4c31e16c:
 translate polish day10_p_room_evening_choices_300246dc:
 
     # p "All in good time, dear [b_name]."
-    p ""
+    p "Wszystko w swoim czasie, drogi [b_name]"
 
 # game/day10.rpy:743
 translate polish day10_p_room_evening_choices_f4e7cb33:
@@ -2702,7 +2702,7 @@ translate polish day10_p_room_evening_choices_a49b7526:
 translate polish day10_p_room_evening_choices_f8009c6a:
 
     # p "Sleep tight, dear [b_name]. We're going to have such fun tomorrow."
-    p ""
+    p "Śpij dobrze, kochanie [b_name] Jutro będziemy się świetnie bawić"
 
 # game/day10.rpy:750
 translate polish day10_p_room_evening_choices_5badcfdd_1:
@@ -2996,7 +2996,7 @@ translate polish day10_p_room_evening_choices_57e4dd16:
 translate polish day10_p_room_evening_choices_2cc25aca:
 
     # al "I know it was you. Do you like spying on little [r_name]?"
-    al ""
+    al "Wiem, że to ty Lubisz szpiegować małego [r_name]?"
 
 # game/day10.rpy:877
 translate polish day10_p_room_evening_choices_ddbd61eb:
@@ -3416,235 +3416,437 @@ translate polish strings:
     old "Cum inside her"
     new "Skończ w niej"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day10.rpy:73
+# game/day10.rpy:82
 translate polish day10_06b0190a:
 
     # r "Say, [p_name]?"
-    r "Powiedz [p_name]?"
+    r "[p_name]?"
 
-# game/day10.rpy:148
+# game/day10.rpy:160
 translate polish day10_supermarket_c48c2263:
 
     # p "As soon as he's done, we'll have to retrieve the cam again."
-    p "Jak tylko skończy, będziemy musieli ponownie pobrać kamerę"
+    p "Kiedy tylko skończą, będę musiał odzyskać tą kamerkę."
 
-# game/day10.rpy:182
+# game/day10.rpy:196
 translate polish day10_supermarket_afternoon_1a5e4b5d:
 
     # "{i}When you return, all is quiet in the supermarket."
-    "{i}Po powrocie wszystko jest spokojne w supermarkecie"
+    "{i}Kiedy wracasz, w markecie panuje cisza."
 
-# game/day10.rpy:189
+# game/day10.rpy:203
 translate polish day10_supermarket_afternoon_c8b93559:
 
     # ri "Nope. Before I put the spare keys back in Brody's office, I made a copy."
-    "Nie, zanim włożyłem zapasowe klucze do biura Brody'ego, zrobiłem kopię."
+    ri "Nie. Zanim je odłożyłam zrobiłam sobie kopię."
 
-# game/day10.rpy:245
+# game/day10.rpy:262
 translate polish day10_supermarket_afternoon_861280fc:
 
     # "{i}Your work shift is uneventful and after saying goodbye to Riley, you go back home."
-    "{i}Twoja zmiana w pracy przebiega bez zakłóceń i po pożegnaniu z Rileyem wracasz do domu."
+    "{i}Nic się nie dzieje podczas Twojej zmiany i po pożegnaniu się z Riley, wracasz do domu."
 
-# game/day10.rpy:257
+# game/day10.rpy:276
 translate polish day10_discreet_38ef9308:
 
     # woman "Certainly. I have the contract right here. After you sign, we can arrange the payment."
-    woman "Oczywiście mam tu umowę Po podpisaniu możemy uzgodnić płatność"
+    woman "Oczywiście. Tu mam dla pana gotową umowę, gdy pan ją podpisze zajmiemy się dokonaniem płatności."
 
-# game/day10.rpy:259
+# game/day10.rpy:278
 translate polish day10_discreet_b0415e9c:
 
     # woman "If you'd like some time to read the contract, there are seats in the lobby."
-    woman "Jeśli chciałby Pan mieć trochę czasu na zapoznanie się z umową to w holu są miejsca siedzące"
+    woman "Jeśli potrzebuje pan czasu, żeby przeczytać umowę, to może pan usiąść w lobby."
 
-# game/day10.rpy:269
+# game/day10.rpy:288
 translate polish day10_discreet_33155bb5:
 
     # "{i}After signing the contract, you hand it over to the receptionist."
-    "{i}Po podpisaniu umowy przekazujesz ją recepcjoniście"
+    "{i}Po podpisaniu kontraktu oddajesz go recepcjonistce."
 
-# game/day10.rpy:275
+# game/day10.rpy:294
 translate polish day10_discreet_09ab2be8:
 
     # woman "Your consultant will be with you in a moment. Before your appointment, we ask you to wear this mask. This ensures your privacy."
-    woman "Twój konsultant będzie z tobą za chwilę Przed wizytą prosimy o założenie tej maski To zapewnia twoją prywatność"
+    woman "Nasz pracownik zaraz się panem zajmie. Przed rozpoczęciem wizyty proszę o założenie tej maski. To ma zapewnić pańską prywatność."
 
-# game/day10.rpy:279
+# game/day10.rpy:298
 translate polish day10_discreet_c33a64c0:
 
     # "{i}After that statement, the receptionist leaves through the door you both came in."
-    "{i}Po tym oświadczeniu recepcjonista wychodzi przez drzwi, którymi oboje weszliście"
+    "{i}Po tych słowach, recepcjonistka wychodzi przez te same drzwi, przez które tu weszliście."
 
-# game/day10.rpy:328
+# game/day10.rpy:337
+translate polish day10_discreet_e184130a:
+
+    # "{i}You dress yourself while [m_name] leaves the room."
+    "{i}Ubierasz się podczas gdy Susan opuszcza pokój."
+
+# game/day10.rpy:341
+translate polish day10_discreet_afb0d82f:
+
+    # p "{i}(That was some extremely weird shit...)"
+    p "{i}(To było bardzo dziwne doświadczenie...)"
+
+# game/day10.rpy:342
+translate polish day10_discreet_61e3e5ba:
+
+    # woman "I trust you enjoyed your first session Mr. Holmes? Would you like to schedule another session?"
+    woman "Ufam iż spodobała się panu pierwsza sesja panie Holmes? Chciałby pan umówić się na kolejną wizytę?"
+
+# game/day10.rpy:346
+translate polish day10_discreet_fd1037f2:
+
+    # p "Yes, it was quite invigorating."
+    p "Tak, to było dość interesujące."
+
+# game/day10.rpy:347
+translate polish day10_discreet_6995dc48:
+
+    # woman "Good, I can fit you in in four days."
+    woman "Dobrze, mogłabym pana wpisać na za cztery dni."
+
+# game/day10.rpy:348
+translate polish day10_discreet_480fea4d:
+
+    # p "Sounds good to me."
+    p "Brzmi dobrze."
+
+# game/day10.rpy:349
+translate polish day10_discreet_7a1764cd:
+
+    # woman "All right then. We'll see you in four days. Have a nice day."
+    woman "W porządku. W takim razie do zobaczenia za cztery dni. Życzę miłego dnia."
+
+# game/day10.rpy:350
+translate polish day10_discreet_b8e3e19c:
+
+    # p "Thank you!"
+    p "Dzięki!"
+
+# game/day10.rpy:353
+translate polish day10_discreet_e4fb02e1:
+
+    # p "No, this is not for me."
+    p "Nie, to nie dla mnie."
+
+# game/day10.rpy:354
+translate polish day10_discreet_61907235:
+
+    # woman "We're very sorry to hear that. Shall I permanently remove your name from our client list?"
+    woman "Bardzo przykro nam to słyszeć. Życzy pan sobie, aby permanentnie skreślić pana imię z listy naszych klientów?"
+
+# game/day10.rpy:355
+translate polish day10_discreet_0341c077:
+
+    # p "Yes please."
+    p "Tak, proszę."
+
+# game/day10.rpy:356
+translate polish day10_discreet_7939f2b4:
+
+    # woman "Done. Thank you for your support and have a nice day."
+    woman "Gotowe. Dziękuję za wizytę i życzę miłego dnia."
+
+# game/day10.rpy:357
+translate polish day10_discreet_43e8339b:
+
+    # p "Goodbye."
+    p "Do widzenia."
+
+# game/day10.rpy:360
+translate polish day10_discreet_2f277000:
+
+    # p "This is not for me. Sorry."
+    p "Przepraszam, ale to nie dla mnie."
+
+# game/day10.rpy:361
+translate polish day10_discreet_2a9378d6:
+
+    # m "That's not a problem, but I have to ask you to leave. My assistant will remove your name from the membership list after you leave our premises."
+    m "Nic się nie stało, ale muszę poprosić aby pan wyszedł. Moja asystentka usunie pana imię z listy naszych klientów, gdy opuści pan budynek."
+
+# game/day10.rpy:362
+translate polish day10_discreet_1cb6fa76:
+
+    # m "Goodbye."
+    m "Miłego dnia."
+
+# game/day10.rpy:363
+translate polish day10_discreet_3d15a9f2:
+
+    # p "Bye."
+    p "Do widzenia."
+
+# game/day10.rpy:364
+translate polish day10_discreet_c9cf8db1:
+
+    # p "{i}(Let's leave before this turns into some freak show!)"
+    p "{i}(Pora się stąd zabrać, zanim wydarzy się tu coś naprawdę dziwnego!)"
+
+# game/day10.rpy:368
+translate polish day10_discreet_bbc0cc3a:
+
+    # p "This is all a mistake. [m_name], it's me!"
+    p "To był błąd. Mamo, to ja!"
+
+# game/day10.rpy:370
+translate polish day10_discreet_c8749287:
+
+    # p "I wanted to know where you worked. I'm so sorry!"
+    p "Chciałem wiedzieć gdzie pracujesz. Przepraszam!"
+
+# game/day10.rpy:371
+translate polish day10_discreet_78b7c6c3:
+
+    # m "WHAT THE FUCK DO YOU THINK YOU'RE DOING HERE?!"
+    m "CO TY TU KURWA ROBISZ?"
+
+# game/day10.rpy:372
+translate polish day10_discreet_7fb98cef:
+
+    # m "You will leave this building right away or I will have you forcibly removed."
+    m "Natychmiast opuść ten budynek albo każę usunąć Cię siłą."
+
+# game/day10.rpy:373
+translate polish day10_discreet_c18f3955:
+
+    # p "But..."
+    p "Ale..."
+
+# game/day10.rpy:374
+translate polish day10_discreet_dc553b0a:
+
+    # m "NO BUTS, BE GONE!"
+    m "ŻADNYCH ALE, WYNOCHA!"
+
+# game/day10.rpy:379
+translate polish day10_discreet_797f4151:
+
+    # p "I'm sorry, I cannot sign this contract."
+    p "Przykro mi, nie mogę tego podpisać."
+
+# game/day10.rpy:380
+translate polish day10_discreet_198a85c2:
+
+    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
+    woman "Nie ma sprawy, zniszczymy ten dokument wraz z wynikami testu W imieniu firmy życzę miłego dnia."
+
+# game/day10.rpy:381
+translate polish day10_discreet_43e8339b_1:
+
+    # p "Goodbye."
+    p "Do widzenia."
+
+# game/day10.rpy:382
+translate polish day10_discreet_6551e53d:
+
+    # p "{i}(This is for the best. I'm not going to sign away my rights.)"
+    p "{i}(Tak będzie najlepiej. Podpisanie tego mogłoby się źle skończyć.)"
+
+# game/day10.rpy:387
+translate polish day10_discreet_bc6d5a03:
+
+    # p "{i}(This is going to be intense. I'm pretty sure of it.)"
+    p "{i}(To będzie ciekawe. Tego jestem pewny.)"
+
+# game/day10.rpy:388
+translate polish day10_discreet_a30ead20:
+
+    # p "{i}(She didn't even seem to recognize me. Wonder how long that will last...)"
+    p "{i}(Zdaje się, że w ogóle mnie nie rozpoznała. Ciekawe jak długo to potrwa...)"
+
+# game/day10.rpy:390
+translate polish day10_discreet_2c6e7ed4:
+
+    # p "{i}(Sure glad that's over.)"
+    p "{i}(Dobrze, że już po wszystkim.)"
+
+# game/day10.rpy:392
+translate polish day10_discreet_278d3816:
+
+    # p "{i}(In retrospect, I'm not sure if I wanted to know all this about [m_name]...)"
+    p "{i}(Z perspektywy czasu, nie wiem czy chciałem to wszystko wiedzieć...)"
+
+# game/day10.rpy:394
+translate polish day10_discreet_9c6d08e3:
+
+    # p "{i}(I guess those family dinners aren't going to be the same from now on.)"
+    p "{i}(Rodzinne obiady już nigdy nie będą takie same.)"
+
+# game/day10.rpy:396
+translate polish day10_discreet_77316bb0:
+
+    # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
+    p "{i}(Myślę, że te wspólne kolacje nie będą już takie same)"
+
+# game/day10.rpy:450
+translate polish day10_dwayne_visit_e3d8ee81:
+
+    # p "No, thank you."
+    p "Nie, dziękuję."
+
+# game/day10.rpy:451
+translate polish day10_dwayne_visit_5e8bca52:
+
+    # p "As I said, we're talent scouts of sorts. We are always looking for excellence, and I believe we found a perfect candidate in your Dwayne."
+    p "Jak już mówiłem, jesteśmy swego rodzaju łowcami talentów, zawsze szukamy doskonałości i wierzę, że znaleźliśmy idealnego kandydata w twoim Dwayne."
+
+# game/day10.rpy:474
+translate polish day10_dwayne_visit_b961d620:
+
+    # p "As I was saying, we can offer Dwayne a place in one of the excellence programs at one of the universities we represent."
+    p "Jak już mówiłem, możemy zaoferować Dwayne'owi miejsce w jednym z naszych programów dla uzdolnionych na jednym z uniwersytetów, które reprezentujemy."
+
+# game/day10.rpy:516
+translate polish day10_dwayne_visit_0f8e960d:
+
+    # j "First, I had to find the guy's room. I had some tools with me to get the hard drive out of his computer, but none of my screwdrivers would fit his ridiculously modded PC..."
+    j "Najpierw musiałem znaleźć jego pokój. Wziąłem ze sobą jakieś narzędzia żeby wymontować jego dysk, ale żaden z moich śrubokrętów nie chciał pasować..."
+
+# game/day10.rpy:533
+translate polish day10_dwayne_visit_5aa9f0de:
+
+    # p "I sure will. See you later, James."
+    p "Jasna sprawa. Do zobaczenia James."
+
+# game/day10.rpy:565
+translate polish day10_p_room_evening_choices_1aaeea99:
+
+    # "{i}A happy [b_name] jumps from her bed and embraces you, giving you a big kiss on your cheek. Her flowery scent and soft lips make you a bit dizzy."
+    "{i}Szczęśliwa Bella wyskakuje z łóżka, przytula się do Ciebie i całuje Cię w policzek. Jej kwiecisty zapach i dotyk jej miękkich ust działa na Ciebie odurzająco."
+
+# game/day10.rpy:582
+translate polish day10_p_room_evening_choices_ae63dbb3:
+
+    # b "Sweet dreams, [p_name], and thanks again. This might just be the first time in ages I get a good night's sleep."
+    b "Śpij dobrze [p_name] i jeszcze raz dzięki za wszystko. To może być pierwszy raz od bardzo długiego czasu kiedy porządnie się wyśpię."
+
+# game/day10.rpy:613
+translate polish day10_p_room_evening_choices_1e7d69cc:
+
+    # "{i}With a sigh, [b_name] undresses herself."
+    "{i}Bella wzdycha i zaczyna się rozbierać."
+
+# game/day10.rpy:628
+translate polish day10_p_room_evening_choices_fa406dec:
+
+    # p "{i}(Damn, she's already wet!)"
+    p "{i}(Cholera, już jest mokra!)"
+
+# game/day10.rpy:661
+translate polish day10_p_room_evening_choices_b6fa9e57:
+
+    # "{i}Your sister lifts her body from the bed, her leg muscles tightening, and falls back onto the mattress when her orgasm shudders through her body, wave after wave."
+    "{i}Ciało Twojej siostry wygina się w łuk, następnie opada bezwładnie na łóżko, jej uda drżą gdy orgazm przejmuje nad nią kontrolę i po jej ciele rozchodzą się fale rozkoszy. "
+
+# game/day10.rpy:791
+translate polish day10_p_room_evening_choices_583cc824:
+
+    # p "{i}(The smell of her hair, the beautiful curves of her petite body. Damn, if I keep thinking about her, I'll lay awake all night...)"
+    p "{i}(Zapach jej włosów, piękne krągłości jej drobnego ciała. Cholera, jeśli nie przestanę o niej myśleć, to nie dam rady zasnąć tej nocy...)"
+
+# game/day10.rpy:795
+translate polish day10_p_room_evening_choices_18e186da:
+
+    # "{i}Just when you're ready to succumb to sleep, you hear the door open."
+    "{i}Kiedy wreszcie jesteś gotowy zasnąć, otwierają się drzwi do Twojego pokoju."
+
+# game/day10.rpy:822
+translate polish day10_p_room_evening_choices_65cffb6c:
+
+    # al "Punish me, [p_name]. Punish my pussy. Fuck the badness out of me. Please!"
+    al "Ukarz mnie [p_name]. Ukarz moją cipkę. Ukarz swoją niegrzeczną dziewczynkę. Proszę!"
+
+# game/day10.rpy:832
+translate polish day10_p_room_evening_choices_0c4f3e87:
+
+    # al "Did you enjoy my pussy?"
+    al "Czy moja cipka Cię zadowoliła?"
+
+# game/day10.rpy:833
+translate polish day10_p_room_evening_choices_5071a473:
+
+    # p "You have pleased me. But make no mistake, you're still a bad little cum slut and I will discipline you further."
+    p "Jestem usatysfakcjonowany. Ale to jeszcze nic nie znaczy, dalej jesteś niegrzeczną dziewczynką i będę musiał nauczyć Cię dyscypliny."
+
+# game/day10.rpy:834
+translate polish day10_p_room_evening_choices_cb5f62b1:
+
+    # al "Yes master. Looking forward to it."
+    al "Oczywiście proszę pana. Nie mogę się doczekać."
+
+# game/day10.rpy:835
+translate polish day10_p_room_evening_choices_9bf8a862:
+
+    # "{i}With those words, Alina silently leaves your room."
+    "{i}Po tych słowach, Alina wychodzi po cichu z pokoju."
+
+# game/day10.rpy:844
+translate polish day10_al_sex_post_be183e72:
+
+    # al "You're crazy! Fuck you, [p_name]."
+    al "Chyba Cię pojebało! Pierdol się [p_name]."
+
+# game/day10.rpy:848
+translate polish day10_al_sex_post_032b6d19:
+
+    # "{i}After a while, you fall fast asleep."
+    "{i}Po dłuższej chwili udaje Ci się zasnąć."
+
+# game/day10.rpy:876
 translate polish day10_discreet_session_58d8d786:
 
     # m "As it's your first session, I intend to go slow."
-    m "Ponieważ jest to twoja pierwsza sesja zamierzam iść powoli"
+    m "Z racji iż to Twoja pierwsza sesja, zaczniemy powoli."
 
-# game/day10.rpy:348
+# game/day10.rpy:900
 translate polish day10_discreet_session_09d7ba22:
 
     # "{i}With her hand, she slaps your naked buttocks. The pain tingles and burns a little bit."
-    "{i}Dłonią policzkuje twoje nagie pośladki Ból mrowi i trochę piecze"
+    "{i}Otwartą dłonią daje Ci klapsa w tyłek. Twoje ciało przeszywa łaskocząco-piekący ból."
 
-# game/day10.rpy:362
+# game/day10.rpy:917
 translate polish day10_discreet_session_55a021a1:
 
     # "{i}Due to the small amount of pressure she applies, it starts swelling instantly."
-    "{i}Ze względu na niewielki nacisk, jaki wywiera, zaczyna on natychmiast puchnąć."
+    "{i}Reagując na niewielki nacisk jaki na niego wywiera, zaczynasz natychmiastowo twardnieć."
 
-# game/day10.rpy:363
+# game/day10.rpy:918
 translate polish day10_discreet_session_abee9f33:
 
     # p "{i}(Shit, she's so close to me. Why doesn't she recognize me?!)"
-    p "{i}(Cholera ona jest tak blisko mnie Dlaczego mnie nie rozpoznaje?!)"
+    p "{i}(Cholera, jest tak blisko mnie. Dlaczego mnie nie rozpoznaje?!)"
 
-# game/day10.rpy:398
+# game/day10.rpy:953
 translate polish day10_discreet_session_0265c79f:
 
     # "{i}As you kiss her voluptuous breasts, you feel a slight shudder going through [m_name]. The tip of her whip tickles your balls ever so slightly."
-    "{i}Kiedy całujesz jej zmysłowe piersi, czujesz lekki dreszcz przechodzący przez [m_name] Czubek jej bicza łaskocze twoje jaja zawsze tak lekko"
+    "{i}Kiedy całujesz jej pełne piersi, czujesz jak przez Twoją matkę przebiega dreszcz. Końcówka jej bicza łaskocze delikatnie Twoje jądra."
 
-# game/day10.rpy:410
+# game/day10.rpy:970
 translate polish day10_discreet_session_850bc9d6:
 
     # p "{i}(Goodbye, mommy-dear...)"
-    p "{i}(Żegnaj mamo - kochanie)"
+    p "{i}(Do zobaczenia mamusiu...)"
 
-# game/day10.rpy:412
+# game/day10.rpy:972
 translate polish day10_discreet_session_0045c5c0:
 
     # p "{i}(Goodbye, Mrs. Smith...)"
     p "{i}(Goodbye Mrs Smith)"
 
-# game/day10.rpy:447
-translate polish day10_discreet_session_bbc0cc3a:
-
-    # p "This is all a mistake. [m_name], it's me!"
-    p "To wszystko jest pomyłką [m_name] to ja!"
-
-# game/day10.rpy:459
-translate polish day10_discreet_session_75e25a5e:
-
-    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company I'd like to wish you a very pleasant day."
-    woman "Nie ma problemu proszę pana Zniszczymy ten dokument wraz z wynikami badań W imieniu firmy chciałbym życzyć panu miłego dnia"
-
-# game/day10.rpy:522
-translate polish day10_dwayne_visit_e3d8ee81:
-
-    # p "No, thank you."
-    p "Nie dziękuję"
-
-# game/day10.rpy:523
-translate polish day10_dwayne_visit_5e8bca52:
-
-    # p "As I said, we're talent scouts of sorts. We are always looking for excellence, and I believe we found a perfect candidate in your Dwayne."
-    p "Jak już mówiłem jesteśmy swego rodzaju łowcami talentów Zawsze szukamy doskonałości i wierzę, że znaleźliśmy idealnego kandydata w Twoim Dwayne"
-
-# game/day10.rpy:546
-translate polish day10_dwayne_visit_b961d620:
-
-    # p "As I was saying, we can offer Dwayne a place in one of the excellence programs at one of the universities we represent."
-    p "Jak mówiłem możemy zaoferować Dwayne'owi miejsce w jednym z programów doskonałości na jednej z reprezentowanych przez nas uczelni"
-
-# game/day10.rpy:587
-translate polish day10_dwayne_visit_0f8e960d:
-
-    # j "First, I had to find the guy's room. I had some tools with me to get the hard drive out of his computer, but none of my screwdrivers would fit his ridiculously modded PC..."
-    j "Najpierw musiałem znaleźć pokój tego faceta miałem ze sobą kilka narzędzi, żeby wyciągnąć dysk twardy z jego komputera, ale żaden z moich śrubokrętów nie pasował do jego śmiesznie zmodowanego PC"
-
-# game/day10.rpy:604
-translate polish day10_dwayne_visit_5aa9f0de:
-
-    # p "I sure will. See you later, James."
-    p "Pewnie, że tak Do zobaczenia Jakubie"
-
-# game/day10.rpy:634
-translate polish day10_p_room_evening_choices_1aaeea99:
-
-    # "{i}A happy [b_name] jumps from her bed and embraces you, giving you a big kiss on your cheek. Her flowery scent and soft lips make you a bit dizzy."
-    "{i}Szczęśliwa [b_name] skacze z łóżka i obejmuje Cię dając Ci dużego buziaka w policzek Jej kwiecisty zapach i miękkie usta przyprawiają Cię o lekki zawrót głowy"
-
-# game/day10.rpy:651
-translate polish day10_p_room_evening_choices_ae63dbb3:
-
-    # b "Sweet dreams, [p_name], and thanks again. This might just be the first time in ages I get a good night's sleep."
-    b "Sweet dreams [p_name] and thanks again This might just be the first time in ages I get a good night's sleep"
-
-# game/day10.rpy:682
-translate polish day10_p_room_evening_choices_1e7d69cc:
-
-    # "{i}With a sigh, [b_name] undresses herself."
-    "{i}Z westchnieniem [b_name] rozbiera się."
-
-# game/day10.rpy:697
-translate polish day10_p_room_evening_choices_fa406dec:
-
-    # p "{i}(Damn, she's already wet!)"
-    p "{i}(Cholera ona już jest mokra!)"
-
-# game/day10.rpy:730
-translate polish day10_p_room_evening_choices_b6fa9e57:
-
-    # "{i}Your sister lifts her body from the bed, her leg muscles tightening, and falls back onto the mattress when her orgasm shudders through her body, wave after wave."
-    "{i}Twoja siostra podnosi swoje ciało z łóżka jej mięśnie nóg napinając i spada z powrotem na materac, gdy jej orgazm wstrząsa przez jej ciało fala po fali"
-
-# game/day10.rpy:855
-translate polish day10_p_room_evening_choices_583cc824:
-
-    # p "{i}(The smell of her hair, the beautiful curves of her petite body. Damn, if I keep thinking about her, I'll lay awake all night...)"
-    p "{i}(Zapach jej włosów piękne krągłości jej drobnego ciała Cholera, jeśli będę o niej myślał to będę leżał całą noc)"
-
-# game/day10.rpy:859
-translate polish day10_p_room_evening_choices_18e186da:
-
-    # "{i}Just when you're ready to succumb to sleep, you hear the door open."
-    "{i}Właśnie wtedy, gdy jesteś gotowy, by poddać się snu, słyszysz, że drzwi się otwierają."
-
-# game/day10.rpy:886
-translate polish day10_p_room_evening_choices_65cffb6c:
-
-    # al "Punish me, [p_name]. Punish my pussy. Fuck the badness out of me. Please!"
-    al "Ukarz mnie [p_name] Ukarz moją cipkę Wypieprz ze mnie zło Proszę!."
-
-# game/day10.rpy:914
+# game/day10.rpy:1024
 translate polish day10_al_fucking_a14c71c2:
 
     # al "Fuck me, [p_name]. I don't deserve your cock."
-    al "Pieprz mnie [p_name] nie zasługuję na twojego kutasa"
+    al "Zerżnij mnie [p_name]. Nie zasługuję na Twojego fiuta."
 
-# game/day10.rpy:917
+# game/day10.rpy:1029
 translate polish day10_al_fucking_fb330df7:
 
     # al "*Gasp* Harder. Fuck. Me. Harder."
-    al "*Gasp* Harder Fuck Me Harder"
+    al "*Wzdycha* Mocniej. Rżnij. Mnie. Mocno."
 
-# game/day10.rpy:972
-translate polish day10_al_fucking_9bf8a862:
-
-    # "{i}With those words, Alina silently leaves your room."
-    "{i}Z tymi słowami Alina w milczeniu opuszcza twój pokój."
-
-# game/day10.rpy:981
-translate polish day10_al_sex_post_be183e72:
-
-    # al "You're crazy! Fuck you, [p_name]."
-    al "Jesteś szalony! Pieprzyć cię [p_name]"
-
-# game/day10.rpy:985
-translate polish day10_al_sex_post_032b6d19:
-
-    # "{i}After a while, you fall fast asleep."
-    "{i}Po pewnym czasie szybko zasypiasz"# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day10.rpy:459
-translate polish day10_discreet_session_198a85c2:
-
-    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
-    woman "Nie ma sprawy, zniszczymy ten dokument wraz z wynikami testu W imieniu firmy życzę miłego dnia."
->>>>>>> polish

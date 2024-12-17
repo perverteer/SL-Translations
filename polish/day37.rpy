@@ -20,7 +20,7 @@ translate polish day37_3e1640f5:
 translate polish day37_ee924156:
 
     # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her friend on the mouth."
-    ""
+    "{i}Przygotowując się na bitch-slap, zaskakuje cię, trzymając twarz [r_name] w dłoniach i całując swoją przyjaciółkę w usta."
 
 # game/day37.rpy:24
 translate polish day37_cd0ff4f1:
@@ -80,7 +80,7 @@ translate polish day37_69524a16:
 translate polish day37_fb631049:
 
     # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her friend's tongue touches her pussy."
-    ""
+    "{i}Zanim [b_name] położyła się na łóżku, spojrzała na ciebie z mieszaniną pożądania i poczucia winy, które szybko zastąpiła błogość, gdy język jej przyjaciela dotknął jej cipki."
 
 # game/day37.rpy:39
 translate polish day37_866c7524:
@@ -98,7 +98,7 @@ translate polish day37_2f3217e1:
 translate polish day37_fea405a2:
 
     # "{i}The familiarity with which both friends treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
-    ""
+    "{i}Znajomość, z jaką obaj przyjaciele traktują swoje ciała, jest radością widzieć, jak [r_name] natychmiast trafia w słodki punkt [b_name]."
 
 # game/day37.rpy:46
 translate polish day37_2315502b:
@@ -116,7 +116,7 @@ translate polish day37_f3a8c47c:
 translate polish day37_fe691908:
 
     # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her dear friend."
-    ""
+    "{i}Przyciskasz swojego kutasa do mokrej cipki [r_name], aby wznowić ruchanie jej, podczas gdy ona zjada swojego drogiego przyjaciela."
 
 # game/day37.rpy:51
 translate polish day37_9182261a:
@@ -182,7 +182,7 @@ translate polish day37_c8db291b:
 translate polish day37_0f24c741:
 
     # "{i}Pressing her younger friend's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
-    ""
+    "{i}Przyciskając twarz młodszej koleżanki do swojej cipy [b_name] osiąga orgazm, a ty zwiększasz tempo ruchania [r_name]."
 
 # game/day37.rpy:67
 translate polish day37_2c01e94a:
@@ -224,7 +224,7 @@ translate polish day37_04bba71b:
 translate polish day37_13d54f9f:
 
     # "[b_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
-    ""
+    "[b_name] skupia swoją uwagę na przyjaciółce, sprawiając, że czuje się wyjątkowo komfortowo, głaszcząc jej piersi i całując jej pełne usta."
 
 # game/day37.rpy:82
 translate polish day37_5961bf0b:
@@ -308,7 +308,7 @@ translate polish day37_f17408ce:
 translate polish day37_775922d3:
 
     # "[r_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
-    ""
+    "[r_name] skupia swoją uwagę na przyjaciółce, sprawiając, że czuje się wyjątkowo komfortowo, głaszcząc jej piersi i całując jej pełne usta."
 
 # game/day37.rpy:102
 translate polish day37_ee1c7da6:
@@ -356,7 +356,7 @@ translate polish day37_ab56e5e9:
 translate polish day37_9dcf900c:
 
     # "{i}Your friend convulses as the last streams of ejaculate leave her vagina."
-    ""
+    "{i}Twoja przyjaciółka drży, gdy ostatnie strumienie ejakulatu opuszczają jej pochwę."
 
 # game/day37.rpy:115
 translate polish day37_0ccf25cc:
@@ -380,7 +380,7 @@ translate polish day37_74b48059:
 translate polish day37_491c16f4:
 
     # "{i}The sight of [b_name] and [r_name] covered in squirt makes you horny beyond belief and you crave an orgasm."
-    ""
+    "{i}Widok [b_name] i [r_name] pokrytych tryskającą wodą sprawia, że jesteś niewiarygodnie napalony i pragniesz orgazmu."
 
 # game/day37.rpy:127
 translate polish day37_e853fd71:
@@ -392,7 +392,7 @@ translate polish day37_e853fd71:
 translate polish day37_c83ada1e:
 
     # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside [r_name] and soon enough your seed starts flowing inside of her."
-    ""
+    "{i}Pomimo atrakcyjności kapiącej mokrej cipy [b_name] decydujesz się skończyć w [r_name] i wkrótce twoje nasienie zaczyna w niej płynąć."
 
 # game/day37.rpy:132
 translate polish day37_8fb71aad:
@@ -404,7 +404,7 @@ translate polish day37_8fb71aad:
 translate polish day37_44eea8de:
 
     # "{i}A desire to cream [r_name] with the full force of your orgasm overcomes you in seconds and your seed starts flowing inside of her."
-    ""
+    "{i}Pragnienie spermy [r_name] z pełną siłą twojego orgazmu opanowuje cię w ciągu kilku sekund, a twoje nasienie zaczyna płynąć w jej wnętrzu."
 
 # game/day37.rpy:138
 translate polish day37_611383bb:
@@ -416,7 +416,7 @@ translate polish day37_611383bb:
 translate polish day37_3c4848b1:
 
     # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy, [b_name] kisses her friend, a little envious of the treatment the younger girl has received."
-    ""
+    "{i}Uśmiechnięta [r_name] palcuje się, gdy twoja sperma wycieka z jej cipki [b_name] całuje swoją przyjaciółkę, trochę zazdrosna o traktowanie, jakie otrzymała młodsza dziewczyna."
 
 # game/day37.rpy:151
 translate polish day37_153befe4:
@@ -428,7 +428,7 @@ translate polish day37_153befe4:
 translate polish day37_3fabfbec:
 
     # "{i}[b_name]'s dripping wet cunt is so attractive, you decide to fuck her again and finish inside your girl."
-    ""
+    "{i}[b_name] ociekająca mokrą cipą jest tak atrakcyjna, że decydujesz się zerżnąć ją ponownie i skończyć w swojej dziewczynie."
 
 # game/day37.rpy:155
 translate polish day37_15703ce7:
@@ -446,7 +446,7 @@ translate polish day37_22438416:
 translate polish day37_78d9579e:
 
     # "{i}A desire to cream [b_name] with the full force of your orgasm overcomes you in seconds and your seed starts flowing inside of her."
-    ""
+    "{i}Pragnienie spermy [b_name] z pełną siłą twojego orgazmu opanowuje cię w ciągu kilku sekund, a twoje nasienie zaczyna płynąć w jej wnętrzu."
 
 # game/day37.rpy:166
 translate polish day37_775bd68d:
@@ -458,7 +458,7 @@ translate polish day37_775bd68d:
 translate polish day37_84a0b421:
 
     # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy, [r_name] kisses her friend, a little envious of the treatment the older girl has received."
-    ""
+    "{i}Uśmiechnięta [b_name] palcuje się, gdy twoja sperma wycieka z jej cipki [r_name] całuje swoją przyjaciółkę, trochę zazdrosna o traktowanie, jakie otrzymała starsza dziewczyna."
 
 # game/day37.rpy:177
 translate polish day37_9c872b25:
@@ -470,7 +470,7 @@ translate polish day37_9c872b25:
 translate polish day37_b8244a04:
 
     # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt"
-    ""
+    "{i}Zaczynasz masturbować się przed swoimi dziewczynami, a twoje oczy wędrują po ich nagich ciałach, śliskich od tryskającej wody."
 
 # game/day37.rpy:181
 translate polish day37_afccc776:
@@ -512,7 +512,7 @@ translate polish day37_9c872b25_1:
 translate polish day37_b8244a04_1:
 
     # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt"
-    ""
+    "{i}Zaczynasz masturbować się przed swoimi dziewczynami, a twoje oczy wędrują po ich nagich ciałach, śliskich od tryskającej wody."
 
 # game/day37.rpy:199
 translate polish day37_afccc776_1:
@@ -560,7 +560,7 @@ translate polish day37_3bbbe076:
 translate polish day37_8d622e6c:
 
     # "{i}It's at that moment that you know something momentous has happened and you just know both your friends can come to love each other as more than just friends."
-    ""
+    "{i}To właśnie w tym momencie wiesz, że wydarzyło się coś doniosłego i po prostu wiesz, że obaj twoi przyjaciele mogą pokochać siebie nawzajem jako coś więcej niż tylko przyjaciół."
 
 # game/day37.rpy:217
 translate polish day37_28ae4a57:
@@ -902,7 +902,7 @@ translate polish day37_choices_24524127:
 translate polish day37_choices_6de93ca2:
 
     # "{i}You don't want to get involved in a shooting match with [b_name], so you dial up the intensity of her vibrating egg."
-    ""
+    "{i}Nie chcesz brać udziału w pojedynku strzeleckim z [b_name], więc zmniejszasz intensywność jej wibrującego jajka."
 
 # game/day37.rpy:315
 translate polish day37_choices_04ca4206:
@@ -1058,7 +1058,7 @@ translate polish day37_choices_2eb635e5:
 translate polish day37_choices_9f601368:
 
     # "{i}Sighing, your girl obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
-    ""
+    "{i}Wzdychając, twoja dziewczyna zobowiązuje się nawet do rozłożenia policzków, abyś mógł dobrze przyjrzeć się jej delikatnemu odbytowi."
 
 # game/day37.rpy:361
 translate polish day37_choices_5ecafe00:
@@ -1130,7 +1130,7 @@ translate polish day37_choices_429e1fa0:
 translate polish day37_choices_feb83a0b:
 
     # "{i}Without saying anything you push a finger against the wrinkles of [b_name]'s anus and push ever so slightly."
-    ""
+    "{i}Nic nie mówiąc, przysuwasz palec do zmarszczek odbytu [b_name] i naciskasz tak lekko."
 
 # game/day37.rpy:381
 translate polish day37_choices_f91bcfbd:
@@ -1280,7 +1280,7 @@ translate polish day37_choices_7b453243:
 translate polish day37_choices_0c547f94:
 
     # "{i}When you feel some of the initial tension leave your girl's body, you push further."
-    ""
+    "{i}Kiedy czujesz, że początkowe napięcie opuszcza ciało dziewczyny, pchasz dalej."
 
 # game/day37.rpy:419
 translate polish day37_choices_ef60ef42:
@@ -1346,7 +1346,7 @@ translate polish day37_choices_832cc795:
 translate polish day37_choices_1aa1e247:
 
     # "{i}You go slowly on her and the agonized cries of [b_name] slowly evolve into genuine expressions of pleasure."
-    ""
+    "{i}Powoli wchodzisz na nią, a udręczone krzyki [b_name] powoli ewoluują w autentyczne wyrazy przyjemności."
 
 # game/day37.rpy:435
 translate polish day37_choices_92e583f4:
@@ -1400,7 +1400,7 @@ translate polish day37_choices_bc4d5c1b:
 translate polish day37_choices_017b1394:
 
     # "{i}Suddenly, you remember the vibrator that's still inside your girl's vagina."
-    ""
+    "{i}Nagle przypominasz sobie o wibratorze, który wciąż znajduje się w pochwie twojej dziewczyny."
 
 # game/day37.rpy:453
 translate polish day37_choices_d87dd57d:
@@ -1442,7 +1442,7 @@ translate polish day37_choices_8bfedfcd:
 translate polish day37_choices_39c5c055:
 
     # "{i}[b_name] pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
-    ""
+    "{i}[b_name] popycha się w górę, pozwalając twojemu kutasowi wepchnąć się w nią jeszcze głębiej, a ona zaczyna drżeć z zaciśniętymi zębami."
 
 # game/day37.rpy:465
 translate polish day37_choices_c78c3a55:
@@ -1478,7 +1478,7 @@ translate polish day37_choices_7ca42fd7:
 translate polish day37_choices_3d62217c:
 
     # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your girl's asshole."
-    ""
+    "{i}Kontynuujesz rżnięcie jej tyłka, rozkoszując się uczuciem kontroli i napięciem dupka swojej dziewczyny."
 
 # game/day37.rpy:475
 translate polish day37_choices_a5470a99:
@@ -1586,7 +1586,7 @@ translate polish day37_choices_74e7ec77:
 translate polish day37_choices_361ee879:
 
     # "{i}You lay next to her, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
-    ""
+    "{i}Leżysz obok niej, ignorując mokrą pościel, kładąc zaborczą dłoń na jej brzuchu, którego ona nie odsuwa."
 
 # game/day37.rpy:535
 translate polish day37_choices_d1a42c18:
@@ -1604,7 +1604,7 @@ translate polish day37_choices_9ce8a0ac:
 translate polish day37_choices_81fd5ead:
 
     # "{i}You lay next to her, putting a possessive hand on her belly, which she doesn't brush away."
-    ""
+    "{i}Kładziesz się obok niej, kładąc zaborczą dłoń na jej brzuchu, którego ona nie odsuwa."
 
 # game/day37.rpy:541
 translate polish day37_choices_76643805:
@@ -1820,7 +1820,7 @@ translate polish day37_choices_be625128:
 translate polish day37_choices_b21b50f1:
 
     # "{i}Dinner is rather uneventful, but it's nice to see everyone present."
-    ""
+    "{i}Kolacja jest raczej nieciekawa, ale miło jest widzieć wszystkich obecnych."
 
 # game/day37.rpy:605
 translate polish day37_choices_8525d230:
@@ -1994,7 +1994,7 @@ translate polish day37_evening_choices_768a8ed3:
 translate polish day37_evening_choices_300ebf6f:
 
     # r "Mmmm, making my older friend do what I want... Interesting..."
-    r ""
+    r "Mmmm sprawianie, że mój starszy przyjaciel robi to, czego chcę Interesujące"
 
 # game/day37.rpy:653
 translate polish day37_evening_choices_ca08e60c:
@@ -2072,7 +2072,7 @@ translate polish day37_evening_choices_e5a9c664:
 translate polish day37_evening_choices_aa5b107d:
 
     # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her younger friend."
-    ""
+    "{i}Pomimo odważnego wyrazu twarzy, ruchy [b_name] są nieco niezdecydowane, prawdopodobnie dlatego, że wciąż nie jest przyzwyczajona do widoku ciebie palcującego jej młodszą przyjaciółkę."
 
 # game/day37.rpy:674
 translate polish day37_evening_choices_c72aedeb:
@@ -2108,13 +2108,13 @@ translate polish day37_evening_choices_055a8d7f:
 translate polish day37_evening_choices_89df8631:
 
     # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger friend only has eyes for you."
-    ""
+    "{i}[r_name] nie dostrzega spojrzenia [b_name] rzucanego na ciebie, ponieważ twój młodszy przyjaciel ma oczy tylko dla ciebie."
 
 # game/day37.rpy:683
 translate polish day37_evening_choices_b53fab4a:
 
     # "{i}[b_name] lowers her head between the girl's legs and probes her friend's pussy with her tongue."
-    ""
+    "{i}[b_name] opuszcza głowę między nogi dziewczyny i bada językiem cipkę koleżanki."
 
 # game/day37.rpy:685
 translate polish day37_evening_choices_2b73277a:
@@ -2150,7 +2150,7 @@ translate polish day37_evening_choices_e43a10d0:
 translate polish day37_evening_choices_22a1143d:
 
     # "{i}The sight of [b_name]'s ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
-    ""
+    "{i}Widok tyłka [b_name] w powietrzu, gdy ona sprawia przyjemność [r_name] sprawia, że jesteś twardy jak skała."
 
 # game/day37.rpy:695
 translate polish day37_evening_choices_0cb02496:
@@ -2204,7 +2204,7 @@ translate polish day37_evening_choices_1a123dac:
 translate polish day37_evening_choices_40f5a25d:
 
     # "{i}You turn your attention to your youngest friend's petite breasts and play with her soft nipples."
-    ""
+    "{i}Zwracasz uwagę na drobne piersi swojej najmłodszej przyjaciółki i bawisz się jej miękkimi sutkami."
 
 # game/day37.rpy:708
 translate polish day37_evening_choices_4289a6e1:
@@ -2222,7 +2222,7 @@ translate polish day37_evening_choices_d3b998b3:
 translate polish day37_evening_choices_9a7bdf0f:
 
     # "{i}[r_name] clearly doesn't mind the gagging noises her older friend makes when she takes the full length of your shaft down her throat."
-    ""
+    "{i}[r_name] najwyraźniej nie ma nic przeciwko odgłosom kneblowania, które wydaje jej starsza koleżanka, gdy bierze całą długość twojego wału do gardła."
 
 # game/day37.rpy:714
 translate polish day37_evening_choices_9a81a38e:
@@ -2276,13 +2276,13 @@ translate polish day37_evening_choices_897ce8c7:
 translate polish day37_evening_choices_02bc7901:
 
     # "{i}You make sure [b_name] has a good view of her friend's cunt as you push your cock inside her."
-    ""
+    "{i}Upewnij się, że [b_name] ma dobry widok na cipę swojej przyjaciółki, gdy wpychasz w nią swojego kutasa."
 
 # game/day37.rpy:727
 translate polish day37_evening_choices_e763001d:
 
     # "{i}Thanks to her older friend's cunnilingus, [r_name] is dripping wet and your dick slides inside her with ease."
-    ""
+    "{i}Dzięki cunnilingus jej starszej koleżanki [r_name] jest ociekająca wilgocią, a twój kutas wsuwa się w nią z łatwością."
 
 # game/day37.rpy:729
 translate polish day37_evening_choices_bcb391ab:
@@ -2312,7 +2312,7 @@ translate polish day37_evening_choices_1d6407b8:
 translate polish day37_evening_choices_4b12575d:
 
     # "{i}Fucking your youngest friend requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
-    ""
+    "{i}Pieprzenie swojej najmłodszej przyjaciółki wymaga całej twojej uwagi, ale kiedy jesteś w stanie spojrzeć na [b_name], widzisz ją wpatrującą się w ciebie z podnieconą fascynacją."
 
 # game/day37.rpy:737
 translate polish day37_evening_choices_78ec61d3:
@@ -2342,7 +2342,7 @@ translate polish day37_evening_choices_c40689ba:
 translate polish day37_evening_choices_923fb82b:
 
     # "{i}Your girlfriend lets herself be flipped over willingly and you pull her ass, your dick slipping past her labia with ease."
-    ""
+    "{i}Twoja dziewczyna pozwala się dobrowolnie przewrócić, a ty ciągniesz ją za tyłek, a twój kutas z łatwością prześlizguje się obok jej warg sromowych."
 
 # game/day37.rpy:745
 translate polish day37_evening_choices_bc7191e6:
@@ -2366,7 +2366,7 @@ translate polish day37_evening_choices_b17cc246:
 translate polish day37_evening_choices_0112f2be:
 
     # p "Taste your friend."
-    p ""
+    p "Posmakuj swojego przyjaciela"
 
 # game/day37.rpy:752
 translate polish day37_evening_choices_a2d73374:
@@ -2384,7 +2384,7 @@ translate polish day37_evening_choices_264d421f:
 translate polish day37_evening_choices_389a301e:
 
     # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her friend's salty juices."
-    ""
+    "{i}Z oddaniem [b_name] czyści twojego kutasa ustami, upewniając się, że połknie wszystkie słone soki swojej przyjaciółki."
 
 # game/day37.rpy:757
 translate polish day37_evening_choices_eaa9ca80:
@@ -2432,7 +2432,7 @@ translate polish day37_evening_choices_27c1021b:
 translate polish day37_evening_choices_f26b41da:
 
     # "{i}[b_name] is lying ready underneath her friend, when you coat [r_name]'s vaginal tract with warm seed."
-    ""
+    "{i}[b_name] leży gotowa pod swoją przyjaciółką, gdy pokrywasz pochwę [r_name] ciepłym nasieniem."
 
 # game/day37.rpy:774
 translate polish day37_evening_choices_ac9c5d61:
@@ -2462,7 +2462,7 @@ translate polish day37_evening_choices_7aa4b920:
 translate polish day37_evening_choices_a2822f5d:
 
     # "{i}[b_name] is at the ready when you pull out and spray your younger friend's back with warm seed."
-    ""
+    "{i}[b_name] jest gotowy, gdy wyciągniesz i spryskasz plecy swojego młodszego przyjaciela ciepłym nasieniem."
 
 # game/day37.rpy:791
 translate polish day37_evening_choices_fdc20f93:
@@ -2480,7 +2480,7 @@ translate polish day37_evening_choices_2a2f76f1:
 translate polish day37_evening_choices_7c509ab8:
 
     # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older friend's face with a fountain of cum."
-    ""
+    "{i}Aby ułatwić sprawę [b_name], wysuwasz się z [r_name] i wysadzasz twarz swojego starszego przyjaciela fontanną spermy."
 
 # game/day37.rpy:804
 translate polish day37_evening_choices_e88f8e64:
@@ -2516,7 +2516,7 @@ translate polish day37_evening_choices_5ae801e3:
 translate polish day37_evening_choices_01154c56:
 
     # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older friend's sexual performance."
-    ""
+    "{i}[b_name] na początku jest bardzo spięta, ale w końcu opuszcza gardę, gdy [r_name] mamrocze różne komplementy na temat sprawności seksualnej swojej starszej przyjaciółki."
 
 # game/day37.rpy:819
 translate polish day37_evening_choices_c88d4cdc:
@@ -2642,7 +2642,7 @@ translate polish day37_l_conversation_040347db:
 translate polish day37_l_conversation_664711f6:
 
     # "{i}You've never seen her more resolute and know in an instant that all is lost..."
-    ""
+    "{i}Nigdy nie widziałeś jej bardziej zdecydowanej i w jednej chwili wiesz, że wszystko jest stracone."
 
 # game/day37.rpy:879
 translate polish day37_l_conversation_e4637412:
@@ -3158,7 +3158,7 @@ translate polish day37_b_l_gym_890d8cfd:
 translate polish day37_b_l_gym_b8750bc4:
 
     # "{i}You enjoy the sight of your friends' taut muscles, the beads of sweat pearling on their naked skin and the curves pressing against the thin fabric of their sportswear."
-    ""
+    "{i}Cieszysz się widokiem napiętych mięśni swoich przyjaciół, kropelek potu perlących się na ich nagiej skórze i krzywizn naciskających na cienki materiał ich odzieży sportowej."
 
 # game/day37.rpy:1005
 translate polish day37_b_l_gym_fd3e7438:
@@ -3392,7 +3392,7 @@ translate polish day37_b_l_gym_c86a1e45:
 translate polish day37_b_l_gym_9c03ad36:
 
     # "{i}Your friends both order a salad, while you opt for a sandwich."
-    ""
+    "{i}Twoi znajomi zamawiają sałatkę, a ty wybierasz kanapkę."
 
 # game/day37.rpy:1064
 translate polish day37_b_l_gym_10256e9c:
@@ -3842,7 +3842,7 @@ translate polish day37_l_deflower_b5ff6b7e:
 translate polish day37_l_deflower_62a01c15:
 
     # "{i}[l_name] gasps as you press your fingers against her panties, you feel her wetness through the fabric."
-    ""
+    "{i}[l_name] sapie, gdy przyciskasz palce do jej majtek, czujesz jej wilgoć przez materiał."
 
 # game/day37.rpy:1179
 translate polish day37_l_deflower_7ddcc5d8:
@@ -3914,7 +3914,7 @@ translate polish day37_l_deflower_3a8b91a9:
 translate polish day37_l_deflower_1b4392ef:
 
     # "{i}Due to your attentions, your girl is starting to become ever more aroused, as evidenced by the increasing wetness of her cunt."
-    ""
+    "{i}Dzięki twoim uwagom twoja dziewczyna zaczyna być coraz bardziej podniecona, o czym świadczy rosnąca wilgotność jej cipki."
 
 # game/day37.rpy:1199
 translate polish day37_l_deflower_c5763b44:
@@ -3926,7 +3926,7 @@ translate polish day37_l_deflower_c5763b44:
 translate polish day37_l_deflower_abfd8280:
 
     # "{i}Testing the waters, you slip two fingers inside [l_name]'s pussy, causing her to hold her breath, releasing it as she adjusts to the fullness in her vagina."
-    ""
+    "{i}Testując wody, wsuwasz dwa palce do cipki [l_name], powodując, że wstrzymuje oddech, zwalniając go, gdy dostosowuje się do pełni w pochwie."
 
 # game/day37.rpy:1203
 translate polish day37_l_deflower_015ffad2:
@@ -3950,7 +3950,7 @@ translate polish day37_l_deflower_ce51ffbd:
 translate polish day37_l_deflower_2b38133f:
 
     # "{i}When you open your girl's legs and she sees your hard cock in its glory, a flash of panic marks her face."
-    ""
+    "{i}Kiedy otwierasz nogi swojej dziewczyny, a ona widzi twojego twardego kutasa w całej okazałości, na jej twarzy pojawia się panika."
 
 # game/day37.rpy:1211
 translate polish day37_l_deflower_5c6487d0:
@@ -3992,7 +3992,7 @@ translate polish day37_l_deflower_1cbbdcf8:
 translate polish day37_l_deflower_dc4f2e64:
 
     # "{i}When your lips meet you taste her hunger and desire, emboldening you to fully take your girlfriend's virginity."
-    ""
+    "{i}Kiedy twoje usta się spotykają, smakujesz jej głód i pożądanie, ośmielając cię do pełnego odebrania dziewictwa swojej dziewczynie."
 
 # game/day37.rpy:1224
 translate polish day37_l_deflower_c5f9be43:
@@ -4028,7 +4028,7 @@ translate polish day37_l_deflower_e1e88f4d:
 translate polish day37_l_deflower_5a51374b:
 
     # "{i}In response you bury your dick a little deeper inside her, increasing the speed with which you hit her pussy and your girl starts to moan softly."
-    ""
+    "{i}W odpowiedzi zakopujesz swojego kutasa nieco głębiej w jej wnętrzu, zwiększając prędkość, z jaką uderzasz w jej cipkę, a twoja dziewczyna zaczyna cicho jęczeć."
 
 # game/day37.rpy:1233
 translate polish day37_l_deflower_1676d17b:
@@ -4082,7 +4082,7 @@ translate polish day37_l_deflower_567f04e7:
 translate polish day37_l_deflower_b63a77af:
 
     # "{i}You kiss your girl's sweet face, the constrictions of her tight pussy expediting your orgasm."
-    ""
+    "{i}Całujesz słodką twarz swojej dziewczyny, a zwężenia jej ciasnej cipki przyspieszają twój orgazm."
 
 # game/day37.rpy:1247
 translate polish day37_l_deflower_c4f57d5d:
@@ -4142,7 +4142,7 @@ translate polish day37_l_deflower_eab3caea:
 translate polish day37_l_deflower_d70c5924:
 
     # "{i}Your girlfriend is too absorbed by you to notice the cum dripping out of her pussy, but you can't help but admire the view."
-    ""
+    "{i}Twoja dziewczyna jest zbyt zaabsorbowana tobą, aby zauważyć spermę kapiącą z jej cipki, ale nie możesz powstrzymać się od podziwiania tego widoku."
 
 # game/day37.rpy:1271
 translate polish day37_l_deflower_2067248c_1:
@@ -4322,451 +4322,2081 @@ translate polish strings:
     old "Ask about [b_name]'s work"
     new "Zapytaj o pracę Belli"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day37.rpy:46
-translate polish day37_304d226c:
-
-    # "{i}[r_name]'s ass wiggles suggestively in the air, and you cannot contain yourself any longer."
-    "{i}[r_name] dupa sugestywnie wije się w powietrzu, a ty nie możesz się dłużej powstrzymać."
-
-# game/day37.rpy:105
-translate polish day37_23c79517:
-
-    # "{i}When you thrust deep inside her, [b_name] begins to tremble, and a clawed hand slaps on your back."
-    "{i}Kiedy pchasz się głęboko w jej wnętrze [b_name] zaczyna drżeć, a szponiasta ręka klepie cię po plecach."
-
-# game/day37.rpy:118
-translate polish day37_21185f76:
-
-    # "{i}The sight of your sisters covered in squirt makes you horny beyond belief and craving an orgasm."
-    "{i}Widok twoich sióstr pokrytych squirtem sprawia, że jesteś napalony ponad miarę i pragniesz orgazmu."
-
-# game/day37.rpy:120
-translate polish day37_5e55c334:
-
-    # "{i}The sight of [b_name] and [r_name] covered in squirt makes you horny beyond belief and craving an orgasm."
-    "{i}Widok [b_name] i [r_name] pokrytych squirtem sprawia, że jesteś napalony ponad miarę i pragniesz orgazmu."
-
-# game/day37.rpy:127
-translate polish day37_6f37408b:
-
-    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside your little sister, and soon enough, your seed starts flowing inside of her."
-    "{i}Pomimo atrakcyjności ociekającej mokrą cipą [b_name] postanawiasz skończyć wewnątrz swojej młodszej siostry i wkrótce twoje nasienie zaczyna płynąć w jej wnętrzu"
-
-# game/day37.rpy:129
-translate polish day37_e6cf135e:
-
-    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside [r_name], and soon enough, your seed starts flowing inside of her."
-    "{i}Pomimo atrakcyjności ociekającej mokrą cipą [b_name] postanawiasz skończyć wewnątrz [r_name] i wkrótce twoje nasienie zaczyna płynąć w jej wnętrzu"
-
-# game/day37.rpy:132
-translate polish day37_d83845e4:
-
-    # "{i}A desire to cream your little sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
-    "{i}Pragnienie kremowania twojej małej siostry z pełną siłą twojego orgazmu pokonuje cię w ciągu kilku sekund i twoje nasienie zaczyna płynąć w jej wnętrzu."
-
-# game/day37.rpy:134
-translate polish day37_8db2f62d:
-
-    # "{i}A desire to cream [r_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
-    "{i}Pragnienie kremu [r_name] z pełną siłą twojego orgazmu pokonuje cię w ciągu kilku sekund i twoje nasienie zaczyna płynąć w jej wnętrzu."
-
-# game/day37.rpy:138
-translate polish day37_60bec761:
-
-    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her sister, a little envious of the treatment the younger girl has received."
-    "{i}Uśmiechnięta [r_name] palcuje się jak twoje cum wycieka z jej cipki [b_name] całuje siostrę trochę zazdrosna o traktowanie młodszej dziewczyny"
-
-# game/day37.rpy:140
-translate polish day37_f79e8759:
-
-    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her friend, a little envious of the treatment the younger girl has received."
-    "{i}Uśmiechnięta [r_name] palcuje się jak twoje cum wycieka z jej cipki [b_name] całuje swoją przyjaciółkę trochę zazdrosna o traktowanie młodszej dziewczyny"
-
-# game/day37.rpy:151
-translate polish day37_f648e5eb:
-
-    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your older sister."
-    "{i}[b_name] ociekająca mokrą cipą jest tak atrakcyjna, że postanawiasz zerżnąć ją jeszcze raz i skończyć w środku starszej siostry."
-
-# game/day37.rpy:153
-translate polish day37_9db498b6:
-
-    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your girl."
-    "{i}[b_name] ociekająca mokrą cipą jest tak atrakcyjna, że postanawiasz zerżnąć ją jeszcze raz i skończyć wewnątrz swojej dziewczyny."
-
-# game/day37.rpy:155
-translate polish day37_4e056e92:
-
-    # "{i}Soon enough, your seed starts flowing inside of her, and [b_name] moans in rapturous acceptance."
-    "{i}Wkrótce twoje nasienie zaczyna płynąć w jej wnętrzu, a [b_name] jęczy w zachwycającej akceptacji."
-
-# game/day37.rpy:159
-translate polish day37_aa4e8d70:
-
-    # "{i}A desire to cream your older sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
-    "{i}Pragnienie kremowania twojej starszej siostry z pełną siłą twojego orgazmu pokonuje cię w ciągu kilku sekund i twoje nasienie zaczyna płynąć w jej wnętrzu."
-
-# game/day37.rpy:161
-translate polish day37_63ceb15f:
-
-    # "{i}A desire to cream [b_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
-    "{i}Pragnienie kremu [b_name] z pełną siłą twojego orgazmu pokonuje cię w ciągu kilku sekund i twoje nasienie zaczyna płynąć w jej wnętrzu."
-
-# game/day37.rpy:166
-translate polish day37_e54b12ac:
-
-    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her sister, a little envious of the treatment the older girl has received."
-    "{i}Uśmiechnięta [b_name] palcuje się, gdy twoje cum wycieka z jej cipki [r_name] całuje siostrę trochę zazdrosna o traktowanie, jakie otrzymała starsza dziewczyna"
-
-# game/day37.rpy:168
-translate polish day37_aa991e34:
-
-    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her friend, a little envious of the treatment the older girl has received."
-    "{i}Uśmiechnięta [b_name] palcuje się, gdy twoje cum wycieka z jej cipki [r_name] całuje swoją przyjaciółkę trochę zazdrosna o traktowanie, jakie otrzymała starsza dziewczyna"
-
-# game/day37.rpy:179
-translate polish day37_abdc207b:
-
-    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
-    "{i}Zaczynasz się masturbować przed swoimi dziewczynami, twoje oczy lgną do ich nagich ciał ulizanych squirtem."
-
-# game/day37.rpy:186
-translate polish day37_1cfd043b:
-
-    # "{i}When it finally comes, you manage to treat both of their bellies to a blast of cum, and both girls seem very satisfied."
-    "{i}Kiedy wreszcie przychodzi udaje ci się traktować oba ich brzuchy do podmuchu cum i obie dziewczyny wydają się bardzo zadowolone."
-
-# game/day37.rpy:197
-translate polish day37_abdc207b_1:
-
-    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
-    "{i}Zaczynasz się masturbować przed swoimi dziewczynami, twoje oczy lgną do ich nagich ciał ulizanych squirtem."
-
-# game/day37.rpy:204
-translate polish day37_c7529624:
-
-    # "{i}When it finally comes, you manage to treat both of their faces to a blast of cum, and both girls seem very satisfied."
-    "{i}Kiedy wreszcie przychodzi udaje ci się traktować obie ich twarze do podmuchu cum i obie dziewczyny wydają się bardzo zadowolone."
-
-# game/day37.rpy:213
-translate polish day37_f94dd09d:
-
-    # "{i}It's at that moment that you know something momentous has happened, and you just know both your sisters can come to love each other as more than just family."
-    "{i}To w tym momencie, że wiesz, że coś doniosłego się stało i po prostu wiesz, że obie siostry mogą przyjść do kochania się jako coś więcej niż tylko rodzina"
-
-# game/day37.rpy:215
-translate polish day37_a3639d07:
-
-    # "{i}It's at that moment that you know something momentous has happened, and you just know both your friends can come to love each other as more than just friends."
-    "{i}To w tym momencie wiesz, że coś doniosłego się stało i po prostu wiesz, że obaj przyjaciele mogą przyjść, aby kochać się jako coś więcej niż tylko przyjaciele"
-
-# game/day37.rpy:222
+# game/day37.rpy:22
 translate polish day37_87acd5fa:
 
     # "{i}On your way back from [r_name]'s room, you pass by [l_name]'s door and decide to check in on her."
-    "{i}Wracając z pokoju [r_name] przechodzisz obok drzwi [l_name] i postanawiasz sprawdzić, co u niej słychać."
+    "{i}W drodze powrotnej z pokoju Rachel mijasz drzwi Lizy i decydujesz się sprawdzić co u niej."
 
-# game/day37.rpy:259
+# game/day37.rpy:61
 translate polish day37_choices_ebfb2d20_1:
 
     # b "Yeah, I know... But I already asked [l_name]..."
-    b "Tak wiem Ale już pytałem [l_name]"
+    b "Tak, wiem... Ale już zapytałam Lizę..."
 
-# game/day37.rpy:329
+# game/day37.rpy:131
 translate polish day37_choices_b34f0e0e:
 
     # "{i}You step towards the bed, and [b_name] cringes as you stretch out your hand."
-    "{i}Robisz krok w stronę łóżka i [b_name] krzywi się, gdy wyciągasz rękę."
+    "{i}Podchodzisz do łóżka, Bella wzdryga się, gdy wyciągasz do niej rękę."
 
-# game/day37.rpy:371
-translate polish day37_choices_2bb3ae92:
-
-    # "{i}[b_name] does so, and you can't help but slap her delightful buttocks before positioning yourself between her legs."
-    "{i}[b_name] robi to i nie możesz się powstrzymać od poklepania jej rozkosznych pośladków, zanim ustawisz się między jej nogami"
-
-# game/day37.rpy:378
-translate polish day37_choices_8ce8db45:
-
-    # "{i}Without saying anything, you push a finger against the wrinkles of your sister's anus and push ever so slightly."
-    "{i}Nie mówiąc nic wsuwasz palec w zmarszczki odbytu siostry i naciskasz coraz bardziej lekko."
-
-# game/day37.rpy:380
-translate polish day37_choices_cb06ee8e:
-
-    # "{i}Without saying anything, you push a finger against the wrinkles of [b_name]'s anus and push ever so slightly."
-    "{i}Nic nie mówiąc wciskasz palec w zmarszczki odbytu [b_name] i naciskasz coraz bardziej lekko"
-
-# game/day37.rpy:382
-translate polish day37_choices_397cc6f3:
-
-    # "{i}When you finger her tight hole, you get a response from [b_name] as she pushes her face down into the mattress and exhales violently."
-    "{i}Gdy palcami obmacujesz jej ciasną dziurkę, otrzymujesz odpowiedź od [b_name], gdy wciska twarz w materac i gwałtownie wydycha"
-
-# game/day37.rpy:388
-translate polish day37_choices_3d37397e:
-
-    # "{i}Your second finger joins the other one in her tight warm hole, and you continue to finger her."
-    "{i}Twój drugi palec dołącza do drugiego w jej ciasnej, ciepłej dziurce i dalej ją palcujesz"
-
-# game/day37.rpy:431
-translate polish day37_choices_50d2b002:
-
-    # "{i}You go slowly on her, and the pain-tinged cries of your sister slowly evolve into genuine expressions of pleasure."
-    "{i}Wchodzisz na nią powoli, a przesycone bólem krzyki siostry powoli ewoluują w szczere wyrazy rozkoszy"
-
-# game/day37.rpy:433
-translate polish day37_choices_497bec08:
-
-    # "{i}You go slowly on her, and the agonized cries of [b_name] slowly evolve into genuine expressions of pleasure."
-    "{i}Wchodzisz na nią powoli, a udręczone krzyki [b_name] powoli ewoluują w szczere wyrazy przyjemności"
-
-# game/day37.rpy:435
-translate polish day37_choices_52a996e2:
-
-    # "{i}Every thrust is a balancing act of pain and pleasure, but when you see the look on [b_name]'s face, you know she has accepted you fully."
-    "{i}Każde pchnięcie jest równoważeniem bólu i przyjemności, ale kiedy widzisz spojrzenie na twarzy [b_name] wiesz, że zaakceptowała cię w pełni"
-
-# game/day37.rpy:458
-translate polish day37_choices_ac18dda7:
-
-    # "{i}[b_name] is drooling on the bedsheets, and her eyes are rolled backward. The only sounds she can now manage are animalistic grunts as your cock plows her asshole."
-    "{i}[b_name] ślini się na pościel, a jej oczy są przewrócone do tyłu Jedyne dźwięki, jakie może teraz wydawać, to zwierzęce chrząkania, gdy twój kutas przeoruje jej dupę."
-
-# game/day37.rpy:488
-translate polish day37_choices_bd2027d4:
-
-    # "{i}After you pull out, it takes a long while for your seed to trickle out of her winking asshole."
-    "{i}Po wyciągnięciu trwa długa chwila, aż twoje nasienie ścieknie z jej mrugającej dupki."
-
-# game/day37.rpy:621
-translate polish day37_evening_choices_4332053d:
-
-    # r "Whenever I think of you, I just can't help myself."
-    r "Kiedykolwiek myślę o tobie, nie mogę się powstrzymać"
-
-# game/day37.rpy:685
-translate polish day37_evening_choices_fed25d20:
-
-    # p "Does that feel good, [r_name]?"
-    p "Czy to jest dobre uczucie [r_name]?"
-
-# game/day37.rpy:699
-translate polish day37_evening_choices_04f9a4bd:
-
-    # p "[b_name], come over here and suck my cock."
-    p "[b_name] podejdź tu i obciągnij mi kutasa"
-
-# game/day37.rpy:718
-translate polish day37_evening_choices_421de7b3:
-
-    # p "That's enough, [b_name]."
-    p "Wystarczy [b_name]"
-
-# game/day37.rpy:724
-translate polish day37_evening_choices_f4fff822:
-
-    # "{i}Thanks to her older sister's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
-    "{i}Dzięki cunnilingusowi jej starszej siostry [r_name] jest ociekająca wilgocią, a twój kutas wsuwa się w nią z łatwością."
-
-# game/day37.rpy:727
-translate polish day37_evening_choices_989e44bf:
-
-    # "{i}Thanks to her older friend's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
-    "{i}Dzięki cunnilingusowi jej starszej koleżanki [r_name] jest ociekająca wilgocią, a twój kutas wsuwa się w nią z łatwością."
-
-# game/day37.rpy:742
-translate polish day37_evening_choices_c5299c91:
-
-    # "{i}Your sister lets herself be flipped over willingly, and you pull her ass close towards you, your dick slipping past her labia with ease."
-    "{i}Twoja siostra pozwala się przewrócić chętnie i ciągniesz jej tyłek blisko siebie twój kutas ślizgając się przez jej labia z łatwością"
-
-# game/day37.rpy:744
-translate polish day37_evening_choices_30441d0e:
-
-    # "{i}Your girlfriend lets herself be flipped over willingly, and you pull her ass, your dick slipping past her labia with ease."
-    "{i}Twoja dziewczyna pozwala się przewrócić chętnie i ciągniesz ją za tyłek twój kutas ślizgając się po jej wargach z łatwością."
-
-# game/day37.rpy:769
-translate polish day37_evening_choices_740a03ae:
-
-    # "{i}[b_name] is lying ready underneath her sister when you coat [r_name]'s vaginal tract with warm seed."
-    "{i}[b_name] leży gotowa pod siostrą, gdy powlekasz pochwę [r_name] ciepłym nasieniem."
-
-# game/day37.rpy:771
-translate polish day37_evening_choices_24b01484:
-
-    # "{i}[b_name] is lying ready underneath her friend when you coat [r_name]'s vaginal tract with warm seed."
-    "{i}[b_name] leży gotowa pod swoim przyjacielem, gdy powlekasz pochwę [r_name] ciepłym nasieniem."
-
-# game/day37.rpy:905
+# game/day37.rpy:302
 translate polish day37_l_conversation_fe48c3e4:
 
     # p "You did, and I'm proud of you."
-    p "Zrobiłeś to i jestem z ciebie dumny"
+    p "Tak i jestem z Ciebie dumny."
 
-# game/day37.rpy:917
+# game/day37.rpy:314
 translate polish day37_l_conversation_f3c11eff:
 
     # "{i}[l_name] suddenly hugs you, her lips find yours, and you taste the hunger in the kiss you share."
-    "{i}[l_name] nagle cię przytula jej usta znajdują twoje i smakujesz głód w pocałunku, który dzielicie."
+    "{i}[l_name] nagle cię przytula, jej usta znajdują twoje, a ty czujesz głód w pocałunku, który dzielicie."
 
-# game/day37.rpy:926
+# game/day37.rpy:323
 translate polish day37_l_conversation_91a5342a:
 
     # l "There was some new fitness program, and she was looking for a partner."
-    l "Był jakiś nowy program fitness i szukała partnera"
+    l "Pojawiły się jakieś nowe zajęcia fitness i potrzebuje partnera."
 
-# game/day37.rpy:987
+# game/day37.rpy:387
 translate polish day37_b_l_gym_64d955af:
 
     # "{i}The instructor explains a couple of the moves first by demonstrating them. Then it's time for [l_name] and [b_name] to mimic the exercises."
-    "{i}Instruktor wyjaśnia kilka ruchów najpierw je demonstrując Potem przychodzi czas na [l_name] i [b_name], aby naśladować ćwiczenia"
+    "{i}Instruktor najpierw wyjaśnia kilka ruchów, demonstrując je, a następnie [l_name] i [b_name] naśladują ćwiczenia."
 
-# game/day37.rpy:1000
+# game/day37.rpy:400
 translate polish day37_b_l_gym_761c9c5c:
 
     # "{i}You enjoy the sight of your sisters' taut muscles, the beads of sweat pearling on their naked skin, and the curves pressing against the thin fabric of their sportswear."
-    "{i}Cieszy Cię widok napiętych mięśni Twoich sióstr koraliki potu perlące się na ich nagiej skórze i krągłości wciskające się w cienki materiał ich sportowych strojów"
+    "{i}Cieszysz się widokiem napiętych mięśni swoich sióstr, kropel potu perlących się na ich nagiej skórze i krągłości opinanymi cienką tkaniną ich odzieży sportowej."
 
-# game/day37.rpy:1002
+# game/day37.rpy:402
 translate polish day37_b_l_gym_27e97ce9:
 
     # "{i}You enjoy the sight of your friends' taut muscles, the beads of sweat pearling on their naked skin, and the curves pressing against the thin fabric of their sportswear."
-    "{i}Cieszysz się widokiem napiętych mięśni swoich przyjaciół koralików potu perlących się na ich nagiej skórze i krągłości wciskających się w cienki materiał ich sportowej odzieży"
+    "{i}Cieszysz się widokiem napiętych mięśni swoich przyjaciół, kropelek potu perlących się na ich nagiej skórze i krzywizn naciskających na cienki materiał ich odzieży sportowej."
 
-# game/day37.rpy:1005
+# game/day37.rpy:405
 translate polish day37_b_l_gym_70f2d196:
 
     # "{i}As the exercise program progresses and becomes evermore physical, you feel a pang of jealousy that [b_name] chose [l_name] as a sparring partner."
-    "{i}W miarę jak program ćwiczeń postępuje i staje się coraz bardziej fizyczny, czujesz ukłucie zazdrości, że [b_name] wybrało [l_name] na sparingpartnera."
+    "{i}W miarę jak zajęcia postępują i stają się coraz bardziej fizyczne, czujesz ukłucie zazdrości, że Bella wybrała sobie Lizę na partnera do sparingu."
 
-# game/day37.rpy:1007
+# game/day37.rpy:407
 translate polish day37_b_l_gym_507ca302:
 
     # "{i}As the exercise program progresses and becomes evermore physical, you feel a pang of jealousy that you weren't included as a sparring partner."
-    "{i}W miarę postępu programu ćwiczeń i coraz większego wysiłku fizycznego odczuwasz zazdrość, że nie zostałeś uwzględniony jako sparingpartner."
+    "{i}W miarę jak zajęcia postępują i stają się coraz bardziej fizyczne, czujesz ukłucie zazdrości, że nie zostałeś wzięty pod uwagę jako potencjalny sparingpartner."
 
-# game/day37.rpy:1051
+# game/day37.rpy:454
 translate polish day37_b_l_gym_51a6a2df:
 
     # b "We did and had tons of fun."
-    b "Zrobiliśmy i mieliśmy mnóstwo zabawy"
+    b "Zrobiliśmy to i świetnie się bawiliśmy"
 
-# game/day37.rpy:1142
+# game/day37.rpy:549
 translate polish day37_l_b_conversation_4cb2deaa:
 
     # "{i}On your way, you pass the mall and ask the girls to wait for you."
-    "{i}Po drodze mijasz centrum handlowe i prosisz dziewczyny, żeby na ciebie poczekały"
+    "{i}Po drodze mijasz centrum handlowe i prosisz dziewczyny, by na ciebie poczekały."
 
-# game/day37.rpy:1170
+# game/day37.rpy:581
 translate polish day37_l_deflower_cc59b2c5:
 
     # "{i}That statement has lit a spark of courage in [l_name], and this time, she kisses you with a hunger you understand immediately."
-    "{i}To stwierdzenie rozpaliło w [l_name] iskrę odwagi i tym razem całuje cię z głodem, który natychmiast rozumiesz."
+    "{i}To stwierdzenie rozpaliło w Lizie iskierkę odwagi i tym razem całuje Cię z głodem, który natychmiast rozumiesz."
 
-# game/day37.rpy:1173
+# game/day37.rpy:584
 translate polish day37_l_deflower_b44cb801:
 
     # "{i}As you kiss her nipples, you're overwhelmed by her sweet perfume and a desire to see even more of her, so you trail your way down."
-    "{i}Gdy całujesz jej sutki, ogarnia cię jej słodki zapach i pragnienie zobaczenia jeszcze więcej jej, więc szlakiem w dół"
+    "{i}Kiedy całujesz jej sutki, przytłacza Cię słodki zapach jej perfum i ogarnia Cię pragnienie zobaczenia jej jeszcze więcej, więc przesuwasz się w dół."
 
-# game/day37.rpy:1204
+# game/day37.rpy:622
 translate polish day37_l_deflower_f956c7b8:
 
     # "{i}During your time between [l_name]'s legs, you've managed to remove your underwear, to free your growing erection."
-    "{i}Podczas pobytu między nogami [l_name] udało ci się zdjąć bieliznę, aby uwolnić swoją rosnącą erekcję."
+    "{i}W tym czasie udaje Ci się zdjąć bieliznę i uwalniasz swoją rosnącą erekcję."
 
-# game/day37.rpy:1207
+# game/day37.rpy:625
 translate polish day37_l_deflower_5c43f73b:
 
     # "{i}When you open your sister's legs, and she sees your hard cock in its glory, a flash of panic marks her face."
-    "{i}Kiedy otwierasz nogi siostry i ona widzi twojego twardego kutasa w całej okazałości błysk paniki zaznacza jej twarz."
+    "{i}Kiedy rozchylasz nogi swojej siostry i zauważa Twojego twardego penisa w całej okazałości, na jej twarzy pojawia się błysk paniki."
 
-# game/day37.rpy:1209
+# game/day37.rpy:627
 translate polish day37_l_deflower_8dc4077c:
 
     # "{i}When you open your girl's legs, and she sees your hard cock in its glory, a flash of panic marks her face."
-    "{i}Kiedy otwierasz nogi swojej dziewczyny i ona widzi twojego twardego kutasa w całej okazałości błysk paniki zaznacza jej twarz."
+    "{i}Kiedy otwierasz nogi swojej dziewczyny, a ona widzi twojego twardego kutasa w całej okazałości, na jej twarzy pojawia się panika."
 
-# game/day37.rpy:1214
+# game/day37.rpy:636
 translate polish day37_l_deflower_9a068819:
 
     # "{i}[l_name] has her eyes closed and bites her lip but makes no move to stop you, and you push a little further."
-    "{i}[l_name] ma zamknięte oczy i przygryza wargę, ale nie robi żadnego ruchu, by cię zatrzymać, a ty popychasz trochę dalej"
+    "{i}Liza ma zamknięte oczy i przygryza wargę, ale nie robi żadnego ruchu, żeby Cię zatrzymać, więc pchasz trochę dalej."
 
-# game/day37.rpy:1216
+# game/day37.rpy:638
 translate polish day37_l_deflower_f99c4980:
 
     # "{i}Her eyes open, and she smiles at you."
-    "{i}Jej oczy się otwierają i uśmiecha się do ciebie"
+    "{i}Otwiera oczy i uśmiecha się do Ciebie."
 
-# game/day37.rpy:1220
+# game/day37.rpy:642
 translate polish day37_l_deflower_ab59d9bb:
 
     # "{i}When your lips meet, you taste her hunger and desire, emboldening you to fully take your big sister's virginity."
-    "{i}Kiedy wasze usta się spotykają, smakujesz jej głód i pożądanie ośmielając cię do pełnego wzięcia dziewictwa swojej starszej siostry."
+    "{i}Kiedy wasze usta się spotykają, wyczuwasz jej głód i pożądanie, co ośmiela Cię do pełnego odebrania dziewictwa Twojej siostry."
 
-# game/day37.rpy:1222
+# game/day37.rpy:644
 translate polish day37_l_deflower_a0a04d97:
 
     # "{i}When your lips meet, you taste her hunger and desire, emboldening you to fully take your girlfriend's virginity."
-    "{i}Kiedy wasze usta spotykają się smakujesz jej głód i pożądanie ośmielając cię do pełnego wzięcia dziewictwa swojej dziewczyny."
+    "{i}Kiedy twoje usta się spotykają, smakujesz jej głód i pożądanie, ośmielając cię do pełnego odebrania dziewictwa swojej dziewczynie."
 
-# game/day37.rpy:1230
+# game/day37.rpy:659
 translate polish day37_l_deflower_618cd15b:
 
     # "{i}In response, you bury your dick a little deeper inside her, increasing the speed with which you hit her pussy, and your sister starts to moan softly."
-    "{i}W odpowiedzi zakopujesz swojego kutasa nieco głębiej w jej wnętrzu zwiększając prędkość, z jaką uderzasz w jej cipkę, a twoja siostra zaczyna delikatnie jęczeć."
+    "{i}W odpowiedzi wbijasz się w nią trochę głębiej, zwiększając prędkość, z jaką posuwasz jej cipkę i Twoja siostra zaczyna cicho jęczeć."
 
-# game/day37.rpy:1232
+# game/day37.rpy:661
 translate polish day37_l_deflower_4916b3ba:
 
     # "{i}In response, you bury your dick a little deeper inside her, increasing the speed with which you hit her pussy, and your girl starts to moan softly."
-    "{i}W odpowiedzi zakopujesz swojego kutasa nieco głębiej w jej wnętrzu zwiększając prędkość z jaką uderzasz w jej cipkę, a Twoja dziewczyna zaczyna delikatnie jęczeć"
+    "{i}W odpowiedzi zakopujesz swojego kutasa nieco głębiej w jej wnętrzu, zwiększając prędkość, z jaką uderzasz w jej cipkę, a twoja dziewczyna zaczyna cicho jęczeć."
 
-# game/day37.rpy:1237
+# game/day37.rpy:666
 translate polish day37_l_deflower_1dee13a4:
 
     # "{i}With each penetration, you feel the barriers of shame and guilt [l_name] has built around herself crumble until she's fully enjoying the moment."
-    "{i}Z każdą penetracją czujesz, jak bariery wstydu i poczucia winy, które [l_name] zbudowała wokół siebie, kruszą się, aż w końcu w pełni cieszy się chwilą"
+    "{i}Z każdym pchnięciem czujesz, że bariery wstydu i poczucia winy, które Liza zbudowała wokół siebie, kruszą się, aż w końcu w pełni cieszy się chwilą."
 
-# game/day37.rpy:1240
+# game/day37.rpy:669
 translate polish day37_l_deflower_0d00545d:
 
     # l "I love you so much, [p_name]!"
     l "Tak bardzo Cię kocham [p_name]!"
 
-# game/day37.rpy:1247
+# game/day37.rpy:676
 translate polish day37_l_deflower_8440d6e5:
 
     # "{i}Announcing your orgasm feels a little weird, but as it's [l_name]'s first time, you don't want to surprise her."
-    "{i}Ogłaszając swój orgazm czuje się trochę dziwnie, ale ponieważ jest to pierwszy raz [l_name] nie chcesz jej zaskoczyć."
+    "{i}Ogłaszanie swojego orgazmu wydaje Ci się trochę dziwne, ale z racji, że to pierwszy raz Lizy, to nie chcesz jej zaskoczyć."
 
-# game/day37.rpy:1253
+# game/day37.rpy:682
 translate polish day37_l_deflower_7dca14d9:
 
     # "{i}There's no doubt in your mind where you'll finish, so as your orgasm surges, you firmly stay inside her."
-    "{i}Nie ma wątpliwości w swoim umyśle, gdzie skończysz, więc jak twój orgazm przepływa, stanowczo pozostajesz w niej."
+    "{i}Nie masz wątpliwości co do tego, gdzie skończyć, więc gdy Twój orgazm narasta, pewnie pozostajesz w jej wnętrzu."
 
-# game/day37.rpy:1257
+# game/day37.rpy:691
 translate polish day37_l_deflower_9020989f:
 
     # "{i}Thick streams of cum shoot inside her vagina, and [l_name] seems to revel in the warm feeling that overcomes her suddenly."
-    "{i}Grube strumienie cum wystrzeliwują wewnątrz jej pochwy i [l_name] wydaje się rozkoszować ciepłym uczuciem, które ogarnia ją nagle."
+    "{i}Uwalniasz w jej cipce gęste strumienie swojej spermy, Liza wydaje się rozkoszować ciepłem, które nagle ją ogarnia."
 
-# game/day37.rpy:1277
-translate polish day37_l_deflower_def53d7d:
-
-    # "{i}Thick streams of cum shoot over her breasts and belly, and [l_name] seems to revel in the feeling of warm cum dripping all over her body."
-    "{i}Grube strumienie cum strzelają po jej piersiach i brzuchu, a [l_name] wydaje się rozkoszować uczuciem ciepłej cumy kapiącej na całe jej ciało."# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day37.rpy:1272
+# game/day37.rpy:713
 translate polish day37_l_deflower_3e8e05a8:
 
     # "{i}There's no doubt in your mind where you'll finish, so as your orgasm surges, you reluctantly pull out of her."
-    "{i}Nie masz wątpliwości, gdzie skończysz, więc gdy twój orgazm rośnie, niechętnie się z niej wysuwasz."
->>>>>>> polish
+    "{i}Nie masz wątpliwości co do tego, gdzie skończyć, więc gdy Twój orgazm narasta, niechętnie się z niej wysuwasz."
+
+# game/day37.rpy:718
+translate polish day37_l_deflower_def53d7d:
+
+    # "{i}Thick streams of cum shoot over her breasts and belly, and [l_name] seems to revel in the feeling of warm cum dripping all over her body."
+    "{i}Gęste strumienie spermy pokrywają jej piersi i brzuch, Liza zdaje się rozkoszować uczuciem ciepłego nasienia spływającego po jej ciele."
+
+# game/day37.rpy:774
+translate polish day37_r_b_sex_0261ae68:
+
+    # "{i}[b_name] still wears that enigmatic half-smile when she walks towards you."
+    "{i}Na twarzy Belli dalej gości ten tajemniczy półuśmiech, kiedy podchodzi do Ciebie."
+
+# game/day37.rpy:777
+translate polish day37_r_b_sex_3e1640f5:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her sister on the mouth."
+    "{i}Przygotowujesz się na liścia w twarz, ale Bella zaskakuje Cię, obejmując dłońmi twarz Rachel i całując swoją siostrę w usta."
+
+# game/day37.rpy:779
+translate polish day37_r_b_sex_ee924156:
+
+    # "{i}Bracing yourself for a bitch-slap, she surprises you by holding [r_name]'s face in her hands and kissing her friend on the mouth."
+    "{i}Przygotowując się na bitch-slap, zaskakuje cię, trzymając twarz [r_name] w dłoniach i całując swoją przyjaciółkę w usta."
+
+# game/day37.rpy:781
+translate polish day37_r_b_sex_cd0ff4f1:
+
+    # b "Is this really what you want?"
+    b "Naprawdę tego chcesz?"
+
+# game/day37.rpy:782
+translate polish day37_r_b_sex_b881e13c:
+
+    # p "Yes it is."
+    p "Tak."
+
+# game/day37.rpy:783
+translate polish day37_r_b_sex_f93c092a:
+
+    # r "It's what we want."
+    r "Chcemy tego."
+
+# game/day37.rpy:785
+translate polish day37_r_b_sex_a73c0f44:
+
+    # "{i}Satisfied by your answer, [b_name] turns her head towards you and kisses you lovingly, placing an affectionate hand on [r_name]'s ass."
+    "{i}Usatysfakcjonowana Twoją odpowiedzią, Bella odwraca się do Ciebie i całuje Cię z miłością, kładąc czule dłoń na tyłku Rachel."
+
+# game/day37.rpy:786
+translate polish day37_r_b_sex_941b354c:
+
+    # "{i}She then whispers something in [r_name]'s ear, who begins the giggle and lets your cock slip out of her."
+    "{i}Następnie szepcze coś do ucha Rachel, która zaczyna chichotać i pozwala, żeby Twój kutas się z niej wyśliznął."
+
+# game/day37.rpy:787
+translate polish day37_r_b_sex_d88cb631:
+
+    # r "This is going to be fun!"
+    r "To będzie fajne!"
+
+# game/day37.rpy:789
+translate polish day37_r_b_sex_a2c6f999:
+
+    # "{i}You have a feeling she's right as the girls kiss again and hesitantly touch each other."
+    "{i}Masz przeczucie, że ma rację, bo dziewczyny znowu się całują i z pewnym wahaniem zaczynają się dotykać."
+
+# game/day37.rpy:790
+translate polish day37_r_b_sex_46cb1c22:
+
+    # "{i}[r_name] clearly is the horniest of the two, having been treated by you already and takes the lead."
+    "{i}Rachel jest wyraźnie najbardziej napalona z tej dwójki, bo już coś z Tobą robiła i przejmuje inicjatywę."
+
+# game/day37.rpy:797
+translate polish day37_r_b_sex_69524a16:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her sister's tongue touches her pussy."
+    "{i}Jeszcze przed położeniem się na łóżku, Bella zerka na Ciebie z mieszanką pożądania i poczucia winy, ale szybko zastępuje je błogość, gdy język jej siostry dotyka jej cipki."
+
+# game/day37.rpy:799
+translate polish day37_r_b_sex_fb631049:
+
+    # "{i}Before [b_name] lies down on the bed she casts a look at you, a mixture of desire and a hint of guilt, soon replaced by bliss, as her friend's tongue touches her pussy."
+    "{i}Zanim [b_name] położyła się na łóżku, spojrzała na ciebie z mieszaniną pożądania i poczucia winy, które szybko zastąpiła błogość, gdy język jej przyjaciela dotknął jej cipki."
+
+# game/day37.rpy:800
+translate polish day37_r_b_sex_866c7524:
+
+    # b "Oh, [r_name]!"
+    b "Oh, Rachel!"
+
+# game/day37.rpy:803
+translate polish day37_r_b_sex_2f3217e1:
+
+    # "{i}The familiarity with which both siblings treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}Z przyjemnością obserwujesz, jak obie siostry wydają się natychmiastowo zaznajomione ze swoimi ciałami, jak Rachel od razu odnajduje czuły punkt Belli."
+
+# game/day37.rpy:805
+translate polish day37_r_b_sex_fea405a2:
+
+    # "{i}The familiarity with which both friends treat their bodies is a joy to see, as [r_name] hits [b_name]'s sweet spot immediately."
+    "{i}Znajomość, z jaką obaj przyjaciele traktują swoje ciała, jest radością widzieć, jak [r_name] natychmiast trafia w słodki punkt [b_name]."
+
+# game/day37.rpy:811
+translate polish day37_r_b_sex_304d226c:
+
+    # "{i}[r_name]'s ass wiggles suggestively in the air, and you cannot contain yourself any longer."
+    "{i}Rachel sugestywnie kręci tyłkiem w powietrzu i nie możesz się już dłużej powstrzymywać."
+
+# game/day37.rpy:813
+translate polish day37_r_b_sex_f3a8c47c:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her own sister."
+    "{i}Wciskasz kutasa w mokrą cipkę Rachel i wznawiasz ruchanie jej, podczas gdy ona dalej liże własną siostrę."
+
+# game/day37.rpy:815
+translate polish day37_r_b_sex_fe691908:
+
+    # "{i}You push your cock against [r_name]'s wet pussy, to resume fucking her while she eats out her dear friend."
+    "{i}Przyciskasz swojego kutasa do mokrej cipki [r_name], aby wznowić ruchanie jej, podczas gdy ona zjada swojego drogiego przyjaciela."
+
+# game/day37.rpy:816
+translate polish day37_r_b_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day37.rpy:818
+translate polish day37_r_b_sex_18a8fab2:
+
+    # "{i}Not wanting to disturb [r_name], you start out with gentle thrusts, feeling every inch of her love tunnel."
+    "{i}Nie chcąc przeszkadzać Rachel, zaczynasz od delikatnych pchnięć, czując każdy cal jej miłosnego tunelu."
+
+# game/day37.rpy:819
+translate polish day37_r_b_sex_55bc6403:
+
+    # b "Is he fucking you [r_name]?"
+    b "Czy on Cię pieprzy Rachel?"
+
+# game/day37.rpy:820
+translate polish day37_r_b_sex_3205fe03:
+
+    # r "Oh yes!"
+    r "Oh tak!"
+
+# game/day37.rpy:821
+translate polish day37_r_b_sex_0261bcfc:
+
+    # b "Does it feel good?!"
+    b "Jakie to uczucie?!"
+
+# game/day37.rpy:822
+translate polish day37_r_b_sex_5dfa2c83:
+
+    # r "Oh fuck yes!"
+    r "O kurwa, fantastyczne!"
+
+# game/day37.rpy:824
+translate polish day37_r_b_sex_bd136719:
+
+    # "{i}[r_name] presses her slithering tongue diligently against [b_name]'s pussy and starts to stimulate the clitoris directly."
+    "{i}Rachel gorliwie przyciska język do cipki Belli i zaczyna bezpośrednio stymulować jej łechtaczkę."
+
+# game/day37.rpy:825
+translate polish day37_r_b_sex_2745ee7b:
+
+    # b "Oh god!"
+    b "O Boże!"
+
+# game/day37.rpy:826
+translate polish day37_r_b_sex_eaef6154:
+
+    # b "Oh yes!"
+    b "Oh tak!"
+
+# game/day37.rpy:833
+translate polish day37_r_b_sex_c8db291b:
+
+    # "{i}Pressing her younger sister's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Przyciskając twarz młodszej siostry do swojej cipki, Bella dochodzi, a Ty przyspieszasz ruchanie Rachel."
+
+# game/day37.rpy:835
+translate polish day37_r_b_sex_0f24c741:
+
+    # "{i}Pressing her younger friend's face against her cunt, [b_name] orgasms and you pick up the pace fucking [r_name]."
+    "{i}Przyciskając twarz młodszej koleżanki do swojej cipy [b_name] osiąga orgazm, a ty zwiększasz tempo ruchania [r_name]."
+
+# game/day37.rpy:840
+translate polish day37_r_b_sex_2c01e94a:
+
+    # "{i}Pretty soon [r_name] moans hard in [b_name]'s cunt as she too climaxes from the stimulation of your hard cock."
+    "{i}Wkrótce Rachel zaczyna jęczeć w cipkę Belli i ona też szczytuje od stymulacji Twojego twardego kutasa."
+
+# game/day37.rpy:851
+translate polish day37_r_b_sex_cb03dde3:
+
+    # "{i}As [r_name] slides off your dick, the two girls regard you with smoldering eyes, their wet pussies glimmering in the lamp light."
+    "{i}Kiedy Rachel zsuwa się z Twojego penisa, obie dziewczyny patrzą na Ciebie z ogniem w oczach, ich mokre cipki migoczą w świetle lampy."
+
+# game/day37.rpy:855
+translate polish day37_r_b_sex_38fac03f:
+
+    # "{i}[r_name]'s pussy is too good to pass up, so you grab her body again and re-enter her."
+    "{i}Cipka Rachel jest zbyt dobra, by z niej zrezygnować, więc ponownie chwytasz jej ciało i ponownie się w nią wbijasz."
+
+# game/day37.rpy:861
+translate polish day37_r_b_sex_3059bfb5:
+
+    # r "Yes [p_name]!"
+    r "Tak [p_name]!"
+
+# game/day37.rpy:862
+translate polish day37_r_b_sex_a1d697ab:
+
+    # r "Keep fucking me!"
+    r "Pieprz mnie dalej!"
+
+# game/day37.rpy:865
+translate polish day37_r_b_sex_04bba71b:
+
+    # "[b_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "{i}Bella skupia uwagę na swojej siostrze, sprawiając jej dodatkową przyjemność, głaszcząc jej piersi i całując jej pełne usta."
+
+# game/day37.rpy:867
+translate polish day37_r_b_sex_13d54f9f:
+
+    # "[b_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[b_name] skupia swoją uwagę na przyjaciółce, sprawiając, że czuje się wyjątkowo komfortowo, głaszcząc jej piersi i całując jej pełne usta."
+
+# game/day37.rpy:868
+translate polish day37_r_b_sex_5961bf0b:
+
+    # r "I love you!"
+    r "Kocham Cię!"
+
+# game/day37.rpy:869
+translate polish day37_r_b_sex_d12c244a:
+
+    # r "I l-love you both!"
+    r "K- Kocham was oboje!"
+
+# game/day37.rpy:870
+translate polish day37_r_b_sex_c908cec5:
+
+    # "{i}Your cock is twitching with each thrust and you know you'll cum soon."
+    "{i}Twój kutas drga przy każdym pchnięciu i wiesz, że niedługo dojdziesz."
+
+# game/day37.rpy:874
+translate polish day37_r_b_sex_857d904a:
+
+    # "{i}[b_name]'s pussy is too good to pass up, so you grab her and enter her, a squee of delight escaping her."
+    "{i}Cipka Belli jest zbyt dobra, by z niej nie skorzystać, więc chwytasz ją i wbijasz się w nią, aż wydaje z siebie pisk radości."
+
+# game/day37.rpy:880
+translate polish day37_r_b_sex_3f7d13a6:
+
+    # "{i}From the moment you've entered her, you know that you've hit a sweet spot for you both."
+    "{i}Od momentu, w którym w nią wszedłeś, wiesz, że sprawiasz wam obojgu ogromną rozkosz."
+
+# game/day37.rpy:881
+translate polish day37_r_b_sex_b118b08e:
+
+    # "{i}[b_name] stares at you in rapture, biting her lower lip, every muscle in her body taut in anticipation."
+    "{i}Bella wpatruje się w Ciebie z zachwytem, ​​przygryzając dolną wargę, każdy mięsień jej ciała napina się w oczekiwaniu."
+
+# game/day37.rpy:882
+translate polish day37_r_b_sex_c11078f8:
+
+    # p "Are you going to cum for me, baby?"
+    p "Dojdziesz dla mnie, kochanie?"
+
+# game/day37.rpy:883
+translate polish day37_r_b_sex_3fd3887e:
+
+    # b "Y-yes..."
+    b "T- Tak..."
+
+# game/day37.rpy:884
+translate polish day37_r_b_sex_eaef6154_1:
+
+    # b "Oh yes!"
+    b "Oh tak!"
+
+# game/day37.rpy:886
+translate polish day37_r_b_sex_f87f9c2d:
+
+    # b "Don't stop!"
+    b "Nie przestawaj!"
+
+# game/day37.rpy:887
+translate polish day37_r_b_sex_f8439e45:
+
+    # b "Don't you dare stop!"
+    b "Nie waż się przestać!"
+
+# game/day37.rpy:888
+translate polish day37_r_b_sex_63472302:
+
+    # "{i}Your cock angled a certain way, you're causing [b_name] to experience deep pleasure, her pussy is getting wetter and wetter."
+    "{i}Twój kutas jest ustawiony pod takim kątem, że Bella doświadcza głębokiej przyjemności, a jej cipka staje się coraz bardziej mokra."
+
+# game/day37.rpy:890
+translate polish day37_r_b_sex_f17408ce:
+
+    # "[r_name] keeps her attention on her sister, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "{i}Rachel skupia uwagę na swojej siostrze, sprawiając jej dodatkową przyjemność, głaszcząc jej piersi i całując jej pełne usta."
+
+# game/day37.rpy:892
+translate polish day37_r_b_sex_775922d3:
+
+    # "[r_name] keeps her attention on her friend, making her feel extra comfortable by stroking her breasts and kissing her full lips."
+    "[r_name] skupia swoją uwagę na przyjaciółce, sprawiając, że czuje się wyjątkowo komfortowo, głaszcząc jej piersi i całując jej pełne usta."
+
+# game/day37.rpy:893
+translate polish day37_r_b_sex_ee1c7da6:
+
+    # r "You're so wet, [b_name]!"
+    r "Jesteś taka mokra, Bella!"
+
+# game/day37.rpy:894
+translate polish day37_r_b_sex_e924b776:
+
+    # b "I-I... I k-knowww!"
+    b "T- Ta-ak... W- Wieemm!"
+
+# game/day37.rpy:901
+translate polish day37_r_b_sex_23c79517:
+
+    # "{i}When you thrust deep inside her, [b_name] begins to tremble, and a clawed hand slaps on your back."
+    "{i}Kiedy wbijasz się głęboko w nią, Bella zaczyna się trząść i wbija Ci paznokcie w plecy."
+
+# game/day37.rpy:902
+translate polish day37_r_b_sex_1bb9711e:
+
+    # "{i}Squirt is leaking out of her cunt and after one last stroke of your cock, you slip out of her and she sprays the bed with her juices."
+    "{i}Squirt wycieka z jej cipki, po ostatnim pchnięciu swoim kutasem wyślizgujesz się z niej, a ona spryskuje łóżko swoimi sokami."
+
+# game/day37.rpy:904
+translate polish day37_r_b_sex_04b0bc80:
+
+    # b "F-f-ffuuuu..."
+    b "K- K-urrr..."
+
+# game/day37.rpy:905
+translate polish day37_r_b_sex_4ac85c47:
+
+    # b "Oh [p_name]!"
+    b "Oh [p_name]!"
+
+# game/day37.rpy:908
+translate polish day37_r_b_sex_ab56e5e9:
+
+    # "{i}Your sister convulses as the last streams of ejaculate leave her vagina."
+    "{i}Twoja siostra wpada w konwulsje, gdy ostatnie strumienie wytrysku opuszczają jej cipkę."
+
+# game/day37.rpy:910
+translate polish day37_r_b_sex_9dcf900c:
+
+    # "{i}Your friend convulses as the last streams of ejaculate leave her vagina."
+    "{i}Twoja przyjaciółka drży, gdy ostatnie strumienie ejakulatu opuszczają jej pochwę."
+
+# game/day37.rpy:911
+translate polish day37_r_b_sex_0ccf25cc:
+
+    # r "That was awesome."
+    r "To było niesamowite."
+
+# game/day37.rpy:912
+translate polish day37_r_b_sex_e46e2f63:
+
+    # "{i}[b_name] can only smile at her, temporarily incapable of speech."
+    "{i}Bella może się tylko do niej uśmiechać, chwilowo niezdolna odezwania się."
+
+# game/day37.rpy:914
+translate polish day37_r_b_sex_21185f76:
+
+    # "{i}The sight of your sisters covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}Widok twoich sióstr pokrytych tryskającą wodą sprawia, że jesteś napalony ponad wszelką miarę i pragniesz orgazmu."
+
+# game/day37.rpy:916
+translate polish day37_r_b_sex_5e55c334:
+
+    # "{i}The sight of [b_name] and [r_name] covered in squirt makes you horny beyond belief and craving an orgasm."
+    "{i}Widok [b_name] i [r_name] pokrytych tryskającą wodą sprawia, że jesteś napalony ponad wszelką miarę i pragniesz orgazmu."
+
+# game/day37.rpy:932
+translate polish day37_r_b_sex_6f37408b:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside your little sister, and soon enough, your seed starts flowing inside of her."
+    "{i}Mimo atrakcyjnie ociekającej sokami cipki Belli, postanawiasz skończyć w swojej młodszej siostrze i wkrótce uwalniasz w niej swoje nasienie."
+
+# game/day37.rpy:934
+translate polish day37_r_b_sex_e6cf135e:
+
+    # "{i}Despite the attraction of [b_name]'s dripping wet cunt, you decide to finish inside [r_name], and soon enough, your seed starts flowing inside of her."
+    "{i}Pomimo atrakcyjności kapiącej mokrej cipy [b_name] decydujesz się skończyć w [r_name] i wkrótce twoje nasienie zaczyna w niej płynąć."
+
+# game/day37.rpy:937
+translate polish day37_r_b_sex_d83845e4:
+
+    # "{i}A desire to cream your little sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Pragnienie spuszczenia się w swojej młodszej siostrze ogarnia Cię w ciągu kilku sekund i wkrótce uwalniasz w niej swoje nasienie."
+
+# game/day37.rpy:939
+translate polish day37_r_b_sex_8db2f62d:
+
+    # "{i}A desire to cream [r_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Pragnienie spermy [r_name] z pełną siłą twojego orgazmu opanowuje cię w ciągu kilku sekund, a twoje nasienie zaczyna płynąć w jej wnętrzu."
+
+# game/day37.rpy:943
+translate polish day37_r_b_sex_60bec761:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her sister, a little envious of the treatment the younger girl has received."
+    "{i}Uśmiechnięta Rachel robi sobie palcówkę, kiedy Twoja sperma wycieka z jej cipki, Bella całuje swoją siostrę, trochę zazdrosna o to, czego doświadczyła młodsza dziewczyna."
+
+# game/day37.rpy:945
+translate polish day37_r_b_sex_f79e8759:
+
+    # "{i}Smiling, [r_name] fingers herself as your cum leaks out of her pussy. [b_name] kisses her friend, a little envious of the treatment the younger girl has received."
+    "{i}Uśmiechnięta [r_name] palcuje się, gdy twoja sperma wycieka z jej cipki [b_name] całuje swoją przyjaciółkę, trochę zazdrosna o traktowanie, jakie otrzymała młodsza dziewczyna."
+
+# game/day37.rpy:964
+translate polish day37_r_b_sex_f648e5eb:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your older sister."
+    "{i}Ociekająca sokami cipka Belli jest tak atrakcyjna, że ​​postanawiasz znowu ją zerżnąć i skończyć w swojej starszej siostrze."
+
+# game/day37.rpy:966
+translate polish day37_r_b_sex_9db498b6:
+
+    # "{i}[b_name]'s dripping wet cunt is so attractive you decide to fuck her again and finish inside your girl."
+    "{i}[b_name] ociekająca mokrą cipą jest tak atrakcyjna, że decydujesz się zerżnąć ją ponownie i skończyć w swojej dziewczynie."
+
+# game/day37.rpy:968
+translate polish day37_r_b_sex_4e056e92:
+
+    # "{i}Soon enough, your seed starts flowing inside of her, and [b_name] moans in rapturous acceptance."
+    "{i}Wkrótce uwalniasz w niej swoje nasienie, a Bella jęczy w euforii."
+
+# game/day37.rpy:972
+translate polish day37_r_b_sex_aa4e8d70:
+
+    # "{i}A desire to cream your older sister with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Pragnienie spuszczenia się w swojej starszej siostrze ogarnia Cię w ciągu kilku sekund i wkrótce uwalniasz w niej swoje nasienie."
+
+# game/day37.rpy:974
+translate polish day37_r_b_sex_63ceb15f:
+
+    # "{i}A desire to cream [b_name] with the full force of your orgasm overcomes you in seconds, and your seed starts flowing inside of her."
+    "{i}Pragnienie spermy [b_name] z pełną siłą twojego orgazmu opanowuje cię w ciągu kilku sekund, a twoje nasienie zaczyna płynąć w jej wnętrzu."
+
+# game/day37.rpy:979
+translate polish day37_r_b_sex_e54b12ac:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her sister, a little envious of the treatment the older girl has received."
+    "{i}Uśmiechnięta Bella robi sobie palcówkę, kiedy Twoja sperma wycieka z jej cipki, Rachel całuje swoją siostrę, trochę zazdrosna o to, czego doświadczyła starsza dziewczyna."
+
+# game/day37.rpy:981
+translate polish day37_r_b_sex_aa991e34:
+
+    # "{i}Smiling, [b_name] fingers herself as your cum leaks out of her pussy. [r_name] kisses her friend, a little envious of the treatment the older girl has received."
+    "{i}Uśmiechnięta [b_name] palcuje się, gdy twoja sperma wycieka z jej cipki [r_name] całuje swoją przyjaciółkę, trochę zazdrosna o traktowanie, jakie otrzymała starsza dziewczyna."
+
+# game/day37.rpy:998
+translate polish day37_r_b_sex_9c872b25:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Zaczynasz się masturbować na oczach swoich sióstr, Twoje oczy błądzą po ich nagich ciałach, śliskich od ich soków."
+
+# game/day37.rpy:1000
+translate polish day37_r_b_sex_abdc207b:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Zaczynasz masturbować się przed swoimi dziewczynami, a twoje oczy wędrują po ich nagich ciałach, śliskich od tryskającej wody."
+
+# game/day37.rpy:1002
+translate polish day37_r_b_sex_afccc776:
+
+    # p "I'm so close!"
+    p "Jestem już blisko!"
+
+# game/day37.rpy:1003
+translate polish day37_r_b_sex_78ae37fc:
+
+    # r "Are you going to cum for us?"
+    r "Dojdziesz dla nas?"
+
+# game/day37.rpy:1004
+translate polish day37_r_b_sex_071b2a1d:
+
+    # p "Yes!"
+    p "Tak!"
+
+# game/day37.rpy:1005
+translate polish day37_r_b_sex_9d301335:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their bodies."
+    "{i}Bella i Rachel są gotowe na Twoje nasienie, leżą zachęcająco blisko Ciebie, czekając, aż Twój wytrysk pokryje ich ciała."
+
+# game/day37.rpy:1007
+translate polish day37_r_b_sex_1cfd043b:
+
+    # "{i}When it finally comes, you manage to treat both of their bellies to a blast of cum, and both girls seem very satisfied."
+    "{i}Kiedy wreszcie nadchodzi, udaje Ci się pokryć obydwa ich brzuchy strumieniami spermy i obie dziewczyny wydają się bardzo zadowolone."
+
+# game/day37.rpy:1022
+translate polish day37_r_b_sex_9c872b25_1:
+
+    # "{i}You start to masturbate in front of your sisters, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Zaczynasz się masturbować na oczach swoich sióstr, Twoje oczy błądzą po ich nagich ciałach, śliskich od ich soków."
+
+# game/day37.rpy:1024
+translate polish day37_r_b_sex_abdc207b_1:
+
+    # "{i}You start to masturbate in front of your girls, your eyes lingering all over their naked bodies, slick with squirt."
+    "{i}Zaczynasz masturbować się przed swoimi dziewczynami, a twoje oczy wędrują po ich nagich ciałach, śliskich od tryskającej wody."
+
+# game/day37.rpy:1026
+translate polish day37_r_b_sex_afccc776_1:
+
+    # p "I'm so close!"
+    p "Jestem już blisko!"
+
+# game/day37.rpy:1027
+translate polish day37_r_b_sex_78ae37fc_1:
+
+    # r "Are you going to cum for us?"
+    r "Dojdziesz dla nas?"
+
+# game/day37.rpy:1028
+translate polish day37_r_b_sex_071b2a1d_1:
+
+    # p "Yes!"
+    p "Tak!"
+
+# game/day37.rpy:1029
+translate polish day37_r_b_sex_24fbbf20:
+
+    # "{i}[b_name] and [r_name] are ready for your seed, as they lay invitingly close to you, waiting for your orgasm to cover their faces."
+    "{i}Bella i Rachel są gotowe na Twoje nasienie, leżą zachęcająco blisko Ciebie, czekając, aż Twój wytrysk pokryje ich twarze."
+
+# game/day37.rpy:1031
+translate polish day37_r_b_sex_c7529624:
+
+    # "{i}When it finally comes, you manage to treat both of their faces to a blast of cum, and both girls seem very satisfied."
+    "{i}Kiedy wreszcie nadchodzi, udaje Ci się pokryć obie ich twarze strumieniami spermy i obie dziewczyny wydają się bardzo zadowolone."
+
+# game/day37.rpy:1041
+translate polish day37_r_b_sex_722a8bc7:
+
+    # "{i}Still relishing the afterglow, [b_name] kisses [r_name] passionately."
+    "{i}Wciąż rozkoszując się niedawno przeżytym orgazmem, Bella namiętnie całuje Rachel."
+
+# game/day37.rpy:1043
+translate polish day37_r_b_sex_f94dd09d:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your sisters can come to love each other as more than just family."
+    "{i}W tym momencie rozumiesz, że właśnie wydarzyło się coś ważnego i po prostu wiesz, że obie siostry mogą się pokochać jako coś więcej niż tylko rodzinę."
+
+# game/day37.rpy:1045
+translate polish day37_r_b_sex_a3639d07:
+
+    # "{i}It's at that moment that you know something momentous has happened, and you just know both your friends can come to love each other as more than just friends."
+    "{i}To właśnie w tym momencie wiesz, że wydarzyło się coś doniosłego i po prostu wiesz, że obaj twoi przyjaciele mogą pokochać siebie nawzajem jako coś więcej niż tylko przyjaciół."
+
+# game/day37.rpy:1047
+translate polish day37_r_b_sex_28ae4a57:
+
+    # "{i}Both girls lie with you and you stroke their soft skin as the morning light peeks through the curtains."
+    "{i}Dziewczyny leżą z Tobą, a Ty gładzisz ich miękką skórę, gdy poranne światło zaczyna zaglądać przez zasłony."
+
+# game/day37.rpy:1049
+translate polish day37_r_b_sex_bf176aaa:
+
+    # "{i}Just before the rest of the house awakes, you kiss the girls and slip out of [r_name]'s room."
+    "{i}Tuż przed przebudzeniem reszty domowników całujesz obie dziewczyny i wymykasz się z pokoju Rachel."
+
+# game/day37.rpy:1062
+translate polish day37_b_sex_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day37.rpy:1066
+translate polish day37_b_sex_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day37.rpy:1069
+translate polish day37_b_sex_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day37.rpy:1080
+translate polish day37_b_sex_hard_1a6f13d8:
+
+    # b "I don't know, [p_name]..."
+    b "Nie wiem, [p_name]..."
+
+# game/day37.rpy:1083
+translate polish day37_b_sex_hard_fb157d13:
+
+    # b "My pussy is all wet now, don't you want to fuck me hard?"
+    b "Moja cipka jest już cała mokra, nie chcesz mnie w nią zerżnąć?"
+
+# game/day37.rpy:1084
+translate polish day37_b_sex_hard_6f99c14b:
+
+    # p "No, leave that egg inside of you."
+    p "Nie, zostaw to jajko w sobie."
+
+# game/day37.rpy:1086
+translate polish day37_b_sex_hard_6d722996:
+
+    # b "I fucking hate you, you know that?"
+    b "Kurewsko Cię nienawidzę, wiesz o tym?"
+
+# game/day37.rpy:1087
+translate polish day37_b_sex_hard_7bbf1827:
+
+    # p "And I don't believe you."
+    p "Nie wierzę Ci."
+
+# game/day37.rpy:1088
+translate polish day37_b_sex_hard_a4bc07f4:
+
+    # p "Show me that beautiful ass of yours."
+    p "Pokaż mi ten swój piękny tyłeczek."
+
+# game/day37.rpy:1097
+translate polish day37_b_sex_hard_2eb635e5:
+
+    # "{i}Sighing, your sister obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Wzdychając, Twoja siostra spełnia Twoje polecenie, rozciąga nawet swoje pośladki na boki, pozwalając Ci przyjrzeć się swojemu delikatnemu kakaowemu oczku."
+
+# game/day37.rpy:1099
+translate polish day37_b_sex_hard_9f601368:
+
+    # "{i}Sighing, your girl obliges, even spreading her ass cheeks to give you a good look at her delicate little anus."
+    "{i}Wzdychając, twoja dziewczyna zobowiązuje się nawet do rozłożenia policzków, abyś mógł dobrze przyjrzeć się jej delikatnemu odbytowi."
+
+# game/day37.rpy:1100
+translate polish day37_b_sex_hard_5ecafe00:
+
+    # p "There isn't a part of you that isn't beautiful, is there?"
+    p "Nie ma takiej części Ciebie, która nie jest piękna, prawda?"
+
+# game/day37.rpy:1103
+translate polish day37_b_sex_hard_f2cc55b0:
+
+    # b "I don't know..."
+    b "Nie wiem..."
+
+# game/day37.rpy:1105
+translate polish day37_b_sex_hard_8942069c:
+
+    # b "Jesus, you're talking about my butthole, creep."
+    b "Jezu, mówisz o moim tyłku, popaprańcu."
+
+# game/day37.rpy:1106
+translate polish day37_b_sex_hard_8a174c07:
+
+    # p "I am, it's beautiful and looks very tight."
+    p "Tak, jest piękny i wygląda na bardzo ciasny."
+
+# game/day37.rpy:1107
+translate polish day37_b_sex_hard_a7f535f3:
+
+    # b "Pfff..."
+    b "Pfff..."
+
+# game/day37.rpy:1108
+translate polish day37_b_sex_hard_0f7f9e12:
+
+    # p "Lie down on your stomach for me."
+    p "Połóż się dla mnie na brzuchu."
+
+# game/day37.rpy:1110
+translate polish day37_b_sex_hard_2bb3ae92:
+
+    # "{i}[b_name] does so, and you can't help but slap her delightful buttocks before positioning yourself between her legs."
+    "{i}Bella robi o co prosisz i nie mogąc się powstrzymać, dajesz jej klapsa w tyłek, przed ustawieniem się między jej nogami."
+
+# game/day37.rpy:1115
+translate polish day37_b_sex_hard_9c8de81d:
+
+    # "{i}Building up the tension, you kiss her ass cheeks first and massage the supple flesh."
+    "{i}Budując napięcie, najpierw całujesz jej pośladki i masujesz miękkie ciało."
+
+# game/day37.rpy:1116
+translate polish day37_b_sex_hard_36043de9:
+
+    # "{i}You spread her buttocks and squirt a generous amount of lube on her asshole."
+    "{i}Rozchylasz jej półdupki i oblewasz jej odbyt obfitą ilością lubrykantu."
+
+# game/day37.rpy:1117
+translate polish day37_b_sex_hard_b7f56f83:
+
+    # "{i}[b_name] shivers involuntarily as you spread the cold, greasy liquid between the crack of her ass."
+    "{i}Bella drży mimowolnie, gdy rozprowadzasz zimną, tłustą ciecz po rowku jej tyłka."
+
+# game/day37.rpy:1123
+translate polish day37_b_sex_hard_8ce8db45:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of your sister's anus and push ever so slightly."
+    "{i}Nic nie mówiąc, przykładasz palec do odbytu swojej siostry i naciskasz na niego lekko."
+
+# game/day37.rpy:1125
+translate polish day37_b_sex_hard_cb06ee8e:
+
+    # "{i}Without saying anything, you push a finger against the wrinkles of [b_name]'s anus and push ever so slightly."
+    "{i}Nic nie mówiąc, przysuwasz palec do zmarszczek odbytu [b_name] i naciskasz tak lekko."
+
+# game/day37.rpy:1126
+translate polish day37_b_sex_hard_f91bcfbd:
+
+    # "{i}You're amazed by how easily your finger slips past her sphincter, without as much as a gasp by [b_name]."
+    "{i}Dziwi Cię, jak łatwo Twój palec prześlizguje się przez jej zwieracz, nie powodując u Belli nawet westchnienia."
+
+# game/day37.rpy:1127
+translate polish day37_b_sex_hard_397cc6f3:
+
+    # "{i}When you finger her tight hole, you get a response from [b_name] as she pushes her face down into the mattress and exhales violently."
+    "{i}Kiedy palcujesz jej ciasną dziurkę, otrzymujesz odpowiedź od [b_name], gdy wciska twarz w materac i gwałtownie wydycha powietrze."
+
+# game/day37.rpy:1129
+translate polish day37_b_sex_hard_d1d0cc30:
+
+    # p "You're doing great."
+    p "Świetnie Ci idzie."
+
+# game/day37.rpy:1131
+translate polish day37_b_sex_hard_50fa5a35:
+
+    # p "That wasn't so hard, I think that ass is less tight than you think."
+    p "To nie było takie trudne, myślę, że Twój tyłeczek jest mniej ciasny niż myślałaś."
+
+# game/day37.rpy:1132
+translate polish day37_b_sex_hard_7d589769:
+
+    # "{i}[b_name] doesn't reply, but clutches the bedsheets in one of her fists as you teasingly run another finger over the sensitive skin of her anus."
+    "{i}Bella nie odpowiada, ale zaciska jedną z pięści na prześcieradle, gdy drażnisz kolejnym palcem wrażliwą skórę jej odbytu."
+
+# game/day37.rpy:1133
+translate polish day37_b_sex_hard_3d37397e:
+
+    # "{i}Your second finger joins the other one in her tight warm hole, and you continue to finger her."
+    "{i}Twój drugi palec dołącza do pierwszego w jej ciasnej, ciepłej dziurce i wznawiasz posuwanie jej swoimi palcami."
+
+# game/day37.rpy:1135
+translate polish day37_b_sex_hard_0708fa6f:
+
+    # p "Does that feel good, [b_name]?"
+    p "Podoba Ci się Bella?"
+
+# game/day37.rpy:1137
+translate polish day37_b_sex_hard_5dbd1f58:
+
+    # b "God! I f-feel so f-full!"
+    b "Boże! Cz- Czuję się taka p-ełna!"
+
+# game/day37.rpy:1139
+translate polish day37_b_sex_hard_df44d03d:
+
+    # b "No!"
+    b "Nie!"
+
+# game/day37.rpy:1140
+translate polish day37_b_sex_hard_5075b5bb:
+
+    # p "I don't believe you."
+    p "Nie wierzę Ci."
+
+# game/day37.rpy:1141
+translate polish day37_b_sex_hard_9832f724:
+
+    # "{i}Feeling confident she can handle a third finger, you push your ring finger inside her ass and start to penetrate her more thoroughly."
+    "{i}Jesteś pewny, że poradzi sobie z trzecim palcem, więc wsuwasz palec serdeczny w jej tyłek i zaczynasz penetrować ją jeszcze mocniej."
+
+# game/day37.rpy:1143
+translate polish day37_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day37.rpy:1144
+translate polish day37_b_sex_hard_d6bc5a4d:
+
+    # p "Don't you love that feeling?"
+    p "Świetne uczucie, co?"
+
+# game/day37.rpy:1145
+translate polish day37_b_sex_hard_c413b796:
+
+    # p "I think you're ready for more."
+    p "Myślę, że jesteś gotowa na więcej."
+
+# game/day37.rpy:1146
+translate polish day37_b_sex_hard_93f9f5f8:
+
+    # "{i}You slap her ass again as you pull your fingers out and squirt more lube on her asshole."
+    "{i}Dajesz jej kolejnego klapsa w tyłek, gdy wyciągasz z niej palce i wylewasz więcej lubrykantu na jej odbyt."
+
+# game/day37.rpy:1153
+translate polish day37_b_sex_hard_694efc41:
+
+    # "{i}With the head of your cock you slap her anus that has already been loosened by the touch of your fingers."
+    "{i}Główką swojego kutasa klepiesz w jej odbyt, który został już poluzowany dotykiem Twoich palców."
+
+# game/day37.rpy:1154
+translate polish day37_b_sex_hard_04904619:
+
+    # p "Just relax and it won't hurt."
+    p "Po prostu się rozluźnij i nie będzie bolało."
+
+# game/day37.rpy:1157
+translate polish day37_b_sex_hard_9d87f4f5:
+
+    # p "Trust me."
+    p "Zaufaj mi."
+
+# game/day37.rpy:1159
+translate polish day37_b_sex_hard_52dcef3c:
+
+    # b "I..."
+    b "Ja..."
+
+# game/day37.rpy:1160
+translate polish day37_b_sex_hard_8d83ec4d:
+
+    # b "I trust you."
+    b "Ufam Ci."
+
+# game/day37.rpy:1161
+translate polish day37_b_sex_hard_1e5d4e50:
+
+    # "{i}You part the skin folds of her anus with the head of your cock and push the tip inside."
+    "{i}Rozpychasz jej odbyt główką swojego penisa i wsuwasz końcówkę do środka."
+
+# game/day37.rpy:1162
+translate polish day37_b_sex_hard_2323dced:
+
+    # b "Aaah, no! It's too big!"
+    b "Aaah, nie! Jest za duży!"
+
+# game/day37.rpy:1164
+translate polish day37_b_sex_hard_3fc78470:
+
+    # "{i}You pause for a while, to let [b_name] adjust to the first inches of your manhood inside her tight asshole."
+    "{i}Zatrzymujesz się na chwilę, pozwalając Belli przyzwyczaić się do pierwszych centymetrów Twojej męskości w jej ciasnej dupce."
+
+# game/day37.rpy:1166
+translate polish day37_b_sex_hard_7b453243:
+
+    # "{i}When you feel some of the initial tension leave your sister's body, you push further."
+    "{i}Kiedy czujesz, że początkowe napięcie powoli opuszcza ciało Twojej siostry, pchasz dalej."
+
+# game/day37.rpy:1168
+translate polish day37_b_sex_hard_0c547f94:
+
+    # "{i}When you feel some of the initial tension leave your girl's body, you push further."
+    "{i}Kiedy czujesz, że początkowe napięcie opuszcza ciało dziewczyny, pchasz dalej."
+
+# game/day37.rpy:1169
+translate polish day37_b_sex_hard_ef60ef42:
+
+    # "{i}[b_name] bites her lower lip as the muscles of her canal massage your cock, you can't believe how tight and warm she is."
+    "{i}Bella przygryza dolną wargę, mięśnie jej odbytnicy masują Twojego kutasa, nie możesz uwierzyć, jaka jest ciasna i ciepła."
+
+# game/day37.rpy:1171
+translate polish day37_b_sex_hard_c4f0d171:
+
+    # "{i}Two-thirds of your cock have disappeared inside her ass and [b_name] is writhing on the bed, trying to adjust to your girth."
+    "{i}Dwie-trzecie Twojego kutasa zniknęło w jej tyłku, Bella wije się na łóżku, próbując dostosować się do Twojego obwodu."
+
+# game/day37.rpy:1172
+translate polish day37_b_sex_hard_f7eacb48:
+
+    # b "I can't!"
+    b "Nie mogę!"
+
+# game/day37.rpy:1173
+translate polish day37_b_sex_hard_b81a6a64:
+
+    # p "Yes you can."
+    p "Możesz."
+
+# game/day37.rpy:1174
+translate polish day37_b_sex_hard_6e6dbdaf:
+
+    # b "No I..."
+    b "Nie, ja..."
+
+# game/day37.rpy:1175
+translate polish day37_b_sex_hard_a9ca9f9a:
+
+    # b "Oh..."
+    b "Oh..."
+
+# game/day37.rpy:1182
+translate polish day37_b_sex_hard_b1e67b33:
+
+    # "{i}Her writhing has stopped as you move your hips and fuck her asshole properly for the first time."
+    "{i}Przestaje się wić, kiedy zaczynasz ruszać biodrami i po raz pierwszy prawidłowo ruchasz jej odbyt."
+
+# game/day37.rpy:1183
+translate polish day37_b_sex_hard_f940071f:
+
+    # b "What the fuck?!"
+    b "Co kurwa?!"
+
+# game/day37.rpy:1184
+translate polish day37_b_sex_hard_f992044a:
+
+    # b "Aah!"
+    b "Aah!"
+
+# game/day37.rpy:1186
+translate polish day37_b_sex_hard_50d2b002:
+
+    # "{i}You go slowly on her, and the pain-tinged cries of your sister slowly evolve into genuine expressions of pleasure."
+    "{i}Zaczynasz powoli i pełne bólu krzyki Twojej siostry powoli przeradzają się w jęki przyjemności."
+
+# game/day37.rpy:1188
+translate polish day37_b_sex_hard_497bec08:
+
+    # "{i}You go slowly on her, and the agonized cries of [b_name] slowly evolve into genuine expressions of pleasure."
+    "{i}Powoli wchodzisz na nią, a udręczone krzyki [b_name] powoli ewoluują w autentyczne wyrazy przyjemności."
+
+# game/day37.rpy:1190
+translate polish day37_b_sex_hard_52a996e2:
+
+    # "{i}Every thrust is a balancing act of pain and pleasure, but when you see the look on [b_name]'s face, you know she has accepted you fully."
+    "{i}Każde pchnięcie równoważy w sobie ból i przyjemność, ale kiedy widzisz wyraz twarzy Belli, wiesz, że już w pełni Cię zaakceptowała."
+
+# game/day37.rpy:1191
+translate polish day37_b_sex_hard_a306de17:
+
+    # p "Are you enjoying it?"
+    p "Podoba Ci się to?"
+
+# game/day37.rpy:1195
+translate polish day37_b_sex_hard_3fd3887e:
+
+    # b "Y-yes..."
+    b "T- Tak..."
+
+# game/day37.rpy:1197
+translate polish day37_b_sex_hard_8b8fd2fa:
+
+    # b "I'm your anal s-slut... R-remember..."
+    b "Jestem Twoją analną d- dziwką... P- Pamiętaj..."
+
+# game/day37.rpy:1199
+translate polish day37_b_sex_hard_12fd92f0:
+
+    # b "N-no..."
+    b "N- Nie..."
+
+# game/day37.rpy:1200
+translate polish day37_b_sex_hard_80fe2e3a:
+
+    # b "F-fuck!!!"
+    b "K- Kurwa!!!"
+
+# game/day37.rpy:1201
+translate polish day37_b_sex_hard_7d1c486e:
+
+    # b "Yes!"
+    b "Tak!"
+
+# game/day37.rpy:1208
+translate polish day37_b_sex_hard_bc4d5c1b:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your sister's vagina."
+    "{i}Nagle przypominasz sobie o wibratorze, który wciąż jest w cipce Twojej siostry."
+
+# game/day37.rpy:1210
+translate polish day37_b_sex_hard_017b1394:
+
+    # "{i}Suddenly, you remember the vibrator that's still inside your girl's vagina."
+    "{i}Nagle przypominasz sobie o wibratorze, który wciąż znajduje się w pochwie twojej dziewczyny."
+
+# game/day37.rpy:1211
+translate polish day37_b_sex_hard_d87dd57d:
+
+    # "{i}After making a grab for the remote you dial the vibrations of the toy up ever so slightly and continue fucking her ass."
+    "{i}Po chwyceniu pilota lekko podkręcasz wibracje zabawki i kontynuujesz ruchanie jej w dupę."
+
+# game/day37.rpy:1212
+translate polish day37_b_sex_hard_2745ee7b:
+
+    # b "Oh god!"
+    b "O Boże!"
+
+# game/day37.rpy:1213
+translate polish day37_b_sex_hard_c3ce4048:
+
+    # b "F-fuck!"
+    b "K- Kurwa!"
+
+# game/day37.rpy:1214
+translate polish day37_b_sex_hard_9e16afc3:
+
+    # b "K-keep g-going!"
+    b "N- Nie prz-estawaj!"
+
+# game/day37.rpy:1220
+translate polish day37_b_sex_hard_ac18dda7:
+
+    # "{i}[b_name] is drooling on the bedsheets, and her eyes are rolled backward. The only sounds she can now manage are animalistic grunts as your cock plows her asshole."
+    "{i}[b_name] ślini się na pościeli, a jej oczy są wywrócone do tyłu. Jedyne dźwięki, jakie może teraz wydawać, to zwierzęce pomruki, gdy twój kutas przebija jej dupę."
+
+# game/day37.rpy:1227
+translate polish day37_b_sex_hard_8bfedfcd:
+
+    # "{i}Your sister pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}Twoja siostra wypycha tyłek w górę, pozwalając Twojemu fiutowi wcisnąć się w nią jeszcze głębiej i zaczyna się trząść, zaciskając zęby."
+
+# game/day37.rpy:1229
+translate polish day37_b_sex_hard_39c5c055:
+
+    # "{i}[b_name] pushes herself upwards, allowing your cock to push even deeper inside of her and she begins to shudder, her teeth clenched."
+    "{i}[b_name] popycha się w górę, pozwalając twojemu kutasowi wepchnąć się w nią jeszcze głębiej, a ona zaczyna drżeć z zaciśniętymi zębami."
+
+# game/day37.rpy:1236
+translate polish day37_b_sex_hard_c78c3a55:
+
+    # "{i}[b_name] violently squirts as she wails in anguished pleasure."
+    "{i}Bella gwałtownie spuszcza się na łóżko, zawodząc z rozkoszy."
+
+# game/day37.rpy:1237
+translate polish day37_b_sex_hard_4af07fd9:
+
+    # b "M-motherf-ffuckkkk..."
+    b "M- Matko-boss..."
+
+# game/day37.rpy:1239
+translate polish day37_b_sex_hard_636b69d0:
+
+    # "{i}The violence of her motions makes it hard to keep fucking her ass, but you manage to move your cock inside her tunnel, prompting another river of squirt from her cunt."
+    "{i}Gwałtowność jej ruchów utrudnia dalsze ruchanie jej tyłka, ale udaje Ci się wsunąć kutasa do jej dziurki, co powoduje kolejne tryśnięcie ejakulatem z jej mokrej cipki."
+
+# game/day37.rpy:1240
+translate polish day37_b_sex_hard_524ce1b7:
+
+    # "{i}[b_name] collapses to the bed, quivering and lying in a pool of her own moisture, allowing you to achieve your climax."
+    "{i}Bella opada na łóżko, drżąc i leżąc w kałuży własnych soków, pozwalając Ci osiągnąć maksimum Twojej przyjemności."
+
+# game/day37.rpy:1243
+translate polish day37_b_sex_hard_7ca42fd7:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your sister's asshole."
+    "{i}Kontynuujesz ruchanie jej w dupę, rozkoszując się poczuciem kontroli i ciasnotą dupki swojej siostry."
+
+# game/day37.rpy:1245
+translate polish day37_b_sex_hard_3d62217c:
+
+    # "{i}You continue fucking her ass, relishing the feeling of control and the tautness of your girl's asshole."
+    "{i}Kontynuujesz rżnięcie jej tyłka, rozkoszując się uczuciem kontroli i napięciem dupka swojej dziewczyny."
+
+# game/day37.rpy:1246
+translate polish day37_b_sex_hard_a5470a99:
+
+    # "{i}You feel your climax approaching and are ready to treat [b_name] to a generous helping of your seed."
+    "{i}Czujesz, że zbliża się Twój orgazm i jesteś gotowy, aby nagrodzić Bellę hojną porcję swojego nasienia."
+
+# game/day37.rpy:1257
+translate polish day37_b_sex_hard_8a058469:
+
+    # "{i}It's only fitting that properly taking [b_name]'s anal virginity ends with an ass full of cum, so you stay rooted inside of her."
+    "{i}Jedynym stosownym finałem odebrania Belli jej analnego dziewictwa, jest wypełnienie jej tyłka Twoją spermą, więc ostatnimi pchnięciami wbijasz się w nią po same jaja."
+
+# game/day37.rpy:1258
+translate polish day37_b_sex_hard_0099c60e:
+
+    # "{i}You treat her asshole with a massive amount of cum, shot deeply inside her tunnel."
+    "{i}Zalewasz jej odbyt ogromną ilością spermy, opróżniając swoje jądra głęboko w jej wnętrzu."
+
+# game/day37.rpy:1265
+translate polish day37_b_sex_hard_bd2027d4:
+
+    # "{i}After you pull out, it takes a long while for your seed to trickle out of her winking asshole."
+    "{i}Kiedy wyciągasz z niej swojego fiuta, Twoje nasienie spływa z jej pulsującego odbytu przez długi czas."
+
+# game/day37.rpy:1267
+translate polish day37_b_sex_hard_08e0080c:
+
+    # "{i}[b_name] just moans, squirming on her squirt-soaked bedsheets."
+    "{i}Bella tylko jęczy, wijąc się na przesiąkniętej sokami pościeli."
+
+# game/day37.rpy:1269
+translate polish day37_b_sex_hard_97b7da56:
+
+    # "{i}[b_name] just moans, squirming on the messed-up bedsheets."
+    "{i}Bella tylko jęczy, wijąc się na rozgrzebanej pościeli."
+
+# game/day37.rpy:1285
+translate polish day37_b_sex_hard_89383974:
+
+    # p "Come here baby, taste that ass of yours."
+    p "Chodź tu kochanie, posmakuj swojego tyłka."
+
+# game/day37.rpy:1287
+translate polish day37_b_sex_hard_5d6ffb02:
+
+    # "{i}You pull [b_name] upright and stuff your cock inside her open mouth."
+    "{i}Podciągasz Bellę do pionu i wkładasz swojego fiuta do jej otwartych ust."
+
+# game/day37.rpy:1289
+translate polish day37_b_sex_hard_34de7a30:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately, her cunt still dripping with beads of squirt."
+    "{i}Dziewczyna nie protestuje i natychmiast zaczyna ssać Twojego kutasa, jej cipka dalej zrasza łóżko sokami."
+
+# game/day37.rpy:1291
+translate polish day37_b_sex_hard_0836ab83:
+
+    # "{i}She doesn't protest, but begins to suck on your dick immediately."
+    "{i}Dziewczyna nie protestuje i natychmiast zaczyna ssać Twojego kutasa."
+
+# game/day37.rpy:1292
+translate polish day37_b_sex_hard_dab268a0:
+
+    # p "That's right!"
+    p "Właśnie tak!"
+
+# game/day37.rpy:1295
+translate polish day37_b_sex_hard_2e311013:
+
+    # "{i}As [b_name] licks your shaft clean, you unload a massive amount of cum in her mouth."
+    "{i}Kiedy Bella wylizuje Twojego penisa do czysta, uwalniasz w jej ustach ogromną ilość spermy."
+
+# game/day37.rpy:1299
+translate polish day37_b_sex_hard_20f7c119:
+
+    # "{i}Some of it spills along the corners of her mouth, but [b_name] is quick to swallow all of your ejaculate."
+    "{i}Część spływa jej po kącikach ust, ale Bella szybko połyka cały Twój wytrysk."
+
+# game/day37.rpy:1315
+translate polish day37_b_sex_hard_a9fbe046:
+
+    # "{i}After your cock exits her asshole, you flip [b_name] over and blast her body with a wealth of your seed."
+    "{i}Po wysunięciu swojego kutasa z jej odbytu, odwracasz Bellę i obficie obryzgujesz jej ciało swoim nasieniem."
+
+# game/day37.rpy:1317
+translate polish day37_b_sex_hard_7f3f94f7:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on her squirt-soaked bedsheets."
+    "{i}Bella tylko jęczy, kręcąc tyłkiem we wszystkie strony na przesiąkniętej sokami pościeli."
+
+# game/day37.rpy:1319
+translate polish day37_b_sex_hard_5c8728c4:
+
+    # "{i}[b_name] just moans, wiggling her ass back and forth on the messed-up bedsheets."
+    "{i}Bella tylko jęczy, kręcąc tyłkiem we wszystkie strony na rozgrzebanej pościeli."
+
+# game/day37.rpy:1331
+translate polish day37_b_sex_hard_74e7ec77:
+
+    # "{i}You lay next to your sister, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Kładziesz się obok swojej siostry, ignorując mokrą pościel, kładąc władczo dłoń na jej brzuchu, Bella nie próbuje jej odtrącić."
+
+# game/day37.rpy:1333
+translate polish day37_b_sex_hard_361ee879:
+
+    # "{i}You lay next to her, ignoring the wet sheets, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Leżysz obok niej, ignorując mokrą pościel, kładąc zaborczą dłoń na jej brzuchu, którego ona nie odsuwa."
+
+# game/day37.rpy:1337
+translate polish day37_b_sex_hard_d1a42c18:
+
+    # "{i}The vibrator is still humming softly inside her cunt and you turn it off to allow [b_name] some respite."
+    "{i}Wibrator nadal cicho brzęczy w jej cipce, wyłączasz go, dając Belli odetchnąć."
+
+# game/day37.rpy:1340
+translate polish day37_b_sex_hard_9ce8a0ac:
+
+    # "{i}You lay next to your sister, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Kładziesz się obok swojej siostry, kładąc władczo dłoń na jej brzuchu, Bella nie próbuje jej odtrącić."
+
+# game/day37.rpy:1342
+translate polish day37_b_sex_hard_81fd5ead:
+
+    # "{i}You lay next to her, putting a possessive hand on her belly, which she doesn't brush away."
+    "{i}Kładziesz się obok niej, kładąc zaborczą dłoń na jej brzuchu, którego ona nie odsuwa."
+
+# game/day37.rpy:1343
+translate polish day37_b_sex_hard_76643805:
+
+    # p "I own you completely now."
+    p "Posiadłem Cię już całkowicie."
+
+# game/day37.rpy:1344
+translate polish day37_b_sex_hard_39ce7b87:
+
+    # p "You're mine."
+    p "Jesteś moja."
+
+# game/day37.rpy:1362
+translate polish day37_r_b_sex_hard_59d862c9:
+
+    # r "Oh!"
+    r "Oh!"
+
+# game/day37.rpy:1363
+translate polish day37_r_b_sex_hard_4c61d029:
+
+    # p "Were you already getting started?"
+    p "Już zaczęłaś?"
+
+# game/day37.rpy:1372
+translate polish day37_r_b_sex_hard_cdec02ef:
+
+    # r "I kinda was..."
+    r "Tak jakby..."
+
+# game/day37.rpy:1373
+translate polish day37_r_b_sex_hard_4332053d:
+
+    # r "Whenever I think of you, I just can't help myself."
+    r "Ilekroć o Tobie myślę, po prostu nie mogę się powstrzymać."
+
+# game/day37.rpy:1374
+translate polish day37_r_b_sex_hard_df03834d:
+
+    # p "Don't stop on my account, I think it looks hot."
+    p "Nie przestawaj z mojego powodu, podobało mi się to co widziałem."
+
+# game/day37.rpy:1375
+translate polish day37_r_b_sex_hard_078b9ba5:
+
+    # r "You do it better."
+    r "Ty robisz to lepiej."
+
+# game/day37.rpy:1381
+translate polish day37_r_b_sex_hard_51a557a7:
+
+    # "{i}[r_name] allows your hand to slip between her legs and looks at you lustfully."
+    "{i}Rachel pozwala Twojej dłoni wsunąć się między jej nogi i patrzy na Ciebie pożądliwie."
+
+# game/day37.rpy:1382
+translate polish day37_r_b_sex_hard_ca50f944:
+
+    # "{i}You finger her slowly and just intensely enough that you're still able to talk to her."
+    "{i}Masujesz ją powoli, na tyle intensywnie, że nadal jesteś w stanie z nią rozmawiać."
+
+# game/day37.rpy:1383
+translate polish day37_r_b_sex_hard_070a9656:
+
+    # p "I have a surprise for you."
+    p "Mam dla Ciebie niespodziankę."
+
+# game/day37.rpy:1384
+translate polish day37_r_b_sex_hard_e29871a4:
+
+    # r "I-Is that so?"
+    r "T- Tak?"
+
+# game/day37.rpy:1385
+translate polish day37_r_b_sex_hard_3cf8fb14:
+
+    # p "I've invited [b_name]..."
+    p "Zaprosiłem do nas Bellę..."
+
+# game/day37.rpy:1387
+translate polish day37_r_b_sex_hard_d40eb808:
+
+    # r "Oh..."
+    r "Oh..."
+
+# game/day37.rpy:1388
+translate polish day37_r_b_sex_hard_4b88c3d8:
+
+    # p "Too soon?"
+    p "Za wcześnie?"
+
+# game/day37.rpy:1389
+translate polish day37_r_b_sex_hard_7c7ccbb8:
+
+    # p "I could send her away."
+    p "Mogę ją odesłać."
+
+# game/day37.rpy:1390
+translate polish day37_r_b_sex_hard_ed912e80:
+
+    # r "No..."
+    r "Nie..."
+
+# game/day37.rpy:1392
+translate polish day37_r_b_sex_hard_18c2bff2:
+
+    # r "No, I want her here."
+    r "Nie, chcę jej tutaj."
+
+# game/day37.rpy:1393
+translate polish day37_r_b_sex_hard_71c22a15:
+
+    # p "There's something you should know."
+    p "Jest coś, o czym powinnaś wiedzieć."
+
+# game/day37.rpy:1394
+translate polish day37_r_b_sex_hard_4b40412a:
+
+    # p "In the bedroom, [b_name] and I act a little differently."
+    p "W sypialni, Bella i ja zachowujemy się trochę inaczej."
+
+# game/day37.rpy:1395
+translate polish day37_r_b_sex_hard_dafbdb95:
+
+    # r "What do you mean?"
+    r "Co masz na myśli?"
+
+# game/day37.rpy:1396
+translate polish day37_r_b_sex_hard_11496698:
+
+    # p "She likes to do what I tell her."
+    p "Lubi robić to, co jej powiem."
+
+# game/day37.rpy:1398
+translate polish day37_r_b_sex_hard_fc37eded:
+
+    # r "I do too."
+    r "Ja też."
+
+# game/day37.rpy:1399
+translate polish day37_r_b_sex_hard_817e2c44:
+
+    # p "This is not the same."
+    p "To nie to samo."
+
+# game/day37.rpy:1400
+translate polish day37_r_b_sex_hard_d61ed0b8:
+
+    # p "[b_name] is my submissive."
+    p "Bella jest moją uległą."
+
+# game/day37.rpy:1402
+translate polish day37_r_b_sex_hard_3ec524e1:
+
+    # r "[b_name]? Really?"
+    r "Bella? Naprawdę?"
+
+# game/day37.rpy:1403
+translate polish day37_r_b_sex_hard_df34f87f:
+
+    # r "So I can make her do whatever I want to?"
+    r "Więc mogę ją zmusić, żeby zrobiła co zechcę?"
+
+# game/day37.rpy:1404
+translate polish day37_r_b_sex_hard_1cdb9e0d:
+
+    # p "If I allow it, yes."
+    p "Jeśli na to pozwolę, tak."
+
+# game/day37.rpy:1406
+translate polish day37_r_b_sex_hard_768a8ed3:
+
+    # r "Mmmm, making my older sister do what I want... Interesting..."
+    r "Mmmm, zmuszanie mojej starszej siostry do robienia tego, co chcę... Interesujące..."
+
+# game/day37.rpy:1408
+translate polish day37_r_b_sex_hard_300ebf6f:
+
+    # r "Mmmm, making my older friend do what I want... Interesting..."
+    r "Mmmm sprawianie, że mój starszy przyjaciel robi to, czego chcę Interesujące"
+
+# game/day37.rpy:1409
+translate polish day37_r_b_sex_hard_ca08e60c:
+
+    # p "{i}(Didn't expect her to accept it so easily...)"
+    p "{i}(Nie spodziewałem się, że tak łatwo to zaakceptuje...)"
+
+# game/day37.rpy:1411
+translate polish day37_r_b_sex_hard_2e86761d:
+
+    # "{i}Satisfied, you focus your attention on [r_name]'s pussy again, her clit in particular."
+    "{i}Zadowolony, ponownie skupiasz swoją uwagę na cipce Rachel, a zwłaszcza na jej łechtaczce."
+
+# game/day37.rpy:1412
+translate polish day37_r_b_sex_hard_d00807f1:
+
+    # r "F-fuck!"
+    r "K- Kurwa!"
+
+# game/day37.rpy:1413
+translate polish day37_r_b_sex_hard_addd5af0:
+
+    # r "That's the spot!"
+    r "Właśnie tutaj!"
+
+# game/day37.rpy:1417
+translate polish day37_r_b_sex_hard_c3383809:
+
+    # "{i}You're interrupted by a knock on [r_name]'s door."
+    "{i}Przerywa wam pukanie do drzwi."
+
+# game/day37.rpy:1418
+translate polish day37_r_b_sex_hard_3ab75bb7:
+
+    # r "Who is it?"
+    r "Kto tam?"
+
+# game/day37.rpy:1419
+translate polish day37_r_b_sex_hard_ecb9a588:
+
+    # b "Me."
+    b "Ja."
+
+# game/day37.rpy:1420
+translate polish day37_r_b_sex_hard_91b79bf5:
+
+    # r "Come in."
+    r "Wejdź."
+
+# game/day37.rpy:1422
+translate polish day37_r_b_sex_hard_59152d4e:
+
+    # r "We got started without you..."
+    r "Zaczęliśmy bez Ciebie..."
+
+# game/day37.rpy:1423
+translate polish day37_r_b_sex_hard_e3dad245:
+
+    # p "{i}(Damn [r_name]!)"
+    p "{i}(Cholera Rachel!)"
+
+# game/day37.rpy:1424
+translate polish day37_r_b_sex_hard_c3c6b9c4:
+
+    # p "Why don't you undress and come over here."
+    p "Rozbierz się i podejdź tutaj."
+
+# game/day37.rpy:1430
+translate polish day37_r_b_sex_hard_e5a9c664:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her youngest sister."
+    "{i}Pomimo odważnego wyrazu twarzy, ruchy Belli są nieco niezdecydowane, prawdopodobnie dlatego, że nadal nie jest przyzwyczajona do obserwowania, jak dotykasz jej młodszą siostrę."
+
+# game/day37.rpy:1432
+translate polish day37_r_b_sex_hard_aa5b107d:
+
+    # "{i}Despite the brave look on her face, [b_name]'s movements are a little hesitant, probably because she still isn't used to the sight of you fingering her younger friend."
+    "{i}Pomimo odważnego wyrazu twarzy, ruchy [b_name] są nieco niezdecydowane, prawdopodobnie dlatego, że wciąż nie jest przyzwyczajona do widoku ciebie palcującego jej młodszą przyjaciółkę."
+
+# game/day37.rpy:1437
+translate polish day37_r_b_sex_hard_c72aedeb:
+
+    # p "[r_name] would really like to cum."
+    p "Rachel naprawdę chciałaby dojść."
+
+# game/day37.rpy:1438
+translate polish day37_r_b_sex_hard_92a6f668:
+
+    # p "So I've made her pussy all wet for you."
+    p "Więc przygotowałem dla Ciebie jej cipkę, jest już mokra."
+
+# game/day37.rpy:1439
+translate polish day37_r_b_sex_hard_1eb0d7d3:
+
+    # p "And now it's waiting for your tongue."
+    p "Czeka już tylko na Twój język."
+
+# game/day37.rpy:1446
+translate polish day37_r_b_sex_hard_9196c426:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger sister only has eyes for you."
+    "{i}Rachel nie widzi spojrzenia, jakie rzuca Ci Bella, Twoja młodsza siostra patrzy tylko na Ciebie."
+
+# game/day37.rpy:1447
+translate polish day37_r_b_sex_hard_055a8d7f:
+
+    # "{i}[b_name] lowers her head between her sister's legs and probes the girl's pussy with her tongue."
+    "{i}Bella wkłada głowę między nogi swojej siostry i zaczyna badać językiem jej cipkę."
+
+# game/day37.rpy:1449
+translate polish day37_r_b_sex_hard_89df8631:
+
+    # "{i}[r_name] fails to see the glare [b_name] casts at you, because your younger friend only has eyes for you."
+    "{i}[r_name] nie dostrzega spojrzenia [b_name] rzucanego na ciebie, ponieważ twój młodszy przyjaciel ma oczy tylko dla ciebie."
+
+# game/day37.rpy:1450
+translate polish day37_r_b_sex_hard_b53fab4a:
+
+    # "{i}[b_name] lowers her head between the girl's legs and probes her friend's pussy with her tongue."
+    "{i}[b_name] opuszcza głowę między nogi dziewczyny i bada językiem cipkę koleżanki."
+
+# game/day37.rpy:1452
+translate polish day37_r_b_sex_hard_fed25d20:
+
+    # p "Does that feel good, [r_name]?"
+    p "Czy to dobre uczucie [r_name]?"
+
+# game/day37.rpy:1453
+translate polish day37_r_b_sex_hard_e0c642ab:
+
+    # r "Oh y-yes!"
+    r "Oh, d- dobrze!"
+
+# game/day37.rpy:1454
+translate polish day37_r_b_sex_hard_3eed19c5:
+
+    # r "K-keep going, [b_name]."
+    r "Nie przestawaj Bella."
+
+# game/day37.rpy:1456
+translate polish day37_r_b_sex_hard_d4281d9c:
+
+    # "{i}Your tongues entangle for a passionate kiss, as [b_name] eats [r_name]'s pussy out."
+    "{i}Wasze języki splatają się w namiętnym pocałunku, podczas gdy Bella liże cipkę Rachel."
+
+# game/day37.rpy:1458
+translate polish day37_r_b_sex_hard_e43a10d0:
+
+    # "{i}The sight of your older sister's ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}Widok tyłka Twojej starszej siostry, unoszącego się w powietrzu, kiedy sprawia przyjemność Rachel, sprawia, że ​​robisz się twardy jak skała."
+
+# game/day37.rpy:1460
+translate polish day37_r_b_sex_hard_22a1143d:
+
+    # "{i}The sight of [b_name]'s ass, up in the air, while she's pleasuring [r_name], makes you rock-hard."
+    "{i}Widok tyłka [b_name] w powietrzu, gdy ona sprawia przyjemność [r_name] sprawia, że jesteś twardy jak skała."
+
+# game/day37.rpy:1462
+translate polish day37_r_b_sex_hard_0cb02496:
+
+    # p "I want to borrow her."
+    p "Pożyczę ją."
+
+# game/day37.rpy:1463
+translate polish day37_r_b_sex_hard_0b5fe5c3:
+
+    # r "M-must you?"
+    r "M- Musisz?"
+
+# game/day37.rpy:1464
+translate polish day37_r_b_sex_hard_59638b31:
+
+    # p "Only for a short while."
+    p "Tylko na chwilkę."
+
+# game/day37.rpy:1465
+translate polish day37_r_b_sex_hard_ee3c825b:
+
+    # r "O-okay..."
+    r "O- Okej..."
+
+# game/day37.rpy:1466
+translate polish day37_r_b_sex_hard_04f9a4bd:
+
+    # p "[b_name], come over here and suck my cock."
+    p "Chodź tu Bella, possij mojego kutasa."
+
+# game/day37.rpy:1472
+translate polish day37_r_b_sex_hard_5a706a46:
+
+    # "{i}The girl emerges from between [r_name]'s legs and eyes your erection."
+    "{i}Dziewczyna wyłania się spomiędzy nóg Belli i zerka na Twoją erekcję."
+
+# game/day37.rpy:1473
+translate polish day37_r_b_sex_hard_1072deb7:
+
+    # "{i}She laps up the precum that's covering the tip of your cock before engulfing it with her warm mouth."
+    "{i}Zlizuje śluz, który już pokrywa czubek Twojego penisa i pochłania go swoimi ciepłymi ustami."
+
+# game/day37.rpy:1476
+translate polish day37_r_b_sex_hard_1a123dac:
+
+    # "{i}You turn your attention to your youngest sister's petite breasts and play with her soft nipples."
+    "{i}Zwracasz swoją uwagę ku drobnym piersiom swojej młodszej siostry i bawisz się jej miękkimi sutkami."
+
+# game/day37.rpy:1478
+translate polish day37_r_b_sex_hard_40f5a25d:
+
+    # "{i}You turn your attention to your youngest friend's petite breasts and play with her soft nipples."
+    "{i}Zwracasz uwagę na drobne piersi swojej najmłodszej przyjaciółki i bawisz się jej miękkimi sutkami."
+
+# game/day37.rpy:1479
+translate polish day37_r_b_sex_hard_4289a6e1:
+
+    # "{i}With slight thrusts of your hips, you tease [b_name] and force her to take your dick even further into her mouth."
+    "{i}Drobnymi pchnięciami bioder drażnisz Bellę i zmuszasz ją, by wzięła Twojego fiuta jeszcze głębiej do gardła."
+
+# game/day37.rpy:1481
+translate polish day37_r_b_sex_hard_d3b998b3:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older sister makes when she takes the full length of your shaft down her throat."
+    "{i}Rachel najwyraźniej nie ma nic przeciwko odgłosom krztuszenia się, jakie wydaje jej starsza siostra, kiedy wbijasz się na całą długość w jej gardło."
+
+# game/day37.rpy:1483
+translate polish day37_r_b_sex_hard_9a7bdf0f:
+
+    # "{i}[r_name] clearly doesn't mind the gagging noises her older friend makes when she takes the full length of your shaft down her throat."
+    "{i}[r_name] najwyraźniej nie ma nic przeciwko odgłosom kneblowania, które wydaje jej starsza koleżanka, gdy bierze całą długość twojego wału do gardła."
+
+# game/day37.rpy:1485
+translate polish day37_r_b_sex_hard_9a81a38e:
+
+    # r "This is so hot, [p_name]!"
+    r "To takie ekscytujące [p_name]!"
+
+# game/day37.rpy:1486
+translate polish day37_r_b_sex_hard_6887497b:
+
+    # r "I want you to fuck me while [b_name] watches."
+    r "Chcę, żebyś mnie wyruchał i żeby Bella na to patrzyła."
+
+# game/day37.rpy:1487
+translate polish day37_r_b_sex_hard_a2f04ad3:
+
+    # p "You want to make her jealous."
+    p "Chcesz, żeby była zazdrosna."
+
+# game/day37.rpy:1488
+translate polish day37_r_b_sex_hard_635c817e:
+
+    # r "Only a little."
+    r "Tylko trochę."
+
+# game/day37.rpy:1489
+translate polish day37_r_b_sex_hard_421de7b3:
+
+    # p "That's enough, [b_name]."
+    p "Już wystarczy Bella."
+
+# game/day37.rpy:1496
+translate polish day37_r_b_sex_hard_d3f0e18d:
+
+    # "{i}[r_name] lets out a giddy laugh as you turn her on her side and spread her legs."
+    "{i}Rachel chichocze, kiedy przewracasz ją na bok i rozkładasz jej nogi."
+
+# game/day37.rpy:1502
+translate polish day37_r_b_sex_hard_48f6d9e3:
+
+    # "{i}You make sure [b_name] has a good view of her sister's cunt as you push your cock inside her."
+    "{i}Upewniasz się, że Bella ma dobry widok na cipkę swojej siostry, kiedy wpychasz w nią swojego kutasa."
+
+# game/day37.rpy:1503
+translate polish day37_r_b_sex_hard_f4fff822:
+
+    # "{i}Thanks to her older sister's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Dzięki minecie w wykonaniu jej starszej siostry, Rachel jest mokra, a Twój kutas z łatwością się w nią wsuwa."
+
+# game/day37.rpy:1505
+translate polish day37_r_b_sex_hard_02bc7901:
+
+    # "{i}You make sure [b_name] has a good view of her friend's cunt as you push your cock inside her."
+    "{i}Upewnij się, że [b_name] ma dobry widok na cipę swojej przyjaciółki, gdy wpychasz w nią swojego kutasa."
+
+# game/day37.rpy:1506
+translate polish day37_r_b_sex_hard_989e44bf:
+
+    # "{i}Thanks to her older friend's cunnilingus, [r_name] is dripping wet, and your dick slides inside her with ease."
+    "{i}Dzięki cunnilingus jej starszej koleżanki [r_name] jest ociekająca wilgocią, a twój kutas wsuwa się w nią z łatwością."
+
+# game/day37.rpy:1511
+translate polish day37_r_b_sex_hard_bcb391ab:
+
+    # "{i}Hugging her you fuck her pussy hard, taking [r_name]'s breath away as she moans and exhales at the same time."
+    "{i}Przytulając ją, pieprzysz mocno jej cipkę, zapierając Rachel dech w piersiach, gdy jednocześnie jęczy i wydycha powietrze."
+
+# game/day37.rpy:1512
+translate polish day37_r_b_sex_hard_6a984c9c:
+
+    # r "Oooh [p_name]!"
+    r "Oooh [p_name]!"
+
+# game/day37.rpy:1513
+translate polish day37_r_b_sex_hard_55a194e2:
+
+    # r "Harder!"
+    r "Mocniej!"
+
+# game/day37.rpy:1515
+translate polish day37_r_b_sex_hard_1d6407b8:
+
+    # "{i}Fucking your youngest sister requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Posuwanie Twojej najmłodszej siostry wymaga całej Twojej uwagi, ale kiedy tylko możesz spojrzeć na Bellę, widzisz, jak wpatruje się w Ciebie z podnieconą fascynacją."
+
+# game/day37.rpy:1517
+translate polish day37_r_b_sex_hard_4b12575d:
+
+    # "{i}Fucking your youngest friend requires all of your attention, but when you're able to glance at [b_name] you see her staring at you in aroused fascination."
+    "{i}Pieprzenie swojej najmłodszej przyjaciółki wymaga całej twojej uwagi, ale kiedy jesteś w stanie spojrzeć na [b_name], widzisz ją wpatrującą się w ciebie z podnieconą fascynacją."
+
+# game/day37.rpy:1519
+translate polish day37_r_b_sex_hard_78ec61d3:
+
+    # "{i}[r_name] has closed her eyes in coital bliss as you keep hitting her moist cunt with your hard cock."
+    "{i}Rachel zamyka oczy, pogrążając się w rozkoszy, jaką dajesz jej swoim twardym kutasem."
+
+# game/day37.rpy:1520
+translate polish day37_r_b_sex_hard_5961bf0b:
+
+    # r "I love you!"
+    r "Kocham Cię!"
+
+# game/day37.rpy:1521
+translate polish day37_r_b_sex_hard_2ca7a862:
+
+    # r "Fuck me harder! Please!"
+    r "Rżnij mnie mocniej! Proszę!"
+
+# game/day37.rpy:1530
+translate polish day37_r_b_sex_hard_c5299c91:
+
+    # "{i}Your sister lets herself be flipped over willingly, and you pull her ass close towards you, your dick slipping past her labia with ease."
+    "{i}Twoja siostra chętnie pozwala się odwrócić, przyciągasz jej tyłek bliżej i Twój kutas z łatwością wślizguje się ponownie do jej mokrej szparki."
+
+# game/day37.rpy:1532
+translate polish day37_r_b_sex_hard_30441d0e:
+
+    # "{i}Your girlfriend lets herself be flipped over willingly, and you pull her ass, your dick slipping past her labia with ease."
+    "{i}Twoja dziewczyna pozwala się dobrowolnie przewrócić, a ty ciągniesz ją za tyłek, a twój kutas z łatwością prześlizguje się obok jej warg sromowych."
+
+# game/day37.rpy:1533
+translate polish day37_r_b_sex_hard_bc7191e6:
+
+    # "{i}Grabbing her sides, you're able to penetrate [r_name] more deeply and fuck her even more thoroughly than before."
+    "{i}Chwytając ją za boki, jesteś w stanie penetrować Rachel głębiej i pieprzyć ją jeszcze mocniej niż wcześniej."
+
+# game/day37.rpy:1534
+translate polish day37_r_b_sex_hard_dedc3b5f:
+
+    # p "Get over here, [b_name]."
+    p "Chodź tu Bella."
+
+# game/day37.rpy:1542
+translate polish day37_r_b_sex_hard_b17cc246:
+
+    # p "Taste your sister."
+    p "Posmakuj swojej siostry."
+
+# game/day37.rpy:1544
+translate polish day37_r_b_sex_hard_0112f2be:
+
+    # p "Taste your friend."
+    p "Posmakuj swojego przyjaciela"
+
+# game/day37.rpy:1545
+translate polish day37_r_b_sex_hard_a2d73374:
+
+    # "{i}You stuff [b_name]'s mouth with your wet cock as you pull out of [r_name] temporarily."
+    "{i}Nadziewasz usta Belli na swojego mokrego kutasa, wyciągając go chwilowo z Rachel."
+
+# game/day37.rpy:1547
+translate polish day37_r_b_sex_hard_264d421f:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her sister's salty juices."
+    "{i}Bella gorliwie czyści Twojego fiuta, skrzętnie zlizując z niego wszystkie soki swojej siostry."
+
+# game/day37.rpy:1549
+translate polish day37_r_b_sex_hard_389a301e:
+
+    # "{i}Devotedly, [b_name] cleans your cock with her mouth, making sure she swallows all of her friend's salty juices."
+    "{i}Z oddaniem [b_name] czyści twojego kutasa ustami, upewniając się, że połknie wszystkie słone soki swojej przyjaciółki."
+
+# game/day37.rpy:1550
+translate polish day37_r_b_sex_hard_eaa9ca80:
+
+    # p "Good girl."
+    p "Grzeczna dziewczynka."
+
+# game/day37.rpy:1557
+translate polish day37_r_b_sex_hard_74bfc0f9:
+
+    # "{i}[r_name] squeals in delight when you reinsert your cock, now moist with [b_name]'s saliva and fuck her hard again."
+    "{i}Rachel piszczy z zachwytu, kiedy ponownie wpychasz w nią swojego kutasa, teraz zwilżonego śliną Belli i ponownie zaczynasz mocno ją rżnąć."
+
+# game/day37.rpy:1558
+translate polish day37_r_b_sex_hard_abefe131:
+
+    # r "Keep going, [p_name]!"
+    r "Nie przestawaj [p_name]!"
+
+# game/day37.rpy:1559
+translate polish day37_r_b_sex_hard_e22604e5:
+
+    # "{i}You'd like to oblige her, but it's becoming increasingly hard to stave off the moment of climax."
+    "{i}Chciałbyś spełnić jej prośbę, ale coraz trudniej odwlekać Ci Twój orgazm."
+
+# game/day37.rpy:1560
+translate polish day37_r_b_sex_hard_dd697dae:
+
+    # p "G-get ready, [b_name]."
+    p "P- Przygotuj się, Bella."
+
+# game/day37.rpy:1561
+translate polish day37_r_b_sex_hard_662b4997:
+
+    # p "D-don't waste a drop."
+    p "N- Nie zmarnuj ani kropli."
+
+# game/day37.rpy:1572
+translate polish day37_r_b_sex_hard_740a03ae:
+
+    # "{i}[b_name] is lying ready underneath her sister when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}Bella leży gotowa pod swoją siostrą, kiedy pokrywasz pochwę Rachel swoim ciepłym nasieniem."
+
+# game/day37.rpy:1574
+translate polish day37_r_b_sex_hard_24b01484:
+
+    # "{i}[b_name] is lying ready underneath her friend when you coat [r_name]'s vaginal tract with warm seed."
+    "{i}[b_name] leży gotowa pod swoją przyjaciółką, gdy pokrywasz pochwę [r_name] ciepłym nasieniem."
+
+# game/day37.rpy:1580
+translate polish day37_r_b_sex_hard_ac9c5d61:
+
+    # "{i}Grinning, [r_name] contracts her vagina to force out your cum, causing it to drip onto [b_name]'s face."
+    "{i}Uśmiechając się, Rachel napina mięśnie, aby wycisnąć z siebie Twoją spermę, powodując, że kapie ona na twarz Belli."
+
+# game/day37.rpy:1581
+translate polish day37_r_b_sex_hard_b0622cf5:
+
+    # p "Clean that pussy up, [b_name]."
+    p "Wyczyść tę cipkę, Bella."
+
+# game/day37.rpy:1587
+translate polish day37_r_b_sex_hard_535d6088:
+
+    # "{i}Reluctantly, [b_name] bows her head towards [r_name]'s pussy and begins to drink your cum from it."
+    "{i}Niechętnie, Bella wygina się do góry, w kierunku cipki Rachel i zaczyna spijać z niej Twoją spermę."
+
+# game/day37.rpy:1603
+translate polish day37_r_b_sex_hard_7aa4b920:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger sister's back with warm seed."
+    "{i}Bella jest już gotowa, kiedy wysuwasz się ze swojej młodszej siostry i spryskujesz jej plecy swoim ciepłym nasieniem."
+
+# game/day37.rpy:1605
+translate polish day37_r_b_sex_hard_a2822f5d:
+
+    # "{i}[b_name] is at the ready when you pull out and spray your younger friend's back with warm seed."
+    "{i}[b_name] jest gotowy, gdy wyciągniesz i spryskasz plecy swojego młodszego przyjaciela ciepłym nasieniem."
+
+# game/day37.rpy:1610
+translate polish day37_r_b_sex_hard_fdc20f93:
+
+    # "{i}[r_name] lies on her stomach, a blissful smile gracing her face, while [b_name] scoops up your cum with her fingers from her back and swallows it all."
+    "{i}Rachel leży na brzuchu, z błogim uśmiechem na twarzy, podczas gdy Bella zgarnia Twoją spermę palcami z jej pleców i połyka wszystko."
+
+# game/day37.rpy:1626
+translate polish day37_r_b_sex_hard_2a2f76f1:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older sister's face with a fountain of cum."
+    "{i}Aby ułatwić sprawę Belli, wysuwasz się z Rachel i pokrywasz twarz swojej starszej siostry strumieniami spermy."
+
+# game/day37.rpy:1628
+translate polish day37_r_b_sex_hard_7c509ab8:
+
+    # "{i}To make things easier for [b_name], you pull out of [r_name] and blast your older friend's face with a fountain of cum."
+    "{i}Aby ułatwić sprawę [b_name], wysuwasz się z [r_name] i wysadzasz twarz swojego starszego przyjaciela fontanną spermy."
+
+# game/day37.rpy:1629
+translate polish day37_r_b_sex_hard_e88f8e64:
+
+    # "{i}A lot of semen ends up in her open mouth, the rest she scoops up with her fingers and licks them clean."
+    "{i}Spora część nasienia trafia bezpośrednio do jej otwartych ust, resztę zbiera palcami i oblizuje."
+
+# game/day37.rpy:1639
+translate polish day37_r_b_sex_hard_d269f040:
+
+    # "{i}Behaving like a good little slut, [b_name] grabs your cock and licks the remaining droplets of cum from the tip."
+    "{i}Zachowując się jak dobra mała kurewka, Bella chwyta Twojego fiuta i zlizuje z główki ostatnie kropelki spermy."
+
+# game/day37.rpy:1640
+translate polish day37_r_b_sex_hard_27d7082e:
+
+    # p "That's my girl."
+    p "Właśnie tak mała."
+
+# game/day37.rpy:1648
+translate polish day37_r_b_sex_hard_2f1e1be1:
+
+    # "{i}Thoroughly satisfied, you take both girls into your arms and pull them close towards you."
+    "{i}W pełni usatysfakcjonowany, bierzesz obie dziewczyny w ramiona i przyciągasz je blisko siebie."
+
+# game/day37.rpy:1650
+translate polish day37_r_b_sex_hard_5ae801e3:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older sister's sexual performance."
+    "{i}Bella jest z początku bardzo spięta, ale w końcu się rozluźnia, kiedy Rachel mamrocze różne komplementy na temat umiejętności swojej starszej siostry."
+
+# game/day37.rpy:1652
+translate polish day37_r_b_sex_hard_01154c56:
+
+    # "{i}[b_name] is very tense at first, but eventually lets her guard down as [r_name] mumbles various compliments about her older friend's sexual performance."
+    "{i}[b_name] na początku jest bardzo spięta, ale w końcu opuszcza gardę, gdy [r_name] mamrocze różne komplementy na temat sprawności seksualnej swojej starszej przyjaciółki."
+
+# game/day37.rpy:1653
+translate polish day37_r_b_sex_hard_c88d4cdc:
+
+    # p "You were both great, girls, everything a man can dream of."
+    p "Obie byłyście wspaniałe dziewczyny, jesteście wszystkim o czym mógłby marzyć mężczyzna."
+

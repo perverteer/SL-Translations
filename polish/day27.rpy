@@ -110,7 +110,7 @@ translate polish day27_cec0e92e:
 translate polish day27_91bd6d71:
 
     # # # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
-    ""
+      "{i} Trzymając gąbkę, kontynuujesz delikatne szorowanie jej ciała, gdy śledzisz piękny kształt jej piersi [b_name] wydaje zadowolone westchnienie i odchyla się do tyłu."
 
 # game/day27.rpy:50
 translate polish day27_cbc1201f:
@@ -248,7 +248,7 @@ translate polish day27_052ebcda:
 translate polish day27_66615e02:
 
     # # # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
-    ""
+      "{i} Kucnęła na tobie i powoli wepchnęła twoją erekcję w swoją szczelinę, przygryzając wargę, gdy to robiła."
 
 # game/day27.rpy:84
 translate polish day27_a2fc0cc2:
@@ -284,7 +284,7 @@ translate polish day27_c474c697:
 translate polish day27_814837df:
 
     # # # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
-    ""
+      "{i}Delirious [b_name] orgazmuje na tobie Z powodu jej konwulsji przyjemności musisz przejąć inicjatywę"
 
 # game/day27.rpy:96
 translate polish day27_d6e04d49:
@@ -2048,7 +2048,7 @@ translate polish day27_flashback_post_e261b825:
 translate polish day27_flashback_post_eb097333:
 
     # # # "{i}You turn the dial to the lowest setting, the egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
-    ""
+      "{i} Przekręcasz pokrętło na najniższe ustawienie, jajko nadal sprawia przyjemność [b_name], ale wydaje się, że jest w stanie mniej więcej zachować spokój."
 
 # game/day27.rpy:599
 translate polish day27_flashback_post_d1e07412:
@@ -2222,7 +2222,7 @@ translate polish day27_me_post_10af728b:
 translate polish day27_me_post_70079858:
 
     # # # "{i}While [b_name] is waiting on another table nearby, you turn the dial slowly up, until you hear her gasp."
-    ""
+      "{i}Podczas gdy [b_name] czeka na innym stoliku w pobliżu, powoli przekręcasz pokrętło w górę, aż usłyszysz jej sapnięcie."
 
 # game/day27.rpy:643
 translate polish day27_me_post_f2a79bc9:
@@ -2516,7 +2516,7 @@ translate polish day27_me_post_7b413b5c:
 translate polish day27_me_post_b147ddb0:
 
     # # # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
-    ""
+      "{i}[b_name] nie odpycha cię, ale rozkłada nogi nieco szerzej, aby umożliwić ci lepszy dostęp do jej ociekającej szczeliny."
 
 # game/day27.rpy:709
 translate polish day27_me_post_c5cc69af:
@@ -2594,7 +2594,7 @@ translate polish day27_me_post_509df137:
 translate polish day27_me_post_2fb542ee:
 
     # # # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
-    ""
+      "{i}[b_name] tryska kilkoma strumieniami ejakulatu na jej uda i powierzchnię biurka. Zaczyna kapać na podłogę, gdy jej wiotka postać spazmuje w ferworze orgazmu."
 
 # game/day27.rpy:731
 translate polish day27_me_post_fd967eb5:
@@ -3002,7 +3002,7 @@ translate polish day27_me_post_6a7432c1:
 translate polish day27_me_post_5a87b317:
 
     # # # "{i}For a while, you watch [b_name] as she waits tables and then you sneak to the back of the coffeeshop to find Megan."
-    ""
+      "{i} Przez chwilę obserwujesz [b_name], jak czeka przy stolikach, a potem zakradasz się na tyły kawiarni, by znaleźć Megan."
 
 # game/day27.rpy:830
 translate polish day27_me_post_3d84b940:
@@ -3014,7 +3014,7 @@ translate polish day27_me_post_3d84b940:
 translate polish day27_me_post_17264f0d:
 
     # # # "{i}For a while, you watch [b_name] as she waits tables and then head back home."
-    ""
+      "{i}Przez chwilę obserwujesz, jak [b_name] kelneruje przy stolikach, a potem wracasz do domu."
 
 # game/day27.rpy:844
 translate polish day27_evening_choices_4b5a0763:
@@ -3080,7 +3080,7 @@ translate polish day27_evening_choices_5507aa38:
 translate polish day27_evening_choices_efcd4854:
 
     # # # "{i}[l_name] nestles herself against your chest as you hold her in your arms."
-    ""
+      "{i}[l_name] wtula się w twoją klatkę piersiową, gdy trzymasz ją w ramionach."
 
 # game/day27.rpy:859
 translate polish day27_evening_choices_dc125090:
@@ -3254,7 +3254,7 @@ translate polish day27_evening_choices_f82720b3:
 translate polish day27_evening_choices_9a23acb9:
 
     # # # p "Last time I checked you had two lovely friends living in the same house."
-    p ""
+      p "Ostatnim razem, gdy sprawdzałem, miałeś dwóch uroczych przyjaciół mieszkających w tym samym domu."
 
 # game/day27.rpy:894
 translate polish day27_evening_choices_b63c3633:
@@ -3272,7 +3272,7 @@ translate polish day27_evening_choices_78494830:
 translate polish day27_evening_choices_dcef1d02:
 
     # # # p "{i}([l_name] and I did a lot more than just talk and she's worried about asking one of her friends some intimate questions?)"
-    p ""
+      p "{i}([l_name] i ja zrobiliśmy o wiele więcej niż tylko rozmawialiśmy, a ona martwi się, że zadaje jednej ze swoich przyjaciółek intymne pytania)?"
 
 # game/day27.rpy:899
 translate polish day27_evening_choices_42588653:
@@ -3290,7 +3290,7 @@ translate polish day27_evening_choices_d84c3f6a:
 translate polish day27_evening_choices_241b906a:
 
     # # # p "Just trust me. Girl talk is perfectly natural, even among friends."
-    p ""
+      p "Zaufaj mi, babskie gadki są całkowicie naturalne, nawet wśród przyjaciół"
 
 # game/day27.rpy:904
 translate polish day27_evening_choices_50dc564f:
@@ -3314,7 +3314,7 @@ translate polish day27_evening_choices_62379de4:
 translate polish day27_evening_choices_d693d20a:
 
     # # # p "The boy-girl dynamic is a little more problematic, I'm afraid."
-    p ""
+      p "Obawiam się, że dynamika chłopak-dziewczyna jest nieco bardziej problematyczna."
 
 # game/day27.rpy:911
 translate polish day27_evening_choices_7627d605:
@@ -3380,7 +3380,7 @@ translate polish day27_evening_choices_ddcf1741:
 translate polish day27_evening_choices_2886555a:
 
     # # # p "And how's my lovely [b_name] tonight?"
-    p ""
+      p "A jak się dzisiaj miewa moja urocza [b_name]?"
 
 # game/day27.rpy:937
 translate polish day27_evening_choices_baa814df:
@@ -3452,7 +3452,7 @@ translate polish day27_evening_choices_d3eb7e06:
 translate polish day27_evening_choices_378f54bf:
 
     # # # "{i}Using the dial on the remote, you turn the egg off. A sigh of relief escapes [b_name]."
-    ""
+      "{i}Używając pokrętła na pilocie, wyłączasz jajko. Westchnienie ulgi uchodzi z [b_name]."
 
 # game/day27.rpy:954
 translate polish day27_evening_choices_d4b5a4bc:
@@ -3662,7 +3662,7 @@ translate polish day27_flashback_70b8419e:
 translate polish day27_flashback_4d3a2fdb:
 
     # # # p "Don't mock the wonders of young love, [r_name]-dear."
-    p ""
+      p "Nie kpij z cudów młodej miłości [r_name]-dear"
 
 # game/day27.rpy:1022
 translate polish day27_flashback_01697016:
@@ -4471,4 +4471,1512 @@ translate polish strings:
     # game/day27.rpy:25
     old "Room Service"
     new "Obsługa hotelowa"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day27.rpy:96
+translate polish day27_c279a773:
+
+    # "{i}You both seem unable to speak without tearing up. Instead you leave her after a last, long look in her deep blue eyes."
+    "{i}Oboje zdajecie się niezdolni do odezwania się bez wybuchania płaczem, zamiast tego, zostawiasz ją samą, po ostatnim, długim spojrzeniu w jej głębokie, niebieskie oczy."
+
+# game/day27.rpy:108
+translate polish day27_7dcb3289:
+
+    # b "It was meant to be our night, [p_name]. Instead, you go and dance with my friend, a girl you hardly know..."
+    b "To miała być nasza noc [p_name] Zamiast tego poszedłeś tańczyć z moją przyjaciółką, dziewczyną, której prawie nie znasz."
+
+# game/day27.rpy:116
+translate polish day27_45d10353:
+
+    # b "Yes, yes! Now kiss me, you fool."
+    b "Tak, tak! A teraz pocałuj mnie wreszcie głupku."
+
+# game/day27.rpy:237
+translate polish day27_2f75c4c9_1:
+
+    # b "It didn't have to go that way, you know."
+    b "Wiesz, nie musiałam być tam sama."
+
+# game/day27.rpy:324
+translate polish day27_flashback_post_1050e14a:
+
+    # r "The things Sasha told you, you believed them, didn't you?"
+    r "To co powiedziała Ci Sasha, uwierzyłeś w to, prawda?"
+
+# game/day27.rpy:410
+translate polish day27_flashback_post_406fce39:
+
+    # "{i}Your phone buzzes, and it seems you have received a message from Megan."
+    "{i}Wibruje Ci telefon, wygląda na to, że dostałeś wiadomość od Megan."
+
+# game/day27.rpy:417
+translate polish day27_flashback_post_047351d2:
+
+    # "{i}You text her back and head out to the coffeeshop. Luckily, [b_name] doesn't seem to be working today."
+    "{i}Odpisujesz jej i kierujesz się do kawiarni, na szczęście, wygląda na to, że Belli nie ma w pracy."
+
+# game/day27.rpy:462
+translate polish day27_flashback_post_18a2ce31:
+
+    # "{i}When you lift the cup, you notice a small piece of paper. You manage to read the words before [b_name] notices."
+    "{i}Kiedy unosisz kubek, zauważasz pod nim małą karteczkę, udaje Ci się odczytać wiadomość tak, żeby Bella nie zauważyła."
+
+# game/day27.rpy:506
+translate polish day27_flashback_post_5688cfc4:
+
+    # "{i}When you're sure that [b_name] is fully focused on working and trying to stave off her orgasm, you sneak out to the back of the coffeeshop."
+    "{i}Kiedy jesteś pewien, że [b_name] jest w pełni skupiona na pracy i próbujesz powstrzymać jej orgazm, wymykasz się na tyły kawiarni."
+
+# game/day27.rpy:549
+translate polish day27_me_post_3de8ce29:
+
+    # p "Were you jealous yesterday?"
+    p "Byłaś wczoraj zazdrosna?"
+
+# game/day27.rpy:551
+translate polish day27_me_post_d06d66b8:
+
+    # p "When I danced with Megan."
+    p "Kiedy tańczyłem z Megan."
+
+# game/day27.rpy:557
+translate polish day27_me_post_d12f9947:
+
+    # b "God! Fine. You made me feel like shit yesterday."
+    b "Boże! No dobra. Wczoraj poczułam się przez Ciebie naprawdę chujowo."
+
+# game/day27.rpy:592
+translate polish day27_me_post_b7373536:
+
+    # "{i}For a while, you watch your sister as she waits tables, and then you sneak to the back of the coffeeshop to find Megan."
+    "{i}Przez jakiś czas oglądasz, jak Twoja siostra obsługuje innych klientów, a później wymykasz się na tył kawiarni, znaleźć Megan."
+
+# game/day27.rpy:594
+translate polish day27_me_post_1105cff9:
+
+    # "{i}For a while, you watch [b_name] as she waits tables, and then you sneak to the back of the coffeeshop to find Megan."
+    "{i}Przez chwilę obserwujesz, jak [b_name] czeka przy stolikach, a potem zakradasz się na tyły kawiarni, by znaleźć Megan."
+
+# game/day27.rpy:598
+translate polish day27_me_post_6ce26f71:
+
+    # "{i}For a while, you watch your sister as she waits tables, and then head back home."
+    "{i}Przez jakiś czas oglądasz, jak Twoja siostra obsługuje innych klientów, a potem wracasz do domu."
+
+# game/day27.rpy:600
+translate polish day27_me_post_8dfc2b66:
+
+    # "{i}For a while, you watch [b_name] as she waits tables, and then head back home."
+    "{i}Przez chwilę obserwujesz, jak [b_name] obsługuje stoliki, a potem wracasz do domu."
+
+# game/day27.rpy:658
+translate polish day27_evening_choices_7c31fcca:
+
+    # p "Last time I checked, you had two lovely sisters."
+    p "Kiedy ostatnio sprawdzałem, miałaś dwie przeurocze siostry."
+
+# game/day27.rpy:660
+translate polish day27_evening_choices_f71fdb85:
+
+    # p "Last time I checked, you had two lovely friends living in the same house."
+    p "Ostatnim razem, gdy sprawdzałem, miałeś dwóch uroczych przyjaciół mieszkających w tym samym domu."
+
+# game/day27.rpy:664
+translate polish day27_evening_choices_6fddb60f:
+
+    # p "{i}([l_name] and I did a lot more than just talk, and she's worried about asking one of her sisters some intimate questions?)"
+    p "{i}(Liza i ja zrobiliśmy znacznie więcej od zwykłej rozmowy, a ona dalej boi się zadać jednej ze swoich sióstr intymnego pytania?)"
+
+# game/day27.rpy:666
+translate polish day27_evening_choices_9ccd518d:
+
+    # p "{i}([l_name] and I did a lot more than just talk, and she's worried about asking one of her friends some intimate questions?)"
+    p "{i}([l_name] i ja zrobiliśmy o wiele więcej niż tylko rozmawialiśmy, a ona martwi się, że zadaje jednej ze swoich przyjaciółek intymne pytania)?"
+
+# game/day27.rpy:690
+translate polish day27_evening_choices_a0e5c17e:
+
+    # "{i}You kiss the top of her head as she sighs softly, and you just sit in silence before [l_name] retires to bed."
+    "{i}Całujesz ją w czoło i Liza wzdycha miękko, siedzicie przez jakiś czas w ciszy i w końcu Liza idzie spać."
+
+# game/day27.rpy:705
+translate polish day27_evening_choices_22ecfb2e:
+
+    # "{i}When she turns to you, you're startled by how she looks. The girl is clearly consumed by lust. She probably put the still-vibrating egg back inside her, like you told her to."
+    "{i}Kiedy odwraca się do ciebie, jesteś zaskoczony jej wyglądem Dziewczyna jest wyraźnie pochłonięta pożądaniem Prawdopodobnie włożyła wciąż wibrujące jajko z powrotem do środka, tak jak jej kazałeś."
+
+# game/day27.rpy:779
+translate polish day27_flashback_81f952e4:
+
+    # "{i}A little desperate, I thought of other ways to make contact. With Valentine's Day approaching, I had the perfect opportunity to make a move."
+    "{i}Zrobiłem się trochę zdesperowany i zacząłem rozważać inne metody kontaktu. Zbliżały się walentynki, więc miałem idealną okazję, żeby wykonać jakiś ruch."
+
+# game/day27.rpy:845
+translate polish day27_flashback_aa4ad0a4:
+
+    # s "Hey there, Casanova, what have you been up to?"
+    "Hej, Casanova, co porabiasz?"
+
+# game/day27.rpy:849
+translate polish day27_flashback_2c8116dc:
+
+    # p "You did, but I really like her, and Sabine is always there to fuck things up."
+    p "Tak, ale bardzo ją lubię, a Sabine zawsze była gotowa wszystko zepsuć."
+
+# game/day27.rpy:866
+translate polish day27_flashback_4754e3d0:
+
+    # s "I'll show you things and make you experience things you'll never be able to when you promise yourself solely to that girl."
+    "Pokażę ci rzeczy i sprawię, że doświadczysz rzeczy, których nigdy nie będziesz w stanie doświadczyć, jeśli obiecasz to wyłącznie tej dziewczynie."
+
+# game/day27.rpy:900
+translate polish day27_b_hotel_sex_196229c9:
+
+    # "{i}You provide them with your room number and slip out of bed to join [b_name] in the shower."
+    "{i}Podajesz im numer waszego pokoju i wstajesz z łóżka, żeby dołączyć do Belli pod prysznicem."
+
+# game/day27.rpy:905
+translate polish day27_b_hotel_sex_8c4a2c58:
+
+    # "{i}Without saying anything, you kiss, your hands trailing the curves of her wet body. Teasingly you grab hold of the sponge she was using."
+    "{i}Bez słowa zaczynacie się całować, Twoje dłonie błądzą po krągłościach jej ciała. Żartobliwie wyrywasz jej gąbkę, której używała."
+
+# game/day27.rpy:906
+translate polish day27_b_hotel_sex_3a25df90:
+
+    # b "Hey!"
+    b "Ej!"
+
+# game/day27.rpy:908
+translate polish day27_b_hotel_sex_cec0e92e:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, your sister lets out a contented sigh and leans back."
+    "{i}Z użyciem gąbki zaczynasz miękko pucować jej ciało. Kiedy ocierasz się o jej piękne piersi, Twoja siostra wzdycha z zadowoleniem i odchyla się do tyłu."
+
+# game/day27.rpy:910
+translate polish day27_b_hotel_sex_91bd6d71:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
+    "{i}Trzymając gąbkę, kontynuujesz delikatne szorowanie jej ciała, gdy śledzisz piękny kształt jej piersi [b_name] wydaje zadowolone westchnienie i odchyla się do tyłu."
+
+# game/day27.rpy:911
+translate polish day27_b_hotel_sex_cbc1201f:
+
+    # b "Hmmmm. Keep doing that."
+    b "Hmmmm. Nie przestawaj."
+
+# game/day27.rpy:912
+translate polish day27_b_hotel_sex_1f668261:
+
+    # b "You do know that after this, I'll call you every time I take a shower now, don't you?"
+    b "Wiesz, że od teraz będę Cię wołać za każdym razem, gdy będę brać prysznic?"
+
+# game/day27.rpy:913
+translate polish day27_b_hotel_sex_8c0a3e96:
+
+    # p "You say that like it's a bad thing."
+    p "Mówisz, jakby to było coś złego."
+
+# game/day27.rpy:915
+translate polish day27_b_hotel_sex_a6628d41:
+
+    # "{i}You turn your attention to her lower body, her toned thighs, the soft rise of her pussy."
+    "{i}Zwracasz swoją uwagę ku dolnej połowie jej ciała, jej umięśnionym udom i podbrzuszu."
+
+# game/day27.rpy:916
+translate polish day27_b_hotel_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm..."
+
+# game/day27.rpy:917
+translate polish day27_b_hotel_sex_300701d2:
+
+    # p "I..."
+    p "Wiesz..."
+
+# game/day27.rpy:919
+translate polish day27_b_hotel_sex_2f041b28:
+
+    # "{i}Desire overcomes you both and you touch her, hungry for her soft skin."
+    "{i}Pożądanie bierze nad wami górę, zaczynasz jej dotykać, pragnąć poczuć jak najwięcej jej miękkiej skóry."
+
+# game/day27.rpy:925
+translate polish day27_b_hotel_sex_2b4aea2b:
+
+    # "{i}Suddenly you're startled by the doorbell ringing."
+    "{i}Nagle zaskakuje was dzwonek do drzwi."
+
+# game/day27.rpy:926
+translate polish day27_b_hotel_sex_7ed3e395:
+
+    # p "Fuck. I ordered room service..."
+    p "Kurwa. Zamówiłem śniadanie..."
+
+# game/day27.rpy:927
+translate polish day27_b_hotel_sex_e838c68b:
+
+    # b "How sweet!"
+    b "Jak słodko!"
+
+# game/day27.rpy:928
+translate polish day27_b_hotel_sex_1dd7540e:
+
+    # p "Yeah well, if only the timing was a bit better..."
+    p "Ta, gdyby tylko mieli lepsze wyczucie czasu..."
+
+# game/day27.rpy:931
+translate polish day27_b_hotel_sex_cc75db61:
+
+    # "{i}You wrap a towel around your body and head to the door. A cart is pushed inside your room, and after tipping the server, you close the door again."
+    "{i}Owijasz się ręcznikiem i biegniesz do drzwi. Obsługa wprowadza wózek z jedzeniem do pokoju, zostawiasz im napiwek i zamykasz drzwi."
+
+# game/day27.rpy:932
+translate polish day27_b_hotel_sex_266a237d:
+
+    # p "So... I guess we should have some breakfast?"
+    p "Więc... Chyba powinniśmy zjeść?"
+
+# game/day27.rpy:934
+translate polish day27_b_hotel_sex_ec9e26e4:
+
+    # b "Nope, I want something entirely different first."
+    b "Nie, w pierwszej kolejności mam ochotę na co innego."
+
+# game/day27.rpy:935
+translate polish day27_b_hotel_sex_078c5a26:
+
+    # p "Oh..."
+    p "Oh..."
+
+# game/day27.rpy:937
+translate polish day27_b_hotel_sex_6941d4e7:
+
+    # "{i}You jump on the bed, next to a giggling [b_name] and shower her body with kisses. [b_name] makes it clear she isn't interested in foreplay this time and turns her attention to your cock."
+    "{i}Wskakujesz na łóżko, obok chichoczącej Belli i obsypujesz jej ciało pocałunkami. Bella jasno komunikuje, że tym razem nie jest zainteresowana grą wstępną i skupia się na Twoim penisie."
+
+# game/day27.rpy:942
+translate polish day27_b_hotel_sex_cfbca683:
+
+    # "{i}She guides you inside her, a warm feeling engulfing your cock. The hungry look in her eyes matching her wetness down below."
+    "{i}Nakierowuje Cię na swoją cipkę, jej ciepłe wnętrze pochłania Twojego penisa. Jej głodne spojrzenie idealnie odzwierciedla to, jaka jest mokra."
+
+# game/day27.rpy:947
+translate polish day27_b_hotel_sex_d7fa3cac:
+
+    # "{i}Without a word, you both surrender to your love making. Small thrusts ensure that your warm bodies are in contact most of the time. You bury your head in the perfume of her still-wet hair."
+    "{i}Bez słowa, oboje poddajecie się waszemu pożądaniu. Ograniczasz swoje ruchy do minimum, aby zapewnić jak najwięcej kontaktu między waszymi ciepłymi ciałami. Wtykasz głowę w jej wciąż mokre, pachnące włosy."
+
+# game/day27.rpy:948
+translate polish day27_b_hotel_sex_5fc60217:
+
+    # b "Oh, [p_name]!"
+    b "Oh, [p_name]!"
+
+# game/day27.rpy:952
+translate polish day27_b_hotel_sex_07a91112:
+
+    # "{i}When your dick slips out of her pussy, [b_name] squirms from your grasp, pressing a finger against your lips as you begin to protest."
+    "{i}Kiedy Twój fiut się z niej wysuwa, Bella wyślizguje się z Twojego uścisku i przyciska palec do Twoich ust gdy próbujesz zaprotestować."
+
+# game/day27.rpy:953
+translate polish day27_b_hotel_sex_203a0f34:
+
+    # b "Ssssh, just lie down."
+    b "Ciiii, po prostu się połóż."
+
+# game/day27.rpy:959
+translate polish day27_b_hotel_sex_052ebcda:
+
+    # "{i}Your sister squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Twoja siostra robi nad Tobą przysiad i powoli opuszcza się na Twojego penisa, przygryzając przy tym wargę."
+
+# game/day27.rpy:961
+translate polish day27_b_hotel_sex_66615e02:
+
+    # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Kucnęła na tobie i powoli wepchnęła twoją erekcję w swoją szczelinę, przygryzając wargę."
+
+# game/day27.rpy:962
+translate polish day27_b_hotel_sex_c43c4bff:
+
+    # "{i}Her pussy lips fold around your shaft. With closed eyes, [b_name] moans as the entirety of your shaft slides inside her."
+    "{i}Jej wargi sromowe opatulają miękko Twojego penisa, Bella jęczy z zamkniętymi oczami, kiedy wsuwa się w nią reszta Twojego fiuta."
+
+# game/day27.rpy:964
+translate polish day27_b_hotel_sex_d24d13ee:
+
+    # "{i}When she starts to move, you nearly climax. Instead you focus your attention on her beautiful breasts, that bounce with the rhythm of your fucking."
+    "{i}Kiedy zaczyna się ruszać, prawie szczytujesz. Unikając tego skupiasz się na jej pięknych piersiach, podskakujących w rytm waszego seksu."
+
+# game/day27.rpy:965
+translate polish day27_b_hotel_sex_0f2d2c99:
+
+    # "{i}The position obviously gives [b_name] heightened pleasure as she moves up and down your cock ever faster, her butt slapping onto your skin."
+    "{i}Ta pozycja wyraźnie zapewnia Belli wielką rozkosz, zaczyna podskakiwać na Twoim fiucie jeszcze szybciej, jej tyłek zderza się z Twoją skórą przy każdym ruchu."
+
+# game/day27.rpy:972
+translate polish day27_b_hotel_sex_5e8446ed:
+
+    # b "G-g-g-god! Y-yes!"
+    b "B- B- Boże! T- Tak!"
+
+# game/day27.rpy:974
+translate polish day27_b_hotel_sex_c474c697:
+
+    # "{i}Delirious, your sister orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Upojona ogarniającą ją rozkoszą, Twoja siostra dochodzi na Twoim fiucie. Przez obezwładniające ją konwulsje, jesteś zmuszony przejąć kontrolę."
+
+# game/day27.rpy:976
+translate polish day27_b_hotel_sex_814837df:
+
+    # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Deliryczne orgazmy [b_name] na tobie Z powodu jej konwulsji przyjemności musisz przejąć inicjatywę"
+
+# game/day27.rpy:978
+translate polish day27_b_hotel_sex_d6e04d49:
+
+    # "{i}With her straddling your body, you move your hips quickly, penetrating her like rapid-fire."
+    "{i}Z Bellą opadającą na Twoje ciało, zaczynasz szybko ruszać biodrami, penetrując ją błyskawicznymi pchnięciami."
+
+# game/day27.rpy:988
+translate polish day27_b_hotel_sex_608db639:
+
+    # "{i}Her constricting vagina proves too much for your cock, and your semen mixes with her juices inside her wet slit."
+    "{i}Nieustające skurcze jej waginy to już dla Ciebie zbyt wiele, dochodzisz w niej, mieszając jej soki ze swoim nasieniem."
+
+# game/day27.rpy:1001
+translate polish day27_b_hotel_sex_70f58587:
+
+    # "{i}Her constricting vagina proves too much for your cock, and after pulling out of her wet slit, you cover her lower body with thick streams of semen."
+    "{i}Nieustające skurcze jej waginy to już dla Ciebie zbyt wiele, wysuwasz się z niej i pokrywasz jej ciało gęstymi strumieniami spermy."
+
+# game/day27.rpy:1009
+translate polish day27_b_hotel_sex_da652819:
+
+    # "{i}Exhausted you lie in each others arms, your fingertips stroking her soft skin."
+    "{i}Wykończeni, leżycie w swoich ramionach, opuszki Twoich palców gładzą jej miękką skórę."
+
+# game/day27.rpy:1010
+translate polish day27_b_hotel_sex_fa3f408e:
+
+    # b "Mmmmm. I don't know if I want to go home."
+    b "Mmmmm. Nie wiem, czy chcę wracać do domu."
+
+# game/day27.rpy:1011
+translate polish day27_b_hotel_sex_1249acbe:
+
+    # p "Me neither."
+    p "Ja tak samo."
+
+# game/day27.rpy:1012
+translate polish day27_b_hotel_sex_995bd1f9:
+
+    # b "The cleaning staff will be here soon."
+    b "Personel niedługo przyjdzie posprzątać."
+
+# game/day27.rpy:1013
+translate polish day27_b_hotel_sex_167f6a45:
+
+    # p "We could just lock the door and hide in the bathroom."
+    p "Moglibyśmy po prostu zamknąć drzwi i schować się w łazience."
+
+# game/day27.rpy:1014
+translate polish day27_b_hotel_sex_4bfd9a22:
+
+    # b "I'm pretty sure it doesn't work like that."
+    b "To raczej tak nie działa."
+
+# game/day27.rpy:1016
+translate polish day27_b_hotel_sex_edd34605:
+
+    # "{i}At the same time, you both let out a contented sigh. Laughing, you kiss again and lie on the bed for a little longer, until you deem it time to leave the hotel and head home."
+    "{i}Jednocześnie wydajecie z siebie zadowolone westchnienie. Śmiejąc się, całujecie się ponownie i leżycie w łóżku jeszcze przez jakiś czas, aż w końcu przychodzi pora opuścić hotel i wrócić do domu."
+
+# game/day27.rpy:1032
+translate polish day27_b_vibrator_e8e049ba:
+
+    # "{i}With a resigned sigh, [b_name] stands up and walks away. You notice she's holding the vibrator and has left the remote on the table."
+    "{i}Wzdychając z rezygnacją, Bella wstaje i odchodzi, zauważasz, że zabrała wibrator, ale zostawiła pilot na stole."
+
+# game/day27.rpy:1033
+translate polish day27_b_vibrator_8f7a7797:
+
+    # p "{i}(Is she going to...?)"
+    p "{i}(Czy ona...?)"
+
+# game/day27.rpy:1035
+translate polish day27_b_vibrator_7809015c:
+
+    # "{i}You see her walk very slowly towards the restrooms, as if she's still hesitating."
+    "{i}Widzisz jak bardzo powoli kieruje się do toalet, jakby dalej się wahała."
+
+# game/day27.rpy:1036
+translate polish day27_b_vibrator_de30eed8:
+
+    # p "{i}(That's my girl!)"
+    p "{i}(Posłuszna dziewczynka!)"
+
+# game/day27.rpy:1038
+translate polish day27_b_vibrator_b32fd03b:
+
+    # "{i}After a short while, [b_name] returns, no longer holding the pink egg."
+    "{i}Po krótkiej chwili, Bella wraca, już bez różowego jajeczka."
+
+# game/day27.rpy:1039
+translate polish day27_b_vibrator_62289d3a:
+
+    # p "Now, spread your legs for me."
+    p "A teraz, rozchyl dla mnie nóżki."
+
+# game/day27.rpy:1040
+translate polish day27_b_vibrator_4bc98f10:
+
+    # b "I could've flushed the fucking thing down the toilet."
+    b "Mogłam spuścić to cholerstwo w kiblu."
+
+# game/day27.rpy:1041
+translate polish day27_b_vibrator_f24c6c98:
+
+    # p "You didn't."
+    p "Ale tego nie zrobiłaś."
+
+# game/day27.rpy:1043
+translate polish day27_b_vibrator_80593731:
+
+    # "{i}When [b_name] finally parts her legs, you can see the pink vibrator peeping out of her pussy."
+    "{i}Kiedy Bella wreszcie rozkłada dyskretnie nogi, widzisz różowy wibrator wystający lekko z jej cipki."
+
+# game/day27.rpy:1045
+translate polish day27_b_vibrator_17cc86a6:
+
+    # p "Good girl!"
+    p "Grzeczna dziewczynka!"
+
+# game/day27.rpy:1047
+translate polish day27_b_vibrator_5316ce8d:
+
+    # "{i}[b_name] abruptly closes her legs again as Megan saunters over. Before anybody notices, you manage to grab the remote control from the table."
+    "{i}Bella gwałtownie zaciska nogi z powrotem, kiedy podchodzi do was Megan. Udaje Ci się szybko, nie zwracając niczyjej uwagi, zgarnąć pilot ze stołu."
+
+# game/day27.rpy:1048
+translate polish day27_b_vibrator_01023b9e:
+
+    # me "I got those supplies you asked for."
+    me "Przyniosłam te składniki, o które prosiłaś."
+
+# game/day27.rpy:1049
+translate polish day27_b_vibrator_b2176539:
+
+    # p "{i}(Now is as good a time as any to test it out, I think.)"
+    p "{i}(To wygląda na idealny moment na przetestowanie naszej zabaweczki.)"
+
+# game/day27.rpy:1053
+translate polish day27_b_vibrator_04eb7dac:
+
+    # "{i}Under the table, you turn the dial slightly upwards."
+    "{i}Pod stołem, delikatnie nastawiasz pokrętło do góry."
+
+# game/day27.rpy:1058
+translate polish day27_b_vibrator_3ee9f29d:
+
+    # b "Wuh..."
+    b "Co..."
+
+# game/day27.rpy:1059
+translate polish day27_b_vibrator_eba830bd:
+
+    # me "Did I forget something?"
+    me "Zapomniałam o czymś?"
+
+# game/day27.rpy:1060
+translate polish day27_b_vibrator_e6280fec:
+
+    # b "N-n-no..."
+    b "N- Nie..."
+
+# game/day27.rpy:1061
+translate polish day27_b_vibrator_495727fd:
+
+    # "{i}Several emotions are visible on [b_name]'s face, a mixture of repressed pleasure and agony being the main one."
+    "{i}Na twarzy Belli można dostrzec wiele emocji, głównie stłumioną rozkosz i wstyd."
+
+# game/day27.rpy:1062
+translate polish day27_b_vibrator_e1b19d79:
+
+    # me "Did you need anything else?"
+    me "Potrzebowałaś jeszcze czegoś?"
+
+# game/day27.rpy:1063
+translate polish day27_b_vibrator_c5c56418:
+
+    # b "I... N..."
+    b "Ja... Ni-..."
+
+# game/day27.rpy:1064
+translate polish day27_b_vibrator_010c86ab:
+
+    # me "Are you alright, [b_name]?"
+    me "W porządku Bella?"
+
+# game/day27.rpy:1071
+translate polish day27_b_vibrator_ac24ee5d:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring your sister, but she seems to be able to retain her composure, more or less."
+    "{i}Nastawiasz pokrętło na najniższą wartość, jajeczko dalej pieści Twoją siostrę, ale zdaje się, że jest w stanie mniej, więcej pozbierać się do kupy."
+
+# game/day27.rpy:1073
+translate polish day27_b_vibrator_016f6ff8:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
+    "{i}Przekręcasz pokrętło na najniższe ustawienie Jajko nadal sprawia przyjemność [b_name], ale wydaje się, że jest w stanie mniej więcej zachować spokój."
+
+# game/day27.rpy:1074
+translate polish day27_b_vibrator_d1e07412:
+
+    # b "Yes... Just feeling a little lightheaded."
+    b "Tak... Po prostu trochę mi słabo."
+
+# game/day27.rpy:1075
+translate polish day27_b_vibrator_28383b11:
+
+    # b "I'm feeling better already."
+    b "Zaraz poczuję się lepiej."
+
+# game/day27.rpy:1081
+translate polish day27_b_vibrator_9276f31b:
+
+    # "{i}After those words, you turn the dial all the way up. The force of the egg's vibrations force open the girl's legs and she slams a fist on the table."
+    "{i}Po tych słowach, przekręcasz gałkę maksymalnie w górę. Siła wibracji jajka sprawia, że mimowolnie rozkłada nogi i wali pięścią w stół."
+
+# game/day27.rpy:1082
+translate polish day27_b_vibrator_15e5c36b:
+
+    # b "Aaaah..."
+    b "Aaaah..."
+
+# game/day27.rpy:1083
+translate polish day27_b_vibrator_90e1af97:
+
+    # me "[b_name]?"
+    me "Bella?"
+
+# game/day27.rpy:1084
+translate polish day27_b_vibrator_b469670c:
+
+    # p "Is everything okay, [b_name]?"
+    p "Wszystko w porządku Bella?"
+
+# game/day27.rpy:1085
+translate polish day27_b_vibrator_3cfd3ad0:
+
+    # b "...I'm fine."
+    b "...Nic mi nie jest."
+
+# game/day27.rpy:1086
+translate polish day27_b_vibrator_99681889:
+
+    # me "Girl, you're sweating."
+    me "Dziewczyno, Ty się cała pocisz."
+
+# game/day27.rpy:1087
+translate polish day27_b_vibrator_f2d96e30:
+
+    # b "I'll b-be j-just fine in a minute."
+    b "Zaraz p- poczuję s- się lepiej..."
+
+# game/day27.rpy:1088
+translate polish day27_b_vibrator_5bb24395:
+
+    # me "Take as long as you need, I'll take over for you in the mean time."
+    me "Nie śpiesz się, zastąpię Cię póki co."
+
+# game/day27.rpy:1090
+translate polish day27_b_vibrator_3f755b65:
+
+    # b "T-thanks..."
+    b "D- Dzięki..."
+
+# game/day27.rpy:1092
+translate polish day27_b_vibrator_2dad7135:
+
+    # "{i}As soon as Megan walks away, [b_name] shoots an angry glance at you, she's only able to speak through gritted teeth."
+    "{i}Kiedy tylko Megan odchodzi, Bella rzuca Ci wściekłe spojrzenie, jest w stanie mówić tylko przez zaciśnięte zęby."
+
+# game/day27.rpy:1093
+translate polish day27_b_vibrator_40e42da9:
+
+    # b "T-t-turn it off!"
+    b "W- W-yłącz to!"
+
+# game/day27.rpy:1094
+translate polish day27_b_vibrator_58ee35ab:
+
+    # p "Hmmm?"
+    p "Hmmm?"
+
+# game/day27.rpy:1095
+translate polish day27_b_vibrator_490f1e1c:
+
+    # b "T-turn i-it off, p-p-please."
+    b "W- Wyłącz t- to, p- proszę."
+
+# game/day27.rpy:1100
+translate polish day27_b_vibrator_6fee07d3:
+
+    # "{i}Satisfied with her answer, you turn the dial all the way down to zero."
+    "{i}Usatysfakcjonowany odpowiedzią, przekręcasz gałkę do zerowej wartości."
+
+# game/day27.rpy:1101
+translate polish day27_b_vibrator_521c64a8:
+
+    # b "I'm going to kill you for this, you know that?"
+    b "Zabiję Cię za to, zdajesz sobie z tego sprawę?"
+
+# game/day27.rpy:1102
+translate polish day27_b_vibrator_6802e4fc:
+
+    # p "Easy now, just remind yourself of who's holding the remote control."
+    p "Uważaj sobie, pamiętaj kto trzyma pilot."
+
+# game/day27.rpy:1103
+translate polish day27_b_vibrator_46258e98:
+
+    # b "I have to get back to work."
+    b "Muszę wracać do pracy."
+
+# game/day27.rpy:1104
+translate polish day27_b_vibrator_c443c0db:
+
+    # p "Sure thing. I'd like another cup of regular coffee, black, please."
+    p "Oczywiście. Poproszę kolejny kubek zwykłej kawy, czarnej."
+
+# game/day27.rpy:1106
+translate polish day27_b_vibrator_a13f8569:
+
+    # "{i}She looks at you incredulously, then stands up, her legs still wobbly from the vibrations of the sex toy in her pussy."
+    "{i}Patrzy na Ciebie z niedowierzaniem, potem wstaje, jej nogi dalej trzęsą się od wibracji zabawki w jej cipce."
+
+# game/day27.rpy:1107
+translate polish day27_b_vibrator_de1fa8b9:
+
+    # b "Coming right up..."
+    b "Już się robi..."
+
+# game/day27.rpy:1112
+translate polish day27_b_vibrator_6cc89c98:
+
+    # "{i}After you get your coffee, you sit and play with your phone. At irregular intervals, you use the dial of the remote control."
+    "{i}Kiedy dostajesz już swoją kawę, siedzisz i bawisz się swoim telefonem. W regularnych odstępach czasu, robisz użytek z pilota."
+
+# game/day27.rpy:1114
+translate polish day27_b_vibrator_c14e2e61:
+
+    # "{i}You make sure it never goes past the point where the vibrations become unbearable for [b_name], but you notice she has a harder time serving customers, steadying herself often and sighing with flushed cheeks."
+    "{i}Upewniasz się, żeby nigdy nie przekroczyć wartości, przy której Bella nie byłaby w stanie funkcjonować, ale zauważasz, że ma coraz większe problemy z obsługiwaniem klientów, opierając się o meble i dysząc z zarumienionymi policzkami."
+
+# game/day27.rpy:1132
+translate polish day27_b_licking_5f3aff41:
+
+    # p "Good. Just sit down on the desk and relax."
+    p "Dobrze. Usiądź na biurku i zrelaksuj się."
+
+# game/day27.rpy:1133
+translate polish day27_b_licking_83091b29:
+
+    # b "You're not going to take it out?"
+    b "Nie wyciągniesz go?"
+
+# game/day27.rpy:1134
+translate polish day27_b_licking_a781d336:
+
+    # p "Of course not, it's going to help me make you cum."
+    p "Oczywiście, że nie. Pomoże mi Cię zaspokoić."
+
+# game/day27.rpy:1135
+translate polish day27_b_licking_4f28fa17:
+
+    # p "Take off your shirt first."
+    p "Ale najpierw zdejmij swoją koszulę."
+
+# game/day27.rpy:1136
+translate polish day27_b_licking_b61b6f1a:
+
+    # b "No, but what if somebody comes in?"
+    b "Nie, co jeśli ktoś tu wejdzie?"
+
+# game/day27.rpy:1137
+translate polish day27_b_licking_6262302c:
+
+    # p "We'll worry about that later."
+    p "Później będziemy się tym martwić."
+
+# game/day27.rpy:1138
+translate polish day27_b_licking_8377b2fd:
+
+    # b "[p_name]..."
+    b "[p_name]..."
+
+# game/day27.rpy:1139
+translate polish day27_b_licking_0e1f96a4:
+
+    # p "I want to see those gorgeous breasts of yours."
+    p "Chcę zobaczyć te Twoje cudowne cycuszki."
+
+# game/day27.rpy:1144
+translate polish day27_b_licking_9a4fad80:
+
+    # "{i}After losing all of her clothing, you spread her legs and lower your head between her thighs."
+    "{i}Po zrzuceniu wszystkich ubrań, rozkładasz jej nogi i opuszczasz głowę między jej uda."
+
+# game/day27.rpy:1145
+translate polish day27_b_licking_def4b24b:
+
+    # p "Wow!"
+    p "Wow!"
+
+# game/day27.rpy:1146
+translate polish day27_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Co?"
+
+# game/day27.rpy:1147
+translate polish day27_b_licking_1aa5989e:
+
+    # p "I didn't know you could get so wet."
+    p "Nie wiedziałem, że możesz być taka mokra."
+
+# game/day27.rpy:1152
+translate polish day27_b_licking_85091941:
+
+    # "{i}[b_name] doesn't offer a reply and just bites her lip. You smell the earthy perfume of her cunt as your tongue probes the wet lips of her pussy."
+    "{i}Bella nie odpowiada i tylko przygryza wargę. Napawasz się intensywnym zapachem jej kobiecości, śledząc językiem po jej mokrej cipce."
+
+# game/day27.rpy:1153
+translate polish day27_b_licking_f17a0a22:
+
+    # b "Oh!"
+    b "Oh!"
+
+# game/day27.rpy:1158
+translate polish day27_b_licking_aef8bd34:
+
+    # "{i}As you stimulate her with the rapid motions of your tongue, you dial the vibrator slowly up to its maximum setting."
+    "{i}Stymulując ją szybkimi ruchami języka, powoli podkręcasz intensywność wibracji jajeczka do maksimum."
+
+# game/day27.rpy:1159
+translate polish day27_b_licking_83f82a73:
+
+    # "{i}The vibrations of the egg are a little awkward, but [b_name] completely loses it, gripping the side of the desk and moaning softly."
+    "{i}Wibrujące jajko jest trochę niewygodne, ale Bella kompletnie traci kontrolę, łapie się za krawędzie biurka i jęczy miękko."
+
+# game/day27.rpy:1165
+translate polish day27_b_licking_90e1af97:
+
+    # me "[b_name]?"
+    me "Bella?"
+
+# game/day27.rpy:1166
+translate polish day27_b_licking_3d9dd82a:
+
+    # me "[b_name], are you in there?"
+    me "Bella, jesteś tam?"
+
+# game/day27.rpy:1167
+translate polish day27_b_licking_9171bab7:
+
+    # b "Fuck, it's Megan."
+    b "Kurwa, to Megan."
+
+# game/day27.rpy:1168
+translate polish day27_b_licking_9e6db08a:
+
+    # b "Hide!"
+    b "Schowaj się!"
+
+# game/day27.rpy:1170
+translate polish day27_b_licking_fe288a67:
+
+    # "{i}You crawl under the desk, while [b_name] frantically looks for her blouse."
+    "{i}Wskakujesz pod biurko, podczas gdy Bella w panice szuka swojej bluzki."
+
+# game/day27.rpy:1171
+translate polish day27_b_licking_64fc4783:
+
+    # b "Yes, I'm in here."
+    b "Tak, jestem tu."
+
+# game/day27.rpy:1172
+translate polish day27_b_licking_7b467c67:
+
+    # b "Just a..."
+    b "Tylko chw..."
+
+# game/day27.rpy:1174
+translate polish day27_b_licking_90e1af97_1:
+
+    # me "[b_name]?"
+    me "Bella?"
+
+# game/day27.rpy:1175
+translate polish day27_b_licking_648fad1f:
+
+    # me "Oh shit, you're naked."
+    me "O cholera, jesteś goła."
+
+# game/day27.rpy:1176
+translate polish day27_b_licking_73acfb97:
+
+    # "{i}You see [b_name] stiffen in front of the desk, as Megan enters the room."
+    "{i}Widzisz jak Bella drętwieje przed biurkiem, gdy Megan wchodzi do pokoju."
+
+# game/day27.rpy:1177
+translate polish day27_b_licking_65c33e7a:
+
+    # b "I... uh... I was changing."
+    b "Ja... Uhh... Przebierałam się."
+
+# game/day27.rpy:1178
+translate polish day27_b_licking_6e2fbc8e:
+
+    # me "You're not feeling well, are you?"
+    me "Nie czujesz się zbyt dobrze, co?"
+
+# game/day27.rpy:1180
+translate polish day27_b_licking_23fd721a:
+
+    # p "{i}(Mmmm, she's so close.)"
+    p "{i}(Mmmm, jest tak blisko.)"
+
+# game/day27.rpy:1181
+translate polish day27_b_licking_392019b3:
+
+    # p "{i}(Megan can't see me from here.)"
+    p "{i}(Megan mnie stąd nie widzi.)"
+
+# game/day27.rpy:1182
+translate polish day27_b_licking_143ced8d:
+
+    # p "{i}(Shall I continue? The vibrator is still on...)"
+    p "{i}(Może powinienem kontynuować? Wibrator jest dalej włączony...)"
+
+# game/day27.rpy:1192
+translate polish day27_b_licking_ebe61376:
+
+    # "{i}You caress the muscles of her inner thighs, quivering under the stress of her impending orgasm."
+    "{i}Gładzisz mięśnie wewnątrz jej ud, drżące w napięciu od bliskiego orgazmu."
+
+# game/day27.rpy:1193
+translate polish day27_b_licking_7d2fce76:
+
+    # b "No... I-I think I need to go ho..."
+    b "Nie... M- Myślę, że powinnam pójść do do..."
+
+# game/day27.rpy:1195
+translate polish day27_b_licking_d3dbcb25:
+
+    # "{i}At that moment, you plunge your tongue between her wet lips, pushing the vibrator even further in her cunt."
+    "{i}W tym momencie zanurzasz swój język między jej mokrymi wargami, wpychając wibrator jeszcze głębiej do jej cipki."
+
+# game/day27.rpy:1196
+translate polish day27_b_licking_3580bb93:
+
+    # b "...Ooohme!"
+    b "..Oooomu!"
+
+# game/day27.rpy:1197
+translate polish day27_b_licking_d45b71d4:
+
+    # me "Seem like you're having a migraine?"
+    me "Masz migrenę?"
+
+# game/day27.rpy:1198
+translate polish day27_b_licking_3fd3887e:
+
+    # b "Y-yes..."
+    b "T- Tak..."
+
+# game/day27.rpy:1200
+translate polish day27_b_licking_7b413b5c:
+
+    # "{i}Your sister doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}Twoja siostra Cię nie odtrąca, tylko rozchyla lekko nogi, dając Ci jeszcze lepszy dostęp do jej ociekającej cipki."
+
+# game/day27.rpy:1202
+translate polish day27_b_licking_b147ddb0:
+
+    # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}[b_name] nie odpycha cię, ale rozkłada nogi nieco szerzej, aby umożliwić ci lepszy dostęp do jej ociekającej szczeliny."
+
+# game/day27.rpy:1203
+translate polish day27_b_licking_c5cc69af:
+
+    # me "I'll leave you to it then."
+    me "No dobrze, to pozwolę Ci się przebrać."
+
+# game/day27.rpy:1204
+translate polish day27_b_licking_a7ed4f3b:
+
+    # b "T-thanks."
+    b "D- Dzięki..."
+
+# game/day27.rpy:1205
+translate polish day27_b_licking_6ac0e1eb:
+
+    # me "Migraines are a bitch. Get well soon!"
+    me "Migreny są przejebane. Mam nadzieję, że szybko poczujesz się lepiej!"
+
+# game/day27.rpy:1206
+translate polish day27_b_licking_a7ed4f3b_1:
+
+    # b "T-thanks."
+    b "D- Dzięki..."
+
+# game/day27.rpy:1211
+translate polish day27_b_licking_533d60e4:
+
+    # "{i}When Megan closes the office door, [b_name] involuntarily releases a volley of her juices."
+    "{i}Kiedy Megan zamyka drzwi, Bella mimowolnie uwalnia kolejną falę swoich soków."
+
+# game/day27.rpy:1212
+translate polish day27_b_licking_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Aaaaaaah!"
+
+# game/day27.rpy:1213
+translate polish day27_b_licking_eb1641f9:
+
+    # b "Don't stop. P-please!"
+    b "Nie przestawaj. B- Błagam!"
+
+# game/day27.rpy:1215
+translate polish day27_b_licking_85a3c63d:
+
+    # "{i}After you push her onto the desk, you eat her pussy with an intensity that surprises even yourself."
+    "{i}Popychasz ją na biurko i zaczynasz wylizywać jej szparkę z zapałem, który zaskakuje nawet Ciebie."
+
+# game/day27.rpy:1216
+translate polish day27_b_licking_2b4bad48:
+
+    # "{i}The vibrator is still running on maximum, and [b_name] moans uncontrollably and pulls at your hair in ecstasy."
+    "{i}Wibrator nadal działa na maksimum, a [b_name] jęczy niekontrolowanie i ciągnie za włosy w ekstazie."
+
+# game/day27.rpy:1224
+translate polish day27_b_licking_df23fe64:
+
+    # "{i}You're surprised by her wetness and the force of her orgasm. A wealth of her nectar squirts on your face and forces the still-vibrating egg out of her cunny."
+    "{i}Jesteś zaskoczony jej mokrością i siłą jej orgazmu Bogactwo jej nektaru tryska na twoją twarz i wypycha wciąż wibrujące jajko z jej cipki."
+
+# game/day27.rpy:1227
+translate polish day27_b_licking_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day27.rpy:1229
+translate polish day27_b_licking_509df137:
+
+    # "{i}Your sister squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Twoja siostra tryska sokami na swoje uda i blat biurka. Zaczyna ściekać na podłogę, gdy jej bezwładne ciało wygina się w kolejnych falach jej orgazmu."
+
+# game/day27.rpy:1231
+translate polish day27_b_licking_2fb542ee:
+
+    # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}[b_name] tryska kilkoma strumieniami ejakulatu na jej uda i powierzchnię biurka. Zaczyna kapać na podłogę, gdy jej wiotka postać spazmuje w ferworze orgazmu."
+
+# game/day27.rpy:1237
+translate polish day27_b_licking_fd967eb5:
+
+    # "{i}You catch [b_name] before she falls to the floor and sit next to her against the desk."
+    "{i}Łapiesz Bellę na chwilę przed jej zsunięciem się na podłogę i siadasz z nią obok biurka."
+
+# game/day27.rpy:1238
+translate polish day27_b_licking_a226744c:
+
+    # b "I... I..."
+    b "Ja... Ja..."
+
+# game/day27.rpy:1239
+translate polish day27_b_licking_970e9bfc:
+
+    # b "I didn't know I could do that."
+    b "Nie wiedziałam, że mogę to zrobić."
+
+# game/day27.rpy:1240
+translate polish day27_b_licking_5535b960:
+
+    # p "That was really special."
+    p "To było naprawdę wyjątkowe."
+
+# game/day27.rpy:1241
+translate polish day27_b_licking_e4f482d5:
+
+    # b "I don't think I'll be able to walk."
+    b "Nie sądzę, żebym była w stanie chodzić."
+
+# game/day27.rpy:1242
+translate polish day27_b_licking_fed42c8c:
+
+    # p "I'll get you home, don't worry."
+    p "Zabiorę Cię do domu, nie martw się."
+
+# game/day27.rpy:1243
+translate polish day27_b_licking_935dfeff:
+
+    # "{i}[b_name] sits next to you, savoring the moment before standing up and slowly dressing herself."
+    "{i}Bella siedzi obok Ciebie, napawając się tą chwilą, potem wstaje i zaczyna powoli się ubierać."
+
+# game/day27.rpy:1245
+translate polish day27_b_licking_22fc1ff3:
+
+    # "{i}She leans on you, as you head out the office and go back home."
+    "{i}Wspiera się na Tobie, kiedy wychodzicie z biura i wracacie do domu."
+
+# game/day27.rpy:1248
+translate polish day27_b_licking_748b5dec:
+
+    # p "That was close."
+    p "Było blisko."
+
+# game/day27.rpy:1249
+translate polish day27_b_licking_567893c3:
+
+    # p "{i}(And I fear the moment has been ruined.)"
+    p "{i}(I obawiam się, że nastrój został zrujnowany.)"
+
+# game/day27.rpy:1250
+translate polish day27_b_licking_58cce666:
+
+    # b "I really need to get back to work."
+    b "Naprawdę muszę już wracać do pracy."
+
+# game/day27.rpy:1255
+translate polish day27_b_licking_877900df:
+
+    # p "You may, but the vibrator remains on."
+    p "No dobrze, ale wibrator zostaje na miejscu."
+
+# game/day27.rpy:1257
+translate polish day27_b_licking_c39bb92f:
+
+    # b "What? No!"
+    b "Co? Nie!"
+
+# game/day27.rpy:1258
+translate polish day27_b_licking_e096b0f3:
+
+    # p "Yes, at the lowest setting, a nice background hum while you continue working."
+    p "Tak, na najniższej wartości, będzie przyjemnie buczał w tle, kiedy będziesz pracować."
+
+# game/day27.rpy:1259
+translate polish day27_b_licking_ef0da038:
+
+    # b "But..."
+    b "Ale..."
+
+# game/day27.rpy:1260
+translate polish day27_b_licking_2dab4ee2:
+
+    # p "You'll love it."
+    p "Spodoba Ci się."
+
+# game/day27.rpy:1262
+translate polish day27_b_licking_a1d34c97:
+
+    # "{i}Dejected, [b_name] leaves the office, the toy still vibrating in her pussy. You decide to head home."
+    "{i}Przybita, Bella wychodzi z biura, z zabawką dalej wibrującą w jej cipce. Ty postanawiasz już wrócić do domu."
+
+# game/day27.rpy:1265
+translate polish day27_b_licking_981af234:
+
+    # "{i}You toy with the idea of turning the vibrator on again, but decide to give [b_name] a break."
+    "{i}Kusi Cię, żeby znowu włączyć wibrator, ale postanawiasz dać Belli trochę odetchnąć."
+
+# game/day27.rpy:1266
+translate polish day27_b_licking_dfa11d19:
+
+    # p "You may. I've turned the vibrator off for now, but keep it in at all times."
+    p "No dobrze. Póki co wyłączę wibrator, ale ma pozostać na miejscu."
+
+# game/day27.rpy:1267
+translate polish day27_b_licking_40179f03:
+
+    # b "Yeah, yeah."
+    b "Ta, ta."
+
+# game/day27.rpy:1269
+translate polish day27_b_licking_c556ba13:
+
+    # "{i}After she leaves the office, you head back home."
+    "{i}Kiedy wychodzi z biura, wracasz do domu."
+
+# game/day27.rpy:1284
+translate polish day27_flashback_sex_c5a86a79:
+
+    # s "There's also the matter of teaching you."
+    s "Jest też kwestia Twojej edukacji."
+
+# game/day27.rpy:1285
+translate polish day27_flashback_sex_5c6e3bee:
+
+    # s "You've proven to be a quick learner, but think of what you'll be able to show her when you've had a little more practice with me."
+    s "Okazałeś się pojętnym uczniem, ale pomyśl co mógłbyś jej pokazać, gdybyś jeszcze trochę ze mną poćwiczył."
+
+# game/day27.rpy:1286
+translate polish day27_flashback_sex_eca6528f:
+
+    # s "You already know how to pleasure a woman with your fingers, but there's more to be learned..."
+    s "Już wiesz jak zaspokoić kobietę swoimi palcami, ale jest jeszcze wiele innych rzeczy, których powinieneś się nauczyć..."
+
+# game/day27.rpy:1288
+translate polish day27_flashback_sex_b31534e5:
+
+    # "{i}With those words, she freed my cock which had grown erect as soon as I looked at her naked body."
+    "{i}Z tymi słowami, uwolniła mojego penisa, który stał odkąd tylko spojrzałem na jej nagie ciało."
+
+# game/day27.rpy:1289
+translate polish day27_flashback_sex_f9e820eb:
+
+    # s "You should attune yourself to your desires."
+    s "Powinieneś podążać za swoimi pragnieniami."
+
+# game/day27.rpy:1290
+translate polish day27_flashback_sex_1ba01317:
+
+    # s "You clearly want me, you want her, you want Sabine... What if you can have all of that?"
+    s "Wyraźnie chcesz mnie, chcesz jej, chcesz Sabine... Co jeśli mógłbyś mieć to wszystko?"
+
+# game/day27.rpy:1291
+translate polish day27_flashback_sex_59e7a770:
+
+    # s "Wouldn't that be nice?"
+    s "Nie byłoby miło?"
+
+# game/day27.rpy:1296
+translate polish day27_flashback_sex_bffc2941:
+
+    # "{i}She lowered her head to my cock and wrapped her lips around my glans. Her wet tongue darted over the tip of my dick and she started sucking."
+    "{i}Schyliła się do mojego penisa i oplotła swoimi ustami mojego żołędzia. Jej mokry język ślizgał się po czubku mojego fiuta i zaczęła ssać."
+
+# game/day27.rpy:1298
+translate polish day27_flashback_sex_146db4ff:
+
+    # s "Have you ever felt that before?"
+    s "Czułeś kiedyś coś takiego?"
+
+# game/day27.rpy:1299
+translate polish day27_flashback_sex_580a0a0b:
+
+    # p "N-n-no..."
+    p "N- Nie..."
+
+# game/day27.rpy:1300
+translate polish day27_flashback_sex_b9e17a77:
+
+    # "{i}Sasha took my entire length in her warm mouth and traced the veins of my cock with the tip of her tongue."
+    "{i}Sasha wzięła całego mojego fiuta do swoich ciepłych ust, śledząc czubkiem języka po pulsujących żyłach mojego penisa."
+
+# game/day27.rpy:1301
+translate polish day27_flashback_sex_bbdaf767:
+
+    # s "Would you like to fuck me?"
+    s "Chciałbyś mnie wyruchać?"
+
+# game/day27.rpy:1302
+translate polish day27_flashback_sex_afb6c27b:
+
+    # p "Here?! In dad's bedroom?!"
+    p "Tutaj?! W sypialni taty?!"
+
+# game/day27.rpy:1303
+translate polish day27_flashback_sex_cb28ce69:
+
+    # s "That's the plan, if you're game."
+    s "Taki jest plan, jeśli masz ochotę."
+
+# game/day27.rpy:1304
+translate polish day27_flashback_sex_fcad6d87:
+
+    # p "I-i... Y-yes!"
+    p "J-... T- Tak!"
+
+# game/day27.rpy:1306
+translate polish day27_flashback_sex_a8b746f9:
+
+    # r "But Miley!"
+    r "Ale Miley!"
+
+# game/day27.rpy:1307
+translate polish day27_flashback_sex_fa2718d7:
+
+    # p "I've learned not to argue with a woman who has my cock in her mouth."
+    p "Lepiej nie kłócić się z kobietą, która ma mojego penisa w ustach."
+
+# game/day27.rpy:1308
+translate polish day27_flashback_sex_c4ff4ad4:
+
+    # r "Fair point."
+    r "Racja."
+
+# game/day27.rpy:1312
+translate polish day27_flashback_sex_b8a8a112:
+
+    # "{i}She pulled my penis out of her mouth, a string of saliva still connecting her lips and my glans, and lay before me with her legs spread."
+    "{i}Wyciągnęła mnie ze swoich ust, strużka śliny pociągnęła się między jej wargami, a moim penisem, położyła się przede mną i rozłożyła nogi."
+
+# game/day27.rpy:1313
+translate polish day27_flashback_sex_9062a2b3:
+
+    # s "Taste me, before I ride you."
+    s "Posmakuj mnie, zanim zacznę Cię ujeżdżać."
+
+# game/day27.rpy:1319
+translate polish day27_flashback_sex_fff7add5:
+
+    # "{i}Any thought of young love forgotten, I obliged and plunged my tongue inside her pussy."
+    "{i}Zapominając o mojej młodzieńczej miłości, spełniłem jej polecenie i zanurzyłem język w jej cipce."
+
+# game/day27.rpy:1320
+translate polish day27_flashback_sex_025deb73:
+
+    # s "Aaaah, very direct. Remember when you fingered me, be subtle."
+    s "Aaaah, bardzo bezpośrednio. Pamiętaj jak robiłeś mi palcówkę, bądź subtelny."
+
+# game/day27.rpy:1321
+translate polish day27_flashback_sex_ddcc8bb7:
+
+    # "{i}Tempering my initial voraciousness, I began to lick her pussy lips and concentrate my attention on her clitoris."
+    "{i}Hamując mój wstępny entuzjazm, zacząłem delikatnie lizać jej wargi i skupiłem moją uwagę na jej łechtaczce."
+
+# game/day27.rpy:1322
+translate polish day27_flashback_sex_f5c24192:
+
+    # "{i}I had never tasted a woman before, so Sasha's mix of bath soap and saltiness surprised and overwhelmed me instantly."
+    "{i}Nigdy wcześniej nie posmakowałem kobiety, więc smak jej mydła, połączony z jej słonymi sokami natychmiastowo mnie przytłoczył."
+
+# game/day27.rpy:1323
+translate polish day27_flashback_sex_42e8f876:
+
+    # s "Good boy, make me ready for you."
+    s "Dobrze chłopcze, przygotuj mnie na siebie."
+
+# game/day27.rpy:1325
+translate polish day27_flashback_sex_863c430e:
+
+    # "{i}I worked hard on her pussy and she allowed me to explore every little fold of her sex, guiding me by firmly holding my head in her hands."
+    "{i}Pracowałem zawzięcie nad jej cipkę, pozwalała mi eksplorować każdy najmniejszy zakamarek jej kobiecości, prowadząc moją głowę swoimi dłoni."
+
+# game/day27.rpy:1326
+translate polish day27_flashback_sex_181a4fa1:
+
+    # s "That's it, right there."
+    s "Właśnie tak, tutaj."
+
+# game/day27.rpy:1327
+translate polish day27_flashback_sex_8d92683f:
+
+    # s "Mmmmm."
+    s "Mmmmm."
+
+# game/day27.rpy:1331
+translate polish day27_flashback_sex_d3367d55:
+
+    # s "That's enough for now."
+    s "Na razie wystarczy."
+
+# game/day27.rpy:1332
+translate polish day27_flashback_sex_7286508b:
+
+    # s "Just focus for the next part, don't allow yourself to cum too soon."
+    s "Skup się na następnej części, nie spuść się zbyt szybko."
+
+# game/day27.rpy:1333
+translate polish day27_flashback_sex_3503f938:
+
+    # s "Let me lead, you can have the initiative some other time, when you're more skilled."
+    s "Pozwól mi się poprowadzić, innym razem będziesz mógł przejąć inicjatywę, kiedy będziesz już bardziej doświadczony."
+
+# game/day27.rpy:1334
+translate polish day27_flashback_sex_20d8934c:
+
+    # p "It's just moving up and down, isn't it?"
+    p "To tylko ruszanie się w górę i w dół, nie?"
+
+# game/day27.rpy:1335
+translate polish day27_flashback_sex_9de62a97:
+
+    # s "Spoken like a boy who's only watched a vagina being penetrated on video."
+    s "Mówisz jak chłopiec, który widział penetrację tylko na filmach."
+
+# game/day27.rpy:1336
+translate polish day27_flashback_sex_ba1863c8:
+
+    # s "Try not to cum immediately, okay?"
+    s "Spróbuj nie spuścić się natychmiastowo, okej?"
+
+# game/day27.rpy:1338
+translate polish day27_flashback_sex_7d248ee6:
+
+    # "{i}I really didn't get why she was making all that fuss until she spread her pussy lips and lowered herself onto my cock."
+    "{i}Naprawdę nie rozumiałem o co był ten cały szum, aż w końcu opuściła się na mojego penisa."
+
+# game/day27.rpy:1339
+translate polish day27_flashback_sex_3e6e3c86:
+
+    # "{i}The act of entering her warm wet hole nearly made me shoot my load inside of her. Sasha noticed my glazed look and halted her descent on my shaft right away."
+    "{i}Sam akt zagłębienia się w jej ciepłej dziurce prawie sprawił, że w niej trysnąłem. Sasha zauważyła moje przeszklone spojrzenie i natychmiast przerwała opuszczanie się na mojego fiuta."
+
+# game/day27.rpy:1341
+translate polish day27_flashback_sex_486fc380:
+
+    # p "F-f-fuck, Sasha!"
+    p "K- Kurwa, Sasha!"
+
+# game/day27.rpy:1342
+translate polish day27_flashback_sex_408c37ea:
+
+    # s "Don't you dare, boy, we haven't even started!"
+    s "Nawet się nie waż chłopcze, jeszcze nie zaczęliśmy!"
+
+# game/day27.rpy:1343
+translate polish day27_flashback_sex_5d2f4abc:
+
+    # "{i}I tried to think of anything but sex, and after a procession of deformed gnomes, the entire plot of The Great Gatsby and several theorems from Euclidean geometry had passed my mind's eye, I felt confident enough for Sasha to continue."
+    "{i}Próbowałem myśleć o wszystkim, tylko nie o seksie i kiedy przed moimi oczami przemknęło kilka zdeformowanych karłów, cała fabuła Wielkiego Gatsby'iego i kilka twierdzeń z geometrii Euklidesowej, poczułem się wystarczająco pewnie, żeby pozwolić Sashy kontynuować."
+
+# game/day27.rpy:1350
+translate polish day27_flashback_sex_f388db08:
+
+    # s "Try to focus on the ways my cunt is stimulating your cock."
+    s "Spróbuj się skupić na tym, jak moja cipka stymuluje Twojego fiuta."
+
+# game/day27.rpy:1351
+translate polish day27_flashback_sex_426e3322:
+
+    # "{i}Very slowly, Sasha started to move, the ribs of her vaginal tract massaging my entire shaft."
+    "{i}Bardzo powoli, Sasha zaczęła się ruszać, fałdki jej kanału rodnego masowały mojego penisa na całej długości."
+
+# game/day27.rpy:1352
+translate polish day27_flashback_sex_1dba4ceb:
+
+    # s "When you're more experienced, you can fully give yourself over to pleasure."
+    s "Kiedy nabierzesz doświadczenia, będziesz mógł w pełni oddać się tej przyjemności."
+
+# game/day27.rpy:1353
+translate polish day27_flashback_sex_77a6371f:
+
+    # s "Your goal should always be to heighten the pleasure of your girl."
+    s "Twoim celem powinna być zawsze przyjemność Twojej kobiety."
+
+# game/day27.rpy:1354
+translate polish day27_flashback_sex_544b034c:
+
+    # s "She'll get wetter and wetter..."
+    s "Będzie się robiła coraz bardziej mokra..."
+
+# game/day27.rpy:1355
+translate polish day27_flashback_sex_58db5a14:
+
+    # s "Maybe she'll orgasm..."
+    s "Może przeżyje orgazm..."
+
+# game/day27.rpy:1356
+translate polish day27_flashback_sex_0d029f3e:
+
+    # s "Mmmmm..."
+    s "Mmmmm."
+
+# game/day27.rpy:1358
+translate polish day27_flashback_sex_485f4ac7:
+
+    # s "That, in turn, will increase your pleasure as well."
+    s "A to w zamian, zwiększy Twoją rozkosz."
+
+# game/day27.rpy:1359
+translate polish day27_flashback_sex_d2614141:
+
+    # s "Measure your thrusts and listen to your partner. To her moans and body language."
+    s "Kontroluj swoje ruchy i słuchaj swojej partnerki. Jej jęków i mowy ciała."
+
+# game/day27.rpy:1360
+translate polish day27_flashback_sex_910977f0:
+
+    # "{i}Mesmerized by her voice and the dirty things she told me, I let her use my cock for her pleasure and tried not to fill her up prematurely."
+    "{i}Zahipnotyzowany jej głosem i rzeczami jakie mi mówiła, pozwoliłem jej wykorzystywać mojego penisa dla swojej przyjemności, próbując nie spuścić się w nią przedwcześnie."
+
+# game/day27.rpy:1362
+translate polish day27_flashback_sex_c62166ae:
+
+    # s "When she's nearing her orgasms, a few quick thrusts might send her over the edge."
+    s "Kiedy będzie blisko orgazmu, kilka szybkich pchnięć może załatwić sprawę."
+
+# game/day27.rpy:1363
+translate polish day27_flashback_sex_2c39b0d4:
+
+    # s "And as she orgasms, try to fuck her deeply, to prolong her pleasure."
+    s "Kiedy już będzie szczytować, staraj się ruchać ją głęboko, aby wydłużyć jej rozkosz."
+
+# game/day27.rpy:1364
+translate polish day27_flashback_sex_5b51375b:
+
+    # s "Fucking her hard and fast should never be the first thing you do, unless the situation calls for it, or she asks you to."
+    s "Mocne i szybkie rżnięcie nigdy nie powinno być pierwszym co robisz, chyba że sytuacja jest odpowiednia, albo sama Cię o to prosi."
+
+# game/day27.rpy:1365
+translate polish day27_flashback_sex_eafc5437:
+
+    # s "You're not some porn actor jackhammering a worn out pussy, you're a lover."
+    s "Nie jesteś jakimś aktorem porno ubijającym zużytą pizdą, masz być kochankiem."
+
+# game/day27.rpy:1366
+translate polish day27_flashback_sex_819c61ee:
+
+    # p "S-s-sasha?!"
+    p "S- Sasha?!"
+
+# game/day27.rpy:1367
+translate polish day27_flashback_sex_5396f74e:
+
+    # s "Yes, dear?"
+    s "Tak kochanie?"
+
+# game/day27.rpy:1368
+translate polish day27_flashback_sex_a977924e:
+
+    # p "I-I can't..."
+    p "J- Już nie..."
+
+# game/day27.rpy:1369
+translate polish day27_flashback_sex_530f3be7:
+
+    # s "Do you want to cum inside me, sweetheart?"
+    s "Chcesz we mnie dojść słonko?"
+
+# game/day27.rpy:1370
+translate polish day27_flashback_sex_07d6a258:
+
+    # p "Y-y-y..."
+    p "T- Tak..."
+
+# game/day27.rpy:1371
+translate polish day27_flashback_sex_09b8efae:
+
+    # s "Go ahead, let it all go!"
+    s "Zrób to, wyrzuć z siebie wszystko!"
+
+# game/day27.rpy:1379
+translate polish day27_flashback_sex_6891a8bb:
+
+    # "{i}With clenched teeth I released what felt like a river of seed inside her pussy. I'm not entirely sure what she did while I was orgasming, but it kept me going for a long time."
+    "{i}Z zaciśniętymi zębami wpompowałem w nią ogromną ilość mojego nasienia. Nie wiem co dokładnie zrobiła podczas mojego orgazmu, ale trwał naprawdę długo."
+
+# game/day27.rpy:1381
+translate polish day27_flashback_sex_2f5381cb:
+
+    # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
+    "{i}Sperma wyciekła z jej cipki na mojego kutasa i łóżko mojego ojca, trzymałem ją blisko, desperacko ściskając jej ciało w moich ramionach, mój kutas wciąż spazmował w jej wnętrzu, nie byłem już prawiczkiem."
 

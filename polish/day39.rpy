@@ -134,7 +134,7 @@ translate polish day39_7db6ecec:
 translate polish day39_c888b1ff:
 
     # r "Do you think [m_name] wants to have that talk during breakfast?"
-    r ""
+    r "Myślisz, że [m_name] chce rozmawiać o tym podczas śniadania?."
 
 # game/day39.rpy:61
 translate polish day39_8452cc5e:
@@ -308,7 +308,7 @@ translate polish day39_737a52c1:
 translate polish day39_bb5e1a64:
 
     # l "Yes [m_name]."
-    l ""
+    l "Yes [m_name]"
 
 # game/day39.rpy:103
 translate polish day39_c6cdf817:
@@ -362,7 +362,7 @@ translate polish day39_94b2ad80:
 translate polish day39_2b0bccbe:
 
     # b "What on earth are you talking about, [m_name]?"
-    b ""
+    b "O czym ty, u licha, mówisz [m_name]?"
 
 # game/day39.rpy:115
 translate polish day39_a96e41df:
@@ -404,7 +404,7 @@ translate polish day39_a03206aa:
 translate polish day39_79f3c56e:
 
     # r "[m_name], please..."
-    r ""
+    r "[m_name] please"
 
 # game/day39.rpy:126
 translate polish day39_f417961a:
@@ -524,7 +524,7 @@ translate polish day39_2dddc0fe:
 translate polish day39_52c278d2:
 
     # b "Please calm down, [m_name]."
-    b ""
+    b "Proszę, uspokój się [m_name]"
 
 # game/day39.rpy:157
 translate polish day39_46387628:
@@ -566,7 +566,7 @@ translate polish day39_262d544b:
 translate polish day39_61a24975:
 
     # "{i}There's complete silence as [m_name] stares in shock at her girls."
-    ""
+    "{i}Panuje kompletna cisza, gdy [m_name] wpatruje się w szoku w swoje dziewczyny."
 
 # game/day39.rpy:169
 translate polish day39_bf035178:
@@ -620,7 +620,7 @@ translate polish day39_d902b197:
 translate polish day39_70c283ff:
 
     # l "I didn't know, [m_name], honestly."
-    l ""
+    l "Szczerze mówiąc, nie znałem [m_name]"
 
 # game/day39.rpy:184
 translate polish day39_1b1c6b7f:
@@ -638,7 +638,7 @@ translate polish day39_8bcd5a66:
 translate polish day39_90d15219:
 
     # b "Why can't we talk about this without shouting, [m_name]?"
-    b ""
+    b "Dlaczego nie możemy o tym porozmawiać bez krzyczenia [m_name]?."
 
 # game/day39.rpy:190
 translate polish day39_89a676ef:
@@ -662,7 +662,7 @@ translate polish day39_0ad80a72:
 translate polish day39_4580a095:
 
     # m "Of course it's personal, you're my girls!"
-    m ""
+    m "Oczywiście, że to osobiste, jesteście moimi dziewczynami!"
 
 # game/day39.rpy:197
 translate polish day39_b09d8c3d:
@@ -686,7 +686,7 @@ translate polish day39_d398987c:
 translate polish day39_cbba52fe:
 
     # b "[m_name]?"
-    b ""
+    b "[m_name]?"
 
 # game/day39.rpy:203
 translate polish day39_e612037c_1:
@@ -752,7 +752,7 @@ translate polish day39_44ed2849:
 translate polish day39_fd63c66c:
 
     # b "I didn't expect you to fall in love with him, [m_name]."
-    b ""
+    b "Nie spodziewałem się, że się w nim zakochasz [m_name]."
 
 # game/day39.rpy:218
 translate polish day39_05e3f18e:
@@ -866,7 +866,7 @@ translate polish day39_2b60cdad:
 translate polish day39_6a67d166:
 
     # b "Jesus Christ, [m_name]..."
-    b ""
+    b "Jezus Chrystus [m_name]"
 
 # game/day39.rpy:246
 translate polish day39_4c6df1c0:
@@ -884,7 +884,7 @@ translate polish day39_c3f9b551:
 translate polish day39_e732c81a:
 
     # m "No, I only became interested in the lifestyle after my husband left me."
-    m ""
+    m "Nie, zainteresowałam się tym stylem życia dopiero po tym, jak zostawił mnie mąż"
 
 # game/day39.rpy:252
 translate polish day39_8965d181:
@@ -1118,7 +1118,7 @@ translate polish day39_618eacac:
 translate polish day39_e43a176f:
 
     # p "I didn't know I could have such strong feelings for multiple friends at once."
-    p ""
+    p "Nie wiedziałem, że mogę żywić tak silne uczucia do wielu przyjaciół jednocześnie"
 
 # game/day39.rpy:306
 translate polish day39_204bb17c:
@@ -1202,7 +1202,7 @@ translate polish day39_fe03e8e2:
 translate polish day39_405e4e11:
 
     # l "No, I don't want to have any part in this."
-    l ""
+    l "Nie, nie chcę brać w tym udziału"
 
 # game/day39.rpy:330
 translate polish day39_b0f3da3a:
@@ -1238,7 +1238,7 @@ translate polish day39_9714ec57:
 translate polish day39_3e131a96:
 
     # p "And it's my hope that you join us, [m_name], in becoming more than just friends."
-    p ""
+    p "I mam nadzieję, że dołączysz do nas [m_name], aby stać się kimś więcej niż tylko przyjaciółmi."
 
 # game/day39.rpy:341
 translate polish day39_86195855:
@@ -1304,7 +1304,7 @@ translate polish day39_7e6f84f2:
 translate polish day39_81648b19:
 
     # r "And I think you being there would really complete us, [m_name]."
-    r ""
+    r "I myślę, że twoja obecność naprawdę by nas dopełniła [m_name]."
 
 # game/day39.rpy:358
 translate polish day39_8007b899:
@@ -1316,7 +1316,7 @@ translate polish day39_8007b899:
 translate polish day39_03dbed88:
 
     # b "Will you join us, [m_name]?"
-    b ""
+    b "Dołączysz do nas [m_name]?"
 
 # game/day39.rpy:361
 translate polish day39_24aae99f:
@@ -1382,7 +1382,7 @@ translate polish day39_5dc43652:
 translate polish day39_b45655ae:
 
     # r "Yes, [m_name]... Mmmmm!"
-    r ""
+    r "Tak [m_name] Mmmmm!"
 
 # game/day39.rpy:379
 translate polish day39_8d42f4ab:
@@ -1442,7 +1442,7 @@ translate polish day39_9a7c85c8:
 translate polish day39_2abc04c0:
 
     # p "And it's my hope that you join us, [l_name] and [m_name], in becoming more than just friends."
-    p ""
+    p "I mam nadzieję, że dołączysz do nas [l_name] i [m_name], stając się kimś więcej niż tylko przyjaciółmi."
 
 # game/day39.rpy:394
 translate polish day39_86195855_1:
@@ -1616,7 +1616,7 @@ translate polish day39_8007b899_1:
 translate polish day39_03dbed88_1:
 
     # b "Will you join us, [m_name]?"
-    b ""
+    b "Dołączysz do nas [m_name]?"
 
 # game/day39.rpy:438
 translate polish day39_24aae99f_1:
@@ -1688,7 +1688,7 @@ translate polish day39_5dc43652_1:
 translate polish day39_b45655ae_1:
 
     # r "Yes, [m_name]... Mmmmm!"
-    r ""
+    r "Tak [m_name] Mmmmm!"
 
 # game/day39.rpy:457
 translate polish day39_8d42f4ab_1:
@@ -1718,7 +1718,7 @@ translate polish day39_a0c80058:
 translate polish day39_c9028800:
 
     # l "Yes, [m_name], we will."
-    l ""
+    l "Tak [m_name], zrobimy to"
 
 # game/day39.rpy:470
 translate polish day39_e8af0178:
@@ -1826,7 +1826,7 @@ translate polish day39_618eacac_1:
 translate polish day39_e43a176f_1:
 
     # p "I didn't know I could have such strong feelings for multiple friends at once."
-    p ""
+    p "Nie wiedziałem, że mogę żywić tak silne uczucia do wielu przyjaciół jednocześnie"
 
 # game/day39.rpy:497
 translate polish day39_204bb17c_1:
@@ -1886,7 +1886,7 @@ translate polish day39_fe03e8e2_1:
 translate polish day39_405e4e11_1:
 
     # l "No, I don't want to have any part in this."
-    l ""
+    l "Nie, nie chcę brać w tym udziału"
 
 # game/day39.rpy:516
 translate polish day39_b0f3da3a_1:
@@ -1934,7 +1934,7 @@ translate polish day39_93f87d1d:
 translate polish day39_2531d498:
 
     # b "Oh, don't worry, I wouldn't dream of it."
-    b ""
+    b "Nie martw się, nie marzyłbym o tym."
 
 # game/day39.rpy:531
 translate polish day39_7ea0808f:
@@ -2108,7 +2108,7 @@ translate polish day39_868733d3:
 translate polish day39_49813a72:
 
     # r "Come on, you're not old."
-    r ""
+    r "Daj spokój, nie jesteś stary"
 
 # game/day39.rpy:581
 translate polish day39_7de2c4ff:
@@ -2126,7 +2126,7 @@ translate polish day39_7dcd5762:
 translate polish day39_d9ca808e:
 
     # m "The fact that the ones you love are my girls should be a slap in the face."
-    m ""
+    m "Fakt, że te, które kochasz, są moimi dziewczynami, powinien być policzkiem w twarz."
 
 # game/day39.rpy:586
 translate polish day39_a992e185:
@@ -2144,7 +2144,7 @@ translate polish day39_9f90fee6:
 translate polish day39_640ce8ec:
 
     # m "I find that there's something beautiful in loving someone who's so close to my heart too."
-    m ""
+    m "Uważam, że jest coś pięknego w kochaniu kogoś, kto jest tak bliski mojemu sercu."
 
 # game/day39.rpy:593
 translate polish day39_0cdd9888:
@@ -2300,7 +2300,7 @@ translate polish day39_c3f9b551_1:
 translate polish day39_e732c81a_1:
 
     # m "No, I only became interested in the lifestyle after my husband left me."
-    m ""
+    m "Nie, zainteresowałam się tym stylem życia dopiero po tym, jak zostawił mnie mąż"
 
 # game/day39.rpy:639
 translate polish day39_8965d181_1:
@@ -2438,7 +2438,7 @@ translate polish day39_8971b16a:
 translate polish day39_76b5f1ee:
 
     # l "With my own friends no less?"
-    l ""
+    l "Z moimi własnymi przyjaciółmi?"
 
 # game/day39.rpy:679
 translate polish day39_52c0de60:
@@ -2456,7 +2456,7 @@ translate polish day39_2fdf8fb5:
 translate polish day39_552c3e3f:
 
     # l "With my own friend no less?"
-    l ""
+    l "Z moim własnym przyjacielem?"
 
 # game/day39.rpy:684
 translate polish day39_b5ba65b1:
@@ -2588,7 +2588,7 @@ translate polish day39_2a4fef04:
 translate polish day39_9ca9e2e3:
 
     # b "And I know something of the power of attraction between friends."
-    b ""
+    b "I wiem coś o sile przyciągania między przyjaciółmi"
 
 # game/day39.rpy:720
 translate polish day39_f712e6a9:
@@ -2804,13 +2804,13 @@ translate polish day39_choices_2a185274:
 translate polish day39_choices_f0cf7d24:
 
     # r "There's nothing, just some stuff at home, but that's been resolved."
-    r ""
+    r "Nie ma nic, tylko kilka rzeczy w domu, ale to zostało rozwiązane."
 
 # game/day39.rpy:778
 translate polish day39_choices_910cb748:
 
     # r "We worked it out, like we always do."
-    r ""
+    r "Wypracowaliśmy to jak zawsze"
 
 # game/day39.rpy:781
 translate polish day39_choices_a0bc1f5e:
@@ -2942,7 +2942,7 @@ translate polish day39_choices_7408fb4b:
 translate polish day39_choices_280d7acd:
 
     # er "{i}(Well, well, that friend of hers has come to pick her up.)"
-    er ""
+    er "{i}(No cóż, ta jej przyjaciółka przyszła ją odebrać)"
 
 # game/day39.rpy:811
 translate polish day39_choices_87e2804d:
@@ -3020,7 +3020,7 @@ translate polish day39_choices_ddccc216:
 translate polish day39_choices_78467b54:
 
     # "{i}The kiss you share becomes increasingly more passionate and your girlfriend starts to moan softly."
-    ""
+    "{i}Wspólny pocałunek staje się coraz bardziej namiętny, a twoja dziewczyna zaczyna cicho jęczeć."
 
 # game/day39.rpy:831
 translate polish day39_choices_ec52fda9:
@@ -3080,7 +3080,7 @@ translate polish day39_choices_9a7c039b:
 translate polish day39_choices_dc00c108:
 
     # er "{i}(I'm sure that whole house where they live is rotten to the core.)"
-    er ""
+    er "{i}(Jestem pewien, że cały dom, w którym mieszkają, jest zepsuty do szpiku kości)"
 
 # game/day39.rpy:847
 translate polish day39_choices_58ae1129:
@@ -3836,7 +3836,7 @@ translate polish day39_choices_0774baf3:
 translate polish day39_choices_e771db06:
 
     # r "But something in the way he treats my friends isn't right."
-    r ""
+    r "Ale coś w sposobie, w jaki traktuje moich przyjaciół nie jest w porządku"
 
 # game/day39.rpy:1036
 translate polish day39_choices_2d909e81:
@@ -3914,7 +3914,7 @@ translate polish day39_choices_ecc4d08c:
 translate polish day39_choices_1feecd7e:
 
     # r "I don't want to leave my friends, they're not the ones to blame."
-    r ""
+    r "Nie chcę zostawiać moich przyjaciół, to nie oni są winni"
 
 # game/day39.rpy:1056
 translate polish day39_choices_7111a8e6:
@@ -4010,7 +4010,7 @@ translate polish day39_choices_16ac85ff:
 translate polish day39_choices_d7d281e1:
 
     # r "I don't want to leave my friends, it's only [p_name] who's to blame."
-    r ""
+    r "Nie chcę zostawiać moich przyjaciół, to tylko [p_name] jest winny"
 
 # game/day39.rpy:1080
 translate polish day39_choices_7111a8e6_1:
@@ -4094,7 +4094,7 @@ translate polish day39_choices_03b6e60f:
 translate polish day39_choices_ac6ece97:
 
     # er "Ah yes, the new addition to the household."
-    er ""
+    "Ach tak, nowy dodatek do gospodarstwa domowego"
 
 # game/day39.rpy:1100
 translate polish day39_choices_88efabe2:
@@ -4538,7 +4538,7 @@ translate polish day39_evening_choices_d8a34f6f:
 translate polish day39_evening_choices_694457a0:
 
     # b "And you'll keep seeing my friends?"
-    b ""
+    b "I nadal będziesz spotykać się z moimi przyjaciółmi?"
 
 # game/day39.rpy:1206
 translate polish day39_evening_choices_bac2736c:
@@ -4550,7 +4550,7 @@ translate polish day39_evening_choices_bac2736c:
 translate polish day39_evening_choices_694457a0_1:
 
     # b "And you'll keep seeing my friends?"
-    b ""
+    b "I nadal będziesz spotykać się z moimi przyjaciółmi?"
 
 # game/day39.rpy:1209
 translate polish day39_evening_choices_1025ff63:
@@ -4676,7 +4676,7 @@ translate polish day39_evening_choices_bace8843:
 translate polish day39_evening_choices_fff04893:
 
     # r "Together, in [m_name]'s bed."
-    r ""
+    r "Razem w łóżku [m_nazwisko]"
 
 # game/day39.rpy:1240
 translate polish day39_evening_choices_c7e39df7:
@@ -4730,7 +4730,7 @@ translate polish day39_r_b_l_m_harem_ceeb5d6c:
 translate polish day39_r_b_l_m_harem_3f42fa88:
 
     # "{i}While your gaze lingers over the curves of [m_name]'s voluptuous body, there's a knock on the door."
-    ""
+    "{i}Podczas gdy twoje spojrzenie zatrzymuje się na krągłościach zmysłowego ciała [m_name], rozlega się pukanie do drzwi."
 
 # game/day39.rpy:1263
 translate polish day39_r_b_l_m_harem_58cfbbc3:
@@ -4856,7 +4856,7 @@ translate polish day39_r_b_l_m_harem_5e1de085:
 translate polish day39_r_b_l_m_harem_37cb3d7a:
 
     # m "She's really eager, that [r_name] of ours, isn't she [p_name]?"
-    m ""
+    m "Ona jest naprawdę chętna do tego naszego [r_name], prawda [p_name]?."
 
 # game/day39.rpy:1290
 translate polish day39_r_b_l_m_harem_70ac45e8:
@@ -4880,13 +4880,13 @@ translate polish day39_r_b_l_m_harem_f97b30b7:
 translate polish day39_r_b_l_m_harem_39854653:
 
     # "{i}Your erection is already growing as [m_name] slowly undresses your girlfriend."
-    ""
+    "{i}Twoja erekcja już rośnie, gdy [m_name] powoli rozbiera twoją dziewczynę."
 
 # game/day39.rpy:1296
 translate polish day39_r_b_l_m_harem_4b79d7db:
 
     # "{i}[m_name]'s fingers eagerly touch [r_name]'s soft skin and she takes an obvious delight in stimulating the girl's nipples."
-    ""
+    "{i}[m_name] chętnie dotyka palcami miękkiej skóry [r_name] i czerpie oczywistą przyjemność ze stymulowania sutków dziewczyny."
 
 # game/day39.rpy:1297
 translate polish day39_r_b_l_m_harem_82d8df0b:
@@ -4946,7 +4946,7 @@ translate polish day39_r_b_l_m_harem_4f926288:
 translate polish day39_r_b_l_m_harem_903a06fd:
 
     # "{i}Surrounded by her naked friends, [l_name] gets the same treatment as [b_name] and [r_name]."
-    ""
+    "{i}Otoczona przez swoje nagie przyjaciółki [l_name] jest traktowana tak samo jak [b_name] i [r_name]."
 
 # game/day39.rpy:1311
 translate polish day39_r_b_l_m_harem_e6b5931f:
@@ -4988,7 +4988,7 @@ translate polish day39_r_b_l_m_harem_b96c26aa:
 translate polish day39_r_b_l_m_harem_3d0f8d45:
 
     # "{i}Without prompting, the girls hug [l_name], while [m_name] undresses."
-    ""
+    "{i}Bez pytania dziewczyny przytulają się do [l_name], podczas gdy [m_name] się rozbiera"
 
 # game/day39.rpy:1321
 translate polish day39_r_b_l_m_harem_105a762f:
@@ -5030,19 +5030,19 @@ translate polish day39_r_b_l_m_harem_208ec88b:
 translate polish day39_r_b_l_m_harem_598c60e9:
 
     # r "I'll show you how much I love you, [m_name]."
-    r ""
+    r "Pokażę ci, jak bardzo cię kocham [m_name]"
 
 # game/day39.rpy:1331
 translate polish day39_r_b_l_m_harem_216c2fcd:
 
     # "{i}[r_name] is visibly delighted by her lewd remark as [m_name] invitingly opens her legs and pushes the girl's head towards her pussy."
-    ""
+    "{i}[r_name] jest wyraźnie zachwycona swoją lubieżną uwagą, gdy [m_name] zachęcająco rozchyla nogi i popycha głowę dziewczyny w kierunku swojej cipki."
 
 # game/day39.rpy:1332
 translate polish day39_r_b_l_m_harem_165a7658:
 
     # "{i}Spurred by their passion and the sight of [r_name] eating [m_name] out, [l_name] lies down on the pillow and lets herself be fingered by [b_name]."
-    ""
+    "{i}Pobudzona ich namiętnością i widokiem [r_name] pożerającego [m_name] [l_name] kładzie się na poduszce i pozwala się palcować [b_name]."
 
 # game/day39.rpy:1334
 translate polish day39_r_b_l_m_harem_28e3f4a7:
@@ -5060,7 +5060,7 @@ translate polish day39_r_b_l_m_harem_ee561db0:
 translate polish day39_r_b_l_m_harem_0ee336f8:
 
     # "{i}[b_name]'s eager fingers plunge into [l_name]'s juicy cunt as you watch [r_name]'s buttocks rock softly on the rhythm [m_name]'s straddling legs dictate."
-    ""
+    "{i}Chętne palce [b_name] zanurzają się w soczystej cipie [l_name], gdy patrzysz, jak pośladki [r_name] kołyszą się miękko w rytm dyktowany przez nogi [m_name]."
 
 # game/day39.rpy:1339
 translate polish day39_r_b_l_m_harem_6321ee7c:
@@ -5078,7 +5078,7 @@ translate polish day39_r_b_l_m_harem_8fb054d1:
 translate polish day39_r_b_l_m_harem_bc695988:
 
     # r "Of course, [m_name]."
-    r ""
+    r "Oczywiście [m_name]"
 
 # game/day39.rpy:1344
 translate polish day39_r_b_l_m_harem_dcdea302:
@@ -5096,7 +5096,7 @@ translate polish day39_r_b_l_m_harem_19d6ad79:
 translate polish day39_r_b_l_m_harem_0b0f9df9:
 
     # "[r_name] kneels before you and grabs your cock, stroking it softly, while [b_name] kisses you and massages your balls."
-    ""
+    "[r_name] klęka przed tobą i chwyta twojego kutasa, głaszcząc go delikatnie, podczas gdy [b_name] całuje cię i masuje twoje jaja."
 
 # game/day39.rpy:1350
 translate polish day39_r_b_l_m_harem_a40f5b0e:
@@ -5120,7 +5120,7 @@ translate polish day39_r_b_l_m_harem_f52404a5:
 translate polish day39_r_b_l_m_harem_e20ef963:
 
     # l "I love all of him, [m_name]."
-    l ""
+    l "Kocham go całego [m_name]"
 
 # game/day39.rpy:1356
 translate polish day39_r_b_l_m_harem_dbdef0b6:
@@ -5204,7 +5204,7 @@ translate polish day39_r_b_l_m_harem_0faa3600:
 translate polish day39_r_b_l_m_harem_b85b4330:
 
     # "{i}Your remaining friends regard the scene with a hint of jealousy in their eyes, making no move to pleasure each other."
-    ""
+    "{i}Twoi pozostali przyjaciele obserwują tę scenę z nutą zazdrości w oczach, nie robiąc żadnego ruchu, by sprawić sobie przyjemność."
 
 # game/day39.rpy:1375
 translate polish day39_r_b_l_m_harem_23d6006f:
@@ -5246,7 +5246,7 @@ translate polish day39_r_b_l_m_fucking_96a132dd:
 translate polish day39_r_b_l_m_fucking_23f3cc26:
 
     # "{i}[r_name]'s head has disappeared between [l_name]'s legs, her back arching as soon as her friend's tongue touches her dripping pussy."
-    ""
+    "{i}Głowa [r_name] zniknęła między nogami [l_name], a jej plecy wygięły się w łuk, gdy tylko język jej przyjaciółki dotknął jej ociekającej cipki."
 
 # game/day39.rpy:1391
 translate polish day39_r_b_l_m_fucking_bc1cffcf:
@@ -5270,7 +5270,7 @@ translate polish day39_r_b_l_m_fucking_367f87dc:
 translate polish day39_r_b_l_m_fucking_2784f764:
 
     # b "I know, [m_name], I want him so much!"
-    b ""
+    b "Wiem, że [m_name] tak bardzo go pragnę!."
 
 # game/day39.rpy:1397
 translate polish day39_r_b_l_m_fucking_dc83c465:
@@ -5300,7 +5300,7 @@ translate polish day39_r_b_l_m_fucking_a4bee0c4:
 translate polish day39_r_b_l_m_fucking_ad502a14:
 
     # "{i}[b_name]'s moans are suddenly muffled by her older friend, who's sitting on her face, her wet pussy firmly planted over her mouth."
-    ""
+    "{i}[b_name] jęki są nagle stłumione przez jej starszą koleżankę, która siedzi na jej twarzy, a jej mokra cipka jest mocno osadzona nad jej ustami."
 
 # game/day39.rpy:1407
 translate polish day39_r_b_l_m_fucking_6773df49:
@@ -5324,7 +5324,7 @@ translate polish day39_r_b_l_m_fucking_0b888f0d:
 translate polish day39_r_b_l_m_fucking_e05f5a7c:
 
     # "{i}[b_name]'s cries of delight are suddenly muffled by her older friend, who's sitting on her face, her wet pussy firmly planted over her mouth."
-    ""
+    "{i}[b_name] okrzyki rozkoszy zostają nagle stłumione przez jej starszą przyjaciółkę, która siedzi na jej twarzy, a jej mokra cipka jest mocno osadzona nad jej ustami."
 
 # game/day39.rpy:1413
 translate polish day39_r_b_l_m_fucking_985b0bc3:
@@ -5342,7 +5342,7 @@ translate polish day39_r_b_l_m_fucking_b65ce62f:
 translate polish day39_r_b_l_m_fucking_e09f15e2:
 
     # "{i}You feel eager hands touching you everywhere as you continue fucking your friend, her face slathered with her pussy juices."
-    ""
+    "{i}Czujesz chętne dłonie dotykające cię wszędzie, gdy kontynuujesz ruchanie swojej przyjaciółki, jej twarz jest spryskana sokami z jej cipki."
 
 # game/day39.rpy:1421
 translate polish day39_r_b_l_m_fucking_b9a04405:
@@ -5360,7 +5360,7 @@ translate polish day39_r_b_l_m_fucking_653fab25:
 translate polish day39_r_b_l_m_fucking_9d5db495:
 
     # "{i}No one is surprised when you choose [r_name] and pull her upwards on all fours, while [b_name] presents her wet gash to her friend."
-    ""
+    "{i}Nikt nie jest zaskoczony, gdy wybierasz [r_name] i ciągniesz ją na czworakach do góry, podczas gdy [b_name] prezentuje swoją mokrą dziurę swojej przyjaciółce."
 
 # game/day39.rpy:1437
 translate polish day39_r_b_l_m_fucking_3718db60:
@@ -5372,7 +5372,7 @@ translate polish day39_r_b_l_m_fucking_3718db60:
 translate polish day39_r_b_l_m_fucking_8e0d219b:
 
     # "{i}You pull [r_name] upwards on all fours, while [b_name] presents her wet gash to her friend."
-    ""
+    "{i}Podciągasz [r_name] do góry na czworakach, podczas gdy [b_name] prezentuje swoją mokrą ranę przyjaciółce."
 
 # game/day39.rpy:1441
 translate polish day39_r_b_l_m_fucking_2f8403cf:
@@ -5390,13 +5390,13 @@ translate polish day39_r_b_l_m_fucking_1ceb088b:
 translate polish day39_r_b_l_m_fucking_a05acf4e:
 
     # "{i}As [r_name] starts to lap up all of [b_name]'s ejaculate, you begin to fuck your youngest girlfriend, just the way she likes it."
-    ""
+    "{i}Gdy [r_name] zaczyna wchłaniać cały wytrysk [b_name], zaczynasz pieprzyć swoją najmłodszą dziewczynę tak, jak lubi."
 
 # game/day39.rpy:1445
 translate polish day39_r_b_l_m_fucking_4cf53f46:
 
     # "{i}Meanwhile, [l_name] is taking care of [m_name], her face buried deep between the older woman's legs."
-    ""
+    "{i}W międzyczasie [l_name] zajmuje się [m_name] z twarzą schowaną głęboko między nogami starszej kobiety."
 
 # game/day39.rpy:1447
 translate polish day39_r_b_l_m_fucking_ea128af1:
@@ -5438,7 +5438,7 @@ translate polish day39_r_b_l_m_fucking_a58556e7:
 translate polish day39_r_b_l_m_fucking_3b25eb34:
 
     # "{i}[b_name] isn't satisfied with just pleasuring [m_name] and makes the older woman eat her out too."
-    ""
+    "{i}[b_name] nie zadowala się tylko sprawianiem przyjemności [m_name] i sprawia, że starsza kobieta też ją zjada."
 
 # game/day39.rpy:1469
 translate polish day39_r_b_l_m_fucking_fb6cd9d3:
@@ -5450,7 +5450,7 @@ translate polish day39_r_b_l_m_fucking_fb6cd9d3:
 translate polish day39_r_b_l_m_fucking_131df277:
 
     # "{i}In a delirious haze, you fuck [l_name], , who manages to moan intensely while tongue-kissing her youngest friend."
-    ""
+    "{i}W delirycznym zamroczeniu pieprzysz [l_name], której udaje się intensywnie jęczeć podczas całowania językiem swojej najmłodszej przyjaciółki."
 
 # game/day39.rpy:1472
 translate polish day39_r_b_l_m_fucking_111028be:
@@ -5522,7 +5522,7 @@ translate polish day39_r_b_l_m_fucking_0924915d:
 translate polish day39_r_b_l_m_fucking_8c100ba6:
 
     # "{i}[r_name] has mimicked her friend and allows herself to be pleasured by [l_name], who's eagerly licking the younger girl's slit."
-    ""
+    "{i}[r_name] naśladuje swoją przyjaciółkę i pozwala się rozpieszczać [l_name], która ochoczo liże szczelinę młodszej dziewczyny."
 
 # game/day39.rpy:1501
 translate polish day39_r_b_l_m_fucking_4f680d67:
@@ -5534,7 +5534,7 @@ translate polish day39_r_b_l_m_fucking_4f680d67:
 translate polish day39_r_b_l_m_fucking_66e7ab49:
 
     # "{i}Lavishing yourself upon [b_name]'s juices while being pleasured by [m_name] feels like the pinnacle of pleasure, but more girls are waiting to be fucked."
-    ""
+    "{i}Delektowanie się sokami [b_name] podczas bycia rozpieszczanym przez [m_name] jest szczytem przyjemności, ale więcej dziewczyn czeka na rżnięcie."
 
 # game/day39.rpy:1510
 translate polish day39_r_b_l_m_fucking_f81ea5ee:
@@ -5564,7 +5564,7 @@ translate polish day39_r_b_l_m_fucking_ff783594:
 translate polish day39_r_b_l_m_fucking_0431e345:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1527
 translate polish day39_r_b_l_m_fucking_1cff20f3:
@@ -5576,7 +5576,7 @@ translate polish day39_r_b_l_m_fucking_1cff20f3:
 translate polish day39_r_b_l_m_fucking_3898649b:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wciskasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1530
 translate polish day39_r_b_l_m_fucking_5b6e7b72:
@@ -5624,7 +5624,7 @@ translate polish day39_r_b_l_m_fucking_ff783594_1:
 translate polish day39_r_b_l_m_fucking_0431e345_1:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1557
 translate polish day39_r_b_l_m_fucking_1cff20f3_1:
@@ -5636,7 +5636,7 @@ translate polish day39_r_b_l_m_fucking_1cff20f3_1:
 translate polish day39_r_b_l_m_fucking_3898649b_1:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wciskasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1560
 translate polish day39_r_b_l_m_fucking_8916675f:
@@ -5672,7 +5672,7 @@ translate polish day39_r_b_l_m_fucking_665a98a2:
 translate polish day39_r_b_l_m_fucking_af968b21:
 
     # "{i}Hastily, you get the attention of [l_name], who doesn't understand at first, but ultimately lets herself be guided towards you by her friends."
-    ""
+    "{i}Pośpiesznie przyciągasz uwagę [l_name], która początkowo nie rozumie, ale ostatecznie pozwala się poprowadzić w twoją stronę przez swoich przyjaciół."
 
 # game/day39.rpy:1582
 translate polish day39_r_b_l_m_fucking_ff783594_2:
@@ -5684,7 +5684,7 @@ translate polish day39_r_b_l_m_fucking_ff783594_2:
 translate polish day39_r_b_l_m_fucking_0431e345_2:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1587
 translate polish day39_r_b_l_m_fucking_1cff20f3_2:
@@ -5696,7 +5696,7 @@ translate polish day39_r_b_l_m_fucking_1cff20f3_2:
 translate polish day39_r_b_l_m_fucking_3898649b_2:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wciskasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1590
 translate polish day39_r_b_l_m_fucking_ee32b2dd:
@@ -5738,7 +5738,7 @@ translate polish day39_r_b_l_m_fucking_5414aa15:
 translate polish day39_r_b_l_m_fucking_0431e345_3:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1614
 translate polish day39_r_b_l_m_fucking_42133311:
@@ -5750,7 +5750,7 @@ translate polish day39_r_b_l_m_fucking_42133311:
 translate polish day39_r_b_l_m_fucking_3898649b_3:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wpychasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1617
 translate polish day39_r_b_l_m_fucking_f99a173d:
@@ -5888,7 +5888,7 @@ translate polish day39_r_b_l_m_fucking_d40f8304:
 translate polish day39_r_b_l_m_fucking_9d38c61d:
 
     # r "Are we allowed to sleep here in your bed, [m_name]?"
-    r ""
+    r "Czy możemy spać w twoim łóżku [m_name]?"
 
 # game/day39.rpy:1679
 translate polish day39_r_b_l_m_fucking_1f02834f:
@@ -5996,7 +5996,7 @@ translate polish day39_r_b_m_harem_5e1de085:
 translate polish day39_r_b_m_harem_37cb3d7a:
 
     # m "She's really eager, that [r_name] of ours, isn't she [p_name]?"
-    m ""
+    m "Ona jest naprawdę chętna do tego naszego [r_name], prawda [p_name]?."
 
 # game/day39.rpy:1708
 translate polish day39_r_b_m_harem_70ac45e8:
@@ -6020,13 +6020,13 @@ translate polish day39_r_b_m_harem_f97b30b7:
 translate polish day39_r_b_m_harem_39854653:
 
     # "{i}Your erection is already growing as [m_name] slowly undresses your girlfriend."
-    ""
+    "{i}Twoja erekcja już rośnie, gdy [m_name] powoli rozbiera twoją dziewczynę."
 
 # game/day39.rpy:1714
 translate polish day39_r_b_m_harem_4b79d7db:
 
     # "{i}[m_name]'s fingers eagerly touch [r_name]'s soft skin and she takes an obvious delight in stimulating the girl's nipples."
-    ""
+    "{i}[m_name] chętnie dotyka palcami miękkiej skóry [r_name] i czerpie oczywistą przyjemność ze stymulowania sutków dziewczyny."
 
 # game/day39.rpy:1715
 translate polish day39_r_b_m_harem_82d8df0b:
@@ -6098,7 +6098,7 @@ translate polish day39_r_b_m_harem_1bd8c2ca:
 translate polish day39_r_b_m_harem_39ba7a6d:
 
     # "{i}Without prompting the girls hug, while [m_name] undresses."
-    ""
+    "{i}Bez pytania dziewczyny przytulają się, podczas gdy [m_name] się rozbiera"
 
 # game/day39.rpy:1731
 translate polish day39_r_b_m_harem_b7e0519e:
@@ -6140,19 +6140,19 @@ translate polish day39_r_b_m_harem_4b11c0d7:
 translate polish day39_r_b_m_harem_598c60e9:
 
     # r "I'll show you how much I love you, [m_name]."
-    r ""
+    r "Pokażę ci, jak bardzo cię kocham [m_name]"
 
 # game/day39.rpy:1741
 translate polish day39_r_b_m_harem_216c2fcd:
 
     # "{i}[r_name] is visibly delighted by her lewd remark as [m_name] invitingly opens her legs and pushes the girl's head towards her pussy."
-    ""
+    "{i}[r_name] jest wyraźnie zachwycona swoją lubieżną uwagą, gdy [m_name] zachęcająco rozchyla nogi i popycha głowę dziewczyny w kierunku swojej cipki."
 
 # game/day39.rpy:1742
 translate polish day39_r_b_m_harem_96bae3c1:
 
     # "{i}Spurred by their passion and the sight of [r_name] eating [m_name] out, [b_name] touches her pussy while she looks at you and your hardening dick."
-    ""
+    "{i}Pobudzony ich namiętnością i widokiem [r_name] jedzącego [m_name] [b_name] dotyka jej cipki, podczas gdy ona patrzy na ciebie i twojego twardniejącego kutasa."
 
 # game/day39.rpy:1744
 translate polish day39_r_b_m_harem_28e3f4a7:
@@ -6170,7 +6170,7 @@ translate polish day39_r_b_m_harem_cf2df7f1:
 translate polish day39_r_b_m_harem_33a9ddf4:
 
     # "{i}[b_name]'s eager fingers plunge into her juicy cunt as you watch [r_name]'s buttocks rock softly on the rhythm [m_name]'s straddling legs dictate."
-    ""
+    "{i}Chętne palce [b_name] zanurzają się w jej soczystej cipie, gdy patrzysz, jak pośladki [r_name] kołyszą się miękko w rytm dyktowany przez nogi [m_name]."
 
 # game/day39.rpy:1749
 translate polish day39_r_b_m_harem_6321ee7c:
@@ -6188,7 +6188,7 @@ translate polish day39_r_b_m_harem_8fb054d1:
 translate polish day39_r_b_m_harem_bc695988:
 
     # r "Of course, [m_name]."
-    r ""
+    r "Oczywiście [m_name]"
 
 # game/day39.rpy:1754
 translate polish day39_r_b_m_harem_dcdea302:
@@ -6206,7 +6206,7 @@ translate polish day39_r_b_m_harem_19d6ad79:
 translate polish day39_r_b_m_harem_0b0f9df9:
 
     # "[r_name] kneels before you and grabs your cock, stroking it softly, while [b_name] kisses you and massages your balls."
-    ""
+    "[r_name] klęka przed tobą i chwyta twojego kutasa, głaszcząc go delikatnie, podczas gdy [b_name] całuje cię i masuje twoje jaja."
 
 # game/day39.rpy:1760
 translate polish day39_r_b_m_harem_7a75a40c:
@@ -6284,7 +6284,7 @@ translate polish day39_r_b_m_harem_47381039:
 translate polish day39_r_b_m_harem_64914419:
 
     # "{i}Your other girlfriend regards the scene with a hint of jealousy in their eyes, stroking her young breasts."
-    ""
+    "{i}Twoja druga dziewczyna przygląda się tej scenie z nutką zazdrości w oczach, głaszcząc swoje młode piersi."
 
 # game/day39.rpy:1778
 translate polish day39_r_b_m_harem_4e431749:
@@ -6326,7 +6326,7 @@ translate polish day39_r_b_m_fucking_79837e7c:
 translate polish day39_r_b_m_fucking_d74fb76d:
 
     # "{i}[r_name] has lodged her face between her friend's ass cheeks and touches [m_name]'s dripping pussy with her teasing tongue."
-    ""
+    "{i}[r_name] włożyła twarz między policzki swojej przyjaciółki i dotknęła ociekającej cipki [m_name] swoim drażniącym językiem."
 
 # game/day39.rpy:1794
 translate polish day39_r_b_m_fucking_bc1cffcf:
@@ -6350,7 +6350,7 @@ translate polish day39_r_b_m_fucking_367f87dc:
 translate polish day39_r_b_m_fucking_6e546910:
 
     # b "I know, I want him so much!"
-    b ""
+    b "Wiem, że tak bardzo go pragnę!"
 
 # game/day39.rpy:1800
 translate polish day39_r_b_m_fucking_dc83c465:
@@ -6380,7 +6380,7 @@ translate polish day39_r_b_m_fucking_a4bee0c4:
 translate polish day39_r_b_m_fucking_ad502a14:
 
     # "{i}[b_name]'s moans are suddenly muffled by her older friend, who's sitting on her face, her wet pussy firmly planted over her mouth."
-    ""
+    "{i}[b_name] jęki są nagle stłumione przez jej starszą koleżankę, która siedzi na jej twarzy, a jej mokra cipka jest mocno osadzona nad jej ustami."
 
 # game/day39.rpy:1810
 translate polish day39_r_b_m_fucking_6773df49:
@@ -6404,7 +6404,7 @@ translate polish day39_r_b_m_fucking_0b888f0d:
 translate polish day39_r_b_m_fucking_e05f5a7c:
 
     # "{i}[b_name]'s cries of delight are suddenly muffled by her older friend, who's sitting on her face, her wet pussy firmly planted over her mouth."
-    ""
+    "{i}[b_name] okrzyki rozkoszy zostają nagle stłumione przez jej starszą przyjaciółkę, która siedzi na jej twarzy, a jej mokra cipka jest mocno osadzona nad jej ustami."
 
 # game/day39.rpy:1816
 translate polish day39_r_b_m_fucking_d54df749:
@@ -6422,7 +6422,7 @@ translate polish day39_r_b_m_fucking_b65ce62f:
 translate polish day39_r_b_m_fucking_7bb6dfc9:
 
     # "{i}You feel eager hands touching you everywhere as you continue fucking your friend, her face slathered with [m_name]'s pussy juices."
-    ""
+    "{i}Czujesz chętne dłonie dotykające cię wszędzie, gdy kontynuujesz ruchanie swojej przyjaciółki, jej twarz jest spryskana sokami z cipki [m_name]."
 
 # game/day39.rpy:1824
 translate polish day39_r_b_m_fucking_b9a04405:
@@ -6440,7 +6440,7 @@ translate polish day39_r_b_m_fucking_653fab25:
 translate polish day39_r_b_m_fucking_9d5db495:
 
     # "{i}No one is surprised when you choose [r_name] and pull her upwards on all fours, while [b_name] presents her wet gash to her friend."
-    ""
+    "{i}Nikt nie jest zaskoczony, gdy wybierasz [r_name] i ciągniesz ją na czworakach do góry, podczas gdy [b_name] prezentuje swoją mokrą dziurę swojej przyjaciółce."
 
 # game/day39.rpy:1840
 translate polish day39_r_b_m_fucking_3718db60:
@@ -6452,7 +6452,7 @@ translate polish day39_r_b_m_fucking_3718db60:
 translate polish day39_r_b_m_fucking_8e0d219b:
 
     # "{i}You pull [r_name] upwards on all fours, while [b_name] presents her wet gash to her friend."
-    ""
+    "{i}Podciągasz [r_name] do góry na czworakach, podczas gdy [b_name] prezentuje swoją mokrą ranę przyjaciółce."
 
 # game/day39.rpy:1844
 translate polish day39_r_b_m_fucking_2f8403cf:
@@ -6470,13 +6470,13 @@ translate polish day39_r_b_m_fucking_8181d620:
 translate polish day39_r_b_m_fucking_a05acf4e:
 
     # "{i}As [r_name] starts to lap up all of [b_name]'s ejaculate, you begin to fuck your youngest girlfriend, just the way she likes it."
-    ""
+    "{i}Gdy [r_name] zaczyna wchłaniać cały wytrysk [b_name], zaczynasz pieprzyć swoją najmłodszą dziewczynę tak, jak lubi."
 
 # game/day39.rpy:1848
 translate polish day39_r_b_m_fucking_b501e6c5:
 
     # "{i}Meanwhile, [m_name] is taking care of herself, her fingers massaging her clit with powerful strokes."
-    ""
+    "{i}Tymczasem [m_name] zajmuje się sobą, jej palce masują jej łechtaczkę mocnymi pociągnięciami."
 
 # game/day39.rpy:1850
 translate polish day39_r_b_m_fucking_ea128af1:
@@ -6548,7 +6548,7 @@ translate polish day39_r_b_m_fucking_954121b9:
 translate polish day39_r_b_m_fucking_01ed7ec4:
 
     # "{i}[r_name] pleasures herself by fingering her tight slit."
-    ""
+    "{i}[r_name] sprawia sobie przyjemność, palcując swoją ciasną szczelinę"
 
 # game/day39.rpy:1878
 translate polish day39_r_b_m_fucking_4f680d67:
@@ -6560,7 +6560,7 @@ translate polish day39_r_b_m_fucking_4f680d67:
 translate polish day39_r_b_m_fucking_66e7ab49:
 
     # "{i}Lavishing yourself upon [b_name]'s juices while being pleasured by [m_name] feels like the pinnacle of pleasure, but more girls are waiting to be fucked."
-    ""
+    "{i}Delektowanie się sokami [b_name] podczas bycia rozpieszczanym przez [m_name] jest szczytem przyjemności, ale więcej dziewczyn czeka na rżnięcie."
 
 # game/day39.rpy:1887
 translate polish day39_r_b_m_fucking_f81ea5ee:
@@ -6590,7 +6590,7 @@ translate polish day39_r_b_m_fucking_ff783594:
 translate polish day39_r_b_m_fucking_0431e345:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1904
 translate polish day39_r_b_m_fucking_1cff20f3:
@@ -6602,7 +6602,7 @@ translate polish day39_r_b_m_fucking_1cff20f3:
 translate polish day39_r_b_m_fucking_3898649b:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wciskasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1907
 translate polish day39_r_b_m_fucking_5b6e7b72:
@@ -6650,7 +6650,7 @@ translate polish day39_r_b_m_fucking_ff783594_1:
 translate polish day39_r_b_m_fucking_0431e345_1:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1934
 translate polish day39_r_b_m_fucking_1cff20f3_1:
@@ -6662,7 +6662,7 @@ translate polish day39_r_b_m_fucking_1cff20f3_1:
 translate polish day39_r_b_m_fucking_3898649b_1:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wciskasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1937
 translate polish day39_r_b_m_fucking_8916675f:
@@ -6704,7 +6704,7 @@ translate polish day39_r_b_m_fucking_5414aa15:
 translate polish day39_r_b_m_fucking_0431e345_2:
 
     # "{i}Just one last powerful stroke and you unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Jeszcze tylko jedno potężne pociągnięcie i wyładujesz bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1961
 translate polish day39_r_b_m_fucking_42133311:
@@ -6716,7 +6716,7 @@ translate polish day39_r_b_m_fucking_42133311:
 translate polish day39_r_b_m_fucking_3898649b_2:
 
     # "{i}As you push your cock inside her again you already begin to unload a very generous amount of cum inside your girlfriend."
-    ""
+    "{i}Kiedy ponownie wciskasz w nią swojego kutasa, zaczynasz już wyładowywać bardzo dużą ilość spermy w swojej dziewczynie."
 
 # game/day39.rpy:1964
 translate polish day39_r_b_m_fucking_f99a173d:
@@ -6842,7 +6842,7 @@ translate polish day39_r_b_m_fucking_d40f8304:
 translate polish day39_r_b_m_fucking_9d38c61d:
 
     # r "Are we allowed to sleep here in your bed, [m_name]?"
-    r ""
+    r "Czy możemy spać w twoim łóżku [m_name]?"
 
 # game/day39.rpy:2023
 translate polish day39_r_b_m_fucking_1f02834f:
@@ -6893,4 +6893,300 @@ translate polish strings:
     # game/day39.rpy:866
     old "Clerk"
     new "Pracownica salonu"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day39.rpy:93
+translate polish day39_a973843c:
+
+    # "{i}You sneak out of [r_name]'s room and narrowly avoid [l_name], who enters the bathroom."
+    "{i}Wymykasz się z pokoju Rachel i o włos unikasz Lizy, która wchodzi do łazienki."
+
+# game/day39.rpy:125
+translate polish day39_b297521a:
+
+    # m "Tell them, [r_name]."
+    m "Powiedz im, Rachel."
+
+# game/day39.rpy:257
+translate polish day39_06546203:
+
+    # m "At first, I told myself it was temporary, a phase..."
+    m "Na początku mówiłam sobie, że to tymczasowe, taka faza..."
+
+# game/day39.rpy:269
+translate polish day39_6a505f8f:
+
+    # m "[p_name] visited me as a client, and those sessions rapidly became something I eagerly anticipated."
+    m "[p_name] odwiedził mnie jako klient i te sesje szybko stały się czymś, na co wyczekiwałam z niecierpliwością."
+
+# game/day39.rpy:270
+translate polish day39_40eb0fda:
+
+    # m "We had a connection, and when the truth came out about his identity, everything made sense."
+    m "Czułam między nami jakąś więź i kiedy prawda o jego tożsamości wyszła na jaw, wszystko nabrało sensu."
+
+# game/day39.rpy:278
+translate polish day39_414349ca:
+
+    # m "So yes, I love him, and it's a nasty surprise to find out I'm not the only one he loves."
+    m "Więc tak, kocham go i jest to przykra niespodzianka, dowiedzieć się, że nie jestem jedyną, którą kocha."
+
+# game/day39.rpy:385
+translate polish day39_5e8690c0:
+
+    # b "Yes we will."
+    b "Tak, zrobimy to"
+
+# game/day39.rpy:392
+translate polish day39_bfa56291_1:
+
+    # p "I hope I don't speak just for myself if I say that [b_name], [r_name] and I share something wonderful."
+    p "Mam nadzieję, że nie mówię tylko za siebie, jeśli powiem, że Bella, Rachel i ja dzielimy razem coś wspaniałego."
+
+# game/day39.rpy:420
+translate polish day39_0d53930c:
+
+    # l "[p_name] already told me about their arrangement, and I've decided I want to be part of it."
+    l "[p_name] powiedział mi już o waszym związku i zdecydowałam, że chcę być tego częścią."
+
+# game/day39.rpy:422
+translate polish day39_c3ee90b2:
+
+    # l "I'm happy with [p_name], and I don't want to lose that."
+    l "Jestem z nim szczęśliwa i nie chcę tego stracić."
+
+# game/day39.rpy:463
+translate polish day39_5e8690c0_1:
+
+    # b "Yes we will."
+    b "Tak, zrobimy to"
+
+# game/day39.rpy:505
+translate polish day39_9780e212:
+
+    # p "The fact is that I'm in love with [r_name], [b_name], [l_name] and [m_name], and that you all love me back."
+    p "Faktem jest, że jestem zakochany w Rachel, Belli, Lizie i Susan, i że wy wszystkie też mnie kochacie."
+
+# game/day39.rpy:507
+translate polish day39_c1b8e292:
+
+    # p "The fact is that I'm in love with [r_name], [b_name] and [m_name], and that you all love me back."
+    p "Faktem jest, że jestem zakochany w Rachel, Belli i Susan, i że wy wszystkie też mnie kochacie."
+
+# game/day39.rpy:509
+translate polish day39_45d186c6:
+
+    # p "The fact is that I'm in love with [r_name], [l_name] and [m_name], and that you all love me back."
+    p "Faktem jest, że jestem zakochany w Rachel, Lizie i Susan, i że wy wszystkie też mnie kochacie."
+
+# game/day39.rpy:538
+translate polish day39_341eb069:
+
+    # "{i}And with that, [b_name] marches out and leaves you to fend for yourselves."
+    "{i}Po tych słowach, Bella wychodzi i zostawia was samych."
+
+# game/day39.rpy:604
+translate polish day39_cb08f43c:
+
+    # m "But the only reason I'd keep you apart would be jealousy, and I'm not that kind of woman anymore."
+    m "Ale jedynym powodem, dla którego bym was rozdzieliła, byłaby zazdrość, a nie jestem już taką kobietą."
+
+# game/day39.rpy:644
+translate polish day39_06546203_1:
+
+    # m "At first, I told myself it was temporary, a phase..."
+    m "Na początku mówiłam sobie, że to tymczasowe, taka faza..."
+
+# game/day39.rpy:660
+translate polish day39_6a505f8f_1:
+
+    # m "[p_name] visited me as a client, and those sessions rapidly became something I eagerly anticipated."
+    m "[p_name] odwiedził mnie jako klient i te sesje szybko stały się czymś, na co wyczekiwałam z niecierpliwością."
+
+# game/day39.rpy:661
+translate polish day39_40eb0fda_1:
+
+    # m "We had a connection, and when the truth came out about his identity, everything made sense."
+    m "Czułam między nami jakąś więź i kiedy prawda o jego tożsamości wyszła na jaw, wszystko nabrało sensu."
+
+# game/day39.rpy:663
+translate polish day39_1d385bf0:
+
+    # l "I just found out I love [p_name], and I've never felt happier in my life..."
+    l "Niedawno zdałam sobie sprawę z tego, że go kocham i nigdy w życiu nie czułam się szczęśliwsza..."
+
+# game/day39.rpy:693
+translate polish day39_5e2473af:
+
+    # p "Yes, I can because I will never stop loving you, [l_name]."
+    p "Tak, mogę, ponieważ nigdy nie przestanę Cię kochać Liza."
+
+# game/day39.rpy:839
+translate polish day39_choices_10958b52:
+
+    # "{i}The kiss you share becomes increasingly more passionate, and your sister starts to moan softly."
+    "{i}Pocałunek, który dzielicie, staje się coraz bardziej namiętny, a Twoja siostra zaczyna cicho jęczeć."
+
+# game/day39.rpy:841
+translate polish day39_choices_d92fdbdd:
+
+    # "{i}The kiss you share becomes increasingly more passionate, and your girlfriend starts to moan softly."
+    "{i}Pocałunek staje się coraz bardziej namiętny, a dziewczyna zaczyna cicho jęczeć."
+
+# game/day39.rpy:898
+translate polish day39_choices_5eb9ca5c:
+
+    # b "Now stop teasing me, because there's no way I'll get to wear a dress like that, and this is the next best thing."
+    b "A teraz przestań się ze mną drażnić, bo nie ma mowy, żebym kiedyś założyła taką sukienkę, więc to jedyne na co mogę sobie pozwolić."
+
+# game/day39.rpy:901
+translate polish day39_choices_2a878be1:
+
+    # "{i}[b_name] lets herself be willingly dragged along to the mall, where you stop in front of a shop."
+    "{i}Bella chętnie daje się zaciągnąć do centrum handlowego, gdzie zatrzymujesz się przed sklepem."
+
+# game/day39.rpy:1139
+translate polish day39_choices_a394f2f6:
+
+    # er "And if it turns out to be nothing, I'd still like to discuss the feelings you're having."
+    er "A jeśli okaże się, że to nic, nadal chciałabym porozmawiać o Twoich uczuciach."
+
+# game/day39.rpy:1294
+translate polish day39_r_b_l_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Czy [b_name] jest uległy w tej scenie?."
+
+# game/day39.rpy:1300
+translate polish day39_r_b_l_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day39.rpy:1304
+translate polish day39_r_b_l_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day39.rpy:1307
+translate polish day39_r_b_l_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day39.rpy:1312
+translate polish day39_r_b_l_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] nie jest uległy"
+
+# game/day39.rpy:1528
+translate polish day39_r_b_l_m_fucking_7bb6dfc9:
+
+    # "{i}You feel eager hands touching you everywhere as you continue fucking your friend, her face slathered with [m_name]'s pussy juices."
+    "{i}Czujesz chętne dłonie dotykające cię wszędzie, gdy kontynuujesz ruchanie swojej przyjaciółki, jej twarz jest spryskana sokami z cipki [m_name]."
+
+# game/day39.rpy:1604
+translate polish day39_r_b_l_m_fucking_117b4d73:
+
+    # "{i}In a delirious haze, you fuck [l_name], who manages to moan intensely while tongue-kissing her youngest friend."
+    "{i}W delirycznym zamroczeniu pieprzysz się z [l_name], której udaje się intensywnie jęczeć podczas całowania językiem swojej najmłodszej przyjaciółki."
+
+# game/day39.rpy:1935
+translate polish day39_r_b_l_m_fucking_c9ef9231:
+
+    # b "Neither have I..."
+    b "Ani ja"
+
+# game/day39.rpy:1938
+translate polish day39_r_b_l_m_fucking_2f0a9a32:
+
+    # l "Neither have I..."
+    l "Ani ja"
+
+# game/day39.rpy:1947
+translate polish day39_r_b_l_m_fucking_78773dcd:
+
+    # "{i}After a wealth of good night kisses, the girls all find a place on the bed and you all fall asleep."
+    "{i}Po mnóstwie pocałunków na dobranoc, wszystkie dziewczyny znajdują sobie miejsce na łóżku i wszyscy zasypiacie."
+
+# game/day39.rpy:1960
+translate polish day39_r_b_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Czy [b_name] jest uległy w tej scenie?."
+
+# game/day39.rpy:1966
+translate polish day39_r_b_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day39.rpy:1970
+translate polish day39_r_b_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day39.rpy:1973
+translate polish day39_r_b_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day39.rpy:1978
+translate polish day39_r_b_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] nie jest uległy"
+
+# game/day39.rpy:1992
+translate polish day39_r_b_m_harem_8d01924b:
+
+    # "{i}You all know what you're about to do, and the anticipation is making everyone a little nervous."
+    "{i}Wszyscy wiecie, co zamierzacie zrobić, a to oczekiwanie sprawia, że ​​wszyscy są trochę nerwowi."
+
+# game/day39.rpy:2006
+translate polish day39_r_b_m_harem_47f0c0c2:
+
+    # "{i}Your erection is already growing as your mother slowly undresses her daughter."
+    "{i}Twoja erekcja już rośnie, kiedy Twoja matka powoli rozbiera swoją córkę."
+
+# game/day39.rpy:2017
+translate polish day39_r_b_m_harem_e5d1c32c:
+
+    # "{i}Both you and [r_name] look at the sexually charged performance with bated breath."
+    "{i}Zarówno ty, jak i [r_name] z zapartym tchem przyglądacie się naładowanemu seksualnie występowi."
+
+# game/day39.rpy:2088
+translate polish day39_r_b_m_harem_062f3f2c:
+
+    # "{i}Your youngest sister regards the scene with a hint of jealousy in her eyes, stroking her supple breasts."
+    "{i}Twoja najmłodsza siostra przygląda się tej scenie z nutką zazdrości w oczach, głaszcząc swoje jędrne piersi."
+
+# game/day39.rpy:2090
+translate polish day39_r_b_m_harem_6771dff3:
+
+    # "{i}Your other girlfriend regards the scene with a hint of jealousy in her eyes, stroking her young breasts."
+    "{i}Twoja druga dziewczyna przygląda się tej scenie z nutką zazdrości w oczach, głaszcząc swoje młode piersi."
+
+# game/day39.rpy:2120
+translate polish day39_r_b_m_fucking_2784f764:
+
+    # b "I know, [m_name], I want him so much!"
+    b "Wiem, że [m_name] tak bardzo go pragnę!."
+
+# game/day39.rpy:2461
+translate polish day39_r_b_m_fucking_c9ef9231:
+
+    # b "Neither have I..."
+    b "Ani ja"
+
+# game/day39.rpy:2464
+translate polish day39_r_b_m_fucking_3d5a6bf4:
+
+    # r "Neither have I..."
+    r "Ani ja"
 

@@ -128,7 +128,7 @@ translate polish day28_choices_f60fb0b1:
 translate polish day28_choices_49a3866b:
 
     # # # "{i}You sit on a bench in a secluded spot of the park. Mrs. Smith is obviously struggling to broach the subject that's hanging in the air."
-    ""
+      "Siedzicie na ławce w ustronnym miejscu parku, pani Smith najwyraźniej ma trudności z poruszeniem tematu, który wisi w powietrzu."
 
 # game/day28.rpy:64
 translate polish day28_choices_ab0d6a39:
@@ -266,7 +266,7 @@ translate polish day28_choices_87ff81db:
 translate polish day28_choices_b3eb8316:
 
     # # # "{i}You pull her closer and caress her lips with yours. She opens her mouth to allow your tongues to explore eagerly."
-    ""
+      "{i} Przyciągasz ją bliżej i pieścisz jej usta swoimi, a ona otwiera usta, by pozwolić twoim językom na ochoczą eksplorację."
 
 # game/day28.rpy:100
 translate polish day28_choices_d834130f:
@@ -488,7 +488,7 @@ translate polish day28_choices_af9f3be1:
 translate polish day28_choices_79409c04:
 
     # # # m "You have to be careful not to wake the girls."
-    m ""
+      m "Musisz uważać, żeby nie obudzić dziewczynek"
 
 # game/day28.rpy:153
 translate polish day28_choices_edc24d98:
@@ -524,7 +524,7 @@ translate polish day28_choices_6b3420c2:
 translate polish day28_choices_914e22d0:
 
     # # # "{i}[m_name] grabs your hand and leads you out of the park."
-    ""
+      "{i}[m_name] chwyta cię za rękę i wyprowadza z parku."
 
 # game/day28.rpy:165
 translate polish day28_choices_ab30a64d:
@@ -2456,7 +2456,7 @@ translate polish day28_m_room_2e447cc0:
 translate polish day28_m_room_ce8bf891:
 
     # "{i}Your eyes drink in the sight of your friend's voluptuous body as she spins around to show you all of it."
-    ""
+    "{i}Twoje oczy chłoną widok zmysłowego ciała twojej przyjaciółki, gdy obraca się, by pokazać ci wszystko."
 
 # game/day28.rpy:710
 translate polish day28_m_room_b408ef21:
@@ -2660,7 +2660,7 @@ translate polish day28_m_room_704bb4dc:
 translate polish day28_m_room_73d4fbdd:
 
     # # # "{i}Her hand expertly massages your cock as you turn your attention to your friend's large breasts."
-    ""
+      "Jej dłoń fachowo masuje twojego kutasa, podczas gdy ty zwracasz uwagę na duże piersi swojej przyjaciółki."
 
 # game/day28.rpy:758
 translate polish day28_m_room_28f83ebb:
@@ -2708,7 +2708,7 @@ translate polish day28_m_room_2653304a:
 translate polish day28_m_room_1ebb7675:
 
     # # # m "I want your cum so bad!"
-    m ""
+      m "Tak bardzo chcę twojej spermy!"
 
 # game/day28.rpy:771
 translate polish day28_m_room_0e1cfcbb:
@@ -2720,7 +2720,7 @@ translate polish day28_m_room_0e1cfcbb:
 translate polish day28_m_room_b1575f96:
 
     # # # "{i}[m_name] knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
-    ""
+      "{i}[m_name] wie, jak długo masować twojego kutasa, dojąc cię z całego twojego nasienia, gdy tryska z twojej żołędzi w dużych, gwałtownych sprayach, które rozpryskują się po jej rękach i brzuchu."
 
 # game/day28.rpy:774
 translate polish day28_m_room_e5dba7f6:
@@ -2918,7 +2918,7 @@ translate polish day28_b_room_d120a342:
 translate polish day28_b_room_c2bc24ea:
 
     # # # b "Shit [l_name], that didn't come out right."
-    b ""
+      b "Cholera [l_name], to nie wyszło dobrze"
 
 # game/day28.rpy:821
 translate polish day28_b_room_9bd4d48c:
@@ -3020,7 +3020,7 @@ translate polish day28_b_room_b322d7e5:
 translate polish day28_b_room_64d1bc7d:
 
     # # # b "I masturbate when I feel like it, [r_name] does it and I'm sure Mrs. Smith does as well."
-    b ""
+      b "Masturbuję się, kiedy mam na to ochotę, [r_name] to robi i jestem pewien, że pani Smith również."
 
 # game/day28.rpy:842
 translate polish day28_b_room_8dd75397:
@@ -3068,7 +3068,7 @@ translate polish day28_b_room_57f9f0d2:
 translate polish day28_b_room_1d5af2b7:
 
     # # # b "Don't fret over it. Good friends can talk about these things."
-    b ""
+      b "Nie przejmuj się tym. Dobrzy przyjaciele potrafią rozmawiać o takich rzeczach."
 
 # game/day28.rpy:854
 translate polish day28_b_room_e0da8a2f:
@@ -3236,7 +3236,7 @@ translate polish day28_b_room_3ae7361e:
 translate polish day28_b_room_a17afaa9:
 
     # # # l "That means a lot, [b_name]."
-    l ""
+      l "To wiele znaczy [b_name]"
 
 # game/day28.rpy:888
 translate polish day28_b_room_18c9ef6c:
@@ -3392,7 +3392,7 @@ translate polish day28_al_visit_a4eed120:
 translate polish day28_al_visit_35e08328:
 
     # # # "{i}From the corner of your eye, you see your friend looking out of the window."
-    ""
+      "Kątem oka widzisz swojego przyjaciela wyglądającego przez okno"
 
 # game/day28.rpy:939
 translate polish day28_al_visit_a1591a42:
@@ -3578,7 +3578,7 @@ translate polish day28_al_visit_a4eed120_1:
 translate polish day28_al_visit_35e08328_1:
 
     # # # "{i}From the corner of your eye, you see your friend looking out of the window."
-    ""
+      "Kątem oka widzisz swojego przyjaciela wyglądającego przez okno"
 
 # game/day28.rpy:1001
 translate polish day28_al_visit_a1591a42_1:
@@ -3998,7 +3998,7 @@ translate polish day28_a_k_visit_f55cf134:
 translate polish day28_a_k_visit_fd068653:
 
     # # # "{i}The girls slip out of their clothes and parade their naked bodies in front of you."
-    ""
+      "Dziewczyny zdejmują ubrania i paradują przed tobą ze swoimi nagimi ciałami."
 
 # game/day28.rpy:1120
 translate polish day28_a_k_visit_8f41ce2e:
@@ -4076,7 +4076,7 @@ translate polish day28_a_k_visit_142c2b4a:
 translate polish day28_a_k_visit_d1399a26:
 
     # # # "{i}You allow Kira to guide your cock into her pussy, Ana alternates between stimulating you and taking care of the hard nipples of her friend's petite breasts."
-    ""
+      "Pozwalasz Kirze wprowadzić twojego kutasa do jej cipki, Ana na przemian stymuluje cię i zajmuje się twardymi sutkami drobnych piersi swojej przyjaciółki."
 
 # game/day28.rpy:1139
 translate polish day28_a_k_visit_634ae4d5:
@@ -4142,7 +4142,7 @@ translate polish day28_a_k_visit_450209fe:
 translate polish day28_a_k_visit_7748bdb3:
 
     # # # "{i}As you orgasm in Kira, her friend is stimulating her clitoris with her tongue, lapping up any cum that leaks from the girl's vagina and causing Kira to climax as well."
-    ""
+      "Gdy ty osiągasz orgazm w Kirze, jej przyjaciółka stymuluje łechtaczkę językiem, zbierając spermę, która wycieka z pochwy dziewczyny i powodując, że Kira również osiąga punkt kulminacyjny."
 
 # game/day28.rpy:1159
 translate polish day28_a_k_visit_39b849af:
@@ -4166,7 +4166,7 @@ translate polish day28_a_k_visit_804abe23:
 translate polish day28_a_k_visit_62e7bbe5:
 
     # # # "{i}As your orgasm nears, you pull Kira off your cock and let both girls kneel in front of you."
-    ""
+      "Gdy zbliża się twój orgazm, ściągasz Kirę ze swojego kutasa i pozwalasz obu dziewczynom uklęknąć przed tobą."
 
 # game/day28.rpy:1171
 translate polish day28_a_k_visit_d9bd9bed:
@@ -4334,7 +4334,7 @@ translate polish day28_a_k_visit_f55cf134_1:
 translate polish day28_a_k_visit_fd068653_1:
 
     # # # "{i}The girls slip out of their clothes and parade their naked bodies in front of you."
-    ""
+      "Dziewczyny zdejmują ubrania i paradują przed tobą ze swoimi nagimi ciałami."
 
 # game/day28.rpy:1214
 translate polish day28_a_k_visit_b1e3d6e7:
@@ -4442,7 +4442,7 @@ translate polish day28_a_k_visit_b98b93c0:
 translate polish day28_a_k_visit_a8bcfbf7:
 
     # # # "{i}James allows Kira to guide his cock in her pussy. Ana does the same with yours, while you take care of her hard nipples."
-    ""
+      "James pozwala Kirze wprowadzić swojego kutasa do jej cipki, Ana robi to samo z twoim, podczas gdy ty zajmujesz się jej twardymi sutkami."
 
 # game/day28.rpy:1238
 translate polish day28_a_k_visit_6b73d6ee:
@@ -4694,7 +4694,7 @@ translate polish day28_a_k_visit_f55cf134_2:
 translate polish day28_a_k_visit_fd068653_2:
 
     # # # "{i}The girls slip out of their clothes and parade their naked bodies in front of you."
-    ""
+      "Dziewczyny zdejmują ubrania i paradują przed tobą ze swoimi nagimi ciałami."
 
 # game/day28.rpy:1308
 translate polish day28_a_k_visit_b1e3d6e7_1:
@@ -4988,7 +4988,7 @@ translate polish day28_r_visit_c124d9ce:
 translate polish day28_r_visit_35206856:
 
     # # # "{i}Your girl unclasps her bra and crawls on top of you. A boner is already growing in your boxers."
-    ""
+      "Twoja dziewczyna rozpina stanik i wczołguje się na ciebie, a w twoich bokserkach już rośnie ci penis."
 
 # game/day28.rpy:1393
 translate polish day28_r_visit_b00612bf:
@@ -5150,7 +5150,7 @@ translate polish day28_r_visit_627b9b54:
 translate polish day28_r_visit_c96533da:
 
     # # # "{i}You have a feeling she wants to scream in rapture, but your friend moans between clenched teeth instead."
-    ""
+      "{i} Masz wrażenie, że chce krzyczeć z zachwytu, ale zamiast tego twoja przyjaciółka jęczy między zaciśniętymi zębami."
 
 # game/day28.rpy:1429
 translate polish day28_r_visit_c6c29213:
@@ -5192,7 +5192,7 @@ translate polish day28_r_visit_71fc074f:
 translate polish day28_r_visit_9a0e25b4:
 
     # # # "{i}Your girl rides you with an intensity that surprises even herself and you lose yourself in her big green eyes as your cock begins to spurt thick streams of cum inside her."
-    ""
+      "Twoja dziewczyna ujeżdża cię z intensywnością, która zaskakuje nawet ją samą, a ty zatracasz się w jej dużych zielonych oczach, gdy twój kutas zaczyna tryskać gęstymi strumieniami spermy w jej wnętrzu."
 
 # game/day28.rpy:1445
 translate polish day28_r_visit_f63daed5:
@@ -5234,7 +5234,7 @@ translate polish day28_r_visit_5154f221:
 translate polish day28_r_visit_9b8f2688:
 
     # # # "{i}Your girl rides you with an intensity that surprises even her and you lose yourself in her big green eyes."
-    ""
+      "Twoja dziewczyna ujeżdża cię z intensywnością, która zaskakuje nawet ją samą, a ty zatracasz się w jej wielkich zielonych oczach."
 
 # game/day28.rpy:1462
 translate polish day28_r_visit_6f470f2d:
@@ -5303,4 +5303,622 @@ translate polish strings:
     # game/day28.rpy:598
     old "Go with her"
     new "Idź z nią"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day28.rpy:137
+translate polish day28_choices_698a924f:
+
+    # p "Perfection from your long, soft legs, to the beautiful curves of your hips and the magnificent swell of your bosom."
+    p "Perfekcja, od długich, miękkich nóg po piękne krągłości bioder i wspaniały biust."
+
+# game/day28.rpy:148
+translate polish day28_choices_e7a48840:
+
+    # m "Don't be afraid, I can handle a compliment, and I'm well at ease with my body."
+    m "Nie bój się, jestem w stanie przyjąć komplement i jestem świadoma swojego ciała."
+
+# game/day28.rpy:165
+translate polish day28_choices_00dc541c:
+
+    # m "Hmmm. Well, in that case, we should go right now."
+    m "Hmmm, w takim razie powinniśmy pójść już teraz."
+
+# game/day28.rpy:229
+translate polish day28_evening_choices_738f6431:
+
+    # p "Errr, she's standing right next to you, Ana."
+    p "Emmm, ona stoi tuż obok Ciebie Ana."
+
+# game/day28.rpy:244
+translate polish day28_evening_choices_9abaf252:
+
+    # "{i}After finishing the pizzas, Ana and Kira get drinks from the fridge, and you follow the girls upstairs."
+    "{i}Po skończeniu pizzy, Ana i Kira wyciągają napoje z lodówki i idziecie z dziewczynami na górę."
+
+# game/day28.rpy:259
+translate polish day28_evening_choices_96111def:
+
+    # j "Well, there are lot of ladies in the house, and they make a lot of noise."
+    j "No cóż, w domu jest mnóstwo dziewczyn i robią sporo hałasu."
+
+# game/day28.rpy:286
+translate polish day28_evening_choices_98a73271:
+
+    # a "The booze is in the fridge, and we're going to order pizza later this evening."
+    a "Alko jest w lodówce, a później zamówimy pizzę."
+
+# game/day28.rpy:343
+translate polish day28_evening_choices_a2507dc8:
+
+    # j "One night she came to my room and just laid down next to me, and when her hands dipped beneath the sheets, I knew I was in heaven."
+    j "Pewnej nocy przyszła do mojego pokoju i po prostu położyła się obok mnie, a kiedy jej ręce zanurzyły się pod prześcieradłem, wiedziałem, że jestem w niebie."
+
+# game/day28.rpy:373
+translate polish day28_evening_choices_c37493ca:
+
+    # a "You're interested all of a sudden, [r_name]."
+    a "Nagle Cię to interesuje Rachel?"
+
+# game/day28.rpy:413
+translate polish day28_evening_choices_823dd9a9:
+
+    # p "If she wants to sit on your lap, I won't interfere."
+    p "Jeśli zechce usiąść Ci na kolanach, to nie będę się wtrącał."
+
+# game/day28.rpy:440
+translate polish day28_evening_choices_5fc0eb37:
+
+    # j "Fair enough."
+    j "W porządku"
+
+# game/day28.rpy:469
+translate polish day28_evening_choices_e50d2834:
+
+    # p "James was really busy yelling at the screen because his character died within seconds every time he respawned. So he failed to mention that."
+    p "James był zbyt zajęty wydzieraniem się na ekran, bo jego postać ginęła zwykle od razu po odrodzeniu. Więc zapomniał o tym wspomnieć."
+
+# game/day28.rpy:477
+translate polish day28_evening_choices_7d1c7bd8:
+
+    # ki "Yes, it's one of the things I'm moderately good at."
+    ki "Tak, to jedna z rzeczy, w których jestem w miarę dobra."
+
+# game/day28.rpy:481
+translate polish day28_evening_choices_f5cd1fb0:
+
+    # a "There's a bottle of that liqueur you like waiting for you in the fridge as a reward."
+    a "W lodówce czeka na Ciebie butelka Twojego ulubionego alko w ramach nagrody."
+
+# game/day28.rpy:553
+translate polish day28_evening_choices_71d17bed:
+
+    # j "Good night, man."
+    j "Dobrej nocy stary."
+
+# game/day28.rpy:554
+translate polish day28_evening_choices_09020a2d:
+
+    # p "Night, James."
+    p "Branoc James."
+
+# game/day28.rpy:595
+translate polish day28_al_visit_post_7e66d609:
+
+    # "{i}James is still asleep when you return, you sneak under the sheets, and try to fall asleep."
+    "{i}James dalej śpi kiedy wracasz, wślizgujesz się po kołdrę i próbujesz zasnąć."
+
+# game/day28.rpy:645
+translate polish day28_visits_post_26518421:
+
+    # "{i}The mattress you still haven't slept on is waiting for you and feels cold to the touch."
+    "{i}Materac, na którym jeszcze nie miałeś okazji zasnąć, czeka na Ciebie i jest chłodny w dotyku."
+
+# game/day28.rpy:651
+translate polish day28_visits_post_011e192c:
+
+    # "{i}His snoring is infectious, and your eyelids become heavy as well."
+    "{i}Jego chrapanie jest zaraźliwe i Twoje powieki też robią się ciężkie."
+
+# game/day28.rpy:718
+translate polish day28_m_room_8f920773:
+
+    # "{i}Your mother asks you to wait downstairs for a few minutes before coming up to her room."
+    "{i}Twoja mama prosi Cię, żebyś poczekał przez chwilę na dole, przed wejściem do jej pokoju."
+
+# game/day28.rpy:720
+translate polish day28_m_room_11854702:
+
+    # "{i}[m_name] asks you to wait downstairs for a few minutes before coming up to her room."
+    "{i}[m_name] prosi o poczekanie na dole przez kilka minut przed przyjściem do jej pokoju."
+
+# game/day28.rpy:826
+translate polish day28_b_room_be65ea5e:
+
+    # l "Thanks [b_name], that's good advice."
+    l "Dzięki Bella, to dobra rada."
+
+# game/day28.rpy:883
+translate polish day28_al_visit_374f522b:
+
+    # "{i}The girl has a hard time keeping quiet as you fuck her. Her back is chafing on the rough stone of the wall, and her nails dig into your flesh."
+    "{i}Kiedy ją ruchasz, dziewczyna z trudem tłumi jęki. Jej plecy ocierają się o szorstki kamień ściany, a jej paznokcie wbijają się w Twoją skórę."
+
+# game/day28.rpy:975
+translate polish day28_al_visit_b5c88e10:
+
+    # "{i}The girl has a hard time keeping quiet as you fuck her. Her hands are chafing on the rough stone of the wall, and her small breasts bounce on the rhythm of your thrusts."
+    "{i}Kiedy ją ruchasz, dziewczyna z trudem tłumi jęki. Jej dłonie ocierają się o szorstki kamień ściany, a jej małe piersi podskakują w rytm Twoich pchnięć."
+
+# game/day28.rpy:1068
+translate polish day28_a_k_visit_ac2723e1:
+
+    # "Does James participate in this scene?"
+    "Czy James bierze udział w tej scenie?"
+
+# game/day28.rpy:1073
+translate polish day28_a_k_visit_5ff59d32:
+
+    # "James participates"
+    "James bierze udział"
+
+# game/day28.rpy:1077
+translate polish day28_a_k_visit_a765de49:
+
+    # "James doesn't participate"
+    "James nie bierze w tym udziału"
+
+# game/day28.rpy:1080
+translate polish day28_a_k_visit_fdf5d5f7:
+
+    # "Do you want to fuck Kira or Ana?"
+    "Chcesz pieprzyć Kirę czy Anę?"
+
+# game/day28.rpy:1086
+translate polish day28_a_k_visit_79562e41:
+
+    # "Fucking Kira"
+    "Pieprzona Kira"
+
+# game/day28.rpy:1091
+translate polish day28_a_k_visit_c91717d3:
+
+    # "Fucking Ana"
+    "Pieprzona Ana"
+
+# game/day28.rpy:1143
+translate polish day28_a_k_visit_e862bbd8:
+
+    # "{i}Ana keeps pouring drinks, and the conversation with the girls increasingly devolves into giggling."
+    "{i}Ana ciągle nalewa drinki, a rozmowa z dziewczynami coraz bardziej zamienia się w chichot."
+
+# game/day28.rpy:1163
+translate polish day28_a_k_visit_e260062e:
+
+    # "{i}The girls have edged closer to you, Kira trails your chest with a teasing finger, and Ana grinds her pussy on your thigh."
+    "{i}Dziewczyny przysuwają się do Ciebie, Kira śledzi palcem po Twojej klatce, a Ana zaczyna ocierać się cipką o Twoje udo."
+
+# game/day28.rpy:1364
+translate polish day28_a_k_visit_8eea23db:
+
+    # "{i}James doesn't last long and makes a real mess of himself, the couch and Kira's gaping pussy. They both lie limp in each other's arms while you're still going at it with Ana."
+    "{i}James nie trwa długo i robi prawdziwy bałagan z siebie, kanapy i rozdziawionej cipki Kiry. Oboje leżą bezwładnie w swoich ramionach, podczas gdy ty wciąż robisz to z Aną."
+
+# game/day28.rpy:1397
+translate polish day28_a_k_visit_f1b68444:
+
+    # "{i}As your orgasm nears, you pull Ana off your cock and let her kneel in front of you."
+    "{i}Gdy zbliża się twój orgazm, odciągnij Anę od swojego kutasa i pozwól jej uklęknąć przed tobą."
+
+# game/day28.rpy:1480
+translate polish day28_a_k_visit_e7055e6d:
+
+    # "{i}You hear Ana fervently sucking on James's thick cock and making him struggle not to climax early in his sister's mouth."
+    "{i}Słyszysz, jak Ana żarliwie ssie grubego kutasa Jamesa i sprawia, że walczy on, by nie dojść przedwcześnie w ustach swojej siostry."
+
+# game/day28.rpy:1507
+translate polish day28_a_k_visit_2dd90753:
+
+    # "{i}James doesn't last long and makes a real mess of himself, the couch and Ana's gaping pussy. They both lie limp in each other's arms while you're still going at it with Kira, who is moaning with pleasure."
+    "{i}James nie trwa długo i robi prawdziwy bałagan na kanapie i rozdziawionej cipce Any. Oboje leżą bezwładnie w swoich ramionach, podczas gdy ty nadal robisz to z Kirą, która jęczy z przyjemności."
+
+# game/day28.rpy:1549
+translate polish day28_a_k_visit_c8bf8870_1:
+
+    # "{i}The girl fingers herself as you shoot a fountain of cum on her face and open mouth."
+    "{i}Dziewczyna robi sobie dobrze palcami, kiedy wybuchasz fontanną nasienia na jej twarz i do jej otwartych ust."
+
+# game/day28.rpy:1601
+translate polish day28_r_visit_6988ce61:
+
+    # "{i}The sight of her perky breasts makes you forget everything that's around you. At first, you kept an eye on the sleeping form of James, but now you only have eyes for her."
+    "{i}Widok jej sterczących cycuszków sprawia, że całkowicie zapominasz gdzie się znajdujesz. Z początku zerkasz kątem oka na Jamesa, ale teraz jesteś w stanie patrzeć już tylko na nią."
+
+# game/day28.rpy:1610
+translate polish day28_r_visit_f39bfeec:
+
+    # r "First, I'm going to make you feel good with my mouth."
+    r "Najpierw zrobię Ci dobrze moimi ustami."
+
+# game/day28.rpy:1635
+translate polish day28_r_visit_1fffdf51:
+
+    # "{i}Reassured, [r_name] slowly starts to fuck you. With each thrust, she becomes more sure of herself and pretty soon she's grinding on your cock, searching for ultimate pleasure."
+    "{i}Uspokojona, Rachel zaczyna Cię powoli posuwać. Z każdym kolejnym ruchem staje się coraz pewniejsza siebie i wkrótce zaczyna Cię już ujeżdżać, szukając jak największej rozkoszy."
+
+# game/day28.rpy:1648
+translate polish day28_r_visit_b6629d5c:
+
+    # "{i}Her orgasm lasts for some time, and you have to take over the rhythm you've established as [r_name] convulses on your cock."
+    "{i}Jej orgazm trwa przez jakiś czas i musisz przejąć kontrolę nad waszymi ruchami, podczas gdy jej cipka zaciska się na Twoim fiucie."
+
+# game/day28.rpy:1671
+translate polish day28_r_visit_6d0bddcf:
+
+    # "{i}Your sister rides you with an intensity that surprises even herself, and you lose yourself in her big green eyes as your cock begins to spurt thick streams of cum inside her."
+    "{i}Twoja siostra ujeżdża Cię z intensywnością, która zaskakuje nawet ją i zatracasz się w jej wielkich, zielonych oczach, kiedy Twój penis zaczyna wpompowywać w nią gęste strumienie Twojej spermy."
+
+# game/day28.rpy:1673
+translate polish day28_r_visit_3cd86932:
+
+    # "{i}Your girl rides you with an intensity that surprises even herself, and you lose yourself in her big green eyes as your cock begins to spurt thick streams of cum inside her."
+    "{i}Twoja dziewczyna ujeżdża cię z intensywnością, która zaskakuje nawet ją samą, a ty zatracasz się w jej dużych zielonych oczach, gdy twój kutas zaczyna tryskać gęstymi strumieniami spermy w jej wnętrzu."
+
+# game/day28.rpy:1695
+translate polish day28_r_visit_9b029e5f:
+
+    # "{i}Your sister rides you with an intensity that surprises even her, and you lose yourself in her big green eyes."
+    "{i}Twoja siostra ujeżdża Cię z intensywnością, która zaskakuje nawet ją i zatracasz się w jej wielkich, zielonych oczach."
+
+# game/day28.rpy:1697
+translate polish day28_r_visit_07e0e0a5:
+
+    # "{i}Your girl rides you with an intensity that surprises even her, and you lose yourself in her big green eyes."
+    "{i}Twoja dziewczyna ujeżdża cię z intensywnością, która zaskakuje nawet ją, a ty zatracasz się w jej dużych zielonych oczach."
+
+# game/day28.rpy:1698
+translate polish day28_r_visit_b32cee73:
+
+    # "{i}Sensing you're close, [r_name] lets your cock slip out of her and directs the thick spurts of semen toward her body."
+    "{i}Wyczuwając, że jesteś blisko [r_name] pozwala swojemu kutasowi wysunąć się z niej i kieruje grube strugi nasienia w stronę jej ciała."
+
+# game/day28.rpy:1725
+translate polish day28_m_handjob_0599a445:
+
+    # m "Hey."
+    m "Hej."
+
+# game/day28.rpy:1729
+translate polish day28_m_handjob_87f3e913:
+
+    # p "Wow."
+    p "Wow."
+
+# game/day28.rpy:1730
+translate polish day28_m_handjob_013cdcf8:
+
+    # m "How do you like me?"
+    m "Jak Ci się podobam?"
+
+# game/day28.rpy:1731
+translate polish day28_m_handjob_e6a41c12:
+
+    # p "You're perfect."
+    p "Jesteś idealna."
+
+# game/day28.rpy:1737
+translate polish day28_m_handjob_2e447cc0:
+
+    # "{i}Your eyes drink in the sight of your mother's voluptuous body as she spins around to show you all of it."
+    "{i}Napawasz wzrok widokiem zmysłowego ciała swojej matki, kiedy obraca się dla Ciebie, aby w pełni Ci je zaprezentować."
+
+# game/day28.rpy:1739
+translate polish day28_m_handjob_ce8bf891:
+
+    # "{i}Your eyes drink in the sight of your friend's voluptuous body as she spins around to show you all of it."
+    "{i}Twoje oczy chłoną widok zmysłowego ciała twojej przyjaciółki, gdy obraca się, by pokazać ci wszystko."
+
+# game/day28.rpy:1740
+translate polish day28_m_handjob_b408ef21:
+
+    # m "Why don't you come to bed?"
+    m "Może przyjdziesz do łóżka?"
+
+# game/day28.rpy:1741
+translate polish day28_m_handjob_ce1766ef:
+
+    # "{i}[m_name] is obviously checking you out as well, her eyes trailing over every inch."
+    "{i}Susan też wyraźnie Cię sobie ogląda, jej wzrok ślizga się po całym Twoim ciele."
+
+# game/day28.rpy:1742
+translate polish day28_m_handjob_71651c93:
+
+    # p "Right!"
+    p "Oczywiście!"
+
+# game/day28.rpy:1744
+translate polish day28_m_handjob_422bd8af:
+
+    # m "So tell me."
+    m "No to powiedz mi."
+
+# game/day28.rpy:1745
+translate polish day28_m_handjob_62653cdb:
+
+    # m "What is it with you and women like me?"
+    m "O co chodzi z Tobą i kobietami takimi jak jak?"
+
+# game/day28.rpy:1746
+translate polish day28_m_handjob_adfd6b5d:
+
+    # p "Women like you?"
+    p "Takimi jak Ty?"
+
+# game/day28.rpy:1747
+translate polish day28_m_handjob_ba6e1256:
+
+    # m "Come on now, most guys your age would go for a skinny young thing."
+    m "No proszę Cię, większość facetów w Twoim wieku wolałoby młodą chudzinkę."
+
+# game/day28.rpy:1748
+translate polish day28_m_handjob_4aa3539e:
+
+    # p "Undoubtedly, but I like a real woman."
+    p "Pewnie tak, ale ja wolę prawdziwą kobietę."
+
+# game/day28.rpy:1749
+translate polish day28_m_handjob_7f4acc38:
+
+    # m "Real?"
+    m "Prawdziwą?"
+
+# game/day28.rpy:1750
+translate polish day28_m_handjob_86aab2da:
+
+    # p "It's hard to express it in words."
+    p "Trudno to wyrazić słowami."
+
+# game/day28.rpy:1751
+translate polish day28_m_handjob_3929e4d3:
+
+    # m "Do you have something else in mind?"
+    m "A masz jakiś inny pomysł?"
+
+# game/day28.rpy:1756
+translate polish day28_m_handjob_5827cb12:
+
+    # "{i}Without saying anything further, you trail the curve of her hips with your fingertips, causing [m_name] to shiver slightly."
+    "{i}Nie marnując słów, zaczynasz śledzić palcami po jej krągłych biodrach, powodując u Susan lekkie dreszcze."
+
+# game/day28.rpy:1757
+translate polish day28_m_handjob_2673286b:
+
+    # "{i}You help her out of her babydoll she's wearing, allowing you to see her body in all its naked glory."
+    "{i}Pomagasz jej wydostać się z jej koszuli nocnej, co pozwala Ci obejrzeć jej ciało w całej okazałości."
+
+# game/day28.rpy:1762
+translate polish day28_m_handjob_42c4bdaa:
+
+    # "{i}You kiss her belly and teasingly flick your tongue around her navel."
+    "{i}Całujesz jej brzuch i muskasz językiem skórę koło jej pępka."
+
+# game/day28.rpy:1763
+translate polish day28_m_handjob_6069c9ba:
+
+    # m "Oh, that tickles!"
+    m "Oh, to łaskocze!"
+
+# game/day28.rpy:1766
+translate polish day28_m_handjob_093c6f6c:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Ośmielony jej reakcjami, przesuwasz się ku jej pełnym piersiom."
+
+# game/day28.rpy:1768
+translate polish day28_m_handjob_093c6f6c_1:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Ośmielony jej reakcjami, przesuwasz się ku jej pełnym piersiom."
+
+# game/day28.rpy:1769
+translate polish day28_m_handjob_1b531e45:
+
+    # "{i}As the woman breathes heavily, you kiss the curves of her bosom, working towards her stiffening nipples."
+    "{i}Gdy całujesz jej krągły biust i zaczyna ciężko oddychać, przykuwasz uwagę do jej twardniejących sutków."
+
+# game/day28.rpy:1770
+translate polish day28_m_handjob_f121165f:
+
+    # m "Do you like my breasts?"
+    m "Podobają Ci się moje piersi?"
+
+# game/day28.rpy:1771
+translate polish day28_m_handjob_32b3c19b:
+
+    # p "I love them."
+    p "Są cudowne."
+
+# game/day28.rpy:1772
+translate polish day28_m_handjob_08a97937:
+
+    # m "Kiss me!"
+    m "Pocałuj mnie!"
+
+# game/day28.rpy:1774
+translate polish day28_m_handjob_84d969c6:
+
+    # "{i}The first kisses you exchange are cautious, but when your tongues come into play, any boundaries that existed fall away completely."
+    "{i}Pierwsze pocałunki, które wymieniacie są ostrożne, ale kiedy do zabawy angażują się wasze języki, znikają wszelkie ograniczenia."
+
+# game/day28.rpy:1780
+translate polish day28_m_handjob_eb10e287:
+
+    # "{i}[m_name]'s hand slips towards your crotch and frees your erection from your underwear."
+    "{i}Susan sięga ręką do Twojego krocza i uwalnia Twoją erekcję z bokserek."
+
+# game/day28.rpy:1782
+translate polish day28_m_handjob_e0e1c6a8:
+
+    # "{i}You think you see a hint of confusion flash across her face as she holds your erect member in her hands."
+    "{i}Odnosisz wrażenie, że widzisz błysk dezorientacji na jej twarzy, kiedy bierze do ręki Twojego penisa."
+
+# game/day28.rpy:1783
+translate polish day28_m_handjob_5ed45dc0:
+
+    # p "{i}(Does she realize... I knew the mask wasn't enough!)"
+    p "{i}(Czy ona się zorientowała... Wiedziałem, że maska nie wystarczy!)"
+
+# game/day28.rpy:1784
+translate polish day28_m_handjob_8d493837:
+
+    # "{i}But [m_name] doesn't cry out in outraged surprise and instead kisses you and starts stroking your cock."
+    "{i}Ale Susan nie wydaje z siebie okrzyku zaskoczenia, tylko całuje Cię i zaczyna masować Twojego penisa."
+
+# game/day28.rpy:1786
+translate polish day28_m_handjob_ba26a947:
+
+    # "{i}She holds your member in her hand as if weighing it. Satisfied, she kisses you and starts stroking your cock."
+    "{i}Trzyma Twojego członka w dłoni, jakby ważąc go, usatysfakcjonowana całuje Cię i zaczyna masować Twojego penisa."
+
+# game/day28.rpy:1788
+translate polish day28_m_handjob_8ffbc3ac:
+
+    # m "Mmmm, does that feel good, [p_name]?"
+    m "Mmmm, podoba Ci się to [p_name]?"
+
+# game/day28.rpy:1789
+translate polish day28_m_handjob_bb5d0cbf:
+
+    # p "I-it does."
+    p "T- Tak."
+
+# game/day28.rpy:1790
+translate polish day28_m_handjob_13ba4582:
+
+    # m "Do you want to cum for me?"
+    m "Chcesz się dla mnie spuścić?"
+
+# game/day28.rpy:1791
+translate polish day28_m_handjob_6ea4dd18:
+
+    # p "Y-yes, I do."
+    p "T- Tak, bardzo."
+
+# game/day28.rpy:1792
+translate polish day28_m_handjob_42899ef0:
+
+    # m "Make a mess all over my body?"
+    m "Schlapać się na moje całe ciało?"
+
+# game/day28.rpy:1795
+translate polish day28_m_handjob_704bb4dc:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your mother's large breasts."
+    "{i}Jej dłoń dalej stymuluje Twojego penisa eksperckimi ruchami, Ty w tym czasie zwracasz uwagę ku wielkim piersiom swojej matki."
+
+# game/day28.rpy:1797
+translate polish day28_m_handjob_73d4fbdd:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your friend's large breasts."
+    "{i}Jej dłoń fachowo masuje twojego kutasa, podczas gdy ty zwracasz uwagę na duże piersi swojej przyjaciółki."
+
+# game/day28.rpy:1798
+translate polish day28_m_handjob_28f83ebb:
+
+    # m "Oh yes!"
+    m "Oh, tak!"
+
+# game/day28.rpy:1799
+translate polish day28_m_handjob_2ead3e96:
+
+    # "{i}She brushes your hand away though in order to focus completely on pleasuring you."
+    "{i}Ale jednak odtrąca Twoją dłoń, aby móc się w pełni skupić na zaspokajaniu Ciebie."
+
+# game/day28.rpy:1800
+translate polish day28_m_handjob_8d4cf03f:
+
+    # m "That's my boy!"
+    m "To mój chłopiec!"
+
+# game/day28.rpy:1801
+translate polish day28_m_handjob_4daec3dd:
+
+    # "{i}[m_name] strokes your cock again, tracing the veins of your shaft with her wet fingertips, before jerking you off."
+    "{i}Susan znowu zaczyna pocierać Twojego penisa, śledząc mokrymi opuszkami palców po jego pulsujących żyłach."
+
+# game/day28.rpy:1802
+translate polish day28_m_handjob_ce401f6e:
+
+    # m "That's it, baby."
+    m "Właśnie tak kochanie."
+
+# game/day28.rpy:1804
+translate polish day28_m_handjob_51af9386:
+
+    # "{i}A naughty grin crosses her face as [m_name] utters her next words, already sure of its effects on you."
+    "{i}Sprośny uśmieszek pojawia się na jej twarzy kiedy wypowiada kolejne słowa, w pełni świadoma jaki będą miały na Ciebie efekt."
+
+# game/day28.rpy:1805
+translate polish day28_m_handjob_2653304a:
+
+    # m "Mommy wants your cum so bad!"
+    m "Mamusia potrzebuje Twojej spermy!"
+
+# game/day28.rpy:1807
+translate polish day28_m_handjob_1ebb7675:
+
+    # m "I want your cum so bad!"
+    m "Tak bardzo chcę twojej spermy!"
+
+# game/day28.rpy:1815
+translate polish day28_m_handjob_0e1cfcbb:
+
+    # "{i}Your mother knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}Twoja matka wie dokładnie jak długo masować Twojego fiuta, dojąc Cię z całego Twojego nasienia. Spuszczasz się gwałtownie obryzgując strumieniami spermy jej dłonie i brzuch."
+
+# game/day28.rpy:1817
+translate polish day28_m_handjob_b1575f96:
+
+    # "{i}[m_name] knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}[m_name] wie, jak długo masować twojego kutasa, dojąc cię z całego twojego nasienia, gdy tryska z twojej żołędzi w dużych, gwałtownych sprayach, które rozpryskują się po jej rękach i brzuchu."
+
+# game/day28.rpy:1818
+translate polish day28_m_handjob_e5dba7f6:
+
+    # "{i}With her eyes closed and wearing a look of bliss, [m_name] spreads your cum all over her body and kisses you."
+    "{i}Z zamkniętymi oczami i błogim wyrazem twarzy, Susan wciera Twoją spermę w swoje ciało i całuje Cię."
+
+# game/day28.rpy:1823
+translate polish day28_m_handjob_5b5208aa:
+
+    # p "I never want to leave this bed."
+    p "Nie chcę nigdy opuścić tego łóżka."
+
+# game/day28.rpy:1824
+translate polish day28_m_handjob_c08bc8f4:
+
+    # m "Good."
+    m "Dobrze."
+
+# game/day28.rpy:1825
+translate polish day28_m_handjob_6227f08a:
+
+    # m "But I expect you to earn your keep!"
+    m "Ale oczekuję, że zapracujesz na swoje utrzymanie!"
+
+# game/day28.rpy:1826
+translate polish day28_m_handjob_84fe6a10:
+
+    # p "You make that sound as if it's a burden."
+    p "Mówisz, jakby to było jakieś brzemię."
+
+translate polish strings:
+
+    # game/day28.rpy:1081
+    old "Fuck Kira"
+    new "Pieprzyć Kirę"
+
+    # game/day28.rpy:1081
+    old "Fuck Ana"
+    new "Pieprzyć Anę"
 

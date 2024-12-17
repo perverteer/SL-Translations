@@ -194,7 +194,7 @@ translate polish day22_1a4ae57a:
 translate polish day22_96b4d042:
 
     # r "I love you as a friend, but nothing more."
-    r ""
+    r "Kocham cię jako przyjaciela, ale nic więcej"
 
 # game/day22.rpy:80
 translate polish day22_85b28f46:
@@ -218,7 +218,7 @@ translate polish day22_0855025a:
 translate polish day22_f38e66d6:
 
     # p "Just know you'll always be special to me, but I love you like a friend."
-    p ""
+    p "Po prostu wiedz, że zawsze będziesz dla mnie wyjątkowy, ale kocham cię jak przyjaciela"
 
 # game/day22.rpy:86
 translate polish day22_65874a41:
@@ -272,7 +272,7 @@ translate polish day22_bb7518bd:
 translate polish day22_3575c9b1:
 
     # "{i}Your kiss is long and passionate and nearly takes [r_name]'s breath away."
-    ""
+    "{i}Twój pocałunek jest długi i namiętny i prawie zapiera dech w piersiach [r_name]."
 
 # game/day22.rpy:110
 translate polish day22_a4b0ea11:
@@ -494,7 +494,7 @@ translate polish day22_choices_f03f0205:
 translate polish day22_choices_7f8912dc:
 
     # al "How's Mrs. Smith doing?"
-    al ""
+    al "Co słychać u pani Smith?"
 
 # game/day22.rpy:178
 translate polish day22_choices_46ee819d:
@@ -668,7 +668,7 @@ translate polish day22_choices_93af388e:
 translate polish day22_choices_f85a22a3:
 
     # "{i}[r_name] stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
-    ""
+    "{i}[r_name] wstaje i kieruje się w stronę krzaków, spoglądając na ciebie kpiąco, a ty postanawiasz podążyć za nią."
 
 # game/day22.rpy:220
 translate polish day22_choices_626ba25f:
@@ -722,7 +722,7 @@ translate polish day22_choices_133a297e:
 translate polish day22_choices_0fb9bc52:
 
     # "{i}The wind is softly caressing your cock, as [r_name] jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
-    ""
+    "{i}Wiatr delikatnie pieści twojego kutasa, gdy [r_name] cię szarpie. Oblizuje czubek twojego kutasa i powoli bierze twojego penisa do swoich ciepłych ust."
 
 # game/day22.rpy:233
 translate polish day22_choices_e6147639:
@@ -1178,7 +1178,7 @@ translate polish day22_park_post_58d0edda:
 translate polish day22_park_post_09892f0b:
 
     # p "Just checking in on my favorite girl."
-    p ""
+    p "Tylko sprawdzam, co u mojej ulubionej dziewczyny"
 
 # game/day22.rpy:355
 translate polish day22_park_post_7b450abd:
@@ -1286,7 +1286,7 @@ translate polish day22_park_post_a2ac6bb0:
 translate polish day22_park_post_20bea44e:
 
     # "{i}[b_name] embraces you warmly and the kiss you exchange holds everything she cannot express in words."
-    ""
+    "{i}[b_name] obejmuje cię ciepło, a pocałunek, który wymieniacie, zawiera wszystko, czego nie może wyrazić słowami."
 
 # game/day22.rpy:380
 translate polish day22_park_post_93f7532a:
@@ -2108,7 +2108,7 @@ translate polish day22_park_post_311f608a:
 translate polish day22_park_post_152dde35:
 
     # "{i}When you enter the living room, music is playing and [m_name] is lying on the couch."
-    ""
+    "{i}Po wejściu do salonu gra muzyka, a [m_name] leży na kanapie."
 
 # game/day22.rpy:618
 translate polish day22_park_post_70332ef4:
@@ -2156,7 +2156,7 @@ translate polish day22_park_post_1c0efc62:
 translate polish day22_park_post_9ea30d09:
 
     # m "I went to classical concerts quite regularly years ago."
-    m ""
+    m "Wiele lat temu regularnie chodziłem na koncerty muzyki klasycznej"
 
 # game/day22.rpy:630
 translate polish day22_park_post_79cebb17:
@@ -2738,19 +2738,19 @@ translate polish day22_evening_choices_82dc595c:
 translate polish day22_evening_choices_30249dea:
 
     # l "[p_name] is living with us now, Mrs. Smith agreed to take him in."
-    l ""
+    l "[p_name] mieszka teraz z nami, pani Smith zgodziła się go przyjąć"
 
 # game/day22.rpy:764
 translate polish day22_evening_choices_0ae64059:
 
     # ir "That's very generous of her."
-    ir ""
+    ir "To bardzo hojne z jej strony"
 
 # game/day22.rpy:765
 translate polish day22_evening_choices_f78207d9:
 
     # p "It is!"
-    p ""
+    p "Jest!"
 
 # game/day22.rpy:766
 translate polish day22_evening_choices_54134da2:
@@ -3860,7 +3860,7 @@ translate polish day22_evening_choices_eb77b517:
 translate polish day22_evening_choices_40f387ea:
 
     # b "Petty inhibitions? For god's sake you're fucking blackmailing me!"
-    b ""
+    b "Drobne zahamowania? Na litość boską, kurwa, szantażujesz mnie!"
 
 # game/day22.rpy:1001
 translate polish day22_evening_choices_3330627b:
@@ -3986,7 +3986,7 @@ translate polish day22_evening_choices_09eb5877:
 translate polish day22_evening_choices_a03f8e1e:
 
     # "{i}After pulling out your cock, you're startled by sounds in the hallway. With a racing heart you sneak out of [b_name]'s room."
-    ""
+    "{i}Po wyciągnięciu kutasa jesteś zaskoczony dźwiękami na korytarzu Z przyspieszonym biciem serca wymykasz się z pokoju [b_name]."
 
 # game/day22.rpy:1057
 translate polish day22_evening_choices_8b5206cd:
@@ -4016,7 +4016,7 @@ translate polish day22_b_sex_f0825afd:
 translate polish day22_b_sex_d6600142:
 
     # "{i}There's some confusion visible on [b_name]'s face as you push open her legs and kiss her pussy. She clearly expected you to go straight for your own satisfaction."
-    ""
+    "{i}Na twarzy [b_name] widać pewne zakłopotanie, gdy rozchylasz jej nogi i całujesz jej cipkę. Najwyraźniej spodziewała się, że od razu przejdziesz do własnej satysfakcji."
 
 # game/day22.rpy:1074
 translate polish day22_b_sex_f3b14a5b:
@@ -4040,7 +4040,7 @@ translate polish day22_b_sex_fbc7b04f:
 translate polish day22_b_sex_0cb8428b:
 
     # "{i}The hardness of your cock almost hurts and you feel it's time to slip it in [b_name]'s wet slit. You push the tip against her lips and caress her breasts."
-    ""
+    "{i}Twardość twojego kutasa prawie boli i czujesz, że nadszedł czas, aby wsunąć go w mokrą szczelinę [b_name]. Przyciskasz czubek do jej ust i pieścisz jej piersi."
 
 # game/day22.rpy:1081
 translate polish day22_b_sex_6bfa41e6:
@@ -4070,7 +4070,7 @@ translate polish day22_b_sex_d5c0d252:
 translate polish day22_b_sex_7c26c18a:
 
     # "{i}When your cock is completely engulfed by her wet mound, you pause, not wanting to end this special moment of being inside her. Instead you turn your attention to her breasts and nipples."
-    ""
+    "{i}Kiedy twój kutas jest całkowicie pochłonięty przez jej mokry kopiec, zatrzymujesz się, nie chcąc kończyć tej wyjątkowej chwili bycia w niej Zamiast tego zwracasz uwagę na jej piersi i sutki."
 
 # game/day22.rpy:1089
 translate polish day22_b_sex_b3d23d28:
@@ -4148,7 +4148,7 @@ translate polish day22_b_sex_aee7cd16:
 translate polish day22_b_sex_1224cd98:
 
     # "{i}You hold [b_name]'s head and feel the taut muscles of her neck. The kiss you exchange is hardly a kiss, it's more like a frenzied devouring, mouth to mouth."
-    ""
+    "{i}Przytrzymujesz głowę [b_name] i czujesz napięte mięśnie jej szyi Pocałunek, który wymieniacie, to ledwie pocałunek, to raczej szaleńcze pożeranie ustami."
 
 # game/day22.rpy:1108
 translate polish day22_b_sex_ecca1270:
@@ -4202,7 +4202,7 @@ translate polish day22_b_sex_99de95dc:
 translate polish day22_b_sex_e784e339:
 
     # "{i}At the height of her orgasm you feel yours coming on in full force. With your last willpower you fuck [b_name]'s pussy, prolonging her pleasure even more."
-    ""
+    "{i}W szczytowym momencie jej orgazmu czujesz, że twój nadchodzi z pełną mocą Ostatkiem sił woli pieprzysz cipkę [b_name], przedłużając jej przyjemność jeszcze bardziej."
 
 # game/day22.rpy:1127
 translate polish day22_b_sex_e068e12a:
@@ -4307,4 +4307,366 @@ translate polish strings:
     # game/day22.rpy:1005
     old "Threaten to publish them"
     new "Zagróź, że je opublikujesz"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day22.rpy:35
+translate polish day22_0fcf94f0:
+
+    # r "Yes, and I'm sleeping over at Ana's."
+    r "Tak i nocuję u Any."
+
+# game/day22.rpy:416
+translate polish day22_park_post_c4d6a5d9:
+
+    # j "Never mind."
+    j "Nieważne"
+
+# game/day22.rpy:548
+translate polish day22_park_post_775ed9ef:
+
+    # p "I know what it's like. But if you overcome all this bullshit, it can be beautiful."
+    p "Wiem jak to jest. Ale jeśli przebrniesz przez to całe gówno, to może z tego wyjść coś pięknego."
+
+# game/day22.rpy:578
+translate polish day22_park_post_679cf4f6:
+
+    # "{i}Music is playing as you enter the room, and your mother is lying on the couch."
+    "{i}Muzyka gra, gdy wchodzisz do pokoju, a twoja matka leży na kanapie."
+
+# game/day22.rpy:580
+translate polish day22_park_post_1d476002:
+
+    # "{i}Music is playing as you enter the room, and [m_name] is lying on the couch."
+    "{i}Gdy wchodzisz do pokoju, gra muzyka, a [m_name] leży na kanapie."
+
+# game/day22.rpy:594
+translate polish day22_park_post_e69c7687:
+
+    # m "I remember crying at a staging of 'La Traviata'. That was a high point. There was also that scandalous premiere of 'Così fan tutte'..."
+    m "Pamiętam, jak płakałem na inscenizacji 'La Traviata' To był punkt kulminacyjny Była też skandaliczna premiera 'Così fan tutte'."
+
+# game/day22.rpy:602
+translate polish day22_park_post_96f6b07a:
+
+    # p "So, what do you say to a nice dinner and a visit to the opera with me?"
+    p "Więc, co powiesz na miłą kolację i wizytę w operze, ze mną?"
+
+# game/day22.rpy:608
+translate polish day22_park_post_16f83c97:
+
+    # "{i}[m_name] embraces you warmly and keeps holding you until the last notes of the aria slowly fade away."
+    "{i}[m_name] obejmuje cię ciepło i trzyma, aż ostatnie nuty arii powoli zanikają."
+
+# game/day22.rpy:644
+translate polish day22_park_post_248f3a17:
+
+    # p "{i}Hi Dwayne, You haven't replied to my earlier email. I hope it found its way to your inbox, and I sure as hell hope you acted on the demands that I made."
+    p "{i}Cześć Dwayne, nie odpowiedziałeś na moje wcześniejsze maile. Mam nadzieję, że je otrzymałeś i tym bardziej, że zastosowałeś się do moich żądań."
+
+# game/day22.rpy:646
+translate polish day22_park_post_414eb2e0:
+
+    # p "{i}You will be there in two days, at 12PM. Alone. If you bring anyone else, you'll be very sorry. Yours truly, MisterY"
+    p "{i}Będziesz tam za dwa dni, o dwunastej. Sam. Jeśli kogoś ze sobą przyprowadzisz, to srogo tego pożałujesz. Pozdrawiam, MisterY."
+
+# game/day22.rpy:809
+translate polish day22_evening_choices_ee53cf0a:
+
+    # p "And it's not like you're getting a horse-cock-sized contraption tied to a diesel engine or something, just a small, discreet little thing."
+    p "I to nie jest tak, że dostajesz urządzenie wielkości wozu konnego przywiązane do silnika wysokoprężnego, czy coś w tym stylu, tylko małe, dyskretne urządzenie."
+
+# game/day22.rpy:848
+translate polish day22_evening_choices_ee70284f:
+
+    # "{i}The woman across the table sighs and finishes her coffee, her speech a little slurred, probably the effect of the wine she drank earlier."
+    "{i}Kobieta po drugiej stronie stołu wzdycha i kończy kawę, jej mowa jest nieco niewyraźna, prawdopodobnie efekt wina, które wypiła wcześniej."
+
+# game/day22.rpy:849
+translate polish day22_evening_choices_eccc9a62:
+
+    # ir "Listen to me rambling. Sorry, guys."
+    ir "Siedzę tu i marudzę. Wybaczcie."
+
+# game/day22.rpy:859
+translate polish day22_evening_choices_1959aa2e:
+
+    # ir "I very much enjoyed the company, and I'm sure Justin did too."
+    ir "Miło było mieć towarzystwo, jestem pewna, że Justinowi też się podobało."
+
+# game/day22.rpy:867
+translate polish day22_evening_choices_9d6fb8a7:
+
+    # "{i}After exchanging niceties, you're out on the lawn of Iris and Justin's house."
+    "{i}Po wymienieniu grzeczności, wychodzicie na podwórko przed domem."
+
+# game/day22.rpy:884
+translate polish day22_evening_choices_87ad2a71:
+
+    # "{i}You're about to get ready for bed when there's a soft knock on your door."
+    "{i}Właśnie masz kłaść się już do łóżka, kiedy słyszysz ciche pukanie do drzwi."
+
+# game/day22.rpy:920
+translate polish day22_evening_choices_42a04eaa:
+
+    # p "Anyway, I made you feel good, but to be allowed to really have a release, you have to work for it, girl. Earn it."
+    p "W każdym razie, sprawiałem Ci przyjemność, ale na prawdziwe spełnienie będziesz musiała sobie zapracować dziewczyno. Zasłużyć na nie."
+
+# game/day22.rpy:1032
+translate polish day22_evening_choices_cd8c4bff:
+
+    # "{i}After pulling out your cock, you're startled by sounds in the hallway. With a racing heart, you sneak out of your sister's room."
+    "{i}Wyciągasz swojego fiuta, ale słyszysz jakieś dźwięki w korytarzu. Z sercem na ramieniu, wymykasz się z pokoju swojej siostry."
+
+# game/day22.rpy:1034
+translate polish day22_evening_choices_a742963f:
+
+    # "{i}After pulling out your cock, you're startled by sounds in the hallway. With a racing heart, you sneak out of [b_name]'s room."
+    "{i}Po wyciągnięciu kutasa jesteś zaskoczony dźwiękami na korytarzu Z przyspieszonym biciem serca wymykasz się z pokoju [b_name]."
+
+# game/day22.rpy:1050
+translate polish day22_b_sex_85cd77ff:
+
+    # "{i}[b_name] undresses, and you admire her body as she peels off the layers of clothing she's wearing. You motion her to lie down on the bed and slip out of your clothes as well."
+    "{i}Bella zaczyna się rozbierać i podziwiasz jej ciało, obserwując jak zdejmuje kolejne warstwy swojego ubrania. Dajesz jej znak, żeby położyła się na łóżku i też się rozbierasz."
+
+# game/day22.rpy:1198
+translate polish day22_r_blowjob_93af388e:
+
+    # "{i}Your sister stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}Twoja siostra wstaje i idzie w kierunku krzaków, obracając się zalotnie w Twoją stronę. Decydujesz się pójść za nią."
+
+# game/day22.rpy:1200
+translate polish day22_r_blowjob_f85a22a3:
+
+    # "{i}[r_name] stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}[r_name] wstaje i kieruje się w stronę krzaków, spoglądając na ciebie kpiąco, a ty postanawiasz podążyć za nią."
+
+# game/day22.rpy:1202
+translate polish day22_r_blowjob_626ba25f:
+
+    # r "This is the perfect spot. We can't be seen from here and still view our picnic spot, in case Alina and Ana come back."
+    r "To idealne miejsce. Stąd nas nie widać, a my dalej widzimy czy Alina lub Ana nie wracają."
+
+# game/day22.rpy:1203
+translate polish day22_r_blowjob_d09abdf2:
+
+    # r "I thought we could have some fun here. Out in the open..."
+    r "Pomyślałam, że moglibyśmy się tu trochę zabawić. Na świeżym powietrzu..."
+
+# game/day22.rpy:1204
+translate polish day22_r_blowjob_2c842202:
+
+    # "{i}She stands close to you and her hand creeps inside your pants while she stares intently into your eyes."
+    "{i}Rachel stoi blisko Ciebie i wsuwa dłoń do Twoich spodni, cały czas utrzymując z Tobą kontakt wzrokowy."
+
+# game/day22.rpy:1205
+translate polish day22_r_blowjob_a2f1943d:
+
+    # r "I want to taste you, [p_name]."
+    r "Chcę Cię posmakować [p_name]."
+
+# game/day22.rpy:1206
+translate polish day22_r_blowjob_82d30f19:
+
+    # p "{i}(The girl wants cream after all.)"
+    p "{i}(Moja dziewczynka jednak ma ochotę na loda.)"
+
+# game/day22.rpy:1208
+translate polish day22_r_blowjob_eb8e94d8:
+
+    # "{i}[r_name] drops to her knees before you while you lower your pants. Your erection nearly hits her face."
+    "{i}Rachel klęka przed Tobą i opuszcza Ci spodnie. Twoja erekcja prawie uderza ją w twarz."
+
+# game/day22.rpy:1209
+translate polish day22_r_blowjob_f7599487:
+
+    # r "You don't waste time, do you?"
+    r "Nie marnujesz czasu, co?"
+
+# game/day22.rpy:1215
+translate polish day22_r_blowjob_133a297e:
+
+    # "{i}The wind is softly caressing your cock, as your sister jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Wiatr głaszcze miękko Twoje jądra, podczas gdy Twoja siostra robi Ci dobrze ręką. Liże czubek Twojego penisa i powoli wkłada go do swoich ciepłych ust."
+
+# game/day22.rpy:1217
+translate polish day22_r_blowjob_0fb9bc52:
+
+    # "{i}The wind is softly caressing your cock, as [r_name] jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Wiatr delikatnie pieści twojego kutasa, gdy [r_name] cię szarpie. Oblizuje czubek twojego kutasa i powoli bierze twojego penisa do swoich ciepłych ust."
+
+# game/day22.rpy:1218
+translate polish day22_r_blowjob_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day22.rpy:1219
+translate polish day22_r_blowjob_83866ffe:
+
+    # p "God, [r_name], your mouth feels so good."
+    p "Boże Rachel, Twoje usta są niesamowite."
+
+# game/day22.rpy:1221
+translate polish day22_r_blowjob_6f1e2456:
+
+    # "{i}[r_name]'s head moves up and down, stimulating your shaft. When her tongue comes into play, licking the glans you cannot stifle a moan."
+    "{i}Rachel rusza głową w górę i w dół, stymulując Twojego penisa. Kiedy zaczyna angażować swój język, liżąc Twoją główkę, nie możesz powstrzymać jęku."
+
+# game/day22.rpy:1222
+translate polish day22_r_blowjob_bea680ab:
+
+    # "{i}The sight of [r_name] eagerly servicing your cock and the possibility of Ana and Alina returning any minute, greatly enhances the pleasure you receive from the blowjob."
+    "{i}Widok Rachel obsługującej z zapałem Twojego penisa i możliwość przyłapania przez Anę i Alinę, znacznie wzmacnia przyjemność jaką daje Ci jej lodzik."
+
+# game/day22.rpy:1224
+translate polish day22_r_blowjob_013e40ec:
+
+    # "{i}Precum is already leaking into [r_name]'s mouth and she moans with approval. Her eyes are closed, completely focused on sucking the cum out of your hard dick."
+    "{i}Pre-ejakulat już napływa do jej ust i Rachel jęczy z aprobatą. Jej oczy są zamknięte i jest całkowicie skupiona na ssaniu Twojego twardego penisa."
+
+# game/day22.rpy:1225
+translate polish day22_r_blowjob_d4ca7b4e:
+
+    # p "Aaah, keep going, [r_name]!"
+    p "Aaah, nie przestawaj Rachel!"
+
+# game/day22.rpy:1226
+translate polish day22_r_blowjob_f85a0094:
+
+    # r "Nearly there, baby?"
+    r "Jesteś już blisko kochany?"
+
+# game/day22.rpy:1227
+translate polish day22_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "T- Tak!"
+
+# game/day22.rpy:1228
+translate polish day22_r_blowjob_54922265:
+
+    # "{i}Drool is starting to leak from the corners of [r_name]'s mouth, making a wet mess on her chest. She slurps and sucks on your cock, her swirling tongue everywhere."
+    "{i}Ślina zaczyna ściekać jej po kącikach ust, robiąc mokrą plamę na jej klatce. Siorbie i zasysa się na Twoim fiucie, kręcąc wokół niego językiem."
+
+# game/day22.rpy:1229
+translate polish day22_r_blowjob_0f7ec75a:
+
+    # r "Cum in my mouth, baby, I want it all!"
+    r "Cum in my mouth baby I want it all!"
+
+# game/day22.rpy:1232
+translate polish day22_r_blowjob_a06994e6:
+
+    # "{i}Her eyes widen when your cock discharges deep into her mouth. She has to swallow most of your semen to keep sucking on your dick."
+    "{i}Jej oczy rozszerzają się, kiedy zaczynasz dochodzić głęboko w jej ustach. Musi przełknąć większość Twojej spermy, żeby być w stanie dalej ssać Twojego penisa."
+
+# game/day22.rpy:1233
+translate polish day22_r_blowjob_9ad1f8d3:
+
+    # p "Aaaah, fuck, [r_name]! You're so good!"
+    p "Aaaah, kurwa, Rachel! Jesteś niewiarygodna!"
+
+# game/day22.rpy:1234
+translate polish day22_r_blowjob_b1f301f8:
+
+    # "{i}Her happy eyes look up at you as she sucks and licks the last remnants of your ejaculate from the length of your cock. She clearly doesn't want to waste your sperm."
+    "{i}Rachel patrzy na Ciebie szczęśliwa, zlizując resztę nasienia z Twojego penisa. Ewidentnie nie chce zmarnować ani kropelki."
+
+# game/day22.rpy:1239
+translate polish day22_r_blowjob_399cafdb:
+
+    # r "How was that?"
+    r "Jak było?"
+
+# game/day22.rpy:1240
+translate polish day22_r_blowjob_8d271fce:
+
+    # p "You're such a dirty girl, I love it!"
+    p "Jesteś taką niegrzeczną dziewczynką, to było świetne!"
+
+# game/day22.rpy:1241
+translate polish day22_r_blowjob_b561991c:
+
+    # r "Hehe, thanks!"
+    r "Hehe, dzięki!"
+
+# game/day22.rpy:1242
+translate polish day22_r_blowjob_2b629fcb:
+
+    # p "Shit! I think Alina and Ana are coming back."
+    p "Cholera! Alina i Ana chyba wracają."
+
+# game/day22.rpy:1250
+translate polish day22_r_blowjob_8d114cfb:
+
+    # r "Fuck."
+    r "O nie."
+
+# game/day22.rpy:1251
+translate polish day22_r_blowjob_2313a99a:
+
+    # p "We have to think of an excuse."
+    p "Musimy wymyślić jakąś wymówkę."
+
+# game/day22.rpy:1252
+translate polish day22_r_blowjob_cc28141b:
+
+    # r "Do I look decent?"
+    r "Wyglądam schludnie?"
+
+# game/day22.rpy:1253
+translate polish day22_r_blowjob_bbb8d175:
+
+    # "{i}You remove a little bit of your cum from the corner of her mouth and kiss her."
+    "{i}Wycierasz drobinkę spermy z kącika jej ust i całujesz ją."
+
+# game/day22.rpy:1254
+translate polish day22_r_blowjob_947316a5:
+
+    # p "You always look decent, even with cum on your face."
+    p "Zawsze dobrze wyglądasz, nawet z moją spermą na twarzy."
+
+# game/day22.rpy:1256
+translate polish day22_r_blowjob_c48ca465:
+
+    # a "There they are!"
+    a "Tutaj są!"
+
+# game/day22.rpy:1257
+translate polish day22_r_blowjob_56ede805:
+
+    # al "Where were you guys?"
+    al "Gdzie byliście?"
+
+# game/day22.rpy:1258
+translate polish day22_r_blowjob_e24e5416:
+
+    # p "We were looking for the toilets."
+    p "Szukaliśmy toalety."
+
+# game/day22.rpy:1259
+translate polish day22_r_blowjob_f53ec246:
+
+    # a "They're completely the other way."
+    a "Są kompletnie w przeciwnym kierunku."
+
+# game/day22.rpy:1260
+translate polish day22_r_blowjob_d7f0b9d7:
+
+    # r "Shit, I told you so."
+    r "Cholera, mówiłam Ci."
+
+# game/day22.rpy:1261
+translate polish day22_r_blowjob_1bf6814e:
+
+    # r "I have to go. Won't be long!"
+    r "Muszę iść, zaraz wrócę!"
+
+# game/day22.rpy:1262
+translate polish day22_r_blowjob_afd369af:
+
+    # p "{i}(All things considered, [r_name] is a pretty great actress.)"
+    p "{i}(Mimo wszystko, Rachel jest całkiem niezłą aktorką.)"
 

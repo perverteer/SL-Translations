@@ -1412,7 +1412,7 @@ translate polish day36_choices_354ebbda:
 translate polish day36_choices_d8116be8:
 
     # "{i}You walk back with [m_name] to your home and she chases you upstairs as soon as you close the front door."
-    ""
+    "{i}Wracasz z [m_name] do domu, a ona goni cię na górę, gdy tylko zamkniesz drzwi wejściowe."
 
 # game/day36.rpy:347
 translate polish day36_choices_c8de8992:
@@ -1598,7 +1598,7 @@ translate polish day36_choices_a9a95823:
 translate polish day36_choices_f9734317:
 
     # b "Smooth, [p_name], very smooth!"
-    b ""
+    b "Gładki [p_name] bardzo gładki!"
 
 # game/day36.rpy:387
 translate polish day36_choices_fddcd84e:
@@ -1676,7 +1676,7 @@ translate polish day36_choices_07f9c1e2:
 translate polish day36_choices_b4a95fe7:
 
     # p "Both as a friend and as... something more..."
-    p ""
+    p "Zarówno jako przyjaciel, jak i coś więcej"
 
 # game/day36.rpy:411
 translate polish day36_choices_ed6a5622:
@@ -2390,7 +2390,7 @@ translate polish day36_evening_choices_d5eef40a:
 translate polish day36_evening_choices_f7eb6b55:
 
     # l "But really, since you've come to our home you've been there for me."
-    l ""
+    l "Ale tak naprawdę, odkąd przyszedłeś do naszego domu, byłeś tam dla mnie."
 
 # game/day36.rpy:582
 translate polish day36_evening_choices_487a4a1c:
@@ -2492,7 +2492,7 @@ translate polish day36_evening_choices_7f264932:
 translate polish day36_evening_choices_1bbf20da:
 
     # l "Could you love [b_name] or [r_name] as something more than a friend?"
-    l ""
+    l "Czy mógłbyś pokochać [b_name] lub [r_name] jako kogoś więcej niż przyjaciela?."
 
 # game/day36.rpy:605
 translate polish day36_evening_choices_2d8a70a8:
@@ -3248,7 +3248,7 @@ translate polish day36_evening_choices_40e1009f:
 translate polish day36_evening_choices_23775a35:
 
     # "{i}As your friend lies down with you, she caresses your skin and looks at you expectantly."
-    ""
+    "{i}Gdy twoja przyjaciółka kładzie się przy tobie, pieści twoją skórę i patrzy na ciebie wyczekująco."
 
 # game/day36.rpy:777
 translate polish day36_evening_choices_ac4d6993:
@@ -3452,7 +3452,7 @@ translate polish day36_evening_choices_ade7c46f:
 translate polish day36_evening_choices_46f700e1:
 
     # "{i}Helpless, you unload inside [l_name]'s mouth, your friend looks determined and wants to receive every last drop of warm cum."
-    ""
+    "{i}Bezradny rozładowujesz się w ustach [l_name], twój przyjaciel wygląda na zdeterminowanego i chce otrzymać każdą ostatnią kroplę ciepłej spermy."
 
 # game/day36.rpy:822
 translate polish day36_evening_choices_a4734eca:
@@ -3554,7 +3554,7 @@ translate polish day36_evening_choices_9ca479cb:
 translate polish day36_evening_choices_4227a4e8:
 
     # "{i}Your cock has started to grow again as you take in the sight of your girl pleasuring herself."
-    ""
+    "{i}Twój kutas znów zaczął rosnąć, gdy patrzysz, jak twoja dziewczyna sprawia sobie przyjemność."
 
 # game/day36.rpy:853
 translate polish day36_evening_choices_651a4d0c:
@@ -3698,7 +3698,7 @@ translate polish day36_evening_choices_ccc0ce16:
 translate polish day36_evening_choices_366bcd82:
 
     # "{i}Your friend has her eyes closed and is almost limp in your arms."
-    ""
+    "{i}Twoja przyjaciółka ma zamknięte oczy i prawie wiotczeje w twoich ramionach."
 
 # game/day36.rpy:892
 translate polish day36_evening_choices_f8ee08d4:
@@ -3800,7 +3800,7 @@ translate polish day36_evening_choices_9a84f03f:
 translate polish day36_evening_choices_203c96b8:
 
     # r "There's my favorite person!"
-    r ""
+    r "Oto moja ulubiona osoba!"
 
 # game/day36.rpy:923
 translate polish day36_evening_choices_98152f18:
@@ -3980,7 +3980,7 @@ translate polish day36_m_sex_693bdad9:
 translate polish day36_m_sex_65c839bf:
 
     # "{i}You lie next to your friend on the bed and take her into your arms and are immediately aware of her voluptuous ass pressing against your member."
-    ""
+    "{i}Kładziesz się obok swojej przyjaciółki na łóżku, bierzesz ją w ramiona i natychmiast zdajesz sobie sprawę, że jej zmysłowy tyłek napiera na twojego członka."
 
 # game/day36.rpy:979
 translate polish day36_m_sex_909b72bd:
@@ -4178,7 +4178,7 @@ translate polish day36_m_sex_da7e7126:
 translate polish day36_m_sex_1b5417ba:
 
     # m "Are you going to use that thick, hard cock of yours on me?"
-    m ""
+    m "Zamierzasz użyć na mnie tego swojego grubego i twardego kutasa?"
 
 # game/day36.rpy:1023
 translate polish day36_m_sex_416d8f36:
@@ -4202,7 +4202,7 @@ translate polish day36_m_sex_d4855a4b:
 translate polish day36_m_sex_7c1fcf14:
 
     # "{i}[m_name]'s dirty talk has made you very hard again, a fact that is noticed by her with appreciation."
-    ""
+    "{i}Sprośne odzywki [m_name] sprawiły, że znów stałeś się bardzo twardy, co zostało przez nią zauważone z uznaniem."
 
 # game/day36.rpy:1031
 translate polish day36_m_sex_75d4ff64:
@@ -4310,7 +4310,7 @@ translate polish day36_m_sex_28313203:
 translate polish day36_m_sex_b83dba08:
 
     # "{i}[m_name] rides you in complete ecstasy, her big breasts bouncing up and down as she slams down on your cock time and time again."
-    ""
+    "{i}[m_name] ujeżdża cię w całkowitej ekstazie, jej duże piersi podskakują w górę iw dół, gdy raz po raz uderza w twojego kutasa."
 
 # game/day36.rpy:1059
 translate polish day36_m_sex_8bc9e2a4:
@@ -4376,7 +4376,7 @@ translate polish day36_m_sex_db23eb8e:
 translate polish day36_m_sex_4eabf824:
 
     # "{i}Your friend has trouble moving, so you sway your hips back and forth, the aggressive thrusts heightening the ferocity of her orgasm."
-    ""
+    "{i}Twoja przyjaciółka ma trudności z poruszaniem się, więc kołyszesz biodrami w przód iw tył, agresywne pchnięcia zwiększają gwałtowność jej orgazmu."
 
 # game/day36.rpy:1076
 translate polish day36_m_sex_e2786395:
@@ -4418,7 +4418,7 @@ translate polish day36_m_sex_7c8b3609:
 translate polish day36_m_sex_be236a87:
 
     # "{i}Your efforts prove to be in vain as you roar and discharge inside your friend."
-    ""
+    "{i}Twoje wysiłki okazują się daremne, gdy ryczysz i wyładowujesz się w swoim przyjacielu."
 
 # game/day36.rpy:1091
 translate polish day36_m_sex_3d438760:
@@ -4460,7 +4460,7 @@ translate polish day36_m_sex_24946a86:
 translate polish day36_m_sex_976586e0:
 
     # "{i}Satisfied by your answer, your friend opens her mouth and directs your cock towards her face."
-    ""
+    "{i}Usatysfakcjonowana twoją odpowiedzią przyjaciółka otwiera usta i kieruje twojego kutasa w stronę jej twarzy."
 
 # game/day36.rpy:1108
 translate polish day36_m_sex_d18446c8:
@@ -4508,7 +4508,7 @@ translate polish day36_m_sex_804e6c27:
 translate polish day36_m_sex_f29ef088:
 
     # "{i}Satisfied by your answer, your friend directs your cock towards her lavish breasts."
-    ""
+    "{i}Zadowolony z twojej odpowiedzi, twój przyjaciel kieruje twojego kutasa w stronę jej obfitych piersi."
 
 # game/day36.rpy:1127
 translate polish day36_m_sex_d18446c8_1:
@@ -4574,7 +4574,7 @@ translate polish day36_m_sex_cf34601b:
 translate polish day36_m_sex_96ebfc43:
 
     # "{i}Giving [m_name] one last kiss, you get dressed and sneak out of her room."
-    ""
+    "{i}Dając [m_name] ostatni pocałunek, ubierasz się i wymykasz z jej pokoju."
 
 # game/day36.rpy:1162
 translate polish day36_flashback_bc0e3be9:
@@ -5252,7 +5252,7 @@ translate polish day36_r_sex_046d9882:
 translate polish day36_r_sex_48544073:
 
     # "{i}Your girlfriend is clearly not interested in any foreplay and spreads her legs to invite you in."
-    ""
+    "{i}Twoja dziewczyna najwyraźniej nie jest zainteresowana żadną grą wstępną i rozkłada nogi, aby zaprosić cię do środka."
 
 # game/day36.rpy:1313
 translate polish day36_r_sex_3638999f:
@@ -5294,7 +5294,7 @@ translate polish day36_r_sex_ba7131f6:
 translate polish day36_r_sex_6abfdb7e:
 
     # "{i}You never tire of [r_name]'s beautiful ass so you turn her over and reinsert your cock into her vagina again."
-    ""
+    "{i}Nigdy nie masz dość pięknego tyłka [r_name], więc odwracasz ją i ponownie wkładasz swojego kutasa do jej pochwy."
 
 # game/day36.rpy:1326
 translate polish day36_r_sex_6ba8a0c5:
@@ -5398,349 +5398,617 @@ translate polish strings:
     old "Try to penetrate her"
     new "Spróbuj ją spenetrować"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day36.rpy:207
+# game/day36.rpy:216
 translate polish day36_choices_75e35773:
 
     # m "No. I mean, you're a young man with needs..."
-    m "Nie, chodzi mi o to, że jesteś młodym człowiekiem z potrzebami."
+    m "Nie, wiem, że jesteś młodym mężczyzną, masz swoje potrzeby..."
 
-# game/day36.rpy:259
+# game/day36.rpy:268
 translate polish day36_choices_19b7ff68:
 
     # m "When Christian divorced me, I was lost."
-    m "Kiedy Christian się ze mną rozwiódł byłam zagubiona"
+    m "Kiedy Christian się ze mną rozwiódł, byłam zgubiona."
 
-# game/day36.rpy:261
+# game/day36.rpy:270
 translate polish day36_choices_0eb0841e:
 
     # m "When my husband divorced me, I was lost."
-    m "Kiedy mój mąż się rozwiódł byłam zagubiona"
+    m "Kiedy mój mąż się ze mną rozwiódł, byłam zagubiona."
 
-# game/day36.rpy:264
+# game/day36.rpy:273
 translate polish day36_choices_50aae9fd:
 
     # m "Once, there was a woman at my door after he'd left with you, demanding to speak with him."
-    m "Kiedyś pod moimi drzwiami, po tym jak wyszedł z tobą, stała kobieta domagająca się rozmowy z nim"
+    m "Kiedyś pod moimi drzwiami stanęła kobieta, po tym jak z Tobą odszedł, domagając się rozmowy z nim."
 
-# game/day36.rpy:267
+# game/day36.rpy:276
 translate polish day36_choices_71110acc:
 
     # m "I wanted to take back control and live again."
-    m "Chciałam odzyskać kontrolę i żyć na nowo"
+    m "Chciałem odzyskać kontrolę i żyć na nowo"
 
-# game/day36.rpy:273
+# game/day36.rpy:282
 translate polish day36_choices_460b2a5c:
 
     # m "After a while, I went to a club."
-    m "Po pewnym czasie poszedłem do klubu"
+    m "Po jakimś czasie poszłam do klubu."
 
-# game/day36.rpy:287
+# game/day36.rpy:297
 translate polish day36_choices_06d40d40:
 
     # m "And that's when I started Discreet, and Adriana came with me."
-    m "I wtedy założyłem Discreet i Adriana poszła ze mną"
+    m "I wtedy otworzyłam Discreet i Adriana przyłączyła się do mnie."
 
-# game/day36.rpy:299
+# game/day36.rpy:309
 translate polish day36_choices_9c125483:
 
     # p "When I first got here, you made these long hours at work. That seems to have passed."
-    p "Kiedy pierwszy raz tu przyjechałem, robiłeś te długie godziny w pracy To chyba minęło"
+    p "Kiedy przyjechałem tu po raz pierwszy, spędzałaś te długie godziny w pracy, teraz wydaje się, że to się zmieniło."
 
-# game/day36.rpy:329
+# game/day36.rpy:339
 translate polish day36_choices_9c4911b2:
 
     # "{i}Suddenly, [m_name] smiles at you and leans forward with a twinkle in her eye."
-    "{i}Nagle [m_name] uśmiecha się do ciebie i pochyla się z przymrużeniem oka."
+    "{i}Nagle [m_name] uśmiecha się do ciebie i pochyla do przodu z błyskiem w oku."
 
-# game/day36.rpy:332
+# game/day36.rpy:342
 translate polish day36_choices_6497994b:
 
     # m "I want to go back to bed, pull you close to me, and just lie with each other."
-    m "Chcę wrócić do łóżka przyciągnąć Cię do siebie i po prostu leżeć ze sobą"
+    m "Chcę wrócić do łóżka, przyciągnąć Cię blisko i po prostu poleżeć ze sobą."
 
-# game/day36.rpy:340
+# game/day36.rpy:354
 translate polish day36_choices_969ec276:
 
     # "{i}You walk back with [m_name] to the family home, and your mother chases you upstairs as soon as you close the front door."
-    "{i}Wracasz z [m_name] do domu rodzinnego i matka goni cię na górę, gdy tylko zamkniesz drzwi wejściowe."
+    "{i}Wracasz z Susan do domu, Twoja matka goni za Tobą na górę, gdy tylko zamykacie drzwi wejściowe."
 
-# game/day36.rpy:342
+# game/day36.rpy:356
 translate polish day36_choices_59d294fa:
 
     # "{i}You walk back with [m_name] to your home, and she chases you upstairs as soon as you close the front door."
     "{i}Wracasz z [m_name] do domu, a ona goni cię na górę, gdy tylko zamkniesz drzwi wejściowe."
 
-# game/day36.rpy:371
+# game/day36.rpy:391
 translate polish day36_choices_fb037daf:
 
     # b "Right now, you're not her favorite person in the world, and that's putting it mildly."
-    b "W tej chwili nie jesteś jej ulubioną osobą na świecie i to delikatnie mówiąc"
+    b "W tej chwili nie jesteś jej ulubioną osobą na świecie, delikatnie mówiąc."
 
-# game/day36.rpy:425
+# game/day36.rpy:445
 translate polish day36_choices_f547b4b9:
 
     # "{i}[b_name] is still sitting in the same position, too stunned to act otherwise as you leave her room."
-    "{i}[b_name] wciąż siedzi w tej samej pozycji zbyt oszołomiona, by zachować się inaczej, gdy wychodzisz z jej pokoju."
+    "{i}Bella dalej siedzi w tej samej pozycji, zbyt zszokowana, żeby się poruszyć. Wychodzisz z pokoju."
 
-# game/day36.rpy:450
+# game/day36.rpy:470
 translate polish day36_choices_bb39739d:
 
     # "{i}Your trusty computer awaits you for the remainder of the afternoon, and the sun is under before you know it."
-    "{i}Twój zaufany komputer czeka na ciebie przez resztę popołudnia, a słońce jest pod nim, zanim się zorientujesz"
+    "{i}Twój wierny laptop służy Ci przez resztę popołudnia, słońce zachodzi, zanim się orientujesz."
 
-# game/day36.rpy:483
+# game/day36.rpy:505
 translate polish day36_evening_choices_b7c60c84:
 
     # "{i}Spinning [l_name] around, her hair dances, and her smile is still visible on her face."
-    "{i}Kręcąc [l_name] wokół siebie jej włosy tańczą, a na jej twarzy wciąż widać uśmiech"
+    "{i}Kręcisz Lizą, jej włosy falują, a na jej twarzy dalej widać uśmiech."
 
-# game/day36.rpy:539
+# game/day36.rpy:565
 translate polish day36_evening_choices_cf2ca8ed:
 
     # "{i}Her plain and simple statement, paired with her loving smile, sends shivers down your spine."
-    "{i}Jej zwykłe i proste stwierdzenie sparowane z jej kochającym uśmiechem wysyła ciarki w dół kręgosłupa."
+    "{i}To proste stwierdzenie w połączeniu z jej przepełnionym miłością uśmiechem przyprawia Cię o dreszcze."
 
-# game/day36.rpy:561
+# game/day36.rpy:587
 translate polish day36_evening_choices_5bb31388:
 
     # p "Yes, please."
-    p "Tak proszę"
+    p "Tak, prosimy."
 
-# game/day36.rpy:566
+# game/day36.rpy:592
 translate polish day36_evening_choices_511962df:
 
     # l "What are you saying, silly? I'm dating right now, aren't I?"
-    l "Co ty mówisz głupku? Przecież umawiam się właśnie teraz na randkę, prawda?"
+    l "O czym Ty mówisz głuptasie? Przecież umawiam się z Tobą, prawda?"
 
-# game/day36.rpy:583
+# game/day36.rpy:609
 translate polish day36_evening_choices_db2f3816:
 
     # l "Every time you do that, I wonder what else there is for me to explore."
-    "Za każdym razem, gdy to robisz, zastanawiam się, co jeszcze jest dla mnie do odkrycia."
+    l "Za każdym razem, gdy to robisz, zastanawiam się, co jeszcze mam do odkrycia."
 
-# game/day36.rpy:598
+# game/day36.rpy:624
 translate polish day36_evening_choices_3082e756:
 
     # "{i}In between bites, you exchange loving glances with each other, a weird sort of electricity charging the air between you."
-    "{i}Pomiędzy kęsami wymieniacie ze sobą miłosne spojrzenia, a w powietrzu między wami unosi się dziwny rodzaj elektryczności."
+    "{i}Pomiędzy kęsami wymieniacie między sobą czułe spojrzenia, powietrze między wami zdaje się iskrzyć."
 
-# game/day36.rpy:599
+# game/day36.rpy:625
 translate polish day36_evening_choices_b34f7cc3:
 
     # "{i}The wine is also slowly starting to have its effects on you both, and the small talk is getting progressively boisterous."
-    "{i}Wino też powoli zaczyna działać na was obu, a small talk staje się stopniowo hałaśliwy"
+    "{i}Wino również powoli zaczyna działać na was oboje i wasza pogawędka staje się coraz głośniejsza."
 
-# game/day36.rpy:621
+# game/day36.rpy:647
 translate polish day36_evening_choices_fa76da25:
 
     # "{i}Your conversation trails off into other subjects, and pretty soon, you've finished the steaks."
-    "{i}Wasza rozmowa schodzi na inne tematy i dość szybko skończyliście steki."
+    "{i}Wasza rozmowa przechodzi na inne tematy i wkrótce kończycie wasz posiłek."
 
-# game/day36.rpy:629
+# game/day36.rpy:659
 translate polish day36_evening_choices_72671ab5:
 
     # "{i}The club you've visited before is nearby, and you decide to head there."
-    "{i}Klub, który wcześniej odwiedziłeś, znajduje się w pobliżu i postanawiasz się tam udać"
+    "{i}Klub, który odwiedziliście wcześniej, znajduje się w pobliżu i decydujecie się tam pójść."
 
-# game/day36.rpy:640
+# game/day36.rpy:670
 translate polish day36_evening_choices_5996158b:
 
     # "{i}The dancing inevitably makes you thirsty again, and you find yourselves back at the bar after a while."
-    "{i}Taniec nieuchronnie sprawia, że znów chce się pić i po jakimś czasie trafia się z powrotem do baru"
+    "{i}Taniec nieuchronnie sprawia, że ​​znowu dopada was pragnienie i po chwili wracacie do baru."
 
-# game/day36.rpy:644
+# game/day36.rpy:674
 translate polish day36_evening_choices_23c9d48d:
 
     # "{i}You leave [l_name] alone for a while to negotiate the waiting line at the bar."
-    "{i}Zostawiasz [l_name] na chwilę samego, by negocjować kolejkę przy barze"
+    "{i}Zostawiasz Lizę na chwilę samą, dołączając się do ludzi oczekujących przy barze."
 
-# game/day36.rpy:671
+# game/day36.rpy:701
 translate polish day36_evening_choices_e7f84bce:
 
     # "{i}Temporarily leaving [l_name], you find a spot where you can pick up the phone."
-    "{i}Tymczasowo opuszczając [l_name] znajdujesz miejsce, gdzie możesz odebrać telefon"
+    "{i}Tymczasowo opuszczając Lizę, znajdujesz miejsce, w którym możesz odebrać telefon."
 
-# game/day36.rpy:691
+# game/day36.rpy:721
 translate polish day36_evening_choices_c453006d:
 
     # woman "So again, my apologies for leaving you so abruptly."
-    woman "Więc jeszcze raz przepraszam, że tak gwałtownie cię opuściłam"
+    woman "Więc jeszcze raz przepraszam za tak nagłe opuszczenie cię"
 
-# game/day36.rpy:714
+# game/day36.rpy:744
 translate polish day36_evening_choices_4b164ace:
 
     # "{i}On the floor, [l_name] proves to you just how much she wants to dance with you as she launches into a series of very sensual movements, up close and personal."
-    "{i}Na parkiecie [l_name] udowadnia ci, jak bardzo chce z tobą tańczyć, gdy rozpoczyna serię bardzo zmysłowych ruchów z bliska i osobiście."
+    "{i}Na parkiecie [l_name] udowadnia ci, jak bardzo chce z tobą tańczyć, rozpoczynając serię bardzo zmysłowych ruchów z bliska i osobiście."
 
-# game/day36.rpy:744
+# game/day36.rpy:779
 translate polish day36_evening_choices_24b91071:
 
     # "{i}When [l_name]'s demand for kissing is satisfied, she rests her head on your shoulder, and you expect her to fall asleep."
-    "{i}Kiedy żądanie [l_name] dotyczące pocałunków zostaje zaspokojone, ona opiera głowę na twoim ramieniu, a ty oczekujesz, że zasnęła."
+    "{i}Kiedy zapotrzebowanie Lizy na 'buziaczki' jest już zaspokojone, kładzie głowę na Twoim ramieniu i spodziewasz się, że zaraz zaśnie."
 
-# game/day36.rpy:756
+# game/day36.rpy:791
 translate polish day36_evening_choices_96062dc9:
 
     # "{i}Then she starts to giggle, and you can't help but laugh with her."
-    "{i}Wtedy zaczyna chichotać i nie możesz pomóc, ale śmiejesz się z nią"
+    "{i}Potem zaczyna chichotać i nie możesz się już powstrzymać się od śmiechu razem z nią."
 
-# game/day36.rpy:759
+# game/day36.rpy:794
 translate polish day36_evening_choices_5255883a:
 
     # "{i}The cab is slowing down, so you know you've nearly arrived at your destination."
-    "{i}Taksówka zwalnia, więc wiesz, że już prawie dotarłeś do celu."
+    "{i}Taksówka zwalnia, więc wiesz, że jesteście już blisko celu."
 
-# game/day36.rpy:761
+# game/day36.rpy:797
 translate polish day36_evening_choices_fc765433:
 
     # "{i}Just a little embarrassed you pay the cab fare, but the driver is professional enough not to mention anything about the short but eventful drive."
-    "{i}Tylko trochę zawstydzony płacisz za taksówkę, ale kierowca jest na tyle profesjonalny, że nie wspomina nic o krótkiej, ale pełnej wrażeń jeździe"
+    "{i}Trochę zażenowany, płacisz za taksówkę, kierowca jest na tyle profesjonalny, że nie wspomina nic o krótkiej, ale pełnej wrażeń jeździe."
 
-# game/day36.rpy:781
-translate polish day36_evening_choices_2bc673f7:
-
-    # "{i}Her touch alone is enough to make you rock-hard, and you bury your head in her breasts in eager anticipation."
-    "{i}Sam jej dotyk wystarcza, by uczynić cię twardym jak skała i chowasz głowę w jej piersi w niecierpliwym oczekiwaniu."
-
-# game/day36.rpy:794
-translate polish day36_evening_choices_14a1e70d:
-
-    # "{i}[l_name] is clearly inexperienced, and when she starts to suck you properly, she has trouble controlling her gag reflex."
-    "{i}[l_name] jest wyraźnie niedoświadczona i kiedy zaczyna cię prawidłowo ssać, ma problemy z kontrolowaniem odruchu knebla"
-
-# game/day36.rpy:798
-translate polish day36_evening_choices_f109dff8:
-
-    # "{i}The feeling of training an inexperienced mouth more than makes up for the occasional clumsy manoeuver."
-    "{i}Poczucie wyszkolenia niedoświadczonej gęby z nawiązką rekompensuje sporadyczne niezgrabne manewry"
-
-# game/day36.rpy:837
+# game/day36.rpy:807
 translate polish day36_evening_choices_bebc6ffd:
 
     # p "Don't say those things."
     p "Nie mów takich rzeczy"
 
-# game/day36.rpy:882
+# game/day36.rpy:852
 translate polish day36_evening_choices_ba1b6712:
 
     # "{i}A little worried, you watch over [l_name], until you start to nod off as well and decide to fall asleep next to her."
-    "{i}Nieco zmartwiony czuwasz nad [l_name], aż w końcu i ty zaczynasz się kiwać i postanawiasz zasnąć obok niej."
+    "{i}Trochę zmartwiony czuwasz nad [l_name], aż zaczynasz zasypiać i decydujesz się zasnąć obok niej."
 
-# game/day36.rpy:901
+# game/day36.rpy:871
 translate polish day36_evening_choices_52a39d6a:
 
     # "{i}Shocked, you pull out and scramble from the bed, [l_name] begins to cry but doesn't allow herself to be touched."
-    "{i}Zszokowana wyrywasz się i zeskakujesz z łóżka [l_name] zaczyna płakać, ale nie pozwala się dotknąć."
+    "{i}Zszokowany, odsuwasz się od niej i schodzisz łóżka, Liza zaczyna płakać, ale nie pozwala Ci się dotknąć."
 
-# game/day36.rpy:942
+# game/day36.rpy:914
 translate polish day36_evening_choices_58307b01:
 
     # r "Doesn't sound too bad, actually."
-    r "Doesn't sound too bad actually"
+    r "To nie brzmi wcale tak źle."
 
-# game/day36.rpy:960
+# game/day36.rpy:932
 translate polish day36_evening_choices_2a0ee65c:
 
     # "{i}With a shock, you're jolted half-awake and notice the wet dream has also manifested itself in your underwear, but you're too tired to do anything about it."
-    "{i}Z szokiem jesteś wstrząśnięty półprzytomny i zauważasz, że mokry sen zamanifestował się również w twojej bieliźnie, ale jesteś zbyt zmęczony, aby coś z tym zrobić."
+    "{i}Z szokiem budzisz się na wpół przytomny i zauważasz, że mokry sen pojawił się również w twojej bieliźnie, ale jesteś zbyt zmęczony, by cokolwiek z tym zrobić."
 
-# game/day36.rpy:976
+# game/day36.rpy:951
 translate polish day36_m_sex_52cce6de:
 
     # "{i}You lie next to your mother on the bed and take her into your arms, immediately aware of her voluptuous ass pressing against your member."
-    "{i}Kładziesz się obok matki na łóżku i bierzesz ją w ramiona natychmiast świadomy jej zmysłowego tyłeczka napierającego na twojego członka."
+    "{i}Kładziesz się obok swojej matki na łóżku i bierzesz ją w ramiona, natychmiast zdając sobie sprawę z jej zmysłowego tyłka napierającego na twojego członka."
 
-# game/day36.rpy:978
+# game/day36.rpy:953
 translate polish day36_m_sex_8c2c9263:
 
     # "{i}You lie next to your friend on the bed and take her into your arms, immediately aware of her voluptuous ass pressing against your member."
-    "{i}Kładziesz się obok swojej przyjaciółki na łóżku i bierzesz ją w ramiona natychmiast świadomy jej zmysłowego tyłeczka napierającego na twojego członka."
+    "{i}Kładziesz się obok swojej przyjaciółki na łóżku i bierzesz ją w ramiona, natychmiast zdając sobie sprawę z jej zmysłowego tyłka napierającego na twojego członka."
 
-# game/day36.rpy:1053
+# game/day36.rpy:1046
 translate polish day36_m_sex_404cccc2:
 
     # "{i}Your last statement coincides with the first movements of her powerful hips, and your cock is stimulated by the contractions of her ribbed love tunnel."
-    "{i}Twoje ostatnie stwierdzenie zbiega się z pierwszymi ruchami jej potężnych bioder, a twój kutas jest stymulowany przez skurcze jej żebrowanego tunelu miłości."
+    "{i}Twoje ostatnie stwierdzenie zbiega się z pierwszymi ruchami jej potężnych bioder, stymuluje Twojego kutasa skurczami swojej żebrowanej dziurki."
 
 # game/day36.rpy:1076
 translate polish day36_m_sex_722198ba:
 
     # "{i}Although [m_name] is still experiencing the last vestiges of her orgasm, she resumes riding you as a reward for your admirable service."
-    "{i}Chociaż [m_name] wciąż doświadcza ostatnich śladów swojego orgazmu wznawia jazdę na tobie w nagrodę za twoją godną podziwu służbę."
+    "{i}Chociaż Susan wciąż przeżywa ostatnie fale swojego orgazmu, wznawia ujeżdżanie Cię, w ramach nagrody za Twoją nieocenioną pomoc."
 
-# game/day36.rpy:1093
+# game/day36.rpy:1097
 translate polish day36_m_sex_5976cd0d:
 
     # "{i}When you pull out, cum immediately starts leaking from between her wet labia, and she leaves her legs open for you to enjoy the sight."
-    "{i}Kiedy wyciągasz cum natychmiast zaczyna wyciekać z pomiędzy jej mokrymi wargami sromowymi, a ona zostawia otwarte nogi, abyś mógł cieszyć się tym widokiem."
+    "{i}Kiedy się z niej wysuwasz, sperma natychmiast zaczyna wyciekać spomiędzy jej mokrych warg, Susan nie zaciska nóg, pozwalając Ci cieszyć się tym widokiem."
 
-# game/day36.rpy:1230
+# game/day36.rpy:1270
 translate polish day36_flashback_ae30d2a1:
 
     # "{i}I expected a look of shock on Miley's face, but instead she wore an enigmatic smile, and I spotted a glint of intrigue in her eyes."
-    "{i}Spodziewałem się wyrazu szoku na twarzy Miley, ale zamiast tego nosiła enigmatyczny uśmiech, a w jej oczach dostrzegłem błysk intrygi"
+    "{i}Spodziewałem się szoku na twarzy Miley, ale zamiast tego uśmiechnęła się enigmatycznie i dostrzegłem błysk zaciekawienia w jej oczach."
 
-# game/day36.rpy:1269
+# game/day36.rpy:1332
 translate polish day36_flashback_73e0c9ee:
 
     # "{i}After climaxing, Sasha whispered something in Miley's ear, and suddenly the both of them were grinning at me."
-    "{i}Po kulminacji Sasha szepnęła coś do ucha Miley i nagle obie się do mnie uśmiechnęły."
+    "{i}Kiedy skończyła szczytować, Sasha szepnęła coś do ucha Miley i nagle obie się do mnie uśmiechnęły."
 
-# game/day36.rpy:1280
+# game/day36.rpy:1347
 translate polish day36_flashback_164549cf:
 
     # "{i}Sasha didn't get to answer that question as I slammed my dick deep inside her ribbed tunnel. Instead of yelping in pain, the woman just moaned in rapture."
-    "{i}Sasha nie dostał się do odpowiedzi na to pytanie, jak ja slammed mój kutas głęboko wewnątrz jej tunelu ribbed Zamiast krzyczeć w bólu kobieta tylko jęknął w rapture"
+    "{i}Sasha nie zdołała odpowiedzieć na to pytanie, bo wbiłem swojego penisa głęboko w jej mokrą szparkę i ona zamiast zaskowyczeć z bólu, jęknęła tylko z rozkoszy."
 
-# game/day36.rpy:1285
+# game/day36.rpy:1358
 translate polish day36_flashback_74c2d970:
 
     # "{i}Feeling a pang of regret, I hastily pulled out of Sasha and penetrated my girlfriend again."
-    "{i}Czując uderzenie żalu pospiesznie wyrwałem się z Saszy i ponownie penetrowałem moją dziewczynę"
+    "{i}Czując ukłucie żalu, pospiesznie wysunąłem się z Sashy i ponownie spenetrowałem moją dziewczynę."
 
-# game/day36.rpy:1296
+# game/day36.rpy:1379
 translate polish day36_flashback_911fc3ff:
 
     # "{i}After Miley uttered those words, Sasha cast me a knowing smile. From that moment, I knew this wouldn't be the last time I'd enjoy several women at once."
-    "{i}Po tym, jak Miley wypowiedziała te słowa Sasha rzuciła mi wiedzący uśmiech Od tego momentu wiedziałem, że to nie będzie ostatni raz, kiedy będę cieszył się kilkoma kobietami naraz"
+    "{i}Po tym, jak Miley wypowiedziała te słowa, Sasha rzuciła mi znajomy uśmiech. Od tego momentu wiedziałem, że to nie będzie ostatni raz, kiedy będę cieszył się kilkoma kobietami naraz."
 
-# game/day36.rpy:1313
+# game/day36.rpy:1412
 translate polish day36_r_sex_b328bc2c:
 
     # "{i}As soon as you make her supple, little body yours, she starts to moan encouragingly, and you fuck her hard."
-    "{i}Jak tylko sprawisz, że jej giętkie małe ciało będzie twoje, zaczyna jęczeć zachęcająco, a ty rżniesz ją mocno."
+    "{i}Gdy tylko penetrujesz jej jędrne, drobne ciałko, od razu jęczy zachęcająco, więc zaczynasz ruchać ją mocniej."
 
-# game/day36.rpy:1323
+# game/day36.rpy:1428
 translate polish day36_r_sex_3c9efa1b:
 
     # "{i}You never tire of your sister's beautiful ass so you turn her over and reinsert your cock into her vagina."
-    "{i}Nigdy nie męczy cię piękny tyłek twojej siostry, więc odwracasz ją i ponownie wkładasz swojego kutasa do jej pochwy."
+    "{i}Nigdy nie masz dość pięknego tyłka swojej siostry, więc odwracasz ją i ponownie wkładasz swojego kutasa do jej pochwy."
 
-# game/day36.rpy:1325
+# game/day36.rpy:1430
 translate polish day36_r_sex_5914c84e:
 
     # "{i}You never tire of [r_name]'s beautiful ass so you turn her over and reinsert your cock into her vagina."
-    "{i}Nigdy nie znudzi ci się piękny tyłek [r_name], więc odwracasz ją i ponownie wkładasz swojego kutasa do jej pochwy."
+    "{i}Nigdy nie masz dość pięknego tyłka [r_name], więc odwracasz ją i ponownie wkładasz swojego kutasa do jej pochwy."
 
-# game/day36.rpy:1327
+# game/day36.rpy:1432
 translate polish day36_r_sex_6a73d0ba:
 
     # "{i}The thought of stopping never occurred to you, and you keep your dick buried deep in her pussy."
-    "{i}Myśl o zatrzymaniu nigdy nie przyszła ci do głowy i trzymasz swojego kutasa zakopanego głęboko w jej cipce."
+    "{i}Myśl o zatrzymaniu się nigdy nie przyszła ci do głowy i trzymasz swojego kutasa głęboko w jej cipce."
 
-# game/day36.rpy:1359
+# game/day36.rpy:1480
 translate polish day36_r_sex_e9cbcbaa:
 
     # "{i}You turn [r_name] over at the last moment to get a look at her face when you pump your cum inside her."
-    "{i}Odwracasz [r_name] w ostatniej chwili, aby spojrzeć na jej twarz, kiedy pompujesz w nią swoje cum."
+    "{i}Obracasz Rachel w ostatniej chwili, aby spojrzeć na jej twarz, kiedy wpompowujesz w nią swoje nasienie."
+
+# game/day36.rpy:1510
+translate polish day36_l_blowjob_304be16a:
+
+    # l "Don't go, [p_name]."
+    l "Nie idź, [p_name]."
+
+# game/day36.rpy:1511
+translate polish day36_l_blowjob_4cb7cb3b:
+
+    # l "I don't want to be lllonely..."
+    l "Nie chcę być saamaa..."
+
+# game/day36.rpy:1516
+translate polish day36_l_blowjob_468ca890:
+
+    # "{i}Without ceremony, [l_name] drops her dress to the floor, exposing her naked body."
+    "{i}Bez ceregieli, Liza upuszcza swoją sukienkę na podłogę, odsłaniając swoje nagie ciało."
+
+# game/day36.rpy:1517
+translate polish day36_l_blowjob_21117e0e:
+
+    # l "Come on... you too!"
+    l "No weź... Ty też!"
+
+# game/day36.rpy:1518
+translate polish day36_l_blowjob_9b4a300b:
+
+    # "{i}[l_name]'s drunkenness surely has made her less reserved, but the eagerness is genuine at the same time."
+    "{i}To, że Liza jest nietrzeźwa, niewątpliwie sprawiło, że jest mniej powściągliwa, ale jednocześnie jej zapał jest całkowicie szczery."
+
+# game/day36.rpy:1521
+translate polish day36_l_blowjob_40e1009f:
+
+    # "{i}As your sister lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Kiedy Twoja siostra kładzie się obok Ciebie, gładzi Twoją skórę i patrzy na Ciebie wyczekująco."
+
+# game/day36.rpy:1523
+translate polish day36_l_blowjob_23775a35:
+
+    # "{i}As your friend lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Gdy twoja przyjaciółka kładzie się przy tobie, pieści twoją skórę i patrzy na ciebie wyczekująco."
+
+# game/day36.rpy:1524
+translate polish day36_l_blowjob_ac4d6993:
+
+    # l "I'm not ready to sleep..."
+    l "Nie jestem jeszcze gotowa do spania..."
+
+# game/day36.rpy:1525
+translate polish day36_l_blowjob_1249acbe:
+
+    # p "Me neither."
+    p "Ja też nie."
+
+# game/day36.rpy:1530
+translate polish day36_l_blowjob_7f7cb4c9:
+
+    # "{i}Saying nothing further, [l_name]'s hand wraps around your growing cock, her fingertips trailing the pulsing veins."
+    "{i}Nie mówiąc nic więcej, dłoń Lizy zaciska się na Twoim twardniejącym penisie, jej palce krążą po Twoich pulsujących żyłach."
+
+# game/day36.rpy:1531
+translate polish day36_l_blowjob_2bc673f7:
+
+    # "{i}Her touch alone is enough to make you rock-hard, and you bury your head in her breasts in eager anticipation."
+    "{i}Jej dotyk wystarcza, żebyś zrobił się twardy jak skała i wciskasz głowę między jej piersi w niecierpliwym oczekiwaniu."
+
+# game/day36.rpy:1533
+translate polish day36_l_blowjob_fc8508ce:
+
+    # "{i}At that point, [l_name] does something unexpected by positioning her body so that her head is very near your dick."
+    "{i}W tym momencie Liza robi coś nieoczekiwanego, ustawiając swoje ciało tak, że jej głowa jest bardzo blisko Twojego penisa."
+
+# game/day36.rpy:1534
+translate polish day36_l_blowjob_23992067:
+
+    # l "Is it better when I use my mouth instead of my hands?"
+    l "Będzie lepiej jeśli zamiast rąk użyję ust?"
+
+# game/day36.rpy:1535
+translate polish day36_l_blowjob_c0fae0d5:
+
+    # "{i}[l_name] speech is still slightly slurred, but the sexual energy has given her more determination than before."
+    "{i}Mowa Lizy jest nadal lekko niewyraźna, ale przez rosnące podniecenie jest bardziej zdeterminowana niż wcześniej."
+
+# game/day36.rpy:1536
+translate polish day36_l_blowjob_c5250ec4:
+
+    # p "Yes..."
+    p "Tak."
+
+# game/day36.rpy:1537
+translate polish day36_l_blowjob_d72fb300:
+
+    # l "I'd really like to try."
+    l "Chciałbym spróbować."
+
+# game/day36.rpy:1543
+translate polish day36_l_blowjob_4b4f4590:
+
+    # "{i}Not waiting on further encouragement, [l_name] prods your glans with the tip of her tongue."
+    "{i}Nie czekając na dalszą zachętę, Liza muska Twój żołądź koniuszkiem języka."
+
+# game/day36.rpy:1544
+translate polish day36_l_blowjob_4160e029:
+
+    # "{i}She then proceeds to lick the entire head, firing all the nerve endings and making you gasp under her control."
+    "{i}Następnie zaczyna lizać całą główkę, drażniąc wszystkie zakończenia nerwowe i sprawiając, że zaczynasz ciężko oddychać."
+
+# game/day36.rpy:1545
+translate polish day36_l_blowjob_7bf00fe8:
+
+    # "{i}You think you could cum from that stimulation alone, but [l_name] is already opening her mouth to invite your throbbing cock inside."
+    "{i}Myślisz, że samo to wystarczyłoby, żebyś doszedł, ale Liza już otwiera usta, zapraszając Twojego pulsującego penisa do środka."
+
+# game/day36.rpy:1551
+translate polish day36_l_blowjob_70dc081f:
+
+    # "{i}The feeling of her soft lips wrapping around your hard cock is amazing, as are the motions of her tongue over the head of your cock."
+    "{i}Dotyk jej miękkich ust owijających się wokół Twojego twardego fiuta jest niesamowity, tak samo jak ruchy jej języka, ślizgające się po główce Twojego kutasa."
+
+# game/day36.rpy:1552
+translate polish day36_l_blowjob_14a1e70d:
+
+    # "{i}[l_name] is clearly inexperienced, and when she starts to suck you properly, she has trouble controlling her gag reflex."
+    "{i}Liza jest wyraźnie niedoświadczona i kiedy przechodzi o właściwego ssania, ma problem z kontrolowaniem odruchu wymiotnego."
+
+# game/day36.rpy:1553
+translate polish day36_l_blowjob_d57a8d96:
+
+    # p "You're doing great baby!"
+    p "Świetnie Ci idzie kochanie!"
+
+# game/day36.rpy:1555
+translate polish day36_l_blowjob_7b5ec7da:
+
+    # "{i}Despite her teeth brushing against your sensitive member from time to time, [l_name]'s blowjob is very pleasurable."
+    "{i}Mimo, że od czasu do czasu ociera się o Ciebie zębami, lodzik Lizy jest bardzo przyjemny."
+
+# game/day36.rpy:1556
+translate polish day36_l_blowjob_f109dff8:
+
+    # "{i}The feeling of training an inexperienced mouth more than makes up for the occasional clumsy manoeuver."
+    "{i}Uczucie trenowania niedoświadczonych ust z nawiązką rekompensuje okazjonalne niezdarne manewry."
+
+# game/day36.rpy:1561
+translate polish day36_l_blowjob_625c9227:
+
+    # "{i}A little exhausted, [l_name] pauses her efforts."
+    "{i}Nieco zmęczona, Liza przerywa swoje wysiłki."
+
+# game/day36.rpy:1562
+translate polish day36_l_blowjob_d73077d3:
+
+    # l "Am I doing okay?"
+    l "Dobrze mi idzie?"
+
+# game/day36.rpy:1563
+translate polish day36_l_blowjob_64e16b30:
+
+    # p "Quite."
+    p "Bardzo."
+
+# game/day36.rpy:1564
+translate polish day36_l_blowjob_45ff7505:
+
+    # l "I'm not hurting you?"
+    l "Nie robię Ci krzywdy?"
+
+# game/day36.rpy:1565
+translate polish day36_l_blowjob_9e9e52ef:
+
+    # p "No, you're not, you're doing great, trust me."
+    p "Nie, w żadnym wypadku, zaufaj mi, świetnie sobie radzisz."
+
+# game/day36.rpy:1566
+translate polish day36_l_blowjob_b891e4dc:
+
+    # p "Just keep it covered in saliva and be wary of your teeth."
+    p "Po prostu pamiętaj, żeby pokrywać go śliną i uważaj na zęby."
+
+# game/day36.rpy:1567
+translate polish day36_l_blowjob_6067bdda:
+
+    # l "I will."
+    l "Dobrze."
+
+# game/day36.rpy:1568
+translate polish day36_l_blowjob_183c34cd:
+
+    # l "Will you warn me when you're about to cum?"
+    l "Ostrzeżesz mnie, kiedy będziesz dochodził?"
+
+# game/day36.rpy:1569
+translate polish day36_l_blowjob_d8a3ffd9:
+
+    # p "Of course."
+    p "Oczywiście."
+
+# game/day36.rpy:1574
+translate polish day36_l_blowjob_de583bdb:
+
+    # "{i}With renewed energy, [l_name] goes down on you, feeling confident enough to massage your balls with her other hand."
+    "{i}Z odnowioną energią, Liza rzuca się na Ciebie, czując się już wystarczająco pewnie, aby drugą ręką zacząć masować Twoje jądra."
+
+# game/day36.rpy:1575
+translate polish day36_l_blowjob_2f7ca07a:
+
+    # "{i}Her unsure glances become less frequent as she fully focuses on blowing you in a rhythm that doesn't make you last long."
+    "{i}Jej niepewne spojrzenia stają się coraz rzadsze, ponieważ skupia się w pełni na obciąganiu Ci w takim rytmie, który sprawia, że nie jesteś w stanie długo wytrzymać."
+
+# game/day36.rpy:1576
+translate polish day36_l_blowjob_d0096822:
+
+    # p "I'm nearly there baby."
+    p "Jestem już blisko, kochanie."
+
+# game/day36.rpy:1577
+translate polish day36_l_blowjob_d887ba44:
+
+    # "{i}[l_name] smiles and keeps sucking you until you attempt to push her away, but she doesn't let you."
+    "{i}Liza uśmiecha się i dalej Ci ssie, aż w końcu próbujesz ją odepchnąć, ale ona Ci nie pozwala."
+
+# game/day36.rpy:1578
+translate polish day36_l_blowjob_c1b9bbcf:
+
+    # p "I'm going to cum, [l_name]!"
+    p "Liza zaraz dojdę!"
+
+# game/day36.rpy:1579
+translate polish day36_l_blowjob_690af96d:
+
+    # p "You might want to... aaaah!"
+    p "Możesz chcieć... Aaaah!"
+
+# game/day36.rpy:1583
+translate polish day36_l_blowjob_ade7c46f:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your sister looks determined and wants to receive every last drop of warm cum."
+    "{i}Bezradny, spuszczasz się w usta Lizy, Twoja siostra wydaje się zdeterminowana, żeby wyssać z Ciebie każdą kropelkę Twojej gorącej spermy."
+
+# game/day36.rpy:1585
+translate polish day36_l_blowjob_46f700e1:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your friend looks determined and wants to receive every last drop of warm cum."
+    "{i}Bezradny rozładowujesz się w ustach [l_name], twój przyjaciel wygląda na zdeterminowanego i chce otrzymać każdą ostatnią kroplę ciepłej spermy."
+
+# game/day36.rpy:1586
+translate polish day36_l_blowjob_a4734eca:
+
+    # "{i}[l_name] treats your cock to a couple of last licks and then bravely swallows your entire load."
+    "{i}Liza pozwala sobie jeszcze kilka razy liznąć Twojego kutasa, a następnie dzielnie połyka całą Twoją spermę."
+
+# game/day36.rpy:1587
+translate polish day36_l_blowjob_2a363f04:
+
+    # p "Why did you do that?"
+    p "Dlaczego to zrobiłaś?"
+
+# game/day36.rpy:1588
+translate polish day36_l_blowjob_092822c9:
+
+    # p "You asked me to warn you?"
+    p "Prosiłaś, żebym Cię ostrzegł?"
+
+# game/day36.rpy:1589
+translate polish day36_l_blowjob_abd3af6f:
+
+    # l "Ssshh... No rules..."
+    l "Ciii... Żadnych zasad..."
+
+# game/day36.rpy:1595
+translate polish day36_l_blowjob_22bb8206:
+
+    # "{i}While you're still enjoying the last waves of your orgasm, [l_name] moves to sit on your leg and keeps you firmly in your place."
+    "{i}Kiedy wciąż odczuwasz jeszcze ostatnie fale swojego orgazmu, Liza siada na Twojej nodze, przytrzymując Cię mocno na swoim miejscu."
+
+# game/day36.rpy:1596
+translate polish day36_l_blowjob_30516eca:
+
+    # "{i}The moistness of her pussy is clearly noticeable on your bare skin and she starts making wet trails on your leg as she rubs herself on your leg."
+    "{i}Wyraźnie wyczuwasz na swojej gołej skórze, jaka jest mokra, zaczyna zostawiać na Twojej nodze mokre ślady, ocierając się o nią."
+
+# game/day36.rpy:1597
+translate polish day36_l_blowjob_4019def0:
+
+    # l "I'm just your little ssslut."
+    l "Jestem tylko Twoją małą kurrrewką."
 
 translate polish strings:
 
-    # game/day36.rpy:835
+    # game/day36.rpy:805
     old "Interrupt her"
     new "Przerwij jej"
->>>>>>> polish
+

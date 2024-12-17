@@ -92,7 +92,7 @@ translate polish day139_3c3abe6d:
 translate polish day139_55073402:
 
     # "{i}Most of the nights you spend in [m_name]'s bed, together with your other friends."
-    ""
+    "{i}Większość nocy spędzasz w łóżku [m_name] razem z innymi przyjaciółmi."
 
 # game/day139.rpy:110
 translate polish day139_4728c82c_1:
@@ -110,7 +110,7 @@ translate polish day139_e029f91c:
 translate polish day139_6e2933b7:
 
     # "{i}Most of the nights you spend with your friends in one of their beds."
-    ""
+    "{i}Większość nocy spędzasz z przyjaciółmi w jednym z ich łóżek."
 
 # game/day139.rpy:116
 translate polish day139_3e41f967:
@@ -422,7 +422,7 @@ translate polish day139_237dbb3d:
 translate polish day139_0a5e6725:
 
     # "{i}The rest of your friends are already sitting at the breakfast table."
-    ""
+    "{i}Reszta twoich przyjaciół już siedzi przy stole śniadaniowym."
 
 # game/day139.rpy:201
 translate polish day139_64137886:
@@ -452,7 +452,7 @@ translate polish day139_f558304d:
 translate polish day139_8108002a:
 
     # b "You always complain when we don't sleep together in [m_name]'s room."
-    b ""
+    b "Zawsze narzekasz, kiedy nie śpimy razem w pokoju [m_name]."
 
 # game/day139.rpy:210
 translate polish day139_c36e756b:
@@ -494,7 +494,7 @@ translate polish day139_234694ab:
 translate polish day139_31109dd2:
 
     # r "Why don't you have any trouble, [m_name]?"
-    r ""
+    r "Dlaczego nie masz żadnych problemów [m_name]?."
 
 # game/day139.rpy:223
 translate polish day139_af329c67:
@@ -632,7 +632,7 @@ translate polish day139_dc86a462:
 translate polish day139_4f3b5d8a:
 
     # r "You look great, [m_name]."
-    r ""
+    r "Wyglądasz świetnie [m_name]"
 
 # game/day139.rpy:261
 translate polish day139_8c837023:
@@ -692,7 +692,133 @@ translate polish day139_234694ab_1:
 translate polish day139_31109dd2_1:
 
     # r "Why don't you have any trouble, [m_name]?"
-    r ""
+    r "Dlaczego nie masz żadnych problemów [m_name]?."
+
+# game/day139.rpy:279
+translate polish day139_af329c67_1:
+
+    # m "Not a clue, but I'm grateful."
+    m "Nie mam pojęcia, ale jestem wdzięczna."
+
+# game/day139.rpy:281
+translate polish day139_16904c6a:
+
+    # l "Could we please talk about something else?"
+    l "Proszę, możemy porozmawiać o czymś innym?"
+
+# game/day139.rpy:282
+translate polish day139_d7e1982b:
+
+    # l "You're making me very uncomfortable."
+    l "Sprawiacie, że czuję się bardzo nieswojo."
+
+# game/day139.rpy:286
+translate polish day139_d225b194_1:
+
+    # b "I still have those terrible bouts of morning sickness."
+    b "Ciągle mam te okropne napady porannych mdłości."
+
+# game/day139.rpy:288
+translate polish day139_08db4ce1:
+
+    # b "It doesn't seem fair that none of you are affected."
+    b "To niesprawiedliwe, że nikogo z was to nie dotknęło."
+
+# game/day139.rpy:290
+translate polish day139_904fbdaa:
+
+    # b "It doesn't seem fair that it's only happened to me."
+    b "To niesprawiedliwe, że zdarzyło się to tylko mnie."
+
+# game/day139.rpy:291
+translate polish day139_5b7559de_1:
+
+    # m "I'm sure it'll pass, [b_name]."
+    m "Jestem pewna, że to minie, Bella."
+
+# game/day139.rpy:292
+translate polish day139_0dcd9ae5_1:
+
+    # r "Otherwise I'm sure [p_name] will care for you just a little extra."
+    r "A jeśli nie, to założę się, że [p_name] o Ciebie zadba."
+
+# game/day139.rpy:293
+translate polish day139_d8a3ffd9_2:
+
+    # p "Of course."
+    p "Oczywiście."
+
+# game/day139.rpy:297
+translate polish day139_dc86a462_1:
+
+    # r "You look great, mom."
+    r "Świetnie wyglądasz, mamo."
+
+# game/day139.rpy:260
+translate polish day139_4f3b5d8a:
+
+    # r "You look great, [m_name]."
+    r "Wyglądasz świetnie [m_name]"
+
+# game/day139.rpy:261
+translate polish day139_8c837023:
+
+    # m "Thanks, I feel great too."
+    m "Dzięki, tak też się czuję."
+
+# game/day139.rpy:263
+translate polish day139_15c55770:
+
+    # "{i}You continue your happy chit-chatting until it's time to clear the table."
+    "{i}Kontynuujecie wasze radosne pogawędki, aż nadchodzi czas, żeby posprzątać ze stołu."
+
+# game/day139.rpy:265
+translate polish day139_58cea1a2:
+
+    # m "Everybody slept well?"
+    m "Wszyscy dobrze spali?"
+
+# game/day139.rpy:266
+translate polish day139_1d8e2dfb_1:
+
+    # b "Sure."
+    b "Pewnie."
+
+# game/day139.rpy:269
+translate polish day139_09c402bf:
+
+    # r "I'm just glad my room is nearest to the toilet, which comes in handy these days."
+    r "Po prostu cieszę się, że mój pokój jest najbliżej toalety, to ostatnio naprawdę się przydaje."
+
+# game/day139.rpy:270
+translate polish day139_d22488c9_1:
+
+    # m "Do you still have morning sickness, dear?"
+    m "Nadal masz poranne mdłości, kochanie?"
+
+# game/day139.rpy:271
+translate polish day139_c6e93588_1:
+
+    # r "I do."
+    r "Tak."
+
+# game/day139.rpy:273
+translate polish day139_45f91bb4_1:
+
+    # b "Me too..."
+    b "Ja też..."
+
+# game/day139.rpy:276
+translate polish day139_234694ab_1:
+
+    # r "Why don't you have any trouble, mom?"
+    r "Dlaczego Ty nie masz z tym problemów, mamo?"
+
+# game/day139.rpy:278
+translate polish day139_31109dd2_1:
+
+    # r "Why don't you have any trouble, [m_name]?"
+    r "Dlaczego nie masz żadnych problemów [m_name]?."
 
 # game/day139.rpy:279
 translate polish day139_af329c67_1:
@@ -758,7 +884,7 @@ translate polish day139_dc86a462_1:
 translate polish day139_4f3b5d8a_1:
 
     # r "You look great, [m_name]."
-    r ""
+    r "Wyglądasz świetnie [m_name]"
 
 # game/day139.rpy:300
 translate polish day139_8c837023_1:
@@ -836,7 +962,7 @@ translate polish day139_a5dacdae:
 translate polish day139_40cfcce7:
 
     # r "Ugh, we had that talk already, [m_name]."
-    r ""
+    r "Ugh, już o tym rozmawialiśmy [m_name]"
 
 # game/day139.rpy:321
 translate polish day139_590fba2a:
@@ -974,7 +1100,7 @@ translate polish day139_01c0806a:
 translate polish day139_8e574043:
 
     # b "You're being awfully mysterious about the father of your child too, [m_name]."
-    b ""
+    b "Jesteś strasznie tajemnicza, jeśli chodzi o ojca twojego dziecka [m_name]."
 
 # game/day139.rpy:352
 translate polish day139_d50cdac6:
@@ -1322,7 +1448,7 @@ translate polish day139_104eafef:
 translate polish day139_f2ea7476:
 
     # l "Yes, [m_name]."
-    l ""
+    l "Yes [m_name]"
 
 # game/day139.rpy:432
 translate polish day139_70f920f8_1:
@@ -1394,7 +1520,7 @@ translate polish day139_25184233:
 translate polish day139_7a51455e:
 
     # r "So [m_name], when are you finally going to tell us who made you pregnant?"
-    r ""
+    r "Więc [m_name], kiedy w końcu powiesz nam, kto sprawił, że jesteś w ciąży?"
 
 # game/day139.rpy:449
 translate polish day139_c6281fa9:
@@ -1982,7 +2108,7 @@ translate polish day139_choices_2debafc2:
 translate polish day139_choices_725891ae:
 
     # m "I didn't know being with child sucked up so much energy."
-    m ""
+    m "Nie wiedziałem, że bycie z dzieckiem pochłania tyle energii"
 
 # game/day139.rpy:612
 translate polish day139_choices_8d52481e_1:
@@ -2120,7 +2246,7 @@ translate polish day139_evening_choices_694cc005:
 translate polish day139_evening_choices_8ae8130c:
 
     # ri "Your friends are okay with that?"
-    ri ""
+    ri "Twoim przyjaciołom to nie przeszkadza?"
 
 # game/day139.rpy:668
 translate polish day139_evening_choices_72667375:
@@ -2258,7 +2384,7 @@ translate polish day139_evening_choices_13a61807:
 translate polish day139_evening_choices_23b1589e:
 
     # ir "Just wonderful by the way, seeing some of your friends with child."
-    ir ""
+    ir "Po prostu cudownie jest zobaczyć znajomych z dzieckiem"
 
 # game/day139.rpy:708
 translate polish day139_evening_choices_c4d153d2:
@@ -2306,7 +2432,7 @@ translate polish day139_evening_choices_98f56813:
 translate polish day139_evening_choices_3fc4e82c:
 
     # ir "Just wonderful by the way, seeing your friend with child."
-    ir ""
+    ir "Swoją drogą, cudownie widzieć przyjaciela z dzieckiem"
 
 # game/day139.rpy:721
 translate polish day139_evening_choices_3820cdcd_1:
@@ -2414,7 +2540,7 @@ translate polish day139_evening_choices_9d062a4d:
 translate polish day139_evening_choices_71e5371b:
 
     # b "[m_name] too."
-    b ""
+    b "[m_name] too"
 
 # game/day139.rpy:756
 translate polish day139_evening_choices_c1c34153:
@@ -2438,7 +2564,7 @@ translate polish day139_evening_choices_9d062a4d_1:
 translate polish day139_evening_choices_71e5371b_1:
 
     # b "[m_name] too."
-    b ""
+    b "[m_name] too"
 
 # game/day139.rpy:763
 translate polish day139_evening_choices_7992448b:
@@ -2462,7 +2588,7 @@ translate polish day139_evening_choices_9d062a4d_2:
 translate polish day139_evening_choices_71e5371b_2:
 
     # b "[m_name] too."
-    b ""
+    b "[m_name] too"
 
 # game/day139.rpy:771
 translate polish day139_evening_choices_fdc7e351:
@@ -2474,7 +2600,7 @@ translate polish day139_evening_choices_fdc7e351:
 translate polish day139_evening_choices_c8ca1103:
 
     # b "[m_name] isn't joining us?"
-    b ""
+    b "[m_name] nie dołącza do nas?"
 
 # game/day139.rpy:774
 translate polish day139_evening_choices_94b97b78_2:
@@ -3170,7 +3296,7 @@ translate polish day139_l_ju_6260f9a4:
 translate polish day139_l_ju_18d51a1a:
 
     # l "All the friends I live with are pregnant."
-    l ""
+    l "Wszystkie koleżanki, z którymi mieszkam, są w ciąży"
 
 # game/day139.rpy:980
 translate polish day139_l_ju_ec0f22e3:
@@ -3182,7 +3308,7 @@ translate polish day139_l_ju_ec0f22e3:
 translate polish day139_l_ju_e1495239:
 
     # l "My younger friends I live with are all pregnant."
-    l ""
+    l "Moje młodsze koleżanki, z którymi mieszkam, są w ciąży"
 
 # game/day139.rpy:985
 translate polish day139_l_ju_f3610472:
@@ -3194,7 +3320,7 @@ translate polish day139_l_ju_f3610472:
 translate polish day139_l_ju_9d654ce9:
 
     # l "[m_name] and [r_name] are both pregnant."
-    l ""
+    l "[m_name] i [r_name] są w ciąży"
 
 # game/day139.rpy:990
 translate polish day139_l_ju_a70313a7:
@@ -3206,7 +3332,7 @@ translate polish day139_l_ju_a70313a7:
 translate polish day139_l_ju_8c23dfdd:
 
     # l "[m_name] and [b_name] are both pregnant."
-    l ""
+    l "[m_name] i [b_name] są w ciąży"
 
 # game/day139.rpy:995
 translate polish day139_l_ju_25976df8:
@@ -3218,7 +3344,7 @@ translate polish day139_l_ju_25976df8:
 translate polish day139_l_ju_fdaa2a6d:
 
     # l "[b_name] is pregnant."
-    l ""
+    l "[b_name] jest w ciąży"
 
 # game/day139.rpy:1000
 translate polish day139_l_ju_b9dcc168:
@@ -3230,7 +3356,7 @@ translate polish day139_l_ju_b9dcc168:
 translate polish day139_l_ju_a737538c:
 
     # l "[r_name] is pregnant."
-    l ""
+    l "[r_name] jest w ciąży"
 
 # game/day139.rpy:1005
 translate polish day139_l_ju_c7f1fbe1:
@@ -3242,7 +3368,7 @@ translate polish day139_l_ju_c7f1fbe1:
 translate polish day139_l_ju_e3167afc:
 
     # l "[m_name] is pregnant."
-    l ""
+    l "[m_name] jest w ciąży"
 
 # game/day139.rpy:1010
 translate polish day139_l_ju_9fd21892:
@@ -3284,7 +3410,7 @@ translate polish day139_l_ju_065050a8:
 translate polish day139_l_ju_f66ede1a:
 
     # l "I think my friend [p_name] is the father of all the children."
-    l ""
+    l "Myślę, że mój przyjaciel [p_name] jest ojcem wszystkich dzieci"
 
 # game/day139.rpy:1022
 translate polish day139_l_ju_c19a2131:
@@ -3314,13 +3440,13 @@ translate polish day139_l_ju_c19a2131_1:
 translate polish day139_l_ju_53dd0468:
 
     # l "My friends are in all in the same relationship."
-    l ""
+    l "Moi przyjaciele są w tym samym związku"
 
 # game/day139.rpy:1032
 translate polish day139_l_ju_68fc2e0c:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1035
 translate polish day139_l_ju_8fae3a95:
@@ -3350,13 +3476,13 @@ translate polish day139_l_ju_c19a2131_2:
 translate polish day139_l_ju_ecfda999:
 
     # l "My friends are all in a relationship with each other."
-    l ""
+    l "Moi przyjaciele są ze sobą w związkach"
 
 # game/day139.rpy:1043
 translate polish day139_l_ju_68fc2e0c_1:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1046
 translate polish day139_l_ju_26fa7d1d:
@@ -3386,13 +3512,13 @@ translate polish day139_l_ju_c19a2131_3:
 translate polish day139_l_ju_ecfda999_1:
 
     # l "My friends are all in a relationship with each other."
-    l ""
+    l "Moi przyjaciele są ze sobą w związkach"
 
 # game/day139.rpy:1054
 translate polish day139_l_ju_68fc2e0c_2:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1057
 translate polish day139_l_ju_26fa7d1d_1:
@@ -3422,13 +3548,13 @@ translate polish day139_l_ju_c19a2131_4:
 translate polish day139_l_ju_ecfda999_2:
 
     # l "My friends are all in a relationship with each other."
-    l ""
+    l "Moi przyjaciele są ze sobą w związkach"
 
 # game/day139.rpy:1065
 translate polish day139_l_ju_68fc2e0c_3:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1068
 translate polish day139_l_ju_97e3963d:
@@ -3452,19 +3578,19 @@ translate polish day139_l_ju_c19a2131_5:
 translate polish day139_l_ju_1dc5c569:
 
     # l "My friend is in a relationship with [p_name]."
-    l ""
+    l "Mój przyjaciel jest w związku z [p_name]"
 
 # game/day139.rpy:1075
 translate polish day139_l_ju_5b5938ea_1:
 
     # l "She's with child."
-    l ""
+    l "Jest w ciąży."
 
 # game/day139.rpy:1076
 translate polish day139_l_ju_30b74739:
 
     # ju "A child born out of wedlock? Ghastly."
-    ju ""
+    ju "Dziecko urodzone poza małżeństwem? Ohyda"
 
 # game/day139.rpy:1078
 translate polish day139_l_ju_a58de813:
@@ -3662,13 +3788,13 @@ translate polish day139_l_ju_c19a2131_6:
 translate polish day139_l_ju_53dd0468_1:
 
     # l "My friends are in all in the same relationship."
-    l ""
+    l "Moi przyjaciele są w tym samym związku"
 
 # game/day139.rpy:1128
 translate polish day139_l_ju_68fc2e0c_4:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1131
 translate polish day139_l_ju_8fae3a95_1:
@@ -3686,13 +3812,13 @@ translate polish day139_l_ju_c19a2131_7:
 translate polish day139_l_ju_ecfda999_3:
 
     # l "My friends are all in a relationship with each other."
-    l ""
+    l "Moi przyjaciele są ze sobą w związkach"
 
 # game/day139.rpy:1135
 translate polish day139_l_ju_68fc2e0c_5:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1138
 translate polish day139_l_ju_26fa7d1d_2:
@@ -3710,13 +3836,13 @@ translate polish day139_l_ju_c19a2131_8:
 translate polish day139_l_ju_ecfda999_4:
 
     # l "My friends are all in a relationship with each other."
-    l ""
+    l "Moi przyjaciele są ze sobą w związkach"
 
 # game/day139.rpy:1142
 translate polish day139_l_ju_68fc2e0c_6:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1145
 translate polish day139_l_ju_26fa7d1d_3:
@@ -3734,13 +3860,13 @@ translate polish day139_l_ju_c19a2131_9:
 translate polish day139_l_ju_ecfda999_5:
 
     # l "My friends are all in a relationship with each other."
-    l ""
+    l "Moi przyjaciele są ze sobą w związkach"
 
 # game/day139.rpy:1149
 translate polish day139_l_ju_68fc2e0c_7:
 
     # ju "Polyamory? That's ghastly, [l_name]."
-    ju ""
+    ju "Poliamoria? To okropne [l_name]"
 
 # game/day139.rpy:1152
 translate polish day139_l_ju_97e3963d_1:
@@ -3758,7 +3884,7 @@ translate polish day139_l_ju_c19a2131_10:
 translate polish day139_l_ju_1dc5c569_1:
 
     # l "My friend is in a relationship with [p_name]."
-    l ""
+    l "Mój przyjaciel jest w związku z [p_name]"
 
 # game/day139.rpy:1156
 translate polish day139_l_ju_a58de813_1:
@@ -3818,7 +3944,7 @@ translate polish day139_l_ju_fc0b1f4b:
 translate polish day139_l_ju_e0366264:
 
     # l "My friends are all acting weird around me."
-    l ""
+    l "Moi przyjaciele dziwnie się przy mnie zachowują"
 
 # game/day139.rpy:1172
 translate polish day139_l_ju_3bcb24bf:
@@ -3830,7 +3956,7 @@ translate polish day139_l_ju_3bcb24bf:
 translate polish day139_l_ju_e0366264_1:
 
     # l "My friends are all acting weird around me."
-    l ""
+    l "Moi przyjaciele dziwnie się przy mnie zachowują"
 
 # game/day139.rpy:1177
 translate polish day139_l_ju_b590f515:
@@ -3842,7 +3968,7 @@ translate polish day139_l_ju_b590f515:
 translate polish day139_l_ju_e0366264_2:
 
     # l "My friends are all acting weird around me."
-    l ""
+    l "Moi przyjaciele dziwnie się przy mnie zachowują"
 
 # game/day139.rpy:1182
 translate polish day139_l_ju_b590f515_1:
@@ -3854,7 +3980,7 @@ translate polish day139_l_ju_b590f515_1:
 translate polish day139_l_ju_e0366264_3:
 
     # l "My friends are all acting weird around me."
-    l ""
+    l "Moi przyjaciele dziwnie się przy mnie zachowują"
 
 # game/day139.rpy:1188
 translate polish day139_l_ju_812f904e:
@@ -3872,7 +3998,7 @@ translate polish day139_l_ju_dc944c73:
 translate polish day139_l_ju_e0366264_4:
 
     # l "My friends are all acting weird around me."
-    l ""
+    l "Moi przyjaciele dziwnie się przy mnie zachowują"
 
 # game/day139.rpy:1193
 translate polish day139_l_ju_dd27ba2c:
@@ -3902,7 +4028,7 @@ translate polish day139_l_ju_295d3362:
 translate polish day139_l_ju_d0d88dd2:
 
     # l "I think they're in a relationship with each other."
-    l ""
+    l "Myślę, że są ze sobą w związku"
 
 # game/day139.rpy:1200
 translate polish day139_l_ju_0b3bd4b9:
@@ -4400,7 +4526,7 @@ translate polish day139_iris_home_5a05da23:
 translate polish day139_iris_home_18486874:
 
     # p "We'll meet the rest of my friends later."
-    p ""
+    p "Z resztą moich przyjaciół spotkamy się później"
 
 # game/day139.rpy:1306
 translate polish day139_iris_home_5bcc3e2e:
@@ -4502,7 +4628,7 @@ translate polish day139_ri_home_2766a9f7:
 translate polish day139_ri_home_d9b29698:
 
     # ri "But you live there with your friends, don't you?"
-    ri ""
+    ri "Ale mieszkasz tam ze swoimi przyjaciółmi, prawda?."
 
 # game/day139.rpy:1334
 translate polish day139_ri_home_245ce6cc:
@@ -4562,7 +4688,7 @@ translate polish day139_ri_home_64c3aa10:
 translate polish day139_ri_home_3bc3eb0e:
 
     # p "I'll help you pack your things and then we'll go and meet the other girls."
-    p ""
+    p "Pomogę ci spakować rzeczy, a potem pójdziemy spotkać się z innymi dziewczynami."
 
 # game/day139.rpy:1348
 translate polish day139_ri_home_bab92518:
@@ -5774,7 +5900,7 @@ translate polish day139_b_me_54bc7a76:
 translate polish day139_b_me_31f44485:
 
     # "{i}You are about to go to [b_name]'s room, when there's a soft knock on your door."
-    ""
+    "{i}Już masz iść do pokoju [b_imię], gdy rozlega się ciche pukanie do drzwi."
 
 # game/day139.rpy:1639
 translate polish day139_b_me_a75a996d:
@@ -6140,7 +6266,7 @@ translate polish day139_b_me_c421e6d0:
 translate polish day139_b_me_2d45bad9:
 
     # me "I really want your boyfriend's dick."
-    me ""
+    me "Naprawdę chcę kutasa twojego chłopaka"
 
 # game/day139.rpy:1726
 translate polish day139_b_me_496ad0a4:
@@ -6200,7 +6326,7 @@ translate polish day139_b_me_f6d8dc8b:
 translate polish day139_b_me_c6d1b85a:
 
     # me "Oh [b_name], your boyfriend is so big!"
-    me ""
+    me "Oh [b_name] twój chłopak jest taki duży!"
 
 # game/day139.rpy:1741
 translate polish day139_b_me_f5d1c8a0:
@@ -6236,7 +6362,7 @@ translate polish day139_b_me_4ad34ad6:
 translate polish day139_b_me_026bab96:
 
     # "{i}After reinserting your cock in her warm pussy, [b_name]'s friend lets herself be fucked like an animal."
-    ""
+    "{i}Po ponownym włożeniu kutasa do jej ciepłej cipki [b_name] przyjaciółka pozwala się zerżnąć jak zwierzę"
 
 # game/day139.rpy:1750
 translate polish day139_b_me_bb364125:
@@ -6308,7 +6434,7 @@ translate polish day139_b_me_adf6c78b:
 translate polish day139_b_me_ae35656d:
 
     # "{i}Your girlfriend seems a little shocked about your sudden attention to her, but moves to the bed anyway."
-    ""
+    "{i}Twoja dziewczyna wydaje się nieco zszokowana twoją nagłą uwagą, ale i tak przesuwa się na łóżko."
 
 # game/day139.rpy:1773
 translate polish day139_b_me_059a213b:
@@ -6356,7 +6482,7 @@ translate polish day139_b_me_adf6c78b_1:
 translate polish day139_b_me_ae35656d_1:
 
     # "{i}Your girlfriend seems a little shocked about your sudden attention to her, but moves to the bed anyway."
-    ""
+    "{i}Twoja dziewczyna wydaje się nieco zszokowana twoją nagłą uwagą, ale i tak przesuwa się na łóżko."
 
 # game/day139.rpy:1793
 translate polish day139_b_me_29757c8a:
@@ -6404,7 +6530,7 @@ translate polish day139_b_me_adf6c78b_2:
 translate polish day139_b_me_ae35656d_2:
 
     # "{i}Your girlfriend seems a little shocked about your sudden attention to her, but moves to the bed anyway."
-    ""
+    "{i}Twoja dziewczyna wydaje się nieco zszokowana twoją nagłą uwagą, ale i tak przesuwa się na łóżko."
 
 # game/day139.rpy:1813
 translate polish day139_b_me_059a213b_1:
@@ -6518,7 +6644,7 @@ translate polish day139_b_me_soft_54bc7a76:
 translate polish day139_b_me_soft_31f44485:
 
     # "{i}You are about to go to [b_name]'s room, when there's a soft knock on your door."
-    ""
+    "{i}Już masz iść do pokoju [b_imię], gdy rozlega się ciche pukanie do drzwi."
 
 # game/day139.rpy:1849
 translate polish day139_b_me_soft_1e4c9c0d:
@@ -6770,7 +6896,7 @@ translate polish day139_b_me_soft_bc21379f:
 translate polish day139_b_me_soft_dea9a23b:
 
     # me "[b_name] is very beautiful, [p_name]."
-    me ""
+    me "Bella jest bardzo piękna, [p_name]."
 
 # game/day139.rpy:1925
 translate polish day139_b_me_soft_374a44c7:
@@ -6806,7 +6932,7 @@ translate polish day139_b_me_soft_171d6766:
 translate polish day139_b_me_soft_6c7c92e7:
 
     # "{i}Megan takes the lead by pushing your girlfriend on the bed and kissing her inner thighs after kneeling between the girl's legs."
-    ""
+    "{i}Megan przejmuje inicjatywę, popychając swoją dziewczynę na łóżko i całując jej wewnętrzną stronę ud po uklęknięciu między nogami dziewczyny."
 
 # game/day139.rpy:1938
 translate polish day139_b_me_soft_49b38220:
@@ -6854,7 +6980,7 @@ translate polish day139_b_me_soft_b23010d8:
 translate polish day139_b_me_soft_d6c3a284:
 
     # me "Look at your boyfriend's cock, [b_name], don't you want to get fucked by him?"
-    me ""
+    me "Spójrz na kutasa swojego chłopaka [b_name], nie chcesz się z nim pieprzyć?."
 
 # game/day139.rpy:1952
 translate polish day139_b_me_soft_89140f19:
@@ -6878,7 +7004,7 @@ translate polish day139_b_me_soft_518c6d05:
 translate polish day139_b_me_soft_d99e20f2:
 
     # "{i}Megan pins [b_name] to the bed with just the motions of her tongue, as your girlfriend orgasms wildly."
-    ""
+    "{i}Megan przypina [b_name] do łóżka tylko ruchami języka, gdy twoja dziewczyna osiąga dziki orgazm."
 
 # game/day139.rpy:1963
 translate polish day139_b_me_soft_d34ed178:
@@ -6980,7 +7106,7 @@ translate polish day139_me_b_fucking_08436637:
 translate polish day139_me_b_fucking_0af5aa05:
 
     # "{i}Megan hears your girlfriend's request and gets down on all fours as your cock slips out of her."
-    ""
+    "{i}Megan słyszy prośbę swojej dziewczyny i siada na czworakach, gdy twój kutas wyślizguje się z niej."
 
 # game/day139.rpy:1993
 translate polish day139_me_b_fucking_291f83a8:
@@ -7040,7 +7166,7 @@ translate polish day139_me_b_fucking_258e8fe1:
 translate polish day139_me_b_fucking_be796396:
 
     # "{i}While Megan is climaxing you slap her ass red while you prepare to fuck your girlfriend."
-    ""
+    "{i}Kiedy Megan osiąga punkt kulminacyjny, klepiesz ją po tyłku, przygotowując się do zerżnięcia swojej dziewczyny."
 
 # game/day139.rpy:2012
 translate polish day139_me_b_fucking_4fbeff1b:
@@ -7058,7 +7184,7 @@ translate polish day139_me_b_fucking_3192693a:
 translate polish day139_me_b_fucking_ed2f9857:
 
     # me "I want to see you fuck your girlfriend, [p_name]."
-    me ""
+    me "Chcę zobaczyć, jak pieprzysz się ze swoją dziewczyną [p_name]"
 
 # game/day139.rpy:2021
 translate polish day139_me_b_fucking_150eae87:
@@ -7088,7 +7214,7 @@ translate polish day139_me_b_fucking_279ea838:
 translate polish day139_me_b_fucking_610403dc:
 
     # "{i}Megan massages your girlfriend's breasts as you push your dick inside her wet pussy."
-    ""
+    "{i}Megan masuje piersi twojej dziewczyny, podczas gdy ty wpychasz swojego kutasa do jej mokrej cipki."
 
 # game/day139.rpy:2036
 translate polish day139_me_b_fucking_6eb07489:
@@ -7118,7 +7244,7 @@ translate polish day139_me_b_fucking_5ee9fff0:
 translate polish day139_me_b_fucking_b39f6b7f:
 
     # "{i}Your girlfriend has to grab hold of the bed to keep herself from falling from the bed, such is the ferocity of you love-making."
-    ""
+    "{i}Twoja dziewczyna musi chwycić się łóżka, aby nie spaść z łóżka, tak gwałtownie się kochacie."
 
 # game/day139.rpy:2047
 translate polish day139_me_b_fucking_a9bc9975:
@@ -7166,7 +7292,7 @@ translate polish day139_me_b_fucking_4775a783:
 translate polish day139_me_b_fucking_6a349c21:
 
     # me "Cover your girlfriend's dripping wet pussy in cum?"
-    me ""
+    me "Pokryć mokrą cipkę swojej dziewczyny spermą?"
 
 # game/day139.rpy:2065
 translate polish day139_me_b_fucking_770e707f:
@@ -7196,7 +7322,7 @@ translate polish day139_me_b_fucking_f310265e:
 translate polish day139_me_b_fucking_7515b20f:
 
     # "{i}Grabbing the girl firmly, you make several hard thrusts, until your seed starts to flow inside your girlfriend's pussy."
-    ""
+    "{i}Mocno chwytając dziewczynę, wykonujesz kilka mocnych pchnięć, aż twoje nasienie zaczyna płynąć w cipce twojej dziewczyny."
 
 # game/day139.rpy:2084
 translate polish day139_me_b_fucking_ae00caaa:
@@ -7226,7 +7352,7 @@ translate polish day139_me_b_fucking_d38f9aff:
 translate polish day139_me_b_fucking_759af7d4:
 
     # "{i}She makes sure to lap up all of the semen leaking out [b_name]'s pussy, and licks away the thick dollops of cum covering you girlfriend's body."
-    ""
+    "{i}Upewnia się, że zlizuje całe nasienie wyciekające z cipki [b_name] i zlizuje grube krople spermy pokrywające ciało twojej dziewczyny"
 
 # game/day139.rpy:2103
 translate polish day139_me_b_fucking_c9de180d:
@@ -7250,7 +7376,7 @@ translate polish day139_me_b_fucking_ab6e9c3e:
 translate polish day139_me_b_fucking_24a003e9:
 
     # "{i}As you slip out her, your girlfriend positions her head between Megan's legs."
-    ""
+    "{i}Gdy się z niej wysuwasz, twoja dziewczyna ustawia głowę między nogami Megan."
 
 # game/day139.rpy:2110
 translate polish day139_me_b_fucking_4506784f:
@@ -7292,7 +7418,7 @@ translate polish day139_me_b_fucking_121f1dbd:
 translate polish day139_me_b_fucking_cb01c941:
 
     # "{i}After you've climaxed, your girlfriend proceeds to kiss Megan lapping up all of the semen that has covered the girl's face."
-    ""
+    "{i}Po osiągnięciu szczytowania twoja dziewczyna zaczyna całować Megan, zbierając całe nasienie, które pokryło jej twarz."
 
 # game/day139.rpy:2144
 translate polish day139_me_b_fucking_82c87a28:
@@ -7418,7 +7544,7 @@ translate polish day139_movie_fuck_b5589cd5:
 translate polish day139_movie_fuck_01cfcf43:
 
     # "{i}Your girlfriend kneels before you, her baby bump resting comfortably on her upper legs and grabs hold of your erect cock."
-    ""
+    "{i}Twoja dziewczyna klęczy przed tobą, jej guzek spoczywa wygodnie na jej górnych nogach i chwyta twojego wyprostowanego kutasa."
 
 # game/day139.rpy:2211
 translate polish day139_movie_fuck_48f02564:
@@ -7430,7 +7556,7 @@ translate polish day139_movie_fuck_48f02564:
 translate polish day139_movie_fuck_790db8ea:
 
     # "{i}Your girlfriend kneels before you and grabs hold of your erect cock."
-    ""
+    "{i}Twoja dziewczyna klęka przed tobą i chwyta twojego wzwiedzionego kutasa."
 
 # game/day139.rpy:2214
 translate polish day139_movie_fuck_5d6bdd56:
@@ -7526,7 +7652,7 @@ translate polish day139_movie_fuck_f1be546b:
 translate polish day139_movie_fuck_e78a91cc:
 
     # "{i}Caressing your friend's round belly and swollen breasts, you fuck her pussy at a steady pace."
-    ""
+    "{i}Pieszcząc okrągły brzuch i nabrzmiałe piersi swojej przyjaciółki, pieprzysz jej cipkę w stałym tempie."
 
 # game/day139.rpy:2244
 translate polish day139_movie_fuck_49664930:
@@ -7544,7 +7670,7 @@ translate polish day139_movie_fuck_c3ed161b:
 translate polish day139_movie_fuck_151082db:
 
     # "{i}Pressing your girlfriend's body against yours, fondling her breasts, you fuck her pussy at a steady pace."
-    ""
+    "{i}Przyciskając ciało swojej dziewczyny do swojego, pieszcząc jej piersi, pieprzysz jej cipkę w stałym tempie."
 
 # game/day139.rpy:2251
 translate polish day139_movie_fuck_1b5e3fee:
@@ -7562,7 +7688,7 @@ translate polish day139_movie_fuck_b067d161:
 translate polish day139_movie_fuck_d1c2e73c:
 
     # "{i}Amplifying the stimulation your cock gives her, your girlfriend starts to finger herself with slow, powerful motions."
-    ""
+    "{i}Wzmacniając stymulację, jaką daje jej twój kutas, twoja dziewczyna zaczyna palcować się powolnymi, mocnymi ruchami."
 
 # game/day139.rpy:2258
 translate polish day139_movie_fuck_e1205213:
@@ -7622,7 +7748,7 @@ translate polish day139_movie_fuck_884088d5:
 translate polish day139_movie_fuck_4e4ae447:
 
     # "{i}You alternate between stroking her ass and kneading the supple flesh as you watch your girlfriend finger herself again."
-    ""
+    "{i}Na przemian głaszczesz jej tyłek i ugniatasz elastyczne ciało, patrząc, jak twoja dziewczyna znów się palcuje."
 
 # game/day139.rpy:2278
 translate polish day139_movie_fuck_c11078f8:
@@ -7694,7 +7820,7 @@ translate polish day139_movie_fuck_900dbe22:
 translate polish day139_movie_fuck_fdc1e1f3:
 
     # "{i}With a little effort you manage to lift your girlfriend off your cock and you make her sit upright to receive your cum."
-    ""
+    "{i}Przy odrobinie wysiłku udaje ci się podnieść swoją dziewczynę z kutasa i sprawiasz, że siedzi prosto, aby otrzymać twoją spermę."
 
 # game/day139.rpy:2312
 translate polish day139_movie_fuck_df1738da:
@@ -7706,7 +7832,7 @@ translate polish day139_movie_fuck_df1738da:
 translate polish day139_movie_fuck_bdde2de1:
 
     # "{i}With no effort you manage to lift your girlfriend off your cock and you make her sit upright to receive your cum."
-    ""
+    "{i}Bez wysiłku udaje ci się podnieść swoją dziewczynę z kutasa i sprawiasz, że siedzi prosto, aby otrzymać twoją spermę."
 
 # game/day139.rpy:2317
 translate polish day139_movie_fuck_ceec0cea:
@@ -7724,7 +7850,7 @@ translate polish day139_movie_fuck_a3857c93:
 translate polish day139_movie_fuck_ea493f3c:
 
     # "{i}With a little effort you manage to lift your girlfriend off your cock and you make her lie down to receive your cum."
-    ""
+    "{i}Przy odrobinie wysiłku udaje ci się podnieść swoją dziewczynę z kutasa i sprawiasz, że kładzie się, aby otrzymać twoją spermę."
 
 # game/day139.rpy:2331
 translate polish day139_movie_fuck_7be7208e:
@@ -7736,7 +7862,7 @@ translate polish day139_movie_fuck_7be7208e:
 translate polish day139_movie_fuck_e572fa91:
 
     # "{i}Without effort you manage to lift your girlfriend off your cock and you make her lie down to receive your cum."
-    ""
+    "{i}Bez wysiłku udaje ci się podnieść swoją dziewczynę z kutasa i sprawiasz, że kładzie się, aby otrzymać twoją spermę."
 
 # game/day139.rpy:2337
 translate polish day139_movie_fuck_6bc4b754:
@@ -7808,7 +7934,7 @@ translate polish day139_movie_fuck_5046ea64:
 translate polish day139_movie_fuck_29fb851c:
 
     # "{i}You cuddle lie naked on the couch, one hand protectively on your girlfriend's pregnant belly and your other hand stroking her soft hair."
-    ""
+    "{i}Przytulasz się, leżąc nago na kanapie, jedną ręką chroniąc ciężarny brzuch swojej dziewczyny, a drugą głaszcząc jej miękkie włosy."
 
 # game/day139.rpy:2366
 translate polish day139_movie_fuck_1dc5e64e:
@@ -7893,4 +8019,180 @@ translate polish strings:
     # game/day139.rpy:2072
     old "Bodies"
     new "Spuść się na ich ciała"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day139.rpy:385
+translate polish day139_a9674b86:
+
+    # m "Thought of everything, have you?"
+    m "Pomyślałaś o wszystkim, co?"
+
+# game/day139.rpy:719
+translate polish day139_evening_choices_ed5b735f_1:
+
+    # ir "If there's still room for me here I'd love to babysit."
+    ir "Jeśli będzie tu jeszcze dla mnie miejsce, z chęcią pomogłabym się nim zająć."
+
+# game/day139.rpy:1238
+translate polish day139_iris_home_69bc39ab:
+
+    # p "You did? That's great news!"
+    p "Udało ci się? To świetna wiadomość!"
+
+# game/day139.rpy:1363
+translate polish day139_ri_home_eaad7030:
+
+    # ri "I'm not sure that I am, but with you, I'm willing to try."
+    ri "Nie jestem pewien, czy jestem, ale z tobą jestem gotów spróbować"
+
+# game/day139.rpy:1568
+translate polish day139_ir_ri_talks_6d84afee:
+
+    # p "And I'm still in a relationship with her, though I haven't seen her in a while."
+    p "I nadal jestem z nią w związku, chociaż nie widziałem jej od jakiegoś czasu."
+
+# game/day139.rpy:1920
+translate polish day139_b_me_soft_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Czy [b_name] jest w ciąży w tej scenie?."
+
+# game/day139.rpy:1924
+translate polish day139_b_me_soft_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] w ciąży"
+
+# game/day139.rpy:1927
+translate polish day139_b_me_soft_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nie jest w ciąży"
+
+# game/day139.rpy:1964
+translate polish day139_b_me_soft_51dda393:
+
+    # b "This was a bad idea, wasn't it?"
+    b "To był zły pomysł, prawda?"
+
+# game/day139.rpy:1974
+translate polish day139_b_me_soft_c73ecb49:
+
+    # p "Let's go meet Megan."
+    p "Chodźmy do niej."
+
+# game/day139.rpy:2173
+translate polish day139_me_b_fucking_8a2e8576:
+
+    # "{i}Megan massages your sister's breasts as you push your dick inside her wet pussy."
+    "{i}Megan masuje piersi twojej siostry, podczas gdy ty wpychasz swojego kutasa do jej mokrej cipki."
+
+# game/day139.rpy:2189
+translate polish day139_me_b_fucking_ce8ccd43:
+
+    # "{i}Your sister has to grab hold of the bed to keep herself from falling, such is the ferocity of your love-making."
+    "{i}Twoja siostra musi chwycić się łóżka, aby nie spaść, tak gwałtownie się kochacie."
+
+# game/day139.rpy:2191
+translate polish day139_me_b_fucking_85da9686:
+
+    # "{i}Your girlfriend has to grab hold of the bed to keep herself from falling, such is the ferocity of your love-making."
+    "{i}Twoja dziewczyna musi chwycić się łóżka, aby nie spaść, tak gwałtownie się kochacie."
+
+# game/day139.rpy:2243
+translate polish day139_me_b_fucking_2d778286:
+
+    # "{i}You're not entirely sure what she's about to do until Megan starts to lick the other girl's pussy."
+    "{i}Nie jesteś do końca pewien, co zamierza zrobić, dopóki Megan nie zacznie lizać cipki drugiej dziewczyny."
+
+# game/day139.rpy:2275
+translate polish day139_me_b_fucking_28e666b1:
+
+    # "{i}You're not entirely sure what she's about to do until [b_name] starts to lick the other girl's pussy."
+    "{i}Nie jesteś do końca pewien, co zamierza zrobić, dopóki [b_name] nie zacznie lizać cipki drugiej dziewczyny."
+
+# game/day139.rpy:2374
+translate polish day139_movie_fuck_ebb77704:
+
+    # "Who is getting fucked?"
+    "Kto się pieprzy?"
+
+# game/day139.rpy:2380
+translate polish day139_movie_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Czy [r_name] jest w ciąży w tej scenie?"
+
+# game/day139.rpy:2385
+translate polish day139_movie_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] w ciąży"
+
+# game/day139.rpy:2388
+translate polish day139_movie_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nie jest w ciąży"
+
+# game/day139.rpy:2394
+translate polish day139_movie_fuck_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Czy [b_name] jest w ciąży w tej scenie?."
+
+# game/day139.rpy:2399
+translate polish day139_movie_fuck_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] w ciąży"
+
+# game/day139.rpy:2402
+translate polish day139_movie_fuck_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nie jest w ciąży"
+
+# game/day139.rpy:2407
+translate polish day139_movie_fuck_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Czy [l_name] jest w ciąży w tej scenie?"
+
+# game/day139.rpy:2412
+translate polish day139_movie_fuck_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] w ciąży"
+
+# game/day139.rpy:2415
+translate polish day139_movie_fuck_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nie jest w ciąży"
+
+# game/day139.rpy:2446
+translate polish day139_movie_fuck_e786345e:
+
+    # r "Does this make you forget that stupid movie a little?"
+    r "Czy dzięki temu zapomnisz trochę o tym głupim filmie?"
+
+# game/day139.rpy:2452
+translate polish day139_movie_fuck_940fc4a3:
+
+    # l "Does this make you forget that movie a little?"
+    l "Czy to sprawia, że trochę zapominasz o tym filmie?"
+
+# game/day139.rpy:2698
+translate polish day139_movie_fuck_655b9412:
+
+    # "{i}You cuddle naked on the couch, one hand protectively on your girlfriend's pregnant belly and your other hand stroking her soft hair."
+    "{i}Przytulasz się nago na kanapie, jedną ręką chroniąc ciężarny brzuch swojej dziewczyny, a drugą głaszcząc jej miękkie włosy."
+
+translate polish strings:
+
+    # game/day139.rpy:2375
+    old "[r_name]"
+    new "[r_name]"
 

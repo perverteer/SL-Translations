@@ -128,7 +128,7 @@ translate polish day20_7b925652:
 translate polish day20_f4f9bd98:
 
     # "{i}When you awake [r_name]'s distinctly sweet perfume still lingers in the air, but she isn't lying next to you."
-    ""
+    "{i}Kiedy się budzisz, słodkie perfumy [r_name] wciąż unoszą się w powietrzu, ale nie leży ona obok ciebie."
 
 # game/day20.rpy:56
 translate polish day20_de070670:
@@ -242,7 +242,7 @@ translate polish day20_874a0ea4:
 translate polish day20_919046a2:
 
     # "{i}You follow the girl to her room and you both lie on her bed."
-    ""
+    "{i}Idziesz za dziewczyną do jej pokoju i oboje kładziecie się na jej łóżku."
 
 # game/day20.rpy:92
 translate polish day20_steel_visit_b88b5c7f:
@@ -500,7 +500,7 @@ translate polish day20_steel_visit_0ee49ca4:
 translate polish day20_steel_visit_3372bf33:
 
     # p "If my friend wants to walk around in her underwear in her own goddamn house, nobody's going to tell her otherwise. Especially not you."
-    p ""
+    p "Jeśli moja przyjaciółka chce chodzić w bieliźnie w swoim własnym cholernym domu, nikt nie powie jej inaczej, zwłaszcza ty"
 
 # game/day20.rpy:166
 translate polish day20_steel_visit_53c60b35:
@@ -542,7 +542,7 @@ translate polish day20_steel_visit_2052e471:
 translate polish day20_steel_visit_01cc1335:
 
     # p "Forgive my friend, I think she just got out of the shower."
-    p ""
+    p "Wybacz mojej przyjaciółce, chyba właśnie wyszła spod prysznica."
 
 # game/day20.rpy:185
 translate polish day20_steel_visit_28d99abd:
@@ -734,7 +734,7 @@ translate polish day20_choices_a9a5ca74:
 translate polish day20_choices_d005c0b7:
 
     # "{i}The girl reluctantly removes her clothes and sits on the bed."
-    ""
+    "{i}Dziewczyna niechętnie zdejmuje ubranie i siada na łóżku."
 
 # game/day20.rpy:243
 translate polish day20_choices_e36b7664:
@@ -980,7 +980,7 @@ translate polish day20_choices_6ff7a1f0:
 translate polish day20_choices_72dc3cef:
 
     # l "Yes, this is my friend [p_name]."
-    l ""
+    l "Tak, to mój przyjaciel [p_name]"
 
 # game/day20.rpy:308
 translate polish day20_choices_eb11ce8f:
@@ -1172,7 +1172,7 @@ translate polish day20_choices_7e7ae9e3:
 translate polish day20_choices_42fb33ef:
 
     # l "Oh, this is my friend [p_name]."
-    l ""
+    l "Och, to jest mój przyjaciel [p_name]"
 
 # game/day20.rpy:345
 translate polish day20_choices_51fc0ece:
@@ -1376,7 +1376,7 @@ translate polish day20_choices_41694152:
 translate polish day20_choices_873748e7:
 
     # "{i}Immediately after her ex is out of sight [l_name] breaks down into tears and you hold her closely."
-    ""
+    "{i}Natychmiast po tym, jak jej były zniknie z pola widzenia [l_name] zalewa się łzami, a ty mocno ją przytulasz."
 
 # game/day20.rpy:387
 translate polish day20_choices_2c3bfcb1:
@@ -1808,7 +1808,7 @@ translate polish day20_r_deflowering_a24e579d:
 translate polish day20_r_deflowering_b128480a:
 
     # p "{i}(It's really happening, I'm taking sweet young [r_name]'s virginity!)"
-    p ""
+    p "{i}(To naprawdę się dzieje, zabieram dziewictwo słodkiej młodej [r_name]!)"
 
 # game/day20.rpy:510
 translate polish day20_r_deflowering_ebf53a61:
@@ -1898,7 +1898,7 @@ translate polish day20_r_deflowering_5e07fe50:
 translate polish day20_r_deflowering_d4b696c4:
 
     # "{i}[r_name] pulls up her legs as if to invite you even further inside her wet slit and you begin your slow, but determined movements. She seems to hold her breath for a while, but then lets out a big sigh and begins to tenderly stroke the rolling muscles of your back."
-    ""
+    "{i}[r_name] podciąga nogi, jakby chciała zaprosić cię jeszcze bardziej do środka jej mokrej szczeliny, a ty zaczynasz powolne, ale zdecydowane ruchy Wydaje się, że wstrzymuje oddech na chwilę, ale potem wydaje z siebie wielkie westchnienie i zaczyna czule głaskać zwijające się mięśnie twoich pleców."
 
 # game/day20.rpy:533
 translate polish day20_r_deflowering_dc7cd0e2:
@@ -1964,7 +1964,7 @@ translate polish day20_r_deflowering_51844e38:
 translate polish day20_r_deflowering_8ab43d6b:
 
     # "You want sweet [r_name]'s deflowering to last forever and do everything in your power to extend your lovemaking. Her tight pussy ultimately wins and you pull out to spray spurt after spurt of thick semen onto [r_name]'s body."
-    ""
+    "Chcesz, aby defloracja słodkiej [r_name] trwała wiecznie i robisz wszystko, co w twojej mocy, aby przedłużyć swoje kochanie. Jej ciasna cipka ostatecznie wygrywa, a ty wysuwasz się, by tryskać gęstym nasieniem na ciało [r_name]."
 
 # game/day20.rpy:552
 translate polish day20_r_deflowering_02e7c0a2:
@@ -1994,7 +1994,7 @@ translate polish day20_r_deflowering_6be0ef85:
 translate polish day20_r_deflowering_e355514e:
 
     # "You want sweet [r_name]'s deflowering to last forever and do everything in your power to extend your lovemaking. Her tight pussy ultimately wins and you reward [r_name]'s cunt with several spurts of thick semen."
-    ""
+    "Chcesz, aby defloracja słodkiej [r_name] trwała wiecznie i robisz wszystko, co w twojej mocy, aby przedłużyć swoje kochanie. Jej ciasna cipka ostatecznie wygrywa, a ty nagradzasz cipę [r_name] kilkoma tryskami gęstego nasienia."
 
 # game/day20.rpy:568
 translate polish day20_r_deflowering_02e7c0a2_1:
@@ -2120,7 +2120,7 @@ translate polish day20_r_deflowering_0e7dc44d:
 translate polish day20_r_deflowering_b68a2469:
 
     # "{i}After you steal one quick kiss you hastily put on some clothes and leave [r_name] naked on her bed. The doorbell rings again as you sprint towards it."
-    ""
+    "{i}Po szybkim pocałunku pospiesznie zakładasz ubrania i zostawiasz [r_name] nagą na jej łóżku. Dzwonek do drzwi rozbrzmiewa ponownie, gdy biegniesz w ich kierunku."
 
 # game/day20.rpy:614
 translate polish day20_evening_choices_65fa6284:
@@ -2204,7 +2204,7 @@ translate polish day20_evening_choices_2486cfe1:
 translate polish day20_evening_choices_d4f94a0e:
 
     # p "{i}(I took [r_name]'s virginity.)"
-    p ""
+    p "{i}(zabrałem dziewictwo [r_name])"
 
 # game/day20.rpy:632
 translate polish day20_evening_choices_bf4cddfb:
@@ -3230,7 +3230,7 @@ translate polish day20_riley_sex_post_b10c2834:
 translate polish day20_riley_sex_post_cb7230fb:
 
     # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
-    ""
+    "{i}Wczołgujesz się na łóżko i rozchylasz nogi [b_name], zdejmując jej majtki za jednym zamachem."
 
 # game/day20.rpy:921
 translate polish day20_riley_sex_post_e2d724e5:
@@ -3302,7 +3302,7 @@ translate polish day20_riley_sex_post_baa94679:
 translate polish day20_riley_sex_post_22d19280:
 
     # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
-    ""
+    "{i}[b_name] niechętnie zdejmuje ubranie i kładzie się na łóżku, a ty czołgasz się obok niej i rozchylasz jej nogi."
 
 # game/day20.rpy:941
 translate polish day20_riley_sex_post_f8aece55:
@@ -3350,7 +3350,7 @@ translate polish day20_riley_sex_post_a04a6859:
 translate polish day20_riley_sex_post_d98faf4a:
 
     # p "Good night, sweet [b_name]."
-    p ""
+    p "Dobranoc słodka [b_nazwa]"
 
 # game/day20.rpy:955
 translate polish day20_riley_sex_post_370ba8fd:
@@ -3494,7 +3494,7 @@ translate polish day20_riley_sex_post_f9649b95:
 translate polish day20_riley_sex_post_2fe99f93:
 
     # "{i}You kiss your giggling friend and notice that the kiss soon turns into something more hungry. Something you've felt before with her."
-    ""
+    "{i}Całujesz swoją chichoczącą przyjaciółkę i zauważasz, że pocałunek szybko zmienia się w coś bardziej głodnego Coś, co czułeś wcześniej z nią."
 
 # game/day20.rpy:990
 translate polish day20_riley_sex_post_d7844456:
@@ -3758,7 +3758,7 @@ translate polish day20_riley_sex_post_3258ba0d:
 translate polish day20_riley_sex_post_7e2e86bf:
 
     # "{i}You're careful not to wake your lover and slide next to her in the bed. When you embrace her sweet form a little contented sigh escapes her."
-    ""
+    "{i}Uważasz, aby nie obudzić swojej kochanki i przesuwasz się obok niej w łóżku, gdy obejmujesz jej słodką postać, a jej zadowolone westchnienie wymyka się."
 
 # game/day20.rpy:1059
 translate polish day20_riley_sex_post_3002954c:
@@ -3836,373 +3836,1127 @@ translate polish strings:
     old "Mr. Jeremy"
     new "Pan Jeremy"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day20.rpy:28
+# game/day20.rpy:30
 translate polish day20_3832b500:
 
     # "{i}When you open your eyes, you feel [b_name]'s body tightly pressed against yours. She's snoring very slightly and seems completely at ease."
-    "{i}Kiedy otwierasz oczy, czujesz ciało [b_name] mocno przyciśnięte do twojego Ona chrapie bardzo lekko i wydaje się całkowicie spokojna."
+    "{i}Kiedy otwierasz oczy, czujesz przyciśnięte do siebie ciało Belli. Pochrapuje cichutko i zdaje się być całkowicie rozluźniona."
 
-# game/day20.rpy:44
+# game/day20.rpy:46
 translate polish day20_478bfa55:
 
     # b "Yes, and trying to keep me in bed."
-    b "Tak i próbuje zatrzymać mnie w łóżku"
+    b "Tak i próbujesz zatrzymać mnie w łóżku."
 
-# game/day20.rpy:53
+# game/day20.rpy:59
 translate polish day20_cfa9ed48:
 
     # "{i}When you awake, [r_name]'s distinctly sweet perfume still lingers in the air, but your sister isn't lying next to you."
-    "{i}Kiedy się budzisz [r_name] wyraźnie słodkie perfumy wciąż unoszą się w powietrzu, ale twoja siostra nie leży obok ciebie."
+    "{i}Kiedy się budzisz, zapach perfum Rachel dalej wisi w powietrzu, ale Twojej siostry nie ma obok Ciebie."
 
-# game/day20.rpy:55
+# game/day20.rpy:61
 translate polish day20_24da50b9:
 
     # "{i}When you awake, [r_name]'s distinctly sweet perfume still lingers in the air, but she isn't lying next to you."
-    "{i}Kiedy się budzisz [r_name] wyraźnie słodkie perfumy wciąż unoszą się w powietrzu, ale ona nie leży obok ciebie."
+    "{i}Kiedy się budzisz, słodkie perfumy [r_name] wciąż unoszą się w powietrzu, ale nie leży ona obok ciebie."
 
-# game/day20.rpy:57
+# game/day20.rpy:63
 translate polish day20_80cd600e:
 
     # "{i}You nearly fall asleep again when you hear the door open and softly close. Moments later, [r_name]'s naked body snuggles next to you."
-    "{i}Prawie znowu zasypiasz, gdy słyszysz, jak drzwi się otwierają i delikatnie zamykają Chwilę później nagie ciało [r_name] przytula się obok ciebie."
+    "{i}Już prawie zasypiasz z powrotem kiedy słyszysz otwierające się drzwi i ich łagodne zamknięcie. Chwilę później wtula się w Ciebie nagie ciało Rachel."
 
-# game/day20.rpy:83
+# game/day20.rpy:91
 translate polish day20_e7c912be:
 
     # "{i}You follow your sister to her room, and you both lie on her bed."
-    "{i}Idziesz za siostrą do jej pokoju i obie kładziecie się na jej łóżku."
+    "{i}Idziesz za swoją siostrą do jej pokoju i kładziecie się razem na łóżku."
 
-# game/day20.rpy:85
+# game/day20.rpy:93
 translate polish day20_2c4282e4:
 
     # "{i}You follow the girl to her room, and you both lie on her bed."
-    "{i}Idziecie za dziewczyną do jej pokoju i oboje kładziecie się na jej łóżku"
+    "{i}Idziesz za dziewczyną do jej pokoju i oboje kładziecie się na jej łóżku."
 
-# game/day20.rpy:129
+# game/day20.rpy:141
 translate polish day20_steel_visit_fbfbd261:
 
     # er "Carl is one of the important organizers behind the movement. Together with me and a growing number of others, we've established a local office of the Taskforce for the Promotion of Moral Uplift and Wholesome Decency."
-    er "Carl jest jednym z ważnych organizatorów ruchu. Razem ze mną i coraz większą liczbą innych osób założyliśmy lokalne biuro Taskforce for the Promotion of Moral Uplift and Wholesome Decency."
+    er "Carl jest jednym z ważnych organizatorów stojących za ruchem Razem ze mną i rosnącą liczbą innych osób utworzyliśmy lokalne biuro Taskforce for the Promotion of Moral Uplift and Wholesome Decency."
 
-# game/day20.rpy:189
+# game/day20.rpy:201
 translate polish day20_steel_visit_79b1bda5:
 
     # "{i}You wordlessly take the flyer that is handed to you. It crumples in your clenched fist. Before you hear the last words of Mrs. Steel, you've already slammed the door shut."
-    "{i}Bez słowa bierzesz ulotkę, która jest ci wręczana Gniecie się ona w zaciśniętej pięści Zanim usłyszysz ostatnie słowa pani Steel, już zatrzaskujesz drzwi"
+    "{i}Bez słowa zabierasz podaną Ci ulotkę i zgniatasz ją w dłoni. Zanim pani Steel ma szansę dokończyć zdanie, zatrzaskujesz jej drzwi przed nosem."
 
-# game/day20.rpy:203
+# game/day20.rpy:215
 translate polish day20_steel_visit_3f61955f:
 
     # p "What's done is done, and I'm pretty sure we're already on their shit-list."
-    p "Co się stało to się nie odstanie i jestem pewien, że jesteśmy już na ich shit-liście"
+    p "Co się stało to się nie odstanie, jestem pewny, że i tak jesteśmy na ich czarnej liście."
 
-# game/day20.rpy:246
-translate polish day20_choices_a55df5f2:
-
-    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
-    "{i}Bez ostrzeżenia chwytasz nogi [b_name] i zakopujesz twarz między jej udami Jej ciało natychmiast reaguje na szorstkość twojego języka i w ciągu kilku chwil jest mokra"
-
-# game/day20.rpy:251
-translate polish day20_choices_807be6fe:
-
-    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
-    "{i}Wszelkie pozory irytacji opuściły [b_name] i jest ona w pełni pochłonięta twoim siłowym pieprzeniem językiem."
-
-# game/day20.rpy:253
-translate polish day20_choices_a34e063e:
-
-    # "{i}Just when you notice she's ready to climax, you stop abruptly."
-    "{i}Kiedy zauważysz, że jest gotowa do szczytowania, zatrzymujesz się gwałtownie."
-
-# game/day20.rpy:287
+# game/day20.rpy:273
 translate polish day20_choices_8b174b26:
 
     # "{i}After a short walk downtown, you arrive at a nondescript building, [l_name] leads you inside."
-    "{i}Po krótkim spacerze w centrum miasta docierasz do nijakiego budynku [l_name] prowadzi cię do środka"
+    "{i}Po krótkim spacerze trafiacie do niezbyt rzucającego się w oczy budynku, Liza prowadzi Cię do środka."
 
-# game/day20.rpy:289
+# game/day20.rpy:277
 translate polish day20_choices_9e73c356:
 
     # l "Here's where it all happens. The guests will arrive pretty soon, and we'll provide them with a bowl of hot soup and a roll."
-    l "Tu się wszystko dzieje Goście przyjdą całkiem niedługo, a my zapewnimy im miskę gorącej zupy i bułkę"
+    l "To tutaj wszystko się dzieje Goście przybędą wkrótce, a my zapewnimy im miskę gorącej zupy i bułkę."
 
-# game/day20.rpy:292
+# game/day20.rpy:280
 translate polish day20_choices_7da19f9a:
 
     # "{i}Soon after you install yourselves behind a table, a steady stream of people comes to get an offering of soup."
-    "{i}Wkrótce po zainstalowaniu się za stołem, stały strumień ludzi przychodzi po ofiarę zupy."
+    "{i}Na krótko po tym, jak zajmujesz miejsce za stołem, zaczyna ustawiać się do was kolejka ludzi, którzy przyszli skorzystać z posiłku."
 
-# game/day20.rpy:310
+# game/day20.rpy:298
 translate polish day20_choices_4a8c0f94:
 
     # man "Yes, at first I came for the bread and the soup, but ever since they started hiring beautiful women, I come for them."
-    man "Tak, na początku przychodziłem na chleb i zupę, ale od kiedy zaczęli zatrudniać piękne kobiety, przychodzę dla nich"
+    man "Tak, z początku przychodziłem po chleb i zupę, ale odkąd zaczęli zatrudniać piękne kobiety, to przychodzę dla nich."
 
-# game/day20.rpy:379
+# game/day20.rpy:369
 translate polish day20_choices_6b7a55eb:
 
     # "{i}After a few steps into the room, he clearly can't control himself and glances over his shoulder. You feel [l_name] stiffen."
-    "{i}Po kilku krokach do pokoju wyraźnie nie może się opanować i zerka przez ramię Czujesz, że [l_name] sztywnieje."
+    "{i}Po kilku krokach wgłąb pomieszczenia traci nad sobą kontrolę i obraca się przez ramię. Czujesz jak Liza zastyga w bezruchu."
 
-# game/day20.rpy:381
+# game/day20.rpy:371
 translate polish day20_choices_364a40f3:
 
     # "{i}As his evil glare bores into her, [l_name] grasps your hand and holds it very tightly under the table. After what seems like an hour, Brody moves across the room to Reverend Justin's office."
-    "{i}Gdy jego złe spojrzenie wwierca się w nią [l_name] chwyta twoją rękę i trzyma ją bardzo mocno pod stołem Po tym, co wydaje się być godziną Brody przenosi się przez pokój do biura wielebnego Justina."
+    "{i}Brody wbija w nią wściekłe spojrzenie, Liza łapie Cię za rękę i ściska ją mocno pod stołem. Po chwili, która dla was ciągnie się godzinami, Brody przechodzi na drugi koniec pomieszczenia i wchodzi do biura Justina."
 
-# game/day20.rpy:388
+# game/day20.rpy:378
 translate polish day20_choices_1b4c5768:
 
     # "{i}For several minutes [l_name] is unresponsive and just sobs into your chest. After grief has subsided somewhat, she looks at you with tear-filled eyes."
-    "{i}Przez kilka minut [l_name] nie reaguje i tylko szlocha w twoją klatkę piersiową Po ustąpieniu żalu nieco patrzy na ciebie z wypełnionymi łzami oczami"
+    "{i}Przez kilka minut [l_name] nie reaguje i po prostu szlocha w twoją klatkę piersiową Po tym, jak smutek nieco ustąpił, patrzy na ciebie oczami pełnymi łez."
 
-# game/day20.rpy:391
+# game/day20.rpy:381
 translate polish day20_choices_4948caf3:
 
     # p "Don't worry about it, dearest. I know what you went through, remember?"
-    p "Nie przejmuj się tym najdroższy wiem co przeszedłeś pamiętasz?"
+    p "Nie przejmuj się tym kochana, wiem przez co przeszłaś."
 
-# game/day20.rpy:395
+# game/day20.rpy:385
 translate polish day20_choices_a485b0e9:
 
     # p "Considering the way he reacted to the break-up, it's to be expected."
-    p "Biorąc pod uwagę sposób, w jaki zareagował na rozstanie, można się tego spodziewać"
+    p "Biorąc pod uwagę jak zareagował na wasze rozstanie, można się było tego spodziewać."
 
-# game/day20.rpy:398
+# game/day20.rpy:388
 translate polish day20_choices_b625145b:
 
     # p "Just know that I'm here for you, and I'll protect you from anything."
-    p "Wiedz tylko, że jestem tu dla ciebie i ochronię cię przed wszystkim"
+    p "Po prostu pamiętaj, że jestem tu dla Ciebie i nie pozwolę nikomu Cię skrzywdzić."
 
-# game/day20.rpy:419
+# game/day20.rpy:411
 translate polish day20_choices_ca479ba0:
 
     # "{i}Brody doesn't return from Justin's office, and you leave the shelter to go home together after cleaning up the empty soup kettles."
-    "{i}Broda nie wraca z biura Justyny, a wy opuszczacie schronisko, by po uprzątnięciu pustych kociołków po zupie wrócić razem do domu"
+    "{i}Brody nie wraca z biura Justina, a ty opuszczasz schronisko, aby wrócić do domu po posprzątaniu pustych kociołków na zupę."
 
-# game/day20.rpy:432
+# game/day20.rpy:424
 translate polish day20_laptop_choices_b4229827:
 
     # "{i}“Dear sir/madam, Thank you for reaching out to us. While we normally do not respond to messages from anonymous sources, we have reviewed this case carefully and taken the appropriate and necessary actions.”"
-    "{i}“Szanowny Panie/Pani, Dziękujemy za skontaktowanie się z nami. Chociaż zazwyczaj nie odpowiadamy na wiadomości z anonimowych źródeł, dokładnie przeanalizowaliśmy tę sprawę i podjęliśmy odpowiednie i niezbędne działania.“"
+    "{i}”Szanowny Panie / Szanowna Pani Dziękujemy za skontaktowanie się z nami Chociaż zwykle nie odpowiadamy na wiadomości z anonimowych źródeł, dokładnie przeanalizowaliśmy tę sprawę i podjęliśmy odpowiednie i niezbędne działania”."
 
-# game/day20.rpy:433
+# game/day20.rpy:425
 translate polish day20_laptop_choices_80346365:
 
     # "{i}“We would like to assure you that we do not condone nor promote this type of behavior and have taken steps to prevent these situations in the future.”"
-    "{i}“Pragniemy zapewnić, że nie pochwalamy ani nie promujemy tego typu zachowań i podjęliśmy kroki, aby zapobiec takim sytuacjom w przyszłości.“"
+    "{i}“Chcemy zapewnić, że nie popieramy i nie akceptujemy tego typu zachowań i aktywnie działamy aby zapobiec takim sytuacjom w przyszłości.”"
 
-# game/day20.rpy:443
+# game/day20.rpy:435
 translate polish day20_laptop_choices_a9a34613:
 
     # "{i}“He was clearing out his office when I got to the supermarket, then I experienced his foul temper at the fullest.”"
-    "{i}“Sprzątał swoje biuro, kiedy dotarłem do supermarketu, wtedy doświadczyłem jego felernego temperamentu w pełni.“"
+    "{i}“Kiedy przyszłam do pracy pakował swoje rzeczy z biura, wtedy zaprezentował mi swój temperament w całej krasie.”"
 
-# game/day20.rpy:444
+# game/day20.rpy:436
 translate polish day20_laptop_choices_591c352d:
 
     # "{i}“He yelled at me, called me a traitorous bitch, and started throwing things around. So I called the police and they took him in. Best morning of my life, even if he thinks I ratted him to the upper management.”"
-    "{i}“Krzyknął na mnie nazwał mnie zdradziecką suką i zaczął rzucać rzeczy wokół Więc zadzwoniłem na policję i wzięli go w Najlepszy ranek mojego życia, nawet jeśli myśli, że szczułem go do wyższego kierownictwa.“"
+    "{i}“Nawrzeszczał na mnie, zwyzywał mnie od zdradliwych kurew i zaczął rzucać różnymi rzeczami. Więc zadzwoniłam po policję i go aresztowali. Najlepszy poranek w moim życiu, nawet jeśli myśli, że to ja na niego doniosłam do zarządu.”"
 
-# game/day20.rpy:465
-translate polish day20_r_deflowering_a2a7c7ea:
-
-    # r "I was looking around the house while you were snoring away, and it seems we're alone. Only [m_name] is still here, but she's been sleeping like a log for hours on end."
-    r "Rozglądałam się po domu, kiedy chrapałeś i wygląda na to, że jesteśmy sami Tylko [m_name] wciąż tu jest, ale śpi jak kłoda od wielu godzin."
-
-# game/day20.rpy:481
-translate polish day20_r_deflowering_d153a622:
-
-    # p "She's right. It may hurt at first, and maybe your first time is going to be unpleasant on the whole. I want you to understand that."
-    p "Ona ma rację To może boleć na początku i może twój pierwszy raz będzie nieprzyjemny w sumie chcę żebyś to zrozumiał"
-
-# game/day20.rpy:489
-translate polish day20_r_deflowering_fcdd9227:
-
-    # "{i}You kiss her worried look from her face and softly caress her skin."
-    "{i}Całujesz jej zmartwione spojrzenie z twarzy i delikatnie pieścisz jej skórę"
-
-# game/day20.rpy:498
-translate polish day20_r_deflowering_37076cfb:
-
-    # "{i}After you move your tongue teasingly inside her, you start sucking softly on her labia and finally her erect clitoris."
-    "{i}Po przesunięciu języka drażniąco wewnątrz niej zaczynasz ssać delikatnie jej wargi sromowe i w końcu jej wzniesioną łechtaczkę"
-
-# game/day20.rpy:501
-translate polish day20_r_deflowering_7fc9f9c4:
-
-    # "{i}Suddenly you stop and move back towards her upper body, lingering for a while at her puffy nipples. Her eyes are filled with lust, and her skin is flushed."
-    "{i}Nagle zatrzymujesz się i cofasz w kierunku jej górnej części ciała lingering przez chwilę na jej obrzmiałych sutkach Jej oczy są wypełnione pożądaniem, a jej skóra jest zarumieniona"
-
-# game/day20.rpy:521
-translate polish day20_r_deflowering_6b50a97b:
-
-    # "{i}Both your tongues entangle in a passionate kiss. [r_name] then uses her hand to push against your butt as if to move you further inside her."
-    "{i}Both your tongues entangle in a passionate kiss [r_name] then uses her hand to push against your butt as if to move you further inside her"
-
-# game/day20.rpy:524
-translate polish day20_r_deflowering_2f439370:
-
-    # p "{i}(Man, she's so tight. If I'm not careful, I'll cum by just moving out of her again.)"
-    p "{i}(Człowieku ona jest tak ciasna Jeśli nie będę ostrożny, to spieprzę przez samo wysuwanie się z niej ponownie)"
-
-# game/day20.rpy:529
-translate polish day20_r_deflowering_643075bc:
-
-    # "{i}Your sister pulls up her legs as if to invite you even further inside her wet slit, and you begin your slow but determined movements. [r_name] seems to hold her breath for a while but then lets out a big sigh and begins to tenderly stroke the rolling muscles of your back."
-    "{i}Twoja siostra podciąga nogi, jakby chcąc zaprosić cię jeszcze bardziej do środka jej mokrej szczeliny i zaczynasz swoje powolne, ale zdecydowane ruchy [r_name] wydaje się wstrzymywać oddech na chwilę, ale potem wypuszcza wielkie westchnienie i zaczyna czule głaskać zwijające się mięśnie twoich pleców"
-
-# game/day20.rpy:531
-translate polish day20_r_deflowering_5297f0bd:
-
-    # "{i}[r_name] pulls up her legs as if to invite you even further inside her wet slit, and you begin your slow but determined movements. She seems to hold her breath for a while but then lets out a big sigh and begins to tenderly stroke the rolling muscles of your back."
-    "{i}[r_name] podciąga nogi, jakby chcąc zaprosić Cię jeszcze bardziej do środka jej mokrej szczeliny i zaczynasz swoje powolne, ale zdecydowane ruchy Wydaje się, że na chwilę wstrzymuje oddech, ale potem wypuszcza wielkie westchnienie i zaczyna czule głaskać zwijające się mięśnie Twoich pleców"
-
-# game/day20.rpy:534
-translate polish day20_r_deflowering_362742c1:
-
-    # "{i}With each thrust, your dick penetrates her more easily, helped by her juices copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
-    "{i}Z każdym pchnięciem twój kutas penetruje ją łatwiej pomagając jej soki copiously płynących soków Ona oczywiście nie jest gotowy na nic gwałtownego wygląd bolesne całkowicie zniknął z jej twarzy zastąpione mieszaniną radości i zapału"
-
-# game/day20.rpy:549
-translate polish day20_r_deflowering_7b67481e:
-
-    # "You want your sweet sister's deflowering to last forever and do everything in your power to extend your lovemaking. Her tight pussy ultimately wins, and you pull out to spray spurt after spurt of thick semen onto your sister's body."
-    "Chcesz, aby twój słodki siostra deflowering trwać wiecznie i zrobić wszystko, co w twojej mocy, aby przedłużyć swoje lovemaking Jej ciasne cipki ostatecznie wygrywa i wyciągnąć do sprayu spurt po spurt gęstego nasienia na ciało siostry"
-
-# game/day20.rpy:551
-translate polish day20_r_deflowering_6e661eff:
-
-    # "You want sweet [r_name]'s deflowering to last forever and do everything in your power to extend your lovemaking. Her tight pussy ultimately wins, and you pull out to spray spurt after spurt of thick semen onto [r_name]'s body."
-    "Chcesz, aby słodkie [r_name] defloracja trwać wiecznie i zrobić wszystko, co w twojej mocy, aby przedłużyć swoje lovemaking Jej ciasna cipka ostatecznie wygrywa i wyciągnąć, aby spray spurt po spurt gęstego nasienia na [r_name] ciało"
-
-# game/day20.rpy:555
-translate polish day20_r_deflowering_3745f169:
-
-    # "{i}When [r_name]'s chest is almost completely covered in cum, she climbs half on top of you for a kiss."
-    "{i}Kiedy klatka piersiowa [r_name] jest prawie całkowicie pokryta cumem, wspina się na pół na ciebie, aby cię pocałować."
-
-# game/day20.rpy:571
-translate polish day20_r_deflowering_cd4f7c85:
-
-    # "{i}When you pull out of [r_name]'s cum-filled pussy, she climbs half on top of you for a kiss."
-    "{i}Kiedy wysuwasz się z wypełnionej cipki [r_name], ona wspina się na pół na ciebie, by cię pocałować."
-
-# game/day20.rpy:583
-translate polish day20_r_deflowering_33a78934:
-
-    # r "It hurt at first, and I really wanted you to stop."
-    r "Na początku bolało i bardzo chciałam, żebyś przestał"
-
-# game/day20.rpy:584
-translate polish day20_r_deflowering_9c01fcd9:
-
-    # r "But then you told me to relax, and that really really helped."
-    r "Ale potem powiedziałeś mi, żebym się zrelaksował i to naprawdę bardzo pomogło"
-
-# game/day20.rpy:603
-translate polish day20_r_deflowering_5c1e9521:
-
-    # "{i}After stealing one quick kiss, you hastily put on some clothes and leave your sister naked on her bed. The doorbell rings again as you sprint towards it."
-    "{i}Po kradzieży jeden szybki pocałunek pospiesznie umieścić na niektórych ubraniach i zostawić swoją siostrę nago na jej łóżku Dzwonek do drzwi dzwoni ponownie, jak sprint do niego."
-
-# game/day20.rpy:605
-translate polish day20_r_deflowering_d73fa1ad:
-
-    # "{i}After stealing one quick kiss, you hastily put on some clothes and leave [r_name] naked on her bed. The doorbell rings again as you sprint towards it."
-    "{i}Po skradzeniu jednego szybkiego pocałunku pośpiesznie zakładasz jakieś ubrania i zostawiasz [r_name] nago na jej łóżku Dzwonek do drzwi dzwoni ponownie, gdy sprintujesz w jego kierunku"
-
-# game/day20.rpy:615
+# game/day20.rpy:468
 translate polish day20_evening_choices_49dfa12a:
 
     # "{i}You knock on her door, and you hear her answer after a short while."
-    "{i}Pukasz do jej drzwi i po krótkiej chwili słyszysz jak odpowiada"
+    "{i}Pukasz do jej drzwi i po krótkiej chwili słyszysz jej odpowiedź."
 
-# game/day20.rpy:620
+# game/day20.rpy:474
 translate polish day20_evening_choices_36cc4830:
 
     # m "I slept, and then I slept some more."
-    m "Spałem, a potem jeszcze trochę spałem"
+    m "Wyspałam się, a potem znowu się zdrzemnęłam."
 
-# game/day20.rpy:624
+# game/day20.rpy:478
 translate polish day20_evening_choices_80332445:
 
     # m "[l_name] has been a dear as well today. She brought me meals."
-    m "[l_name] była kochana także dzisiaj Przyniosła mi posiłki"
+    m "Liza też była bardzo miła, przynosiła mi posiłki."
 
-# game/day20.rpy:730
-translate polish day20_evening_choices_047bd1f5:
-
-    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
-    ri "Zgubię okulary, właśnie wygrzebałam je z szuflady i nie są na moją receptę Moje oczy jakby teraz bolały"
-
-# game/day20.rpy:760
-translate polish day20_evening_choices_a502271c:
-
-    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
-    "{i}Z twardym kutasem przyciśniętym do jej uda zaczynasz masować jej piersi bawiąc się jej twardymi sutkami Po usłyszeniu jej jęku wprowadzasz drugą rękę między jej nogi"
-
-# game/day20.rpy:764
-translate polish day20_evening_choices_feacd9dc:
-
-    # "{i}At those words, you insert a finger inside her wet gash."
-    "{i}Na te słowa wsuwasz palec do wnętrza jej mokrej szparki"
-
-# game/day20.rpy:791
-translate polish day20_evening_choices_ab51dfe5:
-
-    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
-    "{i}Bez zatrzymywania się wepchniesz w nią swojego pulsującego kutasa i wyładujesz gęste strumienie kremu wewnątrz jej cipki."
-
-# game/day20.rpy:831
-translate polish day20_evening_choices_e87ec995:
-
-    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
-    "{i}Wyczerpany rozbijasz się na kanapie Pozostaje ciepły i śliski z soków waszej miłości Riley czyści się trochę i czołga się obok ciebie."
-
-# game/day20.rpy:898
+# game/day20.rpy:631
 translate polish day20_riley_sex_post_d49c2755:
 
     # p "Yes, I am. Thank you for calling back."
-    p "Tak jestem Dziękuję za oddzwonienie"
+    p "Jak najbardziej. Dzięki za telefon."
 
-# game/day20.rpy:929
-translate polish day20_riley_sex_post_6d63ec83:
-
-    # p "No, you're not."
-    p "Nie jesteś"
-
-# game/day20.rpy:930
-translate polish day20_riley_sex_post_f4a6d83e:
-
-    # b "Yes, I am."
-    b "Tak jestem"
-
-# game/day20.rpy:1039
+# game/day20.rpy:715
 translate polish day20_riley_sex_post_14e9c32c:
 
     # p "I'm pretty certain... No, absolutely certain that what we're feeling isn't as shallow as that."
-    p "Jestem całkiem pewna Nie absolutnie pewna, że to co czujemy nie jest aż tak płytkie"
+    p "Jestem dość pewny, wróć, jestem absolutnie pewny, że to co czujemy nie jest tak płytkie jak to."
 
-# game/day20.rpy:1056
+# game/day20.rpy:732
 translate polish day20_riley_sex_post_219aa30f:
 
     # "{i}You're careful not to wake your sister and slide next to her in the bed. When you embrace her sweet form, a little contented sigh escapes her."
-    "{i}Jesteś ostrożny, aby nie obudzić siostry i ślizgać się obok niej w łóżku Kiedy obejmujesz jej słodką formę małe zadowolone westchnienie wymyka się jej."
+    "{i}Uważasz, żeby nie obudzić swojej siostry i wślizgujesz się obok niej do łóżka. Kiedy obejmujesz jej słodką figurę, z jej ust wymyka się westchnienie zadowolenia."
 
-# game/day20.rpy:1058
+# game/day20.rpy:734
 translate polish day20_riley_sex_post_21f0685d:
 
     # "{i}You're careful not to wake your lover and slide next to her in the bed. When you embrace her sweet form, a little contented sigh escapes her."
-    "{i}Jesteś ostrożny, aby nie obudzić swojej kochanki i ślizgasz się obok niej w łóżku Kiedy obejmujesz jej słodką formę wymyka się z niej małe zadowolone westchnienie."# TODO: Translation updated at 2023-07-06 13:24
+    "{i}Uważasz, aby nie obudzić swojej kochanki i przesuwasz się obok niej w łóżku, gdy obejmujesz jej słodką postać, a jej zadowolone westchnienie wymyka się."
 
-# game/day20.rpy:534
+# game/day20.rpy:755
+translate polish day20_r_deflowering_a2a7c7ea:
+
+    # r "I was looking around the house while you were snoring away, and it seems we're alone. Only [m_name] is still here, but she's been sleeping like a log for hours on end."
+    r "Rozglądałem się po domu, kiedy chrapałeś i wygląda na to, że jesteśmy sami. Tylko [m_name] wciąż tu jest, ale śpi jak kłoda od wielu godzin."
+
+# game/day20.rpy:771
+translate polish day20_r_deflowering_d153a622:
+
+    # p "She's right. It may hurt at first, and maybe your first time is going to be unpleasant on the whole. I want you to understand that."
+    p "Ma rację. Na początku może boleć i może tak być, że Twój pierwszy raz będzie całkowicie nieprzyjemny. Chcę, żebyś to wiedziała."
+
+# game/day20.rpy:782
+translate polish day20_r_deflowering_fcdd9227:
+
+    # "{i}You kiss her worried look from her face and softly caress her skin."
+    "{i}Całujesz jej zmartwioną twarz i delikatnie pieścisz jej skórę."
+
+# game/day20.rpy:794
+translate polish day20_r_deflowering_37076cfb:
+
+    # "{i}After you move your tongue teasingly inside her, you start sucking softly on her labia and finally her erect clitoris."
+    "{i}Zaczynasz energicznie ruszać w niej językiem i ssać delikatnie jej już nabrzmiałą łechtaczkę."
+
+# game/day20.rpy:800
+translate polish day20_r_deflowering_7fc9f9c4:
+
+    # "{i}Suddenly you stop and move back towards her upper body, lingering for a while at her puffy nipples. Her eyes are filled with lust, and her skin is flushed."
+    "{i}Przerywasz nagle i zmierzasz ponownie ku górnej części jej ciała, zatrzymując się na chwilę na jej sterczących sutkach. Jej skóra jest zaróżowiona, a jej spojrzenie przepełnia pożądanie."
+
+# game/day20.rpy:822
+translate polish day20_r_deflowering_6b50a97b:
+
+    # "{i}Both your tongues entangle in a passionate kiss. [r_name] then uses her hand to push against your butt as if to move you further inside her."
+    "{i}Oba języki splatają się w namiętnym pocałunku [r_name], a następnie używa dłoni, aby nacisnąć na twój tyłek, jakby chciała przesunąć cię dalej w jej wnętrzu."
+
+# game/day20.rpy:826
+translate polish day20_r_deflowering_2f439370:
+
+    # p "{i}(Man, she's so tight. If I'm not careful, I'll cum by just moving out of her again.)"
+    p "{i}(Cholera, jest strasznie ciasna. Jeśli nie będę ostrożny, to dojdę gdy tylko się z niej wysunę.)"
+
+# game/day20.rpy:833
+translate polish day20_r_deflowering_643075bc:
+
+    # "{i}Your sister pulls up her legs as if to invite you even further inside her wet slit, and you begin your slow but determined movements. [r_name] seems to hold her breath for a while but then lets out a big sigh and begins to tenderly stroke the rolling muscles of your back."
+    "{i}Twoja siostra unosi nogi, jakby zachęcając Cię do jeszcze głębszej penetracji i powoli, ale zdecydowanie zaczynasz się w niej ruszać. Rachel zdaje się wstrzymywać na chwilę oddech, ale potem wzdycha głośno i zaczyna czule masować mięśnie Twoich pleców."
+
+# game/day20.rpy:835
+translate polish day20_r_deflowering_5297f0bd:
+
+    # "{i}[r_name] pulls up her legs as if to invite you even further inside her wet slit, and you begin your slow but determined movements. She seems to hold her breath for a while but then lets out a big sigh and begins to tenderly stroke the rolling muscles of your back."
+    "{i}[r_name] podciąga nogi, jakby chciała zaprosić cię jeszcze bardziej do środka jej mokrej szczeliny, a ty zaczynasz powolne, ale zdecydowane ruchy Wydaje się, że wstrzymuje oddech na chwilę, ale potem wydaje z siebie wielkie westchnienie i zaczyna czule głaskać zwijające się mięśnie twoich pleców."
+
+# game/day20.rpy:841
 translate polish day20_r_deflowering_5a89aa3b:
 
     # "{i}With each thrust, your dick penetrates her more easily, helped by her copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
     "{i}Z każdym pchnięciem twój kutas penetruje ją łatwiej, wspomagany przez jej obficie płynące soki. Najwyraźniej nie jest gotowa na nic gwałtownego, bolesny wyraz twarzy całkowicie zniknął z jej twarzy, zastąpiony mieszanką radości i zapału."
->>>>>>> polish
+
+# game/day20.rpy:859
+translate polish day20_r_deflowering_7b67481e:
+
+    # "You want your sweet sister's deflowering to last forever and do everything in your power to extend your lovemaking. Her tight pussy ultimately wins, and you pull out to spray spurt after spurt of thick semen onto your sister's body."
+    "{i}Chcesz aby rozdziewiczanie Twojej słodkiej siostrzyczki trwało bez końca i robisz co w Twojej mocy aby wydłużyć wasze uprawianie miłości. Koniec końców, jej ciasna cipka wygrywa i wysuwając się z niej, obryzgujesz ciało swojej siostry niekończącymi się strumieniami gęstej spermy."
+
+# game/day20.rpy:861
+translate polish day20_r_deflowering_6e661eff:
+
+    # "You want sweet [r_name]'s deflowering to last forever and do everything in your power to extend your lovemaking. Her tight pussy ultimately wins, and you pull out to spray spurt after spurt of thick semen onto [r_name]'s body."
+    "Chcesz, aby defloracja słodkiej [r_name] trwała wiecznie i robisz wszystko, co w twojej mocy, aby przedłużyć swoje kochanie. Jej ciasna cipka ostatecznie wygrywa, a ty wysuwasz się, by tryskać gęstym nasieniem na ciało [r_name]."
+
+# game/day20.rpy:865
+translate polish day20_r_deflowering_3745f169:
+
+    # "{i}When [r_name]'s chest is almost completely covered in cum, she climbs half on top of you for a kiss."
+    "{i}Kiedy pierś Rachel jest praktycznie całkowicie pokryta spermą, wspina się na Ciebie, żeby Cię pocałować."
+
+# game/day20.rpy:887
+translate polish day20_r_deflowering_cd4f7c85:
+
+    # "{i}When you pull out of [r_name]'s cum-filled pussy, she climbs half on top of you for a kiss."
+    "{i}Kiedy wysuwasz się z jej wypełnionej spermą cipki, Rachel wspina się na Ciebie, żeby Cię pocałować."
+
+# game/day20.rpy:903
+translate polish day20_r_deflowering_33a78934:
+
+    # r "It hurt at first, and I really wanted you to stop."
+    r "Na początku bolało i naprawdę chciałam, żebyś przestał."
+
+# game/day20.rpy:904
+translate polish day20_r_deflowering_9c01fcd9:
+
+    # r "But then you told me to relax, and that really really helped."
+    r "Ale wtedy powiedziałeś mi, żebym się rozluźniła i to naprawdę, naprawdę pomogło."
+
+# game/day20.rpy:923
+translate polish day20_r_deflowering_5c1e9521:
+
+    # "{i}After stealing one quick kiss, you hastily put on some clothes and leave your sister naked on her bed. The doorbell rings again as you sprint towards it."
+    "{i}Po skradzeniu jednego szybkiego pocałunku pospiesznie zakładasz ubrania i zostawiasz swoją siostrę nagą na łóżku. Dzwonek do drzwi dzwoni ponownie, gdy biegniesz w jego kierunku."
+
+# game/day20.rpy:925
+translate polish day20_r_deflowering_d73fa1ad:
+
+    # "{i}After stealing one quick kiss, you hastily put on some clothes and leave [r_name] naked on her bed. The doorbell rings again as you sprint towards it."
+    "{i}Po skradzeniu jednego szybkiego pocałunku pośpiesznie zakładasz ubrania i zostawiasz [r_name] nagą na jej łóżku. Dzwonek do drzwi dzwoni ponownie, gdy biegniesz w jego kierunku."
+
+# game/day20.rpy:935
+translate polish day20_b_licking_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day20.rpy:939
+translate polish day20_b_licking_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day20.rpy:942
+translate polish day20_b_licking_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day20.rpy:949
+translate polish day20_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Co?"
+
+# game/day20.rpy:950
+translate polish day20_b_licking_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Rozbierz się, chcę posmakować Twojej cipki."
+
+# game/day20.rpy:951
+translate polish day20_b_licking_3b40820c:
+
+    # b "I'm busy."
+    b "Jestem zajęta."
+
+# game/day20.rpy:952
+translate polish day20_b_licking_94999a5f:
+
+    # p "No you're not."
+    p "Nie, nie jesteś."
+
+# game/day20.rpy:953
+translate polish day20_b_licking_88ee9d37:
+
+    # b "Yes I am."
+    b "Jestem."
+
+# game/day20.rpy:954
+translate polish day20_b_licking_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Będziesz się zachowywać jak dziecko? Wiesz, że mógłbym po prostu zedrzeć z Ciebie ciuchy?"
+
+# game/day20.rpy:956
+translate polish day20_b_licking_e4f370a8:
+
+    # b "I know."
+    b "Wiem."
+
+# game/day20.rpy:959
+translate polish day20_b_licking_a9a5ca74:
+
+    # "{i}Your sister reluctantly removes her clothes and sits on the bed."
+    "{i}Twoja siostra niechętnie ściąga z siebie ubrania i siada na łóżku."
+
+# game/day20.rpy:961
+translate polish day20_b_licking_d005c0b7:
+
+    # "{i}The girl reluctantly removes her clothes and sits on the bed."
+    "{i}Dziewczyna niechętnie zdejmuje ubranie i siada na łóżku."
+
+# game/day20.rpy:962
+translate polish day20_b_licking_e36b7664:
+
+    # p "Good, you won't regret this."
+    p "Dobrze, nie pożałujesz tego."
+
+# game/day20.rpy:963
+translate polish day20_b_licking_5ceba404:
+
+    # p "{i}(Ultimately...)"
+    p "{i}(W ostatecznym rozrachunku...)"
+
+# game/day20.rpy:969
+translate polish day20_b_licking_a55df5f2:
+
+    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
+    "{i}Bez ostrzeżenia łapiesz ją za nogi i nurkujesz między jej uda. Jej ciało natychmiastowo reaguje na Twój szorstki język i po chwili już jest mokra."
+
+# game/day20.rpy:970
+translate polish day20_b_licking_ab537a6c:
+
+    # p "Your body always betrays you, [b_name]."
+    p "Twoje ciało zawsze Cię zdradza Bella."
+
+# game/day20.rpy:971
+translate polish day20_b_licking_64819380:
+
+    # b "F-f-fuck you!"
+    b "P- Pierdol się!"
+
+# game/day20.rpy:972
+translate polish day20_b_licking_ae14bf53:
+
+    # "{i}Your tongue is seemingly everywhere at once, stimulating her clitoris, caressing her labia and penetrating her moist gash."
+    "{i}Twój język zdaje się być w kilku miejscach na raz, stymulując jej łechtaczkę, gładząc jej wargi i penetrując jej wilgotną szparkę."
+
+# game/day20.rpy:974
+translate polish day20_b_licking_807be6fe:
+
+    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
+    "{i}Wszelkie pozory irytacji opuściły [b_name], a ona jest w pełni pochłonięta twoim mocnym rżnięciem językiem."
+
+# game/day20.rpy:975
+translate polish day20_b_licking_8916675f:
+
+    # b "Ooooh!"
+    b "Ooooh!"
+
+# game/day20.rpy:980
+translate polish day20_b_licking_a34e063e:
+
+    # "{i}Just when you notice she's ready to climax, you stop abruptly."
+    "{i}Kiedy tylko zauważasz, że zaraz będzie szczytować, przerywasz gwałtownie."
+
+# game/day20.rpy:982
+translate polish day20_b_licking_06940249:
+
+    # p "That's enough for now."
+    p "Na ten moment wystarczy."
+
+# game/day20.rpy:983
+translate polish day20_b_licking_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Co?! Nie, nie możesz..."
+
+# game/day20.rpy:984
+translate polish day20_b_licking_47fea10d:
+
+    # p "I can't?"
+    p "Nie mogę?"
+
+# game/day20.rpy:985
+translate polish day20_b_licking_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Po prostu... A idź się jebać!"
+
+# game/day20.rpy:986
+translate polish day20_b_licking_5366f9d4:
+
+    # p "Maybe I'll be back, maybe I won't..."
+    p "Może jeszcze wrócę, może nie..."
+
+# game/day20.rpy:988
+translate polish day20_b_licking_a32e4def:
+
+    # "{i}You go back to your room, the taste of [b_name] still on your lips, as she remains behind, naked and confused."
+    "{i}Wracasz do swojego pokoju, dalej ze smakiem Belli na ustach, zostawiając ją za sobą, nagą i zdezorientowaną."
+
+# game/day20.rpy:1004
+translate polish day20_ri_sex_37f83a86:
+
+    # ri "You're here for the job interview?"
+    ri "Pan na rozmowę kwalifikacyjną?"
+
+# game/day20.rpy:1005
+translate polish day20_ri_sex_03af6b77:
+
+    # p "Wow, you're one sexy manager, Riley."
+    p "Wow, seksowna z Ciebie kierowniczka."
+
+# game/day20.rpy:1010
+translate polish day20_ri_sex_a4f46328:
+
+    # ri "You think so?"
+    ri "Tak uważasz?"
+
+# game/day20.rpy:1011
+translate polish day20_ri_sex_1f051601:
+
+    # p "I'm not sure if people would get much work done with you around in those clothes, but you do command a certain respect."
+    p "Nie wiem, czy ludzie byliby w stanie pracować gdybyś paradowała wokół nich w tych ciuchach, ale roztaczasz aurę pewnego autorytetu."
+
+# game/day20.rpy:1016
+translate polish day20_ri_sex_097ee088:
+
+    # p "God, I so want to see you naked."
+    p "Boże, tak bardzo chcę zobaczyć Cię nago."
+
+# game/day20.rpy:1017
+translate polish day20_ri_sex_2d101b07:
+
+    # ri "All in good time. As your superior we still need to do a very thorough final evaluation of your work as a supermarket employee."
+    ri "Wszystko w swoim czasie. Jako Twoja przełożona będę musiała przeprowadzić dogłębną ocenę Twojej pracy."
+
+# game/day20.rpy:1019
+translate polish day20_ri_sex_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Napijesz się czegoś?"
+
+# game/day20.rpy:1020
+translate polish day20_ri_sex_da386a94:
+
+    # p "No thanks."
+    p "Nie, dzięki."
+
+# game/day20.rpy:1022
+translate polish day20_ri_sex_1a4fa82a:
+
+    # ri "Would you like to get more comfortable?"
+    ri "Masz ochotę trochę się rozgościć?"
+
+# game/day20.rpy:1023
+translate polish day20_ri_sex_adfb9188:
+
+    # p "That would be very nice."
+    p "Byłoby miło."
+
+# game/day20.rpy:1024
+translate polish day20_ri_sex_047bd1f5:
+
+    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
+    ri "Zdejmę te okulary. Wygrzebałam je właśnie z szuflady, a nie są na moją wadę. Oczy już mnie bolą."
+
+# game/day20.rpy:1025
+translate polish day20_ri_sex_dc21400d:
+
+    # p "They make you look a bit like Dame Edna as well..."
+    p "Sprawiają też, że wyglądasz trochę jak Dame Edna..."
+
+# game/day20.rpy:1026
+translate polish day20_ri_sex_64fa58c0:
+
+    # ri "Wahaha! Fuck you, you're such a moodkiller!"
+    ri "Wahaha! Pierdol się, nie psuj klimatu!"
+
+# game/day20.rpy:1027
+translate polish day20_ri_sex_804b5e65:
+
+    # p "Those glasses are not the only thing you can lose if I have anything to say about it. I would really like to see those beautiful breasts."
+    p "Te okulary nie są jedyną rzeczą, którą mogłabyś zdjąć, jeśli mogę coś zasugerować. Naprawdę chciałbym zobaczyć te piękne piersi."
+
+# game/day20.rpy:1029
+translate polish day20_ri_sex_0618aa18:
+
+    # ri "So, have you thought about what you're going to do with me? Because as of right now, your evaluation is not looking good."
+    ri "Więc, pomyślałeś, co ze mną zrobisz? Bo póki co, ocena Twojej pracy nie wygląda najlepiej."
+
+# game/day20.rpy:1031
+translate polish day20_ri_sex_fc19827e:
+
+    # p "I didn't hear you complain the last time we were here..."
+    p "Kiedy tu ostatnio byłem, to nie narzekałaś..."
+
+# game/day20.rpy:1032
+translate polish day20_ri_sex_a3557f80:
+
+    # ri "Yes, that certainly works in your favor. But a girl wants more, you know."
+    ri "Tak, to niewątpliwie działa na Twoją korzyść. Ale dziewczynie trzeba czegoś więcej, wiesz."
+
+# game/day20.rpy:1034
+translate polish day20_ri_sex_a1306849:
+
+    # p "I'll show you something..."
+    p "Coś Ci pokażę..."
+
+# game/day20.rpy:1035
+translate polish day20_ri_sex_be0b6bd8:
+
+    # ri "I bet."
+    ri "Nie wątpię."
+
+# game/day20.rpy:1036
+translate polish day20_ri_sex_10d940fa:
+
+    # p "You're still wearing too much clothing."
+    p "Dalej masz na sobie zbyt wiele ubrań."
+
+# game/day20.rpy:1037
+translate polish day20_ri_sex_d3692d3d:
+
+    # ri "Really? I thought you liked me in a tight business skirt, wearing a revealing blouse. Your words."
+    ri "Naprawdę? Myślałam, że podobam Ci się w ciasnej spódnicy i wydekoltowanej bluzce. Twoje słowa."
+
+# game/day20.rpy:1039
+translate polish day20_ri_sex_cb7d4554:
+
+    # ri "And now you've got me down to my heels. What's a girl gonna think?"
+    ri "A teraz rozebrałeś mnie do samych szpilek. Co dziewczyna ma sobie pomyśleć?"
+
+# game/day20.rpy:1040
+translate polish day20_ri_sex_da4426a8:
+
+    # p "Maybe that girl could suck on my big fat cock."
+    p "Może ta dziewczyna powinna possać mojego wielkiego kutasa."
+
+# game/day20.rpy:1041
+translate polish day20_ri_sex_ec5ad243:
+
+    # "{i}You lower your pants and reveal your dick, standing proud at the sight of Riley's naked body."
+    "{i}Opuszczasz swoje spodnie i odsłaniasz swojego fiuta, stojącego dumnie po ujrzeniu nagiego ciała Riley."
+
+# game/day20.rpy:1042
+translate polish day20_ri_sex_4830d44d:
+
+    # ri "I must say, it looks rather appetizing."
+    ri "Muszę przyznać, że wygląda dość apetycznie."
+
+# game/day20.rpy:1047
+translate polish day20_ri_sex_24007305:
+
+    # "{i}Riley slides off the couch and squats before you, taking your entire member inside of her mouth using long strokes, stimulating the length of your cock."
+    "{i}Riley zsuwa się z kanapy i siada przy Tobie, bierze Twojego penisa w całości do ust, z pomocą długich ruchów stymuluje Cię na całej długości."
+
+# game/day20.rpy:1049
+translate polish day20_ri_sex_a5bc380a:
+
+    # p "God Riley, I didn't know you were so good at this."
+    p "O Boże, Riley. Nie wiedziałem, że jesteś w tym tak dobra."
+
+# game/day20.rpy:1050
+translate polish day20_ri_sex_5448aaaf:
+
+    # "{i}Her wet lips slide over the veins of your dick, taking extra care of the sensitive area around your glans."
+    "{i}Jej mokre wargi ślizgają się po żyłach Twojego fiuta, poświęcając szczególną uwagę wrażliwym obszarom wokół Twojego żołędzia."
+
+# game/day20.rpy:1051
+translate polish day20_ri_sex_e3cf2e2a:
+
+    # ri "I didn't show you before, did I? You taste good, [p_name]."
+    ri "Nie pokazałam Ci wcześniej, prawda? Świetnie smakujesz [p_name]."
+
+# game/day20.rpy:1052
+translate polish day20_ri_sex_9f40793d:
+
+    # "{i}Riley returns to her cocksucking with renewed fervor. She applies so much suction that it almost seems that she wants to slurp the cum right out of you."
+    "{i}Riley wraca do obciągania z odnowionym zapałem. Przysysa się tak mocno, że sprawia wrażenie jakby chciała wyssać spermę prosto z Twoich jąder."
+
+# game/day20.rpy:1053
+translate polish day20_ri_sex_1ca99c8b:
+
+    # p "Woah, not so fast! I'm not ready to fill you up just yet."
+    p "Wow, nie tak szybko! Jeszcze nie jestem na to gotowy."
+
+# game/day20.rpy:1054
+translate polish day20_ri_sex_a47b3cec:
+
+    # ri "Mmmmm. What do you have in mind?"
+    ri "Mmmmm. Co Ci chodzi po głowie?"
+
+# game/day20.rpy:1055
+translate polish day20_ri_sex_fe473b1d:
+
+    # p "Stand up and you'll see."
+    p "Wstań, to się przekonasz."
+
+# game/day20.rpy:1062
+translate polish day20_ri_sex_a502271c:
+
+    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
+    "{i}Z Twoim twardym fiutem przyciśniętym do jej uda, zaczynasz masować jej piersi, bawiąc się z jej twardymi sutkami. Kiedy słyszysz jak jęczy, drugą ręką sięgasz do jej krocza."
+
+# game/day20.rpy:1063
+translate polish day20_ri_sex_f3b5ce36:
+
+    # ri "Ooooh!"
+    ri "Ooooh!"
+
+# game/day20.rpy:1064
+translate polish day20_ri_sex_43488810:
+
+    # p "I'm going to fuck you so hard Riley, but first I have to make sure you're ready."
+    p "Zerżnę Cię tak mocno Riley, ale najpierw muszę się upewnić, że jesteś na mnie gotowa."
+
+# game/day20.rpy:1065
+translate polish day20_ri_sex_5e5bbce4:
+
+    # ri "Oh, I'm ready."
+    ri "Oh, jestem gotowa."
+
+# game/day20.rpy:1066
+translate polish day20_ri_sex_feacd9dc:
+
+    # "{i}At those words, you insert a finger inside her wet gash."
+    "{i}Na te słowa, wsuwasz swój palec w jej mokrą szparkę."
+
+# game/day20.rpy:1067
+translate polish day20_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "K- Kurwa!"
+
+# game/day20.rpy:1068
+translate polish day20_ri_sex_2431c94e:
+
+    # "{i}You insert another finger inside of her and then another."
+    "{i}Wkładasz w nią kolejny palec, i kolejny."
+
+# game/day20.rpy:1069
+translate polish day20_ri_sex_fdc0b456:
+
+    # p "I'm going to make you cum."
+    p "Doprowadzę Cię do orgazmu."
+
+# game/day20.rpy:1070
+translate polish day20_ri_sex_bd2ad48b:
+
+    # "{i}Riley just moans as you move your fingers inside of her, faster and faster, stimulating her g-spot."
+    "{i}Riley już tylko jęczy kiedy ruszasz w niej swoimi palcami, coraz szybciej i szybciej, stymulując jej punkt g."
+
+# game/day20.rpy:1071
+translate polish day20_ri_sex_4df0219c:
+
+    # ri "F-f-fuck! What are you doing?!"
+    ri "K- Kurwa! Co Ty mi robisz?!"
+
+# game/day20.rpy:1072
+translate polish day20_ri_sex_665c9643:
+
+    # p "Sssssh..."
+    p "Ciiii..."
+
+# game/day20.rpy:1080
+translate polish day20_ri_sex_b2c986bb:
+
+    # "{i}The only thing coming from Riley at this moment are guttural sounds as she orgasms from your penetrating fingers. Her ejaculate is streaming down her inner thighs and even covers her taught calves as she struggles to stand straight on her high heels."
+    "{i}Kiedy teraz dochodzi od Twoich penetrujących ją palców, jedynym odgłosem jaki z siebie wydaje jest gardłowy warkot. Soki spływają jej po udach i pokrywają już nawet jej łydki, kiedy próbuje ustać na swoich szpilkach."
+
+# game/day20.rpy:1081
+translate polish day20_ri_sex_099c6873:
+
+    # p "Now you're ready."
+    p "Teraz jesteś gotowa."
+
+# game/day20.rpy:1089
+translate polish day20_ri_sex_3a3a096f:
+
+    # "{i}With some encouragement and in the last throes of her orgasm, Riley kneels on the couch and you enter her dripping wet slit."
+    "{i}Z niewielką zachętą i w ostatnich podrygach orgazmu, Riley klęka na kanapie i zagłębiasz się w jej ociekającej cipce."
+
+# game/day20.rpy:1090
+translate polish day20_ri_sex_2aac7798:
+
+    # ri "Ah! Ah! It's so much!"
+    ri "Ah! Ah! To zbyt wiele!"
+
+# game/day20.rpy:1091
+translate polish day20_ri_sex_a3c1f138:
+
+    # "{i}You immediately start with deep thrusts, nearly making Riley cum a second time. You slap her bouncing ass until red marks appear on her butt cheeks."
+    "{i}Zaczynasz od razu od głębokich pchnięć, prawie doprowadzając ją do orgazmu po raz drugi. Obsypujesz klapsami jej podskakujący tyłek, aż na jej pośladkach pojawiają się czerwone ślady."
+
+# game/day20.rpy:1092
+translate polish day20_ri_sex_46c2ad50:
+
+    # ri "Fuck me harder, I want you so deep inside me, [p_name]!"
+    ri "Rżnij mnie mocniej [p_name], chcę poczuć Cię głęboko w sobie!"
+
+# game/day20.rpy:1094
+translate polish day20_ri_sex_400b45ad:
+
+    # "{i}You turn the girl around and she pulls up a leg to give you even deeper access to the moist confines of her pussy."
+    "{i}Odwracasz dziewczynę na plecy, Riley podnosi nogę dając Ci jeszcze lepszy dostęp do wnętrza swojej mokrej szparki."
+
+# game/day20.rpy:1095
+translate polish day20_ri_sex_4c3eed5f:
+
+    # ri "That's it, right t-there!"
+    ri "Właśnie tak, w tym miejscu!"
+
+# game/day20.rpy:1096
+translate polish day20_ri_sex_e34f450a:
+
+    # "{i}You ram your dick inside of her until Riley's hoarse moans are filled with ultimate pleasure and you feel your orgasm starting to boil inside you."
+    "{i}Wbijasz w nią swojego fiuta, aż jej chrapliwe jęki wypełniają się ostateczną rozkoszą i czujesz jak zbliża się Twój orgazm."
+
+# game/day20.rpy:1106
+translate polish day20_ri_sex_78cfc9ab:
+
+    # p "F-fuck yes! Aaaah!"
+    p "K- Kurwa, tak! Aaaah!"
+
+# game/day20.rpy:1107
+translate polish day20_ri_sex_ab51dfe5:
+
+    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
+    "{i}Bez zatrzymywania się wepchnij w nią swojego pulsującego kutasa i rozładuj gęste strumienie kremu w jej cipce."
+
+# game/day20.rpy:1108
+translate polish day20_ri_sex_f3a9113e:
+
+    # ri "Don't pull out! I want every last drop inside of me."
+    ri "Nie wyciągaj! Chcę poczuć w sobie każdą ostatnią kroplę."
+
+# game/day20.rpy:1109
+translate polish day20_ri_sex_85a929de:
+
+    # "{i}Her tender pussy is filled with a mixture of your semen and her moisture, which eventually leaks from her gaping pussy. You stay inside her as long as possible, your cock still spurting tiny droplets of cum in the last remnants of your climax."
+    "{i}Jej wrażliwa cipka jest teraz wypełniona mieszanką Twojej spermy i jej soków, która ostatecznie zaczyna wypływać z jej pulsującego wnętrza. Zostajesz w niej tak długo jak możliwe, Twój fiut dalej wypluwa z siebie drobne kropelki nasienia w ostatnich falach Twojego orgazmu."
+
+# game/day20.rpy:1126
+translate polish day20_ri_sex_d3c52b41:
+
+    # p "Open your mouth Riley."
+    p "Otwórz usta Riley."
+
+# game/day20.rpy:1127
+translate polish day20_ri_sex_c13aa583:
+
+    # ri "I want to taste all of it."
+    ri "Chcę tego posmakować."
+
+# game/day20.rpy:1128
+translate polish day20_ri_sex_78cfc9ab_1:
+
+    # p "F-fuck yes! Aaaah!"
+    p "K- Kurwa, tak! Aaaah!"
+
+# game/day20.rpy:1129
+translate polish day20_ri_sex_34e79b12:
+
+    # "{i}Multiple streams of thick cream splash inside her mouth and on the side of her face. Delirious, she keeps your load inside of her open mouth, waiting for more and eventually swallowing your warm gift."
+    "{i}Gęste strumienie Twojej spermy trafiają do jej ust i na twarz. Urzeczona, utrzymuje Twoje nasienie w otwartych ustach, czekając na więcej i ostatecznie połykając Twój ciepły podarek."
+
+# game/day20.rpy:1143
+translate polish day20_ri_sex_0dc5917c:
+
+    # "{i}At the last moment you pull your pulsating cock outside of her tender pussy and unload thick streams of cream on her belly. It slowly leaks down into her pubic hair and Riley deliriously rubs her body with your cum."
+    "{i}W ostatnim momencie wyciągasz z jej wrażliwej cipki swojego pulsującego fiuta i spuszczasz się gęstymi strumieniami spermy na jej brzuch. Twoje nasienie spływa powoli na jej włosy łonowe, a Riley urzeczona wciera je w swoje ciało"
+
+# game/day20.rpy:1158
+translate polish day20_ri_sex_3321d927:
+
+    # p "I want to see your face when I cum, Riley."
+    p "Chcę widzieć Twoją twarz kiedy będę dochodził."
+
+# game/day20.rpy:1159
+translate polish day20_ri_sex_34ed9f2a:
+
+    # ri "I want to have all of it!"
+    ri "Daj mi wszystko co masz!"
+
+# game/day20.rpy:1160
+translate polish day20_ri_sex_62b90f21:
+
+    # "{i}Multiple streams of thick cream splash on Riley's delirious face. There's so much of it that her shoulder and breasts are also covered in big splashes of your cum."
+    "{i}Gęste strumienie Twojej spermy uderzają urzeczoną Riley w twarz. Jest tego tak dużo, że jej ramiona i piersi również pokrywają się Twoim nasieniem."
+
+# game/day20.rpy:1167
+translate polish day20_ri_sex_e87ec995:
+
+    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
+    "{i}Wycieńczony opadasz na kanapę. Dalej jest ciepła i śliska od soków waszych igraszek. Riley wyciera się pobieżnie i kładzie się obok Ciebie."
+
+# game/day20.rpy:1169
+translate polish day20_ri_sex_e6a7377e:
+
+    # ri "I didn't know this evening was going to be so exciting."
+    ri "Nie wiedziałam, że ten wieczór będzie taki ekscytujący."
+
+# game/day20.rpy:1170
+translate polish day20_ri_sex_d37fa892:
+
+    # p "I take employee performance reviews very, very seriously."
+    p "Biorę oceny pracy bardzo, bardzo poważnie."
+
+# game/day20.rpy:1171
+translate polish day20_ri_sex_b6a69c3a:
+
+    # ri "I know that now."
+    ri "Teraz to wiem."
+
+# game/day20.rpy:1172
+translate polish day20_ri_sex_ebc7bc5c:
+
+    # ri "Allow me to bestow the title 'Employee of the Year' on you. You're not working at the supermarket anymore, but who gives a fuck."
+    ri "Pozwól, że nagrodzę Cię tytułem 'Pracownika Roku'. Już nie pracujesz w markecie, ale co za różnica."
+
+# game/day20.rpy:1173
+translate polish day20_ri_sex_de51156c:
+
+    # p "I'm absolutely honored."
+    p "Jestem zaszczycony."
+
+# game/day20.rpy:1185
+translate polish day20_b_licking_night_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day20.rpy:1189
+translate polish day20_b_licking_night_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day20.rpy:1192
+translate polish day20_b_licking_night_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day20.rpy:1202
+translate polish day20_b_licking_night_b7545898:
+
+    # p "{i}(Let's make our [b_name] even more crazy...)"
+    p "{i}(Czas raz jeszcze doprowadzić Bellę do szaleństwa...)"
+
+# game/day20.rpy:1206
+translate polish day20_b_licking_night_c8f7ae42:
+
+    # p "I'm back."
+    p "Wróciłem."
+
+# game/day20.rpy:1207
+translate polish day20_b_licking_night_9aff4ccc:
+
+    # b "Fuck no. Not again."
+    b "Kurwa, nie. Tylko nie to."
+
+# game/day20.rpy:1208
+translate polish day20_b_licking_night_56591090:
+
+    # p "You seemed to enjoy it earlier today."
+    p "Wcześniej sprawiłaś wrażenie, że Ci się podobało."
+
+# game/day20.rpy:1211
+translate polish day20_b_licking_night_b10c2834:
+
+    # "{i}You crawl onto the bed and open your sister's legs, removing her panties in one fell swoop."
+    "{i}Wdrapujesz się na łóżko i rozkładasz nogi swojej siostry, zdejmując jej majtki jednym płynnym ruchem."
+
+# game/day20.rpy:1213
+translate polish day20_b_licking_night_cb7230fb:
+
+    # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
+    "{i}Wczołgujesz się na łóżko i rozchylasz nogi [b_name], zdejmując jej majtki za jednym zamachem."
+
+# game/day20.rpy:1215
+translate polish day20_b_licking_night_e2d724e5:
+
+    # p "{i}(I went easy on [b_name] yesterday, but that blowjob sure left me wanting more.)"
+    p "{i}(Wczoraj dałem Belli trochę fory, ale ten lodzik tylko obudził we mnie ochotę na więcej.)"
+
+# game/day20.rpy:1216
+translate polish day20_b_licking_night_be898db7:
+
+    # p "{i}(I'm not sure how we're going to reach the next level. She took it in her mouth, but I'm pretty sure she isn't ready for anything more rigorous.)"
+    p "{i}(Nie jestem pewien jak przejść z nią na wyższy poziom. Już zrobiła mi dobrze ustami, ale jestem pewny, że nie jest gotowa na nic odważniejszego.)"
+
+# game/day20.rpy:1217
+translate polish day20_b_licking_night_8f914c0f:
+
+    # p "{i}(But I might get her where I want if I'm careful and patient. Let's see if I can make a start with her today.)"
+    p "{i}(Ale jeśli będę ostrożny i cierpliwy, to dostanę czego chcę. Zobaczmy, czy uda mi się dzisiaj zacząć.)"
+
+# game/day20.rpy:1221
+translate polish day20_b_licking_night_35ba70ca:
+
+    # b "What?"
+    b "Co?"
+
+# game/day20.rpy:1222
+translate polish day20_b_licking_night_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Rozbierz się, chcę posmakować Twojej cipki."
+
+# game/day20.rpy:1223
+translate polish day20_b_licking_night_e352c4e7:
+
+    # b "I was going to sleep."
+    b "Właśnie idę spać."
+
+# game/day20.rpy:1224
+translate polish day20_b_licking_night_6d63ec83:
+
+    # p "No, you're not."
+    p "Nie, nie jesteś."
+
+# game/day20.rpy:1225
+translate polish day20_b_licking_night_f4a6d83e:
+
+    # b "Yes, I am."
+    b "Jestem."
+
+# game/day20.rpy:1226
+translate polish day20_b_licking_night_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Będziesz się zachowywać jak dziecko? Wiesz, że mógłbym po prostu zedrzeć z Ciebie ciuchy?"
+
+# game/day20.rpy:1228
+translate polish day20_b_licking_night_e4f370a8:
+
+    # b "I know."
+    b "Wiem."
+
+# game/day20.rpy:1231
+translate polish day20_b_licking_night_baa94679:
+
+    # "{i}Your sister reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Twoja siostra rozbiera się niechętnie i kładzie na łóżku. Siadasz obok niej i rozkładasz jej nogi."
+
+# game/day20.rpy:1233
+translate polish day20_b_licking_night_22d19280:
+
+    # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}[b_name] niechętnie zdejmuje ubranie i kładzie się na łóżku, a ty czołgasz się obok niej i rozchylasz jej nogi."
+
+# game/day20.rpy:1239
+translate polish day20_b_licking_night_f8aece55:
+
+    # "{i}You firmly grasp her upper legs and go down on her pussy. The smell of her sex fills your nostrils and you begin to eat her out."
+    "{i}Chwytasz ją mocno za nogi i zagłębiasz się w jej cipce. Zapach jej kobiecości wypełnia Twoje nozdrza, zaczynasz ją wylizywać."
+
+# game/day20.rpy:1240
+translate polish day20_b_licking_night_49dff9a6:
+
+    # b "A-a-animal!"
+    b "Z- Zwierzak!"
+
+# game/day20.rpy:1241
+translate polish day20_b_licking_night_20e62e8f:
+
+    # p "Shall I roar for you like lion?"
+    p "Mam dla Ciebie zaryczeć jak lew?"
+
+# game/day20.rpy:1242
+translate polish day20_b_licking_night_4c747c64:
+
+    # "{i}The stimulation of [b_name]'s vagina isn't tender, only geared towards maximizing her pleasure. Your tongue is alternating between penetrating her slit and gyrating on her erect clit, all to build up to a monumental climax."
+    "{i}Stymulacja waginy Belli nie jest czuła, tylko nastawiona na zmaksymalizowanie jej rozkoszy. Twój język na przemian penetruje jej szparkę i wiruje wokół jej łechtaczki, budując kolosalny moment szczytu."
+
+# game/day20.rpy:1244
+translate polish day20_b_licking_night_8916675f:
+
+    # b "Ooooh!"
+    b "Ooooh!"
+
+# game/day20.rpy:1245
+translate polish day20_b_licking_night_89365358:
+
+    # "{i}[b_name] wriggles beneath your touch and she crumples the bedsheets with her clawed hands. Every fiber of her body is ready for orgasmic release... And then you stop abruptly."
+    "{i}Bella wije się pod Twoim dotykiem i wbija paznokcie w pościel. Każda komórka jej ciała jest gotowa na nadchodzące spełnienie... I wtedy nagle przerywasz."
+
+# game/day20.rpy:1251
+translate polish day20_b_licking_night_a04a6859:
+
+    # p "Good night, sweet sister."
+    p "Dobranoc siostrzyczko."
+
+# game/day20.rpy:1253
+translate polish day20_b_licking_night_d98faf4a:
+
+    # p "Good night, sweet [b_name]."
+    p "Dobranoc słodka [b_nazwa]"
+
+# game/day20.rpy:1256
+translate polish day20_b_licking_night_370ba8fd:
+
+    # b "No! No! Not again!"
+    b "Nie! Nie! Nie znowu!"
+
+# game/day20.rpy:1257
+translate polish day20_b_licking_night_66324063:
+
+    # b "Why?!"
+    b "Dlaczego?!"
+
+# game/day20.rpy:1259
+translate polish day20_b_licking_night_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Co?! Nie, nie możesz..."
+
+# game/day20.rpy:1260
+translate polish day20_b_licking_night_47fea10d:
+
+    # p "I can't?"
+    p "Nie mogę?"
+
+# game/day20.rpy:1261
+translate polish day20_b_licking_night_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Po prostu... A idź się jebać!"
+
+# game/day20.rpy:1262
+translate polish day20_b_licking_night_96c772af:
+
+    # p "I'm so tired, I really need to get some sleep."
+    p "Jestem taki zmęczony, naprawdę muszę się przespać."
+
+# game/day20.rpy:1263
+translate polish day20_b_licking_night_13af8e6a:
+
+    # p "I'm sure a good girl like you can finish it herself."
+    p "Jestem pewny, że taka dobra dziewczynka jak Ty, da radę sama to dokończyć."
+
+# game/day20.rpy:1265
+translate polish day20_b_licking_night_6fdb4e3f:
+
+    # b "You fucking asshole!"
+    b "Ty jebany dupku!"
+
+# game/day20.rpy:1266
+translate polish day20_b_licking_night_00d06707:
+
+    # p "{i}(She's nearly ready... I'm going to try my luck tomorrow.)"
+    p "{i}(Jest już prawie gotowa... Jutro spróbuję szczęścia.)"
+
+# game/day20.rpy:1268
+translate polish day20_b_licking_night_38f95ab2:
+
+    # p "{i}(I'm not sure if this is enough, but I'm going to try my luck tomorrow.)"
+    p "{i}(Nie jestem pewien, czy to wystarczy, ale jutro spróbuję szczęścia.)"
+

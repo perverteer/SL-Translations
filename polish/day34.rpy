@@ -230,7 +230,7 @@ translate polish day34_choices_cbdd15ef:
 translate polish day34_choices_d100cda7:
 
     # "{i}You notice [b_name]'s door is slightly open and you see your friend trying on a rather risqué garment."
-    ""
+    "{i}Zauważasz, że drzwi [b_name] są lekko uchylone i widzisz, jak twój przyjaciel przymierza dość ryzykowne ubranie."
 
 # game/day34.rpy:102
 translate polish day34_choices_a62238f2:
@@ -398,7 +398,7 @@ translate polish day34_choices_a123ea2c:
 translate polish day34_choices_5effce97:
 
     # "{i}Your girl obediently puts your cock in her mouth and starts to suck."
-    ""
+    "{i}Twoja dziewczyna posłusznie wkłada twojego kutasa do ust i zaczyna ssać."
 
 # game/day34.rpy:146
 translate polish day34_choices_a1a9f244:
@@ -458,7 +458,7 @@ translate polish day34_choices_a5e5ca6a:
 translate polish day34_choices_ecd95d63:
 
     # "{i}Looking at you with piercing eyes, your girl swallows your entire load."
-    ""
+    "{i}Patrząc na ciebie przeszywającym wzrokiem, twoja dziewczyna połyka cały twój ładunek."
 
 # game/day34.rpy:165
 translate polish day34_choices_8353f083:
@@ -746,7 +746,7 @@ translate polish day34_choices_16e5484a:
 translate polish day34_choices_584755f7:
 
     # "{i}You see your girlfriend smile as she controls pleasure, blowing you with such intensity that you're unable to last for very long."
-    ""
+    "{i}Widzisz, jak twoja dziewczyna uśmiecha się, gdy kontroluje przyjemność, dmuchając w ciebie z taką intensywnością, że nie jesteś w stanie wytrzymać zbyt długo."
 
 # game/day34.rpy:245
 translate polish day34_choices_cf330df2:
@@ -1310,7 +1310,7 @@ translate polish day34_evening_choices_932f09f4:
 translate polish day34_evening_choices_f4ddeb7b:
 
     # "{i}Your friend seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
-    ""
+    "{i}Twoja przyjaciółka wydaje się być na innym poziomie świadomości, ponieważ jej oczy przewracają się do tyłu, a oddech staje się płytki."
 
 # game/day34.rpy:414
 translate polish day34_evening_choices_8dc9b6f7:
@@ -1442,7 +1442,7 @@ translate polish day34_evening_choices_aa3a9821:
 translate polish day34_evening_choices_70b5a4de:
 
     # "{i}No one speaks during the shuffle to find a spot to sleep and you just savor the moment, your half-naked girlfriends nestling themselves close to you on opposite sides."
-    ""
+    "{i}Nikt nie odzywa się podczas tasowania się w poszukiwaniu miejsca do spania, a ty po prostu delektujesz się chwilą, w której twoje półnagie dziewczyny układają się blisko ciebie po przeciwnych stronach."
 
 # game/day34.rpy:453
 translate polish day34_evening_choices_8febc010:
@@ -2486,7 +2486,7 @@ translate polish day34_ri_shop_8d54407d:
 translate polish day34_ri_shop_d1cedb52:
 
     # p "I was going to have coffee with my friend."
-    p ""
+    p "Chciałem wypić kawę z przyjacielem"
 
 # game/day34.rpy:729
 translate polish day34_ri_shop_0989b6be:
@@ -4267,4 +4267,1128 @@ translate polish strings:
     # game/day34.rpy:578
     old "Protester"
     new "Protestujący"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day34.rpy:82
+translate polish day34_choices_fd76b6f9:
+
+    # "{i}On a whim, you decide to visit the mall to browse for some comic books."
+    "{i}Pod wpływem kaprysu postanawiasz odwiedzić centrum handlowe, aby poprzeglądać komiksy."
+
+# game/day34.rpy:103
+translate polish day34_choices_b6c5148c:
+
+    # "{i}You notice [b_name]'s door is slightly open and see your sister trying on a rather risqué garment."
+    "{i}Zauważasz, że drzwi [b_name] są lekko otwarte i widzisz swoją siostrę przymierzającą dość ryzykowne ubranie."
+
+# game/day34.rpy:106
+translate polish day34_choices_4e922c92:
+
+    # "{i}You notice [b_name]'s door is slightly open and see your friend trying on a rather risqué garment."
+    "{i}Zauważyłeś, że drzwi [b_name] są lekko otwarte i zobaczyłeś, że twój przyjaciel przymierza dość ryzykowne ubranie."
+
+# game/day34.rpy:154
+translate polish day34_evening_choices_2db15c5b:
+
+    # p "Maybe he's frustrated about something too, like Brody."
+    p "Może on też jest czymś sfrustrowany, jak Brody."
+
+# game/day34.rpy:166
+translate polish day34_evening_choices_2e5215b8:
+
+    # "{i}Before you leave, you take her into your arms. [l_name] is unable to suppress a sob as she holds you tight."
+    "{i}Przed odejściem, bierzesz ją w ramiona, Liza nie jest w stanie stłumić płaczu i obejmuje Cię mocno."
+
+# game/day34.rpy:284
+translate polish day34_evening_choices_9a7693fb:
+
+    # "{i}No one speaks during the shuffle to find a spot to sleep, and you just savor the moment, your half-naked sisters nestling themselves close to you on opposite sides."
+    "{i}Nikt się nie odzywa, kiedy kręcicie się szukając sobie miejsca do spania, Ty po prostu delektujesz się chwilą, gdy Twoje półnagie siostry przytulają się do Ciebie z obu stron."
+
+# game/day34.rpy:286
+translate polish day34_evening_choices_eea4f97e:
+
+    # "{i}No one speaks during the shuffle to find a spot to sleep, and you just savor the moment, your half-naked girlfriends nestling themselves close to you on opposite sides."
+    "{i}Nikt nie odzywa się podczas tasowania się w poszukiwaniu miejsca do spania, a ty po prostu delektujesz się chwilą, w której twoje półnagie dziewczyny układają się blisko ciebie po przeciwnych stronach."
+
+# game/day34.rpy:288
+translate polish day34_evening_choices_d02e9de8:
+
+    # "{i}[r_name] and [b_name] sleep within moments, their hands resting on your chest. You can't suppress a big smile on your face and fall asleep not long after."
+    "{i}Rachel i Bella zasypiają w przeciągu chwili, ich ręce spoczywają na Twoim torsie, nie możesz powstrzymać wielkiego uśmiechu na swojej twarzy i niedługo potem sam zasypiasz."
+
+# game/day34.rpy:385
+translate polish day34_mall_event_4b1eb8ba:
+
+    # ju "I've talked to many victims of this modern-day depravity, and through the mercy of our Lord they have come to their senses and turned their life around."
+    ju "Rozmawiałem z wieloma ofiarami tej współczesnej deprawacji, które dzięki miłosierdziu naszego Pana odzyskały rozsądek i odmieniły swoje życie."
+
+# game/day34.rpy:403
+translate polish day34_mall_event_75c6aabf:
+
+    # "{i}Another smaller group has entered the mall and approaches Justin's congregation, chanting slogans."
+    "{i}Kolejna, mniejsza grupa wchodzi do centrum handlowego i podchodzi do zgromadzenia Justina, skandując hasła."
+
+# game/day34.rpy:550
+translate polish day34_ri_shop_802f81a0:
+
+    # "{i}Afraid someone might go after her, you sprint towards the window, managing to evade a new volley of trash being hurled inside, and find yourself amidst the broken interior of the shop."
+    "{i}Obawiając się, że ktoś może ją ścigać, wbiegasz przez okno, unikając nowej salwy śmieci wrzucanych, do zdemolowanego wnętrza sklepu."
+
+# game/day34.rpy:588
+translate polish day34_ri_shop_0a3ae11b:
+
+    # ri "If I wanted that, I could have just stayed home and been the proper young lady my parents always dreamed of."
+    ri "Gdybym tego chciała, mogłabym po prostu zostać w domu i być właściwą młodą damą, o której zawsze marzyli moi rodzice."
+
+# game/day34.rpy:604
+translate polish day34_ri_shop_18bbe84a:
+
+    # p "But I'm much happier to see you relatively unharmed."
+    p "Ale przede wszystkim cieszę się, że nic takiego Ci się nie stało."
+
+# game/day34.rpy:898
+translate polish day34_flashback_757c75a5:
+
+    # "{i}After your intercourse, Miley sat across you and regarding you lovingly."
+    "{i}Po stosunku Miley usiadła naprzeciwko ciebie i patrzyła na ciebie z miłością."
+
+# game/day34.rpy:949
+translate polish day34_b_blowjob_hard_68cb742c:
+
+    # p "{i}(Look at that glorious ass.)"
+    p "{i}(Spójrzcie tylko ten wspaniały tyłek.)"
+
+# game/day34.rpy:953
+translate polish day34_b_blowjob_hard_d6b5d8d9:
+
+    # b "How long have you been staring there, creep?"
+    b "Od jak dawna się na mnie gapisz, świrze?"
+
+# game/day34.rpy:954
+translate polish day34_b_blowjob_hard_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Tylko kilka godzin."
+
+# game/day34.rpy:955
+translate polish day34_b_blowjob_hard_c0bf7ea1:
+
+    # b "Go away."
+    b "Idź stąd."
+
+# game/day34.rpy:956
+translate polish day34_b_blowjob_hard_b4f81831:
+
+    # p "No, spin around for me."
+    p "Nie, obróć się dla mnie."
+
+# game/day34.rpy:962
+translate polish day34_b_blowjob_hard_d0b20184:
+
+    # b "Satisfied?"
+    b "Zadowolony?"
+
+# game/day34.rpy:963
+translate polish day34_b_blowjob_hard_2b5f4d50:
+
+    # p "A little."
+    p "Trochę."
+
+# game/day34.rpy:964
+translate polish day34_b_blowjob_hard_9878f1cc:
+
+    # p "You look fantastic in this, you know that?"
+    p "Wyglądasz w tym fantastycznie, wiesz?"
+
+# game/day34.rpy:965
+translate polish day34_b_blowjob_hard_4227e895:
+
+    # b "I'm sure I look great, now leave."
+    b "Na pewno wyglądam świetnie, teraz wyjdź."
+
+# game/day34.rpy:966
+translate polish day34_b_blowjob_hard_6b303226:
+
+    # p "We're going shopping tomorrow, you and I."
+    p "Idziemy jutro na zakupy, Ty i ja."
+
+# game/day34.rpy:968
+translate polish day34_b_blowjob_hard_1871783f:
+
+    # b "What, why?"
+    b "Co, dlaczego?"
+
+# game/day34.rpy:969
+translate polish day34_b_blowjob_hard_b402c11d:
+
+    # p "Because I want to give you some nice lingerie."
+    p "Bo chcę Ci podarować ładną bieliznę."
+
+# game/day34.rpy:970
+translate polish day34_b_blowjob_hard_60478538:
+
+    # b "I have underwear."
+    b "Mam bieliznę."
+
+# game/day34.rpy:971
+translate polish day34_b_blowjob_hard_68520e5c:
+
+    # p "I'll get you more."
+    p "Kupię Ci więcej."
+
+# game/day34.rpy:972
+translate polish day34_b_blowjob_hard_32625464:
+
+    # b "I don't..."
+    b "Ja nie..."
+
+# game/day34.rpy:973
+translate polish day34_b_blowjob_hard_df7483f5:
+
+    # p "Now you're going to say thanks and suck my cock."
+    p "A teraz mi podziękujesz i possiesz mojego fiuta."
+
+# game/day34.rpy:975
+translate polish day34_b_blowjob_hard_eadf9810:
+
+    # b "What?!"
+    b "Co?!"
+
+# game/day34.rpy:976
+translate polish day34_b_blowjob_hard_73bb7de1:
+
+    # p "You're going to get on your knees."
+    p "Klękniesz."
+
+# game/day34.rpy:978
+translate polish day34_b_blowjob_hard_733e331e:
+
+    # p "And you'll undress me."
+    p "Rozbierzesz mnie."
+
+# game/day34.rpy:983
+translate polish day34_b_blowjob_hard_61031477:
+
+    # p "Next, you'll make me hard."
+    p "I doprowadzisz mnie do wzwodu."
+
+# game/day34.rpy:985
+translate polish day34_b_blowjob_hard_8018ec82:
+
+    # p "Stroking my hard cock with your hands."
+    p "Zacznij go masować swoimi dłońmi."
+
+# game/day34.rpy:986
+translate polish day34_b_blowjob_hard_0a337613:
+
+    # p "That's it, good girl."
+    p "Właśnie tak, dobra dziewczynka."
+
+# game/day34.rpy:992
+translate polish day34_b_blowjob_hard_32ab4328:
+
+    # p "Now lick the head."
+    p "Teraz poliż główkę."
+
+# game/day34.rpy:993
+translate polish day34_b_blowjob_hard_64ac36ae:
+
+    # p "Make it all nice and wet."
+    p "Bardzo ładnie, niech będzie cały mokry."
+
+# game/day34.rpy:994
+translate polish day34_b_blowjob_hard_1e09f0b9:
+
+    # p "Good, now take it in your mouth and blow me."
+    p "A teraz weź go do ust i obciągnij mi."
+
+# game/day34.rpy:1001
+translate polish day34_b_blowjob_hard_a123ea2c:
+
+    # "{i}Your sister obediently puts your cock in her mouth and starts to suck."
+    "{i}Twoja siostra posłusznie wkłada Twojego kutasa do ust i zaczyna ssać."
+
+# game/day34.rpy:1003
+translate polish day34_b_blowjob_hard_5effce97:
+
+    # "{i}Your girl obediently puts your cock in her mouth and starts to suck."
+    "{i}Twoja dziewczyna posłusznie wkłada twojego kutasa do ust i zaczyna ssać."
+
+# game/day34.rpy:1004
+translate polish day34_b_blowjob_hard_a1a9f244:
+
+    # "{i}Enjoying the feeling of her warm mouth, you're silent for a while."
+    "{i}Ciesząc się przyjemnością, jaką dają Ci jej ciepłe usta, milczysz przez chwilę."
+
+# game/day34.rpy:1006
+translate polish day34_b_blowjob_hard_099d567d:
+
+    # "{i}You're amazed by the intensity with which she's sucking you off, and you're unable to last for very long."
+    "{i}Jesteś zdumiony intensywnością, z jaką Ci ssie i nie jesteś w stanie wytrzymać zbyt długo."
+
+# game/day34.rpy:1008
+translate polish day34_b_blowjob_hard_7d1c8eb1:
+
+    # p "Fuck [b_name]! Aaah!"
+    p "Kurwa, Bella! Aaah!"
+
+# game/day34.rpy:1012
+translate polish day34_b_blowjob_hard_4e04842b:
+
+    # p "K-k-keep it in your mouth!"
+    p "T- Trzymaj go w ustach!"
+
+# game/day34.rpy:1013
+translate polish day34_b_blowjob_hard_3c0a473a:
+
+    # p "D-don't y-you dare stop!"
+    p "N- Nie waż się przestać!"
+
+# game/day34.rpy:1014
+translate polish day34_b_blowjob_hard_50bbcd73:
+
+    # "{i}Grim-faced, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Z ponurą miną, Bella dalej Ci obciąga i nie przestaje kiedy zaczyna się Twój orgazm."
+
+# game/day34.rpy:1017
+translate polish day34_b_blowjob_hard_fbb71cb4:
+
+    # "{i}You make her stop briefly to allow you to cream her mouth."
+    "{i}Każesz jej się zatrzymać na chwilę, aby umożliwić Ci wypełnienie jej ust swoją gęstą spermą."
+
+# game/day34.rpy:1018
+translate polish day34_b_blowjob_hard_3830744e:
+
+    # p "Now be a good little girl and swallow it."
+    p "Teraz bądź grzeczną dziewczynką i połknij wszystko."
+
+# game/day34.rpy:1023
+translate polish day34_b_blowjob_hard_a5e5ca6a:
+
+    # "{i}Looking at you with piercing eyes, your sister swallows your entire load."
+    "{i}Patrząc na Ciebie przenikliwie, Twoja siostra połyka całą Twoją spermę."
+
+# game/day34.rpy:1025
+translate polish day34_b_blowjob_hard_ecd95d63:
+
+    # "{i}Looking at you with piercing eyes, your girl swallows your entire load."
+    "{i}Patrząc na ciebie przeszywającym wzrokiem, twoja dziewczyna połyka cały twój ładunek."
+
+# game/day34.rpy:1026
+translate polish day34_b_blowjob_hard_8353f083:
+
+    # "{i}When she's all done, you pull her closer to you and have her rest on your chest."
+    "{i}Kiedy kończy, przyciągasz ją bliżej siebie i kładziesz ją na swoim torsie."
+
+# game/day34.rpy:1037
+translate polish day34_b_blowjob_hard_970769f2:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, you make her pull out your cock and have it directed at her face."
+    "{i}Wyczuwając, że jesteś bliski orgazmu, każesz jej wyciągnąć Twojego kutasa z ust i skierować go na jej twarz."
+
+# game/day34.rpy:1043
+translate polish day34_b_blowjob_hard_02b699c5:
+
+    # "{i}As she holds your cock it begins to shoot thick strands of cum, pasting her face with warm seed."
+    "{i}I kiedy już go trzyma, Twój fiut zaczyna strzelać w nią strumieniami gęstej spermy, oklejając jej twarz Twoim gorącym nasieniem."
+
+# game/day34.rpy:1045
+translate polish day34_b_blowjob_hard_9b054faf:
+
+    # b "Goddamnit, I just did my make-up."
+    b "Cholera, właśnie skończyłam się malować."
+
+# game/day34.rpy:1046
+translate polish day34_b_blowjob_hard_567e1dc4:
+
+    # p "This looks good on you too."
+    p "Tak Ci do twarzy."
+
+# game/day34.rpy:1047
+translate polish day34_b_blowjob_hard_efe857be:
+
+    # b "Fuck you."
+    b "Pierdol się."
+
+# game/day34.rpy:1048
+translate polish day34_b_blowjob_hard_8c74f50b:
+
+    # "{i}After [b_name] cleans herself up somewhat you pull her closer to you and have her rest on your chest."
+    "{i}Po tym, jak Bella trochę się oczyściła, przyciągasz ją bliżej siebie i kładziesz ją na swoim torsie."
+
+# game/day34.rpy:1056
+translate polish day34_b_blowjob_hard_0f34104f:
+
+    # b "Thank you."
+    b "Dziękuję Ci."
+
+# game/day34.rpy:1057
+translate polish day34_b_blowjob_hard_1b640dae:
+
+    # p "What?"
+    p "Co?"
+
+# game/day34.rpy:1058
+translate polish day34_b_blowjob_hard_7d6ce687:
+
+    # b "You told me to blow you and say thank you."
+    b "Powiedziałeś, że mam Ci podziękować i obciągnąć."
+
+# game/day34.rpy:1059
+translate polish day34_b_blowjob_hard_a79c6a6a:
+
+    # b "I just did both."
+    b "Właśnie zrobiłam jedno i drugie."
+
+# game/day34.rpy:1060
+translate polish day34_b_blowjob_hard_874fdd89:
+
+    # p "{i}(I'd already forgotten about that...)"
+    p "{i}(Już o tym zapomniałem...)"
+
+# game/day34.rpy:1061
+translate polish day34_b_blowjob_hard_24c39dc8:
+
+    # b "Or did your brain just leave through the same exit, together with all that cum?"
+    b "A może Twój mózg właśnie wypłynął tym samym wyjściem, co sperma?"
+
+# game/day34.rpy:1062
+translate polish day34_b_blowjob_hard_ae19be12:
+
+    # p "No, you're right."
+    p "Nie, masz rację."
+
+# game/day34.rpy:1063
+translate polish day34_b_blowjob_hard_e18221a4:
+
+    # p "You did well."
+    p "Dobra robota."
+
+# game/day34.rpy:1064
+translate polish day34_b_blowjob_hard_3e0cde11:
+
+    # b "Sure..."
+    b "Pewnie..."
+
+# game/day34.rpy:1066
+translate polish day34_b_blowjob_hard_bd89621d:
+
+    # "{i}You lie with her in silence for a while before returning to your room."
+    "{i}Leżysz z nią przez chwilę w ciszy, a potem wracasz do swojego pokoju."
+
+# game/day34.rpy:1076
+translate polish day34_b_blowjob_30959ace:
+
+    # p "{i}(I have the most beautiful girlfriend.)"
+    p "{i}(Mam najpiękniejszą dziewczynę na świecie.)"
+
+# game/day34.rpy:1078
+translate polish day34_b_blowjob_67cd64c2:
+
+    # b "Have you been staring like that for long?"
+    b "Długo się już tak gapisz?"
+
+# game/day34.rpy:1079
+translate polish day34_b_blowjob_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Tylko kilka godzin."
+
+# game/day34.rpy:1080
+translate polish day34_b_blowjob_99d2099d:
+
+    # b "Haha, sure..."
+    b "Haha, jasne..."
+
+# game/day34.rpy:1081
+translate polish day34_b_blowjob_6a064bd8:
+
+    # b "This was supposed to be a surprise."
+    b "To miała być niespodzianka."
+
+# game/day34.rpy:1082
+translate polish day34_b_blowjob_262f8602:
+
+    # b "I was about to put on the panties that come with this set."
+    b "Właśnie miałam założyć majtki z tego zestawu."
+
+# game/day34.rpy:1083
+translate polish day34_b_blowjob_19dc1a80:
+
+    # p "It's beautiful, though I like you best without clothes on."
+    p "Jest piękny, ale najbardziej podobasz mi się bez ubrań."
+
+# game/day34.rpy:1084
+translate polish day34_b_blowjob_84ac98ab:
+
+    # b "Horny little boy."
+    b "Napalony chłopiec."
+
+# game/day34.rpy:1085
+translate polish day34_b_blowjob_de805f06:
+
+    # p "You have that effect on me."
+    p "Tak już na mnie działasz."
+
+# game/day34.rpy:1086
+translate polish day34_b_blowjob_26ceb081:
+
+    # p "But I'll act properly surprised if you wear this next time."
+    p "Ale będę udawał zaskoczonego, kiedy następny raz je założysz."
+
+# game/day34.rpy:1092
+translate polish day34_b_blowjob_cc670891:
+
+    # b "You like it?"
+    b "Podoba Ci się?"
+
+# game/day34.rpy:1093
+translate polish day34_b_blowjob_a5de22e1:
+
+    # p "Very much."
+    p "Bardzo."
+
+# game/day34.rpy:1094
+translate polish day34_b_blowjob_162fb551:
+
+    # p "I feel a little bad though, spoiling this moment."
+    p "Trochę mi jednak głupio, że zepsułem ten moment."
+
+# game/day34.rpy:1095
+translate polish day34_b_blowjob_4a14a428:
+
+    # b "I don't mind."
+    b "To nic takiego."
+
+# game/day34.rpy:1096
+translate polish day34_b_blowjob_0b329c66:
+
+    # p "No, why don't we go shopping for some nice lingerie tomorrow?"
+    p "Nie, może jutro pójdziemy na zakupy i kupimy Ci jakąś ładną bieliznę?"
+
+# game/day34.rpy:1098
+translate polish day34_b_blowjob_14ecefea:
+
+    # b "That sounds like a fantastic plan!"
+    b "To brzmi jak fantastyczny plan!"
+
+# game/day34.rpy:1099
+translate polish day34_b_blowjob_d70814d0:
+
+    # b "You know... The surprise wasn't just wearing this..."
+    b "Wiesz... Niespodzianka nie miała się skończyć na założeniu tego..."
+
+# game/day34.rpy:1100
+translate polish day34_b_blowjob_e22d4a11:
+
+    # p "Oh... What else did you have in mind."
+    p "Oh... Co jeszcze miałaś w planach?"
+
+# game/day34.rpy:1102
+translate polish day34_b_blowjob_2ce02568:
+
+    # b "I was going to get you on the bed."
+    b "Chciałam położyć Cię na łóżku."
+
+# game/day34.rpy:1103
+translate polish day34_b_blowjob_fe6629f3:
+
+    # b "And undress you."
+    b "Rozbierać Cię."
+
+# game/day34.rpy:1104
+translate polish day34_b_blowjob_579c8be7:
+
+    # p "Really..."
+    p "Ah tak...?"
+
+# game/day34.rpy:1109
+translate polish day34_b_blowjob_efd0e395:
+
+    # b "Then I would make you hard."
+    b "Potem doprowadziłabym Cię do wzwodu."
+
+# game/day34.rpy:1110
+translate polish day34_b_blowjob_4103f1fb:
+
+    # b "Stroking your dick with my hands."
+    b "Masując Twojego penisa moimi dłońmi."
+
+# game/day34.rpy:1111
+translate polish day34_b_blowjob_f6220564:
+
+    # p "Oh fuck... [b_name]..."
+    p "O kurwa... Bella..."
+
+# game/day34.rpy:1117
+translate polish day34_b_blowjob_d6318230:
+
+    # b "I would tease you by ever so slightly licking the head of your dick."
+    b "Podrażniłabym się z Tobą, lekko liżąc główkę Twojego penisa."
+
+# game/day34.rpy:1118
+translate polish day34_b_blowjob_0977e5d9:
+
+    # p "Uh-huh... K-keep going..."
+    p "Uh-huh... K- Kontynuuj..."
+
+# game/day34.rpy:1119
+translate polish day34_b_blowjob_f0d6e12b:
+
+    # b "And when your dick is wet enough and you're ready, I'd begin sucking you."
+    b "A kiedy byłbyś już gotowy, a Twój kutas wystarczająco mokry, zaczęłabym Ci ssać."
+
+# game/day34.rpy:1125
+translate polish day34_b_blowjob_be2364a5:
+
+    # "{i}[b_name] is unable to say anything further as she takes your cock in her mouth."
+    "{i}Bella nie jest w stanie powiedzieć nic więcej, bo bierze Twojego fiuta do ust."
+
+# game/day34.rpy:1126
+translate polish day34_b_blowjob_bebb41dd:
+
+    # p "I-I really like this surprise."
+    p "N- Naprawdę podoba mi się ta niespodzianka."
+
+# game/day34.rpy:1129
+translate polish day34_b_blowjob_16e5484a:
+
+    # "{i}You see your sister smile as she controls your pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Widzisz, jak Twoja siostra się uśmiecha, kontrolując Twoją przyjemność, obciągając Ci z taką intensywnością, że nie dasz rady wytrzymać zbyt długo."
+
+# game/day34.rpy:1131
+translate polish day34_b_blowjob_584755f7:
+
+    # "{i}You see your girlfriend smile as she controls pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Widzisz, jak twoja dziewczyna uśmiecha się, gdy kontroluje przyjemność, dmuchając w ciebie z taką intensywnością, że nie jesteś w stanie wytrzymać zbyt długo."
+
+# game/day34.rpy:1133
+translate polish day34_b_blowjob_cf330df2:
+
+    # p "[b_name]! I'm... Oooh!"
+    p "Bella! Ja... Oooh!"
+
+# game/day34.rpy:1137
+translate polish day34_b_blowjob_15cde731:
+
+    # "{i}Despite all the signals you're close to orgasm, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Pomimo sygnałów, że jesteś bliski orgazmu, Bella dalej Ci ssie i nie przestaje, gdy sperma zaczyna płynąć."
+
+# game/day34.rpy:1144
+translate polish day34_b_blowjob_715c0843:
+
+    # "{i}She stops briefly to allow you to cream her mouth and then swallows your entire load, smiling at you deliriously."
+    "{i}Nieruchomieje na chwilę, aby umożliwić Ci wypełnienie swoich ust Twoją gęstą spermą, a następnie połyka wszystko, uśmiechając się do Ciebie z satysfakcją."
+
+# game/day34.rpy:1145
+translate polish day34_b_blowjob_69f0bf5f:
+
+    # "{i}Satisfied, she rests her head on your chest."
+    "{i}Zadowolona, kładzie głowę na Twoim torsie."
+
+# game/day34.rpy:1157
+translate polish day34_b_blowjob_b85b41c1:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, [b_name] pulls out your cock and attempts to direct it to her chest."
+    "{i}Zauważając sygnały, że jesteś bliski orgazmu, Bella wyciąga Twojego kutasa z ust i próbuje skierować go na swoją klatkę."
+
+# game/day34.rpy:1160
+translate polish day34_b_blowjob_4ac81696:
+
+    # "{i}Your cum begins to shoot earlier than you both thought and you end up pasting her face with warm seed."
+    "{i}Twój wytrysk zaczyna się wcześniej, niż oboje myśleliście i kończy się na tym, że oklejasz jej twarz swoim gorącym nasieniem."
+
+# game/day34.rpy:1162
+translate polish day34_b_blowjob_a1c4b72e:
+
+    # b "Wow! Haha!"
+    b "Wow! Haha!"
+
+# game/day34.rpy:1163
+translate polish day34_b_blowjob_4b468aa8:
+
+    # "{i}After [b_name] cleans herself up somewhat she rests her head on your chest."
+    "{i}Po tym, jak Bella trochę się oczyściła, kładzie głowę na Twoim torsie."
+
+# game/day34.rpy:1171
+translate polish day34_b_blowjob_bfcb1211:
+
+    # b "Afterwards we'd lie together and you'd stroke my skin and kiss my hair."
+    b "Potem położylibyśmy się razem, a Ty głaskałbyś moją skórę i całował włosy."
+
+# game/day34.rpy:1172
+translate polish day34_b_blowjob_d0791796:
+
+    # p "Mmmm, sounds really good."
+    p "Mmmm, to brzmi naprawdę dobrze."
+
+# game/day34.rpy:1173
+translate polish day34_b_blowjob_d8a0209b:
+
+    # b "I know, shame you spoiled the surprise."
+    b "Wiem, szkoda, że ​​zepsułeś niespodziankę."
+
+# game/day34.rpy:1174
+translate polish day34_b_blowjob_147e8b69:
+
+    # p "Yup, but luckily you're a very evocative storyteller."
+    p "Tak, ale na szczęście potrafisz świetnie opowiadać."
+
+# game/day34.rpy:1175
+translate polish day34_b_blowjob_d81a9abb:
+
+    # b "Haha, I know, right?"
+    b "Haha, prawda?"
+
+# game/day34.rpy:1177
+translate polish day34_b_blowjob_b1f0c319:
+
+    # "{i}You chat some more with her and just enjoy her company before returning to your room."
+    "{i}Rozmawiasz z nią jeszcze trochę, ciesząc się jej towarzystwem, a potem wracasz do swojego pokoju."
+
+# game/day34.rpy:1193
+translate polish day34_r_fingering_b1e96493:
+
+    # "{i}[r_name] slides her hand back between her legs and begins to massage her clitoris."
+    "{i}Rachel wsuwa rękę między nogi i zaczyna masować swoją łechtaczkę."
+
+# game/day34.rpy:1194
+translate polish day34_r_fingering_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day34.rpy:1196
+translate polish day34_r_fingering_a944f345:
+
+    # "{i}One of her fingers slips inside her pussy as she keeps working on her clit. You play with her breasts a little and kiss her neck."
+    "{i}Nie przestając pracować nad łechtaczką, wsuwa jeden z palców w swoją szparkę, Ty bawisz się trochę jej piersiami i całujesz jej szyję."
+
+# game/day34.rpy:1198
+translate polish day34_r_fingering_932f09f4:
+
+    # "{i}Your sister seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Twoja siostra wydaje się być na innym poziomie świadomości, oczy wywracają się jej do tyłu, a oddech staje się płytki."
+
+# game/day34.rpy:1200
+translate polish day34_r_fingering_f4ddeb7b:
+
+    # "{i}Your friend seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Twoja przyjaciółka wydaje się być na innym poziomie świadomości, ponieważ jej oczy przewracają się do tyłu, a oddech staje się płytki."
+
+# game/day34.rpy:1201
+translate polish day34_r_fingering_8dc9b6f7:
+
+    # "{i}Judging from her soft moans in your ear and the firm grip of her other hand on your arm, you know she's close."
+    "{i}Po tym jak miękko jęczy Ci do ucha i jak mocno zaciska drugą dłoń na Twoim ramieniu, wiesz, że jest już blisko."
+
+# game/day34.rpy:1208
+translate polish day34_r_fingering_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah!"
+
+# game/day34.rpy:1209
+translate polish day34_r_fingering_918b8b55:
+
+    # "{i}Her climax is beautiful, she shudders in your arms, biting her lip, her legs making involuntary movements."
+    "{i}Jej orgazm jest piękny, drży w Twoich ramionach, przygryzając wargę, jej nogi wykonują mimowolne ruchy."
+
+# game/day34.rpy:1214
+translate polish day34_r_fingering_1da72a37:
+
+    # p "I love you, [r_name]."
+    p "Kocham Cię Rachel."
+
+# game/day34.rpy:1215
+translate polish day34_r_fingering_20f32c2a:
+
+    # r "I... love you too, [p_name]."
+    r "Ja... Też Cię kocham, [p_name]."
+
+# game/day34.rpy:1234
+translate polish day34_ri_sex_119ad400:
+
+    # p "I thought maybe we could pass the time while the others fight outside?"
+    p "Pomyślałem, że moglibyśmy zabić trochę czasu, podczas gdy inni walczą na zewnątrz?"
+
+# game/day34.rpy:1235
+translate polish day34_ri_sex_e01ff968:
+
+    # "{i}Riley is already unbuttoning her shorts and looking longingly at the butt plug you're holding."
+    "{i}Riley już rozpina szorty i patrzy tęsknie na korek analny, który trzymasz."
+
+# game/day34.rpy:1236
+translate polish day34_ri_sex_0cf4034c:
+
+    # ri "This place is rather perfect for what I think you're proposing."
+    ri "To idealne miejsce na to, co myślę, że proponujesz."
+
+# game/day34.rpy:1238
+translate polish day34_ri_sex_26743edb:
+
+    # p "{i}(Something about this place sure makes you want to fuck, I'm sure Ana agrees.)"
+    p "{i}(Tak, coś w tym miejscu sprawia, że ​​ma się ochotę na seks, jestem pewny, że Ana się z tym zgadza.)"
+
+# game/day34.rpy:1244
+translate polish day34_ri_sex_be48a7ea:
+
+    # ri "Let's not waste time then."
+    ri "Nie marnujmy więcej czasu."
+
+# game/day34.rpy:1245
+translate polish day34_ri_sex_227d508e:
+
+    # p "Do you want to try the toy?"
+    p "Chcesz wypróbować tą zabawkę?"
+
+# game/day34.rpy:1246
+translate polish day34_ri_sex_f16c4169:
+
+    # ri "I think I do."
+    ri "Myślę, że tak."
+
+# game/day34.rpy:1247
+translate polish day34_ri_sex_48c33a2a:
+
+    # p "Why don't you get that thing nice and wet then."
+    p "W takim razie, może trochę ją zwilżysz."
+
+# game/day34.rpy:1252
+translate polish day34_ri_sex_f6e54073:
+
+    # "{i}You offer Riley the toy, which she proceeds to suck and you get undressed yourself."
+    "{i}Podajesz Riley zabawkę, a ona zaczyna ją ssać, Ty w tym czasie zaczynasz się rozbierać."
+
+# game/day34.rpy:1257
+translate polish day34_ri_sex_b74670b7:
+
+    # "{i}Riley spreads her ass and reveals her delicate butthole."
+    "{i}Riley wypina się i prezentuje Ci swój tyłeczek."
+
+# game/day34.rpy:1258
+translate polish day34_ri_sex_64cd6b1b:
+
+    # ri "I've never been fucked with a toy in my ass."
+    ri "Nigdy nie pieprzyłam się z zabawką w dupie."
+
+# game/day34.rpy:1259
+translate polish day34_ri_sex_2c4e797f:
+
+    # p "Just a warning, if you see a strapon dildo, just leave it, I'm really not interested in trying a toy in {i}my{/i} ass.."
+    p "Tylko ostrzegam, jeśli zobaczysz gdzieś strapona, to go nie ruszaj, naprawdę nie jestem zainteresowany wypróbowaniem zabawki w {i}moim{/i} tyłku..."
+
+# game/day34.rpy:1260
+translate polish day34_ri_sex_ab3affc3:
+
+    # ri "Haha!"
+    ri "Haha!"
+
+# game/day34.rpy:1261
+translate polish day34_ri_sex_61e47689:
+
+    # ri "I'll be a good girl."
+    ri "Będę grzeczną dziewczynką."
+
+# game/day34.rpy:1266
+translate polish day34_ri_sex_27dd744b:
+
+    # "{i}Very softly, you push the wet toy against the folds of Riley's anus, as she relaxes the tip slips inside her butthole."
+    "{i}Bardzo delikatnie przyciskasz mokrą zabawkę do odbytu Riley, kiedy się rozluźnia, końcówka wsuwa się do jej tyłka."
+
+# game/day34.rpy:1267
+translate polish day34_ri_sex_37d94932:
+
+    # ri "Mmmmm. Don't rush!"
+    ri "Mmmmm. Nie śpiesz się!"
+
+# game/day34.rpy:1269
+translate polish day34_ri_sex_1e0b0e71:
+
+    # "{i}The toy inches further inside her ass until the entirety of it is enfolded by her anus."
+    "{i}Zabawka wsuwa się coraz głębiej w jej tyłek, aż w końcu cała niknie w jej odbycie."
+
+# game/day34.rpy:1270
+translate polish day34_ri_sex_d49a9468:
+
+    # p "It's in."
+    p "Gotowe."
+
+# game/day34.rpy:1271
+translate polish day34_ri_sex_cefc623d:
+
+    # ri "God yes, I know."
+    ri "O Boże wiem, czuję ją."
+
+# game/day34.rpy:1272
+translate polish day34_ri_sex_7a927d83:
+
+    # ri "It feels so full."
+    ri "Jestem taka pełna."
+
+# game/day34.rpy:1273
+translate polish day34_ri_sex_89af8dec:
+
+    # ri "Kiss me!"
+    ri "Pocałuj mnie!"
+
+# game/day34.rpy:1279
+translate polish day34_ri_sex_11b069f7:
+
+    # "{i}Riley's kiss is fueled by hunger, as the insertion of the toy has really liberated her lust."
+    "{i}Pocałunek Riley jest napędzany pożądaniem, włożenie tej zabawki naprawdę ją podnieciło."
+
+# game/day34.rpy:1281
+translate polish day34_ri_sex_5098614a:
+
+    # "{i}The girl drops to her knees to focus all of her attention on your dick and covers it in kisses."
+    "{i}Dziewczyna pada na kolana i skupia całą swoją uwagę na Twoim kutasie, pokrywając go pocałunkami."
+
+# game/day34.rpy:1282
+translate polish day34_ri_sex_3f9102c6:
+
+    # "{i}Her kisses become eager licks, until she dares to take your member in her mouth."
+    "{i}Jej pocałunki przechodzą w gorliwe lizanie, aż w końcu bierze Twojego fiuta do ust."
+
+# game/day34.rpy:1288
+translate polish day34_ri_sex_c85bc569:
+
+    # "{i}The warm, wet sensation hardens your cock even more, something Riley notices with approval."
+    "{i}Czując tą ciepłą wilgoć twardniejesz jeszcze bardziej, na co Riley uśmiecha się z aprobatą."
+
+# game/day34.rpy:1289
+translate polish day34_ri_sex_eaf15dd8:
+
+    # p "I had forgotten what a great cocksucker you are."
+    p "Zapomniałem, jaką świetną jesteś obciągarą."
+
+# game/day34.rpy:1290
+translate polish day34_ri_sex_637bd8cf:
+
+    # ri "You forgot?"
+    ri "Zapomniałeś?"
+
+# game/day34.rpy:1291
+translate polish day34_ri_sex_bd3bd2a7:
+
+    # ri "Now you've hurt my feelings!"
+    ri "Ranisz moje uczucia!"
+
+# game/day34.rpy:1293
+translate polish day34_ri_sex_1519d2bf:
+
+    # "{i}Riley punctuates her joking remark by sucking hard on your glans, a feeling that's equally pleasurable and painful."
+    "{i}Riley podkreśla swój żart poprzez mocne ssanie Twojego żołędzia, co jest równie przyjemne, co bolesne."
+
+# game/day34.rpy:1294
+translate polish day34_ri_sex_1578ee19:
+
+    # p "Ouch!"
+    p "Auć!"
+
+# game/day34.rpy:1295
+translate polish day34_ri_sex_74576d26:
+
+    # ri "Too intense?"
+    ri "Za mocno?"
+
+# game/day34.rpy:1296
+translate polish day34_ri_sex_fa8e2637:
+
+    # p "Only a little."
+    p "Tylko trochę."
+
+# game/day34.rpy:1302
+translate polish day34_ri_sex_52fa1734:
+
+    # "{i}Before she can respond, you pull her closer and press your cock against her entrance."
+    "{i}Zanim ma szansę odpowiedzieć, przyciągasz ją do siebie i dociskasz kutasa do jej szparki."
+
+# game/day34.rpy:1303
+translate polish day34_ri_sex_9440ca01:
+
+    # p "I'm going to fuck you so hard."
+    p "A teraz Cię zerżnę, mocno."
+
+# game/day34.rpy:1304
+translate polish day34_ri_sex_31ddf337:
+
+    # ri "Mmmm, show me!"
+    ri "Mmmm, pokaż na co Cię stać!"
+
+# game/day34.rpy:1309
+translate polish day34_ri_sex_343f1728:
+
+    # "{i}You see her eyes widen as you push your cock between her pussy lips and inside her tight fuckhole."
+    "{i}Widzisz, jak oczy jej się rozszerzają, gdy wpychasz swojego fiuta między jej wargi i do jej ciasnej dziurki."
+
+# game/day34.rpy:1310
+translate polish day34_ri_sex_bcea34b2:
+
+    # ri "Aaah!"
+    ri "Aaah!"
+
+# game/day34.rpy:1311
+translate polish day34_ri_sex_38ec74d5:
+
+    # ri "Keep going like that, don't pull out!"
+    ri "Właśnie tak, nie wyciągaj!"
+
+# game/day34.rpy:1313
+translate polish day34_ri_sex_3bec7f8d:
+
+    # "{i}You have absolutely no intention of pulling out and keep Riley in a tight embrace, your cock hammering her pussy."
+    "{i}Nie masz najmniejszego zamiaru, żeby wyciągać i trzymasz Riley w ciasnym uścisku, wbijając się w jej cipkę."
+
+# game/day34.rpy:1314
+translate polish day34_ri_sex_7940e3e6:
+
+    # "{i}At the peak of your passion, when you move her body to get better access to her moist slit, Riley nearly swipes a collection of dildos from a shelf."
+    "{i}Kiedy całkowicie oddajecie się już waszemu pożądaniu, obracasz ją, żeby zapewnić sobie lepszy dostęp do jej wilgotnej szparki i Riley prawie strąca z półki kolekcję wibratorów."
+
+# game/day34.rpy:1316
+translate polish day34_ri_sex_c62a725e:
+
+    # "{i}The girl manages to giggle between her breathless gasps of pleasure and smiles at you while you continue to fuck her."
+    "{i}Dziewczyna chichocze między nasilającymi się jękami rozkoszy i uśmiecha się do Ciebie, podczas gdy Ty dalej ją ruchasz."
+
+# game/day34.rpy:1322
+translate polish day34_ri_sex_8c3331ef:
+
+    # "{i}To get a better view of the toy that's still plugged inside her ass, you push Riley on one of the chairs and fuck her doggy style."
+    "{i}Aby mieć lepszy widok na zabawkę, która wciąż wciąż znajduje się w jej tyłku, pchasz Riley na jedno z krzeseł i zaczynasz pieprzyć ją na pieska."
+
+# game/day34.rpy:1323
+translate polish day34_ri_sex_46aea005:
+
+    # ri "Fuck me, [p_name], don't stop!"
+    ri "Rżnij mnie, [p_name], nie przestawaj!"
+
+# game/day34.rpy:1325
+translate polish day34_ri_sex_21ad4c97:
+
+    # "{i}When you slap her ass, Riley moans even harder and starts to finger herself."
+    "{i}Kiedy klepiesz ją w tyłek, Riley jęczy jeszcze głośniej i zaczyna się dotykać."
+
+# game/day34.rpy:1326
+translate polish day34_ri_sex_83d160e1:
+
+    # "{i}Her breasts dangle and bounce on the rhythm of your fucking and you can't contain a sudden urge to play with them."
+    "{i}Jej piersi dyndają i podskakują w rytmie Twoich pchnięć i nie możesz powstrzymać nagłej potrzeby, żeby się nimi pobawić."
+
+# game/day34.rpy:1328
+translate polish day34_ri_sex_a7a739a8:
+
+    # "{i}You pull Riley's upper body towards you, her ass pressing against your abdomen and your cock shoved up to the root in her cunt."
+    "{i}Przyciągasz górną część ciała Riley do siebie, jej tyłek przyciska się do Twojego brzucha, a kutas wbija się w nią po same jaja."
+
+# game/day34.rpy:1329
+translate polish day34_ri_sex_b816ae4b:
+
+    # "{i}The position doesn't allow for aggressive thrusts, but you're so deep inside her that it doesn't matter, the sensation is nearly overwhelming for you both."
+    "{i}Ta pozycja nie pozwala na agresywne pchnięcia, ale jesteś w niej tak głęboko, że to nie ma znaczenia, to uczucie jest przytłaczające dla was obojga."
+
+# game/day34.rpy:1330
+translate polish day34_ri_sex_9a92e185:
+
+    # "{i}As you play with her breasts and nipples, Riley continues to finger herself to completion."
+    "{i}Podczas gdy Ty bawisz się jej piersiami i sutkami, Riley dalej robi sobie palcówkę, doprowadzając się na skraj orgazmu."
+
+# game/day34.rpy:1337
+translate polish day34_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "K- Kurwa!"
+
+# game/day34.rpy:1338
+translate polish day34_ri_sex_8b44502e:
+
+    # "{i}Riley screams as she reaches her orgasm, shuddering in your arms, her hand still clasped over her pussy."
+    "{i}Riley krzyczy, gdy zaczyna szczytować, drży w Twoich ramionach, z ręką wciąż zaciśniętą na swojej cipce."
+
+# game/day34.rpy:1340
+translate polish day34_ri_sex_42d42502:
+
+    # "{i}Her constrictions are so intense that the toy is pushed out of her asshole, making her scream even louder with pleasure and relief."
+    "{i}Jej skurcze są tak intensywne, że zabawka wysuwa się z jej odbytu, co sprawia, że ​​krzyczy jeszcze głośniej z rozkoszy i ulgi."
+
+# game/day34.rpy:1342
+translate polish day34_ri_sex_7f864c7c:
+
+    # "{i}The sight of her gaping anus, after giving birth to the black plug, trigger your own orgasm."
+    "{i}Widok jej odbytu, rozwartego po użyciu czarnego korka, wyzwala Twój własny orgazm."
+
+# game/day34.rpy:1348
+translate polish day34_ri_sex_aa317619:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to fill her with seed."
+    "{i}Ogarnia Cię nagłe pragnienie, aby posiąść ciało Riley, aby oznaczyć ją jako Twoją, wypełnić ją Twoim nasieniem."
+
+# game/day34.rpy:1357
+translate polish day34_ri_sex_df0632e6:
+
+    # "{i}So you kiss her neck and hug her tightly as your cock erupts inside her vagina."
+    "{i}Więc całujesz ją w szyję i obejmujesz mocno, pozwalając by Twój kutas eksplodował w jej pochwie."
+
+# game/day34.rpy:1358
+translate polish day34_ri_sex_72390f9a:
+
+    # "{i}Semen keeps flowing for what seems like several minutes and you stay inside her until your erection starts to fade."
+    "{i}Sperma zdaje się płynąć bez końca, a Ty zostajesz w niej, aż Twoja erekcja zaczyna się kurczyć."
+
+# game/day34.rpy:1360
+translate polish day34_ri_sex_e0ce5bd9:
+
+    # "{i}When you pull out, a trickle of seed streams out of her slit, the warm sensation on her thighs causes Riley to smile."
+    "{i}Kiedy się z niej wysuwasz, strużka nasienia wypływa z jej szparki, Riley uśmiecha do Ciebie czując ciepły płyn spływający po swoich udach."
+
+# game/day34.rpy:1374
+translate polish day34_ri_sex_4aedcb53:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to cover her with seed."
+    "{i}Ogarnia Cię nagłe pragnienie, aby posiąść ciało Riley, aby oznaczyć ją jako Twoją, pokryć ją Twoim nasieniem."
+
+# game/day34.rpy:1378
+translate polish day34_ri_sex_f3ef623b:
+
+    # "{i}You pull out as your cock erupts and spray her body with warm semen, as Riley massages her breasts using your cum with a satisfied smile on her face."
+    "{i}Wysuwasz się z niej i Twój kutas eksploduje, obryzgujesz jej ciało swoją gęstą spermą, Riley wmasowuje ją w swoje piersi z zadowolonym uśmiechem na twarzy."
+
+# game/day34.rpy:1390
+translate polish day34_ri_sex_ad8c8589:
+
+    # "{i}You're overcome with a sudden sensation to make Riley yours, to leave your mark, to cover her face with seed."
+    "{i}Ogarnia Cię nagłe pragnienie, aby posiąść ciało Riley, aby oznaczyć ją jako Twoją, pokryć jej twarz Twoim nasieniem."
+
+# game/day34.rpy:1392
+translate polish day34_ri_sex_0465f2e7:
+
+    # "{i}So you pull out and move her head close to your cock as it erupts."
+    "{i}Więc wysuwasz się z niej i przyciągasz jej głowę do swojego kutasa."
+
+# game/day34.rpy:1395
+translate polish day34_ri_sex_3b080407:
+
+    # "{i}You spray Riley's eager face with warm semen, depositing several volleys in her open mouth."
+    "{i}Obryzgujesz chętną twarz Riley Twoją gęstą spermą, umieszczając kilka salw w jej otwartych ustach."
+
+# game/day34.rpy:1396
+translate polish day34_ri_sex_9138679b:
+
+    # "{i}The girl swallows your cum with a satisfied smile on her face."
+    "{i}Dziewczyna połyka Twoją spermę z zadowolonym uśmiechem na twarzy."
+
+# game/day34.rpy:1405
+translate polish day34_ri_sex_68607fec:
+
+    # ri "Goddamn, I didn't know sex could be this intense."
+    ri "Cholera, nie wiedziałam, że seks może być tak intensywny."
+
+# game/day34.rpy:1406
+translate polish day34_ri_sex_b923984f:
+
+    # p "You were magnificent."
+    p "Byłaś wspaniała."
 

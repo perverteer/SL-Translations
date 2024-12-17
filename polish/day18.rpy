@@ -206,7 +206,7 @@ translate polish day18_choices_207783db:
 translate polish day18_choices_28a9960c:
 
     # r "It's our magnificent [p_name]!"
-    r ""
+    r "To nasz wspaniały [p_name]!"
 
 # game/day18.rpy:76
 translate polish day18_choices_5dab2b8a:
@@ -308,7 +308,7 @@ translate polish day18_choices_3decb079:
 translate polish day18_choices_ec39113f:
 
     # "{i}[r_name] turns her attention to [l_name] and throws a curve ball which the older girl manages to catch pretty easily."
-    ""
+    "{i}[r_name] zwraca swoją uwagę na [l_name] i rzuca podkręconą piłkę, którą starszej dziewczynie udaje się dość łatwo złapać."
 
 # game/day18.rpy:104
 translate polish day18_choices_ce0b60a8:
@@ -350,7 +350,7 @@ translate polish day18_choices_8a53c1c1:
 translate polish day18_choices_c7d52c1c:
 
     # "{i}[l_name] turns her attention to [r_name] and throws a curve ball which the younger girl manages to catch pretty easily."
-    ""
+    "{i}[l_name] zwraca swoją uwagę na [r_name] i rzuca podkręconą piłkę, którą młodszej dziewczynie udaje się dość łatwo złapać."
 
 # game/day18.rpy:116
 translate polish day18_choices_0bce5b30:
@@ -374,7 +374,7 @@ translate polish day18_choices_3e419a0d:
 translate polish day18_choices_b0a2a5b8:
 
     # r "Wow, [p_name] is a mighty sea lion."
-    r ""
+    r "Wow [p_name] to potężny lew morski"
 
 # game/day18.rpy:125
 translate polish day18_choices_f0fb3afe:
@@ -404,7 +404,7 @@ translate polish day18_choices_9b181e6b:
 translate polish day18_choices_8052fc4f:
 
     # "{i}With some force you shoot the ball in [r_name]'s direction, she lunges for it, misses and falls in the water."
-    ""
+    "{i}Z pewną siłą wystrzeliwujesz piłkę w kierunku [r_name], a ona rzuca się na nią, nie trafia i wpada do wody."
 
 # game/day18.rpy:136
 translate polish day18_choices_e5b9d4cd:
@@ -434,7 +434,7 @@ translate polish day18_choices_72883b7f:
 translate polish day18_choices_cb61483d:
 
     # "{i}With some force you shoot the ball in [l_name]'s direction, she lunges for it, misses and falls in the water."
-    ""
+    "{i}Z pewną siłą wystrzeliwujesz piłkę w kierunku [l_name], a ona rzuca się na nią, nie trafia i wpada do wody."
 
 # game/day18.rpy:146
 translate polish day18_choices_e5b9d4cd_1:
@@ -674,7 +674,7 @@ translate polish day18_choices_0c7f0877:
 translate polish day18_choices_c73ced24:
 
     # m "{i}(Is [p_name] reading my book and masturbating?)"
-    m ""
+    m "{i}(Czy [p_name] czyta moją książkę i się masturbuje?)"
 
 # game/day18.rpy:221
 translate polish day18_choices_147d18b0:
@@ -710,7 +710,7 @@ translate polish day18_choices_4ff5e709:
 translate polish day18_choices_df5e3776:
 
     # m "{i}(He's a big boy, it seems.)"
-    m ""
+    m "{i}(Wygląda na to, że jest dużym chłopcem)"
 
 # game/day18.rpy:230
 translate polish day18_choices_70d7026d:
@@ -812,7 +812,7 @@ translate polish day18_choices_5ce15911:
 translate polish day18_choices_7f810979:
 
     # "{i}Together with Mrs. Smith you stroll to the town center. It takes a while for you to find the building, because the museum appears to be closed."
-    ""
+    "{i}Razem z panią Smith idziecie do centrum miasta. Znalezienie budynku zajmuje trochę czasu, ponieważ muzeum wydaje się być zamknięte."
 
 # game/day18.rpy:274
 translate polish day18_choices_7c35df1f:
@@ -944,7 +944,7 @@ translate polish day18_m_walking_choices_e606b37b:
 translate polish day18_m_walking_choices_6c41b6dc:
 
     # p "{i}(All of the girls she's taken in, but I can't tell her that.)"
-    p ""
+    p "{i}(Wszystkie dziewczyny, które przygarnęła, ale nie mogę jej tego powiedzieć)"
 
 # game/day18.rpy:311
 translate polish day18_m_walking_choices_04871b39:
@@ -962,7 +962,7 @@ translate polish day18_m_walking_choices_9e16f163:
 translate polish day18_m_walking_choices_ee607b43:
 
     # p "{i}(I can't tell her that I'm in love with one of her girls...)"
-    p ""
+    p "{i}(Nie mogę jej powiedzieć, że jestem zakochany w jednej z jej dziewczyn)"
 
 # game/day18.rpy:318
 translate polish day18_m_walking_choices_7409e89a:
@@ -1346,7 +1346,7 @@ translate polish day18_m_walking_choices_5c016b7a:
 translate polish day18_m_walking_choices_4a1b98d1:
 
     # "{i}[m_name] leans heavily on you and you make your way further through the bushes. Dirt clings in sweaty streaks to your body and Mrs. Smith's bare feet look battered from walking on the rough terrain."
-    ""
+    "{i}[m_name] opiera się ciężko na tobie, a ty idziesz dalej przez krzaki Brud przylega do twojego ciała w spoconych smugach, a bose stopy pani Smith wyglądają na poobijane od chodzenia po nierównym terenie."
 
 # game/day18.rpy:407
 translate polish day18_m_walking_choices_b3409ca7:
@@ -1532,7 +1532,7 @@ translate polish day18_m_walking_choices_718d633a:
 translate polish day18_m_walking_choices_159533f6:
 
     # "{i}You meet her longing lips and give [m_name] a passionate kiss."
-    ""
+    "{i}Spotykasz jej stęsknione usta i dajesz [m_name] namiętny pocałunek"
 
 # game/day18.rpy:464
 translate polish day18_m_walking_choices_4ed52c9e:
@@ -1748,7 +1748,7 @@ translate polish day18_m_walking_choices_18b6339f:
 translate polish day18_m_walking_choices_97e2dd73:
 
     # "{i}You make an odd pair, both walking in your swimsuits, Mrs. Smith only wearing her bikini bottom."
-    ""
+    "{i}Tworzycie dziwną parę, oboje chodzicie w strojach kąpielowych, pani Smith ma na sobie tylko figi od bikini."
 
 # game/day18.rpy:522
 translate polish day18_m_walking_choices_d3486065:
@@ -1880,7 +1880,7 @@ translate polish day18_m_walking_choices_6989ff08:
 translate polish day18_m_walking_choices_3c9f55d4:
 
     # "{i}At long last you reach the apartment. You think you see one of the girls gazing through the window, on the lookout for you both."
-    ""
+    "{i}W końcu docierasz do mieszkania. Wydaje ci się, że widzisz przez okno jedną z dziewczyn, która wypatruje was obojga."
 
 # game/day18.rpy:551
 translate polish day18_m_walking_choices_9dc0fd15:
@@ -2090,7 +2090,7 @@ translate polish day18_m_walking_choices_e77314ca:
 translate polish day18_m_walking_choices_1ca6ef7a:
 
     # "{i}You stand up quickly, fully awake now and scoop a crying [b_name] into your arms."
-    ""
+    "{i}Wstajesz szybko, w pełni rozbudzony i bierzesz płaczącą [b_name] w ramiona."
 
 # game/day18.rpy:614
 translate polish day18_m_walking_choices_5d01d17a:
@@ -2192,7 +2192,7 @@ translate polish day18_m_walking_choices_0f6a6f11:
 translate polish day18_m_walking_choices_30099348:
 
     # "{i}You take [b_name]'s beautiful face in your hands and kiss her on the lips. There's no hesitation on her part anymore and she answers your kiss with unbound passion."
-    ""
+    "{i}Bierzesz w dłonie piękną twarz [b_name] i całujesz ją w usta. Nie ma już wahania z jej strony, a ona odpowiada na twój pocałunek z nieskrępowaną pasją."
 
 # game/day18.rpy:637
 translate polish day18_m_walking_choices_098c6760:
@@ -2450,7 +2450,7 @@ translate polish day18_m_walking_choices_8b2022b3:
 translate polish day18_m_walking_choices_5996f609:
 
     # "{i}[b_name] licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
-    ""
+    "{i}[b_name] liże czubek twojego kutasa, jakby chciała go posmakować Dotyk jej mokrego języka na twojej żołędzi prawie sprawia, że dochodzisz."
 
 # game/day18.rpy:703
 translate polish day18_m_walking_choices_19cf1c5d:
@@ -2474,7 +2474,7 @@ translate polish day18_m_walking_choices_488997c6:
 translate polish day18_m_walking_choices_8d14e544:
 
     # p "Good, make it all wet. How does it taste, [b_name]?"
-    p ""
+    p "Dobrze, zrób wszystko mokre, jak smakuje [b_name]?"
 
 # game/day18.rpy:712
 translate polish day18_m_walking_choices_0bbfd3a0:
@@ -2630,7 +2630,7 @@ translate polish day18_m_walking_choices_d9162ddc:
 translate polish day18_m_walking_choices_efceec8a:
 
     # "{i}[b_name] returns to her cock sucking with renewed energy, clearly intent on making you cum."
-    ""
+    "{i}[b_name] powraca do ssania kutasa z nową energią, wyraźnie zamierzając doprowadzić cię do spermy."
 
 # game/day18.rpy:757
 translate polish day18_m_walking_choices_9a7043b3:
@@ -2660,7 +2660,7 @@ translate polish day18_m_walking_choices_41f847e9:
 translate polish day18_m_walking_choices_45536324:
 
     # "{i}Without warning you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. She clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
-    ""
+    "{i}Bez ostrzeżenia wystrzeliwujesz duży ładunek, podczas gdy [b_name] ma całą długość twojego kutasa w swoich ciepłych ustach. Najwyraźniej się tego nie spodziewała i zaczyna kaszleć nasieniem wypływającym z kącików jej ust."
 
 # game/day18.rpy:771
 translate polish day18_m_walking_choices_aa21c952:
@@ -2720,7 +2720,7 @@ translate polish day18_m_walking_choices_bcef49b3:
 translate polish day18_m_walking_choices_b7a4458e:
 
     # "{i}At the last minute you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from [b_name]'s cheeks. You can tell from her shocked expression she clearly didn't expect it."
-    ""
+    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej twarz dużym ładunkiem spermy Nasienie tryska na jej włosy i kapie z policzków [b_name] Możesz powiedzieć z jej zszokowanej miny, że najwyraźniej się tego nie spodziewała."
 
 # game/day18.rpy:795
 translate polish day18_m_walking_choices_aa21c952_1:
@@ -2768,7 +2768,7 @@ translate polish day18_m_walking_choices_6a0d97ba:
 translate polish day18_m_walking_choices_f1b6faee:
 
     # "{i}At the last minute you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto [b_name]'s belly. You can tell from her shocked expression she clearly didn't expect it."
-    ""
+    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej klatkę piersiową dużym ładunkiem spermy Nasienie kapie z jej piersi na brzuch [b_name] Możesz powiedzieć z jej zszokowanej miny, że najwyraźniej się tego nie spodziewała."
 
 # game/day18.rpy:817
 translate polish day18_m_walking_choices_aa21c952_2:
@@ -2816,7 +2816,7 @@ translate polish day18_m_walking_choices_45270f71:
 translate polish day18_m_walking_choices_1bf14207:
 
     # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down you soon fall asleep again."
-    ""
+    "{i}[b_name] odchodzi na palcach, zostawiając cię samego na kanapie Po położeniu się szybko ponownie zasypiasz."
 
 translate polish strings:
 
@@ -2868,283 +2868,971 @@ translate polish strings:
     old "Cum on her chest"
     new "Skończ na jej piersiach"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day18.rpy:58
+# game/day18.rpy:65
 translate polish day18_choices_e2c4c7ac:
 
     # m "You and [r_name] didn't come home last night. We were a bit worried and waited up. We only saw your text this morning."
-    m "Ty i [r_name] nie wróciliście do domu wczoraj wieczorem Byliśmy trochę zaniepokojeni i czekaliśmy Dopiero rano zobaczyliśmy twój tekst"
+    m "Nie wróciliście wczoraj na noc. Trochę się martwiłyśmy i czekałyśmy, dopiero rano odczytałyśmy Twoją wiadomość."
 
-# game/day18.rpy:105
+# game/day18.rpy:112
 translate polish day18_choices_be7e6897:
 
     # "{i}[l_name] makes an awkward move and overshoots her target. With much effort, you catch the ball, splashing sea water all around."
-    "{i}[l_name] wykonuje niezręczny ruch i przeoczył jej cel Z dużym wysiłkiem łapiesz piłkę rozpryskując wodę morską dookoła"
+    "{i}Liza zagrywa trochę za mocno. Z niemałym wysiłkiem łapiesz piłkę, chlapiąc naokoło wodą."
 
-# game/day18.rpy:110
+# game/day18.rpy:117
 translate polish day18_choices_a23a3276:
 
     # l "Catch, [r_name]!"
-    l "Złap [r_name]!"
+    l "Łap Rachel!"
 
-# game/day18.rpy:116
+# game/day18.rpy:123
 translate polish day18_choices_1cf243df:
 
     # r "Your turn, [p_name]!"
     r "Twoja kolej [p_name]!"
 
-# game/day18.rpy:117
+# game/day18.rpy:124
 translate polish day18_choices_30d89502:
 
     # "{i}It seems [r_name] deliberately overshot her target, and you catch the ball with much effort, splashing sea water all around."
-    "{i}Wydaje się, że [r_name] celowo przeoczył jej cel i łapiesz piłkę z dużym wysiłkiem rozpryskując wodę morską dookoła"
+    "{i}Wygląda na to, że [r_name] celowo przekroczyła swój cel, a ty łapiesz piłkę z dużym wysiłkiem, rozpryskując dookoła wodę morską."
 
-# game/day18.rpy:133
+# game/day18.rpy:140
 translate polish day18_choices_23654c05:
 
     # "{i}You shoot the ball with some force in [r_name]'s direction. Your sister lunges for it, misses and falls in the water."
-    "{i}Strzelasz piłkę z pewną siłą w kierunku [r_name] Twoja siostra lunguje po nią chybia i wpada do wody."
+    "{i}Wystrzeliwujesz piłkę z pewną siłą w kierunku [r_name]. Twoja siostra rzuca się na nią, nie trafia i wpada do wody."
 
-# game/day18.rpy:135
+# game/day18.rpy:142
 translate polish day18_choices_c2ca176c:
 
     # "{i}You shoot the ball with some force in [r_name]'s direction. She lunges for it, misses and falls in the water."
-    "{i}Strzelasz piłkę z pewną siłą w kierunku [r_name] Ona lunges for it misses and falls in the water."
+    "{i}Wystrzeliwujesz piłkę z pewną siłą w kierunku [r_name], a ona rzuca się na nią, nie trafia i wpada do wody."
 
-# game/day18.rpy:143
+# game/day18.rpy:150
 translate polish day18_choices_c94d0a8e:
 
     # "{i}You shoot the ball with some force in [l_name]'s direction. Your sister lunges for it, misses and falls in the water."
-    "{i}Strzelasz piłkę z pewną siłą w kierunku [l_name] Twoja siostra lgnie do niej nie trafia i wpada do wody."
+    "{i}Wystrzeliwujesz piłkę z pewną siłą w kierunku [l_name]. Twoja siostra rzuca się na nią, nie trafia i wpada do wody."
 
-# game/day18.rpy:145
+# game/day18.rpy:152
 translate polish day18_choices_696467b6:
 
     # "{i}You shoot the ball with some force in [l_name]'s direction. She lunges for it, misses and falls in the water."
-    "{i}Strzelasz piłkę z pewną siłą w kierunku [l_name] Ona lunges for it misses and falls in the water."
+    "{i}Wystrzeliwujesz piłkę z pewną siłą w kierunku [l_name], a ona rzuca się na nią, nie trafia i wpada do wody."
 
-# game/day18.rpy:164
+# game/day18.rpy:171
 translate polish day18_choices_ce99dbbb:
 
     # p "{i}(We've only been here for a couple of days now and the girls are making such a mess. Better do some cleaning up.)"
-    p "{i}(Jesteśmy tu dopiero od kilku dni, a dziewczynki robią taki bałagan Lepiej zrobić porządek)"
+    p "{i}(Jesteśmy tu zaledwie kilka dni, a dziewczyny już narobiły bałaganu, lepiej trochę posprzątam.)"
 
-# game/day18.rpy:261
+# game/day18.rpy:195
 translate polish day18_choices_1a911658:
 
     # "{i}After you visit the girls and give the apartment a thorough cleaning, [m_name] returns from the beach."
-    "{i}Po tym jak odwiedzisz dziewczyny i oddasz mieszkanie do gruntownego sprzątania [m_name] wraca z plaży"
+    "{i}Po wizycie u dziewczyn i gruntownym sprzątaniu mieszkania [m_nazwisko] wraca z plaży."
 
-# game/day18.rpy:269
+# game/day18.rpy:204
 translate polish day18_choices_b4e1083a:
 
     # "{i}Together with your mother, you stroll to the town center. It takes a while for you to find the building, as the museum appears to be closed."
-    "{i}Razem z matką spacerujecie do centrum miasta Trochę czasu zajmuje wam znalezienie budynku, gdyż muzeum wydaje się być zamknięte"
+    "{i}Razem z matką idziecie do centrum miasta. Znalezienie budynku zajmuje trochę czasu, ponieważ muzeum wydaje się być zamknięte."
 
-# game/day18.rpy:271
+# game/day18.rpy:206
 translate polish day18_choices_090162a1:
 
     # "{i}Together with Mrs. Smith, you stroll to the town center. It takes a while for you to find the building, as the museum appears to be closed."
-    "{i}Razem z panią Smith spacerujecie do centrum miasta Trochę czasu zajmuje wam znalezienie budynku, gdyż muzeum wydaje się być zamknięte"
+    "{i}Razem z panią Smith idziecie do centrum miasta. Znalezienie budynku zajmuje trochę czasu, ponieważ muzeum wydaje się być zamknięte."
 
-# game/day18.rpy:297
+# game/day18.rpy:236
 translate polish day18_m_walking_choices_62160d3c:
 
     # p "From what I've heard from Nia, Belugio pretty much is as it appears to be."
-    p "Z tego co słyszałem od Nii Belugio całkiem sporo jest tak jak się wydaje"
+    p "Z tego co mówiła mi Nia, Belugio jest w zasadzie takie, jakie się wydaje na pierwszy rzut oka."
 
-# game/day18.rpy:355
+# game/day18.rpy:294
 translate polish day18_m_walking_choices_94ec5a12:
 
     # m "Exactly. And when I found out he even fucked around with other women during those trips, something snapped."
-    m "Dokładnie I kiedy dowiedziałam się, że podczas tych wyjazdów nawet pieprzył się z innymi kobietami coś pękło."
+    m "Dokładnie. I kiedy dowiedziałam się, że nawet podczas tych wycieczek pieprzył się z innymi kobietami, to coś we mnie pękło."
 
-# game/day18.rpy:357
+# game/day18.rpy:296
 translate polish day18_m_walking_choices_22face95:
 
     # p "Actually, it doesn't surprise me much. After we moved, he had an insane amount of girlfriends, sometimes at the same time."
-    p "Właściwie to nie dziwi mnie to zbytnio Po naszej przeprowadzce miał szaloną ilość dziewczyn czasem w tym samym czasie"
+    p "A w zasadzie, nawet tak bardzo mnie to nie dziwi. Po naszej przeprowadzce miał od groma dziewczyn, czasami kilka naraz."
 
-# game/day18.rpy:369
+# game/day18.rpy:308
 translate polish day18_m_walking_choices_917cc1cd:
 
     # m "For me, it's important that you're here now, with us."
-    m "Dla mnie ważne jest to, że jesteś tu teraz z nami"
+    m "Dla mnie najważniejsze jest to, że teraz już tu jesteś, z nami."
 
-# game/day18.rpy:375
+# game/day18.rpy:315
 translate polish day18_m_walking_choices_d15360fb:
 
     # p "Are you alright, [m_name]?"
-    p "Czy wszystko w porządku [m_name]?"
+    p "W porządku mamo?"
 
-# game/day18.rpy:399
+# game/day18.rpy:339
 translate polish day18_m_walking_choices_5b3f7fc8:
 
     # p "Here, [m_name]. Lean on me."
-    p "Tu [m_name] oprzyj się na mnie"
+    p "Ostrożnie mamo, oprzyj się na mnie."
 
-# game/day18.rpy:425
+# game/day18.rpy:365
 translate polish day18_m_walking_choices_76a9b1e8:
 
     # "{i}After lumbering on for a few minutes more, the sound of water gets stronger and stronger until you arrive at the bank of a small river. [m_name] is mumbling softly and grips your arm tightly."
-    "{i}Po zdrewnieniu jeszcze przez kilka minut szum wody staje się coraz silniejszy, aż docierasz na brzeg małej rzeki [m_name] mamrocze cicho i mocno chwyta cię za ramię."
+    "{i}Po paru minutach drogi, szum wody staje się coraz głośniejszy, aż w końcu docieracie do brzegu małej rzeki. Susan ściska mocno Twoją rękę i mamrocze coś pod nosem."
 
-# game/day18.rpy:473
+# game/day18.rpy:413
 translate polish day18_m_walking_choices_4cfc3412:
 
     # "{i}Her speech is still slightly slurred, but she looks a little bit better."
-    "{i}Jej mowa jest nadal lekko zamazana, ale wygląda trochę lepiej"
+    "{i}Jej mowa dalej jest lekko bełkotliwa, ale wygląda już trochę lepiej."
 
-# game/day18.rpy:503
+# game/day18.rpy:443
 translate polish day18_m_walking_choices_10c3a02f:
 
     # "{i}Just as you enter the water, [m_name] realizes her bikini top is gone."
-    "{i}Kiedy wchodzisz do wody, zdajesz sobie sprawę, że jej góra od bikini zniknęła."
+    "{i}Kiedy wchodzisz do wody, Susan orientuje się, że zgubiła bikini."
 
-# game/day18.rpy:508
+# game/day18.rpy:448
 translate polish day18_m_walking_choices_acd8405d:
 
     # m "Well, now you've seen them, I guess we don't keep any secrets from each other..."
-    m "No cóż teraz je widziałeś chyba nie mamy przed sobą żadnych tajemnic"
+    m "Cóż, teraz kiedy już je widziałeś, to chyba nie mamy przed sobą żadnych sekretów..."
 
-# game/day18.rpy:551
+# game/day18.rpy:496
 translate polish day18_m_walking_choices_d88eddda:
 
     # "{i}Before you can say anything, [r_name] wraps her arms around your neck, embracing you tightly."
-    "{i}Zanim zdążysz cokolwiek powiedzieć, [r_name] owija swoje ręce wokół twojej szyi obejmując cię mocno."
+    "{i}Zanim możesz cokolwiek powiedzieć, Rachel rzuca Ci się na szyję i obejmuje Cię mocno."
 
-# game/day18.rpy:570
+# game/day18.rpy:515
 translate polish day18_m_walking_choices_4b6ebbb9:
 
     # m "Thank you, [p_name], for everything. Without you I'd still be wandering around."
-    m "Dziękuję [p_name] za wszystko Bez ciebie nadal bym błądził"
+    m "Dziękuję Ci [p_name], za wszystko. Bez Ciebie dalej bym się tam błąkała."
 
-# game/day18.rpy:571
+# game/day18.rpy:516
 translate polish day18_m_walking_choices_0239a5f1:
 
     # p "Luckily, we had each other."
-    p "Na szczęście mieliśmy siebie"
+    p "Całe szczęście mieliśmy siebie nawzajem."
 
-# game/day18.rpy:583
+# game/day18.rpy:528
 translate polish day18_m_walking_choices_bf4f1217:
 
     # b "If you give me your clothes, I'll make sure they get cleaned tomorrow."
-    b "Jeśli dasz mi swoje ubrania, zadbam o to, by jutro zostały wyczyszczone."
+    b "Jeśli dasz mi swoje ubrania, to Ci je wypiorę, będą gotowe na rano."
 
-# game/day18.rpy:596
+# game/day18.rpy:547
 translate polish day18_m_walking_choices_8eccf79b:
 
     # "{i}As soon as you close your eyes, you sink into a very deep sleep."
-    "{i}Gdy tylko zamkniesz oczy, zapadasz w bardzo głęboki sen."
+    "{i}Gdy tylko zamykasz oczy, zapadasz w głęboki sen."
 
-# game/day18.rpy:611
+# game/day18.rpy:562
 translate polish day18_m_walking_choices_c2c86688:
 
     # "{i}You stand up quickly, fully awake now, and scoop your crying sister into your arms."
-    "{i}Wstajesz szybko w pełni rozbudzony teraz i hulasz swoją płaczącą siostrę w swoje ramiona."
+    "{i}W pełni rozbudzony, wstajesz szybko i obejmujesz swoją płaczącą siostrę."
 
-# game/day18.rpy:613
+# game/day18.rpy:564
 translate polish day18_m_walking_choices_4fba8791:
 
     # "{i}You stand up quickly, fully awake now, and scoop a crying [b_name] into your arms."
-    "{i}Wstajesz szybko w pełni rozbudzony teraz i hulasz płaczącego [b_name] w swoje ramiona."
+    "{i}Wstajesz szybko, w pełni rozbudzony i bierzesz płaczącą [b_name] w ramiona."
 
-# game/day18.rpy:625
+# game/day18.rpy:576
 translate polish day18_m_walking_choices_6cf783b8:
 
     # b "And I don't care what others think of that and I don't know how you feel... And if you don't feel the same way, I guess that's fine as well. But I thought you had the right to know... Because you must have been confused as well... And..."
-    b "I nie obchodzi mnie, co inni o tym myślą i nie wiem, jak się czujesz I jeśli nie czujesz tego samego, to chyba też dobrze, ale pomyślałem, że masz prawo wiedzieć, bo pewnie też byłeś zdezorientowany I"
+    b "I nie obchodzi mnie co inni o tym pomyślą, i nie wiem co Ty czujesz... I jeśli nie czujesz tego samego, to chyba też nic takiego. Ale pomyślałam, że masz prawo wiedzieć... Bo też musisz być zagubiony... I..."
 
-# game/day18.rpy:633
+# game/day18.rpy:584
 translate polish day18_m_walking_choices_7bcdab47:
 
     # "{i}You take your sister's beautiful face in your hands and kiss her on the lips. There's no hesitation on her part anymore, and she answers your kiss with unbound passion."
-    "{i}Bierzesz w dłonie piękną twarz siostry i całujesz ją w usta Nie ma już wahania z jej strony i odpowiada na twój pocałunek z nieskrępowaną namiętnością"
+    "{i}Obejmujesz dłońmi piękną twarz swojej siostry i całujesz ją w usta. Tym razem Bella już się nie waha i z nieskrępowaną namiętnością odwzajemnia Twój pocałunek."
 
-# game/day18.rpy:635
+# game/day18.rpy:586
 translate polish day18_m_walking_choices_649ff22e:
 
     # "{i}You take [b_name]'s beautiful face in your hands and kiss her on the lips. There's no hesitation on her part anymore, and she answers your kiss with unbound passion."
-    "{i}Bierzesz w dłonie piękną twarz [b_name] i całujesz ją w usta Nie ma już wahania z jej strony i odpowiada na twój pocałunek z nieskrępowaną pasją"
+    "{i}Bierzesz w dłonie piękną twarz [b_name] i całujesz ją w usta. Nie ma już wahania z jej strony, a ona odpowiada na twój pocałunek z nieskrępowaną pasją."
 
-# game/day18.rpy:637
+# game/day18.rpy:588
 translate polish day18_m_walking_choices_977edb3e:
 
     # "{i}A little hesitantly, [b_name] opens her mouth to invite your tongue, and your kiss transforms into something truly erotic. Your fingers dig into the soft flesh of [b_name]'s neck, while her hands tousle your hair."
-    "{i}Nieco niepewnie [b_name] otwiera usta, by zaprosić twój język i wasz pocałunek przekształca się w coś prawdziwie erotycznego Twoje palce zagłębiają się w miękkim ciele szyi [b_name], podczas gdy jej dłonie układają ci włosy."
+    "{i}Z lekkim wahaniem Bella otwiera usta, zapraszając do środka Twój język i wasz pocałunek przekształca się w coś prawdziwie erotycznego. Twoje palce gładzą miękką skórę jej szyi podczas gdy dłonie Belli mierzwią Ci włosy."
 
-# game/day18.rpy:645
+# game/day18.rpy:596
 translate polish day18_m_walking_choices_7a6e52c4:
 
     # b "I won't! Kiss me again!"
-    b "Nie będę! Pocałuj mnie jeszcze raz!"
+    b "Nie zrobię tego! Pocałuj mnie jeszcze raz!"
 
-# game/day18.rpy:666
+# game/day18.rpy:617
 translate polish day18_m_walking_choices_06215d1c:
 
     # "{i}Hesitantly, [b_name] sits next to you on the couch, she probably has a feeling of what's about to come."
-    "{i}Nieśmiało [b_name] siada obok ciebie na kanapie pewnie przeczuwa, co zaraz nastąpi"
+    "{i}Z lekkim wahaniem, Bella siada koło Ciebie na kanapie, prawdopodobnie przeczuwa co się święci."
 
-# game/day18.rpy:750
-translate polish day18_m_walking_choices_cd4f9a43:
+# game/day18.rpy:636
+translate polish day18_b_bj_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day18.rpy:640
+translate polish day18_b_bj_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day18.rpy:643
+translate polish day18_b_bj_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day18.rpy:650
+translate polish day18_b_bj_597c998b:
+
+    # p "I've been trudging around the jungle all day with a busty, half nude woman. So I've been building up some sexual energy that needs releasing."
+    p "Cały dzień błąkałem się po dżungli z cycatą, półnagą kobietą. Więc nagromadziło się we mnie pewne seksualne napięcie, którego potrzebuję się pozbyć."
+
+# game/day18.rpy:652
+translate polish day18_b_bj_dceef590:
+
+    # b "You mean, [m_name]?"
+    b "Masz na myśli mamę?"
+
+# game/day18.rpy:653
+translate polish day18_b_bj_6b2311bf:
+
+    # p "Who else?"
+    p "A kogo innego?"
+
+# game/day18.rpy:655
+translate polish day18_b_bj_a5163d8e:
+
+    # b "So you're getting off on seeing your own mother naked?"
+    b "Więc podnieca Cię widok Twojej własnej matki nago?"
+
+# game/day18.rpy:656
+translate polish day18_b_bj_8120ee4c:
+
+    # p "Considering the things we've done together, that surprises you?"
+    p "Biorąc pod uwagę wszystko co razem robiliśmy, naprawdę Cię to zaskakuje?"
+
+# game/day18.rpy:657
+translate polish day18_b_bj_c6faf0b0:
+
+    # b "Pffff..."
+    b "Pffff..."
+
+# game/day18.rpy:660
+translate polish day18_b_bj_74222b7b:
+
+    # b "So I guess you want me to touch your dingus again?"
+    b "Zgaduję, że chcesz, żebym znowu dotykała Twojej fujarki?"
+
+# game/day18.rpy:661
+translate polish day18_b_bj_ddc4a456:
+
+    # p "Sort of..."
+    p "Mniej więcej..."
+
+# game/day18.rpy:663
+translate polish day18_b_bj_f06389ac:
+
+    # b "So I guess you want me to touch your little dingus again?"
+    b "Zgaduję, że chcesz, żebym znowu dotykała Twojej małej fujarki?"
+
+# game/day18.rpy:664
+translate polish day18_b_bj_2668fb22:
+
+    # p "Sort of... And I don't think you'll be calling it little very soon..."
+    p "Mniej więcej... I wątpię, żebyś wkrótce dalej nazywała ją małą..."
+
+# game/day18.rpy:665
+translate polish day18_b_bj_855ac1ef:
+
+    # p "You're going to use your mouth."
+    p "Użyjesz swoich ust."
+
+# game/day18.rpy:667
+translate polish day18_b_bj_62702272:
+
+    # b "You're crazy. Absolutely crazy."
+    b "Zwariowałeś. Kompletnie zwariowałeś."
+
+# game/day18.rpy:668
+translate polish day18_b_bj_d640b5c8:
+
+    # p "No, I'm very horny and you're going to be an obedient little cocksucker."
+    p "Nie, jestem bardzo napalony, a Ty będziesz posłuszną małą obciągarą."
+
+# game/day18.rpy:669
+translate polish day18_b_bj_d69ee8f6:
+
+    # "{i}[b_name] doesn't move when you pull down your pants."
+    "{i}Bella nawet nie drga kiedy ściągasz swoje spodnie."
+
+# game/day18.rpy:670
+translate polish day18_b_bj_89912316:
+
+    # p "Come closer. And lose that bra."
+    p "Podejdź bliżej. I ściągnij ten stanik."
+
+# game/day18.rpy:672
+translate polish day18_b_bj_55ba990d:
+
+    # p "Now, make me cum."
+    p "A teraz, zrób mi dobrze."
+
+# game/day18.rpy:674
+translate polish day18_b_bj_efe857be:
+
+    # b "Fuck you."
+    b "Pierdol się."
+
+# game/day18.rpy:680
+translate polish day18_b_bj_8b2022b3:
+
+    # "{i}Your sister licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}Twoja siostra liże czubek Twojego penisa, jakby chciała sprawdzić jak smakuje. Dotyk jej mokrego języka sprawia, że prawie dochodzisz."
+
+# game/day18.rpy:682
+translate polish day18_b_bj_5996f609:
+
+    # "{i}[b_name] licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}[b_name] liże czubek twojego kutasa, jakby chciała go posmakować Dotyk jej mokrego języka na twojej żołędzi prawie sprawia, że dochodzisz."
+
+# game/day18.rpy:688
+translate polish day18_b_bj_19cf1c5d:
+
+    # p "That's it, take it in your sweet little mouth. Come on, use your tongue a little."
+    p "Właśnie tak, wsadź go do swoich słodkich usteczek. No dalej, użyj trochę języka."
+
+# game/day18.rpy:690
+translate polish day18_b_bj_60c106f6:
+
+    # "{i}You feel her tongue dance around your shaft."
+    "{i}Czujesz jej język tańczący wokół Twojego żołędzia."
+
+# game/day18.rpy:692
+translate polish day18_b_bj_488997c6:
+
+    # p "Good, make it all wet. How does it taste, sis?"
+    p "Dobrze, pokryj go całego śliną. Jak smakuje siostrzyczko?"
+
+# game/day18.rpy:694
+translate polish day18_b_bj_8d14e544:
+
+    # p "Good, make it all wet. How does it taste, [b_name]?"
+    p "Dobrze, zrób wszystko mokre, jak smakuje [b_name]?"
+
+# game/day18.rpy:697
+translate polish day18_b_bj_0bbfd3a0:
+
+    # b "Mmmmmm."
+    b "Mmmmmm."
+
+# game/day18.rpy:698
+translate polish day18_b_bj_d6523b99:
+
+    # p "Are you going to suck me dry, I bet you are."
+    p "Wyssiesz mnie do sucha, co? Założę się, że tak."
+
+# game/day18.rpy:700
+translate polish day18_b_bj_4e2802f0:
+
+    # b "Fucking gross."
+    b "Jesteś obleśny."
+
+# game/day18.rpy:701
+translate polish day18_b_bj_15254aa1:
+
+    # p "I doubt that. But make it clean then, start sucking."
+    p "Wątpię. Ale w takim razie będziesz musiała mnie wyczyścić, zacznij ssać."
+
+# game/day18.rpy:703
+translate polish day18_b_bj_a1045253:
+
+    # "{i}Her head moves up and down and all that can be heard from [b_name] are slobbering sounds as she blows you."
+    "{i}Jej głowa porusza się w górę i w dół, jedyne co już słyszysz od Belli to mokre, siorbiące odgłosy jej obciągania."
+
+# game/day18.rpy:704
+translate polish day18_b_bj_6e5b2ff3:
+
+    # p "Yes, keep going."
+    p "Tak, nie przestawaj."
+
+# game/day18.rpy:705
+translate polish day18_b_bj_3ed5316d:
+
+    # "{i}[b_name] is completely focused on sucking your dick and trying not to gag because of your length."
+    "{i}Bella skupia całą swoją uwagę na ssaniu Twojego penisa i próbach nieudławienia się, co przy Twoim rozmiarze nie jest takie łatwe."
+
+# game/day18.rpy:706
+translate polish day18_b_bj_145d8d79:
+
+    # p "You're good at this, have you done this before?"
+    p "Jesteś w tym dobra, robiłaś to już kiedyś?"
+
+# game/day18.rpy:711
+translate polish day18_b_bj_df44d03d:
+
+    # b "No!"
+    b "Nie!"
+
+# game/day18.rpy:713
+translate polish day18_b_bj_fe8167af:
+
+    # p "You're a natural then. Or did you practice with your dildo?"
+    p "W takim razie masz naturalny talent. Chyba, że ćwiczyłaś już na swoim dildo?"
+
+# game/day18.rpy:715
+translate polish day18_b_bj_2993e132:
+
+    # b "Maybe..."
+    b "Może..."
+
+# game/day18.rpy:716
+translate polish day18_b_bj_0e622b61:
+
+    # p "That explains it... That dildo has seen a lot of use, hasn't it? It has been in your ass before, hasn't it, before we did it together?"
+    p "To wiele wyjaśnia... To dildo widziało sporo akcji, co? Próbowałaś już z nim analu, prawda? Jeszcze zanim zrobiliśmy to razem?"
+
+# game/day18.rpy:717
+translate polish day18_b_bj_850ef128:
+
+    # b "..."
+    b "..."
+
+# game/day18.rpy:718
+translate polish day18_b_bj_36a752a2:
+
+    # p "Answer me."
+    p "Odpowiedz."
+
+# game/day18.rpy:720
+translate polish day18_b_bj_2993e132_1:
+
+    # b "Maybe..."
+    b "Może..."
+
+# game/day18.rpy:722
+translate polish day18_b_bj_ddd8abed:
+
+    # b "Yes."
+    b "Tak."
+
+# game/day18.rpy:723
+translate polish day18_b_bj_3a3dced0:
+
+    # p "I thought as much. So all that shock about pushing it inside your little ass was just for show..."
+    p "Tak myślałem. Więc cały ten szok związany z wsadzeniem go do Twojej ciasnej dupki był tylko na pokaz..."
+
+# game/day18.rpy:724
+translate polish day18_b_bj_df44d03d_1:
+
+    # b "No!"
+    b "Nie!"
+
+# game/day18.rpy:726
+translate polish day18_b_bj_45f1a9a8:
+
+    # p "My sister, the little anal slut."
+    p "Moja siostrzyczka, mała analna zdzira."
+
+# game/day18.rpy:728
+translate polish day18_b_bj_d60cf75d:
+
+    # p "My little anal slut."
+    p "Moja mała analna zdzira."
+
+# game/day18.rpy:731
+translate polish day18_b_bj_255836c1:
+
+    # b "I'm not... I'm..."
+    b "Ja nie... Nie jestem..."
+
+# game/day18.rpy:733
+translate polish day18_b_bj_b733eaa1:
+
+    # b "Fuck you!"
+    b "Pierdol się!"
+
+# game/day18.rpy:735
+translate polish day18_b_bj_429f4db2:
+
+    # p "You're a natural then."
+    p "W takim razie masz naturalny talent."
+
+# game/day18.rpy:740
+translate polish day18_b_bj_cd4f9a43:
 
     # p "Keep going, please. Your mouth is so good."
-    p "Kontynuuj proszę Twoje usta są takie dobre"
+    p "Nie przestawaj proszę. Twoje usta są niesamowite."
 
-# game/day18.rpy:761
-translate polish day18_m_walking_choices_f09299cc:
+# game/day18.rpy:742
+translate polish day18_b_bj_d9162ddc:
+
+    # "{i}You sister returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}Twoja siostra wraca do ssania Twojego penisa ze zdwojoną siłą, wyraźnie zamierzając doprowadzić Cię do orgazmu."
+
+# game/day18.rpy:744
+translate polish day18_b_bj_efceec8a:
+
+    # "{i}[b_name] returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}[b_name] powraca do ssania kutasa z nową energią, wyraźnie zamierzając doprowadzić cię do spermy."
+
+# game/day18.rpy:747
+translate polish day18_b_bj_9a7043b3:
+
+    # p "I see our talk of anal play has made you extra motivated. Good, make me come with your mouth."
+    p "Widzę, że nasza rozmowa na temat Twoich analnych zabaw dodatkowo Cię zmotywowała. Doskonale, zrób mi dobrze swoimi ustami."
+
+# game/day18.rpy:749
+translate polish day18_b_bj_72ae433c:
+
+    # p "You must be loving it, you seem so motivated all of a sudden. Good, make me cum with your mouth."
+    p "Musisz to uwielbiać, nagle zrobiłaś się bardzo zmotywowana. Doskonale, zrób mi dobrze swoimi ustami."
+
+# game/day18.rpy:751
+translate polish day18_b_bj_f09299cc:
 
     # "{i}[b_name] stimulates your throbbing member and when she reaches the tip of your cock, her tongue makes circular motions which ultimately send you over the edge."
-    "{i}[b_name] stymuluje twój pulsujący członek, a kiedy dociera do czubka twojego kutasa, jej język wykonuje koliste ruchy, które ostatecznie wysyłają cię na krawędź."
+    "{i}Bella stymuluje Twojego pulsującego członka i kiedy sięga do czubka swoim językiem, robi nim okrężne ruchy, które doprowadzają Cię do orgazmu."
 
-# game/day18.rpy:768
-translate polish day18_m_walking_choices_f204422a:
+# game/day18.rpy:758
+translate polish day18_b_bj_f204422a:
 
     # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. Your sister clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
-    "{i}Bez ostrzeżenia wystrzeliwujesz duży ładunek, podczas gdy [b_name] ma całą długość swojego kutasa w swoich ciepłych ustach Twoja siostra wyraźnie nie spodziewała się tego i zaczyna kaszleć nasieniem płynącym z kącików ust."
+    "{i}Nie ostrzegając jej, dochodzisz, gdy dalej ma w swoich ciepłych ustach całą długość Twojego penisa. Twoja siostra ewidentnie się tego nie spodziewała i zaczyna kaszleć, nasienie spływa po kącikach jej ust."
 
-# game/day18.rpy:770
-translate polish day18_m_walking_choices_5953e328:
+# game/day18.rpy:760
+translate polish day18_b_bj_5953e328:
 
     # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. She clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
-    "{i}Bez ostrzeżenia wystrzeliwujesz duży ładunek, podczas gdy [b_name] ma całą długość swojego kutasa w swoich ciepłych ustach Ona wyraźnie nie spodziewała się tego i zaczyna kaszleć nasieniem płynącym z kącików jej ust."
+    "{i}Bez ostrzeżenia wystrzeliwujesz duży ładunek, podczas gdy [b_name] ma całą długość twojego kutasa w swoich ciepłych ustach. Najwyraźniej się tego nie spodziewała i zaczyna kaszleć nasieniem wypływającym z kącików jej ust."
+
+# game/day18.rpy:764
+translate polish day18_b_bj_aa21c952:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah."
+
+# game/day18.rpy:768
+translate polish day18_b_bj_612d0d73:
+
+    # b "Gaaah! Aaagh!"
+    b "Gaaah! Aaagh!"
+
+# game/day18.rpy:769
+translate polish day18_b_bj_cccb8f1e:
+
+    # "{i}[b_name] spits most of your cum on the floor and looks at you angrily."
+    "{i}Bella wypluwa większość Twojej spermy na podłogę i patrzy na Ciebie ze złością."
+
+# game/day18.rpy:772
+translate polish day18_b_bj_283316f2:
+
+    # b "You didn't warn me."
+    b "Nie uprzedziłeś mnie."
+
+# game/day18.rpy:774
+translate polish day18_b_bj_3196d99b:
+
+    # b "You could've fucking warned me!"
+    b "Mogłeś mnie kurwa uprzedzić!"
+
+# game/day18.rpy:775
+translate polish day18_b_bj_1579c22c:
+
+    # p "I'm full of surprises."
+    p "Jestem pełen niespodzianek."
+
+# game/day18.rpy:776
+translate polish day18_b_bj_5a37ab2c:
+
+    # p "But next time, you'll swallow when I tell you to."
+    p "Ale następnym razem, masz połknąć kiedy Ci powiem."
+
+# game/day18.rpy:777
+translate polish day18_b_bj_297c5af6:
+
+    # b "Hrmpf!"
+    b "Phi!"
 
 # game/day18.rpy:792
-translate polish day18_m_walking_choices_a62c599d:
+translate polish day18_b_bj_a62c599d:
 
     # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from your sister's cheeks. You can tell from her shocked expression she clearly didn't expect it."
-    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej twarz dużym ładunkiem cum Semen tryska w jej włosy i kapie z policzków twojej siostry Możesz powiedzieć po jej zszokowanym wyrazie, że wyraźnie nie spodziewała się tego."
+    "{i}W ostatniej chwili, wyciągasz swojego penisa z jej ciepłych ust i obryzgujesz jej twarz swoją gęstą spermą. Nasienie trafia na jej włosy i skapuje z jej policzka. Po jej zaskoczonym wyrazie twarzy widzisz, że się tego nie spodziewała."
 
 # game/day18.rpy:794
-translate polish day18_m_walking_choices_b2e22555:
+translate polish day18_b_bj_b2e22555:
 
     # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from [b_name]'s cheeks. You can tell from her shocked expression she clearly didn't expect it."
-    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej twarz dużym ładunkiem spermy Nasienie tryska na jej włosy i kapie z policzków [b_name] Możesz powiedzieć po jej zszokowanym wyrazie twarzy, że wyraźnie nie spodziewała się tego."
+    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej twarz dużym ładunkiem spermy Nasienie tryska na jej włosy i kapie z policzków [b_name] Możesz powiedzieć z jej zszokowanej miny, że najwyraźniej się tego nie spodziewała."
 
-# game/day18.rpy:814
-translate polish day18_m_walking_choices_9a8ba953:
+# game/day18.rpy:795
+translate polish day18_b_bj_aa21c952_1:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah."
+
+# game/day18.rpy:799
+translate polish day18_b_bj_89e82a09:
+
+    # b "Are you done with me?"
+    b "Już ze mną skończyłeś?"
+
+# game/day18.rpy:800
+translate polish day18_b_bj_433e04fb:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Już nic więcej dla Ciebie nie mam, jeśli o to pytasz."
+
+# game/day18.rpy:802
+translate polish day18_b_bj_cdc94c97:
+
+    # b "Are you done degrading me?"
+    b "Już skończyłeś mnie poniżać?"
+
+# game/day18.rpy:803
+translate polish day18_b_bj_433e04fb_1:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Już nic więcej dla Ciebie nie mam, jeśli o to pytasz."
+
+# game/day18.rpy:804
+translate polish day18_b_bj_297c5af6_1:
+
+    # b "Hrmpf!"
+    b "Phi!"
+
+# game/day18.rpy:819
+translate polish day18_b_bj_9a8ba953:
 
     # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto your sister's belly. You can tell from her shocked expression she clearly didn't expect it."
-    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej klatkę piersiową dużym ładunkiem cum Semen kapie z jej piersi na brzuch siostry Możesz powiedzieć po jej zszokowanym wyrazie, że wyraźnie nie spodziewała się tego."
+    "{i}W ostatniej chwili, wyciągasz swojego penisa z jej ciepłych ust i obryzgujesz jej klatkę swoją gęstą spermą. Nasienie skapuje jej z piersi na brzuch. Po jej zaskoczonym wyrazie twarzy widzisz, że się tego nie spodziewała."
 
-# game/day18.rpy:816
-translate polish day18_m_walking_choices_5feec302:
+# game/day18.rpy:821
+translate polish day18_b_bj_5feec302:
 
     # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto [b_name]'s belly. You can tell from her shocked expression she clearly didn't expect it."
-    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej klatkę piersiową dużym ładunkiem cum Semen kapie z jej piersi na brzuch [b_name] Możesz powiedzieć po jej zszokowanym wyrazie twarzy, że wyraźnie nie spodziewała się tego"
+    "{i}W ostatniej chwili wyciągasz swojego kutasa z jej ciepłych ust i spryskujesz jej klatkę piersiową dużym ładunkiem spermy Nasienie kapie z jej piersi na brzuch [b_name] Możesz powiedzieć z jej zszokowanej miny, że najwyraźniej się tego nie spodziewała."
 
-# game/day18.rpy:832
-translate polish day18_m_walking_choices_7b6e1f7f:
+# game/day18.rpy:822
+translate polish day18_b_bj_aa21c952_2:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah."
+
+# game/day18.rpy:826
+translate polish day18_b_bj_89e82a09_1:
+
+    # b "Are you done with me?"
+    b "Już ze mną skończyłeś?"
+
+# game/day18.rpy:827
+translate polish day18_b_bj_433e04fb_2:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Już nic więcej dla Ciebie nie mam, jeśli o to pytasz."
+
+# game/day18.rpy:829
+translate polish day18_b_bj_cdc94c97_1:
+
+    # b "Are you done degrading me?"
+    b "Już skończyłeś mnie poniżać?"
+
+# game/day18.rpy:830
+translate polish day18_b_bj_433e04fb_3:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Już nic więcej dla Ciebie nie mam, jeśli o to pytasz."
+
+# game/day18.rpy:831
+translate polish day18_b_bj_297c5af6_2:
+
+    # b "Hrmpf!"
+    b "Phi!"
+
+# game/day18.rpy:838
+translate polish day18_b_bj_7b6e1f7f:
 
     # "{i}Your sister tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
-    "{i}Twoja siostra odchodzi na palcach zostawiając cię samego na kanapie Po położeniu się szybko zasypiasz ponownie."
+    "{i}Twoja siostra wybiega na palcach z salonu, zostawiając Cię samego na kanapie. Kładziesz się i wkrótce znowu zasypiasz."
 
-# game/day18.rpy:834
-translate polish day18_m_walking_choices_66e33e83:
+# game/day18.rpy:840
+translate polish day18_b_bj_66e33e83:
 
     # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
-    "{i}[b_name] odchodzi na palcach zostawiając cię samego na kanapie Po położeniu się szybko zasypiasz ponownie"
->>>>>>> polish
+    "{i}[b_name] odchodzi na palcach, zostawiając cię samego na kanapie Po położeniu się szybko ponownie zasypiasz."
+
+# game/day18.rpy:856
+translate polish day18_maid_7b79069e:
+
+    # p "{i}(Let's see how our hero and his maid are doing...)"
+    p "{i}(Zobaczmy jak radzi sobie nasz bohater i jego panna...)"
+
+# game/day18.rpy:858
+translate polish day18_maid_1cb6ad89:
+
+    # p "{i}(Let's see what's in there... It says something about management on the cover.)"
+    p "{i}(Zobaczmy co tam jest... Na okładce jest coś o zarządzaniu.)"
+
+# game/day18.rpy:866
+translate polish day18_maid_39553420:
+
+    # "{i}“Clasping her closely against me, I murmured: 'Now, Alice darling, I think the time has come for you to surrender to me your maidenhead... for you to be my bride!' And I kissed her passionately.”"
+    "{i}“Przyciskając ją blisko do siebie, wyszeptałem: 'Teraz, droga Alicjo, myślę że nadszedł czas abyś oddała mi swoją cnotę... abyś stała się mą oblubienicą!' I ucałowałem ją żarliwie.”"
+
+# game/day18.rpy:874
+translate polish day18_maid_1322d82d:
+
+    # p "{i}(Hmmm, he's going to take her virginity. This could be interesting.)"
+    p "{i}(Hmmm, rozdziewiczy ją. To może być interesujące.)"
+
+# game/day18.rpy:876
+translate polish day18_maid_6e093fa3:
+
+    # p "{i}(This is hardcore pornography... Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(To jakaś hardkorowa pornografia... Dlaczego mama czyta takie rzeczy?)"
+
+# game/day18.rpy:877
+translate polish day18_maid_1b28feb2:
+
+    # p "{i}(But he's going to take her virginity. This could be an interesting read.)"
+    p "{i}(Ten ktoś zamierza ją rozdziewiczyć. To może być interesująca lektura.)"
+
+# game/day18.rpy:879
+translate polish day18_maid_e4284b4a:
+
+    # p "{i}(Everybody is at the beach right now and I feel I could rub one out right now while reading the book...)"
+    p "{i}(Wszyscy są teraz na plaży, chętnie bym sobie zwalił do tej lektury...)"
+
+# game/day18.rpy:884
+translate polish day18_maid_b1666fb9:
+
+    # p "{i}(Just for a little while then...)"
+    p "{i}(Chociaż trochę sobie ulżę...)"
+
+# game/day18.rpy:897
+translate polish day18_maid_0c19f907:
+
+    # "{i}“I made as if to place her on her back, whispering: 'Open your legs, dear!' 'No! no! Jack!' Alice ejaculated, struggling to defend herself, and successfully resisting my attempt to roll her over on to her back, 'let me go, dear Jack!”"
+    "{i}“Podjąłem próbę odwrócenia jej na plecy, szepcząc: 'Rozłóż nogi, kochanie!' 'Nie! Nie! Jack!' Wykrzyczała Alicja, wyrywając się zaciekle i sukcesywnie odpierając moje starania, 'Jack! Wypuść mnie!'”"
+
+# game/day18.rpy:898
+translate polish day18_maid_b6c12ba2:
+
+    # "“... surely you have revenged yourself on me sufficiently!' And she endeavoured to rise.”"
+    "{i}“'... ani chybi już wystarczająco mnie zhańbiłeś!' I podjęła próbę uniesienia się.”"
+
+# game/day18.rpy:900
+translate polish day18_maid_dcf543c7:
+
+    # "{i}“I held her down firmly and, in spite of her determined resistance, I got her on her back and myself on her. But she kept her legs so obstinately closed that in the position in which I was, I could not get mine between them.”"
+    "{i}“Przytrzymałem ją stanowczo i wbrew jej zdeterminowanym protestom, ułożyłem ją na plecach i siebie na niej. Ale trzymała swoje nogi tak ściśle zwarte, iż w pozycji, w której się znajdowaliśmy, dostanie się między nie okazało się niemożliwym.”"
+
+# game/day18.rpy:901
+translate polish day18_maid_0bf1ed6d:
+
+    # "{i}“I began to get angry. Gripping her to me till her breasts flattened themselves against my chest, I raised my head and looked her sternly in the eyes.”"
+    "{i}“Rozpoczęła targać mną wściekłość. Przyciskając ją do siebie, aż jej piersi rozpłaszczyły się o moje żebra, uniosłem głowę i spojrzałem jej surowo w oczy.”"
+
+# game/day18.rpy:902
+translate polish day18_maid_86deb0dd:
+
+    # "{i}“'Now, Alice, no more nonsense,' I said brusquely. 'I'm going to fuck you! Yield yourself at once to me and do as I tell you or I shall tie you down on this couch and violate you by force in a way you won't like!'”"
+    "{i}“'Dość tych bzdur Alicjo,' Rzekłem szorstko. 'Wychędożę Cię! W tej chwili poddaj się mej woli i rób co Ci każę albo skrępuję Cię i wmuszę się w Ciebie w sposób, jaki Ci się nie spodoba!'”"
+
+# game/day18.rpy:903
+translate polish day18_maid_e8e46ef9:
+
+    # "{i}“'Now once and for all, are you going to submit or are you not?'”"
+    "{i}“'Decyduj Alicjo. Zaniechasz protestów czy nie?'”"
+
+# game/day18.rpy:904
+translate polish day18_maid_4b577491:
+
+    # "{i}“She closed her eyes in an agony of distress. 'Jack! ... Jack! ...' she murmured brokenly then stopped as if unable to speak in her emotion.”"
+    "{i}“Zamknęła oczy w bezsilnej rozpaczy. 'Jack! ... Jack! ...' wyszeptała drżącym głosem i zamilkła, jakoby niezdolna wykrztusić z siebie cokolwiek więcej w swojej emocji.”"
+
+# game/day18.rpy:913
+translate polish day18_maid_5e04f2e6:
+
+    # p "{i}(I'm still so amazed that [m_name] likes to read this stuff, but I must admit that it gets me rock hard in no-time.)"
+    p "{i}(Dalej jestem w szoku, że mama czyta takie rzeczy, ale muszę przyznać, że to naprawdę podniecające.)"
+
+# game/day18.rpy:914
+translate polish day18_maid_ef038b95:
+
+    # p "{i}(Let's skip ahead a bit.)"
+    p "{i}(Przeskoczmy trochę do przodu.)"
+
+# game/day18.rpy:926
+translate polish day18_maid_0f620af9:
+
+    # "{i}“Gripping her tightly, I got my stiff and excited prick against the lips of her cunt, then pushing steadily, I drove it into Alice, burying its head in her.”"
+    "{i}“Przytrzymując ją twardo, przystawiłem mego naprężonego i podekscytowanego członka do jej pizdy, następnie zdecydowanym pchnięciem, zatopiłem go we we wnętrzu Alicji, wbijając w nią jego główkę.”"
+
+# game/day18.rpy:927
+translate polish day18_maid_26b87456:
+
+    # "{i}“Despite her fearful struggles and rapid movements of her buttocks and hips, I made another thrust, entering still further into her cunt, then felt myself blocked!”"
+    "{i}“Pomimo jej trwożnej szamotaniny oraz żywiołowych ruchów jej zadu i bioder, pchnąłem ponownie, wtłaczając się jeszcze głębiej w jej pizdę, aż napotkałem wyraźną barierę!”"
+
+# game/day18.rpy:928
+translate polish day18_maid_ede421a0:
+
+    # "{i}“Alice screamed agonisedly, 'Oh! ... oh! stop! ... you're hurting me!' throwing herself wildly about in her pain and despair, for she recognised that she was being violated!”"
+    "{i}“Alicja wrzasnęła w agonii, 'Oh!... Oh! Przestań! ... Krzywdzisz mnie!' Rzucając się dziko z bólu i rozpaczy, rozpoznała wszakże iż zostanie sprofanowana!”"
+
+# game/day18.rpy:929
+translate polish day18_maid_cd44c35a:
+
+    # "{i}“Knowing that it was her maiden membrane that was stopping my advance into her, and that this now was the last defence of her virginity, I rammed into her vigorously!”"
+    "{i}“Wiedząc, iż to jej dziewicza błona wstrzymuje moje natarcie, i że to ostatnia bariera jej cnoty, naparłem na nią całą mocą!”"
+
+# game/day18.rpy:930
+translate polish day18_maid_61024364:
+
+    # "{i}“Suddenly I felt something give way inside her and my prick glided well up her cunt, and it did not require the despairing shriek that came from Alice to tell me that I had broken through the last barriers and had conquered her virginity!”"
+    "{i}“Nagle poczułem jak coś ustępuje i mój członek wsuwa się w całości w jej pizdę, desperacki wrzask jaki wydała z siebie Alicja nie był konieczny, abym wiedział iż pokonałem ostatnią barierę i zagarnąłem jej dziewictwo!”"
+
+# game/day18.rpy:937
+translate polish day18_maid_9e33b280:
+
+    # m "{i}(I could've sworn I packed the sunscreen before heading out. Must've left it in the apartment.)"
+    m "{i}(Mogłabym przysiąc, że spakowałam krem do opalania. Musiałam zostawić go w apartamencie.)"
+
+# game/day18.rpy:942
+translate polish day18_maid_a40d63b7:
+
+    # m "{i}(What the... [p_name]?!)"
+    m "{i}(Co do... [p_name]?!)"
+
+# game/day18.rpy:944
+translate polish day18_maid_0c7f0877:
+
+    # m "{i}(Is my boy reading my book and masturbating?)"
+    m "{i}(Czy mój synek właśnie czyta moją książkę i się do niej masturbuje?)"
+
+# game/day18.rpy:946
+translate polish day18_maid_c73ced24:
+
+    # m "{i}(Is [p_name] reading my book and masturbating?)"
+    m "{i}(Czy [p_name] czyta moją książkę i się masturbuje?)"
+
+# game/day18.rpy:955
+translate polish day18_maid_147d18b0:
+
+    # "{i}“Oh! my exultation! At last I had ravished Alice, I had captured her maidenhead, and was now actually fucking her in spite of herself! She, poor girl, lay beneath me, tightly clasped in my arms, a prey to the keenest shame...”"
+    "{i}“Oh! Triumf! Wreszcie posiadłem Alicję, odebrałem jej cnotę, i teraz chędożyłem ją wbrew jej woli! To biedne dziewczę, leżące pode mną, skrępowane w mym uścisku, jako ofiara największej hańby...”"
+
+# game/day18.rpy:956
+translate polish day18_maid_ed041de3:
+
+    # "{i}“...deprived of her maidenhead, transfixed with my prick, her cunt suffering martyrdom from its sudden distension and smarting with the pain of her violation!”"
+    "{i}“...Ograbiona ze swej cnoty, przeszyta mym przyrodzeniem, jej pizda cierpiąca męki w wyniku mego jej nagłego pogwałcenia!”"
+
+# game/day18.rpy:957
+translate polish day18_maid_6eafc778:
+
+    # "{i}“Pitying her, I lay still for some seconds so as to allow the interior of her cunt to stretch a bit, but I was too wrought up and mad with lust to remain inactive long in such surroundings.”"
+    "{i}“Litując się nad nią, leżę w bezruchu przez kilka chwil aby pozwolić nieco rozciągnąć się jej wnętrzu, ale byłem zbyt rozochocony i oszalały z pożądania ażeby wytrwać dłużej w bezczynności.”"
+
+# game/day18.rpy:966
+translate polish day18_maid_5833b715:
+
+    # m "{i}(He seems really into it. Look at him!)"
+    m "{i}(Wygląda, że naprawdę mu się to spodobało. Spójrzcie tylko na niego!)"
+
+# game/day18.rpy:968
+translate polish day18_maid_4ff5e709:
+
+    # m "{i}(My boy has grown big, it seems...)"
+    m "{i}(Mój synek jest już dużym chłopcem...)"
+
+# game/day18.rpy:970
+translate polish day18_maid_df5e3776:
+
+    # m "{i}(He's a big boy, it seems.)"
+    m "{i}(Wygląda na to, że jest dużym chłopcem)"
+
+# game/day18.rpy:971
+translate polish day18_maid_70d7026d:
+
+    # m "{i}(Damnit, what am I thinking?!)"
+    m "{i}(Cholera, o czym ja myślę?!)"
+
+# game/day18.rpy:981
+translate polish day18_maid_582febd5:
+
+    # "{i}“With a final thrust, I sent my prick well home, Alice's hairs and mine interweaving. She shrieked again! Then agitating myself gently on her, I began to fuck her, first with steady strokes of my buttocks...”"
+    "{i}“Ostatnim pchnięciem dopełniam dzieła, włosy Alicji i moje przeplatają się. Znowu wrzeszczy! Potem opierając się o nią lekko, zaczynam ją posuwać, najpierw regularnymi ruchami mych pośladków...”"
+
+# game/day18.rpy:982
+translate polish day18_maid_7457d400:
+
+    # "{i}“...then with more rapid and uneven shoves and thrusts, she quivering under me, overwhelmed by her emotions at thus finding her pure body compelled to become the recipient of my lust and by the strangely delicious pleasure that the movements of my prick inside her cunt were arousing in her!”"
+    "{i}“...Następnie coraz gwałtowniejszymi i nierównymi pchnięciami, wije się pode mną przytłoczona swoimi odczuciami, jej ciało zmuszające ją do poddania się mojej żądzy poprzez nieznaną, dziwną rozkosz, którą budzą w niej ruchy mojego członka w jej piździe!”"
+
+# game/day18.rpy:984
+translate polish day18_maid_749ef453:
+
+    # "{i}“Clasping her yielding figure still more closely against me, I let myself go - thrusting, ramming, shoving and agitating my prick spasmodically in her, I frenziedly set to work to fuck her!”"
+    "{i}“Przyciskając jej wydatną figurę jeszcze bliżej siebie, wyzbywam się wszelkich restrykcji - wpycham, wbijam i wtłaczam w nią spazmatycznie mego członka, chędożąc ją bez opamiętania!”"
+
+# game/day18.rpy:991
+translate polish day18_maid_8795af3b:
+
+    # "{i}“A storm of rapid tumultuous jogs, a half strangled 'oh! ... oh!! ... oh!!! ...' from Alice and I spent deliriously into her, deluging her with my hot discharge...”"
+    "{i}“Nawał krótkich, skrzekliwych, przerywanych 'oh! ... oh!! ... oh!!! ...' wydobywa się z gardła Alicji gdy w ekstazie zaczynam zalewać ją moim gorącym nasieniem...”"
+
+# game/day18.rpy:992
+translate polish day18_maid_3684dd0e:
+
+    # "{i}“...at the same moment feeling the head of my prick christened by the warm gush that burst from Alice as she also frantically spent, punctuating the pulsations of her discharge by voluptuous upheavings of her wildly agitated bottom.”"
+    pass
+
+# game/day18.rpy:1001
+translate polish day18_maid_db42f9b8:
+
+    # p "Aaaah! Fuck yes!"
+    p "Aaaah! O kurwa, tak!"
+
+# game/day18.rpy:1002
+translate polish day18_maid_a61b0c89:
+
+    # m "{i}(Why am I still watching him? I should have given him the privacy he deserves.)"
+    m "{i}(Dlaczego dalej na niego patrzę? Powinnam dać mu trochę prywatności, zasługuje na to.)"
+
+# game/day18.rpy:1003
+translate polish day18_maid_a06fa2b0:
+
+    # m "{i}(But still... That was oddly arousing.)"
+    m "{i}(Ale jednak... To dość podniecające.)"
+
+# game/day18.rpy:1007
+translate polish day18_maid_9c16b614:
+
+    # p "{i}(Damn, that was great!)"
+    p "{i}(Cholera, to było niezłe!)"
+

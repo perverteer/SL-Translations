@@ -92,37 +92,37 @@ translate polish day06_p_room_choices_121edf68:
 translate polish day06_p_room_choices_8aff7610:
 
     # p "I bet when you were young, you were the bossy girl that ordered everyone around."
-    p ""
+    p "Założę się, że kiedy byłaś młoda, byłaś władczą dziewczyną, która wszystkim rozkazywała."
 
 # game/day06.rpy:44
 translate polish day06_p_room_choices_f7638c4f:
 
     # b "What! You couldn't possibly know that!"
-    b ""
+    b "Co! Nie mogłeś tego wiedzieć!"
 
 # game/day06.rpy:45
 translate polish day06_p_room_choices_3a9df29b:
 
     # p "{i} (I knew it!)"
-    p ""
+    p "{i} (Wiedziałem!)"
 
 # game/day06.rpy:46
 translate polish day06_p_room_choices_3d1028df:
 
     # p "Look at this as payback for you bossing your friends around."
-    p ""
+    p "Potraktuj to jako zemstę za to, że rozpieszczasz swoich przyjaciół."
 
 # game/day06.rpy:47
 translate polish day06_p_room_choices_ba2c4db3:
 
     # p "Now you will take some orders from me."
-    p ""
+    p "Teraz przyjmiesz ode mnie kilka rozkazów"
 
 # game/day06.rpy:48
 translate polish day06_p_room_choices_66d64b49_1:
 
     # b "Seriously..."
-    b ""
+    b "Serio..."
 
 # game/day06.rpy:52
 translate polish day06_p_room_choices_d9eea61e:
@@ -254,13 +254,13 @@ translate polish day06_p_room_choices_dda21538:
 translate polish day06_p_room_choices_ceb8fca8:
 
     # b "I'm standing naked in front of someone I barely know!"
-    b ""
+    b "Stoję nago przed kimś, kogo ledwo znam!"
 
 # game/day06.rpy:81
 translate polish day06_p_room_choices_dce41d37:
 
     # p "Yes you are, and you have nothing to be ashamed about, you look like you are in great shape!"
-    p ""
+    p "Tak, jesteś i nie masz się czego wstydzić, wyglądasz, jakbyś był w świetnej formie!."
 
 # game/day06.rpy:82
 translate polish day06_p_room_choices_faa0176a:
@@ -344,7 +344,7 @@ translate polish day06_p_room_choices_377cf8ca:
 translate polish day06_p_room_choices_ed31cfce:
 
     # p "I'm guessing you tickled your friends until they were crying and you wouldn't let up until they said 'uncle'!"
-    p ""
+    p "Zgaduję, że łaskotałeś swoich przyjaciół, aż płakali i nie odpuszczałeś, dopóki nie powiedzieli 'wujek'!."
 
 # game/day06.rpy:103
 translate polish day06_p_room_choices_75c622b7:
@@ -356,7 +356,7 @@ translate polish day06_p_room_choices_75c622b7:
 translate polish day06_p_room_choices_ebb5fd9d:
 
     # p "That came out rather weak, [b_name], so I guess there's some truth in it."
-    p ""
+    p "To wyszło raczej słabo [b_name], więc myślę, że jest w tym trochę prawdy."
 
 # game/day06.rpy:105
 translate polish day06_p_room_choices_7bef181a:
@@ -986,7 +986,7 @@ translate polish day06_coffee_11a587de:
 translate polish day06_coffee_a36e1aa8:
 
     # j "What if you meet Mrs. Smith when you waltz in there?"
-    j ""
+    j "A co, jeśli spotkasz panią Smith, kiedy tam wejdziesz?"
 
 # game/day06.rpy:301
 translate polish day06_coffee_4dc99957:
@@ -1166,7 +1166,7 @@ translate polish day06_coffee_e9245982:
 translate polish day06_coffee_dd114495:
 
     # j "Hey, [b_name] is working again today. She's coming over."
-    j ""
+    j "Hej, [b_imię] znowu dzisiaj pracuje i przyjdzie"
 
 # game/day06.rpy:345
 translate polish day06_coffee_c90052e9:
@@ -1442,7 +1442,7 @@ translate polish day06_cinema_5a9f5e58:
 translate polish day06_cinema_0ab9720a:
 
     # r "That girl and those two boys have a very weird relationship, don't you think?"
-    r ""
+    r "Ta dziewczyna i ci dwaj chłopcy mają bardzo dziwny związek, nie sądzisz?"
 
 # game/day06.rpy:425
 translate polish day06_cinema_8b8fd10f:
@@ -1544,7 +1544,7 @@ translate polish day06_cinema_e00c849d:
 translate polish day06_cinema_266476c7:
 
     # r "Wait... Is he fucking her while the other one watches?"
-    r ""
+    r "Czekaj, czy on ją pieprzy, podczas gdy drugi patrzy?"
 
 # game/day06.rpy:453
 translate polish day06_cinema_2e4a0e78:
@@ -2030,7 +2030,7 @@ translate polish day06_night_visit_choices_dd6e9165:
 translate polish day06_night_visit_choices_d6f55af7:
 
     # p "{i}(Hey [b_name]! Had a nice day at work? I bet you did...)"
-    p ""
+    p "{i}(Hej [b_name]! Miałeś miły dzień w pracy? Założę się, że tak)"
 
 # game/day06.rpy:629
 translate polish day06_night_visit_choices_0be7c307:
@@ -2186,7 +2186,7 @@ translate polish day06_night_visit_choices_1038ffa9:
 translate polish day06_night_visit_choices_05ceced8:
 
     # p "{i}(No one fucks with my friends that way!)"
-    p ""
+    p "{i}(Nikt nie pieprzy się z moimi przyjaciółmi w ten sposób!)"
 
 # game/day06.rpy:670
 translate polish day06_night_visit_choices_52e5d554:
@@ -2474,7 +2474,7 @@ translate polish day06_r_p_sleep_12301a34:
 translate polish day06_r_p_sleep_531b54f2:
 
     # r "Don't worry! You can say anything."
-    r ""
+    r "Nie martw się! Możesz powiedzieć wszystko"
 
 # game/day06.rpy:815
 translate polish day06_r_p_sleep_d3a3f278:
@@ -2711,4 +2711,120 @@ translate polish strings:
     # game/day06.rpy:275
     old "Secretary"
     new "Sekretarka"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day06.rpy:395
+translate polish day06_coffee_7036dc1c:
+
+    # p "Two coffees, please."
+    p "Dwie kawy proszę."
+
+# game/day06.rpy:400
+translate polish day06_coffee_7036dc1c_1:
+
+    # p "Two coffees, please."
+    p "Dwie kawy proszę."
+
+# game/day06.rpy:613
+translate polish day06_night_visit_choices_d3e9a2f0:
+
+    # p "{i}(Shit, she's still awake...)"
+    p "{i}(Cholera, ona dalej nie śpi...)"
+
+# game/day06.rpy:643
+translate polish day06_night_visit_choices_e46d3fff:
+
+    # p "{i}(Sweet dreams, [r_name]...)"
+    p "{i}(Słodkich snów Rachel...)"
+
+# game/day06.rpy:740
+translate polish day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Lepiej poszukam ekscytacji w innym miejscu.)"
+
+# game/day06.rpy:747
+translate polish day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Słyszysz pukanie do drzwi."
+
+# game/day06.rpy:748
+translate polish day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Proszę."
+
+# game/day06.rpy:750
+translate polish day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Cześć. Ja... Emm... Myślałam o tym filmie i pomyślałam, że może... Moglibyśmy dotrzymać sobie towarzystwa?"
+
+# game/day06.rpy:751
+translate polish day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "Masz na myśli, w nocy?"
+
+# game/day06.rpy:752
+translate polish day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "No tak głupku!"
+
+# game/day06.rpy:753
+translate polish day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "Po prostu czasem jest tak samotnie i bardzo bym chciała mieć kogoś przy swoim boku."
+
+# game/day06.rpy:754
+translate polish day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "W tym filmie to wydawało się tak naturalne."
+
+# game/day06.rpy:755
+translate polish day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "{i}(Ten dramat naprawdę na nią wpłynął...)"
+
+# game/day06.rpy:761
+translate polish day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "To świetny pomysł."
+
+# game/day06.rpy:762
+translate polish day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "Yay! Mam nadzieję, że lubisz się przytulać!"
+
+# game/day06.rpy:763
+translate polish day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "Uwielbiam."
+
+# game/day06.rpy:769
+translate polish day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "To raczej nie jest dobry pomysł. Co jeśli ktoś nas zobaczy?"
+
+# game/day06.rpy:770
+translate polish day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Oh..."
+
+# game/day06.rpy:771
+translate polish day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "W takim razie, dobrej nocy."
 

@@ -1859,3 +1859,53 @@ translate polish day02_l_conversation_ed2b1c48:
 
     # "{i}Hearing the sounds coming from [r_name]'s room, you gather that [r_name] and friends have returned from their shopping expedition."
     "{i}Słyszycie głosy dochodzące z pokoju obok, widocznie Rachel i jej przyjaciółki już wróciły z zakupów."
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day02.rpy:751
+translate polish day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Dlaczego Susan czyta takie rzeczy?)"
+
+# game/day02.rpy:752
+translate polish day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(I czytała to na kanapie w salonie... Niewiarygodne.)"
+
+# game/day02.rpy:753
+translate polish day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Ciekawe co jeszcze ukrywa.)"
+
+# game/day02.rpy:755
+translate polish day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(Moja nowa rodzina z każdym momentem staje się coraz bardziej interesująca...)"
+
+# game/day02.rpy:757
+translate polish day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(Moi nowi znajomi robią się coraz bardziej interesujący...)"
+
+# game/day02.rpy:769
+translate polish day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(Nie ma tu nic do zobaczenia. Lepiej już pójdę.)"
+
+# game/day02.rpy:779
+translate polish day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Wracasz do swojego pokoju i idziesz spać."
+
+# game/day02.rpy:781
+translate polish day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Postanawiasz być dojrzałym człowiekiem i pójść prosto do łóżka."
+

@@ -386,7 +386,7 @@ translate polish extra_scene_03_4535f02b:
 translate polish extra_scene_03_010ccf03:
 
     # "{i}She runs the dildo along her pussy lips and you see the toy is already glistening with her juices."
-    ""
+    "{i}Przesuwa dildo wzdłuż warg jej cipki i widać, że zabawka już lśni od jej soków."
 
 # game/extras.rpy:155
 translate polish extra_scene_03_cbaa21eb:
@@ -482,7 +482,7 @@ translate polish extra_scene_03_1122a7b8:
 translate polish extra_scene_03_82527b6c:
 
     # p "Go right ahead, my dirty little [b_name]."
-    p ""
+    p "Śmiało, mój brudny mały [b_name]"
 
 # game/extras.rpy:184
 translate polish extra_scene_03_5054cf96:
@@ -518,7 +518,7 @@ translate polish extra_scene_03_ee0739fa:
 translate polish extra_scene_03_60d459b7:
 
     # "{i}[b_name] appears to be too tired to respond. She just lies there, the occasional shudder going through her body and staring at you in perfect bliss."
-    ""
+    "{i}[b_name] wydaje się być zbyt zmęczona, by odpowiedzieć, po prostu leży, od czasu do czasu jej ciałem wstrząsa dreszcz i wpatruje się w ciebie w doskonałej błogości."
 
 # game/extras.rpy:197
 translate polish extra_scene_03_8c5d616e:
@@ -2060,7 +2060,7 @@ translate polish extra_scene_09_5c567d1a:
 translate polish extra_scene_09_7bb64bcc:
 
     # "{i}Your girl walks towards an overgrown area with a pond and disappears between some bushes."
-    ""
+    "{i}Twoja dziewczyna idzie w kierunku zarośniętego obszaru ze stawem i znika między krzakami."
 
 # game/extras.rpy:675
 translate polish extra_scene_09_dee80e7f:
@@ -2162,7 +2162,7 @@ translate polish extra_scene_09_6c56d4f2:
 translate polish extra_scene_09_6aab080b:
 
     # "{i}Your voices are barely a whisper and the people on the path pass without noticing you. As soon as they're out of earshot you teasingly kiss [r_name]'s moist skin."
-    ""
+    "{i}Wasze głosy są ledwie szeptem, a ludzie na ścieżce mijają was niezauważeni. Gdy tylko znikną z zasięgu słuchu, drażniąco całujesz wilgotną skórę [r_name]."
 
 # game/extras.rpy:702
 translate polish extra_scene_09_726e2c35:
@@ -2222,7 +2222,7 @@ translate polish extra_scene_09_9bd0b167:
 translate polish extra_scene_09_1f989253:
 
     # "{i}You don't stop licking her, heightening her orgasm and get to taste your girl completely."
-    ""
+    "{i}Nie przestawaj jej lizać, zwiększając jej orgazm i całkowicie posmakuj swojej dziewczyny."
 
 # game/extras.rpy:719
 translate polish extra_scene_09_625cda73:
@@ -2342,7 +2342,7 @@ translate polish extra_scene_10_4f7559cf:
 translate polish extra_scene_10_c301a63b:
 
     # "{i}[b_name] strips for you and gives you a good look at her perfect butt."
-    ""
+    "{i}[b_name] rozbiera się dla ciebie i pokazuje ci swój idealny tyłek."
 
 # game/extras.rpy:755
 translate polish extra_scene_10_61f303f5:
@@ -2402,7 +2402,7 @@ translate polish extra_scene_10_f8eba3dc:
 translate polish extra_scene_10_80e2a887:
 
     # "{i}As you position yourself behind your friend, your cock nestles between her ass cheeks."
-    ""
+    "{i}Kiedy ustawiasz się za swoją przyjaciółką, twój kutas wciska się między jej policzki."
 
 # game/extras.rpy:771
 translate polish extra_scene_10_5b612c46:
@@ -2516,7 +2516,7 @@ translate polish extra_scene_10_7453469f:
 translate polish extra_scene_10_1c530a6d:
 
     # p "Is this what you want? Me fucking your wet slit?"
-    p ""
+    p "Czy tego właśnie chcesz? Ja pieprzę twoją mokrą szczelinę?"
 
 # game/extras.rpy:800
 translate polish extra_scene_10_fa782a64:
@@ -3698,7 +3698,7 @@ translate polish extra_scene_14_20251b86:
 translate polish extra_scene_14_bb00635c:
 
     # "{i}[r_name] stands close to you, the bare skin of her legs brushing against your flaccid member."
-    ""
+    "{i}[r_name] stoi blisko ciebie, goła skóra jej nóg ociera się o twojego zwiotczałego członka."
 
 # game/extras.rpy:1176
 translate polish extra_scene_14_dd8e5268:
@@ -3770,7 +3770,7 @@ translate polish extra_scene_14_abfef0ca:
 translate polish extra_scene_14_f13aaafc:
 
     # "{i}[r_name] pays extra attention to the head of your cock, her tongue lingering on all the sensitive spots."
-    ""
+    "{i}[r_name] zwraca szczególną uwagę na główkę twojego kutasa, jej język zatrzymuje się na wszystkich wrażliwych miejscach."
 
 # game/extras.rpy:1194
 translate polish extra_scene_14_e73ea621:
@@ -3926,7 +3926,7 @@ translate polish extra_scene_14_0b301e20:
 translate polish extra_scene_14_54a32b57:
 
     # "{i}Holding [r_name] tightly you feel her orgasm developing and it overtakes her whole body."
-    ""
+    "{i}Trzymając [r_name] mocno, czujesz, jak jej orgazm rozwija się i ogarnia całe jej ciało."
 
 # game/extras.rpy:1237
 translate polish extra_scene_14_2837e5d4:
@@ -4532,7 +4532,7 @@ translate polish extra_scene_16_7462ead1:
 translate polish extra_scene_16_537e9714:
 
     # "{i}[m_name] notices your battle with approval and enhances your pleasure by licking the tip of your cock."
-    ""
+    "{i}[m_name] zauważa twoją walkę z aprobatą i zwiększa twoją przyjemność, liżąc czubek twojego kutasa."
 
 # game/extras.rpy:1428
 translate polish extra_scene_16_65388bec:
@@ -4562,7 +4562,7 @@ translate polish extra_scene_16_ed300db5:
 translate polish extra_scene_16_5355880c:
 
     # "{i}Despite the passion of your kiss, she manages to keep massaging your cock with her breasts, a feeling that fuels your desires to the very limit."
-    ""
+    "{i}Pomimo namiętności waszego pocałunku udaje jej się masować twojego kutasa swoimi piersiami, co podsyca twoje pragnienia do granic możliwości."
 
 # game/extras.rpy:1439
 translate polish extra_scene_16_ca070d54:
@@ -4628,7 +4628,7 @@ translate polish extra_scene_16_2f28b921:
 translate polish extra_scene_16_570c1527:
 
     # "{i}Although you never want to leave the luxurious confines of her breasts, the inevitable moment of discharge is sooner upon you then you realize."
-    ""
+    "{i}Chociaż nigdy nie chcesz opuścić luksusowych granic jej piersi, nieunikniony moment rozładowania nadejdzie szybciej, niż zdajesz sobie sprawę."
 
 # game/extras.rpy:1459
 translate polish extra_scene_16_e2b74aa3:
@@ -4766,7 +4766,7 @@ translate polish extra_scene_17_07b4f040:
 translate polish extra_scene_17_24466bd8:
 
     # "{i}[b_name] proceeds to kiss your shaft, until she reaches the tip and treats it with her tongue."
-    ""
+    "{i}[b_name] kontynuuje całowanie twojego trzonu, aż dotrze do czubka i potraktuje go językiem."
 
 # game/extras.rpy:1504
 translate polish extra_scene_17_afb963f0:
@@ -4832,7 +4832,7 @@ translate polish extra_scene_17_b091c914:
 translate polish extra_scene_17_3a0b7604:
 
     # "{i}The stimulation of her pussy distracts [b_name] from sucking your cock and instead she lifts her head to savor the pleasure."
-    ""
+    "{i}Stymulacja jej cipki odwraca uwagę [b_name] od ssania twojego kutasa i zamiast tego unosi głowę, by delektować się przyjemnością."
 
 # game/extras.rpy:1523
 translate polish extra_scene_17_bd613753:
@@ -4862,7 +4862,7 @@ translate polish extra_scene_17_a068e1c4:
 translate polish extra_scene_17_f3f756d1:
 
     # "{i}Your mind is suddenly occupied with a single thought, fucking your sweet girlfriend's pussy."
-    ""
+    "{i}Twój umysł jest nagle zajęty jedną myślą, pieprzeniem cipki twojej słodkiej dziewczyny."
 
 # game/extras.rpy:1532
 translate polish extra_scene_17_4641f5f3:
@@ -4916,7 +4916,7 @@ translate polish extra_scene_17_0ae530f1:
 translate polish extra_scene_17_bc23db60:
 
     # "{i}Your girlfriend orgasms wildly and you're forced to grab her middle and lift her bodily up and down, to pick up her ferocious rhythm."
-    ""
+    "{i}Twoja dziewczyna osiąga dziki orgazm, a ty jesteś zmuszony chwycić ją za środek i podnosić w górę i w dół, aby utrzymać jej dziki rytm."
 
 # game/extras.rpy:1550
 translate polish extra_scene_17_efa72ee4:
@@ -5552,7 +5552,7 @@ translate polish extra_scene_19_ec843c2a:
 translate polish extra_scene_19_d23c71fd:
 
     # "{i}Suddenly, [m_name] rises from the bed and before you know it she straddles your head with her thighs."
-    ""
+    "{i}Nagle [m_name] wstaje z łóżka i zanim się zorientujesz, obejmuje twoją głowę udami."
 
 # game/extras.rpy:1788
 translate polish extra_scene_19_8cc31837:
@@ -5582,7 +5582,7 @@ translate polish extra_scene_19_3f8422da:
 translate polish extra_scene_19_85e28ee4:
 
     # "{i}Despite your recent body-wracking orgasm you're instantly aroused by all the sensations caused by [m_name] sitting on your face."
-    ""
+    "{i}Pomimo niedawnego orgazmu, który wstrząsnął twoim ciałem, jesteś natychmiast podniecony wszystkimi doznaniami spowodowanymi przez [m_name] siedzącego na twojej twarzy."
 
 # game/extras.rpy:1797
 translate polish extra_scene_19_3117a519:
@@ -5612,7 +5612,7 @@ translate polish extra_scene_19_ef29b8ae:
 translate polish extra_scene_19_b658480f:
 
     # "{i}[m_name] doesn't hesitate, pressing the full weight of her body, heavy with your child, down on your face for several seconds as you treat her slit with your probing tongue."
-    ""
+    "{i}[m_name] nie waha się naciskać całym ciężarem swojego ciała z dzieckiem na twoją twarz przez kilka sekund, podczas gdy ty traktujesz jej szczelinę swoim sondującym językiem."
 
 # game/extras.rpy:1811
 translate polish extra_scene_19_1b57f6f6:
@@ -5624,7 +5624,7 @@ translate polish extra_scene_19_1b57f6f6:
 translate polish extra_scene_19_503be892:
 
     # "{i}[m_name] doesn't hesitate, pressing the full weight of her body down on your face for several seconds as you treat her slit with your probing tongue."
-    ""
+    "{i}[m_name] nie waha się naciskać całym ciężarem swojego ciała na twoją twarz przez kilka sekund, gdy badasz jej szczelinę językiem"
 
 # game/extras.rpy:1814
 translate polish extra_scene_19_fb7f01c3:
@@ -5660,7 +5660,7 @@ translate polish extra_scene_19_487b7870:
 translate polish extra_scene_19_9966b808:
 
     # "{i}As her orgasm is released, [m_name] grinds her pussy even more forcefully into your face."
-    ""
+    "{i}Gdy jej orgazm zostaje uwolniony, [m_name] jeszcze mocniej wciska swoją cipkę w twoją twarz."
 
 # game/extras.rpy:1832
 translate polish extra_scene_19_0023c877:
@@ -5702,7 +5702,7 @@ translate polish extra_scene_19_fa36d0eb:
 translate polish extra_scene_19_b481de1b:
 
     # "{i}You try to think of boring things to delay your orgasm, but the magnificence of her pregnant body makes it hard to concentrate on anything else."
-    ""
+    "{i}Próbujesz myśleć o nudnych rzeczach, aby opóźnić swój orgazm, ale wspaniałość jej ciężarnego ciała sprawia, że trudno jest skoncentrować się na czymkolwiek innym."
 
 # game/extras.rpy:1844
 translate polish extra_scene_19_33fb3d9f:
@@ -5714,7 +5714,7 @@ translate polish extra_scene_19_33fb3d9f:
 translate polish extra_scene_19_1ad82955:
 
     # "{i}You try to think of boring things to delay your orgasm, but the magnificence of her body makes it hard to concentrate on anything else."
-    ""
+    "{i}Próbujesz myśleć o nudnych rzeczach, aby opóźnić swój orgazm, ale wspaniałość jej ciała sprawia, że trudno jest skoncentrować się na czymkolwiek innym."
 
 # game/extras.rpy:1847
 translate polish extra_scene_19_452f5c9d:
@@ -5744,7 +5744,7 @@ translate polish extra_scene_19_043cfbf2:
 translate polish extra_scene_19_e35cd1ef:
 
     # m "What do you think Adriana, is this boy a good lover?"
-    m ""
+    m "Jak myślisz Adriana, czy ten chłopak jest dobrym kochankiem?"
 
 # game/extras.rpy:1858
 translate polish extra_scene_19_d54e76ef:
@@ -5870,7 +5870,7 @@ translate polish extra_scene_19_4f64d83d:
 translate polish extra_scene_19_c877d8de:
 
     # "{i}After she masturbates for several minutes she begins moving again with increasing excitement."
-    ""
+    "{i}Po kilku minutach masturbacji ponownie zaczyna się poruszać z rosnącym podnieceniem."
 
 # game/extras.rpy:1893
 translate polish extra_scene_19_8cea0375:
@@ -5906,7 +5906,7 @@ translate polish extra_scene_19_80de4421:
 translate polish extra_scene_19_7894919e:
 
     # "{i}As [m_name]'s vagina convulses and she moans deeply while still fingering her clit, you blast her full of cum."
-    ""
+    "{i}Gdy pochwa [m_name] wpada w konwulsje, a ona jęczy głęboko, wciąż palcując łechtaczkę, wysadzasz ją pełną spermy."
 
 # game/extras.rpy:1907
 translate polish extra_scene_19_f78d9535:
@@ -5966,7 +5966,7 @@ translate polish extra_scene_20_9c8f0c55:
 translate polish extra_scene_20_8d9ea6b9:
 
     # "{i}Surprising yourself and [l_name] you suddenly pull out."
-    ""
+    "{i}Zaskakując siebie i [l_name] nagle się wycofujesz"
 
 # game/extras.rpy:1940
 translate polish extra_scene_20_ed560297:
@@ -6020,7 +6020,7 @@ translate polish extra_scene_20_509985e4:
 translate polish extra_scene_20_0c0a3f88:
 
     # "{i}You don't want her to cum just yet, so you decide to take things a little further by pushing at her boundaries a little."
-    ""
+    "{i}Nie chcesz, żeby jeszcze doszła, więc decydujesz się pójść trochę dalej, przesuwając nieco jej granice."
 
 # game/extras.rpy:1963
 translate polish extra_scene_20_6998affa:
@@ -6074,7 +6074,7 @@ translate polish extra_scene_20_91f14f06:
 translate polish extra_scene_20_ef4db2f8:
 
     # "{i}All resistance suddenly flees [l_name] as you lick and penetrate her with your tongue."
-    ""
+    "{i}Wszelki opór nagle znika, gdy liżesz i penetrujesz ją językiem."
 
 # game/extras.rpy:1979
 translate polish extra_scene_20_9c743737:
@@ -6122,7 +6122,7 @@ translate polish extra_scene_20_4354e684:
 translate polish extra_scene_20_5d9c0f8e:
 
     # "{i}She reaches between her legs and begins to finger her pussy."
-    ""
+    "{i}Sięga między nogi i zaczyna palcować swoją cipkę."
 
 # game/extras.rpy:1998
 translate polish extra_scene_20_a3e007a9:
@@ -6164,7 +6164,7 @@ translate polish extra_scene_20_dad33acd:
 translate polish extra_scene_20_bdb2dd1a:
 
     # "{i}You teeter at the edge of orgasm for the duration of your girlfriend's blowjob."
-    ""
+    "{i}Balansujesz na krawędzi orgazmu przez cały czas obciągania swojej dziewczynie."
 
 # game/extras.rpy:2013
 translate polish extra_scene_20_c1d1366c:
@@ -7150,733 +7150,725 @@ translate polish strings:
     old "Creampie Sabine"
     new "Spuść się w Sabine"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/extras.rpy:35
+# game/extras.rpy:45
 translate polish extra_scene_01_6485531e:
 
     # "{i}Every muscle in [m_name]'s body tenses, and she shudders with the release of her orgasm."
-    "{i}Każdy mięsień w ciele [m_name] napina się, a ona sama drży z uwolnienia swojego orgazmu."
+    "{i}Napina się każdy mięsień w ciele Susan i zaczyna drżeć, przeżywając swój orgazm."
 
-# game/extras.rpy:68
+# game/extras.rpy:93
 translate polish extra_scene_02_76c9f29a:
 
     # "{i}You force Alina's upper body towards you by pulling her hair and whisper in her ear."
-    "{i}Zmuszasz górną część ciała Aliny do siebie, ciągnąc ją za włosy i szepczesz jej do ucha."
+    "{i}Przyciągasz górną część ciała Aliny do siebie, ciągnąc ją za włosy. I szepczesz jej do ucha."
 
-# game/extras.rpy:94
+# game/extras.rpy:124
 translate polish extra_scene_02_e6a0d5e2:
 
     # "{i}All of the muscles in her body seem to tighten and relax rapidly. Your dick is stimulated by the convulsing muscles of her vagina, and you feel you're ready to shoot another big load."
-    "{i}Wszystkie mięśnie w jej ciele wydają się zaciskać i rozluźniać gwałtownie Twój kutas jest stymulowany przez konwulsyjne mięśnie jej pochwy i czujesz, że jesteś gotów wystrzelić kolejny duży ładunek"
+    "{i}Wszystkie mięśnie jej ciała wydają się szybko napinać i rozluźniać. Twój kutas jest stymulowany przez zaciskające się mięśnie jej pochwy i czujesz, że jesteś gotowy wypełnić ją kolejną salwą spermy."
 
-# game/extras.rpy:101
+# game/extras.rpy:135
 translate polish extra_scene_02_ddf4b8e9:
 
     # "{i}With a roar, you grab Alina's lithe waist and pull her towards you, making a final, desperate thrust with your throbbing penis. Cum shoots deep into her vagina as Alina's own climax reaches its absolute height."
-    "{i}Z rykiem chwytasz Aliny lithe talii i pociągnij ją do siebie podejmowania ostateczne desperackie pchnięcie z pulsującym penisa Cum strzela głęboko w jej pochwy, jak Alina własnej kulminacji osiąga swój absolutny szczyt."
+    "{i}Z rykiem chwytasz gibką talię Aliny i przyciągasz ją do siebie, wykonując ostatnie, desperackie pchnięcie swoim pulsującym penisem. Twoje nasienie wylewa się głęboko w jej wnętrzu, podczas kulminacji jej orgazmu."
 
-# game/extras.rpy:119
+# game/extras.rpy:158
 translate polish extra_scene_02_645a3875:
 
     # "{i}Smiling sweetly, Alina swallows all of your seed."
-    "{i}Uśmiechając się słodko Alina połyka całe twoje nasienie"
+    "{i}Alina połyka wszystko, słodko się uśmiechając."
 
-# game/extras.rpy:130
+# game/extras.rpy:170
 translate polish extra_scene_02_6dd5053c:
 
     # p "You have pleased me. But make no mistake, you're still a bad little cum slut, and I will discipline you further."
-    p "You have pleased me But make no mistake you're still a bad little cum slut and I will discipline you further"
+    p "Zadowoliłaś mnie. Ale nie myśl sobie, nadal jesteś niegrzeczną, łaknącą spermy kurewką, już ja Cię wytresuję."
 
-# game/extras.rpy:151
+# game/extras.rpy:201
 translate polish extra_scene_03_ddf38bfb:
 
     # "{i}Your sister runs the dildo along her pussy lips, and you see the toy is already glistening with her juices."
-    "{i}Twoja siostra prowadzi dildo wzdłuż jej warg cipki i widzisz, że zabawka jest już lśniąca z jej sokami."
+    "{i}Twoja siostra przesuwa dildo po wargach swojej cipki i widzisz, że zabawka już błyszczy od jej soków."
 
-# game/extras.rpy:153
+# game/extras.rpy:203
 translate polish extra_scene_03_0463f0fc:
 
     # "{i}She runs the dildo along her pussy lips, and you see the toy is already glistening with her juices."
-    "{i}Biegnie dildo wzdłuż jej warg cipki i widać, że zabawka jest już lśniąca jej sokami."
+    "{i}Przesuwa dildo wzdłuż warg jej cipki i widać, że zabawka już lśni od jej soków."
 
-# game/extras.rpy:159
+# game/extras.rpy:209
 translate polish extra_scene_03_4c1426d5:
 
     # "{i}Very slowly, [b_name] inserts the dildo into her pussy while holding her breath. When the black toy is completely inside her vagina, she exhales."
-    "{i}Bardzo powoli [b_name] wkłada dildo do swojej cipki wstrzymując oddech Gdy czarna zabawka jest całkowicie w jej pochwie robi wydech"
+    "{i}Bardzo powoli Bella wsuwa dildo do swojej cipki, jednocześnie wstrzymując oddech. Kiedy czarna zabawka jest już całkowicie w jej pochwie, wypuszcza powietrze."
 
-# game/extras.rpy:162
+# game/extras.rpy:214
 translate polish extra_scene_03_3fc37686:
 
     # "{i}With one hand, [b_name] moves the dildo in and out of her pussy, the other hand stimulating her clitoris."
-    "{i}Jedną ręką [b_name] porusza dildo w i z jej cipki drugą ręką stymulując jej łechtaczkę"
+    "{i}Jedną ręką [b_name] wsuwa i wysuwa dildo ze swojej cipki, a drugą stymuluje łechtaczkę."
 
-# game/extras.rpy:164
+# game/extras.rpy:216
 translate polish extra_scene_03_f53a63ed:
 
     # "{i}At first, the dildo moves very slowly in and out of her, but she soon starts penetrating her cunt more violently while also applying more pressure on her clit."
-    "{i}Początkowo dildo porusza się bardzo powoli w i z niej, ale wkrótce zaczyna penetrować jej cipę bardziej gwałtownie, jednocześnie wywierając większy nacisk na jej clit"
+    "{i}Na początku rusza dildem bardzo powoli, ale wkrótce zaczyna gwałtowniej penetrować swoją cipkę, jednocześnie wywierając coraz większy nacisk na łechtaczkę."
 
-# game/extras.rpy:170
+# game/extras.rpy:222
 translate polish extra_scene_03_ba8e9cc3:
 
     # p "First, I want you to taste yourself. Put that toy in your pretty little mouth."
-    p "Najpierw chcę, żebyś posmakowała siebie Włóż tę zabawkę do swoich ślicznych ust"
+    p "Najpierw chcę, żebyś się posmakowała. Włóż tę zabawkę do swoich ślicznych ust."
 
-# game/extras.rpy:215
+# game/extras.rpy:291
 translate polish extra_scene_04_bc9e01ea:
 
     # "{i}You fuck her hard in that position until it puts too much strain on your legs. Suddenly you grab Hazel and lift her off the couch."
-    "{i}Pieprzysz ją mocno w tej pozycji, aż do momentu, gdy zbytnio obciąża twoje nogi Nagle chwytasz Hazel i podnosisz ją z kanapy."
+    "{i}Ostro pieprzysz ją w tej pozycji, aż zaczyna to nadmiernie obciążać Twoje nogi. Nagle łapiesz Hazel i podnosisz ją z kanapy."
 
-# game/extras.rpy:237
+# game/extras.rpy:316
 translate polish extra_scene_04_a9f5cf1f:
 
     # "{i}Her body almost goes limp with the power of her second orgasm, but you keep thrusting your cock into her while pressing her body down."
-    "{i}Jej ciało niemalże wiotczeje z mocą drugiego orgazmu, ale ty nadal wbijasz w nią swojego kutasa, jednocześnie dociskając jej ciało"
+    "{i}Jej ciało prawie wiotczeje pod wpływem jej drugiego orgazmu, ale wciąż wpychasz w nią swojego kutasa, jednocześnie napierając na jej ciało."
 
-# game/extras.rpy:254
+# game/extras.rpy:340
 translate polish extra_scene_04_e0725013:
 
     # "{i}After those words several spurts of cum shoot out of your dick and splash on Hazel's delirious face. After all that happened before, you didn't think you were capable of such a large cumshot, but Hazel's face is soon drenched in a veritable bath of your semen."
-    "{i}Po tych słowach kilka spurts of cum shoot out of your dick and splash on Hazel's delirious face After all that happened before you didn't think you were capable of such large cumshot but Hazel's face is soon drenched in a veritable bath of your semen"
+    "{i}Po tych słowach kilka strumieni spermy wystrzeliwuje z Twojego penisa i rozpryskuje się na urzeczonej twarzy Hazel. Po wszystkim, co wydarzyło się wcześniej, nie myślałeś, że jesteś zdolny do tak dużego wytrysku, ale twarz Hazel wkrótce spływa obficie Twoim nasieniem."
 
-# game/extras.rpy:279
+# game/extras.rpy:374
 translate polish extra_scene_05_611ebbca:
 
     # al "Yes. While masturbating, I've been practicing on my little asshole for you."
-    al "Tak Podczas masturbacji ćwiczyłem na mojej małej dupce dla Ciebie"
+    al "Tak. Podczas masturbacji ćwiczyłam dla Ciebie moją ciasną dupkę."
 
-# game/extras.rpy:285
+# game/extras.rpy:382
 translate polish extra_scene_05_f9556ca8:
 
     # "{i}Alina drops to her knees and takes the full length of your dick inside her mouth. You thrust your penis down her throat, and she starts gagging and producing thick strings of saliva."
-    "{i}Alina opada na kolana i bierze całą długość twojego kutasa do środka ust Pchasz swojego penisa w jej gardło, a ona zaczyna kneblować i produkować grube struny śliny"
+    "{i}Alina pada na kolana i bierze całego Twojego penisa do ust. Wbijasz się w jej gardło, dziewczyna zaczyna się krztusić i gęsto ślinić."
 
-# game/extras.rpy:286
+# game/extras.rpy:383
 translate polish extra_scene_05_a4a387a6:
 
     # "{i}When you decide your dick is wet enough for her asshole, you pull out and slap Alina on her butt forcefully guiding her into a better position for her to receive your cock."
-    "{i}Kiedy zdecydujesz, że twój kutas jest wystarczająco mokry dla jej dupy wyciągasz się i klepiesz Alinę po tyłku siłą prowadząc ją do lepszej pozycji dla niej, aby otrzymać twojego kutasa"
+    "{i}Kiedy dochodzisz do wniosku, że Twój kutas jest już wystarczająco mokry, wyciągasz go z jej ust i dajesz jej mocnego klapsa w tyłek, ustawiając ją w lepszej pozycji na przyjęcie Twojego fiuta."
 
-# game/extras.rpy:301
+# game/extras.rpy:404
 translate polish extra_scene_05_29c1cbf0:
 
     # "{i}Alina's asshole is tight around your throbbing cock, and you feel you can't hold out much longer."
-    "{i}Dupa Aliny jest ciasna wokół twojego pulsującego kutasa i czujesz, że nie możesz wytrzymać dłużej."
+    "{i}Odbyt Aliny zaciska się ciasno wokół Twojego pulsującego penisa i czujesz, że nie dasz rady dłużej wytrzymać."
 
-# game/extras.rpy:331
+# game/extras.rpy:441
 translate polish extra_scene_05_7dcbbebb:
 
     # "{i}As you near your climax, you start to pound her asshole even more violently. The bed creaks, and Alina screams at the top of her lungs with a mixture of searing pain and absolute pleasure."
-    "{i}W miarę zbliżania się do punktu kulminacyjnego zaczynasz walić w jej dupę jeszcze gwałtowniej Łóżko skrzypi, a Alina krzyczy na szczycie płuc z mieszaniną rozdzierającego bólu i absolutnej przyjemności."
+    "{i}Kiedy zbliżasz się do orgazmu, zaczynasz posuwać jej odbyt jeszcze gwałtowniej. Łóżko skrzypi, Alina krzyczy na całe gardło z palącego bólu i absolutnej przyjemności."
 
-# game/extras.rpy:385
+# game/extras.rpy:513
 translate polish extra_scene_06_ingame_aa1fc053:
 
     # "{i}Because of your erection, it takes a while to be able to do it but pretty soon, a powerful stream of piss rains down on Rebeca."
-    "{i}Z powodu twojej erekcji trwa to chwilę, ale całkiem szybko potężny strumień szczyn pada na Rebecę."
+    "{i}Z powodu Twojej erekcji potrzeba trochę czasu, żebyś mógł zacząć, ale wkrótce potężny strumień sików spada na Rebekę."
 
-# game/extras.rpy:387
+# game/extras.rpy:515
 translate polish extra_scene_06_ingame_d142ae39:
 
     # "{i}Urine covers her large breasts, streaming in rivulets down her belly and thighs. Rebeca starts rubbing her pussy, her pubic hair already slick with your piss and glistens in the moonlight."
-    "{i}Mocz obejmuje jej duże piersi strumienia w rivulets dół jej brzucha i ud Rebeca zaczyna pocierać jej cipki jej włosy łonowe już slick z Twojego piss i lśni w świetle księżyca."
+    "{i}Mocz pokrywa jej duże piersi, spływając strumieniami po brzuchu i udach. Rebeca zaczyna pocierać swoją cipkę, a jej włosy łonowe są już śliskie od twoich szczyn i błyszczą w świetle księżyca."
 
-# game/extras.rpy:393
+# game/extras.rpy:524
 translate polish extra_scene_06_ingame_30e2bc7e:
 
     # "{i}Rebeca starts by giving a little show for you, she massages her breasts and stiff nipples while slowly lowering her other hand to her pussy. As soon as she begins rubbing her pussy, her back arches, and an almost inaudible whine of desire escapes the back of her throat."
-    "{i}Rebeca zaczyna dając mały pokaz dla Ciebie ona masuje jej piersi i sztywne sutki podczas powoli obniżając jej drugą rękę do jej cipki Jak tylko zaczyna pocierać jej cipki jej plecy łuki i prawie niesłyszalny jęk pożądania ucieka z tyłu jej gardła"
+    "{i}Rebeka zaczyna od zrobienia Ci małego pokazu, masuje swoje piersi i sztywne sutki, jednocześnie opuszczając powoli drugą rękę do swojej cipki. Gdy tylko zaczyna pocierać swoją łechtaczkę, jej plecy wyginają się w łuk, a z gardła wydobywa się pełen pożądania jęk."
 
-# game/extras.rpy:401
+# game/extras.rpy:536
 translate polish extra_scene_06_ingame_456ad64b:
 
     # "{i}Rebeca obliges, and you slip your throbbing dick inside her warm pussy, the piss acting as a further lubricant. She wriggles and moans in delight, pushing her ass upwards, attempting to engulf your entire manhood."
-    "{i}Rebeca zobowiązuje i poślizg swój pulsujący kutas wewnątrz jej ciepłej cipki szczyn działając jako dalszy smar Ona wije się i jęczy w rozkoszy pchając jej tyłek do góry próbując pochłonąć całą swoją męskość"
+    "{i}Rebeka spełnia Twoją prośbę, a Ty wsuwasz swojego pulsującego penisa do jej ciepłej cipki, Twój mocz dodatkowo ułatwia penetrację. Kobieta wije się i jęczy z zachwytu, wypychając swój tyłek w górę, próbując pochłonąć całą Twoją męskość."
 
-# game/extras.rpy:403
+# game/extras.rpy:538
 translate polish extra_scene_06_ingame_f2c97708:
 
     # "{i}Your first motions are deliberate. Gripping her by her ass, you slowly push your rod into her, all the way to the base, on each stroke. Her skin is still slippery from the shower she received from you, and your cock makes wet sounds when it pounds her vagina."
-    "{i}Twoje pierwsze ruchy są celowe Chwytając ją za jej tyłek powoli wepchnąć swój pręt do niej całą drogę do podstawy na każdym skoku Jej skóra jest jeszcze śliska od prysznica otrzymała od Ciebie i twój kogut sprawia, że mokre dźwięki, gdy uderza jej pochwy."
+    "{i}Twoje pierwsze ruchy są precyzyjne. Chwytasz ją za tyłek i powoli wbijasz w nią swojego fiuta, aż po samą nasadę, przy każdym pchnięciu. Jej skóra wciąż jest śliska po złotym prysznicu, który jej zafundowałeś, a Twój kutas wydaje mokre dźwięki, przy każdym uderzeniu w jej cipkę."
 
-# game/extras.rpy:405
+# game/extras.rpy:540
 translate polish extra_scene_06_ingame_6ca846af:
 
     # "{i}Rebeca obliges, and you slip your throbbing dick inside her warm pussy, her moisture already lubricating her entire passage. She wriggles and moans in delight, pushing her ass upwards, attempting to engulf your entire manhood."
-    "{i}Rebeca zobowiązuje i poślizg swój pulsujący kutas wewnątrz jej ciepłej cipki jej wilgoć już smarowanie jej cały przejazd Ona wije się i jęczy w rozkoszy pchanie jej tyłek do góry próbując objąć cały swój męskość"
+    "{i}Rebeka spełnia Twoją prośbę, a Ty wsuwasz swojego pulsującego penisa do jej ciepłej cipki, jest cała wilgotna i nie napotykasz większego oporu. Kobieta wije się i jęczy z zachwytu, wypychając swój tyłek w górę, próbując pochłonąć całą Twoją męskość."
 
-# game/extras.rpy:407
+# game/extras.rpy:542
 translate polish extra_scene_06_ingame_a48435cf:
 
     # "{i}Your first motions are deliberate. Gripping her by her ass, you slowly push your rod into her, all the way to the base, on each stroke."
-    "{i}Twoje pierwsze ruchy są celowe Chwytając ją za tyłek powoli wpychasz w nią swój pręt aż do podstawy przy każdym uderzeniu."
+    "{i}Twoje pierwsze ruchy są celowe. Chwytając ją za tyłek, powoli wsuwasz w nią swój pręt aż do podstawy przy każdym pociągnięciu."
 
-# game/extras.rpy:415
+# game/extras.rpy:550
 translate polish extra_scene_06_ingame_c7c5c68d:
 
     # "{i}Deciding it's time to stimulate her g-spot directly, you hammer it with short rough thrusts. Rebeca breathes in little gasps, and claws at the urine soaked bed sheets."
-    "{i}Decydując, że nadszedł czas, aby stymulować jej punkt g bezpośrednio młotkiem go z krótkimi szorstkich pchnięć Rebeca oddycha w małych gazach i pazury na moczu nasączone pościeli"
+    "{i}Decydując się na bezpośrednią stymulację jej punktu G, wbijasz się w nią krótkimi, ostrymi pchnięciami. Rebeka dyszy cicho i wbija palce w przesiąkniętą moczem pościel."
 
-# game/extras.rpy:417
+# game/extras.rpy:552
 translate polish extra_scene_06_ingame_88b07ed3:
 
     # "{i}Deciding it's time to stimulate her g-spot directly, you hammer it with short rough thrusts. Rebeca breathes in little gasps, and claws at the bed sheets."
-    "{i}Decydując, że nadszedł czas, aby stymulować jej punkt g bezpośrednio ty młotkiem go z krótkimi szorstkich pchnięć Rebeca oddycha w małych gazach i pazury na pościeli"
+    "{i}Decydując się na bezpośrednią stymulację jej punktu G, wbijasz się w nią krótkimi, ostrymi pchnięciami. Rebeka dyszy cicho i wbija palce w pościel."
 
-# game/extras.rpy:423
+# game/extras.rpy:564
 translate polish extra_scene_06_ingame_f1c59af6:
 
     # "{i}Rebeca erupts in trembling ecstasy, and her violent orgasm forces your dick out of her contracting pussy. It's followed by a steady stream of her ejaculate splashing all over your penis, thighs and pelvic area."
-    "{i}Rebeca wybucha w drżeniu ekstazy i jej gwałtowny orgazm zmusza twojego kutasa z jej kurczącej się cipki To następuje przez stały strumień jej ejakulatu rozpryskującego się po całym twoim penisie udach i obszarze miednicy"
+    "{i}Rebeka zaczyna drżeć i wstrząsa nią potężna ekstaza, jej gwałtowny orgazm wypycha Twojego penisa z jej zaciskającej się cipki. W tym momencie tryska sokami, obryzgując Twojego penisa, uda i miednicę."
 
-# game/extras.rpy:438
+# game/extras.rpy:585
 translate polish extra_scene_06_ingame_fa9d37a3:
 
     # "{i}She stares right into your eyes with unbridled lust, and you feel she's close to orgasm again. You grab her hips and pull her down hard each time starts her downstroke, ramming the entire length of your cock inside of her."
-    "{i}Ona wpatruje się prosto w twoje oczy z niepohamowaną żądzą i czujesz, że jest bliska orgazmu ponownie chwytasz jej biodra i ciągniesz ją w dół mocno za każdym razem zaczyna jej downstroke ramming całą długość swojego koguta wewnątrz niej"
+    "{i}Patrzy Ci prosto w oczy z niepohamowaną żądzą i czujesz, że zaraz znowu dojdzie. Chwytasz ją za biodra i mocno nabijasz ją na swojego penisa, za każdym razem, gdy zaczyna się opuszczać, wbijając się w nią na całą długość."
 
-# game/extras.rpy:474
+# game/extras.rpy:648
 translate polish extra_scene_07_c47d8dd8:
 
     # "{i}Riley clearly enjoys your kisses and offers her breasts. Her nipples are still rock-hard, so you give them the attention they deserve."
-    "{i}Riley wyraźnie cieszy się twoimi pocałunkami i oferuje swoje piersi Jej sutki są nadal twarde jak skała, więc dajesz im uwagę, na którą zasługują."
+    "{i}Riley wyraźnie podobają się Twoje pocałunki i przysuwa do Ciebie swoje piersi, jej sutki są wciąż twarde jak skała, więc poświęcasz im uwagę, na jaką zasługują."
 
-# game/extras.rpy:608
+# game/extras.rpy:807
 translate polish extra_scene_08_346b73ae:
 
     # "{i}[m_name] climaxes on Adriana's fluid-slathered face and pushes the girl's head even closer against her convulsing vagina, encouraging Adriana to keep stimulating her clitoris."
-    "{i}[m_name] kulminuje na pokrytej płynem twarzy Adriany i przyciska głowę dziewczyny jeszcze bliżej do swojej konwulsyjnej pochwy zachęcając Adrianę do dalszej stymulacji łechtaczki"
+    "{i}[m_name] osiąga punkt kulminacyjny na pokrytej płynem twarzy Adriany i przyciska głowę dziewczyny jeszcze bliżej do jej konwulsyjnej pochwy, zachęcając Adrianę do dalszego stymulowania łechtaczki."
 
-# game/extras.rpy:632
+# game/extras.rpy:835
 translate polish extra_scene_08_0a9015d8:
 
     # m "Lie down, and I'll allow you to cum."
-    m "Połóż się, a ja pozwolę ci na kumoterstwo."
+    m "Połóż się, pozwolę Ci dojść."
 
-# game/extras.rpy:647
+# game/extras.rpy:856
 translate polish extra_scene_08_f53a6486:
 
     # "{i}Adriana is still lying on the floor when [m_name] has taken her position on the sofa again. The younger girl's body still twitches from time to time, and she wears a joyous smile on her face."
-    "{i}Adriana wciąż leży na podłodze, gdy [m_name] ponownie zajęło miejsce na kanapie Ciało młodszej dziewczyny wciąż drga od czasu do czasu, a na twarzy nosi radosny uśmiech"
+    "{i}Adriana wciąż leży na podłodze, kiedy Susan ponownie zajmuje swoje miejsce na sofie. Ciało młodszej dziewczyny wciąż od czasu do czasu drży, a na jej twarzy pojawia się radosny uśmiech."
 
-# game/extras.rpy:663
+# game/extras.rpy:883
 translate polish extra_scene_09_b5098716:
 
     # r "I was hoping you'd do that. There was a queue for the ladies though."
-    r "Miałem nadzieję, że to zrobisz Była jednak kolejka dla pań"
+    r "Miałem nadzieję, że to zrobisz, ale była kolejka dla pań."
 
-# game/extras.rpy:678
+# game/extras.rpy:898
 translate polish extra_scene_09_4c534d92:
 
     # "{i}Slowly, you remove her bikini, caressing her soft skin as you do it. Goosebumps appear all over her body, and her nipples stand firmly erect."
-    "{i}Powoli zdejmujesz jej bikini, pieszcząc jej miękką skórę, gdy to robisz Gęsia skórka pojawia się na całym jej ciele, a jej sutki stoją mocno wyprostowane."
+    "{i}Powoli zdejmujesz jej bikini, pieszcząc przy tym jej miękką skórę. Na jej całym ciele pojawia się gęsia skórka, a jej sutki robią się twarde."
 
-# game/extras.rpy:680
+# game/extras.rpy:900
 translate polish extra_scene_09_01419fef:
 
     # "{i}You lie her down on the soft grass and make her comfortable. A chorus of frogs croaks in the distance, and the leaves of the trees rustle in the wind."
-    "{i}Położysz ją na miękkiej trawie i ułożysz wygodnie Chór żab rechocze w oddali, a liście drzew szeleszczą na wietrze"
+    "{i}Kładziesz ją wygodnie na miękkiej trawie. W oddali słychać rechot żab, liście drzew szeleszczą na wietrze."
 
-# game/extras.rpy:699
+# game/extras.rpy:921
 translate polish extra_scene_09_f3bd71d4:
 
     # "{i}Your voices are barely a whisper, and the people on the path pass without noticing you. As soon as they're out of earshot, you teasingly kiss your sister's moist skin."
-    "{i}Wasze głosy są ledwie szeptem, a ludzie na ścieżce mijają was nie zauważając Jak tylko znikną z pola widzenia, drażniąco całujesz wilgotną skórę siostry"
+    "{i}Mówicie ledwie słyszalnym szeptem, ludzie przechodzą po ścieżce obok, nie zauważając was. Gdy tylko znajdują się poza zasięgiem słuchu, drażniąco całujesz wilgotną skórę swojej siostry."
 
-# game/extras.rpy:701
+# game/extras.rpy:923
 translate polish extra_scene_09_c1bf1b35:
 
     # "{i}Your voices are barely a whisper, and the people on the path pass without noticing you. As soon as they're out of earshot, you teasingly kiss [r_name]'s moist skin."
-    "{i}Wasze głosy są ledwie szeptem, a ludzie na ścieżce przechodzą nie zauważając was Jak tylko znajdą się poza zasięgiem słuchu, drażniąco całujesz wilgotną skórę [r_name]"
+    "{i}Wasze głosy są ledwie szeptem, a ludzie na ścieżce mijają was niezauważeni. Gdy tylko znikną z zasięgu słuchu, drażniąco całujesz wilgotną skórę [r_name]."
 
-# game/extras.rpy:707
+# game/extras.rpy:929
 translate polish extra_scene_09_f1615e32:
 
     # "{i}When you feel it's time for her to cum, you focus your attention fully on her clitoris. First you suck on her swollen little bean, and then you massage it with the tip of your tongue."
-    "{i}Kiedy czujesz, że nadszedł czas na jej cum skupiasz swoją uwagę w pełni na jej łechtaczce Najpierw ssiesz jej nabrzmiałą fasolkę, a potem masujesz ją czubkiem języka"
+    "{i}Kiedy czujesz, że niedługo dojdzie, całkowicie skupiasz swoją uwagę na jej łechtaczce. Najpierw ssiesz jej nabrzmiały guziczek, a następnie masujesz go czubkiem języka."
 
-# game/extras.rpy:714
+# game/extras.rpy:939
 translate polish extra_scene_09_eabba952:
 
     # "{i}Her last words are barely audible as she whimpers and stirs violently. Finally, the orgasm overtakes her body, and she erupts in your face."
-    "{i}Jej ostatnie słowa są ledwo słyszalne, jak ona skomle i miesza gwałtownie W końcu orgazm ogarnia jej ciało i ona wybucha w twojej twarzy."
+    "{i}Jej ostatnie słowa są już ledwo słyszalne, gdy skomle i wije się gwałtownie. W końcu orgazm ogarnia jej ciało i szczytuje na Twojej twarzy."
 
-# game/extras.rpy:716
+# game/extras.rpy:941
 translate polish extra_scene_09_b3484bef:
 
     # "{i}You don't stop licking her, heightening her orgasm and getting to taste your sister completely."
-    "{i}Nie przestajesz jej lizać zwiększając jej orgazm i dostając się do smaku swojej siostry całkowicie."
+    "{i}Nie przestawaj jej lizać, zwiększając jej orgazm i całkowicie smakując swoją siostrę."
 
-# game/extras.rpy:718
+# game/extras.rpy:943
 translate polish extra_scene_09_ca1f3666:
 
     # "{i}You don't stop licking her, heightening her orgasm and getting to taste your girl completely."
-    "{i}Nie przestajesz jej lizać potęgując jej orgazm i dochodząc do smaku swojej dziewczyny całkowicie."
+    "{i}Nie przestawaj jej lizać, zwiększając jej orgazm i całkowicie smakując swoją dziewczynę."
 
-# game/extras.rpy:764
+# game/extras.rpy:1000
 translate polish extra_scene_10_77d1cba9:
 
     # "{i}[b_name] obliges, and when you're satisfied, you maneuver her onto the couch."
-    "{i}[b_name] zobowiązuje, a kiedy jesteś zadowolony, manewrujesz ją na kanapie."
+    "{i}Bella posłusznie spełnia Twoje polecenie i kiedy jesteś już zadowolony z wyników jej pracy, prowadzisz ją na kanapę."
 
-# game/extras.rpy:772
+# game/extras.rpy:1008
 translate polish extra_scene_10_8f7d60d9:
 
     # p "Only when you're ready for it, and you're not."
-    p "Tylko wtedy, gdy jesteś na to gotowy, a nie jesteś"
+    p "Tylko wtedy, kiedy będziesz na to gotowa, a nie jesteś."
 
-# game/extras.rpy:776
+# game/extras.rpy:1014
 translate polish extra_scene_10_18a038f5:
 
     # "{i}Grabbing her by her sides, you slide your erection inside her warm pussy. [b_name] clenches her teeth at first but relaxes as she adjusts to your girth."
-    "{i}Chwytając ją za boki wsuwasz swoją erekcję do środka jej ciepłej cipki [b_name] zaciska zęby na początku, ale rozluźnia się, gdy dostosowuje się do twojego obwodu"
+    "{i}Chwytając ją za biodra, wsuwasz swoją erekcję do jej ciepłej cipki. Bella najpierw zaciska zęby, ale rozluźnia się, gdy dostosowuje się do Twojego rozmiaru."
 
-# game/extras.rpy:783
+# game/extras.rpy:1024
 translate polish extra_scene_10_0bb521bf:
 
     # "{i}Her last words have real conviction, and you reward her with slow, measured thrusts, allowing her to feel the pleasure of every inch of your veined shaft."
-    "{i}Jej ostatnie słowa mają prawdziwe przekonanie i nagradzasz ją powolnymi, mierzonymi pchnięciami pozwalającymi jej odczuwać przyjemność z każdego cala twojego żyłkowanego wału."
+    "{i}Ostatnie słowa wypowiada z prawdziwym przekonaniem i nagradzasz ją powolnymi, wyważonymi pchnięciami, pozwalając jej rozkoszować się każdym centymetrem Twojego trzonu."
 
-# game/extras.rpy:789
+# game/extras.rpy:1032
 translate polish extra_scene_10_9daaf8ce:
 
     # "{i}Of course you have no intention of doing that. Once she's used to your rhythm you suddenly pull out and spin her around."
-    "{i}Oczywiście nie masz zamiaru tego robić Gdy już przyzwyczaiła się do twojego rytmu nagle wyciągasz i obracasz ją dookoła"
+    "{i}Oczywiście nie masz zamiaru tego robić, gdy już przyzwyczai się do twojego rytmu, nagle wyciągasz ją i obracasz."
 
-# game/extras.rpy:812
+# game/extras.rpy:1061
 translate polish extra_scene_10_0481934b:
 
     # "{i}Your sister wriggles and squirms to maximize the impact of your attacks on her g-spot. It stimulates your cock as well, and you feel your orgasm approaching."
-    "{i}Twoja siostra wije się i squirms, aby zmaksymalizować wpływ twoich ataków na jej g-spot To stymuluje twój kogut, jak również i czujesz swój orgazm zbliża"
+    "{i}Twoja siostra wije się i wierci, aby zmaksymalizować wpływ Twoich pchnięć na jej punkt G. To stymuluje również Twojego kutasa i czujesz jak zbliża się Twój orgazm."
 
-# game/extras.rpy:814
+# game/extras.rpy:1063
 translate polish extra_scene_10_1fa163e4:
 
     # "{i}[b_name] wriggles and squirms to maximize the impact of your attacks on her g-spot. It stimulates your cock as well, and you feel your orgasm approaching."
-    "{i}[b_name] wije się i wierci, aby zmaksymalizować wpływ twoich ataków na jej punkt g. To stymuluje również twojego kutasa i czujesz zbliżający się orgazm"
+    "{i}Bella wije się i wierci, aby zmaksymalizować wpływ Twoich pchnięć na jej punkt G. To stymuluje również Twojego kutasa i czujesz jak zbliża się Twój orgazm."
 
-# game/extras.rpy:836
+# game/extras.rpy:1098
 translate polish extra_scene_10_b62fa506:
 
     # "{i}While [b_name] is still orgasming, you pull out of her wet cunt and explode rope after rope of cum toward her head. [b_name] still has the presence of mind to grasp you and direct the volley towards her face as you keep releasing cum on her until the last convulsions of your cock have passed."
-    "{i}Podczas gdy [b_name] wciąż orgazmuje, wyciągasz się z jej mokrej cipy i eksplodujesz liną za liną spermy w kierunku jej głowy [b_name] wciąż ma przytomność umysłu, by chwycić cię i skierować salwę w kierunku jej twarzy, gdy uwalniasz spermę na nią, aż ostatnie konwulsje twojego kutasa miną."
+    "{i}Podczas gdy Bella dalej przeżywa swój orgazm, wysuwasz się z jej mokrej cipki i zaczynasz strzelać strumieniami spermy w kierunku jej głowy. Bella jest wystarczająco przytomna, żeby Cię chwycić i skierować salwę nasienia na swoją twarz, obryzgujesz ją swoją spermą, aż mijają ostatnie skurcze Twojego kutasa."
 
-# game/extras.rpy:924
+# game/extras.rpy:1213
 translate polish extra_scene_11_0630007b:
 
     # l "{i}(Maybe I'll talk about it with [p_name] in the morning... I'm so sleepy right now...)"
-    l "{i}(Może porozmawiam o tym z [p_name] rano jestem teraz tak senny)"
+    l "{i}(Może [p_name] mógłby mi to wyjaśnić, rano... Teraz jestem już taka śpiąca...)"
 
-# game/extras.rpy:944
+# game/extras.rpy:1241
 translate polish extra_scene_12_b6c235c4:
 
     # "{i}Not a minute has passed, and already the floor is covered in pieces of clothing. You pause for a while, admiring Megan's body, your cock stirring visibly."
-    "{i}Nie minęła minuta, a już podłoga jest pokryta kawałkami ubrań Zatrzymujesz się na chwilę podziwiając ciało Megan twój kogut miesza się widocznie"
+    "{i}Nie mija minuta, a wasze ubrania już lądują na podłodze. Przystajesz na moment, podziwiając ciało Megan, Twój kutas wyraźnie się rusza."
 
-# game/extras.rpy:960
+# game/extras.rpy:1264
 translate polish extra_scene_12_58e8b6b7:
 
     # "{i}Megan alternates between massaging her breasts and her swollen clitoris. The harder you plow her, the bigger the smile on her face grows."
-    "{i}Megan na przemian masuje jej piersi i jej nabrzmiałą łechtaczkę Im mocniej ją zaorasz tym większy uśmiech na jej twarzy rośnie"
+    "{i}Megan na przemian masuje swoje piersi i nabrzmiałą łechtaczkę Im mocniej ją orzesz, tym większy uśmiech pojawia się na jej twarzy."
 
-# game/extras.rpy:986
+# game/extras.rpy:1305
 translate polish extra_scene_12_6627f6a8:
 
     # "{i}You manage three desperate thrusts delivering cum deep inside her until you nearly collapse on top of her, your limping cock resting against Megan's vagina, which is oozing cream."
-    "{i}Można zarządzać trzy desperackie pchnięcia dostarczanie cum głęboko w niej, aż prawie upadku na szczycie jej swoje kulejące kogut odpoczynku przed Megan pochwy, która jest oozing krem."
+    "{i}Udaje Ci się wykonać jeszcze trzy desperackie pchnięcia, wpompowując spermę głęboko do jej wnętrza i prawie się na nią wywracasz, Twój wiotczejący kutas opiera się o cipkę Megan, z której sączy się sperma"
 
-# game/extras.rpy:1045
+# game/extras.rpy:1379
 translate polish extra_scene_13_24efb6a5:
 
     # ir "I've locked the door, and if we close the garage doors..."
-    ir "Zamknąłem drzwi i jeśli zamkniemy bramy garażowe"
+    ir "Zamknęłam drzwi i jeśli zamkniemy też drzwi garażowe..."
 
-# game/extras.rpy:1136
+# game/extras.rpy:1498
 translate polish extra_scene_13_3bf03a3b:
 
     # "{i}After you pull out, Iris eagerly uses your semen, that's slowly leaking out of her, as lube to massage her clitoris."
-    "{i}Po wyciągnięciu Iris chętnie używa twojego nasienia, które powoli wycieka z niej jako lubrykantu do masażu łechtaczki."
+    "{i}Po twoim wyjściu Iris chętnie używa twojego nasienia, które powoli z niej wycieka, jako lubrykantu do masażu łechtaczki."
 
-# game/extras.rpy:1162
+# game/extras.rpy:1530
 translate polish extra_scene_13_2261aa43:
 
     # "{i}You nearly forget to hand over the keys to Iris, but after doing so, you head back home."
-    "{i}Prawie zapominasz oddać klucze Iris, ale po zrobieniu tego kierujesz się z powrotem do domu."
+    "{i}Prawie zapominasz oddać Iris klucze, ale po zrobieniu tego wracasz do domu."
 
-# game/extras.rpy:1189
+# game/extras.rpy:1562
 translate polish extra_scene_14_f029bcb1:
 
     # "{i}Smiling, [r_name] folds her lips around your cock, and from that moment on, you're at full strength again."
-    "{i}Uśmiechnięta [r_name] składa swoje usta wokół twojego kutasa i od tego momentu znów jesteś w pełni sił."
+    "{i}Uśmiechnięta [r_name] składa usta wokół twojego kutasa i od tego momentu znów jesteś w pełni sił."
 
-# game/extras.rpy:1207
-translate polish extra_scene_14_1ba49ebb:
-
-    # "{i}You're desire fuels the deep thrusts, and after a sensuous beginning, you fuck her harder than ever before."
-    "{i}Twoje pożądanie napędza głębokie pchnięcia i po zmysłowym początku pieprzysz ją mocniej niż kiedykolwiek wcześniej"
-
-# game/extras.rpy:1213
-translate polish extra_scene_14_ad5582cf:
-
-    # p "No, of course not."
-    p "Nie oczywiście, że nie"
-
-# game/extras.rpy:1218
-translate polish extra_scene_14_3219d285:
-
-    # "{i}Inserting your cock again in her wet pussy feels so incredible that you want to do it over and over again."
-    "{i}Wkładając swojego kutasa ponownie w jej mokrą cipkę czuje się tak niesamowicie, że chcesz to robić w kółko."
-
-# game/extras.rpy:1234
-translate polish extra_scene_14_55bf5033:
-
-    # "{i}Holding your sister tightly, you feel her orgasm developing as it overtakes her whole body."
-    "{i}Trzymając siostrę mocno czujesz jak jej orgazm rozwija się, jak ogarnia całe jej ciało"
-
-# game/extras.rpy:1236
-translate polish extra_scene_14_4be54186:
-
-    # "{i}Holding [r_name] tightly, you feel her orgasm developing as it overtakes her whole body."
-    "{i}Trzymając [r_name] mocno czujesz jak jej orgazm rozwija się, jak ogarnia całe jej ciało"
-
-# game/extras.rpy:1238
-translate polish extra_scene_14_3b530d7d:
-
-    # "{i}That doesn't prove very hard, and less than a minute after [r_name] climaxed, you're ready as well."
-    "{i}To nie okazuje się bardzo trudne i mniej niż minutę po [r_name] climaxed jesteś gotowy, jak również"
-
-# game/extras.rpy:1246
-translate polish extra_scene_14_c8588aef:
-
-    # "{i}During the last two or three thrusts inside her, your cock starts to shoot semen, and you nearly collapse on top of her because of the sensations that are overpowering your body."
-    "{i}Podczas ostatnich dwóch lub trzech pchnięć wewnątrz niej twój kutas zaczyna strzelać nasieniem i prawie padasz na nią z powodu doznań, które obezwładniają twoje ciało."
-
-# game/extras.rpy:1276
-translate polish extra_scene_15_7e69eb4b:
-
-    # le "Thought so. Besides, what you just did in here would have probably given that reverend a heart attack."
-    le "Thought so Besides what you just did in here would probably have given that reverend a heart attack"
-
-# game/extras.rpy:1297
-translate polish extra_scene_15_42b26032:
-
-    # "{i}The sight of both girls touching each other has an immediate effect on your cock. Both girls notice your erection with approval."
-    "{i}Widok obu dziewczyn dotykających się nawzajem ma natychmiastowy wpływ na twojego kutasa Obie dziewczyny zauważają twoją erekcję z aprobatą"
-
-# game/extras.rpy:1322
-translate polish extra_scene_15_fef88d38:
-
-    # "{i}Her slit is slippery wet, and your cock slips out of her when you're about to start another volley of deep thrusts."
-    "{i}Jej szczelina jest ślisko mokra, a twój kutas wysuwa się z niej, gdy masz zamiar rozpocząć kolejną salwę głębokich pchnięć."
-
-# game/extras.rpy:1412
-translate polish extra_scene_16_0c434bc6:
-
-    # m "Do you want to play with them all day long while I stroke that fat hard cock of yours?"
-    m "Czy chcesz się nimi bawić przez cały dzień, podczas gdy ja będę głaskał tego twojego grubego, twardego kutasa?."
-
-# game/extras.rpy:1421
-translate polish extra_scene_16_94c31362:
-
-    # "{i}The slit between [m_name]'s breasts is as tight as a maiden's pussy, and you struggle not to cum after such a short while."
-    "{i}Rozcięcie między piersiami [m_name] jest ciasne jak cipka panny i walczysz, by nie spuścić się po tak krótkiej chwili."
-
-# game/extras.rpy:1439
-translate polish extra_scene_16_660ee6e1:
-
-    # "{i}With a growl, you push her backwards, and when she's lying down, you slide your cock between her squeezed breasts again."
-    "{i}Z warknięciem odpychasz ją do tyłu i kiedy leży, ponownie wsuwasz kutasa między jej ściśnięte piersi."
-
-# game/extras.rpy:1480
-translate polish extra_scene_17_cca43844:
-
-    # b "I know, and I hate it."
-    b "Wiem i nienawidzę tego"
-
-# game/extras.rpy:1504
-translate polish extra_scene_17_bf25edda:
-
-    # "{i}While she has her attention on your cock, you help her undress herself and slowly manoeuver her to the bed."
-    "{i}Podczas gdy ona ma swoją uwagę na twoim kutasie pomagasz jej się rozebrać i powoli manewrujesz ją na łóżko."
-
-# game/extras.rpy:1518
-translate polish extra_scene_17_d2fb0b52:
-
-    # "{i}The stimulation of her pussy distracts your sister from sucking your cock, and instead, she lifts her head to savor the pleasure."
-    "{i}Stymulacja jej cipki odciąga twoją siostrę od ssania twojego kutasa i zamiast tego podnosi głowę, by delektować się przyjemnością."
-
-# game/extras.rpy:1520
-translate polish extra_scene_17_73aed884:
-
-    # "{i}The stimulation of her pussy distracts [b_name] from sucking your cock, and instead, she lifts her head to savor the pleasure."
-    "{i}Stymulacja jej cipki odwraca uwagę [b_name] od ssania twojego kutasa i zamiast tego podnosi głowę, by delektować się przyjemnością."
-
-# game/extras.rpy:1547
-translate polish extra_scene_17_975cba9c:
-
-    # "{i}Your sister orgasms wildly, and you're forced to grab her middle and lift her bodily up and down to pick up her ferocious rhythm."
-    "{i}Twoja siostra orgazmuje dziko i jesteś zmuszony chwycić jej środek i podnieść jej ciało w górę i w dół, aby odebrać jej dziki rytm."
-
-# game/extras.rpy:1549
-translate polish extra_scene_17_65c04e17:
-
-    # "{i}Your girlfriend orgasms wildly, and you're forced to grab her middle and lift her bodily up and down to pick up her ferocious rhythm."
-    "{i}Twoja dziewczyna orgazmuje dziko i jesteś zmuszony złapać jej środek i podnieść jej ciało w górę i w dół, aby odebrać jej dziki rytm."
-
-# game/extras.rpy:1551
-translate polish extra_scene_17_475fb58e:
-
-    # "{i}The constrictions prove to be too much for you as well, and you feel your climax coming up."
-    "{i}Zwężenia okazują się zbyt duże również dla ciebie i czujesz, że zbliża się twój punkt kulminacyjny"
-
-# game/extras.rpy:1603
-translate polish extra_scene_17_fe2f8c42:
-
-    # "{i}After [b_name] leaves the room, you get dressed again for the second time today."
-    "{i}Po wyjściu [b_name] z pokoju ubierasz się ponownie po raz drugi w dniu dzisiejszym."
-
-# game/extras.rpy:1632
-translate polish extra_scene_18_7aad0707:
-
-    # "{i}It takes you surprisingly little time to send Iris over the edge, and she suddenly clenches your head between her thighs."
-    "{i}Zajmuje ci zaskakująco mało czasu, aby wysłać Iris nad krawędzią, a ona nagle zaciska twoją głowę między swoimi udami."
-
-# game/extras.rpy:1635
-translate polish extra_scene_18_eab53504:
-
-    # "{i}Iris explodes in your face, and you're treated to a wealth of pussy juice as you keep sucking her clit."
-    "{i}Iris eksploduje w twojej twarzy i jesteś traktowany do bogactwa soku cipki, jak nadal ssać jej clit"
-
-# game/extras.rpy:1652
-translate polish extra_scene_18_fa049378:
-
-    # "{i}Kneading the luscious flesh of her ass and hips, you find a rhythm that provides maximum pleasure for you both."
-    "{i}Ugniatając soczyste ciało jej tyłka i bioder znajdujesz rytm, który zapewnia maksymalną przyjemność dla was obojga."
-
-# game/extras.rpy:1653
-translate polish extra_scene_18_4ed30f04:
-
-    # "{i}Her warm pussy wraps around your cock perfectly, and the sensations make Iris breathe shallowly, eyes rolled backward."
-    "{i}Jej ciepła cipka idealnie otula twojego kutasa, a doznania sprawiają, że Iris oddycha płytko oczy wywracają się do tyłu."
-
-# game/extras.rpy:1666
-translate polish extra_scene_18_c36decc6:
-
-    # "{i}You push even further until your shaft is over halfway inside her ass, and Iris grits her teeth."
-    "{i}Pchasz jeszcze bardziej, aż twój wał jest ponad połowę drogi wewnątrz jej tyłka i Iris zgrzyta zębami."
-
-# game/extras.rpy:1692
-translate polish extra_scene_18_e79c4909:
-
-    # "{i}You cannot contain yourself any longer, and when your cock slips out of her gaping asshole, you thrust it quickly inside Iris' cunt."
-    "{i}Nie możesz się dłużej powstrzymywać i kiedy twój kutas wysuwa się z jej szczelnej dupy, wrzucasz go szybko do wnętrza cipy Iris."
-
-# game/extras.rpy:1694
-translate polish extra_scene_18_3be18fa2:
-
-    # "{i}You cannot contain yourself any longer, and you bury yourself inside her swollen pussy."
-    "{i}Nie możesz się dłużej powstrzymać i grzebiesz się w jej nabrzmiałej cipce."
-
-# game/extras.rpy:1711
-translate polish extra_scene_18_bb04947c:
-
-    # "{i}You cannot contain yourself any longer, and a stream of cum blasts from your cock inside her gaping asshole."
-    "{i}Nie możesz powstrzymać się dłużej i strumień cum blasts z twojego koguta wewnątrz jej luki dupy."
-
-# game/extras.rpy:1724
-translate polish extra_scene_18_d6b68987:
-
-    # "{i}You cannot contain yourself any longer, and when you slip out of her gaping asshole, you quickly change positions."
-    "{i}Nie możesz się dłużej powstrzymywać i kiedy wysuwasz się z jej rozdziawionej dupy, szybko zmieniasz pozycje."
-
-# game/extras.rpy:1727
-translate polish extra_scene_18_4b0e4a21:
-
-    # "{i}You cannot contain yourself any longer, and when you slip out of her swollen pussy, you quickly change positions."
-    "{i}Nie możesz się dłużej powstrzymać i kiedy wysuwasz się z jej nabrzmiałej cipki, szybko zmieniasz pozycje."
-
-# game/extras.rpy:1741
-translate polish extra_scene_18_d6b68987_1:
-
-    # "{i}You cannot contain yourself any longer, and when you slip out of her gaping asshole, you quickly change positions."
-    "{i}Nie możesz się dłużej powstrzymywać i kiedy wysuwasz się z jej rozdziawionej dupy, szybko zmieniasz pozycje."
-
-# game/extras.rpy:1743
-translate polish extra_scene_18_4b0e4a21_1:
-
-    # "{i}You cannot contain yourself any longer, and when you slip out of her swollen pussy, you quickly change positions."
-    "{i}Nie możesz się dłużej powstrzymać i kiedy wysuwasz się z jej nabrzmiałej cipki, szybko zmieniasz pozycje."
-
-# game/extras.rpy:1785
-translate polish extra_scene_19_f21152e5:
-
-    # "{i}Suddenly, your mother rises from the bed, and before you know it, she straddles your head with her thighs."
-    "{i}Nagle twoja matka podnosi się z łóżka i zanim się zorientujesz, rozciąga twoją głowę swoimi udami."
-
-# game/extras.rpy:1787
-translate polish extra_scene_19_1598eeeb:
-
-    # "{i}Suddenly, [m_name] rises from the bed, and before you know it, she straddles your head with her thighs."
-    "{i}Nagle [m_name] podnosi się z łóżka i zanim się zorientujesz, rozciąga twoją głowę swoimi udami."
-
-# game/extras.rpy:1788
-translate polish extra_scene_19_db0906c8:
-
-    # "{i}You barely manage to open your mouth and stick your tongue out when she grinds her pussy in your face."
-    "{i}Ledwo udaje ci się otworzyć usta i wystawić język, kiedy ona szlifuje swoją cipkę na twojej twarzy."
-
-# game/extras.rpy:1794
-translate polish extra_scene_19_449b1c0f:
-
-    # "{i}Despite your recent body-wracking orgasm, you're instantly aroused by all the sensations caused by your mother sitting on your face."
-    "{i}Mimo niedawno przeżytego orgazmu w ciele jesteś natychmiast pobudzony wszystkimi doznaniami wywołanymi przez matkę siedzącą na twojej twarzy."
-
-# game/extras.rpy:1796
-translate polish extra_scene_19_b85385a5:
-
-    # "{i}Despite your recent body-wracking orgasm, you're instantly aroused by all the sensations caused by [m_name] sitting on your face."
-    "{i}Pomimo niedawnego orgazmu w ciele, jesteś natychmiast pobudzony przez wszystkie doznania wywołane przez [m_name] siedzącego na twojej twarzy."
-
-# game/extras.rpy:1802
-translate polish extra_scene_19_e7117b10:
-
-    # "{i}Something wet is pressed against your erect cock and slithers down towards the root. When it goes back up, the sensation registers as Adriana's tongue."
-    "{i}Coś mokrego jest dociskane do twojego wzniesionego kutasa i ślizga się w dół w kierunku korzenia Kiedy wraca do góry, uczucie rejestruje się jako język Adriany."
-
-# game/extras.rpy:1815
-translate polish extra_scene_19_58493531:
-
-    # "{i}The stimulation of her clit has a hypnotizing effect on [m_name], and she just rocks her body back and forth on the rhythm of your tonguing."
-    "{i}Stymulacja jej clit ma hipnotyzujący wpływ na [m_name] i ona po prostu kołysze swoim ciałem w przód i w tył w rytm twoich tonguing"
-
-# game/extras.rpy:1937
-translate polish extra_scene_20_918ac421:
-
-    # "{i}Surprising yourself and your sister, you suddenly pull out."
-    "{i}Zaskakując siebie i siostrę nagle wyciągasz"
-
-# game/extras.rpy:1939
-translate polish extra_scene_20_388c18a1:
-
-    # "{i}Surprising yourself and [l_name], you suddenly pull out."
-    "{i}Zaskakując siebie i [l_name] nagle się wyciąga"
-
-# game/extras.rpy:1946
-translate polish extra_scene_20_a8954853:
-
-    # "{i}Smiling at [l_name], you grab her legs and bring her cunt to your mouth, and you gorge yourself on her juices."
-    "{i}Uśmiechając się do [l_name] chwytasz jej nogi i przynosisz jej cipę do ust i obżerasz się jej sokami"
-
-# game/extras.rpy:1947
-translate polish extra_scene_20_cb24bc48:
-
-    # "{i}Her pussy is warm to the touch, and her clitoris is visibly swollen from arousal."
-    "{i}Jej cipka jest ciepła w dotyku, a łechtaczka wyraźnie nabrzmiała od podniecenia"
-
-# game/extras.rpy:1954
-translate polish extra_scene_20_32938f1f:
-
-    # "{i}Alternating between sucking and licking, you bring her ever closer to orgasm."
-    "{i}Na przemian ssąc i liżąc doprowadzasz ją coraz bliżej do orgazmu"
-
-# game/extras.rpy:1979
-translate polish extra_scene_20_92106a89:
-
-    # "{i}Saliva is dripping down her pussy from her asshole and it's clear [l_name] doesn't want you to stop anymore."
-    "{i}Ślina ścieka po jej cipce z jej dupki i widać, że [l_name] nie chce, żebyś już przestał."
-
-# game/extras.rpy:1980
-translate polish extra_scene_20_7118c56d:
-
-    # "{i}Every time you remove your tongue, her asshole gapes beautifully."
-    "{i}Za każdym razem, gdy wyjmujesz język, jej dupka pięknie się rozstępuje."
-
-# game/extras.rpy:2026
-translate polish extra_scene_21_f5932697:
-
-    # "{i}Sasha applied her tongue to Sabine's cunt, and the girls were now licking each other in unison."
-    "{i}Sasza zastosowała swój język do cipy Sabiny i dziewczyny lizały się teraz wzajemnie unisono."
-
-# game/extras.rpy:2039
-translate polish extra_scene_21_959af51d:
-
-    # "{i}Weeks ago, such comments would have startled Miley. Instead, she glanced at me, my cock still planted in her mouth, and I felt her tongue dart all over the tip."
-    "{i}Tygodnie temu takie komentarze byłyby zaskoczony Miley Zamiast tego spojrzała na mnie mój kogut nadal posadzone w jej ustach i czułem jej język dart całej końcówki"
-
-# game/extras.rpy:2042
-translate polish extra_scene_21_7f699f93:
-
-    # "{i}With a roar, I gathered her legs and entered Miley, her wetness amazing me as my first inches slipped past her entrance."
-    "{i}Z rykiem zebrałem jej nogi i wszedł Miley jej mokrość niesamowite mnie jako moje pierwsze cale poślizgu przeszłości jej wejście"
-
-# game/extras.rpy:2072
-translate polish extra_scene_21_e39bdb83:
-
-    # "{i}Finally, I pushed my shaft inside her ribbed entrance, and she shivered in a mixture of pain and delight."
-    "{i}W końcu wepchnąłem mój wałek do środka jej żebrowanego wejścia, a ona zadrżała w mieszaninie bólu i rozkoszy."
-
-# game/extras.rpy:2073
-translate polish extra_scene_21_eea37cb4:
-
-    # "{i}Sabine was wet enough to be fucked without restraint, and I gave in to the undeniable call of my lust."
-    "{i}Sabina była wystarczająco mokra, aby być rżniętą bez ograniczeń, a ja poddałem się niezaprzeczalnemu zewowi mojej żądzy."
-
-# game/extras.rpy:2075
-translate polish extra_scene_21_634d41be:
-
-    # "{i}The girl felt as tight as when I took her virginity, and I wasn't able to last very long."
-    "{i}Dziewczyna czuła się tak ciasno, jak wtedy, gdy brałem jej dziewictwo i nie byłem w stanie wytrzymać zbyt długo"
-
-# game/extras.rpy:2131
-translate polish extra_scene_22_ff5849a4:
-
-    # "{i}Her mouth has found purchase on your cock again, and she manages to suck the tip."
-    "{i}Jej usta znów znalazły zakup na twoim kutasie i udało jej się ssać czubek."
-
-# game/extras.rpy:2142
-translate polish extra_scene_22_c18ffebd:
-
-    # "{i}Your veined shaft keeps coming back wetter and wetter from her depths, and you're pretty sure she's about to orgasm."
-    "{i}Twój żyłkowany wałek wciąż wraca coraz bardziej mokry z jej głębi i jesteś prawie pewien, że ona jest bliska orgazmu."
-
-# game/extras.rpy:2146
-translate polish extra_scene_22_fa48e507:
-
-    # "{i}As you lick her small breasts and make her nipples even harder than they already were, you feel Kira trembling, followed by a sharp intake of breath."
-    "{i}Jak lizać jej małe piersi i zrobić jej sutki jeszcze twardsze niż były już czujesz Kira drżenie po którym następuje ostry wdech"
-
-# game/extras.rpy:2216
-translate polish extra_scene_23_b60ce19e:
-
-    # "{i}You decide you want to use her even further and make Adriana lie on her back."
-    "{i}Decydujesz, że chcesz ją wykorzystać jeszcze bardziej i każesz Adrianie położyć się na plecach"
-
-# game/extras.rpy:2224
-translate polish extra_scene_23_0ff5df2d:
-
-    # "{i}The wet sounds her throat makes inspire you to do something unexpected."
-    "{i}Mokre dźwięki, jakie wydaje jej gardło, inspirują cię do zrobienia czegoś nieoczekiwanego."
-
-# game/extras.rpy:2240
-translate polish extra_scene_23_18c861b6:
-
-    # "{i}Your cock is hardening again at the sight of the submissive girl, and her pussy beckons."
-    "{i}Twój kogut twardnieje ponownie na widok uległej dziewczyny, a jej cipka kusi."
-
-# game/extras.rpy:2261
-translate polish extra_scene_23_c60a54c6:
-
-    # "{i}The violence of your attack on her pussy is something you can't keep up for long, however, and you feel your orgasm mounting."
-    "{i}Gwałtowność twojego ataku na jej cipkę jest czymś, czego nie możesz utrzymać długo jednak i czujesz, że twój orgazm montuje."# TODO: Translation updated at 2023-07-06 13:24
-
-# game/extras.rpy:1207
+# game/extras.rpy:1585
 translate polish extra_scene_14_ed6a4c98:
 
     # "{i}Your desire fuels the deep thrusts, and after a sensuous beginning, you fuck her harder than ever before."
     "{i}Twoje pożądanie napędza głębokie pchnięcia i po zmysłowym początku pieprzysz ją mocniej niż kiedykolwiek wcześniej."
->>>>>>> polish
+
+# game/extras.rpy:1594
+translate polish extra_scene_14_ad5582cf:
+
+    # p "No, of course not."
+    p "Nie, oczywiście, że nie."
+
+# game/extras.rpy:1601
+translate polish extra_scene_14_3219d285:
+
+    # "{i}Inserting your cock again in her wet pussy feels so incredible that you want to do it over and over again."
+    "{i}Ponowne wpychając swojego kutasa do jej mokrej cipki czujesz się tak niesamowicie, że chcesz to robić bez końca."
+
+# game/extras.rpy:1622
+translate polish extra_scene_14_55bf5033:
+
+    # "{i}Holding your sister tightly, you feel her orgasm developing as it overtakes her whole body."
+    "{i}Trzymając mocno swoją siostrę, czujesz, jak jej orgazm rozwija się i ogarnia całe jej ciało."
+
+# game/extras.rpy:1624
+translate polish extra_scene_14_4be54186:
+
+    # "{i}Holding [r_name] tightly, you feel her orgasm developing as it overtakes her whole body."
+    "{i}Trzymając [r_name] mocno, czujesz, jak jej orgazm rozwija się i ogarnia całe jej ciało."
+
+# game/extras.rpy:1626
+translate polish extra_scene_14_3b530d7d:
+
+    # "{i}That doesn't prove very hard, and less than a minute after [r_name] climaxed, you're ready as well."
+    "{i}To nie okazuje się zbyt trudne i mniej niż minutę po Rachel, sam również jesteś gotowy."
+
+# game/extras.rpy:1637
+translate polish extra_scene_14_c8588aef:
+
+    # "{i}During the last two or three thrusts inside her, your cock starts to shoot semen, and you nearly collapse on top of her because of the sensations that are overpowering your body."
+    "{i}Podczas ostatnich dwóch lub trzech pchnięć, Twój kutas zaczyna strzelać nasieniem w jej wnętrzu i prawie wywracasz się na nią z rozkoszy, która obezwładnia Twoje ciało."
+
+# game/extras.rpy:1684
+translate polish extra_scene_15_7e69eb4b:
+
+    # le "Thought so. Besides, what you just did in here would have probably given that reverend a heart attack."
+    le "Tak myślałam, poza tym to, co właśnie tu zrobiliście, prawdopodobnie przyprawiłoby wielebnego o zawał serca."
+
+# game/extras.rpy:1705
+translate polish extra_scene_15_42b26032:
+
+    # "{i}The sight of both girls touching each other has an immediate effect on your cock. Both girls notice your erection with approval."
+    "{i}Widok dwóch dotykających się dziewczyn ma natychmiastowy wpływ na Twojego kutasa, co dziewczyny zauważają z aprobatą."
+
+# game/extras.rpy:1740
+translate polish extra_scene_15_fef88d38:
+
+    # "{i}Her slit is slippery wet, and your cock slips out of her when you're about to start another volley of deep thrusts."
+    "{i}Jej szparka jest śliska i mokra i Twój fiut wyślizguje się z niej, kiedy akurat masz zamiar rozpocząć kolejną salwę głębokich pchnięć."
+
+# game/extras.rpy:1868
+translate polish extra_scene_16_0c434bc6:
+
+    # m "Do you want to play with them all day long while I stroke that fat hard cock of yours?"
+    m "Czy chcesz się nimi bawić przez resztę dnia, podczas gdy będę masować tego Twojego grubego, twardego kutasa?"
+
+# game/extras.rpy:1879
+translate polish extra_scene_16_94c31362:
+
+    # "{i}The slit between [m_name]'s breasts is as tight as a maiden's pussy, and you struggle not to cum after such a short while."
+    "{i}Susan ściska je tak ciasno, że czujesz się jakbyś ruchał cipkę dziewicy i musisz walczyć, żeby nie spuścić się przedwcześnie."
+
+# game/extras.rpy:1903
+translate polish extra_scene_16_660ee6e1:
+
+    # "{i}With a growl, you push her backwards, and when she's lying down, you slide your cock between her squeezed breasts again."
+    "{i}Z dzikim warknięciem, odpychasz ją do tyłu i kiedy już leży, ponownie wsuwasz swojego kutasa między jej ściśnięte piersi."
+
+# game/extras.rpy:1962
+translate polish extra_scene_17_cca43844:
+
+    # b "I know, and I hate it."
+    b "Wiem i nie znoszę tego."
+
+# game/extras.rpy:1988
+translate polish extra_scene_17_bf25edda:
+
+    # "{i}While she has her attention on your cock, you help her undress herself and slowly manoeuver her to the bed."
+    "{i}Podczas gdy ona skupia swoją uwagę na twoim kutasie, pomagasz jej się rozebrać i powoli przenosisz ją na łóżko."
+
+# game/extras.rpy:2002
+translate polish extra_scene_17_d2fb0b52:
+
+    # "{i}The stimulation of her pussy distracts your sister from sucking your cock, and instead, she lifts her head to savor the pleasure."
+    "{i}Stymulacja jej cipki odwraca uwagę Twojej siostry od ssania Twojego kutasa, unosi głowę, delektując się przyjemnością."
+
+# game/extras.rpy:2004
+translate polish extra_scene_17_73aed884:
+
+    # "{i}The stimulation of her pussy distracts [b_name] from sucking your cock, and instead, she lifts her head to savor the pleasure."
+    "{i}Stymulacja jej cipki odwraca uwagę [b_name] od ssania twojego kutasa i zamiast tego unosi głowę, by delektować się przyjemnością."
+
+# game/extras.rpy:2044
+translate polish extra_scene_17_975cba9c:
+
+    # "{i}Your sister orgasms wildly, and you're forced to grab her middle and lift her bodily up and down to pick up her ferocious rhythm."
+    "{i}Twoja siostra szczytuje gwałtownie, aż jesteś zmuszony chwycić ją za boki i unieść jej ciało, aby kontynuować wasz dziki rytm."
+
+# game/extras.rpy:2046
+translate polish extra_scene_17_65c04e17:
+
+    # "{i}Your girlfriend orgasms wildly, and you're forced to grab her middle and lift her bodily up and down to pick up her ferocious rhythm."
+    "{i}Twoja dziewczyna osiąga dziki orgazm, a ty jesteś zmuszony chwycić ją za środek i podnosić w górę i w dół, aby utrzymać jej dziki rytm."
+
+# game/extras.rpy:2048
+translate polish extra_scene_17_475fb58e:
+
+    # "{i}The constrictions prove to be too much for you as well, and you feel your climax coming up."
+    "{i}Skurcze jej cipki to dla Ciebie już zbyt wiele i czujesz, że zbliżasz się do finału."
+
+# game/extras.rpy:2120
+translate polish extra_scene_17_fe2f8c42:
+
+    # "{i}After [b_name] leaves the room, you get dressed again for the second time today."
+    "{i}Kiedy Bella opuszcza już Twój pokój, ponownie się ubierasz."
+
+# game/extras.rpy:2159
+translate polish extra_scene_18_7aad0707:
+
+    # "{i}It takes you surprisingly little time to send Iris over the edge, and she suddenly clenches your head between her thighs."
+    "{i}Doprowadzenie Iris do orgazmu zabiera Ci zaskakująco mało czasu i kobieta ściska Twoją głowę między swoimi udami."
+
+# game/extras.rpy:2162
+translate polish extra_scene_18_eab53504:
+
+    # "{i}Iris explodes in your face, and you're treated to a wealth of pussy juice as you keep sucking her clit."
+    "{i}Iris szczytuje na Twojej twarzy, częstując Cię obficie swoimi sokami, gdy ssiesz jej łechtaczkę."
+
+# game/extras.rpy:2187
+translate polish extra_scene_18_fa049378:
+
+    # "{i}Kneading the luscious flesh of her ass and hips, you find a rhythm that provides maximum pleasure for you both."
+    "{i}Ugniatając soczyste ciało jej tyłka i bioder, znajdujesz rytm, który zapewnia wam obojgu maksimum rozkoszy."
+
+# game/extras.rpy:2188
+translate polish extra_scene_18_4ed30f04:
+
+    # "{i}Her warm pussy wraps around your cock perfectly, and the sensations make Iris breathe shallowly, eyes rolled backward."
+    "{i}Jej ciepła cipka idealnie otula twojego kutasa, a doznania sprawiają, że Iris oddycha płytko, a oczy przewracają się do tyłu."
+
+# game/extras.rpy:2205
+translate polish extra_scene_18_c36decc6:
+
+    # "{i}You push even further until your shaft is over halfway inside her ass, and Iris grits her teeth."
+    "{i}Napierasz jeszcze mocniej, aż zagłębiasz w jej tyłku połowę swojego penisa, Iris zgrzyta zębami."
+
+# game/extras.rpy:2241
+translate polish extra_scene_18_e79c4909:
+
+    # "{i}You cannot contain yourself any longer, and when your cock slips out of her gaping asshole, you thrust it quickly inside Iris' cunt."
+    "{i}Nie możesz się już dłużej powstrzymywać i kiedy Twój kutas wyślizguje się z jej rozwartego odbytu, szybko wpychasz go w cipkę Iris."
+
+# game/extras.rpy:2243
+translate polish extra_scene_18_3be18fa2:
+
+    # "{i}You cannot contain yourself any longer, and you bury yourself inside her swollen pussy."
+    "{i}Nie możesz się już dłużej powstrzymywać i zanurzasz się w jej nabrzmiałej cipce."
+
+# game/extras.rpy:2264
+translate polish extra_scene_18_bb04947c:
+
+    # "{i}You cannot contain yourself any longer, and a stream of cum blasts from your cock inside her gaping asshole."
+    "{i}Nie możesz się już dłużej powstrzymywać i strumienie gęstej spermy tryskają z Twojego kutasa wewnątrz jej rozwartego odbytu."
+
+# game/extras.rpy:2281
+translate polish extra_scene_18_d6b68987:
+
+    # "{i}You cannot contain yourself any longer, and when you slip out of her gaping asshole, you quickly change positions."
+    "{i}Nie możesz się już dłużej powstrzymywać i wyślizgując się z jej rozwartego odbytu, szybko zmieniasz pozycje."
+
+# game/extras.rpy:2284
+translate polish extra_scene_18_4b0e4a21:
+
+    # "{i}You cannot contain yourself any longer, and when you slip out of her swollen pussy, you quickly change positions."
+    "{i}Nie możesz się już dłużej powstrzymywać i wyślizgując się z jej nabrzmiałej cipki, szybko zmieniasz pozycje."
+
+# game/extras.rpy:2303
+translate polish extra_scene_18_d6b68987_1:
+
+    # "{i}You cannot contain yourself any longer, and when you slip out of her gaping asshole, you quickly change positions."
+    "{i}Nie możesz się już dłużej powstrzymywać i wyślizgując się z jej rozwartego odbytu, szybko zmieniasz pozycje."
+
+# game/extras.rpy:2305
+translate polish extra_scene_18_4b0e4a21_1:
+
+    # "{i}You cannot contain yourself any longer, and when you slip out of her swollen pussy, you quickly change positions."
+    "{i}Nie możesz się już dłużej powstrzymywać i wyślizgując się z jej nabrzmiałej cipki, szybko zmieniasz pozycje."
+
+# game/extras.rpy:2364
+translate polish extra_scene_19_f21152e5:
+
+    # "{i}Suddenly, your mother rises from the bed, and before you know it, she straddles your head with her thighs."
+    "{i}Twoja matka podnosi się z łóżka i zanim się orientujesz, siada okrakiem na Twojej twarzy."
+
+# game/extras.rpy:2366
+translate polish extra_scene_19_1598eeeb:
+
+    # "{i}Suddenly, [m_name] rises from the bed, and before you know it, she straddles your head with her thighs."
+    "{i}Nagle [m_name] wstaje z łóżka i zanim się zorientujesz, obejmuje twoją głowę udami."
+
+# game/extras.rpy:2367
+translate polish extra_scene_19_db0906c8:
+
+    # "{i}You barely manage to open your mouth and stick your tongue out when she grinds her pussy in your face."
+    "{i}Ledwo udaje ci się otworzyć usta i wysunąć język, gdy ona miażdży swoją cipkę na twojej twarzy."
+
+# game/extras.rpy:2373
+translate polish extra_scene_19_449b1c0f:
+
+    # "{i}Despite your recent body-wracking orgasm, you're instantly aroused by all the sensations caused by your mother sitting on your face."
+    "{i}Pomimo Twojego niedawnego, obezwładniającego orgazmu, doznania wywołane przez Twoją matkę siedzącą Ci na twarzy, od razu doprowadzają Cię do erekcji."
+
+# game/extras.rpy:2375
+translate polish extra_scene_19_b85385a5:
+
+    # "{i}Despite your recent body-wracking orgasm, you're instantly aroused by all the sensations caused by [m_name] sitting on your face."
+    "{i}Pomimo niedawnego orgazmu, który wstrząsnął twoim ciałem, jesteś natychmiast podniecony wszystkimi doznaniami spowodowanymi przez [m_name] siedzącego na twojej twarzy."
+
+# game/extras.rpy:2384
+translate polish extra_scene_19_e7117b10:
+
+    # "{i}Something wet is pressed against your erect cock and slithers down towards the root. When it goes back up, the sensation registers as Adriana's tongue."
+    "{i}Coś mokrego przyciska się do Twojego wyprostowanego kutasa i ślizga się wzdłuż jego trzonu, rozpoznajesz w nim język Adriany."
+
+# game/extras.rpy:2398
+translate polish extra_scene_19_58493531:
+
+    # "{i}The stimulation of her clit has a hypnotizing effect on [m_name], and she just rocks her body back and forth on the rhythm of your tonguing."
+    "{i}Stymulacja łechtaczki ma na Susan hipnotyzujący wpływ i po prostu kołysze swoim ciałem w przód i w tył w rytmie ruchów Twojego języka."
+
+# game/extras.rpy:2554
+translate polish extra_scene_20_918ac421:
+
+    # "{i}Surprising yourself and your sister, you suddenly pull out."
+    "{i}Zaskakując zarówno siebie, jak i swoją siostrę, nagle wycofujesz się z niej."
+
+# game/extras.rpy:2556
+translate polish extra_scene_20_388c18a1:
+
+    # "{i}Surprising yourself and [l_name], you suddenly pull out."
+    "{i}Zaskakując siebie i [l_name] nagle się wycofujesz"
+
+# game/extras.rpy:2567
+translate polish extra_scene_20_a8954853:
+
+    # "{i}Smiling at [l_name], you grab her legs and bring her cunt to your mouth, and you gorge yourself on her juices."
+    "{i}Uśmiechając się do Lizy, łapiesz ją za nogi i przystawiasz usta do jej szparki, spijając jej soki."
+
+# game/extras.rpy:2568
+translate polish extra_scene_20_cb24bc48:
+
+    # "{i}Her pussy is warm to the touch, and her clitoris is visibly swollen from arousal."
+    "{i}Jej cipka jest ciepła w dotyku, a łechtaczka wyraźnie nabrzmiała z podniecenia."
+
+# game/extras.rpy:2575
+translate polish extra_scene_20_32938f1f:
+
+    # "{i}Alternating between sucking and licking, you bring her ever closer to orgasm."
+    "{i}Naprzemiennie liżąc i ssąc jej łechtaczkę, szybko zbliżasz ją do orgazmu."
+
+# game/extras.rpy:2608
+translate polish extra_scene_20_92106a89:
+
+    # "{i}Saliva is dripping down her pussy from her asshole and it's clear [l_name] doesn't want you to stop anymore."
+    "{i}Ślina kapie jej z cipki i jest jasne, że [l_name] nie chce, żebyś przestał."
+
+# game/extras.rpy:2609
+translate polish extra_scene_20_7118c56d:
+
+    # "{i}Every time you remove your tongue, her asshole gapes beautifully."
+    "{i}Za każdym razem, gdy wycofujesz swój język, jej odbyt pulsuje zachęcająco."
+
+# game/extras.rpy:2683
+translate polish extra_scene_21_f5932697:
+
+    # "{i}Sasha applied her tongue to Sabine's cunt, and the girls were now licking each other in unison."
+    "{i}Sasha też przyłożyła język do cipki Sabine i obie dziewczyny lizały się już synchronicznie."
+
+# game/extras.rpy:2704
+translate polish extra_scene_21_959af51d:
+
+    # "{i}Weeks ago, such comments would have startled Miley. Instead, she glanced at me, my cock still planted in her mouth, and I felt her tongue dart all over the tip."
+    "{i}Kilka tygodni temu takie komentarze zaskoczyłyby Miley Zamiast tego spojrzała na mnie, mój kutas wciąż był w jej ustach i poczułem, jak jej język przesuwa się po całej końcówce."
+
+# game/extras.rpy:2711
+translate polish extra_scene_21_7f699f93:
+
+    # "{i}With a roar, I gathered her legs and entered Miley, her wetness amazing me as my first inches slipped past her entrance."
+    "{i}Z rykiem uniosłem jej nogi i wbiłem się w Miley, już przy pierwszym pchnięciu zaimponowało mi to, jaka była mokra."
+
+# game/extras.rpy:2763
+translate polish extra_scene_21_e39bdb83:
+
+    # "{i}Finally, I pushed my shaft inside her ribbed entrance, and she shivered in a mixture of pain and delight."
+    "{i}W końcu, wepchnąłem mojego fiuta do jej wnętrza, dziewczyna zadrżała z bólu i rozkoszy."
+
+# game/extras.rpy:2764
+translate polish extra_scene_21_eea37cb4:
+
+    # "{i}Sabine was wet enough to be fucked without restraint, and I gave in to the undeniable call of my lust."
+    "{i}Sabine była wystarczająco mokra, żeby ostro ją wyruchać, więc poddałem się mojej dzikiej żądzy."
+
+# game/extras.rpy:2766
+translate polish extra_scene_21_634d41be:
+
+    # "{i}The girl felt as tight as when I took her virginity, and I wasn't able to last very long."
+    "{i}Dziewczyna była tak ciasna, jak wtedy, gdy odbierałem jej dziewictwo i nie mogłem wytrzymać zbyt długo."
+
+# game/extras.rpy:2857
+translate polish extra_scene_22_ff5849a4:
+
+    # "{i}Her mouth has found purchase on your cock again, and she manages to suck the tip."
+    "{i}Jej usta ponownie znajdują Twojego penisa i zaczyna ssać jego główkę."
+
+# game/extras.rpy:2873
+translate polish extra_scene_22_c18ffebd:
+
+    # "{i}Your veined shaft keeps coming back wetter and wetter from her depths, and you're pretty sure she's about to orgasm."
+    "{i}Twój twardy fiut wysuwa się z jej głębin pokryty coraz większa ilością jej soków i jesteś prawie pewien, że zaraz dojdzie."
+
+# game/extras.rpy:2877
+translate polish extra_scene_22_fa48e507:
+
+    # "{i}As you lick her small breasts and make her nipples even harder than they already were, you feel Kira trembling, followed by a sharp intake of breath."
+    "{i}Kiedy liżesz jej małe piersi i sprawiasz, że jej sutki robią się jeszcze twardsze niż wcześniej, czujesz, jak Kira drży i gwałtownie wciąga powietrze."
+
+# game/extras.rpy:2980
+translate polish extra_scene_23_b60ce19e:
+
+    # "{i}You decide you want to use her even further and make Adriana lie on her back."
+    "{i}Dochodzi do wniosku, że chcesz ją wykorzystać jeszcze bardziej i kładziesz Adrianę na plecach."
+
+# game/extras.rpy:2991
+translate polish extra_scene_23_0ff5df2d:
+
+    # "{i}The wet sounds her throat makes inspire you to do something unexpected."
+    "{i}Mokry dźwięk, jaki wydaje jej gardło, inspiruje Cię do zrobienia czegoś nieoczekiwanego."
+
+# game/extras.rpy:3015
+translate polish extra_scene_23_18c861b6:
+
+    # "{i}Your cock is hardening again at the sight of the submissive girl, and her pussy beckons."
+    "{i}Twój kutas znowu twardnieje na widok uległej dziewczyny i zaczyna Cię kusić jej cipka."
+
+# game/extras.rpy:3046
+translate polish extra_scene_23_c60a54c6:
+
+    # "{i}The violence of your attack on her pussy is something you can't keep up for long, however, and you feel your orgasm mounting."
+    "{i}Gwałtowność Twoich pchnięć na jej cipkę jest czymś, czego nie nie da się długo wytrzymać i czujesz, że zbliża Twój orgazm."
+

@@ -68,7 +68,7 @@ translate polish day30_d6ebb392:
 translate polish day30_da91760e:
 
     # # # p "Thanks, baby."
-    p ""
+      p "Dzięki kochanie"
 
 # game/day30.rpy:34
 translate polish day30_6843629f:
@@ -134,7 +134,7 @@ translate polish day30_8a59deb6:
 translate polish day30_b0f99dfb:
 
     # # # "{i}You get to admire your friend's naked body as you both get up and dress."
-    ""
+      "Będziesz mógł podziwiać nagie ciało swojej przyjaciółki, gdy oboje wstaniecie i ubierzecie się."
 
 # game/day30.rpy:53
 translate polish day30_8099656f:
@@ -1094,7 +1094,7 @@ translate polish day30_choices_62b4b9fe:
 translate polish day30_choices_5441c343:
 
     # # # "{i}From your chair you get to admire your friend's well-toned butt as she picks up her bowling ball for another round."
-    ""
+      "{i} Z krzesła możesz podziwiać dobrze wyrzeźbiony tyłek swojej przyjaciółki, gdy podnosi kulę do kręgli na kolejną rundę."
 
 # game/day30.rpy:281
 translate polish day30_choices_58ed15cc:
@@ -1382,7 +1382,7 @@ translate polish day30_choices_0289816b:
 translate polish day30_choices_4b63dde5:
 
     # # # p "Damn, both my friends are Bowling Goddesses."
-    p ""
+      p "Cholera, obie moje przyjaciółki są boginiami bowlingu"
 
 # game/day30.rpy:354
 translate polish day30_choices_9a292ee2:
@@ -1730,7 +1730,7 @@ translate polish day30_choices_ed271b81:
 translate polish day30_choices_4ae9ea3a:
 
     # # # "{i}[b_name] just stares at you in shock as you slowly stroke the tight fabric of your younger friend's shorts."
-    ""
+      "{i}[b_name] tylko patrzy na ciebie w szoku, gdy powoli głaszczesz ciasny materiał spodenek swojego młodszego przyjaciela."
 
 # game/day30.rpy:443
 translate polish day30_choices_393054eb:
@@ -1808,7 +1808,7 @@ translate polish day30_choices_46ca30f9:
 translate polish day30_choices_199a8ba0:
 
     # # # "{i}[b_name] is distracted by a couple of guys walking in as you slowly stroke the tight fabric of your younger friend's shorts."
-    ""
+      "{i}[b_name] jest rozproszony przez kilku facetów wchodzących do środka, gdy powoli głaszczesz ciasny materiał spodenek swojego młodszego przyjaciela."
 
 # game/day30.rpy:467
 translate polish day30_choices_7b79de94:
@@ -2156,7 +2156,7 @@ translate polish day30_choices_528d3663:
 translate polish day30_choices_ac517032:
 
     # "{i}[r_name] is still talking animatedly with her friend, but her hand is now slowly massaging the inside of your leg."
-    ""
+    "{i}[r_name] nadal żywo rozmawia ze swoją przyjaciółką, ale jej dłoń powoli masuje wnętrze twojej nogi."
 
 # game/day30.rpy:551
 translate polish day30_choices_0442afa3:
@@ -2186,7 +2186,7 @@ translate polish day30_choices_0daaa903:
 translate polish day30_choices_b83ed279:
 
     # "{i}Your friend tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
-    ""
+    "{i}Twoja przyjaciółka próbuje przesunąć palcami po pasku twoich spodni, ale okazuje się to zbyt trudne."
 
 # game/day30.rpy:559
 translate polish day30_choices_7527a716:
@@ -2366,7 +2366,7 @@ translate polish day30_choices_a4e47b25:
 translate polish day30_choices_0f85b111:
 
     # "{i}When [b_name] walks away, you're still pumping seed into your friend's eager mouth."
-    ""
+    "{i}Kiedy [b_name] odchodzi, wciąż pompujesz nasienie w chętne usta swojego przyjaciela."
 
 # game/day30.rpy:597
 translate polish day30_choices_254e46c4:
@@ -2504,7 +2504,7 @@ translate polish day30_choices_03b7e04f:
 translate polish day30_choices_95bafd4e:
 
     # "{i}As you help [b_name] into her coat she leans into you and whispers."
-    ""
+    "{i}Kiedy pomagasz [b_name] ubrać jej płaszcz, pochyla się do ciebie i szepcze"
 
 # game/day30.rpy:630
 translate polish day30_choices_980111ee:
@@ -2912,13 +2912,13 @@ translate polish day30_evening_choices_18b3e0b5:
 translate polish day30_evening_choices_039e366f:
 
     # # # m "If it isn't my favorite boy."
-    m ""
+      m "Jeśli to nie mój ulubiony chłopak"
 
 # game/day30.rpy:737
 translate polish day30_evening_choices_7e7d6602:
 
     # # # p "Also the only boy in the house, [m_name]."
-    p ""
+      p "Również jedyny chłopiec w domu [m_name]"
 
 # game/day30.rpy:738
 translate polish day30_evening_choices_1c7cf916:
@@ -2936,7 +2936,7 @@ translate polish day30_evening_choices_27aaac4b:
 translate polish day30_evening_choices_588a87d7:
 
     # # # "{i}You kiss [m_name] full on the lips, after a split second of shock, she kisses you back."
-    ""
+      "{i} Całujesz [m_name] w usta, a po ułamku sekundy szoku ona odwzajemnia twój pocałunek."
 
 # game/day30.rpy:745
 translate polish day30_evening_choices_98cbe6a3:
@@ -3104,7 +3104,7 @@ translate polish day30_evening_choices_2e70688e:
 translate polish day30_evening_choices_6ee3980c:
 
     # # # m "My girl has hidden talents!"
-    m ""
+      m "Moja dziewczyna ma ukryte talenty!"
 
 # game/day30.rpy:785
 translate polish day30_evening_choices_46e1d9c2:
@@ -3290,7 +3290,7 @@ translate polish day30_evening_choices_a70f1289:
 translate polish day30_evening_choices_ba94742f:
 
     # # # "{i}It's as if your friend has read your mind, because when she turns to look you in the eye, her lips are already parted invitingly."
-    ""
+      "To tak, jakby twoja przyjaciółka czytała ci w myślach, bo kiedy odwraca się, by spojrzeć ci w oczy, jej usta są już rozchylone zachęcająco."
 
 # game/day30.rpy:843
 translate polish day30_evening_choices_e5e53fe8:
@@ -3410,7 +3410,7 @@ translate polish day30_evening_choices_c85ba8f0:
 translate polish day30_evening_choices_1870853e:
 
     # # # "{i}You join your friend on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
-    ""
+      "{i} Dołączasz do swojej przyjaciółki na łóżku i po krótkiej chwili odkrywania jej ciała opuszkami palców, ona przyciąga cię bliżej siebie."
 
 # game/day30.rpy:872
 translate polish day30_evening_choices_aa580faa:
@@ -3488,7 +3488,7 @@ translate polish day30_evening_choices_117ace5b:
 translate polish day30_evening_choices_2c6c81bb:
 
     # # # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
-    ""
+      "Cipka twojej przyjaciółki staje się śliska od wilgoci, która obficie wycieka z jej pochwy."
 
 # game/day30.rpy:891
 translate polish day30_evening_choices_88460ce2:
@@ -3518,7 +3518,7 @@ translate polish day30_evening_choices_6f09ca7b:
 translate polish day30_evening_choices_80f3e1ad:
 
     # # # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
-    ""
+      "Jej konwulsje wciąż cię zaskakują, gdy trzymasz swoją nagle drżącą przyjaciółkę blisko fal orgazmu falujących w jej ciele."
 
 # game/day30.rpy:902
 translate polish day30_evening_choices_75cd2cd2:
@@ -3890,7 +3890,7 @@ translate polish day30_evening_choices_492ab7ea:
 translate polish day30_evening_choices_026e383d:
 
     # # # b "She's your fucking friend, [p_name]!"
-    b ""
+      b "To twoja pieprzona przyjaciółka [p_name]!"
 
 # game/day30.rpy:1004
 translate polish day30_evening_choices_639ac0bb:
@@ -3938,7 +3938,7 @@ translate polish day30_evening_choices_c3f42e90:
 translate polish day30_evening_choices_2f991aa0:
 
     # # # b "Stay the fuck away from my friend!"
-    b ""
+      b "Trzymaj się, kurwa, z dala od mojego przyjaciela!"
 
 # game/day30.rpy:1014
 translate polish day30_evening_choices_8ec60c4d:
@@ -4124,7 +4124,7 @@ translate polish day30_evening_choices_efbb54e9:
 translate polish day30_evening_choices_0d0929c1:
 
     # # # "{i}With a hand in your pocket you finger the vibrator's remote, instantly stimulating your friend's pussy."
-    ""
+      "{i} Z ręką w kieszeni dotykasz pilota wibratora, natychmiast stymulując cipkę swojej przyjaciółki"
 
 # game/day30.rpy:1053
 translate polish day30_evening_choices_b8569bfe:
@@ -4304,7 +4304,7 @@ translate polish day30_evening_choices_96c589b0:
 translate polish day30_evening_choices_d05db516:
 
     # # # "{i}You join your friend on the bed and after a brief moment of exploring her body with your fingertips, you pull her closer towards you."
-    ""
+      "{i} Dołączasz do swojej przyjaciółki na łóżku i po krótkiej chwili odkrywania jej ciała opuszkami palców przyciągasz ją bliżej siebie."
 
 # game/day30.rpy:1097
 translate polish day30_evening_choices_2d41f377:
@@ -4388,7 +4388,7 @@ translate polish day30_evening_choices_117ace5b_1:
 translate polish day30_evening_choices_2c6c81bb_1:
 
     # # # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
-    ""
+      "Cipka twojej przyjaciółki staje się śliska od wilgoci, która obficie wycieka z jej pochwy."
 
 # game/day30.rpy:1116
 translate polish day30_evening_choices_88460ce2_1:
@@ -4418,7 +4418,7 @@ translate polish day30_evening_choices_6f09ca7b_1:
 translate polish day30_evening_choices_80f3e1ad_1:
 
     # # # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
-    ""
+      "Jej konwulsje wciąż cię zaskakują, gdy trzymasz swoją nagle drżącą przyjaciółkę blisko fal orgazmu falujących w jej ciele."
 
 # game/day30.rpy:1126
 translate polish day30_evening_choices_75cd2cd2_1:
@@ -4562,7 +4562,7 @@ translate polish day30_evening_choices_40a436ff:
 translate polish day30_evening_choices_09219e3c:
 
     # # # "{i}Your friend makes no attempt to kick you out and falls asleep while you still hold her, so you decide to stay with her."
-    ""
+      "Twoja przyjaciółka nie próbuje cię wyrzucić i zasypia, gdy wciąż ją trzymasz, więc postanawiasz z nią zostać."
 
 # game/day30.rpy:1182
 translate polish day30_evening_choices_7d450048:
@@ -4574,7 +4574,7 @@ translate polish day30_evening_choices_7d450048:
 translate polish day30_evening_choices_0e439f79:
 
     # # # "{i}Your friend doesn't offer a reply and doesn't demand that you leave her bed, so you decide to stay with her."
-    ""
+      "{i} Twoja przyjaciółka nie oferuje odpowiedzi i nie żąda, byś opuścił jej łóżko, więc decydujesz się z nią zostać."
 
 # game/day30.rpy:1185
 translate polish day30_evening_choices_c1dd472a:
@@ -4785,4 +4785,1110 @@ translate polish strings:
     # game/day30.rpy:655
     old "Terminate the contract"
     new "Zerwij kontrakt"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day30.rpy:89
+translate polish day30_82e9b324:
+
+    # p "But I don't think I'd enjoy my life if I didn't take a risk once in a while."
+    p "Ale raczej nie mógłbym cieszyć się życiem, gdybym nie podjął ryzyka od czasu do czasu."
+
+# game/day30.rpy:92
+translate polish day30_6b5f0729:
+
+    # p "I'll help you if you want."
+    p "Pomogę Ci, jeśli zechcesz."
+
+# game/day30.rpy:163
+translate polish day30_c4ef2745:
+
+    # r "[b_name] and I are going to do something fun today, and you just have to come with!"
+    r "Bella i ja idziemy dziś porobić coś fajnego, musisz pójść z nami!"
+
+# game/day30.rpy:236
+translate polish day30_choices_ac6734ed:
+
+    # "{i}You throw the first ball, [r_name] clapping excitedly behind your back. You manage to hit a few pins, so your honor is saved for the time being."
+    "{i}Posyłasz po torze pierwszą kulę, Rachel klaszcze z ekscytacją za Twoimi plecami. Udaje Ci się strącić kilka kręgli, więc zachowałeś swój honor, póki co."
+
+# game/day30.rpy:237
+translate polish day30_choices_f4722342:
+
+    # "{i}Your second attempt is equally successful, and you score a couple of points."
+    "{i}Twoja druga próba jest równie udana i zdobywasz kilka kolejnych punktów."
+
+# game/day30.rpy:265
+translate polish day30_choices_cb2ac4f1:
+
+    # "{i}[r_name]'s throw starts promising, but she botches it in the end and the ball rolls to the gutter. The second one fares a little better, and she scores some points."
+    "{i}Rzut Rachel zapowiada się dobrze, ale psuje się pod koniec i kula wpada do rynny. Drugi rzut jest nieco lepszy i udaje się jej przewrócić kilka kręgli."
+
+# game/day30.rpy:274
+translate polish day30_choices_50b8c830:
+
+    # "{i}[b_name] walks up to the lane with quiet confidence. Her throw is elegant, and the ball determinedly rolls towards the pins at the end of the track."
+    "{i}Podchodzi do toru z cichą pewnością siebie. Jej rzut jest elegancki i kula zdecydowanie toczy się w kierunku końca toru."
+
+# game/day30.rpy:287
+translate polish day30_choices_538b2491:
+
+    # "{i}Both [r_name] and you are next. The results are a little mediocre, especially compared to [b_name]'s strike."
+    "{i}Zarówno [r_name], jak i ty jesteście następni. Wyniki są trochę przeciętne, zwłaszcza w porównaniu ze strajkiem [b_name]."
+
+# game/day30.rpy:311
+translate polish day30_choices_83c31cf1:
+
+    # "{i}[r_name]'s next attempt ends up in the gutter, but the second ball actually manages to hit most of the pins. You fare a little better."
+    "{i}Następny rzut Rachel jest niecelny, ale druga kula przewraca większość kręgli, Ty radzisz sobie niewiele lepiej."
+
+# game/day30.rpy:319
+translate polish day30_choices_c1f0085d:
+
+    # "{i}When [b_name] is up again, she manages to hit most of the pins during the next frame, raking in a load of points."
+    "{i}Podczas kolejnego rzutu, Bella wywraca większość kręgli, zgarniając mnóstwo punktów."
+
+# game/day30.rpy:355
+translate polish day30_choices_19f6ab1c:
+
+    # "{i}You both glance at [r_name], who's focused on retrieving her bowling ball."
+    "{i}Oboje zerkacie na Rachel, która skupia się na odzyskaniu swojej kuli."
+
+# game/day30.rpy:388
+translate polish day30_choices_8b8a0a5d:
+
+    # "{i}[r_name] hands her some money, like you agreed, and [b_name] saunters off to get a drink."
+    "{i}Rachel, wedle umowy, daje jej pieniądze na drinka i Bella oddala się w kierunku baru."
+
+# game/day30.rpy:402
+translate polish day30_choices_8493a3ad:
+
+    # "{i}[b_name] returns, and you pause to have a drink with her."
+    "{i}Bella wraca i robicie sobie przerwę, żeby się z nią napić."
+
+# game/day30.rpy:424
+translate polish day30_choices_be8f34c3:
+
+    # "{i}You walk up to the arcade machine, and as soon as you touch the controls, your muscle-memory kicks in and you start blasting through the levels of the retro game that you last played more than ten years ago."
+    "{i}Podchodzisz do maszyny i gdy tylko chwytasz za kontroler, odpala się Twoja pamięć mięśniowa i zaczynasz pokonywać kolejne poziomy, w grze, w którą grałeś ostatnio dobrą dekadę temu."
+
+# game/day30.rpy:438
+translate polish day30_choices_a3463580:
+
+    # "{i}As you show [r_name] how to negotiate a particularly hard level, you notice [b_name] staring at you both."
+    "{i}Gdy pokazujesz [r_name], jak pokonać szczególnie trudny poziom, zauważasz, że [b_name] wpatruje się w was oboje."
+
+# game/day30.rpy:448
+translate polish day30_choices_339a2949:
+
+    # p "Just jump on that ledge there."
+    p "Po prostu wskocz na tą półkę."
+
+# game/day30.rpy:460
+translate polish day30_choices_339a2949_1:
+
+    # p "Just jump on that ledge there."
+    p "Po prostu wskocz na tą półkę."
+
+# game/day30.rpy:465
+translate polish day30_choices_a513f971:
+
+    # "{i}As you show [r_name] how to negotiate a particularly hard level, she presses her body against yours."
+    "{i}Kiedy pokazujesz [r_name], jak pokonać szczególnie trudny poziom, przyciska swoje ciało do twojego."
+
+# game/day30.rpy:473
+translate polish day30_choices_339a2949_2:
+
+    # p "Just jump on that ledge there."
+    p "Po prostu wskocz na tą półkę."
+
+# game/day30.rpy:484
+translate polish day30_choices_339a2949_3:
+
+    # p "Just jump on that ledge there."
+    p "Po prostu wskocz na tą półkę."
+
+# game/day30.rpy:488
+translate polish day30_choices_8a9d6b2c:
+
+    # "{i}You show [r_name] how to negotiate a particularly hard level."
+    "{i}Pokazujesz [r_name], jak wynegocjować szczególnie trudny poziom."
+
+# game/day30.rpy:489
+translate polish day30_choices_339a2949_4:
+
+    # p "Just jump on that ledge there."
+    p "Po prostu wskocz na tą półkę."
+
+# game/day30.rpy:544
+translate polish day30_choices_2d6c765f:
+
+    # "{i}When [b_name] returns, the burgers are already on the table."
+    "{i}Kiedy Bella wraca, burgery są już na miejscu."
+
+# game/day30.rpy:551
+translate polish day30_choices_2d6c765f_1:
+
+    # "{i}When [b_name] returns, the burgers are already on the table."
+    "{i}Kiedy Bella wraca, burgery są już na miejscu."
+
+# game/day30.rpy:554
+translate polish day30_choices_131efa61:
+
+    # "{i}You dig into the burgers and chat about all kinds of things. When you're finished, you all order milkshakes."
+    "{i}Wgryzacie się w wasze burgery i rozmawiacie na wszelakie tematy. Kiedy kończycie, zamawiacie sobie po szejku."
+
+# game/day30.rpy:616
+translate polish day30_choices_1cbd10ff:
+
+    # ad "I know this is very unexpected, and we would like you to know that the termination is not because of your behavior or otherwise. You've been a great client."
+    ad "Wiemy, że to dość nagłe i chcemy, aby pan wiedział, że zerwanie naszego kontraktu nie ma związku z pańskim zachowaniem w trakcie sesji, był pan doskonałym klientem."
+
+# game/day30.rpy:712
+translate polish day30_evening_choices_d855d3a1:
+
+    # "{i}You kiss your mother full on the lips, and after a split second of shock, she kisses you back."
+    "{i}Całujesz swoją matkę w usta i po ułamku sekundy szoku ona odwzajemnia twój pocałunek."
+
+# game/day30.rpy:714
+translate polish day30_evening_choices_8f85e071:
+
+    # "{i}You kiss [m_name] full on the lips, and after a split second of shock, she kisses you back."
+    "{i}Całujesz [imię_m] w usta i po ułamku sekundy szoku ona odwzajemnia twój pocałunek."
+
+# game/day30.rpy:730
+translate polish day30_evening_choices_4f35e84f:
+
+    # p "But the delivery van is a piece of crap and broke down on our way back."
+    p "Ale samochód dostawczy to kupa złomu i zepsuł się w drodze powrotnej."
+
+# game/day30.rpy:806
+translate polish day30_evening_choices_eed63bd7:
+
+    # b "Could you maybe stop clowning around and just hold me already."
+    b "Czy mógłbyś przestać się wygłupiać i po prostu mnie przytulić?"
+
+# game/day30.rpy:811
+translate polish day30_evening_choices_758b934b:
+
+    # "{i}[b_name] buries her face in your shoulder and sighs, the smell of her hair is intoxicating, and you desperately want to kiss her."
+    "{i}Bella wtula twarz w Twoje ramię i wzdycha, zapach jej włosów jest oszołamiający i tylko wzmaga Twoje pragnienie, żeby ją pocałować."
+
+# game/day30.rpy:825
+translate polish day30_evening_choices_c3093e6c:
+
+    # p "{i}(It seems I like my girls wild.)"
+    p "{i}(Wygląda na to, że lubię moje dziewczyny dzikie)"
+
+# game/day30.rpy:850
+translate polish day30_evening_choices_5bce1114:
+
+    # p "I don't like your tone, and I don't know what you're implying."
+    p "Nie podoba mi się Twój ton i nie wiem o co Ci chodzi."
+
+# game/day30.rpy:965
+translate polish day30_evening_choices_f36c4705:
+
+    # "{i}Your sister makes no attempt to kick you out and falls asleep while she still holds you, so you decide to stay with her."
+    "{i}Twoja siostra nie próbuje cię wyrzucić i zasypia, gdy wciąż cię trzyma, więc decydujesz się z nią zostać."
+
+# game/day30.rpy:967
+translate polish day30_evening_choices_77c212ed:
+
+    # "{i}Your friend makes no attempt to kick you out and falls asleep while she still holds you, so you decide to stay with her."
+    "{i}Twoja przyjaciółka nie próbuje cię wyrzucić i zasypia, gdy wciąż cię trzyma, więc decydujesz się z nią zostać."
+
+# game/day30.rpy:973
+translate polish day30_evening_choices_26f2e183:
+
+    # "{i}There do not seem to be any reservations between you and her, and you cuddle like a proper couple before falling asleep."
+    "{i}Zdaje się nie być między wami żadnej urazy i tulicie się, jak prawdziwa para, przed zaśnięciem."
+
+# game/day30.rpy:1029
+translate polish day30_r_handjob_bf9adf1b:
+
+    # p "{i}(Is she really going to do this?)"
+    p "{i}(Naprawdę chce to teraz zrobić?)"
+
+# game/day30.rpy:1030
+translate polish day30_r_handjob_2628b085:
+
+    # p "{i}(This is too hot!)"
+    p "{i}(Kogo ja oszukuję, też tego chcę!)"
+
+# game/day30.rpy:1032
+translate polish day30_r_handjob_0daaa903:
+
+    # "{i}Your sister tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Twoja siostra próbuje wsunąć dłoń pod Twój pasek, ale to okazuje się zbyt trudne."
+
+# game/day30.rpy:1034
+translate polish day30_r_handjob_b83ed279:
+
+    # "{i}Your friend tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Twoja przyjaciółka próbuje przesunąć palcami po pasku twoich spodni, ale okazuje się to zbyt trudne."
+
+# game/day30.rpy:1036
+translate polish day30_r_handjob_7527a716:
+
+    # "{i}Skillfully, she pulls the zipper down instead, freeing your growing erection, her body shielding the scene from the rest of the restaurant."
+    "{i}Zamiast tego, zręcznie rozpina zamek Twoich spodni i uwalnia Twoją rosnącą erekcję, jej ciało zasłania Cię przed resztą klienteli restauracji."
+
+# game/day30.rpy:1037
+translate polish day30_r_handjob_2ff4100a:
+
+    # p "{i}(Fuck! [b_name] is going to notice!)"
+    p "{i}(Kurwa! Bella coś zauważy!)"
+
+# game/day30.rpy:1042
+translate polish day30_r_handjob_22679f04:
+
+    # "{i}But [b_name] doesn't notice, as she's firmly focused on the conversation with [r_name], who in turn begins to softly move her fingers over the head of your cock."
+    "{i}Ale Bella niczego nie dostrzega, jest całkowicie skupiona na rozmowie z Rachel, która zaczyna miękko gładzić palcami główkę Twojego penisa."
+
+# game/day30.rpy:1043
+translate polish day30_r_handjob_cec6a413:
+
+    # "{i}The touch makes you shiver, and it takes all your self-control to appear as an active participant in the conversation."
+    "{i}Jej dotyk powoduje u Ciebie dreszcze, musisz zaangażować całą swoją siłę woli, żeby sprawiać wrażenie, że normalnie uczestniczysz w konwersacji."
+
+# game/day30.rpy:1044
+translate polish day30_r_handjob_3b4e6303:
+
+    # r "So I said it to her, just like that..."
+    r "Więc jej to powiedziałam, tak po prostu..."
+
+# game/day30.rpy:1045
+translate polish day30_r_handjob_fd265ddb:
+
+    # b "You wouldn't!"
+    b "Nie zrobiłaś tego!"
+
+# game/day30.rpy:1046
+translate polish day30_r_handjob_ba9b54e4:
+
+    # r "I did. She was super-pissed afterwards, of course."
+    r "Zrobiłam. Była potem na mnie mega wściekła."
+
+# game/day30.rpy:1047
+translate polish day30_r_handjob_7b0a7b75:
+
+    # b "Of course she was."
+    b "No jasne, że tak."
+
+# game/day30.rpy:1048
+translate polish day30_r_handjob_61873aa8:
+
+    # "{i}Afraid the movements of her arm might give her away, [r_name] resorts to massaging your shaft with extra care. Her fingers explore the entirety of your cock, lingering on the sensitive areas of your glans."
+    "{i}Obawiając się, że ruchy jej ręki mogłyby ściągnąć na siebie uwagę, Rachel ogranicza się do ostrożnego masowania Twojego trzonu. Jej palce błądzą po całej długości Twojego penisa, poświęcając szczególną uwagę wrażliwej główce."
+
+# game/day30.rpy:1049
+translate polish day30_r_handjob_34b6f0cb:
+
+    # "{i}The precum that's already dripping from the tip of your penis is used by her as a lubricant."
+    "{i}Używa pre-ejakulatu, który już wycieka z czubka Twojego penisa, jako lubrykantu."
+
+# game/day30.rpy:1051
+translate polish day30_r_handjob_4d90cf88:
+
+    # b "So did she ever talk to you again afterwards?"
+    b "I już nigdy więcej się do Ciebie nie odezwała?"
+
+# game/day30.rpy:1052
+translate polish day30_r_handjob_074351be:
+
+    # p "Nope. Never."
+    r "Nie. Nigdy."
+
+# game/day30.rpy:1053
+translate polish day30_r_handjob_6435b31f:
+
+    # b "Ouch, that's harsh."
+    b "Ouch, widocznie ją zabolało."
+
+# game/day30.rpy:1054
+translate polish day30_r_handjob_42a7fc69:
+
+    # "{i}[b_name] doesn't even notice you're not paying attention anymore. All your focus is going to [r_name]'s fingers caressing your cock."
+    "{i}Bella nawet nie rejestruje, że już nie uważasz. Skupiasz się już tylko na palcach Rachel pieszczących Twojego penisa."
+
+# game/day30.rpy:1058
+translate polish day30_r_handjob_18797b0d:
+
+    # "{i}A small moan escapes you, as you think you can't hold out much longer. [r_name] notices and stops."
+    "{i}Wymyka Ci się cichy jęk, zdajesz sobie sprawę, że już długo nie wytrzymasz. Rachel zauważa i przestaje."
+
+# game/day30.rpy:1059
+translate polish day30_r_handjob_5590690c:
+
+    # p "{i}(What?! No!)"
+    p "{i}(Co?! Nie!)"
+
+# game/day30.rpy:1061
+translate polish day30_r_handjob_c16cda11:
+
+    # "{i}Deftly she brushes the spoon that's on the table to the ground."
+    "{i}Zgrabnym ruchem strąca łyżeczkę ze stołu."
+
+# game/day30.rpy:1062
+translate polish day30_r_handjob_e934c023:
+
+    # r "Stupid me. Dropped my spoon."
+    r "Jestem taka niezdarna. Upuściłam łyżeczkę."
+
+# game/day30.rpy:1063
+translate polish day30_r_handjob_c39dbcf2:
+
+    # r "Be right back."
+    r "Poczekaj chwilę."
+
+# game/day30.rpy:1064
+translate polish day30_r_handjob_cbbe9a86:
+
+    # p "{i}(What's she playing at?)"
+    p "{i}(Co ona kombinuje?)"
+
+# game/day30.rpy:1069
+translate polish day30_r_handjob_2cce156b:
+
+    # "{i}At first, you think she's really looking for the spoon, but then you feel something warm and wet on your cock."
+    "{i}Z początku myślisz, że naprawdę szuka łyżeczki, ale po chwili czujesz coś ciepłego i mokrego na swoim fiucie."
+
+# game/day30.rpy:1070
+translate polish day30_r_handjob_73ba43ad:
+
+    # p "{i}(God no, she isn't... not in the middle of...)"
+    p "{i}(O Boże nie, przecież... Nie w trakcie...)"
+
+# game/day30.rpy:1071
+translate polish day30_r_handjob_76ed38e2:
+
+    # b "Are you okay down there, [r_name]?"
+    b "Wszystko w porządku tam na dole Rachel?"
+
+# game/day30.rpy:1072
+translate polish day30_r_handjob_68a35dbb:
+
+    # r "Just a minute, it slipped beneath the bench."
+    r "Minutka, wpadła pod ławkę."
+
+# game/day30.rpy:1073
+translate polish day30_r_handjob_6927f603:
+
+    # b "We can ask for a new one."
+    b "Możemy poprosić o nową."
+
+# game/day30.rpy:1074
+translate polish day30_r_handjob_e3b3d438:
+
+    # "{i}[r_name]'s lips wrap around your cock again, and she starts sucking. The pressure proves too much, and you cum nearly instantly."
+    "{i}Wargi Rachel ponownie oplatają Twojego penisa i zaczyna ssać. To dla Ciebie zbyt wiele i dochodzisz praktycznie natychmiastowo."
+
+# game/day30.rpy:1077
+translate polish day30_r_handjob_0ef4190d:
+
+    # "{i}Luckily [b_name] is too preoccupied with something else, which allows you to orgasm unnoticed."
+    "{i}Całe szczęście, Bella jest czymś zajęta, dzięki temu Twój orgazm pozostaje niezauważony."
+
+# game/day30.rpy:1078
+translate polish day30_r_handjob_3580ead1:
+
+    # b "I'll just go and ask for another spoon."
+    b "Po prostu pójdę i poproszę o drugą łyżeczkę."
+
+# game/day30.rpy:1083
+translate polish day30_r_handjob_a4e47b25:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your sister's eager mouth."
+    "{i}Kiedy Bella odchodzi, dalej wpompowujesz nasienie do chętnych ust Twojej siostry."
+
+# game/day30.rpy:1085
+translate polish day30_r_handjob_0f85b111:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your friend's eager mouth."
+    "{i}Kiedy [b_name] odchodzi, wciąż pompujesz nasienie w chętne usta swojego przyjaciela."
+
+# game/day30.rpy:1086
+translate polish day30_r_handjob_254e46c4:
+
+    # "{i}With a teasing lick of her tongue, you feel [r_name] disengaging from your cock."
+    "{i}W końcu Rachel podnosi się z Twojego fiuta, muskając go jeszcze językiem na pożegnanie."
+
+# game/day30.rpy:1087
+translate polish day30_r_handjob_deee9a1b:
+
+    # r "Found it!"
+    r "Znalazłam!"
+
+# game/day30.rpy:1089
+translate polish day30_r_handjob_39391a2b:
+
+    # r "Oh, where did she go?"
+    r "Oh, gdzie poszła?"
+
+# game/day30.rpy:1090
+translate polish day30_r_handjob_b6686276:
+
+    # p "To get a spoon."
+    p "Po łyżeczkę."
+
+# game/day30.rpy:1091
+translate polish day30_r_handjob_c1c9b398:
+
+    # "{i}[r_name] winks at you as you manage to zip your pants before [b_name] returns."
+    "{i}Rachel puszcza do Ciebie oko i udaje Ci się zapiąć rozporek przed przyjściem Belli."
+
+# game/day30.rpy:1093
+translate polish day30_r_handjob_20f980c3:
+
+    # b "I got you a new spoon."
+    b "Mam dla Ciebie nową łyżeczkę."
+
+# game/day30.rpy:1094
+translate polish day30_r_handjob_3c211131:
+
+    # r "Mmmm. I'm full."
+    r "Mmmm. Jestem taka pełna."
+
+# game/day30.rpy:1095
+translate polish day30_r_handjob_1870fb85:
+
+    # p "{i}(My depraved, red-haired little angel!)"
+    p "{i}(Mój mały, rudy, zdeprawowany aniołek!)"
+
+# game/day30.rpy:1113
+translate polish day30_b_sex_a89b5669:
+
+    # b "I'm claiming my prize, right here and right now."
+    b "Odbiorę swoją nagrodę, tu i teraz."
+
+# game/day30.rpy:1118
+translate polish day30_b_sex_c2d1dece:
+
+    # "{i}As she speaks those last words, [b_name] unclasps her bra and slowly lowers her panties."
+    "{i}Wypowiadając te ostatnie słowa, Bella rozpina swój stanik i ściąga majtki."
+
+# game/day30.rpy:1119
+translate polish day30_b_sex_ac218ea7:
+
+    # p "Are you sure it isn't more of a prize for me?"
+    p "Jesteś pewna, że to nie jest bardziej nagroda dla mnie?"
+
+# game/day30.rpy:1120
+translate polish day30_b_sex_648931c1:
+
+    # b "You know, [p_name], you get stuck in metaphors a little too often."
+    b "Wiesz, [p_name], zbyt często utykasz w metaforach."
+
+# game/day30.rpy:1122
+translate polish day30_b_sex_4197198a:
+
+    # b "Let's just fuck our brains out, shall we?"
+    b "Może po prostu wypieprzmy się jak dzikie króliki?"
+
+# game/day30.rpy:1123
+translate polish day30_b_sex_a224e9e2:
+
+    # p "Hehe, works for me."
+    p "Hehe, mi pasuje."
+
+# game/day30.rpy:1125
+translate polish day30_b_sex_c85ba8f0:
+
+    # "{i}You join your sister on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Dołączasz do swojej siostry na łóżku i po krótkiej eksploracji palcami jej ciała, przyciąga Cię blisko siebie."
+
+# game/day30.rpy:1127
+translate polish day30_b_sex_1870853e:
+
+    # "{i}You join your friend on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Dołączasz do swojej przyjaciółki na łóżku i po krótkiej chwili odkrywania jej ciała opuszkami palców przyciąga cię bliżej siebie."
+
+# game/day30.rpy:1128
+translate polish day30_b_sex_aa580faa:
+
+    # b "Shall we skip the foreplay?"
+    b "Może pominiemy grę wstępną?"
+
+# game/day30.rpy:1129
+translate polish day30_b_sex_af3e1398:
+
+    # b "I just want to feel you..."
+    b "Po prostu chcę Cię już poczuć..."
+
+# game/day30.rpy:1134
+translate polish day30_b_sex_1a554221:
+
+    # "{i}Her soft hands guide your cock inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Jej miękkie dłonie naprowadzają Twojego penisa na jej mokrą szparkę. Patrzy na Ciebie z głodem w oczach, gotowa abyś kontynuował."
+
+# game/day30.rpy:1139
+translate polish day30_b_sex_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Bella wzdycha, po Twoim pierwszym pchnięciu, z ulgi i rozkoszy."
+
+# game/day30.rpy:1140
+translate polish day30_b_sex_a30e07e4:
+
+    # b "God, you feel so good."
+    b "Boże, to takie fantastyczne uczucie."
+
+# game/day30.rpy:1141
+translate polish day30_b_sex_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Przyciskacie swoje ciała do siebie, tak blisko jak to możliwe, chcąc czuć jak najwięcej waszej skóry na sobie nawzajem."
+
+# game/day30.rpy:1142
+translate polish day30_b_sex_4d0f4e4d:
+
+    # "{i}Your love-making is neither frantic, nor aggressive."
+    "{i}W waszych ruchach nie ma gwałtowności, czy agresji."
+
+# game/day30.rpy:1143
+translate polish day30_b_sex_82d646a5:
+
+    # "{i}Instead you both enjoy long, deep thrusts, savoring the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Zamiast tego skupiacie się na długich, głębokich pchnięciach, delektując się waszą czułością i bliskością."
+
+# game/day30.rpy:1145
+translate polish day30_b_sex_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Błagam nie przestawaj."
+
+# game/day30.rpy:1146
+translate polish day30_b_sex_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Nie chcę, żeby to się skończyło!"
+
+# game/day30.rpy:1148
+translate polish day30_b_sex_cacb8ceb:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even deeper."
+    "{i}Kolejne słowa utykają jej w gardle, kiedy znajdujesz pozycję, która pozwala Ci penetrować ją jeszcze głębiej."
+
+# game/day30.rpy:1150
+translate polish day30_b_sex_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Cipka Twojej siostry robi się naprawdę śliska od wilgoci, która zaczyna z niej obficie wyciekać."
+
+# game/day30.rpy:1152
+translate polish day30_b_sex_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Cipka twojej przyjaciółki robi się śliska od wilgoci, która obficie wycieka z jej pochwy."
+
+# game/day30.rpy:1153
+translate polish day30_b_sex_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Poza odgłosami wydawanymi przez wasze kotłujące się ciała, da się usłyszeć jedynie jej przyśpieszony oddech. Zaczynasz masować jej piersi i twarde sutki."
+
+# game/day30.rpy:1155
+translate polish day30_b_sex_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}Oczy Belli wywracają się do tyłu, zaciska zęby i masuje swoją łechtaczkę, potęgując rozkosz jaką daje jej Twój twardy fiut."
+
+# game/day30.rpy:1156
+translate polish day30_b_sex_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Całujesz jej szyję, muskając przy tym mięśnie jej karku, każde włókno jej ciała jest gotowe na nadchodzącą ekstazę."
+
+# game/day30.rpy:1163
+translate polish day30_b_sex_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Jej konwulsje i tak Cię zaskakują, obejmujesz mocno drżące ciało swojej siostry, przetaczają się przez nią kolejne fale orgazmu."
+
+# game/day30.rpy:1165
+translate polish day30_b_sex_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Jej konwulsje wciąż cię zaskakują, gdy trzymasz swoją nagle drżącą przyjaciółkę blisko fal orgazmu falujących przez nią."
+
+# game/day30.rpy:1168
+translate polish day30_b_sex_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}Stymulacja zapewniona przez skurcze jej waginy też doprowadza Cię do spełnienia."
+
+# game/day30.rpy:1169
+translate polish day30_b_sex_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "B- Boże, Bella!"
+
+# game/day30.rpy:1178
+translate polish day30_b_sex_f43963e4:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it releases in a river of cum that seems to flow endlessly."
+    "{i}Jako, że dalej jesteś głęboko w niej, mało brakuje, a nie zdążyłbyś wyciągnąć. Udaje Ci się wycelować w jej brzuch, strumienie spermy wystrzeliwujące z Twojego penisa zdają się nie mieć końca."
+
+# game/day30.rpy:1192
+translate polish day30_b_sex_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Dalej jesteś głęboko w niej kiedy dochodzisz, strumienie spermy wystrzeliwujące z Twojego penisa zdają się nie mieć końca."
+
+# game/day30.rpy:1201
+translate polish day30_b_sex_fe0ab1db:
+
+    # b "Mmmm, there's so much of it, baby."
+    b "Mmmm, kochanie, jest tego tak dużo."
+
+# game/day30.rpy:1206
+translate polish day30_b_sex_58730cbb:
+
+    # "{i}Both smiling, you lie next to each other, basking in the afterglow of your lust."
+    "{i}Oboje uśmiechacie się, leżąc obok siebie, pozwalając waszym ciałom ostygnąć z waszej żądzy."
+
+# game/day30.rpy:1207
+translate polish day30_b_sex_5b062d3c:
+
+    # b "I really don't know how we do this every time."
+    b "Naprawdę nie wiem, jak my to za każdym razem robimy."
+
+# game/day30.rpy:1208
+translate polish day30_b_sex_ecf4872a:
+
+    # p "Making a mess of every bed we lie upon?"
+    p "Bajzel z każdego łóżka, w którym się położymy?"
+
+# game/day30.rpy:1209
+translate polish day30_b_sex_d5278058:
+
+    # b "That too."
+    b "To też."
+
+# game/day30.rpy:1210
+translate polish day30_b_sex_713c467f:
+
+    # b "But I was talking about the crazy hot sex we just had."
+    b "Ale mówiłam o tym szalenie gorącym seksie, który właśnie miał tu miejsce."
+
+# game/day30.rpy:1211
+translate polish day30_b_sex_7a5e75e7:
+
+    # p "Oh that. I'm sure it'll pass."
+    p "Ah to. Jestem pewny, że to minie."
+
+# game/day30.rpy:1212
+translate polish day30_b_sex_29dedd4b:
+
+    # "{i}You emit a perfunctory grunt at the elbow in the side you receive from [b_name]."
+    "{i}Stękasz niedbale wyrywając od Belli kuksańca łokciem w bok."
+
+# game/day30.rpy:1213
+translate polish day30_b_sex_0a7939d3:
+
+    # b "As soon as that's the case I'll dump you and find a young stud to make my plaything."
+    b "Kiedy tylko do tego dojdzie, rzucę Cię i znajdę sobie młodego ogiera, żeby mnie zabawiał."
+
+# game/day30.rpy:1214
+translate polish day30_b_sex_04cd152c:
+
+    # p "In that case I'll get me a nice harem of willing nubile girls."
+    p "W takim wypadku, ja załatwię sobie harem pełen chętnych, ponętnych dziewcząt."
+
+# game/day30.rpy:1215
+translate polish day30_b_sex_6612fe99:
+
+    # b "Suuure!"
+    b "Jaaasne!"
+
+# game/day30.rpy:1216
+translate polish day30_b_sex_a67bc7ef:
+
+    # p "Watch me!"
+    p "Jeszcze zobaczysz!"
+
+# game/day30.rpy:1218
+translate polish day30_b_sex_aa8816fe:
+
+    # b "God, you know your stuff is still leaking out of me?"
+    b "Boże, wiesz, że Twoje cuś dalej ze mnie wypływa?"
+
+# game/day30.rpy:1219
+translate polish day30_b_sex_3cd9d6d3:
+
+    # p "I'm not sure if I'm ready for that level of detail."
+    p "Nie jestem pewien, czy jestem gotowy na tak drastyczne szczegóły."
+
+# game/day30.rpy:1220
+translate polish day30_b_sex_f08b7a94:
+
+    # b "You were very happy to fill me up just now."
+    b "Przed chwilą nie miałeś problemu, żeby mnie nią napełnić."
+
+# game/day30.rpy:1221
+translate polish day30_b_sex_136f08ac:
+
+    # p "That was in the heat of passion."
+    p "To było w ogniu namiętności."
+
+# game/day30.rpy:1222
+translate polish day30_b_sex_fb9fbb20:
+
+    # b "Yeah, lots of sticky passion clinging to my thighs."
+    b "Tak, mnóstwo Twojej lepkiej namiętności klei się do moich ud."
+
+# game/day30.rpy:1223
+translate polish day30_b_sex_49d3b6af:
+
+    # p "Well maybe we'll get lucky and have triplets."
+    p "Cóż, może będziemy mieli szczęście i trafią się nam trojaczki."
+
+# game/day30.rpy:1225
+translate polish day30_b_sex_9d358d84:
+
+    # b "[p_name]!"
+    b "[p_name]!"
+
+# game/day30.rpy:1226
+translate polish day30_b_sex_cee82782:
+
+    # p "Shit, sorry, bad joke."
+    p "Cholera, przepraszam, kiepski żart."
+
+# game/day30.rpy:1228
+translate polish day30_b_sex_8f42f273:
+
+    # b "But you know I'm on the pill, right?"
+    b "Ale wiesz, że biorę tabletki, prawda?"
+
+# game/day30.rpy:1229
+translate polish day30_b_sex_f5e1f349:
+
+    # p "Of course, I just made a stupid joke."
+    p "Oczywiście, to był tylko głupi żart."
+
+# game/day30.rpy:1230
+translate polish day30_b_sex_f7a61144:
+
+    # b "Don't worry."
+    b "Nie przejmuj się."
+
+# game/day30.rpy:1231
+translate polish day30_b_sex_adfc592a:
+
+    # b "Just kiss me and hold me, silly."
+    b "Tylko pocałuj mnie i przytul głupku."
+
+# game/day30.rpy:1233
+translate polish day30_b_sex_1dd26a96:
+
+    # b "God, you know your stuff is still dripping off my body?"
+    b "Boże, wiesz, że Twoje cuś dalej spływa po moim ciele?"
+
+# game/day30.rpy:1234
+translate polish day30_b_sex_4c00e69b:
+
+    # p "I'm not sure if I'm ready for that level detail."
+    p "Nie jestem pewien, czy jestem gotowy na tak drastyczne szczegóły."
+
+# game/day30.rpy:1235
+translate polish day30_b_sex_c8745a14:
+
+    # b "You were very happy to make an enormous mess just now."
+    b "Byłeś bardzo szczęśliwy robiąc przed chwilą ogromny bałagan"
+
+# game/day30.rpy:1236
+translate polish day30_b_sex_136f08ac_1:
+
+    # p "That was in the heat of passion."
+    p "To było w ogniu namiętności."
+
+# game/day30.rpy:1237
+translate polish day30_b_sex_5fd8e631:
+
+    # b "Yeah, lots of sticky passion clinging to my breasts and belly."
+    b "Tak, mnóstwo Twojej lepkiej namiętności klei się do moich piersi i brzucha."
+
+# game/day30.rpy:1238
+translate polish day30_b_sex_8df6fc01:
+
+    # p "I'll get you a wet towel."
+    p "Przyniosę Ci mokry ręcznik."
+
+# game/day30.rpy:1240
+translate polish day30_b_sex_6d1edd82:
+
+    # b "Nah, I just want you to kiss and hold me."
+    b "Nie, teraz chcę już tylko, żebyś mnie pocałował i przytulił."
+
+# game/day30.rpy:1242
+translate polish day30_b_sex_ce48a7c6:
+
+    # "{i}You do just that and after a very long good night's kiss, you fall asleep in [b_name]'s arms."
+    "{i}Robisz to i po długim pocałunku na dobranoc, zasypiasz w ramionach Belli."
+
+# game/day30.rpy:1261
+translate polish day30_b_sex_hard_c5c25e74:
+
+    # b "Oh god..."
+    b "O Boże..."
+
+# game/day30.rpy:1267
+translate polish day30_b_sex_hard_155a77a1:
+
+    # "{i}You turn the dial further up and move towards her to wrap your arms around her, [b_name] is too caught up in the vibrations of the egg to protest."
+    "{i}Przekręcasz gałkę pilota jeszcze wyżej i podchodzisz do niej, żeby ją objąć, Bella jest zbyt rozkojarzona wibracjami jajeczka, żeby protestować."
+
+# game/day30.rpy:1268
+translate polish day30_b_sex_hard_32995828:
+
+    # p "You know you're special to me too."
+    p "Wiesz, że też jesteś dla mnie ważna."
+
+# game/day30.rpy:1269
+translate polish day30_b_sex_hard_49b17505:
+
+    # b "I don't care..."
+    b "Nie obchodzi mnie..."
+
+# game/day30.rpy:1271
+translate polish day30_b_sex_hard_0adb5808:
+
+    # p "But I told you before, that I have the freedom to see other women."
+    p "Ale powiedziałem Ci wcześniej, że mam wolną rękę, żeby widywać się z innymi kobietami."
+
+# game/day30.rpy:1273
+translate polish day30_b_sex_hard_69e084dc:
+
+    # p "You are, but that doesn't mean I don't have the freedom to see other women."
+    p "Jesteś, ale to nie znaczy, że nie mogę widywać się z innymi kobietami."
+
+# game/day30.rpy:1274
+translate polish day30_b_sex_hard_4fc5b27b:
+
+    # b "But [r_name]?!"
+    b "Ale z Rachel?!"
+
+# game/day30.rpy:1275
+translate polish day30_b_sex_hard_811a6300:
+
+    # p "Yes, what about her?"
+    p "Tak, co z nią?"
+
+# game/day30.rpy:1276
+translate polish day30_b_sex_hard_6bbc92fd:
+
+    # p "She's beautiful, sweet and just absolutely great."
+    p "Jest piękna, urocza i ogólnie po prostu cudowna."
+
+# game/day30.rpy:1278
+translate polish day30_b_sex_hard_9cf9877d:
+
+    # p "Which isn't much of a surprise, considering she's your sister."
+    p "Co nie powinno zaskakiwać, skoro jest Twoją siostrą."
+
+# game/day30.rpy:1279
+translate polish day30_b_sex_hard_5fbb4c2f:
+
+    # p "And I'll love you both just as much."
+    p "Kocham was oboje, tak samo mocno."
+
+# game/day30.rpy:1280
+translate polish day30_b_sex_hard_32625464:
+
+    # b "I don't..."
+    b "Ja nie..."
+
+# game/day30.rpy:1284
+translate polish day30_b_sex_hard_3f9bd061:
+
+    # "{i}As you kiss, you turn the vibrator off, [b_name] is eagerly kissing you back without the arousing effect of the vibrator."
+    "{i}Kiedy ją całujesz, wyłączasz wibrator, Bella ochoczo odwzajemnia Twój pocałunek, nawet bez podniecającego wpływu wibratora."
+
+# game/day30.rpy:1285
+translate polish day30_b_sex_hard_628fec4d:
+
+    # p "Do you want me to make love to you?"
+    p "Chcesz, żebym się z Tobą kochał?"
+
+# game/day30.rpy:1286
+translate polish day30_b_sex_hard_81039d72:
+
+    # b "Y-y-yes!"
+    b "T- Tak!"
+
+# game/day30.rpy:1291
+translate polish day30_b_sex_hard_0b49445f:
+
+    # "{i}Within moments you've lost all of your clothing, your cock reacting instantly to [b_name]'s naked body."
+    "{i}W moment gubicie wszystkie ubrania, Twój fiut natychmiastowo reaguje na nagie ciało Belli."
+
+# game/day30.rpy:1293
+translate polish day30_b_sex_hard_8b591ce3:
+
+    # p "Lie down for me."
+    p "Połóż się dla mnie."
+
+# game/day30.rpy:1294
+translate polish day30_b_sex_hard_c6495911:
+
+    # p "You may pull your vibrator out."
+    p "Możesz wyciągnąć wibrator."
+
+# game/day30.rpy:1296
+translate polish day30_b_sex_hard_f2dfe94b:
+
+    # "{i}You join your sister on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Dołączasz do swojej siostry na łóżku i po krótkiej chwili odkrywania jej ciała opuszkami palców przyciągasz ją bliżej siebie."
+
+# game/day30.rpy:1298
+translate polish day30_b_sex_hard_253cf534:
+
+    # "{i}You join your friend on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Dołączasz do swojej przyjaciółki na łóżku i po krótkiej chwili odkrywania jej ciała opuszkami palców przyciągasz ją bliżej siebie."
+
+# game/day30.rpy:1304
+translate polish day30_b_sex_hard_2d41f377:
+
+    # "{i}You decide to go slow on her, guiding your cock deep inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Postanawiasz zrobić to powoli, naprowadzasz swojego penisa na jej mokrą szparkę. Patrzy na Ciebie z głodem w oczach, gotowa abyś kontynuował."
+
+# game/day30.rpy:1309
+translate polish day30_b_sex_hard_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Bella wzdycha, po Twoim pierwszym pchnięciu, z ulgi i rozkoszy."
+
+# game/day30.rpy:1310
+translate polish day30_b_sex_hard_58f9c4af:
+
+    # p "Does that feel good?"
+    p "Czy to przyjemne?"
+
+# game/day30.rpy:1311
+translate polish day30_b_sex_hard_996da41a:
+
+    # b "...Y-yes..."
+    b "... T- Tak..."
+
+# game/day30.rpy:1312
+translate polish day30_b_sex_hard_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Przyciskacie swoje ciała do siebie, tak blisko jak to możliwe, chcąc czuć jak najwięcej waszej skóry na sobie nawzajem."
+
+# game/day30.rpy:1313
+translate polish day30_b_sex_hard_341a7bd2:
+
+    # "{i}The long, deep thrusts are enjoyable to you both. You savor the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Skupiasz się na przyjemnych dla was obojga długich, głębokich pchnięciach. Delektujecie się waszą czułością i bliskością."
+
+# game/day30.rpy:1315
+translate polish day30_b_sex_hard_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Błagam nie przestawaj."
+
+# game/day30.rpy:1316
+translate polish day30_b_sex_hard_6d11accc:
+
+    # p "What did you say?"
+    p "Co powiedziałaś?"
+
+# game/day30.rpy:1317
+translate polish day30_b_sex_hard_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Nie chcę, żeby to się skończyło!"
+
+# game/day30.rpy:1318
+translate polish day30_b_sex_hard_835e6e79:
+
+    # p "{i}(She just said that out loud. Wow.)"
+    p "{i}(Właśnie powiedziała to na głos. Wow.)"
+
+# game/day30.rpy:1319
+translate polish day30_b_sex_hard_516395a7:
+
+    # p "I won't."
+    p "Nie przestanę."
+
+# game/day30.rpy:1321
+translate polish day30_b_sex_hard_8a80d1ca:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even more deeply."
+    "{i}Kolejne słowa utykają jej w gardle, kiedy znajdujesz pozycję, która pozwala Ci penetrować ją jeszcze głębiej."
+
+# game/day30.rpy:1323
+translate polish day30_b_sex_hard_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Cipka Twojej siostry robi się naprawdę śliska od wilgoci, która zaczyna z niej obficie wyciekać."
+
+# game/day30.rpy:1325
+translate polish day30_b_sex_hard_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Cipka twojej przyjaciółki robi się śliska od wilgoci, która obficie wycieka z jej pochwy."
+
+# game/day30.rpy:1326
+translate polish day30_b_sex_hard_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Poza odgłosami wydawanymi przez wasze kotłujące się ciała, da się usłyszeć jedynie jej przyśpieszony oddech. Zaczynasz masować jej piersi i twarde sutki."
+
+# game/day30.rpy:1328
+translate polish day30_b_sex_hard_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}Oczy Belli wywracają się do tyłu, zaciska zęby i masuje swoją łechtaczkę, potęgując rozkosz jaką daje jej Twój twardy fiut."
+
+# game/day30.rpy:1329
+translate polish day30_b_sex_hard_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Całujesz jej szyję, muskając przy tym mięśnie jej karku, każde włókno jej ciała jest gotowe na nadchodzącą ekstazę."
+
+# game/day30.rpy:1336
+translate polish day30_b_sex_hard_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Jej konwulsje i tak Cię zaskakują, obejmujesz mocno drżące ciało swojej siostry, przetaczają się przez nią kolejne fale orgazmu."
+
+# game/day30.rpy:1338
+translate polish day30_b_sex_hard_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Jej konwulsje wciąż cię zaskakują, gdy trzymasz swoją nagle drżącą przyjaciółkę blisko fal orgazmu falujących przez nią."
+
+# game/day30.rpy:1340
+translate polish day30_b_sex_hard_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}Stymulacja zapewniona przez skurcze jej waginy też doprowadza Cię do spełnienia."
+
+# game/day30.rpy:1341
+translate polish day30_b_sex_hard_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "B- Boże, Bella!"
+
+# game/day30.rpy:1350
+translate polish day30_b_sex_hard_c711bb9b:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it in a river of cum that seems to flow endlessly."
+    "{i}Jako, że dalej jesteś głęboko w niej, mało brakuje, a nie zdążyłbyś wyciągnąć. Udaje Ci się wycelować w jej brzuch, strumienie spermy wystrzeliwujące z Twojego penisa zdają się nie mieć końca."
+
+# game/day30.rpy:1366
+translate polish day30_b_sex_hard_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Dalej jesteś głęboko w niej kiedy dochodzisz, strumienie spermy wystrzeliwujące z Twojego penisa zdają się nie mieć końca."
+
+# game/day30.rpy:1374
+translate polish day30_b_sex_hard_1683b5e2:
+
+    # "{i}You lie next to each other, in silence, basking in the afterglow of your lust."
+    "{i}Leżycie obok siebie, w ciszy, pozwalając waszym ciałom ostygnąć z waszej żądzy."
 

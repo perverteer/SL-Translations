@@ -56,7 +56,7 @@ translate polish day08_ac3af5c0:
 translate polish day08_c8193e73:
 
     # r "{i}(...He's just a friend.)"
-    r ""
+    r "{i}(On jest tylko przyjacielem)"
 
 # game/day08.rpy:45
 translate polish day08_2b561b96:
@@ -248,7 +248,7 @@ translate polish day08_6281792d:
 translate polish day08_aefe38fc:
 
     # p "{i}(Shit! I'm having an erection, perfectly normal in the morning, guess she isn't used to it.)"
-    p ""
+    p "{i}(Cholera! Mam erekcję zupełnie normalnie rano, chyba nie jest do tego przyzwyczajona)"
 
 # game/day08.rpy:91
 translate polish day08_ec3dde5d:
@@ -644,7 +644,7 @@ translate polish day08_riley_conversation_3b13d890:
 translate polish day08_riley_conversation_7b70b1c9:
 
     # p "Now I live in a house with my Mrs. Smith and three other girls."
-    p ""
+    p "Teraz mieszkam w domu z panią Smith i trzema innymi dziewczynami."
 
 # game/day08.rpy:223
 translate polish day08_riley_conversation_5f53acce:
@@ -662,7 +662,7 @@ translate polish day08_riley_conversation_2ab22981:
 translate polish day08_riley_conversation_d649ba38:
 
     # ri "I think that's probably because they aren't puritanical control freaks, like my family."
-    ri ""
+    ri "Myślę, że to prawdopodobnie dlatego, że nie są purytańskimi maniakami kontroli, jak moja rodzina."
 
 # game/day08.rpy:228
 translate polish day08_riley_conversation_13227893:
@@ -746,7 +746,7 @@ translate polish day08_riley_conversation_eba77349:
 translate polish day08_riley_conversation_5f978da5:
 
     # p "Brody is dating one of the girls I live with."
-    p ""
+    p "Brody spotyka się z jedną z dziewczyn, z którymi mieszkam"
 
 # game/day08.rpy:257
 translate polish day08_riley_conversation_e74c0b9f:
@@ -770,7 +770,7 @@ translate polish day08_riley_conversation_4983513b:
 translate polish day08_riley_conversation_396a53c7:
 
     # ri "Normally I would say you were an overbearing bastard who shouldn't meddle with a girl's life."
-    ri ""
+    ri "Normalnie powiedziałabym, że jesteś apodyktycznym draniem, który nie powinien wtrącać się w życie dziewczyny."
 
 # game/day08.rpy:266
 translate polish day08_riley_conversation_654f382e:
@@ -908,7 +908,7 @@ translate polish day08_riley_conversation_219da4ea:
 translate polish day08_riley_conversation_b54a5070:
 
     # ri "Or rather, I'm going to help [l_name]."
-    ri ""
+    ri "A raczej pomogę [l_name]"
 
 # game/day08.rpy:299
 translate polish day08_riley_conversation_a2641bdf:
@@ -1694,7 +1694,7 @@ translate polish day08_discreet_visit_5070c819:
 translate polish day08_discreet_visit_0911495b:
 
     # j "It sure was. Weird though. Didn't see anybody, certainly not Mrs. Smith."
-    j ""
+    j "To na pewno było dziwne, ale nie widziałem nikogo, a już na pewno nie pani Smith"
 
 # game/day08.rpy:535
 translate polish day08_discreet_visit_3775d1d4:
@@ -2126,7 +2126,7 @@ translate polish day08_p_room_evening_choices_fcd12f60:
 translate polish day08_p_room_evening_choices_49798aa2:
 
     # p "Who could forget you, darling [b_name]?"
-    p ""
+    p "Kto mógłby cię zapomnieć, kochanie [b_name]?"
 
 # game/day08.rpy:692
 translate polish day08_p_room_evening_choices_1eae0a19:
@@ -2210,7 +2210,7 @@ translate polish day08_p_room_evening_choices_d4ff313f:
 translate polish day08_p_room_evening_choices_9d12456b:
 
     # "{i}[b_name] removes her panties and lies down on her bed."
-    ""
+    "{i}[b_name] zdejmuje majtki i kładzie się na łóżku"
 
 # game/day08.rpy:711
 translate polish day08_p_room_evening_choices_aaa79332:
@@ -2270,7 +2270,7 @@ translate polish day08_p_room_evening_choices_91863cf0:
 translate polish day08_p_room_evening_choices_f0202bc6:
 
     # "{i}A small moan escapes [b_name] as she rubs her pussy faster."
-    ""
+    "{i}Mały jęk wymyka się [b_name], gdy szybciej pociera swoją cipkę."
 
 # game/day08.rpy:724
 translate polish day08_p_room_evening_choices_56a2b912:
@@ -2360,7 +2360,7 @@ translate polish day08_p_room_evening_choices_04d6fd88:
 translate polish day08_p_room_evening_choices_8a43ba9d:
 
     # p "Thank you, dear [b_name]. That was some show."
-    p ""
+    p "Dziękuję drogi [b_name] To był niezły pokaz"
 
 # game/day08.rpy:747
 translate polish day08_p_room_evening_choices_c0bf7ea1:
@@ -2432,7 +2432,7 @@ translate polish day08_p_room_evening_choices_cfaa32ad:
 translate polish day08_p_room_evening_choices_cf44e9a3:
 
     # "{i}[r_name] falls asleep before she can finish her sentence."
-    ""
+    "{i}[r_name] zasypia, zanim zdąży dokończyć zdanie"
 
 # game/day08.rpy:779
 translate polish day08_p_room_evening_choices_97a80b44:
@@ -2624,109 +2624,449 @@ translate polish strings:
     old "Receptionist"
     new "Recepcjonistka"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day08.rpy:30
+# game/day08.rpy:31
 translate polish day08_a6db00e0:
 
     # r "{i}(That kiss from last night, wonder if he would like to do it again. The other boy I kissed was so clumsy, that's for sure.)"
-    r "{i}(Ten pocałunek z ostatniej nocy zastanawia się, czy chciałby zrobić to ponownie Inny chłopak, którego pocałowałam był taki niezdarny, to na pewno)"
+    r "{i}(Ten pocałunek z ostatniej nocy, zastanawiam się, czy chciałby to powtórzyć, inny chłopak, którego pocałowałam, był taki niezdarny, to na pewno)"
 
-# game/day08.rpy:222
+# game/day08.rpy:229
 translate polish day08_riley_conversation_0ed1774b:
 
     # p "Now I live in a house with Mrs. Smith and three other girls."
     p "Teraz mieszkam w domu z panią Smith i trzema innymi dziewczynami"
 
-# game/day08.rpy:241
+# game/day08.rpy:248
 translate polish day08_riley_conversation_fd707794:
 
     # ri "Yes, he does. I think he's fucking her in his office."
-    ri "Tak ma, myślę, że pieprzy ją w swoim biurze."
+    ri "Często. Myślę, że ruchają się w tym biurze."
 
-# game/day08.rpy:380
+# game/day08.rpy:389
 translate polish day08_discreet_visit_fe2f92a0:
 
     # "{i}After a short walk to the center of town, you arrive at the office building where Discreet Inc. is located."
-    "{i}Po krótkim spacerze do centrum miasta docierasz do biurowca, w którym mieści się Discreet Inc"
+    "{i}Po krótkim spacerze do centrum miasta, docierasz do miejsca gdzie znajduje się biuro Discreet."
 
-# game/day08.rpy:396
+# game/day08.rpy:405
 translate polish day08_discreet_visit_5358c61d:
 
     # p "{i}(That's pricey and the test still sounds invasive, but if I don't do it, I won't find out what [m_name] is hiding.)"
-    p "{i}(To jest drogie i test nadal brzmi inwazyjnie, ale jeśli go nie zrobię, nie dowiem się, co ukrywa [m_name])"
+    p "{i}(To niemało, ten test też nie brzmi zachęcająco, ale jeśli tego nie zrobię, to nigdy nie dowiem się co ukrywa Susan.)"
 
-# game/day08.rpy:409
+# game/day08.rpy:418
 translate polish day08_discreet_visit_691e2e90:
 
     # woman "If you're accepted, we'll schedule your first session with us. This is also the time when a down payment is required, on top of the regular consulting fees."
-    woman "Jeśli zostaniesz zaakceptowany, zaplanujemy Twoją pierwszą sesję z nami Jest to również czas, kiedy wymagana jest zaliczka oprócz regularnych opłat za konsultacje"
+    woman "Jeśli zostanie pan zaakceptowany, ustalimy termin pana pierwszej wizyty. Wtedy też będzie musiał pan uiścić opłatę."
 
-# game/day08.rpy:446
+# game/day08.rpy:455
 translate polish day08_discreet_visit_923938cd:
 
     # p "{i}(I insert two fingers into her young pussy and start to finger-fuck her until she orgasms. With my technique, it will be an orgasm she will always remember as it stimulates female ejaculation.)"
-    p "{i}(wkładam dwa palce do jej młodej cipki i zaczynam ją pieścić palcami aż do orgazmu Z moją techniką będzie to orgazm, który zawsze zapamięta, ponieważ stymuluje on kobiecy wytrysk)"
+    p "{i}(Wsuwam dwa palce do jej młodej cipki i zaczynam ruchać ją moimi palcami doprowadzając ją do orgazmu. Z użyciem mojej techniki doprowadzam ją do wytrysku, będzie to coś czego nigdy nie zapomni.)"
 
-# game/day08.rpy:486
+# game/day08.rpy:495
 translate polish day08_discreet_visit_ee5df466:
 
     # woman "That's a shame, sir. If you ever change your mind, you know where to find us."
-    woman "To szkoda sir Jeśli kiedykolwiek zmieni pan zdanie, wie pan gdzie nas znaleźć"
+    woman "To wielka szkoda panie Holmes. Jeśli zmieni pan kiedyś zdanie, wie pan gdzie nas znaleźć."
 
-# game/day08.rpy:488
+# game/day08.rpy:497
 translate polish day08_discreet_visit_63e72202:
 
     # woman "Good day to you, sir."
-    woman "Dzień dobry panu"
+    woman "Miłego dnia panie Holmes."
 
-# game/day08.rpy:510
+# game/day08.rpy:521
 translate polish day08_discreet_visit_bbf8c7e0:
 
     # "{i}(An hour past 2 PM, you receive a call from James.)"
     "{i}(Godzinę po 14:00 otrzymujesz telefon od Jamesa)."
 
-# game/day08.rpy:539
+# game/day08.rpy:550
 translate polish day08_discreet_visit_da4edff0:
 
     # j "Thanks, man. Talk to you later."
-    j "Thanks man Talk to you later"
+    j "Dzięki stary. Pogadamy później."
 
-# game/day08.rpy:628
-translate polish day08_ana_visit_a727b9dd:
-
-    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
-    "{i}Z dużym wysiłkiem wciąż ją pieprzysz Sperma wycieka z jej pochwy czyniąc twojego spazmującego kutasa śliskim"
-
-# game/day08.rpy:664
-translate polish day08_ana_visit_25d35c37:
-
-    # p "In that case, I hope I have the stamina to perform."
-    p "W takim razie mam nadzieję, że mam wytrzymałość na występ"
-
-# game/day08.rpy:703
+# game/day08.rpy:600
 translate polish day08_p_room_evening_choices_78e5735d:
 
     # "{i}As you turn around to walk to the door, you see the doubt on [b_name]'s face. This is clearly a new line for her to cross."
-    "{i}Gdy odwracasz się, by iść do drzwi, widzisz wątpliwości na twarzy [b_name] To najwyraźniej nowa granica, którą przekroczyła."
+    "{i}Kiedy odwracasz się w kierunku drzwi, widzisz zwątpienie na twarzy Belli. To dla niej nowa granica, nie wie czy chce ją przekroczyć."
 
-# game/day08.rpy:704
+# game/day08.rpy:601
 translate polish day08_p_room_evening_choices_5ebe21ef:
 
     # "{i}When she moves her hand to her back to unclasp her bra, your heart seems to skip a beat."
-    "{i}Kiedy przesuwa rękę na plecy, by rozpiąć stanik, twoje serce zdaje się przeskakiwać."
+    "{i}Kiedy sięga dłonią za plecy, żeby odpiąć swój biustonosz, Twoje serce zamiera na moment."
 
-# game/day08.rpy:750
+# game/day08.rpy:647
 translate polish day08_p_room_evening_choices_fb4ae194:
 
     # p "When she sleeps, she looks so angelic. It eases all the hardness out of her face."
-    p "Kiedy śpi, wygląda tak anielsko, że z twarzy znika cała twardość"
+    p "We śnie wygląda jak aniołek. Sen usuwa z jej twarzy całą złość."
 
-# game/day08.rpy:770
+# game/day08.rpy:668
 translate polish day08_p_room_evening_choices_d2ddba57:
 
     # p "Don't worry, sleep well, [r_name]."
-    p "Don't worry sleep well [r_name]"
->>>>>>> polish
+    p "Nie przejmuj się, śpij dobrze Rachel."
+
+# game/day08.rpy:727
+translate polish day08_ana_sex_22702385:
+
+    # a "Are you going to fuck me, [p_name]?"
+    a "Zerżniesz mnie [p_name]?"
+
+# game/day08.rpy:728
+translate polish day08_ana_sex_2e86bc82:
+
+    # p "The thought has crossed my mind."
+    p "Nie ukrywam, przeszło mi to przez myśl."
+
+# game/day08.rpy:729
+translate polish day08_ana_sex_dca9bfc2:
+
+    # p "A lot."
+    p "Wielokrotnie."
+
+# game/day08.rpy:730
+translate polish day08_ana_sex_7f108f9a:
+
+    # a "Hehe."
+    a "Hehe."
+
+# game/day08.rpy:735
+translate polish day08_ana_sex_528dd6bf:
+
+    # a "Let me get you ready."
+    a "Pozwól, że Cię przygotuję."
+
+# game/day08.rpy:739
+translate polish day08_ana_sex_1611ca52:
+
+    # "{i}Ana unzips your trousers and frees your growing member. She starts kissing and licking your penis, while gently massaging your balls."
+    "{i}Ana rozpina Twoje spodnie i uwalnia Twojego rosnącego członka. Zaczyna całować i lizać Twojego penisa, masując jednocześnie Twoje jądra."
+
+# game/day08.rpy:747
+translate polish day08_ana_sex_c75481bb:
+
+    # a "You like that don't you?"
+    a "Podoba Ci się to, co?"
+
+# game/day08.rpy:748
+translate polish day08_ana_sex_939349fb:
+
+    # a "Do you want me to suck it, make it all wet?"
+    a "Chcesz, żebym go possała? Pokryła go swoją śliną?"
+
+# game/day08.rpy:754
+translate polish day08_ana_sex_6606018f:
+
+    # p "Put it in your mouth."
+    p "Weź go do ust."
+
+# game/day08.rpy:759
+translate polish day08_ana_sex_96e5c3db:
+
+    # a "Mmmmm."
+    a "Mmmmm."
+
+# game/day08.rpy:760
+translate polish day08_ana_sex_9acf9aff:
+
+    # "{i}Clearly already adjusted to your size, Ana's mouth slides down the full length of your your shaft, her tongue whirling fast and eager."
+    "{i}Wyraźnie przyzwyczajona już do Twojego rozmiaru, Ana połyka całą długość Twojego penisa, oplatając go łapczywie językiem."
+
+# game/day08.rpy:761
+translate polish day08_ana_sex_01654862:
+
+    # p "{i}(Oh fuck, this is so good. If she keeps at it like this I'm going to cum already.)"
+    p "{i}(O kurwa, jest naprawdę dobra. Jeśli nie zwolni, to niedługo dojdę.)"
+
+# game/day08.rpy:768
+translate polish day08_ana_sex_dd377334:
+
+    # "{i}She clearly sees you struggling not to fill her mouth with semen, so Ana stops and looks at you longingly while fingering her pussy."
+    "{i}Zauważa, że musisz się już kontrolować, więc przestaje i patrzy na Ciebie tęsknie, robiąc sobie palcówkę."
+
+# game/day08.rpy:769
+translate polish day08_ana_sex_afdc4606:
+
+    # a "Stay with me, [p_name], don't cum yet."
+    a "Nie rób mi tego [p_name], nie spuszczaj się jeszcze."
+
+# game/day08.rpy:770
+translate polish day08_ana_sex_21cd4f33:
+
+    # a "I want your dick in my pussy."
+    a "Chcę poczuć Cię w sobie."
+
+# game/day08.rpy:771
+translate polish day08_ana_sex_8f0a9462:
+
+    # a "Would you like that?"
+    a "Mógłbyś to dla mnie zrobić?"
+
+# game/day08.rpy:772
+translate polish day08_ana_sex_574340d2:
+
+    # p "Hell yes."
+    p "A żebyś wiedziała."
+
+# game/day08.rpy:779
+translate polish day08_ana_sex_44c1eb5a:
+
+    # p "Are you rubbing your clit for me, dirty girl?"
+    p "Pocierasz dla mnie swoją łechtaczkę, niegrzeczna dziewczynko?"
+
+# game/day08.rpy:780
+translate polish day08_ana_sex_c414b917:
+
+    # a "Uhuh, I want to be all wet when you fuck me."
+    a "Yhym, chcę być tak mokra jak to możliwe kiedy będziesz mnie rżnął."
+
+# game/day08.rpy:781
+translate polish day08_ana_sex_62cde2e6:
+
+    # p "I think your cunt is clearly ready for my dick."
+    p "Myślę, że Twoja pizda jest już na mnie gotowa."
+
+# game/day08.rpy:785
+translate polish day08_ana_sex_7a20b216:
+
+    # p "Spread your legs for me, show me that sweet pussy of yours."
+    p "Rozłóż nogi, pokaż mi tą swoją słodką cipkę."
+
+# game/day08.rpy:791
+translate polish day08_ana_sex_daca5362:
+
+    # "{i}You tease her glistening pussy lips with the tip of your penis. Ana moans with abandon."
+    "{i}Drażnisz jej lśniącą od soków cipkę czubkiem swojego penisa. Ana wzdycha w oczekiwaniu."
+
+# game/day08.rpy:792
+translate polish day08_ana_sex_142e69c9:
+
+    # a "Put it in [p_name]. Fuck me!"
+    a "Włóż go [p_name]. Zerżnij mnie!"
+
+# game/day08.rpy:795
+translate polish day08_ana_sex_14dac887:
+
+    # "{i}You push the tip of your penis past her labia. Ana gasps and you push further until your member is completely engulfed by her womanhood."
+    "{i}Zdecydowanym ruchem wpychasz w nią swojego penisa. Ana wzdycha, nie przestajesz dopychać go głębiej do momentu aż wchodzisz w nią na całą długość."
+
+# game/day08.rpy:796
+translate polish day08_ana_sex_2632d017:
+
+    # a "Aah, you feel so good, [p_name]."
+    a "Aah, cudowne uczucie."
+
+# game/day08.rpy:797
+translate polish day08_ana_sex_48808d18:
+
+    # p "Yeah, you want me to fuck your dirty little pussy? Make you scream, you little slut?"
+    p "Tak? Chcesz, żebym wyruchał tą Twoją ciasną cipkę? Mam sprawić, że będziesz jęczeć jak pospolita kurwa?"
+
+# game/day08.rpy:798
+translate polish day08_ana_sex_924215d2:
+
+    # a "Make me scream, [p_name]!"
+    a "Tak [p_name], zrób ze mnie swoją kurwę!"
+
+# game/day08.rpy:804
+translate polish day08_ana_sex_b44e9ea5:
+
+    # "{i}Slowly you fuck her pussy. Ana's hands are all over your back, squeezing and raking, as if encouraging you to go deeper and faster."
+    "{i}Posuwasz powoli jej cipkę. Ana obejmuje Cię rękami, ściskając Twoje plecy, jakby próbując przyśpieszyć Twoje ruchy."
+
+# game/day08.rpy:805
+translate polish day08_ana_sex_c7b3048d:
+
+    # a "F-f-fuck yes!"
+    a "K- Ku- Kurwa Tak!"
+
+# game/day08.rpy:806
+translate polish day08_ana_sex_8ef1766a:
+
+    # a "Fuck me harder, [p_name]!"
+    a "Rżnij mnie, rżnij mnie mocniej [p_name]!"
+
+# game/day08.rpy:807
+translate polish day08_ana_sex_879bf6b4:
+
+    # a "Harder!"
+    a "Mocniej!"
+
+# game/day08.rpy:811
+translate polish day08_ana_sex_a84462e0:
+
+    # "{i}Ana's room is filled with noises of moaning, gasping and the wet, rhythmic sounds of penetration."
+    "{i}Pokój Any wypełniają jęki oraz odgłosy mokrej i rytmicznej penetracji."
+
+# game/day08.rpy:814
+translate polish day08_ana_sex_d6faea8c:
+
+    # "{i}With closed eyes and a look of bliss on her flushed face, Ana starts rubbing her clitoris."
+    "{i}Z zamkniętymi oczyma i wyrazem rozkoszy na zarumienionej twarzy, Ana zaczyna masować swoją łechtaczkę."
+
+# game/day08.rpy:815
+translate polish day08_ana_sex_2da1e7f5:
+
+    # a "Aaaah... Don't stop! Please don't stop!"
+    a "Aaaah... Nie przestawaj! Proszę nie przestawaj!"
+
+# game/day08.rpy:816
+translate polish day08_ana_sex_a0bb9737:
+
+    # "{i}You feel her muscles contracting, applying more pressure to your dick. You're about to cum and Ana is close too, you feel."
+    "{i}Czujesz jak jej mięśnie zaciskają się na Twoim fiucie. Zaraz dojdziesz i czujesz, że Ana też jest już blisko."
+
+# game/day08.rpy:817
+translate polish day08_ana_sex_678e1d5b:
+
+    # p "I'm cumming."
+    p "Dochodzę."
+
+# game/day08.rpy:818
+translate polish day08_ana_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Tak! Zrób to!"
+
+# game/day08.rpy:824
+translate polish day08_ana_sex_99948d78:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaah!!!"
+
+# game/day08.rpy:828
+translate polish day08_ana_sex_5544b7c9:
+
+    # "{i}A thick load of sperm fills Ana's vagina. With clawing hands she pushes your body down, clearly urging you to keep going."
+    "{i}Wypełniasz Anę swoją gęstą spermą. Ana wbija w Ciebie swoje paznokcie dociskając Cię do siebie, wyraźnie zachęcając Cię, żebyś kontynuował."
+
+# game/day08.rpy:830
+translate polish day08_ana_sex_1bd5a98d:
+
+    # a "Fuck me! I'm about to..."
+    a "Kurwa! Już prawie..."
+
+# game/day08.rpy:831
+translate polish day08_ana_sex_a727b9dd:
+
+    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
+    "{i}Z niemałym wysiłkiem, nie przestajesz jej ruchać. Sperma wypływająca z jej cipki dodatkowo nawilża Twojego pulsującego penisa."
+
+# game/day08.rpy:838
+translate polish day08_ana_sex_be2d2108:
+
+    # a "Y-y-yesssssss!!!"
+    a "T- Taaaaaaaakk!!!"
+
+# game/day08.rpy:839
+translate polish day08_ana_sex_2be3b5ce:
+
+    # "{i}Both her hands slam down on your ass as she holds you tight, orgasming wildly."
+    "{i}Jej obie dłonie zaciskają się na Twoim tyłku, ściska Cię mocno dochodząc gwałtownie."
+
+# game/day08.rpy:844
+translate polish day08_ana_sex_219776d4:
+
+    # "{i}After you pull out Ana slides her fingers lazily in and out of her cunt, spreading cum all over her pubic area. She still moans softly."
+    "{i}Kiedy wreszcie się z niej wycofujesz, Ana leniwie masuje palcami swoją cipkę rozprowadzając Twoją spermę po swoim podbrzuszu. Dalej jęczy łagodnie."
+
+# game/day08.rpy:849
+translate polish day08_ana_sex_7db673e9:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's vagina still oozing with your cum."
+    "{i}Wrócenie do siebie zajmuje wam chwilę. Oboje leżycie nadzy na łóżku, z cipki Any dalej wycieka Twoja sperma."
+
+# game/day08.rpy:860
+translate polish day08_ana_sex_35788734:
+
+    # "{i}As soon as you feel you're about to cum you pull out and shoot a thick load of sperm over Ana's body."
+    "{i}Gdy tylko czujesz zbliżający się orgazm, wycofujesz się z niej i pokrywasz ciało Any swoją gęstą spermą."
+
+# game/day08.rpy:864
+translate polish day08_ana_sex_99948d78_1:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaah!!!"
+
+# game/day08.rpy:870
+translate polish day08_ana_sex_79bb4801:
+
+    # "{i}Clearly not satisfied, Ana rubs her pussy more violently, massaging her breasts with your cum."
+    "{i}Wyraźnie nieusatysfakcjonowana, Ana pociera gwałtownie swoją cipkę, masując swoje piersi, pokryte Twoją spermą."
+
+# game/day08.rpy:871
+translate polish day08_ana_sex_be2d2108_1:
+
+    # a "Y-y-yesssssss!!!"
+    a "T- Taaaaaaaakk!!!"
+
+# game/day08.rpy:875
+translate polish day08_ana_sex_a3032372:
+
+    # "{i}Your dick still dripping with semen, you look at her while she violently orgasms on the bed."
+    "{i}Z Twojego penisa dalej wyciekają resztki nasienia, patrzysz na Anę jak dochodzi gwałtownie na łóżku."
+
+# game/day08.rpy:880
+translate polish day08_ana_sex_d43e1bed:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's body covered with your drying cum."
+    "{i}Dojście do siebie zajmuje wam chwilę. Oboje leżycie nadzy na łóżku, ciało Any lśni od Twojej schnącej spermy."
+
+# game/day08.rpy:889
+translate polish day08_ana_sex_9014c5a1:
+
+    # a "That was so good."
+    a "To było takie dobre."
+
+# game/day08.rpy:890
+translate polish day08_ana_sex_cf6d0b68:
+
+    # p "I agree."
+    p "Zgadzam się."
+
+# game/day08.rpy:891
+translate polish day08_ana_sex_27abc72b:
+
+    # a "If you're not careful I'm going to call you every hour for some exercise."
+    a "Lepiej uważaj, bo zacznę Cię wzywać co godzinę, na małe co nieco."
+
+# game/day08.rpy:892
+translate polish day08_ana_sex_25d35c37:
+
+    # p "In that case, I hope I have the stamina to perform."
+    p "W takim razie, mam nadzieję, że dam radę stanąć na wysokości zadania."
+
+# game/day08.rpy:893
+translate polish day08_ana_sex_96edc86c:
+
+    # a "Hate to say this, because I could have another go, but my Mom is about to come home. And I want to avoid the complicated questions she might have."
+    a "Wolałabym tego nie mówić, bo mam ochotę na drugą rundę, ale moja mama niedługo wróci. A wolałabym uniknąć jej niewygodnych pytań."
+
+# game/day08.rpy:894
+translate polish day08_ana_sex_8475d17b:
+
+    # p "{i}(Damn she's insatiable. Though I could go again as well, now that she mentions it.)"
+    p "{i}(Cholera, ona jest nienasycona. Ale szczerze mówiąc, też nie pogardził bym jeszcze jednym razem.)"
+
+# game/day08.rpy:895
+translate polish day08_ana_sex_bb7dfb49:
+
+    # p "I understand."
+    p "Rozumiem."
+
+# game/day08.rpy:896
+translate polish day08_ana_sex_f99d2351:
+
+    # a "I'll see you again soon."
+    a "Niedługo znowu się zobaczymy."
+

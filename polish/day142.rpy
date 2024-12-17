@@ -758,7 +758,7 @@ translate polish day142_choices_5906240f:
 translate polish day142_choices_b8b4c0cf:
 
     # "{i}After a brief flash of panic, you see the acceptance dawn in your girlfriend's eyes."
-    ""
+    "{i}Po krótkim przebłysku paniki widzisz akceptację w oczach swojej dziewczyny."
 
 # game/day142.rpy:249
 translate polish day142_choices_902fabbc:
@@ -2006,7 +2006,7 @@ translate polish day142_choices_db77360a:
 translate polish day142_choices_7290fe06:
 
     # m "Maybe I can talk some sense into the girls."
-    m ""
+    m "Może uda mi się przemówić dziewczynom do rozsądku"
 
 # game/day142.rpy:581
 translate polish day142_choices_79fe1654:
@@ -2018,7 +2018,7 @@ translate polish day142_choices_79fe1654:
 translate polish day142_choices_0d438a52:
 
     # m "Maybe I can talk some sense into my girl."
-    m ""
+    m "Może uda mi się przemówić mojej dziewczynie do rozsądku"
 
 # game/day142.rpy:585
 translate polish day142_choices_cf968ea4:
@@ -2102,7 +2102,7 @@ translate polish day142_choices_30cb22d2:
 translate polish day142_choices_c0ef44b7:
 
     # m "And I'd hate to see the girls leave too."
-    m ""
+    m "I nie chciałbym, żeby dziewczyny też odeszły."
 
 # game/day142.rpy:607
 translate polish day142_choices_02cfb8b9:
@@ -2114,7 +2114,7 @@ translate polish day142_choices_02cfb8b9:
 translate polish day142_choices_d59a2072:
 
     # m "And I'd hate to see my girl leave too."
-    m ""
+    m "I nie chciałbym, żeby moja dziewczyna też odeszła."
 
 # game/day142.rpy:611
 translate polish day142_choices_b85e2aa0:
@@ -2366,7 +2366,7 @@ translate polish day142_choices_c29ba324:
 translate polish day142_choices_695796db:
 
     # l "I always thought I'd live near my friends somewhere."
-    l ""
+    l "Zawsze myślałem, że będę mieszkał gdzieś blisko moich przyjaciół"
 
 # game/day142.rpy:686
 translate polish day142_choices_9cbb818d:
@@ -2702,7 +2702,7 @@ translate polish day142_choices_c29ba324_1:
 translate polish day142_choices_695796db_1:
 
     # l "I always thought I'd live near my friends somewhere."
-    l ""
+    l "Zawsze myślałem, że będę mieszkał gdzieś blisko moich przyjaciół"
 
 # game/day142.rpy:771
 translate polish day142_choices_9cbb818d_1:
@@ -3008,7 +3008,7 @@ translate polish day142_choices_e13dc219:
 translate polish day142_choices_f093fa58:
 
     # ir "[b_name] and [r_name]... Together... in bed..."
-    ir ""
+    ir "[b_name] i [r_name] razem w łóżku"
 
 # game/day142.rpy:846
 translate polish day142_choices_9e5329f7:
@@ -3068,25 +3068,25 @@ translate polish day142_choices_342d98ce:
 translate polish day142_choices_49d3cefb:
 
     # ir "You know that they're lesbians?"
-    ir ""
+    ir "Wiesz, że są lesbijkami?"
 
 # game/day142.rpy:860
 translate polish day142_choices_2023097b:
 
     # p "They're not."
-    p ""
+    p "Nie są"
 
 # game/day142.rpy:861
 translate polish day142_choices_48f8840d:
 
     # ir "No?"
-    ir ""
+    ir "Dobrze?."
 
 # game/day142.rpy:862
 translate polish day142_choices_877818bc:
 
     # p "I join them too."
-    p ""
+    p "Ja też do nich dołączam"
 
 # game/day142.rpy:864
 translate polish day142_choices_7ff9dd77:
@@ -3302,7 +3302,7 @@ translate polish day142_choices_3f116e0d:
 translate polish day142_choices_4ae0d337:
 
     # ir "Maybe I even want to be with your friends too."
-    ir ""
+    ir "Może nawet chcę być z twoimi przyjaciółmi."
 
 # game/day142.rpy:908
 translate polish day142_choices_4de82aec:
@@ -3338,7 +3338,7 @@ translate polish day142_choices_b0605656:
 translate polish day142_choices_28f8741c:
 
     # p "We had a meeting this morning."
-    p ""
+    p "Mieliśmy dziś rano spotkanie"
 
 # game/day142.rpy:921
 translate polish day142_choices_45acf80a:
@@ -3362,7 +3362,7 @@ translate polish day142_choices_534ba642:
 translate polish day142_choices_46a3dcbb:
 
     # p "You already know that we know little bounds when it comes to sexual experimentation."
-    p ""
+    p "Wiesz już, że nie znamy granic, jeśli chodzi o eksperymenty seksualne"
 
 # game/day142.rpy:928
 translate polish day142_choices_37172c39:
@@ -3632,7 +3632,7 @@ translate polish day142_choices_21680da7:
 translate polish day142_choices_76f00dd3:
 
     # p "So, a while we went on holiday to Belugio, a tropical island."
-    p ""
+    p "Pojechaliśmy na wakacje na tropikalną wyspę Belugio."
 
 # game/day142.rpy:997
 translate polish day142_choices_34ab3101_1:
@@ -3842,7 +3842,7 @@ translate polish day142_choices_b0605656_1:
 translate polish day142_choices_28f8741c_1:
 
     # p "We had a meeting this morning."
-    p ""
+    p "Mieliśmy dziś rano spotkanie"
 
 # game/day142.rpy:1051
 translate polish day142_choices_b59e9259:
@@ -4646,7 +4646,7 @@ translate polish day142_evening_choices_7bf78702:
 translate polish day142_evening_choices_55b22133:
 
     # "{i}With no clear plan in mind, you head towards the room of your youngest girlfriend."
-    ""
+    "{i}Nie mając jasnego planu, kierujesz się w stronę pokoju swojej najmłodszej dziewczyny."
 
 # game/day142.rpy:1279
 translate polish day142_evening_choices_d46364d5:
@@ -4886,7 +4886,7 @@ translate polish day142_evening_choices_3a38b139:
 translate polish day142_evening_choices_b3e5b02b:
 
     # ad "Well then, go have fun with your friends."
-    ad ""
+   ad "No to idź się zabawić z przyjaciółmi"
 
 # game/day142.rpy:1353
 translate polish day142_evening_choices_a6b04116:
@@ -5240,7 +5240,7 @@ translate polish day142_morning_event_8bc462a2:
 translate polish day142_morning_event_6bcf210f:
 
     # l "Did you do something illegal, [m_name]?"
-    l ""
+    l "Czy zrobiłeś coś nielegalnego [m_name]?"
 
 # game/day142.rpy:1483
 translate polish day142_morning_event_99618e30:
@@ -5354,7 +5354,7 @@ translate polish day142_morning_event_98e7b26e:
 translate polish day142_morning_event_7a6acc54:
 
     # r "Who cares, [m_name], there's a university on the island."
-    r ""
+    r "Kogo to obchodzi [m_name], na wyspie jest uniwersytet"
 
 # game/day142.rpy:1513
 translate polish day142_morning_event_00c14095:
@@ -5678,7 +5678,7 @@ translate polish day142_morning_event_51451ca6:
 translate polish day142_morning_event_22fc8f29:
 
     # "{i}You leave your remaining friends a little dumbfounded because of the sudden decision, but no further protests are voiced."
-    ""
+    "{i}Pozostawiasz swoich pozostałych przyjaciół nieco oniemiałych z powodu nagłej decyzji, ale nie wyrażasz dalszych protestów."
 
 # game/day142.rpy:1605
 translate polish day142_morning_event_61e06cf5:
@@ -5918,7 +5918,7 @@ translate polish day142_morning_event_51451ca6_1:
 translate polish day142_morning_event_22fc8f29_1:
 
     # "{i}You leave your remaining friends a little dumbfounded because of the sudden decision, but no further protests are voiced."
-    ""
+    "{i}Pozostawiasz swoich pozostałych przyjaciół nieco oniemiałych z powodu nagłej decyzji, ale nie wyrażasz dalszych protestów."
 
 # game/day142.rpy:1666
 translate polish day142_morning_event_c9c7a4c8:
@@ -5930,7 +5930,7 @@ translate polish day142_morning_event_c9c7a4c8:
 translate polish day142_morning_event_a6b2af3b:
 
     # m "I'd hate for us to break apart, but everyone has a choice to make."
-    m ""
+    m "Nie chciałbym, żebyśmy się rozpadli, ale każdy musi dokonać wyboru."
 
 # game/day142.rpy:1669
 translate polish day142_morning_event_7d0b01a2:
@@ -6092,7 +6092,7 @@ translate polish day142_morning_event_f89a75ab:
 translate polish day142_morning_event_fe1de4cc:
 
     # r "Somebody has to keep an eye on [m_name], since you're all abandoning her."
-    r ""
+    r "Ktoś musi mieć oko na [m_name], skoro wszyscy ją porzucacie"
 
 # game/day142.rpy:1732
 translate polish day142_morning_event_72ef4475:
@@ -6104,7 +6104,7 @@ translate polish day142_morning_event_72ef4475:
 translate polish day142_morning_event_22a9b14e:
 
     # r "[b_name] and I have to keep an eye on [m_name], since you're so keen on abandoning her."
-    r ""
+    r "[b_name] i ja musimy mieć oko na [m_name], skoro tak bardzo chcesz ją porzucić."
 
 # game/day142.rpy:1737
 translate polish day142_morning_event_3300bb55:
@@ -6116,7 +6116,7 @@ translate polish day142_morning_event_3300bb55:
 translate polish day142_morning_event_3f5eba1b:
 
     # r "[l_name] and I have to keep an eye on [m_name], since you're so keen on abandoning her."
-    r ""
+    r "[l_name] i ja musimy mieć oko na [m_name], skoro tak bardzo chcesz ją porzucić."
 
 # game/day142.rpy:1741
 translate polish day142_morning_event_19237e87:
@@ -6158,7 +6158,7 @@ translate polish day142_morning_event_559cc4d6:
 translate polish day142_morning_event_61f22b0c:
 
     # r "I'm not a child anymore, [m_name]."
-    r ""
+    r "Nie jestem już dzieckiem [m_name]"
 
 # game/day142.rpy:1751
 translate polish day142_morning_event_366d6dce:
@@ -6296,7 +6296,7 @@ translate polish day142_morning_event_51451ca6_2:
 translate polish day142_morning_event_22fc8f29_2:
 
     # "{i}You leave your remaining friends a little dumbfounded because of the sudden decision, but no further protests are voiced."
-    ""
+    "{i}Pozostawiasz swoich pozostałych przyjaciół nieco oniemiałych z powodu nagłej decyzji, ale nie wyrażasz dalszych protestów."
 
 # game/day142.rpy:1793
 translate polish day142_morning_event_4180fb97:
@@ -6320,13 +6320,13 @@ translate polish day142_morning_event_d6878f35:
 translate polish day142_morning_event_ca3c324d:
 
     # "{i}One you can remember very clearly, about your girlfriend."
-    ""
+    "{i}Jeden, który pamiętasz bardzo wyraźnie o swojej dziewczynie"
 
 # game/day142.rpy:1802
 translate polish day142_morning_event_ca3c324d_1:
 
     # "{i}One you can remember very clearly, about your girlfriend."
-    ""
+    "{i}Jeden, który pamiętasz bardzo wyraźnie o swojej dziewczynie"
 
 # game/day142.rpy:1803
 translate polish day142_morning_event_45bfc33e:
@@ -6428,7 +6428,7 @@ translate polish day142_r_m_massage_c148eb0d:
 translate polish day142_r_m_massage_8d4d7d90:
 
     # r "Mmmm, yes I feel so tense there, [m_name]."
-    r ""
+    r "Mmmm tak, czuję się tam taki spięty [m_name]"
 
 # game/day142.rpy:1834
 translate polish day142_r_m_massage_a4798e9c:
@@ -6530,7 +6530,7 @@ translate polish day142_r_m_massage_dd77781c:
 translate polish day142_r_m_massage_0603e192:
 
     # "{i}Suddenly, [r_name] kisses [m_name] and there's nothing chaste about the exchange."
-    ""
+    "{i}Nagle [r_name] całuje [m_name] i nie ma w tej wymianie nic czystego."
 
 # game/day142.rpy:1876
 translate polish day142_r_m_massage_bcfd19d5:
@@ -6566,7 +6566,7 @@ translate polish day142_r_m_massage_01cf9bdd:
 translate polish day142_r_m_massage_66855a04:
 
     # "{i}[m_name] presses her fingers firmly against her younger friend's labia and begins to massage with gyrating motions."
-    ""
+    "{i}[m_name] mocno przyciska palce do warg sromowych swojej młodszej koleżanki i zaczyna masować je ruchami żyroskopowymi."
 
 # game/day142.rpy:1892
 translate polish day142_r_m_massage_99a09a50:
@@ -6584,7 +6584,7 @@ translate polish day142_r_m_massage_f794bd0f:
 translate polish day142_r_m_massage_f57135a3:
 
     # r "Please keep going!"
-    r ""
+    r "Proszę, kontynuuj!"
 
 # game/day142.rpy:1905
 translate polish day142_r_m_massage_8e1b433b:
@@ -6614,7 +6614,7 @@ translate polish day142_r_m_massage_a3909ccb:
 translate polish day142_r_m_massage_cebecbe3:
 
     # "{i}The older woman pushes her wet finger inside [r_name]'s open mouth and your girlfriend begins to suck on the digit passionately."
-    ""
+    "{i}Starsza kobieta wsuwa swój mokry palec do otwartych ust [r_name], a twoja dziewczyna zaczyna go namiętnie ssać."
 
 # game/day142.rpy:1916
 translate polish day142_r_m_massage_1b8eb876:
@@ -6650,13 +6650,13 @@ translate polish day142_r_m_massage_f1d14bc9:
 translate polish day142_r_m_massage_69f5a558:
 
     # "{i}As [m_name] lowers her head between her friend's legs to treat her cunt, she presents her pussy to the girl."
-    ""
+    "{i}Gdy [m_name] opuszcza głowę między nogi koleżanki, aby zająć się jej cipką, prezentuje dziewczynie swoją cipkę"
 
 # game/day142.rpy:1925
 translate polish day142_r_m_massage_71f7fd0b:
 
     # "{i}Without hesitation, [r_name] applies her tongue on the older woman's wet slit."
-    ""
+    "{i}Bez wahania [r_name] przykłada język do mokrej szczeliny starszej kobiety."
 
 # game/day142.rpy:1930
 translate polish day142_r_m_massage_bc242329:
@@ -6680,7 +6680,7 @@ translate polish day142_r_m_massage_b0a0e226:
 translate polish day142_r_m_massage_662f85e6:
 
     # r "Oh yes, right there!"
-    r ""
+    r "O tak, właśnie tam!"
 
 # game/day142.rpy:1939
 translate polish day142_r_m_massage_39ef1223:
@@ -6692,7 +6692,7 @@ translate polish day142_r_m_massage_39ef1223:
 translate polish day142_r_m_massage_04802381:
 
     # "{i}Watching every muscle tense in [r_name]'s body as the orgasm rushes through her body is a beautiful sight to behold."
-    ""
+    "{i}Oglądanie każdego mięśnia napiętego w ciele [r_name], gdy orgazm przepływa przez jej ciało, jest pięknym widokiem."
 
 # game/day142.rpy:1942
 translate polish day142_r_m_massage_329c1032:
@@ -6710,7 +6710,7 @@ translate polish day142_r_m_massage_2de27a82:
 translate polish day142_r_m_massage_d54f456a:
 
     # "{i}When the shuddering has more or less subsided, the older woman sternly guides the younger girl's mouth towards her dripping gash in order for her to finish the job."
-    ""
+    "{i}Kiedy drżenie mniej więcej ustąpiło, starsza kobieta surowo kieruje usta młodszej dziewczyny w stronę jej ociekającej rzęsy, aby mogła dokończyć robotę."
 
 # game/day142.rpy:1947
 translate polish day142_r_m_massage_3ad2144c:
@@ -6728,7 +6728,7 @@ translate polish day142_r_m_massage_75da8722:
 translate polish day142_r_m_massage_1f6ee6b7:
 
     # "{i}[r_name] has her friend writhing on the bed in moments and her flushed cheeks are a tell-tale sign that an orgasm is approaching."
-    ""
+    "{i}[r_name] sprawia, że jej przyjaciółka wije się na łóżku w ciągu kilku chwil, a jej zarumienione policzki są znakiem ostrzegawczym, że zbliża się orgazm."
 
 # game/day142.rpy:1964
 translate polish day142_r_m_massage_4bc88950:
@@ -6752,7 +6752,7 @@ translate polish day142_r_m_massage_82e6bca9:
 translate polish day142_r_m_massage_57208239:
 
     # "{i}Your girlfriend is only released from [m_name]'s grasp when the last remnants of the older woman's orgasm have covered her face in juices."
-    ""
+    "{i}Twoja dziewczyna jest uwalniana z uścisku [m_name] tylko wtedy, gdy ostatnie resztki orgazmu starszej kobiety pokryją jej twarz sokami."
 
 # game/day142.rpy:1978
 translate polish day142_r_m_massage_66abfc56:
@@ -6848,7 +6848,7 @@ translate polish day142_r_m_massage_1935224e:
 translate polish day142_r_m_massage_267b65db:
 
     # "{i}After [m_name] takes off your clothes, [r_name]'s hand wraps around your throbbing cock."
-    ""
+    "{i}Po tym, jak [m_name] zdejmie twoje ubranie [r_name] owija dłoń wokół twojego pulsującego kutasa."
 
 # game/day142.rpy:2004
 translate polish day142_r_m_massage_29df9b80:
@@ -6878,19 +6878,19 @@ translate polish day142_r_m_massage_4d187978:
 translate polish day142_r_m_massage_67d740e3:
 
     # "{i}When her lips wrap around your shaft, [m_name] starts to play with your balls."
-    ""
+    "{i}Kiedy jej usta owijają się wokół twojego trzonu [m_name] zaczyna bawić się twoimi jajami"
 
 # game/day142.rpy:2012
 translate polish day142_r_m_massage_0f58a689:
 
     # "{i}Your girlfriend obviously enjoys your hard cock in her warm mouth as is evident from the naughty glances she casts you from time to time."
-    ""
+    "{i}Twoja dziewczyna najwyraźniej lubi twojego twardego kutasa w swoich ciepłych ustach, co widać po niegrzecznych spojrzeniach, które rzuca ci od czasu do czasu."
 
 # game/day142.rpy:2013
 translate polish day142_r_m_massage_5d431972:
 
     # m "That's it, treat your boyfriend."
-    m ""
+    m "Tak traktuj swojego chłopaka"
 
 # game/day142.rpy:2018
 translate polish day142_r_m_massage_b12351c6:
@@ -6914,7 +6914,7 @@ translate polish day142_r_m_massage_65018c6a:
 translate polish day142_r_m_massage_6da52b06:
 
     # m "Are you going to cum all over her pretty face?"
-    m ""
+    m "Zamierzasz spuścić się na jej śliczną buzię?"
 
 # game/day142.rpy:2024
 translate polish day142_r_m_massage_84f1ae5e:
@@ -6944,7 +6944,7 @@ translate polish day142_r_m_massage_c7a51b47:
 translate polish day142_r_m_massage_28fff3e3:
 
     # "{i}{i}Suddenly you're spurting cum all over your girlfriend's face, as she holds and directs your twitching cock to spray herself completely."
-    ""
+    "{i}Nagle tryskasz spermą na twarz swojej dziewczyny, gdy ona trzyma i kieruje twoim drgającym kutasem, aby całkowicie się spryskać."
 
 # game/day142.rpy:2053
 translate polish day142_r_m_massage_d722ea66:
@@ -6956,7 +6956,7 @@ translate polish day142_r_m_massage_d722ea66:
 translate polish day142_r_m_massage_a3851904:
 
     # "{i}Suddenly you're spurting cum in your girlfriend's open mouth, as she holds your twitching cock to lap up the remaining droplets of cum from the tip."
-    ""
+    "{i}Nagle tryskasz spermą w otwarte usta swojej dziewczyny, podczas gdy ona trzyma twojego drgającego kutasa, aby zebrać pozostałe kropelki spermy z czubka."
 
 # game/day142.rpy:2062
 translate polish day142_r_m_massage_71084c04:
@@ -6968,7 +6968,7 @@ translate polish day142_r_m_massage_71084c04:
 translate polish day142_r_m_massage_63fcdc33:
 
     # "{i}Your balls were treated so firmly by the older woman's massaging hand that your orgasm is prolonged well beyond its normal duration."
-    ""
+    "{i}Twoje jaja zostały tak mocno potraktowane przez masującą dłoń starszej kobiety, że twój orgazm przedłużył się znacznie poza jego normalny czas trwania."
 
 # game/day142.rpy:2073
 translate polish day142_r_m_massage_fb5b78c8:
@@ -6992,7 +6992,7 @@ translate polish day142_r_m_massage_a3512465:
 translate polish day142_r_m_massage_7075237c:
 
     # "{i}The girls giggle and while [m_name] strokes [r_name]'s hair, you admire them while you recover from your climax."
-    ""
+    "{i}Dziewczyny chichoczą, a podczas gdy [m_name] głaszcze włosy [r_name], ty podziwiasz je, gdy dochodzisz do siebie po kulminacji"
 
 # game/day142.rpy:2079
 translate polish day142_r_m_massage_4a3cd822:
@@ -7022,7 +7022,7 @@ translate polish day142_r_b_l_m_harem_34ad03be:
 translate polish day142_r_b_l_m_harem_0a726487:
 
     # "{i}The girls make room for you on the bed, something stirs between your legs, because of the closeness of their naked bodies."
-    ""
+    "{i}Dziewczyny robią ci miejsce na łóżku, coś porusza się między twoimi nogami z powodu bliskości ich nagich ciał."
 
 # game/day142.rpy:2092
 translate polish day142_r_b_l_m_harem_21fa2b97:
@@ -7088,7 +7088,7 @@ translate polish day142_r_b_l_m_harem_b6a86d54:
 translate polish day142_r_b_l_m_harem_0a2ae282:
 
     # "{i}[m_name] strokes [l_name]'s hair and kisses her companion's soft hair."
-    ""
+    "{i}[m_name] głaszcze włosy [l_name] i całuje miękkie włosy swojego towarzysza"
 
 # game/day142.rpy:2107
 translate polish day142_r_b_l_m_harem_527bbd97:
@@ -7142,7 +7142,7 @@ translate polish day142_r_b_l_m_harem_62d2c1d8:
 translate polish day142_r_b_l_m_harem_e0371623:
 
     # "{i}You slowly move your hand towards your girlfriend's pussy and teasingly caress her lower lips, causing the girl to stop talking mid-sentence."
-    ""
+    "{i}Powoli przesuwasz rękę w kierunku cipki swojej dziewczyny i kusząco pieścisz jej dolne wargi, powodując, że dziewczyna przestaje mówić w połowie zdania."
 
 # game/day142.rpy:2123
 translate polish day142_r_b_l_m_harem_9915a189:
@@ -7184,7 +7184,7 @@ translate polish day142_r_b_l_m_harem_358c0acd:
 translate polish day142_r_b_l_m_harem_ff753cf5:
 
     # "{i}The girls ease [r_name] on the pillows and [m_name] pushes the younger girl's legs apart to give you a nice view of her beautiful pussy."
-    ""
+    "{i}Dziewczyny kładą [r_name] na poduszkach, a [m_name] rozchyla nogi młodszej dziewczyny, aby dać ci ładny widok na jej piękną cipkę."
 
 # game/day142.rpy:2141
 translate polish day142_r_b_l_m_harem_551fba65:
@@ -7196,7 +7196,7 @@ translate polish day142_r_b_l_m_harem_551fba65:
 translate polish day142_r_b_l_m_harem_34c4f38f:
 
     # "{i}[b_name] is already taking care of her girlfriend's breasts by dotting them with kisses and stimulating the nipples with her tongue."
-    ""
+    "{i}[b_name] już zajmuje się piersiami swojej dziewczyny, całując je i stymulując sutki językiem."
 
 # game/day142.rpy:2144
 translate polish day142_r_b_l_m_harem_0f3d442c:
@@ -7220,7 +7220,7 @@ translate polish day142_r_b_l_m_harem_de93260f:
 translate polish day142_r_b_l_m_harem_ad89a765:
 
     # "{i}[r_name] shivers and tenses up because of the loving attention her body is receiving from her friends."
-    ""
+    "{i}[r_name] drży i napina się z powodu pełnej miłości uwagi, jaką jej ciało otrzymuje od przyjaciół."
 
 # game/day142.rpy:2154
 translate polish day142_r_b_l_m_harem_9d78742a:
@@ -7244,7 +7244,7 @@ translate polish day142_r_b_l_m_harem_5f0ce972:
 translate polish day142_r_b_l_m_harem_0ca3ed3a:
 
     # r "Ooh, y-yes, [m_name]!"
-    r ""
+    r "Ooh y-yes [m_name]!"
 
 # game/day142.rpy:2160
 translate polish day142_r_b_l_m_harem_d665298e:
@@ -7268,7 +7268,7 @@ translate polish day142_r_b_l_m_harem_7bba8fd0:
 translate polish day142_r_b_l_m_harem_2ca4a596:
 
     # "{i}The brief moment of respite gives [b_name] the opportunity to exchange a very passionate kiss with her youngest friend."
-    ""
+    "{i}Krótka chwila wytchnienia daje [b_name] możliwość wymiany namiętnego pocałunku ze swoją najmłodszą przyjaciółką."
 
 # game/day142.rpy:2170
 translate polish day142_r_b_l_m_harem_af2fce05:
@@ -7298,7 +7298,7 @@ translate polish day142_r_b_l_m_harem_1de91d7e:
 translate polish day142_r_b_l_m_harem_90cc81a5:
 
     # m "I think you have two other girls waiting for your tongue."
-    m ""
+    m "Myślę, że masz dwie inne dziewczyny czekające na twój język"
 
 # game/day142.rpy:2185
 translate polish day142_r_b_l_m_licking_39a9c5c0:
@@ -7328,7 +7328,7 @@ translate polish day142_r_b_l_m_licking_8b1a52bd:
 translate polish day142_r_b_l_m_licking_22b420f4:
 
     # "{i}[r_name] is being treated by the rest of your friends, as [m_name] penetrates her with her fingers and [l_name] kisses her breasts."
-    ""
+    "{i}[r_name] jest traktowana przez resztę przyjaciół, gdy [m_name] penetruje ją palcami, a [l_name] całuje jej piersi."
 
 # game/day142.rpy:2197
 translate polish day142_r_b_l_m_licking_96ba689b:
@@ -7340,7 +7340,7 @@ translate polish day142_r_b_l_m_licking_96ba689b:
 translate polish day142_r_b_l_m_licking_f0aeca56:
 
     # "{i}The rest of your friends treat each other, [r_name] is penetrated by [m_name]'s fingers while [l_name] kisses her breasts."
-    ""
+    "{i}Reszta twoich przyjaciół traktuje się nawzajem [r_name] jest penetrowana przez palce [m_name], podczas gdy [l_name] całuje jej piersi."
 
 # game/day142.rpy:2200
 translate polish day142_r_b_l_m_licking_5ae937e3:
@@ -7364,7 +7364,7 @@ translate polish day142_r_b_l_m_licking_5a8facd4:
 translate polish day142_r_b_l_m_licking_2088fcd5:
 
     # "{i}Despite your intimate knowledge of your girlfriend's sweet pussy, you're still amazed by how wet she gets from the stimulation of your tongue."
-    ""
+    "{i}Pomimo intymnej wiedzy o słodkiej cipce swojej dziewczyny, wciąż jesteś zdumiony tym, jak mokra staje się od stymulacji twojego języka."
 
 # game/day142.rpy:2210
 translate polish day142_r_b_l_m_licking_193dcb0e:
@@ -7394,7 +7394,7 @@ translate polish day142_r_b_l_m_licking_c8a5c399:
 translate polish day142_r_b_l_m_licking_60d502ba:
 
     # "{i}When you focus your attention on her clitoris, your girlfriend is completely helpless and gives herself over to the supreme pleasure she's experiencing."
-    ""
+    "{i}Kiedy skupiasz swoją uwagę na jej łechtaczce, twoja dziewczyna jest całkowicie bezradna i oddaje się najwyższej przyjemności, której doświadcza."
 
 # game/day142.rpy:2219
 translate polish day142_r_b_l_m_licking_b69d8f03:
@@ -7424,7 +7424,7 @@ translate polish day142_r_b_l_m_licking_250232bf:
 translate polish day142_r_b_l_m_licking_a2b5252c:
 
     # "{i}As soon as your tongue darts out, any form of restraint has fled from your girlfriend, while she's lovingly held by [m_name]."
-    ""
+    "{i}Gdy tylko twój język wysunie się na zewnątrz, wszelkie formy skrępowania uciekną od twojej dziewczyny, gdy jest ona czule trzymana przez [m_name]."
 
 # game/day142.rpy:2242
 translate polish day142_r_b_l_m_licking_7118742c:
@@ -7454,7 +7454,7 @@ translate polish day142_r_b_l_m_licking_c4657867:
 translate polish day142_r_b_l_m_licking_b186d471:
 
     # "{i}Your girlfriend cries your name again as her orgasm overtakes her."
-    ""
+    "{i}Twoja dziewczyna ponownie wykrzykuje twoje imię, gdy ogarnia ją orgazm."
 
 # game/day142.rpy:2250
 translate polish day142_r_b_l_m_licking_4dba780d:
@@ -7472,7 +7472,7 @@ translate polish day142_r_b_l_m_licking_52e6b644:
 translate polish day142_r_b_l_m_licking_183294b9:
 
     # "{i}You long for [m_name]'s cunt and you part her legs to reveal her slit."
-    ""
+    "{i}Tęsknisz za cipą [m_name] i rozchylasz jej nogi, aby odsłonić jej szczelinę."
 
 # game/day142.rpy:2262
 translate polish day142_r_b_l_m_licking_7ae84d89:
@@ -7496,7 +7496,7 @@ translate polish day142_r_b_l_m_licking_2c408b1a:
 translate polish day142_r_b_l_m_licking_53d91508:
 
     # "{i}Your girlfriend angles her body to allow your tongue best access to her wet lips and you intermittently lick and suck her, while one of the other girls tends to her breasts."
-    ""
+    "{i}Twoja dziewczyna pochyla swoje ciało, aby umożliwić twojemu językowi najlepszy dostęp do jej mokrych ust, a ty z przerwami liżesz ją i ssiesz, podczas gdy jedna z pozostałych dziewczyn zajmuje się jej piersiami."
 
 # game/day142.rpy:2272
 translate polish day142_r_b_l_m_licking_2490ce2d:
@@ -7514,7 +7514,7 @@ translate polish day142_r_b_l_m_licking_779a4897:
 translate polish day142_r_b_l_m_licking_6bab5b69:
 
     # "{i}[m_name]'s orgasm is sudden and she climaxes violently in the loving arms of her friends."
-    ""
+    "{i}Orgazm [m_name] jest nagły, a ona gwałtownie osiąga punkt kulminacyjny w kochających ramionach swoich przyjaciół."
 
 # game/day142.rpy:2279
 translate polish day142_r_b_l_m_licking_b02ee2b0:
@@ -7550,7 +7550,7 @@ translate polish day142_r_b_l_m_licking_6dda6b65:
 translate polish day142_r_b_l_m_licking_c5e7f6d8:
 
     # "{i}You nearly close your eyes to fully appreciate your girlfriend's treatment, when you notice [l_name] being ushered by [m_name] to take her place next to your cock."
-    ""
+    "{i}Prawie zamykasz oczy, aby w pełni docenić traktowanie swojej dziewczyny, gdy zauważasz, że [l_name] jest prowadzona przez [m_name], aby zająć miejsce obok twojego kutasa."
 
 # game/day142.rpy:2299
 translate polish day142_r_b_l_m_licking_bebdfc46:
@@ -7562,7 +7562,7 @@ translate polish day142_r_b_l_m_licking_bebdfc46:
 translate polish day142_r_b_l_m_licking_fce65883:
 
     # "{i}Both your girlfriends take turns licking your shaft and soon it's entirely covered in their saliva."
-    ""
+    "{i}Obie twoje dziewczyny na zmianę liżą twój trzon i wkrótce jest on całkowicie pokryty ich śliną."
 
 # game/day142.rpy:2304
 translate polish day142_r_b_l_m_licking_4f8f13a6:
@@ -7574,7 +7574,7 @@ translate polish day142_r_b_l_m_licking_4f8f13a6:
 translate polish day142_r_b_l_m_licking_6eef6032:
 
     # "{i}You didn't dare think your sweetest girlfriend had a competitive streak, but when [b_name] attempts to take the full length of your dick in her mouth, [l_name] attempts to go even further when it's her turn."
-    ""
+    "{i}Nie śmiałeś myśleć, że twoja najsłodsza dziewczyna ma pasję do rywalizacji, ale kiedy [b_name] próbuje wziąć całą długość twojego kutasa do ust, [l_name] próbuje pójść jeszcze dalej, kiedy nadejdzie jej kolej."
 
 # game/day142.rpy:2307
 translate polish day142_r_b_l_m_licking_6f9b9346:
@@ -7616,19 +7616,19 @@ translate polish day142_r_b_l_m_licking_8ee8ae56:
 translate polish day142_r_b_l_m_licking_8286d50f:
 
     # l "[m_name]!"
-    l ""
+    l "[m_name]!"
 
 # game/day142.rpy:2320
 translate polish day142_r_b_l_m_licking_504b155e:
 
     # m "What it's not proper for a woman to talk like that?"
-    m ""
+    m "Co nie przystoi kobiecie mówić w ten sposób?"
 
 # game/day142.rpy:2321
 translate polish day142_r_b_l_m_licking_dfbba15c:
 
     # m "You weren't too worried about being proper when [p_name] went down on you..."
-    m ""
+    m "Nie martwiłeś się zbytnio o bycie w porządku, kiedy [p_name] się na ciebie rzucił"
 
 # game/day142.rpy:2322
 translate polish day142_r_b_l_m_licking_f91e5d0d:
@@ -7694,7 +7694,7 @@ translate polish day142_r_b_l_m_fucking_1c921e53:
 translate polish day142_r_b_l_m_fucking_b58c34db:
 
     # "{i}Carrying the extra weight of her pregnant belly, your girlfriend tires easily, but the pleasure is too addicting for her to stop."
-    ""
+    "{i}Nosząc dodatkowy ciężar swojego ciążowego brzucha, twoja dziewczyna łatwo się męczy, ale przyjemność jest zbyt uzależniająca, aby mogła przestać."
 
 # game/day142.rpy:2359
 translate polish day142_r_b_l_m_fucking_8f324613:
@@ -7706,7 +7706,7 @@ translate polish day142_r_b_l_m_fucking_8f324613:
 translate polish day142_r_b_l_m_fucking_e69e4efa:
 
     # "{i}Your fucking is so intense and it's slowly wearing your girlfriend out, but the pleasure is too addicting for her to stop."
-    ""
+    "{i}Twoje ruchanie jest tak intensywne i powoli wyczerpuje twoją dziewczynę, ale przyjemność jest zbyt uzależniająca, by mogła przestać."
 
 # game/day142.rpy:2362
 translate polish day142_r_b_l_m_fucking_4ac85c47:
@@ -7724,7 +7724,7 @@ translate polish day142_r_b_l_m_fucking_4e999b16:
 translate polish day142_r_b_l_m_fucking_435fe5e7:
 
     # "{i}You would like nothing else than to stay inside [b_name], but it's become harder to not succumb to orgasm."
-    ""
+    "{i}Nie chciałbyś niczego innego niż pozostać w [b_name], ale coraz trudniej jest nie poddać się orgazmowi."
 
 # game/day142.rpy:2372
 translate polish day142_r_b_l_m_fucking_424ad941:
@@ -7736,7 +7736,7 @@ translate polish day142_r_b_l_m_fucking_424ad941:
 translate polish day142_r_b_l_m_fucking_a088890a:
 
     # "{i}You would like nothing else than to stay inside [b_name], but the others are growing restless as well."
-    ""
+    "{i}Nie chciałbyś niczego innego niż zostać w środku [b_name], ale inni też stają się coraz bardziej niespokojni."
 
 # game/day142.rpy:2378
 translate polish day142_r_b_l_m_fucking_ba98cc0c:
@@ -7784,7 +7784,7 @@ translate polish day142_r_b_l_m_fucking_f8780698:
 translate polish day142_r_b_l_m_fucking_505d9068:
 
     # "{i}That's exactly your intention and you continue to pound her slit, while [m_name] lets out a series of breathless sighs in response."
-    ""
+    "{i}To jest dokładnie twój zamiar i kontynuujesz walenie jej szczeliny, podczas gdy [m_name] wydaje serię zdyszanych westchnień w odpowiedzi."
 
 # game/day142.rpy:2398
 translate polish day142_r_b_l_m_fucking_c1880baa:
@@ -7856,7 +7856,7 @@ translate polish day142_r_b_l_m_fucking_af262f9b:
 translate polish day142_r_b_l_m_fucking_b4eef5a8:
 
     # "{i}Your girlfriend dips her fingers between her thighs and fingers her clit, while your remaining friends pleasure themselves all around you."
-    ""
+    "{i}Twoja dziewczyna zanurza palce między udami i palcuje swoją łechtaczkę, podczas gdy twoi pozostali przyjaciele rozkoszują się wokół ciebie."
 
 # game/day142.rpy:2430
 translate polish day142_r_b_l_m_fucking_bbf62edd:
@@ -7886,7 +7886,7 @@ translate polish day142_r_b_l_m_fucking_61fff136:
 translate polish day142_r_b_l_m_fucking_1bc2e02f:
 
     # "{i}Fucking every friend has been exhausting and you can't keep delaying your orgasm forever."
-    ""
+    "{i}Pieprzenie każdego przyjaciela było wyczerpujące i nie możesz wiecznie opóźniać swojego orgazmu."
 
 # game/day142.rpy:2444
 translate polish day142_r_b_l_m_fucking_52e18e99:
@@ -7898,7 +7898,7 @@ translate polish day142_r_b_l_m_fucking_52e18e99:
 translate polish day142_r_b_l_m_fucking_63d22304:
 
     # "{i}The rest of your friends are eagerly waiting for the same treatment, so reluctantly you decide to pull out."
-    ""
+    "{i}Reszta twoich przyjaciół z niecierpliwością czeka na takie samo traktowanie, więc niechętnie decydujesz się wycofać."
 
 # game/day142.rpy:2456
 translate polish day142_r_b_l_m_fucking_89ced769:
@@ -7910,7 +7910,7 @@ translate polish day142_r_b_l_m_fucking_89ced769:
 translate polish day142_r_b_l_m_fucking_cf9233c7:
 
     # "{i}You hunger for your youngest girlfriend's tight pussy and pounce on her light body, giggling she guides your shaft inside her and you start fucking [r_name]."
-    ""
+    "{i}Łakniesz ciasnej cipki swojej najmłodszej dziewczyny i rzucasz się na jej lekkie ciało, chichocząc, ona prowadzi twój trzon do jej wnętrza i zaczynasz pieprzyć [r_name]."
 
 # game/day142.rpy:2459
 translate polish day142_r_b_l_m_fucking_1964f19f:
@@ -7970,7 +7970,7 @@ translate polish day142_r_b_l_m_fucking_5df28997:
 translate polish day142_r_b_l_m_fucking_824818f7:
 
     # "{i}Honoring her request would be your greatest wish, but you're at the end of your rope, having fucked so many women."
-    ""
+    "{i}Uhonorowanie jej prośby byłoby twoim największym życzeniem, ale jesteś u kresu sił po przeleceniu tak wielu kobiet."
 
 # game/day142.rpy:2478
 translate polish day142_r_b_l_m_fucking_81770c8d:
@@ -7988,7 +7988,7 @@ translate polish day142_r_b_l_m_fucking_6b4252a6:
 translate polish day142_r_b_l_m_fucking_2259b69f:
 
     # "{i}Ultimately, you decide it doesn't matter and roaring, you unload a thick stream of cum inside your girlfriend."
-    ""
+    "{i}Ostatecznie decydujesz, że to nie ma znaczenia i rycząc wyładowujesz gęsty strumień spermy wewnątrz swojej dziewczyny."
 
 # game/day142.rpy:2492
 translate polish day142_r_b_l_m_fucking_34c8df95:
@@ -8000,7 +8000,7 @@ translate polish day142_r_b_l_m_fucking_34c8df95:
 translate polish day142_r_b_l_m_fucking_7cc9d820:
 
     # "{i}Eager to gift your girlfriend your cum, you re-insert your cock and explode inside her."
-    ""
+    "{i}Chcąc podarować swojej dziewczynie swoją spermę, ponownie wkładasz swojego kutasa i eksplodujesz w jej wnętrzu."
 
 # game/day142.rpy:2496
 translate polish day142_r_b_l_m_fucking_2745ee7b:
@@ -8024,7 +8024,7 @@ translate polish day142_r_b_l_m_fucking_36a95fa8:
 translate polish day142_r_b_l_m_fucking_e3b927bf:
 
     # "{i}In the end, you decide the only place where you need to be is between your girlfriend's thighs and you erupt inside her."
-    ""
+    "{i}W końcu decydujesz, że jedynym miejscem, w którym musisz być, jest to między udami twojej dziewczyny i wybuchasz w niej."
 
 # game/day142.rpy:2518
 translate polish day142_r_b_l_m_fucking_11229b56:
@@ -8036,7 +8036,7 @@ translate polish day142_r_b_l_m_fucking_11229b56:
 translate polish day142_r_b_l_m_fucking_cf025105:
 
     # "{i}In a split second, you decide that [m_name] should be the one, so you penetrate her again and you erupt inside her."
-    ""
+    "{i}W ułamku sekundy decydujesz, że [m_name] powinien być tym jedynym, więc penetrujesz ją ponownie i wybuchasz w jej wnętrzu."
 
 # game/day142.rpy:2531
 translate polish day142_r_b_l_m_fucking_1e6cbb59:
@@ -8048,7 +8048,7 @@ translate polish day142_r_b_l_m_fucking_1e6cbb59:
 translate polish day142_r_b_l_m_fucking_2192c1e0:
 
     # "{i}Your're already fucking voluptuous perfection, so you decide to let [l_name] keep riding you and shoot her full of seed moments later."
-    ""
+    "{i}Jesteś już pieprzoną zmysłową perfekcją, więc decydujesz się pozwolić [l_name] dalej cię ujeżdżać i chwilę później strzelasz do niej pełnym nasieniem."
 
 # game/day142.rpy:2536
 translate polish day142_r_b_l_m_fucking_b6f684ad:
@@ -8060,7 +8060,7 @@ translate polish day142_r_b_l_m_fucking_b6f684ad:
 translate polish day142_r_b_l_m_fucking_561300eb:
 
     # "{i}You long for another taste of voluptuous perfection, so you decide to let [l_name] ride you and shoot her full of seed moments after penetrating her again."
-    ""
+    "{i}Tęsknisz za kolejnym smakiem zmysłowej doskonałości, więc decydujesz się pozwolić [l_name] ujeżdżać cię i strzelać do niej pełnym nasieniem chwilę po ponownej penetracji."
 
 # game/day142.rpy:2553
 translate polish day142_r_b_l_m_fucking_c375dbc2:
@@ -8072,7 +8072,7 @@ translate polish day142_r_b_l_m_fucking_c375dbc2:
 translate polish day142_r_b_l_m_fucking_c03d176b:
 
     # "{i}There's no doubt where you'll finish and within seconds you've flooded your youngest girlfriend's tight twat with a wealth of cum."
-    ""
+    "{i}Nie ma wątpliwości, gdzie skończysz iw ciągu kilku sekund zalałeś ciasną cipkę swojej najmłodszej dziewczyny bogactwem spermy"
 
 # game/day142.rpy:2558
 translate polish day142_r_b_l_m_fucking_45d1d710:
@@ -8084,7 +8084,7 @@ translate polish day142_r_b_l_m_fucking_45d1d710:
 translate polish day142_r_b_l_m_fucking_ab0462ed:
 
     # "{i}Ever since fucking her tight twat tonight, you know where you want to finish and you flood your youngest girlfriend's pussy seconds after re-entering her."
-    ""
+    "{i}Odkąd pieprzyłeś jej ciasną cipkę dziś wieczorem, wiesz, gdzie chcesz skończyć i zalewasz cipkę swojej najmłodszej dziewczyny kilka sekund po ponownym wejściu do niej."
 
 # game/day142.rpy:2569
 translate polish day142_r_b_l_m_fucking_781a0441:
@@ -8096,7 +8096,7 @@ translate polish day142_r_b_l_m_fucking_781a0441:
 translate polish day142_r_b_l_m_fucking_4f0d6a8b:
 
     # "{i}After pulling out, you gather your friends around you and aim for their beautiful faces."
-    ""
+    "{i}Po wyciągnięciu zbierasz wokół siebie przyjaciół i celujesz w ich piękne twarze."
 
 # game/day142.rpy:2575
 translate polish day142_r_b_l_m_fucking_efa8e758:
@@ -8108,7 +8108,7 @@ translate polish day142_r_b_l_m_fucking_efa8e758:
 translate polish day142_r_b_l_m_fucking_580ecfc3:
 
     # "{i}A wealth of cum squirts from your cock and rains on your girlfriends."
-    ""
+    "{i}Bogactwo spermy tryska z twojego kutasa i pada na twoje dziewczyny"
 
 # game/day142.rpy:2586
 translate polish day142_r_b_l_m_fucking_8e7dee01:
@@ -8120,7 +8120,7 @@ translate polish day142_r_b_l_m_fucking_8e7dee01:
 translate polish day142_r_b_l_m_fucking_bfb28e26:
 
     # "{i}After pulling out, you gather your friends around you and aim for their beautiful bodies."
-    ""
+    "{i}Po wyciągnięciu zbierasz wokół siebie przyjaciół i celujesz w ich piękne ciała."
 
 # game/day142.rpy:2592
 translate polish day142_r_b_l_m_fucking_efa8e758_1:
@@ -8132,7 +8132,7 @@ translate polish day142_r_b_l_m_fucking_efa8e758_1:
 translate polish day142_r_b_l_m_fucking_580ecfc3_1:
 
     # "{i}A wealth of cum squirts from your cock and rains on your girlfriends."
-    ""
+    "{i}Bogactwo spermy tryska z twojego kutasa i pada na twoje dziewczyny"
 
 # game/day142.rpy:2609
 translate polish day142_r_b_l_m_fucking_acc0c516:
@@ -8144,7 +8144,7 @@ translate polish day142_r_b_l_m_fucking_acc0c516:
 translate polish day142_r_b_l_m_fucking_5d069c6e:
 
     # "{i}After the girls clean up, you all fall asleep on [m_name]'s big bed, thoroughly satisfied and ready for whatever tomorrow brings."
-    ""
+    "{i}Po tym, jak dziewczyny posprzątają, wszyscy zasypiacie na dużym łóżku [m_name] w pełni usatysfakcjonowani i gotowi na wszystko, co przyniesie jutro."
 
 # game/day142.rpy:2616
 translate polish day142_puritan_meeting_ade56d39:
@@ -8216,7 +8216,7 @@ translate polish day142_puritan_meeting_5d3182b8:
 translate polish day142_puritan_meeting_19758423:
 
     # er "But that changed when a friend came to live with them."
-    er ""
+    er "Ale to się zmieniło, gdy zamieszkał z nimi przyjaciel"
 
 # game/day142.rpy:2634
 translate polish day142_puritan_meeting_ddb98567:
@@ -8408,7 +8408,7 @@ translate polish day142_puritan_meeting_28d17a08:
 translate polish day142_puritan_meeting_b17012bd:
 
     # er "She's very much concerned about her friends."
-    er ""
+    er "Bardzo martwi się o swoich przyjaciół"
 
 # game/day142.rpy:2680
 translate polish day142_puritan_meeting_73ebff23:
@@ -8432,7 +8432,7 @@ translate polish day142_puritan_meeting_b4daeb33:
 translate polish day142_puritan_meeting_41318a26:
 
     # er "It all started when a male friend came to live with them."
-    er ""
+    er "Wszystko zaczęło się, gdy zamieszkał z nimi męski przyjaciel"
 
 # game/day142.rpy:2687
 translate polish day142_puritan_meeting_3f97d734:
@@ -8468,7 +8468,7 @@ translate polish day142_puritan_meeting_04810cf3:
 translate polish day142_puritan_meeting_a92e856e:
 
     # er "I'm telling you that the boy is somehow involved in illicit relationships."
-    er ""
+    er "Mówię ci, że chłopak jest w jakiś sposób zaangażowany w nielegalne związki"
 
 # game/day142.rpy:2695
 translate polish day142_puritan_meeting_fbd66464:
@@ -8504,7 +8504,7 @@ translate polish day142_puritan_meeting_13906be6:
 translate polish day142_puritan_meeting_cdeb0807:
 
     # er "The girl also claims her friend forced himself on her."
-    er ""
+    er "Dziewczyna twierdzi również, że jej przyjaciel się do niej zmusił"
 
 # game/day142.rpy:2705
 translate polish day142_puritan_meeting_9951dfb0:
@@ -8534,13 +8534,13 @@ translate polish day142_puritan_meeting_1b7e01f6_1:
 translate polish day142_puritan_meeting_4942fa03:
 
     # ju "Which people are we talking about here?"
-    ju ""
+    ju "O jakich ludziach tu mówimy?"
 
 # game/day142.rpy:2713
 translate polish day142_puritan_meeting_59675ecd:
 
     # er "The girls in the home of that Smith woman."
-    er ""
+    er "Dziewczyny w domu tej kobiety Smith"
 
 # game/day142.rpy:2715
 translate polish day142_puritan_meeting_4ad5c6b5_1:
@@ -8570,7 +8570,7 @@ translate polish day142_puritan_meeting_d3ae68ef:
 translate polish day142_puritan_meeting_df4bcec6:
 
     # er "Those people are the prime example why the corruption in our society is so alarming."
-    er ""
+    er "Ci ludzie są najlepszym przykładem, dlaczego korupcja w naszym społeczeństwie jest tak alarmująca"
 
 # game/day142.rpy:2724
 translate polish day142_puritan_meeting_6a9495f4:
@@ -9158,7 +9158,7 @@ translate polish day142_r_sex_3358fe56:
 translate polish day142_r_sex_b051d0b1:
 
     # "{i}You lie down with her on the bed and you kiss and stroke each other, before your girlfriend stops abruptly."
-    ""
+    "{i}Kładziesz się z nią na łóżku, całujecie się i głaszczecie nawzajem, zanim twoja dziewczyna nagle przestanie."
 
 # game/day142.rpy:2868
 translate polish day142_r_sex_4f3b3ec5:
@@ -9416,7 +9416,7 @@ translate polish day142_r_sex_68c38ead:
 translate polish day142_r_sex_d944b884:
 
     # "{i}You play with her breasts, swelling every day as your girlfriend's pregnancy progresses."
-    ""
+    "{i}Codziennie bawisz się jej nabrzmiałymi piersiami, gdy ciąża twojej dziewczyny postępuje."
 
 # game/day142.rpy:2932
 translate polish day142_r_sex_7a35554b:
@@ -9434,7 +9434,7 @@ translate polish day142_r_sex_b48a51d2:
 translate polish day142_r_sex_5e360f68:
 
     # "{i}Your girlfriend's tight pussy is so slippery you nearly pull out of her again involuntarily."
-    ""
+    "{i}Ciasna cipka twojej dziewczyny jest tak śliska, że mimowolnie prawie się z niej wysuwasz."
 
 # game/day142.rpy:2941
 translate polish day142_r_sex_8a51d4ad:
@@ -9542,7 +9542,7 @@ translate polish day142_r_sex_7f8fd514:
 translate polish day142_r_sex_ffa68f18:
 
     # "{i}Your girlfriend shakes her head, but her pained expression tells a different story, so you wait a moment before pressing on."
-    ""
+    "{i}Twoja dziewczyna kręci głową, ale jej bolesny wyraz twarzy mówi co innego, więc czekasz chwilę, zanim zaczniesz kontynuować."
 
 # game/day142.rpy:2970
 translate polish day142_r_sex_8fec896b:
@@ -9620,7 +9620,7 @@ translate polish day142_r_sex_9204ed2f:
 translate polish day142_r_sex_7c2f5e8c:
 
     # "{i}Pain is replaced by growing pleasure as you savor the tightness of your girlfriend's asshole."
-    ""
+    "{i}Ból zostaje zastąpiony przez rosnącą przyjemność, gdy delektujesz się ciasnością dupka swojej dziewczyny."
 
 # game/day142.rpy:2997
 translate polish day142_r_sex_6002958d:
@@ -9830,7 +9830,7 @@ translate polish day142_l_sex_a7f2d499:
 translate polish day142_l_sex_2d074fff:
 
     # p "Hey [l_name], doing the dishes?"
-    p ""
+    p "Hej [l_name] zmywasz naczynia?"
 
 # game/day142.rpy:3085
 translate polish day142_l_sex_ddfba657:
@@ -10124,7 +10124,7 @@ translate polish day142_l_sex_4672caca:
 translate polish day142_l_sex_bd91f405:
 
     # "{i}Your girlfriend tries to find something to hold on to as you fuck her hard on the counter."
-    ""
+    "{i}Twoja dziewczyna próbuje znaleźć coś, czego mogłaby się przytrzymać, gdy pieprzysz ją mocno na blacie."
 
 # game/day142.rpy:3164
 translate polish day142_l_sex_d549c4bd:
@@ -10166,7 +10166,7 @@ translate polish day142_l_sex_5e4f90e5:
 translate polish day142_l_sex_2e25a95c:
 
     # "{i}Lucky for you, the house is deserted and you're alone with your girlfriend."
-    ""
+    "{i}Na szczęście dla ciebie dom jest opuszczony i jesteś sam ze swoją dziewczyną."
 
 # game/day142.rpy:3178
 translate polish day142_l_sex_2b2ef2ee:
@@ -10214,7 +10214,7 @@ translate polish day142_l_sex_d6c787ee:
 translate polish day142_l_sex_9ed1b8d7:
 
     # "{i}Clenching her teeth, your girlfriend grabs at her breasts and squeezes hard."
-    ""
+    "{i}Zaciskając zęby, twoja dziewczyna chwyta się za piersi i mocno ściska."
 
 # game/day142.rpy:3203
 translate polish day142_l_sex_693147c1:
@@ -10250,7 +10250,7 @@ translate polish day142_l_sex_5e84906b:
 translate polish day142_l_sex_af7b63fa:
 
     # "{i}Not long after her orgasm, you explode inside your girl's vagina."
-    ""
+    "{i}Niedługo po jej orgazmie eksplodujesz wewnątrz pochwy swojej dziewczyny."
 
 # game/day142.rpy:3225
 translate polish day142_l_sex_4658881b:
@@ -10370,7 +10370,7 @@ translate polish day142_b_sex_17e538ce:
 translate polish day142_b_sex_93327d7f:
 
     # "{i}After a short walk you arrive and find [b_name] at the bar, she doesn't notice you until you tap her shoulder gently."
-    ""
+    "{i}Po krótkim spacerze docierasz na miejsce i znajdujesz [b_name] przy barze, która nie zauważa cię, dopóki nie stukniesz jej delikatnie w ramię."
 
 # game/day142.rpy:3292
 translate polish day142_b_sex_9d358d84:
@@ -10556,7 +10556,7 @@ translate polish day142_b_sex_47bfd089:
 translate polish day142_b_sex_6b1273b1:
 
     # "{i}You kiss your girlfriend's exposed breasts and let your tongue linger around her nipples."
-    ""
+    "{i}Całujesz odsłonięte piersi swojej dziewczyny i pozwalasz swojemu językowi krążyć wokół jej sutków."
 
 # game/day142.rpy:3337
 translate polish day142_b_sex_0ed5df04:
@@ -10688,7 +10688,7 @@ translate polish day142_b_sex_d017051b:
 translate polish day142_b_sex_70e873d7:
 
     # "{i}Your girlfriend is still orgasming when you thrust your hard member inside her pussy and you still feel her muscles contracting."
-    ""
+    "{i}Twoja dziewczyna wciąż osiąga orgazm, gdy wsuwasz swojego twardego członka w jej cipkę i wciąż czujesz, jak kurczą się jej mięśnie."
 
 # game/day142.rpy:3389
 translate polish day142_b_sex_c94d0cb8:
@@ -10736,7 +10736,7 @@ translate polish day142_b_sex_f3ec551d:
 translate polish day142_b_sex_1853994c:
 
     # "{i}Using measured strokes, you try to stave off your impending orgasm, but you're no match for the pleasures of your girlfriend's tight cunt."
-    ""
+    "{i}Miarowymi pchnięciami próbujesz powstrzymać zbliżający się orgazm, ale nie jesteś w stanie sprostać przyjemności ciasnej cipki swojej dziewczyny."
 
 # game/day142.rpy:3411
 translate polish day142_b_sex_f938d7a3:
@@ -10766,7 +10766,7 @@ translate polish day142_b_sex_9e465309:
 translate polish day142_b_sex_07e2055c:
 
     # "{i}There's no time to make her kneel, so you shoot your warm cum all over your girlfriend's pregnant belly, which she massages deliriously."
-    ""
+    "{i}Nie ma czasu, aby zmusić ją do uklęknięcia, więc wystrzeliwujesz swoją ciepłą spermę na brzuch swojej dziewczyny, który ona masuje z rozkoszą."
 
 # game/day142.rpy:3437
 translate polish day142_b_sex_e01bdba1:
@@ -10778,7 +10778,7 @@ translate polish day142_b_sex_e01bdba1:
 translate polish day142_b_sex_b9490e06:
 
     # "{i}There's no time to make her kneel, so you shoot your warm cum all over your girlfriend's belly, which she massages deliriously."
-    ""
+    "{i}Nie ma czasu, aby zmusić ją do uklęknięcia, więc wystrzeliwujesz swoją ciepłą spermę na brzuch swojej dziewczyny, który ona masuje delirycznie."
 
 # game/day142.rpy:3449
 translate polish day142_b_sex_c3aec27a:
@@ -10964,7 +10964,7 @@ translate polish day142_m_sex_42ca104c:
 translate polish day142_m_sex_9a8cade1:
 
     # p "Yes, right away [m_name]!"
-    p ""
+    p "Tak, natychmiast [m_name]!"
 
 # game/day142.rpy:3501
 translate polish day142_m_sex_522a7344:
@@ -10976,7 +10976,7 @@ translate polish day142_m_sex_522a7344:
 translate polish day142_m_sex_5d1a02a4:
 
     # "{i}Looking at your growing erection with approval, [m_name] slips out of her shirt and underwear."
-    ""
+    "{i}Patrząc z aprobatą na twoją rosnącą erekcję [m_nazwisko] wyślizguje się z koszuli i bielizny"
 
 # game/day142.rpy:3504
 translate polish day142_m_sex_fb8cbeeb:
@@ -10994,7 +10994,7 @@ translate polish day142_m_sex_ccda6ad8:
 translate polish day142_m_sex_e6f39174:
 
     # "{i}This woman is all yours, is all yours for the taking and despite her attempts to control the situation you take the lead."
-    ""
+    "{i}Ta kobieta jest cała twoja, jest cała do wzięcia i pomimo jej prób kontrolowania sytuacji przejmujesz inicjatywę."
 
 # game/day142.rpy:3513
 translate polish day142_m_sex_f83acabe:
@@ -11060,7 +11060,7 @@ translate polish day142_m_sex_2efd93d8:
 translate polish day142_m_sex_fba440ba:
 
     # "{i}Slipping past her lips, you enter her in one thrust, your girlfriend is wet enough to do so."
-    ""
+    "{i}Wślizgując się za jej usta, wchodzisz w nią jednym pchnięciem, twoja dziewczyna jest wystarczająco mokra, aby to zrobić."
 
 # game/day142.rpy:3533
 translate polish day142_m_sex_3ee27c2f:
@@ -11102,7 +11102,7 @@ translate polish day142_m_sex_0133cbda:
 translate polish day142_m_sex_6d0cad0d:
 
     # "{i}The slap of skin on skin is audible every time your balls hit your girlfriend's wet pussy."
-    ""
+    "{i}Uderzenie skóry o skórę jest słyszalne za każdym razem, gdy twoje jaja uderzają w mokrą cipkę twojej dziewczyny."
 
 # game/day142.rpy:3550
 translate polish day142_m_sex_10a5b921:
@@ -11126,7 +11126,7 @@ translate polish day142_m_sex_e5d37517:
 translate polish day142_m_sex_2f99f848:
 
     # "{i}Due to the speed with which you're fucking your girlfriend, the sensation of her ribbed love tunnel stimulating your cock is almost imperceptible, but yet still there."
-    ""
+    "{i}Ze względu na szybkość, z jaką pieprzysz swoją dziewczynę, uczucie jej prążkowanego tunelu miłości stymulującego twojego kutasa jest prawie niezauważalne, ale wciąż tam jest."
 
 # game/day142.rpy:3560
 translate polish day142_m_sex_dd85d91f:
@@ -11150,7 +11150,7 @@ translate polish day142_m_sex_c09f652c:
 translate polish day142_m_sex_553cf20b:
 
     # "{i}When you pull out, cum oozes from your girl's pussy down her thigh."
-    ""
+    "{i}Kiedy wyciągasz spermę z cipki swojej dziewczyny w dół jej uda"
 
 # game/day142.rpy:3578
 translate polish day142_m_sex_a142e327:
@@ -11168,7 +11168,7 @@ translate polish day142_m_sex_d323a1d3:
 translate polish day142_m_sex_547b99c1:
 
     # "{i}As soon as your wet cock is exposed, it starts shooting thick strands of cum, hitting your girl's back as she fingers herself."
-    ""
+    "{i}Gdy tylko twój mokry kutas zostanie odsłonięty, zaczyna strzelać grubymi pasmami spermy uderzającymi w plecy twojej dziewczyny, gdy ona się palcuje."
 
 # game/day142.rpy:3594
 translate polish day142_m_sex_c039f88b:
@@ -11204,7 +11204,7 @@ translate polish day142_m_sex_e853b2c1:
 translate polish day142_m_sex_0e7622d7:
 
     # "{i}Your girlfriend does eventually get dressed and after talking to her for a while you leave her in peace."
-    ""
+    "{i}Twoja dziewczyna w końcu się ubiera i po chwili rozmowy zostawiasz ją w spokoju."
 
 translate polish strings:
 
@@ -11304,11 +11304,217 @@ translate polish day142_morning_event_d9b966f8:
 translate polish day142_r_m_massage_a971b4d5:
 
     # "{i}Suddenly you're spurting cum all over your girlfriend's face, as she holds and directs your twitching cock to spray herself completely."
-    ""
+    "{i}Nagle tryskasz spermą na twarz swojej dziewczyny, gdy ona trzyma i kieruje twoim drgającym kutasem, aby całkowicie się spryskać."
 
 translate polish strings:
 
     # game/day142.rpy:69
     old "Host"
     new "Prowadzący"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day142.rpy:333
+translate polish day142_choices_b8b8efd4:
+
+    # p "Hey [b_name]."
+    p "Hey [b_name]"
+
+# game/day142.rpy:374
+translate polish day142_choices_b8b8efd4_1:
+
+    # p "Hey [b_name]."
+    p "Hey [b_name]"
+
+# game/day142.rpy:646
+translate polish day142_choices_0a47ac9c:
+
+    # p "Hey [l_name]."
+    p "Hey [l_name]"
+
+# game/day142.rpy:807
+translate polish day142_choices_0a47ac9c_1:
+
+    # p "Hey [l_name]."
+    p "Hey [l_name]"
+
+# game/day142.rpy:898
+translate polish day142_choices_aabd1863:
+
+    # p "So yes, we all have an incestuous relationship with each other."
+    p "Więc tak, wszyscy mamy ze sobą kazirodczy związek"
+
+# game/day142.rpy:1703
+translate polish day142_morning_event_3767efdb:
+
+    # m "I'd hate to break us apart, but everyone has a choice to make."
+    m "Nie chciałbym nas rozdzielać, ale każdy musi dokonać wyboru"
+
+# game/day142.rpy:1860
+translate polish day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Czy [m_name] jest w ciąży w tej scenie?"
+
+# game/day142.rpy:1864
+translate polish day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] w ciąży"
+
+# game/day142.rpy:1867
+translate polish day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nie jest w ciąży"
+
+# game/day142.rpy:1869
+translate polish day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Czy [r_name] jest w ciąży w tej scenie?"
+
+# game/day142.rpy:1873
+translate polish day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] w ciąży"
+
+# game/day142.rpy:1876
+translate polish day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nie jest w ciąży"
+
+# game/day142.rpy:2291
+translate polish day142_r_b_l_m_harem_b97dfff5:
+
+    # "{i}It's the touch of [b_name]'s fingers on the soft skin of her belly that makes [r_name] close her eyes and give herself fully over to pleasure."
+    "{i}To dotyk palców [b_name] na miękkiej skórze jej brzucha sprawia, że [r_name] zamyka oczy i w pełni oddaje się przyjemności."
+
+# game/day142.rpy:2477
+translate polish day142_r_b_l_m_licking_e656a137:
+
+    # "{i}You catch [b_name]'s eye and point at your erection, which she subsequently grabs hold of and starts to jerk your cock, before lowering her head towards your member."
+    "{i}Łapiesz wzrok [b_name] i wskazujesz na swoją erekcję, którą ona następnie chwyta i zaczyna szarpać twojego kutasa, zanim opuści głowę w kierunku twojego członka."
+
+# game/day142.rpy:2518
+translate polish day142_r_b_l_m_licking_cdd1649e:
+
+    # m "What, it's not proper for a woman to talk like that?"
+    m "Co nie przystoi kobiecie mówić w ten sposób?"
+
+# game/day142.rpy:2678
+translate polish day142_r_b_l_m_fucking_e39a8b51:
+
+    # "{i}You hunger for your youngest sister's tight pussy and pounce on her light body. Giggling, she guides your shaft inside her and you start fucking [r_name]."
+    "{i}Pragniesz ciasnej cipki swojej najmłodszej siostry i rzucasz się na jej drobne ciało, chichocząc, Rachel naprowadza na siebie Twojego penisa i zaczynasz ją pieprzyć."
+
+# game/day142.rpy:2680
+translate polish day142_r_b_l_m_fucking_f5100228:
+
+    # "{i}You hunger for your youngest girlfriend's tight pussy and pounce on her light body. Giggling, she guides your shaft inside her and you start fucking [r_name]."
+    "{i}Łakniesz ciasnej cipki swojej najmłodszej dziewczyny i rzucasz się na jej lekkie ciało, chichocząc, ona wprowadza twój trzon do jej wnętrza i zaczynasz pieprzyć [r_name]."
+
+# game/day142.rpy:2771
+translate polish day142_r_b_l_m_fucking_735d7080:
+
+    # "{i}You're already fucking voluptuous perfection, so you decide to let your sister keep riding you and shoot her full of seed moments later."
+    "{i}Jesteś już pieprzoną zmysłową perfekcją, więc decydujesz się pozwolić swojej siostrze dalej cię ujeżdżać i chwilę później strzelasz do niej pełnym nasieniem."
+
+# game/day142.rpy:2773
+translate polish day142_r_b_l_m_fucking_3f6c5b5e:
+
+    # "{i}You're already fucking voluptuous perfection, so you decide to let [l_name] keep riding you and shoot her full of seed moments later."
+    "{i}Już pieprzysz zmysłową doskonałość, więc decydujesz się pozwolić [l_name] dalej cię ujeżdżać, a chwilę później strzelasz do niej pełnym nasieniem."
+
+# game/day142.rpy:2952
+translate polish day142_puritan_meeting_d73d8c19:
+
+    # ju "I still don't see..."
+    ju "Nadal nie widzę"
+
+# game/day142.rpy:3108
+translate polish day142_puritan_meeting_b77a0f34_1:
+
+    # er "I think Justin has found a prime example why the corruption in our society is so alarming."
+    er "Myślę, że Justin znalazł doskonały przykład, dlaczego deprawacja w naszym społeczeństwie jest tak niepokojąca."
+
+# game/day142.rpy:3141
+translate polish day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Czy [r_name] jest w ciąży w tej scenie?"
+
+# game/day142.rpy:3145
+translate polish day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] w ciąży"
+
+# game/day142.rpy:3148
+translate polish day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nie jest w ciąży"
+
+# game/day142.rpy:3442
+translate polish day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Czy [l_name] jest w ciąży w tej scenie?"
+
+# game/day142.rpy:3446
+translate polish day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] w ciąży"
+
+# game/day142.rpy:3449
+translate polish day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nie jest w ciąży"
+
+# game/day142.rpy:3652
+translate polish day142_l_sex_57a49b76:
+
+    # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
+    "{i}Kiedy jest na kolanach, zanim sperma zacznie tryskać do jej otwartych ust."
+
+# game/day142.rpy:3709
+translate polish day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Czy [b_name] jest w ciąży w tej scenie?."
+
+# game/day142.rpy:3713
+translate polish day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] w ciąży"
+
+# game/day142.rpy:3716
+translate polish day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nie jest w ciąży"
+
+# game/day142.rpy:3951
+translate polish day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Czy [m_name] jest w ciąży w tej scenie?"
+
+# game/day142.rpy:3955
+translate polish day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] w ciąży"
+
+# game/day142.rpy:3958
+translate polish day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nie jest w ciąży"
 

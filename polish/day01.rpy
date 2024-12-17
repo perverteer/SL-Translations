@@ -10,23 +10,6 @@ translate polish day01_0084a533:
     # p "{i}(Damn, it has been so long. Should I just call her mom, or use her name?)"
     p "Cześć mamo. Dobrze znowu Cię widzieć."
 
-    menu:
-        "Hug her":
-
-            scene day01_hug_m with dissolve
-
-            p "Naprawdę się cieszę, że pozwoliłaś mi tu zamieszkać. Tęskniłem za Tobą mamo."
-
-            jump enter_apartment
-        "Kiss her":
-
-            scene day01_kiss_m with dissolve
-
-            p "{b}*Cmok*{/b} Kocham Cię mamo!"
-
-            jump enter_apartment
-
-
 # game/day01.rpy:31
 translate polish day01_2fa97392:
 
@@ -57,45 +40,6 @@ translate polish enter_apartment_1a962617:
     # p "({i}My youngest sister... That would be...)"
     p "({i} Moja najmłodsza siostra... Czyli...)"
     p "({i}Rachel, tak miała na imię.)"
-
-    scene day01_p_room_day_m with dissolve
-
-    m "Więc, to będzie Twój pokój. Nie jest duży, ale mam nadzieję, że Ci się spodoba."
-    p "Dzięki mamo, jest świetny."
-    m "Łazienka jest w dole korytarza. Jeśli chcesz, możesz pójść się trochę odświeżyć."
-    m "No dobrze. Zostawię Cię samego, żebyś mógł się rozpakować i zadomowić."
-    "{i}Słyszysz odgłosy dochodzące z korytarza."
-
-    if game.is_special:
-        r "Czy to on mamo?"
-    else:
-        r "Czy to on mamo?"
-
-    scene day01_p_room_day_m_r with dissolve
-
-    m "Tak kochanie, to właśnie [p_name]. Gdzie są Twoje maniery?"
-    r "Oh, no tak. Cześć, jestem Rachel!"
-
-    if game.is_special:
-        p "({i}Wow. Rachel wyrosła. Wygląda bardzo ładnie! Małżeństwo mamy i taty może nie było udane, ale połączenie ich genów wręcz przeciwnie.)"
-    else:
-        p "({i}Wow. Rachel wygląda bardzo ładnie!)"
-
-    menu:
-        "Hug her":
-            scene day01_p_room_hug_r with dissolve
-
-            p "Miło Cię poznać Rachel."
-
-            jump day01_leave_p_room
-        "Kiss her":
-
-            scene day01_p_room_kiss_r with dissolve
-
-            p "{b}*Cmok*{/b} Cześć Rachel!"
-
-            jump day01_leave_p_room
-
 
 # game/day01.rpy:107
 translate polish day01_leave_p_room_33cb256e:
@@ -1152,226 +1096,267 @@ translate polish strings:
 translate polish day01_c34069a0:
 
     # p "{i}(Should I just call her Mrs. Smith, or use her first name?)"
-    p ""
+    p "{i}(Powinienem nazywać ją po prostu panią Smith czy użyć jej imienia?)"
 
 # game/day01.rpy:25
 translate polish day01_b3663d81:
 
     # p "Hi [m_name]. Good to see you again."
-    p ""
+    p "Cześć [m_name] Miło cię znowu widzieć"
 
 # game/day01.rpy:48
 translate polish enter_apartment_c28d0f18:
 
     # m "Come in! I've told you about the three girls living with me, haven't I?"
-    m ""
+    m "Wejdź! Mówiłem ci o trzech dziewczynach mieszkających ze mną, prawda?"
 
 # game/day01.rpy:53
 translate polish enter_apartment_2f71ea59:
 
     # m "The youngest girl is also home, she's very eager to meet you!"
-    m ""
+    m "Najmłodsza dziewczynka też jest w domu i bardzo chce cię poznać!"
 
 # game/day01.rpy:58
 translate polish enter_apartment_4e3071e9:
 
     # p "({i}Wonder what her name is...)"
-    p ""
+    p "({i} Ciekawe jak ma na imię)"
 
 # game/day01.rpy:68
 translate polish enter_apartment_f9ae8e23:
 
     # m "So this will be your room. It's not that big, but I hope you like it."
-    m ""
+    m "Więc to będzie twój pokój. Nie jest duży, ale mam nadzieję, że ci się spodoba."
 
 # game/day01.rpy:69
 translate polish enter_apartment_71d3888a:
 
     # p "Thanks [m_name], this is great!"
-    p ""
+    p "Dzięki [m_name], to jest świetne!"
 
 # game/day01.rpy:70
 translate polish enter_apartment_968da184:
 
     # m "The bathroom is just down the hall, if you want to take a shower and freshen up a little."
-    m ""
+    m "Łazienka jest na końcu korytarza, jeśli chcesz wziąć prysznic i trochę się odświeżyć."
 
 # game/day01.rpy:71
 translate polish enter_apartment_04373cf8:
 
     # m "All right. I'll leave you to unpack and settle in."
-    m ""
+    m "W porządku, zostawię cię, żebyś się rozpakował i zadomowił."
 
 # game/day01.rpy:72
 translate polish enter_apartment_c63e1e7f:
 
     # "{i}You hear noises in the hallway."
-    ""
+    "{i}Słyszysz hałasy na korytarzu."
 
 # game/day01.rpy:75
 translate polish enter_apartment_ac9ed951:
 
     # r "Is this him, mother?"
-    r ""
+    r "Czy to jego matka?"
 
 # game/day01.rpy:77
 translate polish enter_apartment_7a5b5858:
 
     # r "Is this him, Mrs. Smith?"
-    r ""
+    r "Czy to on, pani Smith?"
 
 # game/day01.rpy:81
 translate polish enter_apartment_981e998f:
 
     # m "Yes dear, this is [p_name]. Where are your manners?"
-    m ""
+    m "Tak kochanie, tu [p_name] Gdzie twoje maniery?"
 
 # game/day01.rpy:82
 translate polish enter_apartment_4e807dd5:
 
     # r "Oh, right. Hi, I'm [r_name]!"
-    r ""
+    r "No tak, jestem [r_name]!"
 
 # game/day01.rpy:85
 translate polish enter_apartment_2494dc32:
 
     # p "({i}Woah. [r_name] has grown. She looks very nice! Mom and dad's marriage might not have been successful, but their mix of genes certainly was.)"
-    p ""
+    p "({i}Woah [r_name] urosła, wygląda bardzo ładnie! Małżeństwo mamy i taty mogło nie być udane, ale ich mieszanka genów z pewnością była)"
 
 # game/day01.rpy:87
 translate polish enter_apartment_d90fb484:
 
     # p "({i}Woah. [r_name] looks very nice!)"
-    p ""
+    p "({i}Woah [r_name] wygląda bardzo ładnie!)"
 
 # game/day01.rpy:93
 translate polish enter_apartment_4f22f0ef:
 
     # p "Good to meet you, [r_name]."
-    p ""
+    p "Miło cię poznać [r_name]"
 
 # game/day01.rpy:100
 translate polish enter_apartment_953b0ac8:
 
     # p "{b}*Kiss*{/b} Hi [r_name]!"
-    p ""
+    p "{b}*Kiss*{/b} Hi [r_name]!."
 
 # game/day01.rpy:113
 translate polish day01_leave_p_room_3e7394a0:
 
     # r "And you have to meet the other girls of course, but they aren't home at the moment. And..."
-    r ""
+    r "I oczywiście musisz spotkać się z innymi dziewczynami, ale w tej chwili nie ma ich w domu."
 
 # game/day01.rpy:151
 translate polish day01_p_room_action_menu_fb37e775:
 
     # p "{i}(I wonder where the other girls are.)"
-    p ""
+    p "{i}(Zastanawiam się, gdzie są inne dziewczyny)"
 
 # game/day01.rpy:160
 translate polish day01_p_room_action_menu_f87ce940:
 
     # p "{i}(I remember that [b_name] and I were always arguing. She isn't that much older than me and could be a real bitch sometimes, back when mom and dad were still together.)"
-    p ""
+    p "{i}(Pamiętam, że [b_name] i ja zawsze się kłóciliśmy Ona nie jest dużo starsza ode mnie i czasami potrafiła być prawdziwą suką, kiedy mama i tata byli jeszcze razem)"
 
 # game/day01.rpy:162
 translate polish day01_p_room_action_menu_cf29b774:
 
     # p "{i}(From what I heard, [b_name] is always arguing with the others. Sounds a bit like a bitch to me.)"
-    p ""
+    p "{i}(Z tego, co słyszałem, [b_name] zawsze kłóci się z innymi. Brzmi trochę jak suka)"
 
 # game/day01.rpy:171
 translate polish day01_p_room_action_menu_f09d49b0:
 
     # p "{i}(My eldest sister [l_name] was always the most responsible of the four of us. I wonder if that's changed.)"
-    p ""
+    p "{i}(Moja najstarsza siostra [l_name] zawsze była najbardziej odpowiedzialna z naszej czwórki, zastanawiam się, czy to się zmieniło)"
 
 # game/day01.rpy:173
 translate polish day01_p_room_action_menu_440551ce:
 
     # p "{i}(From what [m_name] told me, [l_name] is the most responsible of the three girls.)"
-    p ""
+    p "{i}(Z tego, co powiedziała mi [m_name], [l_name] jest najbardziej odpowiedzialną z trzech dziewczyn)"
 
 # game/day01.rpy:218
 translate polish day01_r_bedroom_5756765a:
 
     # p "I'm so sorry [r_name]! At my dad's we always left the doors unlocked..."
-    p ""
+    p "Tak mi przykro [r_name]! U mojego taty zawsze zostawialiśmy niezamknięte drzwi."
 
 # game/day01.rpy:305
 translate polish day01_dinner_12b4fa08:
 
     # p "Of course, I'd like to meet the other girls first."
-    p ""
+    p "Oczywiście najpierw chciałabym poznać inne dziewczyny."
 
 # game/day01.rpy:318
 translate polish day01_dinner_6f99e4f6:
 
     # r "Yes Mrs. Smith... very friendly..."
-    r ""
+    r "Tak, pani Smith jest bardzo przyjazna"
 
 # game/day01.rpy:342
 translate polish day01_dinner_conversation_e470abff:
 
     # r "No Mrs. Smith. Besides, my summer holiday time is too precious to be spent at work."
-    r ""
+    r "Nie, pani Smith, poza tym moje wakacje są zbyt cenne, by spędzać je w pracy."
 
 # game/day01.rpy:371
 translate polish day01_dinner_conversation_7f8f23a6:
 
     # r "You better get used to it, [p_name], Mrs. Smith is a real workaholic."
-    r ""
+    r "Lepiej się do tego przyzwyczaj [p_name] Pani Smith jest prawdziwym pracoholikiem"
 
 # game/day01.rpy:372
 translate polish day01_dinner_conversation_611fe71f:
 
     # m "Somebody has to provide for this shelter. It's all volunteer work, you know."
-    m ""
+    m "Ktoś musi utrzymywać to schronisko, to praca wolontariuszy."
 
 # game/day01.rpy:436
 translate polish day01_m_talk_5e69b70d:
 
     # m "I hope that feeling will only grow!"
-    m ""
+    m "Mam nadzieję, że to uczucie będzie tylko rosło!"
 
 # game/day01.rpy:444
 translate polish day01_m_talk_521153a1:
 
     # p "Why did you guys never visit? I mean, you were good friends at first, right?"
-    p ""
+    p "Dlaczego nigdy się nie odwiedziliście? Na początku byliście dobrymi przyjaciółmi, prawda?"
 
 # game/day01.rpy:487
 translate polish day01_m_talk_father_8ecf6043:
 
     # r "Dinner was nice, Mrs. Smith is hardly ever here."
-    r ""
+    r "Kolacja była smaczna, pani Smith rzadko tu bywa"
 
 # game/day01.rpy:541
 translate polish day01_b_talk_fbcbe4fb:
 
     # b "You must be the new guest..."
-    b ""
+    b "Musisz być nowym gościem"
 
 # game/day01.rpy:542
 translate polish day01_b_talk_e785b58d:
 
     # b "Do you sneak up on women often?"
-    b ""
+    b "Często podkradasz się do kobiet?"
 
 # game/day01.rpy:543
 translate polish day01_b_talk_c1061d39:
 
     # p "{i}(Ah, [b_name]. Truly a bitch apparently. She's hot though.)"
-    p ""
+    p "{i}(Ah [b_name] Naprawdę suka najwyraźniej jest gorąca)"
 
 # game/day01.rpy:582
 translate polish day01_b_conversation_ceb23932:
 
     # b "Mrs. Smith has struggled to support us and now she has another mouth to feed as well."
-    b ""
+    b "Pani Smith z trudem nas utrzymywała, a teraz ma jeszcze jedną gębę do wykarmienia."
 
 # game/day01.rpy:589
 translate polish day01_b_conversation_48766f28:
 
     # p "My dad left me a lot of money after his death, so [m_name] doesn't have to provide me anything!"
-    p ""
+    p "Mój tata zostawił mi dużo pieniędzy po swojej śmierci, więc [m_name] nie musi mi niczego zapewniać!."
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day01.rpy:267
+translate polish day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "C- Co?"
+
+# game/day01.rpy:269
+translate polish day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "ZOSTAW MNIE KURWA SAMĄ [p_name]!!! Zwariowałeś?!"
+
+translate polish strings:
+
+    # game/day01.rpy:19
+    old "What is your mom's name?"
+    new "Jak ma na imię Twoja mama?"
+
+    # game/day01.rpy:22
+    old "What is her name?"
+    new "Jak ona się nazywa?"
+
+    # game/day01.rpy:172
+    old "What is the name of your older sister?"
+    new "Jak ma na imię Twoja starsza siostra?"
+
+    # game/day01.rpy:174
+    old "What is the name of the older girl?"
+    new "Jak ma na imię starsza dziewczyna?"
+
+    # game/day01.rpy:183
+    old "What is the name of your oldest sister?"
+    new "Jak ma na imię Twoja najstarsza siostra?"
+
+    # game/day01.rpy:185
+    old "What is the name of the oldest girl?"
+    new "Jak ma na imię najstarsza dziewczynka?"
+

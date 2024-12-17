@@ -80,7 +80,7 @@ translate polish day05_3934b5e1:
 translate polish day05_a8d4b2d4:
 
     # p "What's bothering you?"
-    p ""
+    p "Co cię trapi?"
 
 # game/day05.rpy:50
 translate polish day05_897f2a0c:
@@ -230,7 +230,7 @@ translate polish day05_4113b625:
 translate polish day05_1f819372:
 
     # l "I think [p_name] is integrating very well here."
-    l ""
+    l "Myślę, że [p_name] bardzo dobrze się tutaj integruje"
 
 # game/day05.rpy:89
 translate polish day05_53184453:
@@ -278,7 +278,7 @@ translate polish day05_399b1a96:
 translate polish day05_99d576dc:
 
     # p "{i}(This is going to cost her dearly. Just you wait, [b_name].)"
-    p ""
+    p "{i}(To będzie ją drogo kosztować, tylko poczekaj [b_name])"
 
 # game/day05.rpy:100
 translate polish day05_02d7818b:
@@ -422,7 +422,7 @@ translate polish day05_p_room_choices_menu_eba45131:
 translate polish day05_p_room_choices_menu_dfbe4eac:
 
     # p "{i}(Yesss!!! [r_name]'s girlfriends are sex-craving nymphos. Woohoo!!!)"
-    p ""
+    p "{i}(Yesss!!! Dziewczyny [r_name] są spragnionymi seksu nimfomankami Woohoo!!!)"
 
 # game/day05.rpy:155
 translate polish day05_p_room_choices_menu_b34f2a2a:
@@ -494,7 +494,7 @@ translate polish day05_p_room_choices_menu_38f23aed:
 translate polish day05_p_room_choices_menu_2655790f:
 
     # p "{i}(I haven't updated James about me finding [m_name]'s business card.)"
-    p ""
+    p "{i}(Nie zaktualizowałem Jamesa o znalezieniu wizytówki [m_name])"
 
 # game/day05.rpy:193
 translate polish day05_p_room_choices_menu_17b45bb4:
@@ -560,7 +560,7 @@ translate polish day05_p_room_choices_menu_4b15c0cc:
 translate polish day05_p_room_choices_menu_b55a4dfd:
 
     # p "Listen, I did a sweep of [m_name]'s bedroom after you left yesterday."
-    p ""
+    p "Słuchaj, przeszukałem sypialnię [m_imię] po twoim wczorajszym wyjściu."
 
 # game/day05.rpy:206
 translate polish day05_p_room_choices_menu_1c3548b9:
@@ -674,7 +674,7 @@ translate polish day05_p_room_choices_menu_1c196c32:
 translate polish day05_p_room_choices_menu_12d07828:
 
     # j "The girls at your house all have MugCompendium profiles."
-    j ""
+    j "Wszystkie dziewczyny w twoim domu mają profile MugCompendium"
 
 # game/day05.rpy:233
 translate polish day05_p_room_choices_menu_0a5cbccd:
@@ -692,7 +692,7 @@ translate polish day05_p_room_choices_menu_1dd68cf8:
 translate polish day05_p_room_choices_menu_6be0b27f:
 
     # j "Guess they're old-fashioned ladies."
-    j ""
+    j "Chyba są staroświeckimi damami"
 
 # game/day05.rpy:238
 translate polish day05_p_room_choices_menu_38a377b3:
@@ -1232,7 +1232,7 @@ translate polish day05_p_b_confrontation_4bdaa0a9:
 translate polish day05_p_b_confrontation_bc062e09:
 
     # p "[b_name], you seem like a nice girl deep down. I will give you the money you need but I want something in return."
-    p ""
+    p "[b_name] w głębi duszy wydajesz się miłą dziewczyną, dam ci pieniądze, których potrzebujesz, ale chcę czegoś w zamian."
 
 # game/day05.rpy:448
 translate polish day05_p_b_confrontation_eb9d4032:
@@ -1262,7 +1262,7 @@ translate polish day05_p_b_confrontation_3715b02d:
 translate polish day05_p_b_confrontation_1ee5cf1a:
 
     # p "I bet you played doctor when you were a kid, look at it like that."
-    p ""
+    p "Założę się, że w dzieciństwie bawiłeś się w lekarza, spójrz na to w ten sposób"
 
 # game/day05.rpy:457
 translate polish day05_p_b_confrontation_73e80fc0:
@@ -1400,7 +1400,7 @@ translate polish day05_p_b_confrontation_6f436758:
 translate polish day05_p_b_confrontation_d99e5b74:
 
     # p "Here's your 200. See you tomorrow, dear [b_name]!"
-    p ""
+    p "Oto twoje 200 Do zobaczenia jutro, drogi [b_name]!."
 
 # game/day05.rpy:502
 translate polish day05_p_b_confrontation_717aab30:
@@ -1424,7 +1424,7 @@ translate polish day05_p_b_confrontation_56d543c4:
 translate polish day05_p_b_confrontation_febbed1a:
 
     # p "Okay. Here's your 200. See you tomorrow, dear [b_name]!"
-    p ""
+    p "Ok, oto twoje 200 Do zobaczenia jutro, drogi [b_name]!."
 
 # game/day05.rpy:511
 translate polish day05_p_b_confrontation_b733eaa1:
@@ -1442,7 +1442,7 @@ translate polish day05_p_b_confrontation_56d543c4_1:
 translate polish day05_p_b_confrontation_febbed1a_1:
 
     # p "Okay. Here's your 200. See you tomorrow, dear [b_name]!"
-    p ""
+    p "Ok, oto twoje 200 Do zobaczenia jutro, drogi [b_name]!."
 
 # game/day05.rpy:519
 translate polish day05_p_b_confrontation_e44be370:
@@ -1484,7 +1484,7 @@ translate polish day05_p_b_confrontation_b26ce1ac:
 translate polish day05_p_b_confrontation_d148af2a:
 
     # p "{i} (Nobody gets to take advantage of my new friends, except maybe me.)"
-    p ""
+    p "{i} (Nikt nie może skorzystać z moich nowych przyjaciół, może z wyjątkiem mnie)"
 
 # game/day05.rpy:538
 translate polish day05_p_b_confrontation_650ba80b:
@@ -1568,7 +1568,7 @@ translate polish day05_evening_choices_0e8de08b:
 translate polish day05_evening_choices_887cad5a:
 
     # p "You're a vision!"
-    p ""
+    p "Jesteś wizją!"
 
 # game/day05.rpy:574
 translate polish day05_evening_choices_40de3ca5:
@@ -1586,7 +1586,7 @@ translate polish day05_evening_choices_2bf29d57:
 translate polish day05_evening_choices_b7a312cf:
 
     # p "Lovely as ever!"
-    p ""
+    p "Piękny jak zawsze!"
 
 # game/day05.rpy:580
 translate polish day05_evening_choices_d2553ed6:
@@ -1610,7 +1610,7 @@ translate polish day05_evening_choices_65ac8196:
 translate polish day05_evening_choices_af9757d6:
 
     # l "Not at all, Mrs. Smith is at work and she uses public transport to commute."
-    l ""
+    l "Wcale nie, pani Smith jest w pracy i dojeżdża do niej transportem publicznym."
 
 # game/day05.rpy:588
 translate polish day05_evening_choices_b5f0c237:
@@ -1760,7 +1760,7 @@ translate polish day05_restaurant_choices_65766d51:
 translate polish day05_restaurant_choices_820ab2ea:
 
     # p "{i}(Except for the crazy sex I'm having with [r_name]'s friends...)"
-    p ""
+    p "{i}(Z wyjątkiem szalonego seksu, który uprawiam z przyjaciółmi [r_name])"
 
 # game/day05.rpy:639
 translate polish day05_restaurant_choices_e5b42dbe:
@@ -1820,7 +1820,7 @@ translate polish day05_restaurant_choices_6753f2ab:
 translate polish day05_restaurant_choices_81ab8a0a:
 
     # p "Come now, you can ask me anything."
-    p ""
+    p "Teraz możesz zapytać mnie o wszystko"
 
 # game/day05.rpy:661
 translate polish day05_restaurant_choices_78210e69:
@@ -2223,7 +2223,7 @@ translate polish day05_restaurant_main_course_choices_96eb1575:
 translate polish day05_restaurant_main_course_choices_e19863a2:
 
     # p "With you being the oldest of the girls living with Mrs. Smith, do you have enough time do something fun?"
-    p ""
+    p "Skoro jesteś najstarszą z dziewcząt mieszkających z panią Smith, czy masz wystarczająco dużo czasu, aby zrobić coś fajnego?"
 
 # game/day05.rpy:795
 translate polish day05_restaurant_main_course_choices_83d68c51:
@@ -2289,7 +2289,7 @@ translate polish day05_restaurant_main_course_choices_7b6e1c7f:
 translate polish day05_restaurant_main_course_choices_fbd4a3d9:
 
     # p "You're going with me, just as a friend. I will protect you! He doesn't even have to know."
-    p ""
+    p "Idziesz ze mną tylko jako przyjaciel, będę cię chronić! On nawet nie musi wiedzieć"
 
 # game/day05.rpy:832
 translate polish day05_restaurant_main_course_choices_8bf1d5fb:
@@ -2331,7 +2331,7 @@ translate polish day05_restaurant_main_course_choices_77aeb17e:
 translate polish day05_restaurant_main_course_choices_b2928771:
 
     # l "Thank you for being such a great friend!"
-    l ""
+    l "Dziękuję za bycie tak wspaniałym przyjacielem!"
 
 # game/day05.rpy:854
 translate polish day05_restaurant_main_course_choices_96674d55:
@@ -2355,7 +2355,7 @@ translate polish day05_restaurant_main_course_choices_bac8aa6a:
 translate polish day05_restaurant_main_course_choices_90a398a4:
 
     # p "Does [b_name] have a hard time accepting the new male influence on the household? Do you think it accounts for her behavior towards me now?"
-    p ""
+    p "Czy [b_name] ma trudności z zaakceptowaniem nowego męskiego wpływu na gospodarstwo domowe? Czy myślisz, że to tłumaczy jej zachowanie wobec mnie teraz?"
 
 # game/day05.rpy:873
 translate polish day05_restaurant_main_course_choices_1c98c970:
@@ -2421,7 +2421,7 @@ translate polish day05_restaurant_main_course_choices_62190908:
 translate polish day05_restaurant_main_course_choices_88a7703b:
 
     # p "{i}(I think I really do love her. Shit. She's so lovely.)"
-    p ""
+    p "{i}(Myślę, że naprawdę ją kocham, Cholera, jest taka urocza)"
 
 # game/day05.rpy:907
 translate polish day05_restaurant_main_course_choices_962dc207:
@@ -2511,7 +2511,7 @@ translate polish day05_restaurant_main_course_choices_95fd944a:
 translate polish day05_restaurant_main_course_choices_2d32a4af:
 
     # l "It's just that I have had all these responsibilities because I'm older..."
-    l ""
+    l "Po prostu mam te wszystkie obowiązki, bo jestem starszy."
 
 # game/day05.rpy:934
 translate polish day05_restaurant_main_course_choices_83c04fb6:
@@ -2643,7 +2643,7 @@ translate polish day05_restaurant_main_course_choices_9362ba5d:
 translate polish day05_restaurant_main_course_choices_70fcdfea:
 
     # "{i}The guy leers a moment at [l_name], obviously looking at her breasts and heads towards the exit."
-    ""
+    "{i}Facet gapi się przez chwilę na [l_name], najwyraźniej patrząc na jej piersi i kieruje się w stronę wyjścia."
 
 # game/day05.rpy:1013
 translate polish day05_restaurant_main_course_choices_b33962ec:
@@ -3486,4 +3486,534 @@ translate polish strings:
     # game/day05.rpy:979
     old "Guy"
     new "Facet"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day05.rpy:357
+translate polish day05_p_b_confrontation_c170d246:
+
+    # b "But I need that money, [p_name]..."
+    b "Ale [p_name], naprawdę ich potrzebuję..."
+
+# game/day05.rpy:415
+translate polish day05_p_b_confrontation_656a1793:
+
+    # "{i}When you touch [b_name]’s nipples, they stiffen even further. Almost inaudibly, [b_name] lets out an involuntary sigh."
+    "{i}Kiedy dotykasz sutków [b_name], sztywnieją one jeszcze bardziej Prawie niesłyszalnie [b_name] wydaje mimowolne westchnienie."
+
+# game/day05.rpy:447
+translate polish day05_p_b_confrontation_a738f575:
+
+    # p "{i}(I can't believe [b_name] was willing to do that, and she even seemed to enjoy it.)"
+    p "{i}(Nie mogę uwierzyć, że Bella się na to zgodziła. Chyba nawet jej się to spodobało.)"
+
+# game/day05.rpy:484
+translate polish day05_evening_choices_360c2d82:
+
+    # p "Are you ready to go, [l_name]?"
+    p "Gotowa do wyjścia?"
+
+# game/day05.rpy:505
+translate polish day05_evening_choices_e850f9ea:
+
+    # l "Thank you, [p_name]."
+    l "Dziękuję [p_name]."
+
+# game/day05.rpy:537
+translate polish day05_evening_choices_20688801:
+
+    # l "Be nice, [p_name]!"
+    l "Tylko bez żartów [p_name]!"
+
+# game/day05.rpy:726
+translate polish day05_restaurant_main_course_choices_1f622cdb:
+
+    # p "With you being the oldest of the girls living with Mrs. Smith, did you have enough time do something fun?"
+    p "Skoro jesteś najstarszą z dziewcząt mieszkających z panią Smith, czy miałaś wystarczająco dużo czasu, aby zrobić coś fajnego?"
+
+# game/day05.rpy:756
+translate polish day05_restaurant_main_course_choices_e28b220c:
+
+    # p "You're going with your brother. I will protect you! He doesn't even have to know."
+    p "Idziesz z bratem, będę cię chronić! On nawet nie musi wiedzieć"
+
+# game/day05.rpy:808
+translate polish day05_restaurant_main_course_choices_194f1d3f:
+
+    # l "Yeah, she doesn't want to talk about it to me though, and we're pretty close."
+    l "Tak, ale nawet nie chce ze mną o tym porozmawiać, a jesteśmy dość blisko ze sobą."
+
+# game/day05.rpy:842
+translate polish day05_restaurant_main_course_choices_c7a5ac45:
+
+    # p "When Dad and I left, she was still a little girl. And she's all grown up now."
+    p "Kiedy tata i ja wyjechaliśmy była jeszcze małą dziewczynką. A teraz jest już praktycznie dorosła."
+
+# game/day05.rpy:862
+translate polish day05_restaurant_main_course_choices_4a86a93c:
+
+    # p "More carefree?"
+    p "Bardziej beztroski?"
+
+# game/day05.rpy:1019
+translate polish day05_restaurant_main_course_choices_7a934612:
+
+    # "{i}Obviously shaken, the guy runs for the exit."
+    "{i}Wyraźnie wystraszony kieruje się do wyjścia."
+
+# game/day05.rpy:1063
+translate polish day05_restaurant_main_course_choices_eed1e285:
+
+    # l "Sweet dreams, [p_name]!"
+    l "Słodkich snów [p_name]!"
+
+# game/day05.rpy:1093
+translate polish day05_restaurant_main_course_choices_b87fab88:
+
+    # l "I..."
+    l "Ja..."
+
+# game/day05.rpy:1208
+translate polish day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Alina szybko się rozbiera i klęka przed Tobą."
+
+# game/day05.rpy:1210
+translate polish day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "Byłam niegrzeczną dziewczynką [p_name]."
+
+# game/day05.rpy:1211
+translate polish day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "Proszę, ukarz mnie swoim wielkim fiutem."
+
+# game/day05.rpy:1212
+translate polish day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Wygląda na to, że Alinę podnieca bycie uległą. Proszę, proszę.)"
+
+# game/day05.rpy:1213
+translate polish day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "Ciągle miewam brzydkie myśli o tych wszystkich facetach robiących mi różne rzeczy i spuszczających na mnie."
+
+# game/day05.rpy:1214
+translate polish day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "Więc byłaś niegrzeczną dziewczynką?"
+
+# game/day05.rpy:1218
+translate polish day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Tak."
+
+# game/day05.rpy:1219
+translate polish day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "I chcesz poczuć mojego fiuta w swoich ustach?"
+
+# game/day05.rpy:1220
+translate polish day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Tak. Zasłużyłam na karę, za te wszystkie brudne myśli."
+
+# game/day05.rpy:1221
+translate polish day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Powiedz: Proszę."
+
+# game/day05.rpy:1222
+translate polish day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "Proszę [p_name], wypełnij moje usta swoim wielkim kutasem."
+
+# game/day05.rpy:1228
+translate polish day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Łapiesz ją za głowę i wpychasz w nią swojego fiuta."
+
+# game/day05.rpy:1229
+translate polish day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Alina dławi się i uśmiecha. Ślina już ścieka jej z ust."
+
+# game/day05.rpy:1231
+translate polish day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "Podoba Ci się to, Ty mała kurewko?"
+
+# game/day05.rpy:1232
+translate polish day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    al "Mmmmhmmm. *Dławi się*"
+
+# game/day05.rpy:1241
+translate polish day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}Jej język ociera się o Twojego żołędzia gdy ruszasz jej głową w górę i w dół, od czasu do czasu pozwalając jej złapać oddech."
+
+# game/day05.rpy:1243
+translate polish day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "*Dławi się* Aaaah, daj mi go całego."
+
+# game/day05.rpy:1247
+translate polish day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Alina liże całą długość Twojego połyskującego od śliny penisa i potem czujesz jej mokry język na swoich jądrach."
+
+# game/day05.rpy:1248
+translate polish day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "Proszę, proszę wepchnij go całego!"
+
+# game/day05.rpy:1259
+translate polish day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}Z odpowiednią dozą siły wypychasz swojego fiuta do jej gardła. Oczy Aliny łzawią, a jej tors zaczyna pokrywać ślina."
+
+# game/day05.rpy:1260
+translate polish day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    al "Mmmmmmm!"
+
+# game/day05.rpy:1262
+translate polish day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}Z Twoim penisem w gardle, Alina zaczyna wyglądać jakby była w siódmym niebie."
+
+# game/day05.rpy:1263
+translate polish day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Lubisz ból, co? Ty brudna, mała kurewko?"
+
+# game/day05.rpy:1264
+translate polish day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Czujesz, że jesteś już blisko spełnienia, Alina uwalnia się z Twojego uścisku i układa się na czworakach, z Twoim penisem ciągle w jej gardle."
+
+# game/day05.rpy:1265
+translate polish day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Dochodzę, dochodzę!"
+
+# game/day05.rpy:1266
+translate polish day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Mmmmm."
+
+# game/day05.rpy:1273
+translate polish day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaah!!!"
+
+# game/day05.rpy:1274
+translate polish day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}Opróżniasz swoje jądra głęboko w jej gardle. Alina nie przestaje ruszać głową do momentu aż połyka ostatnie krople Twojej spermy."
+
+# game/day05.rpy:1279
+translate polish day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Alina oblizuje swoje pokryte spermą usta i patrzy na Ciebie rozmarzonym wzrokiem."
+
+# game/day05.rpy:1293
+translate polish day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaah!!!"
+
+# game/day05.rpy:1294
+translate polish day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}Wycofujesz się z jej gorących ust i dochodzisz na jej twarz i klatkę."
+
+# game/day05.rpy:1298
+translate polish day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Alina zgarnia palcem część Twojej spermy zmieszanej z jej śliną i oblizuje go z czułością."
+
+# game/day05.rpy:1308
+translate polish day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Mmmmm, mniam!"
+
+# game/day05.rpy:1309
+translate polish day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "{i}(Jest trochę stuknięta, ale świetna z niej obciągara!)"
+
+# game/day05.rpy:1312
+translate polish day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ana miała rację, smakujesz naprawdę dobrze i było tego tak dużo!"
+
+# game/day05.rpy:1314
+translate polish day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "Smakujesz naprawdę dobrze i było tego tak dużo!"
+
+# game/day05.rpy:1316
+translate polish day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "Jestem już dobrą dziewczynką, [p_name]?"
+
+# game/day05.rpy:1338
+translate polish day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Po obejrzeniu kilku pierwszych zdjęć jesteś już gotowy do akcji."
+
+# game/day05.rpy:1343
+translate polish day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(Z wielką chęcią zabrałbym się za ten okrągły tyłeczek.)"
+
+# game/day05.rpy:1346
+translate polish day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Po obejrzeniu kilku pierwszych zdjęć jesteś już gotowy do akcji."
+
+# game/day05.rpy:1350
+translate polish day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Spójrzcie tylko na te jej nogi...)"
+
+# game/day05.rpy:1352
+translate polish day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "{i}(Zerżnąłbym te cycki bez litości!)"
+
+# game/day05.rpy:1357
+translate polish day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(Mam nadzieję, że [p_name] jeszcze nie śpi. Zapomniałam mu powiedzieć jaki film chciałabym obejrzeć. Może będzie chciał zarezerwować bilety.)"
+
+# game/day05.rpy:1359
+translate polish day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "{i}(Co on robi? Rusza ręką... Nie... Czy on się masturbuje?)"
+
+# game/day05.rpy:1360
+translate polish day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(Kurwa! Chyba słyszałem drzwi. Czy to Rachel?)"
+
+# game/day05.rpy:1364
+translate polish day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(Jebać to, ktokolwiek to jest. To mój pokój, mogę walić konia jeśli chcę.)"
+
+# game/day05.rpy:1365
+translate polish day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(Nie zauważył mnie?)"
+
+# game/day05.rpy:1369
+translate polish day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(To dość podniecające, obserwować go przy tym.)"
+
+# game/day05.rpy:1370
+translate polish day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "{i}(Hmmm. Co?! Robię się mokra?)"
+
+# game/day05.rpy:1376
+translate polish day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Tylko trochę się podotykam.)"
+
+# game/day05.rpy:1377
+translate polish day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Chyba dalej tu jest... Ta myśl jeszcze bardziej mnie podnieciła.)"
+
+# game/day05.rpy:1380
+translate polish day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Ugh. Lepiej zostawię go w spokoju.)"
+
+# game/day05.rpy:1382
+translate polish day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Słyszysz ciche zamknięcie drzwi. Wygląda na to, że znowu jesteś sam na sam z Aną."
+
+# game/day05.rpy:1384
+translate polish day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Słyszysz ciche zamknięcie drzwi. Wygląda na to, że znowu jesteś sam na sam z Jenną."
+
+# game/day05.rpy:1388
+translate polish day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Lepiej przestanę zanim ją wystraszę...)"
+
+# game/day05.rpy:1389
+translate polish day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}Kiedy się odwracasz, słyszysz cicho zamykające się drzwi."
+
+# game/day05.rpy:1390
+translate polish day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Ciekawe kto to był... Nie mam zamiaru przepraszać, ani nic, w końcu to mój pokój.)"
+
+# game/day05.rpy:1396
+translate polish day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Tak, pokaż mi co tam masz...)"
+
+# game/day05.rpy:1397
+translate polish day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(Co za piękność!)"
+
+# game/day05.rpy:1400
+translate polish day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaaah!!!)"
+
+# game/day05.rpy:1406
+translate polish day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Ja też dochodzę!)"
+
+# game/day05.rpy:1409
+translate polish day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaahaaaah!!!)"
+
+# game/day05.rpy:1413
+translate polish day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Lepiej już pójdę. Porozmawiam z nim rano.)"
+
+# game/day05.rpy:1417
+translate polish day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Myślę, że ten ktoś już sobie poszedł.)"
+
+# game/day05.rpy:1418
+translate polish day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(To było ekscytujące.)"
+
+# game/day05.rpy:1421
+translate polish day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Zaraz, chwila... Kto zrobił Anie te zdjęcia?!)"
+
+# game/day05.rpy:1424
+translate polish day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "{i}(Tak, zrób użytek z tych palców Jenna!)"
+
+# game/day05.rpy:1426
+translate polish day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "{i}(Właśnie tak dziewczyno!)"
+
+# game/day05.rpy:1429
+translate polish day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaaah!!!)"
+
+# game/day05.rpy:1435
+translate polish day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Ja też dochodzę!)"
+
+# game/day05.rpy:1438
+translate polish day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaahaaaah!!!)"
+
+# game/day05.rpy:1442
+translate polish day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Lepiej już pójdę. Porozmawiam z nim rano.)"
+
+# game/day05.rpy:1446
+translate polish day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Myślę, że ten ktoś już sobie poszedł.)"
+
+# game/day05.rpy:1447
+translate polish day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(To było ekscytujące.)"
 

@@ -74,7 +74,7 @@ translate polish day14_choices_30567a3e:
 translate polish day14_choices_c4a10fed:
 
     # p "I did. And I already bought us tickets for our holiday!"
-    p ""
+    p "Tak i już kupiłem bilety na nasze wakacje!"
 
 # game/day14.rpy:53
 translate polish day14_choices_968feb62:
@@ -224,7 +224,7 @@ translate polish day14_choices_6edfc2b4:
 translate polish day14_choices_64795be5:
 
     # "{i}The girls talk a lot more about their plans for the holiday on Belugio. [l_name] even wants to start packing already. A holiday, it seems, is just what they need right now."
-    ""
+    "{i}Dziewczyny dużo więcej rozmawiają o swoich planach na wakacje w Belugio [l_name] chce nawet już zacząć się pakować Wakacje wydają się być tym, czego teraz potrzebują."
 
 # game/day14.rpy:92
 translate polish day14_choices_50364e5f:
@@ -2024,7 +2024,7 @@ translate polish day14_h_post_679e517a:
 translate polish day14_h_post_cd89a18e:
 
     # "{i}[m_name] undresses and lowers herself onto Adriana's face."
-    ""
+    "{i}[m_name] rozbiera się i opuszcza na twarz Adriany"
 
 # game/day14.rpy:517
 translate polish day14_h_post_34ef5289:
@@ -2048,7 +2048,7 @@ translate polish day14_h_post_7a3d4edc:
 translate polish day14_h_post_edf58581:
 
     # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
-    ""
+    "{i}Język Adriany wysuwa się z jej ust i ostrożnie liże wargi cipki [m_name]."
 
 # game/day14.rpy:524
 translate polish day14_h_post_b5bfeb5c:
@@ -2090,7 +2090,7 @@ translate polish day14_h_post_ba0fa4bb:
 translate polish day14_h_post_f6020670:
 
     # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
-    ""
+    "{i}Twój kutas jest w pełni wyprostowany, gdy głowa Adriany kołysze się w górę iw dół, a jej język wsuwa się i wysuwa z pochwy [m_name]."
 
 # game/day14.rpy:534
 translate polish day14_h_post_b8fbbb08:
@@ -2192,7 +2192,7 @@ translate polish day14_h_post_7c796bfc:
 translate polish day14_h_post_f4c12e75:
 
     # "{i}[m_name] undresses and lowers herself onto your face."
-    ""
+    "{i}[m_name] rozbiera się i opuszcza na twoją twarz"
 
 # game/day14.rpy:560
 translate polish day14_h_post_864f6070:
@@ -2222,7 +2222,7 @@ translate polish day14_h_post_81f58e43:
 translate polish day14_h_post_cd7c1d9c:
 
     # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
-    ""
+    "{i}Twój język wysuwa się z ust i ostrożnie liżesz wargi cipki [m_name] Jest mokra i smakuje słono."
 
 # game/day14.rpy:568
 translate polish day14_h_post_b5bfeb5c_1:
@@ -2264,7 +2264,7 @@ translate polish day14_h_post_674d8f15:
 translate polish day14_h_post_823d5930:
 
     # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
-    ""
+    "{i}Twój kutas jest w pełni wyprostowany, gdy twój język wsuwa się i wysuwa z pochwy [m_name]."
 
 # game/day14.rpy:578
 translate polish day14_h_post_3c2ee3ac:
@@ -3074,7 +3074,7 @@ translate polish day14_evening_choices_32cbc436:
 translate polish day14_evening_choices_4a0fb993:
 
     # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
-    ""
+    "{i}Twoje ręce przesuwają koszulkę jeszcze bardziej w górę, odsłaniając piersi [b_name] Jej sutki są twarde jak skała."
 
 # game/day14.rpy:791
 translate polish day14_evening_choices_42c4c73b:
@@ -3128,7 +3128,7 @@ translate polish day14_evening_choices_1e36103c:
 translate polish day14_evening_choices_b5fefac5:
 
     # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
-    ""
+    "{i}Przyciskasz palce do jej majtek i czujesz jej wilgotne wargi sromowe przez materiał."
 
 # game/day14.rpy:803
 translate polish day14_evening_choices_0c6e4a69:
@@ -3164,7 +3164,7 @@ translate polish day14_evening_choices_f8fc32d2:
 translate polish day14_evening_choices_fc252e50:
 
     # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm she pushes your hand against her sex as if encouraging you to go deeper."
-    ""
+    "{i}Wsuwasz w nią palec i stymulujesz jej łechtaczkę [b_name] na początku ciągnie cię za rękę, ale kiedy ustalasz stały rytm, przyciska twoją dłoń do swojego seksu, jakby zachęcając cię do wejścia głębiej."
 
 # game/day14.rpy:812
 translate polish day14_evening_choices_9af8d955:
@@ -3194,7 +3194,7 @@ translate polish day14_evening_choices_38f3d3ac:
 translate polish day14_evening_choices_69dda53e:
 
     # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by an awaking [l_name] or [m_name] clearly arouses you both."
-    ""
+    "{i}[b_name] z trudem tłumi swoje jęki Ryzyko przyłapania przez obudzonego [l_name] lub [m_name] wyraźnie podnieca was oboje."
 
 # game/day14.rpy:819
 translate polish day14_evening_choices_adf95290:
@@ -3218,7 +3218,7 @@ translate polish day14_evening_choices_64651b3a:
 translate polish day14_evening_choices_966c2da6:
 
     # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
-    ""
+    "{i}Z twoim palcem wciąż w jej cipce [b_name] przeżywa potężny orgazm, który niemal wstrząsa całą kanapą Drżąc, zaciska dłoń na twojej dłoni i nie przestaje miażdżyć nią swojej łechtaczki."
 
 # game/day14.rpy:827
 translate polish day14_evening_choices_2cb7ef8a:
@@ -3566,13 +3566,13 @@ translate polish day14_evening_choices_cdf5eb38:
 translate polish day14_evening_choices_04dd4df8:
 
     # p "My my, a kiss, dear [b_name]!"
-    p ""
+    p "Mój drogi pocałunek [b_name]!"
 
 # game/day14.rpy:902
 translate polish day14_evening_choices_cdf5eb38_1:
 
     # b "A well deserved one! I..."
-    b ""
+    b "Zasłużony! Wiesz..."
 
 # game/day14.rpy:903
 translate polish day14_evening_choices_181d589c_3:
@@ -3596,7 +3596,7 @@ translate polish day14_evening_choices_f03a173d:
 translate polish day14_evening_choices_08413b0e:
 
     # b "You only missed three quarters of the movie. [p_name] and I will get you up to speed."
-    b ""
+    b "Przegapiłeś tylko trzy czwarte filmu [p_name], a ja doprowadzę cię do porządku."
 
 # game/day14.rpy:910
 translate polish day14_evening_choices_e8e463b9:
@@ -3752,7 +3752,7 @@ translate polish day14_evening_choices_0c29fcd2:
 translate polish day14_evening_choices_9739d1fa:
 
     # p "They're just my friends, James."
-    p ""
+    p "To tylko moi przyjaciele, James."
 
 # game/day14.rpy:949
 translate polish day14_evening_choices_cdca2cd7:
@@ -3896,7 +3896,7 @@ translate polish day14_evening_choices_0c29fcd2_1:
 translate polish day14_evening_choices_9739d1fa_1:
 
     # p "They're just my friends, James."
-    p ""
+    p "To tylko moi przyjaciele, James."
 
 # game/day14.rpy:979
 translate polish day14_evening_choices_cdca2cd7_1:
@@ -4064,7 +4064,7 @@ translate polish day14_evening_choices_0c29fcd2_2:
 translate polish day14_evening_choices_9739d1fa_2:
 
     # p "They're just my friends, James."
-    p ""
+    p "To tylko moi przyjaciele, James."
 
 # game/day14.rpy:1011
 translate polish day14_evening_choices_cdca2cd7_2:
@@ -4112,7 +4112,7 @@ translate polish day14_evening_choices_d43e8a6d:
 translate polish day14_evening_choices_a45b3070:
 
     # b "I fucking came in the presence of [m_name] and [l_name], you sick fuck!"
-    b ""
+    b "Kurwa, doszedłem w obecności [m_name] i [l_name] ty chory pojebie!"
 
 # game/day14.rpy:1026
 translate polish day14_evening_choices_d73c61fd:
@@ -4172,7 +4172,7 @@ translate polish day14_evening_choices_f0d82da9:
 translate polish day14_evening_choices_27a30ea4:
 
     # p "Loud and clear, [b_name]."
-    p ""
+    p "Głośno i wyraźnie [b_nazwa]"
 
 # game/day14.rpy:1040
 translate polish day14_evening_choices_06bce977:
@@ -4250,13 +4250,13 @@ translate polish day14_evening_choices_98e3fe62:
 translate polish day14_evening_choices_81393759:
 
     # r "{i}(But being together felt so good, so natural. How can Mrs. Steel say [p_name]'s adoption into our circle of friends is too quick, too forced?)"
-    r ""
+    r "{i}(Ale bycie razem było tak dobre, tak naturalne) Jak pani Steel może powiedzieć, że przyjęcie [p_name] do naszego kręgu przyjaciół jest zbyt szybkie, zbyt wymuszone?"
 
 # game/day14.rpy:1062
 translate polish day14_evening_choices_af05b731:
 
     # r "{i}(Ties of friendship can be that strong and our bond is even stronger. Why can't Mrs. Steel see that?)"
-    r ""
+    r "{i}(Więzy przyjaźni mogą być tak silne, a nasza więź jest jeszcze silniejsza, dlaczego pani Steel tego nie widzi?)"
 
 # game/day14.rpy:1065
 translate polish day14_evening_choices_49278f8a:
@@ -4398,433 +4398,1613 @@ translate polish strings:
     old "Of course"
     new "Oczywiście"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
 # game/day14.rpy:21
 translate polish day14_3cfdacc3:
 
     # "{i}After fucking Ana, you're so exhausted that you sleep until late in the morning."
-    "{i}Po pieprzeniu Any jesteś tak wyczerpany, że śpisz do późnego rana."
+    "{i}Po wyruchaniu Any jesteś tak wyczerpany, że budzisz się dopiero późnym rankiem."
 
-# game/day14.rpy:34
+# game/day14.rpy:35
 translate polish day14_25a562b5:
 
     # "{i}After browsing for a bit, you see a nice deal for a holiday on a small tropical island."
-    "{i}Po dłuższym przeglądaniu widzisz fajną ofertę na wakacje na małej tropikalnej wyspie"
+    "{i}Po krótkich poszukiwaniach znajdujesz okazyjną ofertę wakacji na małej tropikalnej wyspie."
 
-# game/day14.rpy:62
+# game/day14.rpy:66
 translate polish day14_choices_3a2b9729:
 
     # b "We're not at war with Belugio, are we?"
-    b "Nie jesteśmy w stanie wojny z Belugio, prawda?"
+    b "Chyba nie jesteśmy w stanie wojny z Belugio, co?"
 
-# game/day14.rpy:148
+# game/day14.rpy:152
 translate polish day14_choices_e057350d:
 
     # p "If we're going to do this, we'll do it on your terms. Whatever makes you feel most relaxed."
-    p "Jeśli mamy to zrobić, zrobimy to na Twoich warunkach To, co sprawia, że czujesz się najbardziej zrelaksowany"
+    p "Jeśli to zrobimy, to wyłącznie na Twoich warunkach. Z czymkolwiek będziesz się czuła najbardziej komfortowo."
 
-# game/day14.rpy:170
+# game/day14.rpy:176
 translate polish day14_choices_85de34a6:
 
     # p "As I said on the phone, things are not looking good for Dwayne at the moment. I can't go into specifics, but it's fair to say that he won't be accepted in our program if things don't improve."
-    p "Jak powiedziałem przez telefon sprawy nie wyglądają dobrze dla Dwayne'a w tej chwili nie mogę zagłębić się w szczegóły, ale można powiedzieć, że nie zostanie przyjęty do naszego programu, jeśli sprawy się nie poprawią"
+    p "Jak powiedziałem przez telefon, nie wygląda to najlepiej dla Dwayne'a. Nie mogę zdradzać żadnych szczegółów, ale muszę przyznać, że jeśli nic się nie zmieni, to Dwayne nie zakwalifikuje się do programu."
 
-# game/day14.rpy:200
+# game/day14.rpy:206
 translate polish day14_choices_ca338a8a:
 
     # p "To assess a person's psychological fitness, it's often good to see that person's personal surroundings. Could I by any chance have a look at his room?"
-    p "Aby ocenić sprawność psychiczną osoby, często dobrze jest zobaczyć osobiste otoczenie tej osoby Czy mógłbym przypadkiem zajrzeć do jego pokoju?"
+    p "Aby ocenić stan psychiczny danej osoby, zazwyczaj dobrze przyjrzeć się jej otoczeniu. Może mógłbym obejrzeć pokój Dwayne'a?"
 
-# game/day14.rpy:224
+# game/day14.rpy:231
 translate polish day14_choices_32c69bdb:
 
     # "{i}As you take the magazines out of the box, a stack of paper falls to the floor."
-    "{i}Podczas wyjmowania magazynów z pudełka stos papierów spada na podłogę."
+    "{i}Gdy wyjmujesz magazyny z pudełka, wypadają z nich na podłogę jakieś papiery."
 
-# game/day14.rpy:250
+# game/day14.rpy:257
 translate polish day14_choices_9a46c28e:
 
     # p "Okay. But bear in mind that I'm only offering you this chance because your love for your son is so inspiring. A word on this to anyone, and there will be hell to pay for me, but also for your family."
-    p "Dobrze, ale pamiętaj, że daję ci tę szansę tylko dlatego, że twoja miłość do syna jest tak inspirująca Słowo o tym komukolwiek, a będzie piekło dla mnie, ale także dla twojej rodziny"
+    p "No dobrze. Ale pamiętaj, że oferuję Ci to tylko dlatego, że inspiruje mnie Twoja miłość do syna. Jeśli ktokolwiek się o tym dowie, to może spowodować straszne problemy, zarówno dla mnie, jak i dla Twojej rodziny."
 
-# game/day14.rpy:324
-translate polish day14_hazel_fuck_c9310ac3:
+# game/day14.rpy:264
+translate polish day14_choices_d8a6ddcd:
 
-    # "{i}Your dick pumps thick streams of semen inside her rectum, and you continue to thrust your cock in her ass until every last drop is inside her."
-    "{i}Twój kutas pompuje grube strumienie nasienia wewnątrz jej odbytu i kontynuujesz wciskanie swojego kutasa w jej tyłek, aż każda ostatnia kropla znajdzie się w jej wnętrzu."
+    # p "I'm glad to hear that."
+    p "Miło mi to słyszeć."
 
-# game/day14.rpy:339
-translate polish day14_hazel_fuck_12257654:
+# game/day14.rpy:265
+translate polish day14_choices_94cbdeab:
 
-    # h "*Slurp* Aaaah! Yes, [p_name], it feels so big in my mouth."
-    h "*Slurp* Aaaah! Tak [p_name] czuje się tak duży w moich ustach"
+    # h "Do you need to go?"
+    h "Musisz już iść?"
 
-# game/day14.rpy:341
-translate polish day14_hazel_fuck_1f19ea95:
+# game/day14.rpy:266
+translate polish day14_choices_0d51abe5:
 
-    # p "Aaah! Good, you're a natural, Hazel."
-    p "Aaah! Dobrze, że jesteś naturalnym Hazel"
+    # p "{i}(God, that woman is insatiable. Fine with me.)"
+    p "{i}(Boże, ta kobieta jest nienasycona. Ale dobra, mi to nie przeszkadza.)"
 
-# game/day14.rpy:343
-translate polish day14_hazel_fuck_9b2bbf2f:
+# game/day14.rpy:267
+translate polish day14_choices_b15b03f1:
 
-    # "{i}After Hazel bends over your cock you grab her arms and start to guide her to your orgasm. Your dick makes wet noises in her throat, and she has to pull back to catch her breath. Streams of saliva cling to her mouth and your dick."
-    "{i}Po Hazel zgina się nad twoim kogutem chwytasz ją za ramiona i zaczynasz prowadzić ją do swojego orgazmu Twój kutas wydaje mokre dźwięki w jej gardle, a ona musi się wycofać, żeby złapać oddech Strumienie śliny przylegają do jej ust i twojego kutasa."
+    # p "I have some time left..."
+    p "Mam jeszcze trochę czasu..."
 
-# game/day14.rpy:349
-translate polish day14_hazel_fuck_e7a9aefd:
+# game/day14.rpy:268
+translate polish day14_choices_1a2122c1:
 
-    # "{i}Your dick pumps thick streams of semen into her mouth, and you continue to hilt your cock in her throat until every last drop is inside her."
-    "{i}Twój kutas pompuje grube strumienie nasienia do jej ust i kontynuujesz przechylanie swojego kutasa w jej gardle, aż każda ostatnia kropla będzie w niej."
+    # h "Good, I want to feel you inside me again."
+    h "Dobrze, chcę Cię znowu w sobie poczuć."
 
-# game/day14.rpy:371
+# game/day14.rpy:269
+translate polish day14_choices_b28d880a:
+
+    # p "That can be arranged."
+    p "To da się załatwić."
+
+# game/day14.rpy:274
 translate polish day14_h_post_0cd3692f:
 
     # p "You'll be hearing from us in a few days. After you've been so cooperative, I'm confident I can do something positive for your Dwayne."
-    p "Odezwiesz się do nas w ciągu kilku dni Po tym, jak byłeś tak chętny do współpracy, jestem przekonany, że mogę zrobić coś pozytywnego dla twojego Dwayne'a"
+    p "Odezwiemy się do Ciebie za kilka dni. Biorąc pod uwagę jak chętnie współpracowałaś, jestem pewny, że uda mi się coś zrobić dla Dwayne'a."
 
-# game/day14.rpy:390
+# game/day14.rpy:297
 translate polish day14_h_post_e27ddc71:
 
     # "{i}When you arrive in the lobby of Discreet Inc., the receptionist processes your payment."
-    "{i}Po przybyciu do lobby Discreet Inc recepcjonista przetwarza Twoją płatność."
+    "{i}Trafiasz do lobby Discreet, recepcjonistka przyjmuje Twoją opłatę."
 
-# game/day14.rpy:422
-translate polish day14_h_post_20f12902:
-
-    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
-    m "Tak, to całkiem niezła para, prawda? Założę się, że chciałbyś się z nimi pieprzyć"
-
-# game/day14.rpy:426
-translate polish day14_h_post_d84fbc6a:
-
-    # p "Yes, mistress, I would very much."
-    p "Tak pani, bardzo bym chciał"
-
-# game/day14.rpy:432
-translate polish day14_h_post_c8c6eb0f:
-
-    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
-    p "{i}(Kiedy coś podziwiam, nie oznacza to automatycznie, że chcę to przelecieć Jeez)"
-
-# game/day14.rpy:438
-translate polish day14_h_post_17b91230:
-
-    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
-    m "Tak jej tyłek jest całkiem czymś miękkim i okrągłym założę się, że chciałbyś ją zerżnąć od tyłu"
-
-# game/day14.rpy:470
-translate polish day14_h_post_d36b20f6_1:
-
-    # p "No, mistress."
-    p "Nie ma kochanki"
-
-# game/day14.rpy:474
-translate polish day14_h_post_ce38f8d4:
-
-    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
-    "{i}Stoisz obok Adriany, która nadal nie może wiele powiedzieć z kneblem w ustach Mimo ciepła panującego w pomieszczeniu lekko drży"
-
-# game/day14.rpy:477
-translate polish day14_h_post_7153742f:
-
-    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
-    "{i}[m_name] podaje Ci dwa przedmioty Jesteś zaskoczony ich ciężarem"
-
-# game/day14.rpy:483
-translate polish day14_h_post_f9183d78:
-
-    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
-    "{i}Nagle słychać trzask bata i stłumiony jęk wymyka się Adrianie."
-
-# game/day14.rpy:490
-translate polish day14_h_post_5e132d44:
-
-    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
-    "{i}[m_name] znów rusza na Adrianę i kątem oka widzisz jak uderza w łydki recepcjonistki Coś pomiędzy krzykiem a jękiem wymyka się jej"
-
-# game/day14.rpy:507
-translate polish day14_h_post_fed026af:
-
-    # m "That is allowed. And as a bonus, I'll remove your gag."
-    m "To jest dozwolone I jako bonus usunę twój knebel"
-
-# game/day14.rpy:512
-translate polish day14_h_post_83ca7014:
-
-    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
-    m "Masz patrzeć chłopcze, jeśli zobaczę, że się dotykasz, będzie piekło"
-
-# game/day14.rpy:545
-translate polish day14_h_post_b7371781:
-
-    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
-    "{i}[m_name]'s whip is between Adriana's thighs and she struggles to keep on her toes as [m_name] lashes her pussy with short violent snapps"
-
-# game/day14.rpy:555
-translate polish day14_h_post_c2d5a788:
-
-    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
-    m "Jeśli zobaczę, że się dotykasz, to będzie piekło."
-
-# game/day14.rpy:587
-translate polish day14_h_post_c4bcf13d:
-
-    # m "I'd like to reward you for being such a good servant."
-    m "Chciałbym nagrodzić cię za to, że jesteś tak dobrym sługą"
-
-# game/day14.rpy:590
-translate polish day14_h_post_59fefa56:
-
-    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
-    m "Nasz chłopak wyraził swój podziw dla twojej cipki prawda Adriana?"
-
-# game/day14.rpy:595
-translate polish day14_h_post_b8df8615:
-
-    # m "Our boy praised your ass, didn't he, Adriana?"
-    m "Nasz chłopiec pochwalił twój tyłek prawda Adriana?"
-
-# game/day14.rpy:600
-translate polish day14_h_post_f4c88f4f:
-
-    # m "Our boy praised your breasts, didn't he, Adriana?"
-    m "Nasz chłopak pochwalił twoje piersi, czyż nie Adriana?."
-
-# game/day14.rpy:605
-translate polish day14_h_post_bb322cb6:
-
-    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
-    m "Ale skoro nasz chłopak twierdzi, że nic mu się w tobie nie podoba Adrianie to chyba nie możemy mu nic zaproponować"
-
-# game/day14.rpy:626
-translate polish day14_h_post_5150cad6:
-
-    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
-    "{i}Jej duże piersi odbijają się w rytmie twojego rżnięcia i czujesz się bardzo blisko orgazmu prawdopodobnie z powodu wszystkiego, co wydarzyło się wcześniej"
-
-# game/day14.rpy:628
-translate polish day14_h_post_1a6e0e7f:
-
-    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
-    "{i}Z rykiem wyrywasz się i chwytasz za jej głowę Adriana posłusznie otwiera usta by przyjąć twoje nasienie"
-
-# game/day14.rpy:635
-translate polish day14_h_post_15c41f02:
-
-    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
-    "{i}Kiedy dociskasz czubek swojego kutasa do odbytu Adriany, słyszysz jej sapanie."
-
-# game/day14.rpy:637
-translate polish day14_h_post_74327b4e:
-
-    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
-    "{i}To stwierdzenie pobudza Cię jeszcze bardziej i zaczynasz wpychać swojego kutasa do jej wnętrza Precum, które wyciekło z Twojego penisa wcześniej działa jak lubrykant, ale nadal jest ciasno"
-
-# game/day14.rpy:642
-translate polish day14_h_post_fb3d5f0e:
-
-    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
-    "{i}Powoli przesuwasz swojego kutasa w i z dupki recepcjonistki Oddech Adriany staje się płytki Ona prowadzi cię ręką, a ty penetrujesz ją coraz szybciej"
-
-# game/day14.rpy:644
-translate polish day14_h_post_791ee88c:
-
-    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
-    "{i}Jej duże piersi odbijają się z rytmem twojego pieprzenia Jej dupa jest ciasna i masuje twojego kutasa w sposób, którego nigdy wcześniej nie czułeś Czujesz się bardzo blisko orgazmu prawdopodobnie z powodu wszystkiego, co się wydarzyło wcześniej"
-
-# game/day14.rpy:646
-translate polish day14_h_post_291215d7:
-
-    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
-    "{i}Z rykiem wysuwasz się z jej tyłka i chwytasz za głowę Adriana posłusznie otwiera usta by przyjąć twoje nasienie."
-
-# game/day14.rpy:651
-translate polish day14_h_post_0b462255_4:
-
-    # p "Yes, mistress."
-    p "Tak pani."
-
-# game/day14.rpy:659
-translate polish day14_h_post_fda9f7d4:
-
-    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
-    "{i}Za każdym razem, gdy twój kutas dociera do jej twarzy Adriana liże czubek językiem Ona również stosuje większą presję, dociskając swoje piersi mocniej do siebie To wysyła cię prawie nad krawędź."
-
-# game/day14.rpy:661
-translate polish day14_h_post_95a81a0e:
-
-    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
-    "{i}Z rykiem wbijasz kutasa po raz ostatni między jej cycki i celujesz w jej twarz Adriana posłusznie otwiera usta by przyjąć twoje nasienie."
-
-# game/day14.rpy:697
+# game/day14.rpy:325
 translate polish day14_discreet_post_53757ad7:
 
     # ad "She's always very distant and rarely allows someone as close as you've been."
-    ad "Ona zawsze jest bardzo zdystansowana i rzadko pozwala komuś na taką bliskość jak ty"
+    ad "Zawsze jest bardzo zdystansowana i rzadko pozwala komuś być tak blisko jak ty"
 
-# game/day14.rpy:748
+# game/day14.rpy:378
 translate polish day14_evening_choices_021aa11d:
 
     # "{i}Instead of watching the sickly sweet romantic movie, you undress [b_name] with your eyes. She doesn't seem to notice."
-    "{i}Zamiast oglądać chorobliwie słodki romantyczny film rozbierasz [b_name] wzrokiem Ona zdaje się tego nie zauważać"
+    "{i}Nie oglądasz tego przesłodzonego romansidła, zamiast tego kontynuujesz rozbieranie Belli wzrokiem. Zdaje się tego nie zauważać."
 
-# game/day14.rpy:750
+# game/day14.rpy:380
 translate polish day14_evening_choices_089e26ef:
 
     # "{i}After a while, you hear [l_name]'s heavy breathing next to you. She's fallen asleep after lying down on the sofa."
-    "{i}Po chwili słyszysz obok siebie ciężki oddech [l_name] Ona zasnęła po położeniu się na kanapie."
+    "{i}Po pewnym czasie słyszysz głębokie, regularne oddechy Lizy. Zauważasz, że położyła się na sofie i zasnęła."
 
-# game/day14.rpy:752
+# game/day14.rpy:382
 translate polish day14_evening_choices_a03d0505:
 
     # "{i}Half an hour later, you hear the same heavy breathing from the other direction. [m_name] seems to be sleeping as well."
-    "{i}Pół godziny później słychać ten sam ciężki oddech z drugiego kierunku [m_name] wydaje się, że też śpi."
+    "{i}Pół godziny później słyszysz podobne oddychanie z drugiej strony. Wygląda na to, że mama też zasnęła."
 
-# game/day14.rpy:755
+# game/day14.rpy:385
 translate polish day14_evening_choices_4b4c1f57:
 
     # "{i}You inch closer to [b_name], who doesn't notice until you're right next to her."
-    "{i}Zbliżasz się do [b_name], która nie zauważa, że jesteś tuż obok niej."
+    "{i}Przysuwasz się powoli do Belli, nie zauważa tego dopóki nie znajdujesz się tuż przy niej."
 
-# game/day14.rpy:809
-translate polish day14_evening_choices_04b53f47:
-
-    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
-    "{i}Wsuwasz palec do jej wnętrza i stymulujesz jej łechtaczkę [b_name] ciągnie za rękę na początku, ale jak ustalasz stały rytm, twoja siostra przyciska twoją rękę do jej płci, jakby zachęcając cię do wejścia głębiej"
-
-# game/day14.rpy:811
-translate polish day14_evening_choices_cec13b39:
-
-    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
-    "{i}Wsuwasz palec do jej wnętrza i stymulujesz jej łechtaczkę [b_name] ciągnie za rękę na początku, ale jak ustalisz stały rytm, przyciska twoją rękę do swojej płci, jakby zachęcając cię do wejścia głębiej"
-
-# game/day14.rpy:818
-translate polish day14_evening_choices_b42a7a23:
-
-    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by a waking [l_name] or [m_name] clearly arouses you both."
-    "{i}[b_name] z trudem tłumi swoje jęki Ryzyko przyłapania przez budzącego się [l_name] lub [m_name] wyraźnie pobudza was oboje"
-
-# game/day14.rpy:819
-translate polish day14_evening_choices_e727e64f:
-
-    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
-    "{i}Sądząc po jej szybkich oddechach i nacisku, jaki jej ręka wywiera na twoją [b_name] jest bliska orgazmu."
-
-# game/day14.rpy:827
-translate polish day14_evening_choices_7095ffd6:
-
-    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
-    "{i}Po chwili jej stłumione jęki i westchnienia rozwiewają się Cicho podciąga majtki i zasłania piersi, ale nie podejmuje próby oddalenia się od ciebie."
-
-# game/day14.rpy:860
-translate polish day14_evening_choices_089e26ef_1:
-
-    # "{i}After a while, you hear [l_name]'s heavy breathing next to you. She's fallen asleep after lying down on the sofa."
-    "{i}Po chwili słyszysz obok siebie ciężki oddech [l_name] Ona zasnęła po położeniu się na kanapie."
-
-# game/day14.rpy:863
-translate polish day14_evening_choices_a55f01f5:
-
-    # "{i}Half an hour later, [b_name] touches your arm."
-    "{i}Pół godziny później [b_name] dotyka twojego ramienia."
-
-# game/day14.rpy:875
-translate polish day14_evening_choices_aad1e097:
-
-    # p "[b_name]? I hope this doesn't weird you out, but you smell amazing."
-    p "[b_name]? Mam nadzieję, że to cię nie zdziwi, ale pachniesz niesamowicie"
-
-# game/day14.rpy:920
-translate polish day14_evening_choices_b2e7eaef:
-
-    # "{i}The film you end up watching is rather boring, and [l_name] even falls asleep. Before the credits roll, you all retire to your rooms."
-    "{i}Film, który w końcu oglądacie jest raczej nudny i [l_name] nawet zasypia Przed napisami końcowymi wszyscy udajecie się do swoich pokoi"
-
-# game/day14.rpy:938
-translate polish day14_evening_choices_6e6a36b2:
-
-    # j "When I gave her the bad news about Dwayne, she became all touchy and stuff. So I proposed a special deal, and she took it, like in an instant."
-    "Kiedy przekazałem jej złe wieści o Dwayne'ie, stała się drażliwa i w ogóle, więc zaproponowałem specjalny układ, a ona przyjęła go jak w jednej chwili."
-
-# game/day14.rpy:1020
-translate polish day14_evening_choices_11adb8ab:
-
-    # b "I've fucking had it, [p_name]. You crossed the fucking line this time."
-    b "Mam to kurwa w dupie [p_name] Tym razem przekroczyłeś granicę"
-
-# game/day14.rpy:1070
-translate polish day14_evening_choices_a26c1823:
-
-    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
-    "{i}(Było tego tak dużo i wcale nie smakowało obrzydliwie, jak to się mówi we wszystkich magazynach Trochę dziwne może...)"# TODO: Translation updated at 2023-07-06 13:24
-
-# game/day14.rpy:426
-translate polish day14_h_post_1ae6a054:
-
-    # p "Yes, mistress. I would very much."
-    p "Tak pani, bardzo bym chciał."
-
-# game/day14.rpy:442
-translate polish day14_h_post_1ae6a054_1:
-
-    # p "Yes, mistress. I would very much."
-    p "Tak pani, bardzo bym chciał."
-
-# game/day14.rpy:448
-translate polish day14_h_post_c8c6eb0f_1:
-
-    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
-    p "{i}(Kiedy coś podziwiam, nie oznacza to automatycznie, że chcę to pieprzyć... Jeez...)"
-
-# game/day14.rpy:458
-translate polish day14_h_post_1ae6a054_2:
-
-    # p "Yes, mistress. I would very much."
-    p "Tak pani, bardzo bym chciał."
-
-# game/day14.rpy:462
-translate polish day14_h_post_d36b20f6_2:
-
-    # p "No, mistress."
-    p "Bez kochanki."
-
-# game/day14.rpy:464
-translate polish day14_h_post_c8c6eb0f_2:
-
-    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
-    p "{i}(Kiedy coś podziwiam, nie oznacza to automatycznie, że chcę to pieprzyć... Jeez...)"
-
-# game/day14.rpy:470
-translate polish day14_h_post_d36b20f6_3:
-
-    # p "No, mistress."
-    p "Bez kochanki."
-
-# game/day14.rpy:545
-translate polish day14_h_post_b7371781_1:
-
-    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
-    "{i}Pejcz [m_name] znajduje się między udami Adriany, a ona z trudem utrzymuje się na nogach, gdy [m_name] biczuje jej cipkę krótkimi, gwałtownymi uderzeniami."
-
-# game/day14.rpy:816
-translate polish day14_evening_choices_e2a1d183:
-
-    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
-    "{i}[b_name] z trudem tłumi jęki Ryzyko przyłapania przez obudzenie matki lub siostry wyraźnie podnieca was oboje."
-
-# game/day14.rpy:818
-translate polish day14_evening_choices_29eded4e:
-
-    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
-    "{i}[b_name] z trudem tłumi jęki Ryzyko przyłapania przez obudzenie [l_name] lub [m_name] wyraźnie podnieca was oboje."
-
-# game/day14.rpy:858
+# game/day14.rpy:433
 translate polish day14_evening_choices_fd06fdaa:
 
     # "{i}The film you end up watching is rather boring and you have a hard time concentrating. Instead, you steal glances at [b_name], who doesn't seem to notice."
     "{i}Film, który ostatecznie oglądasz, jest raczej nudny i trudno ci się skoncentrować, zamiast tego rzucasz spojrzenia na [b_name], który wydaje się tego nie zauważać."
->>>>>>> polish
+
+# game/day14.rpy:435
+translate polish day14_evening_choices_089e26ef_1:
+
+    # "{i}After a while, you hear [l_name]'s heavy breathing next to you. She's fallen asleep after lying down on the sofa."
+    "{i}Po pewnym czasie słyszysz głębokie, regularne oddechy Lizy. Zauważasz, że położyła się na sofie i zasnęła."
+
+# game/day14.rpy:438
+translate polish day14_evening_choices_a55f01f5:
+
+    # "{i}Half an hour later, [b_name] touches your arm."
+    "{i}Pół godziny później Bella szturcha Cię w ramię."
+
+# game/day14.rpy:450
+translate polish day14_evening_choices_aad1e097:
+
+    # p "[b_name]? I hope this doesn't weird you out, but you smell amazing."
+    p "Bella? Mam nadzieję, że to nie zabrzmi dziwnie, ale niesamowicie pachniesz."
+
+# game/day14.rpy:495
+translate polish day14_evening_choices_b2e7eaef:
+
+    # "{i}The film you end up watching is rather boring, and [l_name] even falls asleep. Before the credits roll, you all retire to your rooms."
+    "{i}Film, który oglądacie jest raczej nudny i nawet Liza przysypia. Jeszcze przed napisami końcowymi wszyscy rozchodzicie się do swoich pokoi."
+
+# game/day14.rpy:513
+translate polish day14_evening_choices_6e6a36b2:
+
+    # j "When I gave her the bad news about Dwayne, she became all touchy and stuff. So I proposed a special deal, and she took it, like in an instant."
+    j "Kiedy przekazałem jej złe wieści na tematu Dwayne'a zaczęła się do mnie naprawdę kleić. Więc złożyłem jej pewną propozycję, zgodziła się bez wahania."
+
+# game/day14.rpy:596
+translate polish day14_evening_choices_11adb8ab:
+
+    # b "I've fucking had it, [p_name]. You crossed the fucking line this time."
+    b "Tego już kurwa za wiele [p_name]. Tym razem posunąłeś się za daleko."
+
+# game/day14.rpy:749
+translate polish day14_hazel_fuck_c9310ac3:
+
+    # "{i}Your dick pumps thick streams of semen inside her rectum, and you continue to thrust your cock in her ass until every last drop is inside her."
+    "{i}Twój penis wpompowuje gęste strumienie spermy do jej odbytu, nie przestajesz jej posuwać dopóki nie ląduje w niej ostatnia kropla Twojego nasienia."
+
+# game/day14.rpy:778
+translate polish day14_hazel_fuck_12257654:
+
+    # h "*Slurp* Aaaah! Yes, [p_name], it feels so big in my mouth."
+    h "*Siorbie* Aaah! Tak [p_name], jest taki wielki, prawie nie mieści mi się w ustach."
+
+# game/day14.rpy:780
+translate polish day14_hazel_fuck_1f19ea95:
+
+    # p "Aaah! Good, you're a natural, Hazel."
+    p "Aaah! Dobrze, masz naturalny talent Hazel."
+
+# game/day14.rpy:786
+translate polish day14_hazel_fuck_9b2bbf2f:
+
+    # "{i}After Hazel bends over your cock you grab her arms and start to guide her to your orgasm. Your dick makes wet noises in her throat, and she has to pull back to catch her breath. Streams of saliva cling to her mouth and your dick."
+    "{i}Potem Hazel nachyla się nad Twoim penisem, chwytasz jej ręce przygotowując się na nadchodzący orgazm. Twój fiut wydaje mokre odgłosy w jej gardle, Hazel musi się wycofać, żeby złapać oddech. Strumień śliny ciągnie się między jej ustami, a Twoim penisem."
+
+# game/day14.rpy:795
+translate polish day14_hazel_fuck_e7a9aefd:
+
+    # "{i}Your dick pumps thick streams of semen into her mouth, and you continue to hilt your cock in her throat until every last drop is inside her."
+    "{i}Twój penis wpompowuje gęste strumienie spermy do jej gardła, nie przestajesz dociskać do siebie jej głowy, dopóki nie ląduje w niej ostatnia kropla Twojego nasienia."
+
+# game/day14.rpy:827
+translate polish day14_discreet_session_c4245165:
+
+    # p "{i}(I'm not sure if I'll ever get used to seeing [m_name] like this.)"
+    p "{i}(Nie wiem czy kiedykolwiek przyzwyczaję się do obserwowania Susan w tej roli.)"
+
+# game/day14.rpy:828
+translate polish day14_discreet_session_46e5949d:
+
+    # m "Are you ready to continue, Mr. Holmes?"
+    m "Gotowy na ciąg dalszy, panie Holmes?"
+
+# game/day14.rpy:829
+translate polish day14_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:830
+translate polish day14_discreet_session_4c8b2fa1:
+
+    # m "Good, you didn't forget how to address me."
+    m "Dobrze, nie zapomniałeś jak masz mnie tytułować."
+
+# game/day14.rpy:832
+translate polish day14_discreet_session_9d9a6ef4:
+
+    # m "Today we'll open one of the doors and see what's behind them."
+    m "Dziś otworzymy jedne z tych drzwi i przekonasz się, co za nimi jest."
+
+# game/day14.rpy:833
+translate polish day14_discreet_session_044b7890:
+
+    # m "Undress yourself."
+    m "Rozbierz się."
+
+# game/day14.rpy:834
+translate polish day14_discreet_session_44fd583a:
+
+    # "{i}You quietly remove your clothes while [m_name] gazes at you."
+    "{i}Rozbierasz się w ciszy, Susan cały czas uważnie Cię obserwuje."
+
+# game/day14.rpy:835
+translate polish day14_discreet_session_65725451:
+
+    # m "{i}(I almost forgot how good he looked.)"
+    m "{i}(Już prawie zapomniałam jak dobrze wygląda.)"
+
+# game/day14.rpy:836
+translate polish day14_discreet_session_1f37fe43:
+
+    # m "You may open the first door to your left."
+    m "Możesz otworzyć pierwsze drzwi na lewo."
+
+# game/day14.rpy:838
+translate polish day14_discreet_session_2da66ab0:
+
+    # p "{i}(Damn! Is that the receptionist?)"
+    p "{i}(Cholera! To ta recepcjonistka?)"
+
+# game/day14.rpy:839
+translate polish day14_discreet_session_e6885bc2:
+
+    # m "Before you, you see another of my slaves. I think you've met her. Would you like to know her name?"
+    m "Masz przed sobą jedną z moich sług. Myślę, że już ją spotkałeś. Chciałbyś się dowiedzieć jak ma na imię?"
+
+# game/day14.rpy:840
+translate polish day14_discreet_session_e8d6f445:
+
+    # p "Yes mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:842
+translate polish day14_discreet_session_e711782e:
+
+    # m "I'm afraid she can't tell her yourself, but her name is Adriana."
+    m "Niestety nie może sama Ci się przedstawić, ma na imię Adriana."
+
+# game/day14.rpy:843
+translate polish day14_discreet_session_aaeed54b:
+
+    # m "Adriana, this is Mr. Holmes."
+    m "Adriana, to jest pan Holmes."
+
+# game/day14.rpy:844
+translate polish day14_discreet_session_3870e3e0:
+
+    # "{i}The receptionist mumbles something from behind her ball gag and struggles with her bonds."
+    "{i}Recepcjonistka mamrocze coś zza knebla i wierci spętanymi kończynami."
+
+# game/day14.rpy:845
+translate polish day14_discreet_session_d06d977a:
+
+    # m "Are those restraints too tight, Adriana?"
+    m "Więzy są dla Ciebie za ciasne, Adriana?"
+
+# game/day14.rpy:846
+translate polish day14_discreet_session_5e09bd5c:
+
+    # m "She's nodding her head. I guess she's fine. Do you like what you see, boy?"
+    m "Kiwa głową, czyli chyba wszystko w porządku. Podoba Ci się to co tu widzisz chłopcze?"
+
+# game/day14.rpy:847
+translate polish day14_discreet_session_e8d6f445_1:
+
+    # p "Yes mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:848
+translate polish day14_discreet_session_a8ef698e:
+
+    # m "What do you like specifically? Tell me."
+    m "Co konkretnie Ci się podoba? Powiedz mi."
+
+# game/day14.rpy:853
+translate polish day14_discreet_session_ab350f2c:
+
+    # p "Her breasts, mistress."
+    p "Jej piersi, Pani."
+
+# game/day14.rpy:855
+translate polish day14_discreet_session_20f12902:
+
+    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
+    m "Tak, to niezła para, prawda? Założę się, że chciałbyś się z nimi pieprzyć."
+
+# game/day14.rpy:859
+translate polish day14_discreet_session_1ae6a054:
+
+    # p "Yes, mistress. I would very much."
+    p "Tak, Pani. Bardzo tego chcę."
+
+# game/day14.rpy:860
+translate polish day14_discreet_session_5d7144d2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Może Ci się poszczęści, jeśli będziesz grzecznym chłopcem."
+
+# game/day14.rpy:863
+translate polish day14_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Nie, moja Pani."
+
+# game/day14.rpy:864
+translate polish day14_discreet_session_714694ce:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Nie jesteś specjalnie konsekwentny w swoich odpowiedziach. Lepiej, żebyś mnie nie rozczarował."
+
+# game/day14.rpy:865
+translate polish day14_discreet_session_c8c6eb0f:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Boszzz... To, że coś mi się podoba, nie oznacza z automatu, że chcę to wyruchać...)"
+
+# game/day14.rpy:869
+translate polish day14_discreet_session_242c9dd0:
+
+    # p "Her ass, mistress."
+    p "Jej tyłek, Pani."
+
+# game/day14.rpy:871
+translate polish day14_discreet_session_17b91230:
+
+    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
+    m "Tak, jej tyłek jest dość miękki i okrągły, założę się, że chciałbyś ją pieprzyć od tyłu."
+
+# game/day14.rpy:875
+translate polish day14_discreet_session_1ae6a054_1:
+
+    # p "Yes, mistress. I would very much."
+    p "Tak, Pani. Bardzo tego chcę."
+
+# game/day14.rpy:876
+translate polish day14_discreet_session_5d7144d2_1:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Może Ci się poszczęści, jeśli będziesz grzecznym chłopcem."
+
+# game/day14.rpy:879
+translate polish day14_discreet_session_d36b20f6_1:
+
+    # p "No, mistress."
+    p "Nie, moja Pani."
+
+# game/day14.rpy:880
+translate polish day14_discreet_session_714694ce_1:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Nie jesteś specjalnie konsekwentny w swoich odpowiedziach. Lepiej, żebyś mnie nie rozczarował."
+
+# game/day14.rpy:881
+translate polish day14_discreet_session_c8c6eb0f_1:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Boszzz... To, że coś mi się podoba, nie oznacza z automatu, że chcę to wyruchać...)"
+
+# game/day14.rpy:885
+translate polish day14_discreet_session_856d4021:
+
+    # p "Her pussy, mistress."
+    p "Jej wagina, Pani."
+
+# game/day14.rpy:887
+translate polish day14_discreet_session_70eee315:
+
+    # m "Yes, it looks very juicy. I bet you'd like to fuck that pussy."
+    m "Tak, jej cipka wygląda bardzo smakowicie. Założę się, że chciałbyś ją wyruchać."
+
+# game/day14.rpy:891
+translate polish day14_discreet_session_1ae6a054_2:
+
+    # p "Yes, mistress. I would very much."
+    p "Tak, Pani. Bardzo tego chcę."
+
+# game/day14.rpy:892
+translate polish day14_discreet_session_5d7144d2_2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Może Ci się poszczęści, jeśli będziesz grzecznym chłopcem."
+
+# game/day14.rpy:895
+translate polish day14_discreet_session_d36b20f6_2:
+
+    # p "No, mistress."
+    p "Nie, moja Pani."
+
+# game/day14.rpy:896
+translate polish day14_discreet_session_714694ce_2:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Nie jesteś specjalnie konsekwentny w swoich odpowiedziach. Lepiej, żebyś mnie nie rozczarował."
+
+# game/day14.rpy:897
+translate polish day14_discreet_session_c8c6eb0f_2:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Boszzz... To, że coś mi się podoba, nie oznacza z automatu, że chcę to wyruchać...)"
+
+# game/day14.rpy:900
+translate polish day14_discreet_session_147de036:
+
+    # p "Nothing much, mistress."
+    p "Nic konkretnego, moja Pani."
+
+# game/day14.rpy:902
+translate polish day14_discreet_session_95aba2ad:
+
+    # m "Are you trying to annoy me, boy? Because you're succeeding."
+    m "Próbujesz mnie zirytować chłopcze? Bo jesteś na dobrej drodze."
+
+# game/day14.rpy:903
+translate polish day14_discreet_session_d36b20f6_3:
+
+    # p "No, mistress."
+    p "Nie, moja Pani."
+
+# game/day14.rpy:905
+translate polish day14_discreet_session_c7dbdc10:
+
+    # "{i}[m_name] retrieves a key from somewhere and unlocks the restraints that are holding Adriana. You all move to the ornate room with the couch."
+    "{i}Susan wyciąga skądś klucz i uwalnia Adrianę. Wszyscy wracacie do poprzedniego pomieszczenia."
+
+# game/day14.rpy:907
+translate polish day14_discreet_session_ce38f8d4:
+
+    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
+    "{i}Stoisz obok Adriany, która dalej nie bardzo może się odezwać, mając knebel w ustach. Mimo, że w pokoju jest ciepło, dziewczyna zdaje się drżeć."
+
+# game/day14.rpy:908
+translate polish day14_discreet_session_91ccbfec:
+
+    # m "Now, Adriana and you are going to do something for me. It's a test of strength and resolve, in a way. And the winner gets a prize."
+    m "A teraz, Adriana i Ty coś dla mnie zrobicie. To pewnego rodzaju próba wytrzymałości i siły woli. Zwycięzca zostanie nagrodzony."
+
+# game/day14.rpy:909
+translate polish day14_discreet_session_8d344ccc:
+
+    # p "{i}(Wonder what that'll be.)"
+    p "{i}(Ciekawe w jaki sposób.)"
+
+# game/day14.rpy:910
+translate polish day14_discreet_session_7153742f:
+
+    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
+    "{i}[m_name] podaje ci dwa przedmioty i jesteś zaskoczony ich wagą."
+
+# game/day14.rpy:911
+translate polish day14_discreet_session_5df7de85:
+
+    # m "You'll hold one in each hand and keep your arms level."
+    m "Macie trzymać po jednym w każdej ręce i utrzymać je na tym poziomie."
+
+# game/day14.rpy:913
+translate polish day14_discreet_session_25919422:
+
+    # m "Good. The person who can hold this weight the longest will be the winner."
+    m "Dobrze. Wygra ten, kto najdłużej utrzyma te ciężary."
+
+# game/day14.rpy:914
+translate polish day14_discreet_session_3345c523:
+
+    # p "{i}(That shouldn't be too hard.)"
+    p "{i}(To nie powinno być takie trudne.)"
+
+# game/day14.rpy:915
+translate polish day14_discreet_session_0095e6b5:
+
+    # "{i}You feel the weight of the stones in your arms as you try to keep them at the same position."
+    "{i}Czujesz ciężar kamieni w swoich dłoniach, próbując utrzymać je w tej samej pozycji."
+
+# game/day14.rpy:920
+translate polish day14_discreet_session_f9183d78:
+
+    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
+    "{i}Nagle słyszysz trzask bicza i Adriana wydaje z siebie stłumiony jęk."
+
+# game/day14.rpy:921
+translate polish day14_discreet_session_273dffed:
+
+    # m "On your toes, the both of you."
+    m "Na palce, oboje."
+
+# game/day14.rpy:922
+translate polish day14_discreet_session_d191b303:
+
+    # p "{i}(Fuck.)"
+    p "{i}(Kurwa.)"
+
+# game/day14.rpy:924
+translate polish day14_discreet_session_bc169090:
+
+    # m "You both need to learn some discipline."
+    m "Oboje potrzebujecie więcej dyscypliny."
+
+# game/day14.rpy:928
+translate polish day14_discreet_session_bf971835:
+
+    # "{i}The whip cracks against your naked buttocks. You feel the heat of the lash pulsate as she strikes your butt again."
+    "{i}Końcówka bicza zderza się z Twoimi nagimi pośladkami. Czujesz przeszywające gorąco, gdy uderza Cię ponownie."
+
+# game/day14.rpy:929
+translate polish day14_discreet_session_bfea5ee9:
+
+    # m "Stay on your toes."
+    m "Stój dalej na palcach."
+
+# game/day14.rpy:930
+translate polish day14_discreet_session_5e132d44:
+
+    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
+    "{i}Susan wraca do Adriany, kątem oka widzisz jak uderza recepcjonistkę po łydkach. Z ust dziewczyny wymyka się coś między krzykiem, a jękiem."
+
+# game/day14.rpy:931
+translate polish day14_discreet_session_c9792aca:
+
+    # m "Are you going to give up so easily, Adriana?"
+    m "Tak łatwo się poddasz, Adriana?"
+
+# game/day14.rpy:932
+translate polish day14_discreet_session_acb698b0:
+
+    # p "{i}(Adriana must be close... Is she going to drop those stones?)"
+    p "{i}(Adriana musi być już blisko... Upuści kamienie?)"
+
+# game/day14.rpy:936
+translate polish day14_discreet_session_08b78b95:
+
+    # p "{i}(I can probably hold out for a bit, but I'm curious to see what the prize for Adriana entails.)"
+    p "{i}(Pewnie mógłbym jeszcze trochę wytrzymać, ale jestem ciekawy w jaki sposób mama nagrodzi Adrianę.)"
+
+# game/day14.rpy:947
+translate polish day14_discreet_session_b7371781:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}Pejcz [m_name] znajduje się między udami Adriany, a ona z trudem utrzymuje się na nogach, gdy [m_name] biczuje jej cipkę krótkimi, gwałtownymi uderzeniami."
+
+# game/day14.rpy:948
+translate polish day14_discreet_session_3f852ec6:
+
+    # "{i}You let go and drop both stones to the ground."
+    "{i}Upuszczasz kamienie na ziemię."
+
+# game/day14.rpy:949
+translate polish day14_discreet_session_fd39564f:
+
+    # m "What?! This is unexpected."
+    m "Co?! To niespodziewane."
+
+# game/day14.rpy:950
+translate polish day14_discreet_session_3cb47b54:
+
+    # m "{i}(Damnit, I really thought he would last longer. Adriana's good enough, but I'm getting more and more interested in him.)"
+    m "{i}(Cholera, naprawdę myślałam, że dłużej wytrzyma. Adriana jest niezła, ale zaczęłam się nim interesować.)"
+
+# game/day14.rpy:951
+translate polish day14_discreet_session_33663369:
+
+    # p "{i}(Does she sound disappointed?)"
+    p "{i}(Czy ona jest zawiedziona?)"
+
+# game/day14.rpy:952
+translate polish day14_discreet_session_89709d7a:
+
+    # m "Seems like you're the winner, Adriana. Are you happy?"
+    m "Wygląda na to, że wygrałaś dziewczyno. Cieszysz się?"
+
+# game/day14.rpy:953
+translate polish day14_discreet_session_0dc81ae4:
+
+    # "{i}Adriana, still holding the stones while standing on her toes, nods her head enthusiastically."
+    "{i}Adriana, dalej trzymając kamienie i stojąc na palcach, kiwa z entuzjazmem głową."
+
+# game/day14.rpy:954
+translate polish day14_discreet_session_ea63efd8:
+
+    # m "You probably want to let go of those stones, don't you?"
+    m "Pewnie chciałabyś już puścić te kamienie, co?"
+
+# game/day14.rpy:955
+translate polish day14_discreet_session_e612037c:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:956
+translate polish day14_discreet_session_fed026af:
+
+    # m "That is allowed. And as a bonus, I'll remove your gag."
+    m "Zezwalam. I jako bonus, zdejmę Ci knebel."
+
+# game/day14.rpy:957
+translate polish day14_discreet_session_0b3cbcc9:
+
+    # "{i}Adriana drops her stones and looks relieved as [m_name] removes the ball gag."
+    "{i}Adriana upuszcza kamienie i po usunięciu knebla wzdycha z ulgą."
+
+# game/day14.rpy:958
+translate polish day14_discreet_session_2b1521c1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "A teraz Twoja nagroda. Moja cipka potrzebuje uwagi. Połóż się."
+
+# game/day14.rpy:960
+translate polish day14_discreet_session_f8c8b460:
+
+    # "{i}The receptionist obediently lies down on the floor."
+    "{i}Recepcjonistka posłusznie kładzie się na ziemi."
+
+# game/day14.rpy:961
+translate polish day14_discreet_session_83ca7014:
+
+    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
+    m "A Ty obserwuj uważnie chłopcze. Ale jeśli zobaczę, że się dotykasz, to srogo tego pożałujesz."
+
+# game/day14.rpy:963
+translate polish day14_discreet_session_679e517a:
+
+    # "{i}Your mother undresses and lowers herself onto Adriana's face."
+    "{i}Twoja matka się rozbiera i siada na twarzy Adriany."
+
+# game/day14.rpy:965
+translate polish day14_discreet_session_cd89a18e:
+
+    # "{i}[m_name] undresses and lowers herself onto Adriana's face."
+    "{i}[m_name] rozbiera się i opuszcza na twarz Adriany"
+
+# game/day14.rpy:966
+translate polish day14_discreet_session_34ef5289:
+
+    # p "{i}(Fucking hell, her body is pure pornography.)"
+    p "{i}(Kurwa, jej ciało to istna esencja kobiecości.)"
+
+# game/day14.rpy:967
+translate polish day14_discreet_session_993f6fee:
+
+    # m "Lick me, slut."
+    m "Wyliż mnie szmato."
+
+# game/day14.rpy:974
+translate polish day14_discreet_session_7a3d4edc:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks your mom's pussy lips."
+    "{i}Język Adriany wystrzeliwuje z jej ust, dziewczyna zaczyna ostrożnie lizać wargi sromowe Twojej matki."
+
+# game/day14.rpy:976
+translate polish day14_discreet_session_edf58581:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
+    "{i}Język Adriany wysuwa się z jej ust i ostrożnie liże wargi cipki [m_name]."
+
+# game/day14.rpy:977
+translate polish day14_discreet_session_b5bfeb5c:
+
+    # m "Good! Good!"
+    m "Dobrze! Dobrze!"
+
+# game/day14.rpy:978
+translate polish day14_discreet_session_1f6e2cc0:
+
+    # "{i}You only hear Adriana's muffled breathing and the wet sounds of her tongue caressing [m_name]'s labia as she smothers the receptionist with her pussy."
+    "{i}Słyszysz już tylko stłumione oddechy Adriany i mlaskanie jej języka pieszczącego cipkę Susan."
+
+# game/day14.rpy:979
+translate polish day14_discreet_session_d64705b0:
+
+    # m "Do you like that, Adriana?"
+    m "Podoba Ci się to Adriana?"
+
+# game/day14.rpy:980
+translate polish day14_discreet_session_be51334e:
+
+    # ad "Mmmmmhmmmmmm..."
+    ad "Mmmmmhmmmmmm..."
+
+# game/day14.rpy:981
+translate polish day14_discreet_session_c70f6a60:
+
+    # m "Fuck my pussy with your tongue."
+    m "Wyruchaj moją cipkę swoim językiem."
+
+# game/day14.rpy:990
+translate polish day14_discreet_session_ba0fa4bb:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of your mom's vagina."
+    "{i}Masz już pełną erekcję, gdy Adriana rusza głową w górę i w dół, penetrując swoim językiem cipkę Twojej matki."
+
+# game/day14.rpy:992
+translate polish day14_discreet_session_f6020670:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
+    "{i}Twój kutas jest w pełni wyprostowany, gdy głowa Adriany kołysze się w górę iw dół, a jej język wsuwa się i wysuwa z pochwy [m_name]."
+
+# game/day14.rpy:993
+translate polish day14_discreet_session_b8fbbb08:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of the receptionist's head and pulls her towards her pussy."
+    "{i}Ewidentnie bliska orgazmu, Susan łapie głowę recepcjonistki i przyciska ją do swojego krocza."
+
+# game/day14.rpy:1000
+translate polish day14_discreet_session_df976253:
+
+    # m "Aaaaaaah! Goooood girl!"
+    m "Aaaaaaah! Doooobra dziewczynka!"
+
+# game/day14.rpy:1001
+translate polish day14_discreet_session_67309967:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes, you little whore! Aaaaah!"
+    m "Spij moje soki! O kurwa, tak! Przyssij się do mojej cipki. Właśnie tak, Ty szmato! Aaaaah!"
+
+# game/day14.rpy:1002
+translate polish day14_discreet_session_cc917045:
+
+    # "{i}As you watch the scene unfold before your eyes, precum is leaking from the tip of your taught member."
+    "{i}Obserwując tą scenę, czujesz jak z Twojego sztywnego członka wycieka pre-ejakulat."
+
+# game/day14.rpy:1006
+translate polish day14_discreet_session_38c64a1b:
+
+    # p "{i}(Must hold out a little longer.)"
+    p "{i}(Muszę jeszcze trochę wytrzymać.)"
+
+# game/day14.rpy:1017
+translate polish day14_discreet_session_b7371781_1:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}Pejcz [m_name] znajduje się między udami Adriany, a ona z trudem utrzymuje się na nogach, gdy [m_name] biczuje jej cipkę krótkimi, gwałtownymi uderzeniami."
+
+# game/day14.rpy:1018
+translate polish day14_discreet_session_0bcfc987:
+
+    # "{i}Adriana suddenly stumbles and one of the stones drops from her hand, the other soon follows."
+    "{i}Adriana traci nagle równowagę i upuszcza jeden z kamieni, po chwili drugi też ląduje na ziemi."
+
+# game/day14.rpy:1019
+translate polish day14_discreet_session_6dd6b0e9:
+
+    # m "Disappointing. That means you are the winner, boy. You probably want to let go of those stones, don't you?"
+    m "Rozczarowujące. To znaczy, że wygrałeś chłopcze. Pewnie chciałbyś już upuścić te kamienie, co?"
+
+# game/day14.rpy:1020
+translate polish day14_discreet_session_e612037c_1:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:1021
+translate polish day14_discreet_session_7758ccc4:
+
+    # m "That is allowed."
+    m "Zezwalam."
+
+# game/day14.rpy:1022
+translate polish day14_discreet_session_b1a2a3dd:
+
+    # "{i}You let go of both stones at the same time which is a relief on your strained arm muscles."
+    "{i}Puszczasz oba kamienie jednocześnie, odczuwasz ogromną ulgę w nadwerężonych mięśniach."
+
+# game/day14.rpy:1023
+translate polish day14_discreet_session_90d93bee:
+
+    # m "{i}(Let's see what he can do. I'm sure Adriana is confused by the whole situation right now. This isn't normally how we do things.)"
+    m "{i}(Zobaczmy na co go stać. Jestem pewna, że Adriana jest zaskoczona tą sytuacją. Zwykle robimy to inaczej.)"
+
+# game/day14.rpy:1024
+translate polish day14_discreet_session_2b1521c1_1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "A teraz Twoja nagroda. Moja cipka potrzebuje uwagi. Połóż się."
+
+# game/day14.rpy:1026
+translate polish day14_discreet_session_b9c0aeca:
+
+    # "{i}You lie down on the floor."
+    "{i}Kładziesz się na podłodze."
+
+# game/day14.rpy:1027
+translate polish day14_discreet_session_c2d5a788:
+
+    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
+    m "Obserwuj uważnie dziewczyno. Jeśli zobaczę, że się dotykasz to srogo tego pożałujesz."
+
+# game/day14.rpy:1029
+translate polish day14_discreet_session_7c796bfc:
+
+    # "{i}Your mother undresses and lowers herself onto your face."
+    "{i}Twoja matka rozbiera się i siada na Twojej twarzy."
+
+# game/day14.rpy:1031
+translate polish day14_discreet_session_f4c12e75:
+
+    # "{i}[m_name] undresses and lowers herself onto your face."
+    "{i}[m_name] rozbiera się i opuszcza na twoją twarz"
+
+# game/day14.rpy:1032
+translate polish day14_discreet_session_864f6070:
+
+    # "{i}Her soft pubic hair tickles and a salty aroma nearly overwhelms you. It's getting harder to breathe."
+    "{i}Jej miękkie włosy łonowe łaskoczą Twoją twarz, oszałamia Cię jej słodka woń.  Coraz trudniej Ci oddychać."
+
+# game/day14.rpy:1033
+translate polish day14_discreet_session_254921b0:
+
+    # p "{i}(She's fucking sitting on my face. Wish I wasn't wearing that bloody mask.)"
+    p "{i}(Kurwa, ona siedzi mi na twarzy. Szkoda, że muszę nosić tą cholerną maskę.)"
+
+# game/day14.rpy:1034
+translate polish day14_discreet_session_a5655a32:
+
+    # m "Lick me, boy."
+    m "Wyliż mnie chłopcze."
+
+# game/day14.rpy:1041
+translate polish day14_discreet_session_81f58e43:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick your mom's pussy lips. She's wet and tastes salty."
+    "{i}Twój język wyskakuje z ust i zaczynasz ostrożnie lizać wargi sromowe swojej matki. Jest już mokra, czujesz jej słone soki."
+
+# game/day14.rpy:1043
+translate polish day14_discreet_session_cd7c1d9c:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
+    "{i}Twój język wysuwa się z ust i ostrożnie liżesz wargi cipki [m_name] Jest mokra i smakuje słono."
+
+# game/day14.rpy:1044
+translate polish day14_discreet_session_b5bfeb5c_1:
+
+    # m "Good! Good!"
+    m "Dobrze! Dobrze!"
+
+# game/day14.rpy:1045
+translate polish day14_discreet_session_9e557aa2:
+
+    # "{i}The only thing you hear is [m_name]'s heavy breathing and the wet sounds of your tongue caressing her labia as she smothers you with her pussy."
+    "{i}Jedyne co w tym momencie słyszysz, to ciężkie oddechy swojej matki i mokre odgłosy wydawane przez Twój język pieszczący jej cipkę."
+
+# game/day14.rpy:1046
+translate polish day14_discreet_session_dfd9b39b:
+
+    # m "Do you like that, boy?"
+    m "Podoba Ci się to chłopcze?"
+
+# game/day14.rpy:1047
+translate polish day14_discreet_session_e15e30b7:
+
+    # p "Mmmmmhmmmmmm..."
+    p "Mmmmmmhmmmmmm..."
+
+# game/day14.rpy:1048
+translate polish day14_discreet_session_c70f6a60_1:
+
+    # m "Fuck my pussy with your tongue."
+    m "Wyruchaj moją cipkę swoim językiem."
+
+# game/day14.rpy:1057
+translate polish day14_discreet_session_674d8f15:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of your mom's vagina."
+    "{i}Masz już pełną erekcję gdy Twój język penetruje waginę Twojej matki."
+
+# game/day14.rpy:1059
+translate polish day14_discreet_session_823d5930:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
+    "{i}Twój kutas jest w pełni wyprostowany, gdy twój język wsuwa się i wysuwa z pochwy [m_name]."
+
+# game/day14.rpy:1060
+translate polish day14_discreet_session_3c2ee3ac:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of your head and pulls you towards her pussy. You feel her fingers press hard against your skull."
+    "{i}Ewidentnie bliska orgazmu, Susan łapie Cię za głowę i przyciska Cię do swojego krocza. Czujesz jak jej palce zaciskają się na Twojej czaszce."
+
+# game/day14.rpy:1067
+translate polish day14_discreet_session_8e09283d:
+
+    # m "Aaaaaaah! Goooood boy!"
+    m "Aaaaaaah! Dooobry chłopiec!"
+
+# game/day14.rpy:1068
+translate polish day14_discreet_session_ef7ee683:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes! Aaaaah!"
+    m "Spij moje soki! O kurwa, tak! Przyssij się do mojej cipki. Właśnie tak! Aaaaah!"
+
+# game/day14.rpy:1069
+translate polish day14_discreet_session_8e05be01:
+
+    # "{i}As you lap up the juices of her orgasm, precum is leaking from the tip of your taught member."
+    "{i}Chłepczesz wypływające z niej soki, z Twojego sztywnego członka wycieka pre-ejakulat."
+
+# game/day14.rpy:1070
+translate polish day14_discreet_session_98b68f60:
+
+    # "{i}Adriana is still standing there gazing at you lustfully while [m_name] removes her gag."
+    "{i}Adriana dalej tam stoi i patrzy na Ciebie pełnym pożądania wzrokiem, kiedy Susan zdejmuje jej knebel."
+
+# game/day14.rpy:1077
+translate polish day14_discreet_session_c4bcf13d:
+
+    # m "I'd like to reward you for being such a good servant."
+    m "Chciałabym Cię nagrodzić za bycie tak dobrą sługą."
+
+# game/day14.rpy:1080
+translate polish day14_discreet_session_59fefa56:
+
+    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
+    m "Nasz chłopak wyraził swój podziw dla twojej cipki, prawda Adriana?"
+
+# game/day14.rpy:1081
+translate polish day14_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Tak, Pani."
+
+# game/day14.rpy:1082
+translate polish day14_discreet_session_151c1deb:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "A potem powiedział, że nie chce Cię wyruchać. Co za dziwny chłopak."
+
+# game/day14.rpy:1083
+translate polish day14_discreet_session_54dd0c92:
+
+    # m "So I guess you won't get fucked today, Adriana. I'm sure you understand."
+    m "Więc chyba się dziś nie zabawisz Adriana. Jestem pewna, że to rozumiesz."
+
+# game/day14.rpy:1085
+translate polish day14_discreet_session_b8df8615:
+
+    # m "Our boy praised your ass, didn't he, Adriana?"
+    m "Nasz chłopak pochwalił twój tyłek, prawda Adriana?"
+
+# game/day14.rpy:1086
+translate polish day14_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Tak, Pani."
+
+# game/day14.rpy:1087
+translate polish day14_discreet_session_151c1deb_1:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "A potem powiedział, że nie chce Cię wyruchać. Co za dziwny chłopak."
+
+# game/day14.rpy:1088
+translate polish day14_discreet_session_f18f5a5b:
+
+    # m "So I guess we won't offer your tight asshole today, Adriana. I'm sure you understand."
+    m "Więc chyba się dziś nie zabawisz Adriana. Jestem pewna, że to rozumiesz."
+
+# game/day14.rpy:1090
+translate polish day14_discreet_session_f4c88f4f:
+
+    # m "Our boy praised your breasts, didn't he, Adriana?"
+    m "Nasz chłopak chwalił twoje piersi, prawda Adriana?"
+
+# game/day14.rpy:1091
+translate polish day14_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Tak, Pani."
+
+# game/day14.rpy:1092
+translate polish day14_discreet_session_151c1deb_2:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "A potem powiedział, że nie chce Cię wyruchać. Co za dziwny chłopak."
+
+# game/day14.rpy:1093
+translate polish day14_discreet_session_77164c8b:
+
+    # m "So I guess he doesn't get to push his cock between your tits, Adriana. I'm sure you understand."
+    m "Więc chyba się dziś nie zabawisz Adriana. Jestem pewna, że to rozumiesz."
+
+# game/day14.rpy:1095
+translate polish day14_discreet_session_bb322cb6:
+
+    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
+    m "Ale skoro nasz chłopiec nie wydawał się Tobą zainteresowany, to chyba nie możemy mu nic zaoferować."
+
+# game/day14.rpy:1096
+translate polish day14_discreet_session_8b9f95b0:
+
+    # p "{i}(Damn. I'd really like to fuck something right about now.)"
+    p "{i}(Kurwa. Jestem teraz naprawdę napalony.)"
+
+# game/day14.rpy:1097
+translate polish day14_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Tak, Pani."
+
+# game/day14.rpy:1098
+translate polish day14_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:1099
+translate polish day14_discreet_session_12164705:
+
+    # m "Good. Class dismissed."
+    m "Dobrze. Jesteście wolni."
+
+# game/day14.rpy:1107
+translate polish day14_discreet_session_3f84f2fb:
+
+    # m "And our boy expressed an interest in your body, Adriana. Would you like to get fucked now?"
+    m "I nasz chłopiec wyraził zainteresowanie Twoim ciałem Adriana. Chciałbyś dać się wyruchać?"
+
+# game/day14.rpy:1108
+translate polish day14_discreet_session_b25c3cee:
+
+    # ad "Very much, mistress."
+    ad "Bardzo, moja Pani."
+
+# game/day14.rpy:1109
+translate polish day14_discreet_session_712d152f:
+
+    # p "{i}(Fuck yes! I'm not sure it will take long, but I sure am going to drench her in cum.)"
+    p "{i}(Kurwa tak! To raczej nie zajmie zbyt długo, ale zamierzam obryzgać ją moją spermą.)"
+
+# game/day14.rpy:1112
+translate polish day14_discreet_session_4d0e495d:
+
+    # m "You may use her pussy. And be sure to finish on her face, a good slut deserves that much."
+    m "Możesz skorzystać z jej cipki. I upewnij się, że skończysz na jej twarzy, zasłużyła sobie na to."
+
+# game/day14.rpy:1113
+translate polish day14_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:1119
+translate polish day14_discreet_session_a14deefc:
+
+    # "{i}Due to the events you've just experienced you slide inside Adriana a little roughly, which elicits a small, surprised gasp from her."
+    "{i}Przez wydarzenia, które tu doświadczyłeś, wbijasz się w Adrianę trochę zbyt gwałtownie. Z jej ust wymyka się ciche, zaskoczone westchnienie."
+
+# game/day14.rpy:1120
+translate polish day14_discreet_session_afe580f6:
+
+    # m "How does he feel inside you, Adriana?"
+    m "Jakie to uczucie dziewczyno?"
+
+# game/day14.rpy:1121
+translate polish day14_discreet_session_2f0e67fa:
+
+    # ad "He feels so big, mistress."
+    ad "Jest naprawdę duży, moja Pani."
+
+# game/day14.rpy:1123
+translate polish day14_discreet_session_13a6f1c9:
+
+    # "{i}You grab Adriana's legs and start to thrust your dick inside the receptionist. Her pussy lips massage the sides of your throbbing cock and Adriana's breathing becomes shallow."
+    "{i}Łapiesz Adrianę za nogi i zaczynasz posuwać recepcjonistkę. Jej wargi sromowe masują Twojego pulsującego penisa, oddech Adriany staje się płytki."
+
+# game/day14.rpy:1124
+translate polish day14_discreet_session_ebe15ba7:
+
+    # ad "Fuck me, please, fuck me harder!"
+    ad "Rżnij mnie, proszę, ruchaj mnie mocniej!"
+
+# game/day14.rpy:1125
+translate polish day14_discreet_session_5150cad6:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
+    "{i}Jej duże piersi podskakują w rytm twojego pieprzenia i czujesz się bardzo blisko orgazmu, prawdopodobnie z powodu wszystkiego, co wydarzyło się wcześniej."
+
+# game/day14.rpy:1131
+translate polish day14_discreet_session_1a6e0e7f:
+
+    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Z krzykiem, wycofujesz się z niej i łapiesz ją za głowę. Adriana posłusznie otwiera usta przygotowując się na otrzymanie Twojego nasienia."
+
+# game/day14.rpy:1132
+translate polish day14_discreet_session_7c9a8cd4:
+
+    # m "Finished already. Your pussy must be magical, Adriana..."
+    m "Już po wszystkim... No, no Adriana, musisz mieć naprawdę magiczną cipkę..."
+
+# game/day14.rpy:1133
+translate polish day14_discreet_session_bb4ec6df:
+
+    # m "You may cum on her."
+    m "Możesz się już na nią spuścić."
+
+# game/day14.rpy:1135
+translate polish day14_discreet_session_787b0b9e:
+
+    # m "You may use Adriana's ass. Do be gentle. And be sure to finish on her face, a good slut deserves that much."
+    m "Możesz wyruchać jej tyłek. Bądź delikatny i upewnij się, że skończysz na jej twarzy, zasłużyła sobie na to."
+
+# game/day14.rpy:1136
+translate polish day14_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:1141
+translate polish day14_discreet_session_15c41f02:
+
+    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
+    "{i}Kiedy przyciskasz swojego penisa do odbytu Adriany, słyszysz jej głośne westchnięcie."
+
+# game/day14.rpy:1142
+translate polish day14_discreet_session_ec80b608:
+
+    # ad "Please be gentle."
+    ad "Proszę, bądź delikatny."
+
+# game/day14.rpy:1143
+translate polish day14_discreet_session_74327b4e:
+
+    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
+    "{i}To stwierdzenie podnieca cię jeszcze bardziej i zaczynasz wpychać swojego fiuta do jej wnętrza. Precum, które wyciekło z twojego penisa wcześniej, działa jak lubrykant, ale nadal jest ciasno."
+
+# game/day14.rpy:1144
+translate polish day14_discreet_session_111f439d:
+
+    # "{i}The receptionist is very tense, but relaxes visibly when she feels your balls against her pussy."
+    "{i}Dziewczyna jest bardzo spięta, ale wyraźnie się rozluźnia gdy czuje Twoje jądra przyciśnięte do swojej cipki."
+
+# game/day14.rpy:1145
+translate polish day14_discreet_session_26cec445:
+
+    # m "He's inside of you. How does that feel?"
+    m "Jest już w Tobie. Jakie to uczucie?"
+
+# game/day14.rpy:1146
+translate polish day14_discreet_session_1b2a2c62:
+
+    # ad "He's so big, mistress."
+    ad "Jest naprawdę duży, moja Pani."
+
+# game/day14.rpy:1151
+translate polish day14_discreet_session_fb3d5f0e:
+
+    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
+    "{i}Powoli wsuwasz i wysuwasz swojego kutasa z dupy recepcjonistki, oddech Adriany staje się płytki. Prowadzi cię ręką, a ty penetrujesz ją coraz szybciej."
+
+# game/day14.rpy:1152
+translate polish day14_discreet_session_08fd09db:
+
+    # ad "Fuck me, please, fuck my ass!"
+    ad "Rżnij mnie, proszę, szybciej!"
+
+# game/day14.rpy:1153
+translate polish day14_discreet_session_791ee88c:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
+    "{i}Jej duże piersi podskakują w rytm twojego pieprzenia Jej tyłek jest ciasny i masuje twojego kutasa w sposób, jakiego nigdy wcześniej nie czułeś Czujesz się bardzo blisko orgazmu, prawdopodobnie z powodu wszystkiego, co wydarzyło się wcześniej."
+
+# game/day14.rpy:1159
+translate polish day14_discreet_session_291215d7:
+
+    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Z krzykiem, wycofujesz się z niej i łapiesz ją za głowę. Adriana posłusznie otwiera usta przygotowując się na otrzymanie Twojego nasienia."
+
+# game/day14.rpy:1160
+translate polish day14_discreet_session_a4a83b56:
+
+    # m "Finished already. Your ass must be magical, Adriana..."
+    m "Już po wszystkim... No, no Adriana, musisz mieć naprawdę magiczną dupę..."
+
+# game/day14.rpy:1161
+translate polish day14_discreet_session_bb4ec6df_1:
+
+    # m "You may cum on her."
+    m "Możesz się już na nią spuścić."
+
+# game/day14.rpy:1163
+translate polish day14_discreet_session_732a62ea:
+
+    # m "Adriana is going to massage your cock with her breasts. Be sure to cover her face when you're ready, a good slut deserves that much."
+    m "Adriana wymasuje Twojego fiuta swoimi piersiami. Upewnij się, że skończysz na jej twarzy kiedy będziesz gotowy, zasłużyła sobie na to."
+
+# game/day14.rpy:1164
+translate polish day14_discreet_session_0b462255_4:
+
+    # p "Yes, mistress."
+    p "Tak, moja Pani."
+
+# game/day14.rpy:1165
+translate polish day14_discreet_session_25debe46:
+
+    # "{i}You tease the receptionist's nipples with the tip of your cock. The massage elicits a small gasp from her and she pushes her breasts together in order for you to push your dick between them."
+    "{i}Drażnisz sutki recepcjonistki czubkiem swojego penisa. Adriana wzdycha cicho i ściska ze sobą swoje piersi, żebyś mógł wcisnąć między nie swojego penisa."
+
+# game/day14.rpy:1171
+translate polish day14_discreet_session_59ba8699:
+
+    # "{i}Adriana starts moving up and down with your cock between her breasts. The touch of her soft flesh and the lewd smile on her face as she stares at you makes you even more aroused."
+    "{i}Adriana zaczyna masować Cię swoimi piersiami. Dotyk jej miękkiej skóry i jej lubieżne spojrzenie jeszcze bardziej Cię podnieca."
+
+# game/day14.rpy:1173
+translate polish day14_discreet_session_908f034e:
+
+    # "{i}You force the receptionist to the ground and thrust your dick between her breasts, fucking them while she's squeezing them tight."
+    "{i}Przewracasz recepcjonistkę na ziemię i ponownie wciskasz między jej piersi swojego penisa, posuwasz je podczas gdy ona je na Tobie zaciska."
+
+# game/day14.rpy:1174
+translate polish day14_discreet_session_dab678a3:
+
+    # m "He's giving your tits a good fuck. How does that feel?"
+    m "Porządnie rucha Twoje cycki. Jakie to uczucie?"
+
+# game/day14.rpy:1175
+translate polish day14_discreet_session_1b2a2c62_1:
+
+    # ad "He's so big, mistress."
+    ad "Jest naprawdę duży, moja Pani."
+
+# game/day14.rpy:1176
+translate polish day14_discreet_session_fda9f7d4:
+
+    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
+    "{i}Za każdym razem gdy Twój fiut zbliża się do jej twarzy, Adriana liże jego czubek. Zaczyna też mocniej ściskać swoje piersi, przez co o mało się nie spuszczasz."
+
+# game/day14.rpy:1182
+translate polish day14_discreet_session_95a81a0e:
+
+    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
+    "{i}Z krzykiem wykonujesz ostatni ruch między jej piersiami, wycofujesz się i wcelowujesz się w jej twarz. Adriana posłusznie otwiera usta w oczekiwaniu na Twoje nasienie."
+
+# game/day14.rpy:1183
+translate polish day14_discreet_session_e8c2e24b:
+
+    # m "Finished already. Your tits must be magical, Adriana..."
+    m "Już po wszystkim... No, no Adriana, musisz mieć naprawdę magiczne cycki..."
+
+# game/day14.rpy:1184
+translate polish day14_discreet_session_bb4ec6df_2:
+
+    # m "You may cum on her."
+    m "Możesz się już na nią spuścić."
+
+# game/day14.rpy:1188
+translate polish day14_discreet_session_b6bb3d0d:
+
+    # "{i}You seem to have build up a large amount of cum, because you cover her face and hair with thick streaks, but also have enough to deposit in her mouth."
+    "{i}Z Twojego penisa wystrzeliwują kolejno trzy strumienie gęstej spermy, pokrywając jej twarz i włosy, spora część ląduje też w jej ustach."
+
+# game/day14.rpy:1190
+translate polish day14_discreet_session_9f16b8bf:
+
+    # m "Swallow it all."
+    m "Połknij wszystko grzecznie."
+
+# game/day14.rpy:1191
+translate polish day14_discreet_session_6d0471c5:
+
+    # "{i}Adriana licks your dick clean of any traces of semen and scoops up the rest from her face and hair. Looking you directly in the eye, she swallows all of it with a naughty smile."
+    "{i}Adriana wylizuje Twojego fiuta do czysta i zgarnia resztę spermy ze swojej twarzy. Patrząc Ci prosto w oczy, połyka wszystko z zadziornym uśmiechem."
+
+# game/day14.rpy:1192
+translate polish day14_discreet_session_750da6a3:
+
+    # m "Thus endeth the lesson."
+    m "Na tym zakończymy naszą lekcję."
+
+# game/day14.rpy:1211
+translate polish day14_b_fondle_32cbc436:
+
+    # "{i}Your hands push the t-shirt even further up to reveal your sister's breasts. Her nipples are rock hard."
+    "{i}Podwijasz jej koszulkę jeszcze wyżej, odsłaniając piersi swojej siostry. Jej sutki są twarde jak kamień."
+
+# game/day14.rpy:1213
+translate polish day14_b_fondle_4a0fb993:
+
+    # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
+    "{i}Twoje ręce przesuwają koszulkę jeszcze bardziej w górę, odsłaniając piersi [b_name] Jej sutki są twarde jak skała."
+
+# game/day14.rpy:1215
+translate polish day14_b_fondle_42c4c73b:
+
+    # b "[p_name]... no... it isn't..."
+    b "[p_name]... Nie... To nie jest..."
+
+# game/day14.rpy:1216
+translate polish day14_b_fondle_ed02e162:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Boże, budzisz we mnie takie uczucia Bella..."
+
+# game/day14.rpy:1217
+translate polish day14_b_fondle_3cd42054:
+
+    # p "Your skin is so soft."
+    p "Masz taką miękką skórę."
+
+# game/day14.rpy:1218
+translate polish day14_b_fondle_52dcef3c:
+
+    # b "I..."
+    b "Ja..."
+
+# game/day14.rpy:1221
+translate polish day14_b_fondle_98879cef:
+
+    # p "Are you wet already?"
+    p "Już jesteś mokra?"
+
+# game/day14.rpy:1222
+translate polish day14_b_fondle_45d024d8:
+
+    # b "No, not there!"
+    b "Nie, nie tam!"
+
+# game/day14.rpy:1223
+translate polish day14_b_fondle_6449f334:
+
+    # p "You are. Do you like the movie so much? Or is it my touch?"
+    p "Jesteś. Aż tak spodobał Ci się ten film? A może to przez mój dotyk?"
+
+# game/day14.rpy:1225
+translate polish day14_b_fondle_1e36103c:
+
+    # "{i}You push your fingers against her panties and feel your sister's moist labia through the fabric."
+    "{i}Przyciskasz palce do jej majtek i czujesz przez materiał jej wilgotne wargi."
+
+# game/day14.rpy:1227
+translate polish day14_b_fondle_b5fefac5:
+
+    # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
+    "{i}Przyciskasz palce do jej majtek i czujesz jej wilgotne wargi sromowe przez materiał."
+
+# game/day14.rpy:1228
+translate polish day14_b_fondle_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day14.rpy:1229
+translate polish day14_b_fondle_be44dc55:
+
+    # p "Your panties are in the way, don't you think?"
+    p "Twoje majteczki trochę nam przeszkadzają, zgodzisz się?"
+
+# game/day14.rpy:1233
+translate polish day14_b_fondle_f1b6ca42:
+
+    # b "Y-yes... No!"
+    b "T- Tak... Nie!"
+
+# game/day14.rpy:1234
+translate polish day14_b_fondle_efa09b9c:
+
+    # "{i}With one hand you remove her underwear. [b_name] tries to remove your hand, but her protests lack any conviction."
+    "{i}Jedną ręką pozbawiasz ją bielizny. Bella próbuje Cię powstrzymać, ale jej staraniom brakuje przekonania."
+
+# game/day14.rpy:1240
+translate polish day14_b_fondle_04b53f47:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Wsuwasz w nią palec i zaczynasz stymulować jej łechtaczkę. Bella z początku próbuje odsunąć Twoją dłoń, ale kiedy zaczynasz ruszać palcem ze stałym rytmem, Twoja siostra przyciska Twoją rękę do swojego krocza, jakby zachęcając Cię do głębszej penetracji."
+
+# game/day14.rpy:1242
+translate polish day14_b_fondle_cec13b39:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Wsuwasz w nią palec i stymulujesz jej łechtaczkę [b_name] na początku ciągnie cię za rękę, ale kiedy ustalasz stały rytm, przyciska twoją dłoń do swojego seksu, jakby zachęcając cię do wejścia głębiej."
+
+# game/day14.rpy:1243
+translate polish day14_b_fondle_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day14.rpy:1244
+translate polish day14_b_fondle_2d4211e5:
+
+    # p "Sssssh, you'll wake everybody up."
+    p "Ciiiii, jeszcze wszystkich obudzisz."
+
+# game/day14.rpy:1245
+translate polish day14_b_fondle_90901d27:
+
+    # b "Hnnnghhhh!"
+    b "Hnnnghhhh!"
+
+# game/day14.rpy:1247
+translate polish day14_b_fondle_e2a1d183:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
+    "{i}[b_name] z trudem tłumi jęki Ryzyko przyłapania przez obudzenie matki lub siostry wyraźnie podnieca was oboje."
+
+# game/day14.rpy:1249
+translate polish day14_b_fondle_29eded4e:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
+    "{i}[b_name] z trudem tłumi jęki Ryzyko przyłapania przez obudzenie [l_name] lub [m_name] wyraźnie podnieca was oboje."
+
+# game/day14.rpy:1250
+translate polish day14_b_fondle_e727e64f:
+
+    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
+    "{i}Sądząc po jej gwałtownych oddechach i nacisku jaki wywiera na Twoją dłoń, Bella jest blisko orgazmu."
+
+# game/day14.rpy:1255
+translate polish day14_b_fondle_7f7e79ac:
+
+    # b "F-ffff-uuuuck!"
+    b "K- Kuuuurr-rrwa!"
+
+# game/day14.rpy:1259
+translate polish day14_b_fondle_64651b3a:
+
+    # "{i}With your finger still inside her pussy, your sister experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Dalej z Twoim palcem w sobie, Twoja siostra przeżywa potężny orgazm, który trzęsie prawie całą kanapą. Dalej drżąc, Bella przyciska do siebie Twoją dłoń i pociera nią swoją łechtaczkę."
+
+# game/day14.rpy:1261
+translate polish day14_b_fondle_966c2da6:
+
+    # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Z twoim palcem wciąż w jej cipce [b_name] przeżywa potężny orgazm, który niemal wstrząsa całą kanapą Drżąc, zaciska dłoń na twojej dłoni i nie przestaje miażdżyć nią swojej łechtaczki."
+
+# game/day14.rpy:1262
+translate polish day14_b_fondle_7095ffd6:
+
+    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
+    "{i}Po chwili jej stłumione jęki i westchnienia gasną. Po cichu podciąga majtki i zakrywa swoje piersi, ale nie próbuje się od Ciebie odsunąć."
+
+# game/day14.rpy:1266
+translate polish day14_b_fondle_55305076:
+
+    # p "I love it when you cum for me."
+    p "Uwielbiam kiedy dla mnie dochodzisz."
+
+# game/day14.rpy:1267
+translate polish day14_b_fondle_52dcef3c_1:
+
+    # b "I..."
+    b "Ja..."
+
+# game/day14.rpy:1269
+translate polish day14_b_fondle_181d589c:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "C- Co?! Gdzie?! Oh! Ah. Chyba mi się przysnęło."
+
+# game/day14.rpy:1270
+translate polish day14_b_fondle_a6a6d4f3:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly disentangles herself from you. Her face looks flushed and her expression enigmatic. It looks almost like a mixture of ribald pleasure, shame and the remnants of rapturous lust to you."
+    "{i}Spłoszeni nagłym zerwaniem się Susan, odsuwacie się od siebie w pośpiechu. Bella się czerwieni, wyraz jej twarzy jest zagadkowy. Prezentuje jakby mieszankę rozkoszy, wstydu i pożądania."
+
+# game/day14.rpy:1272
+translate polish day14_b_fondle_a5039c88:
+
+    # b "That's enough. Stop it."
+    b "Już wystarczy. Przestań."
+
+# game/day14.rpy:1273
+translate polish day14_b_fondle_565313e7:
+
+    # b "Uncle!"
+    b "Basta!"
+
+# game/day14.rpy:1274
+translate polish day14_b_fondle_ed02e162_1:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Boże, budzisz we mnie takie uczucia Bella..."
+
+# game/day14.rpy:1275
+translate polish day14_b_fondle_52dcef3c_2:
+
+    # b "I..."
+    b "Ja..."
+
+# game/day14.rpy:1277
+translate polish day14_b_fondle_181d589c_1:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "C- Co?! Gdzie?! Oh! Ah. Chyba mi się przysnęło."
+
+# game/day14.rpy:1278
+translate polish day14_b_fondle_1ed4a414:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly untangles herself from you. Her face looks flushed and her expression enigmatic."
+    "{i}Spłoszeni nagłym zerwaniem się Susan, odsuwacie się od siebie w pośpiechu. Bella się czerwieni, wyraz jej twarzy jest zagadkowy."
+
+# game/day14.rpy:1295
+translate polish day14_r_fingering_49278f8a:
+
+    # r "{i}(The thought of his touch on my skin makes me feel so giddy inside.)"
+    r "{i}(Na samą myśl o jego dotyku na mojej skórze robi mi się ciepło.)"
+
+# game/day14.rpy:1298
+translate polish day14_r_fingering_3fe74477:
+
+    # r "{i}(How softly he caressed my pussy... He was so tender with me.)"
+    r "{i}(Tak czule pieścił moją cipkę... Był ze mną taki delikatny.)"
+
+# game/day14.rpy:1299
+translate polish day14_r_fingering_9ba86f30:
+
+    # r "{i}(I guess he liked being in control after I made him cum the night before.)"
+    r "{i}(Myślę, że chciał przejąć kontrolę po tym, jak zrobiłam mu dobrze poprzedniej nocy.)"
+
+# game/day14.rpy:1300
+translate polish day14_r_fingering_a26c1823:
+
+    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
+    r "{i}(Było wtedy tego tak dużo i wcale nie smakowało ohydnie tak jak pisało w tych wszystkich magazynach, może było trochę dziwne...)"
+
+# game/day14.rpy:1301
+translate polish day14_r_fingering_b4097cf5:
+
+    # r "{i}(Urgh, I hate feeling like this. All that tension...)"
+    r "{i}(Urgh, nie znoszę się tak czuć. To całe napięcie...)"
+
+# game/day14.rpy:1302
+translate polish day14_r_fingering_3949ce7c:
+
+    # r "{i}(Fuck it. I'm going to masturbate. I guess Mrs. Steel would think it isn't 'ladylike behavior', but this is where I draw the line!)"
+    r "{i}(A jebać. Muszę sobie ulżyć. Pani Steel pewnie uważa, że to 'zachowanie niegodne damy', ale gdzieś muszę postawić granicę!)"
+
+# game/day14.rpy:1308
+translate polish day14_r_fingering_a18ab1a7:
+
+    # r "{i}(Hmmm. Thinking about the naughty things [p_name] and I did has made me so wet.)"
+    r "{i}(Hmmm. Przez myślenie o tym co ja i [p_name] robiliśmy przez ostatnich kilka dni, zrobiłam się strasznie mokra.)"
+
+# game/day14.rpy:1309
+translate polish day14_r_fingering_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah!"
+
+# game/day14.rpy:1312
+translate polish day14_r_fingering_94b75813:
+
+    # r "{i}(Yes! Aaah! [p_name] was so forceful... His finger inside of me... His big cock... So warm... So strong...)"
+    r "{i}(Tak! Aaah! Jego ruchy były takie pełne pewności siebie... Jego palec w mojej... Jego wielki fiut... Taki gorący...)"
+
+# game/day14.rpy:1313
+translate polish day14_r_fingering_0e44b109:
+
+    # r "{i}(Mmmmm... I wonder w-what he would feel like i-inside of me.)"
+    r "{i}(Mmmmm... Ciekawe jakie by to było uczucie, poczuć go w sobie.)"
+
+# game/day14.rpy:1315
+translate polish day14_r_fingering_553cd0ba:
+
+    # r "{i}(Yes! Aaah! I want [p_name]! I want to feel him i-inside of me!)"
+    r "{i}(Tak! Aaah! Tak [p_name]! Chcę Cię w sobie poczuć!)"
+
+# game/day14.rpy:1320
+translate polish day14_r_fingering_0f019af7:
+
+    # r "{i}(He'll be gentle with me... Kiss me all over... M-m-make me feel good. Oooh! I'm so close!)"
+    r "{i}(Byłby ze mną delikatny... Całą by mnie wycałował... S- Sprawiłby, że poczułabym się dobrze. Oooh! Jestem tak blisko!)"
+
+# game/day14.rpy:1323
+translate polish day14_r_fingering_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "Aaaah! Tak!"
+
+# game/day14.rpy:1324
+translate polish day14_r_fingering_0e004e54:
+
+    # r "Mmmmmmm. Now I can sleep."
+    r "Mmmmmmmm. Teraz mogę iść spać."
+

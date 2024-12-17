@@ -290,7 +290,7 @@ translate polish day07_84dd37b7:
 translate polish day07_e2fe7db7:
 
     # "{i}You each get dressed and you get to admire her naked body for a little while longer."
-    ""
+    "{i}Ubierzcie się i podziwiajcie jej nagie ciało jeszcze przez chwilę."
 
 # game/day07.rpy:120
 translate polish day07_02f79b94:
@@ -338,7 +338,7 @@ translate polish day07_e38b1e83:
 translate polish day07_2cb430fa:
 
     # r "Hey, dear [p_name]!"
-    r ""
+    r "Hej drogi [p_name]!"
 
 # game/day07.rpy:143
 translate polish day07_38732b69:
@@ -482,7 +482,7 @@ translate polish day07_e8987326:
 translate polish day07_0b9d91d3:
 
     # p "{i}(Having [r_name] rest her head on my lap helped tremendously as well...)"
-    p ""
+    p "{i}(Oparcie głowy [r_name] na moich kolanach również bardzo pomogło)"
 
 # game/day07.rpy:192
 translate polish day07_8feaed06:
@@ -542,7 +542,7 @@ translate polish day07_6b52dfed:
 translate polish day07_deec5897:
 
     # p "{i}(Shit. Don't be so suspicious [l_name]...)"
-    p ""
+    p "{i}(Shit Don't be so suspicious [l_name])"
 
 # game/day07.rpy:218
 translate polish day07_b34959d2:
@@ -896,7 +896,7 @@ translate polish day07_p_room_choices_13a16bba:
 translate polish day07_p_room_choices_e8607e7a:
 
     # b "Came to see my tits, did you?"
-    b ""
+    b "Przyszedłeś zobaczyć moje cycki?"
 
 # game/day07.rpy:327
 translate polish day07_p_room_choices_23794130:
@@ -1574,7 +1574,7 @@ translate polish day07_p_room_choices_05e02dfa:
 translate polish day07_p_room_choices_46d2a4b3:
 
     # p "{i}(Ah [b_name], you should've used reverse image search before compromising yourself...)"
-    p ""
+    p "{i}(Ah [b_name] powinieneś był użyć odwrotnego wyszukiwania obrazu, zanim się skompromitowałeś)"
 
 # game/day07.rpy:514
 translate polish day07_p_room_choices_92fbc3da:
@@ -1586,7 +1586,7 @@ translate polish day07_p_room_choices_92fbc3da:
 translate polish day07_p_room_choices_b879132a:
 
     # p "What a vile thing to do to a girl."
-    p ""
+    p "Co za podłość zrobić dziewczynie"
 
 # game/day07.rpy:519
 translate polish day07_p_room_choices_6a2f5bc6:
@@ -2156,7 +2156,7 @@ translate polish day07_p_room_choices_06599cf3:
 translate polish day07_p_room_choices_9d64367e:
 
     # p "{i}(If he's really banging someone on a regular basis at his workplace I might have the leverage I need to get him out of [l_name]'s life for good.)"
-    p ""
+    p "{i}(Jeśli naprawdę regularnie pieprzy się z kimś w swoim miejscu pracy, mogę mieć przewagę, której potrzebuję, aby usunąć go z życia [l_name] na dobre)."
 
 # game/day07.rpy:674
 translate polish day07_p_room_choices_8f279fea:
@@ -2654,7 +2654,7 @@ translate polish day07_p_room_evening_choices_367bf6dc:
 translate polish day07_p_room_evening_choices_1f866d60:
 
     # p "{i}(It's 'we' now. A far cry from her outburst a few days earlier. I like this new [b_name].)"
-    p ""
+    p "{i}(Teraz to 'my' Daleki od jej wybuchu kilka dni wcześniej Podoba mi się ten nowy [b_name])"
 
 # game/day07.rpy:840
 translate polish day07_p_room_evening_choices_eeba9c18:
@@ -3170,7 +3170,7 @@ translate polish day07_p_room_evening_choices_5ce7aa04:
 translate polish day07_p_room_evening_choices_c868e7a8:
 
     # r "Good night, my darling [p_name]."
-    r ""
+    r "Dobranoc kochanie [p_name]"
 
 # game/day07.rpy:995
 translate polish day07_p_room_evening_choices_de3384ca:
@@ -3206,7 +3206,7 @@ translate polish day07_p_room_evening_choices_5ce7aa04_1:
 translate polish day07_p_room_evening_choices_c868e7a8_1:
 
     # r "Good night, my darling [p_name]."
-    r ""
+    r "Dobranoc kochanie [p_name]"
 
 # game/day07.rpy:1006
 translate polish day07_p_room_evening_choices_e66eb363:
@@ -3370,133 +3370,131 @@ translate polish strings:
     old "French kiss"
     new "Pocałunek z języczkiem"
 
-<<<<<<< HEAD
-=======
-# TODO: Translation updated at 2023-04-17 12:10
+# TODO: Translation updated at 2024-11-18 13:58
 
-# game/day07.rpy:92
+# game/day07.rpy:93
 translate polish day07_f70b1975:
 
     # r "No, [p_name]. What are you doing?"
-    r "Nie [p_name] Co robisz?"
+    r "Nie [p_name]. Co Ty robisz?"
 
-# game/day07.rpy:106
+# game/day07.rpy:107
 translate polish day07_9d64b096:
 
     # p "Shit, [r_name], I'm so sorry, I thought..."
-    p "Kurde [r_name] tak mi przykro, że pomyślałem"
+    p "Cholera, Rachel naprawdę Cię przepraszam. Myślałem..."
 
-# game/day07.rpy:211
+# game/day07.rpy:216
 translate polish day07_a041eae4:
 
     # p "{i}(Shit. Don't be so suspicious, sis...)"
-    p "{i}(Shit Don't be so suspicious sis)"
+    p "{i}(Cholera. Nie bądź zbyt podejrzliwa siostrzyczko...)"
 
-# game/day07.rpy:213
+# game/day07.rpy:218
 translate polish day07_31e5230e:
 
     # p "{i}(Shit. Don't be so suspicious, [l_name]...)"
-    p "{i}(Gówno nie bądź taki podejrzany [l_name])"
+    p "{i}(Shit Don't be so suspicious [l_name])"
 
-# game/day07.rpy:230
+# game/day07.rpy:235
 translate polish day07_77815930:
 
     # l "[p_name], I need to talk to you."
-    l "[p_name] muszę z tobą porozmawiać"
+    l "[p_name] muszę z Tobą porozmawiać."
 
-# game/day07.rpy:341
+# game/day07.rpy:353
 translate polish day07_p_room_choices_81bb4036:
 
     # p "Anyway, to help you ease the tension, I'm going to give you a nice massage."
-    p "W każdym razie, aby pomóc ci rozładować napięcie, zrobię ci miły masaż"
+    p "W każdym razie, żeby pomóc Ci załagodzić stres, zrobię Ci miły masaż."
 
-# game/day07.rpy:381
+# game/day07.rpy:393
 translate polish day07_p_room_choices_5ca06381:
 
     # p "Please turn around, [b_name]."
-    p "Proszę zawrócić [b_name]"
+    p "Odwróć się proszę."
 
-# game/day07.rpy:383
+# game/day07.rpy:395
 translate polish day07_p_room_choices_5ca06381_1:
 
     # p "Please turn around, [b_name]."
-    p "Proszę zawrócić [b_name]"
+    p "Odwróć się proszę."
 
-# game/day07.rpy:443
+# game/day07.rpy:458
 translate polish day07_p_room_choices_656b7dbb:
 
     # p "Hey, [b_name]. It's me."
-    p "Hej [b_name] To ja"
+    p "Hej Bella. To ja."
 
-# game/day07.rpy:461
+# game/day07.rpy:476
 translate polish day07_p_room_choices_9b9f0e10:
 
     # p "Don't worry, [b_name]. It's only money."
-    p "Nie martw się [b_name] to tylko pieniądze"
+    p "Bella, nie przejmuj się. To tylko pieniądze."
 
-# game/day07.rpy:464
+# game/day07.rpy:479
 translate polish day07_p_room_choices_ea7add68:
 
     # "{i}It takes a long while for [b_name] to calm down. When she disentangles herself from your embrace, it almost seems as if she looks at you with different eyes."
-    "{i}Długo trwa, zanim [b_name] się uspokoi Kiedy wyplątuje się z twojego uścisku, wydaje się niemal, że patrzy na ciebie innymi oczami."
+    "{i}Mija dłuższa chwila zanim Belli udaje się uspokoić. Kiedy uwalnia się z Twojego uścisku, wydaje Ci się, że zmienił się sposób w jaki na Ciebie patrzy."
 
-# game/day07.rpy:474
+# game/day07.rpy:489
 translate polish day07_p_room_choices_e7aad70a:
 
     # b "With your help, I paid the money in full yesterday and I thought that was it."
-    b "Z twoją pomocą zapłaciłem wczoraj pieniądze w całości i myślałem, że to wszystko"
+    b "Z Twoją pomocą zapłaciłam wczoraj całą kwotę jakiej zażądał i myślałam, że to już koniec."
 
-# game/day07.rpy:507
+# game/day07.rpy:522
 translate polish day07_p_room_choices_1fbb89e9:
 
     # p "{i}(Ah, sis, you should've used reverse image search before compromising yourself...)"
-    p "{i}(Ah sis powinnaś była użyć reverse image search przed skompromitowaniem się)"
+    p "{i}(Oh siostrzyczko, powinnaś zweryfikować jego zdjęcia przed wysłaniem mu swoich...)"
 
-# game/day07.rpy:509
+# game/day07.rpy:524
 translate polish day07_p_room_choices_efe00c8e:
 
     # p "{i}(Ah, [b_name], you should've used reverse image search before compromising yourself...)"
-    p "{i}(Ach [b_name] powinieneś był użyć reverse image search przed skompromitowaniem się)"
+    p "{i}(Ah [b_name] powinieneś był użyć odwrotnego wyszukiwania obrazu, zanim się skompromitowałeś)"
 
-# game/day07.rpy:533
+# game/day07.rpy:548
 translate polish day07_p_room_choices_038e8058:
 
     # p "First, I need to understand how the arrangement with that MisterX works."
-    p "Najpierw muszę zrozumieć jak działa układ z tym MisterX"
+    p "Najpierw musisz mi wytłumaczyć jak działa ta cała umowa z MisteremX."
 
-# game/day07.rpy:626
+# game/day07.rpy:644
 translate polish day07_p_room_choices_22964eee:
 
     # p "{i}(That's not how a store works, Brody. People should give you money and get groceries, not the other way around.)"
-    p "{i}(To nie tak działa sklep Brody Ludzie powinni dawać ci pieniądze i dostawać artykuły spożywcze nie na odwrót)"
+    p "{i}(Brody, to nie tak działają sklepy, to ludzie dają Tobie pieniądze i dostają zakupy, a nie w drugą stronę.)"
 
-# game/day07.rpy:644
+# game/day07.rpy:662
 translate polish day07_p_room_choices_997fff22:
 
     # p "Well, at least you punched him real good."
-    p "Cóż, przynajmniej uderzyłeś go naprawdę dobrze"
+    p "Przynajmniej sprzedałaś mu porządnego plaskacza."
 
-# game/day07.rpy:770
+# game/day07.rpy:793
 translate polish day07_alley_c65d42e9:
 
     # "{i}On a nondescript street, MisterX slows down and walks up to a house, fetches a key from his pocket and unlocks the front door."
-    "{i}MisterX zwalnia na ulicy i podchodzi do domu, wyciąga z kieszeni klucz i otwiera drzwi wejściowe."
+    "{i}Na jednej z ulic, MisterX zwalnia i podchodzi do domu, wyciąga klucz z kieszeni i otwiera drzwi."
 
-# game/day07.rpy:812
+# game/day07.rpy:841
 translate polish day07_p_room_evening_choices_02f85bad:
 
     # p "It's me, [b_name]."
-    p "To ja [b_name]"
+    p "Bella, to ja."
 
-# game/day07.rpy:937
+# game/day07.rpy:971
 translate polish day07_p_room_evening_choices_d717ed3d:
 
     # m "I'm going to bed. Busy day tomorrow. Sleep well, [p_name]."
-    m "Idę spać Pracowity dzień jutro Śpij dobrze [p_name]"
+    m "Idę spać. Jutro ciężki dzień. Śpij dobrze [p_name]."
 
-# game/day07.rpy:981
+# game/day07.rpy:1015
 translate polish day07_p_room_evening_choices_34eda4f8:
 
     # r "Now I'm intrigued! Bring it on, mister!"
-    r "Teraz jestem zaintrygowany! Bring it on mister!"
->>>>>>> polish
+    r "Teraz mnie zaciekawiłeś! Pokaż mi!"
+

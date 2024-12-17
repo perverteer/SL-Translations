@@ -32,7 +32,7 @@ translate polish day24_ed13bca6:
 translate polish day24_7b4018b3:
 
     # "{i}As you get out of Mrs. Smith's bed, you notice a piece of paper lying on the nightstand."
-    ""
+    "{i}Kiedy wstajesz z łóżka pani Smith, zauważasz kartkę papieru leżącą na nocnej szafce."
 
 # game/day24.rpy:27
 translate polish day24_74bf377a:
@@ -50,7 +50,7 @@ translate polish day24_ff9a76d0:
 translate polish day24_2385d786:
 
     # p "{i}'Dear [p_name], You've probably already noticed that I'm gone. Don't worry, I just need to be alone and have some time to think things over. Thank you again for a lovely evening. Speak to you soon. Love, [m_name].'"
-    p ""
+    p "{i}'Drogi [p_name] Prawdopodobnie już zauważyłeś, że mnie nie ma Nie martw się Po prostu muszę pobyć sama i mieć trochę czasu na przemyślenie wszystkiego Jeszcze raz dziękuję za uroczy wieczór Do usłyszenia wkrótce Love [m_name]'"
 
 # game/day24.rpy:32
 translate polish day24_95cf1409:
@@ -176,7 +176,7 @@ translate polish day24_choices_e088eeea:
 translate polish day24_choices_65003725:
 
     # p "Yup, when I was still living with my dad."
-    p ""
+    p "Tak, kiedy jeszcze mieszkałem z tatą"
 
 # game/day24.rpy:75
 translate polish day24_choices_41ada6e5:
@@ -230,7 +230,7 @@ translate polish day24_choices_af3f55f4:
 translate polish day24_choices_693d9ba6:
 
     # "{i}Soon, you're both completely absorbed by the music, the dance and everything else falls away. [l_name] smiles at you."
-    ""
+    "{i}Wkrótce oboje jesteście całkowicie pochłonięci muzyką, tańcem i wszystko inne znika [l_name] uśmiecha się do ciebie."
 
 # game/day24.rpy:90
 translate polish day24_choices_c996a892:
@@ -512,7 +512,7 @@ translate polish day24_choices_8156814f:
 translate polish day24_choices_ebfbdd55:
 
     # "{i}Seizing the moment, you pull your friend towards you and kiss her lips."
-    ""
+    "{i}Korzystając z chwili, przyciągasz swoją przyjaciółkę do siebie i całujesz jej usta."
 
 # game/day24.rpy:167
 translate polish day24_choices_9e19b723:
@@ -1022,7 +1022,7 @@ translate polish day24_choices_76fa4f47:
 translate polish day24_choices_f0faa684:
 
     # "{i}Still at a safe distance from your friend, Dwayne stops. [b_name] looks at him long and hard. When she finally speaks, you detect a small quiver of fear in her voice."
-    ""
+    "{i}Wciąż w bezpiecznej odległości od swojego przyjaciela Dwayne zatrzymuje się [b_name] patrzy na niego długo i intensywnie Kiedy w końcu mówi, w jej głosie można wyczuć małe drżenie strachu."
 
 # game/day24.rpy:300
 translate polish day24_choices_bd5e7286:
@@ -1226,7 +1226,7 @@ translate polish day24_choices_42d6974f:
 translate polish day24_choices_e7933b53:
 
     # "{i}Slowly and with palpable foreboding, Dwayne complies and stands naked before your friend."
-    ""
+    "{i}Powoli i z wyczuwalnym niepokojem Dwayne podporządkowuje się i staje nagi przed swoim przyjacielem."
 
 # game/day24.rpy:344
 translate polish day24_choices_909c9666:
@@ -1388,7 +1388,7 @@ translate polish day24_choices_dad7cabb:
 translate polish day24_choices_441d294e:
 
     # "{i}A little panicked, you run in the opposite direction. [b_name]'s hand is in yours and you grip it tightly. Your friend is still laughing nervously about what just happened."
-    ""
+    "{i}Nieco spanikowany biegniesz w przeciwnym kierunku [b_name] trzyma twoją dłoń i ściskasz ją mocno Twój przyjaciel wciąż śmieje się nerwowo z tego, co się właśnie wydarzyło."
 
 # game/day24.rpy:380
 translate polish day24_choices_49781082:
@@ -1628,7 +1628,7 @@ translate polish day24_choices_f448c0b1:
 translate polish day24_choices_adfff55f:
 
     # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection which is growing in anticipation."
-    ""
+    "{i}Teasingly slow [b_name] rozpina spodnie i uwalnia erekcję, która rośnie w oczekiwaniu."
 
 # game/day24.rpy:430
 translate polish day24_choices_b8fa0169:
@@ -1706,7 +1706,7 @@ translate polish day24_choices_a5975cb5:
 translate polish day24_choices_0559bb86:
 
     # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
-    ""
+    "{i}Pilnie [b_name] zlizuje precum, które pokrywa główkę twojego kutasa."
 
 # game/day24.rpy:449
 translate polish day24_choices_615f67a0:
@@ -1748,7 +1748,7 @@ translate polish day24_choices_36a6ba48:
 translate polish day24_choices_7323eec2:
 
     # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
-    ""
+    "{i}[b_name] przestaje stymulować twój trzon ręką i masuje twoje jaja, zamiast tego pozwalając swoim ustom wykonać całą ciężką pracę."
 
 # game/day24.rpy:461
 translate polish day24_choices_597e5618:
@@ -1826,7 +1826,7 @@ translate polish day24_choices_255c51cc:
 translate polish day24_choices_0a7497cd:
 
     # "{i}You sweep up [b_name] from behind and remove her bodily from Dwayne. Her last kicks end up hitting the air."
-    ""
+    "{i}Podnosisz [b_name] od tyłu i usuwasz ją z ciała Dwayne'a. Jej ostatnie kopnięcia trafiają w powietrze."
 
 # game/day24.rpy:500
 translate polish day24_choices_8d1d7f26:
@@ -1862,7 +1862,7 @@ translate polish day24_choices_1042cc85:
 translate polish day24_choices_0621b687:
 
     # "{i}Your friend is unable to speak and you just hold her close."
-    ""
+    "{i}Twoja przyjaciółka nie jest w stanie mówić, a ty po prostu trzymasz ją blisko."
 
 # game/day24.rpy:509
 translate polish day24_choices_ff00032f:
@@ -1946,7 +1946,7 @@ translate polish day24_choices_c2469b9d:
 translate polish day24_choices_ef266da0:
 
     # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
-    ""
+    "{i}Rozpinasz spodnie i czekasz, aż [b_name] zauważy twoją rosnącą erekcję."
 
 # game/day24.rpy:542
 translate polish day24_choices_009d6b3a:
@@ -2018,7 +2018,7 @@ translate polish day24_choices_a5975cb5_1:
 translate polish day24_choices_0559bb86_1:
 
     # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
-    ""
+    "{i}Pilnie [b_name] zlizuje precum, które pokrywa główkę twojego kutasa."
 
 # game/day24.rpy:561
 translate polish day24_choices_85eef047:
@@ -2066,7 +2066,7 @@ translate polish day24_choices_36a6ba48_1:
 translate polish day24_choices_7323eec2_1:
 
     # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
-    ""
+    "{i}[b_name] przestaje stymulować twój trzon ręką i masuje twoje jaja, zamiast tego pozwalając swoim ustom wykonać całą ciężką pracę."
 
 # game/day24.rpy:574
 translate polish day24_choices_597e5618_1:
@@ -2690,7 +2690,7 @@ translate polish day24_evening_choices_c53373d1:
 translate polish day24_evening_choices_565a891e:
 
     # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
-    ""
+    "{i}Kładziesz ręce na jej ramionach i masujesz jej plecy [r_name] zamyka oczy z przyjemności."
 
 # game/day24.rpy:754
 translate polish day24_evening_choices_37fe5aac:
@@ -3056,7 +3056,7 @@ translate polish day24_evening_choices_0ba03374:
 translate polish day24_evening_choices_c8affe1d:
 
     # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
-    ""
+    "{i}Spłukujesz ciało swojej przyjaciółki rękami, pozbywając się mydlin i dając sobie pretekst do dotykania jej, jak tylko chcesz, nie dlatego, że [r_name] narzeka."
 
 # game/day24.rpy:835
 translate polish day24_evening_choices_3943a244:
@@ -3277,4 +3277,1386 @@ translate polish strings:
     # game/day24.rpy:532
     old "Pull out your cock"
     new "Wyciągnij swojego fiuta"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day24.rpy:85
+translate polish day24_choices_6920cede:
+
+    # "{i}You take [l_name]'s soft hand in yours, and she looks shyly at you."
+    "{i}Bierzesz miękkie ręce Lizy w swoje dłonie, dziewczyna patrzy na Ciebie nieśmiało."
+
+# game/day24.rpy:182
+translate polish day24_choices_6de79224:
+
+    # "{i}You don't stop, however, and [l_name] doesn't either. Your hands explore the curves of her body through the thin layer of fabric of her dress."
+    "{i}Nie przestajesz, ale Liza też nie próbuje. Twoje dłonie błądzą po krągłościach jej ciała, czujesz jej ciepłą skórę przez cienki materiał sukienki."
+
+# game/day24.rpy:187
+translate polish day24_choices_91a0c645:
+
+    # "{i}The only other occasions you've seen her burn with passion were when you were alone with her in your room and that night on the beach."
+    "{i}Jedyne okazje, kiedy widziałeś ją płonącą namiętnością, to kiedy byłeś z nią sam na sam w pokoju i tamtej nocy na plaży."
+
+# game/day24.rpy:189
+translate polish day24_choices_66d3d0fe:
+
+    # "{i}The only other occasion you've seen her burn with passion was when you were alone with her that night on the beach."
+    "{i}Jedyną okazją, kiedy widziałeś ją płonącą namiętnością, było to, że byłeś z nią sam na sam tamtej nocy na plaży."
+
+# game/day24.rpy:191
+translate polish day24_choices_282d7e6e:
+
+    # "{i}The only other occasion you've seen her burn with passion was when you were alone with her in your room."
+    "{i}Jedyną okazją, kiedy widziałeś ją płonącą namiętnością, był moment, gdy byłeś z nią sam na sam w swoim pokoju."
+
+# game/day24.rpy:308
+translate polish day24_choices_b6190aa7:
+
+    # "{i}Dwayne slowly approaches, seemingly truly frightened by the whole situation."
+    "{i}Dwayne powoli się zbliża, wyglądając na naprawdę przerażonego całą sytuacją."
+
+# game/day24.rpy:318
+translate polish day24_choices_50a7ceb9:
+
+    # b "I wanted to talk to you, Dwayne. About what you did. How it has affected me."
+    b "Chciałam z Tobą porozmawiać Dwayne. O tym co zrobiłeś. Jak to na mnie wpłynęło."
+
+# game/day24.rpy:324
+translate polish day24_choices_d9b950c0:
+
+    # b "You just thought I was a dumb bitch, and I shouldn't have sent those pictures in the first place?"
+    b "Po prostu myślałeś, że jestem głupią dziwką i nie powinnam wysyłać takich zdjęć?"
+
+# game/day24.rpy:359
+translate polish day24_choices_dc9845e9:
+
+    # b "You've tormented me with your twisted schemes, and now you stand before me with your pencil dick dangling in the wind."
+    b "Dręczyłeś mnie swoimi pokręconymi działaniami, a teraz stoisz przede mną z tym śmiesznym dyndającym fiutkiem."
+
+# game/day24.rpy:370
+translate polish day24_choices_7812dacf:
+
+    # "{i}Dwayne turns around and jogs down the alley towards the main road. When [b_name] screams at him, he accelerates in panic, not even bothering to cover himself."
+    "{i}Dwayne odwraca się i biegnie w dół alejki, w kierunku głównej ulicy, Bella krzyczy coś do niego, przez co chłopak jeszcze przyśpiesza w panice, nie zawracając sobie nawet głowy zakrywaniem się."
+
+# game/day24.rpy:509
+translate polish day24_choices_81225bf2:
+
+    # "{i}You select the images of [b_name] and delete them from your hard drive."
+    "{i}Wybierasz obrazy [b_name] i usuwasz je z dysku twardego."
+
+# game/day24.rpy:602
+translate polish day24_b_cinema_blowjob_a9cef6c6:
+
+    # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
+    "{i}Bella nagle wyprostowuje się i przysuwa do Ciebie, jej wargi stykają się z Twoimi i całujecie w półmroku sali kinowej."
+
+# game/day24.rpy:603
+translate polish day24_b_cinema_blowjob_ef068625:
+
+    # b "You make me so happy!"
+    b "Jestem z Tobą taka szczęśliwa!"
+
+# game/day24.rpy:604
+translate polish day24_b_cinema_blowjob_e0579f1c:
+
+    # p "And you're the best thing that's happened to me!"
+    p "A Ty jesteś najlepszym co mi się w życiu przytrafiło!"
+
+# game/day24.rpy:606
+translate polish day24_b_cinema_blowjob_038eeb83:
+
+    # "{i}A sudden outburst in the movie makes you mindful of your surroundings again, and you continue watching the film."
+    "{i}Nagły rozbłysk ekranu przypomina wam gdzie się znajdujecie i wracacie do oglądania filmu."
+
+# game/day24.rpy:607
+translate polish day24_b_cinema_blowjob_7b3f982b:
+
+    # "{i}As you glance at [b_name], you see a smile cross her face."
+    "{i}Kiedy zerkasz na Bellę, widzisz na jej twarzy ciepły uśmiech."
+
+# game/day24.rpy:608
+translate polish day24_b_cinema_blowjob_505e98ae:
+
+    # b "Why don't we have a little fun while we're here?"
+    b "Może trochę się zabawimy, póki tu jesteśmy?"
+
+# game/day24.rpy:609
+translate polish day24_b_cinema_blowjob_d4ca92e2:
+
+    # p "You mean?"
+    p "Masz na myśli...?"
+
+# game/day24.rpy:610
+translate polish day24_b_cinema_blowjob_4b2343ad:
+
+    # b "Yes. Don't worry, I'll do the work..."
+    b "Tak. Nie przejmuj się, ja się wszystkim zajmę..."
+
+# game/day24.rpy:613
+translate polish day24_b_cinema_blowjob_d7fabfaa:
+
+    # "{i}Teasingly slow, your sister unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Zmysłowo powoli, Twoja siostra rozpina Twoje spodnie i uwalania Twoją erekcję, która już rośnie w oczekiwaniu na to co nastąpi."
+
+# game/day24.rpy:615
+translate polish day24_b_cinema_blowjob_87307cb2:
+
+    # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Teasingly slow [b_name] rozpina spodnie i uwalnia erekcję, która rośnie w oczekiwaniu."
+
+# game/day24.rpy:616
+translate polish day24_b_cinema_blowjob_b8fa0169:
+
+    # b "You don't need much encouragement, do you?"
+    b "Nie potrzebujesz dużej zachęty, co?"
+
+# game/day24.rpy:617
+translate polish day24_b_cinema_blowjob_8c65b140:
+
+    # p "I'm terrible at self-control..."
+    p "Jestem beznadziejny w samokontroli..."
+
+# game/day24.rpy:619
+translate polish day24_b_cinema_blowjob_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}Bella oplata Twój trzon swoimi ciepłymi palcami, jej dotyk wysyła dreszcze wzdłuż Twojego kręgosłupa."
+
+# game/day24.rpy:620
+translate polish day24_b_cinema_blowjob_5ac5bdd8:
+
+    # b "What am I going to do with you?"
+    b "Co ja mam tu z Tobą zrobić?"
+
+# game/day24.rpy:625
+translate polish day24_b_cinema_blowjob_28621535:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees and looks up at you with her big blue eyes, her soft lips touching your tip."
+    "{i}Na początku myślisz, że będzie cię szarpać, ale dziewczyna upada na kolana i patrzy na ciebie swoimi dużymi niebieskimi oczami, a jej miękkie usta dotykają twojego czubka."
+
+# game/day24.rpy:626
+translate polish day24_b_cinema_blowjob_588bfeb2:
+
+    # b "Does your dick like kisses as well?"
+    b "Twój fiut też lubi całusy?"
+
+# game/day24.rpy:627
+translate polish day24_b_cinema_blowjob_cc4c23cb:
+
+    # p "Y-y-yes."
+    p "T- Tak."
+
+# game/day24.rpy:628
+translate polish day24_b_cinema_blowjob_5622981a:
+
+    # b "Good."
+    b "To dobrze."
+
+# game/day24.rpy:630
+translate polish day24_b_cinema_blowjob_2e7c6246:
+
+    # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Z tymi słowami, Bella zaczyna całować delikatnie główkę Twojego penisa. Mokry dotyk jej ust sprawia, że natychmiastowo jesteś gotowy się spuścić."
+
+# game/day24.rpy:631
+translate polish day24_b_cinema_blowjob_9073349b:
+
+    # b "Not so fast mister. Or did you just twitch?"
+    b "Nie tak szybko kolego. A może tylko Ci drgnął?"
+
+# game/day24.rpy:632
+translate polish day24_b_cinema_blowjob_6b3673f0:
+
+    # p "You're amazing, [b_name]."
+    p "Jesteś niesamowita Bella."
+
+# game/day24.rpy:635
+translate polish day24_b_cinema_blowjob_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Twoja siostra sumiennie zlizuje pre-ejakulat, który pokrywa główkę Twojego penisa."
+
+# game/day24.rpy:637
+translate polish day24_b_cinema_blowjob_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Pilnie [b_name] zlizuje precum, które pokrywa główkę twojego kutasa."
+
+# game/day24.rpy:638
+translate polish day24_b_cinema_blowjob_615f67a0:
+
+    # b "Mmmm, a taste of what's to come."
+    b "Mmmm, mały przedsmak tego, co nadejdzie."
+
+# game/day24.rpy:640
+translate polish day24_b_cinema_blowjob_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}Bella kontynuuje badanie Twojego żołędzia swoim językiem, wsuwa Twojego penisa coraz głębiej i głębiej do swoich ust, pokrywając go swoją ciepłą śliną."
+
+# game/day24.rpy:642
+translate polish day24_b_cinema_blowjob_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Kiedy wreszcie wsadza go w całości do ust i zaczyna ssać, czujesz jakby każdy nerw w Twoim ciele wybuchł w rozkoszy."
+
+# game/day24.rpy:643
+translate polish day24_b_cinema_blowjob_afa9afa1:
+
+    # p "G-g-god... [b_name]!!!"
+    p "B- Boże... Bella!!!"
+
+# game/day24.rpy:644
+translate polish day24_b_cinema_blowjob_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Podczas spokojniejszych momentów filmu, ciszę sali kinowej wypełniają mokre odgłosy Belli pracującej nad Twoim fiutem."
+
+# game/day24.rpy:647
+translate polish day24_b_cinema_blowjob_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Twoja siostra przestaje stymulować Twojego penisa dłonią i zaczyna masować Twoje jądra, pozwalając aby jej usta wykonywały większość roboty."
+
+# game/day24.rpy:649
+translate polish day24_b_cinema_blowjob_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] przestaje stymulować twój trzon ręką i masuje twoje jaja, zamiast tego pozwalając swoim ustom wykonać całą ciężką pracę."
+
+# game/day24.rpy:650
+translate polish day24_b_cinema_blowjob_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}Wrażenie, że zaraz eksplodujesz staje się coraz silniejsze i Bella zaczyna ssać jeszcze mocniej, próbując doprowadzić Cię do orgazmu."
+
+# game/day24.rpy:654
+translate polish day24_b_cinema_blowjob_5b70a97e:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "B- Boże tak, Bella, dochodzę, dochodzę..."
+
+# game/day24.rpy:661
+translate polish day24_b_cinema_blowjob_d4edc6ed:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Ssąc, liżąc i masując Cię swoimi ustami aż do ostatniego momentu przed Twoim wytryskiem, Bella wyciąga go ze swoich ust i wcelowuje go w swoją twarz. Gęste strumienie spermy pokrywają jej policzki i czoło."
+
+# game/day24.rpy:669
+translate polish day24_b_cinema_blowjob_5b70a97e_1:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "B- Boże tak, Bella, dochodzę, dochodzę..."
+
+# game/day24.rpy:676
+translate polish day24_b_cinema_blowjob_a7f54eac:
+
+    # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
+    "{i}Gęste strumienie spermy wypełniają jej usta. Bella nie przestaje stymulować Twojego penisa, aż do wyssania z Ciebie ostatniej kropli. Na koniec, połyka wszystko."
+
+# game/day24.rpy:686
+translate polish day24_b_cinema_blowjob_0f40afbb:
+
+    # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
+    "{i}Zadowolona, Bella opiera głowę na Twoich kolanach i oglądacie resztę filmu w ciszy, przed powrotem do domu."
+
+# game/day24.rpy:696
+translate polish day24_b_cinema_blowjob_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Czy [b_name] jest pełnym subem w tej scenie?."
+
+# game/day24.rpy:700
+translate polish day24_b_cinema_blowjob_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] w pełni uległy"
+
+# game/day24.rpy:703
+translate polish day24_b_cinema_blowjob_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nie jest w pełni uległy"
+
+# game/day24.rpy:709
+translate polish day24_b_cinema_blowjob_hard_c2469b9d:
+
+    # "{i}You unzip your pants and wait for your sister to notice your growing erection."
+    "{i}Rozpinasz spodnie i czekasz aż Twoja siostra zauważy Twoją rosnącą erekcję."
+
+# game/day24.rpy:711
+translate polish day24_b_cinema_blowjob_hard_ef266da0:
+
+    # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
+    "{i}Rozpinasz spodnie i czekasz, aż [b_name] zauważy twoją rosnącą erekcję."
+
+# game/day24.rpy:714
+translate polish day24_b_cinema_blowjob_hard_009d6b3a:
+
+    # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
+    "{i}Kiedy wreszcie zauważa, jej reakcją nie jest szok, czy strach. Zamiast tego, z lekkim wahaniem kładzie dłoń na Twoim udzie."
+
+# game/day24.rpy:715
+translate polish day24_b_cinema_blowjob_hard_2a01b12d:
+
+    # "{i}Slowly but surely her hand moves towards your erection."
+    "{i}Powoli, ale stanowczo przesuwa dłoń w kierunku Twojego penisa."
+
+# game/day24.rpy:717
+translate polish day24_b_cinema_blowjob_hard_eea3a172:
+
+    # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
+    "{i}Kiedy wreszcie zauważa, bierzesz jedną z jej dłoni i kładziesz ją na swoim udzie."
+
+# game/day24.rpy:718
+translate polish day24_b_cinema_blowjob_hard_139feee7:
+
+    # b "You want me to?"
+    b "Chcesz żebym...?"
+
+# game/day24.rpy:719
+translate polish day24_b_cinema_blowjob_hard_ecd502cb:
+
+    # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
+    p "Rób jak uważasz, ale ja dalej jestem spięty po tej naszej akcji z Dwayne'em."
+
+# game/day24.rpy:721
+translate polish day24_b_cinema_blowjob_hard_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}Bella oplata Twój trzon swoimi ciepłymi palcami, jej dotyk wysyła dreszcze wzdłuż Twojego kręgosłupa."
+
+# game/day24.rpy:722
+translate polish day24_b_cinema_blowjob_hard_17e757d2:
+
+    # p "Mmmm, yes [b_name], take care of me."
+    p "Mmmm, tak Bella, zajmij się mną."
+
+# game/day24.rpy:724
+translate polish day24_b_cinema_blowjob_hard_7b6910bb:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your tip."
+    "{i}Z początku myślisz, że zrobi Ci dobrze rękę, ale Bella klęka przed Tobą z własnej woli, jej miękkie wargi zmierzają prosto do czubka Twojego penisa."
+
+# game/day24.rpy:726
+translate polish day24_b_cinema_blowjob_hard_e85153db:
+
+    # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Bez słowa, Bella zaczyna całować delikatnie główkę Twojego penisa. Mokry dotyk jej ust sprawia, że natychmiastowo jesteś gotowy się spuścić."
+
+# game/day24.rpy:727
+translate polish day24_b_cinema_blowjob_hard_10e78841:
+
+    # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over the head of your cock."
+    "{i}Niewyobrażalną siłą woli udaje Ci się powstrzymać nadchodzący orgazm, ale pre-ejakulat zaczął już spływać po Twoim penisie."
+
+# game/day24.rpy:733
+translate polish day24_b_cinema_blowjob_hard_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Twoja siostra sumiennie zlizuje pre-ejakulat, który pokrywa główkę Twojego penisa."
+
+# game/day24.rpy:735
+translate polish day24_b_cinema_blowjob_hard_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Pilnie [b_name] zlizuje precum, które pokrywa główkę twojego kutasa."
+
+# game/day24.rpy:736
+translate polish day24_b_cinema_blowjob_hard_85eef047:
+
+    # p "A little taste of what's to come."
+    p "Mały przedsmak tego, co nadejdzie."
+
+# game/day24.rpy:737
+translate polish day24_b_cinema_blowjob_hard_16c6f644:
+
+    # p "Keep going, sweetling."
+    p "Kontynuuj słodziutka."
+
+# game/day24.rpy:739
+translate polish day24_b_cinema_blowjob_hard_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}Bella kontynuuje badanie Twojego żołędzia swoim językiem, wsuwa Twojego penisa coraz głębiej i głębiej do swoich ust, pokrywając go swoją ciepłą śliną."
+
+# game/day24.rpy:741
+translate polish day24_b_cinema_blowjob_hard_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Kiedy wreszcie wsadza go w całości do ust i zaczyna ssać, czujesz jakby każdy nerw w Twoim ciele wybuchł w rozkoszy."
+
+# game/day24.rpy:742
+translate polish day24_b_cinema_blowjob_hard_4eb69aa0:
+
+    # p "G-g-god... [b_name], right there!"
+    p "B- Boże... Bella, właśnie tak!"
+
+# game/day24.rpy:743
+translate polish day24_b_cinema_blowjob_hard_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Podczas spokojniejszych momentów filmu, ciszę sali kinowej wypełniają mokre odgłosy Belli pracującej nad Twoim fiutem."
+
+# game/day24.rpy:746
+translate polish day24_b_cinema_blowjob_hard_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Twoja siostra przestaje stymulować Twojego penisa dłonią i zaczyna masować Twoje jądra, pozwalając aby jej usta wykonywały większość roboty."
+
+# game/day24.rpy:748
+translate polish day24_b_cinema_blowjob_hard_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] przestaje stymulować twój trzon ręką i masuje twoje jaja, zamiast tego pozwalając swoim ustom wykonać całą ciężką pracę."
+
+# game/day24.rpy:749
+translate polish day24_b_cinema_blowjob_hard_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}Wrażenie, że zaraz eksplodujesz staje się coraz silniejsze i Bella zaczyna ssać jeszcze mocniej, próbując doprowadzić Cię do orgazmu."
+
+# game/day24.rpy:753
+translate polish day24_b_cinema_blowjob_hard_15724afa:
+
+    # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
+    p "Dochodzę Bella, dochodzę... Pokaż mi tą swoją śliczną twarzyczkę."
+
+# game/day24.rpy:760
+translate polish day24_b_cinema_blowjob_hard_c81a3959:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Ssąc, liżąc i masując Cię swoimi ustami aż do ostatniego momentu przed Twoim wytryskiem, Bella wyciąga go ze swoich ust i posłusznie wcelowuje go w swoją twarz. Gęste strumienie spermy pokrywają jej policzki i czoło."
+
+# game/day24.rpy:768
+translate polish day24_b_cinema_blowjob_hard_367fcf46:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
+    p "B- Boże tak, Bella, dochodzę, dochodzę... Nie przestawaj!"
+
+# game/day24.rpy:775
+translate polish day24_b_cinema_blowjob_hard_1cda4a77:
+
+    # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your tip and shaft until the last drops of semen have entered, then she swallows."
+    "{i}Gęste strumienie spermy wypełniają jej usta. Bella posłusznie nie przestaje stymulować Twojego penisa, aż do wyssania z Ciebie ostatniej kropli. Na koniec, połyka wszystko."
+
+# game/day24.rpy:785
+translate polish day24_b_cinema_blowjob_hard_a53e7326:
+
+    # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
+    "{i}Bella siada ponownie obok Ciebie i oglądacie resztę filmu ciszy. Nie protestuje kiedy obejmujesz ją ramieniem i kiedy zerkasz na nią ukradkiem, wydaje Ci się, że widzisz na jej twarzy mglisty uśmiech."
+
+# game/day24.rpy:799
+translate polish day24_l_masturbation_96021e66:
+
+    # l "{i}(Hmmmm, I can't sleep.)"
+    l "{i}(Hmmmm, nie mogę spać.)"
+
+# game/day24.rpy:800
+translate polish day24_l_masturbation_8d02f8ee:
+
+    # l "{i}(I don't know what came over me today after the dance class.)"
+    l "{i}(Nie wiem co mnie dzisiaj napadło, po lekcji tańca.)"
+
+# game/day24.rpy:801
+translate polish day24_l_masturbation_7c5b21b2:
+
+    # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
+    l "{i}(Taniec był cudowny, to jak ruszaliśmy się po pokoju. To jak mnie prowadził.)"
+
+# game/day24.rpy:803
+translate polish day24_l_masturbation_d6f704e1:
+
+    # l "{i}(But those... those urges... I've never felt anything so strong.)"
+    l "{i}(Ale te... Te żądze... Nigdy nie czułam niczego tak silnego.)"
+
+# game/day24.rpy:804
+translate polish day24_l_masturbation_3cbc1725:
+
+    # l "{i}(Maybe I'm just horny?)"
+    l "{i}(Może po prostu jestem napalona?)"
+
+# game/day24.rpy:805
+translate polish day24_l_masturbation_02645f0d:
+
+    # l "{i}(I was never horny... But that was before...)"
+    l "{i}(Nigdy nie byłam napalona... Ale to było przed...)"
+
+# game/day24.rpy:806
+translate polish day24_l_masturbation_cddb261a:
+
+    # l "{i}(I'm just going to touch myself, just a little bit.)"
+    l "{i}(Po prostu się podotykam, tylko odrobinę.)"
+
+# game/day24.rpy:808
+translate polish day24_l_masturbation_117ee799:
+
+    # l "{i}(Mmmmm. That feels good.)"
+    l "{i}(Mmmmm. To przyjemne.)"
+
+# game/day24.rpy:809
+translate polish day24_l_masturbation_f7f616cf:
+
+    # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
+    l "{i}(Co jeśli ktoś wejdzie do pokoju i mnie zobaczy jak tu leżę, obnażona?)"
+
+# game/day24.rpy:815
+translate polish day24_l_masturbation_f74bcfb0:
+
+    # l "Aaah!"
+    l "Aaah!"
+
+# game/day24.rpy:816
+translate polish day24_l_masturbation_9b376897:
+
+    # l "{i}(I'm so wet, how can I be so wet?)"
+    l "{i}(Jestem taka mokra, jak mogę być aż tak mokra?)"
+
+# game/day24.rpy:817
+translate polish day24_l_masturbation_2ed3fe55:
+
+    # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
+    l "{i}(Przecież myślałam tylko o nim. O jego silnych ramionach, o bliskości jego ciała...)"
+
+# game/day24.rpy:819
+translate polish day24_l_masturbation_e00b402f:
+
+    # l "{i}(I should slip a finger in, that feels so nice.)"
+    l "{i}(Powinnam wsunąć palec do środka, to takie przyjemne.)"
+
+# game/day24.rpy:820
+translate polish day24_l_masturbation_5c161461:
+
+    # l "{i}(And I could pretend it was his...)"
+    l "{i}(I mogłabym udawać, że to jego...)"
+
+# game/day24.rpy:821
+translate polish day24_l_masturbation_a66c0813:
+
+    # l "{i}(Damnit. I shouldn't think like that.)"
+    l "{i}(Cholera. Nie powinnam tak myśleć.)"
+
+# game/day24.rpy:822
+translate polish day24_l_masturbation_3124a776:
+
+    # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
+    l "{i}(Ale to takie dobre uczucie! Ciekawe jakby to było, gdyby on...)"
+
+# game/day24.rpy:827
+translate polish day24_l_masturbation_ae8b0feb:
+
+    # l "{i}(No!)"
+    l "{i}(Nie!)"
+
+# game/day24.rpy:828
+translate polish day24_l_masturbation_37bc17c2:
+
+    # l "{i}(I could use that thing... No harm in trying...)"
+    l "{i}(Mogłabym użyć tego czegoś... Nie zaszkodzi spróbować...)"
+
+# game/day24.rpy:830
+translate polish day24_l_masturbation_75351201:
+
+    # l "{i}(Now, where did I leave it?)"
+    l "{i}(Tylko gdzie ja go wsadziłam?)"
+
+# game/day24.rpy:831
+translate polish day24_l_masturbation_cbf43995:
+
+    # l "{i}(I tucked it away somewhere under my bras.)"
+    l "{i}(Schowałam go gdzieś pod moimi stanikami.)"
+
+# game/day24.rpy:833
+translate polish day24_l_masturbation_0474ea86:
+
+    # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
+    l "{i}(Boże, to jest takie obsceniczne. Te wszystkie prążki i wybrzuszenia... Założę się, że będzie zimny w dotyku.)"
+
+# game/day24.rpy:835
+translate polish day24_l_masturbation_5927cf3e:
+
+    # l "{i}(Surely, only cheap porn stars use this...)"
+    l "{i}(Pewnie tylko tanie gwiazdki porno z nich korzystają...)"
+
+# game/day24.rpy:836
+translate polish day24_l_masturbation_4211705b:
+
+    # l "{i}(Let's turn it on...)"
+    l "{i}(Włączę go...)"
+
+# game/day24.rpy:841
+translate polish day24_l_masturbation_28e7e8c3:
+
+    # l "{i}(Oh god, that's far too intense! This thing buzzes like an angry bee.)"
+    l "{i}(O Boże, to zbyt intensywne! Ta rzecz brzęczy jak wściekła pszczoła)"
+
+# game/day24.rpy:842
+translate polish day24_l_masturbation_ad217b4b:
+
+    # l "{i}(No way I'm going to put that inside of me...)"
+    l "{i}(Nie ma szans, żebym wsadziła to w siebie...)"
+
+# game/day24.rpy:843
+translate polish day24_l_masturbation_a27cdeef:
+
+    # l "{i}(Let's see how it feels against my lips.)"
+    l "{i}(Zobaczmy jakie to będzie uczucie, jak przyłożę go do moich warg.)"
+
+# game/day24.rpy:849
+translate polish day24_l_masturbation_819d64c5:
+
+    # l "Ooh god!"
+    l "Ooh Boże!"
+
+# game/day24.rpy:850
+translate polish day24_l_masturbation_e139ff9f:
+
+    # l "{i}(Shit! Did I do that out loud?)"
+    l "{i}(Cholera! Zrobiłam to na głos?)"
+
+# game/day24.rpy:851
+translate polish day24_l_masturbation_541edf9a:
+
+    # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
+    l "{i}(Wydaje się taki miękki w dotyku, a wibracje wcale nie są za silne. Może powinnam przycisnąć go mocniej do swojej cipki.)"
+
+# game/day24.rpy:853
+translate polish day24_l_masturbation_daa4514e:
+
+    # l "Ooh god yes!!!"
+    l "Ooh Boże tak!!!"
+
+# game/day24.rpy:854
+translate polish day24_l_masturbation_8546bc73:
+
+    # l "{i}(I want it in me!)"
+    l "{i}(Chcę poczuć go w sobie!)"
+
+# game/day24.rpy:858
+translate polish day24_l_masturbation_bbe2a246:
+
+    # p "{i}(Better knock first, maybe she's already asleep.)"
+    p "{i}(Lepiej zapukam, może już śpi.)"
+
+# game/day24.rpy:864
+translate polish day24_l_masturbation_dda64edc:
+
+    # l "{i}(No! No! Not now!!!)"
+    l "{i}(Nie! Nie! Nie teraz!!!)"
+
+# game/day24.rpy:865
+translate polish day24_l_masturbation_b2267e91:
+
+    # l "Whoever it is, please go away!"
+    l "Ktokolwiek to jest, proszę idź sobie!"
+
+# game/day24.rpy:866
+translate polish day24_l_masturbation_ee5d2a57:
+
+    # l "{i}(Please don't come in, not like this! Please!)"
+    l "{i}(Proszę nie wchodź! Tylko nie to! Proszę!)"
+
+# game/day24.rpy:867
+translate polish day24_l_masturbation_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:868
+translate polish day24_l_masturbation_82822a0c_1:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:869
+translate polish day24_l_masturbation_daaddcaa:
+
+    # l "{i}(I think it's safe again.)"
+    l "{i}(Chyba już jest bezpiecznie.)"
+
+# game/day24.rpy:871
+translate polish day24_l_masturbation_62a851fe:
+
+    # l "{i}(But now the mood is completely ruined.)"
+    l "{i}(Ale nastrój jest już kompletnie zrujnowany.)"
+
+# game/day24.rpy:872
+translate polish day24_l_masturbation_e8f4bcb5:
+
+    # l "{i}(Stupid thing.)"
+    l "{i}(Głupia rzecz.)"
+
+# game/day24.rpy:873
+translate polish day24_l_masturbation_83d4f7fb:
+
+    # l "{i}(I hate you.)"
+    l "{i}(Nienawidzę Cię.)"
+
+# game/day24.rpy:874
+translate polish day24_l_masturbation_f1bc8cc9:
+
+    # l "{i}(Why am I talking to a vibrator?)"
+    l "{i}(Dlaczego rozmawiam z wibratorem?)"
+
+# game/day24.rpy:875
+translate polish day24_l_masturbation_288197ec:
+
+    # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
+    l "{i}(Lepiej pójdę już spać, jutro znowu wrzucę go na spód szuflady.)"
+
+# game/day24.rpy:877
+translate polish day24_l_masturbation_80445dad:
+
+    # l "{i}(I'm so tired...)"
+    l "{i}(Jestem taka zmęczona...)"
+
+# game/day24.rpy:878
+translate polish day24_l_masturbation_82822a0c_2:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:898
+translate polish day24_r_sex_c5b27efe:
+
+    # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
+    "{i}Po zapukaniu do łazienki i powiedzeniu Rachel, że to Ty, zostajesz szybko zaproszony do środka."
+
+# game/day24.rpy:904
+translate polish day24_r_sex_faf33115:
+
+    # r "Hey handsome!"
+    r "Hej przystojniaku!"
+
+# game/day24.rpy:905
+translate polish day24_r_sex_77c3587b:
+
+    # p "How was your first day at college?"
+    p "Jak tam Twój pierwszy dzień w szkole?"
+
+# game/day24.rpy:906
+translate polish day24_r_sex_8a91cb86:
+
+    # r "I forgot how utterly boring it was."
+    r "Zapomniałam już jakie to było nudne."
+
+# game/day24.rpy:907
+translate polish day24_r_sex_c7f06fb0:
+
+    # r "But Ana and Alina pulled me through."
+    r "Ale Ana i Alina pomogły mi to przetrwać."
+
+# game/day24.rpy:908
+translate polish day24_r_sex_84c620c1:
+
+    # p "What?! You didn't think of me once?"
+    p "Co?! A o mnie nie myślałaś?"
+
+# game/day24.rpy:909
+translate polish day24_r_sex_7d4bdbf7:
+
+    # r "Of course I did, silly, you were on my mind the rest of the time."
+    r "Oczywiście, że tak głuptasie, Ty chodziłeś mi po głowie przez resztę czasu."
+
+# game/day24.rpy:911
+translate polish day24_r_sex_3bdcda22:
+
+    # p "Are you done?"
+    p "Skończyłaś już?"
+
+# game/day24.rpy:912
+translate polish day24_r_sex_3915c8e5:
+
+    # r "Do you want me to be?"
+    r "A chcesz, żebym już skończyła?"
+
+# game/day24.rpy:913
+translate polish day24_r_sex_d5151d80:
+
+    # p "No! I've missed you all day and you look so gorgeous."
+    p "Nie! Tęskniłem za Tobą cały dzień, a wyglądasz tak pięknie."
+
+# game/day24.rpy:914
+translate polish day24_r_sex_486dc62e:
+
+    # r "Why don't you slide in with me, the water is still warm."
+    r "To może wśliźniesz się tu do mnie, woda jest dalej ciepła."
+
+# game/day24.rpy:916
+translate polish day24_r_sex_8c5ced7c:
+
+    # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
+    "{i}Rachel wtula się w Ciebie, jej tyłek ociera się o Twojego penisa."
+
+# game/day24.rpy:917
+translate polish day24_r_sex_86e48495:
+
+    # r "You're already getting a hard-on?!"
+    r "Już Ci staje?!"
+
+# game/day24.rpy:918
+translate polish day24_r_sex_e88a0767:
+
+    # p "Sorry."
+    p "Wybacz."
+
+# game/day24.rpy:919
+translate polish day24_r_sex_ed3dc877:
+
+    # r "I don't mind!"
+    r "Nie przeszkadza mi to!"
+
+# game/day24.rpy:920
+translate polish day24_r_sex_cf0eaf12:
+
+    # r "God, I'm so tired."
+    r "Boże, jestem taka zmęczona."
+
+# game/day24.rpy:921
+translate polish day24_r_sex_071ad574:
+
+    # p "You're tense as well, the muscles in your shoulders feel way too hard."
+    p "Jesteś też spięta, mięśnie Twoich ramion są o wiele za twarde."
+
+# game/day24.rpy:922
+translate polish day24_r_sex_a0743e29:
+
+    # r "What are you going to do about it?"
+    r "I co zamierzasz z tym zrobić?"
+
+# game/day24.rpy:923
+translate polish day24_r_sex_4ecf5b30:
+
+    # p "I know just the thing."
+    p "Znam pewien sposób."
+
+# game/day24.rpy:929
+translate polish day24_r_sex_c53373d1:
+
+    # "{i}You put your hands on her shoulders and massage her back. Your sister closes her eyes in pleasure."
+    "{i}Kładziesz dłonie na jej ramionach i zaczynasz masować jej plecy. Twoja siostra przymyka oczy z zadowolenia."
+
+# game/day24.rpy:931
+translate polish day24_r_sex_565a891e:
+
+    # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
+    "{i}Kładziesz ręce na jej ramionach i masujesz jej plecy [r_name] zamyka oczy z przyjemności."
+
+# game/day24.rpy:932
+translate polish day24_r_sex_37fe5aac:
+
+    # r "Mmmmm. Now you have to do this every day."
+    r "Mmmmm. Teraz będziesz musiał to robić codziennie."
+
+# game/day24.rpy:933
+translate polish day24_r_sex_e6e01fc5:
+
+    # p "I really, really don't mind."
+    p "Naprawdę nie mam nic przeciwko."
+
+# game/day24.rpy:934
+translate polish day24_r_sex_07dfdc59:
+
+    # r "Kiss me!"
+    r "Pocałuj mnie!"
+
+# game/day24.rpy:936
+translate polish day24_r_sex_488c4ffb:
+
+    # "{i}Then you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
+    "{i}Skupiasz swoją uwagę na jej wargach i całujesz ją namiętnie. Rachel obraca twarz całkowicie w Twoim kierunku i jęczy miękko kiedy jej tyłek znowu dotyka Twojego penisa."
+
+# game/day24.rpy:937
+translate polish day24_r_sex_55fbac4d:
+
+    # p "Mmm, I think something else is too tense as well."
+    p "Mmm, myślę, że coś innego też jest spięte."
+
+# game/day24.rpy:942
+translate polish day24_r_sex_29a1976e:
+
+    # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
+    "{i}Twoja dłoń nurkuje pod wodę i dotyka jej miękkiej cipki, dziewczyna zachęcająco przykrywa Twoją dłoń swoją."
+
+# game/day24.rpy:943
+translate polish day24_r_sex_1c10fcb0:
+
+    # r "Yes, I'm really tense there..."
+    r "Tak, tu jestem bardzo spięta..."
+
+# game/day24.rpy:946
+translate polish day24_r_sex_51e8ab07:
+
+    # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
+    "{i}Pobudzony jej słowami, zaczynasz dotykać jej cipki i stymulować jej łechtaczkę, masując jej małą pierś drugą dłonią."
+
+# game/day24.rpy:947
+translate polish day24_r_sex_ffd0dbde:
+
+    # r "Y-y-yes [p_name], t-touch me right there."
+    r "T- Tak [p_name], d- dotykaj mnie tam."
+
+# game/day24.rpy:948
+translate polish day24_r_sex_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah!"
+
+# game/day24.rpy:955
+translate polish day24_r_sex_02dd6072:
+
+    # b "Can I come in, [r_name]?"
+    b "Mogę wejść Rachel?"
+
+# game/day24.rpy:956
+translate polish day24_r_sex_55fab30a:
+
+    # b "I really need to pee!"
+    b "Naprawdę muszę skorzystać!"
+
+# game/day24.rpy:957
+translate polish day24_r_sex_f118db0c:
+
+    # r "Fuck! It's [b_name]!"
+    r "Kurwa! To Bella!"
+
+# game/day24.rpy:958
+translate polish day24_r_sex_47ac2dc7:
+
+    # r "Hide!!!"
+    r "Chowaj się!!!"
+
+# game/day24.rpy:960
+translate polish day24_r_sex_24cdadc7:
+
+    # r "Just a minute, sis!"
+    r "Chwilka!"
+
+# game/day24.rpy:962
+translate polish day24_r_sex_969bd260:
+
+    # r "Just a minute, [b_name]!"
+    r "Chwileczkę [b_name]!"
+
+# game/day24.rpy:964
+translate polish day24_r_sex_ef9c89de:
+
+    # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
+    "{i}Śliskość wody utrudnia Ci szybkie wydostanie się z wanny, ale z paroma akrobacjami, udaje Ci się dostać pod prysznic i zakryć zasłonę."
+
+# game/day24.rpy:965
+translate polish day24_r_sex_d3cba48b:
+
+    # r "Come in!"
+    r "Proszę!"
+
+# game/day24.rpy:967
+translate polish day24_r_sex_390a81d1:
+
+    # b "Hey, thanks!"
+    b "Hej, dzięki!"
+
+# game/day24.rpy:968
+translate polish day24_r_sex_d45e798a:
+
+    # b "Are you okay? There was a lot of noise back there."
+    b "Wszystko w porządku? Narobiłaś trochę hałasu."
+
+# game/day24.rpy:969
+translate polish day24_r_sex_4ad5bfc6:
+
+    # r "Yes... er... I thought I'd locked the door and wanted to open it for you."
+    r "Tak... Em... Myślałam, że drzwi są zamknięte i chciałam Ci je otworzyć."
+
+# game/day24.rpy:970
+translate polish day24_r_sex_6f6ed129:
+
+    # b "The door was open."
+    b "Drzwi były otwarte."
+
+# game/day24.rpy:971
+translate polish day24_r_sex_1fcc4145:
+
+    # r "I realized that when I was halfway there, that was the noises you heard. Probably."
+    r "Zorientowałam się w połowie drogi, to te hałasy słyszałaś. Tak myślę."
+
+# game/day24.rpy:972
+translate polish day24_r_sex_2b4a84c9:
+
+    # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
+    p "{i}(Nie zwracaj na mnie uwagi, mnie tu nie ma. I na miłość boską, nie bierz prysznica!!!)"
+
+# game/day24.rpy:977
+translate polish day24_r_sex_9e694855:
+
+    # b "Probably."
+    b "Pewnie tak."
+
+# game/day24.rpy:978
+translate polish day24_r_sex_16d84762:
+
+    # b "God. Thank you again for letting me in. I really needed to go."
+    b "Boże. Dzięki, że mnie wpuściłaś. Naprawdę potrzebowałam."
+
+# game/day24.rpy:980
+translate polish day24_r_sex_314fc477:
+
+    # r "No problem."
+    r "Żaden problem."
+
+# game/day24.rpy:981
+translate polish day24_r_sex_c0644af4:
+
+    # b "So you've started college again today?"
+    b "Więc, wróciłaś dzisiaj do szkoły?"
+
+# game/day24.rpy:982
+translate polish day24_r_sex_eb6544d5:
+
+    # r "Yup. Hated it."
+    r "Ta. To jakiś dramat."
+
+# game/day24.rpy:983
+translate polish day24_r_sex_907473de:
+
+    # b "Don't worry, once you have your diploma, you can do whatever you like."
+    b "Nie martw się, kiedy już odbierzesz dyplom, będziesz mogła robić co tylko chcesz."
+
+# game/day24.rpy:984
+translate polish day24_r_sex_9e58e45e:
+
+    # r "Did you have a good day?"
+    r "A Tobie dobrze minął dzień?"
+
+# game/day24.rpy:986
+translate polish day24_r_sex_8bab34f6:
+
+    # b "Yes, I really did!"
+    b "Tak, bardzo dobrze!"
+
+# game/day24.rpy:987
+translate polish day24_r_sex_63f9a95f:
+
+    # r "Tell me!"
+    r "Opowiedz mi!"
+
+# game/day24.rpy:988
+translate polish day24_r_sex_070ecb41:
+
+    # b "Long story!"
+    b "To długa historia!"
+
+# game/day24.rpy:990
+translate polish day24_r_sex_8f376377:
+
+    # r "Come now, [b_name], you're positively glowing."
+    r "No weź, Bella. Widzę, że aż promieniejesz na myśl o tym."
+
+# game/day24.rpy:991
+translate polish day24_r_sex_5cf30c78:
+
+    # b "I know, I know. I think for once, things are working out."
+    b "No wiem, wiem. Myślę, że w końcu wszystko układa się tak jak powinno."
+
+# game/day24.rpy:992
+translate polish day24_r_sex_bee3ef17:
+
+    # p "{i}(Yes, today was a great day.)"
+    p "{i}(Tak, to był świetny dzień.)"
+
+# game/day24.rpy:993
+translate polish day24_r_sex_0122e9ae:
+
+    # r "You're in love!!! I just know it!"
+    r "Zakochałaś się!!! Wiedziałam!"
+
+# game/day24.rpy:995
+translate polish day24_r_sex_2993e132:
+
+    # b "Maybe..."
+    b "Możliwe..."
+
+# game/day24.rpy:996
+translate polish day24_r_sex_45116a39:
+
+    # r "Who?! You have to tell me!"
+    r "W kim?! Musisz mi powiedzieć!"
+
+# game/day24.rpy:997
+translate polish day24_r_sex_12ff8583:
+
+    # b "Just enjoy your bath. I'll tell you when I'm ready."
+    b "Dokończ swoją kąpiel. Powiem Ci kiedy będę gotowa."
+
+# game/day24.rpy:998
+translate polish day24_r_sex_72562e9e:
+
+    # p "{i}(Will she ever be ready?)"
+    p "{i}(A kiedykolwiek będzie gotowa?)"
+
+# game/day24.rpy:1000
+translate polish day24_r_sex_d2622335:
+
+    # b "{i}(That can't be true, can it?)"
+    b "{i}(To chyba nie może być prawda, co?)"
+
+# game/day24.rpy:1001
+translate polish day24_r_sex_5d7f781e:
+
+    # b "No, but someone special did help me move past a bad experience."
+    b "Nie, ale ktoś wyjątkowy pomógł mi dzisiaj zostawić za sobą przykre doświadczenie."
+
+# game/day24.rpy:1002
+translate polish day24_r_sex_0d7d562f:
+
+    # r "I'm glad. It sure looks good on you!"
+    r "Cieszę się. Naprawdę Ci z tym do twarzy!"
+
+# game/day24.rpy:1003
+translate polish day24_r_sex_faf82db6:
+
+    # p "{i}(She thinks I'm someone special. [b_name] is really coming around!)"
+    p "{i}(Myśli, że jestem kimś wyjątkowym. Bella naprawdę się do mnie przekonuje!)"
+
+# game/day24.rpy:1005
+translate polish day24_r_sex_da5994be:
+
+    # b "{i}(Not a chance of that!)"
+    b "{i}(Na to nie ma szans!)"
+
+# game/day24.rpy:1006
+translate polish day24_r_sex_fafdc263:
+
+    # b "No, but someone did help me move past a bad experience."
+    b "Nie, ale ktoś pomógł mi dzisiaj zostawić za sobą przykre doświadczenie."
+
+# game/day24.rpy:1007
+translate polish day24_r_sex_6d60bdeb:
+
+    # r "Whatever, you just look happier is all."
+    r "No to nieważne, ale po prostu wyglądasz na szczęśliwszą."
+
+# game/day24.rpy:1008
+translate polish day24_r_sex_be6b6660:
+
+    # p "{i}(I guess she hasn't fully submitted herself to me yet. I still have some work to do.)"
+    p "{i}(Wygląda na to, że jeszcze w pełni mi się nie poddała. Dalej mam trochę pracy do wykonania.)"
+
+# game/day24.rpy:1010
+translate polish day24_r_sex_d8a5cb24:
+
+    # b "Well, you know, same old, same old."
+    b "Cóż, no wiesz, po staremu."
+
+# game/day24.rpy:1011
+translate polish day24_r_sex_555666ff:
+
+    # r "Yeah."
+    r "Taa."
+
+# game/day24.rpy:1012
+translate polish day24_r_sex_22dcb7fa:
+
+    # b "I'll leave you to your bath."
+    b "Pozwolę Ci dokończyć Twoją kąpiel."
+
+# game/day24.rpy:1013
+translate polish day24_r_sex_35cc7ca5:
+
+    # p "{i}(Don't look to the right!)"
+    p "{i}(Nie patrz na prawo!)"
+
+# game/day24.rpy:1014
+translate polish day24_r_sex_b93142cc:
+
+    # r "Thanks, sleep tight."
+    r "Dzięki, dobrej nocy."
+
+# game/day24.rpy:1015
+translate polish day24_r_sex_14aef3ff:
+
+    # b "You too, sis."
+    b "Nawzajem siostrzyczko."
+
+# game/day24.rpy:1024
+translate polish day24_r_sex_d31f2b7e:
+
+    # r "I think she's gone."
+    r "Myślę, że już poszła."
+
+# game/day24.rpy:1025
+translate polish day24_r_sex_f13c71aa:
+
+    # r "How's my peeping Tom?"
+    r "Jak tam mój podglądacz?"
+
+# game/day24.rpy:1026
+translate polish day24_r_sex_db0dba76:
+
+    # p "Scared shitless, but I'll manage."
+    p "Posrany ze strachu, ale daję radę."
+
+# game/day24.rpy:1027
+translate polish day24_r_sex_306b895b:
+
+    # r "Let's have a shower together then, get rid of all that sweat."
+    r "Weźmy razem prysznic, spłuczemy się trochę."
+
+# game/day24.rpy:1033
+translate polish day24_r_sex_0ba03374:
+
+    # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Opłukujesz ciało siostry swoimi dłońmi, pozbywając się całej piany i dając sobie pretekst do dotykania jej po całym ciele. Nie żeby Rachel narzekała."
+
+# game/day24.rpy:1035
+translate polish day24_r_sex_c8affe1d:
+
+    # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Spłukujesz ciało swojej przyjaciółki rękami, pozbywając się mydlin i dając sobie pretekst do dotykania jej, jak tylko chcesz, nie dlatego, że [r_name] narzeka."
+
+# game/day24.rpy:1036
+translate polish day24_r_sex_3943a244:
+
+    # r "Mmmm, this feels nice as well."
+    r "Mmmm, to też przyjemne."
+
+# game/day24.rpy:1037
+translate polish day24_r_sex_102cd8bd:
+
+    # r "Listen, [p_name], I know I said I was tired..."
+    r "Słuchaj [p_name], powiedziałam, że jestem zmęczona..."
+
+# game/day24.rpy:1038
+translate polish day24_r_sex_b1388a61:
+
+    # p "Yes... I have a feeling I like where this is going."
+    p "Tak... Mam przeczucie, że spodoba mi się dokąd to zmierza."
+
+# game/day24.rpy:1043
+translate polish day24_r_sex_510cc1ff:
+
+    # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
+    "{i}Zauważając Twoją erekcję, Rachel unosi nogę i ociera się cipką om Twojego penisa."
+
+# game/day24.rpy:1045
+translate polish day24_r_sex_8fdada81:
+
+    # r "I really want to have sex."
+    r "Naprawdę mam ochotę na seks."
+
+# game/day24.rpy:1047
+translate polish day24_r_sex_64ba66d3:
+
+    # r "I want you inside of me."
+    r "Chcę Cię w sobie."
+
+# game/day24.rpy:1048
+translate polish day24_r_sex_a7109580:
+
+    # r "Feel you, feel your cum inside of me."
+    r "Chcę Ciebie, poczuć jak we mnie dochodzisz."
+
+# game/day24.rpy:1051
+translate polish day24_r_sex_a1b15a1a:
+
+    # "{i}Despite the water, you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
+    "{i}Pomimo wody, udaje Ci się wśliznąć penisa do jej cipki. Łapiesz ją mocno za tyłek i delikatnie zaczynasz wsuwać się w nią głębiej, powodując cichy jęk u Rachel."
+
+# game/day24.rpy:1053
+translate polish day24_r_sex_8a7c140b:
+
+    # r "Ah yes, fuck me. I want to feel you so bad."
+    r "Ah tak, wyruchaj mnie. Tak bardzo chcę Cię teraz poczuć."
+
+# game/day24.rpy:1058
+translate polish day24_r_sex_69f4a87e:
+
+    # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
+    "{i}Bojąc się, że się przewrócisz, pozwalasz Rachel oprzeć się głową o ścianę, żebyś mógł ją posuwać bez ograniczeń."
+
+# game/day24.rpy:1059
+translate polish day24_r_sex_488f2b52:
+
+    # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
+    r "B- Boże, mocniej! Potrzebuję tego [p_name]! Ruchaj mnie!"
+
+# game/day24.rpy:1061
+translate polish day24_r_sex_fe069684:
+
+    # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust, you seem to pull her closer towards you, her ass smacking against your abdomen."
+    "{i}Rachel wbija palce w Twoje mokre włosy kiedy zaczynasz podgryzać płatek jej ucha. Z każdym pchnięciem wydajesz się przyciągać ją bliżej siebie, uderzając jej tyłkiem o swój brzuch."
+
+# game/day24.rpy:1062
+translate polish day24_r_sex_8a8d4ccb:
+
+    # p "I love you so much, [r_name]!"
+    p "Tak bardzo Cię kocham Rachel!"
+
+# game/day24.rpy:1063
+translate polish day24_r_sex_50b82d1f:
+
+    # r "Aaaaah, keep going!"
+    r "Aaaaah, nie przestawaj!"
+
+# game/day24.rpy:1069
+translate polish day24_r_sex_4ce5ecb2:
+
+    # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
+    "{i}Odwracasz ją, żeby móc patrzeć jej w oczy kiedy będziesz dochodził. Mimo ciepłej wody, jej oddech bije gorącem w Twoje policzki kiedy jęczy rozkoszy."
+
+# game/day24.rpy:1074
+translate polish day24_r_sex_f6992741:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "B- Boże, jestem gotowy Rachel!"
+
+# game/day24.rpy:1075
+translate polish day24_r_sex_33470745:
+
+    # r "Keep fucking me! Please!"
+    r "Nie przestawaj mnie ruchać! Proszę!"
+
+# game/day24.rpy:1083
+translate polish day24_r_sex_c0a02d04:
+
+    # p "G-g-aaaaah!"
+    p "G-g-aaaaah!"
+
+# game/day24.rpy:1084
+translate polish day24_r_sex_6fbc588f:
+
+    # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
+    "{i}Spełniasz jej życzenie i dalej posuwasz ją głębokimi pchnięciami, aż Twoja sperma zaczyna wyciekać z jej cipki i mieszać się z wodą z prysznica."
+
+# game/day24.rpy:1094
+translate polish day24_r_sex_f6992741_1:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "B- Boże, jestem gotowy Rachel!"
+
+# game/day24.rpy:1095
+translate polish day24_r_sex_50ed1e49:
+
+    # p "On your knees baby, I want to see that lovely face of yours."
+    p "Klęknij mała, chcę zobaczyć tą Twoją piękną twarzyczkę."
+
+# game/day24.rpy:1103
+translate polish day24_r_sex_c0a02d04_1:
+
+    # p "G-g-aaaaah!"
+    p "G-g-aaaaah!"
+
+# game/day24.rpy:1104
+translate polish day24_r_sex_3e62347d:
+
+    # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
+    "{i}Rachel robi sobie palcówkę, kiedy jej twarz pokrywa Twoja sperma. Część trafia do jej ust i połyka ją bez wahania."
+
+# game/day24.rpy:1113
+translate polish day24_r_sex_21a88cd7:
+
+    # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
+    "{i}Trzymasz Rachel blisko i czekacie aż woda obmyje was ze wszelkich dowodów waszej zabawy. Kiedy kończycie prysznic, całujecie się na dobranoc i oddzielnie opuszczacie łazienkę."
 

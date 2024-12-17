@@ -117,7 +117,7 @@ translate polish day03_p_room_choices_b69b880a:
 translate polish day03_p_room_choices_c8bebda0:
 
     # b "We just met [p_name] and now we're all like: 'It's so wonderful you're here...'"
-    b ""
+    b "Dopiero co poznaliśmy [p_name] i teraz wszyscy mówimy: 'To cudownie, że tu jesteś'."
 
 # game/day03.rpy:71
 translate polish day03_p_room_choices_38cb861f:
@@ -195,7 +195,7 @@ translate polish day03_p_room_apologies_622091dd:
 translate polish day03_p_room_apologies_3312d478:
 
     # b "Mrs. Smith made me come and apologize."
-    b ""
+    b "Pani Smith kazała mi przyjść i przeprosić"
 
 # game/day03.rpy:103
 translate polish day03_p_room_apologies_7f0904d6:
@@ -255,13 +255,13 @@ translate polish day03_p_room_apologies_c347a545:
 translate polish day03_p_room_apologies_4d9ac3dc:
 
     # b "Don't speak to me. Haven't you heard a word I said?!"
-    b ""
+    b "Nie odzywaj się do mnie Nie słyszałeś ani słowa z tego, co powiedziałem?!"
 
 # game/day03.rpy:123
 translate polish day03_p_room_apologies_50e46aaf:
 
     # b "As far as I'm concerned you don't exist!"
-    b ""
+    b "Jeśli o mnie chodzi, to nie istniejesz!"
 
 # game/day03.rpy:125
 translate polish day03_p_room_apologies_c637d0af:
@@ -285,7 +285,7 @@ translate polish day03_p_room_apologies_2c3de511:
 translate polish day03_p_room_apologies_328cc6ff:
 
     # p "{i}(Well, I guess there are other people I can chat with.)"
-    p ""
+    p "{i}(Cóż, myślę, że są inni ludzie, z którymi mogę porozmawiać)"
 
 # game/day03.rpy:146
 translate polish day03_day_conversation_43961b85:
@@ -358,13 +358,13 @@ translate polish day03_day_conversation_m_22ab4f0f:
 translate polish day03_day_conversation_m_af7ae03e:
 
     # m "I'm fairly certain that you being here is hard for her."
-    m ""
+    m "Jestem prawie pewien, że twoja obecność tutaj jest dla niej trudna."
 
 # game/day03.rpy:170
 translate polish day03_day_conversation_m_60633e70:
 
     # m "She isn't used to a male presence in the house."
-    m ""
+    m "Nie jest przyzwyczajona do obecności mężczyzny w domu"
 
 # game/day03.rpy:172
 translate polish day03_day_conversation_m_a2c2a69c:
@@ -2188,7 +2188,7 @@ translate polish day03_l_dinner_proposal_66b8feb9:
 translate polish day03_l_dinner_proposal_dfe52e73:
 
     # p "How so? We've just met a few days ago, so I'm sure we need a chance to get to know each other better."
-    p ""
+    p "Jak to? Poznaliśmy się zaledwie kilka dni temu, więc jestem pewien, że potrzebujemy szansy, by lepiej się poznać."
 
 # game/day03.rpy:852
 translate polish day03_l_dinner_proposal_8ecac6cc:
@@ -2284,13 +2284,13 @@ translate polish day03_l_dinner_proposal_5c8d0fab:
 translate polish day03_l_dinner_proposal_4356f949:
 
     # l "I think I will, thank you! Good night, dear [p_name]."
-    l ""
+    l "Myślę, że ci podziękuję! Dobranoc drogi [p_name]"
 
 # game/day03.rpy:879
 translate polish day03_l_dinner_proposal_bb4a8227_1:
 
     # p "Good night."
-    p ""
+    p "Dobranoc."
 
 # game/day03.rpy:883
 translate polish day03_l_dinner_proposal_083c0ace:
@@ -2314,13 +2314,13 @@ translate polish day03_l_dinner_proposal_5c8d0fab_1:
 translate polish day03_l_dinner_proposal_4356f949_1:
 
     # l "I think I will, thank you! Good night, dear [p_name]."
-    l ""
+    l "Myślę, że ci podziękuję! Dobranoc drogi [p_name]"
 
 # game/day03.rpy:889
 translate polish day03_l_dinner_proposal_bb4a8227_2:
 
     # p "Good night."
-    p ""
+    p "Dobranoc."
 
 translate polish strings:
 
@@ -2451,4 +2451,138 @@ translate polish strings:
     # game/day03.rpy:842
     old "Say good night"
     new "Życz jej dobrej nocy"
+
+# TODO: Translation updated at 2024-11-18 13:58
+
+# game/day03.rpy:253
+translate polish day03_day_conversation_r_ba978766:
+
+    # p "Never mind..."
+    p "Nieważne"
+
+# game/day03.rpy:257
+translate polish day03_day_conversation_r_ba978766_1:
+
+    # p "Never mind..."
+    p "Nieważne"
+
+# game/day03.rpy:395
+translate polish day03_drinks_eb116efd:
+
+    # "{i}You push her hand away."
+    "{i}Odtrącasz jej dłoń."
+
+# game/day03.rpy:397
+translate polish day03_drinks_2a4ab6c8:
+
+    # a "Better leave you guys to it then. Come Alina."
+    a "W takim razie nie będziemy wam przeszkadzać. Chodź Alina."
+
+# game/day03.rpy:398
+translate polish day03_drinks_fa2635b0:
+
+    # al "Bye."
+    al "Pa."
+
+# game/day03.rpy:403
+translate polish day03_drinks_2284cd57:
+
+    # j "You're in a world of trouble, my man."
+    j "No to masz problem stary."
+
+# game/day03.rpy:406
+translate polish day03_drinks_a716609c:
+
+    # p "{i}(What?! Did he notice something?)"
+    p "{i}(Co? Zauważył coś?)"
+
+# game/day03.rpy:407
+translate polish day03_drinks_9d4df256:
+
+    # p "{i}(Best play it cool.)"
+    p "{i}(Lepiej rozegrać to na spokojnie.)"
+
+# game/day03.rpy:408
+translate polish day03_drinks_ea0f688b:
+
+    # p "How come?"
+    p "Hm, dlaczego?"
+
+# game/day03.rpy:409
+translate polish day03_drinks_496e1be6:
+
+    # j "It seems Ana has taken an interest in you."
+    j "Wygląda na to, że Ana jest Tobą zainteresowana."
+
+# game/day03.rpy:410
+translate polish day03_drinks_fd5f55ba:
+
+    # p "Oh."
+    p "Oh."
+
+# game/day03.rpy:411
+translate polish day03_drinks_9d91dc7b:
+
+    # j "I know that look in her eye."
+    j "Znam to jej spojrzenie."
+
+# game/day03.rpy:414
+translate polish day03_drinks_a5f8b0f9:
+
+    # p "She's fucking hot. So I hope you don't mind."
+    p "Jest zajebiście seksowna. Więc mam nadzieję, że nie masz nic przeciwko."
+
+# game/day03.rpy:415
+translate polish day03_drinks_5d28297f:
+
+    # j "Hell no! I'd sure know what to do if she weren't my sister!"
+    j "Jasne, że nie! Gdyby nie była moją siostrą, to sam bym się za nią zabrał!"
+
+# game/day03.rpy:417
+translate polish day03_drinks_62340ac7:
+
+    # j "Maybe Alina wants to go out with me, then we'd be dating the two hottest girls in college!"
+    j "Może Alina by się ze mną umówiła, wtedy chodzilibyśmy z dwoma najgorętszymi laskami z okolicy!"
+
+# game/day03.rpy:418
+translate polish day03_drinks_35fefc3b:
+
+    # p "Keep on dreaming!"
+    p "Możesz sobie pomarzyć!"
+
+# game/day03.rpy:419
+translate polish day03_drinks_b42022b5:
+
+    # j "Hehehehe."
+    j "Hehehehe."
+
+# game/day03.rpy:422
+translate polish day03_drinks_71680f12:
+
+    # p "I'm not really interested in her."
+    p "Nie jestem nią zainteresowany."
+
+# game/day03.rpy:423
+translate polish day03_drinks_56ffb8c9:
+
+    # j "I sure hope she knows that. Ana mostly gets what she wants."
+    j "Mam nadzieję, że o tym wie. Ana zwykle dostaje czego chce."
+
+# game/day03.rpy:425
+translate polish day03_drinks_947b15b5:
+
+    # "{i}You talk some more and then leave."
+    "{i}Rozmawiacie jeszcze przez jakiś czas i potem wychodzicie."
+
+# game/day03.rpy:426
+translate polish day03_drinks_0fbe4e44:
+
+    # "{i}[b_name] obviously avoids you when you exit the cafe."
+    "{i}Bella wyraźnie Cię unika gdy wychodzisz z kawiarni."
+
+# game/day03.rpy:545
+translate polish day03_dinner_e4f9b932:
+
+    # r "Nah. Never mind."
+    r "Nieważne"
 
