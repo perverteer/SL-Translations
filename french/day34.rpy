@@ -4529,3 +4529,986 @@ translate french day34_ri_shop_18bbe84a:
     # p "But I'm much happier to see you relatively unharmed."
     p "Mais je suis plus heureux de te voir relativement indemne."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day34.rpy:949
+translate french day34_b_blowjob_hard_68cb742c:
+
+    # p "{i}(Look at that glorious ass.)"
+    p "{i}(Regardez ce cul glorieux)"
+
+# game/day34.rpy:953
+translate french day34_b_blowjob_hard_d6b5d8d9:
+
+    # b "How long have you been staring there, creep?"
+    b "Depuis combien de temps regardes-tu ce sale type ?"
+
+# game/day34.rpy:954
+translate french day34_b_blowjob_hard_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Quelques heures seulement"
+
+# game/day34.rpy:955
+translate french day34_b_blowjob_hard_c0bf7ea1:
+
+    # b "Go away."
+    b "Va-t'en"
+
+# game/day34.rpy:956
+translate french day34_b_blowjob_hard_b4f81831:
+
+    # p "No, spin around for me."
+    p "Je ne tourne pas autour du pot"
+
+# game/day34.rpy:962
+translate french day34_b_blowjob_hard_d0b20184:
+
+    # b "Satisfied?"
+    b "Satisfait ?"
+
+# game/day34.rpy:963
+translate french day34_b_blowjob_hard_2b5f4d50:
+
+    # p "A little."
+    p "Un peu"
+
+# game/day34.rpy:964
+translate french day34_b_blowjob_hard_9878f1cc:
+
+    # p "You look fantastic in this, you know that?"
+    p "Tu es superbe dans cette tenue, tu le sais ?"
+
+# game/day34.rpy:965
+translate french day34_b_blowjob_hard_4227e895:
+
+    # b "I'm sure I look great, now leave."
+    b "Je suis sûr que j'ai l'air en pleine forme maintenant."
+# game/day34.rpy:966
+translate french day34_b_blowjob_hard_6b303226:
+
+    # p "We're going shopping tomorrow, you and I."
+    p "Nous allons faire du shopping demain, toi et moi"
+
+# game/day34.rpy:968
+translate french day34_b_blowjob_hard_1871783f:
+
+    # b "What, why?"
+    b "Pourquoi ?"
+
+# game/day34.rpy:969
+translate french day34_b_blowjob_hard_b402c11d:
+
+    # p "Because I want to give you some nice lingerie."
+    p "Parce que je veux t'offrir de la belle lingerie"
+
+# game/day34.rpy:970
+translate french day34_b_blowjob_hard_60478538:
+
+    # b "I have underwear."
+    b "J'ai des sous-vêtements"
+
+# game/day34.rpy:971
+translate french day34_b_blowjob_hard_68520e5c:
+
+    # p "I'll get you more."
+    p "Je vous en donnerai d'autres"
+
+# game/day34.rpy:972
+translate french day34_b_blowjob_hard_32625464:
+
+    # b "I don't..."
+    b "I don't"
+
+# game/day34.rpy:973
+translate french day34_b_blowjob_hard_df7483f5:
+
+    # p "Now you're going to say thanks and suck my cock."
+    p "Maintenant tu vas me remercier et me sucer"
+
+# game/day34.rpy:975
+translate french day34_b_blowjob_hard_eadf9810:
+
+    # b "What?!"
+    b "Quoi ?!"
+
+# game/day34.rpy:976
+translate french day34_b_blowjob_hard_73bb7de1:
+
+    # p "You're going to get on your knees."
+    p "Vous allez vous mettre à genoux"
+
+# game/day34.rpy:978
+translate french day34_b_blowjob_hard_733e331e:
+
+    # p "And you'll undress me."
+    p "Et tu me déshabilleras"
+
+# game/day34.rpy:983
+translate french day34_b_blowjob_hard_61031477:
+
+    # p "Next, you'll make me hard."
+    p "Ensuite, tu me feras bander"
+
+# game/day34.rpy:985
+translate french day34_b_blowjob_hard_8018ec82:
+
+    # p "Stroking my hard cock with your hands."
+    p "Caresser ma bite dure avec tes mains"
+
+# game/day34.rpy:986
+translate french day34_b_blowjob_hard_0a337613:
+
+    # p "That's it, good girl."
+    p "C'est ça ma belle"
+
+# game/day34.rpy:992
+translate french day34_b_blowjob_hard_32ab4328:
+
+    # p "Now lick the head."
+    p "Maintenant, lèche la tête"
+
+# game/day34.rpy:993
+translate french day34_b_blowjob_hard_64ac36ae:
+
+    # p "Make it all nice and wet."
+    p "Faites en sorte que tout soit bien mouillé"
+
+# game/day34.rpy:994
+translate french day34_b_blowjob_hard_1e09f0b9:
+
+    # p "Good, now take it in your mouth and blow me."
+    p "Bien, maintenant prends-le dans ta bouche et souffle-moi."
+
+# game/day34.rpy:1001
+translate french day34_b_blowjob_hard_a123ea2c:
+
+    # "{i}Your sister obediently puts your cock in her mouth and starts to suck."
+    "{i}Votre sœur met docilement votre bite dans sa bouche et commence à la sucer."
+# game/day34.rpy:1003
+translate french day34_b_blowjob_hard_5effce97:
+
+    # "{i}Your girl obediently puts your cock in her mouth and starts to suck."
+    "{i}Votre fille met docilement votre bite dans sa bouche et commence à la sucer."
+# game/day34.rpy:1004
+translate french day34_b_blowjob_hard_a1a9f244:
+
+    # "{i}Enjoying the feeling of her warm mouth, you're silent for a while."
+    "{i}Appréciant la sensation de sa bouche chaude, vous restez silencieux pendant un moment"
+
+# game/day34.rpy:1006
+translate french day34_b_blowjob_hard_099d567d:
+
+    # "{i}You're amazed by the intensity with which she's sucking you off, and you're unable to last for very long."
+    "{i}Vous êtes surpris par l'intensité avec laquelle elle vous suce et vous n'arrivez pas à tenir longtemps."
+# game/day34.rpy:1008
+translate french day34_b_blowjob_hard_7d1c8eb1:
+
+    # p "Fuck [b_name]! Aaah!"
+    p "Fuck [b_name] ! Aaah !"
+
+# game/day34.rpy:1012
+translate french day34_b_blowjob_hard_4e04842b:
+
+    # p "K-k-keep it in your mouth!"
+    p "K-k-keep it in your mouth !"
+
+# game/day34.rpy:1013
+translate french day34_b_blowjob_hard_3c0a473a:
+
+    # p "D-don't y-you dare stop!"
+    p "N'osez pas vous arrêter !"
+
+# game/day34.rpy:1014
+translate french day34_b_blowjob_hard_50bbcd73:
+
+    # "{i}Grim-faced, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Le visage sinistre de [b_name] continue à vous donner la tête et ne s'arrête pas quand votre sperme commence à couler."
+# game/day34.rpy:1017
+translate french day34_b_blowjob_hard_fbb71cb4:
+
+    # "{i}You make her stop briefly to allow you to cream her mouth."
+    "{i}Tu la fais s'arrêter brièvement pour te permettre de lui mettre du lait dans la bouche."
+# game/day34.rpy:1018
+translate french day34_b_blowjob_hard_3830744e:
+
+    # p "Now be a good little girl and swallow it."
+    p "Maintenant, sois une bonne petite fille et avale-le."
+
+# game/day34.rpy:1023
+translate french day34_b_blowjob_hard_a5e5ca6a:
+
+    # "{i}Looking at you with piercing eyes, your sister swallows your entire load."
+    "{i}En vous regardant avec des yeux perçants, votre sœur avale tout votre chargement."
+# game/day34.rpy:1025
+translate french day34_b_blowjob_hard_ecd95d63:
+
+    # "{i}Looking at you with piercing eyes, your girl swallows your entire load."
+    "{i}En vous regardant avec des yeux perçants, votre fille avale tout votre chargement."
+# game/day34.rpy:1026
+translate french day34_b_blowjob_hard_8353f083:
+
+    # "{i}When she's all done, you pull her closer to you and have her rest on your chest."
+    "{i}Quand elle a fini, tu la rapproches de toi et tu la fais reposer sur ta poitrine."
+# game/day34.rpy:1037
+translate french day34_b_blowjob_hard_970769f2:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, you make her pull out your cock and have it directed at her face."
+    "{i}En remarquant les signes révélateurs que tu es proche de l'orgasme, tu lui fais sortir ta bite et tu la diriges vers son visage."
+# game/day34.rpy:1043
+translate french day34_b_blowjob_hard_02b699c5:
+
+    # "{i}As she holds your cock it begins to shoot thick strands of cum, pasting her face with warm seed."
+    "{i}Alors qu'elle tient ta bite, celle-ci commence à produire d'épais jets de sperme qui recouvrent son visage d'une semence chaude."
+# game/day34.rpy:1045
+translate french day34_b_blowjob_hard_9b054faf:
+
+    # b "Goddamnit, I just did my make-up."
+    b "Putain, je viens de me maquiller"
+
+# game/day34.rpy:1046
+translate french day34_b_blowjob_hard_567e1dc4:
+
+    # p "This looks good on you too."
+    p "Ça te va bien aussi"
+
+# game/day34.rpy:1047
+translate french day34_b_blowjob_hard_efe857be:
+
+    # b "Fuck you."
+    b "Va te faire foutre"
+
+# game/day34.rpy:1048
+translate french day34_b_blowjob_hard_8c74f50b:
+
+    # "{i}After [b_name] cleans herself up somewhat you pull her closer to you and have her rest on your chest."
+    "{i}Après que [b_name] se soit nettoyé un peu, vous la rapprochez de vous et la faites reposer sur votre poitrine."
+# game/day34.rpy:1056
+translate french day34_b_blowjob_hard_0f34104f:
+
+    # b "Thank you."
+    b "Merci"
+
+# game/day34.rpy:1057
+translate french day34_b_blowjob_hard_1b640dae:
+
+    # p "What?"
+    p "Quoi ?"
+
+# game/day34.rpy:1058
+translate french day34_b_blowjob_hard_7d6ce687:
+
+    # b "You told me to blow you and say thank you."
+    b "Tu m'as dit de te sucer et de te remercier"
+
+# game/day34.rpy:1059
+translate french day34_b_blowjob_hard_a79c6a6a:
+
+    # b "I just did both."
+    b "Je viens de faire les deux"
+
+# game/day34.rpy:1060
+translate french day34_b_blowjob_hard_874fdd89:
+
+    # p "{i}(I'd already forgotten about that...)"
+    p "{i}(je l'avais déjà oublié)"
+
+# game/day34.rpy:1061
+translate french day34_b_blowjob_hard_24c39dc8:
+
+    # b "Or did your brain just leave through the same exit, together with all that cum?"
+    b "Ou est-ce que ton cerveau est parti par la même sortie avec tout ce sperme ?"
+
+# game/day34.rpy:1062
+translate french day34_b_blowjob_hard_ae19be12:
+
+    # p "No, you're right."
+    p "Non tu as raison"
+
+# game/day34.rpy:1063
+translate french day34_b_blowjob_hard_e18221a4:
+
+    # p "You did well."
+    p "Vous avez bien travaillé"
+
+# game/day34.rpy:1064
+translate french day34_b_blowjob_hard_3e0cde11:
+
+    # b "Sure..."
+    b "Bien sûr"
+
+# game/day34.rpy:1066
+translate french day34_b_blowjob_hard_bd89621d:
+
+    # "{i}You lie with her in silence for a while before returning to your room."
+    "{i}Vous restez avec elle en silence pendant un certain temps avant de retourner dans votre chambre."
+# game/day34.rpy:1076
+translate french day34_b_blowjob_30959ace:
+
+    # p "{i}(I have the most beautiful girlfriend.)"
+    p "{i}(j'ai la plus belle petite amie)"
+
+# game/day34.rpy:1078
+translate french day34_b_blowjob_67cd64c2:
+
+    # b "Have you been staring like that for long?"
+    b "Cela fait longtemps que tu regardes comme ça ?"
+
+# game/day34.rpy:1079
+translate french day34_b_blowjob_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Quelques heures seulement"
+
+# game/day34.rpy:1080
+translate french day34_b_blowjob_99d2099d:
+
+    # b "Haha, sure..."
+    b "Haha sure"
+
+# game/day34.rpy:1081
+translate french day34_b_blowjob_6a064bd8:
+
+    # b "This was supposed to be a surprise."
+    b "C'était censé être une surprise"
+
+# game/day34.rpy:1082
+translate french day34_b_blowjob_262f8602:
+
+    # b "I was about to put on the panties that come with this set."
+    b "J'étais sur le point de mettre la culotte fournie avec cet ensemble"
+
+# game/day34.rpy:1083
+translate french day34_b_blowjob_19dc1a80:
+
+    # p "It's beautiful, though I like you best without clothes on."
+    p "C'est beau, mais je te préfère sans vêtements"
+
+# game/day34.rpy:1084
+translate french day34_b_blowjob_84ac98ab:
+
+    # b "Horny little boy."
+    b "Petit garçon excité"
+
+# game/day34.rpy:1085
+translate french day34_b_blowjob_de805f06:
+
+    # p "You have that effect on me."
+    p "Vous avez cet effet sur moi"
+
+# game/day34.rpy:1086
+translate french day34_b_blowjob_26ceb081:
+
+    # p "But I'll act properly surprised if you wear this next time."
+    p "Mais je serai vraiment surpris si tu portes ça la prochaine fois"
+
+# game/day34.rpy:1092
+translate french day34_b_blowjob_cc670891:
+
+    # b "You like it?"
+    b "Tu aimes ça ?"
+
+# game/day34.rpy:1093
+translate french day34_b_blowjob_a5de22e1:
+
+    # p "Very much."
+    p "Beaucoup"
+
+# game/day34.rpy:1094
+translate french day34_b_blowjob_162fb551:
+
+    # p "I feel a little bad though, spoiling this moment."
+    p "Je me sens un peu mal de gâcher ce moment"
+
+# game/day34.rpy:1095
+translate french day34_b_blowjob_4a14a428:
+
+    # b "I don't mind."
+    b "Je n'y vois pas d'inconvénient"
+
+# game/day34.rpy:1096
+translate french day34_b_blowjob_0b329c66:
+
+    # p "No, why don't we go shopping for some nice lingerie tomorrow?"
+    p "Non, pourquoi ne pas aller acheter de la lingerie demain ?"
+
+# game/day34.rpy:1098
+translate french day34_b_blowjob_14ecefea:
+
+    # b "That sounds like a fantastic plan!"
+    b "C'est un plan fantastique !"
+
+# game/day34.rpy:1099
+translate french day34_b_blowjob_d70814d0:
+
+    # b "You know... The surprise wasn't just wearing this..."
+    b "Tu sais que la surprise n'était pas seulement de porter ça"
+
+# game/day34.rpy:1100
+translate french day34_b_blowjob_e22d4a11:
+
+    # p "Oh... What else did you have in mind."
+    p "Oh ! Qu'est-ce que tu as d'autre en tête ?"
+
+# game/day34.rpy:1102
+translate french day34_b_blowjob_2ce02568:
+
+    # b "I was going to get you on the bed."
+    b "J'allais te mettre sur le lit"
+
+# game/day34.rpy:1103
+translate french day34_b_blowjob_fe6629f3:
+
+    # b "And undress you."
+    b "Et te déshabiller"
+
+# game/day34.rpy:1104
+translate french day34_b_blowjob_579c8be7:
+
+    # p "Really..."
+    p "Vraiment"
+
+# game/day34.rpy:1109
+translate french day34_b_blowjob_efd0e395:
+
+    # b "Then I would make you hard."
+    b "Alors je te ferais bander"
+
+# game/day34.rpy:1110
+translate french day34_b_blowjob_4103f1fb:
+
+    # b "Stroking your dick with my hands."
+    b "Caresser ta bite avec mes mains"
+
+# game/day34.rpy:1111
+translate french day34_b_blowjob_f6220564:
+
+    # p "Oh fuck... [b_name]..."
+    p "Oh fuck [b_name]"
+
+# game/day34.rpy:1117
+translate french day34_b_blowjob_d6318230:
+
+    # b "I would tease you by ever so slightly licking the head of your dick."
+    b "Je te taquinerais en léchant très légèrement la tête de ta bite"
+
+# game/day34.rpy:1118
+translate french day34_b_blowjob_0977e5d9:
+
+    # p "Uh-huh... K-keep going..."
+    p "Uh-huh K-continuez"
+
+# game/day34.rpy:1119
+translate french day34_b_blowjob_f0d6e12b:
+
+    # b "And when your dick is wet enough and you're ready, I'd begin sucking you."
+    b "Et quand ta queue sera suffisamment mouillée et que tu seras prêt, je commencerai à te sucer"
+
+# game/day34.rpy:1125
+translate french day34_b_blowjob_be2364a5:
+
+    # "{i}[b_name] is unable to say anything further as she takes your cock in her mouth."
+    "{i}[b_name] est incapable de dire quoi que ce soit de plus alors qu'elle prend votre bite dans sa bouche"
+
+# game/day34.rpy:1126
+translate french day34_b_blowjob_bebb41dd:
+
+    # p "I-I really like this surprise."
+    p "J'aime vraiment cette surprise"
+
+# game/day34.rpy:1129
+translate french day34_b_blowjob_16e5484a:
+
+    # "{i}You see your sister smile as she controls your pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Tu vois ta sœur sourire alors qu'elle contrôle ton plaisir en te soufflant avec une telle intensité que tu ne peux pas tenir très longtemps."
+# game/day34.rpy:1131
+translate french day34_b_blowjob_584755f7:
+
+    # "{i}You see your girlfriend smile as she controls pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Vous voyez votre petite amie sourire alors qu'elle contrôle le plaisir de vous faire sauter avec une telle intensité que vous ne pouvez pas tenir très longtemps."
+# game/day34.rpy:1133
+translate french day34_b_blowjob_cf330df2:
+
+    # p "[b_name]! I'm... Oooh!"
+    p "[b_name] ! Je suis Oooh !"
+
+# game/day34.rpy:1137
+translate french day34_b_blowjob_15cde731:
+
+    # "{i}Despite all the signals you're close to orgasm, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Malgré tous les signaux indiquant que vous êtes proche de l'orgasme, [b_name] continue à vous donner la tête et ne s'arrête pas lorsque votre sperme commence à couler."
+# game/day34.rpy:1144
+translate french day34_b_blowjob_715c0843:
+
+    # "{i}She stops briefly to allow you to cream her mouth and then swallows your entire load, smiling at you deliriously."
+    "{i}Elle s'arrête brièvement pour vous permettre de crémer sa bouche, puis elle avale tout le contenu en vous souriant d'un air délirant."
+# game/day34.rpy:1145
+translate french day34_b_blowjob_69f0bf5f:
+
+    # "{i}Satisfied, she rests her head on your chest."
+    "{i}Satisfaite, elle repose sa tête sur votre poitrine"
+
+# game/day34.rpy:1157
+translate french day34_b_blowjob_b85b41c1:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, [b_name] pulls out your cock and attempts to direct it to her chest."
+    "{i}Remarquant les signes révélateurs que vous êtes proche de l'orgasme, [b_name] sort votre bite et tente de la diriger vers sa poitrine."
+# game/day34.rpy:1160
+translate french day34_b_blowjob_4ac81696:
+
+    # "{i}Your cum begins to shoot earlier than you both thought and you end up pasting her face with warm seed."
+    "{i}Votre sperme commence à jaillir plus tôt que vous ne le pensiez tous les deux et vous finissez par inonder son visage de semence chaude."
+# game/day34.rpy:1162
+translate french day34_b_blowjob_a1c4b72e:
+
+    # b "Wow! Haha!"
+    b "Wow ! Haha !"
+
+# game/day34.rpy:1163
+translate french day34_b_blowjob_4b468aa8:
+
+    # "{i}After [b_name] cleans herself up somewhat she rests her head on your chest."
+    "{i}Après que [b_name] s'est quelque peu nettoyé, elle repose sa tête sur votre poitrine"
+
+# game/day34.rpy:1171
+translate french day34_b_blowjob_bfcb1211:
+
+    # b "Afterwards we'd lie together and you'd stroke my skin and kiss my hair."
+    b "Ensuite, nous nous allongerions ensemble et tu me caresserais la peau et embrasserais mes cheveux"
+
+# game/day34.rpy:1172
+translate french day34_b_blowjob_d0791796:
+
+    # p "Mmmm, sounds really good."
+    p "Mmmm ça a l'air vraiment bon"
+
+# game/day34.rpy:1173
+translate french day34_b_blowjob_d8a0209b:
+
+    # b "I know, shame you spoiled the surprise."
+    b "Je sais que tu as honte d'avoir gâché la surprise"
+
+# game/day34.rpy:1174
+translate french day34_b_blowjob_147e8b69:
+
+    # p "Yup, but luckily you're a very evocative storyteller."
+    p "Oui, mais heureusement vous êtes un conteur très évocateur."
+
+# game/day34.rpy:1175
+translate french day34_b_blowjob_d81a9abb:
+
+    # b "Haha, I know, right?"
+    b "Haha je sais, hein ?"
+
+# game/day34.rpy:1177
+translate french day34_b_blowjob_b1f0c319:
+
+    # "{i}You chat some more with her and just enjoy her company before returning to your room."
+    "{i}Vous discutez encore un peu avec elle et profitez de sa compagnie avant de retourner dans votre chambre."
+# game/day34.rpy:1193
+translate french day34_r_fingering_b1e96493:
+
+    # "{i}[r_name] slides her hand back between her legs and begins to massage her clitoris."
+    "{i}[r_name] glisse sa main entre ses jambes et commence à masser son clitoris."
+
+# game/day34.rpy:1194
+translate french day34_r_fingering_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm !"
+
+# game/day34.rpy:1196
+translate french day34_r_fingering_a944f345:
+
+    # "{i}One of her fingers slips inside her pussy as she keeps working on her clit. You play with her breasts a little and kiss her neck."
+    "{i}Un de ses doigts glisse à l'intérieur de sa chatte alors qu'elle continue à travailler sur son clito. Tu joues un peu avec ses seins et tu embrasses son cou."
+# game/day34.rpy:1198
+translate french day34_r_fingering_932f09f4:
+
+    # "{i}Your sister seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Votre sœur semble être sur un autre plan de conscience, ses yeux se révulsent et sa respiration devient superficielle."
+# game/day34.rpy:1200
+translate french day34_r_fingering_f4ddeb7b:
+
+    # "{i}Your friend seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Votre amie semble être sur un autre plan de conscience car ses yeux se révulsent et sa respiration devient superficielle."
+# game/day34.rpy:1201
+translate french day34_r_fingering_8dc9b6f7:
+
+    # "{i}Judging from her soft moans in your ear and the firm grip of her other hand on your arm, you know she's close."
+    "{i}A en juger par ses doux gémissements dans ton oreille et la fermeté de son autre main sur ton bras, tu sais qu'elle est proche."
+# game/day34.rpy:1208
+translate french day34_r_fingering_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah !"
+
+# game/day34.rpy:1209
+translate french day34_r_fingering_918b8b55:
+
+    # "{i}Her climax is beautiful, she shudders in your arms, biting her lip, her legs making involuntary movements."
+    "{i}Son orgasme est magnifique, elle frissonne dans vos bras en se mordant la lèvre, ses jambes font des mouvements involontaires."
+# game/day34.rpy:1214
+translate french day34_r_fingering_1da72a37:
+
+    # p "I love you, [r_name]."
+    p "Je t'aime [r_name]"
+
+# game/day34.rpy:1215
+translate french day34_r_fingering_20f32c2a:
+
+    # r "I... love you too, [p_name]."
+    r "Je t'aime aussi [p_name]"
+
+# game/day34.rpy:1234
+translate french day34_ri_sex_119ad400:
+
+    # p "I thought maybe we could pass the time while the others fight outside?"
+    p "J'ai pensé que nous pourrions peut-être passer le temps pendant que les autres se battent à l'extérieur ?"
+
+# game/day34.rpy:1235
+translate french day34_ri_sex_e01ff968:
+
+    # "{i}Riley is already unbuttoning her shorts and looking longingly at the butt plug you're holding."
+    "{i}Riley est déjà en train de déboutonner son short et de regarder avec envie le butt plug que tu tiens."
+# game/day34.rpy:1236
+translate french day34_ri_sex_0cf4034c:
+
+    # ri "This place is rather perfect for what I think you're proposing."
+    ri "Cet endroit est plutôt parfait pour ce que je pense que vous proposez"
+
+# game/day34.rpy:1238
+translate french day34_ri_sex_26743edb:
+
+    # p "{i}(Something about this place sure makes you want to fuck, I'm sure Ana agrees.)"
+    p "{i}(Quelque chose dans cet endroit vous donne envie de baiser, je suis sûr qu'Ana est d'accord)"
+
+# game/day34.rpy:1244
+translate french day34_ri_sex_be48a7ea:
+
+    # ri "Let's not waste time then."
+    ri "Ne perdons pas de temps alors"
+
+# game/day34.rpy:1245
+translate french day34_ri_sex_227d508e:
+
+    # p "Do you want to try the toy?"
+    p "Veux-tu essayer le jouet ?"
+
+# game/day34.rpy:1246
+translate french day34_ri_sex_f16c4169:
+
+    # ri "I think I do."
+    ri "Je pense que oui"
+
+# game/day34.rpy:1247
+translate french day34_ri_sex_48c33a2a:
+
+    # p "Why don't you get that thing nice and wet then."
+    p "Pourquoi tu ne mouilles pas ce truc bien comme il faut"
+
+# game/day34.rpy:1252
+translate french day34_ri_sex_f6e54073:
+
+    # "{i}You offer Riley the toy, which she proceeds to suck and you get undressed yourself."
+    "{i}Vous offrez à Riley le jouet qu'elle suce et vous vous déshabillez vous-même."
+# game/day34.rpy:1257
+translate french day34_ri_sex_b74670b7:
+
+    # "{i}Riley spreads her ass and reveals her delicate butthole."
+    "{i}Riley écarte les fesses et dévoile son délicat trou du cul."
+# game/day34.rpy:1258
+translate french day34_ri_sex_64cd6b1b:
+
+    # ri "I've never been fucked with a toy in my ass."
+    ri "Je n'ai jamais été baisée avec un jouet dans le cul"
+
+# game/day34.rpy:1259
+translate french day34_ri_sex_2c4e797f:
+
+    # p "Just a warning, if you see a strapon dildo, just leave it, I'm really not interested in trying a toy in {i}my{/i} ass.."
+    p "Juste un avertissement, si vous voyez un gode à lanières, laissez-le, je n'ai vraiment pas envie d'essayer un jouet dans {i}mon{/i} cul."
+
+# game/day34.rpy:1260
+translate french day34_ri_sex_ab3affc3:
+
+    # ri "Haha!"
+    ri "Haha !"
+
+# game/day34.rpy:1261
+translate french day34_ri_sex_61e47689:
+
+    # ri "I'll be a good girl."
+    ri "Je serai une bonne fille"
+
+# game/day34.rpy:1266
+translate french day34_ri_sex_27dd744b:
+
+    # "{i}Very softly, you push the wet toy against the folds of Riley's anus, as she relaxes the tip slips inside her butthole."
+    "{i}Très doucement, vous poussez le jouet humide contre les plis de l'anus de Riley, alors qu'elle se détend, la pointe glisse à l'intérieur de son trou du cul."
+# game/day34.rpy:1267
+translate french day34_ri_sex_37d94932:
+
+    # ri "Mmmmm. Don't rush!"
+    ri "Mmmmm Ne vous précipitez pas !"
+
+# game/day34.rpy:1269
+translate french day34_ri_sex_1e0b0e71:
+
+    # "{i}The toy inches further inside her ass until the entirety of it is enfolded by her anus."
+    "{i}Le jouet s'enfonce un peu plus dans son cul jusqu'à ce qu'il soit entièrement enveloppé par son anus."
+# game/day34.rpy:1270
+translate french day34_ri_sex_d49a9468:
+
+    # p "It's in."
+    p "It's in"
+
+# game/day34.rpy:1271
+translate french day34_ri_sex_cefc623d:
+
+    # ri "God yes, I know."
+    ri "Dieu oui je sais"
+
+# game/day34.rpy:1272
+translate french day34_ri_sex_7a927d83:
+
+    # ri "It feels so full."
+    ri "C'est tellement plein"
+
+# game/day34.rpy:1273
+translate french day34_ri_sex_89af8dec:
+
+    # ri "Kiss me!"
+    ri "Embrasse-moi !"
+
+# game/day34.rpy:1279
+translate french day34_ri_sex_11b069f7:
+
+    # "{i}Riley's kiss is fueled by hunger, as the insertion of the toy has really liberated her lust."
+    "{i}Le baiser de Riley est alimenté par la faim, car l'insertion du jouet a vraiment libéré son désir."
+# game/day34.rpy:1281
+translate french day34_ri_sex_5098614a:
+
+    # "{i}The girl drops to her knees to focus all of her attention on your dick and covers it in kisses."
+    "{i}La fille se met à genoux pour concentrer toute son attention sur ta bite et la couvrir de baisers."
+# game/day34.rpy:1282
+translate french day34_ri_sex_3f9102c6:
+
+    # "{i}Her kisses become eager licks, until she dares to take your member in her mouth."
+    "{i}Ses baisers deviennent des léchouilles avides jusqu'à ce qu'elle ose prendre ton membre dans sa bouche."
+# game/day34.rpy:1288
+translate french day34_ri_sex_c85bc569:
+
+    # "{i}The warm, wet sensation hardens your cock even more, something Riley notices with approval."
+    "{i}La sensation de chaleur et d'humidité durcit encore plus ta bite, ce que Riley remarque avec approbation."
+# game/day34.rpy:1289
+translate french day34_ri_sex_eaf15dd8:
+
+    # p "I had forgotten what a great cocksucker you are."
+    p "J'avais oublié à quel point tu es un grand suceur de bites"
+
+# game/day34.rpy:1290
+translate french day34_ri_sex_637bd8cf:
+
+    # ri "You forgot?"
+    ri "You forgot?"
+
+# game/day34.rpy:1291
+translate french day34_ri_sex_bd3bd2a7:
+
+    # ri "Now you've hurt my feelings!"
+    ri "Maintenant tu m'as fait de la peine !"
+
+# game/day34.rpy:1293
+translate french day34_ri_sex_1519d2bf:
+
+    # "{i}Riley punctuates her joking remark by sucking hard on your glans, a feeling that's equally pleasurable and painful."
+    "{i}Riley ponctue sa plaisanterie en suçant fortement votre gland, une sensation à la fois agréable et douloureuse."
+# game/day34.rpy:1294
+translate french day34_ri_sex_1578ee19:
+
+    # p "Ouch!"
+    p "Ouch !"
+
+# game/day34.rpy:1295
+translate french day34_ri_sex_74576d26:
+
+    # ri "Too intense?"
+    ri "Trop intense ?"
+
+# game/day34.rpy:1296
+translate french day34_ri_sex_fa8e2637:
+
+    # p "Only a little."
+    p "Seulement un peu"
+
+# game/day34.rpy:1302
+translate french day34_ri_sex_52fa1734:
+
+    # "{i}Before she can respond, you pull her closer and press your cock against her entrance."
+    "{i}Avant qu'elle ne puisse répondre, tu la rapproches et tu presses ta bite contre son entrée."
+# game/day34.rpy:1303
+translate french day34_ri_sex_9440ca01:
+
+    # p "I'm going to fuck you so hard."
+    p "Je vais te baiser si fort"
+
+# game/day34.rpy:1304
+translate french day34_ri_sex_31ddf337:
+
+    # ri "Mmmm, show me!"
+    ri "Mmmm montre moi !"
+
+# game/day34.rpy:1309
+translate french day34_ri_sex_343f1728:
+
+    # "{i}You see her eyes widen as you push your cock between her pussy lips and inside her tight fuckhole."
+    "{i}Tu vois ses yeux s'écarquiller quand tu pousses ta bite entre les lèvres de sa chatte et à l'intérieur de son trou de balle serré."
+# game/day34.rpy:1310
+translate french day34_ri_sex_bcea34b2:
+
+    # ri "Aaah!"
+    ri "Aaah !"
+
+# game/day34.rpy:1311
+translate french day34_ri_sex_38ec74d5:
+
+    # ri "Keep going like that, don't pull out!"
+    ri "Continue comme ça, ne te retire pas !"
+
+# game/day34.rpy:1313
+translate french day34_ri_sex_3bec7f8d:
+
+    # "{i}You have absolutely no intention of pulling out and keep Riley in a tight embrace, your cock hammering her pussy."
+    "{i}Tu n'as absolument pas l'intention de te retirer et tu gardes Riley dans une étreinte serrée, ta bite martelant sa chatte."
+# game/day34.rpy:1314
+translate french day34_ri_sex_7940e3e6:
+
+    # "{i}At the peak of your passion, when you move her body to get better access to her moist slit, Riley nearly swipes a collection of dildos from a shelf."
+    "{i}Au plus fort de votre passion, lorsque vous bougez son corps pour mieux accéder à sa fente humide, Riley prend presque une collection de godemichés sur une étagère."
+# game/day34.rpy:1316
+translate french day34_ri_sex_c62a725e:
+
+    # "{i}The girl manages to giggle between her breathless gasps of pleasure and smiles at you while you continue to fuck her."
+    "{i}La fille parvient à glousser entre ses halètements de plaisir et vous sourit pendant que vous continuez à la baiser."
+# game/day34.rpy:1322
+translate french day34_ri_sex_8c3331ef:
+
+    # "{i}To get a better view of the toy that's still plugged inside her ass, you push Riley on one of the chairs and fuck her doggy style."
+    "{i}Pour avoir une meilleure vue du jouet qui est toujours branché dans son cul, tu pousses Riley sur l'une des chaises et tu la baises en levrette."
+# game/day34.rpy:1323
+translate french day34_ri_sex_46aea005:
+
+    # ri "Fuck me, [p_name], don't stop!"
+    ri "Baise-moi [p_name] ne t'arrête pas !"
+
+# game/day34.rpy:1325
+translate french day34_ri_sex_21ad4c97:
+
+    # "{i}When you slap her ass, Riley moans even harder and starts to finger herself."
+    "{i}Lorsque vous lui donnez une tape sur le cul, Riley gémit encore plus fort et commence à se doigter."
+# game/day34.rpy:1326
+translate french day34_ri_sex_83d160e1:
+
+    # "{i}Her breasts dangle and bounce on the rhythm of your fucking and you can't contain a sudden urge to play with them."
+    "{i}Ses seins pendent et rebondissent au rythme de votre baiser et vous ne pouvez contenir une envie soudaine de jouer avec eux."
+# game/day34.rpy:1328
+translate french day34_ri_sex_a7a739a8:
+
+    # "{i}You pull Riley's upper body towards you, her ass pressing against your abdomen and your cock shoved up to the root in her cunt."
+    "{i}Vous tirez le haut du corps de Riley vers vous, ses fesses se pressent contre votre abdomen et votre bite est enfoncée jusqu'à la racine dans sa chatte."
+# game/day34.rpy:1329
+translate french day34_ri_sex_b816ae4b:
+
+    # "{i}The position doesn't allow for aggressive thrusts, but you're so deep inside her that it doesn't matter, the sensation is nearly overwhelming for you both."
+    "{i}La position ne permet pas des poussées agressives mais vous êtes si profondément en elle que cela n'a pas d'importance, la sensation est presque irrésistible pour vous deux."
+# game/day34.rpy:1330
+translate french day34_ri_sex_9a92e185:
+
+    # "{i}As you play with her breasts and nipples, Riley continues to finger herself to completion."
+    "{i}Pendant que vous jouez avec ses seins et ses mamelons, Riley continue de se doigter jusqu'à la fin."
+
+# game/day34.rpy:1337
+translate french day34_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "F-f-fuck !"
+
+# game/day34.rpy:1338
+translate french day34_ri_sex_8b44502e:
+
+    # "{i}Riley screams as she reaches her orgasm, shuddering in your arms, her hand still clasped over her pussy."
+    "{i}Riley hurle alors qu'elle atteint son orgasme, frémissant dans vos bras, sa main toujours serrée sur sa chatte."
+# game/day34.rpy:1340
+translate french day34_ri_sex_42d42502:
+
+    # "{i}Her constrictions are so intense that the toy is pushed out of her asshole, making her scream even louder with pleasure and relief."
+    "{i}Ses constrictions sont si intenses que le jouet est poussé hors de son trou du cul, ce qui la fait crier encore plus fort de plaisir et de soulagement."
+# game/day34.rpy:1342
+translate french day34_ri_sex_7f864c7c:
+
+    # "{i}The sight of her gaping anus, after giving birth to the black plug, trigger your own orgasm."
+    "{i}La vue de son anus béant après avoir donné naissance au bouchon noir déclenche votre propre orgasme."
+# game/day34.rpy:1348
+translate french day34_ri_sex_aa317619:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to fill her with seed."
+    "{i}Vous êtes envahi par une sensation soudaine de faire du corps de Riley le vôtre pour y laisser votre marque et la remplir de semence."
+# game/day34.rpy:1357
+translate french day34_ri_sex_df0632e6:
+
+    # "{i}So you kiss her neck and hug her tightly as your cock erupts inside her vagina."
+    "{i}Alors tu embrasses son cou et tu la serres fort pendant que ta bite entre en éruption dans son vagin."
+
+# game/day34.rpy:1358
+translate french day34_ri_sex_72390f9a:
+
+    # "{i}Semen keeps flowing for what seems like several minutes and you stay inside her until your erection starts to fade."
+    "{i}Le sperme continue à couler pendant ce qui semble être plusieurs minutes et vous restez en elle jusqu'à ce que votre érection commence à s'estomper."
+# game/day34.rpy:1360
+translate french day34_ri_sex_e0ce5bd9:
+
+    # "{i}When you pull out, a trickle of seed streams out of her slit, the warm sensation on her thighs causes Riley to smile."
+    "{i}Lorsque vous vous retirez, un filet de semence s'écoule de sa fente. La sensation de chaleur sur ses cuisses fait sourire Riley."
+# game/day34.rpy:1374
+translate french day34_ri_sex_4aedcb53:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to cover her with seed."
+    "{i}Vous êtes envahi par une sensation soudaine de faire du corps de Riley le vôtre pour y laisser votre marque et la couvrir de semences."
+# game/day34.rpy:1378
+translate french day34_ri_sex_f3ef623b:
+
+    # "{i}You pull out as your cock erupts and spray her body with warm semen, as Riley massages her breasts using your cum with a satisfied smile on her face."
+    "{i}Vous vous retirez au moment où votre bite entre en éruption et aspergez son corps de sperme chaud tandis que Riley masse ses seins en utilisant votre sperme avec un sourire satisfait sur son visage."
+# game/day34.rpy:1390
+translate french day34_ri_sex_ad8c8589:
+
+    # "{i}You're overcome with a sudden sensation to make Riley yours, to leave your mark, to cover her face with seed."
+    "{i}Vous êtes envahi par une sensation soudaine de faire de Riley la vôtre, de laisser votre marque pour couvrir son visage de semence."
+# game/day34.rpy:1392
+translate french day34_ri_sex_0465f2e7:
+
+    # "{i}So you pull out and move her head close to your cock as it erupts."
+    "{i}Alors tu te retires et tu rapproches sa tête de ta bite pendant qu'elle entre en éruption."
+# game/day34.rpy:1395
+translate french day34_ri_sex_3b080407:
+
+    # "{i}You spray Riley's eager face with warm semen, depositing several volleys in her open mouth."
+    "{i}Vous aspergez le visage avide de Riley de sperme chaud en déposant plusieurs volées dans sa bouche ouverte."
+# game/day34.rpy:1396
+translate french day34_ri_sex_9138679b:
+
+    # "{i}The girl swallows your cum with a satisfied smile on her face."
+    "{i}La fille avale votre sperme avec un sourire satisfait sur son visage."
+# game/day34.rpy:1405
+translate french day34_ri_sex_68607fec:
+
+    # ri "Goddamn, I didn't know sex could be this intense."
+    ri "Bon sang, je ne savais pas que le sexe pouvait être aussi intense"
+
+# game/day34.rpy:1406
+translate french day34_ri_sex_b923984f:
+
+    # p "You were magnificent."
+    p "Vous étiez magnifique"
+

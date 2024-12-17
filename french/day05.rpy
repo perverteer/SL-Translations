@@ -3706,3 +3706,436 @@ translate french day05_restaurant_main_course_choices_b87fab88:
     # l "I..."
     l "Je..."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day05.rpy:1208
+translate french day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Alina se déshabille rapidement et se met à genoux."
+# game/day05.rpy:1210
+translate french day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "J'ai été une mauvaise fille [p_name]"
+
+# game/day05.rpy:1211
+translate french day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "S'il vous plaît, punissez-moi avec votre bite dure"
+
+# game/day05.rpy:1212
+translate french day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Il semble qu'Alina aime les jeux de rôle de soumission et les filles perverses)"
+
+# game/day05.rpy:1213
+translate french day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "J'ai eu toutes ces mauvaises pensées à propos de gars qui me baisaient et qui jouissaient sur moi."
+
+# game/day05.rpy:1214
+translate french day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "Alors tu as été une sale petite fille ?"
+
+# game/day05.rpy:1218
+translate french day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Oui."
+
+# game/day05.rpy:1219
+translate french day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "Et tu veux ma bite dans ta bouche ?"
+
+# game/day05.rpy:1220
+translate french day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Oui, je mérite d'être puni pour toutes les mauvaises pensées que j'ai eues."
+
+# game/day05.rpy:1221
+translate french day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Dites s'il vous plaît"
+
+# game/day05.rpy:1222
+translate french day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "S'il te plaît [p_name] mets ta bite dure dans ma bouche chaude"
+
+# game/day05.rpy:1228
+translate french day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Tu saisis sa tête et tu forces sa bouche sur ta bite dure"
+
+# game/day05.rpy:1229
+translate french day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Alina bâillonne et sourit La bave coule déjà de sa bouche"
+
+# game/day05.rpy:1231
+translate french day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "Tu aimes ça, sale petite pute ?"
+
+# game/day05.rpy:1232
+translate french day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    al "Mmmmmmmmm *Gag*."
+
+# game/day05.rpy:1241
+translate french day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}Sa langue frotte contre votre gland pendant que vous bougez sa tête de haut en bas, ce qui lui permet parfois de reprendre son souffle."
+# game/day05.rpy:1243
+translate french day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "*Slurp* *Gag* Aaaah Je veux tout"
+
+# game/day05.rpy:1247
+translate french day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Alina lèche la longueur de ta bite luisante, puis tu sens sa langue humide lécher tes couilles."
+# game/day05.rpy:1248
+translate french day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "S'il vous plaît, mettez tout !"
+
+# game/day05.rpy:1259
+translate french day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}Les yeux d'Alina commencent à pleurer et le haut de son corps est couvert de bave."
+
+# game/day05.rpy:1260
+translate french day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    al "Mmmmmmmmm !"
+# game/day05.rpy:1262
+translate french day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}Alors que votre pénis s'enfonce dans sa gorge, Alina a un regard de pure félicité."
+# game/day05.rpy:1263
+translate french day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Tu aimes quand ça fait mal, n'est-ce pas, petite pute ?"
+
+# game/day05.rpy:1264
+translate french day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Sentant que vous êtes proche de l'apogée, Alina se dégage de votre emprise et se met à quatre pattes tout en continuant d'engloutir votre membre palpitant."
+# game/day05.rpy:1265
+translate french day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Je jouis, je jouis !"
+
+# game/day05.rpy:1266
+translate french day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Mmmmm *Slurp*"
+
+# game/day05.rpy:1273
+translate french day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaah !!!"
+
+# game/day05.rpy:1274
+translate french day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}Vous projetez votre sperme chaud dans sa gorge. Alina continue de monter et descendre votre tige jusqu'à ce qu'elle ait avalé jusqu'à la dernière goutte de sperme."
+# game/day05.rpy:1279
+translate french day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Alina lèche ses lèvres couvertes de sperme et vous regarde longuement."
+# game/day05.rpy:1293
+translate french day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaah !!!"
+
+# game/day05.rpy:1294
+translate french day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}Tu te retires de sa bouche chaude et tu l'asperges d'une bonne dose de sperme sur son visage et sa poitrine."
+# game/day05.rpy:1298
+translate french day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Alina ramasse une cuillerée de sperme mélangée à sa salive avec son doigt et la met dans sa bouche."
+# game/day05.rpy:1308
+translate french day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Mmmmm bien !"
+
+# game/day05.rpy:1309
+translate french day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "{i}(Elle est un peu folle mais quel enculé !)"
+
+# game/day05.rpy:1312
+translate french day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ana avait raison, tu as un goût très agréable et en plus il y en a beaucoup !."
+
+# game/day05.rpy:1314
+translate french day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "Tu as un goût très agréable et il y en a tellement !"
+
+# game/day05.rpy:1316
+translate french day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "Suis-je une bonne fille maintenant [p_name] ?"
+
+# game/day05.rpy:1338
+translate french day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Après avoir vu les premières photos, ton pénis est déjà dur."
+# game/day05.rpy:1343
+translate french day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(j'aimerais baiser ce cul rond si fort)"
+
+# game/day05.rpy:1346
+translate french day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Après avoir vu les premières photos, ton pénis est déjà dur."
+# game/day05.rpy:1350
+translate french day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Regardez ces jambes)"
+
+# game/day05.rpy:1352
+translate french day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "{i}(Je baiserais ces seins sans pitié !)"
+
+# game/day05.rpy:1357
+translate french day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(J'espère que [p_name] est encore réveillé, j'ai oublié de lui dire quel film j'aimerais voir au cas où il devrait réserver des billets à l'avance)"
+
+# game/day05.rpy:1359
+translate french day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "{i}(Que fait-il ? Son bras bouge de haut en bas Non Se masturbe-t-il ?)"
+
+# game/day05.rpy:1360
+translate french day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(Putain ! Je crois que j'ai entendu la porte Est-ce que c'est [r_name] ?)"
+
+# game/day05.rpy:1364
+translate french day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(Fuck it whoever it is This is my room and I'm wanking)"
+
+# game/day05.rpy:1365
+translate french day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(Il ne m'a pas remarqué ?)"
+
+# game/day05.rpy:1369
+translate french day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(C'est un peu chaud de le voir comme ça)"
+
+# game/day05.rpy:1370
+translate french day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "{i}(Hmmm Quoi ?! Est-ce que je me mouille ?)"
+
+# game/day05.rpy:1376
+translate french day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Je vais me sentir moi-même pendant un petit moment)"
+
+# game/day05.rpy:1377
+translate french day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Je pense qu'elle est toujours là Cela me rend encore plus dur)"
+
+# game/day05.rpy:1380
+translate french day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Ugh Mieux vaut le laisser faire)"
+
+# game/day05.rpy:1382
+translate french day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Vous entendez la porte se refermer très doucement Il semble que vous soyez à nouveau seul avec Ana"
+
+# game/day05.rpy:1384
+translate french day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Vous entendez la porte se refermer très silencieusement Il semble que vous soyez à nouveau seul avec Jenna"
+# game/day05.rpy:1388
+translate french day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Mieux vaut arrêter avant qu'elle ne devienne vraiment bizarre)"
+
+# game/day05.rpy:1389
+translate french day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}En vous retournant, vous entendez la porte se refermer rapidement"
+
+# game/day05.rpy:1390
+translate french day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Je me demande qui c'était Je ne vais pas m'excuser ou quoi que ce soit, mais c'est ma chambre)"
+
+# game/day05.rpy:1396
+translate french day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Elle écarte les lèvres de sa chatte juteuse)"
+
+# game/day05.rpy:1397
+translate french day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(Regardez cette beauté !)"
+
+# game/day05.rpy:1400
+translate french day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah !!!)"
+
+# game/day05.rpy:1406
+translate french day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Je jouis aussi !)"
+
+# game/day05.rpy:1409
+translate french day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah !!!)"
+
+# game/day05.rpy:1413
+translate french day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Mieux vaut partir maintenant, je parlerai à [p_name] dans la matinée)"
+
+# game/day05.rpy:1417
+translate french day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Je pense que la personne à la porte est partie)"
+
+# game/day05.rpy:1418
+translate french day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(C'était si chaud)"
+
+# game/day05.rpy:1421
+translate french day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Mais attendez Qui a pris ces photos d'Ana ?!)"
+
+# game/day05.rpy:1424
+translate french day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "{i}(Mettez vos doigts là-dedans Jenna !)"
+
+# game/day05.rpy:1426
+translate french day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "{i}(C'est ça ma fille !)"
+
+# game/day05.rpy:1429
+translate french day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah !!!)"
+
+# game/day05.rpy:1435
+translate french day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Je jouis aussi !)"
+
+# game/day05.rpy:1438
+translate french day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah !!!)"
+
+# game/day05.rpy:1442
+translate french day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Mieux vaut partir maintenant, je parlerai à [p_name] dans la matinée)"
+
+# game/day05.rpy:1446
+translate french day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Je pense que la personne à la porte est partie)"
+
+# game/day05.rpy:1447
+translate french day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(C'était si chaud)"
+

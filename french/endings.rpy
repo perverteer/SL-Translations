@@ -3417,3 +3417,100 @@ translate french misc_endings_8d6c4612_1:
 
     # "{i}After blowing up his marriage, Brody became a drifter and continued living his life in continued mediocrity."
     "{i}Après avoir brisé son mariage, Brody est devenu un vagabond et a continué à vivre sa vie dans la médiocrité."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/endings.rpy:1259
+translate french endings_er_ca_sex_6c510ca4:
+
+    # "{i}Anonymous sources on the web found out that two local Taskforce bigwigs had been in a relationship with each other."
+    "{i}Des sources anonymes sur le web ont découvert que deux gros bonnets de la Taskforce locale avaient eu une relation l'un avec l'autre."
+# game/endings.rpy:1260
+translate french endings_er_ca_sex_a6789c05:
+
+    # "{i}Those bigwigs were Erica Steel and Carl Woodman."
+    "{i}Ces gros bonnets étaient Erica Steel et Carl Woodman"
+
+# game/endings.rpy:1261
+translate french endings_er_ca_sex_4b4fd9a9:
+
+    # "{i}In a multi-episode exposé an anonymous author slowly picked apart their relationship, leaving much of the country in suspense about the conclusion of the story."
+    "{i}Dans un exposé en plusieurs épisodes, un auteur anonyme a lentement démantelé leur relation, laissant une grande partie du pays dans l'expectative quant à la conclusion de l'histoire"
+
+# game/endings.rpy:1262
+translate french endings_er_ca_sex_49d4378c:
+
+    # "{i}During their time at university, both Erica and Carl were a wild bunch, the author alleged, based on a mountain of evidence published alongside the stories."
+    "{i}Pendant leur séjour à l'université, Erica et Carl étaient tous les deux des boute-en-train, affirme l'auteur en s'appuyant sur une montagne de preuves publiées parallèlement aux récits."
+# game/endings.rpy:1264
+translate french endings_er_ca_sex_f87d9266:
+
+    # "{i}They were both arrested for drunk driving multiple times, vandalized dorm rooms in an alcohol-fueled lover's spat and there were rumors of orgies happening late at night during weekends."
+    "{i}Ils ont tous deux été arrêtés pour conduite en état d'ivresse à plusieurs reprises, ont vandalisé des chambres d'étudiants dans le cadre d'une querelle amoureuse alimentée par l'alcool et des rumeurs d'orgies ont circulé tard dans la nuit pendant les week-ends."
+# game/endings.rpy:1265
+translate french endings_er_ca_sex_a0e1079c:
+
+    # "{i}The final episode of the exposé sealed the fate of pious Erica and Carl and of the whole Moral Uplift movement entirely."
+    "{i}L'épisode final de l'exposé a scellé le destin des pieux Erica et Carl et de tout le mouvement de l'élévation morale dans son intégralité."
+# game/endings.rpy:1266
+translate french endings_er_ca_sex_b9337a73:
+
+    # "{i}The last message from the anonymous author contained a short snippet of text and a movie."
+    "{i}Le dernier message de l'auteur anonyme contenait un court extrait de texte et un film."
+# game/endings.rpy:1272
+translate french endings_er_ca_sex_ab836c37:
+
+    # "{i}The text was a listing of production details regarding a movie, the embedded media a lovingly remastered bootleg of that particular film."
+    "{i}Le texte était une liste de détails sur la production d'un film, le média intégré était un bootleg remastérisé avec amour de ce film particulier."
+# game/endings.rpy:1273
+translate french endings_er_ca_sex_f84eec51:
+
+    # "{i}'Hard as Steel', was its title."
+    "{i}'Hard as Steel' était son titre"
+
+# game/endings.rpy:1274
+translate french endings_er_ca_sex_2bc643ca:
+
+    # "{i}At the thirty-minute mark, two people appeared, who'd become Internet celebrities by then through the revealing reports."
+    "{i}Au bout de trente minutes, deux personnes sont apparues, qui étaient devenues des célébrités de l'Internet grâce à des reportages révélateurs."
+# game/endings.rpy:1282
+translate french endings_er_ca_sex_06a68640:
+
+    # "{i}Erica and Carl truly fucked their brains out on camera."
+    "{i}Erica et Carl ont vraiment baisé leur cerveau devant la caméra."
+# game/endings.rpy:1283
+translate french endings_er_ca_sex_1009e6fe:
+
+    # "{i}Nothing about the boundless lust displayed by those two people reminded anyone about the self-righteous tenets of the Moral Uplift Movement."
+    "{i}Rien dans la luxure sans limite affichée par ces deux personnes n'a rappelé à qui que ce soit les principes bien-pensants du Mouvement pour l'élévation morale."
+# game/endings.rpy:1285
+translate french endings_er_ca_sex_1fe03eab:
+
+    # "{i}You all had a good laugh about Carl's heavy panting and grunting and Mrs. Steel's semen-covered body."
+    "{i}Vous avez tous bien ri des halètements et des grognements de Carl et du corps couvert de sperme de Mme Steel."
+# game/endings.rpy:1286
+translate french endings_er_ca_sex_bce10e8d:
+
+    # "{i}That one pornographic movie started an avalanche of protests against the movement and undermined them terribly."
+    "{i}Ce film pornographique a déclenché une avalanche de protestations contre le mouvement et l'a terriblement ébranlé."
+# game/endings.rpy:1287
+translate french endings_er_ca_sex_2262e35a:
+
+    # "{i}Denouncing Erica and Carl's youthful transgressions and throwing them out of the organization didn't have the same effect as before."
+    "{i}Dénoncer les transgressions de jeunesse d'Erica et de Carl et les exclure de l'organisation n'a pas eu le même effet qu'auparavant"
+
+# game/endings.rpy:1288
+translate french endings_er_ca_sex_e7cd3f58:
+
+    # "{i}The organization never recovered, slowly lost its grip on society and eventually faded away in oblivion."
+    "{i}L'organisation ne s'est jamais rétablie, elle a lentement perdu son emprise sur la société et a fini par sombrer dans l'oubli."
+# game/endings.rpy:1296
+translate french endings_er_ca_sex_ec37b497:
+
+    # "{i}'Hard as Steel' wasn't forgotten and quickly spread on all the tube sites, watched by millions of people across the world."
+    "{i}'Hard as Steel' n'a pas été oublié et s'est rapidement répandu sur tous les sites de diffusion, regardé par des millions de personnes à travers le monde"
+
+# game/endings.rpy:1297
+translate french endings_er_ca_sex_93f30e97:
+
+    # "{i}Despite becoming minor celebrities, Erica and Carl weren't very fond of the reveal and tried very hard to slink back out of the limelight, eventually succeeding."
+    "{i}Bien qu'ils soient devenus des célébrités mineures, Erica et Carl n'ont pas beaucoup aimé cette révélation et ont essayé très fort de s'éclipser des feux de la rampe, ce qu'ils ont finalement réussi à faire."

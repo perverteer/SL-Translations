@@ -3099,3 +3099,187 @@ translate french strings:
     old "Never mind"
     new "N'importe quoi..."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day04.rpy:58
+translate french day04_61e445ed:
+
+    # a "I have an idea! Why don't you come with me today?"
+    a "J'ai une idée ! Pourquoi ne viendrais-tu pas avec moi aujourd'hui ?"
+
+# game/day04.rpy:59
+translate french day04_59a3e5fc:
+
+    # p "Where to?"
+    p "Pour aller où ?"
+
+# game/day04.rpy:60
+translate french day04_b0a75591:
+
+    # a "Well, we're going shopping..."
+    a "Eh bien, nous allons faire du shopping"
+
+# game/day04.rpy:61
+translate french day04_e348b6db:
+
+    # p "Naturally."
+    p "Naturellement"
+
+# game/day04.rpy:62
+translate french day04_3a3111de:
+
+    # a "I asked [r_name] earlier, before visiting you, but she can't come."
+    a "J'ai demandé à [r_name] avant de vous rendre visite mais elle ne peut pas venir"
+
+# game/day04.rpy:63
+translate french day04_382b0ab2:
+
+    # p "Oh?"
+    p "Oh ?"
+
+# game/day04.rpy:64
+translate french day04_102afd0c:
+
+    # a "Yeah, [b_name] asked her out to lunch."
+    a "Oui [b_name] l'a invitée à déjeuner"
+
+# game/day04.rpy:65
+translate french day04_2d48d716:
+
+    # p "She did?"
+    p "Elle l'a fait ?"
+
+# game/day04.rpy:66
+translate french day04_1a2dfe21:
+
+    # a "[b_name] is not someone you refuse, if you catch my drift..."
+    a "[b_name] n'est pas quelqu'un que l'on refuse si vous voyez ce que je veux dire."
+
+# game/day04.rpy:67
+translate french day04_60c13293:
+
+    # p "Yup, she's a bitch."
+    p "Yup c'est une salope"
+
+# game/day04.rpy:68
+translate french day04_2931081c:
+
+    # a "So, it's just Alina and me. How could you refuse two beautiful women?"
+    a "Alors il n'y a qu'Alina et moi Comment peux-tu refuser deux belles femmes ?"
+
+# game/day04.rpy:71
+translate french day04_3854d23d:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting and I might be able to buy something nice for [l_name]."
+    p "{i}Je déteste acheter des vêtements, mais l'offre est tentante et je pourrais peut-être acheter quelque chose de bien pour [l_name]"
+
+# game/day04.rpy:74
+translate french day04_0489d494:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting. Might get another reward from Ana after my more than satisfactory performance just now."
+    p "{i}Je déteste acheter des vêtements mais l'offre est tentante Je pourrais obtenir une autre récompense d'Ana après ma performance plus que satisfaisante de tout à l'heure"
+
+# game/day04.rpy:77
+translate french day04_ff778e06:
+
+    # p "Well, all right. I'm in."
+    p "Bon, d'accord, j'en suis."
+
+# game/day04.rpy:78
+translate french day04_dadbfcbd:
+
+    # a "Yay! I'll meet you at the store later today."
+    a "Yay ! Je te rejoindrai au magasin plus tard dans la journée."
+
+# game/day04.rpy:82
+translate french day04_b05f7cb4:
+
+    # p "{i}(Phew. That was a nice little morning snack.)"
+    p "{i}(Phew That was a nice little morning snack)"
+
+# game/day04.rpy:87
+translate french day04_95c8d466:
+
+    # p "Please go away, Ana. Yesterday was a mistake."
+    p "S'il vous plaît, partez Ana Hier était une erreur"
+
+# game/day04.rpy:91
+translate french day04_1cfe1505:
+
+    # a "WHAT?! FUCK YOU! You utter piece of shit!"
+    a "WHAT ?! VA TE FAIRE FOUTRE ! Espèce de grosse merde !"
+
+# game/day04.rpy:92
+translate french day04_43425f49:
+
+    # a "You're going to regret this!"
+    a "Tu vas le regretter !"
+
+# game/day04.rpy:97
+translate french day04_c0e4fd2a:
+
+    # "{i}You're awakened by the sunlight spilling through the curtains."
+    "{i}Vous êtes réveillé par la lumière du soleil à travers les rideaux"
+
+# game/day04.rpy:347
+translate french day04_m_room_choices_ac4f9f29:
+
+    # "{i}After a while you go to town to meet Ana and Alina at the clothing store."
+    "{i}Au bout d'un moment, tu vas en ville pour rencontrer Ana et Alina au magasin de vêtements."
+# game/day04.rpy:352
+translate french day04_m_room_choices_3e9f821c:
+
+    # "{i}You spend your day at home, which is pretty boring."
+    "{i}Vous passez votre journée à la maison, ce qui est plutôt ennuyeux."
+# game/day04.rpy:435
+translate french day04_boutique_aadf88f7:
+
+    # al "All done? Was [p_name] any help?"
+    al "Tout est terminé ? Est-ce que [p_name] vous a aidé ?"
+
+# game/day04.rpy:436
+translate french day04_boutique_591ddada:
+
+    # a "Sure! Couldn't have done it without him."
+    a "Bien sûr ! Je n'aurais pas pu le faire sans lui"
+
+# game/day04.rpy:437
+translate french day04_boutique_10a3bcd1:
+
+    # p "Girls, I'll leave you to it. Thanks for taking me on your shopping expedition."
+    p "Les filles, je vous laisse. Merci de m'avoir emmenée dans votre expédition shopping."
+
+# game/day04.rpy:438
+translate french day04_boutique_277a0fcc:
+
+    # al "Any time, [p_name]. Be seeing ya!"
+    al "A tout moment [p_name] A bientôt !"
+
+# game/day04.rpy:439
+translate french day04_boutique_6823d1fa:
+
+    # a "Sooner rather than later, I hope!"
+    a "Plus tôt que tard, j'espère !"
+
+# game/day04.rpy:442
+translate french day04_boutique_d46543e7:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie and [l_name]'s evening dress."
+    "{i}Ana et Alina quittent le magasin pendant que vous payez la lingerie d'Ana et la robe de soirée de [l_name]."
+# game/day04.rpy:446
+translate french day04_boutique_3d15b177:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie."
+    "{i}Ana et Alina quittent le magasin pendant que vous payez la lingerie d'Ana."
+# game/day04.rpy:938
+translate french day04_ana_licking_3c84de13:
+
+    # a "I know you want me..."
+    a "Je sais que tu me veux"
+
+# game/day04.rpy:939
+translate french day04_ana_licking_b2c1d8a6:
+
+    # a "Don't you want to lick me, [p_name]? I'm so wet..."
+    a "Tu ne veux pas me lécher [p_name] ? Je suis si mouillée"
+

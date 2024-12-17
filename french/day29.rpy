@@ -4208,3 +4208,954 @@ translate french day29_l_delivery_post_651c45ac:
     # "{i}Despite the uncomfortable surroundings, you feel your eyelids grow heavy, and soon you fall asleep, your friend's naked body lying half on top of you in a tight embrace."
     "{i}Malgré l'inconfort de l'environnement, vous sentez vos paupières s'alourdir et très vite vous vous endormez, le corps nue de votre amie à moitié couché sur vous."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day29.rpy:881
+translate french day29_b_sex_09609a9f:
+
+    # "{i}[b_name]'s door is open, you peek around the corner and see the girl lying on the bed."
+    "{i}La porte de [b_name] est ouverte, vous jetez un coup d'œil dans le coin et vous voyez la fille allongée sur le lit."
+# game/day29.rpy:882
+translate french day29_b_sex_94b27143:
+
+    # p "{i}(Looks like [b_name] is enjoying a magazine.)"
+    p "{i}(On dirait que [b_name] apprécie un magazine)"
+
+# game/day29.rpy:883
+translate french day29_b_sex_5860ae81:
+
+    # p "{i}(Let's see if she's been an obedient girl and have some fun...)"
+    p "{i}(Voyons si elle a été une fille obéissante et amusons-nous un peu)"
+
+# game/day29.rpy:890
+translate french day29_b_sex_ccc63a0e:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your sister's eyes go wide and look around in panic."
+    "{i}Alors que vous augmentez l'intensité du vibromasseur, vous voyez les yeux de votre sœur s'écarquiller et regarder autour d'elle, paniquée."
+# game/day29.rpy:892
+translate french day29_b_sex_7311f431:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your girl's eyes go wide and look around in panic."
+    "{i}Alors que vous augmentez l'intensité du vibrateur, vous voyez les yeux de votre fille s'écarquiller et regarder autour d'elle, paniquée."
+# game/day29.rpy:893
+translate french day29_b_sex_a3c1c5ed:
+
+    # b "Fuck no, [p_name], not now."
+    b "Putain non [p_name] pas maintenant"
+
+# game/day29.rpy:894
+translate french day29_b_sex_a6d25133:
+
+    # p "{i}(She doesn't seem to realize that I'm very close by.)"
+    p "{i}(Elle ne semble pas réaliser que je suis très proche)"
+
+# game/day29.rpy:899
+translate french day29_b_sex_2638393a:
+
+    # b "Ugh, that fucking thing... Mmmmm..."
+    b "Ugh cette putain de chose Mmmmm"
+
+# game/day29.rpy:900
+translate french day29_b_sex_0e1021c1:
+
+    # b "Shit, it's so intense..."
+    b "Merde, c'est tellement intense"
+
+# game/day29.rpy:902
+translate french day29_b_sex_de6f24a9:
+
+    # b "Stop it..."
+    b "Arrêtez"
+
+# game/day29.rpy:903
+translate french day29_b_sex_c7443339:
+
+    # b "Make it stop..."
+    b "Faites-le cesser"
+
+# game/day29.rpy:904
+translate french day29_b_sex_54161e51:
+
+    # b "Aaah!"
+    b "Aaah !"
+
+# game/day29.rpy:905
+translate french day29_b_sex_eca6f8a6:
+
+    # b "I don't want it to stop..."
+    b "Je ne veux pas que ça s'arrête"
+
+# game/day29.rpy:910
+translate french day29_b_sex_41773800:
+
+    # "{i}When [b_name] removes her panties and starts to finger herself, you decide it's a good time to make your presence known."
+    "{i}Lorsque [b_name] enlève sa culotte et commence à se doigter, vous décidez que c'est le bon moment pour faire connaître votre présence."
+# game/day29.rpy:916
+translate french day29_b_sex_2a28189e:
+
+    # p "{i}(Looks like [b_name] is enjoying herself without me... Why on earth did she leave the door open?!)"
+    p "{i}(On dirait que [b_name] s'amuse sans moi Pourquoi diable a-t-elle laissé la porte ouverte ?!)"
+
+# game/day29.rpy:917
+translate french day29_b_sex_eab4a24c:
+
+    # p "{i}(We can't have that.)"
+    p "{i}(Nous ne pouvons pas avoir cela)"
+
+# game/day29.rpy:922
+translate french day29_b_sex_515e4abf:
+
+    # p "My dear [b_name], are you preparing yourself for me?"
+    p "Ma chère [b_name], vous vous préparez pour moi ?"
+
+# game/day29.rpy:923
+translate french day29_b_sex_adae013b:
+
+    # b "Fuck."
+    b "Fuck"
+
+# game/day29.rpy:924
+translate french day29_b_sex_49f4c2a6:
+
+    # b "No. Of course not."
+    b "Non Bien sûr que non"
+
+# game/day29.rpy:925
+translate french day29_b_sex_fc5c4f16:
+
+    # p "Sure you are."
+    p "Bien sûr"
+
+# game/day29.rpy:926
+translate french day29_b_sex_11a28985:
+
+    # p "The sight of you fingering your pussy like that has made me a little anxious."
+    p "Le fait de te voir te doigter la chatte comme ça m'a rendu un peu anxieux."
+
+# game/day29.rpy:927
+translate french day29_b_sex_4d0bd3e2:
+
+    # p "Why don't we do something about that. Together."
+    p "Pourquoi ne pas faire quelque chose à ce sujet Ensemble"
+
+# game/day29.rpy:928
+translate french day29_b_sex_5f43804c:
+
+    # b "What do you want?"
+    b "Que voulez-vous ?"
+
+# game/day29.rpy:930
+translate french day29_b_sex_a36db4fe:
+
+    # p "Let's remove that toy first."
+    p "Enlevons d'abord ce jouet"
+
+# game/day29.rpy:931
+translate french day29_b_sex_b6197f6d:
+
+    # b "About fucking time."
+    b "Il était temps"
+
+# game/day29.rpy:932
+translate french day29_b_sex_936e34c9:
+
+    # p "Spread those beautiful legs for me."
+    p "Ecartez ces belles jambes pour moi"
+
+# game/day29.rpy:934
+translate french day29_b_sex_83c0ee96:
+
+    # "{i}You pull the still vibrating egg out of [b_name]'s pussy, causing her some discomfort."
+    "{i}Vous retirez l'œuf encore vibrant de la chatte de [b_name], ce qui la met mal à l'aise."
+# game/day29.rpy:936
+translate french day29_b_sex_936e34c9_1:
+
+    # p "Spread those beautiful legs for me."
+    p "Ecartez ces belles jambes pour moi"
+
+# game/day29.rpy:939
+translate french day29_b_sex_fd6e5a3b:
+
+    # p "I see you're already nice and wet."
+    p "Je vois que tu es déjà bien mouillée"
+
+# game/day29.rpy:940
+translate french day29_b_sex_cff7f4a6:
+
+    # b "That changed as soon as you walked in."
+    b "Cela a changé dès que vous êtes entré"
+
+# game/day29.rpy:941
+translate french day29_b_sex_f2d3ad6f:
+
+    # p "Really now."
+    p "Vraiment maintenant"
+
+# game/day29.rpy:942
+translate french day29_b_sex_88dd7b36:
+
+    # p "Let's not waste more time then."
+    p "Ne perdons pas plus de temps alors"
+
+# game/day29.rpy:948
+translate french day29_b_sex_6dbdb5f6:
+
+    # "{i}You push the tip of your dick against her labia and move it up and down, sending bolts of pleasure through your body and wetting your sister's pussy again."
+    "{i}Tu pousses le bout de ta bite contre ses lèvres et tu la fais monter et descendre en envoyant des éclairs de plaisir à travers ton corps et en mouillant à nouveau la chatte de ta sœur."
+# game/day29.rpy:950
+translate french day29_b_sex_73ac75e9:
+
+    # "{i}You push the tip of your dick against her lips and move it up and down, sending bolts of pleasure through your body and wetting your girl's pussy again."
+    "{i}Tu pousses le bout de ta bite contre ses lèvres et tu la fais monter et descendre en envoyant des éclairs de plaisir à travers ton corps et en mouillant à nouveau la chatte de ta copine."
+# game/day29.rpy:955
+translate french day29_b_sex_916b0812:
+
+    # "{i}[b_name] tries very hard to not make any noises, but ultimately fails as your veined shaft slides between her pussy lips."
+    "{i}[b_name] essaie très fort de ne pas faire de bruit mais n'y parvient pas lorsque votre tige veinée glisse entre les lèvres de sa chatte."
+
+# game/day29.rpy:956
+translate french day29_b_sex_1e90da1c:
+
+    # "{i}Her breathing is measured by the rhythm of your cock slamming inside her, not pausing once to let her catch her breath."
+    "{i}Sa respiration est mesurée par le rythme de votre bite qui s'enfonce en elle sans s'arrêter une seule fois pour la laisser reprendre son souffle."
+# game/day29.rpy:958
+translate french day29_b_sex_33d36af8:
+
+    # p "Goddamn, you're so fucking amazing."
+    p "Putain, tu es vraiment incroyable"
+
+# game/day29.rpy:959
+translate french day29_b_sex_bb01cc2e:
+
+    # p "And you're mine."
+    p "Et tu es à moi"
+
+# game/day29.rpy:960
+translate french day29_b_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day29.rpy:961
+translate french day29_b_sex_d6d9f012:
+
+    # p "Say it..."
+    p "Dites-le"
+
+# game/day29.rpy:962
+translate french day29_b_sex_6fc22704_1:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day29.rpy:963
+translate french day29_b_sex_f0e66e5a:
+
+    # p "Say it, or I'll stop."
+    p "Dis-le ou j'arrête"
+
+# game/day29.rpy:964
+translate french day29_b_sex_4df92309:
+
+    # b "I... Fuck... I'm yours!"
+    b "I Fuck I'm yours !"
+
+# game/day29.rpy:965
+translate french day29_b_sex_eaa9ca80:
+
+    # p "Good girl."
+    p "Bonne fille"
+
+# game/day29.rpy:966
+translate french day29_b_sex_86dd199b:
+
+    # p "Now turn around."
+    p "Maintenant, tournez-vous"
+
+# game/day29.rpy:973
+translate french day29_b_sex_c1313980:
+
+    # "{i}Firmly, you grab the sides of her body and continue your assault on her pussy. [b_name] just lets it happen, breathing raggedly and moaning, a faint smile on her face."
+    "{i}Vous saisissez fermement les côtés de son corps et continuez votre assaut sur sa chatte [b_name] laisse faire en respirant de façon irrégulière et en gémissant avec un léger sourire sur son visage."
+
+# game/day29.rpy:974
+translate french day29_b_sex_9cf11fcf:
+
+    # "{i}You have a magnificent view of her ass which is bouncing seductively."
+    "{i}Vous avez une vue magnifique sur son cul qui rebondit de manière séduisante."
+# game/day29.rpy:976
+translate french day29_b_sex_6329f807:
+
+    # p "You liked that dildo up your ass, didn't you, [b_name]?"
+    p "Tu as aimé ce gode dans ton cul, n'est-ce pas [b_name] ?"
+
+# game/day29.rpy:977
+translate french day29_b_sex_df44d03d:
+
+    # b "No!"
+    b "Non !"
+
+# game/day29.rpy:978
+translate french day29_b_sex_dd529617:
+
+    # p "Liar, you told me so."
+    p "Menteur, tu me l'avais bien dit"
+
+# game/day29.rpy:980
+translate french day29_b_sex_f4fb6a6a:
+
+    # b "Don't do it!"
+    b "Ne faites pas ça !"
+
+# game/day29.rpy:981
+translate french day29_b_sex_90aaadf8:
+
+    # p "Relax..."
+    p "Relax"
+
+# game/day29.rpy:982
+translate french day29_b_sex_b26f9d22:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Vous crachez entre ses joues pendant que vous continuez à la baiser La salive coule vers son anus et se mélange aux sucs de sa chatte."
+
+# game/day29.rpy:984
+translate french day29_b_sex_b3759eda:
+
+    # "{i}The sight of her winking asshole gives you an idea."
+    "{i}La vue de son trou du cul clignotant vous donne une idée"
+
+# game/day29.rpy:985
+translate french day29_b_sex_4f0022a4:
+
+    # p "Your ass is so fine."
+    p "Ton cul est si fin"
+
+# game/day29.rpy:986
+translate french day29_b_sex_a6a16b10:
+
+    # b "Mmm..."
+    b "Mmm"
+
+# game/day29.rpy:987
+translate french day29_b_sex_b26f9d22_1:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Vous crachez entre ses joues pendant que vous continuez à la baiser La salive coule vers son anus et se mélange aux sucs de sa chatte."
+
+# game/day29.rpy:989
+translate french day29_b_sex_04550608:
+
+    # b "What are you doing?"
+    b "Qu'est-ce que tu fais ?"
+
+# game/day29.rpy:990
+translate french day29_b_sex_d4e7fd69:
+
+    # b "Don't you dare!"
+    b "Ne t'avise pas !"
+
+# game/day29.rpy:991
+translate french day29_b_sex_783f84f3:
+
+    # p "Just relax..."
+    p "Détendez-vous"
+
+# game/day29.rpy:993
+translate french day29_b_sex_460a8534:
+
+    # "{i}You caress the skin folds of your sister's clenched anus with your fingertips."
+    "{i}Vous caressez du bout des doigts les plis de la peau de l'anus serré de votre sœur."
+# game/day29.rpy:995
+translate french day29_b_sex_5dd93722:
+
+    # "{i}You caress the skin folds of your girl's clenched anus with your fingertips."
+    "{i}Vous caressez du bout des doigts les plis de la peau de l'anus serré de votre fille."
+# game/day29.rpy:999
+translate french day29_b_sex_7bf203dc:
+
+    # "{i}Using the saliva as a lubricant you slowly but surely press your finger inside her asshole."
+    "{i}En utilisant la salive comme lubrifiant, vous enfoncez lentement mais sûrement votre doigt dans son trou du cul."
+# game/day29.rpy:1000
+translate french day29_b_sex_797f0ad4:
+
+    # b "Ggggaaah!"
+    b "Ggggaaah !"
+
+# game/day29.rpy:1001
+translate french day29_b_sex_e506ccf2:
+
+    # "{i}You don't stop fucking her as you finger her asshole. The only thing [b_name] is able to do is moan in ecstasy."
+    "{i}Tu ne t'arrêtes pas de la baiser alors que tu lui doigtes le trou du cul La seule chose que [b_name] est capable de faire, c'est de gémir d'extase"
+
+# game/day29.rpy:1002
+translate french day29_b_sex_34ab9313:
+
+    # p "I thought you said you didn't like it?"
+    p "Je croyais que tu avais dit que tu n'aimais pas ça ?"
+
+# game/day29.rpy:1003
+translate french day29_b_sex_54161e51_1:
+
+    # b "Aaah!"
+    b "Aaah !"
+
+# game/day29.rpy:1004
+translate french day29_b_sex_e14ea2ad:
+
+    # p "There's a good slut."
+    p "Voilà une bonne salope"
+
+# game/day29.rpy:1005
+translate french day29_b_sex_6901be99:
+
+    # p "Getting off on being fingered in your ass, are you?"
+    p "Tu prends ton pied à te faire doigter le cul, c'est ça ?"
+
+# game/day29.rpy:1006
+translate french day29_b_sex_df44d03d_1:
+
+    # b "No!"
+    b "Non !"
+
+# game/day29.rpy:1007
+translate french day29_b_sex_7d1c486e:
+
+    # b "Yes!"
+    b "Oui !"
+
+# game/day29.rpy:1014
+translate french day29_b_sex_4e6002bf:
+
+    # "{i}You're about to insert another finger inside her anus when her orgasm surprises you both."
+    "{i}Vous êtes sur le point d'insérer un autre doigt dans son anus quand son orgasme vous surprend tous les deux."
+# game/day29.rpy:1016
+translate french day29_b_sex_b558bc2f:
+
+    # "{i}It makes her vagina incredibly wet, and your dick nearly slips out of her, but you manage to keep fucking her until your climax is near."
+    "{i}Cela rend son vagin incroyablement humide et votre bite a failli glisser hors d'elle, mais vous avez réussi à continuer à la baiser jusqu'à ce que votre orgasme soit proche."
+# game/day29.rpy:1027
+translate french day29_b_sex_0c355813:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Pendant que votre sœur jouit sauvagement, vous avez du mal à la maintenir sur votre bite, mais elle est toujours en elle lorsque votre sperme commence à couler."
+# game/day29.rpy:1029
+translate french day29_b_sex_09f14b39:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Pendant que votre amie jouit sauvagement, vous avez du mal à la maintenir sur votre bite, mais elle est toujours en elle lorsque votre sperme commence à couler."
+# game/day29.rpy:1043
+translate french day29_b_sex_ab97e8e5:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Pendant que ta sœur jouit sauvagement, tu as du mal à la garder sur ta queue."
+# game/day29.rpy:1045
+translate french day29_b_sex_1325384c:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Pendant que votre amie jouit sauvagement, vous avez du mal à la garder sur votre bite."
+# game/day29.rpy:1046
+translate french day29_b_sex_61875a7a:
+
+    # "{i}You let it slip out and let your cum flow all over her back."
+    "{i}Tu l'as laissé sortir et tu as laissé ton sperme couler sur son dos"
+
+# game/day29.rpy:1055
+translate french day29_b_sex_6e3c14aa:
+
+    # "{i}[b_name] cleans herself up and glares at you, despite the pleasure you just shared."
+    "{i}[b_name] se nettoie et vous regarde fixement malgré le plaisir que vous venez de partager."
+
+# game/day29.rpy:1057
+translate french day29_b_sex_ff05c4c4:
+
+    # p "That was interesting."
+    p "C'était intéressant"
+
+# game/day29.rpy:1058
+translate french day29_b_sex_3735a1ed:
+
+    # b "Don't even think for a minute I'm up for more."
+    b "Ne pensez même pas une minute que je suis prêt à en faire plus"
+
+# game/day29.rpy:1059
+translate french day29_b_sex_1d83294d:
+
+    # p "Are you sure?"
+    p "Are you sure?"
+
+# game/day29.rpy:1060
+translate french day29_b_sex_5a68789f:
+
+    # b "Yes, I'm fucking sure."
+    b "Yes I'm fucking sure"
+
+# game/day29.rpy:1061
+translate french day29_b_sex_bd0b3e68:
+
+    # p "You'll come around, I'm sure you do."
+    p "Vous reviendrez, j'en suis sûr."
+
+# game/day29.rpy:1062
+translate french day29_b_sex_c0bf7ea1:
+
+    # b "Go away."
+    b "Va-t'en"
+
+# game/day29.rpy:1077
+translate french day29_l_masturbation_bd368b3d:
+
+    # "{i}You shuffle underneath the blankets and try to keep warm."
+    "{i}Vous vous glissez sous les couvertures et essayez de vous réchauffer."
+# game/day29.rpy:1078
+translate french day29_l_masturbation_586c421f:
+
+    # l "I'm s-so c-c-cold..."
+    l "Je suis si c-froid"
+
+# game/day29.rpy:1079
+translate french day29_l_masturbation_00028e1e:
+
+    # p "Me too..."
+    p "Moi aussi"
+
+# game/day29.rpy:1080
+translate french day29_l_masturbation_04be0cfb:
+
+    # p "I read somewhere that skin on skin contact helps."
+    p "J'ai lu quelque part que le contact peau sur peau était bénéfique."
+
+# game/day29.rpy:1081
+translate french day29_l_masturbation_487dd9a4:
+
+    # l "I'm willing to try anything."
+    l "Je suis prêt à tout essayer"
+
+# game/day29.rpy:1082
+translate french day29_l_masturbation_21a958e9:
+
+    # p "We kinda need to get completely naked and hold each other close."
+    p "Il faut qu'on se mette à poil et qu'on se serre l'un contre l'autre"
+
+# game/day29.rpy:1083
+translate french day29_l_masturbation_f6cfd697:
+
+    # l "N-no underw-wear, y-you m-mean"
+    l "Pas de sous-vêtements, vous voulez dire."
+
+# game/day29.rpy:1084
+translate french day29_l_masturbation_e66125da:
+
+    # p "Yup."
+    p "Yup"
+
+# game/day29.rpy:1085
+translate french day29_l_masturbation_ea527966:
+
+    # l "T-t-that's not so b-b-bad, is it?"
+    l "Ce n'est pas si mal, n'est-ce pas ?"
+
+# game/day29.rpy:1087
+translate french day29_l_masturbation_298d3e54:
+
+    # "{i}After you both undress, you hold [l_name] in your arms. Her skin feels soft and cold on yours."
+    "{i}Après vous être déshabillés tous les deux, vous prenez [l_name] dans vos bras. Sa peau est douce et froide sur la vôtre."
+# game/day29.rpy:1088
+translate french day29_l_masturbation_947fcb87:
+
+    # p "Do you feel warmer?"
+    p "Vous sentez-vous plus chaud ?"
+
+# game/day29.rpy:1089
+translate french day29_l_masturbation_d37a2cb7:
+
+    # l "I think so."
+    l "Je pense que"
+
+# game/day29.rpy:1090
+translate french day29_l_masturbation_3c358972:
+
+    # p "You've stopped shivering."
+    p "Vous avez cessé de trembler"
+
+# game/day29.rpy:1091
+translate french day29_l_masturbation_915f99db:
+
+    # l "I'm still cold."
+    l "J'ai encore froid"
+
+# game/day29.rpy:1092
+translate french day29_l_masturbation_99085df3:
+
+    # p "Maybe it would help if we rubbed our skin."
+    p "Peut-être que ça aiderait si on se frottait la peau"
+
+# game/day29.rpy:1098
+translate french day29_l_masturbation_600802e7:
+
+    # "{i}After you place a hand on your sister's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Après avoir posé une main sur l'épaule de votre sœur, vous lui massez les bras et le dos."
+# game/day29.rpy:1100
+translate french day29_l_masturbation_7e21322b:
+
+    # "{i}After you place a hand on your friend's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Après avoir posé une main sur l'épaule de votre amie, vous lui massez les bras et le dos [l_name] ferme les yeux."
+# game/day29.rpy:1101
+translate french day29_l_masturbation_77ba347f:
+
+    # p "Is that better?"
+    p "C'est mieux ?"
+
+# game/day29.rpy:1102
+translate french day29_l_masturbation_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm"
+
+# game/day29.rpy:1103
+translate french day29_l_masturbation_fa3eddbf:
+
+    # "{i}When her upper body feels warm to the touch, you move to her hips and legs and give them the same treatment."
+    "{i}Lorsque le haut de son corps est chaud au toucher, vous passez à ses hanches et à ses jambes et leur donnez le même traitement."
+# game/day29.rpy:1104
+translate french day29_l_masturbation_1049a691:
+
+    # l "It really works."
+    l "Ça marche vraiment"
+
+# game/day29.rpy:1105
+translate french day29_l_masturbation_03b82946:
+
+    # "{i}You kiss her shoulder blade and the nape of her neck."
+    "{i}Vous embrassez son omoplate et sa nuque"
+
+# game/day29.rpy:1106
+translate french day29_l_masturbation_10443e0d:
+
+    # l "Please don't stop."
+    l "S'il vous plaît, ne vous arrêtez pas"
+
+# game/day29.rpy:1107
+translate french day29_l_masturbation_086cad75:
+
+    # p "But you're warm already."
+    p "Mais tu as déjà chaud"
+
+# game/day29.rpy:1108
+translate french day29_l_masturbation_cd28bb69:
+
+    # l "I know, but I like the feeling."
+    l "Je sais, mais j'aime cette sensation."
+
+# game/day29.rpy:1110
+translate french day29_l_masturbation_2fd9c300:
+
+    # "{i}[l_name] turns towards you and looks deeply into your eyes. You cannot help but kiss her mouth."
+    "{i}[l_name] se tourne vers vous et vous regarde profondément dans les yeux Vous ne pouvez pas vous empêcher d'embrasser sa bouche"
+
+# game/day29.rpy:1112
+translate french day29_l_masturbation_b3a7ddfc:
+
+    # l "Mmmm... [p_name]!"
+    l "Mmmm [p_name] !"
+
+# game/day29.rpy:1114
+translate french day29_l_masturbation_abd505a2:
+
+    # p "Sorry, but your lips were cold."
+    p "Désolé mais tes lèvres étaient froides"
+
+# game/day29.rpy:1115
+translate french day29_l_masturbation_f07890dd:
+
+    # l "Haha!"
+    l "Haha !"
+
+# game/day29.rpy:1116
+translate french day29_l_masturbation_af2584ed:
+
+    # "{i}The sight of her firm breasts and their proud nipples, combined with your passionate kiss, is starting to make you hard."
+    "{i}La vue de ses seins fermes et de leurs mamelons fiers, combinée à votre baiser passionné, commence à vous faire bander."
+# game/day29.rpy:1117
+translate french day29_l_masturbation_97be07fe:
+
+    # l "There's something... Oh..."
+    l "Il y a quelque chose Oh"
+
+# game/day29.rpy:1118
+translate french day29_l_masturbation_e88a0767:
+
+    # p "Sorry."
+    p "Désolé"
+
+# game/day29.rpy:1119
+translate french day29_l_masturbation_517cb65b:
+
+    # l "Don't be."
+    l "Don't be"
+
+# game/day29.rpy:1120
+translate french day29_l_masturbation_9d29c86a:
+
+    # l "You're still cold too."
+    l "Tu as encore froid toi aussi"
+
+# game/day29.rpy:1121
+translate french day29_l_masturbation_afc4ff76:
+
+    # p "I am."
+    p "Je suis"
+
+# game/day29.rpy:1122
+translate french day29_l_masturbation_8598487a:
+
+    # l "Mind if I give you the same treatment?"
+    l "Ça vous dérange si je vous traite de la même façon ?"
+
+# game/day29.rpy:1123
+translate french day29_l_masturbation_f1c98617:
+
+    # p "Not at all."
+    p "Pas du tout"
+
+# game/day29.rpy:1128
+translate french day29_l_masturbation_3efd99a2:
+
+    # "{i}The girl proceeds to treat your skin the same way you did hers, but you notice she presses her body even closer to yours."
+    "{i}La fille traite votre peau de la même manière que vous avez traité la sienne, mais vous remarquez qu'elle rapproche encore plus son corps du vôtre."
+# game/day29.rpy:1129
+translate french day29_l_masturbation_33819e20:
+
+    # "{i}As you turn over, your leg slips between her thighs, and you feel the lips of her pussy on your bare skin. [l_name] doesn't seem to notice."
+    "{i}Lorsque vous vous retournez, votre jambe glisse entre ses cuisses et vous sentez les lèvres de sa chatte sur votre peau nue [l_name] ne semble pas s'en apercevoir."
+# game/day29.rpy:1131
+translate french day29_l_masturbation_21e1e7b3:
+
+    # "{i}Unconsciously, she starts to grind her pussy on your leg, craving the pleasure the motions send through her body."
+    "{i}Inconsciemment, elle commence à frotter sa chatte sur votre jambe, avide du plaisir que les mouvements lui procurent."
+# game/day29.rpy:1132
+translate french day29_l_masturbation_93ea5af1:
+
+    # "{i}Not wanting to ruin the moment, you don't speak and wrap your arms around her."
+    "{i}Ne voulant pas gâcher le moment, tu ne parles pas et tu l'entoures de tes bras."
+
+# game/day29.rpy:1133
+translate french day29_l_masturbation_eba44e9f:
+
+    # l "Mmmmmm..."
+    l "Mmmmmm"
+
+# game/day29.rpy:1134
+translate french day29_l_masturbation_65fa5b8a:
+
+    # "{i}Your massage completely forgotten, [l_name] continues, breathing ever more heavily."
+    "{i}Votre massage complètement oublié [l_name] continue à respirer de plus en plus fort"
+
+# game/day29.rpy:1136
+translate french day29_l_masturbation_d88acbc7:
+
+    # l "Oh!"
+    l "Oh !"
+
+# game/day29.rpy:1137
+translate french day29_l_masturbation_60783c8b:
+
+    # l "What are we doing?!"
+    l "Qu'est-ce qu'on fait ?!"
+
+# game/day29.rpy:1138
+translate french day29_l_masturbation_0246ef9a:
+
+    # "{i}[l_name] tries to squirm out of your arms, but there's no real conviction behind her actions, as if she wants to continue to do what makes her feel good."
+    "{i}Le nom de la personne essaie de se dégager de vos bras mais il n'y a pas de réelle conviction derrière ses actions, comme si elle voulait continuer à faire ce qui la fait se sentir bien."
+# game/day29.rpy:1139
+translate french day29_l_masturbation_caba0a24:
+
+    # p "I don't mind."
+    p "Je n'y vois pas d'inconvénient"
+
+# game/day29.rpy:1140
+translate french day29_l_masturbation_f86d916c:
+
+    # p "It works even better to keep warm, I think."
+    p "Ça marche encore mieux pour se réchauffer, je pense."
+
+# game/day29.rpy:1145
+translate french day29_l_masturbation_4e0ef72d:
+
+    # l "I shouldn't..."
+    l "Je ne devrais pas"
+
+# game/day29.rpy:1146
+translate french day29_l_masturbation_236cf105:
+
+    # p "You wanted to do what feels right to you, don't you?"
+    p "Tu voulais faire ce qui te semblait juste, n'est-ce pas ?"
+
+# game/day29.rpy:1147
+translate french day29_l_masturbation_2af0a44b:
+
+    # l "Yes, but..."
+    l "Oui mais"
+
+# game/day29.rpy:1148
+translate french day29_l_masturbation_c70ebffe:
+
+    # p "This is one of those moments where you should listen to your body, act on your instincts."
+    p "C'est l'un de ces moments où il faut écouter son corps et agir selon son instinct."
+
+# game/day29.rpy:1149
+translate french day29_l_masturbation_21477378:
+
+    # l "But I'm using you..."
+    l "Mais je t'utilise"
+
+# game/day29.rpy:1150
+translate french day29_l_masturbation_1a69e8f1:
+
+    # p "Only technically..."
+    p "Seulement techniquement"
+
+# game/day29.rpy:1151
+translate french day29_l_masturbation_007180d8:
+
+    # l "Oh... So you don't mind?"
+    l "Oh, ça ne vous dérange pas ?"
+
+# game/day29.rpy:1152
+translate french day29_l_masturbation_eb716dfc:
+
+    # p "Just trust that I'll let you know."
+    p "Faites-moi confiance, je vous tiendrai au courant"
+
+# game/day29.rpy:1153
+translate french day29_l_masturbation_c6c955e3:
+
+    # l "Okay..."
+    l "Ok"
+
+# game/day29.rpy:1154
+translate french day29_l_masturbation_560ee807:
+
+    # p "Does it help when I kiss you?"
+    p "Est-ce que ça aide quand je t'embrasse ?"
+
+# game/day29.rpy:1156
+translate french day29_l_masturbation_b3ef1b9b:
+
+    # l "Maybe..."
+    l "Peut-être"
+
+# game/day29.rpy:1158
+translate french day29_l_masturbation_1dc0465a:
+
+    # "{i}Before she can think of any more weak objections, you kiss her with such fire that she automatically resumes sliding her pussy on your leg, this time with much more conviction."
+    "{i}Avant qu'elle ne puisse formuler la moindre objection, vous l'embrassez avec une telle fougue qu'elle recommence automatiquement à faire glisser sa chatte sur votre jambe, cette fois-ci avec beaucoup plus de conviction."
+# game/day29.rpy:1159
+translate french day29_l_masturbation_1676d17b:
+
+    # l "Oh [p_name]!"
+    l "Oh [p_name] !"
+
+# game/day29.rpy:1160
+translate french day29_l_masturbation_9df729d7:
+
+    # p "Just keep going, don't be afraid."
+    p "Continue à avancer, n'aie pas peur."
+
+# game/day29.rpy:1161
+translate french day29_l_masturbation_04e36e67:
+
+    # l "I-I'm not... Aaaah!"
+    l "Je ne suis pas Aaaah !"
+
+# game/day29.rpy:1166
+translate french day29_l_masturbation_593144a0:
+
+    # "{i}While [l_name] focuses on pleasuring herself, you turn your attention to her breasts, showering them with kissing and softly suckling her nipples."
+    "{i}Pendant que [l_name] se concentre sur son plaisir, vous portez votre attention sur ses seins en les couvrant de baisers et en suçant doucement ses mamelons."
+# game/day29.rpy:1168
+translate french day29_l_masturbation_b986ab8a:
+
+    # "{i}Your sister holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Ta sœur te serre très fort en pressant ton visage contre sa poitrine voluptueuse et tu t'imprègnes de son odeur de parfum mélangé à la sueur."
+# game/day29.rpy:1170
+translate french day29_l_masturbation_fd701959:
+
+    # "{i}Your friend holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Votre amie vous serre très fort en pressant votre visage contre sa poitrine voluptueuse et vous vous imprégnez de son odeur de parfum mélangé à la sueur."
+# game/day29.rpy:1171
+translate french day29_l_masturbation_0ffa60ce:
+
+    # l "I'm... I'm so close!"
+    l "Je suis je suis si proche !"
+
+# game/day29.rpy:1173
+translate french day29_l_masturbation_2f326aef:
+
+    # "{i}You intensify your attention to her breasts, as her grinding enters the final stretch. Her upper leg is massaging your cock, and you start to lose your own bearings."
+    "{i}Vous intensifiez votre attention sur ses seins alors que son broyage entre dans sa phase finale. Sa jambe supérieure masse votre bite et vous commencez à perdre vos propres repères."
+# game/day29.rpy:1174
+translate french day29_l_masturbation_ab17848e:
+
+    # p "[l_name]!"
+    p "[l_name] !"
+
+# game/day29.rpy:1175
+translate french day29_l_masturbation_c1d4061a:
+
+    # l "Yes?!"
+    l "Oui ?!"
+
+# game/day29.rpy:1176
+translate french day29_l_masturbation_87c00d69:
+
+    # p "Don't stop..."
+    p "Ne vous arrêtez pas"
+
+# game/day29.rpy:1177
+translate french day29_l_masturbation_a0e74141:
+
+    # l "I won't..."
+    l "Je ne le ferai pas"
+
+# game/day29.rpy:1178
+translate french day29_l_masturbation_70556a20:
+
+    # l "I won't!"
+    l "Je ne le ferai pas !"
+
+# game/day29.rpy:1185
+translate french day29_l_masturbation_c202593b:
+
+    # "{i}As her movements start to lose coordination, you know she's about to climax. From deep within, your own orgasm builds, and you release almost at the same time."
+    "{i}Lorsque ses mouvements commencent à perdre de leur coordination, vous savez qu'elle est sur le point d'atteindre l'orgasme. Au plus profond de vous, votre propre orgasme se développe et vous vous libérez presque en même temps."
+# game/day29.rpy:1186
+translate french day29_l_masturbation_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name] !"
+
+# game/day29.rpy:1187
+translate french day29_l_masturbation_7bfa6ff2:
+
+    # "{i}Embracing each other, you climb the peaks of your pleasure, [l_name]'s juices covering your leg, and you spraying cum all over her thighs and belly."
+    "{i}Les jus de [l_name] couvrent votre jambe et vous pulvérisez du sperme sur ses cuisses et son ventre."
+
+# game/day29.rpy:1193
+translate french day29_l_masturbation_cb14584f:
+
+    # "{i}Half an hour passes, and [l_name] just sighs in your arms and absentmindedly strokes your chest."
+    "{i}Une demi-heure s'écoule et [l_name] soupire dans vos bras et caresse distraitement votre poitrine."
+# game/day29.rpy:1194
+translate french day29_l_masturbation_8be67411:
+
+    # p "I don't know about you, but I finally feel warm."
+    p "Je ne sais pas ce qu'il en est pour vous, mais je me sens enfin au chaud."
+
+# game/day29.rpy:1195
+translate french day29_l_masturbation_1169bd3f:
+
+    # l "You're right, me too."
+    l "Tu as raison moi aussi"
+

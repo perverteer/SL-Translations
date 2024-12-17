@@ -6854,3 +6854,1308 @@ translate french day35_choices_d4dafe9c_1:
 
     # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
     "{i}L'une des mains de [b_name] s'accroche à votre épaule et elle essaie de pousser votre bite en elle avec l'autre."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day35.rpy:1350
+translate french day35_b_sex_hard_5eb350d9:
+
+    # p "I've had a raging boner for you since we walked inside the shop."
+    p "J'ai la trique pour toi depuis que nous sommes entrés dans le magasin"
+
+# game/day35.rpy:1355
+translate french day35_b_sex_hard_94bdb8c0:
+
+    # p "Showing Megan how it's done didn't diminish that at all."
+    p "Montrer à Megan comment on fait ne l'a pas diminué du tout"
+
+# game/day35.rpy:1356
+translate french day35_b_sex_hard_3506fb92:
+
+    # b "That's information I could easily have done without."
+    b "C'est une information dont j'aurais facilement pu me passer"
+
+# game/day35.rpy:1358
+translate french day35_b_sex_hard_ec0804cb:
+
+    # "{i}Ignoring her, you push her against the wall and kiss her."
+    "{i}En l'ignorant, vous la poussez contre le mur et l'embrassez"
+
+# game/day35.rpy:1359
+translate french day35_b_sex_hard_e46ea2ef:
+
+    # "{i}[b_name] only manages to keep her mouth closed in protest for a short while. As soon as she allows for you to enter her mouth in a moment of weakness, the tongue kiss becomes mutual."
+    "{i}Dès qu'elle vous laisse entrer dans sa bouche dans un moment de faiblesse, le baiser de la langue devient réciproque."
+# game/day35.rpy:1364
+translate french day35_b_sex_hard_1f4da673:
+
+    # "{i}As you kiss, you almost rip the lingerie off her body to reveal her breasts and juicy cunt."
+    "{i}Alors que vous vous embrassez, vous arrachez presque la lingerie de son corps pour révéler ses seins et sa chatte juteuse."
+# game/day35.rpy:1366
+translate french day35_b_sex_hard_550b680b:
+
+    # "{i}The small vibrator is still purring mercilessly inside her vagina."
+    "{i}Le petit vibromasseur ronronne encore impitoyablement dans son vagin."
+# game/day35.rpy:1371
+translate french day35_b_sex_hard_61c7eab0:
+
+    # "{i}You take one of her hands and wrap her fingers around your cock."
+    "{i}Tu prends une de ses mains et tu enroules ses doigts autour de ta bite."
+# game/day35.rpy:1372
+translate french day35_b_sex_hard_569c00a1:
+
+    # p "You know what to do."
+    p "Vous savez ce qu'il faut faire"
+
+# game/day35.rpy:1374
+translate french day35_b_sex_hard_0a107658:
+
+    # "{i}Silently, your sister jerks you off, pulling the foreskin slowly over your tip."
+    "{i}En silence, ta sœur te branle en tirant lentement le prépuce sur ton extrémité."
+# game/day35.rpy:1376
+translate french day35_b_sex_hard_f7cd2aad:
+
+    # "{i}Silently, your girl jerks you off, pulling the foreskin slowly over your tip."
+    "{i}En silence, votre fille vous branle en tirant lentement le prépuce sur votre extrémité."
+# game/day35.rpy:1377
+translate french day35_b_sex_hard_a360bd35:
+
+    # "{i}Hesitant at first, but when you start to play with her breasts, the jerking becomes increasingly more involved."
+    "{i}Hésitant au début, mais lorsque vous commencez à jouer avec ses seins, les secousses deviennent de plus en plus fortes."
+# game/day35.rpy:1378
+translate french day35_b_sex_hard_8f3bde9f:
+
+    # "{i}When the first moan escapes her, you know [b_name] is ready."
+    "{i}Lorsque le premier gémissement lui échappe, vous savez que [b_name] est prêt."
+# game/day35.rpy:1380
+translate french day35_b_sex_hard_bddfd74c:
+
+    # "{i}The moans become a muffled, agonized scream for a short moment when you pull the buzzing vibrator out of her cunt and throw it on a pile of clothing."
+    "{i}Les gémissements se transforment en cris d'agonie étouffés pendant un court instant lorsque vous retirez le vibrateur bourdonnant de sa chatte et le jetez sur une pile de vêtements."
+# game/day35.rpy:1381
+translate french day35_b_sex_hard_7b5abbd6:
+
+    # b "What did you do that for?!"
+    b "Pourquoi as-tu fait ça ?!"
+
+# game/day35.rpy:1382
+translate french day35_b_sex_hard_d334433c:
+
+    # p "Clearing the way, my dear..."
+    p "Ouvrir la voie, ma chère..."
+
+# game/day35.rpy:1387
+translate french day35_b_sex_hard_d15a945c:
+
+    # "{i}You decide to tease her and rub your glans against her labia."
+    "{i}Vous décidez de la taquiner et de frotter votre gland contre ses lèvres."
+# game/day35.rpy:1389
+translate french day35_b_sex_hard_1154eac5:
+
+    # "{i}The effects of the vibrator are very noticeable, as her vulva and thighs are covered in her juice."
+    "{i}Les effets du vibrateur sont très visibles car sa vulve et ses cuisses sont couvertes de son jus."
+# game/day35.rpy:1390
+translate french day35_b_sex_hard_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}En utilisant votre bite, vous massez la zone autour de son clitoris, puis le clitoris directement."
+# game/day35.rpy:1391
+translate french day35_b_sex_hard_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}L'une des mains de [b_name] s'accroche à votre épaule et elle essaie de pousser votre bite en elle avec l'autre."
+# game/day35.rpy:1392
+translate french day35_b_sex_hard_7cd02fb1:
+
+    # "{i}You brush her away and continue what you were doing, obviously making her crazy."
+    "{i}Vous la repoussez et continuez ce que vous faisiez, ce qui la rend manifestement folle."
+# game/day35.rpy:1394
+translate french day35_b_sex_hard_12776b4a:
+
+    # "{i}When your sister's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Lorsque les gémissements de votre sœur ne sont plus qu'un murmure rauque, vous lui enfoncez votre bite dans la chatte sans aucun avertissement."
+# game/day35.rpy:1396
+translate french day35_b_sex_hard_7aeaa71e:
+
+    # "{i}When your girl's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Lorsque les gémissements de votre fille ne sont plus qu'un murmure rauque, vous enfoncez votre bite dans sa chatte sans aucun avertissement."
+# game/day35.rpy:1401
+translate french day35_b_sex_hard_3e3945bb:
+
+    # b "FUCK!"
+    b "FUCK !"
+
+# game/day35.rpy:1402
+translate french day35_b_sex_hard_ada4c787:
+
+    # "{i}Compensating for the initial violence, you proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}En compensation de la violence initiale, vous commencez à la baiser lentement, en enfonçant toute la longueur de votre bite dans ses profondeurs humides."
+# game/day35.rpy:1403
+translate french day35_b_sex_hard_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Oh [b_name] !"
+
+# game/day35.rpy:1404
+translate french day35_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah !"
+
+# game/day35.rpy:1407
+translate french day35_b_sex_hard_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Baiser sa sœur si intensément que vous oubliez tous les deux où vous êtes, complètement concentrés sur l'atteinte de nouveaux sommets de plaisir."
+# game/day35.rpy:1409
+translate french day35_b_sex_hard_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Baiser sa copine si intensément que vous oubliez tous les deux où vous êtes, complètement concentrés sur l'atteinte de nouveaux sommets de plaisir."
+# game/day35.rpy:1411
+translate french day35_b_sex_hard_b39f3017:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you focus on your own climax instead, intent on beating her to the punch."
+    "{i}Vous sentez [b_name] trembler sous vos mains et vous savez que son orgasme est proche, alors vous vous concentrez sur votre propre orgasme au lieu de vouloir la devancer."
+# game/day35.rpy:1415
+translate french day35_b_sex_hard_8c6741dc:
+
+    # p "Kneel!"
+    p "A genoux !"
+
+# game/day35.rpy:1416
+translate french day35_b_sex_hard_7b230fe4:
+
+    # b "No, but..."
+    b "Non mais"
+
+# game/day35.rpy:1422
+translate french day35_b_sex_hard_64526946:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Malgré ses protestations, [b_name] s'agenouille devant vous en vous regardant avec colère"
+
+# game/day35.rpy:1423
+translate french day35_b_sex_hard_9f956632:
+
+    # p "Open your mouth, baby."
+    p "Ouvre ta bouche bébé"
+
+# game/day35.rpy:1424
+translate french day35_b_sex_hard_2a613638:
+
+    # p "Here it comes."
+    p "Here it comes"
+
+# game/day35.rpy:1431
+translate french day35_b_sex_hard_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Votre bite reposant sur sa lèvre inférieure pompe de grandes quantités de sperme dans la bouche ouverte de votre sœur."
+# game/day35.rpy:1433
+translate french day35_b_sex_hard_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Votre bite reposant sur sa lèvre inférieure pompe de grandes quantités de sperme dans la bouche ouverte de [b_name]"
+
+# game/day35.rpy:1437
+translate french day35_b_sex_hard_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Ne voulant pas salir son visage ou sa poitrine, [b_name] avale avec diligence tout le sperme que vous avez déposé."
+# game/day35.rpy:1445
+translate french day35_b_sex_hard_8c6741dc_1:
+
+    # p "Kneel!"
+    p "A genoux !"
+
+# game/day35.rpy:1446
+translate french day35_b_sex_hard_7b230fe4_1:
+
+    # b "No, but..."
+    b "Non mais"
+
+# game/day35.rpy:1452
+translate french day35_b_sex_hard_64526946_1:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}Malgré ses protestations, [b_name] s'agenouille devant vous en vous regardant avec colère"
+
+# game/day35.rpy:1453
+translate french day35_b_sex_hard_4f981de3:
+
+    # p "Just sit still, baby."
+    p "Reste tranquille, bébé"
+
+# game/day35.rpy:1454
+translate french day35_b_sex_hard_2a613638_1:
+
+    # p "Here it comes."
+    p "Here it comes"
+
+# game/day35.rpy:1461
+translate french day35_b_sex_hard_459b3561:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over your sister's pretty face."
+    "{i}Votre bite dirigée vers son visage pompe de grandes quantités de sperme sur le joli visage de votre sœur."
+# game/day35.rpy:1463
+translate french day35_b_sex_hard_b19beb8d:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over [b_name]'s pretty face."
+    "{i}Votre bite dirigée vers son visage est en train de pomper de grandes quantités de sperme sur le joli visage de [b_name]"
+
+# game/day35.rpy:1464
+translate french day35_b_sex_hard_4042a015:
+
+    # "{i}After making a mess of her face, [b_name] glances around in panic, looking for something to clean herself up with."
+    "{i}Après avoir sali son visage, [b_name] jette un coup d'œil paniqué autour d'elle à la recherche d'un objet pour se nettoyer."
+# game/day35.rpy:1473
+translate french day35_b_sex_hard_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Here it comes baby"
+
+# game/day35.rpy:1482
+translate french day35_b_sex_hard_29cf96ec:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of your sister."
+    "{i}Ta bite, fermement ancrée dans son trou de baise humide, pompe de grandes quantités de sperme à l'intérieur de ta sœur."
+# game/day35.rpy:1484
+translate french day35_b_sex_hard_3760a1ff:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Votre bite fermement ancrée dans son trou de baise humide pompe de copieuses quantités de sperme à l'intérieur de [b_name]"
+
+# game/day35.rpy:1486
+translate french day35_b_sex_hard_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Après que tu te sois retiré, du sperme s'écoule de sa chatte et dégouline le long de ses cuisses."
+# game/day35.rpy:1487
+translate french day35_b_sex_hard_31a63622:
+
+    # "{i}[b_name] glances around in discomfort, looking for something to clean herself up with."
+    "{i}[b_name] regarde autour de lui, mal à l'aise, cherchant quelque chose pour se nettoyer."
+
+# game/day35.rpy:1498
+translate french day35_b_sex_hard_cbb867e2:
+
+    # p "I'm going to buy that last set for you."
+    p "Je vais acheter le dernier set pour toi"
+
+# game/day35.rpy:1499
+translate french day35_b_sex_hard_168940ff:
+
+    # p "You looked really hot in that one."
+    p "Tu étais vraiment sexy dans celui-là"
+
+# game/day35.rpy:1514
+translate french day35_b_sex_c665ea68:
+
+    # b "Nice and private."
+    b "Agréable et privé"
+
+# game/day35.rpy:1515
+translate french day35_b_sex_69c35c5b:
+
+    # p "It certainly is."
+    p "C'est certainement le cas"
+
+# game/day35.rpy:1517
+translate french day35_b_sex_35426c67:
+
+    # "{i}You pull her close and kiss her full on the lips, her lips part invitingly and your tongues intertwine."
+    "{i}Vous la rapprochez et l'embrassez à pleine bouche, ses lèvres se séparent de manière invitante et vos langues s'entremêlent."
+# game/day35.rpy:1519
+translate french day35_b_sex_a5182461:
+
+    # "{i}As you kiss, [b_name]'s breathing becomes shallow; she manages to undress herself while still kissing you fervently."
+    "{i}Alors que vous vous embrassez, la respiration de [b_name] devient superficielle ; elle parvient à se déshabiller tout en continuant à vous embrasser avec ferveur."
+# game/day35.rpy:1524
+translate french day35_b_sex_75474255:
+
+    # "{i}As you pull your shirt over your head, she unbuttons your pants and frees your erection."
+    "{i}Alors que vous tirez votre chemise sur votre tête, elle déboutonne votre pantalon et libère votre érection."
+# game/day35.rpy:1525
+translate french day35_b_sex_f99129d5:
+
+    # b "I really want you right now."
+    b "J'ai vraiment envie de toi maintenant"
+
+# game/day35.rpy:1527
+translate french day35_b_sex_8642fc02:
+
+    # "{i}Looking at you smoulderingly, your sister jerks you off, pulling the foreskin slowly over your glans."
+    "{i}En te regardant d'un air charbonneux, ta sœur te déshabille en tirant lentement le prépuce sur le gland."
+# game/day35.rpy:1529
+translate french day35_b_sex_f5ec1bb1:
+
+    # "{i}Looking at you smoulderingly, your girl jerks you off, pulling the foreskin slowly over your glans."
+    "{i}En vous regardant d'un air charbonneux, votre fille vous déshabille en tirant lentement le prépuce sur le gland."
+# game/day35.rpy:1530
+translate french day35_b_sex_ba01253b:
+
+    # "{i}You play with her breasts as the jerking becomes increasingly more frantic and [b_name] moans with hunger."
+    "{i}Vous jouez avec ses seins tandis que les secousses deviennent de plus en plus frénétiques et que [b_name] gémit de faim."
+# game/day35.rpy:1535
+translate french day35_b_sex_da5dbc83:
+
+    # "{i}You pull her closer and kiss her again, teasing her below by rubbing your tip against her labia, wet with her juices."
+    "{i}Vous la rapprochez et l'embrassez à nouveau en la taquinant par le bas en frottant votre pointe contre ses lèvres mouillées par son jus."
+# game/day35.rpy:1536
+translate french day35_b_sex_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}A l'aide de votre bite, vous massez la zone autour de son clitoris, puis le clitoris directement."
+# game/day35.rpy:1537
+translate french day35_b_sex_6516f350:
+
+    # b "Oh God, [p_name]!"
+    b "Oh God [p_name] !"
+
+# game/day35.rpy:1538
+translate french day35_b_sex_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}L'une des mains de [b_name] s'accroche à votre épaule et elle essaie de pousser votre bite en elle avec l'autre."
+# game/day35.rpy:1539
+translate french day35_b_sex_2205fa0a:
+
+    # p "Are we really going to do this here?"
+    p "Est-ce qu'on va vraiment faire ça ici ?"
+
+# game/day35.rpy:1542
+translate french day35_b_sex_d7a7f399:
+
+    # "{i}Your sister just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Votre sœur hoche la tête en se mordant la lèvre inférieure d'un air qui vous fait presque jouir à l'instant même."
+# game/day35.rpy:1544
+translate french day35_b_sex_2ca9756a:
+
+    # "{i}Your girlfriend just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Votre petite amie hoche la tête en se mordant la lèvre inférieure d'un air qui vous fait presque jouir à l'instant même."
+# game/day35.rpy:1549
+translate french day35_b_sex_c05f6ab6:
+
+    # "{i}[b_name] spreads her legs to allow your cock to slide inside her with ease."
+    "{i}[b_name] écarte ses jambes pour permettre à votre bite de glisser en elle avec facilité"
+
+# game/day35.rpy:1550
+translate french day35_b_sex_1223e8d3:
+
+    # "{i}You proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Vous commencez à la baiser lentement en enfonçant toute la longueur de votre bite dans ses profondeurs humides."
+# game/day35.rpy:1551
+translate french day35_b_sex_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Oh [b_name] !"
+
+# game/day35.rpy:1552
+translate french day35_b_sex_3539b25e:
+
+    # b "Yes, [p_name]!"
+    b "Oui [p_name] !"
+
+# game/day35.rpy:1555
+translate french day35_b_sex_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Baiser sa sœur si intensément que vous oubliez tous les deux où vous êtes, complètement concentrés sur l'atteinte de nouveaux sommets de plaisir."
+# game/day35.rpy:1557
+translate french day35_b_sex_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Baiser sa copine si intensément que vous oubliez tous les deux où vous êtes, complètement concentrés sur l'atteinte de nouveaux sommets de plaisir."
+# game/day35.rpy:1558
+translate french day35_b_sex_e7c2a5b1:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you finger her little clit to help her reach her climax."
+    "{i}Vous sentez [b_name] trembler sous vos mains et vous savez que son orgasme est proche, alors vous touchez son petit clito pour l'aider à atteindre son point culminant."
+# game/day35.rpy:1560
+translate french day35_b_sex_dd31e68f:
+
+    # b "F-ffffuuuu..."
+    b "F-ffffuuu"
+
+# game/day35.rpy:1564
+translate french day35_b_sex_63e14af3:
+
+    # p "Do you want to taste me?"
+    p "Veux-tu me goûter ?"
+
+# game/day35.rpy:1565
+translate french day35_b_sex_488fb012:
+
+    # b "Y-yes! I want all of it!"
+    b "Oui ! Je veux tout !"
+
+# game/day35.rpy:1571
+translate french day35_b_sex_83371610:
+
+    # "{i}[b_name] quickly kneels before you, opening her mouth."
+    "{i}[b_name] s'agenouille rapidement devant vous en ouvrant la bouche"
+
+# game/day35.rpy:1572
+translate french day35_b_sex_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Here it comes baby"
+
+# game/day35.rpy:1579
+translate french day35_b_sex_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Votre bite reposant sur sa lèvre inférieure pompe de grandes quantités de sperme dans la bouche ouverte de votre sœur."
+# game/day35.rpy:1581
+translate french day35_b_sex_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Votre bite reposant sur sa lèvre inférieure pompe de grandes quantités de sperme dans la bouche ouverte de [b_name]"
+
+# game/day35.rpy:1585
+translate french day35_b_sex_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}Ne voulant pas salir son visage ou sa poitrine, [b_name] avale avec diligence tout le sperme que vous avez déposé."
+# game/day35.rpy:1594
+translate french day35_b_sex_84ae19a5:
+
+    # "{i}Your orgasm coincides with hers and the feeling is almost too overwhelming"
+    "{i}Votre orgasme coïncide avec le sien et la sensation est presque trop forte."
+# game/day35.rpy:1603
+translate french day35_b_sex_e2778beb:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of your sister."
+    "{i}Votre bite, fermement ancrée dans sa fente humide, pompe de grandes quantités de sperme à l'intérieur de votre sœur."
+# game/day35.rpy:1605
+translate french day35_b_sex_fc8995db:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Votre bite, fermement ancrée dans sa fente humide, pompe de grandes quantités de sperme à l'intérieur de [b_name]."
+
+# game/day35.rpy:1607
+translate french day35_b_sex_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Après que tu te sois retiré, du sperme s'écoule de sa chatte et dégouline le long de ses cuisses."
+# game/day35.rpy:1619
+translate french day35_b_sex_a79d3d9d:
+
+    # b "You've made quite a mess."
+    b "Vous avez fait un sacré bazar"
+
+# game/day35.rpy:1620
+translate french day35_b_sex_3d2db6a7:
+
+    # p "Sorry for that."
+    p "Désolé pour cela"
+
+# game/day35.rpy:1621
+translate french day35_b_sex_7a735aae:
+
+    # b "Don't be silly."
+    b "Don't be silly"
+
+# game/day35.rpy:1623
+translate french day35_b_sex_84fe3e86:
+
+    # b "I was afraid you'd make a mess."
+    b "J'avais peur que vous fassiez un gâchis"
+
+# game/day35.rpy:1624
+translate french day35_b_sex_d49aaacb:
+
+    # p "You took care of that very elegantly."
+    p "Vous vous êtes occupé de cela avec beaucoup d'élégance"
+
+# game/day35.rpy:1625
+translate french day35_b_sex_eb53660d:
+
+    # b "I did, didn't I?"
+    b "Je l'ai fait, n'est-ce pas ?"
+
+# game/day35.rpy:1626
+translate french day35_b_sex_043cf62e:
+
+    # p "I'll go and pay for that nice set of lingerie."
+    p "Je vais aller payer cette belle lingerie"
+
+# game/day35.rpy:1627
+translate french day35_b_sex_60d90d51:
+
+    # b "Great, I'll be with you in a moment!"
+    b "Super, je suis à vous dans un instant !"
+
+# game/day35.rpy:1642
+translate french day35_flashback_sex_697fe1ca:
+
+    # "{i}Sasha didn't hold back when she kissed the younger girl, and Sabine was obviously overwhelmed by it."
+    "{i}Sasha ne s'est pas retenue lorsqu'elle a embrassé la jeune fille et Sabine en a été manifestement bouleversée."
+# game/day35.rpy:1643
+translate french day35_flashback_sex_5faf6a2b:
+
+    # sa "Sasha..."
+    sa "Sasha"
+
+# game/day35.rpy:1644
+translate french day35_flashback_sex_f0631e93:
+
+    # s "Just enjoy, dear."
+    s "Profite bien de ta vie"
+
+# game/day35.rpy:1653
+translate french day35_flashback_sex_c94f5a34:
+
+    # "{i}Sabine held her breath while Sasha slowly removed her top, their mouths and tongues still in firm contact with each other."
+    "{i}Sabine retient son souffle tandis que Sasha enlève lentement son haut, leurs bouches et leurs langues étant toujours en contact l'une avec l'autre."
+# game/day35.rpy:1654
+translate french day35_flashback_sex_18d63bcb:
+
+    # s "You're a beautiful girl, Sabine."
+    s "Tu es une belle fille Sabine"
+
+# game/day35.rpy:1655
+translate french day35_flashback_sex_a7a329a1:
+
+    # sa "Do you... do you really think so?"
+    sa "Vous pensez vraiment que c'est le cas ?"
+
+# game/day35.rpy:1656
+translate french day35_flashback_sex_be4259d8:
+
+    # s "I wouldn't tell you otherwise."
+    s "Je ne vous dirais pas le contraire"
+
+# game/day35.rpy:1657
+translate french day35_flashback_sex_ce3d1e49:
+
+    # "{i}I'd never seen Sabine this shy or flustered, but Sasha and the promise of that passionate kiss had a profound impact on Miley's friend."
+    "{i}Je n'avais jamais vu Sabine aussi timide ou troublée, mais Sasha et la promesse de ce baiser passionné ont eu un impact profond sur l'amie de Miley."
+# game/day35.rpy:1659
+translate french day35_flashback_sex_4da7e08d:
+
+    # "{i}Sasha lowered her head and proceeded to kiss Sabine's chest, lingering at her small breasts and nipples."
+    "{i}Sasha a baissé la tête et a commencé à embrasser la poitrine de Sabine en s'attardant sur ses petits seins et ses mamelons."
+# game/day35.rpy:1660
+translate french day35_flashback_sex_fcd1ffae:
+
+    # s "Soft skin."
+    s "Peau douce"
+
+# game/day35.rpy:1661
+translate french day35_flashback_sex_0d4c3345:
+
+    # s "Very cute breasts."
+    s "Des seins très mignons"
+
+# game/day35.rpy:1662
+translate french day35_flashback_sex_c5e5f65c:
+
+    # sa "Oooh!"
+    sa "Oooh !"
+
+# game/day35.rpy:1663
+translate french day35_flashback_sex_d62209ac:
+
+    # s "Do you like it when I lick you there?"
+    s "Tu aimes quand je te lèche là ?"
+
+# game/day35.rpy:1664
+translate french day35_flashback_sex_791b9e20:
+
+    # sa "Y-yes..."
+    sa "oui"
+
+# game/day35.rpy:1665
+translate french day35_flashback_sex_bec6b393:
+
+    # s "Would you like me to continue?"
+    s "Voulez-vous que je continue ?"
+
+# game/day35.rpy:1666
+translate french day35_flashback_sex_ba6f134b:
+
+    # sa "Oh yes, please."
+    sa "Oh oui, s'il vous plaît."
+
+# game/day35.rpy:1671
+translate french day35_flashback_sex_e36d3e49:
+
+    # "{i}Sasha helped the younger girl remove her pants, revealing her panties."
+    "{i}Sasha a aidé la jeune fille à retirer son pantalon, révélant ainsi sa culotte."
+# game/day35.rpy:1672
+translate french day35_flashback_sex_f3f334b8:
+
+    # s "I wonder what's hiding in there..."
+    s "Je me demande ce qui se cache là-dedans"
+
+# game/day35.rpy:1673
+translate french day35_flashback_sex_2f3808ab:
+
+    # sa "Nothing special."
+    sa "Rien de spécial"
+
+# game/day35.rpy:1674
+translate french day35_flashback_sex_9f30c2fc:
+
+    # s "I beg to differ."
+    s "Je ne suis pas d'accord"
+
+# game/day35.rpy:1675
+translate french day35_flashback_sex_23e87d94:
+
+    # s "Let's get a little more comfortable."
+    s "Mettons-nous un peu plus à l'aise"
+
+# game/day35.rpy:1677
+translate french day35_flashback_sex_e093aa09:
+
+    # "{i}As Sasha stood up she looked directly into my direction, letting me know she was aware of the audience."
+    "{i}Lorsque Sasha s'est levée, elle a regardé directement dans ma direction, me faisant savoir qu'elle était consciente de la présence du public."
+# game/day35.rpy:1678
+translate french day35_flashback_sex_5817038a:
+
+    # "{i}Then, for the benefit of Sabine and me, she started to undress herself agonizingly slow."
+    "{i}Puis, pour le bénéfice de Sabine et de moi, elle a commencé à se déshabiller avec une lenteur atroce."
+# game/day35.rpy:1683
+translate french day35_flashback_sex_6fa7337a:
+
+    # s "What do you think, Sabine?"
+    s "Qu'en penses-tu Sabine ?"
+
+# game/day35.rpy:1684
+translate french day35_flashback_sex_9db22226:
+
+    # sa "You're beautiful."
+    sa "Tu es belle"
+
+# game/day35.rpy:1685
+translate french day35_flashback_sex_e7015632:
+
+    # s "Good, now kiss me again."
+    s "Bien, maintenant embrasse-moi encore"
+
+# game/day35.rpy:1691
+translate french day35_flashback_sex_f685c514:
+
+    # "{i}The girls shared another kiss, Sasha's hand methodically inching towards Sabine's panties and finally rubbing the young girl's labia through the fabric of the underwear."
+    "{i}Les filles partagent un autre baiser, la main de Sasha s'approche méthodiquement de la culotte de Sabine et finit par frotter les lèvres de la jeune fille à travers le tissu de la culotte."
+# game/day35.rpy:1692
+translate french day35_flashback_sex_dc33947e:
+
+    # sa "S-s-Sasha..."
+    sa "S-s-Sasha"
+
+# game/day35.rpy:1693
+translate french day35_flashback_sex_596e183a:
+
+    # s "Yes, sweetie?"
+    s "Oui chérie ?"
+
+# game/day35.rpy:1694
+translate french day35_flashback_sex_40502c82:
+
+    # s "You know you're really wet down there?"
+    s "Tu sais que tu es vraiment mouillée là-dessous ?"
+
+# game/day35.rpy:1695
+translate french day35_flashback_sex_e0ea9b76:
+
+    # sa "Yes..."
+    sa "Oui..."
+
+# game/day35.rpy:1696
+translate french day35_flashback_sex_6d660ea4:
+
+    # s "Do you like what we're doing?"
+    s "Aimez-vous ce que nous faisons ?"
+
+# game/day35.rpy:1697
+translate french day35_flashback_sex_c0b742bc:
+
+    # sa "I love it."
+    sa "J'adore"
+# game/day35.rpy:1698
+translate french day35_flashback_sex_931bfcaf:
+
+    # s "Why don't you play with my puppies for a while, and I'll help you out of these panties."
+    s "Pourquoi ne joues-tu pas avec mes chiots pendant un moment et je t'aiderai à enlever cette culotte."
+
+# game/day35.rpy:1704
+translate french day35_flashback_sex_c14584c7:
+
+    # "{i}Sabine didn't need much encouraging and turned her attention to Sasha's breasts immediately."
+    "{i}Sabine n'a pas eu besoin d'être encouragée et a immédiatement porté son attention sur les seins de Sasha."
+# game/day35.rpy:1705
+translate french day35_flashback_sex_22d437a7:
+
+    # s "Oh, that's good."
+    s "Oh c'est bien"
+
+# game/day35.rpy:1706
+translate french day35_flashback_sex_7e3a9cbf:
+
+    # s "Yes, keep going."
+    s "Oui, continuez"
+
+# game/day35.rpy:1707
+translate french day35_flashback_sex_fcbf1cb6:
+
+    # "{i}Sasha revealed the young girl's pussy, the wetness of her lips even visible from my point of view."
+    "{i}Sasha a dévoilé la chatte de la jeune fille, l'humidité de ses lèvres étant même visible de mon point de vue."
+# game/day35.rpy:1713
+translate french day35_flashback_sex_f9bb2674:
+
+    # "{i}The direct contact of Sasha's fingers on her bared pussy made Sabine jump a little and the older woman's nipple slipped from her mouth."
+    "{i}Le contact direct des doigts de Sasha sur sa chatte dénudée a fait sursauter Sabine et le mamelon de la femme plus âgée a glissé de sa bouche."
+# game/day35.rpy:1714
+translate french day35_flashback_sex_55069217:
+
+    # s "Just keep going, sweet thing..."
+    s "Continuez à avancer, ma belle"
+
+# game/day35.rpy:1715
+translate french day35_flashback_sex_0e074a96:
+
+    # s "Don't worry, I'm going to make you feel good."
+    s "Ne t'inquiète pas, je vais te faire sentir bien"
+
+# game/day35.rpy:1716
+translate french day35_flashback_sex_80e39750:
+
+    # sa "I-it already does!"
+    sa "C'est déjà le cas !"
+
+# game/day35.rpy:1718
+translate french day35_flashback_sex_4a2bafe1:
+
+    # "{i}When Sasha began to rub the other girl's slit, her moans were an unmistakable sign of deeply felt pleasure."
+    "{i}Lorsque Sasha a commencé à frotter la fente de l'autre fille, ses gémissements étaient un signe indubitable de plaisir profond."
+# game/day35.rpy:1719
+translate french day35_flashback_sex_e6b7b3f0:
+
+    # sa "Oooh, Sasha!"
+    "Oooh Sasha !"
+
+# game/day35.rpy:1720
+translate french day35_flashback_sex_9d9a33a6:
+
+    # s "That's it, do you want more?"
+    s "C'est tout, vous en voulez plus ?"
+
+# game/day35.rpy:1721
+translate french day35_flashback_sex_6684ea66:
+
+    # sa "Yes, yes please!"
+    sa "Oui, oui, s'il vous plaît !"
+
+# game/day35.rpy:1723
+translate french day35_flashback_sex_fdd354c0:
+
+    # "{i}Before moving to Sabine's cherry, Sasha showered her belly and thighs with sweet kisses."
+    "{i}Avant de passer à la cerise de Sabine, Sasha a couvert son ventre et ses cuisses de doux baisers."
+# game/day35.rpy:1724
+translate french day35_flashback_sex_b35bcb57:
+
+    # "{i}When she finally arrived at the young girl's sex, her tongue explored every inch of it, stimulating Sabine to before unknown heights of pleasure."
+    "{i}Quand elle est enfin arrivée au sexe de la jeune fille, sa langue en a exploré chaque centimètre, stimulant Sabine à des niveaux de plaisir inconnus jusqu'alors."
+# game/day35.rpy:1726
+translate french day35_flashback_sex_1fa09953:
+
+    # sa "I'm going to cum, Sasha!"
+    sa "Je vais jouir Sasha !"
+
+# game/day35.rpy:1727
+translate french day35_flashback_sex_79d9369b:
+
+    # s "Let it all out, sweetheart!"
+    s "Laisse-toi aller ma chérie !"
+
+# game/day35.rpy:1728
+translate french day35_flashback_sex_b99515cd:
+
+    # sa "Aaaah!"
+    sa "Aaaah !"
+
+# game/day35.rpy:1730
+translate french day35_flashback_sex_ca105b99:
+
+    # sa "Oh God!"
+    "Oh mon Dieu !"
+
+# game/day35.rpy:1731
+translate french day35_flashback_sex_8dfe2e2d:
+
+    # sa "Don't stop!"
+    sa "Ne t'arrête pas !"
+
+# game/day35.rpy:1732
+translate french day35_flashback_sex_988fa21b:
+
+    # sa "Don't s-stop, please!"
+    sa "Ne vous arrêtez pas, s'il vous plaît !"
+
+# game/day35.rpy:1738
+translate french day35_flashback_sex_c685d3f9:
+
+    # "{i}Sasha showed no intention of doing so, and expertly guided Sabine to her climax."
+    "{i}Sasha n'en a pas eu l'intention et a guidé Sabine de manière experte jusqu'à l'orgasme."
+# game/day35.rpy:1739
+translate french day35_flashback_sex_5ed46d3a:
+
+    # "{i}The sight of Sabine, helplessly pleasured by Sasha and shuddering uncontrollably on the sofa was incredibly arousing."
+    "{i}La vue de Sabine, impuissante face au plaisir de Sasha et frémissant de façon incontrôlée sur le canapé, était incroyablement excitante."
+# game/day35.rpy:1744
+translate french day35_flashback_sex_f167671f:
+
+    # "{i}In fascination, I kept watching the girls as Sabine rested her head on Sasha's chest, happy tears in her eyes, while the older woman stroked her skin."
+    "{i}Fascinée, j'ai continué à observer les filles, Sabine reposant sa tête sur la poitrine de Sasha, les larmes aux yeux, tandis que la femme plus âgée lui caressait la peau."
+# game/day35.rpy:1745
+translate french day35_flashback_sex_4ec780aa:
+
+    # "{i}I snuck back into the bedroom and slipped next to Miley, holding her sleeping body in my arms."
+    "{i}Je me suis faufilé dans la chambre et je me suis glissé à côté de Miley en tenant son corps endormi dans mes bras."
+# game/day35.rpy:1746
+translate french day35_flashback_sex_dae11ba8:
+
+    # "{i}I wasn't sure what exactly I had witnessed, but Sasha sure as hell made a connection with Sabine."
+    "{i}Je n'étais pas sûr de ce que j'avais vu exactement, mais Sasha a certainement établi une connexion avec Sabine."
+# game/day35.rpy:1747
+translate french day35_flashback_sex_89f1652c:
+
+    # "{i}Just how deep the connection really went I learned a little later."
+    "{i}J'ai appris un peu plus tard à quel point la connexion était profonde."
+# game/day35.rpy:1765
+translate french day35_ir_sex_48410ad7:
+
+    # ir "Could you just kiss me?"
+    ir "Tu pourrais m'embrasser ?"
+
+# game/day35.rpy:1767
+translate french day35_ir_sex_26751e8d:
+
+    # "{i}Needing no further encouragement, you kiss her tears away and soon you're both as passionate as before."
+    "{i}Il n'est pas nécessaire de l'encourager davantage, vous embrassez ses larmes et bientôt vous êtes tous deux aussi passionnés qu'avant."
+# game/day35.rpy:1768
+translate french day35_ir_sex_372ced16:
+
+    # ir "I need you, [p_name]!"
+    ir "J'ai besoin de toi [p_name] !"
+
+# game/day35.rpy:1773
+translate french day35_ir_sex_7f500837:
+
+    # "{i}Softly, you lay her on the bed and stimulate her lower lips with your wet glans."
+    "{i}Doucement, tu l'allonges sur le lit et tu stimules ses lèvres inférieures avec ton gland mouillé."
+# game/day35.rpy:1774
+translate french day35_ir_sex_8047627a:
+
+    # "{i}The older woman sighs and touches your muscular chest in delight, caressing your arms in an attempt to will you forward, deep inside her."
+    "{i}La femme plus âgée soupire et touche votre poitrine musclée avec délice, caressant vos bras dans une tentative de vous faire avancer au plus profond d'elle."
+# game/day35.rpy:1779
+translate french day35_ir_sex_ef72aa8b:
+
+    # "{i}Your initial thrust still comes as a surprise to her, as she gasps audibly when your dick slips inside her wet pussy."
+    "{i}Votre première poussée est encore une surprise pour elle, car elle halète lorsque votre bite glisse à l'intérieur de sa chatte humide."
+# game/day35.rpy:1780
+translate french day35_ir_sex_e8a18f03:
+
+    # ir "Oh yes!"
+    ir "Oh oui !"
+
+# game/day35.rpy:1782
+translate french day35_ir_sex_430e942e:
+
+    # "{i}Her luxurious body bounces on the rhythm of your love-making, which is increasing in intensity."
+    "{i}Son corps luxueux rebondit au rythme de vos ébats qui gagnent en intensité."
+# game/day35.rpy:1783
+translate french day35_ir_sex_a831e68f:
+
+    # "{i}The only things you manage to utter are hoarse moans and sighs, punctuated by hasty tongue kisses."
+    "{i}Les seules choses que tu parviens à prononcer sont des gémissements rauques et des soupirs ponctués de baisers hâtifs avec la langue."
+# game/day35.rpy:1784
+translate french day35_ir_sex_8f8668bb:
+
+    # ir "I want you to fuck me deeper..."
+    ir "Je veux que tu me baises plus profondément"
+
+# game/day35.rpy:1785
+translate french day35_ir_sex_bba5bef4:
+
+    # "{i}You know exactly what she means when she gets on all fours, her majestic ass wiggling in the air."
+    "{i}Vous savez exactement ce qu'elle veut dire lorsqu'elle se met à quatre pattes, son cul majestueux se balançant dans les airs."
+# game/day35.rpy:1794
+translate french day35_ir_sex_c58ec8f0:
+
+    # "{i}Before you plunge your cock inside her hairy slit, you pause, looking at the delicate folds of her asshole."
+    "{i}Avant de plonger ta bite dans sa fente poilue, tu fais une pause en regardant les plis délicats de son trou du cul."
+# game/day35.rpy:1795
+translate french day35_ir_sex_dc3c797f:
+
+    # p "Iris..."
+    p "Iris"
+
+# game/day35.rpy:1796
+translate french day35_ir_sex_5522f4f9:
+
+    # ir "Yes... [p_name], is something wrong?"
+    ir "Oui [p_name] quelque chose ne va pas ?"
+
+# game/day35.rpy:1797
+translate french day35_ir_sex_1f14d985:
+
+    # p "Would you like me to do what you did at university?"
+    p "Voulez-vous que je fasse ce que vous avez fait à l'université ?"
+
+# game/day35.rpy:1798
+translate french day35_ir_sex_0f960595:
+
+    # "{i}It takes a while for a slight smile to appear on Iris' face and she barely nods in agreement."
+    "{i}Il faut un certain temps pour qu'un léger sourire apparaisse sur le visage d'Iris, qui acquiesce à peine."
+# game/day35.rpy:1799
+translate french day35_ir_sex_3136b2cf:
+
+    # ir "I'd like that..."
+    ir "J'aimerais bien"
+
+# game/day35.rpy:1804
+translate french day35_ir_sex_be8e1955:
+
+    # ir "Please be gentle."
+    ir "S'il vous plaît, soyez gentils"
+
+# game/day35.rpy:1805
+translate french day35_ir_sex_d7126455:
+
+    # ir "There's a bottle of lube in my nightstand."
+    ir "Il y a une bouteille de lubrifiant dans ma table de nuit"
+
+# game/day35.rpy:1806
+translate french day35_ir_sex_47a900cd:
+
+    # ir "It was for my toy..."
+    ir "C'était pour mon jouet"
+
+# game/day35.rpy:1807
+translate french day35_ir_sex_d97d43b5:
+
+    # "{i}You find the bottle and make sure Iris is ready for you."
+    "{i}Tu trouves la bouteille et tu t'assures qu'Iris est prête pour toi."
+
+# game/day35.rpy:1812
+translate french day35_ir_sex_5978d2a7:
+
+    # "{i}When you're both ready, you grab hold of her ass and push the head of your cock against her anus."
+    "{i}Quand vous êtes tous les deux prêts, vous saisissez son cul et vous poussez la tête de votre bite contre son anus."
+# game/day35.rpy:1813
+translate french day35_ir_sex_7bcb4fc4:
+
+    # "{i}Iris holds her breath as your penis inches slowly inside of her, helped by the copious amount of lube."
+    "{i}Iris retient son souffle tandis que votre pénis pénètre lentement en elle, aidé par l'abondante quantité de lubrifiant."
+# game/day35.rpy:1814
+translate french day35_ir_sex_09e30899:
+
+    # ir "Aaah!"
+    ir "Aaah !"
+
+# game/day35.rpy:1815
+translate french day35_ir_sex_96aa8b84:
+
+    # p "Should I stop?"
+    p "Dois-je m'arrêter ?"
+
+# game/day35.rpy:1816
+translate french day35_ir_sex_dea92101:
+
+    # ir "No, keep going."
+    ir "Non, continuez"
+
+# game/day35.rpy:1817
+translate french day35_ir_sex_7fe2b824:
+
+    # "{i}The older woman is huffing, her face pressed inside the bedsheets as your cock disappears fully into her ass."
+    "{i}La femme plus âgée souffle, le visage enfoncé dans les draps, tandis que votre bite s'enfonce complètement dans son cul."
+# game/day35.rpy:1818
+translate french day35_ir_sex_f23adae6:
+
+    # ir "Oh Lord!"
+    ir "Oh Seigneur !"
+
+# game/day35.rpy:1819
+translate french day35_ir_sex_79456584:
+
+    # ir "Fuck me! Please?"
+    ir "Baise-moi ! S'il te plaît ?"
+
+# game/day35.rpy:1826
+translate french day35_ir_sex_2a7d82f8:
+
+    # "{i}Her asshole feels as tight as a virgin's pussy as you begin to sway back and forth, causing your cock to slide in and out of her asshole ever so slightly."
+    "{i}Son trou du cul est aussi serré que la chatte d'une vierge alors que vous commencez à vous balancer d'avant en arrière, ce qui fait glisser votre bite dans et hors de son trou du cul très légèrement."
+# game/day35.rpy:1827
+translate french day35_ir_sex_1998fb05:
+
+    # "{i}Iris's clenched fists are buried deep into the mattress as she moans with closed eyes, spittle leaking from the corner of her mouth."
+    "{i}Les poings serrés d'Iris sont enfoncés dans le matelas et elle gémit les yeux fermés, des crachats s'échappant du coin de sa bouche."
+# game/day35.rpy:1828
+translate french day35_ir_sex_eae3dffd:
+
+    # ir "Don't stop, [p_name]!"
+    ir "N'arrêtez pas [p_name] !"
+
+# game/day35.rpy:1829
+translate french day35_ir_sex_94e5a795:
+
+    # ir "It feels so good!"
+    ir "C'est si bon !"
+
+# game/day35.rpy:1831
+translate french day35_ir_sex_41b47e0d:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her ass with deep strokes, causing Iris to gasp in delight."
+    "{i}Encouragé, vous saisissez fermement ses joues et lui baisez le cul avec des coups profonds, ce qui fait haleter Iris de plaisir."
+# game/day35.rpy:1832
+translate french day35_ir_sex_8278008f:
+
+    # ir "Oh [p_name]!"
+    ir "Oh [p_name] !."
+
+# game/day35.rpy:1833
+translate french day35_ir_sex_dc5c0014:
+
+    # ir "Oh yes! Yes!"
+    ir "Oh oui ! Oui !"
+
+# game/day35.rpy:1834
+translate french day35_ir_sex_32108e22:
+
+    # "{i}Iris fingers her pussy while you continue stabbing her asshole and her moans intensify, signaling she's close to her climax."
+    "{i}Iris se doigte la chatte pendant que tu continues à lui poignarder le trou du cul et ses gémissements s'intensifient, signalant qu'elle est proche de l'orgasme."
+# game/day35.rpy:1840
+translate french day35_ir_sex_3f8404e3:
+
+    # "{i}Maybe your mind is playing tricks on you, but you think you feel something of the intense orgasm Iris is experiencing as you keep fucking her."
+    "{i}Peut-être que ton esprit te joue des tours, mais tu penses ressentir quelque chose de l'orgasme intense qu'éprouve Iris alors que tu continues à la baiser."
+# game/day35.rpy:1841
+translate french day35_ir_sex_c781fe3d:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backward and a lewd smile gracing her face."
+    "{i}La femme plus âgée frissonne et halète, les yeux révulsés et un sourire obscène sur le visage."
+# game/day35.rpy:1847
+translate french day35_ir_sex_4ee3539a:
+
+    # "{i}You grab hold of her ass and push the head of your cock against her labia, teasing her wet pussy."
+    "{i}Tu saisis son cul et tu pousses la tête de ta bite contre ses lèvres pour taquiner sa chatte humide."
+# game/day35.rpy:1848
+translate french day35_ir_sex_4273c3ae:
+
+    # ir "Mmmm, please [p_name], fuck me."
+    ir "Mmmm s'il te plaît [p_name] baise-moi"
+
+# game/day35.rpy:1850
+translate french day35_ir_sex_2ef51ee3:
+
+    # "{i}Iris holds her breath in ecstasy as your penis slips past her slick lips inside her love tunnel."
+    "{i}Iris retient son souffle dans l'extase lorsque votre pénis glisse à l'intérieur de son tunnel d'amour après avoir franchi ses lèvres lisses."
+# game/day35.rpy:1851
+translate french day35_ir_sex_33e54f69:
+
+    # "{i}The woman moans with closed eyes and pushes her ass upwards in order for you to penetrate her even more deeply."
+    "{i}La femme gémit les yeux fermés et pousse son cul vers le haut pour que vous la pénétriez encore plus profondément."
+# game/day35.rpy:1852
+translate french day35_ir_sex_94e5a795_1:
+
+    # ir "It feels so good!"
+    ir "C'est si bon !"
+
+# game/day35.rpy:1854
+translate french day35_ir_sex_44e5ba08:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her pussy with deep strokes, causing Iris to gasp in delight."
+    "{i}Encouragé, vous saisissez fermement ses joues et baisez sa chatte avec des coups profonds, ce qui fait haleter Iris de plaisir."
+# game/day35.rpy:1855
+translate french day35_ir_sex_8278008f_1:
+
+    # ir "Oh [p_name]!"
+    ir "Oh [p_name] !."
+
+# game/day35.rpy:1856
+translate french day35_ir_sex_dc5c0014_1:
+
+    # ir "Oh yes! Yes!"
+    ir "Oh oui ! Oui !"
+
+# game/day35.rpy:1857
+translate french day35_ir_sex_3fc53b4d:
+
+    # "{i}Iris fingers her pussy while you continue to pound her slit and her moans intensify, signaling she's close to her climax."
+    "{i}Iris se doigte la chatte pendant que vous continuez à la pilonner et ses gémissements s'intensifient, signalant qu'elle est proche de l'orgasme."
+# game/day35.rpy:1863
+translate french day35_ir_sex_55927cab:
+
+    # "{i}Within seconds you're part of the intense orgasm Iris is experiencing as you keep fucking her during her convulsions of pleasure."
+    "{i}En quelques secondes, vous participez à l'orgasme intense qu'éprouve Iris en continuant à la baiser pendant ses convulsions de plaisir."
+# game/day35.rpy:1864
+translate french day35_ir_sex_872ab584:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backwards, a small stream of spittle leaking from the corner of her mouth."
+    "{i}La femme plus âgée frémit et halète, ses yeux se révulsent et un petit filet de salive s'échappe du coin de sa bouche."
+# game/day35.rpy:1866
+translate french day35_ir_sex_8cc23bc2:
+
+    # ir "T-that f-felt s-so amazing!"
+    ir "C-c-c'était tellement génial !"
+
+# game/day35.rpy:1867
+translate french day35_ir_sex_cf3f253e:
+
+    # "{i}Her words have an immediate effect on you, and your own orgasm is approaching fast."
+    "{i}Ses paroles ont un effet immédiat sur vous et votre propre orgasme approche rapidement."
+# game/day35.rpy:1874
+translate french day35_ir_sex_b87a9704:
+
+    # "{i}In a split second, you decide you want to finish inside her pussy and pull your cock out of Iris' asshole."
+    "{i}En une fraction de seconde, tu décides que tu veux finir dans sa chatte et tu retires ta bite du trou du cul d'Iris."
+# game/day35.rpy:1875
+translate french day35_ir_sex_ef49f9d2:
+
+    # "{i}She doesn't complain when your dick, covered in lube and inside her ass just a moment ago, penetrates her wet gash."
+    "{i}Elle ne se plaint pas quand ta bite couverte de lubrifiant et à l'intérieur de son cul il y a quelques instants pénètre sa fente humide."
+# game/day35.rpy:1877
+translate french day35_ir_sex_28d650a3:
+
+    # "{i}In a split second, you decide to remain inside her and finish inside her pussy, so you keep fucking her for several intense thrusts."
+    "{i}En une fraction de seconde, vous décidez de rester en elle et de finir dans sa chatte, alors vous continuez à la baiser pendant plusieurs poussées intenses."
+# game/day35.rpy:1884
+translate french day35_ir_sex_0ae70127:
+
+    # "{i}Within seconds you flood her vagina with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}En quelques secondes, vous inondez son vagin de sperme chaud tandis qu'Iris se délecte de la sensation d'être remplie."
+# game/day35.rpy:1886
+translate french day35_ir_sex_681fbfa8:
+
+    # "{i}Semen leaks out of her pussy and stains the bed sheets as you pull out your cock."
+    "{i}Le sperme s'écoule de sa chatte et tache les draps du lit lorsque vous retirez votre bite."
+# game/day35.rpy:1887
+translate french day35_ir_sex_9c55539d:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Iris ne semble pas s'en préoccuper, la seule chose qu'elle fait, c'est de vous regarder amoureusement dans le bonheur post-coïtal."
+# game/day35.rpy:1897
+translate french day35_ir_sex_5bf8008f:
+
+    # "{i}In a split second, you decide you want to finish inside her ass, so you keep fucking her for several intense thrusts."
+    "{i}En une fraction de seconde, vous décidez que vous voulez finir dans son cul et vous continuez à la baiser pendant plusieurs poussées intenses."
+# game/day35.rpy:1904
+translate french day35_ir_sex_4e6dfb0b:
+
+    # "{i}Within seconds you flood her asshole with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}En quelques secondes, vous inondez son trou du cul de sperme chaud tandis qu'Iris se délecte de la sensation d'être remplie."
+# game/day35.rpy:1906
+translate french day35_ir_sex_54b105e2:
+
+    # "{i}Semen, mixed with lube, leaks out of her winking anus and stains the bed sheets as you pull out your cock."
+    "{i}Le sperme mélangé au lubrifiant s'échappe de son anus qui cligne de l'œil et tache les draps du lit lorsque vous retirez votre bite."
+# game/day35.rpy:1907
+translate french day35_ir_sex_9c55539d_1:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}Iris ne semble pas s'en préoccuper, la seule chose qu'elle fait, c'est de vous regarder amoureusement dans le bonheur post-coïtal."
+# game/day35.rpy:1921
+translate french day35_ir_sex_d6fd4b00:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' asshole."
+    "{i}En une fraction de seconde, tu décides de couvrir son corps de ta semence et tu retires ta bite du trou du cul d'Iris."
+# game/day35.rpy:1923
+translate french day35_ir_sex_26081ed6:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' vagina."
+    "{i}En une fraction de seconde, vous décidez de couvrir son corps de votre semence et de retirer votre bite du vagin d'Iris."
+# game/day35.rpy:1926
+translate french day35_ir_sex_72710649:
+
+    # "{i}Within seconds you spray her back with warm cum as Iris luxuriates in the feeling of being covered in semen."
+    "{i}En quelques secondes, vous aspergez son dos de sperme chaud tandis qu'Iris se délecte de la sensation d'être couverte de sperme."
+# game/day35.rpy:1927
+translate french day35_ir_sex_d0fb3feb:
+
+    # "{i}Iris looks at you lovingly in post-coital bliss as the warm cum drips from the sides of her body."
+    "{i}Iris vous regarde amoureusement dans le bonheur post-coïtal alors que le sperme chaud coule sur les côtés de son corps."
+# game/day35.rpy:1936
+translate french day35_ir_sex_3af46f8a:
+
+    # ir "I'd forgotten how good it felt..."
+    ir "J'avais oublié à quel point c'était bon"
+
+# game/day35.rpy:1938
+translate french day35_ir_sex_9c792fa6:
+
+    # p "Anal?"
+    p "Anal ?"
+
+# game/day35.rpy:1939
+translate french day35_ir_sex_710b6775:
+
+    # ir "Not just that."
+    ir "Pas seulement"
+
+# game/day35.rpy:1940
+translate french day35_ir_sex_9ec71e28:
+
+    # ir "Though it did feel good."
+    ir "Though it did feel good"
+
+# game/day35.rpy:1941
+translate french day35_ir_sex_24dcce1d:
+
+    # ir "A little uncomfortable at first..."
+    ir "Un peu inconfortable au début"
+
+# game/day35.rpy:1942
+translate french day35_ir_sex_ad0d1aaf:
+
+    # ir "But I meant in a broader sense, having sex without any restraints."
+    ir "Mais je voulais dire dans un sens plus large avoir des relations sexuelles sans aucune contrainte"
+
+# game/day35.rpy:1944
+translate french day35_ir_sex_5eefe91f:
+
+    # ir "Having sex without any restraints."
+    ir "Faire l'amour sans contrainte"
+
+# game/day35.rpy:1945
+translate french day35_ir_sex_64f73ce2:
+
+    # ir "For a moment, nothing else mattered."
+    ir "Pendant un instant, rien d'autre n'a compté"
+
+# game/day35.rpy:1946
+translate french day35_ir_sex_8c166994:
+
+    # ir "I want us to be lovers, [p_name]."
+    ir "Je veux que nous soyons amants [p_name]"
+
+# game/day35.rpy:1947
+translate french day35_ir_sex_796d9ba7:
+
+    # p "I already thought we were."
+    p "Je pensais déjà que nous l'étions"
+
+# game/day35.rpy:1948
+translate french day35_ir_sex_5400b66c:
+
+    # ir "Maybe we are, but I just felt I needed to say it."
+    ir "C'est peut-être le cas, mais j'ai ressenti le besoin de le dire."
+
+# game/day35.rpy:1949
+translate french day35_ir_sex_15da191f:
+
+    # ir "Being with you makes me feel like I belong."
+    ir "En étant avec toi, je me sens à ma place"
+
+# game/day35.rpy:1950
+translate french day35_ir_sex_43a844d8:
+
+    # ir "You appreciate me, [p_name], and it's a long time since I've felt that way."
+    ir "Tu m'apprécies [p_name] et cela fait longtemps que je n'ai pas ressenti cela"
+

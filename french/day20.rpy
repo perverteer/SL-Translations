@@ -4390,3 +4390,807 @@ translate french day20_r_deflowering_5a89aa3b:
 
     # "{i}With each thrust, your dick penetrates her more easily, helped by her copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
     "{i}A chaque poussée, votre bite la pénètre plus facilement, aidée par son jus qui coule abondamment. Elle n'est manifestement pas prête pour quoi que ce soit de violent, l'expression douloureuse a complètement disparu de son visage, remplacée par un mélange de joie et d'impatience."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day20.rpy:935
+translate french day20_b_licking_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day20.rpy:939
+translate french day20_b_licking_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day20.rpy:942
+translate french day20_b_licking_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day20.rpy:949
+translate french day20_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Quoi ?"
+
+# game/day20.rpy:950
+translate french day20_b_licking_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Déshabille-toi, je veux goûter ta chatte."
+
+# game/day20.rpy:951
+translate french day20_b_licking_3b40820c:
+
+    # b "I'm busy."
+    b "Je suis occupé"
+
+# game/day20.rpy:952
+translate french day20_b_licking_94999a5f:
+
+    # p "No you're not."
+    p "Non tu ne l'es pas"
+
+# game/day20.rpy:953
+translate french day20_b_licking_88ee9d37:
+
+    # b "Yes I am."
+    b "Oui, je le suis"
+
+# game/day20.rpy:954
+translate french day20_b_licking_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Tu vas te comporter comme un enfant ? Je pourrais t'arracher tes vêtements, tu sais."
+
+# game/day20.rpy:956
+translate french day20_b_licking_e4f370a8:
+
+    # b "I know."
+    b "Je sais"
+
+# game/day20.rpy:959
+translate french day20_b_licking_a9a5ca74:
+
+    # "{i}Your sister reluctantly removes her clothes and sits on the bed."
+    "{i}Votre sœur se déshabille à contrecœur et s'assoit sur le lit."
+# game/day20.rpy:961
+translate french day20_b_licking_d005c0b7:
+
+    # "{i}The girl reluctantly removes her clothes and sits on the bed."
+    "{i}La jeune fille se déshabille à contrecœur et s'assoit sur le lit."
+# game/day20.rpy:962
+translate french day20_b_licking_e36b7664:
+
+    # p "Good, you won't regret this."
+    p "Bien vous ne le regretterez pas"
+
+# game/day20.rpy:963
+translate french day20_b_licking_5ceba404:
+
+    # p "{i}(Ultimately...)"
+    p "{i}(Ultime)"
+
+# game/day20.rpy:969
+translate french day20_b_licking_a55df5f2:
+
+    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
+    "{i}Sans crier gare, vous saisissez les jambes de [b_name] et enfouissez votre visage entre ses cuisses. Son corps réagit instantanément à la rugosité de votre langue et elle est mouillée en quelques instants."
+# game/day20.rpy:970
+translate french day20_b_licking_ab537a6c:
+
+    # p "Your body always betrays you, [b_name]."
+    p "Votre corps vous trahit toujours [b_name]"
+
+# game/day20.rpy:971
+translate french day20_b_licking_64819380:
+
+    # b "F-f-fuck you!"
+    b "F-f-fuck you !"
+
+# game/day20.rpy:972
+translate french day20_b_licking_ae14bf53:
+
+    # "{i}Your tongue is seemingly everywhere at once, stimulating her clitoris, caressing her labia and penetrating her moist gash."
+    "{i}Votre langue semble être partout à la fois, stimulant son clitoris, caressant ses lèvres et pénétrant sa chatte humide."
+# game/day20.rpy:974
+translate french day20_b_licking_807be6fe:
+
+    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
+    "{i}Tout semblant d'agacement a quitté [b_name] et elle est entièrement absorbée par votre enculage à la langue"
+
+# game/day20.rpy:975
+translate french day20_b_licking_8916675f:
+
+    # b "Ooooh!"
+    b "Ooooh !"
+
+# game/day20.rpy:980
+translate french day20_b_licking_a34e063e:
+
+    # "{i}Just when you notice she's ready to climax, you stop abruptly."
+    "{i}Juste au moment où vous remarquez qu'elle est prête à jouir, vous vous arrêtez brusquement."
+
+# game/day20.rpy:982
+translate french day20_b_licking_06940249:
+
+    # p "That's enough for now."
+    p "C'est assez pour l'instant"
+
+# game/day20.rpy:983
+translate french day20_b_licking_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Quoi ?! Non, tu ne peux pas"
+
+# game/day20.rpy:984
+translate french day20_b_licking_47fea10d:
+
+    # p "I can't?"
+    p "Je ne peux pas ?"
+
+# game/day20.rpy:985
+translate french day20_b_licking_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Je viens d'aller te faire foutre !"
+
+# game/day20.rpy:986
+translate french day20_b_licking_5366f9d4:
+
+    # p "Maybe I'll be back, maybe I won't..."
+    p "Peut-être que je reviendrai, peut-être pas..."
+    
+# game/day20.rpy:988
+translate french day20_b_licking_a32e4def:
+
+    # "{i}You go back to your room, the taste of [b_name] still on your lips, as she remains behind, naked and confused."
+    "{i}Vous retournez dans votre chambre, le goût de [b_name] encore sur vos lèvres, tandis qu'elle reste derrière, nue et confuse."
+# game/day20.rpy:1004
+translate french day20_ri_sex_37f83a86:
+
+    # ri "You're here for the job interview?"
+    ri "Vous êtes ici pour l'entretien d'embauche ?"
+
+# game/day20.rpy:1005
+translate french day20_ri_sex_03af6b77:
+
+    # p "Wow, you're one sexy manager, Riley."
+    p "Wow tu es un manager sexy Riley"
+
+# game/day20.rpy:1010
+translate french day20_ri_sex_a4f46328:
+
+    # ri "You think so?"
+    ri "Tu crois ?"
+
+# game/day20.rpy:1011
+translate french day20_ri_sex_1f051601:
+
+    # p "I'm not sure if people would get much work done with you around in those clothes, but you do command a certain respect."
+    p "Je ne suis pas sûr que les gens travailleraient beaucoup avec vous dans ces vêtements, mais vous inspirez un certain respect."
+
+# game/day20.rpy:1016
+translate french day20_ri_sex_097ee088:
+
+    # p "God, I so want to see you naked."
+    p "Mon Dieu, j'ai tellement envie de te voir nue"
+
+# game/day20.rpy:1017
+translate french day20_ri_sex_2d101b07:
+
+    # ri "All in good time. As your superior we still need to do a very thorough final evaluation of your work as a supermarket employee."
+    ri "En temps voulu En tant que supérieur, nous devons encore procéder à une évaluation finale très approfondie de votre travail en tant qu'employé du supermarché"
+
+# game/day20.rpy:1019
+translate french day20_ri_sex_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Voulez-vous un verre ?"
+
+# game/day20.rpy:1020
+translate french day20_ri_sex_da386a94:
+
+    # p "No thanks."
+    p "Non merci"
+
+# game/day20.rpy:1022
+translate french day20_ri_sex_1a4fa82a:
+
+    # ri "Would you like to get more comfortable?"
+    ri "Voulez-vous vous mettre à l'aise ?"
+
+# game/day20.rpy:1023
+translate french day20_ri_sex_adfb9188:
+
+    # p "That would be very nice."
+    p "Ce serait très bien"
+
+# game/day20.rpy:1024
+translate french day20_ri_sex_047bd1f5:
+
+    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
+    ri "Je vais perdre mes lunettes, je viens de les sortir d'un tiroir et elles ne sont pas conformes à mon ordonnance. J'ai mal aux yeux maintenant."
+
+# game/day20.rpy:1025
+translate french day20_ri_sex_dc21400d:
+
+    # p "They make you look a bit like Dame Edna as well..."
+    p "Ils vous font ressembler à Dame Edna."
+
+# game/day20.rpy:1026
+translate french day20_ri_sex_64fa58c0:
+
+    # ri "Wahaha! Fuck you, you're such a moodkiller!"
+    ri "Wahaha ! Va te faire foutre, t'es vraiment un rabat-joie !"
+
+# game/day20.rpy:1027
+translate french day20_ri_sex_804b5e65:
+
+    # p "Those glasses are not the only thing you can lose if I have anything to say about it. I would really like to see those beautiful breasts."
+    p "Ces lunettes ne sont pas la seule chose que vous pouvez perdre si j'ai quelque chose à dire à ce sujet, j'aimerais vraiment voir ces beaux seins"
+
+# game/day20.rpy:1029
+translate french day20_ri_sex_0618aa18:
+
+    # ri "So, have you thought about what you're going to do with me? Because as of right now, your evaluation is not looking good."
+    ri "Avez-vous réfléchi à ce que vous allez faire de moi ? Parce que pour l'instant, ton évaluation n'est pas bonne."
+
+# game/day20.rpy:1031
+translate french day20_ri_sex_fc19827e:
+
+    # p "I didn't hear you complain the last time we were here..."
+    p "Je ne t'ai pas entendu te plaindre la dernière fois que nous étions ici"
+
+# game/day20.rpy:1032
+translate french day20_ri_sex_a3557f80:
+
+    # ri "Yes, that certainly works in your favor. But a girl wants more, you know."
+    ri "Oui, cela joue en ta faveur, mais une fille en veut plus, tu sais."
+
+# game/day20.rpy:1034
+translate french day20_ri_sex_a1306849:
+
+    # p "I'll show you something..."
+    p "Je vais te montrer quelque chose"
+
+# game/day20.rpy:1035
+translate french day20_ri_sex_be0b6bd8:
+
+    # ri "I bet."
+    ri "Je parie"
+
+# game/day20.rpy:1036
+translate french day20_ri_sex_10d940fa:
+
+    # p "You're still wearing too much clothing."
+    p "Vous portez encore trop de vêtements"
+
+# game/day20.rpy:1037
+translate french day20_ri_sex_d3692d3d:
+
+    # ri "Really? I thought you liked me in a tight business skirt, wearing a revealing blouse. Your words."
+    ri "Vraiment ? Je pensais que tu m'aimais bien en jupe d'affaires moulante avec un chemisier révélateur Tes mots"
+
+# game/day20.rpy:1039
+translate french day20_ri_sex_cb7d4554:
+
+    # ri "And now you've got me down to my heels. What's a girl gonna think?"
+    ri "Et maintenant, tu m'as fait tomber sur mes talons Qu'est-ce qu'une fille va penser ?"
+
+# game/day20.rpy:1040
+translate french day20_ri_sex_da4426a8:
+
+    # p "Maybe that girl could suck on my big fat cock."
+    p "Peut-être que cette fille pourrait sucer ma grosse bite."
+
+# game/day20.rpy:1041
+translate french day20_ri_sex_ec5ad243:
+
+    # "{i}You lower your pants and reveal your dick, standing proud at the sight of Riley's naked body."
+    "{i}Vous baissez votre pantalon et dévoilez votre bite qui se dresse fièrement à la vue du corps nu de Riley."
+# game/day20.rpy:1042
+translate french day20_ri_sex_4830d44d:
+
+    # ri "I must say, it looks rather appetizing."
+    ri "Je dois dire que ça a l'air plutôt appétissant"
+
+# game/day20.rpy:1047
+translate french day20_ri_sex_24007305:
+
+    # "{i}Riley slides off the couch and squats before you, taking your entire member inside of her mouth using long strokes, stimulating the length of your cock."
+    "{i}Riley glisse du canapé et s'accroupit devant vous en prenant tout votre membre à l'intérieur de sa bouche en utilisant de longues caresses stimulant la longueur de votre bite."
+# game/day20.rpy:1049
+translate french day20_ri_sex_a5bc380a:
+
+    # p "God Riley, I didn't know you were so good at this."
+    p "Mon Dieu Riley, je ne savais pas que tu étais si douée pour ça"
+
+# game/day20.rpy:1050
+translate french day20_ri_sex_5448aaaf:
+
+    # "{i}Her wet lips slide over the veins of your dick, taking extra care of the sensitive area around your glans."
+    "{i}Ses lèvres humides glissent sur les veines de ta bite en prenant soin de la zone sensible autour de ton gland."
+# game/day20.rpy:1051
+translate french day20_ri_sex_e3cf2e2a:
+
+    # ri "I didn't show you before, did I? You taste good, [p_name]."
+    ri "Je ne t'ai pas montré avant, n'est-ce pas ? Tu as bon goût [p_name]"
+
+# game/day20.rpy:1052
+translate french day20_ri_sex_9f40793d:
+
+    # "{i}Riley returns to her cocksucking with renewed fervor. She applies so much suction that it almost seems that she wants to slurp the cum right out of you."
+    "{i}Riley se remet à l'enculage avec une ferveur renouvelée Elle applique une telle succion qu'il semble presque qu'elle veuille aspirer le sperme directement hors de vous."
+# game/day20.rpy:1053
+translate french day20_ri_sex_1ca99c8b:
+
+    # p "Woah, not so fast! I'm not ready to fill you up just yet."
+    p "Woah pas si vite ! Je ne suis pas encore prêt à te remplir."
+
+# game/day20.rpy:1054
+translate french day20_ri_sex_a47b3cec:
+
+    # ri "Mmmmm. What do you have in mind?"
+    ri "Mmmmm Qu'avez-vous en tête ?"
+
+# game/day20.rpy:1055
+translate french day20_ri_sex_fe473b1d:
+
+    # p "Stand up and you'll see."
+    p "Lève-toi et tu verras"
+
+# game/day20.rpy:1062
+translate french day20_ri_sex_a502271c:
+
+    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
+    "{i}La bite pressée contre sa cuisse, tu commences à masser ses seins en jouant avec ses tétons durs. Après l'avoir entendue gémir, tu introduis ton autre main entre ses jambes."
+
+# game/day20.rpy:1063
+translate french day20_ri_sex_f3b5ce36:
+
+    # ri "Ooooh!"
+    ri "Ooooh !"
+
+# game/day20.rpy:1064
+translate french day20_ri_sex_43488810:
+
+    # p "I'm going to fuck you so hard Riley, but first I have to make sure you're ready."
+    p "Je vais te baiser si fort Riley mais d'abord je dois m'assurer que tu es prête"
+
+# game/day20.rpy:1065
+translate french day20_ri_sex_5e5bbce4:
+
+    # ri "Oh, I'm ready."
+    ri "Oh je suis prêt"
+
+# game/day20.rpy:1066
+translate french day20_ri_sex_feacd9dc:
+
+    # "{i}At those words, you insert a finger inside her wet gash."
+    "{i}A ces mots, vous insérez un doigt dans sa chatte humide"
+
+# game/day20.rpy:1067
+translate french day20_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "F-f-fuck !"
+
+# game/day20.rpy:1068
+translate french day20_ri_sex_2431c94e:
+
+    # "{i}You insert another finger inside of her and then another."
+    "{i}Vous insérez un autre doigt à l'intérieur d'elle, puis un autre"
+
+# game/day20.rpy:1069
+translate french day20_ri_sex_fdc0b456:
+
+    # p "I'm going to make you cum."
+    p "Je vais te faire jouir"
+
+# game/day20.rpy:1070
+translate french day20_ri_sex_bd2ad48b:
+
+    # "{i}Riley just moans as you move your fingers inside of her, faster and faster, stimulating her g-spot."
+    "{i}Riley gémit tandis que vous bougez vos doigts à l'intérieur d'elle de plus en plus vite pour stimuler son point G."
+# game/day20.rpy:1071
+translate french day20_ri_sex_4df0219c:
+
+    # ri "F-f-fuck! What are you doing?!"
+    ri "F-f-fuck ! Qu'est-ce que tu fais ? !"
+
+# game/day20.rpy:1072
+translate french day20_ri_sex_665c9643:
+
+    # p "Sssssh..."
+    p "Sssssh"
+
+# game/day20.rpy:1080
+translate french day20_ri_sex_b2c986bb:
+
+    # "{i}The only thing coming from Riley at this moment are guttural sounds as she orgasms from your penetrating fingers. Her ejaculate is streaming down her inner thighs and even covers her taught calves as she struggles to stand straight on her high heels."
+    "{i}La seule chose qui émane de Riley en ce moment, ce sont des sons gutturaux alors qu'elle jouit de vos doigts pénétrants. Son éjaculat coule le long de l'intérieur de ses cuisses et recouvre même ses mollets enseignés alors qu'elle lutte pour se tenir droite sur ses hauts talons."
+
+# game/day20.rpy:1081
+translate french day20_ri_sex_099c6873:
+
+    # p "Now you're ready."
+    p "Maintenant vous êtes prêts"
+
+# game/day20.rpy:1089
+translate french day20_ri_sex_3a3a096f:
+
+    # "{i}With some encouragement and in the last throes of her orgasm, Riley kneels on the couch and you enter her dripping wet slit."
+    "{i}Avec quelques encouragements et dans les derniers instants de son orgasme, Riley s'agenouille sur le canapé et vous pénétrez dans sa fente humide et dégoulinante."
+# game/day20.rpy:1090
+translate french day20_ri_sex_2aac7798:
+
+    # ri "Ah! Ah! It's so much!"
+    ri "Ah ! Ah ! C'est trop !"
+
+# game/day20.rpy:1091
+translate french day20_ri_sex_a3c1f138:
+
+    # "{i}You immediately start with deep thrusts, nearly making Riley cum a second time. You slap her bouncing ass until red marks appear on her butt cheeks."
+    "{i}Vous commencez immédiatement par des poussées profondes qui font presque jouir Riley une deuxième fois Vous giflez son cul rebondissant jusqu'à ce que des marques rouges apparaissent sur ses fesses"
+
+# game/day20.rpy:1092
+translate french day20_ri_sex_46c2ad50:
+
+    # ri "Fuck me harder, I want you so deep inside me, [p_name]!"
+    ri "Baise-moi plus fort, je te veux si profondément en moi [p_name] !"
+
+# game/day20.rpy:1094
+translate french day20_ri_sex_400b45ad:
+
+    # "{i}You turn the girl around and she pulls up a leg to give you even deeper access to the moist confines of her pussy."
+    "{i}Vous retournez la fille et elle lève une jambe pour vous donner un accès encore plus profond aux confins humides de sa chatte."
+# game/day20.rpy:1095
+translate french day20_ri_sex_4c3eed5f:
+
+    # ri "That's it, right t-there!"
+    ri "C'est tout à fait ça !"
+
+# game/day20.rpy:1096
+translate french day20_ri_sex_e34f450a:
+
+    # "{i}You ram your dick inside of her until Riley's hoarse moans are filled with ultimate pleasure and you feel your orgasm starting to boil inside you."
+    "{i}Vous enfoncez votre bite en elle jusqu'à ce que les gémissements rauques de Riley soient remplis du plaisir ultime et que vous sentiez votre orgasme commencer à bouillir à l'intérieur de vous."
+# game/day20.rpy:1106
+translate french day20_ri_sex_78cfc9ab:
+
+    # p "F-fuck yes! Aaaah!"
+    p "F-fuck oui ! Aaaah !"
+
+# game/day20.rpy:1107
+translate french day20_ri_sex_ab51dfe5:
+
+    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
+    "{i}Sans vous arrêter, vous lui enfoncez votre bite palpitante et déversez d'épais jets de crème dans sa chatte."
+# game/day20.rpy:1108
+translate french day20_ri_sex_f3a9113e:
+
+    # ri "Don't pull out! I want every last drop inside of me."
+    ri "Ne te retire pas ! Je veux jusqu'à la dernière goutte en moi"
+
+# game/day20.rpy:1109
+translate french day20_ri_sex_85a929de:
+
+    # "{i}Her tender pussy is filled with a mixture of your semen and her moisture, which eventually leaks from her gaping pussy. You stay inside her as long as possible, your cock still spurting tiny droplets of cum in the last remnants of your climax."
+    "{i}Sa tendre chatte est remplie d'un mélange de ton sperme et de son humidité qui finit par s'écouler de sa chatte béante. Tu restes en elle aussi longtemps que possible, ta bite crachant encore de minuscules gouttelettes de sperme dans les derniers vestiges de ton orgasme."
+# game/day20.rpy:1126
+translate french day20_ri_sex_d3c52b41:
+
+    # p "Open your mouth Riley."
+    p "Ouvrez votre bouche Riley"
+
+# game/day20.rpy:1127
+translate french day20_ri_sex_c13aa583:
+
+    # ri "I want to taste all of it."
+    ri "Je veux tout goûter"
+
+# game/day20.rpy:1128
+translate french day20_ri_sex_78cfc9ab_1:
+
+    # p "F-fuck yes! Aaaah!"
+    p "F-fuck oui ! Aaaah !"
+
+# game/day20.rpy:1129
+translate french day20_ri_sex_34e79b12:
+
+    # "{i}Multiple streams of thick cream splash inside her mouth and on the side of her face. Delirious, she keeps your load inside of her open mouth, waiting for more and eventually swallowing your warm gift."
+    "{i}De multiples jets de crème épaisse éclaboussent sa bouche et le côté de son visage. Délirante, elle garde votre charge à l'intérieur de sa bouche ouverte, attendant d'en avoir plus et finissant par avaler votre cadeau tiède."
+# game/day20.rpy:1143
+translate french day20_ri_sex_0dc5917c:
+
+    # "{i}At the last moment you pull your pulsating cock outside of her tender pussy and unload thick streams of cream on her belly. It slowly leaks down into her pubic hair and Riley deliriously rubs her body with your cum."
+    "{i}Au dernier moment, vous sortez votre bite palpitante de sa tendre chatte et déversez d'épais jets de crème sur son ventre. Elle s'écoule lentement dans ses poils pubiens et Riley, en délire, se frotte le corps avec votre sperme."
+
+# game/day20.rpy:1158
+translate french day20_ri_sex_3321d927:
+
+    # p "I want to see your face when I cum, Riley."
+    p "Je veux voir ton visage quand je jouirai Riley"
+
+# game/day20.rpy:1159
+translate french day20_ri_sex_34ed9f2a:
+
+    # ri "I want to have all of it!"
+    ri "Je veux tout avoir !"
+
+# game/day20.rpy:1160
+translate french day20_ri_sex_62b90f21:
+
+    # "{i}Multiple streams of thick cream splash on Riley's delirious face. There's so much of it that her shoulder and breasts are also covered in big splashes of your cum."
+    "{i}De multiples jets de crème épaisse éclaboussent le visage délirant de Riley. Il y en a tellement que son épaule et ses seins sont également couverts de grandes éclaboussures de ton sperme."
+# game/day20.rpy:1167
+translate french day20_ri_sex_e87ec995:
+
+    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
+    "{i}Épuisé, vous vous écroulez sur le canapé qui reste chaud et luisant des jus de vos ébats Riley se nettoie un peu et se glisse à côté de vous."
+
+# game/day20.rpy:1169
+translate french day20_ri_sex_e6a7377e:
+
+    # ri "I didn't know this evening was going to be so exciting."
+    ri "Je ne savais pas que cette soirée allait être aussi excitante"
+
+# game/day20.rpy:1170
+translate french day20_ri_sex_d37fa892:
+
+    # p "I take employee performance reviews very, very seriously."
+    p "Je prends très au sérieux l'évaluation des performances des employés"
+
+# game/day20.rpy:1171
+translate french day20_ri_sex_b6a69c3a:
+
+    # ri "I know that now."
+    ri "Je le sais maintenant"
+
+# game/day20.rpy:1172
+translate french day20_ri_sex_ebc7bc5c:
+
+    # ri "Allow me to bestow the title 'Employee of the Year' on you. You're not working at the supermarket anymore, but who gives a fuck."
+    ri "Permettez-moi de vous décerner le titre d'employé de l'année Vous ne travaillez plus au supermarché mais on s'en fout"
+
+# game/day20.rpy:1173
+translate french day20_ri_sex_de51156c:
+
+    # p "I'm absolutely honored."
+    p "Je suis absolument honoré"
+
+# game/day20.rpy:1185
+translate french day20_b_licking_night_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day20.rpy:1189
+translate french day20_b_licking_night_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day20.rpy:1192
+translate french day20_b_licking_night_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day20.rpy:1202
+translate french day20_b_licking_night_b7545898:
+
+    # p "{i}(Let's make our [b_name] even more crazy...)"
+    p "{i}(Rendons notre [b_name] encore plus fou)"
+
+# game/day20.rpy:1206
+translate french day20_b_licking_night_c8f7ae42:
+
+    # p "I'm back."
+    p "Je suis de retour"
+
+# game/day20.rpy:1207
+translate french day20_b_licking_night_9aff4ccc:
+
+    # b "Fuck no. Not again."
+    b "Fuck no Not again"
+
+# game/day20.rpy:1208
+translate french day20_b_licking_night_56591090:
+
+    # p "You seemed to enjoy it earlier today."
+    p "Vous sembliez l'apprécier plus tôt dans la journée"
+
+# game/day20.rpy:1211
+translate french day20_b_licking_night_b10c2834:
+
+    # "{i}You crawl onto the bed and open your sister's legs, removing her panties in one fell swoop."
+    "{i}Vous vous glissez sur le lit et vous ouvrez les jambes de votre sœur en lui enlevant sa culotte d'un seul coup."
+# game/day20.rpy:1213
+translate french day20_b_licking_night_cb7230fb:
+
+    # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
+    "{i}Vous vous glissez sur le lit et ouvrez les jambes de [b_name] en enlevant sa culotte d'un seul coup"
+
+# game/day20.rpy:1215
+translate french day20_b_licking_night_e2d724e5:
+
+    # p "{i}(I went easy on [b_name] yesterday, but that blowjob sure left me wanting more.)"
+    p "{i}(J'y suis allé mollo avec [b_name] hier mais cette pipe m'a laissé sur ma faim)"
+
+# game/day20.rpy:1216
+translate french day20_b_licking_night_be898db7:
+
+    # p "{i}(I'm not sure how we're going to reach the next level. She took it in her mouth, but I'm pretty sure she isn't ready for anything more rigorous.)"
+    p "{i}(Je ne sais pas comment nous allons atteindre le niveau suivant Elle l'a pris dans sa bouche mais je suis presque sûre qu'elle n'est pas prête pour quelque chose de plus rigoureux)"
+
+# game/day20.rpy:1217
+translate french day20_b_licking_night_8f914c0f:
+
+    # p "{i}(But I might get her where I want if I'm careful and patient. Let's see if I can make a start with her today.)"
+    p "{i}(Mais je pourrais l'amener là où je veux si je suis prudent et patient Voyons si je peux commencer avec elle aujourd'hui)"
+
+# game/day20.rpy:1221
+translate french day20_b_licking_night_35ba70ca:
+
+    # b "What?"
+    b "Quoi ?"
+
+# game/day20.rpy:1222
+translate french day20_b_licking_night_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Déshabille-toi, je veux goûter ta chatte."
+
+# game/day20.rpy:1223
+translate french day20_b_licking_night_e352c4e7:
+
+    # b "I was going to sleep."
+    b "J'allais dormir"
+
+# game/day20.rpy:1224
+translate french day20_b_licking_night_6d63ec83:
+
+    # p "No, you're not."
+    p "Non tu ne l'es pas"
+
+# game/day20.rpy:1225
+translate french day20_b_licking_night_f4a6d83e:
+
+    # b "Yes, I am."
+    b "Oui, je le suis"
+
+# game/day20.rpy:1226
+translate french day20_b_licking_night_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Tu vas te comporter comme un enfant ? Je pourrais t'arracher tes vêtements, tu sais."
+
+# game/day20.rpy:1228
+translate french day20_b_licking_night_e4f370a8:
+
+    # b "I know."
+    b "Je sais"
+
+# game/day20.rpy:1231
+translate french day20_b_licking_night_baa94679:
+
+    # "{i}Your sister reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Votre sœur se déshabille à contrecœur et s'allonge sur le lit. Vous vous glissez à côté d'elle et lui ouvrez les jambes."
+# game/day20.rpy:1233
+translate french day20_b_licking_night_22d19280:
+
+    # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Vous vous glissez à côté d'elle et lui ouvrez les jambes."
+
+# game/day20.rpy:1239
+translate french day20_b_licking_night_f8aece55:
+
+    # "{i}You firmly grasp her upper legs and go down on her pussy. The smell of her sex fills your nostrils and you begin to eat her out."
+    "{i}Vous saisissez fermement le haut de ses jambes et vous descendez sur sa chatte. L'odeur de son sexe emplit vos narines et vous commencez à la dévorer."
+# game/day20.rpy:1240
+translate french day20_b_licking_night_49dff9a6:
+
+    # b "A-a-animal!"
+    b "Un-un-animal !"
+
+# game/day20.rpy:1241
+translate french day20_b_licking_night_20e62e8f:
+
+    # p "Shall I roar for you like lion?"
+    p "Dois-je rugir pour toi comme un lion ?"
+
+# game/day20.rpy:1242
+translate french day20_b_licking_night_4c747c64:
+
+    # "{i}The stimulation of [b_name]'s vagina isn't tender, only geared towards maximizing her pleasure. Your tongue is alternating between penetrating her slit and gyrating on her erect clit, all to build up to a monumental climax."
+    "{i}La stimulation du vagin de [b_name] n'est pas tendre et ne vise qu'à maximiser son plaisir Votre langue alterne entre la pénétration de sa fente et la giration sur son clitoris en érection, le tout pour atteindre un point culminant monumental"
+
+# game/day20.rpy:1244
+translate french day20_b_licking_night_8916675f:
+
+    # b "Ooooh!"
+    b "Ooooh !"
+
+# game/day20.rpy:1245
+translate french day20_b_licking_night_89365358:
+
+    # "{i}[b_name] wriggles beneath your touch and she crumples the bedsheets with her clawed hands. Every fiber of her body is ready for orgasmic release... And then you stop abruptly."
+    "{i}[b_name] se tortille sous ton contact et elle froisse les draps avec ses mains griffues Chaque fibre de son corps est prête pour la libération orgasmique Et puis tu t'arrêtes brusquement"
+
+# game/day20.rpy:1251
+translate french day20_b_licking_night_a04a6859:
+
+    # p "Good night, sweet sister."
+    p "Bonne nuit ma sœur"
+
+# game/day20.rpy:1253
+translate french day20_b_licking_night_d98faf4a:
+
+    # p "Good night, sweet [b_name]."
+    p "Bonne nuit douce [b_name]"
+
+# game/day20.rpy:1256
+translate french day20_b_licking_night_370ba8fd:
+
+    # b "No! No! Not again!"
+    b "Non ! Non ! Pas encore !"
+
+# game/day20.rpy:1257
+translate french day20_b_licking_night_66324063:
+
+    # b "Why?!"
+    b "Pourquoi ?!"
+
+# game/day20.rpy:1259
+translate french day20_b_licking_night_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Quoi ?! Non, tu ne peux pas"
+
+# game/day20.rpy:1260
+translate french day20_b_licking_night_47fea10d:
+
+    # p "I can't?"
+    p "Je ne peux pas ?"
+
+# game/day20.rpy:1261
+translate french day20_b_licking_night_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Je viens d'aller te faire foutre !"
+
+# game/day20.rpy:1262
+translate french day20_b_licking_night_96c772af:
+
+    # p "I'm so tired, I really need to get some sleep."
+    p "Je suis tellement fatigué que j'ai vraiment besoin de dormir."
+
+# game/day20.rpy:1263
+translate french day20_b_licking_night_13af8e6a:
+
+    # p "I'm sure a good girl like you can finish it herself."
+    p "Je suis sûre qu'une bonne fille comme toi peut le finir elle-même"
+
+# game/day20.rpy:1265
+translate french day20_b_licking_night_6fdb4e3f:
+
+    # b "You fucking asshole!"
+    b "Putain de trou du cul !"
+
+# game/day20.rpy:1266
+translate french day20_b_licking_night_00d06707:
+
+    # p "{i}(She's nearly ready... I'm going to try my luck tomorrow.)"
+    p "{i}(Elle est presque prête, je vais tenter ma chance demain)"
+
+# game/day20.rpy:1268
+translate french day20_b_licking_night_38f95ab2:
+
+    # p "{i}(I'm not sure if this is enough, but I'm going to try my luck tomorrow.)"
+    p "{i}(Je ne sais pas si c'est suffisant mais je vais tenter ma chance demain)"
+

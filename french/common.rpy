@@ -1361,3 +1361,119 @@ translate french strings:
     old "Sync Error"
     new "Erreur de Sync"
 
+# TODO: Translation updated at 2024-11-29 09:50
+
+translate french strings:
+
+    # renpy/common/00accessibility.rpy:121
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menu d'accessibilité. Utilisez les flèches vers le haut et vers le bas pour naviguer, et entrez pour activer les boutons et les barres."
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new "La prise en charge de l'auto-expression est limitée lors de l'utilisation d'un écran tactile."
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new "Personnalisez director.transforms pour ajouter d'autres transformations."
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new "Cliquez pour définir."
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new "Personnalisez director.transitions pour ajouter d'autres transitions."
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new "Personnalisez director.audio_channels pour ajouter d'autres canaux."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "Êtes-vous sûr de vouloir continuer là où vous vous êtes arrêté ?"
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new "permettre l'autoréalisation de la voix"
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new "désactivation de l'auto-voix"
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new "activation de l'harmonisation du presse-papiers"
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new "désactivation de l'harmonisation du presse-papiers"
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new "debug voicing disable"
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new "rétablir la position de la fenêtre"
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new "reset"
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new "(bulles retenues claires)"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " traduit [tl.filename] : [tl.linenumber]"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copié dans le presse-papiers.{/color}"
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new "Aucune méthode de mise à jour n'a été trouvée."
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new "Impossible de télécharger la liste des fichiers :"
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new "Le résumé de la liste de fichiers ne correspond pas."
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new "Préparation du téléchargement des données du jeu."
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new "Téléchargement des données du jeu."
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new "Les données du jeu ont été téléchargées."
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new "Une erreur s'est produite lors du téléchargement des données du jeu :"
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new "Ce jeu ne peut pas être exécuté tant que les données du jeu n'ont pas été téléchargées."
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new "Réessayer"
+

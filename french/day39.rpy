@@ -7374,4 +7374,65 @@ translate french day39_r_b_m_fucking_c9ef9231:
 translate french day39_r_b_m_fucking_3d5a6bf4:
 
     # r "Neither have I..."
-    r "Moi non plus..."
+    r "Moi non plus..."# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day39.rpy:1294
+translate french day39_r_b_l_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Est-ce que [b_name] est soumis dans cette scène ?"
+
+# game/day39.rpy:1300
+translate french day39_r_b_l_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day39.rpy:1304
+translate french day39_r_b_l_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day39.rpy:1307
+translate french day39_r_b_l_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day39.rpy:1312
+translate french day39_r_b_l_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] pas soumis"
+
+# game/day39.rpy:1960
+translate french day39_r_b_m_harem_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Est-ce que [b_name] est soumis dans cette scène ?"
+
+# game/day39.rpy:1966
+translate french day39_r_b_m_harem_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day39.rpy:1970
+translate french day39_r_b_m_harem_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day39.rpy:1973
+translate french day39_r_b_m_harem_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day39.rpy:1978
+translate french day39_r_b_m_harem_1e53ff56:
+
+    # "[b_name] not submissive"
+    "[b_name] pas soumis"
+

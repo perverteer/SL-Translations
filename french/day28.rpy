@@ -5646,3 +5646,369 @@ translate french day28_al_visit_374f522b:
 
     # "{i}The girl has a hard time keeping quiet as you fuck her. Her back is chafing on the rough stone of the wall, and her nails dig into your flesh."
     "{i}La fille a du mal à se taire pendant que vous la baisez. Son dos frotte sur la pierre rugueuse du mur et ses ongles s'enfoncent dans votre chair."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day28.rpy:1068
+translate french day28_a_k_visit_ac2723e1:
+
+    # "Does James participate in this scene?"
+    "James participe-t-il à cette scène ?"
+
+# game/day28.rpy:1073
+translate french day28_a_k_visit_5ff59d32:
+
+    # "James participates"
+    "James participe"
+
+# game/day28.rpy:1077
+translate french day28_a_k_visit_a765de49:
+
+    # "James doesn't participate"
+    "James ne participe pas"
+
+# game/day28.rpy:1080
+translate french day28_a_k_visit_fdf5d5f7:
+
+    # "Do you want to fuck Kira or Ana?"
+    "Tu veux baiser Kira ou Ana ?"
+
+# game/day28.rpy:1086
+translate french day28_a_k_visit_79562e41:
+
+    # "Fucking Kira"
+    "Putain de Kira"
+
+# game/day28.rpy:1091
+translate french day28_a_k_visit_c91717d3:
+
+    # "Fucking Ana"
+    "Putain d'Ana"
+
+# game/day28.rpy:1725
+translate french day28_m_handjob_0599a445:
+
+    # m "Hey."
+    m "Hey"
+
+# game/day28.rpy:1729
+translate french day28_m_handjob_87f3e913:
+
+    # p "Wow."
+    p "Wow"
+
+# game/day28.rpy:1730
+translate french day28_m_handjob_013cdcf8:
+
+    # m "How do you like me?"
+    m "Comment m'aimes-tu ?"
+
+# game/day28.rpy:1731
+translate french day28_m_handjob_e6a41c12:
+
+    # p "You're perfect."
+    p "Vous êtes parfait"
+
+# game/day28.rpy:1737
+translate french day28_m_handjob_2e447cc0:
+
+    # "{i}Your eyes drink in the sight of your mother's voluptuous body as she spins around to show you all of it."
+    "{i}Tes yeux s'abreuvent de la vue du corps voluptueux de ta mère qui tourne sur elle-même pour te montrer tout cela."
+# game/day28.rpy:1739
+translate french day28_m_handjob_ce8bf891:
+
+    # "{i}Your eyes drink in the sight of your friend's voluptuous body as she spins around to show you all of it."
+    "{i}Vos yeux s'abreuvent de la vue du corps voluptueux de votre amie lorsqu'elle tourne sur elle-même pour vous le montrer dans son intégralité."
+# game/day28.rpy:1740
+translate french day28_m_handjob_b408ef21:
+
+    # m "Why don't you come to bed?"
+    m "Pourquoi ne viens-tu pas au lit ?"
+
+# game/day28.rpy:1741
+translate french day28_m_handjob_ce1766ef:
+
+    # "{i}[m_name] is obviously checking you out as well, her eyes trailing over every inch."
+    "{i}[m_name] est manifestement en train de vous regarder, ses yeux parcourant chaque centimètre."
+
+# game/day28.rpy:1742
+translate french day28_m_handjob_71651c93:
+
+    # p "Right!"
+    p "Exact !"
+
+# game/day28.rpy:1744
+translate french day28_m_handjob_422bd8af:
+
+    # m "So tell me."
+    m "Alors dis-moi"
+
+# game/day28.rpy:1745
+translate french day28_m_handjob_62653cdb:
+
+    # m "What is it with you and women like me?"
+    m "Qu'est-ce qu'il y a entre vous et les femmes comme moi ?"
+
+# game/day28.rpy:1746
+translate french day28_m_handjob_adfd6b5d:
+
+    # p "Women like you?"
+    p "Des femmes comme vous ?"
+
+# game/day28.rpy:1747
+translate french day28_m_handjob_ba6e1256:
+
+    # m "Come on now, most guys your age would go for a skinny young thing."
+    m "Allez, la plupart des gars de ton âge s'intéressent à une jeune fille maigre."
+
+# game/day28.rpy:1748
+translate french day28_m_handjob_4aa3539e:
+
+    # p "Undoubtedly, but I like a real woman."
+    p "Sans doute, mais j'aime les vraies femmes"
+
+# game/day28.rpy:1749
+translate french day28_m_handjob_7f4acc38:
+
+    # m "Real?"
+    m "Réel ?"
+
+# game/day28.rpy:1750
+translate french day28_m_handjob_86aab2da:
+
+    # p "It's hard to express it in words."
+    p "Il est difficile de l'exprimer avec des mots"
+
+# game/day28.rpy:1751
+translate french day28_m_handjob_3929e4d3:
+
+    # m "Do you have something else in mind?"
+    m "Avez-vous quelque chose d'autre en tête ?"
+
+# game/day28.rpy:1756
+translate french day28_m_handjob_5827cb12:
+
+    # "{i}Without saying anything further, you trail the curve of her hips with your fingertips, causing [m_name] to shiver slightly."
+    "{i}Sans rien dire de plus, vous suivez la courbe de ses hanches du bout des doigts, ce qui fait légèrement frissonner [m_name]"
+
+# game/day28.rpy:1757
+translate french day28_m_handjob_2673286b:
+
+    # "{i}You help her out of her babydoll she's wearing, allowing you to see her body in all its naked glory."
+    "{i}Vous l'aidez à enlever la nuisette qu'elle porte, ce qui vous permet de voir son corps dans toute sa gloire nue."
+# game/day28.rpy:1762
+translate french day28_m_handjob_42c4bdaa:
+
+    # "{i}You kiss her belly and teasingly flick your tongue around her navel."
+    "{i}Vous embrassez son ventre et passez votre langue autour de son nombril"
+
+# game/day28.rpy:1763
+translate french day28_m_handjob_6069c9ba:
+
+    # m "Oh, that tickles!"
+    m "Oh, ça chatouille !"
+
+# game/day28.rpy:1766
+translate french day28_m_handjob_093c6f6c:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Enhardi par sa réaction légère, vous vous approchez de sa poitrine généreuse"
+
+# game/day28.rpy:1768
+translate french day28_m_handjob_093c6f6c_1:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Enhardi par sa réaction légère, vous vous approchez de sa poitrine généreuse"
+
+# game/day28.rpy:1769
+translate french day28_m_handjob_1b531e45:
+
+    # "{i}As the woman breathes heavily, you kiss the curves of her bosom, working towards her stiffening nipples."
+    "{i}Alors que la femme respire bruyamment, vous embrassez les courbes de sa poitrine en vous dirigeant vers ses mamelons qui se raidissent."
+# game/day28.rpy:1770
+translate french day28_m_handjob_f121165f:
+
+    # m "Do you like my breasts?"
+    m "Tu aimes mes seins ?"
+
+# game/day28.rpy:1771
+translate french day28_m_handjob_32b3c19b:
+
+    # p "I love them."
+    p "Je les aime"
+
+# game/day28.rpy:1772
+translate french day28_m_handjob_08a97937:
+
+    # m "Kiss me!"
+    m "Embrasse-moi !"
+
+# game/day28.rpy:1774
+translate french day28_m_handjob_84d969c6:
+
+    # "{i}The first kisses you exchange are cautious, but when your tongues come into play, any boundaries that existed fall away completely."
+    "{i}Les premiers baisers que vous échangez sont prudents, mais lorsque vos langues entrent en jeu, toutes les limites qui existaient disparaissent complètement."
+# game/day28.rpy:1780
+translate french day28_m_handjob_eb10e287:
+
+    # "{i}[m_name]'s hand slips towards your crotch and frees your erection from your underwear."
+    "{i} La main de [m_name] glisse vers votre entrejambe et libère votre érection de votre sous-vêtement "
+
+# game/day28.rpy:1782
+translate french day28_m_handjob_e0e1c6a8:
+
+    # "{i}You think you see a hint of confusion flash across her face as she holds your erect member in her hands."
+    "{i}Tu crois voir un soupçon de confusion sur son visage alors qu'elle tient ton membre en érection dans ses mains."
+# game/day28.rpy:1783
+translate french day28_m_handjob_5ed45dc0:
+
+    # p "{i}(Does she realize... I knew the mask wasn't enough!)"
+    p "{i}(Réalise-t-elle que je savais que le masque n'était pas suffisant !)"
+
+# game/day28.rpy:1784
+translate french day28_m_handjob_8d493837:
+
+    # "{i}But [m_name] doesn't cry out in outraged surprise and instead kisses you and starts stroking your cock."
+    "{i}Mais [m_name] ne pousse pas un cri de surprise indigné et au contraire vous embrasse et commence à caresser votre bite"
+
+# game/day28.rpy:1786
+translate french day28_m_handjob_ba26a947:
+
+    # "{i}She holds your member in her hand as if weighing it. Satisfied, she kisses you and starts stroking your cock."
+    "{i}Elle tient ton membre dans sa main comme pour le peser. Satisfaite, elle t'embrasse et commence à te caresser la queue."
+# game/day28.rpy:1788
+translate french day28_m_handjob_8ffbc3ac:
+
+    # m "Mmmm, does that feel good, [p_name]?"
+    m "Mmmm, ça fait du bien [p_name] ?"
+
+# game/day28.rpy:1789
+translate french day28_m_handjob_bb5d0cbf:
+
+    # p "I-it does."
+    p "I-it does"
+
+# game/day28.rpy:1790
+translate french day28_m_handjob_13ba4582:
+
+    # m "Do you want to cum for me?"
+    m "Tu veux jouir pour moi ?"
+
+# game/day28.rpy:1791
+translate french day28_m_handjob_6ea4dd18:
+
+    # p "Y-yes, I do."
+    p "O-oui je le fais"
+
+# game/day28.rpy:1792
+translate french day28_m_handjob_42899ef0:
+
+    # m "Make a mess all over my body?"
+    m "Faire des dégâts sur tout mon corps ?"
+
+# game/day28.rpy:1795
+translate french day28_m_handjob_704bb4dc:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your mother's large breasts."
+    "{i}Sa main masse votre bite de manière experte tandis que vous portez votre attention sur les gros seins de votre mère."
+# game/day28.rpy:1797
+translate french day28_m_handjob_73d4fbdd:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your friend's large breasts."
+    "{i}Sa main masse votre bite de manière experte tandis que vous portez votre attention sur les gros seins de votre amie."
+# game/day28.rpy:1798
+translate french day28_m_handjob_28f83ebb:
+
+    # m "Oh yes!"
+    m "Oh oui !"
+
+# game/day28.rpy:1799
+translate french day28_m_handjob_2ead3e96:
+
+    # "{i}She brushes your hand away though in order to focus completely on pleasuring you."
+    "{i}Elle repousse votre main pour se concentrer sur votre plaisir"
+
+# game/day28.rpy:1800
+translate french day28_m_handjob_8d4cf03f:
+
+    # m "That's my boy!"
+    m "C'est mon garçon !"
+
+# game/day28.rpy:1801
+translate french day28_m_handjob_4daec3dd:
+
+    # "{i}[m_name] strokes your cock again, tracing the veins of your shaft with her wet fingertips, before jerking you off."
+    "{i}[m_name] caresse à nouveau ta bite en traçant les veines de ta hampe du bout de ses doigts humides avant de te branler"
+
+# game/day28.rpy:1802
+translate french day28_m_handjob_ce401f6e:
+
+    # m "That's it, baby."
+    m "C'est ça bébé"
+
+# game/day28.rpy:1804
+translate french day28_m_handjob_51af9386:
+
+    # "{i}A naughty grin crosses her face as [m_name] utters her next words, already sure of its effects on you."
+    "{i}Un sourire coquin traverse son visage tandis que [m_name] prononce ses prochains mots, déjà sûr de l'effet qu'ils produiront sur vous."
+# game/day28.rpy:1805
+translate french day28_m_handjob_2653304a:
+
+    # m "Mommy wants your cum so bad!"
+    m "Maman veut tellement ton sperme !"
+
+# game/day28.rpy:1807
+translate french day28_m_handjob_1ebb7675:
+
+    # m "I want your cum so bad!"
+    m "J'ai tellement envie de ton sperme !"
+
+# game/day28.rpy:1815
+translate french day28_m_handjob_0e1cfcbb:
+
+    # "{i}Your mother knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}Ta mère sait exactement combien de temps elle doit continuer à masser ta bite, te trayant de toute ta semence alors qu'elle jaillit de ton gland en gros jets violents qui éclaboussent ses mains et son ventre."
+# game/day28.rpy:1817
+translate french day28_m_handjob_b1575f96:
+
+    # "{i}[m_name] knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}[m_name] sait combien de temps elle doit continuer à masser ta bite pour te vider de toute ta semence qui jaillit de ton gland en gros jets violents qui éclaboussent ses mains et son ventre."
+
+# game/day28.rpy:1818
+translate french day28_m_handjob_e5dba7f6:
+
+    # "{i}With her eyes closed and wearing a look of bliss, [m_name] spreads your cum all over her body and kisses you."
+    "{i}Les yeux fermés et l'air béat, [m_name] étale ton sperme sur tout son corps et t'embrasse."
+# game/day28.rpy:1823
+translate french day28_m_handjob_5b5208aa:
+
+    # p "I never want to leave this bed."
+    p "Je ne veux jamais quitter ce lit"
+
+# game/day28.rpy:1824
+translate french day28_m_handjob_c08bc8f4:
+
+    # m "Good."
+    m "Bon"
+
+# game/day28.rpy:1825
+translate french day28_m_handjob_6227f08a:
+
+    # m "But I expect you to earn your keep!"
+    m "Mais j'attends de vous que vous gagniez votre vie !"
+
+# game/day28.rpy:1826
+translate french day28_m_handjob_84fe6a10:
+
+    # p "You make that sound as if it's a burden."
+    p "Vous donnez l'impression que c'est un fardeau"
+
+translate french strings:
+
+    # game/day28.rpy:1081
+    old "Fuck Kira"
+    new "Baiser Kira"
+
+    # game/day28.rpy:1081
+    old "Fuck Ana"
+    new "Baiser Ana"
+

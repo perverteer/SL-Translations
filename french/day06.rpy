@@ -2840,3 +2840,93 @@ translate french day06_night_visit_choices_e46d3fff:
     # p "{i}(Sweet dreams, [r_name]...)"
     p "{i}(Fais de beaux rêves, [r_name]...)"
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day06.rpy:740
+translate french day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Mieux vaut trouver de l'animation ailleurs)"
+
+# game/day06.rpy:747
+translate french day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Vous entendez frapper à votre porte"
+# game/day06.rpy:748
+translate french day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Comme dans"
+# game/day06.rpy:750
+translate french day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Bonjour, je pensais au film et je me suis dit qu'on pourrait peut-être se tenir compagnie ?"
+
+# game/day06.rpy:751
+translate french day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "Tu veux dire ce soir ?"
+
+# game/day06.rpy:752
+translate french day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "Bien sûr, idiot !"
+
+# game/day06.rpy:753
+translate french day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "Je me sens tellement seule parfois et j'aimerais vraiment que quelqu'un me tienne compagnie."
+
+# game/day06.rpy:754
+translate french day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "Cela semblait si naturel dans le film que nous avons vu ce soir"
+
+# game/day06.rpy:755
+translate french day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "{i}(Cette pichenette lui a fait beaucoup de mal)"
+
+# game/day06.rpy:761
+translate french day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "C'est une excellente idée"
+
+# game/day06.rpy:762
+translate french day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "Yay ! J'espère que tu aimes faire des câlins !"
+
+# game/day06.rpy:763
+translate french day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "I sure do"
+
+# game/day06.rpy:769
+translate french day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "Je ne pense pas que ce soit une bonne idée. Et si quelqu'un nous voit ?"
+
+# game/day06.rpy:770
+translate french day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Oh"
+
+# game/day06.rpy:771
+translate french day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "Bonne nuit alors"
+

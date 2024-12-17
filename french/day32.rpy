@@ -5704,3 +5704,10 @@ translate french day32_p_room_scene_6b22c18c:
     # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
     "{i}Après un bref moment de confusion, vous remarquez que quelqu'un est assis sur une chaise à côté de votre lit."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day32.rpy:913
+translate french day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Très fatigué, vous vous déshabillez et vous vous écroulez sur votre matelas en espérant que le sommeil vous envahisse."

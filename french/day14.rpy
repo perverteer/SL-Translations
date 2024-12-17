@@ -4890,3 +4890,1403 @@ translate french day14_evening_choices_fd06fdaa:
     # "{i}The film you end up watching is rather boring and you have a hard time concentrating. Instead, you steal glances at [b_name], who doesn't seem to notice."
     "{i}Le film que vous finissez par regarder est plutôt ennuyeux et vous avez du mal à vous concentrer, vous dévisagez [b_name] à la place, qui ne semble pas le remarqué."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day14.rpy:264
+translate french day14_choices_d8a6ddcd:
+
+    # p "I'm glad to hear that."
+    p "Je suis heureux de l'entendre"
+
+# game/day14.rpy:265
+translate french day14_choices_94cbdeab:
+
+    # h "Do you need to go?"
+    h "Tu as besoin de partir ?"
+
+# game/day14.rpy:266
+translate french day14_choices_0d51abe5:
+
+    # p "{i}(God, that woman is insatiable. Fine with me.)"
+    p "{i}(Dieu que cette femme est insatiable Fine avec moi)"
+
+# game/day14.rpy:267
+translate french day14_choices_b15b03f1:
+
+    # p "I have some time left..."
+    p "Il me reste un peu de temps"
+
+# game/day14.rpy:268
+translate french day14_choices_1a2122c1:
+
+    # h "Good, I want to feel you inside me again."
+    h "Bien, je veux te sentir à nouveau en moi"
+
+# game/day14.rpy:269
+translate french day14_choices_b28d880a:
+
+    # p "That can be arranged."
+    p "Cela peut être arrangé"
+
+# game/day14.rpy:827
+translate french day14_discreet_session_c4245165:
+
+    # p "{i}(I'm not sure if I'll ever get used to seeing [m_name] like this.)"
+    p "{i}(Je ne sais pas si je m'habituerai un jour à voir [m_name] comme ça)"
+
+# game/day14.rpy:828
+translate french day14_discreet_session_46e5949d:
+
+    # m "Are you ready to continue, Mr. Holmes?"
+    m "Êtes-vous prêt à continuer M. Holmes ?"
+
+# game/day14.rpy:829
+translate french day14_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:830
+translate french day14_discreet_session_4c8b2fa1:
+
+    # m "Good, you didn't forget how to address me."
+    m "C'est bien que tu n'aies pas oublié comment on s'adresse à moi"
+
+# game/day14.rpy:832
+translate french day14_discreet_session_9d9a6ef4:
+
+    # m "Today we'll open one of the doors and see what's behind them."
+    m "Aujourd'hui, nous allons ouvrir l'une des portes et voir ce qu'il y a derrière"
+
+# game/day14.rpy:833
+translate french day14_discreet_session_044b7890:
+
+    # m "Undress yourself."
+    m "Déshabillez-vous"
+
+# game/day14.rpy:834
+translate french day14_discreet_session_44fd583a:
+
+    # "{i}You quietly remove your clothes while [m_name] gazes at you."
+    "{i}Vous enlevez tranquillement vos vêtements pendant que [m_name] vous regarde"
+
+# game/day14.rpy:835
+translate french day14_discreet_session_65725451:
+
+    # m "{i}(I almost forgot how good he looked.)"
+    m "{i}(J'avais presque oublié à quel point il était beau)"
+
+# game/day14.rpy:836
+translate french day14_discreet_session_1f37fe43:
+
+    # m "You may open the first door to your left."
+    m "Vous pouvez ouvrir la première porte à votre gauche"
+
+# game/day14.rpy:838
+translate french day14_discreet_session_2da66ab0:
+
+    # p "{i}(Damn! Is that the receptionist?)"
+    p "{i}(Merde ! C'est la réceptionniste ?)"
+
+# game/day14.rpy:839
+translate french day14_discreet_session_e6885bc2:
+
+    # m "Before you, you see another of my slaves. I think you've met her. Would you like to know her name?"
+    m "Avant que vous ne voyiez une autre de mes esclaves, je pense que vous l'avez déjà rencontrée. Aimeriez-vous connaître son nom ?"
+
+# game/day14.rpy:840
+translate french day14_discreet_session_e8d6f445:
+
+    # p "Yes mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:842
+translate french day14_discreet_session_e711782e:
+
+    # m "I'm afraid she can't tell her yourself, but her name is Adriana."
+    m "Je crains qu'elle ne puisse pas vous le dire, mais elle s'appelle Adriana."
+
+# game/day14.rpy:843
+translate french day14_discreet_session_aaeed54b:
+
+    # m "Adriana, this is Mr. Holmes."
+    m "Adriana, voici M. Holmes"
+
+# game/day14.rpy:844
+translate french day14_discreet_session_3870e3e0:
+
+    # "{i}The receptionist mumbles something from behind her ball gag and struggles with her bonds."
+    "{i}La réceptionniste marmonne quelque chose derrière son bâillon et se débat avec ses liens."
+# game/day14.rpy:845
+translate french day14_discreet_session_d06d977a:
+
+    # m "Are those restraints too tight, Adriana?"
+    m "Ces entraves sont-elles trop serrées Adriana ?"
+
+# game/day14.rpy:846
+translate french day14_discreet_session_5e09bd5c:
+
+    # m "She's nodding her head. I guess she's fine. Do you like what you see, boy?"
+    m "Elle hoche la tête je suppose qu'elle va bien Tu aimes ce que tu vois mon garçon ?"
+
+# game/day14.rpy:847
+translate french day14_discreet_session_e8d6f445_1:
+
+    # p "Yes mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:848
+translate french day14_discreet_session_a8ef698e:
+
+    # m "What do you like specifically? Tell me."
+    m "Qu'est-ce que tu aimes en particulier ? Dites-moi"
+
+# game/day14.rpy:853
+translate french day14_discreet_session_ab350f2c:
+
+    # p "Her breasts, mistress."
+    p "Ses seins maîtresse"
+
+# game/day14.rpy:855
+translate french day14_discreet_session_20f12902:
+
+    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
+    m "Oui, c'est une belle paire, n'est-ce pas ? Je parie que tu aimerais les baiser."
+
+# game/day14.rpy:859
+translate french day14_discreet_session_1ae6a054:
+
+    # p "Yes, mistress. I would very much."
+    p "Oui, maîtresse, j'aimerais beaucoup."
+
+# game/day14.rpy:860
+translate french day14_discreet_session_5d7144d2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Peut-être que tu auras de la chance si tu es un bon garçon"
+
+# game/day14.rpy:863
+translate french day14_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Pas de maîtresse"
+
+# game/day14.rpy:864
+translate french day14_discreet_session_714694ce:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Vous n'êtes pas très cohérent dans vos réponses, n'est-ce pas ? Ne me décevez pas"
+
+# game/day14.rpy:865
+translate french day14_discreet_session_c8c6eb0f:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Quand j'admire quelque chose, ça ne veut pas automatiquement dire que j'ai envie de le baiser Jeez)"
+
+# game/day14.rpy:869
+translate french day14_discreet_session_242c9dd0:
+
+    # p "Her ass, mistress."
+    p "Sa maîtresse du cul"
+
+# game/day14.rpy:871
+translate french day14_discreet_session_17b91230:
+
+    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
+    m "Oui son cul est quelque chose de doux et de rond je parie que vous aimeriez la baiser par derrière."
+
+# game/day14.rpy:875
+translate french day14_discreet_session_1ae6a054_1:
+
+    # p "Yes, mistress. I would very much."
+    p "Oui, maîtresse, j'aimerais beaucoup."
+
+# game/day14.rpy:876
+translate french day14_discreet_session_5d7144d2_1:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Peut-être que tu auras de la chance si tu es un bon garçon"
+
+# game/day14.rpy:879
+translate french day14_discreet_session_d36b20f6_1:
+
+    # p "No, mistress."
+    p "Pas de maîtresse"
+
+# game/day14.rpy:880
+translate french day14_discreet_session_714694ce_1:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Vous n'êtes pas très cohérent dans vos réponses, n'est-ce pas ? Ne me décevez pas"
+
+# game/day14.rpy:881
+translate french day14_discreet_session_c8c6eb0f_1:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Quand j'admire quelque chose, ça ne veut pas automatiquement dire que j'ai envie de le baiser Jeez)"
+
+# game/day14.rpy:885
+translate french day14_discreet_session_856d4021:
+
+    # p "Her pussy, mistress."
+    p "Sa chatte maîtresse"
+
+# game/day14.rpy:887
+translate french day14_discreet_session_70eee315:
+
+    # m "Yes, it looks very juicy. I bet you'd like to fuck that pussy."
+    m "Oui, elle a l'air très juteuse, je parie que vous aimeriez baiser cette chatte."
+
+# game/day14.rpy:891
+translate french day14_discreet_session_1ae6a054_2:
+
+    # p "Yes, mistress. I would very much."
+    p "Oui, maîtresse, j'aimerais beaucoup."
+
+# game/day14.rpy:892
+translate french day14_discreet_session_5d7144d2_2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Peut-être que tu auras de la chance si tu es un bon garçon"
+
+# game/day14.rpy:895
+translate french day14_discreet_session_d36b20f6_2:
+
+    # p "No, mistress."
+    p "Pas de maîtresse"
+
+# game/day14.rpy:896
+translate french day14_discreet_session_714694ce_2:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Vous n'êtes pas très cohérent dans vos réponses, n'est-ce pas ? Ne me décevez pas"
+
+# game/day14.rpy:897
+translate french day14_discreet_session_c8c6eb0f_2:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Quand j'admire quelque chose, ça ne veut pas automatiquement dire que j'ai envie de le baiser Jeez)"
+
+# game/day14.rpy:900
+translate french day14_discreet_session_147de036:
+
+    # p "Nothing much, mistress."
+    p "Pas grand-chose maîtresse"
+
+# game/day14.rpy:902
+translate french day14_discreet_session_95aba2ad:
+
+    # m "Are you trying to annoy me, boy? Because you're succeeding."
+    m "Est-ce que tu essaies de m'ennuyer, mon garçon ? Parce que tu y arrives"
+
+# game/day14.rpy:903
+translate french day14_discreet_session_d36b20f6_3:
+
+    # p "No, mistress."
+    p "Pas de maîtresse"
+
+# game/day14.rpy:905
+translate french day14_discreet_session_c7dbdc10:
+
+    # "{i}[m_name] retrieves a key from somewhere and unlocks the restraints that are holding Adriana. You all move to the ornate room with the couch."
+    "{i}[m_name] récupère une clé quelque part et déverrouille les liens qui retiennent Adriana Vous vous dirigez tous vers la pièce ornée avec le canapé."
+
+# game/day14.rpy:907
+translate french day14_discreet_session_ce38f8d4:
+
+    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
+    "{i}Vous vous tenez à côté d'Adriana qui ne peut toujours pas dire grand-chose avec le bâillon dans sa bouche Malgré la chaleur de la pièce, elle tremble légèrement."
+# game/day14.rpy:908
+translate french day14_discreet_session_91ccbfec:
+
+    # m "Now, Adriana and you are going to do something for me. It's a test of strength and resolve, in a way. And the winner gets a prize."
+    m "Maintenant Adriana et toi allez faire quelque chose pour moi C'est une épreuve de force et de détermination en quelque sorte Et le gagnant recevra un prix."
+
+# game/day14.rpy:909
+translate french day14_discreet_session_8d344ccc:
+
+    # p "{i}(Wonder what that'll be.)"
+    p "{i}(Je me demande ce que ce sera)"
+
+# game/day14.rpy:910
+translate french day14_discreet_session_7153742f:
+
+    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
+    "{i}[m_name] vous tend deux objets Vous êtes surpris par leur poids"
+
+# game/day14.rpy:911
+translate french day14_discreet_session_5df7de85:
+
+    # m "You'll hold one in each hand and keep your arms level."
+    m "Vous en tiendrez un dans chaque main et garderez les bras à l'horizontale."
+
+# game/day14.rpy:913
+translate french day14_discreet_session_25919422:
+
+    # m "Good. The person who can hold this weight the longest will be the winner."
+    m "Bon La personne qui peut tenir ce poids le plus longtemps sera le gagnant."
+
+# game/day14.rpy:914
+translate french day14_discreet_session_3345c523:
+
+    # p "{i}(That shouldn't be too hard.)"
+    p "{i}(Cela ne devrait pas être trop difficile)"
+
+# game/day14.rpy:915
+translate french day14_discreet_session_0095e6b5:
+
+    # "{i}You feel the weight of the stones in your arms as you try to keep them at the same position."
+    "{i}Vous sentez le poids des pierres dans vos bras alors que vous essayez de les maintenir dans la même position."
+# game/day14.rpy:920
+translate french day14_discreet_session_f9183d78:
+
+    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
+    "{i}Soudain, on entend le claquement d'un fouet et un gémissement étouffé s'échappe d'Adriana."
+# game/day14.rpy:921
+translate french day14_discreet_session_273dffed:
+
+    # m "On your toes, the both of you."
+    m "Sur vos orteils tous les deux"
+
+# game/day14.rpy:922
+translate french day14_discreet_session_d191b303:
+
+    # p "{i}(Fuck.)"
+    p "{i}(Fuck)"
+
+# game/day14.rpy:924
+translate french day14_discreet_session_bc169090:
+
+    # m "You both need to learn some discipline."
+    m "Vous avez tous les deux besoin d'apprendre la discipline"
+
+# game/day14.rpy:928
+translate french day14_discreet_session_bf971835:
+
+    # "{i}The whip cracks against your naked buttocks. You feel the heat of the lash pulsate as she strikes your butt again."
+    "{i}Le fouet claque contre vos fesses nues Vous sentez la chaleur du fouet pulser alors qu'elle frappe à nouveau vos fesses."
+
+# game/day14.rpy:929
+translate french day14_discreet_session_bfea5ee9:
+
+    # m "Stay on your toes."
+    m "Restez sur vos gardes"
+
+# game/day14.rpy:930
+translate french day14_discreet_session_5e132d44:
+
+    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
+    "{i}Le [m_name] se déplace à nouveau vers Adriana et du coin de l'œil, on la voit frapper les mollets de la réceptionniste. Un cri et un gémissement s'échappent d'elle."
+# game/day14.rpy:931
+translate french day14_discreet_session_c9792aca:
+
+    # m "Are you going to give up so easily, Adriana?"
+    m "Vas-tu abandonner si facilement Adriana ?"
+
+# game/day14.rpy:932
+translate french day14_discreet_session_acb698b0:
+
+    # p "{i}(Adriana must be close... Is she going to drop those stones?)"
+    p "{i}(Adriana doit être proche Va-t-elle laisser tomber ces pierres ?)"
+
+# game/day14.rpy:936
+translate french day14_discreet_session_08b78b95:
+
+    # p "{i}(I can probably hold out for a bit, but I'm curious to see what the prize for Adriana entails.)"
+    p "{i}(Je peux probablement attendre un peu, mais je suis curieux de voir ce que le prix pour Adriana implique)"
+
+# game/day14.rpy:947
+translate french day14_discreet_session_b7371781:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}Le fouet de [m_name] est entre les cuisses d'Adriana et elle lutte pour rester sur ses orteils tandis que [m_name] lui fouette la chatte avec des claquements courts et violents."
+# game/day14.rpy:948
+translate french day14_discreet_session_3f852ec6:
+
+    # "{i}You let go and drop both stones to the ground."
+    "{i}Vous lâchez prise et laissez tomber les deux pierres sur le sol."
+# game/day14.rpy:949
+translate french day14_discreet_session_fd39564f:
+
+    # m "What?! This is unexpected."
+    m "Quoi ?! C'est inattendu"
+
+# game/day14.rpy:950
+translate french day14_discreet_session_3cb47b54:
+
+    # m "{i}(Damnit, I really thought he would last longer. Adriana's good enough, but I'm getting more and more interested in him.)"
+    m "{i}(Merde, je pensais vraiment qu'il durerait plus longtemps Adriana est assez bonne mais il m'intéresse de plus en plus)"
+
+# game/day14.rpy:951
+translate french day14_discreet_session_33663369:
+
+    # p "{i}(Does she sound disappointed?)"
+    p "{i}(A-t-elle l'air déçue ?)"
+
+# game/day14.rpy:952
+translate french day14_discreet_session_89709d7a:
+
+    # m "Seems like you're the winner, Adriana. Are you happy?"
+    m "On dirait que c'est toi la gagnante Adriana Tu es contente ?"
+
+# game/day14.rpy:953
+translate french day14_discreet_session_0dc81ae4:
+
+    # "{i}Adriana, still holding the stones while standing on her toes, nods her head enthusiastically."
+    "{i}Adriana, qui tient toujours les pierres en se dressant sur la pointe des pieds, hoche la tête avec enthousiasme."
+# game/day14.rpy:954
+translate french day14_discreet_session_ea63efd8:
+
+    # m "You probably want to let go of those stones, don't you?"
+    m "Vous voulez sans doute vous débarrasser de ces pierres, n'est-ce pas ?"
+
+# game/day14.rpy:955
+translate french day14_discreet_session_e612037c:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:956
+translate french day14_discreet_session_fed026af:
+
+    # m "That is allowed. And as a bonus, I'll remove your gag."
+    m "C'est autorisé Et en prime je vous enlèverai votre bâillon"
+
+# game/day14.rpy:957
+translate french day14_discreet_session_0b3cbcc9:
+
+    # "{i}Adriana drops her stones and looks relieved as [m_name] removes the ball gag."
+    "{i}Adriana laisse tomber ses pierres et semble soulagée lorsque [m_name] enlève le bâillon"
+
+# game/day14.rpy:958
+translate french day14_discreet_session_2b1521c1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Maintenant pour ta récompense Ma chatte a besoin d'un peu d'attention Allonge-toi"
+
+# game/day14.rpy:960
+translate french day14_discreet_session_f8c8b460:
+
+    # "{i}The receptionist obediently lies down on the floor."
+    "{i}La réceptionniste s'allonge docilement sur le sol."
+# game/day14.rpy:961
+translate french day14_discreet_session_83ca7014:
+
+    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
+    m "Tu dois regarder mon garçon Si je te vois te toucher, tu vas payer l'enfer."
+
+# game/day14.rpy:963
+translate french day14_discreet_session_679e517a:
+
+    # "{i}Your mother undresses and lowers herself onto Adriana's face."
+    "{i}Ta mère se déshabille et se baisse sur le visage d'Adriana."
+# game/day14.rpy:965
+translate french day14_discreet_session_cd89a18e:
+
+    # "{i}[m_name] undresses and lowers herself onto Adriana's face."
+    "{i}[m_name] se déshabille et se baisse sur le visage d'Adriana"
+
+# game/day14.rpy:966
+translate french day14_discreet_session_34ef5289:
+
+    # p "{i}(Fucking hell, her body is pure pornography.)"
+    p "{i}(Putain de merde, son corps est de la pure pornographie)"
+
+# game/day14.rpy:967
+translate french day14_discreet_session_993f6fee:
+
+    # m "Lick me, slut."
+    m "Lèche-moi, salope"
+
+# game/day14.rpy:974
+translate french day14_discreet_session_7a3d4edc:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks your mom's pussy lips."
+    "{i}La langue d'Adriana sort de sa bouche et lèche soigneusement les lèvres de la chatte de ta mère."
+# game/day14.rpy:976
+translate french day14_discreet_session_edf58581:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
+    "{i}La langue d'Adriana sort de sa bouche et lèche soigneusement les lèvres de la chatte de [m_name]."
+# game/day14.rpy:977
+translate french day14_discreet_session_b5bfeb5c:
+
+    # m "Good! Good!"
+    m "Bien ! Bien !"
+
+# game/day14.rpy:978
+translate french day14_discreet_session_1f6e2cc0:
+
+    # "{i}You only hear Adriana's muffled breathing and the wet sounds of her tongue caressing [m_name]'s labia as she smothers the receptionist with her pussy."
+    "{i}On n'entend que la respiration étouffée d'Adriana et le bruit humide de sa langue caressant les lèvres de [m_name] alors qu'elle étouffe la réceptionniste avec sa chatte."
+# game/day14.rpy:979
+translate french day14_discreet_session_d64705b0:
+
+    # m "Do you like that, Adriana?"
+    m "Tu aimes ça Adriana ?"
+
+# game/day14.rpy:980
+translate french day14_discreet_session_be51334e:
+
+    # ad "Mmmmmhmmmmmm..."
+    ad "Mmmmmhmmmm."
+
+# game/day14.rpy:981
+translate french day14_discreet_session_c70f6a60:
+
+    # m "Fuck my pussy with your tongue."
+    m "Baise ma chatte avec ta langue"
+
+# game/day14.rpy:990
+translate french day14_discreet_session_ba0fa4bb:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of your mom's vagina."
+    "{i}Ta bite est en pleine érection tandis que la tête d'Adriana oscille de haut en bas, sa langue entrant et sortant du vagin de ta mère."
+# game/day14.rpy:992
+translate french day14_discreet_session_f6020670:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
+    "{i}Votre bite est en pleine érection tandis que la tête d'Adriana oscille de haut en bas, sa langue entrant et sortant du vagin de [m_name]."
+# game/day14.rpy:993
+translate french day14_discreet_session_b8fbbb08:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of the receptionist's head and pulls her towards her pussy."
+    "{i}Visiblement proche de l'orgasme, [m_name] saisit la tête de la réceptionniste et la tire vers sa chatte"
+
+# game/day14.rpy:1000
+translate french day14_discreet_session_df976253:
+
+    # m "Aaaaaaah! Goooood girl!"
+    m "Aaaaaaaaah ! Bonne fille !"
+
+# game/day14.rpy:1001
+translate french day14_discreet_session_67309967:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes, you little whore! Aaaaah!"
+    m "Buvez mon jus ! Ah putain oui ! Suce ma chatte Oui, petite pute ! Aaaaah !"
+
+# game/day14.rpy:1002
+translate french day14_discreet_session_cc917045:
+
+    # "{i}As you watch the scene unfold before your eyes, precum is leaking from the tip of your taught member."
+    "{i}Alors que vous regardez la scène se dérouler sous vos yeux, du précum s'écoule de l'extrémité de votre membre enseigné."
+# game/day14.rpy:1006
+translate french day14_discreet_session_38c64a1b:
+
+    # p "{i}(Must hold out a little longer.)"
+    p "{i}(Doit tenir un peu plus longtemps)"
+
+# game/day14.rpy:1017
+translate french day14_discreet_session_b7371781_1:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}Le fouet de [m_name] est entre les cuisses d'Adriana et elle lutte pour rester sur ses orteils tandis que [m_name] lui fouette la chatte avec des claquements courts et violents."
+# game/day14.rpy:1018
+translate french day14_discreet_session_0bcfc987:
+
+    # "{i}Adriana suddenly stumbles and one of the stones drops from her hand, the other soon follows."
+    "{i}Adriana trébuche soudain et l'une des pierres tombe de sa main, l'autre la suit bientôt."
+# game/day14.rpy:1019
+translate french day14_discreet_session_6dd6b0e9:
+
+    # m "Disappointing. That means you are the winner, boy. You probably want to let go of those stones, don't you?"
+    m "Décevant Cela signifie que tu es le vainqueur garçon Tu veux probablement lâcher ces pierres, n'est-ce pas ?"
+
+# game/day14.rpy:1020
+translate french day14_discreet_session_e612037c_1:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:1021
+translate french day14_discreet_session_7758ccc4:
+
+    # m "That is allowed."
+    m "C'est autorisé"
+
+# game/day14.rpy:1022
+translate french day14_discreet_session_b1a2a3dd:
+
+    # "{i}You let go of both stones at the same time which is a relief on your strained arm muscles."
+    "{i}Vous lâchez les deux pierres en même temps, ce qui soulage les muscles de vos bras."
+# game/day14.rpy:1023
+translate french day14_discreet_session_90d93bee:
+
+    # m "{i}(Let's see what he can do. I'm sure Adriana is confused by the whole situation right now. This isn't normally how we do things.)"
+    m "{i}(Voyons ce qu'il peut faire Je suis sûr qu'Adriana est troublée par toute la situation en ce moment Ce n'est pas comme ça qu'on fait normalement)"
+
+# game/day14.rpy:1024
+translate french day14_discreet_session_2b1521c1_1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Maintenant pour ta récompense Ma chatte a besoin d'un peu d'attention Allonge-toi"
+
+# game/day14.rpy:1026
+translate french day14_discreet_session_b9c0aeca:
+
+    # "{i}You lie down on the floor."
+    "{i}Tu t'allonges sur le sol"
+# game/day14.rpy:1027
+translate french day14_discreet_session_c2d5a788:
+
+    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
+    m "Tu dois surveiller Adriana Si je te vois te toucher, il y aura de l'enfer à payer"
+
+# game/day14.rpy:1029
+translate french day14_discreet_session_7c796bfc:
+
+    # "{i}Your mother undresses and lowers herself onto your face."
+    "{i}Ta mère se déshabille et se baisse sur ton visage"
+
+# game/day14.rpy:1031
+translate french day14_discreet_session_f4c12e75:
+
+    # "{i}[m_name] undresses and lowers herself onto your face."
+    "{i}[m_name] se déshabille et s'abaisse sur votre visage"
+
+# game/day14.rpy:1032
+translate french day14_discreet_session_864f6070:
+
+    # "{i}Her soft pubic hair tickles and a salty aroma nearly overwhelms you. It's getting harder to breathe."
+    "{i}Ses doux poils pubiens vous chatouillent et un arôme salé vous envahit presque Il devient difficile de respirer"
+
+# game/day14.rpy:1033
+translate french day14_discreet_session_254921b0:
+
+    # p "{i}(She's fucking sitting on my face. Wish I wasn't wearing that bloody mask.)"
+    p "{i}(Elle est assise sur mon visage Wish I wasn't wearing that bloody mask)"
+
+# game/day14.rpy:1034
+translate french day14_discreet_session_a5655a32:
+
+    # m "Lick me, boy."
+    m "Lèche-moi"
+
+# game/day14.rpy:1041
+translate french day14_discreet_session_81f58e43:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick your mom's pussy lips. She's wet and tastes salty."
+    "{i}Ta langue sort de ta bouche et tu lèches soigneusement les lèvres de la chatte de ta mère. Elle est mouillée et a un goût salé."
+# game/day14.rpy:1043
+translate french day14_discreet_session_cd7c1d9c:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
+    "{i}Votre langue sort de votre bouche et vous léchez soigneusement les lèvres de la chatte de [m_name] Elle est mouillée et a un goût salé"
+
+# game/day14.rpy:1044
+translate french day14_discreet_session_b5bfeb5c_1:
+
+    # m "Good! Good!"
+    m "Bien ! Bien !"
+
+# game/day14.rpy:1045
+translate french day14_discreet_session_9e557aa2:
+
+    # "{i}The only thing you hear is [m_name]'s heavy breathing and the wet sounds of your tongue caressing her labia as she smothers you with her pussy."
+    "{i}La seule chose que vous entendez est la respiration lourde de [m_name] et le bruit humide de votre langue caressant ses lèvres alors qu'elle vous étouffe avec sa chatte."
+# game/day14.rpy:1046
+translate french day14_discreet_session_dfd9b39b:
+
+    # m "Do you like that, boy?"
+    m "Tu aimes ce garçon ?"
+
+# game/day14.rpy:1047
+translate french day14_discreet_session_e15e30b7:
+
+    # p "Mmmmmhmmmmmm..."
+    p "Mmmmmhmmmmmm"
+
+# game/day14.rpy:1048
+translate french day14_discreet_session_c70f6a60_1:
+
+    # m "Fuck my pussy with your tongue."
+    m "Baise ma chatte avec ta langue"
+
+# game/day14.rpy:1057
+translate french day14_discreet_session_674d8f15:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of your mom's vagina."
+    "{i}Ta bite est en pleine érection alors que ta langue entre et sort du vagin de ta mère."
+# game/day14.rpy:1059
+translate french day14_discreet_session_823d5930:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
+    "{i}Votre bite est en pleine érection alors que votre langue entre et sort du vagin de [m_name]."
+# game/day14.rpy:1060
+translate french day14_discreet_session_3c2ee3ac:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of your head and pulls you towards her pussy. You feel her fingers press hard against your skull."
+    "{i}Clairement proche de l'orgasme [m_name] saisit votre tête et vous tire vers sa chatte Vous sentez ses doigts appuyer fortement sur votre crâne"
+
+# game/day14.rpy:1067
+translate french day14_discreet_session_8e09283d:
+
+    # m "Aaaaaaah! Goooood boy!"
+    m "Aaaaaaah ! Bon garçon !"
+
+# game/day14.rpy:1068
+translate french day14_discreet_session_ef7ee683:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes! Aaaaah!"
+    m "Buvez mon jus ! Ah putain oui ! Suce ma chatte Oui ! Aaaaah !"
+
+# game/day14.rpy:1069
+translate french day14_discreet_session_8e05be01:
+
+    # "{i}As you lap up the juices of her orgasm, precum is leaking from the tip of your taught member."
+    "{i}Alors que vous lapez les sucs de son orgasme, du précum s'échappe de la pointe de votre membre enseigné."
+# game/day14.rpy:1070
+translate french day14_discreet_session_98b68f60:
+
+    # "{i}Adriana is still standing there gazing at you lustfully while [m_name] removes her gag."
+    "{i}Adriana est toujours là à vous regarder avec lubricité pendant que [m_name] enlève son bâillon."
+# game/day14.rpy:1077
+translate french day14_discreet_session_c4bcf13d:
+
+    # m "I'd like to reward you for being such a good servant."
+    m "Je voudrais te récompenser pour avoir été un si bon serviteur"
+
+# game/day14.rpy:1080
+translate french day14_discreet_session_59fefa56:
+
+    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
+    m "Notre garçon a exprimé son admiration pour ta chatte, n'est-ce pas Adriana ?"
+
+# game/day14.rpy:1081
+translate french day14_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1082
+translate french day14_discreet_session_151c1deb:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Et puis il a dit qu'il ne voulait pas te baiser Un garçon aussi étrange"
+
+# game/day14.rpy:1083
+translate french day14_discreet_session_54dd0c92:
+
+    # m "So I guess you won't get fucked today, Adriana. I'm sure you understand."
+    m "Donc je suppose que tu ne seras pas baisée aujourd'hui Adriana, je suis sûre que tu comprends."
+
+# game/day14.rpy:1085
+translate french day14_discreet_session_b8df8615:
+
+    # m "Our boy praised your ass, didn't he, Adriana?"
+    m "Notre garçon a fait l'éloge de ton cul, n'est-ce pas Adriana ?"
+
+# game/day14.rpy:1086
+translate french day14_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1087
+translate french day14_discreet_session_151c1deb_1:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Et puis il a dit qu'il ne voulait pas te baiser Un garçon aussi étrange."
+
+# game/day14.rpy:1088
+translate french day14_discreet_session_f18f5a5b:
+
+    # m "So I guess we won't offer your tight asshole today, Adriana. I'm sure you understand."
+    m "Donc je suppose que nous n'offrirons pas ton petit trou du cul aujourd'hui Adriana, je suis sûre que tu comprends."
+
+# game/day14.rpy:1090
+translate french day14_discreet_session_f4c88f4f:
+
+    # m "Our boy praised your breasts, didn't he, Adriana?"
+    m "Notre garçon a fait l'éloge de tes seins, n'est-ce pas Adriana ?"
+
+# game/day14.rpy:1091
+translate french day14_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1092
+translate french day14_discreet_session_151c1deb_2:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Et puis il a dit qu'il ne voulait pas te baiser Un garçon aussi étrange"
+
+# game/day14.rpy:1093
+translate french day14_discreet_session_77164c8b:
+
+    # m "So I guess he doesn't get to push his cock between your tits, Adriana. I'm sure you understand."
+    m "Alors je suppose qu'il n'a pas le droit d'enfoncer sa bite entre tes seins Adriana, je suis sûre que tu comprends."
+
+# game/day14.rpy:1095
+translate french day14_discreet_session_bb322cb6:
+
+    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
+    m "Mais puisque notre garçon prétend qu'il n'aime rien chez toi Adriana, je suppose que nous ne pouvons rien lui offrir."
+
+# game/day14.rpy:1096
+translate french day14_discreet_session_8b9f95b0:
+
+    # p "{i}(Damn. I'd really like to fuck something right about now.)"
+    p "{i}(Bon sang, j'aimerais vraiment baiser quelque chose en ce moment)"
+
+# game/day14.rpy:1097
+translate french day14_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1098
+translate french day14_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:1099
+translate french day14_discreet_session_12164705:
+
+    # m "Good. Class dismissed."
+    m "Bonne classe renvoyée"
+
+# game/day14.rpy:1107
+translate french day14_discreet_session_3f84f2fb:
+
+    # m "And our boy expressed an interest in your body, Adriana. Would you like to get fucked now?"
+    m "Et notre garçon a exprimé un intérêt pour ton corps Adriana Voudrais-tu te faire baiser maintenant ?"
+
+# game/day14.rpy:1108
+translate french day14_discreet_session_b25c3cee:
+
+    # ad "Very much, mistress."
+    ad "Very much mistress"
+
+# game/day14.rpy:1109
+translate french day14_discreet_session_712d152f:
+
+    # p "{i}(Fuck yes! I'm not sure it will take long, but I sure am going to drench her in cum.)"
+    p "{i}(Putain oui ! Je ne suis pas sûr que cela prenne beaucoup de temps mais je suis sûr que je vais l'arroser de sperme)"
+
+# game/day14.rpy:1112
+translate french day14_discreet_session_4d0e495d:
+
+    # m "You may use her pussy. And be sure to finish on her face, a good slut deserves that much."
+    m "Vous pouvez utiliser sa chatte et assurez-vous de finir sur son visage, une bonne salope le mérite."
+
+# game/day14.rpy:1113
+translate french day14_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:1119
+translate french day14_discreet_session_a14deefc:
+
+    # "{i}Due to the events you've just experienced you slide inside Adriana a little roughly, which elicits a small, surprised gasp from her."
+    "{i}En raison des événements que vous venez de vivre, vous glissez à l'intérieur d'Adriana de manière un peu brutale, ce qui provoque un petit souffle de surprise de sa part"
+
+# game/day14.rpy:1120
+translate french day14_discreet_session_afe580f6:
+
+    # m "How does he feel inside you, Adriana?"
+    m "Comment se sent-il en toi Adriana ?"
+
+# game/day14.rpy:1121
+translate french day14_discreet_session_2f0e67fa:
+
+    # ad "He feels so big, mistress."
+    ad "Il se sent si grand maîtresse"
+
+# game/day14.rpy:1123
+translate french day14_discreet_session_13a6f1c9:
+
+    # "{i}You grab Adriana's legs and start to thrust your dick inside the receptionist. Her pussy lips massage the sides of your throbbing cock and Adriana's breathing becomes shallow."
+    "{i}Vous saisissez les jambes d'Adriana et commencez à enfoncer votre bite dans la réceptionniste. Les lèvres de sa chatte massent les côtés de votre bite palpitante et la respiration d'Adriana devient superficielle."
+# game/day14.rpy:1124
+translate french day14_discreet_session_ebe15ba7:
+
+    # ad "Fuck me, please, fuck me harder!"
+    ad "Baise-moi, s'il te plaît, baise-moi plus fort !"
+
+# game/day14.rpy:1125
+translate french day14_discreet_session_5150cad6:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
+    "{i}Ses gros seins rebondissent au rythme de votre baiser et vous vous sentez très proche de l'orgasme, probablement à cause de tout ce qui s'est passé avant."
+# game/day14.rpy:1131
+translate french day14_discreet_session_1a6e0e7f:
+
+    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Avec un rugissement, vous vous retirez et saisissez sa tête. Adriana ouvre docilement sa bouche pour recevoir votre semence."
+# game/day14.rpy:1132
+translate french day14_discreet_session_7c9a8cd4:
+
+    # m "Finished already. Your pussy must be magical, Adriana..."
+    m "Déjà fini Ta chatte doit être magique Adriana"
+
+# game/day14.rpy:1133
+translate french day14_discreet_session_bb4ec6df:
+
+    # m "You may cum on her."
+    m "Vous pouvez jouir sur elle"
+
+# game/day14.rpy:1135
+translate french day14_discreet_session_787b0b9e:
+
+    # m "You may use Adriana's ass. Do be gentle. And be sure to finish on her face, a good slut deserves that much."
+    m "Vous pouvez utiliser le cul d'Adriana. Soyez doux et assurez-vous de finir sur son visage, une bonne salope le mérite."
+
+# game/day14.rpy:1136
+translate french day14_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:1141
+translate french day14_discreet_session_15c41f02:
+
+    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
+    "{i}Alors que tu pousses le bout de ta bite contre le rectum d'Adriana, tu l'entends haleter."
+# game/day14.rpy:1142
+translate french day14_discreet_session_ec80b608:
+
+    # ad "Please be gentle."
+    ad "S'il vous plaît, soyez gentils"
+
+# game/day14.rpy:1143
+translate french day14_discreet_session_74327b4e:
+
+    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
+    "{i}Cette déclaration vous excite encore plus et vous commencez à pousser votre bite à l'intérieur d'elle Le précum qui a suinté de votre pénis tout à l'heure agit comme un lubrifiant mais c'est toujours un ajustement serré."
+
+# game/day14.rpy:1144
+translate french day14_discreet_session_111f439d:
+
+    # "{i}The receptionist is very tense, but relaxes visibly when she feels your balls against her pussy."
+    "{i}La réceptionniste est très tendue mais se détend visiblement lorsqu'elle sent vos couilles contre sa chatte."
+# game/day14.rpy:1145
+translate french day14_discreet_session_26cec445:
+
+    # m "He's inside of you. How does that feel?"
+    m "Il est à l'intérieur de toi Comment tu te sens ?"
+
+# game/day14.rpy:1146
+translate french day14_discreet_session_1b2a2c62:
+
+    # ad "He's so big, mistress."
+    ad "Il est si grand, maîtresse."
+
+# game/day14.rpy:1151
+translate french day14_discreet_session_fb3d5f0e:
+
+    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
+    "{i}La respiration d'Adriana devient saccadée Elle vous guide avec sa main et vous la pénétrez de plus en plus vite."
+
+# game/day14.rpy:1152
+translate french day14_discreet_session_08fd09db:
+
+    # ad "Fuck me, please, fuck my ass!"
+    ad "Baise-moi, s'il te plaît, baise mon cul !"
+
+# game/day14.rpy:1153
+translate french day14_discreet_session_791ee88c:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
+    "{i}Ses gros seins rebondissent au rythme de votre baiser Son trou du cul est serré et masse votre bite comme vous ne l'avez jamais ressenti auparavant Vous vous sentez très proche de l'orgasme, probablement à cause de tout ce qui s'est passé avant."
+
+# game/day14.rpy:1159
+translate french day14_discreet_session_291215d7:
+
+    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Avec un rugissement, vous vous retirez de son cul et saisissez sa tête. Adriana ouvre docilement sa bouche pour recevoir votre semence."
+# game/day14.rpy:1160
+translate french day14_discreet_session_a4a83b56:
+
+    # m "Finished already. Your ass must be magical, Adriana..."
+    m "Déjà fini Ton cul doit être magique Adriana"
+
+# game/day14.rpy:1161
+translate french day14_discreet_session_bb4ec6df_1:
+
+    # m "You may cum on her."
+    m "Vous pouvez jouir sur elle"
+
+# game/day14.rpy:1163
+translate french day14_discreet_session_732a62ea:
+
+    # m "Adriana is going to massage your cock with her breasts. Be sure to cover her face when you're ready, a good slut deserves that much."
+    m "Adriana va masser ta bite avec ses seins N'oublie pas de lui couvrir le visage quand tu seras prêt, une bonne salope le mérite bien."
+
+# game/day14.rpy:1164
+translate french day14_discreet_session_0b462255_4:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+
+# game/day14.rpy:1165
+translate french day14_discreet_session_25debe46:
+
+    # "{i}You tease the receptionist's nipples with the tip of your cock. The massage elicits a small gasp from her and she pushes her breasts together in order for you to push your dick between them."
+    "{i}Vous taquinez les mamelons de la réceptionniste avec le bout de votre bite. Le massage provoque un petit souffle chez elle et elle rapproche ses seins pour que vous puissiez enfoncer votre bite entre eux."
+# game/day14.rpy:1171
+translate french day14_discreet_session_59ba8699:
+
+    # "{i}Adriana starts moving up and down with your cock between her breasts. The touch of her soft flesh and the lewd smile on her face as she stares at you makes you even more aroused."
+    "{i}Adriana commence à bouger de haut en bas avec votre bite entre ses seins. Le contact de sa chair douce et le sourire lubrique sur son visage alors qu'elle vous regarde fixement vous excitent encore plus."
+# game/day14.rpy:1173
+translate french day14_discreet_session_908f034e:
+
+    # "{i}You force the receptionist to the ground and thrust your dick between her breasts, fucking them while she's squeezing them tight."
+    "{i}Vous forcez la réceptionniste à se mettre à terre et vous enfoncez votre bite entre ses seins en les baisant pendant qu'elle les serre."
+# game/day14.rpy:1174
+translate french day14_discreet_session_dab678a3:
+
+    # m "He's giving your tits a good fuck. How does that feel?"
+    m "Il te baise les seins Comment tu te sens ?"
+
+# game/day14.rpy:1175
+translate french day14_discreet_session_1b2a2c62_1:
+
+    # ad "He's so big, mistress."
+    ad "Il est si grand, maîtresse."
+    
+# game/day14.rpy:1176
+translate french day14_discreet_session_fda9f7d4:
+
+    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
+    "{i}Chaque fois que votre bite atteint son visage, Adriana en lèche le bout avec sa langue. Elle exerce également une pression plus forte en serrant ses seins l'un contre l'autre, ce qui vous fait frôler le bord du gouffre."
+# game/day14.rpy:1182
+translate french day14_discreet_session_95a81a0e:
+
+    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
+    "{i}Avec un rugissement, tu pousses ta bite pour la dernière fois entre ses seins et tu vises son visage. Adriana ouvre docilement sa bouche pour recevoir ta semence."
+# game/day14.rpy:1183
+translate french day14_discreet_session_e8c2e24b:
+
+    # m "Finished already. Your tits must be magical, Adriana..."
+    m "Déjà fini Tes seins doivent être magiques Adriana"
+
+# game/day14.rpy:1184
+translate french day14_discreet_session_bb4ec6df_2:
+
+    # m "You may cum on her."
+    m "Vous pouvez jouir sur elle"
+
+# game/day14.rpy:1188
+translate french day14_discreet_session_b6bb3d0d:
+
+    # "{i}You seem to have build up a large amount of cum, because you cover her face and hair with thick streaks, but also have enough to deposit in her mouth."
+    "{i}Vous semblez avoir accumulé une grande quantité de sperme parce que vous recouvrez son visage et ses cheveux d'épaisses traînées, mais il y en a aussi assez pour en déposer dans sa bouche."
+# game/day14.rpy:1190
+translate french day14_discreet_session_9f16b8bf:
+
+    # m "Swallow it all."
+    m "Avalez tout"
+
+# game/day14.rpy:1191
+translate french day14_discreet_session_6d0471c5:
+
+    # "{i}Adriana licks your dick clean of any traces of semen and scoops up the rest from her face and hair. Looking you directly in the eye, she swallows all of it with a naughty smile."
+    "{i}Adriana lèche ta bite pour la débarrasser de toute trace de sperme et ramasse le reste sur son visage et ses cheveux. Elle te regarde droit dans les yeux et avale tout avec un sourire coquin."
+# game/day14.rpy:1192
+translate french day14_discreet_session_750da6a3:
+
+    # m "Thus endeth the lesson."
+    m "Ainsi se termine la leçon"
+
+# game/day14.rpy:1211
+translate french day14_b_fondle_32cbc436:
+
+    # "{i}Your hands push the t-shirt even further up to reveal your sister's breasts. Her nipples are rock hard."
+    "{i}Vos mains poussent le t-shirt encore plus haut pour révéler les seins de votre sœur Ses mamelons sont très durs"
+
+# game/day14.rpy:1213
+translate french day14_b_fondle_4a0fb993:
+
+    # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
+    "{i}Vos mains poussent le t-shirt encore plus haut pour révéler les seins de [b_name] Ses mamelons sont durs comme la pierre"
+
+# game/day14.rpy:1215
+translate french day14_b_fondle_42c4c73b:
+
+    # b "[p_name]... no... it isn't..."
+    b "[p_name] non ce n'est pas le cas"
+
+# game/day14.rpy:1216
+translate french day14_b_fondle_ed02e162:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Dieu les sentiments que tu suscites en moi [b_name]"
+
+# game/day14.rpy:1217
+translate french day14_b_fondle_3cd42054:
+
+    # p "Your skin is so soft."
+    p "Ta peau est si douce"
+
+# game/day14.rpy:1218
+translate french day14_b_fondle_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day14.rpy:1221
+translate french day14_b_fondle_98879cef:
+
+    # p "Are you wet already?"
+    p "Es-tu déjà mouillé ?"
+
+# game/day14.rpy:1222
+translate french day14_b_fondle_45d024d8:
+
+    # b "No, not there!"
+    b "Non pas là !"
+
+# game/day14.rpy:1223
+translate french day14_b_fondle_6449f334:
+
+    # p "You are. Do you like the movie so much? Or is it my touch?"
+    p "Vous êtes Vous aimez tant le film ? Ou est-ce mon toucher ?"
+
+# game/day14.rpy:1225
+translate french day14_b_fondle_1e36103c:
+
+    # "{i}You push your fingers against her panties and feel your sister's moist labia through the fabric."
+    "{i}Tu pousses tes doigts contre sa culotte et tu sens les lèvres humides de ta sœur à travers le tissu."
+# game/day14.rpy:1227
+translate french day14_b_fondle_b5fefac5:
+
+    # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
+    "{i}Vous poussez vos doigts contre sa culotte et sentez ses lèvres humides à travers le tissu."
+# game/day14.rpy:1228
+translate french day14_b_fondle_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah !"
+
+# game/day14.rpy:1229
+translate french day14_b_fondle_be44dc55:
+
+    # p "Your panties are in the way, don't you think?"
+    p "Ta culotte te gêne, tu ne trouves pas ?"
+
+# game/day14.rpy:1233
+translate french day14_b_fondle_f1b6ca42:
+
+    # b "Y-yes... No!"
+    b "Y-yes No !"
+
+# game/day14.rpy:1234
+translate french day14_b_fondle_efa09b9c:
+
+    # "{i}With one hand you remove her underwear. [b_name] tries to remove your hand, but her protests lack any conviction."
+    "{i}D'une main, vous lui enlevez ses sous-vêtements [b_name] tente de retirer votre main mais ses protestations manquent de conviction"
+
+# game/day14.rpy:1240
+translate french day14_b_fondle_04b53f47:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Vous glissez un doigt à l'intérieur d'elle et stimulez son clitoris [b_name] tire d'abord sur votre main, mais lorsque vous établissez un rythme régulier, votre sœur pousse votre main contre son sexe, comme pour vous encourager à aller plus loin."
+# game/day14.rpy:1242
+translate french day14_b_fondle_cec13b39:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Vous glissez un doigt à l'intérieur d'elle et stimulez son clitoris [b_name] tire d'abord sur votre main, mais lorsque vous établissez un rythme régulier, elle pousse votre main contre son sexe comme pour vous encourager à aller plus loin."
+# game/day14.rpy:1243
+translate french day14_b_fondle_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah !"
+
+# game/day14.rpy:1244
+translate french day14_b_fondle_2d4211e5:
+
+    # p "Sssssh, you'll wake everybody up."
+    p "Sssssh tu vas réveiller tout le monde"
+
+# game/day14.rpy:1245
+translate french day14_b_fondle_90901d27:
+
+    # b "Hnnnghhhh!"
+    b "Hnnnghhhhh !"
+
+# game/day14.rpy:1247
+translate french day14_b_fondle_e2a1d183:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
+    "{i}Le risque de vous faire prendre en réveillant votre mère ou votre sœur vous excite manifestement tous les deux."
+
+# game/day14.rpy:1249
+translate french day14_b_fondle_29eded4e:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
+    "{i}Le risque de se faire surprendre en réveillant [l_name] ou [m_name] vous excite manifestement tous les deux."
+
+# game/day14.rpy:1250
+translate french day14_b_fondle_e727e64f:
+
+    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
+    "{i}A en juger par ses respirations rapides et la pression que sa main exerce sur la vôtre, [b_name] est proche de l'orgasme"
+
+# game/day14.rpy:1255
+translate french day14_b_fondle_7f7e79ac:
+
+    # b "F-ffff-uuuuck!"
+    b "F-ffff-uuuuck !"
+
+# game/day14.rpy:1259
+translate french day14_b_fondle_64651b3a:
+
+    # "{i}With your finger still inside her pussy, your sister experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Alors que votre doigt est toujours dans sa chatte, votre sœur éprouve un orgasme puissant qui fait presque trembler tout le canapé. En tremblant, elle se cramponne à votre main et continue à la frotter contre son clitoris."
+# game/day14.rpy:1261
+translate french day14_b_fondle_966c2da6:
+
+    # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Alors que votre doigt est toujours dans sa chatte, [b_name] éprouve un orgasme puissant qui fait presque trembler tout le canapé. Tremblante, elle se cramponne à votre main et continue à la frotter contre son clitoris."
+# game/day14.rpy:1262
+translate french day14_b_fondle_7095ffd6:
+
+    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
+    "{i}Au bout d'un moment, ses gémissements et soupirs étouffés se dissipent. Elle remonte tranquillement sa culotte et couvre ses seins, mais ne tente pas de s'éloigner de vous."
+# game/day14.rpy:1266
+translate french day14_b_fondle_55305076:
+
+    # p "I love it when you cum for me."
+    p "J'aime quand tu jouis pour moi"
+
+# game/day14.rpy:1267
+translate french day14_b_fondle_52dcef3c_1:
+
+    # b "I..."
+    b "I"
+
+# game/day14.rpy:1269
+translate french day14_b_fondle_181d589c:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "Qu'est-ce que c'est ? Où ? Oh ! Ah je crois que je me suis endormi"
+
+# game/day14.rpy:1270
+translate french day14_b_fondle_a6a6d4f3:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly disentangles herself from you. Her face looks flushed and her expression enigmatic. It looks almost like a mixture of ribald pleasure, shame and the remnants of rapturous lust to you."
+    "{i}Vous êtes tous deux surpris par l'emportement de [m_name] et [b_name] se sépare précipitamment de vous Son visage est rougi et son expression énigmatique On dirait presque un mélange de plaisir ribaud, de honte et des restes d'une luxure extasiée."
+
+# game/day14.rpy:1272
+translate french day14_b_fondle_a5039c88:
+
+    # b "That's enough. Stop it."
+    b "Ça suffit Arrêtez ça"
+
+# game/day14.rpy:1273
+translate french day14_b_fondle_565313e7:
+
+    # b "Uncle!"
+    b "Oncle !"
+
+# game/day14.rpy:1274
+translate french day14_b_fondle_ed02e162_1:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Dieu les sentiments que tu suscites en moi [b_name]"
+
+# game/day14.rpy:1275
+translate french day14_b_fondle_52dcef3c_2:
+
+    # b "I..."
+    b "I"
+
+# game/day14.rpy:1277
+translate french day14_b_fondle_181d589c_1:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "Qu'est-ce que c'est ? Où ? Oh ! Ah je crois que je me suis endormi"
+
+# game/day14.rpy:1278
+translate french day14_b_fondle_1ed4a414:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly untangles herself from you. Her face looks flushed and her expression enigmatic."
+    "{i}Vous êtes tous deux surpris par l'emportement de [m_name] et [b_name] se détache précipitamment de vous. Son visage est rougi et son expression énigmatique."
+# game/day14.rpy:1295
+translate french day14_r_fingering_49278f8a:
+
+    # r "{i}(The thought of his touch on my skin makes me feel so giddy inside.)"
+    r "{i}(La pensée de son contact sur ma peau me donne des vertiges à l'intérieur)"
+
+# game/day14.rpy:1298
+translate french day14_r_fingering_3fe74477:
+
+    # r "{i}(How softly he caressed my pussy... He was so tender with me.)"
+    r "{i}(Comme il caressait doucement ma chatte Il était si tendre avec moi)"
+
+# game/day14.rpy:1299
+translate french day14_r_fingering_9ba86f30:
+
+    # r "{i}(I guess he liked being in control after I made him cum the night before.)"
+    r "{i}(Je suppose qu'il aimait avoir le contrôle après que je l'ai fait jouir la nuit précédente)"
+
+# game/day14.rpy:1300
+translate french day14_r_fingering_a26c1823:
+
+    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
+    r "{i}(Il y en avait tellement et le goût n'était pas du tout dégoûtant comme on le dit dans tous les magazines Un peu bizarre peut-être)"
+
+# game/day14.rpy:1301
+translate french day14_r_fingering_b4097cf5:
+
+    # r "{i}(Urgh, I hate feeling like this. All that tension...)"
+    r "{i}(Urgh Je déteste me sentir comme ça Toute cette tension)"
+
+# game/day14.rpy:1302
+translate french day14_r_fingering_3949ce7c:
+
+    # r "{i}(Fuck it. I'm going to masturbate. I guess Mrs. Steel would think it isn't 'ladylike behavior', but this is where I draw the line!)"
+    r "{i}(Putain, je vais me masturber, je suppose que Mme Steel penserait que ce n'est pas un 'comportement digne d'une dame', mais c'est là que je trace la ligne !)"
+
+# game/day14.rpy:1308
+translate french day14_r_fingering_a18ab1a7:
+
+    # r "{i}(Hmmm. Thinking about the naughty things [p_name] and I did has made me so wet.)"
+    r "{i}(Hmmm Penser aux vilaines choses que [p_name] et moi avons faites m'a fait mouiller)"
+
+# game/day14.rpy:1309
+translate french day14_r_fingering_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah !"
+
+# game/day14.rpy:1312
+translate french day14_r_fingering_94b75813:
+
+    # r "{i}(Yes! Aaah! [p_name] was so forceful... His finger inside of me... His big cock... So warm... So strong...)"
+    r "{i}(Oui ! Aaah ! [p_name] était si fort Son doigt en moi Sa grosse bite Si chaude Si forte)"
+
+# game/day14.rpy:1313
+translate french day14_r_fingering_0e44b109:
+
+    # r "{i}(Mmmmm... I wonder w-what he would feel like i-inside of me.)"
+    r "{i}(Mmmmm Je me demande ce qu'il ressentirait à l'intérieur de moi)"
+
+# game/day14.rpy:1315
+translate french day14_r_fingering_553cd0ba:
+
+    # r "{i}(Yes! Aaah! I want [p_name]! I want to feel him i-inside of me!)"
+    r "{i}(Oui ! Aaah ! Je veux [p_name] ! Je veux le sentir à l'intérieur de moi !)"
+
+# game/day14.rpy:1320
+translate french day14_r_fingering_0f019af7:
+
+    # r "{i}(He'll be gentle with me... Kiss me all over... M-m-make me feel good. Oooh! I'm so close!)"
+    r "{i}(Il sera doux avec moi Embrassez-moi partout M-m-mettez-moi en confiance Oooh ! Je suis si proche !)"
+
+# game/day14.rpy:1323
+translate french day14_r_fingering_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    "Aaaah ! Oui !"
+# game/day14.rpy:1324
+translate french day14_r_fingering_0e004e54:
+
+    # r "Mmmmmmm. Now I can sleep."
+    r "Mmmmmmm Maintenant je peux dormir"
+

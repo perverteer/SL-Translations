@@ -5504,3 +5504,41 @@ translate french day141_l_pool_5df15299:
 
     # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
     "{i}Vous massez les jambes de [l_name] avec de la crème solaire et vous lui frottez aussi le ventre."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day141.rpy:1185
+translate french day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Est-ce que [l_name] est enceinte dans cette scène ?"
+
+# game/day141.rpy:1189
+translate french day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] enceinte"
+
+# game/day141.rpy:1192
+translate french day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] n'est pas enceinte"
+
+# game/day141.rpy:1442
+translate french day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Est-ce que [m_name] est enceinte dans cette scène ?"
+
+# game/day141.rpy:1446
+translate french day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] enceinte"
+
+# game/day141.rpy:1449
+translate french day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] n'est pas enceinte"
+

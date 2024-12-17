@@ -3789,3 +3789,230 @@ translate french day10_discreet_session_198a85c2:
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
     woman "Pas de problème, monsieur. Nous détruirons ce document, ainsi que les résultats de vos tests, et au nom de l'entreprise, je vous souhaite une très agréable journée."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day10.rpy:337
+translate french day10_discreet_e184130a:
+
+    # "{i}You dress yourself while [m_name] leaves the room."
+    "{i}Vous vous habillez pendant que [m_name] quitte la pièce"
+
+# game/day10.rpy:341
+translate french day10_discreet_afb0d82f:
+
+    # p "{i}(That was some extremely weird shit...)"
+    p "{i}(C'était un truc extrêmement bizarre)"
+
+# game/day10.rpy:342
+translate french day10_discreet_61e3e5ba:
+
+    # woman "I trust you enjoyed your first session Mr. Holmes? Would you like to schedule another session?"
+    woman "J'espère que vous avez apprécié votre première séance, M. Holmes ? Souhaitez-vous programmer une autre séance ?"
+
+# game/day10.rpy:346
+translate french day10_discreet_fd1037f2:
+
+    # p "Yes, it was quite invigorating."
+    p "Oui, c'était assez revigorant."
+
+# game/day10.rpy:347
+translate french day10_discreet_6995dc48:
+
+    # woman "Good, I can fit you in in four days."
+    woman "Bien, je peux vous faire rentrer dans quatre jours."
+
+# game/day10.rpy:348
+translate french day10_discreet_480fea4d:
+
+    # p "Sounds good to me."
+    p "Ça me paraît bien"
+
+# game/day10.rpy:349
+translate french day10_discreet_7a1764cd:
+
+    # woman "All right then. We'll see you in four days. Have a nice day."
+    woman "Très bien, on se voit dans quatre jours Bonne journée"
+
+# game/day10.rpy:350
+translate french day10_discreet_b8e3e19c:
+
+    # p "Thank you!"
+    p "Merci !"
+
+# game/day10.rpy:353
+translate french day10_discreet_e4fb02e1:
+
+    # p "No, this is not for me."
+    p "Non, ce n'est pas pour moi"
+
+# game/day10.rpy:354
+translate french day10_discreet_61907235:
+
+    # woman "We're very sorry to hear that. Shall I permanently remove your name from our client list?"
+    woman "Nous sommes désolés d'apprendre cela. Dois-je supprimer définitivement votre nom de notre liste de clients ?"
+
+# game/day10.rpy:355
+translate french day10_discreet_0341c077:
+
+    # p "Yes please."
+    p "Oui, s'il vous plaît"
+
+# game/day10.rpy:356
+translate french day10_discreet_7939f2b4:
+
+    # woman "Done. Thank you for your support and have a nice day."
+    woman "Terminé Merci pour votre soutien et bonne journée"
+
+# game/day10.rpy:357
+translate french day10_discreet_43e8339b:
+
+    # p "Goodbye."
+    p "Au revoir"
+# game/day10.rpy:360
+translate french day10_discreet_2f277000:
+
+    # p "This is not for me. Sorry."
+    p "Ce n'est pas pour moi Désolé"
+
+# game/day10.rpy:361
+translate french day10_discreet_2a9378d6:
+
+    # m "That's not a problem, but I have to ask you to leave. My assistant will remove your name from the membership list after you leave our premises."
+    m "Ce n'est pas un problème, mais je dois vous demander de partir Mon assistante supprimera votre nom de la liste des membres après votre départ."
+
+# game/day10.rpy:362
+translate french day10_discreet_1cb6fa76:
+
+    # m "Goodbye."
+    m "Au revoir"
+# game/day10.rpy:363
+translate french day10_discreet_3d15a9f2:
+
+    # p "Bye."
+    p "Bye"
+
+# game/day10.rpy:364
+translate french day10_discreet_c9cf8db1:
+
+    # p "{i}(Let's leave before this turns into some freak show!)"
+    p "{i}(Partons avant que cela ne devienne un spectacle de monstres !)"
+
+# game/day10.rpy:368
+translate french day10_discreet_bbc0cc3a:
+
+    # p "This is all a mistake. [m_name], it's me!"
+    p "C'est une erreur [m_name], c'est moi !"
+
+# game/day10.rpy:370
+translate french day10_discreet_c8749287:
+
+    # p "I wanted to know where you worked. I'm so sorry!"
+    p "Je voulais savoir où vous travailliez, je suis vraiment désolée !"
+
+# game/day10.rpy:371
+translate french day10_discreet_78b7c6c3:
+
+    # m "WHAT THE FUCK DO YOU THINK YOU'RE DOING HERE?!"
+    m "QU'EST-CE QUE VOUS PENSEZ FAIRE ICI ?!"
+
+# game/day10.rpy:372
+translate french day10_discreet_7fb98cef:
+
+    # m "You will leave this building right away or I will have you forcibly removed."
+    m "Vous allez quitter ce bâtiment immédiatement ou je vous ferai expulser de force"
+
+# game/day10.rpy:373
+translate french day10_discreet_c18f3955:
+
+    # p "But..."
+    p "Mais"
+
+# game/day10.rpy:374
+translate french day10_discreet_dc553b0a:
+
+    # m "NO BUTS, BE GONE!"
+    m "NO BUTS BE GONE !"
+
+# game/day10.rpy:379
+translate french day10_discreet_797f4151:
+
+    # p "I'm sorry, I cannot sign this contract."
+    p "Je suis désolé, je ne peux pas signer ce contrat."
+
+# game/day10.rpy:380
+translate french day10_discreet_198a85c2:
+
+    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
+    woman "Pas de problème monsieur Nous détruirons ce document ainsi que les résultats de vos tests Au nom de la société, je vous souhaite une très bonne journée."
+
+# game/day10.rpy:381
+translate french day10_discreet_43e8339b_1:
+
+    # p "Goodbye."
+    p "Au revoir"
+# game/day10.rpy:382
+translate french day10_discreet_6551e53d:
+
+    # p "{i}(This is for the best. I'm not going to sign away my rights.)"
+    p "{i}(C'est mieux ainsi, je ne vais pas renoncer à mes droits)"
+
+# game/day10.rpy:387
+translate french day10_discreet_bc6d5a03:
+
+    # p "{i}(This is going to be intense. I'm pretty sure of it.)"
+    p "{i}(Cela va être intense, j'en suis presque sûr)"
+
+# game/day10.rpy:388
+translate french day10_discreet_a30ead20:
+
+    # p "{i}(She didn't even seem to recognize me. Wonder how long that will last...)"
+    p "{i}(Elle n'a même pas semblé me reconnaître Merveilleux combien de temps cela va durer)"
+
+# game/day10.rpy:390
+translate french day10_discreet_2c6e7ed4:
+
+    # p "{i}(Sure glad that's over.)"
+    p "{i}(Bien sûr, je suis content que ce soit fini)"
+
+# game/day10.rpy:392
+translate french day10_discreet_278d3816:
+
+    # p "{i}(In retrospect, I'm not sure if I wanted to know all this about [m_name]...)"
+    p "{i}(Rétrospectivement, je ne suis pas sûr d'avoir voulu savoir tout cela à propos de [m_name])"
+
+# game/day10.rpy:394
+translate french day10_discreet_9c6d08e3:
+
+    # p "{i}(I guess those family dinners aren't going to be the same from now on.)"
+    p "{i}(Je suppose que les dîners de famille ne seront plus les mêmes à partir de maintenant)"
+
+# game/day10.rpy:396
+translate french day10_discreet_77316bb0:
+
+    # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
+    p "{i}(Je suppose que ces dîners ensemble ne seront plus les mêmes à partir de maintenant)"
+
+# game/day10.rpy:832
+translate french day10_p_room_evening_choices_0c4f3e87:
+
+    # al "Did you enjoy my pussy?"
+    al "Tu as aimé ma chatte ?"
+
+# game/day10.rpy:833
+translate french day10_p_room_evening_choices_5071a473:
+
+    # p "You have pleased me. But make no mistake, you're still a bad little cum slut and I will discipline you further."
+    p "Tu m'as fait plaisir Mais ne te méprends pas, tu es toujours une mauvaise petite salope de sperme et je vais te discipliner davantage."
+
+# game/day10.rpy:834
+translate french day10_p_room_evening_choices_cb5f62b1:
+
+    # al "Yes master. Looking forward to it."
+    al "Oui, le maître attend avec impatience."
+
+# game/day10.rpy:835
+translate french day10_p_room_evening_choices_9bf8a862:
+
+    # "{i}With those words, Alina silently leaves your room."
+    "{i}Sur ces mots, Alina quitte silencieusement votre chambre"
+

@@ -554,3 +554,95 @@ translate french strings:
     old "Portuguese"
     new "Portugais"
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+translate french strings:
+
+    # game/screens.rpy:540
+    old "Achievements"
+    new "Réalisations"
+
+    # game/screens.rpy:842
+    old "Achievements Unlocked: %d / %d"
+    new "Réalisations débloquées : %d / %d"
+
+    # game/screens.rpy:874
+    old "Version "
+    new "Version "
+
+    # game/screens.rpy:874
+    old "[config.version!t]\n"
+    new "[config.version!t]\n]"
+
+    # game/screens.rpy:880
+    old "Translations"
+    new "Traductions"
+
+    # game/screens.rpy:883
+    old "Voice Acting"
+    new "Interprétation vocale"
+
+    # game/screens.rpy:886
+    old "Music"
+    new "Musique"
+
+    # game/screens.rpy:908
+    old "{a=[track[website]]}[track[website]]{/a}"
+    new "{a=[track[website]]}[track[website]]{/a}"
+
+    # game/screens.rpy:909
+    old "License: "
+    new "Licence: "
+
+    # game/screens.rpy:909
+    old "{a=[track[license_url]]}[track[license]]{/a}"
+    new "{a=[track[license_url]]}[track[license]]{/a}"
+
+    # game/screens.rpy:911
+    old "Website: "
+    new "Site web: "
+
+    # game/screens.rpy:911
+    old "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+    new "{a=[track[composer_website]]}[track[composer_website]]{/a}"
+
+    # game/screens.rpy:915
+    old "Sound Effects"
+    new "Effets sonores"
+
+    # game/screens.rpy:1198
+    old "Turkish"
+    new "Turc"
+
+    # game/screens.rpy:1618
+    old "View by: "
+    new "Vue par: "
+
+    # game/screens.rpy:1620
+    old "Days"
+    new "Jours"
+
+    # game/screens.rpy:1622
+    old "Character"
+    new "Personnage"
+
+# TODO: Translation updated at 2024-11-29 09:50
+
+translate french strings:
+
+    # game/screens.rpy:1189
+    old "Lovense"
+    new "Lovense"
+
+    # game/screens.rpy:1190
+    old "Connect your toy"
+    new "Connectez votre jouet"
+
+# TODO: Translation updated at 2024-12-11 17:19
+
+translate french strings:
+
+    # game/screens.rpy:1210
+    old "Chinese (Simplified)"
+    new "Chinois (simplifié)"
+

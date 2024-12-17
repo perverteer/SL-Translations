@@ -1615,3 +1615,17 @@ translate french day01_r_talk_7a48df1e:
 
     # r "Ana is the coolest! She's dated all the hot guys at college and she knows so much about stuff, you know."
     r "Ana est plus cool ! Elle est sortie avec tous les beaux mecs de l'université et elle en sait tellement sur les trucs, tu sais..."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day01.rpy:267
+translate french day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "Wuh quoi ?"
+
+# game/day01.rpy:269
+translate french day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "LEAVE ME THE FUCK ALONE [p_name] !!! Tu es fou ? !"
+

@@ -6589,3 +6589,27 @@ translate french day143_flashback_69f7f051:
 
     # "{i}When you fall asleep, the dream returns, but your mind seems to have skipped all the sexy bits."
     "{i}Quand vous vous endormez, le rêve revient mais votre esprit semble avoir sauté tous les passages sexy."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day143.rpy:1832
+translate french day143_rb_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Voulez-vous activer les sports nautiques pour cette scène ?"
+
+# game/day143.rpy:1836
+translate french day143_rb_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Sports nautiques"
+
+# game/day143.rpy:1839
+translate french day143_rb_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sports nautiques désactivés"
+translate french strings:
+
+    # game/day143.rpy:1997
+    old "Nia"
+    new "Nia"

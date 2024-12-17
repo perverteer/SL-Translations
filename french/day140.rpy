@@ -8058,3 +8058,40 @@ translate french day140_r_b_fuck_241c029b:
 
     # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
     "{i}Vous tapez légèrement la chatte de votre amie et faites un signe de tête à [r_name] pour qu'il continue les chatouilles."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day140.rpy:1902
+translate french day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Est-ce que [r_name] est enceinte dans cette scène ?"
+
+# game/day140.rpy:1906
+translate french day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] enceinte"
+
+# game/day140.rpy:1909
+translate french day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] n'est pas enceinte"
+
+# game/day140.rpy:1911
+translate french day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Voulez-vous activer les sports nautiques pour cette scène ?"
+
+# game/day140.rpy:1915
+translate french day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Sports nautiques"
+
+# game/day140.rpy:1918
+translate french day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Sports nautiques désactivés"

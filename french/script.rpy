@@ -318,3 +318,35 @@ translate french strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Appuyez sur {i}\"Enter\"{/i} sur le clavier virtuel pour confirmer."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+translate french strings:
+
+    # game/script.rpy:58
+    old "Max"
+    new "Max"
+
+    # game/script.rpy:62
+    old "Bella"
+    new "Bella"
+
+    # game/script.rpy:66
+    old "Liza"
+    new "Liza"
+
+    # game/script.rpy:70
+    old "Rachel"
+    new "Rachel"
+
+    # game/script.rpy:74
+    old "Susan"
+    new "Susan"
+
+    # game/script.rpy:630
+    old "Pregnancies"
+    new "Grossesses"
+
+    # game/script.rpy:637
+    old "Who's pregnant in this scene?"
+    new "Qui est enceinte dans cette scène ?"
+

@@ -5842,3 +5842,58 @@ translate french day144_b_night_sex_61503c26:
     # "{i}Warm cum flows inside her and as you pull out, it starts to ooze out of her slit."
     "{i}Le sperme chaud coule en elle et quand vous vous retirez, il commence à suinter de sa fente."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day144.rpy:884
+translate french day144_m_ir_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Est-ce que [m_name] est enceinte dans cette scène ?"
+
+# game/day144.rpy:888
+translate french day144_m_ir_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] enceinte"
+
+# game/day144.rpy:891
+translate french day144_m_ir_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] n'est pas enceinte"
+
+# game/day144.rpy:1100
+translate french day144_b_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Voulez-vous activer les sports nautiques pour cette scène ?"
+
+# game/day144.rpy:1104
+translate french day144_b_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Sports nautiques"
+
+# game/day144.rpy:1107
+translate french day144_b_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Sports nautiques désactivés"
+# game/day144.rpy:2163
+translate french day144_b_night_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Est-ce que [b_name] est enceinte dans cette scène ?"
+
+# game/day144.rpy:2167
+translate french day144_b_night_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] enceinte"
+
+# game/day144.rpy:2170
+translate french day144_b_night_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] pas enceinte"
+

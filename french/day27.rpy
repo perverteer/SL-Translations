@@ -4998,3 +4998,1301 @@ translate french day27_flashback_2f5381cb:
 
     # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
     "{i}Du sperme a coulé de sa chatte sur ma bite et sur le lit de mon père. Je l'ai serrée contre moi, serrant son corps désespérément dans mes bras, ma bite spasmant encore en elle. Je n'étais plus vierge."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day27.rpy:900
+translate french day27_b_hotel_sex_196229c9:
+
+    # "{i}You provide them with your room number and slip out of bed to join [b_name] in the shower."
+    "{i}Vous leur donnez votre numéro de chambre et vous vous glissez hors du lit pour rejoindre [b_name] dans la douche"
+
+# game/day27.rpy:905
+translate french day27_b_hotel_sex_8c4a2c58:
+
+    # "{i}Without saying anything, you kiss, your hands trailing the curves of her wet body. Teasingly you grab hold of the sponge she was using."
+    "{i}Sans rien dire, vous embrassez vos mains qui suivent les courbes de son corps mouillé. Vous saisissez avec taquinerie l'éponge qu'elle utilisait."
+# game/day27.rpy:906
+translate french day27_b_hotel_sex_3a25df90:
+
+    # b "Hey!"
+    b "Hey !"
+
+# game/day27.rpy:908
+translate french day27_b_hotel_sex_cec0e92e:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, your sister lets out a contented sigh and leans back."
+    "{i}En tenant l'éponge, vous continuez à frotter doucement son corps. Lorsque vous tracez la belle forme de ses seins, votre sœur laisse échapper un soupir de satisfaction et se penche en arrière."
+# game/day27.rpy:910
+translate french day27_b_hotel_sex_91bd6d71:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
+    "{i}En tenant l'éponge, vous continuez à frotter doucement son corps Lorsque vous tracez la belle forme de ses seins, [b_name] laisse échapper un soupir de satisfaction et se penche en arrière."
+# game/day27.rpy:911
+translate french day27_b_hotel_sex_cbc1201f:
+
+    # b "Hmmmm. Keep doing that."
+    b "Hmmmm Continuez à faire ça"
+
+# game/day27.rpy:912
+translate french day27_b_hotel_sex_1f668261:
+
+    # b "You do know that after this, I'll call you every time I take a shower now, don't you?"
+    b "Tu sais qu'après ça, je t'appellerai chaque fois que je prendrai une douche, n'est-ce pas ?"
+
+# game/day27.rpy:913
+translate french day27_b_hotel_sex_8c0a3e96:
+
+    # p "You say that like it's a bad thing."
+    p "Vous dites cela comme si c'était une mauvaise chose"
+
+# game/day27.rpy:915
+translate french day27_b_hotel_sex_a6628d41:
+
+    # "{i}You turn your attention to her lower body, her toned thighs, the soft rise of her pussy."
+    "{i}Vous portez votre attention sur le bas de son corps, ses cuisses toniques et la douce montée de sa chatte."
+# game/day27.rpy:916
+translate french day27_b_hotel_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day27.rpy:917
+translate french day27_b_hotel_sex_300701d2:
+
+    # p "I..."
+    p "I"
+
+# game/day27.rpy:919
+translate french day27_b_hotel_sex_2f041b28:
+
+    # "{i}Desire overcomes you both and you touch her, hungry for her soft skin."
+    "{i}Le désir vous envahit tous les deux et vous la touchez, avide de sa peau douce."
+# game/day27.rpy:925
+translate french day27_b_hotel_sex_2b4aea2b:
+
+    # "{i}Suddenly you're startled by the doorbell ringing."
+    "{i}Soudain, vous êtes surpris par la sonnerie de la porte"
+
+# game/day27.rpy:926
+translate french day27_b_hotel_sex_7ed3e395:
+
+    # p "Fuck. I ordered room service..."
+    p "Putain j'ai commandé le room service"
+
+# game/day27.rpy:927
+translate french day27_b_hotel_sex_e838c68b:
+
+    # b "How sweet!"
+    b "Comme c'est gentil !"
+
+# game/day27.rpy:928
+translate french day27_b_hotel_sex_1dd7540e:
+
+    # p "Yeah well, if only the timing was a bit better..."
+    p "Ouais, si seulement le timing était un peu meilleur."
+
+# game/day27.rpy:931
+translate french day27_b_hotel_sex_cc75db61:
+
+    # "{i}You wrap a towel around your body and head to the door. A cart is pushed inside your room, and after tipping the server, you close the door again."
+    "{i}Vous enroulez une serviette autour de votre corps et vous vous dirigez vers la porte. Un chariot est poussé à l'intérieur de votre chambre et, après avoir donné un pourboire au serveur, vous refermez la porte."
+# game/day27.rpy:932
+translate french day27_b_hotel_sex_266a237d:
+
+    # p "So... I guess we should have some breakfast?"
+    p "Alors je suppose que nous devrions prendre un petit déjeuner ?"
+
+# game/day27.rpy:934
+translate french day27_b_hotel_sex_ec9e26e4:
+
+    # b "Nope, I want something entirely different first."
+    b "Nope I want something entirely different first"
+
+# game/day27.rpy:935
+translate french day27_b_hotel_sex_078c5a26:
+
+    # p "Oh..."
+    p "Oh"
+
+# game/day27.rpy:937
+translate french day27_b_hotel_sex_6941d4e7:
+
+    # "{i}You jump on the bed, next to a giggling [b_name] and shower her body with kisses. [b_name] makes it clear she isn't interested in foreplay this time and turns her attention to your cock."
+    "{i}Vous sautez sur le lit à côté d'une [b_name] rieuse et l'arrosez de baisers [b_name] fait comprendre qu'elle n'est pas intéressée par les préliminaires cette fois-ci et tourne son attention vers votre bite."
+
+# game/day27.rpy:942
+translate french day27_b_hotel_sex_cfbca683:
+
+    # "{i}She guides you inside her, a warm feeling engulfing your cock. The hungry look in her eyes matching her wetness down below."
+    "{i}Elle vous guide à l'intérieur d'elle, une sensation de chaleur engloutissant votre bite Le regard affamé dans ses yeux correspond à la mouille qu'elle a en bas."
+
+# game/day27.rpy:947
+translate french day27_b_hotel_sex_d7fa3cac:
+
+    # "{i}Without a word, you both surrender to your love making. Small thrusts ensure that your warm bodies are in contact most of the time. You bury your head in the perfume of her still-wet hair."
+    "{i}Sans un mot, vous vous abandonnez tous les deux à votre amour De petites poussées font que vos corps chauds sont en contact la plupart du temps Vous enfouissez votre tête dans le parfum de ses cheveux encore humides."
+
+# game/day27.rpy:948
+translate french day27_b_hotel_sex_5fc60217:
+
+    # b "Oh, [p_name]!"
+    b "Oh [p_name] !"
+
+# game/day27.rpy:952
+translate french day27_b_hotel_sex_07a91112:
+
+    # "{i}When your dick slips out of her pussy, [b_name] squirms from your grasp, pressing a finger against your lips as you begin to protest."
+    "{i}Lorsque votre bite glisse hors de sa chatte, [b_name] se tortille pour échapper à votre emprise, pressant un doigt contre vos lèvres alors que vous commencez à protester."
+# game/day27.rpy:953
+translate french day27_b_hotel_sex_203a0f34:
+
+    # b "Ssssh, just lie down."
+    b "Ssssh, allonge-toi"
+
+# game/day27.rpy:959
+translate french day27_b_hotel_sex_052ebcda:
+
+    # "{i}Your sister squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Votre sœur s'accroupit sur vous et pousse lentement votre érection dans sa fente en se mordant la lèvre."
+# game/day27.rpy:961
+translate french day27_b_hotel_sex_66615e02:
+
+    # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Elle s'accroupit sur vous et pousse lentement votre érection dans sa fente en se mordant la lèvre."
+# game/day27.rpy:962
+translate french day27_b_hotel_sex_c43c4bff:
+
+    # "{i}Her pussy lips fold around your shaft. With closed eyes, [b_name] moans as the entirety of your shaft slides inside her."
+    "{i}Les yeux fermés, [b_name] gémit tandis que la totalité de votre tige s'enfonce en elle."
+# game/day27.rpy:964
+translate french day27_b_hotel_sex_d24d13ee:
+
+    # "{i}When she starts to move, you nearly climax. Instead you focus your attention on her beautiful breasts, that bounce with the rhythm of your fucking."
+    "{i}Quand elle commence à bouger, vous frôlez l'orgasme. Au lieu de cela, vous concentrez votre attention sur ses magnifiques seins qui rebondissent au rythme de votre baiser."
+# game/day27.rpy:965
+translate french day27_b_hotel_sex_0f2d2c99:
+
+    # "{i}The position obviously gives [b_name] heightened pleasure as she moves up and down your cock ever faster, her butt slapping onto your skin."
+    "{i}La position donne manifestement à [b_name] un plaisir accru car elle monte et descend votre bite de plus en plus vite, ses fesses claquant sur votre peau."
+# game/day27.rpy:972
+translate french day27_b_hotel_sex_5e8446ed:
+
+    # b "G-g-g-god! Y-yes!"
+    b "G-g-g-god ! O-oui !"
+
+# game/day27.rpy:974
+translate french day27_b_hotel_sex_c474c697:
+
+    # "{i}Delirious, your sister orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}En raison de ses convulsions de plaisir, tu dois prendre les devants."
+
+# game/day27.rpy:976
+translate french day27_b_hotel_sex_814837df:
+
+    # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}La [b_name] délirante a des orgasmes sur vous A cause de ses convulsions de plaisir, vous devez prendre les devants"
+
+# game/day27.rpy:978
+translate french day27_b_hotel_sex_d6e04d49:
+
+    # "{i}With her straddling your body, you move your hips quickly, penetrating her like rapid-fire."
+    "{i}Avec elle à califourchon sur votre corps, vous bougez vos hanches rapidement en la pénétrant comme un feu rapide."
+# game/day27.rpy:988
+translate french day27_b_hotel_sex_608db639:
+
+    # "{i}Her constricting vagina proves too much for your cock, and your semen mixes with her juices inside her wet slit."
+    "{i}Son vagin est trop étroit pour ta bite et ton sperme se mélange à son jus dans sa fente humide."
+# game/day27.rpy:1001
+translate french day27_b_hotel_sex_70f58587:
+
+    # "{i}Her constricting vagina proves too much for your cock, and after pulling out of her wet slit, you cover her lower body with thick streams of semen."
+    "{i}Son vagin se révèle trop étroit pour votre bite et, après vous être retiré de sa fente humide, vous recouvrez le bas de son corps d'épaisses coulées de sperme."
+# game/day27.rpy:1009
+translate french day27_b_hotel_sex_da652819:
+
+    # "{i}Exhausted you lie in each others arms, your fingertips stroking her soft skin."
+    "{i}Épuisés, vous vous allongez dans les bras l'un de l'autre, le bout de vos doigts caressant sa peau douce."
+# game/day27.rpy:1010
+translate french day27_b_hotel_sex_fa3f408e:
+
+    # b "Mmmmm. I don't know if I want to go home."
+    b "Mmmmm Je ne sais pas si je veux rentrer chez moi"
+
+# game/day27.rpy:1011
+translate french day27_b_hotel_sex_1249acbe:
+
+    # p "Me neither."
+    p "Moi non plus"
+
+# game/day27.rpy:1012
+translate french day27_b_hotel_sex_995bd1f9:
+
+    # b "The cleaning staff will be here soon."
+    b "Le personnel de nettoyage sera bientôt là"
+
+# game/day27.rpy:1013
+translate french day27_b_hotel_sex_167f6a45:
+
+    # p "We could just lock the door and hide in the bathroom."
+    p "Nous pourrions fermer la porte à clé et nous cacher dans la salle de bain"
+
+# game/day27.rpy:1014
+translate french day27_b_hotel_sex_4bfd9a22:
+
+    # b "I'm pretty sure it doesn't work like that."
+    b "Je suis presque sûr que ça ne marche pas comme ça."
+    
+# game/day27.rpy:1016
+translate french day27_b_hotel_sex_edd34605:
+
+    # "{i}At the same time, you both let out a contented sigh. Laughing, you kiss again and lie on the bed for a little longer, until you deem it time to leave the hotel and head home."
+    "{i}En même temps, vous laissez échapper un soupir de satisfaction. En riant, vous vous embrassez à nouveau et restez allongés sur le lit un peu plus longtemps jusqu'à ce que vous jugiez qu'il est temps de quitter l'hôtel et de rentrer à la maison."
+# game/day27.rpy:1032
+translate french day27_b_vibrator_e8e049ba:
+
+    # "{i}With a resigned sigh, [b_name] stands up and walks away. You notice she's holding the vibrator and has left the remote on the table."
+    "{i}Avec un soupir résigné, [b_name] se lève et s'éloigne Vous remarquez qu'elle tient le vibromasseur et qu'elle a laissé la télécommande sur la table."
+
+# game/day27.rpy:1033
+translate french day27_b_vibrator_8f7a7797:
+
+    # p "{i}(Is she going to...?)"
+    p "{i}(Va-t-elle le faire ?)"
+
+# game/day27.rpy:1035
+translate french day27_b_vibrator_7809015c:
+
+    # "{i}You see her walk very slowly towards the restrooms, as if she's still hesitating."
+    "{i}On la voit marcher très lentement vers les toilettes, comme si elle hésitait encore."
+# game/day27.rpy:1036
+translate french day27_b_vibrator_de30eed8:
+
+    # p "{i}(That's my girl!)"
+    p "{i}(C'est ma fille !)"
+
+# game/day27.rpy:1038
+translate french day27_b_vibrator_b32fd03b:
+
+    # "{i}After a short while, [b_name] returns, no longer holding the pink egg."
+    "{i}Après un court moment, [b_name] revient sans plus tenir l'œuf rose"
+
+# game/day27.rpy:1039
+translate french day27_b_vibrator_62289d3a:
+
+    # p "Now, spread your legs for me."
+    p "Maintenant, écarte tes jambes pour moi"
+
+# game/day27.rpy:1040
+translate french day27_b_vibrator_4bc98f10:
+
+    # b "I could've flushed the fucking thing down the toilet."
+    b "J'aurais pu jeter ce putain de truc dans les toilettes"
+
+# game/day27.rpy:1041
+translate french day27_b_vibrator_f24c6c98:
+
+    # p "You didn't."
+    p "Vous ne l'avez pas fait"
+
+# game/day27.rpy:1043
+translate french day27_b_vibrator_80593731:
+
+    # "{i}When [b_name] finally parts her legs, you can see the pink vibrator peeping out of her pussy."
+    "{i}Lorsque [b_name] écarte enfin les jambes, on peut voir le vibromasseur rose qui sort de sa chatte."
+# game/day27.rpy:1045
+translate french day27_b_vibrator_17cc86a6:
+
+    # p "Good girl!"
+    p "Bonne fille !"
+
+# game/day27.rpy:1047
+translate french day27_b_vibrator_5316ce8d:
+
+    # "{i}[b_name] abruptly closes her legs again as Megan saunters over. Before anybody notices, you manage to grab the remote control from the table."
+    "{i}[b_name] referme brusquement ses jambes alors que Megan s'approche avant que quiconque ne remarque que tu as réussi à attraper la télécommande sur la table."
+
+# game/day27.rpy:1048
+translate french day27_b_vibrator_01023b9e:
+
+    # me "I got those supplies you asked for."
+    me "J'ai les fournitures que tu as demandées"
+
+# game/day27.rpy:1049
+translate french day27_b_vibrator_b2176539:
+
+    # p "{i}(Now is as good a time as any to test it out, I think.)"
+    p "{i}(C'est le moment ou jamais de le tester, je pense)"
+
+# game/day27.rpy:1053
+translate french day27_b_vibrator_04eb7dac:
+
+    # "{i}Under the table, you turn the dial slightly upwards."
+    "{i}Sous la table, vous tournez le cadran légèrement vers le haut."
+# game/day27.rpy:1058
+translate french day27_b_vibrator_3ee9f29d:
+
+    # b "Wuh..."
+    b "Wuh"
+
+# game/day27.rpy:1059
+translate french day27_b_vibrator_eba830bd:
+
+    # me "Did I forget something?"
+    me "J'ai oublié quelque chose ?"
+
+# game/day27.rpy:1060
+translate french day27_b_vibrator_e6280fec:
+
+    # b "N-n-no..."
+    b "N-n-no"
+
+# game/day27.rpy:1061
+translate french day27_b_vibrator_495727fd:
+
+    # "{i}Several emotions are visible on [b_name]'s face, a mixture of repressed pleasure and agony being the main one."
+    "{i}Plusieurs émotions sont visibles sur le visage de [b_name], un mélange de plaisir refoulé et d'agonie étant la principale"
+
+# game/day27.rpy:1062
+translate french day27_b_vibrator_e1b19d79:
+
+    # me "Did you need anything else?"
+    me "Vous avez besoin d'autre chose ?"
+
+# game/day27.rpy:1063
+translate french day27_b_vibrator_c5c56418:
+
+    # b "I... N..."
+    b "I N"
+
+# game/day27.rpy:1064
+translate french day27_b_vibrator_010c86ab:
+
+    # me "Are you alright, [b_name]?"
+    me "Tu vas bien [b_name] ?"
+
+# game/day27.rpy:1071
+translate french day27_b_vibrator_ac24ee5d:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring your sister, but she seems to be able to retain her composure, more or less."
+    "{i}L'œuf est toujours en train de faire plaisir à votre sœur, mais elle semble être capable de garder plus ou moins son sang-froid."
+# game/day27.rpy:1073
+translate french day27_b_vibrator_016f6ff8:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
+    "{i}L'œuf fait encore plaisir à [b_name] mais elle semble plus ou moins capable de garder son calme."
+# game/day27.rpy:1074
+translate french day27_b_vibrator_d1e07412:
+
+    # b "Yes... Just feeling a little lightheaded."
+    b "Oui Je me sens juste un peu étourdi"
+
+# game/day27.rpy:1075
+translate french day27_b_vibrator_28383b11:
+
+    # b "I'm feeling better already."
+    b "Je me sens déjà mieux"
+
+# game/day27.rpy:1081
+translate french day27_b_vibrator_9276f31b:
+
+    # "{i}After those words, you turn the dial all the way up. The force of the egg's vibrations force open the girl's legs and she slams a fist on the table."
+    "{i}Après ces mots, vous tournez le cadran à fond La force des vibrations de l'œuf ouvre les jambes de la jeune fille et elle tape du poing sur la table."
+
+# game/day27.rpy:1082
+translate french day27_b_vibrator_15e5c36b:
+
+    # b "Aaaah..."
+    b "Aaaah"
+
+# game/day27.rpy:1083
+translate french day27_b_vibrator_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name] ?"
+
+# game/day27.rpy:1084
+translate french day27_b_vibrator_b469670c:
+
+    # p "Is everything okay, [b_name]?"
+    p "Tout va bien [b_name] ?"
+
+# game/day27.rpy:1085
+translate french day27_b_vibrator_3cfd3ad0:
+
+    # b "...I'm fine."
+    b "Je vais bien"
+
+# game/day27.rpy:1086
+translate french day27_b_vibrator_99681889:
+
+    # me "Girl, you're sweating."
+    me "Ma fille, tu transpires"
+
+# game/day27.rpy:1087
+translate french day27_b_vibrator_f2d96e30:
+
+    # b "I'll b-be j-just fine in a minute."
+    b "I'll b-be j-just fine in a minute"
+
+# game/day27.rpy:1088
+translate french day27_b_vibrator_5bb24395:
+
+    # me "Take as long as you need, I'll take over for you in the mean time."
+    me "Prends le temps qu'il te faut, je te remplacerai pendant ce temps."
+
+# game/day27.rpy:1090
+translate french day27_b_vibrator_3f755b65:
+
+    # b "T-thanks..."
+    b "T-merci"
+
+# game/day27.rpy:1092
+translate french day27_b_vibrator_2dad7135:
+
+    # "{i}As soon as Megan walks away, [b_name] shoots an angry glance at you, she's only able to speak through gritted teeth."
+    "{i}Dès que Megan s'éloigne, [b_name] vous jette un regard furieux, elle ne peut parler qu'en serrant les dents."
+# game/day27.rpy:1093
+translate french day27_b_vibrator_40e42da9:
+
+    # b "T-t-turn it off!"
+    b "Éteignez-le !"
+
+# game/day27.rpy:1094
+translate french day27_b_vibrator_58ee35ab:
+
+    # p "Hmmm?"
+    p "Hmmm ?"
+
+# game/day27.rpy:1095
+translate french day27_b_vibrator_490f1e1c:
+
+    # b "T-turn i-it off, p-p-please."
+    b "T-turn i-it off p-p-please"
+
+# game/day27.rpy:1100
+translate french day27_b_vibrator_6fee07d3:
+
+    # "{i}Satisfied with her answer, you turn the dial all the way down to zero."
+    "{i}Satisfait de sa réponse, vous tournez le cadran jusqu'à zéro"
+
+# game/day27.rpy:1101
+translate french day27_b_vibrator_521c64a8:
+
+    # b "I'm going to kill you for this, you know that?"
+    b "Je vais te tuer pour ça, tu le sais ?"
+
+# game/day27.rpy:1102
+translate french day27_b_vibrator_6802e4fc:
+
+    # p "Easy now, just remind yourself of who's holding the remote control."
+    p "Facile, il suffit de se rappeler qui tient la télécommande."
+
+# game/day27.rpy:1103
+translate french day27_b_vibrator_46258e98:
+
+    # b "I have to get back to work."
+    b "Je dois retourner au travail"
+
+# game/day27.rpy:1104
+translate french day27_b_vibrator_c443c0db:
+
+    # p "Sure thing. I'd like another cup of regular coffee, black, please."
+    p "Bien sûr, je voudrais une autre tasse de café noir, s'il vous plaît."
+
+# game/day27.rpy:1106
+translate french day27_b_vibrator_a13f8569:
+
+    # "{i}She looks at you incredulously, then stands up, her legs still wobbly from the vibrations of the sex toy in her pussy."
+    "{i}Elle vous regarde avec incrédulité puis se lève, les jambes encore flageolantes sous l'effet des vibrations du sex-toy dans sa chatte."
+# game/day27.rpy:1107
+translate french day27_b_vibrator_de1fa8b9:
+
+    # b "Coming right up..."
+    b "J'arrive tout de suite"
+
+# game/day27.rpy:1112
+translate french day27_b_vibrator_6cc89c98:
+
+    # "{i}After you get your coffee, you sit and play with your phone. At irregular intervals, you use the dial of the remote control."
+    "{i}Après avoir pris votre café, vous vous asseyez et jouez avec votre téléphone. À intervalles irréguliers, vous utilisez la molette de la télécommande."
+# game/day27.rpy:1114
+translate french day27_b_vibrator_c14e2e61:
+
+    # "{i}You make sure it never goes past the point where the vibrations become unbearable for [b_name], but you notice she has a harder time serving customers, steadying herself often and sighing with flushed cheeks."
+    "{i}Vous vous assurez qu'il ne dépasse jamais le point où les vibrations deviennent insupportables pour [b_name] mais vous remarquez qu'elle a plus de mal à servir les clients, se stabilisant souvent et soupirant avec les joues rougies"
+
+# game/day27.rpy:1132
+translate french day27_b_licking_5f3aff41:
+
+    # p "Good. Just sit down on the desk and relax."
+    p "Bien Asseyez-vous sur le bureau et détendez-vous"
+
+# game/day27.rpy:1133
+translate french day27_b_licking_83091b29:
+
+    # b "You're not going to take it out?"
+    b "Vous n'allez pas l'enlever ?"
+
+# game/day27.rpy:1134
+translate french day27_b_licking_a781d336:
+
+    # p "Of course not, it's going to help me make you cum."
+    p "Bien sûr que non, ça va m'aider à te faire jouir."
+
+# game/day27.rpy:1135
+translate french day27_b_licking_4f28fa17:
+
+    # p "Take off your shirt first."
+    p "Enlève d'abord ta chemise"
+
+# game/day27.rpy:1136
+translate french day27_b_licking_b61b6f1a:
+
+    # b "No, but what if somebody comes in?"
+    b "Non mais si quelqu'un entre ?"
+
+# game/day27.rpy:1137
+translate french day27_b_licking_6262302c:
+
+    # p "We'll worry about that later."
+    p "Nous nous occuperons de cela plus tard"
+
+# game/day27.rpy:1138
+translate french day27_b_licking_8377b2fd:
+
+    # b "[p_name]..."
+    b "[p_name]"
+
+# game/day27.rpy:1139
+translate french day27_b_licking_0e1f96a4:
+
+    # p "I want to see those gorgeous breasts of yours."
+    p "Je veux voir tes magnifiques seins."
+
+# game/day27.rpy:1144
+translate french day27_b_licking_9a4fad80:
+
+    # "{i}After losing all of her clothing, you spread her legs and lower your head between her thighs."
+    "{i}Après avoir perdu tous ses vêtements, vous écartez ses jambes et placez votre tête entre ses cuisses."
+# game/day27.rpy:1145
+translate french day27_b_licking_def4b24b:
+
+    # p "Wow!"
+    p "Wow !"
+
+# game/day27.rpy:1146
+translate french day27_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Quoi ?"
+
+# game/day27.rpy:1147
+translate french day27_b_licking_1aa5989e:
+
+    # p "I didn't know you could get so wet."
+    p "Je ne savais pas que tu pouvais être aussi mouillé"
+
+# game/day27.rpy:1152
+translate french day27_b_licking_85091941:
+
+    # "{i}[b_name] doesn't offer a reply and just bites her lip. You smell the earthy perfume of her cunt as your tongue probes the wet lips of her pussy."
+    "{i}Vous sentez le parfum terreux de sa chatte alors que votre langue sonde les lèvres humides de sa chatte."
+
+# game/day27.rpy:1153
+translate french day27_b_licking_f17a0a22:
+
+    # b "Oh!"
+    b "Oh !"
+
+# game/day27.rpy:1158
+translate french day27_b_licking_aef8bd34:
+
+    # "{i}As you stimulate her with the rapid motions of your tongue, you dial the vibrator slowly up to its maximum setting."
+    "{i}Pendant que vous la stimulez avec les mouvements rapides de votre langue, vous réglez lentement le vibrateur à son maximum."
+# game/day27.rpy:1159
+translate french day27_b_licking_83f82a73:
+
+    # "{i}The vibrations of the egg are a little awkward, but [b_name] completely loses it, gripping the side of the desk and moaning softly."
+    "{i}Les vibrations de l'œuf sont un peu gênantes, mais [b_name] perd complètement pied en s'agrippant au côté du bureau et en gémissant doucement."
+# game/day27.rpy:1165
+translate french day27_b_licking_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name] ?"
+
+# game/day27.rpy:1166
+translate french day27_b_licking_3d9dd82a:
+
+    # me "[b_name], are you in there?"
+    me "[b_name] tu es là ?"
+
+# game/day27.rpy:1167
+translate french day27_b_licking_9171bab7:
+
+    # b "Fuck, it's Megan."
+    b "Putain c'est Megan"
+
+# game/day27.rpy:1168
+translate french day27_b_licking_9e6db08a:
+
+    # b "Hide!"
+    b "Hide!"
+
+# game/day27.rpy:1170
+translate french day27_b_licking_fe288a67:
+
+    # "{i}You crawl under the desk, while [b_name] frantically looks for her blouse."
+    "{i}Vous vous glissez sous le bureau pendant que [b_name] cherche frénétiquement son chemisier"
+
+# game/day27.rpy:1171
+translate french day27_b_licking_64fc4783:
+
+    # b "Yes, I'm in here."
+    b "Yes I'm in here"
+
+# game/day27.rpy:1172
+translate french day27_b_licking_7b467c67:
+
+    # b "Just a..."
+    b "Just a"
+
+# game/day27.rpy:1174
+translate french day27_b_licking_90e1af97_1:
+
+    # me "[b_name]?"
+    me "[b_name] ?"
+
+# game/day27.rpy:1175
+translate french day27_b_licking_648fad1f:
+
+    # me "Oh shit, you're naked."
+    me "Oh merde tu es à poil"
+
+# game/day27.rpy:1176
+translate french day27_b_licking_73acfb97:
+
+    # "{i}You see [b_name] stiffen in front of the desk, as Megan enters the room."
+    "{i}Vous voyez [b_name] se raidir devant le bureau lorsque Megan entre dans la pièce"
+
+# game/day27.rpy:1177
+translate french day27_b_licking_65c33e7a:
+
+    # b "I... uh... I was changing."
+    b "I uh I was changing"
+
+# game/day27.rpy:1178
+translate french day27_b_licking_6e2fbc8e:
+
+    # me "You're not feeling well, are you?"
+    me "Vous ne vous sentez pas bien, n'est-ce pas ?"
+
+# game/day27.rpy:1180
+translate french day27_b_licking_23fd721a:
+
+    # p "{i}(Mmmm, she's so close.)"
+    p "{i}(Mmmm elle est si proche)"
+
+# game/day27.rpy:1181
+translate french day27_b_licking_392019b3:
+
+    # p "{i}(Megan can't see me from here.)"
+    p "{i}(Megan ne peut pas me voir d'ici)"
+
+# game/day27.rpy:1182
+translate french day27_b_licking_143ced8d:
+
+    # p "{i}(Shall I continue? The vibrator is still on...)"
+    p "{i}(Dois-je continuer ? Le vibrateur est toujours en marche)"
+
+# game/day27.rpy:1192
+translate french day27_b_licking_ebe61376:
+
+    # "{i}You caress the muscles of her inner thighs, quivering under the stress of her impending orgasm."
+    "{i}Vous caressez les muscles de l'intérieur de ses cuisses qui frémissent sous l'effet de l'orgasme imminent."
+# game/day27.rpy:1193
+translate french day27_b_licking_7d2fce76:
+
+    # b "No... I-I think I need to go ho..."
+    b "No I-Je pense que je dois y aller ho"
+
+# game/day27.rpy:1195
+translate french day27_b_licking_d3dbcb25:
+
+    # "{i}At that moment, you plunge your tongue between her wet lips, pushing the vibrator even further in her cunt."
+    "{i}A ce moment-là, vous plongez votre langue entre ses lèvres humides, poussant le vibrateur encore plus loin dans sa chatte."
+# game/day27.rpy:1196
+translate french day27_b_licking_3580bb93:
+
+    # b "...Ooohme!"
+    b "Ooohme !"
+
+# game/day27.rpy:1197
+translate french day27_b_licking_d45b71d4:
+
+    # me "Seem like you're having a migraine?"
+    me "On dirait que tu as une migraine ?"
+
+# game/day27.rpy:1198
+translate french day27_b_licking_3fd3887e:
+
+    # b "Y-yes..."
+    b "O-oui"
+
+# game/day27.rpy:1200
+translate french day27_b_licking_7b413b5c:
+
+    # "{i}Your sister doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}Votre sœur ne vous repousse pas mais écarte un peu plus les jambes pour vous permettre un meilleur accès à sa fente ruisselante."
+# game/day27.rpy:1202
+translate french day27_b_licking_b147ddb0:
+
+    # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}[b_name] ne vous repousse pas mais écarte un peu plus les jambes pour vous permettre un meilleur accès à sa fente dégoulinante."
+
+# game/day27.rpy:1203
+translate french day27_b_licking_c5cc69af:
+
+    # me "I'll leave you to it then."
+    me "Je vous laisse faire."
+
+# game/day27.rpy:1204
+translate french day27_b_licking_a7ed4f3b:
+
+    # b "T-thanks."
+    b "T-merci"
+
+# game/day27.rpy:1205
+translate french day27_b_licking_6ac0e1eb:
+
+    # me "Migraines are a bitch. Get well soon!"
+    me "Les migraines, c'est une saloperie. Remets-toi vite !"
+
+# game/day27.rpy:1206
+translate french day27_b_licking_a7ed4f3b_1:
+
+    # b "T-thanks."
+    b "T-merci"
+
+# game/day27.rpy:1211
+translate french day27_b_licking_533d60e4:
+
+    # "{i}When Megan closes the office door, [b_name] involuntarily releases a volley of her juices."
+    "{i}Lorsque Megan ferme la porte du bureau, [b_name] libère involontairement une volée de ses sucs."
+# game/day27.rpy:1212
+translate french day27_b_licking_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Aaaaaah !"
+
+# game/day27.rpy:1213
+translate french day27_b_licking_eb1641f9:
+
+    # b "Don't stop. P-please!"
+    b "Ne vous arrêtez pas P-s'il vous plaît !"
+
+# game/day27.rpy:1215
+translate french day27_b_licking_85a3c63d:
+
+    # "{i}After you push her onto the desk, you eat her pussy with an intensity that surprises even yourself."
+    "{i}Après l'avoir poussée sur le bureau, tu lui manges la chatte avec une intensité qui te surprend toi-même."
+# game/day27.rpy:1216
+translate french day27_b_licking_2b4bad48:
+
+    # "{i}The vibrator is still running on maximum, and [b_name] moans uncontrollably and pulls at your hair in ecstasy."
+    "{i}Le vibrateur fonctionne toujours au maximum et [b_name] gémit de façon incontrôlable et tire sur ses cheveux en pleine extase."
+# game/day27.rpy:1224
+translate french day27_b_licking_df23fe64:
+
+    # "{i}You're surprised by her wetness and the force of her orgasm. A wealth of her nectar squirts on your face and forces the still-vibrating egg out of her cunny."
+    "{i}Vous êtes surpris par sa mouille et la force de son orgasme. Une grande quantité de son nectar gicle sur votre visage et force l'œuf encore vibrant à sortir de son sexe."
+# game/day27.rpy:1227
+translate french day27_b_licking_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah !"
+
+# game/day27.rpy:1229
+translate french day27_b_licking_509df137:
+
+    # "{i}Your sister squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Votre sœur projette plusieurs jets d'éjaculat sur ses cuisses et sur la surface du bureau. Il commence à couler sur le sol alors que sa forme molle est secouée par des spasmes dans les affres de son orgasme."
+# game/day27.rpy:1231
+translate french day27_b_licking_2fb542ee:
+
+    # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Le liquide s'écoule sur ses cuisses et sur la surface du bureau. Il commence à couler sur le sol alors que sa forme molle est secouée de spasmes sous l'effet de la jouissance."
+# game/day27.rpy:1237
+translate french day27_b_licking_fd967eb5:
+
+    # "{i}You catch [b_name] before she falls to the floor and sit next to her against the desk."
+    "{i}Vous attrapez [b_name] avant qu'elle ne tombe par terre et vous vous asseyez à côté d'elle contre le bureau."
+# game/day27.rpy:1238
+translate french day27_b_licking_a226744c:
+
+    # b "I... I..."
+    b "I I"
+
+# game/day27.rpy:1239
+translate french day27_b_licking_970e9bfc:
+
+    # b "I didn't know I could do that."
+    b "Je ne savais pas que je pouvais faire ça"
+
+# game/day27.rpy:1240
+translate french day27_b_licking_5535b960:
+
+    # p "That was really special."
+    p "C'était vraiment spécial"
+
+# game/day27.rpy:1241
+translate french day27_b_licking_e4f482d5:
+
+    # b "I don't think I'll be able to walk."
+    b "Je ne pense pas pouvoir marcher"
+
+# game/day27.rpy:1242
+translate french day27_b_licking_fed42c8c:
+
+    # p "I'll get you home, don't worry."
+    p "Je te ramènerai à la maison, ne t'inquiète pas"
+
+# game/day27.rpy:1243
+translate french day27_b_licking_935dfeff:
+
+    # "{i}[b_name] sits next to you, savoring the moment before standing up and slowly dressing herself."
+    "{i}[b_name] s'assoit à côté de vous pour savourer le moment avant de se lever et de s'habiller lentement."
+
+# game/day27.rpy:1245
+translate french day27_b_licking_22fc1ff3:
+
+    # "{i}She leans on you, as you head out the office and go back home."
+    "{i}Elle s'appuie sur vous lorsque vous quittez le bureau et rentrez chez vous."
+# game/day27.rpy:1248
+translate french day27_b_licking_748b5dec:
+
+    # p "That was close."
+    p "C'était moins une"
+
+# game/day27.rpy:1249
+translate french day27_b_licking_567893c3:
+
+    # p "{i}(And I fear the moment has been ruined.)"
+    p "{i}(Et je crains que le moment ne soit gâché)"
+
+# game/day27.rpy:1250
+translate french day27_b_licking_58cce666:
+
+    # b "I really need to get back to work."
+    b "Je dois vraiment retourner au travail"
+
+# game/day27.rpy:1255
+translate french day27_b_licking_877900df:
+
+    # p "You may, but the vibrator remains on."
+    p "Vous pouvez, mais le vibrateur reste allumé."
+
+# game/day27.rpy:1257
+translate french day27_b_licking_c39bb92f:
+
+    # b "What? No!"
+    b "Quoi ? Non !"
+
+# game/day27.rpy:1258
+translate french day27_b_licking_e096b0f3:
+
+    # p "Yes, at the lowest setting, a nice background hum while you continue working."
+    p "Oui, au réglage le plus bas, un agréable bourdonnement d'ambiance pendant que vous continuez à travailler"
+
+# game/day27.rpy:1259
+translate french day27_b_licking_ef0da038:
+
+    # b "But..."
+    b "Mais"
+
+# game/day27.rpy:1260
+translate french day27_b_licking_2dab4ee2:
+
+    # p "You'll love it."
+    p "Vous allez adorer"
+
+# game/day27.rpy:1262
+translate french day27_b_licking_a1d34c97:
+
+    # "{i}Dejected, [b_name] leaves the office, the toy still vibrating in her pussy. You decide to head home."
+    "{i}Déprimée, [b_name] quitte le bureau, le jouet vibrant toujours dans sa chatte Vous décidez de rentrer chez vous"
+
+# game/day27.rpy:1265
+translate french day27_b_licking_981af234:
+
+    # "{i}You toy with the idea of turning the vibrator on again, but decide to give [b_name] a break."
+    "{i}Vous jouez avec l'idée de remettre le vibromasseur en marche, mais vous décidez de donner une pause à [b_name]."
+# game/day27.rpy:1266
+translate french day27_b_licking_dfa11d19:
+
+    # p "You may. I've turned the vibrator off for now, but keep it in at all times."
+    p "Vous pouvez, j'ai éteint le vibrateur pour l'instant mais gardez-le en permanence."
+
+# game/day27.rpy:1267
+translate french day27_b_licking_40179f03:
+
+    # b "Yeah, yeah."
+    b "Yeah yeah"
+
+# game/day27.rpy:1269
+translate french day27_b_licking_c556ba13:
+
+    # "{i}After she leaves the office, you head back home."
+    "{i}Après qu'elle ait quitté le bureau, vous rentrez chez vous"
+
+# game/day27.rpy:1284
+translate french day27_flashback_sex_c5a86a79:
+
+    # s "There's also the matter of teaching you."
+    s "Il y a aussi la question de l'enseignement"
+
+# game/day27.rpy:1285
+translate french day27_flashback_sex_5c6e3bee:
+
+    # s "You've proven to be a quick learner, but think of what you'll be able to show her when you've had a little more practice with me."
+    s "Tu as prouvé que tu apprenais vite, mais pense à ce que tu pourras lui montrer quand tu auras un peu plus de pratique avec moi"
+
+# game/day27.rpy:1286
+translate french day27_flashback_sex_eca6528f:
+
+    # s "You already know how to pleasure a woman with your fingers, but there's more to be learned..."
+    s "Vous savez déjà comment donner du plaisir à une femme avec vos doigts, mais il y a plus à apprendre"
+
+# game/day27.rpy:1288
+translate french day27_flashback_sex_b31534e5:
+
+    # "{i}With those words, she freed my cock which had grown erect as soon as I looked at her naked body."
+    "{i}Par ces mots, elle a libéré ma bite qui était entrée en érection dès que j'ai regardé son corps nu."
+# game/day27.rpy:1289
+translate french day27_flashback_sex_f9e820eb:
+
+    # s "You should attune yourself to your desires."
+    s "Vous devez vous mettre au diapason de vos désirs"
+
+# game/day27.rpy:1290
+translate french day27_flashback_sex_1ba01317:
+
+    # s "You clearly want me, you want her, you want Sabine... What if you can have all of that?"
+    s "Tu me veux clairement tu la veux tu veux Sabine Et si tu pouvais avoir tout ça ?"
+
+# game/day27.rpy:1291
+translate french day27_flashback_sex_59e7a770:
+
+    # s "Wouldn't that be nice?"
+    s "Ce serait bien, non ?"
+
+# game/day27.rpy:1296
+translate french day27_flashback_sex_bffc2941:
+
+    # "{i}She lowered her head to my cock and wrapped her lips around my glans. Her wet tongue darted over the tip of my dick and she started sucking."
+    "{i}Elle a baissé la tête vers ma bite et a enroulé ses lèvres autour de mon gland. Sa langue humide est passée sur le bout de ma bite et elle a commencé à la sucer."
+# game/day27.rpy:1298
+translate french day27_flashback_sex_146db4ff:
+
+    # s "Have you ever felt that before?"
+    s "Avez-vous déjà ressenti cela auparavant ?"
+
+# game/day27.rpy:1299
+translate french day27_flashback_sex_580a0a0b:
+
+    # p "N-n-no..."
+    p "N-n-no"
+
+# game/day27.rpy:1300
+translate french day27_flashback_sex_b9e17a77:
+
+    # "{i}Sasha took my entire length in her warm mouth and traced the veins of my cock with the tip of her tongue."
+    "{i}Sasha a pris toute ma longueur dans sa bouche chaude et a tracé les veines de ma queue avec le bout de sa langue."
+# game/day27.rpy:1301
+translate french day27_flashback_sex_bbdaf767:
+
+    # s "Would you like to fuck me?"
+    s "Voulez-vous me baiser ?"
+
+# game/day27.rpy:1302
+translate french day27_flashback_sex_afb6c27b:
+
+    # p "Here?! In dad's bedroom?!"
+    p "Ici ?! Dans la chambre de papa ? !"
+
+# game/day27.rpy:1303
+translate french day27_flashback_sex_cb28ce69:
+
+    # s "That's the plan, if you're game."
+    s "C'est le plan si vous êtes d'accord"
+
+# game/day27.rpy:1304
+translate french day27_flashback_sex_fcad6d87:
+
+    # p "I-i... Y-yes!"
+    p "I-i Y-oui !"
+
+# game/day27.rpy:1306
+translate french day27_flashback_sex_a8b746f9:
+
+    # r "But Miley!"
+    r "Mais Miley !"
+
+# game/day27.rpy:1307
+translate french day27_flashback_sex_fa2718d7:
+
+    # p "I've learned not to argue with a woman who has my cock in her mouth."
+    p "J'ai appris à ne pas discuter avec une femme qui a ma bite dans la bouche."
+
+# game/day27.rpy:1308
+translate french day27_flashback_sex_c4ff4ad4:
+
+    # r "Fair point."
+    r "Point juste"
+
+# game/day27.rpy:1312
+translate french day27_flashback_sex_b8a8a112:
+
+    # "{i}She pulled my penis out of her mouth, a string of saliva still connecting her lips and my glans, and lay before me with her legs spread."
+    "{i}Elle a retiré mon pénis de sa bouche, un filet de salive reliant encore ses lèvres à mon gland, et s'est allongée devant moi, les jambes écartées."
+# game/day27.rpy:1313
+translate french day27_flashback_sex_9062a2b3:
+
+    # s "Taste me, before I ride you."
+    s "Goûte-moi avant que je te monte"
+
+# game/day27.rpy:1319
+translate french day27_flashback_sex_fff7add5:
+
+    # "{i}Any thought of young love forgotten, I obliged and plunged my tongue inside her pussy."
+    "{i}Toute idée de jeune amour oubliée, je l'ai obligée et j'ai plongé ma langue dans sa chatte."
+# game/day27.rpy:1320
+translate french day27_flashback_sex_025deb73:
+
+    # s "Aaaah, very direct. Remember when you fingered me, be subtle."
+    s "Aaaah très direct Rappelle-toi quand tu m'as doigté, sois subtil"
+
+# game/day27.rpy:1321
+translate french day27_flashback_sex_ddcc8bb7:
+
+    # "{i}Tempering my initial voraciousness, I began to lick her pussy lips and concentrate my attention on her clitoris."
+    "{i}Tempérant ma voracité initiale, j'ai commencé à lécher les lèvres de sa chatte et à concentrer mon attention sur son clitoris."
+# game/day27.rpy:1322
+translate french day27_flashback_sex_f5c24192:
+
+    # "{i}I had never tasted a woman before, so Sasha's mix of bath soap and saltiness surprised and overwhelmed me instantly."
+    "{i}Je n'avais jamais goûté une femme auparavant, alors le mélange de savon de bain et de sel de Sasha m'a surpris et submergé instantanément."
+
+# game/day27.rpy:1323
+translate french day27_flashback_sex_42e8f876:
+
+    # s "Good boy, make me ready for you."
+    s "Bon garçon, prépare-moi à te recevoir"
+
+# game/day27.rpy:1325
+translate french day27_flashback_sex_863c430e:
+
+    # "{i}I worked hard on her pussy and she allowed me to explore every little fold of her sex, guiding me by firmly holding my head in her hands."
+    "{i}J'ai travaillé dur sur sa chatte et elle m'a permis d'explorer chaque petit repli de son sexe en me guidant et en tenant fermement ma tête entre ses mains."
+# game/day27.rpy:1326
+translate french day27_flashback_sex_181a4fa1:
+
+    # s "That's it, right there."
+    s "C'est ça"
+
+# game/day27.rpy:1327
+translate french day27_flashback_sex_8d92683f:
+
+    # s "Mmmmm."
+    s "Mmmmm"
+
+# game/day27.rpy:1331
+translate french day27_flashback_sex_d3367d55:
+
+    # s "That's enough for now."
+    s "Cela suffit pour l'instant"
+
+# game/day27.rpy:1332
+translate french day27_flashback_sex_7286508b:
+
+    # s "Just focus for the next part, don't allow yourself to cum too soon."
+    s "Concentrez-vous sur la suite, ne vous laissez pas aller à jouir trop tôt."
+
+# game/day27.rpy:1333
+translate french day27_flashback_sex_3503f938:
+
+    # s "Let me lead, you can have the initiative some other time, when you're more skilled."
+    s "Laissez-moi vous guider, vous pourrez prendre l'initiative une autre fois lorsque vous serez plus compétent"
+
+# game/day27.rpy:1334
+translate french day27_flashback_sex_20d8934c:
+
+    # p "It's just moving up and down, isn't it?"
+    p "C'est juste un mouvement de haut en bas, n'est-ce pas ?"
+
+# game/day27.rpy:1335
+translate french day27_flashback_sex_9de62a97:
+
+    # s "Spoken like a boy who's only watched a vagina being penetrated on video."
+    s "Parle comme un garçon qui n'a vu qu'une pénétration vaginale en vidéo."
+
+# game/day27.rpy:1336
+translate french day27_flashback_sex_ba1863c8:
+
+    # s "Try not to cum immediately, okay?"
+    s "Essayez de ne pas jouir tout de suite, d'accord ?"
+
+# game/day27.rpy:1338
+translate french day27_flashback_sex_7d248ee6:
+
+    # "{i}I really didn't get why she was making all that fuss until she spread her pussy lips and lowered herself onto my cock."
+    "{i}Je n'ai vraiment pas compris pourquoi elle faisait tout ce tapage jusqu'à ce qu'elle écarte les lèvres de sa chatte et qu'elle s'abaisse sur ma bite."
+# game/day27.rpy:1339
+translate french day27_flashback_sex_3e6e3c86:
+
+    # "{i}The act of entering her warm wet hole nearly made me shoot my load inside of her. Sasha noticed my glazed look and halted her descent on my shaft right away."
+    "{i}L'acte d'entrer dans son trou chaud et humide m'a presque fait tirer ma charge à l'intérieur d'elle. Sasha a remarqué mon regard glacé et a arrêté sa descente sur ma tige tout de suite."
+# game/day27.rpy:1341
+translate french day27_flashback_sex_486fc380:
+
+    # p "F-f-fuck, Sasha!"
+    p "F-f-fuck Sasha !"
+
+# game/day27.rpy:1342
+translate french day27_flashback_sex_408c37ea:
+
+    # s "Don't you dare, boy, we haven't even started!"
+    s "Ne t'avise pas de le faire, nous n'avons même pas commencé !"
+
+# game/day27.rpy:1343
+translate french day27_flashback_sex_5d2f4abc:
+
+    # "{i}I tried to think of anything but sex, and after a procession of deformed gnomes, the entire plot of The Great Gatsby and several theorems from Euclidean geometry had passed my mind's eye, I felt confident enough for Sasha to continue."
+    "{i}J'ai essayé de penser à autre chose qu'au sexe et après qu'un cortège de gnomes difformes, l'intrigue entière de The Great Gatsby et plusieurs théorèmes de géométrie euclidienne aient traversé mon esprit, je me suis sentie suffisamment confiante pour que Sasha continue."
+# game/day27.rpy:1350
+translate french day27_flashback_sex_f388db08:
+
+    # s "Try to focus on the ways my cunt is stimulating your cock."
+    s "Essaie de te concentrer sur les façons dont ma chatte stimule ta bite"
+
+# game/day27.rpy:1351
+translate french day27_flashback_sex_426e3322:
+
+    # "{i}Very slowly, Sasha started to move, the ribs of her vaginal tract massaging my entire shaft."
+    "{i}Très lentement, Sasha a commencé à bouger les côtes de son vagin pour masser toute ma tige."
+# game/day27.rpy:1352
+translate french day27_flashback_sex_1dba4ceb:
+
+    # s "When you're more experienced, you can fully give yourself over to pleasure."
+    s "Lorsque l'on est plus expérimenté, on peut s'abandonner pleinement au plaisir"
+
+# game/day27.rpy:1353
+translate french day27_flashback_sex_77a6371f:
+
+    # s "Your goal should always be to heighten the pleasure of your girl."
+    s "Votre objectif doit toujours être d'augmenter le plaisir de votre fille"
+
+# game/day27.rpy:1354
+translate french day27_flashback_sex_544b034c:
+
+    # s "She'll get wetter and wetter..."
+    s "Elle sera de plus en plus mouillée."
+
+# game/day27.rpy:1355
+translate french day27_flashback_sex_58db5a14:
+
+    # s "Maybe she'll orgasm..."
+    s "Peut-être qu'elle aura un orgasme"
+
+# game/day27.rpy:1356
+translate french day27_flashback_sex_0d029f3e:
+
+    # s "Mmmmm..."
+    s "Mmmmm"
+
+# game/day27.rpy:1358
+translate french day27_flashback_sex_485f4ac7:
+
+    # s "That, in turn, will increase your pleasure as well."
+    s "Cela augmentera également votre plaisir."
+
+# game/day27.rpy:1359
+translate french day27_flashback_sex_d2614141:
+
+    # s "Measure your thrusts and listen to your partner. To her moans and body language."
+    s "Mesurez vos poussées et écoutez votre partenaire, ses gémissements et son langage corporel."
+
+# game/day27.rpy:1360
+translate french day27_flashback_sex_910977f0:
+
+    # "{i}Mesmerized by her voice and the dirty things she told me, I let her use my cock for her pleasure and tried not to fill her up prematurely."
+    "{i}Hypnotisé par sa voix et les choses cochonnes qu'elle me disait, je l'ai laissée utiliser ma bite pour son plaisir et j'ai essayé de ne pas la remplir prématurément."
+
+# game/day27.rpy:1362
+translate french day27_flashback_sex_c62166ae:
+
+    # s "When she's nearing her orgasms, a few quick thrusts might send her over the edge."
+    s "Lorsqu'elle est proche de l'orgasme, quelques poussées rapides peuvent la faire basculer"
+
+# game/day27.rpy:1363
+translate french day27_flashback_sex_2c39b0d4:
+
+    # s "And as she orgasms, try to fuck her deeply, to prolong her pleasure."
+    s "Et lorsqu'elle a un orgasme, essayez de la baiser profondément pour prolonger son plaisir"
+
+# game/day27.rpy:1364
+translate french day27_flashback_sex_5b51375b:
+
+    # s "Fucking her hard and fast should never be the first thing you do, unless the situation calls for it, or she asks you to."
+    s "La baiser fermement et rapidement ne devrait jamais être la première chose que vous faites à moins que la situation ne l'exige ou qu'elle ne vous le demande"
+
+# game/day27.rpy:1365
+translate french day27_flashback_sex_eafc5437:
+
+    # s "You're not some porn actor jackhammering a worn out pussy, you're a lover."
+    s "Tu n'es pas un acteur porno qui martèle une chatte usée, tu es un amant"
+
+# game/day27.rpy:1366
+translate french day27_flashback_sex_819c61ee:
+
+    # p "S-s-sasha?!"
+    p "S-s-sasha ?!"
+
+# game/day27.rpy:1367
+translate french day27_flashback_sex_5396f74e:
+
+    # s "Yes, dear?"
+    s "Oui, ma chère ?"
+
+# game/day27.rpy:1368
+translate french day27_flashback_sex_a977924e:
+
+    # p "I-I can't..."
+    p "Je ne peux pas"
+# game/day27.rpy:1369
+translate french day27_flashback_sex_530f3be7:
+
+    # s "Do you want to cum inside me, sweetheart?"
+    s "Veux-tu jouir en moi, ma chérie ?"
+
+# game/day27.rpy:1370
+translate french day27_flashback_sex_07d6a258:
+
+    # p "Y-y-y..."
+    p "Y-y-y"
+
+# game/day27.rpy:1371
+translate french day27_flashback_sex_09b8efae:
+
+    # s "Go ahead, let it all go!"
+    s "Allez-y, laissez tout tomber !"
+
+# game/day27.rpy:1379
+translate french day27_flashback_sex_6891a8bb:
+
+    # "{i}With clenched teeth I released what felt like a river of seed inside her pussy. I'm not entirely sure what she did while I was orgasming, but it kept me going for a long time."
+    "{i}Les dents serrées, j'ai libéré ce qui ressemblait à une rivière de semence dans sa chatte. Je ne suis pas tout à fait sûr de ce qu'elle a fait pendant que j'avais un orgasme, mais cela m'a permis de continuer pendant un long moment."
+# game/day27.rpy:1381
+translate french day27_flashback_sex_2f5381cb:
+
+    # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
+    "{i}Le sperme a coulé de sa chatte sur ma bite et sur le lit de mon père. Je l'ai serrée contre moi, serrant son corps désespérément dans mes bras, ma bite spasmant toujours à l'intérieur d'elle, je n'étais plus vierge."

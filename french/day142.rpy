@@ -11738,3 +11738,113 @@ translate french day142_l_sex_57a49b76:
 
     # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
     "{i}Quand elle est à genoux devant toi, le sperme commence à gicler dans sa bouche ouverte."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day142.rpy:1860
+translate french day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Est-ce que [m_name] est enceinte dans cette scène ?"
+
+# game/day142.rpy:1864
+translate french day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] enceinte"
+
+# game/day142.rpy:1867
+translate french day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] n'est pas enceinte"
+
+# game/day142.rpy:1869
+translate french day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Est-ce que [r_name] est enceinte dans cette scène ?"
+
+# game/day142.rpy:1873
+translate french day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] enceinte"
+
+# game/day142.rpy:1876
+translate french day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] n'est pas enceinte"
+
+# game/day142.rpy:3141
+translate french day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Est-ce que [r_name] est enceinte dans cette scène ?"
+
+# game/day142.rpy:3145
+translate french day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] enceinte"
+
+# game/day142.rpy:3148
+translate french day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] n'est pas enceinte"
+
+# game/day142.rpy:3442
+translate french day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Est-ce que [l_name] est enceinte dans cette scène ?"
+
+# game/day142.rpy:3446
+translate french day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] enceinte"
+
+# game/day142.rpy:3449
+translate french day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] n'est pas enceinte"
+
+# game/day142.rpy:3709
+translate french day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Est-ce que [b_name] est enceinte dans cette scène ?"
+
+# game/day142.rpy:3713
+translate french day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] enceinte"
+
+# game/day142.rpy:3716
+translate french day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] pas enceinte"
+
+# game/day142.rpy:3951
+translate french day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Est-ce que [m_name] est enceinte dans cette scène ?"
+
+# game/day142.rpy:3955
+translate french day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] enceinte"
+
+# game/day142.rpy:3958
+translate french day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] n'est pas enceinte"
+

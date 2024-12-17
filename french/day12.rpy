@@ -2946,3 +2946,698 @@ translate french day12_7575467a:
     # "{i}Just as you want to sit down and play a game, there's a knock on your door."
     "{i}Quand vous vous asseyez pour jouer à un jeu, on frappe à votre porte."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day12.rpy:206
+translate french day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Mieux vaut ne pas la déranger mais rien ne m'empêche de mieux regarder ces seins magnifiques)"
+
+# game/day12.rpy:208
+translate french day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Mieux vaut la laisser dormir)"
+
+# game/day12.rpy:216
+translate french day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Jesus Christ [p_name] can't you just leave me alone ?!"
+
+# game/day12.rpy:218
+translate french day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Je suis juste là pour parler sis A moins que tu ne veuilles quelque chose de plus ?"
+
+# game/day12.rpy:220
+translate french day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Je suis juste là pour parler [b_name] A moins que vous ne vouliez quelque chose de plus ?"
+
+# game/day12.rpy:222
+translate french day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "Non, tu as déjà eu ta part de moi aujourd'hui"
+
+# game/day12.rpy:223
+translate french day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "Très vrai"
+
+# game/day12.rpy:224
+translate french day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "J'aime vraiment le plein air, n'est-ce pas ?"
+
+# game/day12.rpy:225
+translate french day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Va te faire foutre, je veux dormir"
+
+# game/day12.rpy:226
+translate french day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "D'accord mais j'ai une demande"
+
+# game/day12.rpy:227
+translate french day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "Pas encore"
+
+# game/day12.rpy:228
+translate french day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Laissons tomber la bombe)"
+
+# game/day12.rpy:229
+translate french day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "Je sais que tu aimes les jouets"
+
+# game/day12.rpy:232
+translate french day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "Alors la prochaine fois qu'on s'amusera, tu en utiliseras une sur toi-même pendant que je regarde."
+
+# game/day12.rpy:233
+translate french day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day12.rpy:234
+translate french day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "How do you"
+
+# game/day12.rpy:235
+translate french day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "Tu as fouillé ma chambre, petite merde ? !"
+
+# game/day12.rpy:236
+translate french day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(Quelque chose comme ça)"
+
+# game/day12.rpy:239
+translate french day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Vous savez, avec ce genre d'attitude, je pense que nous devons faire ce petit spectacle maintenant."
+
+# game/day12.rpy:240
+translate french day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Putain non je ne vais pas le faire"
+
+# game/day12.rpy:241
+translate french day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "Dites ensuite le mot magique"
+
+# game/day12.rpy:242
+translate french day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Fuck"
+
+# game/day12.rpy:243
+translate french day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}[b_name] se dirige vers un placard et fouille dans le fond. Elle récupère son gode noir."
+
+# game/day12.rpy:244
+translate french day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Bien Maintenant je veux que tu t'amuses"
+
+# game/day12.rpy:248
+translate french day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Demain, tu me donnes ton jouet et beaucoup de plaisir Dors bien chère sœur"
+
+# game/day12.rpy:250
+translate french day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Demain Tu me donnes ton jouet et beaucoup de plaisir Dors bien cher [b_name]"
+
+# game/day12.rpy:258
+translate french day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "{i}(Riley avait un cadeau pour moi, elle m'a dit Mieux vaut vérifier)"
+
+# game/day12.rpy:261
+translate french day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Vous vous rendez à l'adresse que Riley vous a envoyée C'est un immeuble d'habitation près du centre ville Vous sonnez et elle vous fait entrer Après avoir monté quelques étages en courant, vous entrez dans sa porte d'entrée qui est entrouverte"
+
+# game/day12.rpy:264
+translate french day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Hello you !"
+
+# game/day12.rpy:265
+translate french day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "Bonjour à vous"
+
+# game/day12.rpy:266
+translate french day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Voulez-vous un verre ?"
+
+# game/day12.rpy:267
+translate french day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "Vous avez une bière ?"
+
+# game/day12.rpy:268
+translate french day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "Bien sûr"
+
+# game/day12.rpy:269
+translate french day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Après avoir fouillé dans le frigo, Riley vous tend une bière fraîche. Elle en ouvre une pour elle aussi."
+# game/day12.rpy:270
+translate french day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "Santé !"
+
+# game/day12.rpy:271
+translate french day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "Fucking cheers !"
+
+# game/day12.rpy:273
+translate french day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Quelle journée hier"
+
+# game/day12.rpy:274
+translate french day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "Oui, c'était quelque chose"
+
+# game/day12.rpy:276
+translate french day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "Ta sœur va bien ?"
+
+# game/day12.rpy:278
+translate french day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "Ton ami va bien ?"
+
+# game/day12.rpy:279
+translate french day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Ouais elle prend la nouvelle plutôt bien en fait Plutôt surprenant si vous voulez mon avis."
+
+# game/day12.rpy:280
+translate french day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "Au fond d'elle, elle devait déjà savoir que Brody était un vrai connard"
+
+# game/day12.rpy:281
+translate french day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Dommage qu'elle ne l'ait pas réalisé plus tôt Mais au moins ça s'est bien terminé"
+
+# game/day12.rpy:282
+translate french day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Brody a passé le reste de la journée à redécorer son bureau Les quelques clients que nous avons eus ont été complètement effrayés par les bruits de meubles jetés et par tous les cris"
+
+# game/day12.rpy:283
+translate french day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "Ce salaud m'a même fait commander du nouveau mobilier de bureau à la fin de la journée Il l'a complètement saccagé"
+
+# game/day12.rpy:284
+translate french day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "Au moins, il a fait sortir un peu de sa rage refoulée"
+
+# game/day12.rpy:285
+translate french day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "J'espère que cela ne deviendra pas sa routine quotidienne"
+
+# game/day12.rpy:286
+translate french day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Une bonne visite anale de sa copine supplémentaire pourrait régler le problème."
+
+# game/day12.rpy:288
+translate french day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "Eeeewww !"
+
+# game/day12.rpy:290
+translate french day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "Une autre bière ?"
+
+# game/day12.rpy:291
+translate french day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "On dirait que j'ai déjà fini le mien."
+
+# game/day12.rpy:292
+translate french day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Riley revient de la cuisine avec deux bières et un sourire perplexe sur le visage"
+
+# game/day12.rpy:293
+translate french day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Dis [p_name] Tu sais que tu me plais et que nous nous sommes embrassés plusieurs fois et que j'aime que les choses soient claires."
+
+# game/day12.rpy:294
+translate french day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(C'est en soi une déclaration peu claire, mais ça va)"
+
+# game/day12.rpy:296
+translate french day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "Voudrais-tu faire l'amour avec moi ?"
+
+# game/day12.rpy:298
+translate french day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "Voulez-vous passer la nuit avec moi ?"
+
+# game/day12.rpy:302
+translate french day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Tu sais que tu es vraiment doué pour les cadeaux"
+
+# game/day12.rpy:303
+translate french day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "J'aimerais le penser"
+
+# game/day12.rpy:304
+translate french day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Montrer la voie"
+
+# game/day12.rpy:310
+translate french day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Je pensais que ce n'était qu'une visite amicale"
+
+# game/day12.rpy:312
+translate french day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Bon sang, tu es vraiment mauvais en matière de sous-entendus, n'est-ce pas ? Est-ce que j'avais besoin de te l'expliquer ?"
+
+# game/day12.rpy:313
+translate french day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "Je ferais mieux d'y aller"
+
+# game/day12.rpy:314
+translate french day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Je pense que oui"
+
+# game/day12.rpy:322
+translate french day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}Il est tard dans la soirée lorsque vous vous rendez dans la chambre de [l_name] pour la récupérer en vue de votre sortie nocturne."
+# game/day12.rpy:324
+translate french day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "Hey party girl, es-tu prête à partir ?"
+
+# game/day12.rpy:325
+translate french day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Oui, oui, je le suis !"
+
+# game/day12.rpy:327
+translate french day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Avec [l_name], vous vous rendez dans une boîte de nuit du centre-ville."
+# game/day12.rpy:333
+translate french day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "La musique est assez forte, n'est-ce pas ?"
+
+# game/day12.rpy:334
+translate french day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "Oui, tu t'y habitueras. Trouvons un endroit plus calme et buvons quelques verres."
+
+# game/day12.rpy:335
+translate french day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "Que voulez-vous ?"
+
+# game/day12.rpy:336
+translate french day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "L'eau ?"
+
+# game/day12.rpy:341
+translate french day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "Nous faisons la fête à [l_name] l'eau n'est pas exactement le carburant des fêtes"
+
+# game/day12.rpy:342
+translate french day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "D'accord, que recommandez-vous ?"
+
+# game/day12.rpy:343
+translate french day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "Du vin peut-être ou quelque chose de plus doux ?"
+
+# game/day12.rpy:344
+translate french day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "Je ne sais pas"
+
+# game/day12.rpy:345
+translate french day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Encore si réservé)"
+
+# game/day12.rpy:346
+translate french day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "Vous savez quoi, j'aimerais bien un verre de vin blanc."
+
+# game/day12.rpy:347
+translate french day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "Super ! Le vin blanc arrive"
+
+# game/day12.rpy:348
+translate french day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Vous offrez à [l_name] un verre de vin et une bière pour vous"
+
+# game/day12.rpy:350
+translate french day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Vous offrez à [l_name] une bouteille d'eau et une bière pour vous."
+# game/day12.rpy:353
+translate french day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "Ce n'est pas si occupé que ça, n'est-ce pas ?"
+
+# game/day12.rpy:354
+translate french day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "Une soirée un peu lente Mais cela signifie que la piste de danse est à nous !"
+
+# game/day12.rpy:355
+translate french day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "Je ne sais pas si je veux danser"
+
+# game/day12.rpy:356
+translate french day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "Tu n'es pas obligé de faire ce que tu ne veux pas. Amuse-toi !"
+
+# game/day12.rpy:357
+translate french day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "Ne vous inquiétez pas"
+
+# game/day12.rpy:703
+translate french day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "{i}(Son corps nu est un tel cadeau, comme la nuit dernière !)"
+
+# game/day12.rpy:704
+translate french day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(j'ai une idée)"
+
+# game/day12.rpy:709
+translate french day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Vous déplacez votre main vers les cuisses de [r_name] Un petit gémissement lui échappe lorsque vous touchez sa peau du bout des doigts et que vous vous déplacez lentement vers l'intérieur de ses jambes."
+# game/day12.rpy:710
+translate french day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day12.rpy:711
+translate french day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(Jusqu'ici tout va bien)"
+
+# game/day12.rpy:712
+translate french day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Lorsque vous caressez doucement la zone autour de son sexe, ses jambes s'écartent de manière invitante."
+# game/day12.rpy:715
+translate french day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(Ma sœur a la plus belle chatte vierge)"
+
+# game/day12.rpy:717
+translate french day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}([r_name] a la plus belle chatte vierge)"
+
+# game/day12.rpy:722
+translate french day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Très prudemment, vous passez deux doigts le long de sa fente et vous sentez ses lèvres humides."
+# game/day12.rpy:723
+translate french day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(Elle est si prête)"
+
+# game/day12.rpy:724
+translate french day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Vous continuez à frotter ses lèvres avec vos doigts et à masser son museau."
+# game/day12.rpy:725
+translate french day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day12.rpy:728
+translate french day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Dès que vous massez directement son clitoris, ses yeux s'ouvrent."
+# game/day12.rpy:729
+translate french day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "G-bonjour"
+
+# game/day12.rpy:730
+translate french day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Hey"
+
+# game/day12.rpy:731
+translate french day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "Dois-je m'arrêter ?"
+
+# game/day12.rpy:732
+translate french day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "Oh mon Dieu, non !"
+
+# game/day12.rpy:734
+translate french day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Conforté par ses paroles, vous portez toute votre attention sur son clitoris [r_name] halète lorsque vous glissez un doigt à l'intérieur de sa chatte humide"
+
+# game/day12.rpy:735
+translate french day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    "Aaaah ! Oui !"
+# game/day12.rpy:737
+translate french day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Ta sœur saisit la main qui stimule son clito et l'enfonce plus fort."
+# game/day12.rpy:739
+translate french day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] saisit la main qui stimule son clito et l'enfonce plus fort"
+
+# game/day12.rpy:740
+translate french day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "J'ai tellement envie de te sentir [p_name] !"
+
+# game/day12.rpy:741
+translate french day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Vous faites glisser vos doigts dans et hors de sa chatte couverte de son jus. Lorsque vous massez son clitoris encore plus intensément, vous sentez son corps se tendre, prêt à lâcher prise."
+# game/day12.rpy:749
+translate french day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "Aaaaah ! Aaaah ! [p_name] !!!"
+
+# game/day12.rpy:750
+translate french day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}Son orgasme est long et puissant, le corps de [r_name] tremble alors qu'elle tient votre main contre son sexe."
+# game/day12.rpy:756
+translate french day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Au bout d'un moment, ses convulsions ont cessé et, avec un soupir, elle se blottit contre vous."
+# game/day12.rpy:757
+translate french day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Quelle incroyable façon de se réveiller"
+
+# game/day12.rpy:758
+translate french day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Tu as été formidable hier soir, alors j'ai pensé te récompenser en nature."
+
+# game/day12.rpy:759
+translate french day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Juste ce dont j'avais besoin"
+
+# game/day12.rpy:760
+translate french day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "Occupé aujourd'hui ?"
+
+# game/day12.rpy:761
+translate french day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Oui, je sors Ana m'a demandé de venir chez toi ?"
+
+# game/day12.rpy:762
+translate french day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "On dirait que c'est une journée calme aujourd'hui, mais ça ne me dérange pas."
+
+# game/day12.rpy:763
+translate french day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}Après avoir fait des câlins pendant un moment, vous vous levez tous les deux et vous prenez un petit déjeuner."

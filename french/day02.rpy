@@ -2114,3 +2114,51 @@ translate french day02_living_room_conversation_a75bc9de:
     # p "It sure has been a long time since I've had an opportunity like this."
     p "Il y a bien longtemps que je n'ai pas eu une occasion comme celle-là."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day02.rpy:751
+translate french day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Pourquoi diable [m_name] lirait-il ces trucs dégoûtants ?)"
+
+# game/day02.rpy:752
+translate french day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(Et elle le lisait sur le canapé du salon de tous les endroits Incroyable)"
+
+# game/day02.rpy:753
+translate french day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Je me demande ce qu'elle a encore à cacher)"
+
+# game/day02.rpy:755
+translate french day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(Ma nouvelle famille devient de plus en plus intéressante)"
+
+# game/day02.rpy:757
+translate french day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(Mes nouveaux amis deviennent de plus en plus intéressants)"
+
+# game/day02.rpy:769
+translate french day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(Rien à voir ici Mieux vaut partir)"
+
+# game/day02.rpy:779
+translate french day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Tu retournes dans ta chambre et tu te couches."
+# game/day02.rpy:781
+translate french day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Vous décidez d'être une personne responsable et d'aller directement au lit."

@@ -4597,3 +4597,237 @@ translate french day22_b_sex_85cd77ff:
     # "{i}[b_name] undresses, and you admire her body as she peels off the layers of clothing she's wearing. You motion her to lie down on the bed and slip out of your clothes as well."
     "{i}Vous admirez le corps de [b_name] qui enlèves un à un ses vêtements. Vous lui demandez de s'allonger sur le lit et de vous déshabillez."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day22.rpy:1198
+translate french day22_r_blowjob_93af388e:
+
+    # "{i}Your sister stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}Votre sœur se lève et se dirige vers les buissons en vous regardant d'un air taquin."
+# game/day22.rpy:1200
+translate french day22_r_blowjob_f85a22a3:
+
+    # "{i}[r_name] stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}[r_name] se lève et se dirige vers les buissons en vous regardant d'un air taquin. Vous décidez de la suivre."
+
+# game/day22.rpy:1202
+translate french day22_r_blowjob_626ba25f:
+
+    # r "This is the perfect spot. We can't be seen from here and still view our picnic spot, in case Alina and Ana come back."
+    r "C'est l'endroit idéal On ne peut pas être vu d'ici et on peut toujours voir notre lieu de pique-nique au cas où Alina et Ana reviendraient."
+
+# game/day22.rpy:1203
+translate french day22_r_blowjob_d09abdf2:
+
+    # r "I thought we could have some fun here. Out in the open..."
+    r "J'ai pensé que nous pourrions nous amuser un peu ici, en plein air."
+
+# game/day22.rpy:1204
+translate french day22_r_blowjob_2c842202:
+
+    # "{i}She stands close to you and her hand creeps inside your pants while she stares intently into your eyes."
+    "{i}Elle se tient près de vous et sa main se glisse dans votre pantalon tandis qu'elle vous fixe intensément dans les yeux."
+# game/day22.rpy:1205
+translate french day22_r_blowjob_a2f1943d:
+
+    # r "I want to taste you, [p_name]."
+    r "Je veux te goûter [p_name]"
+
+# game/day22.rpy:1206
+translate french day22_r_blowjob_82d30f19:
+
+    # p "{i}(The girl wants cream after all.)"
+    p "{i}(La fille veut de la crème après tout)"
+
+# game/day22.rpy:1208
+translate french day22_r_blowjob_eb8e94d8:
+
+    # "{i}[r_name] drops to her knees before you while you lower your pants. Your erection nearly hits her face."
+    "{i}[r_name] se met à genoux devant vous pendant que vous baissez votre pantalon Votre érection touche presque son visage"
+
+# game/day22.rpy:1209
+translate french day22_r_blowjob_f7599487:
+
+    # r "You don't waste time, do you?"
+    r "Vous ne perdez pas de temps, n'est-ce pas ?"
+
+# game/day22.rpy:1215
+translate french day22_r_blowjob_133a297e:
+
+    # "{i}The wind is softly caressing your cock, as your sister jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Le vent caresse doucement ta bite pendant que ta sœur te branle Elle lèche le bout de ta bite et prend lentement ton pénis dans sa bouche chaude."
+
+# game/day22.rpy:1217
+translate french day22_r_blowjob_0fb9bc52:
+
+    # "{i}The wind is softly caressing your cock, as [r_name] jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Le vent caresse doucement votre bite pendant que [r_name] vous branle Elle lèche le bout de votre bite et prend lentement votre pénis dans sa bouche chaude"
+
+# game/day22.rpy:1218
+translate french day22_r_blowjob_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day22.rpy:1219
+translate french day22_r_blowjob_83866ffe:
+
+    # p "God, [r_name], your mouth feels so good."
+    p "Mon Dieu [r_name] ta bouche est si bonne"
+
+# game/day22.rpy:1221
+translate french day22_r_blowjob_6f1e2456:
+
+    # "{i}[r_name]'s head moves up and down, stimulating your shaft. When her tongue comes into play, licking the glans you cannot stifle a moan."
+    "{i}La tête de [r_name] monte et descend en stimulant la tige. Quand sa langue entre en jeu pour lécher le gland, vous ne pouvez pas étouffer un gémissement."
+# game/day22.rpy:1222
+translate french day22_r_blowjob_bea680ab:
+
+    # "{i}The sight of [r_name] eagerly servicing your cock and the possibility of Ana and Alina returning any minute, greatly enhances the pleasure you receive from the blowjob."
+    "{i}La vue de [r_name] en train de servir votre bite avec impatience et la possibilité qu'Ana et Alina reviennent d'une minute à l'autre augmentent considérablement le plaisir que vous retirez de la fellation."
+# game/day22.rpy:1224
+translate french day22_r_blowjob_013e40ec:
+
+    # "{i}Precum is already leaking into [r_name]'s mouth and she moans with approval. Her eyes are closed, completely focused on sucking the cum out of your hard dick."
+    "{i}Le précum coule déjà dans la bouche de [r_name] et elle gémit d'approbation. Ses yeux sont fermés, complètement concentrés sur la succion du sperme de votre bite dure."
+# game/day22.rpy:1225
+translate french day22_r_blowjob_d4ca7b4e:
+
+    # p "Aaah, keep going, [r_name]!"
+    p "Aaah continuez [r_name] !"
+
+# game/day22.rpy:1226
+translate french day22_r_blowjob_f85a0094:
+
+    # r "Nearly there, baby?"
+    r "Tu es presque là, bébé ?"
+
+# game/day22.rpy:1227
+translate french day22_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "Oui, oui, oui !"
+
+# game/day22.rpy:1228
+translate french day22_r_blowjob_54922265:
+
+    # "{i}Drool is starting to leak from the corners of [r_name]'s mouth, making a wet mess on her chest. She slurps and sucks on your cock, her swirling tongue everywhere."
+    "{i}La bave commence à s'écouler des coins de la bouche de [r_name] et fait un dégât humide sur sa poitrine. Elle bave et suce votre bite en faisant tournoyer sa langue partout."
+# game/day22.rpy:1229
+translate french day22_r_blowjob_0f7ec75a:
+
+    # r "Cum in my mouth, baby, I want it all!"
+    r "Joue dans ma bouche, bébé, je veux tout !"
+    
+# game/day22.rpy:1232
+translate french day22_r_blowjob_a06994e6:
+
+    # "{i}Her eyes widen when your cock discharges deep into her mouth. She has to swallow most of your semen to keep sucking on your dick."
+    "{i}Ses yeux s'écarquillent lorsque votre bite se déverse profondément dans sa bouche. Elle doit avaler la plus grande partie de votre sperme pour continuer à vous sucer."
+# game/day22.rpy:1233
+translate french day22_r_blowjob_9ad1f8d3:
+
+    # p "Aaaah, fuck, [r_name]! You're so good!"
+    p "Aaaah fuck [r_name] ! Tu es si bon !"
+
+# game/day22.rpy:1234
+translate french day22_r_blowjob_b1f301f8:
+
+    # "{i}Her happy eyes look up at you as she sucks and licks the last remnants of your ejaculate from the length of your cock. She clearly doesn't want to waste your sperm."
+    "{i}Ses yeux heureux vous regardent tandis qu'elle suce et lèche les derniers restes de votre éjaculat sur la longueur de votre bite Elle ne veut clairement pas gaspiller votre sperme."
+
+# game/day22.rpy:1239
+translate french day22_r_blowjob_399cafdb:
+
+    # r "How was that?"
+    r "Comment c'était ?"
+
+# game/day22.rpy:1240
+translate french day22_r_blowjob_8d271fce:
+
+    # p "You're such a dirty girl, I love it!"
+    p "Tu es une fille tellement sale que j'adore ça !"
+
+# game/day22.rpy:1241
+translate french day22_r_blowjob_b561991c:
+
+    # r "Hehe, thanks!"
+    r "Hehe merci !"
+
+# game/day22.rpy:1242
+translate french day22_r_blowjob_2b629fcb:
+
+    # p "Shit! I think Alina and Ana are coming back."
+    p "Merde ! Je crois qu'Alina et Ana reviennent"
+
+# game/day22.rpy:1250
+translate french day22_r_blowjob_8d114cfb:
+
+    # r "Fuck."
+    r "Fuck"
+
+# game/day22.rpy:1251
+translate french day22_r_blowjob_2313a99a:
+
+    # p "We have to think of an excuse."
+    p "Nous devons trouver une excuse"
+
+# game/day22.rpy:1252
+translate french day22_r_blowjob_cc28141b:
+
+    # r "Do I look decent?"
+    r "Est-ce que j'ai l'air décent ?"
+
+# game/day22.rpy:1253
+translate french day22_r_blowjob_bbb8d175:
+
+    # "{i}You remove a little bit of your cum from the corner of her mouth and kiss her."
+    "{i}Tu enlèves un peu de ton sperme du coin de sa bouche et tu l'embrasses."
+# game/day22.rpy:1254
+translate french day22_r_blowjob_947316a5:
+
+    # p "You always look decent, even with cum on your face."
+    p "Tu as toujours l'air décent même avec du sperme sur le visage."
+
+# game/day22.rpy:1256
+translate french day22_r_blowjob_c48ca465:
+
+    # a "There they are!"
+    a "Les voilà !"
+
+# game/day22.rpy:1257
+translate french day22_r_blowjob_56ede805:
+
+    # al "Where were you guys?"
+    al "Où étiez-vous ?"
+
+# game/day22.rpy:1258
+translate french day22_r_blowjob_e24e5416:
+
+    # p "We were looking for the toilets."
+    p "Nous cherchions les toilettes"
+
+# game/day22.rpy:1259
+translate french day22_r_blowjob_f53ec246:
+
+    # a "They're completely the other way."
+    a "Ils sont complètement à l'opposé"
+
+# game/day22.rpy:1260
+translate french day22_r_blowjob_d7f0b9d7:
+
+    # r "Shit, I told you so."
+    r "Merde, je te l'avais bien dit"
+
+# game/day22.rpy:1261
+translate french day22_r_blowjob_1bf6814e:
+
+    # r "I have to go. Won't be long!"
+    r "Je dois y aller Je ne serai pas long !"
+
+# game/day22.rpy:1262
+translate french day22_r_blowjob_afd369af:
+
+    # p "{i}(All things considered, [r_name] is a pretty great actress.)"
+    p "{i}(Tout bien considéré, [r_name] est une très bonne actrice)"
+

@@ -4409,3 +4409,17 @@ translate french day09_r_l_shopping_choices_fedcbc1a:
     # "{i}Reluctantly, [l_name] disappears into the booth."
     "{i}À contrecoeur, [l_name] disparaît dans la cabine."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day09.rpy:1268
+translate french day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Elle rentrera probablement tard ce soir)"
+
+# game/day09.rpy:1274
+translate french day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Dormons bien)"
+

@@ -3242,3 +3242,749 @@ translate french day18_m_walking_choices_66e33e83:
     # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
     "{i}[b_name] s'en va sur la pointe des pieds, vous laissant seul sur le canapé. Après vous être allongé, vous vous endormez à nouveau."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day18.rpy:636
+translate french day18_b_bj_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day18.rpy:640
+translate french day18_b_bj_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day18.rpy:643
+translate french day18_b_bj_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day18.rpy:650
+translate french day18_b_bj_597c998b:
+
+    # p "I've been trudging around the jungle all day with a busty, half nude woman. So I've been building up some sexual energy that needs releasing."
+    p "Je me suis promené dans la jungle toute la journée avec une femme plantureuse à moitié nue. J'ai donc accumulé une énergie sexuelle qui a besoin d'être libérée."
+
+# game/day18.rpy:652
+translate french day18_b_bj_dceef590:
+
+    # b "You mean, [m_name]?"
+    b "Vous voulez dire [m_name] ?"
+
+# game/day18.rpy:653
+translate french day18_b_bj_6b2311bf:
+
+    # p "Who else?"
+    p "Qui d'autre ?"
+
+# game/day18.rpy:655
+translate french day18_b_bj_a5163d8e:
+
+    # b "So you're getting off on seeing your own mother naked?"
+    b "Alors tu prends ton pied en voyant ta propre mère nue ?"
+
+# game/day18.rpy:656
+translate french day18_b_bj_8120ee4c:
+
+    # p "Considering the things we've done together, that surprises you?"
+    p "Compte tenu des choses que nous avons faites ensemble, cela te surprend ?"
+
+# game/day18.rpy:657
+translate french day18_b_bj_c6faf0b0:
+
+    # b "Pffff..."
+    b "Pffff"
+
+# game/day18.rpy:660
+translate french day18_b_bj_74222b7b:
+
+    # b "So I guess you want me to touch your dingus again?"
+    b "Alors je suppose que tu veux que je touche ton dingus à nouveau ?"
+
+# game/day18.rpy:661
+translate french day18_b_bj_ddc4a456:
+
+    # p "Sort of..."
+    p "En quelque sorte"
+
+# game/day18.rpy:663
+translate french day18_b_bj_f06389ac:
+
+    # b "So I guess you want me to touch your little dingus again?"
+    b "Alors je suppose que tu veux que je touche à nouveau ton petit dingus ?"
+
+# game/day18.rpy:664
+translate french day18_b_bj_2668fb22:
+
+    # p "Sort of... And I don't think you'll be calling it little very soon..."
+    p "En quelque sorte Et je ne pense pas que vous l'appellerez petit de sitôt"
+
+# game/day18.rpy:665
+translate french day18_b_bj_855ac1ef:
+
+    # p "You're going to use your mouth."
+    p "Tu vas utiliser ta bouche"
+
+# game/day18.rpy:667
+translate french day18_b_bj_62702272:
+
+    # b "You're crazy. Absolutely crazy."
+    b "Vous êtes fou Absolument fou"
+
+# game/day18.rpy:668
+translate french day18_b_bj_d640b5c8:
+
+    # p "No, I'm very horny and you're going to be an obedient little cocksucker."
+    p "Non, je suis très excité et tu vas être un petit suceur de bites obéissant."
+
+# game/day18.rpy:669
+translate french day18_b_bj_d69ee8f6:
+
+    # "{i}[b_name] doesn't move when you pull down your pants."
+    "{i}[b_name] ne bouge pas quand vous baissez votre pantalon"
+
+# game/day18.rpy:670
+translate french day18_b_bj_89912316:
+
+    # p "Come closer. And lose that bra."
+    p "Approchez-vous et perdez votre soutien-gorge"
+
+# game/day18.rpy:672
+translate french day18_b_bj_55ba990d:
+
+    # p "Now, make me cum."
+    p "Maintenant, fais-moi jouir"
+
+# game/day18.rpy:674
+translate french day18_b_bj_efe857be:
+
+    # b "Fuck you."
+    b "Va te faire foutre"
+
+# game/day18.rpy:680
+translate french day18_b_bj_8b2022b3:
+
+    # "{i}Your sister licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}Votre sœur lèche le bout de votre bite comme pour la goûter. Le contact de sa langue humide sur votre gland vous fait presque jouir."
+# game/day18.rpy:682
+translate french day18_b_bj_5996f609:
+
+    # "{i}[b_name] licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}[b_name] lèche le bout de votre bite comme pour la goûter Le contact de sa langue humide sur votre gland vous fait presque jouir"
+
+# game/day18.rpy:688
+translate french day18_b_bj_19cf1c5d:
+
+    # p "That's it, take it in your sweet little mouth. Come on, use your tongue a little."
+    p "C'est ça, prends-le dans ta petite bouche. Allez, utilise un peu ta langue."
+
+# game/day18.rpy:690
+translate french day18_b_bj_60c106f6:
+
+    # "{i}You feel her tongue dance around your shaft."
+    "{i}Tu sens sa langue danser autour de ta queue"
+
+# game/day18.rpy:692
+translate french day18_b_bj_488997c6:
+
+    # p "Good, make it all wet. How does it taste, sis?"
+    p "Bon, c'est tout mouillé, quel goût ça a, soeurette ?"
+
+# game/day18.rpy:694
+translate french day18_b_bj_8d14e544:
+
+    # p "Good, make it all wet. How does it taste, [b_name]?"
+    p "Bon, mouillez tout, quel goût ça a [b_name] ?"
+
+# game/day18.rpy:697
+translate french day18_b_bj_0bbfd3a0:
+
+    # b "Mmmmmm."
+    b "Mmmmmm"
+
+# game/day18.rpy:698
+translate french day18_b_bj_d6523b99:
+
+    # p "Are you going to suck me dry, I bet you are."
+    p "Est-ce que tu vas me sucer, je parie que oui."
+
+# game/day18.rpy:700
+translate french day18_b_bj_4e2802f0:
+
+    # b "Fucking gross."
+    b "Putain de dégueulasse"
+
+# game/day18.rpy:701
+translate french day18_b_bj_15254aa1:
+
+    # p "I doubt that. But make it clean then, start sucking."
+    p "J'en doute Mais faites le propre puis commencez à sucer"
+
+# game/day18.rpy:703
+translate french day18_b_bj_a1045253:
+
+    # "{i}Her head moves up and down and all that can be heard from [b_name] are slobbering sounds as she blows you."
+    "{i}Sa tête bouge de haut en bas et tout ce que l'on peut entendre de [b_name], ce sont des sons baveux lorsqu'elle vous suce."
+# game/day18.rpy:704
+translate french day18_b_bj_6e5b2ff3:
+
+    # p "Yes, keep going."
+    p "Oui, continuez"
+
+# game/day18.rpy:705
+translate french day18_b_bj_3ed5316d:
+
+    # "{i}[b_name] is completely focused on sucking your dick and trying not to gag because of your length."
+    "{i}[b_name] est complètement concentré sur la succion de ta bite et essaie de ne pas s'étouffer à cause de ta longueur."
+
+# game/day18.rpy:706
+translate french day18_b_bj_145d8d79:
+
+    # p "You're good at this, have you done this before?"
+    p "Tu es doué pour ça, tu as déjà fait ça avant ?"
+
+# game/day18.rpy:711
+translate french day18_b_bj_df44d03d:
+
+    # b "No!"
+    b "Non !"
+
+# game/day18.rpy:713
+translate french day18_b_bj_fe8167af:
+
+    # p "You're a natural then. Or did you practice with your dildo?"
+    p "Tu es naturelle alors ou tu t'es entraînée avec ton gode ?"
+
+# game/day18.rpy:715
+translate french day18_b_bj_2993e132:
+
+    # b "Maybe..."
+    b "Peut-être"
+
+# game/day18.rpy:716
+translate french day18_b_bj_0e622b61:
+
+    # p "That explains it... That dildo has seen a lot of use, hasn't it? It has been in your ass before, hasn't it, before we did it together?"
+    p "Ce gode a été beaucoup utilisé, n'est-ce pas ? Il a déjà été dans ton cul, n'est-ce pas, avant que nous le fassions ensemble ?"
+
+# game/day18.rpy:717
+translate french day18_b_bj_850ef128:
+
+    # b "..."
+    b "..."
+
+# game/day18.rpy:718
+translate french day18_b_bj_36a752a2:
+
+    # p "Answer me."
+    p "Répondez moi"
+
+# game/day18.rpy:720
+translate french day18_b_bj_2993e132_1:
+
+    # b "Maybe..."
+    b "Peut-être"
+
+# game/day18.rpy:722
+translate french day18_b_bj_ddd8abed:
+
+    # b "Yes."
+    b "Oui"
+
+# game/day18.rpy:723
+translate french day18_b_bj_3a3dced0:
+
+    # p "I thought as much. So all that shock about pushing it inside your little ass was just for show..."
+    p "C'est bien ce que je pensais Alors tout ce choc à propos de l'enfoncement dans ton petit cul, c'était juste pour le spectacle"
+
+# game/day18.rpy:724
+translate french day18_b_bj_df44d03d_1:
+
+    # b "No!"
+    b "Non !"
+
+# game/day18.rpy:726
+translate french day18_b_bj_45f1a9a8:
+
+    # p "My sister, the little anal slut."
+    p "Ma sœur la petite salope anale"
+
+# game/day18.rpy:728
+translate french day18_b_bj_d60cf75d:
+
+    # p "My little anal slut."
+    p "Ma petite salope anale"
+
+# game/day18.rpy:731
+translate french day18_b_bj_255836c1:
+
+    # b "I'm not... I'm..."
+    b "I'm not I'm"
+
+# game/day18.rpy:733
+translate french day18_b_bj_b733eaa1:
+
+    # b "Fuck you!"
+    b "Va te faire foutre !"
+
+# game/day18.rpy:735
+translate french day18_b_bj_429f4db2:
+
+    # p "You're a natural then."
+    p "Vous êtes un naturel alors"
+
+# game/day18.rpy:740
+translate french day18_b_bj_cd4f9a43:
+
+    # p "Keep going, please. Your mouth is so good."
+    p "Continue s'il te plaît Ta bouche est si bonne"
+
+# game/day18.rpy:742
+translate french day18_b_bj_d9162ddc:
+
+    # "{i}You sister returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}Ta sœur retourne à sa succion de bite avec une énergie renouvelée, clairement décidée à te faire jouir."
+# game/day18.rpy:744
+translate french day18_b_bj_efceec8a:
+
+    # "{i}[b_name] returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}[b_name] retourne à sa succion de bite avec une énergie renouvelée, clairement décidée à vous faire jouir"
+
+# game/day18.rpy:747
+translate french day18_b_bj_9a7043b3:
+
+    # p "I see our talk of anal play has made you extra motivated. Good, make me come with your mouth."
+    p "Je vois que notre discussion sur le jeu anal t'a rendu encore plus motivé... Fais-moi jouir avec ta bouche."
+
+# game/day18.rpy:749
+translate french day18_b_bj_72ae433c:
+
+    # p "You must be loving it, you seem so motivated all of a sudden. Good, make me cum with your mouth."
+    p "Tu dois aimer ça, tu as l'air si motivé tout d'un coup Fais-moi jouir avec ta bouche."
+
+# game/day18.rpy:751
+translate french day18_b_bj_f09299cc:
+
+    # "{i}[b_name] stimulates your throbbing member and when she reaches the tip of your cock, her tongue makes circular motions which ultimately send you over the edge."
+    "{i}[b_name] stimule votre membre palpitant et lorsqu'elle atteint le bout de votre bite, sa langue fait des mouvements circulaires qui finissent par vous faire tomber à la renverse."
+# game/day18.rpy:758
+translate french day18_b_bj_f204422a:
+
+    # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. Your sister clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
+    "{i}Sans crier gare, vous tirez une grosse charge alors que [b_name] a toute la longueur de votre bite dans sa bouche chaude Votre sœur ne s'y attendait manifestement pas et se met à tousser du sperme coulant des coins de sa bouche"
+
+# game/day18.rpy:760
+translate french day18_b_bj_5953e328:
+
+    # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. She clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
+    "{i}Sans crier gare, vous tirez une grosse charge alors que [b_name] a toute la longueur de votre bite dans sa bouche chaude. Elle ne s'y attendait manifestement pas et commence à tousser du sperme coulant des coins de sa bouche."
+# game/day18.rpy:764
+translate french day18_b_bj_aa21c952:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah"
+
+# game/day18.rpy:768
+translate french day18_b_bj_612d0d73:
+
+    # b "Gaaah! Aaagh!"
+    b "Gaaah ! Aaagh !"
+
+# game/day18.rpy:769
+translate french day18_b_bj_cccb8f1e:
+
+    # "{i}[b_name] spits most of your cum on the floor and looks at you angrily."
+    "{i}[b_name] crache la plus grande partie de ton sperme sur le sol et te regarde d'un air furieux"
+
+# game/day18.rpy:772
+translate french day18_b_bj_283316f2:
+
+    # b "You didn't warn me."
+    b "Vous ne m'avez pas prévenu"
+
+# game/day18.rpy:774
+translate french day18_b_bj_3196d99b:
+
+    # b "You could've fucking warned me!"
+    b "Vous auriez pu me prévenir, putain !"
+
+# game/day18.rpy:775
+translate french day18_b_bj_1579c22c:
+
+    # p "I'm full of surprises."
+    p "Je suis plein de surprises"
+
+# game/day18.rpy:776
+translate french day18_b_bj_5a37ab2c:
+
+    # p "But next time, you'll swallow when I tell you to."
+    p "Mais la prochaine fois, tu avaleras quand je te le dirai"
+
+# game/day18.rpy:777
+translate french day18_b_bj_297c5af6:
+
+    # b "Hrmpf!"
+    b "Hrmpf !"
+
+# game/day18.rpy:792
+translate french day18_b_bj_a62c599d:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from your sister's cheeks. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Au dernier moment, tu retires ta bite de sa bouche chaude et tu asperges son visage d'une grosse charge de sperme Le sperme gicle dans ses cheveux et coule sur les joues de ta sœur On peut voir à son expression choquée qu'elle ne s'y attendait pas."
+
+# game/day18.rpy:794
+translate french day18_b_bj_b2e22555:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from [b_name]'s cheeks. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}A la dernière minute, vous retirez votre bite de sa bouche chaude et aspergez son visage d'une grosse charge de sperme Le sperme gicle dans ses cheveux et coule des joues de [b_name] Vous pouvez voir à son expression choquée qu'elle ne s'y attendait clairement pas."
+
+# game/day18.rpy:795
+translate french day18_b_bj_aa21c952_1:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah"
+
+# game/day18.rpy:799
+translate french day18_b_bj_89e82a09:
+
+    # b "Are you done with me?"
+    b "Tu en as fini avec moi ?"
+
+# game/day18.rpy:800
+translate french day18_b_bj_433e04fb:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Je n'ai plus rien pour vous si c'est ce que vous demandez"
+
+# game/day18.rpy:802
+translate french day18_b_bj_cdc94c97:
+
+    # b "Are you done degrading me?"
+    b "As-tu fini de me dégrader ?"
+
+# game/day18.rpy:803
+translate french day18_b_bj_433e04fb_1:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Je n'ai plus rien pour vous si c'est ce que vous demandez"
+
+# game/day18.rpy:804
+translate french day18_b_bj_297c5af6_1:
+
+    # b "Hrmpf!"
+    b "Hrmpf !"
+
+# game/day18.rpy:819
+translate french day18_b_bj_9a8ba953:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto your sister's belly. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Au dernier moment, tu retires ta bite de sa bouche chaude et tu asperges sa poitrine d'une grosse charge de sperme Le sperme coule de ses seins sur le ventre de ta sœur On peut voir à son expression choquée qu'elle ne s'y attendait pas."
+
+# game/day18.rpy:821
+translate french day18_b_bj_5feec302:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto [b_name]'s belly. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Au dernier moment, tu retires ta bite de sa bouche chaude et tu asperges sa poitrine d'une grosse quantité de sperme Le sperme coule de ses seins sur le ventre de [b_name] On peut voir à son expression choquée qu'elle ne s'y attendait pas."
+
+# game/day18.rpy:822
+translate french day18_b_bj_aa21c952_2:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaah"
+
+# game/day18.rpy:826
+translate french day18_b_bj_89e82a09_1:
+
+    # b "Are you done with me?"
+    b "Tu en as fini avec moi ?"
+
+# game/day18.rpy:827
+translate french day18_b_bj_433e04fb_2:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Je n'ai plus rien pour toi si c'est ce que tu demandes"
+
+# game/day18.rpy:829
+translate french day18_b_bj_cdc94c97_1:
+
+    # b "Are you done degrading me?"
+    b "As-tu fini de me dégrader ?"
+
+# game/day18.rpy:830
+translate french day18_b_bj_433e04fb_3:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Je n'ai plus rien pour vous si c'est ce que vous demandez"
+
+# game/day18.rpy:831
+translate french day18_b_bj_297c5af6_2:
+
+    # b "Hrmpf!"
+    b "Hrmpf !"
+
+# game/day18.rpy:838
+translate french day18_b_bj_7b6e1f7f:
+
+    # "{i}Your sister tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
+    "{i}Votre sœur s'en va sur la pointe des pieds, vous laissant seul sur le canapé Après vous être allongé, vous vous rendormez rapidement."
+# game/day18.rpy:840
+translate french day18_b_bj_66e33e83:
+
+    # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
+    "{i}[b_name] s'en va sur la pointe des pieds, vous laissant seul sur le canapé Après s'être allongé, vous vous rendormez rapidement."
+
+# game/day18.rpy:856
+translate french day18_maid_7b79069e:
+
+    # p "{i}(Let's see how our hero and his maid are doing...)"
+    p "{i}(Voyons comment se portent notre héros et sa servante)"
+
+# game/day18.rpy:858
+translate french day18_maid_1cb6ad89:
+
+    # p "{i}(Let's see what's in there... It says something about management on the cover.)"
+    p "{i}(Voyons ce qu'il y a là-dedans Il est question de gestion sur la couverture)"
+
+# game/day18.rpy:866
+translate french day18_maid_39553420:
+
+    # "{i}“Clasping her closely against me, I murmured: 'Now, Alice darling, I think the time has come for you to surrender to me your maidenhead... for you to be my bride!' And I kissed her passionately.”"
+    "{i}“En la serrant contre moi, j'ai murmuré : 'Maintenant, Alice chérie, je pense que le moment est venu pour toi de me remettre ta tête de jeune fille et d'être ma fiancée.' Et je l'ai embrassée passionnément“"
+
+# game/day18.rpy:874
+translate french day18_maid_1322d82d:
+
+    # p "{i}(Hmmm, he's going to take her virginity. This could be interesting.)"
+    p "{i}(Hmmm il va la dépuceler Cela pourrait être intéressant)"
+
+# game/day18.rpy:876
+translate french day18_maid_6e093fa3:
+
+    # p "{i}(This is hardcore pornography... Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(C'est de la pornographie dure Pourquoi diable [m_name] lirait-il ces trucs dégoûtants ?)"
+
+# game/day18.rpy:877
+translate french day18_maid_1b28feb2:
+
+    # p "{i}(But he's going to take her virginity. This could be an interesting read.)"
+    p "{i}(Mais il va la dépuceler Cela pourrait être une lecture intéressante)"
+
+# game/day18.rpy:879
+translate french day18_maid_e4284b4a:
+
+    # p "{i}(Everybody is at the beach right now and I feel I could rub one out right now while reading the book...)"
+    p "{i}(Tout le monde est à la plage en ce moment et j'ai l'impression que je pourrais m'y frotter tout en lisant le livre)"
+
+# game/day18.rpy:884
+translate french day18_maid_b1666fb9:
+
+    # p "{i}(Just for a little while then...)"
+    p "{i}(Juste pour un petit moment alors)"
+
+# game/day18.rpy:897
+translate french day18_maid_0c19f907:
+
+    # "{i}“I made as if to place her on her back, whispering: 'Open your legs, dear!' 'No! no! Jack!' Alice ejaculated, struggling to defend herself, and successfully resisting my attempt to roll her over on to her back, 'let me go, dear Jack!”"
+    "{i}“J'ai fait comme pour la mettre sur le dos en murmurant : 'Ouvrez vos jambes, ma chère !.' Non ! non ! Jack ! Alice éjacula en luttant pour se défendre et en résistant avec succès à ma tentative de la faire rouler sur le dos : 'Laisse-moi partir, mon cher Jack !'"
+
+# game/day18.rpy:898
+translate french day18_maid_b6c12ba2:
+
+    # "“... surely you have revenged yourself on me sufficiently!' And she endeavoured to rise.”"
+    "“...certainement tu t'es suffisamment vengé de moi !'. Et elle s'efforça de se lever“"
+
+# game/day18.rpy:900
+translate french day18_maid_dcf543c7:
+
+    # "{i}“I held her down firmly and, in spite of her determined resistance, I got her on her back and myself on her. But she kept her legs so obstinately closed that in the position in which I was, I could not get mine between them.”"
+    "{i}“Je l'ai maintenue fermement et malgré sa résistance déterminée, je l'ai mise sur le dos et moi sur elle. Mais elle a gardé ses jambes si obstinément fermées que dans la position dans laquelle je me trouvais, je ne pouvais pas mettre les miennes entre elles.“"
+
+# game/day18.rpy:901
+translate french day18_maid_0bf1ed6d:
+
+    # "{i}“I began to get angry. Gripping her to me till her breasts flattened themselves against my chest, I raised my head and looked her sternly in the eyes.”"
+    "{i}“J'ai commencé à me mettre en colère. Je l'ai serrée contre moi jusqu'à ce que ses seins s'aplatissent contre ma poitrine. J'ai levé la tête et je l'ai regardée sévèrement dans les yeux.“"
+
+# game/day18.rpy:902
+translate french day18_maid_86deb0dd:
+
+    # "{i}“'Now, Alice, no more nonsense,' I said brusquely. 'I'm going to fuck you! Yield yourself at once to me and do as I tell you or I shall tie you down on this couch and violate you by force in a way you won't like!'”"
+    "{i}“Je lui ai dit brusquement : 'Alice, ne dis plus de bêtises, je vais te baiser ! Soumets-toi immédiatement à moi et fais ce que je te dis ou je t'attacherai sur ce canapé et te violerai de force d'une manière qui ne te plaira pas !“"
+
+# game/day18.rpy:903
+translate french day18_maid_e8e46ef9:
+
+    # "{i}“'Now once and for all, are you going to submit or are you not?'”"
+    "{i}“'Maintenant, une fois pour toutes, allez-vous vous soumettre ou non ?“"
+
+# game/day18.rpy:904
+translate french day18_maid_4b577491:
+
+    # "{i}“She closed her eyes in an agony of distress. 'Jack! ... Jack! ...' she murmured brokenly then stopped as if unable to speak in her emotion.”"
+    "{i}“Elle a fermé les yeux dans une agonie de détresse 'Jack !  Jack ! ' elle murmura d'une voix cassée puis s'arrêta comme si elle était incapable de parler sous le coup de l'émotion“"
+
+# game/day18.rpy:913
+translate french day18_maid_5e04f2e6:
+
+    # p "{i}(I'm still so amazed that [m_name] likes to read this stuff, but I must admit that it gets me rock hard in no-time.)"
+    p "{i}(Je suis toujours aussi étonné que [m_name] aime lire ce genre de choses mais je dois admettre que cela me fait bander en un rien de temps)"
+
+# game/day18.rpy:914
+translate french day18_maid_ef038b95:
+
+    # p "{i}(Let's skip ahead a bit.)"
+    p "{i}(sautons un peu)"
+
+# game/day18.rpy:926
+translate french day18_maid_0f620af9:
+
+    # "{i}“Gripping her tightly, I got my stiff and excited prick against the lips of her cunt, then pushing steadily, I drove it into Alice, burying its head in her.”"
+    "{i}“En la serrant fermement, j'ai mis ma bite raide et excitée contre les lèvres de sa chatte, puis en poussant régulièrement, je l'ai enfoncée dans Alice en enfouissant sa tête dans sa“."
+
+# game/day18.rpy:927
+translate french day18_maid_26b87456:
+
+    # "{i}“Despite her fearful struggles and rapid movements of her buttocks and hips, I made another thrust, entering still further into her cunt, then felt myself blocked!”"
+    "{i}“Malgré ses luttes craintives et les mouvements rapides de ses fesses et de ses hanches, j'ai fait une autre poussée en entrant encore plus profondément dans sa chatte, puis je me suis senti bloqué !“"
+
+# game/day18.rpy:928
+translate french day18_maid_ede421a0:
+
+    # "{i}“Alice screamed agonisedly, 'Oh! ... oh! stop! ... you're hurting me!' throwing herself wildly about in her pain and despair, for she recognised that she was being violated!”"
+    "{i}“Alice a crié avec agonie 'Oh... ! oh... ! arrêtez ! vous me faites mal !' se jetant sauvagement dans sa douleur et son désespoir car elle reconnaissait qu'elle était violée !“"
+
+# game/day18.rpy:929
+translate french day18_maid_cd44c35a:
+
+    # "{i}“Knowing that it was her maiden membrane that was stopping my advance into her, and that this now was the last defence of her virginity, I rammed into her vigorously!”"
+    "{i}“Sachant que c'était sa membrane de jeune fille qui m'empêchait d'avancer en elle et que c'était maintenant la dernière défense de sa virginité, je l'ai pénétrée vigoureusement !“"
+
+# game/day18.rpy:930
+translate french day18_maid_61024364:
+
+    # "{i}“Suddenly I felt something give way inside her and my prick glided well up her cunt, and it did not require the despairing shriek that came from Alice to tell me that I had broken through the last barriers and had conquered her virginity!”"
+    "{i}“Soudain, j'ai senti quelque chose céder en elle et ma bite a glissé dans sa chatte. Il n'a pas fallu le cri de désespoir d'Alice pour me dire que j'avais franchi les dernières barrières et conquis sa virginité !“"
+
+# game/day18.rpy:937
+translate french day18_maid_9e33b280:
+
+    # m "{i}(I could've sworn I packed the sunscreen before heading out. Must've left it in the apartment.)"
+    m "{i}(j'aurais juré avoir mis la crème solaire avant de partir, je dois l'avoir laissée dans l'appartement)"
+
+# game/day18.rpy:942
+translate french day18_maid_a40d63b7:
+
+    # m "{i}(What the... [p_name]?!)"
+    m "{i}(Qu'est-ce que [p_name] ?!)"
+
+# game/day18.rpy:944
+translate french day18_maid_0c7f0877:
+
+    # m "{i}(Is my boy reading my book and masturbating?)"
+    m "{i}(Mon garçon lit-il mon livre et se masturbe-t-il ?)"
+
+# game/day18.rpy:946
+translate french day18_maid_c73ced24:
+
+    # m "{i}(Is [p_name] reading my book and masturbating?)"
+    m "{i}(Est-ce que [p_name] lit mon livre et se masturbe ?)"
+
+# game/day18.rpy:955
+translate french day18_maid_147d18b0:
+
+    # "{i}“Oh! my exultation! At last I had ravished Alice, I had captured her maidenhead, and was now actually fucking her in spite of herself! She, poor girl, lay beneath me, tightly clasped in my arms, a prey to the keenest shame...”"
+    "{i}“Oh ! mon exultation ! Enfin, j'avais ravagé Alice, j'avais capturé sa tête de jeune fille et je la baisais maintenant malgré elle ! La pauvre fille gisait sous moi, serrée dans mes bras, en proie à la honte la plus vive“"
+
+# game/day18.rpy:956
+translate french day18_maid_ed041de3:
+
+    # "{i}“...deprived of her maidenhead, transfixed with my prick, her cunt suffering martyrdom from its sudden distension and smarting with the pain of her violation!”"
+    "{i}“Privée de sa virginité, transie par ma bite, sa chatte souffrant le martyre de sa soudaine distension et piquant la douleur de sa violation !“"
+
+# game/day18.rpy:957
+translate french day18_maid_6eafc778:
+
+    # "{i}“Pitying her, I lay still for some seconds so as to allow the interior of her cunt to stretch a bit, but I was too wrought up and mad with lust to remain inactive long in such surroundings.”"
+    "{i}“La plaignant, je suis resté immobile pendant quelques secondes afin de permettre à l'intérieur de sa chatte de s'étirer un peu, mais j'étais trop excité et fou de désir pour rester inactif longtemps dans un tel environnement“."
+
+# game/day18.rpy:966
+translate french day18_maid_5833b715:
+
+    # m "{i}(He seems really into it. Look at him!)"
+    m "{i}(Il a l'air vraiment à fond Regarde-le !)"
+
+# game/day18.rpy:968
+translate french day18_maid_4ff5e709:
+
+    # m "{i}(My boy has grown big, it seems...)"
+    m "{i}(Mon garçon est devenu grand, semble-t-il)"
+
+# game/day18.rpy:970
+translate french day18_maid_df5e3776:
+
+    # m "{i}(He's a big boy, it seems.)"
+    m "{i}(C'est un grand garçon, semble-t-il)"
+
+# game/day18.rpy:971
+translate french day18_maid_70d7026d:
+
+    # m "{i}(Damnit, what am I thinking?!)"
+    m "{i}(Bon sang, à quoi je pense ?!)"
+
+# game/day18.rpy:981
+translate french day18_maid_582febd5:
+
+    # "{i}“With a final thrust, I sent my prick well home, Alice's hairs and mine interweaving. She shrieked again! Then agitating myself gently on her, I began to fuck her, first with steady strokes of my buttocks...”"
+    "{i}“D'une dernière poussée, j'ai envoyé ma bite bien à l'intérieur, les cheveux d'Alice et les miens s'entremêlant Elle a crié à nouveau ! Puis, m'agitant doucement sur elle, je commençai à la baiser d'abord avec des coups réguliers de mes fesses. “"
+
+# game/day18.rpy:982
+translate french day18_maid_7457d400:
+
+    # "{i}“...then with more rapid and uneven shoves and thrusts, she quivering under me, overwhelmed by her emotions at thus finding her pure body compelled to become the recipient of my lust and by the strangely delicious pleasure that the movements of my prick inside her cunt were arousing in her!”"
+    "{i}“...puis avec des poussées plus rapides et inégales, elle frémit sous moi, submergée par ses émotions de voir ainsi son corps pur contraint de devenir le réceptacle de ma luxure et par le plaisir étrangement délicieux que les mouvements de ma bite à l'intérieur de sa chatte suscitaient en elle !“"
+
+# game/day18.rpy:984
+translate french day18_maid_749ef453:
+
+    # "{i}“Clasping her yielding figure still more closely against me, I let myself go - thrusting, ramming, shoving and agitating my prick spasmodically in her, I frenziedly set to work to fuck her!”"
+    "{i}“Serrant sa silhouette cédante encore plus étroitement contre moi, je me suis laissé aller - poussant, éperonnant, bousculant et agitant spasmodiquement ma bite en elle, je me suis mis frénétiquement à la baiser !“"
+
+# game/day18.rpy:991
+translate french day18_maid_8795af3b:
+
+    # "{i}“A storm of rapid tumultuous jogs, a half strangled 'oh! ... oh!! ... oh!!! ...' from Alice and I spent deliriously into her, deluging her with my hot discharge...”"
+    "{i}“Une tempête de joggings rapides et tumultueux, un 'oh... ! oh... !! oh... !!!' à moitié étranglé de la part d'Alice et je me suis dépensé avec délire en elle, l'inondant de ma chaude décharge. de la part d'Alice et je me suis dépensé sans compter en l'inondant de ma chaude décharge."
+
+# game/day18.rpy:992
+translate french day18_maid_3684dd0e:
+
+    # "{i}“...at the same moment feeling the head of my prick christened by the warm gush that burst from Alice as she also frantically spent, punctuating the pulsations of her discharge by voluptuous upheavings of her wildly agitated bottom.”"
+    "{i}“tout en sentant la tête de ma bite baptisée par le jaillissement chaud qui jaillit d'Alice alors qu'elle se dépensait frénétiquement en ponctuant les pulsations de sa décharge par des soulèvements voluptueux de ses fesses sauvagement agitées“."
+
+# game/day18.rpy:1001
+translate french day18_maid_db42f9b8:
+
+    # p "Aaaah! Fuck yes!"
+    p "Aaaah ! Putain oui !"
+
+# game/day18.rpy:1002
+translate french day18_maid_a61b0c89:
+
+    # m "{i}(Why am I still watching him? I should have given him the privacy he deserves.)"
+    m "{i}(Pourquoi est-ce que je le surveille encore ? J'aurais dû lui laisser l'intimité qu'il mérite)"
+
+# game/day18.rpy:1003
+translate french day18_maid_a06fa2b0:
+
+    # m "{i}(But still... That was oddly arousing.)"
+    m "{i}(Mais quand même C'était étrangement excitant)"
+
+# game/day18.rpy:1007
+translate french day18_maid_9c16b614:
+
+    # p "{i}(Damn, that was great!)"
+    p "{i}(C'était génial !)"
+

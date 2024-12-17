@@ -4925,3 +4925,34 @@ translate french b_relationship_hard_drive_choices_e8f0e434:
     # p "{i}(...)"
     p "{i}(...)"
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day11.rpy:1191
+translate french day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "Allons nous câliner et nous endormir ensemble alors !"
+
+# game/day11.rpy:1192
+translate french day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Bonne idée"
+
+# game/day11.rpy:1195
+translate french day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Vous vous endormez avec votre sœur nue à côté de vous Votre membre gonflé pousse doucement contre ses fesses douces mais elle ne semble pas s'en préoccuper à en juger par ses murmures tranquilles et satisfaits."
+
+# game/day11.rpy:1197
+translate french day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Vous vous endormez avec [r_name] à vos côtés Votre membre gonflé pousse doucement contre ses fesses douces mais elle ne semble pas s'en préoccuper à en juger par ses murmures tranquilles et satisfaits"
+
+# game/day11.rpy:1202
+translate french day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Dès que vous posez votre tête sur l'oreiller, vous vous endormez."

@@ -3861,7 +3861,7 @@ translate french day17_rb_sex_post_8c961780:
 translate french day17_rb_sex_post_4abbac46:
 
     # "{i}Nia bends her body in such a way that resembles a perverted version of an 'asana'. Her gaping pussy is ready again for your penis, and you don't hold back this time. Your balls slap against her pussy as you drive your cock mercilessly into her."
-    "{i}Nia plie son corps d'une manière qui ressemble à une version pervertie d'un "asana". Sa chatte béante est à nouveau prête à recevoir votre pénis, et vous ne vous retenez pas cette fois. Vos couilles claquent contre sa chatte tandis que vous l'enfoncez sans pitié."
+    "{i}Nia plie son corps d'une manière qui ressemble à une version pervertie d'a "asana". Sa chatte béante est à nouveau prête à recevoir votre pénis, et vous ne vous retenez pas cette fois. Vos couilles claquent contre sa chatte tandis que vous l'enfoncez sans pitié."
 
 # game/day17.rpy:939
 translate french day17_rb_sex_post_e8ccb902:
@@ -3900,3 +3900,1250 @@ translate french day17_choices_cf30d2c8:
 
     # "{i}You head to the bike rental with [m_name] and [l_name], somewhere on the beach."
     "{i}Vous vous rendez à la location de vélos avec [m_name] et [l_name] quelque part sur la plage."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day17.rpy:776
+translate french day17_n_r_sex_021c6f24:
+
+    # p "How could I refuse two lovely ladies with a gift?"
+    p "Comment pourrais-je refuser un cadeau à deux charmantes dames ?"
+
+# game/day17.rpy:777
+translate french day17_n_r_sex_a52c3b00:
+
+    # n "Haha! Exactly."
+    n "Haha ! Exactement"
+
+# game/day17.rpy:778
+translate french day17_n_r_sex_8cfba3f6:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor, together with Nia."
+    r "Tu m'as fait sentir si bien avec ta langue l'autre soir et j'aimerais te rendre la pareille avec Nia."
+
+# game/day17.rpy:779
+translate french day17_n_r_sex_04b03468:
+
+    # p "{i}(Woah! A double blowjob?!)"
+    p "{i}(Woah ! Une double pipe ?!)"
+
+# game/day17.rpy:780
+translate french day17_n_r_sex_e469c1b1:
+
+    # n "Just lie still, [p_name], we're going to do all the work for you."
+    n "Restez tranquille [p_name], nous allons faire tout le travail pour vous."
+
+# game/day17.rpy:785
+translate french day17_n_r_sex_dad24c60:
+
+    # "{i}[r_name] and Nia giggle and kneel before you."
+    "{i}[r_name] et Nia gloussent et s'agenouillent devant vous"
+
+# game/day17.rpy:786
+translate french day17_n_r_sex_1c5dfd87:
+
+    # n "Should we lose our remaining clothes, [r_name]?"
+    n "Devrions-nous perdre nos vêtements restants [r_name] ?"
+
+# game/day17.rpy:787
+translate french day17_n_r_sex_7f06dc70:
+
+    # r "I'm not sure. Would that make [p_name] happy, you think?"
+    r "Je ne suis pas sûr Est-ce que cela rendrait [p_name] heureux à votre avis ?"
+
+# game/day17.rpy:788
+translate french day17_n_r_sex_5ce0758a:
+
+    # p "{i}(Lose the clothes, please, lose the clothes!)"
+    p "{i}(Perdez les vêtements, s'il vous plaît, perdez les vêtements !)"
+
+# game/day17.rpy:789
+translate french day17_n_r_sex_a9c7c4a0:
+
+    # n "I'm not sure... Let's try it..."
+    n "Je ne suis pas sûr Essayons."
+
+# game/day17.rpy:790
+translate french day17_n_r_sex_d4cced53:
+
+    # n "I think it worked!"
+    n "Je crois que ça a marché !"
+
+# game/day17.rpy:791
+translate french day17_n_r_sex_d71a9447:
+
+    # r "It sure did. But now he still has his clothes on..."
+    r "C'est sûr Mais maintenant il a encore ses vêtements"
+
+# game/day17.rpy:792
+translate french day17_n_r_sex_d55373fa:
+
+    # n "That's unfair."
+    n "C'est injuste"
+
+# game/day17.rpy:794
+translate french day17_n_r_sex_b9aa68e5:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to your sister in one fluid motion."
+    "{i}Nia se lève, enlève tes sous-vêtements et s'assoit à côté de ta sœur d'un seul mouvement fluide."
+# game/day17.rpy:796
+translate french day17_n_r_sex_fad81a4e:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to [r_name] in one fluid motion."
+    "{i}Nia se lève, enlève tes sous-vêtements et s'assoit à côté de [r_name] d'un seul mouvement fluide."
+# game/day17.rpy:797
+translate french day17_n_r_sex_fb2818ad:
+
+    # n "That's better."
+    n "C'est mieux"
+
+# game/day17.rpy:798
+translate french day17_n_r_sex_32b7f6ec:
+
+    # n "And he's hard already. Nice."
+    n "Et il est déjà dur Nice"
+
+# game/day17.rpy:799
+translate french day17_n_r_sex_00568fa3:
+
+    # r "Let's see if we can make him harder."
+    r "Voyons si nous pouvons le rendre plus dur"
+
+# game/day17.rpy:800
+translate french day17_n_r_sex_5e1fdbeb:
+
+    # n "Good idea."
+    n "Bonne idée"
+
+# game/day17.rpy:802
+translate french day17_n_r_sex_8cc40cc1:
+
+    # "{i}[r_name] and Nia kiss each other tenderly at first, but soon lust overtakes them both and their tongues intertwine passionately."
+    "{i}[r_name] et Nia s'embrassent d'abord tendrement, mais le désir les envahit bientôt et leurs langues s'entremêlent passionnément."
+
+# game/day17.rpy:803
+translate french day17_n_r_sex_e69310a3:
+
+    # n "Mmmm, someone else is ready as well."
+    n "Mmmm quelqu'un d'autre est prêt aussi."
+
+# game/day17.rpy:804
+translate french day17_n_r_sex_1fef6015:
+
+    # r "So it seems."
+    r "Il semblerait"
+
+# game/day17.rpy:805
+translate french day17_n_r_sex_b9ec79a6:
+
+    # "{i}As you admire the girl's foreplay, precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Alors que tu admires les préliminaires de la fille, du précum s'écoule de ta bite. Ton extrémité humide scintille au clair de lune."
+# game/day17.rpy:806
+translate french day17_n_r_sex_c16042cb:
+
+    # r "[p_name] deserves a kiss as well."
+    r "[p_name] mérite aussi un baiser"
+
+# game/day17.rpy:809
+translate french day17_n_r_sex_3d1138bf:
+
+    # "{i}Nia and your sister crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Les mamelons de [r_name] touchent brièvement la peau sensible de ton gland et la petite bande de poils pubiens de Nia chatouille contre ta cuisse."
+# game/day17.rpy:811
+translate french day17_n_r_sex_3ad3baef:
+
+    # "{i}Nia and [r_name] crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Les mamelons de [r_name] touchent brièvement la peau sensible de votre gland et la petite bande de poils pubiens de Nia chatouille contre votre cuisse."
+# game/day17.rpy:813
+translate french day17_n_r_sex_fc56b76f:
+
+    # "{i}With eager lips, the girls take turns kissing you. While you french kiss Nia, [r_name] slowly moves down to your erect dick and touches it lightly with her fingertips."
+    "{i}Avec des lèvres avides, les filles vous embrassent à tour de rôle Pendant que vous vous embrassez, Nia [r_name] descend lentement jusqu'à votre bite en érection et l'effleure du bout des doigts."
+# game/day17.rpy:814
+translate french day17_n_r_sex_dcb6d597:
+
+    # r "There's something to kiss down here too, Nia."
+    r "Il y a quelque chose à embrasser ici aussi, Nia."
+
+# game/day17.rpy:820
+translate french day17_n_r_sex_3679276d:
+
+    # "{i}Your sister is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}Ta sœur est rejointe par Nia et ensemble, elles embrassent et lèchent ta tige en laissant des traces humides sur toute sa surface."
+# game/day17.rpy:822
+translate french day17_n_r_sex_97b28fe6:
+
+    # "{i}[r_name] is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}[r_name] est rejoint par Nia et ensemble elles embrassent et lèchent ta tige en laissant des traces humides sur toute la surface."
+
+# game/day17.rpy:823
+translate french day17_n_r_sex_b6cca7cc:
+
+    # r "Mmmmm, I can taste him already, can't you Nia?"
+    r "Mmmmm Je peux déjà le goûter, n'est-ce pas Nia ?"
+
+# game/day17.rpy:824
+translate french day17_n_r_sex_589f1e51:
+
+    # n "Yes! And I want more."
+    n "Oui ! et j'en veux encore"
+
+# game/day17.rpy:826
+translate french day17_n_r_sex_c42ee524:
+
+    # "{i}[r_name] gives Nia the space and looks at her intently, obviously wanting to learn from the other girl. Nia's mouth softly wraps around the tip of your cock, and the film of precum is soon mixed with her saliva as she sucks and licks the tip."
+    "{i}La bouche de Nia entoure doucement le bout de votre bite et la pellicule de précum est bientôt mélangée à sa salive alors qu'elle suce et lèche le bout."
+
+# game/day17.rpy:827
+translate french day17_n_r_sex_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Est-ce que ça fait du bien à [p_name] ?"
+
+# game/day17.rpy:828
+translate french day17_n_r_sex_b2603c13:
+
+    # "{i}Right at that moment, Nia takes nearly the entire length of your penis in her mouth and caresses it with her darting tongue."
+    "{i}A ce moment-là, Nia prend presque toute la longueur de ton pénis dans sa bouche et le caresse avec sa langue."
+# game/day17.rpy:829
+translate french day17_n_r_sex_a6ae68d7:
+
+    # p "God yes!"
+    p "Dieu oui !"
+
+# game/day17.rpy:830
+translate french day17_n_r_sex_55d0763c:
+
+    # n "Mmmmmm!"
+    n "Mmmmmm !"
+
+# game/day17.rpy:831
+translate french day17_n_r_sex_5121b425:
+
+    # p "Keep going Nia, aaaaah!"
+    p "Continue Nia aaaaah !"
+
+# game/day17.rpy:832
+translate french day17_n_r_sex_6f96f19a:
+
+    # "{i}Nia's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by [r_name] gently massaging your balls which are by now covered in streams of saliva."
+    "{i}La bouche de Nia stimule votre bite sous tous les angles, une sensation paradisiaque qui est renforcée par le fait que [r_name] masse doucement vos couilles qui sont maintenant couvertes de salive."
+# game/day17.rpy:837
+translate french day17_n_r_sex_9eba972b:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by your sister and they swap places."
+    "{i}Nia se laisse doucement écarter de ta bite par ta sœur et elles échangent leurs places."
+# game/day17.rpy:839
+translate french day17_n_r_sex_54b94af2:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by [r_name] and they swap places."
+    "{i}Nia se laisse doucement écarter de ta bite par [r_name] et elles échangent leurs places."
+# game/day17.rpy:844
+translate french day17_n_r_sex_a6022d68:
+
+    # "{i}[r_name] is clearly less experienced and the first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name] est clairement moins expérimentée et les premiers mouvements de sa bouche sur votre bite sont un peu maladroits, mais son regard concentré et sa volonté d'apprendre rendent les choses encore plus chaudes"
+
+# game/day17.rpy:845
+translate french day17_n_r_sex_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "C'est bien ça Utilise ta langue [r_name] enroule tes lèvres autour de ma bite"
+
+# game/day17.rpy:847
+translate french day17_n_r_sex_7a2893e1:
+
+    # n "How does that feel, [r_name], your brother's big cock inside your mouth?"
+    n "Qu'est-ce que ça fait [r_name] la grosse bite de ton frère dans ta bouche ?"
+
+# game/day17.rpy:849
+translate french day17_n_r_sex_7f5a0272:
+
+    # n "How does that feel, [r_name], [p_name]'s big cock inside your mouth?"
+    n "Qu'est-ce que ça fait la grosse bite de [r_name] [p_name] dans ta bouche ?"
+
+# game/day17.rpy:850
+translate french day17_n_r_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm !"
+
+# game/day17.rpy:851
+translate french day17_n_r_sex_f7a09ae6:
+
+    # n "Good, isn't it? I made it all wet for you..."
+    n "C'est bien, n'est-ce pas ? J'ai tout mouillé pour toi"
+
+# game/day17.rpy:852
+translate french day17_n_r_sex_ef34156c:
+
+    # n "Are you going to make him cum with your pretty little mouth?"
+    n "Tu vas le faire jouir avec ta jolie petite bouche ?"
+
+# game/day17.rpy:853
+translate french day17_n_r_sex_1dc344f3:
+
+    # "{i}Nia's words spur [r_name] to really give herself over to sucking your cock with abandon, and pretty soon the room is filled with the sounds of her slobbering on your penis. Meanwhile, Nia massages your balls and strokes your thighs, and occasionally slides up the couch to kiss you wantonly."
+    "{i}Les mots de Nia incitent [r_name] à se donner à fond pour sucer votre bite avec abandon et bientôt la pièce est remplie du son de sa bave sur votre pénis. Pendant ce temps, Nia masse vos couilles et caresse vos cuisses et se glisse de temps en temps sur le canapé pour vous embrasser sans retenue."
+# game/day17.rpy:854
+translate french day17_n_r_sex_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah [r_name] Je suis si proche !"
+
+# game/day17.rpy:855
+translate french day17_n_r_sex_6a665f9f:
+
+    # n "Shall we make him cum together?"
+    n "On le fait jouir ensemble ?"
+
+# game/day17.rpy:856
+translate french day17_n_r_sex_67d6aa19:
+
+    # r "That's a good idea."
+    r "C'est une bonne idée"
+
+# game/day17.rpy:858
+translate french day17_n_r_sex_ae3e2bcb:
+
+    # "{i}The girls position themselves at each side of your cock and begin to lick and suck the length of your shaft, sometimes stopping to kiss each other."
+    "{i}Les filles se placent de chaque côté de votre bite et commencent à lécher et à sucer la longueur de votre tige en s'arrêtant parfois pour s'embrasser les unes les autres."
+# game/day17.rpy:859
+translate french day17_n_r_sex_205d546f:
+
+    # n "Are you going to cum in our mouths, [p_name]?"
+    n "Vas-tu éjaculer dans nos bouches [p_name] ?"
+
+# game/day17.rpy:860
+translate french day17_n_r_sex_1ff0de98:
+
+    # r "You'd like that, wouldn't you?"
+    r "Vous aimeriez ça, n'est-ce pas ?"
+
+# game/day17.rpy:861
+translate french day17_n_r_sex_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "Oui, oui, oui !"
+
+# game/day17.rpy:863
+translate french day17_n_r_sex_6d40e142:
+
+    # "{i}It's your sister that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}C'est votre sœur qui vous fait basculer Lorsqu'elle lèche le gland de votre pénis, vous sentez les premières vagues de votre orgasme déferler dans votre corps."
+# game/day17.rpy:865
+translate french day17_n_r_sex_8a8d7975:
+
+    # "{i}It's [r_name] that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}C'est [r_name] qui vous fait basculer Lorsqu'elle lèche le gland de votre pénis, vous sentez les premières vagues de votre orgasme déferler dans votre corps."
+# game/day17.rpy:872
+translate french day17_n_r_sex_5ea5b12a:
+
+    # "{i}Nia senses that you're ready and motions [r_name] to kneel, their mouths open before your throbbing cock. Big streams of semen shoot on their faces and in their mouths."
+    "{i}Nia sent que tu es prêt et demande à [r_name] de s'agenouiller, la bouche ouverte devant ta bite palpitante. De gros jets de sperme jaillissent sur leurs visages et dans leurs bouches."
+# game/day17.rpy:873
+translate french day17_n_r_sex_64a20ab7:
+
+    # n "Yes! Shower us with cum!"
+    n "Oui, arrosez-nous de sperme !"
+
+# game/day17.rpy:874
+translate french day17_n_r_sex_124be57b:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into their mouths."
+    "{i}Vous avez retrouvé un peu de votre calme pendant les derniers spasmes de votre orgasme et vous êtes capable de déposer plusieurs giclées directement dans leurs bouches."
+# game/day17.rpy:877
+translate french day17_n_r_sex_e95876b8:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from your sister's face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Nia ne dit rien et lèche lentement les gouttes de sperme sur le visage de votre sœur avant de tout avaler. Les filles terminent par un long baiser avec leurs lèvres peintes de sperme."
+# game/day17.rpy:879
+translate french day17_n_r_sex_adfc3258:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from [r_name]'s face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Nia ne dit rien et lèche lentement les gouttes de sperme sur le visage de [r_name] avant de tout avaler. Les filles terminent par un long baiser avec leurs lèvres peintes de sperme."
+# game/day17.rpy:880
+translate french day17_n_r_sex_8359c75d:
+
+    # r "Mmmm! There was so much of it!"
+    r "Mmmm ! Il y en avait tellement !"
+
+# game/day17.rpy:889
+translate french day17_n_r_sex_ea059714:
+
+    # n "There sure was. How long have you been saving all that for us, [p_name]?"
+    n "Il y en a eu Combien de temps as-tu gardé tout ça pour nous [p_name] ?"
+
+# game/day17.rpy:890
+translate french day17_n_r_sex_0c3613aa:
+
+    # p "I'm... I'm... not sure... what year is this again?"
+    p "Je ne suis pas sûr de savoir en quelle année nous sommes déjà ?"
+
+# game/day17.rpy:891
+translate french day17_n_r_sex_689a8fb3:
+
+    # r "Sweet dreams, [p_name]!"
+    r "Fais de beaux rêves [p_name] !"
+
+# game/day17.rpy:892
+translate french day17_n_r_sex_da44e347:
+
+    # n "Hope you sleep well!"
+    n "J'espère que vous dormirez bien !"
+
+# game/day17.rpy:893
+translate french day17_n_r_sex_2f3dc07e:
+
+    # p "I'm sure I will. Good night girls!"
+    p "Je suis sûr que je le ferai Bonne nuit les filles !"
+
+# game/day17.rpy:894
+translate french day17_n_r_sex_a9ad1689:
+
+    # "{i}[r_name] and Nia leave you on the couch without another word, and softly giggling they climb the stairs, back to Nia's bedroom."
+    "{i}[r_name] et Nia vous laissent sur le canapé sans un mot de plus et en riant doucement elles montent les escaliers pour retourner dans la chambre de Nia."
+
+# game/day17.rpy:926
+translate french day17_n_sex_a45d60e9:
+
+    # n "Psst, [p_name]?!"
+    n "Psst [p_name] ?!"
+
+# game/day17.rpy:928
+translate french day17_n_sex_57978f1e:
+
+    # p "Huh? Nia?"
+    p "Huh ? Nia ?"
+
+# game/day17.rpy:931
+translate french day17_n_sex_b1147461:
+
+    # p "Back again?"
+    p "De retour ?"
+
+# game/day17.rpy:932
+translate french day17_n_sex_aa37de39:
+
+    # n "Yes..."
+    n "Oui"
+
+# game/day17.rpy:933
+translate french day17_n_sex_1c277469:
+
+    # p "What's the matter?"
+    p "Qu'est-ce qu'il y a ?"
+
+# game/day17.rpy:936
+translate french day17_n_sex_16403a37:
+
+    # n "I really liked what your sister and I did earlier. But..."
+    n "J'ai beaucoup aimé ce que ta sœur et moi avons fait tout à l'heure Mais"
+
+# game/day17.rpy:938
+translate french day17_n_sex_d72995b3:
+
+    # n "I really liked what [r_name] and I did earlier. But..."
+    n "J'ai beaucoup aimé ce que [r_name] et moi avons fait tout à l'heure Mais"
+
+# game/day17.rpy:939
+translate french day17_n_sex_703f80cf:
+
+    # n "I want more... And I hope you do too."
+    n "J'en veux plus et j'espère que vous en voulez aussi."
+
+# game/day17.rpy:940
+translate french day17_n_sex_f8a55781:
+
+    # p "I'm always up for more."
+    p "Je suis toujours prêt à en faire plus"
+
+# game/day17.rpy:941
+translate french day17_n_sex_f2416b76:
+
+    # n "Yeah, do you still have some juice left?"
+    n "Ouais, est-ce qu'il te reste du jus ?"
+
+# game/day17.rpy:942
+translate french day17_n_sex_2d8790b2:
+
+    # p "Plenty."
+    p "Beaucoup"
+
+# game/day17.rpy:944
+translate french day17_n_sex_9e955ca9:
+
+    # n "The one and only."
+    n "Le seul et l'unique"
+
+# game/day17.rpy:945
+translate french day17_n_sex_49a15ca3:
+
+    # p "You're uh... not wearing much..."
+    p "Tu ne portes pas grand-chose"
+
+# game/day17.rpy:949
+translate french day17_n_sex_96f34a9a:
+
+    # n "We've already had that little conversation during yoga class and I think you're funny and don't look too bad as well."
+    n "Nous avons déjà eu cette petite conversation pendant le cours de yoga et je pense que tu es drôle et que tu n'as pas l'air trop mal en point non plus."
+
+# game/day17.rpy:951
+translate french day17_n_sex_dc848de3:
+
+    # n "You interest me, [p_name]. I think you're funny and you don't look too bad as well."
+    n "Vous m'intéressez [p_name] Je vous trouve drôle et vous n'avez pas l'air trop mal non plus"
+
+# game/day17.rpy:952
+translate french day17_n_sex_7e565f3e:
+
+    # p "Errr. Thanks, I guess."
+    p "Errr Merci je suppose"
+
+# game/day17.rpy:953
+translate french day17_n_sex_64ed2a81:
+
+    # n "And I'm sure you won't be around here forever, with you being on vacation and all... So I'd like to seize the moment."
+    n "Et je suis sûr que tu ne seras pas là pour toujours, avec tes vacances et tout ça, alors j'aimerais profiter du moment."
+
+# game/day17.rpy:954
+translate french day17_n_sex_88384a9d:
+
+    # p "{i}(I like where this is going.)"
+    p "{i}(J'aime la direction prise)"
+
+# game/day17.rpy:957
+translate french day17_n_sex_52d0a016:
+
+    # n "You clearly enjoyed yoga class today."
+    n "Vous avez manifestement apprécié le cours de yoga aujourd'hui"
+
+# game/day17.rpy:958
+translate french day17_n_sex_b7f11957:
+
+    # p "Mostly because of all the hot girls in tight clothing."
+    p "Principalement à cause de toutes les filles sexy portant des vêtements moulants"
+
+# game/day17.rpy:959
+translate french day17_n_sex_f8ba9b92:
+
+    # n "Understandable."
+    n "Compréhensible"
+
+# game/day17.rpy:960
+translate french day17_n_sex_88733f91:
+
+    # n "I thought maybe you'd be interested in a more advanced lesson. The way the human body can bend and stretch in interesting ways is simply amazing."
+    n "J'ai pensé que vous seriez peut-être intéressé par une leçon plus avancée La façon dont le corps humain peut se plier et s'étirer de manière intéressante est tout simplement stupéfiante."
+
+# game/day17.rpy:961
+translate french day17_n_sex_059c9cd9:
+
+    # p "When it comes to learning I'm always very, very eager..."
+    p "Quand il s'agit d'apprendre, je suis toujours très enthousiaste"
+
+# game/day17.rpy:963
+translate french day17_n_sex_4de57e6a:
+
+    # n "Do you want me, [p_name]?"
+    n "Voulez-vous que je [p_name] ?"
+
+# game/day17.rpy:964
+translate french day17_n_sex_fe13d2fd:
+
+    # n "I want you to make love to me."
+    n "Je veux que tu me fasses l'amour."
+
+# game/day17.rpy:968
+translate french day17_n_sex_57f8ce16:
+
+    # p "Of course, beautiful!"
+    p "Bien sûr que c'est beau !"
+
+# game/day17.rpy:972
+translate french day17_n_sex_aac35e7b:
+
+    # p "Sorry Nia, but I'm not interested."
+    p "Désolé Nia mais je ne suis pas intéressé"
+
+# game/day17.rpy:974
+translate french day17_n_sex_2dcfcd11:
+
+    # "{i}Without saying a word, Nia leaves as quietly as she came. You doze off immediately after and sleep deeply for the remainder of the night."
+    "{i}Sans dire un mot, Nia s'en va aussi silencieusement qu'elle est venue Vous vous assoupissez immédiatement après et vous dormez profondément pour le reste de la nuit."
+
+# game/day17.rpy:978
+translate french day17_n_sex_b2fa37a9:
+
+    # p "{i}(Best. Din-aww fuck it, I'm getting laid again!)"
+    p "{i}(Best Din-aww fuck it I'm getting laid again !)"
+
+# game/day17.rpy:980
+translate french day17_n_sex_74fc6d57:
+
+    # p "{i}(I'm becoming a big fan of the concept of 'sleepovers'.)"
+    p "{i}(Je suis en train de devenir un grand fan du concept de 'soirée pyjama')"
+
+# game/day17.rpy:983
+translate french day17_n_sex_3c2f1232:
+
+    # n "Good!"
+    n "Bien !"
+
+# game/day17.rpy:986
+translate french day17_n_sex_f915d80a:
+
+    # "{i}Nia kneels before you and grabs your rapidly growing cock. You kiss her neck and grab her small, firm breasts. Her nipples are already hard and Nia's breathing becomes heavier."
+    "{i}Nia s'agenouille devant vous et saisit votre bite qui grossit rapidement Vous embrassez son cou et saisissez ses petits seins fermes Ses mamelons sont déjà durs et la respiration de Nia devient plus lourde."
+
+# game/day17.rpy:987
+translate french day17_n_sex_fa482016:
+
+    # n "The first exercise is called the Downward Facing Cocksucker."
+    n "Le premier exercice s'appelle l'enculé tourné vers le bas."
+
+# game/day17.rpy:988
+translate french day17_n_sex_939cfc19:
+
+    # p "Sounds like a great way to train those often neglected facial muscles."
+    p "Cela semble être un bon moyen d'entraîner les muscles faciaux souvent négligés."
+
+# game/day17.rpy:993
+translate french day17_n_sex_fc45939f:
+
+    # "{i}The athletic girl stands up and bends down sharply, seemingly without effort. Your cock is in her mouth before you know it, and her ass is positioned invitingly in front of your face."
+    "{i}La fille athlétique se lève et se penche brusquement, apparemment sans effort. Votre bite est dans sa bouche avant que vous ne vous en rendiez compte et son cul est positionné de manière invitante devant votre visage."
+# game/day17.rpy:998
+translate french day17_n_sex_a61b4a81:
+
+    # "{i}She blows you with the same great technique you experienced earlier this night. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Sa langue fait des mouvements rapides sur ta tête gonflée et tu fais de même avec sa chatte et son clitoris."
+
+# game/day17.rpy:1000
+translate french day17_n_sex_680eda3b:
+
+    # "{i}Her technique is perfect. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Sa technique est parfaite. Sa langue fait des mouvements rapides sur ta tête gonflée et tu fais de même avec sa chatte et son clitoris."
+# game/day17.rpy:1001
+translate french day17_n_sex_ebe0f1ca:
+
+    # n "Mmmmm!"
+    n "Mmmmm !"
+
+# game/day17.rpy:1002
+translate french day17_n_sex_0ed239d7:
+
+    # n "Ohhhh!"
+    n "Ohhhh !"
+
+# game/day17.rpy:1007
+translate french day17_n_sex_57d99eee:
+
+    # "{i}You stop licking her pussy and pull her gently from your cock."
+    "{i}Tu arrêtes de lécher sa chatte et tu la retires doucement de ta queue."
+# game/day17.rpy:1008
+translate french day17_n_sex_ca6c83e8:
+
+    # p "I already know you can give a great blowjob. I'd like to explore that little wet slit of yours a bit further."
+    p "Je sais déjà que tu peux faire une bonne pipe, mais j'aimerais explorer un peu plus ta petite fente humide."
+
+# game/day17.rpy:1009
+translate french day17_n_sex_45d38e93:
+
+    # n "Mmmm, I liked what you were doing with it."
+    n "Mmmm j'ai aimé ce que tu as fait avec."
+
+# game/day17.rpy:1010
+translate french day17_n_sex_ad885e52:
+
+    # p "Spread your legs for me, baby."
+    p "Ecarte tes jambes pour moi bébé"
+
+# game/day17.rpy:1015
+translate french day17_n_sex_15165c05:
+
+    # "{i}Nia spreads and bends down again to give you the perfect view of her tight pussy and her little asshole. When you enter her you feel a slight resistance."
+    "{i}Nia s'écarte et se penche à nouveau pour vous donner une vue parfaite de sa chatte serrée et de son petit trou du cul Lorsque vous la pénétrez, vous sentez une légère résistance"
+
+# game/day17.rpy:1016
+translate french day17_n_sex_b4f501ba:
+
+    # p "Am I going too fast?"
+    p "Est-ce que je vais trop vite ?"
+
+# game/day17.rpy:1017
+translate french day17_n_sex_74a65443:
+
+    # n "No, keep going. You're bigger than I expected."
+    n "Non continuez Vous êtes plus grand que je ne le pensais"
+
+# game/day17.rpy:1018
+translate french day17_n_sex_2810f87f:
+
+    # "{i}You slowly push your cock further inside her. Nia relaxes visibly and her gasps become soft moans of pleasure."
+    "{i}Nia se détend visiblement et ses halètements se transforment en doux gémissements de plaisir."
+# game/day17.rpy:1019
+translate french day17_n_sex_7d3ddce0:
+
+    # n "Mmmm, that's it."
+    n "Mmmm c'est ça"
+
+# game/day17.rpy:1023
+translate french day17_n_sex_04dd7f78:
+
+    # "{i}After waiting for a short while to let Nia get fully accustomed to your size, you establish a gentle rhythm, letting Nia feel the entire length of your throbbing cock each time you penetrate her."
+    "{i}Après avoir attendu un peu pour permettre à Nia de s'habituer à votre taille, vous établissez un rythme doux permettant à Nia de sentir toute la longueur de votre bite palpitante à chaque fois que vous la pénétrez."
+# game/day17.rpy:1024
+translate french day17_n_sex_e04ee9b5:
+
+    # n "Aaah yes! Keep doing that! Right there!"
+    n "Aaah oui ! Continuez à faire ça ! Juste là !"
+
+# game/day17.rpy:1026
+translate french day17_n_sex_8c961780:
+
+    # "{i}The moisture of her cunt acting as a natural lubricant, you feel you can pick up the pace and start to quicken your thrusts. Nia moans as if to encourage you further."
+    "{i}L'humidité de sa chatte agissant comme un lubrifiant naturel, vous sentez que vous pouvez accélérer le rythme et vous commencez à accélérer vos poussées, Nia gémit comme pour vous encourager davantage."
+# game/day17.rpy:1027
+translate french day17_n_sex_24fd4500:
+
+    # n "Want to try another position?"
+    n "Voulez-vous essayer une autre position ?"
+
+# game/day17.rpy:1029
+translate french day17_n_sex_4abbac46:
+
+    # "{i}Nia bends her body in such a way that resembles a perverted version of an 'asana'. Her gaping pussy is ready again for your penis, and you don't hold back this time. Your balls slap against her pussy as you drive your cock mercilessly into her."
+    "{i}Nia plie son corps d'une manière qui ressemble à une version pervertie d'une 'asana' Sa chatte béante est à nouveau prête pour ton pénis et tu ne te retiens pas cette fois Tes couilles claquent contre sa chatte alors que tu enfonces ta bite sans pitié en elle."
+
+# game/day17.rpy:1030
+translate french day17_n_sex_ef16aad3:
+
+    # n "G-g-god [p_name]! Fuck me!"
+    n "G-g-god [p_name] ! Baise-moi !"
+
+# game/day17.rpy:1035
+translate french day17_n_sex_e8ccb902:
+
+    # "{i}Mad with lust, you grab her thighs and lift Nia from the ground. She stabilizes herself with her hands as you slam your cock to the root inside of her pussy with firm piston-like movements, still holding her tautened thighs."
+    "{i}Elle se stabilise avec ses mains pendant que vous enfoncez votre bite jusqu'à la racine à l'intérieur de sa chatte avec des mouvements fermes de piston, tout en tenant ses cuisses tendues."
+# game/day17.rpy:1036
+translate french day17_n_sex_eca46522:
+
+    # n "Fuck me harder, [p_name]!"
+    n "Baise-moi plus fort [p_name] !"
+
+# game/day17.rpy:1037
+translate french day17_n_sex_9c5e215e:
+
+    # p "Yes Nia! I'm so close!"
+    p "Oui Nia ! Je suis si proche !"
+
+# game/day17.rpy:1039
+translate french day17_n_sex_4a6a6a8a:
+
+    # n "I want to taste your cum again, let me have it! In my mouth please!"
+    n "Je veux goûter ton sperme encore une fois, laisse-moi l'avoir ! Dans ma bouche, s'il te plaît !"
+
+# game/day17.rpy:1041
+translate french day17_n_sex_21aa5c1b:
+
+    # n "I want to taste your cum, let me have it! In my mouth please!"
+    n "Je veux goûter ton sperme, laisse-moi le faire ! Dans ma bouche, s'il te plaît !"
+
+# game/day17.rpy:1048
+translate french day17_n_sex_0aa9b0aa:
+
+    # "{i}As soon as you feel your cock twitching in the onset of your orgasm, you pull out of Nia, lift her head slightly and finish in her open mouth."
+    "{i}Dès que vous sentez votre bite tressaillir au début de votre orgasme, vous vous retirez de Nia, vous soulevez légèrement sa tête et vous terminez dans sa bouche ouverte."
+# game/day17.rpy:1049
+translate french day17_n_sex_b795223f:
+
+    # p "Aaaah!"
+    p "Aaaah !"
+
+# game/day17.rpy:1050
+translate french day17_n_sex_9909950d:
+
+    # n "Yes! Yes! More!"
+    "Oui ! Oui ! Encore !"
+
+# game/day17.rpy:1051
+translate french day17_n_sex_03612561:
+
+    # "{i}Semen is leaking from the corners of her mouth as you spasm in the last throes of your orgasm."
+    "{i}Le sperme s'échappe des coins de sa bouche alors que vous êtes dans les derniers soubresauts de votre orgasme."
+# game/day17.rpy:1057
+translate french day17_n_sex_3340861d:
+
+    # p "You showed some crazy elastic moves back there."
+    p "Vous avez montré quelques mouvements élastiques fous là-bas"
+
+# game/day17.rpy:1058
+translate french day17_n_sex_8cf0fef4:
+
+    # n "Don't underestimate the power of yoga."
+    n "Ne sous-estimez pas le pouvoir du yoga."
+
+# game/day17.rpy:1059
+translate french day17_n_sex_23d833bf:
+
+    # p "From now on, I won't ever again."
+    p "A partir de maintenant, je ne le ferai plus jamais"
+
+# game/day17.rpy:1060
+translate french day17_n_sex_9c06648b:
+
+    # n "Have you had many lovers, [p_name]?"
+    n "Avez-vous eu beaucoup d'amants [p_name] ?"
+
+# game/day17.rpy:1061
+translate french day17_n_sex_7a8cb987:
+
+    # p "A few."
+    p "Quelques"
+
+# game/day17.rpy:1064
+translate french day17_n_sex_08cd553e:
+
+    # n "Your sister for one. That's unusual."
+    n "Votre sœur pour un qui est inhabituel."
+
+# game/day17.rpy:1065
+translate french day17_n_sex_29cdba2a:
+
+    # p "Not on Belugio."
+    p "Pas sur Belugio"
+
+# game/day17.rpy:1066
+translate french day17_n_sex_9c1c027e:
+
+    # n "It's still unusual on Belugio, but accepted all the same."
+    n "C'est encore inhabituel sur Belugio, mais c'est quand même accepté."
+
+# game/day17.rpy:1068
+translate french day17_n_sex_0471cb1c:
+
+    # n "[r_name] for one."
+    n "[r_name] pour un"
+
+# game/day17.rpy:1069
+translate french day17_n_sex_209b433b:
+
+    # p "And you?"
+    p "Et vous ?"
+
+# game/day17.rpy:1071
+translate french day17_n_sex_fdd6acfe:
+
+    # n "Hmmm. No. You were my second. Or third, if you count Rebeca."
+    n "Hmmm Non Tu étais mon deuxième ou mon troisième si tu comptes Rebeca"
+
+# game/day17.rpy:1072
+translate french day17_n_sex_6a30ee20:
+
+    # p "Rebeca, your... mother?"
+    p "Rebeca ta mère ?"
+
+# game/day17.rpy:1073
+translate french day17_n_sex_0b1bfa64:
+
+    # n "Yes. You shouldn't be surprised by now."
+    n "Oui Vous ne devriez pas être surpris maintenant."
+
+# game/day17.rpy:1075
+translate french day17_n_sex_e9de9e2d:
+
+    # n "And besides, you've just had a fucking sexy blowjob from your own sister tonight."
+    n "Et en plus, tu viens de te faire tailler une pipe sexy par ta propre sœur ce soir."
+
+# game/day17.rpy:1076
+translate french day17_n_sex_efc57a97:
+
+    # p "Okay, okay! Point taken."
+    p "D'accord, d'accord ! J'ai compris"
+
+# game/day17.rpy:1077
+translate french day17_n_sex_17af946b:
+
+    # p "But who was your first then?"
+    p "Mais qui était votre premier alors ?"
+
+# game/day17.rpy:1079
+translate french day17_n_sex_94c641e4:
+
+    # n "My my, you're getting rather inquisitive aren't you?"
+    n "Mon Dieu, vous devenez plutôt curieux, n'est-ce pas ?"
+
+# game/day17.rpy:1080
+translate french day17_n_sex_8495691f:
+
+    # p "You don't have to tell me."
+    p "Tu n'as pas besoin de me le dire"
+
+# game/day17.rpy:1081
+translate french day17_n_sex_cc3084af:
+
+    # n "I don't mind."
+    n "Je n'y vois pas d'inconvénient"
+
+# game/day17.rpy:1082
+translate french day17_n_sex_7b86b863:
+
+    # n "Nino was my first."
+    n "Nino a été mon premier"
+
+# game/day17.rpy:1083
+translate french day17_n_sex_36ff5f12:
+
+    # p "Really."
+    p "Vraiment"
+
+# game/day17.rpy:1084
+translate french day17_n_sex_c0b7b88a:
+
+    # n "He's still my lover sometimes, when we both feel like it."
+    n "Il est toujours mon amant, parfois quand nous en avons tous les deux envie"
+
+# game/day17.rpy:1085
+translate french day17_n_sex_90a89774:
+
+    # p "Your brother is a lucky guy."
+    p "Ton frère a de la chance"
+
+# game/day17.rpy:1087
+translate french day17_n_sex_dd74d507:
+
+    # n "Hmmm. No. You were my second."
+    n "Hmmm Non Tu étais mon second"
+
+# game/day17.rpy:1088
+translate french day17_n_sex_d4ec46d4:
+
+    # p "Who was your first then?"
+    p "Qui était votre premier alors ?"
+
+# game/day17.rpy:1090
+translate french day17_n_sex_f3a94fd4:
+
+    # n "Some boy I knew from school."
+    n "Un garçon que je connaissais à l'école"
+
+# game/day17.rpy:1091
+translate french day17_n_sex_09f8f925:
+
+    # p "{i}(She's being purposely vague... Better not grill her further on the subject and just enjoy the moment.)"
+    p "{i}(Elle est volontairement vague Mieux vaut ne pas la cuisiner davantage sur le sujet et profiter du moment)"
+
+# game/day17.rpy:1092
+translate french day17_n_sex_1baecc24:
+
+    # p "Well, he was a lucky guy."
+    p "Il a eu de la chance"
+
+# game/day17.rpy:1094
+translate french day17_n_sex_c7ae129c:
+
+    # n "Do you think so?"
+    n "Pensez-vous que c'est le cas ?"
+
+# game/day17.rpy:1095
+translate french day17_n_sex_5ce61dbf:
+
+    # p "Nia, you're a little package of flexible sexiness. So of course!"
+    p "Nia tu es un petit paquet de sexiness flexible Donc bien sûr !"
+
+# game/day17.rpy:1097
+translate french day17_n_sex_809f6b43:
+
+    # "{i}Nia caresses your chest as you both lie together in the post-coital warmth. After a while, she gives you a kiss, rises and goes back to her bedroom."
+    "{i}Nia caresse votre poitrine alors que vous êtes tous deux allongés dans la chaleur post-coïtale. Après un moment, elle vous embrasse, se lève et retourne dans sa chambre."
+# TODO: Translation updated at 2024-11-29 09:50
+
+# game/day17.rpy:699
+translate french day17_r_blowjob_b88116c6:
+
+    # p "What the?! [r_name]?"
+    p "Qu'est-ce que ? [r_name] ?"
+
+# game/day17.rpy:700
+translate french day17_r_blowjob_b264dd12:
+
+    # r "Sorry for startling you!"
+    r "Désolé de vous avoir surpris !"
+
+# game/day17.rpy:701
+translate french day17_r_blowjob_55df98a2:
+
+    # p "Can't sleep?"
+    p "Vous n'arrivez pas à dormir ?"
+
+# game/day17.rpy:702
+translate french day17_r_blowjob_634a8ea7:
+
+    # r "I haven't tried yet. I waited for Nia to fall asleep so I could come find you."
+    r "Je n'ai pas encore essayé, j'ai attendu que Nia s'endorme pour venir te trouver."
+
+# game/day17.rpy:703
+translate french day17_r_blowjob_382b0ab2:
+
+    # p "Oh?"
+    p "Oh ?"
+
+# game/day17.rpy:704
+translate french day17_r_blowjob_aa733556:
+
+    # r "I'd like us to do something naughty..."
+    r "J'aimerais que nous fassions quelque chose de coquin."
+
+# game/day17.rpy:706
+translate french day17_r_blowjob_f569bc25:
+
+    # p "{i}(Best. Dinner-party. Goddamn-Ever.)"
+    p "{i}(Meilleur dîner de tous les temps)"
+
+# game/day17.rpy:707
+translate french day17_r_blowjob_01a81c32:
+
+    # p "Here? Now? What if someone wakes up?"
+    p "Ici ? Maintenant ? Et si quelqu'un se réveille ?"
+
+# game/day17.rpy:708
+translate french day17_r_blowjob_9726821a:
+
+    # r "Sure, why not. I like a little bit of danger."
+    r "Bien sûr, pourquoi pas, j'aime un peu de danger."
+
+# game/day17.rpy:709
+translate french day17_r_blowjob_32164c6f:
+
+    # p "{i}(I so love her eagerness.)"
+    p "{i}(J'aime tellement son empressement)"
+
+# game/day17.rpy:710
+translate french day17_r_blowjob_01a7cc9b:
+
+    # p "What did you have in mind?"
+    p "Qu'avez-vous en tête ?"
+
+# game/day17.rpy:711
+translate french day17_r_blowjob_e6f18e0f:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor..."
+    r "Tu m'as fait sentir si bien avec ta langue l'autre soir et j'aimerais te rendre la pareille."
+
+# game/day17.rpy:712
+translate french day17_r_blowjob_070d1fd1:
+
+    # p "You would do that for me?"
+    p "Tu ferais ça pour moi ?"
+
+# game/day17.rpy:713
+translate french day17_r_blowjob_b6ae797a:
+
+    # r "Yes. But you have to guide me a bit, I've never done it before."
+    r "Oui mais il faut me guider un peu, je ne l'ai jamais fait avant."
+
+# game/day17.rpy:714
+translate french day17_r_blowjob_2c7b655d:
+
+    # p "Don't worry! But kiss me first!"
+    p "Ne t'inquiète pas ! Mais embrasse-moi d'abord !"
+
+# game/day17.rpy:720
+translate french day17_r_blowjob_624b9ca7:
+
+    # "{i}Your sister removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}Votre sœur enlève son soutien-gorge et sa culotte et se glisse sur vous. Sa chatte se presse contre votre cuisse et vous sentez ses mamelons se frotter brièvement contre votre peau."
+
+# game/day17.rpy:722
+translate french day17_r_blowjob_5d33a071:
+
+    # "{i}[r_name] removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}[r_name] enlève son soutien-gorge et sa culotte et se glisse sur vous, sa chatte se presse contre votre cuisse et vous sentez ses mamelons se frotter brièvement contre votre peau."
+
+# game/day17.rpy:723
+translate french day17_r_blowjob_ada30f18:
+
+    # "{i}With eager lips, she french kisses you, meanwhile touching your erect dick lightly with her fingertips. Precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Avec des lèvres avides, elle vous embrasse tout en touchant légèrement votre bite en érection avec le bout de ses doigts Le précum s'écoule de votre bite Votre extrémité humide brille au clair de lune."
+
+# game/day17.rpy:724
+translate french day17_r_blowjob_eeb5bfa4:
+
+    # r "I'm going to kiss you down there, [p_name]."
+    r "Je vais t'embrasser par là [p_nom]."
+
+# game/day17.rpy:727
+translate french day17_r_blowjob_5d06a4e9:
+
+    # "{i}Your sister kisses and licks your shaft, leaving wet trails all over it."
+    "{i}Votre sœur embrasse et lèche votre tige en laissant des traces humides sur toute sa surface."
+
+# game/day17.rpy:729
+translate french day17_r_blowjob_f09fb4ca:
+
+    # "{i}[r_name] kisses and licks your shaft, leaving wet trails all over it."
+    "{i}[r_name] embrasse et lèche ta queue en laissant des traces humides sur toute la surface."
+
+# game/day17.rpy:730
+translate french day17_r_blowjob_d9a81861:
+
+    # r "Mmmmm, you taste so good!"
+    r "Mmmmm tu es si bon !"
+
+# game/day17.rpy:731
+translate french day17_r_blowjob_2cc4509b:
+
+    # r "I'm going further. Stop me if I'm doing something wrong."
+    r "Je vais plus loin Arrêtez-moi si je fais quelque chose de mal"
+
+# game/day17.rpy:732
+translate french day17_r_blowjob_86593fed:
+
+    # p "Don't worry, as long as you don't chew on it you'll be absolutely fine."
+    p "Ne vous inquiétez pas, tant que vous ne le mâchez pas, tout ira bien."
+
+# game/day17.rpy:737
+translate french day17_r_blowjob_ff4ee346:
+
+    # "{i}[r_name]'s mouth softly wraps around the tip of your cock and the film of precum is soon mixed with her saliva as she sucks and licks the tip. The first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}La bouche de [r_name] entoure doucement le bout de ta bite et la pellicule de précum est bientôt mélangée à sa salive alors qu'elle suce et lèche le bout Les premiers mouvements de sa bouche sur ta bite sont un peu maladroits mais son regard de concentration et sa volonté d'apprendre rendent la chose encore plus chaude"
+
+# game/day17.rpy:738
+translate french day17_r_blowjob_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Est-ce que ça fait du bien à [p_name] ?"
+
+# game/day17.rpy:739
+translate french day17_r_blowjob_a6ae68d7:
+
+    # p "God yes!"
+    p "Dieu oui !"
+
+# game/day17.rpy:741
+translate french day17_r_blowjob_15638743:
+
+    # "{i}Your sister's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}La bouche de ta sœur stimule ta bite sous tous les angles, une sensation paradisiaque qui est renforcée par le fait qu'elle masse doucement tes couilles qui sont maintenant couvertes de salive."
+
+# game/day17.rpy:743
+translate french day17_r_blowjob_0229c9dd:
+
+    # "{i}[r_name]'s mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}La bouche de [r_name] stimule votre bite sous tous les angles, une sensation paradisiaque qui est renforcée par le fait qu'elle masse doucement vos couilles qui sont maintenant couvertes de salive."
+
+# game/day17.rpy:744
+translate french day17_r_blowjob_e9a93643:
+
+    # p "Keep going [r_name], aaaaah!"
+    p "Continuez [r_name] aaaaah !"
+
+# game/day17.rpy:745
+translate french day17_r_blowjob_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "C'est bien ça Utilise ta langue [r_name] enroule tes lèvres autour de ma bite"
+
+# game/day17.rpy:746
+translate french day17_r_blowjob_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm !"
+
+# game/day17.rpy:748
+translate french day17_r_blowjob_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah [r_name] Je suis si proche !"
+
+# game/day17.rpy:749
+translate french day17_r_blowjob_8653922f:
+
+    # r "Are you going to cum for me?"
+    r "Tu vas jouir pour moi ?"
+
+# game/day17.rpy:750
+translate french day17_r_blowjob_61144f50:
+
+    # r "In my little warm mouth? I want to taste you so bad!"
+    r "Dans ma petite bouche chaude ? Je veux tellement te goûter !"
+
+# game/day17.rpy:751
+translate french day17_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "Oui, oui, oui !"
+
+# game/day17.rpy:753
+translate french day17_r_blowjob_fd85d209:
+
+    # "{i}It's those words that send you over the edge. When your sister licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Lorsque votre sœur lèche le bout de votre pénis, vous sentez les premières vagues de votre orgasme déferler dans votre corps."
+
+# game/day17.rpy:755
+translate french day17_r_blowjob_616cdd40:
+
+    # "{i}It's those words that send you over the edge. When [r_name] licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Quand [r_name] lèche le bout de votre pénis, vous sentez les premières vagues de votre orgasme déferler dans votre corps."
+
+# game/day17.rpy:760
+translate french day17_r_blowjob_b52ceef0:
+
+    # "{i}[r_name] senses that you're ready and kneels with an open mouth before your throbbing cock. Big streams of semen shoot on her face and in her mouth."
+    "{i}[r_name] sent que vous êtes prêt et s'agenouille la bouche ouverte devant votre bite palpitante De gros jets de sperme jaillissent sur son visage et dans sa bouche."
+
+# game/day17.rpy:761
+translate french day17_r_blowjob_c7a95b60:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into her mouth."
+    "{i}Vous avez retrouvé un peu de votre calme pendant les derniers spasmes de votre orgasme et vous êtes capable de déposer plusieurs giclées directement dans sa bouche."
+
+# game/day17.rpy:764
+translate french day17_r_blowjob_01ed08d6:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. Your sister licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Une [r_name] heureuse vous regarde avec une profonde satisfaction dans les yeux Votre sœur lèche les gouttes de sperme près de sa bouche avant de tout avaler Un grand sourire orne ses lèvres peintes de sperme"
+
+# game/day17.rpy:766
+translate french day17_r_blowjob_18dd9554:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. The girl licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Une [r_name] heureuse vous regarde avec une profonde satisfaction dans les yeux La fille lèche les gouttes de sperme près de sa bouche avant de tout avaler Un grand sourire orne ses lèvres peintes de sperme"
+
+# game/day17.rpy:767
+translate french day17_r_blowjob_16e92508:
+
+    # r "Mmmm! There was so much of it! Did you save it all for me, [p_name]?"
+    r "Mmmm ! Il y en avait tellement ! Tu as tout gardé pour moi [p_name] ?"
+
+# game/day17.rpy:768
+translate french day17_r_blowjob_1f2f692f:
+
+    # p "I might have... You were so hot!"
+    p "J'aurais pu Vous étiez si chaud !"
+
+# game/day17.rpy:769
+translate french day17_r_blowjob_e74020e9:
+
+    # r "Thank you, this was just what I needed."
+    r "Merci, c'est exactement ce dont j'avais besoin."
+
+# game/day17.rpy:770
+translate french day17_r_blowjob_44328101:
+
+    # r "Sweet dreams, [p_name], love you!"
+    r "Fais de beaux rêves [p_name], je t'aime !"
+
+# game/day17.rpy:771
+translate french day17_r_blowjob_a900ac49:
+
+    # p "Love you too, sleep well!"
+    p "Je t'aime aussi, dors bien !"
+
+# game/day17.rpy:772
+translate french day17_r_blowjob_7c9bff09:
+
+    # "{i}[r_name] leaves you on the couch and silently climbs the stairs, back to Nia's bedroom."
+    "{i}[r_name] te laisse sur le canapé et monte silencieusement les escaliers jusqu'à la chambre de Nia"
+

@@ -3540,3 +3540,1289 @@ translate french day24_choices_7b07ad78_1:
 
     # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
     "{i}La sensation d'être sur le point d'exploser devient de plus en plus forte et [b_name] intensifie sa succion pour vous pousser à jouir."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day24.rpy:602
+translate french day24_b_cinema_blowjob_a9cef6c6:
+
+    # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
+    "{i}[b_name] se redresse soudain et vous fait face, ses lèvres touchent les vôtres et vous l'embrassez dans la pénombre de la salle de cinéma."
+
+# game/day24.rpy:603
+translate french day24_b_cinema_blowjob_ef068625:
+
+    # b "You make me so happy!"
+    b "Tu me rends si heureuse !"
+
+# game/day24.rpy:604
+translate french day24_b_cinema_blowjob_e0579f1c:
+
+    # p "And you're the best thing that's happened to me!"
+    p "Et tu es la meilleure chose qui me soit arrivée !"
+
+# game/day24.rpy:606
+translate french day24_b_cinema_blowjob_038eeb83:
+
+    # "{i}A sudden outburst in the movie makes you mindful of your surroundings again, and you continue watching the film."
+    "{i}Une explosion soudaine dans le film vous fait à nouveau prendre conscience de votre environnement et vous continuez à regarder le film."
+# game/day24.rpy:607
+translate french day24_b_cinema_blowjob_7b3f982b:
+
+    # "{i}As you glance at [b_name], you see a smile cross her face."
+    "{i}En regardant [b_name], vous voyez un sourire sur son visage"
+
+# game/day24.rpy:608
+translate french day24_b_cinema_blowjob_505e98ae:
+
+    # b "Why don't we have a little fun while we're here?"
+    b "Pourquoi ne pas s'amuser un peu pendant que nous sommes ici ?"
+
+# game/day24.rpy:609
+translate french day24_b_cinema_blowjob_d4ca92e2:
+
+    # p "You mean?"
+    p "Vous voulez dire ?"
+
+# game/day24.rpy:610
+translate french day24_b_cinema_blowjob_4b2343ad:
+
+    # b "Yes. Don't worry, I'll do the work..."
+    b "Oui Ne vous inquiétez pas, je ferai le travail"
+
+# game/day24.rpy:613
+translate french day24_b_cinema_blowjob_d7fabfaa:
+
+    # "{i}Teasingly slow, your sister unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Lentement, taquinement, ta sœur ouvre ton pantalon et libère ton érection qui grandit dans l'expectative."
+# game/day24.rpy:615
+translate french day24_b_cinema_blowjob_87307cb2:
+
+    # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}La lenteur taquine de [b_name] défait votre pantalon et libère votre érection qui grandit dans l'impatience."
+# game/day24.rpy:616
+translate french day24_b_cinema_blowjob_b8fa0169:
+
+    # b "You don't need much encouragement, do you?"
+    b "Vous n'avez pas besoin de beaucoup d'encouragement, n'est-ce pas ?"
+
+# game/day24.rpy:617
+translate french day24_b_cinema_blowjob_8c65b140:
+
+    # p "I'm terrible at self-control..."
+    p "Je ne sais pas me contrôler"
+
+# game/day24.rpy:619
+translate french day24_b_cinema_blowjob_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] fait serpenter ses doigts chauds autour de votre tige, son toucher vous fait frissonner"
+
+# game/day24.rpy:620
+translate french day24_b_cinema_blowjob_5ac5bdd8:
+
+    # b "What am I going to do with you?"
+    b "Qu'est-ce que je vais faire de toi ?"
+
+# game/day24.rpy:625
+translate french day24_b_cinema_blowjob_28621535:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees and looks up at you with her big blue eyes, her soft lips touching your tip."
+    "{i}Au début, vous pensez qu'elle va vous branler, mais la fille se met à genoux et vous regarde avec ses grands yeux bleus, ses lèvres douces effleurant votre extrémité."
+# game/day24.rpy:626
+translate french day24_b_cinema_blowjob_588bfeb2:
+
+    # b "Does your dick like kisses as well?"
+    b "Est-ce que ta bite aime aussi les baisers ?"
+
+# game/day24.rpy:627
+translate french day24_b_cinema_blowjob_cc4c23cb:
+
+    # p "Y-y-yes."
+    p "Y-y-yes"
+
+# game/day24.rpy:628
+translate french day24_b_cinema_blowjob_5622981a:
+
+    # b "Good."
+    b "Bon"
+
+# game/day24.rpy:630
+translate french day24_b_cinema_blowjob_2e7c6246:
+
+    # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Sur ces mots, [b_name] embrasse légèrement le bout de votre bite La sensation humide vous fait presque jouir instantanément"
+
+# game/day24.rpy:631
+translate french day24_b_cinema_blowjob_9073349b:
+
+    # b "Not so fast mister. Or did you just twitch?"
+    b "Pas si vite monsieur ou vous avez juste tressailli ?"
+
+# game/day24.rpy:632
+translate french day24_b_cinema_blowjob_6b3673f0:
+
+    # p "You're amazing, [b_name]."
+    p "Vous êtes incroyable [b_name]"
+
+# game/day24.rpy:635
+translate french day24_b_cinema_blowjob_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Votre sœur lape avec diligence le précum qui recouvre la tête de votre bite."
+# game/day24.rpy:637
+translate french day24_b_cinema_blowjob_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Diligemment [b_name] lape le précum qui recouvre la tête de votre bite"
+
+# game/day24.rpy:638
+translate french day24_b_cinema_blowjob_615f67a0:
+
+    # b "Mmmm, a taste of what's to come."
+    b "Mmmm un avant goût de ce qui va suivre"
+
+# game/day24.rpy:640
+translate french day24_b_cinema_blowjob_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] continue d'explorer la tête avec sa langue, enveloppant de plus en plus ta bite avec sa bouche alors qu'elle la recouvre de sa salive chaude."
+
+# game/day24.rpy:642
+translate french day24_b_cinema_blowjob_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Quand elle prend enfin ton membre dans sa bouche et commence à le sucer, c'est comme si toutes tes terminaisons nerveuses explosaient de plaisir."
+# game/day24.rpy:643
+translate french day24_b_cinema_blowjob_afa9afa1:
+
+    # p "G-g-god... [b_name]!!!"
+    p "G-g-god [b_name] !!!"
+
+# game/day24.rpy:644
+translate french day24_b_cinema_blowjob_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Pendant les moments les plus calmes du film, le silence est rempli par les bruits humides de [b_name] travaillant sur votre bite dans le fond de la salle de cinéma."
+# game/day24.rpy:647
+translate french day24_b_cinema_blowjob_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Votre sœur arrête de stimuler votre tige avec sa main et masse vos couilles au lieu de laisser sa bouche faire tout le travail."
+# game/day24.rpy:649
+translate french day24_b_cinema_blowjob_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] arrête de stimuler ta queue avec sa main et masse tes couilles au lieu de laisser sa bouche faire tout le travail"
+
+# game/day24.rpy:650
+translate french day24_b_cinema_blowjob_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}La sensation d'être sur le point d'exploser devient de plus en plus forte et [b_name] intensifie sa succion pour vous pousser à jouir."
+# game/day24.rpy:654
+translate french day24_b_cinema_blowjob_5b70a97e:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "G-g-oood oui [b_name] je jouis je jouis"
+
+# game/day24.rpy:661
+translate french day24_b_cinema_blowjob_d4edc6ed:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Elle te suce, te lèche et te caresse avec sa bouche jusqu'au dernier moment avant l'éruption [b_name] retire ta bite de sa bouche et la dirige vers son visage D'épaisses coulées de sperme couvrent ses joues et son front."
+
+# game/day24.rpy:669
+translate french day24_b_cinema_blowjob_5b70a97e_1:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "G-g-oood oui [b_name] je jouis je jouis"
+
+# game/day24.rpy:676
+translate french day24_b_cinema_blowjob_a7f54eac:
+
+    # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
+    "{i}Elle continue à stimuler le gland et la verge jusqu'à ce que les dernières gouttes de sperme soient entrées et qu'elle les avale."
+# game/day24.rpy:686
+translate french day24_b_cinema_blowjob_0f40afbb:
+
+    # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
+    "{i}Satisfait, [b_name] repose sa tête sur vos genoux et vous regardez le reste du film en silence avant de rentrer chez vous"
+
+# game/day24.rpy:696
+translate french day24_b_cinema_blowjob_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day24.rpy:700
+translate french day24_b_cinema_blowjob_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day24.rpy:703
+translate french day24_b_cinema_blowjob_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day24.rpy:709
+translate french day24_b_cinema_blowjob_hard_c2469b9d:
+
+    # "{i}You unzip your pants and wait for your sister to notice your growing erection."
+    "{i}Vous ouvrez votre pantalon et attendez que votre sœur remarque votre érection grandissante."
+# game/day24.rpy:711
+translate french day24_b_cinema_blowjob_hard_ef266da0:
+
+    # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
+    "{i}Vous ouvrez votre pantalon et attendez que [b_name] remarque votre érection grandissante."
+# game/day24.rpy:714
+translate french day24_b_cinema_blowjob_hard_009d6b3a:
+
+    # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
+    "{i}Quand elle le fait enfin, sa réaction n'est pas l'horreur ou le choc, mais elle pose une main hésitante sur votre cuisse."
+# game/day24.rpy:715
+translate french day24_b_cinema_blowjob_hard_2a01b12d:
+
+    # "{i}Slowly but surely her hand moves towards your erection."
+    "{i}Lentement mais sûrement, sa main se déplace vers ton érection"
+
+# game/day24.rpy:717
+translate french day24_b_cinema_blowjob_hard_eea3a172:
+
+    # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
+    "{i}Quand elle le fait enfin, tu saisis une de ses mains et tu la poses sur ta cuisse."
+# game/day24.rpy:718
+translate french day24_b_cinema_blowjob_hard_139feee7:
+
+    # b "You want me to?"
+    b "Vous voulez que je le fasse ?"
+
+# game/day24.rpy:719
+translate french day24_b_cinema_blowjob_hard_ecd502cb:
+
+    # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
+    p "Faites ce que vous voulez mais je suis encore très tendu après la cascade que nous avons faite avec Dwayne."
+
+# game/day24.rpy:721
+translate french day24_b_cinema_blowjob_hard_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] fait serpenter ses doigts chauds autour de votre tige, son toucher vous fait frissonner"
+
+# game/day24.rpy:722
+translate french day24_b_cinema_blowjob_hard_17e757d2:
+
+    # p "Mmmm, yes [b_name], take care of me."
+    p "Mmmm oui [b_name] prends soin de moi"
+
+# game/day24.rpy:724
+translate french day24_b_cinema_blowjob_hard_7b6910bb:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your tip."
+    "{i}Au début, vous pensez qu'elle va vous branler, mais la fille se met à genoux de son propre chef, ses lèvres douces s'approchant directement de votre extrémité."
+# game/day24.rpy:726
+translate french day24_b_cinema_blowjob_hard_e85153db:
+
+    # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Sans dire un mot, [b_name] embrasse légèrement le bout de votre bite La sensation humide vous fait presque jouir instantanément"
+
+# game/day24.rpy:727
+translate french day24_b_cinema_blowjob_hard_10e78841:
+
+    # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over the head of your cock."
+    "{i}A force de volonté, vous parvenez à repousser votre orgasme bien que du précum ait déjà jailli de votre méat, ruisselant sur le gland de votre bite."
+# game/day24.rpy:733
+translate french day24_b_cinema_blowjob_hard_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Votre sœur lape avec diligence le précum qui recouvre la tête de votre bite."
+# game/day24.rpy:735
+translate french day24_b_cinema_blowjob_hard_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Diligemment [b_name] lape le précum qui recouvre la tête de votre bite"
+
+# game/day24.rpy:736
+translate french day24_b_cinema_blowjob_hard_85eef047:
+
+    # p "A little taste of what's to come."
+    p "Un petit avant-goût de ce qui nous attend"
+
+# game/day24.rpy:737
+translate french day24_b_cinema_blowjob_hard_16c6f644:
+
+    # p "Keep going, sweetling."
+    p "Continue comme ça, ma chérie"
+
+# game/day24.rpy:739
+translate french day24_b_cinema_blowjob_hard_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] continue d'explorer la tête avec sa langue, enveloppant de plus en plus ta bite avec sa bouche alors qu'elle la recouvre de sa salive chaude."
+
+# game/day24.rpy:741
+translate french day24_b_cinema_blowjob_hard_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Quand elle prend enfin ton membre dans sa bouche et commence à le sucer, c'est comme si toutes tes terminaisons nerveuses explosaient de plaisir."
+# game/day24.rpy:742
+translate french day24_b_cinema_blowjob_hard_4eb69aa0:
+
+    # p "G-g-god... [b_name], right there!"
+    p "G-g-god [b_name] juste là !"
+
+# game/day24.rpy:743
+translate french day24_b_cinema_blowjob_hard_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Pendant les moments les plus calmes du film, le silence est rempli par les bruits humides de [b_name] travaillant sur votre bite dans le fond de la salle de cinéma."
+# game/day24.rpy:746
+translate french day24_b_cinema_blowjob_hard_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Votre sœur arrête de stimuler votre tige avec sa main et masse vos couilles au lieu de laisser sa bouche faire tout le travail."
+# game/day24.rpy:748
+translate french day24_b_cinema_blowjob_hard_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] arrête de stimuler ta queue avec sa main et masse tes couilles au lieu de laisser sa bouche faire tout le travail"
+
+# game/day24.rpy:749
+translate french day24_b_cinema_blowjob_hard_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}La sensation d'être sur le point d'exploser devient de plus en plus forte et [b_name] intensifie sa succion pour vous pousser à jouir."
+# game/day24.rpy:753
+translate french day24_b_cinema_blowjob_hard_15724afa:
+
+    # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
+    p "Je jouis [b_name] Je jouis Montre-moi ton joli visage"
+
+# game/day24.rpy:760
+translate french day24_b_cinema_blowjob_hard_c81a3959:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Sucer, lécher et caresser avec sa bouche jusqu'au dernier moment [b_name] retire ta bite de sa bouche et la pointe consciencieusement vers son visage D'épaisses coulées de sperme couvrent ses joues et son front."
+
+# game/day24.rpy:768
+translate french day24_b_cinema_blowjob_hard_367fcf46:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
+    p "G-g-oood oui [b_name] Je jouis Je jouis Continuez !"
+
+# game/day24.rpy:775
+translate french day24_b_cinema_blowjob_hard_1cda4a77:
+
+    # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your tip and shaft until the last drops of semen have entered, then she swallows."
+    "{i}D'épais jets de sperme remplissent sa bouche et elle continue consciencieusement à stimuler votre pointe et votre tige jusqu'à ce que les dernières gouttes de sperme soient entrées, puis elle les avale."
+# game/day24.rpy:785
+translate french day24_b_cinema_blowjob_hard_a53e7326:
+
+    # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
+    "{i}Elle ne s'oppose pas à ce que vous mettiez votre bras sur son épaule et quand vous regardez de côté, vous croyez voir un vague sourire sur son visage."
+# game/day24.rpy:799
+translate french day24_l_masturbation_96021e66:
+
+    # l "{i}(Hmmmm, I can't sleep.)"
+    l "{i}(Hmmmm je ne peux pas dormir)"
+
+# game/day24.rpy:800
+translate french day24_l_masturbation_8d02f8ee:
+
+    # l "{i}(I don't know what came over me today after the dance class.)"
+    l "{i}(Je ne sais pas ce qui m'a pris aujourd'hui après le cours de danse)"
+
+# game/day24.rpy:801
+translate french day24_l_masturbation_7c5b21b2:
+
+    # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
+    l "{i}(La danse était incroyable, la façon dont nous nous sommes déplacés dans la salle, la façon dont il m'a guidée)"
+
+# game/day24.rpy:803
+translate french day24_l_masturbation_d6f704e1:
+
+    # l "{i}(But those... those urges... I've never felt anything so strong.)"
+    l "{i}(Mais ces pulsions, je n'ai jamais rien ressenti d'aussi fort)"
+
+# game/day24.rpy:804
+translate french day24_l_masturbation_3cbc1725:
+
+    # l "{i}(Maybe I'm just horny?)"
+    l "{i}(Peut-être que je suis juste excité ?)"
+
+# game/day24.rpy:805
+translate french day24_l_masturbation_02645f0d:
+
+    # l "{i}(I was never horny... But that was before...)"
+    l "{i}(Je n'ai jamais été excité Mais c'était avant)"
+
+# game/day24.rpy:806
+translate french day24_l_masturbation_cddb261a:
+
+    # l "{i}(I'm just going to touch myself, just a little bit.)"
+    l "{i}(je vais juste me toucher un peu)"
+
+# game/day24.rpy:808
+translate french day24_l_masturbation_117ee799:
+
+    # l "{i}(Mmmmm. That feels good.)"
+    l "{i}(Mmmmm Ça fait du bien)"
+
+# game/day24.rpy:809
+translate french day24_l_masturbation_f7f616cf:
+
+    # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
+    l "{i}(Et si quelqu'un entre dans la pièce et me voit allongé là, exposé ?)"
+
+# game/day24.rpy:815
+translate french day24_l_masturbation_f74bcfb0:
+
+    # l "Aaah!"
+    l "Aaah !"
+
+# game/day24.rpy:816
+translate french day24_l_masturbation_9b376897:
+
+    # l "{i}(I'm so wet, how can I be so wet?)"
+    l "{i}(Je suis si mouillé, comment puis-je être si mouillé ?)"
+
+# game/day24.rpy:817
+translate french day24_l_masturbation_2ed3fe55:
+
+    # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
+    l "{i}(Je ne pensais qu'à [p_name] Ses bras puissants, son corps près du mien)"
+
+# game/day24.rpy:819
+translate french day24_l_masturbation_e00b402f:
+
+    # l "{i}(I should slip a finger in, that feels so nice.)"
+    l "{i}(je devrais glisser un doigt dedans, c'est si agréable)"
+
+# game/day24.rpy:820
+translate french day24_l_masturbation_5c161461:
+
+    # l "{i}(And I could pretend it was his...)"
+    l "{i}(Et je pourrais prétendre que c'était le sien)"
+
+# game/day24.rpy:821
+translate french day24_l_masturbation_a66c0813:
+
+    # l "{i}(Damnit. I shouldn't think like that.)"
+    l "{i}(Bon sang, je ne devrais pas penser comme ça)"
+
+# game/day24.rpy:822
+translate french day24_l_masturbation_3124a776:
+
+    # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
+    l "{i}(Mais c'est si bon ! Je me demande ce que ça ferait s'il)"
+
+# game/day24.rpy:827
+translate french day24_l_masturbation_ae8b0feb:
+
+    # l "{i}(No!)"
+    l "{i}(Non !)"
+
+# game/day24.rpy:828
+translate french day24_l_masturbation_37bc17c2:
+
+    # l "{i}(I could use that thing... No harm in trying...)"
+    l "{i}(je pourrais utiliser cette chose, il n'y a pas de mal à essayer)"
+
+# game/day24.rpy:830
+translate french day24_l_masturbation_75351201:
+
+    # l "{i}(Now, where did I leave it?)"
+    l "{i}(Où l'ai-je laissé ?)"
+
+# game/day24.rpy:831
+translate french day24_l_masturbation_cbf43995:
+
+    # l "{i}(I tucked it away somewhere under my bras.)"
+    l "{i}(Je l'ai rangé quelque part sous mes soutiens-gorge)"
+
+# game/day24.rpy:833
+translate french day24_l_masturbation_0474ea86:
+
+    # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
+    l "{i}(Ce truc est tellement obscène Tous ces bourrelets et ces côtes Je parie qu'il fait froid à l'intérieur)"
+
+# game/day24.rpy:835
+translate french day24_l_masturbation_5927cf3e:
+
+    # l "{i}(Surely, only cheap porn stars use this...)"
+    l "{i}(Il est certain que seules les stars du porno bon marché utilisent cela)"
+
+# game/day24.rpy:836
+translate french day24_l_masturbation_4211705b:
+
+    # l "{i}(Let's turn it on...)"
+    l "{i}(allumons-le)"
+
+# game/day24.rpy:841
+translate french day24_l_masturbation_28e7e8c3:
+
+    # l "{i}(Oh god, that's far too intense! This thing buzzes like an angry bee.)"
+    l "{i}(Oh mon Dieu, c'est beaucoup trop intense ! Cette chose bourdonne comme une abeille en colère)"
+
+# game/day24.rpy:842
+translate french day24_l_masturbation_ad217b4b:
+
+    # l "{i}(No way I'm going to put that inside of me...)"
+    l "{i}(Il est hors de question que je mette ça en moi)"
+
+# game/day24.rpy:843
+translate french day24_l_masturbation_a27cdeef:
+
+    # l "{i}(Let's see how it feels against my lips.)"
+    l "{i}(Voyons comment il se sent sur mes lèvres)"
+
+# game/day24.rpy:849
+translate french day24_l_masturbation_819d64c5:
+
+    # l "Ooh god!"
+    l "Ooh god !"
+
+# game/day24.rpy:850
+translate french day24_l_masturbation_e139ff9f:
+
+    # l "{i}(Shit! Did I do that out loud?)"
+    l "{i}(Merde ! Est-ce que j'ai fait ça à voix haute ?)"
+
+# game/day24.rpy:851
+translate french day24_l_masturbation_541edf9a:
+
+    # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
+    l "{i}(Il est si doux et les vibrations ne sont pas trop fortes Peut-être devrais-je le presser plus fort contre ma chatte)"
+
+# game/day24.rpy:853
+translate french day24_l_masturbation_daa4514e:
+
+    # l "Ooh god yes!!!"
+    l "Ooh god yes !!!"
+
+# game/day24.rpy:854
+translate french day24_l_masturbation_8546bc73:
+
+    # l "{i}(I want it in me!)"
+    l "{i}(Je le veux en moi !)"
+
+# game/day24.rpy:858
+translate french day24_l_masturbation_bbe2a246:
+
+    # p "{i}(Better knock first, maybe she's already asleep.)"
+    p "{i}(Mieux vaut frapper d'abord, elle est peut-être déjà endormie)"
+
+# game/day24.rpy:864
+translate french day24_l_masturbation_dda64edc:
+
+    # l "{i}(No! No! Not now!!!)"
+    l "{i}(Non ! Non ! Pas maintenant !!!)"
+
+# game/day24.rpy:865
+translate french day24_l_masturbation_b2267e91:
+
+    # l "Whoever it is, please go away!"
+    l "Qui que ce soit, partez s'il vous plaît !"
+
+# game/day24.rpy:866
+translate french day24_l_masturbation_ee5d2a57:
+
+    # l "{i}(Please don't come in, not like this! Please!)"
+    l "{i}(S'il vous plaît, n'entrez pas comme ça ! S'il vous plaît !)"
+
+# game/day24.rpy:867
+translate french day24_l_masturbation_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:868
+translate french day24_l_masturbation_82822a0c_1:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:869
+translate french day24_l_masturbation_daaddcaa:
+
+    # l "{i}(I think it's safe again.)"
+    l "{i}(Je pense que c'est à nouveau sûr)"
+
+# game/day24.rpy:871
+translate french day24_l_masturbation_62a851fe:
+
+    # l "{i}(But now the mood is completely ruined.)"
+    l "{i}(Mais maintenant l'ambiance est complètement gâchée)"
+
+# game/day24.rpy:872
+translate french day24_l_masturbation_e8f4bcb5:
+
+    # l "{i}(Stupid thing.)"
+    l "{i}(chose stupide)"
+
+# game/day24.rpy:873
+translate french day24_l_masturbation_83d4f7fb:
+
+    # l "{i}(I hate you.)"
+    l "{i}(Je te déteste)"
+
+# game/day24.rpy:874
+translate french day24_l_masturbation_f1bc8cc9:
+
+    # l "{i}(Why am I talking to a vibrator?)"
+    l "{i}(Pourquoi est-ce que je parle à un vibromasseur ?)"
+
+# game/day24.rpy:875
+translate french day24_l_masturbation_288197ec:
+
+    # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
+    l "{i}(je ferais mieux de me reposer et d'enterrer à nouveau cette saleté dans une pile de linge demain)"
+
+# game/day24.rpy:877
+translate french day24_l_masturbation_80445dad:
+
+    # l "{i}(I'm so tired...)"
+    l "{i}(Je suis si fatigué)"
+
+# game/day24.rpy:878
+translate french day24_l_masturbation_82822a0c_2:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:898
+translate french day24_r_sex_c5b27efe:
+
+    # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
+    "{i}Après avoir frappé à la porte de la salle de bain et dit à [r_name] que c'est vous, vous êtes rapidement invité à entrer."
+# game/day24.rpy:904
+translate french day24_r_sex_faf33115:
+
+    # r "Hey handsome!"
+    r "Hey beau gosse !"
+
+# game/day24.rpy:905
+translate french day24_r_sex_77c3587b:
+
+    # p "How was your first day at college?"
+    p "Comment s'est passé ton premier jour à l'université ?"
+
+# game/day24.rpy:906
+translate french day24_r_sex_8a91cb86:
+
+    # r "I forgot how utterly boring it was."
+    r "J'avais oublié à quel point c'était ennuyeux"
+
+# game/day24.rpy:907
+translate french day24_r_sex_c7f06fb0:
+
+    # r "But Ana and Alina pulled me through."
+    r "Mais Ana et Alina m'ont tiré d'affaire."
+
+# game/day24.rpy:908
+translate french day24_r_sex_84c620c1:
+
+    # p "What?! You didn't think of me once?"
+    p "Quoi ?! Tu n'as pas pensé à moi une seule fois ?"
+
+# game/day24.rpy:909
+translate french day24_r_sex_7d4bdbf7:
+
+    # r "Of course I did, silly, you were on my mind the rest of the time."
+    r "Bien sûr que je l'ai fait, tu étais dans mon esprit le reste du temps."
+
+# game/day24.rpy:911
+translate french day24_r_sex_3bdcda22:
+
+    # p "Are you done?"
+    p "Are you done?"
+
+# game/day24.rpy:912
+translate french day24_r_sex_3915c8e5:
+
+    # r "Do you want me to be?"
+    r "Tu veux que je le sois ?"
+
+# game/day24.rpy:913
+translate french day24_r_sex_d5151d80:
+
+    # p "No! I've missed you all day and you look so gorgeous."
+    p "Non ! Tu m'as manqué toute la journée et tu es magnifique."
+
+# game/day24.rpy:914
+translate french day24_r_sex_486dc62e:
+
+    # r "Why don't you slide in with me, the water is still warm."
+    r "Pourquoi ne pas vous glisser dans l'eau avec moi, l'eau est encore chaude."
+
+# game/day24.rpy:916
+translate french day24_r_sex_8c5ced7c:
+
+    # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
+    "{i}[r_name] se blottit contre vous, son cul frottant contre votre bite"
+
+# game/day24.rpy:917
+translate french day24_r_sex_86e48495:
+
+    # r "You're already getting a hard-on?!"
+    r "Tu bandes déjà ? !"
+
+# game/day24.rpy:918
+translate french day24_r_sex_e88a0767:
+
+    # p "Sorry."
+    p "Désolé"
+
+# game/day24.rpy:919
+translate french day24_r_sex_ed3dc877:
+
+    # r "I don't mind!"
+    r "Ça ne me dérange pas !"
+
+# game/day24.rpy:920
+translate french day24_r_sex_cf0eaf12:
+
+    # r "God, I'm so tired."
+    r "Mon Dieu, je suis si fatigué"
+
+# game/day24.rpy:921
+translate french day24_r_sex_071ad574:
+
+    # p "You're tense as well, the muscles in your shoulders feel way too hard."
+    p "Vous êtes également tendu, les muscles de vos épaules sont trop durs."
+
+# game/day24.rpy:922
+translate french day24_r_sex_a0743e29:
+
+    # r "What are you going to do about it?"
+    r "Qu'allez-vous faire ?"
+
+# game/day24.rpy:923
+translate french day24_r_sex_4ecf5b30:
+
+    # p "I know just the thing."
+    p "Je sais ce qu'il faut faire"
+
+# game/day24.rpy:929
+translate french day24_r_sex_c53373d1:
+
+    # "{i}You put your hands on her shoulders and massage her back. Your sister closes her eyes in pleasure."
+    "{i}Vous posez vos mains sur ses épaules et vous lui massez le dos Votre sœur ferme les yeux de plaisir"
+
+# game/day24.rpy:931
+translate french day24_r_sex_565a891e:
+
+    # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
+    "{i}Vous posez vos mains sur ses épaules et lui massez le dos [r_name] ferme les yeux de plaisir"
+
+# game/day24.rpy:932
+translate french day24_r_sex_37fe5aac:
+
+    # r "Mmmmm. Now you have to do this every day."
+    r "Mmmmm Maintenant tu dois faire ça tous les jours."
+
+# game/day24.rpy:933
+translate french day24_r_sex_e6e01fc5:
+
+    # p "I really, really don't mind."
+    p "Ça ne me dérange vraiment pas"
+
+# game/day24.rpy:934
+translate french day24_r_sex_07dfdc59:
+
+    # r "Kiss me!"
+    r "Embrasse-moi !"
+
+# game/day24.rpy:936
+translate french day24_r_sex_488c4ffb:
+
+    # "{i}Then you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
+    "{i}Puis vous concentrez votre attention sur ses lèvres et l'embrassez passionnément [r_name] tourne son visage complètement vers vous et gémit légèrement lorsque son cul touche à nouveau votre bite"
+
+# game/day24.rpy:937
+translate french day24_r_sex_55fbac4d:
+
+    # p "Mmm, I think something else is too tense as well."
+    p "Mmm Je pense que quelque chose d'autre est aussi trop tendu"
+
+# game/day24.rpy:942
+translate french day24_r_sex_29a1976e:
+
+    # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
+    "{i}Votre main plonge sous la ligne de flottaison et vous touchez sa douce chatte, la fille pose une main encourageante sur la vôtre."
+# game/day24.rpy:943
+translate french day24_r_sex_1c10fcb0:
+
+    # r "Yes, I'm really tense there..."
+    r "Oui, je suis vraiment tendu."
+
+# game/day24.rpy:946
+translate french day24_r_sex_51e8ab07:
+
+    # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
+    "{i}Ranimée par ses paroles, vous touchez sa chatte et stimulez son clitoris tout en prenant son petit sein dans l'autre main."
+
+# game/day24.rpy:947
+translate french day24_r_sex_ffd0dbde:
+
+    # r "Y-y-yes [p_name], t-touch me right there."
+    r "Oui, oui, [p_name] touchez-moi ici."
+
+# game/day24.rpy:948
+translate french day24_r_sex_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah !"
+
+# game/day24.rpy:955
+translate french day24_r_sex_02dd6072:
+
+    # b "Can I come in, [r_name]?"
+    b "Puis-je entrer [r_name] ?"
+
+# game/day24.rpy:956
+translate french day24_r_sex_55fab30a:
+
+    # b "I really need to pee!"
+    b "J'ai vraiment envie de faire pipi !"
+
+# game/day24.rpy:957
+translate french day24_r_sex_f118db0c:
+
+    # r "Fuck! It's [b_name]!"
+    r "Putain ! C'est [b_name] !"
+
+# game/day24.rpy:958
+translate french day24_r_sex_47ac2dc7:
+
+    # r "Hide!!!"
+    r "Hide!!!"
+
+# game/day24.rpy:960
+translate french day24_r_sex_24cdadc7:
+
+    # r "Just a minute, sis!"
+    r "Une minute, frangine !"
+
+# game/day24.rpy:962
+translate french day24_r_sex_969bd260:
+
+    # r "Just a minute, [b_name]!"
+    r "Une minute [b_name] !"
+
+# game/day24.rpy:964
+translate french day24_r_sex_ef9c89de:
+
+    # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
+    "{i}L'eau glissante rend difficile une sortie rapide de la baignoire, mais grâce à quelques acrobaties, vous parvenez à atteindre la douche et à fermer le rideau."
+# game/day24.rpy:965
+translate french day24_r_sex_d3cba48b:
+
+    # r "Come in!"
+    r "Entrez !"
+
+# game/day24.rpy:967
+translate french day24_r_sex_390a81d1:
+
+    # b "Hey, thanks!"
+    b "Hey thanks !"
+
+# game/day24.rpy:968
+translate french day24_r_sex_d45e798a:
+
+    # b "Are you okay? There was a lot of noise back there."
+    b "Tu vas bien ? Il y avait beaucoup de bruit là-bas"
+
+# game/day24.rpy:969
+translate french day24_r_sex_4ad5bfc6:
+
+    # r "Yes... er... I thought I'd locked the door and wanted to open it for you."
+    r "Oui, je pensais avoir fermé la porte à clé et je voulais vous l'ouvrir."
+
+# game/day24.rpy:970
+translate french day24_r_sex_6f6ed129:
+
+    # b "The door was open."
+    b "La porte était ouverte"
+
+# game/day24.rpy:971
+translate french day24_r_sex_1fcc4145:
+
+    # r "I realized that when I was halfway there, that was the noises you heard. Probably."
+    r "J'ai réalisé que lorsque j'étais à mi-chemin, c'était les bruits que vous avez entendus Probablement"
+
+# game/day24.rpy:972
+translate french day24_r_sex_2b4a84c9:
+
+    # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
+    p "{i}(Ne vous occupez pas de moi, je ne suis pas là Et pour l'amour du ciel, ne prenez pas de douche !!!)"
+
+# game/day24.rpy:977
+translate french day24_r_sex_9e694855:
+
+    # b "Probably."
+    b "Probablement"
+
+# game/day24.rpy:978
+translate french day24_r_sex_16d84762:
+
+    # b "God. Thank you again for letting me in. I really needed to go."
+    b "Dieu Merci encore de m'avoir laissé entrer, j'avais vraiment besoin d'y aller"
+
+# game/day24.rpy:980
+translate french day24_r_sex_314fc477:
+
+    # r "No problem."
+    r "Pas de problème"
+
+# game/day24.rpy:981
+translate french day24_r_sex_c0644af4:
+
+    # b "So you've started college again today?"
+    b "Alors tu as recommencé l'université aujourd'hui ?"
+
+# game/day24.rpy:982
+translate french day24_r_sex_eb6544d5:
+
+    # r "Yup. Hated it."
+    r "J'ai détesté."
+
+# game/day24.rpy:983
+translate french day24_r_sex_907473de:
+
+    # b "Don't worry, once you have your diploma, you can do whatever you like."
+    b "Ne t'inquiète pas, une fois que tu auras ton diplôme, tu pourras faire ce que tu veux"
+
+# game/day24.rpy:984
+translate french day24_r_sex_9e58e45e:
+
+    # r "Did you have a good day?"
+    r "As-tu passé une bonne journée ?"
+
+# game/day24.rpy:986
+translate french day24_r_sex_8bab34f6:
+
+    # b "Yes, I really did!"
+    b "Oui, je l'ai vraiment fait !"
+
+# game/day24.rpy:987
+translate french day24_r_sex_63f9a95f:
+
+    # r "Tell me!"
+    r "Dis-moi !"
+
+# game/day24.rpy:988
+translate french day24_r_sex_070ecb41:
+
+    # b "Long story!"
+    b "Longue histoire !"
+
+# game/day24.rpy:990
+translate french day24_r_sex_8f376377:
+
+    # r "Come now, [b_name], you're positively glowing."
+    r "Allons, [b_name] tu es positivement rayonnant."
+
+# game/day24.rpy:991
+translate french day24_r_sex_5cf30c78:
+
+    # b "I know, I know. I think for once, things are working out."
+    b "Je sais, je sais, je pense que pour une fois les choses fonctionnent"
+
+# game/day24.rpy:992
+translate french day24_r_sex_bee3ef17:
+
+    # p "{i}(Yes, today was a great day.)"
+    p "{i}(Oui, aujourd'hui était un grand jour)"
+
+# game/day24.rpy:993
+translate french day24_r_sex_0122e9ae:
+
+    # r "You're in love!!! I just know it!"
+    r "Tu es amoureux ! !! Je le sais !"
+
+# game/day24.rpy:995
+translate french day24_r_sex_2993e132:
+
+    # b "Maybe..."
+    b "Peut-être"
+
+# game/day24.rpy:996
+translate french day24_r_sex_45116a39:
+
+    # r "Who?! You have to tell me!"
+    r "Qui ? Il faut me le dire !"
+
+# game/day24.rpy:997
+translate french day24_r_sex_12ff8583:
+
+    # b "Just enjoy your bath. I'll tell you when I'm ready."
+    b "Profite de ton bain, je te dirai quand je serai prête."
+
+# game/day24.rpy:998
+translate french day24_r_sex_72562e9e:
+
+    # p "{i}(Will she ever be ready?)"
+    p "{i}(Sera-t-elle jamais prête ?)"
+
+# game/day24.rpy:1000
+translate french day24_r_sex_d2622335:
+
+    # b "{i}(That can't be true, can it?)"
+    b "{i}(Ce n'est pas vrai, n'est-ce pas ?)"
+
+# game/day24.rpy:1001
+translate french day24_r_sex_5d7f781e:
+
+    # b "No, but someone special did help me move past a bad experience."
+    b "Non, mais quelqu'un de spécial m'a aidé à surmonter une mauvaise expérience"
+
+# game/day24.rpy:1002
+translate french day24_r_sex_0d7d562f:
+
+    # r "I'm glad. It sure looks good on you!"
+    r "Je suis contente, ça te va bien !"
+
+# game/day24.rpy:1003
+translate french day24_r_sex_faf82db6:
+
+    # p "{i}(She thinks I'm someone special. [b_name] is really coming around!)"
+    p "{i}(Elle pense que je suis quelqu'un de spécial [b_name] est vraiment en train de changer d'avis !)"
+
+# game/day24.rpy:1005
+translate french day24_r_sex_da5994be:
+
+    # b "{i}(Not a chance of that!)"
+    b "{i}(Il n'y a aucune chance que cela arrive !)"
+
+# game/day24.rpy:1006
+translate french day24_r_sex_fafdc263:
+
+    # b "No, but someone did help me move past a bad experience."
+    b "Non, mais quelqu'un m'a aidé à surmonter une mauvaise expérience"
+
+# game/day24.rpy:1007
+translate french day24_r_sex_6d60bdeb:
+
+    # r "Whatever, you just look happier is all."
+    r "Quoi qu'il en soit, vous avez l'air plus heureux, c'est tout"
+
+# game/day24.rpy:1008
+translate french day24_r_sex_be6b6660:
+
+    # p "{i}(I guess she hasn't fully submitted herself to me yet. I still have some work to do.)"
+    p "{i}(Je suppose qu'elle ne s'est pas encore totalement soumise à moi, j'ai encore du travail à faire)"
+
+# game/day24.rpy:1010
+translate french day24_r_sex_d8a5cb24:
+
+    # b "Well, you know, same old, same old."
+    b "Well you know same old same old"
+
+# game/day24.rpy:1011
+translate french day24_r_sex_555666ff:
+
+    # r "Yeah."
+    r "Oui"
+
+# game/day24.rpy:1012
+translate french day24_r_sex_22dcb7fa:
+
+    # b "I'll leave you to your bath."
+    b "Je vous laisse prendre votre bain"
+
+# game/day24.rpy:1013
+translate french day24_r_sex_35cc7ca5:
+
+    # p "{i}(Don't look to the right!)"
+    p "{i}(Ne regardez pas à droite !)"
+
+# game/day24.rpy:1014
+translate french day24_r_sex_b93142cc:
+
+    # r "Thanks, sleep tight."
+    r "Merci, dormez bien"
+
+# game/day24.rpy:1015
+translate french day24_r_sex_14aef3ff:
+
+    # b "You too, sis."
+    b "You too sis"
+
+# game/day24.rpy:1024
+translate french day24_r_sex_d31f2b7e:
+
+    # r "I think she's gone."
+    r "Je pense qu'elle est partie"
+
+# game/day24.rpy:1025
+translate french day24_r_sex_f13c71aa:
+
+    # r "How's my peeping Tom?"
+    r "Comment va mon voyeur ?"
+
+# game/day24.rpy:1026
+translate french day24_r_sex_db0dba76:
+
+    # p "Scared shitless, but I'll manage."
+    p "J'ai une peur bleue, mais je me débrouillerai."
+
+# game/day24.rpy:1027
+translate french day24_r_sex_306b895b:
+
+    # r "Let's have a shower together then, get rid of all that sweat."
+    r "Prenons une douche ensemble pour nous débarrasser de toute cette sueur."
+
+# game/day24.rpy:1033
+translate french day24_r_sex_0ba03374:
+
+    # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Vous rincez le corps de votre sœur avec vos mains, ce qui vous débarrasse de toute la mousse de savon et vous donne une excuse pour la toucher à votre guise Sans que [r_name] s'en plaigne"
+
+# game/day24.rpy:1035
+translate french day24_r_sex_c8affe1d:
+
+    # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Vous rincez le corps de votre amie avec vos mains, ce qui vous débarrasse de toute la mousse de savon et vous donne une excuse pour la toucher à votre guise Sans que [r_name] s'en plaigne."
+
+# game/day24.rpy:1036
+translate french day24_r_sex_3943a244:
+
+    # r "Mmmm, this feels nice as well."
+    r "Mmmm ça fait du bien aussi."
+
+# game/day24.rpy:1037
+translate french day24_r_sex_102cd8bd:
+
+    # r "Listen, [p_name], I know I said I was tired..."
+    r "Ecoutez [p_name] Je sais que j'ai dit que j'étais fatigué"
+
+# game/day24.rpy:1038
+translate french day24_r_sex_b1388a61:
+
+    # p "Yes... I have a feeling I like where this is going."
+    p "Oui, j'ai l'impression que j'aime la direction que cela prend."
+
+# game/day24.rpy:1043
+translate french day24_r_sex_510cc1ff:
+
+    # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
+    "{i}Remarquant votre érection, [r_name] remonte sa jambe et frotte sa chatte le long de la tige"
+
+# game/day24.rpy:1045
+translate french day24_r_sex_8fdada81:
+
+    # r "I really want to have sex."
+    r "J'ai vraiment envie de faire l'amour"
+
+# game/day24.rpy:1047
+translate french day24_r_sex_64ba66d3:
+
+    # r "I want you inside of me."
+    r "Je veux que tu sois en moi"
+
+# game/day24.rpy:1048
+translate french day24_r_sex_a7109580:
+
+    # r "Feel you, feel your cum inside of me."
+    r "Sentez vous sentir votre sperme en moi"
+
+# game/day24.rpy:1051
+translate french day24_r_sex_a1b15a1a:
+
+    # "{i}Despite the water, you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
+    "{i}Malgré l'eau, vous arrivez à glisser votre bite dans sa chatte. Vous saisissez fermement ses fesses et vous enfoncez doucement votre tige en elle, ce qui provoque un petit gémissement de la part de [r_name]."
+
+# game/day24.rpy:1053
+translate french day24_r_sex_8a7c140b:
+
+    # r "Ah yes, fuck me. I want to feel you so bad."
+    r "Ah oui, baise-moi, j'ai tellement envie de te sentir."
+
+# game/day24.rpy:1058
+translate french day24_r_sex_69f4a87e:
+
+    # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
+    "{i}De peur de tomber, vous laissez [r_name] appuyer sa main contre le mur pour pouvoir la baiser sans contrainte."
+# game/day24.rpy:1059
+translate french day24_r_sex_488f2b52:
+
+    # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
+    r "G-g-god baise-moi plus fort ! Je te veux [p_name] ! Baise-moi !"
+
+# game/day24.rpy:1061
+translate french day24_r_sex_fe069684:
+
+    # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust, you seem to pull her closer towards you, her ass smacking against your abdomen."
+    "{i}[r_name] griffe vos cheveux mouillés tandis que vous mordillez le lobe de son oreille A chaque poussée, vous semblez l'attirer plus près de vous, ses fesses claquant contre votre abdomen"
+
+# game/day24.rpy:1062
+translate french day24_r_sex_8a8d4ccb:
+
+    # p "I love you so much, [r_name]!"
+    p "Je t'aime tellement [r_name] !"
+
+# game/day24.rpy:1063
+translate french day24_r_sex_50b82d1f:
+
+    # r "Aaaaah, keep going!"
+    r "Aaaaah continuez !"
+
+# game/day24.rpy:1069
+translate french day24_r_sex_4ce5ecb2:
+
+    # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
+    "{i}Vous la tournez pour pouvoir la regarder dans les yeux quand vous jouissez Malgré l'eau chaude, son souffle est chaud contre vos joues quand elle gémit de plaisir."
+# game/day24.rpy:1074
+translate french day24_r_sex_f6992741:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "G-g-god Je suis prêt [r_name] !"
+
+# game/day24.rpy:1075
+translate french day24_r_sex_33470745:
+
+    # r "Keep fucking me! Please!"
+    r "Continuez à me baiser ! S'il te plaît !"
+
+# game/day24.rpy:1083
+translate french day24_r_sex_c0a02d04:
+
+    # p "G-g-aaaaah!"
+    p "G-g-aaaaah !"
+
+# game/day24.rpy:1084
+translate french day24_r_sex_6fbc588f:
+
+    # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
+    "{i}Vous exaucez son souhait et continuez à la battre profondément jusqu'à ce que votre crème coule de sa chatte et se mélange à l'eau de la douche."
+# game/day24.rpy:1094
+translate french day24_r_sex_f6992741_1:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "G-g-god Je suis prêt [r_name] !"
+
+# game/day24.rpy:1095
+translate french day24_r_sex_50ed1e49:
+
+    # p "On your knees baby, I want to see that lovely face of yours."
+    p "A genoux, bébé, je veux voir ton beau visage."
+
+# game/day24.rpy:1103
+translate french day24_r_sex_c0a02d04_1:
+
+    # p "G-g-aaaaah!"
+    p "G-g-aaaaah !"
+
+# game/day24.rpy:1104
+translate french day24_r_sex_3e62347d:
+
+    # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
+    "{i}[r_name] se doigte alors que son visage est couvert de ton sperme. Une partie du sperme entre dans sa bouche et elle l'avale sans hésitation."
+
+# game/day24.rpy:1113
+translate french day24_r_sex_21a88cd7:
+
+    # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
+    "{i}Vous gardez [r_name] près de vous pendant que les restes de votre accouplement s'en vont Après cela, vous vous embrassez pour la nuit et vous quittez la salle de bain séparément."

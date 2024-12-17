@@ -5264,3 +5264,635 @@ translate french day23_flashback_6c92b1a6:
 
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
     "{i}J'ai fait toutes ces choses en prenant ses mamelons majestueux dans ma bouche et en leur donnant l'attention qu'ils méritaient Sasha a commencé à gémir doucement et à écarter les jambes."
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day23.rpy:239
+translate french day23_choices_05ffd1fb:
+
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(Il est temps d'offrir à [l_name] son cadeau emballé et tout)"
+
+# game/day23.rpy:244
+translate french day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "Hey !"
+
+# game/day23.rpy:245
+translate french day23_choices_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name] !"
+
+# game/day23.rpy:246
+translate french day23_choices_d4d9144c:
+
+    # p "I've come bearing gifts!"
+    p "Je suis venu avec des cadeaux !"
+
+# game/day23.rpy:248
+translate french day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "Excitant !"
+
+# game/day23.rpy:250
+translate french day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "En vous souriant, votre sœur ouvre lentement la boîte pour en révéler le contenu."
+# game/day23.rpy:252
+translate french day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "En vous souriant, votre ami ouvre lentement la boîte pour en révéler le contenu."
+# game/day23.rpy:257
+translate french day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "Qu'est-ce que c'est ?"
+# game/day23.rpy:259
+translate french day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "Oh non [p_name] tu ne l'as pas fait"
+
+# game/day23.rpy:260
+translate french day23_choices_e3441fb8:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "J'ai dit que je t'en offrirais un en cadeau, tu ne l'aimes pas ?"
+
+# game/day23.rpy:261
+translate french day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "Je ne sais pas"
+
+# game/day23.rpy:262
+translate french day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Je pense que c'est un peu bizarre pour un cadeau"
+
+# game/day23.rpy:263
+translate french day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Les couples s'offrent des jouets sexuels tout le temps"
+
+# game/day23.rpy:264
+translate french day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Ils le font, n'est-ce pas ?)"
+
+# game/day23.rpy:265
+translate french day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Mais ça a l'air tellement tellement pornographique ?"
+
+# game/day23.rpy:266
+translate french day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Vous auriez dû voir les autres exposés Celui-ci est aussi subtil que possible"
+
+# game/day23.rpy:268
+translate french day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Ok Merci"
+
+# game/day23.rpy:269
+translate french day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Elle n'a pas l'air tout à fait convaincue)"
+
+# game/day23.rpy:270
+translate french day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "Pas de problème Et c'est à vous de décider si vous voulez l'utiliser ou non, bien sûr Cela ne me dérange pas qu'il prenne la poussière dans un tiroir."
+
+# game/day23.rpy:271
+translate french day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Merci, je m'en souviendrai."
+
+# game/day23.rpy:272
+translate french day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Bien que vous manquiez quelque chose si vous le faites"
+
+# game/day23.rpy:273
+translate french day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "D'accord, d'accord ! J'ai compris le message"
+
+# game/day23.rpy:274
+translate french day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}La fille vous sourit lorsque vous sortez de sa chambre."
+# game/day23.rpy:279
+translate french day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "Qu'est-ce que c'est ?"
+# game/day23.rpy:281
+translate french day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "J'ai dit que je t'en offrirais un en cadeau, tu ne l'aimes pas ?"
+
+# game/day23.rpy:282
+translate french day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "Je ne sais pas"
+
+# game/day23.rpy:283
+translate french day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "C'est énorme"
+
+# game/day23.rpy:284
+translate french day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Vous ressentirez tout beaucoup plus intensément"
+
+# game/day23.rpy:286
+translate french day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Je suis désolé [p_name] mais c'est trop"
+
+# game/day23.rpy:287
+translate french day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Je n'ai pas demandé ça et tu m'as donné ce truc Pourquoi as-tu fait ça ?"
+
+# game/day23.rpy:288
+translate french day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Merde Elle n'est clairement pas impressionnée)"
+
+# game/day23.rpy:289
+translate french day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "J'ai pensé que vous l'apprécieriez, c'est un excellent stimulant, vous savez."
+
+# game/day23.rpy:290
+translate french day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "Je ne suis pas ce genre de fille [p_name], tu devrais le savoir maintenant."
+
+# game/day23.rpy:291
+translate french day23_choices_59810b3a:
+
+    # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
+    p "Je suis désolé [l_name] Je ne l'ai pas fait Je vais vous laisser tranquille"
+
+# game/day23.rpy:292
+translate french day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}La jeune fille reste silencieuse tandis que vous sortez de la pièce en hésitant."
+# game/day23.rpy:299
+translate french day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Vous attendez avec impatience que le soir tombe et vous vous habillez en costume pour sortir avec [m_name]."
+# game/day23.rpy:301
+translate french day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Vous passez le temps jusqu'à la tombée de la nuit en réchauffant quelque chose au micro-ondes."
+# game/day23.rpy:1274
+translate french day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "C'est confortable, tu ne trouves pas ?"
+
+# game/day23.rpy:1275
+translate french day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Si vous voulez dire étroit et malsain, je suis d'accord."
+
+# game/day23.rpy:1276
+translate french day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "Viens, on va s'amuser"
+
+# game/day23.rpy:1277
+translate french day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ana insère une pièce dans la fente et un film commence à être diffusé sur le grand écran. Elle vous fait signe de vous asseoir."
+# game/day23.rpy:1279
+translate french day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "Profitez-en maintenant"
+
+# game/day23.rpy:1280
+translate french day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Alors qu'Ana se déshabille, les acteurs à l'écran ont déjà terminé leurs préliminaires rapides et la fille le chevauche en cowgirl inversé."
+# game/day23.rpy:1281
+translate french day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Je savais que tu aimerais ça Tu es déjà dur"
+
+# game/day23.rpy:1282
+translate french day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "Tu aimes quand une fille se fait pilonner comme ça par une grosse bite bien dure ?"
+
+# game/day23.rpy:1287
+translate french day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}Après s'être déshabillée, Ana se met à genoux et dévore avidement votre érection palpitante."
+# game/day23.rpy:1288
+translate french day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Mmmm ouais j'ai raté ça"
+
+# game/day23.rpy:1289
+translate french day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Utilise ta bouche, sale petit suceur de bites."
+
+# game/day23.rpy:1291
+translate french day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ana croise ses mains derrière son dos et avale encore plus de ta longueur La salive dégouline sur le sol alors qu'elle bâillonne"
+
+# game/day23.rpy:1292
+translate french day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}Tu l'aides à établir un rythme en guidant sa tête de haut en bas de ta bite"
+
+# game/day23.rpy:1293
+translate french day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Oui, comme ça"
+
+# game/day23.rpy:1294
+translate french day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Votre bite est toujours dans sa bouche, vous vous arrêtez juste avant de remplir sa bouche de semence. Voulant prolonger vos ébats, vous attrapez ses cheveux et l'éloignez de votre érection."
+# game/day23.rpy:1299
+translate french day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Ride me"
+
+# game/day23.rpy:1305
+translate french day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}La fille grimpe sur toi et ta bite se glisse facilement dans sa chatte humide. Ravie, elle te masse les couilles en montant et descendant le long de la tige."
+# game/day23.rpy:1306
+translate french day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Mmmmm tu es si profond."
+
+# game/day23.rpy:1307
+translate french day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}Ses fesses claquent contre tes cuisses alors qu'elle te chevauche Les seins d'Ana frôlent ton visage et tu suces avidement ses mamelons."
+
+# game/day23.rpy:1308
+translate french day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "Le son du film porno qui passe encore est noyé par les gémissements rauques d'Ana."
+# game/day23.rpy:1310
+translate french day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Voulant plus de contrôle, tu soulèves Ana de ta queue et tu la retournes."
+
+# game/day23.rpy:1311
+translate french day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Je veux voir ton cul"
+
+# game/day23.rpy:1312
+translate french day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "Non non ne t'arrête pas !"
+
+# game/day23.rpy:1313
+translate french day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}Chaque fois que vous enfoncez votre bite dans son vagin, de petites gouttes d'eau s'écoulent de son vagin sur vos cuisses."
+# game/day23.rpy:1314
+translate french day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "Oui oui ! Baise-moi, n'arrête pas [p_name]"
+
+# game/day23.rpy:1315
+translate french day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "Tu aimes ça, petite pute ?"
+
+# game/day23.rpy:1316
+translate french day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "J'aime ça ! Je l'adore, putain !"
+# game/day23.rpy:1322
+translate french day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Après que sa chatte ait joui de votre bite pendant un certain temps, vous vous retirez et vous tirez Ana sur le sol."
+# game/day23.rpy:1324
+translate french day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "Maintenant, goûte ta chatte"
+
+# game/day23.rpy:1325
+translate french day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Mmmm oui !"
+
+# game/day23.rpy:1331
+translate french day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Je veux utiliser ton cul"
+
+# game/day23.rpy:1332
+translate french day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "Oui ! C'est prêt pour toi Utilise-moi !"
+
+# game/day23.rpy:1338
+translate french day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}Vous la poussez sur la chaise et elle écarte ses joues pour vous donner une belle vue de son petit trou du cul."
+# game/day23.rpy:1339
+translate french day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}Malgré ce qu'elle a dit, le cul d'Ana n'est clairement pas prêt pour ta taille. Quand tu pousses la pointe à l'intérieur, elle arrête de gémir et grince des dents."
+# game/day23.rpy:1340
+translate french day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Aaah It Aaaah"
+
+# game/day23.rpy:1341
+translate french day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Tu craches sur son trou du cul et tu pousses ta bite plus loin dans son cul"
+
+# game/day23.rpy:1342
+translate french day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "Il y a tellement de toi..."
+
+# game/day23.rpy:1343
+translate french day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}Vous lui tenez les bras et la tirez vers vous Son trou du cul est très serré malgré le fait qu'Ana se détende de plus en plus."
+# game/day23.rpy:1344
+translate french day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Aah oui Baise mon cul"
+
+# game/day23.rpy:1346
+translate french day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Son cul rebondit pendant que vous la baisez Chaque fois que votre bite la pénètre Ana pousse son visage contre le cuir de la chaise, son expression se contorsionne dans un mélange de douleur et de plaisir."
+# game/day23.rpy:1352
+translate french day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Après que son cul ait joui de votre bite pendant un certain temps, vous vous retirez et tirez Ana sur le sol."
+# game/day23.rpy:1354
+translate french day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "Maintenant, goûtez ce trou du cul"
+
+# game/day23.rpy:1355
+translate french day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Mmmm oui !"
+
+# game/day23.rpy:1357
+translate french day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Avec les deux mains, vous poussez sa tête sur votre bite et la forcez à vous sucer profondément. Elle halète et s'étouffe, et des flots de mucus clair coulent sur sa poitrine."
+# game/day23.rpy:1366
+translate french day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Lorsque vous sentez votre orgasme approcher, vous la tirez sur vos genoux et vous lui enfoncez à nouveau votre bite dans le cul sans pause."
+# game/day23.rpy:1368
+translate french day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Lorsque vous sentez votre orgasme approcher, vous la tirez sur vos genoux et lui enfoncez votre bite dans les fesses sans prévenir."
+# game/day23.rpy:1369
+translate french day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Fffffffuuuck !"
+
+# game/day23.rpy:1372
+translate french day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}Après une courte série de poussées furieuses, tu exploses dans son trou du cul serré."
+# game/day23.rpy:1373
+translate french day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes !!!"
+
+# game/day23.rpy:1374
+translate french day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "Fuck me ! Baise-moi !"
+
+# game/day23.rpy:1375
+translate french day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Ton orgasme est prolongé par la stimulation de son anus Tu continues à la baiser jusqu'à ce que tu aies injecté les dernières gouttes de sperme en elle et que du sperme commence à s'écouler de son trou du cul."
+
+# game/day23.rpy:1392
+translate french day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Lorsque vous sentez votre orgasme approcher, vous vous allongez et vous la tirez sur votre bite. Elle commence à vous chevaucher sans interruption."
+# game/day23.rpy:1398
+translate french day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}Après une courte série de poussées furieuses, tu exploses dans sa chatte serrée."
+# game/day23.rpy:1399
+translate french day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes !!!"
+
+# game/day23.rpy:1400
+translate french day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "Fuck me ! Baise-moi !"
+
+# game/day23.rpy:1401
+translate french day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}Vous la maintenez sur votre bite jusqu'à ce que vous ayez injecté les dernières gouttes de sperme en elle et que du sperme commence à s'écouler de sa fente humide."
+# game/day23.rpy:1412
+translate french day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Des sons humides sortent de sa bouche alors que vous lui baisez la gorge. Ses yeux larmoyants vous regardent dans un plaisir délirant."
+# game/day23.rpy:1419
+translate french day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}Après une courte série de poussées furieuses, vous vous retirez et votre bite se met à gicler du sperme en frappant son visage."
+# game/day23.rpy:1420
+translate french day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes !!!"
+
+# game/day23.rpy:1421
+translate french day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Oui ! Donne-le moi !"
+
+# game/day23.rpy:1422
+translate french day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Son visage est bientôt couvert de sperme qu'elle lèche avidement aux coins de sa bouche."
+# game/day23.rpy:1432
+translate french day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Des sons humides sortent de sa bouche alors que vous lui baisez la gorge. Ses yeux larmoyants vous regardent dans un plaisir délirant."
+# game/day23.rpy:1440
+translate french day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}Après une courte série de poussées furieuses, vous vous retirez et poussez Ana sur le sol. Votre bite commence à gicler du sperme sur ses seins et son ventre."
+# game/day23.rpy:1441
+translate french day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes !!!"
+
+# game/day23.rpy:1442
+translate french day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "Oui ! Donne-le moi !"
+
+# game/day23.rpy:1443
+translate french day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ana se doigte en frottant ton sperme dans sa chatte. Tu t'assures que son corps est recouvert de chaque goutte de sperme."
+# game/day23.rpy:1453
+translate french day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}La jeune fille se nettoie et s'appuie sur l'écran où l'actrice vient de recevoir une charge dans sa bouche."
+# game/day23.rpy:1455
+translate french day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "Putain, tu sais vraiment comment faire pour qu'une fille se sente bien, n'est-ce pas ?"
+
+# game/day23.rpy:1456
+translate french day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Merci, j'aime vraiment faire du shopping avec toi"
+
+# game/day23.rpy:1457
+translate french day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "J'ai remarqué !"
+
+# game/day23.rpy:1459
+translate french day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Vous vous habillez tous les deux et vous quittez la cabine vidéo La fille au comptoir vous regarde d'un air bizarre."
+
+# game/day23.rpy:1460
+translate french day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "J'en déduis donc que vous avez apprécié ce qui s'est passé là-bas ?"
+
+# game/day23.rpy:1461
+translate french day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "C'était très stimulant"
+
+# game/day23.rpy:1462
+translate french day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Oui, un grand film"
+

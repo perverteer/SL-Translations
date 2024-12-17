@@ -2820,3 +2820,345 @@ translate french day08_p_room_evening_choices_d2ddba57:
     # p "Don't worry, sleep well, [r_name]."
     p "Ne t'inquiète pas, dors bien, [r_name]."
 
+# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day08.rpy:727
+translate french day08_ana_sex_22702385:
+
+    # a "Are you going to fuck me, [p_name]?"
+    a "Tu vas me baiser [p_name] ?"
+
+# game/day08.rpy:728
+translate french day08_ana_sex_2e86bc82:
+
+    # p "The thought has crossed my mind."
+    p "L'idée m'a traversé l'esprit"
+
+# game/day08.rpy:729
+translate french day08_ana_sex_dca9bfc2:
+
+    # p "A lot."
+    p "Beaucoup"
+
+# game/day08.rpy:730
+translate french day08_ana_sex_7f108f9a:
+
+    # a "Hehe."
+    a "Hehe"
+
+# game/day08.rpy:735
+translate french day08_ana_sex_528dd6bf:
+
+    # a "Let me get you ready."
+    a "Laissez-moi vous préparer"
+
+# game/day08.rpy:739
+translate french day08_ana_sex_1611ca52:
+
+    # "{i}Ana unzips your trousers and frees your growing member. She starts kissing and licking your penis, while gently massaging your balls."
+    "{i}Elle commence à embrasser et à lécher votre pénis tout en massant doucement vos couilles."
+
+# game/day08.rpy:747
+translate french day08_ana_sex_c75481bb:
+
+    # a "You like that don't you?"
+    a "Tu aimes ça, n'est-ce pas ?"
+
+# game/day08.rpy:748
+translate french day08_ana_sex_939349fb:
+
+    # a "Do you want me to suck it, make it all wet?"
+    a "Tu veux que je le suce pour qu'il soit tout mouillé ?"
+
+# game/day08.rpy:754
+translate french day08_ana_sex_6606018f:
+
+    # p "Put it in your mouth."
+    p "Mets-le dans ta bouche"
+
+# game/day08.rpy:759
+translate french day08_ana_sex_96e5c3db:
+
+    # a "Mmmmm."
+    a "Mmmmm"
+
+# game/day08.rpy:760
+translate french day08_ana_sex_9acf9aff:
+
+    # "{i}Clearly already adjusted to your size, Ana's mouth slides down the full length of your your shaft, her tongue whirling fast and eager."
+    "{i}La bouche d'Ana s'adapte déjà clairement à ta taille et glisse sur toute la longueur de ta tige, sa langue tourbillonnant rapidement et avec empressement."
+# game/day08.rpy:761
+translate french day08_ana_sex_01654862:
+
+    # p "{i}(Oh fuck, this is so good. If she keeps at it like this I'm going to cum already.)"
+    p "{i}(Oh putain c'est tellement bon Si elle continue comme ça je vais déjà jouir)"
+
+# game/day08.rpy:768
+translate french day08_ana_sex_dd377334:
+
+    # "{i}She clearly sees you struggling not to fill her mouth with semen, so Ana stops and looks at you longingly while fingering her pussy."
+    "{i}Elle voit clairement que tu luttes pour ne pas remplir sa bouche de sperme, alors Ana s'arrête et te regarde longuement tout en se doigtant la chatte."
+# game/day08.rpy:769
+translate french day08_ana_sex_afdc4606:
+
+    # a "Stay with me, [p_name], don't cum yet."
+    a "Reste avec moi [p_name] ne jouis pas encore"
+
+# game/day08.rpy:770
+translate french day08_ana_sex_21cd4f33:
+
+    # a "I want your dick in my pussy."
+    a "Je veux ta bite dans ma chatte."
+
+# game/day08.rpy:771
+translate french day08_ana_sex_8f0a9462:
+
+    # a "Would you like that?"
+    a "Vous aimeriez ça ?"
+
+# game/day08.rpy:772
+translate french day08_ana_sex_574340d2:
+
+    # p "Hell yes."
+    p "Bien sûr que oui"
+
+# game/day08.rpy:779
+translate french day08_ana_sex_44c1eb5a:
+
+    # p "Are you rubbing your clit for me, dirty girl?"
+    p "Est-ce que tu frottes ton clito pour moi, sale fille ?"
+
+# game/day08.rpy:780
+translate french day08_ana_sex_c414b917:
+
+    # a "Uhuh, I want to be all wet when you fuck me."
+    a "Uhuh Je veux être toute mouillée quand tu me baises"
+
+# game/day08.rpy:781
+translate french day08_ana_sex_62cde2e6:
+
+    # p "I think your cunt is clearly ready for my dick."
+    p "Je pense que ta chatte est clairement prête pour ma bite"
+
+# game/day08.rpy:785
+translate french day08_ana_sex_7a20b216:
+
+    # p "Spread your legs for me, show me that sweet pussy of yours."
+    p "Ecarte tes jambes pour moi, montre-moi ta douce chatte."
+
+# game/day08.rpy:791
+translate french day08_ana_sex_daca5362:
+
+    # "{i}You tease her glistening pussy lips with the tip of your penis. Ana moans with abandon."
+    "{i}Vous taquinez les lèvres brillantes de sa chatte avec le bout de votre pénis. Ana gémit avec abandon."
+# game/day08.rpy:792
+translate french day08_ana_sex_142e69c9:
+
+    # a "Put it in [p_name]. Fuck me!"
+    a "Mettez-le dans [p_name] Fuck me !"
+
+# game/day08.rpy:795
+translate french day08_ana_sex_14dac887:
+
+    # "{i}You push the tip of your penis past her labia. Ana gasps and you push further until your member is completely engulfed by her womanhood."
+    "{i}Vous poussez le bout de votre pénis au-delà de ses lèvres. Ana halète et vous poussez encore plus loin jusqu'à ce que votre membre soit complètement englouti par sa féminité."
+# game/day08.rpy:796
+translate french day08_ana_sex_2632d017:
+
+    # a "Aah, you feel so good, [p_name]."
+    a "Aah tu te sens si bien [p_name]"
+
+# game/day08.rpy:797
+translate french day08_ana_sex_48808d18:
+
+    # p "Yeah, you want me to fuck your dirty little pussy? Make you scream, you little slut?"
+    p "Ouais, tu veux que je baise ta sale petite chatte ? Que je te fasse crier, petite salope ?"
+
+# game/day08.rpy:798
+translate french day08_ana_sex_924215d2:
+
+    # a "Make me scream, [p_name]!"
+    a "Faites-moi crier [p_name] !"
+
+# game/day08.rpy:804
+translate french day08_ana_sex_b44e9ea5:
+
+    # "{i}Slowly you fuck her pussy. Ana's hands are all over your back, squeezing and raking, as if encouraging you to go deeper and faster."
+    "{i}Lentement, tu baises sa chatte. Les mains d'Ana sont partout dans ton dos, pressant et ratissant comme pour t'encourager à aller plus loin et plus vite."
+# game/day08.rpy:805
+translate french day08_ana_sex_c7b3048d:
+
+    # a "F-f-fuck yes!"
+    a "F-f-fuck oui !"
+
+# game/day08.rpy:806
+translate french day08_ana_sex_8ef1766a:
+
+    # a "Fuck me harder, [p_name]!"
+    a "Baise-moi plus fort [p_name] !"
+
+# game/day08.rpy:807
+translate french day08_ana_sex_879bf6b4:
+
+    # a "Harder!"
+    a "Plus fort !"
+
+# game/day08.rpy:811
+translate french day08_ana_sex_a84462e0:
+
+    # "{i}Ana's room is filled with noises of moaning, gasping and the wet, rhythmic sounds of penetration."
+    "{i}La chambre d'Ana est remplie de bruits de gémissements, de halètements et de sons rythmiques humides de pénétration."
+# game/day08.rpy:814
+translate french day08_ana_sex_d6faea8c:
+
+    # "{i}With closed eyes and a look of bliss on her flushed face, Ana starts rubbing her clitoris."
+    "{i}Les yeux fermés et le visage rougi par le bonheur, Ana commence à se frotter le clitoris."
+# game/day08.rpy:815
+translate french day08_ana_sex_2da1e7f5:
+
+    # a "Aaaah... Don't stop! Please don't stop!"
+    a "Aaaah Ne vous arrêtez pas ! S'il vous plaît, ne vous arrêtez pas !"
+
+# game/day08.rpy:816
+translate french day08_ana_sex_a0bb9737:
+
+    # "{i}You feel her muscles contracting, applying more pressure to your dick. You're about to cum and Ana is close too, you feel."
+    "{i}Vous sentez ses muscles se contracter et exercer une plus grande pression sur votre bite Vous êtes sur le point d'éjaculer et Ana est proche aussi vous sentez"
+
+# game/day08.rpy:817
+translate french day08_ana_sex_678e1d5b:
+
+    # p "I'm cumming."
+    p "Je jouis"
+
+# game/day08.rpy:818
+translate french day08_ana_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Oui ! Donne-le moi !"
+
+# game/day08.rpy:824
+translate french day08_ana_sex_99948d78:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaaah !!!"
+
+# game/day08.rpy:828
+translate french day08_ana_sex_5544b7c9:
+
+    # "{i}A thick load of sperm fills Ana's vagina. With clawing hands she pushes your body down, clearly urging you to keep going."
+    "{i}Une épaisse charge de sperme remplit le vagin d'Ana Avec des mains griffues, elle pousse votre corps vers le bas en vous incitant clairement à continuer."
+# game/day08.rpy:830
+translate french day08_ana_sex_1bd5a98d:
+
+    # a "Fuck me! I'm about to..."
+    a "Fuck me ! Je suis sur le point de"
+
+# game/day08.rpy:831
+translate french day08_ana_sex_a727b9dd:
+
+    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
+    "{i}Avec beaucoup d'efforts, vous continuez à la baiser. Le sperme s'échappe de son vagin et rend votre bite glissante."
+# game/day08.rpy:838
+translate french day08_ana_sex_be2d2108:
+
+    # a "Y-y-yesssssss!!!"
+    a "Y-y-yesssssss !!!"
+
+# game/day08.rpy:839
+translate french day08_ana_sex_2be3b5ce:
+
+    # "{i}Both her hands slam down on your ass as she holds you tight, orgasming wildly."
+    "{i}Ses deux mains s'abattent sur ton cul alors qu'elle te tient fermement en orgasmant sauvagement."
+# game/day08.rpy:844
+translate french day08_ana_sex_219776d4:
+
+    # "{i}After you pull out Ana slides her fingers lazily in and out of her cunt, spreading cum all over her pubic area. She still moans softly."
+    "{i}Après que tu te sois retiré, Ana fait glisser ses doigts paresseusement dans et hors de sa chatte, répandant le sperme sur son pubis. Elle gémit encore doucement."
+# game/day08.rpy:849
+translate french day08_ana_sex_7db673e9:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's vagina still oozing with your cum."
+    "{i}Il faut un certain temps pour que vous récupériez tous les deux Vous êtes tous les deux allongés nus sur le lit Le vagin d'Ana suinte encore de votre sperme."
+
+# game/day08.rpy:860
+translate french day08_ana_sex_35788734:
+
+    # "{i}As soon as you feel you're about to cum you pull out and shoot a thick load of sperm over Ana's body."
+    "{i}Dès que tu sens que tu es sur le point d'éjaculer, tu te retires et tu envoies une grosse giclée de sperme sur le corps d'Ana."
+# game/day08.rpy:864
+translate french day08_ana_sex_99948d78_1:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaaah !!!"
+
+# game/day08.rpy:870
+translate french day08_ana_sex_79bb4801:
+
+    # "{i}Clearly not satisfied, Ana rubs her pussy more violently, massaging her breasts with your cum."
+    "{i}Manifestement pas satisfaite, Ana frotte sa chatte plus violemment en massant ses seins avec ton sperme."
+# game/day08.rpy:871
+translate french day08_ana_sex_be2d2108_1:
+
+    # a "Y-y-yesssssss!!!"
+    a "Y-y-yesssssss !!!"
+
+# game/day08.rpy:875
+translate french day08_ana_sex_a3032372:
+
+    # "{i}Your dick still dripping with semen, you look at her while she violently orgasms on the bed."
+    "{i}Votre bite dégoulinant encore de sperme, vous la regardez pendant qu'elle a un orgasme violent sur le lit."
+# game/day08.rpy:880
+translate french day08_ana_sex_d43e1bed:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's body covered with your drying cum."
+    "{i}Il faut un certain temps pour que vous récupériez tous les deux Vous êtes tous les deux allongés nus sur le lit Le corps d'Ana est recouvert de votre sperme séché."
+
+# game/day08.rpy:889
+translate french day08_ana_sex_9014c5a1:
+
+    # a "That was so good."
+    a "C'était si bon"
+
+# game/day08.rpy:890
+translate french day08_ana_sex_cf6d0b68:
+
+    # p "I agree."
+    p "Je suis d'accord"
+
+# game/day08.rpy:891
+translate french day08_ana_sex_27abc72b:
+
+    # a "If you're not careful I'm going to call you every hour for some exercise."
+    a "Si tu ne fais pas attention, je vais t'appeler toutes les heures pour que tu fasses de l'exercice."
+
+# game/day08.rpy:892
+translate french day08_ana_sex_25d35c37:
+
+    # p "In that case, I hope I have the stamina to perform."
+    p "Dans ce cas, j'espère que j'aurai l'endurance nécessaire pour me produire"
+
+# game/day08.rpy:893
+translate french day08_ana_sex_96edc86c:
+
+    # a "Hate to say this, because I could have another go, but my Mom is about to come home. And I want to avoid the complicated questions she might have."
+    a "Je déteste dire cela parce que j'aurais pu faire une autre tentative, mais ma mère est sur le point de rentrer à la maison et je veux éviter les questions compliquées qu'elle pourrait avoir."
+
+# game/day08.rpy:894
+translate french day08_ana_sex_8475d17b:
+
+    # p "{i}(Damn she's insatiable. Though I could go again as well, now that she mentions it.)"
+    p "{i}(Bon sang, elle est insatiable Bien que je puisse recommencer maintenant qu'elle en parle)"
+
+# game/day08.rpy:895
+translate french day08_ana_sex_bb7dfb49:
+
+    # p "I understand."
+    p "Je comprends"
+
+# game/day08.rpy:896
+translate french day08_ana_sex_f99d2351:
+
+    # a "I'll see you again soon."
+    a "Je te reverrai bientôt."
+

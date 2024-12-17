@@ -12755,7 +12755,7 @@ translate french day145_wedding_ceremony_2048af1c:
 translate french day145_wedding_ceremony_70eb66e8:
 
     # man "Do you together promise you will love, cherish and respect one another throughout the years?"
-    homme "Promettez-vous ensemble de vous aimer, de vous chérir et de vous respecter l'un l'autre tout au long de ces années ?"
+    man "Promettez-vous ensemble de vous aimer, de vous chérir et de vous respecter l'un l'autre tout au long de ces années ?"
 
 # game/day145.rpy:1790
 translate french day145_wedding_feast_6f9086c8:
@@ -13077,4 +13077,177 @@ translate french day145_mi_s_sa_conversation_76cd4b56_2:
 translate french day145_wedding_feast_0f86c456:
 
     # m "I admit that the idea of you two moving abroad took a long while to get accustomed to."
-    m "J'admets que l'idée de vous voir partir à l'étranger a mis du temps à m'habituer."
+    m "J'admets que l'idée de vous voir partir à l'étranger a mis du temps à m'habituer."# TODO: Translation updated at 2024-11-19 10:24
+
+# game/day145.rpy:2792
+translate french day145_r_b_l_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Adriana participe-t-elle à cette scène ?"
+
+# game/day145.rpy:2796
+translate french day145_r_b_l_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana participe"
+
+# game/day145.rpy:2799
+translate french day145_r_b_l_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana ne participe pas"
+
+# game/day145.rpy:3628
+translate french day145_r_b_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "Adriana participe-t-elle à cette scène ?"
+
+# game/day145.rpy:3632
+translate french day145_r_b_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana participe"
+
+# game/day145.rpy:3635
+translate french day145_r_b_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana ne participe pas"
+
+# game/day145.rpy:4967
+translate french day145_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Est-ce que [m_name] est enceinte dans cette scène ?"
+
+# game/day145.rpy:4971
+translate french day145_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] enceinte"
+
+# game/day145.rpy:4974
+translate french day145_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] n'est pas enceinte"
+
+# game/day145.rpy:5179
+translate french day145_b_sex_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "Est-ce que [b_name] est soumis dans cette scène ?"
+
+# game/day145.rpy:5184
+translate french day145_b_sex_b2ede48b:
+
+    # "[b_name] submissive"
+    "[b_name] soumis"
+
+# game/day145.rpy:5186
+translate french day145_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Est-ce que [b_name] est un full sub dans cette scène ?"
+
+# game/day145.rpy:5190
+translate french day145_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] fully submissive"
+
+# game/day145.rpy:5193
+translate french day145_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] n'est pas totalement soumis"
+
+# game/day145.rpy:5199
+translate french day145_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Est-ce que [b_name] est enceinte dans cette scène ?"
+
+# game/day145.rpy:5203
+translate french day145_b_sex_047eed70:
+
+    # "[b_name] pregnant and not submissive"
+    "[b_name] enceinte et non soumise"
+
+# game/day145.rpy:5206
+translate french day145_b_sex_792ada9c:
+
+    # "[b_name] not pregnant and not submissive"
+    "[b_name] pas enceinte et pas soumise"
+
+# game/day145.rpy:5513
+translate french day145_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Est-ce que [l_name] est enceinte dans cette scène ?"
+
+# game/day145.rpy:5517
+translate french day145_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] enceinte"
+
+# game/day145.rpy:5520
+translate french day145_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] n'est pas enceinte"
+
+# game/day145.rpy:5689
+translate french day145_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Est-ce que [r_name] est enceinte dans cette scène ?"
+
+# game/day145.rpy:5693
+translate french day145_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] enceinte"
+
+# game/day145.rpy:5696
+translate french day145_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] n'est pas enceinte"
+
+# game/day145.rpy:5698
+translate french day145_r_sex_522a9764:
+
+    # "Does Ana participate in this scene?"
+    "Ana participe-t-elle à cette scène ?"
+
+# game/day145.rpy:5703
+translate french day145_r_sex_0569fb1a:
+
+    # "Ana participates"
+    "Ana participe"
+# game/day145.rpy:5706
+translate french day145_r_sex_3f44a671:
+
+    # "Ana doesn't participate"
+    "Ana ne participe pas"
+
+# game/day145.rpy:5708
+translate french day145_r_sex_72a60c9f:
+
+    # "Does Alina participate in this scene?"
+    "Alina participe-t-elle à cette scène ?"
+
+# game/day145.rpy:5713
+translate french day145_r_sex_5a510202:
+
+    # "Alina participates"
+    "Alina participe"
+# game/day145.rpy:5716
+translate french day145_r_sex_7852c3e9:
+
+    # "Alina doesn't participate"
+    "Alina ne participe pas"
+
