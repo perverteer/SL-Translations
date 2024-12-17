@@ -256,7 +256,7 @@ translate brazilian strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "Assisti ao vídeo inteiro de Brody e seu "amigo"."
+    new "Assisti ao vídeo inteiro de Brody e seu 'amigo'."
 
     # game/achievements.rpy:3
     old "Studied Hard"

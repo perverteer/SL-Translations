@@ -256,7 +256,7 @@ translate russian strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "Просмотрел все видео с Броуди и его "другом"."
+    new "Просмотрел все видео с Броуди и его 'другом'."
 
     # game/achievements.rpy:3
     old "Studied Hard"

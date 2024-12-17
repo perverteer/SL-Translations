@@ -256,7 +256,7 @@ translate italian strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "Ho guardato l'intero video di Brody e del suo "amico"."
+    new "Ho guardato l'intero video di Brody e del suo 'amico'."
 
     # game/achievements.rpy:3
     old "Studied Hard"

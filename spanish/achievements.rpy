@@ -256,7 +256,7 @@ translate spanish strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "He visto todo el vídeo de Brody y su "amigo"."
+    new "He visto todo el vídeo de Brody y su 'amigo'."
 
     # game/achievements.rpy:3
     old "Studied Hard"

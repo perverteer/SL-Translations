@@ -256,7 +256,7 @@ translate polish strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "Obejrzałem całe wideo Brody'ego i jego "przyjaciela"."
+    new "Obejrzałem całe wideo Brody'ego i jego 'przyjaciela'."
 
     # game/achievements.rpy:3
     old "Studied Hard"

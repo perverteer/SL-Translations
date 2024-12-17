@@ -256,7 +256,7 @@ translate french strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "J'ai regardé toute la vidéo de Brody et de son "ami"."
+    new "J'ai regardé toute la vidéo de Brody et de son 'ami'."
 
     # game/achievements.rpy:3
     old "Studied Hard"

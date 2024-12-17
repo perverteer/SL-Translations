@@ -256,7 +256,7 @@ translate german strings:
 
     # game/achievements.rpy:3
     old "Watched the entire video of Brody and his 'friend'."
-    new "Ich habe mir das gesamte Video von Brody und seinem "Freund" angesehen."
+    new "Ich habe mir das gesamte Video von Brody und seinem 'Freund' angesehen."
 
     # game/achievements.rpy:3
     old "Studied Hard"
