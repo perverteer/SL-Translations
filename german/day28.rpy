@@ -5550,3 +5550,372 @@ translate german day28_al_visit_374f522b:
 
     # "{i}The girl has a hard time keeping quiet as you fuck her. Her back is chafing on the rough stone of the wall, and her nails dig into your flesh."
     "{i}Das Mädchen hat Mühe, ruhig zu bleiben, während du sie fickst. Ihr Rücken reibt sich an dem rauen Stein der Wand und ihre Nägel graben sich in dein Fleisch."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day28.rpy:1068
+translate german day28_a_k_visit_ac2723e1:
+
+    # "Does James participate in this scene?"
+    "Nimmt James an dieser Szene teil?"
+
+# game/day28.rpy:1073
+translate german day28_a_k_visit_5ff59d32:
+
+    # "James participates"
+    "James nimmt teil"
+
+# game/day28.rpy:1077
+translate german day28_a_k_visit_a765de49:
+
+    # "James doesn't participate"
+    "James macht nicht mit"
+
+# game/day28.rpy:1080
+translate german day28_a_k_visit_fdf5d5f7:
+
+    # "Do you want to fuck Kira or Ana?"
+    "Willst du Kira oder Ana ficken?"
+
+# game/day28.rpy:1086
+translate german day28_a_k_visit_79562e41:
+
+    # "Fucking Kira"
+    "Verdammte Kira"
+
+# game/day28.rpy:1091
+translate german day28_a_k_visit_c91717d3:
+
+    # "Fucking Ana"
+    "Fickende Ana"
+
+# game/day28.rpy:1725
+translate german day28_m_handjob_0599a445:
+
+    # m "Hey."
+    m "Hey"
+
+# game/day28.rpy:1729
+translate german day28_m_handjob_87f3e913:
+
+    # p "Wow."
+    p "Wow"
+
+# game/day28.rpy:1730
+translate german day28_m_handjob_013cdcf8:
+
+    # m "How do you like me?"
+    m "Wie magst du mich?"
+
+# game/day28.rpy:1731
+translate german day28_m_handjob_e6a41c12:
+
+    # p "You're perfect."
+    p "Du bist perfekt"
+
+# game/day28.rpy:1737
+translate german day28_m_handjob_2e447cc0:
+
+    # "{i}Your eyes drink in the sight of your mother's voluptuous body as she spins around to show you all of it."
+    "{i}Deine Augen genießen den Anblick des üppigen Körpers deiner Mutter, während sie sich herumdreht, um dir alles zu zeigen."
+# game/day28.rpy:1739
+translate german day28_m_handjob_ce8bf891:
+
+    # "{i}Your eyes drink in the sight of your friend's voluptuous body as she spins around to show you all of it."
+    "{i}Deine Augen genießen den Anblick des üppigen Körpers deiner Freundin, während sie sich dreht, um dir alles zu zeigen."
+# game/day28.rpy:1740
+translate german day28_m_handjob_b408ef21:
+
+    # m "Why don't you come to bed?"
+    m "Warum kommst du nicht ins Bett?"
+
+# game/day28.rpy:1741
+translate german day28_m_handjob_ce1766ef:
+
+    # "{i}[m_name] is obviously checking you out as well, her eyes trailing over every inch."
+    "{i}[m_name] mustert dich offensichtlich auch, ihr Blick wandert über jeden Zentimeter"
+
+# game/day28.rpy:1742
+translate german day28_m_handjob_71651c93:
+
+    # p "Right!"
+    p "Richtig!"
+
+# game/day28.rpy:1744
+translate german day28_m_handjob_422bd8af:
+
+    # m "So tell me."
+    m "Dann sag es mir"
+
+# game/day28.rpy:1745
+translate german day28_m_handjob_62653cdb:
+
+    # m "What is it with you and women like me?"
+    m "Was ist das nur mit dir und Frauen wie mir?"
+
+# game/day28.rpy:1746
+translate german day28_m_handjob_adfd6b5d:
+
+    # p "Women like you?"
+    p "Frauen wie du?"
+
+# game/day28.rpy:1747
+translate german day28_m_handjob_ba6e1256:
+
+    # m "Come on now, most guys your age would go for a skinny young thing."
+    m "Komm schon, die meisten Jungs in deinem Alter stehen auf ein dünnes, junges Ding"
+
+# game/day28.rpy:1748
+translate german day28_m_handjob_4aa3539e:
+
+    # p "Undoubtedly, but I like a real woman."
+    p "Zweifellos, aber ich mag eine echte Frau"
+
+# game/day28.rpy:1749
+translate german day28_m_handjob_7f4acc38:
+
+    # m "Real?"
+    m "Echt?"
+
+# game/day28.rpy:1750
+translate german day28_m_handjob_86aab2da:
+
+    # p "It's hard to express it in words."
+    p "Es ist schwer, es in Worte zu fassen"
+
+# game/day28.rpy:1751
+translate german day28_m_handjob_3929e4d3:
+
+    # m "Do you have something else in mind?"
+    m "Haben Sie etwas anderes im Sinn?"
+
+# game/day28.rpy:1756
+translate german day28_m_handjob_5827cb12:
+
+    # "{i}Without saying anything further, you trail the curve of her hips with your fingertips, causing [m_name] to shiver slightly."
+    "{i}Ohne ein weiteres Wort zu sagen, fährst du mit deinen Fingerspitzen die Kurve ihrer Hüften nach, was [m_name] leicht erzittern lässt."
+# game/day28.rpy:1757
+translate german day28_m_handjob_2673286b:
+
+    # "{i}You help her out of her babydoll she's wearing, allowing you to see her body in all its naked glory."
+    "{i}Du hilfst ihr aus ihrem Babydoll, das sie trägt, damit du ihren Körper in seiner ganzen nackten Pracht sehen kannst"
+
+# game/day28.rpy:1762
+translate german day28_m_handjob_42c4bdaa:
+
+    # "{i}You kiss her belly and teasingly flick your tongue around her navel."
+    "{i}Du küsst ihren Bauch und fährst mit deiner Zunge neckisch um ihren Nabel herum"
+
+# game/day28.rpy:1763
+translate german day28_m_handjob_6069c9ba:
+
+    # m "Oh, that tickles!"
+    m "Oh, das kitzelt!"
+
+# game/day28.rpy:1766
+translate german day28_m_handjob_093c6f6c:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Ermutigt durch ihre unbeschwerte Reaktion bewegst du dich auf ihre vollen Brüste zu"
+
+# game/day28.rpy:1768
+translate german day28_m_handjob_093c6f6c_1:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Ermutigt durch ihre unbeschwerte Reaktion bewegst du dich auf ihre vollen Brüste zu"
+
+# game/day28.rpy:1769
+translate german day28_m_handjob_1b531e45:
+
+    # "{i}As the woman breathes heavily, you kiss the curves of her bosom, working towards her stiffening nipples."
+    "{i}Während die Frau schwer atmet, küsst du die Rundungen ihres Busens und arbeitest dich zu ihren steif werdenden Brustwarzen vor."
+
+# game/day28.rpy:1770
+translate german day28_m_handjob_f121165f:
+
+    # m "Do you like my breasts?"
+    m "Gefallen dir meine Brüste?"
+
+# game/day28.rpy:1771
+translate german day28_m_handjob_32b3c19b:
+
+    # p "I love them."
+    p "Ich liebe sie"
+
+# game/day28.rpy:1772
+translate german day28_m_handjob_08a97937:
+
+    # m "Kiss me!"
+    m "Küss mich!"
+
+# game/day28.rpy:1774
+translate german day28_m_handjob_84d969c6:
+
+    # "{i}The first kisses you exchange are cautious, but when your tongues come into play, any boundaries that existed fall away completely."
+    "{i}Die ersten Küsse, die ihr austauscht, sind vorsichtig, aber wenn eure Zungen ins Spiel kommen, fallen alle Grenzen, die es gab, komplett weg."
+# game/day28.rpy:1780
+translate german day28_m_handjob_eb10e287:
+
+    # "{i}[m_name]'s hand slips towards your crotch and frees your erection from your underwear."
+    "{i}[m_name]'s Hand gleitet zu deinem Schritt und befreit deine Erektion aus deiner Unterwäsche"
+
+# game/day28.rpy:1782
+translate german day28_m_handjob_e0e1c6a8:
+
+    # "{i}You think you see a hint of confusion flash across her face as she holds your erect member in her hands."
+    "{i}Du glaubst, einen Hauch von Verwirrung in ihrem Gesicht aufblitzen zu sehen, während sie dein erigiertes Glied in den Händen hält"
+
+# game/day28.rpy:1783
+translate german day28_m_handjob_5ed45dc0:
+
+    # p "{i}(Does she realize... I knew the mask wasn't enough!)"
+    p "{i}(Ist ihr klar, dass ich wusste, dass die Maske nicht reicht!)"
+
+# game/day28.rpy:1784
+translate german day28_m_handjob_8d493837:
+
+    # "{i}But [m_name] doesn't cry out in outraged surprise and instead kisses you and starts stroking your cock."
+    "{i}Aber [m_name] schreit nicht empört auf, sondern küsst dich und beginnt deinen Schwanz zu streicheln"
+
+# game/day28.rpy:1786
+translate german day28_m_handjob_ba26a947:
+
+    # "{i}She holds your member in her hand as if weighing it. Satisfied, she kisses you and starts stroking your cock."
+    "{i}Sie hält dein Glied in der Hand, als würde sie es wiegen. Zufrieden küsst sie dich und beginnt deinen Schwanz zu streicheln."
+
+# game/day28.rpy:1788
+translate german day28_m_handjob_8ffbc3ac:
+
+    # m "Mmmm, does that feel good, [p_name]?"
+    m "Mmmm, fühlt sich das gut an [p_name]?"
+
+# game/day28.rpy:1789
+translate german day28_m_handjob_bb5d0cbf:
+
+    # p "I-it does."
+    p "I-es tut"
+
+# game/day28.rpy:1790
+translate german day28_m_handjob_13ba4582:
+
+    # m "Do you want to cum for me?"
+    m "Willst du für mich abspritzen?"
+
+# game/day28.rpy:1791
+translate german day28_m_handjob_6ea4dd18:
+
+    # p "Y-yes, I do."
+    p "J-ja, ich will"
+
+# game/day28.rpy:1792
+translate german day28_m_handjob_42899ef0:
+
+    # m "Make a mess all over my body?"
+    m "Eine Sauerei auf meinem ganzen Körper machen?"
+
+# game/day28.rpy:1795
+translate german day28_m_handjob_704bb4dc:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your mother's large breasts."
+    "{i}Ihre Hand massiert gekonnt deinen Schwanz, während du deine Aufmerksamkeit auf die großen Brüste deiner Mutter richtest."
+# game/day28.rpy:1797
+translate german day28_m_handjob_73d4fbdd:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your friend's large breasts."
+    "{i}Ihre Hand massiert gekonnt deinen Schwanz, während du deine Aufmerksamkeit auf die großen Brüste deiner Freundin richtest."
+# game/day28.rpy:1798
+translate german day28_m_handjob_28f83ebb:
+
+    # m "Oh yes!"
+    m "Oh ja!"
+
+# game/day28.rpy:1799
+translate german day28_m_handjob_2ead3e96:
+
+    # "{i}She brushes your hand away though in order to focus completely on pleasuring you."
+    "{i}Sie stößt deine Hand weg, um sich ganz darauf zu konzentrieren, dich zu befriedigen."
+
+# game/day28.rpy:1800
+translate german day28_m_handjob_8d4cf03f:
+
+    # m "That's my boy!"
+    m "Das ist mein Junge!"
+
+# game/day28.rpy:1801
+translate german day28_m_handjob_4daec3dd:
+
+    # "{i}[m_name] strokes your cock again, tracing the veins of your shaft with her wet fingertips, before jerking you off."
+    "{i}[m_name] streichelt wieder deinen Schwanz und zeichnet die Adern deines Schafts mit ihren feuchten Fingerspitzen nach, bevor sie dir einen runterholt"
+
+# game/day28.rpy:1802
+translate german day28_m_handjob_ce401f6e:
+
+    # m "That's it, baby."
+    m "Das ist es, Baby"
+
+# game/day28.rpy:1804
+translate german day28_m_handjob_51af9386:
+
+    # "{i}A naughty grin crosses her face as [m_name] utters her next words, already sure of its effects on you."
+    "{i}Ein freches Grinsen huscht über ihr Gesicht, als [m_name] ihre nächsten Worte ausspricht, deren Wirkung auf dich bereits sicher ist."
+# game/day28.rpy:1805
+translate german day28_m_handjob_2653304a:
+
+    # m "Mommy wants your cum so bad!"
+    m "Mami will dein Sperma so sehr!"
+
+# game/day28.rpy:1807
+translate german day28_m_handjob_1ebb7675:
+
+    # m "I want your cum so bad!"
+    m "Ich will dein Sperma so sehr!"
+
+# game/day28.rpy:1815
+translate german day28_m_handjob_0e1cfcbb:
+
+    # "{i}Your mother knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}Deine Mutter weiß genau, wie lange sie deinen Schwanz massieren muss, um dir deinen ganzen Samen zu entlocken, der in großen, heftigen Spritzen aus deiner Eichel spritzt und über ihre Hände und ihren Bauch spritzt."
+# game/day28.rpy:1817
+translate german day28_m_handjob_b1575f96:
+
+    # "{i}[m_name] knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}[m_name] weiß genau, wie lange sie deinen Schwanz massieren muss, um deinen ganzen Samen zu melken, während er in großen, heftigen Spritzen aus deiner Eichel spritzt und über ihre Hände und ihren Bauch spritzt."
+# game/day28.rpy:1818
+translate german day28_m_handjob_e5dba7f6:
+
+    # "{i}With her eyes closed and wearing a look of bliss, [m_name] spreads your cum all over her body and kisses you."
+    "{i}Mit geschlossenen Augen und einem Blick der Glückseligkeit verteilt [m_name] dein Sperma auf ihrem ganzen Körper und küsst dich"
+
+# game/day28.rpy:1823
+translate german day28_m_handjob_5b5208aa:
+
+    # p "I never want to leave this bed."
+    p "Ich will dieses Bett nie mehr verlassen"
+
+# game/day28.rpy:1824
+translate german day28_m_handjob_c08bc8f4:
+
+    # m "Good."
+    m "Gut"
+
+# game/day28.rpy:1825
+translate german day28_m_handjob_6227f08a:
+
+    # m "But I expect you to earn your keep!"
+    m "Aber ich erwarte, dass du dir deinen Unterhalt verdienst!"
+
+# game/day28.rpy:1826
+translate german day28_m_handjob_84fe6a10:
+
+    # p "You make that sound as if it's a burden."
+    p "Das klingt, als ob es eine Last wäre"
+
+translate german strings:
+
+    # game/day28.rpy:1081
+    old "Fuck Kira"
+    new "Kira ficken"
+
+    # game/day28.rpy:1081
+    old "Fuck Ana"
+    new "Ana ficken"
+

@@ -4206,3 +4206,805 @@ translate german day20_r_deflowering_5a89aa3b:
 
     # "{i}With each thrust, your dick penetrates her more easily, helped by her copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
     "{i}Mit jedem Stoß dringt dein Schwanz leichter in sie ein, unterstützt von ihren reichlich fließenden Säften. Sie ist offensichtlich nicht bereit für irgendetwas Gewalttätiges, der schmerzhafte Ausdruck ist völlig aus ihrem Gesicht verschwunden und wurde durch eine Mischung aus Freude und Eifer ersetzt."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day20.rpy:935
+translate german day20_b_licking_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Ist [b_name] in dieser Szene eine Voll-Sub?"
+
+# game/day20.rpy:939
+translate german day20_b_licking_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] völlig unterwürfig"
+
+# game/day20.rpy:942
+translate german day20_b_licking_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nicht völlig unterwürfig"
+
+# game/day20.rpy:949
+translate german day20_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Was?"
+
+# game/day20.rpy:950
+translate german day20_b_licking_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Zieh dich einfach aus, ich will deine Muschi schmecken"
+
+# game/day20.rpy:951
+translate german day20_b_licking_3b40820c:
+
+    # b "I'm busy."
+    b "Ich bin beschäftigt"
+
+# game/day20.rpy:952
+translate german day20_b_licking_94999a5f:
+
+    # p "No you're not."
+    p "Nein, tust du nicht"
+
+# game/day20.rpy:953
+translate german day20_b_licking_88ee9d37:
+
+    # b "Yes I am."
+    b "Ja, das bin ich"
+
+# game/day20.rpy:954
+translate german day20_b_licking_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Willst du dich wie ein Kind benehmen? Ich könnte dir einfach die Kleider vom Leib reißen, weißt du?"
+# game/day20.rpy:956
+translate german day20_b_licking_e4f370a8:
+
+    # b "I know."
+    b "Ich weiß"
+
+# game/day20.rpy:959
+translate german day20_b_licking_a9a5ca74:
+
+    # "{i}Your sister reluctantly removes her clothes and sits on the bed."
+    "{i}Deine Schwester zieht sich widerwillig aus und setzt sich auf das Bett"
+
+# game/day20.rpy:961
+translate german day20_b_licking_d005c0b7:
+
+    # "{i}The girl reluctantly removes her clothes and sits on the bed."
+    "{i}Das Mädchen zieht sich widerwillig aus und setzt sich auf das Bett"
+
+# game/day20.rpy:962
+translate german day20_b_licking_e36b7664:
+
+    # p "Good, you won't regret this."
+    p "Gut, du wirst es nicht bereuen"
+
+# game/day20.rpy:963
+translate german day20_b_licking_5ceba404:
+
+    # p "{i}(Ultimately...)"
+    p "{i}(Letztendlich)"
+
+# game/day20.rpy:969
+translate german day20_b_licking_a55df5f2:
+
+    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
+    "{i}Ohne Vorwarnung packst du [b_name] an den Beinen und vergräbst dein Gesicht zwischen ihren Schenkeln Ihr Körper reagiert sofort auf die Rauheit deiner Zunge und sie ist innerhalb weniger Augenblicke feucht"
+
+# game/day20.rpy:970
+translate german day20_b_licking_ab537a6c:
+
+    # p "Your body always betrays you, [b_name]."
+    p "Dein Körper verrät dich immer [b_name]"
+
+# game/day20.rpy:971
+translate german day20_b_licking_64819380:
+
+    # b "F-f-fuck you!"
+    b "F-F-Fick dich!"
+
+# game/day20.rpy:972
+translate german day20_b_licking_ae14bf53:
+
+    # "{i}Your tongue is seemingly everywhere at once, stimulating her clitoris, caressing her labia and penetrating her moist gash."
+    "{i}Deine Zunge ist scheinbar überall gleichzeitig und stimuliert ihre Klitoris, streichelt ihre Schamlippen und dringt in ihre feuchte Spalte ein."
+
+# game/day20.rpy:974
+translate german day20_b_licking_807be6fe:
+
+    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
+    "{i}Jeder Anschein von Verärgerung ist von [b_name] gewichen und sie ist völlig vertieft in deinen heftigen Zungenfick"
+
+# game/day20.rpy:975
+translate german day20_b_licking_8916675f:
+
+    # b "Ooooh!"
+    b "Ooooh!"
+
+# game/day20.rpy:980
+translate german day20_b_licking_a34e063e:
+
+    # "{i}Just when you notice she's ready to climax, you stop abruptly."
+    "{i}Gerade als du merkst, dass sie bereit ist, zum Höhepunkt zu kommen, hörst du abrupt auf."
+
+# game/day20.rpy:982
+translate german day20_b_licking_06940249:
+
+    # p "That's enough for now."
+    p "Das reicht für den Moment"
+
+# game/day20.rpy:983
+translate german day20_b_licking_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Was?! Nein, das kannst du nicht"
+
+# game/day20.rpy:984
+translate german day20_b_licking_47fea10d:
+
+    # p "I can't?"
+    p "Ich kann nicht?"
+
+# game/day20.rpy:985
+translate german day20_b_licking_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Fick dich doch selbst!"
+
+# game/day20.rpy:986
+translate german day20_b_licking_5366f9d4:
+
+    # p "Maybe I'll be back, maybe I won't..."
+    p "Vielleicht komme ich zurück, vielleicht auch nicht"
+
+# game/day20.rpy:988
+translate german day20_b_licking_a32e4def:
+
+    # "{i}You go back to your room, the taste of [b_name] still on your lips, as she remains behind, naked and confused."
+    "{i}Du gehst zurück in dein Zimmer, den Geschmack von [b_name] noch auf deinen Lippen, während sie nackt und verwirrt zurückbleibt."
+# game/day20.rpy:1004
+translate german day20_ri_sex_37f83a86:
+
+    # ri "You're here for the job interview?"
+    ri "Sie sind wegen des Vorstellungsgesprächs hier?"
+
+# game/day20.rpy:1005
+translate german day20_ri_sex_03af6b77:
+
+    # p "Wow, you're one sexy manager, Riley."
+    p "Wow, du bist ein sexy Manager, Riley"
+
+# game/day20.rpy:1010
+translate german day20_ri_sex_a4f46328:
+
+    # ri "You think so?"
+    ri "Glauben Sie das?"
+
+# game/day20.rpy:1011
+translate german day20_ri_sex_1f051601:
+
+    # p "I'm not sure if people would get much work done with you around in those clothes, but you do command a certain respect."
+    p "Ich bin mir nicht sicher, ob die Leute viel arbeiten würden, wenn du in diesen Klamotten herumläufst, aber du hast einen gewissen Respekt"
+
+# game/day20.rpy:1016
+translate german day20_ri_sex_097ee088:
+
+    # p "God, I so want to see you naked."
+    p "Gott, ich möchte dich so gerne nackt sehen"
+
+# game/day20.rpy:1017
+translate german day20_ri_sex_2d101b07:
+
+    # ri "All in good time. As your superior we still need to do a very thorough final evaluation of your work as a supermarket employee."
+    ri "Alles zu seiner Zeit Als Ihr Vorgesetzter müssen wir noch eine sehr gründliche abschließende Bewertung Ihrer Arbeit als Supermarktmitarbeiter vornehmen."
+# game/day20.rpy:1019
+translate german day20_ri_sex_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Möchten Sie einen Drink?"
+
+# game/day20.rpy:1020
+translate german day20_ri_sex_da386a94:
+
+    # p "No thanks."
+    p "Nein danke"
+
+# game/day20.rpy:1022
+translate german day20_ri_sex_1a4fa82a:
+
+    # ri "Would you like to get more comfortable?"
+    ri "Möchten Sie es sich bequemer machen?"
+
+# game/day20.rpy:1023
+translate german day20_ri_sex_adfb9188:
+
+    # p "That would be very nice."
+    p "Das wäre sehr schön"
+
+# game/day20.rpy:1024
+translate german day20_ri_sex_047bd1f5:
+
+    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
+    ri "Ich verliere die Brille, ich habe sie gerade aus einer Schublade geholt und sie hat nicht meine Sehstärke, meine Augen tun jetzt irgendwie weh"
+
+# game/day20.rpy:1025
+translate german day20_ri_sex_dc21400d:
+
+    # p "They make you look a bit like Dame Edna as well..."
+    p "Sie lassen dich auch ein bisschen wie Dame Edna aussehen"
+
+# game/day20.rpy:1026
+translate german day20_ri_sex_64fa58c0:
+
+    # ri "Wahaha! Fuck you, you're such a moodkiller!"
+    ri "Hahaha! Du bist ein echter Stimmungskiller!"
+
+# game/day20.rpy:1027
+translate german day20_ri_sex_804b5e65:
+
+    # p "Those glasses are not the only thing you can lose if I have anything to say about it. I would really like to see those beautiful breasts."
+    p "Die Brille ist nicht das Einzige, was du verlieren kannst, wenn ich etwas zu sagen habe, dann würde ich gerne diese schönen Brüste sehen"
+
+# game/day20.rpy:1029
+translate german day20_ri_sex_0618aa18:
+
+    # ri "So, have you thought about what you're going to do with me? Because as of right now, your evaluation is not looking good."
+    ri "Haben Sie schon darüber nachgedacht, was Sie mit mir machen werden? Denn im Moment sieht deine Bewertung nicht gut aus."
+# game/day20.rpy:1031
+translate german day20_ri_sex_fc19827e:
+
+    # p "I didn't hear you complain the last time we were here..."
+    p "Das letzte Mal, als wir hier waren, hast du dich nicht beschwert"
+
+# game/day20.rpy:1032
+translate german day20_ri_sex_a3557f80:
+
+    # ri "Yes, that certainly works in your favor. But a girl wants more, you know."
+    ri "Ja, das ist sicher ein Vorteil für dich, aber ein Mädchen will mehr, weißt du?"
+# game/day20.rpy:1034
+translate german day20_ri_sex_a1306849:
+
+    # p "I'll show you something..."
+    p "Ich werde dir etwas zeigen"
+
+# game/day20.rpy:1035
+translate german day20_ri_sex_be0b6bd8:
+
+    # ri "I bet."
+    ri "Ich wette"
+
+# game/day20.rpy:1036
+translate german day20_ri_sex_10d940fa:
+
+    # p "You're still wearing too much clothing."
+    p "Du trägst immer noch zu viel Kleidung"
+
+# game/day20.rpy:1037
+translate german day20_ri_sex_d3692d3d:
+
+    # ri "Really? I thought you liked me in a tight business skirt, wearing a revealing blouse. Your words."
+    ri "Wirklich? Ich dachte, du magst mich in einem engen Business-Rock und einer freizügigen Bluse. Deine Worte"
+
+# game/day20.rpy:1039
+translate german day20_ri_sex_cb7d4554:
+
+    # ri "And now you've got me down to my heels. What's a girl gonna think?"
+    ri "And now you've got me down to my heels What's a girl gonna think?"
+
+# game/day20.rpy:1040
+translate german day20_ri_sex_da4426a8:
+
+    # p "Maybe that girl could suck on my big fat cock."
+    p "Vielleicht könnte das Mädchen an meinem großen, fetten Schwanz lutschen"
+
+# game/day20.rpy:1041
+translate german day20_ri_sex_ec5ad243:
+
+    # "{i}You lower your pants and reveal your dick, standing proud at the sight of Riley's naked body."
+    "{i}Du lässt deine Hose runter und zeigst deinen Schwanz, der beim Anblick von Rileys nacktem Körper stolz vor dir steht."
+
+# game/day20.rpy:1042
+translate german day20_ri_sex_4830d44d:
+
+    # ri "I must say, it looks rather appetizing."
+    ri "Ich muss sagen, es sieht ziemlich appetitlich aus"
+
+# game/day20.rpy:1047
+translate german day20_ri_sex_24007305:
+
+    # "{i}Riley slides off the couch and squats before you, taking your entire member inside of her mouth using long strokes, stimulating the length of your cock."
+    "{i}Riley rutscht von der Couch und hockt sich vor dich und nimmt dein ganzes Glied in den Mund, indem sie mit langen Strichen die Länge deines Schwanzes stimuliert."
+# game/day20.rpy:1049
+translate german day20_ri_sex_a5bc380a:
+
+    # p "God Riley, I didn't know you were so good at this."
+    p "Gott Riley, ich wusste nicht, dass du das so gut kannst"
+
+# game/day20.rpy:1050
+translate german day20_ri_sex_5448aaaf:
+
+    # "{i}Her wet lips slide over the veins of your dick, taking extra care of the sensitive area around your glans."
+    "{i}Ihre feuchten Lippen gleiten über die Adern deines Schwanzes und kümmern sich besonders um den empfindlichen Bereich um deine Eichel"
+
+# game/day20.rpy:1051
+translate german day20_ri_sex_e3cf2e2a:
+
+    # ri "I didn't show you before, did I? You taste good, [p_name]."
+    ri "Ich hab's dir noch nicht gezeigt, oder? Du schmeckst gut [p_name]"
+
+# game/day20.rpy:1052
+translate german day20_ri_sex_9f40793d:
+
+    # "{i}Riley returns to her cocksucking with renewed fervor. She applies so much suction that it almost seems that she wants to slurp the cum right out of you."
+    "{i}Sie saugt so stark, dass es fast so aussieht, als wolle sie das Sperma direkt aus dir herausschlürfen."
+# game/day20.rpy:1053
+translate german day20_ri_sex_1ca99c8b:
+
+    # p "Woah, not so fast! I'm not ready to fill you up just yet."
+    p "Oh, nicht so schnell! Ich bin noch nicht so weit, dich abzufüllen"
+
+# game/day20.rpy:1054
+translate german day20_ri_sex_a47b3cec:
+
+    # ri "Mmmmm. What do you have in mind?"
+    ri "Mmmmm Was schwebt dir vor?"
+
+# game/day20.rpy:1055
+translate german day20_ri_sex_fe473b1d:
+
+    # p "Stand up and you'll see."
+    p "Steh auf und du wirst sehen"
+
+# game/day20.rpy:1062
+translate german day20_ri_sex_a502271c:
+
+    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
+    "{i}Mit deinem harten Schwanz gegen ihren Oberschenkel gepresst, beginnst du ihre Brüste zu massieren und spielst mit ihren harten Nippeln. Nachdem du sie stöhnen hörst, führst du deine andere Hand zwischen ihre Beine."
+# game/day20.rpy:1063
+translate german day20_ri_sex_f3b5ce36:
+
+    # ri "Ooooh!"
+    ri "Ooooh!"
+
+# game/day20.rpy:1064
+translate german day20_ri_sex_43488810:
+
+    # p "I'm going to fuck you so hard Riley, but first I have to make sure you're ready."
+    p "Ich werde dich so hart ficken, Riley, aber erst muss ich sicher sein, dass du bereit bist"
+
+# game/day20.rpy:1065
+translate german day20_ri_sex_5e5bbce4:
+
+    # ri "Oh, I'm ready."
+    ri "Oh, ich bin bereit"
+
+# game/day20.rpy:1066
+translate german day20_ri_sex_feacd9dc:
+
+    # "{i}At those words, you insert a finger inside her wet gash."
+    "{i}Bei diesen Worten steckst du einen Finger in ihre feuchte Spalte"
+
+# game/day20.rpy:1067
+translate german day20_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "F-f-fuck!"
+
+# game/day20.rpy:1068
+translate german day20_ri_sex_2431c94e:
+
+    # "{i}You insert another finger inside of her and then another."
+    "{i}Du steckst einen weiteren Finger in sie hinein und dann noch einen"
+
+# game/day20.rpy:1069
+translate german day20_ri_sex_fdc0b456:
+
+    # p "I'm going to make you cum."
+    p "Ich werde dich zum Abspritzen bringen"
+
+# game/day20.rpy:1070
+translate german day20_ri_sex_bd2ad48b:
+
+    # "{i}Riley just moans as you move your fingers inside of her, faster and faster, stimulating her g-spot."
+    "{i}Riley stöhnt nur, während du deine Finger immer schneller in ihr bewegst und ihren G-Punkt stimulierst."
+# game/day20.rpy:1071
+translate german day20_ri_sex_4df0219c:
+
+    # ri "F-f-fuck! What are you doing?!"
+    ri "F-f-fuck! Was machst du da?!"
+
+# game/day20.rpy:1072
+translate german day20_ri_sex_665c9643:
+
+    # p "Sssssh..."
+    p "Sssssh"
+
+# game/day20.rpy:1080
+translate german day20_ri_sex_b2c986bb:
+
+    # "{i}The only thing coming from Riley at this moment are guttural sounds as she orgasms from your penetrating fingers. Her ejaculate is streaming down her inner thighs and even covers her taught calves as she struggles to stand straight on her high heels."
+    "{i}Das Einzige, was in diesem Moment von Riley kommt, sind gutturale Laute, während sie von deinen eindringenden Fingern zum Orgasmus kommt. Ihr Ejakulat läuft ihr die Innenschenkel hinunter und bedeckt sogar ihre gelehrten Waden, während sie damit kämpft, auf ihren High Heels gerade zu stehen."
+# game/day20.rpy:1081
+translate german day20_ri_sex_099c6873:
+
+    # p "Now you're ready."
+    p "Jetzt bist du bereit"
+
+# game/day20.rpy:1089
+translate german day20_ri_sex_3a3a096f:
+
+    # "{i}With some encouragement and in the last throes of her orgasm, Riley kneels on the couch and you enter her dripping wet slit."
+    "{i}Mit etwas Ermutigung und in den letzten Zügen ihres Orgasmus kniet Riley auf der Couch und du dringst in ihren triefend nassen Schlitz ein."
+
+# game/day20.rpy:1090
+translate german day20_ri_sex_2aac7798:
+
+    # ri "Ah! Ah! It's so much!"
+    ri "Ah! Ah! Es ist so viel!"
+
+# game/day20.rpy:1091
+translate german day20_ri_sex_a3c1f138:
+
+    # "{i}You immediately start with deep thrusts, nearly making Riley cum a second time. You slap her bouncing ass until red marks appear on her butt cheeks."
+    "{i}Du fängst sofort mit tiefen Stößen an und bringst Riley fast ein zweites Mal zum Abspritzen. Du schlägst auf ihren hüpfenden Arsch, bis rote Flecken auf ihren Arschbacken erscheinen."
+# game/day20.rpy:1092
+translate german day20_ri_sex_46c2ad50:
+
+    # ri "Fuck me harder, I want you so deep inside me, [p_name]!"
+    ri "Fick mich härter, ich will dich so tief in mir [p_name]!"
+
+# game/day20.rpy:1094
+translate german day20_ri_sex_400b45ad:
+
+    # "{i}You turn the girl around and she pulls up a leg to give you even deeper access to the moist confines of her pussy."
+    "{i}Du drehst das Mädchen um und sie zieht ein Bein hoch, damit du noch tiefer in ihre feuchte Muschi eindringen kannst."
+# game/day20.rpy:1095
+translate german day20_ri_sex_4c3eed5f:
+
+    # ri "That's it, right t-there!"
+    ri "Das ist es, genau da!"
+
+# game/day20.rpy:1096
+translate german day20_ri_sex_e34f450a:
+
+    # "{i}You ram your dick inside of her until Riley's hoarse moans are filled with ultimate pleasure and you feel your orgasm starting to boil inside you."
+    "{i}Du rammst deinen Schwanz in sie hinein, bis Rileys heiseres Stöhnen von ultimativem Vergnügen erfüllt ist und du spürst, wie dein Orgasmus in dir zu kochen beginnt."
+
+# game/day20.rpy:1106
+translate german day20_ri_sex_78cfc9ab:
+
+    # p "F-fuck yes! Aaaah!"
+    p "F-fuck ja! Aaaah!"
+
+# game/day20.rpy:1107
+translate german day20_ri_sex_ab51dfe5:
+
+    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
+    "{i}Ohne Unterbrechung stößt du deinen pulsierenden Schwanz in sie hinein und entlädst dicke Ströme von Sahne in ihrer Muschi."
+# game/day20.rpy:1108
+translate german day20_ri_sex_f3a9113e:
+
+    # ri "Don't pull out! I want every last drop inside of me."
+    ri "Nicht rausziehen! Ich will jeden einzelnen Tropfen in mir haben."
+# game/day20.rpy:1109
+translate german day20_ri_sex_85a929de:
+
+    # "{i}Her tender pussy is filled with a mixture of your semen and her moisture, which eventually leaks from her gaping pussy. You stay inside her as long as possible, your cock still spurting tiny droplets of cum in the last remnants of your climax."
+    "{i}Ihre zarte Muschi füllt sich mit einer Mischung aus deinem Sperma und ihrer Feuchtigkeit, die schließlich aus ihrer klaffenden Muschi sickert. Du bleibst so lange wie möglich in ihr, dein Schwanz spritzt immer noch winzige Tröpfchen Sperma in die letzten Reste deines Höhepunkts."
+# game/day20.rpy:1126
+translate german day20_ri_sex_d3c52b41:
+
+    # p "Open your mouth Riley."
+    p "Mach den Mund auf Riley"
+
+# game/day20.rpy:1127
+translate german day20_ri_sex_c13aa583:
+
+    # ri "I want to taste all of it."
+    ri "Ich will alles probieren"
+
+# game/day20.rpy:1128
+translate german day20_ri_sex_78cfc9ab_1:
+
+    # p "F-fuck yes! Aaaah!"
+    p "F-fuck ja! Aaaah!"
+
+# game/day20.rpy:1129
+translate german day20_ri_sex_34e79b12:
+
+    # "{i}Multiple streams of thick cream splash inside her mouth and on the side of her face. Delirious, she keeps your load inside of her open mouth, waiting for more and eventually swallowing your warm gift."
+    "{i}Mehrere Ströme dicker Sahne spritzen in ihren Mund und auf die Seite ihres Gesichts. Delirious hält sie deine Ladung in ihrem offenen Mund und wartet auf mehr und schluckt schließlich dein warmes Geschenk"
+
+# game/day20.rpy:1143
+translate german day20_ri_sex_0dc5917c:
+
+    # "{i}At the last moment you pull your pulsating cock outside of her tender pussy and unload thick streams of cream on her belly. It slowly leaks down into her pubic hair and Riley deliriously rubs her body with your cum."
+    "{i}Im letzten Moment ziehst du deinen pulsierenden Schwanz aus ihrer zarten Muschi und entlädst dich in dicken Strömen auf ihrem Bauch. Langsam sickert es in ihre Schamhaare und Riley reibt ihren Körper mit deinem Sperma ein."
+# game/day20.rpy:1158
+translate german day20_ri_sex_3321d927:
+
+    # p "I want to see your face when I cum, Riley."
+    p "Ich will dein Gesicht sehen, wenn ich abspritze, Riley"
+
+# game/day20.rpy:1159
+translate german day20_ri_sex_34ed9f2a:
+
+    # ri "I want to have all of it!"
+    ri "Ich will alles davon haben!"
+
+# game/day20.rpy:1160
+translate german day20_ri_sex_62b90f21:
+
+    # "{i}Multiple streams of thick cream splash on Riley's delirious face. There's so much of it that her shoulder and breasts are also covered in big splashes of your cum."
+    "{i}Mehrere Ströme dicker Sahne spritzen auf Rileys delirierendes Gesicht Es ist so viel, dass auch ihre Schulter und Brüste mit großen Spritzern deines Spermas bedeckt sind"
+
+# game/day20.rpy:1167
+translate german day20_ri_sex_e87ec995:
+
+    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
+    "{i}Erschöpft lässt du dich auf die Couch fallen. Sie ist noch warm und glitschig von den Säften eures Liebesspiels. Riley säubert sich ein wenig und krabbelt neben dich."
+# game/day20.rpy:1169
+translate german day20_ri_sex_e6a7377e:
+
+    # ri "I didn't know this evening was going to be so exciting."
+    ri "Ich wusste nicht, dass dieser Abend so aufregend werden würde"
+
+# game/day20.rpy:1170
+translate german day20_ri_sex_d37fa892:
+
+    # p "I take employee performance reviews very, very seriously."
+    p "Ich nehme die Leistungsbeurteilung meiner Mitarbeiter sehr ernst"
+
+# game/day20.rpy:1171
+translate german day20_ri_sex_b6a69c3a:
+
+    # ri "I know that now."
+    ri "Das weiß ich jetzt"
+
+# game/day20.rpy:1172
+translate german day20_ri_sex_ebc7bc5c:
+
+    # ri "Allow me to bestow the title 'Employee of the Year' on you. You're not working at the supermarket anymore, but who gives a fuck."
+    ri "Gestatten Sie mir, Ihnen den Titel 'Mitarbeiter des Jahres' zu verleihen. Sie arbeiten zwar nicht mehr im Supermarkt, aber wen interessiert das schon"
+
+# game/day20.rpy:1173
+translate german day20_ri_sex_de51156c:
+
+    # p "I'm absolutely honored."
+    p "Ich fühle mich absolut geehrt"
+
+# game/day20.rpy:1185
+translate german day20_b_licking_night_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Ist [b_name] in dieser Szene eine Voll-Sub?"
+
+# game/day20.rpy:1189
+translate german day20_b_licking_night_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] völlig unterwürfig"
+
+# game/day20.rpy:1192
+translate german day20_b_licking_night_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nicht völlig unterwürfig"
+
+# game/day20.rpy:1202
+translate german day20_b_licking_night_b7545898:
+
+    # p "{i}(Let's make our [b_name] even more crazy...)"
+    p "{i}(Lasst uns unseren [b_name] noch verrückter machen)"
+
+# game/day20.rpy:1206
+translate german day20_b_licking_night_c8f7ae42:
+
+    # p "I'm back."
+    p "Ich bin wieder da"
+
+# game/day20.rpy:1207
+translate german day20_b_licking_night_9aff4ccc:
+
+    # b "Fuck no. Not again."
+    b "Scheiße nein, nicht schon wieder"
+
+# game/day20.rpy:1208
+translate german day20_b_licking_night_56591090:
+
+    # p "You seemed to enjoy it earlier today."
+    p "Du schienst es heute Morgen zu genießen"
+
+# game/day20.rpy:1211
+translate german day20_b_licking_night_b10c2834:
+
+    # "{i}You crawl onto the bed and open your sister's legs, removing her panties in one fell swoop."
+    "{i}Du kriechst auf das Bett, öffnest die Beine deiner Schwester und ziehst ihr mit einem Schlag das Höschen aus."
+
+# game/day20.rpy:1213
+translate german day20_b_licking_night_cb7230fb:
+
+    # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
+    "{i}Du kriechst auf das Bett, öffnest die Beine von [b_name] und ziehst ihr mit einem Schlag das Höschen aus."
+# game/day20.rpy:1215
+translate german day20_b_licking_night_e2d724e5:
+
+    # p "{i}(I went easy on [b_name] yesterday, but that blowjob sure left me wanting more.)"
+    p "{i}(Ich habe [b_name] gestern geschont, aber der Blowjob hat mir Lust auf mehr gemacht)"
+
+# game/day20.rpy:1216
+translate german day20_b_licking_night_be898db7:
+
+    # p "{i}(I'm not sure how we're going to reach the next level. She took it in her mouth, but I'm pretty sure she isn't ready for anything more rigorous.)"
+    p "{i}(Ich bin mir nicht sicher, wie wir die nächste Stufe erreichen werden. Sie hat es in den Mund genommen, aber ich bin mir ziemlich sicher, dass sie noch nicht bereit für etwas Härteres ist)"
+
+# game/day20.rpy:1217
+translate german day20_b_licking_night_8f914c0f:
+
+    # p "{i}(But I might get her where I want if I'm careful and patient. Let's see if I can make a start with her today.)"
+    p "{i}(Aber ich könnte sie dorthin bringen, wo ich will, wenn ich vorsichtig und geduldig bin. Mal sehen, ob ich heute einen Anfang mit ihr machen kann)"
+
+# game/day20.rpy:1221
+translate german day20_b_licking_night_35ba70ca:
+
+    # b "What?"
+    b "Was?"
+
+# game/day20.rpy:1222
+translate german day20_b_licking_night_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Zieh dich einfach aus, ich will deine Muschi schmecken"
+
+# game/day20.rpy:1223
+translate german day20_b_licking_night_e352c4e7:
+
+    # b "I was going to sleep."
+    b "Ich wollte gerade schlafen gehen"
+
+# game/day20.rpy:1224
+translate german day20_b_licking_night_6d63ec83:
+
+    # p "No, you're not."
+    p "Nein, tust du nicht"
+
+# game/day20.rpy:1225
+translate german day20_b_licking_night_f4a6d83e:
+
+    # b "Yes, I am."
+    b "Ja, das bin ich"
+
+# game/day20.rpy:1226
+translate german day20_b_licking_night_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "Willst du dich wie ein Kind benehmen? Ich könnte dir einfach die Kleider vom Leib reißen, weißt du?"
+# game/day20.rpy:1228
+translate german day20_b_licking_night_e4f370a8:
+
+    # b "I know."
+    b "Ich weiß"
+
+# game/day20.rpy:1231
+translate german day20_b_licking_night_baa94679:
+
+    # "{i}Your sister reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Deine Schwester zieht sich widerwillig aus und legt sich auf das Bett. Du krabbelst neben sie und öffnest ihre Beine."
+# game/day20.rpy:1233
+translate german day20_b_licking_night_22d19280:
+
+    # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}[b_name] zieht sich widerwillig aus und legt sich auf das Bett Du krabbelst neben sie und öffnest ihre Beine"
+
+# game/day20.rpy:1239
+translate german day20_b_licking_night_f8aece55:
+
+    # "{i}You firmly grasp her upper legs and go down on her pussy. The smell of her sex fills your nostrils and you begin to eat her out."
+    "{i}Du packst ihre Oberschenkel fest und gehst auf ihre Muschi hinunter. Der Geruch ihres Geschlechts erfüllt deine Nase und du beginnst sie zu vernaschen."
+# game/day20.rpy:1240
+translate german day20_b_licking_night_49dff9a6:
+
+    # b "A-a-animal!"
+    b "A-a-animal!"
+
+# game/day20.rpy:1241
+translate german day20_b_licking_night_20e62e8f:
+
+    # p "Shall I roar for you like lion?"
+    p "Soll ich für dich brüllen wie ein Löwe?"
+
+# game/day20.rpy:1242
+translate german day20_b_licking_night_4c747c64:
+
+    # "{i}The stimulation of [b_name]'s vagina isn't tender, only geared towards maximizing her pleasure. Your tongue is alternating between penetrating her slit and gyrating on her erect clit, all to build up to a monumental climax."
+    "{i}Die Stimulation von [b_name]'s Vagina ist nicht nur zärtlich, sondern auch darauf ausgerichtet, ihr Vergnügen zu maximieren. Deine Zunge dringt abwechselnd in ihren Schlitz ein und kreiselt auf ihrer erigierten Klitoris, um sich zu einem monumentalen Höhepunkt zu steigern."
+# game/day20.rpy:1244
+translate german day20_b_licking_night_8916675f:
+
+    # b "Ooooh!"
+    b "Ooooh!"
+
+# game/day20.rpy:1245
+translate german day20_b_licking_night_89365358:
+
+    # "{i}[b_name] wriggles beneath your touch and she crumples the bedsheets with her clawed hands. Every fiber of her body is ready for orgasmic release... And then you stop abruptly."
+    "{i}[b_name] windet sich unter deinen Berührungen und zerknüllt das Bettlaken mit ihren krallenartigen Händen Jede Faser ihres Körpers ist bereit für die orgasmische Befreiung Und dann hörst du abrupt auf"
+
+# game/day20.rpy:1251
+translate german day20_b_licking_night_a04a6859:
+
+    # p "Good night, sweet sister."
+    p "Gute Nacht, liebe Schwester"
+
+# game/day20.rpy:1253
+translate german day20_b_licking_night_d98faf4a:
+
+    # p "Good night, sweet [b_name]."
+    p "Gute Nacht lieber [b_name]"
+
+# game/day20.rpy:1256
+translate german day20_b_licking_night_370ba8fd:
+
+    # b "No! No! Not again!"
+    b "Nein! Nein! Nicht schon wieder!"
+
+# game/day20.rpy:1257
+translate german day20_b_licking_night_66324063:
+
+    # b "Why?!"
+    b "Warum?!"
+
+# game/day20.rpy:1259
+translate german day20_b_licking_night_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "Was?! Nein, das kannst du nicht"
+
+# game/day20.rpy:1260
+translate german day20_b_licking_night_47fea10d:
+
+    # p "I can't?"
+    p "Ich kann nicht?"
+
+# game/day20.rpy:1261
+translate german day20_b_licking_night_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Fick dich doch selbst!"
+
+# game/day20.rpy:1262
+translate german day20_b_licking_night_96c772af:
+
+    # p "I'm so tired, I really need to get some sleep."
+    p "Ich bin so müde, ich brauche wirklich etwas Schlaf"
+
+# game/day20.rpy:1263
+translate german day20_b_licking_night_13af8e6a:
+
+    # p "I'm sure a good girl like you can finish it herself."
+    p "Ich bin sicher, dass ein gutes Mädchen wie du es selbst zu Ende bringen kann"
+
+# game/day20.rpy:1265
+translate german day20_b_licking_night_6fdb4e3f:
+
+    # b "You fucking asshole!"
+    b "Du verdammtes Arschloch!"
+
+# game/day20.rpy:1266
+translate german day20_b_licking_night_00d06707:
+
+    # p "{i}(She's nearly ready... I'm going to try my luck tomorrow.)"
+    p "{i}(Sie ist fast fertig, ich werde morgen mein Glück versuchen)"
+
+# game/day20.rpy:1268
+translate german day20_b_licking_night_38f95ab2:
+
+    # p "{i}(I'm not sure if this is enough, but I'm going to try my luck tomorrow.)"
+    p "{i}(Ich bin mir nicht sicher, ob das ausreicht, aber ich werde morgen mein Glück versuchen)"
+

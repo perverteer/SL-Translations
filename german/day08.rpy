@@ -2723,4 +2723,347 @@ translate german day08_p_room_evening_choices_fb4ae194:
 translate german day08_p_room_evening_choices_d2ddba57:
 
     # p "Don't worry, sleep well, [r_name]."
-    p "Mach dir keine Sorgen, schlaf gut [r_name]."
+    p "Mach dir keine Sorgen, schlaf gut [r_name]."# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day08.rpy:727
+translate german day08_ana_sex_22702385:
+
+    # a "Are you going to fuck me, [p_name]?"
+    a "Wirst du mich [p_name] ficken?"
+
+# game/day08.rpy:728
+translate german day08_ana_sex_2e86bc82:
+
+    # p "The thought has crossed my mind."
+    p "Der Gedanke ist mir durch den Kopf gegangen"
+
+# game/day08.rpy:729
+translate german day08_ana_sex_dca9bfc2:
+
+    # p "A lot."
+    p "Eine Menge"
+
+# game/day08.rpy:730
+translate german day08_ana_sex_7f108f9a:
+
+    # a "Hehe."
+    a "Hehe"
+
+# game/day08.rpy:735
+translate german day08_ana_sex_528dd6bf:
+
+    # a "Let me get you ready."
+    a "Ich mache dich fertig"
+
+# game/day08.rpy:739
+translate german day08_ana_sex_1611ca52:
+
+    # "{i}Ana unzips your trousers and frees your growing member. She starts kissing and licking your penis, while gently massaging your balls."
+    "{i}Ana öffnet den Reißverschluss deiner Hose und befreit dein wachsendes Glied. Sie beginnt deinen Penis zu küssen und zu lecken, während sie sanft deine Eier massiert."
+# game/day08.rpy:747
+translate german day08_ana_sex_c75481bb:
+
+    # a "You like that don't you?"
+    a "Das gefällt dir, oder?"
+
+# game/day08.rpy:748
+translate german day08_ana_sex_939349fb:
+
+    # a "Do you want me to suck it, make it all wet?"
+    a "Willst du, dass ich ihn lutsche, damit er ganz nass wird?"
+
+# game/day08.rpy:754
+translate german day08_ana_sex_6606018f:
+
+    # p "Put it in your mouth."
+    p "Nimm ihn in den Mund"
+
+# game/day08.rpy:759
+translate german day08_ana_sex_96e5c3db:
+
+    # a "Mmmmm."
+    a "Mmmmm"
+
+# game/day08.rpy:760
+translate german day08_ana_sex_9acf9aff:
+
+    # "{i}Clearly already adjusted to your size, Ana's mouth slides down the full length of your your shaft, her tongue whirling fast and eager."
+    "{i}Offensichtlich hat sich Ana bereits an deine Größe gewöhnt und gleitet mit ihrer Zunge schnell und begierig über die gesamte Länge deines Schafts."
+
+# game/day08.rpy:761
+translate german day08_ana_sex_01654862:
+
+    # p "{i}(Oh fuck, this is so good. If she keeps at it like this I'm going to cum already.)"
+    p "{i}(Oh fuck, das ist so gut, wenn sie so weitermacht, komme ich gleich)"
+
+# game/day08.rpy:768
+translate german day08_ana_sex_dd377334:
+
+    # "{i}She clearly sees you struggling not to fill her mouth with semen, so Ana stops and looks at you longingly while fingering her pussy."
+    "{i}Sie sieht deutlich, wie du damit kämpfst, ihren Mund nicht mit Sperma zu füllen, also hält Ana inne und schaut dich sehnsüchtig an, während sie ihre Muschi befummelt."
+
+# game/day08.rpy:769
+translate german day08_ana_sex_afdc4606:
+
+    # a "Stay with me, [p_name], don't cum yet."
+    a "Bleib bei mir [p_name], komm noch nicht"
+
+# game/day08.rpy:770
+translate german day08_ana_sex_21cd4f33:
+
+    # a "I want your dick in my pussy."
+    a "Ich will deinen Schwanz in meiner Muschi"
+
+# game/day08.rpy:771
+translate german day08_ana_sex_8f0a9462:
+
+    # a "Would you like that?"
+    a "Würde dir das gefallen?"
+
+# game/day08.rpy:772
+translate german day08_ana_sex_574340d2:
+
+    # p "Hell yes."
+    p "Zur Hölle ja"
+
+# game/day08.rpy:779
+translate german day08_ana_sex_44c1eb5a:
+
+    # p "Are you rubbing your clit for me, dirty girl?"
+    p "Reibst du deine Klitoris für mich schmutziges Mädchen?"
+
+# game/day08.rpy:780
+translate german day08_ana_sex_c414b917:
+
+    # a "Uhuh, I want to be all wet when you fuck me."
+    a "Uhuh ich will ganz nass sein wenn du mich fickst"
+
+# game/day08.rpy:781
+translate german day08_ana_sex_62cde2e6:
+
+    # p "I think your cunt is clearly ready for my dick."
+    p "Ich denke, deine Fotze ist eindeutig bereit für meinen Schwanz"
+
+# game/day08.rpy:785
+translate german day08_ana_sex_7a20b216:
+
+    # p "Spread your legs for me, show me that sweet pussy of yours."
+    p "Spreiz deine Beine für mich und zeig mir deine süße Muschi"
+
+# game/day08.rpy:791
+translate german day08_ana_sex_daca5362:
+
+    # "{i}You tease her glistening pussy lips with the tip of your penis. Ana moans with abandon."
+    "{i}Du reizt ihre glitzernden Schamlippen mit der Spitze deines Penis und Ana stöhnt voller Hingabe."
+# game/day08.rpy:792
+translate german day08_ana_sex_142e69c9:
+
+    # a "Put it in [p_name]. Fuck me!"
+    a "Steck es in [p_name] Leck mich!"
+
+# game/day08.rpy:795
+translate german day08_ana_sex_14dac887:
+
+    # "{i}You push the tip of your penis past her labia. Ana gasps and you push further until your member is completely engulfed by her womanhood."
+    "{i}Du schiebst die Spitze deines Penis an ihren Schamlippen vorbei, Ana keucht und du schiebst weiter, bis dein Glied vollständig von ihrer Weiblichkeit verschlungen wird."
+# game/day08.rpy:796
+translate german day08_ana_sex_2632d017:
+
+    # a "Aah, you feel so good, [p_name]."
+    a "Ah, du fühlst dich so gut an [p_name]"
+
+# game/day08.rpy:797
+translate german day08_ana_sex_48808d18:
+
+    # p "Yeah, you want me to fuck your dirty little pussy? Make you scream, you little slut?"
+    p "Ja, willst du, dass ich deine dreckige kleine Muschi ficke? Dich zum Schreien bringen, du kleine Schlampe?"
+
+# game/day08.rpy:798
+translate german day08_ana_sex_924215d2:
+
+    # a "Make me scream, [p_name]!"
+    a "Lass mich [p_name] schreien!"
+
+# game/day08.rpy:804
+translate german day08_ana_sex_b44e9ea5:
+
+    # "{i}Slowly you fuck her pussy. Ana's hands are all over your back, squeezing and raking, as if encouraging you to go deeper and faster."
+    "{i}Langsam fickst du ihre Muschi, Anas Hände liegen auf deinem Rücken und drücken und harken, als ob sie dich ermutigen würde, tiefer und schneller zu gehen."
+# game/day08.rpy:805
+translate german day08_ana_sex_c7b3048d:
+
+    # a "F-f-fuck yes!"
+    a "F-f-fuck ja!"
+
+# game/day08.rpy:806
+translate german day08_ana_sex_8ef1766a:
+
+    # a "Fuck me harder, [p_name]!"
+    a "Fick mich härter [p_name]!"
+
+# game/day08.rpy:807
+translate german day08_ana_sex_879bf6b4:
+
+    # a "Harder!"
+    a "Härter!"
+
+# game/day08.rpy:811
+translate german day08_ana_sex_a84462e0:
+
+    # "{i}Ana's room is filled with noises of moaning, gasping and the wet, rhythmic sounds of penetration."
+    "{i}Anas Zimmer ist erfüllt von stöhnenden, keuchenden Geräuschen und den feuchten, rhythmischen Klängen der Penetration."
+
+# game/day08.rpy:814
+translate german day08_ana_sex_d6faea8c:
+
+    # "{i}With closed eyes and a look of bliss on her flushed face, Ana starts rubbing her clitoris."
+    "{i}Mit geschlossenen Augen und einem Ausdruck von Glückseligkeit auf ihrem erröteten Gesicht beginnt Ana ihre Klitoris zu reiben."
+# game/day08.rpy:815
+translate german day08_ana_sex_2da1e7f5:
+
+    # a "Aaaah... Don't stop! Please don't stop!"
+    a "Aaaah, nicht aufhören! Bitte hör nicht auf!"
+
+# game/day08.rpy:816
+translate german day08_ana_sex_a0bb9737:
+
+    # "{i}You feel her muscles contracting, applying more pressure to your dick. You're about to cum and Ana is close too, you feel."
+    "{i}Du spürst, wie sich ihre Muskeln zusammenziehen und mehr Druck auf deinen Schwanz ausüben. Du bist kurz davor abzuspritzen und Ana ist auch kurz davor."
+# game/day08.rpy:817
+translate german day08_ana_sex_678e1d5b:
+
+    # p "I'm cumming."
+    p "Ich komm' gleich"
+
+# game/day08.rpy:818
+translate german day08_ana_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Ja! Gib es mir!"
+
+# game/day08.rpy:824
+translate german day08_ana_sex_99948d78:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaaaah!!!"
+
+# game/day08.rpy:828
+translate german day08_ana_sex_5544b7c9:
+
+    # "{i}A thick load of sperm fills Ana's vagina. With clawing hands she pushes your body down, clearly urging you to keep going."
+    "{i}Eine dicke Ladung Sperma füllt Anas Vagina. Mit kratzenden Händen drückt sie deinen Körper nach unten und fordert dich auf, weiterzumachen."
+# game/day08.rpy:830
+translate german day08_ana_sex_1bd5a98d:
+
+    # a "Fuck me! I'm about to..."
+    a "Leck mich! Ich bin dabei"
+
+# game/day08.rpy:831
+translate german day08_ana_sex_a727b9dd:
+
+    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
+    "{i}Mit viel Mühe fickst du sie weiter Sperma läuft aus ihrer Vagina und macht deinen spasmischenden Schwanz glitschig"
+
+# game/day08.rpy:838
+translate german day08_ana_sex_be2d2108:
+
+    # a "Y-y-yesssssss!!!"
+    a "J-J-Ja!!!"
+
+# game/day08.rpy:839
+translate german day08_ana_sex_2be3b5ce:
+
+    # "{i}Both her hands slam down on your ass as she holds you tight, orgasming wildly."
+    "{i}Ihre beiden Hände klammern sich an deinen Arsch, während sie dich festhält und wild orgasmiert"
+
+# game/day08.rpy:844
+translate german day08_ana_sex_219776d4:
+
+    # "{i}After you pull out Ana slides her fingers lazily in and out of her cunt, spreading cum all over her pubic area. She still moans softly."
+    "{i}Nachdem du dich zurückgezogen hast, gleitet Ana mit ihren Fingern träge in ihre Fotze und verteilt ihr Sperma in ihrem Schambereich. Sie stöhnt immer noch leise."
+# game/day08.rpy:849
+translate german day08_ana_sex_7db673e9:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's vagina still oozing with your cum."
+    "{i}Es dauert eine Weile, bis ihr euch erholt habt. Ihr liegt beide nackt auf dem Bett, Anas Vagina trieft noch von deinem Sperma."
+# game/day08.rpy:860
+translate german day08_ana_sex_35788734:
+
+    # "{i}As soon as you feel you're about to cum you pull out and shoot a thick load of sperm over Ana's body."
+    "{i}Sobald du spürst, dass du kommst, ziehst du dich zurück und spritzt eine dicke Ladung Sperma über Anas Körper."
+# game/day08.rpy:864
+translate german day08_ana_sex_99948d78_1:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaaaah!!!"
+
+# game/day08.rpy:870
+translate german day08_ana_sex_79bb4801:
+
+    # "{i}Clearly not satisfied, Ana rubs her pussy more violently, massaging her breasts with your cum."
+    "{i}Offensichtlich nicht zufrieden reibt Ana ihre Muschi noch heftiger und massiert ihre Brüste mit deinem Sperma."
+
+# game/day08.rpy:871
+translate german day08_ana_sex_be2d2108_1:
+
+    # a "Y-y-yesssssss!!!"
+    a "J-J-Ja!!!"
+
+# game/day08.rpy:875
+translate german day08_ana_sex_a3032372:
+
+    # "{i}Your dick still dripping with semen, you look at her while she violently orgasms on the bed."
+    "{i}Dein Schwanz trieft noch vor Sperma und du schaust sie an, während sie auf dem Bett einen heftigen Orgasmus hat."
+# game/day08.rpy:880
+translate german day08_ana_sex_d43e1bed:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's body covered with your drying cum."
+    "{i}Es dauert eine Weile, bis ihr beide wieder zu Kräften kommt. Ihr liegt beide nackt auf dem Bett, Anas Körper ist mit eurem getrockneten Sperma bedeckt."
+
+# game/day08.rpy:889
+translate german day08_ana_sex_9014c5a1:
+
+    # a "That was so good."
+    a "Das war so gut"
+
+# game/day08.rpy:890
+translate german day08_ana_sex_cf6d0b68:
+
+    # p "I agree."
+    p "Ich stimme zu"
+
+# game/day08.rpy:891
+translate german day08_ana_sex_27abc72b:
+
+    # a "If you're not careful I'm going to call you every hour for some exercise."
+    a "Wenn du nicht aufpasst, rufe ich dich jede Stunde an, um dich zu trainieren"
+
+# game/day08.rpy:892
+translate german day08_ana_sex_25d35c37:
+
+    # p "In that case, I hope I have the stamina to perform."
+    p "In diesem Fall hoffe ich, dass ich die nötige Ausdauer habe, um aufzutreten"
+
+# game/day08.rpy:893
+translate german day08_ana_sex_96edc86c:
+
+    # a "Hate to say this, because I could have another go, but my Mom is about to come home. And I want to avoid the complicated questions she might have."
+    a "Ich sage das nur ungern, weil ich es noch einmal versuchen könnte, aber meine Mutter kommt gleich nach Hause und ich möchte die komplizierten Fragen vermeiden, die sie vielleicht hat."
+# game/day08.rpy:894
+translate german day08_ana_sex_8475d17b:
+
+    # p "{i}(Damn she's insatiable. Though I could go again as well, now that she mentions it.)"
+    p "{i}(Verdammt, sie ist unersättlich, obwohl ich auch wieder gehen könnte, jetzt wo sie es erwähnt)"
+
+# game/day08.rpy:895
+translate german day08_ana_sex_bb7dfb49:
+
+    # p "I understand."
+    p "I understand"
+
+# game/day08.rpy:896
+translate german day08_ana_sex_f99d2351:
+
+    # a "I'll see you again soon."
+    a "Wir sehen uns bald wieder"
+

@@ -4756,3 +4756,1840 @@ translate german day19_choices_e59bdeeb:
     # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
     "{i}Als du fertig bist, krabbelt Rebeca zu Nia und die beiden teilen einen leidenschaftlichen Zungenkuss, Rebecas Haare kitzeln an deinem Schwanz."
 
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day19.rpy:580
+translate german day19_rb_n_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Wollen Sie Wassersport für diese Szene ermöglichen?"
+
+# game/day19.rpy:584
+translate german day19_rb_n_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Wassersport möglich"
+
+# game/day19.rpy:587
+translate german day19_rb_n_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Wassersport behindert"
+
+# game/day19.rpy:592
+translate german day19_rb_n_sex_d85a2907:
+
+    # rb "We wanted to give you a fitting farewell."
+    rb "Wir wollten Ihnen einen würdigen Abschied bereiten"
+
+# game/day19.rpy:593
+translate german day19_rb_n_sex_b8eee1d3:
+
+    # n "The both of us."
+    n "Wir beide"
+
+# game/day19.rpy:594
+translate german day19_rb_n_sex_f9f54e69:
+
+    # p "{i}(I don't think they're talking about waving at me.)"
+    p "{i}(ich glaube nicht, dass sie mir zuwinken wollen)"
+
+# game/day19.rpy:598
+translate german day19_rb_n_sex_38924177:
+
+    # p "You've piqued my interest."
+    p "Sie haben mein Interesse geweckt"
+
+# game/day19.rpy:600
+translate german day19_rb_n_sex_5804e6b6:
+
+    # rb "We had a good mother/daughter conversation this morning and it seems you've been enjoying multiple members of our little family."
+    rb "Wir hatten heute Morgen ein gutes Mutter-Tochter-Gespräch, und es scheint, dass du dich über mehrere Mitglieder unserer kleinen Familie gefreut hast."
+# game/day19.rpy:601
+translate german day19_rb_n_sex_ad08e5ef:
+
+    # p "I skipped on Nino, sorry."
+    p "Ich habe Nino übersprungen, sorry"
+
+# game/day19.rpy:602
+translate german day19_rb_n_sex_be7f7928:
+
+    # n "Hahaha, I'm sure he'd be game if you asked him."
+    n "Hahaha, ich bin sicher, er wäre einverstanden, wenn du ihn fragst"
+
+# game/day19.rpy:603
+translate german day19_rb_n_sex_2363d476:
+
+    # n "But you've enjoyed both of us separately, why not together this time?"
+    n "Aber du hast uns beide getrennt genossen, warum nicht diesmal zusammen?"
+
+# game/day19.rpy:605
+translate german day19_rb_n_sex_7bd1dddb:
+
+    # n "Rebeca and I had a conversation this morning, and since you've enjoyed me, we thought you may like the both of us as well."
+    n "Rebeca und ich haben uns heute Morgen unterhalten, und da ich dir gefallen habe, dachten wir, dass du uns beide vielleicht auch magst."
+# game/day19.rpy:607
+translate german day19_rb_n_sex_72efa59d:
+
+    # rb "We had a good mother/daughter conversation this morning and I'm not greedy, so I'd like to share you with Nia, if you want to."
+    rb "Wir hatten heute Morgen ein gutes Mutter-Tochter-Gespräch und ich bin nicht gierig, also würde ich dich gerne mit Nia teilen, wenn du willst."
+# game/day19.rpy:608
+translate german day19_rb_n_sex_d323426a:
+
+    # p "Keep going."
+    p "Weitermachen"
+
+# game/day19.rpy:609
+translate german day19_rb_n_sex_f802474b:
+
+    # "{i}While talking, both Rebeca and Nia have removed several pieces of clothing."
+    "{i}Während des Gesprächs haben sowohl Rebeca als auch Nia mehrere Kleidungsstücke entfernt"
+
+# game/day19.rpy:611
+translate german day19_rb_n_sex_ab5427f6:
+
+    # "{i}As they step teasingly out of their underwear, they look at you with an animalistic longing that makes you hard in an instant."
+    "{i}Wenn sie aufreizend aus der Unterwäsche schlüpfen, schauen sie dich mit einem animalischen Verlangen an, das dich sofort hart macht."
+# game/day19.rpy:612
+translate german day19_rb_n_sex_1972cba6:
+
+    # n "Mmm... I think that cock is ready to fuck us already, mother."
+    n "Mmm, ich glaube, der Schwanz ist schon bereit, uns zu ficken, Mutter"
+
+# game/day19.rpy:613
+translate german day19_rb_n_sex_54c5abdd:
+
+    # rb "Not yet, dear. Let's give him a show first. And I'm dying for a kiss."
+    rb "Noch nicht, Liebes, lass uns ihm erst eine Show bieten, und ich will unbedingt einen Kuss"
+
+# game/day19.rpy:616
+translate german day19_rb_n_sex_3919c996:
+
+    # "{i}The girls embrace and kiss. It's a hungry kiss, far removed from anything remotely resembling platonic love."
+    "{i}Die Mädchen umarmen sich und küssen sich. Es ist ein hungriger Kuss, weit entfernt von allem, was auch nur im Entferntesten einer platonischen Liebe ähnelt."
+# game/day19.rpy:617
+translate german day19_rb_n_sex_8ee566a0:
+
+    # "{i}Nia lustfully squeezes and kneads her mother's butt, while Rebeca caresses her daughter's firm young breasts."
+    "{i}Nia drückt und knetet lustvoll den Hintern ihrer Mutter, während Rebeca die festen jungen Brüste ihrer Tochter liebkost."
+# game/day19.rpy:623
+translate german day19_rb_n_sex_534413f3:
+
+    # "{i}Still kissing and moaning, the girls move to the bed and make themselves comfortable. Rebeca turns her attention to Nia's cunt."
+    "{i}Immer noch küssend und stöhnend machen es sich die Mädchen auf dem Bett bequem und Rebeca wendet ihre Aufmerksamkeit Nias Fotze zu."
+# game/day19.rpy:624
+translate german day19_rb_n_sex_bbc4abc7:
+
+    # rb "I'll make her ready for you, [p_name]."
+    rb "Ich mache sie für dich bereit [p_name]"
+
+# game/day19.rpy:625
+translate german day19_rb_n_sex_f28c2150:
+
+    # "{i}You watch as Rebeca strokes Nia's pussy, which is already wet from all the excitement. A finger slips inside her daughter's slit and another soon follows. Nia thrashes against the headboard of the bed in ecstasy."
+    "{i}Du beobachtest, wie Rebeca Nias Muschi streichelt, die von der ganzen Aufregung bereits feucht ist. Ein Finger gleitet in den Schlitz ihrer Tochter und bald folgt ein weiterer. Nia stößt in Ekstase gegen das Kopfteil des Bettes."
+# game/day19.rpy:626
+translate german day19_rb_n_sex_9c8eddbe:
+
+    # rb "I want to taste you Nia, get on top of me."
+    rb "Ich will dich schmecken, Nia, komm auf mich drauf"
+
+# game/day19.rpy:632
+translate german day19_rb_n_sex_860e0b65:
+
+    # "{i}Mother and daughter change position, and Nia positions her pussy right above Rebeca's head. You see the older woman's tongue dart out and lick her daughter's moist lips eagerly."
+    "{i}Mutter und Tochter wechseln die Position und Nia positioniert ihre Muschi direkt über Rebecas Kopf. Du siehst, wie die Zunge der älteren Frau hervorschnellt und eifrig die feuchten Lippen ihrer Tochter leckt."
+
+# game/day19.rpy:633
+translate german day19_rb_n_sex_c1303112:
+
+    # "{i}As you're now naked yourself, you cannot help but stroke your cock at the sight of both girls enjoying each other."
+    "{i}Da du nun selbst nackt bist, kannst du nicht anders, als deinen Schwanz zu streicheln, wenn du siehst, wie die beiden Mädchen sich gegenseitig genießen."
+
+# game/day19.rpy:636
+translate german day19_rb_n_sex_01800b8b:
+
+    # rb "I want more of you, girl!"
+    rb "Ich will mehr von dir, Mädchen!"
+
+# game/day19.rpy:637
+translate german day19_rb_n_sex_9db12743:
+
+    # "{i}Nia seems to understand what her mother wants, as she lifts her pussy from her mother's face and appears to push something out."
+    "{i}Nia scheint zu verstehen, was ihre Mutter will, denn sie hebt ihre Muschi vom Gesicht ihrer Mutter und scheint etwas herauszuschieben."
+# game/day19.rpy:638
+translate german day19_rb_n_sex_b0b7c98f:
+
+    # "{i}You see her little asshole pulsate under the strain, and her mother's tongue is already there to give it the attention it deserves."
+    "{i}Du siehst, wie ihr kleines Arschloch unter der Anstrengung pulsiert und die Zunge ihrer Mutter ist schon da, um ihm die Aufmerksamkeit zu geben, die es verdient."
+# game/day19.rpy:639
+translate german day19_rb_n_sex_7e3dc9db:
+
+    # n "Yes mom, right there... Ooooh right there!"
+    n "Ja, Mama, genau da Ooooh, genau da!"
+
+# game/day19.rpy:644
+translate german day19_rb_n_sex_f346eafd:
+
+    # "{i}With a sigh, Nia produces a big stream of warm piss which washes over her mother's body."
+    "{i}Mit einem Seufzer produziert Nia einen großen Strahl warmer Pisse, der den Körper ihrer Mutter umspült."
+
+# game/day19.rpy:645
+translate german day19_rb_n_sex_b7eddced:
+
+    # n "Aaaah! Is that nice and warm enough for you?"
+    n "Aaaah! Ist das schön und warm genug für dich?"
+
+# game/day19.rpy:647
+translate german day19_rb_n_sex_864a9b92:
+
+    # rb "That's my beautiful little girl, making mommy all wet."
+    rb "Das ist mein hübsches kleines Mädchen, das Mami ganz nass macht"
+
+# game/day19.rpy:648
+translate german day19_rb_n_sex_4d0a87aa:
+
+    # "{i}That statement alone almost makes you spill your seed on the floor, but you keep it together."
+    "{i}Allein diese Aussage bringt dich fast dazu, deinen Samen auf den Boden zu schütten, aber du reißt dich zusammen"
+
+# game/day19.rpy:649
+translate german day19_rb_n_sex_92bdd097:
+
+    # n "We're forgetting [p_name], mom."
+    n "Wir vergessen [p_name] Mama"
+
+# game/day19.rpy:654
+translate german day19_rb_n_sex_e3d5c3a9:
+
+    # rb "Right. I'm sure he's dying to give us something."
+    rb "Stimmt, ich bin sicher, er will uns unbedingt etwas geben"
+
+# game/day19.rpy:655
+translate german day19_rb_n_sex_ff05f2fe:
+
+    # p "Come over here then."
+    p "Dann komm mal her"
+
+# game/day19.rpy:657
+translate german day19_rb_n_sex_9447d48a:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. Droplets of piss are pearling down Rebeca's body. There's a hunger in both their eyes."
+    "{i}Nia und Rebeca knien vor dir und schauen dich erwartungsvoll an, Tropfen von Pisse perlen an Rebecas Körper herunter, in ihren Augen steht der Hunger."
+# game/day19.rpy:658
+translate german day19_rb_n_sex_e7569246:
+
+    # n "He's big, isn't he, mother?"
+    n "Er ist groß, nicht wahr, Mutter?"
+
+# game/day19.rpy:659
+translate german day19_rb_n_sex_58473773:
+
+    # rb "He sure is."
+    rb "Er ist sicher"
+
+# game/day19.rpy:661
+translate german day19_rb_n_sex_b1c02cdf:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Aber wir haben ihn beide in uns gespürt, also wissen wir, dass er gut reinpassen wird."
+# game/day19.rpy:663
+translate german day19_rb_n_sex_146d7dcf:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Aber du hattest ihn in dir, also wissen wir, dass er gut zu uns passen wird"
+
+# game/day19.rpy:665
+translate german day19_rb_n_sex_5e88b4ac:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Ich habe ihn in mir gehabt, also wissen wir, dass er gut zu uns passen wird."
+# game/day19.rpy:666
+translate german day19_rb_n_sex_03378bfc:
+
+    # p "Open your mouths!"
+    p "Öffnet eure Münder!"
+
+# game/day19.rpy:672
+translate german day19_rb_n_sex_6722dac6:
+
+    # "{i}You direct a big stream of piss at Rebeca and soon her mouth is filled with your warm fluid. Most of it spills on her tits and washes down her body, but she swallows a portion as well, reveling in it."
+    "{i}Du richtest einen großen Strahl Pisse auf Rebeca und schon bald ist ihr Mund mit deiner warmen Flüssigkeit gefüllt. Das meiste davon spritzt auf ihre Titten und spült ihren Körper hinunter, aber sie schluckt auch einen Teil und genießt es."
+
+# game/day19.rpy:674
+translate german day19_rb_n_sex_8693c8b0:
+
+    # p "There's more. Nia!"
+    p "Es gibt noch mehr Nia!"
+
+# game/day19.rpy:675
+translate german day19_rb_n_sex_d698ca7e:
+
+    # "{i}Nia obediently opens her mouth and receives an equal share of piss. She clearly isn't as accustomed to it and gags at the taste, letting all of it spill on her naked body."
+    "{i}Nia öffnet gehorsam ihren Mund und erhält einen gleichen Anteil an Pisse. Sie ist offensichtlich nicht daran gewöhnt und würgt bei dem Geschmack, so dass alles auf ihren nackten Körper spritzt."
+# game/day19.rpy:678
+translate german day19_rb_n_sex_e59bdeeb:
+
+    # "{i}When you’re finished, Rebeca crawls toward Nia, and the two share a passionate french kiss, Rebeca’s hair tickling against your cock."
+    "{i}Als du fertig bist, krabbelt Rebeca zu Nia und die beiden geben sich einen leidenschaftlichen Zungenkuss, wobei Rebecas Haare an deinem Schwanz kitzeln."
+# game/day19.rpy:686
+translate german day19_rb_n_sex_a5ebe768:
+
+    # "{i}Nia and Rebeca kneel before you and look at you expectantly. There's a hunger in both their eyes."
+    "{i}Nia und Rebeca knien vor dir und sehen dich erwartungsvoll an. In ihren Augen steht der Hunger."
+# game/day19.rpy:687
+translate german day19_rb_n_sex_e7569246_1:
+
+    # n "He's big, isn't he, mother?"
+    n "Er ist groß, nicht wahr, Mutter?"
+
+# game/day19.rpy:688
+translate german day19_rb_n_sex_58473773_1:
+
+    # rb "He sure is."
+    rb "Er ist sicher"
+
+# game/day19.rpy:690
+translate german day19_rb_n_sex_b1c02cdf_1:
+
+    # rb "But we've both felt him inside of us, so we know he'll fit just fine."
+    rb "Aber wir haben ihn beide in uns gespürt, also wissen wir, dass er gut reinpassen wird."
+# game/day19.rpy:691
+translate german day19_rb_n_sex_9a5a66e5:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "Die Frage ist, ob er in deinen Mund gepasst hat?"
+
+# game/day19.rpy:692
+translate german day19_rb_n_sex_b98e718b:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Du kennst meine Schwanzlutscher-Fähigkeiten, Mutter, ich zeige es dir"
+
+# game/day19.rpy:694
+translate german day19_rb_n_sex_146d7dcf_1:
+
+    # rb "But you've had him inside of you, so we know he'll fit us just fine."
+    rb "Aber du hattest ihn in dir, also wissen wir, dass er gut zu uns passen wird"
+
+# game/day19.rpy:695
+translate german day19_rb_n_sex_9a5a66e5_1:
+
+    # rb "The question is, did he fit in your mouth?"
+    rb "Die Frage ist, ob er in deinen Mund gepasst hat?"
+
+# game/day19.rpy:696
+translate german day19_rb_n_sex_b98e718b_1:
+
+    # n "You know my cocksucking skills, mother, I'll show you."
+    n "Du kennst meine Schwanzlutscher-Fähigkeiten, Mutter, ich zeige es dir"
+
+# game/day19.rpy:698
+translate german day19_rb_n_sex_5e88b4ac_1:
+
+    # rb "I've had him inside of me, so we know he'll fit us just fine."
+    rb "Ich habe ihn in mir gehabt, also wissen wir, dass er gut zu uns passen wird."
+# game/day19.rpy:699
+translate german day19_rb_n_sex_16bda06c:
+
+    # n "But will he fit in my mouth, you think?"
+    n "Aber wird er in meinen Mund passen, meinst du?"
+
+# game/day19.rpy:700
+translate german day19_rb_n_sex_a531e11f:
+
+    # rb "There's only one way to find out."
+    rb "Es gibt nur einen Weg, das herauszufinden"
+
+# game/day19.rpy:705
+translate german day19_rb_n_sex_20b0171b:
+
+    # "{i}Nia wraps her fingers around your cock as her mother watches her intently. The younger girl wraps her lips around your shaft and swallows you inch by inch until you feel her lips touching your balls."
+    "{i}Nia wickelt ihre Finger um deinen Schwanz, während ihre Mutter sie aufmerksam beobachtet Das jüngere Mädchen wickelt ihre Lippen um deinen Schaft und schluckt dich Zentimeter für Zentimeter, bis du spürst, wie ihre Lippen deine Eier berühren"
+
+# game/day19.rpy:706
+translate german day19_rb_n_sex_987caf1d:
+
+    # rb "That's my girl!"
+    rb "Das ist mein Mädchen!"
+
+# game/day19.rpy:707
+translate german day19_rb_n_sex_16571544:
+
+    # "{i}Nia gags and dislodges your cock from her throat, trails of clear mucus cling to your penis and her lips as she gasps for air."
+    "{i}Nia würgt und stößt deinen Schwanz aus ihrer Kehle. Spuren von klarem Schleim kleben an deinem Penis und ihren Lippen, während sie nach Luft schnappt."
+
+# game/day19.rpy:712
+translate german day19_rb_n_sex_f1f063f5:
+
+    # "{i}She looks at you naughtily and immediately turns her attention to your cock again as she treats you to the most ferocious cocksucking you've ever experienced."
+    "{i}Sie schaut dich frech an und wendet ihre Aufmerksamkeit sofort wieder deinem Schwanz zu, während sie dich mit dem wildesten Schwanzlutschen verwöhnt, das du je erlebt hast."
+# game/day19.rpy:713
+translate german day19_rb_n_sex_3e76f38c:
+
+    # rb "How's my daughter treating you, [p_name]? Are you ready to cum? Fill her throat?"
+    rb "Wie behandelt dich meine Tochter [p_name]? Bist du bereit, abzuspritzen? Ihre Kehle zu füllen?"
+
+# game/day19.rpy:714
+translate german day19_rb_n_sex_f1d18e2b:
+
+    # p "G-g-god! Keep going, Nia."
+    p "G-G-Gott! Mach weiter Nia"
+
+# game/day19.rpy:715
+translate german day19_rb_n_sex_eda25b79:
+
+    # "{i}Nia's teary eyes bore into you as she bounces her head on your throbbing cock."
+    "{i}Nias tränenüberströmte Augen bohren sich in dich, während sie mit ihrem Kopf auf deinem pochenden Schwanz wippt"
+
+# game/day19.rpy:716
+translate german day19_rb_n_sex_4e97e3b9:
+
+    # rb "Don't drain him just yet, girl. I want to have a go as well."
+    rb "Lass ihn noch nicht abtropfen, Mädchen, ich will es auch probieren."
+# game/day19.rpy:718
+translate german day19_rb_n_sex_5ad4a076:
+
+    # n "Aaaah! He's all yours, mom."
+    n "Aaaah! Er gehört ganz dir, Mama"
+
+# game/day19.rpy:723
+translate german day19_rb_n_sex_1f9fd43a:
+
+    # rb "Damn, Nia, you've made such a mess of that boy."
+    rb "Verdammt, Nia, du hast den Jungen so zugerichtet"
+
+# game/day19.rpy:724
+translate german day19_rb_n_sex_71c3cc43:
+
+    # n "Just lick him clean, mother."
+    n "Leck ihn einfach sauber, Mutter"
+
+# game/day19.rpy:725
+translate german day19_rb_n_sex_162c8e04:
+
+    # "{i}Rebeca licks your shaft before lowering her mouth over it. Her tongue darts over your glans, sending shivers down your spine."
+    "{i}Rebeca leckt deinen Schaft, bevor sie ihn in den Mund nimmt. Ihre Zunge fährt über deine Eichel und jagt dir Schauer über den Rücken."
+# game/day19.rpy:727
+translate german day19_rb_n_sex_9c3545dc:
+
+    # "{i}The more experienced woman deep-throats you with ease. You feel her wet tongue underneath your shaft as the tip touches the back of her throat. Her head begins to move up and down, and you experience the most exquisite sensations."
+    "{i}Du spürst ihre feuchte Zunge unter deinem Schaft, während die Spitze den hinteren Teil ihrer Kehle berührt. Ihr Kopf beginnt sich auf und ab zu bewegen und du erlebst die exquisitesten Empfindungen."
+# game/day19.rpy:728
+translate german day19_rb_n_sex_47a3e8ff:
+
+    # n "How does that feel, [p_name]? I know my mother is good at it, she taught me everything I know."
+    n "Wie fühlt sich das an [p_name]? Ich weiß, dass meine Mutter gut darin ist, sie hat mir alles beigebracht, was ich weiß."
+# game/day19.rpy:729
+translate german day19_rb_n_sex_c60c174b:
+
+    # p "F-f-fuck Rebeca I'm about to..."
+    p "F-F-Fick Rebeca ich bin dabei"
+
+# game/day19.rpy:735
+translate german day19_rb_n_sex_704e9be1:
+
+    # "{i}As soon as you utter those words Rebeca stops what she's doing and crawls to Nia. The two share a passionate french kiss, Rebeca's hair tickling against your cock."
+    "{i}Sobald du diese Worte aussprichst, hört Rebeca auf und krabbelt zu Nia. Die beiden teilen einen leidenschaftlichen Zungenkuss und Rebecas Haare kitzeln an deinem Schwanz."
+# game/day19.rpy:736
+translate german day19_rb_n_sex_2df4d380:
+
+    # rb "We're not done with you yet. Save that precious seed for later."
+    rb "Wir sind noch nicht fertig mit dir, spar dir den kostbaren Samen für später auf"
+
+# game/day19.rpy:737
+translate german day19_rb_n_sex_65bb8286:
+
+    # "{i}With much effort, you're able to stave off your orgasm."
+    "{i}Mit viel Mühe gelingt es dir, deinen Orgasmus hinauszuzögern"
+
+# game/day19.rpy:740
+translate german day19_rb_n_sex_28e233a5:
+
+    # p "Get on that bed, girls."
+    p "Legt euch aufs Bett, Mädels"
+
+# game/day19.rpy:742
+translate german day19_rb_n_sex_e12d9c19:
+
+    # "{i}As soon as you all lie down, the girls cover you with kisses. Nia is on top of you, and you feel her wet cunny rub against your manhood. Rebeca's tongue soon joins the stimulation of your cock as she sucks and licks your balls."
+    "{i}Sobald ihr euch hingelegt habt, bedecken euch die Mädchen mit Küssen. Nia liegt auf dir und du spürst, wie ihre feuchte Möse an deiner Männlichkeit reibt. Rebecas Zunge gesellt sich bald zur Stimulation deines Schwanzes, während sie an deinen Eiern saugt und leckt."
+# game/day19.rpy:744
+translate german day19_rb_n_sex_97eefd25:
+
+    # "{i}Nia's kisses are so passionate that she bites your lips once or twice, but you don't care. Her juices leak on your lower abdomen, which her mother laps up eagerly, not forgetting your dick and especially the tip of your dick, which is by now completely covered in precum."
+    "{i}Nia küsst dich so leidenschaftlich, dass sie dir ein- oder zweimal auf die Lippen beißt, aber das ist dir egal. Ihr Saft läuft auf deinen Unterleib, den ihre Mutter eifrig aufsaugt, ohne dabei deinen Schwanz und vor allem deine Schwanzspitze zu vergessen, die inzwischen komplett mit Präzipitum bedeckt ist."
+# game/day19.rpy:752
+translate german day19_rb_n_sex_926c88da:
+
+    # p "Aaaah, stop what you're doing Rebeca, you're going to ride me instead."
+    p "Hör auf mit dem, was du tust, Rebeca, du wirst mich stattdessen reiten"
+
+# game/day19.rpy:754
+translate german day19_rb_n_sex_528f330b:
+
+    # "{i}Rebeca obliges at once, squatting and sliding down on your cock. Firmly grabbing her ass, you push her even further down."
+    "{i}Rebeca geht sofort in die Hocke und rutscht auf deinem Schwanz hinunter. Du packst ihren Arsch fest und drückst sie noch weiter nach unten."
+# game/day19.rpy:755
+translate german day19_rb_n_sex_da751dbf:
+
+    # rb "Fuck yes, [p_name], I'm going to fuck you so hard."
+    rb "Fick ja [p_name] ich werde dich so hart ficken"
+
+# game/day19.rpy:761
+translate german day19_rb_n_sex_068c7fa8:
+
+    # "{i}Her rhythmic fucking is fierce, and her large breasts bounce up and down. Her thick ass slaps against your thighs every time you fill her up with the length of your cock."
+    "{i}Ihr rhythmisches Ficken ist heftig und ihre großen Brüste hüpfen auf und ab. Ihr dicker Arsch klatscht jedes Mal gegen deine Schenkel, wenn du sie mit der Länge deines Schwanzes füllst."
+# game/day19.rpy:766
+translate german day19_rb_n_sex_a1ba8f88:
+
+    # "{i}Rebeca is soon joined by her daughter, who's fingering herself and stimulating your balls with her mouth."
+    "{i}Rebeca wird bald von ihrer Tochter begleitet, die sich selbst fingert und deine Eier mit ihrem Mund stimuliert."
+
+# game/day19.rpy:767
+translate german day19_rb_n_sex_0246082e:
+
+    # p "F-f-fuck!"
+    p "F-f-fuck!"
+
+# game/day19.rpy:768
+translate german day19_rb_n_sex_025073a3:
+
+    # rb "I want all of it in my mouth, [p_name]. Please do that for me."
+    rb "Ich will alles davon in meinem Mund haben [p_name] Bitte mach das für mich"
+
+# game/day19.rpy:769
+translate german day19_rb_n_sex_bed7a257:
+
+    # "{i}Rebeca pulls your rock-hard dick out of her wet gash and motions you to stand. Nia positions herself before you to give you a good view of her sex."
+    "{i}Rebeca zieht deinen steinharten Schwanz aus ihrer feuchten Spalte und bittet dich aufzustehen. Nia stellt sich vor dich, damit du einen guten Blick auf ihr Geschlecht hast."
+# game/day19.rpy:775
+translate german day19_rb_n_sex_132b3544:
+
+    # "{i}Nia offers her butt to her mother and Rebeca alternates between rimming her daughter's asshole and sucking your cock."
+    "{i}Nia bietet ihrer Mutter ihren Hintern an und Rebeca lutscht abwechselnd das Arschloch ihrer Tochter und lutscht deinen Schwanz."
+# game/day19.rpy:776
+translate german day19_rb_n_sex_7617978b:
+
+    # "{i}The sight of such perversity is too much for you, and you spill your seed inside Rebeca's mouth."
+    "{i}Der Anblick solcher Perversität ist zu viel für dich und du verschüttest deinen Samen in Rebecas Mund."
+
+# game/day19.rpy:785
+translate german day19_rb_n_sex_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "Aaaaaah!"
+
+# game/day19.rpy:786
+translate german day19_rb_n_sex_f72201b3:
+
+    # "{i}You keep pumping cum into Rebeca's mouth, and it starts leaking from the corners onto Nia's upright ass. The girl uses the sperm to rub her pussy and achieves a powerful orgasm in less than a minute."
+    "{i}Du pumpst weiter Sperma in Rebecas Mund und es fängt an, aus den Ecken auf Nias aufrechten Arsch zu tropfen. Das Mädchen benutzt das Sperma, um ihre Muschi zu reiben und erreicht einen starken Orgasmus in weniger als einer Minute"
+
+# game/day19.rpy:793
+translate german day19_rb_n_sex_765ef004:
+
+    # "{i}Still kissing her with passion, you lift Nia from your torso and position yourself on top of her. Her mother turns her attention to her daughter's cunt."
+    "{i}Du küsst sie immer noch leidenschaftlich, hebst Nia von deinem Oberkörper und legst dich auf sie. Ihre Mutter wendet ihre Aufmerksamkeit der Fotze ihrer Tochter zu."
+# game/day19.rpy:794
+translate german day19_rb_n_sex_df9b68a6:
+
+    # p "I'm going to fuck you so hard, Nia."
+    p "Ich werde dich so hart ficken, Nia"
+
+# game/day19.rpy:795
+translate german day19_rb_n_sex_9eb5f2d7:
+
+    # n "Mmmmm."
+    n "Mmmmm"
+
+# game/day19.rpy:801
+translate german day19_rb_n_sex_f43e2993:
+
+    # "{i}Nia opens her legs invitingly and you thrust your cock inside of her tight pussy. She gasps, but her voice is muffled by her mother's cunt pressed against her face."
+    "{i}Nia öffnet einladend ihre Beine und du stößt deinen Schwanz in ihre enge Muschi. Sie keucht, aber ihre Stimme ist gedämpft, weil die Fotze ihrer Mutter gegen ihr Gesicht gedrückt wird."
+# game/day19.rpy:802
+translate german day19_rb_n_sex_0d350062:
+
+    # rb "Yes, lick me right there, honey."
+    rb "Ja, leck mich genau da, Schatz"
+
+# game/day19.rpy:807
+translate german day19_rb_n_sex_b7cbc948:
+
+    # "{i}You grab Nia tightly and fuck her hard, your balls slapping against her thighs."
+    "{i}Du packst Nia fest und fickst sie hart, deine Eier klatschen gegen ihre Schenkel"
+
+# game/day19.rpy:809
+translate german day19_rb_n_sex_8b47a10a:
+
+    # n "Mmmmm. He's fucking me so hard, mother."
+    n "Mmmmm Er fickt mich so hart Mutter"
+
+# game/day19.rpy:810
+translate german day19_rb_n_sex_8e8ffd0f:
+
+    # rb "Yes, is he going to make you cum?"
+    rb "Ja, wird er dich zum Abspritzen bringen?"
+
+# game/day19.rpy:811
+translate german day19_rb_n_sex_e0a9438d:
+
+    # n "Y-y-yessss!"
+    n "J-J-Ja!"
+
+# game/day19.rpy:812
+translate german day19_rb_n_sex_246b0685:
+
+    # rb "Are you going to cover my daughter with your seed, [p_name]?"
+    rb "Willst du meine Tochter mit deinem Samen [p_name] bedecken?"
+
+# game/day19.rpy:813
+translate german day19_rb_n_sex_4317c50e:
+
+    # p "F-fuck yes, I am."
+    p "Verdammt, ja, das bin ich"
+
+# game/day19.rpy:814
+translate german day19_rb_n_sex_778a55dc:
+
+    # n "I want it in my mouth so badly, I want to swallow it all."
+    n "Ich will es so sehr in meinem Mund haben, dass ich alles schlucken möchte"
+
+# game/day19.rpy:816
+translate german day19_rb_n_sex_71dd9188:
+
+    # "{i}You pull your rock-hard dick from Nia's wet gash and stand beside the bed. Nia grabs your cock, while Rebeca squats beside you and strokes your perineum."
+    "{i}Du ziehst deinen steinharten Schwanz aus Nias nasser Spalte und stellst dich neben das Bett. Nia greift nach deinem Schwanz, während Rebeca neben dir hockt und deinen Damm streichelt."
+# game/day19.rpy:817
+translate german day19_rb_n_sex_a0ded363:
+
+    # rb "Come on, fill my daughter's mouth. She's ready for you."
+    rb "Komm, füll den Mund meiner Tochter, sie ist bereit für dich"
+
+# game/day19.rpy:818
+translate german day19_rb_n_sex_58000e0a:
+
+    # "{i}The sound of such perversity is too much for you, and you spill your seed inside Nia's mouth."
+    "{i}Der Klang dieser Perversität ist zu viel für dich und du verschüttest deinen Samen in Nias Mund"
+
+# game/day19.rpy:826
+translate german day19_rb_n_sex_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "Aaaaaah!"
+
+# game/day19.rpy:827
+translate german day19_rb_n_sex_01010bce:
+
+    # "{i}Cum keeps pumping inside Nia, and she gags a little but keeps everything inside of her mouth. Eventually, she proudly shows you your big load."
+    "{i}Das Sperma pumpt weiter in Nia und sie würgt ein wenig, aber behält alles in ihrem Mund. Schließlich zeigt sie dir stolz deine große Ladung."
+
+# game/day19.rpy:828
+translate german day19_rb_n_sex_db356f97:
+
+    # rb "Swallow it all, dear."
+    rb "Schluck alles runter, mein Lieber"
+
+# game/day19.rpy:829
+translate german day19_rb_n_sex_fe156cbd:
+
+    # "{i}Maintaining eye contact with you, Nia swallows every last drop of sperm inside of her mouth, licking her lips once the deed is done."
+    "{i}Nia hält Augenkontakt mit dir und schluckt jeden einzelnen Tropfen Sperma in ihrem Mund und leckt sich über die Lippen, sobald die Tat vollbracht ist."
+# game/day19.rpy:839
+translate german day19_rb_n_sex_a7260ebb:
+
+    # rb "Aren't you going to give mommy a kiss?"
+    rb "Willst du Mami nicht einen Kuss geben?"
+
+# game/day19.rpy:841
+translate german day19_rb_n_sex_e625a276:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Rebeca kisses Nia's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Mutter und Tochter umarmen sich, ihre Brüste pressen sich aneinander, Rebeca küsst Nias Gesicht und leckt die kleinen Spermatröpfchen aus ihren Mundwinkeln, bevor sie einen langen, ekstatischen Kuss austauschen."
+# game/day19.rpy:843
+translate german day19_rb_n_sex_a200e8d1:
+
+    # "{i}Mother and daughter embrace, their breasts pressing against each other. Nia kisses Rebeca's face and licks the small droplets of sperm from the corners of her mouth before sharing a long, ecstatic kiss."
+    "{i}Mutter und Tochter umarmen sich und drücken ihre Brüste aneinander. Nia küsst Rebecas Gesicht und leckt die kleinen Spermatröpfchen aus ihren Mundwinkeln, bevor sie einen langen ekstatischen Kuss austauscht."
+# game/day19.rpy:844
+translate german day19_rb_n_sex_26b4df67:
+
+    # n "How is that for a farewell?"
+    n "Was ist das für eine Verabschiedung?"
+
+# game/day19.rpy:845
+translate german day19_rb_n_sex_78d1ef2a:
+
+    # p "Damn girls, you drained me. I'm not sure if I'll be able to cum for the next few days."
+    p "Verdammt Mädels, ihr habt mich ausgelaugt, ich bin mir nicht sicher, ob ich in den nächsten Tagen noch abspritzen kann."
+# game/day19.rpy:846
+translate german day19_rb_n_sex_2beab29f:
+
+    # rb "A stud like you? I'm sure you will."
+    rb "Ein Hengst wie du? Ich bin sicher, dass du das wirst."
+# game/day19.rpy:847
+translate german day19_rb_n_sex_bea929ea:
+
+    # rb "If you ever get back to Belugio, or if you all decide to stay a little longer, our door is always open."
+    rb "Wenn Sie jemals nach Belugio zurückkehren oder wenn Sie alle beschließen, etwas länger zu bleiben, steht unsere Tür immer offen"
+
+# game/day19.rpy:848
+translate german day19_rb_n_sex_a7be7838:
+
+    # n "That's not the only thing that'll be open for you, [p_name]..."
+    n "Das ist nicht die einzige Sache, die für Sie offen sein wird [p_name]"
+
+# game/day19.rpy:849
+translate german day19_rb_n_sex_f0442b53:
+
+    # rb "Naughty girl... And a very bad play on words."
+    rb "Böses Mädchen und ein sehr schlechtes Wortspiel"
+
+# game/day19.rpy:850
+translate german day19_rb_n_sex_e530ad83:
+
+    # n "Sorry, hot sex always makes me a little giddy."
+    n "Sorry, heißer Sex macht mich immer ein bisschen schwindlig"
+
+# game/day19.rpy:851
+translate german day19_rb_n_sex_b6060de2:
+
+    # p "You're forgiven, little firecracker."
+    p "Ich vergebe dir, kleiner Knallfrosch"
+
+# game/day19.rpy:854
+translate german day19_rb_n_sex_11b3894a:
+
+    # "{i}Mother and daughter kiss you passionately and leave the apartment."
+    "{i}Mutter und Tochter küssen dich leidenschaftlich und verlassen die Wohnung"
+
+# game/day19.rpy:864
+translate german day19_rb_n_sex_55d8ce2a:
+
+    # p "Sorry girls, but I have a very busy schedule today."
+    p "Tut mir leid, Mädels, aber ich habe heute sehr viel zu tun"
+
+# game/day19.rpy:866
+translate german day19_rb_n_sex_6536bd26:
+
+    # n "Busy? You're on holiday?"
+    n "Viel zu tun? Sie sind im Urlaub?"
+
+# game/day19.rpy:867
+translate german day19_rb_n_sex_792964d9:
+
+    # rb "Calm down dear, he clearly isn't interested in us."
+    rb "Beruhige dich, Schatz, er ist eindeutig nicht an uns interessiert"
+
+# game/day19.rpy:868
+translate german day19_rb_n_sex_87560e6c:
+
+    # rb "Safe travels."
+    rb "Gute Reise"
+
+# game/day19.rpy:869
+translate german day19_rb_n_sex_743ce775:
+
+    # "{i}Clearly irritated, both girls leave the apartment and you're alone again."
+    "{i}Sichtlich irritiert verlassen beide Mädchen die Wohnung und du bist wieder allein"
+
+# game/day19.rpy:885
+translate german day19_l_handjob_5ee6c705:
+
+    # "{i}Your sister strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}Deine Schwester zieht sich aus und du bist beeindruckt von ihren schönen runden Proportionen"
+
+# game/day19.rpy:887
+translate german day19_l_handjob_b34edba4:
+
+    # "{i}[l_name] strips down, and you're struck by her beautiful, rounded proportions."
+    "{i}[l_name] zieht sich aus und du bist beeindruckt von ihren schönen runden Proportionen"
+
+# game/day19.rpy:889
+translate german day19_l_handjob_3b819904:
+
+    # l "Sorry that you need to help me again, [p_name]. I'm so hopeless."
+    l "Tut mir leid, dass du mir wieder helfen musst [p_name], ich bin so hoffnungslos"
+
+# game/day19.rpy:891
+translate german day19_l_handjob_bef7c59a:
+
+    # l "You really need to guide me through all this, [p_name]. I'm so hopeless."
+    l "Du musst mich wirklich durch all das [p_name] führen, ich bin so hoffnungslos"
+
+# game/day19.rpy:892
+translate german day19_l_handjob_8ba80d5d:
+
+    # p "{i}(Why the fuck is this beautiful girl apologizing for LETTING ME DO THIS?! Ok, calm down, play it cool...)"
+    p "{i}(Warum zum Teufel entschuldigt sich dieses schöne Mädchen dafür, dass es mich das hat machen lassen?! Ok, beruhige dich und bleib cool)"
+
+# game/day19.rpy:893
+translate german day19_l_handjob_cc4aea5c:
+
+    # p "There's absolutely no need to apologize, I'm just glad I can help you this way."
+    p "Sie brauchen sich nicht zu entschuldigen, ich bin nur froh, dass ich Ihnen auf diese Weise helfen kann."
+# game/day19.rpy:894
+translate german day19_l_handjob_43ba43e7:
+
+    # "{i}You remove your underwear and crawl next to [l_name] on the bed."
+    "{i}Du ziehst deine Unterwäsche aus und krabbelst neben [l_name] aufs Bett"
+
+# game/day19.rpy:896
+translate german day19_l_handjob_54509c0e:
+
+    # p "So, remember, just take it slow. Explore your body, not just your pussy."
+    p "Also denk daran, es langsam anzugehen Erforsche deinen Körper, nicht nur deine Muschi"
+
+# game/day19.rpy:898
+translate german day19_l_handjob_65996910:
+
+    # p "Just take it slow. Explore your body, not just your pussy."
+    p "Geh es einfach langsam an Erforsche deinen Körper, nicht nur deine Muschi"
+
+# game/day19.rpy:899
+translate german day19_l_handjob_77aab732:
+
+    # p "It's important that you get completely in the mood first. Touch the areas of your body that are sensitive."
+    p "Es ist wichtig, dass du dich erst einmal richtig einstimmst Berühre die empfindlichen Stellen deines Körpers"
+
+# game/day19.rpy:900
+translate german day19_l_handjob_d55cb3c1:
+
+    # l "Gosh, that sounds so naughty!"
+    l "Das klingt so unanständig!"
+
+# game/day19.rpy:905
+translate german day19_l_handjob_bb146abc:
+
+    # p "Touch your breasts, the skin of your nipples."
+    p "Berühre deine Brüste, die Haut deiner Brustwarzen"
+
+# game/day19.rpy:906
+translate german day19_l_handjob_d7e86173:
+
+    # p "See how hard they're getting?"
+    p "Siehst du, wie hart sie werden?"
+
+# game/day19.rpy:907
+translate german day19_l_handjob_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "J-J-Ja"
+
+# game/day19.rpy:908
+translate german day19_l_handjob_d77b4e90:
+
+    # p "Now trail all the way down from your breasts to your navel with your fingertips."
+    p "Fahren Sie nun mit den Fingerspitzen von den Brüsten bis zum Bauchnabel hinunter"
+
+# game/day19.rpy:909
+translate german day19_l_handjob_5a984e8c:
+
+    # p "Good, a little bit further."
+    p "Gut, ein bisschen weiter"
+
+# game/day19.rpy:910
+translate german day19_l_handjob_2fba298f:
+
+    # "{i}You hear [l_name] breathing heavily in anticipation, she's obviously ready for anything that's about to come."
+    "{i}Du hörst [l_name] schwer atmen in Erwartung, sie ist offensichtlich bereit für alles, was kommen wird"
+
+# game/day19.rpy:912
+translate german day19_l_handjob_774a69e4:
+
+    # p "Caress the insides of your thighs first, right up to your little pussy, but don't touch it just yet."
+    p "Streichle zuerst die Innenseiten deiner Schenkel bis hin zu deiner kleinen Muschi, aber berühre sie noch nicht"
+
+# game/day19.rpy:913
+translate german day19_l_handjob_b1939e23:
+
+    # l "Mmmmm..."
+    l "Mmmmm"
+
+# game/day19.rpy:914
+translate german day19_l_handjob_e477eaec:
+
+    # p "{i}(That sounds good! Time to up the ante.)"
+    p "{i}(Das klingt gut! Zeit, den Einsatz zu erhöhen)"
+
+# game/day19.rpy:915
+translate german day19_l_handjob_64441c2e:
+
+    # p "Slowly work your way towards your pussy, touch the lips... Are you wet, [l_name]? Did you make yourself wet?"
+    p "Arbeite dich langsam zu deiner Muschi vor und berühre die Lippen Bist du feucht [l_name]? Hast du dich selbst feucht gemacht?"
+
+# game/day19.rpy:916
+translate german day19_l_handjob_b778bd52:
+
+    # l "[p_name]! You shouldn't... Yes... Ooooh!"
+    l "[p_name]! Du sollst nicht Ja Ooooh!"
+
+# game/day19.rpy:918
+translate german day19_l_handjob_9baea2c7:
+
+    # p "It's time to massage your little lovebud. Just rub it gently and keep at it when it feels good."
+    p "Es ist Zeit, deine kleine Liebesknospe zu massieren. Reibe sie sanft und mach weiter, wenn es sich gut anfühlt."
+# game/day19.rpy:919
+translate german day19_l_handjob_f63bb849:
+
+    # "{i}She quivers slightly as she softly rubs her clitoris. Your erection that has been developing is nearly at full strength."
+    "{i}Sie zittert leicht, während sie sanft ihren Kitzler reibt. Deine Erektion, die sich entwickelt hat, ist fast in voller Stärke."
+# game/day19.rpy:922
+translate german day19_l_handjob_6db58636:
+
+    # l "Are you getting... having an... ah... erection again?"
+    l "Bekommst du wieder eine Erektion?"
+
+# game/day19.rpy:924
+translate german day19_l_handjob_53854849:
+
+    # l "You have a... you know... don't you?"
+    l "Du hast ein Du weißt schon, oder?"
+
+# game/day19.rpy:925
+translate german day19_l_handjob_3309102f:
+
+    # p "An erection?"
+    p "Eine Erektion?"
+
+# game/day19.rpy:926
+translate german day19_l_handjob_cb797768:
+
+    # l "Y-yes?"
+    l "J-Ja?"
+
+# game/day19.rpy:927
+translate german day19_l_handjob_2b400d73:
+
+    # p "Does it bother you?"
+    p "Stört dich das?"
+
+# game/day19.rpy:928
+translate german day19_l_handjob_0f1a8c03:
+
+    # l "No! No! It's only natural, isn't it?"
+    l "Nein! Nein! Das ist doch ganz natürlich, oder?"
+
+# game/day19.rpy:929
+translate german day19_l_handjob_c81890ad:
+
+    # p "It would take a blind person not to get aroused by you, [l_name]. Everything is so perfect, the gentle curves of your hips, your soft skin, those beautiful breasts..."
+    p "Man müsste blind sein, um nicht von dir erregt zu werden [l_name] Alles ist so perfekt, die sanften Kurven deiner Hüften, deine weiche Haut, die schönen Brüste."
+# game/day19.rpy:930
+translate german day19_l_handjob_2d696ba3:
+
+    # p "And to see you connect to yourself in such a simple, yet profound way... I wish I could discover it all again."
+    p "Und wenn ich sehe, wie du dich auf so einfache und doch tiefgründige Weise mit dir selbst verbindest, wünschte ich, ich könnte das alles noch einmal entdecken."
+# game/day19.rpy:932
+translate german day19_l_handjob_f075de93:
+
+    # l "Were you... Sorry, I shouldn't stop."
+    l "Tut es dir leid, dass ich nicht aufhören sollte"
+
+# game/day19.rpy:933
+translate german day19_l_handjob_1c431c1d:
+
+    # p "No, do whatever you want. Take your time. Pillow talk is equally important."
+    p "Nein, mach, was du willst, nimm dir Zeit, das Gespräch mit dem Kissen ist genauso wichtig."
+# game/day19.rpy:934
+translate german day19_l_handjob_bcfbdf3c:
+
+    # l "I'm just too curious. You'll say it when I overstep, right?"
+    l "Ich bin einfach zu neugierig Du sagst es, wenn ich zu weit gehe, oder?"
+
+# game/day19.rpy:935
+translate german day19_l_handjob_ab916dec:
+
+    # p "Don't worry, dearest, you can ask me anything."
+    p "Keine Sorge, mein Schatz, du kannst mich alles fragen"
+
+# game/day19.rpy:936
+translate german day19_l_handjob_09ca7bc5:
+
+    # l "What I meant to ask was, were you very young when you first... you know... touched yourself?"
+    l "Was ich fragen wollte: Warst du sehr jung, als du dich zum ersten Mal berührt hast?"
+
+# game/day19.rpy:937
+translate german day19_l_handjob_ec9299b6:
+
+    # p "I think I was twelve or thirteen. When I was reading some magazine, I came across a girl in lingerie and started rubbing my penis against my mattress. That felt really good."
+    p "Ich glaube, ich war zwölf oder dreizehn. Als ich eine Zeitschrift las, sah ich ein Mädchen in Unterwäsche und fing an, meinen Penis an meiner Matratze zu reiben. Das fühlte sich wirklich gut an."
+# game/day19.rpy:938
+translate german day19_l_handjob_f3b5ee07:
+
+    # p "So next time I used my hands and covered everything in sperm. From that moment the floodgates were open."
+    p "Also habe ich beim nächsten Mal meine Hände benutzt und alles mit Sperma bedeckt Von diesem Moment an waren die Schleusen offen"
+
+# game/day19.rpy:939
+translate german day19_l_handjob_d80db94b:
+
+    # l "Really?"
+    l "Wirklich?"
+
+# game/day19.rpy:940
+translate german day19_l_handjob_45a2fc71:
+
+    # p "Yes, teenage boys are generally not known for their restraint."
+    p "Ja, Jungs im Teenageralter sind im Allgemeinen nicht für ihre Zurückhaltung bekannt"
+
+# game/day19.rpy:941
+translate german day19_l_handjob_e59e8eea:
+
+    # p "{i}(Teenage girls as well, but I guess [l_name] is an exception.)"
+    p "{i}(Teenager-Mädchen auch, aber ich denke, [l_name] ist eine Ausnahme)"
+
+# game/day19.rpy:942
+translate german day19_l_handjob_e459ff34:
+
+    # l "I guess not."
+    l "Ich glaube nicht"
+
+# game/day19.rpy:943
+translate german day19_l_handjob_b0ac0799:
+
+    # l "So you did it often? And what were you thinking about?"
+    l "Du hast es also oft gemacht? Und woran hast du dabei gedacht?"
+
+# game/day19.rpy:944
+translate german day19_l_handjob_c79a3f74:
+
+    # p "Depends, sometimes it was a hot girl from school, other times some singer or a movie star."
+    p "Kommt drauf an, manchmal war es ein heißes Mädchen aus der Schule, manchmal ein Sänger oder ein Filmstar"
+
+# game/day19.rpy:945
+translate german day19_l_handjob_b8dc4fc2:
+
+    # l "Go on... please..."
+    l "Fahren Sie bitte fort"
+
+# game/day19.rpy:953
+translate german day19_l_handjob_fafff477:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Während du sprichst, greift deine Schwester unbewusst wieder in die feuchte Enge ihrer Muschi und schiebt abwesend einen Finger in sich hinein, so wie du es ihr am Strand beigebracht hast."
+
+# game/day19.rpy:955
+translate german day19_l_handjob_619fe197:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself, just like you taught her on the beach."
+    "{i}Während du sprichst, greift [l_Name] unbewusst wieder in die feuchte Enge ihrer Muschi und schiebt abwesend einen Finger in sich hinein, so wie du es ihr am Strand beigebracht hast"
+
+# game/day19.rpy:958
+translate german day19_l_handjob_a6bbccf2:
+
+    # "{i}While you're talking, your sister unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Während du sprichst, greift deine Schwester unbewusst wieder in die feuchte Enge ihrer Muschi und schiebt geistesabwesend einen Finger in sich hinein"
+
+# game/day19.rpy:960
+translate german day19_l_handjob_cfa21e35:
+
+    # "{i}While you're talking, [l_name] unconsciously reaches for the wet confines of her pussy again and absentmindedly slides a finger inside herself."
+    "{i}Während du sprichst, greift [l_name] unbewusst wieder in die feuchte Enge ihrer Muschi und schiebt abwesend einen Finger in sich hinein"
+
+# game/day19.rpy:961
+translate german day19_l_handjob_b300fb9c:
+
+    # p "{i}(Woah! I guess she likes my dirty stories... Better keep going.)"
+    p "(Wow! Ich schätze, sie mag meine schmutzigen Geschichten. Mach besser weiter)"
+
+# game/day19.rpy:962
+translate german day19_l_handjob_5f245e54:
+
+    # p "But with every imaginary girl I thought about her warm, naked body next to mine, stroking her breasts, thighs, the soft curve of her butt."
+    p "Aber bei jedem imaginären Mädchen dachte ich an ihren warmen nackten Körper neben mir, streichelte ihre Brüste, ihre Schenkel, die weiche Rundung ihres Hinterns."
+
+# game/day19.rpy:963
+translate german day19_l_handjob_4fb61ee5:
+
+    # p "And then she would grab hold of my penis and start to massage it, and I pretended that my hands were hers..."
+    p "Und dann packte sie meinen Penis und fing an, ihn zu massieren, und ich tat so, als wären meine Hände die ihren."
+# game/day19.rpy:964
+translate german day19_l_handjob_b1939e23_1:
+
+    # l "Mmmmm..."
+    l "Mmmmm"
+
+# game/day19.rpy:965
+translate german day19_l_handjob_f3e0e689:
+
+    # p "Touching the veins of my hard penis, caressing the sensitive skin of my balls..."
+    p "Ich berühre die Adern meines harten Penis und streichle die empfindliche Haut meiner Eier."
+# game/day19.rpy:967
+translate german day19_l_handjob_aeb2f13c:
+
+    # l "Ooooh!"
+    l "Ooooh!"
+
+# game/day19.rpy:968
+translate german day19_l_handjob_1a15c51f:
+
+    # p "She would teasingly run a wet finger across my tip and eventually focus on the head of my erect cock and bring me to a wild orgasm with just her fingertip."
+    p "Sie fuhr mit einem feuchten Finger neckisch über meine Spitze und konzentrierte sich schließlich auf die Spitze meines erigierten Schwanzes und brachte mich mit ihrer Fingerspitze zu einem wilden Orgasmus."
+
+# game/day19.rpy:975
+translate german day19_l_handjob_685850f9:
+
+    # l "Aaaaaaah! [p_name]!"
+    l "Aaaaaaah! [p_name]!"
+
+# game/day19.rpy:976
+translate german day19_l_handjob_4a2fd30d:
+
+    # "{i}With one arm hooked around your neck, [l_name] embraces you tightly as she convulses violently in orgasm. With clawed fingers, she keeps rubbing her pussy as her body alternates between lifting from the bed and collapsing back onto it in pure ecstasy."
+    "{i}Mit einem Arm um deinen Hals umarmt [l_name] dich fest, während sie im Orgasmus heftig zuckt. Mit ihren gekrallten Fingern reibt sie ihre Muschi, während ihr Körper sich abwechselnd vom Bett hebt und in purer Ekstase wieder darauf zusammensinkt."
+# game/day19.rpy:980
+translate german day19_l_handjob_98a19efc:
+
+    # l "I... I don't know..."
+    l "Ich weiß es nicht"
+
+# game/day19.rpy:981
+translate german day19_l_handjob_c4e9ae5c:
+
+    # p "Ssssh, catch your breath first. Just wait until the pleasure subsides."
+    p "Pssst, erst mal durchatmen und warten, bis die Lust nachlässt"
+
+# game/day19.rpy:983
+translate german day19_l_handjob_4ada726c:
+
+    # "{i}Your sister spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}Deine Schwester krampft noch ein paar Minuten lang wild, bevor sie seufzend an dir zusammenbricht"
+
+# game/day19.rpy:985
+translate german day19_l_handjob_969fdab8:
+
+    # "{i}[l_name] spasms wildly for a few minutes more, before she collapses with a sigh against you."
+    "{i}[l_name] krampft noch ein paar Minuten lang wild, bevor sie mit einem Seufzer gegen dich zusammenbricht"
+
+# game/day19.rpy:987
+translate german day19_l_handjob_4cf81e50:
+
+    # l "I don't know what you do to me, but it's magical."
+    l "Ich weiß nicht, was du mit mir machst, aber es ist magisch"
+
+# game/day19.rpy:988
+translate german day19_l_handjob_75d2b5a3:
+
+    # p "I think you like dirty talk, dear [l_name]."
+    p "Ich glaube, du magst Dirty Talk, lieber [l_name]"
+
+# game/day19.rpy:989
+translate german day19_l_handjob_49b8af83:
+
+    # l "I think so too."
+    l "Das denke ich auch"
+
+# game/day19.rpy:990
+translate german day19_l_handjob_c8761aa8:
+
+    # "{i}After a brief silence, [l_name] looks up at you hesitantly."
+    "{i}Nach einem kurzen Schweigen schaut [l_name] zögernd zu Ihnen auf."
+# game/day19.rpy:991
+translate german day19_l_handjob_db769f37:
+
+    # l "I feel a bit guilty, you know."
+    l "Ich fühle mich ein bisschen schuldig, weißt du"
+
+# game/day19.rpy:992
+translate german day19_l_handjob_f2034c6c:
+
+    # p "Why is that?"
+    p "Warum ist das so?"
+
+# game/day19.rpy:993
+translate german day19_l_handjob_852aa209:
+
+    # l "You gave me this wonderful feeling and didn't get anything in return."
+    l "Du hast mir dieses wunderbare Gefühl gegeben und nichts zurückbekommen"
+
+# game/day19.rpy:994
+translate german day19_l_handjob_6c372a63:
+
+    # p "Your pleasure is the only thing that matters."
+    p "Ihr Vergnügen ist das Einzige, was zählt"
+
+# game/day19.rpy:995
+translate german day19_l_handjob_37954768:
+
+    # l "You still have an erection."
+    l "Du hast immer noch eine Erektion"
+
+# game/day19.rpy:996
+translate german day19_l_handjob_8306b4c9:
+
+    # p "{i}(Damn, betrayed by my own body!)"
+    p "{i}(Verdammt, von meinem eigenen Körper verraten!)"
+
+# game/day19.rpy:997
+translate german day19_l_handjob_2684a0d6:
+
+    # p "True."
+    p "Wahr"
+
+# game/day19.rpy:998
+translate german day19_l_handjob_1528110d:
+
+    # l "I could help you with that."
+    l "Ich könnte dir dabei helfen"
+
+# game/day19.rpy:999
+translate german day19_l_handjob_d6c41a96:
+
+    # p "{i}(God, that shy look mixed with guilty pleasure is nearly enough to spray everything with cum right this instant.)"
+    p "{i}(Gott, dieser schüchterne Blick gemischt mit schuldbewusstem Vergnügen ist fast genug, um alles in diesem Moment mit Sperma zu bespritzen)"
+
+# game/day19.rpy:1000
+translate german day19_l_handjob_8d0cf986:
+
+    # p "I would like that. But only if you want to."
+    p "Das würde ich gerne, aber nur, wenn du es willst"
+
+# game/day19.rpy:1001
+translate german day19_l_handjob_47db8ebb:
+
+    # l "That's why I proposed it."
+    l "Deshalb habe ich es vorgeschlagen"
+
+# game/day19.rpy:1002
+translate german day19_l_handjob_e2f2282a:
+
+    # l "But you have to help me again. I've never given a... a... touched..."
+    l "Aber du musst mir noch mal helfen, ich habe noch nie einen Finger gerührt"
+
+# game/day19.rpy:1003
+translate german day19_l_handjob_f5967354:
+
+    # p "There's not much that can go wrong with a handjob, don't worry!"
+    p "Bei einem Handjob kann nicht viel schiefgehen, keine Sorge!"
+
+# game/day19.rpy:1004
+translate german day19_l_handjob_61fe587b:
+
+    # l "Okay. I'll trust you on that."
+    l "Okay, ich vertraue dir"
+
+# game/day19.rpy:1007
+translate german day19_l_handjob_58b33573:
+
+    # "{i}Still a little uncertain, [l_name] reaches out for your penis, which is proudly standing and covered in a sheen of precum."
+    "{i}Noch etwas unsicher greift [l_name] nach deinem Penis, der stolz dasteht und von einem Schleier aus Sperma bedeckt ist"
+
+# game/day19.rpy:1008
+translate german day19_l_handjob_e235c4f5:
+
+    # l "It's really hard... And so warm."
+    l "Es ist wirklich hart und so warm"
+
+# game/day19.rpy:1009
+translate german day19_l_handjob_d54ef614:
+
+    # "{i}Her fingers feel along your shaft, exploring every vein and ridge. All of your muscles tense in anticipation."
+    "{i}Ihre Finger tasten sich an deinem Schaft entlang und erforschen jede Ader und jede Rippe. Alle deine Muskeln spannen sich in Erwartung an."
+# game/day19.rpy:1010
+translate german day19_l_handjob_0201c171:
+
+    # l "Does this feel... good?"
+    l "Fühlt sich das gut an?"
+
+# game/day19.rpy:1011
+translate german day19_l_handjob_193ea7ae:
+
+    # p "Y-yes... It's been a long time since I went that slow and it's really good."
+    p "Ja, es ist lange her, dass ich so langsam war, und es ist wirklich gut"
+
+# game/day19.rpy:1016
+translate german day19_l_handjob_646a47b6:
+
+    # "{i}[l_name] wraps her fingers around your dick and squeezes slightly."
+    "{i}[l_name] wickelt ihre Finger um deinen Schwanz und drückt leicht zu"
+
+# game/day19.rpy:1017
+translate german day19_l_handjob_3b974d32:
+
+    # l "It's really hard."
+    l "Es ist wirklich schwer"
+
+# game/day19.rpy:1018
+translate german day19_l_handjob_3c7969a4:
+
+    # p "Yes, yes, it is."
+    p "Ja, das ist es"
+
+# game/day19.rpy:1019
+translate german day19_l_handjob_6951588d:
+
+    # l "That didn't hurt, did it?"
+    l "Das hat doch nicht weh getan, oder?"
+
+# game/day19.rpy:1020
+translate german day19_l_handjob_ae24c0c5:
+
+    # p "No, quite the opposite. Don't worry about squeezing too hard. Could you move your hand up and down?"
+    p "Nein, ganz im Gegenteil. Mach dir keine Sorgen, dass du zu fest drückst. Kannst du deine Hand auf und ab bewegen?"
+
+# game/day19.rpy:1021
+translate german day19_l_handjob_ac7404fd:
+
+    # "{i}She obliges and pulls the foreskin over your glans and back down again. Her warm hand exerts just the right amount of pressure."
+    "{i}Sie kommt dir entgegen und zieht die Vorhaut über deine Eichel und wieder zurück. Ihre warme Hand übt genau den richtigen Druck aus."
+
+# game/day19.rpy:1022
+translate german day19_l_handjob_acea5e73:
+
+    # p "Gaaah! Keep going just like that."
+    p "Gaaah! Mach einfach so weiter"
+
+# game/day19.rpy:1024
+translate german day19_l_handjob_e13a6fb1:
+
+    # "{i}Encouraged by your words, your sister starts jerking your cock in measured movements."
+    "{i}Ermutigt durch deine Worte beginnt deine Schwester deinen Schwanz in gemessenen Bewegungen zu wichsen"
+
+# game/day19.rpy:1026
+translate german day19_l_handjob_5d309d40:
+
+    # "{i}Encouraged by your words, the girl starts jerking your cock in measured movements."
+    "{i}Ermutigt durch deine Worte beginnt das Mädchen deinen Schwanz in gemessenen Bewegungen zu wichsen"
+
+# game/day19.rpy:1027
+translate german day19_l_handjob_ea69d216:
+
+    # p "Keep going, [l_name], keep going!"
+    p "Mach weiter [l_name] mach weiter!"
+
+# game/day19.rpy:1028
+translate german day19_l_handjob_bf59aca1:
+
+    # l "I will! Is something happening?"
+    l "Das werde ich! Ist etwas passiert?"
+
+# game/day19.rpy:1029
+translate german day19_l_handjob_ec89ccf6:
+
+    # p "I'm about to..."
+    p "Ich bin dabei"
+
+# game/day19.rpy:1030
+translate german day19_l_handjob_e29a29a2:
+
+    # l "Yes?"
+    l "Ja?"
+
+# game/day19.rpy:1031
+translate german day19_l_handjob_0e749ebf:
+
+    # p "C-c-cuuuummmmm!"
+    p "C-c-cuuuummmmm!"
+
+# game/day19.rpy:1037
+translate german day19_l_handjob_d9d51597:
+
+    # "{i}[l_name] doesn't let go of your penis while streams of warm seed spill from the head and over her soft hand. When your orgasm subsides and your dick starts to get too sensitive, you steady her hand to stop her from jerking you off."
+    "{i}[l_name] lässt deinen Penis nicht los, während Ströme von warmem Samen aus der Eichel und über ihre weiche Hand fließen Wenn dein Orgasmus nachlässt und dein Schwanz zu empfindlich wird, hältst du ihre Hand fest, um sie davon abzuhalten, dich zu wichsen."
+
+# game/day19.rpy:1041
+translate german day19_l_handjob_4759e7f8:
+
+    # l "I didn't know there would be so much of it."
+    l "Ich wusste nicht, dass es so viel davon geben würde"
+
+# game/day19.rpy:1042
+translate german day19_l_handjob_15d2ccb7:
+
+    # p "There isn't always."
+    p "Das ist nicht immer so"
+
+# game/day19.rpy:1043
+translate german day19_l_handjob_984e4857:
+
+    # l "Was this a good... ending?"
+    l "War das ein gutes Ende?"
+
+# game/day19.rpy:1044
+translate german day19_l_handjob_b87a3d8a:
+
+    # p "If the foreplay is amazing and you're with a beautiful girl, orgasms tend to be great. So yeah, a very good ending."
+    p "Wenn das Vorspiel fantastisch ist und du mit einem schönen Mädchen zusammen bist, sind die Orgasmen meist großartig, also ja ein sehr gutes Ende"
+
+# game/day19.rpy:1045
+translate german day19_l_handjob_c2a202f5:
+
+    # l "Your stuff, it's really thick and sticky. It dries quickly as well."
+    l "Ihr Zeug ist wirklich dick und klebrig und trocknet auch schnell"
+
+# game/day19.rpy:1046
+translate german day19_l_handjob_8f1ae1f9:
+
+    # p "{i}(Thank you for the thorough analysis.)"
+    p "{i}(Danke für die gründliche Analyse)"
+
+# game/day19.rpy:1047
+translate german day19_l_handjob_a1ae4212:
+
+    # p "Sperm tends to behave that way."
+    p "Spermien neigen dazu, sich so zu verhalten"
+
+# game/day19.rpy:1048
+translate german day19_l_handjob_6beed191:
+
+    # l "I guess it does."
+    l "Ich denke, das tut es"
+
+# game/day19.rpy:1049
+translate german day19_l_handjob_c7f0bb71:
+
+    # l "I've got to go and wash it off my hands before it dries."
+    l "Ich muss mir die Hände abwaschen, bevor sie trocknen"
+
+# game/day19.rpy:1051
+translate german day19_l_handjob_362eb025:
+
+    # "{i}Before she can get up from the bed, you kiss her without restraint."
+    "{i}Bevor sie vom Bett aufstehen kann, küsst du sie hemmungslos"
+
+# game/day19.rpy:1052
+translate german day19_l_handjob_58024a15:
+
+    # p "I love you."
+    p "Ich liebe dich"
+
+# game/day19.rpy:1053
+translate german day19_l_handjob_d80db94b_1:
+
+    # l "Really?"
+    l "Wirklich?"
+
+# game/day19.rpy:1054
+translate german day19_l_handjob_3b88c420:
+
+    # p "Yes."
+    p "Ja"
+
+# game/day19.rpy:1056
+translate german day19_l_handjob_b3efe616:
+
+    # l "I love you too, little brother, sleep well."
+    l "Ich liebe dich auch kleiner Bruder schlaf gut"
+
+# game/day19.rpy:1058
+translate german day19_l_handjob_3043c321:
+
+    # l "I love you too, [p_name], sleep well."
+    l "Ich liebe dich auch [p_name] schlaf gut"
+
+# game/day19.rpy:1077
+translate german day19_b_handjob_3432a76b:
+
+    # "{i}You hear [b_name] slide from the bed and unclasp her bra."
+    "{i}Du hörst, wie [b_name] vom Bett rutscht und ihren BH öffnet"
+
+# game/day19.rpy:1078
+translate german day19_b_handjob_74c6eaa9:
+
+    # b "You may turn around now."
+    b "Sie können sich jetzt umdrehen"
+
+# game/day19.rpy:1083
+translate german day19_b_handjob_71c97b8d:
+
+    # b "So. This is me."
+    b "Das bin also ich"
+
+# game/day19.rpy:1084
+translate german day19_b_handjob_87f3e913:
+
+    # p "Wow."
+    p "Wow"
+
+# game/day19.rpy:1085
+translate german day19_b_handjob_895a54e3:
+
+    # p "{i}(Wow!)"
+    p "{i}(Wow!)"
+
+# game/day19.rpy:1087
+translate german day19_b_handjob_11f81977:
+
+    # p "I'm running out of superlatives to describe you, sis."
+    p "Mir gehen die Superlative aus, um dich zu beschreiben, Schwesterherz"
+
+# game/day19.rpy:1089
+translate german day19_b_handjob_33cf3f7f:
+
+    # p "I'm running out of superlatives to describe you, [b_name]."
+    p "Mir gehen langsam die Superlative aus, um dich zu beschreiben [b_name]"
+
+# game/day19.rpy:1090
+translate german day19_b_handjob_c2d44fd8:
+
+    # p "Let's just say you're the most beautiful girl in the world."
+    p "Sagen wir einfach, du bist das schönste Mädchen der Welt"
+
+# game/day19.rpy:1091
+translate german day19_b_handjob_01ca3d21:
+
+    # b "That's an acceptable assessment."
+    b "Das ist eine akzeptable Einschätzung"
+
+# game/day19.rpy:1096
+translate german day19_b_handjob_1b7c56a3:
+
+    # p "{i}(Holy mother of Sweet Baby Jesus... What does she do to keep that gorgeous ass in perfect shape? Practice black magic?)"
+    p "{i}(Heilige Mutter von Sweet Baby Jesus Was tut sie, um diesen wunderschönen Arsch in perfekter Form zu halten? Praktiziert sie schwarze Magie?)"
+
+# game/day19.rpy:1098
+translate german day19_b_handjob_2725c03d:
+
+    # b "Now. Lose the underpants, brother!"
+    b "Jetzt zieh die Unterhosen aus, Bruder!"
+
+# game/day19.rpy:1100
+translate german day19_b_handjob_a2677bbf:
+
+    # b "Now. Lose the underpants!"
+    b "Und jetzt weg mit den Unterhosen!"
+
+# game/day19.rpy:1101
+translate german day19_b_handjob_45273f7e:
+
+    # p "With pleasure!"
+    p "Mit Vergnügen!"
+
+# game/day19.rpy:1103
+translate german day19_b_handjob_3dbb714a:
+
+    # "{i}[b_name] stares at your dick for a while before saying anything."
+    "{i}[b_name] starrt eine Weile auf deinen Schwanz, bevor er etwas sagt"
+
+# game/day19.rpy:1105
+translate german day19_b_handjob_91c1f020:
+
+    # b "You're my little brother in name only, it seems."
+    b "Du bist nur dem Namen nach mein kleiner Bruder, wie es scheint"
+
+# game/day19.rpy:1107
+translate german day19_b_handjob_0b2919a3:
+
+    # b "Damn, that's quite the apparatus, [p_name]."
+    b "Verdammt, das ist ja ein tolles Gerät [p_name]"
+
+# game/day19.rpy:1108
+translate german day19_b_handjob_aac340b5:
+
+    # p "I'm glad you think so."
+    p "Ich bin froh, dass du so denkst"
+
+# game/day19.rpy:1110
+translate german day19_b_handjob_fcc5ca87:
+
+    # "{i}You climb on the bed next to [b_name]. You feel the warmth of her body as she inches even closer, staring lovingly into your eyes."
+    "{i}Du kletterst auf das Bett neben [b_name] Du spürst die Wärme ihres Körpers, während sie noch näher kommt und dir liebevoll in die Augen schaut"
+
+# game/day19.rpy:1111
+translate german day19_b_handjob_e2675151:
+
+    # b "I feel so at peace when I'm with you. I haven't felt that in a long time."
+    b "Ich fühle mich so ruhig, wenn ich bei dir bin, das habe ich schon lange nicht mehr gefühlt"
+
+# game/day19.rpy:1112
+translate german day19_b_handjob_d6f3f76d:
+
+    # "{i}You stroke her soft hair in response and pull her closer to you."
+    "{i}Du streichelst ihr weiches Haar und ziehst sie näher zu dir"
+
+# game/day19.rpy:1115
+translate german day19_b_handjob_7cee4730:
+
+    # "{i}Saying nothing further, you're both kissing each other wildly. Your tongues collide, and your hands are everywhere."
+    "{i}Ohne etwas weiter zu sagen, küsst ihr euch beide wild, eure Zungen prallen aufeinander und eure Hände sind überall"
+
+# game/day19.rpy:1121
+translate german day19_b_handjob_1d12eef8:
+
+    # "{i}Your sister hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}Deine Schwester greift hungrig nach deinem erigierten Schwanz und fängt an, dir einen runterzuholen"
+
+# game/day19.rpy:1123
+translate german day19_b_handjob_5f791157:
+
+    # "{i}[b_name] hungrily reaches for your erect cock and starts to jerk you off."
+    "{i}[b_name] greift hungrig nach deinem erigierten Schwanz und fängt an, dir einen runterzuholen"
+
+# game/day19.rpy:1124
+translate german day19_b_handjob_99dbaad2:
+
+    # b "I want you so bad, [p_name]!"
+    b "Ich will dich so sehr [p_name]!"
+
+# game/day19.rpy:1125
+translate german day19_b_handjob_46c85225:
+
+    # "{i}Without letting go of your penis, [b_name] lies down underneath you and guides your cock towards her pussy."
+    "{i}Ohne deinen Penis loszulassen, legt sich [b_name] unter dich und führt deinen Schwanz zu ihrer Muschi."
+
+# game/day19.rpy:1128
+translate german day19_b_handjob_f8f4dcb0:
+
+    # "{i}Her breathing is heavy as you push the tip of your cock against her wet entrance and a heavy moan escapes her."
+    "{i}Sie atmet schwer, als du die Spitze deines Schwanzes gegen ihren feuchten Eingang drückst und ein schweres Stöhnen entweicht ihr"
+
+# game/day19.rpy:1132
+translate german day19_b_handjob_add106f5:
+
+    # b "Wait! What are we doing?!"
+    b "Warte! Was machen wir?!"
+
+# game/day19.rpy:1133
+translate german day19_b_handjob_72b820bb:
+
+    # b "We shouldn't... It's not..."
+    b "Wir sollten nicht Es ist nicht"
+
+# game/day19.rpy:1134
+translate german day19_b_handjob_3f804576:
+
+    # p "{i}(Fuck, why does she have to have doubts at this very moment?!)"
+    p "{i}(Scheiße, warum muss sie gerade jetzt Zweifel haben?!)"
+
+# game/day19.rpy:1139
+translate german day19_b_handjob_f864f112:
+
+    # p "Ssssh, don't worry. It's going to be okay."
+    p "Mach dir keine Sorgen, alles wird gut"
+
+# game/day19.rpy:1140
+translate german day19_b_handjob_3a0f1f9b:
+
+    # "{i}You push your head further against her labia and nearly enter her."
+    "{i}Du drückst deinen Kopf weiter gegen ihre Schamlippen und dringst fast in sie ein"
+
+# game/day19.rpy:1142
+translate german day19_b_handjob_1d208285:
+
+    # b "Goddammit! I said wait!"
+    b "Verdammt noch mal! Ich sagte warten!"
+
+# game/day19.rpy:1144
+translate german day19_b_handjob_1997aff2:
+
+    # "{i}Your sister struggles beneath you and manages to slip from under you."
+    "{i}Deine Schwester kämpft unter dir und schafft es, unter dir wegzurutschen"
+
+# game/day19.rpy:1146
+translate german day19_b_handjob_5aad0328:
+
+    # "{i}[b_name] struggles beneath you and manages to slip from under you."
+    "{i}[b_name] wehrt sich unter dir und schafft es, unter dir wegzurutschen"
+
+# game/day19.rpy:1147
+translate german day19_b_handjob_92c7d07e:
+
+    # b "Not cool, [p_name]."
+    b "Nicht cool [p_name]"
+
+# game/day19.rpy:1148
+translate german day19_b_handjob_04ce9570:
+
+    # p "Fuck. Sorry, I wasn't thinking."
+    p "Fuck Sorry, ich habe nicht nachgedacht"
+
+# game/day19.rpy:1149
+translate german day19_b_handjob_3bc411eb:
+
+    # b "Yeah, no shit."
+    b "Ja, ohne Scheiß"
+
+# game/day19.rpy:1151
+translate german day19_b_handjob_e398493a:
+
+    # b "Just sit and hold me, okay?"
+    b "Bleib einfach sitzen und halte mich, okay?"
+
+# game/day19.rpy:1152
+translate german day19_b_handjob_31491233:
+
+    # p "Okay. Shit. I'm so sorry [b_name]."
+    p "Okay, Scheiße, es tut mir so leid [b_name]"
+
+# game/day19.rpy:1153
+translate german day19_b_handjob_1f7375ed:
+
+    # b "Fine. You're sorry. Can we not talk about it anymore?"
+    b "Gut, es tut dir leid. Können wir nicht mehr darüber reden?"
+
+# game/day19.rpy:1157
+translate german day19_b_handjob_f4a7e240:
+
+    # p "Are you okay, [b_name]?"
+    p "Geht es dir gut [b_name]?"
+
+# game/day19.rpy:1158
+translate german day19_b_handjob_67edd7c2:
+
+    # b "I was just spooked, that's all..."
+    b "Ich habe mich nur erschrocken, das ist alles"
+
+# game/day19.rpy:1159
+translate german day19_b_handjob_69fbe89d:
+
+    # b "Maybe we're going a little too fast?"
+    b "Vielleicht fahren wir ein bisschen zu schnell?"
+
+# game/day19.rpy:1160
+translate german day19_b_handjob_8eef431e:
+
+    # p "I know what you mean."
+    p "Ich weiß, was du meinst"
+
+# game/day19.rpy:1161
+translate german day19_b_handjob_0e4c09bd:
+
+    # b "Fuck, I hate to do this to you."
+    b "Scheiße, ich hasse es, dir das anzutun"
+
+# game/day19.rpy:1162
+translate german day19_b_handjob_62073ee8:
+
+    # p "No, it's fine. I want it to be right for both of us."
+    p "Nein, es ist in Ordnung, ich möchte, dass es für uns beide richtig ist"
+
+# game/day19.rpy:1163
+translate german day19_b_handjob_b0640c0a:
+
+    # b "Well, I could still help you..."
+    b "Nun, ich könnte dir immer noch helfen"
+
+# game/day19.rpy:1164
+translate german day19_b_handjob_369b89ba:
+
+    # p "{i}(And... now it's right for me.)"
+    p "{i}(Und jetzt ist es richtig für mich)"
+
+# game/day19.rpy:1165
+translate german day19_b_handjob_2585b2e1:
+
+    # p "Tell me more!"
+    p "Erzähl mir mehr!"
+
+# game/day19.rpy:1170
+translate german day19_b_handjob_0723fb18:
+
+    # "{i}[b_name] touches your dick again and starts to jerk you off slowly."
+    "{i}[b_name] berührt wieder deinen Schwanz und fängt an, dir langsam einen runterzuholen"
+
+# game/day19.rpy:1171
+translate german day19_b_handjob_82c62760:
+
+    # b "Do you like that?"
+    b "Gefällt dir das?"
+
+# game/day19.rpy:1172
+translate german day19_b_handjob_75e037b1:
+
+    # p "Oh yes!"
+    p "Oh ja!"
+
+# game/day19.rpy:1173
+translate german day19_b_handjob_bc35e96a:
+
+    # b "I'm going to make you cum so hard."
+    b "Ich werde dich so hart abspritzen lassen"
+
+# game/day19.rpy:1174
+translate german day19_b_handjob_1c3e78dd:
+
+    # "{i}With short and powerful motions, she brings you closer and closer to orgasm until you just can't hold yourself together."
+    "{i}Mit kurzen und kraftvollen Bewegungen bringt sie dich immer näher zum Orgasmus, bis du dich nicht mehr zurückhalten kannst."
+# game/day19.rpy:1180
+translate german day19_b_handjob_8e38f6f4:
+
+    # p "Aaaaaaaah!"
+    p "Aaaaaaaaaah!"
+
+# game/day19.rpy:1182
+translate german day19_b_handjob_a461bec6:
+
+    # "{i}Your sister doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}Deine Schwester lässt deinen Schwanz nicht los, während er Ströme warmen Samens über das ganze Bettlaken verschüttet."
+
+# game/day19.rpy:1184
+translate german day19_b_handjob_7f9b9a0a:
+
+    # "{i}[b_name] doesn't let go of your cock while it's spilling streams of warm seed all over the bed sheets."
+    "{i}[b_name] lässt deinen Schwanz nicht los, während er Ströme von warmem Samen über die Bettlaken verschüttet"
+
+# game/day19.rpy:1187
+translate german day19_b_handjob_30ebf1ec:
+
+    # p "Apology accepted."
+    p "Entschuldigung angenommen"
+
+# game/day19.rpy:1189
+translate german day19_b_handjob_1684d2f2:
+
+    # b "Hahaha! Dickhead!"
+    b "Hahaha! Schwachkopf!"
+
+# game/day19.rpy:1190
+translate german day19_b_handjob_2239a90c:
+
+    # p "Cunt!"
+    p "Fotze!"
+
+# game/day19.rpy:1191
+translate german day19_b_handjob_9cccb824:
+
+    # b "Wanker!"
+    b "Wichser!"
+
+# game/day19.rpy:1192
+translate german day19_b_handjob_05c668f5:
+
+    # p "Hey! If I recall correctly, you did all the wanking."
+    p "Hey! Wenn ich mich recht erinnere, hast du dir einen runtergeholt"
+
+# game/day19.rpy:1193
+translate german day19_b_handjob_ee483489:
+
+    # b "Who cares! You're still a wanker!"
+    b "Wen kümmert's! Du bist immer noch ein Wichser!"
+
+# game/day19.rpy:1194
+translate german day19_b_handjob_e76bb582:
+
+    # p "Hussy!"
+    p "Hussy!"
+
+# game/day19.rpy:1195
+translate german day19_b_handjob_91ae80f7:
+
+    # b "That's so low!"
+    b "Das ist so niederträchtig!"
+
+# game/day19.rpy:1196
+translate german day19_b_handjob_58f581da:
+
+    # b "Fucknut!"
+    b "Fucknut!"
+
+# game/day19.rpy:1198
+translate german day19_b_handjob_fa1ed663:
+
+    # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of your sister's happy laughter."
+    "{i}Die Beleidigungen, die du immer wieder von dir gibst, werden mit der Zeit immer barocker und du kannst gar nicht genug von dem fröhlichen Lachen deiner Schwester bekommen."
+# game/day19.rpy:1199
+translate german day19_b_handjob_c32b77cf:
+
+    # "{i}After one last kiss, you hold your giggling sister tight and together you soon fall asleep."
+    "{i}Nach einem letzten Kuss hältst du deine kichernde Schwester fest und gemeinsam schlaft ihr bald ein."
+# game/day19.rpy:1201
+translate german day19_b_handjob_7ba12db4:
+
+    # "{i}The insults you keep trading get more baroque as time progresses, and you just can't get enough of [b_name]'s happy laughter."
+    "{i}Die Beleidigungen, die du austeilst, werden mit der Zeit immer barocker und du kannst einfach nicht genug von [b_name]'s fröhlichem Lachen bekommen."
+# game/day19.rpy:1202
+translate german day19_b_handjob_70c9f5b2:
+
+    # "{i}After one last kiss, you hold your giggling lover tight and together you soon fall asleep."
+    "{i}Nach einem letzten Kuss hältst du deine kichernde Geliebte fest und gemeinsam schlaft ihr bald ein."

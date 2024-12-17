@@ -4426,3 +4426,902 @@ translate german day16_b_restaurant_choices_soft_83cf7ebc:
 
     # p "Relax, dear [l_name], I was just teasing you."
     p "Entspann dich, lieber [l_name], ich habe dich nur geneckt."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day16.rpy:945
+translate german day16_rb_watersports_dc7928c0:
+
+    # "{i}Careful not to get caught, you follow Rebeca to a secluded place between several large rocks. She's already undressed when you arrive..."
+    "{i}Vorsichtig, damit du nicht erwischt wirst, folgst du Rebeca zu einem abgelegenen Ort zwischen mehreren großen Felsen. Sie ist bereits entkleidet, als du ankommst."
+
+# game/day16.rpy:952
+translate german day16_rb_watersports_d541273a:
+
+    # p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
+    p "{i}(Heiliger Strohsack, gerade zur rechten Zeit angekommen, was für eine perfekte Aussicht)"
+
+# game/day16.rpy:954
+translate german day16_rb_watersports_a1ab4375:
+
+    # p "{i}(Let it flow, girl... Damn what a sight.)"
+    p "{i}(Let it flow girl Verdammt, was für ein Anblick)"
+
+# game/day16.rpy:959
+translate german day16_rb_watersports_f6eeb36d:
+
+    # p "{i}(Shit! She saw me! She's looking right at me...)"
+    p "(Scheiße! Sie hat mich gesehen! Sie sieht mich direkt an)"
+
+# game/day16.rpy:960
+translate german day16_rb_watersports_161d61e6:
+
+    # p "{i}(And she's smiling... Wow!)"
+    p "{i}(Und sie lächelt Wow!)"
+
+# game/day16.rpy:964
+translate german day16_rb_watersports_0b252137:
+
+    # "{i}You head back to the main beach and wait for Rebeca to come back."
+    "{i}Du gehst zurück zum Hauptstrand und wartest, bis Rebeca zurückkommt."
+# game/day16.rpy:966
+translate german day16_rb_watersports_4992d2b8:
+
+    # rb "Guess who I saw just now..."
+    rb "Rate mal, wen ich gerade gesehen habe"
+
+# game/day16.rpy:967
+translate german day16_rb_watersports_41b842d0:
+
+    # p "{i}(She doesn't seem mad... Quite the contrary.)"
+    p "{i}(Sie scheint nicht böse zu sein, ganz im Gegenteil)"
+
+# game/day16.rpy:968
+translate german day16_rb_watersports_f8f2b7fa:
+
+    # rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
+    rb "Stehst du auf so etwas [p_name]? Magst du ein bisschen Wassersport?"
+
+# game/day16.rpy:979
+translate german day16_rb_watersports_63e34849:
+
+    # p "Actually I do. You looked very hot just now."
+    p "Eigentlich schon. Du sahst gerade sehr heiß aus"
+
+# game/day16.rpy:980
+translate german day16_rb_watersports_168a57bc:
+
+    # rb "Dirty! I'll keep that in mind..."
+    rb "Schmutzig! Das werde ich mir merken"
+
+# game/day16.rpy:981
+translate german day16_rb_watersports_00fe2d33:
+
+    # rb "I like you already, [p_name]. We're going to get along just fine."
+    rb "Ich mag dich jetzt schon [p_name] Wir werden gut miteinander auskommen"
+
+# game/day16.rpy:982
+translate german day16_rb_watersports_73d7233c:
+
+    # p "Thank you, the feeling is quite mutual."
+    p "Danke, das Gefühl beruht auf Gegenseitigkeit"
+
+# game/day16.rpy:983
+translate german day16_rb_watersports_9be3a2c2:
+
+    # rb "Good."
+    rb "Gut"
+
+# game/day16.rpy:991
+translate german day16_rb_watersports_4465ac0d:
+
+    # p "Only when it involves a surfboard."
+    p "Nur wenn es um ein Surfbrett geht"
+
+# game/day16.rpy:992
+translate german day16_rb_watersports_7cbc95c2:
+
+    # rb "Why did you come after me then?"
+    rb "Warum sind Sie dann hinter mir her?"
+
+# game/day16.rpy:993
+translate german day16_rb_watersports_79276013:
+
+    # p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
+    p "{i}(Sei lieber ehrlich, sonst bietet sie mir noch einen Natursekt an oder so)"
+
+# game/day16.rpy:994
+translate german day16_rb_watersports_ff1835db:
+
+    # p "I just wanted to see you naked."
+    p "Ich wollte dich nur nackt sehen"
+
+# game/day16.rpy:995
+translate german day16_rb_watersports_18383d3d:
+
+    # rb "That's also a very good reason."
+    rb "Auch das ist ein sehr guter Grund"
+
+# game/day16.rpy:996
+translate german day16_rb_watersports_a69855c9:
+
+    # rb "Did you like what you saw?"
+    rb "Hat Ihnen gefallen, was Sie gesehen haben?"
+
+# game/day16.rpy:997
+translate german day16_rb_watersports_87dbf22d:
+
+    # p "Yes. You're very sexy."
+    p "Ja, du bist sehr sexy"
+
+# game/day16.rpy:1004
+translate german day16_rb_sex_357c561f:
+
+    # "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
+    "{i}Bald erreichst du den Ort, wo du Rebeca vor deinem Spaziergang abgeholt hast. Sie öffnet die Tür und du gehst hinein."
+# game/day16.rpy:1009
+translate german day16_rb_sex_236b0d51:
+
+    # p "Jesus, it's really hot in here."
+    p "Mann, ist das heiß hier drin"
+
+# game/day16.rpy:1010
+translate german day16_rb_sex_f8b4a90e:
+
+    # rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
+    rb "Der Nachteil eines Studios mit Flachdach in Strandnähe ist, dass ich meistens nackt arbeite."
+# game/day16.rpy:1011
+translate german day16_rb_sex_b0bd2bdf:
+
+    # p "Of course you do."
+    p "Natürlich weißt du es"
+
+# game/day16.rpy:1016
+translate german day16_rb_sex_e52a1cbe:
+
+    # rb "See, it's that easy."
+    rb "Sehen Sie, so einfach ist das"
+
+# game/day16.rpy:1017
+translate german day16_rb_sex_63123add:
+
+    # "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
+    "{i}Der Anblick ihres nackten Körpers mildert die Hitze kaum und macht dich stattdessen hart."
+# game/day16.rpy:1018
+translate german day16_rb_sex_5647013f:
+
+    # rb "Undress for me please, so I can get a good look at you."
+    rb "Ziehen Sie sich bitte aus, damit ich Sie mir genau ansehen kann"
+
+# game/day16.rpy:1020
+translate german day16_rb_sex_33c8101d:
+
+    # rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze, or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
+    rb "Wow, du hast das perfekte Exemplar für mein erstes Stück. Vielleicht gieße ich dich in Bronze oder sollte es ein Edelmetall sein, ich weiß es nicht, aber du wirst die stolze Einleitung zu meiner neuen Serie von Kunstwerken sein."
+# game/day16.rpy:1021
+translate german day16_rb_sex_c74f31d0:
+
+    # p "I'm honored..."
+    p "Ich fühle mich geehrt"
+
+# game/day16.rpy:1022
+translate german day16_rb_sex_8a34a33b:
+
+    # rb "Lie down please, I have to make a mold."
+    rb "Leg dich bitte hin, ich muss eine Form machen"
+
+# game/day16.rpy:1023
+translate german day16_rb_sex_4aa8d273:
+
+    # "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
+    "{i}Du legst dich hin und schließt ein wenig die Augen, während Rebeca in ihrem Atelier nach ihren Materialien sucht."
+# game/day16.rpy:1028
+translate german day16_rb_sex_283155d8:
+
+    # "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
+    "{i}Du musst eine Weile eingeschlafen sein, denn du wachst mit einem Schock auf, wenn du kalte Hände an deinem Penis spürst."
+
+# game/day16.rpy:1030
+translate german day16_rb_sex_58b66eb1:
+
+    # rb "Ah, he's awake."
+    rb "Ah, er ist wach"
+
+# game/day16.rpy:1031
+translate german day16_rb_sex_7709aaa0:
+
+    # p "W-what are you doing?"
+    p "W-was machst du da?"
+
+# game/day16.rpy:1032
+translate german day16_rb_sex_5f499520:
+
+    # rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
+    rb "Dein Schwanz war ganz schlaff, nicht das beste Symbol für eine starke männliche Libido Soll ich aufhören?"
+
+# game/day16.rpy:1033
+translate german day16_rb_sex_34d74724:
+
+    # p "God no, keep going."
+    p "Gott nein, mach weiter"
+
+# game/day16.rpy:1034
+translate german day16_rb_sex_c428e0ed:
+
+    # "{i}When Rebeca is satisfied, she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
+    "{i}Als Rebeca zufrieden ist, hört sie plötzlich auf, deinen Schwanz zu massieren und kramt ein paar Werkzeuge hervor, vermutlich um die Form herzustellen."
+# game/day16.rpy:1039
+translate german day16_rb_sex_858df364:
+
+    # "{i}Almost subconsciously, you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
+    "{i}Fast unbewusst spürst du, wie eine dicke, kalte Flüssigkeit über deinen Schritt gegossen wird, die sich schnell verhärtet. Rebeca pfeift eine dumme Melodie, während sie arbeitet."
+# game/day16.rpy:1040
+translate german day16_rb_sex_f4b65e6d:
+
+    # "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
+    "{i}Nach einer Weile wird die Form entfernt und Rebeca reibt deinen Schwanz mit einem weichen Handtuch, viel länger als nötig."
+# game/day16.rpy:1041
+translate german day16_rb_sex_d6ccac46:
+
+    # rb "Done."
+    rb "Erledigt"
+
+# game/day16.rpy:1042
+translate german day16_rb_sex_b625aa51:
+
+    # p "You're a downright cocktease, you know that?"
+    p "Du bist ein richtiger Schwanzlutscher, weißt du das?"
+
+# game/day16.rpy:1043
+translate german day16_rb_sex_97af099a:
+
+    # rb "What? You mean my innocent touches?"
+    rb "Was? Du meinst meine unschuldigen Berührungen?"
+
+# game/day16.rpy:1044
+translate german day16_rb_sex_8bbbbb2d:
+
+    # p "Exactly those."
+    p "Genau die"
+
+# game/day16.rpy:1046
+translate german day16_rb_sex_31563e3c:
+
+    # p "Come here."
+    p "Komm her"
+
+# game/day16.rpy:1051
+translate german day16_rb_sex_2f090249:
+
+    # "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
+    "{i}Rebeca zögert nicht und geht auf dich zu. Plötzlich seid ihr in einen leidenschaftlichen Kuss verwickelt, ihre Hände erkunden deinen Körper und deine kneten fest ihre Brüste."
+
+# game/day16.rpy:1052
+translate german day16_rb_sex_fcbd5ad6:
+
+    # rb "Fuck me, [p_name]."
+    rb "Fick mich [p_name]"
+
+# game/day16.rpy:1057
+translate german day16_rb_sex_c41e60f5:
+
+    # "{i}When you enter her, she's already wet. You penetrate her deeply and quickly establish a rhythm."
+    "{i}Wenn du in sie eindringst, ist sie schon feucht. Du dringst tief in sie ein und findest schnell einen Rhythmus."
+
+# game/day16.rpy:1058
+translate german day16_rb_sex_e839182f:
+
+    # rb "God yes. Fuck me! Fuck me harder!"
+    rb "Gott ja, fick mich! Fick mich härter!"
+
+# game/day16.rpy:1060
+translate german day16_rb_sex_a6080212:
+
+    # "{i}Encouraged by her words, you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
+    "{i}Ermutigt durch ihre Worte stößt du noch tiefer in sie hinein. Das Studio ist erfüllt von den feuchten Geräuschen deines Ficks und Rebecas heiserem Stöhnen."
+# game/day16.rpy:1066
+translate german day16_rb_sex_e0792702:
+
+    # "{i}As you change positions, Rebeca's ass bounces against your pelvis. You slap it repeatedly."
+    "{i}Als du die Position wechselst, hüpft Rebecas Arsch gegen dein Becken und du schlägst ihn wiederholt."
+
+# game/day16.rpy:1067
+translate german day16_rb_sex_c064ca31:
+
+    # rb "Mmmmm yeah, slap it."
+    rb "Mmmmm yeah slap it"
+
+# game/day16.rpy:1068
+translate german day16_rb_sex_01bc843c:
+
+    # p "I'm going to fill you up, Rebeca."
+    p "Ich werde dich abfüllen, Rebeca"
+
+# game/day16.rpy:1069
+translate german day16_rb_sex_0a777782:
+
+    # rb "Put it inside me please!"
+    rb "Steck ihn bitte in mich rein!"
+
+# game/day16.rpy:1075
+translate german day16_rb_sex_d28f47a3:
+
+    # p "I want you to taste me."
+    p "Ich will, dass du mich schmeckst"
+
+# game/day16.rpy:1076
+translate german day16_rb_sex_27a51b38:
+
+    # "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
+    "{i}Du ziehst dich zurück und Rebeca kniet schnell vor dir, ihren Mund geöffnet, um deinen warmen Samen zu empfangen."
+
+# game/day16.rpy:1082
+translate german day16_rb_sex_ddae8c90:
+
+    # "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
+    "{i}Dicke Ströme von Sperma schießen aus deinem pulsierenden Schwanz, Rebeca versucht alles mit ihrem Mund aufzufangen, aber etwas davon spritzt auf ihr Gesicht."
+
+# game/day16.rpy:1084
+translate german day16_rb_sex_eb00dfd3:
+
+    # "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
+    "{i}Sie schließt ihren Mund und schluckt deine ganze Ladung, während sie sich danach die Lippen leckt."
+
+# game/day16.rpy:1085
+translate german day16_rb_sex_e8f9ac8c:
+
+    # rb "You taste really good, [p_name]."
+    rb "Du schmeckst wirklich gut [p_name]"
+
+# game/day16.rpy:1095
+translate german day16_rb_sex_afe6949f:
+
+    # p "Fuck yes, your pussy will be overflowing."
+    p "Fick ja, deine Muschi wird überlaufen"
+
+# game/day16.rpy:1101
+translate german day16_rb_sex_86e11c7e:
+
+    # "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
+    "{i}Nach zwei tiefen Stößen schießen dicke Spermaströme in sie hinein, dein Schwanz pulsiert in ihrer Vagina."
+
+# game/day16.rpy:1102
+translate german day16_rb_sex_d124b0c2:
+
+    # rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
+    rb "Mmmmm ja füll mich aus! Es fühlt sich so warm in mir an"
+
+# game/day16.rpy:1107
+translate german day16_rb_sex_785a830f:
+
+    # "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
+    "{i}Ihr liegt beide verschwitzt und erschöpft in der Hitze von Rebecas Studio Die Luft riecht nach Sex und Sperma"
+
+# game/day16.rpy:1108
+translate german day16_rb_sex_207ca936:
+
+    # "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
+    "{i}Rebeca schiebt einen Finger in ihre Muschi und leckt geistesabwesend den mit Sperma bedeckten Finger."
+# game/day16.rpy:1109
+translate german day16_rb_sex_e8f9ac8c_1:
+
+    # rb "You taste really good, [p_name]."
+    rb "Du schmeckst wirklich gut [p_name]"
+
+# game/day16.rpy:1125
+translate german day16_l_fingering_3b3c6b84:
+
+    # "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
+    "{i}Sie finden ein ruhiges Plätzchen mit Dünengras, das vom Strand geschützt ist"
+
+# game/day16.rpy:1127
+translate german day16_l_fingering_6682b67e:
+
+    # l "Will we be okay here?"
+    l "Wird es uns hier gut gehen?"
+
+# game/day16.rpy:1128
+translate german day16_l_fingering_30baada1:
+
+    # p "I'm sure of it, don't worry."
+    p "Da bin ich mir sicher, keine Sorge"
+
+# game/day16.rpy:1129
+translate german day16_l_fingering_847e552e:
+
+    # l "Are we really going to do this?"
+    l "Sollen wir das wirklich tun?"
+
+# game/day16.rpy:1130
+translate german day16_l_fingering_d466837c:
+
+    # p "Unless you don't feel comfortable enough."
+    p "Es sei denn, Sie fühlen sich nicht wohl genug"
+
+# game/day16.rpy:1131
+translate german day16_l_fingering_8f94cb3a:
+
+    # p "{i}(Please be comfortable!!!)"
+    p "{i}(Bitte bequem sein!!!)"
+
+# game/day16.rpy:1132
+translate german day16_l_fingering_b159e512:
+
+    # l "No, I'm good. The grass tickles, that's all."
+    l "Nein, mir geht's gut Das Gras kitzelt, das ist alles"
+
+# game/day16.rpy:1133
+translate german day16_l_fingering_432d51eb:
+
+    # p "Good."
+    p "Gut"
+
+# game/day16.rpy:1134
+translate german day16_l_fingering_1681dc26:
+
+    # l "Okay."
+    l "Okay"
+
+# game/day16.rpy:1135
+translate german day16_l_fingering_111559a2:
+
+    # p "This'll work better if you're naked."
+    p "Das klappt besser, wenn du nackt bist"
+
+# game/day16.rpy:1136
+translate german day16_l_fingering_a714afbe:
+
+    # l "Oh yes... of course... Does my bikini need to go as well?"
+    l "Oh ja, natürlich. Muss mein Bikini auch weg?"
+
+# game/day16.rpy:1137
+translate german day16_l_fingering_da5f26f4:
+
+    # p "Only if you want to."
+    p "Nur wenn du willst"
+
+# game/day16.rpy:1138
+translate german day16_l_fingering_16a60d5f:
+
+    # l "I don't know. I guess it'll be in the way."
+    l "Ich weiß nicht, ich denke, es wird im Weg sein"
+
+# game/day16.rpy:1139
+translate german day16_l_fingering_20e54811:
+
+    # p "{i}(Excellent choice.)"
+    p "{i}(Ausgezeichnete Wahl)"
+
+# game/day16.rpy:1142
+translate german day16_l_fingering_3b185a49:
+
+    # p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
+    p "{i}(Was für ein himmlischer Anblick, hier mit meiner splitternackten Schwester zu liegen und sich auf eine Reise der sexuellen Entdeckung zu begeben)"
+
+# game/day16.rpy:1144
+translate german day16_l_fingering_f27bce54:
+
+    # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
+    p "{i}(Was für ein himmlischer Anblick, hier mit einem splitternackten Mädchen zu liegen und sich auf eine Reise der sexuellen Entdeckung zu begeben)"
+
+# game/day16.rpy:1145
+translate german day16_l_fingering_f8c73797:
+
+    # p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
+    p "Versuchen Sie sich zu entspannen und genießen Sie es. Konzentrieren Sie sich nicht zu sehr auf das, was Sie tun, und lassen Sie sich von mir führen."
+# game/day16.rpy:1146
+translate german day16_l_fingering_6e9966ef:
+
+    # l "I'm not sure if I can, but I'll try."
+    l "Ich bin nicht sicher, ob ich es kann, aber ich werde es versuchen"
+
+# game/day16.rpy:1148
+translate german day16_l_fingering_8df2348b:
+
+    # "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
+    "{i}Deine Hand liegt auf ihrem nackten Bauch und deine Schwester atmet tief ein und schaut dich erwartungsvoll an."
+# game/day16.rpy:1150
+translate german day16_l_fingering_65757b42:
+
+    # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
+    "{i}Deine Hand liegt auf ihrem nackten Bauch und [Name_I] atmet tief ein und schaut dich erwartungsvoll an."
+# game/day16.rpy:1152
+translate german day16_l_fingering_0df3a880:
+
+    # "{i}You take one of her hands and slowly move it towards her sex."
+    "{i}Du nimmst eine ihrer Hände und bewegst sie langsam in Richtung ihres Geschlechts."
+
+# game/day16.rpy:1153
+translate german day16_l_fingering_e3a5a5ed:
+
+    # p "Just explore yourself, take it slow. Feel your body."
+    p "Erforsche dich selbst, geh es langsam an und spüre deinen Körper"
+
+# game/day16.rpy:1154
+translate german day16_l_fingering_754b9c5b:
+
+    # p "{i}(God, I almost sound like a guru.)"
+    p "{i}(Gott, ich klinge fast wie ein Guru)"
+
+# game/day16.rpy:1155
+translate german day16_l_fingering_dfa7f157:
+
+    # p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
+    p "Berühre deine Muschi und sieh, wie sie sich unter deinen Fingern anfühlt Erforsche den Bereich um deinen Kitzler Baue etwas Vorfreude auf"
+
+# game/day16.rpy:1156
+translate german day16_l_fingering_e746ddcb:
+
+    # "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
+    "{i}[l_Name] tut gehorsam, was du sagst, aber sie sieht immer noch unruhig aus."
+# game/day16.rpy:1157
+translate german day16_l_fingering_1fb57e6a:
+
+    # p "Is everything alright, [l_name]?"
+    p "Ist alles in Ordnung [l_name]?"
+
+# game/day16.rpy:1158
+translate german day16_l_fingering_97e0d939:
+
+    # l "Yes... It's just... the words you're using. They sound so dirty."
+    l "Ja, es sind nur die Worte, die du benutzt, sie klingen so schmutzig"
+
+# game/day16.rpy:1159
+translate german day16_l_fingering_cc9a033f:
+
+    # p "But how do those words make you feel?"
+    p "Aber wie fühlen Sie sich bei diesen Worten?"
+
+# game/day16.rpy:1160
+translate german day16_l_fingering_b87fab88:
+
+    # l "I..."
+    l "I"
+
+# game/day16.rpy:1161
+translate german day16_l_fingering_9a456252:
+
+    # p "Come on, you can say it to me."
+    p "Komm schon, du kannst es mir sagen"
+
+# game/day16.rpy:1162
+translate german day16_l_fingering_af3eaa24:
+
+    # l "They make me feel..."
+    l "Sie geben mir das Gefühl"
+
+# game/day16.rpy:1163
+translate german day16_l_fingering_3dfeeaf4:
+
+    # l "...Horny?"
+    l "Geil?"
+
+# game/day16.rpy:1164
+translate german day16_l_fingering_18e72607:
+
+    # p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
+    p "Das ist die Absicht Sex ist, sich ganz der Lust hinzugeben Es ist nichts, was man halbherzig tun sollte"
+
+# game/day16.rpy:1165
+translate german day16_l_fingering_fd2f6b1e:
+
+    # l "Okay, I'll try."
+    l "Okay, ich werde es versuchen"
+
+# game/day16.rpy:1166
+translate german day16_l_fingering_daf20258:
+
+    # p "Don't worry about yourself, or the responses of your body. It's all natural."
+    p "Machen Sie sich keine Sorgen über sich selbst oder die Reaktionen Ihres Körpers Es ist alles natürlich"
+
+# game/day16.rpy:1167
+translate german day16_l_fingering_1b4657c6:
+
+    # l "Are you... eh... horny?"
+    l "Bist du eh geil?"
+
+# game/day16.rpy:1168
+translate german day16_l_fingering_0bb85004:
+
+    # p "Yes, I think this is really exciting."
+    p "Ja, ich finde das wirklich spannend"
+
+# game/day16.rpy:1169
+translate german day16_l_fingering_e1bb255d:
+
+    # l "Do you have a... you know..."
+    l "Haben Sie einen Sie wissen schon"
+
+# game/day16.rpy:1170
+translate german day16_l_fingering_3309102f:
+
+    # p "An erection?"
+    p "Eine Erektion?"
+
+# game/day16.rpy:1171
+translate german day16_l_fingering_e29a29a2:
+
+    # l "Yes?"
+    l "Ja?"
+
+# game/day16.rpy:1172
+translate german day16_l_fingering_1b526758:
+
+    # p "As soon as you removed your bikini. You have such a sexy body."
+    p "Sobald du deinen Bikini ausgezogen hast, hast du so einen sexy Körper"
+
+# game/day16.rpy:1173
+translate german day16_l_fingering_45761022:
+
+    # p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
+    p "{i}(Und wenn wir uns nicht bald wieder auf sie konzentrieren, werde ich schon beim Reden abspritzen)"
+
+# game/day16.rpy:1174
+translate german day16_l_fingering_81f2c3f1:
+
+    # p "Shall we continue?"
+    p "Sollen wir fortfahren?"
+
+# game/day16.rpy:1175
+translate german day16_l_fingering_bc5c265b:
+
+    # l "Yes."
+    l "Ja"
+
+# game/day16.rpy:1176
+translate german day16_l_fingering_3b587d0a:
+
+    # p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
+    p "Beschäftige dich nicht zu sehr damit, einen Orgasmus zu erreichen, sondern konzentriere dich auf das, was dir gut tut, und verlängere dieses Gefühl der Freude."
+# game/day16.rpy:1177
+translate german day16_l_fingering_c383bd3b:
+
+    # p "Start by gently rubbing your pussy."
+    p "Beginne damit, deine Muschi sanft zu reiben"
+
+# game/day16.rpy:1183
+translate german day16_l_fingering_8ee5f2dd:
+
+    # l "Ooooh, yes... That feels good."
+    l "Ooooh ja, das fühlt sich gut an"
+
+# game/day16.rpy:1184
+translate german day16_l_fingering_7f1370a3:
+
+    # "{i}You edge closer and lower your voice to a whisper."
+    "{i}Du kommst näher und flüsterst leise"
+
+# game/day16.rpy:1185
+translate german day16_l_fingering_e4df1b27:
+
+    # p "Explore you pussy lips, your clitoris..."
+    p "Erforsche deine Muschilippen, deine Klitoris"
+
+# game/day16.rpy:1186
+translate german day16_l_fingering_20a26fd7:
+
+    # l "Yes! Mmmmm."
+    l "Ja! Mmmmm"
+
+# game/day16.rpy:1187
+translate german day16_l_fingering_49062072:
+
+    # p "Don't hold back. If it feels good, continue doing it..."
+    p "Halten Sie sich nicht zurück, wenn es sich gut anfühlt, machen Sie weiter"
+
+# game/day16.rpy:1188
+translate german day16_l_fingering_cc354b51:
+
+    # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
+    "{i}Nach einer kurzen Weile wird das leise Stöhnen von [l_Name] langsamer und hört dann ganz auf. Sie genießt es nicht mehr und scheint sich wieder steif und lustlos zu reiben."
+    
+# game/day16.rpy:1189
+translate german day16_l_fingering_2daad4de:
+
+    # p "When you think you're losing momentum, think of dirty things."
+    p "Wenn du denkst, du verlierst den Schwung, denk an schmutzige Dinge"
+
+# game/day16.rpy:1190
+translate german day16_l_fingering_b1b12192:
+
+    # l "I... I... I can't."
+    l "Ich kann nicht"
+
+# game/day16.rpy:1191
+translate german day16_l_fingering_c70c2218:
+
+    # p "{i}(Maybe some dirty talk will rouse her.)"
+    p "{i}(Vielleicht weckt ein bisschen Dirty Talk sie auf)"
+
+# game/day16.rpy:1192
+translate german day16_l_fingering_6da813c1:
+
+    # p "Would you like to hear the dirty things I'd do to you?"
+    p "Willst du hören, was für schmutzige Dinge ich mit dir machen würde?"
+
+# game/day16.rpy:1193
+translate german day16_l_fingering_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "J-J-Ja"
+
+# game/day16.rpy:1194
+translate german day16_l_fingering_38adfa51:
+
+    # p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
+    p "Ich würde deinen Körper mit Küssen überhäufen, beginnend mit deinem süßen Mund. Dann würde ich zu deinen perfekten Brüsten gehen und deine Nippel küssen, bis sie hart wie Stein sind."
+
+# game/day16.rpy:1195
+translate german day16_l_fingering_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day16.rpy:1196
+translate german day16_l_fingering_e854e50c:
+
+    # l "...Go on please."
+    l "Fahren Sie bitte fort"
+
+# game/day16.rpy:1197
+translate german day16_l_fingering_a4973da7:
+
+    # p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
+    p "Dein Bauch sollte auch nicht vergessen werden und deine üppigen Schenkel würde ich mir für deine schöne Muschi aufheben."
+# game/day16.rpy:1198
+translate german day16_l_fingering_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm"
+
+# game/day16.rpy:1200
+translate german day16_l_fingering_2c69ebf2:
+
+    # "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}Deine Schwester ist wieder voll konzentriert, ihr mechanisches Verhalten ist völlig verschwunden, sie windet sich im Sand und massiert ihre Muschi."
+
+# game/day16.rpy:1202
+translate german day16_l_fingering_22032ab9:
+
+    # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}[l_name] ist wieder völlig konzentriert, ihr mechanisches Verhalten ist völlig verschwunden, sie windet sich im Sand, während sie ihre Muschi massiert"
+
+# game/day16.rpy:1203
+translate german day16_l_fingering_f362d2ec:
+
+    # p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
+    p "Warum versuchst du nicht, einen Finger hineinzustecken, um etwas von der Feuchtigkeit zu sammeln und sie auf deiner Muschi zu verteilen?"
+# game/day16.rpy:1205
+translate german day16_l_fingering_04979e16:
+
+    # l "It feels so strange."
+    l "Es fühlt sich so seltsam an"
+
+# game/day16.rpy:1206
+translate german day16_l_fingering_6ae2b3cf:
+
+    # p "But it's good, isn't it?"
+    p "Aber es ist gut, oder?"
+
+# game/day16.rpy:1207
+translate german day16_l_fingering_e511b696:
+
+    # l "Y-y-yes!"
+    l "J-J-Ja!"
+
+# game/day16.rpy:1208
+translate german day16_l_fingering_00111317:
+
+    # p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
+    p "Gut, du hast es fast geschafft. Fingere dich weiter und reibe deinen feuchten Kitzler"
+
+# game/day16.rpy:1209
+translate german day16_l_fingering_5e00ee0b:
+
+    # l "Tell me more about the things you'd like to do with my body. Please!"
+    l "Erzähl mir mehr über die Dinge, die du gerne mit meinem Körper machen würdest, bitte!"
+
+# game/day16.rpy:1210
+translate german day16_l_fingering_888962a9:
+
+    # p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm, I'd suck on them, sending you over the edge and making you cum so hard."
+    p "Nach all diesen Küssen würde ich zu deinen Brustwarzen zurückkehren und sie neckisch lecken, während du dich selbst fingerst. Wenn du kurz vor deinem Orgasmus stehst, würde ich an ihnen saugen und dich so hart abspritzen lassen."
+# game/day16.rpy:1211
+translate german day16_l_fingering_644ee3dc:
+
+    # l "Oooooh, [p_name]!"
+    l "Oooooh [p_name]!"
+
+# game/day16.rpy:1212
+translate german day16_l_fingering_7c777b86:
+
+    # p "Yes, [l_name]?"
+    p "Yes [l_name]?"
+
+# game/day16.rpy:1213
+translate german day16_l_fingering_f8d205a2:
+
+    # l "I think I'm..."
+    l "Ich glaube, ich bin"
+
+# game/day16.rpy:1220
+translate german day16_l_fingering_665bccf9:
+
+    # l "Aaaaaaaaaaah!!!"
+    l "Aaaaaaaaaaaaah!!!"
+
+# game/day16.rpy:1222
+translate german day16_l_fingering_5f782092:
+
+    # "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Unfähig, noch etwas zu sagen, zittert deine Schwester heftig. Die Erschütterungen ihres Orgasmus überholen alle anderen Muskelfunktionen ihres Körpers."
+# game/day16.rpy:1224
+translate german day16_l_fingering_5ad0e16a:
+
+    # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Unfähig, noch etwas zu sagen, zittert [l_name] heftig Das Zittern ihres Orgasmus überlagert alle anderen Muskelfunktionen ihres Körpers"
+
+# game/day16.rpy:1225
+translate german day16_l_fingering_e5a66882:
+
+    # p "My beautiful, beautiful girl."
+    p "Mein schönes, schönes Mädchen"
+
+# game/day16.rpy:1226
+translate german day16_l_fingering_58781776:
+
+    # l "Aaaaah!!!"
+    l "Aaaaah!!!"
+
+# game/day16.rpy:1230
+translate german day16_l_fingering_8d0c9317:
+
+    # "{i}It takes quite a while for [l_name] to recover from her orgasm, and she seems unable to speak for some time after."
+    "{i}Es dauert eine ganze Weile, bis sich [l_Name] von ihrem Orgasmus erholt hat, und sie scheint danach eine Zeit lang nicht sprechen zu können."
+# game/day16.rpy:1234
+translate german day16_l_fingering_e0004e3f:
+
+    # l "I really, really didn't know it could feel so wonderful."
+    l "Ich wusste wirklich nicht, dass es sich so wunderbar anfühlen kann"
+
+# game/day16.rpy:1235
+translate german day16_l_fingering_b00e3678:
+
+    # p "It takes time, practice and some dedication, but you were magnificent."
+    p "Es braucht Zeit, Übung und etwas Hingabe, aber du warst großartig"
+
+# game/day16.rpy:1236
+translate german day16_l_fingering_c826d305:
+
+    # l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
+    l "Es wird ein bisschen zu kalt hier in den Dünen und ich bin plötzlich sehr schläfrig"
+
+# game/day16.rpy:1237
+translate german day16_l_fingering_e126bb40:
+
+    # p "I understand, let's head back."
+    p "Ich verstehe, lass uns zurückgehen"
+
+# game/day16.rpy:1239
+translate german day16_l_fingering_f951f29f:
+
+    # l "Thank you for the lovely evening. It really means a lot to me."
+    l "Danke für den schönen Abend, er bedeutet mir wirklich viel"
+
+# game/day16.rpy:1240
+translate german day16_l_fingering_58357d64:
+
+    # p "{i}(I sure hope this isn't the last time...)"
+    p "{i}(Ich hoffe, das ist nicht das letzte Mal)"
+
+# game/day16.rpy:1241
+translate german day16_l_fingering_d2059054:
+
+    # l "Sleep well, dear [p_name]."
+    l "Schlaf gut, lieber [p_name]"
+
+# game/day16.rpy:1242
+translate german day16_l_fingering_fdb98df6:
+
+    # p "Good night, my darling [l_name]."
+    p "Gute Nacht mein Liebling [l_name]"
+

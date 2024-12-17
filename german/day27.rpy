@@ -4747,3 +4747,1316 @@ translate german day27_flashback_2f5381cb:
 
     # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
     "{i}Sperma tropfte aus ihrer Muschi auf meinen Schwanz und auf das Bett meines Vaters, ich hielt sie fest und presste ihren Körper verzweifelt in meine Arme, mein Schwanz krampfte immer noch in ihr, ich war keine Jungfrau mehr."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day27.rpy:900
+translate german day27_b_hotel_sex_196229c9:
+
+    # "{i}You provide them with your room number and slip out of bed to join [b_name] in the shower."
+    "{i}Du gibst ihnen deine Zimmernummer und schlüpfst aus dem Bett, um mit [b_name] unter die Dusche zu gehen."
+# game/day27.rpy:905
+translate german day27_b_hotel_sex_8c4a2c58:
+
+    # "{i}Without saying anything, you kiss, your hands trailing the curves of her wet body. Teasingly you grab hold of the sponge she was using."
+    "{i}Ohne etwas zu sagen, küsst du deine Hände, die die Kurven ihres nassen Körpers abfahren, und greifst neckisch nach dem Schwamm, den sie benutzt hat."
+# game/day27.rpy:906
+translate german day27_b_hotel_sex_3a25df90:
+
+    # b "Hey!"
+    b "Hey!"
+
+# game/day27.rpy:908
+translate german day27_b_hotel_sex_cec0e92e:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, your sister lets out a contented sigh and leans back."
+    "{i}Du hältst den Schwamm in der Hand und schrubbst sanft ihren Körper. Als du die schöne Form ihrer Brüste nachzeichnest, stößt deine Schwester einen zufriedenen Seufzer aus und lehnt sich zurück."
+# game/day27.rpy:910
+translate german day27_b_hotel_sex_91bd6d71:
+
+    # "{i}Holding the sponge, you continue to softly scrub her body. When you trace the beautiful shape of her breasts, [b_name] lets out a contented sigh and leans back."
+    "{i}Du hältst den Schwamm und schrubbst ihren Körper sanft ab. Als du die schöne Form ihrer Brüste nachzeichnest, stößt [b_name] einen zufriedenen Seufzer aus und lehnt sich zurück."
+# game/day27.rpy:911
+translate german day27_b_hotel_sex_cbc1201f:
+
+    # b "Hmmmm. Keep doing that."
+    b "Hmmmm Mach weiter so"
+
+# game/day27.rpy:912
+translate german day27_b_hotel_sex_1f668261:
+
+    # b "You do know that after this, I'll call you every time I take a shower now, don't you?"
+    b "Du weißt schon, dass ich dich danach jedes Mal anrufen werde, wenn ich dusche, oder?"
+
+# game/day27.rpy:913
+translate german day27_b_hotel_sex_8c0a3e96:
+
+    # p "You say that like it's a bad thing."
+    p "Du sagst das so, als ob es etwas Schlechtes wäre"
+
+# game/day27.rpy:915
+translate german day27_b_hotel_sex_a6628d41:
+
+    # "{i}You turn your attention to her lower body, her toned thighs, the soft rise of her pussy."
+    "{i}Du wendest deine Aufmerksamkeit ihrem Unterkörper zu, ihren durchtrainierten Schenkeln und der sanft ansteigenden Muschi."
+
+# game/day27.rpy:916
+translate german day27_b_hotel_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day27.rpy:917
+translate german day27_b_hotel_sex_300701d2:
+
+    # p "I..."
+    p "I"
+
+# game/day27.rpy:919
+translate german day27_b_hotel_sex_2f041b28:
+
+    # "{i}Desire overcomes you both and you touch her, hungry for her soft skin."
+    "{i}Das Verlangen überwältigt euch beide und du berührst sie, hungrig nach ihrer weichen Haut"
+
+# game/day27.rpy:925
+translate german day27_b_hotel_sex_2b4aea2b:
+
+    # "{i}Suddenly you're startled by the doorbell ringing."
+    "{i}Plötzlich werden Sie durch das Klingeln an der Tür aufgeschreckt"
+
+# game/day27.rpy:926
+translate german day27_b_hotel_sex_7ed3e395:
+
+    # p "Fuck. I ordered room service..."
+    p "Scheiße, ich habe Zimmerservice bestellt"
+
+# game/day27.rpy:927
+translate german day27_b_hotel_sex_e838c68b:
+
+    # b "How sweet!"
+    b "Wie süß!"
+
+# game/day27.rpy:928
+translate german day27_b_hotel_sex_1dd7540e:
+
+    # p "Yeah well, if only the timing was a bit better..."
+    p "Ja, wenn nur das Timing ein bisschen besser wäre"
+
+# game/day27.rpy:931
+translate german day27_b_hotel_sex_cc75db61:
+
+    # "{i}You wrap a towel around your body and head to the door. A cart is pushed inside your room, and after tipping the server, you close the door again."
+    "{i}Sie wickeln ein Handtuch um Ihren Körper und gehen zur Tür. Ein Wagen wird in Ihr Zimmer geschoben, und nachdem Sie dem Kellner ein Trinkgeld gegeben haben, schließen Sie die Tür wieder."
+# game/day27.rpy:932
+translate german day27_b_hotel_sex_266a237d:
+
+    # p "So... I guess we should have some breakfast?"
+    p "Dann sollten wir wohl frühstücken?"
+
+# game/day27.rpy:934
+translate german day27_b_hotel_sex_ec9e26e4:
+
+    # b "Nope, I want something entirely different first."
+    b "Nein, ich will erst etwas ganz anderes"
+
+# game/day27.rpy:935
+translate german day27_b_hotel_sex_078c5a26:
+
+    # p "Oh..."
+    p "Oh"
+
+# game/day27.rpy:937
+translate german day27_b_hotel_sex_6941d4e7:
+
+    # "{i}You jump on the bed, next to a giggling [b_name] and shower her body with kisses. [b_name] makes it clear she isn't interested in foreplay this time and turns her attention to your cock."
+    "{i}Du springst neben einer kichernden [b_name] aufs Bett und überschüttest ihren Körper mit Küssen [b_name] macht klar, dass sie diesmal nicht am Vorspiel interessiert ist und wendet ihre Aufmerksamkeit deinem Schwanz zu"
+
+# game/day27.rpy:942
+translate german day27_b_hotel_sex_cfbca683:
+
+    # "{i}She guides you inside her, a warm feeling engulfing your cock. The hungry look in her eyes matching her wetness down below."
+    "{i}Sie führt dich in sich hinein, ein warmes Gefühl, das deinen Schwanz verschlingt Der hungrige Blick in ihren Augen passt zu ihrer Nässe da unten"
+
+# game/day27.rpy:947
+translate german day27_b_hotel_sex_d7fa3cac:
+
+    # "{i}Without a word, you both surrender to your love making. Small thrusts ensure that your warm bodies are in contact most of the time. You bury your head in the perfume of her still-wet hair."
+    "{i}Ohne ein Wort gebt ihr euch beide eurem Liebesspiel hin Kleine Stöße sorgen dafür, dass sich eure warmen Körper die meiste Zeit berühren Du vergräbst deinen Kopf im Duft ihrer noch feuchten Haare"
+
+# game/day27.rpy:948
+translate german day27_b_hotel_sex_5fc60217:
+
+    # b "Oh, [p_name]!"
+    b "Oh [p_name]!"
+
+# game/day27.rpy:952
+translate german day27_b_hotel_sex_07a91112:
+
+    # "{i}When your dick slips out of her pussy, [b_name] squirms from your grasp, pressing a finger against your lips as you begin to protest."
+    "{i}Als dein Schwanz aus ihrer Muschi rutscht, windet sich [b_name] aus deinem Griff und drückt einen Finger gegen deine Lippen, während du anfängst zu protestieren"
+
+# game/day27.rpy:953
+translate german day27_b_hotel_sex_203a0f34:
+
+    # b "Ssssh, just lie down."
+    b "Ssssh leg dich einfach hin"
+
+# game/day27.rpy:959
+translate german day27_b_hotel_sex_052ebcda:
+
+    # "{i}Your sister squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Deine Schwester hockt sich auf dich und schiebt deine Erektion langsam in ihren Schlitz, während sie sich auf die Lippe beißt."
+# game/day27.rpy:961
+translate german day27_b_hotel_sex_66615e02:
+
+    # "{i}She squats on top of you and slowly pushes your erection into her slit, biting her lip as she does it."
+    "{i}Sie hockt sich auf dich und schiebt deine Erektion langsam in ihren Schlitz, während sie sich auf die Lippe beißt."
+
+# game/day27.rpy:962
+translate german day27_b_hotel_sex_c43c4bff:
+
+    # "{i}Her pussy lips fold around your shaft. With closed eyes, [b_name] moans as the entirety of your shaft slides inside her."
+    "{i}Mit geschlossenen Augen stöhnt [b_name], während dein ganzer Schaft in sie gleitet."
+# game/day27.rpy:964
+translate german day27_b_hotel_sex_d24d13ee:
+
+    # "{i}When she starts to move, you nearly climax. Instead you focus your attention on her beautiful breasts, that bounce with the rhythm of your fucking."
+    "{i}Wenn sie anfängt, sich zu bewegen, kommst du fast zum Höhepunkt, stattdessen konzentrierst du dich auf ihre schönen Brüste, die im Rhythmus deines Ficks wippen."
+# game/day27.rpy:965
+translate german day27_b_hotel_sex_0f2d2c99:
+
+    # "{i}The position obviously gives [b_name] heightened pleasure as she moves up and down your cock ever faster, her butt slapping onto your skin."
+    "{i}Die Stellung verschafft [b_name] offensichtlich ein gesteigertes Vergnügen, da sie deinen Schwanz immer schneller auf und ab bewegt und ihr Hintern auf deine Haut klatscht."
+
+# game/day27.rpy:972
+translate german day27_b_hotel_sex_5e8446ed:
+
+    # b "G-g-g-god! Y-yes!"
+    b "G-G-G-Gott! J-ja!"
+
+# game/day27.rpy:974
+translate german day27_b_hotel_sex_c474c697:
+
+    # "{i}Delirious, your sister orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Deine Schwester hat einen Orgasmus auf dir. Wegen ihrer Lustkrämpfe musst du die Führung übernehmen."
+# game/day27.rpy:976
+translate german day27_b_hotel_sex_814837df:
+
+    # "{i}Delirious, [b_name] orgasms on top of you. Because of her convulsions of pleasure, you have to take the lead."
+    "{i}Delirious [b_name] orgasms on top of you Because of her convulsions of pleasure you have to take the lead"
+
+# game/day27.rpy:978
+translate german day27_b_hotel_sex_d6e04d49:
+
+    # "{i}With her straddling your body, you move your hips quickly, penetrating her like rapid-fire."
+    "{i}Während sie deinen Körper spreizt, bewegst du deine Hüften schnell und dringst wie im Schnellfeuer in sie ein."
+
+# game/day27.rpy:988
+translate german day27_b_hotel_sex_608db639:
+
+    # "{i}Her constricting vagina proves too much for your cock, and your semen mixes with her juices inside her wet slit."
+    "{i}Ihre enge Vagina ist zu viel für deinen Schwanz und dein Sperma vermischt sich mit ihren Säften in ihrem feuchten Schlitz."
+
+# game/day27.rpy:1001
+translate german day27_b_hotel_sex_70f58587:
+
+    # "{i}Her constricting vagina proves too much for your cock, and after pulling out of her wet slit, you cover her lower body with thick streams of semen."
+    "{i}Ihre enge Vagina erweist sich als zu groß für deinen Schwanz und nachdem du dich aus ihrem feuchten Schlitz zurückgezogen hast, bedeckst du ihren Unterkörper mit dicken Spermaströmen."
+# game/day27.rpy:1009
+translate german day27_b_hotel_sex_da652819:
+
+    # "{i}Exhausted you lie in each others arms, your fingertips stroking her soft skin."
+    "{i}Erschöpft liegen Sie sich in den Armen, Ihre Fingerspitzen streicheln ihre weiche Haut"
+
+# game/day27.rpy:1010
+translate german day27_b_hotel_sex_fa3f408e:
+
+    # b "Mmmmm. I don't know if I want to go home."
+    b "Mmmmm, ich weiß nicht, ob ich nach Hause will"
+
+# game/day27.rpy:1011
+translate german day27_b_hotel_sex_1249acbe:
+
+    # p "Me neither."
+    p "Ich auch nicht"
+
+# game/day27.rpy:1012
+translate german day27_b_hotel_sex_995bd1f9:
+
+    # b "The cleaning staff will be here soon."
+    b "Das Reinigungspersonal wird bald hier sein"
+
+# game/day27.rpy:1013
+translate german day27_b_hotel_sex_167f6a45:
+
+    # p "We could just lock the door and hide in the bathroom."
+    p "Wir könnten einfach die Tür abschließen und uns im Badezimmer verstecken"
+
+# game/day27.rpy:1014
+translate german day27_b_hotel_sex_4bfd9a22:
+
+    # b "I'm pretty sure it doesn't work like that."
+    b "Ich bin mir ziemlich sicher, dass es so nicht funktioniert"
+
+# game/day27.rpy:1016
+translate german day27_b_hotel_sex_edd34605:
+
+    # "{i}At the same time, you both let out a contented sigh. Laughing, you kiss again and lie on the bed for a little longer, until you deem it time to leave the hotel and head home."
+    "{i}Gleichzeitig stoßen Sie beide einen zufriedenen Seufzer aus. Lachend küssen Sie sich erneut und liegen noch ein wenig länger auf dem Bett, bis Sie es für an der Zeit halten, das Hotel zu verlassen und nach Hause zu fahren."
+# game/day27.rpy:1032
+translate german day27_b_vibrator_e8e049ba:
+
+    # "{i}With a resigned sigh, [b_name] stands up and walks away. You notice she's holding the vibrator and has left the remote on the table."
+    "{i}Mit einem resignierten Seufzer steht [b_name] auf und geht weg Sie bemerken, dass sie den Vibrator in der Hand hält und die Fernbedienung auf dem Tisch liegen gelassen hat"
+
+# game/day27.rpy:1033
+translate german day27_b_vibrator_8f7a7797:
+
+    # p "{i}(Is she going to...?)"
+    p "{i}(Wird sie es tun?)"
+
+# game/day27.rpy:1035
+translate german day27_b_vibrator_7809015c:
+
+    # "{i}You see her walk very slowly towards the restrooms, as if she's still hesitating."
+    "{i}Man sieht, wie sie sehr langsam auf die Toiletten zugeht, als ob sie noch zögert"
+
+# game/day27.rpy:1036
+translate german day27_b_vibrator_de30eed8:
+
+    # p "{i}(That's my girl!)"
+    p "{i}(Das ist mein Mädchen!)"
+
+# game/day27.rpy:1038
+translate german day27_b_vibrator_b32fd03b:
+
+    # "{i}After a short while, [b_name] returns, no longer holding the pink egg."
+    "{i}Nach kurzer Zeit kehrt [b_name] zurück und hat das rosa Ei nicht mehr in der Hand"
+
+# game/day27.rpy:1039
+translate german day27_b_vibrator_62289d3a:
+
+    # p "Now, spread your legs for me."
+    p "Jetzt spreiz deine Beine für mich"
+
+# game/day27.rpy:1040
+translate german day27_b_vibrator_4bc98f10:
+
+    # b "I could've flushed the fucking thing down the toilet."
+    b "Ich hätte das verdammte Ding die Toilette runterspülen können"
+
+# game/day27.rpy:1041
+translate german day27_b_vibrator_f24c6c98:
+
+    # p "You didn't."
+    p "Du hast nicht"
+
+# game/day27.rpy:1043
+translate german day27_b_vibrator_80593731:
+
+    # "{i}When [b_name] finally parts her legs, you can see the pink vibrator peeping out of her pussy."
+    "{i}Als [b_name] schließlich die Beine spreizt, sieht man den rosa Vibrator aus ihrer Muschi herausschauen."
+
+# game/day27.rpy:1045
+translate german day27_b_vibrator_17cc86a6:
+
+    # p "Good girl!"
+    p "Braves Mädchen!"
+
+# game/day27.rpy:1047
+translate german day27_b_vibrator_5316ce8d:
+
+    # "{i}[b_name] abruptly closes her legs again as Megan saunters over. Before anybody notices, you manage to grab the remote control from the table."
+    "{i}[b_name] schließt abrupt ihre Beine wieder, während Megan hinüberschlendert, bevor jemand bemerkt, dass du die Fernbedienung vom Tisch nimmst."
+# game/day27.rpy:1048
+translate german day27_b_vibrator_01023b9e:
+
+    # me "I got those supplies you asked for."
+    me "Ich habe die Vorräte, um die du gebeten hast"
+
+# game/day27.rpy:1049
+translate german day27_b_vibrator_b2176539:
+
+    # p "{i}(Now is as good a time as any to test it out, I think.)"
+    p "{i}(Jetzt ist ein guter Zeitpunkt, um es auszuprobieren, denke ich)"
+
+# game/day27.rpy:1053
+translate german day27_b_vibrator_04eb7dac:
+
+    # "{i}Under the table, you turn the dial slightly upwards."
+    "{i}Unter dem Tisch drehen Sie das Rad leicht nach oben"
+
+# game/day27.rpy:1058
+translate german day27_b_vibrator_3ee9f29d:
+
+    # b "Wuh..."
+    b "Wuh"
+
+# game/day27.rpy:1059
+translate german day27_b_vibrator_eba830bd:
+
+    # me "Did I forget something?"
+    me "Habe ich etwas vergessen?"
+
+# game/day27.rpy:1060
+translate german day27_b_vibrator_e6280fec:
+
+    # b "N-n-no..."
+    b "N-n-nein"
+
+# game/day27.rpy:1061
+translate german day27_b_vibrator_495727fd:
+
+    # "{i}Several emotions are visible on [b_name]'s face, a mixture of repressed pleasure and agony being the main one."
+    "{i}Auf dem Gesicht von [b_name] sind mehrere Emotionen zu erkennen, vor allem eine Mischung aus unterdrückter Freude und Schmerz."
+# game/day27.rpy:1062
+translate german day27_b_vibrator_e1b19d79:
+
+    # me "Did you need anything else?"
+    me "Brauchen Sie noch etwas?"
+
+# game/day27.rpy:1063
+translate german day27_b_vibrator_c5c56418:
+
+    # b "I... N..."
+    b "I N"
+
+# game/day27.rpy:1064
+translate german day27_b_vibrator_010c86ab:
+
+    # me "Are you alright, [b_name]?"
+    me "Geht es dir gut [b_name]?"
+
+# game/day27.rpy:1071
+translate german day27_b_vibrator_ac24ee5d:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring your sister, but she seems to be able to retain her composure, more or less."
+    "{i}Du stellst den Regler auf die niedrigste Stufe. Das Ei erfreut deine Schwester immer noch, aber sie scheint sich einigermaßen beherrschen zu können."
+# game/day27.rpy:1073
+translate german day27_b_vibrator_016f6ff8:
+
+    # "{i}You turn the dial to the lowest setting. The egg is still pleasuring [b_name], but she seems to be able to retain her composure, more or less."
+    "{i}Du drehst den Regler auf die niedrigste Stufe Das Ei erfreut [b_name] immer noch, aber sie scheint sich mehr oder weniger beherrschen zu können"
+
+# game/day27.rpy:1074
+translate german day27_b_vibrator_d1e07412:
+
+    # b "Yes... Just feeling a little lightheaded."
+    b "Ja, ich fühle mich nur ein bisschen schwindlig"
+
+# game/day27.rpy:1075
+translate german day27_b_vibrator_28383b11:
+
+    # b "I'm feeling better already."
+    b "Ich fühle mich schon besser"
+
+# game/day27.rpy:1081
+translate german day27_b_vibrator_9276f31b:
+
+    # "{i}After those words, you turn the dial all the way up. The force of the egg's vibrations force open the girl's legs and she slams a fist on the table."
+    "{i}Nach diesen Worten drehst du den Drehknopf ganz auf Die Kraft der Vibrationen des Eies öffnet die Beine des Mädchens und sie schlägt mit der Faust auf den Tisch"
+
+# game/day27.rpy:1082
+translate german day27_b_vibrator_15e5c36b:
+
+    # b "Aaaah..."
+    b "Aaaah"
+
+# game/day27.rpy:1083
+translate german day27_b_vibrator_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1084
+translate german day27_b_vibrator_b469670c:
+
+    # p "Is everything okay, [b_name]?"
+    p "Ist alles in Ordnung [b_name]?"
+
+# game/day27.rpy:1085
+translate german day27_b_vibrator_3cfd3ad0:
+
+    # b "...I'm fine."
+    b "Mir geht's gut"
+
+# game/day27.rpy:1086
+translate german day27_b_vibrator_99681889:
+
+    # me "Girl, you're sweating."
+    me "Mädchen, du schwitzt ja"
+
+# game/day27.rpy:1087
+translate german day27_b_vibrator_f2d96e30:
+
+    # b "I'll b-be j-just fine in a minute."
+    b "Ich b-bin gleich wieder in Ordnung"
+
+# game/day27.rpy:1088
+translate german day27_b_vibrator_5bb24395:
+
+    # me "Take as long as you need, I'll take over for you in the mean time."
+    me "Nimm dir so viel Zeit, wie du brauchst, ich übernehme in der Zwischenzeit für dich."
+# game/day27.rpy:1090
+translate german day27_b_vibrator_3f755b65:
+
+    # b "T-thanks..."
+    b "D-Danke"
+
+# game/day27.rpy:1092
+translate german day27_b_vibrator_2dad7135:
+
+    # "{i}As soon as Megan walks away, [b_name] shoots an angry glance at you, she's only able to speak through gritted teeth."
+    "{i}Sobald Megan weggeht, wirft [b_name] dir einen wütenden Blick zu, den sie nur noch mit zusammengebissenen Zähnen aussprechen kann."
+# game/day27.rpy:1093
+translate german day27_b_vibrator_40e42da9:
+
+    # b "T-t-turn it off!"
+    b "D-d-d-schalte es aus!"
+
+# game/day27.rpy:1094
+translate german day27_b_vibrator_58ee35ab:
+
+    # p "Hmmm?"
+    p "Hmmm?"
+
+# game/day27.rpy:1095
+translate german day27_b_vibrator_490f1e1c:
+
+    # b "T-turn i-it off, p-p-please."
+    b "T-schalte i-es aus p-p-please"
+
+# game/day27.rpy:1100
+translate german day27_b_vibrator_6fee07d3:
+
+    # "{i}Satisfied with her answer, you turn the dial all the way down to zero."
+    "{i}Zufrieden mit ihrer Antwort drehst du den Drehknopf ganz nach unten auf Null."
+# game/day27.rpy:1101
+translate german day27_b_vibrator_521c64a8:
+
+    # b "I'm going to kill you for this, you know that?"
+    b "Dafür werde ich dich umbringen, weißt du das?"
+
+# game/day27.rpy:1102
+translate german day27_b_vibrator_6802e4fc:
+
+    # p "Easy now, just remind yourself of who's holding the remote control."
+    p "Ganz ruhig, denk daran, wer die Fernbedienung in der Hand hat"
+
+# game/day27.rpy:1103
+translate german day27_b_vibrator_46258e98:
+
+    # b "I have to get back to work."
+    b "Ich muss zurück an die Arbeit"
+
+# game/day27.rpy:1104
+translate german day27_b_vibrator_c443c0db:
+
+    # p "Sure thing. I'd like another cup of regular coffee, black, please."
+    p "Klar, ich hätte gerne noch eine Tasse normalen Kaffee, schwarz, bitte"
+
+# game/day27.rpy:1106
+translate german day27_b_vibrator_a13f8569:
+
+    # "{i}She looks at you incredulously, then stands up, her legs still wobbly from the vibrations of the sex toy in her pussy."
+    "{i}Sie schaut dich ungläubig an und steht dann auf, ihre Beine wackeln noch immer von den Vibrationen des Sexspielzeugs in ihrer Muschi."
+
+# game/day27.rpy:1107
+translate german day27_b_vibrator_de1fa8b9:
+
+    # b "Coming right up..."
+    b "Kommt sofort"
+
+# game/day27.rpy:1112
+translate german day27_b_vibrator_6cc89c98:
+
+    # "{i}After you get your coffee, you sit and play with your phone. At irregular intervals, you use the dial of the remote control."
+    "{i}Nach dem Kaffee sitzt du und spielst mit deinem Telefon. In unregelmäßigen Abständen betätigst du die Wählscheibe der Fernbedienung."
+
+# game/day27.rpy:1114
+translate german day27_b_vibrator_c14e2e61:
+
+    # "{i}You make sure it never goes past the point where the vibrations become unbearable for [b_name], but you notice she has a harder time serving customers, steadying herself often and sighing with flushed cheeks."
+    "{i}Du sorgst dafür, dass die Vibrationen für [b_name] nie unerträglich werden, aber du merkst, dass es ihr schwerer fällt, die Kunden zu bedienen, da sie sich oft beruhigt und mit geröteten Wangen seufzt."
+# game/day27.rpy:1132
+translate german day27_b_licking_5f3aff41:
+
+    # p "Good. Just sit down on the desk and relax."
+    p "Gut. Setzen Sie sich auf den Schreibtisch und entspannen Sie sich"
+
+# game/day27.rpy:1133
+translate german day27_b_licking_83091b29:
+
+    # b "You're not going to take it out?"
+    b "Du willst es nicht rausnehmen?"
+
+# game/day27.rpy:1134
+translate german day27_b_licking_a781d336:
+
+    # p "Of course not, it's going to help me make you cum."
+    p "Natürlich nicht, es wird mir helfen, dich zum Abspritzen zu bringen"
+
+# game/day27.rpy:1135
+translate german day27_b_licking_4f28fa17:
+
+    # p "Take off your shirt first."
+    p "Zieh erst dein Hemd aus"
+
+# game/day27.rpy:1136
+translate german day27_b_licking_b61b6f1a:
+
+    # b "No, but what if somebody comes in?"
+    b "Nein, aber was ist, wenn jemand reinkommt?"
+
+# game/day27.rpy:1137
+translate german day27_b_licking_6262302c:
+
+    # p "We'll worry about that later."
+    p "Darum kümmern wir uns später"
+
+# game/day27.rpy:1138
+translate german day27_b_licking_8377b2fd:
+
+    # b "[p_name]..."
+    b "[p_name]"
+
+# game/day27.rpy:1139
+translate german day27_b_licking_0e1f96a4:
+
+    # p "I want to see those gorgeous breasts of yours."
+    p "Ich will deine schönen Brüste sehen"
+
+# game/day27.rpy:1144
+translate german day27_b_licking_9a4fad80:
+
+    # "{i}After losing all of her clothing, you spread her legs and lower your head between her thighs."
+    "{i}Nachdem sie ihre Kleidung abgelegt hat, spreizt du ihre Beine und steckst deinen Kopf zwischen ihre Schenkel."
+
+# game/day27.rpy:1145
+translate german day27_b_licking_def4b24b:
+
+    # p "Wow!"
+    p "Wow!"
+
+# game/day27.rpy:1146
+translate german day27_b_licking_35ba70ca:
+
+    # b "What?"
+    b "Was?"
+
+# game/day27.rpy:1147
+translate german day27_b_licking_1aa5989e:
+
+    # p "I didn't know you could get so wet."
+    p "Ich wusste nicht, dass man so nass werden kann"
+
+# game/day27.rpy:1152
+translate german day27_b_licking_85091941:
+
+    # "{i}[b_name] doesn't offer a reply and just bites her lip. You smell the earthy perfume of her cunt as your tongue probes the wet lips of her pussy."
+    "{i}[b_name] antwortet nicht und beißt sich auf die Lippe Du riechst den erdigen Duft ihrer Möse, während deine Zunge die feuchten Lippen ihrer Muschi erforscht"
+
+# game/day27.rpy:1153
+translate german day27_b_licking_f17a0a22:
+
+    # b "Oh!"
+    b "Oh!"
+
+# game/day27.rpy:1158
+translate german day27_b_licking_aef8bd34:
+
+    # "{i}As you stimulate her with the rapid motions of your tongue, you dial the vibrator slowly up to its maximum setting."
+    "{i}Während du sie mit den schnellen Bewegungen deiner Zunge stimulierst, stellst du den Vibrator langsam auf die höchste Stufe."
+# game/day27.rpy:1159
+translate german day27_b_licking_83f82a73:
+
+    # "{i}The vibrations of the egg are a little awkward, but [b_name] completely loses it, gripping the side of the desk and moaning softly."
+    "{i}Die Vibrationen des Eies sind ein wenig unangenehm, aber [b_name] verliert es völlig, indem er sich an die Seite des Tisches klammert und leise stöhnt"
+
+# game/day27.rpy:1165
+translate german day27_b_licking_90e1af97:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1166
+translate german day27_b_licking_3d9dd82a:
+
+    # me "[b_name], are you in there?"
+    me "[b_name] bist du da drin?"
+
+# game/day27.rpy:1167
+translate german day27_b_licking_9171bab7:
+
+    # b "Fuck, it's Megan."
+    b "Scheiße, das ist Megan"
+
+# game/day27.rpy:1168
+translate german day27_b_licking_9e6db08a:
+
+    # b "Hide!"
+    b "Hide!"
+
+# game/day27.rpy:1170
+translate german day27_b_licking_fe288a67:
+
+    # "{i}You crawl under the desk, while [b_name] frantically looks for her blouse."
+    "{i}Du kriechst unter den Schreibtisch, während [b_name] verzweifelt nach ihrer Bluse sucht"
+
+# game/day27.rpy:1171
+translate german day27_b_licking_64fc4783:
+
+    # b "Yes, I'm in here."
+    b "Ja, ich bin hier drin"
+
+# game/day27.rpy:1172
+translate german day27_b_licking_7b467c67:
+
+    # b "Just a..."
+    b "Nur ein"
+
+# game/day27.rpy:1174
+translate german day27_b_licking_90e1af97_1:
+
+    # me "[b_name]?"
+    me "[b_name]?"
+
+# game/day27.rpy:1175
+translate german day27_b_licking_648fad1f:
+
+    # me "Oh shit, you're naked."
+    me "Oh, Scheiße, du bist nackt"
+
+# game/day27.rpy:1176
+translate german day27_b_licking_73acfb97:
+
+    # "{i}You see [b_name] stiffen in front of the desk, as Megan enters the room."
+    "{i}Sie sehen, wie [b_name] vor dem Schreibtisch erstarrt, als Megan den Raum betritt"
+
+# game/day27.rpy:1177
+translate german day27_b_licking_65c33e7a:
+
+    # b "I... uh... I was changing."
+    b "Ich, äh, ich habe mich umgezogen"
+
+# game/day27.rpy:1178
+translate german day27_b_licking_6e2fbc8e:
+
+    # me "You're not feeling well, are you?"
+    me "Du fühlst dich nicht gut, oder?"
+
+# game/day27.rpy:1180
+translate german day27_b_licking_23fd721a:
+
+    # p "{i}(Mmmm, she's so close.)"
+    p "{i}(Mmmm she's so close)"
+
+# game/day27.rpy:1181
+translate german day27_b_licking_392019b3:
+
+    # p "{i}(Megan can't see me from here.)"
+    p "{i}(Megan kann mich von hier aus nicht sehen)"
+
+# game/day27.rpy:1182
+translate german day27_b_licking_143ced8d:
+
+    # p "{i}(Shall I continue? The vibrator is still on...)"
+    p "{i}(Soll ich fortfahren? Der Vibrator ist noch an)"
+
+# game/day27.rpy:1192
+translate german day27_b_licking_ebe61376:
+
+    # "{i}You caress the muscles of her inner thighs, quivering under the stress of her impending orgasm."
+    "{i}Du streichelst die Muskeln ihrer Innenschenkel, die unter der Spannung ihres bevorstehenden Orgasmus beben."
+# game/day27.rpy:1193
+translate german day27_b_licking_7d2fce76:
+
+    # b "No... I-I think I need to go ho..."
+    b "Nein, ich glaube, ich muss gehen."
+
+# game/day27.rpy:1195
+translate german day27_b_licking_d3dbcb25:
+
+    # "{i}At that moment, you plunge your tongue between her wet lips, pushing the vibrator even further in her cunt."
+    "{i}In diesem Moment tauchst du deine Zunge zwischen ihre feuchten Lippen und schiebst den Vibrator noch weiter in ihre Fotze."
+
+# game/day27.rpy:1196
+translate german day27_b_licking_3580bb93:
+
+    # b "...Ooohme!"
+    b "Ooohme!"
+
+# game/day27.rpy:1197
+translate german day27_b_licking_d45b71d4:
+
+    # me "Seem like you're having a migraine?"
+    me "Sieht es so aus, als hätten Sie eine Migräne?"
+
+# game/day27.rpy:1198
+translate german day27_b_licking_3fd3887e:
+
+    # b "Y-yes..."
+    b "J-Ja"
+
+# game/day27.rpy:1200
+translate german day27_b_licking_7b413b5c:
+
+    # "{i}Your sister doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}Deine Schwester stößt dich nicht weg, sondern spreizt ihre Beine noch ein wenig weiter, damit du besser an ihren triefenden Schlitz herankommst."
+
+# game/day27.rpy:1202
+translate german day27_b_licking_b147ddb0:
+
+    # "{i}[b_name] doesn't push you away, but spreads her legs a little further to allow you better access to her dripping slit."
+    "{i}[b_name] stößt dich nicht weg, sondern spreizt ihre Beine etwas weiter, um dir einen besseren Zugang zu ihrem triefenden Schlitz zu ermöglichen."
+
+# game/day27.rpy:1203
+translate german day27_b_licking_c5cc69af:
+
+    # me "I'll leave you to it then."
+    me "Dann lasse ich Sie jetzt in Ruhe."
+# game/day27.rpy:1204
+translate german day27_b_licking_a7ed4f3b:
+
+    # b "T-thanks."
+    b "D-Danke"
+
+# game/day27.rpy:1205
+translate german day27_b_licking_6ac0e1eb:
+
+    # me "Migraines are a bitch. Get well soon!"
+    me "Migräne ist eine Schlampe Gute Besserung!"
+
+# game/day27.rpy:1206
+translate german day27_b_licking_a7ed4f3b_1:
+
+    # b "T-thanks."
+    b "D-Danke"
+
+# game/day27.rpy:1211
+translate german day27_b_licking_533d60e4:
+
+    # "{i}When Megan closes the office door, [b_name] involuntarily releases a volley of her juices."
+    "{i}Wenn Megan die Bürotür schließt, gibt [b_name] unwillkürlich einen Schwall ihrer Säfte ab"
+
+# game/day27.rpy:1212
+translate german day27_b_licking_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "Aaaaaah!"
+
+# game/day27.rpy:1213
+translate german day27_b_licking_eb1641f9:
+
+    # b "Don't stop. P-please!"
+    b "Hören Sie nicht auf, bitte!"
+
+# game/day27.rpy:1215
+translate german day27_b_licking_85a3c63d:
+
+    # "{i}After you push her onto the desk, you eat her pussy with an intensity that surprises even yourself."
+    "{i}Nachdem du sie auf den Tisch gedrückt hast, leckst du ihre Muschi mit einer Intensität, die selbst dich überrascht."
+
+# game/day27.rpy:1216
+translate german day27_b_licking_2b4bad48:
+
+    # "{i}The vibrator is still running on maximum, and [b_name] moans uncontrollably and pulls at your hair in ecstasy."
+    "{i}Der Vibrator läuft immer noch auf Maximum und [b_name] stöhnt unkontrolliert und zieht in Ekstase an deinen Haaren"
+
+# game/day27.rpy:1224
+translate german day27_b_licking_df23fe64:
+
+    # "{i}You're surprised by her wetness and the force of her orgasm. A wealth of her nectar squirts on your face and forces the still-vibrating egg out of her cunny."
+    "{i}Du bist überrascht von ihrer Nässe und der Wucht ihres Orgasmus Eine Fülle ihres Nektars spritzt auf dein Gesicht und drückt das immer noch vibrierende Ei aus ihrer Möse"
+
+# game/day27.rpy:1227
+translate german day27_b_licking_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day27.rpy:1229
+translate german day27_b_licking_509df137:
+
+    # "{i}Your sister squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}Deine Schwester verspritzt mehrere Ströme ihres Ejakulats auf ihre Schenkel und die Oberfläche des Tisches. Es tropft auf den Boden, während ihre schlaffe Gestalt sich im Würgegriff ihres Höhepunkts verkrampft."
+# game/day27.rpy:1231
+translate german day27_b_licking_2fb542ee:
+
+    # "{i}[b_name] squirts several streams of ejaculate on her thighs and the surface of the desk. It starts dripping on the floor as her limp form spasms in the throes of her climax."
+    "{i}[b_name] spritzt mehrere Ströme von Ejakulat auf ihre Oberschenkel und die Oberfläche des Schreibtisches. Es beginnt auf den Boden zu tropfen, während ihre schlaffe Gestalt in den Kämpfen ihres Höhepunktes zuckt"
+
+# game/day27.rpy:1237
+translate german day27_b_licking_fd967eb5:
+
+    # "{i}You catch [b_name] before she falls to the floor and sit next to her against the desk."
+    "{i}Du fängst [b_name] auf, bevor sie auf den Boden fällt, und setzt dich neben sie an den Schreibtisch."
+# game/day27.rpy:1238
+translate german day27_b_licking_a226744c:
+
+    # b "I... I..."
+    b "I I"
+
+# game/day27.rpy:1239
+translate german day27_b_licking_970e9bfc:
+
+    # b "I didn't know I could do that."
+    b "Ich wusste nicht, dass ich das tun kann"
+
+# game/day27.rpy:1240
+translate german day27_b_licking_5535b960:
+
+    # p "That was really special."
+    p "Das war wirklich etwas Besonderes"
+
+# game/day27.rpy:1241
+translate german day27_b_licking_e4f482d5:
+
+    # b "I don't think I'll be able to walk."
+    b "Ich glaube nicht, dass ich laufen kann"
+
+# game/day27.rpy:1242
+translate german day27_b_licking_fed42c8c:
+
+    # p "I'll get you home, don't worry."
+    p "Ich bringe dich nach Hause, keine Sorge"
+
+# game/day27.rpy:1243
+translate german day27_b_licking_935dfeff:
+
+    # "{i}[b_name] sits next to you, savoring the moment before standing up and slowly dressing herself."
+    "{i}[b_name] sitzt neben dir und genießt den Moment, bevor sie aufsteht und sich langsam anzieht"
+
+# game/day27.rpy:1245
+translate german day27_b_licking_22fc1ff3:
+
+    # "{i}She leans on you, as you head out the office and go back home."
+    "{i}Sie lehnt sich an dich, wenn du das Büro verlässt und nach Hause gehst"
+
+# game/day27.rpy:1248
+translate german day27_b_licking_748b5dec:
+
+    # p "That was close."
+    p "Das war knapp"
+
+# game/day27.rpy:1249
+translate german day27_b_licking_567893c3:
+
+    # p "{i}(And I fear the moment has been ruined.)"
+    p "{i}(Und ich fürchte, der Moment ist ruiniert)"
+
+# game/day27.rpy:1250
+translate german day27_b_licking_58cce666:
+
+    # b "I really need to get back to work."
+    b "Ich muss wirklich zurück an die Arbeit"
+
+# game/day27.rpy:1255
+translate german day27_b_licking_877900df:
+
+    # p "You may, but the vibrator remains on."
+    p "Du darfst, aber der Vibrator bleibt an"
+
+# game/day27.rpy:1257
+translate german day27_b_licking_c39bb92f:
+
+    # b "What? No!"
+    b "Was? Nein!"
+
+# game/day27.rpy:1258
+translate german day27_b_licking_e096b0f3:
+
+    # p "Yes, at the lowest setting, a nice background hum while you continue working."
+    p "Ja, auf der niedrigsten Stufe ein nettes Hintergrundsummen, während Sie weiterarbeiten"
+
+# game/day27.rpy:1259
+translate german day27_b_licking_ef0da038:
+
+    # b "But..."
+    b "Aber"
+
+# game/day27.rpy:1260
+translate german day27_b_licking_2dab4ee2:
+
+    # p "You'll love it."
+    p "Du wirst es lieben"
+
+# game/day27.rpy:1262
+translate german day27_b_licking_a1d34c97:
+
+    # "{i}Dejected, [b_name] leaves the office, the toy still vibrating in her pussy. You decide to head home."
+    "{i}Niedergeschlagen verlässt [b_name] das Büro, das Spielzeug immer noch in ihrer Muschi vibrierend Sie beschließen, nach Hause zu gehen"
+
+# game/day27.rpy:1265
+translate german day27_b_licking_981af234:
+
+    # "{i}You toy with the idea of turning the vibrator on again, but decide to give [b_name] a break."
+    "{i}Sie spielen mit dem Gedanken, den Vibrator wieder einzuschalten, beschließen aber, [b_name] eine Pause zu gönnen."
+# game/day27.rpy:1266
+translate german day27_b_licking_dfa11d19:
+
+    # p "You may. I've turned the vibrator off for now, but keep it in at all times."
+    p "Du darfst, ich habe den Vibrator jetzt ausgeschaltet, aber behalte ihn immer an"
+
+# game/day27.rpy:1267
+translate german day27_b_licking_40179f03:
+
+    # b "Yeah, yeah."
+    b "Ja, ja"
+
+# game/day27.rpy:1269
+translate german day27_b_licking_c556ba13:
+
+    # "{i}After she leaves the office, you head back home."
+    "{i}Nachdem sie das Büro verlassen hat, gehst du nach Hause"
+
+# game/day27.rpy:1284
+translate german day27_flashback_sex_c5a86a79:
+
+    # s "There's also the matter of teaching you."
+    s "Es geht auch darum, dich zu unterrichten"
+
+# game/day27.rpy:1285
+translate german day27_flashback_sex_5c6e3bee:
+
+    # s "You've proven to be a quick learner, but think of what you'll be able to show her when you've had a little more practice with me."
+    s "Du hast bewiesen, dass du schnell lernst, aber stell dir vor, was du ihr zeigen kannst, wenn du ein bisschen mehr Übung mit mir hast."
+# game/day27.rpy:1286
+translate german day27_flashback_sex_eca6528f:
+
+    # s "You already know how to pleasure a woman with your fingers, but there's more to be learned..."
+    s "Du weißt bereits, wie du eine Frau mit deinen Fingern befriedigen kannst, aber es gibt noch mehr zu lernen"
+
+# game/day27.rpy:1288
+translate german day27_flashback_sex_b31534e5:
+
+    # "{i}With those words, she freed my cock which had grown erect as soon as I looked at her naked body."
+    "{i}Mit diesen Worten befreite sie meinen Schwanz, der sich beim Anblick ihres nackten Körpers sofort aufgerichtet hatte."
+# game/day27.rpy:1289
+translate german day27_flashback_sex_f9e820eb:
+
+    # s "You should attune yourself to your desires."
+    s "Du solltest dich auf deine Wünsche einstimmen"
+
+# game/day27.rpy:1290
+translate german day27_flashback_sex_1ba01317:
+
+    # s "You clearly want me, you want her, you want Sabine... What if you can have all of that?"
+    "Du willst eindeutig mich, du willst sie, du willst Sabine, was, wenn du das alles haben kannst?"
+
+# game/day27.rpy:1291
+translate german day27_flashback_sex_59e7a770:
+
+    # s "Wouldn't that be nice?"
+    s "Wäre das nicht schön?"
+
+# game/day27.rpy:1296
+translate german day27_flashback_sex_bffc2941:
+
+    # "{i}She lowered her head to my cock and wrapped her lips around my glans. Her wet tongue darted over the tip of my dick and she started sucking."
+    "{i}Sie senkte ihren Kopf zu meinem Schwanz und legte ihre Lippen um meine Eichel. Ihre feuchte Zunge fuhr über die Spitze meines Schwanzes und sie begann zu saugen."
+# game/day27.rpy:1298
+translate german day27_flashback_sex_146db4ff:
+
+    # s "Have you ever felt that before?"
+    s "Hast du das schon mal gefühlt?"
+
+# game/day27.rpy:1299
+translate german day27_flashback_sex_580a0a0b:
+
+    # p "N-n-no..."
+    p "N-n-nein"
+
+# game/day27.rpy:1300
+translate german day27_flashback_sex_b9e17a77:
+
+    # "{i}Sasha took my entire length in her warm mouth and traced the veins of my cock with the tip of her tongue."
+    "{i}Sasha nahm meine ganze Länge in ihren warmen Mund und fuhr mit ihrer Zungenspitze die Adern meines Schwanzes nach."
+# game/day27.rpy:1301
+translate german day27_flashback_sex_bbdaf767:
+
+    # s "Would you like to fuck me?"
+    s "Willst du mich ficken?"
+
+# game/day27.rpy:1302
+translate german day27_flashback_sex_afb6c27b:
+
+    # p "Here?! In dad's bedroom?!"
+    p "Hier?! In Papas Schlafzimmer?!"
+
+# game/day27.rpy:1303
+translate german day27_flashback_sex_cb28ce69:
+
+    # s "That's the plan, if you're game."
+    s "Das ist der Plan, wenn du dabei bist"
+
+# game/day27.rpy:1304
+translate german day27_flashback_sex_fcad6d87:
+
+    # p "I-i... Y-yes!"
+    p "I-i J-ja!"
+
+# game/day27.rpy:1306
+translate german day27_flashback_sex_a8b746f9:
+
+    # r "But Miley!"
+    r "Aber Miley!"
+
+# game/day27.rpy:1307
+translate german day27_flashback_sex_fa2718d7:
+
+    # p "I've learned not to argue with a woman who has my cock in her mouth."
+    p "Ich habe gelernt, nicht mit einer Frau zu streiten, die meinen Schwanz im Mund hat"
+
+# game/day27.rpy:1308
+translate german day27_flashback_sex_c4ff4ad4:
+
+    # r "Fair point."
+    r "Guter Punkt"
+
+# game/day27.rpy:1312
+translate german day27_flashback_sex_b8a8a112:
+
+    # "{i}She pulled my penis out of her mouth, a string of saliva still connecting her lips and my glans, and lay before me with her legs spread."
+    "{i}Sie zog meinen Penis aus ihrem Mund, ein Speichelfaden verband noch ihre Lippen mit meiner Eichel, und legte sich mit gespreizten Beinen vor mich."
+# game/day27.rpy:1313
+translate german day27_flashback_sex_9062a2b3:
+
+    # s "Taste me, before I ride you."
+    s "Probier mich, bevor ich dich reite"
+
+# game/day27.rpy:1319
+translate german day27_flashback_sex_fff7add5:
+
+    # "{i}Any thought of young love forgotten, I obliged and plunged my tongue inside her pussy."
+    "{i}Jeder Gedanke an die junge Liebe war vergessen und ich stürzte mich mit meiner Zunge in ihre Muschi."
+# game/day27.rpy:1320
+translate german day27_flashback_sex_025deb73:
+
+    # s "Aaaah, very direct. Remember when you fingered me, be subtle."
+    s "Aaaah, sehr direkt. Erinnerst du dich, als du mich gefingert hast, sei subtil."
+
+# game/day27.rpy:1321
+translate german day27_flashback_sex_ddcc8bb7:
+
+    # "{i}Tempering my initial voraciousness, I began to lick her pussy lips and concentrate my attention on her clitoris."
+    "{i}Ich zügelte meine anfängliche Gier und begann, ihre Schamlippen zu lecken und meine Aufmerksamkeit auf ihren Kitzler zu richten."
+# game/day27.rpy:1322
+translate german day27_flashback_sex_f5c24192:
+
+    # "{i}I had never tasted a woman before, so Sasha's mix of bath soap and saltiness surprised and overwhelmed me instantly."
+    "{i}Ich hatte noch nie eine Frau gekostet und Sashas Mischung aus Badeseife und Salzigkeit hat mich sofort überrascht und überwältigt."
+# game/day27.rpy:1323
+translate german day27_flashback_sex_42e8f876:
+
+    # s "Good boy, make me ready for you."
+    s "Guter Junge, mach mich bereit für dich"
+
+# game/day27.rpy:1325
+translate german day27_flashback_sex_863c430e:
+
+    # "{i}I worked hard on her pussy and she allowed me to explore every little fold of her sex, guiding me by firmly holding my head in her hands."
+    "{i}Ich arbeitete hart an ihrer Muschi und sie erlaubte mir, jede kleine Falte ihres Geschlechts zu erforschen, indem sie meinen Kopf fest in ihren Händen hielt."
+
+# game/day27.rpy:1326
+translate german day27_flashback_sex_181a4fa1:
+
+    # s "That's it, right there."
+    s "Das ist es gerade"
+
+# game/day27.rpy:1327
+translate german day27_flashback_sex_8d92683f:
+
+    # s "Mmmmm."
+    s "Mmmmm"
+
+# game/day27.rpy:1331
+translate german day27_flashback_sex_d3367d55:
+
+    # s "That's enough for now."
+    s "Das reicht für jetzt"
+
+# game/day27.rpy:1332
+translate german day27_flashback_sex_7286508b:
+
+    # s "Just focus for the next part, don't allow yourself to cum too soon."
+    s "Konzentriere dich auf den nächsten Teil und erlaube dir nicht, zu früh abzuspritzen"
+
+# game/day27.rpy:1333
+translate german day27_flashback_sex_3503f938:
+
+    # s "Let me lead, you can have the initiative some other time, when you're more skilled."
+    s "Lass mich führen, du kannst ein anderes Mal die Initiative ergreifen, wenn du mehr Erfahrung hast."
+# game/day27.rpy:1334
+translate german day27_flashback_sex_20d8934c:
+
+    # p "It's just moving up and down, isn't it?"
+    p "Es bewegt sich nur auf und ab, nicht wahr?"
+
+# game/day27.rpy:1335
+translate german day27_flashback_sex_9de62a97:
+
+    # s "Spoken like a boy who's only watched a vagina being penetrated on video."
+    s "Gesprochen wie ein Junge, der nur auf Video gesehen hat, wie eine Vagina penetriert wird"
+
+# game/day27.rpy:1336
+translate german day27_flashback_sex_ba1863c8:
+
+    # s "Try not to cum immediately, okay?"
+    s "Versuchen Sie, nicht sofort zu kommen, okay?"
+
+# game/day27.rpy:1338
+translate german day27_flashback_sex_7d248ee6:
+
+    # "{i}I really didn't get why she was making all that fuss until she spread her pussy lips and lowered herself onto my cock."
+    "{i}Ich habe wirklich nicht verstanden, warum sie so ein Theater macht, bis sie ihre Schamlippen gespreizt und sich auf meinen Schwanz gesenkt hat."
+# game/day27.rpy:1339
+translate german day27_flashback_sex_3e6e3c86:
+
+    # "{i}The act of entering her warm wet hole nearly made me shoot my load inside of her. Sasha noticed my glazed look and halted her descent on my shaft right away."
+    "{i}Der Akt des Eindringens in ihr warmes, feuchtes Loch ließ mich fast meine Ladung in ihr abschießen. Sasha bemerkte meinen glasigen Blick und stoppte sofort ihren Abstieg auf meinem Schaft."
+# game/day27.rpy:1341
+translate german day27_flashback_sex_486fc380:
+
+    # p "F-f-fuck, Sasha!"
+    p "F-F-Fick Sasha!"
+
+# game/day27.rpy:1342
+translate german day27_flashback_sex_408c37ea:
+
+    # s "Don't you dare, boy, we haven't even started!"
+    s "Wage es nicht, Junge, wir haben noch nicht einmal angefangen!"
+
+# game/day27.rpy:1343
+translate german day27_flashback_sex_5d2f4abc:
+
+    # "{i}I tried to think of anything but sex, and after a procession of deformed gnomes, the entire plot of The Great Gatsby and several theorems from Euclidean geometry had passed my mind's eye, I felt confident enough for Sasha to continue."
+    "{i}Ich versuchte, an etwas anderes als an Sex zu denken, und nachdem eine Prozession deformierter Zwerge, die gesamte Handlung von The Great Gatsby und einige Theoreme der euklidischen Geometrie an meinem geistigen Auge vorbeigezogen waren, fühlte ich mich sicher genug, dass Sasha fortfahren konnte."
+# game/day27.rpy:1350
+translate german day27_flashback_sex_f388db08:
+
+    # s "Try to focus on the ways my cunt is stimulating your cock."
+    s "Versuchen Sie, sich darauf zu konzentrieren, wie meine Fotze Ihren Schwanz stimuliert."
+    
+# game/day27.rpy:1351
+translate german day27_flashback_sex_426e3322:
+
+    # "{i}Very slowly, Sasha started to move, the ribs of her vaginal tract massaging my entire shaft."
+    "{i}Ganz langsam begann Sasha die Rippen ihres Vaginaltraktes zu bewegen und massierte meinen gesamten Schaft."
+
+# game/day27.rpy:1352
+translate german day27_flashback_sex_1dba4ceb:
+
+    # s "When you're more experienced, you can fully give yourself over to pleasure."
+    s "Wenn man mehr Erfahrung hat, kann man sich ganz dem Vergnügen hingeben"
+
+# game/day27.rpy:1353
+translate german day27_flashback_sex_77a6371f:
+
+    # s "Your goal should always be to heighten the pleasure of your girl."
+    s "Dein Ziel sollte immer sein, das Vergnügen deines Mädchens zu steigern"
+
+# game/day27.rpy:1354
+translate german day27_flashback_sex_544b034c:
+
+    # s "She'll get wetter and wetter..."
+    s "Sie wird nasser und nasser"
+
+# game/day27.rpy:1355
+translate german day27_flashback_sex_58db5a14:
+
+    # s "Maybe she'll orgasm..."
+    s "Vielleicht kommt sie zum Orgasmus"
+
+# game/day27.rpy:1356
+translate german day27_flashback_sex_0d029f3e:
+
+    # s "Mmmmm..."
+    s "Mmmmm"
+
+# game/day27.rpy:1358
+translate german day27_flashback_sex_485f4ac7:
+
+    # s "That, in turn, will increase your pleasure as well."
+    s "Das wiederum wird auch Ihr Vergnügen steigern"
+
+# game/day27.rpy:1359
+translate german day27_flashback_sex_d2614141:
+
+    # s "Measure your thrusts and listen to your partner. To her moans and body language."
+    s "Messen Sie Ihre Stöße und hören Sie auf Ihre Partnerin, auf ihr Stöhnen und ihre Körpersprache."
+
+# game/day27.rpy:1360
+translate german day27_flashback_sex_910977f0:
+
+    # "{i}Mesmerized by her voice and the dirty things she told me, I let her use my cock for her pleasure and tried not to fill her up prematurely."
+    "{i}Fasziniert von ihrer Stimme und den schmutzigen Dingen, die sie mir erzählte, ließ ich sie meinen Schwanz zu ihrem Vergnügen benutzen und versuchte, sie nicht zu früh auszufüllen."
+# game/day27.rpy:1362
+translate german day27_flashback_sex_c62166ae:
+
+    # s "When she's nearing her orgasms, a few quick thrusts might send her over the edge."
+    s "Wenn sie kurz vor dem Orgasmus steht, können ein paar schnelle Stöße sie über den Rand bringen"
+
+# game/day27.rpy:1363
+translate german day27_flashback_sex_2c39b0d4:
+
+    # s "And as she orgasms, try to fuck her deeply, to prolong her pleasure."
+    s "Und wenn sie zum Orgasmus kommt, versuche sie tief zu ficken, um ihr Vergnügen zu verlängern"
+
+# game/day27.rpy:1364
+translate german day27_flashback_sex_5b51375b:
+
+    # s "Fucking her hard and fast should never be the first thing you do, unless the situation calls for it, or she asks you to."
+    s "Sie hart und schnell zu ficken, sollte nie das erste sein, was du tust, es sei denn, die Situation erfordert es oder sie bittet dich darum."
+
+# game/day27.rpy:1365
+translate german day27_flashback_sex_eafc5437:
+
+    # s "You're not some porn actor jackhammering a worn out pussy, you're a lover."
+    s "Du bist kein Pornodarsteller, der eine abgenutzte Muschi mit dem Presslufthammer bearbeitet, du bist ein Liebhaber"
+
+# game/day27.rpy:1366
+translate german day27_flashback_sex_819c61ee:
+
+    # p "S-s-sasha?!"
+    p "S-s-sasha?!"
+
+# game/day27.rpy:1367
+translate german day27_flashback_sex_5396f74e:
+
+    # s "Yes, dear?"
+    s "Ja, Liebes?"
+
+# game/day27.rpy:1368
+translate german day27_flashback_sex_a977924e:
+
+    # p "I-I can't..."
+    p "Ich-Ich kann nicht"
+# game/day27.rpy:1369
+translate german day27_flashback_sex_530f3be7:
+
+    # s "Do you want to cum inside me, sweetheart?"
+    s "Willst du in mir abspritzen, mein Schatz?"
+
+# game/day27.rpy:1370
+translate german day27_flashback_sex_07d6a258:
+
+    # p "Y-y-y..."
+    p "Y-y-y"
+
+# game/day27.rpy:1371
+translate german day27_flashback_sex_09b8efae:
+
+    # s "Go ahead, let it all go!"
+    s "Nur zu, lass alles raus!"
+
+# game/day27.rpy:1379
+translate german day27_flashback_sex_6891a8bb:
+
+    # "{i}With clenched teeth I released what felt like a river of seed inside her pussy. I'm not entirely sure what she did while I was orgasming, but it kept me going for a long time."
+    "{i}Mit zusammengebissenen Zähnen entließ ich etwas, das sich wie ein Strom von Samen in ihrer Muschi anfühlte. Ich bin mir nicht ganz sicher, was sie tat, während ich einen Orgasmus hatte, aber es hielt mich für eine lange Zeit aufrecht."
+# game/day27.rpy:1381
+translate german day27_flashback_sex_2f5381cb:
+
+    # "{i}Cum leaked from her pussy onto my cock and my father's bed. I held her close, clenching her body desperately in my arms, my cock still spasming inside her. I was a virgin no longer."
+    "{i}Sperma tropfte aus ihrer Muschi auf meinen Schwanz und auf das Bett meines Vaters, ich hielt sie fest und presste ihren Körper verzweifelt in meine Arme, mein Schwanz krampfte immer noch in ihr, ich war keine Jungfrau mehr"
+

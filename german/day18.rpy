@@ -3143,3 +3143,743 @@ translate german day18_m_walking_choices_66e33e83:
 
     # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
     "{i}[b_name] geht auf Zehenspitzen weg und lässt dich allein auf der Couch zurück, nachdem du dich hingelegt hast, schläfst du bald wieder ein."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day18.rpy:636
+translate german day18_b_bj_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Ist [b_name] in dieser Szene ein Voll-Sub?"
+
+# game/day18.rpy:640
+translate german day18_b_bj_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] völlig unterwürfig"
+
+# game/day18.rpy:643
+translate german day18_b_bj_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nicht völlig unterwürfig"
+
+# game/day18.rpy:650
+translate german day18_b_bj_597c998b:
+
+    # p "I've been trudging around the jungle all day with a busty, half nude woman. So I've been building up some sexual energy that needs releasing."
+    p "Ich bin den ganzen Tag mit einer vollbusigen, halbnackten Frau durch den Dschungel gestapft, also habe ich sexuelle Energie aufgestaut, die freigesetzt werden muss"
+
+# game/day18.rpy:652
+translate german day18_b_bj_dceef590:
+
+    # b "You mean, [m_name]?"
+    b "Sie meinen [m_name]?"
+
+# game/day18.rpy:653
+translate german day18_b_bj_6b2311bf:
+
+    # p "Who else?"
+    p "Wer noch?"
+
+# game/day18.rpy:655
+translate german day18_b_bj_a5163d8e:
+
+    # b "So you're getting off on seeing your own mother naked?"
+    b "Es macht dich also an, deine eigene Mutter nackt zu sehen?"
+
+# game/day18.rpy:656
+translate german day18_b_bj_8120ee4c:
+
+    # p "Considering the things we've done together, that surprises you?"
+    p "Wenn man bedenkt, was wir schon alles zusammen gemacht haben, überrascht dich das?"
+
+# game/day18.rpy:657
+translate german day18_b_bj_c6faf0b0:
+
+    # b "Pffff..."
+    b "Pffff"
+
+# game/day18.rpy:660
+translate german day18_b_bj_74222b7b:
+
+    # b "So I guess you want me to touch your dingus again?"
+    b "Du willst also, dass ich deinen Dingsbums wieder anfasse?"
+
+# game/day18.rpy:661
+translate german day18_b_bj_ddc4a456:
+
+    # p "Sort of..."
+    p "Mehr oder weniger"
+
+# game/day18.rpy:663
+translate german day18_b_bj_f06389ac:
+
+    # b "So I guess you want me to touch your little dingus again?"
+    b "Du willst also, dass ich deinen kleinen Dingsbums wieder anfasse?"
+
+# game/day18.rpy:664
+translate german day18_b_bj_2668fb22:
+
+    # p "Sort of... And I don't think you'll be calling it little very soon..."
+    p "Irgendwie, und ich glaube nicht, dass du es bald klein nennen wirst"
+
+# game/day18.rpy:665
+translate german day18_b_bj_855ac1ef:
+
+    # p "You're going to use your mouth."
+    p "Du wirst deinen Mund benutzen"
+
+# game/day18.rpy:667
+translate german day18_b_bj_62702272:
+
+    # b "You're crazy. Absolutely crazy."
+    b "Du bist verrückt Absolut verrückt"
+
+# game/day18.rpy:668
+translate german day18_b_bj_d640b5c8:
+
+    # p "No, I'm very horny and you're going to be an obedient little cocksucker."
+    p "Nein, ich bin sehr geil und du wirst ein gehorsamer kleiner Schwanzlutscher sein"
+
+# game/day18.rpy:669
+translate german day18_b_bj_d69ee8f6:
+
+    # "{i}[b_name] doesn't move when you pull down your pants."
+    "{i}[b_name] bewegt sich nicht, wenn du deine Hose runterziehst"
+
+# game/day18.rpy:670
+translate german day18_b_bj_89912316:
+
+    # p "Come closer. And lose that bra."
+    p "Komm näher und zieh den BH aus"
+
+# game/day18.rpy:672
+translate german day18_b_bj_55ba990d:
+
+    # p "Now, make me cum."
+    p "Jetzt lass mich abspritzen"
+
+# game/day18.rpy:674
+translate german day18_b_bj_efe857be:
+
+    # b "Fuck you."
+    b "Fick dich"
+
+# game/day18.rpy:680
+translate german day18_b_bj_8b2022b3:
+
+    # "{i}Your sister licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}Deine Schwester leckt die Spitze deines Schwanzes, als ob sie ihn schmecken wollte. Die Berührung ihrer feuchten Zunge auf deiner Eichel bringt dich fast zum Abspritzen."
+# game/day18.rpy:682
+translate german day18_b_bj_5996f609:
+
+    # "{i}[b_name] licks the tip of your cock, as if to taste it. The touch of her wet tongue on your glans nearly makes you cum."
+    "{i}[b_name] leckt die Spitze deines Schwanzes, als wolle sie ihn schmecken Die Berührung ihrer feuchten Zunge auf deiner Eichel bringt dich fast zum Abspritzen"
+
+# game/day18.rpy:688
+translate german day18_b_bj_19cf1c5d:
+
+    # p "That's it, take it in your sweet little mouth. Come on, use your tongue a little."
+    p "So ist's gut, nimm ihn in deinen süßen kleinen Mund. Komm, benutze deine Zunge ein wenig."
+# game/day18.rpy:690
+translate german day18_b_bj_60c106f6:
+
+    # "{i}You feel her tongue dance around your shaft."
+    "{i}Du spürst ihre Zunge um deinen Schaft tanzen"
+
+# game/day18.rpy:692
+translate german day18_b_bj_488997c6:
+
+    # p "Good, make it all wet. How does it taste, sis?"
+    p "Gut, mach es ganz nass, wie schmeckt es, Schwesterchen?"
+
+# game/day18.rpy:694
+translate german day18_b_bj_8d14e544:
+
+    # p "Good, make it all wet. How does it taste, [b_name]?"
+    p "Gut, mach es ganz nass Wie schmeckt es [b_name]?"
+
+# game/day18.rpy:697
+translate german day18_b_bj_0bbfd3a0:
+
+    # b "Mmmmmm."
+    b "Mmmmmm"
+
+# game/day18.rpy:698
+translate german day18_b_bj_d6523b99:
+
+    # p "Are you going to suck me dry, I bet you are."
+    p "Willst du mich leer saugen, ich wette, das tust du"
+
+# game/day18.rpy:700
+translate german day18_b_bj_4e2802f0:
+
+    # b "Fucking gross."
+    b "Verdammt eklig"
+
+# game/day18.rpy:701
+translate german day18_b_bj_15254aa1:
+
+    # p "I doubt that. But make it clean then, start sucking."
+    p "Das bezweifle ich, aber mach es sauber und fang an zu saugen"
+
+# game/day18.rpy:703
+translate german day18_b_bj_a1045253:
+
+    # "{i}Her head moves up and down and all that can be heard from [b_name] are slobbering sounds as she blows you."
+    "{i}Ihr Kopf bewegt sich auf und ab und alles, was man von [b_name] hören kann, sind sabbernde Geräusche, während sie dir einen bläst"
+
+# game/day18.rpy:704
+translate german day18_b_bj_6e5b2ff3:
+
+    # p "Yes, keep going."
+    p "Ja, mach weiter"
+
+# game/day18.rpy:705
+translate german day18_b_bj_3ed5316d:
+
+    # "{i}[b_name] is completely focused on sucking your dick and trying not to gag because of your length."
+    "{i}[b_name] konzentriert sich voll und ganz darauf, deinen Schwanz zu lutschen und versucht, wegen deiner Länge nicht zu würgen"
+
+# game/day18.rpy:706
+translate german day18_b_bj_145d8d79:
+
+    # p "You're good at this, have you done this before?"
+    p "Du kannst das gut, hast du das schon mal gemacht?"
+
+# game/day18.rpy:711
+translate german day18_b_bj_df44d03d:
+
+    # b "No!"
+    b "Nein!"
+
+# game/day18.rpy:713
+translate german day18_b_bj_fe8167af:
+
+    # p "You're a natural then. Or did you practice with your dildo?"
+    p "Du bist also ein Naturtalent oder hast du mit deinem Dildo geübt?"
+
+# game/day18.rpy:715
+translate german day18_b_bj_2993e132:
+
+    # b "Maybe..."
+    b "Vielleicht"
+
+# game/day18.rpy:716
+translate german day18_b_bj_0e622b61:
+
+    # p "That explains it... That dildo has seen a lot of use, hasn't it? It has been in your ass before, hasn't it, before we did it together?"
+    p "Das erklärt es. Der Dildo ist schon oft benutzt worden, nicht wahr? Er war schon einmal in deinem Arsch, nicht wahr, bevor wir es zusammen gemacht haben?"
+
+# game/day18.rpy:717
+translate german day18_b_bj_850ef128:
+
+    # b "..."
+    b "..."
+
+# game/day18.rpy:718
+translate german day18_b_bj_36a752a2:
+
+    # p "Answer me."
+    p "Antworte mir"
+
+# game/day18.rpy:720
+translate german day18_b_bj_2993e132_1:
+
+    # b "Maybe..."
+    b "Vielleicht"
+
+# game/day18.rpy:722
+translate german day18_b_bj_ddd8abed:
+
+    # b "Yes."
+    b "Ja"
+
+# game/day18.rpy:723
+translate german day18_b_bj_3a3dced0:
+
+    # p "I thought as much. So all that shock about pushing it inside your little ass was just for show..."
+    p "Das habe ich mir schon gedacht. Der ganze Schock, ihn in deinen kleinen Arsch zu schieben, war nur Show."
+# game/day18.rpy:724
+translate german day18_b_bj_df44d03d_1:
+
+    # b "No!"
+    b "Nein!"
+
+# game/day18.rpy:726
+translate german day18_b_bj_45f1a9a8:
+
+    # p "My sister, the little anal slut."
+    p "Meine Schwester, die kleine Analschlampe"
+
+# game/day18.rpy:728
+translate german day18_b_bj_d60cf75d:
+
+    # p "My little anal slut."
+    p "Meine kleine Analschlampe"
+
+# game/day18.rpy:731
+translate german day18_b_bj_255836c1:
+
+    # b "I'm not... I'm..."
+    b "Ich bin nicht ich bin"
+
+# game/day18.rpy:733
+translate german day18_b_bj_b733eaa1:
+
+    # b "Fuck you!"
+    b "Fick dich!"
+
+# game/day18.rpy:735
+translate german day18_b_bj_429f4db2:
+
+    # p "You're a natural then."
+    p "Du bist also ein Naturtalent"
+
+# game/day18.rpy:740
+translate german day18_b_bj_cd4f9a43:
+
+    # p "Keep going, please. Your mouth is so good."
+    p "Mach bitte weiter Dein Mund ist so gut"
+
+# game/day18.rpy:742
+translate german day18_b_bj_d9162ddc:
+
+    # "{i}You sister returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}Deine Schwester kehrt zu ihrem Schwanzlutschen zurück, mit neuer Energie und der klaren Absicht, dich zum Abspritzen zu bringen."
+# game/day18.rpy:744
+translate german day18_b_bj_efceec8a:
+
+    # "{i}[b_name] returns to her cock sucking with renewed energy, clearly intent on making you cum."
+    "{i}[b_name] kehrt mit neuer Energie zu ihrem Schwanzlutschen zurück, offensichtlich mit der Absicht, dich zum Abspritzen zu bringen."
+# game/day18.rpy:747
+translate german day18_b_bj_9a7043b3:
+
+    # p "I see our talk of anal play has made you extra motivated. Good, make me come with your mouth."
+    p "Ich sehe, unser Gespräch über Analspiele hat dich besonders motiviert. Gut, dass du mich mit dem Mund kommen lässt."
+# game/day18.rpy:749
+translate german day18_b_bj_72ae433c:
+
+    # p "You must be loving it, you seem so motivated all of a sudden. Good, make me cum with your mouth."
+    p "Das muss dir gefallen, du scheinst auf einmal so motiviert zu sein. Gut, dass du mich mit deinem Mund abspritzen kannst."
+# game/day18.rpy:751
+translate german day18_b_bj_f09299cc:
+
+    # "{i}[b_name] stimulates your throbbing member and when she reaches the tip of your cock, her tongue makes circular motions which ultimately send you over the edge."
+    "{i}[b_name] stimuliert dein pochendes Glied und wenn sie die Spitze deines Schwanzes erreicht, macht ihre Zunge kreisende Bewegungen, die dich schließlich zum Höhepunkt bringen"
+
+# game/day18.rpy:758
+translate german day18_b_bj_f204422a:
+
+    # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. Your sister clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
+    "{i}Ohne Vorwarnung schießt du eine große Ladung ab, während [b_name] die gesamte Länge deines Schwanzes in ihrem warmen Mund hat. Deine Schwester hat offensichtlich nicht damit gerechnet und fängt an, Sperma zu husten, das aus ihren Mundwinkeln läuft."
+# game/day18.rpy:760
+translate german day18_b_bj_5953e328:
+
+    # "{i}Without warning, you shoot a big load while [b_name] has the entire length of your dick inside her warm mouth. She clearly didn't expect it and starts coughing, semen streaming from the corners of her mouth."
+    "{i}Ohne Vorwarnung schießt du eine große Ladung ab, während [b_name] die gesamte Länge deines Schwanzes in ihrem warmen Mund hat. Sie hat offensichtlich nicht damit gerechnet und fängt an zu husten, während Sperma aus ihren Mundwinkeln läuft."
+# game/day18.rpy:764
+translate german day18_b_bj_aa21c952:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaaaah"
+
+# game/day18.rpy:768
+translate german day18_b_bj_612d0d73:
+
+    # b "Gaaah! Aaagh!"
+    b "Gaaah! Aaagh!"
+
+# game/day18.rpy:769
+translate german day18_b_bj_cccb8f1e:
+
+    # "{i}[b_name] spits most of your cum on the floor and looks at you angrily."
+    "{i}[b_name] spuckt das meiste deiner Wichse auf den Boden und schaut dich wütend an"
+
+# game/day18.rpy:772
+translate german day18_b_bj_283316f2:
+
+    # b "You didn't warn me."
+    b "Du hast mich nicht gewarnt"
+
+# game/day18.rpy:774
+translate german day18_b_bj_3196d99b:
+
+    # b "You could've fucking warned me!"
+    b "Du hättest mich verdammt nochmal warnen können!"
+
+# game/day18.rpy:775
+translate german day18_b_bj_1579c22c:
+
+    # p "I'm full of surprises."
+    p "Ich stecke voller Überraschungen"
+
+# game/day18.rpy:776
+translate german day18_b_bj_5a37ab2c:
+
+    # p "But next time, you'll swallow when I tell you to."
+    p "Aber das nächste Mal schluckst du, wenn ich es dir sage"
+
+# game/day18.rpy:777
+translate german day18_b_bj_297c5af6:
+
+    # b "Hrmpf!"
+    b "Hrmpf!"
+
+# game/day18.rpy:792
+translate german day18_b_bj_a62c599d:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from your sister's cheeks. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Im letzten Moment ziehst du deinen Schwanz aus ihrem warmen Mund und spritzt ihr eine große Ladung Sperma ins Gesicht Sperma spritzt in ihr Haar und tropft von den Wangen deiner Schwester Du kannst an ihrem geschockten Gesichtsausdruck erkennen, dass sie das nicht erwartet hat."
+# game/day18.rpy:794
+translate german day18_b_bj_b2e22555:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her face with a big load of cum. Semen spurts into her hair and drips from [b_name]'s cheeks. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Im letzten Moment ziehst du deinen Schwanz aus ihrem warmen Mund und spritzt ihr eine große Ladung Sperma ins Gesicht Sperma spritzt in ihr Haar und tropft von [b_name]'s Wangen Du kannst an ihrem schockierten Gesichtsausdruck erkennen, dass sie das nicht erwartet hat"
+
+# game/day18.rpy:795
+translate german day18_b_bj_aa21c952_1:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaaaah"
+
+# game/day18.rpy:799
+translate german day18_b_bj_89e82a09:
+
+    # b "Are you done with me?"
+    b "Bist du fertig mit mir?"
+
+# game/day18.rpy:800
+translate german day18_b_bj_433e04fb:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Ich habe nichts mehr für dich übrig, wenn du das wissen willst"
+
+# game/day18.rpy:802
+translate german day18_b_bj_cdc94c97:
+
+    # b "Are you done degrading me?"
+    b "Bist du fertig damit, mich zu erniedrigen?"
+
+# game/day18.rpy:803
+translate german day18_b_bj_433e04fb_1:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Ich habe nichts mehr für dich übrig, wenn du das wissen willst"
+
+# game/day18.rpy:804
+translate german day18_b_bj_297c5af6_1:
+
+    # b "Hrmpf!"
+    b "Hrmpf!"
+
+# game/day18.rpy:819
+translate german day18_b_bj_9a8ba953:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto your sister's belly. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Im letzten Moment ziehst du deinen Schwanz aus ihrem warmen Mund und spritzt ihr eine große Ladung Sperma auf die Brust. Das Sperma tropft von ihren Brüsten auf den Bauch deiner Schwester."
+# game/day18.rpy:821
+translate german day18_b_bj_5feec302:
+
+    # "{i}At the last minute, you pull your dick out of her warm mouth and spray her chest with a big load of cum. Semen drips from her breasts onto [b_name]'s belly. You can tell from her shocked expression she clearly didn't expect it."
+    "{i}Im letzten Moment ziehst du deinen Schwanz aus ihrem warmen Mund und bespritzt ihre Brust mit einer großen Ladung Sperma Sperma tropft von ihren Brüsten auf [b_name]'s Bauch Du kannst an ihrem schockierten Gesichtsausdruck erkennen, dass sie das nicht erwartet hat"
+
+# game/day18.rpy:822
+translate german day18_b_bj_aa21c952_2:
+
+    # p "Aaaaaaaah"
+    p "Aaaaaaaaaah"
+
+# game/day18.rpy:826
+translate german day18_b_bj_89e82a09_1:
+
+    # b "Are you done with me?"
+    b "Bist du fertig mit mir?"
+
+# game/day18.rpy:827
+translate german day18_b_bj_433e04fb_2:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Ich habe nichts mehr für dich übrig, wenn du das wissen willst"
+
+# game/day18.rpy:829
+translate german day18_b_bj_cdc94c97_1:
+
+    # b "Are you done degrading me?"
+    b "Bist du fertig damit, mich zu erniedrigen?"
+
+# game/day18.rpy:830
+translate german day18_b_bj_433e04fb_3:
+
+    # p "I have nothing left for you, if that's what you're asking."
+    p "Ich habe nichts mehr für dich übrig, wenn du das wissen willst"
+
+# game/day18.rpy:831
+translate german day18_b_bj_297c5af6_2:
+
+    # b "Hrmpf!"
+    b "Hrmpf!"
+
+# game/day18.rpy:838
+translate german day18_b_bj_7b6e1f7f:
+
+    # "{i}Your sister tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
+    "{i}Deine Schwester geht auf Zehenspitzen weg und lässt dich allein auf der Couch zurück. Nachdem du dich hingelegt hast, schläfst du bald wieder ein."
+# game/day18.rpy:840
+translate german day18_b_bj_66e33e83:
+
+    # "{i}[b_name] tiptoes away, leaving you alone on the couch. After lying down, you soon fall asleep again."
+    "{i}[b_name] geht auf Zehenspitzen weg und lässt dich allein auf der Couch zurück, nachdem du dich hingelegt hast, schläfst du bald wieder ein"
+
+# game/day18.rpy:856
+translate german day18_maid_7b79069e:
+
+    # p "{i}(Let's see how our hero and his maid are doing...)"
+    p "{i}(Mal sehen, wie es unserem Helden und seinem Dienstmädchen geht)"
+
+# game/day18.rpy:858
+translate german day18_maid_1cb6ad89:
+
+    # p "{i}(Let's see what's in there... It says something about management on the cover.)"
+    p "{i}(Mal sehen, was da drin ist. Auf dem Umschlag steht etwas über Management)"
+
+# game/day18.rpy:866
+translate german day18_maid_39553420:
+
+    # "{i}“Clasping her closely against me, I murmured: 'Now, Alice darling, I think the time has come for you to surrender to me your maidenhead... for you to be my bride!' And I kissed her passionately.”"
+    "{i}”Ich drückte sie fest an mich und murmelte: 'Jetzt, Alice, mein Schatz, ist die Zeit gekommen, dass du mir deine Jungfräulichkeit übergibst, damit du meine Braut wirst!' Und ich küsste sie leidenschaftlich”"
+
+# game/day18.rpy:874
+translate german day18_maid_1322d82d:
+
+    # p "{i}(Hmmm, he's going to take her virginity. This could be interesting.)"
+    p "{i}(Hmmm, er wird ihr die Jungfräulichkeit nehmen, das könnte interessant werden)"
+
+# game/day18.rpy:876
+translate german day18_maid_6e093fa3:
+
+    # p "{i}(This is hardcore pornography... Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Das ist Hardcore-Pornografie Warum in aller Welt sollte [m_name] dieses schmutzige Zeug lesen?)"
+
+# game/day18.rpy:877
+translate german day18_maid_1b28feb2:
+
+    # p "{i}(But he's going to take her virginity. This could be an interesting read.)"
+    p "{i}(Aber er wird ihr die Jungfräulichkeit nehmen Das könnte eine interessante Lektüre sein)"
+
+# game/day18.rpy:879
+translate german day18_maid_e4284b4a:
+
+    # p "{i}(Everybody is at the beach right now and I feel I could rub one out right now while reading the book...)"
+    p "{i}(Alle sind gerade am Strand und ich habe das Gefühl, ich könnte mir jetzt eine rubbeln, während ich das Buch lese)"
+
+# game/day18.rpy:884
+translate german day18_maid_b1666fb9:
+
+    # p "{i}(Just for a little while then...)"
+    p "{i}(Nur für eine kurze Zeit also)"
+
+# game/day18.rpy:897
+translate german day18_maid_0c19f907:
+
+    # "{i}“I made as if to place her on her back, whispering: 'Open your legs, dear!' 'No! no! Jack!' Alice ejaculated, struggling to defend herself, and successfully resisting my attempt to roll her over on to her back, 'let me go, dear Jack!”"
+    "{i}Ich tat so, als wollte ich sie auf den Rücken legen und flüsterte: 'Öffne deine Beine, Liebes!' 'Nein! Nein! Jack!' Alice stieß einen Schrei aus, wehrte sich und widerstand erfolgreich meinem Versuch, sie auf den Rücken zu drehen: 'Lass mich los, Jack!'"
+
+# game/day18.rpy:898
+translate german day18_maid_b6c12ba2:
+
+    # "“... surely you have revenged yourself on me sufficiently!' And she endeavoured to rise.”"
+    "”Du hast dich doch sicher ausreichend an mir gerächt! Und sie bemühte sich, aufzustehen”"
+
+# game/day18.rpy:900
+translate german day18_maid_dcf543c7:
+
+    # "{i}“I held her down firmly and, in spite of her determined resistance, I got her on her back and myself on her. But she kept her legs so obstinately closed that in the position in which I was, I could not get mine between them.”"
+    "{i}Ich hielt sie fest und trotz ihres entschlossenen Widerstands konnte ich sie auf den Rücken legen und mich auf sie setzen. Aber sie hielt ihre Beine so hartnäckig geschlossen, dass ich in der Position, in der ich mich befand, meine nicht zwischen sie bekommen konnte."
+
+# game/day18.rpy:901
+translate german day18_maid_0bf1ed6d:
+
+    # "{i}“I began to get angry. Gripping her to me till her breasts flattened themselves against my chest, I raised my head and looked her sternly in the eyes.”"
+    "{i}Ich wurde wütend, drückte sie an mich, bis sich ihre Brüste an meine Brust schmiegten, hob den Kopf und sah ihr streng in die Augen."
+
+# game/day18.rpy:902
+translate german day18_maid_86deb0dd:
+
+    # "{i}“'Now, Alice, no more nonsense,' I said brusquely. 'I'm going to fuck you! Yield yourself at once to me and do as I tell you or I shall tie you down on this couch and violate you by force in a way you won't like!'”"
+    "{i}”'Jetzt Alice keinen Unsinn mehr', sagte ich barsch, 'ich werde dich ficken! Ergib dich mir sofort und tu, was ich dir sage, oder ich werde dich auf dieser Couch festbinden und dich mit Gewalt auf eine Weise vergewaltigen, die dir nicht gefallen wird!'”"
+
+# game/day18.rpy:903
+translate german day18_maid_e8e46ef9:
+
+    # "{i}“'Now once and for all, are you going to submit or are you not?'”"
+    "{i}''Wirst du dich jetzt ein für alle Mal fügen oder nicht?''"
+
+# game/day18.rpy:904
+translate german day18_maid_4b577491:
+
+    # "{i}“She closed her eyes in an agony of distress. 'Jack! ... Jack! ...' she murmured brokenly then stopped as if unable to speak in her emotion.”"
+    "{i}Sie schloss ihre Augen in einem Anfall von Verzweiflung: 'Jack!  Jack! ', murmelte sie brüchig und hielt dann inne, als könne sie in ihrer Erregung nicht mehr sprechen."
+
+# game/day18.rpy:913
+translate german day18_maid_5e04f2e6:
+
+    # p "{i}(I'm still so amazed that [m_name] likes to read this stuff, but I must admit that it gets me rock hard in no-time.)"
+    p "{i}(Ich bin immer noch so erstaunt, dass [m_name] dieses Zeug gerne liest, aber ich muss zugeben, dass es mich im Handumdrehen steinhart macht)"
+
+# game/day18.rpy:914
+translate german day18_maid_ef038b95:
+
+    # p "{i}(Let's skip ahead a bit.)"
+    p "{i}(Lassen Sie uns ein wenig vorspulen)"
+
+# game/day18.rpy:926
+translate german day18_maid_0f620af9:
+
+    # "{i}“Gripping her tightly, I got my stiff and excited prick against the lips of her cunt, then pushing steadily, I drove it into Alice, burying its head in her.”"
+    "{i}Ich packte sie fest und drückte meinen steifen und erregten Schwanz gegen die Lippen ihrer Fotze, dann schob ich ihn in Alice und vergrub seinen Kopf in ihr."
+
+# game/day18.rpy:927
+translate german day18_maid_26b87456:
+
+    # "{i}“Despite her fearful struggles and rapid movements of her buttocks and hips, I made another thrust, entering still further into her cunt, then felt myself blocked!”"
+    "{i}Trotz ihres ängstlichen Kampfes und der schnellen Bewegungen ihres Gesäßes und ihrer Hüften machte ich einen weiteren Stoß, drang noch weiter in ihre Fotze ein und spürte dann, dass ich blockiert war!"
+
+# game/day18.rpy:928
+translate german day18_maid_ede421a0:
+
+    # "{i}“Alice screamed agonisedly, 'Oh! ... oh! stop! ... you're hurting me!' throwing herself wildly about in her pain and despair, for she recognised that she was being violated!”"
+    "{i}”Alice schrie gequält: 'Oh! Oh! Hör auf! Du tust mir weh!' Sie warf sich in ihrem Schmerz und ihrer Verzweiflung wild um sich, denn sie erkannte, dass man ihr Gewalt antat!”"
+
+# game/day18.rpy:929
+translate german day18_maid_cd44c35a:
+
+    # "{i}“Knowing that it was her maiden membrane that was stopping my advance into her, and that this now was the last defence of her virginity, I rammed into her vigorously!”"
+    "{i}”In dem Wissen, dass es ihre Jungfernhäutchen waren, die mein Vordringen in sie aufhielten, und dass dies nun die letzte Verteidigung ihrer Jungfräulichkeit war, stieß ich mit aller Kraft in sie hinein!”"
+
+# game/day18.rpy:930
+translate german day18_maid_61024364:
+
+    # "{i}“Suddenly I felt something give way inside her and my prick glided well up her cunt, and it did not require the despairing shriek that came from Alice to tell me that I had broken through the last barriers and had conquered her virginity!”"
+    "{i}”Plötzlich spürte ich, wie etwas in ihr nachgab und mein Schwanz glitt in ihre Fotze und es bedurfte nicht des verzweifelten Schreis von Alice, um mir zu sagen, dass ich die letzten Barrieren durchbrochen und ihre Jungfräulichkeit erobert hatte!”"
+
+# game/day18.rpy:937
+translate german day18_maid_9e33b280:
+
+    # m "{i}(I could've sworn I packed the sunscreen before heading out. Must've left it in the apartment.)"
+    m "{i}(ich könnte schwören, dass ich die Sonnencreme eingepackt habe, bevor ich losgefahren bin, muss sie in der Wohnung vergessen haben)"
+
+# game/day18.rpy:942
+translate german day18_maid_a40d63b7:
+
+    # m "{i}(What the... [p_name]?!)"
+    m "{i}(Was zum [p_name]?!)"
+
+# game/day18.rpy:944
+translate german day18_maid_0c7f0877:
+
+    # m "{i}(Is my boy reading my book and masturbating?)"
+    m "{i}(Liest mein Junge mein Buch und masturbiert?)"
+
+# game/day18.rpy:946
+translate german day18_maid_c73ced24:
+
+    # m "{i}(Is [p_name] reading my book and masturbating?)"
+    m "{i}(Liest [p_name] mein Buch und masturbiert?)"
+
+# game/day18.rpy:955
+translate german day18_maid_147d18b0:
+
+    # "{i}“Oh! my exultation! At last I had ravished Alice, I had captured her maidenhead, and was now actually fucking her in spite of herself! She, poor girl, lay beneath me, tightly clasped in my arms, a prey to the keenest shame...”"
+    "{i}Oh! mein Hochgefühl! Endlich hatte ich Alice geschändet, ich hatte ihre Jungfräulichkeit erobert und fickte sie nun tatsächlich gegen ihren Willen! Das arme Mädchen lag unter mir, fest umklammert in meinen Armen, eine Beute der größten Schande."
+
+# game/day18.rpy:956
+translate german day18_maid_ed041de3:
+
+    # "{i}“...deprived of her maidenhead, transfixed with my prick, her cunt suffering martyrdom from its sudden distension and smarting with the pain of her violation!”"
+    "{i}”...ihrer Jungfräulichkeit beraubt, gefesselt von meinem Schwanz, ihre Fotze, die durch die plötzliche Dehnung ein Martyrium erleidet und durch den Schmerz ihrer Verletzung schmerzt!”"
+
+# game/day18.rpy:957
+translate german day18_maid_6eafc778:
+
+    # "{i}“Pitying her, I lay still for some seconds so as to allow the interior of her cunt to stretch a bit, but I was too wrought up and mad with lust to remain inactive long in such surroundings.”"
+    "{i}”Aus Mitleid mit ihr lag ich einige Sekunden still, um das Innere ihrer Fotze ein wenig zu dehnen, aber ich war zu aufgewühlt und wahnsinnig vor Lust, um in einer solchen Umgebung lange untätig zu bleiben.”"
+
+# game/day18.rpy:966
+translate german day18_maid_5833b715:
+
+    # m "{i}(He seems really into it. Look at him!)"
+    m "{i}(Er scheint wirklich begeistert zu sein, sieh ihn dir an!)"
+
+# game/day18.rpy:968
+translate german day18_maid_4ff5e709:
+
+    # m "{i}(My boy has grown big, it seems...)"
+    m "{i}(Mein Junge ist groß geworden, wie es scheint)"
+
+# game/day18.rpy:970
+translate german day18_maid_df5e3776:
+
+    # m "{i}(He's a big boy, it seems.)"
+    m "{i}(Er ist ein großer Junge, wie es scheint)"
+
+# game/day18.rpy:971
+translate german day18_maid_70d7026d:
+
+    # m "{i}(Damnit, what am I thinking?!)"
+    m "{i}(Verdammt, was denke ich nur?!)"
+
+# game/day18.rpy:981
+translate german day18_maid_582febd5:
+
+    # "{i}“With a final thrust, I sent my prick well home, Alice's hairs and mine interweaving. She shrieked again! Then agitating myself gently on her, I began to fuck her, first with steady strokes of my buttocks...”"
+    "{i}Mit einem letzten Stoß schickte ich meinen Schwanz gut nach Hause, Alice' Haare und meine verflochten sich Sie schrie wieder! Dann bewegte ich mich sanft auf ihr und begann, sie zuerst mit gleichmäßigen Stößen meines Gesäßes zu ficken."
+
+# game/day18.rpy:982
+translate german day18_maid_7457d400:
+
+    # "{i}“...then with more rapid and uneven shoves and thrusts, she quivering under me, overwhelmed by her emotions at thus finding her pure body compelled to become the recipient of my lust and by the strangely delicious pleasure that the movements of my prick inside her cunt were arousing in her!”"
+    "{i}”...dann mit schnelleren und ungleichmäßigeren Stößen und Schüben bebte sie unter mir, überwältigt von ihren Gefühlen, ihren reinen Körper so gezwungen zu sehen, der Empfänger meiner Lust zu werden, und von dem seltsam köstlichen Vergnügen, das die Bewegungen meines Schwanzes in ihrer Fotze in ihr erregten!”"
+
+# game/day18.rpy:984
+translate german day18_maid_749ef453:
+
+    # "{i}“Clasping her yielding figure still more closely against me, I let myself go - thrusting, ramming, shoving and agitating my prick spasmodically in her, I frenziedly set to work to fuck her!”"
+    "{i}”Ihre nachgiebige Gestalt noch enger an mich drückend, ließ ich mich gehen - stoßend, rammend, schiebend und meinen Schwanz krampfhaft in ihr bewegend, machte ich mich rasend an die Arbeit, sie zu ficken!”"
+
+# game/day18.rpy:991
+translate german day18_maid_8795af3b:
+
+    # "{i}“A storm of rapid tumultuous jogs, a half strangled 'oh! ... oh!! ... oh!!! ...' from Alice and I spent deliriously into her, deluging her with my hot discharge...”"
+    "{i}”Ein Sturm von schnellen, stürmischen Stößen, ein halb ersticktes 'oh! oh! oh!!! ' von Alice und ich verausgabte mich wahnsinnig in ihr und überschwemmte sie mit meiner heißen Entladung”"
+
+# game/day18.rpy:992
+translate german day18_maid_3684dd0e:
+
+    # "{i}“...at the same moment feeling the head of my prick christened by the warm gush that burst from Alice as she also frantically spent, punctuating the pulsations of her discharge by voluptuous upheavings of her wildly agitated bottom.”"
+    "{i}”...Im selben Moment spürte ich, wie die Spitze meines Schwanzes durch den warmen Schwall, der aus Alice hervorbrach, getauft wurde, während sie sich ebenfalls verzweifelt verausgabte und das Pulsieren ihrer Entladung durch üppige Erhebungen ihres wild erregten Hinterns unterstrich.”"
+
+# game/day18.rpy:1001
+translate german day18_maid_db42f9b8:
+
+    # p "Aaaah! Fuck yes!"
+    p "Aaaah! Verdammt, ja!"
+
+# game/day18.rpy:1002
+translate german day18_maid_a61b0c89:
+
+    # m "{i}(Why am I still watching him? I should have given him the privacy he deserves.)"
+    m "{i}(Warum beobachte ich ihn immer noch? Ich hätte ihm die Privatsphäre geben sollen, die er verdient)"
+
+# game/day18.rpy:1003
+translate german day18_maid_a06fa2b0:
+
+    # m "{i}(But still... That was oddly arousing.)"
+    m "{i}(Aber trotzdem war das seltsam erregend)"
+
+# game/day18.rpy:1007
+translate german day18_maid_9c16b614:
+
+    # p "{i}(Damn, that was great!)"
+    p "{i}(Verdammt, das war toll!)"
+

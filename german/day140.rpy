@@ -7896,4 +7896,41 @@ translate german day140_r_b_fuck_d849fd04:
 translate german day140_r_b_fuck_241c029b:
 
     # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
-    "{i}Du klopfst leicht auf die Muschi deiner Freundin und nickst [r_name] zu, um mit dem Kitzeln fortzufahren."
+    "{i}Du klopfst leicht auf die Muschi deiner Freundin und nickst [r_name] zu, um mit dem Kitzeln fortzufahren."# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day140.rpy:1902
+translate german day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Ist [r_name] in dieser Szene schwanger?"
+
+# game/day140.rpy:1906
+translate german day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] schwanger"
+
+# game/day140.rpy:1909
+translate german day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nicht schwanger"
+
+# game/day140.rpy:1911
+translate german day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Wollen Sie Wassersport für diese Szene ermöglichen?"
+
+# game/day140.rpy:1915
+translate german day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Wassersport möglich"
+
+# game/day140.rpy:1918
+translate german day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Wassersport behindert"
+

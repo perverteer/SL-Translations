@@ -5116,3 +5116,650 @@ translate german day23_flashback_6c92b1a6:
 
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
     "{i}Ich tat all diese Dinge, nahm ihre majestätischen Nippel in den Mund und schenkte ihnen die Aufmerksamkeit, die sie verdienten, Sasha begann leise zu stöhnen und spreizte ihre Beine."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day23.rpy:239
+translate german day23_choices_05ffd1fb:
+
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(Zeit, [l_name] ihr Geschenk zu überreichen - eingepackt und so)"
+
+# game/day23.rpy:244
+translate german day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "Hey!"
+
+# game/day23.rpy:245
+translate german day23_choices_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day23.rpy:246
+translate german day23_choices_d4d9144c:
+
+    # p "I've come bearing gifts!"
+    p "Ich komme mit Geschenken!"
+
+# game/day23.rpy:248
+translate german day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "Aufregend!"
+
+# game/day23.rpy:250
+translate german day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "Lächelnd öffnet deine Schwester langsam die Schachtel und enthüllt ihren Inhalt"
+
+# game/day23.rpy:252
+translate german day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "Lächelnd öffnet dein Freund langsam die Schachtel und enthüllt ihren Inhalt"
+
+# game/day23.rpy:257
+translate german day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "Was in aller Welt ist"
+
+# game/day23.rpy:259
+translate german day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "Oh nein [p_name], das hast du nicht"
+
+# game/day23.rpy:260
+translate german day23_choices_e3441fb8:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Ich habe gesagt, dass ich dir eine schenken werde, gefällt sie dir nicht?"
+
+# game/day23.rpy:261
+translate german day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "Ich weiß es nicht"
+
+# game/day23.rpy:262
+translate german day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Ich denke, es ist ein bisschen seltsam für ein Geschenk"
+
+# game/day23.rpy:263
+translate german day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Unsinnige Paare schenken sich ständig gegenseitig Sexspielzeug"
+
+# game/day23.rpy:264
+translate german day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Sie tun es, nicht wahr?)"
+
+# game/day23.rpy:265
+translate german day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Aber es sieht so, so, so pornografisch aus?"
+
+# game/day23.rpy:266
+translate german day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Du hättest die anderen sehen sollen, die ausgestellt sind. Dieses hier ist so subtil, wie es nur geht."
+# game/day23.rpy:268
+translate german day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Okay, danke"
+
+# game/day23.rpy:269
+translate german day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Sie klingt nicht ganz überzeugt)"
+
+# game/day23.rpy:270
+translate german day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "Kein Problem, und es liegt natürlich an dir, ob du es benutzen willst oder nicht. Mir ist es recht, wenn es in einer Schublade verstaubt."
+# game/day23.rpy:271
+translate german day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Danke, ich werde es mir merken"
+
+# game/day23.rpy:272
+translate german day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Aber du verpasst etwas, wenn du das tust"
+
+# game/day23.rpy:273
+translate german day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "Okay, okay! Ich habe die Nachricht verstanden"
+
+# game/day23.rpy:274
+translate german day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}Das Mädchen lächelt dich an, als du ihr Zimmer verlässt"
+
+# game/day23.rpy:279
+translate german day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "Was in aller Welt ist"
+
+# game/day23.rpy:281
+translate german day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Ich habe gesagt, dass ich dir eine schenken werde, gefällt sie dir nicht?"
+
+# game/day23.rpy:282
+translate german day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "Ich weiß es nicht"
+
+# game/day23.rpy:283
+translate german day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "Es ist enorm"
+
+# game/day23.rpy:284
+translate german day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Du wirst alles viel intensiver spüren"
+
+# game/day23.rpy:286
+translate german day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Es tut mir leid [p_name], aber das ist zu viel"
+
+# game/day23.rpy:287
+translate german day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Ich habe nicht darum gebeten, und du hast mir einfach dieses Ding besorgt, warum hast du das getan?"
+
+# game/day23.rpy:288
+translate german day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Scheiße, sie ist eindeutig nicht beeindruckt)"
+
+# game/day23.rpy:289
+translate german day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "Ich dachte, es würde dir gefallen, es ist ein tolles Stimulans, weißt du"
+
+# game/day23.rpy:290
+translate german day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "Ich bin nicht diese Art von Mädchen [p_name], das solltest du inzwischen wissen"
+
+# game/day23.rpy:291
+translate german day23_choices_59810b3a:
+
+    # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
+    p "Es tut mir leid [l_name], dass ich dich nicht allein gelassen habe"
+
+# game/day23.rpy:292
+translate german day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}Das Mädchen schweigt, während du zögernd den Raum verlässt."
+
+# game/day23.rpy:299
+translate german day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Du wartest sehnsüchtig auf den Abend und ziehst deinen Anzug an, um mit [m_name] auszugehen."
+
+# game/day23.rpy:301
+translate german day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Man vertreibt sich die Zeit bis zum Abend und wärmt sich etwas in der Mikrowelle auf"
+
+# game/day23.rpy:1274
+translate german day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "Das ist gemütlich, findest du nicht?"
+
+# game/day23.rpy:1275
+translate german day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Wenn du eng und eklig meinst, dann stimme ich zu"
+
+# game/day23.rpy:1276
+translate german day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "Komm, lass uns ein bisschen Spaß haben"
+
+# game/day23.rpy:1277
+translate german day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ana wirft eine Münze in den Schlitz und ein Film beginnt auf der Leinwand zu laufen. Sie bittet Sie, sich zu setzen."
+# game/day23.rpy:1279
+translate german day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "Jetzt genießen"
+
+# game/day23.rpy:1280
+translate german day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Als Ana sich auszieht, haben die Darsteller auf dem Bildschirm ihr schnelles Vorspiel bereits beendet und das Mädchen reitet ihn rückwärts Cowgirl."
+
+# game/day23.rpy:1281
+translate german day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Ich wusste, dass dir das gefällt Du bist schon hart"
+
+# game/day23.rpy:1282
+translate german day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "Magst du es, wenn ein Mädchen von einem großen, harten Schwanz so gefickt wird?"
+
+# game/day23.rpy:1287
+translate german day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}Nachdem du dich ausgezogen hast, fällt Ana auf die Knie und verschlingt begierig deine pochende Erektion."
+
+# game/day23.rpy:1288
+translate german day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Hmmm ja, das habe ich vermisst"
+
+# game/day23.rpy:1289
+translate german day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Benutze einfach deinen Mund, du dreckiger kleiner Schwanzlutscher"
+
+# game/day23.rpy:1291
+translate german day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ana verschränkt ihre Hände hinter dem Rücken und schluckt noch mehr von deiner Länge Der Speichel tropft auf den Boden, während sie würgt."
+
+# game/day23.rpy:1292
+translate german day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}Du hilfst ihr, einen Rhythmus zu finden, indem du ihren Kopf an deinem Schwanz auf und ab führst."
+
+# game/day23.rpy:1293
+translate german day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Ja, genau so"
+
+# game/day23.rpy:1294
+translate german day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Dein Schwanz ist immer noch in ihrem Mund und du hältst kurz davor an, ihren Mund mit Samen zu füllen. Um euer Liebesspiel zu verlängern, packst du sie an den Haaren und ziehst sie von deiner Erektion weg."
+# game/day23.rpy:1299
+translate german day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Reiten Sie mich"
+
+# game/day23.rpy:1305
+translate german day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}Das Mädchen klettert auf dich und dein Schwanz gleitet leicht in ihre feuchte Spalte. Erfreut massiert sie deine Eier, während sie deinen Schaft auf und ab bewegt."
+# game/day23.rpy:1306
+translate german day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Mmmmm du steckst so tief drin"
+
+# game/day23.rpy:1307
+translate german day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}Ihr Arsch klatscht gegen deine Schenkel, während sie dich reitet. Anas Brüste streifen dein Gesicht und du saugst eifrig an ihren Brustwarzen."
+# game/day23.rpy:1308
+translate german day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "Der Ton des Pornofilms, der immer noch läuft, wird von Anas heiserem Stöhnen übertönt"
+
+# game/day23.rpy:1310
+translate german day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Um mehr Kontrolle zu haben, hebst du Ana von deinem Schwanz und drehst sie um."
+
+# game/day23.rpy:1311
+translate german day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Ich will deinen Arsch sehen"
+
+# game/day23.rpy:1312
+translate german day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "Nein, nein, nicht aufhören!"
+
+# game/day23.rpy:1313
+translate german day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}Du drückst sie auf deinen Schwanz und hältst sie an der Taille, hebst sie hoch und stößt sie hinunter. Jedes Mal, wenn du deinen Schwanz in ihre Vagina stößt, tropft kleine Rinnsale von Nässe aus ihrer Vagina auf deine Oberschenkel."
+# game/day23.rpy:1314
+translate german day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "Ja ja! Fick mich und hör nicht auf [p_name]"
+
+# game/day23.rpy:1315
+translate german day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "Gefällt dir das, du kleine Hure?"
+
+# game/day23.rpy:1316
+translate german day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "Ich liebe es! Ich liebe es verdammt noch mal"
+
+# game/day23.rpy:1322
+translate german day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Nachdem ihre Fotze deinen Schwanz eine Weile verwöhnt hat, ziehst du ihn heraus und wirfst Ana auf den Boden."
+# game/day23.rpy:1324
+translate german day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "Jetzt koste deine Muschi"
+
+# game/day23.rpy:1325
+translate german day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Mmmm ja!"
+
+# game/day23.rpy:1331
+translate german day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Ich will deinen Arsch benutzen"
+
+# game/day23.rpy:1332
+translate german day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "Ja! Es ist bereit für dich Benutze mich!"
+
+# game/day23.rpy:1338
+translate german day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}Du drückst sie auf den Stuhl und sie spreizt ihre Pobacken für dich, damit du einen schönen Blick auf ihr kleines Arschloch hast."
+# game/day23.rpy:1339
+translate german day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}Trotz allem, was sie gesagt hat, ist Anas Arsch eindeutig noch nicht bereit für deine Größe. Als du die Spitze in sie hineinschiebst, hört sie auf zu stöhnen und knirscht mit den Zähnen."
+
+# game/day23.rpy:1340
+translate german day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Aaah It Aaaah"
+
+# game/day23.rpy:1341
+translate german day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Du spuckst auf ihr Arschloch und schiebst deinen Schwanz weiter in ihren Arsch"
+
+# game/day23.rpy:1342
+translate german day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "Es gibt so viel von dir"
+
+# game/day23.rpy:1343
+translate german day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}Du hältst ihre Arme fest und ziehst sie zu dir hin. Ihr Arschloch fühlt sich sehr eng an, obwohl Ana sich immer mehr entspannt."
+# game/day23.rpy:1344
+translate german day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Ja, leck mich am Arsch"
+
+# game/day23.rpy:1346
+translate german day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Ihr Arsch wackelt, wenn du sie fickst. Jedes Mal, wenn dein Schwanz in sie eindringt, drückt Ana ihr Gesicht gegen das Leder des Stuhls, ihr Gesichtsausdruck verzerrt in einer Mischung aus Schmerz und Vergnügen."
+# game/day23.rpy:1352
+translate german day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Nachdem ihr Arsch deinen Schwanz für einige Zeit verwöhnt hat, ziehst du ihn heraus und wirfst Ana auf den Boden."
+# game/day23.rpy:1354
+translate german day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "Jetzt koste das Arschloch"
+
+# game/day23.rpy:1355
+translate german day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Mmmm ja!"
+
+# game/day23.rpy:1357
+translate german day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Mit zwei Händen drückst du ihren Kopf auf deinen Schwanz und zwingst sie, dich tief zu kehlen. Sie keucht und würgt und Ströme von klarem Schleim fließen über ihre Brust"
+
+# game/day23.rpy:1366
+translate german day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Wenn du spürst, dass dein Orgasmus naht, ziehst du sie auf deinen Schoß und schiebst deinen Schwanz ohne Pause in ihren Hintern."
+# game/day23.rpy:1368
+translate german day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Wenn du spürst, dass dein Orgasmus naht, ziehst du sie auf deinen Schoß und schiebst ihr ohne Vorwarnung deinen Schwanz in den Hintern."
+
+# game/day23.rpy:1369
+translate german day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Fffffffuuuck!"
+
+# game/day23.rpy:1372
+translate german day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}Nach einer kurzen, wütenden Serie von Stößen explodierst du in ihrem engen Arschloch"
+
+# game/day23.rpy:1373
+translate german day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1374
+translate german day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "Fick mich! Fick mich!"
+
+# game/day23.rpy:1375
+translate german day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Dein Orgasmus wird durch die Stimulation ihres Anus verlängert. Du fickst sie weiter, bis du die letzten Tropfen Sperma in sie geschossen hast und Sperma aus ihrem Arschloch läuft."
+# game/day23.rpy:1392
+translate german day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Als du spürst, dass dein Orgasmus naht, legst du dich hin und ziehst sie auf deinen Schwanz."
+# game/day23.rpy:1398
+translate german day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}Nach einer kurzen, wütenden Serie von Stößen explodierst du in ihrer engen Muschi."
+
+# game/day23.rpy:1399
+translate german day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1400
+translate german day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "Fick mich! Fick mich!"
+
+# game/day23.rpy:1401
+translate german day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}Du hältst sie auf deinem Schwanz, bis du die letzten Tropfen Sperma in sie geschossen hast und das Sperma aus ihrem feuchten Schlitz tropft."
+
+# game/day23.rpy:1412
+translate german day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Feuchte Laute kommen aus ihrem Mund, während du ihre Kehle fickst. Ihre tränenverhangenen Augen blicken dich in delirierender Freude an."
+# game/day23.rpy:1419
+translate german day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}Nach einer kurzen, wütenden Serie von Stößen ziehst du dich zurück und dein Schwanz beginnt zu spritzen, während er gegen ihr Gesicht klatscht."
+
+# game/day23.rpy:1420
+translate german day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1421
+translate german day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "Ja! Gib es mir!"
+
+# game/day23.rpy:1422
+translate german day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Ihr Gesicht ist bald mit Sperma bedeckt, das sie eifrig aus den Mundwinkeln leckt."
+# game/day23.rpy:1432
+translate german day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Feuchte Laute kommen aus ihrem Mund, während du ihre Kehle fickst. Ihre tränenverhangenen Augen blicken dich in delirierender Freude an."
+# game/day23.rpy:1440
+translate german day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}Nach einer kurzen, wütenden Serie von Stößen ziehst du dich zurück und drückst Ana zu Boden. Dein Schwanz spritzt über ihre Brüste und ihren Bauch."
+# game/day23.rpy:1441
+translate german day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Ggggoood yyyes!!!"
+
+# game/day23.rpy:1442
+translate german day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "Ja! Gib es mir!"
+
+# game/day23.rpy:1443
+translate german day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ana fingert sich selbst, indem sie dein Sperma in ihrer Muschi verreibt. Du sorgst dafür, dass ihr Körper mit jedem einzelnen Tropfen Sperma bedeckt ist."
+
+# game/day23.rpy:1453
+translate german day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}Das Mädchen wäscht sich und lehnt sich gegen die Leinwand, auf der die Schauspielerin gerade eine Ladung in den Mund bekommen hat."
+# game/day23.rpy:1455
+translate german day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "Verdammt, du weißt wirklich, wie man einem Mädchen ein gutes Gefühl gibt, nicht wahr?"
+
+# game/day23.rpy:1456
+translate german day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Danke, ich gehe einfach gerne mit dir einkaufen"
+
+# game/day23.rpy:1457
+translate german day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "Ich habe es bemerkt!"
+
+# game/day23.rpy:1459
+translate german day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Ihr zieht euch beide an und verlasst die Videokabine. Das Mädchen am Schalter sieht euch mit einem seltsamen Blick an."
+# game/day23.rpy:1460
+translate german day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "Ich nehme an, es hat dir dort gefallen?"
+
+# game/day23.rpy:1461
+translate german day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "Es war sehr anregend"
+
+# game/day23.rpy:1462
+translate german day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Ja, toller Film"
+

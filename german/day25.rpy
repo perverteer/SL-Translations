@@ -4059,3 +4059,873 @@ translate german day25_iris_meeting_b829791f:
 
     # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
     ir "Danke [p_name], dass du mir nach so langer Zeit das Gefühl gibst, etwas Besonderes zu sein, und das ist es, was im Moment zählt."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day25.rpy:944
+translate german day25_r_sex_250f8300:
+
+    # "{i}As soon as you enter the deserted classroom, [r_name] grabs your face and her lips are on yours. Mad with lust, you feel the swell of her small breasts against the palms of your hands."
+    "{i}Sobald du das verlassene Klassenzimmer betrittst, greift [r_Name] nach deinem Gesicht und ihre Lippen liegen auf deinen, verrückt vor Lust, du spürst die Schwellung ihrer kleinen Brüste an deinen Handflächen."
+# game/day25.rpy:945
+translate german day25_r_sex_08d3f5ac:
+
+    # r "Oh, [p_name]!"
+    r "Oh [p_name]!"
+
+# game/day25.rpy:946
+translate german day25_r_sex_ab5c9289:
+
+    # r "I wish we could make love right here on the spot."
+    r "Ich wünschte, wir könnten hier auf der Stelle Liebe machen"
+
+# game/day25.rpy:947
+translate german day25_r_sex_d03baccd:
+
+    # p "That's bound to be awkward if the teacher steps in early."
+    p "Das wird bestimmt peinlich, wenn der Lehrer zu früh eingreift"
+
+# game/day25.rpy:948
+translate german day25_r_sex_821e294d:
+
+    # r "I know and it sucks!"
+    r "Ich weiß und es ist scheiße!"
+
+# game/day25.rpy:949
+translate german day25_r_sex_a87ca5a3:
+
+    # p "Majorly."
+    p "Hauptsächlich"
+
+# game/day25.rpy:950
+translate german day25_r_sex_afd1642e:
+
+    # p "But I might know something else to hold you over until we get someplace more private."
+    p "Aber vielleicht weiß ich noch etwas anderes, das dich aufhält, bis wir an einem ruhigeren Ort sind."
+# game/day25.rpy:952
+translate german day25_r_sex_63256490:
+
+    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
+    "{i}Wenn du dich senkst und deinen Kopf auf Höhe ihres Bauches bringst, öffnest du langsam die Knöpfe ihrer Shorts, um sie und ihr Höschen aus dem Weg zu schieben."
+
+# game/day25.rpy:953
+translate german day25_r_sex_fc2fb4ed:
+
+    # p "Let's get these off, shall we?"
+    p "Ziehen wir die aus, ja?"
+
+# game/day25.rpy:958
+translate german day25_r_sex_6d517046:
+
+    # r "What are you planning on doing, [p_name]?"
+    r "Was haben Sie vor [p_name] zu tun?"
+
+# game/day25.rpy:959
+translate german day25_r_sex_f76231ff:
+
+    # p "I think you deserve a treat. A little excitement."
+    p "Ich denke, du verdienst eine kleine Aufregung"
+
+# game/day25.rpy:960
+translate german day25_r_sex_dcb7cee5:
+
+    # r "Ohhh! I'm a big fan of excitement!"
+    r "Ohhh! Ich bin ein großer Fan von Aufregung!"
+
+# game/day25.rpy:963
+translate german day25_r_sex_3fabb8ca:
+
+    # "{i}The position gives you a great view of her tight pussy, your sister's swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}In dieser Position hast du einen tollen Blick auf ihre enge Muschi, der geschwollene Kitzler deiner Schwester lockt und deine Nasenlöcher sind erfüllt von ihrem süßen Duft."
+# game/day25.rpy:965
+translate german day25_r_sex_1e147499:
+
+    # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}In dieser Position hast du einen tollen Blick auf ihre enge Muschi, [r_name]'s geschwollener Kitzler lockt und deine Nasenlöcher sind gefüllt mit ihrem süßen Duft."
+# game/day25.rpy:970
+translate german day25_r_sex_35611710:
+
+    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
+    "{i}Die ganze Vorfreude hat sie schon feucht gemacht und wenn deine Zunge ihre Schamlippen berührt, schöpfst du eine Fülle von ihren süßen Säften"
+
+# game/day25.rpy:971
+translate german day25_r_sex_74d93c92:
+
+    # r "Oh god, yes!"
+    r "Oh Gott, ja!"
+
+# game/day25.rpy:972
+translate german day25_r_sex_4a95aa38:
+
+    # "{i}[r_name] twists and squirms while your tongue flicks ever rapidly between her pussy lips."
+    "{i}[r_name] windet sich und zappelt, während deine Zunge immer schneller zwischen ihren Schamlippen hin und her fährt"
+
+# game/day25.rpy:973
+translate german day25_r_sex_e480cf4c:
+
+    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
+    "{i}Irgendwo läutet eine Glocke und kurz darauf hört man entfernte Schritte auf dem Flur [r_name] scheint es nicht zu bemerken oder sich darum zu kümmern"
+
+# game/day25.rpy:974
+translate german day25_r_sex_0dee5928:
+
+    # p "I'm gonna have to make this quick, baby."
+    p "Ich muss das schnell machen, Baby"
+
+# game/day25.rpy:975
+translate german day25_r_sex_8ceaf300:
+
+    # r "F-f-finish it, p-please!"
+    r "F-F-Fertigstellung p-Bitte!"
+
+# game/day25.rpy:981
+translate german day25_r_sex_90dd1e99:
+
+    # "{i}Wanting to give your sister the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Um deiner Schwester die Befriedigung zu geben, die sie sich so sehr wünscht, lenkst du deine Aufmerksamkeit auf die Stimulierung ihrer Klitoris [r_name] zieht ihr Bein hoch, um dir einen besseren Zugang zu ihrer Fotze zu ermöglichen"
+
+# game/day25.rpy:983
+translate german day25_r_sex_531e0ac8:
+
+    # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Um deiner Freundin die Befriedigung zu geben, die sie sich so sehr wünscht, lenkst du deine Aufmerksamkeit auf die Stimulation ihrer Klitoris [r_name] zieht ihr Bein hoch, um dir einen besseren Zugang zu ihrer Fotze zu verschaffen."
+# game/day25.rpy:984
+translate german day25_r_sex_64ce9fc9:
+
+    # r "Ooooh, [p_name], don't stop, please!"
+    r "Ooooh [p_name] hör bitte nicht auf!"
+
+# game/day25.rpy:991
+translate german day25_r_sex_69f611bc:
+
+    # r "Ooh, yes! Y-yyyyees!"
+    r "Ooh ja! Y-yyyyees!"
+
+# game/day25.rpy:992
+translate german day25_r_sex_f77a813c:
+
+    # "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massaging her clitoris. Her saltiness overwhelms your mouth as her juices run freely."
+    "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massageing her clitoris Her saltiness overwhelms your mouth as her juices run freely"
+
+# game/day25.rpy:997
+translate german day25_r_sex_3874a9af:
+
+    # r "Just what I needed today!"
+    r "Genau das, was ich heute gebraucht habe!"
+
+# game/day25.rpy:1001
+translate german day25_r_sex_0b7dd48e:
+
+    # p "Better than having lunch at the cafeteria?"
+    p "Besser als ein Mittagessen in der Cafeteria?"
+
+# game/day25.rpy:1002
+translate german day25_r_sex_eb3d12e7:
+
+    # r "You bet."
+    r "Darauf können Sie wetten"
+
+# game/day25.rpy:1003
+translate german day25_r_sex_a74a2417:
+
+    # p "I'd better go now, before anybody mistakes me for a student."
+    p "Ich gehe jetzt besser, bevor mich jemand für einen Studenten hält"
+
+# game/day25.rpy:1004
+translate german day25_r_sex_d436b3c0:
+
+    # r "Or a teacher!"
+    r "Oder ein Lehrer!"
+
+# game/day25.rpy:1005
+translate german day25_r_sex_45e7d386:
+
+    # p "God forbid..."
+    p "Gott bewahre"
+
+# game/day25.rpy:1023
+translate german day25_l_fingering_7a620cd9:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where [r_name] and you watched a couple have fun with each other."
+    "{i}Die Nachtluft ist kalt auf deiner Haut, als du das Schwimmbad verlässt und zum ummauerten Bereich gehst, wo [r_name] und du ein Paar beobachtet haben, das sich miteinander vergnügt hat."
+# game/day25.rpy:1025
+translate german day25_l_fingering_bf7b9c24:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where the hot tubs are located."
+    "{i}Die Nachtluft ist kalt auf der Haut, wenn man den Pool verlässt und sich in den ummauerten Bereich begibt, wo sich die Whirlpools befinden."
+# game/day25.rpy:1033
+translate german day25_l_fingering_b58df64f:
+
+    # p "Yup, still very nice. Come on in!"
+    p "Ja, immer noch sehr schön. Komm rein!"
+
+# game/day25.rpy:1034
+translate german day25_l_fingering_a1db61e1:
+
+    # "{i}You watch as [l_name] tries the water first with her toes and admire her naked body. A smile graces her face when she notices that the water is indeed still warm."
+    "{i}Du beobachtest, wie [l_Name] das Wasser zuerst mit den Zehen probiert und bewunderst ihren nackten Körper Ein Lächeln ziert ihr Gesicht, als sie merkt, dass das Wasser tatsächlich noch warm ist"
+
+# game/day25.rpy:1036
+translate german day25_l_fingering_15f142cd:
+
+    # l "Ooh, the water is bubbling. It tickles."
+    l "Oh, das Wasser sprudelt, es kitzelt"
+
+# game/day25.rpy:1037
+translate german day25_l_fingering_5e87a508:
+
+    # p "You're so far away, why don't you come over."
+    p "Du bist so weit weg, warum kommst du nicht vorbei"
+
+# game/day25.rpy:1038
+translate german day25_l_fingering_63b3750e:
+
+    # l "Good idea."
+    l "Gute Idee"
+
+# game/day25.rpy:1041
+translate german day25_l_fingering_00a857b2:
+
+    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
+    "{i}Deine Schwester schwimmt näher heran und schmiegt sich in deine Arme. Ihr Hintern reibt sich an deinem Schritt und deiner wachsenden Erektion, aber das scheint sie nicht zu stören."
+
+# game/day25.rpy:1043
+translate german day25_l_fingering_b1de4213:
+
+    # "{i}[l_name] swims closer and nestles herself in your arms. Her butt rubs against your crotch and your erection is growing, but she doesn't seem to mind."
+    "{i}[l_name] schwimmt näher und schmiegt sich in deine Arme Ihr Hintern reibt sich an deinem Schritt und deine Erektion wächst, aber das scheint sie nicht zu stören"
+
+# game/day25.rpy:1044
+translate german day25_l_fingering_f035222d:
+
+    # l "Mmmm, I feel all relaxed now."
+    l "Mmmm, ich bin jetzt ganz entspannt"
+
+# game/day25.rpy:1045
+translate german day25_l_fingering_fe2afd8b:
+
+    # "{i}There's a long silence in which you both enjoy just sitting close to each other."
+    "{i}Es gibt eine lange Stille, in der ihr beide es genießt, einfach nur nah beieinander zu sitzen."
+# game/day25.rpy:1046
+translate german day25_l_fingering_7471acc4:
+
+    # l "How can you be so free, [p_name]?"
+    l "Wie kannst du so frei sein [p_name]?"
+
+# game/day25.rpy:1047
+translate german day25_l_fingering_1aa028eb:
+
+    # p "I don't know, I just am."
+    p "Ich weiß es nicht, ich bin es einfach"
+
+# game/day25.rpy:1048
+translate german day25_l_fingering_f4565c3a:
+
+    # l "I just wish I had a little of your carefreeness."
+    l "Ich wünschte nur, ich hätte ein wenig von deiner Sorglosigkeit"
+
+# game/day25.rpy:1049
+translate german day25_l_fingering_a3ac60c7:
+
+    # p "I'm sure it's something you can learn."
+    p "Ich bin sicher, dass man das lernen kann"
+
+# game/day25.rpy:1050
+translate german day25_l_fingering_260bd9b3:
+
+    # l "I think I'd like... I'd like to feel good... "
+    l "Ich glaube, ich würde mich gerne gut fühlen"
+
+# game/day25.rpy:1051
+translate german day25_l_fingering_65f01471:
+
+    # p "You mean you'd like me to touch your pussy?"
+    p "Du meinst, du möchtest, dass ich deine Muschi anfasse?"
+
+# game/day25.rpy:1052
+translate german day25_l_fingering_ec6cf6d6:
+
+    # l "Oh, [p_name], can't you just..."
+    l "Oh [p_name] kannst du nicht einfach"
+
+# game/day25.rpy:1058
+translate german day25_l_fingering_81aea3f3:
+
+    # "{i}Without waiting for her reply, your hand dips below the waterline and slips between her legs. You hear [l_name] holding her breath."
+    "{i}Ohne ihre Antwort abzuwarten, taucht deine Hand unter die Wasserlinie und gleitet zwischen ihre Beine Du hörst, wie [l_Name] den Atem anhält"
+
+# game/day25.rpy:1060
+translate german day25_l_fingering_3329c202:
+
+    # p "Touch your pussy just like that?"
+    p "Deine Muschi einfach so anfassen?"
+
+# game/day25.rpy:1061
+translate german day25_l_fingering_ac68ab35:
+
+    # l "Y-yes, like that."
+    l "J-ja, genau so"
+
+# game/day25.rpy:1063
+translate german day25_l_fingering_3d4b35ee:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
+    "{i}Deine Finger kitzeln die empfindlichen Stellen um ihr Geschlecht herum und deine Schwester lehnt sich immer stärker an deine Brust."
+# game/day25.rpy:1065
+translate german day25_l_fingering_c9056500:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
+    "{i}Deine Finger kitzeln die empfindlichen Stellen um ihr Geschlecht herum und sie lehnt sich immer stärker an deine Brust."
+# game/day25.rpy:1067
+translate german day25_l_fingering_a333d905:
+
+    # "{i}When you start massaging her clit, [l_name] lets out a small moan and her hand tousles your hair."
+    "{i}Als du anfängst, ihre Klitoris zu massieren, stöhnt [l_Name] leise auf und ihre Hand streichelt dein Haar"
+
+# game/day25.rpy:1068
+translate german day25_l_fingering_0a90328c:
+
+    # p "Do you want me inside of you?"
+    p "Willst du mich in dir haben?"
+
+# game/day25.rpy:1069
+translate german day25_l_fingering_ab687a69:
+
+    # l "Yes, f-finger me, [p_name]!"
+    l "Ja f-finger me [p_name]!"
+
+# game/day25.rpy:1071
+translate german day25_l_fingering_6eeb5756:
+
+    # "{i}Two fingers slip inside her pussy as you keep stimulating her clitoris with your thumb. [l_name]'s breathing is ragged and she seems close to orgasm."
+    "{i}Zwei Finger gleiten in ihre Muschi, während du mit deinem Daumen ihre Klitoris stimulierst. [Name] atmet schwer und scheint kurz vor dem Orgasmus zu stehen."
+# game/day25.rpy:1072
+translate german day25_l_fingering_82a4e302:
+
+    # p "Cum for me, baby!"
+    p "Komm für mich ab, Baby!"
+
+# game/day25.rpy:1073
+translate german day25_l_fingering_c4f51dd6:
+
+    # l "Y-y-yesss, [p_name], I'm..."
+    l "J-J-Ja [p_name] ich bin"
+
+# game/day25.rpy:1080
+translate german day25_l_fingering_6c62f416:
+
+    # l "Aaaaaah!"
+    l "Aaaaaah!"
+
+# game/day25.rpy:1081
+translate german day25_l_fingering_8c7f77e2:
+
+    # "{i}[l_name] trembles and squirms as she orgasms, your fingers still inside her. Her violent movements eventually force you outside of her and she rides out the last waves of her orgasm pressed against you."
+    "{i}[l_name] zittert und windet sich, während sie zum Orgasmus kommt, deine Finger sind immer noch in ihr. Ihre heftigen Bewegungen zwingen dich schließlich aus ihr heraus und sie reitet die letzten Wellen ihres Orgasmus an dich gepresst aus."
+# game/day25.rpy:1085
+translate german day25_l_fingering_375652b2:
+
+    # l "T-that... that was fantastic. I feel all better now."
+    l "Das war fantastisch, ich fühle mich jetzt viel besser"
+
+# game/day25.rpy:1087
+translate german day25_l_fingering_da25e56e:
+
+    # l "This evening was a great idea, [p_name], thank you so much."
+    l "Dieser Abend war eine tolle Idee [p_name], vielen Dank"
+
+# game/day25.rpy:1088
+translate german day25_l_fingering_db488370:
+
+    # p "You're very welcome."
+    p "Sehr gerne geschehen"
+
+# game/day25.rpy:1090
+translate german day25_l_fingering_0e2e55a4:
+
+    # "{i}You keep floating in the hot tub until the midnight air is too chilly and you decide to go home."
+    "{i}Du lässt dich im Whirlpool treiben, bis dir die Mitternachtsluft zu kühl wird und du beschließt, nach Hause zu gehen."
+# game/day25.rpy:1109
+translate german day25_i_sex_9ec564bd:
+
+    # "{i}The door to the bedroom is wide open, and when you arrive, Iris is already down to her underwear."
+    "{i}Die Tür zum Schlafzimmer steht weit offen und als du ankommst, ist Iris bereits bis auf die Unterwäsche ausgezogen."
+
+# game/day25.rpy:1110
+translate german day25_i_sex_3caad50d:
+
+    # p "{i}(Those curves are fine indeed.)"
+    p "{i}(Diese Kurven sind wirklich schön)"
+
+# game/day25.rpy:1111
+translate german day25_i_sex_9c584147:
+
+    # p "Iris?"
+    p "Iris?"
+
+# game/day25.rpy:1113
+translate german day25_i_sex_b0d0767a:
+
+    # "{i}Iris doesn't appear very startled at your voice, but she still covers her breasts when she faces you."
+    "{i}Iris scheint nicht sehr erschrocken über deine Stimme zu sein, aber sie bedeckt immer noch ihre Brüste, wenn sie dir gegenübersteht."
+# game/day25.rpy:1114
+translate german day25_i_sex_80f822d5:
+
+    # p "Did you want me to follow you?"
+    p "Wolltest du, dass ich dir folge?"
+
+# game/day25.rpy:1116
+translate german day25_i_sex_af9930e6:
+
+    # ir "Maybe..."
+    ir "Vielleicht"
+
+# game/day25.rpy:1117
+translate german day25_i_sex_ddad1a4b:
+
+    # ir "I look like a worn out sack of meat, don't I?"
+    ir "Ich sehe aus wie ein abgenutzter Sack Fleisch, nicht wahr?"
+
+# game/day25.rpy:1120
+translate german day25_i_sex_c6334f39:
+
+    # p "{i}(Damnit, she clearly has body issues.)"
+    p "{i}(Verdammt, sie hat eindeutig Körperprobleme)"
+
+# game/day25.rpy:1121
+translate german day25_i_sex_e4d7ab52:
+
+    # p "Why would you say that?"
+    p "Wie kommst du darauf?"
+
+# game/day25.rpy:1123
+translate german day25_i_sex_57977556:
+
+    # ir "Because Justin never touches me... Never looks at me anymore."
+    ir "Weil Justin mich nie berührt, mich nie mehr anschaut"
+
+# game/day25.rpy:1124
+translate german day25_i_sex_b9b73004:
+
+    # p "I think Justin is too absorbed in his work to care about anything else."
+    p "Ich glaube, Justin ist zu sehr in seine Arbeit vertieft, um sich um etwas anderes zu kümmern"
+
+# game/day25.rpy:1125
+translate german day25_i_sex_8508b229:
+
+    # p "He's so absorbed that he doesn't see his beautiful wife for what she is: a desirable woman."
+    p "Er ist so vertieft, dass er seine schöne Frau nicht als das sieht, was sie ist: eine begehrenswerte Frau"
+
+# game/day25.rpy:1127
+translate german day25_i_sex_e0cb8901:
+
+    # ir "Do you really think that?"
+    ir "Glauben Sie das wirklich?"
+
+# game/day25.rpy:1128
+translate german day25_i_sex_b62d145c:
+
+    # p "That you're desirable? Yes, I think so."
+    p "Dass du begehrenswert bist? Ja, ich denke schon"
+
+# game/day25.rpy:1129
+translate german day25_i_sex_6fa9dade:
+
+    # p "You possess everything I love in a woman. A radiant smile, beautiful curves, luscious breasts and maturity."
+    p "Du hast alles, was ich an einer Frau liebe Ein strahlendes Lächeln schöne Kurven üppige Brüste und Reife"
+
+# game/day25.rpy:1130
+translate german day25_i_sex_fa2a42a8:
+
+    # ir "Luscious breasts, really? I always thought they were in the way."
+    ir "Üppige Brüste, wirklich? Ich dachte immer, sie wären im Weg."
+# game/day25.rpy:1131
+translate german day25_i_sex_5e50fb58:
+
+    # p "I can't say that I see your point."
+    p "Ich kann nicht sagen, dass ich Ihren Standpunkt verstehe"
+
+# game/day25.rpy:1132
+translate german day25_i_sex_facdc743:
+
+    # ir "Do you still want me to put that dress on?"
+    ir "Willst du immer noch, dass ich das Kleid anziehe?"
+
+# game/day25.rpy:1133
+translate german day25_i_sex_86d15f25:
+
+    # p "If you let me watch you undress..."
+    p "Wenn du mich dir beim Ausziehen zusehen lässt"
+
+# game/day25.rpy:1134
+translate german day25_i_sex_774139e9:
+
+    # ir "That's okay."
+    ir "Das ist in Ordnung"
+
+# game/day25.rpy:1135
+translate german day25_i_sex_e2405543:
+
+    # "{i}Iris proceeds to unclasp her bra and is still a little uncomfortable with the whole situation."
+    "{i}Iris öffnet ihren BH und fühlt sich immer noch etwas unwohl mit der ganzen Situation."
+# game/day25.rpy:1137
+translate german day25_i_sex_44cb0290:
+
+    # p "Just what I thought."
+    p "Genau was ich dachte"
+
+# game/day25.rpy:1138
+translate german day25_i_sex_20c0c941:
+
+    # ir "What? Are they..."
+    ir "Was? Sind sie"
+
+# game/day25.rpy:1139
+translate german day25_i_sex_fdc9e41d:
+
+    # p "A perfect pair."
+    p "Ein perfektes Paar"
+
+# game/day25.rpy:1141
+translate german day25_i_sex_25b76bba:
+
+    # ir "Even if I don't know whether to believe you or not, it's still nice to get these compliments."
+    ir "Auch wenn ich nicht weiß, ob ich dir glauben soll oder nicht, ist es doch schön, solche Komplimente zu bekommen."
+# game/day25.rpy:1146
+translate german day25_i_sex_887cad5a:
+
+    # p "You're a vision!"
+    p "Du bist eine Vision!"
+
+# game/day25.rpy:1147
+translate german day25_i_sex_c18f3955:
+
+    # p "But..."
+    p "Aber"
+
+# game/day25.rpy:1148
+translate german day25_i_sex_2aca1d3c:
+
+    # ir "But? Is something wrong."
+    ir "Aber? Stimmt etwas nicht?"
+
+# game/day25.rpy:1149
+translate german day25_i_sex_6bc6dd21:
+
+    # p "You could say that."
+    p "Das kann man so sagen"
+
+# game/day25.rpy:1150
+translate german day25_i_sex_84779fec:
+
+    # p "I've seen those beautiful breasts of yours and I kinda want to see more of you..."
+    p "Ich habe deine schönen Brüste gesehen und ich möchte mehr von dir sehen"
+
+# game/day25.rpy:1151
+translate german day25_i_sex_c2131b78:
+
+    # "{i}Wordlessly, Iris turns her back and unzips the dress, after that her panties fall to the floor."
+    "{i}Wortlos dreht Iris sich um und öffnet den Reißverschluss des Kleides, woraufhin ihr Slip zu Boden fällt."
+# game/day25.rpy:1153
+translate german day25_i_sex_713e1875:
+
+    # ir "You mean like this?"
+    ir "Du meinst so?"
+
+# game/day25.rpy:1154
+translate german day25_i_sex_ff5204b0:
+
+    # p "{i}(Sweet Jesus, I'd like to give those buttocks a good slapping.)"
+    p "{i}(Mein Gott, diesen Hintern würde ich gerne mal richtig durchklopfen)"
+
+# game/day25.rpy:1155
+translate german day25_i_sex_9fdfc4c8:
+
+    # p "Exactly like that."
+    p "Genau so"
+
+# game/day25.rpy:1160
+translate german day25_i_sex_6dde063f:
+
+    # ir "If you want me, I'm yours..."
+    ir "Wenn du mich willst, gehöre ich dir"
+
+# game/day25.rpy:1161
+translate german day25_i_sex_f49d9534:
+
+    # ir "But I want to see you too..."
+    ir "Aber ich will dich auch sehen"
+
+# game/day25.rpy:1163
+translate german day25_i_sex_95d0da94:
+
+    # "{i}Without much ceremony you undress yourself and find Iris staring longingly at your erect cock."
+    "{i}Ohne viel Aufhebens ziehst du dich aus und findest Iris, die sehnsüchtig auf deinen erigierten Schwanz starrt."
+# game/day25.rpy:1164
+translate german day25_i_sex_c27fd2fa:
+
+    # ir "It's been a while... I almost forgot what it was like."
+    ir "Es ist eine Weile her, ich habe fast vergessen, wie es war"
+
+# game/day25.rpy:1165
+translate german day25_i_sex_4da5b111:
+
+    # ir "You look so handsome."
+    ir "Du siehst so gut aus"
+
+# game/day25.rpy:1167
+translate german day25_i_sex_c0e0f065:
+
+    # ir "I can't believe we're doing this."
+    ir "Ich kann nicht glauben, dass wir das tun"
+
+# game/day25.rpy:1169
+translate german day25_i_sex_0a7056a4:
+
+    # ir "But the woman you were with?! You aren't cheating on her, are you?"
+    ir "Aber die Frau, mit der du zusammen warst?! Du betrügst sie doch nicht, oder?"
+
+# game/day25.rpy:1170
+translate german day25_i_sex_59390063:
+
+    # p "We're dating, but not sure of our feelings yet. Besides, I'm all for open relationships."
+    p "Wir sind zusammen, aber wir sind uns unserer Gefühle noch nicht sicher, außerdem bin ich für offene Beziehungen"
+
+# game/day25.rpy:1172
+translate german day25_i_sex_1952c19f:
+
+    # ir "A handsome man like you, you must have a girlfriend."
+    ir "Ein gut aussehender Mann wie du muss eine Freundin haben"
+
+# game/day25.rpy:1173
+translate german day25_i_sex_2c23e463:
+
+    # p "Yes, I'm seeing some girls, but nothing serious. Besides, I'm all for open relationships."
+    p "Ja, ich treffe mich mit ein paar Mädchen, aber nichts Ernstes, außerdem bin ich für offene Beziehungen"
+
+# game/day25.rpy:1174
+translate german day25_i_sex_b169d104:
+
+    # ir "So are we really doing this?"
+    ir "Machen wir das also wirklich?"
+
+# game/day25.rpy:1175
+translate german day25_i_sex_62c06072:
+
+    # p "Yes Iris, we are. Just lie down and kiss me."
+    p "Ja, Iris, das sind wir. Leg dich hin und küss mich."
+
+# game/day25.rpy:1180
+translate german day25_i_sex_200fd0f6:
+
+    # "{i}A little hesitant, Iris lets herself be guided down to the mattress, but as soon as your lips touch and your tongues intertwine, she no longer has any reservations."
+    "{i}Etwas zögerlich lässt sich Iris auf die Matratze führen, aber sobald sich eure Lippen berühren und eure Zungen ineinander verschlungen sind, hat sie keine Berührungsängste mehr."
+
+# game/day25.rpy:1181
+translate german day25_i_sex_18e1759f:
+
+    # ir "Oh [p_name], kiss me again!"
+    ir "Oh [p_name] küss mich nochmal!"
+
+# game/day25.rpy:1182
+translate german day25_i_sex_dd6c002a:
+
+    # "{i}You notice her kisses have a bit of a desperate edge to them, a hunger maybe, as if she's afraid you might still leave her."
+    "{i}Du hast bemerkt, dass ihre Küsse etwas Verzweifeltes an sich haben, ein Hunger vielleicht, als ob sie Angst hat, dass du sie noch verlassen könntest."
+
+# game/day25.rpy:1184
+translate german day25_i_sex_3f08601e:
+
+    # "{i}When you caress her full breasts and touch her soft erect nipples, Iris lets out a sigh of pleasure."
+    "{i}Wenn du ihre vollen Brüste streichelst und ihre weichen, erigierten Brustwarzen berührst, stößt Iris einen Seufzer der Freude aus."
+# game/day25.rpy:1185
+translate german day25_i_sex_d9367c64:
+
+    # p "Do you like it when I touch you there, Iris?"
+    p "Magst du es, wenn ich dich dort berühre, Iris?"
+
+# game/day25.rpy:1186
+translate german day25_i_sex_2b5f856c:
+
+    # ir "Mmmm, yes."
+    ir "Mmmm ja"
+
+# game/day25.rpy:1188
+translate german day25_i_sex_e77aac7b:
+
+    # "{i}You move down to her plump ass and massage her buttocks. Iris seems to be relaxing more and more as you discover her body."
+    "{i}Du gehst hinunter zu ihrem prallen Hintern und massierst ihre Pobacken, Iris scheint sich immer mehr zu entspannen, während du ihren Körper entdeckst."
+# game/day25.rpy:1189
+translate german day25_i_sex_2004ab1b:
+
+    # p "Do you want to feel good?"
+    p "Willst du dich gut fühlen?"
+
+# game/day25.rpy:1190
+translate german day25_i_sex_9c3b627f:
+
+    # ir "Yes..."
+    ir "Ja"
+
+# game/day25.rpy:1192
+translate german day25_i_sex_c3edf5bb:
+
+    # "{i}Gently you turn her on her back again, and a little embarrassed, the older woman closes her legs."
+    "{i}Sanft drehst du sie wieder auf den Rücken und etwas verlegen schließt die ältere Frau ihre Beine."
+
+# game/day25.rpy:1193
+translate german day25_i_sex_2b101f07:
+
+    # p "Don't be shy, Iris."
+    p "Nicht so schüchtern, Iris"
+
+# game/day25.rpy:1195
+translate german day25_i_sex_c192101e:
+
+    # "{i}You effortlessly spread her legs. The reverend's wife doesn't stop you."
+    "{i}Du spreizt mühelos ihre Beine Die Frau des Pfarrers hält dich nicht auf"
+
+# game/day25.rpy:1196
+translate german day25_i_sex_0c1def5d:
+
+    # p "{i}(Wow, that's an old-school bush, right there.)"
+    p "{i}(Wow, das ist mal ein Busch der alten Schule)"
+
+# game/day25.rpy:1201
+translate german day25_i_sex_728ab8a9:
+
+    # "{i}Iris wants to protest when you move your head down between her legs, but she is silent the moment your tongue touches her pussy."
+    "{i}Iris will protestieren, als du deinen Kopf zwischen ihre Beine schiebst, aber sie schweigt, sobald deine Zunge ihre Muschi berührt."
+# game/day25.rpy:1202
+translate german day25_i_sex_a08cbfab:
+
+    # ir "Oooh, [p_name]!"
+    ir "Oooh [p_name]!"
+
+# game/day25.rpy:1204
+translate german day25_i_sex_e4744b64:
+
+    # "{i}Her taste fills your mouth as you penetrate her cunt with your probing tongue. Iris moans and writhes on the bed."
+    "{i}Ihr Geschmack erfüllt deinen Mund, während du mit deiner Zunge in ihre Möse eindringst. Iris stöhnt und windet sich auf dem Bett."
+# game/day25.rpy:1205
+translate german day25_i_sex_82d39544:
+
+    # ir "Y-yes, right there, keep doing that. Aaaaah!"
+    ir "J-ja genau da, mach weiter so Aaaaah!"
+
+# game/day25.rpy:1208
+translate german day25_i_sex_96ee126b:
+
+    # "{i}Licking her clitoris is what finally makes her explode in your mouth. She shudders and takes your head in her hands, pushing you down on her slit."
+    "{i}Das Lecken ihres Kitzlers bringt sie schließlich dazu, in deinem Mund zu explodieren. Sie erschaudert und nimmt deinen Kopf in ihre Hände, um dich auf ihren Schlitz zu drücken."
+# game/day25.rpy:1209
+translate german day25_i_sex_f27ed8be:
+
+    # ir "I want you, [p_name], I want you inside me!"
+    ir "Ich will dich [p_name] Ich will dich in mir spüren!"
+
+# game/day25.rpy:1213
+translate german day25_i_sex_fdda4f53:
+
+    # "{i}Like two horny teenagers, she helps you scramble on top of her, takes hold of your throbbing cock and eagerly guides it inside her wet pussy."
+    "{i}Wie zwei geile Teenager hilft sie dir, auf sie zu klettern, nimmt deinen pochenden Schwanz in die Hand und führt ihn begierig in ihre feuchte Muschi."
+# game/day25.rpy:1215
+translate german day25_i_sex_ace14589:
+
+    # ir "Fuck me!"
+    ir "Fick mich!"
+
+# game/day25.rpy:1221
+translate german day25_i_sex_91ba433a:
+
+    # "{i}Your movements are tender, yet you penetrate her deeply. Each time you thrust your cock to the root inside her cunt, her nails claw into your buttocks."
+    "{i}Deine Bewegungen sind zart und doch dringst du tief in sie ein. Jedes Mal, wenn du deinen Schwanz bis zur Wurzel in ihre Möse stößt, krallen sich ihre Nägel in deine Pobacken"
+
+# game/day25.rpy:1223
+translate german day25_i_sex_54864ef0:
+
+    # ir "Oooh, y-you feel so good, [p_name]."
+    ir "Oooh du fühlst dich so gut an [p_name]"
+
+# game/day25.rpy:1224
+translate german day25_i_sex_828438ab:
+
+    # p "Aaah, Iris!"
+    "Aaah Iris!"
+
+# game/day25.rpy:1226
+translate german day25_i_sex_8809bb85:
+
+    # "{i}For a moment, Iris is annoyed when you pull out, but after you turn her on her side and you penetrate her again she lets out a small sigh of relief."
+    "{i}Für einen Moment ist Iris irritiert, als du dich zurückziehst, aber nachdem du sie auf die Seite gedreht hast und wieder in sie eingedrungen bist, stößt sie einen kleinen Seufzer der Erleichterung aus."
+
+# game/day25.rpy:1227
+translate german day25_i_sex_d46ea59a:
+
+    # ir "Are you going to cum for me, [p_name]?"
+    ir "Willst du für mich [p_name] abspritzen?"
+
+# game/day25.rpy:1228
+translate german day25_i_sex_bce655a9:
+
+    # p "G-god yes Iris!"
+    p "G-Gott ja Iris!"
+
+# game/day25.rpy:1229
+translate german day25_i_sex_ef490d67:
+
+    # "{i}Your hands dig into her soft flesh, and you fuck her even more passionately when you feel your orgasm approach."
+    "{i}Deine Hände graben sich in ihr weiches Fleisch und du fickst sie noch leidenschaftlicher, wenn du spürst, dass dein Orgasmus naht."
+
+# game/day25.rpy:1240
+translate german day25_i_sex_f5ee9209:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1241
+translate german day25_i_sex_891c825e:
+
+    # "{i}As your cock erupts inside of her, Iris opens her legs slight further to allow you to shoot your seed even deeper inside of her."
+    "{i}Als dein Schwanz in ihr ausbricht, öffnet Iris ihre Beine ein wenig weiter, damit du deinen Samen noch tiefer in sie schießen kannst."
+# game/day25.rpy:1242
+translate german day25_i_sex_62f76ee7:
+
+    # ir "Don't stop, ooooh! Mmmmmmm!"
+    ir "Don't stop ooooh! Mmmmmmmmm!"
+
+# game/day25.rpy:1257
+translate german day25_i_sex_f5ee9209_1:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1258
+translate german day25_i_sex_32c25792:
+
+    # "{i}After you pull out, your cock erupts and Iris directs the streams of cum towards herself, so as to allow your strands of semen to cover her body."
+    "{i}Nachdem du deinen Schwanz herausgezogen hast, eruptiert dein Schwanz und Iris lenkt die Spermaströme auf sich selbst, so dass deine Samenstränge ihren Körper bedecken."
+
+# game/day25.rpy:1259
+translate german day25_i_sex_b43b3ad9:
+
+    # ir "That's it, cover me with your cum, [p_name]!"
+    ir "Das ist es, bedecke mich mit deinem Sperma [p_name]!"
+
+# game/day25.rpy:1269
+translate german day25_i_sex_ae79a827:
+
+    # "{i}Thoroughly spent, you lie with Iris for a while, her head resting on your chest."
+    "{i}Völlig erschöpft liegst du eine Weile bei Iris und ihr Kopf ruht auf deiner Brust."
+
+# game/day25.rpy:1270
+translate german day25_i_sex_6e5d107c:
+
+    # ir "I'm glad you came by for coffee."
+    ir "Schön, dass Sie auf einen Kaffee vorbeigekommen sind"
+
+# game/day25.rpy:1271
+translate german day25_i_sex_5f123bc2:
+
+    # p "As am I."
+    p "Wie ich"
+

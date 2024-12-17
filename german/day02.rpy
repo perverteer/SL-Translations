@@ -1857,3 +1857,53 @@ translate german strings:
     # game/day02.rpy:708
     old "Read the book"
     new "Lies das Buch"
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day02.rpy:751
+translate german day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(Warum in aller Welt sollte [m_name] dieses schmutzige Zeug lesen?)"
+
+# game/day02.rpy:752
+translate german day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(Und sie hat es ausgerechnet auf der Wohnzimmercouch gelesen. Unglaublich)"
+
+# game/day02.rpy:753
+translate german day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Ich frage mich, was sie noch zu verbergen hat)"
+
+# game/day02.rpy:755
+translate german day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(Meine neue Familie wird immer interessanter)"
+
+# game/day02.rpy:757
+translate german day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(Meine neuen Freunde werden immer interessanter)"
+
+# game/day02.rpy:769
+translate german day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(Hier gibt es nichts zu sehen Besser weggehen)"
+
+# game/day02.rpy:779
+translate german day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Du gehst zurück in dein Zimmer und ins Bett"
+
+# game/day02.rpy:781
+translate german day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Du beschließt, verantwortungsbewusst zu sein und direkt ins Bett zu gehen"
+

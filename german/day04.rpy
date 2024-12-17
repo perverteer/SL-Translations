@@ -2725,3 +2725,188 @@ translate german strings:
     old "Never mind"
     new "Macht nichts"
 
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day04.rpy:58
+translate german day04_61e445ed:
+
+    # a "I have an idea! Why don't you come with me today?"
+    a "Ich habe eine Idee! Warum kommst du heute nicht mit mir?"
+
+# game/day04.rpy:59
+translate german day04_59a3e5fc:
+
+    # p "Where to?"
+    p "Wohin?"
+
+# game/day04.rpy:60
+translate german day04_b0a75591:
+
+    # a "Well, we're going shopping..."
+    a "Nun, wir gehen einkaufen"
+
+# game/day04.rpy:61
+translate german day04_e348b6db:
+
+    # p "Naturally."
+    p "Natürlich"
+
+# game/day04.rpy:62
+translate german day04_3a3111de:
+
+    # a "I asked [r_name] earlier, before visiting you, but she can't come."
+    a "Ich habe [r_Name] vor dem Besuch bei Ihnen gefragt, aber sie kann nicht kommen"
+
+# game/day04.rpy:63
+translate german day04_382b0ab2:
+
+    # p "Oh?"
+    p "Oh?"
+
+# game/day04.rpy:64
+translate german day04_102afd0c:
+
+    # a "Yeah, [b_name] asked her out to lunch."
+    a "Ja, [b_name] hat sie zum Mittagessen eingeladen"
+
+# game/day04.rpy:65
+translate german day04_2d48d716:
+
+    # p "She did?"
+    p "Hat sie?"
+
+# game/day04.rpy:66
+translate german day04_1a2dfe21:
+
+    # a "[b_name] is not someone you refuse, if you catch my drift..."
+    a "[b_name] ist niemand, den du ablehnst, wenn du verstehst, worauf ich hinaus will"
+
+# game/day04.rpy:67
+translate german day04_60c13293:
+
+    # p "Yup, she's a bitch."
+    p "Ja, sie ist eine Schlampe"
+
+# game/day04.rpy:68
+translate german day04_2931081c:
+
+    # a "So, it's just Alina and me. How could you refuse two beautiful women?"
+    a "Es sind also nur Alina und ich. Wie kannst du zwei schönen Frauen etwas abschlagen?"
+
+# game/day04.rpy:71
+translate german day04_3854d23d:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting and I might be able to buy something nice for [l_name]."
+    p "Ich hasse es, Kleidung zu kaufen, aber das Angebot ist verlockend, und vielleicht kann ich etwas Schönes für [l_name] kaufen."
+# game/day04.rpy:74
+translate german day04_0489d494:
+
+    # p "{i}I hate shopping for clothes, but the offer is tempting. Might get another reward from Ana after my more than satisfactory performance just now."
+    p "Ich hasse es, Klamotten zu kaufen, aber das Angebot ist verlockend. Vielleicht bekomme ich eine weitere Belohnung von Ana, nachdem ich gerade mehr als zufriedenstellend war."
+# game/day04.rpy:77
+translate german day04_ff778e06:
+
+    # p "Well, all right. I'm in."
+    p "Na gut, ich bin dabei"
+
+# game/day04.rpy:78
+translate german day04_dadbfcbd:
+
+    # a "Yay! I'll meet you at the store later today."
+    a "Juhu! Wir treffen uns heute im Laden"
+
+# game/day04.rpy:82
+translate german day04_b05f7cb4:
+
+    # p "{i}(Phew. That was a nice little morning snack.)"
+    p "{i}(Puh, das war ein netter kleiner Morgenimbiss)"
+
+# game/day04.rpy:87
+translate german day04_95c8d466:
+
+    # p "Please go away, Ana. Yesterday was a mistake."
+    p "Bitte geh weg Ana Gestern war ein Fehler"
+
+# game/day04.rpy:91
+translate german day04_1cfe1505:
+
+    # a "WHAT?! FUCK YOU! You utter piece of shit!"
+    a "WAS?! FICK DICH! Du mieses Stück Scheiße!"
+
+# game/day04.rpy:92
+translate german day04_43425f49:
+
+    # a "You're going to regret this!"
+    a "Das wirst du noch bereuen!"
+
+# game/day04.rpy:97
+translate german day04_c0e4fd2a:
+
+    # "{i}You're awakened by the sunlight spilling through the curtains."
+    "{i}Du wirst durch das Sonnenlicht geweckt, das durch die Vorhänge fällt"
+
+# game/day04.rpy:347
+translate german day04_m_room_choices_ac4f9f29:
+
+    # "{i}After a while you go to town to meet Ana and Alina at the clothing store."
+    "{i}Nach einer Weile gehst du in die Stadt, um Ana und Alina im Bekleidungsgeschäft zu treffen."
+
+# game/day04.rpy:352
+translate german day04_m_room_choices_3e9f821c:
+
+    # "{i}You spend your day at home, which is pretty boring."
+    "{i}Du verbringst deinen Tag zu Hause, was ziemlich langweilig ist"
+
+# game/day04.rpy:435
+translate german day04_boutique_aadf88f7:
+
+    # al "All done? Was [p_name] any help?"
+    al "Alles erledigt? War [p_name] eine Hilfe?"
+
+# game/day04.rpy:436
+translate german day04_boutique_591ddada:
+
+    # a "Sure! Couldn't have done it without him."
+    a "Klar! Ohne ihn hätte ich es nicht geschafft"
+
+# game/day04.rpy:437
+translate german day04_boutique_10a3bcd1:
+
+    # p "Girls, I'll leave you to it. Thanks for taking me on your shopping expedition."
+    p "Mädels, ich lass euch jetzt allein. Danke, dass ihr mich auf euren Einkaufsbummel mitgenommen habt."
+
+# game/day04.rpy:438
+translate german day04_boutique_277a0fcc:
+
+    # al "Any time, [p_name]. Be seeing ya!"
+    al "Any time [p_name] Be seeing ya!"
+
+# game/day04.rpy:439
+translate german day04_boutique_6823d1fa:
+
+    # a "Sooner rather than later, I hope!"
+    a "Eher früher als später, hoffe ich!"
+
+# game/day04.rpy:442
+translate german day04_boutique_d46543e7:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie and [l_name]'s evening dress."
+    "{i}Ana und Alina verlassen den Laden, während du Anas Dessous und das Abendkleid von [l_name] bezahlst."
+# game/day04.rpy:446
+translate german day04_boutique_3d15b177:
+
+    # "{i}Ana and Alina leave the store while you pay for Ana's lingerie."
+    "{i}Ana und Alina verlassen den Laden, während du Anas Dessous bezahlst."
+
+# game/day04.rpy:938
+translate german day04_ana_licking_3c84de13:
+
+    # a "I know you want me..."
+    a "Ich weiß, dass du mich willst"
+
+# game/day04.rpy:939
+translate german day04_ana_licking_b2c1d8a6:
+
+    # a "Don't you want to lick me, [p_name]? I'm so wet..."
+    a "Willst du mich [p_name] nicht lecken? Ich bin so nass"
+

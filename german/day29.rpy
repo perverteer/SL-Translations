@@ -4171,3 +4171,971 @@ translate german day29_l_delivery_post_651c45ac:
 
     # "{i}Despite the uncomfortable surroundings, you feel your eyelids grow heavy, and soon you fall asleep, your friend's naked body lying half on top of you in a tight embrace."
     "{i}Trotz der ungemütlichen Umgebung spürst du, wie deine Augenlider schwer werden, und bald schläfst du ein, während der nackte Körper deines Freundes halb auf dir liegt und dich fest umarmt."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day29.rpy:881
+translate german day29_b_sex_09609a9f:
+
+    # "{i}[b_name]'s door is open, you peek around the corner and see the girl lying on the bed."
+    "{i}[b_name]'s door is open you peek around the corner and see the girl lying on the bed"
+
+# game/day29.rpy:882
+translate german day29_b_sex_94b27143:
+
+    # p "{i}(Looks like [b_name] is enjoying a magazine.)"
+    p "{i}(Sieht aus, als würde [b_name] eine Zeitschrift genießen)"
+
+# game/day29.rpy:883
+translate german day29_b_sex_5860ae81:
+
+    # p "{i}(Let's see if she's been an obedient girl and have some fun...)"
+    p "{i}(Mal sehen, ob sie ein gehorsames Mädchen ist und ein bisschen Spaß hat)"
+
+# game/day29.rpy:890
+translate german day29_b_sex_ccc63a0e:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your sister's eyes go wide and look around in panic."
+    "{i}Als du die Intensität des Vibrators hochdrehst, siehst du, wie die Augen deiner Schwester groß werden und sie sich panisch umschaut."
+# game/day29.rpy:892
+translate german day29_b_sex_7311f431:
+
+    # "{i}As you turn up the intensity dial of the vibrator you see your girl's eyes go wide and look around in panic."
+    "{i}Wenn du die Intensität des Vibrators hochdrehst, siehst du, wie die Augen deines Mädchens groß werden und sie sich panisch umschaut."
+# game/day29.rpy:893
+translate german day29_b_sex_a3c1c5ed:
+
+    # b "Fuck no, [p_name], not now."
+    b "Scheiße nein [p_name] nicht jetzt"
+
+# game/day29.rpy:894
+translate german day29_b_sex_a6d25133:
+
+    # p "{i}(She doesn't seem to realize that I'm very close by.)"
+    p "{i}(Sie scheint nicht zu merken, dass ich ganz in der Nähe bin)"
+
+# game/day29.rpy:899
+translate german day29_b_sex_2638393a:
+
+    # b "Ugh, that fucking thing... Mmmmm..."
+    b "Igitt, dieses verdammte Ding Mmmmm"
+
+# game/day29.rpy:900
+translate german day29_b_sex_0e1021c1:
+
+    # b "Shit, it's so intense..."
+    b "Scheiße, das ist so intensiv"
+
+# game/day29.rpy:902
+translate german day29_b_sex_de6f24a9:
+
+    # b "Stop it..."
+    b "Hör auf"
+
+# game/day29.rpy:903
+translate german day29_b_sex_c7443339:
+
+    # b "Make it stop..."
+    b "Mach, dass es aufhört"
+
+# game/day29.rpy:904
+translate german day29_b_sex_54161e51:
+
+    # b "Aaah!"
+    b "Aaah!"
+
+# game/day29.rpy:905
+translate german day29_b_sex_eca6f8a6:
+
+    # b "I don't want it to stop..."
+    b "Ich will nicht, dass es aufhört"
+
+# game/day29.rpy:910
+translate german day29_b_sex_41773800:
+
+    # "{i}When [b_name] removes her panties and starts to finger herself, you decide it's a good time to make your presence known."
+    "{i}Wenn [b_name] ihr Höschen auszieht und anfängt, sich selbst zu fingern, ist das ein guter Zeitpunkt, um sich bemerkbar zu machen"
+
+# game/day29.rpy:916
+translate german day29_b_sex_2a28189e:
+
+    # p "{i}(Looks like [b_name] is enjoying herself without me... Why on earth did she leave the door open?!)"
+    p "{i}(Sieht so aus, als ob [b_name] sich ohne mich vergnügt. Warum in aller Welt hat sie die Tür offen gelassen?!)"
+
+# game/day29.rpy:917
+translate german day29_b_sex_eab4a24c:
+
+    # p "{i}(We can't have that.)"
+    p "{i}(Das können wir nicht zulassen)"
+
+# game/day29.rpy:922
+translate german day29_b_sex_515e4abf:
+
+    # p "My dear [b_name], are you preparing yourself for me?"
+    p "Mein lieber [b_name], bereitest du dich auf mich vor?"
+
+# game/day29.rpy:923
+translate german day29_b_sex_adae013b:
+
+    # b "Fuck."
+    b "Fuck"
+
+# game/day29.rpy:924
+translate german day29_b_sex_49f4c2a6:
+
+    # b "No. Of course not."
+    b "Nein, natürlich nicht"
+
+# game/day29.rpy:925
+translate german day29_b_sex_fc5c4f16:
+
+    # p "Sure you are."
+    p "Natürlich bist du das"
+
+# game/day29.rpy:926
+translate german day29_b_sex_11a28985:
+
+    # p "The sight of you fingering your pussy like that has made me a little anxious."
+    p "Der Anblick, wie du deine Muschi so befingerst, hat mich ein wenig beunruhigt"
+
+# game/day29.rpy:927
+translate german day29_b_sex_4d0bd3e2:
+
+    # p "Why don't we do something about that. Together."
+    p "Warum tun wir nicht gemeinsam etwas dagegen?"
+# game/day29.rpy:928
+translate german day29_b_sex_5f43804c:
+
+    # b "What do you want?"
+    b "Was wollen Sie?"
+
+# game/day29.rpy:930
+translate german day29_b_sex_a36db4fe:
+
+    # p "Let's remove that toy first."
+    p "Lass uns erst das Spielzeug entfernen"
+
+# game/day29.rpy:931
+translate german day29_b_sex_b6197f6d:
+
+    # b "About fucking time."
+    b "Wurde aber auch Zeit"
+
+# game/day29.rpy:932
+translate german day29_b_sex_936e34c9:
+
+    # p "Spread those beautiful legs for me."
+    p "Spreiz diese schönen Beine für mich"
+
+# game/day29.rpy:934
+translate german day29_b_sex_83c0ee96:
+
+    # "{i}You pull the still vibrating egg out of [b_name]'s pussy, causing her some discomfort."
+    "{i}Du ziehst das immer noch vibrierende Ei aus [b_name]'s Muschi, was ihr einige Unannehmlichkeiten bereitet"
+
+# game/day29.rpy:936
+translate german day29_b_sex_936e34c9_1:
+
+    # p "Spread those beautiful legs for me."
+    p "Spreiz diese schönen Beine für mich"
+
+# game/day29.rpy:939
+translate german day29_b_sex_fd6e5a3b:
+
+    # p "I see you're already nice and wet."
+    p "Ich sehe, du bist schon schön nass"
+
+# game/day29.rpy:940
+translate german day29_b_sex_cff7f4a6:
+
+    # b "That changed as soon as you walked in."
+    b "Das änderte sich, als du hereinkamst"
+
+# game/day29.rpy:941
+translate german day29_b_sex_f2d3ad6f:
+
+    # p "Really now."
+    p "Wirklich jetzt"
+
+# game/day29.rpy:942
+translate german day29_b_sex_88dd7b36:
+
+    # p "Let's not waste more time then."
+    p "Dann lass uns keine Zeit mehr verlieren"
+
+# game/day29.rpy:948
+translate german day29_b_sex_6dbdb5f6:
+
+    # "{i}You push the tip of your dick against her labia and move it up and down, sending bolts of pleasure through your body and wetting your sister's pussy again."
+    "{i}Du drückst die Spitze deines Schwanzes gegen ihre Schamlippen und bewegst ihn auf und ab, wobei du Lustschübe durch deinen Körper schickst und die Muschi deiner Schwester wieder nass machst."
+
+# game/day29.rpy:950
+translate german day29_b_sex_73ac75e9:
+
+    # "{i}You push the tip of your dick against her lips and move it up and down, sending bolts of pleasure through your body and wetting your girl's pussy again."
+    "{i}Du drückst die Spitze deines Schwanzes gegen ihre Lippen und bewegst ihn auf und ab, wobei du Lustschübe durch deinen Körper schickst und die Muschi deines Mädchens wieder nass machst."
+
+# game/day29.rpy:955
+translate german day29_b_sex_916b0812:
+
+    # "{i}[b_name] tries very hard to not make any noises, but ultimately fails as your veined shaft slides between her pussy lips."
+    "{i}[b_name] bemüht sich sehr, keine Geräusche zu machen, aber es gelingt ihm nicht, als dein geäderter Schaft zwischen ihre Schamlippen gleitet"
+
+# game/day29.rpy:956
+translate german day29_b_sex_1e90da1c:
+
+    # "{i}Her breathing is measured by the rhythm of your cock slamming inside her, not pausing once to let her catch her breath."
+    "{i}Ihre Atmung wird durch den Rhythmus deines Schwanzes bestimmt, der in sie eindringt, ohne eine Pause zu machen, damit sie Luft holen kann."
+
+# game/day29.rpy:958
+translate german day29_b_sex_33d36af8:
+
+    # p "Goddamn, you're so fucking amazing."
+    p "Gottverdammt, du bist so verdammt toll"
+
+# game/day29.rpy:959
+translate german day29_b_sex_bb01cc2e:
+
+    # p "And you're mine."
+    p "Und du gehörst mir"
+
+# game/day29.rpy:960
+translate german day29_b_sex_6fc22704:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day29.rpy:961
+translate german day29_b_sex_d6d9f012:
+
+    # p "Say it..."
+    p "Sag es"
+
+# game/day29.rpy:962
+translate german day29_b_sex_6fc22704_1:
+
+    # b "Mmmm..."
+    b "Mmmm"
+
+# game/day29.rpy:963
+translate german day29_b_sex_f0e66e5a:
+
+    # p "Say it, or I'll stop."
+    p "Sag es oder ich höre auf"
+
+# game/day29.rpy:964
+translate german day29_b_sex_4df92309:
+
+    # b "I... Fuck... I'm yours!"
+    b "Ich ficke, dass ich dir gehöre!"
+
+# game/day29.rpy:965
+translate german day29_b_sex_eaa9ca80:
+
+    # p "Good girl."
+    p "Braves Mädchen"
+
+# game/day29.rpy:966
+translate german day29_b_sex_86dd199b:
+
+    # p "Now turn around."
+    p "Jetzt umdrehen"
+
+# game/day29.rpy:973
+translate german day29_b_sex_c1313980:
+
+    # "{i}Firmly, you grab the sides of her body and continue your assault on her pussy. [b_name] just lets it happen, breathing raggedly and moaning, a faint smile on her face."
+    "{i}Fest packst du sie an den Seiten ihres Körpers und setzt deinen Angriff auf ihre Muschi fort [b_name] lässt es einfach geschehen, atmet schwer und stöhnt ein schwaches Lächeln auf ihrem Gesicht."
+
+# game/day29.rpy:974
+translate german day29_b_sex_9cf11fcf:
+
+    # "{i}You have a magnificent view of her ass which is bouncing seductively."
+    "{i}Du hast einen herrlichen Blick auf ihren Arsch, der verführerisch wackelt"
+
+# game/day29.rpy:976
+translate german day29_b_sex_6329f807:
+
+    # p "You liked that dildo up your ass, didn't you, [b_name]?"
+    p "Der Dildo in deinem Arsch hat dir gefallen, oder [b_name]?"
+
+# game/day29.rpy:977
+translate german day29_b_sex_df44d03d:
+
+    # b "No!"
+    b "Nein!"
+
+# game/day29.rpy:978
+translate german day29_b_sex_dd529617:
+
+    # p "Liar, you told me so."
+    p "Lügnerin, du hast es mir gesagt"
+
+# game/day29.rpy:980
+translate german day29_b_sex_f4fb6a6a:
+
+    # b "Don't do it!"
+    b "Tun Sie das nicht!"
+
+# game/day29.rpy:981
+translate german day29_b_sex_90aaadf8:
+
+    # p "Relax..."
+    p "Entspannen"
+
+# game/day29.rpy:982
+translate german day29_b_sex_b26f9d22:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Du spuckst ihr zwischen die Arschbacken, während du sie weiter fickst. Die Spucke läuft in Richtung ihres Anus und vermischt sich mit den Säften ihrer Muschi"
+
+# game/day29.rpy:984
+translate german day29_b_sex_b3759eda:
+
+    # "{i}The sight of her winking asshole gives you an idea."
+    "{i}Der Anblick ihres zwinkernden Arschlochs bringt dich auf eine Idee"
+
+# game/day29.rpy:985
+translate german day29_b_sex_4f0022a4:
+
+    # p "Your ass is so fine."
+    p "Dein Arsch ist so schön"
+
+# game/day29.rpy:986
+translate german day29_b_sex_a6a16b10:
+
+    # b "Mmm..."
+    b "Mmm"
+
+# game/day29.rpy:987
+translate german day29_b_sex_b26f9d22_1:
+
+    # "{i}You spit between her ass cheeks as you keep fucking her. Spittle runs down towards her anus and mixes with the juices of her pussy."
+    "{i}Du spuckst ihr zwischen die Arschbacken, während du sie weiter fickst. Die Spucke läuft in Richtung ihres Anus und vermischt sich mit den Säften ihrer Muschi"
+
+# game/day29.rpy:989
+translate german day29_b_sex_04550608:
+
+    # b "What are you doing?"
+    b "Was machst du da?"
+
+# game/day29.rpy:990
+translate german day29_b_sex_d4e7fd69:
+
+    # b "Don't you dare!"
+    b "Wage es ja nicht!"
+
+# game/day29.rpy:991
+translate german day29_b_sex_783f84f3:
+
+    # p "Just relax..."
+    p "Einfach entspannen"
+
+# game/day29.rpy:993
+translate german day29_b_sex_460a8534:
+
+    # "{i}You caress the skin folds of your sister's clenched anus with your fingertips."
+    "{i}Du streichelst die Hautfalten des zusammengepressten Anus deiner Schwester mit deinen Fingerspitzen"
+
+# game/day29.rpy:995
+translate german day29_b_sex_5dd93722:
+
+    # "{i}You caress the skin folds of your girl's clenched anus with your fingertips."
+    "{i}Du streichelst die Hautfalten des zusammengepressten Anus deines Mädchens mit deinen Fingerspitzen"
+
+# game/day29.rpy:999
+translate german day29_b_sex_7bf203dc:
+
+    # "{i}Using the saliva as a lubricant you slowly but surely press your finger inside her asshole."
+    "{i}Mit dem Speichel als Gleitmittel drückst du langsam aber sicher deinen Finger in ihr Arschloch."
+
+# game/day29.rpy:1000
+translate german day29_b_sex_797f0ad4:
+
+    # b "Ggggaaah!"
+    b "Ggggaaah!"
+
+# game/day29.rpy:1001
+translate german day29_b_sex_e506ccf2:
+
+    # "{i}You don't stop fucking her as you finger her asshole. The only thing [b_name] is able to do is moan in ecstasy."
+    "{i}Du hörst nicht auf, sie zu ficken, während du ihr Arschloch fingerst. Das Einzige, was [b_name] tun kann, ist in Ekstase zu stöhnen"
+
+# game/day29.rpy:1002
+translate german day29_b_sex_34ab9313:
+
+    # p "I thought you said you didn't like it?"
+    p "Ich dachte, du hättest gesagt, du magst es nicht?"
+
+# game/day29.rpy:1003
+translate german day29_b_sex_54161e51_1:
+
+    # b "Aaah!"
+    b "Aaah!"
+
+# game/day29.rpy:1004
+translate german day29_b_sex_e14ea2ad:
+
+    # p "There's a good slut."
+    p "Das ist eine gute Schlampe"
+
+# game/day29.rpy:1005
+translate german day29_b_sex_6901be99:
+
+    # p "Getting off on being fingered in your ass, are you?"
+    p "Du stehst darauf, in den Arsch gefingert zu werden, was?"
+
+# game/day29.rpy:1006
+translate german day29_b_sex_df44d03d_1:
+
+    # b "No!"
+    b "Nein!"
+
+# game/day29.rpy:1007
+translate german day29_b_sex_7d1c486e:
+
+    # b "Yes!"
+    b "Ja!"
+
+# game/day29.rpy:1014
+translate german day29_b_sex_4e6002bf:
+
+    # "{i}You're about to insert another finger inside her anus when her orgasm surprises you both."
+    "{i}Du willst gerade einen weiteren Finger in ihren Anus einführen, als ihr Orgasmus euch beide überrascht."
+
+# game/day29.rpy:1016
+translate german day29_b_sex_b558bc2f:
+
+    # "{i}It makes her vagina incredibly wet, and your dick nearly slips out of her, but you manage to keep fucking her until your climax is near."
+    "{i}Es macht ihre Vagina unglaublich feucht und dein Schwanz rutscht fast aus ihr heraus, aber du schaffst es, sie weiter zu ficken, bis dein Höhepunkt nah ist."
+# game/day29.rpy:1027
+translate german day29_b_sex_0c355813:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Während deine Schwester einen wilden Orgasmus hat, hast du Mühe, sie auf deinem Schwanz zu halten, aber er ist immer noch in ihr, wenn dein Sperma anfängt zu fließen."
+
+# game/day29.rpy:1029
+translate german day29_b_sex_09f14b39:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock, but it's still inside her when your cum starts flowing."
+    "{i}Während deine Freundin einen wilden Orgasmus hat, hast du Mühe, sie auf deinem Schwanz zu halten, aber er ist immer noch in ihr, wenn dein Sperma anfängt zu fließen."
+# game/day29.rpy:1043
+translate german day29_b_sex_ab97e8e5:
+
+    # "{i}While your sister is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Während deine Schwester einen wilden Orgasmus hat, hast du Probleme, sie auf deinem Schwanz zu halten."
+# game/day29.rpy:1045
+translate german day29_b_sex_1325384c:
+
+    # "{i}While your friend is orgasming wildly, you have trouble keeping her on your cock."
+    "{i}Während deine Freundin einen wilden Orgasmus hat, hast du Probleme, sie auf deinem Schwanz zu halten."
+# game/day29.rpy:1046
+translate german day29_b_sex_61875a7a:
+
+    # "{i}You let it slip out and let your cum flow all over her back."
+    "{i}Du lässt ihn rausrutschen und lässt dein Sperma über ihren Rücken fließen"
+
+# game/day29.rpy:1055
+translate german day29_b_sex_6e3c14aa:
+
+    # "{i}[b_name] cleans herself up and glares at you, despite the pleasure you just shared."
+    "{i}[b_name] macht sich sauber und starrt dich an, trotz des Vergnügens, das ihr gerade geteilt habt"
+
+# game/day29.rpy:1057
+translate german day29_b_sex_ff05c4c4:
+
+    # p "That was interesting."
+    p "Das war interessant"
+
+# game/day29.rpy:1058
+translate german day29_b_sex_3735a1ed:
+
+    # b "Don't even think for a minute I'm up for more."
+    b "Denken Sie nicht, dass ich noch mehr will"
+
+# game/day29.rpy:1059
+translate german day29_b_sex_1d83294d:
+
+    # p "Are you sure?"
+    p "Are you sure?"
+
+# game/day29.rpy:1060
+translate german day29_b_sex_5a68789f:
+
+    # b "Yes, I'm fucking sure."
+    b "Ja, ich bin mir verdammt sicher"
+
+# game/day29.rpy:1061
+translate german day29_b_sex_bd0b3e68:
+
+    # p "You'll come around, I'm sure you do."
+    p "Du kommst schon noch zurecht, da bin ich mir sicher"
+
+# game/day29.rpy:1062
+translate german day29_b_sex_c0bf7ea1:
+
+    # b "Go away."
+    b "Geh weg"
+
+# game/day29.rpy:1077
+translate german day29_l_masturbation_bd368b3d:
+
+    # "{i}You shuffle underneath the blankets and try to keep warm."
+    "{i}Du schlurfst unter die Decke und versuchst, dich warm zu halten"
+
+# game/day29.rpy:1078
+translate german day29_l_masturbation_586c421f:
+
+    # l "I'm s-so c-c-cold..."
+    l "Mir ist so s-so-k-kalt"
+
+# game/day29.rpy:1079
+translate german day29_l_masturbation_00028e1e:
+
+    # p "Me too..."
+    p "Ich auch"
+
+# game/day29.rpy:1080
+translate german day29_l_masturbation_04be0cfb:
+
+    # p "I read somewhere that skin on skin contact helps."
+    p "Ich habe irgendwo gelesen, dass Haut-auf-Haut-Kontakt hilft"
+
+# game/day29.rpy:1081
+translate german day29_l_masturbation_487dd9a4:
+
+    # l "I'm willing to try anything."
+    l "Ich bin bereit, alles zu versuchen"
+
+# game/day29.rpy:1082
+translate german day29_l_masturbation_21a958e9:
+
+    # p "We kinda need to get completely naked and hold each other close."
+    p "Wir müssen uns ganz nackt ausziehen und uns aneinander festhalten"
+
+# game/day29.rpy:1083
+translate german day29_l_masturbation_f6cfd697:
+
+    # l "N-no underw-wear, y-you m-mean"
+    l "N-keine Unterwäsche, die Sie meinen"
+
+# game/day29.rpy:1084
+translate german day29_l_masturbation_e66125da:
+
+    # p "Yup."
+    p "Yup"
+
+# game/day29.rpy:1085
+translate german day29_l_masturbation_ea527966:
+
+    # l "T-t-that's not so b-b-bad, is it?"
+    l "D-d-das ist doch nicht so b-schlimm, oder?"
+
+# game/day29.rpy:1087
+translate german day29_l_masturbation_298d3e54:
+
+    # "{i}After you both undress, you hold [l_name] in your arms. Her skin feels soft and cold on yours."
+    "{i}Nachdem ihr euch beide ausgezogen habt, nimmst du [l_Name] in den Arm Ihre Haut fühlt sich weich und kalt auf deiner an"
+
+# game/day29.rpy:1088
+translate german day29_l_masturbation_947fcb87:
+
+    # p "Do you feel warmer?"
+    p "Fühlst du dich wärmer?"
+
+# game/day29.rpy:1089
+translate german day29_l_masturbation_d37a2cb7:
+
+    # l "I think so."
+    l "Ich glaube schon"
+
+# game/day29.rpy:1090
+translate german day29_l_masturbation_3c358972:
+
+    # p "You've stopped shivering."
+    p "Du hast aufgehört zu zittern"
+
+# game/day29.rpy:1091
+translate german day29_l_masturbation_915f99db:
+
+    # l "I'm still cold."
+    l "Mir ist immer noch kalt"
+
+# game/day29.rpy:1092
+translate german day29_l_masturbation_99085df3:
+
+    # p "Maybe it would help if we rubbed our skin."
+    p "Vielleicht hilft es, wenn wir uns die Haut einreiben"
+
+# game/day29.rpy:1098
+translate german day29_l_masturbation_600802e7:
+
+    # "{i}After you place a hand on your sister's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Nachdem du eine Hand auf die Schulter deiner Schwester gelegt hast, massierst du ihre Arme und ihren Rücken und [l_Name] schließt ihre Augen."
+# game/day29.rpy:1100
+translate german day29_l_masturbation_7e21322b:
+
+    # "{i}After you place a hand on your friend's shoulder, you massage her arms and back. [l_name] closes her eyes."
+    "{i}Nachdem du eine Hand auf die Schulter deiner Freundin gelegt und ihre Arme und ihren Rücken massiert hast, schließt [l_Name] die Augen."
+# game/day29.rpy:1101
+translate german day29_l_masturbation_77ba347f:
+
+    # p "Is that better?"
+    p "Ist das besser?"
+
+# game/day29.rpy:1102
+translate german day29_l_masturbation_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm"
+
+# game/day29.rpy:1103
+translate german day29_l_masturbation_fa3eddbf:
+
+    # "{i}When her upper body feels warm to the touch, you move to her hips and legs and give them the same treatment."
+    "{i}Wenn sich ihr Oberkörper warm anfühlt, gehst du zu ihren Hüften und Beinen über und wendest die gleiche Behandlung an."
+# game/day29.rpy:1104
+translate german day29_l_masturbation_1049a691:
+
+    # l "It really works."
+    l "Es funktioniert wirklich"
+
+# game/day29.rpy:1105
+translate german day29_l_masturbation_03b82946:
+
+    # "{i}You kiss her shoulder blade and the nape of her neck."
+    "{i}Du küsst ihr Schulterblatt und ihren Nacken"
+
+# game/day29.rpy:1106
+translate german day29_l_masturbation_10443e0d:
+
+    # l "Please don't stop."
+    l "Bitte hören Sie nicht auf"
+
+# game/day29.rpy:1107
+translate german day29_l_masturbation_086cad75:
+
+    # p "But you're warm already."
+    p "Aber du bist doch schon warm"
+
+# game/day29.rpy:1108
+translate german day29_l_masturbation_cd28bb69:
+
+    # l "I know, but I like the feeling."
+    l "Ich weiß, aber ich mag das Gefühl"
+
+# game/day29.rpy:1110
+translate german day29_l_masturbation_2fd9c300:
+
+    # "{i}[l_name] turns towards you and looks deeply into your eyes. You cannot help but kiss her mouth."
+    "{i}[l_name] wendet sich dir zu und sieht dir tief in die Augen Du kannst nicht anders, als ihren Mund zu küssen"
+
+# game/day29.rpy:1112
+translate german day29_l_masturbation_b3a7ddfc:
+
+    # l "Mmmm... [p_name]!"
+    l "Mmmm [p_name]!"
+
+# game/day29.rpy:1114
+translate german day29_l_masturbation_abd505a2:
+
+    # p "Sorry, but your lips were cold."
+    p "Tut mir leid, aber deine Lippen waren kalt"
+
+# game/day29.rpy:1115
+translate german day29_l_masturbation_f07890dd:
+
+    # l "Haha!"
+    l "Haha!"
+
+# game/day29.rpy:1116
+translate german day29_l_masturbation_af2584ed:
+
+    # "{i}The sight of her firm breasts and their proud nipples, combined with your passionate kiss, is starting to make you hard."
+    "{i}Der Anblick ihrer festen Brüste und ihrer stolzen Nippel in Kombination mit deinem leidenschaftlichen Kuss macht dich hart"
+
+# game/day29.rpy:1117
+translate german day29_l_masturbation_97be07fe:
+
+    # l "There's something... Oh..."
+    l "Da ist etwas Oh"
+
+# game/day29.rpy:1118
+translate german day29_l_masturbation_e88a0767:
+
+    # p "Sorry."
+    p "Entschuldigung"
+
+# game/day29.rpy:1119
+translate german day29_l_masturbation_517cb65b:
+
+    # l "Don't be."
+    l "Muss nicht sein"
+
+# game/day29.rpy:1120
+translate german day29_l_masturbation_9d29c86a:
+
+    # l "You're still cold too."
+    l "Du bist auch noch kalt"
+
+# game/day29.rpy:1121
+translate german day29_l_masturbation_afc4ff76:
+
+    # p "I am."
+    p "Ich bin"
+
+# game/day29.rpy:1122
+translate german day29_l_masturbation_8598487a:
+
+    # l "Mind if I give you the same treatment?"
+    l "Darf ich dich auch so behandeln?"
+
+# game/day29.rpy:1123
+translate german day29_l_masturbation_f1c98617:
+
+    # p "Not at all."
+    p "Ganz und gar nicht"
+
+# game/day29.rpy:1128
+translate german day29_l_masturbation_3efd99a2:
+
+    # "{i}The girl proceeds to treat your skin the same way you did hers, but you notice she presses her body even closer to yours."
+    "{i}Das Mädchen behandelt deine Haut genauso wie du ihre, aber du merkst, dass sie ihren Körper noch näher an deinen presst."
+# game/day29.rpy:1129
+translate german day29_l_masturbation_33819e20:
+
+    # "{i}As you turn over, your leg slips between her thighs, and you feel the lips of her pussy on your bare skin. [l_name] doesn't seem to notice."
+    "{i}Als du dich umdrehst, rutscht dein Bein zwischen ihre Schenkel und du spürst die Lippen ihrer Muschi auf deiner nackten Haut [l_name] scheint es nicht zu bemerken."
+# game/day29.rpy:1131
+translate german day29_l_masturbation_21e1e7b3:
+
+    # "{i}Unconsciously, she starts to grind her pussy on your leg, craving the pleasure the motions send through her body."
+    "{i}Unbewusst beginnt sie ihre Muschi an deinem Bein zu reiben und sehnt sich nach dem Vergnügen, das die Bewegungen durch ihren Körper schicken."
+
+# game/day29.rpy:1132
+translate german day29_l_masturbation_93ea5af1:
+
+    # "{i}Not wanting to ruin the moment, you don't speak and wrap your arms around her."
+    "{i}Um den Moment nicht zu ruinieren, sagst du nichts und legst deine Arme um sie"
+
+# game/day29.rpy:1133
+translate german day29_l_masturbation_eba44e9f:
+
+    # l "Mmmmmm..."
+    l "Mmmmmm"
+
+# game/day29.rpy:1134
+translate german day29_l_masturbation_65fa5b8a:
+
+    # "{i}Your massage completely forgotten, [l_name] continues, breathing ever more heavily."
+    "{i}Deine Massage hat [l_name] völlig vergessen und atmet immer schwerer"
+
+# game/day29.rpy:1136
+translate german day29_l_masturbation_d88acbc7:
+
+    # l "Oh!"
+    l "Oh!"
+
+# game/day29.rpy:1137
+translate german day29_l_masturbation_60783c8b:
+
+    # l "What are we doing?!"
+    l "Was machen wir hier?!"
+
+# game/day29.rpy:1138
+translate german day29_l_masturbation_0246ef9a:
+
+    # "{i}[l_name] tries to squirm out of your arms, but there's no real conviction behind her actions, as if she wants to continue to do what makes her feel good."
+    "{i}[l_name] versucht, sich aus deinen Armen zu winden, aber es steckt keine wirkliche Überzeugung hinter ihren Handlungen, als ob sie weiterhin das tun möchte, was ihr ein gutes Gefühl gibt."
+# game/day29.rpy:1139
+translate german day29_l_masturbation_caba0a24:
+
+    # p "I don't mind."
+    p "Es macht mir nichts aus"
+
+# game/day29.rpy:1140
+translate german day29_l_masturbation_f86d916c:
+
+    # p "It works even better to keep warm, I think."
+    p "Es funktioniert sogar besser, um sich warm zu halten, denke ich"
+
+# game/day29.rpy:1145
+translate german day29_l_masturbation_4e0ef72d:
+
+    # l "I shouldn't..."
+    l "Ich sollte nicht"
+
+# game/day29.rpy:1146
+translate german day29_l_masturbation_236cf105:
+
+    # p "You wanted to do what feels right to you, don't you?"
+    p "Du wolltest tun, was sich für dich richtig anfühlt, nicht wahr?"
+
+# game/day29.rpy:1147
+translate german day29_l_masturbation_2af0a44b:
+
+    # l "Yes, but..."
+    l "Ja, aber"
+
+# game/day29.rpy:1148
+translate german day29_l_masturbation_c70ebffe:
+
+    # p "This is one of those moments where you should listen to your body, act on your instincts."
+    p "Das ist einer der Momente, in denen man auf seinen Körper hören und seinen Instinkten folgen sollte"
+
+# game/day29.rpy:1149
+translate german day29_l_masturbation_21477378:
+
+    # l "But I'm using you..."
+    l "Aber ich benutze dich"
+
+# game/day29.rpy:1150
+translate german day29_l_masturbation_1a69e8f1:
+
+    # p "Only technically..."
+    p "Nur technisch"
+
+# game/day29.rpy:1151
+translate german day29_l_masturbation_007180d8:
+
+    # l "Oh... So you don't mind?"
+    l "Oh, es macht dir also nichts aus?"
+
+# game/day29.rpy:1152
+translate german day29_l_masturbation_eb716dfc:
+
+    # p "Just trust that I'll let you know."
+    p "Vertrau einfach darauf, dass ich dir Bescheid gebe"
+
+# game/day29.rpy:1153
+translate german day29_l_masturbation_c6c955e3:
+
+    # l "Okay..."
+    l "Okay"
+
+# game/day29.rpy:1154
+translate german day29_l_masturbation_560ee807:
+
+    # p "Does it help when I kiss you?"
+    p "Hilft es, wenn ich dich küsse?"
+
+# game/day29.rpy:1156
+translate german day29_l_masturbation_b3ef1b9b:
+
+    # l "Maybe..."
+    l "Vielleicht"
+
+# game/day29.rpy:1158
+translate german day29_l_masturbation_1dc0465a:
+
+    # "{i}Before she can think of any more weak objections, you kiss her with such fire that she automatically resumes sliding her pussy on your leg, this time with much more conviction."
+    "{i}Bevor sie weitere schwache Einwände vorbringen kann, küsst du sie so feurig, dass sie automatisch wieder ihre Muschi auf dein Bein schiebt, diesmal mit viel mehr Überzeugung."
+# game/day29.rpy:1159
+translate german day29_l_masturbation_1676d17b:
+
+    # l "Oh [p_name]!"
+    l "Oh [p_name]!"
+
+# game/day29.rpy:1160
+translate german day29_l_masturbation_9df729d7:
+
+    # p "Just keep going, don't be afraid."
+    p "Mach einfach weiter, hab keine Angst"
+
+# game/day29.rpy:1161
+translate german day29_l_masturbation_04e36e67:
+
+    # l "I-I'm not... Aaaah!"
+    l "I-ich bin nicht Aaaah!"
+
+# game/day29.rpy:1166
+translate german day29_l_masturbation_593144a0:
+
+    # "{i}While [l_name] focuses on pleasuring herself, you turn your attention to her breasts, showering them with kissing and softly suckling her nipples."
+    "{i}Während [l_name] sich selbst befriedigt, wendest du deine Aufmerksamkeit ihren Brüsten zu, küsst sie und saugst sanft an ihren Brustwarzen."
+# game/day29.rpy:1168
+translate german day29_l_masturbation_b986ab8a:
+
+    # "{i}Your sister holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Deine Schwester hält dich ganz nah bei sich und drückt dein Gesicht an ihren üppigen Busen, während du den Duft ihres Parfüms, vermischt mit Schweiß, einsaugst."
+# game/day29.rpy:1170
+translate german day29_l_masturbation_fd701959:
+
+    # "{i}Your friend holds you very close, pressing your face against her voluptuous bosom, and you drink in her smell of perfume mixed with sweat."
+    "{i}Deine Freundin hält dich ganz nah bei sich und drückt dein Gesicht an ihren üppigen Busen, während du den Duft ihres Parfüms, vermischt mit Schweiß, in dich aufnimmst."
+# game/day29.rpy:1171
+translate german day29_l_masturbation_0ffa60ce:
+
+    # l "I'm... I'm so close!"
+    l "Ich bin so nah dran!"
+
+# game/day29.rpy:1173
+translate german day29_l_masturbation_2f326aef:
+
+    # "{i}You intensify your attention to her breasts, as her grinding enters the final stretch. Her upper leg is massaging your cock, and you start to lose your own bearings."
+    "{i}Du intensivierst deine Aufmerksamkeit auf ihre Brüste, als ihr Mahlen in die Endphase geht. Ihr oberes Bein massiert deinen Schwanz und du beginnst, die Orientierung zu verlieren."
+
+# game/day29.rpy:1174
+translate german day29_l_masturbation_ab17848e:
+
+    # p "[l_name]!"
+    p "[l_name]!"
+
+# game/day29.rpy:1175
+translate german day29_l_masturbation_c1d4061a:
+
+    # l "Yes?!"
+    l "Ja?!"
+
+# game/day29.rpy:1176
+translate german day29_l_masturbation_87c00d69:
+
+    # p "Don't stop..."
+    p "Nicht aufhören"
+
+# game/day29.rpy:1177
+translate german day29_l_masturbation_a0e74141:
+
+    # l "I won't..."
+    l "Ich will nicht"
+
+# game/day29.rpy:1178
+translate german day29_l_masturbation_70556a20:
+
+    # l "I won't!"
+    l "Das werde ich nicht!"
+
+# game/day29.rpy:1185
+translate german day29_l_masturbation_c202593b:
+
+    # "{i}As her movements start to lose coordination, you know she's about to climax. From deep within, your own orgasm builds, and you release almost at the same time."
+    "{i}Als ihre Bewegungen an Koordination verlieren, weißt du, dass sie kurz vor dem Höhepunkt steht. Tief in deinem Inneren baut sich dein eigener Orgasmus auf und du entlässt sie fast zur gleichen Zeit."
+# game/day29.rpy:1186
+translate german day29_l_masturbation_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day29.rpy:1187
+translate german day29_l_masturbation_7bfa6ff2:
+
+    # "{i}Embracing each other, you climb the peaks of your pleasure, [l_name]'s juices covering your leg, and you spraying cum all over her thighs and belly."
+    "{i}Ihr umarmt euch, ihr erklimmt den Gipfel eurer Lust, [l_name]'s Säfte bedecken dein Bein und du spritzt Sperma über ihre Oberschenkel und ihren Bauch"
+
+# game/day29.rpy:1193
+translate german day29_l_masturbation_cb14584f:
+
+    # "{i}Half an hour passes, and [l_name] just sighs in your arms and absentmindedly strokes your chest."
+    "{i}Eine halbe Stunde vergeht und [l_Name] seufzt nur in deinen Armen und streichelt geistesabwesend deine Brust"
+
+# game/day29.rpy:1194
+translate german day29_l_masturbation_8be67411:
+
+    # p "I don't know about you, but I finally feel warm."
+    p "Ich weiß nicht, wie es dir geht, aber ich fühle mich endlich warm"
+
+# game/day29.rpy:1195
+translate german day29_l_masturbation_1169bd3f:
+
+    # l "You're right, me too."
+    l "Du hast Recht, ich auch"
+

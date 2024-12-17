@@ -3200,3 +3200,702 @@ translate german day12_7575467a:
 
     # "{i}Just as you want to sit down and play a game, there's a knock on your door."
     "{i}Gerade als du dich hinsetzen und ein Spiel spielen willst, klopft es an deine Tür."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day12.rpy:206
+translate german day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Ich störe sie besser nicht, aber nichts hindert mich daran, einen besseren Blick auf diese herrlichen Brüste zu werfen)"
+
+# game/day12.rpy:208
+translate german day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Lass sie besser schlafen)"
+
+# game/day12.rpy:216
+translate german day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Mein Gott [p_name], kannst du mich nicht einfach in Ruhe lassen?"
+
+# game/day12.rpy:218
+translate german day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Ich bin nur hier, um zu reden, Schwesterchen, es sei denn, du willst mehr?"
+
+# game/day12.rpy:220
+translate german day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Ich bin nur hier, um zu reden [b_name] Es sei denn, du willst mehr?"
+
+# game/day12.rpy:222
+translate german day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "Nein, du hattest heute schon genug von mir"
+
+# game/day12.rpy:223
+translate german day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "Sehr wahr"
+
+# game/day12.rpy:224
+translate german day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "Ich mag die freie Natur sehr, du nicht"
+
+# game/day12.rpy:225
+translate german day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Fick dich, ich will schlafen gehen"
+
+# game/day12.rpy:226
+translate german day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "Okay, aber ich habe eine Bitte"
+
+# game/day12.rpy:227
+translate german day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "Nicht schon wieder"
+
+# game/day12.rpy:228
+translate german day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Lassen wir die Bombe platzen)"
+
+# game/day12.rpy:229
+translate german day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "Ich weiß, dass du auf Spielzeug stehst"
+
+# game/day12.rpy:232
+translate german day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "Also, wenn wir das nächste Mal Spaß haben, wirst du eine an dir selbst benutzen, während ich zusehe."
+# game/day12.rpy:233
+translate german day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day12.rpy:234
+translate german day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "Wie geht es Ihnen"
+
+# game/day12.rpy:235
+translate german day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "Hast du mein Zimmer durchsucht, du kleiner Scheißer?!"
+
+# game/day12.rpy:236
+translate german day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(So ähnlich)"
+
+# game/day12.rpy:239
+translate german day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Weißt du, mit dieser Einstellung sollten wir diese kleine Show jetzt machen."
+# game/day12.rpy:240
+translate german day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Scheiße, nein, das werde ich nicht tun"
+
+# game/day12.rpy:241
+translate german day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "Dann sag das Zauberwort"
+
+# game/day12.rpy:242
+translate german day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Fuck"
+
+# game/day12.rpy:243
+translate german day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}[b_name] geht zu einem Schrank und kramt darin herum Sie holt ihren schwarzen Dildo heraus"
+
+# game/day12.rpy:244
+translate german day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Gut, jetzt möchte ich, dass du dir eine schöne Zeit machst"
+
+# game/day12.rpy:248
+translate german day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Morgen Du mir Dein Spielzeug und viel Spaß Schlaf gut liebe Schwester"
+
+# game/day12.rpy:250
+translate german day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Morgen Du mir Dein Spielzeug und viel Spaß Schlaf gut lieber [b_name]"
+
+# game/day12.rpy:258
+translate german day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "(Riley hatte ein Geschenk für mich, sie sagte, ich solle es mir ansehen)"
+
+# game/day12.rpy:261
+translate german day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Du gehst zu der Adresse, die Riley dir geschickt hat Es ist ein Wohnhaus in der Nähe des Stadtzentrums Du klingelst und sie ruft dich an Nachdem du ein paar Stockwerke hochgelaufen bist, gehst du durch die Haustür, die halb geöffnet ist"
+
+# game/day12.rpy:264
+translate german day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Hallo du!"
+
+# game/day12.rpy:265
+translate german day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "Hallo selbst"
+
+# game/day12.rpy:266
+translate german day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "Möchten Sie einen Drink?"
+
+# game/day12.rpy:267
+translate german day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "Hast du ein Bier?"
+
+# game/day12.rpy:268
+translate german day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "Natürlich"
+
+# game/day12.rpy:269
+translate german day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Nachdem sie den Kühlschrank durchwühlt hat, reicht Riley dir ein kaltes Bier und öffnet auch eins für sich selbst."
+# game/day12.rpy:270
+translate german day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "Prost!"
+
+# game/day12.rpy:271
+translate german day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "Prost, verdammt!"
+
+# game/day12.rpy:273
+translate german day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Mann, was war das gestern für ein Tag"
+
+# game/day12.rpy:274
+translate german day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "Ja, das war schon was"
+
+# game/day12.rpy:276
+translate german day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "Geht es deiner Schwester gut?"
+
+# game/day12.rpy:278
+translate german day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "Geht es deinem Freund gut?"
+
+# game/day12.rpy:279
+translate german day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Ja, sie nimmt die Nachricht eigentlich ganz gut auf. Ziemlich überraschend, wenn du mich fragst."
+# game/day12.rpy:280
+translate german day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "Tief in ihrem Inneren muss sie schon gewusst haben, was für ein Vollidiot Brody war"
+
+# game/day12.rpy:281
+translate german day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Schade, dass sie es nicht früher gemerkt hat, aber wenigstens ist es gut ausgegangen"
+
+# game/day12.rpy:282
+translate german day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Brody verbrachte den Rest des Tages damit, sein Büro neu zu dekorieren. Die wenigen Kunden, die wir hatten, waren von den Geräuschen der herumgeworfenen Möbel und dem Geschrei völlig verstört."
+# game/day12.rpy:283
+translate german day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "Der Mistkerl hat mich sogar dazu gebracht, neue Büromöbel zu bestellen und sie am Ende des Tages komplett zu zerstören"
+
+# game/day12.rpy:284
+translate german day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "Wenigstens hat er etwas von seiner aufgestauten Wut abgelassen"
+
+# game/day12.rpy:285
+translate german day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "Hoffentlich wird das nicht zu seiner täglichen Routine"
+
+# game/day12.rpy:286
+translate german day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Eine nette anale Visitation durch seine Ex-Freundin könnte das erledigen"
+
+# game/day12.rpy:288
+translate german day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "Iiiih!"
+
+# game/day12.rpy:290
+translate german day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "Noch ein Bier?"
+
+# game/day12.rpy:291
+translate german day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "Ich scheine mit meinem schon fertig zu sein"
+
+# game/day12.rpy:292
+translate german day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Riley kommt mit zwei Bier und einem fragenden Lächeln aus der Küche"
+
+# game/day12.rpy:293
+translate german day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Sag [p_name] Du weißt, ich mag dich und wir haben uns ein paar Mal geküsst und ich möchte, dass die Dinge klar sind"
+
+# game/day12.rpy:294
+translate german day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(Das ist an sich schon eine ziemlich unklare Aussage, aber okay)"
+
+# game/day12.rpy:296
+translate german day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "Würdest du gerne verrückten Sex mit mir haben?"
+
+# game/day12.rpy:298
+translate german day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "Willst du die Nacht mit mir verbringen?"
+
+# game/day12.rpy:302
+translate german day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Du weißt, dass du wirklich gut im Schenken bist"
+
+# game/day12.rpy:303
+translate german day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "Das würde ich gerne glauben"
+
+# game/day12.rpy:304
+translate german day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Den Weg weisen"
+
+# game/day12.rpy:310
+translate german day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Ich dachte, dies sei nur ein freundschaftlicher Besuch"
+
+# game/day12.rpy:312
+translate german day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Jesus, du bist wirklich schlecht in Anspielungen, oder? Musste ich es für dich buchstabieren?"
+
+# game/day12.rpy:313
+translate german day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "Ich gehe jetzt besser"
+
+# game/day12.rpy:314
+translate german day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Ich glaube ja"
+
+# game/day12.rpy:322
+translate german day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}Es ist spät am Abend, als du zu [l_Name] gehst, um sie für deinen Abend abzuholen"
+
+# game/day12.rpy:324
+translate german day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "Hey, Partygirl, bist du bereit zu gehen?"
+
+# game/day12.rpy:325
+translate german day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Ja, das bin ich!"
+
+# game/day12.rpy:327
+translate german day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Zusammen mit [l_name] gehst du in den Nachtclub im Stadtzentrum"
+
+# game/day12.rpy:333
+translate german day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "Die Musik ist ziemlich laut, oder?"
+
+# game/day12.rpy:334
+translate german day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "Ja, du wirst dich daran gewöhnen. Lass uns ein ruhigeres Plätzchen suchen und etwas trinken gehen"
+
+# game/day12.rpy:335
+translate german day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "Was möchten Sie?"
+
+# game/day12.rpy:336
+translate german day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "Wasser?"
+
+# game/day12.rpy:341
+translate german day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "Wir feiern [l_name] Wasser ist nicht gerade der Treibstoff der Partys"
+
+# game/day12.rpy:342
+translate german day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "Okay, was empfehlen Sie?"
+
+# game/day12.rpy:343
+translate german day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "Vielleicht etwas Wein oder etwas Süßeres?"
+
+# game/day12.rpy:344
+translate german day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "Ich weiß es nicht"
+
+# game/day12.rpy:345
+translate german day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Noch so reserviert)"
+
+# game/day12.rpy:346
+translate german day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "Weißt du was, ich hätte gern ein Glas Weißwein"
+
+# game/day12.rpy:347
+translate german day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "Toll! Weißwein kommt sofort"
+
+# game/day12.rpy:348
+translate german day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Du holst [l_name] ein Glas Wein und ein Bier für dich"
+
+# game/day12.rpy:350
+translate german day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Du holst [l_name] eine Flasche Wasser und ein Bier für dich"
+
+# game/day12.rpy:353
+translate german day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "Es ist doch nicht so viel los, oder?"
+
+# game/day12.rpy:354
+translate german day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "Nicht gerade eine langsame Nacht, aber das bedeutet, dass die Tanzfläche uns gehört!"
+
+# game/day12.rpy:355
+translate german day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "Ich weiß nicht, ob ich tanzen will"
+
+# game/day12.rpy:356
+translate german day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "Ihr müsst nichts tun, was ihr nicht wollt. Habt einfach Spaß!"
+
+# game/day12.rpy:357
+translate german day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "Mach dir keine Sorgen"
+
+# game/day12.rpy:703
+translate german day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "Ihr nackter Körper ist so ein Geschenk, wie letzte Nacht!"
+
+# game/day12.rpy:704
+translate german day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(Ich habe eine Idee)"
+
+# game/day12.rpy:709
+translate german day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Du bewegst deine Hand zu [r_name]'s Schenkeln Ein leises Stöhnen entweicht ihr, als du ihre Haut mit deinen Fingerspitzen berührst und dich langsam zur Innenseite ihrer Beine bewegst"
+
+# game/day12.rpy:710
+translate german day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day12.rpy:711
+translate german day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(So weit so gut)"
+
+# game/day12.rpy:712
+translate german day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Wenn du sanft die Gegend um ihr Geschlecht streichelst, spreizen sich ihre Beine einladend"
+
+# game/day12.rpy:715
+translate german day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(Meine Schwester hat die schönste jungfräuliche Muschi)"
+
+# game/day12.rpy:717
+translate german day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}([r_name] hat die schönste jungfräuliche Muschi)"
+
+# game/day12.rpy:722
+translate german day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Ganz vorsichtig fährst du mit zwei Fingern an ihrem Schlitz entlang und fühlst ihre feuchten Lippen."
+
+# game/day12.rpy:723
+translate german day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(Sie ist so weit)"
+
+# game/day12.rpy:724
+translate german day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Du fährst fort, ihre Schamlippen mit deinen Fingern zu reiben und ihren Venushügel zu massieren."
+# game/day12.rpy:725
+translate german day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day12.rpy:728
+translate german day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Sobald du ihre Klitoris direkt massierst, flattern ihre Augen auf."
+
+# game/day12.rpy:729
+translate german day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "G-G-Guten Morgen"
+
+# game/day12.rpy:730
+translate german day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Hey"
+
+# game/day12.rpy:731
+translate german day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "Soll ich aufhören?"
+
+# game/day12.rpy:732
+translate german day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "Oh Gott, nein!"
+
+# game/day12.rpy:734
+translate german day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Gestärkt durch ihre Worte widmest du deine volle Aufmerksamkeit ihrem Kitzler [r_name] keucht, als du einen Finger in ihre feuchte Muschi gleitest."
+
+# game/day12.rpy:735
+translate german day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    "Aaaah! Ja!"
+
+# game/day12.rpy:737
+translate german day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Deine Schwester ergreift die Hand, die ihre Klitoris stimuliert und drückt sie fester nach unten."
+
+# game/day12.rpy:739
+translate german day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] ergreift die Hand, die ihre Klitoris stimuliert und drückt sie fester nach unten"
+
+# game/day12.rpy:740
+translate german day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "Ich will dich so sehr spüren [p_name]!"
+
+# game/day12.rpy:741
+translate german day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Du gleitest mit deinen Fingern in ihre Muschi, die mit ihren Säften bedeckt ist. Wenn du ihren Kitzler noch intensiver massierst, spürst du, wie sich ihr Körper anspannt und bereit ist, loszulassen."
+# game/day12.rpy:749
+translate german day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "Aaaaah! Aaaaah! [p_name]!!!"
+
+# game/day12.rpy:750
+translate german day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}Ihr Orgasmus ist lang und kraftvoll, [r_Name]'s Körper zittert, während sie deine Hand an ihr Geschlecht drückt."
+# game/day12.rpy:756
+translate german day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Nach einer Weile haben ihre Zuckungen aufgehört und sie schmiegt sich mit einem Seufzer an dich."
+# game/day12.rpy:757
+translate german day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Was für eine unglaubliche Art, aufzuwachen"
+
+# game/day12.rpy:758
+translate german day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Du warst gestern Abend so toll, da dachte ich mir, ich belohne dich auch mal."
+# game/day12.rpy:759
+translate german day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Genau das, was ich brauchte"
+
+# game/day12.rpy:760
+translate german day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "Viel zu tun heute?"
+
+# game/day12.rpy:761
+translate german day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Ja, ich gehe aus, Ana hat mich gebeten, zu dir zu kommen."
+
+# game/day12.rpy:762
+translate german day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "Sieht nach einem ruhigen Tag aus, aber das macht mir nichts aus"
+
+# game/day12.rpy:763
+translate german day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}Nachdem ihr eine Weile gekuschelt habt, steht ihr beide auf und frühstückt."

@@ -4381,3 +4381,1019 @@ translate german day34_ri_shop_18bbe84a:
 
     # p "But I'm much happier to see you relatively unharmed."
     p "Aber ich bin viel glücklicher, dich relativ unversehrt zu sehen."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day34.rpy:949
+translate german day34_b_blowjob_hard_68cb742c:
+
+    # p "{i}(Look at that glorious ass.)"
+    p "{i}(Sieh dir diesen herrlichen Arsch an)"
+
+# game/day34.rpy:953
+translate german day34_b_blowjob_hard_d6b5d8d9:
+
+    # b "How long have you been staring there, creep?"
+    b "Wie lange starrst du da schon hin, Creep?"
+
+# game/day34.rpy:954
+translate german day34_b_blowjob_hard_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Nur ein paar Stunden"
+
+# game/day34.rpy:955
+translate german day34_b_blowjob_hard_c0bf7ea1:
+
+    # b "Go away."
+    b "Geh weg"
+
+# game/day34.rpy:956
+translate german day34_b_blowjob_hard_b4f81831:
+
+    # p "No, spin around for me."
+    p "Kein Herumwirbeln für mich"
+
+# game/day34.rpy:962
+translate german day34_b_blowjob_hard_d0b20184:
+
+    # b "Satisfied?"
+    b "Zufrieden?"
+
+# game/day34.rpy:963
+translate german day34_b_blowjob_hard_2b5f4d50:
+
+    # p "A little."
+    p "Ein wenig"
+
+# game/day34.rpy:964
+translate german day34_b_blowjob_hard_9878f1cc:
+
+    # p "You look fantastic in this, you know that?"
+    p "Du siehst darin fantastisch aus, weißt du das?"
+
+# game/day34.rpy:965
+translate german day34_b_blowjob_hard_4227e895:
+
+    # b "I'm sure I look great, now leave."
+    b "Ich bin sicher, dass ich jetzt gut aussehe, wenn ich gehe"
+
+# game/day34.rpy:966
+translate german day34_b_blowjob_hard_6b303226:
+
+    # p "We're going shopping tomorrow, you and I."
+    p "Wir gehen morgen einkaufen, du und ich"
+
+# game/day34.rpy:968
+translate german day34_b_blowjob_hard_1871783f:
+
+    # b "What, why?"
+    b "Was warum?"
+
+# game/day34.rpy:969
+translate german day34_b_blowjob_hard_b402c11d:
+
+    # p "Because I want to give you some nice lingerie."
+    p "Weil ich dir ein paar schöne Dessous schenken will"
+
+# game/day34.rpy:970
+translate german day34_b_blowjob_hard_60478538:
+
+    # b "I have underwear."
+    b "Ich habe Unterwäsche"
+
+# game/day34.rpy:971
+translate german day34_b_blowjob_hard_68520e5c:
+
+    # p "I'll get you more."
+    p "Ich besorge dir mehr"
+
+# game/day34.rpy:972
+translate german day34_b_blowjob_hard_32625464:
+
+    # b "I don't..."
+    b "Ich weiß es nicht"
+
+# game/day34.rpy:973
+translate german day34_b_blowjob_hard_df7483f5:
+
+    # p "Now you're going to say thanks and suck my cock."
+    p "Jetzt bedankst du dich und lutschst meinen Schwanz"
+
+# game/day34.rpy:975
+translate german day34_b_blowjob_hard_eadf9810:
+
+    # b "What?!"
+    b "Was?!"
+
+# game/day34.rpy:976
+translate german day34_b_blowjob_hard_73bb7de1:
+
+    # p "You're going to get on your knees."
+    p "Du wirst dich hinknien"
+
+# game/day34.rpy:978
+translate german day34_b_blowjob_hard_733e331e:
+
+    # p "And you'll undress me."
+    p "Und du wirst mich ausziehen"
+
+# game/day34.rpy:983
+translate german day34_b_blowjob_hard_61031477:
+
+    # p "Next, you'll make me hard."
+    p "Als nächstes machst du mich hart"
+
+# game/day34.rpy:985
+translate german day34_b_blowjob_hard_8018ec82:
+
+    # p "Stroking my hard cock with your hands."
+    p "Streichle meinen harten Schwanz mit deinen Händen"
+
+# game/day34.rpy:986
+translate german day34_b_blowjob_hard_0a337613:
+
+    # p "That's it, good girl."
+    p "So ist es gut, Mädchen"
+
+# game/day34.rpy:992
+translate german day34_b_blowjob_hard_32ab4328:
+
+    # p "Now lick the head."
+    p "Jetzt leck den Kopf"
+
+# game/day34.rpy:993
+translate german day34_b_blowjob_hard_64ac36ae:
+
+    # p "Make it all nice and wet."
+    p "Mach alles schön nass"
+
+# game/day34.rpy:994
+translate german day34_b_blowjob_hard_1e09f0b9:
+
+    # p "Good, now take it in your mouth and blow me."
+    p "Gut, jetzt nimm ihn in den Mund und blas mir einen"
+
+# game/day34.rpy:1001
+translate german day34_b_blowjob_hard_a123ea2c:
+
+    # "{i}Your sister obediently puts your cock in her mouth and starts to suck."
+    "{i}Deine Schwester nimmt gehorsam deinen Schwanz in den Mund und beginnt zu saugen."
+
+# game/day34.rpy:1003
+translate german day34_b_blowjob_hard_5effce97:
+
+    # "{i}Your girl obediently puts your cock in her mouth and starts to suck."
+    "{i}Dein Mädchen nimmt gehorsam deinen Schwanz in den Mund und beginnt zu saugen."
+
+# game/day34.rpy:1004
+translate german day34_b_blowjob_hard_a1a9f244:
+
+    # "{i}Enjoying the feeling of her warm mouth, you're silent for a while."
+    "{i}Du genießt das Gefühl ihres warmen Mundes und bist eine Weile still"
+
+# game/day34.rpy:1006
+translate german day34_b_blowjob_hard_099d567d:
+
+    # "{i}You're amazed by the intensity with which she's sucking you off, and you're unable to last for very long."
+    "{i}Du bist erstaunt über die Intensität, mit der sie dir einen bläst, und du kannst es nicht lange aushalten."
+# game/day34.rpy:1008
+translate german day34_b_blowjob_hard_7d1c8eb1:
+
+    # p "Fuck [b_name]! Aaah!"
+    p "Fuck [b_name]! Aaah!"
+
+# game/day34.rpy:1012
+translate german day34_b_blowjob_hard_4e04842b:
+
+    # p "K-k-keep it in your mouth!"
+    p "K-k-keep it in your mouth!"
+
+# game/day34.rpy:1013
+translate german day34_b_blowjob_hard_3c0a473a:
+
+    # p "D-don't y-you dare stop!"
+    p "Wagt es nicht, aufzuhören!"
+
+# game/day34.rpy:1014
+translate german day34_b_blowjob_hard_50bbcd73:
+
+    # "{i}Grim-faced, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Der grimmige [b_name] bläst dir immer weiter einen und hört nicht auf, als dein Sperma zu fließen beginnt"
+
+# game/day34.rpy:1017
+translate german day34_b_blowjob_hard_fbb71cb4:
+
+    # "{i}You make her stop briefly to allow you to cream her mouth."
+    "{i}Du bringst sie dazu, kurz innezuhalten, damit du ihr den Mund eincremen kannst"
+
+# game/day34.rpy:1018
+translate german day34_b_blowjob_hard_3830744e:
+
+    # p "Now be a good little girl and swallow it."
+    p "Jetzt sei ein braves kleines Mädchen und schluck es runter"
+
+# game/day34.rpy:1023
+translate german day34_b_blowjob_hard_a5e5ca6a:
+
+    # "{i}Looking at you with piercing eyes, your sister swallows your entire load."
+    "{i}Deine Schwester schaut dich mit stechenden Augen an und schluckt deine ganze Ladung"
+
+# game/day34.rpy:1025
+translate german day34_b_blowjob_hard_ecd95d63:
+
+    # "{i}Looking at you with piercing eyes, your girl swallows your entire load."
+    "{i}Das Mädchen sieht dich mit stechenden Augen an und schluckt deine ganze Ladung"
+
+# game/day34.rpy:1026
+translate german day34_b_blowjob_hard_8353f083:
+
+    # "{i}When she's all done, you pull her closer to you and have her rest on your chest."
+    "{i}Wenn sie fertig ist, ziehst du sie näher zu dir und lässt sie auf deiner Brust ruhen."
+# game/day34.rpy:1037
+translate german day34_b_blowjob_hard_970769f2:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, you make her pull out your cock and have it directed at her face."
+    "{i}Du bemerkst die verräterischen Signale, dass du kurz vor dem Orgasmus stehst und bringst sie dazu, deinen Schwanz herauszuziehen und ihn auf ihr Gesicht zu richten."
+
+# game/day34.rpy:1043
+translate german day34_b_blowjob_hard_02b699c5:
+
+    # "{i}As she holds your cock it begins to shoot thick strands of cum, pasting her face with warm seed."
+    "{i}Als sie deinen Schwanz hält, beginnt er dicke Stränge von Sperma zu schießen, die ihr Gesicht mit warmem Samen überziehen."
+
+# game/day34.rpy:1045
+translate german day34_b_blowjob_hard_9b054faf:
+
+    # b "Goddamnit, I just did my make-up."
+    b "Verdammt, ich habe mich gerade erst geschminkt"
+
+# game/day34.rpy:1046
+translate german day34_b_blowjob_hard_567e1dc4:
+
+    # p "This looks good on you too."
+    p "Das steht dir auch gut"
+
+# game/day34.rpy:1047
+translate german day34_b_blowjob_hard_efe857be:
+
+    # b "Fuck you."
+    b "Fick dich"
+
+# game/day34.rpy:1048
+translate german day34_b_blowjob_hard_8c74f50b:
+
+    # "{i}After [b_name] cleans herself up somewhat you pull her closer to you and have her rest on your chest."
+    "{i}Nachdem [b_name] sich etwas gesäubert hat, ziehst du sie näher zu dir und lässt sie auf deiner Brust ruhen."
+# game/day34.rpy:1056
+translate german day34_b_blowjob_hard_0f34104f:
+
+    # b "Thank you."
+    b "Danke"
+
+# game/day34.rpy:1057
+translate german day34_b_blowjob_hard_1b640dae:
+
+    # p "What?"
+    p "Was?"
+
+# game/day34.rpy:1058
+translate german day34_b_blowjob_hard_7d6ce687:
+
+    # b "You told me to blow you and say thank you."
+    b "Du hast gesagt, ich soll dir einen blasen und mich bedanken"
+
+# game/day34.rpy:1059
+translate german day34_b_blowjob_hard_a79c6a6a:
+
+    # b "I just did both."
+    b "Ich habe gerade beides gemacht"
+
+# game/day34.rpy:1060
+translate german day34_b_blowjob_hard_874fdd89:
+
+    # p "{i}(I'd already forgotten about that...)"
+    p "{i}(das hatte ich schon vergessen)"
+
+# game/day34.rpy:1061
+translate german day34_b_blowjob_hard_24c39dc8:
+
+    # b "Or did your brain just leave through the same exit, together with all that cum?"
+    b "Oder ist dein Gehirn zusammen mit der ganzen Wichse durch denselben Ausgang verschwunden?"
+
+# game/day34.rpy:1062
+translate german day34_b_blowjob_hard_ae19be12:
+
+    # p "No, you're right."
+    p "Nein, du hast Recht"
+
+# game/day34.rpy:1063
+translate german day34_b_blowjob_hard_e18221a4:
+
+    # p "You did well."
+    p "Das hast du gut gemacht"
+
+# game/day34.rpy:1064
+translate german day34_b_blowjob_hard_3e0cde11:
+
+    # b "Sure..."
+    b "Sicher"
+
+# game/day34.rpy:1066
+translate german day34_b_blowjob_hard_bd89621d:
+
+    # "{i}You lie with her in silence for a while before returning to your room."
+    "{i}Du liegst eine Weile schweigend bei ihr, bevor du in dein Zimmer zurückkehrst."
+
+# game/day34.rpy:1076
+translate german day34_b_blowjob_30959ace:
+
+    # p "{i}(I have the most beautiful girlfriend.)"
+    p "{i}(Ich habe die schönste Freundin)"
+
+# game/day34.rpy:1078
+translate german day34_b_blowjob_67cd64c2:
+
+    # b "Have you been staring like that for long?"
+    b "Starrst du schon lange so?"
+
+# game/day34.rpy:1079
+translate german day34_b_blowjob_0d2f0d72:
+
+    # p "Only a couple of hours."
+    p "Nur ein paar Stunden"
+
+# game/day34.rpy:1080
+translate german day34_b_blowjob_99d2099d:
+
+    # b "Haha, sure..."
+    b "Haha sicher"
+
+# game/day34.rpy:1081
+translate german day34_b_blowjob_6a064bd8:
+
+    # b "This was supposed to be a surprise."
+    b "Das sollte eine Überraschung sein"
+
+# game/day34.rpy:1082
+translate german day34_b_blowjob_262f8602:
+
+    # b "I was about to put on the panties that come with this set."
+    b "Ich wollte gerade die Unterhose anziehen, die zu diesem Set gehört"
+
+# game/day34.rpy:1083
+translate german day34_b_blowjob_19dc1a80:
+
+    # p "It's beautiful, though I like you best without clothes on."
+    p "Es ist schön, obwohl du mir ohne Kleider am besten gefällst"
+
+# game/day34.rpy:1084
+translate german day34_b_blowjob_84ac98ab:
+
+    # b "Horny little boy."
+    b "Geiler kleiner Junge"
+
+# game/day34.rpy:1085
+translate german day34_b_blowjob_de805f06:
+
+    # p "You have that effect on me."
+    p "Du hast diese Wirkung auf mich"
+
+# game/day34.rpy:1086
+translate german day34_b_blowjob_26ceb081:
+
+    # p "But I'll act properly surprised if you wear this next time."
+    p "Aber ich werde mich richtig wundern, wenn du das das nächste Mal trägst"
+
+# game/day34.rpy:1092
+translate german day34_b_blowjob_cc670891:
+
+    # b "You like it?"
+    b "Gefällt dir das?"
+
+# game/day34.rpy:1093
+translate german day34_b_blowjob_a5de22e1:
+
+    # p "Very much."
+    p "Sehr viel"
+
+# game/day34.rpy:1094
+translate german day34_b_blowjob_162fb551:
+
+    # p "I feel a little bad though, spoiling this moment."
+    p "Ich habe ein schlechtes Gewissen, wenn ich diesen Moment verderbe"
+
+# game/day34.rpy:1095
+translate german day34_b_blowjob_4a14a428:
+
+    # b "I don't mind."
+    b "Es macht mir nichts aus"
+
+# game/day34.rpy:1096
+translate german day34_b_blowjob_0b329c66:
+
+    # p "No, why don't we go shopping for some nice lingerie tomorrow?"
+    p "Nein, warum gehen wir nicht morgen ein paar schöne Dessous kaufen?"
+
+# game/day34.rpy:1098
+translate german day34_b_blowjob_14ecefea:
+
+    # b "That sounds like a fantastic plan!"
+    b "Das klingt nach einem fantastischen Plan!"
+
+# game/day34.rpy:1099
+translate german day34_b_blowjob_d70814d0:
+
+    # b "You know... The surprise wasn't just wearing this..."
+    b "Du weißt, dass die Überraschung nicht nur das hier getragen hat"
+
+# game/day34.rpy:1100
+translate german day34_b_blowjob_e22d4a11:
+
+    # p "Oh... What else did you have in mind."
+    p "Oh, was schwebt dir denn sonst noch vor?"
+# game/day34.rpy:1102
+translate german day34_b_blowjob_2ce02568:
+
+    # b "I was going to get you on the bed."
+    b "Ich wollte dich aufs Bett bringen"
+
+# game/day34.rpy:1103
+translate german day34_b_blowjob_fe6629f3:
+
+    # b "And undress you."
+    b "Und dich ausziehen"
+
+# game/day34.rpy:1104
+translate german day34_b_blowjob_579c8be7:
+
+    # p "Really..."
+    p "Wirklich"
+
+# game/day34.rpy:1109
+translate german day34_b_blowjob_efd0e395:
+
+    # b "Then I would make you hard."
+    b "Dann würde ich dich hart machen"
+
+# game/day34.rpy:1110
+translate german day34_b_blowjob_4103f1fb:
+
+    # b "Stroking your dick with my hands."
+    b "Ich streichle deinen Schwanz mit meinen Händen"
+
+# game/day34.rpy:1111
+translate german day34_b_blowjob_f6220564:
+
+    # p "Oh fuck... [b_name]..."
+    p "Oh fuck [b_name]"
+
+# game/day34.rpy:1117
+translate german day34_b_blowjob_d6318230:
+
+    # b "I would tease you by ever so slightly licking the head of your dick."
+    b "Ich würde dich reizen, indem ich ganz leicht die Spitze deines Schwanzes lecke."
+# game/day34.rpy:1118
+translate german day34_b_blowjob_0977e5d9:
+
+    # p "Uh-huh... K-keep going..."
+    p "Aha... mach weiter"
+
+# game/day34.rpy:1119
+translate german day34_b_blowjob_f0d6e12b:
+
+    # b "And when your dick is wet enough and you're ready, I'd begin sucking you."
+    b "Und wenn dein Schwanz feucht genug ist und du bereit bist, fange ich an, dich zu blasen."
+# game/day34.rpy:1125
+translate german day34_b_blowjob_be2364a5:
+
+    # "{i}[b_name] is unable to say anything further as she takes your cock in her mouth."
+    "{i}[b_name] ist nicht in der Lage, etwas zu sagen, während sie deinen Schwanz in ihren Mund nimmt"
+
+# game/day34.rpy:1126
+translate german day34_b_blowjob_bebb41dd:
+
+    # p "I-I really like this surprise."
+    p "Diese Überraschung gefällt mir wirklich"
+
+# game/day34.rpy:1129
+translate german day34_b_blowjob_16e5484a:
+
+    # "{i}You see your sister smile as she controls your pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Du siehst, wie deine Schwester lächelt, während sie deine Lust kontrolliert und dir mit solcher Intensität einen bläst, dass du es nicht lange aushältst."
+
+# game/day34.rpy:1131
+translate german day34_b_blowjob_584755f7:
+
+    # "{i}You see your girlfriend smile as she controls pleasure, blowing you with such intensity that you're unable to last for very long."
+    "{i}Du siehst, wie deine Freundin lächelt, während sie die Lust kontrolliert und dir mit solcher Intensität einen bläst, dass du es nicht lange aushalten kannst."
+# game/day34.rpy:1133
+translate german day34_b_blowjob_cf330df2:
+
+    # p "[b_name]! I'm... Oooh!"
+    p "[b_name]! Ich bin Oooh!"
+
+# game/day34.rpy:1137
+translate german day34_b_blowjob_15cde731:
+
+    # "{i}Despite all the signals you're close to orgasm, [b_name] keeps giving you head and doesn't stop as your cum begins to flow."
+    "{i}Trotz aller Signale, dass du kurz vor dem Orgasmus stehst, bläst [b_name] dir weiter einen und hört nicht auf, als dein Sperma zu fließen beginnt"
+
+# game/day34.rpy:1144
+translate german day34_b_blowjob_715c0843:
+
+    # "{i}She stops briefly to allow you to cream her mouth and then swallows your entire load, smiling at you deliriously."
+    "{i}Sie hält kurz inne, damit du ihren Mund eincremen kannst und schluckt dann deine ganze Ladung und lächelt dich überglücklich an."
+
+# game/day34.rpy:1145
+translate german day34_b_blowjob_69f0bf5f:
+
+    # "{i}Satisfied, she rests her head on your chest."
+    "{i}Zufrieden ruht sie ihren Kopf auf deiner Brust"
+
+# game/day34.rpy:1157
+translate german day34_b_blowjob_b85b41c1:
+
+    # "{i}Noticing the tell-tale signals you're close to orgasm, [b_name] pulls out your cock and attempts to direct it to her chest."
+    "{i}Als er die verräterischen Signale bemerkt, dass du kurz vor dem Orgasmus stehst, zieht [b_name] deinen Schwanz heraus und versucht, ihn auf ihre Brust zu richten"
+
+# game/day34.rpy:1160
+translate german day34_b_blowjob_4ac81696:
+
+    # "{i}Your cum begins to shoot earlier than you both thought and you end up pasting her face with warm seed."
+    "{i}Dein Sperma spritzt schneller, als ihr beide gedacht habt und du beschmierst ihr Gesicht mit warmem Samen."
+
+# game/day34.rpy:1162
+translate german day34_b_blowjob_a1c4b72e:
+
+    # b "Wow! Haha!"
+    b "Wow! Haha!"
+
+# game/day34.rpy:1163
+translate german day34_b_blowjob_4b468aa8:
+
+    # "{i}After [b_name] cleans herself up somewhat she rests her head on your chest."
+    "{i}Nachdem [b_name] sich etwas gesäubert hat, legt sie ihren Kopf auf deine Brust"
+
+# game/day34.rpy:1171
+translate german day34_b_blowjob_bfcb1211:
+
+    # b "Afterwards we'd lie together and you'd stroke my skin and kiss my hair."
+    b "Danach lagen wir zusammen und du hast meine Haut gestreichelt und mein Haar geküsst"
+
+# game/day34.rpy:1172
+translate german day34_b_blowjob_d0791796:
+
+    # p "Mmmm, sounds really good."
+    p "Mmmm, klingt wirklich gut"
+
+# game/day34.rpy:1173
+translate german day34_b_blowjob_d8a0209b:
+
+    # b "I know, shame you spoiled the surprise."
+    b "Ich weiß, schade, dass du die Überraschung verdorben hast"
+
+# game/day34.rpy:1174
+translate german day34_b_blowjob_147e8b69:
+
+    # p "Yup, but luckily you're a very evocative storyteller."
+    p "Ja, aber zum Glück bist du ein sehr anschaulicher Geschichtenerzähler"
+
+# game/day34.rpy:1175
+translate german day34_b_blowjob_d81a9abb:
+
+    # b "Haha, I know, right?"
+    b "Haha, ich weiß, oder?"
+
+# game/day34.rpy:1177
+translate german day34_b_blowjob_b1f0c319:
+
+    # "{i}You chat some more with her and just enjoy her company before returning to your room."
+    "{i}Du unterhältst dich noch ein wenig mit ihr und genießt einfach ihre Gesellschaft, bevor du in dein Zimmer zurückkehrst."
+# game/day34.rpy:1193
+translate german day34_r_fingering_b1e96493:
+
+    # "{i}[r_name] slides her hand back between her legs and begins to massage her clitoris."
+    "{i}[r_name] schiebt ihre Hand wieder zwischen ihre Beine und beginnt ihre Klitoris zu massieren"
+
+# game/day34.rpy:1194
+translate german day34_r_fingering_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day34.rpy:1196
+translate german day34_r_fingering_a944f345:
+
+    # "{i}One of her fingers slips inside her pussy as she keeps working on her clit. You play with her breasts a little and kiss her neck."
+    "{i}Einer ihrer Finger gleitet in ihre Muschi, während sie ihren Kitzler bearbeitet Du spielst ein wenig mit ihren Brüsten und küsst ihren Hals"
+
+# game/day34.rpy:1198
+translate german day34_r_fingering_932f09f4:
+
+    # "{i}Your sister seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Ihre Schwester scheint auf einer anderen Bewusstseinsebene zu sein, denn ihre Augen rollen zurück und ihre Atmung wird flach."
+
+# game/day34.rpy:1200
+translate german day34_r_fingering_f4ddeb7b:
+
+    # "{i}Your friend seems to be on another plane of consciousness as her eyes roll back and her breathing becomes shallow."
+    "{i}Ihre Freundin scheint sich auf einer anderen Bewusstseinsebene zu befinden, denn ihre Augen rollen zurück und ihre Atmung wird flach."
+
+# game/day34.rpy:1201
+translate german day34_r_fingering_8dc9b6f7:
+
+    # "{i}Judging from her soft moans in your ear and the firm grip of her other hand on your arm, you know she's close."
+    "{i}Nach ihrem leisen Stöhnen in deinem Ohr und dem festen Griff ihrer anderen Hand an deinem Arm zu urteilen, weißt du, dass sie dir nahe ist."
+# game/day34.rpy:1208
+translate german day34_r_fingering_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah!"
+
+# game/day34.rpy:1209
+translate german day34_r_fingering_918b8b55:
+
+    # "{i}Her climax is beautiful, she shudders in your arms, biting her lip, her legs making involuntary movements."
+    "{i}Ihr Höhepunkt ist wunderschön, sie zittert in deinen Armen und beißt sich auf die Lippe, ihre Beine machen unwillkürliche Bewegungen."
+
+# game/day34.rpy:1214
+translate german day34_r_fingering_1da72a37:
+
+    # p "I love you, [r_name]."
+    p "Ich liebe dich [r_name]"
+
+# game/day34.rpy:1215
+translate german day34_r_fingering_20f32c2a:
+
+    # r "I... love you too, [p_name]."
+    r "Ich liebe dich auch [p_name]"
+
+# game/day34.rpy:1234
+translate german day34_ri_sex_119ad400:
+
+    # p "I thought maybe we could pass the time while the others fight outside?"
+    p "Ich dachte, wir könnten uns vielleicht die Zeit vertreiben, während die anderen draußen kämpfen?"
+
+# game/day34.rpy:1235
+translate german day34_ri_sex_e01ff968:
+
+    # "{i}Riley is already unbuttoning her shorts and looking longingly at the butt plug you're holding."
+    "{i}Riley knöpft bereits ihre Shorts auf und schaut sehnsüchtig auf den Butt Plug, den du in der Hand hältst."
+
+# game/day34.rpy:1236
+translate german day34_ri_sex_0cf4034c:
+
+    # ri "This place is rather perfect for what I think you're proposing."
+    ri "Dieser Ort ist ziemlich perfekt für das, was du vorschlägst"
+
+# game/day34.rpy:1238
+translate german day34_ri_sex_26743edb:
+
+    # p "{i}(Something about this place sure makes you want to fuck, I'm sure Ana agrees.)"
+    p "{i}(Irgendetwas an diesem Ort macht Lust zu ficken, ich bin sicher, Ana stimmt zu)"
+
+# game/day34.rpy:1244
+translate german day34_ri_sex_be48a7ea:
+
+    # ri "Let's not waste time then."
+    ri "Dann lass uns keine Zeit verlieren"
+
+# game/day34.rpy:1245
+translate german day34_ri_sex_227d508e:
+
+    # p "Do you want to try the toy?"
+    p "Willst du das Spielzeug ausprobieren?"
+
+# game/day34.rpy:1246
+translate german day34_ri_sex_f16c4169:
+
+    # ri "I think I do."
+    ri "Ich glaube, ich weiß es"
+
+# game/day34.rpy:1247
+translate german day34_ri_sex_48c33a2a:
+
+    # p "Why don't you get that thing nice and wet then."
+    p "Warum machst du das Ding dann nicht schön nass?"
+# game/day34.rpy:1252
+translate german day34_ri_sex_f6e54073:
+
+    # "{i}You offer Riley the toy, which she proceeds to suck and you get undressed yourself."
+    "{i}Du bietest Riley das Spielzeug an, das sie dann lutscht, und ziehst dich selbst aus."
+
+# game/day34.rpy:1257
+translate german day34_ri_sex_b74670b7:
+
+    # "{i}Riley spreads her ass and reveals her delicate butthole."
+    "{i}Riley spreizt ihren Arsch und enthüllt ihr zartes Arschloch"
+
+# game/day34.rpy:1258
+translate german day34_ri_sex_64cd6b1b:
+
+    # ri "I've never been fucked with a toy in my ass."
+    ri "Ich bin noch nie mit einem Spielzeug im Arsch gefickt worden"
+
+# game/day34.rpy:1259
+translate german day34_ri_sex_2c4e797f:
+
+    # p "Just a warning, if you see a strapon dildo, just leave it, I'm really not interested in trying a toy in {i}my{/i} ass.."
+    p "Nur eine Warnung, wenn du einen Strapon-Dildo siehst, lass ihn einfach liegen, ich bin wirklich nicht daran interessiert, ein Spielzeug in meinem Arsch auszuprobieren."
+# game/day34.rpy:1260
+translate german day34_ri_sex_ab3affc3:
+
+    # ri "Haha!"
+    ri "Haha!"
+
+# game/day34.rpy:1261
+translate german day34_ri_sex_61e47689:
+
+    # ri "I'll be a good girl."
+    ri "Ich werde ein braves Mädchen sein"
+
+# game/day34.rpy:1266
+translate german day34_ri_sex_27dd744b:
+
+    # "{i}Very softly, you push the wet toy against the folds of Riley's anus, as she relaxes the tip slips inside her butthole."
+    "{i}Ganz sanft drückst du das nasse Spielzeug gegen die Falten von Rileys Anus, während sie sich entspannt, gleitet die Spitze in ihr Poloch."
+
+# game/day34.rpy:1267
+translate german day34_ri_sex_37d94932:
+
+    # ri "Mmmmm. Don't rush!"
+    ri "Mmmmm nicht hetzen!"
+
+# game/day34.rpy:1269
+translate german day34_ri_sex_1e0b0e71:
+
+    # "{i}The toy inches further inside her ass until the entirety of it is enfolded by her anus."
+    "{i}Das Spielzeug wandert weiter in ihren Arsch, bis es ganz von ihrem Anus umschlossen ist."
+
+# game/day34.rpy:1270
+translate german day34_ri_sex_d49a9468:
+
+    # p "It's in."
+    p "Es ist in"
+
+# game/day34.rpy:1271
+translate german day34_ri_sex_cefc623d:
+
+    # ri "God yes, I know."
+    ri "Gott, ja ich weiß"
+
+# game/day34.rpy:1272
+translate german day34_ri_sex_7a927d83:
+
+    # ri "It feels so full."
+    ri "Es fühlt sich so voll an"
+
+# game/day34.rpy:1273
+translate german day34_ri_sex_89af8dec:
+
+    # ri "Kiss me!"
+    ri "Küss mich!"
+
+# game/day34.rpy:1279
+translate german day34_ri_sex_11b069f7:
+
+    # "{i}Riley's kiss is fueled by hunger, as the insertion of the toy has really liberated her lust."
+    "{i}Rileys Kuss wird von Hunger angeheizt, denn das Einführen des Spielzeugs hat ihre Lust wirklich befreit."
+
+# game/day34.rpy:1281
+translate german day34_ri_sex_5098614a:
+
+    # "{i}The girl drops to her knees to focus all of her attention on your dick and covers it in kisses."
+    "{i}Das Mädchen sinkt auf die Knie, um ihre ganze Aufmerksamkeit auf deinen Schwanz zu richten und ihn mit Küssen zu bedecken."
+# game/day34.rpy:1282
+translate german day34_ri_sex_3f9102c6:
+
+    # "{i}Her kisses become eager licks, until she dares to take your member in her mouth."
+    "{i}Ihre Küsse werden zu eifrigem Lecken, bis sie sich traut, dein Glied in den Mund zu nehmen"
+
+# game/day34.rpy:1288
+translate german day34_ri_sex_c85bc569:
+
+    # "{i}The warm, wet sensation hardens your cock even more, something Riley notices with approval."
+    "{i}Das warme, feuchte Gefühl macht deinen Schwanz noch härter, was Riley mit Zustimmung bemerkt."
+# game/day34.rpy:1289
+translate german day34_ri_sex_eaf15dd8:
+
+    # p "I had forgotten what a great cocksucker you are."
+    p "Ich hatte vergessen, was für ein toller Schwanzlutscher du bist"
+
+# game/day34.rpy:1290
+translate german day34_ri_sex_637bd8cf:
+
+    # ri "You forgot?"
+    ri "Hast du vergessen?"
+
+# game/day34.rpy:1291
+translate german day34_ri_sex_bd3bd2a7:
+
+    # ri "Now you've hurt my feelings!"
+    ri "Jetzt hast du meine Gefühle verletzt!"
+
+# game/day34.rpy:1293
+translate german day34_ri_sex_1519d2bf:
+
+    # "{i}Riley punctuates her joking remark by sucking hard on your glans, a feeling that's equally pleasurable and painful."
+    "{i}Riley unterstreicht ihre scherzhafte Bemerkung, indem sie hart an deiner Eichel saugt - ein Gefühl, das gleichermaßen angenehm und schmerzhaft ist."
+
+# game/day34.rpy:1294
+translate german day34_ri_sex_1578ee19:
+
+    # p "Ouch!"
+    p "Autsch!"
+
+# game/day34.rpy:1295
+translate german day34_ri_sex_74576d26:
+
+    # ri "Too intense?"
+    ri "Zu intensiv?"
+
+# game/day34.rpy:1296
+translate german day34_ri_sex_fa8e2637:
+
+    # p "Only a little."
+    p "Nur ein bisschen"
+
+# game/day34.rpy:1302
+translate german day34_ri_sex_52fa1734:
+
+    # "{i}Before she can respond, you pull her closer and press your cock against her entrance."
+    "{i}Bevor sie reagieren kann, ziehst du sie näher zu dir und drückst deinen Schwanz gegen ihren Eingang."
+# game/day34.rpy:1303
+translate german day34_ri_sex_9440ca01:
+
+    # p "I'm going to fuck you so hard."
+    p "Ich werde dich so hart ficken"
+
+# game/day34.rpy:1304
+translate german day34_ri_sex_31ddf337:
+
+    # ri "Mmmm, show me!"
+    ri "Mmmm zeig's mir!"
+
+# game/day34.rpy:1309
+translate german day34_ri_sex_343f1728:
+
+    # "{i}You see her eyes widen as you push your cock between her pussy lips and inside her tight fuckhole."
+    "{i}Du siehst, wie sich ihre Augen weiten, wenn du deinen Schwanz zwischen ihre Schamlippen und in ihr enges Fickloch schiebst."
+
+# game/day34.rpy:1310
+translate german day34_ri_sex_bcea34b2:
+
+    # ri "Aaah!"
+    ri "Aaah!"
+
+# game/day34.rpy:1311
+translate german day34_ri_sex_38ec74d5:
+
+    # ri "Keep going like that, don't pull out!"
+    ri "Weiter so, nicht abreißen!"
+
+# game/day34.rpy:1313
+translate german day34_ri_sex_3bec7f8d:
+
+    # "{i}You have absolutely no intention of pulling out and keep Riley in a tight embrace, your cock hammering her pussy."
+    "{i}Du hast absolut nicht die Absicht, dich zurückzuziehen und hältst Riley in einer engen Umarmung, während dein Schwanz ihre Muschi hämmert."
+# game/day34.rpy:1314
+translate german day34_ri_sex_7940e3e6:
+
+    # "{i}At the peak of your passion, when you move her body to get better access to her moist slit, Riley nearly swipes a collection of dildos from a shelf."
+    "{i}Auf dem Höhepunkt eurer Leidenschaft, als du ihren Körper bewegst, um besser an ihren feuchten Schlitz heranzukommen, holt Riley fast eine Sammlung von Dildos aus einem Regal."
+# game/day34.rpy:1316
+translate german day34_ri_sex_c62a725e:
+
+    # "{i}The girl manages to giggle between her breathless gasps of pleasure and smiles at you while you continue to fuck her."
+    "{i}Das Mädchen schafft es, zwischen ihren atemlosen Lustschüben zu kichern und lächelt dich an, während du sie weiter fickst."
+
+# game/day34.rpy:1322
+translate german day34_ri_sex_8c3331ef:
+
+    # "{i}To get a better view of the toy that's still plugged inside her ass, you push Riley on one of the chairs and fuck her doggy style."
+    "{i}Um einen besseren Blick auf das Spielzeug zu bekommen, das immer noch in ihrem Arsch steckt, schiebst du Riley auf einen der Stühle und fickst sie von hinten."
+
+# game/day34.rpy:1323
+translate german day34_ri_sex_46aea005:
+
+    # ri "Fuck me, [p_name], don't stop!"
+    ri "Fick mich [p_name], hör nicht auf!"
+
+# game/day34.rpy:1325
+translate german day34_ri_sex_21ad4c97:
+
+    # "{i}When you slap her ass, Riley moans even harder and starts to finger herself."
+    "{i}Wenn du ihr auf den Hintern klopfst, stöhnt Riley noch mehr und fängt an, sich zu fingern."
+
+# game/day34.rpy:1326
+translate german day34_ri_sex_83d160e1:
+
+    # "{i}Her breasts dangle and bounce on the rhythm of your fucking and you can't contain a sudden urge to play with them."
+    "{i}Ihre Brüste baumeln und wippen im Rhythmus deines Ficks und du kannst den plötzlichen Drang nicht unterdrücken, mit ihnen zu spielen"
+
+# game/day34.rpy:1328
+translate german day34_ri_sex_a7a739a8:
+
+    # "{i}You pull Riley's upper body towards you, her ass pressing against your abdomen and your cock shoved up to the root in her cunt."
+    "{i}Du ziehst Rileys Oberkörper zu dir, ihr Arsch drückt gegen deinen Unterleib und dein Schwanz steckt bis zur Wurzel in ihrer Fotze"
+
+# game/day34.rpy:1329
+translate german day34_ri_sex_b816ae4b:
+
+    # "{i}The position doesn't allow for aggressive thrusts, but you're so deep inside her that it doesn't matter, the sensation is nearly overwhelming for you both."
+    "{i}Die Position erlaubt keine aggressiven Stöße, aber du bist so tief in ihr drin, dass es keine Rolle spielt, das Gefühl ist fast überwältigend für euch beide."
+# game/day34.rpy:1330
+translate german day34_ri_sex_9a92e185:
+
+    # "{i}As you play with her breasts and nipples, Riley continues to finger herself to completion."
+    "{i}Während du mit ihren Brüsten und Nippeln spielst, fingert sich Riley weiter bis zur Vollendung."
+# game/day34.rpy:1337
+translate german day34_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "F-f-fuck!"
+
+# game/day34.rpy:1338
+translate german day34_ri_sex_8b44502e:
+
+    # "{i}Riley screams as she reaches her orgasm, shuddering in your arms, her hand still clasped over her pussy."
+    "{i}Riley schreit, als sie ihren Orgasmus erreicht und in deinen Armen zittert, die Hand immer noch über ihrer Muschi."
+
+# game/day34.rpy:1340
+translate german day34_ri_sex_42d42502:
+
+    # "{i}Her constrictions are so intense that the toy is pushed out of her asshole, making her scream even louder with pleasure and relief."
+    "{i}Ihre Verengungen sind so stark, dass das Spielzeug aus ihrem Arschloch herausgedrückt wird und sie noch lauter vor Vergnügen und Erleichterung schreit."
+# game/day34.rpy:1342
+translate german day34_ri_sex_7f864c7c:
+
+    # "{i}The sight of her gaping anus, after giving birth to the black plug, trigger your own orgasm."
+    "{i}Der Anblick ihres klaffenden Anus nach der Geburt des schwarzen Plugs löst deinen eigenen Orgasmus aus"
+
+# game/day34.rpy:1348
+translate german day34_ri_sex_aa317619:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to fill her with seed."
+    "{i}Du bist von einem plötzlichen Gefühl überwältigt, Rileys Körper zu deinem zu machen, um dein Zeichen zu hinterlassen und sie mit deinem Samen zu füllen."
+# game/day34.rpy:1357
+translate german day34_ri_sex_df0632e6:
+
+    # "{i}So you kiss her neck and hug her tightly as your cock erupts inside her vagina."
+    "{i}Also küsst du ihren Hals und umarmst sie fest, während dein Schwanz in ihrer Vagina ausbricht."
+
+# game/day34.rpy:1358
+translate german day34_ri_sex_72390f9a:
+
+    # "{i}Semen keeps flowing for what seems like several minutes and you stay inside her until your erection starts to fade."
+    "{i}Das Sperma fließt scheinbar minutenlang und du bleibst in ihr, bis deine Erektion nachlässt."
+# game/day34.rpy:1360
+translate german day34_ri_sex_e0ce5bd9:
+
+    # "{i}When you pull out, a trickle of seed streams out of her slit, the warm sensation on her thighs causes Riley to smile."
+    "{i}Als du sie herausziehst, fließt ein Rinnsal von Samen aus ihrem Schlitz und das warme Gefühl auf ihren Schenkeln lässt Riley lächeln."
+# game/day34.rpy:1374
+translate german day34_ri_sex_4aedcb53:
+
+    # "{i}You're overcome with a sudden sensation to make Riley's body yours, to leave your mark, to cover her with seed."
+    "{i}Du bist von dem plötzlichen Gefühl überwältigt, Rileys Körper zu deinem zu machen, um dein Zeichen zu hinterlassen und sie mit Samen zu bedecken."
+# game/day34.rpy:1378
+translate german day34_ri_sex_f3ef623b:
+
+    # "{i}You pull out as your cock erupts and spray her body with warm semen, as Riley massages her breasts using your cum with a satisfied smile on her face."
+    "{i}Du ziehst dich zurück, als dein Schwanz ausbricht und bespritzt ihren Körper mit warmem Sperma, während Riley ihre Brüste mit deinem Sperma massiert und dabei zufrieden lächelt."
+# game/day34.rpy:1390
+translate german day34_ri_sex_ad8c8589:
+
+    # "{i}You're overcome with a sudden sensation to make Riley yours, to leave your mark, to cover her face with seed."
+    "{i}Dich überkommt ein plötzliches Gefühl, Riley zu dir zu machen, um dein Zeichen zu hinterlassen und ihr Gesicht mit Samen zu bedecken"
+
+# game/day34.rpy:1392
+translate german day34_ri_sex_0465f2e7:
+
+    # "{i}So you pull out and move her head close to your cock as it erupts."
+    "{i}Also ziehst du deinen Schwanz heraus und bewegst ihren Kopf nahe an deinen Schwanz, während er ausbricht."
+
+# game/day34.rpy:1395
+translate german day34_ri_sex_3b080407:
+
+    # "{i}You spray Riley's eager face with warm semen, depositing several volleys in her open mouth."
+    "{i}Du bespritzt Rileys begieriges Gesicht mit warmem Sperma und schüttest ihr mehrere Salven in den offenen Mund."
+
+# game/day34.rpy:1396
+translate german day34_ri_sex_9138679b:
+
+    # "{i}The girl swallows your cum with a satisfied smile on her face."
+    "{i}Das Mädchen schluckt dein Sperma mit einem zufriedenen Lächeln im Gesicht."
+
+# game/day34.rpy:1405
+translate german day34_ri_sex_68607fec:
+
+    # ri "Goddamn, I didn't know sex could be this intense."
+    ri "Verdammt, ich wusste nicht, dass Sex so intensiv sein kann"
+
+# game/day34.rpy:1406
+translate german day34_ri_sex_b923984f:
+
+    # p "You were magnificent."
+    p "Du warst großartig"
+

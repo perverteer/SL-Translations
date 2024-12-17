@@ -2744,3 +2744,95 @@ translate german day06_night_visit_choices_e46d3fff:
 
     # p "{i}(Sweet dreams, [r_name]...)"
     p "{i}(Süße Träume [r_name]...)"
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day06.rpy:740
+translate german day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Finde lieber woanders etwas Aufregendes)"
+
+# game/day06.rpy:747
+translate german day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Sie hören ein Klopfen an Ihrer Tür"
+
+# game/day06.rpy:748
+translate german day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Wie in."
+
+# game/day06.rpy:750
+translate german day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Hi, ich habe über den Film nachgedacht und dachte, wir könnten uns vielleicht gegenseitig Gesellschaft leisten?"
+
+# game/day06.rpy:751
+translate german day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "Du meinst heute Abend?"
+
+# game/day06.rpy:752
+translate german day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "Natürlich Dummkopf!"
+
+# game/day06.rpy:753
+translate german day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "Es ist manchmal so einsam und ich hätte gerne jemanden, der mir Gesellschaft leistet"
+
+# game/day06.rpy:754
+translate german day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "Es fühlte sich so natürlich an in dem Film, den wir heute Abend gesehen haben"
+
+# game/day06.rpy:755
+translate german day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "{i}(Der Film hat sie ganz schön mitgenommen)"
+
+# game/day06.rpy:761
+translate german day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "Das ist eine tolle Idee"
+
+# game/day06.rpy:762
+translate german day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "Juhu! Ich hoffe, du kuschelst gerne!"
+
+# game/day06.rpy:763
+translate german day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "I sure do"
+
+# game/day06.rpy:769
+translate german day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "Ich halte das für keine gute Idee. Was ist, wenn uns jemand sieht?"
+
+# game/day06.rpy:770
+translate german day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Oh"
+
+# game/day06.rpy:771
+translate german day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "Dann gute Nacht"
+

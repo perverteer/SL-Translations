@@ -3985,3 +3985,1303 @@ translate german day17_choices_cf30d2c8:
 
     # "{i}You head to the bike rental with [m_name] and [l_name], somewhere on the beach."
     "{i}Du fährst mit [m_name] und [l_name] zum Fahrradverleih irgendwo am Strand."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day17.rpy:776
+translate german day17_n_r_sex_021c6f24:
+
+    # p "How could I refuse two lovely ladies with a gift?"
+    p "Wie könnte ich zwei reizenden Damen ein Geschenk abschlagen?"
+
+# game/day17.rpy:777
+translate german day17_n_r_sex_a52c3b00:
+
+    # n "Haha! Exactly."
+    n "Haha! Genau!"
+
+# game/day17.rpy:778
+translate german day17_n_r_sex_8cfba3f6:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor, together with Nia."
+    r "Du hast mir neulich mit deiner Zunge ein so gutes Gefühl gegeben und ich würde mich gerne mit Nia revanchieren."
+# game/day17.rpy:779
+translate german day17_n_r_sex_04b03468:
+
+    # p "{i}(Woah! A double blowjob?!)"
+    p "(Woah! Ein doppelter Blowjob?!)"
+
+# game/day17.rpy:780
+translate german day17_n_r_sex_e469c1b1:
+
+    # n "Just lie still, [p_name], we're going to do all the work for you."
+    n "Bleib einfach ruhig liegen [p_name], wir machen die ganze Arbeit für dich"
+
+# game/day17.rpy:785
+translate german day17_n_r_sex_dad24c60:
+
+    # "{i}[r_name] and Nia giggle and kneel before you."
+    "{i}[r_name] und Nia kichern und knien vor dir"
+
+# game/day17.rpy:786
+translate german day17_n_r_sex_1c5dfd87:
+
+    # n "Should we lose our remaining clothes, [r_name]?"
+    n "Sollen wir unsere restliche Kleidung [r_name] verlieren?"
+
+# game/day17.rpy:787
+translate german day17_n_r_sex_7f06dc70:
+
+    # r "I'm not sure. Would that make [p_name] happy, you think?"
+    r "Ich bin mir nicht sicher, ob das [p_name] glücklich machen würde."
+
+# game/day17.rpy:788
+translate german day17_n_r_sex_5ce0758a:
+
+    # p "{i}(Lose the clothes, please, lose the clothes!)"
+    p "{i}(Ziehen Sie die Kleidung aus, bitte ziehen Sie die Kleidung aus!)"
+
+# game/day17.rpy:789
+translate german day17_n_r_sex_a9c7c4a0:
+
+    # n "I'm not sure... Let's try it..."
+    n "Ich bin mir nicht sicher, lass es uns versuchen"
+
+# game/day17.rpy:790
+translate german day17_n_r_sex_d4cced53:
+
+    # n "I think it worked!"
+    n "Ich glaube, es hat funktioniert!"
+
+# game/day17.rpy:791
+translate german day17_n_r_sex_d71a9447:
+
+    # r "It sure did. But now he still has his clothes on..."
+    r "Ja, aber jetzt ist er noch angezogen"
+
+# game/day17.rpy:792
+translate german day17_n_r_sex_d55373fa:
+
+    # n "That's unfair."
+    n "Das ist unfair"
+
+# game/day17.rpy:794
+translate german day17_n_r_sex_b9aa68e5:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to your sister in one fluid motion."
+    "{i}Nia steht auf, zieht Ihre Unterwäsche aus und setzt sich mit einer einzigen fließenden Bewegung neben Ihre Schwester."
+# game/day17.rpy:796
+translate german day17_n_r_sex_fad81a4e:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to [r_name] in one fluid motion."
+    "{i}Nia steht auf, zieht Ihre Unterwäsche aus und setzt sich mit einer einzigen fließenden Bewegung neben [r_name]."
+# game/day17.rpy:797
+translate german day17_n_r_sex_fb2818ad:
+
+    # n "That's better."
+    n "So ist es besser"
+
+# game/day17.rpy:798
+translate german day17_n_r_sex_32b7f6ec:
+
+    # n "And he's hard already. Nice."
+    n "Und er ist schon hart Nizza"
+
+# game/day17.rpy:799
+translate german day17_n_r_sex_00568fa3:
+
+    # r "Let's see if we can make him harder."
+    r "Mal sehen, ob wir ihn härter machen können"
+
+# game/day17.rpy:800
+translate german day17_n_r_sex_5e1fdbeb:
+
+    # n "Good idea."
+    n "Gute Idee"
+
+# game/day17.rpy:802
+translate german day17_n_r_sex_8cc40cc1:
+
+    # "{i}[r_name] and Nia kiss each other tenderly at first, but soon lust overtakes them both and their tongues intertwine passionately."
+    "{i}[r_name] und Nia küssen sich zunächst zärtlich, doch schon bald ergreift die Lust die beiden und ihre Zungen verschlingen sich leidenschaftlich"
+
+# game/day17.rpy:803
+translate german day17_n_r_sex_e69310a3:
+
+    # n "Mmmm, someone else is ready as well."
+    n "Mmmm jemand anderes ist auch bereit"
+
+# game/day17.rpy:804
+translate german day17_n_r_sex_1fef6015:
+
+    # r "So it seems."
+    r "So scheint es"
+
+# game/day17.rpy:805
+translate german day17_n_r_sex_b9ec79a6:
+
+    # "{i}As you admire the girl's foreplay, precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Während du das Vorspiel des Mädchens bewunderst, läuft das Präzipitum aus deinem Schwanz. Deine nasse Spitze glitzert im Mondlicht."
+
+# game/day17.rpy:806
+translate german day17_n_r_sex_c16042cb:
+
+    # r "[p_name] deserves a kiss as well."
+    r "[p_name] hat auch einen Kuss verdient"
+
+# game/day17.rpy:809
+translate german day17_n_r_sex_3d1138bf:
+
+    # "{i}Nia and your sister crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Nia und deine Schwester krabbeln auf dich, [r_name]'s Brustwarzen berühren kurz die empfindliche Haut deiner Eichel und Nia's kleiner Streifen Schamhaar kitzelt an deinem Oberschenkel"
+
+# game/day17.rpy:811
+translate german day17_n_r_sex_3ad3baef:
+
+    # "{i}Nia and [r_name] crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Nia und [r_name] krabbeln auf dich, [r_name]'s Nippel berühren kurz die empfindliche Haut deiner Eichel und Nia's kleiner Streifen Schamhaar kitzelt an deinem Oberschenkel"
+
+# game/day17.rpy:813
+translate german day17_n_r_sex_fc56b76f:
+
+    # "{i}With eager lips, the girls take turns kissing you. While you french kiss Nia, [r_name] slowly moves down to your erect dick and touches it lightly with her fingertips."
+    "{i}Mit eifrigen Lippen küssen dich die Mädchen abwechselnd, während du einen Zungenkuss gibst, bewegt sich Nia [r_name] langsam zu deinem erigierten Schwanz hinunter und berührt ihn leicht mit ihren Fingerspitzen"
+
+# game/day17.rpy:814
+translate german day17_n_r_sex_dcb6d597:
+
+    # r "There's something to kiss down here too, Nia."
+    r "Hier unten gibt es auch etwas zu küssen, Nia"
+
+# game/day17.rpy:820
+translate german day17_n_r_sex_3679276d:
+
+    # "{i}Your sister is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}Deine Schwester wird von Nia begleitet und zusammen küssen und lecken sie deinen Schaft und hinterlassen feuchte Spuren"
+
+# game/day17.rpy:822
+translate german day17_n_r_sex_97b28fe6:
+
+    # "{i}[r_name] is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}[r_name] wird von Nia begleitet und zusammen küssen und lecken sie deinen Schaft und hinterlassen feuchte Spuren"
+
+# game/day17.rpy:823
+translate german day17_n_r_sex_b6cca7cc:
+
+    # r "Mmmmm, I can taste him already, can't you Nia?"
+    r "Mmmmm ich kann ihn schon schmecken, du nicht auch Nia?"
+
+# game/day17.rpy:824
+translate german day17_n_r_sex_589f1e51:
+
+    # n "Yes! And I want more."
+    n "Ja! Und ich will mehr"
+
+# game/day17.rpy:826
+translate german day17_n_r_sex_c42ee524:
+
+    # "{i}[r_name] gives Nia the space and looks at her intently, obviously wanting to learn from the other girl. Nia's mouth softly wraps around the tip of your cock, and the film of precum is soon mixed with her saliva as she sucks and licks the tip."
+    "{i}[r_name] gibt Nia den Raum und schaut sie aufmerksam an, offensichtlich will sie von dem anderen Mädchen lernen. Nias Mund umschließt sanft die Spitze deines Schwanzes und der Film aus Präzipitum vermischt sich bald mit ihrem Speichel, während sie an der Spitze saugt und leckt"
+
+# game/day17.rpy:827
+translate german day17_n_r_sex_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Fühlt sich das gut an [p_name]?"
+
+# game/day17.rpy:828
+translate german day17_n_r_sex_b2603c13:
+
+    # "{i}Right at that moment, Nia takes nearly the entire length of your penis in her mouth and caresses it with her darting tongue."
+    "{i}Genau in diesem Moment nimmt Nia fast die gesamte Länge deines Penis in den Mund und streichelt ihn mit ihrer flinken Zunge."
+# game/day17.rpy:829
+translate german day17_n_r_sex_a6ae68d7:
+
+    # p "God yes!"
+    p "Gott ja!"
+
+# game/day17.rpy:830
+translate german day17_n_r_sex_55d0763c:
+
+    # n "Mmmmmm!"
+    n "Mmmmmm!"
+
+# game/day17.rpy:831
+translate german day17_n_r_sex_5121b425:
+
+    # p "Keep going Nia, aaaaah!"
+    p "Mach weiter Nia aaaaah!"
+
+# game/day17.rpy:832
+translate german day17_n_r_sex_6f96f19a:
+
+    # "{i}Nia's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by [r_name] gently massaging your balls which are by now covered in streams of saliva."
+    "{i}Nias Mund stimuliert deinen Schwanz in allen richtigen Winkeln, ein himmlisches Gefühl, das noch verstärkt wird, wenn [r_name] deine Eier sanft massiert, die inzwischen von Speichelströmen bedeckt sind."
+# game/day17.rpy:837
+translate german day17_n_r_sex_9eba972b:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by your sister and they swap places."
+    "{i}Nia lässt sich von deiner Schwester sanft von deinem Schwanz wegschieben und sie tauschen die Plätze."
+
+# game/day17.rpy:839
+translate german day17_n_r_sex_54b94af2:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by [r_name] and they swap places."
+    "{i}Nia lässt sich von [r_name] sanft von deinem Schwanz wegschieben und sie tauschen die Plätze"
+
+# game/day17.rpy:844
+translate german day17_n_r_sex_a6022d68:
+
+    # "{i}[r_name] is clearly less experienced and the first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name] ist eindeutig weniger erfahren und die ersten Bewegungen ihres Mundes auf deinem Schwanz sind etwas unbeholfen, aber ihr konzentrierter Blick und ihre Bereitschaft zu lernen machen es noch heißer"
+
+# game/day17.rpy:845
+translate german day17_n_r_sex_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Das ist es, genau da, benutze deine Zunge [r_name] wickle deine Lippen um meinen Schwanz"
+
+# game/day17.rpy:847
+translate german day17_n_r_sex_7a2893e1:
+
+    # n "How does that feel, [r_name], your brother's big cock inside your mouth?"
+    n "Wie fühlt sich der große Schwanz deines Bruders in deinem Mund an?"
+
+# game/day17.rpy:849
+translate german day17_n_r_sex_7f5a0272:
+
+    # n "How does that feel, [r_name], [p_name]'s big cock inside your mouth?"
+    n "Wie fühlt sich der große Schwanz von [r_name] [p_name] in deinem Mund an?"
+
+# game/day17.rpy:850
+translate german day17_n_r_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+# game/day17.rpy:851
+translate german day17_n_r_sex_f7a09ae6:
+
+    # n "Good, isn't it? I made it all wet for you..."
+    n "Gut, nicht wahr? Ich habe es ganz nass gemacht für dich"
+
+# game/day17.rpy:852
+translate german day17_n_r_sex_ef34156c:
+
+    # n "Are you going to make him cum with your pretty little mouth?"
+    n "Wirst du ihn mit deinem hübschen kleinen Mund zum Abspritzen bringen?"
+
+# game/day17.rpy:853
+translate german day17_n_r_sex_1dc344f3:
+
+    # "{i}Nia's words spur [r_name] to really give herself over to sucking your cock with abandon, and pretty soon the room is filled with the sounds of her slobbering on your penis. Meanwhile, Nia massages your balls and strokes your thighs, and occasionally slides up the couch to kiss you wantonly."
+    "{i}Nias Worte spornen [r_Name] dazu an, deinen Schwanz wirklich hingebungsvoll zu lutschen, und schon bald ist der Raum erfüllt von den Geräuschen ihres Sabberns auf deinem Penis, während Nia deine Eier massiert und deine Schenkel streichelt und gelegentlich auf die Couch rutscht, um dich wollüstig zu küssen."
+# game/day17.rpy:854
+translate german day17_n_r_sex_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah [r_name] ich bin so nah dran!"
+
+# game/day17.rpy:855
+translate german day17_n_r_sex_6a665f9f:
+
+    # n "Shall we make him cum together?"
+    n "Sollen wir ihn zusammen abspritzen lassen?"
+
+# game/day17.rpy:856
+translate german day17_n_r_sex_67d6aa19:
+
+    # r "That's a good idea."
+    r "Das ist eine gute Idee"
+
+# game/day17.rpy:858
+translate german day17_n_r_sex_ae3e2bcb:
+
+    # "{i}The girls position themselves at each side of your cock and begin to lick and suck the length of your shaft, sometimes stopping to kiss each other."
+    "{i}Die Mädchen positionieren sich auf beiden Seiten deines Schwanzes und beginnen, deinen Schaft zu lecken und zu saugen, wobei sie sich manchmal gegenseitig küssen."
+# game/day17.rpy:859
+translate german day17_n_r_sex_205d546f:
+
+    # n "Are you going to cum in our mouths, [p_name]?"
+    n "Wirst du in unserem Mund abspritzen [p_name]?"
+
+# game/day17.rpy:860
+translate german day17_n_r_sex_1ff0de98:
+
+    # r "You'd like that, wouldn't you?"
+    r "Das würde dir gefallen, oder?"
+
+# game/day17.rpy:861
+translate german day17_n_r_sex_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "J-J-Ja!"
+
+# game/day17.rpy:863
+translate german day17_n_r_sex_6d40e142:
+
+    # "{i}It's your sister that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Wenn sie die Spitze deines Penis leckt, spürst du, wie die ersten Wellen deines Orgasmus durch deinen Körper schwappen."
+# game/day17.rpy:865
+translate german day17_n_r_sex_8a8d7975:
+
+    # "{i}It's [r_name] that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Es ist [r_name], die dich zum Höhepunkt bringt, wenn sie die Spitze deines Penis leckt und du spürst, wie die ersten Wellen deines Orgasmus durch deinen Körper schwappen"
+
+# game/day17.rpy:872
+translate german day17_n_r_sex_5ea5b12a:
+
+    # "{i}Nia senses that you're ready and motions [r_name] to kneel, their mouths open before your throbbing cock. Big streams of semen shoot on their faces and in their mouths."
+    "{i}Nia spürt, dass du bereit bist und fordert [r_name] auf, sich mit offenem Mund vor deinen pochenden Schwanz zu knien Große Ströme von Sperma schießen auf ihre Gesichter und in ihre Münder."
+
+# game/day17.rpy:873
+translate german day17_n_r_sex_64a20ab7:
+
+    # n "Yes! Shower us with cum!"
+    n "Ja! Dusch uns mit Sperma!"
+
+# game/day17.rpy:874
+translate german day17_n_r_sex_124be57b:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into their mouths."
+    "{i}Du hast dich während der letzten Spasmen deines Orgasmus wieder einigermaßen gefangen und bist in der Lage, mehrere Spritzer direkt in ihre Münder abzugeben."
+# game/day17.rpy:877
+translate german day17_n_r_sex_e95876b8:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from your sister's face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Ein glücklicher [r_name] schaut dich an, während sie deine Ladung schluckt Nia sagt nichts und leckt langsam die Spermatropfen vom Gesicht deiner Schwester, bevor sie alles schluckt Die Mädchen beenden das Ganze mit einem langen Kuss mit ihren spermabehandelten Lippen"
+
+# game/day17.rpy:879
+translate german day17_n_r_sex_adfc3258:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from [r_name]'s face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Eine glückliche [r_name] schaut dich an, während sie deine Ladung schluckt Nia sagt nichts und leckt langsam die Spermatropfen von [r_name]'s Gesicht, bevor sie alles schluckt Die Mädchen beenden das Ganze mit einem langen Kuss mit ihren spermabeschmierten Lippen"
+
+# game/day17.rpy:880
+translate german day17_n_r_sex_8359c75d:
+
+    # r "Mmmm! There was so much of it!"
+    r "Mmmm! Es war so viel davon!"
+
+# game/day17.rpy:889
+translate german day17_n_r_sex_ea059714:
+
+    # n "There sure was. How long have you been saving all that for us, [p_name]?"
+    n "Das war wirklich Wie lange hast du das alles für uns [p_name] aufgehoben?"
+
+# game/day17.rpy:890
+translate german day17_n_r_sex_0c3613aa:
+
+    # p "I'm... I'm... not sure... what year is this again?"
+    p "Ich bin mir nicht sicher, welches Jahr wir wieder haben?"
+
+# game/day17.rpy:891
+translate german day17_n_r_sex_689a8fb3:
+
+    # r "Sweet dreams, [p_name]!"
+    r "Süße Träume [p_name]!"
+
+# game/day17.rpy:892
+translate german day17_n_r_sex_da44e347:
+
+    # n "Hope you sleep well!"
+    n "Hoffentlich schlafen Sie gut!"
+
+# game/day17.rpy:893
+translate german day17_n_r_sex_2f3dc07e:
+
+    # p "I'm sure I will. Good night girls!"
+    p "Ich bin sicher, ich werde Gute Nacht Mädchen!"
+
+# game/day17.rpy:894
+translate german day17_n_r_sex_a9ad1689:
+
+    # "{i}[r_name] and Nia leave you on the couch without another word, and softly giggling they climb the stairs, back to Nia's bedroom."
+    "{i}[r_name] und Nia lassen dich ohne ein weiteres Wort auf der Couch liegen und gehen leise kichernd die Treppe zurück zu Nias Schlafzimmer."
+# game/day17.rpy:926
+translate german day17_n_sex_a45d60e9:
+
+    # n "Psst, [p_name]?!"
+    n "Psst [p_name]?!"
+
+# game/day17.rpy:928
+translate german day17_n_sex_57978f1e:
+
+    # p "Huh? Nia?"
+    p "Hm? Nia?"
+
+# game/day17.rpy:931
+translate german day17_n_sex_b1147461:
+
+    # p "Back again?"
+    p "Wieder zurück?"
+
+# game/day17.rpy:932
+translate german day17_n_sex_aa37de39:
+
+    # n "Yes..."
+    n "Ja"
+
+# game/day17.rpy:933
+translate german day17_n_sex_1c277469:
+
+    # p "What's the matter?"
+    p "Was ist denn los?"
+
+# game/day17.rpy:936
+translate german day17_n_sex_16403a37:
+
+    # n "I really liked what your sister and I did earlier. But..."
+    n "Mir hat sehr gut gefallen, was deine Schwester und ich vorhin gemacht haben, aber"
+
+# game/day17.rpy:938
+translate german day17_n_sex_d72995b3:
+
+    # n "I really liked what [r_name] and I did earlier. But..."
+    n "Mir hat sehr gut gefallen, was [r_Name] und ich vorhin gemacht haben, aber"
+
+# game/day17.rpy:939
+translate german day17_n_sex_703f80cf:
+
+    # n "I want more... And I hope you do too."
+    n "Ich will mehr und ich hoffe, du auch"
+
+# game/day17.rpy:940
+translate german day17_n_sex_f8a55781:
+
+    # p "I'm always up for more."
+    p "Ich bin immer für mehr zu haben"
+
+# game/day17.rpy:941
+translate german day17_n_sex_f2416b76:
+
+    # n "Yeah, do you still have some juice left?"
+    n "Ja, hast du noch etwas Saft übrig?"
+
+# game/day17.rpy:942
+translate german day17_n_sex_2d8790b2:
+
+    # p "Plenty."
+    p "Reichlich"
+
+# game/day17.rpy:944
+translate german day17_n_sex_9e955ca9:
+
+    # n "The one and only."
+    n "Der Einzigartige"
+
+# game/day17.rpy:945
+translate german day17_n_sex_49a15ca3:
+
+    # p "You're uh... not wearing much..."
+    p "Du hast nicht viel an"
+
+# game/day17.rpy:949
+translate german day17_n_sex_96f34a9a:
+
+    # n "We've already had that little conversation during yoga class and I think you're funny and don't look too bad as well."
+    n "Wir haben uns schon in der Yogastunde unterhalten, und ich finde dich lustig und du siehst auch nicht schlecht aus."
+# game/day17.rpy:951
+translate german day17_n_sex_dc848de3:
+
+    # n "You interest me, [p_name]. I think you're funny and you don't look too bad as well."
+    n "Du interessierst mich [p_name], ich finde dich lustig und du siehst auch nicht schlecht aus"
+
+# game/day17.rpy:952
+translate german day17_n_sex_7e565f3e:
+
+    # p "Errr. Thanks, I guess."
+    p "Errr Danke, denke ich"
+
+# game/day17.rpy:953
+translate german day17_n_sex_64ed2a81:
+
+    # n "And I'm sure you won't be around here forever, with you being on vacation and all... So I'd like to seize the moment."
+    n "Und ich bin mir sicher, dass du nicht ewig hier sein wirst, weil du im Urlaub bist und so, also möchte ich den Moment nutzen."
+# game/day17.rpy:954
+translate german day17_n_sex_88384a9d:
+
+    # p "{i}(I like where this is going.)"
+    p "{i}(Ich mag, wohin das führt)"
+
+# game/day17.rpy:957
+translate german day17_n_sex_52d0a016:
+
+    # n "You clearly enjoyed yoga class today."
+    n "Du hast die Yogastunde heute eindeutig genossen"
+
+# game/day17.rpy:958
+translate german day17_n_sex_b7f11957:
+
+    # p "Mostly because of all the hot girls in tight clothing."
+    p "Hauptsächlich wegen all der heißen Mädchen in enger Kleidung"
+
+# game/day17.rpy:959
+translate german day17_n_sex_f8ba9b92:
+
+    # n "Understandable."
+    n "Verständlich"
+
+# game/day17.rpy:960
+translate german day17_n_sex_88733f91:
+
+    # n "I thought maybe you'd be interested in a more advanced lesson. The way the human body can bend and stretch in interesting ways is simply amazing."
+    n "Ich dachte, du wärst vielleicht an einer fortgeschritteneren Lektion interessiert Die Art und Weise, wie sich der menschliche Körper auf interessante Weise biegen und strecken kann, ist einfach erstaunlich."
+# game/day17.rpy:961
+translate german day17_n_sex_059c9cd9:
+
+    # p "When it comes to learning I'm always very, very eager..."
+    p "Wenn es ums Lernen geht, bin ich immer sehr, sehr eifrig"
+
+# game/day17.rpy:963
+translate german day17_n_sex_4de57e6a:
+
+    # n "Do you want me, [p_name]?"
+    n "Willst du mich [p_name]?"
+
+# game/day17.rpy:964
+translate german day17_n_sex_fe13d2fd:
+
+    # n "I want you to make love to me."
+    n "Ich möchte, dass du mit mir schläfst"
+
+# game/day17.rpy:968
+translate german day17_n_sex_57f8ce16:
+
+    # p "Of course, beautiful!"
+    p "Natürlich schön!"
+
+# game/day17.rpy:972
+translate german day17_n_sex_aac35e7b:
+
+    # p "Sorry Nia, but I'm not interested."
+    p "Tut mir leid Nia, aber ich bin nicht interessiert"
+
+# game/day17.rpy:974
+translate german day17_n_sex_2dcfcd11:
+
+    # "{i}Without saying a word, Nia leaves as quietly as she came. You doze off immediately after and sleep deeply for the remainder of the night."
+    "{i}Ohne ein Wort zu sagen, geht Nia so leise, wie sie gekommen ist. Du schläfst danach sofort ein und schläfst den Rest der Nacht tief und fest."
+# game/day17.rpy:978
+translate german day17_n_sex_b2fa37a9:
+
+    # p "{i}(Best. Din-aww fuck it, I'm getting laid again!)"
+    p "{i}(Best Din-aww fuck it I'm getting laid again!)"
+
+# game/day17.rpy:980
+translate german day17_n_sex_74fc6d57:
+
+    # p "{i}(I'm becoming a big fan of the concept of 'sleepovers'.)"
+    p "{i}(Ich werde ein großer Fan des Konzepts der 'Sleepovers')"
+
+# game/day17.rpy:983
+translate german day17_n_sex_3c2f1232:
+
+    # n "Good!"
+    n "Gut!"
+
+# game/day17.rpy:986
+translate german day17_n_sex_f915d80a:
+
+    # "{i}Nia kneels before you and grabs your rapidly growing cock. You kiss her neck and grab her small, firm breasts. Her nipples are already hard and Nia's breathing becomes heavier."
+    "{i}Nia kniet vor dir und greift nach deinem schnell wachsenden Schwanz Du küsst ihren Hals und greifst nach ihren kleinen, festen Brüsten Ihre Nippel sind bereits hart und Nias Atem wird schwerer"
+
+# game/day17.rpy:987
+translate german day17_n_sex_fa482016:
+
+    # n "The first exercise is called the Downward Facing Cocksucker."
+    n "Die erste Übung heißt Abwärtsgerichteter Schwanzlutscher."
+
+# game/day17.rpy:988
+translate german day17_n_sex_939cfc19:
+
+    # p "Sounds like a great way to train those often neglected facial muscles."
+    p "Klingt nach einer guten Möglichkeit, die oft vernachlässigten Gesichtsmuskeln zu trainieren"
+
+# game/day17.rpy:993
+translate german day17_n_sex_fc45939f:
+
+    # "{i}The athletic girl stands up and bends down sharply, seemingly without effort. Your cock is in her mouth before you know it, and her ass is positioned invitingly in front of your face."
+    "{i}Das athletische Mädchen steht auf und beugt sich scheinbar mühelos nach unten. Ehe du dich versiehst, ist dein Schwanz in ihrem Mund und ihr Arsch liegt einladend vor deinem Gesicht."
+# game/day17.rpy:998
+translate german day17_n_sex_a61b4a81:
+
+    # "{i}She blows you with the same great technique you experienced earlier this night. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Sie bläst dich mit der gleichen großartigen Technik, die du schon früher in dieser Nacht erlebt hast. Ihre Zunge macht schnelle Bewegungen über deinen geschwollenen Kopf und du machst dasselbe mit ihrer Muschi und ihrem Kitzler."
+# game/day17.rpy:1000
+translate german day17_n_sex_680eda3b:
+
+    # "{i}Her technique is perfect. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Ihre Technik ist perfekt. Ihre Zunge macht schnelle Bewegungen über deinen geschwollenen Kopf und du machst dasselbe mit ihrer Muschi und ihrem Kitzler."
+# game/day17.rpy:1001
+translate german day17_n_sex_ebe0f1ca:
+
+    # n "Mmmmm!"
+    n "Mmmmm!"
+
+# game/day17.rpy:1002
+translate german day17_n_sex_0ed239d7:
+
+    # n "Ohhhh!"
+    n "Ohhhh!"
+
+# game/day17.rpy:1007
+translate german day17_n_sex_57d99eee:
+
+    # "{i}You stop licking her pussy and pull her gently from your cock."
+    "{i}Du hörst auf, ihre Muschi zu lecken und ziehst sie sanft von deinem Schwanz"
+
+# game/day17.rpy:1008
+translate german day17_n_sex_ca6c83e8:
+
+    # p "I already know you can give a great blowjob. I'd like to explore that little wet slit of yours a bit further."
+    p "Ich weiß bereits, dass du einen großartigen Blowjob geben kannst, aber ich würde gerne deinen kleinen feuchten Schlitz noch ein bisschen weiter erforschen."
+# game/day17.rpy:1009
+translate german day17_n_sex_45d38e93:
+
+    # n "Mmmm, I liked what you were doing with it."
+    n "Mmmm, ich mochte, was du damit gemacht hast"
+
+# game/day17.rpy:1010
+translate german day17_n_sex_ad885e52:
+
+    # p "Spread your legs for me, baby."
+    p "Spreiz deine Beine für mich, Baby"
+
+# game/day17.rpy:1015
+translate german day17_n_sex_15165c05:
+
+    # "{i}Nia spreads and bends down again to give you the perfect view of her tight pussy and her little asshole. When you enter her you feel a slight resistance."
+    "{i}Nia spreizt sich und beugt sich wieder nach unten, um dir den perfekten Blick auf ihre enge Muschi und ihr kleines Arschloch zu geben. Wenn du in sie eindringst, spürst du einen leichten Widerstand."
+# game/day17.rpy:1016
+translate german day17_n_sex_b4f501ba:
+
+    # p "Am I going too fast?"
+    p "Fahre ich zu schnell?"
+
+# game/day17.rpy:1017
+translate german day17_n_sex_74a65443:
+
+    # n "No, keep going. You're bigger than I expected."
+    n "Nein, mach weiter, du bist größer als ich erwartet habe"
+
+# game/day17.rpy:1018
+translate german day17_n_sex_2810f87f:
+
+    # "{i}You slowly push your cock further inside her. Nia relaxes visibly and her gasps become soft moans of pleasure."
+    "{i}Du schiebst deinen Schwanz langsam weiter in sie hinein, Nia entspannt sich sichtlich und ihr Keuchen wird zu einem leisen Stöhnen der Lust."
+# game/day17.rpy:1019
+translate german day17_n_sex_7d3ddce0:
+
+    # n "Mmmm, that's it."
+    n "Mmmm, das ist es"
+
+# game/day17.rpy:1023
+translate german day17_n_sex_04dd7f78:
+
+    # "{i}After waiting for a short while to let Nia get fully accustomed to your size, you establish a gentle rhythm, letting Nia feel the entire length of your throbbing cock each time you penetrate her."
+    "{i}Nachdem du eine Weile gewartet hast, damit Nia sich an deine Größe gewöhnen kann, legst du einen sanften Rhythmus fest und lässt Nia jedes Mal, wenn du in sie eindringst, die gesamte Länge deines pochenden Schwanzes spüren."
+# game/day17.rpy:1024
+translate german day17_n_sex_e04ee9b5:
+
+    # n "Aaah yes! Keep doing that! Right there!"
+    n "Aaah ja! Mach weiter so! Genau da!"
+
+# game/day17.rpy:1026
+translate german day17_n_sex_8c961780:
+
+    # "{i}The moisture of her cunt acting as a natural lubricant, you feel you can pick up the pace and start to quicken your thrusts. Nia moans as if to encourage you further."
+    "{i}Die Feuchtigkeit ihrer Fotze wirkt wie ein natürliches Gleitmittel und du spürst, dass du das Tempo erhöhen kannst und fängst an, deine Stöße zu beschleunigen. Nia stöhnt, als ob sie dich weiter ermutigen will."
+# game/day17.rpy:1027
+translate german day17_n_sex_24fd4500:
+
+    # n "Want to try another position?"
+    n "Willst du eine andere Position ausprobieren?"
+
+# game/day17.rpy:1029
+translate german day17_n_sex_4abbac46:
+
+    # "{i}Nia bends her body in such a way that resembles a perverted version of an 'asana'. Her gaping pussy is ready again for your penis, and you don't hold back this time. Your balls slap against her pussy as you drive your cock mercilessly into her."
+    "{i}Nia beugt ihren Körper in einer Weise, die einer perversen Version einer 'Asana' gleicht Ihre klaffende Muschi ist wieder bereit für deinen Penis und du hältst dich diesmal nicht zurück Deine Eier klatschen gegen ihre Muschi, während du deinen Schwanz gnadenlos in sie stößt"
+
+# game/day17.rpy:1030
+translate german day17_n_sex_ef16aad3:
+
+    # n "G-g-god [p_name]! Fuck me!"
+    n "G-G-Gott [p_name]! Fick mich!"
+
+# game/day17.rpy:1035
+translate german day17_n_sex_e8ccb902:
+
+    # "{i}Mad with lust, you grab her thighs and lift Nia from the ground. She stabilizes herself with her hands as you slam your cock to the root inside of her pussy with firm piston-like movements, still holding her tautened thighs."
+    "{i}Wahnsinnig vor Lust packst du ihre Schenkel und hebst Nia vom Boden ab. Sie stabilisiert sich mit ihren Händen, während du deinen Schwanz mit festen, kolbenartigen Bewegungen bis zur Wurzel in ihre Muschi stößt, während du ihre angespannten Schenkel festhältst"
+
+# game/day17.rpy:1036
+translate german day17_n_sex_eca46522:
+
+    # n "Fuck me harder, [p_name]!"
+    n "Fick mich härter [p_name]!"
+
+# game/day17.rpy:1037
+translate german day17_n_sex_9c5e215e:
+
+    # p "Yes Nia! I'm so close!"
+    p "Ja Nia! Ich bin so nah dran!"
+
+# game/day17.rpy:1039
+translate german day17_n_sex_4a6a6a8a:
+
+    # n "I want to taste your cum again, let me have it! In my mouth please!"
+    n "Ich will dein Sperma noch einmal schmecken, lass es mich haben! In meinem Mund, bitte!"
+
+# game/day17.rpy:1041
+translate german day17_n_sex_21aa5c1b:
+
+    # n "I want to taste your cum, let me have it! In my mouth please!"
+    n "Ich will dein Sperma schmecken, lass es mich haben! In meinem Mund, bitte!"
+
+# game/day17.rpy:1048
+translate german day17_n_sex_0aa9b0aa:
+
+    # "{i}As soon as you feel your cock twitching in the onset of your orgasm, you pull out of Nia, lift her head slightly and finish in her open mouth."
+    "{i}Sobald du spürst, wie dein Schwanz im Anflug deines Orgasmus zuckt, ziehst du dich aus Nia zurück, hebst ihren Kopf leicht an und spritzt in ihren offenen Mund."
+# game/day17.rpy:1049
+translate german day17_n_sex_b795223f:
+
+    # p "Aaaah!"
+    p "Aaaah!"
+
+# game/day17.rpy:1050
+translate german day17_n_sex_9909950d:
+
+    # n "Yes! Yes! More!"
+    "Ja! Ja! Mehr!"
+
+# game/day17.rpy:1051
+translate german day17_n_sex_03612561:
+
+    # "{i}Semen is leaking from the corners of her mouth as you spasm in the last throes of your orgasm."
+    "{i}Das Sperma läuft aus ihren Mundwinkeln, während du in den letzten Zügen deines Orgasmus zuckst."
+
+# game/day17.rpy:1057
+translate german day17_n_sex_3340861d:
+
+    # p "You showed some crazy elastic moves back there."
+    p "Du hast da hinten ein paar verrückte elastische Bewegungen gezeigt"
+
+# game/day17.rpy:1058
+translate german day17_n_sex_8cf0fef4:
+
+    # n "Don't underestimate the power of yoga."
+    n "Unterschätzen Sie nicht die Kraft des Yoga"
+
+# game/day17.rpy:1059
+translate german day17_n_sex_23d833bf:
+
+    # p "From now on, I won't ever again."
+    p "Von jetzt an werde ich das nie wieder tun"
+
+# game/day17.rpy:1060
+translate german day17_n_sex_9c06648b:
+
+    # n "Have you had many lovers, [p_name]?"
+    n "Hatten Sie viele Liebhaber [p_name]?"
+
+# game/day17.rpy:1061
+translate german day17_n_sex_7a8cb987:
+
+    # p "A few."
+    p "Ein paar"
+
+# game/day17.rpy:1064
+translate german day17_n_sex_08cd553e:
+
+    # n "Your sister for one. That's unusual."
+    n "Deine Schwester für einen, der ungewöhnlich ist"
+
+# game/day17.rpy:1065
+translate german day17_n_sex_29cdba2a:
+
+    # p "Not on Belugio."
+    p "Nicht auf Belugio"
+
+# game/day17.rpy:1066
+translate german day17_n_sex_9c1c027e:
+
+    # n "It's still unusual on Belugio, but accepted all the same."
+    n "Es ist immer noch ungewöhnlich auf Belugio, aber trotzdem akzeptiert"
+
+# game/day17.rpy:1068
+translate german day17_n_sex_0471cb1c:
+
+    # n "[r_name] for one."
+    n "[r_name] für einen"
+
+# game/day17.rpy:1069
+translate german day17_n_sex_209b433b:
+
+    # p "And you?"
+    p "Und du?"
+
+# game/day17.rpy:1071
+translate german day17_n_sex_fdd6acfe:
+
+    # n "Hmmm. No. You were my second. Or third, if you count Rebeca."
+    n "Hmmm Nein, du warst mein zweiter oder dritter, wenn man Rebeca mitzählt"
+
+# game/day17.rpy:1072
+translate german day17_n_sex_6a30ee20:
+
+    # p "Rebeca, your... mother?"
+    p "Rebeca, deine Mutter?"
+
+# game/day17.rpy:1073
+translate german day17_n_sex_0b1bfa64:
+
+    # n "Yes. You shouldn't be surprised by now."
+    n "Ja, das sollte Sie jetzt nicht überraschen"
+
+# game/day17.rpy:1075
+translate german day17_n_sex_e9de9e2d:
+
+    # n "And besides, you've just had a fucking sexy blowjob from your own sister tonight."
+    n "Und außerdem hast du heute Abend gerade einen verdammt sexy Blowjob von deiner eigenen Schwester bekommen"
+
+# game/day17.rpy:1076
+translate german day17_n_sex_efc57a97:
+
+    # p "Okay, okay! Point taken."
+    p "Okay, okay! Punkt verstanden"
+
+# game/day17.rpy:1077
+translate german day17_n_sex_17af946b:
+
+    # p "But who was your first then?"
+    p "Aber wer war dann dein Erster?"
+
+# game/day17.rpy:1079
+translate german day17_n_sex_94c641e4:
+
+    # n "My my, you're getting rather inquisitive aren't you?"
+    n "Meine Güte, du wirst aber ganz schön neugierig, was?"
+
+# game/day17.rpy:1080
+translate german day17_n_sex_8495691f:
+
+    # p "You don't have to tell me."
+    p "Das musst du mir nicht sagen"
+
+# game/day17.rpy:1081
+translate german day17_n_sex_cc3084af:
+
+    # n "I don't mind."
+    n "Es macht mir nichts aus"
+
+# game/day17.rpy:1082
+translate german day17_n_sex_7b86b863:
+
+    # n "Nino was my first."
+    n "Nino war mein Erster"
+
+# game/day17.rpy:1083
+translate german day17_n_sex_36ff5f12:
+
+    # p "Really."
+    p "Wirklich"
+
+# game/day17.rpy:1084
+translate german day17_n_sex_c0b7b88a:
+
+    # n "He's still my lover sometimes, when we both feel like it."
+    n "Er ist immer noch mein Liebhaber, manchmal, wenn wir beide Lust dazu haben"
+
+# game/day17.rpy:1085
+translate german day17_n_sex_90a89774:
+
+    # p "Your brother is a lucky guy."
+    p "Dein Bruder ist ein Glückspilz"
+
+# game/day17.rpy:1087
+translate german day17_n_sex_dd74d507:
+
+    # n "Hmmm. No. You were my second."
+    n "Hmmm Nein Du warst mein zweiter"
+
+# game/day17.rpy:1088
+translate german day17_n_sex_d4ec46d4:
+
+    # p "Who was your first then?"
+    p "Wer war denn dein Erster?"
+
+# game/day17.rpy:1090
+translate german day17_n_sex_f3a94fd4:
+
+    # n "Some boy I knew from school."
+    n "Ein Junge, den ich aus der Schule kenne"
+
+# game/day17.rpy:1091
+translate german day17_n_sex_09f8f925:
+
+    # p "{i}(She's being purposely vague... Better not grill her further on the subject and just enjoy the moment.)"
+    p "{i}(Sie bleibt absichtlich vage. Besser, ich frage sie nicht weiter aus und genieße einfach den Moment)"
+
+# game/day17.rpy:1092
+translate german day17_n_sex_1baecc24:
+
+    # p "Well, he was a lucky guy."
+    p "Nun, er war ein Glückspilz"
+
+# game/day17.rpy:1094
+translate german day17_n_sex_c7ae129c:
+
+    # n "Do you think so?"
+    n "Glaubst du das?"
+
+# game/day17.rpy:1095
+translate german day17_n_sex_5ce61dbf:
+
+    # p "Nia, you're a little package of flexible sexiness. So of course!"
+    p "Nia, du bist ein kleines Paket von flexibler Sexiness, also natürlich!"
+
+# game/day17.rpy:1097
+translate german day17_n_sex_809f6b43:
+
+    # "{i}Nia caresses your chest as you both lie together in the post-coital warmth. After a while, she gives you a kiss, rises and goes back to her bedroom."
+    "{i}Nia streichelt deine Brust, während ihr beide zusammen in der postkoitalen Wärme liegt. Nach einer Weile gibt sie dir einen Kuss, erhebt sich und geht zurück in ihr Schlafzimmer."
+# TODO: Translation updated at 2024-11-29 09:51
+
+# game/day17.rpy:699
+translate german day17_r_blowjob_b88116c6:
+
+    # p "What the?! [r_name]?"
+    p "Was zum?! [r_name]?"
+
+
+# game/day17.rpy:700
+translate german day17_r_blowjob_b264dd12:
+
+    # r "Sorry for startling you!"
+    r "Entschuldigen Sie, dass ich Sie erschreckt habe!"
+
+
+# game/day17.rpy:701
+translate german day17_r_blowjob_55df98a2:
+
+    # p "Can't sleep?"
+    p "Kannst du nicht schlafen?"
+
+
+# game/day17.rpy:702
+translate german day17_r_blowjob_634a8ea7:
+
+    # r "I haven't tried yet. I waited for Nia to fall asleep so I could come find you."
+    r "Ich habe es noch nicht versucht, ich habe gewartet, bis Nia eingeschlafen ist, damit ich zu dir kommen kann"
+
+
+# game/day17.rpy:703
+translate german day17_r_blowjob_382b0ab2:
+
+    # p "Oh?"
+    p "Oh?"
+
+
+# game/day17.rpy:704
+translate german day17_r_blowjob_aa733556:
+
+    # r "I'd like us to do something naughty..."
+    r "Ich möchte, dass wir etwas Unanständiges tun"
+
+
+# game/day17.rpy:706
+translate german day17_r_blowjob_f569bc25:
+
+    # p "{i}(Best. Dinner-party. Goddamn-Ever.)"
+    p "{i}(Beste Dinner-Party, die es je gab)"
+
+
+# game/day17.rpy:707
+translate german day17_r_blowjob_01a81c32:
+
+    # p "Here? Now? What if someone wakes up?"
+    p "Hier? Jetzt? Was ist, wenn jemand wach wird?"
+
+
+# game/day17.rpy:708
+translate german day17_r_blowjob_9726821a:
+
+    # r "Sure, why not. I like a little bit of danger."
+    r "Klar, warum nicht, ich mag ein kleines bisschen Gefahr"
+
+
+# game/day17.rpy:709
+translate german day17_r_blowjob_32164c6f:
+
+    # p "{i}(I so love her eagerness.)"
+    p "{i}(Ich liebe ihren Eifer so sehr)"
+
+
+# game/day17.rpy:710
+translate german day17_r_blowjob_01a7cc9b:
+
+    # p "What did you have in mind?"
+    p "An was haben Sie gedacht?"
+
+
+# game/day17.rpy:711
+translate german day17_r_blowjob_e6f18e0f:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor..."
+    r "Du hast mir neulich mit deiner Zunge ein so gutes Gefühl gegeben, dass ich mich gerne revanchieren möchte"
+
+
+# game/day17.rpy:712
+translate german day17_r_blowjob_070d1fd1:
+
+    # p "You would do that for me?"
+    p "Das würdest du für mich tun?"
+
+
+# game/day17.rpy:713
+translate german day17_r_blowjob_b6ae797a:
+
+    # r "Yes. But you have to guide me a bit, I've never done it before."
+    r "Ja, aber du musst mich ein bisschen anleiten, ich habe das noch nie gemacht."
+
+
+# game/day17.rpy:714
+translate german day17_r_blowjob_2c7b655d:
+
+    # p "Don't worry! But kiss me first!"
+    p "Mach dir keine Sorgen! Aber küss mich erst!"
+
+
+# game/day17.rpy:720
+translate german day17_r_blowjob_624b9ca7:
+
+    # "{i}Your sister removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}Deine Schwester zieht ihren BH und ihr Höschen aus und krabbelt auf dich, ihre Muschi drückt gegen deinen Oberschenkel und du spürst, wie ihre Brustwarzen kurz an deiner Haut reiben"
+
+
+# game/day17.rpy:722
+translate german day17_r_blowjob_5d33a071:
+
+    # "{i}[r_name] removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}[r_name] zieht ihren BH und ihr Höschen aus und krabbelt auf dich, ihre Muschi drückt gegen deinen Oberschenkel und du spürst, wie ihre Nippel kurz an deiner Haut reiben"
+
+
+# game/day17.rpy:723
+translate german day17_r_blowjob_ada30f18:
+
+    # "{i}With eager lips, she french kisses you, meanwhile touching your erect dick lightly with her fingertips. Precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Mit eifrigen Lippen küsst sie dich, während sie deinen erigierten Schwanz leicht mit ihren Fingerspitzen berührt Precum läuft aus deinem Schwanz Deine nasse Spitze glitzert im Mondlicht"
+
+
+# game/day17.rpy:724
+translate german day17_r_blowjob_eeb5bfa4:
+
+    # r "I'm going to kiss you down there, [p_name]."
+    r "Ich werde dich da unten küssen [p_name]"
+
+
+# game/day17.rpy:727
+translate german day17_r_blowjob_5d06a4e9:
+
+    # "{i}Your sister kisses and licks your shaft, leaving wet trails all over it."
+    "{i}Deine Schwester küsst und leckt deinen Schaft und hinterlässt dabei feuchte Spuren"
+
+
+# game/day17.rpy:729
+translate german day17_r_blowjob_f09fb4ca:
+
+    # "{i}[r_name] kisses and licks your shaft, leaving wet trails all over it."
+    "{i}[r_name] küsst und leckt deinen Schaft und hinterlässt dabei feuchte Spuren"
+
+
+# game/day17.rpy:730
+translate german day17_r_blowjob_d9a81861:
+
+    # r "Mmmmm, you taste so good!"
+    r "Mmmmm du schmeckst so gut!"
+
+
+# game/day17.rpy:731
+translate german day17_r_blowjob_2cc4509b:
+
+    # r "I'm going further. Stop me if I'm doing something wrong."
+    r "Ich gehe weiter Stoppen Sie mich, wenn ich etwas falsch mache"
+
+
+# game/day17.rpy:732
+translate german day17_r_blowjob_86593fed:
+
+    # p "Don't worry, as long as you don't chew on it you'll be absolutely fine."
+    p "Keine Sorge, solange du nicht darauf herumkaust, ist alles in Ordnung"
+
+
+# game/day17.rpy:737
+translate german day17_r_blowjob_ff4ee346:
+
+    # "{i}[r_name]'s mouth softly wraps around the tip of your cock and the film of precum is soon mixed with her saliva as she sucks and licks the tip. The first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name]'s Mund umschließt sanft die Spitze deines Schwanzes und der Film aus Präzipitum vermischt sich bald mit ihrem Speichel, während sie an der Spitze saugt und leckt Die ersten Bewegungen ihres Mundes auf deinem Schwanz sind ein bisschen unbeholfen, aber ihr Blick der Konzentration und ihre Bereitschaft zu lernen machen es noch heißer"
+
+
+# game/day17.rpy:738
+translate german day17_r_blowjob_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "Fühlt sich das gut an [p_name]?"
+
+
+# game/day17.rpy:739
+translate german day17_r_blowjob_a6ae68d7:
+
+    # p "God yes!"
+    p "Gott ja!"
+
+
+# game/day17.rpy:741
+translate german day17_r_blowjob_15638743:
+
+    # "{i}Your sister's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}Der Mund deiner Schwester stimuliert deinen Schwanz in allen richtigen Winkeln, ein himmlisches Gefühl, das noch dadurch verstärkt wird, dass sie deine Eier sanft massiert, die inzwischen von Speichelströmen bedeckt sind."
+
+
+# game/day17.rpy:743
+translate german day17_r_blowjob_0229c9dd:
+
+    # "{i}[r_name]'s mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}[r_name]'s Mund stimuliert deinen Schwanz in allen richtigen Winkeln, ein himmlisches Gefühl, das noch dadurch verstärkt wird, dass sie sanft deine Eier massiert, die inzwischen von Speichelströmen bedeckt sind"
+
+
+# game/day17.rpy:744
+translate german day17_r_blowjob_e9a93643:
+
+    # p "Keep going [r_name], aaaaah!"
+    p "Mach weiter [r_name] aaaaah!"
+
+
+# game/day17.rpy:745
+translate german day17_r_blowjob_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Das ist es, genau da, benutze deine Zunge [r_name] wickle deine Lippen um meinen Schwanz"
+
+
+# game/day17.rpy:746
+translate german day17_r_blowjob_9182261a:
+
+    # r "Mmmmm!"
+    r "Mmmmm!"
+
+
+# game/day17.rpy:748
+translate german day17_r_blowjob_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah [r_name] ich bin so nah dran!"
+
+
+# game/day17.rpy:749
+translate german day17_r_blowjob_8653922f:
+
+    # r "Are you going to cum for me?"
+    r "Wirst du für mich abspritzen?"
+
+
+# game/day17.rpy:750
+translate german day17_r_blowjob_61144f50:
+
+    # r "In my little warm mouth? I want to taste you so bad!"
+    r "In meinem kleinen warmen Mund? Ich möchte dich so gerne schmecken!"
+
+
+# game/day17.rpy:751
+translate german day17_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "J-J-Ja!"
+
+
+# game/day17.rpy:753
+translate german day17_r_blowjob_fd85d209:
+
+    # "{i}It's those words that send you over the edge. When your sister licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Wenn deine Schwester die Spitze deines Penis leckt, spürst du die ersten Wellen deines Orgasmus durch deinen Körper schwappen."
+
+
+# game/day17.rpy:755
+translate german day17_r_blowjob_616cdd40:
+
+    # "{i}It's those words that send you over the edge. When [r_name] licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Wenn [r_name] die Spitze deines Penis leckt, spürst du die ersten Wellen deines Orgasmus durch deinen Körper schwappen."
+
+
+# game/day17.rpy:760
+translate german day17_r_blowjob_b52ceef0:
+
+    # "{i}[r_name] senses that you're ready and kneels with an open mouth before your throbbing cock. Big streams of semen shoot on her face and in her mouth."
+    "{i}[r_name] spürt, dass Du bereit bist und kniet mit offenem Mund vor Deinem pochenden Schwanz Große Ströme von Sperma schießen auf ihr Gesicht und in ihren Mund"
+
+
+# game/day17.rpy:761
+translate german day17_r_blowjob_c7a95b60:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into her mouth."
+    "{i}Du hast dich während der letzten Spasmen deines Orgasmus wieder etwas gefangen und bist in der Lage, mehrere Spritzer direkt in ihren Mund abzulassen."
+
+
+# game/day17.rpy:764
+translate german day17_r_blowjob_01ed08d6:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. Your sister licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Eine glückliche [r_name] schaut dich mit tiefer Zufriedenheit in ihren Augen an Deine Schwester leckt die Spermatropfen in der Nähe ihres Mundes auf, bevor sie alles schluckt Ein breites Lächeln ziert ihre mit Sperma bemalten Lippen"
+
+
+# game/day17.rpy:766
+translate german day17_r_blowjob_18dd9554:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. The girl licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Eine glückliche [r_name] schaut dich mit tiefer Zufriedenheit in ihren Augen an Das Mädchen leckt die Spermatropfen in der Nähe ihres Mundes auf, bevor es alles schluckt Ein breites Lächeln ziert ihre mit Sperma bemalten Lippen"
+
+
+# game/day17.rpy:767
+translate german day17_r_blowjob_16e92508:
+
+    # r "Mmmm! There was so much of it! Did you save it all for me, [p_name]?"
+    r "Mmmm! Es war so viel davon! Hast du alles für mich [p_name] aufgehoben?"
+
+
+# game/day17.rpy:768
+translate german day17_r_blowjob_1f2f692f:
+
+    # p "I might have... You were so hot!"
+    p "Vielleicht hätte ich Du warst so heiß!"
+
+
+# game/day17.rpy:769
+translate german day17_r_blowjob_e74020e9:
+
+    # r "Thank you, this was just what I needed."
+    r "Danke, das war genau das, was ich brauchte"
+
+
+# game/day17.rpy:770
+translate german day17_r_blowjob_44328101:
+
+    # r "Sweet dreams, [p_name], love you!"
+    r "Süße Träume [p_name] liebe dich!"
+
+
+# game/day17.rpy:771
+translate german day17_r_blowjob_a900ac49:
+
+    # p "Love you too, sleep well!"
+    p "Hab dich auch lieb, schlaf gut!"
+
+
+# game/day17.rpy:772
+translate german day17_r_blowjob_7c9bff09:
+
+    # "{i}[r_name] leaves you on the couch and silently climbs the stairs, back to Nia's bedroom."
+    "{i}[r_name] lässt dich auf der Couch liegen und steigt leise die Treppe zu Nias Schlafzimmer hinauf"
+
+

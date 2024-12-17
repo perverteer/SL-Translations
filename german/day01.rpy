@@ -1335,3 +1335,17 @@ translate german strings:
 
     old "What is the name of the oldest girl?"
     new "Wie heißt das älteste Mädchen?"
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day01.rpy:267
+translate german day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "Wäh was?"
+
+# game/day01.rpy:269
+translate german day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "LASS MICH VERDAMMT ALLEIN [p_name]!!! Bist du verrückt?!"
+

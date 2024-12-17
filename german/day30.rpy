@@ -5044,3 +5044,869 @@ translate german day30_evening_choices_26f2e183:
 
     # "{i}There do not seem to be any reservations between you and her, and you cuddle like a proper couple before falling asleep."
     "{i}Es scheint keine Vorbehalte zwischen dir und ihr zu geben und ihr kuschelt wie ein richtiges Paar, bevor ihr einschlaft."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day30.rpy:1029
+translate german day30_r_handjob_bf9adf1b:
+
+    # p "{i}(Is she really going to do this?)"
+    p "{i}(Wird sie das wirklich tun?)"
+
+# game/day30.rpy:1030
+translate german day30_r_handjob_2628b085:
+
+    # p "{i}(This is too hot!)"
+    p "{i}(Das ist zu heiß!)"
+
+# game/day30.rpy:1032
+translate german day30_r_handjob_0daaa903:
+
+    # "{i}Your sister tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Deine Schwester versucht, ihre Finger durch den Bund deiner Hose zu schieben, aber das ist zu schwierig."
+# game/day30.rpy:1034
+translate german day30_r_handjob_b83ed279:
+
+    # "{i}Your friend tries to wriggle her fingers past the waistband of your pants, but that proves too difficult."
+    "{i}Deine Freundin versucht, ihre Finger durch den Hosenbund zu schieben, aber das ist zu schwierig."
+# game/day30.rpy:1036
+translate german day30_r_handjob_7527a716:
+
+    # "{i}Skillfully, she pulls the zipper down instead, freeing your growing erection, her body shielding the scene from the rest of the restaurant."
+    "{i}Geschickt zieht sie den Reißverschluss nach unten und gibt stattdessen deine wachsende Erektion frei, wobei ihr Körper die Szene vor dem Rest des Restaurants abschirmt."
+# game/day30.rpy:1037
+translate german day30_r_handjob_2ff4100a:
+
+    # p "{i}(Fuck! [b_name] is going to notice!)"
+    p "{i}(Scheiße! [b_name] wird es merken!)"
+
+# game/day30.rpy:1042
+translate german day30_r_handjob_22679f04:
+
+    # "{i}But [b_name] doesn't notice, as she's firmly focused on the conversation with [r_name], who in turn begins to softly move her fingers over the head of your cock."
+    "{i}Aber [b_name] bemerkt es nicht, da sie sich ganz auf das Gespräch mit [r_name] konzentriert, die ihrerseits beginnt, ihre Finger sanft über die Spitze Deines Schwanzes zu bewegen"
+
+# game/day30.rpy:1043
+translate german day30_r_handjob_cec6a413:
+
+    # "{i}The touch makes you shiver, and it takes all your self-control to appear as an active participant in the conversation."
+    "{i}Die Berührung lässt Sie erschaudern, und es kostet Sie all Ihre Selbstbeherrschung, sich aktiv an dem Gespräch zu beteiligen."
+# game/day30.rpy:1044
+translate german day30_r_handjob_3b4e6303:
+
+    # r "So I said it to her, just like that..."
+    r "Also habe ich es ihr einfach so gesagt"
+
+# game/day30.rpy:1045
+translate german day30_r_handjob_fd265ddb:
+
+    # b "You wouldn't!"
+    b "Das würdest du nicht tun!"
+
+# game/day30.rpy:1046
+translate german day30_r_handjob_ba9b54e4:
+
+    # r "I did. She was super-pissed afterwards, of course."
+    r "Das habe ich. Sie war danach natürlich stinksauer."
+# game/day30.rpy:1047
+translate german day30_r_handjob_7b0a7b75:
+
+    # b "Of course she was."
+    b "Natürlich war sie das"
+
+# game/day30.rpy:1048
+translate german day30_r_handjob_61873aa8:
+
+    # "{i}Afraid the movements of her arm might give her away, [r_name] resorts to massaging your shaft with extra care. Her fingers explore the entirety of your cock, lingering on the sensitive areas of your glans."
+    "{i}Aus Angst, die Bewegungen ihres Arms könnten sie verraten, massiert [r_Name] deinen Schaft mit besonderer Sorgfalt. Ihre Finger erkunden den gesamten Schwanz und verweilen an den empfindlichen Stellen deiner Eichel"
+
+# game/day30.rpy:1049
+translate german day30_r_handjob_34b6f0cb:
+
+    # "{i}The precum that's already dripping from the tip of your penis is used by her as a lubricant."
+    "{i}Das Präzipitum, das bereits von deiner Penisspitze tropft, wird von ihr als Gleitmittel verwendet."
+
+# game/day30.rpy:1051
+translate german day30_r_handjob_4d90cf88:
+
+    # b "So did she ever talk to you again afterwards?"
+    b "Und hat sie danach noch einmal mit dir gesprochen?"
+
+# game/day30.rpy:1052
+translate german day30_r_handjob_074351be:
+
+    # p "Nope. Never."
+    p "Nö, nie"
+
+# game/day30.rpy:1053
+translate german day30_r_handjob_6435b31f:
+
+    # b "Ouch, that's harsh."
+    b "Autsch, das ist hart"
+
+# game/day30.rpy:1054
+translate german day30_r_handjob_42a7fc69:
+
+    # "{i}[b_name] doesn't even notice you're not paying attention anymore. All your focus is going to [r_name]'s fingers caressing your cock."
+    "{i}[b_name] merkt gar nicht, dass du nicht mehr aufpasst Du konzentrierst dich nur noch auf die Finger von [r_name], die deinen Schwanz streicheln"
+
+# game/day30.rpy:1058
+translate german day30_r_handjob_18797b0d:
+
+    # "{i}A small moan escapes you, as you think you can't hold out much longer. [r_name] notices and stops."
+    "{i}Ein leises Stöhnen entweicht dir, als du denkst, dass du es nicht mehr lange aushältst [r_name] bemerkt es und hört auf"
+
+# game/day30.rpy:1059
+translate german day30_r_handjob_5590690c:
+
+    # p "{i}(What?! No!)"
+    p "{i}(Was?! Nein!)"
+
+# game/day30.rpy:1061
+translate german day30_r_handjob_c16cda11:
+
+    # "{i}Deftly she brushes the spoon that's on the table to the ground."
+    "{i}Geschickt streicht sie den Löffel, der auf dem Tisch liegt, auf den Boden"
+
+# game/day30.rpy:1062
+translate german day30_r_handjob_e934c023:
+
+    # r "Stupid me. Dropped my spoon."
+    r "Ich Dummerchen habe meinen Löffel fallen lassen"
+
+# game/day30.rpy:1063
+translate german day30_r_handjob_c39dbcf2:
+
+    # r "Be right back."
+    r "Bin gleich wieder da"
+
+# game/day30.rpy:1064
+translate german day30_r_handjob_cbbe9a86:
+
+    # p "{i}(What's she playing at?)"
+    p "{i}(Was spielt sie da?)"
+
+# game/day30.rpy:1069
+translate german day30_r_handjob_2cce156b:
+
+    # "{i}At first, you think she's really looking for the spoon, but then you feel something warm and wet on your cock."
+    "{i}Zuerst denkst du, dass sie wirklich nach dem Löffel sucht, aber dann spürst du etwas Warmes und Feuchtes an deinem Schwanz."
+
+# game/day30.rpy:1070
+translate german day30_r_handjob_73ba43ad:
+
+    # p "{i}(God no, she isn't... not in the middle of...)"
+    p "{i}(Gott nein, sie ist nicht in der Mitte von)"
+
+# game/day30.rpy:1071
+translate german day30_r_handjob_76ed38e2:
+
+    # b "Are you okay down there, [r_name]?"
+    b "Geht es dir gut da unten [r_Name]?"
+
+# game/day30.rpy:1072
+translate german day30_r_handjob_68a35dbb:
+
+    # r "Just a minute, it slipped beneath the bench."
+    r "Nur eine Minute rutschte es unter die Bank"
+
+# game/day30.rpy:1073
+translate german day30_r_handjob_6927f603:
+
+    # b "We can ask for a new one."
+    b "Wir können einen neuen beantragen"
+
+# game/day30.rpy:1074
+translate german day30_r_handjob_e3b3d438:
+
+    # "{i}[r_name]'s lips wrap around your cock again, and she starts sucking. The pressure proves too much, and you cum nearly instantly."
+    "{i}[r_name]'s lips wrap around your cock again and she starts sucking The pressure proves too much and you cum nearly instantly"
+
+# game/day30.rpy:1077
+translate german day30_r_handjob_0ef4190d:
+
+    # "{i}Luckily [b_name] is too preoccupied with something else, which allows you to orgasm unnoticed."
+    "{i}Zum Glück ist [b_name] zu sehr mit etwas anderem beschäftigt, so dass du unbemerkt zum Orgasmus kommen kannst"
+
+# game/day30.rpy:1078
+translate german day30_r_handjob_3580ead1:
+
+    # b "I'll just go and ask for another spoon."
+    b "Ich gehe einfach und frage nach einem anderen Löffel"
+
+# game/day30.rpy:1083
+translate german day30_r_handjob_a4e47b25:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your sister's eager mouth."
+    "{i}Wenn [b_name] weggeht, pumpst du immer noch deinen Samen in den gierigen Mund deiner Schwester"
+
+# game/day30.rpy:1085
+translate german day30_r_handjob_0f85b111:
+
+    # "{i}When [b_name] walks away, you're still pumping seed into your friend's eager mouth."
+    "{i}Wenn [b_name] weggeht, pumpst du immer noch Samen in den gierigen Mund deines Freundes."
+# game/day30.rpy:1086
+translate german day30_r_handjob_254e46c4:
+
+    # "{i}With a teasing lick of her tongue, you feel [r_name] disengaging from your cock."
+    "{i}Mit einem neckischen Lecken ihrer Zunge spürst du, wie [r_Name] sich von deinem Schwanz löst"
+
+# game/day30.rpy:1087
+translate german day30_r_handjob_deee9a1b:
+
+    # r "Found it!"
+    r "Ich habe es gefunden!"
+
+# game/day30.rpy:1089
+translate german day30_r_handjob_39391a2b:
+
+    # r "Oh, where did she go?"
+    r "Oh, wo ist sie hin?"
+
+# game/day30.rpy:1090
+translate german day30_r_handjob_b6686276:
+
+    # p "To get a spoon."
+    p "Einen Löffel holen"
+
+# game/day30.rpy:1091
+translate german day30_r_handjob_c1c9b398:
+
+    # "{i}[r_name] winks at you as you manage to zip your pants before [b_name] returns."
+    "{i}[r_name] zwinkert dir zu, als du es schaffst, den Reißverschluss deiner Hose zu schließen, bevor [b_name] zurückkommt"
+
+# game/day30.rpy:1093
+translate german day30_r_handjob_20f980c3:
+
+    # b "I got you a new spoon."
+    b "Ich habe einen neuen Löffel für dich"
+
+# game/day30.rpy:1094
+translate german day30_r_handjob_3c211131:
+
+    # r "Mmmm. I'm full."
+    r "Mmmm ich bin satt"
+
+# game/day30.rpy:1095
+translate german day30_r_handjob_1870fb85:
+
+    # p "{i}(My depraved, red-haired little angel!)"
+    p "(Mein verdorbener rothaariger kleiner Engel!)"
+
+# game/day30.rpy:1113
+translate german day30_b_sex_a89b5669:
+
+    # b "I'm claiming my prize, right here and right now."
+    b "Ich fordere meinen Preis hier und jetzt ein"
+
+# game/day30.rpy:1118
+translate german day30_b_sex_c2d1dece:
+
+    # "{i}As she speaks those last words, [b_name] unclasps her bra and slowly lowers her panties."
+    "{i}Während sie diese letzten Worte spricht, öffnet [b_name] ihren BH und zieht langsam ihr Höschen herunter"
+
+# game/day30.rpy:1119
+translate german day30_b_sex_ac218ea7:
+
+    # p "Are you sure it isn't more of a prize for me?"
+    p "Sind Sie sicher, dass es nicht eher ein Preis für mich ist?"
+
+# game/day30.rpy:1120
+translate german day30_b_sex_648931c1:
+
+    # b "You know, [p_name], you get stuck in metaphors a little too often."
+    b "Weißt du [p_name], du bleibst ein bisschen zu oft in Metaphern stecken"
+
+# game/day30.rpy:1122
+translate german day30_b_sex_4197198a:
+
+    # b "Let's just fuck our brains out, shall we?"
+    b "Wollen wir uns nicht einfach das Hirn rausvögeln?"
+
+# game/day30.rpy:1123
+translate german day30_b_sex_a224e9e2:
+
+    # p "Hehe, works for me."
+    p "Hehe, funktioniert bei mir"
+
+# game/day30.rpy:1125
+translate german day30_b_sex_c85ba8f0:
+
+    # "{i}You join your sister on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Du setzt dich zu deiner Schwester aufs Bett und nach einem kurzen Moment, in dem du ihren Körper mit deinen Fingerspitzen erkundest, zieht sie dich näher zu sich heran."
+# game/day30.rpy:1127
+translate german day30_b_sex_1870853e:
+
+    # "{i}You join your friend on the bed and after a brief moment of exploring her body with your fingertips, she pulls you closer to her."
+    "{i}Du setzt dich zu deiner Freundin aufs Bett und nach einem kurzen Moment, in dem du ihren Körper mit deinen Fingerspitzen erkundest, zieht sie dich näher zu sich heran."
+# game/day30.rpy:1128
+translate german day30_b_sex_aa580faa:
+
+    # b "Shall we skip the foreplay?"
+    b "Sollen wir das Vorspiel auslassen?"
+
+# game/day30.rpy:1129
+translate german day30_b_sex_af3e1398:
+
+    # b "I just want to feel you..."
+    b "Ich will dich nur spüren"
+
+# game/day30.rpy:1134
+translate german day30_b_sex_1a554221:
+
+    # "{i}Her soft hands guide your cock inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Ihre weichen Hände führen deinen Schwanz in ihren feuchten Schlitz Sie sieht dich mit sehnsüchtigen Augen an und will, dass du weitermachst"
+
+# game/day30.rpy:1139
+translate german day30_b_sex_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Wenn [b_name] nach dem ersten Stoß seufzt, ist das ein Zeichen der Erleichterung und der Freude"
+
+# game/day30.rpy:1140
+translate german day30_b_sex_a30e07e4:
+
+    # b "God, you feel so good."
+    b "Gott, du fühlst dich so gut an"
+
+# game/day30.rpy:1141
+translate german day30_b_sex_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Ihr beide presst eure Körper so nah wie möglich aneinander, als ob ihr mehr voneinander spüren wollt"
+
+# game/day30.rpy:1142
+translate german day30_b_sex_4d0f4e4d:
+
+    # "{i}Your love-making is neither frantic, nor aggressive."
+    "{i}Ihr Liebesleben ist weder hektisch noch aggressiv"
+
+# game/day30.rpy:1143
+translate german day30_b_sex_82d646a5:
+
+    # "{i}Instead you both enjoy long, deep thrusts, savoring the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Stattdessen genießt ihr beide lange, tiefe Stöße und genießt das Gefühl deines geäderten Schafts, der an ihren feuchten, gerippten Eingeweiden reibt."
+# game/day30.rpy:1145
+translate german day30_b_sex_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Bitte hören Sie nicht auf"
+
+# game/day30.rpy:1146
+translate german day30_b_sex_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Ich will nicht, dass es aufhört!"
+
+# game/day30.rpy:1148
+translate german day30_b_sex_cacb8ceb:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even deeper."
+    "{i}Ihre nächsten Worte bleiben ihr im Hals stecken, während du eine Position findest, die es dir erlaubt, noch tiefer in sie einzudringen."
+
+# game/day30.rpy:1150
+translate german day30_b_sex_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Die Muschi deiner Schwester wird glitschig von der Feuchtigkeit, die in Hülle und Fülle aus ihrer Vagina strömt"
+
+# game/day30.rpy:1152
+translate german day30_b_sex_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Die Muschi deiner Freundin wird glitschig von der Feuchtigkeit, die in Hülle und Fülle aus ihrer Vagina strömt"
+
+# game/day30.rpy:1153
+translate german day30_b_sex_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Nur ihr röchelnder Atem ist über den Geräuschen der Leidenschaft zu hören, die durch das Massieren ihrer Brüste und stolz erigierten Brustwarzen noch verstärkt werden."
+# game/day30.rpy:1155
+translate german day30_b_sex_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock"
+
+# game/day30.rpy:1156
+translate german day30_b_sex_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Du küsst ihren Hals und spürst die angespannten Muskeln, jede Faser ihres Körpers ist auf die bevorstehende unvermeidliche Befreiung vorbereitet."
+# game/day30.rpy:1163
+translate german day30_b_sex_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Ihre Zuckungen überraschen dich immer noch, als du deine plötzlich zitternde Schwester in die Arme nimmst, während die Wellen des Orgasmus sie durchströmen."
+
+# game/day30.rpy:1165
+translate german day30_b_sex_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Ihre Zuckungen überraschen dich noch immer, als du deine plötzlich zitternde Freundin in die Arme nimmst, während die Wellen des Orgasmus sie durchströmen."
+# game/day30.rpy:1168
+translate german day30_b_sex_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}Die Stimulation durch ihre Wehen bringt auch dich zum Ausrasten"
+
+# game/day30.rpy:1169
+translate german day30_b_sex_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "G-G-Gott [b_name]!"
+
+# game/day30.rpy:1178
+translate german day30_b_sex_f43963e4:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it releases in a river of cum that seems to flow endlessly."
+    "{i}Da du immer noch so tief in ihr steckst, ziehst du dich fast zu spät zurück. Du schaffst es, deinen Schwanz in Richtung ihres Bauches zu lenken, wo er sich in einem endlos scheinenden Strom von Sperma entlädt."
+# game/day30.rpy:1192
+translate german day30_b_sex_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Während du noch so tief in ihr steckst, explodiert dein Schwanz in einem Strom von Sperma, der endlos zu fließen scheint."
+
+# game/day30.rpy:1201
+translate german day30_b_sex_fe0ab1db:
+
+    # b "Mmmm, there's so much of it, baby."
+    b "Mmmm, es gibt so viel davon, Baby"
+
+# game/day30.rpy:1206
+translate german day30_b_sex_58730cbb:
+
+    # "{i}Both smiling, you lie next to each other, basking in the afterglow of your lust."
+    "{i}Lächelnd liegt ihr beide nebeneinander und sonnt euch im Nachglühen eurer Lust"
+
+# game/day30.rpy:1207
+translate german day30_b_sex_5b062d3c:
+
+    # b "I really don't know how we do this every time."
+    b "Ich weiß wirklich nicht, wie wir das jedes Mal hinbekommen"
+
+# game/day30.rpy:1208
+translate german day30_b_sex_ecf4872a:
+
+    # p "Making a mess of every bed we lie upon?"
+    p "Ein Chaos in jedem Bett, in dem wir liegen?"
+
+# game/day30.rpy:1209
+translate german day30_b_sex_d5278058:
+
+    # b "That too."
+    b "Das auch"
+
+# game/day30.rpy:1210
+translate german day30_b_sex_713c467f:
+
+    # b "But I was talking about the crazy hot sex we just had."
+    b "Aber ich habe von dem wahnsinnig heißen Sex gesprochen, den wir gerade hatten"
+
+# game/day30.rpy:1211
+translate german day30_b_sex_7a5e75e7:
+
+    # p "Oh that. I'm sure it'll pass."
+    p "Oh, das geht sicher vorbei"
+
+# game/day30.rpy:1212
+translate german day30_b_sex_29dedd4b:
+
+    # "{i}You emit a perfunctory grunt at the elbow in the side you receive from [b_name]."
+    "{i}Sie grunzen oberflächlich über den Ellbogen, den Sie von [b_name] in die Seite bekommen haben"
+
+# game/day30.rpy:1213
+translate german day30_b_sex_0a7939d3:
+
+    # b "As soon as that's the case I'll dump you and find a young stud to make my plaything."
+    b "Sobald das der Fall ist, werde ich dich abservieren und mir einen jungen Hengst suchen, den ich zu meinem Spielball machen kann."
+# game/day30.rpy:1214
+translate german day30_b_sex_04cd152c:
+
+    # p "In that case I'll get me a nice harem of willing nubile girls."
+    p "Wenn das so ist, besorge ich mir einen netten Harem von willigen, nubilen Mädchen"
+
+# game/day30.rpy:1215
+translate german day30_b_sex_6612fe99:
+
+    # b "Suuure!"
+    b "Suuure!"
+
+# game/day30.rpy:1216
+translate german day30_b_sex_a67bc7ef:
+
+    # p "Watch me!"
+    p "Schau mir zu!"
+
+# game/day30.rpy:1218
+translate german day30_b_sex_aa8816fe:
+
+    # b "God, you know your stuff is still leaking out of me?"
+    b "Gott, weißt du, dass dein Zeug immer noch aus mir herausläuft?"
+
+# game/day30.rpy:1219
+translate german day30_b_sex_3cd9d6d3:
+
+    # p "I'm not sure if I'm ready for that level of detail."
+    p "Ich bin mir nicht sicher, ob ich für solche Details bereit bin"
+
+# game/day30.rpy:1220
+translate german day30_b_sex_f08b7a94:
+
+    # b "You were very happy to fill me up just now."
+    b "Du hast mich vorhin sehr gerne vollgetankt"
+
+# game/day30.rpy:1221
+translate german day30_b_sex_136f08ac:
+
+    # p "That was in the heat of passion."
+    p "Das war im Eifer des Gefechts"
+
+# game/day30.rpy:1222
+translate german day30_b_sex_fb9fbb20:
+
+    # b "Yeah, lots of sticky passion clinging to my thighs."
+    b "Ja, viel klebrige Leidenschaft, die an meinen Schenkeln klebt"
+
+# game/day30.rpy:1223
+translate german day30_b_sex_49d3b6af:
+
+    # p "Well maybe we'll get lucky and have triplets."
+    p "Vielleicht haben wir ja Glück und bekommen Drillinge"
+
+# game/day30.rpy:1225
+translate german day30_b_sex_9d358d84:
+
+    # b "[p_name]!"
+    b "[p_name]!"
+
+# game/day30.rpy:1226
+translate german day30_b_sex_cee82782:
+
+    # p "Shit, sorry, bad joke."
+    p "Scheiße, tut mir leid, schlechter Scherz"
+
+# game/day30.rpy:1228
+translate german day30_b_sex_8f42f273:
+
+    # b "But you know I'm on the pill, right?"
+    b "Aber du weißt doch, dass ich die Pille nehme, oder?"
+
+# game/day30.rpy:1229
+translate german day30_b_sex_f5e1f349:
+
+    # p "Of course, I just made a stupid joke."
+    p "Natürlich habe ich nur einen dummen Scherz gemacht"
+
+# game/day30.rpy:1230
+translate german day30_b_sex_f7a61144:
+
+    # b "Don't worry."
+    b "Mach dir keine Sorgen"
+
+# game/day30.rpy:1231
+translate german day30_b_sex_adfc592a:
+
+    # b "Just kiss me and hold me, silly."
+    b "Küss mich einfach und halt mich fest"
+
+# game/day30.rpy:1233
+translate german day30_b_sex_1dd26a96:
+
+    # b "God, you know your stuff is still dripping off my body?"
+    b "Gott, weißt du, dass dein Zeug immer noch von meinem Körper tropft?"
+
+# game/day30.rpy:1234
+translate german day30_b_sex_4c00e69b:
+
+    # p "I'm not sure if I'm ready for that level detail."
+    p "Ich bin mir nicht sicher, ob ich für solche Details bereit bin"
+
+# game/day30.rpy:1235
+translate german day30_b_sex_c8745a14:
+
+    # b "You were very happy to make an enormous mess just now."
+    b "Du hast gerade mit großer Freude ein riesiges Chaos angerichtet."
+# game/day30.rpy:1236
+translate german day30_b_sex_136f08ac_1:
+
+    # p "That was in the heat of passion."
+    p "Das war im Eifer des Gefechts"
+
+# game/day30.rpy:1237
+translate german day30_b_sex_5fd8e631:
+
+    # b "Yeah, lots of sticky passion clinging to my breasts and belly."
+    b "Ja, viel klebrige Leidenschaft, die an meinen Brüsten und meinem Bauch klebt"
+
+# game/day30.rpy:1238
+translate german day30_b_sex_8df6fc01:
+
+    # p "I'll get you a wet towel."
+    p "Ich hole dir ein nasses Handtuch"
+
+# game/day30.rpy:1240
+translate german day30_b_sex_6d1edd82:
+
+    # b "Nah, I just want you to kiss and hold me."
+    b "Nein, ich will nur, dass du mich küsst und festhältst"
+
+# game/day30.rpy:1242
+translate german day30_b_sex_ce48a7c6:
+
+    # "{i}You do just that and after a very long good night's kiss, you fall asleep in [b_name]'s arms."
+    "{i}Du tust genau das und nach einem sehr langen Gute-Nacht-Kuss schläfst du in [b_name]s Armen ein."
+# game/day30.rpy:1261
+translate german day30_b_sex_hard_c5c25e74:
+
+    # b "Oh god..."
+    b "Oh Gott"
+
+# game/day30.rpy:1267
+translate german day30_b_sex_hard_155a77a1:
+
+    # "{i}You turn the dial further up and move towards her to wrap your arms around her, [b_name] is too caught up in the vibrations of the egg to protest."
+    "{i}Du drehst das Rad weiter auf und gehst auf sie zu, um deine Arme um sie zu legen [b_name] ist zu sehr von den Vibrationen des Eies gefangen, um zu protestieren"
+
+# game/day30.rpy:1268
+translate german day30_b_sex_hard_32995828:
+
+    # p "You know you're special to me too."
+    p "Du weißt, dass du auch für mich etwas Besonderes bist"
+
+# game/day30.rpy:1269
+translate german day30_b_sex_hard_49b17505:
+
+    # b "I don't care..."
+    b "Es ist mir egal"
+
+# game/day30.rpy:1271
+translate german day30_b_sex_hard_0adb5808:
+
+    # p "But I told you before, that I have the freedom to see other women."
+    p "Aber ich habe dir doch schon gesagt, dass ich die Freiheit habe, andere Frauen zu treffen"
+
+# game/day30.rpy:1273
+translate german day30_b_sex_hard_69e084dc:
+
+    # p "You are, but that doesn't mean I don't have the freedom to see other women."
+    p "Das bist du, aber das bedeutet nicht, dass ich nicht die Freiheit habe, andere Frauen zu treffen."
+# game/day30.rpy:1274
+translate german day30_b_sex_hard_4fc5b27b:
+
+    # b "But [r_name]?!"
+    b "Aber [r_name]?!"
+
+# game/day30.rpy:1275
+translate german day30_b_sex_hard_811a6300:
+
+    # p "Yes, what about her?"
+    p "Ja, was ist mit ihr?"
+
+# game/day30.rpy:1276
+translate german day30_b_sex_hard_6bbc92fd:
+
+    # p "She's beautiful, sweet and just absolutely great."
+    p "Sie ist wunderschön, süß und einfach großartig"
+
+# game/day30.rpy:1278
+translate german day30_b_sex_hard_9cf9877d:
+
+    # p "Which isn't much of a surprise, considering she's your sister."
+    p "Was nicht weiter verwunderlich ist, da sie deine Schwester ist"
+
+# game/day30.rpy:1279
+translate german day30_b_sex_hard_5fbb4c2f:
+
+    # p "And I'll love you both just as much."
+    p "Und ich werde euch beide genauso lieben"
+
+# game/day30.rpy:1280
+translate german day30_b_sex_hard_32625464:
+
+    # b "I don't..."
+    b "Ich weiß es nicht"
+
+# game/day30.rpy:1284
+translate german day30_b_sex_hard_3f9bd061:
+
+    # "{i}As you kiss, you turn the vibrator off, [b_name] is eagerly kissing you back without the arousing effect of the vibrator."
+    "{i}Während Sie sich küssen, schalten Sie den Vibrator aus [b_name] küsst Sie eifrig zurück, ohne die erregende Wirkung des Vibrators."
+
+# game/day30.rpy:1285
+translate german day30_b_sex_hard_628fec4d:
+
+    # p "Do you want me to make love to you?"
+    p "Willst du, dass ich mit dir schlafe?"
+
+# game/day30.rpy:1286
+translate german day30_b_sex_hard_81039d72:
+
+    # b "Y-y-yes!"
+    b "J-J-Ja!"
+
+# game/day30.rpy:1291
+translate german day30_b_sex_hard_0b49445f:
+
+    # "{i}Within moments you've lost all of your clothing, your cock reacting instantly to [b_name]'s naked body."
+    "{i}Innerhalb weniger Augenblicke hast du alle deine Kleidung verloren und dein Schwanz reagiert sofort auf [b_name]'s nackten Körper"
+
+# game/day30.rpy:1293
+translate german day30_b_sex_hard_8b591ce3:
+
+    # p "Lie down for me."
+    p "Leg dich für mich hin"
+
+# game/day30.rpy:1294
+translate german day30_b_sex_hard_c6495911:
+
+    # p "You may pull your vibrator out."
+    p "Sie können Ihren Vibrator herausziehen"
+
+# game/day30.rpy:1296
+translate german day30_b_sex_hard_f2dfe94b:
+
+    # "{i}You join your sister on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Du setzt dich zu deiner Schwester auf das Bett und nach einem kurzen Moment, in dem du ihren Körper mit deinen Fingerspitzen erkundest, ziehst du sie näher zu dir."
+# game/day30.rpy:1298
+translate german day30_b_sex_hard_253cf534:
+
+    # "{i}You join your friend on the bed, and after a brief moment of exploring her body with your fingertips, you pull her closer toward you."
+    "{i}Du setzt dich zu deiner Freundin aufs Bett und nach einem kurzen Moment, in dem du ihren Körper mit deinen Fingerspitzen erkundest, ziehst du sie näher an dich heran."
+# game/day30.rpy:1304
+translate german day30_b_sex_hard_2d41f377:
+
+    # "{i}You decide to go slow on her, guiding your cock deep inside her wet slit. She looks at you with eager eyes, willing you to go forward."
+    "{i}Du beschließt, es langsam anzugehen und deinen Schwanz tief in ihren feuchten Schlitz zu führen. Sie sieht dich mit sehnsüchtigen Augen an und will, dass du weitermachst."
+
+# game/day30.rpy:1309
+translate german day30_b_sex_hard_e45344ee:
+
+    # "{i}When [b_name] sighs after your first thrust, it's one of relief and pleasure."
+    "{i}Wenn [b_name] nach dem ersten Stoß seufzt, ist das ein Zeichen der Erleichterung und der Freude"
+
+# game/day30.rpy:1310
+translate german day30_b_sex_hard_58f9c4af:
+
+    # p "Does that feel good?"
+    p "Fühlt sich das gut an?"
+
+# game/day30.rpy:1311
+translate german day30_b_sex_hard_996da41a:
+
+    # b "...Y-yes..."
+    b "J-Ja"
+
+# game/day30.rpy:1312
+translate german day30_b_sex_hard_00c830b1:
+
+    # "{i}You both press your bodies as close as possible, as if to feel more of each other."
+    "{i}Ihr beide presst eure Körper so nah wie möglich aneinander, als ob ihr mehr voneinander spüren wollt"
+
+# game/day30.rpy:1313
+translate german day30_b_sex_hard_341a7bd2:
+
+    # "{i}The long, deep thrusts are enjoyable to you both. You savor the feeling of your veined shaft rubbing against her moist, ribbed confines."
+    "{i}Die langen, tiefen Stöße sind für euch beide angenehm. Du genießt das Gefühl, wenn dein geäderter Schaft an ihren feuchten, gerippten Eingeweiden reibt."
+# game/day30.rpy:1315
+translate german day30_b_sex_hard_27f0a9ab:
+
+    # b "Please don't stop."
+    b "Bitte hören Sie nicht auf"
+
+# game/day30.rpy:1316
+translate german day30_b_sex_hard_6d11accc:
+
+    # p "What did you say?"
+    p "Was hast du gesagt?"
+
+# game/day30.rpy:1317
+translate german day30_b_sex_hard_a4b6b5f5:
+
+    # b "I don't want it to stop!"
+    b "Ich will nicht, dass es aufhört!"
+
+# game/day30.rpy:1318
+translate german day30_b_sex_hard_835e6e79:
+
+    # p "{i}(She just said that out loud. Wow.)"
+    p "{i}(Das hat sie gerade laut gesagt Wow)"
+
+# game/day30.rpy:1319
+translate german day30_b_sex_hard_516395a7:
+
+    # p "I won't."
+    p "Ich werde nicht"
+
+# game/day30.rpy:1321
+translate german day30_b_sex_hard_8a80d1ca:
+
+    # "{i}Her next words get stuck in her throat as you find a position which allows you to penetrate her even more deeply."
+    "{i}Ihre nächsten Worte bleiben ihr im Hals stecken, während du eine Position findest, die es dir erlaubt, noch tiefer in sie einzudringen."
+
+# game/day30.rpy:1323
+translate german day30_b_sex_hard_117ace5b:
+
+    # "{i}Your sister's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Die Muschi deiner Schwester wird glitschig von der Feuchtigkeit, die in Hülle und Fülle aus ihrer Vagina strömt"
+
+# game/day30.rpy:1325
+translate german day30_b_sex_hard_2c6c81bb:
+
+    # "{i}Your friend's pussy is getting slippery from the moisture that's leaking out of her vagina in abundance."
+    "{i}Die Muschi deiner Freundin wird glitschig von der Feuchtigkeit, die in Hülle und Fülle aus ihrer Vagina sickert."
+
+# game/day30.rpy:1326
+translate german day30_b_sex_hard_88460ce2:
+
+    # "{i}Only her ragged breath is noticeable above the sounds of passion, heightened by the massaging of her breasts and proudly erect nipples."
+    "{i}Nur ihr röchelnder Atem ist über den Geräuschen der Leidenschaft zu hören, die durch das Massieren ihrer Brüste und stolz erigierten Brustwarzen noch verstärkt werden."
+# game/day30.rpy:1328
+translate german day30_b_sex_hard_df0adce7:
+
+    # "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock."
+    "{i}[b_name]'s eyes have rolled back and her teeth are clenched as she fingers her pussy to accompany the stimulation she's receiving from your hard cock"
+
+# game/day30.rpy:1329
+translate german day30_b_sex_hard_cb5f7123:
+
+    # "{i}You kiss her neck and feel the taut muscles, every fiber of her body is prepared for the upcoming, inevitable release."
+    "{i}Du küsst ihren Hals und spürst die angespannten Muskeln, jede Faser ihres Körpers ist bereit für die bevorstehende unvermeidliche Befreiung."
+# game/day30.rpy:1336
+translate german day30_b_sex_hard_6f09ca7b:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling sister close, waves of orgasm rippling through her."
+    "{i}Ihre Zuckungen überraschen dich immer noch, als du deine plötzlich zitternde Schwester in die Arme nimmst, während die Wellen des Orgasmus sie durchströmen."
+
+# game/day30.rpy:1338
+translate german day30_b_sex_hard_80f3e1ad:
+
+    # "{i}Her convulsions still surprise you as you hold your suddenly trembling friend close, waves of orgasm rippling through her."
+    "{i}Ihre Zuckungen überraschen dich noch immer, als du deine plötzlich zitternde Freundin in die Arme nimmst, während die Wellen des Orgasmus sie durchströmen."
+# game/day30.rpy:1340
+translate german day30_b_sex_hard_75cd2cd2:
+
+    # "{i}The stimulation of her contractions send you over the edge as well."
+    "{i}Die Stimulation durch ihre Wehen bringt auch dich zum Ausrasten"
+
+# game/day30.rpy:1341
+translate german day30_b_sex_hard_c008a009:
+
+    # p "G-g-god, [b_name]!"
+    p "G-G-Gott [b_name]!"
+
+# game/day30.rpy:1350
+translate german day30_b_sex_hard_c711bb9b:
+
+    # "{i}As your are still so very deep inside her, you nearly pull out too late. You manage to direct your cock towards her belly as it in a river of cum that seems to flow endlessly."
+    "{i}Da du immer noch so tief in ihr steckst, ziehst du es fast zu spät heraus. Du schaffst es, deinen Schwanz in Richtung ihres Bauches zu lenken, wo er in einem endlos scheinenden Strom von Sperma fließt."
+# game/day30.rpy:1366
+translate german day30_b_sex_hard_51e3e66d:
+
+    # "{i}While you are still so very deep inside her, your cock explodes in a river of cum that seems to flow endlessly."
+    "{i}Während du noch so tief in ihr steckst, explodiert dein Schwanz in einem Strom von Sperma, der endlos zu fließen scheint."
+
+# game/day30.rpy:1374
+translate german day30_b_sex_hard_1683b5e2:
+
+    # "{i}You lie next to each other, in silence, basking in the afterglow of your lust."
+    "{i}Ihr liegt schweigend nebeneinander und sonnt euch im Nachglühen eurer Lust"
+

@@ -5556,13 +5556,13 @@ translate german day32_evening_choices_1ca31b28:
 translate german day32_evening_choices_f4c4dc9e:
 
     # centered "{i}Meanwhile, back at the family home..."
-    zentriert "{i}Zurück im Haus der Familie..."
+    centered "{i}Zurück im Haus der Familie..."
 
 # game/day32.rpy:885
 translate german day32_evening_choices_9eb61ddc:
 
     # centered "{i}Meanwhile, back at your home..."
-    zentriert "{i}Zwischenzeitlich zurück bei dir zu Hause..."
+    centered "{i}Zwischenzeitlich zurück bei dir zu Hause..."
 
 # game/day32.rpy:927
 translate german day32_r_concert_hallway_post_f6e04b76:
@@ -5641,4 +5641,12 @@ translate german day32_p_room_scene_6b22c18c:
 
     # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
     "{i}Nach einem kurzen Moment der Verwirrung registrieren Sie die Person, die auf einem Stuhl neben Ihrem Bett sitzt."
+
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day32.rpy:913
+translate german day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Sehr müde ziehen Sie sich aus und fallen auf Ihre Matratze, in der Hoffnung, dass der Schlaf Sie einholt"
 

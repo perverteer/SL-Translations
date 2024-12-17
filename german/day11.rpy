@@ -4776,3 +4776,34 @@ translate german b_relationship_hard_drive_choices_e8f0e434:
     # p "{i}(...)"
     p "{i}(...)"
 
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day11.rpy:1191
+translate german day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "Dann lass uns kuscheln und zusammen einschlafen!"
+
+# game/day11.rpy:1192
+translate german day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Tolle Idee"
+
+# game/day11.rpy:1195
+translate german day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Du schläfst mit deiner nackten Schwester neben dir ein. Dein geschwollenes Glied stößt sanft gegen ihren weichen Hintern, aber es scheint sie nicht zu stören, wenn man ihr leises, zufriedenes Murmeln hört."
+# game/day11.rpy:1197
+translate german day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Du schläfst mit [r_Name] neben dir ein Dein geschwollenes Glied stößt sanft gegen ihren weichen Hintern, aber es scheint ihr nichts auszumachen, wenn man ihr leises, zufriedenes Murmeln hört"
+
+# game/day11.rpy:1202
+translate german day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Sobald du deinen Kopf an dein Kissen lehnst, schläfst du ein"
+

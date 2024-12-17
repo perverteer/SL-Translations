@@ -5640,3 +5640,1438 @@ translate german day33_2e61abc1:
 
     # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
     "{i}In diesem Moment verlierst du völlig den Verstand und schaffst es mit purer Willenskraft, deinen Schwanz zu packen und ihn auf die aufgerichteten Brüste von Valentina und deiner Freundin zu richten."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day33.rpy:1077
+translate german day33_v_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Wollen Sie Wassersport für diese Szene ermöglichen?"
+
+# game/day33.rpy:1081
+translate german day33_v_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Wassersport möglich"
+
+# game/day33.rpy:1084
+translate german day33_v_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Wassersport behindert"
+
+# game/day33.rpy:1091
+translate german day33_v_sex_da20bdb0:
+
+    # p "How could I refuse?"
+    p "Wie könnte ich ablehnen?"
+
+# game/day33.rpy:1092
+translate german day33_v_sex_67933b7d:
+
+    # va "Good answer."
+    va "Gute Antwort"
+
+# game/day33.rpy:1093
+translate german day33_v_sex_f5f2a0d3:
+
+    # va "Why don't you come here and help me undress, [r_name]."
+    va "Warum kommst du nicht her und hilfst mir, [r_name] auszuziehen"
+
+# game/day33.rpy:1095
+translate german day33_v_sex_cd5af312:
+
+    # "{i}Valentina is perfectly capable of removing the few pieces of clothing she still wears and uses the opportunity to give [r_name] a long kiss instead."
+    "{i}Valentina ist durchaus in der Lage, die wenigen Kleidungsstücke, die sie noch trägt, auszuziehen und nutzt die Gelegenheit, um [r_name] einen langen Kuss zu geben."
+# game/day33.rpy:1097
+translate german day33_v_sex_df514626:
+
+    # "{i}Their kissing soon involves an interplay of tongues and eager exploration of the sensitive parts of either girl's body."
+    "{i}Ihre Küsse werden bald zu einem Wechselspiel der Zungen und einer eifrigen Erkundung der empfindlichen Körperteile der beiden Mädchen."
+# game/day33.rpy:1098
+translate german day33_v_sex_0b386afd:
+
+    # "{i}[r_name] seems to treat Valentina as a rather precious object at first, but as lust takes the upper hand, her touches become more self-assured and fueled by the greed you know all too well."
+    "{i}[r_name] scheint Valentina anfangs wie ein wertvolles Objekt zu behandeln, aber als die Lust die Oberhand gewinnt, werden ihre Berührungen selbstbewusster und von der Gier angetrieben, die du nur allzu gut kennst."
+# game/day33.rpy:1100
+translate german day33_v_sex_700277af:
+
+    # va "Look at that, it seems your friend is ready for us too."
+    va "Sieh dir das an, dein Freund ist wohl auch bereit für uns"
+
+# game/day33.rpy:1101
+translate german day33_v_sex_f27e7783:
+
+    # va "Will you join us, [p_name]?"
+    va "Willst du dich uns anschließen [p_name]?"
+
+# game/day33.rpy:1102
+translate german day33_v_sex_6267df42:
+
+    # va "Stick that hard cock in our mouths?"
+    va "Diesen harten Schwanz in unseren Mund stecken?"
+
+# game/day33.rpy:1107
+translate german day33_v_sex_cd767c86:
+
+    # "{i}After you present your erection, the girls start to play with it, their fingertips darting all over your shaft."
+    "{i}Nachdem du deine Erektion präsentiert hast, fangen die Mädchen an, mit ihr zu spielen, ihre Fingerspitzen wandern über deinen Schaft."
+# game/day33.rpy:1108
+translate german day33_v_sex_50670608:
+
+    # "{i}[r_name] is the first to use her tongue, working on the head of your dick and proving to you she knows exactly where your sensitive spots are."
+    "{i}[r_name] ist die erste, die mit ihrer Zunge die Spitze deines Schwanzes bearbeitet und dir beweist, dass sie genau weiß, wo deine empfindlichen Stellen sind"
+
+# game/day33.rpy:1110
+translate german day33_v_sex_4b719145:
+
+    # "{i}A hint of jealously flashes across Valentinas face and she pulls [r_name] face towards her to kiss her violently."
+    "{i}Ein Hauch von Eifersucht blitzt in Valentinas Gesicht auf und sie zieht [r_name] zu sich, um sie heftig zu küssen"
+
+# game/day33.rpy:1111
+translate german day33_v_sex_50061cf3:
+
+    # "{i}From he first taste of your cock she gets from [r_name]'s lips and the smoldering look she gives, you gather that she obviously wants more."
+    "{i}Aus dem ersten Geschmack deines Schwanzes, den sie von [r_name]'s Lippen bekommt und dem glühenden Blick, den sie dir zuwirft, kannst du ablesen, dass sie offensichtlich mehr will."
+# game/day33.rpy:1113
+translate german day33_v_sex_462e71be:
+
+    # "{i}Valentina kisses the tip of your cock and slowly slides her lips over the length of your shaft."
+    "{i}Valentina küsst die Spitze deines Schwanzes und lässt ihre Lippen langsam über die Länge deines Schaftes gleiten."
+# game/day33.rpy:1114
+translate german day33_v_sex_a0d01377:
+
+    # "{i}When she has sucked your cock once or twice, she holds it in her mouth, and you feel her tongue swirling over the exposed glans."
+    "{i}Wenn sie deinen Schwanz ein- oder zweimal gelutscht hat, hält sie ihn im Mund und du spürst, wie ihre Zunge über die freiliegende Eichel fährt."
+
+# game/day33.rpy:1115
+translate german day33_v_sex_7eabf0ef:
+
+    # "{i}You're amazed by the level of accomplishment Valentina shows as a cocksucker at such a relatively young age."
+    "{i}Du bist erstaunt über die Fähigkeiten, die Valentina als Schwanzlutscherin in einem so relativ jungen Alter zeigt."
+# game/day33.rpy:1116
+translate german day33_v_sex_8e7a6284:
+
+    # "{i}The singer alternates between powerful stimulation of the entire shaft and playful sucking of the head, making the blowjob a little unpredictable and therefore very enjoyable."
+    "{i}Die Sängerin wechselt zwischen kräftiger Stimulation des gesamten Schafts und spielerischem Saugen am Kopf, was den Blowjob etwas unberechenbar und daher sehr angenehm macht."
+# game/day33.rpy:1118
+translate german day33_v_sex_4ee9563f:
+
+    # "{i}Just at the moment Valentina has sucked you into a sexual trance she lets your cock slide out of her mouth and presents it to [r_name]."
+    "{i}Gerade als Valentina dich in eine sexuelle Trance gesogen hat, lässt sie deinen Schwanz aus ihrem Mund gleiten und präsentiert ihn [r_name]."
+
+# game/day33.rpy:1119
+translate german day33_v_sex_12aaf1cf:
+
+    # va "Your turn."
+    va "Du bist dran"
+
+# game/day33.rpy:1125
+translate german day33_v_sex_8e107db1:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your sister."
+    "{i}Als [r_name] dir einen bläst, wendet Valentina ihre Aufmerksamkeit deiner Schwester zu"
+
+# game/day33.rpy:1127
+translate german day33_v_sex_291ff673:
+
+    # "{i}As [r_name] starts blowing you, Valentina turns her attention to your girlfriend."
+    "{i}Als [r_name] dir einen bläst, wendet Valentina ihre Aufmerksamkeit deiner Freundin zu"
+
+# game/day33.rpy:1132
+translate german day33_v_sex_668456bc:
+
+    # "{i}[r_name] has to cease her work on your dick and moans all over your cock as Valentina begins to lick her pussy."
+    "{i}[r_name] muss ihre Arbeit an deinem Schwanz einstellen und stöhnt über deinen Schwanz, als Valentina beginnt, ihre Muschi zu lecken."
+
+# game/day33.rpy:1134
+translate german day33_v_sex_50ff9e62:
+
+    # "{i}You're treated to a glorious display of lesbian love while [r_name] still goes down on your throbbing cock."
+    "{i}Du wirst mit einer glorreichen Darstellung lesbischer Liebe verwöhnt, während [r_Name] immer noch deinen pochenden Schwanz leckt"
+
+# game/day33.rpy:1135
+translate german day33_v_sex_8f899fcd:
+
+    # "{i}Sex acts seem to bore Valentina easily, because she stops eating [r_name] out not long after she begun, pulling the girl from your cock as well."
+    "{i}Sexuelle Handlungen scheinen Valentina leicht zu langweilen, denn sie hört auf, [r_name] zu vernaschen, kurz nachdem sie begonnen hat, das Mädchen auch von deinem Schwanz zu ziehen."
+# game/day33.rpy:1141
+translate german day33_v_sex_363ef64d:
+
+    # va "Enough foreplay."
+    va "Genug des Vorspiels"
+
+# game/day33.rpy:1142
+translate german day33_v_sex_f2ac1848:
+
+    # va "I want to get fucked."
+    va "Ich will gefickt werden"
+
+# game/day33.rpy:1143
+translate german day33_v_sex_61d24d5c:
+
+    # r "Uhm..."
+    r "Ähm"
+
+# game/day33.rpy:1144
+translate german day33_v_sex_b56921dd:
+
+    # r "Could I leave you guys for a minute?"
+    r "Kann ich euch einen Moment allein lassen?"
+
+# game/day33.rpy:1145
+translate german day33_v_sex_183de7fa:
+
+    # va "Why?"
+    va "Warum?"
+
+# game/day33.rpy:1146
+translate german day33_v_sex_3a38d98b:
+
+    # r "I have to sneak out and use the bathroom."
+    r "Ich muss mich rausschleichen und auf die Toilette gehen"
+
+# game/day33.rpy:1147
+translate german day33_v_sex_f5f89363:
+
+    # va "So?"
+    va "Und?"
+
+# game/day33.rpy:1148
+translate german day33_v_sex_d26b31b0:
+
+    # r "I just really need to pee, be right back."
+    r "Ich muss nur kurz pinkeln, bin gleich zurück"
+
+# game/day33.rpy:1149
+translate german day33_v_sex_ea179a45:
+
+    # va "You're not going anywhere."
+    va "Du gehst nirgendwo hin"
+
+# game/day33.rpy:1151
+translate german day33_v_sex_4e9c48fc:
+
+    # r "I can't hold it in much longer!"
+    r "Ich kann es nicht mehr lange zurückhalten!"
+
+# game/day33.rpy:1152
+translate german day33_v_sex_a92ce422:
+
+    # va "Good."
+    va "Gut."
+# game/day33.rpy:1153
+translate german day33_v_sex_c5265c11:
+
+    # "{i}Valentina lies down on the floor, and as you begin to understand what the singer intends, your cock twitches in anticipation."
+    "{i}Valentina legt sich auf den Boden und als du anfängst zu verstehen, was die Sängerin vorhat, zuckt dein Schwanz in Erwartung."
+
+# game/day33.rpy:1154
+translate german day33_v_sex_f4366a2c:
+
+    # va "Come over here and let it all go."
+    va "Komm her und lass alles raus"
+
+# game/day33.rpy:1156
+translate german day33_v_sex_43074f89:
+
+    # r "What?!"
+    r "Was?!"
+
+# game/day33.rpy:1157
+translate german day33_v_sex_697ccfaa:
+
+    # r "Like pee on the floor?"
+    r "Wie auf den Boden zu pinkeln?"
+
+# game/day33.rpy:1158
+translate german day33_v_sex_82b1efc4:
+
+    # va "No, pee on me."
+    va "Nicht auf mich pinkeln"
+
+# game/day33.rpy:1159
+translate german day33_v_sex_18d4a75b:
+
+    # va "Do I need to spell it out for you?"
+    va "Muss ich es Ihnen noch buchstabieren?"
+
+# game/day33.rpy:1160
+translate german day33_v_sex_e63b215d:
+
+    # "{i}[r_name] glances at you, a little worried by the request and unsure what to do."
+    "{i}[r_name] blickt dich an, ein wenig beunruhigt von der Bitte und unsicher, was zu tun ist"
+
+# game/day33.rpy:1166
+translate german day33_v_sex_cadedab3:
+
+    # "{i}You slightly nod and [r_name] smiles, thrilled for what comes next."
+    "{i}Du nickst leicht und [r_name] lächelt gespannt auf das, was jetzt kommt"
+
+# game/day33.rpy:1168
+translate german day33_v_sex_e8879a21:
+
+    # "{i}You shake your head slightly, and [r_name] takes the cue."
+    "{i}Du schüttelst leicht den Kopf und [r_Name] übernimmt das Stichwort"
+
+# game/day33.rpy:1170
+translate german day33_v_sex_4963dd83:
+
+    # r "Sorry Valentina, but I'm just going to make a run for it really quick and find a bathroom."
+    r "Tut mir leid Valentina, aber ich werde jetzt ganz schnell abhauen und eine Toilette suchen"
+
+# game/day33.rpy:1171
+translate german day33_v_sex_cad4e5c5:
+
+    # va "Suit yourself."
+    va "Suit yourself"
+
+# game/day33.rpy:1172
+translate german day33_v_sex_e09561fa:
+
+    # va "You do know I'll have your man all to myself?"
+    va "Du weißt schon, dass ich deinen Mann ganz für mich allein haben werde?"
+
+# game/day33.rpy:1173
+translate german day33_v_sex_a9b67a01:
+
+    # r "I'm not worried, as long as you leave a piece for me."
+    r "Ich mache mir keine Sorgen, solange du ein Stück für mich übrig lässt"
+
+# game/day33.rpy:1174
+translate german day33_v_sex_4da4447e:
+
+    # "{i}[r_name] slips into her dress again and slips out of the room barefoot."
+    "{i}[r_name] schlüpft wieder in ihr Kleid und geht barfuß aus dem Zimmer"
+
+# game/day33.rpy:1180
+translate german day33_v_sex_c200323b:
+
+    # "{i}[r_name] positions her body over Valentina's and squats, a concentrated expression on her face."
+    "{i}[r_name] positioniert ihren Körper über dem von Valentina und setzt einen konzentrierten Gesichtsausdruck auf"
+
+# game/day33.rpy:1181
+translate german day33_v_sex_8c501186:
+
+    # "{i}Despite the urgency she felt earlier, it takes a while for it to come, Valentina strokes the thighs of your girl in delirious anticipation."
+    "{i}Trotz der Dringlichkeit, die sie vorhin verspürte, dauert es eine Weile, bis es kommt, Valentina streichelt die Schenkel deines Mädchens in wahnsinniger Erwartung."
+
+# game/day33.rpy:1188
+translate german day33_v_sex_f23fb9a9:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your sister's pussy."
+    "{i}Du hörst einen kleinen Seufzer der Erleichterung, als ein Strom von Pisse aus der Muschi deiner Schwester entweicht"
+
+# game/day33.rpy:1190
+translate german day33_v_sex_9a4d25e2:
+
+    # "{i}You hear a small sigh of relief as a torrent of piss escapes from your girlfriend's pussy."
+    "{i}Du hörst einen kleinen Seufzer der Erleichterung, als ein Strom von Pisse aus der Muschi deiner Freundin entweicht"
+
+# game/day33.rpy:1191
+translate german day33_v_sex_9621e813:
+
+    # "{i}The urine splashes onto Valentina's naked body, who closes her eyes and rubs the liquid all over her breasts and belly."
+    "{i}Der Urin spritzt auf Valentinas nackten Körper, die die Augen schließt und sich mit der Flüssigkeit die Brüste und den Bauch einreibt."
+
+# game/day33.rpy:1192
+translate german day33_v_sex_14c7df85:
+
+    # va "More!"
+    va "Mehr!"
+
+# game/day33.rpy:1198
+translate german day33_v_sex_9a45cbcc:
+
+    # "{i}[r_name] tries her best and delivers another gush of pee, this time the stream spatters into Valentina's open mouth and she drinks eagerly."
+    "{i}[r_name] versucht ihr Bestes und gibt einen weiteren Schwall Pisse ab, dieses Mal spritzt der Strahl in Valentinas offenen Mund und sie trinkt begierig"
+
+# game/day33.rpy:1199
+translate german day33_v_sex_0404ad17:
+
+    # "{i}At first, you thought [r_name] would be too weirded out by all of it, but she actually seems to relish in soiling her idol."
+    "{i}Zuerst dachtest du, [r_Name] würde sich zu sehr darüber aufregen, aber sie scheint es tatsächlich zu genießen, ihr Idol zu beschmutzen."
+# game/day33.rpy:1201
+translate german day33_v_sex_ebe86168:
+
+    # va "Mmmmm, that feels so good."
+    va "Mmmmm, das fühlt sich so gut an"
+
+# game/day33.rpy:1205
+translate german day33_v_sex_8ae5b91d:
+
+    # va "Oh, there's more?"
+    va "Ach, da ist noch mehr?"
+
+# game/day33.rpy:1210
+translate german day33_v_sex_b3f5862b:
+
+    # "{i}A final stream of piss trickles from [r_name]'s vagina, streaming down Valentina's breasts, over her belly and finally stranding in the singer's pubic hair."
+    "{i}Ein letzter Pissstrahl rinnt aus [r_name]'s Vagina, fließt an Valentinas Brüsten hinunter, über ihren Bauch und strandet schließlich in den Schamhaaren der Sängerin"
+
+# game/day33.rpy:1211
+translate german day33_v_sex_4ecb9db6:
+
+    # "{i}Valentina is now lying in a puddle of [r_name]'s piss, almost bathing in the warm liquid and wearing a content smile on her face."
+    "{i}Valentina liegt jetzt in einer Pfütze aus [r_Name]'s Pisse, badet fast in der warmen Flüssigkeit und trägt ein zufriedenes Lächeln im Gesicht."
+# game/day33.rpy:1212
+translate german day33_v_sex_b4e76810:
+
+    # va "Mmmm, now we can fuck."
+    va "Mmmm jetzt können wir ficken"
+
+# game/day33.rpy:1213
+translate german day33_v_sex_1a75f8bd:
+
+    # va "And I'm sorry, [r_name], but I'm going first."
+    va "Und es tut mir leid [r_name], aber ich gehe zuerst"
+
+# game/day33.rpy:1214
+translate german day33_v_sex_f82db883:
+
+    # r "As long as you leave a piece for me."
+    r "Solange du ein Stück für mich übrig lässt"
+
+# game/day33.rpy:1220
+translate german day33_v_sex_b1dce4b3:
+
+    # va "Will you fuck me hard?"
+    va "Willst du mich hart ficken?"
+
+# game/day33.rpy:1221
+translate german day33_v_sex_5980f02a:
+
+    # va "I don't want you to treat me as some precious thing, some tender princess."
+    va "Ich will nicht, dass du mich wie ein kostbares Ding behandelst, wie eine zarte Prinzessin"
+
+# game/day33.rpy:1222
+translate german day33_v_sex_916469f9:
+
+    # p "Come here then."
+    p "Dann komm her"
+
+# game/day33.rpy:1227
+translate german day33_v_sex_66b7e5c5:
+
+    # "{i}You pull the singer closer and press the head of your erect cock against her fuck-hole."
+    "{i}Du ziehst die Sängerin näher an dich heran und drückst die Spitze deines erigierten Schwanzes gegen ihr Fickloch"
+
+# game/day33.rpy:1228
+translate german day33_v_sex_440312bf:
+
+    # va "Mmmm, you're eager."
+    va "Mmmm du bist eifrig"
+
+# game/day33.rpy:1230
+translate german day33_v_sex_461e6ed3:
+
+    # "{i}You were hoping [r_name] would join you in preparing Valentina, but she's waiting her turn, maybe a little shy all of a sudden."
+    "{i}Du hattest gehofft, dass [r_Name] dich bei der Vorbereitung von Valentina unterstützt, aber sie wartet darauf, dass sie an der Reihe ist, vielleicht ist sie plötzlich etwas schüchtern."
+# game/day33.rpy:1232
+translate german day33_v_sex_3b0b3bf1:
+
+    # va "Quick, I want to feel you before your girlfriend comes back."
+    va "Schnell, ich will dich spüren, bevor deine Freundin zurückkommt"
+
+# game/day33.rpy:1234
+translate german day33_v_sex_e0594a98:
+
+    # "{i}Parting her lower lips with your tip, you ram your shaft inside her as soon as you've passed her heavenly entrance."
+    "{i}Du teilst ihre unteren Lippen mit deiner Spitze und rammst deinen Schaft in sie hinein, sobald du ihren himmlischen Eingang passiert hast."
+
+# game/day33.rpy:1235
+translate german day33_v_sex_afe18761:
+
+    # va "T-that's it!"
+    va "D-das ist es!"
+
+# game/day33.rpy:1240
+translate german day33_v_sex_da777b57:
+
+    # "{i}You're overcome by a desire to own her body completely, and your hands react by grabbing and kneading Valentina's breasts, leaving red marks on her skin."
+    "{i}Dich überkommt das Verlangen, ihren Körper ganz und gar in Besitz zu nehmen, und deine Hände reagieren darauf, indem sie Valentinas Brüste packen und kneten und rote Flecken auf ihrer Haut hinterlassen."
+
+# game/day33.rpy:1241
+translate german day33_v_sex_4ba1675f:
+
+    # "{i}Her arms behind her back, she moans and sighs as you alternately massage and pinch her nipples."
+    "{i}Sie stöhnt und seufzt, während du abwechselnd ihre Brustwarzen massierst und zwickst."
+# game/day33.rpy:1245
+translate german day33_v_sex_cbcac673:
+
+    # "{i}Her body is still slick with [r_name]'s piss and you smell the musk of your sister mixed with Valentina's perfume."
+    "{i}Ihr Körper ist noch glitschig von [r_Name]'s Pisse und du riechst den Moschus deiner Schwester gemischt mit Valentina's Parfüm"
+
+# game/day33.rpy:1247
+translate german day33_v_sex_eefa7325:
+
+    # "{i}Her body is still slick with [r_name]'s piss, and you smell the musk of your girl mixed with Valentina's perfume."
+    "{i}Ihr Körper ist noch glitschig von [r_name]'s Pisse und du riechst den Moschus deines Mädchens gemischt mit Valentinas Parfüm."
+# game/day33.rpy:1249
+translate german day33_v_sex_bfc84d23:
+
+    # "{i}[r_name] returns at that moment and is now looking at you in approval as you fuck her favorite singer."
+    "{i}[r_name] kehrt in diesem Moment zurück und schaut dich jetzt anerkennend an, während du ihre Lieblingssängerin fickst"
+
+# game/day33.rpy:1251
+translate german day33_v_sex_c10ca682:
+
+    # r "Is he giving you a good time, Valentina?"
+    r "Amüsiert er sich mit dir, Valentina?"
+
+# game/day33.rpy:1252
+translate german day33_v_sex_ef12ecd0:
+
+    # va "T-t-he b-best!"
+    va "D-d-der b-beste!"
+
+# game/day33.rpy:1258
+translate german day33_v_sex_80d6fd38:
+
+    # "{i}You see your sister kneel before Valentina's cunt, and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Du siehst, wie deine Schwester vor Valentinas Fotze kniet und ihre Zunge herausschnellt, um sowohl deinen Schwanz als auch die Muschi des anderen Mädchens zu stimulieren."
+# game/day33.rpy:1260
+translate german day33_v_sex_2afe7a86:
+
+    # "{i}You see your girlfriend kneel before Valentina's cunt and her tongue darts out to stimulate both your cock and the other girl's pussy."
+    "{i}Du siehst, wie deine Freundin vor Valentinas Fotze kniet und ihre Zunge herausschnellt, um sowohl deinen Schwanz als auch die Muschi des anderen Mädchens zu stimulieren."
+
+# game/day33.rpy:1261
+translate german day33_v_sex_348a1b48:
+
+    # va "F-fuck yes!"
+    va "F-fuck yes!"
+
+# game/day33.rpy:1262
+translate german day33_v_sex_bf974413:
+
+    # va "K-keep d-doing that, [r_name]!"
+    va "K-Weiter d-tun, dass [r_Name]!"
+
+# game/day33.rpy:1269
+translate german day33_v_sex_51ffaecb:
+
+    # "{i}Thanks to [r_name]'s caresses, some directly to her clitoris, Valentina is able to reach her climax."
+    "{i}Dank [r_name]'s Liebkosungen direkt an ihrer Klitoris kommt Valentina zum Höhepunkt."
+
+# game/day33.rpy:1270
+translate german day33_v_sex_e5d38be8:
+
+    # "{i}The girl thrusts her cunt violently in [r_name]'s face to maximize her pleasure, nearly making your cock slip out of her."
+    "{i}Das Mädchen stößt ihre Fotze heftig in [r_name]'s Gesicht, um ihr Vergnügen zu maximieren, so dass dein Schwanz fast aus ihr herausrutscht"
+
+# game/day33.rpy:1271
+translate german day33_v_sex_4ea9735d:
+
+    # va "Oh fuck [r_name], k-keeep doing that!"
+    va "Oh fuck [r_name] k-keeep doing that!"
+
+# game/day33.rpy:1272
+translate german day33_v_sex_dd1c3a17:
+
+    # "{i}A small grin appears on [r_name]'s face as she prolongs Valentina's orgasm with the deft licks of her tongue."
+    "{i}Ein kleines Grinsen erscheint auf [r_name]'s Gesicht, als sie Valentina's Orgasmus mit dem geschickten Lecken ihrer Zunge verlängert"
+
+# game/day33.rpy:1273
+translate german day33_v_sex_19f1857e:
+
+    # "{i}You hold the singer in your arms as she's unable to stand due to the convulsions currently wracking her body."
+    "{i}Du hältst die Sängerin in deinen Armen, da sie aufgrund der Krämpfe, die ihren Körper derzeit plagen, nicht aufstehen kann."
+# game/day33.rpy:1274
+translate german day33_v_sex_95ccc29e:
+
+    # "{i}Proud of what [r_name] accomplished, you develop an overwhelming desire to fuck her instead of Valentina."
+    "{i}Stolz auf das, was [r_Name] erreicht hat, entwickelst du ein überwältigendes Verlangen, sie anstelle von Valentina zu ficken."
+
+# game/day33.rpy:1281
+translate german day33_v_sex_56ca903e:
+
+    # "{i}The singer doesn't even notice when you pull out your cock and lets herself be helped to the sofa, where she gets to enjoy the last stages of her orgasm."
+    "{i}Die Sängerin bemerkt nicht einmal, wenn du deinen Schwanz herausziehst und lässt sich zum Sofa helfen, wo sie die letzten Phasen ihres Orgasmus genießen kann."
+# game/day33.rpy:1287
+translate german day33_v_sex_d16e3da8:
+
+    # "{i}Your sister embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Deine Schwester umarmt dich und du küsst sie leidenschaftlich, ihre feuchte Muschi reibt sich an deinem Oberschenkel"
+
+# game/day33.rpy:1289
+translate german day33_v_sex_5914c6b2:
+
+    # "{i}Your girlfriend embraces you, and you kiss her passionately, her moist pussy rubbing against your upper leg."
+    "{i}Deine Freundin umarmt dich und du küsst sie leidenschaftlich, ihre feuchte Muschi reibt an deinem Oberschenkel."
+
+# game/day33.rpy:1291
+translate german day33_v_sex_9a270917:
+
+    # p "That was some show you gave there."
+    p "Das war eine tolle Show, die du da geboten hast"
+
+# game/day33.rpy:1292
+translate german day33_v_sex_abacabd1:
+
+    # r "You liked it?"
+    r "Hat es dir gefallen?"
+
+# game/day33.rpy:1293
+translate german day33_v_sex_50da65e9:
+
+    # p "I sure did."
+    p "Das habe ich sicher"
+
+# game/day33.rpy:1294
+translate german day33_v_sex_b9d2aa00:
+
+    # p "Valentina too."
+    p "Valentina auch"
+
+# game/day33.rpy:1295
+translate german day33_v_sex_dcecbfef:
+
+    # r "Nice!"
+    r "Schön!"
+
+# game/day33.rpy:1296
+translate german day33_v_sex_00f51342:
+
+    # p "I did have some trouble keeping it together though."
+    p "Ich hatte allerdings einige Schwierigkeiten, es zusammenzuhalten"
+
+# game/day33.rpy:1297
+translate german day33_v_sex_d18906e1:
+
+    # r "Don't worry about that now."
+    r "Mach dir jetzt keine Sorgen"
+
+# game/day33.rpy:1299
+translate german day33_v_sex_003579aa:
+
+    # "{i}After you sit down on the couch, [r_name] climbs on your lap, and together you guide your cock inside her wet tunnel."
+    "{i}Nachdem du dich auf die Couch gesetzt hast, klettert [r_Name] auf deinen Schoß und ihr führt gemeinsam deinen Schwanz in ihren feuchten Tunnel"
+
+# game/day33.rpy:1300
+translate german day33_v_sex_0e191745:
+
+    # r "Oooooh [p_name]!"
+    r "Oooooh [p_name]!"
+
+# game/day33.rpy:1301
+translate german day33_v_sex_61aef227:
+
+    # p "Can you go deeper, baby?"
+    p "Kannst du tiefer gehen, Baby?"
+
+# game/day33.rpy:1302
+translate german day33_v_sex_f1daf558:
+
+    # r "I w-want to!"
+    r "Ich w-will!"
+
+# game/day33.rpy:1303
+translate german day33_v_sex_9338afcc:
+
+    # r "Oh god!"
+    r "Oh Gott!"
+
+# game/day33.rpy:1304
+translate german day33_v_sex_64f0ac46:
+
+    # "{i}Despite the frequency with which you've made love to [r_name], she still needs to adjust to your girth each time."
+    "{i}Trotz der Häufigkeit, mit der du mit [r_Name] geschlafen hast, muss sie sich jedes Mal an deinen Umfang gewöhnen"
+
+# game/day33.rpy:1305
+translate german day33_v_sex_415e760c:
+
+    # "{i}The girl lowers herself slowly onto your cock, luxuriating in the feeling your shaft gives as it bores inside her, inch by inch."
+    "{i}Das Mädchen senkt sich langsam auf deinen Schwanz und genießt das Gefühl, das dein Schaft vermittelt, wenn er sich Zentimeter für Zentimeter in sie hineinbohrt."
+# game/day33.rpy:1310
+translate german day33_v_sex_377b5990:
+
+    # "{i}When she's at the root, [r_name] starts to move up and down faster and faster."
+    "{i}Wenn sie an der Wurzel ist, beginnt [r_name] sich immer schneller auf und ab zu bewegen"
+
+# game/day33.rpy:1311
+translate german day33_v_sex_ed2f7f52:
+
+    # "{i}You want to touch her everywhere, but your hands linger on her buttocks, her delicious cheeks bouncing on the rhythm of your fucking."
+    "{i}Du willst sie überall berühren, aber deine Hände verweilen auf ihren Pobacken, die im Rhythmus deines Ficks wippen."
+
+# game/day33.rpy:1313
+translate german day33_v_sex_6e49843b:
+
+    # "{i}An exhausted Valentina is still lying on the couch, regarding you both with hooded eyes, though the first of [r_name]'s moans seem to spark something inside her again."
+    "{i}Eine erschöpfte Valentina liegt immer noch auf der Couch und betrachtet euch beide mit verdeckten Augen, obwohl das erste Stöhnen von [r_name] wieder etwas in ihr zu entfachen scheint"
+
+# game/day33.rpy:1320
+translate german day33_v_sex_8d36a3d4:
+
+    # "{i}The singer moves from the couch and disappears from view, you don't know what she's doing until you see [r_name]'s eyes grow wide."
+    "{i}Die Sängerin bewegt sich von der Couch und verschwindet aus dem Blickfeld, man weiß nicht, was sie tut, bis man sieht, wie die Augen von [r_name] groß werden"
+
+# game/day33.rpy:1321
+translate german day33_v_sex_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah!"
+
+# game/day33.rpy:1323
+translate german day33_v_sex_644f6e44:
+
+    # va "Do you like my tongue up your ass, [r_name]?"
+    va "Magst du meine Zunge in deinem Arsch [r_name]?"
+
+# game/day33.rpy:1324
+translate german day33_v_sex_f976f546:
+
+    # p "{i}(Wow, she did that?)"
+    p "{i}(Wow hat sie das gemacht?)"
+
+# game/day33.rpy:1325
+translate german day33_v_sex_e2f54f04:
+
+    # r "Yes, yes I do!"
+    r "Ja, ja, ja, ich will!"
+
+# game/day33.rpy:1326
+translate german day33_v_sex_5a95b7b5:
+
+    # p "{i}(And she likes it, great!)"
+    p "{i}(Und es gefällt ihr sehr!)"
+
+# game/day33.rpy:1327
+translate german day33_v_sex_a92ce422_1:
+
+    # va "Good."
+    va "Gut."
+# game/day33.rpy:1330
+translate german day33_v_sex_1de39f50:
+
+    # "{i}You continue to fuck your sister while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Du fickst deine Schwester weiter, während die feuchten Geräusche zwischen deinen Beinen dir verraten, dass Valentina abwechselnd [r_name]'s Arsch sondiert und ihre Fotze leckt."
+# game/day33.rpy:1332
+translate german day33_v_sex_1df3bf98:
+
+    # "{i}You continue to fuck your girlfriend while the wet sounds from between your legs tell you that Valentina alternates between probing [r_name]'s ass and licking her cunt."
+    "{i}Du fickst deine Freundin weiter, während die feuchten Geräusche zwischen deinen Beinen dir verraten, dass Valentina abwechselnd [r_name]'s Arsch sondiert und ihre Fotze leckt."
+# game/day33.rpy:1333
+translate german day33_v_sex_2d5f1493:
+
+    # va "Mmmmm, you taste so good, [r_name]!"
+    va "Mmmmm du schmeckst so gut [r_name]!"
+
+# game/day33.rpy:1334
+translate german day33_v_sex_ebfc36d5:
+
+    # va "Are you [p_name]'s little anal slut?"
+    va "Bist du [p_name]'s kleine Analschlampe?"
+
+# game/day33.rpy:1335
+translate german day33_v_sex_365e911a:
+
+    # r "G-god..."
+    r "G-Gott"
+
+# game/day33.rpy:1336
+translate german day33_v_sex_3db8b2f1:
+
+    # r "D-don't stop!!!"
+    r "D-nicht aufhören!!!"
+
+# game/day33.rpy:1337
+translate german day33_v_sex_197e5743:
+
+    # r "Y-yes! I'm his anal slut!"
+    r "J-ja! Ich bin seine Analschlampe!"
+
+# game/day33.rpy:1339
+translate german day33_v_sex_ec9a579e:
+
+    # "{i}[r_name] holds you in a tight embrace that feels a little painful in its tightness, but you don't care as the feeling of your dick plunging into her ribbed depths compensates more than enough."
+    "{i}[r_name] hält dich in einer engen Umarmung, die sich ein wenig schmerzhaft anfühlt, aber das ist dir egal, denn das Gefühl, wenn dein Schwanz in ihre gerippten Tiefen eindringt, entschädigt dich mehr als genug."
+# game/day33.rpy:1340
+translate german day33_v_sex_3ec55a3a:
+
+    # "{i}It's becoming harder and harder to hold off your orgasm, especially since Valentina has turned her attention to licking your balls and parts of your shaft that are exposed when you begin each thrust inside [r_name]'s pussy."
+    "{i}Es wird immer schwieriger, deinen Orgasmus zurückzuhalten, besonders seit Valentina ihre Aufmerksamkeit darauf gerichtet hat, deine Eier und die Teile deines Schafts zu lecken, die bei jedem Stoß in [r_Name]'s Pussy freigelegt werden."
+# game/day33.rpy:1347
+translate german day33_v_sex_b57c5774:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Du hebst [r_Name] von deinem Schwanz und stehst von der Couch auf, wobei du Valentinas begierigen Kopf zur Seite streichst."
+# game/day33.rpy:1348
+translate german day33_v_sex_e1c2eb60:
+
+    # p "Ladies, can you both make me cum?"
+    p "Meine Damen, könnt ihr mich beide zum Abspritzen bringen?"
+
+# game/day33.rpy:1349
+translate german day33_v_sex_84389455:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Ich glaube, wir haben Recht [r_name]?"
+
+# game/day33.rpy:1354
+translate german day33_v_sex_4741a1d0:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Die Mädchen knien vor dir und greifen deinen Schwanz, den sie abwechselnd lecken und saugen."
+# game/day33.rpy:1355
+translate german day33_v_sex_0e162753:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm ich kann dich [r_name] schmecken!"
+
+# game/day33.rpy:1356
+translate german day33_v_sex_902b0b61:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] hat nur Augen für dich, ihre großen grünen Augen wollen dich zum Abspritzen bringen"
+
+# game/day33.rpy:1365
+translate german day33_v_sex_6ea22416:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your sister."
+    "{i}In diesem Moment verlierst du völlig den Verstand und schaffst es mit purer Willenskraft, deinen Schwanz zu packen und ihn auf die offenen Münder von Valentina und deiner Schwester zu richten."
+# game/day33.rpy:1367
+translate german day33_v_sex_8a7b3429:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the open mouths of Valentina and your girlfriend."
+    "{i}In diesem Moment verlierst du völlig den Verstand und schaffst es mit purer Willenskraft, deinen Schwanz zu packen und ihn auf die offenen Münder von Valentina und deiner Freundin zu richten."
+# game/day33.rpy:1368
+translate german day33_v_sex_49da5a30:
+
+    # "{i}Thick strands of semen soon cover their faces, the cum that enters their mouths is swallowed eagerly by both girls."
+    "{i}Dicke Spermasträhnen bedecken bald ihre Gesichter und das Sperma, das in ihre Münder gelangt, wird von beiden Mädchen begierig geschluckt."
+
+# game/day33.rpy:1378
+translate german day33_v_sex_b57c5774_1:
+
+    # "{i}You lift [r_name] from your cock and stand up from the couch, brushing Valentina's eager head aside."
+    "{i}Du hebst [r_Name] von deinem Schwanz und stehst von der Couch auf, wobei du Valentinas begierigen Kopf zur Seite streichst."
+# game/day33.rpy:1379
+translate german day33_v_sex_e1c2eb60_1:
+
+    # p "Ladies, can you both make me cum?"
+    p "Meine Damen, könnt ihr mich beide zum Abspritzen bringen?"
+
+# game/day33.rpy:1380
+translate german day33_v_sex_84389455_1:
+
+    # va "I think we just might. Right, [r_name]?"
+    va "Ich glaube, wir haben Recht [r_name]?"
+
+# game/day33.rpy:1385
+translate german day33_v_sex_4741a1d0_1:
+
+    # "{i}The girls kneel before you and grab hold of your cock, they each take turns licking and sucking."
+    "{i}Die Mädchen knien vor dir und greifen deinen Schwanz, den sie abwechselnd lecken und saugen."
+# game/day33.rpy:1386
+translate german day33_v_sex_0e162753_1:
+
+    # va "Mmmm, I can taste you, [r_name]!"
+    va "Mmmm ich kann dich [r_name] schmecken!"
+
+# game/day33.rpy:1387
+translate german day33_v_sex_902b0b61_1:
+
+    # "{i}[r_name] just has eyes for you, her big green eyes willing you to cum."
+    "{i}[r_name] hat nur Augen für dich, ihre großen grünen Augen wollen dich zum Abspritzen bringen"
+
+# game/day33.rpy:1396
+translate german day33_v_sex_b2f23c99:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your sister."
+    "{i}In diesem Moment verlierst du völlig den Verstand und schaffst es mit purer Willenskraft, deinen Schwanz zu packen und ihn auf die aufrechte Brust von Valentina und deiner Schwester zu richten."
+# game/day33.rpy:1398
+translate german day33_v_sex_2e61abc1:
+
+    # "{i}At that moment you lose it completely and with sheer force of will, you manage to grab your cock and direct it at the upright chests of Valentina and your girlfriend."
+    "{i}In diesem Moment verlierst du völlig den Verstand und schaffst es mit purer Willenskraft, deinen Schwanz zu packen und ihn auf die aufgerichteten Brüste von Valentina und deiner Freundin zu richten."
+# game/day33.rpy:1399
+translate german day33_v_sex_2274da4f:
+
+    # "{i}Thick strands of semen soon cover their breasts leaking down their bellies."
+    "{i}Dicke Stränge von Sperma bedecken bald ihre Brüste und sickern an ihren Bäuchen hinunter"
+
+# game/day33.rpy:1413
+translate german day33_v_sex_0be19e5f:
+
+    # "{i}Despite your nearing orgasm and fucking your sister, you want to feel how it is to unload inside Valentina."
+    "{i}Obwohl du kurz vor dem Orgasmus stehst und deine Schwester fickst, willst du spüren, wie es ist, sich in Valentina zu entladen."
+
+# game/day33.rpy:1415
+translate german day33_v_sex_a92aad23:
+
+    # "{i}Despite your nearing orgasm and fucking your girlfriend, you want to feel how it is to unload inside Valentina."
+    "{i}Obwohl du kurz vor dem Orgasmus stehst und deine Freundin fickst, willst du spüren, wie es ist, sich in Valentina zu entladen."
+
+# game/day33.rpy:1416
+translate german day33_v_sex_3f709208:
+
+    # p "Come sit on my lap Valentina."
+    p "Komm, setz dich auf meinen Schoß Valentina"
+
+# game/day33.rpy:1422
+translate german day33_v_sex_7152a713:
+
+    # "{i}Valentina switches places with [r_name], and you immediately start pounding the singer hard and fast."
+    "{i}Valentina tauscht den Platz mit [r_name] und du fängst sofort an, die Sängerin hart und schnell zu schlagen"
+
+# game/day33.rpy:1423
+translate german day33_v_sex_3a05466d:
+
+    # p "I'm going to cum inside you."
+    p "Ich werde in dir abspritzen"
+
+# game/day33.rpy:1424
+translate german day33_v_sex_0f5e5946:
+
+    # va "S-shoot me up with all that cum of yours?"
+    va "Du willst mich mit deiner ganzen Wichse abspritzen?"
+
+# game/day33.rpy:1425
+translate german day33_v_sex_ffe3e255:
+
+    # p "Exactly."
+    p "Genau"
+
+# game/day33.rpy:1426
+translate german day33_v_sex_65d92875:
+
+    # va "D-don't stop then!"
+    va "D-dann hör nicht auf!"
+
+# game/day33.rpy:1433
+translate german day33_v_sex_bb53698e:
+
+    # "{i}Her last words usher in a climax that's so powerful you push yourself in the air, lifting Valentina's body and burying your cock balls deep inside her gash."
+    "{i}Ihre letzten Worte leiten einen Höhepunkt ein, der so stark ist, dass du dich in die Luft stößt, Valentinas Körper anhebst und deinen Schwanz bis zu den Eiern in ihrer Spalte vergräbst."
+# game/day33.rpy:1434
+translate german day33_v_sex_42ed5749:
+
+    # "{i}At that moment, you release a flow of warm semen, holding Valentina very tightly."
+    "{i}In diesem Moment entlässt du einen Strom warmen Spermas und hältst Valentina ganz fest."
+# game/day33.rpy:1437
+translate german day33_v_sex_3e0c2fdb:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Du bleibst in ihr, bis die letzten Tropfen deines pochenden Kopfes entweichen."
+# game/day33.rpy:1449
+translate german day33_v_sex_70622176:
+
+    # "{i}Fucking your sister is more than enough for you, and you just want her to receive your load."
+    "{i}Deine Schwester zu ficken ist mehr als genug für dich und du willst nur, dass sie deine Ladung bekommt."
+
+# game/day33.rpy:1451
+translate german day33_v_sex_e0516e90:
+
+    # "{i}Fucking your girlfriend is more than enough for you, and you just want her to receive your load."
+    "{i}Deine Freundin zu ficken ist mehr als genug für dich und du willst nur, dass sie deine Ladung bekommt"
+
+# game/day33.rpy:1460
+translate german day33_v_sex_80530500:
+
+    # "{i}The thought of coming inside her ushers in a climax that's so powerful you push yourself in the air, lifting [r_name]'s body and burying your cock balls deep inside her gash."
+    "{i}Der Gedanke daran, in ihr zu kommen, löst einen Höhepunkt aus, der so stark ist, dass du dich in die Luft stößt, [r_name]'s Körper anhebst und deinen Schwanz bis zu den Eiern in ihrer Spalte vergräbst"
+
+# game/day33.rpy:1462
+translate german day33_v_sex_537bc169:
+
+    # "{i}At that moment, you release a flow of warm semen, holding your sister very tightly."
+    "{i}In diesem Moment entlässt du einen Strom warmen Spermas und hältst deine Schwester ganz fest."
+# game/day33.rpy:1464
+translate german day33_v_sex_82eff079:
+
+    # "{i}At that moment, you release a flow of warm semen, holding [r_name] very tightly."
+    "{i}In diesem Moment entlässt du einen Strom warmen Spermas und hältst [r_name] ganz fest"
+
+# game/day33.rpy:1466
+translate german day33_v_sex_3e0c2fdb_1:
+
+    # "{i}You remain inside her until the last drops of cum have escaped your throbbing head. When you pull out, sperm leaks from the girl's vagina."
+    "{i}Du bleibst in ihr, bis die letzten Tropfen deines pochenden Kopfes entweichen."
+# game/day33.rpy:1481
+translate german day33_v_sex_543fc63b:
+
+    # "{i}Valentina retires on the couch, from where she regards you with a debauched smile."
+    "{i}Valentina zieht sich auf die Couch zurück, von wo aus sie dich mit einem ausschweifenden Lächeln betrachtet"
+
+# game/day33.rpy:1482
+translate german day33_v_sex_3a5eab2d:
+
+    # va "Now, that's what I call unwinding."
+    va "Das nenne ich Entspannung"
+
+# game/day33.rpy:1483
+translate german day33_v_sex_a810e656:
+
+    # p "Are you satisfied, Miss Glorious?"
+    p "Sind Sie zufrieden, Miss Glorious?"
+
+# game/day33.rpy:1484
+translate german day33_v_sex_e8ff0f7f:
+
+    # va "Very."
+    va "Sehr."
+
+# game/day33.rpy:1485
+translate german day33_v_sex_6c4580be:
+
+    # va "I think this redefines the term 'fan-fuck' completely."
+    va "Ich glaube, das definiert den Begriff 'Fan-Fick' völlig neu"
+
+# game/day33.rpy:1486
+translate german day33_v_sex_49279719:
+
+    # p "It sure beats getting an autograph."
+    p "Das ist auf jeden Fall besser als ein Autogramm"
+
+# game/day33.rpy:1488
+translate german day33_v_sex_5a9e6999:
+
+    # r "Er, I'd still like one..."
+    r "Äh, ich hätte trotzdem gerne einen"
+
+# game/day33.rpy:1489
+translate german day33_v_sex_ff4d5505:
+
+    # va "Sure thing."
+    va "Sichere Sache"
+
+# game/day33.rpy:1490
+translate german day33_v_sex_4a456b62:
+
+    # va "Do you have a pen?"
+    va "Haben Sie einen Stift?"
+
+# game/day33.rpy:1491
+translate german day33_v_sex_2049d4cc:
+
+    # va "Or I could write it using [p_name]'s sperm if you like."
+    va "Oder ich könnte es mit dem Sperma von [p_name] schreiben, wenn Sie möchten"
+
+# game/day33.rpy:1493
+translate german day33_v_sex_b9dfa25d:
+
+    # r "Everything is inside of me..."
+    r "Alles ist in mir"
+
+# game/day33.rpy:1495
+translate german day33_v_sex_082bd86d:
+
+    # r "He shot everything inside of you..."
+    r "Er schoss alles in dich hinein"
+
+# game/day33.rpy:1497
+translate german day33_v_sex_9ce6d9ee:
+
+    # r "It's all dried up, I'm afraid."
+    r "Ich fürchte, es ist alles ausgetrocknet"
+
+# game/day33.rpy:1498
+translate german day33_v_sex_9989982b:
+
+    # va "Damn, a pen it is."
+    va "Verdammt, das ist ein Stift"
+
+# game/day33.rpy:1500
+translate german day33_v_sex_72b317e3:
+
+    # "{i}After Valentina signs both your concert tickets, she lies down on the sofa again and closes her eyes."
+    "{i}Nachdem Valentina eure beiden Konzertkarten unterschrieben hat, legt sie sich wieder auf das Sofa und schließt die Augen."
+
+# game/day33.rpy:1501
+translate german day33_v_sex_3f9c2288:
+
+    # va "This was really fun, but I'm sure security will come looking for me after a while, so you'd better leave before that."
+    va "Das hat wirklich Spaß gemacht, aber ich bin mir sicher, dass der Sicherheitsdienst nach einer Weile nach mir suchen wird, also gehst du besser vorher"
+
+# game/day33.rpy:1502
+translate german day33_v_sex_bcf2746d:
+
+    # "{i}You pick up your clothes and dress yourself, while Valentina is still lying on the couch."
+    "{i}Du nimmst deine Sachen und ziehst dich an, während Valentina noch auf der Couch liegt."
+# game/day33.rpy:1503
+translate german day33_v_sex_fcbf1503:
+
+    # r "Goodbye."
+    r "Auf Wiedersehen."
+# game/day33.rpy:1504
+translate german day33_v_sex_c236b676:
+
+    # p "Bye, Valentina."
+    p "Tschüss Valentina"
+
+# game/day33.rpy:1506
+translate german day33_v_sex_e35b554b:
+
+    # va "Take care, lovebirds!"
+    va "Passt auf euch auf, ihr Turteltauben!"
+
+# game/day33.rpy:1507
+translate german day33_v_sex_0b11a4c7:
+
+    # va "If you're ever at a concert of mine, just get naked in one of the dressing rooms, and I'll come find you."
+    va "Wenn du jemals auf einem meiner Konzerte bist, zieh dich einfach in einer der Umkleidekabinen aus und ich komme zu dir"
+
+# game/day33.rpy:1508
+translate german day33_v_sex_52d289d8:
+
+    # r "Haha, sure!"
+    r "Haha klar!"
+
+# game/day33.rpy:1509
+translate german day33_v_sex_13d10d30:
+
+    # "{i}You both leave Valentina and sneak out into the deserted hallway."
+    "{i}Ihr beide verlasst Valentina und schleicht euch in den verlassenen Korridor hinaus"
+
+# game/day33.rpy:1523
+translate german day33_l_licking_aefcedc9:
+
+    # "{i}[l_name] sighs in relief and slips out of her bra and panties."
+    "{i}[l_name] seufzt erleichtert und schlüpft aus ihrem BH und ihrem Slip"
+
+# game/day33.rpy:1524
+translate german day33_l_licking_c483f160:
+
+    # l "I'm ready."
+    l "Ich bin bereit"
+
+# game/day33.rpy:1525
+translate german day33_l_licking_a9db017a:
+
+    # l "Don't hold back."
+    l "Halten Sie sich nicht zurück"
+
+# game/day33.rpy:1526
+translate german day33_l_licking_cc2617ba:
+
+    # l "I really want this."
+    l "Ich will das wirklich"
+
+# game/day33.rpy:1532
+translate german day33_l_licking_8c2701f1:
+
+    # "{i}That statement alone makes your cock rock-hard, and you attempt to ignore it by turning your attention to [l_name]'s breasts."
+    "{i}Allein diese Aussage macht deinen Schwanz steinhart und du versuchst, ihn zu ignorieren, indem du deine Aufmerksamkeit auf die Brüste von [l_name] richtest."
+# game/day33.rpy:1533
+translate german day33_l_licking_e223cfdd:
+
+    # l "Oh! I like it so much when you do that."
+    l "Oh! Ich mag es so sehr, wenn du das machst"
+
+# game/day33.rpy:1536
+translate german day33_l_licking_21fea5ba:
+
+    # "{i}Her nipples are soon covered in an abundance of your saliva as you lick and suck them."
+    "{i}Ihre Brustwarzen sind bald mit einer Fülle von Speichel bedeckt, während du sie leckst und saugst."
+
+# game/day33.rpy:1537
+translate german day33_l_licking_013191b8:
+
+    # "{i}[l_name] touches herself and moans a little harder with each caress of your mouth."
+    "{i}[l_name] berührt sich selbst und stöhnt mit jeder Liebkosung deines Mundes ein wenig heftiger"
+
+# game/day33.rpy:1539
+translate german day33_l_licking_6858d52b:
+
+    # "{i}As [l_name] takes over the massaging of her breasts, you move down towards her sex, lingering at the sensitive area of her navel."
+    "{i}Während [l_name] die Massage ihrer Brüste übernimmt, bewegst du dich hinunter zu ihrem Geschlecht und verweilst an der empfindlichen Stelle ihres Nabels"
+
+# game/day33.rpy:1540
+translate german day33_l_licking_d185372a:
+
+    # l "Are y-you... are you going to use your tongue?"
+    l "Wirst du deine Zunge benutzen?"
+
+# game/day33.rpy:1541
+translate german day33_l_licking_115982f8:
+
+    # p "Maybe..."
+    p "Vielleicht"
+
+# game/day33.rpy:1542
+translate german day33_l_licking_cba9ca70:
+
+    # p "Just wait and see..."
+    p "Abwarten und sehen"
+
+# game/day33.rpy:1543
+translate german day33_l_licking_77e00a8f:
+
+    # l "I'm really wet down there already."
+    l "Ich bin schon ganz nass da unten"
+
+# game/day33.rpy:1544
+translate german day33_l_licking_980d3dc7:
+
+    # p "So? The wetter, the better."
+    p "Und? Je nasser, desto besser"
+
+# game/day33.rpy:1546
+translate german day33_l_licking_6c88ddfd:
+
+    # "{i}You push apart her legs and test her claim by pressing the tip of your tongue against her labia, which sends a shiver through [l_name]'s body."
+    "{i}Du drückst ihre Beine auseinander und testest ihren Anspruch, indem du deine Zungenspitze gegen ihre Schamlippen drückst, was [l_name] einen Schauer durch den Körper jagt."
+# game/day33.rpy:1548
+translate german day33_l_licking_c0c4b7da:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your sister the best orgasm of her life."
+    "{i}Das feuchte Gefühl von Salz und Parfüm bestärkt dich in deiner Entschlossenheit, deiner Schwester den besten Orgasmus ihres Lebens zu bescheren."
+# game/day33.rpy:1550
+translate german day33_l_licking_60a4a4db:
+
+    # "{i}The wet sensation of salt and perfume bolsters your resolve to give your friend the best orgasm of her life."
+    "{i}Das feuchte Gefühl von Salz und Parfüm stärkt deine Entschlossenheit, deiner Freundin den besten Orgasmus ihres Lebens zu bescheren."
+# game/day33.rpy:1551
+translate german day33_l_licking_1de5cddf:
+
+    # l "Oh! That w-wasn't in those videos!"
+    l "Oh! Das w-war nicht in diesen Videos!"
+
+# game/day33.rpy:1552
+translate german day33_l_licking_cd6c7564:
+
+    # p "{i}(So she has watched porn, little liar!)"
+    p "{i}(Also hat sie Porno geschaut kleiner Lügner!)"
+
+# game/day33.rpy:1553
+translate german day33_l_licking_0fa76638:
+
+    # l "B-but don't stop!"
+    l "B-aber nicht aufhören!"
+
+# game/day33.rpy:1555
+translate german day33_l_licking_ee27b8e5:
+
+    # "{i}[l_name] tousles your hair as you begin to lick her pussy."
+    "{i}[l_name] zerzaust dein Haar, während du anfängst, ihre Muschi zu lecken"
+
+# game/day33.rpy:1556
+translate german day33_l_licking_adb09cbf:
+
+    # "{i}You're less delicate than before, forceful even, licking and sucking her labia and pushing her further to her limit."
+    "{i}Du bist nicht mehr so zart wie früher, leckst und saugst ihre Schamlippen und treibst sie weiter an ihre Grenzen."
+
+# game/day33.rpy:1560
+translate german day33_l_licking_3563fed8:
+
+    # "{i}From her heavy breathing, you gather she's close to orgasming, so you stop."
+    "{i}Aus ihrem schweren Atmen schließt du, dass sie kurz vor dem Orgasmus ist, also hörst du auf."
+# game/day33.rpy:1562
+translate german day33_l_licking_3ed9fc10:
+
+    # l "Wuh, why did you stop?"
+    l "Wuh, warum hast du aufgehört?"
+
+# game/day33.rpy:1563
+translate german day33_l_licking_b52a6030:
+
+    # p "Sssh, I know what I'm doing."
+    p "Sssh, ich weiß, was ich tue"
+
+# game/day33.rpy:1565
+translate german day33_l_licking_7fadb4f3:
+
+    # "{i}Smothering any protest with a passionate kiss, [l_name] gives in and lets herself be treated by you."
+    "{i}Jeden Protest mit einem leidenschaftlichen Kuss erstickend, gibt [l_name] nach und lässt sich von dir behandeln"
+
+# game/day33.rpy:1566
+translate german day33_l_licking_a2883af2:
+
+    # "{i}When her body has entered a more relaxed state, you go down on her again."
+    "{i}Wenn ihr Körper in einen entspannten Zustand übergegangen ist, fällst du wieder über sie her."
+
+# game/day33.rpy:1572
+translate german day33_l_licking_bdd0fd5f:
+
+    # l "Aaah! T-that s-so intense!"
+    l "Aaah! D-das s-so intensiv!"
+
+# game/day33.rpy:1573
+translate german day33_l_licking_fbd664ee:
+
+    # "{i}With a few well-placed flicks of your tongue you have her ready in moments, her vagina creamy with her juices."
+    "{i}Mit ein paar gut platzierten Zungenschlägen hast du sie in wenigen Augenblicken so weit, dass ihre Vagina mit ihren Säften cremig wird."
+
+# game/day33.rpy:1574
+translate german day33_l_licking_c4a2c2f2:
+
+    # "{i}Right at the edge, you wrestle yourself from her hands with which she attempts to push you closer inside her and stop licking her again."
+    "{i}Ganz am Rande entziehst du dich ihren Händen, mit denen sie versucht, dich näher in sie hineinzudrücken und hörst wieder auf, sie zu lecken."
+
+# game/day33.rpy:1575
+translate german day33_l_licking_da5ade18:
+
+    # l "No!"
+    l "Nein!"
+
+# game/day33.rpy:1580
+translate german day33_l_licking_67984514:
+
+    # "{i}After you kiss away her agony, you touch her moist pussy with your fingers and slip one in."
+    "{i}Nachdem du ihre Qualen weggeküsst hast, berührst du ihre feuchte Muschi mit deinen Fingern und steckst einen hinein"
+
+# game/day33.rpy:1581
+translate german day33_l_licking_06b222aa:
+
+    # "{i}As she gasps to adjust to the sudden penetration, you slip another finger inside her."
+    "{i}Als sie nach Luft schnappt, um sich an die plötzliche Penetration zu gewöhnen, schiebst du einen weiteren Finger in sie hinein."
+
+# game/day33.rpy:1583
+translate german day33_l_licking_2d489eb2:
+
+    # "{i}Allowing her to get familiar with the feeling, you look deeply into her eyes."
+    "{i}Damit sie sich an das Gefühl gewöhnt, dass du ihr tief in die Augen schaust"
+
+# game/day33.rpy:1584
+translate german day33_l_licking_7bd07015:
+
+    # "{i}When you see the acceptance flash across her face, you hook your fingers inside her and start to penetrate her with short thrusts."
+    "{i}Wenn du siehst, wie die Akzeptanz in ihrem Gesicht aufblitzt, hakst du deine Finger in ihr ein und fängst an, sie mit kurzen Stößen zu penetrieren."
+
+# game/day33.rpy:1587
+translate german day33_l_licking_22dc2071:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your sister's eyes widen, you know you've struck gold."
+    "{i}Es dauert einen Moment, bis du die richtige Stelle gefunden hast, aber wenn du siehst, wie sich die Augen deiner Schwester weiten, weißt du, dass du einen Volltreffer gelandet hast."
+# game/day33.rpy:1589
+translate german day33_l_licking_71f6c75f:
+
+    # "{i}It takes a moment for you to find the right spot, but when you see your friend's eyes widen, you know you've struck gold."
+    "{i}Es dauert einen Moment, bis man die richtige Stelle gefunden hat, aber wenn man sieht, wie sich die Augen des Freundes weiten, weiß man, dass man einen Volltreffer gelandet hat."
+# game/day33.rpy:1590
+translate german day33_l_licking_978434aa:
+
+    # "{i}[l_name] begins to shudder uncontrollably, and at one point even attempts to remove your hand momentarily before pressing your fingers even deeper inside her."
+    "{i}[l_name] beginnt unkontrolliert zu zittern und versucht sogar, deine Hand kurz wegzunehmen, bevor du deine Finger noch tiefer in sie drückst."
+# game/day33.rpy:1591
+translate german day33_l_licking_9f7293f5:
+
+    # "{i}When every muscle in the girl's body begins to contract the moment of truth has come."
+    "{i}Wenn sich jeder Muskel im Körper des Mädchens zusammenzieht, ist der Moment der Wahrheit gekommen"
+
+# game/day33.rpy:1592
+translate german day33_l_licking_ec807b08:
+
+    # l "I-it... a-aaah..."
+    l "I-it a-aaah"
+
+# game/day33.rpy:1594
+translate german day33_l_licking_c7b2c2f9:
+
+    # "{i}White cream is slathered all over her pussy and thighs, and your fingers make those characteristic wet sounds you always associate with an oncoming avalanche of squirt."
+    "{i}Weiße Sahne verteilt sich auf ihrer Muschi und ihren Schenkeln und deine Finger machen diese charakteristischen feuchten Geräusche, die du immer mit einer herannahenden Spritzenlawine in Verbindung bringst."
+
+# game/day33.rpy:1595
+translate german day33_l_licking_500b03cb:
+
+    # l "I-have to... p-pee..."
+    l "Ich-muss-pinkeln"
+
+# game/day33.rpy:1606
+translate german day33_l_licking_9546d3ca:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your sister's ejaculate."
+    "{i}Die Zuckungen ihrer Vagina zwingen deine Finger heraus und du wirst mit dem Ejakulat deiner Schwester bespritzt"
+
+# game/day33.rpy:1608
+translate german day33_l_licking_9cb122f0:
+
+    # "{i}The convulsions of her vagina force your fingers out and are subsequently sprayed with your girl's ejaculate."
+    "{i}Die Zuckungen ihrer Vagina zwingen deine Finger heraus und werden anschließend mit dem Ejakulat deines Mädchens bespritzt"
+
+# game/day33.rpy:1609
+translate german day33_l_licking_434e914b:
+
+    # "{i}[l_name], normally so reserved, roars with pleasure as she shakes and shivers, still releasing fluid on her bedsheets."
+    "{i}[l_name], sonst so zurückhaltend, brüllt vor Vergnügen, während sie sich schüttelt und zittert und immer noch Flüssigkeit auf ihre Bettlaken abgibt"
+
+# game/day33.rpy:1615
+translate german day33_l_licking_5ebbfd58:
+
+    # "{i}Your sister continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Deine Schwester hält dich weiterhin in einer engen Umarmung, atmet Seufzer der Erleichterung und zittert unwillkürlich in unregelmäßigen Abständen."
+# game/day33.rpy:1617
+translate german day33_l_licking_d9822a5e:
+
+    # "{i}Your friend continues to hold you in a tight embrace, breathing sighs of relief and quivering involuntarily at irregular intervals."
+    "{i}Ihr Freund hält Sie weiterhin in einer engen Umarmung, atmet Seufzer der Erleichterung und zittert unwillkürlich in unregelmäßigen Abständen."
+# game/day33.rpy:1618
+translate german day33_l_licking_619ac3f5:
+
+    # p "I think that's proof enough."
+    p "Ich denke, das ist Beweis genug"
+
+# game/day33.rpy:1623
+translate german day33_l_licking_4caf62cc:
+
+    # l "Wow."
+    l "Wow"
+
+# game/day33.rpy:1624
+translate german day33_l_licking_a4bf1c05:
+
+    # l "I can still feel it."
+    l "Ich kann es immer noch fühlen"
+
+# game/day33.rpy:1625
+translate german day33_l_licking_5c82d382:
+
+    # l "I've never felt something so intense in my life."
+    l "Ich habe noch nie in meinem Leben so etwas Intensives gefühlt"
+
+# game/day33.rpy:1626
+translate german day33_l_licking_d38a1c27:
+
+    # l "It was scary and wonderful at the same time."
+    l "Es war beängstigend und wunderbar zugleich"
+
+# game/day33.rpy:1627
+translate german day33_l_licking_16603430:
+
+    # p "You were beautiful."
+    p "Du warst wunderschön"
+
+# game/day33.rpy:1628
+translate german day33_l_licking_ef606a57:
+
+    # l "You made me lose control and I just didn't care."
+    l "Du hast mich die Kontrolle verlieren lassen, und es war mir einfach egal"
+
+# game/day33.rpy:1629
+translate german day33_l_licking_1eb9828c:
+
+    # l "I wanted you to go on... forever..."
+    l "Ich wollte, dass du ewig weitermachst"
+
+# game/day33.rpy:1630
+translate german day33_l_licking_7ddd1c86:
+
+    # l "And then it came... I thought I..."
+    l "Und dann kam es, ich dachte, ich"
+
+# game/day33.rpy:1632
+translate german day33_l_licking_4caf62cc_1:
+
+    # l "Wow."
+    l "Wow"
+
+# game/day33.rpy:1633
+translate german day33_l_licking_cf3e8835:
+
+    # p "I'm proud of you."
+    p "Ich bin stolz auf dich"
+
+# game/day33.rpy:1634
+translate german day33_l_licking_8179b31a:
+
+    # l "I love you."
+    l "Ich liebe dich"
+
+# game/day33.rpy:1635
+translate german day33_l_licking_3c07dcc8:
+
+    # p "I love you too, [l_name], ever more each day."
+    p "Ich liebe dich auch [l_name], jeden Tag mehr"
+

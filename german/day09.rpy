@@ -4278,3 +4278,17 @@ translate german day09_r_l_shopping_choices_fedcbc1a:
 
     # "{i}Reluctantly, [l_name] disappears into the booth."
     "{i}Widerwillig verschwindet [l_name] in der Kabine."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day09.rpy:1268
+translate german day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Sie wird heute Abend wahrscheinlich spät nach Hause kommen)"
+
+# game/day09.rpy:1274
+translate german day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Lass uns eine gute Nachtruhe haben)"
+

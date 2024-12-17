@@ -5272,3 +5272,41 @@ translate german day141_l_pool_5df15299:
     # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
     "{i}Du massierst die Beine von [l_name] mit Sonnencreme und reibst auch ihren Bauch."
 
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day141.rpy:1185
+translate german day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Ist [l_name] in dieser Szene schwanger?"
+
+# game/day141.rpy:1189
+translate german day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] schwanger"
+
+# game/day141.rpy:1192
+translate german day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nicht schwanger"
+
+# game/day141.rpy:1442
+translate german day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Ist [m_name] in dieser Szene schwanger?"
+
+# game/day141.rpy:1446
+translate german day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] schwanger"
+
+# game/day141.rpy:1449
+translate german day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nicht schwanger"
+

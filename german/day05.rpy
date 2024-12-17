@@ -3586,3 +3586,443 @@ translate german day05_restaurant_main_course_choices_b87fab88:
 
     # l "I..."
     l "Ich..."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day05.rpy:1208
+translate german day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Alina zieht sich schnell aus und geht auf die Knie"
+
+# game/day05.rpy:1210
+translate german day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "Ich bin ein böses Mädchen gewesen [p_name]"
+
+# game/day05.rpy:1211
+translate german day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "Bitte bestrafe mich mit deinem harten Schwanz"
+
+# game/day05.rpy:1212
+translate german day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Scheint so, als ob Alina auf unterwürfige Rollenspiele steht - Kinky Girl)"
+
+# game/day05.rpy:1213
+translate german day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "Ich hatte all diese schlimmen Gedanken über Typen, die mich ficken und auf mir abspritzen"
+
+# game/day05.rpy:1214
+translate german day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "Du warst also ein schmutziges kleines Mädchen?"
+
+# game/day05.rpy:1218
+translate german day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Ja."
+
+# game/day05.rpy:1219
+translate german day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "Und du willst meinen Schwanz in deinem Mund?"
+
+# game/day05.rpy:1220
+translate german day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Ja, ich verdiene Bestrafung für all die schlechten Gedanken, die ich hatte"
+
+# game/day05.rpy:1221
+translate german day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Sag bitte"
+
+# game/day05.rpy:1222
+translate german day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "Bitte [p_name] stecke deinen harten Schwanz in meinen warmen Mund"
+
+# game/day05.rpy:1228
+translate german day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Du packst ihren Kopf und zwingst ihren Mund über deinen harten Schwanz"
+
+# game/day05.rpy:1229
+translate german day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Alina würgt und lächelt Spucke tropft ihr schon aus dem Mund"
+
+# game/day05.rpy:1231
+translate german day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "Gefällt dir das, du böse kleine Hure?"
+
+# game/day05.rpy:1232
+translate german day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    al "Mmmmmmmmmmm *Würg*."
+
+# game/day05.rpy:1241
+translate german day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}Ihre Zunge reibt sich an deiner Eichel, während du ihren Kopf auf und ab bewegst und ihr manchmal die Möglichkeit gibst, Luft zu holen."
+# game/day05.rpy:1243
+translate german day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "*Schlürfen* *Würgen* Aaaah ich will alles"
+
+# game/day05.rpy:1247
+translate german day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Alina leckt über deinen glitzernden Schwanz und dann spürst du, wie ihre feuchte Zunge über deine Eier leckt."
+# game/day05.rpy:1248
+translate german day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "Bitte, bitte alles rein!"
+
+# game/day05.rpy:1259
+translate german day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}Mit genügend Druck schiebst du deinen ganzen Schwanz in ihren Mund, Alinas Augen beginnen zu tränen und ihr Oberkörper ist mit Sabber bedeckt."
+
+# game/day05.rpy:1260
+translate german day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    al "Mmmmmmmmmmm!"
+# game/day05.rpy:1262
+translate german day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}Als dein Penis in ihre Kehle stößt, bekommt Alina einen Blick der reinen Glückseligkeit"
+
+# game/day05.rpy:1263
+translate german day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Du magst es, wenn es weh tut, nicht wahr, du kleine Hure?"
+
+# game/day05.rpy:1264
+translate german day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Alina spürt, dass du kurz vor dem Höhepunkt stehst, befreit sich aus deinem Griff und geht auf alle Viere, während sie dein pochendes Glied immer noch tief kehlt."
+# game/day05.rpy:1265
+translate german day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Ich komme, ich komme, ich komme!"
+
+# game/day05.rpy:1266
+translate german day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Mmmmm *Schlürfen*"
+
+# game/day05.rpy:1273
+translate german day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaaaah!!!"
+
+# game/day05.rpy:1274
+translate german day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}Du schießt dein warmes Sperma in ihre Kehle und Alina bewegt sich so lange an deinem Schaft auf und ab, bis sie auch den letzten Tropfen Sperma geschluckt hat."
+# game/day05.rpy:1279
+translate german day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Alina leckt sich die spermaverschmierten Lippen und schaut dich sehnsüchtig an"
+
+# game/day05.rpy:1293
+translate german day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "Aaaaaaaaaaah!!!"
+
+# game/day05.rpy:1294
+translate german day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}Du ziehst dich aus ihrem warmen Mund zurück und schießt eine große Ladung über ihr Gesicht und ihre Brust"
+
+# game/day05.rpy:1298
+translate german day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Alina schöpft mit ihrem Finger einen Klumpen Sperma, vermischt mit ihrem Speichel, und steckt ihn in ihren Mund."
+# game/day05.rpy:1308
+translate german day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Mmmmm schön!"
+
+# game/day05.rpy:1309
+translate german day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "(Sie ist ein bisschen verrückt, aber was für ein Schwanzlutscher!)"
+
+# game/day05.rpy:1312
+translate german day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ana hatte recht, du schmeckst sehr gut und es ist auch noch so viel davon da!"
+
+# game/day05.rpy:1314
+translate german day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "Du schmeckst sehr gut und es ist so viel davon da!"
+
+# game/day05.rpy:1316
+translate german day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "Bin ich jetzt ein braves Mädchen [p_name]?"
+
+# game/day05.rpy:1338
+translate german day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Nachdem ich die ersten Bilder gesehen habe, ist dein Penis schon hart"
+
+# game/day05.rpy:1343
+translate german day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(Ich würde diesen runden Hintern so gerne ficken)"
+
+# game/day05.rpy:1346
+translate german day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Nachdem ich die ersten Bilder gesehen habe, ist dein Penis schon hart"
+
+# game/day05.rpy:1350
+translate german day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Schau dir diese Beine an)"
+
+# game/day05.rpy:1352
+translate german day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "(Ich würde diese Titten gnadenlos ficken!)"
+
+# game/day05.rpy:1357
+translate german day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(Ich hoffe, [p_name] ist noch wach, ich habe vergessen, ihm zu sagen, welchen Film ich gerne sehen würde, falls er Karten im Voraus buchen muss)"
+
+# game/day05.rpy:1359
+translate german day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "Was macht er? Sein Arm bewegt sich auf und ab Nein masturbiert er?"
+
+# game/day05.rpy:1360
+translate german day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(Scheiße! Ich glaube, ich habe die Tür gehört. Ist das [r_name]?)"
+
+# game/day05.rpy:1364
+translate german day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(Scheiß drauf, wer auch immer das ist. Das ist mein Zimmer und ich wichse)"
+
+# game/day05.rpy:1365
+translate german day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(Er hat mich nicht bemerkt?)"
+
+# game/day05.rpy:1369
+translate german day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(Es ist irgendwie heiß, ihn so zu sehen)"
+
+# game/day05.rpy:1370
+translate german day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "Hmmm, was? Werde ich jetzt nass?"
+
+# game/day05.rpy:1376
+translate german day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Ich fühle mich nur ein bisschen)"
+
+# game/day05.rpy:1377
+translate german day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Ich glaube, sie ist immer noch da Das macht mich noch härter)"
+
+# game/day05.rpy:1380
+translate german day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Ugh Better leave him to it)"
+
+# game/day05.rpy:1382
+translate german day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Du hörst, wie sich die Tür ganz leise schließt. Es scheint, als wärst du wieder allein mit Ana"
+
+# game/day05.rpy:1384
+translate german day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Du hörst, wie sich die Tür ganz leise schließt. Es scheint, als wärst du wieder allein mit Jenna"
+
+# game/day05.rpy:1388
+translate german day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Besser aufhören, bevor sie wirklich ausflippt)"
+
+# game/day05.rpy:1389
+translate german day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}Als du dich umdrehst, hörst du, wie sich die Tür schnell schließt"
+
+# game/day05.rpy:1390
+translate german day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Ich frage mich, wer das war. Ich werde mich nicht entschuldigen oder so, obwohl das mein Zimmer ist)"
+
+# game/day05.rpy:1396
+translate german day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Sie spreizt diese saftigen Schamlippen)"
+
+# game/day05.rpy:1397
+translate german day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(Schau dir diese Schönheit an!)"
+
+# game/day05.rpy:1400
+translate german day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1406
+translate german day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Ich komme auch!)"
+
+# game/day05.rpy:1409
+translate german day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah!!!)"
+
+# game/day05.rpy:1413
+translate german day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Ich gehe jetzt besser, ich rede morgen früh mit [p_name])"
+
+# game/day05.rpy:1417
+translate german day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Ich glaube, die Person an der Tür ist gegangen)"
+
+# game/day05.rpy:1418
+translate german day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Das war so heiß)"
+
+# game/day05.rpy:1421
+translate german day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Aber warte, wer hat die Fotos von Ana gemacht?!)"
+
+# game/day05.rpy:1424
+translate german day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "(Steck die Finger da rein, Jenna!)"
+
+# game/day05.rpy:1426
+translate german day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "Das ist es, Mädchen!"
+
+# game/day05.rpy:1429
+translate german day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1435
+translate german day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(Ich komme auch!)"
+
+# game/day05.rpy:1438
+translate german day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah!!!)"
+
+# game/day05.rpy:1442
+translate german day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Ich gehe jetzt besser, ich rede morgen früh mit [p_name])"
+
+# game/day05.rpy:1446
+translate german day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Ich glaube, die Person an der Tür ist gegangen)"
+
+# game/day05.rpy:1447
+translate german day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Das war so heiß)"
+

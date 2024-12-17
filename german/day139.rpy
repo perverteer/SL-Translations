@@ -8007,3 +8007,89 @@ translate german day139_movie_fuck_940fc4a3:
 
     # l "Does this make you forget that movie a little?"
     l "Lässt dich das diesen Film ein wenig vergessen?"
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day139.rpy:1920
+translate german day139_b_me_soft_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Ist [b_name] in dieser Szene schwanger?"
+
+# game/day139.rpy:1924
+translate german day139_b_me_soft_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] schwanger"
+
+# game/day139.rpy:1927
+translate german day139_b_me_soft_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nicht schwanger"
+
+# game/day139.rpy:2374
+translate german day139_movie_fuck_ebb77704:
+
+    # "Who is getting fucked?"
+    "Wer wird gefickt?"
+
+# game/day139.rpy:2380
+translate german day139_movie_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Ist [r_name] in dieser Szene schwanger?"
+
+# game/day139.rpy:2385
+translate german day139_movie_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] schwanger"
+
+# game/day139.rpy:2388
+translate german day139_movie_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nicht schwanger"
+
+# game/day139.rpy:2394
+translate german day139_movie_fuck_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Ist [b_name] in dieser Szene schwanger?"
+
+# game/day139.rpy:2399
+translate german day139_movie_fuck_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] schwanger"
+
+# game/day139.rpy:2402
+translate german day139_movie_fuck_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nicht schwanger"
+
+# game/day139.rpy:2407
+translate german day139_movie_fuck_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Ist [l_name] in dieser Szene schwanger?"
+
+# game/day139.rpy:2412
+translate german day139_movie_fuck_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] schwanger"
+
+# game/day139.rpy:2415
+translate german day139_movie_fuck_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nicht schwanger"
+
+translate german strings:
+
+    # game/day139.rpy:2375
+    old "[r_name]"
+    new "[r_name]"
+

@@ -5590,4 +5590,59 @@ translate german day144_marriage_proposals_b65da9b8:
 translate german day144_b_night_sex_61503c26:
 
     # "{i}Warm cum flows inside her and as you pull out, it starts to ooze out of her slit."
-    "{i}Warmes Sperma fließt in sie hinein und wenn du es herausziehst, fängt es an, aus ihrem Schlitz herauszusickern."
+    "{i}Warmes Sperma fließt in sie hinein und wenn du es herausziehst, fängt es an, aus ihrem Schlitz herauszusickern."# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day144.rpy:884
+translate german day144_m_ir_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Ist [m_name] in dieser Szene schwanger?"
+
+# game/day144.rpy:888
+translate german day144_m_ir_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] schwanger"
+
+# game/day144.rpy:891
+translate german day144_m_ir_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nicht schwanger"
+
+# game/day144.rpy:1100
+translate german day144_b_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "Wollen Sie Wassersport für diese Szene ermöglichen?"
+
+# game/day144.rpy:1104
+translate german day144_b_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Wassersport möglich"
+
+# game/day144.rpy:1107
+translate german day144_b_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Wassersport behindert"
+
+# game/day144.rpy:2163
+translate german day144_b_night_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Ist [b_name] in dieser Szene schwanger?"
+
+# game/day144.rpy:2167
+translate german day144_b_night_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] schwanger"
+
+# game/day144.rpy:2170
+translate german day144_b_night_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nicht schwanger"
+

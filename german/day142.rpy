@@ -11407,3 +11407,113 @@ translate german day142_l_sex_57a49b76:
 
     # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
     "{i}Wenn sie auf den Knien ist, bevor dein Sperma in ihren offenen Mund spritzt."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day142.rpy:1860
+translate german day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Ist [m_name] in dieser Szene schwanger?"
+
+# game/day142.rpy:1864
+translate german day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] schwanger"
+
+# game/day142.rpy:1867
+translate german day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nicht schwanger"
+
+# game/day142.rpy:1869
+translate german day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Ist [r_name] in dieser Szene schwanger?"
+
+# game/day142.rpy:1873
+translate german day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] schwanger"
+
+# game/day142.rpy:1876
+translate german day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nicht schwanger"
+
+# game/day142.rpy:3141
+translate german day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "Ist [r_name] in dieser Szene schwanger?"
+
+# game/day142.rpy:3145
+translate german day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] schwanger"
+
+# game/day142.rpy:3148
+translate german day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] nicht schwanger"
+
+# game/day142.rpy:3442
+translate german day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "Ist [l_name] in dieser Szene schwanger?"
+
+# game/day142.rpy:3446
+translate german day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] schwanger"
+
+# game/day142.rpy:3449
+translate german day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] nicht schwanger"
+
+# game/day142.rpy:3709
+translate german day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "Ist [b_name] in dieser Szene schwanger?"
+
+# game/day142.rpy:3713
+translate german day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] schwanger"
+
+# game/day142.rpy:3716
+translate german day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] nicht schwanger"
+
+# game/day142.rpy:3951
+translate german day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "Ist [m_name] in dieser Szene schwanger?"
+
+# game/day142.rpy:3955
+translate german day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] schwanger"
+
+# game/day142.rpy:3958
+translate german day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] nicht schwanger"
+

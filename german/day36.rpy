@@ -5739,3 +5739,283 @@ translate german strings:
     # game/day36.rpy:835
     old "Interrupt her"
     new "Sie unterbrechen"
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day36.rpy:1510
+translate german day36_l_blowjob_304be16a:
+
+    # l "Don't go, [p_name]."
+    l "Gehen Sie nicht [p_name]"
+
+# game/day36.rpy:1511
+translate german day36_l_blowjob_4cb7cb3b:
+
+    # l "I don't want to be lllonely..."
+    l "Ich will nicht einsam sein"
+
+# game/day36.rpy:1516
+translate german day36_l_blowjob_468ca890:
+
+    # "{i}Without ceremony, [l_name] drops her dress to the floor, exposing her naked body."
+    "{i}Ohne Zeremonie lässt [l_name] ihr Kleid zu Boden fallen und entblößt ihren nackten Körper"
+
+# game/day36.rpy:1517
+translate german day36_l_blowjob_21117e0e:
+
+    # l "Come on... you too!"
+    l "Komm, du auch!"
+
+# game/day36.rpy:1518
+translate german day36_l_blowjob_9b4a300b:
+
+    # "{i}[l_name]'s drunkenness surely has made her less reserved, but the eagerness is genuine at the same time."
+    "{i}[l_name] ist durch ihren Alkoholkonsum sicherlich weniger zurückhaltend geworden, aber ihr Eifer ist gleichzeitig echt."
+
+# game/day36.rpy:1521
+translate german day36_l_blowjob_40e1009f:
+
+    # "{i}As your sister lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Wenn deine Schwester sich zu dir legt, streichelt sie deine Haut und sieht dich erwartungsvoll an."
+# game/day36.rpy:1523
+translate german day36_l_blowjob_23775a35:
+
+    # "{i}As your friend lies down with you, she caresses your skin and looks at you expectantly."
+    "{i}Wenn deine Freundin sich zu dir legt, streichelt sie deine Haut und sieht dich erwartungsvoll an."
+# game/day36.rpy:1524
+translate german day36_l_blowjob_ac4d6993:
+
+    # l "I'm not ready to sleep..."
+    l "Ich bin noch nicht bereit zu schlafen"
+
+# game/day36.rpy:1525
+translate german day36_l_blowjob_1249acbe:
+
+    # p "Me neither."
+    p "Ich auch nicht"
+
+# game/day36.rpy:1530
+translate german day36_l_blowjob_7f7cb4c9:
+
+    # "{i}Saying nothing further, [l_name]'s hand wraps around your growing cock, her fingertips trailing the pulsing veins."
+    "{i}Ohne etwas weiter zu sagen, legt [l_name] seine Hand um deinen wachsenden Schwanz und fährt mit den Fingerspitzen über die pulsierenden Adern"
+
+# game/day36.rpy:1531
+translate german day36_l_blowjob_2bc673f7:
+
+    # "{i}Her touch alone is enough to make you rock-hard, and you bury your head in her breasts in eager anticipation."
+    "{i}Ihre Berührung allein reicht aus, um dich steinhart zu machen und du vergräbst deinen Kopf in begieriger Erwartung in ihren Brüsten."
+# game/day36.rpy:1533
+translate german day36_l_blowjob_fc8508ce:
+
+    # "{i}At that point, [l_name] does something unexpected by positioning her body so that her head is very near your dick."
+    "{i}In diesem Moment macht [l_name] etwas Unerwartetes, indem sie ihren Körper so positioniert, dass ihr Kopf ganz nah an deinem Schwanz ist."
+# game/day36.rpy:1534
+translate german day36_l_blowjob_23992067:
+
+    # l "Is it better when I use my mouth instead of my hands?"
+    l "Ist es besser, wenn ich meinen Mund statt meiner Hände benutze?"
+
+# game/day36.rpy:1535
+translate german day36_l_blowjob_c0fae0d5:
+
+    # "{i}[l_name] speech is still slightly slurred, but the sexual energy has given her more determination than before."
+    "{i}[l_name] spricht immer noch etwas undeutlich, aber die sexuelle Energie hat ihr mehr Entschlossenheit verliehen als zuvor."
+
+# game/day36.rpy:1536
+translate german day36_l_blowjob_c5250ec4:
+
+    # p "Yes..."
+    p "Ja"
+
+# game/day36.rpy:1537
+translate german day36_l_blowjob_d72fb300:
+
+    # l "I'd really like to try."
+    l "Ich würde es wirklich gerne versuchen"
+
+# game/day36.rpy:1543
+translate german day36_l_blowjob_4b4f4590:
+
+    # "{i}Not waiting on further encouragement, [l_name] prods your glans with the tip of her tongue."
+    "{i}Ohne auf weitere Ermunterung zu warten, stupst [l_name] deine Eichel mit der Zungenspitze an."
+# game/day36.rpy:1544
+translate german day36_l_blowjob_4160e029:
+
+    # "{i}She then proceeds to lick the entire head, firing all the nerve endings and making you gasp under her control."
+    "{i}Dann leckt sie den ganzen Kopf und feuert alle Nervenenden an, so dass du unter ihrer Kontrolle nach Luft schnappst."
+
+# game/day36.rpy:1545
+translate german day36_l_blowjob_7bf00fe8:
+
+    # "{i}You think you could cum from that stimulation alone, but [l_name] is already opening her mouth to invite your throbbing cock inside."
+    "{i}Du denkst, du könntest allein durch diese Stimulation abspritzen, aber [l_name] öffnet bereits ihren Mund, um deinen pochenden Schwanz einzuladen."
+# game/day36.rpy:1551
+translate german day36_l_blowjob_70dc081f:
+
+    # "{i}The feeling of her soft lips wrapping around your hard cock is amazing, as are the motions of her tongue over the head of your cock."
+    "{i}Das Gefühl ihrer weichen Lippen, die sich um deinen harten Schwanz legen, ist erstaunlich, ebenso wie die Bewegungen ihrer Zunge über die Spitze deines Schwanzes."
+
+# game/day36.rpy:1552
+translate german day36_l_blowjob_14a1e70d:
+
+    # "{i}[l_name] is clearly inexperienced, and when she starts to suck you properly, she has trouble controlling her gag reflex."
+    "{i}[l_name] ist eindeutig unerfahren und wenn sie anfängt, dich richtig zu saugen, hat sie Probleme, ihren Würgereflex zu kontrollieren"
+
+# game/day36.rpy:1553
+translate german day36_l_blowjob_d57a8d96:
+
+    # p "You're doing great baby!"
+    p "Du machst das toll, Baby!"
+
+# game/day36.rpy:1555
+translate german day36_l_blowjob_7b5ec7da:
+
+    # "{i}Despite her teeth brushing against your sensitive member from time to time, [l_name]'s blowjob is very pleasurable."
+    "{i}Obwohl ihre Zähne ab und zu über dein empfindliches Glied streichen, ist der Blowjob von [l_name] sehr angenehm"
+
+# game/day36.rpy:1556
+translate german day36_l_blowjob_f109dff8:
+
+    # "{i}The feeling of training an inexperienced mouth more than makes up for the occasional clumsy manoeuver."
+    "{i}Das Gefühl, einen unerfahrenen Mund zu trainieren, macht das eine oder andere ungeschickte Manöver mehr als wett."
+# game/day36.rpy:1561
+translate german day36_l_blowjob_625c9227:
+
+    # "{i}A little exhausted, [l_name] pauses her efforts."
+    "{i}Ein wenig erschöpft hält [l_name] in ihren Bemühungen inne."
+# game/day36.rpy:1562
+translate german day36_l_blowjob_d73077d3:
+
+    # l "Am I doing okay?"
+    l "Mache ich das gut?"
+
+# game/day36.rpy:1563
+translate german day36_l_blowjob_64e16b30:
+
+    # p "Quite."
+    p "Quite"
+
+# game/day36.rpy:1564
+translate german day36_l_blowjob_45ff7505:
+
+    # l "I'm not hurting you?"
+    l "Ich tue dir nicht weh?"
+
+# game/day36.rpy:1565
+translate german day36_l_blowjob_9e9e52ef:
+
+    # p "No, you're not, you're doing great, trust me."
+    p "Nein, du machst das toll, glaub mir"
+
+# game/day36.rpy:1566
+translate german day36_l_blowjob_b891e4dc:
+
+    # p "Just keep it covered in saliva and be wary of your teeth."
+    p "Einfach mit Speichel bedeckt halten und auf die Zähne aufpassen"
+
+# game/day36.rpy:1567
+translate german day36_l_blowjob_6067bdda:
+
+    # l "I will."
+    l "Ich werde"
+
+# game/day36.rpy:1568
+translate german day36_l_blowjob_183c34cd:
+
+    # l "Will you warn me when you're about to cum?"
+    l "Wirst du mich warnen, wenn du kurz davor bist, abzuspritzen?"
+
+# game/day36.rpy:1569
+translate german day36_l_blowjob_d8a3ffd9:
+
+    # p "Of course."
+    p "Natürlich"
+
+# game/day36.rpy:1574
+translate german day36_l_blowjob_de583bdb:
+
+    # "{i}With renewed energy, [l_name] goes down on you, feeling confident enough to massage your balls with her other hand."
+    "{i}Mit neuer Energie geht [l_name] auf dich los und fühlt sich sicher genug, um deine Eier mit ihrer anderen Hand zu massieren."
+
+# game/day36.rpy:1575
+translate german day36_l_blowjob_2f7ca07a:
+
+    # "{i}Her unsure glances become less frequent as she fully focuses on blowing you in a rhythm that doesn't make you last long."
+    "{i}Ihre unsicheren Blicke werden seltener, während sie sich voll und ganz darauf konzentriert, dir in einem Rhythmus einen zu blasen, der dich nicht lange durchhalten lässt."
+# game/day36.rpy:1576
+translate german day36_l_blowjob_d0096822:
+
+    # p "I'm nearly there baby."
+    p "Ich bin fast da, Baby"
+
+# game/day36.rpy:1577
+translate german day36_l_blowjob_d887ba44:
+
+    # "{i}[l_name] smiles and keeps sucking you until you attempt to push her away, but she doesn't let you."
+    "{i}[l_name] lächelt und saugt an dir, bis du versuchst, sie wegzuschieben, aber sie lässt dich nicht."
+# game/day36.rpy:1578
+translate german day36_l_blowjob_c1b9bbcf:
+
+    # p "I'm going to cum, [l_name]!"
+    p "Ich werde [l_name] abspritzen!"
+
+# game/day36.rpy:1579
+translate german day36_l_blowjob_690af96d:
+
+    # p "You might want to... aaaah!"
+    p "Du solltest vielleicht aaaah!"
+
+# game/day36.rpy:1583
+translate german day36_l_blowjob_ade7c46f:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your sister looks determined and wants to receive every last drop of warm cum."
+    "{i}Hilflos entlädst du dich in [l_name]'s Mund, deine Schwester sieht entschlossen aus und will jeden einzelnen Tropfen des warmen Spermas aufnehmen."
+
+# game/day36.rpy:1585
+translate german day36_l_blowjob_46f700e1:
+
+    # "{i}Helpless, you unload inside [l_name]'s mouth, your friend looks determined and wants to receive every last drop of warm cum."
+    "{i}Hilflos entlädst du dich in [l_name]'s Mund, dein Freund sieht entschlossen aus und will jeden einzelnen Tropfen seines warmen Spermas aufnehmen."
+
+# game/day36.rpy:1586
+translate german day36_l_blowjob_a4734eca:
+
+    # "{i}[l_name] treats your cock to a couple of last licks and then bravely swallows your entire load."
+    "{i}[l_name] verwöhnt deinen Schwanz mit ein paar letzten Lecken und schluckt dann tapfer deine ganze Ladung"
+
+# game/day36.rpy:1587
+translate german day36_l_blowjob_2a363f04:
+
+    # p "Why did you do that?"
+    p "Warum hast du das getan?"
+
+# game/day36.rpy:1588
+translate german day36_l_blowjob_092822c9:
+
+    # p "You asked me to warn you?"
+    p "Du hast mich gebeten, dich zu warnen?"
+
+# game/day36.rpy:1589
+translate german day36_l_blowjob_abd3af6f:
+
+    # l "Ssshh... No rules..."
+    l "Ssshh Keine Regeln"
+
+# game/day36.rpy:1595
+translate german day36_l_blowjob_22bb8206:
+
+    # "{i}While you're still enjoying the last waves of your orgasm, [l_name] moves to sit on your leg and keeps you firmly in your place."
+    "{i}Während du noch die letzten Wellen deines Orgasmus genießt, setzt sich [l_name] auf dein Bein und hält dich fest an deinem Platz"
+
+# game/day36.rpy:1596
+translate german day36_l_blowjob_30516eca:
+
+    # "{i}The moistness of her pussy is clearly noticeable on your bare skin and she starts making wet trails on your leg as she rubs herself on your leg."
+    "{i}Die Feuchtigkeit ihrer Muschi ist deutlich auf deiner nackten Haut zu spüren und sie beginnt, feuchte Spuren auf deinem Bein zu hinterlassen, während sie sich an deinem Bein reibt."
+
+# game/day36.rpy:1597
+translate german day36_l_blowjob_4019def0:
+
+    # l "I'm just your little ssslut."
+    l "Ich bin nur deine kleine Schlampe"
+

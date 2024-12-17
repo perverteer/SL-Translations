@@ -1370,3 +1370,119 @@ translate german strings:
     old "Continue"
     new "Weiter"
 
+# TODO: Translation updated at 2024-11-29 09:51
+
+translate german strings:
+
+    # renpy/common/00accessibility.rpy:121
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menü Zugänglichkeit. Verwenden Sie die Auf- und Abwärtspfeile zum Navigieren und die Eingabetaste, um Schaltflächen und Leisten zu aktivieren."
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new "Bei Verwendung eines Touchscreens ist die Unterstützung von Selbstgesprächen begrenzt."
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new "Passen Sie director.transforms an, um weitere Transformationen hinzuzufügen."
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new "Zum Einstellen anklicken."
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new "Passen Sie director.transitions an, um weitere Übergänge hinzuzufügen."
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new "Passen Sie director.audio_channels an, um weitere Kanäle hinzuzufügen."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "Sind Sie sicher, dass Sie dort weitermachen wollen, wo Sie aufgehört haben?"
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new "Selbststimmrecht aktivieren"
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new "Selbststimmrecht deaktivieren"
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new "Zwischenablage Intonation aktivieren"
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new "Zwischenablage Intonation deaktivieren"
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new "Debuggen der Sprachausgabe aktivieren"
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new "Debug-Voicing deaktivieren"
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new "Fensterposition wiederherstellen"
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new "reset"
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new "(klar zurückbehaltene Blasen)"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifizieren]."
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " übersetzt [tl.filename]:[tl.linenumber]"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}In die Zwischenablage kopiert.{/color}"
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new "Keine Aktualisierungsmethoden gefunden."
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new "Die Dateiliste konnte nicht heruntergeladen werden:"
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new "Dateilisten-Digest stimmt nicht überein."
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new "Vorbereiten des Downloads der Spieldaten."
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new "Herunterladen der Spieldaten."
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new "Die Spieldaten sind heruntergeladen worden."
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new "Beim Versuch, Spieldaten herunterzuladen, ist ein Fehler aufgetreten:"
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new "Das Spiel kann erst gestartet werden, wenn die Spieldaten heruntergeladen wurden."
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new "Wiederholung"
+

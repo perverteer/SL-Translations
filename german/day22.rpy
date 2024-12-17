@@ -4435,3 +4435,236 @@ translate german day22_b_sex_85cd77ff:
 
     # "{i}[b_name] undresses, and you admire her body as she peels off the layers of clothing she's wearing. You motion her to lie down on the bed and slip out of your clothes as well."
     "{i}[b_name] zieht sich aus und du bewunderst ihren Körper, während sie sich aus den Schichten ihrer Kleidung schält Du bittest sie, sich auf das Bett zu legen und schlüpfst auch aus deinen Kleidern."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day22.rpy:1198
+translate german day22_r_blowjob_93af388e:
+
+    # "{i}Your sister stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}Deine Schwester steht auf und geht auf die Büsche zu, wobei sie dir neckisch hinterherschaut."
+# game/day22.rpy:1200
+translate german day22_r_blowjob_f85a22a3:
+
+    # "{i}[r_name] stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}[r_name] steht auf und geht auf das Gebüsch zu, wobei sie dir neckisch hinterherschaut Du beschließt, ihr zu folgen"
+
+# game/day22.rpy:1202
+translate german day22_r_blowjob_626ba25f:
+
+    # r "This is the perfect spot. We can't be seen from here and still view our picnic spot, in case Alina and Ana come back."
+    r "Das ist der perfekte Ort. Von hier aus können wir nicht gesehen werden und trotzdem unseren Picknickplatz sehen, falls Alina und Ana zurückkommen."
+# game/day22.rpy:1203
+translate german day22_r_blowjob_d09abdf2:
+
+    # r "I thought we could have some fun here. Out in the open..."
+    r "Ich dachte, wir könnten hier unter freiem Himmel etwas Spaß haben"
+
+# game/day22.rpy:1204
+translate german day22_r_blowjob_2c842202:
+
+    # "{i}She stands close to you and her hand creeps inside your pants while she stares intently into your eyes."
+    "{i}Sie steht dicht vor dir und ihre Hand kriecht in deine Hose, während sie dir tief in die Augen schaut."
+# game/day22.rpy:1205
+translate german day22_r_blowjob_a2f1943d:
+
+    # r "I want to taste you, [p_name]."
+    r "Ich möchte dich [p_name] schmecken"
+
+# game/day22.rpy:1206
+translate german day22_r_blowjob_82d30f19:
+
+    # p "{i}(The girl wants cream after all.)"
+    p "{i}(Das Mädchen will doch Sahne)"
+
+# game/day22.rpy:1208
+translate german day22_r_blowjob_eb8e94d8:
+
+    # "{i}[r_name] drops to her knees before you while you lower your pants. Your erection nearly hits her face."
+    "{i}[r_name] fällt vor dir auf die Knie, während du deine Hose herunterlässt. Deine Erektion trifft fast ihr Gesicht."
+# game/day22.rpy:1209
+translate german day22_r_blowjob_f7599487:
+
+    # r "You don't waste time, do you?"
+    r "Sie verschwenden keine Zeit, oder?"
+
+# game/day22.rpy:1215
+translate german day22_r_blowjob_133a297e:
+
+    # "{i}The wind is softly caressing your cock, as your sister jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Der Wind streichelt sanft deinen Schwanz, während deine Schwester dir einen runterholt. Sie leckt an der Spitze deines Schwanzes und nimmt deinen Penis langsam in ihren warmen Mund."
+# game/day22.rpy:1217
+translate german day22_r_blowjob_0fb9bc52:
+
+    # "{i}The wind is softly caressing your cock, as [r_name] jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}Der Wind streichelt sanft deinen Schwanz, während [r_name] dir einen runterholt Sie leckt die Spitze deines Schwanzes und nimmt deinen Penis langsam in ihren warmen Mund"
+
+# game/day22.rpy:1218
+translate german day22_r_blowjob_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm"
+
+# game/day22.rpy:1219
+translate german day22_r_blowjob_83866ffe:
+
+    # p "God, [r_name], your mouth feels so good."
+    p "Gott [r_name] dein Mund fühlt sich so gut an"
+
+# game/day22.rpy:1221
+translate german day22_r_blowjob_6f1e2456:
+
+    # "{i}[r_name]'s head moves up and down, stimulating your shaft. When her tongue comes into play, licking the glans you cannot stifle a moan."
+    "{i}[r_name]'s head moves up and down stimulating your shaft When her tongue comes into play licking the glans you cannot suppress a moan"
+
+# game/day22.rpy:1222
+translate german day22_r_blowjob_bea680ab:
+
+    # "{i}The sight of [r_name] eagerly servicing your cock and the possibility of Ana and Alina returning any minute, greatly enhances the pleasure you receive from the blowjob."
+    "{i}Der Anblick von [r_name], der deinen Schwanz eifrig bedient, und die Möglichkeit, dass Ana und Alina jeden Moment zurückkommen, steigert das Vergnügen, das du beim Blasen empfindest, erheblich."
+# game/day22.rpy:1224
+translate german day22_r_blowjob_013e40ec:
+
+    # "{i}Precum is already leaking into [r_name]'s mouth and she moans with approval. Her eyes are closed, completely focused on sucking the cum out of your hard dick."
+    "{i}Das Sperma läuft bereits in [r_name]'s Mund und sie stöhnt zustimmend. Ihre Augen sind geschlossen und sie ist ganz darauf konzentriert, das Sperma aus deinem harten Schwanz zu saugen."
+# game/day22.rpy:1225
+translate german day22_r_blowjob_d4ca7b4e:
+
+    # p "Aaah, keep going, [r_name]!"
+    p "Aaah mach weiter [r_name]!"
+
+# game/day22.rpy:1226
+translate german day22_r_blowjob_f85a0094:
+
+    # r "Nearly there, baby?"
+    r "Bist du bald da, Baby?"
+
+# game/day22.rpy:1227
+translate german day22_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "J-J-Ja!"
+
+# game/day22.rpy:1228
+translate german day22_r_blowjob_54922265:
+
+    # "{i}Drool is starting to leak from the corners of [r_name]'s mouth, making a wet mess on her chest. She slurps and sucks on your cock, her swirling tongue everywhere."
+    "{i}Sabber läuft aus den Mundwinkeln von [r_name] und hinterlässt eine nasse Sauerei auf ihrer Brust Sie schlürft und saugt an deinem Schwanz, ihre Zunge wirbelt überall herum"
+
+# game/day22.rpy:1229
+translate german day22_r_blowjob_0f7ec75a:
+
+    # r "Cum in my mouth, baby, I want it all!"
+    r "Sperma in meinem Mund Baby ich will alles!"
+
+# game/day22.rpy:1232
+translate german day22_r_blowjob_a06994e6:
+
+    # "{i}Her eyes widen when your cock discharges deep into her mouth. She has to swallow most of your semen to keep sucking on your dick."
+    "{i}Ihre Augen weiten sich, wenn sich dein Schwanz tief in ihrem Mund entlädt. Sie muss den Großteil deines Spermas schlucken, um weiter an deinem Schwanz zu saugen."
+# game/day22.rpy:1233
+translate german day22_r_blowjob_9ad1f8d3:
+
+    # p "Aaaah, fuck, [r_name]! You're so good!"
+    p "Aaaah fuck [r_name]! Du bist so gut!"
+
+# game/day22.rpy:1234
+translate german day22_r_blowjob_b1f301f8:
+
+    # "{i}Her happy eyes look up at you as she sucks and licks the last remnants of your ejaculate from the length of your cock. She clearly doesn't want to waste your sperm."
+    "{i}Ihre glücklichen Augen blicken zu dir auf, während sie die letzten Reste deines Ejakulats von der Länge deines Schwanzes saugt und leckt. Sie will eindeutig dein Sperma nicht verschwenden"
+
+# game/day22.rpy:1239
+translate german day22_r_blowjob_399cafdb:
+
+    # r "How was that?"
+    r "Wie war das?"
+
+# game/day22.rpy:1240
+translate german day22_r_blowjob_8d271fce:
+
+    # p "You're such a dirty girl, I love it!"
+    p "Du bist so ein schmutziges Mädchen, ich liebe es!"
+
+# game/day22.rpy:1241
+translate german day22_r_blowjob_b561991c:
+
+    # r "Hehe, thanks!"
+    r "Hehe, danke!"
+
+# game/day22.rpy:1242
+translate german day22_r_blowjob_2b629fcb:
+
+    # p "Shit! I think Alina and Ana are coming back."
+    p "Scheiße! Ich glaube, Alina und Ana kommen zurück."
+# game/day22.rpy:1250
+translate german day22_r_blowjob_8d114cfb:
+
+    # r "Fuck."
+    r "Fuck"
+
+# game/day22.rpy:1251
+translate german day22_r_blowjob_2313a99a:
+
+    # p "We have to think of an excuse."
+    p "Wir müssen uns eine Ausrede einfallen lassen"
+
+# game/day22.rpy:1252
+translate german day22_r_blowjob_cc28141b:
+
+    # r "Do I look decent?"
+    r "Sehe ich anständig aus?"
+
+# game/day22.rpy:1253
+translate german day22_r_blowjob_bbb8d175:
+
+    # "{i}You remove a little bit of your cum from the corner of her mouth and kiss her."
+    "{i}Du nimmst etwas von deinem Sperma aus ihrem Mundwinkel und küsst sie"
+
+# game/day22.rpy:1254
+translate german day22_r_blowjob_947316a5:
+
+    # p "You always look decent, even with cum on your face."
+    p "Du siehst immer anständig aus, auch wenn du Sperma im Gesicht hast"
+
+# game/day22.rpy:1256
+translate german day22_r_blowjob_c48ca465:
+
+    # a "There they are!"
+    a "Da sind sie!"
+
+# game/day22.rpy:1257
+translate german day22_r_blowjob_56ede805:
+
+    # al "Where were you guys?"
+    al "Wo wart ihr denn?"
+
+# game/day22.rpy:1258
+translate german day22_r_blowjob_e24e5416:
+
+    # p "We were looking for the toilets."
+    p "Wir haben die Toiletten gesucht"
+
+# game/day22.rpy:1259
+translate german day22_r_blowjob_f53ec246:
+
+    # a "They're completely the other way."
+    a "Sie sind komplett andersherum"
+
+# game/day22.rpy:1260
+translate german day22_r_blowjob_d7f0b9d7:
+
+    # r "Shit, I told you so."
+    r "Scheiße, ich hab's ja gesagt"
+
+# game/day22.rpy:1261
+translate german day22_r_blowjob_1bf6814e:
+
+    # r "I have to go. Won't be long!"
+    r "Ich muss gehen. Dauert nicht lange!"
+
+# game/day22.rpy:1262
+translate german day22_r_blowjob_afd369af:
+
+    # p "{i}(All things considered, [r_name] is a pretty great actress.)"
+    p "{i}(Alles in allem ist [r_name] eine ziemlich gute Schauspielerin)"
+

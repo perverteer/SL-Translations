@@ -2884,8 +2884,7 @@ translate german day21_evening_choices_cf857332:
 translate german day21_evening_choices_16b9dbf3:
 
     # "{i}When everybody has gone to sleep, you sneak to [r_name]'s room."
-    "{i}Wenn alle schlafen gegangen sind, schleichst du dich in [
-[r_name]s Zimmer."
+    "{i}Wenn alle schlafen gegangen sind, schleichst du dich in [r_name]'s Zimmer."
 
 # game/day21.rpy:734
 translate german day21_evening_choices_183f3c2a:
@@ -4297,3 +4296,2349 @@ translate german day21_choices_96e28405:
 
     # p "Back when I lived at my dad's, I had a thing with an older woman."
     p "Als ich noch bei meinem Vater wohnte, hatte ich eine Affäre mit einer älteren Frau."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day21.rpy:460
+translate german day21_b_gym_sex_144886ec:
+
+    # "{i}[b_name] knocks on your door after a while, and you both walk to the gym, chatting the whole way."
+    "{i}[b_name] klopft nach einer Weile an deine Tür und ihr beide geht ins Fitnessstudio und unterhaltet euch die ganze Zeit"
+
+# game/day21.rpy:462
+translate german day21_b_gym_sex_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "Hier findet also die Magie statt?"
+
+# game/day21.rpy:463
+translate german day21_b_gym_sex_668676f8:
+
+    # b "Hehe, just know it's going to be boring. Just exercises."
+    b "Hehe, ich weiß nur, dass es langweilig sein wird. Einfach Übungen"
+
+# game/day21.rpy:464
+translate german day21_b_gym_sex_b80def4c:
+
+    # p "Watching a beautiful girl working up a sweat for me can't be boring."
+    p "Einem schönen Mädchen dabei zuzusehen, wie es für mich schwitzt, kann nicht langweilig sein"
+
+# game/day21.rpy:465
+translate german day21_b_gym_sex_e3b0b618:
+
+    # b "Ah, you think I'm doing this all for you?"
+    b "Ach, du denkst, ich mache das alles für dich?"
+
+# game/day21.rpy:466
+translate german day21_b_gym_sex_f151c2f9:
+
+    # p "What, you don't?!"
+    p "Was hast du nicht?!"
+
+# game/day21.rpy:468
+translate german day21_b_gym_sex_b0c9fd8a:
+
+    # b "Haha, you're such a dork sometimes."
+    b "Haha, du bist manchmal so ein Trottel"
+
+# game/day21.rpy:469
+translate german day21_b_gym_sex_d8ad1d4b:
+
+    # p "It's one of my many fine qualities."
+    p "Das ist eine meiner vielen guten Eigenschaften"
+
+# game/day21.rpy:471
+translate german day21_b_gym_sex_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] fängt an, was wohl ihre regelmäßige Routine ist. Zuerst ist sie aufmerksam auf deine Anwesenheit, aber schon bald ist sie in die körperlichen Übungen vertieft."
+# game/day21.rpy:472
+translate german day21_b_gym_sex_b1847037:
+
+    # p "{i}(Hot damn. What a girl!)"
+    p "{i}(Verdammt, was für ein Mädchen!)"
+
+# game/day21.rpy:475
+translate german day21_b_gym_sex_4f819c57:
+
+    # "{i}Your sister clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}Deine Schwester hat offensichtlich ein strenges Trainingsprogramm und schont sich nicht, ihr Körper ist schweißbedeckt."
+
+# game/day21.rpy:477
+translate german day21_b_gym_sex_ed9f41ab:
+
+    # "{i}[b_name] clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] hat offensichtlich ein strenges Trainingsprogramm und schont sich nicht, ihr Körper ist schweißbedeckt"
+
+# game/day21.rpy:478
+translate german day21_b_gym_sex_e528c206:
+
+    # p "{i}(She sure has stamina, look at her going at it.)"
+    p "{i}(Sie hat wirklich Ausdauer, sieh sie dir an)"
+
+# game/day21.rpy:479
+translate german day21_b_gym_sex_2ace204e:
+
+    # p "Would you like a drink, [b_name]?"
+    p "Möchten Sie einen Drink [b_name]?"
+
+# game/day21.rpy:480
+translate german day21_b_gym_sex_aba98715:
+
+    # "{i}You hand her a bottle of cold water."
+    "{i}Du gibst ihr eine Flasche kaltes Wasser"
+
+# game/day21.rpy:485
+translate german day21_b_gym_sex_9d41dd47:
+
+    # b "Thank you! Just what I needed."
+    b "Danke! Genau das, was ich brauchte"
+
+# game/day21.rpy:486
+translate german day21_b_gym_sex_770959f4:
+
+    # b "Could you lend me a hand with these next few exercises?"
+    b "Könntest du mir bei den nächsten Übungen zur Hand gehen?"
+
+# game/day21.rpy:487
+translate german day21_b_gym_sex_a3d4cf4f:
+
+    # p "Sure thing."
+    p "Klar doch"
+
+# game/day21.rpy:488
+translate german day21_b_gym_sex_01bd4b87:
+
+    # "{i}[b_name] walks to a more secluded corner of the gym. You don't see any specific workout equipment you could use together."
+    "{i}[b_name] geht in eine abgelegenere Ecke der Turnhalle Sie sehen keine speziellen Trainingsgeräte, die Sie gemeinsam benutzen könnten"
+
+# game/day21.rpy:489
+translate german day21_b_gym_sex_bef5a181:
+
+    # p "What would you like me to do?"
+    p "Was soll ich tun?"
+
+# game/day21.rpy:490
+translate german day21_b_gym_sex_ce89ea26:
+
+    # b "Kiss me. Hard."
+    b "Küss mich hart"
+
+# game/day21.rpy:491
+translate german day21_b_gym_sex_5c041ffd:
+
+    # p "We're going to train those muscles?"
+    p "Wir werden diese Muskeln trainieren?"
+
+# game/day21.rpy:492
+translate german day21_b_gym_sex_c80d3399:
+
+    # b "[p_name]... Why aren't you kissing me already?"
+    b "[p_name] Warum küsst du mich nicht schon?"
+
+# game/day21.rpy:493
+translate german day21_b_gym_sex_71651c93:
+
+    # p "Right!"
+    p "Richtig!"
+
+# game/day21.rpy:495
+translate german day21_b_gym_sex_a6bdc4b0:
+
+    # "{i}Within moments you're in a tight embrace and kiss her lips, still cold from the water she just drank."
+    "{i}In wenigen Augenblicken bist du in einer engen Umarmung und küsst ihre Lippen, die noch kalt sind von dem Wasser, das sie gerade getrunken hat."
+# game/day21.rpy:496
+translate german day21_b_gym_sex_6aef8b85:
+
+    # "{i}Being this close to her arouses all those wild feelings you have for her in an instant, despite being surrounded by other people working out."
+    "{i}Ihr so nahe zu sein, weckt in einem Augenblick all die wilden Gefühle, die man für sie hat, obwohl man von anderen Menschen umgeben ist, die trainieren."
+# game/day21.rpy:497
+translate german day21_b_gym_sex_bdb94b53:
+
+    # b "Mmmmm. Just what I needed."
+    b "Mmmmm genau das, was ich brauchte"
+
+# game/day21.rpy:498
+translate german day21_b_gym_sex_e4f43b25:
+
+    # p "I just can't stop looking at you."
+    p "Ich kann einfach nicht aufhören, dich anzusehen"
+
+# game/day21.rpy:499
+translate german day21_b_gym_sex_346133e7:
+
+    # b "You're not making it easy for me either. Normally I would've done over forty squats."
+    b "Du machst es mir auch nicht leicht Normalerweise hätte ich über vierzig Kniebeugen gemacht"
+
+# game/day21.rpy:500
+translate german day21_b_gym_sex_6d5267bc:
+
+    # p "So you'll grow fat and lazy because I'm distracting you?"
+    p "Du wirst also fett und faul werden, weil ich dich ablenke?"
+
+# game/day21.rpy:502
+translate german day21_b_gym_sex_6663db28:
+
+    # b "And old, don't forget old."
+    b "Und die Alten vergessen die Alten nicht"
+
+# game/day21.rpy:503
+translate german day21_b_gym_sex_30e929d1:
+
+    # p "We'd better train those tongue muscles again for good measure."
+    p "Wir sollten die Zungenmuskeln zur Sicherheit noch einmal trainieren"
+
+# game/day21.rpy:504
+translate german day21_b_gym_sex_ea8c1349:
+
+    # b "Good idea."
+    b "Gute Idee"
+
+# game/day21.rpy:507
+translate german day21_b_gym_sex_8eac1a57:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and your sister moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}Deine Zunge erforscht die Grenzen ihres warmen Mundes und deine Schwester stöhnt, als du an ihrer Zungenspitze saugst. Ihr Oberschenkel drückt gegen deinen Schritt, wo eine Erektion schnell wächst."
+
+# game/day21.rpy:509
+translate german day21_b_gym_sex_47d65306:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and she moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}Deine Zunge erforscht die Grenzen ihres warmen Mundes und sie stöhnt, als du an ihrer Zungenspitze saugst. Ihr Oberschenkel drückt gegen deinen Schritt, wo eine Erektion schnell wächst."
+# game/day21.rpy:519
+translate german day21_b_gym_sex_6756e9e3:
+
+    # "{i}Without thinking, you trace the curve of her body with your hands until arriving at her sports shorts. You can't help yourself, and one of your hands slips inside. [b_name] gasps but doesn't stop you, as she's too focused on kissing you."
+    "{i}Ohne nachzudenken, fährst du mit deinen Händen die Kurven ihres Körpers nach, bis du bei ihren Sportshorts ankommst Du kannst nicht anders und eine deiner Hände gleitet in sie hinein [b_name] keucht, hält dich aber nicht auf, da sie zu sehr darauf konzentriert ist, dich zu küssen"
+
+# game/day21.rpy:520
+translate german day21_b_gym_sex_9dffafa2:
+
+    # b "Mmmmmm..."
+    b "Mmmmmm"
+
+# game/day21.rpy:522
+translate german day21_b_gym_sex_f45f6368:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, your sister softly moans."
+    "{i}Deine Finger erforschen ihr Schambein und wandern hinunter zu ihrem Geschlecht Ihre Haut ist schweißnass und warm, aber als du an ihrem engen Schlitz ankommst, glaubst du, dass ihre Nässe von etwas anderem herrührt als nur von Schweiß Wenn du ihre Schamlippen berührst, stöhnt deine Schwester leise."
+# game/day21.rpy:524
+translate german day21_b_gym_sex_6261ed4d:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, [b_name] softly moans."
+    "{i}Deine Finger erforschen ihre Scham und wandern hinunter zu ihrem Geschlecht Ihre Haut ist schweißnass und warm, doch als du an ihrem engen Schlitz ankommst, glaubst du, dass ihre Nässe von etwas anderem herrührt als nur von Schweiß Wenn du ihre Schamlippen berührst, stöhnt [b_name] leise auf"
+
+# game/day21.rpy:525
+translate german day21_b_gym_sex_828887ce:
+
+    # b "W-we shouldn't... not here... all these people..."
+    b "Wir sollten nicht alle diese Leute hier haben"
+
+# game/day21.rpy:530
+translate german day21_b_gym_sex_9ab270c8:
+
+    # "{i}Her half-hearted objection trails off in a whisper and she begins to gently grind her body back and forth against your hand to further stimulate her pussy."
+    "{i}Ihr halbherziger Einwand endet in einem Flüstern, und sie beginnt, ihren Körper sanft an deiner Hand hin und her zu reiben, um ihre Muschi weiter zu stimulieren."
+# game/day21.rpy:531
+translate german day21_b_gym_sex_4ef4b90b:
+
+    # p "I want you so bad!"
+    p "Ich will dich so sehr!"
+
+# game/day21.rpy:532
+translate german day21_b_gym_sex_d6cb7822:
+
+    # b "Y-yes... I'm yours... A-all yours."
+    b "J-ja, ich gehöre dir, ganz dir"
+
+# game/day21.rpy:533
+translate german day21_b_gym_sex_b4d7e83b:
+
+    # "{i}After a quick look around the gym, you see that nobody is watching you and decide to go a little further. One finger slips inside her cunny, and you slowly massage her clit with your thumb."
+    "{i}Nach einem kurzen Blick in die Turnhalle siehst du, dass dich niemand beobachtet und beschließt, noch ein bisschen weiter zu gehen. Ein Finger gleitet in ihre Muschi und du massierst langsam ihren Kitzler mit deinem Daumen."
+# game/day21.rpy:534
+translate german day21_b_gym_sex_34f81256:
+
+    # b "G-god..."
+    b "G-Gott"
+
+# game/day21.rpy:536
+translate german day21_b_gym_sex_121be70c:
+
+    # "{i}[b_name] is trembling and breathing heavily into your ear as you rub her little button and penetrate her with your fingers. Her juices flow freely and soak the lining of her pants. She's already close to cumming."
+    "{i}[b_name] zittert und atmet schwer in dein Ohr, während du ihren kleinen Knopf reibst und mit deinen Fingern in sie eindringst Ihre Säfte fließen ungehindert und tränken das Futter ihrer Hose Sie ist bereits kurz davor zu kommen"
+
+# game/day21.rpy:541
+translate german day21_b_gym_sex_f203a078:
+
+    # b "Keep going.... Aaah... don't stop!"
+    b "Mach weiter, Aaah, nicht aufhören!"
+
+# game/day21.rpy:544
+translate german day21_b_gym_sex_d12bed83:
+
+    # "{i}With clenched teeth, [b_name] orgasms. She buries her face in your chest and lets out a muffled moan as you hold her trembling body."
+    "{i}Mit zusammengebissenen Zähnen kommt [b_name] zum Orgasmus Sie vergräbt ihr Gesicht in deiner Brust und stöhnt gedämpft auf, während du ihren zitternden Körper hältst"
+
+# game/day21.rpy:545
+translate german day21_b_gym_sex_9f639178:
+
+    # b "F-f-fuuu... Mmmmmm...."
+    b "F-f-fuuu Mmmmmm"
+
+# game/day21.rpy:556
+translate german day21_b_gym_sex_bf73b465:
+
+    # man "Hey, everything all right, [b_name]?"
+    man "Hey, alles in Ordnung [b_name]?"
+
+# game/day21.rpy:557
+translate german day21_b_gym_sex_721b1e4e:
+
+    # p "{i}(Jesus Christ... Where did this walking muscle come from all of a sudden?)"
+    p "{i}(Mein Gott, woher kommt denn plötzlich dieser Laufmuskel?)"
+
+# game/day21.rpy:558
+translate german day21_b_gym_sex_b53302e1:
+
+    # b "What? Oh... No... Everything is fine, Jake."
+    b "Was? Oh nein, es ist alles in Ordnung Jake"
+
+# game/day21.rpy:559
+translate german day21_b_gym_sex_67d25e44:
+
+    # man "Really, it looked like you were crying."
+    man "Es sah wirklich so aus, als würdest du weinen"
+
+# game/day21.rpy:560
+translate german day21_b_gym_sex_abec0156:
+
+    # b "Crying? Hahahaha! No."
+    b "Weinen? Hahahaha! Nein"
+
+# game/day21.rpy:561
+translate german day21_b_gym_sex_15832199:
+
+    # b "Err... That is... My boyfriend just wanted a kiss and told me something really funny..."
+    b "Err Das ist mein Freund wollte nur einen Kuss und hat mir etwas sehr lustiges erzählt"
+
+# game/day21.rpy:562
+translate german day21_b_gym_sex_6d909fa8:
+
+    # p "{i}(Boyfriend? I really like the sound of that.)"
+    p "{i}(Freund? Das klingt wirklich gut)"
+
+# game/day21.rpy:563
+translate german day21_b_gym_sex_2b0d0ebf:
+
+    # man "Your boyfriend? That's new. Good for you."
+    man "Dein Freund? Das ist neu Gut für dich"
+
+# game/day21.rpy:564
+translate german day21_b_gym_sex_33d08722:
+
+    # b "Very new..."
+    b "Ganz neu"
+
+# game/day21.rpy:565
+translate german day21_b_gym_sex_a51001c0:
+
+    # b "Jake, meet [p_name]."
+    b "Jake trifft [p_name]"
+
+# game/day21.rpy:566
+translate german day21_b_gym_sex_77336608:
+
+    # man "Hi [p_name], good to meet you."
+    man "Hallo [p_name], freut mich, Sie kennenzulernen"
+
+# game/day21.rpy:567
+translate german day21_b_gym_sex_f12f3823:
+
+    # p "Likewise."
+    p "Ebenso"
+
+# game/day21.rpy:569
+translate german day21_b_gym_sex_1c9cae75:
+
+    # man "Funny, I thought you told me you had a brother named [p_name]."
+    man "Komisch, ich dachte, du hättest mir gesagt, du hättest einen Bruder namens [p_name]"
+
+# game/day21.rpy:571
+translate german day21_b_gym_sex_e56068d3:
+
+    # man "Funny, I thought you told me you had a roommate named [p_name]."
+    man "Komisch, ich dachte, du hättest mir gesagt, du hättest einen Mitbewohner namens [p_name]."
+
+# game/day21.rpy:572
+translate german day21_b_gym_sex_2a2fdc6d:
+
+    # p "{i}(Fuck...)"
+    p "{i}(Fuck)"
+
+# game/day21.rpy:573
+translate german day21_b_gym_sex_99bc9865:
+
+    # b "I did... I do... I... What a coincidence, right?!"
+    b "Ich habe es getan. Was für ein Zufall, nicht wahr?!"
+
+# game/day21.rpy:574
+translate german day21_b_gym_sex_d38275bc:
+
+    # man "Yeah, I also remember you said he was a total cunt, so it's nice you found a [p_name], who isn't!"
+    man "Ja, ich erinnere mich auch daran, dass du gesagt hast, er sei eine totale Fotze, also ist es schön, dass du einen [p_name] gefunden hast, der das nicht ist!"
+
+# game/day21.rpy:575
+translate german day21_b_gym_sex_24c008e3:
+
+    # b "Hahaha! It sure is."
+    b "Hahaha! Das ist es wirklich"
+
+# game/day21.rpy:576
+translate german day21_b_gym_sex_90285634:
+
+    # man "Well, I'll let you go back to working out."
+    man "Dann lasse ich Sie jetzt wieder trainieren."
+# game/day21.rpy:577
+translate german day21_b_gym_sex_9ee609ae:
+
+    # b "Thanks Jake, be seeing you."
+    b "Danke Jake, wir sehen uns"
+
+# game/day21.rpy:578
+translate german day21_b_gym_sex_abfe29d7:
+
+    # p "Later, Jake."
+    p "Later Jake"
+
+# game/day21.rpy:580
+translate german day21_b_gym_sex_712f81ec:
+
+    # p "A total cunt?"
+    p "Eine totale Fotze?"
+
+# game/day21.rpy:581
+translate german day21_b_gym_sex_fe00d6cb:
+
+    # b "Yes... well... You know how things were a while back."
+    b "Ja, du weißt ja, wie es vor einiger Zeit war"
+
+# game/day21.rpy:586
+translate german day21_b_gym_sex_a459634b:
+
+    # p "I know and I understand. I like the current situation better."
+    p "Ich weiß und ich verstehe, dass mir die jetzige Situation besser gefällt"
+
+# game/day21.rpy:588
+translate german day21_b_gym_sex_26cf29e0:
+
+    # b "Me too!"
+    b "Ich auch!"
+
+# game/day21.rpy:591
+translate german day21_b_gym_sex_01e4c0fc:
+
+    # p "Yeah, but I'm a little disappointed that you blabbered about it to everyone, even strangers."
+    p "Ja, aber ich bin ein bisschen enttäuscht, dass du es jedem, auch Fremden, verraten hast."
+# game/day21.rpy:592
+translate german day21_b_gym_sex_5a6712b4:
+
+    # b "Jake is not really a stranger. He's the owner of the gym."
+    b "Jake ist kein Fremder, er ist der Besitzer des Fitnessstudios"
+
+# game/day21.rpy:593
+translate german day21_b_gym_sex_5482603c:
+
+    # p "Same difference."
+    p "Gleicher Unterschied"
+
+# game/day21.rpy:594
+translate german day21_b_gym_sex_d817793f:
+
+    # b "All right, I'm sorry, okay?"
+    b "In Ordnung, es tut mir leid, okay?"
+
+# game/day21.rpy:595
+translate german day21_b_gym_sex_597a0cab:
+
+    # p "Thank you, that means a lot."
+    p "Danke, das bedeutet mir viel"
+
+# game/day21.rpy:596
+translate german day21_b_gym_sex_e373cc95:
+
+    # b "That was close..."
+    b "Das war knapp"
+
+# game/day21.rpy:597
+translate german day21_b_gym_sex_2173159d:
+
+    # p "Do you think he knew what we were doing?"
+    p "Meinst du, er wusste, was wir tun?"
+
+# game/day21.rpy:598
+translate german day21_b_gym_sex_7c89abfd:
+
+    # b "He has his suspicions, I think."
+    b "Er hat einen Verdacht, glaube ich"
+
+# game/day21.rpy:599
+translate german day21_b_gym_sex_d5882690:
+
+    # p "So, no chance of you jerking me off right now?"
+    p "Also keine Chance, dass du mir jetzt einen runterholst?"
+
+# game/day21.rpy:600
+translate german day21_b_gym_sex_ef85b22b:
+
+    # b "What?! Here?"
+    b "Was?! Hier?"
+
+# game/day21.rpy:601
+translate german day21_b_gym_sex_1e48aeba:
+
+    # p "Just kidding. Though I do have a raging boner right now."
+    p "War nur ein Scherz, obwohl ich gerade einen rasenden Ständer habe"
+
+# game/day21.rpy:602
+translate german day21_b_gym_sex_35cb0dc2:
+
+    # b "Sorry."
+    b "Entschuldigung"
+
+# game/day21.rpy:603
+translate german day21_b_gym_sex_14437da3:
+
+    # p "Don't be, you just have that effect on me."
+    p "Das musst du nicht sein, du hast diese Wirkung auf mich"
+
+# game/day21.rpy:606
+translate german day21_b_gym_sex_c5a8fed4:
+
+    # "{i}Although you don't really want to, you stop kissing and release her from your embrace."
+    "{i}Auch wenn du es nicht wirklich willst, hörst du auf, sie zu küssen und löst sie aus deiner Umarmung."
+
+# game/day21.rpy:607
+translate german day21_b_gym_sex_275e1a19:
+
+    # p "Working out..."
+    p "Ausarbeitung"
+
+# game/day21.rpy:608
+translate german day21_b_gym_sex_b2e91cce:
+
+    # b "Right. Yes. Very important."
+    b "Richtig Ja Sehr wichtig"
+
+# game/day21.rpy:618
+translate german day21_b_gym_sex_sub_c02de978:
+
+    # "{i}After a while [b_name] leaves her room and heads out to the gym. You follow her and walk with her, but she tries to ignore you the entire way."
+    "{i}Nach einer Weile verlässt [b_name] ihr Zimmer und geht in die Turnhalle. Du folgst ihr und gehst mit ihr, aber sie versucht, dich den ganzen Weg über zu ignorieren."
+# game/day21.rpy:622
+translate german day21_b_gym_sex_sub_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "Hier findet also die Magie statt?"
+
+# game/day21.rpy:623
+translate german day21_b_gym_sex_sub_a4a598e3:
+
+    # b "This where I work out, yes. On my own, without any 'help'..."
+    b "Hier trainiere ich ja alleine ohne 'Hilfe'"
+
+# game/day21.rpy:624
+translate german day21_b_gym_sex_sub_7c7a216e:
+
+    # p "Come on [b_name], you know I can help you reach new heights, the past few days must have proven that at least."
+    p "Komm schon [b_name], du weißt, dass ich dir helfen kann, neue Höhen zu erreichen, die letzten Tage haben das zumindest bewiesen."
+# game/day21.rpy:625
+translate german day21_b_gym_sex_sub_8d57bbe6:
+
+    # b "You're so bad at innuendo, you know that?"
+    b "Du bist so schlecht in Anspielungen, weißt du das?"
+
+# game/day21.rpy:626
+translate german day21_b_gym_sex_sub_43bbbeed:
+
+    # p "I personally think it's one of my stronger talents."
+    p "Ich persönlich halte das für eine meiner stärksten Begabungen"
+
+# game/day21.rpy:627
+translate german day21_b_gym_sex_sub_822213e0:
+
+    # b "Well. Aren't you going to grope me in public or something?"
+    b "Willst du mich nicht in der Öffentlichkeit begrapschen oder so?"
+
+# game/day21.rpy:628
+translate german day21_b_gym_sex_sub_85022ff7:
+
+    # p "Now now, do you think I'm that blunt? Just do your thing. I enjoy watching you."
+    p "Glaubst du etwa, ich bin so stumpf? Mach einfach dein Ding, es macht mir Spaß, dir zuzusehen."
+# game/day21.rpy:630
+translate german day21_b_gym_sex_sub_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] beginnt mit dem, was wohl ihre regelmäßige Routine ist. Zuerst ist sie aufmerksam, aber schon bald ist sie in die körperlichen Übungen vertieft."
+# game/day21.rpy:631
+translate german day21_b_gym_sex_sub_f7510cab:
+
+    # p "{i}(Hot damn. One of these days she should be doing those squats on my cock.)"
+    p "{i}(Verdammt, eines Tages sollte sie diese Kniebeugen auf meinem Schwanz machen)"
+
+# game/day21.rpy:634
+translate german day21_b_gym_sex_sub_65f33abb:
+
+    # "{i}Your sister clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}Deine Schwester hat offensichtlich ein strenges Trainingsregiment und schont sich nicht, ihr Körper ist schweißbedeckt."
+
+# game/day21.rpy:636
+translate german day21_b_gym_sex_sub_5984f925:
+
+    # "{i}[b_name] clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] hat offensichtlich ein strenges Trainingsregiment und schont sich nicht, ihr Körper ist schweißbedeckt"
+
+# game/day21.rpy:637
+translate german day21_b_gym_sex_sub_8f5eb655:
+
+    # p "{i}(That girl sure has stamina, good to know...)"
+    p "{i}(Das Mädchen hat wirklich Ausdauer, gut zu wissen)"
+
+# game/day21.rpy:638
+translate german day21_b_gym_sex_sub_7f11eca3:
+
+    # p "Hey [b_name], let's go over there. I'll help you train."
+    p "Hey [b_name] lass uns da rüber gehen, ich helfe dir beim Training"
+
+# game/day21.rpy:639
+translate german day21_b_gym_sex_sub_d08b33d2:
+
+    # b "Can't you see I'm busy?"
+    b "Siehst du nicht, dass ich beschäftigt bin?"
+
+# game/day21.rpy:640
+translate german day21_b_gym_sex_sub_38b6b876:
+
+    # p "No, you're done here. Come with me."
+    p "Nein, du bist hier fertig Komm mit mir"
+
+# game/day21.rpy:642
+translate german day21_b_gym_sex_sub_e9742a76:
+
+    # "{i}As you 'help' [b_name] with the exercising, your hands explore the tight fabric of her top. You massage her breasts and linger around her hard nipples. Her measured breathing suddenly falters, and she begins to squirm."
+    "{i}Während du [b_name] bei der Übung 'hilfst', erkunden deine Hände den engen Stoff ihres Oberteils Du massierst ihre Brüste und verweilst um ihre harten Brustwarzen Ihr gemessener Atem stockt plötzlich und sie beginnt sich zu winden"
+
+# game/day21.rpy:643
+translate german day21_b_gym_sex_sub_792eb6a8:
+
+    # p "You're doing great so far. Why don't you rub your ass against me?"
+    p "Du machst das toll bis jetzt, warum reibst du deinen Arsch nicht an mir?"
+
+# game/day21.rpy:644
+translate german day21_b_gym_sex_sub_7bac559a:
+
+    # b "Somebody is going to notice!"
+    b "Das wird jemandem auffallen!"
+
+# game/day21.rpy:645
+translate german day21_b_gym_sex_sub_f3d73fc3:
+
+    # p "In this place? Everybody is too self-absorbed."
+    p "An diesem Ort? Alle sind zu sehr mit sich selbst beschäftigt."
+# game/day21.rpy:648
+translate german day21_b_gym_sex_sub_910689c8:
+
+    # "{i}Your sister arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}Deine Schwester krümmt ihren Rücken, drückt ihren Hintern gegen deinen Schritt und wackelt. Ihre Pobacken stimulieren deine wachsende Erektion."
+
+# game/day21.rpy:650
+translate german day21_b_gym_sex_sub_a79d7fe2:
+
+    # "{i}The girl arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}Das Mädchen wölbt ihren Rücken, drückt ihren Hintern gegen deinen Schritt und wackelt Ihre Pobacken stimulieren deine wachsende Erektion Du flüsterst ihr ins Ohr"
+
+# game/day21.rpy:651
+translate german day21_b_gym_sex_sub_e09e2dc9:
+
+    # p "If there wasn't anybody around, I'd rip your clothes off and fuck you right here and now."
+    p "Wenn niemand in der Nähe wäre, würde ich dir die Kleider vom Leib reißen und dich gleich hier und jetzt ficken"
+
+# game/day21.rpy:657
+translate german day21_b_gym_sex_sub_ae29689c:
+
+    # "{i}You let your fingers slide inside her sports pants, stroke the soft skin of her pubis and work your way further down. [b_name] gasps."
+    "{i}Du lässt deine Finger in ihre Sporthose gleiten, streichelst die weiche Haut ihres Schambereichs und arbeitest dich weiter nach unten."
+# game/day21.rpy:658
+translate german day21_b_gym_sex_sub_6c438d84:
+
+    # p "Would you like that, [b_name]? Bury my cock deep inside your wet pussy..."
+    p "Würde dir das gefallen [b_name]? Meinen Schwanz tief in deiner feuchten Muschi vergraben"
+
+# game/day21.rpy:659
+translate german day21_b_gym_sex_sub_77b110d2:
+
+    # "{i}What you feel inside her tight pants isn't just sweat, as it seems [b_name]'s cunny has responded to your stimulation. To your satisfaction, you notice that she's very wet as your finger slips inside her warm confines."
+    "{i}Was du in ihrer engen Hose spürst, ist nicht nur Schweiß, denn es scheint, dass [b_name]'s Fotze auf deine Stimulation reagiert hat. Zu deiner Befriedigung stellst du fest, dass sie sehr feucht ist, als dein Finger in ihre warmen Eingeweide gleitet"
+
+# game/day21.rpy:660
+translate german day21_b_gym_sex_sub_5f107e39:
+
+    # p "And that pussy is already wet..."
+    p "Und die Muschi ist schon feucht"
+
+# game/day21.rpy:661
+translate german day21_b_gym_sex_sub_5d98f8dc:
+
+    # b "Mmmmm... No! It's from the exercises... sweat!"
+    b "Mmmmm Nein! Das kommt vom Schweiß der Übungen!"
+
+# game/day21.rpy:662
+translate german day21_b_gym_sex_sub_b845af16:
+
+    # p "Your pussy is dripping wet and your clit... Ah, your clit is as hard as can be."
+    p "Deine Muschi ist triefend nass und dein Kitzler Ah, dein Kitzler ist so hart wie es nur geht"
+
+# game/day21.rpy:664
+translate german day21_b_gym_sex_sub_39f994b7:
+
+    # "{i}You pull her pants down and massage her pussy and clit. Her legs begin to tremble and weakly, she tries to push your hand away."
+    "{i}Du ziehst ihr die Hose runter und massierst ihre Muschi und ihren Kitzler. Ihre Beine fangen an zu zittern und schwach versucht sie, deine Hand wegzuschieben."
+# game/day21.rpy:666
+translate german day21_b_gym_sex_sub_7f0e271f:
+
+    # p "Are you enjoying yourself, sis?"
+    p "Amüsierst du dich, Schwesterherz?"
+
+# game/day21.rpy:668
+translate german day21_b_gym_sex_sub_a677306a:
+
+    # p "Are you enjoying yourself, [b_name]?"
+    p "Amüsieren Sie sich [b_name]?"
+
+# game/day21.rpy:669
+translate german day21_b_gym_sex_sub_1cb8b021:
+
+    # b "No... Aaaaah... Mmmmm..."
+    b "Nein Aaaaah Mmmmm"
+
+# game/day21.rpy:670
+translate german day21_b_gym_sex_sub_0c6ffba8:
+
+    # p "It seems you aren't concerned we might get caught?"
+    p "Sie haben wohl keine Bedenken, dass wir erwischt werden könnten?"
+
+# game/day21.rpy:671
+translate german day21_b_gym_sex_sub_8054646e:
+
+    # b "Yes... Aah-I am."
+    b "Ja, das bin ich"
+
+# game/day21.rpy:672
+translate german day21_b_gym_sex_sub_abd7fb7b:
+
+    # "{i}[b_name] wriggles against your body, her ass still massaging your cock. She doesn't want to escape from your lustful embrace any longer and gives herself over to your control."
+    "{i}[b_name] windet sich an deinem Körper, ihr Arsch massiert immer noch deinen Schwanz Sie will sich deiner lustvollen Umarmung nicht mehr entziehen und gibt sich deiner Kontrolle hin"
+
+# game/day21.rpy:673
+translate german day21_b_gym_sex_sub_22fefb59:
+
+    # p "Do you want to cum?"
+    p "Willst du abspritzen?"
+
+# game/day21.rpy:675
+translate german day21_b_gym_sex_sub_81039d72:
+
+    # b "Y-y-yes!"
+    b "J-J-Ja!"
+
+# game/day21.rpy:676
+translate german day21_b_gym_sex_sub_738b71f9:
+
+    # p "Say 'please'."
+    p "Sag 'bitte'"
+
+# game/day21.rpy:677
+translate german day21_b_gym_sex_sub_ac1a813d:
+
+    # b "Please."
+    b "Bitte"
+
+# game/day21.rpy:678
+translate german day21_b_gym_sex_sub_ffe3d7b9:
+
+    # p "'I want you to make me cum, [p_name], please.'"
+    p "'Ich möchte, dass du mir [p_name] bitte einen runterholst'"
+
+# game/day21.rpy:679
+translate german day21_b_gym_sex_sub_f4b1f793:
+
+    # b "F-f-fuck!"
+    b "F-f-fuck!"
+
+# game/day21.rpy:680
+translate german day21_b_gym_sex_sub_7ad8d009:
+
+    # b "I want you to make me cum, [p_name], please..."
+    b "Ich will, dass du mich zum Sperma bringst [p_name] bitte"
+
+# game/day21.rpy:681
+translate german day21_b_gym_sex_sub_eaa9ca80:
+
+    # p "Good girl."
+    p "Braves Mädchen"
+
+# game/day21.rpy:688
+translate german day21_b_gym_sex_sub_a454ff74:
+
+    # man "Is everything all right, miss? Is this man bothering you?"
+    man "Ist alles in Ordnung, Miss? Belästigt Sie dieser Mann?"
+
+# game/day21.rpy:689
+translate german day21_b_gym_sex_sub_35ba70ca:
+
+    # b "What?"
+    b "Was?"
+
+# game/day21.rpy:690
+translate german day21_b_gym_sex_sub_26bba494:
+
+    # p "{i}(Fuck! Has he seen us?)"
+    p "Scheiße, hat er uns gesehen?"
+
+# game/day21.rpy:691
+translate german day21_b_gym_sex_sub_9359f322:
+
+    # p "{i}(Don't rat us out, [b_name]!)"
+    p "{i}(Verpfeifen Sie uns nicht [b_name]!)"
+
+# game/day21.rpy:692
+translate german day21_b_gym_sex_sub_dcdc2c9d:
+
+    # b "Everything is fine. We know each other pretty well."
+    b "Alles in Ordnung, wir kennen uns ziemlich gut"
+
+# game/day21.rpy:693
+translate german day21_b_gym_sex_sub_699164d8:
+
+    # man "Okay... if you say so. Just give a shout if you need anything."
+    man "Okay, wenn Sie das sagen. Rufen Sie einfach, wenn Sie etwas brauchen."
+# game/day21.rpy:694
+translate german day21_b_gym_sex_sub_95a41504:
+
+    # "{i}[b_name] inches closer towards you, almost protectively, her buttocks pressing against your erection which still hasn't subsided."
+    "{i}[b_name] rückt fast schützend näher an dich heran, ihr Gesäß drückt gegen deine Erektion, die immer noch nicht nachgelassen hat"
+
+# game/day21.rpy:695
+translate german day21_b_gym_sex_sub_a06ef875:
+
+    # b "Thank you, but I'm good."
+    b "Danke, aber es geht mir gut"
+
+# game/day21.rpy:696
+translate german day21_b_gym_sex_sub_764d76e8:
+
+    # man "Okay, well enjoy your workout."
+    man "Okay, dann viel Spaß beim Training"
+
+# game/day21.rpy:697
+translate german day21_b_gym_sex_sub_902fabbc:
+
+    # b "I will."
+    b "Ich werde"
+
+# game/day21.rpy:698
+translate german day21_b_gym_sex_sub_cda4a5d4:
+
+    # p "{i}(She was until you interrupted us, you brain-dead beef-bus.)"
+    p "{i}(Das war sie, bis du uns unterbrochen hast, du hirntoter Rindvieh-Bus)"
+
+# game/day21.rpy:701
+translate german day21_b_gym_sex_sub_4528da82:
+
+    # "{i}As soon as the guy's back is turned, your sister starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Sobald der Kerl dir den Rücken zudreht, bewegt deine Schwester ihren Hintern wieder gegen deinen Schritt. Sie will eindeutig, dass du weitermachst und schaut dich mit einem sehnsüchtigen, erwartungsvollen Blick an."
+# game/day21.rpy:703
+translate german day21_b_gym_sex_sub_edc2c449:
+
+    # "{i}As soon as the guy's back is turned, [b_name] starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Sobald der Kerl sich umdreht, fängt [b_name] wieder an, ihren Hintern gegen deinen Schritt zu bewegen. Sie will eindeutig, dass du weitermachst und schaut dich mit einem sehnsüchtigen, erwartungsvollen Blick an."
+
+# game/day21.rpy:705
+translate german day21_b_gym_sex_sub_2d5501e5:
+
+    # p "{i}(Now might be a good time to stop things. I'm pretty sure I have her completely ready for what's coming next.)"
+    p "{i}(Jetzt wäre vielleicht ein guter Zeitpunkt, um die Dinge zu stoppen, ich bin mir ziemlich sicher, dass ich sie auf das, was als Nächstes kommt, komplett vorbereitet habe)"
+
+# game/day21.rpy:707
+translate german day21_b_gym_sex_sub_0c82b872:
+
+    # p "{i}(If I stop now, she might be completely ready for what's coming next.)"
+    p "{i}(Wenn ich jetzt aufhöre, ist sie vielleicht schon ganz bereit für das, was als Nächstes kommt)"
+
+# game/day21.rpy:709
+translate german day21_b_gym_sex_sub_c6dfc494:
+
+    # p "{i}(If I stop now, she might be ready for what's coming next.)"
+    p "{i}(Wenn ich jetzt aufhöre, ist sie vielleicht bereit für das, was als nächstes kommt)"
+
+# game/day21.rpy:710
+translate german day21_b_gym_sex_sub_3e8fbb37:
+
+    # p "I'm so sorry [b_name], but that guy completely ruined the mood."
+    p "Es tut mir so leid [b_name], aber der Typ hat die Stimmung total versaut"
+
+# game/day21.rpy:711
+translate german day21_b_gym_sex_sub_ef0da038:
+
+    # b "But..."
+    b "Aber"
+
+# game/day21.rpy:712
+translate german day21_b_gym_sex_sub_df44d03d:
+
+    # b "No!"
+    b "Nein!"
+
+# game/day21.rpy:714
+translate german day21_b_gym_sex_sub_dd312059:
+
+    # b "Fine."
+    b "Gut"
+
+# game/day21.rpy:715
+translate german day21_b_gym_sex_sub_587ad8c3:
+
+    # b "Be that way."
+    b "So soll es sein"
+
+# game/day21.rpy:716
+translate german day21_b_gym_sex_sub_f68d136a:
+
+    # p "Let me see some squats."
+    p "Zeigen Sie mir ein paar Kniebeugen"
+
+# game/day21.rpy:718
+translate german day21_b_gym_sex_sub_85f7066f:
+
+    # "{i}[b_name] performs some cursory squats, her mind obviously fixed on other things. After she's done, you walk back home in silence."
+    "{i}[b_name] macht ein paar flüchtige Kniebeugen, ihre Gedanken sind offensichtlich auf andere Dinge gerichtet Nachdem sie fertig ist, geht ihr schweigend nach Hause"
+
+# game/day21.rpy:731
+translate german day21_discreet_session_95fa9f8d:
+
+    # m "Ah, you're finally here again."
+    m "Ah, endlich bist du wieder da"
+
+# game/day21.rpy:732
+translate german day21_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day21.rpy:733
+translate german day21_discreet_session_45a824a7:
+
+    # m "Come to fulfill some of your base desires?"
+    m "Bist du gekommen, um dir ein paar deiner niederen Wünsche zu erfüllen?"
+
+# game/day21.rpy:734
+translate german day21_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day21.rpy:735
+translate german day21_discreet_session_cecd225b:
+
+    # m "Undress."
+    m "Ausziehen"
+
+# game/day21.rpy:736
+translate german day21_discreet_session_4af4498e:
+
+    # p "{i}(Will this ever feel normal, undressing in front of her?)"
+    p "{i}(Wird es sich jemals normal anfühlen, sich vor ihr auszuziehen?)"
+
+# game/day21.rpy:737
+translate german day21_discreet_session_0549bda9:
+
+    # m "Good. You may open a door."
+    m "Gut Sie können eine Tür öffnen"
+
+# game/day21.rpy:738
+translate german day21_discreet_session_05559a6b:
+
+    # "{i}You randomly pick a door and open it, expecting to find another starkly lit dungeon, like the one from the previous session."
+    "{i}Du wählst zufällig eine Tür aus und öffnest sie in der Erwartung, einen weiteren hell erleuchteten Kerker zu finden, wie den aus der vorherigen Sitzung."
+# game/day21.rpy:740
+translate german day21_discreet_session_7d9ea6ef:
+
+    # m "Looks like we're going back to high school."
+    m "Sieht aus, als würden wir wieder zur Highschool gehen"
+
+# game/day21.rpy:741
+translate german day21_discreet_session_3344d219:
+
+    # m "Did you have a good time there? Fuck a lot of girls?"
+    m "Hattest du eine gute Zeit dort? Hast du viele Mädchen gefickt?"
+
+# game/day21.rpy:742
+translate german day21_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Keine Geliebte"
+
+# game/day21.rpy:743
+translate german day21_discreet_session_e1d72883:
+
+    # m "That's really sad. I think today we'll be able to remedy that."
+    m "Das ist wirklich traurig, ich denke, heute werden wir das ändern können."
+# game/day21.rpy:744
+translate german day21_discreet_session_443c06ff:
+
+    # p "I look forward to that, mistress."
+    p "Darauf freue ich mich, Herrin"
+
+# game/day21.rpy:745
+translate german day21_discreet_session_43af49d1:
+
+    # m "I'm sure you do. Look at that cock of yours, already hard in anticipation."
+    m "Da bin ich mir sicher. Sieh dir deinen Schwanz an, der schon ganz steif vor Erwartung ist."
+# game/day21.rpy:746
+translate german day21_discreet_session_59677baa:
+
+    # p "{i}(I just can't help it, with you so close...)"
+    p "{i}(Ich kann einfach nicht anders, wenn du so nah bist)"
+
+# game/day21.rpy:747
+translate german day21_discreet_session_dc1a25c4:
+
+    # m "Have a seat."
+    m "Setzen Sie sich"
+
+# game/day21.rpy:750
+translate german day21_discreet_session_cd799cad:
+
+    # "{i}You sit down, naked, on a cold chair. You're pretty sure you've never experienced high school quite like this. [m_name] paces at the front of the classroom."
+    "{i}Du setzt dich nackt auf einen kalten Stuhl Du bist dir ziemlich sicher, dass du die High School noch nie so erlebt hast [m_name] geht vorne im Klassenzimmer auf und ab"
+
+# game/day21.rpy:751
+translate german day21_discreet_session_943cde36:
+
+    # m "We're waiting for another student."
+    m "Wir warten auf einen anderen Schüler"
+
+# game/day21.rpy:752
+translate german day21_discreet_session_d868e6ee:
+
+    # p "{i}(Looks like Adriana will also be here.)"
+    p "{i}(Sieht so aus, als ob Adriana auch hier sein wird)"
+
+# game/day21.rpy:756
+translate german day21_discreet_session_b79d2d0c:
+
+    # "{i}After a while, there's a knock on the door."
+    "{i}Nach einer Weile klopft es an der Tür"
+
+# game/day21.rpy:757
+translate german day21_discreet_session_1cd2afd5:
+
+    # m "Enter."
+    m "Eingabe"
+
+# game/day21.rpy:762
+translate german day21_discreet_session_22718f3f:
+
+    # p "{i}(Sweet Jesus, what a gorgeous slut she is!)"
+    p "(Mein Gott, was für eine tolle Schlampe sie ist!)"
+
+# game/day21.rpy:763
+translate german day21_discreet_session_13da845d:
+
+    # m "You're late, Adriana."
+    m "Du kommst zu spät, Adriana"
+
+# game/day21.rpy:764
+translate german day21_discreet_session_84084fce:
+
+    # ad "I'm sorry, mistress."
+    ad "Es tut mir leid, Herrin"
+
+# game/day21.rpy:765
+translate german day21_discreet_session_7bea97c2:
+
+    # m "I don't want to hear your excuses, you know what the punishment is for being late."
+    m "Ich will deine Ausreden nicht hören, du weißt, was die Strafe für Verspätungen ist"
+
+# game/day21.rpy:766
+translate german day21_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day21.rpy:767
+translate german day21_discreet_session_4e5cd7f8:
+
+    # m "Remind our other student."
+    m "Erinnere unseren anderen Schüler"
+
+# game/day21.rpy:768
+translate german day21_discreet_session_1a258af7:
+
+    # ad "If we're late, you'll spank our butt."
+    ad "Wenn wir zu spät kommen, versohlst du uns den Hintern"
+
+# game/day21.rpy:769
+translate german day21_discreet_session_af8c729e:
+
+    # m "Indeed. Your ass is in need of a good thrashing."
+    m "Dein Arsch braucht in der Tat eine ordentliche Tracht Prügel"
+
+# game/day21.rpy:770
+translate german day21_discreet_session_6ca2764f:
+
+    # m "Come here."
+    m "Komm her"
+
+# game/day21.rpy:771
+translate german day21_discreet_session_fb194b13:
+
+    # "{i}Adriana walks over to [m_name], giving you a good look of her long legs and her breasts, which are nearly popping out of her tight blouse."
+    "{i}Adriana geht zu [m_name] hinüber und gibt dir einen guten Blick auf ihre langen Beine und ihre Brüste, die fast aus ihrer engen Bluse herausragen."
+# game/day21.rpy:772
+translate german day21_discreet_session_47f81000:
+
+    # m "Bend over."
+    m "Vorbeugen"
+
+# game/day21.rpy:787
+translate german day21_discreet_session_81d54b29:
+
+    # "{i}Without warning, [m_name] slaps Adriana's left buttock with the flat of her hand. There's a lot of force behind that slap as the older woman doesn't seem to hold back."
+    "{i}Ohne Vorwarnung ohrfeigt [m_name] Adriana mit der flachen Hand auf die linke Pobacke. Die ältere Frau scheint sich nicht zurückzuhalten und schlägt mit voller Wucht zu."
+# game/day21.rpy:788
+translate german day21_discreet_session_8be86610:
+
+    # ad "Aaah!"
+    ad "Aaah!"
+
+# game/day21.rpy:789
+translate german day21_discreet_session_fac8bd08:
+
+    # m "You've been a bad girl, Adriana."
+    m "Du warst ein böses Mädchen, Adriana"
+
+# game/day21.rpy:790
+translate german day21_discreet_session_c3cd8b9c:
+
+    # m "Why are you late for class? Have you been sucking on too many dicks this morning?"
+    m "Warum kommst du zu spät zum Unterricht? Hast du heute Morgen zu viele Schwänze gelutscht?"
+
+# game/day21.rpy:796
+translate german day21_discreet_session_ad235a4e:
+
+    # ad "No, mistress! I'm sorry, mistress."
+    ad "Nein, Herrin! Es tut mir leid, Herrin"
+
+# game/day21.rpy:797
+translate german day21_discreet_session_1c6d2797:
+
+    # m "Come now, we all know what a little slut you are."
+    m "Jetzt wissen wir alle, was für eine kleine Schlampe du bist"
+
+# game/day21.rpy:798
+translate german day21_discreet_session_55f8bf6a:
+
+    # m "You know it yourself."
+    m "Du weißt es selbst"
+
+# game/day21.rpy:799
+translate german day21_discreet_session_a77e8295:
+
+    # ad "Y-y-yes, mistress. I'm a little slut."
+    ad "Ja, ja, Herrin, ich bin eine kleine Schlampe"
+
+# game/day21.rpy:806
+translate german day21_discreet_session_2e53e275:
+
+    # "{i}After another smack, angry red marks appear on Adriana's butt. Her face is contorted in a mixture of pleasure and pain."
+    "{i}Nach einer weiteren Ohrfeige erscheinen wütende rote Flecken auf Adrianas Hintern. Ihr Gesicht verzerrt sich in einer Mischung aus Freude und Schmerz."
+
+# game/day21.rpy:807
+translate german day21_discreet_session_23bd84e5:
+
+    # m "That's enough for now, sit your ass down."
+    m "Das reicht jetzt, setz dich hin"
+
+# game/day21.rpy:808
+translate german day21_discreet_session_b36f7b39:
+
+    # ad "Y-yes, mistress."
+    ad "Y-yes mistress"
+
+# game/day21.rpy:813
+translate german day21_discreet_session_3ea55cdb:
+
+    # "{i}Adriana slowly walks towards the bench beside you and glances approvingly at your hard-on."
+    "{i}Adriana geht langsam auf die Bank neben dir zu und wirft einen anerkennenden Blick auf deinen Ständer."
+# game/day21.rpy:814
+translate german day21_discreet_session_a76475a6:
+
+    # ad "Permission to speak, mistress."
+    ad "Erlaubnis, Herrin zu sprechen"
+
+# game/day21.rpy:815
+translate german day21_discreet_session_03b95061:
+
+    # m "Granted."
+    m "Gewährt"
+
+# game/day21.rpy:816
+translate german day21_discreet_session_e09f889a:
+
+    # ad "John seems to enjoy my pain."
+    ad "John scheint meinen Schmerz zu genießen"
+
+# game/day21.rpy:817
+translate german day21_discreet_session_4ab303e4:
+
+    # m "Is that so, Mr. Holmes?"
+    m "Ist das so, Mr. Holmes?"
+
+# game/day21.rpy:818
+translate german day21_discreet_session_0bcbcb05:
+
+    # m "Don't say anything, that giant erection is proof enough."
+    m "Sag nichts, die Riesenerektion ist Beweis genug"
+
+# game/day21.rpy:819
+translate german day21_discreet_session_e6ebf136:
+
+    # m "So you like it when little hussies get punished, Johnny-boy?"
+    m "Du magst es also, wenn kleine Flittchen bestraft werden, Johnny-Boy?"
+
+# game/day21.rpy:820
+translate german day21_discreet_session_991d47b4:
+
+    # p "Only if they deserve it, mistress."
+    p "Nur wenn sie es verdient haben, Herrin"
+
+# game/day21.rpy:821
+translate german day21_discreet_session_db194f7d:
+
+    # m "Good answer."
+    m "Gute Antwort"
+
+# game/day21.rpy:822
+translate german day21_discreet_session_8c7c2a79:
+
+    # m "That boner must be uncomfortable, with the tip pressing against the underside of your desk."
+    m "Der Ständer muss unangenehm sein, wenn die Spitze gegen die Unterseite des Schreibtischs drückt."
+# game/day21.rpy:823
+translate german day21_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day21.rpy:824
+translate german day21_discreet_session_f8d3b929:
+
+    # m "Well, just think of something else, I'm sure it'll subside in just a moment."
+    m "Denken Sie einfach an etwas anderes, ich bin sicher, dass es gleich wieder nachlässt."
+# game/day21.rpy:825
+translate german day21_discreet_session_c76dd6d3:
+
+    # p "{i}(Fuck no it won't. I'm pretty sure I'm going to lift the table with my dick if this goes on.)"
+    p "{i}(Verdammt, das wird es nicht, ich bin mir ziemlich sicher, dass ich den Tisch mit meinem Schwanz anheben werde, wenn das so weitergeht)"
+
+# game/day21.rpy:826
+translate german day21_discreet_session_b70ccabd:
+
+    # m "We'll just continue with a lesson in female anatomy."
+    m "Wir machen einfach mit einer Lektion in weiblicher Anatomie weiter"
+
+# game/day21.rpy:827
+translate german day21_discreet_session_eb4f4012:
+
+    # p "{i}(I'm dead.)"
+    p "{i}(Ich bin tot)"
+
+# game/day21.rpy:828
+translate german day21_discreet_session_0693628f:
+
+    # m "Adriana, come forward."
+    m "Adriana komm nach vorne"
+
+# game/day21.rpy:829
+translate german day21_discreet_session_3f715ae8:
+
+    # m "Lose the blouse."
+    m "Zieh die Bluse aus"
+
+# game/day21.rpy:831
+translate german day21_discreet_session_71c53910:
+
+    # m "Today will be devoted to a study of the 'ass'."
+    m "Der heutige Tag ist dem Studium des 'Esels' gewidmet."
+
+# game/day21.rpy:832
+translate german day21_discreet_session_0133b8c8:
+
+    # p "{i}(A subject that has always interested me greatly!)"
+    p "{i}(Ein Thema, das mich schon immer sehr interessiert hat!)"
+
+# game/day21.rpy:833
+translate german day21_discreet_session_5d9dd635:
+
+    # m "Together we'll discover how elastic and versatile the asshole really is."
+    m "Gemeinsam werden wir entdecken, wie elastisch und vielseitig das Arschloch wirklich ist"
+
+# game/day21.rpy:834
+translate german day21_discreet_session_e0aefc29:
+
+    # m "Bend over, Adriana."
+    m "Beugen Sie sich über Adriana"
+
+# game/day21.rpy:835
+translate german day21_discreet_session_78341e17:
+
+    # "{i}Without any shame, the receptionist presents her butt to you. [m_name] spreads her cheeks to fully reveal her delicate asshole."
+    "{i}Ohne jede Scham präsentiert dir die Empfangsdame [m_name] ihren Hintern und spreizt ihre Backen, um ihr zartes Arschloch zu enthüllen."
+
+# game/day21.rpy:836
+translate german day21_discreet_session_4004dea2:
+
+    # m "What a sight to behold."
+    m "Was für ein schöner Anblick"
+
+# game/day21.rpy:838
+translate german day21_discreet_session_aae1bcec:
+
+    # m "It looks tight now, but Adriana has already shown what her butthole is capable of."
+    m "Jetzt sieht es eng aus, aber Adriana hat schon gezeigt, wozu ihr Arschloch fähig ist"
+
+# game/day21.rpy:840
+translate german day21_discreet_session_0cd76a53:
+
+    # m "It looks tight now, but with proper training, her butthole will amaze you."
+    m "Jetzt sieht es noch eng aus, aber mit dem richtigen Training wird dich ihr Arschloch in Erstaunen versetzen."
+# game/day21.rpy:841
+translate german day21_discreet_session_8bf9df7e:
+
+    # m "Now lick her, make her feel good."
+    m "Jetzt leck sie, damit sie sich gut fühlt"
+
+# game/day21.rpy:847
+translate german day21_discreet_session_8a9142c7:
+
+    # "{i}Encouraged by [m_name], you lower your head between Adriana's spread butt cheeks. The saline smell of her wet cunt tickles your nose as you softly lick the skin leading up to her asshole."
+    "{i}Ermutigt von [m_name] senkst du deinen Kopf zwischen Adrianas gespreizten Arschbacken Der salzige Geruch ihrer feuchten Fotze kitzelt deine Nase, während du sanft die Haut leckst, die zu ihrem Arschloch führt"
+
+# game/day21.rpy:848
+translate german day21_discreet_session_5fd407ff:
+
+    # "{i}Adriana moans and shudders, wanting you to go on. You don't hesitate and circle around her little star with the tip of your tongue, eliciting even deeper moans from the girl."
+    "{i}Adriana stöhnt und zittert und will, dass du weitermachst. Du zögerst nicht und umkreist ihren kleinen Stern mit deiner Zungenspitze, was dem Mädchen ein noch tieferes Stöhnen entlockt."
+# game/day21.rpy:849
+translate german day21_discreet_session_d9b6d38c:
+
+    # ad "A-aaa-h. Johnny!"
+    ad "A-aaa-h Johnny!"
+
+# game/day21.rpy:850
+translate german day21_discreet_session_00b7b0f1:
+
+    # m "You hear that? She thinks you're doing very well."
+    m "Hast du das gehört? Sie findet, du machst das sehr gut."
+
+# game/day21.rpy:852
+translate german day21_discreet_session_cca1ec99:
+
+    # "{i}You focus all your attention on her butthole. With just the tip of your tongue, you lick and tease the folds of her rectum, until it's covered in your saliva."
+    "{i}Du konzentrierst deine ganze Aufmerksamkeit auf ihr Poloch. Mit deiner Zungenspitze leckst und neckst du die Falten ihres Rektums, bis es mit deinem Speichel bedeckt ist."
+# game/day21.rpy:853
+translate german day21_discreet_session_7bfc867d:
+
+    # "{i}Then, using your tongue as a wet spear, you plunge it deep inside her anal cavity. Adriana screams with pleasure as your tongue explores her ass. Her swollen pussy starts dripping with her moisture, wetting her inner thighs and legs."
+    "{i}Adriana schreit vor Vergnügen, als deine Zunge ihren Arsch erforscht. Ihre geschwollene Muschi beginnt zu tropfen und ihre Feuchtigkeit benetzt ihre inneren Schenkel und Beine."
+# game/day21.rpy:854
+translate german day21_discreet_session_be8504de:
+
+    # m "Stop."
+    m "Stopp"
+
+# game/day21.rpy:855
+translate german day21_discreet_session_30669ed0:
+
+    # ad "N-no!"
+    ad "N-nein!"
+
+# game/day21.rpy:856
+translate german day21_discreet_session_de238c83:
+
+    # m "What?!"
+    m "Was?!"
+
+# game/day21.rpy:857
+translate german day21_discreet_session_24403e2c:
+
+    # m "You insolent little whore!"
+    m "Du unverschämte kleine Hure!"
+
+# game/day21.rpy:865
+translate german day21_discreet_session_b6cbca5b:
+
+    # "{i}Suddenly, [m_name] grabs Adriana's pussy and appears to pinch her labia, her other hand is clutching several thick locks of her blonde hair."
+    "{i}Plötzlich greift [m_name] nach Adrianas Muschi und scheint ihre Schamlippen zu kneifen, während ihre andere Hand mehrere dicke Strähnen ihres blonden Haares umklammert."
+
+# game/day21.rpy:866
+translate german day21_discreet_session_ffd66199:
+
+    # m "If I tell you both to stop, you stop!"
+    m "Wenn ich euch sage, ihr sollt aufhören, dann hört ihr auf!"
+
+# game/day21.rpy:867
+translate german day21_discreet_session_3f669ab9:
+
+    # ad "Ow! Y-y-yes m-m-mistress."
+    ad "Aua! J-ja, Herrin"
+
+# game/day21.rpy:868
+translate german day21_discreet_session_ee160f64:
+
+    # "{i}While at first it seemed like a painful interaction between the older and younger woman, it now becomes clear that it's just another highly charged game of sexual power."
+    "{i}Während es zunächst wie eine schmerzhafte Interaktion zwischen der älteren und der jüngeren Frau aussah, wird nun klar, dass es sich nur um ein weiteres hochgradig aufgeladenes Spiel um sexuelle Macht handelt."
+# game/day21.rpy:869
+translate german day21_discreet_session_dd7915c0:
+
+    # "{i}Adriana looks at [m_name] with a mixture of pain and rapture. She wiggles her abdomen slowly to maximize the sensations she's receiving from the older woman's hold on her pussy lips."
+    "{i}Adriana sieht [m_name] mit einer Mischung aus Schmerz und Verzückung an. Sie wackelt langsam mit ihrem Unterleib, um die Empfindungen zu maximieren, die sie durch den Griff der älteren Frau an ihren Schamlippen erhält."
+# game/day21.rpy:870
+translate german day21_discreet_session_4d0e2e1c:
+
+    # m "Are you going to behave like a proper slut now?"
+    m "Wirst du dich jetzt wie eine richtige Schlampe benehmen?"
+
+# game/day21.rpy:871
+translate german day21_discreet_session_b36f7b39_1:
+
+    # ad "Y-yes, mistress."
+    ad "Y-yes mistress"
+
+# game/day21.rpy:872
+translate german day21_discreet_session_9c843c05:
+
+    # m "No more talking back?"
+    m "Keine Widerrede mehr?"
+
+# game/day21.rpy:873
+translate german day21_discreet_session_0063a328:
+
+    # ad "N-no, mistress."
+    ad "N-nein Geliebte"
+
+# game/day21.rpy:874
+translate german day21_discreet_session_c08bc8f4:
+
+    # m "Good."
+    m "Gut"
+
+# game/day21.rpy:875
+translate german day21_discreet_session_b30acc03:
+
+    # "{i}With a violent motion, [m_name] releases her grip, and Adriana staggers to keep on her feet. She grabs hold of your arm and steadies herself as [m_name] retrieves something from a closet nearby."
+    "{i}Mit einer heftigen Bewegung löst [m_name] ihren Griff und Adriana taumelt, um sich auf den Beinen zu halten Sie hält sich an deinem Arm fest und stützt sich, während [m_name] etwas aus einem Schrank in der Nähe holt"
+
+# game/day21.rpy:879
+translate german day21_discreet_session_cee64491:
+
+    # m "On with the lesson."
+    m "Weiter mit dem Unterricht"
+
+# game/day21.rpy:880
+translate german day21_discreet_session_644d5579:
+
+    # p "{i}(Jesus, that thing is huge!)"
+    p "{i}(Das Ding ist ja riesig!)"
+
+# game/day21.rpy:881
+translate german day21_discreet_session_11686268:
+
+    # p "{i}(Okay, if she even glances at my ass while she's holding that thing, I'm making a run for it.)"
+    p "{i}(Okay, wenn sie auch nur einen Blick auf meinen Hintern wirft, während sie das Ding in der Hand hält, renne ich los)"
+
+# game/day21.rpy:882
+translate german day21_discreet_session_394aa18d:
+
+    # m "What are you looking at, boy? Interested in getting a taste of this?"
+    m "Was guckst du so, Junge? Willst du das mal probieren?"
+
+# game/day21.rpy:883
+translate german day21_discreet_session_cb1f2775:
+
+    # p "{i}(No. No. No, Dear Mother of God and all that is merciful on this earth, FUCKING NO!)"
+    p "Nein Nein Nein Liebe Mutter Gottes und alles was barmherzig ist auf dieser Erde FUCKING NO!)"
+
+# game/day21.rpy:884
+translate german day21_discreet_session_a559296c:
+
+    # p "Not really, mistress."
+    p "Nicht wirklich Herrin"
+
+# game/day21.rpy:885
+translate german day21_discreet_session_b414c79e:
+
+    # m "Shame. I guess Adriana will be the lucky one then. Do you want to feel this inside you, Adriana?"
+    m "Schade, dann wird wohl Adriana die Glückliche sein. Willst du das in dir spüren Adriana?"
+
+# game/day21.rpy:886
+translate german day21_discreet_session_310345ff:
+
+    # ad "Very much so, mistress."
+    ad "Sehr gerne, Herrin"
+
+# game/day21.rpy:887
+translate german day21_discreet_session_32a3b246:
+
+    # m "Even if we use it to stretch out your ass some more?"
+    m "Auch wenn wir es benutzen, um deinen Arsch noch mehr zu strecken?"
+
+# game/day21.rpy:888
+translate german day21_discreet_session_180ab9ac:
+
+    # ad "I'd love that, mistress."
+    ad "Ich würde die Geliebte lieben"
+
+# game/day21.rpy:889
+translate german day21_discreet_session_9bef5f54:
+
+    # m "Spoken like a true slut. Bend over."
+    m "Gesprochen wie eine echte Schlampe Beuge dich vor"
+
+# game/day21.rpy:890
+translate german day21_discreet_session_6b9f91f3:
+
+    # "{i}An undaunted Adriana spreads her ass for you and waits in anticipation."
+    "{i}Eine unerschrockene Adriana spreizt ihren Arsch für dich und wartet in Erwartung"
+
+# game/day21.rpy:891
+translate german day21_discreet_session_26ecd7dc:
+
+    # m "You may do the honors."
+    m "Du darfst dir die Ehre geben"
+
+# game/day21.rpy:896
+translate german day21_discreet_session_4c9c7a99:
+
+    # "{i}You grab hold of the monstrosity and push it against Adriana's butthole. She nods at you encouragingly, clenching her teeth in anticipation of the anal insertion."
+    "{i}Du nimmst das Monstrum und drückst es gegen Adrianas Poloch. Sie nickt dir aufmunternd zu und beißt in Erwartung des analen Eindringens die Zähne zusammen."
+# game/day21.rpy:897
+translate german day21_discreet_session_25c6d253:
+
+    # m "Look at that asshole welcoming that big friend."
+    m "Seht euch das Arschloch an, wie es seinen großen Freund begrüßt"
+
+# game/day21.rpy:898
+translate german day21_discreet_session_9c8d0c04:
+
+    # m "Johnny is going to push it all the way up your butt. Make sure it stays there until I say so."
+    m "Johnny wird ihn dir ganz in den Hintern schieben. Sorg dafür, dass er dort bleibt, bis ich es sage."
+# game/day21.rpy:899
+translate german day21_discreet_session_401a56b0:
+
+    # ad "Aaaah, y-yes, mistress."
+    ad "Aaaah y-yes mistress"
+# game/day21.rpy:906
+translate german day21_discreet_session_283aa846:
+
+    # "{i}Little by little, you push the dildo further up Adriana's ass. [m_name] spits on it intermittently to make the insertion a little smoother."
+    "{i}Nach und nach schiebst Du den Dildo weiter in Adrianas Arsch, [m_name] spuckt ab und zu darauf, um das Einführen ein wenig sanfter zu machen."
+
+# game/day21.rpy:907
+translate german day21_discreet_session_632294ef:
+
+    # m "Halfway there."
+    m "Auf halbem Weg"
+
+# game/day21.rpy:908
+translate german day21_discreet_session_4eb07b22:
+
+    # ad "G-g-god yes!"
+    ad "G-g-gott ja!"
+
+# game/day21.rpy:909
+translate german day21_discreet_session_6ee69e33:
+
+    # "{i}The dildo slides further inside the receptionist than you could have previously imagined it would, widening her rectum considerably, until only the base of the shiny glass thing is sticking out of her."
+    "{i}Der Dildo gleitet weiter in die Empfangsdame hinein, als du es dir vorher vorstellen konntest, und weitet ihr Rektum beträchtlich, bis nur noch die Basis des glänzenden Glasdingens aus ihr herausragt."
+# game/day21.rpy:910
+translate german day21_discreet_session_7c928764:
+
+    # m "All done. How are you feeling, Adriana?"
+    m "Alles erledigt Wie fühlst du dich, Adriana?"
+
+# game/day21.rpy:911
+translate german day21_discreet_session_9994b310:
+
+    # ad "I'm so very full, mistress."
+    ad "Ich bin so satt, Herrin"
+
+# game/day21.rpy:912
+translate german day21_discreet_session_5479dcc0:
+
+    # m "Good. You'll be amazed by what your body can hold."
+    m "Gut Sie werden staunen, was Ihr Körper alles aushalten kann"
+
+# game/day21.rpy:918
+translate german day21_discreet_session_7153e273:
+
+    # "{i}You spit on the dildo and shove it inside Adriana's ass without hesitation. The girl nearly faints and she screams with abandon."
+    "{i}Du spuckst auf den Dildo und schiebst ihn ohne zu zögern in Adrianas Arsch. Das Mädchen fällt fast in Ohnmacht und schreit vor Hingabe."
+# game/day21.rpy:919
+translate german day21_discreet_session_2076b3ea:
+
+    # m "Jesus Christ, boy, don't break her."
+    m "Mein Gott, Junge, mach sie nicht kaputt"
+
+# game/day21.rpy:920
+translate german day21_discreet_session_178abf2e:
+
+    # ad "G-g-god!!!"
+    ad "G-G-Gott!!!"
+
+# game/day21.rpy:921
+translate german day21_discreet_session_6315d5c5:
+
+    # "{i}The dildo is further inside the receptionist than you could have previously imagined it would go, widening her rectum considerably, only the base of the shiny glass thing is sticking out of her. Adriana is still shuddering because of the pain you've caused."
+    "{i}Der Dildo ist weiter in der Empfangsdame, als du es dir vorher vorstellen konntest, er weitet ihr Rektum beträchtlich, nur die Basis des glänzenden Glasdingens ragt aus ihr heraus Adriana zittert immer noch wegen der Schmerzen, die du verursacht hast."
+
+# game/day21.rpy:922
+translate german day21_discreet_session_e04251a6:
+
+    # m "How are you feeling, Adriana?"
+    m "Wie geht es dir, Adriana?"
+
+# game/day21.rpy:923
+translate german day21_discreet_session_f3aa2df0:
+
+    # ad "Full, mistress, it hurts."
+    ad "Voller Herrin tut es weh"
+
+# game/day21.rpy:924
+translate german day21_discreet_session_00108dfb:
+
+    # m "The boy will be more gentle next time. But you'll be amazed by what your body can hold."
+    m "Der Junge wird beim nächsten Mal sanfter sein. Aber du wirst staunen, was dein Körper alles aushält."
+# game/day21.rpy:926
+translate german day21_discreet_session_014c5c3d:
+
+    # p "{i}(There's going to be more inside her?)"
+    p "(Wird noch mehr in ihr sein?)"
+
+# game/day21.rpy:927
+translate german day21_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day21.rpy:931
+translate german day21_discreet_session_2f3f4202:
+
+    # m "I think our boy here deserves a little reward for being extra careful with your precious asshole, doesn't he?"
+    m "Ich denke, unser Junge hier verdient eine kleine Belohnung dafür, dass er besonders vorsichtig mit deinem kostbaren Arschloch umgeht, nicht wahr?"
+
+# game/day21.rpy:932
+translate german day21_discreet_session_c8cff16a:
+
+    # ad "Certainly, mistress."
+    ad "Sicherlich Geliebte"
+
+# game/day21.rpy:933
+translate german day21_discreet_session_33eb81d1:
+
+    # m "Come here boy, Adriana and I need your cock."
+    m "Komm her Junge, Adriana und ich brauchen deinen Schwanz"
+
+# game/day21.rpy:934
+translate german day21_discreet_session_7299bde5:
+
+    # p "{i}([m_name] wants my cock, that sounds so perverted.)"
+    p "{i}([m_name] will meinen Schwanz das klingt so pervers)"
+
+# game/day21.rpy:942
+translate german day21_discreet_session_319e6ba6:
+
+    # "{i}You step forward and a hand wraps around your dick. Adriana massages your balls, but it's [m_name] who takes expert care of your shaft."
+    "{i}Du trittst vor und eine Hand legt sich um deinen Schwanz, Adriana massiert deine Eier, aber es ist [m_name], der sich um deinen Schaft kümmert."
+# game/day21.rpy:944
+translate german day21_discreet_session_6a5c1352:
+
+    # "{i}Her technique is very different from what you've experienced before. Your mom alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}Ihre Technik ist ganz anders als das, was du bisher erlebt hast. Deine Mutter wechselt zwischen heftigem Wichsen und zarten, sanften Streicheleinheiten, die vom Ansatz bis zur Spitze deines Schwanzes reichen."
+# game/day21.rpy:946
+translate german day21_discreet_session_974db97f:
+
+    # "{i}Her technique is very different from what you've experienced before. The older woman alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}Ihre Technik ist ganz anders als das, was du bisher erlebt hast. Die ältere Frau wechselt zwischen heftigem Wichsen und zarten, sanften Streicheleinheiten, die vom Ansatz bis zur Spitze deines Schwanzes reichen."
+# game/day21.rpy:948
+translate german day21_discreet_session_bbf902ab:
+
+    # "{i}Every caress nearly sends you over the edge. You have to grab hold of the table when Adriana moves from slobbering on your balls to licking the perineum and finally your asshole."
+    "{i}Du musst dich am Tisch festhalten, wenn Adriana vom Schlabbern an deinen Eiern zum Lecken deines Dammes und schließlich deines Arschlochs übergeht."
+# game/day21.rpy:949
+translate german day21_discreet_session_bbb34183:
+
+    # "{i}[m_name] recognizes your heavy breathing and glassy look as the onset of an orgasm and abruptly stops. The touch of Adriana's tongue is almost immediately gone as well."
+    "{i}[m_name] erkennt dein schweres Atmen und deinen glasigen Blick als den Beginn eines Orgasmus und hält abrupt inne Die Berührung von Adrianas Zunge ist auch fast sofort weg"
+
+# game/day21.rpy:953
+translate german day21_discreet_session_4a540abc:
+
+    # p "{i}(Fucking hell, I was just about to spray all over [m_name]'s gorgeous tits.)"
+    p "{i}(Verdammte Scheiße, ich war gerade dabei, [m_name] auf ihre wunderschönen Titten zu spritzen)"
+
+# game/day21.rpy:954
+translate german day21_discreet_session_4bea0be7:
+
+    # m "Not yet."
+    m "Noch nicht"
+
+# game/day21.rpy:956
+translate german day21_discreet_session_0a7818ce:
+
+    # m "You two have been very selfish so far."
+    m "Ihr beide wart bisher sehr egoistisch"
+
+# game/day21.rpy:957
+translate german day21_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day21.rpy:958
+translate german day21_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day21.rpy:961
+translate german day21_discreet_session_3b9b8dec:
+
+    # "{i}Adriana and you kneel, as [m_name] presents her cunt to you both. The scent of her slit is very noticeable, she seems aroused."
+    "{i}Adriana und du kniet euch hin, als [m_name] euch ihre Fotze präsentiert Der Duft ihres Schlitzes ist sehr auffällig, sie scheint erregt zu sein"
+
+# game/day21.rpy:969
+translate german day21_discreet_session_b0bf49ac:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on your mother's swollen clitoris."
+    "{i}Du drückst dein Gesicht gegen [m_name]'s Geschlecht und saugst die Säfte auf Du stützt deine Stirn auf die Fülle der Schamhaare und bearbeitest die geschwollene Klitoris deiner Mutter"
+
+# game/day21.rpy:971
+translate german day21_discreet_session_7f9fa2cd:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on [m_name]'s swollen clitoris."
+    "{i}Du drückst dein Gesicht gegen [m_name]'s Geschlecht und saugst die Säfte auf Du stützt deine Stirn auf die Fülle der Schamhaare und bearbeitest [m_name]'s geschwollene Klitoris"
+
+# game/day21.rpy:976
+translate german day21_discreet_session_ec7e5c79:
+
+    # "{i}Suddenly, your dangling erection is wrapped in warm wetness, as Adriana starts to suck you off, careful not to lose the dildo that's still buried in her ass."
+    "{i}Plötzlich wird deine baumelnde Erektion von warmer Nässe umhüllt, während Adriana anfängt, dich abzusaugen, wobei sie darauf achtet, den Dildo nicht zu verlieren, der immer noch in ihrem Arsch steckt."
+# game/day21.rpy:982
+translate german day21_discreet_session_f52b0692:
+
+    # "{i}Adriana pushes her face against [m_name]'s sex and laps up the juices of the older woman. She rests her forehead against the wealth of pubic hair and works on [m_name]'s swollen clitoris."
+    "{i}Adriana drückt ihr Gesicht gegen [m_name]'s Geschlecht und saugt die Säfte der älteren Frau auf Sie stützt ihre Stirn auf die Fülle der Schamhaare und bearbeitet [m_name]'s geschwollene Klitoris"
+
+# game/day21.rpy:983
+translate german day21_discreet_session_63988f51:
+
+    # "{i}While the receptionist is going down on [m_name], the older woman stares at you. It's hard to see with the mask on, but the look of longing in her eyes is unmistakable. She motions you to come forward."
+    "{i}Während die Empfangsdame [m_name] einen runterholt, starrt dich die ältere Frau an Mit der Maske ist es schwer zu erkennen, aber der sehnsüchtige Blick in ihren Augen ist unverkennbar Sie fordert dich auf, nach vorne zu kommen"
+
+# game/day21.rpy:989
+translate german day21_discreet_session_ec5b1fd1:
+
+    # "{i}Her hand wraps around your cock and she demonstrates her superior handjob skills once more."
+    "{i}Ihre Hand wickelt sich um deinen Schwanz und sie demonstriert einmal mehr ihre überlegenen Handjob-Fähigkeiten"
+
+# game/day21.rpy:991
+translate german day21_discreet_session_4caebf8f:
+
+    # "{i}Her hand wraps around your cock as she begins to take expert care of your shaft. Her technique is very different from what you're used to."
+    "{i}Ihre Hand wickelt sich um deinen Schwanz, während sie sich fachmännisch um deinen Schaft kümmert. Ihre Technik ist ganz anders, als du es gewohnt bist."
+# game/day21.rpy:992
+translate german day21_discreet_session_69775d89:
+
+    # "[m_name] alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "[m_name] wechselt zwischen heftigem Wichsen und zarten, süßen Streicheleinheiten, die vom Ansatz bis zur Spitze deines Schwanzes reichen"
+
+# game/day21.rpy:996
+translate german day21_discreet_session_be8504de_1:
+
+    # m "Stop."
+    m "Stopp"
+
+# game/day21.rpy:997
+translate german day21_discreet_session_3ff8b72b:
+
+    # p "{i}(Again?! We were just getting started. She sure is in a fickle mood today.)"
+    p "{i}(Schon wieder?! Wir hatten gerade erst angefangen. Sie ist heute sehr launisch)"
+
+# game/day21.rpy:998
+translate german day21_discreet_session_76025ac2:
+
+    # m "I told you that you'd be amazed what a body can hold. Johnny, you're going to demonstrate this on Adriana."
+    m "Ich habe dir gesagt, dass du erstaunt sein wirst, was ein Körper aushalten kann Johnny, du wirst es an Adriana demonstrieren"
+
+# game/day21.rpy:999
+translate german day21_discreet_session_80315c1c:
+
+    # p "{i}(Er...)"
+    p "{i}(Er)"
+
+# game/day21.rpy:1000
+translate german day21_discreet_session_1e472647:
+
+    # m "You're going to fuck her."
+    m "Du wirst sie ficken"
+
+# game/day21.rpy:1001
+translate german day21_discreet_session_05f591c6:
+
+    # m "Adriana, keep that dildo inside you as long as possible or you'll be punished."
+    m "Adriana, behalte den Dildo so lange wie möglich in dir oder du wirst bestraft."
+# game/day21.rpy:1002
+translate german day21_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day21.rpy:1004
+translate german day21_discreet_session_c47e622c:
+
+    # m "The same goes for you, Mr. Holmes. If you rough her up like you did before, this session is over."
+    m "Das Gleiche gilt für Sie, Mr. Holmes, wenn Sie sie so aufmischen, wie Sie es getan haben, bevor diese Sitzung zu Ende ist"
+
+# game/day21.rpy:1008
+translate german day21_discreet_session_61f2aaa4:
+
+    # "{i}You grab Adriana by the waist and hold her close, your erection pressing between her thighs."
+    "{i}Du packst Adriana an der Taille und hältst sie fest, deine Erektion drückt zwischen ihre Schenkel"
+
+# game/day21.rpy:1009
+translate german day21_discreet_session_db0126f3:
+
+    # p "I need you to lie down."
+    p "Du musst dich hinlegen"
+
+# game/day21.rpy:1010
+translate german day21_discreet_session_60b86177:
+
+    # ad "Please be gentle with me. My ass is burning up."
+    ad "Bitte sei sanft zu mir, mein Arsch brennt"
+
+# game/day21.rpy:1015
+translate german day21_discreet_session_0141c872:
+
+    # "{i}Adriana lowers herself to the ground, and you spread her long legs, giving you a nice view of her glistening pussy and the glass dildo that's rooted in her asshole."
+    "{i}Adriana lässt sich auf den Boden sinken und du spreizt ihre langen Beine, damit du einen schönen Blick auf ihre glitzernde Muschi und den Glasdildo in ihrem Arschloch hast."
+# game/day21.rpy:1017
+translate german day21_discreet_session_cee75536:
+
+    # "{i}You push your dick inside her."
+    "{i}Du schiebst deinen Schwanz in sie hinein"
+
+# game/day21.rpy:1019
+translate german day21_discreet_session_1d7140bd:
+
+    # "{i}You push your dick inside her at a maddeningly slow pace."
+    "{i}Du schiebst deinen Schwanz in sie hinein, in einem wahnsinnig langsamen Tempo"
+
+# game/day21.rpy:1020
+translate german day21_discreet_session_8afa8a51:
+
+    # ad "Ah! Aaah! Aaaaah! It won't fit. I'm too full."
+    ad "Ah! Aaah! Aaaaah! Es passt nicht, ich bin zu voll"
+
+# game/day21.rpy:1022
+translate german day21_discreet_session_49c2741d:
+
+    # "{i}She seems tighter than the last time you fucked her, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Sie scheint fester zu sein als das letzte Mal, als du sie gefickt hast, was an dem massiven Dildo liegen könnte, der ihren Arsch schon fast bis zum Bersten füllt."
+# game/day21.rpy:1024
+translate german day21_discreet_session_ca07fcf9:
+
+    # "{i}She seems very tight, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Sie scheint sehr angespannt zu sein, was an dem massiven Dildo liegen könnte, der ihren Arsch schon fast zum Bersten füllt."
+
+# game/day21.rpy:1030
+translate german day21_discreet_session_aa47aa24:
+
+    # "{i}You wait for Adriana to adjust to being penetrated vaginally and anally at the same time and start fucking her with deep strokes."
+    "{i}Du wartest, bis Adriana sich daran gewöhnt hat, gleichzeitig vaginal und anal penetriert zu werden und fängst an, sie mit tiefen Stößen zu ficken."
+# game/day21.rpy:1033
+translate german day21_discreet_session_f130bda2:
+
+    # "{i}You start fucking her with deep strokes immediately, not waiting for Adriana to adjust to being penetrated vaginally and anally at the same time."
+    "{i}Du fängst sofort an, sie mit tiefen Stößen zu ficken und wartest nicht, bis Adriana sich daran gewöhnt hat, gleichzeitig vaginal und anal penetriert zu werden."
+# game/day21.rpy:1035
+translate german day21_discreet_session_510ffa8d:
+
+    # "{i}The girl screams and moans in your ear, with [m_name] leaning on a table pleasuring herself with her fingers."
+    "{i}Das Mädchen schreit und stöhnt dir ins Ohr, während [m_name] sich auf einen Tisch stützt und sich mit den Fingern befriedigt."
+# game/day21.rpy:1036
+translate german day21_discreet_session_fe3ca7a2:
+
+    # m "Fuck her, John. She's all yours now."
+    m "Fick sie, John, sie gehört jetzt ganz dir"
+
+# game/day21.rpy:1037
+translate german day21_discreet_session_27744061:
+
+    # ad "G-g-god. Fuck yes. Harder! Aaaah!"
+    ad "G-g-gott fick ja härter! Aaaah!"
+
+# game/day21.rpy:1038
+translate german day21_discreet_session_71b5576b:
+
+    # "{i}You attack Adriana's pussy with several short, hard thrusts to maximize the sensations her pussy gives you."
+    "{i}Du greifst Adrianas Muschi mit mehreren kurzen, harten Stößen an, um die Empfindungen zu maximieren, die ihre Muschi dir gibt."
+# game/day21.rpy:1043
+translate german day21_discreet_session_cdb07dd9:
+
+    # "{i}Adriana's moans have been reduced to one long, hoarse, guttural sound as she climaxes on your cock. Because of the violent contractions of her cunt, her ass involuntarily gives birth to the glass monster that has remained up her butt for a large part of the session."
+    "{i}Adriana stöhnt nur noch ein einziges heiseres, kehliges Geräusch, als sie auf deinem Schwanz zum Höhepunkt kommt. Durch die heftigen Kontraktionen ihrer Fotze gebiert ihr Arsch unwillkürlich das Glasmonster, das einen Großteil der Sitzung in ihrem Hintern verbracht hat."
+# game/day21.rpy:1044
+translate german day21_discreet_session_806f029d:
+
+    # "{i}Because of all the attention your dick has already gotten and the stimulation of Adriana's tightened pussy, you have trouble not ejaculating inside her right away. You've managed to last several minutes, but now the moment has come."
+    "{i}Wegen der ganzen Aufmerksamkeit, die dein Schwanz schon bekommen hat und der Stimulation von Adrianas enger Muschi hast du Schwierigkeiten, nicht sofort in ihr zu ejakulieren. Du hast es geschafft, mehrere Minuten durchzuhalten, aber jetzt ist der Moment gekommen."
+# game/day21.rpy:1052
+translate german day21_discreet_session_a08d2305:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1053
+translate german day21_discreet_session_ef733f88:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pump a great amount of semen inside her vagina. Her moans of pleasure turn into sounds of delight and fulfillment."
+    "{i}Auf dem Höhepunkt von Adrianas ekstatischen Schreien pumpen Sie eine große Menge Sperma in ihre Vagina. Ihr Stöhnen der Lust verwandelt sich in Laute der Freude und Erfüllung."
+# game/day21.rpy:1068
+translate german day21_discreet_session_a08d2305_1:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1069
+translate german day21_discreet_session_40b55b0a:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her belly, thighs and pussy. Her moans of pleasure turn into sounds of delight and fulfillment as she rubs your seed on her labia and in her vagina."
+    "{i}Bei einem von Adrianas ekstatischen Schreien ziehst du ab und spritzt eine große Menge Sperma auf ihren Bauch, ihre Schenkel und ihre Muschi. Ihr Stöhnen wird zu einem Geräusch der Freude und Erfüllung, während sie deinen Samen auf ihren Schamlippen und in ihrer Vagina verreibt."
+# game/day21.rpy:1081
+translate german day21_discreet_session_a08d2305_2:
+
+    # p "Gaaaaah!!!"
+    p "Gaaaaah!!!"
+
+# game/day21.rpy:1082
+translate german day21_discreet_session_f09786d4:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her face. Her moans of pleasure turn into sounds of delight and fulfillment as she licks sperm from the corners of her mouth and from the tips of her fingers."
+    "{i}Bei einem von Adrianas ekstatischen Schreien ziehst du ihn heraus und spritzt eine große Menge Sperma auf ihr Gesicht. Ihr Stöhnen wird zu Geräuschen der Freude und Erfüllung, während sie das Sperma aus ihren Mundwinkeln und von ihren Fingerspitzen leckt."
+# game/day21.rpy:1089
+translate german day21_discreet_session_7f7ddd28:
+
+    # m "You've both pleased me greatly."
+    m "Ihr habt mich beide sehr erfreut"
+
+# game/day21.rpy:1090
+translate german day21_discreet_session_44633398:
+
+    # m "Class dismissed."
+    m "Klasse entlassen"
+
+# game/day21.rpy:1105
+translate german day21_r_sex_183f3c2a:
+
+    # r "Mmmm, come to bed, [p_name]!"
+    r "Mmmm komm ins Bett [p_name]!"
+
+# game/day21.rpy:1107
+translate german day21_r_sex_d35cef7c:
+
+    # "{i}As soon as you're next to her naked body, [r_name] showers you with kisses."
+    "{i}Sobald du neben ihrem nackten Körper stehst, überschüttet dich [r_name] mit Küssen"
+
+# game/day21.rpy:1109
+translate german day21_r_sex_c35c620c:
+
+    # r "I've wanted to do that all day!"
+    r "Das wollte ich schon den ganzen Tag tun!"
+
+# game/day21.rpy:1110
+translate german day21_r_sex_6b728219:
+
+    # p "I won't stop you!"
+    p "Ich werde dich nicht aufhalten!"
+
+# game/day21.rpy:1112
+translate german day21_r_sex_4f3b3ec5:
+
+    # r "[p_name]?"
+    r "[p_name]?"
+
+# game/day21.rpy:1113
+translate german day21_r_sex_061e5381:
+
+    # p "Yes?"
+    p "Ja?"
+
+# game/day21.rpy:1114
+translate german day21_r_sex_8afa1463:
+
+    # r "I'd like to try it again."
+    r "Ich würde es gerne noch einmal versuchen"
+
+# game/day21.rpy:1115
+translate german day21_r_sex_64aef23e:
+
+    # p "{i}(Hallelujah!)"
+    p "{i}(Halleluja!)"
+
+# game/day21.rpy:1116
+translate german day21_r_sex_0cee0f25:
+
+    # r "Sex. With you, I mean."
+    r "Ich meine Sex mit dir"
+
+# game/day21.rpy:1117
+translate german day21_r_sex_9bef8224:
+
+    # p "{i}(That really doesn't need further explaining.)"
+    p "{i}(Das muss wirklich nicht weiter erklärt werden)"
+
+# game/day21.rpy:1122
+translate german day21_r_sex_2b161618:
+
+    # "{i}Very slowly, you move down her body, opening her legs and kissing the soft skin of her thighs."
+    "{i}Ganz langsam bewegst du dich an ihrem Körper hinunter, öffnest ihre Beine und küsst die weiche Haut ihrer Schenkel."
+
+# game/day21.rpy:1123
+translate german day21_r_sex_afe6ba4e:
+
+    # p "Ah, there's your pussy and you want me there, inside you?"
+    p "Ah, da ist deine Muschi und du willst mich in dir haben?"
+
+# game/day21.rpy:1124
+translate german day21_r_sex_ba08c474:
+
+    # r "Mmmm, yes!"
+    r "Mmmm ja!"
+
+# game/day21.rpy:1125
+translate german day21_r_sex_6de4963a:
+
+    # p "Let's start by making this as pleasurable for you as possible."
+    p "Fangen wir damit an, dass wir die Sache für Sie so angenehm wie möglich machen."
+# game/day21.rpy:1130
+translate german day21_r_sex_2b793e9f:
+
+    # "{i}[r_name]'s pussy is already wet in anticipation of your cock. You lap up her juices from her lower lips and teasingly lick her clitoris, which is growing ever so slightly with all the attention you're giving her pussy."
+    "{i}[r_name]'s pussy is already wet in anticipation of your cock You lap up her juices from her lower lips and teasingly lick her clitoris which is growing ever so slightly with all the attention you're giving her pussy"
+
+# game/day21.rpy:1131
+translate german day21_r_sex_9a09c4ba:
+
+    # r "Oooh, [p_name]! I want you!"
+    r "Oooh [p_name]! Ich will dich!"
+
+# game/day21.rpy:1136
+translate german day21_r_sex_c7dd698d:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside your sister's wet mound. She holds her breath, and you feel her tense up."
+    "{i}Ohne weiter zu zögern schiebst du die Spitze deines erigierten Schwanzes in den feuchten Schoß deiner Schwester Sie hält den Atem an und du spürst, wie sie sich anspannt"
+
+# game/day21.rpy:1138
+translate german day21_r_sex_feee2adf:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside [r_name]'s wet mound. She holds her breath, and you feel her tense up."
+    "{i}Ohne weiter zu zögern schiebst du die Spitze deines erigierten Schwanzes in [r_name]'s feuchten Schoß Sie hält den Atem an und du spürst, wie sie sich anspannt"
+
+# game/day21.rpy:1139
+translate german day21_r_sex_fb74d315:
+
+    # p "Let it go, sweetie, I won't hurt you."
+    p "Lass gut sein, Süße, ich tu dir nicht weh"
+
+# game/day21.rpy:1140
+translate german day21_r_sex_8aa021ca:
+
+    # r "You'll stop when it hurts?"
+    r "Du hörst auf, wenn es weh tut?"
+
+# game/day21.rpy:1141
+translate german day21_r_sex_0c66aa18:
+
+    # p "{i}(Poor thing. Her deflowering must have been a little bit more uncomfortable than she let on.)"
+    p "{i}(Die Arme. Ihre Entjungferung war wohl etwas unangenehmer, als sie zugeben wollte)"
+
+# game/day21.rpy:1142
+translate german day21_r_sex_09fbac9e:
+
+    # p "Of course. It doesn't hurt now, does it?"
+    p "Natürlich tut es nicht weh, oder?"
+
+# game/day21.rpy:1143
+translate german day21_r_sex_41831fd0:
+
+    # r "Actually, no."
+    r "Eigentlich nicht"
+
+# game/day21.rpy:1148
+translate german day21_r_sex_72e6de02:
+
+    # "{i}Before penetrating her deeper, you kiss her breasts. When you finally suck on her erect nipples, [r_name] seems to lose control and gives herself over to passion."
+    "{i}Bevor du tiefer in sie eindringst, küsst du ihre Brüste. Als du schließlich an ihren erigierten Brustwarzen saugst, scheint [r_name] die Kontrolle zu verlieren und gibt sich der Leidenschaft hin."
+# game/day21.rpy:1154
+translate german day21_r_sex_3ed13e97:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. Your sister just moans, every thought of pain forgotten."
+    "{i}Dein Schwanz gleitet ohne große Anstrengung weiter in ihren feuchten Schlitz Deine Schwester stöhnt nur jeden Gedanken an Schmerz vergessen"
+
+# game/day21.rpy:1156
+translate german day21_r_sex_10ab6a76:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. [r_name] just moans, every thought of pain forgotten."
+    "{i}Dein Schwanz gleitet ohne große Anstrengung weiter in ihren feuchten Schlitz [r_Name] stöhnt nur jeden Gedanken an Schmerz vergessen"
+
+# game/day21.rpy:1157
+translate german day21_r_sex_062dbcb2:
+
+    # "{i}You establish a slow rhythm, keeping your attention focused on [r_name]'s firm breasts. Her hands are in your hair and on your back, touching, feeling, clawing. Her voice is a nearly inaudible whisper in your ear."
+    "{i}Du gibst einen langsamen Rhythmus vor und konzentrierst dich auf die festen Brüste von [r_Name] Ihre Hände sind in deinen Haaren und auf deinem Rücken und berühren dich, fühlen sich kratzend an Ihre Stimme ist ein fast unhörbares Flüstern in deinem Ohr"
+
+# game/day21.rpy:1158
+translate german day21_r_sex_5739fba5:
+
+    # r "Aaah! G-g-god yes!"
+    r "Aaah! G-G-Gott ja!"
+
+# game/day21.rpy:1159
+translate german day21_r_sex_a973011c:
+
+    # r "Keep fucking me! Don't stop. I-it... I-t feels s-so good!"
+    r "Fick mich weiter! Hör nicht auf, es fühlt sich so gut an!"
+
+# game/day21.rpy:1160
+translate german day21_r_sex_5a9f2778:
+
+    # p "G-aaah. Do you want to cum, [r_name]? Cum all over my cock?"
+    p "G-aaah Willst du [r_name] abspritzen? Auf meinen Schwanz abspritzen?"
+
+# game/day21.rpy:1161
+translate german day21_r_sex_4ef40ea8:
+
+    # r "Y-y-yes! But you need to go deeper, I want to feel more of you!"
+    r "J-j-ja! Aber du musst tiefer gehen, ich will mehr von dir spüren!"
+
+# game/day21.rpy:1166
+translate german day21_r_sex_06a44c8d:
+
+    # "{i}When you pull out, [r_name] seems temporarily disappointed. Wordlessly, as if your bodies are perfectly attuned to each other, you change positions, kissing passionately."
+    "{i}Als du dich zurückziehst, scheint [r_Name] vorübergehend enttäuscht zu sein. Wortlos, als ob eure Körper perfekt aufeinander abgestimmt wären, wechselt ihr die Positionen und küsst euch leidenschaftlich"
+
+# game/day21.rpy:1174
+translate german day21_r_sex_4aefab26:
+
+    # "{i}Gently, you push your sister down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Sanft drückst du deine Schwester auf das Bett, ihr kleiner Arsch ragt in die Luft, ihre feuchte Muschi glitzert im Licht, als [r_name] ihre Finger zu ihrem Kitzler führt und ihn zu reiben beginnt."
+# game/day21.rpy:1176
+translate german day21_r_sex_5d8513af:
+
+    # "{i}Gently, you push [r_name] down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Sanft drückst du [r_name] auf das Bett, ihr kleiner Arsch ragt in die Luft, ihre feuchte Muschi glitzert im Licht, als [r_name] ihre Finger zu ihrem Kitzler führt und ihn zu reiben beginnt"
+
+# game/day21.rpy:1177
+translate german day21_r_sex_6e94723b:
+
+    # "{i}This time, your dick doesn't encounter any resistance and slips into the tight confines of her vulva. It's soon inside her to the root. [r_name] is still fingering herself and lets out a muffled moan in the bedsheets."
+    "{i}Diesmal stößt dein Schwanz auf keinen Widerstand und gleitet in die Enge ihrer Schamlippen Er ist bald bis zur Wurzel in ihr drin [r_Name] fingert sich immer noch selbst und lässt ein gedämpftes Stöhnen in die Bettlaken fallen"
+
+# game/day21.rpy:1178
+translate german day21_r_sex_06fa7ad7:
+
+    # r "F-f-fuck! Mmmmmm!"
+    r "F-F-Fick! Mmmmmm!"
+
+# game/day21.rpy:1180
+translate german day21_r_sex_1871e2db:
+
+    # "{i}You grab [r_name]'s body tightly and fuck her with deep short thrusts. Her breathing is ragged and she has stopped masturbating, completely mesmerized by your cock inside her little pussy."
+    "{i}Du packst [r_Name]'s Körper fest und fickst sie mit tiefen, kurzen Stößen. Ihr Atem geht rasend schnell und sie hat aufgehört zu masturbieren, völlig hypnotisiert von deinem Schwanz in ihrer kleinen Muschi"
+
+# game/day21.rpy:1181
+translate german day21_r_sex_a5f809cf:
+
+    # r "D-don't stop! Keep doing that!"
+    r "Nicht aufhören! Mach weiter so!"
+
+# game/day21.rpy:1183
+translate german day21_r_sex_0848df1d:
+
+    # "{i}The position in which you're fucking her makes your sister feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}Die Position, in der du sie fickst, lässt deine Schwester sich noch enger anfühlen als zuvor. Der einsetzende Orgasmus verstärkt dieses wunderbare Gefühl noch."
+# game/day21.rpy:1185
+translate german day21_r_sex_f6839b33:
+
+    # "{i}The position in which you're fucking her makes [r_name] feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}Die Position, in der du sie fickst, lässt [r_name] sich noch fester anfühlen als zuvor Der einsetzende Orgasmus verstärkt dieses wunderbare Gefühl"
+
+# game/day21.rpy:1186
+translate german day21_r_sex_4d3d226b:
+
+    # p "Am I making you cum, [r_name]?"
+    p "Mache ich dich zum Wichsen [r_name]?"
+
+# game/day21.rpy:1191
+translate german day21_r_sex_5da6ff73:
+
+    # r "Y-y-yes! I'm cumming, [p_name]!"
+    r "J-j-ja! Ich wichse [p_name]!"
+
+# game/day21.rpy:1193
+translate german day21_r_sex_7f6c078a:
+
+    # "{i}Her orgasm is so powerful that you need to hold her close to you, otherwise your dick would escape her slippery vagina. [r_name] shakes, trembles and moans while you continue to fuck her, extending her vaginal climax."
+    "{i}Ihr Orgasmus ist so stark, dass du sie eng an dich drücken musst, sonst würde dein Schwanz aus ihrer glitschigen Vagina entweichen [r_name] zittert und stöhnt, während du sie weiter fickst und ihren vaginalen Höhepunkt ausdehnst"
+
+# game/day21.rpy:1194
+translate german day21_r_sex_643605f9:
+
+    # r "M-m-more! Oh yes! G-gggg-gg-hhhh!"
+    r "M-m-mehr! Oh ja! G-gggg-gg-hhhh!"
+
+# game/day21.rpy:1195
+translate german day21_r_sex_b965a711:
+
+    # "{i}The convulsions of her vagina are too much for you, and you feel your own orgasm approaching."
+    "{i}Die Zuckungen ihrer Vagina sind zu viel für dich und du spürst deinen eigenen Orgasmus nahen."
+# game/day21.rpy:1206
+translate german day21_r_sex_01df82f5:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. Your sister gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Nach ein paar letzten verzweifelten Stößen ziehst du dich aus [r_Name]'s zitterndem Körper zurück und verspritzt eine Fontäne Sperma auf ihren Arsch und Rücken Deine Schwester sammelt etwas davon auf ihren Fingern und leckt geistesabwesend an der salzigen Nässe."
+# game/day21.rpy:1208
+translate german day21_r_sex_0ceb8f41:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. [r_name] gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Nach ein paar letzten verzweifelten Stößen ziehst du dich aus [r_name]'s zitterndem Körper zurück und spritzt eine Fontäne Sperma auf ihren Arsch und Rücken [r_name] sammelt etwas auf ihren Fingern und leckt geistesabwesend an der salzigen Nässe."
+
+# game/day21.rpy:1224
+translate german day21_r_sex_e09afb67:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. Your sister is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Nach ein paar letzten verzweifelten Stößen ziehst du dich aus [r_Name]'s zitterndem Körper zurück und spritzt eine Fontäne Sperma in ihren keuchenden Mund Deine Schwester ist zu weit weg, um die Tropfen zu bemerken, die ihr Gesicht bespritzen und schluckt dein salziges Geschenk mit einem himmlischen Lächeln auf ihrem Gesicht"
+
+# game/day21.rpy:1226
+translate german day21_r_sex_a6b2abd2:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. [r_name] is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Nach ein paar letzten verzweifelten Stößen ziehst du dich aus [r_name]'s zitterndem Körper zurück und spritzt eine Fontäne Sperma in ihren keuchenden Mund [r_name] ist zu weit draußen, um die Tropfen zu bemerken, die ihr Gesicht bespritzen und schluckt dein salziges Geschenk mit einem himmlischen Lächeln auf ihrem Gesicht."
+
+# game/day21.rpy:1242
+translate german day21_r_sex_b1afa108:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. Your sister is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Nach ein paar letzten verzweifelten Stößen hältst du [r_Name]'s zitternden Körper fest und spritzt eine Fontäne Sperma in ihre süße kleine Kirsche Deine Schwester ist zu weit weg, um den Strom von Sperma zu bemerken, der schließlich aus ihrem Schlitz läuft und hält dich einfach mit einem himmlischen Lächeln auf ihrem Gesicht."
+# game/day21.rpy:1244
+translate german day21_r_sex_70843b19:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. [r_name] is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Nach ein paar letzten verzweifelten Stössen hältst Du [r_Name]'s zitternden Körper fest und spritzt eine Fontäne Sperma in ihre süsse kleine Kirsche [r_Name] ist zu weit draussen, um den Spermastrom zu bemerken, der schliesslich aus ihrem Schlitz tropft und hält Dich einfach mit einem himmlischen Lächeln im Gesicht fest."
+
+# game/day21.rpy:1255
+translate german day21_r_sex_00e851ae:
+
+    # r "God, [p_name]!"
+    r "Gott [p_name]!"
+
+# game/day21.rpy:1256
+translate german day21_r_sex_7436789c:
+
+    # p "How was your second time, sweetling?"
+    p "Wie war dein zweites Mal, Liebling?"
+
+# game/day21.rpy:1258
+translate german day21_r_sex_1f0a1364:
+
+    # r "Much, much better than the first!"
+    r "Viel, viel besser als der erste!"
+
+# game/day21.rpy:1259
+translate german day21_r_sex_71d914f9:
+
+    # r "I didn't know that was possible."
+    r "Ich wusste nicht, dass das möglich ist"
+
+# game/day21.rpy:1260
+translate german day21_r_sex_1b640dae:
+
+    # p "What?"
+    p "Was?"
+
+# game/day21.rpy:1261
+translate german day21_r_sex_623ceddc:
+
+    # r "You know... Climaxing like that..."
+    r "Du weißt schon, Climaxing wie das"
+
+# game/day21.rpy:1262
+translate german day21_r_sex_011fd287:
+
+    # p "It helps if you know the right spot."
+    p "Es hilft, wenn man die richtige Stelle kennt"
+
+# game/day21.rpy:1263
+translate german day21_r_sex_c586f7e7:
+
+    # r "You certainly knew."
+    r "Du hast es sicher gewusst"
+
+# game/day21.rpy:1265
+translate german day21_r_sex_353e9266:
+
+    # r "Did Sasha teach you that?"
+    r "Hat Sasha dir das beigebracht?"
+
+# game/day21.rpy:1266
+translate german day21_r_sex_01358bcd:
+
+    # p "She did, actually."
+    p "Das hat sie tatsächlich"
+
+# game/day21.rpy:1267
+translate german day21_r_sex_2d68243f:
+
+    # r "You have to tell me about it some time. But now I'm so very tired, you've worn me out completely."
+    r "Du musst es mir irgendwann erzählen, aber jetzt bin ich so müde, dass du mich völlig erschöpft hast."
+# game/day21.rpy:1269
+translate german day21_r_sex_34eb5d2d:
+
+    # r "I'm so very tired, you've worn me out completely."
+    r "Ich bin so müde, du hast mich völlig erschöpft"
+
+# game/day21.rpy:1270
+translate german day21_r_sex_9f7e8041:
+
+    # p "Sweet dreams."
+    p "Süße Träume"
+
+# game/day21.rpy:1271
+translate german day21_r_sex_1eae2286:
+
+    # r "I love you."
+    r "Ich liebe dich"
+
+# game/day21.rpy:1273
+translate german day21_r_sex_1db7fa33:
+
+    # "{i}[r_name] snuggles on your chest and falls asleep very easily after a contented sigh. You follow her almost immediately afterwards."
+    "{i}[r_name] kuschelt sich an deine Brust und schläft nach einem zufriedenen Seufzer ganz leicht ein Du folgst ihr fast unmittelbar danach"
+

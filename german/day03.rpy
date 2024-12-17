@@ -2468,3 +2468,119 @@ translate german day03_dinner_e4f9b932:
     # r "Nah. Never mind."
     r "Nee, schon gut."
 
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day03.rpy:395
+translate german day03_drinks_eb116efd:
+
+    # "{i}You push her hand away."
+    "{i}Du schiebst ihre Hand weg"
+
+# game/day03.rpy:397
+translate german day03_drinks_2a4ab6c8:
+
+    # a "Better leave you guys to it then. Come Alina."
+    a "Dann lassen wir euch mal lieber in Ruhe. Komm Alina"
+
+# game/day03.rpy:398
+translate german day03_drinks_fa2635b0:
+
+    # al "Bye."
+    al "Auf Wiedersehen."
+
+# game/day03.rpy:403
+translate german day03_drinks_2284cd57:
+
+    # j "You're in a world of trouble, my man."
+    j "Du steckst ganz schön in der Klemme, mein Freund"
+
+# game/day03.rpy:406
+translate german day03_drinks_a716609c:
+
+    # p "{i}(What?! Did he notice something?)"
+    p "(Was?! Hat er etwas bemerkt?)"
+
+# game/day03.rpy:407
+translate german day03_drinks_9d4df256:
+
+    # p "{i}(Best play it cool.)"
+    p "{i}(Bleib am besten cool)"
+
+# game/day03.rpy:408
+translate german day03_drinks_ea0f688b:
+
+    # p "How come?"
+    p "Wie kommt das?"
+
+# game/day03.rpy:409
+translate german day03_drinks_496e1be6:
+
+    # j "It seems Ana has taken an interest in you."
+    j "Es scheint, als hätte Ana Interesse an dir"
+
+# game/day03.rpy:410
+translate german day03_drinks_fd5f55ba:
+
+    # p "Oh."
+    p "Oh"
+
+# game/day03.rpy:411
+translate german day03_drinks_9d91dc7b:
+
+    # j "I know that look in her eye."
+    j "Ich kenne diesen Blick in ihren Augen"
+
+# game/day03.rpy:414
+translate german day03_drinks_a5f8b0f9:
+
+    # p "She's fucking hot. So I hope you don't mind."
+    p "Sie ist verdammt heiß, ich hoffe, es macht dir nichts aus"
+
+# game/day03.rpy:415
+translate german day03_drinks_5d28297f:
+
+    # j "Hell no! I'd sure know what to do if she weren't my sister!"
+    j "Auf keinen Fall! Wenn sie nicht meine Schwester wäre, wüsste ich genau, was ich zu tun hätte!"
+
+# game/day03.rpy:417
+translate german day03_drinks_62340ac7:
+
+    # j "Maybe Alina wants to go out with me, then we'd be dating the two hottest girls in college!"
+    j "Vielleicht will Alina mit mir ausgehen, dann wären wir mit den zwei heißesten Mädchen der Uni zusammen!"
+
+# game/day03.rpy:418
+translate german day03_drinks_35fefc3b:
+
+    # p "Keep on dreaming!"
+    p "Träumen Sie weiter!"
+
+# game/day03.rpy:419
+translate german day03_drinks_b42022b5:
+
+    # j "Hehehehe."
+    j "Hehehehe"
+
+# game/day03.rpy:422
+translate german day03_drinks_71680f12:
+
+    # p "I'm not really interested in her."
+    p "Ich bin nicht wirklich an ihr interessiert"
+
+# game/day03.rpy:423
+translate german day03_drinks_56ffb8c9:
+
+    # j "I sure hope she knows that. Ana mostly gets what she wants."
+    j "Ich hoffe, sie weiß, dass Ana meistens bekommt, was sie will"
+
+# game/day03.rpy:425
+translate german day03_drinks_947b15b5:
+
+    # "{i}You talk some more and then leave."
+    "{i}Du redest noch ein bisschen und gehst dann"
+
+# game/day03.rpy:426
+translate german day03_drinks_0fbe4e44:
+
+    # "{i}[b_name] obviously avoids you when you exit the cafe."
+    "{i}[b_name] geht dir offensichtlich aus dem Weg, wenn du das Café verlässt"
+

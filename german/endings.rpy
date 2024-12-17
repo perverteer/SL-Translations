@@ -3329,3 +3329,102 @@ translate german misc_endings_8d6c4612_1:
 
     # "{i}After blowing up his marriage, Brody became a drifter and continued living his life in continued mediocrity."
     "{i}Nachdem seine Ehe in die Brüche gegangen war, wurde Brody ein Herumtreiber und lebte sein Leben in ständiger Mittelmäßigkeit weiter."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/endings.rpy:1259
+translate german endings_er_ca_sex_6c510ca4:
+
+    # "{i}Anonymous sources on the web found out that two local Taskforce bigwigs had been in a relationship with each other."
+    "{i}Anonyme Quellen im Internet haben herausgefunden, dass zwei lokale Taskforce-Bonzen ein Verhältnis miteinander hatten."
+
+# game/endings.rpy:1260
+translate german endings_er_ca_sex_a6789c05:
+
+    # "{i}Those bigwigs were Erica Steel and Carl Woodman."
+    "{i}Diese hohen Tiere waren Erica Steel und Carl Woodman"
+
+# game/endings.rpy:1261
+translate german endings_er_ca_sex_4b4fd9a9:
+
+    # "{i}In a multi-episode exposé an anonymous author slowly picked apart their relationship, leaving much of the country in suspense about the conclusion of the story."
+    "{i}In einem mehrteiligen Exposé nahm ein anonymer Autor die Beziehung der beiden langsam auseinander und ließ einen Großteil des Landes im Ungewissen über den Ausgang der Geschichte."
+# game/endings.rpy:1262
+translate german endings_er_ca_sex_49d4378c:
+
+    # "{i}During their time at university, both Erica and Carl were a wild bunch, the author alleged, based on a mountain of evidence published alongside the stories."
+    "{i}Während ihrer Zeit an der Universität waren Erica und Carl ein wildes Paar, behauptet der Autor, der sich auf einen Berg von Beweisen stützt, die neben den Geschichten veröffentlicht wurden."
+# game/endings.rpy:1264
+translate german endings_er_ca_sex_f87d9266:
+
+    # "{i}They were both arrested for drunk driving multiple times, vandalized dorm rooms in an alcohol-fueled lover's spat and there were rumors of orgies happening late at night during weekends."
+    "{i}Beide wurden mehrfach wegen Trunkenheit am Steuer verhaftet, verwüsteten in einem alkoholbedingten Liebesstreit die Zimmer im Studentenwohnheim und es gab Gerüchte über nächtliche Orgien an den Wochenenden."
+# game/endings.rpy:1265
+translate german endings_er_ca_sex_a0e1079c:
+
+    # "{i}The final episode of the exposé sealed the fate of pious Erica and Carl and of the whole Moral Uplift movement entirely."
+    "{i}Die letzte Episode des Exposés besiegelte das Schicksal der frommen Erica und Carl und der gesamten Moral Uplift-Bewegung."
+
+# game/endings.rpy:1266
+translate german endings_er_ca_sex_b9337a73:
+
+    # "{i}The last message from the anonymous author contained a short snippet of text and a movie."
+    "{i}Die letzte Nachricht des anonymen Autors enthielt einen kurzen Textausschnitt und einen Film."
+# game/endings.rpy:1272
+translate german endings_er_ca_sex_ab836c37:
+
+    # "{i}The text was a listing of production details regarding a movie, the embedded media a lovingly remastered bootleg of that particular film."
+    "{i}Der Text war eine Auflistung von Produktionsdetails zu einem Film, der eingebettete Datenträger ein liebevoll überarbeitetes Bootleg des jeweiligen Films."
+# game/endings.rpy:1273
+translate german endings_er_ca_sex_f84eec51:
+
+    # "{i}'Hard as Steel', was its title."
+    "{i}'Hart wie Stahl' lautete der Titel."
+    
+# game/endings.rpy:1274
+translate german endings_er_ca_sex_2bc643ca:
+
+    # "{i}At the thirty-minute mark, two people appeared, who'd become Internet celebrities by then through the revealing reports."
+    "{i}Bei der Dreißig-Minuten-Marke tauchten zwei Personen auf, die bis dahin durch die Enthüllungsberichte zu Internet-Berühmtheiten geworden waren"
+
+# game/endings.rpy:1282
+translate german endings_er_ca_sex_06a68640:
+
+    # "{i}Erica and Carl truly fucked their brains out on camera."
+    "{i}Erica und Carl haben sich vor der Kamera wirklich das Hirn rausgefickt"
+
+# game/endings.rpy:1283
+translate german endings_er_ca_sex_1009e6fe:
+
+    # "{i}Nothing about the boundless lust displayed by those two people reminded anyone about the self-righteous tenets of the Moral Uplift Movement."
+    "{i}Nichts an der grenzenlosen Lust, die diese beiden Menschen an den Tag legten, erinnerte an die selbstgerechten Lehren der Moral Uplift Movement."
+
+# game/endings.rpy:1285
+translate german endings_er_ca_sex_1fe03eab:
+
+    # "{i}You all had a good laugh about Carl's heavy panting and grunting and Mrs. Steel's semen-covered body."
+    "{i}Sie haben alle über Carls heftiges Keuchen und Grunzen und Mrs. Steel's spermabedeckten Körper gelacht."
+# game/endings.rpy:1286
+translate german endings_er_ca_sex_bce10e8d:
+
+    # "{i}That one pornographic movie started an avalanche of protests against the movement and undermined them terribly."
+    "{i}Dieser eine pornografische Film löste eine Lawine von Protesten gegen die Bewegung aus und untergrub sie auf schreckliche Weise."
+# game/endings.rpy:1287
+translate german endings_er_ca_sex_2262e35a:
+
+    # "{i}Denouncing Erica and Carl's youthful transgressions and throwing them out of the organization didn't have the same effect as before."
+    "{i}Die Anprangerung von Erica und Carls Jugendsünden und ihr Rauswurf aus der Organisation hatten nicht die gleiche Wirkung wie zuvor."
+# game/endings.rpy:1288
+translate german endings_er_ca_sex_e7cd3f58:
+
+    # "{i}The organization never recovered, slowly lost its grip on society and eventually faded away in oblivion."
+    "{i}Die Organisation erholte sich nie, verlor langsam ihren Einfluss auf die Gesellschaft und geriet schließlich in Vergessenheit."
+# game/endings.rpy:1296
+translate german endings_er_ca_sex_ec37b497:
+
+    # "{i}'Hard as Steel' wasn't forgotten and quickly spread on all the tube sites, watched by millions of people across the world."
+    "{i}Hard as Steel' geriet nicht in Vergessenheit und verbreitete sich schnell auf allen Tube-Seiten, die von Millionen von Menschen in der ganzen Welt gesehen wurden."
+# game/endings.rpy:1297
+translate german endings_er_ca_sex_93f30e97:
+
+    # "{i}Despite becoming minor celebrities, Erica and Carl weren't very fond of the reveal and tried very hard to slink back out of the limelight, eventually succeeding."
+    "{i}Obwohl sie zu kleinen Berühmtheiten wurden, waren Erica und Carl nicht sehr angetan von der Enthüllung und versuchten, sich aus dem Rampenlicht zurückzuschleichen, was ihnen schließlich auch gelang."

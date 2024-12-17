@@ -179,3 +179,35 @@ translate german strings:
     old "Press {i}\"Enter\"{/i} on the on-screen keyboard to confirm"
     new "Drücken Sie {i}\"Enter\"{/i} auf der Bildschirmtastatur, um zu bestätigen"
 
+# TODO: Translation updated at 2024-11-18 23:33
+
+translate german strings:
+
+    # game/script.rpy:58
+    old "Max"
+    new "Max"
+
+    # game/script.rpy:62
+    old "Bella"
+    new "Bella"
+
+    # game/script.rpy:66
+    old "Liza"
+    new "Liza"
+
+    # game/script.rpy:70
+    old "Rachel"
+    new "Rachel"
+
+    # game/script.rpy:74
+    old "Susan"
+    new "Susan"
+
+    # game/script.rpy:630
+    old "Pregnancies"
+    new "Schwangerschaften"
+
+    # game/script.rpy:637
+    old "Who's pregnant in this scene?"
+    new "Wer ist in dieser Szene schwanger?"
+

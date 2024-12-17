@@ -3418,3 +3418,1295 @@ translate german day24_choices_7b07ad78_1:
 
     # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
     "{i}Das Gefühl, dass du kurz vor der Explosion stehst, wird immer stärker und [b_name] intensiviert ihr Saugen, um dich zum Kommen zu bewegen."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day24.rpy:602
+translate german day24_b_cinema_blowjob_a9cef6c6:
+
+    # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
+    "{i}[b_name] setzt sich plötzlich aufrecht hin und sieht dich an, ihre Lippen berühren deine und du küsst sie im Halbdunkel des Kinos"
+
+# game/day24.rpy:603
+translate german day24_b_cinema_blowjob_ef068625:
+
+    # b "You make me so happy!"
+    b "Du machst mich so glücklich!"
+
+# game/day24.rpy:604
+translate german day24_b_cinema_blowjob_e0579f1c:
+
+    # p "And you're the best thing that's happened to me!"
+    p "Und du bist das Beste, was mir je passiert ist!"
+
+# game/day24.rpy:606
+translate german day24_b_cinema_blowjob_038eeb83:
+
+    # "{i}A sudden outburst in the movie makes you mindful of your surroundings again, and you continue watching the film."
+    "{i}Ein plötzlicher Ausbruch im Film macht dich wieder auf deine Umgebung aufmerksam und du schaust dir den Film weiter an."
+# game/day24.rpy:607
+translate german day24_b_cinema_blowjob_7b3f982b:
+
+    # "{i}As you glance at [b_name], you see a smile cross her face."
+    "{i}Als du [b_name] ansiehst, siehst du ein Lächeln auf ihrem Gesicht"
+
+# game/day24.rpy:608
+translate german day24_b_cinema_blowjob_505e98ae:
+
+    # b "Why don't we have a little fun while we're here?"
+    b "Warum amüsieren wir uns nicht ein bisschen, während wir hier sind?"
+
+# game/day24.rpy:609
+translate german day24_b_cinema_blowjob_d4ca92e2:
+
+    # p "You mean?"
+    p "Sie meinen?"
+
+# game/day24.rpy:610
+translate german day24_b_cinema_blowjob_4b2343ad:
+
+    # b "Yes. Don't worry, I'll do the work..."
+    b "Ja, keine Sorge, ich mache die Arbeit"
+
+# game/day24.rpy:613
+translate german day24_b_cinema_blowjob_d7fabfaa:
+
+    # "{i}Teasingly slow, your sister unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Ganz langsam öffnet deine Schwester den Reißverschluss deiner Hose und befreit deine Erektion, die in Erwartung wächst."
+
+# game/day24.rpy:615
+translate german day24_b_cinema_blowjob_87307cb2:
+
+    # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Aufreizend langsam öffnet [b_name] den Reißverschluss deiner Hose und befreit deine Erektion, die in Erwartung wächst"
+
+# game/day24.rpy:616
+translate german day24_b_cinema_blowjob_b8fa0169:
+
+    # b "You don't need much encouragement, do you?"
+    b "Du brauchst nicht viel Ermutigung, oder?"
+
+# game/day24.rpy:617
+translate german day24_b_cinema_blowjob_8c65b140:
+
+    # p "I'm terrible at self-control..."
+    p "Ich kann mich schlecht beherrschen"
+
+# game/day24.rpy:619
+translate german day24_b_cinema_blowjob_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] schlängelt ihre warmen Finger um deinen Schaft, ihre Berührung jagt dir Schauer über den Rücken"
+
+# game/day24.rpy:620
+translate german day24_b_cinema_blowjob_5ac5bdd8:
+
+    # b "What am I going to do with you?"
+    b "Was soll ich nur mit dir machen?"
+
+# game/day24.rpy:625
+translate german day24_b_cinema_blowjob_28621535:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees and looks up at you with her big blue eyes, her soft lips touching your tip."
+    "{i}Zuerst denkst du, sie will dir einen runterholen, aber das Mädchen sinkt auf die Knie und schaut dich mit ihren großen blauen Augen an, ihre weichen Lippen berühren deine Spitze."
+
+# game/day24.rpy:626
+translate german day24_b_cinema_blowjob_588bfeb2:
+
+    # b "Does your dick like kisses as well?"
+    b "Mag dein Schwanz auch Küsse?"
+
+# game/day24.rpy:627
+translate german day24_b_cinema_blowjob_cc4c23cb:
+
+    # p "Y-y-yes."
+    p "J-J-Ja"
+
+# game/day24.rpy:628
+translate german day24_b_cinema_blowjob_5622981a:
+
+    # b "Good."
+    b "Gut"
+
+# game/day24.rpy:630
+translate german day24_b_cinema_blowjob_2e7c6246:
+
+    # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Mit diesen Worten küsst [b_name] leicht die Spitze deines Schwanzes Das feuchte Gefühl lässt dich fast sofort abspritzen"
+
+# game/day24.rpy:631
+translate german day24_b_cinema_blowjob_9073349b:
+
+    # b "Not so fast mister. Or did you just twitch?"
+    b "Nicht so schnell, Mister, oder haben Sie gerade gezuckt?"
+
+# game/day24.rpy:632
+translate german day24_b_cinema_blowjob_6b3673f0:
+
+    # p "You're amazing, [b_name]."
+    p "Du bist fantastisch [b_name]"
+
+# game/day24.rpy:635
+translate german day24_b_cinema_blowjob_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Fleißig leckt deine Schwester das Präzipitum auf, das die Spitze deines Schwanzes bedeckt"
+
+# game/day24.rpy:637
+translate german day24_b_cinema_blowjob_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Eifrig leckt [b_name] das Präzipitum auf, das die Spitze deines Schwanzes bedeckt"
+
+# game/day24.rpy:638
+translate german day24_b_cinema_blowjob_615f67a0:
+
+    # b "Mmmm, a taste of what's to come."
+    b "Mmmm, ein Vorgeschmack auf das, was noch kommt"
+
+# game/day24.rpy:640
+translate german day24_b_cinema_blowjob_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] erforscht weiter den Kopf mit ihrer Zunge und umschließt immer mehr von deinem Schwanz mit ihrem Mund, während sie ihn mit ihrem warmen Speichel bedeckt"
+
+# game/day24.rpy:642
+translate german day24_b_cinema_blowjob_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Wenn sie dein Glied schließlich ganz in den Mund nimmt und zu saugen beginnt, ist es, als würden alle deine Nervenenden vor Lust explodieren."
+# game/day24.rpy:643
+translate german day24_b_cinema_blowjob_afa9afa1:
+
+    # p "G-g-god... [b_name]!!!"
+    p "G-G-Gott [b_name]!!!"
+
+# game/day24.rpy:644
+translate german day24_b_cinema_blowjob_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}In den ruhigeren Momenten des Films wird die Stille von den feuchten Geräuschen von [b_name] erfüllt, der im hinteren Teil des Kinos an deinem Schwanz arbeitet"
+
+# game/day24.rpy:647
+translate german day24_b_cinema_blowjob_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Deine Schwester hört auf, deinen Schaft mit ihrer Hand zu stimulieren und massiert stattdessen deine Eier, indem sie ihren Mund die ganze harte Arbeit machen lässt."
+# game/day24.rpy:649
+translate german day24_b_cinema_blowjob_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] hört auf, deinen Schaft mit ihrer Hand zu stimulieren und massiert stattdessen deine Eier, indem sie ihren Mund die ganze harte Arbeit machen lässt"
+
+# game/day24.rpy:650
+translate german day24_b_cinema_blowjob_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}Das Gefühl, dass du kurz vor der Explosion stehst, wird immer stärker und [b_name] intensiviert ihr Saugen, um dich zum Kommen zu bewegen."
+# game/day24.rpy:654
+translate german day24_b_cinema_blowjob_5b70a97e:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "G-g-oood yes [b_name] I'm cumming I'm cumming"
+
+# game/day24.rpy:661
+translate german day24_b_cinema_blowjob_d4edc6ed:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Sie saugt, leckt und streichelt dich mit ihrem Mund bis zum letzten Moment, bevor du ausbrichst [b_name] zieht deinen Schwanz aus ihrem Mund und richtet ihn auf ihr Gesicht Dicke Ströme von Sperma bedecken ihre Wangen und ihre Stirn"
+
+# game/day24.rpy:669
+translate german day24_b_cinema_blowjob_5b70a97e_1:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "G-g-oood yes [b_name] I'm cumming I'm cumming"
+
+# game/day24.rpy:676
+translate german day24_b_cinema_blowjob_a7f54eac:
+
+    # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
+    "{i}Sie stimuliert deine Eichel und deinen Schaft, bis die letzten Tropfen deines Spermas eingedrungen sind, dann schluckt sie."
+
+# game/day24.rpy:686
+translate german day24_b_cinema_blowjob_0f40afbb:
+
+    # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
+    "{i}Zufrieden legt [b_name] ihren Kopf auf deinen Schoß und ihr schaut euch den Rest des Films schweigend an, bevor ihr nach Hause geht."
+# game/day24.rpy:696
+translate german day24_b_cinema_blowjob_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "Ist [b_name] in dieser Szene eine Voll-Sub?"
+
+# game/day24.rpy:700
+translate german day24_b_cinema_blowjob_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] völlig unterwürfig"
+
+# game/day24.rpy:703
+translate german day24_b_cinema_blowjob_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] nicht völlig unterwürfig"
+
+# game/day24.rpy:709
+translate german day24_b_cinema_blowjob_hard_c2469b9d:
+
+    # "{i}You unzip your pants and wait for your sister to notice your growing erection."
+    "{i}Du öffnest deine Hose und wartest darauf, dass deine Schwester deine wachsende Erektion bemerkt."
+
+# game/day24.rpy:711
+translate german day24_b_cinema_blowjob_hard_ef266da0:
+
+    # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
+    "{i}Du öffnest deine Hose und wartest darauf, dass [b_name] deine wachsende Erektion bemerkt"
+
+# game/day24.rpy:714
+translate german day24_b_cinema_blowjob_hard_009d6b3a:
+
+    # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
+    "{i}Als sie es schließlich tut, ist ihre Reaktion weder Entsetzen noch Schock, sondern sie legt zögernd eine Hand auf deinen Oberschenkel."
+
+# game/day24.rpy:715
+translate german day24_b_cinema_blowjob_hard_2a01b12d:
+
+    # "{i}Slowly but surely her hand moves towards your erection."
+    "{i}Langsam aber sicher bewegt sich ihre Hand zu deiner Erektion"
+
+# game/day24.rpy:717
+translate german day24_b_cinema_blowjob_hard_eea3a172:
+
+    # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
+    "{i}Wenn sie es endlich tut, nimmst du eine ihrer Hände und legst sie auf deinen Oberschenkel."
+
+# game/day24.rpy:718
+translate german day24_b_cinema_blowjob_hard_139feee7:
+
+    # b "You want me to?"
+    b "Sie wollen, dass ich es tue?"
+
+# game/day24.rpy:719
+translate german day24_b_cinema_blowjob_hard_ecd502cb:
+
+    # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
+    p "Mach, was du willst, aber ich bin immer noch sehr angespannt nach der Aktion mit Dwayne."
+# game/day24.rpy:721
+translate german day24_b_cinema_blowjob_hard_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] schlängelt ihre warmen Finger um deinen Schaft, ihre Berührung jagt dir Schauer über den Rücken"
+
+# game/day24.rpy:722
+translate german day24_b_cinema_blowjob_hard_17e757d2:
+
+    # p "Mmmm, yes [b_name], take care of me."
+    p "Mmmm ja [b_name] kümmere dich um mich"
+
+# game/day24.rpy:724
+translate german day24_b_cinema_blowjob_hard_7b6910bb:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your tip."
+    "{i}Zuerst denkst du, sie will dir einen runterholen, aber das Mädchen geht von sich aus auf die Knie und ihre weichen Lippen greifen direkt nach deiner Spitze."
+
+# game/day24.rpy:726
+translate german day24_b_cinema_blowjob_hard_e85153db:
+
+    # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Ohne ein Wort zu sagen, küsst [b_name] leicht die Spitze deines Schwanzes Das feuchte Gefühl lässt dich fast sofort abspritzen."
+# game/day24.rpy:727
+translate german day24_b_cinema_blowjob_hard_10e78841:
+
+    # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over the head of your cock."
+    "{i}Mit schierer Willenskraft schaffst du es, deinen Orgasmus hinauszuzögern, obwohl das Sperma bereits aus deinem Penis herausgespritzt ist und über deine Schwanzspitze läuft."
+# game/day24.rpy:733
+translate german day24_b_cinema_blowjob_hard_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Fleißig leckt deine Schwester das Präzipitum auf, das die Spitze deines Schwanzes bedeckt"
+
+# game/day24.rpy:735
+translate german day24_b_cinema_blowjob_hard_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Eifrig leckt [b_name] das Präzipitum auf, das die Spitze deines Schwanzes bedeckt"
+
+# game/day24.rpy:736
+translate german day24_b_cinema_blowjob_hard_85eef047:
+
+    # p "A little taste of what's to come."
+    p "Ein kleiner Vorgeschmack auf das, was noch kommen wird"
+
+# game/day24.rpy:737
+translate german day24_b_cinema_blowjob_hard_16c6f644:
+
+    # p "Keep going, sweetling."
+    p "Weiter so, mein Schatz"
+
+# game/day24.rpy:739
+translate german day24_b_cinema_blowjob_hard_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] erforscht weiter den Kopf mit ihrer Zunge und umschließt immer mehr von deinem Schwanz mit ihrem Mund, während sie ihn mit ihrem warmen Speichel bedeckt"
+
+# game/day24.rpy:741
+translate german day24_b_cinema_blowjob_hard_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Wenn sie dein Glied schließlich ganz in den Mund nimmt und zu saugen beginnt, ist es, als würden alle deine Nervenenden vor Lust explodieren."
+# game/day24.rpy:742
+translate german day24_b_cinema_blowjob_hard_4eb69aa0:
+
+    # p "G-g-god... [b_name], right there!"
+    p "G-g-gott [b_name] genau da!"
+
+# game/day24.rpy:743
+translate german day24_b_cinema_blowjob_hard_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}In den ruhigeren Momenten des Films wird die Stille von den feuchten Geräuschen von [b_name] erfüllt, der im hinteren Teil des Kinos an deinem Schwanz arbeitet"
+
+# game/day24.rpy:746
+translate german day24_b_cinema_blowjob_hard_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Deine Schwester hört auf, deinen Schaft mit ihrer Hand zu stimulieren und massiert stattdessen deine Eier, indem sie ihren Mund die ganze harte Arbeit machen lässt."
+# game/day24.rpy:748
+translate german day24_b_cinema_blowjob_hard_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] hört auf, deinen Schaft mit ihrer Hand zu stimulieren und massiert stattdessen deine Eier, indem sie ihren Mund die ganze harte Arbeit machen lässt"
+
+# game/day24.rpy:749
+translate german day24_b_cinema_blowjob_hard_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}Das Gefühl, dass du kurz vor der Explosion stehst, wird immer stärker und [b_name] intensiviert ihr Saugen, um dich zum Kommen zu bewegen."
+# game/day24.rpy:753
+translate german day24_b_cinema_blowjob_hard_15724afa:
+
+    # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
+    p "Ich komme [b_name] ich komme Zeig mir dein hübsches Gesicht"
+
+# game/day24.rpy:760
+translate german day24_b_cinema_blowjob_hard_c81a3959:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Sie saugt, leckt und streichelt dich mit ihrem Mund bis zum letzten Moment, als [b_name] deinen Schwanz aus ihrem Mund zieht und ihn pflichtbewusst auf ihr Gesicht richtet. Dicke Spermaströme bedecken ihre Wangen und ihre Stirn."
+# game/day24.rpy:768
+translate german day24_b_cinema_blowjob_hard_367fcf46:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
+    p "G-g-oood yes [b_name] I'm cumming I'm cumming Keep going!"
+
+# game/day24.rpy:775
+translate german day24_b_cinema_blowjob_hard_1cda4a77:
+
+    # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your tip and shaft until the last drops of semen have entered, then she swallows."
+    "{i}Dicke Ströme von Sperma füllen ihren Mund und sie stimuliert pflichtbewusst deine Spitze und deinen Schaft, bis die letzten Tropfen des Spermas eingedrungen sind, dann schluckt sie"
+
+# game/day24.rpy:785
+translate german day24_b_cinema_blowjob_hard_a53e7326:
+
+    # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
+    "{i}[b_name] setzt sich wieder neben dich und du schaust dir den Rest des Films schweigend an. Sie hat nichts dagegen, dass du deinen Arm auf ihre Schulter legst und wenn du zur Seite schaust, glaubst du, ein vages Lächeln auf ihrem Gesicht zu sehen."
+# game/day24.rpy:799
+translate german day24_l_masturbation_96021e66:
+
+    # l "{i}(Hmmmm, I can't sleep.)"
+    l "{i}(Hmmmm ich kann nicht schlafen)"
+
+# game/day24.rpy:800
+translate german day24_l_masturbation_8d02f8ee:
+
+    # l "{i}(I don't know what came over me today after the dance class.)"
+    l "{i}(Ich weiß nicht, was heute nach dem Tanzkurs über mich gekommen ist)"
+
+# game/day24.rpy:801
+translate german day24_l_masturbation_7c5b21b2:
+
+    # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
+    l "{i}(Der Tanz war unglaublich, wie wir uns durch den Raum bewegten, wie er mich führte)"
+
+# game/day24.rpy:803
+translate german day24_l_masturbation_d6f704e1:
+
+    # l "{i}(But those... those urges... I've never felt anything so strong.)"
+    l "{i}(Aber diese Triebe, die habe ich noch nie so stark gespürt)"
+
+# game/day24.rpy:804
+translate german day24_l_masturbation_3cbc1725:
+
+    # l "{i}(Maybe I'm just horny?)"
+    l "{i}(Vielleicht bin ich einfach nur geil?)"
+
+# game/day24.rpy:805
+translate german day24_l_masturbation_02645f0d:
+
+    # l "{i}(I was never horny... But that was before...)"
+    l "{i}(Ich war nie geil, aber das war früher)"
+
+# game/day24.rpy:806
+translate german day24_l_masturbation_cddb261a:
+
+    # l "{i}(I'm just going to touch myself, just a little bit.)"
+    l "{i}(Ich werde mich nur ein wenig berühren)"
+
+# game/day24.rpy:808
+translate german day24_l_masturbation_117ee799:
+
+    # l "{i}(Mmmmm. That feels good.)"
+    l "{i}(Mmmmm Das fühlt sich gut an)"
+
+# game/day24.rpy:809
+translate german day24_l_masturbation_f7f616cf:
+
+    # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
+    l "Was ist, wenn jemand den Raum betritt und mich hier entblößt liegen sieht?"
+
+# game/day24.rpy:815
+translate german day24_l_masturbation_f74bcfb0:
+
+    # l "Aaah!"
+    l "Aaah!"
+
+# game/day24.rpy:816
+translate german day24_l_masturbation_9b376897:
+
+    # l "{i}(I'm so wet, how can I be so wet?)"
+    l "{i}(Ich bin so nass, wie kann ich so nass sein?)"
+
+# game/day24.rpy:817
+translate german day24_l_masturbation_2ed3fe55:
+
+    # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
+    l "{i}(Ich dachte nur an [p_name] Seine starken Arme sein Körper nahe bei mir)"
+
+# game/day24.rpy:819
+translate german day24_l_masturbation_e00b402f:
+
+    # l "{i}(I should slip a finger in, that feels so nice.)"
+    l "{i}(ich sollte einen Finger hineinstecken, das fühlt sich so gut an)"
+
+# game/day24.rpy:820
+translate german day24_l_masturbation_5c161461:
+
+    # l "{i}(And I could pretend it was his...)"
+    l "{i}(Und ich könnte so tun, als ob es seins wäre)"
+
+# game/day24.rpy:821
+translate german day24_l_masturbation_a66c0813:
+
+    # l "{i}(Damnit. I shouldn't think like that.)"
+    l "{i}(Verdammt, ich sollte nicht so denken)"
+
+# game/day24.rpy:822
+translate german day24_l_masturbation_3124a776:
+
+    # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
+    l "(Aber es fühlt sich so gut an! Ich frage mich, wie es sich anfühlen würde, wenn er)"
+
+# game/day24.rpy:827
+translate german day24_l_masturbation_ae8b0feb:
+
+    # l "{i}(No!)"
+    l "{i}(Nein!)"
+
+# game/day24.rpy:828
+translate german day24_l_masturbation_37bc17c2:
+
+    # l "{i}(I could use that thing... No harm in trying...)"
+    l "{i}(Ich könnte das Ding gebrauchen, es schadet nicht, es zu versuchen)"
+
+# game/day24.rpy:830
+translate german day24_l_masturbation_75351201:
+
+    # l "{i}(Now, where did I leave it?)"
+    l "{i}(Wo habe ich es jetzt gelassen?)"
+
+# game/day24.rpy:831
+translate german day24_l_masturbation_cbf43995:
+
+    # l "{i}(I tucked it away somewhere under my bras.)"
+    l "{i}(Ich habe es irgendwo unter meinem BH versteckt)"
+
+# game/day24.rpy:833
+translate german day24_l_masturbation_0474ea86:
+
+    # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
+    l "{i}(Mensch, das Ding ist so obszön, all diese Beulen und Rippen, ich wette, es fühlt sich innen kalt an)"
+
+# game/day24.rpy:835
+translate german day24_l_masturbation_5927cf3e:
+
+    # l "{i}(Surely, only cheap porn stars use this...)"
+    l "{i}(Sicherlich benutzen das nur billige Pornostars)"
+
+# game/day24.rpy:836
+translate german day24_l_masturbation_4211705b:
+
+    # l "{i}(Let's turn it on...)"
+    l "{i}(Schalten wir es ein)"
+
+# game/day24.rpy:841
+translate german day24_l_masturbation_28e7e8c3:
+
+    # l "{i}(Oh god, that's far too intense! This thing buzzes like an angry bee.)"
+    l "{i}(Oh Gott, das ist viel zu heftig! Das Ding brummt wie eine wütende Biene)"
+
+# game/day24.rpy:842
+translate german day24_l_masturbation_ad217b4b:
+
+    # l "{i}(No way I'm going to put that inside of me...)"
+    l "{i}(Ich werde das auf keinen Fall in mich hineinstecken)"
+
+# game/day24.rpy:843
+translate german day24_l_masturbation_a27cdeef:
+
+    # l "{i}(Let's see how it feels against my lips.)"
+    l "{i}(Mal sehen, wie es sich auf meinen Lippen anfühlt)"
+
+# game/day24.rpy:849
+translate german day24_l_masturbation_819d64c5:
+
+    # l "Ooh god!"
+    l "Ooh Gott!"
+
+# game/day24.rpy:850
+translate german day24_l_masturbation_e139ff9f:
+
+    # l "{i}(Shit! Did I do that out loud?)"
+    l "{i}(Scheiße! Habe ich das laut gesagt?)"
+
+# game/day24.rpy:851
+translate german day24_l_masturbation_541edf9a:
+
+    # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
+    l "{i}(Es fühlt sich so weich an und die Vibrationen sind nicht zu stark. Vielleicht sollte ich es fester gegen meine Muschi drücken)"
+
+# game/day24.rpy:853
+translate german day24_l_masturbation_daa4514e:
+
+    # l "Ooh god yes!!!"
+    l "Oh Gott, ja!!!"
+
+# game/day24.rpy:854
+translate german day24_l_masturbation_8546bc73:
+
+    # l "{i}(I want it in me!)"
+    l "{i}(Ich will es in mir!)"
+
+# game/day24.rpy:858
+translate german day24_l_masturbation_bbe2a246:
+
+    # p "{i}(Better knock first, maybe she's already asleep.)"
+    p "{i}(Klopf lieber vorher an, vielleicht schläft sie schon)"
+
+# game/day24.rpy:864
+translate german day24_l_masturbation_dda64edc:
+
+    # l "{i}(No! No! Not now!!!)"
+    l "{i}(Nein! Nein! Nicht jetzt!!!)"
+
+# game/day24.rpy:865
+translate german day24_l_masturbation_b2267e91:
+
+    # l "Whoever it is, please go away!"
+    l "Wer immer es ist, bitte gehen Sie weg!"
+
+# game/day24.rpy:866
+translate german day24_l_masturbation_ee5d2a57:
+
+    # l "{i}(Please don't come in, not like this! Please!)"
+    l "Bitte kommen Sie nicht so rein! Bitte!"
+
+# game/day24.rpy:867
+translate german day24_l_masturbation_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:868
+translate german day24_l_masturbation_82822a0c_1:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:869
+translate german day24_l_masturbation_daaddcaa:
+
+    # l "{i}(I think it's safe again.)"
+    l "{i}(Ich glaube, es ist wieder sicher)"
+
+# game/day24.rpy:871
+translate german day24_l_masturbation_62a851fe:
+
+    # l "{i}(But now the mood is completely ruined.)"
+    l "{i}(Aber jetzt ist die Stimmung völlig ruiniert)"
+
+# game/day24.rpy:872
+translate german day24_l_masturbation_e8f4bcb5:
+
+    # l "{i}(Stupid thing.)"
+    l "{i}(Dummes Ding)"
+
+# game/day24.rpy:873
+translate german day24_l_masturbation_83d4f7fb:
+
+    # l "{i}(I hate you.)"
+    l "{i}(Ich hasse dich)"
+
+# game/day24.rpy:874
+translate german day24_l_masturbation_f1bc8cc9:
+
+    # l "{i}(Why am I talking to a vibrator?)"
+    l "{i}(Warum spreche ich mit einem Vibrator?)"
+
+# game/day24.rpy:875
+translate german day24_l_masturbation_288197ec:
+
+    # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
+    l "{i}(Ich ruhe mich lieber aus und vergrabe das dreckige Ding morgen wieder unter einem Haufen Wäsche)"
+
+# game/day24.rpy:877
+translate german day24_l_masturbation_80445dad:
+
+    # l "{i}(I'm so tired...)"
+    l "{i}(Ich bin so müde)"
+
+# game/day24.rpy:878
+translate german day24_l_masturbation_82822a0c_2:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:898
+translate german day24_r_sex_c5b27efe:
+
+    # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
+    "{i}Wenn du an die Badezimmertür klopfst und [r_name] sagst, dass du es bist, wirst du schnell hereingebeten"
+
+# game/day24.rpy:904
+translate german day24_r_sex_faf33115:
+
+    # r "Hey handsome!"
+    r "Hey Hübscher!"
+
+# game/day24.rpy:905
+translate german day24_r_sex_77c3587b:
+
+    # p "How was your first day at college?"
+    p "Wie war dein erster Tag an der Uni?"
+
+# game/day24.rpy:906
+translate german day24_r_sex_8a91cb86:
+
+    # r "I forgot how utterly boring it was."
+    r "Ich hatte ganz vergessen, wie langweilig es ist"
+
+# game/day24.rpy:907
+translate german day24_r_sex_c7f06fb0:
+
+    # r "But Ana and Alina pulled me through."
+    r "Aber Ana und Alina haben mich durchgebracht"
+
+# game/day24.rpy:908
+translate german day24_r_sex_84c620c1:
+
+    # p "What?! You didn't think of me once?"
+    p "Was?! Hast du nicht einmal an mich gedacht?"
+
+# game/day24.rpy:909
+translate german day24_r_sex_7d4bdbf7:
+
+    # r "Of course I did, silly, you were on my mind the rest of the time."
+    r "Natürlich habe ich dummerweise den Rest der Zeit an dich gedacht"
+
+# game/day24.rpy:911
+translate german day24_r_sex_3bdcda22:
+
+    # p "Are you done?"
+    p "Are you done?"
+
+# game/day24.rpy:912
+translate german day24_r_sex_3915c8e5:
+
+    # r "Do you want me to be?"
+    r "Willst du, dass ich es bin?"
+
+# game/day24.rpy:913
+translate german day24_r_sex_d5151d80:
+
+    # p "No! I've missed you all day and you look so gorgeous."
+    p "Nein! Ich habe dich den ganzen Tag vermisst und du siehst so wunderschön aus"
+
+# game/day24.rpy:914
+translate german day24_r_sex_486dc62e:
+
+    # r "Why don't you slide in with me, the water is still warm."
+    r "Warum rutschst du nicht mit mir rein, das Wasser ist noch warm"
+
+# game/day24.rpy:916
+translate german day24_r_sex_8c5ced7c:
+
+    # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
+    "{i}[r_name] schmiegt sich an dich, ihr Arsch reibt sich an deinem Schwanz"
+
+# game/day24.rpy:917
+translate german day24_r_sex_86e48495:
+
+    # r "You're already getting a hard-on?!"
+    r "Du bekommst schon einen Steifen?!"
+
+# game/day24.rpy:918
+translate german day24_r_sex_e88a0767:
+
+    # p "Sorry."
+    p "Entschuldigung"
+
+# game/day24.rpy:919
+translate german day24_r_sex_ed3dc877:
+
+    # r "I don't mind!"
+    r "Das macht mir nichts aus!"
+
+# game/day24.rpy:920
+translate german day24_r_sex_cf0eaf12:
+
+    # r "God, I'm so tired."
+    r "Gott, ich bin so müde"
+
+# game/day24.rpy:921
+translate german day24_r_sex_071ad574:
+
+    # p "You're tense as well, the muscles in your shoulders feel way too hard."
+    p "Du bist auch angespannt, die Muskeln in deinen Schultern fühlen sich viel zu hart an"
+
+# game/day24.rpy:922
+translate german day24_r_sex_a0743e29:
+
+    # r "What are you going to do about it?"
+    r "Was wollen Sie dagegen tun?"
+
+# game/day24.rpy:923
+translate german day24_r_sex_4ecf5b30:
+
+    # p "I know just the thing."
+    p "Ich weiß genau das Richtige"
+
+# game/day24.rpy:929
+translate german day24_r_sex_c53373d1:
+
+    # "{i}You put your hands on her shoulders and massage her back. Your sister closes her eyes in pleasure."
+    "{i}Du legst deine Hände auf ihre Schultern und massierst ihren Rücken Deine Schwester schließt genüsslich die Augen"
+
+# game/day24.rpy:931
+translate german day24_r_sex_565a891e:
+
+    # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
+    "{i}Du legst deine Hände auf ihre Schultern und massierst ihren Rücken [r_Name] schließt genüsslich die Augen"
+
+# game/day24.rpy:932
+translate german day24_r_sex_37fe5aac:
+
+    # r "Mmmmm. Now you have to do this every day."
+    r "Mmmmm Jetzt musst du das jeden Tag machen"
+
+# game/day24.rpy:933
+translate german day24_r_sex_e6e01fc5:
+
+    # p "I really, really don't mind."
+    p "Es macht mir wirklich nichts aus"
+
+# game/day24.rpy:934
+translate german day24_r_sex_07dfdc59:
+
+    # r "Kiss me!"
+    r "Küss mich!"
+
+# game/day24.rpy:936
+translate german day24_r_sex_488c4ffb:
+
+    # "{i}Then you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
+    "{i}Dann richtest du deine Aufmerksamkeit auf ihre Lippen und küsst sie leidenschaftlich [r_name] dreht ihr Gesicht ganz zu dir und stöhnt leicht, als ihr Arsch wieder deinen Schwanz berührt"
+
+# game/day24.rpy:937
+translate german day24_r_sex_55fbac4d:
+
+    # p "Mmm, I think something else is too tense as well."
+    p "Mmm, ich glaube, etwas anderes ist auch zu angespannt"
+
+# game/day24.rpy:942
+translate german day24_r_sex_29a1976e:
+
+    # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
+    "{i}Deine Hand taucht unter die Wasserlinie und du berührst ihre weiche Muschi, das Mädchen legt eine ermutigende Hand auf deine."
+
+# game/day24.rpy:943
+translate german day24_r_sex_1c10fcb0:
+
+    # r "Yes, I'm really tense there..."
+    r "Ja, ich bin da wirklich angespannt"
+
+# game/day24.rpy:946
+translate german day24_r_sex_51e8ab07:
+
+    # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
+    "{i}Durch ihre Worte erregt, berührst du ihre Muschi und stimulierst ihren Kitzler, während du mit der anderen Hand ihre kleine Brust umfängst."
+# game/day24.rpy:947
+translate german day24_r_sex_ffd0dbde:
+
+    # r "Y-y-yes [p_name], t-touch me right there."
+    r "Ja, ja, [p_name] berühr mich genau da"
+
+# game/day24.rpy:948
+translate german day24_r_sex_249929b7:
+
+    # r "Aaaaah!"
+    r "Aaaaah!"
+
+# game/day24.rpy:955
+translate german day24_r_sex_02dd6072:
+
+    # b "Can I come in, [r_name]?"
+    b "Darf ich reinkommen [r_name]?"
+
+# game/day24.rpy:956
+translate german day24_r_sex_55fab30a:
+
+    # b "I really need to pee!"
+    b "Ich muss wirklich pinkeln!"
+
+# game/day24.rpy:957
+translate german day24_r_sex_f118db0c:
+
+    # r "Fuck! It's [b_name]!"
+    r "Scheiße! Es ist [b_name]!"
+
+# game/day24.rpy:958
+translate german day24_r_sex_47ac2dc7:
+
+    # r "Hide!!!"
+    r "Hide!!!"
+
+# game/day24.rpy:960
+translate german day24_r_sex_24cdadc7:
+
+    # r "Just a minute, sis!"
+    r "Nur eine Minute, Schwesterherz!"
+
+# game/day24.rpy:962
+translate german day24_r_sex_969bd260:
+
+    # r "Just a minute, [b_name]!"
+    r "Einen Moment [b_name]!"
+
+# game/day24.rpy:964
+translate german day24_r_sex_ef9c89de:
+
+    # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
+    "{i}Das glitschige Wasser macht es schwierig, schnell aus der Badewanne zu kommen, aber mit etwas Akrobatik gelingt es dir, die Dusche zu erreichen und den Vorhang zu schließen."
+# game/day24.rpy:965
+translate german day24_r_sex_d3cba48b:
+
+    # r "Come in!"
+    r "Kommen Sie rein!"
+
+# game/day24.rpy:967
+translate german day24_r_sex_390a81d1:
+
+    # b "Hey, thanks!"
+    b "Hey, danke!"
+
+# game/day24.rpy:968
+translate german day24_r_sex_d45e798a:
+
+    # b "Are you okay? There was a lot of noise back there."
+    b "Geht es dir gut? Da hinten war eine Menge Lärm"
+
+# game/day24.rpy:969
+translate german day24_r_sex_4ad5bfc6:
+
+    # r "Yes... er... I thought I'd locked the door and wanted to open it for you."
+    r "Ja, ich dachte, ich hätte die Tür abgeschlossen und wollte sie für Sie öffnen"
+
+# game/day24.rpy:970
+translate german day24_r_sex_6f6ed129:
+
+    # b "The door was open."
+    b "Die Tür war offen"
+
+# game/day24.rpy:971
+translate german day24_r_sex_1fcc4145:
+
+    # r "I realized that when I was halfway there, that was the noises you heard. Probably."
+    r "Als ich auf halbem Weg war, habe ich gemerkt, dass das wahrscheinlich die Geräusche waren, die du gehört hast."
+
+# game/day24.rpy:972
+translate german day24_r_sex_2b4a84c9:
+
+    # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
+    p "{i}(Kümmere dich nicht um mich, ich bin nicht hier und dusche verdammt noch mal nicht!!!)"
+
+# game/day24.rpy:977
+translate german day24_r_sex_9e694855:
+
+    # b "Probably."
+    b "Wahrscheinlich"
+
+# game/day24.rpy:978
+translate german day24_r_sex_16d84762:
+
+    # b "God. Thank you again for letting me in. I really needed to go."
+    b "Gott, danke noch mal, dass du mich reingelassen hast, ich musste wirklich gehen."
+# game/day24.rpy:980
+translate german day24_r_sex_314fc477:
+
+    # r "No problem."
+    r "Kein Problem"
+
+# game/day24.rpy:981
+translate german day24_r_sex_c0644af4:
+
+    # b "So you've started college again today?"
+    b "Du hast also heute wieder mit dem Studium begonnen?"
+
+# game/day24.rpy:982
+translate german day24_r_sex_eb6544d5:
+
+    # r "Yup. Hated it."
+    r "Jupp hat es gehasst"
+
+# game/day24.rpy:983
+translate german day24_r_sex_907473de:
+
+    # b "Don't worry, once you have your diploma, you can do whatever you like."
+    b "Keine Sorge, wenn du dein Diplom hast, kannst du machen, was du willst."
+# game/day24.rpy:984
+translate german day24_r_sex_9e58e45e:
+
+    # r "Did you have a good day?"
+    r "Hattest du einen schönen Tag?"
+
+# game/day24.rpy:986
+translate german day24_r_sex_8bab34f6:
+
+    # b "Yes, I really did!"
+    b "Ja, das habe ich wirklich!"
+
+# game/day24.rpy:987
+translate german day24_r_sex_63f9a95f:
+
+    # r "Tell me!"
+    r "Sag es mir!"
+
+# game/day24.rpy:988
+translate german day24_r_sex_070ecb41:
+
+    # b "Long story!"
+    b "Lange Geschichte!"
+
+# game/day24.rpy:990
+translate german day24_r_sex_8f376377:
+
+    # r "Come now, [b_name], you're positively glowing."
+    r "Komm schon [b_name] du glühst ja förmlich"
+
+# game/day24.rpy:991
+translate german day24_r_sex_5cf30c78:
+
+    # b "I know, I know. I think for once, things are working out."
+    b "Ich weiß, ich weiß, ich glaube, jetzt klappt es mal"
+
+# game/day24.rpy:992
+translate german day24_r_sex_bee3ef17:
+
+    # p "{i}(Yes, today was a great day.)"
+    p "{i}(Ja, heute war ein toller Tag)"
+
+# game/day24.rpy:993
+translate german day24_r_sex_0122e9ae:
+
+    # r "You're in love!!! I just know it!"
+    r "Du bist verliebt!!! Ich weiß es einfach!"
+
+# game/day24.rpy:995
+translate german day24_r_sex_2993e132:
+
+    # b "Maybe..."
+    b "Vielleicht"
+
+# game/day24.rpy:996
+translate german day24_r_sex_45116a39:
+
+    # r "Who?! You have to tell me!"
+    r "Wer?! Du musst es mir sagen!"
+
+# game/day24.rpy:997
+translate german day24_r_sex_12ff8583:
+
+    # b "Just enjoy your bath. I'll tell you when I'm ready."
+    b "Genieße einfach dein Bad, ich sage dir, wenn ich fertig bin"
+
+# game/day24.rpy:998
+translate german day24_r_sex_72562e9e:
+
+    # p "{i}(Will she ever be ready?)"
+    p "{i}(Wird sie jemals bereit sein?)"
+
+# game/day24.rpy:1000
+translate german day24_r_sex_d2622335:
+
+    # b "{i}(That can't be true, can it?)"
+    b "{i}(Das kann doch nicht wahr sein, oder?)"
+
+# game/day24.rpy:1001
+translate german day24_r_sex_5d7f781e:
+
+    # b "No, but someone special did help me move past a bad experience."
+    b "Nein, aber jemand Besonderes hat mir geholfen, eine schlechte Erfahrung zu überwinden."
+# game/day24.rpy:1002
+translate german day24_r_sex_0d7d562f:
+
+    # r "I'm glad. It sure looks good on you!"
+    r "Ich bin froh, dass es dir so gut steht!"
+
+# game/day24.rpy:1003
+translate german day24_r_sex_faf82db6:
+
+    # p "{i}(She thinks I'm someone special. [b_name] is really coming around!)"
+    p "{i}(Sie denkt, dass ich jemand Besonderes bin, [b_name] kommt wirklich rum!)"
+
+# game/day24.rpy:1005
+translate german day24_r_sex_da5994be:
+
+    # b "{i}(Not a chance of that!)"
+    b "{i}(Das gibt's doch nicht!)"
+
+# game/day24.rpy:1006
+translate german day24_r_sex_fafdc263:
+
+    # b "No, but someone did help me move past a bad experience."
+    b "Nein, aber jemand hat mir geholfen, eine schlechte Erfahrung zu überwinden."
+# game/day24.rpy:1007
+translate german day24_r_sex_6d60bdeb:
+
+    # r "Whatever, you just look happier is all."
+    r "Wie auch immer, du siehst einfach glücklicher aus"
+
+# game/day24.rpy:1008
+translate german day24_r_sex_be6b6660:
+
+    # p "{i}(I guess she hasn't fully submitted herself to me yet. I still have some work to do.)"
+    p "{i}(ich schätze, sie hat sich mir noch nicht ganz unterworfen, ich habe noch einiges zu tun)"
+
+# game/day24.rpy:1010
+translate german day24_r_sex_d8a5cb24:
+
+    # b "Well, you know, same old, same old."
+    b "Na ja, du weißt schon, immer das Gleiche, immer das Gleiche"
+
+# game/day24.rpy:1011
+translate german day24_r_sex_555666ff:
+
+    # r "Yeah."
+    r "Ja"
+
+# game/day24.rpy:1012
+translate german day24_r_sex_22dcb7fa:
+
+    # b "I'll leave you to your bath."
+    b "Ich überlasse dich deinem Bad"
+
+# game/day24.rpy:1013
+translate german day24_r_sex_35cc7ca5:
+
+    # p "{i}(Don't look to the right!)"
+    p "{i}(Nicht nach rechts schauen!)"
+
+# game/day24.rpy:1014
+translate german day24_r_sex_b93142cc:
+
+    # r "Thanks, sleep tight."
+    r "Danke, schlaf gut"
+
+# game/day24.rpy:1015
+translate german day24_r_sex_14aef3ff:
+
+    # b "You too, sis."
+    b "Du auch, Schwesterchen"
+
+# game/day24.rpy:1024
+translate german day24_r_sex_d31f2b7e:
+
+    # r "I think she's gone."
+    r "Ich glaube, sie ist weg"
+
+# game/day24.rpy:1025
+translate german day24_r_sex_f13c71aa:
+
+    # r "How's my peeping Tom?"
+    r "Wie geht es meinem Spanner?"
+
+# game/day24.rpy:1026
+translate german day24_r_sex_db0dba76:
+
+    # p "Scared shitless, but I'll manage."
+    p "Ich habe eine Scheißangst, aber ich schaffe das schon"
+
+# game/day24.rpy:1027
+translate german day24_r_sex_306b895b:
+
+    # r "Let's have a shower together then, get rid of all that sweat."
+    r "Lass uns zusammen duschen, dann werden wir den ganzen Schweiß los"
+
+# game/day24.rpy:1033
+translate german day24_r_sex_0ba03374:
+
+    # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Du spülst den Körper deiner Schwester mit den Händen ab, damit du die Seifenlauge loswirst und sie nach Belieben anfassen kannst, ohne dass [r_Name] sich beschwert."
+# game/day24.rpy:1035
+translate german day24_r_sex_c8affe1d:
+
+    # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Du spülst den Körper deiner Freundin mit deinen Händen ab, um die Seifenlauge loszuwerden und dir einen Vorwand zu geben, sie nach Belieben zu berühren."
+# game/day24.rpy:1036
+translate german day24_r_sex_3943a244:
+
+    # r "Mmmm, this feels nice as well."
+    r "Mmmm, das fühlt sich auch gut an"
+
+# game/day24.rpy:1037
+translate german day24_r_sex_102cd8bd:
+
+    # r "Listen, [p_name], I know I said I was tired..."
+    r "Hören Sie [p_name], ich weiß, ich habe gesagt, dass ich müde bin"
+
+# game/day24.rpy:1038
+translate german day24_r_sex_b1388a61:
+
+    # p "Yes... I have a feeling I like where this is going."
+    p "Ja, ich habe das Gefühl, dass es mir gefällt, wohin das führt"
+
+# game/day24.rpy:1043
+translate german day24_r_sex_510cc1ff:
+
+    # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
+    "{i}Als sie deine Erektion bemerkt, zieht [r_name] ihr Bein hoch und reibt ihre Muschi am Schaft entlang"
+
+# game/day24.rpy:1045
+translate german day24_r_sex_8fdada81:
+
+    # r "I really want to have sex."
+    r "Ich möchte wirklich Sex haben"
+
+# game/day24.rpy:1047
+translate german day24_r_sex_64ba66d3:
+
+    # r "I want you inside of me."
+    r "Ich will dich in mir spüren"
+
+# game/day24.rpy:1048
+translate german day24_r_sex_a7109580:
+
+    # r "Feel you, feel your cum inside of me."
+    r "Spüre, wie du dein Sperma in mir spürst"
+
+# game/day24.rpy:1051
+translate german day24_r_sex_a1b15a1a:
+
+    # "{i}Despite the water, you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
+    "{i}Trotz des Wassers schaffst du es, deinen Schwanz in ihre Muschi zu stecken. Du packst ihren Hintern fest und stößt deinen Schaft sanft in sie hinein, was [r_name] ein leises Stöhnen entlockt."
+# game/day24.rpy:1053
+translate german day24_r_sex_8a7c140b:
+
+    # r "Ah yes, fuck me. I want to feel you so bad."
+    r "Ah ja, fick mich, ich will dich so sehr spüren"
+
+# game/day24.rpy:1058
+translate german day24_r_sex_69f4a87e:
+
+    # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
+    "{i}Aus Angst zu fallen, lässt du [r_Name] ihre Hand an die Wand lehnen, damit du sie ungehindert ficken kannst"
+
+# game/day24.rpy:1059
+translate german day24_r_sex_488f2b52:
+
+    # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
+    r "G-g-gott fick mich härter! Ich will dich [p_name]! Fick mich!"
+
+# game/day24.rpy:1061
+translate german day24_r_sex_fe069684:
+
+    # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust, you seem to pull her closer towards you, her ass smacking against your abdomen."
+    "{i}[r_name] krallt sich in dein nasses Haar, während du an ihrem Ohrläppchen knabberst Mit jedem Stoß scheinst du sie näher an dich heranzuziehen, ihr Arsch schmatzt gegen deinen Bauch"
+
+# game/day24.rpy:1062
+translate german day24_r_sex_8a8d4ccb:
+
+    # p "I love you so much, [r_name]!"
+    p "Ich liebe dich so sehr [r_name]!"
+
+# game/day24.rpy:1063
+translate german day24_r_sex_50b82d1f:
+
+    # r "Aaaaah, keep going!"
+    r "Aaaaah, mach weiter!"
+
+# game/day24.rpy:1069
+translate german day24_r_sex_4ce5ecb2:
+
+    # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
+    "{i}Du drehst sie um, damit du ihr in die Augen schauen kannst, wenn du zum Orgasmus kommst. Trotz des warmen Wassers ist ihr Atem heiß an deinen Wangen, wenn sie vor Vergnügen stöhnt."
+
+# game/day24.rpy:1074
+translate german day24_r_sex_f6992741:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "G-g-gott ich bin bereit [r_name]!"
+
+# game/day24.rpy:1075
+translate german day24_r_sex_33470745:
+
+    # r "Keep fucking me! Please!"
+    r "Fick mich weiter! Bitte!"
+
+# game/day24.rpy:1083
+translate german day24_r_sex_c0a02d04:
+
+    # p "G-g-aaaaah!"
+    p "G-g-aaaaah!"
+
+# game/day24.rpy:1084
+translate german day24_r_sex_6fbc588f:
+
+    # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
+    "{i}Du erfüllst ihr diesen Wunsch und stößt sie so lange, bis deine Sahne aus ihrer Muschi tropft und sich mit dem Wasser der Dusche vermischt."
+# game/day24.rpy:1094
+translate german day24_r_sex_f6992741_1:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "G-g-gott ich bin bereit [r_name]!"
+
+# game/day24.rpy:1095
+translate german day24_r_sex_50ed1e49:
+
+    # p "On your knees baby, I want to see that lovely face of yours."
+    p "Auf die Knie, Baby, ich will dein schönes Gesicht sehen"
+
+# game/day24.rpy:1103
+translate german day24_r_sex_c0a02d04_1:
+
+    # p "G-g-aaaaah!"
+    p "G-g-aaaaah!"
+
+# game/day24.rpy:1104
+translate german day24_r_sex_3e62347d:
+
+    # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
+    "{i}[r_name] fingert sich selbst, während ihr Gesicht mit Deinem Sperma bedeckt ist. Etwas davon gelangt in ihren Mund und sie schluckt es ohne zu zögern"
+
+# game/day24.rpy:1113
+translate german day24_r_sex_21a88cd7:
+
+    # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
+    "{i}Du hältst [r_Name] dicht bei dir, während die Überreste eures Paares weggespült werden. Danach gebt ihr euch einen Gutenachtkuss und verlasst getrennt das Badezimmer."

@@ -4845,3 +4845,1414 @@ translate german day14_evening_choices_fd06fdaa:
 
     # "{i}The film you end up watching is rather boring and you have a hard time concentrating. Instead, you steal glances at [b_name], who doesn't seem to notice."
     "{i}Der Film, den du dir am Ende ansiehst, ist ziemlich langweilig und es fällt dir schwer, dich zu konzentrieren. Stattdessen wirfst du [b_name] einen Blick zu, der ihn nicht zu bemerken scheint."
+# TODO: Translation updated at 2024-11-18 23:33
+
+# game/day14.rpy:264
+translate german day14_choices_d8a6ddcd:
+
+    # p "I'm glad to hear that."
+    p "Ich bin froh, das zu hören"
+
+# game/day14.rpy:265
+translate german day14_choices_94cbdeab:
+
+    # h "Do you need to go?"
+    h "Musst du gehen?"
+
+# game/day14.rpy:266
+translate german day14_choices_0d51abe5:
+
+    # p "{i}(God, that woman is insatiable. Fine with me.)"
+    p "{i}(Gott, diese Frau ist unersättlich, fein mit mir)"
+
+# game/day14.rpy:267
+translate german day14_choices_b15b03f1:
+
+    # p "I have some time left..."
+    p "Ich habe noch etwas Zeit"
+
+# game/day14.rpy:268
+translate german day14_choices_1a2122c1:
+
+    # h "Good, I want to feel you inside me again."
+    h "Gut, ich will dich wieder in mir spüren"
+
+# game/day14.rpy:269
+translate german day14_choices_b28d880a:
+
+    # p "That can be arranged."
+    p "Das lässt sich einrichten"
+
+# game/day14.rpy:827
+translate german day14_discreet_session_c4245165:
+
+    # p "{i}(I'm not sure if I'll ever get used to seeing [m_name] like this.)"
+    p "{i}(Ich bin nicht sicher, ob ich mich jemals daran gewöhnen werde, [m_name] so zu sehen)"
+
+# game/day14.rpy:828
+translate german day14_discreet_session_46e5949d:
+
+    # m "Are you ready to continue, Mr. Holmes?"
+    m "Sind Sie bereit, weiterzumachen, Mr. Holmes?"
+
+# game/day14.rpy:829
+translate german day14_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day14.rpy:830
+translate german day14_discreet_session_4c8b2fa1:
+
+    # m "Good, you didn't forget how to address me."
+    m "Gut, dass du nicht vergessen hast, wie man mich anspricht"
+
+# game/day14.rpy:832
+translate german day14_discreet_session_9d9a6ef4:
+
+    # m "Today we'll open one of the doors and see what's behind them."
+    m "Heute werden wir eine der Türen öffnen und sehen, was sich dahinter verbirgt"
+
+# game/day14.rpy:833
+translate german day14_discreet_session_044b7890:
+
+    # m "Undress yourself."
+    m "Ziehen Sie sich aus"
+
+# game/day14.rpy:834
+translate german day14_discreet_session_44fd583a:
+
+    # "{i}You quietly remove your clothes while [m_name] gazes at you."
+    "{i}Du ziehst dich leise aus, während [m_name] dich anschaut"
+
+# game/day14.rpy:835
+translate german day14_discreet_session_65725451:
+
+    # m "{i}(I almost forgot how good he looked.)"
+    m "{i}(Ich hatte fast vergessen, wie gut er aussieht)"
+
+# game/day14.rpy:836
+translate german day14_discreet_session_1f37fe43:
+
+    # m "You may open the first door to your left."
+    m "Sie können die erste Tür zu Ihrer Linken öffnen"
+
+# game/day14.rpy:838
+translate german day14_discreet_session_2da66ab0:
+
+    # p "{i}(Damn! Is that the receptionist?)"
+    p "{i}(Verdammt! Ist das die Empfangsdame?)"
+
+# game/day14.rpy:839
+translate german day14_discreet_session_e6885bc2:
+
+    # m "Before you, you see another of my slaves. I think you've met her. Would you like to know her name?"
+    m "Bevor du eine andere meiner Sklavinnen siehst, denke ich, dass du sie schon kennengelernt hast. Möchtest du ihren Namen wissen?"
+
+# game/day14.rpy:840
+translate german day14_discreet_session_e8d6f445:
+
+    # p "Yes mistress."
+    p "Yes mistress"
+# game/day14.rpy:842
+translate german day14_discreet_session_e711782e:
+
+    # m "I'm afraid she can't tell her yourself, but her name is Adriana."
+    m "Ich fürchte, sie kann es nicht selbst sagen, aber ihr Name ist Adriana"
+
+# game/day14.rpy:843
+translate german day14_discreet_session_aaeed54b:
+
+    # m "Adriana, this is Mr. Holmes."
+    m "Adriana, das ist Mr. Holmes"
+
+# game/day14.rpy:844
+translate german day14_discreet_session_3870e3e0:
+
+    # "{i}The receptionist mumbles something from behind her ball gag and struggles with her bonds."
+    "{i}Die Empfangsdame murmelt etwas hinter ihrem Ballknebel hervor und kämpft mit ihren Fesseln."
+# game/day14.rpy:845
+translate german day14_discreet_session_d06d977a:
+
+    # m "Are those restraints too tight, Adriana?"
+    m "Sind diese Fesseln zu eng, Adriana?"
+
+# game/day14.rpy:846
+translate german day14_discreet_session_5e09bd5c:
+
+    # m "She's nodding her head. I guess she's fine. Do you like what you see, boy?"
+    m "Sie nickt mit dem Kopf, ich denke, es geht ihr gut Gefällt dir, was du siehst, Junge?"
+
+# game/day14.rpy:847
+translate german day14_discreet_session_e8d6f445_1:
+
+    # p "Yes mistress."
+    p "Yes mistress"
+# game/day14.rpy:848
+translate german day14_discreet_session_a8ef698e:
+
+    # m "What do you like specifically? Tell me."
+    m "Was magst du besonders? Sag es mir"
+
+# game/day14.rpy:853
+translate german day14_discreet_session_ab350f2c:
+
+    # p "Her breasts, mistress."
+    p "Ihre Brüste Geliebte"
+
+# game/day14.rpy:855
+translate german day14_discreet_session_20f12902:
+
+    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
+    m "Ja, sie sind ein schönes Paar, nicht wahr? Ich wette, du würdest sie gerne ficken."
+# game/day14.rpy:859
+translate german day14_discreet_session_1ae6a054:
+
+    # p "Yes, mistress. I would very much."
+    p "Ja, Herrin, das würde ich sehr gerne"
+
+# game/day14.rpy:860
+translate german day14_discreet_session_5d7144d2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Vielleicht hast du ja Glück, wenn du brav bist"
+
+# game/day14.rpy:863
+translate german day14_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "Keine Geliebte"
+
+# game/day14.rpy:864
+translate german day14_discreet_session_714694ce:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Du bist nicht sehr konsequent mit deinen Antworten, oder? Enttäuschen Sie mich nicht."
+
+# game/day14.rpy:865
+translate german day14_discreet_session_c8c6eb0f:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Wenn ich etwas bewundere, heißt das nicht automatisch, dass ich es ficken will, Mensch)"
+
+# game/day14.rpy:869
+translate german day14_discreet_session_242c9dd0:
+
+    # p "Her ass, mistress."
+    p "Ihre Geliebte am Arsch"
+
+# game/day14.rpy:871
+translate german day14_discreet_session_17b91230:
+
+    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
+    m "Ja ihr Arsch ist ganz schön weich und rund ich wette du würdest sie gerne von hinten ficken"
+
+# game/day14.rpy:875
+translate german day14_discreet_session_1ae6a054_1:
+
+    # p "Yes, mistress. I would very much."
+    p "Ja, Herrin, das würde ich sehr gerne"
+
+# game/day14.rpy:876
+translate german day14_discreet_session_5d7144d2_1:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Vielleicht hast du ja Glück, wenn du brav bist"
+
+# game/day14.rpy:879
+translate german day14_discreet_session_d36b20f6_1:
+
+    # p "No, mistress."
+    p "Keine Geliebte"
+
+# game/day14.rpy:880
+translate german day14_discreet_session_714694ce_1:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Du bist nicht sehr konsequent mit deinen Antworten, oder? Enttäuschen Sie mich nicht."
+
+# game/day14.rpy:881
+translate german day14_discreet_session_c8c6eb0f_1:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Wenn ich etwas bewundere, heißt das nicht automatisch, dass ich es ficken will, Mensch)"
+
+# game/day14.rpy:885
+translate german day14_discreet_session_856d4021:
+
+    # p "Her pussy, mistress."
+    p "Ihre Muschi Geliebte"
+
+# game/day14.rpy:887
+translate german day14_discreet_session_70eee315:
+
+    # m "Yes, it looks very juicy. I bet you'd like to fuck that pussy."
+    m "Ja, sie sieht sehr saftig aus, ich wette, du würdest diese Muschi gerne ficken"
+
+# game/day14.rpy:891
+translate german day14_discreet_session_1ae6a054_2:
+
+    # p "Yes, mistress. I would very much."
+    p "Ja, Herrin, das würde ich sehr gerne"
+
+# game/day14.rpy:892
+translate german day14_discreet_session_5d7144d2_2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Vielleicht hast du ja Glück, wenn du brav bist"
+
+# game/day14.rpy:895
+translate german day14_discreet_session_d36b20f6_2:
+
+    # p "No, mistress."
+    p "Keine Geliebte"
+
+# game/day14.rpy:896
+translate german day14_discreet_session_714694ce_2:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "Du bist nicht sehr konsequent mit deinen Antworten, oder? Enttäuschen Sie mich nicht."
+
+# game/day14.rpy:897
+translate german day14_discreet_session_c8c6eb0f_2:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Wenn ich etwas bewundere, heißt das nicht automatisch, dass ich es ficken will, Mensch)"
+
+# game/day14.rpy:900
+translate german day14_discreet_session_147de036:
+
+    # p "Nothing much, mistress."
+    p "Nicht viel, Herrin"
+
+# game/day14.rpy:902
+translate german day14_discreet_session_95aba2ad:
+
+    # m "Are you trying to annoy me, boy? Because you're succeeding."
+    m "Willst du mich ärgern, Junge? Es gelingt dir nämlich"
+
+# game/day14.rpy:903
+translate german day14_discreet_session_d36b20f6_3:
+
+    # p "No, mistress."
+    p "Keine Geliebte"
+
+# game/day14.rpy:905
+translate german day14_discreet_session_c7dbdc10:
+
+    # "{i}[m_name] retrieves a key from somewhere and unlocks the restraints that are holding Adriana. You all move to the ornate room with the couch."
+    "{i}[m_name] holt einen Schlüssel von irgendwoher und öffnet die Fesseln, die Adriana festhalten Ihr geht alle in den verzierten Raum mit der Couch"
+
+# game/day14.rpy:907
+translate german day14_discreet_session_ce38f8d4:
+
+    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
+    "{i}Du stellst dich neben Adriana, die mit dem Knebel im Mund immer noch nicht viel sagen kann. Trotz der Wärme im Raum zittert sie leicht."
+# game/day14.rpy:908
+translate german day14_discreet_session_91ccbfec:
+
+    # m "Now, Adriana and you are going to do something for me. It's a test of strength and resolve, in a way. And the winner gets a prize."
+    m "Jetzt werden Adriana und du etwas für mich tun Es ist eine Art Test für Stärke und Entschlossenheit und der Gewinner bekommt einen Preis"
+
+# game/day14.rpy:909
+translate german day14_discreet_session_8d344ccc:
+
+    # p "{i}(Wonder what that'll be.)"
+    p "{i}(Was wird das wohl sein?)"
+
+# game/day14.rpy:910
+translate german day14_discreet_session_7153742f:
+
+    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
+    "{i}[m_name] reicht dir zwei Gegenstände Du bist überrascht von ihrem Gewicht"
+
+# game/day14.rpy:911
+translate german day14_discreet_session_5df7de85:
+
+    # m "You'll hold one in each hand and keep your arms level."
+    m "Du nimmst eine in jede Hand und hältst die Arme gerade"
+
+# game/day14.rpy:913
+translate german day14_discreet_session_25919422:
+
+    # m "Good. The person who can hold this weight the longest will be the winner."
+    m "Gut Derjenige, der dieses Gewicht am längsten halten kann, ist der Gewinner"
+
+# game/day14.rpy:914
+translate german day14_discreet_session_3345c523:
+
+    # p "{i}(That shouldn't be too hard.)"
+    p "{i}(Das sollte nicht allzu schwer sein)"
+
+# game/day14.rpy:915
+translate german day14_discreet_session_0095e6b5:
+
+    # "{i}You feel the weight of the stones in your arms as you try to keep them at the same position."
+    "{i}Du spürst das Gewicht der Steine in deinen Armen, während du versuchst, sie in der gleichen Position zu halten."
+# game/day14.rpy:920
+translate german day14_discreet_session_f9183d78:
+
+    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
+    "{i}Plötzlich hört man das Knallen einer Peitsche und ein gedämpftes Stöhnen entweicht Adriana"
+
+# game/day14.rpy:921
+translate german day14_discreet_session_273dffed:
+
+    # m "On your toes, the both of you."
+    m "Auf die Zehenspitzen, alle beide"
+
+# game/day14.rpy:922
+translate german day14_discreet_session_d191b303:
+
+    # p "{i}(Fuck.)"
+    p "{i}(Fuck)"
+
+# game/day14.rpy:924
+translate german day14_discreet_session_bc169090:
+
+    # m "You both need to learn some discipline."
+    m "Ihr müsst beide etwas Disziplin lernen"
+
+# game/day14.rpy:928
+translate german day14_discreet_session_bf971835:
+
+    # "{i}The whip cracks against your naked buttocks. You feel the heat of the lash pulsate as she strikes your butt again."
+    "{i}Die Peitsche knallt gegen deinen nackten Hintern Du spürst die Hitze der Peitsche pulsieren, wenn sie wieder auf deinen Hintern schlägt"
+
+# game/day14.rpy:929
+translate german day14_discreet_session_bfea5ee9:
+
+    # m "Stay on your toes."
+    m "Immer auf der Hut sein"
+
+# game/day14.rpy:930
+translate german day14_discreet_session_5e132d44:
+
+    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
+    "{i}[m_name] bewegt sich wieder zu Adriana und aus dem Augenwinkel sieht man, wie sie der Empfangsdame auf die Waden schlägt Irgendetwas zwischen einem Schrei und einem Stöhnen entweicht ihr."
+# game/day14.rpy:931
+translate german day14_discreet_session_c9792aca:
+
+    # m "Are you going to give up so easily, Adriana?"
+    m "Willst du so einfach aufgeben, Adriana?"
+
+# game/day14.rpy:932
+translate german day14_discreet_session_acb698b0:
+
+    # p "{i}(Adriana must be close... Is she going to drop those stones?)"
+    p "{i}(Adriana muss in der Nähe sein. Wird sie diese Steine fallen lassen?)"
+
+# game/day14.rpy:936
+translate german day14_discreet_session_08b78b95:
+
+    # p "{i}(I can probably hold out for a bit, but I'm curious to see what the prize for Adriana entails.)"
+    p "{i}(Ich kann wahrscheinlich noch ein bisschen warten, aber ich bin neugierig, was der Preis für Adriana ist)"
+
+# game/day14.rpy:947
+translate german day14_discreet_session_b7371781:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}[m_name]'s Peitsche ist zwischen Adrianas Schenkeln und sie kämpft, um auf den Zehen zu bleiben, während [m_name] ihre Muschi mit kurzen, heftigen Schlägen peitscht."
+
+# game/day14.rpy:948
+translate german day14_discreet_session_3f852ec6:
+
+    # "{i}You let go and drop both stones to the ground."
+    "{i}Du lässt los und wirfst beide Steine zu Boden"
+
+# game/day14.rpy:949
+translate german day14_discreet_session_fd39564f:
+
+    # m "What?! This is unexpected."
+    m "Was?! Das ist unerwartet"
+
+# game/day14.rpy:950
+translate german day14_discreet_session_3cb47b54:
+
+    # m "{i}(Damnit, I really thought he would last longer. Adriana's good enough, but I'm getting more and more interested in him.)"
+    m "{i}(Verdammt, ich dachte wirklich, er würde länger durchhalten, Adriana ist gut genug, aber ich interessiere mich immer mehr für ihn)"
+
+# game/day14.rpy:951
+translate german day14_discreet_session_33663369:
+
+    # p "{i}(Does she sound disappointed?)"
+    p "{i}(Hört sie sich enttäuscht an?)"
+
+# game/day14.rpy:952
+translate german day14_discreet_session_89709d7a:
+
+    # m "Seems like you're the winner, Adriana. Are you happy?"
+    m "Sieht so aus, als wärst du die Gewinnerin Adriana Bist du glücklich?"
+
+# game/day14.rpy:953
+translate german day14_discreet_session_0dc81ae4:
+
+    # "{i}Adriana, still holding the stones while standing on her toes, nods her head enthusiastically."
+    "{i}Adriana, die immer noch die Steine in der Hand hält und sich auf die Zehenspitzen stellt, nickt begeistert mit dem Kopf."
+# game/day14.rpy:954
+translate german day14_discreet_session_ea63efd8:
+
+    # m "You probably want to let go of those stones, don't you?"
+    m "Du willst wahrscheinlich diese Steine loslassen, nicht wahr?"
+
+# game/day14.rpy:955
+translate german day14_discreet_session_e612037c:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:956
+translate german day14_discreet_session_fed026af:
+
+    # m "That is allowed. And as a bonus, I'll remove your gag."
+    m "Das ist erlaubt und als Bonus nehme ich dir den Knebel ab"
+
+# game/day14.rpy:957
+translate german day14_discreet_session_0b3cbcc9:
+
+    # "{i}Adriana drops her stones and looks relieved as [m_name] removes the ball gag."
+    "{i}Adriana lässt ihre Steine fallen und sieht erleichtert aus, als [m_name] den Ballknebel entfernt"
+
+# game/day14.rpy:958
+translate german day14_discreet_session_2b1521c1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Jetzt zur Belohnung braucht meine Muschi etwas Aufmerksamkeit Leg dich hin"
+
+# game/day14.rpy:960
+translate german day14_discreet_session_f8c8b460:
+
+    # "{i}The receptionist obediently lies down on the floor."
+    "{i}Die Empfangsdame legt sich gehorsam auf den Boden"
+
+# game/day14.rpy:961
+translate german day14_discreet_session_83ca7014:
+
+    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
+    m "Du darfst zusehen, Junge, wenn ich sehe, dass du dich selbst berührst, wird die Hölle los sein"
+
+# game/day14.rpy:963
+translate german day14_discreet_session_679e517a:
+
+    # "{i}Your mother undresses and lowers herself onto Adriana's face."
+    "{i}Deine Mutter zieht sich aus und senkt sich auf Adrianas Gesicht"
+
+# game/day14.rpy:965
+translate german day14_discreet_session_cd89a18e:
+
+    # "{i}[m_name] undresses and lowers herself onto Adriana's face."
+    "{i}[m_name] zieht sich aus und senkt sich auf Adrianas Gesicht"
+
+# game/day14.rpy:966
+translate german day14_discreet_session_34ef5289:
+
+    # p "{i}(Fucking hell, her body is pure pornography.)"
+    p "{i}(Verdammte Scheiße, ihr Körper ist reine Pornographie)"
+
+# game/day14.rpy:967
+translate german day14_discreet_session_993f6fee:
+
+    # m "Lick me, slut."
+    m "Leck mich, Schlampe"
+
+# game/day14.rpy:974
+translate german day14_discreet_session_7a3d4edc:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks your mom's pussy lips."
+    "{i}Adrianas Zunge schießt aus ihrem Mund und sie leckt vorsichtig die Schamlippen deiner Mutter."
+
+# game/day14.rpy:976
+translate german day14_discreet_session_edf58581:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
+    "{i}Adrianas Zunge schießt aus ihrem Mund und sie leckt vorsichtig über [m_name]'s Schamlippen."
+# game/day14.rpy:977
+translate german day14_discreet_session_b5bfeb5c:
+
+    # m "Good! Good!"
+    m "Gut! Gut!"
+
+# game/day14.rpy:978
+translate german day14_discreet_session_1f6e2cc0:
+
+    # "{i}You only hear Adriana's muffled breathing and the wet sounds of her tongue caressing [m_name]'s labia as she smothers the receptionist with her pussy."
+    "{i}Man hört nur Adrianas gedämpftes Atmen und die feuchten Geräusche ihrer Zunge, die die Schamlippen von [m_name] streichelt, während sie die Empfangsdame mit ihrer Muschi erstickt."
+# game/day14.rpy:979
+translate german day14_discreet_session_d64705b0:
+
+    # m "Do you like that, Adriana?"
+    m "Gefällt dir das, Adriana?"
+
+# game/day14.rpy:980
+translate german day14_discreet_session_be51334e:
+
+    # ad "Mmmmmhmmmmmm..."
+    ad "Mmmmmhmmmm."
+
+# game/day14.rpy:981
+translate german day14_discreet_session_c70f6a60:
+
+    # m "Fuck my pussy with your tongue."
+    m "Fick meine Muschi mit deiner Zunge"
+
+# game/day14.rpy:990
+translate german day14_discreet_session_ba0fa4bb:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of your mom's vagina."
+    "{i}Dein Schwanz ist voll erigiert, während Adrianas Kopf auf und ab wippt und ihre Zunge in die Vagina deiner Mutter ein- und ausfährt."
+
+# game/day14.rpy:992
+translate german day14_discreet_session_f6020670:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
+    "{i}Dein Schwanz ist voll erigiert, während Adrianas Kopf auf und ab wippt und ihre Zunge in [m_name]'s Vagina ein- und ausfährt."
+
+# game/day14.rpy:993
+translate german day14_discreet_session_b8fbbb08:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of the receptionist's head and pulls her towards her pussy."
+    "{i}Offensichtlich kurz vor dem Orgasmus packt [m_name] den Kopf der Empfangsdame und zieht sie zu ihrer Muschi."
+
+# game/day14.rpy:1000
+translate german day14_discreet_session_df976253:
+
+    # m "Aaaaaaah! Goooood girl!"
+    m "Aaaaaaaaaaah! Goooood girl!"
+
+# game/day14.rpy:1001
+translate german day14_discreet_session_67309967:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes, you little whore! Aaaaah!"
+    m "Trink meine Säfte! Ah, fick ja! Leck meine Muschi Ja du kleine Hure! Aaaaah!"
+
+# game/day14.rpy:1002
+translate german day14_discreet_session_cc917045:
+
+    # "{i}As you watch the scene unfold before your eyes, precum is leaking from the tip of your taught member."
+    "{i}Während du die Szene beobachtest, die sich vor deinen Augen abspielt, läuft das Sperma aus der Spitze deines gelehrten Gliedes."
+
+# game/day14.rpy:1006
+translate german day14_discreet_session_38c64a1b:
+
+    # p "{i}(Must hold out a little longer.)"
+    p "{i}(Muss noch ein bisschen durchhalten)"
+
+# game/day14.rpy:1017
+translate german day14_discreet_session_b7371781_1:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}[m_name]'s Peitsche ist zwischen Adrianas Schenkeln und sie kämpft, um auf den Zehen zu bleiben, während [m_name] ihre Muschi mit kurzen, heftigen Schlägen peitscht."
+
+# game/day14.rpy:1018
+translate german day14_discreet_session_0bcfc987:
+
+    # "{i}Adriana suddenly stumbles and one of the stones drops from her hand, the other soon follows."
+    "{i}Adriana stolpert plötzlich und einer der Steine fällt ihr aus der Hand, der andere folgt bald darauf"
+
+# game/day14.rpy:1019
+translate german day14_discreet_session_6dd6b0e9:
+
+    # m "Disappointing. That means you are the winner, boy. You probably want to let go of those stones, don't you?"
+    m "Enttäuschend. Das bedeutet, dass du der Gewinner bist, Junge. Du willst wahrscheinlich diese Steine loslassen, nicht wahr?"
+
+# game/day14.rpy:1020
+translate german day14_discreet_session_e612037c_1:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:1021
+translate german day14_discreet_session_7758ccc4:
+
+    # m "That is allowed."
+    m "Das ist erlaubt"
+
+# game/day14.rpy:1022
+translate german day14_discreet_session_b1a2a3dd:
+
+    # "{i}You let go of both stones at the same time which is a relief on your strained arm muscles."
+    "{i}Sie lassen beide Steine gleichzeitig los, was eine Erleichterung für Ihre strapazierten Armmuskeln ist."
+# game/day14.rpy:1023
+translate german day14_discreet_session_90d93bee:
+
+    # m "{i}(Let's see what he can do. I'm sure Adriana is confused by the whole situation right now. This isn't normally how we do things.)"
+    m "{i}(Mal sehen, was er tun kann, ich bin mir sicher, dass Adriana im Moment von der ganzen Situation verwirrt ist. So gehen wir normalerweise nicht vor)"
+
+# game/day14.rpy:1024
+translate german day14_discreet_session_2b1521c1_1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Jetzt zur Belohnung braucht meine Muschi etwas Aufmerksamkeit Leg dich hin"
+
+# game/day14.rpy:1026
+translate german day14_discreet_session_b9c0aeca:
+
+    # "{i}You lie down on the floor."
+    "{i}Du legst dich auf den Boden"
+
+# game/day14.rpy:1027
+translate german day14_discreet_session_c2d5a788:
+
+    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
+    m "Du darfst auf Adriana aufpassen, wenn ich sehe, dass du dich selbst berührst, wird die Hölle los sein"
+
+# game/day14.rpy:1029
+translate german day14_discreet_session_7c796bfc:
+
+    # "{i}Your mother undresses and lowers herself onto your face."
+    "{i}Deine Mutter zieht sich aus und senkt sich auf dein Gesicht"
+
+# game/day14.rpy:1031
+translate german day14_discreet_session_f4c12e75:
+
+    # "{i}[m_name] undresses and lowers herself onto your face."
+    "{i}[m_name] zieht sich aus und senkt sich auf dein Gesicht"
+
+# game/day14.rpy:1032
+translate german day14_discreet_session_864f6070:
+
+    # "{i}Her soft pubic hair tickles and a salty aroma nearly overwhelms you. It's getting harder to breathe."
+    "{i}Ihr weiches Schamhaar kitzelt und ein salziger Duft überwältigt dich fast Es wird schwerer zu atmen"
+
+# game/day14.rpy:1033
+translate german day14_discreet_session_254921b0:
+
+    # p "{i}(She's fucking sitting on my face. Wish I wasn't wearing that bloody mask.)"
+    p "{i}(Sie sitzt verdammt noch mal auf meinem Gesicht, wünschte ich hätte nicht diese verdammte Maske getragen)"
+
+# game/day14.rpy:1034
+translate german day14_discreet_session_a5655a32:
+
+    # m "Lick me, boy."
+    m "Leck mich, Junge"
+
+# game/day14.rpy:1041
+translate german day14_discreet_session_81f58e43:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick your mom's pussy lips. She's wet and tastes salty."
+    "{i}Deine Zunge schießt aus deinem Mund und du leckst vorsichtig die Schamlippen deiner Mutter. Sie ist feucht und schmeckt salzig"
+
+# game/day14.rpy:1043
+translate german day14_discreet_session_cd7c1d9c:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
+    "{i}Deine Zunge schießt aus deinem Mund und du leckst vorsichtig die Schamlippen von [m_name] Sie ist feucht und schmeckt salzig"
+
+# game/day14.rpy:1044
+translate german day14_discreet_session_b5bfeb5c_1:
+
+    # m "Good! Good!"
+    m "Gut! Gut!"
+
+# game/day14.rpy:1045
+translate german day14_discreet_session_9e557aa2:
+
+    # "{i}The only thing you hear is [m_name]'s heavy breathing and the wet sounds of your tongue caressing her labia as she smothers you with her pussy."
+    "{i}Das Einzige, was du hörst, ist das schwere Atmen von [m_name] und die feuchten Geräusche deiner Zunge, die ihre Schamlippen streichelt, während sie dich mit ihrer Muschi erstickt."
+# game/day14.rpy:1046
+translate german day14_discreet_session_dfd9b39b:
+
+    # m "Do you like that, boy?"
+    m "Magst du den Jungen?"
+
+# game/day14.rpy:1047
+translate german day14_discreet_session_e15e30b7:
+
+    # p "Mmmmmhmmmmmm..."
+    p "Mmmmmhmmmmmmmm"
+
+# game/day14.rpy:1048
+translate german day14_discreet_session_c70f6a60_1:
+
+    # m "Fuck my pussy with your tongue."
+    m "Fick meine Muschi mit deiner Zunge"
+
+# game/day14.rpy:1057
+translate german day14_discreet_session_674d8f15:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of your mom's vagina."
+    "{i}Dein Schwanz ist voll erigiert, während deine Zunge in die Vagina deiner Mutter hinein- und wieder herausgestoßen wird."
+
+# game/day14.rpy:1059
+translate german day14_discreet_session_823d5930:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
+    "{i}Dein Schwanz ist voll erigiert, während deine Zunge in die Vagina von [m_name] ein- und ausfährt"
+
+# game/day14.rpy:1060
+translate german day14_discreet_session_3c2ee3ac:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of your head and pulls you towards her pussy. You feel her fingers press hard against your skull."
+    "{i}Eindeutig kurz vor dem Orgasmus packt [m_name] deinen Kopf und zieht dich zu ihrer Muschi Du spürst, wie ihre Finger hart gegen deinen Schädel drücken"
+
+# game/day14.rpy:1067
+translate german day14_discreet_session_8e09283d:
+
+    # m "Aaaaaaah! Goooood boy!"
+    m "Aaaaaaah! Goooood boy!"
+
+# game/day14.rpy:1068
+translate german day14_discreet_session_ef7ee683:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes! Aaaaah!"
+    m "Trink meine Säfte! Ah, fick ja! Lutsche an meiner Muschi Ja! Aaaaah!"
+
+# game/day14.rpy:1069
+translate german day14_discreet_session_8e05be01:
+
+    # "{i}As you lap up the juices of her orgasm, precum is leaking from the tip of your taught member."
+    "{i}Während du die Säfte ihres Orgasmus aufsaugst, tropft das Präzipitum aus der Spitze deines gelehrten Gliedes."
+
+# game/day14.rpy:1070
+translate german day14_discreet_session_98b68f60:
+
+    # "{i}Adriana is still standing there gazing at you lustfully while [m_name] removes her gag."
+    "{i}Adriana steht immer noch da und starrt dich lüstern an, während [m_name] ihr den Knebel abnimmt"
+
+# game/day14.rpy:1077
+translate german day14_discreet_session_c4bcf13d:
+
+    # m "I'd like to reward you for being such a good servant."
+    m "Ich möchte dich dafür belohnen, dass du ein so guter Diener bist"
+
+# game/day14.rpy:1080
+translate german day14_discreet_session_59fefa56:
+
+    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
+    m "Unser Junge hat seine Bewunderung für deine Muschi ausgedrückt, nicht wahr, Adriana?"
+
+# game/day14.rpy:1081
+translate german day14_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1082
+translate german day14_discreet_session_151c1deb:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Und dann hat er gesagt, dass er dich nicht ficken will. So ein fremder Junge"
+
+# game/day14.rpy:1083
+translate german day14_discreet_session_54dd0c92:
+
+    # m "So I guess you won't get fucked today, Adriana. I'm sure you understand."
+    m "Also wirst du heute wohl nicht gefickt, Adriana, das verstehst du sicher."
+# game/day14.rpy:1085
+translate german day14_discreet_session_b8df8615:
+
+    # m "Our boy praised your ass, didn't he, Adriana?"
+    m "Unser Junge hat deinen Arsch gelobt, nicht wahr, Adriana?"
+
+# game/day14.rpy:1086
+translate german day14_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1087
+translate german day14_discreet_session_151c1deb_1:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Und dann hat er gesagt, dass er dich nicht ficken will. So ein fremder Junge"
+
+# game/day14.rpy:1088
+translate german day14_discreet_session_f18f5a5b:
+
+    # m "So I guess we won't offer your tight asshole today, Adriana. I'm sure you understand."
+    m "Also ich denke, wir werden dein enges Arschloch heute nicht anbieten, Adriana, ich bin sicher, du verstehst das."
+# game/day14.rpy:1090
+translate german day14_discreet_session_f4c88f4f:
+
+    # m "Our boy praised your breasts, didn't he, Adriana?"
+    m "Unser Junge hat deine Brüste gelobt, nicht wahr, Adriana?"
+
+# game/day14.rpy:1091
+translate german day14_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress"
+
+# game/day14.rpy:1092
+translate german day14_discreet_session_151c1deb_2:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Und dann hat er gesagt, dass er dich nicht ficken will. So ein fremder Junge"
+
+# game/day14.rpy:1093
+translate german day14_discreet_session_77164c8b:
+
+    # m "So I guess he doesn't get to push his cock between your tits, Adriana. I'm sure you understand."
+    m "Dann wird er seinen Schwanz wohl nicht zwischen deine Titten schieben, Adriana, das verstehst du sicher."
+# game/day14.rpy:1095
+translate german day14_discreet_session_bb322cb6:
+
+    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
+    m "Aber da unser Junge behauptet, dass er nichts an dir mag, Adriana, können wir ihm wohl nichts anbieten."
+# game/day14.rpy:1096
+translate german day14_discreet_session_8b9f95b0:
+
+    # p "{i}(Damn. I'd really like to fuck something right about now.)"
+    p "{i}(Verdammt, ich würde jetzt wirklich gerne etwas ficken)"
+
+# game/day14.rpy:1097
+translate german day14_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Yes mistress."
+
+# game/day14.rpy:1098
+translate german day14_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Yes mistress."
+
+# game/day14.rpy:1099
+translate german day14_discreet_session_12164705:
+
+    # m "Good. Class dismissed."
+    m "Gute Klasse entlassen"
+
+# game/day14.rpy:1107
+translate german day14_discreet_session_3f84f2fb:
+
+    # m "And our boy expressed an interest in your body, Adriana. Would you like to get fucked now?"
+    m "Und unser Junge hat sich für deinen Körper interessiert, Adriana. Möchtest du jetzt gefickt werden?"
+
+# game/day14.rpy:1108
+translate german day14_discreet_session_b25c3cee:
+
+    # ad "Very much, mistress."
+    ad "Sehr gerne, Herrin"
+
+# game/day14.rpy:1109
+translate german day14_discreet_session_712d152f:
+
+    # p "{i}(Fuck yes! I'm not sure it will take long, but I sure am going to drench her in cum.)"
+    p "{i}(Verdammt ja! Ich bin mir nicht sicher, ob es lange dauern wird, aber ich werde sie mit Sperma tränken)"
+
+# game/day14.rpy:1112
+translate german day14_discreet_session_4d0e495d:
+
+    # m "You may use her pussy. And be sure to finish on her face, a good slut deserves that much."
+    m "Du darfst ihre Muschi benutzen und musst es auf ihrem Gesicht beenden, eine gute Schlampe hat das verdient"
+
+# game/day14.rpy:1113
+translate german day14_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day14.rpy:1119
+translate german day14_discreet_session_a14deefc:
+
+    # "{i}Due to the events you've just experienced you slide inside Adriana a little roughly, which elicits a small, surprised gasp from her."
+    "{i}Aufgrund der Ereignisse, die du gerade erlebt hast, gleitest du ein wenig grob in Adriana hinein, was ihr ein kleines überraschtes Keuchen entlockt."
+
+# game/day14.rpy:1120
+translate german day14_discreet_session_afe580f6:
+
+    # m "How does he feel inside you, Adriana?"
+    m "Wie fühlt er sich in dir an, Adriana?"
+
+# game/day14.rpy:1121
+translate german day14_discreet_session_2f0e67fa:
+
+    # ad "He feels so big, mistress."
+    ad "Er fühlt sich so groß, Herrin"
+
+# game/day14.rpy:1123
+translate german day14_discreet_session_13a6f1c9:
+
+    # "{i}You grab Adriana's legs and start to thrust your dick inside the receptionist. Her pussy lips massage the sides of your throbbing cock and Adriana's breathing becomes shallow."
+    "{i}Du packst Adrianas Beine und stößt deinen Schwanz in die Rezeptionistin. Ihre Schamlippen massieren die Seiten deines pochenden Schwanzes und Adrianas Atmung wird flach."
+# game/day14.rpy:1124
+translate german day14_discreet_session_ebe15ba7:
+
+    # ad "Fuck me, please, fuck me harder!"
+    ad "Fick mich bitte fick mich härter!"
+
+# game/day14.rpy:1125
+translate german day14_discreet_session_5150cad6:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
+    "{i}Ihre großen Brüste wippen im Rhythmus deines Ficks und du fühlst dich dem Orgasmus sehr nahe, wahrscheinlich wegen allem, was vorher passiert ist."
+# game/day14.rpy:1131
+translate german day14_discreet_session_1a6e0e7f:
+
+    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Mit einem Gebrüll ziehst du sie heraus und hältst ihren Kopf fest, Adriana öffnet gehorsam ihren Mund, um deinen Samen zu empfangen."
+# game/day14.rpy:1132
+translate german day14_discreet_session_7c9a8cd4:
+
+    # m "Finished already. Your pussy must be magical, Adriana..."
+    m "Bin schon fertig Deine Muschi muss magisch sein Adriana"
+
+# game/day14.rpy:1133
+translate german day14_discreet_session_bb4ec6df:
+
+    # m "You may cum on her."
+    m "Du darfst auf ihr abspritzen"
+
+# game/day14.rpy:1135
+translate german day14_discreet_session_787b0b9e:
+
+    # m "You may use Adriana's ass. Do be gentle. And be sure to finish on her face, a good slut deserves that much."
+    m "Du darfst Adriana's Arsch benutzen, sei sanft und beende es auf ihrem Gesicht, eine gute Schlampe hat das verdient."
+# game/day14.rpy:1136
+translate german day14_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day14.rpy:1141
+translate german day14_discreet_session_15c41f02:
+
+    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
+    "{i}Als du die Spitze deines Schwanzes gegen Adrianas Rektum drückst, hörst du sie keuchen."
+
+# game/day14.rpy:1142
+translate german day14_discreet_session_ec80b608:
+
+    # ad "Please be gentle."
+    ad "Bitte sei sanft"
+
+# game/day14.rpy:1143
+translate german day14_discreet_session_74327b4e:
+
+    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
+    "{i}Diese Aussage erregt dich noch mehr und du fängst an, deinen Schwanz in sie zu schieben. Das Präzipitum, das vorhin aus deinem Penis gesickert ist, wirkt wie ein Gleitmittel, aber es ist immer noch eng."
+# game/day14.rpy:1144
+translate german day14_discreet_session_111f439d:
+
+    # "{i}The receptionist is very tense, but relaxes visibly when she feels your balls against her pussy."
+    "{i}Die Empfangsdame ist sehr angespannt, entspannt sich aber sichtlich, als sie deine Eier an ihrer Muschi spürt."
+
+# game/day14.rpy:1145
+translate german day14_discreet_session_26cec445:
+
+    # m "He's inside of you. How does that feel?"
+    m "Er ist in dir drin. Wie fühlt sich das an?"
+
+# game/day14.rpy:1146
+translate german day14_discreet_session_1b2a2c62:
+
+    # ad "He's so big, mistress."
+    ad "Er ist so groß, Herrin"
+
+# game/day14.rpy:1151
+translate german day14_discreet_session_fb3d5f0e:
+
+    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
+    "{i}Du bewegst deinen Schwanz langsam in das Arschloch der Empfangsdame hinein und wieder heraus. Adrianas Atmung wird flach. Sie führt dich mit ihrer Hand und du dringst immer schneller in sie ein."
+# game/day14.rpy:1152
+translate german day14_discreet_session_08fd09db:
+
+    # ad "Fuck me, please, fuck my ass!"
+    ad "Fick mich, bitte fick meinen Arsch!"
+
+# game/day14.rpy:1153
+translate german day14_discreet_session_791ee88c:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
+    "{i}Ihre großen Brüste wippen im Rhythmus deines Ficks Ihr Arschloch ist eng und massiert deinen Schwanz auf eine Weise, die du noch nie zuvor gespürt hast Du fühlst dich dem Orgasmus sehr nahe, wahrscheinlich wegen all dem, was vorher passiert ist"
+
+# game/day14.rpy:1159
+translate german day14_discreet_session_291215d7:
+
+    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Mit einem Brüllen ziehst du dich aus ihrem Arsch zurück und greifst nach ihrem Kopf. Adriana öffnet gehorsam ihren Mund, um deinen Samen aufzunehmen."
+# game/day14.rpy:1160
+translate german day14_discreet_session_a4a83b56:
+
+    # m "Finished already. Your ass must be magical, Adriana..."
+    m "Bin schon fertig Dein Arsch muss zauberhaft sein Adriana"
+
+# game/day14.rpy:1161
+translate german day14_discreet_session_bb4ec6df_1:
+
+    # m "You may cum on her."
+    m "Du darfst auf ihr abspritzen"
+
+# game/day14.rpy:1163
+translate german day14_discreet_session_732a62ea:
+
+    # m "Adriana is going to massage your cock with her breasts. Be sure to cover her face when you're ready, a good slut deserves that much."
+    m "Adriana wird deinen Schwanz mit ihren Brüsten massieren. Achte darauf, dass du ihr Gesicht bedeckst, wenn du bereit bist, eine gute Schlampe hat das verdient."
+# game/day14.rpy:1164
+translate german day14_discreet_session_0b462255_4:
+
+    # p "Yes, mistress."
+    p "Yes mistress"
+# game/day14.rpy:1165
+translate german day14_discreet_session_25debe46:
+
+    # "{i}You tease the receptionist's nipples with the tip of your cock. The massage elicits a small gasp from her and she pushes her breasts together in order for you to push your dick between them."
+    "{i}Du reizt die Brustwarzen der Empfangsdame mit der Spitze deines Schwanzes. Die Massage entlockt ihr ein leises Keuchen und sie drückt ihre Brüste zusammen, damit du deinen Schwanz zwischen sie schieben kannst."
+# game/day14.rpy:1171
+translate german day14_discreet_session_59ba8699:
+
+    # "{i}Adriana starts moving up and down with your cock between her breasts. The touch of her soft flesh and the lewd smile on her face as she stares at you makes you even more aroused."
+    "{i}Adriana bewegt sich mit deinem Schwanz zwischen ihren Brüsten auf und ab. Die Berührung ihres weichen Fleisches und das anzügliche Lächeln auf ihrem Gesicht, während sie dich anstarrt, macht dich noch mehr erregt."
+# game/day14.rpy:1173
+translate german day14_discreet_session_908f034e:
+
+    # "{i}You force the receptionist to the ground and thrust your dick between her breasts, fucking them while she's squeezing them tight."
+    "{i}Du zwingst die Empfangsdame zu Boden und schiebst deinen Schwanz zwischen ihre Brüste und fickst sie, während sie sie fest zusammenpresst."
+
+# game/day14.rpy:1174
+translate german day14_discreet_session_dab678a3:
+
+    # m "He's giving your tits a good fuck. How does that feel?"
+    m "Er fickt deine Titten gut, wie fühlt sich das an?"
+
+# game/day14.rpy:1175
+translate german day14_discreet_session_1b2a2c62_1:
+
+    # ad "He's so big, mistress."
+    ad "Er ist so groß, Herrin"
+
+# game/day14.rpy:1176
+translate german day14_discreet_session_fda9f7d4:
+
+    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
+    "{i}Jedes Mal, wenn dein Schwanz ihr Gesicht erreicht, leckt Adriana die Spitze mit ihrer Zunge. Sie übt auch mehr Druck aus, indem sie ihre Brüste fester aneinander presst. Das bringt dich fast um den Verstand."
+# game/day14.rpy:1182
+translate german day14_discreet_session_95a81a0e:
+
+    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
+    "{i}Mit einem Brüllen stößt du deinen Schwanz ein letztes Mal zwischen ihre Titten und zielst auf ihr Gesicht, Adriana öffnet gehorsam ihren Mund, um deinen Samen zu empfangen."
+# game/day14.rpy:1183
+translate german day14_discreet_session_e8c2e24b:
+
+    # m "Finished already. Your tits must be magical, Adriana..."
+    m "Bin schon fertig Deine Titten müssen magisch sein Adriana"
+
+# game/day14.rpy:1184
+translate german day14_discreet_session_bb4ec6df_2:
+
+    # m "You may cum on her."
+    m "Du darfst auf ihr abspritzen"
+
+# game/day14.rpy:1188
+translate german day14_discreet_session_b6bb3d0d:
+
+    # "{i}You seem to have build up a large amount of cum, because you cover her face and hair with thick streaks, but also have enough to deposit in her mouth."
+    "{i}Du scheinst eine große Menge Sperma angesammelt zu haben, denn du bedeckst ihr Gesicht und ihre Haare mit dicken Schlieren, hast aber auch genug, um es ihr in den Mund zu stecken."
+# game/day14.rpy:1190
+translate german day14_discreet_session_9f16b8bf:
+
+    # m "Swallow it all."
+    m "Alles schlucken"
+
+# game/day14.rpy:1191
+translate german day14_discreet_session_6d0471c5:
+
+    # "{i}Adriana licks your dick clean of any traces of semen and scoops up the rest from her face and hair. Looking you directly in the eye, she swallows all of it with a naughty smile."
+    "{i}Adriana leckt deinen Schwanz von allen Spuren des Spermas sauber und schöpft den Rest aus ihrem Gesicht und ihren Haaren. Sie schaut dir direkt in die Augen und schluckt alles mit einem frechen Lächeln."
+# game/day14.rpy:1192
+translate german day14_discreet_session_750da6a3:
+
+    # m "Thus endeth the lesson."
+    m "So endet die Lektion"
+
+# game/day14.rpy:1211
+translate german day14_b_fondle_32cbc436:
+
+    # "{i}Your hands push the t-shirt even further up to reveal your sister's breasts. Her nipples are rock hard."
+    "{i}Deine Hände schieben das T-Shirt noch weiter nach oben, so dass die Brüste deiner Schwester zum Vorschein kommen, ihre Nippel sind steinhart."
+# game/day14.rpy:1213
+translate german day14_b_fondle_4a0fb993:
+
+    # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
+    "{i}Deine Hände schieben das T-Shirt noch weiter nach oben und enthüllen [b_name] Brüste Ihre Nippel sind steinhart"
+
+# game/day14.rpy:1215
+translate german day14_b_fondle_42c4c73b:
+
+    # b "[p_name]... no... it isn't..."
+    b "[p_name] nein, ist es nicht"
+
+# game/day14.rpy:1216
+translate german day14_b_fondle_ed02e162:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Gott die Gefühle, die du in mir weckst [b_name]"
+
+# game/day14.rpy:1217
+translate german day14_b_fondle_3cd42054:
+
+    # p "Your skin is so soft."
+    p "Deine Haut ist so weich"
+
+# game/day14.rpy:1218
+translate german day14_b_fondle_52dcef3c:
+
+    # b "I..."
+    b "I"
+
+# game/day14.rpy:1221
+translate german day14_b_fondle_98879cef:
+
+    # p "Are you wet already?"
+    p "Bist du schon nass?"
+
+# game/day14.rpy:1222
+translate german day14_b_fondle_45d024d8:
+
+    # b "No, not there!"
+    b "Nein, nicht da!"
+
+# game/day14.rpy:1223
+translate german day14_b_fondle_6449f334:
+
+    # p "You are. Do you like the movie so much? Or is it my touch?"
+    p "Du bist Du magst den Film so sehr? Oder liegt es an meiner Berührung?"
+
+# game/day14.rpy:1225
+translate german day14_b_fondle_1e36103c:
+
+    # "{i}You push your fingers against her panties and feel your sister's moist labia through the fabric."
+    "{i}Du drückst deine Finger gegen ihr Höschen und fühlst die feuchten Schamlippen deiner Schwester durch den Stoff"
+
+# game/day14.rpy:1227
+translate german day14_b_fondle_b5fefac5:
+
+    # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
+    "{i}Du drückst deine Finger gegen ihr Höschen und fühlst ihre feuchten Schamlippen durch den Stoff"
+
+# game/day14.rpy:1228
+translate german day14_b_fondle_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day14.rpy:1229
+translate german day14_b_fondle_be44dc55:
+
+    # p "Your panties are in the way, don't you think?"
+    p "Dein Höschen ist im Weg, findest du nicht?"
+
+# game/day14.rpy:1233
+translate german day14_b_fondle_f1b6ca42:
+
+    # b "Y-yes... No!"
+    b "Y-yes No!"
+
+# game/day14.rpy:1234
+translate german day14_b_fondle_efa09b9c:
+
+    # "{i}With one hand you remove her underwear. [b_name] tries to remove your hand, but her protests lack any conviction."
+    "{i}Mit einer Hand ziehst du ihr die Unterwäsche aus [b_name] versucht, deine Hand zu entfernen, aber ihre Proteste sind nicht überzeugend."
+
+# game/day14.rpy:1240
+translate german day14_b_fondle_04b53f47:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Du gleitest mit einem Finger in sie hinein und stimulierst ihre Klitoris [b_name] zieht zunächst an deiner Hand, aber als du einen gleichmäßigen Rhythmus findest, drückt deine Schwester deine Hand gegen ihr Geschlecht, als ob sie dich ermutigen würde, tiefer zu gehen"
+
+# game/day14.rpy:1242
+translate german day14_b_fondle_cec13b39:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Du gleitest mit einem Finger in sie hinein und stimulierst ihre Klitoris [b_name] zieht zunächst an deiner Hand, aber als du einen gleichmäßigen Rhythmus findest, drückt sie deine Hand gegen ihr Geschlecht, als ob sie dich ermutigen würde, tiefer zu gehen"
+
+# game/day14.rpy:1243
+translate german day14_b_fondle_9af8d955:
+
+    # b "Gaaaah!"
+    b "Gaaaah!"
+
+# game/day14.rpy:1244
+translate german day14_b_fondle_2d4211e5:
+
+    # p "Sssssh, you'll wake everybody up."
+    p "Sssssh, du weckst noch alle auf"
+
+# game/day14.rpy:1245
+translate german day14_b_fondle_90901d27:
+
+    # b "Hnnnghhhh!"
+    b "Hnnnghhhhh!"
+
+# game/day14.rpy:1247
+translate german day14_b_fondle_e2a1d183:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
+    "{i}[b_name] hat Mühe, ihr Stöhnen zu unterdrücken. Das Risiko, erwischt zu werden und deine Mutter oder Schwester zu wecken, erregt euch beide."
+# game/day14.rpy:1249
+translate german day14_b_fondle_29eded4e:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
+    "{i}[b_name] hat Mühe, ihr Stöhnen zu unterdrücken Das Risiko, erwischt zu werden und [l_name] oder [m_name] zu wecken, erregt Sie beide."
+# game/day14.rpy:1250
+translate german day14_b_fondle_e727e64f:
+
+    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
+    "{i}Nach ihren schnellen Atemzügen und dem Druck, den ihre Hand auf deine ausübt, zu urteilen, ist [b_name] kurz vor dem Orgasmus"
+
+# game/day14.rpy:1255
+translate german day14_b_fondle_7f7e79ac:
+
+    # b "F-ffff-uuuuck!"
+    b "F-ffff-uuuuck!"
+
+# game/day14.rpy:1259
+translate german day14_b_fondle_64651b3a:
+
+    # "{i}With your finger still inside her pussy, your sister experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Während dein Finger noch in ihrer Muschi steckt, erlebt deine Schwester einen gewaltigen Orgasmus, der fast die ganze Couch zum Beben bringt. Zitternd umklammert sie deine Hand und reibt sie immer wieder an ihrem Kitzler."
+
+# game/day14.rpy:1261
+translate german day14_b_fondle_966c2da6:
+
+    # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Während dein Finger noch in ihrer Muschi steckt, erlebt [b_name] einen gewaltigen Orgasmus, der fast die ganze Couch zum Beben bringt. Zitternd umklammert sie deine Hand und reibt sie immer wieder an ihrem Kitzler."
+
+# game/day14.rpy:1262
+translate german day14_b_fondle_7095ffd6:
+
+    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
+    "{i}Nach einer Weile verstummt ihr gedämpftes Stöhnen und Seufzen. Sie zieht leise ihr Höschen hoch und bedeckt ihre Brüste, macht aber keine Anstalten, sich von dir zu entfernen."
+
+# game/day14.rpy:1266
+translate german day14_b_fondle_55305076:
+
+    # p "I love it when you cum for me."
+    p "Ich liebe es, wenn du für mich abspritzt"
+
+# game/day14.rpy:1267
+translate german day14_b_fondle_52dcef3c_1:
+
+    # b "I..."
+    b "I"
+
+# game/day14.rpy:1269
+translate german day14_b_fondle_181d589c:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "W-w-was?! Wo?! Oh! Ah ich glaube ich bin eingeschlafen"
+
+# game/day14.rpy:1270
+translate german day14_b_fondle_a6a6d4f3:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly disentangles herself from you. Her face looks flushed and her expression enigmatic. It looks almost like a mixture of ribald pleasure, shame and the remnants of rapturous lust to you."
+    "{i}Ihr seid beide erschrocken über [m_name]'s Ausbruch und [b_name] löst sich eilig von dir Ihr Gesicht sieht errötet aus und ihr Ausdruck rätselhaft Es sieht für dich fast aus wie eine Mischung aus unzüchtigem Vergnügen, Scham und den Überbleibseln schwärmerischer Lust"
+
+# game/day14.rpy:1272
+translate german day14_b_fondle_a5039c88:
+
+    # b "That's enough. Stop it."
+    b "Das reicht, hör auf"
+
+# game/day14.rpy:1273
+translate german day14_b_fondle_565313e7:
+
+    # b "Uncle!"
+    b "Onkel!"
+
+# game/day14.rpy:1274
+translate german day14_b_fondle_ed02e162_1:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Gott die Gefühle, die du in mir weckst [b_name]"
+
+# game/day14.rpy:1275
+translate german day14_b_fondle_52dcef3c_2:
+
+    # b "I..."
+    b "I"
+
+# game/day14.rpy:1277
+translate german day14_b_fondle_181d589c_1:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "W-w-was?! Wo?! Oh! Ah ich glaube ich bin eingeschlafen"
+
+# game/day14.rpy:1278
+translate german day14_b_fondle_1ed4a414:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly untangles herself from you. Her face looks flushed and her expression enigmatic."
+    "{i}Sie sind beide erschrocken über [m_name]'s Ausbruch und [b_name] löst sich schnell von Ihnen Ihr Gesicht ist gerötet und ihr Ausdruck rätselhaft"
+
+# game/day14.rpy:1295
+translate german day14_r_fingering_49278f8a:
+
+    # r "{i}(The thought of his touch on my skin makes me feel so giddy inside.)"
+    r "{i}(Der Gedanke an seine Berührung auf meiner Haut macht mich innerlich so schwindlig)"
+
+# game/day14.rpy:1298
+translate german day14_r_fingering_3fe74477:
+
+    # r "{i}(How softly he caressed my pussy... He was so tender with me.)"
+    r "{i}(Wie sanft er meine Muschi streichelte Er war so zärtlich zu mir)"
+
+# game/day14.rpy:1299
+translate german day14_r_fingering_9ba86f30:
+
+    # r "{i}(I guess he liked being in control after I made him cum the night before.)"
+    r "{i}(Ich schätze, er mochte es, die Kontrolle zu haben, nachdem ich ihn in der Nacht zuvor abspritzen ließ)"
+
+# game/day14.rpy:1300
+translate german day14_r_fingering_a26c1823:
+
+    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
+    r "{i}(Es war so viel davon da und es hat überhaupt nicht so eklig geschmeckt, wie es in all den Magazinen behauptet wird - ein bisschen komisch vielleicht)"
+
+# game/day14.rpy:1301
+translate german day14_r_fingering_b4097cf5:
+
+    # r "{i}(Urgh, I hate feeling like this. All that tension...)"
+    r "{i}(Urgh ich hasse dieses Gefühl All diese Spannung)"
+
+# game/day14.rpy:1302
+translate german day14_r_fingering_3949ce7c:
+
+    # r "{i}(Fuck it. I'm going to masturbate. I guess Mrs. Steel would think it isn't 'ladylike behavior', but this is where I draw the line!)"
+    r "{i}(Scheiß drauf, ich werde masturbieren, ich schätze, Mrs. Steel würde denken, dass das kein 'damenhaftes Verhalten' ist, aber hier ziehe ich die Grenze!)"
+
+# game/day14.rpy:1308
+translate german day14_r_fingering_a18ab1a7:
+
+    # r "{i}(Hmmm. Thinking about the naughty things [p_name] and I did has made me so wet.)"
+    r "{i}(Der Gedanke an die unartigen Dinge, die [p_name] und ich getan haben, macht mich so feucht)"
+
+# game/day14.rpy:1309
+translate german day14_r_fingering_9aa71ced:
+
+    # r "Aaah!"
+    r "Aaah!"
+
+# game/day14.rpy:1312
+translate german day14_r_fingering_94b75813:
+
+    # r "{i}(Yes! Aaah! [p_name] was so forceful... His finger inside of me... His big cock... So warm... So strong...)"
+    r "{i}(Ja! Aaah! [p_name] war so kraftvoll Sein Finger in mir Sein großer Schwanz So warm So stark)"
+
+# game/day14.rpy:1313
+translate german day14_r_fingering_0e44b109:
+
+    # r "{i}(Mmmmm... I wonder w-what he would feel like i-inside of me.)"
+    r "{i}(Mmmmm ich frage mich w-wie er sich in mir anfühlen würde)"
+
+# game/day14.rpy:1315
+translate german day14_r_fingering_553cd0ba:
+
+    # r "{i}(Yes! Aaah! I want [p_name]! I want to feel him i-inside of me!)"
+    r "{i}(Ja! Aaah! Ich will [p_name]! Ich will ihn in mir spüren!)"
+
+# game/day14.rpy:1320
+translate german day14_r_fingering_0f019af7:
+
+    # r "{i}(He'll be gentle with me... Kiss me all over... M-m-make me feel good. Oooh! I'm so close!)"
+    r "(Er wird sanft zu mir sein und mich überall küssen, damit ich mich gut fühle.)"
+
+# game/day14.rpy:1323
+translate german day14_r_fingering_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    "Aaaah! Ja!"
+
+# game/day14.rpy:1324
+translate german day14_r_fingering_0e004e54:
+
+    # r "Mmmmmmm. Now I can sleep."
+    r "Mmmmmmmmm Jetzt kann ich schlafen"
+
