@@ -4228,7 +4228,7 @@ translate spanish day145_wedding_ceremony_132c40b0:
 translate spanish day145_wedding_ceremony_d6b0e28d:
 
     # "{i}Adriana has been patiently waiting in the wings, but returns your kiss with the eagerness you've come to enjoy so much in her."
-    "{iAdriana ha estado esperando pacientemente entre bambalinas, pero te devuelve el beso con el afán que has llegado a disfrutar tanto en ella."
+    "{i}Adriana ha estado esperando pacientemente entre bambalinas, pero te devuelve el beso con el afán que has llegado a disfrutar tanto en ella."
 
 # game/day145.rpy:1709
 translate spanish day145_wedding_ceremony_9cedd8e2:
@@ -7420,7 +7420,7 @@ translate spanish day145_r_b_l_m_sex_ece61f38:
 translate spanish day145_r_b_l_m_sex_10073255:
 
     # "{i}While she looks at you getting sucked, she fingers [b_name]'s slit, a probing finger entering the younger girl's vagina and coming back dripping wet."
-    "{iMientras ella mira como te chupan, tocas con el dedo la raja de [b_name], un dedo penetrante entra en la vagina de la joven y regresa goteando."
+    "{i}Mientras ella mira como te chupan, tocas con el dedo la raja de [b_name], un dedo penetrante entra en la vagina de la joven y regresa goteando."
 
 # game/day145.rpy:2699
 translate spanish day145_r_b_l_m_sex_a57278e5:
@@ -8320,7 +8320,7 @@ translate spanish day145_r_b_m_sex_ece61f38:
 translate spanish day145_r_b_m_sex_10073255:
 
     # "{i}While she looks at you getting sucked, she fingers [b_name]'s slit, a probing finger entering the younger girl's vagina and coming back dripping wet."
-    "{iMientras ella mira como te chupan, toca con el dedo la raja de [b_name], un dedo penetrante entra en la vagina de la joven y regresa goteando."
+    "{i}Mientras ella mira como te chupan, toca con el dedo la raja de [b_name], un dedo penetrante entra en la vagina de la joven y regresa goteando."
 
 # game/day145.rpy:3195
 translate spanish day145_r_b_m_sex_a57278e5:
@@ -12627,7 +12627,7 @@ translate spanish day145_wedding_ceremony_2048af1c:
 translate spanish day145_wedding_ceremony_70eb66e8:
 
     # man "Do you together promise you will love, cherish and respect one another throughout the years?"
-    hombre "¿Prometéis juntos que os amaréis, cuidaréis y respetaréis el uno al otro a lo largo de los años?"
+    man "¿Prometéis juntos que os amaréis, cuidaréis y respetaréis el uno al otro a lo largo de los años?"
 
 # game/day145.rpy:1790
 translate spanish day145_wedding_feast_6f9086c8:
@@ -12948,3 +12948,179 @@ translate spanish day145_wedding_feast_0f86c456:
 
     # m "I admit that the idea of you two moving abroad took a long while to get accustomed to."
     m "Admito que me costó mucho acostumbrarme a la idea de que os mudarais al extranjero"
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day145.rpy:2792
+translate spanish day145_r_b_l_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "¿Adriana participa en esta escena?"
+
+# game/day145.rpy:2796
+translate spanish day145_r_b_l_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana participa"
+
+# game/day145.rpy:2799
+translate spanish day145_r_b_l_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana no participa"
+
+# game/day145.rpy:3628
+translate spanish day145_r_b_m_sex_d65dad33:
+
+    # "Does Adriana participate in this scene?"
+    "¿Adriana participa en esta escena?"
+
+# game/day145.rpy:3632
+translate spanish day145_r_b_m_sex_761e652e:
+
+    # "Adriana participates"
+    "Adriana participa"
+
+# game/day145.rpy:3635
+translate spanish day145_r_b_m_sex_2b4cdad4:
+
+    # "Adriana doesn't participate"
+    "Adriana no participa"
+
+# game/day145.rpy:4967
+translate spanish day145_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "¿Está [m_name] embarazada en esta escena?"
+
+# game/day145.rpy:4971
+translate spanish day145_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] embarazada"
+
+# game/day145.rpy:4974
+translate spanish day145_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] no está embarazada"
+
+# game/day145.rpy:5179
+translate spanish day145_b_sex_1a7b1873:
+
+    # "Is [b_name] submissive in this scene?"
+    "¿[b_name] es sumiso en esta escena?"
+
+# game/day145.rpy:5184
+translate spanish day145_b_sex_b2ede48b:
+
+    # "[b_name] submissive"
+    "[b_name] sumisa"
+
+# game/day145.rpy:5186
+translate spanish day145_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "¿[b_name] es un sub completo en esta escena?"
+
+# game/day145.rpy:5190
+translate spanish day145_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente sumisa"
+
+# game/day145.rpy:5193
+translate spanish day145_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] no completamente sumisa"
+
+# game/day145.rpy:5199
+translate spanish day145_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "¿Está [b_name] embarazada en esta escena?"
+
+# game/day145.rpy:5203
+translate spanish day145_b_sex_047eed70:
+
+    # "[b_name] pregnant and not submissive"
+    "[b_name] embarazada y no sumisa"
+
+# game/day145.rpy:5206
+translate spanish day145_b_sex_792ada9c:
+
+    # "[b_name] not pregnant and not submissive"
+    "[b_name] No embarazada y no sumisa"
+
+# game/day145.rpy:5513
+translate spanish day145_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "¿Está [l_name] embarazada en esta escena?"
+
+# game/day145.rpy:5517
+translate spanish day145_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] embarazada"
+
+# game/day145.rpy:5520
+translate spanish day145_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] no está embarazada"
+
+# game/day145.rpy:5689
+translate spanish day145_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "¿Está [r_name] embarazada en esta escena?"
+
+# game/day145.rpy:5693
+translate spanish day145_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] embarazada"
+
+# game/day145.rpy:5696
+translate spanish day145_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] no está embarazada"
+
+# game/day145.rpy:5698
+translate spanish day145_r_sex_522a9764:
+
+    # "Does Ana participate in this scene?"
+    "¿Ana participa en esta escena?"
+
+# game/day145.rpy:5703
+translate spanish day145_r_sex_0569fb1a:
+
+    # "Ana participates"
+    "Ana participa"
+
+# game/day145.rpy:5706
+translate spanish day145_r_sex_3f44a671:
+
+    # "Ana doesn't participate"
+    "Ana no participa"
+
+# game/day145.rpy:5708
+translate spanish day145_r_sex_72a60c9f:
+
+    # "Does Alina participate in this scene?"
+    "¿Alina participa en esta escena?"
+
+# game/day145.rpy:5713
+translate spanish day145_r_sex_5a510202:
+
+    # "Alina participates"
+    "Alina participa"
+
+# game/day145.rpy:5716
+translate spanish day145_r_sex_7852c3e9:
+
+    # "Alina doesn't participate"
+    "Alina no participa"
+

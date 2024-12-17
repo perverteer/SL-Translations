@@ -5569,13 +5569,13 @@ translate spanish day32_evening_choices_1ca31b28:
 translate spanish day32_evening_choices_f4c4dc9e:
 
     # centered "{i}Meanwhile, back at the family home..."
-    centrado "{i}Mientras tanto de vuelta en la casa familiar"
+    centered "{i}Mientras tanto de vuelta en la casa familiar"
 
 # game/day32.rpy:885
 translate spanish day32_evening_choices_9eb61ddc:
 
     # centered "{i}Meanwhile, back at your home..."
-    centrado "{i}Mientras tanto de vuelta en tu casa"
+    centered "{i}Mientras tanto de vuelta en tu casa"
 
 # game/day32.rpy:927
 translate spanish day32_r_concert_hallway_post_f6e04b76:
@@ -5653,4 +5653,11 @@ translate spanish day32_p_room_scene_5fb57633:
 translate spanish day32_p_room_scene_6b22c18c:
 
     # "{i}After a brief moment of confusion, you register the person sitting on a chair next to your bed."
-    "{i}Tras un breve momento de confusión registra a la persona sentada en una silla junto a su cama"
+    "{i}Tras un breve momento de confusión registra a la persona sentada en una silla junto a su cama"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day32.rpy:913
+translate spanish day32_evening_choices_c13067dc:
+
+    # "{i}Very tired, you undress and fall onto your mattress, hoping for sleep to overtake you."
+    "{i}Muy cansada, te desnudas y caes sobre tu colchón, esperando que el sueño te alcance."
+

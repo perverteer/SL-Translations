@@ -5639,4 +5639,59 @@ translate spanish day144_marriage_proposals_b65da9b8:
 translate spanish day144_b_night_sex_61503c26:
 
     # "{i}Warm cum flows inside her and as you pull out, it starts to ooze out of her slit."
-    "{i}El semen caliente fluye dentro de ella y cuando lo sacas empieza a rezumar por su raja"
+    "{i}El semen caliente fluye dentro de ella y cuando lo sacas empieza a rezumar por su raja"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day144.rpy:884
+translate spanish day144_m_ir_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "¿Está [m_name] embarazada en esta escena?"
+
+# game/day144.rpy:888
+translate spanish day144_m_ir_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] embarazada"
+
+# game/day144.rpy:891
+translate spanish day144_m_ir_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] no está embarazada"
+
+# game/day144.rpy:1100
+translate spanish day144_b_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "¿Quieres habilitar deportes acuáticos para esta escena?"
+
+# game/day144.rpy:1104
+translate spanish day144_b_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Deportes acuáticos habilitados"
+
+# game/day144.rpy:1107
+translate spanish day144_b_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Deportes acuáticos para discapacitados"
+
+# game/day144.rpy:2163
+translate spanish day144_b_night_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "¿Está [b_name] embarazada en esta escena?"
+
+# game/day144.rpy:2167
+translate spanish day144_b_night_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] embarazada"
+
+# game/day144.rpy:2170
+translate spanish day144_b_night_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] no está embarazada"
+

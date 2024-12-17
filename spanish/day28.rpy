@@ -5576,3 +5576,381 @@ translate spanish day28_al_visit_374f522b:
 
     # "{i}The girl has a hard time keeping quiet as you fuck her. Her back is chafing on the rough stone of the wall, and her nails dig into your flesh."
     "{i}A la chica le cuesta callarse mientras te la follas Su espalda roza la áspera piedra del muro y sus uñas se clavan en tu carne."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day28.rpy:1068
+translate spanish day28_a_k_visit_ac2723e1:
+
+    # "Does James participate in this scene?"
+    "¿James participa en esta escena?"
+
+# game/day28.rpy:1073
+translate spanish day28_a_k_visit_5ff59d32:
+
+    # "James participates"
+    "James participa"
+
+# game/day28.rpy:1077
+translate spanish day28_a_k_visit_a765de49:
+
+    # "James doesn't participate"
+    "James no participa"
+
+# game/day28.rpy:1080
+translate spanish day28_a_k_visit_fdf5d5f7:
+
+    # "Do you want to fuck Kira or Ana?"
+    "¿Quieres follar con Kira o Ana?"
+
+# game/day28.rpy:1086
+translate spanish day28_a_k_visit_79562e41:
+
+    # "Fucking Kira"
+    "Follando a Kira"
+
+# game/day28.rpy:1091
+translate spanish day28_a_k_visit_c91717d3:
+
+    # "Fucking Ana"
+    "Follando a Ana"
+
+# game/day28.rpy:1725
+translate spanish day28_m_handjob_0599a445:
+
+    # m "Hey."
+    m "Hola."
+
+# game/day28.rpy:1729
+translate spanish day28_m_handjob_87f3e913:
+
+    # p "Wow."
+    p "Wow."
+
+# game/day28.rpy:1730
+translate spanish day28_m_handjob_013cdcf8:
+
+    # m "How do you like me?"
+    m "¿Qué te parezco?"
+
+# game/day28.rpy:1731
+translate spanish day28_m_handjob_e6a41c12:
+
+    # p "You're perfect."
+    p "Estás perfecta."
+
+# game/day28.rpy:1737
+translate spanish day28_m_handjob_2e447cc0:
+
+    # "{i}Your eyes drink in the sight of your mother's voluptuous body as she spins around to show you all of it."
+    "{i}Tus ojos brillan al ver el voluptuoso cuerpo de tu madre mientras ella gira para mostrártelo todo."
+
+# game/day28.rpy:1739
+translate spanish day28_m_handjob_ce8bf891:
+
+    # "{i}Your eyes drink in the sight of your friend's voluptuous body as she spins around to show you all of it."
+    "{i}Tus ojos brillan al ver el voluptuoso cuerpo de tu amiga mientras ella gira para mostrártelo todo."
+
+# game/day28.rpy:1740
+translate spanish day28_m_handjob_b408ef21:
+
+    # m "Why don't you come to bed?"
+    m "¿Por qué no vienes a la cama?"
+
+# game/day28.rpy:1741
+translate spanish day28_m_handjob_ce1766ef:
+
+    # "{i}[m_name] is obviously checking you out as well, her eyes trailing over every inch."
+    "{i}[m_name] obviamente también te está revisando, sus ojos recorriendo cada centímetro."
+
+# game/day28.rpy:1742
+translate spanish day28_m_handjob_71651c93:
+
+    # p "Right!"
+    p "¡Correcto!"
+
+# game/day28.rpy:1744
+translate spanish day28_m_handjob_422bd8af:
+
+    # m "So tell me."
+    m "Entonces dime."
+
+# game/day28.rpy:1745
+translate spanish day28_m_handjob_62653cdb:
+
+    # m "What is it with you and women like me?"
+    m "¿Qué pasa contigo y con mujeres como yo?"
+
+# game/day28.rpy:1746
+translate spanish day28_m_handjob_adfd6b5d:
+
+    # p "Women like you?"
+    p "¿Mujeres como tú?"
+
+# game/day28.rpy:1747
+translate spanish day28_m_handjob_ba6e1256:
+
+    # m "Come on now, most guys your age would go for a skinny young thing."
+    m "Vamos, la mayoría de los chicos de tu edad irían por un joven flaca."
+
+# game/day28.rpy:1748
+translate spanish day28_m_handjob_4aa3539e:
+
+    # p "Undoubtedly, but I like a real woman."
+    p "Sin duda, pero me gusta una mujer real."
+
+# game/day28.rpy:1749
+translate spanish day28_m_handjob_7f4acc38:
+
+    # m "Real?"
+    m "¿Real?"
+
+# game/day28.rpy:1750
+translate spanish day28_m_handjob_86aab2da:
+
+    # p "It's hard to express it in words."
+    p "Es difícil expresarlo con palabras."
+
+# game/day28.rpy:1751
+translate spanish day28_m_handjob_3929e4d3:
+
+    # m "Do you have something else in mind?"
+    m "¿Tienes algo más en mente?"
+
+# game/day28.rpy:1756
+translate spanish day28_m_handjob_5827cb12:
+
+    # "{i}Without saying anything further, you trail the curve of her hips with your fingertips, causing [m_name] to shiver slightly."
+    "{i}Sin decir nada más, sigues la curva de sus caderas con la punta de los dedos, haciendo que [m_name] tiemble un poco."
+
+# game/day28.rpy:1757
+translate spanish day28_m_handjob_2673286b:
+
+    # "{i}You help her out of her babydoll she's wearing, allowing you to see her body in all its naked glory."
+    "{i}La ayudas a quitarse la ropa que lleva puesta, permitiéndote ver su desnudo cuerpo en toda su gloria."
+
+# game/day28.rpy:1762
+translate spanish day28_m_handjob_42c4bdaa:
+
+    # "{i}You kiss her belly and teasingly flick your tongue around her navel."
+    "{i}Besas su vientre y la provocas con tu lengua alrededor de su ombligo."
+
+# game/day28.rpy:1763
+translate spanish day28_m_handjob_6069c9ba:
+
+    # m "Oh, that tickles!"
+    m "¡Oh, que cosquillas!"
+
+# game/day28.rpy:1766
+translate spanish day28_m_handjob_093c6f6c:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Envalentonado por su alegre reacción, te mueves hacia sus grandes tetas."
+
+# game/day28.rpy:1768
+translate spanish day28_m_handjob_093c6f6c_1:
+
+    # "{i}Emboldened by her lighthearted reaction, you move up towards her full breasts."
+    "{i}Envalentonado por su alegre reacción, te mueves hacia sus grandes tetas."
+
+# game/day28.rpy:1769
+translate spanish day28_m_handjob_1b531e45:
+
+    # "{i}As the woman breathes heavily, you kiss the curves of her bosom, working towards her stiffening nipples."
+    "{i}Mientras la mujer respira con intensidad, besas las curvas de su pecho, trabajando hacia la rigidez de sus pezones."
+
+# game/day28.rpy:1770
+translate spanish day28_m_handjob_f121165f:
+
+    # m "Do you like my breasts?"
+    m "¿Te gustan mis pechos?"
+
+# game/day28.rpy:1771
+translate spanish day28_m_handjob_32b3c19b:
+
+    # p "I love them."
+    p "Los amo."
+
+# game/day28.rpy:1772
+translate spanish day28_m_handjob_08a97937:
+
+    # m "Kiss me!"
+    m "Bésame!"
+
+# game/day28.rpy:1774
+translate spanish day28_m_handjob_84d969c6:
+
+    # "{i}The first kisses you exchange are cautious, but when your tongues come into play, any boundaries that existed fall away completely."
+    "{i}Los primeros besos que intercambias son cautelosos, pero cuando las lenguas entran en juego, cualquier límite que haya existido desaparece por completo."
+
+# game/day28.rpy:1780
+translate spanish day28_m_handjob_eb10e287:
+
+    # "{i}[m_name]'s hand slips towards your crotch and frees your erection from your underwear."
+    "{i}La mano de [m_name] se desliza hacia tu entrepierna y libera tu erección de tu ropa interior."
+
+# game/day28.rpy:1782
+translate spanish day28_m_handjob_e0e1c6a8:
+
+    # "{i}You think you see a hint of confusion flash across her face as she holds your erect member in her hands."
+    "{i}Crees que ves una pizca de confusión en su cara mientras sostiene tu miembro erecto en sus manos."
+
+# game/day28.rpy:1783
+translate spanish day28_m_handjob_5ed45dc0:
+
+    # p "{i}(Does she realize... I knew the mask wasn't enough!)"
+    p "{i}(¿Se dará cuenta... sabía que la máscara no era suficiente!)"
+
+# game/day28.rpy:1784
+translate spanish day28_m_handjob_8d493837:
+
+    # "{i}But [m_name] doesn't cry out in outraged surprise and instead kisses you and starts stroking your cock."
+    "{i}Pero [m_name] no grita con indignación y en su lugar te besa y comienza a acariciarte la polla."
+
+# game/day28.rpy:1786
+translate spanish day28_m_handjob_ba26a947:
+
+    # "{i}She holds your member in her hand as if weighing it. Satisfied, she kisses you and starts stroking your cock."
+    "{i}Ella sostiene tu miembro en su mano, como si lo estuviera pesando, satisfecho de que te bese y empiece a acariciarte la polla."
+
+# game/day28.rpy:1788
+translate spanish day28_m_handjob_8ffbc3ac:
+
+    # m "Mmmm, does that feel good, [p_name]?"
+    m "Mmmm, ¿esto se está bien, [p_name]?"
+
+# game/day28.rpy:1789
+translate spanish day28_m_handjob_bb5d0cbf:
+
+    # p "I-it does."
+    p "Lo-lo haces."
+
+# game/day28.rpy:1790
+translate spanish day28_m_handjob_13ba4582:
+
+    # m "Do you want to cum for me?"
+    m "¿Quieres correrte para mí?"
+
+# game/day28.rpy:1791
+translate spanish day28_m_handjob_6ea4dd18:
+
+    # p "Y-yes, I do."
+    p "S-sí, lo haré."
+
+# game/day28.rpy:1792
+translate spanish day28_m_handjob_42899ef0:
+
+    # m "Make a mess all over my body?"
+    m "¿Hacer un gran desastre en todo mi cuerpo?"
+
+# game/day28.rpy:1795
+translate spanish day28_m_handjob_704bb4dc:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your mother's large breasts."
+    "{i}Su mano masajea expertamente tu polla mientras diriges tu atención a los grandes pechos de tu madre."
+
+# game/day28.rpy:1797
+translate spanish day28_m_handjob_73d4fbdd:
+
+    # "{i}Her hand expertly massages your cock as you turn your attention to your friend's large breasts."
+    "{i}Su mano masajea expertamente tu polla mientras dirige tu atención a los grandes pechos de tu amiga"
+
+# game/day28.rpy:1798
+translate spanish day28_m_handjob_28f83ebb:
+
+    # m "Oh yes!"
+    m "¡Oh sí!"
+
+# game/day28.rpy:1799
+translate spanish day28_m_handjob_2ead3e96:
+
+    # "{i}She brushes your hand away though in order to focus completely on pleasuring you."
+    "{i}Sin embargo, ella aparta tu mano para concentrarse completamente en complacerte."
+
+# game/day28.rpy:1800
+translate spanish day28_m_handjob_8d4cf03f:
+
+    # m "That's my boy!"
+    m "Este es mi chico!"
+
+# game/day28.rpy:1801
+translate spanish day28_m_handjob_4daec3dd:
+
+    # "{i}[m_name] strokes your cock again, tracing the veins of your shaft with her wet fingertips, before jerking you off."
+    "{i}[m_name] acaricia tu polla nuevamente, trazando las venas de tu rabo con las yemas húmedas de sus dedos, antes de tirar de ti."
+
+# game/day28.rpy:1802
+translate spanish day28_m_handjob_ce401f6e:
+
+    # m "That's it, baby."
+    m "Eso es, cariño."
+
+# game/day28.rpy:1804
+translate spanish day28_m_handjob_51af9386:
+
+    # "{i}A naughty grin crosses her face as [m_name] utters her next words, already sure of its effects on you."
+    "{i}Una sonrisa traviesa cruza su rostro cuando [m_name] pronuncia sus siguientes palabras, ya segura de sus efectos en ti."
+
+# game/day28.rpy:1805
+translate spanish day28_m_handjob_2653304a:
+
+    # m "Mommy wants your cum so bad!"
+    m "¡Mami quiere tanto tu semen!"
+
+# game/day28.rpy:1807
+translate spanish day28_m_handjob_1ebb7675:
+
+    # m "I want your cum so bad!"
+    m "¡Quiero tanto tu semen!"
+
+# game/day28.rpy:1815
+translate spanish day28_m_handjob_0e1cfcbb:
+
+    # "{i}Your mother knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}Tu madre sabe cuánto tiempo hay que seguir masajeando tu polla, ordeñandote toda tu semilla mientras brota de tu glande en grandes y violentas salpicaduras que llenan sus manos y su vientre."
+
+# game/day28.rpy:1817
+translate spanish day28_m_handjob_b1575f96:
+
+    # "{i}[m_name] knows just how long to keep massaging your cock, milking you of all of your seed as it spurts from your glans in big violent sprays that splatter all over her hands and belly."
+    "{i}[m_name] sabe cuánto tiempo hay que seguir masajeando tu polla, ordeñándote toda tu semilla mientras brota de tu glande en grandes y violentas salpicaduras que llenan sus manos y su vientre."
+
+# game/day28.rpy:1818
+translate spanish day28_m_handjob_e5dba7f6:
+
+    # "{i}With her eyes closed and wearing a look of bliss, [m_name] spreads your cum all over her body and kisses you."
+    "{i}Con los ojos cerrados y una mirada de felicidad, [m_name] extiende tu semen por todo su cuerpo y te besa."
+
+# game/day28.rpy:1823
+translate spanish day28_m_handjob_5b5208aa:
+
+    # p "I never want to leave this bed."
+    p "Nunca quiero salir de esta cama."
+
+# game/day28.rpy:1824
+translate spanish day28_m_handjob_c08bc8f4:
+
+    # m "Good."
+    m "Bien"
+
+# game/day28.rpy:1825
+translate spanish day28_m_handjob_6227f08a:
+
+    # m "But I expect you to earn your keep!"
+    m "¡Pero espero que te ganes la vida!"
+
+# game/day28.rpy:1826
+translate spanish day28_m_handjob_84fe6a10:
+
+    # p "You make that sound as if it's a burden."
+    p "Haces que suene como si fuera una carga."
+
+translate spanish strings:
+
+    # game/day28.rpy:1081
+    old "Fuck Kira"
+    new "Joder Kira"
+
+    # game/day28.rpy:1081
+    old "Fuck Ana"
+    new "Joder ana"
+

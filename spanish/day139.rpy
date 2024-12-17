@@ -8011,4 +8011,89 @@ translate spanish day139_movie_fuck_e786345e:
 translate spanish day139_movie_fuck_940fc4a3:
 
     # l "Does this make you forget that movie a little?"
-    l "¿Esto te hace olvidar un poco esa película?"
+    l "¿Esto te hace olvidar un poco esa película?"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day139.rpy:1920
+translate spanish day139_b_me_soft_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "¿Está [b_name] embarazada en esta escena?"
+
+# game/day139.rpy:1924
+translate spanish day139_b_me_soft_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] embarazada"
+
+# game/day139.rpy:1927
+translate spanish day139_b_me_soft_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] no está embarazada"
+
+# game/day139.rpy:2374
+translate spanish day139_movie_fuck_ebb77704:
+
+    # "Who is getting fucked?"
+    "¿Quién se está follando?"
+
+# game/day139.rpy:2380
+translate spanish day139_movie_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "¿Está [r_name] embarazada en esta escena?"
+
+# game/day139.rpy:2385
+translate spanish day139_movie_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] embarazada"
+
+# game/day139.rpy:2388
+translate spanish day139_movie_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] no está embarazada"
+
+# game/day139.rpy:2394
+translate spanish day139_movie_fuck_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "¿Está [b_name] embarazada en esta escena?"
+
+# game/day139.rpy:2399
+translate spanish day139_movie_fuck_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] embarazada"
+
+# game/day139.rpy:2402
+translate spanish day139_movie_fuck_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] no está embarazada"
+
+# game/day139.rpy:2407
+translate spanish day139_movie_fuck_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "¿Está [l_name] embarazada en esta escena?"
+
+# game/day139.rpy:2412
+translate spanish day139_movie_fuck_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] embarazada"
+
+# game/day139.rpy:2415
+translate spanish day139_movie_fuck_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] no está embarazada"
+
+translate spanish strings:
+
+    # game/day139.rpy:2375
+    old "[r_name]"
+    new "[r_name]"
+

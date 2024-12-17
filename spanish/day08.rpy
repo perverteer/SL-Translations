@@ -2665,7 +2665,7 @@ translate spanish day08_discreet_visit_5358c61d:
 translate spanish day08_discreet_visit_691e2e90:
 
     # woman "If you're accepted, we'll schedule your first session with us. This is also the time when a down payment is required, on top of the regular consulting fees."
-    mujer "Si eres aceptada, programaremos tu primera sesión con nosotros Este es también el momento en que se requiere un pago inicial además de los honorarios regulares de consultoría"
+    woman "Si eres aceptada, programaremos tu primera sesión con nosotros Este es también el momento en que se requiere un pago inicial además de los honorarios regulares de consultoría"
 
 # game/day08.rpy:446
 translate spanish day08_discreet_visit_923938cd:
@@ -2677,13 +2677,13 @@ translate spanish day08_discreet_visit_923938cd:
 translate spanish day08_discreet_visit_ee5df466:
 
     # woman "That's a shame, sir. If you ever change your mind, you know where to find us."
-    mujer "Es una pena señor si alguna vez cambia de opinión ya sabe donde encontrarnos"
+    woman "Es una pena señor si alguna vez cambia de opinión ya sabe donde encontrarnos"
 
 # game/day08.rpy:488
 translate spanish day08_discreet_visit_63e72202:
 
     # woman "Good day to you, sir."
-    mujer "Buenos días a usted señor"
+    woman "Buenos días a usted señor"
 
 # game/day08.rpy:510
 translate spanish day08_discreet_visit_bbf8c7e0:
@@ -2731,4 +2731,359 @@ translate spanish day08_p_room_evening_choices_fb4ae194:
 translate spanish day08_p_room_evening_choices_d2ddba57:
 
     # p "Don't worry, sleep well, [r_name]."
-    p "No te preocupes duerme bien [r_name]"
+    p "No te preocupes duerme bien [r_name]"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day08.rpy:727
+translate spanish day08_ana_sex_22702385:
+
+    # a "Are you going to fuck me, [p_name]?"
+    a "¿Me vas a follar, [p_name]?"
+
+# game/day08.rpy:728
+translate spanish day08_ana_sex_2e86bc82:
+
+    # p "The thought has crossed my mind."
+    p "El pensamiento me ha pasado por la mente."
+
+# game/day08.rpy:729
+translate spanish day08_ana_sex_dca9bfc2:
+
+    # p "A lot."
+    p "Mucho."
+
+# game/day08.rpy:730
+translate spanish day08_ana_sex_7f108f9a:
+
+    # a "Hehe."
+    a "Jeje."
+
+# game/day08.rpy:735
+translate spanish day08_ana_sex_528dd6bf:
+
+    # a "Let me get you ready."
+    a "Déjame prepararte."
+
+# game/day08.rpy:739
+translate spanish day08_ana_sex_1611ca52:
+
+    # "{i}Ana unzips your trousers and frees your growing member. She starts kissing and licking your penis, while gently massaging your balls."
+    "{i}Ana desabrocha tus pantalones y libera a tu miembro en crecimiento. Ella comienza a besar y lamer tu polla, mientras masajea suavemente tus bolas."
+
+# game/day08.rpy:747
+translate spanish day08_ana_sex_c75481bb:
+
+    # a "You like that don't you?"
+    a "¿Te gusta esto, no?"
+
+# game/day08.rpy:748
+translate spanish day08_ana_sex_939349fb:
+
+    # a "Do you want me to suck it, make it all wet?"
+    a "¿Quieres que la chupe, que esté toda mojada?"
+
+# game/day08.rpy:754
+translate spanish day08_ana_sex_6606018f:
+
+    # p "Put it in your mouth."
+    p "Póntela en la boca."
+
+# game/day08.rpy:759
+translate spanish day08_ana_sex_96e5c3db:
+
+    # a "Mmmmm."
+    a "Mmmmm."
+
+# game/day08.rpy:760
+translate spanish day08_ana_sex_9acf9aff:
+
+    # "{i}Clearly already adjusted to your size, Ana's mouth slides down the full length of your your shaft, her tongue whirling fast and eager."
+    "{i}Claramente ya ajustado a su tamaño, la boca de Ana se desliza por toda la longitud de tu rabo, su lengua gira rápida y ansiosamente."
+
+# game/day08.rpy:761
+translate spanish day08_ana_sex_01654862:
+
+    # p "{i}(Oh fuck, this is so good. If she keeps at it like this I'm going to cum already.)"
+    p "{i}(Oh, mierda, esto es muy bueno. Si ella sigue así, ya me voy a correr.)"
+
+# game/day08.rpy:768
+translate spanish day08_ana_sex_dd377334:
+
+    # "{i}She clearly sees you struggling not to fill her mouth with semen, so Ana stops and looks at you longingly while fingering her pussy."
+    "{i}Ella claramente te ve luchando por no llenar su boca de semen, así que Ana se detiene y te mira con deseo mientras se toca el coño."
+
+# game/day08.rpy:769
+translate spanish day08_ana_sex_afdc4606:
+
+    # a "Stay with me, [p_name], don't cum yet."
+    a "Quédate conmigo, [p_name], no te corras todavía."
+
+# game/day08.rpy:770
+translate spanish day08_ana_sex_21cd4f33:
+
+    # a "I want your dick in my pussy."
+    a "Quiero tu polla en mi coño."
+
+# game/day08.rpy:771
+translate spanish day08_ana_sex_8f0a9462:
+
+    # a "Would you like that?"
+    a "¿Te gustaría eso?"
+
+# game/day08.rpy:772
+translate spanish day08_ana_sex_574340d2:
+
+    # p "Hell yes."
+    p "Diablos sí."
+
+# game/day08.rpy:779
+translate spanish day08_ana_sex_44c1eb5a:
+
+    # p "Are you rubbing your clit for me, dirty girl?"
+    p "¿Te estás frotando el clítoris, chica sucia?"
+
+# game/day08.rpy:780
+translate spanish day08_ana_sex_c414b917:
+
+    # a "Uhuh, I want to be all wet when you fuck me."
+    a "Uhuh, quiero estar toda mojada cuando me folles."
+
+# game/day08.rpy:781
+translate spanish day08_ana_sex_62cde2e6:
+
+    # p "I think your cunt is clearly ready for my dick."
+    p "Creo que tu coño está claramente listo para mi polla."
+
+# game/day08.rpy:785
+translate spanish day08_ana_sex_7a20b216:
+
+    # p "Spread your legs for me, show me that sweet pussy of yours."
+    p "Abre las piernas para mí, muéstrame ese dulce coño tuyo."
+
+# game/day08.rpy:791
+translate spanish day08_ana_sex_daca5362:
+
+    # "{i}You tease her glistening pussy lips with the tip of your penis. Ana moans with abandon."
+    "{i}Provocas sus relucientes labios con la punta de tu polla. Ana gime."
+
+# game/day08.rpy:792
+translate spanish day08_ana_sex_142e69c9:
+
+    # a "Put it in [p_name]. Fuck me!"
+    a "Ponlo dentro [p_name]. ¡Follame!"
+
+# game/day08.rpy:795
+translate spanish day08_ana_sex_14dac887:
+
+    # "{i}You push the tip of your penis past her labia. Ana gasps and you push further until your member is completely engulfed by her womanhood."
+    "{i}Empujas la punta de tu polla más allá de sus labios. Ana jadea y empujas más hasta que tu miembro está completamente envuelto por su feminidad."
+
+# game/day08.rpy:796
+translate spanish day08_ana_sex_2632d017:
+
+    # a "Aah, you feel so good, [p_name]."
+    a "Aah, te siento tan bien, [p_name]."
+
+# game/day08.rpy:797
+translate spanish day08_ana_sex_48808d18:
+
+    # p "Yeah, you want me to fuck your dirty little pussy? Make you scream, you little slut?"
+    p "Sí, ¿quieres que te folle tu coñito sucio? ¿Hacerte gritar, pequeña zorra?"
+
+# game/day08.rpy:798
+translate spanish day08_ana_sex_924215d2:
+
+    # a "Make me scream, [p_name]!"
+    a "Hazme gritar, [p_name]!"
+
+# game/day08.rpy:804
+translate spanish day08_ana_sex_b44e9ea5:
+
+    # "{i}Slowly you fuck her pussy. Ana's hands are all over your back, squeezing and raking, as if encouraging you to go deeper and faster."
+    "{i}Lentamente follas su coño. Las manos de Ana están sobre tu espalda, apretandote y empujandote, como si te animaran a ir más profundo y más rápido."
+
+# game/day08.rpy:805
+translate spanish day08_ana_sex_c7b3048d:
+
+    # a "F-f-fuck yes!"
+    a "¡F-f-follameee, sí!"
+
+# game/day08.rpy:806
+translate spanish day08_ana_sex_8ef1766a:
+
+    # a "Fuck me harder, [p_name]!"
+    a "¡Fóllame más fuerte, [p_name]!"
+
+# game/day08.rpy:807
+translate spanish day08_ana_sex_879bf6b4:
+
+    # a "Harder!"
+    a "Más fuerte!"
+
+# game/day08.rpy:811
+translate spanish day08_ana_sex_a84462e0:
+
+    # "{i}Ana's room is filled with noises of moaning, gasping and the wet, rhythmic sounds of penetration."
+    "{i}La habitación de Ana está llena de ruidos de gemidos, gemidos y sonidos húmedos y rítmicos de penetración."
+
+# game/day08.rpy:814
+translate spanish day08_ana_sex_d6faea8c:
+
+    # "{i}With closed eyes and a look of bliss on her flushed face, Ana starts rubbing her clitoris."
+    "{i}Con los ojos cerrados y una mirada de felicidad en su cara sonrojado, Ana comienza a frotarse el clítoris."
+
+# game/day08.rpy:815
+translate spanish day08_ana_sex_2da1e7f5:
+
+    # a "Aaaah... Don't stop! Please don't stop!"
+    a "Aaaah... ¡No te detengas! ¡No te detengas!"
+
+# game/day08.rpy:816
+translate spanish day08_ana_sex_a0bb9737:
+
+    # "{i}You feel her muscles contracting, applying more pressure to your dick. You're about to cum and Ana is close too, you feel."
+    "{i}Sientes que sus músculos se contraen, aplicando más presión a tu polla. Estás a punto de correrte y Ana también está cerca, lo sientes."
+
+# game/day08.rpy:817
+translate spanish day08_ana_sex_678e1d5b:
+
+    # p "I'm cumming."
+    p "Me voy a correr."
+
+# game/day08.rpy:818
+translate spanish day08_ana_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "¡Sí! ¡Dámelo!"
+
+# game/day08.rpy:824
+translate spanish day08_ana_sex_99948d78:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaah!!!"
+
+# game/day08.rpy:828
+translate spanish day08_ana_sex_5544b7c9:
+
+    # "{i}A thick load of sperm fills Ana's vagina. With clawing hands she pushes your body down, clearly urging you to keep going."
+    "{i}Una carga espesa de semen llena la vagina de Ana. Con sus manos en forma de garras ella empuja tu cuerpo hacia abajo, claramente instándote a seguir adelante."
+
+# game/day08.rpy:830
+translate spanish day08_ana_sex_1bd5a98d:
+
+    # a "Fuck me! I'm about to..."
+    a "¡Follame! Estoy a punto de..."
+
+# game/day08.rpy:831
+translate spanish day08_ana_sex_a727b9dd:
+
+    # "{i}With much effort, you keep fucking her. Sperm is leaking from her vagina, making your spasming dick slippery."
+    "{i}Con mucho esfuerzo sigues follándotela. El semen se está escapando de su vagina haciendo que tu polla espasmosa esté resbaladiza."
+
+# game/day08.rpy:838
+translate spanish day08_ana_sex_be2d2108:
+
+    # a "Y-y-yesssssss!!!"
+    a "Ss-siiiiiiiii!!!"
+
+# game/day08.rpy:839
+translate spanish day08_ana_sex_2be3b5ce:
+
+    # "{i}Both her hands slam down on your ass as she holds you tight, orgasming wildly."
+    "{i}Sus dos manos golpean tu culo mientras te abraza fuerte, orgastrando salvajemente."
+
+# game/day08.rpy:844
+translate spanish day08_ana_sex_219776d4:
+
+    # "{i}After you pull out Ana slides her fingers lazily in and out of her cunt, spreading cum all over her pubic area. She still moans softly."
+    "{i}Después de que la sacas, Ana desliza sus dedos perezosamente dentro y fuera de su coño, extendiendo el semen por todo su pubis. Todavía gime suavemente."
+
+# game/day08.rpy:849
+translate spanish day08_ana_sex_7db673e9:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's vagina still oozing with your cum."
+    "{i}Os toma un tiempo recuperaros. Ambos yacían desnudos en la cama, la vagina de Ana todavía rezumaba tu semen."
+
+# game/day08.rpy:860
+translate spanish day08_ana_sex_35788734:
+
+    # "{i}As soon as you feel you're about to cum you pull out and shoot a thick load of sperm over Ana's body."
+    "{i}Tan pronto como sientes que estás a punto de correrte, te sales y la lanzas una espesa carga de semen sobre el cuerpo de Ana."
+
+# game/day08.rpy:864
+translate spanish day08_ana_sex_99948d78_1:
+
+    # p "Aaaaaaaaaah!!!"
+    p "Aaaaaaaaaah!!!"
+
+# game/day08.rpy:870
+translate spanish day08_ana_sex_79bb4801:
+
+    # "{i}Clearly not satisfied, Ana rubs her pussy more violently, massaging her breasts with your cum."
+    "{i}Claramente no satisfecha, Ana se frota el coño más violentamente, masajeando sus tetas con tu semen."
+
+# game/day08.rpy:871
+translate spanish day08_ana_sex_be2d2108_1:
+
+    # a "Y-y-yesssssss!!!"
+    a "Ss-siiiiiiiii!!!"
+
+# game/day08.rpy:875
+translate spanish day08_ana_sex_a3032372:
+
+    # "{i}Your dick still dripping with semen, you look at her while she violently orgasms on the bed."
+    "{i}Tu polla todavía gotea de semen, la miras mientras ella violentamente tiene orgasmos en la cama."
+
+# game/day08.rpy:880
+translate spanish day08_ana_sex_d43e1bed:
+
+    # "{i}It takes a while for you both to recover. You both lay naked on the bed, Ana's body covered with your drying cum."
+    "{i}Les toma un tiempo a los dos recuperarse. Ambos yacían desnudos en la cama, el cuerpo de Ana cubierto con tu semen."
+
+# game/day08.rpy:889
+translate spanish day08_ana_sex_9014c5a1:
+
+    # a "That was so good."
+    a "Eso fue muy bueno."
+
+# game/day08.rpy:890
+translate spanish day08_ana_sex_cf6d0b68:
+
+    # p "I agree."
+    p "Estoy de acuerdo."
+
+# game/day08.rpy:891
+translate spanish day08_ana_sex_27abc72b:
+
+    # a "If you're not careful I'm going to call you every hour for some exercise."
+    a "Si no tienes miedo, te llamaré cada hora para hacer algo de ejercicio."
+
+# game/day08.rpy:892
+translate spanish day08_ana_sex_25d35c37:
+
+    # p "In that case, I hope I have the stamina to perform."
+    p "En ese caso, espero tener la resistencia para realizarlo."
+
+# game/day08.rpy:893
+translate spanish day08_ana_sex_96edc86c:
+
+    # a "Hate to say this, because I could have another go, but my Mom is about to come home. And I want to avoid the complicated questions she might have."
+    a "Odio decir esto, porque podríamos intentarlo otra vez, pero mi mamá está a punto de volver a casa. Y quiero evitar las preguntas complicadas que pueda tener."
+
+# game/day08.rpy:894
+translate spanish day08_ana_sex_8475d17b:
+
+    # p "{i}(Damn she's insatiable. Though I could go again as well, now that she mentions it.)"
+    p "{i}(Maldita sea, es insaciable. Aunque yo también podría ir de nuevo, ahora que lo menciona.)"
+
+# game/day08.rpy:895
+translate spanish day08_ana_sex_bb7dfb49:
+
+    # p "I understand."
+    p "Entiendo."
+
+# game/day08.rpy:896
+translate spanish day08_ana_sex_f99d2351:
+
+    # a "I'll see you again soon."
+    a "Te veré de nuevo pronto."
+

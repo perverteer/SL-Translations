@@ -4441,4 +4441,245 @@ translate spanish day22_evening_choices_a742963f:
 translate spanish day22_b_sex_85cd77ff:
 
     # "{i}[b_name] undresses, and you admire her body as she peels off the layers of clothing she's wearing. You motion her to lie down on the bed and slip out of your clothes as well."
-    "{i}[b_name] se desnuda y admiras su cuerpo mientras se quita las capas de ropa que lleva puestas Le haces señas para que se tumbe en la cama y te quitas tú también la ropa"
+    "{i}[b_name] se desnuda y admiras su cuerpo mientras se quita las capas de ropa que lleva puestas Le haces señas para que se tumbe en la cama y te quitas tú también la ropa"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day22.rpy:1198
+translate spanish day22_r_blowjob_93af388e:
+
+    # "{i}Your sister stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}Tu hermana se levanta y se dirige hacia los arbustos, mirándote burlonamente. Decides seguirla."
+
+# game/day22.rpy:1200
+translate spanish day22_r_blowjob_f85a22a3:
+
+    # "{i}[r_name] stands up and heads towards the bushes, teasingly looking back at you. You decide to follow her."
+    "{i}La chica se levanta y se dirige hacia los arbustos, mirándote burlonamente. Decides seguirla."
+
+# game/day22.rpy:1202
+translate spanish day22_r_blowjob_626ba25f:
+
+    # r "This is the perfect spot. We can't be seen from here and still view our picnic spot, in case Alina and Ana come back."
+    r "Este es el lugar perfecto. No podemos ser vistos desde aquí y aún así ver nuestro lugar de picnic, en caso de que Alina y Ana regresen."
+
+# game/day22.rpy:1203
+translate spanish day22_r_blowjob_d09abdf2:
+
+    # r "I thought we could have some fun here. Out in the open..."
+    r "Pensé que podríamos divertirnos aquí. A la intemperie..."
+
+# game/day22.rpy:1204
+translate spanish day22_r_blowjob_2c842202:
+
+    # "{i}She stands close to you and her hand creeps inside your pants while she stares intently into your eyes."
+    "{i}Ella se para cerca de tí y su mano se arrastra dentro de tus pantalones mientras te mira fijamente a los ojos."
+
+# game/day22.rpy:1205
+translate spanish day22_r_blowjob_a2f1943d:
+
+    # r "I want to taste you, [p_name]."
+    r "Quiero probarte, [p_name]."
+
+# game/day22.rpy:1206
+translate spanish day22_r_blowjob_82d30f19:
+
+    # p "{i}(The girl wants cream after all.)"
+    p "{i}(La chica quiere una crema después de todo.)"
+
+# game/day22.rpy:1208
+translate spanish day22_r_blowjob_eb8e94d8:
+
+    # "{i}[r_name] drops to her knees before you while you lower your pants. Your erection nearly hits her face."
+    "{i}[r_name] cae de rodillas delante de tí mientras te baja tus pantalones. Tu erección casi golpea su cara."
+
+# game/day22.rpy:1209
+translate spanish day22_r_blowjob_f7599487:
+
+    # r "You don't waste time, do you?"
+    r "No pierdes el tiempo, ¿verdad?"
+
+# game/day22.rpy:1215
+translate spanish day22_r_blowjob_133a297e:
+
+    # "{i}The wind is softly caressing your cock, as your sister jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}El viento acaricia suavemente tu polla, mientras tu hermana te masturba. Lame la punta de tu polla y lentamente la toma en su cálida boca."
+
+# game/day22.rpy:1217
+translate spanish day22_r_blowjob_0fb9bc52:
+
+    # "{i}The wind is softly caressing your cock, as [r_name] jerks you off. She licks the tip of your cock and slowly takes your penis into her warm mouth."
+    "{i}El viento acaricia suavemente tu polla, mientras [r_name] te masturba. Ella lame la punta de tu polla y lentamente la toma en su cálida boca."
+
+# game/day22.rpy:1218
+translate spanish day22_r_blowjob_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day22.rpy:1219
+translate spanish day22_r_blowjob_83866ffe:
+
+    # p "God, [r_name], your mouth feels so good."
+    p "Dios, [r_name], tu boca se siente tan bien."
+
+# game/day22.rpy:1221
+translate spanish day22_r_blowjob_6f1e2456:
+
+    # "{i}[r_name]'s head moves up and down, stimulating your shaft. When her tongue comes into play, licking the glans you cannot stifle a moan."
+    "{i}La cabeza de la chica se mueve hacia arriba y hacia abajo, estimulando tu rabo. Cuando su lengua entra en juego, lamiendo el glande no puedes reprimir un gemido."
+
+# game/day22.rpy:1222
+translate spanish day22_r_blowjob_bea680ab:
+
+    # "{i}The sight of [r_name] eagerly servicing your cock and the possibility of Ana and Alina returning any minute, greatly enhances the pleasure you receive from the blowjob."
+    "{i}La visión de [r_name] sirviendo con entusiasmo a tu polla y la posibilidad de que Ana y Alina regresen en cualquier momento, aumenta enormemente el placer que recibes de la mamada."
+
+# game/day22.rpy:1224
+translate spanish day22_r_blowjob_013e40ec:
+
+    # "{i}Precum is already leaking into [r_name]'s mouth and she moans with approval. Her eyes are closed, completely focused on sucking the cum out of your hard dick."
+    "{i}El precum ya está goteando en la boca de [r_name] y la chica gime con aprobación. Sus ojos están cerrados, completamente concentrados en chupar el semen de tu dura polla."
+
+# game/day22.rpy:1225
+translate spanish day22_r_blowjob_d4ca7b4e:
+
+    # p "Aaah, keep going, [r_name]!"
+    p "¡Aaah, continúa, [r_name]!"
+
+# game/day22.rpy:1226
+translate spanish day22_r_blowjob_f85a0094:
+
+    # r "Nearly there, baby?"
+    r "¿Casi llegas, cariño?"
+
+# game/day22.rpy:1227
+translate spanish day22_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "¡S-s-sí!"
+
+# game/day22.rpy:1228
+translate spanish day22_r_blowjob_54922265:
+
+    # "{i}Drool is starting to leak from the corners of [r_name]'s mouth, making a wet mess on her chest. She slurps and sucks on your cock, her swirling tongue everywhere."
+    "{i}La baba está comenzando a gotear por las comisuras de la boca de [r_name], haciendo un húmedo desastre en su pecho. Ella sorbe y chupa tu polla, su lengua arremolinada por todas partes."
+
+# game/day22.rpy:1229
+translate spanish day22_r_blowjob_0f7ec75a:
+
+    # r "Cum in my mouth, baby, I want it all!"
+    r "¡Cumple en mi boca nena lo quiero todo!"
+
+# game/day22.rpy:1232
+translate spanish day22_r_blowjob_a06994e6:
+
+    # "{i}Her eyes widen when your cock discharges deep into her mouth. She has to swallow most of your semen to keep sucking on your dick."
+    "{i}Sus ojos se abren cuando tu polla descarga profundamente en su boca. Ella tiene que tragar la mayor parte de tu semen para seguir chupándote la polla."
+
+# game/day22.rpy:1233
+translate spanish day22_r_blowjob_9ad1f8d3:
+
+    # p "Aaaah, fuck, [r_name]! You're so good!"
+    p "Aaaah, joder, [r_name]! Eres tan buena!"
+
+# game/day22.rpy:1234
+translate spanish day22_r_blowjob_b1f301f8:
+
+    # "{i}Her happy eyes look up at you as she sucks and licks the last remnants of your ejaculate from the length of your cock. She clearly doesn't want to waste your sperm."
+    "{i}Sus ojos felices te miran mientras chupa y lame los últimos restos de tu eyaculación de la longitud de tu polla. Claramente no quiere desperdiciar tu semen."
+
+# game/day22.rpy:1239
+translate spanish day22_r_blowjob_399cafdb:
+
+    # r "How was that?"
+    r "¿Cómo fue eso?"
+
+# game/day22.rpy:1240
+translate spanish day22_r_blowjob_8d271fce:
+
+    # p "You're such a dirty girl, I love it!"
+    p "Eres una chica tan sucia, ¡me encanta!"
+
+# game/day22.rpy:1241
+translate spanish day22_r_blowjob_b561991c:
+
+    # r "Hehe, thanks!"
+    r "Jeje, gracias!"
+
+# game/day22.rpy:1242
+translate spanish day22_r_blowjob_2b629fcb:
+
+    # p "Shit! I think Alina and Ana are coming back."
+    p "¡Mierda! Creo que Alina y Ana van a volver."
+
+# game/day22.rpy:1250
+translate spanish day22_r_blowjob_8d114cfb:
+
+    # r "Fuck."
+    r "Joder."
+
+# game/day22.rpy:1251
+translate spanish day22_r_blowjob_2313a99a:
+
+    # p "We have to think of an excuse."
+    p "Tenemos que pensar en una excusa."
+
+# game/day22.rpy:1252
+translate spanish day22_r_blowjob_cc28141b:
+
+    # r "Do I look decent?"
+    r "¿Me veo decente?"
+
+# game/day22.rpy:1253
+translate spanish day22_r_blowjob_bbb8d175:
+
+    # "{i}You remove a little bit of your cum from the corner of her mouth and kiss her."
+    "{i}Quitas un poco de tu semen de la comisura de su boca y la besas."
+
+# game/day22.rpy:1254
+translate spanish day22_r_blowjob_947316a5:
+
+    # p "You always look decent, even with cum on your face."
+    p "Siempre te ves decente, incluso con semen en tu cara."
+
+# game/day22.rpy:1256
+translate spanish day22_r_blowjob_c48ca465:
+
+    # a "There they are!"
+    a "¡Ahí están!"
+
+# game/day22.rpy:1257
+translate spanish day22_r_blowjob_56ede805:
+
+    # al "Where were you guys?"
+    al "¿Dónde estaban chicos?"
+
+# game/day22.rpy:1258
+translate spanish day22_r_blowjob_e24e5416:
+
+    # p "We were looking for the toilets."
+    p "Estábamos buscando los baños."
+
+# game/day22.rpy:1259
+translate spanish day22_r_blowjob_f53ec246:
+
+    # a "They're completely the other way."
+    a "Están completamente al revés."
+
+# game/day22.rpy:1260
+translate spanish day22_r_blowjob_d7f0b9d7:
+
+    # r "Shit, I told you so."
+    r "Mierda, te lo dije."
+
+# game/day22.rpy:1261
+translate spanish day22_r_blowjob_1bf6814e:
+
+    # r "I have to go. Won't be long!"
+    r "Me tengo que ir. ¡No tardaré mucho!"
+
+# game/day22.rpy:1262
+translate spanish day22_r_blowjob_afd369af:
+
+    # p "{i}(All things considered, [r_name] is a pretty great actress.)"
+    p "{i}(Considerándolo todo, [r_name] es una actriz bastante buena.)"
+

@@ -3798,3 +3798,1279 @@ translate spanish day17_choices_cf30d2c8:
 
     # "{i}You head to the bike rental with [m_name] and [l_name], somewhere on the beach."
     "{i}Te diriges al alquiler de bicicletas con [m_name] y [l_name] en algún lugar de la playa."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day17.rpy:776
+translate spanish day17_n_r_sex_021c6f24:
+
+    # p "How could I refuse two lovely ladies with a gift?"
+    p "¿Cómo podría rechazar a dos encantadoras damas con un regalo?"
+
+# game/day17.rpy:777
+translate spanish day17_n_r_sex_a52c3b00:
+
+    # n "Haha! Exactly."
+    n "¡Jaja! Exactamente."
+
+# game/day17.rpy:778
+translate spanish day17_n_r_sex_8cfba3f6:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor, together with Nia."
+    r "Me hiciste sentir tan bien con tu lengua la otra noche y me gustaría devolverte el favor, junto con Nia."
+
+# game/day17.rpy:779
+translate spanish day17_n_r_sex_04b03468:
+
+    # p "{i}(Woah! A double blowjob?!)"
+    p "{i}(¡Woah! ¿Una doble mamada?!)"
+
+# game/day17.rpy:780
+translate spanish day17_n_r_sex_e469c1b1:
+
+    # n "Just lie still, [p_name], we're going to do all the work for you."
+    n "Solo quédate quieto, [p_name], vamos a hacer todo el trabajo por ti."
+
+# game/day17.rpy:785
+translate spanish day17_n_r_sex_dad24c60:
+
+    # "{i}[r_name] and Nia giggle and kneel before you."
+    "{i}[r_name] y Nia se ríen y se arrodillan ante ti."
+
+# game/day17.rpy:786
+translate spanish day17_n_r_sex_1c5dfd87:
+
+    # n "Should we lose our remaining clothes, [r_name]?"
+    n "¿Y si perdemos la ropa que nos queda, [r_name]?"
+
+# game/day17.rpy:787
+translate spanish day17_n_r_sex_7f06dc70:
+
+    # r "I'm not sure. Would that make [p_name] happy, you think?"
+    r "No estoy segura. ¿Crees que eso haría feliz a [p_name]?"
+
+# game/day17.rpy:788
+translate spanish day17_n_r_sex_5ce0758a:
+
+    # p "{i}(Lose the clothes, please, lose the clothes!)"
+    p "{i}(¡Pierde la ropa, por favor, pierde la ropa!)"
+
+# game/day17.rpy:789
+translate spanish day17_n_r_sex_a9c7c4a0:
+
+    # n "I'm not sure... Let's try it..."
+    n "No estoy segura... Probémoslo..."
+
+# game/day17.rpy:790
+translate spanish day17_n_r_sex_d4cced53:
+
+    # n "I think it worked!"
+    n "¡Creo que funcionó!"
+
+# game/day17.rpy:791
+translate spanish day17_n_r_sex_d71a9447:
+
+    # r "It sure did. But now he still has his clothes on..."
+    r "Seguro que sí. Pero ahora el todavía tiene su ropa puesta..."
+
+# game/day17.rpy:792
+translate spanish day17_n_r_sex_d55373fa:
+
+    # n "That's unfair."
+    n "Eso es injusto."
+
+# game/day17.rpy:794
+translate spanish day17_n_r_sex_b9aa68e5:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to your sister in one fluid motion."
+    "{i}Nia se pone de pie, se quita la ropa interior y se sienta junto a tu hermana en un movimiento fluido."
+
+# game/day17.rpy:796
+translate spanish day17_n_r_sex_fad81a4e:
+
+    # "{i}Nia stands up, removes your underwear and sits down next to [r_name] in one fluid motion."
+    "{i}Nia se pone de pie, se quita la ropa interior y se sienta junto a [r_name] en un movimiento fluido."
+
+# game/day17.rpy:797
+translate spanish day17_n_r_sex_fb2818ad:
+
+    # n "That's better."
+    n "Esto está mejor."
+
+# game/day17.rpy:798
+translate spanish day17_n_r_sex_32b7f6ec:
+
+    # n "And he's hard already. Nice."
+    n "Y ya estás duro. Bien."
+
+# game/day17.rpy:799
+translate spanish day17_n_r_sex_00568fa3:
+
+    # r "Let's see if we can make him harder."
+    r "Veamos si podemos hacerlo más duro."
+
+# game/day17.rpy:800
+translate spanish day17_n_r_sex_5e1fdbeb:
+
+    # n "Good idea."
+    n "Buena idea."
+
+# game/day17.rpy:802
+translate spanish day17_n_r_sex_8cc40cc1:
+
+    # "{i}[r_name] and Nia kiss each other tenderly at first, but soon lust overtakes them both and their tongues intertwine passionately."
+    "{i}[r_name] y Nia se besan tiernamente al principio, pero pronto la lujuria las alcanza a ambas y sus lenguas se entrelazan apasionadamente."
+
+# game/day17.rpy:803
+translate spanish day17_n_r_sex_e69310a3:
+
+    # n "Mmmm, someone else is ready as well."
+    n "Mmmm, alguien más está listo también."
+
+# game/day17.rpy:804
+translate spanish day17_n_r_sex_1fef6015:
+
+    # r "So it seems."
+    r "Así parece."
+
+# game/day17.rpy:805
+translate spanish day17_n_r_sex_b9ec79a6:
+
+    # "{i}As you admire the girl's foreplay, precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Mientras admiras los juegos previos de las chicas, el precum se escapa de tu polla. Tu punta mojada brilla a la luz de la luna."
+
+# game/day17.rpy:806
+translate spanish day17_n_r_sex_c16042cb:
+
+    # r "[p_name] deserves a kiss as well."
+    r "[p_name] también merece un beso."
+
+# game/day17.rpy:809
+translate spanish day17_n_r_sex_3d1138bf:
+
+    # "{i}Nia and your sister crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Nia y tu hermana se arrastran sobre ti. Los pezones de [r_name] tocan brevemente la sensible piel de tu glande y la pequeña tira de vello púbico de Nia te hace cosquillas en el muslo."
+
+# game/day17.rpy:811
+translate spanish day17_n_r_sex_3ad3baef:
+
+    # "{i}Nia and [r_name] crawl on top of you. [r_name]'s nipples briefly touch the sensitive skin of your glans and Nia's little strip of pubic hair tickles against your thigh."
+    "{i}Nia y [r_name] se arrastran sobre ti. Los pezones de [r_name] tocan brevemente la sensible piel de tu glande y la pequeña tira de vello púbico de Nia te hace cosquillas en el muslo."
+
+# game/day17.rpy:813
+translate spanish day17_n_r_sex_fc56b76f:
+
+    # "{i}With eager lips, the girls take turns kissing you. While you french kiss Nia, [r_name] slowly moves down to your erect dick and touches it lightly with her fingertips."
+    "{i}Con ansiosos labios, las chicas se turnan para besarte. Mientras la besas a Nia, [r_name] se mueve lentamente hacia tu erecta polla y la toca suavemente con la punta de los dedos."
+
+# game/day17.rpy:814
+translate spanish day17_n_r_sex_dcb6d597:
+
+    # r "There's something to kiss down here too, Nia."
+    r "Hay algo que besar aquí también, Nia."
+
+# game/day17.rpy:820
+translate spanish day17_n_r_sex_3679276d:
+
+    # "{i}Your sister is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}Nia se une a tu hermana y juntas besan y lamen tu rabo, dejando rastros húmedos por todas partes."
+
+# game/day17.rpy:822
+translate spanish day17_n_r_sex_97b28fe6:
+
+    # "{i}[r_name] is joined by Nia and together they kiss and lick your shaft, leaving wet trails all over it."
+    "{i}Nia se une a [r_name] y juntas besan y lamen tu rabo, dejando rastros húmedos por todas partes."
+
+# game/day17.rpy:823
+translate spanish day17_n_r_sex_b6cca7cc:
+
+    # r "Mmmmm, I can taste him already, can't you Nia?"
+    r "Mmmmm, ya puedo saborearlo, ¿verdad, Nia?"
+
+# game/day17.rpy:824
+translate spanish day17_n_r_sex_589f1e51:
+
+    # n "Yes! And I want more."
+    n "¡Sí! Y quiero más."
+
+# game/day17.rpy:826
+translate spanish day17_n_r_sex_c42ee524:
+
+    # "{i}[r_name] gives Nia the space and looks at her intently, obviously wanting to learn from the other girl. Nia's mouth softly wraps around the tip of your cock, and the film of precum is soon mixed with her saliva as she sucks and licks the tip."
+    "{i}[r_name] le da a Nia el espacio y la mira atentamente, obviamente queriendo aprender de la otra chica. La boca de Nia envuelve suavemente la punta de tu polla y la película de precum pronto se mezcla con su saliva mientras chupa y lame la punta.”"
+
+# game/day17.rpy:827
+translate spanish day17_n_r_sex_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "¿Se siente bien, [p_name]?"
+
+# game/day17.rpy:828
+translate spanish day17_n_r_sex_b2603c13:
+
+    # "{i}Right at that moment, Nia takes nearly the entire length of your penis in her mouth and caresses it with her darting tongue."
+    "{i}Justo en ese momento, Nia toma casi todo la polla en la boca y la acaricia con su lengua."
+
+# game/day17.rpy:829
+translate spanish day17_n_r_sex_a6ae68d7:
+
+    # p "God yes!"
+    p "¡Dios sí!"
+
+# game/day17.rpy:830
+translate spanish day17_n_r_sex_55d0763c:
+
+    # n "Mmmmmm!"
+    n "¡Mmmmmm!"
+
+# game/day17.rpy:831
+translate spanish day17_n_r_sex_5121b425:
+
+    # p "Keep going Nia, aaaaah!"
+    p "Sigue Nia, aaaaah!"
+
+# game/day17.rpy:832
+translate spanish day17_n_r_sex_6f96f19a:
+
+    # "{i}Nia's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by [r_name] gently massaging your balls which are by now covered in streams of saliva."
+    "{i}La boca de Nia estimula tu polla en todos los ángulos correctos, una sensación celestial que se intensifica con [r_name] masajeando suavemente tus bolas que ahora están cubiertas de chorros de saliva."
+
+# game/day17.rpy:837
+translate spanish day17_n_r_sex_9eba972b:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by your sister and they swap places."
+    "{i}Nia se deja empujar suavemente de tu polla por tu hermana y se intercambian lugares."
+
+# game/day17.rpy:839
+translate spanish day17_n_r_sex_54b94af2:
+
+    # "{i}Nia lets herself be gently pushed away from your cock by [r_name] and they swap places."
+    "{i}Nia se deja empujar suavemente de tu polla por [r_name] y se intercambian lugares."
+
+# game/day17.rpy:844
+translate spanish day17_n_r_sex_a6022d68:
+
+    # "{i}[r_name] is clearly less experienced and the first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}[r_name] es claramente menos experimentada y los primeros movimientos de su boca en tu polla son un poco incómodos, pero su actitud de concentración y voluntad de aprender lo hace aún más caliente."
+
+# game/day17.rpy:845
+translate spanish day17_n_r_sex_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Eso es, justo ahí. Usa tu lengua, [r_name], envuelve tus labios alrededor de mi polla."
+
+# game/day17.rpy:847
+translate spanish day17_n_r_sex_7a2893e1:
+
+    # n "How does that feel, [r_name], your brother's big cock inside your mouth?"
+    n "¿Cómo se siente, [r_name], la gran polla de tu hermano dentro de tu boca?"
+
+# game/day17.rpy:849
+translate spanish day17_n_r_sex_7f5a0272:
+
+    # n "How does that feel, [r_name], [p_name]'s big cock inside your mouth?"
+    n "¿Cómo se siente, [r_name], la gran polla de [p_name] dentro de tu boca?"
+
+# game/day17.rpy:850
+translate spanish day17_n_r_sex_9182261a:
+
+    # r "Mmmmm!"
+    r "¡Mmmmm!"
+
+# game/day17.rpy:851
+translate spanish day17_n_r_sex_f7a09ae6:
+
+    # n "Good, isn't it? I made it all wet for you..."
+    n "Es bueno, ¿verdad? Hice que todo se mojara para ti..."
+
+# game/day17.rpy:852
+translate spanish day17_n_r_sex_ef34156c:
+
+    # n "Are you going to make him cum with your pretty little mouth?"
+    n "¿Vas a hacer que se corra con tu bonita boquita?"
+
+# game/day17.rpy:853
+translate spanish day17_n_r_sex_1dc344f3:
+
+    # "{i}Nia's words spur [r_name] to really give herself over to sucking your cock with abandon, and pretty soon the room is filled with the sounds of her slobbering on your penis. Meanwhile, Nia massages your balls and strokes your thighs, and occasionally slides up the couch to kiss you wantonly."
+    "{i}Las palabras de Nia estimulan [r_name] para que realmente se entregue a chuparte la polla con abandono, y muy pronto la sala se llena con los sonidos de su babeo en tu polla. Mientras tanto, Nia masajea tus bolas y acaricia tus muslos y ocasionalmente se desliza por el sofá para besarte sin sentido.”"
+
+# game/day17.rpy:854
+translate spanish day17_n_r_sex_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "Aaaah, [r_name], ¡estoy tan cerca!"
+
+# game/day17.rpy:855
+translate spanish day17_n_r_sex_6a665f9f:
+
+    # n "Shall we make him cum together?"
+    n "¿Lo hacemos correrse juntas?"
+
+# game/day17.rpy:856
+translate spanish day17_n_r_sex_67d6aa19:
+
+    # r "That's a good idea."
+    r "Esa es una buena idea."
+
+# game/day17.rpy:858
+translate spanish day17_n_r_sex_ae3e2bcb:
+
+    # "{i}The girls position themselves at each side of your cock and begin to lick and suck the length of your shaft, sometimes stopping to kiss each other."
+    "{i}Las chicas se colocan a cada lado de tu polla y comienzan a lamer y chupar la longitud de tu rabo, a veces se detienen para besarse."
+
+# game/day17.rpy:859
+translate spanish day17_n_r_sex_205d546f:
+
+    # n "Are you going to cum in our mouths, [p_name]?"
+    n "¿Vas a correrte en nuestras bocas, [p_name]?"
+
+# game/day17.rpy:860
+translate spanish day17_n_r_sex_1ff0de98:
+
+    # r "You'd like that, wouldn't you?"
+    r "Te gustaría eso, ¿no?"
+
+# game/day17.rpy:861
+translate spanish day17_n_r_sex_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "¡S-s-sí!"
+
+# game/day17.rpy:863
+translate spanish day17_n_r_sex_6d40e142:
+
+    # "{i}It's your sister that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Es tu hermana la que finalmente te lleva al límite. Cuando ella te lame la cabeza de la polla, sientes que las primeras oleadas de tu orgasmo atraviesan tu cuerpo."
+
+# game/day17.rpy:865
+translate spanish day17_n_r_sex_8a8d7975:
+
+    # "{i}It's [r_name] that ultimately sends you over the edge. When she licks the head of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Es [r_name] lo que finalmente te lleva al límite. Cuando ella te lame la cabeza de la polla, sientes que las primeras oleadas de tu orgasmo atraviesan tu cuerpo."
+
+# game/day17.rpy:872
+translate spanish day17_n_r_sex_5ea5b12a:
+
+    # "{i}Nia senses that you're ready and motions [r_name] to kneel, their mouths open before your throbbing cock. Big streams of semen shoot on their faces and in their mouths."
+    "{i}Nia siente que estás listo y hace un gesto a [r_name] para arrodillarse con la boca abierta delante de tu palpitante polla. Grandes corrientes de semen brotan en sus caras y en sus bocas."
+
+# game/day17.rpy:873
+translate spanish day17_n_r_sex_64a20ab7:
+
+    # n "Yes! Shower us with cum!"
+    n "¡Sí! ¡Báñanos con semen!"
+
+# game/day17.rpy:874
+translate spanish day17_n_r_sex_124be57b:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into their mouths."
+    "{i}Has recuperado parte de tu compostura durante los últimos espasmos de tu orgasmo y puedes depositar varios chorros directamente en sus bocas."
+
+# game/day17.rpy:877
+translate spanish day17_n_r_sex_e95876b8:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from your sister's face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Una feliz [r_name] te mira mientras se traga tu carga. Nia no dice nada y lentamente lame las gotas de semen de la cara de tu hermana antes de tragárselo todo. Las chicas terminan con un beso largo con sus labios pintados de semen.”"
+
+# game/day17.rpy:879
+translate spanish day17_n_r_sex_adfc3258:
+
+    # "{i}A happy [r_name] looks at you as she swallows your load. Nia says nothing and slowly licks the dollops of sperm from [r_name]'s face before swallowing it all. The girls finish with a long kiss with their cum painted lips."
+    "{i}Una feliz [r_name] te mira mientras se traga tu carga. Nia no dice nada y lentamente lame las gotas de semen de la cara de [r_name] antes de tragárselo todo. Las chicas terminan con un beso largo con sus labios pintados de semen.”"
+
+# game/day17.rpy:880
+translate spanish day17_n_r_sex_8359c75d:
+
+    # r "Mmmm! There was so much of it!"
+    r "¡Mmmm! ¡Había tanto de eso!"
+
+# game/day17.rpy:889
+translate spanish day17_n_r_sex_ea059714:
+
+    # n "There sure was. How long have you been saving all that for us, [p_name]?"
+    n "Claro que sí. ¿Cuánto tiempo llevabas guardando todo eso para nosotras, [p_name]?"
+
+# game/day17.rpy:890
+translate spanish day17_n_r_sex_0c3613aa:
+
+    # p "I'm... I'm... not sure... what year is this again?"
+    p "Yo... no... yo no estoy seguro... ¿en qué año estamos?"
+
+# game/day17.rpy:891
+translate spanish day17_n_r_sex_689a8fb3:
+
+    # r "Sweet dreams, [p_name]!"
+    r "¡Dulces sueños, [p_name]!"
+
+# game/day17.rpy:892
+translate spanish day17_n_r_sex_da44e347:
+
+    # n "Hope you sleep well!"
+    n "¡Espero que duermas bien!"
+
+# game/day17.rpy:893
+translate spanish day17_n_r_sex_2f3dc07e:
+
+    # p "I'm sure I will. Good night girls!"
+    p "Estoy seguro de que lo haré. ¡Buenas noches chicas!"
+
+# game/day17.rpy:894
+translate spanish day17_n_r_sex_a9ad1689:
+
+    # "{i}[r_name] and Nia leave you on the couch without another word, and softly giggling they climb the stairs, back to Nia's bedroom."
+    "{i}[r_name] y Nia te dejan en el sofá sin decir una palabra más, y riendo suavemente suben las escaleras, de vuelta a la habitación de Nia."
+
+# game/day17.rpy:926
+translate spanish day17_n_sex_a45d60e9:
+
+    # n "Psst, [p_name]?!"
+    n "Psst, [p_name]?!"
+
+# game/day17.rpy:928
+translate spanish day17_n_sex_57978f1e:
+
+    # p "Huh? Nia?"
+    p "¿Eh? ¿Nia?"
+
+# game/day17.rpy:931
+translate spanish day17_n_sex_b1147461:
+
+    # p "Back again?"
+    p "¿Otra vez de vuelta?"
+
+# game/day17.rpy:932
+translate spanish day17_n_sex_aa37de39:
+
+    # n "Yes..."
+    n "Sí..."
+
+# game/day17.rpy:933
+translate spanish day17_n_sex_1c277469:
+
+    # p "What's the matter?"
+    p "¿Qué es lo que pasa?"
+
+# game/day17.rpy:936
+translate spanish day17_n_sex_16403a37:
+
+    # n "I really liked what your sister and I did earlier. But..."
+    n "Realmente me gustó lo que tu hermana y yo hicimos antes. Pero..."
+
+# game/day17.rpy:938
+translate spanish day17_n_sex_d72995b3:
+
+    # n "I really liked what [r_name] and I did earlier. But..."
+    n "Realmente me gustó lo que [r_name] e hice antes. Pero..."
+
+# game/day17.rpy:939
+translate spanish day17_n_sex_703f80cf:
+
+    # n "I want more... And I hope you do too."
+    n "Quiero más... Y espero que tú también lo desees."
+
+# game/day17.rpy:940
+translate spanish day17_n_sex_f8a55781:
+
+    # p "I'm always up for more."
+    p "Siempre estoy dispuesto a más."
+
+# game/day17.rpy:941
+translate spanish day17_n_sex_f2416b76:
+
+    # n "Yeah, do you still have some juice left?"
+    n "Sí, ¿todavía te queda algo de jugo?"
+
+# game/day17.rpy:942
+translate spanish day17_n_sex_2d8790b2:
+
+    # p "Plenty."
+    p "Mucho."
+
+# game/day17.rpy:944
+translate spanish day17_n_sex_9e955ca9:
+
+    # n "The one and only."
+    n "El único e inigualable."
+
+# game/day17.rpy:945
+translate spanish day17_n_sex_49a15ca3:
+
+    # p "You're uh... not wearing much..."
+    p "No estás... no llevas mucho..."
+
+# game/day17.rpy:949
+translate spanish day17_n_sex_96f34a9a:
+
+    # n "We've already had that little conversation during yoga class and I think you're funny and don't look too bad as well."
+    n "Ya hemos tenido esa pequeña conversación durante la clase de yoga y creo que eres divertido y no te ves tan mal."
+
+# game/day17.rpy:951
+translate spanish day17_n_sex_dc848de3:
+
+    # n "You interest me, [p_name]. I think you're funny and you don't look too bad as well."
+    n "Me interesas, [p_name]. Creo que eres divertido y no te ves tan mal."
+
+# game/day17.rpy:952
+translate spanish day17_n_sex_7e565f3e:
+
+    # p "Errr. Thanks, I guess."
+    p "Errr. Gracias, supongo."
+
+# game/day17.rpy:953
+translate spanish day17_n_sex_64ed2a81:
+
+    # n "And I'm sure you won't be around here forever, with you being on vacation and all... So I'd like to seize the moment."
+    n "Y estoy segura de que no estarás por aquí para siempre, estando de vacaciones y todo... Así que me gustaría usar el momento."
+
+# game/day17.rpy:954
+translate spanish day17_n_sex_88384a9d:
+
+    # p "{i}(I like where this is going.)"
+    p "{i}(Me gusta a dónde va esto.)"
+
+# game/day17.rpy:957
+translate spanish day17_n_sex_52d0a016:
+
+    # n "You clearly enjoyed yoga class today."
+    n "Claramente disfrutaste la clase de yoga hoy."
+
+# game/day17.rpy:958
+translate spanish day17_n_sex_b7f11957:
+
+    # p "Mostly because of all the hot girls in tight clothing."
+    p "Principalmente por todas las chicas calientes con ropa ajustada."
+
+# game/day17.rpy:959
+translate spanish day17_n_sex_f8ba9b92:
+
+    # n "Understandable."
+    n "Comprensible."
+
+# game/day17.rpy:960
+translate spanish day17_n_sex_88733f91:
+
+    # n "I thought maybe you'd be interested in a more advanced lesson. The way the human body can bend and stretch in interesting ways is simply amazing."
+    n "Pensé que tal vez te interesaría una lección más avanzada. La forma en que el cuerpo humano puede doblarse y estirarse de manera interesante es simplemente increíble."
+
+# game/day17.rpy:961
+translate spanish day17_n_sex_059c9cd9:
+
+    # p "When it comes to learning I'm always very, very eager..."
+    p "Cuando se trata de aprender, siempre estoy muy, muy ansioso..."
+
+# game/day17.rpy:963
+translate spanish day17_n_sex_4de57e6a:
+
+    # n "Do you want me, [p_name]?"
+    n "¿Me quieres, [p_name]?"
+
+# game/day17.rpy:964
+translate spanish day17_n_sex_fe13d2fd:
+
+    # n "I want you to make love to me."
+    n "Quiero que me hagas el amor."
+
+# game/day17.rpy:968
+translate spanish day17_n_sex_57f8ce16:
+
+    # p "Of course, beautiful!"
+    p "¡Por supuesto, hermosa!"
+
+# game/day17.rpy:972
+translate spanish day17_n_sex_aac35e7b:
+
+    # p "Sorry Nia, but I'm not interested."
+    p "Lo siento Nia, pero no estoy interesado."
+
+# game/day17.rpy:974
+translate spanish day17_n_sex_2dcfcd11:
+
+    # "{i}Without saying a word, Nia leaves as quietly as she came. You doze off immediately after and sleep deeply for the remainder of the night."
+    "{i}Sin decir una palabra, Nia se va tan silenciosamente como vino. Inmediatamente despues te quedas dormido y duermes profundamente por el resto de la noche."
+
+# game/day17.rpy:978
+translate spanish day17_n_sex_b2fa37a9:
+
+    # p "{i}(Best. Din-aww fuck it, I'm getting laid again!)"
+    p "{i}(Mejor. A la mierda, me estoy acostando con alguien otra vez!)"
+
+# game/day17.rpy:980
+translate spanish day17_n_sex_74fc6d57:
+
+    # p "{i}(I'm becoming a big fan of the concept of 'sleepovers'.)"
+    p "{i}(Me estoy convirtiendo en un gran admirador del concepto de 'pijamadas')"
+
+# game/day17.rpy:983
+translate spanish day17_n_sex_3c2f1232:
+
+    # n "Good!"
+    n "¡Bien!"
+
+# game/day17.rpy:986
+translate spanish day17_n_sex_f915d80a:
+
+    # "{i}Nia kneels before you and grabs your rapidly growing cock. You kiss her neck and grab her small, firm breasts. Her nipples are already hard and Nia's breathing becomes heavier."
+    "{i}Nia se arrodilla ante tí y agarra tu polla que crece rápidamente. Besas su cuello y agarras sus pequeñas y firmes tetas. Sus pezones ya están duros y la respiración de Nia se vuelve más pesada."
+
+# game/day17.rpy:987
+translate spanish day17_n_sex_fa482016:
+
+    # n "The first exercise is called the Downward Facing Cocksucker."
+    n "El primer ejercicio se llama 'La chupapollas que mira hacia abajo'."
+
+# game/day17.rpy:988
+translate spanish day17_n_sex_939cfc19:
+
+    # p "Sounds like a great way to train those often neglected facial muscles."
+    p "Suena como una excelente manera de entrenar esos músculos faciales que a menudo se descuidan."
+
+# game/day17.rpy:993
+translate spanish day17_n_sex_fc45939f:
+
+    # "{i}The athletic girl stands up and bends down sharply, seemingly without effort. Your cock is in her mouth before you know it, and her ass is positioned invitingly in front of your face."
+    "{i}La chica atlética se pone de pie y se inclina bruscamente, aparentemente sin esfuerzo. Tu polla está en su boca antes de que te des cuenta y su culo está posicionado de manera atractiva frente a tu cara."
+
+# game/day17.rpy:998
+translate spanish day17_n_sex_a61b4a81:
+
+    # "{i}She blows you with the same great technique you experienced earlier this night. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Te golpea con la misma gran técnica que experimentaste antes esa noche. Su lengua hace movimientos rápidos sobre tu hinchada cabeza y tú haces lo mismo con su coño y su clítoris."
+
+# game/day17.rpy:1000
+translate spanish day17_n_sex_680eda3b:
+
+    # "{i}Her technique is perfect. Her tongue making rapid movements over your swollen head and you proceed to do the same with her pussy and clitoris."
+    "{i}Su técnica es perfecta. Su lengua hace movimientos rápidos sobre tu hinchada cabeza y tú haces lo mismo con su coño y su clítoris."
+
+# game/day17.rpy:1001
+translate spanish day17_n_sex_ebe0f1ca:
+
+    # n "Mmmmm!"
+    n "¡Mmmmm!"
+
+# game/day17.rpy:1002
+translate spanish day17_n_sex_0ed239d7:
+
+    # n "Ohhhh!"
+    n "¡Ohhhh!"
+
+# game/day17.rpy:1007
+translate spanish day17_n_sex_57d99eee:
+
+    # "{i}You stop licking her pussy and pull her gently from your cock."
+    "{i}Dejas de lamer su coño y la sacas suavemente de tu polla."
+
+# game/day17.rpy:1008
+translate spanish day17_n_sex_ca6c83e8:
+
+    # p "I already know you can give a great blowjob. I'd like to explore that little wet slit of yours a bit further."
+    p "Ya sé que puedes hacer una gran mamada. Me gustaría explorar un poco más esa pequeña y húmeda raja tuya."
+
+# game/day17.rpy:1009
+translate spanish day17_n_sex_45d38e93:
+
+    # n "Mmmm, I liked what you were doing with it."
+    n "Mmmm, me gustó lo que estabas haciendo con ella."
+
+# game/day17.rpy:1010
+translate spanish day17_n_sex_ad885e52:
+
+    # p "Spread your legs for me, baby."
+    p "Abre las piernas para mí, cariño."
+
+# game/day17.rpy:1015
+translate spanish day17_n_sex_15165c05:
+
+    # "{i}Nia spreads and bends down again to give you the perfect view of her tight pussy and her little asshole. When you enter her you feel a slight resistance."
+    "{i}Nia se extiende y se inclina de nuevo para darte la vista perfecta de su apretado coño y de su pequeño culo. Cuando entras en ella sientes una ligera resistencia."
+
+# game/day17.rpy:1016
+translate spanish day17_n_sex_b4f501ba:
+
+    # p "Am I going too fast?"
+    p "¿Voy demasiado rápido?"
+
+# game/day17.rpy:1017
+translate spanish day17_n_sex_74a65443:
+
+    # n "No, keep going. You're bigger than I expected."
+    n "No, sigue adelante. Eres más grande de lo que esperaba."
+
+# game/day17.rpy:1018
+translate spanish day17_n_sex_2810f87f:
+
+    # "{i}You slowly push your cock further inside her. Nia relaxes visibly and her gasps become soft moans of pleasure."
+    "{i}Empujas lentamente tu polla dentro de ella. Nia se relaja visiblemente y sus gemidos se convierten en suaves gemidos de placer."
+
+# game/day17.rpy:1019
+translate spanish day17_n_sex_7d3ddce0:
+
+    # n "Mmmm, that's it."
+    n "Mmmm, eso es todo."
+
+# game/day17.rpy:1023
+translate spanish day17_n_sex_04dd7f78:
+
+    # "{i}After waiting for a short while to let Nia get fully accustomed to your size, you establish a gentle rhythm, letting Nia feel the entire length of your throbbing cock each time you penetrate her."
+    "{i}Después de esperar un momento para dejar que Nia se acostumbre completamente a tu tamaño, estableces un ritmo suave, dejando que Nia sienta toda la longitud de tu palpitante polla cada vez que la penetras."
+
+# game/day17.rpy:1024
+translate spanish day17_n_sex_e04ee9b5:
+
+    # n "Aaah yes! Keep doing that! Right there!"
+    n "¡Aaah sí! ¡Sigue haciendo eso! ¡Justo ahí!"
+
+# game/day17.rpy:1026
+translate spanish day17_n_sex_8c961780:
+
+    # "{i}The moisture of her cunt acting as a natural lubricant, you feel you can pick up the pace and start to quicken your thrusts. Nia moans as if to encourage you further."
+    "{i}La humedad de su coño actua como un lubricante natural, sientes que puedes acelerar el ritmo y empezar a acelerar tus empujes. Nia gime como para alentarte más."
+
+# game/day17.rpy:1027
+translate spanish day17_n_sex_24fd4500:
+
+    # n "Want to try another position?"
+    n "¿Quieres probar otra posición?"
+
+# game/day17.rpy:1029
+translate spanish day17_n_sex_4abbac46:
+
+    # "{i}Nia bends her body in such a way that resembles a perverted version of an 'asana'. Her gaping pussy is ready again for your penis, and you don't hold back this time. Your balls slap against her pussy as you drive your cock mercilessly into her."
+    "{i}Nia dobla su cuerpo de tal manera que se asemeja a una versión pervertida de un 'asana' Su coño abierto está listo de nuevo para tu pene y no te contienes esta vez Tus bolas golpean contra su coño mientras conduces tu polla sin piedad dentro de ella"
+
+# game/day17.rpy:1030
+translate spanish day17_n_sex_ef16aad3:
+
+    # n "G-g-god [p_name]! Fuck me!"
+    n "¡Dios mío [p_name]! ¡Fóllame!"
+
+# game/day17.rpy:1035
+translate spanish day17_n_sex_e8ccb902:
+
+    # "{i}Mad with lust, you grab her thighs and lift Nia from the ground. She stabilizes herself with her hands as you slam your cock to the root inside of her pussy with firm piston-like movements, still holding her tautened thighs."
+    "{i}Enloquecida por la lujuria, agarras sus muslos y levantas a Nia del suelo, ella se estabiliza con sus manos mientras golpeas tu polla hasta el fondo dentro de su coño con movimientos firmes como los de un pistón, aún sosteniendo sus muslos tensos."
+
+# game/day17.rpy:1036
+translate spanish day17_n_sex_eca46522:
+
+    # n "Fuck me harder, [p_name]!"
+    n "¡Fóllame más fuerte [p_name]!"
+
+# game/day17.rpy:1037
+translate spanish day17_n_sex_9c5e215e:
+
+    # p "Yes Nia! I'm so close!"
+    p "¡Sí, Nia! ¡Estoy tan cerca!"
+
+# game/day17.rpy:1039
+translate spanish day17_n_sex_4a6a6a8a:
+
+    # n "I want to taste your cum again, let me have it! In my mouth please!"
+    n "¡Quiero probar tu semen otra vez, déjame tenerlo! ¡En mi boca, por favor!"
+
+# game/day17.rpy:1041
+translate spanish day17_n_sex_21aa5c1b:
+
+    # n "I want to taste your cum, let me have it! In my mouth please!"
+    n "¡Quiero probar tu semen, déjame tenerlo! ¡En mi boca, por favor!"
+
+# game/day17.rpy:1048
+translate spanish day17_n_sex_0aa9b0aa:
+
+    # "{i}As soon as you feel your cock twitching in the onset of your orgasm, you pull out of Nia, lift her head slightly and finish in her open mouth."
+    "{i}Tan pronto como sientes que tu polla se mueve en el comienzo de tu orgasmo, sacas a Nia, levantas su cabeza ligeramente y terminas en su boca abierta."
+
+# game/day17.rpy:1049
+translate spanish day17_n_sex_b795223f:
+
+    # p "Aaaah!"
+    p "¡Aaaah!"
+
+# game/day17.rpy:1050
+translate spanish day17_n_sex_9909950d:
+
+    # n "Yes! Yes! More!"
+    n "¡Sí! ¡Sí! ¡Más!"
+
+# game/day17.rpy:1051
+translate spanish day17_n_sex_03612561:
+
+    # "{i}Semen is leaking from the corners of her mouth as you spasm in the last throes of your orgasm."
+    "{i}El semen está goteando por las comisuras de su boca mientras tienes espasmos en la última agonía de tu orgasmo."
+
+# game/day17.rpy:1057
+translate spanish day17_n_sex_3340861d:
+
+    # p "You showed some crazy elastic moves back there."
+    p "Mostraste algunos movimientos elásticos locos ahí."
+
+# game/day17.rpy:1058
+translate spanish day17_n_sex_8cf0fef4:
+
+    # n "Don't underestimate the power of yoga."
+    n "No subestimes el poder del yoga."
+
+# game/day17.rpy:1059
+translate spanish day17_n_sex_23d833bf:
+
+    # p "From now on, I won't ever again."
+    p "De ahora en adelante nunca más lo volveré."
+
+# game/day17.rpy:1060
+translate spanish day17_n_sex_9c06648b:
+
+    # n "Have you had many lovers, [p_name]?"
+    n "¿Has tenido muchas amantes, [p_name]?"
+
+# game/day17.rpy:1061
+translate spanish day17_n_sex_7a8cb987:
+
+    # p "A few."
+    p "Algunas."
+
+# game/day17.rpy:1064
+translate spanish day17_n_sex_08cd553e:
+
+    # n "Your sister for one. That's unusual."
+    n "Tu hermana, por ejemplo. Eso es inusual."
+
+# game/day17.rpy:1065
+translate spanish day17_n_sex_29cdba2a:
+
+    # p "Not on Belugio."
+    p "No en Belugio."
+
+# game/day17.rpy:1066
+translate spanish day17_n_sex_9c1c027e:
+
+    # n "It's still unusual on Belugio, but accepted all the same."
+    n "Sigue siendo inusual en Belugio, pero es aceptado de todos modos."
+
+# game/day17.rpy:1068
+translate spanish day17_n_sex_0471cb1c:
+
+    # n "[r_name] for one."
+    n "[r_name] por ejemplo."
+
+# game/day17.rpy:1069
+translate spanish day17_n_sex_209b433b:
+
+    # p "And you?"
+    p "¿Y tú?"
+
+# game/day17.rpy:1071
+translate spanish day17_n_sex_fdd6acfe:
+
+    # n "Hmmm. No. You were my second. Or third, if you count Rebeca."
+    n "Hmmm. No. Tú fuiste mi segundo. O tercero, si cuentas a Rebeca."
+
+# game/day17.rpy:1072
+translate spanish day17_n_sex_6a30ee20:
+
+    # p "Rebeca, your... mother?"
+    p "Rebeca, tu... madre?"
+
+# game/day17.rpy:1073
+translate spanish day17_n_sex_0b1bfa64:
+
+    # n "Yes. You shouldn't be surprised by now."
+    n "Sí. No deberías sorprenderte ahora."
+
+# game/day17.rpy:1075
+translate spanish day17_n_sex_e9de9e2d:
+
+    # n "And besides, you've just had a fucking sexy blowjob from your own sister tonight."
+    n "Y además, acabas de recibir una jodida mamada sexy de tu propia hermana esta noche."
+
+# game/day17.rpy:1076
+translate spanish day17_n_sex_efc57a97:
+
+    # p "Okay, okay! Point taken."
+    p "¡Está bien, está bien! Punto anotado."
+
+# game/day17.rpy:1077
+translate spanish day17_n_sex_17af946b:
+
+    # p "But who was your first then?"
+    p "¿Pero quién fue tu primero entonces?"
+
+# game/day17.rpy:1079
+translate spanish day17_n_sex_94c641e4:
+
+    # n "My my, you're getting rather inquisitive aren't you?"
+    n "Dios mío, te estás volviendo curioso ¿no?"
+
+# game/day17.rpy:1080
+translate spanish day17_n_sex_8495691f:
+
+    # p "You don't have to tell me."
+    p "No tienes que decírmelo."
+
+# game/day17.rpy:1081
+translate spanish day17_n_sex_cc3084af:
+
+    # n "I don't mind."
+    n "No me importa."
+
+# game/day17.rpy:1082
+translate spanish day17_n_sex_7b86b863:
+
+    # n "Nino was my first."
+    n "Nino fue el primero."
+
+# game/day17.rpy:1083
+translate spanish day17_n_sex_36ff5f12:
+
+    # p "Really."
+    p "En serio."
+
+# game/day17.rpy:1084
+translate spanish day17_n_sex_c0b7b88a:
+
+    # n "He's still my lover sometimes, when we both feel like it."
+    n "Todavía es mi amante a veces, cuando a los dos nos da la gana."
+
+# game/day17.rpy:1085
+translate spanish day17_n_sex_90a89774:
+
+    # p "Your brother is a lucky guy."
+    p "Tu hermano es un tipo afortunado."
+
+# game/day17.rpy:1087
+translate spanish day17_n_sex_dd74d507:
+
+    # n "Hmmm. No. You were my second."
+    n "Hmmm. No. Tú fuiste mi segundo."
+
+# game/day17.rpy:1088
+translate spanish day17_n_sex_d4ec46d4:
+
+    # p "Who was your first then?"
+    p "¿Quién fue tu primero entonces?"
+
+# game/day17.rpy:1090
+translate spanish day17_n_sex_f3a94fd4:
+
+    # n "Some boy I knew from school."
+    n "Algún chico que conocí de la escuela."
+
+# game/day17.rpy:1091
+translate spanish day17_n_sex_09f8f925:
+
+    # p "{i}(She's being purposely vague... Better not grill her further on the subject and just enjoy the moment.)"
+    p "{i}(Ella está siendo vaga a propósito... Mejor que no la interrogue más sobre el tema y que disfrute del momento.)"
+
+# game/day17.rpy:1092
+translate spanish day17_n_sex_1baecc24:
+
+    # p "Well, he was a lucky guy."
+    p "Bueno, fue un tipo con suerte."
+
+# game/day17.rpy:1094
+translate spanish day17_n_sex_c7ae129c:
+
+    # n "Do you think so?"
+    n "¿Eso crees?"
+
+# game/day17.rpy:1095
+translate spanish day17_n_sex_5ce61dbf:
+
+    # p "Nia, you're a little package of flexible sexiness. So of course!"
+    p "Nia, eres un pequeño paquete de sensualidad flexible. ¡Así que por supuesto!"
+
+# game/day17.rpy:1097
+translate spanish day17_n_sex_809f6b43:
+
+    # "{i}Nia caresses your chest as you both lie together in the post-coital warmth. After a while, she gives you a kiss, rises and goes back to her bedroom."
+    "{i}Nia acaricia tu pecho mientras ambos yacen juntos en el calor post-coital. Después de un rato te da un beso, se levanta y vuelve a su dormitorio."
+
+# TODO: Translation updated at 2024-11-29 09:53
+
+# game/day17.rpy:699
+translate spanish day17_r_blowjob_b88116c6:
+
+    # p "What the?! [r_name]?"
+    p "¡¿Qué?! ¿[r_name]?"
+
+# game/day17.rpy:700
+translate spanish day17_r_blowjob_b264dd12:
+
+    # r "Sorry for startling you!"
+    r "¡Perdone que le haya asustado!"
+
+# game/day17.rpy:701
+translate spanish day17_r_blowjob_55df98a2:
+
+    # p "Can't sleep?"
+    p "¿No puedes dormir?"
+
+# game/day17.rpy:702
+translate spanish day17_r_blowjob_634a8ea7:
+
+    # r "I haven't tried yet. I waited for Nia to fall asleep so I could come find you."
+    r "No lo he intentado todavía esperé a que Nia se durmiera para ir a buscarte"
+
+# game/day17.rpy:703
+translate spanish day17_r_blowjob_382b0ab2:
+
+    # p "Oh?"
+    p "¿Oh?"
+
+# game/day17.rpy:704
+translate spanish day17_r_blowjob_aa733556:
+
+    # r "I'd like us to do something naughty..."
+    r "Me gustaría que hiciéramos algo travieso"
+
+# game/day17.rpy:706
+translate spanish day17_r_blowjob_f569bc25:
+
+    # p "{i}(Best. Dinner-party. Goddamn-Ever.)"
+    p "{i}(Mejor cena-fiesta maldita sea)"
+
+# game/day17.rpy:707
+translate spanish day17_r_blowjob_01a81c32:
+
+    # p "Here? Now? What if someone wakes up?"
+    p "¿Aquí? ¿Ahora? ¿Y si se despierta alguien?"
+
+# game/day17.rpy:708
+translate spanish day17_r_blowjob_9726821a:
+
+    # r "Sure, why not. I like a little bit of danger."
+    r "Claro por qué no me gusta un poco de peligro"
+
+# game/day17.rpy:709
+translate spanish day17_r_blowjob_32164c6f:
+
+    # p "{i}(I so love her eagerness.)"
+    p "{i}(Me encanta su afán)"
+
+# game/day17.rpy:710
+translate spanish day17_r_blowjob_01a7cc9b:
+
+    # p "What did you have in mind?"
+    p "¿Qué tenías en mente?"
+
+# game/day17.rpy:711
+translate spanish day17_r_blowjob_e6f18e0f:
+
+    # r "You made me feel so good with your tongue the other night and I'd like to return the favor..."
+    r "Me hiciste sentir tan bien con tu lengua la otra noche y me gustaría devolverte el favor"
+
+# game/day17.rpy:712
+translate spanish day17_r_blowjob_070d1fd1:
+
+    # p "You would do that for me?"
+    p "¿Harías eso por mí?"
+
+# game/day17.rpy:713
+translate spanish day17_r_blowjob_b6ae797a:
+
+    # r "Yes. But you have to guide me a bit, I've never done it before."
+    r "Sí Pero tienes que guiarme un poco nunca lo he hecho antes"
+
+# game/day17.rpy:714
+translate spanish day17_r_blowjob_2c7b655d:
+
+    # p "Don't worry! But kiss me first!"
+    p "¡No te preocupes! ¡Pero bésame primero!"
+
+# game/day17.rpy:720
+translate spanish day17_r_blowjob_624b9ca7:
+
+    # "{i}Your sister removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}Tu hermana se quita el sujetador y las bragas y se arrastra encima de ti su coño presiona contra tu muslo y sientes como sus pezones rozan brevemente tu piel"
+
+# game/day17.rpy:722
+translate spanish day17_r_blowjob_5d33a071:
+
+    # "{i}[r_name] removes her bra and panties and crawls on top of you, her pussy presses against your thigh and you feel her nipples briefly rub against your skin."
+    "{i}[r_name] se quita el sujetador y las bragas y se arrastra encima de ti su coño presiona contra tu muslo y sientes como sus pezones rozan brevemente tu piel"
+
+# game/day17.rpy:723
+translate spanish day17_r_blowjob_ada30f18:
+
+    # "{i}With eager lips, she french kisses you, meanwhile touching your erect dick lightly with her fingertips. Precum is leaking from your cock. Your wet tip is glistening in the moonlight."
+    "{i}Con labios ansiosos te da un beso francés mientras toca ligeramente tu polla erecta con las yemas de sus dedos El preco gotea de tu polla Tu punta húmeda brilla a la luz de la luna"
+
+# game/day17.rpy:724
+translate spanish day17_r_blowjob_eeb5bfa4:
+
+    # r "I'm going to kiss you down there, [p_name]."
+    r "Voy a besarte ahí abajo [p_name]"
+
+# game/day17.rpy:727
+translate spanish day17_r_blowjob_5d06a4e9:
+
+    # "{i}Your sister kisses and licks your shaft, leaving wet trails all over it."
+    "{i}Tu hermana besa y lame tu eje dejando rastros húmedos por todas partes"
+
+# game/day17.rpy:729
+translate spanish day17_r_blowjob_f09fb4ca:
+
+    # "{i}[r_name] kisses and licks your shaft, leaving wet trails all over it."
+    "{i}[r_name] besa y lame tu eje dejando rastros húmedos por todas partes"
+
+# game/day17.rpy:730
+translate spanish day17_r_blowjob_d9a81861:
+
+    # r "Mmmmm, you taste so good!"
+    r "Mmmmm ¡sabes tan bien!"
+
+# game/day17.rpy:731
+translate spanish day17_r_blowjob_2cc4509b:
+
+    # r "I'm going further. Stop me if I'm doing something wrong."
+    r "Voy más lejos Detenme si estoy haciendo algo mal"
+
+# game/day17.rpy:732
+translate spanish day17_r_blowjob_86593fed:
+
+    # p "Don't worry, as long as you don't chew on it you'll be absolutely fine."
+    p "No te preocupes mientras no lo mastiques estarás absolutamente bien"
+
+# game/day17.rpy:737
+translate spanish day17_r_blowjob_ff4ee346:
+
+    # "{i}[r_name]'s mouth softly wraps around the tip of your cock and the film of precum is soon mixed with her saliva as she sucks and licks the tip. The first motions of her mouth on your dick are a bit awkward, but her look of concentration and willingness to learn make it even hotter."
+    "{i}La boca de [r_name] envuelve suavemente la punta de tu polla y la película de precum pronto se mezcla con su saliva mientras chupa y lame la punta Los primeros movimientos de su boca en tu polla son un poco incómodos pero su mirada de concentración y ganas de aprender lo hacen aún más caliente"
+
+# game/day17.rpy:738
+translate spanish day17_r_blowjob_33edb9fc:
+
+    # r "Does that feel good, [p_name]?"
+    r "¿Se siente bien [p_name]?"
+
+# game/day17.rpy:739
+translate spanish day17_r_blowjob_a6ae68d7:
+
+    # p "God yes!"
+    p "¡Dios, sí!"
+
+# game/day17.rpy:741
+translate spanish day17_r_blowjob_15638743:
+
+    # "{i}Your sister's mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}La boca de tu hermana estimula tu polla en todos los ángulos correctos, una sensación celestial que se acentúa cuando ella masajea suavemente tus pelotas, que ahora están cubiertas de chorros de saliva."
+
+# game/day17.rpy:743
+translate spanish day17_r_blowjob_0229c9dd:
+
+    # "{i}[r_name]'s mouth stimulates your dick at all the right angles, a heavenly feeling that is heightened by her gently massaging your balls which are by now covered in streams of saliva."
+    "{i}La boca de [r_name] estimula tu polla en todos los ángulos correctos, una sensación celestial que se acentúa cuando te masajea suavemente los huevos, que ahora están cubiertos de chorros de saliva."
+
+# game/day17.rpy:744
+translate spanish day17_r_blowjob_e9a93643:
+
+    # p "Keep going [r_name], aaaaah!"
+    p "¡Sigue [r_name] aaaaah!"
+
+# game/day17.rpy:745
+translate spanish day17_r_blowjob_ecce9918:
+
+    # p "That's it, right there. Use your tongue, [r_name], wrap your lips around my dick."
+    p "Eso es justo ahí Usa tu lengua [r_name] envuelve tus labios alrededor de mi polla"
+
+# game/day17.rpy:746
+translate spanish day17_r_blowjob_9182261a:
+
+    # r "Mmmmm!"
+    r "¡Mmmmm!"
+
+# game/day17.rpy:748
+translate spanish day17_r_blowjob_e0607cfc:
+
+    # p "Aaaah, [r_name], I'm so close!"
+    p "¡Aaaah [r_name] estoy tan cerca!"
+
+# game/day17.rpy:749
+translate spanish day17_r_blowjob_8653922f:
+
+    # r "Are you going to cum for me?"
+    r "¿Te vas a correr por mí?"
+
+# game/day17.rpy:750
+translate spanish day17_r_blowjob_61144f50:
+
+    # r "In my little warm mouth? I want to taste you so bad!"
+    r "¿En mi boquita caliente? Tengo tantas ganas de probarte."
+
+# game/day17.rpy:751
+translate spanish day17_r_blowjob_fc007d5a:
+
+    # p "Y-y-yes!"
+    p "¡S-s-sí!"
+
+# game/day17.rpy:753
+translate spanish day17_r_blowjob_fd85d209:
+
+    # "{i}It's those words that send you over the edge. When your sister licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Son esas palabras las que te llevan al límite Cuando tu hermana te lame la punta del pene sientes las primeras oleadas de tu orgasmo recorrer tu cuerpo"
+
+# game/day17.rpy:755
+translate spanish day17_r_blowjob_616cdd40:
+
+    # "{i}It's those words that send you over the edge. When [r_name] licks the tip of your penis, you feel the first waves of your orgasm surge through your body."
+    "{i}Son esas palabras las que te llevan al límite Cuando [r_name] lame la punta de tu pene sientes las primeras oleadas de tu orgasmo recorrer tu cuerpo"
+
+# game/day17.rpy:760
+translate spanish day17_r_blowjob_b52ceef0:
+
+    # "{i}[r_name] senses that you're ready and kneels with an open mouth before your throbbing cock. Big streams of semen shoot on her face and in her mouth."
+    "{i}[r_name] siente que estás listo y se arrodilla con la boca abierta ante tu polla palpitante Grandes chorros de semen salen disparados sobre su cara y en su boca"
+
+# game/day17.rpy:761
+translate spanish day17_r_blowjob_c7a95b60:
+
+    # "{i}You've regained some of your composure during the last spasms of your orgasm and are able to deposit several spurts directly into her mouth."
+    "{i}Has recuperado parte de tu compostura durante los últimos espasmos de tu orgasmo y eres capaz de depositar varios chorros directamente en su boca"
+
+# game/day17.rpy:764
+translate spanish day17_r_blowjob_01ed08d6:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. Your sister licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Una feliz [r_name] te mira con profunda satisfacción en sus ojos Tu hermana lame las gotas de esperma cerca de su boca antes de tragárselo todo Una gran sonrisa adorna sus labios pintados de semen"
+
+# game/day17.rpy:766
+translate spanish day17_r_blowjob_18dd9554:
+
+    # "{i}A happy [r_name] looks at you with deep satisfaction in her eyes. The girl licks up the dollops of sperm near her mouth before swallowing it all. A big smile graces her cum painted lips."
+    "{i}Una feliz [r_name] te mira con profunda satisfacción en sus ojos La chica lame las gotas de esperma cerca de su boca antes de tragárselo todo Una gran sonrisa adorna sus labios pintados de semen"
+
+# game/day17.rpy:767
+translate spanish day17_r_blowjob_16e92508:
+
+    # r "Mmmm! There was so much of it! Did you save it all for me, [p_name]?"
+    r "¡Mmmm! ¡Había tanto! ¿Lo guardaste todo para mí [p_name]?"
+
+# game/day17.rpy:768
+translate spanish day17_r_blowjob_1f2f692f:
+
+    # p "I might have... You were so hot!"
+    p "¡Podría haberlo hecho! ¡Estabas tan buena!"
+
+# game/day17.rpy:769
+translate spanish day17_r_blowjob_e74020e9:
+
+    # r "Thank you, this was just what I needed."
+    r "Gracias, era justo lo que necesitaba"
+
+# game/day17.rpy:770
+translate spanish day17_r_blowjob_44328101:
+
+    # r "Sweet dreams, [p_name], love you!"
+    r "¡Dulces sueños [p_name] te quiero!"
+
+# game/day17.rpy:771
+translate spanish day17_r_blowjob_a900ac49:
+
+    # p "Love you too, sleep well!"
+    p "¡Yo también te quiero que duermas bien!"
+
+# game/day17.rpy:772
+translate spanish day17_r_blowjob_7c9bff09:
+
+    # "{i}[r_name] leaves you on the couch and silently climbs the stairs, back to Nia's bedroom."
+    "{i}[r_name] te deja en el sofá y sube en silencio las escaleras de vuelta a la habitación de Nia"
+

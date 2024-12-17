@@ -3481,13 +3481,13 @@ translate spanish day10_supermarket_afternoon_861280fc:
 translate spanish day10_discreet_38ef9308:
 
     # woman "Certainly. I have the contract right here. After you sign, we can arrange the payment."
-    mujer "Por supuesto, tengo el contrato aquí Después de firmar podemos arreglar el pago"
+    woman "Por supuesto, tengo el contrato aquí Después de firmar podemos arreglar el pago"
 
 # game/day10.rpy:259
 translate spanish day10_discreet_b0415e9c:
 
     # woman "If you'd like some time to read the contract, there are seats in the lobby."
-    mujer "Si desea un poco de tiempo para leer el contrato hay asientos en el vestíbulo"
+    woman "Si desea un poco de tiempo para leer el contrato hay asientos en el vestíbulo"
 
 # game/day10.rpy:269
 translate spanish day10_discreet_33155bb5:
@@ -3499,7 +3499,7 @@ translate spanish day10_discreet_33155bb5:
 translate spanish day10_discreet_09ab2be8:
 
     # woman "Your consultant will be with you in a moment. Before your appointment, we ask you to wear this mask. This ensures your privacy."
-    mujer "Su asesor estará con usted en un momento Antes de su cita le pedimos que use esta máscara Esto asegura su privacidad"
+    woman "Su asesor estará con usted en un momento Antes de su cita le pedimos que use esta máscara Esto asegura su privacidad"
 
 # game/day10.rpy:279
 translate spanish day10_discreet_c33a64c0:
@@ -3559,7 +3559,7 @@ translate spanish day10_discreet_session_bbc0cc3a:
 translate spanish day10_discreet_session_75e25a5e:
 
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company I'd like to wish you a very pleasant day."
-    mujer "No hay problema señor Destruiremos este documento junto con los resultados de sus pruebas En nombre de la empresa me gustaría desearle un día muy agradable"
+    woman "No hay problema señor Destruiremos este documento junto con los resultados de sus pruebas En nombre de la empresa me gustaría desearle un día muy agradable"
 
 # game/day10.rpy:522
 translate spanish day10_dwayne_visit_e3d8ee81:
@@ -3649,7 +3649,7 @@ translate spanish day10_al_fucking_a14c71c2:
 translate spanish day10_al_fucking_fb330df7:
 
     # al "*Gasp* Harder. Fuck. Me. Harder."
-    ya "*Gasp* Harder Fuck Me Harder"
+    al "*Gasp* Harder Fuck Me Harder"
 
 # game/day10.rpy:972
 translate spanish day10_al_fucking_9bf8a862:
@@ -3673,4 +3673,234 @@ translate spanish day10_al_sex_post_032b6d19:
 translate spanish day10_discreet_session_198a85c2:
 
     # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
-    mujer "No hay problema señor Destruiremos este documento junto con los resultados de sus pruebas En nombre de la empresa me gustaría desearle un día muy agradable."
+    woman "No hay problema señor Destruiremos este documento junto con los resultados de sus pruebas En nombre de la empresa me gustaría desearle un día muy agradable."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day10.rpy:337
+translate spanish day10_discreet_e184130a:
+
+    # "{i}You dress yourself while [m_name] leaves the room."
+    "{i}Te vistes mientras [m_name] sale de la habitación."
+
+# game/day10.rpy:341
+translate spanish day10_discreet_afb0d82f:
+
+    # p "{i}(That was some extremely weird shit...)"
+    p "{i}(Eso fue una mierda extremadamente extraña...)"
+
+# game/day10.rpy:342
+translate spanish day10_discreet_61e3e5ba:
+
+    # woman "I trust you enjoyed your first session Mr. Holmes? Would you like to schedule another session?"
+    woman "Confío en que haya disfrutado su primera sesión, Sr. Holmes. ¿Le gustaría programar otra sesión?"
+
+# game/day10.rpy:346
+translate spanish day10_discreet_fd1037f2:
+
+    # p "Yes, it was quite invigorating."
+    p "Sí, fue muy estimulante."
+
+# game/day10.rpy:347
+translate spanish day10_discreet_6995dc48:
+
+    # woman "Good, I can fit you in in four days."
+    woman "Bien, puedo encajarte en cuatro días."
+
+# game/day10.rpy:348
+translate spanish day10_discreet_480fea4d:
+
+    # p "Sounds good to me."
+    p "Me suena bien."
+
+# game/day10.rpy:349
+translate spanish day10_discreet_7a1764cd:
+
+    # woman "All right then. We'll see you in four days. Have a nice day."
+    woman "Muy bien entonces. Te veremos en cuatro días. Que tengas un buen día."
+
+# game/day10.rpy:350
+translate spanish day10_discreet_b8e3e19c:
+
+    # p "Thank you!"
+    p "¡Gracias!"
+
+# game/day10.rpy:353
+translate spanish day10_discreet_e4fb02e1:
+
+    # p "No, this is not for me."
+    p "No, esto no es para mí."
+
+# game/day10.rpy:354
+translate spanish day10_discreet_61907235:
+
+    # woman "We're very sorry to hear that. Shall I permanently remove your name from our client list?"
+    woman "Lamentamos mucho oirlo. ¿Debo eliminar tu nombre de forma permanente de nuestra lista de clientes?"
+
+# game/day10.rpy:355
+translate spanish day10_discreet_0341c077:
+
+    # p "Yes please."
+    p "Sí, por favor."
+
+# game/day10.rpy:356
+translate spanish day10_discreet_7939f2b4:
+
+    # woman "Done. Thank you for your support and have a nice day."
+    woman "Hecho. Gracias por su apoyo y que tenga un buen día."
+
+# game/day10.rpy:357
+translate spanish day10_discreet_43e8339b:
+
+    # p "Goodbye."
+    p "Adiós."
+
+# game/day10.rpy:360
+translate spanish day10_discreet_2f277000:
+
+    # p "This is not for me. Sorry."
+    p "Esto no es para mí. Lo siento."
+
+# game/day10.rpy:361
+translate spanish day10_discreet_2a9378d6:
+
+    # m "That's not a problem, but I have to ask you to leave. My assistant will remove your name from the membership list after you leave our premises."
+    m "Eso no es un problema, pero tengo que pedirte que te vayas. Mi asistente eliminará tu nombre de la lista de miembros una vez que salgas de nuestras instalaciones."
+
+# game/day10.rpy:362
+translate spanish day10_discreet_1cb6fa76:
+
+    # m "Goodbye."
+    m "Adiós."
+
+# game/day10.rpy:363
+translate spanish day10_discreet_3d15a9f2:
+
+    # p "Bye."
+    p "Adiós."
+
+# game/day10.rpy:364
+translate spanish day10_discreet_c9cf8db1:
+
+    # p "{i}(Let's leave before this turns into some freak show!)"
+    p "{i}(¡Vámonos antes de que esto se convierta en un espectáculo extraño!)"
+
+# game/day10.rpy:368
+translate spanish day10_discreet_bbc0cc3a:
+
+    # p "This is all a mistake. [m_name], it's me!"
+    p "Todo esto es un error. [m_name] ¡soy yo!"
+
+# game/day10.rpy:370
+translate spanish day10_discreet_c8749287:
+
+    # p "I wanted to know where you worked. I'm so sorry!"
+    p "Quería saber dónde trabajabas. ¡Lo siento mucho!"
+
+# game/day10.rpy:371
+translate spanish day10_discreet_78b7c6c3:
+
+    # m "WHAT THE FUCK DO YOU THINK YOU'RE DOING HERE?!"
+    m "¡¿QUÉ MIERDA CREES QUE ESTÁS HACIENDO AQUÍ?!"
+
+# game/day10.rpy:372
+translate spanish day10_discreet_7fb98cef:
+
+    # m "You will leave this building right away or I will have you forcibly removed."
+    m "Saldrás de este edificio de inmediato o haré que te retiren por la fuerza."
+
+# game/day10.rpy:373
+translate spanish day10_discreet_c18f3955:
+
+    # p "But..."
+    p "Pero..."
+
+# game/day10.rpy:374
+translate spanish day10_discreet_dc553b0a:
+
+    # m "NO BUTS, BE GONE!"
+    m "¡SIN PEROS, DESAPARECE!"
+
+# game/day10.rpy:379
+translate spanish day10_discreet_797f4151:
+
+    # p "I'm sorry, I cannot sign this contract."
+    p "Lo siento, no puedo firmar este contrato."
+
+# game/day10.rpy:380
+translate spanish day10_discreet_198a85c2:
+
+    # woman "Not a problem, sir. We will destroy this document, along with your test results. On behalf of the company, I'd like to wish you a very pleasant day."
+    woman "No hay problema señor Destruiremos este documento junto con los resultados de sus pruebas En nombre de la empresa me gustaría desearle un día muy agradable"
+
+# game/day10.rpy:381
+translate spanish day10_discreet_43e8339b_1:
+
+    # p "Goodbye."
+    p "Adiós."
+
+# game/day10.rpy:382
+translate spanish day10_discreet_6551e53d:
+
+    # p "{i}(This is for the best. I'm not going to sign away my rights.)"
+    p "{i}(Esto es lo mejor. No voy a renunciar a mis derechos.)"
+
+# game/day10.rpy:387
+translate spanish day10_discreet_bc6d5a03:
+
+    # p "{i}(This is going to be intense. I'm pretty sure of it.)"
+    p "{i}(Esto va a ser intenso. Estoy bastante seguro de eso.)"
+
+# game/day10.rpy:388
+translate spanish day10_discreet_a30ead20:
+
+    # p "{i}(She didn't even seem to recognize me. Wonder how long that will last...)"
+    p "{i}(Ni siquiera parecía reconocerme. Me pregunto cuánto durará eso...)"
+
+# game/day10.rpy:390
+translate spanish day10_discreet_2c6e7ed4:
+
+    # p "{i}(Sure glad that's over.)"
+    p "{i}(Seguro que me alegro de que haya terminado.)"
+
+# game/day10.rpy:392
+translate spanish day10_discreet_278d3816:
+
+    # p "{i}(In retrospect, I'm not sure if I wanted to know all this about [m_name]...)"
+    p "{i}(En retrospectiva, no estoy seguro si quería saber todo esto sobre [m_name]...)"
+
+# game/day10.rpy:394
+translate spanish day10_discreet_9c6d08e3:
+
+    # p "{i}(I guess those family dinners aren't going to be the same from now on.)"
+    p "{i}(Supongo que esas cenas familiares no serán las mismas de ahora en adelante.)"
+
+# game/day10.rpy:396
+translate spanish day10_discreet_77316bb0:
+
+    # p "{i}(I guess those dinners together aren't going to be the same from now on.)"
+    p "{i}(Supongo que esas cenas juntas no serán las mismas de ahora en adelante.)"
+
+# game/day10.rpy:832
+translate spanish day10_p_room_evening_choices_0c4f3e87:
+
+    # al "Did you enjoy my pussy?"
+    al "¿Disfrutaste de mi coño?"
+
+# game/day10.rpy:833
+translate spanish day10_p_room_evening_choices_5071a473:
+
+    # p "You have pleased me. But make no mistake, you're still a bad little cum slut and I will discipline you further."
+    p "Me has complacido. Pero no te confundas, sigues siendo una pequeña zorra malvada y te disciplinaré aún más."
+
+# game/day10.rpy:834
+translate spanish day10_p_room_evening_choices_cb5f62b1:
+
+    # al "Yes master. Looking forward to it."
+    al "Sí maestro. Estoy deseando de que llegue."
+
+# game/day10.rpy:835
+translate spanish day10_p_room_evening_choices_9bf8a862:
+
+    # "{i}With those words, Alina silently leaves your room."
+    "{i}Con esas palabras, Alina abandona tu habitación en silencio."
+

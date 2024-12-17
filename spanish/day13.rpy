@@ -3761,4 +3761,377 @@ translate spanish day13_ana_fuck_20be3c80:
 translate spanish day13_ana_fuck_51c54564:
 
     # "{i}You can penetrate her deeply because of the wetness, your dick almost to the root inside her with each thrust."
-    "{i}Puedes penetrarla profundamente por la humedad tu polla casi hasta la raíz dentro de ella con cada empujón"
+    "{i}Puedes penetrarla profundamente por la humedad tu polla casi hasta la raíz dentro de ella con cada empujón"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day13.rpy:764
+translate spanish day13_evening_choices_00ea7c64:
+
+    # "{i}After a nice shower you fall asleep quickly."
+    "{i}Después de una buena ducha te duermes rápidamente."
+
+# game/day13.rpy:959
+translate spanish day13_b_dildo_456d433a:
+
+    # b "Fuck no... I just woke up..."
+    b "Joder no... acabo de despertar..."
+
+# game/day13.rpy:960
+translate spanish day13_b_dildo_29571bd4:
+
+    # p "Fuck yes! What better way to get fully awake than by inserting that shiny dildo into your wet pussy?"
+    p "¡Claro que sí! ¿Qué mejor manera de estar completamente despierta que introduciendo ese brillante consolador en tu mojado coño?"
+
+# game/day13.rpy:961
+translate spanish day13_b_dildo_58515d49:
+
+    # b "You're a sick fucking pervert, you know that?"
+    b "Eres un maldito pervertido enfermo, ¿lo sabes?"
+
+# game/day13.rpy:963
+translate spanish day13_b_dildo_eb37e22d:
+
+    # p "I'm not the one who's going to expose her private parts to her brother, now am I?"
+    p "No soy yo quien va a exponer sus partes privadas a su hermano, ¿verdad?"
+
+# game/day13.rpy:965
+translate spanish day13_b_dildo_f0635522:
+
+    # p "I'm not the one who's going to expose her private parts, now am I?"
+    p "No soy yo quien va a exponer sus partes privadas, ¿verdad?"
+
+# game/day13.rpy:966
+translate spanish day13_b_dildo_28b405d4:
+
+    # p "But you've given me an idea."
+    p "Pero me has dado una idea."
+
+# game/day13.rpy:967
+translate spanish day13_b_dildo_e7a0fb73:
+
+    # b "Oh no..."
+    b "Oh no..."
+
+# game/day13.rpy:968
+translate spanish day13_b_dildo_8224df03:
+
+    # p "It's only fair that if you get to enjoy yourself, I do to."
+    p "Es justo que si tú te diviertes, yo lo haga."
+
+# game/day13.rpy:969
+translate spanish day13_b_dildo_51195a8f:
+
+    # "{i}You both undress and [b_name] gets her black dildo from somewhere inside a closet."
+    "{i}Ambos se desnudan y [b_name] obtiene su consolador negro de algún lugar dentro de un armario."
+
+# game/day13.rpy:972
+translate spanish day13_b_dildo_dee281fe:
+
+    # p "God, you're beautiful."
+    p "Dios, eres hermosa."
+
+# game/day13.rpy:977
+translate spanish day13_b_dildo_0ed41496:
+
+    # "{i}[b_name] slides her dildo inside her pussy. You hear her gasp. And the sound makes your dick harder than it already is."
+    "{i}[b_name] desliza su consolador dentro de su coño. La escuchas jadear. Y el sonido hace que tu polla se ponga más dura de lo que ya está."
+
+# game/day13.rpy:978
+translate spanish day13_b_dildo_3d16f2ad:
+
+    # p "Yes, make that thing all wet with your juices."
+    p "Sí, haz que todo esté mojado con tus jugos."
+
+# game/day13.rpy:983
+translate spanish day13_b_dildo_805addfe:
+
+    # "{i}When [b_name] starts to moan softly, you start masturbating. [b_name] glances at your cock with a mixture of anticipation mixed with fear."
+    "{i}Cuando [b_name] comienza a gemir suavemente, comienzas a masturbarte. [b_name] mira tu polla con una combinación de emoción mezclada con miedo."
+
+# game/day13.rpy:984
+translate spanish day13_b_dildo_d084c8d0:
+
+    # p "Are you going to make me cum, [b_name]?"
+    p "¿Vas a hacer que me corra, [b_name]?"
+
+# game/day13.rpy:985
+translate spanish day13_b_dildo_31ddfd60:
+
+    # b "M-m...maybe..."
+    b "T-t...tal vez..."
+
+# game/day13.rpy:987
+translate spanish day13_b_dildo_d1edb476:
+
+    # p "Shall I cum all over your body? My sister's beautiful body?"
+    p "¿Debo correrme por todo tu cuerpo? ¿El hermoso cuerpo de mi hermana?"
+
+# game/day13.rpy:989
+translate spanish day13_b_dildo_de9463e2:
+
+    # p "Shall I cum all over your body, your beautiful body?"
+    p "¿Debo correrme por todo tu cuerpo, tu hermoso cuerpo?"
+
+# game/day13.rpy:990
+translate spanish day13_b_dildo_c220c29c:
+
+    # b "D-do whatever you like."
+    b "H-haz lo que quieras."
+
+# game/day13.rpy:991
+translate spanish day13_b_dildo_32075ab4:
+
+    # p "{i}(She's truly submitting herself to me! Time to go a bit further.)"
+    p "{i}(¡Realmente se está sometiendo a mí! Es hora de ir un poco más allá.)"
+
+# game/day13.rpy:997
+translate spanish day13_b_dildo_17e8bdf4:
+
+    # p "I think your toy is sufficiently wet now, it'll probably slide right into that little asshole of yours."
+    p "Creo que ahora tu juguete está lo suficientemente mojado, probablemente se deslice dentro de ese pequeño culo tuyo."
+
+# game/day13.rpy:999
+translate spanish day13_b_dildo_956e4ee5:
+
+    # b "What?! You want me to put it in there?"
+    b "¡¿Qué?! ¿Quieres que me meta esto por ahí?"
+
+# game/day13.rpy:1000
+translate spanish day13_b_dildo_0042f8ee:
+
+    # p "Yes, come on, I'm sure you'll like it."
+    p "Sí, vamos, estoy seguro de que te gustará."
+
+# game/day13.rpy:1001
+translate spanish day13_b_dildo_66547598:
+
+    # b "But that must hurt..."
+    b "Pero eso debe doler..."
+
+# game/day13.rpy:1002
+translate spanish day13_b_dildo_9530ac2f:
+
+    # p "Not if you take it slow."
+    p "No si lo haces con calma."
+
+# game/day13.rpy:1008
+translate spanish day13_b_dildo_20a9d900:
+
+    # "{i}With a sigh of resignation, [b_name] presses the dildo to her sphincter."
+    "{i}Con un suspiro de resignación [b_name] presiona el consolador contra su esfínter."
+
+# game/day13.rpy:1009
+translate spanish day13_b_dildo_d1c378b9:
+
+    # b "What if it's too big?"
+    b "¿Qué pasa si es demasiado grande?"
+
+# game/day13.rpy:1010
+translate spanish day13_b_dildo_7b0f7b80:
+
+    # p "It won't be. Just relax and take small steps."
+    p "No lo será. Solo relájate dando pequeños pasos."
+
+# game/day13.rpy:1011
+translate spanish day13_b_dildo_232069fb:
+
+    # p "{i}(It's going in!)"
+    p "{i}(¡Está entrando!)"
+
+# game/day13.rpy:1013
+translate spanish day13_b_dildo_26183717:
+
+    # "{i}Your sister visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
+    "{i}Tu hermana trata visiblemente de relajarse y empuja el consolador contra su ano. Su pequeño culo cede lentamente bajo la presión constante y la punta del consolador se desliza."
+
+# game/day13.rpy:1015
+translate spanish day13_b_dildo_8ba2fcce:
+
+    # "{i}[b_name] visibly tries to relax and pushes the dildo against her anus. Her little asshole slowly gives way under the steady pressure and the tip of the dildo slides in."
+    "{i}[b_name] trata visiblemente de relajarse y empuja el consolador contra su ano. Su pequeño culo cede lentamente bajo la presión constante y la punta del consolador se desliza."
+
+# game/day13.rpy:1017
+translate spanish day13_b_dildo_95679f05:
+
+    # b "Aaah! Aaaah! It hurts! It... Aaaah!"
+    b "¡Aaah! ¡Aaaah! ¡Duele! ¡Es... Aaaah!"
+
+# game/day13.rpy:1018
+translate spanish day13_b_dildo_bd346a68:
+
+    # "{i}With a little sigh of relief, [b_name] pushes the dildo even further in. Any sign of discomfort has vanished from her face."
+    "{i}Con un pequeño suspiro de alivio [b_name] empuja el consolador aún más. Cualquier signo de incomodidad ha desaparecido de su rostro."
+
+# game/day13.rpy:1019
+translate spanish day13_b_dildo_cd537295:
+
+    # b "{i}(Ooooh, this feels so weird, but also so good. It fills me up so completely.)"
+    b "{i}(Ooooh, esto se siente tan extraño, pero también tan bueno. Me llena por completo.)"
+
+# game/day13.rpy:1020
+translate spanish day13_b_dildo_a8d39991:
+
+    # p "Do you like it?"
+    p "¿Te gusta?"
+
+# game/day13.rpy:1021
+translate spanish day13_b_dildo_df44d03d:
+
+    # b "No!"
+    b "¡No!"
+
+# game/day13.rpy:1022
+translate spanish day13_b_dildo_1d4967b0:
+
+    # p "Don't lie, [b_name]."
+    p "No mientas, [b_name]."
+
+# game/day13.rpy:1023
+translate spanish day13_b_dildo_60650ac9:
+
+    # b "Alright fine, I like it."
+    b "Muy bien, me gusta."
+
+# game/day13.rpy:1024
+translate spanish day13_b_dildo_605f7bfa:
+
+    # p "Show me that you like it, your pussy needs some attention too."
+    p "Muéstrame que te gusta, tu coño también necesita atención."
+
+# game/day13.rpy:1026
+translate spanish day13_b_dildo_020c4514:
+
+    # b "Aaaaah! Ah yes!"
+    b "¡Aaaaah! ¡Ah, sí!"
+
+# game/day13.rpy:1027
+translate spanish day13_b_dildo_5adfed1c:
+
+    # p "Yes, are you my little anal slut, [b_name]?"
+    p "Sí, ¿eres mi pequeña puta anal, [b_name]?"
+
+# game/day13.rpy:1028
+translate spanish day13_b_dildo_dfbc903b:
+
+    # b "Fffffuuuuck!"
+    b "¡Joooderrrrr!"
+
+# game/day13.rpy:1030
+translate spanish day13_b_dildo_66f20809:
+
+    # p "Are you my dirty anal sister, [b_name]? Say it!"
+    p "¿Eres mi sucia hermana anal, [b_name]? ¡Dilo!"
+
+# game/day13.rpy:1031
+translate spanish day13_b_dildo_48104448:
+
+    # b "Y-y-yes! Yes! I'm your dirty anal sister!"
+    b "¡Sí! ¡Sí! ¡Soy tu sucia hermana anal!"
+
+# game/day13.rpy:1033
+translate spanish day13_b_dildo_0b42e1ea:
+
+    # p "Are you my dirty anal slut, [b_name]? Say it!"
+    p "¿Eres mi sucia puta anal, [b_name]? ¡Dilo!"
+
+# game/day13.rpy:1034
+translate spanish day13_b_dildo_e6be8397:
+
+    # b "Y-y-yes! Yes! I'm your dirty anal slut!"
+    b "¡Sí! ¡Sí! ¡Soy tu sucia puta anal!"
+
+# game/day13.rpy:1036
+translate spanish day13_b_dildo_30eab047:
+
+    # p "Are you going to cum for me?"
+    p "¿Vas a correrte para mí?"
+
+# game/day13.rpy:1037
+translate spanish day13_b_dildo_08977bc0:
+
+    # b "I am nearly there... S-s-so close!"
+    b "Estoy casi llegando... ¡T-t-tan cerca!"
+
+# game/day13.rpy:1038
+translate spanish day13_b_dildo_e8f897bc:
+
+    # p "Yes, rub that little pussy for me, push your toy deeper inside your ass."
+    p "Sí, frótame ese gatito, y empuja tu juguete más adentro en tu culo."
+
+# game/day13.rpy:1045
+translate spanish day13_b_dildo_94776294:
+
+    # b "Aaaaaah! Aaaah! Aaaaaaaaah!"
+    b "¡Aaaaaah! ¡Aaaah! ¡Aaaaaaaaah!"
+
+# game/day13.rpy:1046
+translate spanish day13_b_dildo_8bbe1a03:
+
+    # "{i}As [b_name] gives herself over to her violent orgasm, you wank your dick even harder and soon feel ready to shoot a huge load."
+    "{i}A medida que [b_name] se entrega a su violento orgasmo, te meneas la polla aún más fuerte y pronto te sientes listo para disparar una gran carga."
+
+# game/day13.rpy:1054
+translate spanish day13_b_dildo_ebfcfc77:
+
+    # p "Aaaaaah!"
+    p "¡Aaaaaah!"
+
+# game/day13.rpy:1056
+translate spanish day13_b_dildo_98a1ee37:
+
+    # "{i}You shoot multiple volleys of semen onto your sister's face."
+    "{i}Disparas múltiples descargas de semen en la cara de tu hermana."
+
+# game/day13.rpy:1058
+translate spanish day13_b_dildo_74567aa1:
+
+    # "{i}You shoot multiple volleys of semen onto [b_name]'s face."
+    "{i}Disparas múltiples descargas de semen en la cara de [b_name]."
+
+# game/day13.rpy:1060
+translate spanish day13_b_dildo_76da4996:
+
+    # "{i}She is clearly too preoccupied with her own orgasm and appears to be unbothered by the sperm leaking into her gasping mouth."
+    "{i}Está claramente demasiado preocupada por su propio orgasmo y parece que no le molesta que el semen se filtre en su jadeante boca."
+
+# game/day13.rpy:1076
+translate spanish day13_b_dildo_ebfcfc77_1:
+
+    # p "Aaaaaah!"
+    p "¡Aaaaaah!"
+
+# game/day13.rpy:1078
+translate spanish day13_b_dildo_ca8d266f:
+
+    # "{i}You shoot multiple volleys of semen onto your sister's chest."
+    "{i}Disparas múltiples descargas de semen en el pecho de tu hermana."
+
+# game/day13.rpy:1080
+translate spanish day13_b_dildo_2f6cc792:
+
+    # "{i}You shoot multiple volleys of semen onto [b_name]'s chest."
+    "{i}Disparas múltiples descargas de semen en el pecho de [b_name]."
+
+# game/day13.rpy:1082
+translate spanish day13_b_dildo_b62f9265:
+
+    # "{i}She is clearly too preoccupied with her own orgasm and appears to be unbothered by the sperm that's covering her breasts."
+    "{i}Está claramente preocupada por su propio orgasmo y parece no sentirse molesta por el semen que cubre sus tetas."
+
+# game/day13.rpy:1096
+translate spanish day13_b_dildo_48f77b5c:
+
+    # p "Damn, [b_name]. You sure know how give a guy a great time."
+    p "Maldición, [b_name]. Seguro que sabes cómo darle un buen momento a un chico."
+
+# game/day13.rpy:1099
+translate spanish day13_b_dildo_eadca042:
+
+    # "{i}Your sister is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
+    "{i}Tu hermana está demasiado exhausta para siquiera hablar contigo. La violencia de su orgasmo ha sacado el consolador de su culo. Crees que ves una pequeña sonrisa en las comisuras de sus labios."
+
+# game/day13.rpy:1101
+translate spanish day13_b_dildo_8dfab9e0:
+
+    # "{i}[b_name] is too exhausted to even speak with you. The violence of her orgasm has pushed the dildo out of her asshole. You think you see a little smile around the corners of her mouth."
+    "{i}[b_name] está demasiado exhausta para siquiera hablar contigo. La violencia de su orgasmo ha sacado el consolador de su culo. Crees que ves una pequeña sonrisa en las comisuras de sus labios."
+

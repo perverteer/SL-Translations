@@ -4099,13 +4099,13 @@ translate spanish day09_976e5457:
 translate spanish day09_4458ac3a:
 
     # woman "Good morning, Mr. Holmes."
-    mujer "Buenos días Sr. Holmes"
+    woman "Buenos días Sr. Holmes"
 
 # game/day09.rpy:108
 translate spanish day09_5f7c826f:
 
     # woman "I'm afraid I have bad news. Based on the results of the test, we cannot accept you as our client."
-    mujer "Me temo que tengo malas noticias Basándonos en los resultados de la prueba no podemos aceptarle como cliente"
+    woman "Me temo que tengo malas noticias Basándonos en los resultados de la prueba no podemos aceptarle como cliente"
 
 # game/day09.rpy:131
 translate spanish day09_87ae354c:
@@ -4280,3 +4280,17 @@ translate spanish day09_r_l_shopping_choices_fedcbc1a:
 
     # "{i}Reluctantly, [l_name] disappears into the booth."
     "{i}De mala gana [l_name] desaparece en la cabina."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day09.rpy:1268
+translate spanish day09_r_kisses_lower_9288572f:
+
+    # p "{i}(She'll probably return home late tonight...)"
+    p "{i}(Probablemente volverá a casa tarde esta noche...)"
+
+# game/day09.rpy:1274
+translate spanish day09_r_kisses_lower_933f0d9e:
+
+    # p "{i}(Let's get a good night's sleep.)"
+    p "{i}(Vamos a dormir bien por la noche.)"
+

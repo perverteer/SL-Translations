@@ -3947,7 +3947,7 @@ translate spanish day20_choices_7da19f9a:
 translate spanish day20_choices_4a8c0f94:
 
     # man "Yes, at first I came for the bread and the soup, but ever since they started hiring beautiful women, I come for them."
-    hombre "Sí al principio venía por el pan y la sopa pero desde que empezaron a contratar mujeres guapas vengo por ellas"
+    man "Sí al principio venía por el pan y la sopa pero desde que empezaron a contratar mujeres guapas vengo por ellas"
 
 # game/day20.rpy:379
 translate spanish day20_choices_6b7a55eb:
@@ -4212,3 +4212,827 @@ translate spanish day20_r_deflowering_5a89aa3b:
 
     # "{i}With each thrust, your dick penetrates her more easily, helped by her copiously flowing juices. She's obviously not ready for anything violent, the pained look completely gone from her face, replaced with a mixture of joy and eagerness."
     "{i}Con cada embestida tu polla la penetra con más facilidad ayudada por sus copiosos jugos Ella obviamente no está preparada para nada violenta la mirada dolorida desaparece completamente de su cara sustituida por una mezcla de alegría y ansia."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day20.rpy:935
+translate spanish day20_b_licking_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "¿[b_name] es un sub completo en esta escena?"
+
+# game/day20.rpy:939
+translate spanish day20_b_licking_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente sumisa"
+
+# game/day20.rpy:942
+translate spanish day20_b_licking_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] no completamente sumisa"
+
+# game/day20.rpy:949
+translate spanish day20_b_licking_35ba70ca:
+
+    # b "What?"
+    b "¿Qué?"
+
+# game/day20.rpy:950
+translate spanish day20_b_licking_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Solo desvístete, quiero probar tu coño."
+
+# game/day20.rpy:951
+translate spanish day20_b_licking_3b40820c:
+
+    # b "I'm busy."
+    b "Estoy ocupada."
+
+# game/day20.rpy:952
+translate spanish day20_b_licking_94999a5f:
+
+    # p "No you're not."
+    p "No, no lo estás."
+
+# game/day20.rpy:953
+translate spanish day20_b_licking_88ee9d37:
+
+    # b "Yes I am."
+    b "Sí, lo estoy."
+
+# game/day20.rpy:954
+translate spanish day20_b_licking_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "¿Te vas a comportar como una niña? Podría arrancarte la ropa, ¿sabes?"
+
+# game/day20.rpy:956
+translate spanish day20_b_licking_e4f370a8:
+
+    # b "I know."
+    b "Lo sé."
+
+# game/day20.rpy:959
+translate spanish day20_b_licking_a9a5ca74:
+
+    # "{i}Your sister reluctantly removes her clothes and sits on the bed."
+    "{i}Tu hermana se quita la ropa de mala gana y se sienta en la cama."
+
+# game/day20.rpy:961
+translate spanish day20_b_licking_d005c0b7:
+
+    # "{i}The girl reluctantly removes her clothes and sits on the bed."
+    "{i}La chica se quita la ropa de mala gana y se sienta en la cama."
+
+# game/day20.rpy:962
+translate spanish day20_b_licking_e36b7664:
+
+    # p "Good, you won't regret this."
+    p "Bien, no te arrepentirás de esto."
+
+# game/day20.rpy:963
+translate spanish day20_b_licking_5ceba404:
+
+    # p "{i}(Ultimately...)"
+    p "{i}(En última instancia...)"
+
+# game/day20.rpy:969
+translate spanish day20_b_licking_a55df5f2:
+
+    # "{i}Without warning, you grab [b_name]'s legs and bury your face between her thighs. Her body instantly reacts to the roughness of your tongue and she is wet within moments."
+    "{i}Sin previo aviso, agarras las piernas de [b_name] y entierras tu cara entre sus muslos. Su cuerpo reacciona instantáneamente a la aspereza de tu lengua y se moja en unos instantes."
+
+# game/day20.rpy:970
+translate spanish day20_b_licking_ab537a6c:
+
+    # p "Your body always betrays you, [b_name]."
+    p "Tu cuerpo siempre te traiciona, [b_name]."
+
+# game/day20.rpy:971
+translate spanish day20_b_licking_64819380:
+
+    # b "F-f-fuck you!"
+    b "¡J-j-jódete!"
+
+# game/day20.rpy:972
+translate spanish day20_b_licking_ae14bf53:
+
+    # "{i}Your tongue is seemingly everywhere at once, stimulating her clitoris, caressing her labia and penetrating her moist gash."
+    "{i}Tu lengua está aparentemente en todas partes a la vez, estimulando su clítoris, acariciando sus labios y penetrando su húmeda raja."
+
+# game/day20.rpy:974
+translate spanish day20_b_licking_807be6fe:
+
+    # "{i}Every pretense of annoyance has left [b_name], and she's fully engrossed in your forceful tongue-fucking."
+    "{i}Toda pretensión de fastidio ha abandonado a [b_name] y está totalmente absorta en tu enérgica follada con lengua"
+
+# game/day20.rpy:975
+translate spanish day20_b_licking_8916675f:
+
+    # b "Ooooh!"
+    b "¡Ooooh!"
+
+# game/day20.rpy:980
+translate spanish day20_b_licking_a34e063e:
+
+    # "{i}Just when you notice she's ready to climax, you stop abruptly."
+    "{i}Justo cuando notas que está lista para llegar al clímax, te detienes abruptamente."
+
+# game/day20.rpy:982
+translate spanish day20_b_licking_06940249:
+
+    # p "That's enough for now."
+    p "Esto es suficiente por ahora."
+
+# game/day20.rpy:983
+translate spanish day20_b_licking_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "¡¿Qué?! No, no puedes..."
+
+# game/day20.rpy:984
+translate spanish day20_b_licking_47fea10d:
+
+    # p "I can't?"
+    p "¿No puedo?"
+
+# game/day20.rpy:985
+translate spanish day20_b_licking_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Yo solo... ¡Vete a la mierda!"
+
+# game/day20.rpy:986
+translate spanish day20_b_licking_5366f9d4:
+
+    # p "Maybe I'll be back, maybe I won't..."
+    p "Quizás vuelva, quizás no..."
+
+# game/day20.rpy:988
+translate spanish day20_b_licking_a32e4def:
+
+    # "{i}You go back to your room, the taste of [b_name] still on your lips, as she remains behind, naked and confused."
+    "{i}Regresas a tu habitación, el sabor de [b_name] todavía está en tus labios, mientras ella se queda atrás, desnuda y confundida."
+
+# game/day20.rpy:1004
+translate spanish day20_ri_sex_37f83a86:
+
+    # ri "You're here for the job interview?"
+    ri "¿Está aquí para la entrevista de trabajo?"
+
+# game/day20.rpy:1005
+translate spanish day20_ri_sex_03af6b77:
+
+    # p "Wow, you're one sexy manager, Riley."
+    p "Wow, eres una gerente muy sexy, Riley."
+
+# game/day20.rpy:1010
+translate spanish day20_ri_sex_a4f46328:
+
+    # ri "You think so?"
+    ri "¿Eso crees?"
+
+# game/day20.rpy:1011
+translate spanish day20_ri_sex_1f051601:
+
+    # p "I'm not sure if people would get much work done with you around in those clothes, but you do command a certain respect."
+    p "No estoy seguro de que la gente trabaje mucho contigo con esas ropas, pero tú impones un cierto respeto."
+
+# game/day20.rpy:1016
+translate spanish day20_ri_sex_097ee088:
+
+    # p "God, I so want to see you naked."
+    p "Dios, quiero verte desnuda."
+
+# game/day20.rpy:1017
+translate spanish day20_ri_sex_2d101b07:
+
+    # ri "All in good time. As your superior we still need to do a very thorough final evaluation of your work as a supermarket employee."
+    ri "Todo a su debido tiempo. Como tu superior, todavía tenemos que hacer una evaluación final muy exhaustiva de su trabajo como empleado de un supermercado."
+
+# game/day20.rpy:1019
+translate spanish day20_ri_sex_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "¿Te gustaría tomar algo?"
+
+# game/day20.rpy:1020
+translate spanish day20_ri_sex_da386a94:
+
+    # p "No thanks."
+    p "No, gracias."
+
+# game/day20.rpy:1022
+translate spanish day20_ri_sex_1a4fa82a:
+
+    # ri "Would you like to get more comfortable?"
+    ri "¿Te gustaría estar más cómodo?"
+
+# game/day20.rpy:1023
+translate spanish day20_ri_sex_adfb9188:
+
+    # p "That would be very nice."
+    p "Eso sería muy bueno."
+
+# game/day20.rpy:1024
+translate spanish day20_ri_sex_047bd1f5:
+
+    # ri "I'm gonna lose the glasses. I just dug them out of a drawer, and they're not my prescription. My eyes kinda hurt now."
+    ri "Voy a quitarme las gafas. Las acabo de sacar de un cajón y no son de mi graduación. Ahora me duelen un poco los ojos."
+
+# game/day20.rpy:1025
+translate spanish day20_ri_sex_dc21400d:
+
+    # p "They make you look a bit like Dame Edna as well..."
+    p "También te hacen parecerte un poco a Dame Edna..."
+
+# game/day20.rpy:1026
+translate spanish day20_ri_sex_64fa58c0:
+
+    # ri "Wahaha! Fuck you, you're such a moodkiller!"
+    ri "¡Wahaha! ¡Vete a la mierda, eres un asesino del estado de ánimo.!"
+
+# game/day20.rpy:1027
+translate spanish day20_ri_sex_804b5e65:
+
+    # p "Those glasses are not the only thing you can lose if I have anything to say about it. I would really like to see those beautiful breasts."
+    p "Esas gafas no es lo único que puedes perder si tengo algo que decir al respecto. Realmente me gustaría ver esas hermosas tetas."
+
+# game/day20.rpy:1029
+translate spanish day20_ri_sex_0618aa18:
+
+    # ri "So, have you thought about what you're going to do with me? Because as of right now, your evaluation is not looking good."
+    ri "Entonces, ¿has pensado en lo que vas a hacer conmigo? Porque a partir de ahora, tu evaluación no se ve bien."
+
+# game/day20.rpy:1031
+translate spanish day20_ri_sex_fc19827e:
+
+    # p "I didn't hear you complain the last time we were here..."
+    p "No te escuché quejarte la última vez que estuvimos aquí..."
+
+# game/day20.rpy:1032
+translate spanish day20_ri_sex_a3557f80:
+
+    # ri "Yes, that certainly works in your favor. But a girl wants more, you know."
+    ri "Sí, eso ciertamente funciona a tu favor. Pero una chica quiere más, ya sabes."
+
+# game/day20.rpy:1034
+translate spanish day20_ri_sex_a1306849:
+
+    # p "I'll show you something..."
+    p "Te mostraré algo..."
+
+# game/day20.rpy:1035
+translate spanish day20_ri_sex_be0b6bd8:
+
+    # ri "I bet."
+    ri "Está bien."
+
+# game/day20.rpy:1036
+translate spanish day20_ri_sex_10d940fa:
+
+    # p "You're still wearing too much clothing."
+    p "Todavía llevas demasiada ropa."
+
+# game/day20.rpy:1037
+translate spanish day20_ri_sex_d3692d3d:
+
+    # ri "Really? I thought you liked me in a tight business skirt, wearing a revealing blouse. Your words."
+    ri "¿En serio? Pensé que te gustaba con una falda ajustada de negocios, con una reveladora blusa. son tús palabras."
+
+# game/day20.rpy:1039
+translate spanish day20_ri_sex_cb7d4554:
+
+    # ri "And now you've got me down to my heels. What's a girl gonna think?"
+    ri "Y ahora me tienes hasta con tacones. ¿Qué pensará una chica?"
+
+# game/day20.rpy:1040
+translate spanish day20_ri_sex_da4426a8:
+
+    # p "Maybe that girl could suck on my big fat cock."
+    p "Tal vez esa chica podría chupar mi gran polla gorda."
+
+# game/day20.rpy:1041
+translate spanish day20_ri_sex_ec5ad243:
+
+    # "{i}You lower your pants and reveal your dick, standing proud at the sight of Riley's naked body."
+    "{i}Te bajas los pantalones y revelas tu polla, de pie orgulloso al ver el desnudo cuerpo de Riley."
+
+# game/day20.rpy:1042
+translate spanish day20_ri_sex_4830d44d:
+
+    # ri "I must say, it looks rather appetizing."
+    ri "Debo decir que parece bastante apetitosa."
+
+# game/day20.rpy:1047
+translate spanish day20_ri_sex_24007305:
+
+    # "{i}Riley slides off the couch and squats before you, taking your entire member inside of her mouth using long strokes, stimulating the length of your cock."
+    "{i}Riley se desliza fuera del sofá y se pone en cuclillas delante de ti, llevando todo tu miembro dentro de su boca con movimientos largos, estimulando la longitud de tu polla."
+
+# game/day20.rpy:1049
+translate spanish day20_ri_sex_a5bc380a:
+
+    # p "God Riley, I didn't know you were so good at this."
+    p "Dios Riley, no sabía que eras tan buena en esto."
+
+# game/day20.rpy:1050
+translate spanish day20_ri_sex_5448aaaf:
+
+    # "{i}Her wet lips slide over the veins of your dick, taking extra care of the sensitive area around your glans."
+    "{i}Sus húmedos labios se deslizan sobre las venas de tu polla, cuidando especialmente el área sensible alrededor de tu glande."
+
+# game/day20.rpy:1051
+translate spanish day20_ri_sex_e3cf2e2a:
+
+    # ri "I didn't show you before, did I? You taste good, [p_name]."
+    ri "No te lo dije antes, ¿verdad? Tienes buen sabor, [p_name]."
+
+# game/day20.rpy:1052
+translate spanish day20_ri_sex_9f40793d:
+
+    # "{i}Riley returns to her cocksucking with renewed fervor. She applies so much suction that it almost seems that she wants to slurp the cum right out of you."
+    "{i}Riley regresa a su chupada con renovado fervor. Aplica tanta succión que casi parece que quiere sorber tu semen."
+
+# game/day20.rpy:1053
+translate spanish day20_ri_sex_1ca99c8b:
+
+    # p "Woah, not so fast! I'm not ready to fill you up just yet."
+    p "Woah, no tan rápido, no estoy listo para llenarte todavía."
+
+# game/day20.rpy:1054
+translate spanish day20_ri_sex_a47b3cec:
+
+    # ri "Mmmmm. What do you have in mind?"
+    ri "Mmmmm. ¿Qué tienes en mente?"
+
+# game/day20.rpy:1055
+translate spanish day20_ri_sex_fe473b1d:
+
+    # p "Stand up and you'll see."
+    p "Levántate y lo verás."
+
+# game/day20.rpy:1062
+translate spanish day20_ri_sex_a502271c:
+
+    # "{i}With your hard cock pressed against her thigh, you start to massage her breasts, playing with her hard nipples. After you hear her moan, you introduce your other hand between her legs."
+    "{i}Con tu dura polla presionada contra su muslo comienzas a masajear sus tetas, jugando con sus duros pezones. Después de oirla gemir, introduces tu otra mano entre sus piernas."
+
+# game/day20.rpy:1063
+translate spanish day20_ri_sex_f3b5ce36:
+
+    # ri "Ooooh!"
+    ri "¡Ooooh!"
+
+# game/day20.rpy:1064
+translate spanish day20_ri_sex_43488810:
+
+    # p "I'm going to fuck you so hard Riley, but first I have to make sure you're ready."
+    p "Voy a follarte tan fuerte, Riley, pero primero tengo que asegurarme de que estés lista."
+
+# game/day20.rpy:1065
+translate spanish day20_ri_sex_5e5bbce4:
+
+    # ri "Oh, I'm ready."
+    ri "Oh, estoy lista."
+
+# game/day20.rpy:1066
+translate spanish day20_ri_sex_feacd9dc:
+
+    # "{i}At those words, you insert a finger inside her wet gash."
+    "{i}Ante esas palabras insertas un dedo dentro de su húmeda raja."
+
+# game/day20.rpy:1067
+translate spanish day20_ri_sex_fb25813b:
+
+    # ri "F-f-fuck!"
+    ri "¡J-j-joder!"
+
+# game/day20.rpy:1068
+translate spanish day20_ri_sex_2431c94e:
+
+    # "{i}You insert another finger inside of her and then another."
+    "{i}Insertas otro dedo dentro de ella y luego otro."
+
+# game/day20.rpy:1069
+translate spanish day20_ri_sex_fdc0b456:
+
+    # p "I'm going to make you cum."
+    p "Voy a hacer que te corras."
+
+# game/day20.rpy:1070
+translate spanish day20_ri_sex_bd2ad48b:
+
+    # "{i}Riley just moans as you move your fingers inside of her, faster and faster, stimulating her g-spot."
+    "{i}Riley solo gime mientras mueves tus dedos dentro de ella, cada vez más rápido, estimulando su punto G."
+
+# game/day20.rpy:1071
+translate spanish day20_ri_sex_4df0219c:
+
+    # ri "F-f-fuck! What are you doing?!"
+    ri "¡J-j-joder! ¿Qué estás haciendo?"
+
+# game/day20.rpy:1072
+translate spanish day20_ri_sex_665c9643:
+
+    # p "Sssssh..."
+    p "Sssssh..."
+
+# game/day20.rpy:1080
+translate spanish day20_ri_sex_b2c986bb:
+
+    # "{i}The only thing coming from Riley at this moment are guttural sounds as she orgasms from your penetrating fingers. Her ejaculate is streaming down her inner thighs and even covers her taught calves as she struggles to stand straight on her high heels."
+    "{i}Lo único que viene de Riley en este momento son los sonidos guturales mientras tiene un orgasmo de tus dedos penetrantes. Su eyaculación está bajando por la parte interior de sus muslos e incluso cubre sus pantorrillas estiradas mientras lucha por mantenerse erguida con sus tacones altos."
+
+# game/day20.rpy:1081
+translate spanish day20_ri_sex_099c6873:
+
+    # p "Now you're ready."
+    p "Ahora estás lista."
+
+# game/day20.rpy:1089
+translate spanish day20_ri_sex_3a3a096f:
+
+    # "{i}With some encouragement and in the last throes of her orgasm, Riley kneels on the couch and you enter her dripping wet slit."
+    "{i}Con un poco de aliento y en la última agonía de su orgasmo, Riley se arrodilla en el sofá y entras en su húmeda y goteante raja."
+
+# game/day20.rpy:1090
+translate spanish day20_ri_sex_2aac7798:
+
+    # ri "Ah! Ah! It's so much!"
+    ri "¡Ah! ¡Ah! ¡Es mucho!"
+
+# game/day20.rpy:1091
+translate spanish day20_ri_sex_a3c1f138:
+
+    # "{i}You immediately start with deep thrusts, nearly making Riley cum a second time. You slap her bouncing ass until red marks appear on her butt cheeks."
+    "{i}Inmediatamente comienzas con golpes profundos, casi haciendo que Riley se corra por segunda vez. Golpeas su culo hasta que aparecen marcas rojas en sus nalgas."
+
+# game/day20.rpy:1092
+translate spanish day20_ri_sex_46c2ad50:
+
+    # ri "Fuck me harder, I want you so deep inside me, [p_name]!"
+    ri "¡Fóllame más fuerte, te quiero muy dentro de mí, [p_name]!"
+
+# game/day20.rpy:1094
+translate spanish day20_ri_sex_400b45ad:
+
+    # "{i}You turn the girl around and she pulls up a leg to give you even deeper access to the moist confines of her pussy."
+    "{i}Das la vuelta a la chica y ella levanta una pierna para darte un acceso aún más profundo a los confines húmedos de su coño."
+
+# game/day20.rpy:1095
+translate spanish day20_ri_sex_4c3eed5f:
+
+    # ri "That's it, right t-there!"
+    ri "Eso es, justo a-ahí...!"
+
+# game/day20.rpy:1096
+translate spanish day20_ri_sex_e34f450a:
+
+    # "{i}You ram your dick inside of her until Riley's hoarse moans are filled with ultimate pleasure and you feel your orgasm starting to boil inside you."
+    "{i}Aprietas tu polla dentro de ella hasta que los ardientes gemidos de Riley se llenan de placer y sientes que tu orgasmo comienza a hervir dentro de ti."
+
+# game/day20.rpy:1106
+translate spanish day20_ri_sex_78cfc9ab:
+
+    # p "F-fuck yes! Aaaah!"
+    p "¡J-joder, sí! ¡Aaaah!"
+
+# game/day20.rpy:1107
+translate spanish day20_ri_sex_ab51dfe5:
+
+    # "{i}Without stopping, you thrust your pulsating cock into her and unload thick streams of cream inside her pussy."
+    "{i}Sin parar empujas tu polla palpitante dentro de ella y descargas gruesos chorros de crema dentro de su coño."
+
+# game/day20.rpy:1108
+translate spanish day20_ri_sex_f3a9113e:
+
+    # ri "Don't pull out! I want every last drop inside of me."
+    ri "¡No te retires! Quiero hasta la última gota dentro de mí."
+
+# game/day20.rpy:1109
+translate spanish day20_ri_sex_85a929de:
+
+    # "{i}Her tender pussy is filled with a mixture of your semen and her moisture, which eventually leaks from her gaping pussy. You stay inside her as long as possible, your cock still spurting tiny droplets of cum in the last remnants of your climax."
+    "{i}Su tierno coño está lleno de una mezcla de tu semen y su humedad, que finálmente se escapa de su enorme coño. Permaneces dentro de ella el mayor tiempo posible, tu polla aún brota pequeñas gotas de semen en los últimos restos de tu clímax."
+
+# game/day20.rpy:1126
+translate spanish day20_ri_sex_d3c52b41:
+
+    # p "Open your mouth Riley."
+    p "Abre la boca, Riley."
+
+# game/day20.rpy:1127
+translate spanish day20_ri_sex_c13aa583:
+
+    # ri "I want to taste all of it."
+    ri "Quiero probarlo todo."
+
+# game/day20.rpy:1128
+translate spanish day20_ri_sex_78cfc9ab_1:
+
+    # p "F-fuck yes! Aaaah!"
+    p "¡J-joder, sí! ¡Aaaah!"
+
+# game/day20.rpy:1129
+translate spanish day20_ri_sex_34e79b12:
+
+    # "{i}Multiple streams of thick cream splash inside her mouth and on the side of her face. Delirious, she keeps your load inside of her open mouth, waiting for more and eventually swallowing your warm gift."
+    "{i}Múltiples chorros de crema espesa salpican dentro de su boca y a los lados de su cara. Delirando, mantiene tu carga dentro de su boca abierta, esperando más y finálmente tragando tu cálido regalo."
+
+# game/day20.rpy:1143
+translate spanish day20_ri_sex_0dc5917c:
+
+    # "{i}At the last moment you pull your pulsating cock outside of her tender pussy and unload thick streams of cream on her belly. It slowly leaks down into her pubic hair and Riley deliriously rubs her body with your cum."
+    "{i}En el último momento sacas tu polla pulsante fuera de su tierno coño y descargas gruesas gotas de crema en su vientre. Lentamente se filtra en su vello púbico y Riley frota su cuerpo con delirio."
+
+# game/day20.rpy:1158
+translate spanish day20_ri_sex_3321d927:
+
+    # p "I want to see your face when I cum, Riley."
+    p "Quiero ver tu cara cuando me corra, Riley."
+
+# game/day20.rpy:1159
+translate spanish day20_ri_sex_34ed9f2a:
+
+    # ri "I want to have all of it!"
+    ri "¡Quiero tenerlo todo!"
+
+# game/day20.rpy:1160
+translate spanish day20_ri_sex_62b90f21:
+
+    # "{i}Multiple streams of thick cream splash on Riley's delirious face. There's so much of it that her shoulder and breasts are also covered in big splashes of your cum."
+    "{i}Múltiples chorros de crema espesa salpican la delirante cara de Riley. Hay tanto que su hombro y sus tetas también están cubiertos de grandes salpicaduras de semen."
+
+# game/day20.rpy:1167
+translate spanish day20_ri_sex_e87ec995:
+
+    # "{i}Exhausted, you crash down onto the couch. It remains warm and slick with the juices of your lovemaking. Riley cleans herself up a bit and crawls next to you."
+    "{i}Exhausta se tumba en el sofá. Permanece caliente y resbaladizo con los jugos de tu amor. Riley se limpia un poco y se arrastra a tu lado."
+
+# game/day20.rpy:1169
+translate spanish day20_ri_sex_e6a7377e:
+
+    # ri "I didn't know this evening was going to be so exciting."
+    ri "No sabía que esta noche iba a ser tan emocionante."
+
+# game/day20.rpy:1170
+translate spanish day20_ri_sex_d37fa892:
+
+    # p "I take employee performance reviews very, very seriously."
+    p "Me tomo muy en serio las evaluaciones de desempeño de los empleados."
+
+# game/day20.rpy:1171
+translate spanish day20_ri_sex_b6a69c3a:
+
+    # ri "I know that now."
+    ri "Ahora lo sé."
+
+# game/day20.rpy:1172
+translate spanish day20_ri_sex_ebc7bc5c:
+
+    # ri "Allow me to bestow the title 'Employee of the Year' on you. You're not working at the supermarket anymore, but who gives a fuck."
+    ri "Permíteme otorgarte el título de 'Empleado del año'. Ya no estás trabajando en el supermercado, pero a quién le importa."
+
+# game/day20.rpy:1173
+translate spanish day20_ri_sex_de51156c:
+
+    # p "I'm absolutely honored."
+    p "Estoy absolutamente honrado."
+
+# game/day20.rpy:1185
+translate spanish day20_b_licking_night_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "¿[b_name] es un sub completo en esta escena?"
+
+# game/day20.rpy:1189
+translate spanish day20_b_licking_night_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente sumisa"
+
+# game/day20.rpy:1192
+translate spanish day20_b_licking_night_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] no completamente sumisa"
+
+# game/day20.rpy:1202
+translate spanish day20_b_licking_night_b7545898:
+
+    # p "{i}(Let's make our [b_name] even more crazy...)"
+    p "{i}(Hagamos que nuestra [b_name] sea aún más loca...)"
+
+# game/day20.rpy:1206
+translate spanish day20_b_licking_night_c8f7ae42:
+
+    # p "I'm back."
+    p "Ya estoy de vuelta."
+
+# game/day20.rpy:1207
+translate spanish day20_b_licking_night_9aff4ccc:
+
+    # b "Fuck no. Not again."
+    b "Joder, no. Otra vez no."
+
+# game/day20.rpy:1208
+translate spanish day20_b_licking_night_56591090:
+
+    # p "You seemed to enjoy it earlier today."
+    p "Parecía que lo disfrutaste hoy temprano."
+
+# game/day20.rpy:1211
+translate spanish day20_b_licking_night_b10c2834:
+
+    # "{i}You crawl onto the bed and open your sister's legs, removing her panties in one fell swoop."
+    "{i}Te arrastras hacia la cama y abres las piernas de tu hermana, quitándote las bragas de un solo golpe."
+
+# game/day20.rpy:1213
+translate spanish day20_b_licking_night_cb7230fb:
+
+    # "{i}You crawl onto the bed and open [b_name]'s legs, removing her panties in one fell swoop."
+    "{i}Te arrastras hacia la cama y abres las piernas de [b_name], quitándote las bragas de un solo golpe."
+
+# game/day20.rpy:1215
+translate spanish day20_b_licking_night_e2d724e5:
+
+    # p "{i}(I went easy on [b_name] yesterday, but that blowjob sure left me wanting more.)"
+    p "{i}(Ayer fui amable con [b_name], pero esa mamada me dejó con ganas de más.)"
+
+# game/day20.rpy:1216
+translate spanish day20_b_licking_night_be898db7:
+
+    # p "{i}(I'm not sure how we're going to reach the next level. She took it in her mouth, but I'm pretty sure she isn't ready for anything more rigorous.)"
+    p "{i}(No estoy seguro de cómo vamos a llegar al siguiente nivel. Se lo llevó a la boca, pero estoy bastante seguro de que no está lista para nada más riguroso.)"
+
+# game/day20.rpy:1217
+translate spanish day20_b_licking_night_8f914c0f:
+
+    # p "{i}(But I might get her where I want if I'm careful and patient. Let's see if I can make a start with her today.)"
+    p "{i}(Pero podría llevarla a donde quiera si soy cuidadoso y paciente. Veamos si puedo empezar con ella hoy.)"
+
+# game/day20.rpy:1221
+translate spanish day20_b_licking_night_35ba70ca:
+
+    # b "What?"
+    b "¿Qué?"
+
+# game/day20.rpy:1222
+translate spanish day20_b_licking_night_64c1d628:
+
+    # p "Just undress, I want to taste your pussy."
+    p "Solo desvístete, quiero probar tu coño."
+
+# game/day20.rpy:1223
+translate spanish day20_b_licking_night_e352c4e7:
+
+    # b "I was going to sleep."
+    b "Me iba a dormir."
+
+# game/day20.rpy:1224
+translate spanish day20_b_licking_night_6d63ec83:
+
+    # p "No, you're not."
+    p "No, no lo estás."
+
+# game/day20.rpy:1225
+translate spanish day20_b_licking_night_f4a6d83e:
+
+    # b "Yes, I am."
+    b "Sí, lo estoy."
+
+# game/day20.rpy:1226
+translate spanish day20_b_licking_night_f12f8370:
+
+    # p "Are you going to behave like a child? I could just rip your clothes off, you know."
+    p "¿Te vas a comportar como una niña? Podría arrancarte la ropa, ¿sabes?"
+
+# game/day20.rpy:1228
+translate spanish day20_b_licking_night_e4f370a8:
+
+    # b "I know."
+    b "Lo sé."
+
+# game/day20.rpy:1231
+translate spanish day20_b_licking_night_baa94679:
+
+    # "{i}Your sister reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}Tu hermana se quita la ropa de mala gana y se acuesta en la cama. Te arrastras a su lado y le abres las piernas."
+
+# game/day20.rpy:1233
+translate spanish day20_b_licking_night_22d19280:
+
+    # "{i}[b_name] reluctantly removes her clothes and lies down on the bed. You crawl next to her and open her legs."
+    "{i}La chica se quita la ropa de mala gana y se acuesta en la cama. Te arrastras a su lado y le abres las piernas."
+
+# game/day20.rpy:1239
+translate spanish day20_b_licking_night_f8aece55:
+
+    # "{i}You firmly grasp her upper legs and go down on her pussy. The smell of her sex fills your nostrils and you begin to eat her out."
+    "{i}Sujetas firmemente sus piernas superiores y te bajas sobre su coño. El olor de su sexo llena tus fosas nasales y comienzas a comértela."
+
+# game/day20.rpy:1240
+translate spanish day20_b_licking_night_49dff9a6:
+
+    # b "A-a-animal!"
+    b "¡A-a-animal!"
+
+# game/day20.rpy:1241
+translate spanish day20_b_licking_night_20e62e8f:
+
+    # p "Shall I roar for you like lion?"
+    p "¿Debo rugir por tí como un león?"
+
+# game/day20.rpy:1242
+translate spanish day20_b_licking_night_4c747c64:
+
+    # "{i}The stimulation of [b_name]'s vagina isn't tender, only geared towards maximizing her pleasure. Your tongue is alternating between penetrating her slit and gyrating on her erect clit, all to build up to a monumental climax."
+    "{i}La estimulación de la vagina de [b_name] no es tierna, solo está orientada a maximizar su placer. Tu lengua alterna entre penetrar su raja y girar sobre su clítoris erecto, todo para construir un clímax monumental."
+
+# game/day20.rpy:1244
+translate spanish day20_b_licking_night_8916675f:
+
+    # b "Ooooh!"
+    b "¡Ooooh!"
+
+# game/day20.rpy:1245
+translate spanish day20_b_licking_night_89365358:
+
+    # "{i}[b_name] wriggles beneath your touch and she crumples the bedsheets with her clawed hands. Every fiber of her body is ready for orgasmic release... And then you stop abruptly."
+    "{i}[b_name] se retuerce bajo tu toque y ella arruga las sábanas con sus manos con uñas. Cada fibra de su cuerpo está lista para la liberación orgásmica... Y luego te detienes abruptamente."
+
+# game/day20.rpy:1251
+translate spanish day20_b_licking_night_a04a6859:
+
+    # p "Good night, sweet sister."
+    p "Buenas noches, dulce hermana."
+
+# game/day20.rpy:1253
+translate spanish day20_b_licking_night_d98faf4a:
+
+    # p "Good night, sweet [b_name]."
+    p "Buenas noches, dulce [b_name]."
+
+# game/day20.rpy:1256
+translate spanish day20_b_licking_night_370ba8fd:
+
+    # b "No! No! Not again!"
+    b "¡No! ¡No! ¡otra vez no!"
+
+# game/day20.rpy:1257
+translate spanish day20_b_licking_night_66324063:
+
+    # b "Why?!"
+    b "¿Por qué?"
+
+# game/day20.rpy:1259
+translate spanish day20_b_licking_night_c29a0db3:
+
+    # b "What?! No, you can't..."
+    b "¡¿Qué?! No, no puedes..."
+
+# game/day20.rpy:1260
+translate spanish day20_b_licking_night_47fea10d:
+
+    # p "I can't?"
+    p "¿No puedo?"
+
+# game/day20.rpy:1261
+translate spanish day20_b_licking_night_501b7436:
+
+    # b "I just... Go fuck yourself!"
+    b "Yo solo... ¡Vete a la mierda!"
+
+# game/day20.rpy:1262
+translate spanish day20_b_licking_night_96c772af:
+
+    # p "I'm so tired, I really need to get some sleep."
+    p "Estoy tan cansado que realmente necesito dormir un poco."
+
+# game/day20.rpy:1263
+translate spanish day20_b_licking_night_13af8e6a:
+
+    # p "I'm sure a good girl like you can finish it herself."
+    p "Estoy seguro de que una buena chica como tú puede terminarlo por sí misma."
+
+# game/day20.rpy:1265
+translate spanish day20_b_licking_night_6fdb4e3f:
+
+    # b "You fucking asshole!"
+    b "¡Maldito gilipollas!"
+
+# game/day20.rpy:1266
+translate spanish day20_b_licking_night_00d06707:
+
+    # p "{i}(She's nearly ready... I'm going to try my luck tomorrow.)"
+    p "{i}(Ella está casi lista... probaré suerte mañana.)"
+
+# game/day20.rpy:1268
+translate spanish day20_b_licking_night_38f95ab2:
+
+    # p "{i}(I'm not sure if this is enough, but I'm going to try my luck tomorrow.)"
+    p "{i}(No estoy seguro de si esto es suficiente, probaré suerte mañana.)"
+

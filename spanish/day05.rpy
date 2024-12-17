@@ -3573,4 +3573,449 @@ translate spanish day05_restaurant_main_course_choices_eed1e285:
 translate spanish day05_restaurant_main_course_choices_b87fab88:
 
     # l "I..."
-    l "Yo..."
+    l "Yo..."# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day05.rpy:1208
+translate spanish day05_al_blowjob_dbd155c7:
+
+    # "{i}Alina quickly undresses and drops to her knees."
+    "{i}Alina se desnuda rápidamente y cae de rodillas."
+
+# game/day05.rpy:1210
+translate spanish day05_al_blowjob_95c75bd4:
+
+    # al "I've been a bad girl, [p_name]."
+    al "He sido una chica mala [p_name]."
+
+# game/day05.rpy:1211
+translate spanish day05_al_blowjob_88cf92b3:
+
+    # al "Please punish me with your hard cock."
+    al "Por favor castígame con tu dura polla."
+
+# game/day05.rpy:1212
+translate spanish day05_al_blowjob_d04ccebe:
+
+    # p "{i}(Seems Alina is into submissive role-play. Kinky girl.)"
+    p "{i}(Parece que Alina está metida en juegos de roles sumisos. Chica pervertida.)"
+
+# game/day05.rpy:1213
+translate spanish day05_al_blowjob_a9fdd25f:
+
+    # al "I've had all these bad thoughts about guys fucking me and cumming on me."
+    al "He tenido todos estos malos pensamientos sobre tipos que me follan y se corren sobre mí."
+
+# game/day05.rpy:1214
+translate spanish day05_al_blowjob_0c4a90b7:
+
+    # p "So you've been a dirty little girl?"
+    p "¿Así que has sido una chica sucia?"
+
+# game/day05.rpy:1218
+translate spanish day05_al_blowjob_59f29e9c:
+
+    # al "Yes."
+    al "Sí."
+
+# game/day05.rpy:1219
+translate spanish day05_al_blowjob_1caa70a6:
+
+    # p "And you want my cock in your mouth?"
+    p "¿Y quieres mi polla en tu boca?"
+
+# game/day05.rpy:1220
+translate spanish day05_al_blowjob_6823e446:
+
+    # al "Yes. I deserve punishment for all the bad thoughts I've had."
+    al "Sí. Merezco un castigo por todos los malos pensamientos que he tenido."
+
+# game/day05.rpy:1221
+translate spanish day05_al_blowjob_6fc3d371:
+
+    # p "Say please."
+    p "Di por favor."
+
+# game/day05.rpy:1222
+translate spanish day05_al_blowjob_ea16862b:
+
+    # al "Please [p_name], put your hard cock in my warm mouth."
+    al "Por favor [p_name], pon tu dura polla en mi caliente boca."
+
+# game/day05.rpy:1228
+translate spanish day05_al_blowjob_d88f39fb:
+
+    # "{i}You grab her head and force her mouth over your hard cock."
+    "{i}Le agarras la cabeza y le fuerzas la boca sobre tu dura polla."
+
+# game/day05.rpy:1229
+translate spanish day05_al_blowjob_2d47c89b:
+
+    # "{i}Alina gags and smiles. Spit is dripping from her mouth already."
+    "{i}Alina se atraganta y sonríe. La saliva ya está goteando de su boca."
+
+# game/day05.rpy:1231
+translate spanish day05_al_blowjob_6d6c314b:
+
+    # p "Do you like that, you bad little whore?"
+    p "¿Te gusta esto, pequeña mala puta?"
+
+# game/day05.rpy:1232
+translate spanish day05_al_blowjob_361ba597:
+
+    # al "Mmmmmmm. *Gag*"
+    al "Mmmmmmm. * Náuseas *"
+
+# game/day05.rpy:1241
+translate spanish day05_al_blowjob_8a42e6f5:
+
+    # "{i}Her tongue rubs against your glans while you move her head up and down, sometimes allowing her to catch her breath."
+    "{i}Su lengua roza tu glande mientras mueves su cabeza hacia arriba y hacia abajo, permitiéndole a veces recuperar el aliento."
+
+# game/day05.rpy:1243
+translate spanish day05_al_blowjob_c3bf44f1:
+
+    # al "*Slurp* *Gag* Aaaah, I want it all."
+    al "* Slurp * * Náuseas * Aaaah, lo quiero todo."
+
+# game/day05.rpy:1247
+translate spanish day05_al_blowjob_8c741924:
+
+    # "{i}Alina licks the length of your glistening dick and then you feel her wet tongue licking your balls."
+    "{i}Alina lame la longitud de tu brillante polla y luego sientes su lengua mojada lamiendo tus bolas y ano."
+
+# game/day05.rpy:1248
+translate spanish day05_al_blowjob_470739a5:
+
+    # al "Please, please put it all in!"
+    al "¡Por favor, ponlo todo!"
+
+# game/day05.rpy:1259
+translate spanish day05_al_blowjob_30e0e27d:
+
+    # "{i}With just enough pressure you shove your entire cock inside her mouth. Alina's eyes start to tear and her upper body is covered in drool."
+    "{i}Con la presión suficiente empujas toda tu polla dentro de su boca. Los ojos de Alina comienzan a lagrimear y la parte superior de su cuerpo está cubierta de baba."
+
+# game/day05.rpy:1260
+translate spanish day05_al_blowjob_f0ce2700:
+
+    # al "Mmmmmmm!"
+    al "Mmmmmmm!"
+
+# game/day05.rpy:1262
+translate spanish day05_al_blowjob_e6a42fa1:
+
+    # "{i}As your penis is thrusting in her throat, Alina gets a look of pure bliss."
+    "{i}A medida que tú polla está empujando por su garganta, Alina tiene una mirada de pura felicidad."
+
+# game/day05.rpy:1263
+translate spanish day05_al_blowjob_a90c826f:
+
+    # p "You like it when it hurts, don't you, you little whore?"
+    p "Te gusta cuando te obligo, ¿verdad, pequeña puta?"
+
+# game/day05.rpy:1264
+translate spanish day05_al_blowjob_2c383b37:
+
+    # "{i}Feeling you're close to a climax, Alina wriggles free of your grasp and gets on all fours while still deep throating your throbbing member."
+    "{i}Sintiendo que estás cerca de un clímax, Alina se libera de tu agarre y se pone a cuatro patas mientras sigue tragando tu miembro palpitante."
+
+# game/day05.rpy:1265
+translate spanish day05_al_blowjob_4d071266:
+
+    # p "I'm cumming, I'm cumming!"
+    p "Me voy a correr, Me voy a correr!"
+
+# game/day05.rpy:1266
+translate spanish day05_al_blowjob_1b2e42f8:
+
+    # al "Mmmmm. *Slurp*"
+    al "Mmmmm. * Slurp *"
+
+# game/day05.rpy:1273
+translate spanish day05_al_blowjob_30060b71:
+
+    # p "Aaaaaaaaah!!!"
+    p "¡Aaaaaaaaah!"
+
+# game/day05.rpy:1274
+translate spanish day05_al_blowjob_1f9b2e9e:
+
+    # "{i}You shoot your warm semen down her throat. Alina keeps moving up and down your shaft until she has swallowed every last drop of cum."
+    "{i}Le lanzas el cálido semen por la garganta. Alina sigue subiendo y bajando por tu 'tranca' hasta que se traga hasta la última gota de semen."
+
+# game/day05.rpy:1279
+translate spanish day05_al_blowjob_6c090174:
+
+    # "{i}Alina licks her cum-covered lips and looks at you longingly."
+    "{i}Alina se lame los labios cubiertos de semen y te mira con ansia."
+
+# game/day05.rpy:1293
+translate spanish day05_al_blowjob_30060b71_1:
+
+    # p "Aaaaaaaaah!!!"
+    p "¡Aaaaaaaaah!"
+
+# game/day05.rpy:1294
+translate spanish day05_al_blowjob_241f9f55:
+
+    # "{i}You pull out of her warm mouth and shoot a large load all over her face and chest."
+    "{i}La sacas de su cálida boca y lanzas una gran carga por toda su cara y pecho."
+
+# game/day05.rpy:1298
+translate spanish day05_al_blowjob_7c04e579:
+
+    # "{i}Alina scoops up a dollop of cum mixed with her saliva with her finger and puts it in her mouth."
+    "{i}Alina toma una cucharada de semen mezclada con su saliva con su dedo y se la lleva a la boca."
+
+# game/day05.rpy:1308
+translate spanish day05_al_blowjob_15f9d00e:
+
+    # al "Mmmmm, nice!"
+    al "Mmmmm, que bueno!"
+
+# game/day05.rpy:1309
+translate spanish day05_al_blowjob_83d55ae5:
+
+    # p "{i}(She's a little crazy, but what a cocksucker!)"
+    p "{i}(¡Está un poco loca, pero qué chupapollas!"
+
+# game/day05.rpy:1312
+translate spanish day05_al_blowjob_543ded4c:
+
+    # al "Ana was right, you taste very nice and there's so much of it as well!"
+    al "Ana tenía razón, ¡sabes muy bien y hay mucho de eso también!"
+
+# game/day05.rpy:1314
+translate spanish day05_al_blowjob_d7c57646:
+
+    # al "You taste very nice and there's so much of it!"
+    al "¡Sabes muy bien y hay tanto!"
+
+# game/day05.rpy:1316
+translate spanish day05_al_blowjob_a4a98842:
+
+    # al "Am I a good girl now, [p_name]?"
+    al "¿Soy una buena chica ahora, [p_name]?"
+
+# game/day05.rpy:1338
+translate spanish day05_masturbation_fddc8333:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Después de ver las primeras imágenes, tu polla ya está dura."
+
+# game/day05.rpy:1343
+translate spanish day05_masturbation_637b1d16:
+
+    # p "{i}(I'd like to fuck that round butt so hard.)"
+    p "{i}(Me gustaría follarme ese culo redondo con tanta fuerza)"
+
+# game/day05.rpy:1346
+translate spanish day05_masturbation_fddc8333_1:
+
+    # "{i}After seeing the first few pictures your penis is hard already."
+    "{i}Después de ver las primeras imágenes, tu polla ya está dura."
+
+# game/day05.rpy:1350
+translate spanish day05_masturbation_1cb11e3f:
+
+    # p "{i}(Look at those legs...)"
+    p "{i}(Mira esas piernas...)"
+
+# game/day05.rpy:1352
+translate spanish day05_masturbation_c70fbe8f:
+
+    # p "{i}(I'd fuck those tits without mercy!)"
+    p "{i}(¡Me follaría esas tetas sin piedad!)"
+
+# game/day05.rpy:1357
+translate spanish day05_masturbation_913f4a36:
+
+    # r "{i}(I hope [p_name] is still awake. I forgot to tell him what movie I'd like to see in case he has to book tickets in advance.)"
+    r "{i}(Espero que [p_name] todavía esté despierto. Olvidé decirle qué película me gustaría ver en caso de que tenga que reservar los billetes con impaciencia.)"
+
+# game/day05.rpy:1359
+translate spanish day05_masturbation_23471360:
+
+    # r "{i}(What is he doing? His arm is moving up and down... No... Is he masturbating?)"
+    r "{i}(¿Qué está haciendo el? Su brazo se mueve hacia arriba y hacia abajo... No... ¿Se está masturbando?)"
+
+# game/day05.rpy:1360
+translate spanish day05_masturbation_5ce62f35:
+
+    # p "{i}(Fuck! I think I heard the door. Is that [r_name]?)"
+    p "{i}(¡Joder! Creo que he oido la puerta. ¿Será [r_name]?)"
+
+# game/day05.rpy:1364
+translate spanish day05_masturbation_61a3b4f3:
+
+    # p "{i}(Fuck it, whoever it is. This is my room and I'm wanking.)"
+    p "{i}(A la mierda, sea quien sea. Esta es mi habitación y me estoy masturbando.)"
+
+# game/day05.rpy:1365
+translate spanish day05_masturbation_6426fa8e:
+
+    # r "{i}(He didn't notice me?)"
+    r "{i}(¿No se dio cuenta de mí?)"
+
+# game/day05.rpy:1369
+translate spanish day05_masturbation_095cb9e0:
+
+    # r "{i}(It's kinda hot seeing him like this.)"
+    r "{i}(Hace un poco de calor verlo así)"
+
+# game/day05.rpy:1370
+translate spanish day05_masturbation_0e7fa6f3:
+
+    # r "{i}(Hmmm. What?! Am I getting wet?)"
+    r "{i}(Hmmm. ¿Qué? ¡¿Me estoy mojando?)"
+
+# game/day05.rpy:1376
+translate spanish day05_masturbation_934c1a38:
+
+    # r "{i}(I'll just feel myself for a little bit.)"
+    r "{i}(Me acariciaré yo misma por un rato.)"
+
+# game/day05.rpy:1377
+translate spanish day05_masturbation_950e20b5:
+
+    # p "{i}(I think she's still there... This is making me even harder.)"
+    p "{i}(Creo que ella todavía está ahí... Esto me está poniendo aún más cachondo.)"
+
+# game/day05.rpy:1380
+translate spanish day05_masturbation_83d5b35a:
+
+    # r "{i}(Ugh. Better leave him to it.)"
+    r "{i}(Ugh. Mejor dejarlo con eso.)"
+
+# game/day05.rpy:1382
+translate spanish day05_masturbation_88f214f1:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Ana."
+    "{i}Oyes que la puerta se cierra muy silenciosamente. Parece que estás sola de nuevo con Ana."
+
+# game/day05.rpy:1384
+translate spanish day05_masturbation_a01bc4d7:
+
+    # "{i}You hear the door close very quietly. It seems you're alone again with Jenna."
+    "{i}Oyes que la puerta se cierra muy silenciosamente. Parece que estás sola de nuevo con Jenna."
+
+# game/day05.rpy:1388
+translate spanish day05_masturbation_b4ba04ee:
+
+    # p "{i}(Better stop before she really weirded out...)"
+    p "{i}(Mejor detente antes de que ella realmente se extrañe...)"
+
+# game/day05.rpy:1389
+translate spanish day05_masturbation_09047fa5:
+
+    # "{i}As you turn around you hear the door close quickly."
+    "{i}Cuando te das la vuelta oyes que la puerta se cierra rápidamente."
+
+# game/day05.rpy:1390
+translate spanish day05_masturbation_6dcf8844:
+
+    # p "{i}(Wonder who that was... Not going to apologize or anything though, this is my room.)"
+    p "{i}(Me pregunto quién sería... No tengo que disculparme ni nada, esta es mi habitación.)"
+
+# game/day05.rpy:1396
+translate spanish day05_masturbation_43831b5b:
+
+    # p "{i}(She's spreading those juicy pussy lips.)"
+    p "{i}(Ella está extendiendo esos jugosos labios vaginales)"
+
+# game/day05.rpy:1397
+translate spanish day05_masturbation_6c506216:
+
+    # p "{i}(Look at that beauty!)"
+    p "{i}(¡Mira esa belleza!)"
+
+# game/day05.rpy:1400
+translate spanish day05_masturbation_dbec0d7a:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1406
+translate spanish day05_masturbation_9c833101:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(¡Yo también me corro!)"
+
+# game/day05.rpy:1409
+translate spanish day05_masturbation_cea80ab4:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah!!!)"
+
+# game/day05.rpy:1413
+translate spanish day05_masturbation_20c4a634:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Es mejor que me vaya ahora, hablaré con [p_name] por la mañana.)"
+
+# game/day05.rpy:1417
+translate spanish day05_masturbation_8c635013:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Creo que la persona de la puerta se fue ya.)"
+
+# game/day05.rpy:1418
+translate spanish day05_masturbation_655ebe52:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Eso estuvo muy caliente.)"
+
+# game/day05.rpy:1421
+translate spanish day05_masturbation_e4eaa197:
+
+    # p "{i}(But wait... Who took those pictures of Ana?!)"
+    p "{i}(Pero espera... ¡¿Quién hizo esas fotos a Ana?!)"
+
+# game/day05.rpy:1424
+translate spanish day05_masturbation_7a862b9d:
+
+    # p "{i}(Put those fingers in there, Jenna!)"
+    p "{i}(¡Pon esos dedos allí, Jenna!)"
+
+# game/day05.rpy:1426
+translate spanish day05_masturbation_9399104c:
+
+    # p "{i}(That's it girl!)"
+    p "{i}(¡Eso es chica!)"
+
+# game/day05.rpy:1429
+translate spanish day05_masturbation_dbec0d7a_1:
+
+    # p "{i}(Aaaaaah!!!)"
+    p "{i}(Aaaaaah!!!)"
+
+# game/day05.rpy:1435
+translate spanish day05_masturbation_9c833101_1:
+
+    # r "{i}(I'm cumming too!)"
+    r "{i}(¡Yo también me corro!)"
+
+# game/day05.rpy:1438
+translate spanish day05_masturbation_cea80ab4_1:
+
+    # r "{i}(Aaaaaahaaah!!!)"
+    r "{i}(Aaaaaahaaah!!!)"
+
+# game/day05.rpy:1442
+translate spanish day05_masturbation_20c4a634_1:
+
+    # r "{i}(Better leave now, I'll talk to [p_name] in the morning.)"
+    r "{i}(Es mejor que me vaya ahora, hablaré con [p_name] por la mañana.)"
+
+# game/day05.rpy:1446
+translate spanish day05_masturbation_8c635013_1:
+
+    # p "{i}(I think the person at the door left.)"
+    p "{i}(Creo que la persona de la puerta se fue ya.)"
+
+# game/day05.rpy:1447
+translate spanish day05_masturbation_655ebe52_1:
+
+    # p "{i}(That was so hot.)"
+    p "{i}(Eso estuvo muy caliente.)"
+

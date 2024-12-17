@@ -4330,3 +4330,827 @@ translate spanish day15_blackmail_ef11b549:
 
     # "{i}With all of her strength, [b_name] clasps arms around your neck. Four of your fingers are still inside of her dripping pussy, and you keep massaging her clit with your thumb as she orgasms violently."
     "{i}Con todas sus fuerzas [b_name] te rodea el cuello con los brazos Cuatro de tus dedos siguen dentro de su coño chorreante y sigues masajeando su clítoris con el pulgar mientras ella orgasmea violentamente."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day15.rpy:922
+translate spanish day15_restaurant_b_sex_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "¿[b_name] es un sub completo en esta escena?"
+
+# game/day15.rpy:926
+translate spanish day15_restaurant_b_sex_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente sumisa"
+
+# game/day15.rpy:929
+translate spanish day15_restaurant_b_sex_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] no completamente sumisa"
+
+# game/day15.rpy:936
+translate spanish day15_restaurant_b_sex_2d537d7c:
+
+    # "{i}While you are speaking with your other family members, your hand moves under the table and rests on [b_name]'s left thigh."
+    "{i}Mientras hablas con los otros miembros de la familia, tu mano se mueve debajo de la mesa y descansa sobre el muslo izquierdo de [b_name]."
+
+# game/day15.rpy:938
+translate spanish day15_restaurant_b_sex_9ed0e1fe:
+
+    # "{i}While you are speaking with everyone else, your hand moves under the table and rests on [b_name]'s left thigh."
+    "{i}Mientras hablas con todos los demás, tu mano se mueve debajo de la mesa y descansa sobre el muslo izquierdo de [b_name]."
+
+# game/day15.rpy:939
+translate spanish day15_restaurant_b_sex_6ef371a5:
+
+    # l "Don't be so blue, [b_name]."
+    l "No estés tan triste, [b_name]."
+
+# game/day15.rpy:940
+translate spanish day15_restaurant_b_sex_52dcef3c:
+
+    # b "I..."
+    b "Yo..."
+
+# game/day15.rpy:942
+translate spanish day15_restaurant_b_sex_635bc3d8:
+
+    # "{i}[b_name] seems to anticipate what you're trying to do and tries to keep her legs together. With a little pressure, you force your sister's legs apart."
+    "{i}[b_name] parece anticipar lo que estás tratando de hacer e intenta mantener las piernas juntas. Con un poco de presión, separas las piernas de tu hermana."
+
+# game/day15.rpy:944
+translate spanish day15_restaurant_b_sex_adfa16f9:
+
+    # "{i}[b_name] seems to anticipate what you're trying to do and tries to keep her legs together. With a little pressure, you force her legs apart."
+    "{i}[b_name] parece anticipar lo que intentas hacer y trata de mantener sus piernas juntas. Con un poco de presión, las separas."
+
+# game/day15.rpy:946
+translate spanish day15_restaurant_b_sex_8a00b0fb:
+
+    # m "It's great out here, the beach is beautiful."
+    m "Estamos genial aquí, la playa es hermosa."
+
+# game/day15.rpy:947
+translate spanish day15_restaurant_b_sex_b9b7df5a:
+
+    # r "You haven't even gone for a dip in the ocean yet."
+    r "Aún no te has dado un chapuzón en el océano."
+
+# game/day15.rpy:949
+translate spanish day15_restaurant_b_sex_920ba856:
+
+    # "{i}You stroke the inside of her thighs near her pussy. You feel [b_name] shivering and goosebumps appear on her skin."
+    "{i}Le acaricias el interior de los muslos cerca del coño. Sientes a [b_name] temblar y se le pone la piel de gallina."
+
+# game/day15.rpy:951
+translate spanish day15_restaurant_b_sex_e3723195:
+
+    # p "{i}(Looks like sis is also up for some fun.)"
+    p "{i}(Parece que la hermana también está dispuesta a divertirse.)"
+
+# game/day15.rpy:953
+translate spanish day15_restaurant_b_sex_9979ba25:
+
+    # p "{i}(Looks like [b_name] is also up for some fun.)"
+    p "{i}(Parece que [b_name] también está listo para divertirse.)"
+
+# game/day15.rpy:955
+translate spanish day15_restaurant_b_sex_bd0caf4b:
+
+    # l "I haven't even been to the beach yet, but I will tomorrow. The village is lovely, isn't it, [p_name]?"
+    l "Ni siquiera he estado en la playa todavía, pero lo haré mañana. El pueblo es encantador, ¿no es así, [p_name]?"
+
+# game/day15.rpy:956
+translate spanish day15_restaurant_b_sex_b55d89d3:
+
+    # p "Yes, it's very quaint."
+    p "Sí, es muy pintoresco."
+
+# game/day15.rpy:961
+translate spanish day15_restaurant_b_sex_9946ee0b:
+
+    # "{i}Nobody but you notices [b_name]'s small gasp when you press your fingers against her vagina. You feel the warmth of her skin through the thin fabric of her bikini bottom."
+    "{i}Nadie más que tú notas el pequeño jadeo de [b_name] cuando presionas tus dedos contra su vagina. Sientes el calor de su piel a través de la fina tela de su bikini."
+
+# game/day15.rpy:962
+translate spanish day15_restaurant_b_sex_38390240:
+
+    # l "So apart from the beach, there must be some cultural stuff we could explore?"
+    l "Entonces, aparte de la playa, ¿debe haber algunas cosas culturales que podamos explorar?"
+
+# game/day15.rpy:963
+translate spanish day15_restaurant_b_sex_1dadbc0b:
+
+    # m "I think there's a little museum about the history of the island in the town center."
+    m "Creo que hay un pequeño museo sobre la historia de la isla en el centro de la ciudad."
+
+# game/day15.rpy:964
+translate spanish day15_restaurant_b_sex_7e020b79:
+
+    # r "Yawn!"
+    r "¡Bostezo!"
+
+# game/day15.rpy:968
+translate spanish day15_restaurant_b_sex_f0817189:
+
+    # "{i}You move your hand a bit higher and playfully touch the skin just above her sex. Steadily you lower your hand and notice that [b_name] is holding her breath in anticipation."
+    "{i}Mueves tu mano un poco más arriba y tocas juguetonamente la piel justo por encima de su sexo. Continuamente bajas tu mano y notas que [b_name] está conteniendo la respiración con impaciencia."
+
+# game/day15.rpy:970
+translate spanish day15_restaurant_b_sex_57ca4e24:
+
+    # "{i}She exhales as soon as your fingers enter her bikini bottom and you softly stroke her mound."
+    "{i}Ella exhala tan pronto como tus dedos entran en la parte inferior de su bikini y tú acaricias suavemente su montículo."
+
+# game/day15.rpy:971
+translate spanish day15_restaurant_b_sex_7855696f:
+
+    # "{i}One of her hands is grasping your knee with some force. Whether this is to encourage or to stop you is unclear."
+    "{i}Una de sus manos está agarrando su rodilla con algo de fuerza. No está claro si esto es para animar o para detenerte.."
+
+# game/day15.rpy:972
+translate spanish day15_restaurant_b_sex_94b60cdf:
+
+    # "{i}You move further down and touch the lips of her pussy."
+    "{i}Te mueves más abajo y tocas los labios de su coño."
+
+# game/day15.rpy:974
+translate spanish day15_restaurant_b_sex_507a766b:
+
+    # m "It could be very interesting. Learning about other cultures is important, [r_name]."
+    m "Podría ser muy interesante. Aprender sobre otras culturas es importante, [r_name]."
+
+# game/day15.rpy:975
+translate spanish day15_restaurant_b_sex_3b91163f:
+
+    # r "That sounds too much like college."
+    r "Eso suena demasiado a la universidad."
+
+# game/day15.rpy:977
+translate spanish day15_restaurant_b_sex_d4656f7b:
+
+    # "{i}As soon as you start playing with her labia, caressing them with your fingers, your sister has a hard time not squirming under your touch."
+    "{i}Tan pronto como comienzas a jugar con sus labios, acariciándolos con los dedos, a tu hermana le cuesta mucho no retorcerse bajo tu toque."
+
+# game/day15.rpy:979
+translate spanish day15_restaurant_b_sex_954661e9:
+
+    # "{i}As soon as you start playing with her labia, caressing them with your fingers, [b_name] has a hard time not squirming under your touch."
+    "{i}Tan pronto como comienzas a jugar con sus labios, acariciándolos con tus dedos, [b_name] tiene dificultades para no retorcerse bajo tu toque."
+
+# game/day15.rpy:980
+translate spanish day15_restaurant_b_sex_96b0ea53:
+
+    # p "Belugio seems like an interesting country, I wouldn't mind learning something more about it."
+    p "Belugio parece un país interesante, no me importaría aprender algo más al respecto."
+
+# game/day15.rpy:983
+translate spanish day15_restaurant_b_sex_a6633c70:
+
+    # "{i}Your sister is still clawing at your knee, while your fingers circle around her clitoris. You feel that her juices have completely soaked the front of her bikini bottom."
+    "{i}Tu hermana todavía está arañando tu rodilla, mientras tus dedos giran alrededor de su clítoris. Sientes que sus jugos han empapado por completo la parte delantera de la parte inferior de su bikini."
+
+# game/day15.rpy:985
+translate spanish day15_restaurant_b_sex_fb3a4ee1:
+
+    # "{i}[b_name] is still clawing at your knee, while your fingers circle around her clitoris. You feel that her juices have completely soaked the front of her bikini bottom."
+    "{i}[b_name] todavía está arañando tu rodilla, mientras tus dedos giran alrededor de su clítoris. Sientes que sus jugos han empapado completamente la parte delantera de la parte inferior de su bikini."
+
+# game/day15.rpy:987
+translate spanish day15_restaurant_b_sex_f79e67d0:
+
+    # l "Are you all right, [b_name]?"
+    l "¿Estás bien, [b_name]?"
+
+# game/day15.rpy:988
+translate spanish day15_restaurant_b_sex_2a52028c:
+
+    # b "W-h-what?"
+    b "¿Q-qué?"
+
+# game/day15.rpy:989
+translate spanish day15_restaurant_b_sex_5c642762:
+
+    # b "Y-yes. I'm fine. T-there was too mmmuch pepper on that pizza."
+    b "S-sí. Estoy bien. H-había demasiada pimienta en esa pizza."
+
+# game/day15.rpy:994
+translate spanish day15_restaurant_b_sex_e92eab45:
+
+    # "{i}With all the attention centered on you, you decide to stop fingering her."
+    "{i}Con toda la atención centrada en ti, decides dejar de tocarla."
+
+# game/day15.rpy:995
+translate spanish day15_restaurant_b_sex_8f986d9e:
+
+    # b "I'm going to get a glass of water."
+    b "Voy a tomar un vaso de agua."
+
+# game/day15.rpy:997
+translate spanish day15_restaurant_b_sex_78265ed8:
+
+    # "{i}[b_name] suddenly stands and walks away from the table. You notice she's trying to cover the wet stain on her bikini bottom."
+    "{i}[b_name] de repente se levanta y se aleja de la mesa. Te das cuenta de que está tratando de cubrir la mancha húmeda en la parte inferior de su bikini."
+
+# game/day15.rpy:998
+translate spanish day15_restaurant_b_sex_11831365:
+
+    # m "Is she okay?"
+    m "¿Está bien?"
+
+# game/day15.rpy:999
+translate spanish day15_restaurant_b_sex_88c4a7f6:
+
+    # l "She looked very flushed."
+    l "Parecía muy sonrojada."
+
+# game/day15.rpy:1000
+translate spanish day15_restaurant_b_sex_701064f8:
+
+    # p "I'll have a look to see if she's all right."
+    p "Echaré un vistazo para ver si está bien."
+
+# game/day15.rpy:1011
+translate spanish day15_restaurant_b_sex_eb4a1551:
+
+    # "{i}You enter the restroom and look for your sister."
+    "{i}Entras al baño y buscas a tu hermana."
+
+# game/day15.rpy:1013
+translate spanish day15_restaurant_b_sex_e0e77af2:
+
+    # "{i}You enter the restroom and look for [b_name]."
+    "{i}Entras al baño y buscas a [b_name]."
+
+# game/day15.rpy:1014
+translate spanish day15_restaurant_b_sex_c1930656:
+
+    # "{i}Suddenly you're startled by what sounded like a soft moan."
+    "{i}De repente te sorprendes por lo que sonó como un suave gemido."
+
+# game/day15.rpy:1015
+translate spanish day15_restaurant_b_sex_ab5c9499:
+
+    # p "{i}(I think it came from over there.)"
+    p "{i}(Creo que vino de por allí)"
+
+# game/day15.rpy:1019
+translate spanish day15_restaurant_b_sex_de0be487:
+
+    # p "Do you need some help, sis?"
+    p "¿Necesitas ayuda, hermana?"
+
+# game/day15.rpy:1021
+translate spanish day15_restaurant_b_sex_67af6f9c:
+
+    # p "Do you need some help, [b_name]?"
+    p "¿Necesitas ayuda, [b_name]?"
+
+# game/day15.rpy:1024
+translate spanish day15_restaurant_b_sex_3e4ef471:
+
+    # b "Aaaaaah!"
+    b "¡Aaaaaah!"
+
+# game/day15.rpy:1026
+translate spanish day15_restaurant_b_sex_19f173a3:
+
+    # b "G-go a-awwway! Aaaaaah!"
+    b "¡V-Veteee de aquiii! ¡Aaaaaah!"
+
+# game/day15.rpy:1027
+translate spanish day15_restaurant_b_sex_3ec49d61:
+
+    # p "{i}(I think she's close.)"
+    p "{i}(Creo que está cerca)"
+
+# game/day15.rpy:1029
+translate spanish day15_restaurant_b_sex_4fe6616c:
+
+    # "{i}You move in the stall with [b_name] and push her hand away. [b_name] doesn't protest as you continue her gyrating motions with your own hand."
+    "{i}Entras en el baño con [b_name] y le quitas mano. [b_name] no protesta mientras tú continúas sus movimientos giratorios con tu propia mano."
+
+# game/day15.rpy:1030
+translate spanish day15_restaurant_b_sex_a313c966:
+
+    # p "You didn't think you were going to cum without me, did you?"
+    p "No pensaste que ibas a correrte sin mí, ¿verdad?"
+
+# game/day15.rpy:1031
+translate spanish day15_restaurant_b_sex_cd8ccdf2:
+
+    # b "Please! I need it so badly!"
+    b "¡Por favor! ¡Lo necesito tanto!"
+
+# game/day15.rpy:1033
+translate spanish day15_restaurant_b_sex_0221946c:
+
+    # p "Would you have screamed like a little slut if I'd made you cum in front of our family?"
+    p "¿Hubieras gritado como una pequeña zorra si te hubiera hecho venir delante de nuestra familia?"
+
+# game/day15.rpy:1035
+translate spanish day15_restaurant_b_sex_27701185:
+
+    # p "Would you have screamed like a little slut if I'd made you cum in front of your friends?"
+    p "¿Hubieras gritado como una pequeña zorra si te hubiera hecho venir delante de tus amigos?"
+
+# game/day15.rpy:1036
+translate spanish day15_restaurant_b_sex_585e97f0:
+
+    # b "Yessss! Aaaaaaaah! I'm going to..."
+    b "¡Sí! ¡Aaaaaaaah! Voy a..."
+
+# game/day15.rpy:1043
+translate spanish day15_restaurant_b_sex_ef11b549:
+
+    # "{i}With all of her strength, [b_name] clasps arms around your neck. Four of your fingers are still inside of her dripping pussy, and you keep massaging her clit with your thumb as she orgasms violently."
+    "{i}Con toda su fuerza [b_name] agarra los brazos alrededor de tu cuello. Cuatro de tus dedos todavía están dentro de su coño goteando y sigues masajeando su clítoris con el pulgar mientras ella tiene un orgasmo violento."
+
+# game/day15.rpy:1044
+translate spanish day15_restaurant_b_sex_684436d3:
+
+    # b "Aaaaah! Fuck!!!"
+    b "¡Aaaaah! ¡Joder!"
+
+# game/day15.rpy:1046
+translate spanish day15_restaurant_b_sex_1c1cfdb2:
+
+    # "{i}Your sister's climax is long and intense. You feel her warm breath against your ear and hear her ragged breathing as she shudders against your body in the last throes of her orgasm."
+    "{i}El clímax de tu hermana es largo e intenso. Sientes su cálido aliento contra tu oído y escuchas su respiración irregular mientras se estremece contra tu cuerpo en la última agonía de su orgasmo."
+
+# game/day15.rpy:1048
+translate spanish day15_restaurant_b_sex_d364ca11:
+
+    # "{i}[b_name]'s climax is long and intense. You feel her warm breath against your ear and hear her ragged breathing as she shudders against your body in the last throes of her orgasm."
+    "{i}El clímax de [b_name] es largo e intenso. Sientes su cálido aliento contra tu oído y escuchas su respiración irregular mientras se estremece contra tu cuerpo en la última agonía de su orgasmo."
+
+# game/day15.rpy:1053
+translate spanish day15_restaurant_b_sex_5e1c78b5:
+
+    # p "Let's enjoy the rest of our dinner."
+    p "Disfrutemos el resto de nuestra cena."
+
+# game/day15.rpy:1055
+translate spanish day15_restaurant_b_sex_5dfa3a1f:
+
+    # b "I'm not sure I can even walk..."
+    b "No estoy segura de poder siquiera caminar..."
+
+# game/day15.rpy:1057
+translate spanish day15_restaurant_b_sex_d26d47b8:
+
+    # b "Fuck you! I'm not sure I can even walk..."
+    b "¡Jódete! No estoy segura de poder siquiera caminar..."
+
+# game/day15.rpy:1060
+translate spanish day15_restaurant_b_sex_26651f21:
+
+    # m "Everything okay, dear?"
+    m "¿Todo bien, querida?"
+
+# game/day15.rpy:1061
+translate spanish day15_restaurant_b_sex_75a0df97:
+
+    # b "Yes. I'm fine now."
+    b "Sí. Ahora estoy bien."
+
+# game/day15.rpy:1062
+translate spanish day15_restaurant_b_sex_77bd2f24:
+
+    # l "What happened?"
+    l "¿Qué pasó?"
+
+# game/day15.rpy:1063
+translate spanish day15_restaurant_b_sex_5c559bd0:
+
+    # b "Nothing, the pizza was just too spicy. It's all good now."
+    b "Nada, la pizza era demasiado picante. Ahora todo está bien."
+
+# game/day15.rpy:1064
+translate spanish day15_restaurant_b_sex_65764ef6:
+
+    # p "Must have been my magic touch."
+    p "Debe haber sido mi toque mágico."
+
+# game/day15.rpy:1081
+translate spanish day15_r_licking_0fb14244:
+
+    # r "You're finally here!"
+    r "¡Finalmente estás aquí!"
+
+# game/day15.rpy:1082
+translate spanish day15_r_licking_29f6126b:
+
+    # p "I had to wait for the others to fall asleep."
+    p "Tuve que esperar a que los demás se durmieran."
+
+# game/day15.rpy:1083
+translate spanish day15_r_licking_559e1462:
+
+    # r "Give me a kiss! A long one!"
+    r "¡Dame un beso! ¡Uno largo!"
+
+# game/day15.rpy:1086
+translate spanish day15_r_licking_0e0d34d3:
+
+    # "{i}You rush over and give [r_name] a passionate kiss. Her tongue eagerly seeks yours, and you can't help but touch your sister's small breasts in the heat of the moment. [r_name] gasps at your touch and embraces you tightly."
+    "{i}Te abalanzas sobre [r_name] y le das un apasionado beso Su lengua busca ansiosamente la tuya y no puedes evitar tocar los pequeños pechos de tu hermana en el calor del momento [r_name] jadea ante tu contacto y te abraza con fuerza"
+
+# game/day15.rpy:1088
+translate spanish day15_r_licking_d9a8ccdb:
+
+    # "{i}You rush over and give [r_name] a passionate kiss. Her tongue eagerly seeks yours and you can't help but touch her small breasts in the heat of the moment. [r_name] gasps at your touch and embraces you tightly."
+    "{i}Te abalanzas sobre [r_name] y le das un apasionado beso Su lengua busca ansiosamente la tuya y no puedes evitar tocar sus pequeños pechos en el calor del momento [r_name] jadea ante tu contacto y te abraza con fuerza"
+
+# game/day15.rpy:1089
+translate spanish day15_r_licking_6497c849:
+
+    # r "This feels so good, to be together again. I'm so sorry for pushing you away. I was so stupid!"
+    r "Esto se siente tan bien, estar juntos de nuevo. Siento mucho haberte alejado. ¡Fui tan estúpida!"
+
+# game/day15.rpy:1090
+translate spanish day15_r_licking_8f18434a:
+
+    # r "Punish me if I do something that stupid again, okay?"
+    r "Castígame si hago algo tan estúpido de nuevo, ¿de acuerdo?"
+
+# game/day15.rpy:1091
+translate spanish day15_r_licking_300d5faf:
+
+    # p "Are you asking me to spank you?"
+    p "¿Me estás pidiendo que te azote?"
+
+# game/day15.rpy:1092
+translate spanish day15_r_licking_d77f86cf:
+
+    # r "You're such a naughty boy."
+    r "Eres un niño tan travieso."
+
+# game/day15.rpy:1093
+translate spanish day15_r_licking_1418274b:
+
+    # p "No, you asked for it!"
+    p "¡No, tú lo pediste!"
+
+# game/day15.rpy:1103
+translate spanish day15_r_licking_8589d79b:
+
+    # "{i}You pull your giggling sister on your lap and give her buttocks a very light spanking."
+    "{i}Tomas a tu hermana riendo en tu regazo y la das un azote muy leve en las nalgas."
+
+# game/day15.rpy:1105
+translate spanish day15_r_licking_79731387:
+
+    # "{i}You pull a giggling [r_name] on your lap and give her buttocks a very light spanking."
+    "{i}Sacas una risita [r_name] en tu regazo y la das un azote muy leve en las nalgas."
+
+# game/day15.rpy:1107
+translate spanish day15_r_licking_82145657:
+
+    # p "Promise you won't do that ever again!"
+    p "¡Promete que no volverás a hacer eso nunca más!"
+
+# game/day15.rpy:1108
+translate spanish day15_r_licking_df53fd40:
+
+    # r "Hahaha! I promise! Mercy!"
+    r "¡Jajaja! ¡Lo prometo! ¡Misericordia!"
+
+# game/day15.rpy:1109
+translate spanish day15_r_licking_120238af:
+
+    # p "Good. I think you have been sufficiently punished."
+    p "Bien. Creo que has sido suficientemente castigada."
+
+# game/day15.rpy:1111
+translate spanish day15_r_licking_229c7053:
+
+    # r "Good!"
+    r "¡Bien!"
+
+# game/day15.rpy:1112
+translate spanish day15_r_licking_91e77cae:
+
+    # r "But now that I'm a good girl again, don't I get a reward?"
+    r "Pero ahora que soy una buena chica otra vez, ¿no recibo una recompensa?"
+
+# game/day15.rpy:1113
+translate spanish day15_r_licking_be1a8c29:
+
+    # p "A reward? For what?"
+    p "¿Una recompensa? ¿Para qué?"
+
+# game/day15.rpy:1115
+translate spanish day15_r_licking_33f5cbf3:
+
+    # r "A reward for being your super cute sister, for example."
+    r "Una recompensa por ser tu hermana súper linda, por ejemplo."
+
+# game/day15.rpy:1117
+translate spanish day15_r_licking_a1c66895:
+
+    # r "A reward for being super cute, for example."
+    r "Una recompensa por ser súper linda, por ejemplo."
+
+# game/day15.rpy:1118
+translate spanish day15_r_licking_556c7b8e:
+
+    # p "Good point."
+    p "Buen apunte."
+
+# game/day15.rpy:1119
+translate spanish day15_r_licking_d6f44164:
+
+    # p "Let me kiss your cute body then."
+    p "Déjame besar tu lindo cuerpo entonces."
+
+# game/day15.rpy:1124
+translate spanish day15_r_licking_a7516fec:
+
+    # p "First your perfect breasts. Those freckled beauties."
+    p "Primero tus perfectos pechos. Esas bellezas pecosas."
+
+# game/day15.rpy:1125
+translate spanish day15_r_licking_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day15.rpy:1127
+translate spanish day15_r_licking_5cfe63c0:
+
+    # p "Let's not forget those soft nipples."
+    p "No olvidemos esos suaves pezones."
+
+# game/day15.rpy:1128
+translate spanish day15_r_licking_8369d944:
+
+    # r "Oooh! They're so sensitive."
+    r "¡Oooh! Son tan sensibles."
+
+# game/day15.rpy:1129
+translate spanish day15_r_licking_753b7519:
+
+    # "{i}You move down and leave a trail of kisses from her breasts to the underside of her belly."
+    "{i}Te mueves hacia abajo y dejas un rastro de besos desde sus tetas hasta la parte inferior de su vientre."
+
+# game/day15.rpy:1130
+translate spanish day15_r_licking_5a634af0:
+
+    # p "Your thighs need proper attention as well."
+    p "Tus muslos también necesitan la atención adecuada."
+
+# game/day15.rpy:1131
+translate spanish day15_r_licking_b352e2a4:
+
+    # r "Are you going to kiss me there, [p_name]?"
+    r "¿[p_name]... vas a besarme ahí?"
+
+# game/day15.rpy:1132
+translate spanish day15_r_licking_7a8400a2:
+
+    # "{i}[r_name] seems almost out of breath when she asks you, her voice filled with anticipation."
+    "{i}[r_name] parece casi sin aliento cuando te pregunta, su voz está llena de anticipación."
+
+# game/day15.rpy:1133
+translate spanish day15_r_licking_d8a3ffd9:
+
+    # p "Of course."
+    p "Por supuesto."
+
+# game/day15.rpy:1134
+translate spanish day15_r_licking_28c375e9:
+
+    # p "{i}(And then I'm going to surprise her.)"
+    p "{i}(Y luego la voy a sorprender)"
+
+# game/day15.rpy:1137
+translate spanish day15_r_licking_59de8410:
+
+    # "{i}As you kiss the soft flesh of your sister's thighs, you can smell the slight musk of her sex."
+    "{i}Mientras la besas la suave carne de los muslos de tu hermana, puedes oler el ligero aroma de su sexo."
+
+# game/day15.rpy:1139
+translate spanish day15_r_licking_a7162676:
+
+    # "{i}As you kiss the soft flesh of her thighs, you can smell the slight musk of her sex."
+    "{i}Cuando besas la suave carne de sus muslos puedes oler el ligero aroma de su sexo."
+
+# game/day15.rpy:1140
+translate spanish day15_r_licking_02730608:
+
+    # p "{i}(And now for the surprise...)"
+    p "{i}(Y ahora para la sorpresa...)"
+
+# game/day15.rpy:1141
+translate spanish day15_r_licking_6cef3773:
+
+    # "{i}[r_name] is clearly still enjoying the kissing of her thighs while you gently push her legs further apart. Her tight pussy is now fully revealed."
+    "{i}[r_name] claramente sigue disfrutando de los besos en sus muslos mientras empujas suavemente sus piernas para separarlas. Ahora su apretado coño se revela por completo."
+
+# game/day15.rpy:1144
+translate spanish day15_r_licking_1088e6a1:
+
+    # "{i}Without hesitation you move to her pussy. The sudden touch of your lips on her pussy lips sends a shockwave through your sister's body."
+    "{i}Sin dudarlo te mueves hacia su coño. El toque repentino de tus labios en los labios de su coño envía una onda de choque a través del cuerpo de tu hermana."
+
+# game/day15.rpy:1146
+translate spanish day15_r_licking_7ff3ab5e:
+
+    # "{i}Without hesitation you move to her pussy. The sudden touch of your lips on her pussy lips sends a shockwave through her body."
+    "{i}Sin dudarlo te mueves hacia su coño. El toque repentino de tus labios en los labios de su coño envía una onda de choque a través de su cuerpo."
+
+# game/day15.rpy:1147
+translate spanish day15_r_licking_bbf12726:
+
+    # r "W-w-what are you doing, [p_name]?"
+    r "¿Q-qué estás haciendo [p_name]?"
+
+# game/day15.rpy:1148
+translate spanish day15_r_licking_96aa8b84:
+
+    # p "Should I stop?"
+    p "¿Debería parar?"
+
+# game/day15.rpy:1149
+translate spanish day15_r_licking_fcdf87f0:
+
+    # r "No no... It's just that I've never had a boy go down on me like that before."
+    r "No, no... Es sólo que nunca he tenido un chico que se me haya echado encima de esa manera."
+
+# game/day15.rpy:1150
+translate spanish day15_r_licking_abcffc36:
+
+    # p "Just relax and enjoy."
+    p "Solo relájate y disfruta."
+
+# game/day15.rpy:1155
+translate spanish day15_r_licking_fcbc7dda:
+
+    # "{i}You run your tongue slowly along her pussy lips and get a first taste of her juices."
+    "{i}Pasas la lengua lentamente por los labios de su coño y pruebas por primera vez sus jugos."
+
+# game/day15.rpy:1156
+translate spanish day15_r_licking_a6c4fdcc:
+
+    # r "Ooooooh, God, [p_name]!"
+    r "¡Ooooooh, Dios, [p_name]!"
+
+# game/day15.rpy:1157
+translate spanish day15_r_licking_f27e7169:
+
+    # "{i}Encouraged by her soft moans you focus your attention fully on her pussy and lick her moist lips."
+    "{i}Animado por sus suaves gemidos, centras tu atención completamente en su coño y lames sus húmedos labios."
+
+# game/day15.rpy:1159
+translate spanish day15_r_licking_f9c3ce63:
+
+    # r "Keep going, [p_name], please!"
+    r "¡Continúa [p_name], por favor!"
+
+# game/day15.rpy:1160
+translate spanish day15_r_licking_c07be34b:
+
+    # p "Does it feel good, [r_name]?"
+    p "¿Se siente bien, [r_name]?"
+
+# game/day15.rpy:1161
+translate spanish day15_r_licking_f3630a90:
+
+    # r "Y-y-yesss! It's so much better than using your fingers."
+    r "¡S-s-sí! Es mucho mejor que usar los dedos."
+
+# game/day15.rpy:1163
+translate spanish day15_r_licking_e4078f14:
+
+    # "{i}After a soft start you quicken your tongue movements and get into a steady rhythm. Then you teasingly penetrate your sister's vagina with the tip of your tongue."
+    "{i}Después de un comienzo suave, aceleras los movimientos de tu lengua y entras en un ritmo constante. Luego penetras rítmicamente en la vagina de tu hermana con la punta de la lengua."
+
+# game/day15.rpy:1165
+translate spanish day15_r_licking_7d967691:
+
+    # "{i}After a soft start you quicken your tongue movements and get into a steady rhythm. Then you teasingly penetrate her vagina with the tip of your tongue."
+    "{i}Después de un comienzo suave, aceleras los movimientos de tu lengua y entras en un ritmo constante. Luego penetras rítmicamente en la vagina con la punta de la lengua."
+
+# game/day15.rpy:1167
+translate spanish day15_r_licking_2cc1569b:
+
+    # r "Mmmmm. I'm so wet, [p_name]. Aaaaah."
+    r "Mmmmm. Estoy tan mojada, [p_name]. Aaaaah."
+
+# game/day15.rpy:1168
+translate spanish day15_r_licking_e4f86125:
+
+    # "{i}[r_name]'s clitoris beckons and you intensify your attention on her little pearl."
+    "{i}El clítoris de [r_name] te llama y tú intensificas tu atención en su pequeña perla."
+
+# game/day15.rpy:1169
+translate spanish day15_r_licking_bff9574e:
+
+    # r "Yes, [p_name], right there. Keep going! Keep going!"
+    r "Sí, [p_name], ahí mismo. ¡Sigue! ¡Sigue!"
+
+# game/day15.rpy:1171
+translate spanish day15_r_licking_f8c8b2a5:
+
+    # "{i}All of your sister's muscles tighten in anticipation of a glorious release. [r_name] wriggles her lower body to position her pussy optimally beneath your lapping tongue."
+    "{i}Todos los músculos de tu hermana se tensan con impaciencia de una liberación Gloriosa. [r_name] mueve la parte inferior de su cuerpo para colocar su coño de manera óptima debajo de tu lengua lapeante."
+
+# game/day15.rpy:1173
+translate spanish day15_r_licking_db796e7a:
+
+    # "{i}All of [r_name]'s muscles tighten in anticipation of a glorious release. She wriggles her lower body to position her pussy optimally beneath your lapping tongue."
+    "{i}Todos los músculos de [r_name] se tensan con impaciencia de una liberación Gloriosa. Ella mueve la parte inferior de su cuerpo para colocar su coño de manera óptima debajo de tu lengua lapeante."
+
+# game/day15.rpy:1174
+translate spanish day15_r_licking_79a8d09d:
+
+    # r "Oh God, Oooh, [p_name], I'm about to..."
+    r "Oh Dios, Oooh, [p_name], estoy a punto de..."
+
+# game/day15.rpy:1181
+translate spanish day15_r_licking_e4e95425:
+
+    # r "C-c-cuuuummmmmm!!!"
+    r "Cc-correeeermeeeeee!!!"
+
+# game/day15.rpy:1182
+translate spanish day15_r_licking_a6a6ed04:
+
+    # "{i}[r_name] shudders and moans with abandon. You keep licking her clit to ensure her orgasm seems to last forever. When her convulsions subside, you kiss her pussy and lie next to her."
+    "{i}[r_name] se estremece y gime con abandono Sigues lamiendo su clítoris para asegurarte de que su orgasmo parece durar eternamente Cuando sus convulsiones se calman besas su coño y te tumbas a su lado."# TODO: Translation updated at 2023-07-06 13:54
+
+# game/day15.rpy:1188
+translate spanish day15_r_licking_5658ed48:
+
+    # r "That was... It was... You were great!"
+    r "Eso fue... Fue... ¡Estuviste genial!"
+
+# game/day15.rpy:1189
+translate spanish day15_r_licking_5dafe078:
+
+    # p "Your first time?"
+    p "¿Tu primera vez?"
+
+# game/day15.rpy:1190
+translate spanish day15_r_licking_ea419ffe:
+
+    # r "Yes. Unfortunately."
+    r "Sí. Lamentablemente."
+
+# game/day15.rpy:1191
+translate spanish day15_r_licking_4eb5e8a6:
+
+    # r "Alina wanted to do it with me last time we had a sleepover."
+    r "Alina quería hacerlo conmigo la última vez que tuvimos una pijamada."
+
+# game/day15.rpy:1193
+translate spanish day15_r_licking_ffe0d267:
+
+    # p "{i}(I knew those girls were up to something naughty!)"
+    p "{i}(¡Sabía que estas chicas estaban tramando algo malo!)"
+
+# game/day15.rpy:1194
+translate spanish day15_r_licking_c8debd6b:
+
+    # r "But I held it off. I thought it was a bit weird to go down on someone like that."
+    r "Pero la contuve. Pensé que era un poco extraño bajarse a alguien así."
+
+# game/day15.rpy:1196
+translate spanish day15_r_licking_574a4f5b:
+
+    # p "It's very intimate. And you taste very good, darling little sister."
+    p "Esto es muy íntimo. Y sabes muy bien, querida hermanita."
+
+# game/day15.rpy:1198
+translate spanish day15_r_licking_29293bbe:
+
+    # p "It's very intimate. And you taste very good, darling little [r_name]."
+    p "Esto es muy íntimo. Y sabes muy bien, querida pequeña [r_name]."
+
+# game/day15.rpy:1199
+translate spanish day15_r_licking_04b0ec1c:
+
+    # r "Mmmmm. Watch out. I might get addicted to this."
+    r "Mmmmm. Cuidado. Podría volverme adicta a esto."
+
+# game/day15.rpy:1200
+translate spanish day15_r_licking_de3384ca:
+
+    # p "Sweet dreams, [r_name]."
+    p "Dulces sueños, [r_name]."
+
+# game/day15.rpy:1201
+translate spanish day15_r_licking_5961bf0b:
+
+    # r "I love you!"
+    r "¡Te quiero!"
+
+# game/day15.rpy:1202
+translate spanish day15_r_licking_22e9f436:
+
+    # p "I love you too!"
+    p "¡Yo también te quiero!"
+

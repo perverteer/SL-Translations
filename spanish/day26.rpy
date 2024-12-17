@@ -5256,3 +5256,1607 @@ translate spanish day26_b_hotel_61de57db_2:
 
     # p "But you're not worried, are you? About us?"
     p "Pero no estás preocupado, ¿verdad? ¿Por nosotros?"
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day26.rpy:938
+translate spanish day26_discreet_session_e21bc220:
+
+    # "{i}You enter the lavishly furnished antechamber and wait for [m_name] to enter the room."
+    "{i}Entras en la antecámara lujosamente amueblada y esperas a que [m_name] entre en la habitación."
+
+# game/day26.rpy:940
+translate spanish day26_discreet_session_9df8647b:
+
+    # m "Mr. Holmes. I trust you're ready for what's coming."
+    m "Sr. Holmes. Confío en que esté listo para lo que viene."
+
+# game/day26.rpy:941
+translate spanish day26_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day26.rpy:942
+translate spanish day26_discreet_session_89f3e86a:
+
+    # m "Please choose one of the doors."
+    m "Elija una de las puertas."
+
+# game/day26.rpy:943
+translate spanish day26_discreet_session_6d3cb20f:
+
+    # "{i}After picking a door at random, [m_name] opens it and motions you through."
+    "{i}Después de elegir una puerta al azar, [m_name] lo abre y te hace pasar."
+
+# game/day26.rpy:945
+translate spanish day26_discreet_session_dab1d29f:
+
+    # p "{i}(A living room?)"
+    p "{i}(¿Una salón?)"
+
+# game/day26.rpy:946
+translate spanish day26_discreet_session_9d481581:
+
+    # m "Ah. A homely setting."
+    m "Ah. Un ambiente hogareño."
+
+# game/day26.rpy:948
+translate spanish day26_discreet_session_f5bb0b3b:
+
+    # m "Your sister will be home shortly... son..."
+    m "Tu hermana estará en casa pronto... hijo..."
+
+# game/day26.rpy:949
+translate spanish day26_discreet_session_8c9d8bb2:
+
+    # p "{i}(What the?! My sister?!)"
+    p "{i}(¡¿Qué?! ¿Mi hermana?!)"
+
+# game/day26.rpy:950
+translate spanish day26_discreet_session_c78409ff:
+
+    # p "{i}(What the fuck is this? Did she find out?!)"
+    p "{i}(¿Qué demonios es esto? ¡¿Lo descubrió?!)"
+
+# game/day26.rpy:951
+translate spanish day26_discreet_session_63a3b331:
+
+    # p "My sister, mistress?"
+    p "¿Mi hermana, ama?"
+
+# game/day26.rpy:952
+translate spanish day26_discreet_session_bf7253da:
+
+    # m "Yes, your sister Adriana. And you will address me as 'mother' for the duration of the session."
+    m "Sí, tu hermana Adriana. Y me llamarás 'madre' mientras dure la sesión."
+
+# game/day26.rpy:953
+translate spanish day26_discreet_session_25bcb7fa:
+
+    # p "{i}(Adriana... Phew...)"
+    p "{i}(Adriana... Uf...)"
+
+# game/day26.rpy:954
+translate spanish day26_discreet_session_7ca190d2:
+
+    # m "Surely you've heard of incest role-play? It's all the rage these days."
+    m "Seguro que has oído hablar de los juegos de rol de incesto. Está de moda últimamente."
+
+# game/day26.rpy:955
+translate spanish day26_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day26.rpy:956
+translate spanish day26_discreet_session_ce8d3c65:
+
+    # m "Remember: 'mother' or 'mom'."
+    m "Recuerda: 'madre' o 'mamá'."
+
+# game/day26.rpy:957
+translate spanish day26_discreet_session_eee57d36:
+
+    # p "Yes, mom."
+    p "Sí, mamá."
+
+# game/day26.rpy:958
+translate spanish day26_discreet_session_33d851bf:
+
+    # m "Been scouring the web for porn, have you, dirty boy?"
+    m "Has estado buscando porno en la web, ¿verdad, chico sucio?"
+
+# game/day26.rpy:960
+translate spanish day26_discreet_session_4a867323:
+
+    # m "Your fellow tenant will be home shortly."
+    m "Su compañera inquilina estará en casa en breve."
+
+# game/day26.rpy:961
+translate spanish day26_discreet_session_e9febf1c:
+
+    # p "{i}(What the?! Tennant, what weird-ass fetish is this supposed to be?!)"
+    p "{i}(¡¿Qué demonios?! Inquilina, ¿qué fetiche raro se supone que es?!)"
+
+# game/day26.rpy:962
+translate spanish day26_discreet_session_c588f0eb:
+
+    # p "Tennant, mistress?"
+    p "Inquilina, ama?"
+
+# game/day26.rpy:963
+translate spanish day26_discreet_session_9ab169d5:
+
+    # m "Yes, your fellow tenant Adriana. And you will address me as 'landlady' for the duration of the session."
+    m "Sí, tu compañera de piso Adriana. Y me llamarás 'casera' durante la sesión."
+
+# game/day26.rpy:964
+translate spanish day26_discreet_session_afa63fd5:
+
+    # m "Surely you've heard of this type of role-play? It's all the rage these days."
+    m "Seguro que has oído hablar de este tipo de juegos de rol. Está de moda últimamente."
+
+# game/day26.rpy:965
+translate spanish day26_discreet_session_5c5cbf80:
+
+    # p "Not really no, mistress."
+    p "No realmente no, ama."
+
+# game/day26.rpy:966
+translate spanish day26_discreet_session_a6db30f5:
+
+    # m "'Landlady' and you're about to find out."
+    m "'casera' y estás a punto de descubrirlo."
+
+# game/day26.rpy:968
+translate spanish day26_discreet_session_c20ad542:
+
+    # "{i}At that moment, Adriana steps through another door in the room."
+    "{i}En ese momento, Adriana entra por otra puerta de la habitación."
+
+# game/day26.rpy:970
+translate spanish day26_discreet_session_52021504:
+
+    # ad "Hi mom."
+    ad "Hola mamá."
+
+# game/day26.rpy:971
+translate spanish day26_discreet_session_5939d6e3:
+
+    # p "{i}(This is so fucking weird.)"
+    p "{i}(Esto es jodidamente extraño.)"
+
+# game/day26.rpy:973
+translate spanish day26_discreet_session_20689fe5:
+
+    # ad "Hi all."
+    ad "Hola a todos."
+
+# game/day26.rpy:975
+translate spanish day26_discreet_session_b54a118a:
+
+    # m "Adriana, you're late."
+    m "Adriana, llegas tarde."
+
+# game/day26.rpy:976
+translate spanish day26_discreet_session_945e6d43:
+
+    # m "And why do you look like a fucking whore?"
+    m "¿Y por qué pareces una puta de mierda?"
+
+# game/day26.rpy:977
+translate spanish day26_discreet_session_5b3c8008:
+
+    # ad "I don't, I like my clothes."
+    ad "No, me gusta mi ropa."
+
+# game/day26.rpy:979
+translate spanish day26_discreet_session_e84c6c2d:
+
+    # m "What do you think, son, is your sister dressing like a slut?"
+    m "¿Qué crees, hijo, que tu hermana se viste como una puta?"
+
+# game/day26.rpy:980
+translate spanish day26_discreet_session_1ea83d23:
+
+    # p "Yes, mother."
+    p "Sí, madre."
+
+# game/day26.rpy:981
+translate spanish day26_discreet_session_a2635d8a:
+
+    # m "See, even your brother thinks you look like a skank."
+    m "Mira, incluso tu hermano cree que pareces una zorra."
+
+# game/day26.rpy:983
+translate spanish day26_discreet_session_6641579c:
+
+    # m "What do you think, tenant, is your friend here dressing like a slut?"
+    m "¿Qué te parece, inquilino, tu amiga aquí está vestida como una puta?"
+
+# game/day26.rpy:984
+translate spanish day26_discreet_session_aef04645:
+
+    # p "Yes, landlady."
+    p "Sí, casera."
+
+# game/day26.rpy:985
+translate spanish day26_discreet_session_742a1e07:
+
+    # m "See, even your fellow tenant thinks you look like a skank."
+    m "Mira, incluso tu compañero inquilino cree que pareces una zorra."
+
+# game/day26.rpy:986
+translate spanish day26_discreet_session_fdea1318:
+
+    # m "You're going to put on something decent at once."
+    m "Te vas a poner algo decente de una vez."
+
+# game/day26.rpy:987
+translate spanish day26_discreet_session_c2bfab5a:
+
+    # ad "No I won't!"
+    ad "¡No, no lo haré!"
+
+# game/day26.rpy:988
+translate spanish day26_discreet_session_12af3b5d:
+
+    # m "Yes you will."
+    m "Sí, lo harás."
+
+# game/day26.rpy:989
+translate spanish day26_discreet_session_d37482fd:
+
+    # ad "No, fuck you!"
+    ad "¡No, vete a la mierda!"
+
+# game/day26.rpy:990
+translate spanish day26_discreet_session_6fa66bac:
+
+    # "{i}Adriana attempts to storm out of the room in mock outrage."
+    "{i}Adriana intenta salir de la habitación con fingida indignación."
+
+# game/day26.rpy:991
+translate spanish day26_discreet_session_eb614dfd:
+
+    # m "Grab her."
+    m "Agárrala."
+
+# game/day26.rpy:996
+translate spanish day26_discreet_session_1a347c8a:
+
+    # ad "No, no! Leave me alone."
+    ad "No, no! Déjame en paz."
+
+# game/day26.rpy:998
+translate spanish day26_discreet_session_8ef75ac6:
+
+    # m "I think your sister needs a lesson, don't you think?"
+    m "Creo que tu hermana necesita una lección, ¿no te parece?"
+
+# game/day26.rpy:1000
+translate spanish day26_discreet_session_cfa05673:
+
+    # m "I think this girl here needs a lesson, don't you think?"
+    m "Creo que esta chica de aquí necesita una lección, ¿no te parece?"
+
+# game/day26.rpy:1001
+translate spanish day26_discreet_session_b2590a77:
+
+    # ad "Leave me alone!"
+    ad "¡Déjame en paz!"
+
+# game/day26.rpy:1002
+translate spanish day26_discreet_session_5bdf518e:
+
+    # "{i}You forcefully return Adriana to [m_name], who bends her over her knee."
+    "{i}Devuelves a Adriana a [m_name], que la dobla sobre sus rodillas."
+
+# game/day26.rpy:1004
+translate spanish day26_discreet_session_6b327923:
+
+    # m "Your ass needs a good spanking."
+    m "Tu culo necesita unos buenos azotes."
+
+# game/day26.rpy:1006
+translate spanish day26_discreet_session_d750e432:
+
+    # ad "No!"
+    ad "¡No!"
+
+# game/day26.rpy:1008
+translate spanish day26_discreet_session_b539e879:
+
+    # m "Get the paddle, son."
+    m "Trae la paleta, hijo."
+
+# game/day26.rpy:1010
+translate spanish day26_discreet_session_6a9e63ca:
+
+    # m "Get the paddle."
+    m "Trae la paleta."
+
+# game/day26.rpy:1011
+translate spanish day26_discreet_session_0ed28e32:
+
+    # p "{i}(Paddle? Oh shit, she means that wooden thing. Really glad [m_name] doesn't do corporal punishment back at home.)"
+    p "{i}(¿Paleta? Oh, mierda, se refiere a esa cosa de madera. Realmente me alegra que [m_name] no haga castigos corporales en casa.)"
+
+# game/day26.rpy:1028
+translate spanish day26_discreet_session_5eccc69e:
+
+    # "{i}After you hand your mother the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Después de entregarle a tu madre la paleta, ella golpea a Adriana en las nalgas con el instrumento de madera."
+
+# game/day26.rpy:1030
+translate spanish day26_discreet_session_98a633f8:
+
+    # "{i}After you hand [m_name] the paddle, she proceeds to strike Adriana on the buttocks with the wooden instrument."
+    "{i}Después de que entregas [m_name] la paleta, ella golpea a Adriana en las nalgas con el instrumento de madera."
+
+# game/day26.rpy:1031
+translate spanish day26_discreet_session_366964ef:
+
+    # ad "Ow, fuck, it hurts!"
+    ad "Ow, joder, me duele!"
+
+# game/day26.rpy:1032
+translate spanish day26_discreet_session_fb234750:
+
+    # m "It's supposed to hurt, sweetie. We have to beat the slut out of you."
+    m "Se supone que duele, cariño. Tenemos que sacarte a golpes a la puta."
+
+# game/day26.rpy:1034
+translate spanish day26_discreet_session_712638fc:
+
+    # ad "I'm not a slut... Owww!"
+    ad "No soy una puta... ¡Owww!"
+
+# game/day26.rpy:1035
+translate spanish day26_discreet_session_d1493679:
+
+    # m "Yes you are."
+    m "Sí lo eres."
+
+# game/day26.rpy:1036
+translate spanish day26_discreet_session_a0845fa5:
+
+    # ad "No! I'm an independent woman!"
+    ad "¡No! ¡Soy una mujer independiente!"
+
+# game/day26.rpy:1046
+translate spanish day26_discreet_session_6d7aa8ad:
+
+    # "{i}[m_name] slaps harder and harder, vicious red marks appear on Adriana's ass as she keeps her teeth clenched in pain, unable to speak."
+    "{i}[m_name] abofetea cada vez más fuerte aparecen viciosas marcas rojas en el culo de Adriana que mantiene los dientes apretados de dolor incapaz de hablar"
+
+# game/day26.rpy:1048
+translate spanish day26_discreet_session_95abbb5d:
+
+    # m "Don't make me laugh, girl, you just dress up to get men to fuck you."
+    m "No me hagas reír, chica, sólo te vistes para que los hombres te follen."
+
+# game/day26.rpy:1049
+translate spanish day26_discreet_session_fdf5f539:
+
+    # ad "Nnn-o!"
+    ad "Nnn-o!"
+
+# game/day26.rpy:1050
+translate spanish day26_discreet_session_f855ff93:
+
+    # m "I can't hear you, you're blubbering."
+    m "No puedo oírte, estás llorando."
+
+# game/day26.rpy:1051
+translate spanish day26_discreet_session_1ab372c9:
+
+    # m "I'll stop when you admit the truth. Say you're a slut."
+    m "Me detendré cuando admitas la verdad. Di que eres una puta."
+
+# game/day26.rpy:1052
+translate spanish day26_discreet_session_d750e432_1:
+
+    # ad "No!"
+    ad "¡No!"
+
+# game/day26.rpy:1054
+translate spanish day26_discreet_session_7a98cddb:
+
+    # m "Say you're a slut!"
+    m "¡Di que eres una puta!"
+
+# game/day26.rpy:1055
+translate spanish day26_discreet_session_d750e432_2:
+
+    # ad "No!"
+    ad "¡No!"
+
+# game/day26.rpy:1062
+translate spanish day26_discreet_session_50e84ea8:
+
+    # m "Say you're a slut!!!"
+    m "¡Di que eres una puta!"
+
+# game/day26.rpy:1063
+translate spanish day26_discreet_session_d94eedd1:
+
+    # ad "Owwwww!"
+    ad "Owwwww!"
+
+# game/day26.rpy:1064
+translate spanish day26_discreet_session_31c6e31c:
+
+    # ad "I-m a slut..."
+    ad "Soy una puta..."
+
+# game/day26.rpy:1066
+translate spanish day26_discreet_session_c114fbdd:
+
+    # m "I can't hear you."
+    m "No puedo oirte."
+
+# game/day26.rpy:1067
+translate spanish day26_discreet_session_7a66d670:
+
+    # ad "I'm a slut!"
+    ad "Soy una puta!"
+
+# game/day26.rpy:1071
+translate spanish day26_discreet_session_879dd93b:
+
+    # m "Good girl."
+    m "Buena chica."
+
+# game/day26.rpy:1072
+translate spanish day26_discreet_session_857aba8a:
+
+    # ad "Can I go to my room now?"
+    ad "¿Puedo irme a mi habitación ahora?"
+
+# game/day26.rpy:1073
+translate spanish day26_discreet_session_47ba7d94:
+
+    # m "No."
+    m "No."
+
+# game/day26.rpy:1074
+translate spanish day26_discreet_session_696df66c:
+
+    # m "It's too late for that now."
+    m "Es demasiado tarde para eso ahora."
+
+# game/day26.rpy:1075
+translate spanish day26_discreet_session_5fb52f79:
+
+    # m "I know you girl, dressing up like a hussy and prowling the streets, looking for men. You're insatiable."
+    m "Te conozco chica, vistiéndose como una libertina y merodeando por las calles, buscando hombres. Eres insaciable."
+
+# game/day26.rpy:1076
+translate spanish day26_discreet_session_293ae9b5:
+
+    # ad "It's just a skirt."
+    ad "Es solo una falda."
+
+# game/day26.rpy:1077
+translate spanish day26_discreet_session_49a6255f:
+
+    # m "No it's not. It's a symbol."
+    m "No, no lo es. Es un símbolo."
+
+# game/day26.rpy:1079
+translate spanish day26_discreet_session_9a5f982c:
+
+    # m "But if you're that desperate for cock, your brother will show you what a real man is."
+    m "Pero si estás tan desesperada por una polla, tu hermano te mostrará lo que es un hombre de verdad."
+
+# game/day26.rpy:1081
+translate spanish day26_discreet_session_e445b529:
+
+    # m "But if you're that desperate for cock, your fellow tenant will show you what a real man is."
+    m "Pero si estás tan desesperada por una polla, tu compañero inquilino te mostrará lo que es un hombre de verdad."
+
+# game/day26.rpy:1082
+translate spanish day26_discreet_session_18513f0f:
+
+    # ad "You're going to let him fuck me?"
+    ad "¿Vas a dejar que me folle?"
+
+# game/day26.rpy:1083
+translate spanish day26_discreet_session_857b34c3:
+
+    # m "That's right."
+    m "Así es."
+
+# game/day26.rpy:1084
+translate spanish day26_discreet_session_d2ad403e:
+
+    # m "Why don't you get on your knees and suck his dick?"
+    m "¿Por qué no te arrodillas y le chupas la polla?"
+
+# game/day26.rpy:1087
+translate spanish day26_discreet_session_5e0c8dee:
+
+    # "{i}Taking her cue you drop your pants and present Adriana with your stiffening erection."
+    "{i}Siguiendo su ejemplo, te bajas los pantalones y le presentas a Adriana tu rígida erección."
+
+# game/day26.rpy:1088
+translate spanish day26_discreet_session_71f71398:
+
+    # "{i}Adriana acts hesitant, but the look in her eyes is one of hunger. With deft hands she has your cock at full mast in no time."
+    "{i}Adriana actúa vacilante, pero la mirada en sus ojos es de hambre. Con manos hábiles tiene tu polla a tope en poco tiempo."
+
+# game/day26.rpy:1093
+translate spanish day26_discreet_session_aef75d6d:
+
+    # m "Good, suck on that, you little bitch."
+    m "Bien, chúpate esa, pequeña zorra."
+
+# game/day26.rpy:1094
+translate spanish day26_discreet_session_99cb148b:
+
+    # m "Take it all the way."
+    m "Llévalo hasta el final."
+
+# game/day26.rpy:1102
+translate spanish day26_discreet_session_a0bc5746:
+
+    # "{i}You push your cock deeper inside Adriana's throat. She gags and saliva is leaking from the corners of her mouth."
+    "{i}Empujas tu polla más profundamente dentro de la garganta de Adriana. Ella tiene arcadas y la saliva se escapa por las comisuras de su boca."
+
+# game/day26.rpy:1104
+translate spanish day26_discreet_session_7c4409eb:
+
+    # m "We're going to use all of your holes, your brother and I."
+    m "Vamos a usar todos tus agujeros, tu hermano y yo."
+
+# game/day26.rpy:1105
+translate spanish day26_discreet_session_25a1f0ea:
+
+    # ad "Y-yes, mother."
+    ad "S-sí, madre."
+
+# game/day26.rpy:1107
+translate spanish day26_discreet_session_9a4957b0:
+
+    # m "We're going to use all of your holes, Adriana."
+    m "Vamos a usar todos tus agujeros, Adriana."
+
+# game/day26.rpy:1108
+translate spanish day26_discreet_session_de10e825:
+
+    # ad "Y-yes, landlady."
+    ad "S-sí, casera."
+
+# game/day26.rpy:1110
+translate spanish day26_discreet_session_39037dfb:
+
+    # "{i}While Adriana is drooling all over her chest, you begin to fuck her throat."
+    "{i}Mientras Adriana está babeando sobre su pecho, comienzas a follarte su garganta."
+
+# game/day26.rpy:1112
+translate spanish day26_discreet_session_f8fd10bf:
+
+    # m "That's it, right there, make her savor that dick of yours."
+    m "Eso es, justo ahí, hazla saborear esa polla tuya."
+
+# game/day26.rpy:1113
+translate spanish day26_discreet_session_a9e11976:
+
+    # "{i}Adriana can only gurgle and looks up at you with teary eyes. The look she gives you is not one of sadness but conveys a depravity that nearly makes you coat her throat with seed."
+    "{i}Adriana solo puede gorgotear y mirarte con ojos llorosos, la mirada que te da no es de tristeza, sino que transmite una depravación que casi te hace cubrir su garganta con semillas."
+
+# game/day26.rpy:1114
+translate spanish day26_discreet_session_e51d19cf:
+
+    # m "Only allow her to breathe if you feel she deserves it."
+    m "Solo déjala respirar si sientes que se lo merece."
+
+# game/day26.rpy:1117
+translate spanish day26_discreet_session_07f50341:
+
+    # "{i}Your mother retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}Tu madre recupera algo de un armario y se desnuda. Cuando reaparece en tu campo de visión, lo único que lleva puesto es un strap-on."
+
+# game/day26.rpy:1119
+translate spanish day26_discreet_session_d359f835:
+
+    # "{i}[m_name] retrieves something from a closet and undresses. When she reappears in your field of view, the only thing she's wearing is a strap-on dildo."
+    "{i}[m_name] recupera algo de un armario y se desnuda. Cuando reaparece en tu campo de visión, lo único que lleva puesto es un strap-on."
+
+# game/day26.rpy:1120
+translate spanish day26_discreet_session_de920d7c:
+
+    # p "{i}(I am not, repeat NOT going to be the ass-end of a human centipede.)"
+    p "{i}(No lo soy, repito, no voy a ser el extremo del culo de un ciempiés humano.)"
+
+# game/day26.rpy:1124
+translate spanish day26_discreet_session_1f59d6a7:
+
+    # m "Are you ready to fuck your sister?"
+    m "¿Estás listo para follarte a tu hermana?"
+
+# game/day26.rpy:1125
+translate spanish day26_discreet_session_1ea83d23_1:
+
+    # p "Yes, mother."
+    p "Sí, madre."
+
+# game/day26.rpy:1127
+translate spanish day26_discreet_session_3242f70b:
+
+    # m "Are you ready to fuck your fellow tenant?"
+    m "¿Estás listo para follarte a tu compañera inquilina?"
+
+# game/day26.rpy:1128
+translate spanish day26_discreet_session_aef04645_1:
+
+    # p "Yes, landlady."
+    p "Sí, casera."
+
+# game/day26.rpy:1129
+translate spanish day26_discreet_session_4c2f3098:
+
+    # m "Good boy, we'll do it together."
+    m "Buen chico, lo haremos juntos."
+
+# game/day26.rpy:1131
+translate spanish day26_discreet_session_80ed1a92:
+
+    # "{i}When you pull out of Adriana's mouth she gasps for air, mucus running in thick strands from her lips to your cock."
+    "{i}Cuando sales de la boca de Adriana, ella jadea por aire, la mucosidad se extiende en gruesos mechones desde sus labios hasta tu polla."
+
+# game/day26.rpy:1133
+translate spanish day26_discreet_session_527dbb63:
+
+    # m "You've made your brother's cock all hard and wet, now do the same to mommy's."
+    m "Hiciste que la polla de tu hermano fuera dura y húmeda, ahora haz lo mismo con la de mamá."
+
+# game/day26.rpy:1135
+translate spanish day26_discreet_session_30ee6c5f:
+
+    # m "You've made your fellow tenant's cock all hard and wet, now do the same to mine."
+    m "Hiciste la polla de tu compañero inquilino toda dura y húmeda, ahora haz lo mismo con la mía."
+
+# game/day26.rpy:1137
+translate spanish day26_discreet_session_e5ab80c7:
+
+    # "{i}[m_name] thrusts the shiny black thing inside Adriana's throat and keeps it there until the girl struggles to keep it in. When she pulls out, Adriana nearly collapses to the floor."
+    "{i}[m_name] empuja la cosa negra y brillante dentro de la garganta de Adriana y la mantiene allí hasta que la chica lucha por mantenerla adentro. Cuando se retira, Adriana casi se desploma en el suelo."
+
+# game/day26.rpy:1138
+translate spanish day26_discreet_session_77430063:
+
+    # m "Again."
+    m "Otra vez."
+
+# game/day26.rpy:1140
+translate spanish day26_discreet_session_cfa109e5:
+
+    # ad "Yes, mother."
+    ad "Sí, madre."
+
+# game/day26.rpy:1142
+translate spanish day26_discreet_session_db223938:
+
+    # ad "Yes, landlady."
+    ad "Sí, casera."
+
+# game/day26.rpy:1145
+translate spanish day26_discreet_session_9f0d12fd:
+
+    # m "How do you want to use her, son?"
+    m "¿Cómo quieres usarla, hijo?"
+
+# game/day26.rpy:1147
+translate spanish day26_discreet_session_f24a5df5:
+
+    # m "How do you want to use her, boy?"
+    m "¿Cómo quieres usarla, muchacho?"
+
+# game/day26.rpy:1160
+translate spanish day26_discreet_session_3366b021:
+
+    # "{i}You spread Adriana's legs and push your cock against her slit. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Abres las piernas de Adriana y empujas tu polla contra su raja. La chica simplemente deja que suceda y empujas tu rabo húmedo profundamente dentro de ella."
+
+# game/day26.rpy:1161
+translate spanish day26_discreet_session_89475d23:
+
+    # m "Ah, her sweet pussy, good choice."
+    m "Ah, su dulce coño, buena elección."
+
+# game/day26.rpy:1162
+translate spanish day26_discreet_session_1be0ec35:
+
+    # m "Now fuck her."
+    m "Ahora fóllatela."
+
+# game/day26.rpy:1166
+translate spanish day26_discreet_session_95a42efd:
+
+    # ad "Mmmmmm..."
+    ad "Mmmmmm..."
+
+# game/day26.rpy:1169
+translate spanish day26_discreet_session_b8925de9:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Después de haber establecido un ritmo de profundos empujes, tu madre se posiciona detrás de Adriana. De repente, su coño se siente mucho más apretado que antes."
+
+# game/day26.rpy:1170
+translate spanish day26_discreet_session_cead87c0:
+
+    # ad "Are you inside me, mommy?"
+    ad "¿Estás dentro de mí, mami?"
+
+# game/day26.rpy:1172
+translate spanish day26_discreet_session_e8796c7c:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself behind Adriana. Suddenly her cunt feels much tighter than before."
+    "{i}Después de haber establecido un ritmo de profundos empujes, [m_name] se posiciona detrás de Adriana. De repente, su coño se siente mucho más apretado que antes."
+
+# game/day26.rpy:1173
+translate spanish day26_discreet_session_2d4847a9:
+
+    # ad "Are you inside me?"
+    ad "¿Estás dentro de mí?"
+
+# game/day26.rpy:1174
+translate spanish day26_discreet_session_dff00f31:
+
+    # ad "Inside my ass?"
+    ad "¿Dentro de mi culo?"
+
+# game/day26.rpy:1175
+translate spanish day26_discreet_session_533fd5d7:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Sí, pequeña zorra, te haremos sentir tan bien que nunca querrás otro hombre en tu vida."
+
+# game/day26.rpy:1181
+translate spanish day26_discreet_session_9abdd26d:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Tanto [m_name] como tú nunca le dan a Adriana un momento de descanso. Los pistones del strap-on dentro de su culo sin piedad y tú alternando golpes rápidos y largos, penetrando en ella cada vez más profundamente."
+
+# game/day26.rpy:1183
+translate spanish day26_discreet_session_a67dcfc3:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without any restraint."
+    "{i}La mirada inicial de inquietud de Adriana es reemplazada por un completo éxtasis mientras gime sin ninguna contención."
+
+# game/day26.rpy:1186
+translate spanish day26_discreet_session_22c2e5b8:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(No se lo voy a decir, pero el Sr. Holmes y yo formamos un buen equipo. Nunca he visto a Adriana perderse tan completamente.)"
+
+# game/day26.rpy:1187
+translate spanish day26_discreet_session_b4b76819:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(¿Debería permitirle...)"
+
+# game/day26.rpy:1188
+translate spanish day26_discreet_session_2a232f2c:
+
+    # m "{i}(No...)"
+    m "{i}(No...)"
+
+# game/day26.rpy:1189
+translate spanish day26_discreet_session_a93ba455:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Quizás en el contexto de este juego de roles...)"
+
+# game/day26.rpy:1191
+translate spanish day26_discreet_session_edc74c7a:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(A la mierda. Quiero hacerlo.)"
+
+# game/day26.rpy:1193
+translate spanish day26_discreet_session_fe569eea:
+
+    # m "Kiss your mother, son."
+    m "Besa a tu madre, hijo."
+
+# game/day26.rpy:1195
+translate spanish day26_discreet_session_d43c5d70:
+
+    # m "Kiss me, boy."
+    m "Bésame, muchacho."
+
+# game/day26.rpy:1196
+translate spanish day26_discreet_session_cf051d1a:
+
+    # p "{i}(No way!)"
+    p "{i}(¡No puede ser!)"
+
+# game/day26.rpy:1199
+translate spanish day26_discreet_session_20af5824:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sin dudarlo, tú lo haces. El beso que intercambias es totalmente diferente al de la cama de tu madre. Hay pasión, no, hambre detrás de él y su lengua explora ansiosamente la tuya."
+
+# game/day26.rpy:1201
+translate spanish day26_discreet_session_5fa17325:
+
+    # "{i}Without hesitation, you oblige. The kiss you exchange is wholly different from the one you experienced in her bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sin dudarlo, tú lo haces. El beso que intercambias es completamente diferente del que experimentaste en su cama. Hay pasión, no, hambre detrás de ella y su lengua explora ansiosamente la tuya."
+
+# game/day26.rpy:1203
+translate spanish day26_discreet_session_4dee552f:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Las máscaras que ambos usan están muy en el medio, pero el beso todavía te deja dando vueltas."
+
+# game/day26.rpy:1206
+translate spanish day26_discreet_session_f404eda9:
+
+    # m "Don't forget to keep fucking your sister."
+    m "No olvides seguir follando a tu hermana."
+
+# game/day26.rpy:1208
+translate spanish day26_discreet_session_78356733:
+
+    # m "Don't forget to keep fucking that pussy."
+    m "No te olvides de seguir follando ese coño."
+
+# game/day26.rpy:1217
+translate spanish day26_discreet_session_575a57e1:
+
+    # "{i}You spread Adriana's buttocks and push your cock against her anus. The girl just lets it happen and you thrust your wet shaft deep inside her."
+    "{i}Extiendes las nalgas de Adriana y empujas tu polla contra su ano. La chica simplemente deja que suceda y empujas tu rabo húmedo profundamente dentro de ella."
+
+# game/day26.rpy:1218
+translate spanish day26_discreet_session_94aba323:
+
+    # ad "Ooooh, god!"
+    ad "Ooooh, dios!"
+
+# game/day26.rpy:1219
+translate spanish day26_discreet_session_dd5bf5aa:
+
+    # m "Ah, her asshole, nice and tight, good choice."
+    m "Ah, su culo, agradable y apretado, buena elección."
+
+# game/day26.rpy:1220
+translate spanish day26_discreet_session_1be0ec35_1:
+
+    # m "Now fuck her."
+    m "Ahora fóllatela."
+
+# game/day26.rpy:1223
+translate spanish day26_discreet_session_1aebea9e:
+
+    # "{i}After you've established a rhythm of deep thrusts, your mother positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Después de haber establecido un ritmo de profundos empujes, tu madre se coloca entre las piernas de Adriana. De repente, su culo se siente mucho más apretado que antes."
+
+# game/day26.rpy:1224
+translate spanish day26_discreet_session_cead87c0_1:
+
+    # ad "Are you inside me, mommy?"
+    ad "¿Estás dentro de mí, mami?"
+
+# game/day26.rpy:1226
+translate spanish day26_discreet_session_24bad093:
+
+    # "{i}After you've established a rhythm of deep thrusts, [m_name] positions herself between Adriana's legs. Suddenly her ass feels much tighter than before."
+    "{i}Después de haber establecido un ritmo de profundos empujes, [m_name] se coloca entre las piernas de Adriana. De repente, su culo se siente mucho más apretado que antes."
+
+# game/day26.rpy:1227
+translate spanish day26_discreet_session_2d4847a9_1:
+
+    # ad "Are you inside me?"
+    ad "¿Estás dentro de mí?"
+
+# game/day26.rpy:1228
+translate spanish day26_discreet_session_a0158813:
+
+    # ad "Inside my pussy?"
+    ad "¿Dentro de mi coño?"
+
+# game/day26.rpy:1229
+translate spanish day26_discreet_session_533fd5d7_1:
+
+    # m "Yes, you little slut, we're going to make you feel so good you'll never want another man in your life."
+    m "Sí, pequeña zorra, te haremos sentir tan bien que nunca querrás otro hombre en tu vida."
+
+# game/day26.rpy:1234
+translate spanish day26_discreet_session_9abdd26d_1:
+
+    # "{i}Both you and [m_name] never give Adriana a moment's rest. The strap-on pistons mercilessly inside her asshole, and you alternate between quick and long strokes, penetrating her ever more deeply."
+    "{i}Tanto [m_name] como tú nunca le dan a Adriana un momento de descanso. Los pistones del strap-on dentro de su culo sin piedad y tú alternando golpes rápidos y largos, penetrando en ella cada vez más profundamente."
+
+# game/day26.rpy:1236
+translate spanish day26_discreet_session_111ad91b:
+
+    # "{i}Adriana's initial look of unease is replaced by complete rapture as she moans without restraint."
+    "{i}La mirada inicial de inquietud de Adriana es sustituida por un completo éxtasis mientras gime sin freno"
+
+# game/day26.rpy:1239
+translate spanish day26_discreet_session_22c2e5b8_1:
+
+    # m "{i}(I'm not going to say it to him, but Mr. Holmes and I make a good team. I've never seen Adriana lose it so completely.)"
+    m "{i}(No se lo voy a decir, pero el Sr. Holmes y yo formamos un buen equipo. Nunca he visto a Adriana perderse tan completamente.)"
+
+# game/day26.rpy:1240
+translate spanish day26_discreet_session_b4b76819_1:
+
+    # m "{i}(Shall I allow him...)"
+    m "{i}(¿Debería permitirle...)"
+
+# game/day26.rpy:1241
+translate spanish day26_discreet_session_2a232f2c_1:
+
+    # m "{i}(No...)"
+    m "{i}(No...)"
+
+# game/day26.rpy:1242
+translate spanish day26_discreet_session_a93ba455_1:
+
+    # m "{i}(Maybe in the context of this role-play...)"
+    m "{i}(Quizás en el contexto de este juego de roles...)"
+
+# game/day26.rpy:1243
+translate spanish day26_discreet_session_edc74c7a_1:
+
+    # m "{i}(Fuck it. I want to.)"
+    m "{i}(A la mierda. Quiero hacerlo.)"
+
+# game/day26.rpy:1245
+translate spanish day26_discreet_session_fe569eea_1:
+
+    # m "Kiss your mother, son."
+    m "Besa a tu madre, hijo."
+
+# game/day26.rpy:1247
+translate spanish day26_discreet_session_d43c5d70_1:
+
+    # m "Kiss me, boy."
+    m "Bésame, muchacho."
+
+# game/day26.rpy:1248
+translate spanish day26_discreet_session_cf051d1a_1:
+
+    # p "{i}(No way!)"
+    p "{i}(¡No puede ser!)"
+
+# game/day26.rpy:1250
+translate spanish day26_discreet_session_128fef0a:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and your mother moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] se retira de Adriana, que jadea sorprendida y tu madre se mueve hacia ti. Empuja a un lado a la chica, cuyo culo sigue recibiendo un golpe de tu polla, y una sorprendida Adriana casi cae al suelo.”"
+
+# game/day26.rpy:1252
+translate spanish day26_discreet_session_e052f5e9:
+
+    # "{i}[m_name] pulls out of Adriana, who gasps in surprise and the older woman moves towards you. She pushes the girl, whose ass is still receiving a pounding from your cock, aside, and a surprised Adriana nearly falls to the floor."
+    "{i}[m_name] sale de Adriana, que jadea sorprendida y la mujer se acerca a ti. Empuja a un lado a la chica, cuyo culo sigue recibiendo un golpe de tu polla, y una sorprendida Adriana casi cae al suelo.”"
+
+# game/day26.rpy:1255
+translate spanish day26_discreet_session_a7df9a82:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in your mother's bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sin dudarlo, acaricias los labios de [m_name] con los tuyos. El beso que intercambias es completamente diferente del que está en la cama de tu madre. Hay pasión, no, hambre detrás de ella y su lengua explora ansiosamente la tuya."
+
+# game/day26.rpy:1257
+translate spanish day26_discreet_session_9737adfa:
+
+    # "{i}Without hesitation, you caress [m_name]'s lips with yours. The kiss you exchange is wholly different from the one in [m_name]'s bed. There's passion, no, hunger behind it and her tongue eagerly explores yours."
+    "{i}Sin dudarlo, acaricias los labios de [m_name] con los tuyos. El beso que intercambias es completamente diferente del que está en la cama de [m_name]. Hay pasión, no, hambre detrás de ella y su lengua explora ansiosamente la tuya..”"
+
+# game/day26.rpy:1258
+translate spanish day26_discreet_session_4dee552f_1:
+
+    # "{i}The masks you both wear are very much in the way, but the kiss still leaves you spinning."
+    "{i}Las máscaras que ambos usan están muy en el medio, pero el beso todavía te deja dando vueltas."
+
+# game/day26.rpy:1261
+translate spanish day26_discreet_session_7a783fd1:
+
+    # m "Don't forget to keep fucking your sister's ass."
+    m "No te olvides de seguir follandote el culo de tu hermana."
+
+# game/day26.rpy:1263
+translate spanish day26_discreet_session_5133ba48:
+
+    # m "Don't forget to keep fucking that asshole."
+    m "No te olvides de seguir follandote ese culo."
+
+# game/day26.rpy:1264
+translate spanish day26_discreet_session_017cf4fb:
+
+    # ad "Y-yes please, keep fucking me!"
+    ad "S-sí por favor, ¡sigue follándome!"
+
+# game/day26.rpy:1265
+translate spanish day26_discreet_session_37fee602:
+
+    # m "He's going to fill you with his seed any time now."
+    m "Te va a llenar con su semilla en cualquier momento."
+
+# game/day26.rpy:1267
+translate spanish day26_discreet_session_9179d8b6:
+
+    # m "You like that, don't you Adriana, your brother filling you up with his warm seed?"
+    m "Te gusta eso, ¿no es así Adriana, tu hermano llenándote con su cálida semilla?"
+
+# game/day26.rpy:1269
+translate spanish day26_discreet_session_cb89798a:
+
+    # m "You like that, don't you Adriana, your roommate filling you up with his warm seed?"
+    m "¿Te gusta eso, Adriana, tu compañero de cuarto llenándote con su cálida semilla?"
+
+# game/day26.rpy:1270
+translate spanish day26_discreet_session_2ed4e74c:
+
+    # ad "I love it!"
+    ad "¡Me encanta!"
+
+# game/day26.rpy:1272
+translate spanish day26_discreet_session_d5c76f94:
+
+    # m "And who are the only ones who get to own your pussy?"
+    m "¿Y quiénes son los únicos que se adueñan de tu coño?"
+
+# game/day26.rpy:1273
+translate spanish day26_discreet_session_e72a5940:
+
+    # ad "You both do!"
+    ad "¡Ambos lo hacen!"
+
+# game/day26.rpy:1275
+translate spanish day26_discreet_session_ed5592f6:
+
+    # "{i}Adriana's pussy is very tight, and your cock is stimulated by [m_name]'s thrusting as well. When you lift the girl, you penetrate her even more intensely than before."
+    "{i}El coño de Adriana está muy apretado y tu polla se estimula también con los empujones de [m_name] Cuando levantas a la chica la penetras aún más intensamente que antes"
+
+# game/day26.rpy:1276
+translate spanish day26_discreet_session_a5b62c1f:
+
+    # ad "Aaaaaah!"
+    ad "Aaaaaah!"
+
+# game/day26.rpy:1284
+translate spanish day26_discreet_session_d4d3c59a:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her vagina with your cum."
+    "{i}El orgasmo profundo de Adriana es lo que te hace alcanzar tu clímax también. Mientras la recepcionista está convulsionando tu polla y el consolador de [m_name], cubres las paredes de su vagina con tu semen."
+
+# game/day26.rpy:1285
+translate spanish day26_discreet_session_ade7a4f1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "¡Ll-ll-lléname! ¡Oh Dios!"
+
+# game/day26.rpy:1287
+translate spanish day26_discreet_session_4dc8d7d1:
+
+    # "{i}Semen is running down her thighs as your mother fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}El semen corre por sus muslos mientras tu madre se folla el culo un poco más para prolongar el orgasmo de la chica."
+
+# game/day26.rpy:1289
+translate spanish day26_discreet_session_59d38f7f:
+
+    # "{i}Semen is running down her thighs as [m_name] fucks her ass a little longer to prolong the girl's orgasm."
+    "{i}El semen corre por sus muslos mientras [m_name] se folla el culo un poco más para prolongar el orgasmo de la chica."
+
+# game/day26.rpy:1305
+translate spanish day26_discreet_session_30c15f46:
+
+    # m "And who are the only ones who get to own your ass?"
+    m "¿Y quiénes son los únicos que se adueñan de tu culo?"
+
+# game/day26.rpy:1306
+translate spanish day26_discreet_session_e72a5940_1:
+
+    # ad "You both do!"
+    ad "¡Ambos lo hacen!"
+
+# game/day26.rpy:1308
+translate spanish day26_discreet_session_2ed2e250:
+
+    # "{i}Adriana's asshole is very tight and your cock is stimulated by [m_name]'s thrusting as well. Your force her hands behind her back and [m_name] chokes her exposed throat."
+    "{i}El ano de Adriana está muy apretado y tu polla también es estimulada por el empuje de [m_name]. Tu fuerza sus manos detrás de su espalda y [m_name] ahoga su garganta expuesta."
+
+# game/day26.rpy:1309
+translate spanish day26_discreet_session_491a1a7b:
+
+    # "{i}The deprivation of air tightens every muscle in her body and allows Adriana to orgasm."
+    "{i}La privación de aire tensa cada músculo de su cuerpo y permite a Adriana llegar al orgasmo"
+
+# game/day26.rpy:1310
+translate spanish day26_discreet_session_7027df9a:
+
+    # ad "Gaaah!"
+    ad "Gaaah!"
+
+# game/day26.rpy:1318
+translate spanish day26_discreet_session_8d34da63:
+
+    # "{i}Adriana's deep orgasm is what makes you reach your climax as well. While the receptionist is convulsing on your cock and [m_name]'s dildo, you coat the walls of her anal cavity with your cum."
+    "{i}El orgasmo profundo de Adriana es lo que te hace alcanzar tu clímax también. Mientras la recepcionista está convulsionando tu polla y el consolador de [m_name], cubres las paredes de su cavidad anal con tu semen."
+
+# game/day26.rpy:1319
+translate spanish day26_discreet_session_ade7a4f1_1:
+
+    # ad "F-f-fill me up! Oh god!!!"
+    ad "¡Ll-ll-lléname! ¡Oh Dios!"
+
+# game/day26.rpy:1321
+translate spanish day26_discreet_session_e78775bc:
+
+    # "{i}Semen is running down her thighs and your mother's as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}El semen corre por sus muslos y los de tu madre mientras esta folla su coño un poco más para prolongar el orgasmo de la chica."
+
+# game/day26.rpy:1323
+translate spanish day26_discreet_session_12d25931:
+
+    # "{i}Semen is running down her thighs and [m_name]'s as the latter fucks her pussy a little longer to prolong the girl's orgasm."
+    "{i}El semen corre por sus muslos y [m_name] mientras esta folla su coño un poco más para prolongar el orgasmo de la chica."
+
+# game/day26.rpy:1330
+translate spanish day26_discreet_session_21833e20:
+
+    # m "I think we showed your sister how we do things here at home."
+    m "Creo que le mostramos a tu hermana cómo hacemos las cosas aquí en casa."
+
+# game/day26.rpy:1331
+translate spanish day26_discreet_session_fda5a30b:
+
+    # p "We sure did, mother."
+    p "Seguro que sí, madre."
+
+# game/day26.rpy:1332
+translate spanish day26_discreet_session_3e6ef507:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Puedes tumbarte en el suelo un poco más, Adriana, y luego limpiar todo. Has hecho un desastre en el suelo."
+
+# game/day26.rpy:1333
+translate spanish day26_discreet_session_30c2d1c5:
+
+    # ad "Yes mommy."
+    ad "Sí, mami."
+
+# game/day26.rpy:1335
+translate spanish day26_discreet_session_52be45d4:
+
+    # m "I think we showed your roommate how we do things here at home."
+    m "Creo que le mostramos a tu compañera de cuarto cómo hacemos las cosas aquí en casa."
+
+# game/day26.rpy:1336
+translate spanish day26_discreet_session_0e11dc8c:
+
+    # p "We sure did, landlady."
+    p "Por supuesto que sí, casera."
+
+# game/day26.rpy:1337
+translate spanish day26_discreet_session_3e6ef507_1:
+
+    # m "You may lie down on the floor a while longer, Adriana, and then clean everything up. You've made a mess of the floor."
+    m "Puedes tumbarte en el suelo un poco más, Adriana, y luego limpiar todo. Has hecho un desastre en el suelo."
+
+# game/day26.rpy:1338
+translate spanish day26_discreet_session_6c0cf7d4:
+
+    # ad "Yes landlady."
+    ad "Sí, casera."
+
+# game/day26.rpy:1340
+translate spanish day26_discreet_session_ebe9b528:
+
+    # "{i}[m_name] exits the room, leaving you alone with Adriana, who is still lying wasted on the floor."
+    "{i}[m_name] sale de la habitación, dejándote solo con Adriana, que todavía está tirada en el suelo."
+
+# game/day26.rpy:1357
+translate spanish day26_b_hotel_sex_8ba85639:
+
+    # b "I think I'm ready for bed."
+    b "Creo que estoy lista para la cama."
+
+# game/day26.rpy:1358
+translate spanish day26_b_hotel_sex_c43ee188:
+
+    # p "Sweet mother of Jesus, I'd say you are."
+    p "Dulce madre de Jesús, yo diría que lo estás."
+
+# game/day26.rpy:1359
+translate spanish day26_b_hotel_sex_a051ad79:
+
+    # b "You like it? I bought it for the occasion."
+    b "¿Te gusta? Lo compré para la ocasión."
+
+# game/day26.rpy:1361
+translate spanish day26_b_hotel_sex_46bc0cc0:
+
+    # p "I love it."
+    p "Me encanta."
+
+# game/day26.rpy:1366
+translate spanish day26_b_hotel_sex_b28e367c:
+
+    # p "It accentuates your body in all the right places."
+    p "Acentúa tu cuerpo en todos los puntos adecuados."
+
+# game/day26.rpy:1367
+translate spanish day26_b_hotel_sex_1414059f:
+
+    # b "Do you mean it brings out my inner beauty? Or are you just drooling over my ass?"
+    b "¿Quieres decir que resalta mi belleza interior? ¿O simplemente estás babeando por mi culo?"
+
+# game/day26.rpy:1368
+translate spanish day26_b_hotel_sex_d69c9249:
+
+    # p "Inner beauty!"
+    p "¡Belleza interior!"
+
+# game/day26.rpy:1370
+translate spanish day26_b_hotel_sex_a2157a79:
+
+    # p "That's the right answer, isn't it?"
+    p "Esa es la respuesta correcta, ¿no?"
+
+# game/day26.rpy:1371
+translate spanish day26_b_hotel_sex_2993e132:
+
+    # b "Maybe..."
+    b "Tal vez..."
+
+# game/day26.rpy:1372
+translate spanish day26_b_hotel_sex_e69de8f9:
+
+    # b "Do you mind if I join you on the bed?"
+    b "¿Te importa si te acompaño en la cama?"
+
+# game/day26.rpy:1373
+translate spanish day26_b_hotel_sex_45a1b373:
+
+    # p "By all means!"
+    p "¡Por supuesto!"
+
+# game/day26.rpy:1378
+translate spanish day26_b_hotel_sex_8d28c468:
+
+    # "{i}[b_name] crawls onto the bed with you and nestles herself in your arms, her soft skin is warm against your body."
+    "{i}[b_name] se arrastra hacia la cama contigo y se acurruca en tus brazos, su suave piel está caliente contra tu cuerpo."
+
+# game/day26.rpy:1380
+translate spanish day26_b_hotel_sex_0bd55328:
+
+    # b "Mmmm."
+    b "Mmmm."
+
+# game/day26.rpy:1381
+translate spanish day26_b_hotel_sex_3c8785d6:
+
+    # p "You're so fucking perfect."
+    p "Eres tan jodidamente perfecta."
+
+# game/day26.rpy:1382
+translate spanish day26_b_hotel_sex_e3bd8c74:
+
+    # b "Why don't you kiss me then?"
+    b "¿Por qué no me besas entonces?"
+
+# game/day26.rpy:1383
+translate spanish day26_b_hotel_sex_2a71e097:
+
+    # p "Great idea."
+    p "Gran idea."
+
+# game/day26.rpy:1385
+translate spanish day26_b_hotel_sex_e5a04e7d:
+
+    # "{i}Ferocious perfectly describes the kiss you share. Any restraint the two of you displayed when Megan was still with you is completely forgotten. She's still nervous, and you feel her heart beating fast when you touch her breast."
+    "{i}Feroz describe a la perfección el beso que compartes. Cualquier restricción que mostraran cuando Megan todavía estaba contigo se olvida por completo. Todavía está nerviosa y sientes que su corazón late rápidamente cuando tocas su pecho."
+
+# game/day26.rpy:1386
+translate spanish day26_b_hotel_sex_ed27614f:
+
+    # b "I love you, [p_name]."
+    b "Te quiero, [p_name]."
+
+# game/day26.rpy:1388
+translate spanish day26_b_hotel_sex_69e21ec5:
+
+    # b "And I think I'm ready."
+    b "Y creo que estoy lista."
+
+# game/day26.rpy:1389
+translate spanish day26_b_hotel_sex_dfc6734e:
+
+    # p "{i}(This is probably the moment where a contingent of SWAT agents raids the hotel room before realizing they made a mistake and ruins this perfect moment.)"
+    p "{i}(Este es probablemente el momento en el que un contingente de agentes SWAT asalta la habitación del hotel antes de darse cuenta de que cometieron un error y arruinan este momento perfecto.)"
+
+# game/day26.rpy:1390
+translate spanish day26_b_hotel_sex_281184d5:
+
+    # b "Do you want me?"
+    b "¿Me quieres?"
+
+# game/day26.rpy:1391
+translate spanish day26_b_hotel_sex_7988a01b:
+
+    # p "I do."
+    p "Sí."
+
+# game/day26.rpy:1394
+translate spanish day26_b_hotel_sex_60f49f18:
+
+    # "{i}A small sigh escapes your sister, as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Un pequeño suspiro se escapa de tu hermana, como si casi esperara otra respuesta. Tus besos ahora son más hambrientos mientras intenta quitarte la ropa interior y tú su sujetador."
+
+# game/day26.rpy:1396
+translate spanish day26_b_hotel_sex_62cc0e47:
+
+    # "{i}A small sigh escapes [b_name], as if she half-expected another answer. Your kisses are now of a more hungry nature as she tries to remove your underwear and you her bra."
+    "{i}Un pequeño suspiro se escapa [b_name], como si casi esperara otra respuesta. Tus besos ahora son más hambrientos mientras intenta quitarte la ropa interior y tú su sujetador."
+
+# game/day26.rpy:1397
+translate spanish day26_b_hotel_sex_2ed91204:
+
+    # p "{i}(No SWAT team yet! Yay for small miracles.)"
+    p "{i}(¡Todavía no hay equipo SWAT! ¡Sí, por los pequeños milagros!)"
+
+# game/day26.rpy:1399
+translate spanish day26_b_hotel_sex_8302aa11:
+
+    # "{i}When you're finally naked, you shower [b_name]'s body with kisses until reaching her pussy. After she invites your head between her legs you slowly lick her lower lips."
+    "{i}Cuando finalmente estás desnudo, bañas el cuerpo de [b_name] con besos hasta llegar a su coño. Después de que ella te invita a que le metas la cabeza entre las piernas, le lames lentamente los labios inferiores."
+
+# game/day26.rpy:1400
+translate spanish day26_b_hotel_sex_5c1bf654:
+
+    # b "Ooooh, [p_name]."
+    b "Ooooh, [p_name]."
+
+# game/day26.rpy:1405
+translate spanish day26_b_hotel_sex_f8113d4b:
+
+    # "{i}She's already very wet, and a few well-placed caresses of your tongue nearly send her over the edge."
+    "{i}Ella ya está muy húmeda y algunas caricias bien colocadas de tu lengua casi la llevan al límite."
+
+# game/day26.rpy:1406
+translate spanish day26_b_hotel_sex_1679180d:
+
+    # "{i}[b_name] tries to stimulate your cock, but fails due to the waves of pleasure rippling through her body, caused by the movements of your tongue on her clit."
+    "{i}[b_name] trata de estimular tu polla, pero falla debido a las ondas de placer que ondulan a través de su cuerpo, causadas por los movimientos de tu lengua en su clítoris."
+
+# game/day26.rpy:1407
+translate spanish day26_b_hotel_sex_265d60f4:
+
+    # b "Make love to me, [p_name]!"
+    b "¡Hazme el amor, [p_name]!"
+
+# game/day26.rpy:1408
+translate spanish day26_b_hotel_sex_175ce63e:
+
+    # b "I want to feel you inside of me."
+    b "Quiero sentirte dentro de mí."
+
+# game/day26.rpy:1416
+translate spanish day26_b_hotel_sex_d7263f59:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your sister stops you for a moment."
+    "{i}Con sus jugos salados todavía frescos en tú boca, empujas la punta de tu erección contra la entrada de su vagina. Al colocar una suave manomente sobre tu pecho, tu hermana te detiene por un momento."
+
+# game/day26.rpy:1418
+translate spanish day26_b_hotel_sex_75be97af:
+
+    # "{i}Her salty juices still fresh in your mouth, you push the tip of your erection against the entrance of her vagina. By placing a hand softly on your chest, your girlfriend stops you for a moment."
+    "{i}Sus jugos salados todavía frescos en tú boca, empujas la punta de tu erección contra la entrada de su vagina. Al colocar una suave manomente sobre tu pecho, tu novia te detiene por un momento."
+
+# game/day26.rpy:1419
+translate spanish day26_b_hotel_sex_a26a5b21:
+
+    # b "Please be gentle with me, [p_name]."
+    b "Por favor, sé delicado conmigo, [p_name]."
+
+# game/day26.rpy:1420
+translate spanish day26_b_hotel_sex_e0ded75a:
+
+    # p "I'll go slow, baby."
+    p "Iré despacio, cariño."
+
+# game/day26.rpy:1421
+translate spanish day26_b_hotel_sex_867f4b98:
+
+    # "{i}Satisfied, [b_name] allows you to continue, and you push your cock teasingly slow inside her."
+    "{i}Satisfecha, [b_name] te permite continuar y empujas tu polla con una lenta provocación dentro de ella."
+
+# game/day26.rpy:1423
+translate spanish day26_b_hotel_sex_111c67c8:
+
+    # "{i}When you enter her, she sighs in a mixture of relief and pleasure. Her tightness surprises you and nearly makes you cum outright."
+    "{i}Cuando entras en ella, ella suspira entre una mezcla de alivio y placer. Su estrechez te sorprende y casi hace que te corras de inmediato."
+
+# game/day26.rpy:1424
+translate spanish day26_b_hotel_sex_f17a0a22:
+
+    # b "Oh!"
+    b "¡Oh!"
+
+# game/day26.rpy:1425
+translate spanish day26_b_hotel_sex_8087034a:
+
+    # "{i}After you both get your bearings, you kiss, and she motions you to go on."
+    "{i}Después de que ambos se colocan, se besan y ella te hace señas para que continúes."
+
+# game/day26.rpy:1430
+translate spanish day26_b_hotel_sex_1a096e67:
+
+    # "{i}Just like she asked, your thrusts are gentle, but deep. You both retreat in a world of pleasure, moaning and kissing all the while."
+    "{i}Justo como ella te pidió, tus empujes son suaves, pero profundos. Ambos se retiran en un mundo de placer, gimiendo y besándose por todo el tiempo."
+
+# game/day26.rpy:1432
+translate spanish day26_b_hotel_sex_ffad643a:
+
+    # "{i}You explore the entirety of her body with your fingers, the softness of her breasts, her toned belly, her beautiful thighs, taught with pleasure."
+    "{i}Exploras la totalidad de su cuerpo con tus dedos, la suavidad de sus tetas, su tonificado vientre, sus hermosos muslos, enseñados con placer."
+
+# game/day26.rpy:1434
+translate spanish day26_b_hotel_sex_ed5a9706:
+
+    # "{i}The hotel room proves to be a great idea. You both feel completely free, as is evident by the increasing volume of the sounds of your love making."
+    "{i}La habitación de hotel resultó ser una gran idea. Ambos se sienten completamente libres, como lo demuestra el creciente volumen de los sonidos de su amor."
+
+# game/day26.rpy:1435
+translate spanish day26_b_hotel_sex_b0608f60:
+
+    # b "Just right there, [p_name], don't stop!"
+    b "Justo ahí, [p_name], ¡no te detengas!"
+
+# game/day26.rpy:1436
+translate spanish day26_b_hotel_sex_6666a5bf:
+
+    # p "Are you going to cum for me baby?"
+    p "¿Vas a correrte por mí cariño?"
+
+# game/day26.rpy:1438
+translate spanish day26_b_hotel_sex_c6ab430f:
+
+    # b "Y-yes, y-es I am."
+    b "S-sí, siií, lo estoy."
+
+# game/day26.rpy:1447
+translate spanish day26_b_hotel_sex_f5203134:
+
+    # "{i}Letting out a small scream, your sister orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Dejando escapar un pequeño grito, tu hermana tiene orgasmos mientras te la follas. Su clímax dura mucho y está indefensa en tus brazos, superada por olas tras olas de placer."
+
+# game/day26.rpy:1449
+translate spanish day26_b_hotel_sex_61957f95:
+
+    # "{i}Letting out a small scream, [b_name] orgasms while you keep fucking her. Her climax lasts very long, and she's helpless in your arms, overcome by wave upon wave of pleasure."
+    "{i}Dejando escapar un pequeño grito, [b_name] tiene orgasmos mientras te la follas. Su clímax dura mucho y está indefensa en tus brazos, vencida por una ola tras otra de placer."
+
+# game/day26.rpy:1450
+translate spanish day26_b_hotel_sex_385f7131:
+
+    # b "I.. l-love y-you!"
+    b "¡Yo... yo te quiero-o-o...!"
+
+# game/day26.rpy:1452
+translate spanish day26_b_hotel_sex_6d515908:
+
+    # "{i}You kiss her while her body still trembles. A wealth of her juices covers her sex and eases your way to penetrating her even more deeply."
+    "{i}La besas mientras su cuerpo todavía tiembla. Una gran cantidad de sus jugos cubre su sexo y facilita tu penetración aún más profundamente."
+
+# game/day26.rpy:1454
+translate spanish day26_b_hotel_sex_b8410009:
+
+    # "{i}Biting her lower lip and wearing a look of bliss, [b_name] guides your movements, kneading your buttocks and massaging your sensitive balls."
+    "{i}Mordiéndose el labio inferior y luciendo una dicha de felicidad, [b_name] guía tus movimientos, amasa tus glúteos y masajea tus sensibles bolas."
+
+# game/day26.rpy:1455
+translate spanish day26_b_hotel_sex_b918c839:
+
+    # b "I want you, all of it!"
+    b "¡Te quiero a ti, a todo.!"
+
+# game/day26.rpy:1457
+translate spanish day26_b_hotel_sex_d3c99773:
+
+    # "{i}Sweat is pearling from both your bodies as you enter the final stretch. [b_name] senses you're nearly ready and looks into your eyes while you keep fucking her pussy."
+    "{i}El sudor está goteando de ambos cuerpos cuando entras en la estirada final. [b_name] siente que estás casi listo y te mira a los ojos mientras sigues follándote su coño."
+
+# game/day26.rpy:1470
+translate spanish day26_b_hotel_sex_28ecca1e:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of your sister with hot seed."
+    "{i}Su aspecto de adoración es lo que desencadena tu orgasmo. Casi te paraliza y lo único que puedes hacer es gruñir y besar su cuello mientras tu polla cubre el interior de tu hermana con calientes semillas."
+
+# game/day26.rpy:1472
+translate spanish day26_b_hotel_sex_dc23b31f:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, and the only thing you can do is growl and kiss the nape of her neck while your cock coats the inside of [b_name] with hot seed."
+    "{i}Su aspecto de adoración es lo que desencadena tu orgasmo. Casi te paraliza y lo único que puedes hacer es gruñir y besar su cuello mientras tu polla cubre el interior de [b_name] con calientes semillas."
+
+# game/day26.rpy:1489
+translate spanish day26_b_hotel_sex_6ecfe49c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's body with hot seed."
+    "{i}Su aspecto de adoración es lo que desencadena tu orgasmo. Casi te paraliza, pero te las arreglas para salir y gemir de lujuria, cubres el cuerpo de tu hermana con calientes semillas."
+
+# game/day26.rpy:1491
+translate spanish day26_b_hotel_sex_b5d1fb5c:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s body with hot seed."
+    "{i}Su aspecto de adoración es lo que desencadena tu orgasmo. Casi te paraliza, pero te las arreglas para salir y gemir de lujuria, cubres el cuerpo de [b_name] con calientes semillas."
+
+# game/day26.rpy:1506
+translate spanish day26_b_hotel_sex_cb25e095:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover your sister's beautiful face with hot seed."
+    "{i}Su aspecto de adoración es lo que desencadena tu orgasmo. Casi te paraliza, pero te las arreglas para salir y gemir de lujuria, cubres el hermoso rostro de tu hermana con calientes semillas."
+
+# game/day26.rpy:1508
+translate spanish day26_b_hotel_sex_6b1c1dc6:
+
+    # "{i}Her look of adoration is what triggers your orgasm. It nearly paralyzes you, but you manage to pull out, and growling with lust, you cover [b_name]'s beautiful face with hot seed."
+    "{i}Su aspecto de adoración es lo que desencadena tu orgasmo. Casi te paraliza, pero te las arreglas para salir y gemir de lujuria, cubres la hermosa cara de [b_name] con calientes semillas."
+
+# game/day26.rpy:1517
+translate spanish day26_b_hotel_sex_162d6918:
+
+    # "{i}Afterwards you just lie together in the afterglow, unable to speak for some time. [b_name] is the first to manage a few words."
+    "{i}Después se acuestan juntos en el ocaso, sin poder hablar por un tiempo. [b_name] es la primera en decir unas pocas palabras."
+
+# game/day26.rpy:1518
+translate spanish day26_b_hotel_sex_1c360853:
+
+    # b "You're... the best..."
+    b "Eres... el mejor..."
+
+# game/day26.rpy:1519
+translate spanish day26_b_hotel_sex_1cb42a13:
+
+    # p "Thanks!"
+    p "¡Gracias!"
+
+# game/day26.rpy:1520
+translate spanish day26_b_hotel_sex_baa29dcb:
+
+    # b "No... Yes... I mean..."
+    b "No... Sí... quiero decir..."
+
+# game/day26.rpy:1521
+translate spanish day26_b_hotel_sex_98bc6270:
+
+    # b "You're the best thing that's ever happened to me."
+    b "Eres lo mejor que me ha pasado."
+
+# game/day26.rpy:1523
+translate spanish day26_b_hotel_sex_5b73eb1d:
+
+    # "{i}You notice the tears in her eyes and hold her close, kissing her hair."
+    "{i}Notas las lágrimas en sus ojos y la abrazas, besando su cabello."
+
+# game/day26.rpy:1524
+translate spanish day26_b_hotel_sex_2989575c:
+
+    # p "Happy tears?"
+    p "¿Lágrimas de felicidad?"
+
+# game/day26.rpy:1525
+translate spanish day26_b_hotel_sex_caf371f4:
+
+    # b "Of course, dummy."
+    b "Por supuesto, tonto."
+
+# game/day26.rpy:1526
+translate spanish day26_b_hotel_sex_6ed0083b:
+
+    # b "I love you."
+    b "Te quiero."
+
+# game/day26.rpy:1527
+translate spanish day26_b_hotel_sex_8587becd:
+
+    # p "I love you too, [b_name]."
+    p "Yo también te quiero, [b_name]."
+

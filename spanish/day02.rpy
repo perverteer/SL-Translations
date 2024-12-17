@@ -1857,3 +1857,53 @@ translate spanish strings:
     # game/day02.rpy:708
     old "Read the book"
     new "Leer el libro"
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day02.rpy:751
+translate spanish day02_night_visit_choices_ff93c375:
+
+    # p "{i}(Why in the world would [m_name] read this filthy stuff?)"
+    p "{i}(¿Por qué demonios [m_name] leería estas sucias cosas?)"
+
+# game/day02.rpy:752
+translate spanish day02_night_visit_choices_40c881f0:
+
+    # p "{i}(And she was reading it on the living room couch of all places... Unbelievable.)"
+    p "{i}(Y ella lo estaba leyendo en el sofá del salón delante de todos... Increíble.)"
+
+# game/day02.rpy:753
+translate spanish day02_night_visit_choices_39f091b3:
+
+    # p "{i}(Wonder what else she's got to hide.)"
+    p "{i}(Me pregunto qué más tiene que ocultar)"
+
+# game/day02.rpy:755
+translate spanish day02_night_visit_choices_9daf5e58:
+
+    # p "{i}(My new family is getting more and more interesting...)"
+    p "{i}(Mi nueva familia se está volviendo cada vez más interesante...)"
+
+# game/day02.rpy:757
+translate spanish day02_night_visit_choices_62598b5b:
+
+    # p "{i}(My new friends are getting more and more interesting...)"
+    p "{i}(Mis nuevos amigas se están volviendo más y más interesantes...)"
+
+# game/day02.rpy:769
+translate spanish day02_night_visit_choices_f44840e0:
+
+    # p "{i}(Nothing to be seen here. Better leave.)"
+    p "{i}(No hay nada que ver aquí. Mejor vete.)"
+
+# game/day02.rpy:779
+translate spanish day02_night_visit_choices_b1b87c1b:
+
+    # "{i}You go back to your room and to bed."
+    "{i}Vuelves a tu habitación y a la cama."
+
+# game/day02.rpy:781
+translate spanish day02_night_visit_choices_2c9f1bd0:
+
+    # "{i}You decide to be a responsible person and go straight to bed."
+    "{i}Decides ser una persona responsable e irte directamente a la cama."
+

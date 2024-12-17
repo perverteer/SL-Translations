@@ -1347,3 +1347,17 @@ translate spanish strings:
     old "What is the name of the oldest girl?"
     new "¿Cuál es el nombre de la mayor?"
 
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day01.rpy:267
+translate spanish day01_r_bedroom_41a154ac:
+
+    # r "Wuh what?"
+    r "¿Wuh qué?"
+
+# game/day01.rpy:269
+translate spanish day01_r_bedroom_20e46b26:
+
+    # r "LEAVE ME THE FUCK ALONE [p_name]!!! Are you crazy?!"
+    r "¡¡DÉJAME EN PAZ, JODER [p_name]!!! ¿Estás loco?!"
+

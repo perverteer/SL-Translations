@@ -2739,4 +2739,95 @@ translate spanish day06_night_visit_choices_d3e9a2f0:
 translate spanish day06_night_visit_choices_e46d3fff:
 
     # p "{i}(Sweet dreams, [r_name]...)"
-    p "{i}(Dulces sueños [r_nombre])"
+    p "{i}(Dulces sueños [r_nombre])"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day06.rpy:740
+translate spanish day06_night_visit_choices_15fe1f7f:
+
+    # p "{i}(Better find some excitement elsewhere.)"
+    p "{i}(Mejor encontrar algo de emoción en otro lugar)"
+
+# game/day06.rpy:747
+translate spanish day06_night_visit_choices_72da5afa:
+
+    # "{i}You hear a knock on your door."
+    "{i}Escuchas un toque en tu puerta."
+
+# game/day06.rpy:748
+translate spanish day06_night_visit_choices_3daaff5f:
+
+    # p "Come in."
+    p "Adelante"
+
+# game/day06.rpy:750
+translate spanish day06_night_visit_choices_f1b1517e:
+
+    # r "Hi. I... err... I was thinking about the movie and thought maybe we could keep each other company?"
+    r "Hola. Yo... err... estaba pensando en la película y pensé que tal vez podríamos hacernos compañía."
+
+# game/day06.rpy:751
+translate spanish day06_night_visit_choices_1bbb30c6_1:
+
+    # p "You mean tonight?"
+    p "¿Quieres decir esta noche?"
+
+# game/day06.rpy:752
+translate spanish day06_night_visit_choices_c4144776_1:
+
+    # r "Of course dummy!"
+    r "¡Por supuesto tonto!"
+
+# game/day06.rpy:753
+translate spanish day06_night_visit_choices_3bc00f24_1:
+
+    # r "It's just so lonely sometimes and I would really like someone to keep me company."
+    r "A veces me siento tan sola y me gustaría que alguien me hiciera compañía."
+
+# game/day06.rpy:754
+translate spanish day06_night_visit_choices_67d01928_1:
+
+    # r "It felt so natural in the movie we saw tonight."
+    r "Se sintió tan natural en la película que vimos esta noche."
+
+# game/day06.rpy:755
+translate spanish day06_night_visit_choices_0e93dbe8_1:
+
+    # p "{i}(That flick sure did a number on her...)"
+    p "{i}(Esa película seguramente le hizo un número a ella...)"
+
+# game/day06.rpy:761
+translate spanish day06_night_visit_choices_dc0e6117_1:
+
+    # p "That's a great idea."
+    p "Esa es una gran idea."
+
+# game/day06.rpy:762
+translate spanish day06_night_visit_choices_0b5335f0_1:
+
+    # r "Yay! I hope you like to cuddle!"
+    r "¡Yay! ¡Espero que te guste abrazar!"
+
+# game/day06.rpy:763
+translate spanish day06_night_visit_choices_49d6b442_1:
+
+    # p "I sure do."
+    p "Claro que sí."
+
+# game/day06.rpy:769
+translate spanish day06_night_visit_choices_543c7869_1:
+
+    # p "I don't think that's a good idea. What if somebody sees us?"
+    p "No creo que sea una buena idea. ¿Qué pasa si alguien nos ven?"
+
+# game/day06.rpy:770
+translate spanish day06_night_visit_choices_5248a3df_1:
+
+    # r "Oh."
+    r "Oh..."
+
+# game/day06.rpy:771
+translate spanish day06_night_visit_choices_e13c373b:
+
+    # r "Good night then."
+    r "Buenas noches, entonces."
+

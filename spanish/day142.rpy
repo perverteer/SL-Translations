@@ -11447,4 +11447,113 @@ translate spanish day142_puritan_meeting_b77a0f34_1:
 translate spanish day142_l_sex_57a49b76:
 
     # "{i}When she's on her knees before you, cum starts spurting inside her open mouth."
-    "{i}Cuando ella está de rodillas antes de que usted cum comienza a chorros dentro de su boca abierta"
+    "{i}Cuando ella está de rodillas antes de que usted cum comienza a chorros dentro de su boca abierta"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day142.rpy:1860
+translate spanish day142_r_m_massage_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "¿Está [m_name] embarazada en esta escena?"
+
+# game/day142.rpy:1864
+translate spanish day142_r_m_massage_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] embarazada"
+
+# game/day142.rpy:1867
+translate spanish day142_r_m_massage_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] no está embarazada"
+
+# game/day142.rpy:1869
+translate spanish day142_r_m_massage_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "¿Está [r_name] embarazada en esta escena?"
+
+# game/day142.rpy:1873
+translate spanish day142_r_m_massage_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] embarazada"
+
+# game/day142.rpy:1876
+translate spanish day142_r_m_massage_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] no está embarazada"
+
+# game/day142.rpy:3141
+translate spanish day142_r_sex_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "¿Está [r_name] embarazada en esta escena?"
+
+# game/day142.rpy:3145
+translate spanish day142_r_sex_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] embarazada"
+
+# game/day142.rpy:3148
+translate spanish day142_r_sex_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] no está embarazada"
+
+# game/day142.rpy:3442
+translate spanish day142_l_sex_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "¿Está [l_name] embarazada en esta escena?"
+
+# game/day142.rpy:3446
+translate spanish day142_l_sex_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] embarazada"
+
+# game/day142.rpy:3449
+translate spanish day142_l_sex_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] no está embarazada"
+
+# game/day142.rpy:3709
+translate spanish day142_b_sex_674dd329:
+
+    # "Is [b_name] pregnant in this scene?"
+    "¿Está [b_name] embarazada en esta escena?"
+
+# game/day142.rpy:3713
+translate spanish day142_b_sex_4bcbce42:
+
+    # "[b_name] pregnant"
+    "[b_name] embarazada"
+
+# game/day142.rpy:3716
+translate spanish day142_b_sex_0ec02379:
+
+    # "[b_name] not pregnant"
+    "[b_name] no está embarazada"
+
+# game/day142.rpy:3951
+translate spanish day142_m_sex_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "¿Está [m_name] embarazada en esta escena?"
+
+# game/day142.rpy:3955
+translate spanish day142_m_sex_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] embarazada"
+
+# game/day142.rpy:3958
+translate spanish day142_m_sex_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] no está embarazada"
+

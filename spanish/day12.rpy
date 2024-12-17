@@ -2904,3 +2904,713 @@ translate spanish day12_7575467a:
 
     # "{i}Just as you want to sit down and play a game, there's a knock on your door."
     "{i}Justo cuando quieres sentarte y jugar un partido llaman a tu puerta."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day12.rpy:206
+translate spanish day12_evening_choices_fdea18d9:
+
+    # p "{i}(Better not disturb her, but nothing preventing me from getting a better look at those gorgeous boobs.)"
+    p "{i}(Mejor no molestarla, pero nada me impide ver mejor esas preciosas tetas.)"
+
+# game/day12.rpy:208
+translate spanish day12_evening_choices_050568b4:
+
+    # p "{i}(Better let her sleep.)"
+    p "{i}(Mejor déjala dormir)"
+
+# game/day12.rpy:216
+translate spanish day12_evening_choices_14b79947:
+
+    # b "Jesus Christ [p_name], can't you just leave me alone?!"
+    b "Jesucristo [p_name] ¡¿no puedes dejarme en paz?!"
+
+# game/day12.rpy:218
+translate spanish day12_evening_choices_7cd3fa6e:
+
+    # p "Just here to talk, sis. Unless you want something more?"
+    p "Solo estoy aquí para hablar, hermana. ¿A menos que quieras algo más?"
+
+# game/day12.rpy:220
+translate spanish day12_evening_choices_583098e3:
+
+    # p "Just here to talk, [b_name]. Unless you want something more?"
+    p "Solo estoy aquí para hablar [b_name]. ¿A menos que quieras algo más?"
+
+# game/day12.rpy:222
+translate spanish day12_evening_choices_e60ff05a:
+
+    # b "No, you've had your share of me today already."
+    b "No, ya has tenido tu parte de mí hoy."
+
+# game/day12.rpy:223
+translate spanish day12_evening_choices_d165fa04:
+
+    # p "Very true."
+    p "Muy cierto."
+
+# game/day12.rpy:224
+translate spanish day12_evening_choices_71edcc3d:
+
+    # p "I really like the outdoors, don't you."
+    p "Me gusta mucho el aire libre, ¿no?"
+
+# game/day12.rpy:225
+translate spanish day12_evening_choices_fc9fa97b:
+
+    # b "Fuck you, I want to go to sleep."
+    b "Jódete, quiero irme a dormir."
+
+# game/day12.rpy:226
+translate spanish day12_evening_choices_bb49cd1e:
+
+    # p "Okay. But I have one request."
+    p "Está bien. Pero tengo una petición."
+
+# game/day12.rpy:227
+translate spanish day12_evening_choices_c0752565:
+
+    # b "Not again..."
+    b "Otra vez no..."
+
+# game/day12.rpy:228
+translate spanish day12_evening_choices_23779d99:
+
+    # p "{i}(Let's drop that bombshell...)"
+    p "{i}(Vamos a lanzar esa bomba...)"
+
+# game/day12.rpy:229
+translate spanish day12_evening_choices_ae9d0dd4:
+
+    # p "I know you're into toys..."
+    p "Sé que te gustan los juguetes..."
+
+# game/day12.rpy:232
+translate spanish day12_evening_choices_014ba015:
+
+    # p "So, the next time we're having fun, you're going to use one on yourself while I watch."
+    p "Entonces, la próxima vez que nos divirtamos vas a usar uno para tí mientras yo miro."
+
+# game/day12.rpy:233
+translate spanish day12_evening_choices_52dcef3c:
+
+    # b "I..."
+    b "Yo..."
+
+# game/day12.rpy:234
+translate spanish day12_evening_choices_e8ebb30b:
+
+    # b "How do you..."
+    b "¿Cómo es que...?"
+
+# game/day12.rpy:235
+translate spanish day12_evening_choices_5a594b52:
+
+    # b "Have you searched my room, you little shit?!"
+    b "¿Has registrado mi habitación, pequeña mierda?"
+
+# game/day12.rpy:236
+translate spanish day12_evening_choices_a6facd22:
+
+    # p "{i}(Something like that...)"
+    p "{i}(Algo así...)"
+
+# game/day12.rpy:239
+translate spanish day12_evening_choices_948583e3:
+
+    # p "You know. With that kind of attitude, I think we need to do that little show now."
+    p "Ya sabes. Con ese tipo de actitud, creo que tendremos que hacer ese pequeño show ahora."
+
+# game/day12.rpy:240
+translate spanish day12_evening_choices_8864131e:
+
+    # b "Fuck no... I'm not going to..."
+    b "Joder no... no voy a..."
+
+# game/day12.rpy:241
+translate spanish day12_evening_choices_29139557:
+
+    # p "Then say the magic word."
+    p "Entonces di la palabra mágica."
+
+# game/day12.rpy:242
+translate spanish day12_evening_choices_adae013b:
+
+    # b "Fuck."
+    b "Joder."
+
+# game/day12.rpy:243
+translate spanish day12_evening_choices_e19d9a73:
+
+    # "{i}[b_name] walks to a closet and rummages in the back. She retrieves her black dildo."
+    "{i}[b_name] camina hacia el armario y hurga en la parte de atrás. Ella saca su consolador negro."
+
+# game/day12.rpy:244
+translate spanish day12_evening_choices_ed7193b2:
+
+    # p "Good. Now I want you to give yourself a good time."
+    p "Bien. Ahora quiero que te pases un buen rato."
+
+# game/day12.rpy:248
+translate spanish day12_evening_choices_2c5f6669:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear sister."
+    p "Mañana. Tú, yo, tu juguete y mucha diversión. Duerme bien, querida hermana."
+
+# game/day12.rpy:250
+translate spanish day12_evening_choices_40f79be9:
+
+    # p "Tomorrow. You, me, your toy and lots of fun. Sleep well, dear [b_name]."
+    p "Mañana. Tú, yo, tu juguete y mucha diversión. Duerme bien, querida [b_name]."
+
+# game/day12.rpy:258
+translate spanish day12_evening_choices_e4fd283a:
+
+    # p "{i}(Riley had a gift for me, she said. Better check it out.)"
+    p "{i}(Riley tenía un regalo para mí, dijo. Mejor échale un vistazo.)"
+
+# game/day12.rpy:261
+translate spanish day12_evening_choices_edd44dc0:
+
+    # "{i}You head to the address Riley sent you. It's an apartment building near the city center. You ring the bell, and she buzzes you up. After sprinting up a few flights of stairs, you enter her front door, which is half opened."
+    "{i}Te diríges a la dirección que te envió Riley. Es un edificio de apartamentos cerca del centro de la ciudad. Tocas el timbre y te hace pasar. Después de subir unos tramos de escaleras entras por la puerta que está entreabierta.”"
+
+# game/day12.rpy:264
+translate spanish day12_evening_choices_cc6cb7df:
+
+    # ri "Hello you!"
+    ri "Hola tu!"
+
+# game/day12.rpy:265
+translate spanish day12_evening_choices_6acf71b5:
+
+    # p "Hello yourself."
+    p "Hola a ti."
+
+# game/day12.rpy:266
+translate spanish day12_evening_choices_e97258d6:
+
+    # ri "Would you like a drink?"
+    ri "¿Te gustaría tomar algo?"
+
+# game/day12.rpy:267
+translate spanish day12_evening_choices_43be57af:
+
+    # p "Do you have a beer?"
+    p "¿Tienes una cerveza?"
+
+# game/day12.rpy:268
+translate spanish day12_evening_choices_8e1db608:
+
+    # ri "Of course."
+    ri "Por supuesto."
+
+# game/day12.rpy:269
+translate spanish day12_evening_choices_88ab5c8e:
+
+    # "{i}After rummaging in the fridge Riley hands you a cold beer. She opens one for herself too."
+    "{i}Después de hurgar en la nevera, Riley te da una cerveza fría. Ella también se abre una."
+
+# game/day12.rpy:270
+translate spanish day12_evening_choices_967d00a1:
+
+    # p "Cheers!"
+    p "¡Salud!"
+
+# game/day12.rpy:271
+translate spanish day12_evening_choices_7aad3955:
+
+    # ri "Fucking cheers!"
+    ri "¡Salud, amiga!"
+
+# game/day12.rpy:273
+translate spanish day12_evening_choices_78621faa:
+
+    # ri "Man, what a day yesterday."
+    ri "Tio, qué día ayer."
+
+# game/day12.rpy:274
+translate spanish day12_evening_choices_849f250b:
+
+    # p "Yeah, it was quite something."
+    p "Sí, fue algo muy importante."
+
+# game/day12.rpy:276
+translate spanish day12_evening_choices_a62e5202:
+
+    # ri "Is your sister okay?"
+    ri "¿Está bien tu hermana?"
+
+# game/day12.rpy:278
+translate spanish day12_evening_choices_30b31875:
+
+    # ri "Is your friend okay?"
+    ri "¿Está bien tu amiga?"
+
+# game/day12.rpy:279
+translate spanish day12_evening_choices_bba1c54c:
+
+    # p "Yeah, she's taking the news pretty well actually. Pretty surprising if you ask me."
+    p "Sí, en realidad está llevando las cosas bastante bien. Bastante sorprendente si me lo preguntas."
+
+# game/day12.rpy:280
+translate spanish day12_evening_choices_9e84b89a:
+
+    # ri "Deep down she must have already known what a complete fuck-nut Brody was."
+    ri "En el fondo, ella ya debe haber sabido que Brody era un completo loco."
+
+# game/day12.rpy:281
+translate spanish day12_evening_choices_cf317110:
+
+    # p "Shame she didn't realize it earlier. But at least it ended well."
+    p "Es una pena que no se haya dado cuenta antes. Pero al menos terminó bien."
+
+# game/day12.rpy:282
+translate spanish day12_evening_choices_b1493df4:
+
+    # ri "Brody spent the rest of the day redecorating his office. The few customers that we had were completely weirded out by the sounds of furniture being thrown around and all the yelling..."
+    ri "Brody pasó el resto del día redecorando su oficina. Los pocos clientes que teníamos estaban completamente extrañados por los sonidos de los muebles que lanzaba y por todos los gritos..."
+
+# game/day12.rpy:283
+translate spanish day12_evening_choices_769de5b4:
+
+    # ri "The bastard even had me order new office furniture at the end of the day. Completely trashed it."
+    ri "El bastardo incluso me hizo pedirle unos muebles nuevos de oficina al final del día. Lo destrozó por completo."
+
+# game/day12.rpy:284
+translate spanish day12_evening_choices_516a4339:
+
+    # p "At least he got out some of that pent up rage..."
+    p "Al menos sacó algo de esa ira acumulada..."
+
+# game/day12.rpy:285
+translate spanish day12_evening_choices_e3affd07:
+
+    # ri "Hope it doesn't become his daily routine."
+    ri "Espero que no se convierta en su rutina diaria."
+
+# game/day12.rpy:286
+translate spanish day12_evening_choices_9305100c:
+
+    # p "A nice anal visitation by his extra girlfriend might take care of that."
+    p "Una agradable visita anal de su novia extra podría encargarse de eso."
+
+# game/day12.rpy:288
+translate spanish day12_evening_choices_1646d3d8:
+
+    # ri "Eeeewww!"
+    ri "¡Eeeewww!"
+
+# game/day12.rpy:290
+translate spanish day12_evening_choices_cb5b5b07:
+
+    # ri "Another beer?"
+    ri "¿Otra cerveza?"
+
+# game/day12.rpy:291
+translate spanish day12_evening_choices_c826dd5f:
+
+    # p "Sure, seem to have finished mine already."
+    p "Claro, parece que ya terminé la mía."
+
+# game/day12.rpy:292
+translate spanish day12_evening_choices_c3e60441:
+
+    # "{i}Riley returns from the kitchen with two beers and a quizzical smile on her face."
+    "{i}Riley regresa de la cocina con dos cervezas y una sonrisa burlona en su cara."
+
+# game/day12.rpy:293
+translate spanish day12_evening_choices_48b6c11a:
+
+    # ri "Say, [p_name]. You know I like you and we kissed a couple of times... And I like things to be clear."
+    ri "Di, [p_name]. Sabes que me gustas y nos besamos un par de veces... Y me gusta que las cosas estén claras."
+
+# game/day12.rpy:294
+translate spanish day12_evening_choices_3a37a57b:
+
+    # p "{i}(That in itself is a rather unclear statement, but okay.)"
+    p "{i}(Eso en sí mismo es una declaración bastante poco clara, pero está bien.)"
+
+# game/day12.rpy:296
+translate spanish day12_evening_choices_4eb08893:
+
+    # ri "Would you like to have crazy sex with me?"
+    ri "¿Te gustaría tener sexo loco conmigo?"
+
+# game/day12.rpy:298
+translate spanish day12_evening_choices_42f0c541:
+
+    # ri "Would you like to spend the night with me?"
+    ri "¿Te gustaría pasar la noche conmigo?"
+
+# game/day12.rpy:302
+translate spanish day12_evening_choices_2a8adeec:
+
+    # p "You know... You're really great at giving gifts."
+    p "Sabes... Eres realmente genial dando regalos."
+
+# game/day12.rpy:303
+translate spanish day12_evening_choices_9ab28e3f:
+
+    # ri "I'd like to think so."
+    ri "Me gustaría pensar que sí."
+
+# game/day12.rpy:304
+translate spanish day12_evening_choices_449ded2b:
+
+    # p "Lead the way."
+    p "Muéstrame el camino."
+
+# game/day12.rpy:310
+translate spanish day12_evening_choices_cbda925c:
+
+    # p "I... I thought this was just a friendly visit."
+    p "Yo... pensé que esto era solo una visita amistosa."
+
+# game/day12.rpy:312
+translate spanish day12_evening_choices_29c62a27:
+
+    # ri "Jesus. You're really bad at innuendo aren't you? Did I need to spell it out for you?"
+    ri "Jesús. Eres realmente malo con las insinuaciones, ¿no? ¿Tengo que explicártelo?"
+
+# game/day12.rpy:313
+translate spanish day12_evening_choices_742565b2:
+
+    # p "I'd better go."
+    p "Mejor me voy."
+
+# game/day12.rpy:314
+translate spanish day12_evening_choices_a64f798d:
+
+    # ri "I think so, yes."
+    ri "Creo que sí, vale."
+
+# game/day12.rpy:322
+translate spanish day12_evening_choices_51ce02de:
+
+    # "{i}It's late in the evening when you go to [l_name]'s room to collect her for your night out."
+    "{i}Es de noche cuando vas a la habitación de [l_name] para recogerla para salir."
+
+# game/day12.rpy:324
+translate spanish day12_evening_choices_d781c9ca:
+
+    # p "Hey, party girl, are you ready to go?"
+    p "Hola, fiestera, ¿estás lista para salir?"
+
+# game/day12.rpy:325
+translate spanish day12_evening_choices_097c04fd:
+
+    # l "Yes, yes I am!"
+    l "Sí, sí, lo estoy!"
+
+# game/day12.rpy:327
+translate spanish day12_evening_choices_94d623c1:
+
+    # "{i}Together with [l_name] you travel to the night club in the city center."
+    "{i}Junto con [l_name] viajas a la discoteca en el centro de la ciudad."
+
+# game/day12.rpy:333
+translate spanish day12_evening_choices_9392250c:
+
+    # l "The music is pretty loud, isn't it?"
+    l "La música está bastante alta, ¿no?"
+
+# game/day12.rpy:334
+translate spanish day12_evening_choices_8db707a3:
+
+    # p "Yeah, you'll get used to it. Let's find a more quiet spot and get some drinks."
+    p "Sí, te acostumbrarás. Busquemos un lugar más tranquilo y tomemos algo."
+
+# game/day12.rpy:335
+translate spanish day12_evening_choices_171f6f7c:
+
+    # p "What would you like?"
+    p "¿Qué te gustaría?"
+
+# game/day12.rpy:336
+translate spanish day12_evening_choices_56215539:
+
+    # l "Water?"
+    l "¿Agua?"
+
+# game/day12.rpy:341
+translate spanish day12_evening_choices_773d4f2a:
+
+    # p "We're partying, [l_name], water isn't exactly the fuel of parties."
+    p "Estamos de fiesta, [l_name], el agua no es exactamente el combustible de las fiestas."
+
+# game/day12.rpy:342
+translate spanish day12_evening_choices_7faee586:
+
+    # l "Okay, what do you recommend?"
+    l "Está bien, ¿qué me recomiendas?"
+
+# game/day12.rpy:343
+translate spanish day12_evening_choices_dd13ef85:
+
+    # p "Some wine maybe, or something sweeter?"
+    p "¿Un poco de vino o algo más dulce?"
+
+# game/day12.rpy:344
+translate spanish day12_evening_choices_9a96642a:
+
+    # l "I don't know..."
+    l "No sé..."
+
+# game/day12.rpy:345
+translate spanish day12_evening_choices_8750c51b:
+
+    # p "{i}(Still so reserved...)"
+    p "{i}(Todavía tan reservada...)"
+
+# game/day12.rpy:346
+translate spanish day12_evening_choices_353604a1:
+
+    # l "You know what, I'd like a glass of white wine."
+    l "Sabes qué, me gustaría una copa de vino blanco."
+
+# game/day12.rpy:347
+translate spanish day12_evening_choices_9028f7b9:
+
+    # p "Great! White wine coming up."
+    p "¡Genial! Vino blanco."
+
+# game/day12.rpy:348
+translate spanish day12_evening_choices_b29990f7:
+
+    # "{i}You get [l_name] a glass of wine and a beer for yourself."
+    "{i}Le traes a [l_name] una copa de vino y una cerveza para ti."
+
+# game/day12.rpy:350
+translate spanish day12_evening_choices_d6b2398a:
+
+    # "{i}You get [l_name] a bottle of water and a beer for yourself."
+    "{i}Le traes a [l_name] una botella de agua y una cerveza para ti."
+
+# game/day12.rpy:353
+translate spanish day12_evening_choices_a2c25edb:
+
+    # l "It's not that busy, is it?"
+    l "No está tan ocupado, ¿verdad?"
+
+# game/day12.rpy:354
+translate spanish day12_evening_choices_5bd99ee4:
+
+    # p "No, bit of a slow night. But that means that the dance floor is ours!"
+    p "No, es una noche un poco tranquila. Pero eso significa que la pista de baile será nuestra!"
+
+# game/day12.rpy:355
+translate spanish day12_evening_choices_a8dbce5b:
+
+    # l "I don't know if I want to dance."
+    l "No sé si quiero bailar."
+
+# game/day12.rpy:356
+translate spanish day12_evening_choices_419690ee:
+
+    # p "You don't have to do anything you don't want to. Just have fun!"
+    p "No tienes que hacer nada que no quieras. ¡Solo diviértete!"
+
+# game/day12.rpy:357
+translate spanish day12_evening_choices_5c48e237:
+
+    # l "Don't worry."
+    l "No te preocupes"
+
+# game/day12.rpy:703
+translate spanish day12_r_touching_83b2e14a:
+
+    # p "{i}(Her naked body is such a present, just like last night!)"
+    p "{i}(¡Su desnudo cuerpo es un regalo, al igual que anoche!)"
+
+# game/day12.rpy:704
+translate spanish day12_r_touching_11e5439f:
+
+    # p "{i}(I have an idea...)"
+    p "{i}(Tengo una idea...)"
+
+# game/day12.rpy:709
+translate spanish day12_r_touching_f8c4a1f7:
+
+    # "{i}You move your hand towards [r_name]'s thighs. A small moan escapes her as you touch her skin with your fingertips and slowly move towards the inside of her legs."
+    "{i}Mueves tu mano hacia los muslos de [r_name]. Se le escapa un pequeño gemido cuando tocas su piel con la punta de los dedos y lentamente te mueves hacia el interior de sus piernas."
+
+# game/day12.rpy:710
+translate spanish day12_r_touching_e6147639:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day12.rpy:711
+translate spanish day12_r_touching_19ef7c51:
+
+    # p "{i}(So far so good.)"
+    p "{i}(Hasta ahora todo bien)"
+
+# game/day12.rpy:712
+translate spanish day12_r_touching_524a80d3:
+
+    # "{i}When you softly stroke the area around her sex, her legs part invitingly."
+    "{i}Cuando acaricias suavemente el área alrededor de su sexo, sus piernas se separan de manera atractiva."
+
+# game/day12.rpy:715
+translate spanish day12_r_touching_a2ec9074:
+
+    # p "{i}(My sister has the most beautiful, virgin pussy.)"
+    p "{i}(Mi hermana tiene el coño virgen más hermoso.)"
+
+# game/day12.rpy:717
+translate spanish day12_r_touching_5175b926:
+
+    # p "{i}([r_name] has the most beautiful, virgin pussy.)"
+    p "{i}([r_name] tiene el coño virgen más hermoso.)"
+
+# game/day12.rpy:722
+translate spanish day12_r_touching_cd69fc92:
+
+    # "{i}Very carefully you run two fingers along the length of her slit and feel her wet lips."
+    "{i}Con mucho cuidado, pasas dos dedos a lo largo de su raja y sientes sus húmdeos labios."
+
+# game/day12.rpy:723
+translate spanish day12_r_touching_6d0b6f91:
+
+    # p "{i}(She's so ready.)"
+    p "{i}(Ella está lista)"
+
+# game/day12.rpy:724
+translate spanish day12_r_touching_30c7352f:
+
+    # "{i}You continue to rub her labia with your fingers and massage her mons."
+    "{i}Continúas frotando sus labios con los dedos y masajeando a su vulva."
+
+# game/day12.rpy:725
+translate spanish day12_r_touching_e6147639_1:
+
+    # r "Mmmmm."
+    r "Mmmmm."
+
+# game/day12.rpy:728
+translate spanish day12_r_touching_501b3e32:
+
+    # "{i}As soon as you massage her clitoris directly, her eyes flutter open."
+    "{i}Tan pronto como masajeas directamente su clítoris, sus ojos se abren."
+
+# game/day12.rpy:729
+translate spanish day12_r_touching_824a437b:
+
+    # r "G-g-good morning..."
+    r "Bu-buenos días..."
+
+# game/day12.rpy:730
+translate spanish day12_r_touching_bdd1293f:
+
+    # p "Hey..."
+    p "Hey..."
+
+# game/day12.rpy:731
+translate spanish day12_r_touching_96aa8b84:
+
+    # p "Should I stop?"
+    p "¿Debería parar?"
+
+# game/day12.rpy:732
+translate spanish day12_r_touching_5333fe66:
+
+    # r "Oh, God no!"
+    r "¡Oh, Dios no!"
+
+# game/day12.rpy:734
+translate spanish day12_r_touching_a36debf8:
+
+    # "{i}Bolstered by her words, you turn your full attention to her clitoris. [r_name] gasps as you slide a finger inside her wet pussy."
+    "{i}Animado por sus palabras diriges toda tu atención a su clítoris [r_name] jadea mientras deslizas un dedo dentro de su húmedo coño"
+
+# game/day12.rpy:735
+translate spanish day12_r_touching_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "¡Aaaah! ¡Sí!"
+
+# game/day12.rpy:737
+translate spanish day12_r_touching_7696b8da:
+
+    # "{i}Your sister grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}Tu hermana agarra la mano que estimula su clítoris y la empuja con más fuerza."
+
+# game/day12.rpy:739
+translate spanish day12_r_touching_ebe3ad3f:
+
+    # "{i}[r_name] grabs hold of the hand that's stimulating her clit and pushes it down harder."
+    "{i}[r_name] agarra la mano que estimula su clítoris y la empuja con más fuerza."
+
+# game/day12.rpy:740
+translate spanish day12_r_touching_80851927:
+
+    # r "I want to feel you so bad, [p_name]!"
+    r "¡Quiero sentirte muy bien, [p_name]!"
+
+# game/day12.rpy:741
+translate spanish day12_r_touching_1a68e619:
+
+    # "{i}You slide your fingers in and out of her pussy covered in her juices. When you massage her clitoris even more intensely you feel her body tighten ready to let go."
+    "{i}Deslizas tus dedos dentro y fuera de su coño cubierto de sus jugos. Cuando masajeas su clítoris aún más intensamente, sientes que su cuerpo se tensa listo para correrse."
+
+# game/day12.rpy:749
+translate spanish day12_r_touching_ba6928df:
+
+    # r "Aaaaah! Aaaah! [p_name]!!!"
+    r "¡Aaaaah! ¡Aaaah! [p_name]!!!"
+
+# game/day12.rpy:750
+translate spanish day12_r_touching_35555a4c:
+
+    # "{i}Her orgasm is long and powerful, [r_name]'s body shudders as she holds your hand against her sex."
+    "{i}Su orgasmo es largo y poderoso, el cuerpo de [r_name] se estremece mientras sostiene tu mano contra su sexo."
+
+# game/day12.rpy:756
+translate spanish day12_r_touching_212359af:
+
+    # "{i}After a while her convulsions have stopped and with a sigh she snuggles against you."
+    "{i}Después de un rato sus convulsiones se detenienen y con un suspiro se acurruca contra ti."
+
+# game/day12.rpy:757
+translate spanish day12_r_touching_995142a4:
+
+    # r "What an incredible way to wake up."
+    r "Qué manera tan increíble de despertarse."
+
+# game/day12.rpy:758
+translate spanish day12_r_touching_8d83be08:
+
+    # p "You were so great last night, so I thought I'd reward you in kind."
+    p "Estuviste genial anoche, así que pensé en recompensarte en especies."
+
+# game/day12.rpy:759
+translate spanish day12_r_touching_56442569:
+
+    # r "Just what I needed."
+    r "Justo lo que necesitaba."
+
+# game/day12.rpy:760
+translate spanish day12_r_touching_8d849547:
+
+    # p "Busy today?"
+    p "¿¿Ocupada hoy?"
+
+# game/day12.rpy:761
+translate spanish day12_r_touching_608fafb8:
+
+    # r "Yeah, I'm going out. Ana asked me to come over. You?"
+    r "Sí, voy a salir. Ana me pidió que fuera. ¿Y tú?"
+
+# game/day12.rpy:762
+translate spanish day12_r_touching_a4984cfb:
+
+    # p "Looks like a slow day today, but I don't mind."
+    p "Hoy parece un día tranquilo, pero no me importa."
+
+# game/day12.rpy:763
+translate spanish day12_r_touching_ec616551:
+
+    # "{i}After cuddling for a while, you both get up and get some breakfast."
+    "{i}Después de abrazaros un rato, ambos se levantan y desayunan."
+

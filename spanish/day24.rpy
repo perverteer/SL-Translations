@@ -3416,3 +3416,1319 @@ translate spanish day24_choices_7b07ad78_1:
 
     # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
     "{i}La sensación de que estás a punto de explotar es cada vez más fuerte y [b_name] intensifica su succión instándote a correrte."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day24.rpy:602
+translate spanish day24_b_cinema_blowjob_a9cef6c6:
+
+    # "{i}[b_name] suddenly sits upright and faces you, her lips touch yours and you're kissing her in the semi-darkness of the movie theater."
+    "{i}[b_name] de repente se sienta derecha y te mira, sus labios tocan los tuyos y la estás besando en la penumbra del cine."
+
+# game/day24.rpy:603
+translate spanish day24_b_cinema_blowjob_ef068625:
+
+    # b "You make me so happy!"
+    b "¡Me haces tan feliz!"
+
+# game/day24.rpy:604
+translate spanish day24_b_cinema_blowjob_e0579f1c:
+
+    # p "And you're the best thing that's happened to me!"
+    p "¡Y tú eres lo mejor que me ha pasado!"
+
+# game/day24.rpy:606
+translate spanish day24_b_cinema_blowjob_038eeb83:
+
+    # "{i}A sudden outburst in the movie makes you mindful of your surroundings again, and you continue watching the film."
+    "{i}Un estallido repentino en la película te hace consciente de tu entorno nuevamente y continúas viendo la película."
+
+# game/day24.rpy:607
+translate spanish day24_b_cinema_blowjob_7b3f982b:
+
+    # "{i}As you glance at [b_name], you see a smile cross her face."
+    "{i}Cuando miras a [b_name], ves una sonrisa en su cara."
+
+# game/day24.rpy:608
+translate spanish day24_b_cinema_blowjob_505e98ae:
+
+    # b "Why don't we have a little fun while we're here?"
+    b "¿Por qué no nos divertimos un poco mientras estamos aquí?"
+
+# game/day24.rpy:609
+translate spanish day24_b_cinema_blowjob_d4ca92e2:
+
+    # p "You mean?"
+    p "¿Quieres decir?"
+
+# game/day24.rpy:610
+translate spanish day24_b_cinema_blowjob_4b2343ad:
+
+    # b "Yes. Don't worry, I'll do the work..."
+    b "Sí. No te preocupes, yo haré el trabajo..."
+
+# game/day24.rpy:613
+translate spanish day24_b_cinema_blowjob_d7fabfaa:
+
+    # "{i}Teasingly slow, your sister unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Tentadoramente lenta, tu hermana desabrocha tus pantalones y libera tu erección, que está creciendo con impaciencia."
+
+# game/day24.rpy:615
+translate spanish day24_b_cinema_blowjob_87307cb2:
+
+    # "{i}Teasingly slow, [b_name] unzips your pants and frees your erection, which is growing in anticipation."
+    "{i}Tentadoramente lenta, [b_name] desabrocha tus pantalones y libera tu erección, que está creciendo con impaciencia."
+
+# game/day24.rpy:616
+translate spanish day24_b_cinema_blowjob_b8fa0169:
+
+    # b "You don't need much encouragement, do you?"
+    b "No necesitas mucho aliento, ¿verdad?"
+
+# game/day24.rpy:617
+translate spanish day24_b_cinema_blowjob_8c65b140:
+
+    # p "I'm terrible at self-control..."
+    p "Soy terrible en el cochecontrol..."
+
+# game/day24.rpy:619
+translate spanish day24_b_cinema_blowjob_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] mueve sus cálidos dedos alrededor de tu rabo, su toque envía escalofríos por tu columna vertebral."
+
+# game/day24.rpy:620
+translate spanish day24_b_cinema_blowjob_5ac5bdd8:
+
+    # b "What am I going to do with you?"
+    b "¿Qué voy a hacer contigo?"
+
+# game/day24.rpy:625
+translate spanish day24_b_cinema_blowjob_28621535:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees and looks up at you with her big blue eyes, her soft lips touching your tip."
+    "{i}Al principio crees que te va a masturbar pero la chica se arrodilla y te mira con sus grandes ojos azules sus suaves labios rozando tu punta"
+
+# game/day24.rpy:626
+translate spanish day24_b_cinema_blowjob_588bfeb2:
+
+    # b "Does your dick like kisses as well?"
+    b "¿A tu polla también le gustan los besos?"
+
+# game/day24.rpy:627
+translate spanish day24_b_cinema_blowjob_cc4c23cb:
+
+    # p "Y-y-yes."
+    p "S-s-si."
+
+# game/day24.rpy:628
+translate spanish day24_b_cinema_blowjob_5622981a:
+
+    # b "Good."
+    b "Bien."
+
+# game/day24.rpy:630
+translate spanish day24_b_cinema_blowjob_2e7c6246:
+
+    # "{i}With those words, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Con esas palabras, [b_name] besa ligeramente la punta de tu polla. La sensación húmeda casi hace que te corras al instante."
+
+# game/day24.rpy:631
+translate spanish day24_b_cinema_blowjob_9073349b:
+
+    # b "Not so fast mister. Or did you just twitch?"
+    b "No tan rápido, señor. ¿O es que te has movido?"
+
+# game/day24.rpy:632
+translate spanish day24_b_cinema_blowjob_6b3673f0:
+
+    # p "You're amazing, [b_name]."
+    p "Eres increíble, [b_name]."
+
+# game/day24.rpy:635
+translate spanish day24_b_cinema_blowjob_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Con diligencia, tu hermana da vueltas al precum que cubre la cabeza de tu polla."
+
+# game/day24.rpy:637
+translate spanish day24_b_cinema_blowjob_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Con diligencia, [b_name] da vueltas al precum que cubre la cabeza de tu polla."
+
+# game/day24.rpy:638
+translate spanish day24_b_cinema_blowjob_615f67a0:
+
+    # b "Mmmm, a taste of what's to come."
+    b "Mmmm, una muestra de lo que está por venir."
+
+# game/day24.rpy:640
+translate spanish day24_b_cinema_blowjob_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] continúa explorando la cabeza con su lengua, envolviendo cada vez más tu polla con su boca mientras la cubre con su cálida saliva."
+
+# game/day24.rpy:642
+translate spanish day24_b_cinema_blowjob_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Cuando finalmente toma a tu miembro completamente en su boca y comienza a chuparlo, es como si todas tus terminaciones nerviosas explotaran de placer."
+
+# game/day24.rpy:643
+translate spanish day24_b_cinema_blowjob_afa9afa1:
+
+    # p "G-g-god... [b_name]!!!"
+    p "Dios mío... [b_name]!!!"
+
+# game/day24.rpy:644
+translate spanish day24_b_cinema_blowjob_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Durante los momentos más tranquilos de la película, el silencio se llena con los sonidos húmedos de [b_name] trabajando en tu polla en la parte de atrás del cine."
+
+# game/day24.rpy:647
+translate spanish day24_b_cinema_blowjob_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Tu hermana deja de estimular tu rabo con su mano y masajea tus bolas, dejando que su boca haga todo el trabajo duro."
+
+# game/day24.rpy:649
+translate spanish day24_b_cinema_blowjob_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] deja de estimular tu rabo con su mano y masajea tus bolas, dejando que su boca haga todo el trabajo duro."
+
+# game/day24.rpy:650
+translate spanish day24_b_cinema_blowjob_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}La sensación de que estás a punto de explotar se hace cada vez más fuerte y [b_name] intensifica su succión, instándote a que te corras."
+
+# game/day24.rpy:654
+translate spanish day24_b_cinema_blowjob_5b70a97e:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "B-b-biennnnn sí, [b_name], me estoy corriendo, me estoy corriendo..."
+
+# game/day24.rpy:661
+translate spanish day24_b_cinema_blowjob_d4edc6ed:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment before you erupt, [b_name] pulls your cock from her mouth and points it at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Chupando, lamiendo y acariciándote con su boca hasta el último momento antes de que hagas erupción, [b_name] saca tu polla de su boca y la apunta hacia su cara. Flujos espesos de semen cubren sus nalgas y su fente."
+
+# game/day24.rpy:669
+translate spanish day24_b_cinema_blowjob_5b70a97e_1:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming..."
+    p "B-b-biennnnn sí, [b_name], me estoy corriendo, me estoy corriendo..."
+
+# game/day24.rpy:676
+translate spanish day24_b_cinema_blowjob_a7f54eac:
+
+    # "{i}Thick streams of cum fill her mouth. She keeps stimulating your glans and shaft until the last drops of semen have entered, and then she swallows."
+    "{i}Flujos espesos de semen llenan su boca. Ella sigue estimulando tu glande y tu rabo hasta que las últimas gotas de semen han entrado, y luego se lo traga."
+
+# game/day24.rpy:686
+translate spanish day24_b_cinema_blowjob_0f40afbb:
+
+    # "{i}Satisfied, [b_name] rests her head on your lap and you watch the rest of the movie in silence before returning home."
+    "{i}Satisfecho, [b_name] descansa su cabeza en tu regazo y miras el resto de la película en silencio antes de regresar a casa."
+
+# game/day24.rpy:696
+translate spanish day24_b_cinema_blowjob_hard_cc8f243c:
+
+    # "Is [b_name] a full sub in this scene?"
+    "¿[b_name] es un sub completo en esta escena?"
+
+# game/day24.rpy:700
+translate spanish day24_b_cinema_blowjob_hard_bf163b38:
+
+    # "[b_name] fully submissive"
+    "[b_name] totalmente sumisa"
+
+# game/day24.rpy:703
+translate spanish day24_b_cinema_blowjob_hard_5ab869b2:
+
+    # "[b_name] not fully submissive"
+    "[b_name] no completamente sumisa"
+
+# game/day24.rpy:709
+translate spanish day24_b_cinema_blowjob_hard_c2469b9d:
+
+    # "{i}You unzip your pants and wait for your sister to notice your growing erection."
+    "{i}Te desabrochas el pantalón y esperas a que su hermana note su creciente erección."
+
+# game/day24.rpy:711
+translate spanish day24_b_cinema_blowjob_hard_ef266da0:
+
+    # "{i}You unzip your pants and wait for [b_name] to notice your growing erection."
+    "{i}Te desabrochas el pantalón y esperas a que [b_name] note su creciente erección."
+
+# game/day24.rpy:714
+translate spanish day24_b_cinema_blowjob_hard_009d6b3a:
+
+    # "{i}When she finally does, her reaction isn't horror or shock, instead she hesitantly lays a hand on your thigh."
+    "{i}Cuando finalmente lo hace, su reacción no es horror o conmoción, sino que vacilantemente pone una mano sobre tu muslo."
+
+# game/day24.rpy:715
+translate spanish day24_b_cinema_blowjob_hard_2a01b12d:
+
+    # "{i}Slowly but surely her hand moves towards your erection."
+    "{i}Lenta pero segura, su mano se mueve hacia tu erección."
+
+# game/day24.rpy:717
+translate spanish day24_b_cinema_blowjob_hard_eea3a172:
+
+    # "{i}When she finally does, you take hold of one of her hands a put it on your thigh."
+    "{i}Cuando finalmente lo haces, tomas una de sus manos y la pones en tu muslo."
+
+# game/day24.rpy:718
+translate spanish day24_b_cinema_blowjob_hard_139feee7:
+
+    # b "You want me to?"
+    b "¿Quieres que lo haga?"
+
+# game/day24.rpy:719
+translate spanish day24_b_cinema_blowjob_hard_ecd502cb:
+
+    # p "Do as you like, but I'm still very tense after that stunt we pulled with Dwayne."
+    p "Haz lo que quieras, pero sigo muy tenso después de la escena que hicimos con Dwayne."
+
+# game/day24.rpy:721
+translate spanish day24_b_cinema_blowjob_hard_b17c1b9b:
+
+    # "{i}[b_name] snakes her warm fingers around your shaft, her touch sends shivers down your spine."
+    "{i}[b_name] mueve sus cálidos dedos alrededor de tu rabo, su toque envía escalofríos por tu columna vertebral."
+
+# game/day24.rpy:722
+translate spanish day24_b_cinema_blowjob_hard_17e757d2:
+
+    # p "Mmmm, yes [b_name], take care of me."
+    p "Mmmm, sí [b_name], cuídame."
+
+# game/day24.rpy:724
+translate spanish day24_b_cinema_blowjob_hard_7b6910bb:
+
+    # "{i}At first, you think she's going to jerk you off, but the girl drops to her knees of her own volition, her soft lips going right for your tip."
+    "{i}Al principio crees que te va a masturbar, pero la chica cae de rodillas por su propia voluntad, sus suaves labios van directamente a tu punta."
+
+# game/day24.rpy:726
+translate spanish day24_b_cinema_blowjob_hard_e85153db:
+
+    # "{i}Without saying a word, [b_name] kisses the tip of your dick lightly. The wet sensation almost makes you cum instantly."
+    "{i}Sin decir una palabra, [b_name] besa ligeramente la punta de tu polla. La sensación húmeda casi hace que te corras al instante."
+
+# game/day24.rpy:727
+translate spanish day24_b_cinema_blowjob_hard_10e78841:
+
+    # "{i}By sheer force of will you manage to stave off your orgasm, though precum has already spurted from your meatus, streaming down over the head of your cock."
+    "{i}Por pura fuerza de voluntad lograrás evitar tu orgasmo, aunque el precum ya ha brotado de tu glande, bajando por la cabeza de tu polla."
+
+# game/day24.rpy:733
+translate spanish day24_b_cinema_blowjob_hard_a5975cb5:
+
+    # "{i}Diligently, your sister laps up the precum that covers the head of your cock."
+    "{i}Con diligencia, tu hermana da vueltas al precum que cubre la cabeza de tu polla."
+
+# game/day24.rpy:735
+translate spanish day24_b_cinema_blowjob_hard_0559bb86:
+
+    # "{i}Diligently, [b_name] laps up the precum that covers the head of your cock."
+    "{i}Con diligencia, [b_name] da vueltas al precum que cubre la cabeza de tu polla."
+
+# game/day24.rpy:736
+translate spanish day24_b_cinema_blowjob_hard_85eef047:
+
+    # p "A little taste of what's to come."
+    p "Una pequeña muestra de lo que está por venir."
+
+# game/day24.rpy:737
+translate spanish day24_b_cinema_blowjob_hard_16c6f644:
+
+    # p "Keep going, sweetling."
+    p "Sigue adelante, cariño."
+
+# game/day24.rpy:739
+translate spanish day24_b_cinema_blowjob_hard_71b2b175:
+
+    # "{i}[b_name] continues exploring the head with her tongue, enveloping more and more of your dick with her mouth as she covers it with her warm saliva."
+    "{i}[b_name] continúa explorando la cabeza con su lengua, envolviendo cada vez más tu polla con su boca mientras la cubre con su cálida saliva."
+
+# game/day24.rpy:741
+translate spanish day24_b_cinema_blowjob_hard_e7436135:
+
+    # "{i}When she finally takes your member fully in her mouth and starts sucking, it's like all your nerve endings explode in pleasure."
+    "{i}Cuando finalmente toma a tu miembro completamente en su boca y comienza a chuparlo, es como si todas tus terminaciones nerviosas explotaran de placer."
+
+# game/day24.rpy:742
+translate spanish day24_b_cinema_blowjob_hard_4eb69aa0:
+
+    # p "G-g-god... [b_name], right there!"
+    p "Dios mío... [b_name], ¡justo ahí!"
+
+# game/day24.rpy:743
+translate spanish day24_b_cinema_blowjob_hard_b7ba16a0:
+
+    # "{i}During the quieter moments of the movie, the silence is filled with the wet sounds of [b_name] working on your cock in the back of the theater."
+    "{i}Durante los momentos más tranquilos de la película, el silencio se llena con los sonidos húmedos de [b_name] trabajando en tu polla en la parte de atrás del cine."
+
+# game/day24.rpy:746
+translate spanish day24_b_cinema_blowjob_hard_36a6ba48:
+
+    # "{i}Your sister stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}Tu hermana deja de estimular tu rabo con su mano y masajea tus bolas, dejando que su boca haga todo el trabajo duro."
+
+# game/day24.rpy:748
+translate spanish day24_b_cinema_blowjob_hard_7323eec2:
+
+    # "{i}[b_name] stops stimulating your shaft with her hand and massages your balls instead, letting her mouth do all the hard work."
+    "{i}[b_name] deja de estimular tu rabo con su mano y masajea tus bolas, dejando que su boca haga todo el trabajo duro."
+
+# game/day24.rpy:749
+translate spanish day24_b_cinema_blowjob_hard_7b07ad78:
+
+    # "{i}The feeling that you're about to explode is getting stronger and stronger, and [b_name] intensifies her sucking, urging you to come."
+    "{i}La sensación de que estás a punto de explotar se hace cada vez más fuerte y [b_name] intensifica su succión, instándote a que te corras."
+
+# game/day24.rpy:753
+translate spanish day24_b_cinema_blowjob_hard_15724afa:
+
+    # p "I'm cumming, [b_name], I'm cumming... Show me that pretty face of yours."
+    p "Me voy a correr, [b_name], Me voy a correr... Muéstrame esa cara bonita tuya."
+
+# game/day24.rpy:760
+translate spanish day24_b_cinema_blowjob_hard_c81a3959:
+
+    # "{i}Sucking, licking, and stroking you with her mouth right until the last moment, [b_name] pulls your cock from her mouth and points it dutifully at her face. Thick streams of cum cover her cheeks and forehead."
+    "{i}Chupando, lamiendo y acariciándote con su boca hasta el último momento, [b_name] saca tu polla de su boca y la apunta obedientemente hacia su cara. Flujos espesos de semen cubren sus nalgas y su frente."
+
+# game/day24.rpy:768
+translate spanish day24_b_cinema_blowjob_hard_367fcf46:
+
+    # p "G-g-oood yes, [b_name], I'm cumming, I'm cumming... Keep going!"
+    p "B-b-bien sí, [b_name], me estoy corriendo, me estoy corriendo... ¡Continúa!"
+
+# game/day24.rpy:775
+translate spanish day24_b_cinema_blowjob_hard_1cda4a77:
+
+    # "{i}Thick streams of cum fill her mouth and she dutifully keeps stimulating your tip and shaft until the last drops of semen have entered, then she swallows."
+    "{i}Flujos espesos de semen llenan su boca y ella sigue estimulando obedientemente tu punta y tu rabo hasta que las últimas gotas de semen han entrado, luego se lo traga."
+
+# game/day24.rpy:785
+translate spanish day24_b_cinema_blowjob_hard_a53e7326:
+
+    # "{i}[b_name] sits next to you again and you watch the remainder of the film in silence. She doesn't object to your arm on her shoulder and when you glance sideways, you think you see a vague smile gracing her face."
+    "{i}[b_name] se sienta a tu lado otra vez y miras el resto de la película en silencio. Ella no se opone a tu brazo sobre su hombro y cuando miras de reojo, crees ver una vaga sonrisa adornando su rostro.”"
+
+# game/day24.rpy:799
+translate spanish day24_l_masturbation_96021e66:
+
+    # l "{i}(Hmmmm, I can't sleep.)"
+    l "{i}(Hmmmm, no puedo dormir)"
+
+# game/day24.rpy:800
+translate spanish day24_l_masturbation_8d02f8ee:
+
+    # l "{i}(I don't know what came over me today after the dance class.)"
+    l "{i}(No sé qué me pasó hoy, después de la clase de baile.)"
+
+# game/day24.rpy:801
+translate spanish day24_l_masturbation_7c5b21b2:
+
+    # l "{i}(The dancing was amazing, the way we moved through the room. The way he lead me.)"
+    l "{i}(El baile fue increíble, la forma en que nos movimos por la habitación. La forma en que él me guió.)"
+
+# game/day24.rpy:803
+translate spanish day24_l_masturbation_d6f704e1:
+
+    # l "{i}(But those... those urges... I've never felt anything so strong.)"
+    l "{i}(Pero esos... esos impulsos... Nunca he sentido algo tan fuerte."
+
+# game/day24.rpy:804
+translate spanish day24_l_masturbation_3cbc1725:
+
+    # l "{i}(Maybe I'm just horny?)"
+    l "{i}(¿Tal vez sólo estoy cachonda?)"
+
+# game/day24.rpy:805
+translate spanish day24_l_masturbation_02645f0d:
+
+    # l "{i}(I was never horny... But that was before...)"
+    l "{i}(Nunca estuve cachonda... Pero eso fue antes...)"
+
+# game/day24.rpy:806
+translate spanish day24_l_masturbation_cddb261a:
+
+    # l "{i}(I'm just going to touch myself, just a little bit.)"
+    l "{i}(Voy a tocarme solo un poco.)"
+
+# game/day24.rpy:808
+translate spanish day24_l_masturbation_117ee799:
+
+    # l "{i}(Mmmmm. That feels good.)"
+    l "{i}(Mmmmm. Esto se siente bien.)"
+
+# game/day24.rpy:809
+translate spanish day24_l_masturbation_f7f616cf:
+
+    # l "{i}(What if somebody enters the room and sees me lying here, exposed?)"
+    l "{i}(¿Qué pasa si alguien entra en la habitación y me ve acostada aquí, expuesta?)"
+
+# game/day24.rpy:815
+translate spanish day24_l_masturbation_f74bcfb0:
+
+    # l "Aaah!"
+    l "Aaah!"
+
+# game/day24.rpy:816
+translate spanish day24_l_masturbation_9b376897:
+
+    # l "{i}(I'm so wet, how can I be so wet?)"
+    l "{i}(Estoy tan mojada, ¿cómo puedo estar tan mojada?)"
+
+# game/day24.rpy:817
+translate spanish day24_l_masturbation_2ed3fe55:
+
+    # l "{i}(I was only thinking of [p_name]. His strong arms, his body close to mine...)"
+    l "{i}(Solo estaba pensando en [p_name]. Sus fuertes brazos, su cuerpo cerca del mío...)"
+
+# game/day24.rpy:819
+translate spanish day24_l_masturbation_e00b402f:
+
+    # l "{i}(I should slip a finger in, that feels so nice.)"
+    l "{i}(Debería meter un dedo, se siente tan bien.)"
+
+# game/day24.rpy:820
+translate spanish day24_l_masturbation_5c161461:
+
+    # l "{i}(And I could pretend it was his...)"
+    l "{i}(Y podría fingir que es su...)"
+
+# game/day24.rpy:821
+translate spanish day24_l_masturbation_a66c0813:
+
+    # l "{i}(Damnit. I shouldn't think like that.)"
+    l "{i}(Maldición. No debería pensar así.)"
+
+# game/day24.rpy:822
+translate spanish day24_l_masturbation_3124a776:
+
+    # l "{i}(But it feels so good! I wonder what it would feel like if he...)"
+    l "{i}(¡Pero se siente tan bien! Me pregunto qué sensación tendría si él...)"
+
+# game/day24.rpy:827
+translate spanish day24_l_masturbation_ae8b0feb:
+
+    # l "{i}(No!)"
+    l "{i}(¡No!)"
+
+# game/day24.rpy:828
+translate spanish day24_l_masturbation_37bc17c2:
+
+    # l "{i}(I could use that thing... No harm in trying...)"
+    l "{i}(Podría usar esa cosa... No hay nada malo en intentarlo...)"
+
+# game/day24.rpy:830
+translate spanish day24_l_masturbation_75351201:
+
+    # l "{i}(Now, where did I leave it?)"
+    l "{i}(Ahora, ¿dónde lo dejé?)"
+
+# game/day24.rpy:831
+translate spanish day24_l_masturbation_cbf43995:
+
+    # l "{i}(I tucked it away somewhere under my bras.)"
+    l "{i}(Lo guardé en algún lugar debajo de mis sujetadores.)"
+
+# game/day24.rpy:833
+translate spanish day24_l_masturbation_0474ea86:
+
+    # l "{i}(Gosh, that thing is so obscene. All those bulges and ribs... I bet it feels cold inside.)"
+    l "{i}(Dios, esa cosa es tan obscena. Todas esas protuberancias y costuras... Apuesto a que se siente frío dentro.)"
+
+# game/day24.rpy:835
+translate spanish day24_l_masturbation_5927cf3e:
+
+    # l "{i}(Surely, only cheap porn stars use this...)"
+    l "{i}(Seguramente, solo las estrellas porno baratas usan esto...)"
+
+# game/day24.rpy:836
+translate spanish day24_l_masturbation_4211705b:
+
+    # l "{i}(Let's turn it on...)"
+    l "{i}(Vamos a encenderlo...)"
+
+# game/day24.rpy:841
+translate spanish day24_l_masturbation_28e7e8c3:
+
+    # l "{i}(Oh god, that's far too intense! This thing buzzes like an angry bee.)"
+    l "{i}(¡Oh Dios eso es demasiado intenso! Esta cosa zumba como una abeja enojada)"
+
+# game/day24.rpy:842
+translate spanish day24_l_masturbation_ad217b4b:
+
+    # l "{i}(No way I'm going to put that inside of me...)"
+    l "{i}(No puede ser voy a poner esto dentro de mí...)"
+
+# game/day24.rpy:843
+translate spanish day24_l_masturbation_a27cdeef:
+
+    # l "{i}(Let's see how it feels against my lips.)"
+    l "{i}(Veamos cómo se siente contra mis labios.)"
+
+# game/day24.rpy:849
+translate spanish day24_l_masturbation_819d64c5:
+
+    # l "Ooh god!"
+    l "¡Oh dios!"
+
+# game/day24.rpy:850
+translate spanish day24_l_masturbation_e139ff9f:
+
+    # l "{i}(Shit! Did I do that out loud?)"
+    l "{i}(¡Mierda! ¿Lo hice en voz alta?)"
+
+# game/day24.rpy:851
+translate spanish day24_l_masturbation_541edf9a:
+
+    # l "{i}(It feels so soft and the vibrations aren't too strong. Maybe I should press it harder against my pussy.)"
+    l "{i}(Se siente tan suave y las vibraciones no son demasiado fuertes. Tal vez debería presionarlo más fuerte contra mi coño.)"
+
+# game/day24.rpy:853
+translate spanish day24_l_masturbation_daa4514e:
+
+    # l "Ooh god yes!!!"
+    l "Ooh dios si!!!"
+
+# game/day24.rpy:854
+translate spanish day24_l_masturbation_8546bc73:
+
+    # l "{i}(I want it in me!)"
+    l "{i}(¡Lo quiero dentro de mí!)"
+
+# game/day24.rpy:858
+translate spanish day24_l_masturbation_bbe2a246:
+
+    # p "{i}(Better knock first, maybe she's already asleep.)"
+    p "{i}(Mejor llamar primero, tal vez ya esté dormida)"
+
+# game/day24.rpy:864
+translate spanish day24_l_masturbation_dda64edc:
+
+    # l "{i}(No! No! Not now!!!)"
+    l "{i}(¡No! ¡No! ¡Ahora no!)"
+
+# game/day24.rpy:865
+translate spanish day24_l_masturbation_b2267e91:
+
+    # l "Whoever it is, please go away!"
+    l "Quienquiera que sea, ¡vete!"
+
+# game/day24.rpy:866
+translate spanish day24_l_masturbation_ee5d2a57:
+
+    # l "{i}(Please don't come in, not like this! Please!)"
+    l "{i}(¡Por favor, no entres, ¡no así! Por favor!)"
+
+# game/day24.rpy:867
+translate spanish day24_l_masturbation_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:868
+translate spanish day24_l_masturbation_82822a0c_1:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:869
+translate spanish day24_l_masturbation_daaddcaa:
+
+    # l "{i}(I think it's safe again.)"
+    l "{i}(Creo que es seguro otra vez)"
+
+# game/day24.rpy:871
+translate spanish day24_l_masturbation_62a851fe:
+
+    # l "{i}(But now the mood is completely ruined.)"
+    l "{i}(Pero ahora el estado de ánimo está completamente arruinado.)"
+
+# game/day24.rpy:872
+translate spanish day24_l_masturbation_e8f4bcb5:
+
+    # l "{i}(Stupid thing.)"
+    l "{i}(Cosa estúpida)"
+
+# game/day24.rpy:873
+translate spanish day24_l_masturbation_83d4f7fb:
+
+    # l "{i}(I hate you.)"
+    l "{i}(Te odio.)"
+
+# game/day24.rpy:874
+translate spanish day24_l_masturbation_f1bc8cc9:
+
+    # l "{i}(Why am I talking to a vibrator?)"
+    l "{i}(¿Por qué estoy hablando con un vibrador?)"
+
+# game/day24.rpy:875
+translate spanish day24_l_masturbation_288197ec:
+
+    # l "{i}(I'd better get some rest and bury that filthy thing in a pile of laundry again tomorrow.)"
+    l "{i}(Será mejor que descanse y entierre esta cosa sucia en una pila de ropa mañana otra vez.)"
+
+# game/day24.rpy:877
+translate spanish day24_l_masturbation_80445dad:
+
+    # l "{i}(I'm so tired...)"
+    l "{i}(Estoy tan cansada...)"
+
+# game/day24.rpy:878
+translate spanish day24_l_masturbation_82822a0c_2:
+
+    # l "..."
+    l "..."
+
+# game/day24.rpy:898
+translate spanish day24_r_sex_c5b27efe:
+
+    # "{i}After you knock on the bathroom door and tell [r_name] it's you, you're quickly invited in."
+    "{i}Después de tocar la puerta del baño y decirle a [r_name] que eres tú, eres invitado rápidamente."
+
+# game/day24.rpy:904
+translate spanish day24_r_sex_faf33115:
+
+    # r "Hey handsome!"
+    r "¡Hola guapo!"
+
+# game/day24.rpy:905
+translate spanish day24_r_sex_77c3587b:
+
+    # p "How was your first day at college?"
+    p "¿Cómo fue tu primer día en la universidad?"
+
+# game/day24.rpy:906
+translate spanish day24_r_sex_8a91cb86:
+
+    # r "I forgot how utterly boring it was."
+    r "Olvidé lo aburrido que era."
+
+# game/day24.rpy:907
+translate spanish day24_r_sex_c7f06fb0:
+
+    # r "But Ana and Alina pulled me through."
+    r "Pero Ana y Alina me ayudaron."
+
+# game/day24.rpy:908
+translate spanish day24_r_sex_84c620c1:
+
+    # p "What?! You didn't think of me once?"
+    p "¡¿Qué?! ¿No pensaste en mí una vez?"
+
+# game/day24.rpy:909
+translate spanish day24_r_sex_7d4bdbf7:
+
+    # r "Of course I did, silly, you were on my mind the rest of the time."
+    r "Claro que sí, tonto, estabas en mi mente el resto del tiempo."
+
+# game/day24.rpy:911
+translate spanish day24_r_sex_3bdcda22:
+
+    # p "Are you done?"
+    p "¿Has terminado?"
+
+# game/day24.rpy:912
+translate spanish day24_r_sex_3915c8e5:
+
+    # r "Do you want me to be?"
+    r "¿Quieres que lo haga?"
+
+# game/day24.rpy:913
+translate spanish day24_r_sex_d5151d80:
+
+    # p "No! I've missed you all day and you look so gorgeous."
+    p "¡No! Te he extrañado todo el día y te ves tan hermosa."
+
+# game/day24.rpy:914
+translate spanish day24_r_sex_486dc62e:
+
+    # r "Why don't you slide in with me, the water is still warm."
+    r "¿Por qué no te metes conmigo? El agua aún está caliente."
+
+# game/day24.rpy:916
+translate spanish day24_r_sex_8c5ced7c:
+
+    # "{i}[r_name] nestles herself against you, her ass rubbing against your cock."
+    "{i}[r_name] se acurruca contra ti, su culo frota contra tu polla."
+
+# game/day24.rpy:917
+translate spanish day24_r_sex_86e48495:
+
+    # r "You're already getting a hard-on?!"
+    r "¿Ya estás teniendo una erección?"
+
+# game/day24.rpy:918
+translate spanish day24_r_sex_e88a0767:
+
+    # p "Sorry."
+    p "Lo siento."
+
+# game/day24.rpy:919
+translate spanish day24_r_sex_ed3dc877:
+
+    # r "I don't mind!"
+    r "¡No me importa!"
+
+# game/day24.rpy:920
+translate spanish day24_r_sex_cf0eaf12:
+
+    # r "God, I'm so tired."
+    r "Dios, estoy tan cansada."
+
+# game/day24.rpy:921
+translate spanish day24_r_sex_071ad574:
+
+    # p "You're tense as well, the muscles in your shoulders feel way too hard."
+    p "También estás tensa, los músculos de tus hombros se sienten demasiado duros."
+
+# game/day24.rpy:922
+translate spanish day24_r_sex_a0743e29:
+
+    # r "What are you going to do about it?"
+    r "¿Qué vas a hacer al respecto?"
+
+# game/day24.rpy:923
+translate spanish day24_r_sex_4ecf5b30:
+
+    # p "I know just the thing."
+    p "Sé exactamente lo que hay que hacer."
+
+# game/day24.rpy:929
+translate spanish day24_r_sex_c53373d1:
+
+    # "{i}You put your hands on her shoulders and massage her back. Your sister closes her eyes in pleasure."
+    "{i}Pones tus manos sobre sus hombros y masajeas su espalda. Tu hermana cierra los ojos de placer."
+
+# game/day24.rpy:931
+translate spanish day24_r_sex_565a891e:
+
+    # "{i}You put your hands on her shoulders and massage her back. [r_name] closes her eyes in pleasure."
+    "{i}Le pones las manos sobre los hombros y le masajeas la espalda. [r_name] cierra los ojos con placer."
+
+# game/day24.rpy:932
+translate spanish day24_r_sex_37fe5aac:
+
+    # r "Mmmmm. Now you have to do this every day."
+    r "Mmmmm. Ahora tienes que hacer eso todos los días."
+
+# game/day24.rpy:933
+translate spanish day24_r_sex_e6e01fc5:
+
+    # p "I really, really don't mind."
+    p "Realmente, realmente no me importa."
+
+# game/day24.rpy:934
+translate spanish day24_r_sex_07dfdc59:
+
+    # r "Kiss me!"
+    r "Bésame!"
+
+# game/day24.rpy:936
+translate spanish day24_r_sex_488c4ffb:
+
+    # "{i}Then you focus your attention to her lips and kiss her passionately. [r_name] turns her face fully towards you and moans slightly as her ass touches your cock again."
+    "{i}Luego centras tu atención en sus labios y la besas apasionadamente. [r_name] gira su rostro completamente hacia tí y gime levemente cuando su culo toca tu polla nuevamente."
+
+# game/day24.rpy:937
+translate spanish day24_r_sex_55fbac4d:
+
+    # p "Mmm, I think something else is too tense as well."
+    p "Mmm, creo que tambien hay algo más que está demasiado tenso."
+
+# game/day24.rpy:942
+translate spanish day24_r_sex_29a1976e:
+
+    # "{i}Your hand dips beneath the waterline and you touch her soft pussy, the girl lays an encouraging hand on top of yours."
+    "{i}Tu mano se sumerge debajo de la línea de flotación y tocas su suave coño, la chica pone una mano alentadora sobre la tuya."
+
+# game/day24.rpy:943
+translate spanish day24_r_sex_1c10fcb0:
+
+    # r "Yes, I'm really tense there..."
+    r "Sí, estoy muy tensa ahí..."
+
+# game/day24.rpy:946
+translate spanish day24_r_sex_51e8ab07:
+
+    # "{i}Roused by her words, you touch her pussy and stimulate her clitoris, while cupping her small breast in your other hand."
+    "{i}Conmovido por sus palabras, tocas su coño y estimulas su clítoris, mientras ahuecas su pequeño seno en la otra mano."
+
+# game/day24.rpy:947
+translate spanish day24_r_sex_ffd0dbde:
+
+    # r "Y-y-yes [p_name], t-touch me right there."
+    r "S-s-si [p_name], tócame ahí."
+
+# game/day24.rpy:948
+translate spanish day24_r_sex_249929b7:
+
+    # r "Aaaaah!"
+    r "¡Aaaaah!"
+
+# game/day24.rpy:955
+translate spanish day24_r_sex_02dd6072:
+
+    # b "Can I come in, [r_name]?"
+    b "¿Puedo entrar, [r_name]?"
+
+# game/day24.rpy:956
+translate spanish day24_r_sex_55fab30a:
+
+    # b "I really need to pee!"
+    b "¡Realmente necesito orinar!"
+
+# game/day24.rpy:957
+translate spanish day24_r_sex_f118db0c:
+
+    # r "Fuck! It's [b_name]!"
+    r "¡Joder! ¡Es [b_name]!"
+
+# game/day24.rpy:958
+translate spanish day24_r_sex_47ac2dc7:
+
+    # r "Hide!!!"
+    r "¡Escondeté!"
+
+# game/day24.rpy:960
+translate spanish day24_r_sex_24cdadc7:
+
+    # r "Just a minute, sis!"
+    r "¡Solo un minuto, hermanita!"
+
+# game/day24.rpy:962
+translate spanish day24_r_sex_969bd260:
+
+    # r "Just a minute, [b_name]!"
+    r "¡Un momento [b_name]!"
+
+# game/day24.rpy:964
+translate spanish day24_r_sex_ef9c89de:
+
+    # "{i}The slippery water makes it difficult to exit the bath quickly, but with some acrobatics you manage to reach the shower and close the curtain."
+    "{i}El agua resbaladiza hace que sea difícil salir del baño rápidamente, pero con algunas acrobacias logras llegar a la ducha y cerrar la cortina."
+
+# game/day24.rpy:965
+translate spanish day24_r_sex_d3cba48b:
+
+    # r "Come in!"
+    r "¡Entra!"
+
+# game/day24.rpy:967
+translate spanish day24_r_sex_390a81d1:
+
+    # b "Hey, thanks!"
+    b "¡Hey, gracias!"
+
+# game/day24.rpy:968
+translate spanish day24_r_sex_d45e798a:
+
+    # b "Are you okay? There was a lot of noise back there."
+    b "¿Estás bien? Había mucho ruido ahí atrás."
+
+# game/day24.rpy:969
+translate spanish day24_r_sex_4ad5bfc6:
+
+    # r "Yes... er... I thought I'd locked the door and wanted to open it for you."
+    r "Sí... er... pensé que había cerrado la puerta y quería abrirla para ti."
+
+# game/day24.rpy:970
+translate spanish day24_r_sex_6f6ed129:
+
+    # b "The door was open."
+    b "La puerta estaba abierta."
+
+# game/day24.rpy:971
+translate spanish day24_r_sex_1fcc4145:
+
+    # r "I realized that when I was halfway there, that was the noises you heard. Probably."
+    r "Me di cuenta de que cuando estaba a mitad de camino, esos eran los ruidos que se escuchaban. Probablemente."
+
+# game/day24.rpy:972
+translate spanish day24_r_sex_2b4a84c9:
+
+    # p "{i}(Don't mind me, I'm not here. And for fuck's sake, don't take a shower!!!)"
+    p "{i}(¡No te preocupes por mí, no estoy aquí. Y por el amor de Dios, no te duches!)"
+
+# game/day24.rpy:977
+translate spanish day24_r_sex_9e694855:
+
+    # b "Probably."
+    b "Probablemente."
+
+# game/day24.rpy:978
+translate spanish day24_r_sex_16d84762:
+
+    # b "God. Thank you again for letting me in. I really needed to go."
+    b "Dios. Gracias de nuevo por dejarme entrar. Realmente necesitaba hacerlo."
+
+# game/day24.rpy:980
+translate spanish day24_r_sex_314fc477:
+
+    # r "No problem."
+    r "No hay problema."
+
+# game/day24.rpy:981
+translate spanish day24_r_sex_c0644af4:
+
+    # b "So you've started college again today?"
+    b "¿Así que hoy empezaste la universidad?"
+
+# game/day24.rpy:982
+translate spanish day24_r_sex_eb6544d5:
+
+    # r "Yup. Hated it."
+    r "Sí. Lo odié."
+
+# game/day24.rpy:983
+translate spanish day24_r_sex_907473de:
+
+    # b "Don't worry, once you have your diploma, you can do whatever you like."
+    b "No te preocupes, una vez que tengas tu diploma, puedes hacer lo que quieras."
+
+# game/day24.rpy:984
+translate spanish day24_r_sex_9e58e45e:
+
+    # r "Did you have a good day?"
+    r "¿Has tenido un buen día?"
+
+# game/day24.rpy:986
+translate spanish day24_r_sex_8bab34f6:
+
+    # b "Yes, I really did!"
+    b "¡Sí, realmente lo hice!"
+
+# game/day24.rpy:987
+translate spanish day24_r_sex_63f9a95f:
+
+    # r "Tell me!"
+    r "¡Dime!"
+
+# game/day24.rpy:988
+translate spanish day24_r_sex_070ecb41:
+
+    # b "Long story!"
+    b "¡Una larga historia!"
+
+# game/day24.rpy:990
+translate spanish day24_r_sex_8f376377:
+
+    # r "Come now, [b_name], you're positively glowing."
+    r "Vamos, [b_name], estás positivamente resplandeciente."
+
+# game/day24.rpy:991
+translate spanish day24_r_sex_5cf30c78:
+
+    # b "I know, I know. I think for once, things are working out."
+    b "Lo sé, lo sé. Creo que por una vez, las cosas están funcionando."
+
+# game/day24.rpy:992
+translate spanish day24_r_sex_bee3ef17:
+
+    # p "{i}(Yes, today was a great day.)"
+    p "{i}(Sí, hoy fue un gran día)"
+
+# game/day24.rpy:993
+translate spanish day24_r_sex_0122e9ae:
+
+    # r "You're in love!!! I just know it!"
+    r "¡Estás enamorada! ¡Lo sé!"
+
+# game/day24.rpy:995
+translate spanish day24_r_sex_2993e132:
+
+    # b "Maybe..."
+    b "Tal vez..."
+
+# game/day24.rpy:996
+translate spanish day24_r_sex_45116a39:
+
+    # r "Who?! You have to tell me!"
+    r "¿De quién? ¡Tienes que decírmelo!"
+
+# game/day24.rpy:997
+translate spanish day24_r_sex_12ff8583:
+
+    # b "Just enjoy your bath. I'll tell you when I'm ready."
+    b "Simplemente disfruta de tu baño. Te lo diré cuando estés lista."
+
+# game/day24.rpy:998
+translate spanish day24_r_sex_72562e9e:
+
+    # p "{i}(Will she ever be ready?)"
+    p "{i}(¿Alguna vez estará lista?)"
+
+# game/day24.rpy:1000
+translate spanish day24_r_sex_d2622335:
+
+    # b "{i}(That can't be true, can it?)"
+    b "{i}(Eso no puede ser cierto, ¿verdad?"
+
+# game/day24.rpy:1001
+translate spanish day24_r_sex_5d7f781e:
+
+    # b "No, but someone special did help me move past a bad experience."
+    b "No, pero alguien especial me ayudó a superar una mala experiencia."
+
+# game/day24.rpy:1002
+translate spanish day24_r_sex_0d7d562f:
+
+    # r "I'm glad. It sure looks good on you!"
+    r "Me alegro. ¡Se ve muy bien en ti!"
+
+# game/day24.rpy:1003
+translate spanish day24_r_sex_faf82db6:
+
+    # p "{i}(She thinks I'm someone special. [b_name] is really coming around!)"
+    p "{i}(¡Ella piensa que soy alguien especial. [b_name] está volviendo en sí!)"
+
+# game/day24.rpy:1005
+translate spanish day24_r_sex_da5994be:
+
+    # b "{i}(Not a chance of that!)"
+    b "{i}(¡No hay posibilidad de eso!)"
+
+# game/day24.rpy:1006
+translate spanish day24_r_sex_fafdc263:
+
+    # b "No, but someone did help me move past a bad experience."
+    b "No, pero alguien me ayudó a superar una mala experiencia."
+
+# game/day24.rpy:1007
+translate spanish day24_r_sex_6d60bdeb:
+
+    # r "Whatever, you just look happier is all."
+    r "Lo que sea, solo te ves más feliz es todo."
+
+# game/day24.rpy:1008
+translate spanish day24_r_sex_be6b6660:
+
+    # p "{i}(I guess she hasn't fully submitted herself to me yet. I still have some work to do.)"
+    p "{i}(Supongo que aún no se ha sometido completamente a mí. Todavía tengo algo de trabajo que hacer.)"
+
+# game/day24.rpy:1010
+translate spanish day24_r_sex_d8a5cb24:
+
+    # b "Well, you know, same old, same old."
+    b "Bueno, ya sabes, lo mismo de siempre."
+
+# game/day24.rpy:1011
+translate spanish day24_r_sex_555666ff:
+
+    # r "Yeah."
+    r "Sí."
+
+# game/day24.rpy:1012
+translate spanish day24_r_sex_22dcb7fa:
+
+    # b "I'll leave you to your bath."
+    b "Te dejaré para que te bañes."
+
+# game/day24.rpy:1013
+translate spanish day24_r_sex_35cc7ca5:
+
+    # p "{i}(Don't look to the right!)"
+    p "{i}(¡No mires a la derecha!)"
+
+# game/day24.rpy:1014
+translate spanish day24_r_sex_b93142cc:
+
+    # r "Thanks, sleep tight."
+    r "Gracias, que duermas bien."
+
+# game/day24.rpy:1015
+translate spanish day24_r_sex_14aef3ff:
+
+    # b "You too, sis."
+    b "Tú también, hermana."
+
+# game/day24.rpy:1024
+translate spanish day24_r_sex_d31f2b7e:
+
+    # r "I think she's gone."
+    r "Creo que se ha ido."
+
+# game/day24.rpy:1025
+translate spanish day24_r_sex_f13c71aa:
+
+    # r "How's my peeping Tom?"
+    r "¿Cómo está mi mirón?"
+
+# game/day24.rpy:1026
+translate spanish day24_r_sex_db0dba76:
+
+    # p "Scared shitless, but I'll manage."
+    p "Asustado como una mierda, pero me las arreglaré."
+
+# game/day24.rpy:1027
+translate spanish day24_r_sex_306b895b:
+
+    # r "Let's have a shower together then, get rid of all that sweat."
+    r "Démonos una ducha juntos entonces, deshagámonos de todo ese sudor."
+
+# game/day24.rpy:1033
+translate spanish day24_r_sex_0ba03374:
+
+    # "{i}You rinse your sister's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Enjuagas el cuerpo de tu hermana con tus manos, te deshaces de toda la espuma de jabón y te das una excusa para tocarla como quieras. No es que [r_name] se queje."
+
+# game/day24.rpy:1035
+translate spanish day24_r_sex_c8affe1d:
+
+    # "{i}You rinse your friend's body with your hands, getting rid of all the soap suds and giving you an excuse to touch her as you please. Not that [r_name] complains."
+    "{i}Enjuagas el cuerpo de tu amiga con tus manos, te deshaces de toda la espuma de jabón y te das una excusa para tocarla como quieras. No es que [r_name] se queje."
+
+# game/day24.rpy:1036
+translate spanish day24_r_sex_3943a244:
+
+    # r "Mmmm, this feels nice as well."
+    r "Mmmm, esto se siente bien también."
+
+# game/day24.rpy:1037
+translate spanish day24_r_sex_102cd8bd:
+
+    # r "Listen, [p_name], I know I said I was tired..."
+    r "Escucha, [p_name], té que dije que estaba cansada..."
+
+# game/day24.rpy:1038
+translate spanish day24_r_sex_b1388a61:
+
+    # p "Yes... I have a feeling I like where this is going."
+    p "Sí... tengo la sensación de que me gusta a dónde va esto."
+
+# game/day24.rpy:1043
+translate spanish day24_r_sex_510cc1ff:
+
+    # "{i}Noticing your erection, [r_name] pulls up her leg and rubs her pussy along the shaft."
+    "{i}Al notar tu erección, [r_name] levanta su pierna y frota su coño a lo largo del rabo."
+
+# game/day24.rpy:1045
+translate spanish day24_r_sex_8fdada81:
+
+    # r "I really want to have sex."
+    r "Realmente quiero tener sexo."
+
+# game/day24.rpy:1047
+translate spanish day24_r_sex_64ba66d3:
+
+    # r "I want you inside of me."
+    r "Te quiero dentro de mí."
+
+# game/day24.rpy:1048
+translate spanish day24_r_sex_a7109580:
+
+    # r "Feel you, feel your cum inside of me."
+    r "Sentirte, sentir tu semen dentro de mí."
+
+# game/day24.rpy:1051
+translate spanish day24_r_sex_a1b15a1a:
+
+    # "{i}Despite the water, you're able to slip your cock inside her pussy. You grab her butt tightly and gently thrust your shaft inside her, eliciting a small moan from [r_name]."
+    "{i}A pesar del agua, puedes deslizar tu polla dentro de su coño. Agarras su culo con fuerza y ​​empujas suavemente tu rabo dentro de ella, provocando un pequeño gemido de [r_name]."
+
+# game/day24.rpy:1053
+translate spanish day24_r_sex_8a7c140b:
+
+    # r "Ah yes, fuck me. I want to feel you so bad."
+    r "Ah sí, fóllame. Quiero sentirte muy bien."
+
+# game/day24.rpy:1058
+translate spanish day24_r_sex_69f4a87e:
+
+    # "{i}Afraid you'll fall, you let [r_name] rest her hand against the wall, so you can fuck her without restraint."
+    "{i}Temeroso de que te caigas, dejas que [r_name] apoye su mano contra la pared, para que puedas follártela sin restricciones."
+
+# game/day24.rpy:1059
+translate spanish day24_r_sex_488f2b52:
+
+    # r "G-g-god, fuck me harder! I want you [p_name]! Fuck me!"
+    r "¡Dios mío, fóllame más fuerte! ¡Te quiero [p_name]! ¡Fóllame!"
+
+# game/day24.rpy:1061
+translate spanish day24_r_sex_fe069684:
+
+    # "{i}[r_name] claws at your wet hair as you nibble on her earlobe. With each thrust, you seem to pull her closer towards you, her ass smacking against your abdomen."
+    "{i}[r_name] araña tu pelo mojado mientras le mordisqueas el lóbulo de la oreja. Con cada empuje pareces atraerla más hacia ti, su culo golpeando contra tu abdomen."
+
+# game/day24.rpy:1062
+translate spanish day24_r_sex_8a8d4ccb:
+
+    # p "I love you so much, [r_name]!"
+    p "¡Te quiero mucho, [r_name]!"
+
+# game/day24.rpy:1063
+translate spanish day24_r_sex_50b82d1f:
+
+    # r "Aaaaah, keep going!"
+    r "¡Aaaaah, sigue adelante!"
+
+# game/day24.rpy:1069
+translate spanish day24_r_sex_4ce5ecb2:
+
+    # "{i}You turn her around, so you can look her in the eyes when you orgasm. Despite the warm water her breath is hot against your cheeks when she moans in pleasure."
+    "{i}La das la vuelta, para que puedas mirarla a los ojos cuando llegas al orgasmo. A pesar del agua tibia su aliento es caliente contra sus nalgas cuando gime de placer."
+
+# game/day24.rpy:1074
+translate spanish day24_r_sex_f6992741:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "¡Dios mío, estoy listo, [r_name]!"
+
+# game/day24.rpy:1075
+translate spanish day24_r_sex_33470745:
+
+    # r "Keep fucking me! Please!"
+    r "¡Sigue follándome! ¡Por favor!"
+
+# game/day24.rpy:1083
+translate spanish day24_r_sex_c0a02d04:
+
+    # p "G-g-aaaaah!"
+    p "¡G-g-aaaaah!"
+
+# game/day24.rpy:1084
+translate spanish day24_r_sex_6fbc588f:
+
+    # "{i}You fulfil her wish and keep pounding her deeply until your cream drips from her pussy and mixes with the water from the shower."
+    "{i}Cumples su deseo y sigues metiendósela profundamente hasta que tu crema gotea de su coño y se mezcla con el agua de la ducha."
+
+# game/day24.rpy:1094
+translate spanish day24_r_sex_f6992741_1:
+
+    # p "G-g-god, I'm ready, [r_name]!"
+    p "¡Dios mío, estoy listo, [r_name]!"
+
+# game/day24.rpy:1095
+translate spanish day24_r_sex_50ed1e49:
+
+    # p "On your knees baby, I want to see that lovely face of yours."
+    p "De rodillas cariño, quiero ver esa cara encantadora tuya."
+
+# game/day24.rpy:1103
+translate spanish day24_r_sex_c0a02d04_1:
+
+    # p "G-g-aaaaah!"
+    p "¡G-g-aaaaah!"
+
+# game/day24.rpy:1104
+translate spanish day24_r_sex_3e62347d:
+
+    # "{i}[r_name] fingers herself as her face is covered in your semen. Some of it enters her mouth and she swallows without hesitation."
+    "{i}[r_name] se acaricia mientras su rostro está cubierto de semen. Algo de eso entra en su boca y traga sin dudar."
+
+# game/day24.rpy:1113
+translate spanish day24_r_sex_21a88cd7:
+
+    # "{i}You keep [r_name] close as the remnants of your coupling wash away. Afterwards, you kiss each other goodnight and leave the bathroom separately."
+    "{i}Mantienes [r_name] cerca mientras los restos de tu acoplamiento desaparecen. Después, se besan y se van del baño por separado."
+

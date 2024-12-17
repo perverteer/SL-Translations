@@ -1348,3 +1348,119 @@ translate spanish strings:
     old "Continue"
     new "Continuar"
 
+# TODO: Translation updated at 2024-11-29 09:53
+
+translate spanish strings:
+
+    # renpy/common/00accessibility.rpy:121
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menú de accesibilidad. Utilice las flechas arriba y abajo para navegar, y enter para activar botones y barras."
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new "El soporte de autovoz es limitado cuando se utiliza una pantalla táctil."
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new "Personaliza director.transforms para añadir más transformaciones."
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new "Haz clic para fijar."
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new "Personaliza director.transitions para añadir más transiciones."
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new "Personaliza director.audio_channels para añadir más canales."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "¿Seguro que quieres continuar donde lo dejaste?"
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new "habilitación de la autovocalización"
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new "desactivación de la voz propia"
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new "activación del voicing del portapapeles"
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new "desactivación de la voz del portapapeles"
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new "debug voicing disable"
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new "restaurar la posición de la ventana"
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new "reiniciar"
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new "(burbujas claras retenidas)"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Traducción identificador: [identificador]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " traduce [tl.filename]:[tl.linenumber]"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\Copiado al portapapeles."
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new "No se han encontrado métodos de actualización."
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new "No se ha podido descargar la lista de archivos:"
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new "El resumen de la lista de archivos no coincide."
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new "Preparando la descarga de los datos del juego."
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new "Descarga de los datos del juego."
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new "Se han descargado los datos del juego."
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new "Se ha producido un error al intentar descargar los datos del juego:"
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new "Este juego no puede ejecutarse hasta que se hayan descargado los datos del juego."
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new "Reintentar"
+

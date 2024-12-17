@@ -4312,3 +4312,2417 @@ translate spanish day21_choices_96e28405:
 
     # p "Back when I lived at my dad's, I had a thing with an older woman."
     p "Cuando vivía en casa de mi padre tuve algo con una mujer mayor."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day21.rpy:460
+translate spanish day21_b_gym_sex_144886ec:
+
+    # "{i}[b_name] knocks on your door after a while, and you both walk to the gym, chatting the whole way."
+    "{i}[b_name] llama a tu puerta al cabo de un rato y ambos os dirigís al gimnasio charlando todo el camino"
+
+# game/day21.rpy:462
+translate spanish day21_b_gym_sex_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "¿Entonces aquí es donde sucede la magia?"
+
+# game/day21.rpy:463
+translate spanish day21_b_gym_sex_668676f8:
+
+    # b "Hehe, just know it's going to be boring. Just exercises."
+    b "Jeje, solo sé que va a ser aburrido. Solo ejercicios."
+
+# game/day21.rpy:464
+translate spanish day21_b_gym_sex_b80def4c:
+
+    # p "Watching a beautiful girl working up a sweat for me can't be boring."
+    p "Ver a una chica hermosa que suda mucho no puede ser aburrido."
+
+# game/day21.rpy:465
+translate spanish day21_b_gym_sex_e3b0b618:
+
+    # b "Ah, you think I'm doing this all for you?"
+    b "Ah, ¿crees que estoy haciendo todo esto por ti?"
+
+# game/day21.rpy:466
+translate spanish day21_b_gym_sex_f151c2f9:
+
+    # p "What, you don't?!"
+    p "¿Qué, no lo haces?"
+
+# game/day21.rpy:468
+translate spanish day21_b_gym_sex_b0c9fd8a:
+
+    # b "Haha, you're such a dork sometimes."
+    b "Jaja, a veces eres tan idiota."
+
+# game/day21.rpy:469
+translate spanish day21_b_gym_sex_d8ad1d4b:
+
+    # p "It's one of my many fine qualities."
+    p "Es una de mis muchas excelentes cualidades."
+
+# game/day21.rpy:471
+translate spanish day21_b_gym_sex_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] comienza lo que debe ser su rutina habitual. Al principio es consciente de tu presencia, pero muy pronto se ve atrapada con los ejercicios físicos."
+
+# game/day21.rpy:472
+translate spanish day21_b_gym_sex_b1847037:
+
+    # p "{i}(Hot damn. What a girl!)"
+    p "{i}(¡Maldición! ¡Qué chica!)"
+
+# game/day21.rpy:475
+translate spanish day21_b_gym_sex_4f819c57:
+
+    # "{i}Your sister clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}Tu hermana claramente tiene un estricto régimen de entrenamiento y no se ahorra, su cuerpo está cubierto de sudor"
+
+# game/day21.rpy:477
+translate spanish day21_b_gym_sex_ed9f41ab:
+
+    # "{i}[b_name] clearly has a strict training regimen and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] claramente tiene un estricto régimen de entrenamiento y no se ahorra, su cuerpo está cubierto de sudor"
+
+# game/day21.rpy:478
+translate spanish day21_b_gym_sex_e528c206:
+
+    # p "{i}(She sure has stamina, look at her going at it.)"
+    p "{i}(Seguro que tiene resistencia, mírala mientras lo hace.)"
+
+# game/day21.rpy:479
+translate spanish day21_b_gym_sex_2ace204e:
+
+    # p "Would you like a drink, [b_name]?"
+    p "¿Quieres un trago, [b_name]?"
+
+# game/day21.rpy:480
+translate spanish day21_b_gym_sex_aba98715:
+
+    # "{i}You hand her a bottle of cold water."
+    "{i}Le das una botella de agua fría."
+
+# game/day21.rpy:485
+translate spanish day21_b_gym_sex_9d41dd47:
+
+    # b "Thank you! Just what I needed."
+    b "¡Gracias! Justo lo que necesitaba."
+
+# game/day21.rpy:486
+translate spanish day21_b_gym_sex_770959f4:
+
+    # b "Could you lend me a hand with these next few exercises?"
+    b "¿Podrías echarme una mano con los próximos ejercicios?"
+
+# game/day21.rpy:487
+translate spanish day21_b_gym_sex_a3d4cf4f:
+
+    # p "Sure thing."
+    p "Claro que sí."
+
+# game/day21.rpy:488
+translate spanish day21_b_gym_sex_01bd4b87:
+
+    # "{i}[b_name] walks to a more secluded corner of the gym. You don't see any specific workout equipment you could use together."
+    "{i}[b_name] camina hacia un rincón más apartado del gimnasio. No ves ningún equipo de entrenamiento específico que puedan usar juntos."
+
+# game/day21.rpy:489
+translate spanish day21_b_gym_sex_bef5a181:
+
+    # p "What would you like me to do?"
+    p "¿Qué te gustaría que hiciera?"
+
+# game/day21.rpy:490
+translate spanish day21_b_gym_sex_ce89ea26:
+
+    # b "Kiss me. Hard."
+    b "Bésame. Fuerte."
+
+# game/day21.rpy:491
+translate spanish day21_b_gym_sex_5c041ffd:
+
+    # p "We're going to train those muscles?"
+    p "¿Vamos a entrenar esos músculos?"
+
+# game/day21.rpy:492
+translate spanish day21_b_gym_sex_c80d3399:
+
+    # b "[p_name]... Why aren't you kissing me already?"
+    b "[p_name]... ¿Por qué no me besas ya?"
+
+# game/day21.rpy:493
+translate spanish day21_b_gym_sex_71651c93:
+
+    # p "Right!"
+    p "¡De acuerdo!"
+
+# game/day21.rpy:495
+translate spanish day21_b_gym_sex_a6bdc4b0:
+
+    # "{i}Within moments you're in a tight embrace and kiss her lips, still cold from the water she just drank."
+    "{i}En unos momentos estás en un fuerte abrazo y besas sus labios, todavía fríos por el agua que acaba de beber."
+
+# game/day21.rpy:496
+translate spanish day21_b_gym_sex_6aef8b85:
+
+    # "{i}Being this close to her arouses all those wild feelings you have for her in an instant, despite being surrounded by other people working out."
+    "{i}Estar tan cerca de ella despierta todos esos sentimientos salvajes que tienes por ella en un instante, a pesar de estar rodeado de otras personas trabajando."
+
+# game/day21.rpy:497
+translate spanish day21_b_gym_sex_bdb94b53:
+
+    # b "Mmmmm. Just what I needed."
+    b "Mmmmm. Justo lo que necesitaba."
+
+# game/day21.rpy:498
+translate spanish day21_b_gym_sex_e4f43b25:
+
+    # p "I just can't stop looking at you."
+    p "No puedo dejar de mirarte."
+
+# game/day21.rpy:499
+translate spanish day21_b_gym_sex_346133e7:
+
+    # b "You're not making it easy for me either. Normally I would've done over forty squats."
+    b "Tampoco me lo estás poniendo fácil. Normalmente hubiera hecho más de cuarenta sentadillas."
+
+# game/day21.rpy:500
+translate spanish day21_b_gym_sex_6d5267bc:
+
+    # p "So you'll grow fat and lazy because I'm distracting you?"
+    p "¿Así que te volverás gorda y perezosa porque te estoy distrayendo?"
+
+# game/day21.rpy:502
+translate spanish day21_b_gym_sex_6663db28:
+
+    # b "And old, don't forget old."
+    b "Y vieja, no te olvides de vieja."
+
+# game/day21.rpy:503
+translate spanish day21_b_gym_sex_30e929d1:
+
+    # p "We'd better train those tongue muscles again for good measure."
+    p "Será mejor que entrenemos esos músculos de la lengua de nuevo por si acaso."
+
+# game/day21.rpy:504
+translate spanish day21_b_gym_sex_ea8c1349:
+
+    # b "Good idea."
+    b "Buena idea."
+
+# game/day21.rpy:507
+translate spanish day21_b_gym_sex_8eac1a57:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and your sister moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}Tu lengua explora los confines de su cálida boca y tu hermana gime mientras chupas la punta de su lengua. Su parte superior de la pierna empuja contra tu entrepierna donde tu erección está creciendo rápidamente."
+
+# game/day21.rpy:509
+translate spanish day21_b_gym_sex_47d65306:
+
+    # "{i}Your tongue explores the confines of her warm mouth, and she moans as you suck at the tip of her tongue. Her upper leg pushes against your crotch where an erection is growing rapidly."
+    "{i}Tu lengua explora los confines de su cálida boca y gime mientras chupas la punta de su lengua. Su parte superior de la pierna empuja contra tu entrepierna donde tu erección está creciendo rápidamente."
+
+# game/day21.rpy:519
+translate spanish day21_b_gym_sex_6756e9e3:
+
+    # "{i}Without thinking, you trace the curve of her body with your hands until arriving at her sports shorts. You can't help yourself, and one of your hands slips inside. [b_name] gasps but doesn't stop you, as she's too focused on kissing you."
+    "{i}Sin pensarlo trazas con tus manos la curva de su cuerpo hasta llegar a su short deportivo No puedes evitarlo y una de tus manos se cuela dentro [b_name] jadea pero no te detiene ya que está demasiado concentrada en besarte"
+
+# game/day21.rpy:520
+translate spanish day21_b_gym_sex_9dffafa2:
+
+    # b "Mmmmmm..."
+    b "Mmmmmm..."
+
+# game/day21.rpy:522
+translate spanish day21_b_gym_sex_f45f6368:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, your sister softly moans."
+    "{i}Tus dedos exploran su pubis y se mueven hacia su sexo. Su piel está sudorosa y cálida, pero al llegar a su apretada raja crees que su humedad se debe a algo más que a la transpiración. Cuando tocas los labios de su coño, tu hermana gime suavemente.”"
+
+# game/day21.rpy:524
+translate spanish day21_b_gym_sex_6261ed4d:
+
+    # "{i}Your fingers explore her pubis and move down towards her sex. Her skin is sweaty and warm, but arriving at her tight slit, you think her wetness is due to something more than just perspiration. When you touch her pussy lips, [b_name] softly moans."
+    "{i}Tus dedos exploran su pubis y se mueven hacia su sexo. Su piel es sudorosa y cálida, pero al llegar a su apretada raja crees que su humedad se debe a algo más que a la transpiración. Cuando tocas los labios de su coño, [ b_name] gime suavemente.”"
+
+# game/day21.rpy:525
+translate spanish day21_b_gym_sex_828887ce:
+
+    # b "W-we shouldn't... not here... all these people..."
+    b "N-no deberíamos... no aquí... toda esta gente..."
+
+# game/day21.rpy:530
+translate spanish day21_b_gym_sex_9ab270c8:
+
+    # "{i}Her half-hearted objection trails off in a whisper and she begins to gently grind her body back and forth against your hand to further stimulate her pussy."
+    "{i}Su objeción a medias se desvanece en un susurro y comienza a gentilmente a mover su cuerpo hacia atrás y adelante contra tu mano para estimular aún más su coño."
+
+# game/day21.rpy:531
+translate spanish day21_b_gym_sex_4ef4b90b:
+
+    # p "I want you so bad!"
+    p "¡Te quiero tanto!"
+
+# game/day21.rpy:532
+translate spanish day21_b_gym_sex_d6cb7822:
+
+    # b "Y-yes... I'm yours... A-all yours."
+    b "S-sí... soy tuya... T-toda tuya."
+
+# game/day21.rpy:533
+translate spanish day21_b_gym_sex_b4d7e83b:
+
+    # "{i}After a quick look around the gym, you see that nobody is watching you and decide to go a little further. One finger slips inside her cunny, and you slowly massage her clit with your thumb."
+    "{i}Después de un rápido vistazo por el gimnasio ves que nadie te está mirando y decides ir un poco más allá Un dedo se desliza dentro de su coño y masajeas lentamente su clítoris con el pulgar"
+
+# game/day21.rpy:534
+translate spanish day21_b_gym_sex_34f81256:
+
+    # b "G-god..."
+    b "Dios mío..."
+
+# game/day21.rpy:536
+translate spanish day21_b_gym_sex_121be70c:
+
+    # "{i}[b_name] is trembling and breathing heavily into your ear as you rub her little button and penetrate her with your fingers. Her juices flow freely and soak the lining of her pants. She's already close to cumming."
+    "{i}[b_name] está temblando y respirando fuertemente en tu oido mientras frotas su pequeño botón y la penetras con tus dedos. Sus jugos fluyen libremente y empapan el forro de sus pantalones. Ella está cerca de correrse."
+
+# game/day21.rpy:541
+translate spanish day21_b_gym_sex_f203a078:
+
+    # b "Keep going.... Aaah... don't stop!"
+    b "Sigue... Aaah... ¡no te detengas!"
+
+# game/day21.rpy:544
+translate spanish day21_b_gym_sex_d12bed83:
+
+    # "{i}With clenched teeth, [b_name] orgasms. She buries her face in your chest and lets out a muffled moan as you hold her trembling body."
+    "{i}Con los dientes apretados [b_name] tiene un orgasmo. Ella entierra la cara en tu pecho y deja escapar un gemido ahogado mientras sostienes su cuerpo tembloroso."
+
+# game/day21.rpy:545
+translate spanish day21_b_gym_sex_9f639178:
+
+    # b "F-f-fuuu... Mmmmmm...."
+    b "J-j-joood... Mmmmmm..."
+
+# game/day21.rpy:556
+translate spanish day21_b_gym_sex_bf73b465:
+
+    # man "Hey, everything all right, [b_name]?"
+    man "Hey, ¿todo bien, [b_name]?"
+
+# game/day21.rpy:557
+translate spanish day21_b_gym_sex_721b1e4e:
+
+    # p "{i}(Jesus Christ... Where did this walking muscle come from all of a sudden?)"
+    p "{i}(Jesucristo... ¿De dónde salió este músculoso caminante de repente?)"
+
+# game/day21.rpy:558
+translate spanish day21_b_gym_sex_b53302e1:
+
+    # b "What? Oh... No... Everything is fine, Jake."
+    b "¿Qué? Oh... No... Todo está bien, Jake."
+
+# game/day21.rpy:559
+translate spanish day21_b_gym_sex_67d25e44:
+
+    # man "Really, it looked like you were crying."
+    man "Realmente, parecía que estabas llorando."
+
+# game/day21.rpy:560
+translate spanish day21_b_gym_sex_abec0156:
+
+    # b "Crying? Hahahaha! No."
+    b "¿Llorando? ¡Jajajaja! No."
+
+# game/day21.rpy:561
+translate spanish day21_b_gym_sex_15832199:
+
+    # b "Err... That is... My boyfriend just wanted a kiss and told me something really funny..."
+    b "Err... Eso es... Mi novio solo quería un beso y me dijo algo realmente divertido..."
+
+# game/day21.rpy:562
+translate spanish day21_b_gym_sex_6d909fa8:
+
+    # p "{i}(Boyfriend? I really like the sound of that.)"
+    p "{i}(¿Novio? Realmente me gusta cómo suena eso.)"
+
+# game/day21.rpy:563
+translate spanish day21_b_gym_sex_2b0d0ebf:
+
+    # man "Your boyfriend? That's new. Good for you."
+    man "¿Tu novio? Eso es nuevo. Bien por ti."
+
+# game/day21.rpy:564
+translate spanish day21_b_gym_sex_33d08722:
+
+    # b "Very new..."
+    b "Muy nuevo..."
+
+# game/day21.rpy:565
+translate spanish day21_b_gym_sex_a51001c0:
+
+    # b "Jake, meet [p_name]."
+    b "Jake, te presento a [p_name]."
+
+# game/day21.rpy:566
+translate spanish day21_b_gym_sex_77336608:
+
+    # man "Hi [p_name], good to meet you."
+    man "Hola [p_name], un placer conocerte."
+
+# game/day21.rpy:567
+translate spanish day21_b_gym_sex_f12f3823:
+
+    # p "Likewise."
+    p "Lo mimso digo."
+
+# game/day21.rpy:569
+translate spanish day21_b_gym_sex_1c9cae75:
+
+    # man "Funny, I thought you told me you had a brother named [p_name]."
+    man "Es curioso, pensé que me habías dicho que tenías un hermano llamado [p_name]."
+
+# game/day21.rpy:571
+translate spanish day21_b_gym_sex_e56068d3:
+
+    # man "Funny, I thought you told me you had a roommate named [p_name]."
+    man "Es curioso, pensé que me habías dicho que tenías un compañero de cuarto llamado [p_name]."
+
+# game/day21.rpy:572
+translate spanish day21_b_gym_sex_2a2fdc6d:
+
+    # p "{i}(Fuck...)"
+    p "{i}(Joder...)"
+
+# game/day21.rpy:573
+translate spanish day21_b_gym_sex_99bc9865:
+
+    # b "I did... I do... I... What a coincidence, right?!"
+    b "Lo hice... lo hago... yo... ¡Qué coincidencia, verdad?!"
+
+# game/day21.rpy:574
+translate spanish day21_b_gym_sex_d38275bc:
+
+    # man "Yeah, I also remember you said he was a total cunt, so it's nice you found a [p_name], who isn't!"
+    man "Sí, también recuerdo que dijiste era un completo cabrón, así que es bueno que hayas encontrado un [p_name], ¡que no lo es!"
+
+# game/day21.rpy:575
+translate spanish day21_b_gym_sex_24c008e3:
+
+    # b "Hahaha! It sure is."
+    b "Jajaja! Seguro que lo es."
+
+# game/day21.rpy:576
+translate spanish day21_b_gym_sex_90285634:
+
+    # man "Well, I'll let you go back to working out."
+    man "Bueno, te dejaré volver a hacer tus ejercicios."
+
+# game/day21.rpy:577
+translate spanish day21_b_gym_sex_9ee609ae:
+
+    # b "Thanks Jake, be seeing you."
+    b "Gracias Jake, nos vemos."
+
+# game/day21.rpy:578
+translate spanish day21_b_gym_sex_abfe29d7:
+
+    # p "Later, Jake."
+    p "Hasta luego, Jake."
+
+# game/day21.rpy:580
+translate spanish day21_b_gym_sex_712f81ec:
+
+    # p "A total cunt?"
+    p "¿Era un completo cabrón?"
+
+# game/day21.rpy:581
+translate spanish day21_b_gym_sex_fe00d6cb:
+
+    # b "Yes... well... You know how things were a while back."
+    b "Sí... bueno... ya sabes cómo eran las cosas hace un tiempo."
+
+# game/day21.rpy:586
+translate spanish day21_b_gym_sex_a459634b:
+
+    # p "I know and I understand. I like the current situation better."
+    p "Lo sé y lo entiendo. Me gusta más la situación actual."
+
+# game/day21.rpy:588
+translate spanish day21_b_gym_sex_26cf29e0:
+
+    # b "Me too!"
+    b "¡A mí también!"
+
+# game/day21.rpy:591
+translate spanish day21_b_gym_sex_01e4c0fc:
+
+    # p "Yeah, but I'm a little disappointed that you blabbered about it to everyone, even strangers."
+    p "Sí, pero estoy un poco decepcionado de que hayas parloteado sobre eso con todos, incluso con extraños."
+
+# game/day21.rpy:592
+translate spanish day21_b_gym_sex_5a6712b4:
+
+    # b "Jake is not really a stranger. He's the owner of the gym."
+    b "Jake no es realmente un extraño. Es el dueño del gimnasio."
+
+# game/day21.rpy:593
+translate spanish day21_b_gym_sex_5482603c:
+
+    # p "Same difference."
+    p "La misma diferencia."
+
+# game/day21.rpy:594
+translate spanish day21_b_gym_sex_d817793f:
+
+    # b "All right, I'm sorry, okay?"
+    b "Muy bien, lo siento, ¿de acuerdo?"
+
+# game/day21.rpy:595
+translate spanish day21_b_gym_sex_597a0cab:
+
+    # p "Thank you, that means a lot."
+    p "Gracias, eso significa mucho."
+
+# game/day21.rpy:596
+translate spanish day21_b_gym_sex_e373cc95:
+
+    # b "That was close..."
+    b "Eso estuvo cerca..."
+
+# game/day21.rpy:597
+translate spanish day21_b_gym_sex_2173159d:
+
+    # p "Do you think he knew what we were doing?"
+    p "¿Crees que él sabía lo que estábamos haciendo?"
+
+# game/day21.rpy:598
+translate spanish day21_b_gym_sex_7c89abfd:
+
+    # b "He has his suspicions, I think."
+    b "Creo que tiene sus sospechas."
+
+# game/day21.rpy:599
+translate spanish day21_b_gym_sex_d5882690:
+
+    # p "So, no chance of you jerking me off right now?"
+    p "Entonces, ¿no hay posibilidad de que me pajees ahora mismo?"
+
+# game/day21.rpy:600
+translate spanish day21_b_gym_sex_ef85b22b:
+
+    # b "What?! Here?"
+    b "¡¿Qué?! ¿Aquí?"
+
+# game/day21.rpy:601
+translate spanish day21_b_gym_sex_1e48aeba:
+
+    # p "Just kidding. Though I do have a raging boner right now."
+    p "Es broma. Aunque tengo una erección furiosa en este momento."
+
+# game/day21.rpy:602
+translate spanish day21_b_gym_sex_35cb0dc2:
+
+    # b "Sorry."
+    b "Lo siento."
+
+# game/day21.rpy:603
+translate spanish day21_b_gym_sex_14437da3:
+
+    # p "Don't be, you just have that effect on me."
+    p "No lo hagas, solo tienes ese efecto en mí."
+
+# game/day21.rpy:606
+translate spanish day21_b_gym_sex_c5a8fed4:
+
+    # "{i}Although you don't really want to, you stop kissing and release her from your embrace."
+    "{i}Aunque realmente no quieres, dejas de besarla y la liberas de tu abrazo."
+
+# game/day21.rpy:607
+translate spanish day21_b_gym_sex_275e1a19:
+
+    # p "Working out..."
+    p "Haciendo ejercicio..."
+
+# game/day21.rpy:608
+translate spanish day21_b_gym_sex_b2e91cce:
+
+    # b "Right. Yes. Very important."
+    b "Correcto. Sí. Muy importante."
+
+# game/day21.rpy:618
+translate spanish day21_b_gym_sex_sub_c02de978:
+
+    # "{i}After a while [b_name] leaves her room and heads out to the gym. You follow her and walk with her, but she tries to ignore you the entire way."
+    "{i}Después de un rato [b_name] sale de su habitación y se dirige al gimnasio. La sigues y caminas con ella, pero ella trata de ignorarte todo el camino."
+
+# game/day21.rpy:622
+translate spanish day21_b_gym_sex_sub_075d39ca:
+
+    # p "So this is where the magic happens?"
+    p "¿Entonces aquí es donde sucede la magia?"
+
+# game/day21.rpy:623
+translate spanish day21_b_gym_sex_sub_a4a598e3:
+
+    # b "This where I work out, yes. On my own, without any 'help'..."
+    b "Aquí es donde hago ejercicio, sí. Por mi cuenta, sin ninguna 'ayuda'..."
+
+# game/day21.rpy:624
+translate spanish day21_b_gym_sex_sub_7c7a216e:
+
+    # p "Come on [b_name], you know I can help you reach new heights, the past few days must have proven that at least."
+    p "Vamos [b_name], sabes que puedo ayudarte a alcanzar nuevas alturas, los últimos días deben haber demostrado al menos eso."
+
+# game/day21.rpy:625
+translate spanish day21_b_gym_sex_sub_8d57bbe6:
+
+    # b "You're so bad at innuendo, you know that?"
+    b "Eres tan malo en insinuaciones, ¿lo sabes?"
+
+# game/day21.rpy:626
+translate spanish day21_b_gym_sex_sub_43bbbeed:
+
+    # p "I personally think it's one of my stronger talents."
+    p "Personalmente creo que es uno de mis talentos más fuertes."
+
+# game/day21.rpy:627
+translate spanish day21_b_gym_sex_sub_822213e0:
+
+    # b "Well. Aren't you going to grope me in public or something?"
+    b "Bueno. ¿No vas a manosearme en público o algo así?"
+
+# game/day21.rpy:628
+translate spanish day21_b_gym_sex_sub_85022ff7:
+
+    # p "Now now, do you think I'm that blunt? Just do your thing. I enjoy watching you."
+    p "Ahora, ¿crees que soy tan directo? Solo haz lo tuyo. Disfruto mirándote."
+
+# game/day21.rpy:630
+translate spanish day21_b_gym_sex_sub_febf7b0d:
+
+    # "{i}[b_name] starts what must be her regular routine. At first she's mindful of your presence, but pretty soon she's caught up in the physical exercises."
+    "{i}[b_name] comienza lo que debe ser su rutina habitual. Al principio es consciente de tu presencia, pero muy pronto se ve atrapada con los ejercicios físicos."
+
+# game/day21.rpy:631
+translate spanish day21_b_gym_sex_sub_f7510cab:
+
+    # p "{i}(Hot damn. One of these days she should be doing those squats on my cock.)"
+    p "{i}(Maldición. Uno de estos días debería estar haciendo esas sentadillas en mi polla.)"
+
+# game/day21.rpy:634
+translate spanish day21_b_gym_sex_sub_65f33abb:
+
+    # "{i}Your sister clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}Tu hermana claramente tiene un estricto regimiento de entrenamiento y no se ahorra, su cuerpo está cubierto de sudor"
+
+# game/day21.rpy:636
+translate spanish day21_b_gym_sex_sub_5984f925:
+
+    # "{i}[b_name] clearly has a strict training regiment and doesn't spare herself, her body is covered in sweat."
+    "{i}[b_name] claramente tiene un estricto regimiento de entrenamiento y no se ahorra, su cuerpo está cubierto de sudor"
+
+# game/day21.rpy:637
+translate spanish day21_b_gym_sex_sub_8f5eb655:
+
+    # p "{i}(That girl sure has stamina, good to know...)"
+    p "{i}(Esa chica seguramente tiene resistencia, es bueno saberlo...)"
+
+# game/day21.rpy:638
+translate spanish day21_b_gym_sex_sub_7f11eca3:
+
+    # p "Hey [b_name], let's go over there. I'll help you train."
+    p "Hey [b_name], vamos allí. Te ayudaré a entrenar."
+
+# game/day21.rpy:639
+translate spanish day21_b_gym_sex_sub_d08b33d2:
+
+    # b "Can't you see I'm busy?"
+    b "¿No ves que estoy ocupada?"
+
+# game/day21.rpy:640
+translate spanish day21_b_gym_sex_sub_38b6b876:
+
+    # p "No, you're done here. Come with me."
+    p "No, ya terminaste aquí. Ven conmigo."
+
+# game/day21.rpy:642
+translate spanish day21_b_gym_sex_sub_e9742a76:
+
+    # "{i}As you 'help' [b_name] with the exercising, your hands explore the tight fabric of her top. You massage her breasts and linger around her hard nipples. Her measured breathing suddenly falters, and she begins to squirm."
+    "{i}Mientras \"ayudas\" [b_name] con el ejercicio tus manos exploran el tejido apretado de su top. Le masajea las tetas y te centras alrededor de sus duros pezones. Su respiración medida de repente vacila y comienza a retorcerse."
+
+# game/day21.rpy:643
+translate spanish day21_b_gym_sex_sub_792eb6a8:
+
+    # p "You're doing great so far. Why don't you rub your ass against me?"
+    p "Lo estás haciendo bien hasta ahora. ¿Por qué no te frotas el culo contra mí?"
+
+# game/day21.rpy:644
+translate spanish day21_b_gym_sex_sub_7bac559a:
+
+    # b "Somebody is going to notice!"
+    b "¡Alguien se va a dar cuenta!"
+
+# game/day21.rpy:645
+translate spanish day21_b_gym_sex_sub_f3d73fc3:
+
+    # p "In this place? Everybody is too self-absorbed."
+    p "¿En este lugar? Todos están demasiado absortos en sí mismos."
+
+# game/day21.rpy:648
+translate spanish day21_b_gym_sex_sub_910689c8:
+
+    # "{i}Your sister arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}Tu hermana arquea la espalda, presiona su culo contra tu entrepierna y se menea. Sus nalgas estimulan tu creciente erección. Le susurras al oído."
+
+# game/day21.rpy:650
+translate spanish day21_b_gym_sex_sub_a79d7fe2:
+
+    # "{i}The girl arches her back, presses her butt against your crotch and wiggles. Her buttocks stimulate your growing erection. You whisper in her ear."
+    "{i}La chica arquea la espalda, presiona su culo contra tu entrepierna y se menea. Sus nalgas estimulan tu creciente erección. Le susurras al oído."
+
+# game/day21.rpy:651
+translate spanish day21_b_gym_sex_sub_e09e2dc9:
+
+    # p "If there wasn't anybody around, I'd rip your clothes off and fuck you right here and now."
+    p "Si no hubiera nadie alrededor, te arrancaría la ropa y te follaría aquí y ahora."
+
+# game/day21.rpy:657
+translate spanish day21_b_gym_sex_sub_ae29689c:
+
+    # "{i}You let your fingers slide inside her sports pants, stroke the soft skin of her pubis and work your way further down. [b_name] gasps."
+    "{i}Dejas que tus dedos se deslicen dentro de sus pantalones deportivos acariciando la suave piel de su pubis y sigues bajando [b_name] jadea"
+
+# game/day21.rpy:658
+translate spanish day21_b_gym_sex_sub_6c438d84:
+
+    # p "Would you like that, [b_name]? Bury my cock deep inside your wet pussy..."
+    p "¿Te gustaría eso, [b_name]? Entierrar mi polla dentro de tu mojado coño..."
+
+# game/day21.rpy:659
+translate spanish day21_b_gym_sex_sub_77b110d2:
+
+    # "{i}What you feel inside her tight pants isn't just sweat, as it seems [b_name]'s cunny has responded to your stimulation. To your satisfaction, you notice that she's very wet as your finger slips inside her warm confines."
+    "{i}Lo que sientes dentro de sus ajustados pantalones no es sólo sudor ya que parece que el coño de [b_name] ha respondido a tu estimulación Para tu satisfacción notas que está muy mojada mientras tu dedo se desliza dentro de sus cálidos confines"
+
+# game/day21.rpy:660
+translate spanish day21_b_gym_sex_sub_5f107e39:
+
+    # p "And that pussy is already wet..."
+    p "Y ese coño ya está mojado..."
+
+# game/day21.rpy:661
+translate spanish day21_b_gym_sex_sub_5d98f8dc:
+
+    # b "Mmmmm... No! It's from the exercises... sweat!"
+    b "Mmmmm... ¡No! Es de los ejercicios... ¡es sudor!"
+
+# game/day21.rpy:662
+translate spanish day21_b_gym_sex_sub_b845af16:
+
+    # p "Your pussy is dripping wet and your clit... Ah, your clit is as hard as can be."
+    p "Tu coño está mojado y tu clítoris... Ah, tu clítoris es tan duro como puede ser."
+
+# game/day21.rpy:664
+translate spanish day21_b_gym_sex_sub_39f994b7:
+
+    # "{i}You pull her pants down and massage her pussy and clit. Her legs begin to tremble and weakly, she tries to push your hand away."
+    "{i}Le bajas los pantalones y le masajeas el coño y el clítoris. Sus piernas comienzan a temblar y débilmente, ella trata de alejarte la mano."
+
+# game/day21.rpy:666
+translate spanish day21_b_gym_sex_sub_7f0e271f:
+
+    # p "Are you enjoying yourself, sis?"
+    p "¿Te estás divirtiendo, hermana?"
+
+# game/day21.rpy:668
+translate spanish day21_b_gym_sex_sub_a677306a:
+
+    # p "Are you enjoying yourself, [b_name]?"
+    p "¿Te estás divirtiendo, [b_name]?"
+
+# game/day21.rpy:669
+translate spanish day21_b_gym_sex_sub_1cb8b021:
+
+    # b "No... Aaaaah... Mmmmm..."
+    b "No... Aaaaah... Mmmmm..."
+
+# game/day21.rpy:670
+translate spanish day21_b_gym_sex_sub_0c6ffba8:
+
+    # p "It seems you aren't concerned we might get caught?"
+    p "¿Parece que no te preocupa que nos pillen?"
+
+# game/day21.rpy:671
+translate spanish day21_b_gym_sex_sub_8054646e:
+
+    # b "Yes... Aah-I am."
+    b "Sí... Aah-lo estoy."
+
+# game/day21.rpy:672
+translate spanish day21_b_gym_sex_sub_abd7fb7b:
+
+    # "{i}[b_name] wriggles against your body, her ass still massaging your cock. She doesn't want to escape from your lustful embrace any longer and gives herself over to your control."
+    "{i}[b_name] se retuerce contra tu cuerpo, su culo aún masajea tu polla. Ya no quiere escapar de tu abrazo lujurioso y se entrega a tu control."
+
+# game/day21.rpy:673
+translate spanish day21_b_gym_sex_sub_22fefb59:
+
+    # p "Do you want to cum?"
+    p "¿Quieres correrte?"
+
+# game/day21.rpy:675
+translate spanish day21_b_gym_sex_sub_81039d72:
+
+    # b "Y-y-yes!"
+    b "¡S-s-sí!"
+
+# game/day21.rpy:676
+translate spanish day21_b_gym_sex_sub_738b71f9:
+
+    # p "Say 'please'."
+    p "Di 'por favor'."
+
+# game/day21.rpy:677
+translate spanish day21_b_gym_sex_sub_ac1a813d:
+
+    # b "Please."
+    b "Por favor."
+
+# game/day21.rpy:678
+translate spanish day21_b_gym_sex_sub_ffe3d7b9:
+
+    # p "'I want you to make me cum, [p_name], please.'"
+    p "'Quiero que me hagas correr, [p_name], por favor'."
+
+# game/day21.rpy:679
+translate spanish day21_b_gym_sex_sub_f4b1f793:
+
+    # b "F-f-fuck!"
+    b "¡J-j-joder!"
+
+# game/day21.rpy:680
+translate spanish day21_b_gym_sex_sub_7ad8d009:
+
+    # b "I want you to make me cum, [p_name], please..."
+    b "Quiero que me hagas correrme, [p_name], por favor..."
+
+# game/day21.rpy:681
+translate spanish day21_b_gym_sex_sub_eaa9ca80:
+
+    # p "Good girl."
+    p "Buena chica."
+
+# game/day21.rpy:688
+translate spanish day21_b_gym_sex_sub_a454ff74:
+
+    # man "Is everything all right, miss? Is this man bothering you?"
+    man "¿Está todo bien, señorita? ¿Le está molestando este hombre?"
+
+# game/day21.rpy:689
+translate spanish day21_b_gym_sex_sub_35ba70ca:
+
+    # b "What?"
+    b "¿Qué?"
+
+# game/day21.rpy:690
+translate spanish day21_b_gym_sex_sub_26bba494:
+
+    # p "{i}(Fuck! Has he seen us?)"
+    p "{i}(¡Joder! ¿Nos ha visto?)"
+
+# game/day21.rpy:691
+translate spanish day21_b_gym_sex_sub_9359f322:
+
+    # p "{i}(Don't rat us out, [b_name]!)"
+    p "{i}(¡No nos delates, [b_name]!)"
+
+# game/day21.rpy:692
+translate spanish day21_b_gym_sex_sub_dcdc2c9d:
+
+    # b "Everything is fine. We know each other pretty well."
+    b "Todo está bien. Nos conocemos bastante bien."
+
+# game/day21.rpy:693
+translate spanish day21_b_gym_sex_sub_699164d8:
+
+    # man "Okay... if you say so. Just give a shout if you need anything."
+    man "Está bien... si tú lo dices. Solo grita si necesitas algo."
+
+# game/day21.rpy:694
+translate spanish day21_b_gym_sex_sub_95a41504:
+
+    # "{i}[b_name] inches closer towards you, almost protectively, her buttocks pressing against your erection which still hasn't subsided."
+    "{i}[b_name] a centímetros más cerca de ti, casi de forma protectora, sus nalgas presionan contra tu erección que aún no ha disminuido."
+
+# game/day21.rpy:695
+translate spanish day21_b_gym_sex_sub_a06ef875:
+
+    # b "Thank you, but I'm good."
+    b "Gracias, pero estoy bien."
+
+# game/day21.rpy:696
+translate spanish day21_b_gym_sex_sub_764d76e8:
+
+    # man "Okay, well enjoy your workout."
+    man "Está bien, disfruta de tu entrenamiento."
+
+# game/day21.rpy:697
+translate spanish day21_b_gym_sex_sub_902fabbc:
+
+    # b "I will."
+    b "Lo haré."
+
+# game/day21.rpy:698
+translate spanish day21_b_gym_sex_sub_cda4a5d4:
+
+    # p "{i}(She was until you interrupted us, you brain-dead beef-bus.)"
+    p "{i}(Lo era hasta que nos interrumpiste, idiota con muerte cerebral.)"
+
+# game/day21.rpy:701
+translate spanish day21_b_gym_sex_sub_4528da82:
+
+    # "{i}As soon as the guy's back is turned, your sister starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Tan pronto como le das la espalda al chico, tu hermana comienza a mover su culo contra tu entrepierna nuevamente. Claramente quiere que continúes y te mira con una mirada ansiosa y expectante."
+
+# game/day21.rpy:703
+translate spanish day21_b_gym_sex_sub_edc2c449:
+
+    # "{i}As soon as the guy's back is turned, [b_name] starts to move her ass up against your crotch again. She clearly wants you to continue and looks up at you with a longing, expectant gaze."
+    "{i}Tan pronto como se da la espalda, [b_name] comienza a mover su culo contra tu entrepierna nuevamente. Ella claramente quiere que continúes y te mira con una mirada ansiosa y expectante."
+
+# game/day21.rpy:705
+translate spanish day21_b_gym_sex_sub_2d5501e5:
+
+    # p "{i}(Now might be a good time to stop things. I'm pretty sure I have her completely ready for what's coming next.)"
+    p "{i}(Ahora podría ser un buen momento para detener las cosas. Estoy bastante seguro de que la tengo completamente lista para lo que vendrá después.)"
+
+# game/day21.rpy:707
+translate spanish day21_b_gym_sex_sub_0c82b872:
+
+    # p "{i}(If I stop now, she might be completely ready for what's coming next.)"
+    p "{i}(Si me detengo ahora, ella podría estar completamente lista para lo que vendrá después)"
+
+# game/day21.rpy:709
+translate spanish day21_b_gym_sex_sub_c6dfc494:
+
+    # p "{i}(If I stop now, she might be ready for what's coming next.)"
+    p "{i}(Si me detengo ahora, ella podría estar lista para lo que vendrá después)"
+
+# game/day21.rpy:710
+translate spanish day21_b_gym_sex_sub_3e8fbb37:
+
+    # p "I'm so sorry [b_name], but that guy completely ruined the mood."
+    p "Lo siento mucho [b_name], pero ese tipo arruinó por completo mí estado de ánimo."
+
+# game/day21.rpy:711
+translate spanish day21_b_gym_sex_sub_ef0da038:
+
+    # b "But..."
+    b "Pero..."
+
+# game/day21.rpy:712
+translate spanish day21_b_gym_sex_sub_df44d03d:
+
+    # b "No!"
+    b "¡No!"
+
+# game/day21.rpy:714
+translate spanish day21_b_gym_sex_sub_dd312059:
+
+    # b "Fine."
+    b "Bien."
+
+# game/day21.rpy:715
+translate spanish day21_b_gym_sex_sub_587ad8c3:
+
+    # b "Be that way."
+    b "Sea de esa manera."
+
+# game/day21.rpy:716
+translate spanish day21_b_gym_sex_sub_f68d136a:
+
+    # p "Let me see some squats."
+    p "Déjame ver algunas sentadillas."
+
+# game/day21.rpy:718
+translate spanish day21_b_gym_sex_sub_85f7066f:
+
+    # "{i}[b_name] performs some cursory squats, her mind obviously fixed on other things. After she's done, you walk back home in silence."
+    "{i}[b_name] realiza algunas sentadillas superficiales, su mente obviamente se fijó en otras cosas. Después de que hayas terminado, caminas de regreso a casa en silencio."
+
+# game/day21.rpy:731
+translate spanish day21_discreet_session_95fa9f8d:
+
+    # m "Ah, you're finally here again."
+    m "Ah, finalmente estás aquí de nuevo."
+
+# game/day21.rpy:732
+translate spanish day21_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day21.rpy:733
+translate spanish day21_discreet_session_45a824a7:
+
+    # m "Come to fulfill some of your base desires?"
+    m "¿Has venido a cumplir algunos de tus deseos básicos?"
+
+# game/day21.rpy:734
+translate spanish day21_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day21.rpy:735
+translate spanish day21_discreet_session_cecd225b:
+
+    # m "Undress."
+    m "Desnudate."
+
+# game/day21.rpy:736
+translate spanish day21_discreet_session_4af4498e:
+
+    # p "{i}(Will this ever feel normal, undressing in front of her?)"
+    p "{i}(¿Alguna vez se sentirá normal, desnudarse delante de ella?)"
+
+# game/day21.rpy:737
+translate spanish day21_discreet_session_0549bda9:
+
+    # m "Good. You may open a door."
+    m "Bien. Puedes abrir una puerta."
+
+# game/day21.rpy:738
+translate spanish day21_discreet_session_05559a6b:
+
+    # "{i}You randomly pick a door and open it, expecting to find another starkly lit dungeon, like the one from the previous session."
+    "{i}Al azar, eliges una puerta y la abres, esperando encontrar otra mazmorra muy iluminada, como la de la sesión anterior."
+
+# game/day21.rpy:740
+translate spanish day21_discreet_session_7d9ea6ef:
+
+    # m "Looks like we're going back to high school."
+    m "Parece que volveremos a la escuela secundaria."
+
+# game/day21.rpy:741
+translate spanish day21_discreet_session_3344d219:
+
+    # m "Did you have a good time there? Fuck a lot of girls?"
+    m "¿Te lo pasaste bien allí? ¿Te has follado a muchas chicas?"
+
+# game/day21.rpy:742
+translate spanish day21_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "No, ama."
+
+# game/day21.rpy:743
+translate spanish day21_discreet_session_e1d72883:
+
+    # m "That's really sad. I think today we'll be able to remedy that."
+    m "Eso es realmente triste. Creo que hoy podremos remediar eso."
+
+# game/day21.rpy:744
+translate spanish day21_discreet_session_443c06ff:
+
+    # p "I look forward to that, mistress."
+    p "Espero eso, ama."
+
+# game/day21.rpy:745
+translate spanish day21_discreet_session_43af49d1:
+
+    # m "I'm sure you do. Look at that cock of yours, already hard in anticipation."
+    m "Estoy segura de que sí. Mira esa polla tuya, ya dura con impaciencia."
+
+# game/day21.rpy:746
+translate spanish day21_discreet_session_59677baa:
+
+    # p "{i}(I just can't help it, with you so close...)"
+    p "{i}(Simplemente no puedo evitarlo, contigo tan cerca...)"
+
+# game/day21.rpy:747
+translate spanish day21_discreet_session_dc1a25c4:
+
+    # m "Have a seat."
+    m "Toma asiento."
+
+# game/day21.rpy:750
+translate spanish day21_discreet_session_cd799cad:
+
+    # "{i}You sit down, naked, on a cold chair. You're pretty sure you've never experienced high school quite like this. [m_name] paces at the front of the classroom."
+    "{i}Te sientas, desnudo, en una silla fría. Estás bastante seguro de que nunca has experimentado la escuela secundaria de esta manera. [m_name] camina al frente del aula."
+
+# game/day21.rpy:751
+translate spanish day21_discreet_session_943cde36:
+
+    # m "We're waiting for another student."
+    m "Estamos esperando a otro estudiante."
+
+# game/day21.rpy:752
+translate spanish day21_discreet_session_d868e6ee:
+
+    # p "{i}(Looks like Adriana will also be here.)"
+    p "{i}(Parece que Adriana también estará aquí)"
+
+# game/day21.rpy:756
+translate spanish day21_discreet_session_b79d2d0c:
+
+    # "{i}After a while, there's a knock on the door."
+    "{i}Después de un rato, llaman a la puerta."
+
+# game/day21.rpy:757
+translate spanish day21_discreet_session_1cd2afd5:
+
+    # m "Enter."
+    m "Entra."
+
+# game/day21.rpy:762
+translate spanish day21_discreet_session_22718f3f:
+
+    # p "{i}(Sweet Jesus, what a gorgeous slut she is!)"
+    p "{i}(Dulce Jesús, qué hermosa zorra es.!)"
+
+# game/day21.rpy:763
+translate spanish day21_discreet_session_13da845d:
+
+    # m "You're late, Adriana."
+    m "Llegas tarde, Adriana."
+
+# game/day21.rpy:764
+translate spanish day21_discreet_session_84084fce:
+
+    # ad "I'm sorry, mistress."
+    ad "Lo siento, ama."
+
+# game/day21.rpy:765
+translate spanish day21_discreet_session_7bea97c2:
+
+    # m "I don't want to hear your excuses, you know what the punishment is for being late."
+    m "No quiero oir tus excusas, sabes cuál es el castigo por llegar tarde."
+
+# game/day21.rpy:766
+translate spanish day21_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day21.rpy:767
+translate spanish day21_discreet_session_4e5cd7f8:
+
+    # m "Remind our other student."
+    m "Recuerdaselo a nuestro otro estudiante."
+
+# game/day21.rpy:768
+translate spanish day21_discreet_session_1a258af7:
+
+    # ad "If we're late, you'll spank our butt."
+    ad "Si llegamos tarde, nos azotarás."
+
+# game/day21.rpy:769
+translate spanish day21_discreet_session_af8c729e:
+
+    # m "Indeed. Your ass is in need of a good thrashing."
+    m "De hecho. Tu culo necesita unos buenos azotes."
+
+# game/day21.rpy:770
+translate spanish day21_discreet_session_6ca2764f:
+
+    # m "Come here."
+    m "Ven aquí."
+
+# game/day21.rpy:771
+translate spanish day21_discreet_session_fb194b13:
+
+    # "{i}Adriana walks over to [m_name], giving you a good look of her long legs and her breasts, which are nearly popping out of her tight blouse."
+    "{i}Adriana se acerca a [m_name], dándote una buena mirada de sus largas piernas y sus tetas, que casi salen de su blusa ajustada."
+
+# game/day21.rpy:772
+translate spanish day21_discreet_session_47f81000:
+
+    # m "Bend over."
+    m "Inclínate."
+
+# game/day21.rpy:787
+translate spanish day21_discreet_session_81d54b29:
+
+    # "{i}Without warning, [m_name] slaps Adriana's left buttock with the flat of her hand. There's a lot of force behind that slap as the older woman doesn't seem to hold back."
+    "{i}Sin previo aviso, [m_name] golpea la nalga izquierda de Adriana con la palma de la mano. Hay mucha fuerza detrás de esa bofetada ya que la mujer no parece contenerse."
+
+# game/day21.rpy:788
+translate spanish day21_discreet_session_8be86610:
+
+    # ad "Aaah!"
+    ad "Aaah!"
+
+# game/day21.rpy:789
+translate spanish day21_discreet_session_fac8bd08:
+
+    # m "You've been a bad girl, Adriana."
+    m "Has sido una chica mala, Adriana."
+
+# game/day21.rpy:790
+translate spanish day21_discreet_session_c3cd8b9c:
+
+    # m "Why are you late for class? Have you been sucking on too many dicks this morning?"
+    m "¿Por qué llegas tarde a clase? ¿Has estado chupando demasiadas pollas esta mañana?"
+
+# game/day21.rpy:796
+translate spanish day21_discreet_session_ad235a4e:
+
+    # ad "No, mistress! I'm sorry, mistress."
+    ad "No, ama! Lo siento, ama."
+
+# game/day21.rpy:797
+translate spanish day21_discreet_session_1c6d2797:
+
+    # m "Come now, we all know what a little slut you are."
+    m "Ahora ven, todos sabemos lo zorra que eres."
+
+# game/day21.rpy:798
+translate spanish day21_discreet_session_55f8bf6a:
+
+    # m "You know it yourself."
+    m "Tú misma lo sabes.."
+
+# game/day21.rpy:799
+translate spanish day21_discreet_session_a77e8295:
+
+    # ad "Y-y-yes, mistress. I'm a little slut."
+    ad "Sí, ama. Soy una pequeña zorra."
+
+# game/day21.rpy:806
+translate spanish day21_discreet_session_2e53e275:
+
+    # "{i}After another smack, angry red marks appear on Adriana's butt. Her face is contorted in a mixture of pleasure and pain."
+    "{i}Después de otro azote, aparecen marcas rojas de irritación en el trasero de Adriana. Su rostro está desfigurado en una mezcla de placer y dolor."
+
+# game/day21.rpy:807
+translate spanish day21_discreet_session_23bd84e5:
+
+    # m "That's enough for now, sit your ass down."
+    m "Eso es suficiente por ahora, sienta tu culo."
+
+# game/day21.rpy:808
+translate spanish day21_discreet_session_b36f7b39:
+
+    # ad "Y-yes, mistress."
+    ad "S-sí, ama."
+
+# game/day21.rpy:813
+translate spanish day21_discreet_session_3ea55cdb:
+
+    # "{i}Adriana slowly walks towards the bench beside you and glances approvingly at your hard-on."
+    "{i}Adriana camina lentamente hacia el banco a tu lado y mira con aprobación tu erección."
+
+# game/day21.rpy:814
+translate spanish day21_discreet_session_a76475a6:
+
+    # ad "Permission to speak, mistress."
+    ad "Permiso para hablar, ama."
+
+# game/day21.rpy:815
+translate spanish day21_discreet_session_03b95061:
+
+    # m "Granted."
+    m "Concedido."
+
+# game/day21.rpy:816
+translate spanish day21_discreet_session_e09f889a:
+
+    # ad "John seems to enjoy my pain."
+    ad "John parece disfrutar de mi dolor."
+
+# game/day21.rpy:817
+translate spanish day21_discreet_session_4ab303e4:
+
+    # m "Is that so, Mr. Holmes?"
+    m "¿Es así, señor Holmes?"
+
+# game/day21.rpy:818
+translate spanish day21_discreet_session_0bcbcb05:
+
+    # m "Don't say anything, that giant erection is proof enough."
+    m "No digas nada, esa gigante erección es una prueba suficiente."
+
+# game/day21.rpy:819
+translate spanish day21_discreet_session_e6ebf136:
+
+    # m "So you like it when little hussies get punished, Johnny-boy?"
+    m "Así que te gusta cuando castigan a las pequeñas rameras, Johnny-boy?"
+
+# game/day21.rpy:820
+translate spanish day21_discreet_session_991d47b4:
+
+    # p "Only if they deserve it, mistress."
+    p "Solo si se lo merecen, ama."
+
+# game/day21.rpy:821
+translate spanish day21_discreet_session_db194f7d:
+
+    # m "Good answer."
+    m "Buena respuesta."
+
+# game/day21.rpy:822
+translate spanish day21_discreet_session_8c7c2a79:
+
+    # m "That boner must be uncomfortable, with the tip pressing against the underside of your desk."
+    m "Esa erección debe ser incómoda, con la punta presionando contra la parte inferior del escritorio."
+
+# game/day21.rpy:823
+translate spanish day21_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day21.rpy:824
+translate spanish day21_discreet_session_f8d3b929:
+
+    # m "Well, just think of something else, I'm sure it'll subside in just a moment."
+    m "Bueno, solo piensa en otra cosa, estoy segura de que desaparecerá en un momento."
+
+# game/day21.rpy:825
+translate spanish day21_discreet_session_c76dd6d3:
+
+    # p "{i}(Fuck no it won't. I'm pretty sure I'm going to lift the table with my dick if this goes on.)"
+    p "{i}(Joder, no lo hará. Estoy bastante seguro de que levantaré la mesa con mi polla si esto continúa.)"
+
+# game/day21.rpy:826
+translate spanish day21_discreet_session_b70ccabd:
+
+    # m "We'll just continue with a lesson in female anatomy."
+    m "Continuaremos con una lección de anatomía femenina."
+
+# game/day21.rpy:827
+translate spanish day21_discreet_session_eb4f4012:
+
+    # p "{i}(I'm dead.)"
+    p "{i}(Estoy muerto.)"
+
+# game/day21.rpy:828
+translate spanish day21_discreet_session_0693628f:
+
+    # m "Adriana, come forward."
+    m "Adriana, ven hacia adelante."
+
+# game/day21.rpy:829
+translate spanish day21_discreet_session_3f715ae8:
+
+    # m "Lose the blouse."
+    m "Quítate la blusa."
+
+# game/day21.rpy:831
+translate spanish day21_discreet_session_71c53910:
+
+    # m "Today will be devoted to a study of the 'ass'."
+    m "El día de hoy se dedicará a un estudio del 'culo'."
+
+# game/day21.rpy:832
+translate spanish day21_discreet_session_0133b8c8:
+
+    # p "{i}(A subject that has always interested me greatly!)"
+    p "{i}(¡Un tema que siempre me ha interesado mucho!)"
+
+# game/day21.rpy:833
+translate spanish day21_discreet_session_5d9dd635:
+
+    # m "Together we'll discover how elastic and versatile the asshole really is."
+    m "Juntos descubriremos cuán elástico y versátil es realmente el culo."
+
+# game/day21.rpy:834
+translate spanish day21_discreet_session_e0aefc29:
+
+    # m "Bend over, Adriana."
+    m "Inclínate, Adriana."
+
+# game/day21.rpy:835
+translate spanish day21_discreet_session_78341e17:
+
+    # "{i}Without any shame, the receptionist presents her butt to you. [m_name] spreads her cheeks to fully reveal her delicate asshole."
+    "{i}Sin ninguna vergüenza, la recepcionista te presenta su culo. [m_name] extiende sus nalgas para revelar completamente su delicado ano."
+
+# game/day21.rpy:836
+translate spanish day21_discreet_session_4004dea2:
+
+    # m "What a sight to behold."
+    m "Qué espectáculo para la vista."
+
+# game/day21.rpy:838
+translate spanish day21_discreet_session_aae1bcec:
+
+    # m "It looks tight now, but Adriana has already shown what her butthole is capable of."
+    m "Ahora parece apretado, pero Adriana ya ha demostrado de lo que es capaz su culo."
+
+# game/day21.rpy:840
+translate spanish day21_discreet_session_0cd76a53:
+
+    # m "It looks tight now, but with proper training, her butthole will amaze you."
+    m "Ahora parece apretado, pero con el entrenamiento adecuado su culo te sorprenderá."
+
+# game/day21.rpy:841
+translate spanish day21_discreet_session_8bf9df7e:
+
+    # m "Now lick her, make her feel good."
+    m "Ahora lámela, hazla sentir bien."
+
+# game/day21.rpy:847
+translate spanish day21_discreet_session_8a9142c7:
+
+    # "{i}Encouraged by [m_name], you lower your head between Adriana's spread butt cheeks. The saline smell of her wet cunt tickles your nose as you softly lick the skin leading up to her asshole."
+    "{i}Animado por [m_name], bajas la cabeza entre las abiertas nalgas de Adriana. El olor salino de su mojado coño te hace cosquillas en la nariz, mientras lames suavemente la piel que lleva a su culo."
+
+# game/day21.rpy:848
+translate spanish day21_discreet_session_5fd407ff:
+
+    # "{i}Adriana moans and shudders, wanting you to go on. You don't hesitate and circle around her little star with the tip of your tongue, eliciting even deeper moans from the girl."
+    "{i}No dudas y das vueltas alrededor de su pequeña estrella con la punta de la lengua, provocando gemidos aún más profundos de la chica."
+
+# game/day21.rpy:849
+translate spanish day21_discreet_session_d9b6d38c:
+
+    # ad "A-aaa-h. Johnny!"
+    ad "A-aaa-h. Johnny!"
+
+# game/day21.rpy:850
+translate spanish day21_discreet_session_00b7b0f1:
+
+    # m "You hear that? She thinks you're doing very well."
+    m "¿Escuchaste eso? Ella piensa que lo estás haciendo muy bien."
+
+# game/day21.rpy:852
+translate spanish day21_discreet_session_cca1ec99:
+
+    # "{i}You focus all your attention on her butthole. With just the tip of your tongue, you lick and tease the folds of her rectum, until it's covered in your saliva."
+    "{i}Centras toda tu atención en su ano. Con solo la punta de tu lengua, lames y provocas los pliegues de su recto, hasta que está cubierto en tu saliva."
+
+# game/day21.rpy:853
+translate spanish day21_discreet_session_7bfc867d:
+
+    # "{i}Then, using your tongue as a wet spear, you plunge it deep inside her anal cavity. Adriana screams with pleasure as your tongue explores her ass. Her swollen pussy starts dripping with her moisture, wetting her inner thighs and legs."
+    "{i}Luego, usando tu lengua como una húmedal anza, la sumerges profundamente dentro de su cavidad anal. Adriana grita de placer mientras tu lengua explora su culo. Su hinchado coño comienza a gotear con su humedad, mojando sus muslos y el interior de sus piernas.”"
+
+# game/day21.rpy:854
+translate spanish day21_discreet_session_be8504de:
+
+    # m "Stop."
+    m "Alto."
+
+# game/day21.rpy:855
+translate spanish day21_discreet_session_30669ed0:
+
+    # ad "N-no!"
+    ad "N-no!"
+
+# game/day21.rpy:856
+translate spanish day21_discreet_session_de238c83:
+
+    # m "What?!"
+    m "¡¿Qué?!"
+
+# game/day21.rpy:857
+translate spanish day21_discreet_session_24403e2c:
+
+    # m "You insolent little whore!"
+    m "¡Pequeña zorra insolente!"
+
+# game/day21.rpy:865
+translate spanish day21_discreet_session_b6cbca5b:
+
+    # "{i}Suddenly, [m_name] grabs Adriana's pussy and appears to pinch her labia, her other hand is clutching several thick locks of her blonde hair."
+    "{i}De repente, [m_name] agarra el coño de Adriana y parece pellizcar sus labios, su otra mano está agarrando varios mechones gruesos de su rubio cabello."
+
+# game/day21.rpy:866
+translate spanish day21_discreet_session_ffd66199:
+
+    # m "If I tell you both to stop, you stop!"
+    m "Si les digo a los dos que paren, ¡paran!"
+
+# game/day21.rpy:867
+translate spanish day21_discreet_session_3f669ab9:
+
+    # ad "Ow! Y-y-yes m-m-mistress."
+    ad "Ow! S-s-si a-a-ama."
+
+# game/day21.rpy:868
+translate spanish day21_discreet_session_ee160f64:
+
+    # "{i}While at first it seemed like a painful interaction between the older and younger woman, it now becomes clear that it's just another highly charged game of sexual power."
+    "{i}Si bien al principio parecía una interacción dolorosa entre la mujer y la joven, ahora queda claro que es solo otro juego de poder sexual altamente cargado."
+
+# game/day21.rpy:869
+translate spanish day21_discreet_session_dd7915c0:
+
+    # "{i}Adriana looks at [m_name] with a mixture of pain and rapture. She wiggles her abdomen slowly to maximize the sensations she's receiving from the older woman's hold on her pussy lips."
+    "{i}Adriana mira a [m_name] con una mezcla de dolor y éxtasis. Mueve su abdomen lentamente para maximizar las sensaciones que está recibiendo del agarre de la mujer en los labios de su coño."
+
+# game/day21.rpy:870
+translate spanish day21_discreet_session_4d0e2e1c:
+
+    # m "Are you going to behave like a proper slut now?"
+    m "¿Ahora te vas a comportar como una puta adecuada?"
+
+# game/day21.rpy:871
+translate spanish day21_discreet_session_b36f7b39_1:
+
+    # ad "Y-yes, mistress."
+    ad "S-sí, ama."
+
+# game/day21.rpy:872
+translate spanish day21_discreet_session_9c843c05:
+
+    # m "No more talking back?"
+    m "¿Ya no contestas?"
+
+# game/day21.rpy:873
+translate spanish day21_discreet_session_0063a328:
+
+    # ad "N-no, mistress."
+    ad "N-no, ama."
+
+# game/day21.rpy:874
+translate spanish day21_discreet_session_c08bc8f4:
+
+    # m "Good."
+    m "Bien"
+
+# game/day21.rpy:875
+translate spanish day21_discreet_session_b30acc03:
+
+    # "{i}With a violent motion, [m_name] releases her grip, and Adriana staggers to keep on her feet. She grabs hold of your arm and steadies herself as [m_name] retrieves something from a closet nearby."
+    "{i}Con un movimiento violento [m_name] suelta su agarre y Adriana se tambalea para mantenerse en pie. Ella te agarra del brazo y se estabiliza cuando [m_name] recupera algo de un armario cercano."
+
+# game/day21.rpy:879
+translate spanish day21_discreet_session_cee64491:
+
+    # m "On with the lesson."
+    m "Sigamos con la lección."
+
+# game/day21.rpy:880
+translate spanish day21_discreet_session_644d5579:
+
+    # p "{i}(Jesus, that thing is huge!)"
+    p "{i}(¡Jesús, esa cosa es enorme!)"
+
+# game/day21.rpy:881
+translate spanish day21_discreet_session_11686268:
+
+    # p "{i}(Okay, if she even glances at my ass while she's holding that thing, I'm making a run for it.)"
+    p "{i}(De acuerdo, si incluso me mira el culo mientras sostiene esa cosa, me voy corriendo."
+
+# game/day21.rpy:882
+translate spanish day21_discreet_session_394aa18d:
+
+    # m "What are you looking at, boy? Interested in getting a taste of this?"
+    m "¿Qué estás mirando, chico? ¿Estás interesado en probar esto?"
+
+# game/day21.rpy:883
+translate spanish day21_discreet_session_cb1f2775:
+
+    # p "{i}(No. No. No, Dear Mother of God and all that is merciful on this earth, FUCKING NO!)"
+    p "{i}(No. No. No, Querida Madre de Dios y todo lo que es misericordioso en esta tierra, ¡MIERDA NO!)"
+
+# game/day21.rpy:884
+translate spanish day21_discreet_session_a559296c:
+
+    # p "Not really, mistress."
+    p "En realidad no, ama."
+
+# game/day21.rpy:885
+translate spanish day21_discreet_session_b414c79e:
+
+    # m "Shame. I guess Adriana will be the lucky one then. Do you want to feel this inside you, Adriana?"
+    m "Vergüenza. Supongo que Adriana será la afortunada entonces. ¿Quieres sentir esto dentro de ti, Adriana?"
+
+# game/day21.rpy:886
+translate spanish day21_discreet_session_310345ff:
+
+    # ad "Very much so, mistress."
+    ad "Mucho, ama."
+
+# game/day21.rpy:887
+translate spanish day21_discreet_session_32a3b246:
+
+    # m "Even if we use it to stretch out your ass some more?"
+    m "¿Incluso si lo usamos para estirar tu culo un poco más?"
+
+# game/day21.rpy:888
+translate spanish day21_discreet_session_180ab9ac:
+
+    # ad "I'd love that, mistress."
+    ad "Me encantaría eso, ama."
+
+# game/day21.rpy:889
+translate spanish day21_discreet_session_9bef5f54:
+
+    # m "Spoken like a true slut. Bend over."
+    m "Hablas como una verdadera zorra. Inclínate."
+
+# game/day21.rpy:890
+translate spanish day21_discreet_session_6b9f91f3:
+
+    # "{i}An undaunted Adriana spreads her ass for you and waits in anticipation."
+    "{i}Una atrevida Adriana extiende su culo para ti y espera con impaciencia."
+
+# game/day21.rpy:891
+translate spanish day21_discreet_session_26ecd7dc:
+
+    # m "You may do the honors."
+    m "Puedes hacer los honores."
+
+# game/day21.rpy:896
+translate spanish day21_discreet_session_4c9c7a99:
+
+    # "{i}You grab hold of the monstrosity and push it against Adriana's butthole. She nods at you encouragingly, clenching her teeth in anticipation of the anal insertion."
+    "{i}Agarras la monstruosidad y la empujas contra el culo de Adriana. Ella asiente con la cabeza, apretando los dientes en anticipación a la inserción anal."
+
+# game/day21.rpy:897
+translate spanish day21_discreet_session_25c6d253:
+
+    # m "Look at that asshole welcoming that big friend."
+    m "Mira a ese culo dando la bienvenida a ese gran amigo."
+
+# game/day21.rpy:898
+translate spanish day21_discreet_session_9c8d0c04:
+
+    # m "Johnny is going to push it all the way up your butt. Make sure it stays there until I say so."
+    m "Johnny lo empujará hasta el fondo de tu culo. Asegúrate de que permanezca ahí hasta que yo te lo diga."
+
+# game/day21.rpy:899
+translate spanish day21_discreet_session_401a56b0:
+
+    # ad "Aaaah, y-yes, mistress."
+    ad "Aaaah, s-sí, ama."
+
+# game/day21.rpy:906
+translate spanish day21_discreet_session_283aa846:
+
+    # "{i}Little by little, you push the dildo further up Adriana's ass. [m_name] spits on it intermittently to make the insertion a little smoother."
+    "{i}Poco a poco vas empujando el consolador más adentro del culo de Adriana [m_name] escupe sobre él de forma intermitente para que la inserción sea un poco más suave"
+
+# game/day21.rpy:907
+translate spanish day21_discreet_session_632294ef:
+
+    # m "Halfway there."
+    m "A medio camino."
+
+# game/day21.rpy:908
+translate spanish day21_discreet_session_4eb07b22:
+
+    # ad "G-g-god yes!"
+    ad "¡Dios mío, sí!"
+
+# game/day21.rpy:909
+translate spanish day21_discreet_session_6ee69e33:
+
+    # "{i}The dildo slides further inside the receptionist than you could have previously imagined it would, widening her rectum considerably, until only the base of the shiny glass thing is sticking out of her."
+    "{i}El consolador se desliza más dentro de la recepcionista de lo que podrías haber imaginado anteriormente, ensanchando su recto considerablemente, hasta que solo la base de la cosa de cristal brillante sobresale de ella."
+
+# game/day21.rpy:910
+translate spanish day21_discreet_session_7c928764:
+
+    # m "All done. How are you feeling, Adriana?"
+    m "Lista. ¿Cómo te sientes, Adriana?"
+
+# game/day21.rpy:911
+translate spanish day21_discreet_session_9994b310:
+
+    # ad "I'm so very full, mistress."
+    ad "Estoy muy llena, ama."
+
+# game/day21.rpy:912
+translate spanish day21_discreet_session_5479dcc0:
+
+    # m "Good. You'll be amazed by what your body can hold."
+    m "Bien. Te sorprenderá lo que tu cuerpo puede contener."
+
+# game/day21.rpy:918
+translate spanish day21_discreet_session_7153e273:
+
+    # "{i}You spit on the dildo and shove it inside Adriana's ass without hesitation. The girl nearly faints and she screams with abandon."
+    "{i}Escupes el consolador y lo empujas dentro del culo de Adriana sin dudarlo. La chica casi se desmaya y grita con desenfreno."
+
+# game/day21.rpy:919
+translate spanish day21_discreet_session_2076b3ea:
+
+    # m "Jesus Christ, boy, don't break her."
+    m "Jesucristo, muchacho, no la rompas."
+
+# game/day21.rpy:920
+translate spanish day21_discreet_session_178abf2e:
+
+    # ad "G-g-god!!!"
+    ad "¡Dios mío!"
+
+# game/day21.rpy:921
+translate spanish day21_discreet_session_6315d5c5:
+
+    # "{i}The dildo is further inside the receptionist than you could have previously imagined it would go, widening her rectum considerably, only the base of the shiny glass thing is sticking out of her. Adriana is still shuddering because of the pain you've caused."
+    "{i}El consolador está más adentro de la recepcionista de lo que se imaginaba, ensanchando su recto considerablemente, sólo la base de la cosa de vidrio brillante está sobresaliendo de ella. Adriana sigue temblando por el dolor que le has causado."
+
+# game/day21.rpy:922
+translate spanish day21_discreet_session_e04251a6:
+
+    # m "How are you feeling, Adriana?"
+    m "¿Cómo te sientes, Adriana?"
+
+# game/day21.rpy:923
+translate spanish day21_discreet_session_f3aa2df0:
+
+    # ad "Full, mistress, it hurts."
+    ad "Llena, ama, me duele."
+
+# game/day21.rpy:924
+translate spanish day21_discreet_session_00108dfb:
+
+    # m "The boy will be more gentle next time. But you'll be amazed by what your body can hold."
+    m "El chico será más amable la próxima vez. Pero te sorprenderá lo que tu cuerpo puede soportar."
+
+# game/day21.rpy:926
+translate spanish day21_discreet_session_014c5c3d:
+
+    # p "{i}(There's going to be more inside her?)"
+    p "{i}(¿Va a haber más dentro de ella?)"
+
+# game/day21.rpy:927
+translate spanish day21_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day21.rpy:931
+translate spanish day21_discreet_session_2f3f4202:
+
+    # m "I think our boy here deserves a little reward for being extra careful with your precious asshole, doesn't he?"
+    m "Creo que nuestro chico aquí merece una pequeña recompensa por tener mucho cuidado con tu precioso culo, ¿no?"
+
+# game/day21.rpy:932
+translate spanish day21_discreet_session_c8cff16a:
+
+    # ad "Certainly, mistress."
+    ad "Por supuesto, ama."
+
+# game/day21.rpy:933
+translate spanish day21_discreet_session_33eb81d1:
+
+    # m "Come here boy, Adriana and I need your cock."
+    m "Ven aquí chico, Adriana y yo necesitamos tu polla."
+
+# game/day21.rpy:934
+translate spanish day21_discreet_session_7299bde5:
+
+    # p "{i}([m_name] wants my cock, that sounds so perverted.)"
+    p "{i}([m_name] quiere mi polla, eso suena tan pervertido.)"
+
+# game/day21.rpy:942
+translate spanish day21_discreet_session_319e6ba6:
+
+    # "{i}You step forward and a hand wraps around your dick. Adriana massages your balls, but it's [m_name] who takes expert care of your shaft."
+    "{i}Das un paso al frente y una mano te envuelve la polla. Adriana te masajea las bolas, pero es [m_name] quien cuida expertamente de tu rabo"
+
+# game/day21.rpy:944
+translate spanish day21_discreet_session_6a5c1352:
+
+    # "{i}Her technique is very different from what you've experienced before. Your mom alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}Su técnica es muy diferente de lo que has experimentado antes. Tu madre alterna entre fuertes sacudidas y delicados y dulces golpes que van desde la base hasta la punta de la polla."
+
+# game/day21.rpy:946
+translate spanish day21_discreet_session_974db97f:
+
+    # "{i}Her technique is very different from what you've experienced before. The older woman alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "{i}Su técnica es muy diferente de lo que has experimentado antes. La mujer alterna entre fuertes sacudidas y delicados y dulces golpes que van desde la base hasta la punta de la polla."
+
+# game/day21.rpy:948
+translate spanish day21_discreet_session_bbf902ab:
+
+    # "{i}Every caress nearly sends you over the edge. You have to grab hold of the table when Adriana moves from slobbering on your balls to licking the perineum and finally your asshole."
+    "{i}Cada caricia casi te envía al límite. Tienes que agarrarte de la mesa cuando Adriana pasa de babaar tus bolas a lamer el perineo y finalmente tu culo."
+
+# game/day21.rpy:949
+translate spanish day21_discreet_session_bbb34183:
+
+    # "{i}[m_name] recognizes your heavy breathing and glassy look as the onset of an orgasm and abruptly stops. The touch of Adriana's tongue is almost immediately gone as well."
+    "{i}[m_name] reconoce tu respiración agitada y tu aspecto vidrioso como la aparición de un orgasmo y se detiene abruptamente. El toque de la lengua de Adriana también desapareció casi de inmediato."
+
+# game/day21.rpy:953
+translate spanish day21_discreet_session_4a540abc:
+
+    # p "{i}(Fucking hell, I was just about to spray all over [m_name]'s gorgeous tits.)"
+    p "{i}(Joder, estaba a punto de rociar las preciosas tetas de [m_name].)"
+
+# game/day21.rpy:954
+translate spanish day21_discreet_session_4bea0be7:
+
+    # m "Not yet."
+    m "Todavía no."
+
+# game/day21.rpy:956
+translate spanish day21_discreet_session_0a7818ce:
+
+    # m "You two have been very selfish so far."
+    m "Ustedes dos han sido muy egoístas hasta ahora."
+
+# game/day21.rpy:957
+translate spanish day21_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day21.rpy:958
+translate spanish day21_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day21.rpy:961
+translate spanish day21_discreet_session_3b9b8dec:
+
+    # "{i}Adriana and you kneel, as [m_name] presents her cunt to you both. The scent of her slit is very noticeable, she seems aroused."
+    "{i}Adriana y tú os arrodillais, cuando [m_name] os presenta su coño a los dos. El olor de su raja es muy notable, parece excitada."
+
+# game/day21.rpy:969
+translate spanish day21_discreet_session_b0bf49ac:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on your mother's swollen clitoris."
+    "{i}Empujas tu cara contra el sexo de [m_name] y lames sus jugos. Descansas tu frente contra la riqueza del vello púbico y trabajas en el hinchado clítoris de tu madre."
+
+# game/day21.rpy:971
+translate spanish day21_discreet_session_7f9fa2cd:
+
+    # "{i}You push your face against [m_name]'s sex and lap up the juices. You rest your forehead against the wealth of pubic hair and work on [m_name]'s swollen clitoris."
+    "{i}Empujas tu cara contra el sexo de [m_name] y lames los jugos. Descansas tu frente contra la riqueza del vello púbico y trabajas en el hinchado clítoris de [m_name]."
+
+# game/day21.rpy:976
+translate spanish day21_discreet_session_ec7e5c79:
+
+    # "{i}Suddenly, your dangling erection is wrapped in warm wetness, as Adriana starts to suck you off, careful not to lose the dildo that's still buried in her ass."
+    "{i}De repente, tu pendiente erección está envuelta en una humedad cálida, mientras Adriana comienza a chuparte, con cuidado de no perder el consolador que aún está enterrado en su culo."
+
+# game/day21.rpy:982
+translate spanish day21_discreet_session_f52b0692:
+
+    # "{i}Adriana pushes her face against [m_name]'s sex and laps up the juices of the older woman. She rests her forehead against the wealth of pubic hair and works on [m_name]'s swollen clitoris."
+    "{i}Adriana empuja su cara contra el sexo de [m_name] y lame los jugos de la mujer. Descansa la frente contra la riqueza del vello púbico y trabaja en el hinchado clítoris de [m_name]."
+
+# game/day21.rpy:983
+translate spanish day21_discreet_session_63988f51:
+
+    # "{i}While the receptionist is going down on [m_name], the older woman stares at you. It's hard to see with the mask on, but the look of longing in her eyes is unmistakable. She motions you to come forward."
+    "{i}Mientras la recepcionista se acerca a [m_name], la mujer te mira fijamente. Es difícil de ver con la máscara puesta, pero la mirada de anhelo en sus ojos es inconfundible. Te pide que te presentes."
+
+# game/day21.rpy:989
+translate spanish day21_discreet_session_ec5b1fd1:
+
+    # "{i}Her hand wraps around your cock and she demonstrates her superior handjob skills once more."
+    "{i}Su mano se envuelve alrededor de tu polla y demuestra una vez más sus superiores habilidades para pajearte."
+
+# game/day21.rpy:991
+translate spanish day21_discreet_session_4caebf8f:
+
+    # "{i}Her hand wraps around your cock as she begins to take expert care of your shaft. Her technique is very different from what you're used to."
+    "{i}Su mano se envuelve alrededor de tu polla mientras comienza a cuidar tu rabo de forma experta. Su técnica es muy diferente de a lo que estás acostumbrado."
+
+# game/day21.rpy:992
+translate spanish day21_discreet_session_69775d89:
+
+    # "[m_name] alternates between heavy jerking and delicate, sweet strokes running from the base to the tip of your cock."
+    "[m_name] alterna entre fuertes sacudidas y delicados y dulces golpes desde la base hasta la punta de la polla."
+
+# game/day21.rpy:996
+translate spanish day21_discreet_session_be8504de_1:
+
+    # m "Stop."
+    m "Alto."
+
+# game/day21.rpy:997
+translate spanish day21_discreet_session_3ff8b72b:
+
+    # p "{i}(Again?! We were just getting started. She sure is in a fickle mood today.)"
+    p "{i}(¡¿Otra vez?! Recién estábamos comenzando. Seguro que hoy está de mal humor.)"
+
+# game/day21.rpy:998
+translate spanish day21_discreet_session_76025ac2:
+
+    # m "I told you that you'd be amazed what a body can hold. Johnny, you're going to demonstrate this on Adriana."
+    m "Te dije que te sorprendería lo que un cuerpo puede contener. Johnny, vas a demostrar esto en Adriana."
+
+# game/day21.rpy:999
+translate spanish day21_discreet_session_80315c1c:
+
+    # p "{i}(Er...)"
+    p "{i}(Er...)"
+
+# game/day21.rpy:1000
+translate spanish day21_discreet_session_1e472647:
+
+    # m "You're going to fuck her."
+    m "Vas a follártela."
+
+# game/day21.rpy:1001
+translate spanish day21_discreet_session_05f591c6:
+
+    # m "Adriana, keep that dildo inside you as long as possible or you'll be punished."
+    m "Adriana, mantén ese consolador dentro de tí el mayor tiempo posible o serás castigada."
+
+# game/day21.rpy:1002
+translate spanish day21_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day21.rpy:1004
+translate spanish day21_discreet_session_c47e622c:
+
+    # m "The same goes for you, Mr. Holmes. If you rough her up like you did before, this session is over."
+    m "Lo mismo va para usted, Sr. Holmes. Si la molesta como lo hizo antes, esta sesión habrá terminado."
+
+# game/day21.rpy:1008
+translate spanish day21_discreet_session_61f2aaa4:
+
+    # "{i}You grab Adriana by the waist and hold her close, your erection pressing between her thighs."
+    "{i}Agarras a Adriana por la cintura y la sostienes cerca, tu erección está presionando entre sus muslos."
+
+# game/day21.rpy:1009
+translate spanish day21_discreet_session_db0126f3:
+
+    # p "I need you to lie down."
+    p "Necesito que te tumbes."
+
+# game/day21.rpy:1010
+translate spanish day21_discreet_session_60b86177:
+
+    # ad "Please be gentle with me. My ass is burning up."
+    ad "Por favor, sé delicado conmigo. Mi culo está ardiendo."
+
+# game/day21.rpy:1015
+translate spanish day21_discreet_session_0141c872:
+
+    # "{i}Adriana lowers herself to the ground, and you spread her long legs, giving you a nice view of her glistening pussy and the glass dildo that's rooted in her asshole."
+    "{i}Adriana se deja caer al suelo y tú abres sus largas piernas, dándote una buena vista de su brillante coño y el consolador de cristal que está clavado en su culo."
+
+# game/day21.rpy:1017
+translate spanish day21_discreet_session_cee75536:
+
+    # "{i}You push your dick inside her."
+    "{i}Empujas tu polla dentro de ella."
+
+# game/day21.rpy:1019
+translate spanish day21_discreet_session_1d7140bd:
+
+    # "{i}You push your dick inside her at a maddeningly slow pace."
+    "{i}Empujas tu polla dentro de ella a un ritmo increíblemente lento."
+
+# game/day21.rpy:1020
+translate spanish day21_discreet_session_8afa8a51:
+
+    # ad "Ah! Aaah! Aaaaah! It won't fit. I'm too full."
+    ad "¡Ah! ¡Aaah! ¡Aaaaah! No cabe. Estoy demasiado llena."
+
+# game/day21.rpy:1022
+translate spanish day21_discreet_session_49c2741d:
+
+    # "{i}She seems tighter than the last time you fucked her, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Parece más apretada que la última vez que la follaste, algo que podría deberse a que el enorme consolador ya le está llenando su culo a punto de estallar."
+
+# game/day21.rpy:1024
+translate spanish day21_discreet_session_ca07fcf9:
+
+    # "{i}She seems very tight, something that might be due to the massive dildo already filling her ass to near bursting."
+    "{i}Parece muy apretada, algo que podría deberse a que el enorme consolador ya le está llenando su culo a punto de estallar."
+
+# game/day21.rpy:1030
+translate spanish day21_discreet_session_aa47aa24:
+
+    # "{i}You wait for Adriana to adjust to being penetrated vaginally and anally at the same time and start fucking her with deep strokes."
+    "{i}Esperas a que Adriana se adapte a ser penetrada vaginal y analmente al mismo tiempo y empiezas a follártela con golpes profundos."
+
+# game/day21.rpy:1033
+translate spanish day21_discreet_session_f130bda2:
+
+    # "{i}You start fucking her with deep strokes immediately, not waiting for Adriana to adjust to being penetrated vaginally and anally at the same time."
+    "{i}Empiezas a follártela con golpes profundos de inmediato, sin esperar a que Adriana se adapte a ser penetrada vaginal y analmente al mismo tiempo."
+
+# game/day21.rpy:1035
+translate spanish day21_discreet_session_510ffa8d:
+
+    # "{i}The girl screams and moans in your ear, with [m_name] leaning on a table pleasuring herself with her fingers."
+    "{i}La chica grita y gime en tu oído con [m_name] apoyada en una mesa dándose placer con los dedos"
+
+# game/day21.rpy:1036
+translate spanish day21_discreet_session_fe3ca7a2:
+
+    # m "Fuck her, John. She's all yours now."
+    m "Follatelá John, ahora es toda tuya."
+
+# game/day21.rpy:1037
+translate spanish day21_discreet_session_27744061:
+
+    # ad "G-g-god. Fuck yes. Harder! Aaaah!"
+    ad "Dios mío. Joder sí. ¡Más fuerte! ¡Aaaah!"
+
+# game/day21.rpy:1038
+translate spanish day21_discreet_session_71b5576b:
+
+    # "{i}You attack Adriana's pussy with several short, hard thrusts to maximize the sensations her pussy gives you."
+    "{i}Atacas el coño de Adriana con varios empujes cortos y duros para maximizar las sensaciones que te da su coño."
+
+# game/day21.rpy:1043
+translate spanish day21_discreet_session_cdb07dd9:
+
+    # "{i}Adriana's moans have been reduced to one long, hoarse, guttural sound as she climaxes on your cock. Because of the violent contractions of her cunt, her ass involuntarily gives birth to the glass monster that has remained up her butt for a large part of the session."
+    "{i}Los gemidos de Adriana se han reducido a un sonido gutural largo y ronco mientras llega a su clímax. Debido a las violentas contracciones de su coño, su culo da a luz involuntariamente al monstruo de cristal que ha permanecido en su culo durante un largo parte de la sesión."
+
+# game/day21.rpy:1044
+translate spanish day21_discreet_session_806f029d:
+
+    # "{i}Because of all the attention your dick has already gotten and the stimulation of Adriana's tightened pussy, you have trouble not ejaculating inside her right away. You've managed to last several minutes, but now the moment has come."
+    "{i}Debido a toda la atención que ya ha recibido tu polla y a la estimulación del apretado coño de Adriana te cuesta no eyacular dentro de ella enseguida Has conseguido aguantar varios minutos pero ahora ha llegado el momento"
+
+# game/day21.rpy:1052
+translate spanish day21_discreet_session_a08d2305:
+
+    # p "Gaaaaah!!!"
+    p "¡Gaaaaah!"
+
+# game/day21.rpy:1053
+translate spanish day21_discreet_session_ef733f88:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pump a great amount of semen inside her vagina. Her moans of pleasure turn into sounds of delight and fulfillment."
+    "{i}En la parte alta de uno de los gritos de éxtasis de Adriana, bombeas una gran cantidad de semen dentro de su vagina. Sus gemidos de placer se convierten en sonidos de deleite y satisfacción."
+
+# game/day21.rpy:1068
+translate spanish day21_discreet_session_a08d2305_1:
+
+    # p "Gaaaaah!!!"
+    p "¡Gaaaaah!"
+
+# game/day21.rpy:1069
+translate spanish day21_discreet_session_40b55b0a:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her belly, thighs and pussy. Her moans of pleasure turn into sounds of delight and fulfillment as she rubs your seed on her labia and in her vagina."
+    "{i}En la parte alta de uno de los gritos de éxtasis de Adriana, sacas y lanzas una gran cantidad de semen en su vientre, muslos y coño. Sus gemidos de placer se convierten en sonidos de deleite y satisfacción mientras frota tu semilla en sus labios. y en su vagina.”"
+
+# game/day21.rpy:1081
+translate spanish day21_discreet_session_a08d2305_2:
+
+    # p "Gaaaaah!!!"
+    p "¡Gaaaaah!"
+
+# game/day21.rpy:1082
+translate spanish day21_discreet_session_f09786d4:
+
+    # "{i}At the top of one of Adriana's ecstatic screams, you pull out and shoot a great amount of semen on her face. Her moans of pleasure turn into sounds of delight and fulfillment as she licks sperm from the corners of her mouth and from the tips of her fingers."
+    "{i}En la parte alta de uno de los gritos de éxtasis de Adriana, sacas y lanzas una gran cantidad de semen en su cara. Sus gemidos de placer se convierten en sonidos de deleite y satisfacción mientras lame semen por las comisuras de sus labios y las puntas de sus dedos.”"
+
+# game/day21.rpy:1089
+translate spanish day21_discreet_session_7f7ddd28:
+
+    # m "You've both pleased me greatly."
+    m "Ambos me han complacido mucho."
+
+# game/day21.rpy:1090
+translate spanish day21_discreet_session_44633398:
+
+    # m "Class dismissed."
+    m "La clase ha terminado."
+
+# game/day21.rpy:1105
+translate spanish day21_r_sex_183f3c2a:
+
+    # r "Mmmm, come to bed, [p_name]!"
+    r "¡Mmmm, ven a la cama, [p_name]!"
+
+# game/day21.rpy:1107
+translate spanish day21_r_sex_d35cef7c:
+
+    # "{i}As soon as you're next to her naked body, [r_name] showers you with kisses."
+    "{i}Tan pronto como estás al lado de su desnudo cuerpo, [r_name] te baña con besos."
+
+# game/day21.rpy:1109
+translate spanish day21_r_sex_c35c620c:
+
+    # r "I've wanted to do that all day!"
+    r "¡He querido hacer esto durante todo el día!"
+
+# game/day21.rpy:1110
+translate spanish day21_r_sex_6b728219:
+
+    # p "I won't stop you!"
+    p "¡No te detendré!"
+
+# game/day21.rpy:1112
+translate spanish day21_r_sex_4f3b3ec5:
+
+    # r "[p_name]?"
+    r "[p_name]?"
+
+# game/day21.rpy:1113
+translate spanish day21_r_sex_061e5381:
+
+    # p "Yes?"
+    p "¿Sí?"
+
+# game/day21.rpy:1114
+translate spanish day21_r_sex_8afa1463:
+
+    # r "I'd like to try it again."
+    r "Me gustaría intentarlo de nuevo."
+
+# game/day21.rpy:1115
+translate spanish day21_r_sex_64aef23e:
+
+    # p "{i}(Hallelujah!)"
+    p "{i}(¡Aleluya!)"
+
+# game/day21.rpy:1116
+translate spanish day21_r_sex_0cee0f25:
+
+    # r "Sex. With you, I mean."
+    r "Sexo. Contigo, quiero decir."
+
+# game/day21.rpy:1117
+translate spanish day21_r_sex_9bef8224:
+
+    # p "{i}(That really doesn't need further explaining.)"
+    p "{i}(Eso realmente no necesita más explicaciones)"
+
+# game/day21.rpy:1122
+translate spanish day21_r_sex_2b161618:
+
+    # "{i}Very slowly, you move down her body, opening her legs and kissing the soft skin of her thighs."
+    "{i}Muy lentamente, te mueves por su cuerpo, abriendo sus piernas y besando la suave piel de sus muslos."
+
+# game/day21.rpy:1123
+translate spanish day21_r_sex_afe6ba4e:
+
+    # p "Ah, there's your pussy and you want me there, inside you?"
+    p "Ah, ahí está tu coño y me quieres ahí, ¿dentro de ti?"
+
+# game/day21.rpy:1124
+translate spanish day21_r_sex_ba08c474:
+
+    # r "Mmmm, yes!"
+    r "¡Mmmm, sí!"
+
+# game/day21.rpy:1125
+translate spanish day21_r_sex_6de4963a:
+
+    # p "Let's start by making this as pleasurable for you as possible."
+    p "Comencemos haciendo que esto sea lo más placentero posible para tí."
+
+# game/day21.rpy:1130
+translate spanish day21_r_sex_2b793e9f:
+
+    # "{i}[r_name]'s pussy is already wet in anticipation of your cock. You lap up her juices from her lower lips and teasingly lick her clitoris, which is growing ever so slightly with all the attention you're giving her pussy."
+    "{i}El coño de [r_name] ya está mojado en espera de tu polla. Le sacas los jugos de sus labios inferiores y le lames el clítoris, que crece muy ligeramente con toda la atención que le das a su coño.”"
+
+# game/day21.rpy:1131
+translate spanish day21_r_sex_9a09c4ba:
+
+    # r "Oooh, [p_name]! I want you!"
+    r "¡Oooh, [p_name]! ¡Te quiero!"
+
+# game/day21.rpy:1136
+translate spanish day21_r_sex_c7dd698d:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside your sister's wet mound. She holds her breath, and you feel her tense up."
+    "{i}Sin demorar más, empujas la punta de tu erecta polla dentro del montículo húmedo de tu hermana. Ella aguanta la respiración y sientes que se tensa."
+
+# game/day21.rpy:1138
+translate spanish day21_r_sex_feee2adf:
+
+    # "{i}Without delaying any further, you push the tip of your erect cock inside [r_name]'s wet mound. She holds her breath, and you feel her tense up."
+    "{i}Sin demorar más, empujas la punta de tu erecta polla dentro del montículo mojado de [r_name]. Ella aguanta la respiración y sientes que se tensa."
+
+# game/day21.rpy:1139
+translate spanish day21_r_sex_fb74d315:
+
+    # p "Let it go, sweetie, I won't hurt you."
+    p "Déjalo ir, cariño, no te haré daño."
+
+# game/day21.rpy:1140
+translate spanish day21_r_sex_8aa021ca:
+
+    # r "You'll stop when it hurts?"
+    r "¿Te detendrás cuando me duela?"
+
+# game/day21.rpy:1141
+translate spanish day21_r_sex_0c66aa18:
+
+    # p "{i}(Poor thing. Her deflowering must have been a little bit more uncomfortable than she let on.)"
+    p "{i}(Pobrecita. Su desfloración debe haber sido un poco más incómoda de lo que dejaba ver.)"
+
+# game/day21.rpy:1142
+translate spanish day21_r_sex_09fbac9e:
+
+    # p "Of course. It doesn't hurt now, does it?"
+    p "Por supuesto. No duele ahora, ¿verdad?"
+
+# game/day21.rpy:1143
+translate spanish day21_r_sex_41831fd0:
+
+    # r "Actually, no."
+    r "En realidad, no."
+
+# game/day21.rpy:1148
+translate spanish day21_r_sex_72e6de02:
+
+    # "{i}Before penetrating her deeper, you kiss her breasts. When you finally suck on her erect nipples, [r_name] seems to lose control and gives herself over to passion."
+    "{i}Antes de penetrarla más profundamente, besas sus tetas. Cuando finalmente chupas sus erectos pezones, [r_name] parece perder el control y se entrega a la pasión."
+
+# game/day21.rpy:1154
+translate spanish day21_r_sex_3ed13e97:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. Your sister just moans, every thought of pain forgotten."
+    "{i}Tu polla se desliza más dentro de su húmeda raja sin mucho esfuerzo Tu hermana sólo gime cada pensamiento de dolor olvidado"
+
+# game/day21.rpy:1156
+translate spanish day21_r_sex_10ab6a76:
+
+    # "{i}Your dick slides further inside her wet slit without much effort. [r_name] just moans, every thought of pain forgotten."
+    "{i}Tu polla se desliza más dentro de su húmeda raja sin mucho esfuerzo [r_name] sólo gime cada pensamiento de dolor olvidado"
+
+# game/day21.rpy:1157
+translate spanish day21_r_sex_062dbcb2:
+
+    # "{i}You establish a slow rhythm, keeping your attention focused on [r_name]'s firm breasts. Her hands are in your hair and on your back, touching, feeling, clawing. Her voice is a nearly inaudible whisper in your ear."
+    "{i}Estableces un ritmo lento, manteniendo tu atención enfocada en las firmes tetas de [r_name]. Sus manos están en tu pelo y en tu espalda, tocando, sintiendo, arañando. Su voz es un susurro casi inaudible en tu oído.”"
+
+# game/day21.rpy:1158
+translate spanish day21_r_sex_5739fba5:
+
+    # r "Aaah! G-g-god yes!"
+    r "¡Aaah! ¡Dios mío, sí!"
+
+# game/day21.rpy:1159
+translate spanish day21_r_sex_a973011c:
+
+    # r "Keep fucking me! Don't stop. I-it... I-t feels s-so good!"
+    r "¡Sigue follándome! No te detengas. E-eso... ¡Se siente tan bien!"
+
+# game/day21.rpy:1160
+translate spanish day21_r_sex_5a9f2778:
+
+    # p "G-aaah. Do you want to cum, [r_name]? Cum all over my cock?"
+    p "G-aaah. ¿Quieres correrte, [r_name]? Correrte en mi polla?"
+
+# game/day21.rpy:1161
+translate spanish day21_r_sex_4ef40ea8:
+
+    # r "Y-y-yes! But you need to go deeper, I want to feel more of you!"
+    r "¡Sí! ¡Pero debes profundizar, quiero sentir más de ti!"
+
+# game/day21.rpy:1166
+translate spanish day21_r_sex_06a44c8d:
+
+    # "{i}When you pull out, [r_name] seems temporarily disappointed. Wordlessly, as if your bodies are perfectly attuned to each other, you change positions, kissing passionately."
+    "{i}Cuando te retiras, [r_name] parece temporalmente decepcionada. Sin palabras, como si sus cuerpos estuvieran en perfecta sintonía, cambian de posición, besándose apasionadamente."
+
+# game/day21.rpy:1174
+translate spanish day21_r_sex_4aefab26:
+
+    # "{i}Gently, you push your sister down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Suavemente, empujas a tu hermana sobre la cama, su pequeño culo orgulloso en el aire. Su húmedo coño brilla en la luz mientras [r_name] lleva sus dedos hacia su clítoris y comienza a frotarlo."
+
+# game/day21.rpy:1176
+translate spanish day21_r_sex_5d8513af:
+
+    # "{i}Gently, you push [r_name] down on the bed, her little ass proud in the air. Her wet pussy glistens in the light as [r_name] brings her fingers towards her clitoris and starts rubbing it."
+    "{i}Suavemente, empujas a la chica hacia abajo en la cama, su pequeño culo orgulloso en el aire. Su húmedo coño brilla en la luz mientras [r_name] lleva sus dedos hacia su clítoris y comienza a frotarlo."
+
+# game/day21.rpy:1177
+translate spanish day21_r_sex_6e94723b:
+
+    # "{i}This time, your dick doesn't encounter any resistance and slips into the tight confines of her vulva. It's soon inside her to the root. [r_name] is still fingering herself and lets out a muffled moan in the bedsheets."
+    "{i}Esta vez, tu polla no encuentra ninguna resistencia y se desliza en los estrechos confines de su vulva. Pronto estás dentro de ella hasta el fondo. [r_name] todavía se toca y deja escapar un gemido ahogado en las sábanas.”"
+
+# game/day21.rpy:1178
+translate spanish day21_r_sex_06fa7ad7:
+
+    # r "F-f-fuck! Mmmmmm!"
+    r "¡J-j-joder! ¡Mmmmmm!"
+
+# game/day21.rpy:1180
+translate spanish day21_r_sex_1871e2db:
+
+    # "{i}You grab [r_name]'s body tightly and fuck her with deep short thrusts. Her breathing is ragged and she has stopped masturbating, completely mesmerized by your cock inside her little pussy."
+    "{i}Agarras con fuerza el cuerpo de [r_name] y te la follas con empujes cortos y profundos. Su respiración es irregular y ha dejado de masturbarse, completamente hipnotizada por tu polla dentro de su pequeño coño."
+
+# game/day21.rpy:1181
+translate spanish day21_r_sex_a5f809cf:
+
+    # r "D-don't stop! Keep doing that!"
+    r "¡N-no pares! ¡Sigue haciendo eso!"
+
+# game/day21.rpy:1183
+translate spanish day21_r_sex_0848df1d:
+
+    # "{i}The position in which you're fucking her makes your sister feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}La posición en la que la estás follando hace que tu hermana se sienta aún más apretada que antes. El inicio de su orgasmo se suma a esa maravillosa sensación."
+
+# game/day21.rpy:1185
+translate spanish day21_r_sex_f6839b33:
+
+    # "{i}The position in which you're fucking her makes [r_name] feel even tighter than before. The onset of her orgasm adds to that wonderful sensation."
+    "{i}La posición en la que la estás follando hace que [r_name] se sienta aún más apretada que antes. La aparición de su orgasmo se suma a esa maravillosa sensación."
+
+# game/day21.rpy:1186
+translate spanish day21_r_sex_4d3d226b:
+
+    # p "Am I making you cum, [r_name]?"
+    p "¿Te estoy haciendo correrte, [r_name]?"
+
+# game/day21.rpy:1191
+translate spanish day21_r_sex_5da6ff73:
+
+    # r "Y-y-yes! I'm cumming, [p_name]!"
+    r "¡S-s-si! ¡Me estoy corriendo, [p_name]!"
+
+# game/day21.rpy:1193
+translate spanish day21_r_sex_7f6c078a:
+
+    # "{i}Her orgasm is so powerful that you need to hold her close to you, otherwise your dick would escape her slippery vagina. [r_name] shakes, trembles and moans while you continue to fuck her, extending her vaginal climax."
+    "{i}Su orgasmo es tan poderoso que debes abrazarla cerca de ti, de lo contrario tu polla se escaparía de su vagina resbaladiza. [r_name] tiembla, tiembla y gime mientras continúas follando con ella, extendiendo su clímax vaginal."
+
+# game/day21.rpy:1194
+translate spanish day21_r_sex_643605f9:
+
+    # r "M-m-more! Oh yes! G-gggg-gg-hhhh!"
+    r "¡Mm-más! ¡Oh sí! ¡G-gggg-gg-hhhh!"
+
+# game/day21.rpy:1195
+translate spanish day21_r_sex_b965a711:
+
+    # "{i}The convulsions of her vagina are too much for you, and you feel your own orgasm approaching."
+    "{i}Las convulsiones de su vagina son demasiado para tí y sientes que se acerca tu propio orgasmo."
+
+# game/day21.rpy:1206
+translate spanish day21_r_sex_01df82f5:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. Your sister gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Después de unos últimos empujones desesperados, la sacas del cuerpo tembloroso de [r_name] y rocias una fuente de semen en su culo y espalda. Tu hermana recoge un poco en sus dedos y lame despreocupadamente la humedad salada."
+
+# game/day21.rpy:1208
+translate spanish day21_r_sex_0ceb8f41:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum on her ass and back. [r_name] gathers some on her fingers and licks absentmindedly at the salty wetness."
+    "{i}Después de unos últimos empujones desesperados, sacas del cuerpo tembloroso de [r_name] y rocias una fuente de semen en su culo y espalda. La chica recoge algo en sus buscadores y lame despreocupadamente la humedad salada."
+
+# game/day21.rpy:1224
+translate spanish day21_r_sex_e09afb67:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. Your sister is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Después de unos últimos empujones desesperados, sales del cuerpo tembloroso de [r_name] y rocias una fuente de semen en su boca jadeante. Tu hermana está demasiado lejos para notar las gotas de semen salpicando su rostro y se traga tu regalo salado con una sonrisa celestial en su cara.”"
+
+# game/day21.rpy:1226
+translate spanish day21_r_sex_a6b2abd2:
+
+    # "{i}After a last few desperate thrusts, you pull out of [r_name]'s shivering body and spray a fountain of cum in her gasping mouth. [r_name] is too far out to notice the droplets of cum spattering her face and swallows your salty gift with a heavenly smile on her face."
+    "{i}Después de unos últimos empujones desesperados, sales del cuerpo tembloroso de [r_name] y rocias una fuente de semen en su boca jadeante. La chica está demasiado lejos para notar las gotas de semen salpicando su rostro y se traga tu regalo salado con una sonrisa celestial en su cara.”"
+
+# game/day21.rpy:1242
+translate spanish day21_r_sex_b1afa108:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. Your sister is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Después de unos últimos empujones desesperados, sostienes el tembloroso cuerpo de [r_name] y rocias una fuente de semen dentro de su dulce cereza. Tu hermana está demasiado lejos para notar que la corriente de semen finalmente se escapa de su raja y te sostiene con una sonrisa celestial en su cara.”"
+
+# game/day21.rpy:1244
+translate spanish day21_r_sex_70843b19:
+
+    # "{i}After a last few desperate thrusts, you hold [r_name]'s shivering body tightly and spray a fountain of cum inside her sweet little cherry. [r_name] is too far out to notice the stream of cum eventually leaking from her slit and just holds you with a heavenly smile on her face."
+    "{i}Después de unos últimos empujones desesperados, sostienes el tembloroso cuerpo de [r_name] y rocias una fuente de semen dentro de su dulce cereza. La chica está demasiado lejos para notar que la corriente de semen finalmente se escapa de su raja y te sostiene con una sonrisa celestial en su cara.”"
+
+# game/day21.rpy:1255
+translate spanish day21_r_sex_00e851ae:
+
+    # r "God, [p_name]!"
+    r "¡Dios, [p_name]!"
+
+# game/day21.rpy:1256
+translate spanish day21_r_sex_7436789c:
+
+    # p "How was your second time, sweetling?"
+    p "¿Cómo fue tu segunda vez, cariño?"
+
+# game/day21.rpy:1258
+translate spanish day21_r_sex_1f0a1364:
+
+    # r "Much, much better than the first!"
+    r "¡Mucho, mucho mejor que la primera!"
+
+# game/day21.rpy:1259
+translate spanish day21_r_sex_71d914f9:
+
+    # r "I didn't know that was possible."
+    r "No sabía que eso fuera posible."
+
+# game/day21.rpy:1260
+translate spanish day21_r_sex_1b640dae:
+
+    # p "What?"
+    p "¿Qué?"
+
+# game/day21.rpy:1261
+translate spanish day21_r_sex_623ceddc:
+
+    # r "You know... Climaxing like that..."
+    r "Ya sabes... llegar a un clímax como ese..."
+
+# game/day21.rpy:1262
+translate spanish day21_r_sex_011fd287:
+
+    # p "It helps if you know the right spot."
+    p "Ayuda si conoces el lugar correcto."
+
+# game/day21.rpy:1263
+translate spanish day21_r_sex_c586f7e7:
+
+    # r "You certainly knew."
+    r "Ciertamente lo sabías."
+
+# game/day21.rpy:1265
+translate spanish day21_r_sex_353e9266:
+
+    # r "Did Sasha teach you that?"
+    r "¿Sasha te enseñó eso?"
+
+# game/day21.rpy:1266
+translate spanish day21_r_sex_01358bcd:
+
+    # p "She did, actually."
+    p "Ella lo hizo, en realidad."
+
+# game/day21.rpy:1267
+translate spanish day21_r_sex_2d68243f:
+
+    # r "You have to tell me about it some time. But now I'm so very tired, you've worn me out completely."
+    r "Tienes que contármelo alguna vez. Pero ahora estoy tan cansada, que me has agotado por completo."
+
+# game/day21.rpy:1269
+translate spanish day21_r_sex_34eb5d2d:
+
+    # r "I'm so very tired, you've worn me out completely."
+    r "Estoy muy cansada, me has agotado por completo."
+
+# game/day21.rpy:1270
+translate spanish day21_r_sex_9f7e8041:
+
+    # p "Sweet dreams."
+    p "Dulces sueños."
+
+# game/day21.rpy:1271
+translate spanish day21_r_sex_1eae2286:
+
+    # r "I love you."
+    r "Te quiero."
+
+# game/day21.rpy:1273
+translate spanish day21_r_sex_1db7fa33:
+
+    # "{i}[r_name] snuggles on your chest and falls asleep very easily after a contented sigh. You follow her almost immediately afterwards."
+    "{i}[r_name] se acurruca en tu pecho y se queda dormida muy fácilmente después de un suspiro de satisfacción. La sigues casi inmediatamente después."
+

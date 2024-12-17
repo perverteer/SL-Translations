@@ -6411,4 +6411,29 @@ translate spanish day143_choices_a87c8979_1:
 translate spanish day143_flashback_69f7f051:
 
     # "{i}When you fall asleep, the dream returns, but your mind seems to have skipped all the sexy bits."
-    "{i}Cuando te duermes el sueño vuelve pero tu mente parece haberse saltado todas las partes sexys"
+    "{i}Cuando te duermes el sueño vuelve pero tu mente parece haberse saltado todas las partes sexys"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day143.rpy:1832
+translate spanish day143_rb_sex_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "¿Quieres habilitar deportes acuáticos para esta escena?"
+
+# game/day143.rpy:1836
+translate spanish day143_rb_sex_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Deportes acuáticos habilitados"
+
+# game/day143.rpy:1839
+translate spanish day143_rb_sex_9a79f488:
+
+    # "Watersports disabled"
+    "Deportes acuáticos para discapacitados"
+
+translate spanish strings:
+
+    # game/day143.rpy:1997
+    old "Nia"
+    new "Nia"
+

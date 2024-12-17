@@ -4594,7 +4594,7 @@ translate spanish day141_ad_m_18c69e51:
 translate spanish day141_ad_m_c7a75a07:
 
     # "“'Oh!' she screamed, utterly taken aback by the quickness of my action and its most unexpected nature.“"
-    ”"'¡Oh!' gritó, completamente desconcertada por la rapidez de mi acción y su naturaleza más inesperada.”"
+    "”'¡Oh!' gritó, completamente desconcertada por la rapidez de mi acción y su naturaleza más inesperada.”"
 
 # game/day141.rpy:1368
 translate spanish day141_ad_m_9279a92e:
@@ -4606,7 +4606,7 @@ translate spanish day141_ad_m_9279a92e:
 translate spanish day141_ad_m_d9f50836:
 
     # "“'Stop! ... Stop!' she yelled, now furious with rage at such an outrage, while Molly screamed sympathetically, horror-stricken!“"
-    ”"'¡Para... para!' gritó, ahora furiosa por la ira ante tal indignación, mientras Molly gritaba comprensivamente, horrorizada.”"
+    "”'¡Para... para!' gritó, ahora furiosa por la ira ante tal indignación, mientras Molly gritaba comprensivamente, horrorizada.”"
 
 # game/day141.rpy:1370
 translate spanish day141_ad_m_8d86ad86:
@@ -4624,7 +4624,7 @@ translate spanish day141_ad_m_68e17478:
 translate spanish day141_ad_m_d8a37cb0:
 
     # "“'WHAT!!' cried Lady Betty, staring wildly at me as if unable to believe her ears, while Molly shrieked hysterically, 'No, no!'“"
-    ”"'¡¡QUÉ!!' gritó Lady Betty, mirándome salvajemente como si no pudiera creer lo que oía, mientras Molly gritaba histéricamente: 'No, no!'”"
+    "”'¡¡QUÉ!!' gritó Lady Betty, mirándome salvajemente como si no pudiera creer lo que oía, mientras Molly gritaba histéricamente: 'No, no!'”"
 
 # game/day141.rpy:1374
 translate spanish day141_ad_m_8db8f4f2:
@@ -4660,7 +4660,7 @@ translate spanish day141_ad_m_b5d06e85:
 translate spanish day141_ad_m_33bb79ce:
 
     # "“'Oh!' she wailed as her agonized eyes instinctively sought Molly's and read in her daughter's face her horrible anguish at the sight of her naked mother.“"
-    ”"'¡Oh!' gimió mientras sus ojos agonizantes buscaban instintivamente los de Molly y que le leía en cara de su hija su horrible angustia al ver a su madre desnuda.”"
+    "”'¡Oh!' gimió mientras sus ojos agonizantes buscaban instintivamente los de Molly y que le leía en cara de su hija su horrible angustia al ver a su madre desnuda.”"
 
 # game/day141.rpy:1385
 translate spanish day141_ad_m_e5ef4518:
@@ -4690,7 +4690,7 @@ translate spanish day141_ad_m_071a46dc:
 translate spanish day141_ad_m_d5c8bf9b:
 
     # "“'Excellent!' said Alice. 'Fanny and I want her cunt between us! Now, your Ladyship,' she added as Fanny knelt between Lady Betty's legs and Connie stationed herself by her shoulders, greedily seizing Lady Betty's breasts in her little hands, 'you're not to spend till we give you leave!'“"
-    ”"'¡Excelente!' dijo Alice. '¡Fanny y yo queremos su coño entre nosotras! 'Ahora, su señoría,' añadió Fanny mientras se arrodillaba entre las piernas de Lady Betty y Connie se colocaba sobre sus hombros, agarrando con avidez los pechos de Lady Betty en sus pequeñas manos, 'no debe agotarse hasta que la demos permiso'!'”"
+    "”'¡Excelente!' dijo Alice. '¡Fanny y yo queremos su coño entre nosotras! 'Ahora, su señoría,' añadió Fanny mientras se arrodillaba entre las piernas de Lady Betty y Connie se colocaba sobre sus hombros, agarrando con avidez los pechos de Lady Betty en sus pequeñas manos, 'no debe agotarse hasta que la demos permiso'!'”"
 
 # game/day141.rpy:1391
 translate spanish day141_ad_m_32dc1b88:
@@ -5299,4 +5299,41 @@ translate spanish day141_evening_choices_0b8ba65e:
 translate spanish day141_l_pool_5df15299:
 
     # "{i}You massage [l_name]'s legs with sun block and rub her belly as well."
-    "{i}Masajeas las piernas de [l_name] con crema solar y también le frotas la barriga"
+    "{i}Masajeas las piernas de [l_name] con crema solar y también le frotas la barriga"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day141.rpy:1185
+translate spanish day141_l_pool_41f60bc7:
+
+    # "Is [l_name] pregnant in this scene?"
+    "¿Está [l_name] embarazada en esta escena?"
+
+# game/day141.rpy:1189
+translate spanish day141_l_pool_7bcee0b6:
+
+    # "[l_name] pregnant"
+    "[l_name] embarazada"
+
+# game/day141.rpy:1192
+translate spanish day141_l_pool_7f7e3b1e:
+
+    # "[l_name] not pregnant"
+    "[l_name] no está embarazada"
+
+# game/day141.rpy:1442
+translate spanish day141_ad_m_e27a596a:
+
+    # "Is [m_name] pregnant in this scene?"
+    "¿Está [m_name] embarazada en esta escena?"
+
+# game/day141.rpy:1446
+translate spanish day141_ad_m_d82619a9:
+
+    # "[m_name] pregnant"
+    "[m_name] embarazada"
+
+# game/day141.rpy:1449
+translate spanish day141_ad_m_243e77f5:
+
+    # "[m_name] not pregnant"
+    "[m_name] no está embarazada"
+

@@ -4439,3 +4439,923 @@ translate spanish day16_b_restaurant_choices_soft_83cf7ebc:
 
     # p "Relax, dear [l_name], I was just teasing you."
     p "Tranquilo querido [l_name] sólo te estaba tomando el pelo."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day16.rpy:945
+translate spanish day16_rb_watersports_dc7928c0:
+
+    # "{i}Careful not to get caught, you follow Rebeca to a secluded place between several large rocks. She's already undressed when you arrive..."
+    "{i}Con cuidado de que no te pillen sigues a Rebeca hasta un lugar apartado entre varias rocas grandes Ya está desnuda cuando llegas"
+
+# game/day16.rpy:952
+translate spanish day16_rb_watersports_d541273a:
+
+    # p "{i}(Holy shit, just arrived at the perfect time. What a perfect view.)"
+    p "{i}(Mierda, acabo de llegar en el momento perfecto. Qué vista tan hermosa.)"
+
+# game/day16.rpy:954
+translate spanish day16_rb_watersports_a1ab4375:
+
+    # p "{i}(Let it flow, girl... Damn what a sight.)"
+    p "{i}(Déjalo fluir, chica... Maldita sea.)"
+
+# game/day16.rpy:959
+translate spanish day16_rb_watersports_f6eeb36d:
+
+    # p "{i}(Shit! She saw me! She's looking right at me...)"
+    p "{i}(¡Mierda! ¡Ella me vio! Me está mirando directamente...)"
+
+# game/day16.rpy:960
+translate spanish day16_rb_watersports_161d61e6:
+
+    # p "{i}(And she's smiling... Wow!)"
+    p "{i}(Y ella me está sonriendo... ¡Guau!)"
+
+# game/day16.rpy:964
+translate spanish day16_rb_watersports_0b252137:
+
+    # "{i}You head back to the main beach and wait for Rebeca to come back."
+    "{i}Regresas a la playa principal y esperas a que Rebeca regrese."
+
+# game/day16.rpy:966
+translate spanish day16_rb_watersports_4992d2b8:
+
+    # rb "Guess who I saw just now..."
+    rb "Adivina a quién vi hace un momento..."
+
+# game/day16.rpy:967
+translate spanish day16_rb_watersports_41b842d0:
+
+    # p "{i}(She doesn't seem mad... Quite the contrary.)"
+    p "{i}(Ella no parece enfadada... Todo lo contrario."
+
+# game/day16.rpy:968
+translate spanish day16_rb_watersports_f8f2b7fa:
+
+    # rb "Do you get off on that sort of thing, [p_name]? Do you like a bit of water-sports?"
+    rb "¿Te excitan ese tipo de cosas, [p_name]? ¿Te gustan los deportes acuáticos?"
+
+# game/day16.rpy:979
+translate spanish day16_rb_watersports_63e34849:
+
+    # p "Actually I do. You looked very hot just now."
+    p "En realidad sí. Te veías muy sexy en este momento."
+
+# game/day16.rpy:980
+translate spanish day16_rb_watersports_168a57bc:
+
+    # rb "Dirty! I'll keep that in mind..."
+    rb "¡Guarro! Lo tendré en cuenta..."
+
+# game/day16.rpy:981
+translate spanish day16_rb_watersports_00fe2d33:
+
+    # rb "I like you already, [p_name]. We're going to get along just fine."
+    rb "Ya me gustas, [p_name]. Nos llevaremos muy bien."
+
+# game/day16.rpy:982
+translate spanish day16_rb_watersports_73d7233c:
+
+    # p "Thank you, the feeling is quite mutual."
+    p "Gracias, el sentimiento es bastante mutuo."
+
+# game/day16.rpy:983
+translate spanish day16_rb_watersports_9be3a2c2:
+
+    # rb "Good."
+    rb "Bien."
+
+# game/day16.rpy:991
+translate spanish day16_rb_watersports_4465ac0d:
+
+    # p "Only when it involves a surfboard."
+    p "Solo cuando se trata de una tabla de surf."
+
+# game/day16.rpy:992
+translate spanish day16_rb_watersports_7cbc95c2:
+
+    # rb "Why did you come after me then?"
+    rb "Why did you come after me then?"
+
+# game/day16.rpy:993
+translate spanish day16_rb_watersports_79276013:
+
+    # p "{i}(Better be honest. Otherwise she's going to offer me a golden shower or something...)"
+    p "{i}(Mejor sé honesto. De lo contrario, me ofrecerá una lluvia dorada o algo así...)"
+
+# game/day16.rpy:994
+translate spanish day16_rb_watersports_ff1835db:
+
+    # p "I just wanted to see you naked."
+    p "Solo quería verte desnuda."
+
+# game/day16.rpy:995
+translate spanish day16_rb_watersports_18383d3d:
+
+    # rb "That's also a very good reason."
+    rb "Esa también es una muy buena razón."
+
+# game/day16.rpy:996
+translate spanish day16_rb_watersports_a69855c9:
+
+    # rb "Did you like what you saw?"
+    rb "¿Te gustó lo que viste?"
+
+# game/day16.rpy:997
+translate spanish day16_rb_watersports_87dbf22d:
+
+    # p "Yes. You're very sexy."
+    p "Sí. Eres muy sexy."
+
+# game/day16.rpy:1004
+translate spanish day16_rb_sex_357c561f:
+
+    # "{i}Pretty soon you reach the place where you picked Rebeca up before your little walk. She opens the door and you go inside."
+    "{i}Muy pronto llegas al lugar donde recogiste a Rebeca antes de tu pequeña caminata. Ella abre la puerta y entráis."
+
+# game/day16.rpy:1009
+translate spanish day16_rb_sex_236b0d51:
+
+    # p "Jesus, it's really hot in here."
+    p "Jesús, hace mucho calor aquí."
+
+# game/day16.rpy:1010
+translate spanish day16_rb_sex_f8b4a90e:
+
+    # rb "The downside of having a studio with a flat roof near the beach. That's why I usually work naked."
+    rb "El inconveniente de tener un estudio con techo bajo cerca de la playa. Por eso suelo trabajar desnuda."
+
+# game/day16.rpy:1011
+translate spanish day16_rb_sex_b0bd2bdf:
+
+    # p "Of course you do."
+    p "Claro que sí."
+
+# game/day16.rpy:1016
+translate spanish day16_rb_sex_e52a1cbe:
+
+    # rb "See, it's that easy."
+    rb "Mira, es así de fácil."
+
+# game/day16.rpy:1017
+translate spanish day16_rb_sex_63123add:
+
+    # "{i}The sight of her naked body does little to alleviate the heat and instead makes you hard."
+    "{i}La vista de su desnudo cuerpo hace poco para aliviar el calor y en su lugar te pone duro."
+
+# game/day16.rpy:1018
+translate spanish day16_rb_sex_5647013f:
+
+    # rb "Undress for me please, so I can get a good look at you."
+    rb "Desnúdate para mí, por favor, para que pueda verte bien."
+
+# game/day16.rpy:1020
+translate spanish day16_rb_sex_33c8101d:
+
+    # rb "Wow, you have the perfect specimen for my first piece. Maybe I'll cast you in bronze, or should it be a precious metal... I don't know. But you'll be the proud introduction to my new series of art pieces."
+    rb "Wow, tienes el espécimen perfecto para mi primera pieza. Tal vez te lance en bronce, o debería ser un metal precioso... No sé. Pero serás la orgullosa introducción a mi nuevo serie de piezas de arte.”"
+
+# game/day16.rpy:1021
+translate spanish day16_rb_sex_c74f31d0:
+
+    # p "I'm honored..."
+    p "Me siento honrado..."
+
+# game/day16.rpy:1022
+translate spanish day16_rb_sex_8a34a33b:
+
+    # rb "Lie down please, I have to make a mold."
+    rb "Acuéstate, por favor, tengo que hacer un molde."
+
+# game/day16.rpy:1023
+translate spanish day16_rb_sex_4aa8d273:
+
+    # "{i}You lie down and close your eyes for a bit while Rebeca rummages around in her studio to find her materials."
+    "{i}Te acuestas y cierras los ojos por un momento mientras Rebeca rebuscar en su estudio para encontrar sus materiales."
+
+# game/day16.rpy:1028
+translate spanish day16_rb_sex_283155d8:
+
+    # "{i}You must have dozed off for a while because you awaken with a shock when you feel cold hands touching your penis."
+    "{i}Debes haberte quedado dormido por un tiempo porque te despiertas con un susto cuando sientes unas manos frías tocando tu polla."
+
+# game/day16.rpy:1030
+translate spanish day16_rb_sex_58b66eb1:
+
+    # rb "Ah, he's awake."
+    rb "Ah, está despierto."
+
+# game/day16.rpy:1031
+translate spanish day16_rb_sex_7709aaa0:
+
+    # p "W-what are you doing?"
+    p "¿Q-qué estás haciendo?"
+
+# game/day16.rpy:1032
+translate spanish day16_rb_sex_5f499520:
+
+    # rb "Your cock was all limp, not the best symbol for powerful male libido. Should I stop?"
+    rb "Tu polla estaba flácida, no es el mejor ejemplo de la poderosa libido masculina. ¿Debería parar?"
+
+# game/day16.rpy:1033
+translate spanish day16_rb_sex_34d74724:
+
+    # p "God no, keep going."
+    p "Dios no, sigue adelante."
+
+# game/day16.rpy:1034
+translate spanish day16_rb_sex_c428e0ed:
+
+    # "{i}When Rebeca is satisfied, she suddenly stops massaging your dick and digs out some tools, presumably to make the mold. You start to doze off again from the heat."
+    "{i}Cuando Rebeca está satisfecha, de repente deja de masajearte la polla y saca algunas herramientas, presumiblemente para hacer el molde. Empiezas a adormecerte de nuevo por el calor."
+
+# game/day16.rpy:1039
+translate spanish day16_rb_sex_858df364:
+
+    # "{i}Almost subconsciously, you feel some thick, cold liquid being poured over your crotch, which quickly hardens. Rebeca whistles an inane tune while she works."
+    "{i}Casi inconscientemente sientes que se vierte un líquido espeso y frío sobre tu entrepierna, que se endurece rápidamente. Rebeca silba una melodía inútil mientras trabaja."
+
+# game/day16.rpy:1040
+translate spanish day16_rb_sex_f4b65e6d:
+
+    # "{i}After a while the mold is removed and Rebeca rubs your cock with a soft towel for far longer than necessary."
+    "{i}Después de un rato te quita el molde y Rebeca frota tu polla con una toalla suave durante mucho más tiempo del necesario."
+
+# game/day16.rpy:1041
+translate spanish day16_rb_sex_d6ccac46:
+
+    # rb "Done."
+    rb "Hecho."
+
+# game/day16.rpy:1042
+translate spanish day16_rb_sex_b625aa51:
+
+    # p "You're a downright cocktease, you know that?"
+    p "Eres una auténtica cabrona, ¿lo sabías?"
+
+# game/day16.rpy:1043
+translate spanish day16_rb_sex_97af099a:
+
+    # rb "What? You mean my innocent touches?"
+    rb "¿Qué? ¿Te refieres a mis toques inocentes?"
+
+# game/day16.rpy:1044
+translate spanish day16_rb_sex_8bbbbb2d:
+
+    # p "Exactly those."
+    p "Exactamente esos."
+
+# game/day16.rpy:1046
+translate spanish day16_rb_sex_31563e3c:
+
+    # p "Come here."
+    p "Ven aquí."
+
+# game/day16.rpy:1051
+translate spanish day16_rb_sex_2f090249:
+
+    # "{i}Rebeca doesn't hesitate and moves towards you. Suddenly you're entangled in a passionate kiss, her hands exploring your body and yours firmly kneading her breasts."
+    "{i}Rebeca no vacila y se mueve hacia ti. De repente estás enredado en un apasionado beso, sus manos explorando tu cuerpo y las tuyas amasando firmemente sus tetas."
+
+# game/day16.rpy:1052
+translate spanish day16_rb_sex_fcbd5ad6:
+
+    # rb "Fuck me, [p_name]."
+    rb "Fóllame, [p_name]."
+
+# game/day16.rpy:1057
+translate spanish day16_rb_sex_c41e60f5:
+
+    # "{i}When you enter her, she's already wet. You penetrate her deeply and quickly establish a rhythm."
+    "{i}Cuando entras en ella, ella ya está húmeda. La penetras profundamente y rápidamente estableces un ritmo."
+
+# game/day16.rpy:1058
+translate spanish day16_rb_sex_e839182f:
+
+    # rb "God yes. Fuck me! Fuck me harder!"
+    rb "Dios sí. ¡Fóllame! ¡Fóllame más fuerte!"
+
+# game/day16.rpy:1060
+translate spanish day16_rb_sex_a6080212:
+
+    # "{i}Encouraged by her words, you pound her even deeper. The studio is filled with the wet sounds of your fucking and Rebeca's hoarse moans."
+    "{i}Alentado por sus palabras, la golpeas aún más profundamente. El estudio se inundaba con los sonidos húmedos de tu follada y los gemidos afónicos de Rebeca."
+
+# game/day16.rpy:1066
+translate spanish day16_rb_sex_e0792702:
+
+    # "{i}As you change positions, Rebeca's ass bounces against your pelvis. You slap it repeatedly."
+    "{i}Cuando cambias de posición, el culo de Rebeca rebota contra tu pelvis. Lo abofeteas repetidamente."
+
+# game/day16.rpy:1067
+translate spanish day16_rb_sex_c064ca31:
+
+    # rb "Mmmmm yeah, slap it."
+    rb "Mmmmm, sí, abofetealo..."
+
+# game/day16.rpy:1068
+translate spanish day16_rb_sex_01bc843c:
+
+    # p "I'm going to fill you up, Rebeca."
+    p "Voy a llenarte, Rebeca."
+
+# game/day16.rpy:1069
+translate spanish day16_rb_sex_0a777782:
+
+    # rb "Put it inside me please!"
+    rb "¡Ponlo dentro de mí por favor!"
+
+# game/day16.rpy:1075
+translate spanish day16_rb_sex_d28f47a3:
+
+    # p "I want you to taste me."
+    p "Quiero que me pruebes."
+
+# game/day16.rpy:1076
+translate spanish day16_rb_sex_27a51b38:
+
+    # "{i}You pull out and Rebeca quickly kneels before you, her eager mouth open to receive your warm seed."
+    "{i}Te retiras y Rebeca se arrodilla rápidamente ante ti, su ansiosa boca abierta espera recibir tu cálida semilla."
+
+# game/day16.rpy:1082
+translate spanish day16_rb_sex_ddae8c90:
+
+    # "{i}Thick streams of cum shoot from your pulsing dick. Rebeca tries to catch it all in her mouth, but some of it spurts on her face."
+    "{i}Gruesas corrientes de semen salen de tu palpitante polla. Rebeca trata de atraparlo todo en su boca, pero algo de ello sale a chorros hacía su cara."
+
+# game/day16.rpy:1084
+translate spanish day16_rb_sex_eb00dfd3:
+
+    # "{i}She closes her mouth and swallows your entire load, licking her lips afterwards."
+    "{i}Cierra la boca y se traga toda la carga, luego se lame los labios."
+
+# game/day16.rpy:1085
+translate spanish day16_rb_sex_e8f9ac8c:
+
+    # rb "You taste really good, [p_name]."
+    rb "Sabes muy bien, [p_name]."
+
+# game/day16.rpy:1095
+translate spanish day16_rb_sex_afe6949f:
+
+    # p "Fuck yes, your pussy will be overflowing."
+    p "Joder sí, tu coño se rebosará."
+
+# game/day16.rpy:1101
+translate spanish day16_rb_sex_86e11c7e:
+
+    # "{i}After two deep thrusts, thick streams of cum shoot inside her, your dick is pulsing inside her vagina."
+    "{i}Después de dos profundas embestidas, gruesas corrientes de semen se disparan dentro de ella, tu polla late dentro de su vagina."
+
+# game/day16.rpy:1102
+translate spanish day16_rb_sex_d124b0c2:
+
+    # rb "Mmmmm, yes, fill me up! It feels so warm inside of me."
+    rb "Mmmmm, sí, ¡lléname! Se siente tan cálido dentro de mí."
+
+# game/day16.rpy:1107
+translate spanish day16_rb_sex_785a830f:
+
+    # "{i}You both lay sweaty and exhausted in the heat of Rebeca's studio. The air smells of sex and cum."
+    "{i}Ambos yacían sudorosos y exhaustos en el calor del estudio de Rebeca. El aire huele a sexo y semen."
+
+# game/day16.rpy:1108
+translate spanish day16_rb_sex_207ca936:
+
+    # "{i}Rebeca pushes a finger inside her pussy and absentmindedly licks the cum-covered digit."
+    "{i}Rebeca empuja un dedo dentro de su coño y distraídamente lame el dedo cubierto de semen."
+
+# game/day16.rpy:1109
+translate spanish day16_rb_sex_e8f9ac8c_1:
+
+    # rb "You taste really good, [p_name]."
+    rb "Sabes muy bien, [p_name]."
+
+# game/day16.rpy:1125
+translate spanish day16_l_fingering_3b3c6b84:
+
+    # "{i}You find a quiet spot covered with dune grass and sheltered from the beach."
+    "{i}Encuentras un lugar tranquilo cubierto de hierbas, de dunas y protegido de la playa."
+
+# game/day16.rpy:1127
+translate spanish day16_l_fingering_6682b67e:
+
+    # l "Will we be okay here?"
+    l "¿Estaremos bien aquí?"
+
+# game/day16.rpy:1128
+translate spanish day16_l_fingering_30baada1:
+
+    # p "I'm sure of it, don't worry."
+    p "Estoy seguro, no te preocupes."
+
+# game/day16.rpy:1129
+translate spanish day16_l_fingering_847e552e:
+
+    # l "Are we really going to do this?"
+    l "¿Realmente vamos a hacerlo?"
+
+# game/day16.rpy:1130
+translate spanish day16_l_fingering_d466837c:
+
+    # p "Unless you don't feel comfortable enough."
+    p "A menos que no te sientas lo suficientemente cómoda."
+
+# game/day16.rpy:1131
+translate spanish day16_l_fingering_8f94cb3a:
+
+    # p "{i}(Please be comfortable!!!)"
+    p "{i}(¡Por favor, siéntate cómoda!!!)"
+
+# game/day16.rpy:1132
+translate spanish day16_l_fingering_b159e512:
+
+    # l "No, I'm good. The grass tickles, that's all."
+    l "No, estoy bien. La hierba me hace cosquillas, eso es todo."
+
+# game/day16.rpy:1133
+translate spanish day16_l_fingering_432d51eb:
+
+    # p "Good."
+    p "Bien."
+
+# game/day16.rpy:1134
+translate spanish day16_l_fingering_1681dc26:
+
+    # l "Okay."
+    l "Está bien."
+
+# game/day16.rpy:1135
+translate spanish day16_l_fingering_111559a2:
+
+    # p "This'll work better if you're naked."
+    p "Esto funcionará mejor si estás desnuda."
+
+# game/day16.rpy:1136
+translate spanish day16_l_fingering_a714afbe:
+
+    # l "Oh yes... of course... Does my bikini need to go as well?"
+    l "Oh, sí... por supuesto... ¿Mi bikini también debe de irse?"
+
+# game/day16.rpy:1137
+translate spanish day16_l_fingering_da5f26f4:
+
+    # p "Only if you want to."
+    p "Solo si quieres."
+
+# game/day16.rpy:1138
+translate spanish day16_l_fingering_16a60d5f:
+
+    # l "I don't know. I guess it'll be in the way."
+    l "No lo sé. Supongo que será un obstáculo."
+
+# game/day16.rpy:1139
+translate spanish day16_l_fingering_20e54811:
+
+    # p "{i}(Excellent choice.)"
+    p "{i}(Excelente opción)"
+
+# game/day16.rpy:1142
+translate spanish day16_l_fingering_3b185a49:
+
+    # p "{i}(What a heavenly sight. Lying here with my stark-naked sister and about to embark on a journey of sexual discovery.)"
+    p "{i}(Qué vista tan celestial. Acostado aquí con mi hermana completamente desnuda y a punto de embarcarme en un viaje de descubrimiento sexual.)"
+
+# game/day16.rpy:1144
+translate spanish day16_l_fingering_f27bce54:
+
+    # p "{i}(What a heavenly sight. Lying here with a stark-naked girl and about to embark on a journey of sexual discovery.)"
+    p "{i}(Qué vista tan celestial. Acostado aquí con una chica completamente desnuda y a punto de embarcarse en un viaje de descubrimiento sexual.)"
+
+# game/day16.rpy:1145
+translate spanish day16_l_fingering_f8c73797:
+
+    # p "Just try to relax and enjoy yourself. Don't be too focused on what you're doing and let me guide you."
+    p "Solo intenta relajarte y disfrutarlo. No te concentres demasiado en lo que estás haciendo y déjame guiarte"
+
+# game/day16.rpy:1146
+translate spanish day16_l_fingering_6e9966ef:
+
+    # l "I'm not sure if I can, but I'll try."
+    l "No estoy segura de si podré, pero lo intentaré."
+
+# game/day16.rpy:1148
+translate spanish day16_l_fingering_8df2348b:
+
+    # "{i}Your hand is on her naked belly and your sister is taking deep breaths, looking at you expectantly."
+    "{i}Tu mano está sobre su vientre desnudo y tu hermana respira hondo y te mira expectante."
+
+# game/day16.rpy:1150
+translate spanish day16_l_fingering_65757b42:
+
+    # "{i}Your hand is on her naked belly and [l_name] is taking deep breaths, looking at you expectantly."
+    "{i}Tu mano está sobre su vientre desnudo y [l_name] respira profundamente, mirándote expectante."
+
+# game/day16.rpy:1152
+translate spanish day16_l_fingering_0df3a880:
+
+    # "{i}You take one of her hands and slowly move it towards her sex."
+    "{i}Coges una de sus manos y la mueves lentamente hacia su sexo."
+
+# game/day16.rpy:1153
+translate spanish day16_l_fingering_e3a5a5ed:
+
+    # p "Just explore yourself, take it slow. Feel your body."
+    p "Simplemente explorate a tí misma, tómalo con calma. Siente tu cuerpo."
+
+# game/day16.rpy:1154
+translate spanish day16_l_fingering_754b9c5b:
+
+    # p "{i}(God, I almost sound like a guru.)"
+    p "{i}(Dios, casi sueno como un gurú)"
+
+# game/day16.rpy:1155
+translate spanish day16_l_fingering_dfa7f157:
+
+    # p "Touch your pussy, see how it feels beneath your fingers. Explore the area around your clit... Build up some anticipation."
+    p "Tócate el coño, mira cómo se siente debajo de tus dedos. Explora el área alrededor de tu clítoris... Desarrolla cierta anticipación."
+
+# game/day16.rpy:1156
+translate spanish day16_l_fingering_e746ddcb:
+
+    # "{i}[l_name] obediently does what you're saying, but she still looks uneasy."
+    "{i}[l_name] obedientemente hace lo que dices, pero todavía se ve incómoda."
+
+# game/day16.rpy:1157
+translate spanish day16_l_fingering_1fb57e6a:
+
+    # p "Is everything alright, [l_name]?"
+    p "¿Está todo bien, [l_name]?"
+
+# game/day16.rpy:1158
+translate spanish day16_l_fingering_97e0d939:
+
+    # l "Yes... It's just... the words you're using. They sound so dirty."
+    l "Sí... son solo... las palabras que estás usando. Suenan tan sucias."
+
+# game/day16.rpy:1159
+translate spanish day16_l_fingering_cc9a033f:
+
+    # p "But how do those words make you feel?"
+    p "¿Pero cómo te hacen sentir esas palabras?"
+
+# game/day16.rpy:1160
+translate spanish day16_l_fingering_b87fab88:
+
+    # l "I..."
+    l "Yo..."
+
+# game/day16.rpy:1161
+translate spanish day16_l_fingering_9a456252:
+
+    # p "Come on, you can say it to me."
+    p "Vamos, me lo puedes decir."
+
+# game/day16.rpy:1162
+translate spanish day16_l_fingering_af3eaa24:
+
+    # l "They make me feel..."
+    l "Me hacen sentir..."
+
+# game/day16.rpy:1163
+translate spanish day16_l_fingering_3dfeeaf4:
+
+    # l "...Horny?"
+    l "...¿Cachonda?"
+
+# game/day16.rpy:1164
+translate spanish day16_l_fingering_18e72607:
+
+    # p "That's the intention. Sex is giving yourself completely over to lust. It's not something you should do half-heartedly."
+    p "Esa es la intención. El sexo es entregarse por completo a la lujuria. No es algo que debas hacer a medias."
+
+# game/day16.rpy:1165
+translate spanish day16_l_fingering_fd2f6b1e:
+
+    # l "Okay, I'll try."
+    l "Está bien, lo intentaré."
+
+# game/day16.rpy:1166
+translate spanish day16_l_fingering_daf20258:
+
+    # p "Don't worry about yourself, or the responses of your body. It's all natural."
+    p "No te preocupes por tí ni por las respuestas de tu cuerpo. Todo es natural."
+
+# game/day16.rpy:1167
+translate spanish day16_l_fingering_1b4657c6:
+
+    # l "Are you... eh... horny?"
+    l "¿Tú estás... eh... cachondo?"
+
+# game/day16.rpy:1168
+translate spanish day16_l_fingering_0bb85004:
+
+    # p "Yes, I think this is really exciting."
+    p "Sí, creo que esto es muy excitante."
+
+# game/day16.rpy:1169
+translate spanish day16_l_fingering_e1bb255d:
+
+    # l "Do you have a... you know..."
+    l "¿Tienes una... ya sabes..."
+
+# game/day16.rpy:1170
+translate spanish day16_l_fingering_3309102f:
+
+    # p "An erection?"
+    p "¿Una erección?"
+
+# game/day16.rpy:1171
+translate spanish day16_l_fingering_e29a29a2:
+
+    # l "Yes?"
+    l "¿Sí?"
+
+# game/day16.rpy:1172
+translate spanish day16_l_fingering_1b526758:
+
+    # p "As soon as you removed your bikini. You have such a sexy body."
+    p "Tan pronto como te quitaste el bikini. Tienes un cuerpo tan sexy."
+
+# game/day16.rpy:1173
+translate spanish day16_l_fingering_45761022:
+
+    # p "{i}(And if we don't focus on her again soon I'm going to cum by just talking...)"
+    p "{i}(Y si no nos enfocamos en ella otra vez pronto, me voy a correr simplemente hablando...)"
+
+# game/day16.rpy:1174
+translate spanish day16_l_fingering_81f2c3f1:
+
+    # p "Shall we continue?"
+    p "¿Continuamos?"
+
+# game/day16.rpy:1175
+translate spanish day16_l_fingering_bc5c265b:
+
+    # l "Yes."
+    l "Sí."
+
+# game/day16.rpy:1176
+translate spanish day16_l_fingering_3b587d0a:
+
+    # p "Don't be too preoccupied with reaching an orgasm, just concentrate on what makes you feel good and extend that feeling of pleasure."
+    p "No te preocupes demasiado por alcanzar un orgasmo, solo concéntrate en lo que te hace sentir bien y extiende esa sensación de placer."
+
+# game/day16.rpy:1177
+translate spanish day16_l_fingering_c383bd3b:
+
+    # p "Start by gently rubbing your pussy."
+    p "Comienza frotandote suavemente el coño."
+
+# game/day16.rpy:1183
+translate spanish day16_l_fingering_8ee5f2dd:
+
+    # l "Ooooh, yes... That feels good."
+    l "Ooooh, sí... Esto se siente tan bien."
+
+# game/day16.rpy:1184
+translate spanish day16_l_fingering_7f1370a3:
+
+    # "{i}You edge closer and lower your voice to a whisper."
+    "{i}Te acercas y bajas la voz a un susurro."
+
+# game/day16.rpy:1185
+translate spanish day16_l_fingering_e4df1b27:
+
+    # p "Explore you pussy lips, your clitoris..."
+    p "Explora tus labios vaginales, tu clítoris..."
+
+# game/day16.rpy:1186
+translate spanish day16_l_fingering_20a26fd7:
+
+    # l "Yes! Mmmmm."
+    l "¡Sí! Mmmmm."
+
+# game/day16.rpy:1187
+translate spanish day16_l_fingering_49062072:
+
+    # p "Don't hold back. If it feels good, continue doing it..."
+    p "No te detengas. Si se está bien, continúa haciéndolo..."
+
+# game/day16.rpy:1188
+translate spanish day16_l_fingering_cc354b51:
+
+    # "{i}After a short while, [l_name]'s soft moans of pleasure slow down and then stop completely. She's no longer enjoying herself and appears to have reverted back to stiff and pleasure-less grinding."
+    "{i}Después de un corto tiempo, los suaves gemidos de placer de [l_name] se ralentizan y luego se detienen por completo. Ya no se divierte y parece haber vuelto a la rutina rígida y sin placer."
+
+# game/day16.rpy:1189
+translate spanish day16_l_fingering_2daad4de:
+
+    # p "When you think you're losing momentum, think of dirty things."
+    p "Cuando creas que estás perdiendo impulso, piensa en cosas sucias."
+
+# game/day16.rpy:1190
+translate spanish day16_l_fingering_b1b12192:
+
+    # l "I... I... I can't."
+    l "Yo... yo... no puedo."
+
+# game/day16.rpy:1191
+translate spanish day16_l_fingering_c70c2218:
+
+    # p "{i}(Maybe some dirty talk will rouse her.)"
+    p "{i}(Tal vez alguna conversación sucia la despertará)"
+
+# game/day16.rpy:1192
+translate spanish day16_l_fingering_6da813c1:
+
+    # p "Would you like to hear the dirty things I'd do to you?"
+    p "¿Te gustaría oir las cosas sucias que yo te haría?"
+
+# game/day16.rpy:1193
+translate spanish day16_l_fingering_fcbd8426:
+
+    # l "Y-y-yes..."
+    l "S-s-sí..."
+
+# game/day16.rpy:1194
+translate spanish day16_l_fingering_38adfa51:
+
+    # p "I would shower your body with kisses, starting with your sweet mouth. Then move on to your perfect breasts and kiss your nipples until they're hard as rocks."
+    p "Bañaría tu cuerpo con besos, comenzando por tu dulce boca. Luego pasaría a tus perfectos pechos y besaría tus pezones hasta que estén duros como rocas."
+
+# game/day16.rpy:1195
+translate spanish day16_l_fingering_82822a0c:
+
+    # l "..."
+    l "..."
+
+# game/day16.rpy:1196
+translate spanish day16_l_fingering_e854e50c:
+
+    # l "...Go on please."
+    l "Vamos... por favor."
+
+# game/day16.rpy:1197
+translate spanish day16_l_fingering_a4973da7:
+
+    # p "Your belly shouldn't be forgotten either and your luscious thighs. I would save your beautiful pussy for last..."
+    p "Tampoco hay que olvidar tu vientre y tus deliciosos muslos. Guardaría tu hermoso coño para el final..."
+
+# game/day16.rpy:1198
+translate spanish day16_l_fingering_91c056ac:
+
+    # l "Mmmmm."
+    l "Mmmmm."
+
+# game/day16.rpy:1200
+translate spanish day16_l_fingering_2c69ebf2:
+
+    # "{i}Your sister is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}Tu hermana está completamente concentrada de nuevo, su comportamiento mecánico desapareció por completo. Se retuerce en la arena mientras se masajea el coño."
+
+# game/day16.rpy:1202
+translate spanish day16_l_fingering_22032ab9:
+
+    # "{i}[l_name] is completely focused again, her mechanical behavior completely gone. She writhes in the sand as she massages her pussy."
+    "{i}[l_name] está completamente centrado de nuevo, su comportamiento mecánico desapareció por completo. Se retuerce en la arena mientras se masajea el coño."
+
+# game/day16.rpy:1203
+translate spanish day16_l_fingering_f362d2ec:
+
+    # p "Now, why don't you try to slip a finger inside, gather some of that moisture and spread it onto your pussy."
+    p "Ahora, ¿por qué no intentas deslizarte un dedo dentro, recoger algo de esa humedad y extenderla sobre tu coño?"
+
+# game/day16.rpy:1205
+translate spanish day16_l_fingering_04979e16:
+
+    # l "It feels so strange."
+    l "Se siente tan extraño."
+
+# game/day16.rpy:1206
+translate spanish day16_l_fingering_6ae2b3cf:
+
+    # p "But it's good, isn't it?"
+    p "Pero está bien, ¿no es cierto?"
+
+# game/day16.rpy:1207
+translate spanish day16_l_fingering_e511b696:
+
+    # l "Y-y-yes!"
+    l "¡S-s-sí!"
+
+# game/day16.rpy:1208
+translate spanish day16_l_fingering_00111317:
+
+    # p "Good, good, you're nearly there. Keep fingering yourself and rub your wet clit."
+    p "Bien, bien, ya casi estás ahí. Sigue tocándote y frota tu húmedo clítoris"
+
+# game/day16.rpy:1209
+translate spanish day16_l_fingering_5e00ee0b:
+
+    # l "Tell me more about the things you'd like to do with my body. Please!"
+    l "Cuéntame más sobre las cosas que te gustaría hacer con mi cuerpo. ¡Por favor!"
+
+# game/day16.rpy:1210
+translate spanish day16_l_fingering_888962a9:
+
+    # p "After all those kisses, I'd move back to your nipples and teasingly lick them while you finger yourself. When you're nearing your orgasm, I'd suck on them, sending you over the edge and making you cum so hard."
+    p "Después de todos esos besos, volvería a tus pezones y los lamería provocadoramente mientras te acaricias. Cuando te acerques a tu orgasmo, los chuparé, te llevaré al límite y haré que te corras tan fuerte.”"
+
+# game/day16.rpy:1211
+translate spanish day16_l_fingering_644ee3dc:
+
+    # l "Oooooh, [p_name]!"
+    l "¡Oooooh, [p_name]!"
+
+# game/day16.rpy:1212
+translate spanish day16_l_fingering_7c777b86:
+
+    # p "Yes, [l_name]?"
+    p "Sí, [l_name]?"
+
+# game/day16.rpy:1213
+translate spanish day16_l_fingering_f8d205a2:
+
+    # l "I think I'm..."
+    l "Creo que lo estoy..."
+
+# game/day16.rpy:1220
+translate spanish day16_l_fingering_665bccf9:
+
+    # l "Aaaaaaaaaaah!!!"
+    l "Aaaaaaaaaaah!!!"
+
+# game/day16.rpy:1222
+translate spanish day16_l_fingering_5f782092:
+
+    # "{i}Unable to utter anything more, your sister trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Incapaz de pronunciar nada más, tu hermana tiembla con fuerza. Los temblores de su orgasmo superan cualquier otra función muscular de su cuerpo."
+
+# game/day16.rpy:1224
+translate spanish day16_l_fingering_5ad0e16a:
+
+    # "{i}Unable to utter anything more, [l_name] trembles forcefully. The tremors of her orgasm overtake any other muscle functions of her body."
+    "{i}Incapaz de pronunciar nada más, [l_name] tiembla con fuerza. Los temblores de su orgasmo superan cualquier otra función muscular de su cuerpo."
+
+# game/day16.rpy:1225
+translate spanish day16_l_fingering_e5a66882:
+
+    # p "My beautiful, beautiful girl."
+    p "Mi hermosa, hermosa chica."
+
+# game/day16.rpy:1226
+translate spanish day16_l_fingering_58781776:
+
+    # l "Aaaaah!!!"
+    l "Aaaaah!!!"
+
+# game/day16.rpy:1230
+translate spanish day16_l_fingering_8d0c9317:
+
+    # "{i}It takes quite a while for [l_name] to recover from her orgasm, and she seems unable to speak for some time after."
+    "{i}Le toma bastante tiempo a [l_name] recuperarse de su orgasmo y parece incapaz de hablar durante algún tiempo después."
+
+# game/day16.rpy:1234
+translate spanish day16_l_fingering_e0004e3f:
+
+    # l "I really, really didn't know it could feel so wonderful."
+    l "Realmente, realmente no sabía que podría sentirse tan maravilloso."
+
+# game/day16.rpy:1235
+translate spanish day16_l_fingering_b00e3678:
+
+    # p "It takes time, practice and some dedication, but you were magnificent."
+    p "Se necesita tiempo, práctica y dedicación, pero fuiste magnífica."
+
+# game/day16.rpy:1236
+translate spanish day16_l_fingering_c826d305:
+
+    # l "It's getting a bit too cold here out in the dunes and I'm suddenly very sleepy."
+    l "Hace demasiado frío aquí en las dunas y de repente tengo mucho sueño."
+
+# game/day16.rpy:1237
+translate spanish day16_l_fingering_e126bb40:
+
+    # p "I understand, let's head back."
+    p "Lo entiendo, regresemos."
+
+# game/day16.rpy:1239
+translate spanish day16_l_fingering_f951f29f:
+
+    # l "Thank you for the lovely evening. It really means a lot to me."
+    l "Gracias por la encantadora velada. Realmente significa mucho para mí."
+
+# game/day16.rpy:1240
+translate spanish day16_l_fingering_58357d64:
+
+    # p "{i}(I sure hope this isn't the last time...)"
+    p "{i}(Espero que esta no sea la última vez...)"
+
+# game/day16.rpy:1241
+translate spanish day16_l_fingering_d2059054:
+
+    # l "Sleep well, dear [p_name]."
+    l "Duerme bien, querido [p_name]."
+
+# game/day16.rpy:1242
+translate spanish day16_l_fingering_fdb98df6:
+
+    # p "Good night, my darling [l_name]."
+    p "Buenas noches, mi amor [l_name]."
+

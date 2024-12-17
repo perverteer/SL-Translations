@@ -4800,3 +4800,35 @@ translate spanish b_relationship_hard_drive_choices_e8f0e434:
     # p "{i}(...)"
     p "{i}(...)"
 
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day11.rpy:1191
+translate spanish day11_b_conversation_soft_7152dc28:
+
+    # r "Let's go cuddle and fall asleep together then!"
+    r "¡Entonces vamos a abrazarnos y dormirnos juntos!"
+
+# game/day11.rpy:1192
+translate spanish day11_b_conversation_soft_2a71e097:
+
+    # p "Great idea."
+    p "Gran idea."
+
+# game/day11.rpy:1195
+translate spanish day11_b_conversation_soft_b74be4e8:
+
+    # "{i}You fall asleep with your naked sister next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Te duermes con tu hermana desnuda a tu lado. Tu miembro hinchado empuja suavemente contra su suace culo, pero no parece importarle, a juzgar por su silencioso contenido de murmullos.."
+
+# game/day11.rpy:1197
+translate spanish day11_b_conversation_soft_a43614bd:
+
+    # "{i}You fall asleep with [r_name] next to you. Your swollen member pushes gently against her soft butt, but she doesn't seem to mind, judging by her quiet content murmuring."
+    "{i}Te duermes con [r_name] a tu lado. Tu miembro hinchado empuja suavemente contra su suave culo, pero no parece importarle, a juzgar por su silencioso contenido de murmullos."
+
+# game/day11.rpy:1202
+translate spanish day11_b_conversation_soft_4b50cbe1:
+
+    # "{i}As soon as you rest your head against your pillow, you fall asleep."
+    "{i}Tan pronto como descansas tu cabeza contra la almohada te duermes."
+

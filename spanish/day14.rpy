@@ -4822,3 +4822,1451 @@ translate spanish day14_evening_choices_fd06fdaa:
 
     # "{i}The film you end up watching is rather boring and you have a hard time concentrating. Instead, you steal glances at [b_name], who doesn't seem to notice."
     "{i}La película que acabas viendo es bastante aburrida y te cuesta concentrarte En cambio le robas miradas a [b_name] que no parece darse cuenta."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day14.rpy:264
+translate spanish day14_choices_d8a6ddcd:
+
+    # p "I'm glad to hear that."
+    p "Me alegra oirlo."
+
+# game/day14.rpy:265
+translate spanish day14_choices_94cbdeab:
+
+    # h "Do you need to go?"
+    h "¿Tienes que irte?"
+
+# game/day14.rpy:266
+translate spanish day14_choices_0d51abe5:
+
+    # p "{i}(God, that woman is insatiable. Fine with me.)"
+    p "{i}(Dios, esa mujer es insaciable. Me parece bien..)"
+
+# game/day14.rpy:267
+translate spanish day14_choices_b15b03f1:
+
+    # p "I have some time left..."
+    p "Me queda algo de tiempo..."
+
+# game/day14.rpy:268
+translate spanish day14_choices_1a2122c1:
+
+    # h "Good, I want to feel you inside me again."
+    h "Bien, quiero sentirte dentro de mí otra vez."
+
+# game/day14.rpy:269
+translate spanish day14_choices_b28d880a:
+
+    # p "That can be arranged."
+    p "Eso se puede arreglar."
+
+# game/day14.rpy:827
+translate spanish day14_discreet_session_c4245165:
+
+    # p "{i}(I'm not sure if I'll ever get used to seeing [m_name] like this.)"
+    p "{i}(No estoy seguro de si alguna vez me acostumbraré a ver [m_name] así.)"
+
+# game/day14.rpy:828
+translate spanish day14_discreet_session_46e5949d:
+
+    # m "Are you ready to continue, Mr. Holmes?"
+    m "¿Está listo para continuar, señor Holmes?"
+
+# game/day14.rpy:829
+translate spanish day14_discreet_session_0b462255:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:830
+translate spanish day14_discreet_session_4c8b2fa1:
+
+    # m "Good, you didn't forget how to address me."
+    m "Bien, no olvidaste cómo dirigirte a mí."
+
+# game/day14.rpy:832
+translate spanish day14_discreet_session_9d9a6ef4:
+
+    # m "Today we'll open one of the doors and see what's behind them."
+    m "Hoy abriremos una de las puertas y veremos qué hay detrás de ellas."
+
+# game/day14.rpy:833
+translate spanish day14_discreet_session_044b7890:
+
+    # m "Undress yourself."
+    m "Desnúdate."
+
+# game/day14.rpy:834
+translate spanish day14_discreet_session_44fd583a:
+
+    # "{i}You quietly remove your clothes while [m_name] gazes at you."
+    "{i}Te quitas la ropa en silencio mientras [m_name] te mira."
+
+# game/day14.rpy:835
+translate spanish day14_discreet_session_65725451:
+
+    # m "{i}(I almost forgot how good he looked.)"
+    m "{i}(Casi olvido lo bien que se veía)"
+
+# game/day14.rpy:836
+translate spanish day14_discreet_session_1f37fe43:
+
+    # m "You may open the first door to your left."
+    m "Puedes abrir la primera puerta a tu izquierda."
+
+# game/day14.rpy:838
+translate spanish day14_discreet_session_2da66ab0:
+
+    # p "{i}(Damn! Is that the receptionist?)"
+    p "{i}(¡Maldición! ¿Esa es la recepcionista?)"
+
+# game/day14.rpy:839
+translate spanish day14_discreet_session_e6885bc2:
+
+    # m "Before you, you see another of my slaves. I think you've met her. Would you like to know her name?"
+    m "Ante ti, ves a otro de mis esclavos. Creo que la has conocido. ¿Te gustaría saber su nombre?"
+
+# game/day14.rpy:840
+translate spanish day14_discreet_session_e8d6f445:
+
+    # p "Yes mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:842
+translate spanish day14_discreet_session_e711782e:
+
+    # m "I'm afraid she can't tell her yourself, but her name is Adriana."
+    m "Me temo que no puede decírselo ella misma, pero se llama Adriana."
+
+# game/day14.rpy:843
+translate spanish day14_discreet_session_aaeed54b:
+
+    # m "Adriana, this is Mr. Holmes."
+    m "Adriana, este es el Sr. Holmes."
+
+# game/day14.rpy:844
+translate spanish day14_discreet_session_3870e3e0:
+
+    # "{i}The receptionist mumbles something from behind her ball gag and struggles with her bonds."
+    "{i}La recepcionista murmura algo detrás de su mordaza y lucha con sus ataduras."
+
+# game/day14.rpy:845
+translate spanish day14_discreet_session_d06d977a:
+
+    # m "Are those restraints too tight, Adriana?"
+    m "¿Están muy apretadas las correas, Adriana?"
+
+# game/day14.rpy:846
+translate spanish day14_discreet_session_5e09bd5c:
+
+    # m "She's nodding her head. I guess she's fine. Do you like what you see, boy?"
+    m "Ella asiente con la cabeza. Creo que está bien. ¿Te gusta lo que ves, muchacho?"
+
+# game/day14.rpy:847
+translate spanish day14_discreet_session_e8d6f445_1:
+
+    # p "Yes mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:848
+translate spanish day14_discreet_session_a8ef698e:
+
+    # m "What do you like specifically? Tell me."
+    m "¿Qué te gusta específicamente? Dime."
+
+# game/day14.rpy:853
+translate spanish day14_discreet_session_ab350f2c:
+
+    # p "Her breasts, mistress."
+    p "Sus tetas, ama."
+
+# game/day14.rpy:855
+translate spanish day14_discreet_session_20f12902:
+
+    # m "Yes, they're quite a pair, aren't they? I bet you'd like to fuck them."
+    m "Sí, son un buen par, ¿no? Apuesto a que te gustaría follártelos"
+
+# game/day14.rpy:859
+translate spanish day14_discreet_session_1ae6a054:
+
+    # p "Yes, mistress. I would very much."
+    p "Sí, ama, me gustaría mucho."
+
+# game/day14.rpy:860
+translate spanish day14_discreet_session_5d7144d2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Tal vez tengas suerte si eres un buen chico."
+
+# game/day14.rpy:863
+translate spanish day14_discreet_session_d36b20f6:
+
+    # p "No, mistress."
+    p "No ama."
+
+# game/day14.rpy:864
+translate spanish day14_discreet_session_714694ce:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "No eres muy coherente con tus respuestas, ¿verdad? No me decepciones."
+
+# game/day14.rpy:865
+translate spanish day14_discreet_session_c8c6eb0f:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Cuando admiro algo no significa automáticamente que quiera follarmelo... por Dios...)"
+
+# game/day14.rpy:869
+translate spanish day14_discreet_session_242c9dd0:
+
+    # p "Her ass, mistress."
+    p "Su culo, ama."
+
+# game/day14.rpy:871
+translate spanish day14_discreet_session_17b91230:
+
+    # m "Yes, her ass is quite something, soft and round. I bet you'd like to fuck her from behind."
+    m "Sí su culo es algo suave y redondo apuesto a que te gustaría follártela por detrás"
+
+# game/day14.rpy:875
+translate spanish day14_discreet_session_1ae6a054_1:
+
+    # p "Yes, mistress. I would very much."
+    p "Sí, ama, me gustaría mucho."
+
+# game/day14.rpy:876
+translate spanish day14_discreet_session_5d7144d2_1:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Tal vez tengas suerte si eres un buen chico."
+
+# game/day14.rpy:879
+translate spanish day14_discreet_session_d36b20f6_1:
+
+    # p "No, mistress."
+    p "No ama."
+
+# game/day14.rpy:880
+translate spanish day14_discreet_session_714694ce_1:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "No eres muy coherente con tus respuestas, ¿verdad? No me decepciones."
+
+# game/day14.rpy:881
+translate spanish day14_discreet_session_c8c6eb0f_1:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Cuando admiro algo no significa automáticamente que quiera follarmelo... por Dios...)"
+
+# game/day14.rpy:885
+translate spanish day14_discreet_session_856d4021:
+
+    # p "Her pussy, mistress."
+    p "Su coño, ama."
+
+# game/day14.rpy:887
+translate spanish day14_discreet_session_70eee315:
+
+    # m "Yes, it looks very juicy. I bet you'd like to fuck that pussy."
+    m "Sí, se ve muy jugoso. Apuesto a que te gustaría follarte ese coño."
+
+# game/day14.rpy:891
+translate spanish day14_discreet_session_1ae6a054_2:
+
+    # p "Yes, mistress. I would very much."
+    p "Sí, ama, me gustaría mucho."
+
+# game/day14.rpy:892
+translate spanish day14_discreet_session_5d7144d2_2:
+
+    # m "Maybe you'll get lucky if you're a good boy."
+    m "Tal vez tengas suerte si eres un buen chico."
+
+# game/day14.rpy:895
+translate spanish day14_discreet_session_d36b20f6_2:
+
+    # p "No, mistress."
+    p "No ama."
+
+# game/day14.rpy:896
+translate spanish day14_discreet_session_714694ce_2:
+
+    # m "You're not very consistent with your answers, are you? Don't disappoint me."
+    m "No eres muy coherente con tus respuestas, ¿verdad? No me decepciones."
+
+# game/day14.rpy:897
+translate spanish day14_discreet_session_c8c6eb0f_2:
+
+    # p "{i}(When I admire something, it doesn't automatically mean I want to fuck it... Jeez...)"
+    p "{i}(Cuando admiro algo no significa automáticamente que quiera follarmelo... por Dios...)"
+
+# game/day14.rpy:900
+translate spanish day14_discreet_session_147de036:
+
+    # p "Nothing much, mistress."
+    p "No mucho, ama."
+
+# game/day14.rpy:902
+translate spanish day14_discreet_session_95aba2ad:
+
+    # m "Are you trying to annoy me, boy? Because you're succeeding."
+    m "¿Estás tratando de joderme, chico? Porque estás teniendo éxito."
+
+# game/day14.rpy:903
+translate spanish day14_discreet_session_d36b20f6_3:
+
+    # p "No, mistress."
+    p "No ama."
+
+# game/day14.rpy:905
+translate spanish day14_discreet_session_c7dbdc10:
+
+    # "{i}[m_name] retrieves a key from somewhere and unlocks the restraints that are holding Adriana. You all move to the ornate room with the couch."
+    "{i}[m_name] recupera una llave de algún lugar y abre las cadenas que sujetan a Adriana. Todos se mueven a la habitación ornamentada con el sofá."
+
+# game/day14.rpy:907
+translate spanish day14_discreet_session_ce38f8d4:
+
+    # "{i}You stand next to Adriana, who still can't say much with the gag in her mouth. Despite the warmth of the room, she's shivering slightly."
+    "{i}Te paras al lado de Adriana que todavía no puede decir mucho con la mordaza en la boca. A pesar del calor de la habitación, está temblando un poco."
+
+# game/day14.rpy:908
+translate spanish day14_discreet_session_91ccbfec:
+
+    # m "Now, Adriana and you are going to do something for me. It's a test of strength and resolve, in a way. And the winner gets a prize."
+    m "Ahora, Adriana y tú vas a hacer algo por mí. Es una prueba de fuerza y resolución, en cierto modo. Y el ganador obtiene un premio."
+
+# game/day14.rpy:909
+translate spanish day14_discreet_session_8d344ccc:
+
+    # p "{i}(Wonder what that'll be.)"
+    p "{i}(Me pregunto qué será eso.)"
+
+# game/day14.rpy:910
+translate spanish day14_discreet_session_7153742f:
+
+    # "{i}[m_name] hands you two objects. You're surprised by the weight of them."
+    "{i}[m_name] te entrega dos objetos Te sorprende el peso de los mismos"
+
+# game/day14.rpy:911
+translate spanish day14_discreet_session_5df7de85:
+
+    # m "You'll hold one in each hand and keep your arms level."
+    m "Sostendrás una en cada mano y mantendrás los brazos nivelados."
+
+# game/day14.rpy:913
+translate spanish day14_discreet_session_25919422:
+
+    # m "Good. The person who can hold this weight the longest will be the winner."
+    m "Bien. La persona que pueda soportar este peso por más tiempo será la ganadora."
+
+# game/day14.rpy:914
+translate spanish day14_discreet_session_3345c523:
+
+    # p "{i}(That shouldn't be too hard.)"
+    p "{i}(Eso no debería ser demasiado difícil)"
+
+# game/day14.rpy:915
+translate spanish day14_discreet_session_0095e6b5:
+
+    # "{i}You feel the weight of the stones in your arms as you try to keep them at the same position."
+    "{i}Sientes el peso de las piedras en tus brazos mientras intentas mantenerlas en la misma posición."
+
+# game/day14.rpy:920
+translate spanish day14_discreet_session_f9183d78:
+
+    # "{i}Suddenly you hear the crack of a whip, and a muffled moan escapes Adriana."
+    "{i}De repente escuchas el chasquido de un látigo y un gemido ahogado que se escapa de Adriana."
+
+# game/day14.rpy:921
+translate spanish day14_discreet_session_273dffed:
+
+    # m "On your toes, the both of you."
+    m "De puntillas, los dos."
+
+# game/day14.rpy:922
+translate spanish day14_discreet_session_d191b303:
+
+    # p "{i}(Fuck.)"
+    p "{i}(Joder)"
+
+# game/day14.rpy:924
+translate spanish day14_discreet_session_bc169090:
+
+    # m "You both need to learn some discipline."
+    m "Ambos necesitan aprender algo de disciplina."
+
+# game/day14.rpy:928
+translate spanish day14_discreet_session_bf971835:
+
+    # "{i}The whip cracks against your naked buttocks. You feel the heat of the lash pulsate as she strikes your butt again."
+    "{i}El látigo se rompe contra tus nalgas desnudas. Sientes el calor del latido latir cuando ella golpea tu culo de nuevo."
+
+# game/day14.rpy:929
+translate spanish day14_discreet_session_bfea5ee9:
+
+    # m "Stay on your toes."
+    m "Mantente alerta."
+
+# game/day14.rpy:930
+translate spanish day14_discreet_session_5e132d44:
+
+    # "{i}[m_name] moves to Adriana again, and from the corner of your eye you see her striking the receptionist's calves. Something between a scream and moan escapes her."
+    "{i}[m_name] se mueve hacia Adriana nuevamente y por el rabillo del ojo la ves golpeando las pantorrillas de la recepcionista. Algo entre un grito y un gemido se le escapa."
+
+# game/day14.rpy:931
+translate spanish day14_discreet_session_c9792aca:
+
+    # m "Are you going to give up so easily, Adriana?"
+    m "¿Vas a rendirte tan fácilmente, Adriana?"
+
+# game/day14.rpy:932
+translate spanish day14_discreet_session_acb698b0:
+
+    # p "{i}(Adriana must be close... Is she going to drop those stones?)"
+    p "{i}(Adriana debe estar cerca... ¿Va a dejar caer esas piedras?)"
+
+# game/day14.rpy:936
+translate spanish day14_discreet_session_08b78b95:
+
+    # p "{i}(I can probably hold out for a bit, but I'm curious to see what the prize for Adriana entails.)"
+    p "{i}(Probablemente pueda aguantar un poco, pero tengo curiosidad por ver qué implica el premio para Adriana.)"
+
+# game/day14.rpy:947
+translate spanish day14_discreet_session_b7371781:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}El látigo de [m_name] está entre los muslos de Adriana y ella lucha por mantenerse de puntillas mientras [m_name] le azota el coño con cortos y violentos chasquidos"
+
+# game/day14.rpy:948
+translate spanish day14_discreet_session_3f852ec6:
+
+    # "{i}You let go and drop both stones to the ground."
+    "{i}Suelta y deja caer ambas piedras al suelo."
+
+# game/day14.rpy:949
+translate spanish day14_discreet_session_fd39564f:
+
+    # m "What?! This is unexpected."
+    m "¡¿Qué?! Esto es inesperado."
+
+# game/day14.rpy:950
+translate spanish day14_discreet_session_3cb47b54:
+
+    # m "{i}(Damnit, I really thought he would last longer. Adriana's good enough, but I'm getting more and more interested in him.)"
+    m "{i}(Maldición, realmente pensé que duraría más. Adriana es lo suficientemente buena, pero me estoy interesando cada vez más en él.)"
+
+# game/day14.rpy:951
+translate spanish day14_discreet_session_33663369:
+
+    # p "{i}(Does she sound disappointed?)"
+    p "{i}(¿Parece decepcionada?)"
+
+# game/day14.rpy:952
+translate spanish day14_discreet_session_89709d7a:
+
+    # m "Seems like you're the winner, Adriana. Are you happy?"
+    m "Parece que eres la ganadora, Adriana. ¿Eres feliz?"
+
+# game/day14.rpy:953
+translate spanish day14_discreet_session_0dc81ae4:
+
+    # "{i}Adriana, still holding the stones while standing on her toes, nods her head enthusiastically."
+    "{i}Adriana, aún sosteniendo las piedras mientras está de puntillas, asiente con entusiasmo."
+
+# game/day14.rpy:954
+translate spanish day14_discreet_session_ea63efd8:
+
+    # m "You probably want to let go of those stones, don't you?"
+    m "Probablemente quieras soltar esas piedras, ¿no?"
+
+# game/day14.rpy:955
+translate spanish day14_discreet_session_e612037c:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:956
+translate spanish day14_discreet_session_fed026af:
+
+    # m "That is allowed. And as a bonus, I'll remove your gag."
+    m "Eso está permitido. Y como beneficio adicional, eliminaré tu mordaza."
+
+# game/day14.rpy:957
+translate spanish day14_discreet_session_0b3cbcc9:
+
+    # "{i}Adriana drops her stones and looks relieved as [m_name] removes the ball gag."
+    "{i}Adriana deja caer sus piedras y se ve aliviada cuando [m_name] elimina la mordaza."
+
+# game/day14.rpy:958
+translate spanish day14_discreet_session_2b1521c1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Ahora por tu recompensa. Mi coño necesita algo de atención. Acuéstate."
+
+# game/day14.rpy:960
+translate spanish day14_discreet_session_f8c8b460:
+
+    # "{i}The receptionist obediently lies down on the floor."
+    "{i}La recepcionista se acuesta obedientemente en el suelo."
+
+# game/day14.rpy:961
+translate spanish day14_discreet_session_83ca7014:
+
+    # m "You get to watch, boy. If I see you touching yourself, there'll be hell to pay."
+    m "Tienes que mirar, chico. Si te veo tocarte, habrá un infierno que pagar."
+
+# game/day14.rpy:963
+translate spanish day14_discreet_session_679e517a:
+
+    # "{i}Your mother undresses and lowers herself onto Adriana's face."
+    "{i}Tu madre se desnuda y se baja a la cara de Adriana."
+
+# game/day14.rpy:965
+translate spanish day14_discreet_session_cd89a18e:
+
+    # "{i}[m_name] undresses and lowers herself onto Adriana's face."
+    "{i}[m_name] se desnuda y se baja a la cara de Adriana."
+
+# game/day14.rpy:966
+translate spanish day14_discreet_session_34ef5289:
+
+    # p "{i}(Fucking hell, her body is pure pornography.)"
+    p "{i}(Joder, su cuerpo es pura pornografía.)"
+
+# game/day14.rpy:967
+translate spanish day14_discreet_session_993f6fee:
+
+    # m "Lick me, slut."
+    m "Lame, puta."
+
+# game/day14.rpy:974
+translate spanish day14_discreet_session_7a3d4edc:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks your mom's pussy lips."
+    "{i}La lengua de Adriana sale de su boca y cuidadosamente lame los labios de tu madre."
+
+# game/day14.rpy:976
+translate spanish day14_discreet_session_edf58581:
+
+    # "{i}Adriana's tongue darts out of her mouth and she carefully licks [m_name]'s pussy lips."
+    "{i}La lengua de Adriana sale de su boca y cuidadosamente lame los labios de [m_name]."
+
+# game/day14.rpy:977
+translate spanish day14_discreet_session_b5bfeb5c:
+
+    # m "Good! Good!"
+    m "¡Bien! ¡Bien!"
+
+# game/day14.rpy:978
+translate spanish day14_discreet_session_1f6e2cc0:
+
+    # "{i}You only hear Adriana's muffled breathing and the wet sounds of her tongue caressing [m_name]'s labia as she smothers the receptionist with her pussy."
+    "{i}Solo escuchas la respiración apagada de Adriana y los sonidos húmedos de su lengua acariciando los labios de [m_name] mientras ahoga a la recepcionista con su coño."
+
+# game/day14.rpy:979
+translate spanish day14_discreet_session_d64705b0:
+
+    # m "Do you like that, Adriana?"
+    m "¿Te gusta eso, Adriana?"
+
+# game/day14.rpy:980
+translate spanish day14_discreet_session_be51334e:
+
+    # ad "Mmmmmhmmmmmm..."
+    ad "Mmmmmhmmmmmm..."
+
+# game/day14.rpy:981
+translate spanish day14_discreet_session_c70f6a60:
+
+    # m "Fuck my pussy with your tongue."
+    m "Fóllame el coño con tu lengua."
+
+# game/day14.rpy:990
+translate spanish day14_discreet_session_ba0fa4bb:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of your mom's vagina."
+    "{i}Tu polla está completamente erecta mientras la cabeza de Adriana se mueve hacia arriba y hacia abajo, su lengua empujando dentro y fuera de la vagina de tu madre."
+
+# game/day14.rpy:992
+translate spanish day14_discreet_session_f6020670:
+
+    # "{i}Your dick is fully erect as Adriana's head bobs up and down, her tongue thrusting in and out of [m_name]'s vagina."
+    "{i}Tu polla está completamente erecta cuando la cabeza de Adriana se mueve hacia arriba y hacia abajo, su lengua empujando dentro y fuera de la vagina de [m_name]."
+
+# game/day14.rpy:993
+translate spanish day14_discreet_session_b8fbbb08:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of the receptionist's head and pulls her towards her pussy."
+    "{i}Claramente cerca del orgasmo, [m_name] agarra la cabeza de la recepcionista y la empuja hacia su coño."
+
+# game/day14.rpy:1000
+translate spanish day14_discreet_session_df976253:
+
+    # m "Aaaaaaah! Goooood girl!"
+    m "¡Aaaaaaah! ¡Buenaaaaa chica...!"
+
+# game/day14.rpy:1001
+translate spanish day14_discreet_session_67309967:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes, you little whore! Aaaaah!"
+    m "¡Bebe mis jugos! ¡Ah, joder, sí! Chupa mi coño. ¡Sí, pequeña puta! ¡Aaaaah!"
+
+# game/day14.rpy:1002
+translate spanish day14_discreet_session_cc917045:
+
+    # "{i}As you watch the scene unfold before your eyes, precum is leaking from the tip of your taught member."
+    "{i}Mientras ves la escena que se desarrolla ante tus ojos, el precum está goteando de la punta de tu miembro enseñado."
+
+# game/day14.rpy:1006
+translate spanish day14_discreet_session_38c64a1b:
+
+    # p "{i}(Must hold out a little longer.)"
+    p "{i}(Debo aguantar un poco más)"
+
+# game/day14.rpy:1017
+translate spanish day14_discreet_session_b7371781_1:
+
+    # "{i}[m_name]'s whip is between Adriana's thighs, and she struggles to keep on her toes as [m_name] lashes her pussy with short, violent snaps."
+    "{i}El látigo de [m_name] está entre los muslos de Adriana y ella lucha por mantenerse de puntillas mientras [m_name] le azota el coño con cortos y violentos chasquidos"
+
+# game/day14.rpy:1018
+translate spanish day14_discreet_session_0bcfc987:
+
+    # "{i}Adriana suddenly stumbles and one of the stones drops from her hand, the other soon follows."
+    "{i}Adriana tropieza de repente y una de las piedras cae de su mano, la otra pronto le sigue."
+
+# game/day14.rpy:1019
+translate spanish day14_discreet_session_6dd6b0e9:
+
+    # m "Disappointing. That means you are the winner, boy. You probably want to let go of those stones, don't you?"
+    m "Decepcionante. Eso significa que eres el ganador, chico. Probablemente quieras soltar esas piedras, ¿no?"
+
+# game/day14.rpy:1020
+translate spanish day14_discreet_session_e612037c_1:
+
+    # m "..."
+    m "..."
+
+# game/day14.rpy:1021
+translate spanish day14_discreet_session_7758ccc4:
+
+    # m "That is allowed."
+    m "Eso está permitido."
+
+# game/day14.rpy:1022
+translate spanish day14_discreet_session_b1a2a3dd:
+
+    # "{i}You let go of both stones at the same time which is a relief on your strained arm muscles."
+    "{i}Soltaste ambas piedras al mismo tiempo, lo que es un alivio para los tensos músculos de tus brazos."
+
+# game/day14.rpy:1023
+translate spanish day14_discreet_session_90d93bee:
+
+    # m "{i}(Let's see what he can do. I'm sure Adriana is confused by the whole situation right now. This isn't normally how we do things.)"
+    m "{i}(Veamos qué puede hacer. Estoy segura de que Adriana está confundida por la situación en este momento. Normalmente no es así como hacemos las cosas.)"
+
+# game/day14.rpy:1024
+translate spanish day14_discreet_session_2b1521c1_1:
+
+    # m "Now for your reward. My pussy needs some attention. Lie down."
+    m "Ahora por tu recompensa. Mi coño necesita algo de atención. Acuéstate."
+
+# game/day14.rpy:1026
+translate spanish day14_discreet_session_b9c0aeca:
+
+    # "{i}You lie down on the floor."
+    "{i}Te acuestas en el suelo."
+
+# game/day14.rpy:1027
+translate spanish day14_discreet_session_c2d5a788:
+
+    # m "You get to watch, Adriana. If I see you touching yourself, there'll be hell to pay."
+    m "Tienes que mirar, Adriana. Si veo que te tocas, será un verdadero infierno a pagar."
+
+# game/day14.rpy:1029
+translate spanish day14_discreet_session_7c796bfc:
+
+    # "{i}Your mother undresses and lowers herself onto your face."
+    "{i}Tu madre se desnuda y se baja a tú cara."
+
+# game/day14.rpy:1031
+translate spanish day14_discreet_session_f4c12e75:
+
+    # "{i}[m_name] undresses and lowers herself onto your face."
+    "{i}[m_name] se desnuda y se baja a tú cara."
+
+# game/day14.rpy:1032
+translate spanish day14_discreet_session_864f6070:
+
+    # "{i}Her soft pubic hair tickles and a salty aroma nearly overwhelms you. It's getting harder to breathe."
+    "{i}Su suave vello púbico te hace cosquillas y un aroma salado casi te abruma. Cada vez es más difícil respirar."
+
+# game/day14.rpy:1033
+translate spanish day14_discreet_session_254921b0:
+
+    # p "{i}(She's fucking sitting on my face. Wish I wasn't wearing that bloody mask.)"
+    p "{i}(Está sentada en mi cara. Desearía no estar usando esta maldita máscara.)"
+
+# game/day14.rpy:1034
+translate spanish day14_discreet_session_a5655a32:
+
+    # m "Lick me, boy."
+    m "Lámeme, muchacho."
+
+# game/day14.rpy:1041
+translate spanish day14_discreet_session_81f58e43:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick your mom's pussy lips. She's wet and tastes salty."
+    "{i}Tu lengua sale de tu boca y lames cuidadosamente los labios de tu madre. Está mojada y sabe salada."
+
+# game/day14.rpy:1043
+translate spanish day14_discreet_session_cd7c1d9c:
+
+    # "{i}Your tongue darts out of your mouth and you carefully lick [m_name]'s pussy lips. She's wet and tastes salty."
+    "{i}Tu lengua sale de tu boca y lames cuidadosamente los labios de [m_name]. Está mojada y sabe salada."
+
+# game/day14.rpy:1044
+translate spanish day14_discreet_session_b5bfeb5c_1:
+
+    # m "Good! Good!"
+    m "¡Bien! ¡Bien!"
+
+# game/day14.rpy:1045
+translate spanish day14_discreet_session_9e557aa2:
+
+    # "{i}The only thing you hear is [m_name]'s heavy breathing and the wet sounds of your tongue caressing her labia as she smothers you with her pussy."
+    "{i}Lo único que oyes es la respiración agitada de [m_name] y los sonidos húmedos de tu lengua acariciando sus labios mientras te ahoga con su coño."
+
+# game/day14.rpy:1046
+translate spanish day14_discreet_session_dfd9b39b:
+
+    # m "Do you like that, boy?"
+    m "¿Te gusta eso, muchacho?"
+
+# game/day14.rpy:1047
+translate spanish day14_discreet_session_e15e30b7:
+
+    # p "Mmmmmhmmmmmm..."
+    p "Mmmmmhmmmmmm..."
+
+# game/day14.rpy:1048
+translate spanish day14_discreet_session_c70f6a60_1:
+
+    # m "Fuck my pussy with your tongue."
+    m "Fóllame el coño con tu lengua."
+
+# game/day14.rpy:1057
+translate spanish day14_discreet_session_674d8f15:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of your mom's vagina."
+    "{i}Tu polla está completamente erecta mientras tu lengua entra y sale de la vagina de tu madre."
+
+# game/day14.rpy:1059
+translate spanish day14_discreet_session_823d5930:
+
+    # "{i}Your dick is fully erect as your tongue thrusts in and out of [m_name]'s vagina."
+    "{i}Tu polla está completamente erecta mientras tu lengua entra y sale de la vagina de [m_name]."
+
+# game/day14.rpy:1060
+translate spanish day14_discreet_session_3c2ee3ac:
+
+    # "{i}Clearly close to orgasm, [m_name] grabs hold of your head and pulls you towards her pussy. You feel her fingers press hard against your skull."
+    "{i}Claramente cerca del orgasmo, [m_name] agarra tu cabeza y te empuja hacia su coño. Sientes sus dedos presionar con fuerza contra tu cráneo."
+
+# game/day14.rpy:1067
+translate spanish day14_discreet_session_8e09283d:
+
+    # m "Aaaaaaah! Goooood boy!"
+    m "¡Aaaaaaah! ¡Bueeennnn chicoooo!"
+
+# game/day14.rpy:1068
+translate spanish day14_discreet_session_ef7ee683:
+
+    # m "Drink my juices! Ah fuck, yes! Suck on my pussy. Yes! Aaaaah!"
+    m "¡Bebe mis jugos! ¡Ah, joder, sí! Chupa mi coño. ¡Sí! ¡Aaaaah!"
+
+# game/day14.rpy:1069
+translate spanish day14_discreet_session_8e05be01:
+
+    # "{i}As you lap up the juices of her orgasm, precum is leaking from the tip of your taught member."
+    "{i}A medida que lames los jugos de su orgasmo, el precum se escapa de la punta de tu miembro enseñado."
+
+# game/day14.rpy:1070
+translate spanish day14_discreet_session_98b68f60:
+
+    # "{i}Adriana is still standing there gazing at you lustfully while [m_name] removes her gag."
+    "{i}Adriana todavía está allí mirándote lujuriosamente mientras [m_name] le quita la mordaza."
+
+# game/day14.rpy:1077
+translate spanish day14_discreet_session_c4bcf13d:
+
+    # m "I'd like to reward you for being such a good servant."
+    m "Me gustaría recompensarte por ser tan buen sirviente."
+
+# game/day14.rpy:1080
+translate spanish day14_discreet_session_59fefa56:
+
+    # m "Our boy did express his admiration for your pussy, didn't he, Adriana?"
+    m "Nuestro chico expresó su admiración por tu coño ¿no es así Adriana?"
+
+# game/day14.rpy:1081
+translate spanish day14_discreet_session_988727ba:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day14.rpy:1082
+translate spanish day14_discreet_session_151c1deb:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Y luego dijo que no quería follarte. Un chico tan extraño."
+
+# game/day14.rpy:1083
+translate spanish day14_discreet_session_54dd0c92:
+
+    # m "So I guess you won't get fucked today, Adriana. I'm sure you understand."
+    m "Así que supongo que hoy no te follarás, Adriana. Estoy segura de que lo entiendes."
+
+# game/day14.rpy:1085
+translate spanish day14_discreet_session_b8df8615:
+
+    # m "Our boy praised your ass, didn't he, Adriana?"
+    m "Nuestro chico alabó tu culo ¿no Adriana?"
+
+# game/day14.rpy:1086
+translate spanish day14_discreet_session_988727ba_1:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day14.rpy:1087
+translate spanish day14_discreet_session_151c1deb_1:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Y luego dijo que no quería follarte. Un chico tan extraño."
+
+# game/day14.rpy:1088
+translate spanish day14_discreet_session_f18f5a5b:
+
+    # m "So I guess we won't offer your tight asshole today, Adriana. I'm sure you understand."
+    m "Así que supongo que hoy no le ofreceremos tu apretado culo, Adriana. Estoy segura de que lo entiendes."
+
+# game/day14.rpy:1090
+translate spanish day14_discreet_session_f4c88f4f:
+
+    # m "Our boy praised your breasts, didn't he, Adriana?"
+    m "Nuestro chico alabó tus pechos ¿no Adriana?"
+
+# game/day14.rpy:1091
+translate spanish day14_discreet_session_988727ba_2:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day14.rpy:1092
+translate spanish day14_discreet_session_151c1deb_2:
+
+    # m "And then he said he didn't want to fuck you. Such a strange boy."
+    m "Y luego dijo que no quería follarte. Un chico tan extraño."
+
+# game/day14.rpy:1093
+translate spanish day14_discreet_session_77164c8b:
+
+    # m "So I guess he doesn't get to push his cock between your tits, Adriana. I'm sure you understand."
+    m "Así que supongo que él no puede empujar su polla entre tus tetas, Adriana. Estoy segura de que lo entiendes."
+
+# game/day14.rpy:1095
+translate spanish day14_discreet_session_bb322cb6:
+
+    # m "But since our boy claims he doesn't like anything about you, Adriana, I guess we can't offer him anything."
+    m "Pero como nuestro chico dice que no le gusta nada de tí Adriana, supongo que no podemos ofrecerle nada."
+
+# game/day14.rpy:1096
+translate spanish day14_discreet_session_8b9f95b0:
+
+    # p "{i}(Damn. I'd really like to fuck something right about now.)"
+    p "{i}(Maldición. Realmente me gustaría follar algo ahora mismo.)"
+
+# game/day14.rpy:1097
+translate spanish day14_discreet_session_988727ba_3:
+
+    # ad "Yes, mistress."
+    ad "Sí, ama."
+
+# game/day14.rpy:1098
+translate spanish day14_discreet_session_0b462255_1:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:1099
+translate spanish day14_discreet_session_12164705:
+
+    # m "Good. Class dismissed."
+    m "Bien. La clase ha terminado."
+
+# game/day14.rpy:1107
+translate spanish day14_discreet_session_3f84f2fb:
+
+    # m "And our boy expressed an interest in your body, Adriana. Would you like to get fucked now?"
+    m "Y nuestro muchacho expresó un interés en tu cuerpo, Adriana. ¿Te gustaría que te follaran ahora?"
+
+# game/day14.rpy:1108
+translate spanish day14_discreet_session_b25c3cee:
+
+    # ad "Very much, mistress."
+    ad "Mucho, ama."
+
+# game/day14.rpy:1109
+translate spanish day14_discreet_session_712d152f:
+
+    # p "{i}(Fuck yes! I'm not sure it will take long, but I sure am going to drench her in cum.)"
+    p "{i}(¡Joder sí! No estoy seguro de que llevará mucho tiempo, pero seguro que la voy a empapar de semen)"
+
+# game/day14.rpy:1112
+translate spanish day14_discreet_session_4d0e495d:
+
+    # m "You may use her pussy. And be sure to finish on her face, a good slut deserves that much."
+    m "Puedes usar su coño. Y asegúrate de terminar en su cara, una buena puta se merece eso."
+
+# game/day14.rpy:1113
+translate spanish day14_discreet_session_0b462255_2:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:1119
+translate spanish day14_discreet_session_a14deefc:
+
+    # "{i}Due to the events you've just experienced you slide inside Adriana a little roughly, which elicits a small, surprised gasp from her."
+    "{i}Debido a los eventos que acabas de experimentar te deslizas dentro de Adriana un poco bruscamente, lo que provoca un pequeño y sorprendido jadeo de ella."
+
+# game/day14.rpy:1120
+translate spanish day14_discreet_session_afe580f6:
+
+    # m "How does he feel inside you, Adriana?"
+    m "¿Cómo se siente dentro de ti, Adriana?"
+
+# game/day14.rpy:1121
+translate spanish day14_discreet_session_2f0e67fa:
+
+    # ad "He feels so big, mistress."
+    ad "Se siente tan grande, ama."
+
+# game/day14.rpy:1123
+translate spanish day14_discreet_session_13a6f1c9:
+
+    # "{i}You grab Adriana's legs and start to thrust your dick inside the receptionist. Her pussy lips massage the sides of your throbbing cock and Adriana's breathing becomes shallow."
+    "{i}Agarras las piernas de Adriana y comienzas a empujar tu polla dentro de la recepcionista. Sus labios de vagina masajean los lados de tu palpitante polla y la respiración de Adriana se vuelve débil."
+
+# game/day14.rpy:1124
+translate spanish day14_discreet_session_ebe15ba7:
+
+    # ad "Fuck me, please, fuck me harder!"
+    ad "¡Fóllame, por favor, fóllame más fuerte!"
+
+# game/day14.rpy:1125
+translate spanish day14_discreet_session_5150cad6:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking, and you feel very close to orgasm, probably because of everything that happened before."
+    "{i}Sus grandes pechos rebotan al ritmo de tu follada y te sientes muy cerca del orgasmo probablemente por todo lo que ha pasado antes"
+
+# game/day14.rpy:1131
+translate spanish day14_discreet_session_1a6e0e7f:
+
+    # "{i}With a roar, you pull out and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Con un rugido la sacas y agarras su cabeza. Adriana obedientemente abre la boca para recibir tu semilla."
+
+# game/day14.rpy:1132
+translate spanish day14_discreet_session_7c9a8cd4:
+
+    # m "Finished already. Your pussy must be magical, Adriana..."
+    m "Ya está terminado. Tu coño debe estar encantado, Adriana..."
+
+# game/day14.rpy:1133
+translate spanish day14_discreet_session_bb4ec6df:
+
+    # m "You may cum on her."
+    m "Puedes correrte sobre ella."
+
+# game/day14.rpy:1135
+translate spanish day14_discreet_session_787b0b9e:
+
+    # m "You may use Adriana's ass. Do be gentle. And be sure to finish on her face, a good slut deserves that much."
+    m "Puedes usar el culo de Adriana. Sé amable. Y asegúrate de terminar en su cara, una buena zorra merece eso."
+
+# game/day14.rpy:1136
+translate spanish day14_discreet_session_0b462255_3:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:1141
+translate spanish day14_discreet_session_15c41f02:
+
+    # "{i}As you push the tip of your cock against Adriana's rectum, you hear her gasp."
+    "{i}Cuando empujas la punta de tu polla contra el recto de Adriana, escuchas su jadeo."
+
+# game/day14.rpy:1142
+translate spanish day14_discreet_session_ec80b608:
+
+    # ad "Please be gentle."
+    ad "Por favor, sé amable."
+
+# game/day14.rpy:1143
+translate spanish day14_discreet_session_74327b4e:
+
+    # "{i}That statement arouses you even more, and you begin pushing your dick inside her. The precum that oozed from your penis earlier acts as a lube, but it's still a tight fit."
+    "{i}Esa afirmación te excita aún más y empiezas a empujar tu polla dentro de ella El precum que rezumaba de tu pene antes actúa como lubricante pero sigue siendo un ajuste apretado"
+
+# game/day14.rpy:1144
+translate spanish day14_discreet_session_111f439d:
+
+    # "{i}The receptionist is very tense, but relaxes visibly when she feels your balls against her pussy."
+    "{i}La recepcionista está muy tensa, pero se relaja visiblemente cuando siente tus bolas contra su coño."
+
+# game/day14.rpy:1145
+translate spanish day14_discreet_session_26cec445:
+
+    # m "He's inside of you. How does that feel?"
+    m "Está dentro de ti. ¿Cómo se siente eso?"
+
+# game/day14.rpy:1146
+translate spanish day14_discreet_session_1b2a2c62:
+
+    # ad "He's so big, mistress."
+    ad "Él es tan grande, ama."
+
+# game/day14.rpy:1151
+translate spanish day14_discreet_session_fb3d5f0e:
+
+    # "{i}You slowly move your dick in and out of the receptionist's asshole. Adriana's breathing becomes shallow. She guides you with her hand, and you penetrate her faster and faster."
+    "{i}Mueves lentamente tu polla dentro y fuera del culo de la recepcionista La respiración de Adriana se vuelve entrecortada Te guía con su mano y la penetras cada vez más rápido"
+
+# game/day14.rpy:1152
+translate spanish day14_discreet_session_08fd09db:
+
+    # ad "Fuck me, please, fuck my ass!"
+    ad "¡Fóllame, por favor, fóllame!"
+
+# game/day14.rpy:1153
+translate spanish day14_discreet_session_791ee88c:
+
+    # "{i}Her large breasts bounce with the rhythm of your fucking. Her asshole is tight and massages your dick in ways you've never felt before. You feel very close to orgasm, probably because of everything that happened before."
+    "{i}Sus grandes pechos rebotan al ritmo de tu follada Su culo está apretado y masajea tu polla de formas que nunca antes habías sentido Te sientes muy cerca del orgasmo probablemente por todo lo que ha pasado antes"
+
+# game/day14.rpy:1159
+translate spanish day14_discreet_session_291215d7:
+
+    # "{i}With a roar, you pull out of her ass and grab hold of her head. Adriana obediently opens her mouth to receive your seed."
+    "{i}Con un rugido la sacas del culo y le agarras la cabeza. Adriana obedientemente abre la boca para recibir tu semilla."
+
+# game/day14.rpy:1160
+translate spanish day14_discreet_session_a4a83b56:
+
+    # m "Finished already. Your ass must be magical, Adriana..."
+    m "Ya terminó. Tu culo debe estar encantado, Adriana..."
+
+# game/day14.rpy:1161
+translate spanish day14_discreet_session_bb4ec6df_1:
+
+    # m "You may cum on her."
+    m "Puedes correrte sobre ella."
+
+# game/day14.rpy:1163
+translate spanish day14_discreet_session_732a62ea:
+
+    # m "Adriana is going to massage your cock with her breasts. Be sure to cover her face when you're ready, a good slut deserves that much."
+    m "Adriana va a masajear tu polla con sus tetas. Asegúrate de cubrir su rostro cuando estés listo, una buena zorra merece eso."
+
+# game/day14.rpy:1164
+translate spanish day14_discreet_session_0b462255_4:
+
+    # p "Yes, mistress."
+    p "Sí, ama."
+
+# game/day14.rpy:1165
+translate spanish day14_discreet_session_25debe46:
+
+    # "{i}You tease the receptionist's nipples with the tip of your cock. The massage elicits a small gasp from her and she pushes her breasts together in order for you to push your dick between them."
+    "{i}Provocas los pezones de la recepcionista con la punta de tu polla. El masaje provoca un pequeño jadeo y ella junta sus tetas para que puedas empujar tu polla entre ellas."
+
+# game/day14.rpy:1171
+translate spanish day14_discreet_session_59ba8699:
+
+    # "{i}Adriana starts moving up and down with your cock between her breasts. The touch of her soft flesh and the lewd smile on her face as she stares at you makes you even more aroused."
+    "{i}Adriana comienza a moverse hacia arriba y hacia abajo con tu polla entre sus tetas. El toque de su carne suave y la sonrisa lasciva en su cara mientras te mira te excita aún más."
+
+# game/day14.rpy:1173
+translate spanish day14_discreet_session_908f034e:
+
+    # "{i}You force the receptionist to the ground and thrust your dick between her breasts, fucking them while she's squeezing them tight."
+    "{i}Forzas a la recepcionista al suelo y empujas tu polla entre sus tetas, follándolos mientras los aprieta con fuerza."
+
+# game/day14.rpy:1174
+translate spanish day14_discreet_session_dab678a3:
+
+    # m "He's giving your tits a good fuck. How does that feel?"
+    m "Le está dando una buena cogida a tus tetas. ¿Cómo se siente eso?"
+
+# game/day14.rpy:1175
+translate spanish day14_discreet_session_1b2a2c62_1:
+
+    # ad "He's so big, mistress."
+    ad "Él es tan grande, ama."
+
+# game/day14.rpy:1176
+translate spanish day14_discreet_session_fda9f7d4:
+
+    # "{i}Every time your dick reaches her face, Adriana licks the tip with her tongue. She also applies more pressure by pressing her breasts tighter against each other. This sends you nearly over the edge."
+    "{i}Cada vez que tu polla llega a su cara, Adriana lame la punta con la lengua. También aplica más presión presionando sus pechos más apretados uno contra el otro. Esto te lleva casi al límite."
+
+# game/day14.rpy:1182
+translate spanish day14_discreet_session_95a81a0e:
+
+    # "{i}With a roar, you thrust your dick for the last time between her tits and aim for her face. Adriana obediently opens her mouth to receive your seed."
+    "{i}Con un rugido empujas tu polla por última vez entre sus tetas y apuntas a su cara. Adriana obedientemente abre la boca para recibir tu semilla."
+
+# game/day14.rpy:1183
+translate spanish day14_discreet_session_e8c2e24b:
+
+    # m "Finished already. Your tits must be magical, Adriana..."
+    m "Ya terminó. Tus tetas debe estar encantadas, Adriana..."
+
+# game/day14.rpy:1184
+translate spanish day14_discreet_session_bb4ec6df_2:
+
+    # m "You may cum on her."
+    m "Puedes correrte sobre ella."
+
+# game/day14.rpy:1188
+translate spanish day14_discreet_session_b6bb3d0d:
+
+    # "{i}You seem to have build up a large amount of cum, because you cover her face and hair with thick streaks, but also have enough to deposit in her mouth."
+    "{i}Parece que has acumulado una gran cantidad de semen, porque cubres su cara y cabello con rayas gruesas, pero también tienes suficiente para depositar en su boca."
+
+# game/day14.rpy:1190
+translate spanish day14_discreet_session_9f16b8bf:
+
+    # m "Swallow it all."
+    m "Trágatelo todo."
+
+# game/day14.rpy:1191
+translate spanish day14_discreet_session_6d0471c5:
+
+    # "{i}Adriana licks your dick clean of any traces of semen and scoops up the rest from her face and hair. Looking you directly in the eye, she swallows all of it with a naughty smile."
+    "{i}Adriana te limpia la polla de cualquier rastro de semen y saca el resto de su cara y cabello. Mirándote directamente a los ojos, se lo traga todo con una sonrisa traviesa."
+
+# game/day14.rpy:1192
+translate spanish day14_discreet_session_750da6a3:
+
+    # m "Thus endeth the lesson."
+    m "Así termina la lección."
+
+# game/day14.rpy:1211
+translate spanish day14_b_fondle_32cbc436:
+
+    # "{i}Your hands push the t-shirt even further up to reveal your sister's breasts. Her nipples are rock hard."
+    "{i}Tus manos empujan la camiseta aún más para revelar las tetas de tu hermana. Sus pezones son duros como una roca."
+
+# game/day14.rpy:1213
+translate spanish day14_b_fondle_4a0fb993:
+
+    # "{i}Your hands push the t-shirt even further up to reveal [b_name] breasts. Her nipples are rock hard."
+    "{i}Tus manos empujan la camiseta aún más hacia arriba para revelar las tetas [b_name]. Sus pezones son duros como una roca."
+
+# game/day14.rpy:1215
+translate spanish day14_b_fondle_42c4c73b:
+
+    # b "[p_name]... no... it isn't..."
+    b "[p_name]... no... no lo es..."
+
+# game/day14.rpy:1216
+translate spanish day14_b_fondle_ed02e162:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Dios, los sentimientos que despiertas en mí, [b_name]."
+
+# game/day14.rpy:1217
+translate spanish day14_b_fondle_3cd42054:
+
+    # p "Your skin is so soft."
+    p "Tu piel es tan suave."
+
+# game/day14.rpy:1218
+translate spanish day14_b_fondle_52dcef3c:
+
+    # b "I..."
+    b "Yo..."
+
+# game/day14.rpy:1221
+translate spanish day14_b_fondle_98879cef:
+
+    # p "Are you wet already?"
+    p "¿Ya estás mojada?"
+
+# game/day14.rpy:1222
+translate spanish day14_b_fondle_45d024d8:
+
+    # b "No, not there!"
+    b "¡No, no allí!"
+
+# game/day14.rpy:1223
+translate spanish day14_b_fondle_6449f334:
+
+    # p "You are. Do you like the movie so much? Or is it my touch?"
+    p "Lo eres. ¿Te gusta tanto la película? ¿O es mi toque?"
+
+# game/day14.rpy:1225
+translate spanish day14_b_fondle_1e36103c:
+
+    # "{i}You push your fingers against her panties and feel your sister's moist labia through the fabric."
+    "{i}Empujas tus dedos contra sus bragas y sientes los húmedos labios de tu hermana a través de la tela."
+
+# game/day14.rpy:1227
+translate spanish day14_b_fondle_b5fefac5:
+
+    # "{i}You push your fingers against her panties and feel her moist labia through the fabric."
+    "{i}Empujas tus dedos contra sus bragas y sientes sus húmdeos labios a través de la tela."
+
+# game/day14.rpy:1228
+translate spanish day14_b_fondle_0c6e4a69:
+
+    # b "Aaaah!"
+    b "¡Aaaah!"
+
+# game/day14.rpy:1229
+translate spanish day14_b_fondle_be44dc55:
+
+    # p "Your panties are in the way, don't you think?"
+    p "Tus bragas están en el camino, ¿no te parece?"
+
+# game/day14.rpy:1233
+translate spanish day14_b_fondle_f1b6ca42:
+
+    # b "Y-yes... No!"
+    b "S-sí... ¡No!"
+
+# game/day14.rpy:1234
+translate spanish day14_b_fondle_efa09b9c:
+
+    # "{i}With one hand you remove her underwear. [b_name] tries to remove your hand, but her protests lack any conviction."
+    "{i}Con una mano le quitas la ropa interior. [b_name] intenta quitarte la mano, pero sus protestas carecen de convicción."
+
+# game/day14.rpy:1240
+translate spanish day14_b_fondle_04b53f47:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, your sister pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Deslizas un dedo dentro de ella y estimulas su clítoris. [b_name] tira de tu mano al principio, pero a medida que estableces un ritmo constante, tu hermana empuja tu mano contra su sexo como si te animara a profundizar."
+
+# game/day14.rpy:1242
+translate spanish day14_b_fondle_cec13b39:
+
+    # "{i}You slide a finger inside her and stimulate her clitoris. [b_name] pulls at your hand at first, but as you establish a steady rhythm, she pushes your hand against her sex as if encouraging you to go deeper."
+    "{i}Deslizas un dedo dentro de ella y estimulas su clítoris. [b_name] tira de tu mano al principio, pero a medida que estableces un ritmo constante, ella empuja tu mano contra su sexo como si te animara a profundizar."
+
+# game/day14.rpy:1243
+translate spanish day14_b_fondle_9af8d955:
+
+    # b "Gaaaah!"
+    b "¡Gaaaah!"
+
+# game/day14.rpy:1244
+translate spanish day14_b_fondle_2d4211e5:
+
+    # p "Sssssh, you'll wake everybody up."
+    p "Sssssh, despertarás a todos."
+
+# game/day14.rpy:1245
+translate spanish day14_b_fondle_90901d27:
+
+    # b "Hnnnghhhh!"
+    b "¡Hnnnghhhh!"
+
+# game/day14.rpy:1247
+translate spanish day14_b_fondle_e2a1d183:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking your mother or sister clearly arouses you both."
+    "{i}[b_name] tiene dificultades para reprimir sus gemidos El riesgo de que te pillen despertando a tu madre o a tu hermana os excita claramente a los dos."
+
+# game/day14.rpy:1249
+translate spanish day14_b_fondle_29eded4e:
+
+    # "{i}[b_name] has a hard time stifling her moans. The risk of getting caught by awaking [l_name] or [m_name] clearly arouses you both."
+    "{i}[b_name] tiene dificultades para reprimir sus gemidos El riesgo de que te pillen despertando a [l_name] o [m_name] claramente os excita a los dos."
+
+# game/day14.rpy:1250
+translate spanish day14_b_fondle_e727e64f:
+
+    # "{i}Judging from her rapid breaths and the pressure her hand exerts on yours, [b_name] is close to orgasm."
+    "{i}A juzgar por sus rápidas respiraciones y la presión que ejerce su mano sobre la tuya [b_name] está cerca del orgasmo."
+
+# game/day14.rpy:1255
+translate spanish day14_b_fondle_7f7e79ac:
+
+    # b "F-ffff-uuuuck!"
+    b "¡F-ffff-uuuuck!"
+
+# game/day14.rpy:1259
+translate spanish day14_b_fondle_64651b3a:
+
+    # "{i}With your finger still inside her pussy, your sister experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Con tu dedo aún dentro de su coño, tu hermana experimenta un poderoso orgasmo que casi sacude todo el sofá. Temblando, te aprieta la mano y la sigue apretando contra su clítoris."
+
+# game/day14.rpy:1261
+translate spanish day14_b_fondle_966c2da6:
+
+    # "{i}With your finger still inside her pussy, [b_name] experiences a powerful orgasm that's almost shaking the entire couch. Trembling, she clamps down on your hand and keeps grinding it against her clitoris."
+    "{i}Con tu dedo aún dentro de su coño, [b_name] experimenta un poderoso orgasmo que casi sacude todo el sofá. Temblando, te aprieta la mano y sigue apretándola contra su clítoris."
+
+# game/day14.rpy:1262
+translate spanish day14_b_fondle_7095ffd6:
+
+    # "{i}After a while, her muffled moans and sighs dissipate. She quietly pulls her panties up and covers her breasts, but makes no attempt to distance herself from you."
+    "{i}Después de un rato, sus gemidos y suspiros se disiparon. En silencio, se levanta las bragas y se cubre las tetas, pero no intenta distanciarse de ti."
+
+# game/day14.rpy:1266
+translate spanish day14_b_fondle_55305076:
+
+    # p "I love it when you cum for me."
+    p "Me encanta cuando te corres por mí."
+
+# game/day14.rpy:1267
+translate spanish day14_b_fondle_52dcef3c_1:
+
+    # b "I..."
+    b "Yo..."
+
+# game/day14.rpy:1269
+translate spanish day14_b_fondle_181d589c:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "¡¿Q-qué?! ¿Dónde?! ¡Oh! Ah. Creo que me quedé dormido."
+
+# game/day14.rpy:1270
+translate spanish day14_b_fondle_a6a6d4f3:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly disentangles herself from you. Her face looks flushed and her expression enigmatic. It looks almost like a mixture of ribald pleasure, shame and the remnants of rapturous lust to you."
+    "{i}Ambos están sorprendidos por el estallido de [m_name] y [b_name] se desenreda apresuradamente de ti. Su cara se ve sonrojada y su expresión enigmática. Parece casi una mezcla de placer, vergüenza y los restos de las costillas. lujuria entusiasta hacia ti.”"
+
+# game/day14.rpy:1272
+translate spanish day14_b_fondle_a5039c88:
+
+    # b "That's enough. Stop it."
+    b "Eso es suficiente. Basta."
+
+# game/day14.rpy:1273
+translate spanish day14_b_fondle_565313e7:
+
+    # b "Uncle!"
+    b "¡Tío!"
+
+# game/day14.rpy:1274
+translate spanish day14_b_fondle_ed02e162_1:
+
+    # p "God, the feelings you arouse in me, [b_name]."
+    p "Dios, los sentimientos que despiertas en mí, [b_name]."
+
+# game/day14.rpy:1275
+translate spanish day14_b_fondle_52dcef3c_2:
+
+    # b "I..."
+    b "Yo..."
+
+# game/day14.rpy:1277
+translate spanish day14_b_fondle_181d589c_1:
+
+    # m "W-w-what?! Where?! Oh! Ah. I think I fell asleep."
+    m "¡¿Q-qué?! ¿Dónde?! ¡Oh! Ah. Creo que me quedé dormido."
+
+# game/day14.rpy:1278
+translate spanish day14_b_fondle_1ed4a414:
+
+    # "{i}You're both startled by [m_name]'s outburst and [b_name] hurriedly untangles herself from you. Her face looks flushed and her expression enigmatic."
+    "{i}Ambos están sorprendidos por el estallido de [m_name] y [b_name] se desenreda apresuradamente de ti. Su cara se ve sonrojada y su expresión enigmática."
+
+# game/day14.rpy:1295
+translate spanish day14_r_fingering_49278f8a:
+
+    # r "{i}(The thought of his touch on my skin makes me feel so giddy inside.)"
+    r "{i}(La idea de su toque en mi piel me hace sentir tan mareada por dentro.)"
+
+# game/day14.rpy:1298
+translate spanish day14_r_fingering_3fe74477:
+
+    # r "{i}(How softly he caressed my pussy... He was so tender with me.)"
+    r "{i}(Cuán suavemente acarició mi coño... Fue tan tierno conmigo.)"
+
+# game/day14.rpy:1299
+translate spanish day14_r_fingering_9ba86f30:
+
+    # r "{i}(I guess he liked being in control after I made him cum the night before.)"
+    r "{i}(Supongo que le gustaba tener el control después de que lo hiciera correrse la noche anterior.)"
+
+# game/day14.rpy:1300
+translate spanish day14_r_fingering_a26c1823:
+
+    # r "{i}(There was so much of it and it didn't taste gross at all, like it's said in all the magazines. A bit weird maybe...)"
+    r "{i}(Había tanto y no sabía nada asqueroso, como se dice en todas las revistas, quizás un poco raro...)"
+
+# game/day14.rpy:1301
+translate spanish day14_r_fingering_b4097cf5:
+
+    # r "{i}(Urgh, I hate feeling like this. All that tension...)"
+    r "{i}(Urgh, odio sentirme así. Toda esta tensión...)"
+
+# game/day14.rpy:1302
+translate spanish day14_r_fingering_3949ce7c:
+
+    # r "{i}(Fuck it. I'm going to masturbate. I guess Mrs. Steel would think it isn't 'ladylike behavior', but this is where I draw the line!)"
+    r "{i}(A la mierda. Me voy a masturbar. Supongo que la Sra. Steel pensaría que no es 'comportamiento femenino', ¡pero aquí es donde trazo la línea!"
+
+# game/day14.rpy:1308
+translate spanish day14_r_fingering_a18ab1a7:
+
+    # r "{i}(Hmmm. Thinking about the naughty things [p_name] and I did has made me so wet.)"
+    r "{i}(Hmmm. Pensar en las cosas traviesas que [p_nane] y yo hemos hecho me han mojado tanto.)"
+
+# game/day14.rpy:1309
+translate spanish day14_r_fingering_9aa71ced:
+
+    # r "Aaah!"
+    r "¡Aaah!"
+
+# game/day14.rpy:1312
+translate spanish day14_r_fingering_94b75813:
+
+    # r "{i}(Yes! Aaah! [p_name] was so forceful... His finger inside of me... His big cock... So warm... So strong...)"
+    r "{i}(¡Sí! ¡Aaah! [p_name] fue tan fuerte... Su dedo dentro de mí... Su gran polla... Tan cálida... Tan dura...)"
+
+# game/day14.rpy:1313
+translate spanish day14_r_fingering_0e44b109:
+
+    # r "{i}(Mmmmm... I wonder w-what he would feel like i-inside of me.)"
+    r "{i}(Mmmmm... Me pregunto cómo se sentiría dentro de mí.)"
+
+# game/day14.rpy:1315
+translate spanish day14_r_fingering_553cd0ba:
+
+    # r "{i}(Yes! Aaah! I want [p_name]! I want to feel him i-inside of me!)"
+    r "{i}(¡Sí! ¡Aaah! ¡Quiero a [p_name]! ¡Quiero sentirlo dentro de mí!)"
+
+# game/day14.rpy:1320
+translate spanish day14_r_fingering_0f019af7:
+
+    # r "{i}(He'll be gentle with me... Kiss me all over... M-m-make me feel good. Oooh! I'm so close!)"
+    r "{i}(Él es amable conmigo... me besa toda... Mm-hazme sentir bien. ¡Oooh! ¡Estoy tan cerca!)"
+
+# game/day14.rpy:1323
+translate spanish day14_r_fingering_3bf52dc6:
+
+    # r "Aaaah! Yes!"
+    r "¡Aaaah! ¡Sí!"
+
+# game/day14.rpy:1324
+translate spanish day14_r_fingering_0e004e54:
+
+    # r "Mmmmmmm. Now I can sleep."
+    r "Mmmmmmm. Ahora puedo dormir."
+

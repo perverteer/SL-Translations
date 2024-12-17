@@ -6645,7 +6645,7 @@ translate spanish day35_me_fuck_cab5363a:
 translate spanish day35_me_fuck_ba104112:
 
     # man "So mind your own business. From what I hear, they'll be finished soon enough."
-    hombre "Así que métete en tus asuntos Por lo que he oído acabarán pronto"
+    man "Así que métete en tus asuntos Por lo que he oído acabarán pronto"
 
 # game/day35.rpy:1318
 translate spanish day35_me_fuck_87b16d44:
@@ -6736,3 +6736,1415 @@ translate spanish day35_choices_d4dafe9c_1:
 
     # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
     "{i}Una de las manos de [b_name] se clava en tu hombro e intenta empujar tu polla dentro de ella con la otra."
+# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day35.rpy:1350
+translate spanish day35_b_sex_hard_5eb350d9:
+
+    # p "I've had a raging boner for you since we walked inside the shop."
+    p "He tenido una erección furiosa desde que entramos en la tienda."
+
+# game/day35.rpy:1355
+translate spanish day35_b_sex_hard_94bdb8c0:
+
+    # p "Showing Megan how it's done didn't diminish that at all."
+    p "Mostrarle a Megan cómo se hace no disminuyó esto en absoluto."
+
+# game/day35.rpy:1356
+translate spanish day35_b_sex_hard_3506fb92:
+
+    # b "That's information I could easily have done without."
+    b "Esa es una información de la que podrías haber prescindido fácilmente."
+
+# game/day35.rpy:1358
+translate spanish day35_b_sex_hard_ec0804cb:
+
+    # "{i}Ignoring her, you push her against the wall and kiss her."
+    "{i}Ignorándola, la empujas contra la pared y la besas."
+
+# game/day35.rpy:1359
+translate spanish day35_b_sex_hard_e46ea2ef:
+
+    # "{i}[b_name] only manages to keep her mouth closed in protest for a short while. As soon as she allows for you to enter her mouth in a moment of weakness, the tongue kiss becomes mutual."
+    "{i}[b_name] solo logra mantener la boca cerrada en señal de protesta por un corto tiempo, tan pronto como ella te permite entrar en su boca en un momento de debilidad, el beso con lengua se vuelve mutuo."
+
+# game/day35.rpy:1364
+translate spanish day35_b_sex_hard_1f4da673:
+
+    # "{i}As you kiss, you almost rip the lingerie off her body to reveal her breasts and juicy cunt."
+    "{i}Mientras la besas, casi le arrancas la ropa interior de su cuerpo para revelar sus tetas y su jugoso coño."
+
+# game/day35.rpy:1366
+translate spanish day35_b_sex_hard_550b680b:
+
+    # "{i}The small vibrator is still purring mercilessly inside her vagina."
+    "{i}El pequeño vibrador todavía ronronea sin piedad dentro de su vagina."
+
+# game/day35.rpy:1371
+translate spanish day35_b_sex_hard_61c7eab0:
+
+    # "{i}You take one of her hands and wrap her fingers around your cock."
+    "{i}Tomas una de sus manos y envuelves sus dedos alrededor de tu polla."
+
+# game/day35.rpy:1372
+translate spanish day35_b_sex_hard_569c00a1:
+
+    # p "You know what to do."
+    p "Sabes qué hacer."
+
+# game/day35.rpy:1374
+translate spanish day35_b_sex_hard_0a107658:
+
+    # "{i}Silently, your sister jerks you off, pulling the foreskin slowly over your tip."
+    "{i}En silencio, tu hermana te masturba, tirando lentamente del prepucio por encima de la punta."
+
+# game/day35.rpy:1376
+translate spanish day35_b_sex_hard_f7cd2aad:
+
+    # "{i}Silently, your girl jerks you off, pulling the foreskin slowly over your tip."
+    "{i}En silencio, tu chica te masturba, tirando lentamente del prepucio por encima de la punta."
+
+# game/day35.rpy:1377
+translate spanish day35_b_sex_hard_a360bd35:
+
+    # "{i}Hesitant at first, but when you start to play with her breasts, the jerking becomes increasingly more involved."
+    "{i}Duda al principio, pero cuando comienzas a jugar con sus tetas, la sacudida se vuelve cada vez más complicada."
+
+# game/day35.rpy:1378
+translate spanish day35_b_sex_hard_8f3bde9f:
+
+    # "{i}When the first moan escapes her, you know [b_name] is ready."
+    "{i}Cuando el primer gemido se le escapa, sabes que [b_name] está lista."
+
+# game/day35.rpy:1380
+translate spanish day35_b_sex_hard_bddfd74c:
+
+    # "{i}The moans become a muffled, agonized scream for a short moment when you pull the buzzing vibrator out of her cunt and throw it on a pile of clothing."
+    "{i}Los gemidos se convierten en un grito agónico ahogado durante un breve instante cuando sacas el vibrador zumbante de su coño y lo tiras sobre un montón de ropa"
+
+# game/day35.rpy:1381
+translate spanish day35_b_sex_hard_7b5abbd6:
+
+    # b "What did you do that for?!"
+    b "¡¿Para qué hiciste eso?!"
+
+# game/day35.rpy:1382
+translate spanish day35_b_sex_hard_d334433c:
+
+    # p "Clearing the way, my dear..."
+    p "Despejando el camino, querida..."
+
+# game/day35.rpy:1387
+translate spanish day35_b_sex_hard_d15a945c:
+
+    # "{i}You decide to tease her and rub your glans against her labia."
+    "{i}Decides juguetear con ella y frotar tu glande contra sus labios."
+
+# game/day35.rpy:1389
+translate spanish day35_b_sex_hard_1154eac5:
+
+    # "{i}The effects of the vibrator are very noticeable, as her vulva and thighs are covered in her juice."
+    "{i}Los efectos del vibrador son muy notables, ya que su vulva y sus muslos están cubiertos de jugo."
+
+# game/day35.rpy:1390
+translate spanish day35_b_sex_hard_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Usando tu polla, masajeas el área alrededor de su clítoris y luego el clítoris directamente."
+
+# game/day35.rpy:1391
+translate spanish day35_b_sex_hard_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Una de las manos de [b_name] se clava en tu hombro y trata de empujar tu polla dentro de ella con la otra."
+
+# game/day35.rpy:1392
+translate spanish day35_b_sex_hard_7cd02fb1:
+
+    # "{i}You brush her away and continue what you were doing, obviously making her crazy."
+    "{i}La apartas y continúas con lo que estabas haciendo, obviamente volviéndola loca."
+
+# game/day35.rpy:1394
+translate spanish day35_b_sex_hard_12776b4a:
+
+    # "{i}When your sister's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Cuando los gemidos de tu hermana se han convertido en un ardiente susurro, clavas tu polla en su coño sin previo aviso."
+
+# game/day35.rpy:1396
+translate spanish day35_b_sex_hard_7aeaa71e:
+
+    # "{i}When your girl's moans have become a hoarse whisper, you ram your cock into her cunt without any warning."
+    "{i}Cuando los gemidos de tu chica se han convertido en un ardiente susurro, clavas tu polla en su coño sin previo aviso."
+
+# game/day35.rpy:1401
+translate spanish day35_b_sex_hard_3e3945bb:
+
+    # b "FUCK!"
+    b "¡Joder!"
+
+# game/day35.rpy:1402
+translate spanish day35_b_sex_hard_ada4c787:
+
+    # "{i}Compensating for the initial violence, you proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Compensando la violencia inicial, procedes a follártela lentamente, empujando toda la longitud de tu polla a las húmedas profundidades."
+
+# game/day35.rpy:1403
+translate spanish day35_b_sex_hard_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Oh [b_name]!"
+
+# game/day35.rpy:1404
+translate spanish day35_b_sex_hard_0c6e4a69:
+
+    # b "Aaaah!"
+    b "Aaaah!"
+
+# game/day35.rpy:1407
+translate spanish day35_b_sex_hard_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Follándote a tu hermana tan intensamente, ambos olvidan dónde están, completamente centrados en alcanzar nuevas alturas de placer."
+
+# game/day35.rpy:1409
+translate spanish day35_b_sex_hard_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Follándote a tu chica tan intensamente, ambos olvidan dónde están, completamente centrados en alcanzar nuevas alturas de placer."
+
+# game/day35.rpy:1411
+translate spanish day35_b_sex_hard_b39f3017:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you focus on your own climax instead, intent on beating her to the punch."
+    "{i}Sientes a [b_name] temblando debajo de tus manos y sabes que su orgasmo está cerca, así que te concentras en tu propio clímax, con la intención de ganarla a ella."
+
+# game/day35.rpy:1415
+translate spanish day35_b_sex_hard_8c6741dc:
+
+    # p "Kneel!"
+    p "¡Arrodíllate!"
+
+# game/day35.rpy:1416
+translate spanish day35_b_sex_hard_7b230fe4:
+
+    # b "No, but..."
+    b "No pero..."
+
+# game/day35.rpy:1422
+translate spanish day35_b_sex_hard_64526946:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}A pesar de su protesta, [b_name] se arrodilla ante tí y te mira con enfado."
+
+# game/day35.rpy:1423
+translate spanish day35_b_sex_hard_9f956632:
+
+    # p "Open your mouth, baby."
+    p "Abre la boca, cariño."
+
+# game/day35.rpy:1424
+translate spanish day35_b_sex_hard_2a613638:
+
+    # p "Here it comes."
+    p "Aquí viene."
+
+# game/day35.rpy:1431
+translate spanish day35_b_sex_hard_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Tu polla, que descansa sobre su labio inferior, bombea grandes cantidades de semen dentro de la boca abierta de tu hermana."
+
+# game/day35.rpy:1433
+translate spanish day35_b_sex_hard_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Tu polla, descansando sobre su labio inferior, bombea grandes cantidades de semen dentro de la boca abierta de [b_name]."
+
+# game/day35.rpy:1437
+translate spanish day35_b_sex_hard_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}No queriendo estropear su cara o su pecho, [b_name] se traga diligentemente todo el semen que la has depositado."
+
+# game/day35.rpy:1445
+translate spanish day35_b_sex_hard_8c6741dc_1:
+
+    # p "Kneel!"
+    p "¡Arrodíllate!"
+
+# game/day35.rpy:1446
+translate spanish day35_b_sex_hard_7b230fe4_1:
+
+    # b "No, but..."
+    b "No pero..."
+
+# game/day35.rpy:1452
+translate spanish day35_b_sex_hard_64526946_1:
+
+    # "{i}Despite her protest, [b_name] kneels before you, looking at you angrily."
+    "{i}A pesar de su protesta, [b_name] se arrodilla ante tí y te mira con enfado."
+
+# game/day35.rpy:1453
+translate spanish day35_b_sex_hard_4f981de3:
+
+    # p "Just sit still, baby."
+    p "Solo siéntate, cariño."
+
+# game/day35.rpy:1454
+translate spanish day35_b_sex_hard_2a613638_1:
+
+    # p "Here it comes."
+    p "Aquí viene."
+
+# game/day35.rpy:1461
+translate spanish day35_b_sex_hard_459b3561:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over your sister's pretty face."
+    "{i}Tu polla, dirigida a su cara, bombea grandes cantidades de semen por toda la cara bonita de tu hermana."
+
+# game/day35.rpy:1463
+translate spanish day35_b_sex_hard_b19beb8d:
+
+    # "{i}Your cock, directed at her face, is pumping copious amounts of semen all over [b_name]'s pretty face."
+    "{i}Tu polla, dirigida a su cara, bombea grandes cantidades de semen por toda la cara bonita de [b_name]."
+
+# game/day35.rpy:1464
+translate spanish day35_b_sex_hard_4042a015:
+
+    # "{i}After making a mess of her face, [b_name] glances around in panic, looking for something to clean herself up with."
+    "{i}Después de hacer un desastre en su cara, [b_name] mira alrededor en pánico, buscando algo con lo que limpiarse."
+
+# game/day35.rpy:1473
+translate spanish day35_b_sex_hard_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Aquí viene, cariño."
+
+# game/day35.rpy:1482
+translate spanish day35_b_sex_hard_29cf96ec:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of your sister."
+    "{i}Tu polla, fuertemente metida en su jodido y húmedo agujero, está bombeando copiosas cantidades de semen dentro de tu hermana."
+
+# game/day35.rpy:1484
+translate spanish day35_b_sex_hard_3760a1ff:
+
+    # "{i}Your cock, rooted firmly in her wet fuck hole, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Tu polla, fuertemente metida en su jodido y húmedo agujero, está bombeando copiosas cantidades de semen dentro de [b_name]."
+
+# game/day35.rpy:1486
+translate spanish day35_b_sex_hard_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Después de retirarte, el semen se escapa de su coño y gotea por sus muslos."
+
+# game/day35.rpy:1487
+translate spanish day35_b_sex_hard_31a63622:
+
+    # "{i}[b_name] glances around in discomfort, looking for something to clean herself up with."
+    "{i}[b_name] mira con incomodidad, buscando algo con que limpiarse."
+
+# game/day35.rpy:1498
+translate spanish day35_b_sex_hard_cbb867e2:
+
+    # p "I'm going to buy that last set for you."
+    p "Voy a comprar ese último set para ti."
+
+# game/day35.rpy:1499
+translate spanish day35_b_sex_hard_168940ff:
+
+    # p "You looked really hot in that one."
+    p "Te veías muy sexy con el."
+
+# game/day35.rpy:1514
+translate spanish day35_b_sex_c665ea68:
+
+    # b "Nice and private."
+    b "Agradable y privado."
+
+# game/day35.rpy:1515
+translate spanish day35_b_sex_69c35c5b:
+
+    # p "It certainly is."
+    p "Por supuesto lo es."
+
+# game/day35.rpy:1517
+translate spanish day35_b_sex_35426c67:
+
+    # "{i}You pull her close and kiss her full on the lips, her lips part invitingly and your tongues intertwine."
+    "{i}La acercas y la besas de lleno en los labios, sus labios se separan de manera atractiva y vuestras lenguas se entrelazan."
+
+# game/day35.rpy:1519
+translate spanish day35_b_sex_a5182461:
+
+    # "{i}As you kiss, [b_name]'s breathing becomes shallow; she manages to undress herself while still kissing you fervently."
+    "{i}Mientras la besas, la respiración de [b_name] se vuelve lenta y logra desnudarse mientras te besa fervientemente."
+
+# game/day35.rpy:1524
+translate spanish day35_b_sex_75474255:
+
+    # "{i}As you pull your shirt over your head, she unbuttons your pants and frees your erection."
+    "{i}Mientras te pones la camisa sobre la cabeza, ella te desabrocha los pantalones y libera tu erección."
+
+# game/day35.rpy:1525
+translate spanish day35_b_sex_f99129d5:
+
+    # b "I really want you right now."
+    b "Realmente te quiero en este momento."
+
+# game/day35.rpy:1527
+translate spanish day35_b_sex_8642fc02:
+
+    # "{i}Looking at you smoulderingly, your sister jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Mirándote con aire de soslayo, tu hermana te sacude, tirando del prepucio lentamente sobre tu glande."
+
+# game/day35.rpy:1529
+translate spanish day35_b_sex_f5ec1bb1:
+
+    # "{i}Looking at you smoulderingly, your girl jerks you off, pulling the foreskin slowly over your glans."
+    "{i}Mirándote con aire de soslayo, tu chica te sacude, tirando del prepucio lentamente sobre tu glande."
+
+# game/day35.rpy:1530
+translate spanish day35_b_sex_ba01253b:
+
+    # "{i}You play with her breasts as the jerking becomes increasingly more frantic and [b_name] moans with hunger."
+    "{i}Juegas con sus tetas mientras las sacudidas se vuelven cada vez más frenéticas y [b_name] gime de hambre."
+
+# game/day35.rpy:1535
+translate spanish day35_b_sex_da5dbc83:
+
+    # "{i}You pull her closer and kiss her again, teasing her below by rubbing your tip against her labia, wet with her juices."
+    "{i}La acercas y la besas de nuevo, provocándola abajo frotando tu punta contra sus labios, mojados con sus jugos."
+
+# game/day35.rpy:1536
+translate spanish day35_b_sex_0c70ff9b:
+
+    # "{i}Using your cock, you massage the area around her clit and then the clitoris directly."
+    "{i}Usando tu polla, masajeas el área alrededor de su clítoris y luego el clítoris directamente."
+
+# game/day35.rpy:1537
+translate spanish day35_b_sex_6516f350:
+
+    # b "Oh God, [p_name]!"
+    b "¡Oh Dios, [p_name]!"
+
+# game/day35.rpy:1538
+translate spanish day35_b_sex_d4dafe9c:
+
+    # "{i}One of [b_name]'s hands claws into your shoulder, and she tries to push your cock inside of her with the other."
+    "{i}Una de las manos de [b_name] se clava en tu hombro y trata de empujar tu polla dentro de ella con la otra."
+
+# game/day35.rpy:1539
+translate spanish day35_b_sex_2205fa0a:
+
+    # p "Are we really going to do this here?"
+    p "¿Realmente vamos a hacerlo aquí?"
+
+# game/day35.rpy:1542
+translate spanish day35_b_sex_d7a7f399:
+
+    # "{i}Your sister just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Tu hermana simplemente asiente, mordiéndose el labio inferior, una mirada que casi te hace correrte en ese instante."
+
+# game/day35.rpy:1544
+translate spanish day35_b_sex_2ca9756a:
+
+    # "{i}Your girlfriend just nods, biting her lower lip, a look that nearly makes you cum that instant."
+    "{i}Tu novia simplemente asiente, mordiéndose el labio inferior, una mirada que casi te hace correrte en ese instante."
+
+# game/day35.rpy:1549
+translate spanish day35_b_sex_c05f6ab6:
+
+    # "{i}[b_name] spreads her legs to allow your cock to slide inside her with ease."
+    "{i}[b_name] separas sus piernas para permitir que tu polla se deslice dentro de ella con facilidad."
+
+# game/day35.rpy:1550
+translate spanish day35_b_sex_1223e8d3:
+
+    # "{i}You proceed to fuck her slowly, pushing the full length of your dick into the moist depths."
+    "{i}Procedes a follártela lentamente, empujando toda la longitud de tu polla a las húmedas profundidades."
+
+# game/day35.rpy:1551
+translate spanish day35_b_sex_6028295a:
+
+    # p "Oh [b_name]!"
+    p "Oh [b_name]!"
+
+# game/day35.rpy:1552
+translate spanish day35_b_sex_3539b25e:
+
+    # b "Yes, [p_name]!"
+    b "¡Sí, [p_name]!"
+
+# game/day35.rpy:1555
+translate spanish day35_b_sex_d76c972d:
+
+    # "{i}Fucking your sister so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Follándote a tu hermana tan intensamente, ambos olvidan dónde están, completamente centrados en alcanzar nuevas alturas de placer."
+
+# game/day35.rpy:1557
+translate spanish day35_b_sex_1b7dcb13:
+
+    # "{i}Fucking your girl so intensely, you both forget where you are, completely focused on reaching new heights of pleasure instead."
+    "{i}Follándote a tu chica tan intensamente, ambos olvidan dónde están, completamente centrados en alcanzar nuevas alturas de placer."
+
+# game/day35.rpy:1558
+translate spanish day35_b_sex_e7c2a5b1:
+
+    # "{i}You feel [b_name] trembling underneath your hands and you know her orgasm is near, so you finger her little clit to help her reach her climax."
+    "{i}Sientes a [b_name] temblando debajo de tus manos y sabes que su orgasmo está cerca, así que tocas su pequeño clítoris para ayudarla a alcanzar su clímax."
+
+# game/day35.rpy:1560
+translate spanish day35_b_sex_dd31e68f:
+
+    # b "F-ffffuuuu..."
+    b "F-ffffuuuu..."
+
+# game/day35.rpy:1564
+translate spanish day35_b_sex_63e14af3:
+
+    # p "Do you want to taste me?"
+    p "Quieres probarme"
+
+# game/day35.rpy:1565
+translate spanish day35_b_sex_488fb012:
+
+    # b "Y-yes! I want all of it!"
+    b "S-si! ¡Lo quiero todo!"
+
+# game/day35.rpy:1571
+translate spanish day35_b_sex_83371610:
+
+    # "{i}[b_name] quickly kneels before you, opening her mouth."
+    "{i}[b_name] se arrodilla rápidamente ante tí y abre la boca."
+
+# game/day35.rpy:1572
+translate spanish day35_b_sex_b7f35431:
+
+    # p "Here it comes, baby."
+    p "Aquí viene, cariño."
+
+# game/day35.rpy:1579
+translate spanish day35_b_sex_d9a21504:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside your sister's open mouth."
+    "{i}Tu polla, que descansa sobre su labio inferior, bombea grandes cantidades de semen dentro de la boca abierta de tu hermana."
+
+# game/day35.rpy:1581
+translate spanish day35_b_sex_a8b73f80:
+
+    # "{i}Your cock, resting on her lower lip, is pumping copious amounts of semen inside [b_name]'s open mouth."
+    "{i}Tu polla, descansando sobre su labio inferior, bombea grandes cantidades de semen dentro de la boca abierta de [b_name]."
+
+# game/day35.rpy:1585
+translate spanish day35_b_sex_f9ca45ab:
+
+    # "{i}Not wanting to mess up her face or chest, [b_name] diligently swallows all of the cum you've deposited."
+    "{i}No queriendo estropear su cara o su pecho, [b_name] se traga diligentemente todo el semen que la has depositado."
+
+# game/day35.rpy:1594
+translate spanish day35_b_sex_84ae19a5:
+
+    # "{i}Your orgasm coincides with hers and the feeling is almost too overwhelming"
+    "{i}Tu orgasmo coincide con el de ella y la sensación es casi demasiado abrumadora"
+
+# game/day35.rpy:1603
+translate spanish day35_b_sex_e2778beb:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of your sister."
+    "{i}Tu polla, arraigada firmemente en su húmeda raja, bombea grandes cantidades de semen dentro de tu hermana."
+
+# game/day35.rpy:1605
+translate spanish day35_b_sex_fc8995db:
+
+    # "{i}Your cock, rooted firmly in her wet slit, is pumping copious amounts of semen inside of [b_name]."
+    "{i}Tu polla, arraigada firmemente en su húmeda raja, está bombeando grandes cantidades de semen dentro de [b_name]."
+
+# game/day35.rpy:1607
+translate spanish day35_b_sex_c3e13729:
+
+    # "{i}After you pull out, cum is leaking from her cunt and dripping down her thighs."
+    "{i}Después de retirarte, el semen se escapa de su coño y gotea por sus muslos."
+
+# game/day35.rpy:1619
+translate spanish day35_b_sex_a79d3d9d:
+
+    # b "You've made quite a mess."
+    b "Has hecho un gran desastre."
+
+# game/day35.rpy:1620
+translate spanish day35_b_sex_3d2db6a7:
+
+    # p "Sorry for that."
+    p "Lo siento por eso."
+
+# game/day35.rpy:1621
+translate spanish day35_b_sex_7a735aae:
+
+    # b "Don't be silly."
+    b "No seas tonto"
+
+# game/day35.rpy:1623
+translate spanish day35_b_sex_84fe3e86:
+
+    # b "I was afraid you'd make a mess."
+    b "Tenía miedo de que hicieras un desastre."
+
+# game/day35.rpy:1624
+translate spanish day35_b_sex_d49aaacb:
+
+    # p "You took care of that very elegantly."
+    p "Te encargaste de eso muy elegantemente."
+
+# game/day35.rpy:1625
+translate spanish day35_b_sex_eb53660d:
+
+    # b "I did, didn't I?"
+    b "Lo hice, ¿no?"
+
+# game/day35.rpy:1626
+translate spanish day35_b_sex_043cf62e:
+
+    # p "I'll go and pay for that nice set of lingerie."
+    p "Iré a pagar ese bonito conjunto de lencería."
+
+# game/day35.rpy:1627
+translate spanish day35_b_sex_60d90d51:
+
+    # b "Great, I'll be with you in a moment!"
+    b "¡Genial, estaré contigo en un momento!"
+
+# game/day35.rpy:1642
+translate spanish day35_flashback_sex_697fe1ca:
+
+    # "{i}Sasha didn't hold back when she kissed the younger girl, and Sabine was obviously overwhelmed by it."
+    "{i}Sasha no se contuvo cuando besó a la chica más joven y Sabine obviamente estaba abrumada por eso."
+
+# game/day35.rpy:1643
+translate spanish day35_flashback_sex_5faf6a2b:
+
+    # sa "Sasha..."
+    sa "Sasha..."
+
+# game/day35.rpy:1644
+translate spanish day35_flashback_sex_f0631e93:
+
+    # s "Just enjoy, dear."
+    s "Solo disfruta, querida."
+
+# game/day35.rpy:1653
+translate spanish day35_flashback_sex_c94f5a34:
+
+    # "{i}Sabine held her breath while Sasha slowly removed her top, their mouths and tongues still in firm contact with each other."
+    "{i}Sabine contuvo el aliento, mientras Sasha lentamente se quitó la parte superior, sus bocas y lenguas aún en contacto firmes entre sí."
+
+# game/day35.rpy:1654
+translate spanish day35_flashback_sex_18d63bcb:
+
+    # s "You're a beautiful girl, Sabine."
+    s "Eres una chica hermosa, Sabine."
+
+# game/day35.rpy:1655
+translate spanish day35_flashback_sex_a7a329a1:
+
+    # sa "Do you... do you really think so?"
+    sa "¿Tú... realmente lo crees?"
+
+# game/day35.rpy:1656
+translate spanish day35_flashback_sex_be4259d8:
+
+    # s "I wouldn't tell you otherwise."
+    s "No te diría lo contrario."
+
+# game/day35.rpy:1657
+translate spanish day35_flashback_sex_ce3d1e49:
+
+    # "{i}I'd never seen Sabine this shy or flustered, but Sasha and the promise of that passionate kiss had a profound impact on Miley's friend."
+    "{i}Nunca había visto a Sabine tan tímida o nerviosa, pero Sasha y la promesa de ese apasionado beso tuvieron un profundo impacto en la amiga de Miley."
+
+# game/day35.rpy:1659
+translate spanish day35_flashback_sex_4da7e08d:
+
+    # "{i}Sasha lowered her head and proceeded to kiss Sabine's chest, lingering at her small breasts and nipples."
+    "{i}Sasha bajó la cabeza y procedió a besar el pecho de Sabine, deteniéndose en sus pequeños pechos y pezones."
+
+# game/day35.rpy:1660
+translate spanish day35_flashback_sex_fcd1ffae:
+
+    # s "Soft skin."
+    s "Piel suave."
+
+# game/day35.rpy:1661
+translate spanish day35_flashback_sex_0d4c3345:
+
+    # s "Very cute breasts."
+    s "Pechos muy lindos."
+
+# game/day35.rpy:1662
+translate spanish day35_flashback_sex_c5e5f65c:
+
+    # sa "Oooh!"
+    sa "Oooh!"
+
+# game/day35.rpy:1663
+translate spanish day35_flashback_sex_d62209ac:
+
+    # s "Do you like it when I lick you there?"
+    s "¿Te gusta cuando te lamo aquí?"
+
+# game/day35.rpy:1664
+translate spanish day35_flashback_sex_791b9e20:
+
+    # sa "Y-yes..."
+    sa "S-si..."
+
+# game/day35.rpy:1665
+translate spanish day35_flashback_sex_bec6b393:
+
+    # s "Would you like me to continue?"
+    s "¿Quieres que continúe?"
+
+# game/day35.rpy:1666
+translate spanish day35_flashback_sex_ba6f134b:
+
+    # sa "Oh yes, please."
+    sa "Oh, sí, por favor."
+
+# game/day35.rpy:1671
+translate spanish day35_flashback_sex_e36d3e49:
+
+    # "{i}Sasha helped the younger girl remove her pants, revealing her panties."
+    "{i}Sasha ayudó a la chica más joven a quitarse los pantalones, revelando sus bragas."
+
+# game/day35.rpy:1672
+translate spanish day35_flashback_sex_f3f334b8:
+
+    # s "I wonder what's hiding in there..."
+    s "Me pregunto qué se escondes ahí..."
+
+# game/day35.rpy:1673
+translate spanish day35_flashback_sex_2f3808ab:
+
+    # sa "Nothing special."
+    sa "Nada especial."
+
+# game/day35.rpy:1674
+translate spanish day35_flashback_sex_9f30c2fc:
+
+    # s "I beg to differ."
+    s "Siento disentir."
+
+# game/day35.rpy:1675
+translate spanish day35_flashback_sex_23e87d94:
+
+    # s "Let's get a little more comfortable."
+    s "Vamos a ponernos un poco más cómodas."
+
+# game/day35.rpy:1677
+translate spanish day35_flashback_sex_e093aa09:
+
+    # "{i}As Sasha stood up she looked directly into my direction, letting me know she was aware of the audience."
+    "{i}Cuando Sasha se levantó, miró directamente en mi dirección, haciéndome saber que estaba al tanto de la audiencia."
+
+# game/day35.rpy:1678
+translate spanish day35_flashback_sex_5817038a:
+
+    # "{i}Then, for the benefit of Sabine and me, she started to undress herself agonizingly slow."
+    "{i}Entonces, para el beneficio de Sabine y de mí, comenzó a desnudarse con una lentitud agonizante."
+
+# game/day35.rpy:1683
+translate spanish day35_flashback_sex_6fa7337a:
+
+    # s "What do you think, Sabine?"
+    s "¿Qué opinas, Sabine?"
+
+# game/day35.rpy:1684
+translate spanish day35_flashback_sex_9db22226:
+
+    # sa "You're beautiful."
+    sa "Eres hermosa."
+
+# game/day35.rpy:1685
+translate spanish day35_flashback_sex_e7015632:
+
+    # s "Good, now kiss me again."
+    s "Bien, ahora bésame de nuevo."
+
+# game/day35.rpy:1691
+translate spanish day35_flashback_sex_f685c514:
+
+    # "{i}The girls shared another kiss, Sasha's hand methodically inching towards Sabine's panties and finally rubbing the young girl's labia through the fabric of the underwear."
+    "{i}Las chicas compartieron otro beso, la mano de Sasha avanzó metódicamente hacia las bragas de Sabine y finalmente frotó los labios de la joven a través de la tela de la ropa interior."
+
+# game/day35.rpy:1692
+translate spanish day35_flashback_sex_dc33947e:
+
+    # sa "S-s-Sasha..."
+    sa "S-s-Sasha..."
+
+# game/day35.rpy:1693
+translate spanish day35_flashback_sex_596e183a:
+
+    # s "Yes, sweetie?"
+    s "¿Si cariño?"
+
+# game/day35.rpy:1694
+translate spanish day35_flashback_sex_40502c82:
+
+    # s "You know you're really wet down there?"
+    s "¿Sabes que estás realmente mojada aqui abajo?"
+
+# game/day35.rpy:1695
+translate spanish day35_flashback_sex_e0ea9b76:
+
+    # sa "Yes..."
+    sa "Si..."
+
+# game/day35.rpy:1696
+translate spanish day35_flashback_sex_6d660ea4:
+
+    # s "Do you like what we're doing?"
+    s "¿Te gusta lo que estamos haciendo?"
+
+# game/day35.rpy:1697
+translate spanish day35_flashback_sex_c0b742bc:
+
+    # sa "I love it."
+    sa "Me encanta."
+
+# game/day35.rpy:1698
+translate spanish day35_flashback_sex_931bfcaf:
+
+    # s "Why don't you play with my puppies for a while, and I'll help you out of these panties."
+    s "¿Por qué no juegas con mis gatitas un rato y te ayudo a quitarte estas bragas?"
+
+# game/day35.rpy:1704
+translate spanish day35_flashback_sex_c14584c7:
+
+    # "{i}Sabine didn't need much encouraging and turned her attention to Sasha's breasts immediately."
+    "{i}Sabine no necesitaba mucho aliento y dirigió su atención a los pechos de Sasha de inmediato."
+
+# game/day35.rpy:1705
+translate spanish day35_flashback_sex_22d437a7:
+
+    # s "Oh, that's good."
+    s "Oh eso es bueno."
+
+# game/day35.rpy:1706
+translate spanish day35_flashback_sex_7e3a9cbf:
+
+    # s "Yes, keep going."
+    s "Sí, sigue adelante."
+
+# game/day35.rpy:1707
+translate spanish day35_flashback_sex_fcbf1cb6:
+
+    # "{i}Sasha revealed the young girl's pussy, the wetness of her lips even visible from my point of view."
+    "{i}Sasha reveló el coño de la joven, la humedad de sus labios era incluso visible desde mi punto de vista."
+
+# game/day35.rpy:1713
+translate spanish day35_flashback_sex_f9bb2674:
+
+    # "{i}The direct contact of Sasha's fingers on her bared pussy made Sabine jump a little and the older woman's nipple slipped from her mouth."
+    "{i}El contacto directo de los dedos de Sasha en su coño desnudo hizo que Sabine saltara un poco y el pezón de la mujer se deslizó de su boca."
+
+# game/day35.rpy:1714
+translate spanish day35_flashback_sex_55069217:
+
+    # s "Just keep going, sweet thing..."
+    s "Solo sigue adelante, dulce cosa..."
+
+# game/day35.rpy:1715
+translate spanish day35_flashback_sex_0e074a96:
+
+    # s "Don't worry, I'm going to make you feel good."
+    s "No te preocupes, te voy a hacer sentir bien."
+
+# game/day35.rpy:1716
+translate spanish day35_flashback_sex_80e39750:
+
+    # sa "I-it already does!"
+    sa "¡Ya lo haces!"
+
+# game/day35.rpy:1718
+translate spanish day35_flashback_sex_4a2bafe1:
+
+    # "{i}When Sasha began to rub the other girl's slit, her moans were an unmistakable sign of deeply felt pleasure."
+    "{i}Cuando Sasha comenzó a frotar la raja de la otra chica, sus gemidos eran un signo inconfundible de un profundo placer."
+
+# game/day35.rpy:1719
+translate spanish day35_flashback_sex_e6b7b3f0:
+
+    # sa "Oooh, Sasha!"
+    sa "Oooh, Sasha!"
+
+# game/day35.rpy:1720
+translate spanish day35_flashback_sex_9d9a33a6:
+
+    # s "That's it, do you want more?"
+    s "Eso es, ¿quieres más?"
+
+# game/day35.rpy:1721
+translate spanish day35_flashback_sex_6684ea66:
+
+    # sa "Yes, yes please!"
+    sa "Si, si por favor!"
+
+# game/day35.rpy:1723
+translate spanish day35_flashback_sex_fdd354c0:
+
+    # "{i}Before moving to Sabine's cherry, Sasha showered her belly and thighs with sweet kisses."
+    "{i}Antes de pasar a la cereza de Sabine, Sasha bañó su vientre y sus muslos con dulces besos."
+
+# game/day35.rpy:1724
+translate spanish day35_flashback_sex_b35bcb57:
+
+    # "{i}When she finally arrived at the young girl's sex, her tongue explored every inch of it, stimulating Sabine to before unknown heights of pleasure."
+    "{i}Cuando finalmente llegó al sexo de la joven, su lengua exploró cada centímetro, estimulando a Sabine a alturas desconocidas de placer."
+
+# game/day35.rpy:1726
+translate spanish day35_flashback_sex_1fa09953:
+
+    # sa "I'm going to cum, Sasha!"
+    sa "Me voy a correr, Sasha!"
+
+# game/day35.rpy:1727
+translate spanish day35_flashback_sex_79d9369b:
+
+    # s "Let it all out, sweetheart!"
+    s "¡Déjalo todo, cariño!"
+
+# game/day35.rpy:1728
+translate spanish day35_flashback_sex_b99515cd:
+
+    # sa "Aaaah!"
+    sa "Aaaah!"
+
+# game/day35.rpy:1730
+translate spanish day35_flashback_sex_ca105b99:
+
+    # sa "Oh God!"
+    sa "¡Oh Dios!"
+
+# game/day35.rpy:1731
+translate spanish day35_flashback_sex_8dfe2e2d:
+
+    # sa "Don't stop!"
+    sa "No pares!"
+
+# game/day35.rpy:1732
+translate spanish day35_flashback_sex_988fa21b:
+
+    # sa "Don't s-stop, please!"
+    sa "¡No te p-pares, por favor!"
+
+# game/day35.rpy:1738
+translate spanish day35_flashback_sex_c685d3f9:
+
+    # "{i}Sasha showed no intention of doing so, and expertly guided Sabine to her climax."
+    "{i}Sasha no mostró intención de hacerlo, y guió expertamente a Sabine hasta su clímax."
+
+# game/day35.rpy:1739
+translate spanish day35_flashback_sex_5ed46d3a:
+
+    # "{i}The sight of Sabine, helplessly pleasured by Sasha and shuddering uncontrollably on the sofa was incredibly arousing."
+    "{i}La visión de Sabine, indefensa y complacida por Sasha y temblando incontrolablemente en el sofá fue increíblemente excitante."
+
+# game/day35.rpy:1744
+translate spanish day35_flashback_sex_f167671f:
+
+    # "{i}In fascination, I kept watching the girls as Sabine rested her head on Sasha's chest, happy tears in her eyes, while the older woman stroked her skin."
+    "{i}Fascinado seguí mirando a las chicas, mientras Sabine descansaba su cabeza sobre el pecho de Sasha, con lágrimas de felicidad en los ojos, mientras la mujer le acariciaba la piel."
+
+# game/day35.rpy:1745
+translate spanish day35_flashback_sex_4ec780aa:
+
+    # "{i}I snuck back into the bedroom and slipped next to Miley, holding her sleeping body in my arms."
+    "{i}Regresé a la habitación y me deslicé junto a Miley, sosteniendo su cuerpo dormido en mis brazos."
+
+# game/day35.rpy:1746
+translate spanish day35_flashback_sex_dae11ba8:
+
+    # "{i}I wasn't sure what exactly I had witnessed, but Sasha sure as hell made a connection with Sabine."
+    "{i}No estaba seguro de lo que había presenciado exactamente, pero Sasha estaba segura de hacer una conexión con Sabine."
+
+# game/day35.rpy:1747
+translate spanish day35_flashback_sex_89f1652c:
+
+    # "{i}Just how deep the connection really went I learned a little later."
+    "{i}Aprendí un poco más tarde cuán profunda fue realmente la conexión."
+
+# game/day35.rpy:1765
+translate spanish day35_ir_sex_48410ad7:
+
+    # ir "Could you just kiss me?"
+    ir "¿Podrías besarme?"
+
+# game/day35.rpy:1767
+translate spanish day35_ir_sex_26751e8d:
+
+    # "{i}Needing no further encouragement, you kiss her tears away and soon you're both as passionate as before."
+    "{i}Sin necesidad de más estímulo, besas sus lágrimas y pronto ambos están tan apasionados como antes."
+
+# game/day35.rpy:1768
+translate spanish day35_ir_sex_372ced16:
+
+    # ir "I need you, [p_name]!"
+    ir "¡Te necesito, [p_name]!"
+
+# game/day35.rpy:1773
+translate spanish day35_ir_sex_7f500837:
+
+    # "{i}Softly, you lay her on the bed and stimulate her lower lips with your wet glans."
+    "{i}Suavemente, la acuestas en la cama y estimula sus labios inferiores con tu húmedo glande."
+
+# game/day35.rpy:1774
+translate spanish day35_ir_sex_8047627a:
+
+    # "{i}The older woman sighs and touches your muscular chest in delight, caressing your arms in an attempt to will you forward, deep inside her."
+    "{i}La mujer suspira y toca tu musculoso pecho con deleite, acariciándote las brazos en un intento de que hacerte avanzar, muy dentro de ella."
+
+# game/day35.rpy:1779
+translate spanish day35_ir_sex_ef72aa8b:
+
+    # "{i}Your initial thrust still comes as a surprise to her, as she gasps audibly when your dick slips inside her wet pussy."
+    "{i}Tu empuje inicial todavía le sorprende, ya que jadea claramente cuando tu polla se desliza dentro de su mojado coño."
+
+# game/day35.rpy:1780
+translate spanish day35_ir_sex_e8a18f03:
+
+    # ir "Oh yes!"
+    ir "¡Oh si!"
+
+# game/day35.rpy:1782
+translate spanish day35_ir_sex_430e942e:
+
+    # "{i}Her luxurious body bounces on the rhythm of your love-making, which is increasing in intensity."
+    "{i}Su lujoso cuerpo rebota con el ritmo de tu amor, que aumentas en intensidad."
+
+# game/day35.rpy:1783
+translate spanish day35_ir_sex_a831e68f:
+
+    # "{i}The only things you manage to utter are hoarse moans and sighs, punctuated by hasty tongue kisses."
+    "{i}Las únicas cosas que logras pronunciar son ardientes gemidos y suspiros, puntuados por precipitados besos con la lengua."
+
+# game/day35.rpy:1784
+translate spanish day35_ir_sex_8f8668bb:
+
+    # ir "I want you to fuck me deeper..."
+    ir "Quiero que me folles más profundo..."
+
+# game/day35.rpy:1785
+translate spanish day35_ir_sex_bba5bef4:
+
+    # "{i}You know exactly what she means when she gets on all fours, her majestic ass wiggling in the air."
+    "{i}Sabes exactamente lo que quiere decir cuando se pone a cuatro patas, su majestuoso culo se menea en el aire."
+
+# game/day35.rpy:1794
+translate spanish day35_ir_sex_c58ec8f0:
+
+    # "{i}Before you plunge your cock inside her hairy slit, you pause, looking at the delicate folds of her asshole."
+    "{i}Antes de sumergir tu polla dentro de su peluda raja, haces una pausa, mirando los delicados pliegues de su ano."
+
+# game/day35.rpy:1795
+translate spanish day35_ir_sex_dc3c797f:
+
+    # p "Iris..."
+    p "Iris..."
+
+# game/day35.rpy:1796
+translate spanish day35_ir_sex_5522f4f9:
+
+    # ir "Yes... [p_name], is something wrong?"
+    ir "Sí... [p_name], ¿pasa algo?"
+
+# game/day35.rpy:1797
+translate spanish day35_ir_sex_1f14d985:
+
+    # p "Would you like me to do what you did at university?"
+    p "¿Quieres que te haga lo que hicistes en la universidad?"
+
+# game/day35.rpy:1798
+translate spanish day35_ir_sex_0f960595:
+
+    # "{i}It takes a while for a slight smile to appear on Iris' face and she barely nods in agreement."
+    "{i}Toma un tiempo para que una ligera sonrisa aparezca en la cara de Iris y ella apenas asiente con la cabeza."
+
+# game/day35.rpy:1799
+translate spanish day35_ir_sex_3136b2cf:
+
+    # ir "I'd like that..."
+    ir "Eso me gustaría..."
+
+# game/day35.rpy:1804
+translate spanish day35_ir_sex_be8e1955:
+
+    # ir "Please be gentle."
+    ir "Por favor, sé delicado."
+
+# game/day35.rpy:1805
+translate spanish day35_ir_sex_d7126455:
+
+    # ir "There's a bottle of lube in my nightstand."
+    ir "Hay un bote de lubricante en mi mesita de noche."
+
+# game/day35.rpy:1806
+translate spanish day35_ir_sex_47a900cd:
+
+    # ir "It was for my toy..."
+    ir "Es para mi juguete..."
+
+# game/day35.rpy:1807
+translate spanish day35_ir_sex_d97d43b5:
+
+    # "{i}You find the bottle and make sure Iris is ready for you."
+    "{i}Encuentras el bote y te asegúras de que Iris esté lista para ti."
+
+# game/day35.rpy:1812
+translate spanish day35_ir_sex_5978d2a7:
+
+    # "{i}When you're both ready, you grab hold of her ass and push the head of your cock against her anus."
+    "{i}Cuando ambos están listos, la agarras el culo y empujas la cabeza de tu polla contra su ano."
+
+# game/day35.rpy:1813
+translate spanish day35_ir_sex_7bcb4fc4:
+
+    # "{i}Iris holds her breath as your penis inches slowly inside of her, helped by the copious amount of lube."
+    "{i}Iris aguanta la respiración mientras su polla avanza lentamente dentro de ella, ayudada por la abundante cantidad de lubricante."
+
+# game/day35.rpy:1814
+translate spanish day35_ir_sex_09e30899:
+
+    # ir "Aaah!"
+    ir "Aaah!"
+
+# game/day35.rpy:1815
+translate spanish day35_ir_sex_96aa8b84:
+
+    # p "Should I stop?"
+    p "¿Debería parar?"
+
+# game/day35.rpy:1816
+translate spanish day35_ir_sex_dea92101:
+
+    # ir "No, keep going."
+    ir "No, sigue adelante."
+
+# game/day35.rpy:1817
+translate spanish day35_ir_sex_7fe2b824:
+
+    # "{i}The older woman is huffing, her face pressed inside the bedsheets as your cock disappears fully into her ass."
+    "{i}La mujer está resoplando, su cara presionada dentro de las sábanas mientras tu polla desaparece por completo en su culo."
+
+# game/day35.rpy:1818
+translate spanish day35_ir_sex_f23adae6:
+
+    # ir "Oh Lord!"
+    ir "¡Oh Señor!"
+
+# game/day35.rpy:1819
+translate spanish day35_ir_sex_79456584:
+
+    # ir "Fuck me! Please?"
+    ir "¡Fóllame! ¿Por favor?"
+
+# game/day35.rpy:1826
+translate spanish day35_ir_sex_2a7d82f8:
+
+    # "{i}Her asshole feels as tight as a virgin's pussy as you begin to sway back and forth, causing your cock to slide in and out of her asshole ever so slightly."
+    "{i}Su culo se siente tan apretado como el coño de una virgen mientras empiezas a balancearte hacia adelante y hacia atrás haciendo que tu polla se deslice dentro y fuera de su culo muy ligeramente"
+
+# game/day35.rpy:1827
+translate spanish day35_ir_sex_1998fb05:
+
+    # "{i}Iris's clenched fists are buried deep into the mattress as she moans with closed eyes, spittle leaking from the corner of her mouth."
+    "{i}Los puños apretados de Iris están enterrados profundamente en el colchón mientras ella gime con los ojos cerrados, la saliva que se escapa por las comisuras de su boca."
+
+# game/day35.rpy:1828
+translate spanish day35_ir_sex_eae3dffd:
+
+    # ir "Don't stop, [p_name]!"
+    ir "¡No te detengas, [p_name]!"
+
+# game/day35.rpy:1829
+translate spanish day35_ir_sex_94e5a795:
+
+    # ir "It feels so good!"
+    ir "¡Se siente tan bien!"
+
+# game/day35.rpy:1831
+translate spanish day35_ir_sex_41b47e0d:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her ass with deep strokes, causing Iris to gasp in delight."
+    "{i}Animado, agarras firmemente sus nalgas y la follas el culo con golpes profundos, haciendo que Iris jadee de alegría."
+
+# game/day35.rpy:1832
+translate spanish day35_ir_sex_8278008f:
+
+    # ir "Oh [p_name]!"
+    ir "¡Oh [p_name]!"
+
+# game/day35.rpy:1833
+translate spanish day35_ir_sex_dc5c0014:
+
+    # ir "Oh yes! Yes!"
+    ir "¡Oh si! ¡Si!"
+
+# game/day35.rpy:1834
+translate spanish day35_ir_sex_32108e22:
+
+    # "{i}Iris fingers her pussy while you continue stabbing her asshole and her moans intensify, signaling she's close to her climax."
+    "{i}Iris se acaricia el coño mientras continúas apuñalando su ojete y sus gemidos se intensifican, lo que indica que está cerca de su clímax."
+
+# game/day35.rpy:1840
+translate spanish day35_ir_sex_3f8404e3:
+
+    # "{i}Maybe your mind is playing tricks on you, but you think you feel something of the intense orgasm Iris is experiencing as you keep fucking her."
+    "{i}Tal vez tu mente te está engañando, pero crees sentir algo del intenso orgasmo que Iris está experimentando mientras te la follas."
+
+# game/day35.rpy:1841
+translate spanish day35_ir_sex_c781fe3d:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backward and a lewd smile gracing her face."
+    "{i}La mujer mayor se estremece y jadea con los ojos en blanco y una sonrisa lasciva adornando su rostro"
+
+# game/day35.rpy:1847
+translate spanish day35_ir_sex_4ee3539a:
+
+    # "{i}You grab hold of her ass and push the head of your cock against her labia, teasing her wet pussy."
+    "{i}Agarras su culo y empujas la cabeza de tu polla contra sus labios, provocando a su mojado coño."
+
+# game/day35.rpy:1848
+translate spanish day35_ir_sex_4273c3ae:
+
+    # ir "Mmmm, please [p_name], fuck me."
+    ir "Mmmm, por favor [p_name], fóllame."
+
+# game/day35.rpy:1850
+translate spanish day35_ir_sex_2ef51ee3:
+
+    # "{i}Iris holds her breath in ecstasy as your penis slips past her slick lips inside her love tunnel."
+    "{i}Iris aguanta la respiración en éxtasis mientras tu polla se desliza más allá de sus labios resbaladizos dentro de su túnel del amor."
+
+# game/day35.rpy:1851
+translate spanish day35_ir_sex_33e54f69:
+
+    # "{i}The woman moans with closed eyes and pushes her ass upwards in order for you to penetrate her even more deeply."
+    "{i}La mujer gime con los ojos cerrados y empuja su culo hacia arriba para que puedas penetrarla aún más profundamente."
+
+# game/day35.rpy:1852
+translate spanish day35_ir_sex_94e5a795_1:
+
+    # ir "It feels so good!"
+    ir "¡Se siente tan bien!"
+
+# game/day35.rpy:1854
+translate spanish day35_ir_sex_44e5ba08:
+
+    # "{i}Encouraged, you firmly grab her cheeks and fuck her pussy with deep strokes, causing Iris to gasp in delight."
+    "{i}Animado, agarras firmemente sus nalgas y la follas el coño con golpes profundos, haciendo que Iris jadee de alegría."
+
+# game/day35.rpy:1855
+translate spanish day35_ir_sex_8278008f_1:
+
+    # ir "Oh [p_name]!"
+    ir "¡Oh [p_name]!"
+
+# game/day35.rpy:1856
+translate spanish day35_ir_sex_dc5c0014_1:
+
+    # ir "Oh yes! Yes!"
+    ir "¡Oh si! ¡Si!"
+
+# game/day35.rpy:1857
+translate spanish day35_ir_sex_3fc53b4d:
+
+    # "{i}Iris fingers her pussy while you continue to pound her slit and her moans intensify, signaling she's close to her climax."
+    "{i}Iris se acaricia el coño mientras continúas golpeando su raja y sus gemidos se intensifican, lo que indica que está cerca de su clímax."
+
+# game/day35.rpy:1863
+translate spanish day35_ir_sex_55927cab:
+
+    # "{i}Within seconds you're part of the intense orgasm Iris is experiencing as you keep fucking her during her convulsions of pleasure."
+    "{i}En cuestión de segundos eres parte del intenso orgasmo que Iris está experimentando mientras te la follas durante sus convulsiones de placer."
+
+# game/day35.rpy:1864
+translate spanish day35_ir_sex_872ab584:
+
+    # "{i}The older woman shudders and gasps, her eyes rolled backwards, a small stream of spittle leaking from the corner of her mouth."
+    "{i}La mujer se estremece y jadea, con los ojos en blanco, una pequeña corriente de saliva se filtró por la comisura de su boca."
+
+# game/day35.rpy:1866
+translate spanish day35_ir_sex_8cc23bc2:
+
+    # ir "T-that f-felt s-so amazing!"
+    ir "¡E-eso se sintió tan increíble!"
+
+# game/day35.rpy:1867
+translate spanish day35_ir_sex_cf3f253e:
+
+    # "{i}Her words have an immediate effect on you, and your own orgasm is approaching fast."
+    "{i}Sus palabras tienen un efecto inmediato en tí y tu propio orgasmo se acerca rápidamente."
+
+# game/day35.rpy:1874
+translate spanish day35_ir_sex_b87a9704:
+
+    # "{i}In a split second, you decide you want to finish inside her pussy and pull your cock out of Iris' asshole."
+    "{i}En una fracción de segundo decides que quieres terminar dentro de su coño y sacas tu polla del culo de Iris"
+
+# game/day35.rpy:1875
+translate spanish day35_ir_sex_ef49f9d2:
+
+    # "{i}She doesn't complain when your dick, covered in lube and inside her ass just a moment ago, penetrates her wet gash."
+    "{i}No se queja cuando tu polla, cubierta de lubricante y dentro de su culo hace un momento, penetra su húmeda raja."
+
+# game/day35.rpy:1877
+translate spanish day35_ir_sex_28d650a3:
+
+    # "{i}In a split second, you decide to remain inside her and finish inside her pussy, so you keep fucking her for several intense thrusts."
+    "{i}En una fracción de segundo decides seguir dentro de ella y acabar dentro de su coño así que sigues follándotela durante varias embestidas intensas"
+
+# game/day35.rpy:1884
+translate spanish day35_ir_sex_0ae70127:
+
+    # "{i}Within seconds you flood her vagina with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}En cuestión de segundos, inundas su vagina con semen caliente mientras Iris se deleita con la sensación de estar llena."
+
+# game/day35.rpy:1886
+translate spanish day35_ir_sex_681fbfa8:
+
+    # "{i}Semen leaks out of her pussy and stains the bed sheets as you pull out your cock."
+    "{i}El semen se sale de su coño y mancha las sábanas mientras sacas tu polla."
+
+# game/day35.rpy:1887
+translate spanish day35_ir_sex_9c55539d:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}A Iris no parece importarle, lo único que hace es mirarte con amor en la felicidad postcoital."
+
+# game/day35.rpy:1897
+translate spanish day35_ir_sex_5bf8008f:
+
+    # "{i}In a split second, you decide you want to finish inside her ass, so you keep fucking her for several intense thrusts."
+    "{i}En una fracción de segundo decides que quieres terminar dentro de su culo, así que sigues follándotela durante varios intensos empujes."
+
+# game/day35.rpy:1904
+translate spanish day35_ir_sex_4e6dfb0b:
+
+    # "{i}Within seconds you flood her asshole with warm cum as Iris luxuriates in the feeling of being filled up."
+    "{i}En cuestión de segundos, inundas su culo con semen caliente mientras Iris se deleita con la sensación de estar llena."
+
+# game/day35.rpy:1906
+translate spanish day35_ir_sex_54b105e2:
+
+    # "{i}Semen, mixed with lube, leaks out of her winking anus and stains the bed sheets as you pull out your cock."
+    "{i}El semen, mezclado con el lubricante, se escapa de su ano parpadeante y mancha las sábanas mientras sacas tu polla."
+
+# game/day35.rpy:1907
+translate spanish day35_ir_sex_9c55539d_1:
+
+    # "{i}Iris doesn't seem to mind, the only thing she does is look at you lovingly in post-coital bliss."
+    "{i}A Iris no parece importarle, lo único que hace es mirarte con amor en la felicidad postcoital."
+
+# game/day35.rpy:1921
+translate spanish day35_ir_sex_d6fd4b00:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' asshole."
+    "{i}En una fracción de segundo decides cubrir su cuerpo con tu semilla y sacas tu polla del culo de Iris."
+
+# game/day35.rpy:1923
+translate spanish day35_ir_sex_26081ed6:
+
+    # "{i}In a split second, you decide to cover her body with your seed and pull your cock out of Iris' vagina."
+    "{i}En una fracción de segundo decides cubrir su cuerpo con tu semilla y sacas tu polla de la vagina de Iris."
+
+# game/day35.rpy:1926
+translate spanish day35_ir_sex_72710649:
+
+    # "{i}Within seconds you spray her back with warm cum as Iris luxuriates in the feeling of being covered in semen."
+    "{i}En cuestión de segundos, rocía su espalda con semen caliente mientras Iris se deleita con la sensación de estar cubierta de semen."
+
+# game/day35.rpy:1927
+translate spanish day35_ir_sex_d0fb3feb:
+
+    # "{i}Iris looks at you lovingly in post-coital bliss as the warm cum drips from the sides of her body."
+    "{i}Iris te mira con amor en la dicha postcoital mientras el cálido semen gotea por los costados de su cuerpo."
+
+# game/day35.rpy:1936
+translate spanish day35_ir_sex_3af46f8a:
+
+    # ir "I'd forgotten how good it felt..."
+    ir "Había olvidado lo bien que se sentía..."
+
+# game/day35.rpy:1938
+translate spanish day35_ir_sex_9c792fa6:
+
+    # p "Anal?"
+    p "¿El anal?"
+
+# game/day35.rpy:1939
+translate spanish day35_ir_sex_710b6775:
+
+    # ir "Not just that."
+    ir "No solo eso."
+
+# game/day35.rpy:1940
+translate spanish day35_ir_sex_9ec71e28:
+
+    # ir "Though it did feel good."
+    ir "Aunque se sintió bien."
+
+# game/day35.rpy:1941
+translate spanish day35_ir_sex_24dcce1d:
+
+    # ir "A little uncomfortable at first..."
+    ir "Un poco incómoda al principio..."
+
+# game/day35.rpy:1942
+translate spanish day35_ir_sex_ad0d1aaf:
+
+    # ir "But I meant in a broader sense, having sex without any restraints."
+    ir "Pero me refería, en un sentido más amplio, a tener relaciones sexuales sin restricciones."
+
+# game/day35.rpy:1944
+translate spanish day35_ir_sex_5eefe91f:
+
+    # ir "Having sex without any restraints."
+    ir "Tener relaciones sexuales sin restricciones."
+
+# game/day35.rpy:1945
+translate spanish day35_ir_sex_64f73ce2:
+
+    # ir "For a moment, nothing else mattered."
+    ir "Por un momento, nada más me importó."
+
+# game/day35.rpy:1946
+translate spanish day35_ir_sex_8c166994:
+
+    # ir "I want us to be lovers, [p_name]."
+    ir "Quiero que seamos amantes, [p_name]."
+
+# game/day35.rpy:1947
+translate spanish day35_ir_sex_796d9ba7:
+
+    # p "I already thought we were."
+    p "Ya pensé que lo éramos."
+
+# game/day35.rpy:1948
+translate spanish day35_ir_sex_5400b66c:
+
+    # ir "Maybe we are, but I just felt I needed to say it."
+    ir "Tal vez lo seamos, pero sentí que necesitaba decirlo."
+
+# game/day35.rpy:1949
+translate spanish day35_ir_sex_15da191f:
+
+    # ir "Being with you makes me feel like I belong."
+    ir "Estar contigo me hace sentir que te pertenezco."
+
+# game/day35.rpy:1950
+translate spanish day35_ir_sex_43a844d8:
+
+    # ir "You appreciate me, [p_name], and it's a long time since I've felt that way."
+    ir "Me aprecias, [p_name] y hace mucho que no me siento así."
+

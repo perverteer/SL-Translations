@@ -838,7 +838,7 @@ translate spanish day25_choices_1e2d63b3:
 translate spanish day25_choices_6428e499:
 
     # p "{i}(What?!)"
-    p "{¡¿Que?!)"
+    p "{i}(¿Que?!)"
 
 # game/day25.rpy:239
 translate spanish day25_choices_55307f85:
@@ -4057,4 +4057,899 @@ translate spanish day25_iris_meeting_ae79a827:
 translate spanish day25_iris_meeting_b829791f:
 
     # ir "Thank you, [p_name], you've made me feel special after so long, and that's what counts right now."
-    ir "Gracias [p_name] me has hecho sentir especial después de tanto tiempo y eso es lo que cuenta ahora mismo"
+    ir "Gracias [p_name] me has hecho sentir especial después de tanto tiempo y eso es lo que cuenta ahora mismo"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day25.rpy:944
+translate spanish day25_r_sex_250f8300:
+
+    # "{i}As soon as you enter the deserted classroom, [r_name] grabs your face and her lips are on yours. Mad with lust, you feel the swell of her small breasts against the palms of your hands."
+    "{i}Tan pronto como entras al aula desierta, [r_name] toma tu rostro y sus labios están sobre los tuyos. Loco de lujuria, sientes la hinchazón de sus pequeños pechos contra las palmas de tus manos."
+
+# game/day25.rpy:945
+translate spanish day25_r_sex_08d3f5ac:
+
+    # r "Oh, [p_name]!"
+    r "¡Oh, [p_name]!"
+
+# game/day25.rpy:946
+translate spanish day25_r_sex_ab5c9289:
+
+    # r "I wish we could make love right here on the spot."
+    r "Ojalá pudiéramos hacer el amor aquí mismo en el acto."
+
+# game/day25.rpy:947
+translate spanish day25_r_sex_d03baccd:
+
+    # p "That's bound to be awkward if the teacher steps in early."
+    p "Eso será muy incómodo si el profesor llega temprano."
+
+# game/day25.rpy:948
+translate spanish day25_r_sex_821e294d:
+
+    # r "I know and it sucks!"
+    r "¡Lo sé y apesta!"
+
+# game/day25.rpy:949
+translate spanish day25_r_sex_a87ca5a3:
+
+    # p "Majorly."
+    p "Mayormente."
+
+# game/day25.rpy:950
+translate spanish day25_r_sex_afd1642e:
+
+    # p "But I might know something else to hold you over until we get someplace more private."
+    p "Pero puede que sepa algo más para retenerte hasta que lleguemos a un lugar más privado."
+
+# game/day25.rpy:952
+translate spanish day25_r_sex_63256490:
+
+    # "{i}When you lower yourself, bringing your head level with her belly, you slowly undo the buttons of her shorts in order to slide them and her panties down out of the way."
+    "{i}Cuando te bajas, colocando la cabeza al nivel de su vientre, lentamente desabrochas los botones de sus pantalones cortos para deslizarlos, y sus bragas hacia abajo."
+
+# game/day25.rpy:953
+translate spanish day25_r_sex_fc2fb4ed:
+
+    # p "Let's get these off, shall we?"
+    p "Vamos a quitar esto, ¿de acuerdo?"
+
+# game/day25.rpy:958
+translate spanish day25_r_sex_6d517046:
+
+    # r "What are you planning on doing, [p_name]?"
+    r "¿Qué planeas hacer, [p_name]?"
+
+# game/day25.rpy:959
+translate spanish day25_r_sex_f76231ff:
+
+    # p "I think you deserve a treat. A little excitement."
+    p "Creo que te mereces un regalo. Un poco de excitación."
+
+# game/day25.rpy:960
+translate spanish day25_r_sex_dcb7cee5:
+
+    # r "Ohhh! I'm a big fan of excitement!"
+    r "Ohhh! Soy un gran fan de la excitación!"
+
+# game/day25.rpy:963
+translate spanish day25_r_sex_3fabb8ca:
+
+    # "{i}The position gives you a great view of her tight pussy, your sister's swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}La posición te da una gran vista de su apretado coño, el hinchado clítoris de tu hermana te llama y tus fosas nasales están llenas de su dulce fragancia."
+
+# game/day25.rpy:965
+translate spanish day25_r_sex_1e147499:
+
+    # "{i}The position gives you a great view of her tight pussy, [r_name]'s swollen clitoris beckons and your nostrils are filled with her sweet fragrance."
+    "{i}La posición te da una gran vista de su apretado coño, el hinchado clítoris de [r_name] te llama y tus fosas nasales están llenas de su dulce fragancia."
+
+# game/day25.rpy:970
+translate spanish day25_r_sex_35611710:
+
+    # "{i}All the anticipation has made her wet already, and when your tongue touches her labia, you lap up a wealth of her sweet juices."
+    "{i}Toda la expectación la ha mojado ya y cuando tu lengua toca sus labios, te comes una gran cantidad de sus dulces jugos."
+
+# game/day25.rpy:971
+translate spanish day25_r_sex_74d93c92:
+
+    # r "Oh god, yes!"
+    r "¡Oh, dios, sí!"
+
+# game/day25.rpy:972
+translate spanish day25_r_sex_4a95aa38:
+
+    # "{i}[r_name] twists and squirms while your tongue flicks ever rapidly between her pussy lips."
+    "{i}[r_name] se revuelve y se retuerce mientras tu lengua se mueve rápidamente entre los labios de su coño."
+
+# game/day25.rpy:973
+translate spanish day25_r_sex_e480cf4c:
+
+    # "{i}A bell rings somewhere, and a little while later, you can hear distant footsteps in the hallway. [r_name] doesn't seem to notice or care."
+    "{i}Una campana suena en algún lugar y un poco más tarde se pueden oír pasos distantes en el pasillo, [r_name] parece no darse cuenta o preocuparse."
+
+# game/day25.rpy:974
+translate spanish day25_r_sex_0dee5928:
+
+    # p "I'm gonna have to make this quick, baby."
+    p "Voy a tener que hacer esto rápidamente, cariño."
+
+# game/day25.rpy:975
+translate spanish day25_r_sex_8ceaf300:
+
+    # r "F-f-finish it, p-please!"
+    r "T-t-termínalo, p-por favor!"
+
+# game/day25.rpy:981
+translate spanish day25_r_sex_90dd1e99:
+
+    # "{i}Wanting to give your sister the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Al querer darle a tu hermana la satisfacción que ella desea, cambias tu atención a estimular su clítoris. [r_name] levanta su pierna para darte un mejor acceso a su coño."
+
+# game/day25.rpy:983
+translate spanish day25_r_sex_531e0ac8:
+
+    # "{i}Wanting to give your girlfriend the satisfaction she so desires, you switch your attention to stimulating her clitoris. [r_name] pulls up her leg to give you better access to her cunt."
+    "{i}Al querer darle a tu novia la satisfacción que ella desea, cambias tu atención a estimular su clítoris. [r_name] levanta su pierna para darte un mejor acceso a su coño."
+
+# game/day25.rpy:984
+translate spanish day25_r_sex_64ce9fc9:
+
+    # r "Ooooh, [p_name], don't stop, please!"
+    r "Ooooh, [p_name], no pares, por favor!"
+
+# game/day25.rpy:991
+translate spanish day25_r_sex_69f611bc:
+
+    # r "Ooh, yes! Y-yyyyees!"
+    r "¡Ooh sí! S-siiiii!"
+
+# game/day25.rpy:992
+translate spanish day25_r_sex_f77a813c:
+
+    # "{i}[r_name]'s body trembles in orgasm as she climaxes with your tongue firmly massaging her clitoris. Her saltiness overwhelms your mouth as her juices run freely."
+    "{i}El cuerpo de [r_name] tiembla con el orgasmo mientras llega al clímax con tu lengua masajeando firmemente su clítoris. Su salinidad abruma tu boca mientras sus jugos corren libremente."
+
+# game/day25.rpy:997
+translate spanish day25_r_sex_3874a9af:
+
+    # r "Just what I needed today!"
+    r "Justo lo que hoy necesitaba!"
+
+# game/day25.rpy:1001
+translate spanish day25_r_sex_0b7dd48e:
+
+    # p "Better than having lunch at the cafeteria?"
+    p "¿Mejor que almorzar en la cafetería de la universidad?"
+
+# game/day25.rpy:1002
+translate spanish day25_r_sex_eb3d12e7:
+
+    # r "You bet."
+    r "Apuesta por ello."
+
+# game/day25.rpy:1003
+translate spanish day25_r_sex_a74a2417:
+
+    # p "I'd better go now, before anybody mistakes me for a student."
+    p "Mejor ahora me voy, antes de que alguien me confunda con un estudiante."
+
+# game/day25.rpy:1004
+translate spanish day25_r_sex_d436b3c0:
+
+    # r "Or a teacher!"
+    r "O un profesor!"
+
+# game/day25.rpy:1005
+translate spanish day25_r_sex_45e7d386:
+
+    # p "God forbid..."
+    p "Dios no lo quiera..."
+
+# game/day25.rpy:1023
+translate spanish day25_l_fingering_7a620cd9:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where [r_name] and you watched a couple have fun with each other."
+    "{i}El aire nocturno es frío en tu piel cuando sales de la piscina y te diriges a la zona amurallada donde [r_name] y tú vísteis a una pareja divertirse el uno con el otro."
+
+# game/day25.rpy:1025
+translate spanish day25_l_fingering_bf7b9c24:
+
+    # "{i}The night air is cold on your skin when you leave the pool and head to the walled area where the hot tubs are located."
+    "{i}El aire nocturno es frío en tu piel cuando sales de la piscina y te diriges al área amurallada donde se encuentran los jacuzzis."
+
+# game/day25.rpy:1033
+translate spanish day25_l_fingering_b58df64f:
+
+    # p "Yup, still very nice. Come on in!"
+    p "Sí, sigue estando muy agradable. ¡Venga!"
+
+# game/day25.rpy:1034
+translate spanish day25_l_fingering_a1db61e1:
+
+    # "{i}You watch as [l_name] tries the water first with her toes and admire her naked body. A smile graces her face when she notices that the water is indeed still warm."
+    "{i}Observas cómo [l_name] prueba el agua primero con los dedos de los pies y admiras su desnudo cuerpo. Una sonrisa adorna su rostro cuando se da cuenta de que el agua todavía está caliente."
+
+# game/day25.rpy:1036
+translate spanish day25_l_fingering_15f142cd:
+
+    # l "Ooh, the water is bubbling. It tickles."
+    l "Ooh, el agua está burbujeando. Hace cosquillas."
+
+# game/day25.rpy:1037
+translate spanish day25_l_fingering_5e87a508:
+
+    # p "You're so far away, why don't you come over."
+    p "Estás tan lejos, ¿por qué no vienes?"
+
+# game/day25.rpy:1038
+translate spanish day25_l_fingering_63b3750e:
+
+    # l "Good idea."
+    l "Buena idea."
+
+# game/day25.rpy:1041
+translate spanish day25_l_fingering_00a857b2:
+
+    # "{i}Your sister swims closer and nestles herself in your arms. Her butt rubs against your crotch and your growing erection, but she doesn't seem to mind."
+    "{i}Tu hermana nada más cerca y se acurruca en tus brazos Su culo roza tu entrepierna y tu creciente erección pero no parece importarle"
+
+# game/day25.rpy:1043
+translate spanish day25_l_fingering_b1de4213:
+
+    # "{i}[l_name] swims closer and nestles herself in your arms. Her butt rubs against your crotch and your erection is growing, but she doesn't seem to mind."
+    "{i}[l_name] nada más cerca y se acurruca en tus brazos. Su culo roza tu entrepierna y tu erección está creciendo, pero a ella no parece importarle."
+
+# game/day25.rpy:1044
+translate spanish day25_l_fingering_f035222d:
+
+    # l "Mmmm, I feel all relaxed now."
+    l "Mmmm, ahora me siento relajada."
+
+# game/day25.rpy:1045
+translate spanish day25_l_fingering_fe2afd8b:
+
+    # "{i}There's a long silence in which you both enjoy just sitting close to each other."
+    "{i}Hay un largo silencio en el que ambos disfrutan sentados uno cerca del otro."
+
+# game/day25.rpy:1046
+translate spanish day25_l_fingering_7471acc4:
+
+    # l "How can you be so free, [p_name]?"
+    l "¿Cómo puedes ser tan libre, [p_name]?"
+
+# game/day25.rpy:1047
+translate spanish day25_l_fingering_1aa028eb:
+
+    # p "I don't know, I just am."
+    p "No sé, solo lo soy."
+
+# game/day25.rpy:1048
+translate spanish day25_l_fingering_f4565c3a:
+
+    # l "I just wish I had a little of your carefreeness."
+    l "Solo desearía tener un poco de tu despreocupación."
+
+# game/day25.rpy:1049
+translate spanish day25_l_fingering_a3ac60c7:
+
+    # p "I'm sure it's something you can learn."
+    p "Estoy seguro de que es algo que puedes aprender."
+
+# game/day25.rpy:1050
+translate spanish day25_l_fingering_260bd9b3:
+
+    # l "I think I'd like... I'd like to feel good... "
+    l "Creo que me gustaría... me gustaría sentirme bien..."
+
+# game/day25.rpy:1051
+translate spanish day25_l_fingering_65f01471:
+
+    # p "You mean you'd like me to touch your pussy?"
+    p "¿Quieres decir que quieres que te toque el coño?"
+
+# game/day25.rpy:1052
+translate spanish day25_l_fingering_ec6cf6d6:
+
+    # l "Oh, [p_name], can't you just..."
+    l "Oh, [p_name], no puedes simplemente..."
+
+# game/day25.rpy:1058
+translate spanish day25_l_fingering_81aea3f3:
+
+    # "{i}Without waiting for her reply, your hand dips below the waterline and slips between her legs. You hear [l_name] holding her breath."
+    "{i}Sin esperar su respuesta, tu mano se sumerge debajo del agua y se desliza entre sus piernas. Escuchas a [l_name] conteniendo la respiración."
+
+# game/day25.rpy:1060
+translate spanish day25_l_fingering_3329c202:
+
+    # p "Touch your pussy just like that?"
+    p "¿Tocar tu coño así como si nada?"
+
+# game/day25.rpy:1061
+translate spanish day25_l_fingering_ac68ab35:
+
+    # l "Y-yes, like that."
+    l "S-sí, así."
+
+# game/day25.rpy:1063
+translate spanish day25_l_fingering_3d4b35ee:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and your sister leans ever more heavily on your chest."
+    "{i}Tus dedos provocan las áreas sensibles alrededor de su sexo y tu hermana se apoya cada vez más en tu pecho."
+
+# game/day25.rpy:1065
+translate spanish day25_l_fingering_c9056500:
+
+    # "{i}Your fingers tease the sensitive areas around her sex, and she leans ever more heavily on your chest."
+    "{i}Tus dedos provocan las áreas sensibles alrededor de su sexo y ella se apoya cada vez más en tu pecho."
+
+# game/day25.rpy:1067
+translate spanish day25_l_fingering_a333d905:
+
+    # "{i}When you start massaging her clit, [l_name] lets out a small moan and her hand tousles your hair."
+    "{i}Cuando comienzas a masajear su clítoris, [l_name] suelta un pequeño gemido y su mano te revuelve el pelo."
+
+# game/day25.rpy:1068
+translate spanish day25_l_fingering_0a90328c:
+
+    # p "Do you want me inside of you?"
+    p "¿Me quieres dentro de ti?"
+
+# game/day25.rpy:1069
+translate spanish day25_l_fingering_ab687a69:
+
+    # l "Yes, f-finger me, [p_name]!"
+    l "Sí, d-dedo en mi, [p_name]!"
+
+# game/day25.rpy:1071
+translate spanish day25_l_fingering_6eeb5756:
+
+    # "{i}Two fingers slip inside her pussy as you keep stimulating her clitoris with your thumb. [l_name]'s breathing is ragged and she seems close to orgasm."
+    "{i}Dos dedos se deslizan dentro de su coño mientras sigues estimulando su clítoris con tu pulgar. La respiración de [l_name] es irregular y parece estar cerca del orgasmo."
+
+# game/day25.rpy:1072
+translate spanish day25_l_fingering_82a4e302:
+
+    # p "Cum for me, baby!"
+    p "Correté para mí, cariño!"
+
+# game/day25.rpy:1073
+translate spanish day25_l_fingering_c4f51dd6:
+
+    # l "Y-y-yesss, [p_name], I'm..."
+    l "Sí, sí, [p_name], lo estoy..."
+
+# game/day25.rpy:1080
+translate spanish day25_l_fingering_6c62f416:
+
+    # l "Aaaaaah!"
+    l "Aaaaaah!"
+
+# game/day25.rpy:1081
+translate spanish day25_l_fingering_8c7f77e2:
+
+    # "{i}[l_name] trembles and squirms as she orgasms, your fingers still inside her. Her violent movements eventually force you outside of her and she rides out the last waves of her orgasm pressed against you."
+    "{i}[l_name] tiembla y se retuerce cuando tiene un orgasmo, tus dedos aún dentro de ella. Sus movimientos violentos finálmente te obligan a salir de ella y ella cabalga las últimas olas de su orgasmo presionada contra ti."
+
+# game/day25.rpy:1085
+translate spanish day25_l_fingering_375652b2:
+
+    # l "T-that... that was fantastic. I feel all better now."
+    l "E-eso... eso fue fantástico. Me siento mejor ahora."
+
+# game/day25.rpy:1087
+translate spanish day25_l_fingering_da25e56e:
+
+    # l "This evening was a great idea, [p_name], thank you so much."
+    l "Esta noche fue una gran idea, [p_name], muchas gracias."
+
+# game/day25.rpy:1088
+translate spanish day25_l_fingering_db488370:
+
+    # p "You're very welcome."
+    p "Eres muy bienvenida."
+
+# game/day25.rpy:1090
+translate spanish day25_l_fingering_0e2e55a4:
+
+    # "{i}You keep floating in the hot tub until the midnight air is too chilly and you decide to go home."
+    "{i}Permaneceis flotando en el jacuzzi hasta que el aire de la medianoche es demasiado frío y decidís iros a casa."
+
+# game/day25.rpy:1109
+translate spanish day25_i_sex_9ec564bd:
+
+    # "{i}The door to the bedroom is wide open, and when you arrive, Iris is already down to her underwear."
+    "{i}La puerta de la habitación está abierta de par en par y cuando llegas, Iris ya está en ropa interior."
+
+# game/day25.rpy:1110
+translate spanish day25_i_sex_3caad50d:
+
+    # p "{i}(Those curves are fine indeed.)"
+    p "{i}(De hecho, esas curvas están bien.)"
+
+# game/day25.rpy:1111
+translate spanish day25_i_sex_9c584147:
+
+    # p "Iris?"
+    p "¿Iris?"
+
+# game/day25.rpy:1113
+translate spanish day25_i_sex_b0d0767a:
+
+    # "{i}Iris doesn't appear very startled at your voice, but she still covers her breasts when she faces you."
+    "{i}Iris no parece muy sorprendida por tu voz, pero todavía se cubre las tetas cuando te mira."
+
+# game/day25.rpy:1114
+translate spanish day25_i_sex_80f822d5:
+
+    # p "Did you want me to follow you?"
+    p "¿Querías que te siguiera?"
+
+# game/day25.rpy:1116
+translate spanish day25_i_sex_af9930e6:
+
+    # ir "Maybe..."
+    ir "Tal vez..."
+
+# game/day25.rpy:1117
+translate spanish day25_i_sex_ddad1a4b:
+
+    # ir "I look like a worn out sack of meat, don't I?"
+    ir "Me veo como un saco de carne desgastado, ¿no?"
+
+# game/day25.rpy:1120
+translate spanish day25_i_sex_c6334f39:
+
+    # p "{i}(Damnit, she clearly has body issues.)"
+    p "{i}(Maldición, ella claramente tiene problemas corporales.)"
+
+# game/day25.rpy:1121
+translate spanish day25_i_sex_e4d7ab52:
+
+    # p "Why would you say that?"
+    p "Por qué dices eso?"
+
+# game/day25.rpy:1123
+translate spanish day25_i_sex_57977556:
+
+    # ir "Because Justin never touches me... Never looks at me anymore."
+    ir "Porque Justin nunca me toca... Nunca me mira más."
+
+# game/day25.rpy:1124
+translate spanish day25_i_sex_b9b73004:
+
+    # p "I think Justin is too absorbed in his work to care about anything else."
+    p "Creo que Justin está demasiado absorto en su trabajo para preocuparse por otra cosa."
+
+# game/day25.rpy:1125
+translate spanish day25_i_sex_8508b229:
+
+    # p "He's so absorbed that he doesn't see his beautiful wife for what she is: a desirable woman."
+    p "Está tan absorto que no ve a su bella esposa por lo que es: una mujer deseable."
+
+# game/day25.rpy:1127
+translate spanish day25_i_sex_e0cb8901:
+
+    # ir "Do you really think that?"
+    ir "¿Realmente crees eso?"
+
+# game/day25.rpy:1128
+translate spanish day25_i_sex_b62d145c:
+
+    # p "That you're desirable? Yes, I think so."
+    p "¿Que eres deseable? Sí, eso creo."
+
+# game/day25.rpy:1129
+translate spanish day25_i_sex_6fa9dade:
+
+    # p "You possess everything I love in a woman. A radiant smile, beautiful curves, luscious breasts and maturity."
+    p "Posees todo lo que amo en una mujer. Una sonrisa radiante, hermosas curvas, pechos deliciosos y madurez."
+
+# game/day25.rpy:1130
+translate spanish day25_i_sex_fa2a42a8:
+
+    # ir "Luscious breasts, really? I always thought they were in the way."
+    ir "Pechos deliciosos, ¿en serio? Siempre pensé que estaban en el medio."
+
+# game/day25.rpy:1131
+translate spanish day25_i_sex_5e50fb58:
+
+    # p "I can't say that I see your point."
+    p "No puedo decir que veo tu punto de vista."
+
+# game/day25.rpy:1132
+translate spanish day25_i_sex_facdc743:
+
+    # ir "Do you still want me to put that dress on?"
+    ir "¿Todavía quieres que me ponga ese vestido?"
+
+# game/day25.rpy:1133
+translate spanish day25_i_sex_86d15f25:
+
+    # p "If you let me watch you undress..."
+    p "Si me dejas verte desnudarte..."
+
+# game/day25.rpy:1134
+translate spanish day25_i_sex_774139e9:
+
+    # ir "That's okay."
+    ir "Esta bien."
+
+# game/day25.rpy:1135
+translate spanish day25_i_sex_e2405543:
+
+    # "{i}Iris proceeds to unclasp her bra and is still a little uncomfortable with the whole situation."
+    "{i}Iris procede a desabrocharse el sujetador y todavía está un poco incómoda con toda la situación."
+
+# game/day25.rpy:1137
+translate spanish day25_i_sex_44cb0290:
+
+    # p "Just what I thought."
+    p "Justo lo que pensaba."
+
+# game/day25.rpy:1138
+translate spanish day25_i_sex_20c0c941:
+
+    # ir "What? Are they..."
+    ir "¿Qué? ¿Son..."
+
+# game/day25.rpy:1139
+translate spanish day25_i_sex_fdc9e41d:
+
+    # p "A perfect pair."
+    p "Una pareja perfecta"
+
+# game/day25.rpy:1141
+translate spanish day25_i_sex_25b76bba:
+
+    # ir "Even if I don't know whether to believe you or not, it's still nice to get these compliments."
+    ir "Incluso si no sé si creerte o no, es bueno recibir estos cumplidos."
+
+# game/day25.rpy:1146
+translate spanish day25_i_sex_887cad5a:
+
+    # p "You're a vision!"
+    p "Eres una vision!"
+
+# game/day25.rpy:1147
+translate spanish day25_i_sex_c18f3955:
+
+    # p "But..."
+    p "Pero..."
+
+# game/day25.rpy:1148
+translate spanish day25_i_sex_2aca1d3c:
+
+    # ir "But? Is something wrong."
+    ir "¿Pero? Hay algo mal."
+
+# game/day25.rpy:1149
+translate spanish day25_i_sex_6bc6dd21:
+
+    # p "You could say that."
+    p "Se podría decir que..."
+
+# game/day25.rpy:1150
+translate spanish day25_i_sex_84779fec:
+
+    # p "I've seen those beautiful breasts of yours and I kinda want to see more of you..."
+    p "He visto esos hermosos pechos tuyos y quiero ver más de ti..."
+
+# game/day25.rpy:1151
+translate spanish day25_i_sex_c2131b78:
+
+    # "{i}Wordlessly, Iris turns her back and unzips the dress, after that her panties fall to the floor."
+    "{i}Sin decir nada, Iris se da la vuelta y abre la cremallera del vestido, después de que sus bragas caigan al suelo."
+
+# game/day25.rpy:1153
+translate spanish day25_i_sex_713e1875:
+
+    # ir "You mean like this?"
+    ir "¿Quieres decir así?"
+
+# game/day25.rpy:1154
+translate spanish day25_i_sex_ff5204b0:
+
+    # p "{i}(Sweet Jesus, I'd like to give those buttocks a good slapping.)"
+    p "{i}(Dulce Jesús, me gustaría darle a esas nalgas una buena bofetada.)"
+
+# game/day25.rpy:1155
+translate spanish day25_i_sex_9fdfc4c8:
+
+    # p "Exactly like that."
+    p "Exactamente así."
+
+# game/day25.rpy:1160
+translate spanish day25_i_sex_6dde063f:
+
+    # ir "If you want me, I'm yours..."
+    ir "Si me quieres, soy tuya..."
+
+# game/day25.rpy:1161
+translate spanish day25_i_sex_f49d9534:
+
+    # ir "But I want to see you too..."
+    ir "Pero yo también quiero verte..."
+
+# game/day25.rpy:1163
+translate spanish day25_i_sex_95d0da94:
+
+    # "{i}Without much ceremony you undress yourself and find Iris staring longingly at your erect cock."
+    "{i}Sin mucha ceremonia, te desnudas y encuentras a Iris mirando ansiosamente tu erecta polla."
+
+# game/day25.rpy:1164
+translate spanish day25_i_sex_c27fd2fa:
+
+    # ir "It's been a while... I almost forgot what it was like."
+    ir "Ha pasado mucho tiempo... casi olvido cómo era."
+
+# game/day25.rpy:1165
+translate spanish day25_i_sex_4da5b111:
+
+    # ir "You look so handsome."
+    ir "Te ves tan apuesto."
+
+# game/day25.rpy:1167
+translate spanish day25_i_sex_c0e0f065:
+
+    # ir "I can't believe we're doing this."
+    ir "No puedo creer que estemos haciendo esto."
+
+# game/day25.rpy:1169
+translate spanish day25_i_sex_0a7056a4:
+
+    # ir "But the woman you were with?! You aren't cheating on her, are you?"
+    ir "¿Pero la mujer con la que estabas? No la estás engañando, ¿verdad?"
+
+# game/day25.rpy:1170
+translate spanish day25_i_sex_59390063:
+
+    # p "We're dating, but not sure of our feelings yet. Besides, I'm all for open relationships."
+    p "Estamos saliendo, pero aún no estamos seguros de nuestros sentimientos. Además, estoy a favor de las relaciones abiertas."
+
+# game/day25.rpy:1172
+translate spanish day25_i_sex_1952c19f:
+
+    # ir "A handsome man like you, you must have a girlfriend."
+    ir "Un hombre guapo como tú, debes de tener novia."
+
+# game/day25.rpy:1173
+translate spanish day25_i_sex_2c23e463:
+
+    # p "Yes, I'm seeing some girls, but nothing serious. Besides, I'm all for open relationships."
+    p "Sí, me estoy viendo algunas chicas, pero nada serio. Además, estoy a favor de las relaciones abiertas."
+
+# game/day25.rpy:1174
+translate spanish day25_i_sex_b169d104:
+
+    # ir "So are we really doing this?"
+    ir "Entonces, ¿realmente vamos a hacerlo?"
+
+# game/day25.rpy:1175
+translate spanish day25_i_sex_62c06072:
+
+    # p "Yes Iris, we are. Just lie down and kiss me."
+    p "Sí Iris, lo estamos. Solo acuéstate y bésame."
+
+# game/day25.rpy:1180
+translate spanish day25_i_sex_200fd0f6:
+
+    # "{i}A little hesitant, Iris lets herself be guided down to the mattress, but as soon as your lips touch and your tongues intertwine, she no longer has any reservations."
+    "{i}Un poco indecisa Iris se deja guiar hasta el colchón pero en cuanto vuestros labios se tocan y vuestras lenguas se entrelazan ya no tiene ninguna reserva"
+
+# game/day25.rpy:1181
+translate spanish day25_i_sex_18e1759f:
+
+    # ir "Oh [p_name], kiss me again!"
+    ir "¡Oh [p_name], bésame otra vez!"
+
+# game/day25.rpy:1182
+translate spanish day25_i_sex_dd6c002a:
+
+    # "{i}You notice her kisses have a bit of a desperate edge to them, a hunger maybe, as if she's afraid you might still leave her."
+    "{i}Te das cuenta de que sus besos tienen un poco de desesperación, tal vez un hambre, como si temiera que todavía la dejaras."
+
+# game/day25.rpy:1184
+translate spanish day25_i_sex_3f08601e:
+
+    # "{i}When you caress her full breasts and touch her soft erect nipples, Iris lets out a sigh of pleasure."
+    "{i}Cuando acaricias sus pechos grandes y tocas sus suaves pezones erectos, Iris da un suspiro de placer."
+
+# game/day25.rpy:1185
+translate spanish day25_i_sex_d9367c64:
+
+    # p "Do you like it when I touch you there, Iris?"
+    p "¿Te gusta cuando te toco aquí, Iris?"
+
+# game/day25.rpy:1186
+translate spanish day25_i_sex_2b5f856c:
+
+    # ir "Mmmm, yes."
+    ir "Mmmm, si."
+
+# game/day25.rpy:1188
+translate spanish day25_i_sex_e77aac7b:
+
+    # "{i}You move down to her plump ass and massage her buttocks. Iris seems to be relaxing more and more as you discover her body."
+    "{i}Te mueves hacia abajo a su culo regordete y le masajeas las nalgas, Iris parece relajarse cada vez más a medida que descubres su cuerpo."
+
+# game/day25.rpy:1189
+translate spanish day25_i_sex_2004ab1b:
+
+    # p "Do you want to feel good?"
+    p "¿Quieres sentirte bien?"
+
+# game/day25.rpy:1190
+translate spanish day25_i_sex_9c3b627f:
+
+    # ir "Yes..."
+    ir "Si..."
+
+# game/day25.rpy:1192
+translate spanish day25_i_sex_c3edf5bb:
+
+    # "{i}Gently you turn her on her back again, and a little embarrassed, the older woman closes her legs."
+    "{i}Suavemente le das la espalda de nuevo y un poco avergonzada la mujer cierra las piernas."
+
+# game/day25.rpy:1193
+translate spanish day25_i_sex_2b101f07:
+
+    # p "Don't be shy, Iris."
+    p "No seas tímida, Iris."
+
+# game/day25.rpy:1195
+translate spanish day25_i_sex_c192101e:
+
+    # "{i}You effortlessly spread her legs. The reverend's wife doesn't stop you."
+    "{i}Le abres las piernas sin esfuerzo La esposa del reverendo no te detiene"
+
+# game/day25.rpy:1196
+translate spanish day25_i_sex_0c1def5d:
+
+    # p "{i}(Wow, that's an old-school bush, right there.)"
+    p "{i}(Wow, ese es un arbusto de la vieja escuela, justo ahí.)"
+
+# game/day25.rpy:1201
+translate spanish day25_i_sex_728ab8a9:
+
+    # "{i}Iris wants to protest when you move your head down between her legs, but she is silent the moment your tongue touches her pussy."
+    "{i}Iris quiere protestar cuando mueves tu cabeza entre sus piernas, pero se queda callada en el momento en que tu lengua toca su coño."
+
+# game/day25.rpy:1202
+translate spanish day25_i_sex_a08cbfab:
+
+    # ir "Oooh, [p_name]!"
+    ir "Oooh, [p_name]!"
+
+# game/day25.rpy:1204
+translate spanish day25_i_sex_e4744b64:
+
+    # "{i}Her taste fills your mouth as you penetrate her cunt with your probing tongue. Iris moans and writhes on the bed."
+    "{i}Su sabor llena tu boca mientras penetras su coño con tu lengua. Iris gime y se retuerce en la cama."
+
+# game/day25.rpy:1205
+translate spanish day25_i_sex_82d39544:
+
+    # ir "Y-yes, right there, keep doing that. Aaaaah!"
+    ir "S-sí, ahí mismo, sigue haciendo eso. Aaaaah!"
+
+# game/day25.rpy:1208
+translate spanish day25_i_sex_96ee126b:
+
+    # "{i}Licking her clitoris is what finally makes her explode in your mouth. She shudders and takes your head in her hands, pushing you down on her slit."
+    "{i}Lamer su clítoris es lo que finalmente hace que explote en tu boca. Ella se estremece y toma tu cabeza en sus manos, empujándote hacia abajo en su raja."
+
+# game/day25.rpy:1209
+translate spanish day25_i_sex_f27ed8be:
+
+    # ir "I want you, [p_name], I want you inside me!"
+    ir "¡Te quiero, [p_name], te quiero dentro de mí!"
+
+# game/day25.rpy:1213
+translate spanish day25_i_sex_fdda4f53:
+
+    # "{i}Like two horny teenagers, she helps you scramble on top of her, takes hold of your throbbing cock and eagerly guides it inside her wet pussy."
+    "{i}Al igual que dos adolescentes cachondos, ella te ayuda a trepar encima de ella, toma tu palpitante polla y la guía ansiosamente dentro de su mojado coño."
+
+# game/day25.rpy:1215
+translate spanish day25_i_sex_ace14589:
+
+    # ir "Fuck me!"
+    ir "¡Fóllame!"
+
+# game/day25.rpy:1221
+translate spanish day25_i_sex_91ba433a:
+
+    # "{i}Your movements are tender, yet you penetrate her deeply. Each time you thrust your cock to the root inside her cunt, her nails claw into your buttocks."
+    "{i}Tus movimientos son tiernos, pero la penetras profundamente. Cada vez que empujas tu polla hasta el fondo dentro de su coño, sus uñas se clavan en tus nalgas."
+
+# game/day25.rpy:1223
+translate spanish day25_i_sex_54864ef0:
+
+    # ir "Oooh, y-you feel so good, [p_name]."
+    ir "Oooh, t-te sientes tan bien, [p_name]."
+
+# game/day25.rpy:1224
+translate spanish day25_i_sex_828438ab:
+
+    # p "Aaah, Iris!"
+    p "Aaah, Iris!"
+
+# game/day25.rpy:1226
+translate spanish day25_i_sex_8809bb85:
+
+    # "{i}For a moment, Iris is annoyed when you pull out, but after you turn her on her side and you penetrate her again she lets out a small sigh of relief."
+    "{i}Por un momento, Iris se molesta cuando la sacas, pero después de ponerla de lado y penetrarla de nuevo, ella deja escapar un pequeño suspiro de alivio."
+
+# game/day25.rpy:1227
+translate spanish day25_i_sex_d46ea59a:
+
+    # ir "Are you going to cum for me, [p_name]?"
+    ir "¿Vas a correrte por mí, [p_name]?"
+
+# game/day25.rpy:1228
+translate spanish day25_i_sex_bce655a9:
+
+    # p "G-god yes Iris!"
+    p "Dios mío, sí Iris!"
+
+# game/day25.rpy:1229
+translate spanish day25_i_sex_ef490d67:
+
+    # "{i}Your hands dig into her soft flesh, and you fuck her even more passionately when you feel your orgasm approach."
+    "{i}Tus manos se clavan en su suave carne y te la follas con más pasión cuando sientes que se acerca tu orgasmo."
+
+# game/day25.rpy:1240
+translate spanish day25_i_sex_f5ee9209:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1241
+translate spanish day25_i_sex_891c825e:
+
+    # "{i}As your cock erupts inside of her, Iris opens her legs slight further to allow you to shoot your seed even deeper inside of her."
+    "{i}Cuando tu polla entra en erupción dentro de ella, Iris abre sus piernas un poco más para permitirte disparar tu semilla aún más profundamente dentro de ella."
+
+# game/day25.rpy:1242
+translate spanish day25_i_sex_62f76ee7:
+
+    # ir "Don't stop, ooooh! Mmmmmmm!"
+    ir "¡No pares ooooh! Mmmmmmm!"
+
+# game/day25.rpy:1257
+translate spanish day25_i_sex_f5ee9209_1:
+
+    # p "Aaaaah!"
+    p "Aaaaah!"
+
+# game/day25.rpy:1258
+translate spanish day25_i_sex_32c25792:
+
+    # "{i}After you pull out, your cock erupts and Iris directs the streams of cum towards herself, so as to allow your strands of semen to cover her body."
+    "{i}Después de retirarte, tu polla entra en erupción e Iris dirige las corrientes de semen hacia ella, para permitir que tus hebras de semen cubran su cuerpo."
+
+# game/day25.rpy:1259
+translate spanish day25_i_sex_b43b3ad9:
+
+    # ir "That's it, cover me with your cum, [p_name]!"
+    ir "Eso es, ¡cúbreme con tu semen [p_name]!"
+
+# game/day25.rpy:1269
+translate spanish day25_i_sex_ae79a827:
+
+    # "{i}Thoroughly spent, you lie with Iris for a while, her head resting on your chest."
+    "{i}Te pasas un rato acostado con Iris, con la cabeza apoyada en tu pecho."
+
+# game/day25.rpy:1270
+translate spanish day25_i_sex_6e5d107c:
+
+    # ir "I'm glad you came by for coffee."
+    ir "Me alegra que hayas venido a tomar un café."
+
+# game/day25.rpy:1271
+translate spanish day25_i_sex_5f123bc2:
+
+    # p "As am I."
+    p "Al igual que yo"
+

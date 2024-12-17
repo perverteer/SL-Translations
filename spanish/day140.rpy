@@ -7909,4 +7909,41 @@ translate spanish day140_r_b_fuck_d849fd04:
 translate spanish day140_r_b_fuck_241c029b:
 
     # "{i}You lightly slap your girlfriend's pussy and nod at [r_name] to continue the tickling."
-    "{i}Le das una ligera palmada en el coño a tu novia y le dices con la cabeza a [r_name] que continúe con las cosquillas"
+    "{i}Le das una ligera palmada en el coño a tu novia y le dices con la cabeza a [r_name] que continúe con las cosquillas"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day140.rpy:1902
+translate spanish day140_r_b_fuck_0b844586:
+
+    # "Is [r_name] pregnant in this scene?"
+    "¿Está [r_name] embarazada en esta escena?"
+
+# game/day140.rpy:1906
+translate spanish day140_r_b_fuck_d0c026ed:
+
+    # "[r_name] pregnant"
+    "[r_name] embarazada"
+
+# game/day140.rpy:1909
+translate spanish day140_r_b_fuck_f10bfcc0:
+
+    # "[r_name] not pregnant"
+    "[r_name] no está embarazada"
+
+# game/day140.rpy:1911
+translate spanish day140_r_b_fuck_37de0311:
+
+    # "Do you want to enable watersports for this scene?"
+    "¿Quieres habilitar deportes acuáticos para esta escena?"
+
+# game/day140.rpy:1915
+translate spanish day140_r_b_fuck_e1b3f2a2:
+
+    # "Watersports enabled"
+    "Deportes acuáticos habilitados"
+
+# game/day140.rpy:1918
+translate spanish day140_r_b_fuck_9a79f488:
+
+    # "Watersports disabled"
+    "Deportes acuáticos para discapacitados"
+

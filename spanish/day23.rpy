@@ -5135,4 +5135,671 @@ translate spanish day23_flashback_4362a162:
 translate spanish day23_flashback_6c92b1a6:
 
     # "{i}I did all those things, taking her majestic nipples in my mouth and giving them the attention they deserved. Sasha began to moan softly and spread her legs."
-    "{i}Hice todas esas cosas tomando sus majestuosos pezones en mi boca y dándoles la atención que se merecían Sasha comenzó a gemir suavemente y abrió sus piernas"
+    "{i}Hice todas esas cosas tomando sus majestuosos pezones en mi boca y dándoles la atención que se merecían Sasha comenzó a gemir suavemente y abrió sus piernas"# TODO: Translation updated at 2024-11-18 12:26
+
+# game/day23.rpy:239
+translate spanish day23_choices_05ffd1fb:
+
+    # p "{i}(Time to give [l_name] her present, gift-wrapped and all.)"
+    p "{i}(Hora de darle a [l_name] su regalo, envuelto y todo.)"
+
+# game/day23.rpy:244
+translate spanish day23_choices_c8de8992:
+
+    # p "Hey!"
+    p "¡Hey!"
+
+# game/day23.rpy:245
+translate spanish day23_choices_defd4068:
+
+    # l "[p_name]!"
+    l "[p_name]!"
+
+# game/day23.rpy:246
+translate spanish day23_choices_d4d9144c:
+
+    # p "I've come bearing gifts!"
+    p "¡He venido trayendo regalos!"
+
+# game/day23.rpy:248
+translate spanish day23_choices_b2d1ce81:
+
+    # l "Exciting!"
+    l "¡Emocionante!"
+
+# game/day23.rpy:250
+translate spanish day23_choices_cb7f19ad:
+
+    # "Smiling at you, your sister slowly opens the box to reveal its contents."
+    "Sonriéndote, tu hermana abre lentamente la caja para revelar su contenido."
+
+# game/day23.rpy:252
+translate spanish day23_choices_99a401dc:
+
+    # "Smiling at you, your friend slowly opens the box to reveal its contents."
+    "Sonriéndote, tu amiga abre lentamente la caja para revelar su contenido."
+
+# game/day23.rpy:257
+translate spanish day23_choices_7a7c68ab:
+
+    # l "What on earth is..."
+    l "¿Qué demonios es..."
+
+# game/day23.rpy:259
+translate spanish day23_choices_385c6bba:
+
+    # l "Oh no [p_name], you didn't..."
+    l "Oh no [p_name], no lo hiciste..."
+
+# game/day23.rpy:260
+translate spanish day23_choices_e3441fb8:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Dije que te regalaría uno, ¿no te gusta?"
+
+# game/day23.rpy:261
+translate spanish day23_choices_b117c158:
+
+    # l "I... I don't know."
+    l "Yo... no lo sé."
+
+# game/day23.rpy:262
+translate spanish day23_choices_88f9f76e:
+
+    # l "I think it's a little weird for a present."
+    l "Creo que es un poco extraño para un regalo."
+
+# game/day23.rpy:263
+translate spanish day23_choices_b8cb1989:
+
+    # p "Nonsense, couples gift sex toys to each other all the time."
+    p "Tonterías, las parejas se regalan juguetes sexuales entre sí todo el tiempo."
+
+# game/day23.rpy:264
+translate spanish day23_choices_8ddd7141:
+
+    # p "{i}(They do, don't they?)"
+    p "{i}(Lo hacen, ¿no?)"
+
+# game/day23.rpy:265
+translate spanish day23_choices_b084ab6b:
+
+    # l "But it looks so... so... so pornographic?"
+    l "Pero se ve tan... tan... ¿tan pornográfico?"
+
+# game/day23.rpy:266
+translate spanish day23_choices_a8855506:
+
+    # p "You should have seen the other ones on display. This one is as subtle as these things get."
+    p "Deberías haber visto los otros que están en la exposición. Este es tan sutil como estas cosas se ponen."
+
+# game/day23.rpy:268
+translate spanish day23_choices_87b0a3a4:
+
+    # l "Okay... Thank you."
+    l "Está bien... Gracias."
+
+# game/day23.rpy:269
+translate spanish day23_choices_62cb2daf:
+
+    # p "{i}(She doesn't sound entirely convinced.)"
+    p "{i}(Ella no parece completamente convencida)"
+
+# game/day23.rpy:270
+translate spanish day23_choices_465cacc1:
+
+    # p "No problem. And it's up to you whether or not you want to use it, of course. It's fine with me if it ends up collecting dust in a drawer."
+    p "No hay problema. Y por supuesto, depende de tí si quieres usarlo o no. No me importa si termina acumulando polvo en un cajón."
+
+# game/day23.rpy:271
+translate spanish day23_choices_35c7c502:
+
+    # l "Thank you, I'll keep that in mind."
+    l "Gracias, lo tendré en cuenta."
+
+# game/day23.rpy:272
+translate spanish day23_choices_34b3a6d6:
+
+    # p "Though you're missing out if you do..."
+    p "Aunque te lo estás perdiendo si lo haces..."
+
+# game/day23.rpy:273
+translate spanish day23_choices_572e979c:
+
+    # l "Okay, okay! I get the message."
+    l "¡Está bien, está bien! Capté el mensaje."
+
+# game/day23.rpy:274
+translate spanish day23_choices_f2616112:
+
+    # "{i}The girl smiles at you as you exit her room."
+    "{i}La chica te sonríe cuando sales de su habitación."
+
+# game/day23.rpy:279
+translate spanish day23_choices_7a7c68ab_1:
+
+    # l "What on earth is..."
+    l "¿Qué demonios es..."
+
+# game/day23.rpy:281
+translate spanish day23_choices_e3441fb8_1:
+
+    # p "I said I would get you one as a gift, don't you like it?"
+    p "Dije que te regalaría uno, ¿no te gusta?"
+
+# game/day23.rpy:282
+translate spanish day23_choices_b117c158_1:
+
+    # l "I... I don't know."
+    l "Yo... no lo sé."
+
+# game/day23.rpy:283
+translate spanish day23_choices_e6683550:
+
+    # l "It's enormous."
+    l "Es enorme."
+
+# game/day23.rpy:284
+translate spanish day23_choices_672ed884:
+
+    # p "You'll feel everything much more intensely."
+    p "Sentirás todo mucho más intensamente."
+
+# game/day23.rpy:286
+translate spanish day23_choices_fcccfff9:
+
+    # l "I'm sorry, [p_name], but this is too much."
+    l "Lo siento, [p_name], pero esto es demasiado."
+
+# game/day23.rpy:287
+translate spanish day23_choices_112eed2f:
+
+    # l "I didn't ask for this and you just went on and got me this thing... Why would you do that?"
+    l "Yo no pedí esto y tú sólo fuiste y me conseguiste esta cosa... ¿Por qué lo hiciste?"
+
+# game/day23.rpy:288
+translate spanish day23_choices_250448d6:
+
+    # p "{i}(Shit. She clearly isn't impressed.)"
+    p "{i}(Mierda. Claramente no está impresionada)"
+
+# game/day23.rpy:289
+translate spanish day23_choices_b234b46d:
+
+    # p "I thought you'd enjoy it, it's a great stimulant, you know."
+    p "Pensé que lo disfrutarías, es un gran estimulante, ya sabes."
+
+# game/day23.rpy:290
+translate spanish day23_choices_bf6484d3:
+
+    # l "I'm not that kind of girl, [p_name], you should know that by now."
+    l "No soy ese tipo de chica, [p_name], ya deberías saberlo."
+
+# game/day23.rpy:291
+translate spanish day23_choices_59810b3a:
+
+    # p "I'm sorry, [l_name], I didn't... I'll leave you alone."
+    p "Lo siento [l_name], no lo hice... te dejaré en paz."
+
+# game/day23.rpy:292
+translate spanish day23_choices_85879b55:
+
+    # "{i}The girl remains silent as you hesitantly back out of the room."
+    "{i}La chica permanece en silencio mientras sales vacilante de la habitación."
+
+# game/day23.rpy:299
+translate spanish day23_choices_f557ef8c:
+
+    # "{i}You anxiously wait until evening falls and get dressed in your suit, ready to go out with [m_name]."
+    "{i}Esperas ansiosamente hasta que caiga la tarde y te vistes con tu traje, listo para salir con [m_name]."
+
+# game/day23.rpy:301
+translate spanish day23_choices_6087b957:
+
+    # "{i}You pass the time until evening falls and heat up something in the microwave."
+    "{i}Pasas el tiempo hasta que cae la tarde y calientas algo en el microondas."
+
+# game/day23.rpy:1274
+translate spanish day23_a_sex_8ea3f425:
+
+    # a "This is cozy, don't you think?"
+    a "Esto es acogedor, ¿no te parece?"
+
+# game/day23.rpy:1275
+translate spanish day23_a_sex_26d310fa:
+
+    # p "If you mean cramped and icky, then I agree."
+    p "Si te refieres a que es estrecho y asqueroso, entonces estoy de acuerdo."
+
+# game/day23.rpy:1276
+translate spanish day23_a_sex_fffe8d91:
+
+    # a "Come now. Let's have some fun."
+    a "Ahora ven. Divirtámonos un poco."
+
+# game/day23.rpy:1277
+translate spanish day23_a_sex_8a475814:
+
+    # "{i}Ana inserts a coin into the slot and a movie starts playing on the big screen. She motions you to sit down."
+    "{i}Ana inserta una moneda en la ranura y comienza a reproducirse una película en la pantalla grande. Ella te indica que te sientes."
+
+# game/day23.rpy:1279
+translate spanish day23_a_sex_ca6cffa7:
+
+    # a "Now, enjoy."
+    a "Ahora, disfruta."
+
+# game/day23.rpy:1280
+translate spanish day23_a_sex_093ae804:
+
+    # "{i}As Ana undresses, the actors on the screen have already finished their quick foreplay and the girl is riding him reverse cowgirl."
+    "{i}Mientras Ana se desnuda, los actores en la pantalla ya han terminado sus juegos preliminares rápidos y la chica lo está montando como vaquera."
+
+# game/day23.rpy:1281
+translate spanish day23_a_sex_a2840535:
+
+    # a "I knew you'd like this. You're already hard."
+    a "Sabía que te gustaría esto. Ya estas duro."
+
+# game/day23.rpy:1282
+translate spanish day23_a_sex_aa585d28:
+
+    # a "Do you like it when a girl is pounded like that by a big hard cock?"
+    a "¿Te gusta cuando una chica es aporreada así por una gran dura polla?"
+
+# game/day23.rpy:1287
+translate spanish day23_a_sex_50cb5b91:
+
+    # "{i}After you undress, Ana drops to her knees and eagerly devours your throbbing erection."
+    "{i}Después de desnudarte, Ana se arrodilla y devora ansiosamente tu palpitante erección."
+
+# game/day23.rpy:1288
+translate spanish day23_a_sex_c3aab241:
+
+    # a "Mmmm, yeah, I missed this."
+    a "Mmmm, sí, echaba de menos esto."
+
+# game/day23.rpy:1289
+translate spanish day23_a_sex_86ca5840:
+
+    # p "Just use your mouth, you dirty little cocksucker."
+    p "Solo usa tu boca, sucia chupapollas."
+
+# game/day23.rpy:1291
+translate spanish day23_a_sex_caac8dd7:
+
+    # "{i}Ana folds her hands behind her back and swallows even more of your length. Saliva is dripping on the floor as she gags."
+    "{i}Ana dobla las manos detrás de la espalda y traga aún más de tu longitud. La saliva gotea en el suelo mientras le dan arcadas."
+
+# game/day23.rpy:1292
+translate spanish day23_a_sex_e323c8cc:
+
+    # "{i}You help her establish a rhythm by guiding her head up and down your dick."
+    "{i}La ayudas a establecer un ritmo guiando su cabeza hacia arriba y hacia abajo por tu polla."
+
+# game/day23.rpy:1293
+translate spanish day23_a_sex_4d3df8ab:
+
+    # p "Yes, like that."
+    p "Sí, así es."
+
+# game/day23.rpy:1294
+translate spanish day23_a_sex_515de870:
+
+    # "{i}Your cock still in her mouth, you stop just short of filling her mouth with seed. Wanting to extend your lovemaking, you grab her hair and pull her from your erection."
+    "{i}Si tu polla sigue en su boca, no podrás llenarla de semillas. Queriendo prolongar tu relación sexual, la agarras del pelo y la sacas de tu erección."
+
+# game/day23.rpy:1299
+translate spanish day23_a_sex_fd1668c4:
+
+    # p "Ride me."
+    p "Montame."
+
+# game/day23.rpy:1305
+translate spanish day23_a_sex_e39a777c:
+
+    # "{i}The girl climbs on top of you and your cock slips inside her wet gash easily. Delighted, she massages your balls as she moves up and down your shaft."
+    "{i}La chica se sube encima de tí y tu polla se desliza fácilmente dentro de su húmeda raja. Encantada, masajea tus bolas mientras sube y baja por tu rabo."
+
+# game/day23.rpy:1306
+translate spanish day23_a_sex_cc91972d:
+
+    # a "Mmmmm, you're in so deep."
+    a "Mmmmm, estás tan profundo."
+
+# game/day23.rpy:1307
+translate spanish day23_a_sex_ca72086a:
+
+    # "{i}Her ass slaps against your thighs as she rides you. Ana's breasts brush against your face and you eagerly suck on her nipples."
+    "{i}Su culo golpea tus muslos mientras te monta. Los pechos de Ana rozan tu cara y tú chupas ansiosamente sus pezones."
+
+# game/day23.rpy:1308
+translate spanish day23_a_sex_425e18d1:
+
+    # "The sound of the porn movie that's still playing is drowned out by Ana's hoarse moans."
+    "El sonido de la película porno que todavía se reproduce se ahoga por los ardientes gemidos de Ana."
+
+# game/day23.rpy:1310
+translate spanish day23_a_sex_28948b8d:
+
+    # "{i}Wanting more control you lift Ana from your cock and turn her around."
+    "{i}Queriendo tener más control, levantas a Ana de tu polla y la das la vuelta."
+
+# game/day23.rpy:1311
+translate spanish day23_a_sex_6c4209ce:
+
+    # p "I want to see that ass of yours."
+    p "Quiero ver ese culo tuyo."
+
+# game/day23.rpy:1312
+translate spanish day23_a_sex_b2ab109d:
+
+    # a "No, no, don't stop!"
+    a "No, no, no te detengas!"
+
+# game/day23.rpy:1313
+translate spanish day23_a_sex_b50b3019:
+
+    # "{i}You push her on your cock and hold her waist, hoisting her up and slamming her down. Each time you thrust your dick in her vagina, small trickles of wetness drip from her vagina on your thighs."
+    "{i}La empujas sobre tu polla y la sostienes por la cintura, la levantas y la golpeas. Cada vez que empujas tu polla en su vagina, pequeñas gotitas de humedad gotean de su vagina en tus muslos."
+
+# game/day23.rpy:1314
+translate spanish day23_a_sex_874c8699:
+
+    # a "Yes, yes! Fuck me, don't stop, [p_name]."
+    a "¡S-s-sí! Fóllame, no pares, [p_name]."
+
+# game/day23.rpy:1315
+translate spanish day23_a_sex_ef695463:
+
+    # p "You like it, you little whore?"
+    p "¿Te gusta, pequeña zorra?"
+
+# game/day23.rpy:1316
+translate spanish day23_a_sex_08c34679:
+
+    # a "I love it! I fucking love it."
+    a "¡Me encanta! Me encanta."
+
+# game/day23.rpy:1322
+translate spanish day23_a_sex_ca686f8e:
+
+    # "{i}After her cunt has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Después de que su coño ha complacido tu polla por un tiempo, ...te retiras y tiras a Ana al suelo."
+
+# game/day23.rpy:1324
+translate spanish day23_a_sex_288e1772:
+
+    # p "Now, taste your pussy."
+    p "Ahora, prueba de tu coño."
+
+# game/day23.rpy:1325
+translate spanish day23_a_sex_b5cfb8e5:
+
+    # a "Mmmm, yes!"
+    a "Mmmm, sí!"
+
+# game/day23.rpy:1331
+translate spanish day23_a_sex_7dc021b4:
+
+    # p "I want to use your ass."
+    p "Quiero usar tu culo."
+
+# game/day23.rpy:1332
+translate spanish day23_a_sex_9c7eccf6:
+
+    # a "Yes! It's ready for you. Use me!"
+    a "¡Sí! Está listo para ti. ¡Úsame!"
+
+# game/day23.rpy:1338
+translate spanish day23_a_sex_7c5ea404:
+
+    # "{i}You push her down on the chair as she spreads her cheeks for you, giving you a nice view of her little butthole."
+    "{i}La empujas hacia abajo en la silla mientras ella extiende sus nalgas para ti, dándote una buena vista de su pequeño culo."
+
+# game/day23.rpy:1339
+translate spanish day23_a_sex_3f4cf14c:
+
+    # "{i}Despite what she said, Ana's ass clearly isn't ready for your size. When you push the tip inside her, she stops moaning and she grits her teeth."
+    "{i}A pesar de lo que dijo, el culo de Ana claramente no está listo para tu talla. Cuando empujas la punta dentro de ella, deja de gemir y aprieta los dientes."
+
+# game/day23.rpy:1340
+translate spanish day23_a_sex_3f544fe9:
+
+    # a "Aaah... It... Aaaah..."
+    a "Aaah... Es... Aaaah..."
+
+# game/day23.rpy:1341
+translate spanish day23_a_sex_366d23d1:
+
+    # "{i}You spit on her asshole and push your cock further inside her ass."
+    "{i}Escupes en su culo y empujas tu polla más adentro de su trasero."
+
+# game/day23.rpy:1342
+translate spanish day23_a_sex_8b3557d5:
+
+    # a "There's so much of you..."
+    a "Hay tanto de ti..."
+
+# game/day23.rpy:1343
+translate spanish day23_a_sex_21b1e79f:
+
+    # "{i}You hold her arms and pull her towards you. Her asshole feels really tight, despite Ana relaxing more and more."
+    "{i}La sostienes por los brazos y la atraes hacia ti. Su culo se siente realmente apretado, a pesar de que Ana se relaja cada vez más."
+
+# game/day23.rpy:1344
+translate spanish day23_a_sex_50a50856:
+
+    # a "Aah, yes. Fuck my ass."
+    a "Aah, sí. Fóllame el culo."
+
+# game/day23.rpy:1346
+translate spanish day23_a_sex_af23fe83:
+
+    # "{i}Her ass bounces as you fuck her. Every time your cock enters her, Ana pushes her face against the leather of the chair, her expression contorted in a mixture of pain and pleasure."
+    "{i}Su culo rebota cuando te lo follas. Cada vez que tu polla la penetra, Ana empuja su cara contra el cuero de la silla, su expresión se contorsiona en una mezcla de dolor y placer."
+
+# game/day23.rpy:1352
+translate spanish day23_a_sex_2a47266f:
+
+    # "{i}After her ass has pleasured your cock for some time, you pull out and yank Ana to the floor."
+    "{i}Después de que su culo ha complacido tu polla por un tiempo,... te retiras y tiras a Ana al suelo."
+
+# game/day23.rpy:1354
+translate spanish day23_a_sex_a78f7be5:
+
+    # p "Now, taste that asshole."
+    p "Ahora, probar a ese culo."
+
+# game/day23.rpy:1355
+translate spanish day23_a_sex_b5cfb8e5_1:
+
+    # a "Mmmm, yes!"
+    a "Mmmm, sí!"
+
+# game/day23.rpy:1357
+translate spanish day23_a_sex_952732c4:
+
+    # "{i}With two hands you push her head on your cock and force her to deepthroat you. She gasps and gags and streams of clear mucus flow down her chest."
+    "{i}Con dos manos empujas su cabeza sobre tu polla y la obligas a que se la meta profundamente. Ella jadea, tiene arcadas y chorros de mucosidad transparente fluyen por su pecho."
+
+# game/day23.rpy:1366
+translate spanish day23_a_sex_95a7ba83:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt again without pause."
+    "{i}Cuando sientes que tu orgasmo se acerca, la pones en tu regazo y empujas tu polla sobre su culo de nuevo sin pausa."
+
+# game/day23.rpy:1368
+translate spanish day23_a_sex_b96ef1b0:
+
+    # "{i}As you feel your orgasm nearing, you pull her on your lap and push your cock up her butt without warning."
+    "{i}Cuando sientes que tu orgasmo se acerca, la pones en tu regazo y empujas tu polla por su culo sin previo aviso."
+
+# game/day23.rpy:1369
+translate spanish day23_a_sex_1b36fb18:
+
+    # a "Fffffffuuuck!"
+    a "Joooderrrrrr!"
+
+# game/day23.rpy:1372
+translate spanish day23_a_sex_2d0a9716:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight asshole."
+    "{i}Después de una breve y furiosa serie de empujes, explotas dentro de su apretado culo."
+
+# game/day23.rpy:1373
+translate spanish day23_a_sex_2940da42:
+
+    # p "Ggggoood yyyes!!!"
+    p "Bbbiiennn ssiiii!!!"
+
+# game/day23.rpy:1374
+translate spanish day23_a_sex_ef760fa4:
+
+    # a "Fuck me! Fuck me!"
+    a "¡Fóllame! ¡Fóllame!"
+
+# game/day23.rpy:1375
+translate spanish day23_a_sex_ca4a9073:
+
+    # "{i}Your orgasm is lengthened by the stimulation of her anus. You keep fucking her until you've shot the last drops of cum inside her, and sperm starts leaking from her asshole."
+    "{i}Tu orgasmo se alarga por la estimulación de su ano Sigues follándola hasta que has disparado las últimas gotas de semen dentro de ella y el esperma comienza a gotear de su culo"
+
+# game/day23.rpy:1392
+translate spanish day23_a_sex_5d54a7c3:
+
+    # "{i}As you feel your orgasm nearing, you lie down and pull her onto your cock. She starts riding you without pause."
+    "{i}Cuando sientes que tu orgasmo se acerca, te acuestas y la pones sobre tu polla. Ella comienza a montarte sin pausa."
+
+# game/day23.rpy:1398
+translate spanish day23_a_sex_19a23146:
+
+    # "{i}After a short, furious series of thrusts you explode inside her tight pussy."
+    "{i}Después de una breve y furiosa serie de empujes, explotas dentro de su apretado coño."
+
+# game/day23.rpy:1399
+translate spanish day23_a_sex_2940da42_1:
+
+    # p "Ggggoood yyyes!!!"
+    p "Bbbiiennn ssiiii!!!"
+
+# game/day23.rpy:1400
+translate spanish day23_a_sex_ef760fa4_1:
+
+    # a "Fuck me! Fuck me!"
+    a "¡Fóllame! ¡Fóllame!"
+
+# game/day23.rpy:1401
+translate spanish day23_a_sex_852eaff1:
+
+    # "{i}You hold her on top of your cock until you've shot the last drops of cum inside her, and sperm starts leaking from her wet slit."
+    "{i}La mantienes encima de tu polla hasta que hayas disparado las últimas gotas de semen dentro de ella y el esperma empiece a gotear de su húmeda raja"
+
+# game/day23.rpy:1412
+translate spanish day23_a_sex_4c289ca0:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Sonidos húmedos emergen de su boca mientras follas su garganta. Sus ojos llorosos te miran con delirante placer."
+
+# game/day23.rpy:1419
+translate spanish day23_a_sex_42b39c9b:
+
+    # "{i}After a short, furious series of thrusts you pull out and your cock starts spurting cum as it slaps against her face."
+    "{i}Después de una corta y furiosa serie de empujones, sacas y tu polla y comienza a chorrear semen mientras golpea su cara."
+
+# game/day23.rpy:1420
+translate spanish day23_a_sex_2940da42_2:
+
+    # p "Ggggoood yyyes!!!"
+    p "Bbbiiennn ssiiii!!!"
+
+# game/day23.rpy:1421
+translate spanish day23_a_sex_24942dab:
+
+    # a "Yes! Give it to me!"
+    a "¡Sí! ¡Dámelo!"
+
+# game/day23.rpy:1422
+translate spanish day23_a_sex_138cef31:
+
+    # "{i}Her face is soon covered in sperm which she licks eagerly from the corners of her mouth."
+    "{i}Su rostro pronto está cubierto de semen que lame con entusiasmo por las comisuras de sus labios."
+
+# game/day23.rpy:1432
+translate spanish day23_a_sex_4c289ca0_1:
+
+    # "{i}Wet sounds emerge from her mouth as you fuck her throat. Her teary eyes look up at you in delirious pleasure."
+    "{i}Sonidos húmedos emergen de su boca mientras follas su garganta. Sus ojos llorosos te miran con delirante placer."
+
+# game/day23.rpy:1440
+translate spanish day23_a_sex_c19d4916:
+
+    # "{i}After a short, furious series of thrusts you pull out and push Ana to the floor. Your cock starts spurting cum all over her breasts and belly."
+    "{i}Después de una corta y furiosa serie de empujones, la sacas y empujas a Ana al suelo. Tu polla empieza a chorrear semen por todos sus pechos y vientre."
+
+# game/day23.rpy:1441
+translate spanish day23_a_sex_2940da42_3:
+
+    # p "Ggggoood yyyes!!!"
+    p "Bbbiiennn ssiiii!!!"
+
+# game/day23.rpy:1442
+translate spanish day23_a_sex_24942dab_1:
+
+    # a "Yes! Give it to me!"
+    a "¡Sí! ¡Dámelo!"
+
+# game/day23.rpy:1443
+translate spanish day23_a_sex_a2f760d7:
+
+    # "{i}Ana fingers herself by rubbing your cum in her pussy. You make sure her body is covered in every last drop of sperm."
+    "{i}Ana se mete los dedos en el coño frotando tu semen. Te aseguras de que su cuerpo esté cubierto hasta la última gota de esperma."
+
+# game/day23.rpy:1453
+translate spanish day23_a_sex_c0efc865:
+
+    # "{i}The girl cleans herself up and leans against the screen where the actress has just received a load in her mouth."
+    "{i}La chica se limpia y se apoya contra la pantalla donde la actriz acaba de recibir una carga en la boca."
+
+# game/day23.rpy:1455
+translate spanish day23_a_sex_5f8a9f7f:
+
+    # a "Damn. You really know how to make a girl feel good, don't you?"
+    a "Maldición. Realmente sabes cómo hacer que una chica se sienta bien, ¿no?"
+
+# game/day23.rpy:1456
+translate spanish day23_a_sex_6392c82d:
+
+    # p "Thanks. I just really like shopping with you."
+    p "Gracias. Realmente me gusta comprar contigo."
+
+# game/day23.rpy:1457
+translate spanish day23_a_sex_5c0fe433:
+
+    # a "I noticed!"
+    a "Ya me di cuenta!"
+
+# game/day23.rpy:1459
+translate spanish day23_a_sex_7b69eb56:
+
+    # "{i}You both get dressed and leave the video booth. The girl at the counter is looking at you with a weird look on her face."
+    "{i}Ambos se visten y dejan el probador de video. La chica del mostrador te está mirando con una mirada extraña en su cara."
+
+# game/day23.rpy:1460
+translate spanish day23_a_sex_ea334a88:
+
+    # woman "So I take it you enjoyed it back there?"
+    woman "Entonces ¿supongo que lo han disfrutado?"
+
+# game/day23.rpy:1461
+translate spanish day23_a_sex_432c5b8c:
+
+    # p "It was very stimulating."
+    p "Fue muy estimulante."
+
+# game/day23.rpy:1462
+translate spanish day23_a_sex_905c2fee:
+
+    # a "Yeah, great movie."
+    a "Sí, una gran película."
+
